@@ -1,67 +1,135 @@
-> *The following text is extracted and transformed from the technewscentral.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120222428id_/http%3A//www.technewscentral.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technewscentral.co.uk privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602035928id_/http%3A//www.technewscentral.co.uk/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - TNC
+# technewscentral.co.uk | Privacy Policy
 
-This Privacy Policy governs the manner in which Tech News Central collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.technewscentral.co/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Tech News Central.
+**What information do we collect?**
 
-**Personal identification information**
+We collect information from you when you register on our site or subscribe to our newsletter. 
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-**Non-personal identification information**
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+ **DoubleClick DART Cookie**
 
-**Web browser cookies**
+.:: Google, as a third party vendor, uses cookies to serve ads on technewscentral.co.uk.  
+.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to technewscentral.co.uk and other sites on the Internet.   
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://google.com/privacy_ads.html 
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
+Google Adsense   
+Commission Junction   
+Widget Bucks   
+Adbrite   
+Clickbank   
+Epic / Azoogle   
+Chitika   
+Linkshare   
+Amazon   
+Kontera   
+Advertising.com   
+CPAStorm   
+Burst   
+Valueclick   
+InfoLinks   
+Vibrant Media   
+24/7 Real Media   
+Tribal Fusion   
+Casale   
+Tremor Media   
+Adify   
 
-**How we use collected information**
 
-Tech News Central may collect and use Users personal information for the following purposes:
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on technewscentral.co.uk send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-  * _\- To improve customer service_ Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To personalize user experience_ We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_ We may use feedback you provide to improve our products and services.
-  * _\- To run a promotion, contest, survey or other Site feature_ To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _\- To send periodic emails_ If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
+technewscentral.co.uk has no access to or control over these cookies that are used by third-party advertisers. 
 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. technewscentral.co.uk's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
-**How we protect your information**
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-**Sharing your personal information**
+**What do we use your information for?**
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+Any of the information we collect from you may be used in one of the following ways: 
 
-**Third party websites**
+\- To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+\- To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-**Advertising**
+\- To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+\- To process transactions
 
-**Google Adsense**
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+\- To administer a contest, promotion, survey or other site feature
 
-**Changes to this privacy policy**
+\- To share with our third party marketing partners so they may send you offers for goods and services which you may find of interest
 
-Tech News Central has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+\- To send periodic emails
 
-**Your acceptance of these terms**
+> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, advertisements etc. The email address you provide to subscribe to a newsletter, receive information or enter to win a prize may be used to send you information and updates, relevant content and advertisements.
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://www.technewscentral.co/terms-of-service/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-**Contacting us**
+ **How do we protect your information?**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
 
-[Tech News Central](http://www.technewscentral.co/)
+**Do we use cookies?**
 
-<http://www.technewscentral.co/>
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-This document was last updated on October 09, 2012
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
+
+ **Do we disclose any information to outside parties?**
+
+Other than described in this privacy policy, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, third party marketers, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+ **California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+ **Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+ **Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page. 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy or you wish to unsubscribe from our site and services you may contact us using the information below or by writing to us at:
+
+2885 Sanford Ave  
+SW #19781  
+Grandville, MI 49418  
+USA 
+
+technewscentral.co.uk 
+
+Email:  
+contact@technewscentral.co.uk  
+
