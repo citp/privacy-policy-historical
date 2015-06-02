@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wallconvert.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703052854id_/http%3A//www.wallconvert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallconvert.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602182521id_/http%3A//www.wallconvert.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-wallconvert.com respects the privacy of the visitors to this web site and any co-branded, mirrored, or successor sites (the "Website") and are committed to protecting their privacy. wallconvert.com has established this Privacy Policy Statement to inform you of our policies and practices regarding how we collect personal identifiable information from you, how we use and disclose it, and your rights with respect to such information. By using this Website, you acknowledge and agree to the terms and conditions of this wallconvert.com Privacy Policy Statement ("Privacy Policy"). If you do not agree to these terms and conditions, please do not use this Website.
+Wallconvert.com respects the privacy of the visitors to this web site and any co-branded, mirrored, or successor sites (the "Website") and are committed to protecting their privacy. wallconvert.com has established this Privacy Policy Statement to inform you of our policies and practices regarding how we collect personal identifiable information from you, how we use and disclose it, and your rights with respect to such information. By using this Website, you acknowledge and agree to the terms and conditions of this wallconvert.com Privacy Policy Statement ("Privacy Policy"). If you do not agree to these terms and conditions, please do not use this Website.
 
 We reserve the right to change or modify our privacy practices that are described herein from time to time simply by posting a revised Privacy Policy on this Website. Any such change shall be effective immediately upon posting of the revised Privacy Policy on this Website. We reserve the right to make the revised or changed Privacy Policy effective for information we already have about you, as well as any information we receive in the future. We encourage you to refer to this Privacy Policy on an ongoing basis so that you understand our current privacy practices.
 
@@ -104,7 +104,7 @@ We want to communicate with you only if you want to hear from us.
 
 To modify or delete any or all of the personal information you have provided to us, please login and update your profile.
 
-You may unsubscribe from receiving emails, and other correspondence from us including, but not limited to, faxes and U.S. postal service mail, at any time by using the unsubscribe link, or by contacting us using the information, included at the bottom of each email communication.
+You may unsubscribe from receiving emails, and other correspondence from us at any time by using the unsubscribe link, or by contacting us using the information, included at the bottom of each email communication.
 
 In some limited circumstances, such as to resolve disputes, troubleshoot problems and enforce our Terms of Use Agreement, we may retain in our files information you have requested to remove. Further, your personal information is never completely removed from our databases due to technical constraints and the fact that we back up our systems. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests.
 
@@ -112,7 +112,7 @@ We reserve the right to send you certain communications related to this Website 
 
 ## Terms and Conditions of Use
 
-wallconvert.com has a Terms and Conditions of Use Agreement that sets forth the terms and conditions under which we provide products, services and information to you from this Website, and your use of, and access to, this Website. It is your responsibility to read, understand and comply with the terms and conditions set forth therein. That agreement can be found at [wallconvert.com/tos](https://web.archive.org/tos/).
+Wallconvert.com has a Terms and Conditions of Use Agreement that sets forth the terms and conditions under which we provide products, services and information to you from this Website, and your use of, and access to, this Website. It is your responsibility to read, understand and comply with the terms and conditions set forth therein. That agreement can be found at [wallconvert.com/tos](https://web.archive.org/tos/).
 
 ## Questions and Feedback
 
