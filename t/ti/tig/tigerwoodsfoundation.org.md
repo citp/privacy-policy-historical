@@ -1,85 +1,146 @@
-> *The following text is extracted and transformed from the tigerwoodsfoundation.org privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219042216id_/http%3A//web.tigerwoodsfoundation.org/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerwoodsfoundation.org privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602075443id_/http%3A//www.tigerwoodsfoundation.org/about/privacy-policy) for the most accurate reproduction.*
 
-# Website: Privacy Policy | TigerWoodsFoundation.org
+# About: Privacy Policy | Tiger Woods Foundation
 
-PLEASE READ THIS PRIVACY POLICY (THIS "PRIVACY POLICY") CAREFULLY BEFORE USING THIS WEBSITE OR ANY OTHER ETW CORP. PRODUCT OR SERVICE. 
+PLEASE READ THIS PRIVACY POLICY (THIS "PRIVACY POLICY") CAREFULLY BEFORE USING OUR WEBSITE OR ANY OTHER TIGER WOODS FOUNDATION PRODUCT OR SERVICE.
 
-**TABLE OF CONTENTS**  
-1\. General  
-2\. Information Automatically Collected; Cookies; Web Beacons  
-3\. Our Security Practices  
-4\. How You Can Review Your Personal Information  
-5\. Choice  
-6\. Links  
-7\. Special Rules for Children  
-8\. Parental Consent  
-9\. Contact Us; Privacy Administrator  
-10\. Notification of Changes
+Tiger Woods Foundation in association with MLB Advanced Media, L.P. produces and publishes [www.TigerWoodsFoundation.org](http://www.tigerwoodsfoundation.org/), the Official Website of the Tiger Woods Foundation ( this or our "Website")This Privacy Policy is applicable to this Website and describes what information we collect, how we may use that information and the choices we offer for you to manage the information we collect related to your use of this Website.
 
-**General**
+**TABLE OF CONTENTS**
 
-Tiger Woods Foundation in association with MLB Advanced Media, L.P. produces www.TigerWoodsFoundation.org, the Official Website of the Tiger Woods Foundation (this "Website"). We are committed to safeguarding your privacy online. This Privacy Policy is applicable to this Website. 
+  1. Personal Information Collected Via This Website
+  2. How We Use and Share Your Personal Information
+  3. Other Information Collected And Shared Within This Website
+  4. Other Circumstances When Your Data May Be Shared
+  5. Managing Your Information
+  6. Other Information
 
-You can visit and enjoy this Website without disclosing any personal information about yourself. However, we offer some special services, and for these services to work properly we will need you to share with us certain personal information about yourself. The personal information we collect may include, but is not limited to, full name, street address, e-mail address, telephone number(s) (e.g., home, work, mobile and/or fax) and birth date. We may also collect other personal information that will be identified on applicable page(s) of this Website. If you submit any personal information to us, or to any third-party service providers acting on our behalf, you can be assured that we will not sell, lease, or share your personal information with or to anyone else, except as follows: (1) to those third-party service providers, and only so that they may help us provide services you've requested and in certain circumstances to provide you with ticket related offers; (2) upon notice posted on an applicable location of this Website where we collect your personal information for an economic transaction and notify you that we will be sharing such information with a third party, where such third party is clearly identified; and (3) on occasion, we may offer a special promotion (such as a sweepstakes, contest, fantasy game or free subscription to goods and/or services) on this Website in conjunction with a third-party service provider, sponsor, or promotional partner, and share your information with that service provider, sponsor, or promotional partner so that it can send you other special promotions it offers, but only if you give us permission to do so. 
 
-_Special Offers and Promotions._ With your permission, we may also send you e-mails with special offers and promotions. If you don't want to receive these, you may change your preferences by accessing the " Newsletters Preferences" section within your Website account. 
 
-**Information Automatically Collected; Cookies; Web Beacons**
+**1\. Personal Information Collected Via This Website** ****
 
-We may use automatic methods such as cookies (small amounts of data, which often include an anonymous unique identifier that is sent to your browser from a Website's computers and stored on your computer's hard drive), single-pixel GIF images ("web beacons") or similar technologies, alone or in combination with personally identifiable information you choose to provide us, to make this Website work better, to understand Website usage and trends, to deliver a more personalized experience and to improve the content and offerings of this Website. Examples of the information we collect and analyze using such methods include, without limitation, the Internet protocol (IP) address used to connect your computer to the Internet; e-mail address; login name and password; operating system type, version and computer platform; purchase history, which we may aggregate with similar information from other customers; the full Uniform Resource Locator (URL) clickstream to, on, and from this Website, including date and time; cookie information; and products you viewed or searched for. We may also use software tools to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs) and methods used to browse away from the page. 
+**Information You Provide.** You may visit and enjoy many elements of our Website without disclosing any personal information about yourself. However, to make use of select, special or enhanced elements of this Website, you will need to share with us certain personal information so those elements may function properly. When you use certain enhanced elements within our Website (e.g., create a profile, register for newsletter list, or make a donation), the personal information we collect may include, but is not limited to:
 
-We may also use cookies to enable you to use a "shopping cart" if you want to purchase goods or services while on this Website, and to offer you products, programs, or services based on purchase and Website usage behavior that you and/or other customers have exhibited. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to accept or reject cookies. If you set your browser not to accept cookies, you may not be able to take advantage of certain services on this Website. 
+  * Full name,
+  * Email address,
+  * Password,
+  * Street address,
+  * Telephone number(s),
+  * Birth date,
+  * Payment card information,
+  * Location data,
+  * Contacts (as stored in your wireless device),
+  * Other personal data as detailed in this Privacy Policy and data that may be requested from and provided by you.
 
-We do not transfer cookies associated with this Website to any other company, nor do we authorize any other company to access the cookies we have placed on your computer's hard drive. We may allow other companies that are presenting advertisements or providing services on the pages of this Website to set and access cookies on your computer and/or web beacons or similar technologies on certain of those pages and/or certain emails sent by us. 
 
-Many advertisements are managed and placed on this Website by third parties. These companies are called "network advertisers." Network advertisers who place advertisements on this Website may use cookies and Web beacons to collect non-personally identifiable information about your visits to this Website and other Websites in order to provide advertisements about goods and services of interest to you. If you would like to obtain more information about this common industry practice of network advertisers and to make choices about their use of your information, please [click here](http://www.networkadvertising.org/managing/opt_out.asp#). 
 
-We do not install any spyware or adware in connection with this Website, or distribute any commercial message, or authorize any third party to distribute any commercial message, by means of spyware or adware. "Spyware" or "adware" is any software which has been downloaded to and/or installed on an Internet user's computer, without the user's actual consent, and facilitates the distribution of any commercial message to the user. If you feel you may have spyware from another company installed on your machine, there are various anti-spyware/adware software applications available on the Internet to identify if this has occurred. 
+If we collect such information, in most instances, the applicable page(s) or location(s) within this Website will include statements regarding what information is required for the elements of this Website to function properly and functionality for you to submit the requested or required information. In addition to the list above, there may also be opportunities for you to grant permission for use of other of your information in a manner set forth on the applicable page(s) within this Website. 
 
-_Aggregated Demographic Information._ We may share aggregated demographic information with third parties, but this information is not linked to any personal information that can identify you or another individual person. Therefore, no personal information is disclosed in this manner. 
+**2\. How We Use and Share Your Personal Information** ****
 
-_Business Transfers._ As time passes, MLB Advanced Media, L.P. may be sold along with its assets, or other transactions may occur in which customer information is one of the business assets transferred. In such a case, the customer information which we have gathered may be one of the business assets we transfer. 
+If you submit personal information to us, or to any third party acting on our behalf, we may use and share your information as set forth in this Privacy Policy and as disclosed when you first submit your information. We will not sell, lease, publish or share your personal information with or to anyone else, except as set forth in this Privacy Policy. We may use and share your personal information as described in Section 1 above and we may:
 
-_Disclosure for Legal Purposes._ We may be required to share your personal information and non-personal information pursuant to judicial or governmental subpoenas, warrants, or orders. If we are required to do so, we will, of course, obey the law. In addition, notwithstanding any term to the contrary in this Privacy Policy, we reserve the right to use, disclose, and/or share your personal and non-personal information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of this Website's Terms of Use or as otherwise required by law. 
+  * Use your information to provide services you've requested or provide you with offers, promotions (e.g., a sweepstakes, fantasy game, subscription to goods or services, etc.) or content or add you to our postal mail list;
+  * Share your information with certain third parties, including service providers, sponsors and promotional partners, so they may help us provide services, offers, promotions or content you've requested or otherwise in accordance with the applicable rules of a promotion or terms presented at the time you submit personal information, so the third party can administer the promotion, send you offers or content or add you to their postal mailing list;
+  * Share your information upon notice posted on an applicable location of this Website where we collect your personal information for an economic transaction and notify you that we will be sharing such information with a third party; **or**
+  * Use and share your information with permission from you.
 
-**Our Security Practices**
 
-Your Website account preferences are password protected for your privacy and security. In certain areas, we use industry-standard SSL encryption to protect data transmissions. 
 
-**How You Can Review Your Personal Information**
+**3\. Other Information Collected And Shared Within This Website** ****
 
-If you want to review or revise the personal information you provided during registration on this Website, and whether you want to receive communications from us, you can either (1) [click here to log in](https://web.archive.org/enterworkflow.do?flowId=registration.profile), and then click on the applicable menu option on the left side of the page. If you want to close your account with us and have us delete the personal information in it (except for information that we keep for record-keeping purposes), you should contact TigerWoodsFoundation.org Customer Service at [twf@website.tigerwoods.com](mailto:twf@website.tigerwoods.com). 
+  * _Our Cookies and Web Beacons_
 
-**Choice**
 
-Our registration and order forms contain a box for you to indicate whether or not you consent to receive special offers and promotions from us and/or our partners. Unless you give us your consent to use your personal information for these purposes, we and our partners will only use it to complete the transaction or provide the service or product you have requested. If you indicate that you consent to receive communications or solicitations, but you later change your mind, you can revise your preferences by accessing the "Newsletter Preferences" section within your Website account. 
 
-**Links**
+We use and permit automatic methods such as cookies (small amounts of data which include a unique string of characters sent to your browser or application from a website's computers and stored on your computer's or device's hard drive), web beacons (technology used to track activity, also known as pixel tags) or similar technologies, alone or in combination with personally identifiable information you choose to provide us. Examples of the information we collect and analyze using such methods include, but is not limited to: personal information as authorized by you, the Internet protocol address used to connect your computer or device to the Internet; email address; login name and password; operating system type, version and computer or device platform; purchase history; the full Uniform Resource Locator clickstream to, on and from this Website, including date and time; and products you viewed or searched. We use software tools to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks and mouse-overs) and methods used to browse away from a page. We use and may allow certain third parties, such as those who provide services associated with this Website, to access these automatic data collection methods to enable you to use a "shopping cart" while using this Website, to store your preferences and to improve, deliver and customize this Websites' content and offerings.
 
-Our Website contains links to other Websites produced by MLB Advanced Media, L.P. and to Websites operated by unrelated third parties. In addition, if you click on an advertisement on this Website, you may be directed to a web page within this Website or to a third- party Website. Please note that we are not responsible for the privacy practices of third-party Websites. We encourage you to be aware of this when your leave this Website and to read the privacy policies of every Website that collects personally identifiable information from you. This Privacy Policy applies only to this Website. 
+  * _Third Party Cookies and Web Beacons; Network Advertisers_
 
-**Special Rules For Children**
 
-Because of federal law, we cannot knowingly collect any personal information from a child under the age of thirteen without the consent of that child's parent. The statements in this Privacy Policy generally about our collection and use of personal information also apply to our treatment of personal information from children under the age of thirteen, with the added protection of the special "Parental Consent" rules that follow. Some services on this Website require the submission of a credit card number along with personal information in connection with a purchase, and are therefore not available to children without their parent's consent. Other services on this Website (e.g., fantasy games) are not available to children under the age of thirteen. If a child who MLB Advanced Media, L.P. knows to be under the age of thirteen attempts to utilize a service on this Website which is not available to children, he/she will receive a message which states "You are not eligible" for the service. 
 
-**Parental Consent**
+We allow select third parties, such as those who deliver advertisements, content, social networking or provide other services associated with this Website, to set cookies, web beacons or similar technologies in certain locations within this Website or certain emails sent by us. Third party companies that manage and deliver advertisements to websites and applications such as ours are commonly referred to as "network advertisers." A permitted network advertiser may use cookies, web beacons or similar technologies to collect information about your interaction with this Website in order to tailor certain advertisements and content delivered within this Website and on other websites within such network advertiser's ad network. You may elect to opt out of targeted behavioral advertising from many major third party network advertisers by [clicking here](http://www.aboutads.info/choices/). If you would like to obtain more information about common industry practices of network advertisers or make choices about their use of your information or find additional opt-out tools operated by advertising industry associations encompassing even more network advertisers, please [click here](http://www.aboutads.info/).
 
-Parents who are interested in services that are available to children under the age of thirteen should contact this Website's [Privacy Administrator](mailto:twf@website.tigerwoods.com) for a consent form. The consent form will include a notice describing this Privacy Policy and will ask for the parent's consent to our collection and use of personal information from or about their child. If the consent form is not completed by the parent and not returned to this Website's Privacy Administrator, the child will not be able to access those activities requiring registration and we will not collect any personal information from that child. A child's parent has the option to consent to our collection and use of their child's personal information without consenting to the disclosure of that information to third parties, but if such disclosure is necessary to make available a service which has been requested, then the child will not have access to such service. 
+  * _Social Networking_
 
-_Information Collected._ Depending on the special service requested, personal information collected may include a full name, email address, street address, or age of a child. We will not condition a child's participation in any activity on this Website on the child's disclosing more information than is reasonably necessary to participate in that activity. 
 
-If a parent has consented to our collection of personal information about his/her child, the parent can review his/her child's personal information by accessing the child's Website account. A parent can instruct us to delete the child's personal information or to stop collecting or using the child's personal information by contacting the [Privacy Administrator](mailto:twf@website.tigerwoods.com?subject=Privacy). 
 
-_Information Use._ We may use the personal information we collect to provide the child with the special services for which he or she has registered, as well as for fulfilling a requested transaction, record keeping, or marketing back to the child. Please note that when anyone, including a child, uses a message board or chat room on this Website, the communications are publicly available to the other participants. 
+When using this Website or when using certain third party social networking services (e.g., Facebook, Twitter, Google +) (each and collectively, a "Social Network"), you may have the option to connect your Website information and activity with your Social Network information and activity. If you authorize such a connection, you permit us to share or publish information about your activity on this Website, with that Social Network and its users, and to access certain of your Social Network information, as disclosed by you at the time you consent to the connection. Information we may share with a Social Network may include, but is not limited to: technical information about your Website activity, your Website comments or the videos you watch on this Website. Information we may access about you, with your consent, from a Social Network may include, but is not limited to, your basic Social Network information, your location data, your list of contacts, friends or followers, and certain of your activities on the Social Network. If you permit a connection between a Social Network and this Website, we (and that Social Network) may be able to identify you and to associate information received pursuant to the connection with information we already have about you. We recommend that you familiarize yourself with the privacy policy and privacy control options of any Social Network with which you choose to share information or connect to this Website.
 
-_Information Disclosure._ After obtaining the consent of the child's parent, we, our service providers, and Tiger Woods Foundation, will maintain the confidentiality, security, and integrity of the personal information collected about the child. A child's information will only be disclosed to our third-party service providers and the Tiger Woods Foundation as described in this Privacy Policy. The following third-party service provider may collect or maintain personal information from children under thirteen on our behalf: Pluck (message boards). This third-party service provider cannot use your child's personal information without your consent for any purpose other than the service you've requested on behalf of your child. 
+**4\. Other Circumstances When Your Data May Be Shared**
 
-**Contact Us; Privacy Administrator**
+  * _Aggregated Demographic Information._
 
-If you have questions or concerns about this Privacy Policy, you can contact us at: [twf@website.tigerwoods.com](mailto:twf@website.tigerwoods.com?subject=Privacy). 
 
-**Notification of Changes**
 
-If we make an important change to this Privacy Policy, we will post a notification and link on the homepage of this Website so that you can review the updated policy. 
+We may share aggregated demographic information with third parties. This information is not linked to personal information that can identify you or another individual person.
 
-**LAST UPDATED AND EFFECTIVE DATE: February 1, 2010**
+  * _Business Transfers._
+
+
+
+As time passes, Tiger Woods Foundation and/or MLB Advanced Media, L.P. may be sold along with its assets, or other corporate transactions may occur. In such a case, our customer information may be one of the business assets we transfer.
+
+  * _Disclosure for Legal Purposes._
+
+
+
+We may be required to share your personal and non-personal information pursuant to judicial or governmental subpoenas, warrants or orders. If we are required to do so, we will, of course, obey the law. In addition, notwithstanding any term to the contrary in this Privacy Policy, we reserve the right to use, disclose or share your personal and non-personal information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of Terms of Use of this Website or as required by law.
+
+**5\. Managing Your Information**
+
+You may choose and control what information you provide about yourself and certain information which is automatically collected via this Website. If you do not wish to provide certain information necessary for enhanced functionality or content on this Website, please do not use such functionality or content. If you have registered for an account through this Website, you may review and revise certain of your account information by [clicking here](https://secure.mlb.com/enterworkflow.do?flowId=registration.ajax.wizard&c_id=mlb) to log in, and then navigating the left-hand menu options. You may modify your subscriptions to our various promotional email communications and newsletters by accessing the "Profile" section within your Website account.
+
+If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows a user to accept or reject most cookies. Certain cookies that are set when some video products are accessed on our Website, called local shared objects or Flash cookies, may not be managed using the settings in your web browser. Information on managing, accepting and rejecting these cookies is available from Adobe on the [Adobe website](http://www.adobe.com/). If you set your browser or Adobe Flash options _not_ to accept cookies or local shared objects, you may not be able to take advantage of certain elements of this Website.
+
+If you want to review or revise the personal information you provided during registration or in connection with a purchase or other activity while using this Website, or change the promotional email communications or newsletters you receive from us and/or our partners, you may click [here](https://www.tigerwoodsfoundation.org/enterworkflow.do?flowId=account.login) to log in, and then click on the applicable left-hand menu option. If you want to close your Website account and have us delete the personal information in it (except for information that we keep for record-keeping purposes), you should call TigerWoodsFoundation.org Customer Service at [twf@website.tigerwoods.com](mailto:twf@website.tigerwoods.com).
+
+Remember that when you share information publicly online, it may be indexable by search engines or recorded by others, and any search engine index or record of your information may persist after you delete the information at the original source.
+
+**6\. Other Information**
+
+Our Website contains links to other Websites produced by MLB Advanced Media, L.P. and to Websites operated by unrelated third parties. In addition, if you click on an advertisement on this Website, you may be directed to a web page within this Website or to a third- party Website. Please note that we are not responsible for the privacy practices of third-party Websites. We encourage you to be aware of this when your leave this Website and to read the privacy policies of every Website that collects personally identifiable information from you. This Privacy Policy applies only to this Website.
+
+  * _No Spyware or Adware._
+
+
+
+We do not install any spyware or adware in connection with this Website, or distribute any commercial message, or authorize any third party to distribute any commercial message, by means of spyware or adware. "Spyware" or "adware" is any software which has been downloaded to or installed on an Internet user's computer or device, without the user's actual consent, and facilitates the distribution of any commercial message to the user. If you feel you may have spyware from another company installed on your machine, there are various anti-spyware/adware software applications available on the Internet to identify if this has occurred.
+
+  * _Our Security Practices._
+
+
+
+The account information associated with this Website is password protected for your privacy and security. You choose your password for any of our Services so the strength of that password is determined by you. We recommend that you choose a unique password and not share your password with anyone else. In certain areas, we use industry-standard SSL encryption to protect data transmissions.
+
+  * _Links._
+
+
+
+This Website contains links to other websites and products produced by MLB Advanced Media, L.P. and to websites and products operated by unrelated third parties. In addition, if you click on an advertisement within this Website, you may be directed to a web page within this Website or to a third party website or product. We are not responsible for the privacy practices of third party websites or products, and we encourage you to read the privacy policies of every website and product that collects personally identifiable information from you. This Privacy Policy applies only to this Website, unless you are notified otherwise upon accessing any third party website or product, in which case the terms and conditions set forth in such notification will apply.
+
+  * _Your California Privacy Rights._
+
+
+
+If you are a resident of California, pursuant to California Civil Code Section 1798.83, you may request information regarding our disclosure of your personal information to a third party for that party's direct marketing purposes. Any such disclosure made to a third party by us would be otherwise in accordance with the terms of this Privacy Policy. To make such a request please send an email to [privacy@website.mlb.com](mailto:privacy@website.mlb.com) or write to us at: MLB Advanced Media, L.P., Privacy Administrator, 75 Ninth Avenue, New York, New York 10011.
+
+  * _Special Rules For Children._
+
+
+
+Because of federal law, we are not permitted to knowingly collect any personal information from a child under the age of thirteen without the consent of that child's parent or guardian. The statements in this Privacy Policy about our collection and use of personal information also apply to our treatment of personal information from children under the age of thirteen. Some elements of this Website (e.g., store) require the submission of a payment card number along with personal information in connection with a purchase; other elements of this Website (e.g., fantasy games) require the submission of personal information to access or use this Website. Except in certain cases where limited contact information may be collected and not retained, these elements of this Website are available to children under the age of thirteen. If a child who we know to be under the age of thirteen and for whom we have not received parental consent attempts to utilize a service on this Website which is not available to children, he/she will not be able to access it and may receive a message which relays that he/she is not eligible for such feature.
+
+  * _Contact Us Regarding Privacy._
+
+
+
+If you have questions or concerns about this Privacy Policy, you can contact us at: [twf@website.tigerwoods.com](mailto:twf@website.tigerwoods.com).
+
+  * _Notification of Changes._
+
+
+
+If we make an important change to this Privacy Policy, we will post a notification and link on this Website's homepage so that you may review the updated policy.
+
+**LAST UPDATED AND EFFECTIVE DATE: February 19, 2015**
