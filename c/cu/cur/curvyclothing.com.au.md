@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the curvyclothing.com.au privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220195316id_/http%3A//www.curvyclothing.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curvyclothing.com.au privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602052536id_/http%3A//www.curvyclothing.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy & Return Policy | Curvy Clothing
 
 Privacy Policy  
 Privacy Statement for CurvyClothing.com.au CurvyClothing.com.au has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.curvyclothing.com.au
