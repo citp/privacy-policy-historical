@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyris.net privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218211033id_/http%3A//lyris.com/us-en/privacy-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyris.net privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602070516id_/http%3A//lyris.com/us-en/privacy-policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
