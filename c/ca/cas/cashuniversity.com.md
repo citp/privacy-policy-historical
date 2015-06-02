@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashuniversity.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219184654id_/http%3A//www.cashuniversity.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashuniversity.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603000809id_/http%3A//www.cashuniversity.com/privacy.php) for the most accurate reproduction.*
 
 # Cash University Affiliate Network and CPA Network
 
