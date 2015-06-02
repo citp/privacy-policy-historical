@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shink.in privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122201836id_/http%3A//shink.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shink.in privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602162521id_/https%3A//shink.in/privacy) for the most accurate reproduction.*
 
-# Shink.in - The url shortener service
+# Earn money on short links. Make short links and earn the biggest money - Shink.in
 
 **We use cookies to ensure that we give you the best experience on our website. We also use cookies to ensure we show you advertising that is relevant to you. If you continue, we'll assume that you are happy to receive all cookies.[ More info](https://web.archive.org/cookie)** [×]()
 
