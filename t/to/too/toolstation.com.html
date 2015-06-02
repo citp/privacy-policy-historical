@@ -1,0 +1,512 @@
+<!--The following is the downloaded HTML source of the toolstation.com privacy policy that was archived on 2015-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150602034814id_/http%3A//www.toolstation.com/messages/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" prefix="og: http://ogp.me/ns#" class="no-js"><!--<![endif]--><head>
+		<meta charset="utf-8">
+<meta property="og:site_name" content="Toolstation">
+<meta property="og:title" content="Policies - Toolstation">
+<title>Policies - Toolstation</title>
+<meta property="og:type" content="article">
+		<meta name="viewport" content="width=1010,maximum-scale=1.0">
+		<link rel="stylesheet" href="http://www.toolstation.com/assets/v1/core/TSUK20150529/css/style.css">
+		<link rel="shortcut icon" href="http://www.toolstation.com/assets/v1/core/TSUK20150529/img/favicon.ico">
+		<script type="text/javascript" async="" src="https://tracker.marinsm.com/tracker/async/idk9icd7z0.js"></script><script src="http://www.toolstation.com/assets/v1/core/TSUK20150529/js/vendor/modernizr-2.6.2.min.js"></script>
+		<meta property="fb:app_id" content="255004934689563">
+	<script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script></head>
+	<body class="content tsuk_en">
+<script type="text/javascript">
+Tracker = {
+    track: function () {
+    	var dlItems = ['saleValue','postcode'],
+    		hasDlItems = false,
+			isNewSession = false,
+			cookies = document.cookie.split(";"),
+			firstVisitCookieEq = "__adal_first_visit=",
+			sessionStartCookieEq = "__adal_session_start=",
+			lastVisitCookieEq = "__adal_last_visit=",
+			firstVisit = 0,
+			sessionStart = 0,
+			lastVisit = 0,
+			now = +new Date;
+    	
+    	if (/googlebot|mediapartners-google|adsbot-google|slurp|bingbot|adidxbot|msnbot|bingpreview|baiduspider/i.test(navigator.userAgent)) {
+    		return;
+    	}
+    	
+    	for(var i = 0; i < cookies.length; i++) {
+			var c = cookies[i];
+			while (c.charAt(0)==' ') c = c.substring(1,c.length);
+			if (c.indexOf(firstVisitCookieEq) == 0) { firstVisit = parseInt(c.substring(firstVisitCookieEq.length,c.length), 10); }
+			else if (c.indexOf(sessionStartCookieEq) == 0) { sessionStart = parseInt(c.substring(sessionStartCookieEq.length,c.length), 10); }
+			else if (c.indexOf(lastVisitCookieEq) == 0) { lastVisit = parseInt(c.substring(lastVisitCookieEq.length,c.length), 10); }
+		}
+		
+		if(lastVisit == 0 || lastVisit > now || now - lastVisit > 1000 * 60 * 30) {
+			lastVisit = now;
+			isNewSession = true;
+		}
+		
+		if(isNewSession || sessionStart == 0 || sessionStart > lastVisit) {
+			sessionStart = lastVisit;
+		}
+		
+		if(firstVisit == 0 || firstVisit > sessionStart) {
+			firstVisit = sessionStart;
+		}
+		
+		document.cookie = firstVisitCookieEq + firstVisit + "; expires=" + new Date(now+1000*60*60*24*365).toGMTString() + "; path=/";
+		document.cookie = sessionStartCookieEq + sessionStart + "; expires=" + new Date(now+1000*60*60*24).toGMTString() + "; path=/";
+		document.cookie = lastVisitCookieEq + now + "; expires=" + new Date(now+1000*60*60*24).toGMTString() + "; path=/";
+    	
+    	if(typeof dataLayer != "undefined" && dataLayer.length > 0) {
+			for(var i = 0; i < dlItems.length; i++) {
+				if(typeof dataLayer[0][dlItems[i]] != "undefined") {
+					hasDlItems = true;
+					break;
+				}
+			}
+		}
+		
+		if(!hasDlItems && !isNewSession) {
+			return;
+		}
+		
+        var params = [];
+        params.push(encodeURIComponent("referrer") + "=" +
+            encodeURIComponent(document.referrer));
+        params.push(encodeURIComponent("userAgent") + "=" +
+            encodeURIComponent(navigator.userAgent));
+        params.push(encodeURIComponent("domain") + "=" +
+            encodeURIComponent(document.domain));
+        params.push(encodeURIComponent("url") + "=" +
+            encodeURIComponent(document.location.href));
+		params.push(encodeURIComponent("firstVisit") + "=" +
+            encodeURIComponent(firstVisit));
+		params.push(encodeURIComponent("sessionStart") + "=" +
+            encodeURIComponent(sessionStart));
+        
+        if(typeof dataLayer != "undefined" && dataLayer.length > 0) {
+			for(var i = 0; i < dlItems.length; i++) {
+				var itemName = dlItems[i];
+				if(typeof dataLayer[0][itemName] != "undefined") {
+					params.push(encodeURIComponent(itemName) + "=" + 
+						encodeURIComponent(dataLayer[0][itemName]));
+				}
+			}
+		}
+		        
+       var url = ('https:' == document.location.protocol ? 'https://tracking.adalyser.com?' :
+            'http://tracking.adalyser.com?') + params.join('&') + '&rnd=' +
+            Math.floor(Math.random() * 10e12);
+        try {
+            if (navigator.appName == 'Microsoft Internet Explorer' && navigator.userAgent.indexOf("MSIE 8") != -1) {
+                var request = new XDomainRequest();
+            } else {
+                var request = new XMLHttpRequest();
+            }
+            request.open("GET", url, true);
+            request.send();
+            setTimeout(function () {
+                    if (request.readyState < 4) {
+                        request.abort();
+                    }
+                },
+                3000);
+        } catch (err) {
+            var at = document.createElement('script');
+            at.type = 'text/javascript';
+            at.async = true;
+            at.src = url;
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(at, s);
+        }
+    }
+};
+Tracker.track();
+// Marin Tracking
+var _mTrack = _mTrack || [];
+_mTrack.push(["activateAnonymizeIp"]);
+_mTrack.push(["trackPage"]);
+(function() {
+var mClientId = "idk9icd7z0";
+var mProto = ("https:" == document.location.protocol ? "https://" : "http://");
+var mHost = "tracker.marinsm.com";
+var mt = document.createElement("script"); mt.type = "text/javascript"; mt.async = true; mt.src = mProto + mHost + "/tracker/async/" + mClientId + ".js";
+var fscr = document.getElementsByTagName("script")[0]; fscr.parentNode.insertBefore(mt, fscr);
+})();
+</script>
+		<!--[if lt IE 7]>
+<p class="chromeframe">You are using an <strong>outdated</strong> browser. Please upgrade your browser to improve your experience.</p>		<![endif]-->
+		<div id="outer" class="">
+			<header>
+				<div id="top">
+					<div class="sh">
+						<div class="inner clear">
+							<nav role="navigation">
+									<ul class="l">
+										<li class="branches"><a href="http://www.toolstation.com/branches">Branch Locator</a></li>
+									</ul>
+								<ul class="r">
+									<li class="home"><a href="http://www.toolstation.com/">Home</a></li>
+																		<li><a href="https://www.toolstation.com/checkout" data-widget="tscTracking" data-gaevent="click" data-gaeventlabel="Checkout" data-gaeventcat="Checkout">Checkout</a></li>
+									<li><a href="http://www.toolstation.com/trolley">Trolley <span class="ttxt"></span></a></li>
+											<li class="login"><a href="https://www.toolstation.com/login" data-widget="tscTracking" data-gaevent="click" data-gaeventlabel="Login" data-gaeventcat="Account" id="login">Sign in / Register</a></li>
+									<li class="stickylogo"><a href="http://www.toolstation.com/">Toolstation</a></li>
+								</ul>
+							</nav>
+						</div>
+					</div>
+				</div>
+					<div class="inner">
+						<div id="search">
+							<form method="get" id="search_form" action="http://www.toolstation.com/search">
+								<div class="txt">
+									<input type="text" id="searchstr" name="searchstr" placeholder="Search for products here" autocomplete="off" value="" maxlength="64">
+								</div>
+								<button type="submit"><span class="t">Search<span class="ico arr">&gt;</span></span></button>
+							</form>
+						</div>
+					</div>
+			</header>
+	<div class="inner clear content_privacy">
+		<div id="left">
+					<a href="http://www.toolstation.com" id="logo">Toolstation</a>
+	<nav role="navigation">
+		<div id="nav">
+			<h2>Browse by department</h2>
+			<ul>					<li class="dept_colour_110"><a href="http://www.toolstation.com/shop/Access+%26+Storage/d110" id="dx1">Access &amp; Storage</a></li>
+										<li class="dept_colour_180"><a href="http://www.toolstation.com/shop/Adhesives+%26+Sealants/d180" id="dx2">Adhesives &amp; Sealants</a></li>
+										<li class="dept_colour_60"><a href="http://www.toolstation.com/shop/Automotive/d60" id="dx3">Automotive</a></li>
+										<li class="dept_colour_260"><a href="http://www.toolstation.com/shop/Cleaning+%26+Pest+Control/d260" id="dx4">Cleaning &amp; Pest Control</a></li>
+										<li class="dept_colour_210"><a href="http://www.toolstation.com/shop/Construction+Materials/d210" id="dx5">Construction Materials</a></li>
+										<li class="dept_colour_190"><a href="http://www.toolstation.com/shop/Electrical/d190" id="dx6">Electrical</a></li>
+										<li class="dept_colour_10"><a href="http://www.toolstation.com/shop/Hand+Tools/d10" id="dx7">Hand Tools</a></li>
+										<li class="dept_colour_230"><a href="http://www.toolstation.com/shop/Heating/d230" id="dx8">Heating</a></li>
+										<li class="dept_colour_170"><a href="http://www.toolstation.com/shop/Ironmongery/d170" id="dx9">Ironmongery</a></li>
+										<li class="dept_colour_130"><a href="http://www.toolstation.com/shop/Landscaping/d130" id="dx10">Landscaping</a></li>
+										<li class="dept_colour_220"><a href="http://www.toolstation.com/shop/Lighting/d220" id="dx11">Lighting</a></li>
+										<li class="dept_colour_150"><a href="http://www.toolstation.com/shop/Painting+%26+Decorating/d150" id="dx12">Painting &amp; Decorating</a></li>
+										<li class="dept_colour_20"><a href="http://www.toolstation.com/shop/Plumbing/d20" id="dx13">Plumbing</a></li>
+										<li class="dept_colour_40"><a href="http://www.toolstation.com/shop/Power+Tools/d40" id="dx14">Power Tools</a></li>
+										<li class="dept_colour_80"><a href="http://www.toolstation.com/shop/Power+Tool+Accessories/d80" id="dx15">Power Tool Accessories</a></li>
+										<li class="dept_colour_250"><a href="http://www.toolstation.com/shop/Roofing+%26+Drainage/d250" id="dx16">Roofing &amp; Drainage</a></li>
+										<li class="dept_colour_200"><a href="http://www.toolstation.com/shop/Safety+%26+Security/d200" id="dx17">Safety &amp; Security</a></li>
+										<li class="dept_colour_90"><a href="http://www.toolstation.com/shop/Screws+%26+Fixings/d90" id="dx18">Screws &amp; Fixings</a></li>
+										<li class="dept_colour_240"><a href="http://www.toolstation.com/shop/Taps+%26+Showers/d240" id="dx19">Taps &amp; Showers</a></li>
+										<li class="dept_colour_70"><a href="http://www.toolstation.com/shop/Workwear/d70" id="dx20">Workwear</a></li>
+										<li class="dept_colour_50"><a href="http://www.toolstation.com/shop/Clearance/d50" class="e" id="dx21">Clearance</a></li>
+					</ul>
+		</div>
+	</nav>
+		</div>
+		<div role="main" id="main">
+			<h2>Policies</h2>
+			<div class="inner_content">
+									<div class="sublist clear">
+	<ul>
+		<li><a href="http://www.toolstation.com/messages/terms">Terms of business</a></li>
+		<li><a href="http://www.toolstation.com/messages/privacy" class="current">Privacy &amp; Security</a></li>
+		<li><a href="http://www.toolstation.com/messages/cookies">Cookies</a></li>
+		<li><a href="http://www.toolstation.com/messages/weee">WEEE</a></li>
+	<li><a href="http://www.toolstation.com/messages/bags">Carrier Bags</a></li>
+  </ul>
+</div>
+								<div class="pad10">
+					
+	<h3>Privacy &amp; security policy</h3><p>
+		When you use our website or do business with Toolstation Ltd we gather information from you. This policy explains what we do with
+		your information and what you can expect if you provide us with your personal details.
+	</p>
+	
+	<h5 style="text-align:center">We treat your privacy with the utmost respect.</h5>
+	<p>
+		When you provide us with personal information such as your name, email address contact details or payment details you do so for
+		the purposes of communicating with us. We do not rent or sell this information to other companies.
+	</p>
+	<p>
+		If you request information or place an order with us you are added to our mailing list and may receive information from us on
+		an ongoing basis. If at any time you wish us to stop using or holding information about you simply telephone us free on
+		<a href="tel:+448081007211">0808 100 7211</a> or send us an email to <a href="mailto:info@toolstation.com">info@toolstation.com</a>.
+	</p>
+	<p>
+		Our systems also collect non personal information about what you are looking at and how you are using our business.
+		This information is used to make buying from us easier.
+	</p>
+	<p>
+		The Internet is not secure, however we have put in place various security procedures to make it as secure as possible.
+		All of the forms which gather or display personal information on our site are protected by a mechanism called SSL.
+		Firewalls are used to block unauthorised access to our servers which are themselves located in a secure location.
+	</p>
+	<p>Our stringent internal procedures ensure that your information is kept confidential within Toolstation Ltd.</p>
+	<p>
+		By submitting your information to us and continuing to use our website you consent to the use of that information as
+		set out in this Policy. If we change our Privacy Policy we will post the changes on this page.
+	</p>
+	<p>
+		If you have any comments or queries regarding this policy simply telephone us free on <a href="tel:+448081007211">0808 100 7211</a>
+		or send us an email to <a href="mailto:info@toolstation.com">info@toolstation.com</a>.
+	</p>
+	<p>January 2012</p>
+				</div>
+			</div>
+		</div>
+	</div>
+		<footer>
+				<div id="footer">
+					<div class="inner clearfix">
+						<div class="tool tscwdg" data-widget="randomTool"></div>
+						<ul class="links">
+<style>
+#footer ul.links {
+padding: 19px 0 0 21px;
+width: 610px;
+}
+#footer ul.links li {
+display: block;
+float: left;
+height: 220px;
+}
+#footer ul.links li ul li {
+float: none;
+height: auto;
+}
+</style>
+<li style="margin-right:10px;">
+	Customer Services
+	<ul>
+		<li><a href="http://www.toolstation.com/messages/registration">Registration</a></li>
+		<li><a href="http://www.toolstation.com/messages/buying">Buying from us</a></li>
+		<li><a href="http://www.toolstation.com/messages/payment">Payment</a></li>
+		<li><a href="http://www.toolstation.com/messages/delivery">Delivery</a></li>
+		<li><a href="http://www.toolstation.com/messages/clickAndCollect">Click &amp; Collect</a></li>
+		<li><a href="http://www.toolstation.com/messages/afterSalesSupport">After Sales Support</a></li>
+		<li><a href="http://www.toolstation.com/widgets/feedback">Contact us</a></li>
+		<li><a href="http://www.toolstation.com/messages/faq">FAQ's</a></li>
+		<li><a href="http://www.toolstation.com/sitemap">Site Map</a></li>
+	</ul>
+</li>
+<li style="margin-right:10px;">
+	My Toolstation
+	<ul>
+		<li><a href="https://www.toolstation.com/login">My Account</a></li>
+		<li><a href="http://www.toolstation.com/trolley">Quickshop</a></li>
+		<li><a href="https://www.toolstation.com/catalogue">Request a Catalogue</a></li>
+		<li><a href="?mobile=1">Mobile website</a></li>
+<!-- {LOGOUT}-->
+	</ul>
+</li>
+<li style="margin-right:10px;">
+	Policies
+	<ul>
+		<li><a href="http://www.toolstation.com/messages/terms">Terms of Business</a></li>
+		<li><a href="http://www.toolstation.com/messages/privacy">Privacy &amp; Security</a></li>
+		<li><a href="http://www.toolstation.com/messages/cookies">Cookies</a></li>
+		<li><a href="http://www.toolstation.com/messages/weee">WEEE</a></li>
+	<li><a href="http://www.toolstation.com/messages/bags">Carrier Bags</a></li>
+  </ul>
+</li>
+<li style="margin-right:10px; height:auto;">
+	Company Information
+	<ul>
+		<li><a href="http://www.toolstation.com/messages/aboutus">About Toolstation</a></li>
+		<li><a href="http://www.toolstation.com/messages/news">News</a></li>
+		<li><a href="http://www.toolstation.com/messages/jobs">Working for Toolstation</a></li>
+		<li><a href="http://www.toolstation.com/messages/partners">Our Partners</a></li>
+		<li><a href="http://www.toolstation.com/messages/football">Toolstation Football</a></li>
+	</ul>
+</li>
+						</ul>
+						<div id="locator">
+							<h3>Find a branch near you</h3>
+							<form name="form_locator" id="form_locator" action="http://www.toolstation.com/branches.php" method="get">
+								<div class="txt">
+									<input type="text" name="postcode" id="postcode" placeholder="Enter your postcode here" title="Enter your postcode here" autocomplete="off">
+								</div>
+								<input type="hidden" name="geo" id="geo" value="">
+								<button type="submit"><span class="t">Find<span class="ico arr">&gt;</span></span></button>
+							</form>
+						</div>
+	<style>
+	#footer ul.footer-social {
+		position: absolute;
+		top: 240px;
+		right: -10px;
+	}
+	#footer ul.footer-social li {
+		float: left;
+		width: auto;
+		min-width: 0;
+	}
+	#footer ul.footer-payment {
+		position: absolute;
+		top: 280px;
+		right: -10px;
+	}
+	#footer ul.footer-payment li {
+		float: left;
+		width: auto;
+		min-width: 0;
+	}
+	#footer ul.footer-payment li img {
+		margin: 0 5px 0 5px;
+		padding: 0;
+		border: 0;
+	}
+	#footer ul.footer-payment li:first-child img {
+		margin: 0 5px 0 0;
+	}
+	#footer ul.footer-payment li:last-child img {
+		margin: 0 0 0 5px;
+	}
+	#footer ul.footer-padlock {
+		position: absolute;
+		top: 320px;
+		right: -10px;
+	}
+	</style>
+	<ul class="footer-social">
+		<li><a target="_blank" href="https://www.facebook.com/pages/Toolstation-UK/142865649213549"><img alt="Facebook" src="http://www.toolstation.com/assets/v1/core/TSUK20150529/img/footer_social_facebook.png"></a></li>
+		<li><a target="_blank" href="http://www.youtube.com/user/toolstationltd"><img alt="YouTube" src="http://www.toolstation.com/assets/v1/core/TSUK20150529/img/footer_social_youtube.png"></a></li>
+		<li><a target="_blank" href="https://twitter.com/toolstationuk"><img alt="Twitter" src="http://www.toolstation.com/assets/v1/core/TSUK20150529/img/footer_social_twitter.png"></a></li>
+		<li><a target="_blank" href="https://google.com/+toolstation" rel="publisher"><img alt="Google+" src="http://www.toolstation.com/assets/v1/core/TSUK20150529/img/footer_social_google.png"></a></li>
+		<li><a target="_blank" href="https://www.linkedin.com/company/328232"><img alt="LinkedIn" src="http://www.toolstation.com/assets/v1/core/TSUK20150529/img/footer_social_linked.png"></a></li>
+	</ul>
+	<ul class="footer-payment">
+		<li><img src="http://www.toolstation.com/assets/v1/core/TSUK20150529/img/payment-logo-footer-visa.png" alt="Visa" width="55" height="24"></li>
+		<li><img src="http://www.toolstation.com/assets/v1/core/TSUK20150529/img/payment-logo-footer-paypal.png" alt="PayPal" width="83" height="24"></li>
+		<li><img src="http://www.toolstation.com/assets/v1/core/TSUK20150529/img/payment-logo-footer-mastercard.png" alt="MasterCard" width="38" height="24"></li>
+		<li><img src="http://www.toolstation.com/assets/v1/core/TSUK20150529/img/payment-logo-footer-amex.png" alt="American Express" width="35" height="24"></li>
+	</ul>
+	<ul class="footer-padlock">
+		<li><img src="http://www.toolstation.com/assets/v1/core/TSUK20150529/img/secshop1.png" alt="Shop Securely" width="184" height="24"></li>
+	</ul>
+						<a href="#top" class="toplink">^</a>
+					</div>
+				</div>
+			</footer>
+		</div>
+		<script>
+			var tsc = {"scriptTimeout":5000,"searchurl":"\/\/topcat.aws.toolstation.com\/search_data\/search","morelikethisurl":"\/\/topcat.aws.toolstation.com\/search_data\/mlt","mltnumitems":8,"searchimages":"http:\/\/cdn.toolstation.com\/images\/141020-UK\/100\/","searchimages_ssl":"https:\/\/dnwgit7zg7mqr.cloudfront.net\/images\/141020-UK\/100\/","searchfeedrpl":"\/images\/library\/stock\/icons","searchtemplate":"((\"{{{term}}}\")^1.8 (\"{{{term}}}\"~1)^1.6 (\"{{{term}}}\"~2)^1.4 (subdept:\"{{{term}}}\")^1.4 ({{{term}}}*)^1.2)","searchhrefto":"\/shop\/p","searchpathicosmall":"\/50","searchpathicobig":"\/100","searchMaxResultsShown":5,"catEnabled":true,"mapcenter":{"data":[54.083328367572,-3]},"mapload":6,"mapfocus":6,"mapzoom":17,"mapunits":"miles"};
+			tsc.ssl = false;
+			tsc.base = "TSUK";
+			tsc.sitename = "Toolstation";
+			tsc.lang = "en";
+			tsc.sellang = "en";
+			tsc.sdkLocal = "en_GB";
+			tsc.https = false;
+			tsc.webroot = "http://www.toolstation.com";
+			tsc.securewebroot = "https://www.toolstation.com";
+			tsc.shop = "http://www.toolstation.com/shop";
+			tsc.cur = "&pound;";
+			tsc.images = {"path":"\/assets\/v1\/items","small":"%s\/160\/%s.jpg","med":"%s\/250\/%s.jpg","big":"%s\/388\/%s.jpg","biggest":"%s\/800\/%s.jpg","sq50":"%s\/50\/%s.jpg","sq100":"%s\/100\/%s.jpg","feature":"%s\/205\/%s.jpg"};
+			tsc.webshop = tsc.shop;
+			tsc.cdns = ["http:\/\/www.toolstation.com"];
+			tsc.cdnpath = '/assets/v1/items';
+			tsc.catImages = "http://www.toolstation.com/assets/v1/vcat/TSUK10060";
+			tsc.myloc = "My current location";
+			tsc.assetsPath = "http://www.toolstation.com/assets/v1/core/TSUK20150529/";
+			tsc.imgbrand = "http://www.toolstation.com/assets/v1/brand";
+			tsc.vcatPath = "http://www.toolstation.com/widgets/vcat/";
+			tsc.cataloguepage = "Catalogue p";
+			tsc.defaultCDN = "http://www.toolstation.com";
+			tsc.assetsBasePath = "http://www.toolstation.com/assets/v1/";
+			tsc.fordelivery = "For delivery";
+			tsc.getGeoLocation = "1";
+			tsc.searchurl = tsc.searchurl + '_' + tsc.base + (tsc.sellang.toUpperCase());
+			tsc.maxSearchResults = 5;
+			tsc.language = {
+				orderhistory: {
+					order_added_trolley : "Order added to trolley",
+					copyinvoices: {
+						notselected : "Please select an invoice"
+					}
+				},
+				emailOrderAjaxError : "Something went wrong, please refresh the page and try again.",
+				currentlocation: "My current location",
+				emailsent: "Email sent",
+				sendemail: "Send email",
+				available: "available",
+				trolley_added: "Added to trolley",
+				trolley_removed: "Removed from trolley",
+				trolley_introlley: " in trolley",
+				site_stock_availableforcollection: "Available for collection",
+				more_like_this: "You might also like...",
+				toolbar_close: "Close",
+				search: {
+					see_advance_options:"To search all results <span>hit enter</span> or <span>click search</span>",
+					no_results:"No Results",
+					timeout:"Your search request timed out. Please try again.",
+					similar:" similar",
+					items:"items",
+					summary: "Found {{num}} results in {{qtime}} seconds",
+					currency_format:  "&pound;{{a}}.{{b}}",
+					price_from:  "From",
+					facet: {
+						subdept: "Sub departments",
+						dept: "Departments",
+						price: "Price",
+						brand: "Brand",
+						lumens: "Lumens",
+						btu: "BTU"
+					}
+				},
+				branches: {
+					no_results:"We could not recognize your postcode",
+					enterpostcode : "Enter your postcode here....",
+					addresstab : "Address",
+					directionstab : "Directions",
+					enterpostcodebelow :  "Please enter your postcode then click the button below.",
+					directionsbutton :  "Directions",
+					drivingtext :  "Driving",
+					zoomtext :  "Zoom"
+				},
+				widget : {
+					moreless : {
+						more : "View more",
+						less : "View less"
+					}
+				}
+
+			}
+			tsc.cookie = {"path": "/", "domain": "www.toolstation.com"};
+
+			tsc.checkStock   = "Stock availability";
+			tsc.selectBranch = "Please select";
+			tsc.partDetails  = "For delivery";
+							// social media configuration
+				tsc.socialComment	  = 'Comments & reviews';
+				tsc.socialShare		  = 'Share';
+				tsc.socialEnabled 	  = true;
+				tsc.twitterEnabled 	  = true;
+				tsc.googlePlusEnabled = true;
+				tsc.pinterestEnabled  = true;
+				tsc.FbLikeEnabled	  = true;
+				tsc.FbCommentEnabled  = false;
+				tsc.facebookAppId     = "255004934689563";
+								tsc.fordelivery = 'For delivery';
+				tsc.headercode = 'Code';
+						</script>
+		<script src="http://www.toolstation.com/assets/v1/core/TSUK20150529/js/vendor/jquery-1.11.0.min.js"></script>
+		<script src="http://www.toolstation.com/assets/v1/core/TSUK20150529/js/main.min.js"></script>
+				<script>
+	var urchin_uid = 'UA-2247774-4';
+	var gaJsHost = document.location.protocol == "https:" ? "https://ssl." : "http://www.";
+	var s = document.createElement('script');
+	s.src = gaJsHost + "google-analytics.com/ga.js";
+	s.type = "text/javascript";
+	document.getElementsByTagName("head")[0].appendChild(s);
+	var i = 0;
+	run_ga();
+	function run_ga() {
+		if (typeof _gat == "object") {
+			var pageTracker = _gat._getTracker(urchin_uid);
+			pageTracker._initData();
+			pageTracker._trackPageview();
+		} else if (i < 20) {
+			i++;
+			setTimeout(run_ga, 500);
+		}
+	}
+</script>			<div id="fb-root"></div>
+				
+</body></html>
