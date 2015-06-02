@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outdoorphotographer.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006122312id_/http%3A//www.wernerpublishing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorphotographer.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602202213id_/http%3A//www.wernerpublishing.com/privacy-policy) for the most accurate reproduction.*
 
 # Werner Publishing » Privacy Policy
 
