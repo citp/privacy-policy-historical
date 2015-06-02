@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abeka.com privacy policy that was archived on 2014-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140811005408id_/http%3A//www.abeka.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abeka.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603013612id_/http%3A//www.abeka.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # A Beka Book :: Privacy Policy
 
@@ -10,7 +10,7 @@ Last Updated: November 27, 2013
 
 ## Information we may collect
 
-We may collect information that can identify you (“personal information”), such as your name and email address, (i) when you (or other users) provide it to us, or (ii) from other PCC affiliates. We may combine the personal information that we receive from different sources.
+We may collect information that can identify you (“personal information”), such as your name and e-mail address, (i) when you (or other users) provide it to us, or (ii) from other PCC affiliates. We may combine the personal information that we receive from different sources.
 
 We also may collect other types of information in the following ways when you visit our website:
 
@@ -51,14 +51,14 @@ We will not share your personal information with others except as indicated belo
 
 We may share aggregated, non-personal information.
 
-We may allow third-party companies, including AddThis, Google, and DoubleClick, to collect certain anonymous information when you visit our website in part to inform, optimize, and serve ads based on your past visits to our website. These companies may use non-personally identifiable information during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or a third party web beacon to collect this information. We may use Remarketing with Google Analytics to advertise online. Third-party vendors, including Google, may show our ads on sites across the Internet. To learn more about this behavioral advertising practice, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
+We may allow third-party companies, including AddThis, Google, DoubleClick, and HotJar, to collect certain anonymous information when you visit our website in part to inform, optimize, and serve ads based on your past visits to our website. These companies may use non-personally identifiable information during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or a third party web beacon to collect this information. We may use Remarketing with Google Analytics to advertise online. Third-party vendors, including Google, may show our ads on sites across the Internet. To learn more about this behavioral advertising practice, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
 
 ## Your choices
 
 You may choose:
 
   * Not to provide personal information, although that may result in your inability to obtain certain products or services;
-  * To stop receiving promotional emails or newsletters from us by sending an email to the contact address listed in the promotional email;
+  * To stop receiving promotional e-mails or newsletters from us by sending an e-mail to the contact address listed in the promotional e-mail;
   * To delete or decline cookies by changing your browser settings, although if you do so, some of the features or services of our website may not function properly;
   * To review and update your personal information by contacting us or, if you have an online account on our website, by logging into that account.
 
