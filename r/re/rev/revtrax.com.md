@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revtrax.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204083825id_/http%3A//www.revtrax.com/privacyandterms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revtrax.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602031340id_/http%3A//www.revtrax.com/privacyandterms.php) for the most accurate reproduction.*
 
 # Privacy | Prevent Fraud With Dynamic Coupon Security | RevTrax
 
