@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yelp-support.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230050103id_/http%3A//www.yelp.com/tos/privacy_en_us_20130910) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yelp-support.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602190807id_/http%3A//www.yelp.com/tos/privacy_en_us_20130910) for the most accurate reproduction.*
 
 # Privacy Policy | Yelp
 
@@ -116,3 +116,5 @@ The information we obtain from or about you may be processed and stored in the U
 ## 11\. Modifications to This Privacy Policy
 
 We may revise this Privacy Policy from time to time. The most current version of the Privacy Policy will govern our use of information about you and will be located [here](https://web.archive.org/static?p=privacy). If we make material changes to this Privacy Policy, we will notify you by email or by posting a notice on the Site prior to the effective date of the changes. By continuing to access or use the Site after those changes become effective, you agree to be bound by the revised Privacy Policy.
+
+Copyright © 2004–2015 Yelp Inc. Yelp, ,  and related marks are registered trademarks of Yelp. 
