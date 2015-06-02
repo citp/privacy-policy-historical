@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skipthegames.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129212304id_/http%3A//skipthegames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skipthegames.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602080105id_/http%3A//skipthegames.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
