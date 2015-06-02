@@ -1,29 +1,32 @@
-<!--The following is the downloaded HTML source of the notlurking.com privacy policy that was archived on 2014-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141129132659id_/http%3A//notlurking.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the notlurking.com privacy policy that was archived on 2015-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150602221722id_/http%3A//notlurking.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     
-<link href="/images/apple/apple-touch-icon-144x144.png" sizes="144x144" rel="apple-touch-icon">
-<link href="/images/apple/apple-touch-icon-72x72.png" sizes="72x72" rel="apple-touch-icon">
-<link href="/images/apple/apple-touch-icon-114x114.png" sizes="114x114" rel="apple-touch-icon">
-<link href="/images/apple/apple-touch-icon-57x57.png" sizes="57x57" rel="apple-touch-icon">
+
+    <link href="/images/apple/apple-touch-icon-144x144.png" sizes="144x144" rel="apple-touch-icon">
+    <link href="/images/apple/apple-touch-icon-72x72.png" sizes="72x72" rel="apple-touch-icon">
+    <link href="/images/apple/apple-touch-icon-114x114.png" sizes="114x114" rel="apple-touch-icon">
+    <link href="/images/apple/apple-touch-icon-57x57.png" sizes="57x57" rel="apple-touch-icon">
+
+    <!--[if lt IE 9]>
+    <script type="text/javascript" src="js/lib/xCharts/es5-shim.min.js"></script>
+    <script type="text/javascript" src="js/lib/xCharts/es5-sham.min.js"></script>
+    <![endif]-->
+
 
 
 <meta charset="UTF-8">
 
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-<!--[if lt IE 9]>
-<script type="text/javascript" src="js/lib/xCharts/es5-shim.min.js"></script>
-<script type="text/javascript" src="js/lib/xCharts/es5-sham.min.js"></script>
-<![endif]-->
 
 
 <title>Privacy - Linkis.com</title><meta name="title" content="Privacy - Linkis.com">
 <meta name="keywords" content="Privacy, Linkis.com">
 <meta name="description" content="Privacy - Linkis.com"><link href="/favicon.ico" rel="icon" type="image/png">
-<link href="/js/prod/secondary.css?649" media="all" rel="stylesheet" type="text/css"><script type="text/javascript" async="" src="//widget.uservoice.com/KUBNH3g4sCUtmVUMMrmmA.js"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script type="text/javascript">
+<link href="/js/prod/secondary.css?720" media="all" rel="stylesheet" type="text/css"><script type="text/javascript" async="" src="//widget.uservoice.com/KUBNH3g4sCUtmVUMMrmmA.js"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script type="text/javascript">
     /*<![CDATA[*/
-var awo_fb=false;function fbAuth(rurl){if(awo_fb)return null;var url="/privacy";var url_tpl="https://www.facebook.com/dialog/oauth?client_id=318962828183539&redirect_uri=http%3A%2F%2Fnotlurking.com%2Fauth%2Ffb%2Fredirect_url%2F__url__&state=e505670e2a74f0c236eb5ca855b9283e&display=popup&scope=publish_stream&skip_api_login=1";if(typeof rurl=="string")url=rurl;url=url_tpl.replace("__url__",encodeURIComponent(encodeURIComponent(url)));awo_fb=true;win=openWindowCentered(url,"fb",500,500);var sid=setInterval(function(){if(win.closed){awo_fb=false;clearInterval(sid)}},500);return win};    /*]]>*/
+var awo_fb=false;function fbAuth(rurl){if(awo_fb)return null;var url="/privacy";var url_tpl="https://www.facebook.com/dialog/oauth?client_id=318962828183539&redirect_uri=http%3A%2F%2Fnotlurking.com%2Fauth%2Ffb%2Fredirect_url%2F__url__&state=02bd2c9ccbde9b358d7b9ce994a0119a&display=popup&scope=publish_stream&skip_api_login=1";if(typeof rurl=="string")url=rurl;url=url_tpl.replace("__url__",encodeURIComponent(encodeURIComponent(url)));awo_fb=true;win=openWindowCentered(url,"fb",500,500);var sid=setInterval(function(){if(win.closed){awo_fb=false;clearInterval(sid)}},500);return win};    /*]]>*/
 </script>
 <script>
     var LNG = {};
@@ -56,7 +59,6 @@ var awo_fb=false;function fbAuth(rurl){if(awo_fb)return null;var url="/privacy";
     addthis_config.data_track_clickback = false;
 </script>
 
-
 <script type="text/javascript">
 
 
@@ -88,7 +90,15 @@ function lnEvent(action, label, category)
     var path = ['', 'index', 'ln-event'].join('/');
     var e = function(str){ return str ? encodeURIComponent(str) : ''; };
     var theme = window.LinkData ? LinkData.curTheme : 0;
-    (new Image()).src = path + '?c=' + e(category) + '&a=' + e(action) + '&l=' + e(label) + '&t=' + e(theme);
+    var linkId = LnProf.page == 'index/show' && window.LinkData ? LinkData.id : 0;
+    var profId = LnProf.profId ? LnProf.profId : 0;
+    (new Image()).src = path +
+        '?c=' + e(category) +
+        '&a=' + e(action) +
+        '&l=' + e(label) +
+        '&t=' + e(theme) +
+        '&li=' + e(linkId) +
+        '&id=' + e(profId);
 }
 
 </script>
@@ -108,7 +118,6 @@ window.NL_APP_DATA = {
     },
     show_notify_popup: 0,
     show_silent_popup_old_usr: 0,
-    show_aw_popup: 0,
     stat_id: null,
     nopopups: 0,
     addThisSrc: 'http://s7.addthis.com/js/300/addthis_widget.js#async=1&pubid=',
@@ -116,7 +125,6 @@ window.NL_APP_DATA = {
     referrer_link: '',
     cookie_domain: '.linkis.com',
 	sessCookieName: 'LNSID',
-    popupForceLang: Math.random() < 0.3 ? 'en' : null,
     popupsHtml: {}
 };
 
@@ -129,6 +137,8 @@ var LnProf = {
     err: [],
     path: ['', 'index', 'save-ln-prof?'], // prevent simple url parsing
     iframeLoad: false,
+    page: 'index/privacy',
+    recordId: 0,
 
     // receive profId in this function
     start: function()
@@ -138,7 +148,7 @@ var LnProf = {
         if (!LnProf.enabled)
             return;
         var uri = location.pathname + location.search + location.hash;
-        var src = LnProf.path.join('/') + 'type=start&time='+now+'&uri='+encodeURIComponent(uri)+'&theme='+LnProf.theme;
+        var src = LnProf.path.join('/') + 'type=start&page=' + LnProf.page + '&time='+now+'&uri='+encodeURIComponent(uri)+'&theme='+LnProf.theme;
         document.write('<' + 'script type="text/javascript" src="' + src + '"><' + '/script>');
     },
     prodLoad: function(minifyVersion)
@@ -148,10 +158,10 @@ var LnProf = {
 
         var browser = $.browser.platform + ' ' + $.browser.name + ' ' + $.browser.versionNumber;
         var time = (new Date()).getTime() - LnProf.startedAt;
-        var linkId = window.LinkData ? LinkData.id : 0;
+        var recordId = LnProf.recordId ? LnProf.recordId : 0;
         (new Image()).src = LnProf.path.join('/') + 'type=prod&id=' + LnProf.profId
             + '&browser=' +encodeURIComponent(browser) + '&time=' + time + '&ver=' + (minifyVersion || '')
-            + '&dur=' + LnProf.startDuration + '&linkid=' + linkId;
+            + '&dur=' + LnProf.startDuration + '&recid=' + recordId;
     },
     stopApp: function()
     {
@@ -170,6 +180,22 @@ var LnProf = {
             return;
 
         (new Image()).src = LnProf.path.join('/') + 'type=iframe&id=' + LnProf.profId + '&time=' + time
+            + '&rnd=' + LnProf._rnd();
+    },
+    adblock: function()
+    {
+        if (!LnProf.profId || !LnProf.enabled)
+            return;
+
+        (new Image()).src = LnProf.path.join('/') + 'type=adblock&id=' + LnProf.profId + '&adblock=1'
+            + '&rnd=' + LnProf._rnd();
+    },
+    blocked: function(block)
+    {
+        if (!LnProf.profId || !LnProf.enabled)
+            return;
+
+        (new Image()).src = LnProf.path.join('/') + 'type=blocked&id=' + LnProf.profId + '&block=' + block
             + '&rnd=' + LnProf._rnd();
     },
     popup: function(popup)
@@ -210,7 +236,7 @@ var LnProf = {
 LnProf.start();
 window.onerror = LnProf.onError;
 
-</script><script type="text/javascript" src="/index/save-ln-prof?type=start&amp;time=1580486495459&amp;uri=%2Fweb%2F20141129132659id_%2Fhttp%253A%2F%2Fnotlurking.com%2Fprivacy&amp;theme=0"></script>
+</script><script type="text/javascript" src="/index/save-ln-prof?type=start&amp;page=index/privacy&amp;time=1580486492799&amp;uri=%2Fweb%2F20150602221722id_%2Fhttp%253A%2F%2Fnotlurking.com%2Fprivacy&amp;theme=0"></script>
 <script type="text/javascript">
     /*
      * use Ga array lika goole gaq array
@@ -335,14 +361,13 @@ While we do our best to protect your personal information, we cannot guarantee t
     </div>
 </div>
 
-<input type="hidden" id="cur-theme" value="">
 
 
     <script type="text/javascript">
     window.steal = { loaded:["prod/production.css"] };
     </script>
 
-    <script src="/js/steal/steal.production.js?prod/production.js&amp;642"></script>
+    <script src="/js/steal/steal.production.js?prod/production.js&amp;678"></script>
 
 
     <!-- UserVoice JavaScript SDK (only needed once on a page) -->
@@ -377,9 +402,10 @@ While we do our best to protect your personal information, we cannot guarantee t
         </div>
         <div class="links">
             <a href="/about">About</a> | <a href="http://blog.linkis.com">Blog</a> | <a href="/privacy" class="current">Privacy</a> | <a href="/terms">Terms</a> | <a href="/faq">FAQ</a> | <a href="/plugin">Plugin</a> | <a href="/bookmarklet">Bookmarklet</a>        </div>
-        <div class="copyright">© Copyright 2014 by Linkis.com. All rights reserved.</div>
+        <div class="copyright">© Copyright 2015 by Linkis.com. All rights reserved.</div>
     </div>
 
+</div>
 
 
-</div></body></html>
+</body></html>
