@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makinghomeaffordable.gov privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120210715id_/http%3A//www.makinghomeaffordable.gov/Pages/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makinghomeaffordable.gov privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603012209id_/http%3A//www.makinghomeaffordable.gov/Pages/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
