@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the tcyonline.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218221545id_/http%3A//www.tcyonline.com/india/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcyonline.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602070103id_/http%3A//www.tcyonline.com/india/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy of TCYonline.com
 
 PRIVACY POLICY
 
 **Commitment to Privacy**  
-Your privacy is important to us and we, at TCYonline respect the need to protect your private information. We understand the sensitivity of the personal information which may concern such diverse fields ranging from your career aspirations to your gender preferences. We shall take such reasonable steps as may be necessary to ensure that your private information remains confidential.   
+Your privacy is important to us and we, at TCY Learning Solutions (P) Ltd. (HEREINAFTER REFERRED TO AS "TCYonline"), respect the need to protect your private information. We understand the sensitivity of the personal information which may concern such diverse fields ranging from your career aspirations to your gender preferences. We shall take such reasonable steps as may be necessary to ensure that your private information remains confidential.   
 This Privacy Policy outlines our online information practices and the choices you can make in giving information about yourself and how such information would be used by us.  
 This Website is hosted by or on behalf of TCYonline and we are committed to a safe method of collecting and maintaining in a secure environment any personal information which may be requested from you and/or collected from you in accordance with this Privacy Policy and such laws, rules and regulations as may be applicable.  
 **Notice and Disclosure**  
