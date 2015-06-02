@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ditech.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213044601id_/http%3A//www.ditech.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ditech.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602042132id_/http%3A//www.ditech.com/privacy.html) for the most accurate reproduction.*
 
 # Dedicated To Your Privacy | ditech | Privacy Policy
+
+## Find out what ditech does to protect your privacy.
 
 ######  WE RECOGNIZE YOUR EXPECTATION OF PRIVACY 
 
