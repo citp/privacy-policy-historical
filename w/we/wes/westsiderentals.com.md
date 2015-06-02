@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the westsiderentals.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704221728id_/http%3A//www.westsiderentals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westsiderentals.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602053928id_/http%3A//www.westsiderentals.com/privacy) for the most accurate reproduction.*
 
 # Apartment Rentals in Los Angeles, Orange County and San Diego
+
+\-------------- OR -------------- 
+
+[]()
 
 ## Westsiderentals.com Privacy Policy Statement
 
@@ -14,7 +18,7 @@ This policy will let you know:
   * Who is collecting your information 
   * With whom your information may be shared 
   * What choices are available to you regarding collection, use, and distribution of your information 
-  * How you can access, update or delete your information 
+  * How you can access or update your information 
   * The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information 
   * What else you should know about your online privacy 
 
@@ -64,13 +68,11 @@ If you choose not to register or provide personal information, you can still use
 
 You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies you will be unable to use those services and features of Westsiderentals.com that require registration in order to participate. These services include the identification of new vacancies that have been posted since your last visit, auto- filling of the logon form, and the Favorites feature. You can still use most of the features of Westsiderentals.com even if you do not accept cookies. 
 
-##  How you can access, update or delete your information 
+##  How you can access or update your information 
 
-We will provide you with the means to ensure that your personal information is correct and current. You may edit or delete your user profile at any time by clicking on the "My Profile" link or graphic provided by the system once you are logged in. Once you have logged onto the system during a given session, wherever you go on Westsiderentals.com, your information will stay with you until or unless you click on the "Logoff" link, which is accessible from within the "My Account" screen. 
+We will provide you with the means to ensure that your personal information is correct and current. You may edit your user profile at any time by clicking on the "My Profile" link or graphic provided by the system once you are logged in. Once you have logged onto the system during a given session, wherever you go on Westsiderentals.com, your information will stay with you until or unless you click on the "Logoff" link, which is accessible from within the "My Account" screen. 
 
 If you are a previously registered user and you have lost or forgotten your password, you may obtain it by email by using our "Forgot Password" feature. Click the button on any login page to request that your password be emailed to you. We cannot provide your password by any other means. 
-
-Your Westsiderentals.com account can be deleted but, doing so will result in not being able to access any of the features of the program that require user registration. 
 
 The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information 
 
