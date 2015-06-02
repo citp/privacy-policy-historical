@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellonomad.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222095106id_/http%3A//launch.hellonomad.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellonomad.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602051659id_/http%3A//www.hellonomad.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Nomad Privacy Policy
 
@@ -54,7 +54,7 @@ In an attempt to provide you with increased value, we may include third party li
 
 **Changes to our policy**
 
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on June 13, 2014. 
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on June 13, 2014. 
 
 **Questions and feedback**
 
