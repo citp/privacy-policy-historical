@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dsdomination.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111174615id_/https%3A//dsdomination.com/show/page/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsdomination.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602182115id_/https%3A//dsdomination.com/show/page/privacyPolicy) for the most accurate reproduction.*
 
-# D$ Domination
+# DS Domination
 
 This site (the "Site") is owned by DS Domination, a Texas limited liability company ("us," "we," or "Company"). We created this Privacy Policy ("Privacy Policy") to explain how we use the information we collect on the Site. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
 
