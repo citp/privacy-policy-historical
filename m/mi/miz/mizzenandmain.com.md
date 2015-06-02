@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mizzenandmain.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926002352id_/http%3A//mizzenandmain.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mizzenandmain.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603012618id_/http%3A//mizzenandmain.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mizzen+Main
+# Privacy Policy - Mizzen+Main
 
 We won't share your information or spam you. We hate junk mail too. 
 
@@ -71,4 +71,4 @@ We reserve the right to modify this privacy policy at any time, so please review
 If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you. 
 
 **Questions?**  
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact us at info@mizzenandmain.com 
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact us at info@mizzenandmain.com
