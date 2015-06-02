@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the betfair.de privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220213341id_/http%3A//www.betfair.com/en/aboutUs/Privacy.Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betfair.de privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602182158id_/http%3A//www.betfair.com/en/aboutUs/Privacy.Policy) for the most accurate reproduction.*
 
 # Betfair
 
-## Betfair Privacy Policy
+### Betfair Privacy Policy
 
-This Privacy Policy does not apply to residents of Australia and New Zealand. To view Betfair Australia’s Privacy Policy please click [here](https://www.betfair.com.au/info/privacy-policy/).
+This Privacy Policy does not apply to residents of Australia and New Zealand. To view Betfair Australia's Privacy Policy please click [here](https://www.betfair.com.au/info/privacy-policy/).
 
 ### Introduction
 
@@ -33,7 +33,7 @@ To ensure a good quality of service we may monitor and record any communication 
 
 ### How we use Cookies on our Site and what Information we collect
 
-Betfair uses ‘cookies’ in order to provide you with a better experience. To find out more about cookies, please see our [Cookie Policy](https://web.archive.org/aboutUs/Cookie.Policy/).
+Betfair uses 'cookies' in order to provide you with a better experience. To find out more about cookies, please see our [Cookie Policy](https://web.archive.org/aboutUs/Cookie.Policy/).
 
 ### How your Personal Information will be used?
 
@@ -133,3 +133,171 @@ Your Personal Information may also be disclosed to the Tasmanian Gaming Commissi
 NOTE: There may be restrictions placed your betting on Australian Events if you have not complied with Betfair's know your client ("KYC") processes. Further information can be found in the 'Help' pages of the website.
 
 © 2011 The Sporting Exchange Limited. All rights reserved. BETFAIR® is a registered trade mark of The Sporting Exchange Limited.
+
+### Cookie Policy
+
+Betfair's websites (including those optimised for mobile devices) and mobile applications use cookies and similar technologies to manage login sessions, provide personalised web pages and to tailor advertising and other content to reflect your specific needs and interests. By using Betfair's website and applications you agree to the use of cookies and similar technologies for the purposes we describe in this policy.
+
+## What is a web cookie?
+
+Cookies are text files containing a small amount of information that are downloaded to your device when you visit a website. They are generally used by most websites to improve your online experience and to ensure that content and functions are delivered and used more effectively.
+
+Cookies perform various different functions. For example, some cookies are downloaded to your device temporarily for the period that you browse a particular website; these cookies might allow you to navigate between pages more efficiently or enable websites to remember the preferences you select. Other cookies can be used to help websites remember you as a returning visitor or ensure the online adverts you receive are more relevant to your specific needs and interests 
+
+You can amend your browser settings to block some or all cookies. To do this, follow the instructions provided by your browser manufacturer. However, if you block cookies from Betfair's website some or all the website's functions may not perform as intended. For example, you may not actually be able to place any bets.
+
+If you would like more information about cookies see further information.
+
+The types of cookies Betfair use are:
+
+Essential Cookies
+
+Performance Cookies
+
+Functionality Cookies
+
+Targeting Cookies
+
+## Essential Cookies
+
+Essential Cookies are cookies which are necessary in order for a website to function correctly; they enable you to navigate a website and allow you to perform specific functions, such as accessing secure areas, placing bets, depositing funds and managing your account. Without these cookies, it would not be possible to provide specific online services and functions.
+
+**We use Essential Cookies to** :
+
+  * Remember information you've entered on order forms when you navigate to different pages in a single web browser session
+  * Maintain your betslip selections as you navigate around the site
+  * Identify you as being logged into Betfair.com
+  * Make sure we deliver the correct site features for your geographic location
+
+
+
+**Cookies we have defined as Essential Cookies will not be used to** :
+
+  * Gather information that could be used to advertise products or services to you
+  * Remember your preferences or username beyond your current visit
+
+
+
+Some examples of essential cookies that Betfair sets:
+
+SSOID | This cookie is the main cookie used across Betfair's products and is used to identify a logged in user.  
+---|---  
+NSC_ | Any cookie prefixed with NSC_ is used by Betfair's internal networking hardware to maintain user state between page requests. If these cookies were not set customers would be logged out every time a web page was requested.  
+xgbsessionid | This cookie is used to identify a user's session on our Exchange Games product.  
+psessionid | This cookie is used to identify a prospective customer's session.  
+  |    
+  
+## Performance Cookies
+
+These cookies collect information about how visitors use a website, for instance which pages they go to most often and if they get error messages from web pages. These cookies do not collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve a website's performance.
+
+**We use performance cookies to** :
+
+  * Provide statistics on how our website is used
+  * See how effective our promotions are
+  * Collect statistics on which markets customers are betting on
+  * Help us improve the website by measuring any errors that occur 
+  * Test different designs of our website
+  * Identify your browser or device you are using to access the site
+
+
+
+**Cookies we have defined as 'Performance' cookies will not be used to** :
+
+  * Gather information that could be used to advertise products or services to you on other websites 
+  * Remember your preferences or username beyond your current visit 
+  * Store personal information such as email address or name
+  * Target promotions to you on any other website 
+  * Allow third parties to use the cookies for any purpose other than those listed above 
+
+
+
+Example of performance cookies that Betfair sets:
+
+v1st | Visitor ID. This is used to Betfairâ's analytics software, and is used to track unauthenticated visitors to the site.  
+---|---  
+pi | Partner ID.  
+spi | Sub-partner ID.  
+sui | Super Partner ID.  
+rfr | Referrer Code. This is used to identify affiliate traffic on the Betfair site.  
+  
+Please be aware that opting out of our performance cookies may mean some useful information such as Betfair contact details are not available to you, however, if you wish to opt out of any of the web analytics that Betfair use, please use the links below:
+
+Omniture   
+<http://www.omniture.com/en/privacy/2o7>  
+Google Analytics   
+<http://tools.google.com/dlpage/gaoptout>  
+Mediaplex   
+<http://www.mediaplex.com/opt-out>  
+Flurry   
+[http://www.flurry.com/resources/privacy.html ](http://www.flurry.com/resources/privacy.html)
+
+## Functionality Cookies
+
+These cookies allow the website to remember choices you make, such as your user name, language, or the region you are in, and provide enhanced, personalised features. For instance, a website may be able to provide you with local weather reports or traffic news by using cookies to store information about the region in which you are located. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have requested such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
+
+**We use 'Functionality' cookies to** :
+
+  * Remember settings you've applied such as layout, preferences, colours and showing/ hiding features
+  * Remember that you have seen certain content
+  * Provide proactive live chat sessions to offer you support
+  * Share information with partners to provide a service on our website. The information shared is only to be used to provide the service, product or function and not for any other purpose
+  * Show recent markets that you have viewed
+
+
+
+**Cookies defined as 'Functionality' will not be used to¦**
+
+  * Target you with adverts on other websites
+  * Allow third parties to use the cookies for any purpose other than those listed above
+
+
+
+Examples of functionality cookies that Betfair sets:
+
+ShowDemoHelp | Indicates whether to show new user help information to customers.  
+---|---  
+marketViewDisplayType | Indicates whether to show the racecard or exchange view to customers.  
+recentMarkets | Contains a list of recent markets that a customer has viewed for easier navigation.  
+  
+## Targeting Cookies
+
+These cookies are used to deliver content, such as adverts, that are more relevant to you and your interests. They may also be used to limit the number of times you see an advert or measure the effectiveness of the advertising campaign. These tend to be set by third party advertising agencies with Betfair's permission, and may share information about websites that you have visited with other organisations, such as advertisers.
+
+**We use 'Targeting' cookies to¦**
+
+  * Tailor content to customers on sister sites based on whether you are logged in or not on the main Betfair site 
+  * Provide promotions to customers who have registered but not funded their accounts 
+  * Provide cross-product promotions to customers based on what markets you have viewed or the value of the bets you have placed 
+  * Provide advertising agencies with information about your visit so that they can present you with adverts that you may be interested in 
+
+
+
+## Further information
+
+You can find more information about cookies at: [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu.](http://www.youronlinechoices.eu/)
+
+For a video about cookies visit [www.google.co.uk/goodtoknow/data-on-the-web/cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies).
+
+### Data Protection
+
+Betfair will comply with requests from customers for access to their own data (not that of another person) which is held by us.
+
+To make such a request, please send a letter in writing setting out your name, address, telephone number and Betfair username and address it to:
+
+> **Subject Access Requests  
+>  c/o Legal Department  
+>  Waterfront  
+>  Hammersmith Embankment  
+>  Chancellors Road (Access on Winslow Rd)  
+>  London  
+>  W6 9HP  
+>  United Kingdom**
+
+Your letter must be accompanied by copies of two forms of identification, one of which should identify you (e.g. driving licence, passport, etc) and the other should provide proof of your address (e.g. utility bill).
+
+Please include a cheque for £10 made payable to Betfair Limited with your request.
+
+Subject access requests may take up to 40 days to be processed from the date of receipt by Betfair.
+
+V 03/14 17/12/14
