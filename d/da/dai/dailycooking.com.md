@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailycooking.com privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812032858id_/http%3A//www.dailycooking.com/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailycooking.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602071634id_/http%3A//www.dailycooking.com/static/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,21 +12,21 @@ DailyCooking may change this policy from time to time by updating this page. You
 
 We may collect the following information:
 
-·       contact information including email address
+Â·Â Â Â Â Â Â  contact information including email address
 
-·       demographic information such as postcode, preferences and interests
+Â·Â Â Â Â Â Â  demographic information such as postcode, preferences and interests
 
-·       other information relevant to customer surveys and/or offers
+Â·Â Â Â Â Â Â  other information relevant to customer surveys and/or offers
 
 **What we do with the information we gather**
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-·       We may use the information to improve our products and services. 
+Â·Â Â Â Â Â Â  We may use the information to improve our products and services. 
 
-·       We may periodically send promotional emails **** about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+Â·Â Â Â Â Â Â  We may periodically send promotional emails **** about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
 
-·       From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+Â·Â Â Â Â Â Â  From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
 **Security**
 
@@ -56,12 +56,14 @@ Our website may contain links to other websites of interest. However, once you h
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-·       whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
+Â·Â Â Â Â Â Â  whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
   
 
 
-·       if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us. 
+Â·Â Â Â Â Â Â  if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us. 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us. 
+
+﻿ 
