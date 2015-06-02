@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the facebookstatus123.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101193312id_/http%3A//www.facebookstatus123.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facebookstatus123.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602183911id_/http%3A//www.facebookstatus123.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy — Facebook Status
 
 This privacy declaration shows the privacy practices for all pages & services given by facebookstatus123.com.  
 Personally Provided Information.
