@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cellbikes.com.au privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505011553id_/http%3A//www.cellbikes.com.au/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellbikes.com.au privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603002212id_/http%3A//www.cellbikes.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
 Keeping your information private is something that CELL Bikes is absolutely committed to. We want you to visit our site regularly, with complete confidence and without any unanswered questions. We want to share our privacy policy with you so that you know exactly how we gather information and what we do (and don't do) with that information. This just seems like common courtesy to us.
 
@@ -49,9 +49,25 @@ The CELL Bikes website allows our customers the following communication opportun
 
 
 
-**You may also send postal mail to the following postal address:**  
-CELL Bikes  
-Warehouse 8 / 67-69 Lords Road  
+ **You may also send postal mail to the following postal address:**
+
+CELL Bikes
+
+Warehouse 8 / 67-69 Lords Road
+
 Leichhardt NSW 2040 
 
 Alternatively, you can contact our Customer Service Department on **02 8373 5238**
+
+Opt Out of Newsletter. If you wish to opt out of the newsletter, simply:
+
+  * Go into your CELL Bikes account ‘MY ACCOUNT’
+  * Go to ‘Settings’ on the lower right-hand side of the page
+  * Click ‘Campaign Subscription Center’
+  * Select ‘No, I do not wish to receive any subscription emails. I understand that I will continue to receive account-specific emails’.
+
+
+
+or
+
+Click on the ‘Unsubscribe’ link at the bottom of the newsletter.
