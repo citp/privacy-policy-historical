@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dooney.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220155359id_/http%3A//www.dooney.com/customer-service/privacy-security/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dooney.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602064640id_/http%3A//www.dooney.com/customer-service/privacy-security/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
