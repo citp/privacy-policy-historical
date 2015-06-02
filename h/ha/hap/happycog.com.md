@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happycog.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208174147id_/http%3A//happycog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happycog.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602125342id_/http%3A//happycog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
