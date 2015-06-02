@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vidup.me privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210140159id_/http%3A//vidup.me/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidup.me privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602210212id_/http%3A//beta.vidup.me/pages/privacy.html) for the most accurate reproduction.*
 
-# VidUP - Just Watchin' it
+# VidUP
 
 VidUP recognizes that its customers, visitors, users, and others who use VidUP value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the VidUP site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site. Please note that any video, image, or other content posted at the direction of users onto the VidUP site becomes published content and is not considered personally identifiable information subject to this privacy notice.
 
