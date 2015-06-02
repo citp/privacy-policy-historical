@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artix.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129110000id_/http%3A//www.artix.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artix.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602182242id_/http%3A//www.artix.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Artix.com Privacy Policy
 
@@ -6,14 +6,7 @@
 
 **Artix Entertainment LLC** provides family friendly entertainment to our users. We are committed to protecting the safety and security of its online visitors and are sensitive to our user's concerns about the safety of personal information provided to us. We encourage all our users to read this Privacy Statement carefully in order to understand how any personal information collected about you is used. ****
 
-**Artix Entertainment, LLC**
-
-has been awarded **TRUSTe Children’s Privacy and Privacy Seal** signifying that this privacypolicy and practices have been reviewed by TRUSTe for compliance with TRUSTE's [program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html), including transparency, accountability, and choice regarding the collection and use of your personal information. The TRUSTe program covers the sites [www.battleon.com](http://www.battleon.com/), [www.dragonfable.com](http://www.dragonfable.com/), [www.mechquest.com](http://www.mechquest.com/), [www.herosmash.com](http://www.herosmash.com/), [www.artix.com](https://web.archive.org/), [www.epicduel.com](http://www.epicduel.com/), [www.aq3d.com](http://www.aq3d.com/), [www.ebilgames.com](http://www.ebilgames.com/) and [www.aq.com](http://www.aq.com/) and does not cover information that may be collected through downloadable software or through our mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trustsolutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at   
-. If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). 
-
-This privacy statement covers the Web Sites:[www.battleon.com](http://www.battleon.com/), [www.dragonfable.com](http://www.dragonfable.com/), [www.mechquest.com](http://www.mechquest.com/), [www.herosmash.com](http://www.herosmash.com/), [www.artix.com](https://web.archive.org/), [www.epicduel.com](http://www.epicduel.com/), [www.aq3d.com](http://www.aq3d.com/), [www.ebilgames.com](http://www.ebilgames.com/) and [www.aq.com](http://www.aq.com/). Because these Web Sites want to demonstrate their commitment to your privacy, they have agreed to disclose their information practices and have their privacy practices reviewed for compliance by TRUSTe.
-
-Artix Entertainment LLC complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Artix Entertainment LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Artix Entertainment LLC’s certification, please visit <http://www.export.gov/safeharbor/>. 
+This privacy statement covers the Web Sites:[www.battleon.com](http://www.battleon.com/), [www.dragonfable.com](http://www.dragonfable.com/), [www.mechquest.com](http://www.mechquest.com/), [www.herosmash.com](http://www.herosmash.com/), [www.artix.com](https://web.archive.org/), [www.epicduel.com](http://www.epicduel.com/), [www.aq3d.com](http://www.aq3d.com/), [www.ebilgames.com](http://www.ebilgames.com/) and [www.aq.com](http://www.aq.com/). Because these Web Sites want to demonstrate their commitment to your privacy, they have agreed to disclose their information practices and have their privacy practices reviewed for compliance by TRUSTe. 
 
 We are also aware, that due to our content we may have some younger users on our site. We recognize the need to provide additional protection to those younger users. The Children’s Online Privacy Protection Act ('COPPA') requires that we inform parents and legal guardians about how we collect, use, and disclose personal information from children under 13 years of age. We explain this information under the Children’s Privacy Policy section below.
 
@@ -60,8 +53,7 @@ A Subscriber Account is a paid membership account that provides our users with a
 
 
 
-We are copied with this information by PayPal (see Security and Credit Card Use below) and require this information for the sole purpose of verifying your account and payment information.  
-
+We are copied with this information by PayPal (see Security and Credit Card Use below) and require this information for the sole purpose of verifying your account and payment information.
 
 **What We WILL DO With Your Personal Information**  
 We use third-party service providers (“Service Providers”), such as a shipping company to fulfill orders, and a credit card processing company to bill you for goods and services. When you sign up with the website, we will provide your personal information (e.g. name, address, phone number and email address) to Service Providers as necessary for such Service Providers to provide their respective services. Service Providers to whom Artix Entertainment discloses your personal information all have agreed to abide by this Privacy Policy, and Service Providers are specifically prohibited from using your personal information for promotional purposes. Please note that Service Providers (e.g., PayPal)may have separate privacy policies that govern their collection, use and storage of information that you provide to them directly.
@@ -93,7 +85,7 @@ An IP address (Internet Protocol address) is a unique address that certain elect
 **Message Boards**  
 If you use a message board or forum on this Web Site, you should be aware that any personally identifiable information you submit there can be read, collected or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
-The message board must be signed up for separately from the game and is subject to TERMS OF USE. To request removal of your personal information from our message board or forums, contact us at . In some cases we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
+The message board must be signed up for separately from the game and is subject to TERMS OF USE. To request removal of your personal information from our message board or forums, contact us at . In some cases we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 **Mobile**  
 Artix Entertainment may use tools or third party analytical software to collect and use certain non-personal data that does not enable Artix Entertainment to identify you. The types of non-personal data Artix Entertainment may collect and use include, but are not limited to: (i) mobile device type and device properties; (ii) mobile device software platform and firmware; (iii) mobile phone carrier; (iv) geographical data no more accurate that metropolitan areas; (v) gamescore and achievements; (vi) other non-personal data as reasonably required by Artix Entertainment to enhance its services.
@@ -177,21 +169,17 @@ To create a Subscriber Account, Artix Entertainment does require an e-mail addre
 
 For Subscriber Accounts, we use your Subscriber e-mail address for the following purposes:
 
-  1. To send a confirmation notice to the parent of their child's character registration and password information.  
-
-  2. Upon the parent’s request, to send the user password information when the child has lost or forgotten their password.  
-
-  3. In response to any questions, concerns or problems that a subscriber has contacted Artix Entertainment about.*   
-
-  4. To contact the parent about any problem with the child’s account or conduct in the game.  
-
+  1. To send a confirmation notice to the parent of their child's character registration and password information.
+  2. Upon the parent’s request, to send the user password information when the child has lost or forgotten their password.
+  3. In response to any questions, concerns or problems that a subscriber has contacted Artix Entertainment about.* 
+  4. To contact the parent about any problem with the child’s account or conduct in the game.
   5. To send out a newsletter to the subscriber email account**.
 
 
 
 *We recognize that young children may inadvertently give out personal information including their e-mail address when contacting us with any questions, problems, or concerns they have encountered while playing the game. We do not collect or use any such additional personal information acquired in this manner unless it is necessary for us to respond to the problem or question or concern. We reserve the right to disclose your child's personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web Sites.
 
-** Artix Entertainment games are unique in a sense that we design and run numerous special events that keep the game constantly fresh, challenging, fun and interesting for our users. Some of these events coincide with actual real life holidays, such as Valentine’s Day, other events are made up as we go along. We use the newsletter to notify our users of all the upcoming events, changes, improvements, upgrades, new characters, etc. In addition, occasionally we may notify our users of new products and services that Artix Entertainment has designed and made available exclusively to our users. 
+** Artix Entertainment games are unique in a sense that we design and run numerous special events that keep the game constantly fresh, challenging, fun and interesting for our users. Some of these events coincide with actual real life holidays, such as Valentine’s Day, other events are made up as we go along. We use the newsletter to notify our users of all the upcoming events, changes, improvements, upgrades, new characters, etc. In addition, occasionally we may notify our users of new products and services that Artix Entertainment has designed and made available exclusively to our users.
 
 If a child desires to upgrade his/her account to Subscriber Status, a parent or legal guardian will be required to divulge additional reasonably necessary information as described above under Subscriber Accounts. 
 
