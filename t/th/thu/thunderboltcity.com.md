@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thunderboltcity.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205115047id_/http%3A//dating.thunderboltcity.com/s/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thunderboltcity.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602201442id_/http%3A//dating.thunderboltcity.com/s/help/privacy.php) for the most accurate reproduction.*
 
 # Thunderbolt City Dating - Privacy Policy
 
