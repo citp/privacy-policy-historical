@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patronbase.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024110734id_/http%3A//www.patronbase.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patronbase.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602033020id_/http%3A//www.patronbase.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PatronBase
 
