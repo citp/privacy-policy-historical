@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clipd.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209040202id_/http%3A//www.clipd.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipd.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603011759id_/http%3A//www.clipd.com/privacy.html) for the most accurate reproduction.*
 
 # clipd.com | Privacy Policy
 
