@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodfoodnet.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704154035id_/http%3A//www.goodfoodnet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodfoodnet.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602055658id_/http%3A//www.goodfoodnet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Goodfoodnet.com – Easy Recipes, Healthy Eating Ideas and Chef Recipe
 
