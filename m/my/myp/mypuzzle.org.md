@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypuzzle.org privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205212525id_/http%3A//mypuzzle.org/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypuzzle.org privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602234749id_/http%3A//mypuzzle.org/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
