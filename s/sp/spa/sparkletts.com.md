@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparkletts.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202013851id_/http%3A//www.sparkletts.com/bottled-water-privacy-policy.jsf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkletts.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602233257id_/http%3A//www.sparkletts.com/bottled-water-privacy-policy.jsf) for the most accurate reproduction.*
 
 # Sparkletts Bottled Water Delivery Service | Privacy Policy
 
