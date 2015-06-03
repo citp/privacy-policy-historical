@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modernfurniturewarehouse.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121034531id_/http%3A//www.modernfurniturewarehouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernfurniturewarehouse.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603141405id_/http%3A//www.modernfurniturewarehouse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Modern Furniture Warehouse
 
@@ -95,8 +95,8 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-Live Goods LLC  
-6116 Malburg Way  
-Vernon, CA 90058  
-Tel: (866) 838 8710  
+Modern Everyday  
+614 Date Ave  
+Alhambra, CA 91803  
+Tel: 323 -209 1123  
 Fax: (323) 589 5277
