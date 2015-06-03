@@ -1,89 +1,79 @@
-> *The following text is extracted and transformed from the puma.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922030631id_/http%3A//brand.puma.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puma.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603104908id_/http%3A//us.puma.com/en_US/PRIVACY_POLICY.html) for the most accurate reproduction.*
 
-# PUMA.com : Privacy Policy
+# PUMA Online Store - Help > Privacy Policy
 
-##  **Important information regarding the use of this site.**
+## Privacy Policy
+
+### Important information regarding the use of this site.
 
 PUMA is committed to ensuring the privacy of your personal information and this privacy notice is designed to tell you which information we collect from you, how this information may be used and how it is protected.
 
-**Collection And Use Of Personal Information**
+### COLLECTION AND USE OF PERSONAL INFORMATION
 
-PUMA limits its requests for information to what is required to ensure accurate service. Most of the information we collect is very basic and is needed to complete a purchase or provide a refund. Examples of user information that may be collected may include your name, address, telephone number, e-mail address, credit-or debit-card information, a description of the item requested or purchased and the IP address of your computer.  
- 
+PUMA limits its requests for information to what is required to ensure accurate service. Most of the information we collect is very basic and is needed to complete a purchase or provide a refund. Examples of user information that may be collected may include your name, address, telephone number, e-mail address, credit-or debit-card information, a description of the item requested or purchased and the IP address of your computer.
 
-**Navigation Information**
+### Navigation Information
 
-Even if you do not make a purchase on our site, we have the ability to track usage of our web site – including the server from which the site was visited. This information is not used to track information about individuals, but is used on an aggregate level to customize our site, improve the on-line experience and plan advertising and promotions. Information Voluntarily Provided  
-There are times when you may provide information to us voluntarily. This occurs when you provide your feedback to us though e-mails, return forms, letters or telephone calls. We use this information to respond to your query and to keep track of customer feedback.  
- 
+Even if you do not make a purchase on our site, we have the ability to track usage of our web site – including the server from which the site was visited. This information is not used to track information about individuals, but is used on an aggregate level to customize our site, improve the on-line experience and plan advertising and promotions.
 
-**Internet Database**
+### Information Voluntarily Provided
 
-PUMA North America has created an Internet database to allow consumers to store their shipping and billing information, track the status of their order, list previous orders and retain email preferences. Registration is entirely voluntary and you have the ability to correct or delete the information at any time. This information is accessed through the "My Account" section of the site.
+There are times when you may provide information to us voluntarily. This occurs when you provide your feedback to us though e-mails, return forms, letters or telephone calls. We use this information to respond to your query and to keep track of customer feedback.
 
-**Marketing Information**
+### Internet Database
 
-PUMA does not sell or otherwise share your personal information with anyone else, such as advertising agencies or marketing companies. We only send marketing information to those customers who specifically sign up for our mailing list. Customers can opt-out of receiving information by using the "unsubscribe" option in any marketing e-mail that they receive or by changing their preferences in the "My Account" section of the site.
+PUMA North America has created an Internet database to allow consumers to store their shipping and billing information, track the status of their order, list previous orders and retain email preferences. Registration is entirely voluntary and you have the ability to correct or delete the information at any time. This information is accessed through the ["My Account"](https://us.puma.com/en_US/account) section of the site.
 
-**Use of Google Analytics & Adobe SiteCatalyst (Omniture)**
+### Marketing Information
 
-This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”) and Adobe SiteCatalyst, a tool provided by Adobe Systems Incorporated (“Adobe”). Google Analytics and Adobe Sitecatalyst use “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website will be transmitted to and stored by Google and Adobe on servers in the United States.
+PUMA does not sell or otherwise share your personal information with anyone else, such as advertising agencies or marketing companies. We only send marketing information to those customers who specifically sign up for our mailing list. Customers can opt-out of receiving information by using the "unsubscribe" option in any marketing e-mail that they receive or by changing their preferences in the ["My Account"](https://us.puma.com/en_US/account) section of the site.
 
-  
-The IP-anonymisation is active on this website. Please note that on this website, Google Analytics code is supplemented by “_anonymizeIp();” to ensure an anonymized collection of IP addresses (so called IP-masking). 
+### Use of Google Analytics & Adobe SiteCatalyst (Omniture)
+
+This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”)and Adobe SiteCatalyst, a tool provided by Adobe Systems Incorporated (“Adobe”). Google Analytics and Adobe Sitecatalystuse “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website will be transmitted to and stored by Google and Adobeon servers in the United States.
+
+The IP-anonymisation is active on this website.Please note that on this website, Google Analytics code is supplemented by [_anonymizelp](https://developers.google.com/analytics/devguides/collection/gajs/methods/gaJSApi_gat#_gat._anonymizelp) to ensure an anonymized collection of IP addresses (so called IP-masking).
 
 Google and Adobe will use this information on behalf of the operator of this website for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing them other services relating to website activity and internet usage.
 
-The IP-address, that your Browser conveys within the scope of Google Analytics and Adobe SiteCatalyst, will not be associated with any other data held by Google and Adobe. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. You can also opt-out from being tracked by Google Analytics with effect for the future by downloading and installing Google Analytics Opt-out Browser Addon for your current web browser: http://tools.google.com/dlpage/gaoptout?hl=en.
+The IP-address, that your Browser conveys within the scope of Google Analyticsand Adobe SiteCatalyst, will not be associated with any other data held by Googleand Adobe. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. You can also opt-out from being tracked by Google Analytics with effect for the future by downloading and installing Google Analytics Opt-out Browser Addon for your current web browser: <http://tools.google.com/dlpage/gaoptout?hl=en>.
 
-  
-Please use the following link to be excluded from the usage of Adobe SiteCatalyst: http://www.adobe.com/de/privacy/opt-out.html
+Please use the following link to be excluded from the usage of Adobe SiteCatalyst: <http://www.adobe.com/privacy/opt-out.html>
 
-  
-**Disclosure And Retention Of Personal Information**
+### DISCLOSURE AND RETENTION OF PERSONAL INFORMATION
 
 PUMA will share your personal information internally with those staff members who need it to complete your purchase or carry out your instructions regarding the receipt of marketing information. We will not disclose your personal information to any third party without your written consent unless required to do so by law.
 
-  
-PUMA keeps your personal information for only as long as required to fulfill the purpose for which it was collected. In some cases, such as credit- or debit-card purchases, we are required by law to keep your personal information for a specified period of time. For those customers who have registered for the mailing list, their personal information is kept until we are notified that they no longer want their information stored.  
- 
+PUMA keeps your personal information for only as long as required to fulfill the purpose for which it was collected. In some cases, such as credit- or debit-card purchases, we are required by law to keep your personal information for a specified period of time. For those customers who have registered for the mailing list, their personal information is kept until we are notified that they no longer want their information stored.
 
-**Accuracy And Protection Of Personal Information**
+### ACCURACY AND PROTECTION OF PERSONAL INFORMATION
 
 PUMA relies on our customers to notify us of any changes in personal information. Should inaccurate information come to our attention, we will investigate and correct the information and, if necessary, advise you of the change. Only those staff members who need your personal information in order to respond to your requests are given access to it. Employees are provided with training and information regarding the proper handling of personal information. All information stored in our computer system is protected from unauthorized access and information that is stored in document form is kept in secure locations to prevent access by unauthorized persons.
 
-**Transaction Security**
+### Transaction Security
 
 In order to make every effort to ensure that your experience at store.puma.com is secure, we use encryption technology to protect you against the loss, misuse or alteration of your personal information. When you fill out any contact forms or access your account, a secure server encrypts all of your information through the use of Secure Socket Layers (SSLs).
 
-  
 To be sure you're browsing secure pages for transactions, check your Web browser's status bar (located at the bottom of the window) for the closed padlock icon. This icon appears in your web browser to tell you that you are viewing a secure web page. Also, all browsers display an "s" after the "http" (https://) in the Web site address to indicate that you are in a secure environment.
 
-  
-**PUMA.com Safe Shopping Guarantee**
+### PUMA SAFE SHOPPING GUARANTEE
 
-We guarantee that every online transaction you make will be 100% safe. This means you pay nothing if unauthorized charges are made to your card as a result of shopping at store.puma.com. Under the Fair Credit Billing Act (FCBA), your bank cannot hold you liable for more than $50.00 of fraudulent charges. For more information on the FCBA, visit ftc.gov. We will only cover this liability if the unauthorized use of your credit card resulted through no fault of your own from purchases made while using the secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
+We guarantee that every online transaction you make will be 100% safe. This means you pay nothing if unauthorized charges are made to your card as a result of shopping at store.puma.com. Under the Fair Credit Billing Act (FCBA), your bank cannot hold you liable for more than $50.00 of fraudulent charges. For more information on the FCBA, visit [_http://www.ftc.gov/_](http://www.ftc.gov/). We will only cover this liability if the unauthorized use of your credit card resulted through no fault of your own from purchases made while using the secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
 
-**Commitment to Children**
+### Commitment to Children
 
 PUMA does not collect or maintain information from those people that we know are under 13 years old and we do not specifically target this group in our marketing materials or other advertising.
 
-**Access To Personal Information**
+### ACCESS TO PERSONAL INFORMATION
 
 PUMA is commented to ensuring that we have no personal information about customers that is not absolutely necessary in order to provide them with excellent service. We are also committed to ensuring that information about our customers is accurate and up-to-date.
 
 In order to ensure compliance with these policies, PUMA has appointed a Privacy Officer to oversee all aspects of its privacy policies and practices. If you wish to know what information we currently have about you, or are dissatisfied with PUMA’s privacy policies or practices, you should send a written request or complaint to the Privacy Officer at the address below.
 
-  
 PUMA.com Privacy Officer  
-5 Lyberty Way  
+10 Lyberty Way  
 Westford, MA, USA 01886
 
-  
-The Privacy Officer will investigate the matter and respond to your request within 30 days. In the event that you become aware that the information we have about you is incorrect, you should notify the Privacy Officer, who will ensure the information is updated. In the case of a complaint, the Privacy Officer will take corrective action (if necessary) and will advise you of the steps taken to correct the problem. If you are still unsatisfied with the actions taken, you may be entitled to make a written complaint to the appropriate government or legislative body. Effective Date: September 1, 2004.
+The Privacy Officer will investigate the matter and respond to your request within 30 days. In the event that you become aware that the information we have about you is incorrect, you should notify the Privacy Officer, who will ensure the information is updated. In the case of a complaint, the Privacy Officer will take corrective action (if necessary) and will advise you of the steps taken to correct the problem. If you are still unsatisfied with the actions taken, you may be entitled to make a written complaint to the appropriate government or legislative body. Effective Date: September 1, 2004
 
-  
-© PUMA SE, 2013  
- 
-
-© PUMA SE, 2014
+© PUMA SE, 2013
