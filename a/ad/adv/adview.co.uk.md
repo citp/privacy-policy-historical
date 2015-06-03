@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adview.co.uk privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219202118id_/http%3A//www.adview.co.uk/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adview.co.uk privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603044213id_/http%3A//www.adview.co.uk/policy) for the most accurate reproduction.*
 
 # AdView
 
