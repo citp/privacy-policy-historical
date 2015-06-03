@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alternativeenergybase.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926035037id_/http%3A//www.alternativeenergybase.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternativeenergybase.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603220909id_/http%3A//www.alternativeenergybase.com/privacy.php) for the most accurate reproduction.*
 
 # Alternative Energy Base
 
