@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the search.pro privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101102746id_/http%3A//www.search.pro/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the search.pro privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603220256id_/http%3A//www.search.pro/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - search.pro
 
