@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanaddictioncenters.org privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222223814id_/http%3A//americanaddictioncenters.org/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanaddictioncenters.org privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603141620id_/http%3A//americanaddictioncenters.org/policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | American Addiction Centers
 
@@ -6,66 +6,57 @@
 
 * * *
 
-**What information do we collect?**
+Last Modified: 03-01-2015
 
-We collect information from you when you register on our site, subscribe to our newsletter, fill out a form or comment on our blog.
-
-When requesting information or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
-
-**What do we use your information for?**
-
-Any of the information we collect from you may be used in one of the following ways:
-
-  * To personalize your experience (your information helps us to better respond to your individual needs)
-  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
-  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
-  * To administer a contest, promotion, survey or other site feature
-  * To send periodic opt-in emails. You may unsubscribe at any time
-  * For additional marketing purposes – you may opt out at any time
-
-
-
-Note: If at any time you would like to unsubscribe from receiving future emails, simply email us at contactaac at contactaac.com
-
-**How do we protect your information?**
-
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
-
-We do not store any Personal Health Information on our website or databases.
-
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.  
-We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
-
-**Do we disclose any information to outside parties?**
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-**Children’s Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-**Website Editor and Webmaster:**
-
-Webmaster  
-contactaac at contactaac.com  
-888-300-3332
-
-All of the contents on americanaddictioncenters.org including any images, text, external links, graphics or any other material posted on this website are intended solely for informational purposes. The information contained herein may be written by non-medical professionals and is not necessarily a substitute for professional medical advice, treatment or diagnosis of any disease or disability. Please seek advice from a qualified medical professional with any questions that you may have regarding your physical or mental health condition(s). If you are experiencing thoughts of suicide or any other medical emergency dial 911 or visit your local emergency room. The thoughts and views expressed in certain opinion articles are not necessarily those of American Addiction Centers, its owners, employees, management or subsidiary companies.
-
-This website contains links to external websites and references to other resources that are not associated with American Addiction Centers and its business associates. American Addiction Centers and its business associates have no control over these third-party resources and make no warranty or representation as to the content of those resources. Their inclusion does not constitute an endorsement or recommendation. American Addiction Centers and its business associates do not necessarily endorse the views expressed.
-
-The information contained on americanaddictioncenters.org may change at any time without notice.
-
-In cases where third party materials or products are offered for sale they are clearly marked as advertisements and separated from editorial content. Our website hosts sponsored ads and links. We do not control the ads’ content and our editorial content is free of any outside commercial influence.
+This Privacy Policy describes how and when we collect, use and share information about you when you visit this website. By using this website, you consent to the collection, transfer, manipulation, storage, disclosure and other uses of information collected from you as described in this Privacy Policy.
 
 **Online Privacy Policy Only**
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+This online privacy policy applies only to information collected through our website and not to information collected offline, including telephonically, via email, or through any other means.
 
-By using our site, you consent to our web site privacy policy.
+**What Information Do We Collect From Visitors to Our Website?**
 
-**Changes to our Privacy Policy**
+Upon visiting our site, our server automatically logs your visit. The server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request, and one or more cookies that may uniquely identify your browser.
+
+Additionally, we collect information you expressly provide. When using our site, subscribing to our newsletter, filling out a form, commenting on our blog or taking a certification quiz, you may be asked to enter your name, e-mail address, mailing address, phone number or other contact information. You may also be asked to provide information that will assist us in referring you to an appropriate treatment center, such as information relating to the condition or ailment you wish to treat and your insurance information. Similarly, we may collect payment information, such as credit and debit card numbers, when you make purchases through the site.
+
+**Do We Disclose Visitors’ Information to Third Parties?**
+
+We do not sell or trade to outside parties the information we collect from you other than as set forth herein. We may disclose the information we collect to third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. Non-personally identifiable visitor information (including unique device identifiers) may be provided to other parties for marketing, advertising, or other uses.
+
+**How Do We Use Visitors’ Information?**
+
+We may use the information we collect from you in the following ways:
+
+  * To process a placement and/or consulting request
+  * To personalize your experience (your information helps us to better respond to your individual needs)
+  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
+  * To administer a promotion, survey or other site feature
+  * To send you information and updates pertaining to your placement and/or consulting request.
+
+
+
+We may use cookies to enable the site’s or service providers’ systems to recognize your browser and capture and remember certain information.
+
+We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies, using your browser’s settings.
+
+If you disable cookies, some features may be disabled that make your site experience more efficient and some of our services may not function properly.
+
+**How Does Our Site Handle Do-Not-Track Signals?**
+
+Some browsers incorporate a “Do Not Track” (DNT) feature that, when activated, signals to websites and online services that you do not want to be tracked. However, there is not yet an accepted standard for how to respond to browser DNT signals, and we do not currently respond to them.
+
+**Your California Privacy Rights**
+
+Under California Civil Code Section 1798.83, California customers are entitled to request information relating to whether a business has disclosed Personal Information to any third parties for the third parties’ direct marketing purposes. California customers who wish to request further information about our compliance with this statute or who have questions more generally about our Notice and our privacy commitments to our customers should not hesitate to contact us at [contactaac@contactaac.com](mailto:contactaac@contactaac.com).
+
+All of the contents on this website, including any images, text, external links, graphics or any other material posted on this website, are intended solely for informational purposes. The information contained herein may be written by non-medical professionals and is not necessarily a substitute for professional medical advice, treatment or diagnosis of any disease or disability. Please seek advice consulting a qualified medical professional with any questions that you may have regarding your physical or mental health condition(s). If you are experiencing thoughts of suicide or any other medical emergency dial 911 or visit your local emergency room.
+
+This website contains links to external websites and references to other resources that are not associated with this website. We have no control over these third-party resources and make no warranty or representation as to the content of those resources. Their inclusion does not constitute an endorsement or recommendation.
+
+**Changes to This Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page.
