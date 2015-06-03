@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avanset.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215062927id_/http%3A//www.avanset.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avanset.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603234302id_/http%3A//www.avanset.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Avanset | Leader in VCE Software | Privacy Policy
 
