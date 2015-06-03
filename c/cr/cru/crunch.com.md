@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crunch.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513001720id_/http%3A//www.crunch.com/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crunch.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603093037id_/https%3A//www.crunch.com/footer/privacy-policy) for the most accurate reproduction.*
 
 # Crunch Gym | Making Fitness Fun | Privacy Policy
 
