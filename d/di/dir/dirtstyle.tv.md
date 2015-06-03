@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dirtstyle.tv privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201085129id_/http%3A//dirtstyle.tv/page/2/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirtstyle.tv privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603064136id_/http%3A//dirtstyle.tv/page/2/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - DSTV
+# Privacy Policy - DIRTSTYLE.TV
 
 **Privacy Policy**
 
