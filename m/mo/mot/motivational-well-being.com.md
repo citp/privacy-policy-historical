@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motivational-well-being.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703203419id_/http%3A//www.motivationalwellbeing.com/legal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motivational-well-being.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603055221id_/http%3A//www.motivationalwellbeing.com/legal.html) for the most accurate reproduction.*
 
-# Legal Disclaimer | Privacy Policy | MotivationalWellBeing
+# Legal Disclaimer | Privacy Policy - MotivationalWellBeing
 
   * Legal Disclaimer
   * User Submitted Content Ownership
@@ -17,7 +17,7 @@ This web site, www.motivationalwellbeing.com, is intended to provide educational
 
 The publisher has endeavored to make the material on this site accurate. The information should be used only as general guide, however, as the publisher cannot guarantee that this information is free of typographical or content errors. Furthermore, each piece of content contains educational information only up to its original publication date.
 
-THE INFORMATION ON THIS SITE IS PROVIDED “AS-IS”. THE AUTHOR(S) AND THE PUBLISHER WILL ASSUME NO LIABILITY NOR RESPONSIBILITY TO ANY PERSON OR ENTITY WITH RESPECT TO ANY LOSS OR DAMAGE RELATED DIRECTLY OR INDIRECTLY TO THE INFORMATION ON THIS SITE. NO WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE. THE PUBLISHER WILL PROVIDE NO REMEDY FOR INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES ARISING FROM THIS SITE, INCLUDING SUCH FROM NEGLIGENCE, STRICT LIABILITY, OR BREACH OF WARRANTY OR CONTRACT, EVEN AFTER NOTICE OF THE POSSIBILITY OF SUCH DAMAGES.
+THE INFORMATION ON THIS SITE IS PROVIDED “AS-IS”. THE AUTHOR(S) AND THE PUBLISHER WILL ASSUME NO LIABILITY NOR RESPONSIBILITY TO ANY PERSON OR ENTITY WITH RESPECT TO ANY LOSS OR DAMAGE RELATED DIRECTLY OR INDIRECTLY TO THE INFORMATION ON THIS SITE. NO WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE. THE PUBLISHER WILL PROVIDE NO REMEDY FOR INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES ARISING FROM THIS SITE, INCLUDING SUCH FROM NEGLIGENCE, STRICT LIABILITY, OR BREACH OF WARRANTY OR CONTRACT, EVEN AFTER NOTICE OF THE POSSIBILITY OF SUCH DAMAGES. 
 
   
 **Ownership of User Submitted Content**
@@ -65,14 +65,10 @@ I use outside ad companies to display ads on this site. These ads may contain co
   
 **Affiliate Disclosure**
 
-The products that are recommended on this site are through affiliate programs which means I get paid a commission if a visitor buys the product(s) using my link.
+The products that are recommended on this site are through affiliate programs which means I get paid a commission if a visitor buys the product(s) using my link. 
 
 I’m also a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
 
- **Contact Information**
+**Contact Information**
 
-If you have any questions or concerns please contact me on the contacts page. This privacy policy was updated in July 2012.
-
-### Share Your Thoughts
-
-comments
+If you have any questions or concerns please contact me on the contacts page. This privacy policy was updated in April 2015.
