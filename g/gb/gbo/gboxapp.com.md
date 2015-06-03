@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gboxapp.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220092253id_/http%3A//gboxapp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gboxapp.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603030036id_/http%3A//gboxapp.com/privacy.html) for the most accurate reproduction.*
 
 # Gboxapp - The web in a box
 
