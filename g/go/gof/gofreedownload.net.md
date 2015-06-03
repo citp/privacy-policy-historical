@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gofreedownload.net privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015143810id_/http%3A//gofreedownload.net/index.php%3Fm%3DPrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofreedownload.net privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603213204id_/http%3A//gofreedownload.net/index.php%3Fm%3DPrivacy_Policy) for the most accurate reproduction.*
 
 # Free Download Vector|PSD|Photos|Font|Footage|Website Templates|Photoshop Tools
 
-Welcome to [GoFreeDownload.net.](https://web.archive.org/web/20141015143810id_/http%3A//gofreedownload.net/http//:gofreedownload.net)
+Welcome to [GoFreeDownload.net.](http://gofreedownload.net/)
 
 We respect your privacy and are committed to protecting personally identifiable information you may provide us through the Website. We have adopted this privacy policy ("Privacy Policy") to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through the Website and does not apply to our collection of information from other sources.
 
