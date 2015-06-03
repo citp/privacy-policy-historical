@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moshtix.com.au privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225182339id_/http%3A//www.moshtix.com.au/v2/faq/faq-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moshtix.com.au privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603054154id_/http%3A//www.moshtix.com.au/v2/faq/faq-privacy-policy) for the most accurate reproduction.*
 
 # FAQ | moshtix
 
