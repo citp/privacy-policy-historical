@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teachersnotebook.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120084638id_/http%3A//www.teachersnotebook.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachersnotebook.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603051726id_/http%3A//www.teachersnotebook.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy
 
 **What This Privacy Policy Covers  **  
 This privacy policy covers the use of the web site located at TeachersNotebook.com and the services provided by Teacher's Notebook, LLC. ("Teacher's Notebook"), including how Teacher's Notebook treats personal information that Teacher's Notebook collects and receives. Pursuant to Teacher's Notebook's [Terms of Use](https://web.archive.org/terms), you must be 18 years and older to use this site. Therefore, this policy makes no provision for individuals under 18 years old. This policy does not apply to the practices of third parties that Teacher's Notebook does not own or control, or individuals that Teacher's Notebook does not employ or manage.
