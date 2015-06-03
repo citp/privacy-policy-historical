@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the findlight.net privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209182822id_/http%3A//www.findlight.net/cms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findlight.net privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603101102id_/http%3A//www.findlight.net/cms/privacy-policy) for the most accurate reproduction.*
 
-# Findlight - Privacy-policy
+# Privacy-policy
 
 What information do we collect? 
 
