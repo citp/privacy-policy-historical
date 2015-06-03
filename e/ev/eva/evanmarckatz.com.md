@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the evanmarckatz.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702174635id_/http%3A//www.evanmarckatz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evanmarckatz.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603190231id_/http%3A//www.evanmarckatz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Dating Coach - Evan Marc Katz | Understand Men. Find Love.
+# Privacy Policy - Dating Coach - Evan Marc Katz | Understand Men. Find Love.
 
 We at evanmarckatz.com respect the privacy concerns of the users of this site and have created this privacy policy to explain (1) what information we gather from you when you visit our site, (2) how we may use such information, (3) your choices concerning how we may use such information and (4) the security measures we take to protect such information. Some information is collected on this site automatically through our technology; other information is collected only when you choose to give it to us (e.g., when you purchase our services or sign up for a specific online transaction).
 
