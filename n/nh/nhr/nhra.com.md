@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhra.com privacy policy that was archived on 2014-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140916165125id_/http%3A//www.nhra.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhra.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603070407id_/http%3A//www.nhra.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
