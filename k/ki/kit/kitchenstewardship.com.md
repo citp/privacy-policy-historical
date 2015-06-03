@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kitchenstewardship.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202121613id_/http%3A//www.kitchenstewardship.com/about-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitchenstewardship.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603215213id_/http%3A//www.kitchenstewardship.com/about-2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kitchen Stewardship | A Baby Steps Approach to Balanced Nutrition
 
-This Privacy Policy governs the manner in which Kitchen Stewardship, LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.kitchenstewardship.com](https://web.archive.org/web/20141202121613id_/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Kitchen Stewardship, LLC.
+This Privacy Policy governs the manner in which Kitchen Stewardship, LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.kitchenstewardship.com](https://web.archive.org/web/20150603215213id_/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Kitchen Stewardship, LLC.
 
 **Personal identification information**
 
@@ -20,15 +20,15 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Kitchen Stewardship, LLC collects and uses Users’ personal information for the following purposes:
 
-  * _\- To personalize user experience_  
+  * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve customer service_  
-Your information helps us to more effectively respond to your customer service requests and support needs, especially if you order an eBook or have a question in a comment. The software automatically emails you my answer when I reply. I do not, however, make any lists using the emails I see in comments.
-  * _\- To process transactions_  
+  * _– To improve customer service_  
+Your information helps us to more effectively respond to your customer service requests and support needs, especially if you order an eBook or have a question in a comment. The commenting software automatically emails you my answer when I reply. I do not, however, make any lists using the emails I see in comments.
+  * _– To process transactions_  
 We may use the information Users provide about themselves when placing an order to provide service to that order, including ebook updates, and also special offers that may be of interest to you. We do not share this information with outside parties except to the extent necessary to provide the service.
-  * _\- To administer a content, promotion, survey or other Site feature_  
+  * _– To administer a content, promotion, survey or other Site feature_  
 To send Users information they agreed to receive about topics we think will be of interest to them. When you enter a giveaway, we will use the list of emails to send one email announcing the winner or directing entrants to the site to view the winner. It is highly unlikely that we would ever use that list for anything else, but possible.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 The email address Users provide for order processing will be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions, and will be part of the customer list, which may be used to pass on items of interest to ebook owners. If User decides to opt-in to our mailing list, they will receive emails that may include daily blog posts, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
@@ -39,7 +39,11 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 **Sharing your personal information**
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. (That means I might tell an advertiser how many people clicked on their links or entered their giveaway, but I’ll never share your email addresses or names with them, unless you are the winner ofa giveaway.) We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. (That means I might tell an advertiser how many people clicked on their links or entered their giveaway, but I’ll never share your email addresses or names with them, unless you are the winner of a giveaway.) We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+
+**Payment information**
+
+Kitchen Stewardship does not collect or even see any financial information, including bank account numbers, credit card information, or Paypal passwords. The eBook store send customers directly to Paypal where all monetary transactions take place. We can submit a refund through Paypal and see that you have paid, but that is the extent of our dealings with finances. We are not liable for any compromise of sensitive information that may occur while using external websites like Paypal and others.
 
 **Third party websites**
 
@@ -66,11 +70,13 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Kitchen Stewardship, LLC](https://web.archive.org/web/20141202121613id_/)  
-[http://www.kitchenstewardship.com](https://web.archive.org/web/20141202121613id_/)  
+[Kitchen Stewardship, LLC](https://web.archive.org/web/20150603215213id_/)  
+[http://www.kitchenstewardship.com](https://web.archive.org/web/20150603215213id_/)  
 Katie Kimball Kitchen Stewardship, LLC  
 kitchenstew@gmail.com
 
-This document was last updated on November 19, 2013.
+This document was last updated on February 3, 2015.
 
 Privacy policy created by [Generate Privacy Policy](http://www.generateprivacypolicy.com/)
+
+[Powered by Sidelines](http://sidelinesapp.com/)
