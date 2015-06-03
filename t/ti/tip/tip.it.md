@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tip.it privacy policy that was archived on 2014-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140822174050id_/http%3A//www.tip.it/runescape/pages/view/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tip.it privacy policy that was archived on 2015-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150604011943id_/http%3A//www.tip.it/runescape/pages/view/privacy.htm) for the most accurate reproduction.*
 
 # Privacy - Pages :: Tip.It RuneScape Help :: The Original RuneScape Help Site!
 
