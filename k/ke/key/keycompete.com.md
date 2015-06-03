@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keycompete.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111320id_/http%3A//www.keycompete.com/privacy-policy-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keycompete.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603045530id_/http%3A//www.keycompete.com/privacy-policy-terms-of-use) for the most accurate reproduction.*
 
 # HireGEMS® - Privacy Policy and Terms of Use
 
