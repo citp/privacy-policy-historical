@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vcahospitals.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121035938id_/http%3A//www.vcahospitals.com/main/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcahospitals.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603104928id_/http%3A//www.vcahospitals.com/main/privacy-policy) for the most accurate reproduction.*
 
 # VCA Home Office Privacy Policy
 
-The Privacy Policy of VCA Inc., and its subsidiaries ("VCA") has been developed as an extension of our commitment to combine the finest quality veterinary services with the highest level of integrity in dealing with our customers. This Policy guides how we collect, store and use information about customers and prospects, and it will be periodically assessed against new technologies, business practices and our customers' changing needs.
+The Privacy Policy of VCA Inc., and its subsidiaries ("VCA") has been developed as an extension of our commitment to combine the finest quality veterinary services with the highest level of integrity in dealing with our customers. This Policy guides how we collect, store and use information about customers and prospects, and it will be periodically assessed against new technologies, business practices and our customers\' changing needs.
 
 VCA may, from time to time, modify this Privacy Policy to reflect legal, technological and other developments. In that event, the changes will appear at this location.
 
@@ -54,12 +54,12 @@ If you wish to "opt-out" and be removed from distribution lists of our messages 
 
 **7\. Cookies.**
 
-What is a "Cookie"? A cookie is a small piece of information that is sent to your browser, along with a Web page, when you access a Web site. There are two kinds of cookies: a "session" cookie and a "persistent" cookie. A session cookie is a line of text that is stored temporarily in your computer's RAM. Because a session cookie is never written to a drive, it is destroyed as soon as you close your browser. A persistent cookie is a more permanent line of text that gets saved by your browser to a file on your hard drive. Depending on your browser settings, you may receive notification that a given site is requesting cookie information, possibly with an expiration date. Persistent cookies have an expiration date in the future. Session cookies have no date associated with them.
+What is a "Cookie"? A cookie is a small piece of information that is sent to your browser, along with a Web page, when you access a Web site. There are two kinds of cookies: a "session" cookie and a "persistent" cookie. A session cookie is a line of text that is stored temporarily in your computer\'s RAM. Because a session cookie is never written to a drive, it is destroyed as soon as you close your browser. A persistent cookie is a more permanent line of text that gets saved by your browser to a file on your hard drive. Depending on your browser settings, you may receive notification that a given site is requesting cookie information, possibly with an expiration date. Persistent cookies have an expiration date in the future. Session cookies have no date associated with them.
 
 VCA uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to <http://www.google.com/privacy/ads/>.
 
 **8\. Questions?**
 
-If you have questions about VCA's Privacy Policy, please contact us, and we will be happy to assist you.
+If you have questions about VCA\'s Privacy Policy, please contact us, and we will be happy to assist you.
 
 [Return to our homepage](https://web.archive.org/main/home "Return to our homepage")
