@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the belmarrahealth.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125024603id_/http%3A//www.belmarrahealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belmarrahealth.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603145542id_/http%3A//www.belmarrahealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Privacy Policy
 
 We at Bel Marra have a strict anti-spam, anti-spyware and anti-adware policy. Your privacy is important to us! We realize how important your privacy is to you, that is why we will never sell your e-mail address.
 
@@ -20,9 +18,9 @@ Occasion we will feature links or ads to third parties on this website. Though w
 
  **Help protect your liver from 'chemical death'**
 
-Thanks to modern living almost everything you consume has a toxic edge. Drinking water, processed foods, drugs, even the air you breathe contains chemicals that could end up in your liver and damage it. This can lead to health issues like poor digestion, body aches, weakness, poor skin and even a foggy brain. 
+Thanks to modern living almost everything you consume has a toxic edge. Drinking water, processed foods, drugs, even the air you breathe contains chemicals that could end up in your liver and damage it. This can lead to health issues like poor digestion, body aches, weakness, poor skin and even a foggy brain.
 
-The good news is, with a little help, your liver can heal itself. To see how you can help protect and nourish your liver, [Click Here](http://www.belmarrahealth.com/BelProducts/LiverRescue/Video/indexN.php?sb=MIDDLEPOST).
+The good news is, with a little help, your liver can heal itself. To see how you can help protect and nourish your liver, [Click Here to View](http://www.belmarrahealth.com/BelProducts/LiverRescue/Video/indexN.php?sb=MIDDLEPOST).
 
 We may gather general information about our website users and their usage of the website. This information includes IP address, pages viewed, number of visitors, purchases made, etc. Cookies are used to help to provide us wit this information regarding the user interaction with the website.
 
