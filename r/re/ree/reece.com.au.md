@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reece.com.au privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120170202id_/http%3A//www.reece.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reece.com.au privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603044641id_/http%3A//www.reece.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
 Reece Pty Ltd will on occasions collect personal information from individuals. The Privacy Act does not apply to companies. The privacy of your personal information is afforded the highest level of importance by Reece Pty Ltd. We are bound by the Privacy Act 1988 (Cth) regarding the manner in which we handle your personal information and how we respond to your requests to access and correct it. This document sets out our information handling procedures and the rights and obligations that both you and we have in relation to your personal information.
 
