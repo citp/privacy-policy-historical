@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apnic.net privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129074656id_/http%3A//www.apnic.net/apnic-info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnic.net privacy policy that was archived on 2015-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150605014823id_/http%3A//www.apnic.net/apnic-info/privacy) for the most accurate reproduction.*
 
 # APNIC Privacy Statement | APNIC
 
@@ -151,7 +151,7 @@ You may modify any information you have used in a web-based form at any time. Yo
 
 If you have subscribed to any APNIC mailing lists, you are able to unsubscribe yourself at any time.
 
-If you have concerns about the accuracy or appropriateness of any other personal information held by the APNIC Secretariat, please [contact us](http://www.apnic.net/about-APNIC/organization/contact-APNIC). The APNIC Secretariat will seek to correct any problems as soon as possible.
+If you have concerns about the accuracy or appropriateness of any other personal information held by the APNIC Secretariat, please [contact us](https://www.apnic.net/about-APNIC/organization/contact-APNIC). The APNIC Secretariat will seek to correct any problems as soon as possible.
 
 Top
 
@@ -177,7 +177,7 @@ Top
 
 ## 8\. Questions or suggestions
 
-If you have questions or concerns about the issues discussed, please [contact us](http://www.apnic.net/about-APNIC/organization/contact-APNIC) via the contact details listed in section 6.
+If you have questions or concerns about the issues discussed, please [contact us](https://www.apnic.net/about-APNIC/organization/contact-APNIC) via the contact details listed in section 6.
 
 Top
 
