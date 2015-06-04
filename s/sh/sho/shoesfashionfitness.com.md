@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shoesfashionfitness.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230123658id_/http%3A//www.shoesfashionfitness.com/prfriendly/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoesfashionfitness.com privacy policy that was archived on 2015-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150604120447id_/http%3A//www.shoesfashionfitness.com/prfriendly/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy -
 
 **Privacy Policy:**
 
