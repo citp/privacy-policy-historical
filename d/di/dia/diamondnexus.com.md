@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diamondnexus.com privacy policy that was archived on 2014-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140907034755id_/http%3A//www.diamondnexus.com/customer-service-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diamondnexus.com privacy policy that was archived on 2015-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150604151845id_/https%3A//www.diamondnexus.com/customer-service-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,5 +41,3 @@ You can opt-out of Google Analytics data gathering on [this page](https://tools.
 ### How to Contact Us:
 
 Should you have other questions or concerns about this privacy policy, please call us at 1.800.509.4990 or send us an email at: [customerservice@diamondnexus.com](mailto:customerservice@diamondnexuslabs.com)
-
-© 2004-2014 Diamond Nexus Div. Lautrec Corp. All Rights Reserved.  |  [Privacy Policy](https://web.archive.org/customer-service-privacy-policy.html "View our Privacy Policy")
