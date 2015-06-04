@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the casino-on-net.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225070156id_/http%3A//www.casino-on-net.com/security-and-privacy/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casino-on-net.com privacy policy that was archived on 2015-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150604060327id_/http%3A//www.casino-on-net.com/security-and-privacy/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Casino-on-Net
 
 **Introduction**
 
-Cassava Enterprises (Gibraltar) Limited (the " **Company** ", " **we** " or " **us** ") offers gambling services via its in-house brands (each an " **In-House Brand** ") and via third parties' brands as part of so called "white labels" (each a " **White Label** Brand"). In addition to offering its gambling services via the Internet (the " **Internet Platform** "), the Company may from time to time offer its services via alternative platforms such as (i) interactive television, (ii) mobile gaming platforms, (iii) in-flight entertainment platforms, and (iv) Facebook applications (each, an " **Alternative Platform** "). PLEASE NOTE: If you play or register an account in the United Kingdom (UK) all references herein to the "Company", "us" or "we" shall be deemed as a reference to 888 UK Limited. 888 UK Limited is within the same corporate group as Cassava Enterprises (Gibraltar) Limited.
+Cassava Enterprises (Gibraltar) Limited (the " **Company** ", " **we** " or " **us** ") offers gambling services via its in-house brands (each an " **In-House Brand** ") and via third parties' brands as part of so called "white labels" (each a " **White Label** Brand"). In addition to offering its gambling services via the Internet (the " **Internet Platform** "), the Company may from time to time offer its services via alternative platforms such as (i) interactive television, (ii) mobile gaming platforms, (iii) in-flight entertainment platforms, and (iv) Facebook applications (each, an " **Alternative Platform** ").
+
+PLEASE NOTE: If you play or register an account in the United Kingdom (UK) all references herein to the "Company", "us" or "we" shall be deemed as a reference to 888 UK Limited. 888 UK Limited is within the same corporate group as Cassava Enterprises (Gibraltar) Limited.
+
+PLEASE NOTE: If you play in any EU member state except for states which you play on a local license, for example, in the UK all references herein to the "Company", "us" or "we" shall be deemed as a reference to Virtual Digital Services Limited.
 
 When you use the Company's gambling services either via an In-House Brand or a White Label Brand, and whether such use is via the Internet Platform or an Alternative Platform, you shall be asked to provide personal identifiable information (" **PII** ") to the Company.
 
@@ -64,7 +68,7 @@ Your PII will not be stored for any longer period than is necessary for the purp
 
 **Information about us**
 
-Cassava Enterprises (Gibraltar) Limited/888 UK Limited (as applicable) Suite 601/701 Europort, Gibraltar. 
+Cassava Enterprises (Gibraltar) Limited/888 UK Limited/Virtual Digital Services Limited (as applicable) Suite 601/701 Europort, Gibraltar. 
 
 This Privacy Policy is subject to change, so please check it regularly. We reserve the right to amend or modify this Privacy Policy at any time and in response to changes in applicable data protection and privacy legislation. In the event the Purposes change, we will notify you as soon as possible and, where required, seek your consent where such notification relates to a new additional purpose for processing. 
 
