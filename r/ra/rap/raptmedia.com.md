@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the raptmedia.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502025616id_/http%3A//www.raptmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raptmedia.com privacy policy that was archived on 2015-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150604192617id_/http%3A//www.raptmedia.com/privacy) for the most accurate reproduction.*
 
-# Rapt Media - Privacy - Rapt Media
+# Privacy Policy | Rapt Media
 
 **I. Privacy Policy**  
 This Privacy Policy states what information Rapt Media, Inc. (“Rapt Media”) collects from users of its RAPTMEDIA.COM website (the “Site”), RAPT MEDIA interactive video engineering platform, and associated analytics services (the platform and analytics services, collectively the “Services”), and how this information is used. Your use of the Site, Services and/or registration on the Site constitutes acceptance by you of the terms of this Privacy Policy. Any changes to Rapt Media’s Privacy Policy will be effective when posted. Your continued use of this Site and/or Services following the posting of any changes or revisions to the Privacy Policy constitutes your acceptance to those changes.
