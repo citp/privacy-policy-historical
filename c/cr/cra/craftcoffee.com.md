@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craftcoffee.com privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924173547id_/https%3A//www.craftcoffee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftcoffee.com privacy policy that was archived on 2015-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150605000851id_/https%3A//www.craftcoffee.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Craft Coffee
 
