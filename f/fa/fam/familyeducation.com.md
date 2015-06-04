@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familyeducation.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225025025id_/http%3A//fen.com/resources/privacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyeducation.com privacy policy that was archived on 2015-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150604163657id_/http%3A//fen.com/resources/privacyStatement.html) for the most accurate reproduction.*
 
 # Fen.com - Privacy Statement
 
@@ -44,7 +44,7 @@
   
 | 
 
-FEN, a division of Pearson Education, Inc., ("FEN") operates this website ("Website") and is committed to protecting the privacy and security of its online visitors. We are also extremely sensitive to family and educator concerns about children's safety and information related to them. We want you to know about and understand the measures we have taken to keep the websites and online services provided by FEN a safe and secure environment for everyone. This privacy statement tells you about the types of information that we collect from you, how we collect that information from you and how we use that information. 
+FEN, a division of Sandbox Networks, Inc., ("FEN") operates this website ("Website") and is committed to protecting the privacy and security of its online visitors. We are also extremely sensitive to family and educator concerns about children's safety and information related to them. We want you to know about and understand the measures we have taken to keep the websites and online services provided by FEN a safe and secure environment for everyone. This privacy statement tells you about the types of information that we collect from you, how we collect that information from you and how we use that information. 
 
 We encourage our visitors to read through and understand our privacy statement. We may update it from time to time to address new issues or reflect changes on our Website. Please refer to this privacy statement regularly. FEN reserves the right to revise this privacy statement at any time and such revisions shall be effective immediately upon notice thereof. Notice may be given by any means including, but not limited to, posting the revised privacy statement on this Website. Any use of our site by you subsequent to such notice shall be deemed to constitute acceptance by you of such revision. 
 
@@ -90,7 +90,7 @@ The anonymized information we track with cookies is not used to identify, or lea
 
 FEN may also use third party vendors who supply applications, web hosting and other technologies for this Website that may have access to your personal information and anonymized information but they will never use such information for any other purpose except to provide services in connection with this site. 
 
-FEN will not share any personal information about you with any third party (a party not affiliated with Pearson Education, Inc.), except as otherwise stated in this Privacy Statement and in the following circumstances: (a) in response to subpoenas, court orders or legal process, to the extent permitted and as restricted by law; (b) when disclosure is required to maintain the security and integrity of this site, or to protect any user's security or the security of other persons, consistent with applicable laws; (c) when disclosure is directed or consented to by the registered member who has inputted the personal information; (d) in the event that Pearson Education, Inc. (the owner of FEN) or any of its subdivisions or units goes through a business transition, such as a merger, divestiture, acquisition, liquidation or sale of all or a portion of its assets, your personal information will, in most instances, be part of the assets transferred; or (e) in limited circumstances, FEN may disclose your email address in order to comply with laws and regulations, including the Controlling the Assault of Non-Solicited Pornography and Marketing Act (CAN-SPAM of 2003). 
+FEN will not share any personal information about you with any third party (a party not affiliated with Sandbox Networks, Inc.), except as otherwise stated in this Privacy Statement and in the following circumstances: (a) in response to subpoenas, court orders or legal process, to the extent permitted and as restricted by law; (b) when disclosure is required to maintain the security and integrity of this site, or to protect any user's security or the security of other persons, consistent with applicable laws; (c) when disclosure is directed or consented to by the registered member who has inputted the personal information; (d) in the event that Sandbox Networks, Inc. (the owner of FEN) or any of its subdivisions or units goes through a business transition, such as a merger, divestiture, acquisition, liquidation or sale of all or a portion of its assets, your personal information will, in most instances, be part of the assets transferred; or (e) in limited circumstances, FEN may disclose your email address in order to comply with laws and regulations, including the Controlling the Assault of Non-Solicited Pornography and Marketing Act (CAN-SPAM of 2003). 
 
 ## Helpful Explanations
 
@@ -128,7 +128,7 @@ FEN has security measures in place to protect the loss, misuse, and alteration o
 
 * * *
 
-© 2000-2014 Pearson Education, Inc. All rights reserved 
+© 2000-2015 Sandbox Networks, Inc. All rights reserved 
 
   
   | 
