@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anedot.com privacy policy that was archived on 2013-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130325111406id_/https%3A//anedot.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anedot.com privacy policy that was archived on 2015-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150605153237id_/https%3A//anedot.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Anedot — Accept Money Everywhere
 
