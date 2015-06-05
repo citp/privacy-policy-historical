@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scholastic.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042731id_/http%3A//www.scholastic.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholastic.com privacy policy that was archived on 2015-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150605150942id_/http%3A//www.scholastic.com/privacy.htm) for the most accurate reproduction.*
 
-# Scholastic Privacy Policy | Your Privacy Rights
+# Terms of Use | Scholastic Inc.
 
 Scholastic knows that your privacy is important to you, and we want you to know that it is important to us too. Unless otherwise specified in connection with a particular activity, this Policy explains the types of information we collect through our Web sites, online services or applications on which this Policy is posted (each, a "Site"), how we will use, disclose and protect this information once it is collected, and how you can opt out of some of our uses and disclosures of your information. By visiting our Site, you agree to the terms of this Privacy Policy.
 
@@ -55,6 +55,8 @@ It may take us a few days to process any opt-out request. In addition, if you op
   * credit card and other payment information
   * certain school/education information
 
+
+
 Personal Information may also include information, such as names and email addresses, that we collect from you about other people when you share content on our Site with someone else, purchase a gift, or create a teacher account for a classroom.
 
 We may also collect information such as your date of birth and certain demographic information. We do not generally treat these as Personal Information except when tied to information such as that listed above.
@@ -75,6 +77,8 @@ To track information about use of our Sites, we use various technological tools.
   
 
   * A pixel tag (also known as a "clear GIF" or "web beacon") is a tiny image - typically just one-pixel - that can be placed on a Web page or in an email to you, to tell us when you have displayed that page or opened that email.
+
+
 
 These technologies allow us to assign a unique customer number to you.
 
@@ -101,6 +105,8 @@ We may use the information we collect from and about you to perform various busi
   * other purposes disclosed when Personal Information is submitted to us
   * where otherwise permitted or required by applicable law
 
+
+
 To do these things, we may match information collected from you in different ways or at different times, including both Personal Information and Site usage information, and use that information along with information obtained from other sources (including third parties) such as demographic information and updated contact information.
 
 **Social Networking**  
@@ -124,6 +130,8 @@ We may also share your Personal Information:
   * in connection with a corporate change or dissolution, including for example a merger, acquisition, reorganization, consolidation, bankruptcy, liquidation, sale of assets or wind down of business; and due diligence related to the foregoing
   * in additional circumstances subject to your consent
 
+
+
 In addition, we may share non-personally identifiable Site usage information (including aggregate data) with others, for their own use, in a form that does not include your name or contact information.
 
 **Third-Party Tracking, Ad Servers and Networks**  
@@ -141,7 +149,9 @@ If you are a parent, guardian or teacher and you or your minor child or student 
   * ask us to delete the child's Personal Information
   * ask us not to collect Personal Information from the child in the future
 
-by contacting us at: 
+
+
+by contacting us at:
 
 Parent/Teacher Request for Information  
 Scholastic Inc.  
@@ -164,7 +174,6 @@ This Site may contain links, banners or advertisements that lead to other third 
 **Internet Safety**  
 We encourage parents and teachers to talk with their children and students about how to be safe online. Here are some resources to help you do that.
 
-  
 **Changes to this Privacy Policy**  
 We may change this Policy from time to time. When we do, we will let you know by posting the changed Policy on this page with a new "Last Updated" date. We may choose (or be required by law) to tell you about changes by additional means, such as by sending an email to the email address we have on file for you. In some cases, we may request your consent to the changes.
 
@@ -180,7 +189,7 @@ Email: custserv@scholastic.com
 Phone: 1-800-SCHOLASTIC  
 
 
-This Privacy Policy replaces our former privacy policy which you can find posted [here](http://www.scholastic.com/privacy.htm).
+This Privacy Policy replaces our former privacy policy which you can find posted [here](https://web.archive.org/1998PrivacyPolicy2011Update.htm).
 
 **Effective Date:** November 21, 2013  
 Updated July 2014 to add links to Opt-Out Request Form and Scholastic Education Technology Products Privacy Policy. 
@@ -201,6 +210,8 @@ We may collect the following Personal Information from our child visitors under 
   * photo or other image or recording
   * school name/location
   * teacher email address or other contact information
+
+
 
 We may also collect information from child visitors such as first name, last initial, general geo-location information (but no more specific than city or zip code), age or grade, gender or hobbies, activities, likes/dislikes (such as most recent book read, favorite book genre), which we consider Personal Information only if combined with any of the other items of Personal Information listed above. We may also collect date of birth (for age-screening purposes only), but we do not keep date of birth unless we specifically say we do in connection with a particular activity.
 
@@ -228,6 +239,8 @@ Here are examples of the technical tools we use to collect usage information abo
   
 
   * _Pixel tags_ : A pixel tag (also known as a "clear GIF" or "web beacon") is a tiny image that can be placed on a Web page or in emails to users, to tell us when a user has displayed that page or opened those emails.
+
+
 
 We use tracking tools to give our users a better experience - for example, so users don't have to log in every time they return to our Kids Sites, or so we can show our users content we think they will like. We also use these tools to learn how we can make our Kids Sites better. For example, by counting the number of users who visit our Sites, particular pages or activities, or checking to see if users open our emails, we can figure out how effective our content is.
 
@@ -273,6 +286,8 @@ If you are a parent of one of our child users, you can
   * ask us to delete Personal Information your child has given us
   * ask that we no longer collect Personal Information from your child
 
+
+
 At your request, we will stop collecting, using, and/or disclosing Personal Information from or about your child in accordance with your request (for example, for just one activity or for all), but we reserve the right to keep certain information necessary for record-keeping to the extent permitted and/or required by law, including any statutory retention requirements.
 
 To make these requests, you may contact our Customer Service at 800-246-2986 or at e-Scholastic, 557 Broadway, New York, NY 10012. Please indicate whether you are a parent or a teacher who has given consent on behalf of a school as the intermediary for a parent. Parents (not teachers) may also print, complete and return [this](https://web.archive.org/inforequest/) letter to the specified address. Teachers may print, complete and return [this](https://web.archive.org/inforequest/tchrequest.htm) letter to the specified address. Before processing your request, we may verify your identity and parent/guardian/teacher relationship with the child or student, or, if you are a teacher, that you have any required consent from the parent or through the school to act as an intermediary for these purposes.
@@ -286,7 +301,6 @@ Our Kids Sites may contain links, banners or advertisements that lead to other t
 **_INTERNET SAFETY_**  
 We encourage parents and teachers to talk with their children and students about how to be safe online. Here are some resources to help you do that.
 
-  
 **_CHANGES TO OUR PRIVACY POLICIES_**  
 If we make a material change to our Kids Privacy Policy, we will make reasonable attempts to notify parents of child users by any means permitted by law, and we may require the parent's consent to any new privacy policy.
 
@@ -327,11 +341,11 @@ More details about Personal Information collected from kids in connection with a
 
 ### _**e-Cards on Kids Sites**_
 
-Child users can also use e-cards, "email this", "invite a friend" or similar tools that let users share Kids Site content with others. These tools require the recipient's email address, and may require the sender's first name and last initial together with the first name and last initial of the recipient. The information submitted with the e-card is not combined with the sender's user name and password (if any), in our database or otherwise, and is not included in or displayed on any public profile the sender may have. Sender and recipient information is not kept after the e-card is sent, and child users cannot freely type a message to include with the e-card or in the subject line. 
+Child users can also use e-cards, "email this", "invite a friend" or similar tools that let users share Kids Site content with others. These tools require the recipient's email address, and may require the sender's first name and last initial together with the first name and last initial of the recipient. The information submitted with the e-card is not combined with the sender's user name and password (if any), in our database or otherwise, and is not included in or displayed on any public profile the sender may have. Sender and recipient information is not kept after the e-card is sent, and child users cannot freely type a message to include with the e-card or in the subject line.
 
-**SCHOLASTIC KIDS SITES & OPERATORS LIST**
+ **SCHOLASTIC KIDS SITES & OPERATORS LIST**
 
-| Site: | Operator(s):  
+Site: | Operator(s):  
 ---|---  
 THE STACKS, Family Playground and other Kids Sites on Scholastic.com or distributed as mobile apps (unless otherwise specified in this list or in the privacy policy for a specific Kids Site or app) | Scholastic Inc.  
 557 Broadway  
