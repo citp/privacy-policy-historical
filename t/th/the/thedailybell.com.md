@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the thedailybell.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209151326id_/http%3A//thedailybell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailybell.com privacy policy that was archived on 2015-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150606005526id_/http%3A//www.thedailybell.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Daily Bell
 
-## Privacy Policy
+This Privacy Policy was last updated on March 9, 2015
 
-This Privacy Policy was last updated on September 3, 2014
-
-The www.TheDailyBell.com website (the “Website”) is owned and operated by High Alert Investment Management Ltd. In this Privacy Policy, the terms "High Alert", "we" and "our" refer to High Alert Investment Management Ltd., unless otherwise indicated.
+The www.TheDailyBell.com website (the “Website”) is owned and operated by Daily Bell, LLC. In this Privacy Policy, the terms "DB", "we" and "our" refer to Daily Bell, LLC, unless otherwise indicated.
 
 We consider privacy of paramount importance to liberty and thus implement rigorous security in safeguarding user information. As a part of that commitment, we have implemented this Privacy Policy that explains our privacy practices for information we collect through our Website. Your privacy matters to us, so please do take the time to get to know our practices – and if you have any questions, contact us at [CustomerService@TheDailyBell.com](mailto:CustomerService@TheDailyBell.com) (“Service Contact”).
 
-**1\. High Alert’s Commitment to Privacy**
+**1\. DB’s Commitment to Privacy**
 
 We are committed to protecting the privacy of our members. We have and will take measures that protect the privacy of personal information held by us.
 
@@ -45,7 +43,7 @@ We collect personal information:
 
 
 
-We may automatically collect some information when you visit our Website, such as your computer's network address and operating system, the site from which you linked to us, and the time and date of your visit and purchases. This information is not linked by us to personal information, but rather is only used to compile aggregate information. This information may be collected through the use of cookies (see our "On-line privacy practices" in Section 9 below).
+We may automatically collect some information when you visit our Website, such as your computer's network address and operating system, the site from which you linked to us, and the time and date of your visit and purchases. This information is not linked by us to personal information, but rather is only used to compile aggregate information. This information may be collected through the use of cookies and pixels (see our "On-line privacy practices" in Section 9 below).
 
 **4\. Use of Personal Information**
 
@@ -73,13 +71,13 @@ You acknowledge that our e-mail systems are operated in the "cloud". Cloud compu
 
 You confirm your consent to this manner of storage, and permit your online inquiry to be processed accordingly. You acknowledge that this Service Provider may be located in one or more Jurisdictions, your personal information may be processed and stored in one or more Jurisdictions and the governments, courts or law enforcement or regulatory agencies of one or more Jurisdictions may be able to obtain disclosure of your personal information through a lawful order made where the information is located.
 
-We will also disclose personal information in accordance with Section 9 below when the information is collected on-line at the Website and/or may disclose personal information without your knowledge or consent if a law, regulation, search warrant, subpoena or court order legally authorizes us or requires us to do so. We may also disclose personal information to protect the rights, property or personal safety of High Alert, its members, employees or other members of the public.
+We will also disclose personal information in accordance with Section 9 below when the information is collected on-line at the Website and/or may disclose personal information without your knowledge or consent if a law, regulation, search warrant, subpoena or court order legally authorizes us or requires us to do so. We may also disclose personal information to protect the rights, property or personal safety of DB, its members, employees or other members of the public.
 
 **6\. Accuracy**
 
 To ensure that the personal information you provided is accurate, complete and up-to-date, we urge you to provide us with updates regarding such information and to inform us of any errors affecting the personal information we hold by emailing Service Contact.
 
-**7.  Security Measures**
+**7\. Security Measures**
 
 We will continue to keep in place security measures in an effort to protect personal information held by us from unauthorized use, access, disclosure, distribution, loss or alteration. We employ physical, administrative, contractual and technological safeguards to protect personal information, and insist that our Service Providers do the same. Access to personal information will be restricted to authorized personnel who require the information in order to perform their duties properly. In addition, access will be limited to only that information that is strictly necessary for the performance of those duties. Please also see our "On-line privacy practices" in Section 9 below.
 
@@ -91,23 +89,25 @@ Our members are entitled to access the personal information held by us concernin
 
 In very limited circumstances, we may not be able to supply personal information for reasons of a legal nature, including privileged communications between professional and client or a pending judicial proceeding. In each case, we will provide written reasons outlining why your request for access has not been granted by us.
 
-**9.  Online Privacy Practices**
+**9\. Online Privacy Practices**
 
-Collection: We may collect personal information on-line when you visit our Website. In addition, we may collect cookie information when you browse the Website. Cookies are small files that are stored on your computer, and web beacons are electronic images that allow us to count visitors visiting certain Web pages, to access cookies, and to analyze whether advertising banners on our site or other sites were effective. At our Website, we may use cookies and beacons to help optimize your Website experience, to evaluate use of our Website and to support Website analytics. In doing so, we may collect technical information such as your IP address, your browser type, the addresses of referring Websites, and your path through our Website. Cookies help us to customize our Website for you and to better display pages according to your browser type. While cookies are optional for browsing our Website, they are required for registering or logging on. (In order to control the ability of Website providers to place cookies on your computer, you should consult your browser's "Options" and "Help" pages to learn how to adjust your settings to suit your privacy preferences.)
+Collection: We may collect personal information on-line when you visit our Website. In addition, we may collect cookie information when you browse the Website. Cookies are small files that are stored on your computer. Pixels are small blocks of code on webpages that allow another server to measure viewing of a webpage and often are used in connection with cookies. Web beacons are electronic images that allow us to count visitors visiting certain web pages, to access cookies, and to analyze whether advertising banners on our site or other sites were effective. At our Website, we may use cookies, pixels and/or beacons to help optimize your Website experience, to evaluate use of our Website and to support Website analytics. In doing so, we may collect technical information such as your IP address, your browser type, the addresses of referring Websites, and your path through our Website. Cookies help us to customize our Website for you and to better display pages according to your browser type.
 
-Use: We use personal information collected on-line as described above. In addition, we use personal information:
+.
+
+Use: We use personal information collected online as described above. In addition, we use personal information:
 
   1. to respond to your questions and concerns and to understand your needs and preferences;
   2. to conduct surveys and other research;
   3. to provide you with customized Website content and advertising;
   4. to detect, prevent, or otherwise address fraud, security or technical issues, or
-  5. protect against harm to the rights, property or safety of High Alert, its users or the public as required or permitted by law.
+  5. protect against harm to the rights, property or safety of DB, its users or the public as required or permitted by law.
 
 
 
 Protection: Personal information we collect on our Website is stored electronically, and may be combined with other off-line information. Personal information entered on our Website is encrypted using a security protocol called SSL (Secure Sockets Layer). SSL encrypts information entered on our site before it is sent over the Internet. SSL also allows you to view securely your on-line account and registration information. Account information is accessible on-line only through the use of a password. To protect the confidentiality of personal information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of our Website by any person using your password. You are advised that, unlike communication within our Website, we have no control over the privacy of your e-mail communications with us while in transit. We recommend that you do not include confidential, proprietary, personal information in e-mails, including credit card numbers, passwords, and other similar information. Also, if other people have access to your e-mail account, they may be able to access your password and obtain personal information about you, or change information about your user profile. You should not use an e-mail account operated by your employer because many employers have the legal right to access such e-mail accounts. If you believe your password has been misused, please advise us immediately by emailing us at our Contact Information noted below.
 
-On-line links to other Websites: Through links provided on our Website, you can link to other Websites of third parties who have agreed to offer goods and services to our members. Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party's privacy policy. Except as described above, we are not responsible for the content or privacy and security practices and policies of Websites to which we provide links. Links from our site to third parties or to other sites are provided for your convenience. We encourage you to learn about their privacy and security practices and policies before providing them with personal information.
+Online links to other Websites: Through links provided on our Website, you can link to other Websites of third parties who have agreed to offer goods and services to our members. Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party's privacy policy. Except as described above, we are not responsible for the content or privacy and security practices and policies of Websites to which we provide links. Links from our site to third parties or to other sites are provided for your convenience. We encourage you to learn about their privacy and security practices and policies before providing them with personal information.
 
 **10\. Review of Privacy Policy**
 
@@ -117,4 +117,4 @@ We reserve the right to change this Privacy Policy at any time; however, any cha
 
 If you are not completely satisfied with or wish to submit comments concerning this Privacy Policy or its application by us, we invite you to convey your concerns or suggestions to Service Contact. We will reply as quickly as possible and inform you of the steps, if any, that has been or will be taken in order to address the concern or implement the suggestion.
 
-If you wish to be removed from High Alert’s databases, please send an e-mail detailing your request to [CustomerService@TheDailyBell.com](mailto:CustomerService@TheDailyBell.com).
+If you wish to be removed from DB’s databases, please send an e-mail detailing your request to [CustomerService@TheDailyBell.com](mailto:CustomerService@TheDailyBell.com).
