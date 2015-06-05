@@ -1,157 +1,247 @@
-> *The following text is extracted and transformed from the thersa.org privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120133811id_/http%3A//www.thersa.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thersa.org privacy policy that was archived on 2015-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150606010058id_/https%3A//www.thersa.org/privacy-policy/%23cookiepolicy) for the most accurate reproduction.*
 
-# RSA - Privacy and Cookie Policy
+# Privacy Policy - RSA
 
- 
+### 1\. Introduction
 
-**Privacy and Cookie Policy**
+The RSA's Privacy Policy sets out the ways The RSA processes personal data. This Privacy Policy only relates to personal data collected by The RSA via The RSA website, membership forms, fundraising responses, emails and telephone calls.
 
-Your privacy is important to us. This page explains our online information practices and the choices you can make about how information about you is collected and used by the RSA here on this website and in other electronic communications networks.
+This Privacy Policy does not apply to personal data provided to The RSA by any other means or via any other website. Users should be aware that if they access other websites, using the links provided, these are outside our control. If they provide personal data to other companies, the privacy polices of those companies determine the uses to which that information is put and The RSA's Privacy Policy will no longer apply.
 
-The RSA is committed to protecting and respecting your privacy online. This privacy policy is not intended to, and does not, create any contractual or other legal rights in or on behalf of any party. 
+### 2\. The Data Protection Act 1998
 
-We may amend this privacy policy at any time by posting changes on this page. Amendments will automatically take effect upon publication. The last date of revision will always appear on the privacy policy.
+The RSA makes every effort to comply with the principles of the Data Protection Act 1998.
 
-**Consent**
+### 3\. Use of Personal Information
 
-By completing any detailed on-line registry you give your consent to the collection and use of your personal information in accordance with this Privacy Policy each time you use this website.
+Personal information provided to The RSA via [The RSA website](https://web.archive.org/), membership forms, fundraising responses, emails and telephone calls will be used for the purposes outlined at the time of collection or registration in accordance with the preferences you express.
 
-  **Web pages covered by this policy**
+Personal data collected and processed by The RSA may be used, for the following purposes:
 
-This notice applies to all information collected or submitted on the RSA domain [www.thersa.org](http://www.thersa.org/) and includes areas of the website where you can create an account, comment on blogs, sign up for newsletters, enter competitions and book tickets for events as well as information collected automatically by cookies, if enabled.
+a. Administration of membership(s).  
+b. Fulfilment of orders for goods and services requested.  
+c. Administration of donations and legacies.  
+d. In-house research and statistical analysis.  
+e. Communication about its conservation, membership, fundraising and other activities.  
+f. Communication about special offers from carefully selected organisations that make a financial contribution to The RSA’s funds.
 
-The RSA is not responsible for the privacy policy of services on third party websites (for example [Facebook](http://www.facebook.com/thersaorg), [Twitter](http://www.twitter.com/thersaorg), [YouTube](http://www.youtube.com/user/theRSAorg), etc). You should refer to the appropriate privacy policies of each individual third party website for further information about them and their terms.
+Processing personal data for the above purposes may entail sharing the information with employees, contractors, agents and professional advisors of The RSA and other carefully selected organisations. Written agreements exist between The RSA and such parties that there must be no further disclosure of such personal data.
 
-**The way we use information**
+### 4\. Consent
 
-You can browse the RSA website without telling us who you are or revealing any personal information about yourself or your location. The websites collect some anonymous information about you automatically as you move through the site. We use this data to inform the development of our service (for example, we like to know which browsers most of our visitors are using). The information collected automatically in this way does not contain anything that can identify you personally. It provides data about what users do on the site, but not who they are.
+By providing personal data to The RSA you consent to the processing of such data by The RSA as described in this Privacy Policy. You can alter your preferences as described below.
 
-Once you submit information to us you are no longer anonymous. Any personal information that you choose to give to us will be transferred and stored on secure local servers in a safe, confidential and secure environment.
+### 5\. Use of Data For Direct Marketing by post and telephone
 
-We use the personal information you give us as a research tool to develop the content of the RSA website, to improve our understanding of our visitors and to determine better ways to serve you. We may use the information to provide you with details of RSA services and for this reason each screen that asks for data gives you the opportunity to opt out of receiving such information.
+At each point of data collection or registration you are given options to opt-out from being sent future direct marketing material from The RSA or other carefully selected organisations by post or telephone. Where you do not opt-out of such communications, The RSA may send you information on its research, membership, fundraising and other activities and those of other carefully selected organisations.
 
-We use return e-mail addresses to answer e-mails we receive. Such addresses are not used for any other purpose and are not shared with outside parties. We will not send your data to third parties and we will not send data to areas where an adequate data protection policy is not in place.
+If at any time you want to alter your preferences or request that The RSA stop communicating with you in this way then you should write to the address shown in section 8.
 
-**Security**
+### 6\. Use of Data for email
 
-We have strict security and confidentiality procedures covering the storage and disclosure of your information in order to safeguard it, to prevent unauthorised access and to comply with the UK Data Protection Act 1998. We only permit authorised employees, who are trained in the proper handling of customer information, to have access to information. Employees who breach our Privacy Policy are subject to our usual disciplinary procedures.
+At each point of data collection or registration you are given the option to opt-in to receiving email marketing from The RSA. Where you do opt-in to such communications, The RSA may provide information on its conservation, membership, fundraising and other activities and those of carefully selected organisations.
 
-Whenever we sub-contract other organisations to provide support services, we require them to conform to our privacy standards and to allow us to audit them for compliance.
+If at any time you want to alter your preferences or request that The RSA stop communicating with you in this way then you should write to the address shown in section 8.
 
-Further information that you post on any message board is visible to the public. If you disclose personal information publicly, including your email address, it can be collected and used by others which may result in unsolicited messages from other parties. The RSA cannot guarantee the security of your information although all reasonable measures will be taken to stop this falling into the wrong hands. The user or subscriber is responsible for the secrecy of your password(s) and/or any account information.
+### 7\. Accessing your personal data held by the RSA
 
-**Cookie Policy**
+You have the right to ask The RSA, in writing, for a copy of all the personal data held about you (this is known as a 'subject access request') upon payment of a fee of £10. If you would like to access your personal data held by The RSA, please apply in writing to:
 
-Some sections of the RSA website use cookies. 
+Governance Manager  
+The RSA  
+8 John Adam Street  
+London  
+WC2N 6EZ
 
-**What are cookies?**
+### 8\. Verifying, updating and amending your personal information
 
-Cookies are small, text-only strings of data which store information on the hard drive of your local computer or mobile device when you visit some websites. 
+If, at any time, you want to verify, update or amend your personal data or preferences please write to:  
+The RSA  
+8 John Adam Street  
+London  
+WC2N 6EZ
 
-**How long do cookies last?**
+Verification, updating or amendment of personal data will take place within 28 days of receipt of your request.
+
+If subsequently you make a data protection instruction to The RSA which contradicts a previous instruction (or instructions), then the RSA will follow your most recent instruction.
+
+### 9\. Cookies
+
+Please see our see our page regarding the RSA's use of cookies.
+
+### 10\. Links to Third Party Websites
+
+This Privacy Policy applies solely to the personal data collected by The RSA and does not apply to third party websites.
+
+The RSA is not responsible for the privacy policies of third party websites. The RSA advises users to read the privacy policies of other websites before registering any personal data.
+
+### 11\. Security
+
+The RSA holds your personal data in accordance with the security provisions of the UK Data Protection legislation. We use industry standard Secure Server Software (SSL) for your transactions with us. It encrypts all of your personal information, including credit card number, name, and address, so that it cannot be read as the information travels over the Internet.
+
+If you have any questions about security please contact The RSA on: 020 7451 6922
+
+More information on internet security
+
+### 12\. Attendance at Events
+
+The RSA uses Eventbrite to collect information on your attendance at events visits. This data includes the events you have visited, the date that you went and your membership number. The RSA will undertake customer analysis on this data to allow us to understand visiting trends.
+
+We will also use this information to enable us to provide better marketing communications that will be tailored to your habits. However, we will always respect your decision on receiving marketing information and will never send you any marketing where you have indicated previously that you do not want to be contacted.
+
+### 13\. Notification of Changes
+
+If The RSA decides to change its Privacy Policy, it will post such changes on its website under the section entitled 'Privacy Policy'.
+
+## Cookie Policy - FAQ
+
+### **What are cookies?**
+
+Cookies are small, often encrypted, text files, which are stored on your computer when you visit some websites. They are used to remember useful information which allows certain functionality within the website to work, for example remembering where you have reached within an order process, or if you've logged in to a site. Cookies can't harm your computer.
+
+For more information about cookies, please see the websites listed in the related links.
+
+### **How long do cookies last?**
 
 Cookies last for different lengths of time depending on what they are used for.
 
-  * Session cookies are temporary cookies and are only stored until you leave the website or when you close your web browser. 
-  * Persistent cookies last for a fixed period of time, defined within the cookie, and allow the website to recognise the device again when the user returns to that website on that device. 
+Session cookies are temporary cookies and are only stored until you leave the website or when you close your web browser.
+
+Persistent cookies last for a fixed period of time, defined within the cookie, and allow the website to recognise the device again when the user returns to that website on that device.
+
+Information about the duration of cookies used on www.thersa.org will be published in the near future.
+
+Types of cookies and how www.thersa.org uses them:
+
+Cookies can be categorised by who sets the cookie and also by how the cookie will be used.
+
+### **Who sets the cookie?**
+
+First party cookies – these are set by the website that you are visiting and can only be read by that website.
+
+Third party cookies – these are set by an organisation other than owner of the website. This might be for the purposes of website measurement, being able to watch a video on the site or for the purposes of advertising.
+
+Both first and third-party cookies are set on www.thersa.org. We will be publishing a list of these in the near future.
+
+### **How cookies are used?**
+
+On www.thersa.org we use cookies that perform a different variety of functions. The categorisation and definitions are based on the guide published by the International Chamber of Commerce:
+
+### **Strictly necessary cookies**
+
+These types of cookies are used to make sure parts of a website work and that you can use the site effectively, such as remembering certain information on a form when you go to another page before the form has been completed.
+
+On www.thersa.org we use 'Strictly Necessary' cookies to:
+
+1) Remember information you've entered on our join forms when you navigate to different pages in a single web browser session
+
+2) Remember correct membership details.
+
+The cookies that we have defined as 'Strictly Necessary' cookies will NOT be used to:
+
+1) Gather information that could be used to advertise products or services to you
+
+2) Remember any preferences you have set beyond the current visit
+
+If you prevent these cookies you may not be able to use certain features on www.thersa.org
+
+### **Performance cookies**
+
+These cookies are used to measure the performance of websites and see how websites are used.  We use 'Performance' cookies to improve how the website works and measure our marketing activity. Information that is collected using these cookies are aggregated and anonymous and we are not able to identify individual users with these cookies.
+
+### **On www.thersa.org we may use 'Performance' cookies to:**
+
+1) Provide aggregated statistics on how our website is used.
+
+2) See how effective our marketing activity is (we don't use this information to target adverts to you when you visit other websites).
+
+3) Provide feedback to partners that one of our visitors also visited their website. This lets our partners improve their website. We don't allow our partners to reuse this information for further advertising.
+
+4) Help us improve the website by measuring any errors that occur and also to improve the performance of the site.
+
+5) Test different designs of page on our website.
+
+Cookies we have defined as 'Performance' cookies will NOT be used to:
+
+1) Gather information that could be used to target you with advertising on other websites.
+
+2) Remember any preferences you have set beyond the current visit.
+
+### **Functionality cookies**
+
+These types of cookie allow websites to remember choices you make (for example, your user name, language or the region you are in) and provide enhanced, more personal features. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services on the site such as watching a video. These cookies do not track your browsing activity on other websites.
+
+We use 'Functionality' cookies on www.thersa.org to:
+
+1) Remember settings you've applied such as layout and text size.
+
+2) Remember if you have already completed our online survey.
+
+Cookies defined as 'Functionality' will NOT be used to
+
+1) Gather information that could be used to target you with advertising on other websites.
+
+### **Advertising or Targeting cookies**
+
+These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator's permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation.
+
+### **We use 'Advertising' cookies on www.thersa.org to:**
+
+1) Link to social networks like Facebook, who may subsequently use information about your visit to target advertising to you on other websites.
+
+2) Provide advertising networks with information on your visit so that they can present you with adverts that you may be interested in.
+
+### **Cookies used on www.thersa.org**
+
+On www.thersa.org we use both first and third party cookies. We are currently undertaking an audit of these cookies and details of all the different cookies that we use on www.thersa.org will be published on this page shortly.
+
+### **How to manage cookies**
+
+You can manage how you use cookies using the settings  in your web browser. Below is a list of common browsers and links through to help managing your cookie settings for them.
+
+  * [Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies)
+
+  * [Internet Explorer](https://support.microsoft.com/kb/196955) (IE)
+
+  * [Google Chrome](http://www.google.com/support/chrome/bin/answer.py?answer=95647)
+
+  * [Safari](http://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html) (OS X)
+
+  * [Safari](http://support.apple.com/kb/HT1677) (iOS)
+
+  * [Android](http://www.google.com/support/mobile/bin/answer.py?hl=en&answer=169022)
 
 
 
-These cookies do not contain any personal data about you individually. They are there to provide you with better information tailored to your individual needs. Most internet browsers are pre-set to accept cookies but if you prefer not to receive cookies, you can adjust your browser to refuse cookies, or to warn you when they are being used. 
 
-Information about the duration of cookies used on the RSA website will be published in the near future. 
+Information on how to manage cookies can be found using settings within other browsers, or for more cookie information, visit [allaboutcookies.org](http://allaboutcookies.org/).
 
-**RSA compliance with cookie law**
+You can also manage your preferences for what types of advertising you receive on other websites using [Your Online Choices](http://www.youronlinechoices.com/uk/).
 
-In the light of new legislation the RSA is making some changes to the website and we provide you here with a register of the cookies which are currently deployed on our site.
+Note that these links will take you to other sites. The RSA is not responsible for the information and also the setting of cookies on these other sites.
 
-When you visit the RSA website, if your browser is using the standard settings and it is accepting cookies, you are giving consent for cookies on the RSA site to be stored on your computer. If you do not wish for this to happen, you can disable them in the settings of your browser.
+## Security Policy
 
-This has to be done on each different browser you use. For more information about how to disable cookies in different browsers, visit [Aboutcookies.org](http://aboutcookies.org/).
+We recognise the concerns that many people have about giving personal information online. These are the measures that we take to secure your information from interception by a third party:
 
-The RSA website works more efficiently if receipt of cookies is enabled, but it will still operate correctly if you disable cookies, although some extra enhanced features provided for you will not work. (For example the website will show you the last 4 pages you have visited on the site, but it cannot do this without setting a cookie.)
+### How we secure your information to our web server?
 
-**Cookies used on RSA websites**
+All forms containing sensitive information, such as credit card details or bank details, are transmitted to our web server using a 'secure form' in which your details are encrypted using the most secure encryption level available.
 
-We use [Google Analytics](http://www.google.com/analytics/) to collect information about site usage and performance. This helps us better understand our users and their needs so that we can continue to improve the services we provide. The analytics cookies collect information such as the number of visits to the site, pages visited and international traffic. This information is anonymous and cannot be used to identify you personally.
+### How we hold your information on our web server
 
-More information on the cookies that we use, how they help you use particular services, what type of cookie they are and the websites that are setting the cookies on your computer will be published on this page shortly.
+All data is stored on hosted platforms which are secured to ISO27001 standards. Additionally we have an internal security policy to safeguard your data. Credit card and data deemed sensitive under the Data Protection Act 1998 is treated separately and is segregated from our general data records database.
 
-**Flash cookies used on the RSA website**
+### Who can you contact with a question about our security policy?
 
-The RSA website has a number of interactive features on parts of the site that use Flash. This is widely used to provide video and other interactive content. Many web browsers will have a version of the Flash player that plays these files.  The Flash player can store data in a similar way to standard cookies, using a data file called a Local Shared Object.
+Please email our Governance Manager, [nicholas.bull@rsa.org.uk](mailto:nicholas.bull@rsa.org.uk), to find out more about the measures we take to keep your information safe.
 
-More information on Local Shared Objects that may be stored from within interactive elements on the RSA website will be published shortly. We are aware of a small number of local shared objects created by Flash features. These are used to make them work more easily. 
+## Email disclaimer
 
-For more information on how to control Flash cookies (Local Shared Objects) visit the [Adobe website](http://www.adobe.com/security/flashplayer/articles/lso/).
+The information in any e-mail (and/or document attached) sent by or on behalf of the RSA is confidential and may be legally privileged and/or contain copyright material of the RSA. This information is intended solely for the use of the named addressee. If you are not the named addressee of an email from the RSA, please notify the sender immediately and do not disclose, copy or distribute the contents to any other person. 
 
-**Cookies used on third party websites that provide services to RSA visitors**
+Any contractual representations contained therein on behalf of the RSA must not be taken as final, and are entirely subject to contracts signed formally by an authorised representative of this organisation.
 
-Certain areas of the website will also contain third party cookies, e.g. embedded Flickr or YouTube content. The RSA is not responsible for these cookies and you should refer to the appropriate third party website Privacy Policy for further information about them and their terms.
+Whilst the RSA takes all reasonable precautions to ensure that e-mails from the Society are virus free, no responsibility will be taken for viruses transmitted from its systems. 
 
-**When we may use your details to contact you**
-
-If you do opt to provide us with any personal information we use this in various ways:
-
-**Competitions**
-
-Winners of competitions are notified directly by the RSA, unless stated otherwise in the competition terms & conditions. We keep information gathered through web competitions for approximately three months on a secure local server. Entrants who have agreed to be sent third-party information have their contact details sent to the relevant organisations. Entrants who have declined to receive further information will have their contact details deleted from the server after approximately three months. 
-
-**E-newsletters**
-
-All users who agree to be sent an e-newsletter via the web are sent through automatically to the web subscription page. The data you provide when signing up is stored securely and for RSA use only. You can unsubscribe from email newsletters at any time by clicking on the link that appears at the bottom of every newsletter. 
-
-**Social networks**
-
-Where we are active on third party sites which feature social networking or sharing ([Facebook](http://www.facebook.com/thersaorg), [Twitter](http://www.twitter.com/thersaorg), [Flickr](http://www.flickr.com/groups/rsa/) etc) we may very occasionally contact you directly in relation to activities we are running on those sites. 
-
-**User ID and web contributions**
-
-If you submit content to the RSA website under a user name or create a user account, your user ID may be visible to the public alongside any submission you make. No other private information will be viewable. You can access all your personal identifiable information that we collect online and maintain by logging in to your account and viewing your profile page. You can correct factual errors in your personally identifiable information within your account via your profile page or by sending the webmaster a request that credibly shows error. Amendments or deletions to personal information will roll out to all activity you have had on the site.
-
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access and making corrections.
-
-**Links to non-RSA websites**
-
-The RSA accepts no responsibility or liability for content on third party websites. Users clicking on links to external sites should check the Terms and Conditions and Privacy Policy of the site they are visiting.
-
-**Our commitment to data security**
-
-To prevent unauthorised access, maintain data accuracy and ensure the correct use of information, we have put in place physical, electronic and managerial procedures to safeguard and secure the information we collect online.  
-How to contact us
-
-**Cookies used on the RSA website:**
-
-What | Name | Expires | Example Page | Insight  
----|---|---|---|---  
-Squiz Matrix | SQ_SYSTEM_SESSION | At End Of Session | www.thersa.org | The RSA site is running on a content management system (CMS) called Squiz Matrix.  
-Cookie Banner | hasVisited | At End Of Session | www.thersa.org | The RSA site uses this cookie to remember a user’s acceptance of the cookie policy.  
-  
- **Cookies used by 3 rd parties to provide services to RSA visitors:**
-
-What | Name | Expires | Example Page | Insight  
----|---|---|---|---  
-Twitter Plugin | k   
-original_referer   
-_twitter_sess | 7   
-Date not set   
-Date not set | www.thersa.org/sda | Twitter is a plugin, that shows most recent tweets on the RSA website.  
-AddThis | __atuvc, xtc, uid, psc, loc, dt | 730 | www.thersa.org/fellowship/journal/archive/summer-2010/features/in-defence-of-the-secular-state | AddThis across the site is used to allow sharing of content between different services.  
-Google | NID, SNID,    khcookie, S, PREF | 730 | www.thersa.org/fellowship/where-you-are | Used by Google Calendar and Google Maps, both of which set cookies to store user preferences.  
-TopTable | pgseq, ftc, IsCKE, s_cc, s_nr, s_evar5, s_cmrun, s_sq, s_vi | 5 years | www.thersa.org/fellowship/fellows-facilities/house/vaults | These cookies are set by bookings operator Top Table. They are essential when making a reservation through the online booking system.  
-YouTube | APISID, HSID, SAPISID, SID, SSID, VISITOR_INFO, 1_LIVE, PREF | 10 years | www.thersa.org/events/video/vision-videos/connectome | The RSA site uses embedded YouTube videos.  
-Google Analytics | __utma   
-__utmb   
-__utmc   
-__utmz | 729   
-1   
-Date note set   
-182 | www.thersa.org | Google Analytics is used to gain insight into visitor statistics. The RSA use this data to improve and enhance user experience and roll out future changes with new and returning visitors in mind.  
-  
-If you have any questions or concerns about our privacy policy and cookies policy, please [email us](mailto:webmaster@rsa.org.uk).
-
- **
-
-Revised on 26 September 2012
-
-**
+Registered in England and Wales as a Charity, Number 212424.
