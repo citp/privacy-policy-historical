@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandmajuice.net privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225090848id_/http%3A//www.grandmajuice.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandmajuice.net privacy policy that was archived on 2015-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150605212132id_/http%3A//www.grandmajuice.net/privacy-policy) for the most accurate reproduction.*
 
 # This Privacy Policy Is In Effect For The Grandma Juice Website
 
@@ -64,8 +64,7 @@ This policy was last modified on 6/19/2012
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.grandmajuice.net
-
+http://www.grandmajuice.net  
 info@grandmajuice.net
 
 This policy is powered by Trust Guard, your [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) authority.
