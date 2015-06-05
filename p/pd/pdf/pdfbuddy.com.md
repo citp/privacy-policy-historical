@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfbuddy.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701211105id_/https%3A//www.pdfbuddy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfbuddy.com privacy policy that was archived on 2015-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150605122914id_/http%3A//pdfbuddy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PDF Buddy
 
