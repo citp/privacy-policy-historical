@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joshmorony.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230083509id_/http%3A//www.joshmorony.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joshmorony.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607015003id_/http%3A//www.joshmorony.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Sencha Touch, PhoneGap and Mobile Dev Tutorials | Josh Morony's Blog
+# Privacy Policy | HTML5 Mobile Tutorials | Ionic, Phaser, Sencha Touch & PhoneGap
 
 **What information do we collect?**
 
@@ -56,8 +56,7 @@ This policy was last modified on 5/12/2013
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://joshmorony.com
-
+http://joshmorony.com  
 P.O. Box 221, Seacliff Park  
 Adelaide, South Australia 5049  
 Australia
