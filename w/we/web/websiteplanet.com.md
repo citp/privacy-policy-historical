@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the websiteplanet.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507114902id_/http%3A//www.websiteplanet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websiteplanet.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607004504id_/http%3A//www.websiteplanet.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Website Planet
+# Privacy Policy - Website Planet
 
 ## Websiteplanet.com Privacy Policy
 
 Please read the following to learn more about our privacy policy, the types of personal information we gather and the steps we take to safeguard it when you use the Web sites, applications and services provided by us (the “Services”).  
 This site is provided by websiteplanet.com. and its affiliates (“Websiteplanet,” “we” or “us”). This policy covers how we treat personal information that we collect and use on or through the Services and other related websites where this policy is posted on the footer of the Web page.  
-You agree that this Privacy Policy is part of our [Terms of Use](http://www.websiteplanet.com/terms-of-use/), which you can review at http://www.websiteplanet.com/terms-of-use/. By accessing or using the Services, you agree to be bound by all of our terms and conditions.
+You agree that this Privacy Policy is part of our Terms of Use, which you can review at http://www.websiteplanet.com/terms-of-use/. By accessing or using the Services, you agree to be bound by all of our terms and conditions.
 
 ### Information Collection and Use
 
@@ -48,7 +48,7 @@ The sites displayed as search results or linked to by the Services are developed
 
 ### Confidentiality and Security
 
-We limit access to personal information about you to our employees and agents who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. Your information is stored on our servers located in the United States. We treat data as an asset that must be protected and use many tools (encryption, passwords, physical security, etc.) to protect your personal information against unauthorized access and [disclosure](http://www.websiteplanet.com/disclosure/). However, third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collect from the site. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services.
+We limit access to personal information about you to our employees and agents who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. Your information is stored on our servers located in the United States. We treat data as an asset that must be protected and use many tools (encryption, passwords, physical security, etc.) to protect your personal information against unauthorized access and disclosure. However, third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collect from the site. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services.
 
 ### Third Parties
 
