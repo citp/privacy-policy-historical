@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bridgemanart.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217050721id_/http%3A//www.bridgemanimages.com/en-US/about-bridgeman/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridgemanart.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607014957id_/http%3A//www.bridgemanimages.com/en-US/about-bridgeman/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Bridgeman Images - art images & historical footage for licensing
 
