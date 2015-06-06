@@ -1,120 +1,74 @@
-> *The following text is extracted and transformed from the bizrate.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225043617id_/http%3A//about.bizrate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizrate.com privacy policy that was archived on 2015-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150606233359id_/http%3A//connexity.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - About Bizrate
+# Privacy Policy - Connexity
 
-### Shopzilla, Inc. Privacy Policy
+Last modified on: December 17th 2014
 
-Effective Date & Last Modified November 11, 2014.
+Connexity is committed to consumer privacy and relevant advertising in support of a safe, free Internet experience. Similar to television, radio, newspapers and magazines, most of the content and services you enjoy online are advertising supported, that is why you do not have to pay a subscription to use them. Our goal is to continuously improve the online experience by improving the relevance of advertising in support of free content. Most people agree, given that advertising is here to stay, it should be more relevant to your interests.
 
-PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING OUR WEBSITES OR SERVICES. BY ACCESSING OR USING OUR WEBSITE OR OUR SERVICES (OTHER THAN TO READ THIS PRIVACY POLICY FOR THE FIRST TIME), YOU AGREE TO THIS PRIVACY POLICY. 
+Connexity is at the forefront of making advertising more interesting through audience technology. That’s you, the audience, but we don’t know who you are. We do our best to match ads to your individual interests, but always in an anonymous way. We don’t use personal or sensitive information like name, email address or phone number. To us, you are just a random number, a reference to a browser on a particular computer or other interactive device.
 
-**INTRODUCTION **
+The cornerstone of any relationship is trust, and we believe that full transparency is the only way to earn your trust. Connexity is a new breed of interactive media company, incorporating privacy by design and enhanced notice from inception. We intend to earn your trust by providing details about what we do, how we do it and the choices available to you.
 
-This Privacy Policy tells you the types of information we collect when you use our Sites or Services, how we use that information, and the instances in which we share your information. 
+Insights powered by Bizrate users, please see the privacy policy found [here](http://about.bizrate.com/privacy-policy).
 
-Shopzilla, Inc. ("Shopzilla") operates online shopping websites, including Shopzilla.com, BizRate.com, beso.com and other websites (“Sites”), and provides other online services ("Services"). As we are based in the United States of America, your information will be transmitted to, held and processed by us there in accordance with this Privacy Policy. 
+## What we do and why we collect data
 
-**SUMMARY OF KEY PRINCIPLES **
+Connexity conducts business with advertisers (those who sell products and services, create the ads and buy the ad space) and publishers (those who provide the free content and services and sell the ad space). We are an intermediary in this process. Given lots of ads and lots of ad space, we provide technology that strives to match up the ads with the ad space and deliver the best ad at the best time. We improve performance for the advertiser and the publisher by reducing the clutter of ads that are not interesting to you.
 
-We thought it would be helpful to set out briefly the key ways in which we use your information and how we seek to protect privacy.  Of course, you should read the terms of our full Privacy Policy. **  **
+Our approach to this is based on many variables, most of which involve the collection of data from things like IP address, browser settings and browsing activity on the websites we work with (the network). The data is individualized to provide the best user experience through the most relevant ads, but remains strictly anonymous, confidential, and is never reviewed by a person. All of our technology uses computer algorithms to match ads to audience. We target these audiences directly or make them available to third parties. Aggregate data is shared in report format with our clients as a normal course of business.
 
-  * We typically collect two kinds of information about you: (a) information that you provide that personally identifies you (e.g., full name or phone number); and (b) information that does not personally identify you (e.g., your IP address or type of browser);
-  * This information is transmitted to, held and processed by us in the United States of America;
-  * We typically use this information to provide you with our website and related services, and to produce reports and data about online shopping;
-  * We may disclose this information to authorized third parties including our merchants, advertising and promotional partners and third party service providers for these purposes;
-  * Through the use of “cookies,” we work with and permit advertising networks to collect anonymous information about you to send you their ads and use the same information to send you our ads (see section III below);
-  * You may at any time opt-out of certain activities as set out below (see section VI);
-  * We encrypt any information you input using Secure Sockets Layer (SSL) software and take reasonable security measures to safeguard information;
-  * If you register with us, you have the ability to update or correct the information you previously provided via the account section;
-  * If you have any questions or concerns about privacy at Shopzilla, please contact us by [clicking here](http://about.shopzilla.com/contact/) [ ](http://about.shopzilla.com/contact-us/site-questions) ;
-  * Our websites and our services are not designed or intended for use by children under 13; and
-  * This Privacy Policy may change from time to time so please check this policy regularly.  Any material changes will be notified to you by email as appropriate.
+## How we collect data
 
+We only collect data from websites we have a business relationship with. We anonymously collect data over time and across the network. We also use anonymous data from third party data providers who are contractually obligated to adhere to comparable privacy principles. This additional anonymous data is used to improve our audience database and make ads more interesting to you.
 
+Connexity uses a number of common technologies to identify devices that have been on the network before. These include HTTP cookies, HTML5 cookies, browser cache and entity tags. These are collectively called “persistence files” and are only used to synchronize the browser session with our server-side audience database. When you voluntarily Opt-Out of receiving behaviorally targeted advertising from Connexity, we also use these persistence tools to maintain your Opt-Out state indefinitely.
 
-  
-**I.          **WHAT INFORMATION DO WE COLLECT? ** **
+## What data we collect
 
-We collect two kinds of information related to you: (a) Personally Identifiable Information (“PII”); and (b) Non-Personally Identifiable Information (“Non-PII”). 
+All audience data is anonymous, and relates to a device rather than a person. Connexity collects a number of types of anonymous session data including approximate geographic location from IP address, browser type, primary language, websites visited, ads clicked on and actions taken with our advertising partners. Additionally, if you access the network from a mobile device, we may collect a unique device identifier, device type, carrier and location information if you have opted in and chosen to share that data with your carrier or a mobile application. We retain collected data for up to 10 years, and aggregated data indefinitely, to continuously improve our technology and services.
 
-**(a) Personally Identifiable Information:   ** PII includes any information that identifies you as person.   We collect your PII when you choose to register with us or when you choose to participate in an interactive feature of our Sites such as a review, survey or promotion.   You may: (a) provide your name, mail/shipping address, email address, credit card number and phone number when registering with our Sites or in connection with a contest entry; (b) provide certain demographic information about you (e.g., age, gender, shopping interests and preferences, etc.) when participating in a survey or poll; or (c) post a general comment and/or recommendation on our Sites. 
+## What data we DO NOT collect
 
-**(b)   Non-Personally Identifiable Information: **   Non-PII is any information that does not identify you as a person including PII which has been rendered anonymous.   We obtain non-PII either separately or together with your PII as described above. We collect certain non-PII from you when you access our Sites including IP addresses and information relating to your browser, operating system, ISP, the third party website from which your visit originated and how you use our Sites such as the web pages you visit, and the duration of your visits. 
+**Connexity does not collect, buy, sell, share or use Personally Identifiable Information (PII) about consumers such as name, address, telephone number, email address, or any other data used, or intended to be used, to identify or contact a person.**  The only PII we collect is done in the normal course of business directly on this website from advertisers and publishers who are our clients.
 
-  
-**II.        HOW WE USE & SHARE THE INFORMATION COLLECTED  **
+Regarding the websites and products you encounter while browsing the Internet, you should read each of their privacy policies to learn how they collect and use data. If you choose to provide personally identifiable information to an advertiser or publisher who participates in our network, that information is not shared with Connexity.
 
-**** PII and Non-PII is used to provide, or improve, our Sites and Services to you and to carry out your requests, respond to your inquiries, better serve you and understand your needs, or is used in other ways naturally associated with the circumstances in which you provided the information.   
+## Consumer choice
 
-We may disclose PII and Non-PII to:
+Connexity adheres to the principles of the [IAB Member Code of Conduct](http://www.iab.net/public_policy/codeofconduct). To Opt-Out of only Connexity behavioral targeting, please click on the Opt-Out link at right.
 
-(1) our third party service providers who perform functions on our behalf in connection with the operation of the Sites or Services e.g., providers who host and manage data, process credit card orders, deliver our merchandise, etc;  
+It is important to understand that opting out does not mean you will no longer see ads. It means ads will no longer be selected based on your interests.  **If you Opt-Out, you may receive   _more  _advertising and it may be  _less interesting  _to you. You can Opt back in at any time.**
 
- (2) participating sponsors to a program or promotion you enter through our Sites or Services; 
+Connexity also participates in the Enhanced Notice program of the [Digital Advertising Alliance](http://www.aboutads.info/) and adheres to the Self-Regulatory Principles for Online Behavioral Advertising (OBA). When required, the program utilizes a clickable icon for behaviorally targeted ads providing both transparency and choice. It links to information about how the ad was targeted, as well as ways to Opt-Out. Participating associations for this program include:
 
-(3)our parent company, subsidiaries or other affiliated companies (“ affiliated companies”) for operational, marketing and promotional purposes; 
+Connexity’s compliance with self-regulation can be monitored by one of several OBA compliance providers at the client’s discretion.
 
-(4) co-promotional partners and others with whom we have marketing or other relationships ;   
+[TRUSTe](http://www.truste.com/privacy_seals_and_services/enterprise_privacy/trusted-ads.html)
 
+[Evidon](http://www.evidon.com/)
 
-(5) participating merchants where you consent at the time you submit PII to us when using the interactive features of our Sites such as surveys and reviews concerning our participating merchants; and
+[DoubleVerify – Trust in Advertising](http://www.doubleverify.com/solutions/ad-networks/oba-compliance/)
 
-(6) our other users where you choose to publicly post reviews, comments or other information relating to products or services, communicate with other users via public forums (e.g., forums, message boards, bulletin boards, etc.).
+## A Special Note about the European Union
 
-In addition, we use non-PII to help analyze site traffic, understand customer needs and trends, carry out targeted promotional activities (see “Preference Based Advertising” below).   We may use your non-PII by itself or aggregate it with information we have obtained from others to produce research reports and other information and data about online shopping for participating merchants and other customers, as well as media and other interested parties. 
+Connexity complies with the EU and Swiss Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union member countries and Switzerland. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company’s certification, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor). In compliance with the Safe Harbor Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss citizens can learn more here [www.youronlinechoices.com](http://www.youronlinechoices.com/) and should submit inquiries or complaints regarding this Privacy Policy to privacy@connexity.com.
 
-**III.       COOKIES AND PREFERENCE BASED ADVERTISING **
+[We self-certify compliance with  
+](https://safeharbor.export.gov/list.aspx)
 
-  **(a) ** **** **Cookies and Web Beacons: ** **** We and the third parties we authorize automatically receive and store certain types of non-PII whenever you interact with us by using "cookies" and analogous technology. "Cookies" are small files that are placed on your computer or your internet browser memory to enable the owner of the cookie to recognize your browser and to provide convenience and other features to you. So, for example, our cookies may allow us to show you the past products you have searched for on our Sites. **It is important to note that the cookies that we use, or permit others to use, do not contain and are not tied to PII about you.** **  **
+## Security
 
-You may be able to direct your internet browser not to allow cookies and you can typically delete existing cookies from your computer at any time. Please note, however, some elements of our Sites will not function properly or be available to you.  
+We use commercially reasonable safeguards to preserve the integrity and security of all anonymous consumer OBA data. If you are a client of Connexity and you provide us with your contact or business information in order to conduct business with us as an advertiser or publisher, we use commercially reasonable safeguards to preserve the integrity and security of your information. We may share advertiser or publisher personal information when we believe such action is appropriate to comply with the law. Anyone who has provided personal contact information through this website may e-mail us at [accounts@connexity](mailto:%20accounts@connexity.com) to update, delete, and/or correct their personal contact information.
 
-**(b)   **Preference Based Advertising: ** ** We also work with and permit certain third parties, including advertising networks and website analysis firms, to place cookies on your computer/browser when you visit our Sites.  These third party cookies are used to gather non-PII about your activities on our Sites and third party sites to serve you with advertisements while you are on third party sites (“Third-Party Ads”). 
+## Children’s privacy
 
-   If you do not wish to participate in this activity, please [click here](http://www.aboutads.info/choices/) to opt-out .
+Connexity does not knowingly collect information from children under the age of 13. Our services are neither developed for, nor directed at, children. Connexity does not employ or offer targeting towards anyone under the age of 18.
 
-Some important notes: (1) the opt-out tools for Third-Party Ads include all the advertising networks that Shopzilla works with, but also many that Shopzilla does not work with; (2) opting out of Our Ads does not automatically serve as an opt-out from Third-Party Ads – the same is true the other way around.  To opt-out of Our Ads and Third-Party Ads, you must use each respective opt-out tool above; (3) the opt-out tools for both Our Ads and Third-Party Ads rely on cookies to ensure that your non-PII is not used for online advertising purposes (“Opt-out Cookies”).  Therefore, if you buy a new computer, change web browsers or delete these Opt-out Cookies from your computer, you will need to perform the relevant opt-out tasks again; and (4) the features of your internet browser and/or certain add-on software may allow you to block or limit the use of cookies for preference based advertising and other purposes.  We cannot, however, promise that our Sites will work well or be compatible with these alternative methods of blocking or limiting the use of cookies. 
+## Notice of changes to the privacy policy
 
-**(c) Do Not Track Features:** Certain browsers may offer you the option of providing notice to websites that you do not wish for your online activities to be tracked for preference based advertising purposes ("DNT Notice"). Some browsers are, by default, set to provide a DNT Notice, whether or not that reflects your preference. Providing DNT Notice is often touted as a means to ensure that cookies, Web beacons and similar technology are not used for preference based advertising purposes - that is, to restrict the collection of non-personally identifiable information about your online activities for advertising works, DNT Notices may not effectively accomplish this goal. For this and a variety of other reasons, with respect to our Website, we do not take any action based on browser based DNT Notices. Instead, if you do not wish to participate in preference based advertising activities, you should follow the simple opt-out process identified above. 
+This Privacy Policy may change from time to time. In the event that we make material changes to the Privacy Policy which require either more prominent notification or your explicit consent, we will do so.
 
-**IV.        SALE OF BUSINESS AND DISCLOSURE BY LAW **
+## Questions & Comments
 
-**(a) Business Transactions: ** We may disclose PII and Non-PII held by us : (a) to a prospective seller or actual seller of any business or assets we acquire;   (b) if all or any of our assets are acquired  by a third party, in which case, PII and Non-PII may be one of the transferred assets.   
-
-**(b)   Required disclosures**
-
-**: ** We may disclose and use any PII or non-PII if we are required to do so by law, with respect to copyright and other intellectual property infringement claims, or if we believe that such action is necessary to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Sites, or other users; or (d) in an emergency to protect the health and safety of our Sites's users or the general public.
-
-**V.         SECURITY OF INFORMATION **
-
-We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We also use a secure server hosting location in the US, firewall protection, controlled access and encryption technology to protect your data.   Please be advised, however, that while we strive to protect your PII, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction, or inadvertent disclosure of your PII.   In the unfortunate event that your personally identifiable information is compromised, we will notify you by e-mail to the last e-mail address you have provided us as soon as feasible under the circumstances (delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system, as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation.)
-
-**VI.        YOUR OPTIONS & OPT-OUTS**
-
-**(a) **W ** hat Information Can I Access?  ** If you register as a Shopzilla member, you will typically have access to an account section that includes the registration information you previously provided which you can update or correct at any time.   If there is any inaccurate information that you are not able to correct, just let us know.  Also, if you wish, you can delete your membership account entirely although  we may retain certain information in limited circumstances – e.g., to resolve disputes, troubleshoot problems and enforce our [Terms of Use](http://about.shopzilla.com/terms-conditions/) [ ](http://about.shopzilla.com/user-agreement) . Furthermore, some information is never completely removed from our databases due to technical (e.g., information that is stored in our “back-up” systems) and certain legal constraints.  
-
-**(b) What Choices Do I Have (Opt-Out)?   ** You have many choices regarding how we use information about you, including: (1) To stop our emails, [click here](http://about.shopzilla.com/contact/) [ ](http://about.shopzilla.com/contact-us/site-questions) ; (2) To opt-out of preference-based ads, 
-
-[click here](http://www.shopzilla.com/ad_retarget_global_opt_out) ; (3)  To stop the sharing of PII with our participating merchants, [click here](http://about.shopzilla.com/contact/) ; and (4) as discussed above, the choices we offer you anytime you submit information through our Sites or Services. 
-
-  
-**(c) You May Contact Us With Questions:** If you have any questions or concerns about privacy at Shopzilla, please contact us by [clicking here ](http://about.shopzilla.com/contact/) .    
-
-**VII.      **CHILDREN ** **
-
-As neither our Sites nor our Services are intended for use by children under 13, children under 13 may not submit any PII to us.  Also, i f you are under 18, you should use Shopzilla and submit information only with involvement of a parent or guardian.
-
-  
-**VIII.    **REVISIONS ** **   
-
-
-This Privacy Policy may change from time to time to reflect our changing business practices. We will provide you notice of any such changes by posting the new policy on our Sites or by email if the changes are material . 
-
-**VII.      SOLE STATEMENT **
-
-This Privacy Policy and our [Terms of Use](http://about.shopzilla.com/terms-conditions/) , both  as posted on our Websites and through our Services, contain all of the material terms of regarding your use of our Websites and Services.   No summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post it to our Websites and Services.
-
-  
-**© 2012 Shopzilla, Inc. **
-
-12200 W. Olympic Blvd, Suite 300, CA 90064 | help@bizrate.com | 310.571.1235
+Connexity technology, and the way we use it, meets or exceeds all industry standards and legal requirements for protecting privacy online. Questions and comments about our privacy policy, OBA compliance or opt-out procedure should be directed to [privacy@connexity](mailto:%20privacy@connexity.com).
