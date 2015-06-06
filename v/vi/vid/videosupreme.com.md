@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videosupreme.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209072421id_/http%3A//videosupreme.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videosupreme.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607014115id_/http%3A//videosupreme.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Videosupreme.com
 
