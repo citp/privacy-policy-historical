@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vjloops.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113200309id_/http%3A//www.vjloops.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vjloops.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607015549id_/http%3A//www.vjloops.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
 # VJ Loops- Royalty Free Stock Footage, Media and Visuals
 
@@ -53,5 +53,13 @@ In the event of updates we will let our Visitors and Authorized Customers know a
 **Links:**  
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
-© 2012 **VJ LOOPS** , All rights reserved.  
+© 2015 **VJ LOOPS** , All rights reserved.  
 Unauthorized duplication or publication of any materials from this Site is expressly prohibited.
+
+Contact Address:
+
+Kyle Lyons
+
+Calle Simon Ortiz #4 pta 3
+
+Valencia, 46008 España
