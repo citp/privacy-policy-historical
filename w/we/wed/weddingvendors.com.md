@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingvendors.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216155825id_/http%3A//www.weddingvendors.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingvendors.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607005417id_/http%3A//www.weddingvendors.com/about/privacy) for the most accurate reproduction.*
 
 # WeddingVendors.com: Privacy Policy
 
@@ -82,4 +82,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 ## How to Contact Us
 
-Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/contact/). 
+Should you have other questions or concerns about these privacy policies, please [contact us](http://www.weddingvendors.com/contact/). 
