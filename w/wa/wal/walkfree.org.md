@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the walkfree.org privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220213459id_/http%3A//www.walkfree.org/walk-free-privacy-policy-and-legal-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walkfree.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607002626id_/http%3A//www.walkfree.org/walk-free-privacy-policy-and-legal-terms) for the most accurate reproduction.*
 
 # Walk Free Privacy Policy and Legal Terms - Walk Free
 
 ### Introduction
 
-Walk Free is an initiative of Hope for Children Organisation Australia Ltd a not-for-profit organisation that operates the walkfree.org website.
+Walk Free is a not-for-profit organisation that operates the walkfree.org website.
 
 This policy explains how we protect the personal information of people who use our website. Walk Free values and respects the privacy of our members. We believe you have a right to control how your personal information is collected and used. Except where we get your consent, we will not share your personal information with unaffiliated organisations.
 
