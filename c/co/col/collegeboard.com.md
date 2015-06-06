@@ -1,24 +1,25 @@
-> *The following text is extracted and transformed from the collegeboard.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107060607id_/https%3A//www.collegeboard.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegeboard.com privacy policy that was archived on 2015-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150606092819id_/https%3A//www.collegeboard.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - College Board
 
-**Last Updated: May 5, 2014**
+**Last Updated: Jan 13, 2015**
 
-The College Board is a not-for-profit membership association whose mission is to connect students to college success and opportunity. References in this Privacy Policy may, as the context requires, include College Board affiliate or subsidiary websites. The College Board provides access to information, goods, and services that facilitate the transition from high school to college to make the college experience more enjoyable and cost-efficient. We recognize the importance of protecting the privacy rights of our users.
+The Collegeboard.com (“College Board”) is a not-for-profit membership association whose mission is to connect students to college success and opportunity. References in this Privacy Policy may, as the context requires, include College Board affiliate or subsidiary websites. The College Board provides access to information, goods, and services that facilitate the transition from high school to college to make the college experience more enjoyable and cost-efficient. We recognize the importance of protecting the privacy rights of our users.
 
-College Board has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personally identifiable information. The TRUSTe program covers only information that is collected through this Web site, [www.collegeboard.org](https://www.collegeboard.org/).
+College Board has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through these Web sites: www.collegeboard.com and www.collegeboard.org.
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [contact us directly](mailto:inquiry@collegeboard.org?subject=Privacy%20Policy). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://privacy.truste.com/privacy-seal/Collegeboard-com/validation?rid=7ddcab77-9412-46b7-918e-f56d859a7b58).
 
-This Privacy Policy applies only to personally identifiable information collected on these website(s) and does not apply to any other information collected by the College Board through any other means. This Privacy Policy applies to the use and sharing of personally identifiable information collected on and after the date that this Privacy Policy is posted.
+This Privacy Policy applies only to personally identifiable information collected on these website(s): www.collegeboard.com and www.collegeboard.org and does not apply to any other information collected by the College Board through any other means. This Privacy Policy applies to the use and sharing of personally identifiable information collected on and after the date that this Privacy Policy is posted.
 
- **Within this policy statement you will find:**
+**Within this policy statement you will find:**
 
   * Children Under 13 Years of Age
-  * Changes to Privacy Statement
+  * Changes to Privacy Policy
   * Types of Information Collected Online
   * Information Collected through Traffic Monitoring
   * Information Collected through Account Creation, Test Registration, Sign-In, and Obtaining Services
+  * Tracking Technologies
   * Use of Cookies
   * How Information Is Used
   * Suppliers and Selected Vendors; Linked Sites
@@ -39,9 +40,9 @@ We do not knowingly collect personally identifiable information online from chil
 
 Back to top
 
-## Changes to Privacy Statement
+## Changes to Privacy Policy
 
-These guidelines have been developed with the recognition that Internet technologies are rapidly evolving. From time to time, we may need to change our Privacy Policy because of changes in the law, technology, our business, or our attempts to better serve user needs. If we decide to change our Privacy Policy, we will post the changes within the Privacy Policy itself, on the homepage, or in other places we deem appropriate. This is to ensure that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes, we will notify you here, by email, or by means of a notice on our homepage. All information collected after any updates to the Privacy Policy will be subject to the new policy.
+These guidelines have been developed with the recognition that Internet technologies are rapidly evolving. From time to time, we may need to change our Privacy Policy because of changes in the law, technology, our business, or our attempts to better serve user needs. If we decide to change our Privacy Policy, we will post the changes within the Privacy Policy itself, on the homepage, or in other places we deem appropriate. This is to ensure that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes, we will notify you here, by email, or by means of a notice on our homepage prior to the change becoming effective. All information collected after any updates to the Privacy Policy will be subject to the new policy.
 
 Back to top
 
@@ -52,6 +53,8 @@ The choice regarding how much personally identifiable information you disclose i
 We respect your privacy. Except as described in this privacy statement, your information collected on the College Board website(s) will not be shared, rented, or loaned to third parties.
 
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our website(s).
+
+If College Board is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 Back to top
 
@@ -69,9 +72,9 @@ Following are examples of the types of accounts and services offered on these we
 
 We may collect personally identifiable information directly from users who are interested in obtaining services, products, or using tools within the sections of the site that are aimed at students, such as the SAT sections or BigFutureTM, our college planning site. Users do not need an online account to view most parts of the website(s); however, to perform certain tasks or to save personalized information, accounts are required. Some examples of these tasks include: registering for an exam, saving college or scholarship searches, and viewing exam results.
 
- **Account creation:** We collect the following personally identifiable information from users who wish to create an online account: first name, middle initial, last name, zip code, gender, date of birth, date of high school graduation, email address, username, and password. In addition, users can supply a parent or guardian's first and last name, and email address.
+**Account creation:** We collect the following personally identifiable information from users who wish to create an online account: first name, middle initial, last name, zip code, gender, date of birth, date of high school graduation, email address, username, and password. In addition, users can supply a parent or guardian's first and last name, and email address.
 
- **CC a Parent feature:** Our [CC a Parent service](http://www.collegeboard.com/parent_student_link/psl-parent-cc-popup.html) allows a parent or guardian to receive copies of the important emails that we send students. We require the parent or guardian's first and last name, as well as an email address. The parent or guardian must accept the email confirmation sent by the College Board in order to receive copies of any emails. This service currently includes the following automatic emails:
+**CC a Parent feature:** Our [CC a Parent service](http://www.collegeboard.com/parent_student_link/psl-parent-cc-popup.html) allows a parent or guardian to receive copies of the important emails that we send students. We require the parent or guardian's first and last name, as well as an email address. The parent or guardian must accept the email confirmation sent by the College Board in order to receive copies of any emails. This service currently includes the following automatic emails:
 
   * Reminders about upcoming dates and deadlines
   * SAT® registration receipts and notifications
@@ -83,9 +86,9 @@ We may collect personally identifiable information directly from users who are i
 
 Parents may also choose additional services and receive emails concerning those services. To protect the security of your College Board website account, we do not send copies of username or password reminders.
 
- **Test registration:** We typically collect the following information from students registering for an exam: postal address, telephone number, date of birth, social security number (optional), and email address. We may also collect other types of information such as gender, graduation date, financial information for loan and scholarship tools, academic information and interests, citizenship, and religious affiliation. To process your registration, credit card information will also be collected.
+**Test registration:** We typically collect the following information from students registering for an exam: postal address, telephone number, date of birth, social security number (optional), and email address. We may also collect other types of information such as gender, graduation date, financial information for loan and scholarship tools, academic information and interests, citizenship, and religious affiliation. To process your registration, credit card information will also be collected.
 
- **Student Search Service ® program: **Our Student Search Service is a voluntary program that connects students with information about educational and financial aid opportunities from more than 1,200 colleges, universities, scholarship programs and educational organizations. Here’s how it works:
+**Student Search Service ® program: **Our Student Search Service is a voluntary program that connects students with information about educational and financial aid opportunities from more than 1,200 colleges, universities, scholarship programs and educational organizations. Here’s how it works:
 
   1. Students may choose to participate in Student Search Service when registering for a College Board exam.
   2. As part of taking a College Board exam, students are asked to fill out a Student Data Questionnaire (SDQ).
@@ -97,9 +100,9 @@ Parents may also choose additional services and receive emails concerning those 
 
 If you have questions or concerns about Student Search Service or want more information about the program, please call (866) 825-8051.
 
- **Pay for College section:** In the Pay for College section in BigFuture, we offer a variety of tools and services which provide access to current information on college costs, scholarships, financial aid applications, and college financing. These include Scholarship Search and CSS/Financial Aid PROFILE®. We typically collect the following information when these tools are used: first and last name, address, telephone number, date of birth, gender, anticipated graduation date, family information, and social security number (optional). For the sole purpose of processing loan or financial aid applications, or Scholarship Search requests, we also collect detailed family financial information such as income, taxes, and assets.
+**Pay for College section:** In the Pay for College section in BigFuture, we offer a variety of tools and services which provide access to current information on college costs, scholarships, financial aid applications, and college financing. These include Scholarship Search and CSS/Financial Aid PROFILE®. We typically collect the following information when these tools are used: first and last name, address, telephone number, date of birth, gender, anticipated graduation date, family information, and social security number (optional). For the sole purpose of processing loan or financial aid applications, or Scholarship Search requests, we also collect detailed family financial information such as income, taxes, and assets.
 
- **Online store:** When you purchase products or services from us, we capture credit card information, the type of services or products ordered or purchased, and the date of the order or purchase.
+**Online store:** When you purchase products or services from us, we capture credit card information, the type of services or products ordered or purchased, and the date of the order or purchase.
 
 Back to top
 
@@ -107,21 +110,27 @@ Back to top
 
 We may collect personally identifiable information directly from users who are interested in obtaining services, products, or using tools, within the sections of the site that are aimed at education professionals. Users do not need an online account to view most of the website; however, to perform certain tasks or save personalized information, accounts are required. Some examples of these tasks include: ordering AP® materials or PSAT/NMSQT® exam materials, registering for workshops, and requesting additional fee waivers. The information may be provided through one or several of the services discussed below.
 
- **Account creation** : We collect the following personally identifiable information from users who wish to create an online account: first name, middle initial, and last name, name suffix, gender, job title, school affiliation, username, password, email address, and birth month and day.
+**Account creation** : We collect the following personally identifiable information from users who wish to create an online account: first name, middle initial, and last name, name suffix, gender, job title, school affiliation, username, password, email address, and birth month and day.
 
- **Creating Test Coordinator account** : Establishing yourself as a Test Coordinator for your designated school allows you the benefit of ordering testing materials online. When creating an online account, we may collect first and last names, email address, work and fax numbers, and an alternate contact name from the school. We use the alternate contact name in case there are questions regarding an order. In addition, Test Coordinators may also provide information, such as: name, work phone, fax number, and email address, which can be displayed on the public Web page for the school's testing center.
+**Creating Test Coordinator account** : Establishing yourself as a Test Coordinator for your designated school allows you the benefit of ordering testing materials online. When creating an online account, we may collect first and last names, email address, work and fax numbers, and an alternate contact name from the school. We use the alternate contact name in case there are questions regarding an order. In addition, Test Coordinators may also provide information, such as: name, work phone, fax number, and email address, which can be displayed on the public Web page for the school's testing center.
 
- **Online event registration** : If you register for a workshop, meeting, or conference through the site, we'll capture credit card information, the type of services or products ordered or purchased, and the date of the order or purchase.
+**Online event registration** : If you register for a workshop, meeting, or conference through the site, we'll capture credit card information, the type of services or products ordered or purchased, and the date of the order or purchase.
+
+Back to top
+
+## Tracking Technologies
+
+Technologies such as: cookies, beacons, tags and scripts are used by College Board and our third-party affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+
+We use Local Storage Objects (LSOs) such as HTML5 and Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as Flash to collect and store information. To learn how to manage privacy and storage settings for Flash cookies click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
+
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here ](http://preferences-mgr.truste.com/)(or if located in the European Union click [here](http://www.youronlinechoices.eu/)) Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 Back to top
 
 ## Use of Cookies
 
-A cookie is a small text file placed on your computer's hard drive when you visit a website. The cookie gives you a unique, random ID, and this ID enables our website(s) to readily recognize each user on a subsequent visit to the site(s). For example, a cookie may indicate the preferences you selected on a prior visit. This facilitates more efficient browsing on subsequent visits, by using your preferences to customize the content and/or layout of our site(s). We may use cookies in this fashion. Visitors are free to set their Web browsers to prevent the acceptance of cookies. However, subscribers of College Board's MyRoad™ product must enable cookies to access member areas. Be aware that the College Board website cookies do not contain personally identifiable information.
-
-Some of our service providers use cookies on our site(s). We have no access to or control over these cookies. This privacy statement covers the use of cookies by the College Board website(s) only and does not cover the use of cookies by any third-party providers.
-
-Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers' or Users' personal information.
+We use cookies to remember your settings. This facilitates more efficient browsing on subsequent visits, by using your preferences to customize the content and/or layout of our site(s). You can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
 Back to top
 
@@ -134,7 +143,7 @@ Personally identifiable information collected during the account registration pr
   * Share information with our operational partners for the sole purpose of administering testing services, and producing and generating student score reports.
   * Customize and/or personalize the content and/or layout of our page for each individual user, including use in Public Forums and College Board Communities if the user elects to participate in these features.
   * Send customized college-planning newsletters.
-  * Pre-fill an exam registration with stored personal information.
+  * Pre-fill an exam registration with stored personally identifiable information.
   * Fulfill online purchase requests or other transactions performed on the site(s). Personally identifiable information is shared with the relevant supplier or selected vendor so that they can complete purchases or transactions.
 
 
@@ -176,8 +185,8 @@ You always have the choice not to receive optional email or other means of commu
   4. Call Customer Service at 866-756-7346.
   5. Write to us at:  
  **The College Board**  
-45 Columbus Avenue  
-New York, NY 10023  
+250 Vesey Street  
+New York, NY 10281  
 Attention: User Account Manager
 
 
@@ -198,8 +207,8 @@ You can change or delete your personally identifiable information in any of thes
   1. Sign in to your College Board account and go to your personal **My Organizer** page. Click on **My Info** in the left-hand menu. In the **Account Information** section, click **Update My Account**. Make any changes and then click **Update**.
   2. Call Customer Service at 866-756-7346, or write to:  
  **The College Board**  
-45 Columbus Avenue  
-New York, NY 10023  
+250 Vesey Street  
+New York, NY 10281  
 Attention: Customer Service
 
 Additional personally identifiable information is stored within your test registration. To view or edit this information:
@@ -213,11 +222,11 @@ To close or deactivate your account, you must:
 
 Call Customer Service at 866-756-7346, or write to:  
  **The College Board**  
-45 Columbus Avenue  
-New York, NY 10023  
+250 Vesey Street  
+New York, NY 10281  
 Attention: Customer Service
 
-Please be aware that College Board test scores are not deleted simply by closing an account. All test scores remain on file with us, indefinitely. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+Please be aware that College Board test scores are not deleted simply by closing an account. All test scores remain on file with us, indefinitely. We will retain and use your information as long as your account is active or as needed to provide you services and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 Back to top
 
@@ -226,17 +235,17 @@ Back to top
 If you have questions, [contact us](mailto:inquiry@collegeboard.org?subject=Privacy%20Policy) by email, or write us at:
 
  **The College Board**  
-45 Columbus Avenue  
-New York, NY 10023  
+250 Vesey Street  
+New York, NY 10281  
 Attention: Customer Service
 
 Back to top
 
 ## Public Forums
 
- **College Board Communities** : When creating an account or joining a College Board Community ("Community"), the user will be asked to provide a display name. Users have the option of being identified by their first and last name as it appears in their online Education Professional account or by their display name. By choosing to use the first and last name, users understand that their first and last name will be seen by other participants in the Community.
+**College Board Communities** : When creating an account or joining a College Board Community ("Community"), the user will be asked to provide a display name. Users have the option of being identified by their first and last name as it appears in their online Education Professional account or by their display name. By choosing to use the first and last name, users understand that their first and last name will be seen by other participants in the Community.
 
-You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [inquiry@collegeboard.org](mailto:inquiry@collegeboard.org). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personally identifiable information from our blog or community forum, contact us at [inquiry@collegeboard.org](mailto:inquiry@collegeboard.org). In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why.
 
 Back to top
 
