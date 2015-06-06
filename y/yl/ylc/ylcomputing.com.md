@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ylcomputing.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207062433id_/http%3A//hi.ylcomputing.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ylcomputing.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607015532id_/http%3A//hi.ylcomputing.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
