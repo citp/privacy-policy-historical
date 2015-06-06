@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uawpro.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215111648id_/http%3A//uawpro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uawpro.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607005503id_/http%3A//uawpro.com/privacy-policy) for the most accurate reproduction.*
 
 # UAW Pro Privacy Policy
 
@@ -30,7 +30,7 @@ My site does use cookies to make it more user friendly, and to process shopping 
 
 **PRIVACY POLICY**
 
-**– IMPORTANT — PLEASE READ**  
+**— IMPORTANT — PLEASE READ**  
 
 This Privacy Policy describes the terms of our commitment to your privacy.
 
