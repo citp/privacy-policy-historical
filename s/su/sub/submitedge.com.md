@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the submitedge.com privacy policy that was archived on 2014-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140121184834id_/http%3A//www.submitedge.com/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submitedge.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607002908id_/http%3A//www.submitedgeseo.com/policies.html) for the most accurate reproduction.*
 
 # SubmitEdge Privacy Policies
 
 ## Policies
 
-[Home](http://www.submitedge.com/) » Policies 
+[Home](http://www.submitedgeseo.com/) » Policies 
 
 SubmitEdge believes that strong electronic privacy is crucial for the ongoing success of the Internet as a service, commercial and entertainment medium. To this end, unless you designate otherwise, the information you enter here will be known to only two parties: you and SubmitEdge. We pledge that SubmitEdge will not release your personal data to anyone else without your consent - period. You may change the status of whether you wish to receive SubmitEdge offers and communications at any time. When we do present information to our advertisers, unless you tell us otherwise, it is in the form of aggregate statistics compiled among all of our visitors' answers to survey questions as well as grouped on-site behavior. 
 
-Kush Infosystems Pvt. Ltd. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site http://www.submitedge.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact Gops at privacy@submitedge.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url= ](http://watchdog.truste.com/pvr.php?page=complaint&url=%20TRUSTe) TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact Gops at privacy@submitedge.com. 
 
 What information does SubmitEdge gather/track and how is it used?
 
