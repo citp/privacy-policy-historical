@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dove.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103160805id_/http%3A//www.unileverprivacypolicy.com/en_us/policy.aspx%3Fsite%3Dwww.dove.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dove.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607014957id_/http%3A//www.unileverprivacypolicy.com/en_us/policy.aspx%3Fsite%3Dwww.dove.com) for the most accurate reproduction.*
 
 # Privacy Policy
 
