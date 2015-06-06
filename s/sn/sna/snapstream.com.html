@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the snapstream.com privacy policy that was archived on 2014-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141219153752id_/http%3A//www.snapstream.com/enterprise/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the snapstream.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607014843id_/http%3A//www.snapstream.com/enterprise/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
   <title> Privacy Policy | SnapStream</title>
@@ -23,7 +23,7 @@
   </head>
   <body id="overview" class="bgGradient">
 	<div class="navbar-wrapper">
-	<nav class="navbar navbar-inverse navbar-static-top navbarOverride" role="navigation">
+	<nav class="navbar navbar-inverse navbar-fixed-top navbarOverride" role="navigation">
 		<div class="container">
 			<div class="navbar-header">
 				<button type="button" class="btn btn-default navbar-toggle navbar-toggle-button collapsed" data-toggle="collapse" data-target=".navbar-collapse">
@@ -32,7 +32,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a class="btn btn-deafult navbar-toggle collapsed contactUsAnchor navbarContact" id="contactUsAnchor" href="/enterprise/ContactUs.asp"><strong>Contact</strong></a>
+				<a class="btn btn-deafult navbar-toggle collapsed contactUsAnchor navbarContact" id="contactUsAnchor" href="/enterprise/ContactUs.asp"><strong>Email Us</strong></a>
 				<a class="navbar-brand" href="/"><img src="/images/enterprise/snapstreamCleanLogo.png"></a>
 			</div>
 			<div class="navbar-collapse collapse">
@@ -54,15 +54,28 @@
 							<li class="navbar-api"><a href="/enterprise/features/api.asp">API</a></li>
 						</ul>
 					</li>
-					<li class="navbar-howitworks hidden-sm"><a href="/enterprise/howitworks.asp">How it Works</a></li>
+					<li class="dropdown navbar-appliance navbar-cloud navbar-howitworks hidden-sm">
+					<a href="#" data-href="/enterprise/howitworks.asp" class="dropdown-toggle hidden-xs hidden-sm hidden-md hidden-lg visible-mobile" data-toggle="dropdown" data-hover="dropdown" data-delay="300" data-close-others="false">How it Works<span class="caret"></span></a>
+					<a href="/enterprise/howitworks.asp" class="dropdown-toggle hidden-xs hidden-sm hidden-md hidden-mobile" data-hover="dropdown" data-delay="300" data-close-others="false">How it Works<span class="caret"></span></a>
+						<ul class="dropdown-menu" role="menu">
+							<li class="navbar-appliance"><a href="/enterprise/howitworks.asp#appliance">Local Appliance</a>
+							</li><li class="navbar-cloud"><a href="/enterprise/howitworks.asp#cloud">Cloud</a>
+						</li></ul>				
+					</li>
 					<li class="navbar-customers navbar-emerson navbar-miami navbar-rodeo hidden-sm"><a href="/enterprise/customers.asp">Customers</a></li>
 					<li class="navbar-pricing"><a href="/enterprise/buynow/pricing.asp">Pricing</a></li>
 					<li class="navbar-support hidden-sm"><a href="/enterprise/support/default.asp">Support</a></li>
 					<li><a class="hidden-sm hidden-md hidden-lg" id="navbarSearchButton" href="#searchModal" data-toggle="modal"><span class="nav-search-button glyphicon glyphicon-search"></span> Search</a></li>
 				</ul>
-				<div class="navbar-right hidden-xs">
-					<a class="btn btn-deafult navbar-button contactUsAnchor navbarContact" id="contactUsAnchor" href="/enterprise/ContactUs.asp"><strong>Contact</strong></a>
-					<a class="btn btn-deafult navbar-button" id="navbarSearchButton" href="#searchModal" data-toggle="modal"><span class="nav-search-button glyphicon glyphicon-search"></span></a>
+				<div class="navbar-left hidden-xs hidden-sm">
+					<a class="btn btn-default navbar-button contactUsAnchor navbarContact" id="contactUsAnchor" href="/enterprise/ContactUs.asp"><strong>Email Us</strong></a>
+				</div>
+				<div class="navbar-right hidden-xs hidden-sm">
+					<a class="btn btn-default navbar-button" id="navbarSearchButton" href="#searchModal" data-toggle="modal"><span class="nav-search-button glyphicon glyphicon-search"></span></a>
+				</div>
+				<div class="navbar-right hidden-xs hidden-md hidden-lg">
+					<a class="btn btn-default navbar-button contactUsAnchor navbarContact" id="contactUsAnchor" style="margin-right:15px;" href="/enterprise/ContactUs.asp"><strong>Email Us</strong></a>
+					<a class="btn btn-default navbar-button" id="navbarSearchButton" href="#searchModal" data-toggle="modal"><span class="nav-search-button glyphicon glyphicon-search"></span></a>
 				</div>
 			</div>
 		</div>
@@ -81,7 +94,7 @@
 
 </div>
 
-<div id="searchModal" class="modal fade" role="dialog" aria-labelledby="basicModal" aria-hidden="true">
+<div id="searchModal" class="modal fade" role="dialog" aria-labelledby="basicModal" aria-hidden="true" style="color:#000;">
 	<script>
 	  (function() {
 		var cx = '017643444788069204610:4gvhea_mvga';
@@ -102,19 +115,9 @@
 			</div>
 			<div class="modal-body">
 				<div class="row-fluid text-center">
-					<form id="cse-search-box" class="" action="http://google.com/cse" role="search">
-						<div class="nav-search-form form-group">
-							<input type="hidden" name="cx" value="002782991465669312032:ng8c10lmmt4">
-							<input type="hidden" name="ie" value="UTF-8">
-							<input type="hidden" name="cof" value="FORID:11">
-							<div class="input-group">
-								<span class="input-group-btn">
-									<button id="search-modal-button" class="btn btn-deafult" type="submit" name="sa" value="Search"><span class="nav-search-button glyphicon glyphicon-search"></span></button>
-								</span>
-								<gcse:searchbox-only resultsurl="/enterprise/searchResults.asp" enableautocomplete="true"></gcse:searchbox-only>
-							</div>
-						</div>
-					</form>
+					<div class="input-group" style="width:100%">
+						<gcse:searchbox-only resultsurl="/enterprise/searchResults.asp" enableautocomplete="true"></gcse:searchbox-only>
+					</div>
 				</div>
 			<!-- Modal-Body -->
 			</div>
@@ -209,7 +212,12 @@
 			</div>
 		</div>
 		<div class="footerNav row row-centered">
-			<p class="">© 2014 SnapStream, Inc.</p>
+			<div class="col-md-3 col-centered">
+				<p class="">© 2015 SnapStream, Inc.</p>
+			</div>
+			<div class="col-md-3 col-centered">
+			<p>Sales Line: <a href="tel:+18777627787">+1 (877) 762-7787</a></p>
+			</div>
 		</div>
 	</div>
 </footer>
@@ -228,21 +236,19 @@
 <!--End Google Analytics Code-->
 
 <!--Begin Daddy Analytics tracking code-->
-<script src="http://cdn.daddyanalytics.com/w/daddy.js" type="text/javascript"></script>
-<script type="text/javascript">var da_data =init('{"da_token":"00N700000030s0I","da_url":"00N700000030s0O"}');var clicky_custom = {session: {DaddyAnalytics: da_data,},};</script>
+<script src="//cdn.daddyanalytics.com/w2/daddy.js" type="text/javascript"></script>
+<script type="text/javascript">var da_data =daddy_init('{"da_token":"00N700000030s0I","da_url":"00N700000030s0O"}');var clicky_custom = {session: {DaddyAnalytics: da_data}};</script>
 <script src="//hello.staticstuff.net/w/__stats.js" type="text/javascript"></script>
 <script type="text/javascript">try{ clicky.init(100610025); }catch(e){}</script>
 <!--End Daddy Analytics tracking code-->
 
-<!-- Twitter ad code -->
+<!-- Twitter ad code for webpage views -->
 <script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
 <script type="text/javascript">
-twttr.conversion.trackPid('l4rvs');
-</script>
+twttr.conversion.trackPid('l4eum');</script>
 <noscript>
-<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l4rvs&p_id=Twitter" />
-<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l4rvs&p_id=Twitter" />
-</noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l4eum&p_id=Twitter" />
+<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l4eum&p_id=Twitter" /></noscript>
 
 	</div>
 
