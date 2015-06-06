@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careersandeducation.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123002754id_/http%3A//www.careersandeducation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careersandeducation.com privacy policy that was archived on 2015-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150606065729id_/http%3A//www.careersandeducation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Careers and Education
 
@@ -63,3 +63,6 @@ If we change this Privacy Policy, we will post those changes here and revise the
 Contact Us
 
 If you have questions or concerns about this Privacy Policy, please contact us at info@CareersandEducation.com
+
+  
+
