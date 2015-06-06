@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the justunfollow.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231165758id_/http%3A//www1.justunfollow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justunfollow.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607015417id_/http%3A//www.justunfollow.com/privacy.html) for the most accurate reproduction.*
 
-# JustUnfollow - Privacy Policy
-
-## Privacy Policy
+# Crowdfire - Privacy Policy
 
 ### INTRODUCTION
 
