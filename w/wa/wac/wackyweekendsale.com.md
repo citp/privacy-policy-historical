@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wackyweekendsale.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018182733id_/http%3A//wackyweekendsale.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wackyweekendsale.com privacy policy that was archived on 2015-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150606122954id_/http%3A//wackyweekendsale.com/privacy.html) for the most accurate reproduction.*
 
 # Wacky Weekend Sale | PRIVACY POLICY
 
