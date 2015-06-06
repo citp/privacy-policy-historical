@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the connexity.com privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816081311id_/http%3A//connexity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connexity.com privacy policy that was archived on 2015-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150606233359id_/http%3A//connexity.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Connexity
+# Privacy Policy - Connexity
 
-Last modified on: June 7th 2014
+Last modified on: December 17th 2014
 
 Connexity is committed to consumer privacy and relevant advertising in support of a safe, free Internet experience. Similar to television, radio, newspapers and magazines, most of the content and services you enjoy online are advertising supported, that is why you do not have to pay a subscription to use them. Our goal is to continuously improve the online experience by improving the relevance of advertising in support of free content. Most people agree, given that advertising is here to stay, it should be more relevant to your interests.
 
@@ -16,7 +16,7 @@ Insights powered by Bizrate users, please see the privacy policy found [here](ht
 
 Connexity conducts business with advertisers (those who sell products and services, create the ads and buy the ad space) and publishers (those who provide the free content and services and sell the ad space). We are an intermediary in this process. Given lots of ads and lots of ad space, we provide technology that strives to match up the ads with the ad space and deliver the best ad at the best time. We improve performance for the advertiser and the publisher by reducing the clutter of ads that are not interesting to you.
 
-Our approach to this is based on many variables, most of which involve the collection of data from things like IP address, browser settings and browsing activity on the websites we work with (the network). The data is individualized to provide the best user experience through the most relevant ads, but remains strictly anonymous, confidential, and is never reviewed by a person. All of our technology uses computer algorithms to match ads to audience. Aggregate data is shared in report format with our clients as a normal course of business.
+Our approach to this is based on many variables, most of which involve the collection of data from things like IP address, browser settings and browsing activity on the websites we work with (the network). The data is individualized to provide the best user experience through the most relevant ads, but remains strictly anonymous, confidential, and is never reviewed by a person. All of our technology uses computer algorithms to match ads to audience. We target these audiences directly or make them available to third parties. Aggregate data is shared in report format with our clients as a normal course of business.
 
 ## How we collect data
 
@@ -52,7 +52,7 @@ Connexity’s compliance with self-regulation can be monitored by one of several
 
 ## A Special Note about the European Union
 
-Connexity complies with the EU and Swiss Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union member countries and Switzerland. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company’s certification, please visit[http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor). In compliance with the Safe Harbor Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss citizens can learn more here[www.youronlinechoices.com](http://www.youronlinechoices.com/) and should submit inquiries or complaints regarding this Privacy Policy to privacy@connexity.com.
+Connexity complies with the EU and Swiss Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union member countries and Switzerland. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company’s certification, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor). In compliance with the Safe Harbor Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss citizens can learn more here [www.youronlinechoices.com](http://www.youronlinechoices.com/) and should submit inquiries or complaints regarding this Privacy Policy to privacy@connexity.com.
 
 [We self-certify compliance with  
 ](https://safeharbor.export.gov/list.aspx)
