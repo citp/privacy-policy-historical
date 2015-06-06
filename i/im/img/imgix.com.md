@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imgix.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224061153id_/http%3A//www.imgix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgix.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607015728id_/http%3A//www.imgix.com/privacy) for the most accurate reproduction.*
 
-# imgix • Privacy Policy
+# Privacy Policy • imgix
 
 Last Revised:  
 May 20, 2014
