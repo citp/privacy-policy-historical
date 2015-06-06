@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ladyandpups.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208174957id_/http%3A//www.ladyandpups.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ladyandpups.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607015126id_/http%3A//ladyandpups.com/privacypolicy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Lady and Pups – an angry food blog
 
