@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simons.ca privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105074222id_/http%3A//www.simons.ca/simons/article/article.jsp%3FartId%3D12935%26en/the-site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simons.ca privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607015405id_/http%3A//www.simons.ca/simons/article/article.jsp%3FartId%3D12935%26en/the-site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Simons
 
