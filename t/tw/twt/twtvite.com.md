@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twtvite.com privacy policy that was archived on 2014-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140805104920id_/http%3A//twtvite.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twtvite.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607015821id_/http%3A//vite.io/home/privacy) for the most accurate reproduction.*
 
-# Twtvite | Privacy Policy
+# Vite | Privacy Policy
 
 We collect the e-mail addresses of those who communicate with us via e-mail. We aggregate information on what pages visitors access or visit (using a web analytics service - [Google Analytics](http://google.com/analytics)) and information volunteered by visitors, such as site registration or web surveys.
 
@@ -8,7 +8,7 @@ The information we collect is used to improve the content of our websites and th
 
 **Twtvite** DOES NOT share with or sell any of its visitors' information to other organizations, except to provide products or services they have requested, when it has their permission or under the following circumstances:
 
-  * It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of [Terms of Use](http://twtvite.com/home/terms), or as otherwise required by law. 
+  * It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of [Terms of Use](http://vite.io/home/terms), or as otherwise required by law. 
   * We transfer information about you if **Twtvite** is acquired by or merged with another company. In this event, we will notify our users before any information is transferred and/or becomes subject to a different privacy policy. 
 
 
@@ -29,7 +29,7 @@ Although **Twtvite** owns the data storage, databases and all rights to our serv
 
 ## Disclosure
 
-**Twtvite** may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when our customer's actions violate the [Terms of Use](http://twtvite.com/home/terms). 
+**Twtvite** may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when our customer's actions violate the [Terms of Use](http://vite.io/home/terms). 
 
 ## Changes
 
