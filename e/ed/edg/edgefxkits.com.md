@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the edgefxkits.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124103014id_/http%3A//www.edgefxkits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edgefxkits.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607001241id_/http%3A//www.edgefxkits.com/privacy-policy) for the most accurate reproduction.*
 
 # Legal Information - Edgefx Kits
 
 This website belongs to:
 
-Edgefx Technologies Pvt. Ltd,
+Edgefx Technologies Pvt. Ltd.,
 
-105, Liberty Plaza, Himayatnagar,  
-Hydearbad-500 029,  
-Andhra Pradesh, India.  
+Plot No. 105, 3rd Floor,  
+Liberty Plaza, Himayathnagar,  
+Hyderabad - 500029,  
+Telangana, India  
 Contact Number: +91 99591 78000
 
 By accessing this Site, certain information about you like systems and programs used, time spent, IP addresses along with other similar information, may be stored on our servers. Your unique identifying information like name, address etc. may be used for statistical, internal administrative and/or other purposes. We will not disclose, sell, share or in any way reveal your information to any other third party. We are committed to protecting the information we collect. We have appropriate security measures in place to protect against the loss, misuse or alteration of information that we have collected from you.
