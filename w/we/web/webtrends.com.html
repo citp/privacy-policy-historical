@@ -1,20 +1,23 @@
-<!--The following is the downloaded HTML source of the webtrends.com privacy policy that was archived on 2014-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141228080002id_/http%3A//webtrends.com/terms-policies/privacy-notice) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the webtrends.com privacy policy that was archived on 2015-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150606143156id_/http%3A//www.webtrends.com/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><head>
+	<script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=2"></script><script type="text/javascript" async="" src="https://sjs.bizographics.com/insight.min.js"></script><script src="//c.webtrends.com/acs/account/0h2bwy70br/js/wt.js"></script>
 	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Privacy Notice | Webtrends.com</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQIOUFVQGwYGVFFUAgE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+	<title>Privacy Statement | Webtrends</title>
+
+<link rel="stylesheet" href="http://www.webtrends.com/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=3.1.9.6" type="text/css" media="all">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
 	<!--Language and Region-->
 	<link rel="alternate" hreflang="de" href="http://webtrends.de/">
 	<link rel="alternate" hreflang="fr" href="http://webtrends.fr/">
 	<link rel="alternate" hreflang="it" href="http://italia.webtrends.com/">
-	<link rel="alternate" hreflang="x-default" href="http://example.com/">
+	<link rel="alternate" hreflang="x-default" href="http://webtrends.com/">
 	
 	<!--google tools-->
-	<meta name="google-site-verification" content="_oc_qi-JSCUaSDXom40PSTL7Z3ueBWW1nTogodVmWck">
+	<meta name="google-site-verification" content="TvVd8NvJA25jb1D_tqKOJWLM14Jd0DNEYWcttrmP4kM">
 	
 	<!-- millions of touch icons yay!-->
 	<link rel="apple-touch-icon" sizes="57x57" href="//cdn.webtrends.com/images/favicons/apple-touch-icon-57x57.png">
@@ -39,77 +42,103 @@
 	<link rel="icon" type="image/png" href="//cdn.webtrends.com/images/favicons/favicon.ico">
 	
 	<!--TYPEKIT-->
-	<script type="text/javascript" src="//use.typekit.net/yup1cxh.js"></script>
+	<script type="text/javascript" src="//use.typekit.net/kkg6bip.js"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 	
 	
 <!--start don't delete me (HealthMonitor Alive Flag)-->
 <!--EVERYTHING IS WORKING!!-->
 <!--end don't delete me (HealthMonitor Alive Flag)-->
+<script type="text/javascript">
+window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:22,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:9,2:8,3:6,4:10,5:3,6:23,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:9,2:8,3:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],6:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:23,2:24,ee:"QJf3ax",gos:"7eSDFh"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:24,2:23,ee:"QJf3ax"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:24,2:23,ee:"QJf3ax"}],9:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:24,2:23,ee:"QJf3ax"}],10:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:6,2:24,ee:"QJf3ax"}],11:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:12,3:10,4:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],12:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],13:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:22,2:23,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:22,2:13,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],22:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],23:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],24:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:23,ee:"QJf3ax"}]},{},["G9z0Bl",4,11,5]);
+;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"5e22ef098b",applicationID:"5600430",sa:1,agent:"js-agent.newrelic.com/nr-632.min.js"}
+</script>
 <script>document.documentElement.className += " js";</script>
-<!-- This site is optimized with the Yoast WordPress SEO plugin v1.6.3 - https://yoast.com/wordpress/plugins/seo/ -->
-<link rel="canonical" href="http://www.webtrends.com/terms-policies/privacy/privacy-notice/">
+<!-- This site is optimized with the Yoast WordPress SEO plugin v2.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Webtrends Privacy Statement - Learn more about our privacy statement here.">
+<link rel="canonical" href="http://www.webtrends.com/terms-policies/privacy/privacy-statement/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Privacy Notice | Webtrends.com">
-<meta property="og:description" content="Last Updated: Jan 17th, 2013 Effective Feb 15th 2013 Trust is a fundamental requirement for successful personal and business exchanges, and Webtrends is committed to deserve, gain and retain the trust of its customers. This privacy notice describes how Webtrends collects and uses your personal information on all its online properties. To learn more, please …">
-<meta property="og:url" content="http://www.webtrends.com/terms-policies/privacy/privacy-notice/">
+<meta property="og:title" content="Privacy Statement | Webtrends">
+<meta property="og:description" content="Webtrends Privacy Statement - Learn more about our privacy statement here.">
+<meta property="og:url" content="http://www.webtrends.com/terms-policies/privacy/privacy-statement/">
 <meta property="og:site_name" content="Webtrends.com">
-<meta property="fb:admins" content="533486213">
+<meta property="fb:admins" content="520990801">
 <meta property="og:image" content="http://www.webtrends.com/wp-content/uploads/2014/12/safe-harbor-badge.jpg">
-<meta property="og:image" content="//privacy-policy.truste.com/privacy-seal/Webtrends-Inc-/seal?rid=40aecf5f-3b93-47f3-aa44-e3c31d26b7d7">
+<meta property="og:image" content="http://privacy-policy.truste.com/privacy-seal/Webtrends-Inc-/seal?rid=40aecf5f-3b93-47f3-aa44-e3c31d26b7d7">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="Webtrends Privacy Statement - Learn more about our privacy statement here.">
+<meta name="twitter:title" content="Privacy Statement | Webtrends">
+<meta name="twitter:domain" content="Webtrends.com">
+<meta name="twitter:image:src" content="/wp-content/uploads/2014/12/safe-harbor-badge.jpg">
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/www.webtrends.com\/","name":"Webtrends.com"}</script>
 <!-- / Yoast WordPress SEO plugin. -->
 
-<link rel="stylesheet" id="cookie_disclosure-css" href="http://www.webtrends.com/wp-content/plugins/cookie_disclosure/css/style.css?ver=4.0.1" type="text/css" media="all">
-<link rel="stylesheet" id="profile_css-css" href="http://www.webtrends.com/wp-content/plugins/profile_capture/lib/css/profile-capture.css?ver=4.0.1" type="text/css" media="all">
-<link rel="stylesheet" id="smart_form_css-css" href="http://www.webtrends.com/wp-content/plugins/profile_capture/lib/css/smart-forms.css?ver=4.0.1" type="text/css" media="all">
-<link rel="stylesheet" id="magnific-css" href="http://www.webtrends.com/wp-content/plugins/themify-builder/themify/css/lightbox.css?ver=4.0.1" type="text/css" media="all">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.webtrends.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.webtrends.com/wp-includes/js/wp-emoji-release.min.js?ver=4.2.2" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="cookie_disclosure-css" href="http://www.webtrends.com/wp-content/plugins/cookie_disclosure/css/style.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="profile_css-css" href="http://www.webtrends.com/wp-content/plugins/profile_capture/lib/css/profile-capture.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="smart_form_css-css" href="http://www.webtrends.com/wp-content/plugins/profile_capture/lib/css/smart-forms.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="magnific-css" href="http://www.webtrends.com/wp-content/plugins/themify-builder/themify/css/lightbox.css?ver=4.2.2" type="text/css" media="all">
 <link rel="stylesheet" id="themify-font-icons-css-css" href="http://www.webtrends.com/wp-content/plugins/themify-builder/themify/fontawesome/css/font-awesome.min.css?ver=1.2.3" type="text/css" media="all">
 <link rel="stylesheet" id="themify-builder-style-css" href="http://www.webtrends.com/wp-content/plugins/themify-builder/css/themify-builder-style.css" type="text/css" media="all">
 <link rel="stylesheet" id="themify-animate-css" href="http://www.webtrends.com/wp-content/plugins/themify-builder/css/animate.min.css" type="text/css" media="all">
-<link rel="stylesheet" id="font-awesome-styles-css" href="http://www.webtrends.com/wp-content/plugins/font-awesome/assets/css/font-awesome.min.css?ver=3.2.1" type="text/css" media="all">
-<!--[if lte IE 7]>
-<link rel='stylesheet' id='font-awesome-ie7-css'  href='http://www.webtrends.com/wp-content/plugins/font-awesome/assets/css/font-awesome-ie7.min.css?ver=3.2.1' type='text/css' media='all' />
-<![endif]-->
-<link rel="stylesheet" id="roots_css-css" href="http://www.webtrends.com/wp-content/themes/Roots/assets/css/main.min.css?e4fe377932c7f2f30d89ea632e3d249b" type="text/css" media="all">
+<link rel="stylesheet" id="roots_css-css" href="http://www.webtrends.com/wp-content/themes/Roots/assets/css/main.min.css?9526c6d359c006800113ba01a904aff9" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-min-css" href="//cdn.webtrends.com/fontawesome/css/font-awesome.min.css" type="text/css" media="all">
 <script type="text/javascript" src="//cdn.webtrends.com/js/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="http://www.webtrends.com/wp-content/themes/Roots/assets/vendor/jquery/dist/jquery.min.js?1.11.1"><\/script>')</script><script src="http://www.webtrends.com/wp-content/themes/Roots/assets/vendor/jquery/dist/jquery.min.js?1.11.1"></script>
-<script type="text/javascript" src="http://www.webtrends.com/wp-content/plugins/themify-builder/themify/js/carousel.js?ver=4.0.1"></script>
-<script type="text/javascript" src="http://www.webtrends.com/wp-content/plugins/themify-builder/themify/js/video.js?ver=4.0.1"></script>
-<script type="text/javascript" src="http://www.webtrends.com/wp-content/plugins/themify-builder/themify/js/bigvideo.js?ver=4.0.1"></script>
-<script type="text/javascript" src="http://www.webtrends.com/wp-content/plugins/themify-builder/js/themify.scroll-highlight.js?ver=4.0.1"></script>
-<script type="text/javascript" src="//cdn.webtrends.com/js/wt_capi.js"></script>
+<script type="text/javascript" src="http://www.webtrends.com/wp-content/plugins/themify-builder/themify/js/carousel.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://www.webtrends.com/wp-content/plugins/themify-builder/themify/js/video.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://www.webtrends.com/wp-content/plugins/themify-builder/themify/js/bigvideo.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://www.webtrends.com/wp-content/plugins/themify-builder/js/themify.scroll-highlight.js?ver=4.2.2"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.webtrends.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.webtrends.com/wp-includes/wlwmanifest.xml"> 
-<link rel="shortlink" href="http://www.webtrends.com/?p=22740">
+<link rel="shortlink" href="http://www.webtrends.com/?p=22823">
+<meta name="generator" content="WPML ver:3.1.9.6 stt:1;0">
 
 <!-- Begin Meta Tag Manager --> 
-<meta name="WT.cg_n" content="About Us"> 
-<meta name="WT.cg_s" content="Legal"> 
+<meta name="WT.cg_n" content="About Us">
+<meta name="WT.cg_s" content="Legal">
 <!-- End Meta Tag Manager -->
 
 <!-- Open Graph Tags -->
 <meta property="og:site_name" content="Webtrends.com">
 <meta property="og:type" content="article">
-<meta property="og:description" content="Last Updated: Jan 17th, 2013 Effective Feb 15th 2013 Trust is a fundamental requirement for successful personal and business exchanges, and Webtrends is committed to deserve, gain and retain the trust of its customers. This privacy notice describes how Webtrends collects and uses your personal information on all its online properties. To learn more, please […]">
-<meta property="og:url" content="http://www.webtrends.com/terms-policies/privacy/privacy-notice/">
-<meta property="og:title" content="Privacy Notice">
+<meta property="og:description" content="Last Updated: March 15th, 2015 Statement This privacy policy applies to http://www.webtrends.com and our service platform owned and operated by Webtrends Inc.. This privacy statement [...]">
+<meta property="og:url" content="http://www.webtrends.com/terms-policies/privacy/privacy-statement/">
+<meta property="og:title" content="Privacy Statement">
 <!-- End Open Graph Tags -->
 <!-- Builder Custom Style -->
 <style type="text/css">
-.navbar-fixed-top { top: 31px !important; }
+.cta-3-column .tb-column .module.feat-blogchris	{
+	background: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,.7) 100%),
+	url('//www.webtrends.com/wp-content/uploads/2015/01/thumb-blog-BehindScenes-UX.jpg') center center no-repeat;
+}
+
 </style>
 <!-- / end builder custom style -->
 	
-		
-	<!--get optimizin'-->
-	<script type="text/javascript">
-		WTOptimize.setup({s_pageDisplayMode: "none"});
-	</script>
-
+	
 	<link rel="alternate" type="application/rss+xml" title="Webtrends.com Feed" href="http://www.webtrends.com/feed/">
-</head>
-<body class="page page-id-22740 page-child parent-pageid-22821 page-template page-template-templatestemplate-legal-php privacy-notice">
+	
+	</head>
+<body class="page page-id-22823 page-child parent-pageid-22821 page-template page-template-templates page-template-template-legal page-template-templatestemplate-legal-php privacy-statement">
 	<!--[if lt IE 8]>
 		<div class="alert alert-warning">
 			You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.		</div>
@@ -124,16 +153,16 @@
 		<div class="morphsearch-content">
 												<div class="col-sm-6">
 						<h4>Recent Blog Posts</h4>
-																			<a href="http://www.webtrends.com/blog/2014/12/something-looks-different-new-website-just-time-holidays/" class="item">Something looks different! A new website just in time for the holidays</a>
+																			<a href="http://www.webtrends.com/blog/2015/05/how-to-optimize-the-travel-booking-funnel/" class="item">How to Optimize the Travel Booking Funnel</a>
 																		
 					</div>
 									<div class="col-sm-6">
 						<h4>Featured Resources</h4>
-																			<a href="http://www.webtrends.com/resource/whitepaper-webtrends-contextual-personalization/" class="item">Contextual Personalization:  The Next Frontier in Customer Engagement</a>
+																			<a href="http://www.webtrends.com/resource/approaches-to-fight-exit-intent/" class="item">Approaches to Fight Exit Intent</a>
+													<a href="http://www.webtrends.com/resource/whitepaper-webtrends-contextual-personalization/" class="item">Contextual Personalization:  The Next Frontier in Customer Engagement</a>
 													<a href="http://www.webtrends.com/resource/22778/" class="item">Drive SharePoint User Engagement ROI</a>
 													<a href="http://www.webtrends.com/resource/segmentation-healthcare-insurance-industry/" class="item">Segmentation in the Healthcare Insurance Industry</a>
 													<a href="http://www.webtrends.com/resource/top-ten-tips-optimizing-conversion-funnel/" class="item">Top Ten Tips for Optimizing Your Conversion Funnel</a>
-													<a href="http://www.webtrends.com/resource/five-steps-create-online-experience-customers-really-want/" class="item">Five Steps to Create the Online Experience Customers Really Want</a>
 																		
 					</div>
 									</div><!-- /morphsearch-content -->
@@ -147,7 +176,7 @@
 <section class="login-collapse collapse" id="shelf">
 	<div class="container">
 		<div class="col-sm-4 hidden-xs">
-			<a href="/products-solutions/analytics/mobile-analytics-use-cases/"><img src="//cdn.webtrends.com/images/ads/ad-mobileusecase.png"></a>
+			<a href="/support-training/training/explore-onboarding/" data-wt_title="Ad - Explore Onboarding"><img src="//cdn.webtrends.com/images/ads/ad-explore.png"></a>
 		</div>
 		<div class="clearfix">
 			<div class="col-sm-8">
@@ -202,8 +231,8 @@
         <span class="sr-only">Toggle navigation</span>
         <i class="fa fa-bars"></i>
       </button>
-      <span id="launcher" class="morphsearch-open"><i class="fa fa-search"></i></span>
-      <a class="navbar-brand" href="http://www.webtrends.com/">Webtrends.com</a>
+      <span id="launcher" class="morphsearch-open" data-wt_title="Launch Search"><i class="fa fa-search"></i></span>
+      <a class="navbar-brand" href="http://www.webtrends.com/" data-wt_title="Webtrends.com Logo">Webtrends.com</a>
     </div>
    
     <nav class="collapse navbar-collapse" role="navigation">
@@ -333,17 +362,11 @@
 </li>
 	<li class="menu-events"><a href="http://www.webtrends.com/about-us/events/">Events</a></li>
 	<li class="menu-careers"><a href="http://www.webtrends.com/about-us/careers/">Careers</a></li>
-	<li class="dropdown menu-contact-us"><a href="http://www.webtrends.com/about-us/global-offices/">Contact Us</a>
-<ul class="sub-menu">
-<span class="wrap">
-		<li class="menu-global-offices"><a href="http://www.webtrends.com/about-us/global-offices/">Global Offices</a></li>
-		<li class="menu-contact-sales"><a href="http://www.webtrends.com/about-us/contact-sales/">Contact Sales</a></li>
-	</span></ul>
-</li>
+	<li class="menu-contact-us"><a href="http://www.webtrends.com/about-us/contact-us/">Contact Us</a></li>
 </span></ul>
 </li>
 <li class="menu-lets-talk"><a title="nav-contact-form">Let’s Talk</a></li>
-<li class="menu-log-in"><a>Log in</a></li>
+<li class="menu-log-in"><a>Log In</a></li>
 <li class="nav-search"><span id="launcher2" class="morphsearch-open"><i class="fa fa-search"></i></span></li></ul>    </nav>
   </div>
 </header>
@@ -402,9 +425,36 @@
 	})();
 </script>
 	<div class="wrap container" role="document" id="page-content">
-		<div class="content row">
+		<div class="content">
 			<main class="main" role="main">
 				
+<script>
+	(function () {
+		  'use strict';
+		  if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+		    var msViewportStyle = document.createElement('style');
+		    msViewportStyle.appendChild(
+		      document.createTextNode(
+		        '@-ms-viewport{width:auto!important}'
+		      )
+		    );
+		    document.querySelector('head').appendChild(msViewportStyle);
+		  }
+		})();
+		
+		//offcanvas!
+		$(document).ready(function () {
+			$('[data-toggle="offcanvas"]').click(function () {
+		    	$('.row-offcanvas').toggleClass('active');
+			});
+			
+			$(".sticky").stick_in_parent({
+				offset_top: 50
+			});
+			
+		});
+</script>
+
  
  <div id="sticky-wrap" class="container privacy">
 	<div class="row row-offcanvas row-offcanvas-left clearfix">
@@ -416,8 +466,8 @@
 				<ul id="menu-terms-policies" class="menu"><li class="current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor dropdown menu-privacy"><a href="http://www.webtrends.com/terms-policies/privacy/">Privacy</a>
 <ul class="sub-menu">
 <span class="wrap">
-	<li class="current-menu-item current_page_item menu-privacy-notice"><a href="http://www.webtrends.com/terms-policies/privacy/privacy-notice/">Privacy Notice</a></li>
-	<li class="menu-privacy-statement"><a href="http://www.webtrends.com/terms-policies/privacy/privacy-statement/">Privacy Statement</a></li>
+	<li class="menu-privacy-notice"><a href="http://www.webtrends.com/terms-policies/privacy/privacy-notice/">Privacy Notice</a></li>
+	<li class="current-menu-item current_page_item menu-privacy-statement"><a href="http://www.webtrends.com/terms-policies/privacy/privacy-statement/">Privacy Statement</a></li>
 	<li class="menu-cookie-policy"><a href="http://www.webtrends.com/terms-policies/privacy/cookie-policy/">Cookie Policy</a></li>
 </span></ul>
 </li>
@@ -442,7 +492,7 @@
 <li class="dropdown menu-compliance"><a href="http://www.webtrends.com/terms-policies/compliance/">Compliance</a>
 <ul class="sub-menu">
 <span class="wrap">
-	<li class="menu-portfolio-and-optimize-system-description"><a href="http://www.webtrends.com/terms-policies/compliance/portfolio-and-optimize-system-description/">Portfolio and Optimize System Description</a></li>
+	<li class="menu-webtrends-inc-saas-services-system-description"><a href="http://www.webtrends.com/terms-policies/compliance/portfolio-and-optimize-system-description/">Webtrends Inc. SaaS Services System Description</a></li>
 </span></ul>
 </li>
 </ul>			</div>
@@ -450,59 +500,112 @@
 	
 		<div id="update" class="col-xs-12 col-sm-9 col-md-9">
 		 	<div class="inner">
-			 	<h2>Privacy Notice</h2>
-			 	<p><strong>Last Updated: Jan 17th, 2013</strong> Effective Feb 15th 2013</p>
-<p>Trust is a fundamental requirement for successful personal and business exchanges, and Webtrends is committed to deserve, gain and retain the trust of its customers.</p>
-<p>This privacy notice describes how Webtrends collects and uses your personal information on all its online properties. To learn more, please read the full <a href="/terms-policies/privacy-statement">Webtrends Privacy Statement</a>.</p>
-<p><strong>Contact info</strong><br>
-Webtrends Inc<br>
-555 SW Oak Street, Suite 300<br>
-Portland, Oregon 97204<br>
-<a href="mailto:privacy@webtrends.com">privacy@webtrends.com</a></p>
+			 	<h2>Privacy Statement</h2>
+			 	<p><strong>Last Updated: March 15<sup>th</sup>, 2015</strong></p>
+<p><strong>Statement</strong></p>
+<p>This privacy policy applies to http://www.webtrends.com and our service platform owned and operated by Webtrends Inc.. This privacy statement (“Statement”) explains how your personal information is collected, used, and disclosed by Webtrends Inc. and its subsidiaries and affiliated companies (“Webtrends” or “We”). It applies to all business customers of our products and services and visitors to our websites, mobile sites, and mobile applications (“Sites”). This Statement does not apply to household consumers, visitors to Webtrends’ customers’ sites, and services, employees, or employment candidates. This Statement does not cover the practices of any third parties or their services, including any social networking platforms you choose to use to connect with Webtrends Sites or to business customers who use Webtrends services to collect information from their customers. For information about third party privacy practices, please consult their privacy policies.</p>
 <p><strong>Privacy Program &amp; Regulatory Compliance</strong></p>
-<p><a href="https://safeharbor.export.gov/list.aspx" target="_blank">We self-certify compliance with</a></p>
+<p>Webtrends has been awarded TRUSTe’s Privacy Seal signifying that this privacy statement and Webtrends’ practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy-program-requirements/">TRUSTe’s program requirements</a> and the <a href="http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/">TRUSTe Cloud Program Requirements</a> including transparency, accountability, and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at<a href="mailto:privacy@webtrends.com">privacy@webtrends.com</a>. If you are not satisfied with our response you can contact <a href="https://feedback-form.truste.com/watchdog/request">TRUSTe here</a>.</p>
+<p>The TRUSTe program only covers information that is collected through the websites, <a href="http://www.webtrends.com/">http://www.webtrends.com</a>, and through our service platforms, <a href="http://ondemand.webtrends.com/">http://ondemand.webtrends.com</a>, <a href="http://analytics.webtrends.com/">http://analytics.webtrends.com</a>,<a href="http://segments.webtrends.com/">http://segments.webtrends.com</a>, <a href="http://streams.webtrends.com/">http://streams.webtrends.com</a>, <a href="http://explore.webtrends.com" target="_blank">http://explore.webtrends.com</a> and <a href="http://optimize.webtrends.com">http://optimize.webtrends.com</a> and does not cover information that may be collected through any software downloaded from this website, or through our mobile applications.</p>
+<p>Webtrends complies with the U.S. – E.U. Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from the European Union countries and Switzerland. Webtrends has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Information regarding the U.S. – E.U. Safe Harbor Framework can be found at: <a href="http://export.gov/safeharbor">http://export.gov/safeharbor</a>.</p>
+<p><a href="https://safeharbor.export.gov/list.aspx">We self-certify compliance with</a></p>
 <p><a href="http://www.export.gov/safeharbor"><img src="/wp-content/uploads/2014/12/safe-harbor-badge.jpg" alt="Safe Harbor Badge"></a></p>
-<div id="5be33611-2e70-4d07-9ef0-af99aedf5e57"><script src="//privacy-policy.truste.com/privacy-seal/Webtrends-Inc-/asc?rid=5be33611-2e70-4d07-9ef0-af99aedf5e57" type="text/javascript"></script><a title="Validate TRUSTe privacy certification" href="//privacy.truste.com/privacy-seal/Webtrends-Inc-/validation?rid=40aecf5f-3b93-47f3-aa44-e3c31d26b7d7" target="_blank"><img style="border: none;" src="//privacy-policy.truste.com/privacy-seal/Webtrends-Inc-/seal?rid=40aecf5f-3b93-47f3-aa44-e3c31d26b7d7" alt="Validate TRUSTe privacy certification"></a></div>
-<p>Webtrends’ privacy practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html" target="_blank">TRUSTe’s program requirements</a> and the <a href="http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html" target="_blank">TRUSTed Cloud Program Requirements</a>. If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:privacy@webtrends.com">privacy@webtrends.com</a>. If you are not satisfied with our response you can contact <a href="https://feedback-form.truste.com/watchdog/request" target="_blank">TRUSTe here</a>.</p>
-<p><strong>Privacy on Webtrends Online Properties</strong></p>
-<p>What data do we collect?</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div id="5be33611-2e70-4d07-9ef0-af99aedf5e57"><a title="Validate TRUSTe privacy certification" href="http://privacy.truste.com/privacy-seal/Webtrends-Inc-/validation?rid=40aecf5f-3b93-47f3-aa44-e3c31d26b7d7" target="_blank"><img src="http://privacy-policy.truste.com/privacy-seal/Webtrends-Inc-/seal?rid=40aecf5f-3b93-47f3-aa44-e3c31d26b7d7" alt="Validate TRUSTe privacy certification"></a></div>
+<div></div>
+<div></div>
+<p><strong>Information We Collect</strong></p>
+<p>Here are a few ways we collect your information and the types of information we collect. We may also obtain information from other sources. Information we collect may be in the form of personal information or anonymized data. Anonymized data may be in the form of aggregate data. Aggregate data is information we collect about a group or category of services or users from which individual user identities have been removed. In other words, no personal information is included in aggregate data. Aggregate data helps us understand trends in our users’ needs so that we can better consider new features or otherwise tailor our products and services. This Policy does not restrict or limit our collection and use of aggregate data.</p>
+<p><strong>INFORMATION YOU PROVIDE TO US</strong></p>
+<p>We collect personal information you give us. These are the general types of information we may collect from you:</p>
+<p><strong><em>Registration and Profile Information</em></strong></p>
+<p>When you register to use our services, to receive information, to participate in our events, and create or update your forum profile, we may collect various kinds of information about you. For example, we may collect your name, postal address, phone numbers, fax numbers and email address; your log-in ID and password; your title, company, and other profile information you provide; demographic information; and information linked with your profile such as comments you may post.</p>
+<p><strong><em>Submissions and Customer Service</em></strong></p>
+<p>From time to time we may use surveys, contests, or sweepstakes requesting personal information. Information we collect may include demographic information, information about your personal interests, and your feedback as a valued customer.</p>
+<p><strong>INFORMATION WE AUTOMATICALLY COLLECT</strong></p>
+<p>When you visit our Sites or use our services, some information such as your computer’s operating system, Internet Protocol (IP) address, access times, browser type and language, and the website you visited before our Site is logged automatically and stored in log files. We also collect information about your usage and activity on our Sites. We may tie your IP address to information we automatically collect on our Sites. We may also tie information we automatically collect with personal information, such as your login ID and information you give us at registration. We use our own products, and products of third parties acting on our behalf, to analyze, optimize, and improve our Sites. To opt-out of online behavioral advertising, please visit <a href="http://www.networkadvertising.org/managing/opt_out.asp"><strong><em>http://www.networkadvertising.org/managing/opt_out.asp</em></strong></a><strong><em>.</em></strong></p>
+<p>Technologies such as: cookies, beacons, tags and scripts are used by Webtrends and our marketing partners, affiliates, analytics providers or leads management providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.</p>
+<p>We use cookies for analytics, user experience and session tracking, ad and video tracking<em>. </em>Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.</p>
+<p>Click <a href="http://www.webtrends.com/terms-policies/cookie-policy">here</a> to find out more about the types of cookies Webtrends uses.</p>
+<p><strong><em>Flash LSOs</em></strong></p>
+<p>We use Local Storage Objects (LSOs) such as Flash to store analytics data and state information. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information.</p>
+<p>Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html">http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html</a></p>
+<p><strong><em>Behavioral targeting/Re-targeting</em></strong></p>
+<p>We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.&nbsp; If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking <a href="http://preferences-mgr.truste.com/">here</a> (or if located in the European Union click <a href="http://www.youronlinechoices.eu/">here</a>)&nbsp; Please note this does not opt you out of being served ads.&nbsp; You will continue to receive generic ads.</p>
+<p><strong>Information We Obtain from Other Sources</strong></p>
+<p>Webtrends may collect information about you from third party sources and services. We may buy or lease contact data, marketing and demographic data from brokers. Webtrends may also access certain profile information such as friends, profile picture etc. from social networking platforms and services that you use to interact with Webtrends Sites and services. We may combine that third party information with information we collect directly from you.</p>
+<p><strong>Use of Personal Information</strong></p>
+<p>We use personal information collected through our Sites in the ways we tell you in this Statement. For example, we may use your information to:</p>
 <ul>
-<li>Webtrends collects information directly from visitors to its digital properties when they choose to participate in our offers and programs or otherwise provide information directly to us.</li>
-<li>The information you provide may be combined with data automatically collected using Webtrends own services and from other companies.</li>
-<li><a class="cd_disclosure_link">Change cookie settings &gt;&gt;</a></li>
-<li><a href="/terms-policies/privacy-statement#info-we-collect">Learn more &gt;&gt;</a></li>
+<li>operate and improve our Sites, products and services;</li>
+<li>process and deliver contest entries and rewards;</li>
+<li>respond to your comments and questions and provide customer service;</li>
+<li>contact you to request feedback about your experience with our products and services or learn about your demographics, preferences and interests;</li>
+<li>provide and deliver our products and services you use;</li>
+<li>send you information related to our products and services you use, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages;</li>
+<li>communicate with you about new contests, promotions and rewards, upcoming events and webinars, and other news about products and services offered by Webtrends and our selected partners;</li>
+<li>anonymize and aggregate personal information for different purposes. This could include things like market analysis, traffic flow analysis and reporting, and to deliver relevant advertising and information based on click stream data;</li>
+<li>customize or personalize your online experience, for example to pre-populate forms and display relevant content;</li>
+<li>customize or personalize advertising and communications to bring you relevant information about products and services that may interest you; and</li>
+<li>protect, investigate and deter against fraudulent, unauthorized or illegal activity. We may also link, combine or supplement your personal information with other personal information we get from third parties such as a business directory. We do this to help understand your needs and provide you with better products and services. We may also use your personal information in other ways than as listed here, in which case, we will inform you.</li>
 </ul>
-<p>How do we use your data?</p>
+<p>Webtrends may store and process personal information in the United States, European Union Member States and other countries. Webtrends participates in the U.S. Department of Commerce’s Safe Harbor program and adheres to the Safe Harbor privacy principles regarding the collection, use, and retention of personal information from the European Union.</p>
+<p><strong>SHARING OF PERSONAL INFORMATION</strong></p>
+<p><strong><em>Information You Share</em></strong></p>
+<p>Our Services may provide forums that allow you to connect and share your profile, actions, comments, content, and information publicly and with others. We are not responsible for the personal information you choose to submit in these forums. To learn how the third party application uses your information, please review their privacy policy. To request removal of your personal information from our blog or community forum, follow the instructions in the section titled Your Information Choices and Changes below. We may also allow you to connect and share on third party sites and services. For example, we use a single sign-on service that allows you to sign into Webtrends forums using certain third-party social networking login credentials. This allows you to link your existing social network profile to your Webtrends account. Once connected, you will be able to share and post content on and with the third-party site from Webtrends and share and interact with your friends.</p>
+<p>Please be mindful of your own privacy needs as you choose with which third party services to connect, with whom you connect, and what to share and make public. We cannot control the privacy or security of information you choose to make public or share with others. If you share information about others, we suggest you get consent for any information you may share about them.</p>
+<p><strong><em>Information We Share</em></strong></p>
+<p>We do not sell and share your personal information with third parties other than as follows:</p>
 <ul>
-<li>We use the information we collect to provide you with the services you request.</li>
-<li>Your data is also used to facilitate and enhance your digital experience and may be used to create a profile of your activity for marketing purpose. You may request changes to your contact preferences by emailing <a href="mailto:comprefs@webtrends.com">comprefs@webtrends.com</a>.</li>
-<li><a href="/terms-policies/privacy-statement#use-of-information">Learn more &gt;&gt;</a></li>
+<li>in an aggregated form that does not directly identify you;</li>
+<li>with your consent, for example, when you agree to our sharing your information with other third parties for their own marketing purposes subject to their separate privacy policies;</li>
+<li>with third party vendors, consultants and other service providers such as email service providers, marketing service providers, blog service providers and forum service providers who are working on our behalf and need access to your information to carry out their work for us, these service providers are authorized to use your personal information only as necessary to provide these services to us;</li>
+<li>to (i) comply with laws or to respond to lawful requests and legal process, judicial proceeding, or court order (ii) to protect the rights and property of Webtrends our agents, customers, forum members, and others including to enforce our agreements, policies and terms of use or (iii) in an emergency to protect the personal safety of Webtrends, its customers, or any person; and</li>
+<li>when we do a business deal, or negotiate a business deal, involving sale or transfer of all or a part of our business or assets. These deals can include any merger, financing, acquisition, or bankruptcy transaction or proceeding. You will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.</li>
 </ul>
-<p>Do we share your data?</p>
+<p><strong>Security of your Personal Information</strong></p>
+<p>The security of your personal information is important to us. When you enter sensitive information (such as log in credentials), we encrypt the transmission of that information using secure transport layer security (TLS). We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.</p>
+<p><strong><em>Links to 3rd Party Sites</em></strong></p>
+<p>Our Site includes links to other websites, mobile sites, and/or mobile applications whose privacy practices may differ from those of Webtrends. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any site you visit.</p>
+<p><strong><em>Social Media Widgets</em></strong></p>
+<p>Our Site includes certain social media features, such as the Facebook button. These features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable such feature to function properly. Social media features are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it.</p>
+<p><strong><em>Testimonial</em></strong></p>
+<p>We display personal testimonials of satisfied customers on our site in addition to other endorsements.&nbsp; With your consent we may post your testimonial along with your name.&nbsp; If you wish to update or delete your testimonial, you can contact us at <a href="mailto:comprefs@webtrends.com">comprefs@webtrends.com</a>.</p>
+<p><strong>Your Information Choices and Changes</strong></p>
+<p>You may opt-out of receiving promotional emails from Webtrends by following the instructions in those emails. If you opt-out, we may still send you non-promotional communications, such as emails about your accounts, product notices, user forum notices or our ongoing business relations.</p>
+<p>In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p>
+<p>We will retain your information collected for a commercially reasonable period of time for us to provide services to you and to use it as stated in this Statement. In addition, we will retain your information for as long as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+<p>Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. Removing or rejecting cookies could affect certain features or services of our Sites.</p>
+<p>You may email <a href="mailto:comprefs@webtrends.com">comprefs@webtrends.com</a> to:</p>
 <ul>
-<li>Webtrends does not sell, rent or lease Webtrends customer information to third parties.</li>
-<li>Your data may be shared with service providers who work on our behalf. It may also, with your consent only, be shared with marketing partners or other independent third parties. You may opt-out of our sharing your information with independent third parties by emailing <a href="mailto:comprefs@webtrends.com">comprefs@webtrends.com</a>.</li>
-<li><a href="/terms-policies/privacy-statement#sharing-of-information">Learn more &gt;&gt;</a></li>
+<li>request changes to your contact preferences,</li>
+<li>request access and changes to your personal information. If you would like this information edited or deleted, we will respond to your request within 30 days,</li>
+<li>opt-out of our sharing your information with independent third parties.</li>
 </ul>
-<p>Do we use third party tracking?</p>
-<ul>
-<li>We use our own products, and products of third parties acting on our behalf, to analyze, optimize and improve our sites, including our products and services.</li>
-<li><a class="cd_disclosure_link">Change cookie settings &gt;&gt;</a></li>
-<li><a href="/terms-policies/privacy-statement#third-party">Learn more &gt;&gt;</a></li>
-</ul>
-<p>What about data we collect for our customers?</p>
-<ul>
-<li>Webtrends is a third party service provider used by our customers to analyze, optimize and improve their sites, products and services.</li>
-<li>All data we collect on behalf of our customers through Webtrends products and services is their property and subject to their privacy policies.</li>
-<li>To understand your choices for cookies set while visiting our customers’ web sites and digital properties, please consult these customers’ privacy statements and cookie settings.</li>
-<li>Webtrends uses customer data for the purpose of providing services to that specific customer.</li>
-<li>Webtrends does not share information collected for one customer with our other customers.</li>
-<li><a href="/terms-policies/privacy-statement#our-customers-data">Learn more &gt;&gt;</a></li>
-</ul>
-<div id="themify_builder_content-22740" data-postid="22740" class="themify_builder_content themify_builder_content-22740 themify_builder themify_builder_front">
+<p>You may also control setting of non-strictly necessary cookies from your use of our Sites through our cookie management tool as described in our <a href="http://www.webtrends.com/terms-policies/cookie-policy">cookie policy</a>.</p>
+<p>You may update your forum profile, by logging in and selecting “My Account”. You may unsubscribe to user forum notices by <a href="mailto:clicking">clicking</a> <a href="http://getsatisfaction.com/me">here</a>.</p>
+<p><strong>Information We Collect On Behalf of Our Customers</strong></p>
+<p>Webtrends acts as a service provider for each of our customers, in that we provide our services for the benefit of the customer. Each of our customers uses Webtrends products and services to gather information about their own customers and visitors to their sites and digital properties (‘Customer Data’). Each customer instructs us as to what types of Customer Data it would like us to collect on its behalf.</p>
+<p>Webtrends will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. Webtrends will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. &nbsp;Webtrends retains Customer Data, including any personal data, we process on behalf of our customers in accordance with the <a href="http://www.webtrends.com/terms-policies/product-legal-information/data-retention-policy">Webtrends Data Retention Policy</a>.</p>
+<p>If you are customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service please contact the client that you interact with directly.</p>
+<p>Webtrends may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Clients.</p>
+<p>Webtrends has no direct relationship with the individuals whose personal data it processes.&nbsp; An individual who seeks access, who seeks to correct, amend, delete inaccurate data or withdraw consent to further contact should direct his/her query to Webtrends’ client.&nbsp; IF the Client requests Webtrends to remove the data, we will respond to their request within 30 days.</p>
+<p>We treat Customer Data as the property and confidential information of the applicable Webtrends customer. We reserve a limited right to disclose any collected data as required by law, a valid court order or other request from a governmental authority. Other than under such a limited right, we do not share information collected for one customer with our other customers or with any third party.</p>
+<p>Webtrends follows our customers’ instructions on cookie placement. To control the placement of cookies set while visiting our customers’ web sites, please consult these customers’ privacy statement and cookie settings.</p>
+<p><strong>Changes to this Statement</strong></p>
+<p>We may update this privacy statement to reflect changes to our information practice. If we decide to change our privacy statement, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.</p>
+<p>We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, or by means of a notice on our home page prior to the change becoming effective. ENFORCEMENT If you have any questions about this Statement, or your request for information or opt-out has not been satisfactorily addressed; you should first contact us at</p>
+<p>Webtrends Inc.<br>
+555 SW Oak Street, Suite 300<br>
+Portland Oregon 97204<br>
+877-932-8736<br>
+<a href="mailto:privacy@webtrends.com">privacy@webtrends.com</a></p>
+<p>Webtrends Inc. participates in the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor as set forth by the United States Department of Commerce. As part of our <a href="http://export.gov/safeharbor/">participation</a> in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by <a href="https://feedback-form.truste.com/watchdog/request">Internet here</a>, fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., <a href="http://www.truste.com/about-TRUSTe/contact-us">click for mailing address</a>. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, <a href="http://www.truste.com/products-and-services/dispute-resolution-services/">click here</a> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities.</p>
+<div id="themify_builder_content-22823" data-postid="22823" class="themify_builder_content themify_builder_content-22823 themify_builder themify_builder_front">
 				
 			<!-- module_row -->
-			<div class="themify_builder_row module_row module_row_549fb881a4118 clearfix">
+			<div class="themify_builder_row module_row module_row_5573f66658208 clearfix">
 
 				<div class="row_inner">
 				
@@ -534,11 +637,12 @@ Portland, Oregon 97204<br>
 					</div><!-- /.content -->
 	</div><!-- /.wrap -->
 
-	<footer class="content-info" role="contentinfo">
+	 
+	    <footer class="content-info" role="contentinfo">
 	<div class="row">
 		<div class="container">
 			<div class="col-sm-6" id="footer-nav">
-				<ul id="menu-footer-nav" class="menu"><li class="dropdown menu-products-solutions"><a href="http://www.webtrends.com/products-solutions/">Products &amp; Solutions</a>
+				<ul id="menu-footer-nav" class="menu col-sm-12"><li class="dropdown menu-products-solutions"><a href="http://www.webtrends.com/products-solutions/">Products &amp; Solutions</a>
 <ul class="sub-menu">
 <span class="wrap">
 	<li class="menu-analytics"><a href="http://www.webtrends.com/products-solutions/analytics/">Analytics</a></li>
@@ -548,6 +652,19 @@ Portland, Oregon 97204<br>
 	<li class="menu-testing"><a href="http://www.webtrends.com/products-solutions/testing/">Testing</a></li>
 	<li class="menu-targeting"><a href="http://www.webtrends.com/products-solutions/targeting/">Targeting</a></li>
 	<li class="menu-remarketing"><a href="http://www.webtrends.com/products-solutions/remarketing/">Remarketing</a></li>
+</span></ul>
+</li>
+<li class="dropdown menu-about-us"><a href="http://www.webtrends.com/about-us/">About Us</a>
+<ul class="sub-menu">
+<span class="wrap">
+	<li class="menu-team"><a href="http://www.webtrends.com/about-us/team/">Team</a></li>
+	<li class="menu-expertise"><a href="http://www.webtrends.com/about-us/expertise/">Expertise</a></li>
+	<li class="menu-clients"><a href="http://www.webtrends.com/about-us/clients/">Clients</a></li>
+	<li class="menu-partners"><a href="http://www.webtrends.com/about-us/partners/">Partners</a></li>
+	<li class="menu-press-room"><a href="http://www.webtrends.com/about-us/press-room/">Press Room</a></li>
+	<li class="menu-events"><a href="http://www.webtrends.com/about-us/events/">Events</a></li>
+	<li class="menu-careers"><a href="http://www.webtrends.com/about-us/careers/">Careers</a></li>
+	<li class="menu-contact-us"><a href="http://www.webtrends.com/about-us/contact-us/">Contact Us</a></li>
 </span></ul>
 </li>
 <li class="dropdown menu-support-training"><a href="http://www.webtrends.com/support-training/">Support &amp; Training</a>
@@ -564,26 +681,22 @@ Portland, Oregon 97204<br>
 	<li class="menu-blog"><a href="http://www.webtrends.com/blog/">Blog</a></li>
 </span></ul>
 </li>
-<li class="dropdown menu-about-us"><a href="http://www.webtrends.com/about-us/">About Us</a>
-<ul class="sub-menu">
-<span class="wrap">
-	<li class="menu-team"><a href="http://www.webtrends.com/about-us/team/">Team</a></li>
-	<li class="menu-expertise"><a href="http://www.webtrends.com/about-us/expertise/">Expertise</a></li>
-	<li class="menu-clients"><a href="http://www.webtrends.com/about-us/clients/">Clients</a></li>
-	<li class="menu-partners"><a href="http://www.webtrends.com/about-us/partners/">Partners</a></li>
-	<li class="menu-press-room"><a href="http://www.webtrends.com/about-us/press-room/">Press Room</a></li>
-	<li class="menu-events"><a href="http://www.webtrends.com/about-us/events/">Events</a></li>
-	<li class="menu-careers"><a href="http://www.webtrends.com/about-us/careers/">Careers</a></li>
-	<li class="menu-contact-us"><a href="http://www.webtrends.com/about-us/global-offices/">Contact Us</a></li>
-</span></ul>
-</li>
-</ul>			</div>			
+</ul>
+        <div class="copyright col-sm-12">
 
-			<div class="col-sm-6">											
+          <img src="//cdn.webtrends.com/images/brand/webtrends-logo-grey.svg" alt="Webtrends Inc">
+
+          <span>© 2014-2015</span>
+
+        </div>
+
+			</div>
+
+			<div class="col-sm-6">
 				<ul class="locations">
 					<li>
 						<span class="office">US</span>
-						<span class="phone">877 932 8737</span>
+						<span class="phone">877 932 8736</span>
 					</li>
 					<li>
 						<span class="office">EMEA</span>
@@ -605,20 +718,19 @@ Portland, Oregon 97204<br>
 					</div>
 					<div class="collapse newsletter-collapse">
 									<div id="email_sub_widget">
-				
-				<div class="pfc-response">	<form name="email_sub" id="form_1419753601" data-profile="email_sub" action="http://www.webtrends.com/terms-policies/privacy/privacy-notice/" method="post">
+				<div class="pfc-response">	<form name="email_sub" id="form_1433663078" data-profile="email_sub" action="http://www.webtrends.com/terms-policies/privacy/privacy-statement/" method="post">
 		<input type="hidden" name="email_request" value="download">
-		<input type="hidden" name="referer" value="http://www.webtrends.com/terms-policies/privacy/privacy-notice/">
+		<input type="hidden" name="referer" value="http://www.webtrends.com/terms-policies/privacy/privacy-statement/">
 		<fieldset class="email">
 			<div class="field">
 				<label for="email_addr">Email*</label>
-			 	<input type="email" name="email_addr" id="email_addr" required="required" value="">
+			 	<input type="email" name="email_addr" id="email_addr" required="required" placeholder="Your email address*" value="">
 			 
 			</div>
 		</fieldset>
 		<input type="hidden" name="segments" value="email">
 		<input type="hidden" name="profile[type]" value="email_sub">
-		<input type="hidden" name="profile[referer]" value="http://www.webtrends.com/terms-policies/privacy/privacy-notice/">
+		<input type="hidden" name="profile[referer]" value="http://www.webtrends.com/terms-policies/privacy/privacy-statement/">
 		<input type="hidden" name="profile[recent_activity]" value="Subscribed to newsletter">
 		<input type="hidden" name="profile[newsletter]" value="1">
 		<fieldset class="actions">
@@ -626,17 +738,17 @@ Portland, Oregon 97204<br>
 		</fieldset>
 	</form>
 
-</div>			</div>
+<div><a href="http://www.webtrends.com/privacy-statement">Privacy Statement</a></div></div>			</div>
 							</div>
 				</div>
 				<div id="social-links" class="social_profiles">
 					<ul>
-						<li><a class="rss wt_linktrack" href="/blog" title="rss" target="_blank"><i class="icon-rss"></i></a></li>	
-						<li><a class="facebook wt_linktrack" href="https://www.facebook.com/webtrends" title="facebook" target="_blank"><i class="icon-facebook"></i></a></li>		
-						<li><a class="twitter wt_linktrack" href="https://twitter.com/webtrends" title="twitter" target="_blank"><i class="icon-twitter"></i></a></li>		
-						<li><a class="google wt_linktrack" href="https://plus.google.com/+webtrends" title="google" target="_blank"><i class="icon-google-plus"></i></a></li>		
-						<li><a class="youtube wt_linktrack" href="http://www.youtube.com/user/WebTrendsInc" title="youtube" target="_blank"><i class="icon-youtube"></i></a></li>
-						<li><a class="linkedin wt_linktrack" href="http://www.linkedin.com/company/webtrends" title="linkedin" target="_blank"><i class="icon-linkedin"></i></a></li>
+						<li><a class="rss" href="/blog" title="rss" data-wt_title="Blog"><i class="fa fa-rss"></i></a></li>
+						<li><a class="facebook" href="https://www.facebook.com/webtrends" title="facebook" data-wt_title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a></li>
+						<li><a class="twitter" href="https://twitter.com/webtrends" title="twitter" target="_blank" data-wt_title="Twitter"><i class="fa fa-twitter"></i></a></li>
+						<li><a class="google" href="https://plus.google.com/+webtrends" title="google" target="_blank" data-wt_title="GooglePlus"><i class="fa fa-google-plus"></i></a></li>
+						<li><a class="youtube" href="http://www.youtube.com/user/WebTrendsInc" title="youtube" target="_blank" data-wt_title="YouTube"><i class="fa fa-youtube"></i></a></li>
+						<li><a class="linkedin" href="http://www.linkedin.com/company/webtrends" title="linkedin" target="_blank" data-wt_title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
 					</ul>
 				</div>
 
@@ -646,11 +758,85 @@ Portland, Oregon 97204<br>
 				</ul>
 			</div>
 		</div>
-	</div>	
+	</div>
+
+	<div class="row visible-sm visible-xs">
+	  <div class="container">
+	    <div class="col-12-sm text-center copyright">
+
+
+      <img src="//cdn.webtrends.com/images/brand/webtrends-logo-grey.svg" alt="Webtrends Inc">
+
+
+      <span>© 2014-2015</span>
+
+	    </div>
+	  </div>
+	</div>
 </footer>
 
 
-		<script type="text/javascript">
+	
+<!-- marketo-->	
+<script type="text/javascript" src="https://munchkin.marketo.net/munchkin.js"></script>
+<script type="text/javascript">
+	//if(typeof Munchkin != 'undefined') {
+		//production
+		Munchkin.init('880-BZK-782');
+
+		//staging
+		//Munchkin.init('979-OLS-470');
+	//}
+</script>
+
+<!--twitter tracking-->
+<script type="text/javascript">
+	if(typeof twttr != 'undefined') {
+		twttr.conversion.trackPid('l4de4');
+	}
+</script>
+<noscript>
+	<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l4de4&p_id=Twitter" />
+</noscript>
+
+<!--adroll-->
+<script src="//cdn.webtrends.com/js/adroll.js" charset="utf-8"></script>
+
+<!-- google remarketing -->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1028667053;
+    var google_conversion_label = "I8P2CP_U2AMQre3A6gM";
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+/* ]]> */
+</script>
+
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1028667053/?value=0&label=I8P2CP_U2AMQre3A6gM&guid=ON&script=0"/>
+    </div>
+</noscript>
+
+<script type="text/javascript">
+  _bizo_data_partner_id = "7542";
+</script>
+<script type="text/javascript">
+(function() {
+	  var s = document.getElementsByTagName("script")[0];
+	  var b = document.createElement("script");
+	  b.type = "text/javascript";
+	  b.async = true;
+	  b.src = (window.location.protocol === "https:" ? "https://sjs" : "http://js") + ".bizographics.com/insight.min.js";
+	  s.parentNode.insertBefore(b, s);
+})();
+</script>
+<noscript>
+	<img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=7542&fmt=gif" />
+</noscript>
+
+	<script type="text/javascript">
 		// js code goes here
 		jQuery(window).load(function(){
 			// Lightbox / Fullscreen initialization ///////////
@@ -671,10 +857,10 @@ var cd_cookie_name = "cd_consent";
 var themifyScript = {"lightbox":{"lightboxSelector":".lightbox","lightboxOn":true,"lightboxContentImages":false,"lightboxContentImagesSelector":".post-content a[href$=jpg],.page-content a[href$=jpg],.post-content a[href$=gif],.page-content a[href$=gif],.post-content a[href$=png],.page-content a[href$=png],.post-content a[href$=JPG],.page-content a[href$=JPG],.post-content a[href$=GIF],.page-content a[href$=GIF],.post-content a[href$=PNG],.page-content a[href$=PNG],.post-content a[href$=jpeg],.page-content a[href$=jpeg],.post-content a[href$=JPEG],.page-content a[href$=JPEG]","theme":"pp_default","social_tools":false,"allow_resize":true,"show_title":false,"overlay_gallery":false,"screenWidthNoLightbox":600,"deeplinking":false,"contentImagesAreas":".post, .type-page, .type-highlight, .type-slider","gallerySelector":".gallery-icon > a[href$=jpg],.gallery-icon > a[href$=gif],.gallery-icon > a[href$=png],.gallery-icon > a[href$=JPG],.gallery-icon > a[href$=GIF],.gallery-icon > a[href$=PNG],.gallery-icon > a[href$=jpeg],.gallery-icon > a[href$=JPEG]","lightboxGalleryOn":true},"lightboxContext":"body","isTouch":"false"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.webtrends.com/wp-content/plugins/themify-builder/themify/js/themify.gallery.js?ver=4.0.1"></script>
-<script type="text/javascript" src="http://www.webtrends.com/wp-content/plugins/themify-builder/themify/js/lightbox.js?ver=4.0.1"></script>
+<script type="text/javascript" src="http://www.webtrends.com/wp-content/plugins/themify-builder/themify/js/themify.gallery.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://www.webtrends.com/wp-content/plugins/themify-builder/themify/js/lightbox.js?ver=4.2.2"></script>
 <script type="text/javascript" src="http://www.webtrends.com/wp-content/plugins/themify-builder/js/themify.builder.module.plugins.js"></script>
-<script type="text/javascript" src="http://www.webtrends.com/wp-content/plugins/themify-builder/themify/js/waypoints.min.js?ver=4.0.1"></script>
+<script type="text/javascript" src="http://www.webtrends.com/wp-content/plugins/themify-builder/themify/js/waypoints.min.js?ver=4.2.2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var tbLocalScript = {"isTouch":"","isAnimationActive":"1","animationInviewSelectors":[".fly-in > .post",".fly-in .row_inner > .tb-column",".fade-in > .post",".fade-in .row_inner > .tb-column",".slide-up > .post",".slide-up .row_inner > .tb-column",".col4-1.fly-in",".col4-2.fly-in, .col4-3.fly-in",".col3-1.fly-in",".col3-2.fly-in",".col2-1.fly-in",".col-full.fly-in",".col4-1.fade-in",".col4-2.fade-in",".col4-3.fade-in",".col3-1.fade-in",".col3-2.fade-in",".col2-1.fade-in",".col-full.fade-in",".col4-1.slide-up",".col4-2.slide-up",".col4-3.slide-up",".col3-1.slide-up",".col3-2.slide-up",".col2-1.slide-up",".col-full.slide-up"]};
@@ -682,32 +868,33 @@ var tbLocalScript = {"isTouch":"","isAnimationActive":"1","animationInviewSelect
 </script>
 <script type="text/javascript" src="http://www.webtrends.com/wp-content/plugins/themify-builder/js/themify.builder.script.js"></script>
 <script type="text/javascript" src="//cdn.webtrends.com/js/webtrends.eu.priv.tools.js"></script>
-<script type="text/javascript" src="//cdn.webtrends.com/js/webtrends.load.js"></script>
 <script type="text/javascript" src="http://www.webtrends.com/wp-content/themes/Roots/assets/js/vendor/modernizr.min.js"></script>
-<script type="text/javascript" src="http://www.webtrends.com/wp-content/themes/Roots/assets/js/scripts.min.js?039b6ff18b024196aaca3fe49a96b328"></script>
+<script type="text/javascript" src="http://www.webtrends.com/wp-content/themes/Roots/assets/js/scripts.min.js?72a6ae0c8914e94e91136d33721de082"></script>
+<script type="text/javascript" src="//cdn.webtrends.com/js/webtrends.load.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var icl_vars = {"current_language":"en","icl_home":"http:\/\/www.webtrends.com"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.webtrends.com/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js?ver=4.2.2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var countVars = {"disqusShortname":"blogv02"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.webtrends.com/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=4.0.1"></script>
+<script type="text/javascript" src="http://www.webtrends.com/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=4.2.2"></script>
 
 <script>
 	jQuery(window).load(function(){ jQuery(window).resize(); });
 </script>
-	
-	<!-- Marketo-->
-	<script type="text/javascript" src="https://munchkin.marketo.net/munchkin.js"></script>
-			<script>Munchkin.init('880-BZK-782');</script>
-		
-	<!--twitter tracking-->
-	<script type="text/javascript">
-		if(typeof twttr != 'undefined')
-		twttr.conversion.trackPid('l4de4');
-	</script>
-	<noscript>
-		<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l4de4&p_id=Twitter" />
-	</noscript>
-
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"5e22ef098b","applicationID":"5600650","transactionName":"ZgNSbEpQCktVAhcMCV9JZUpRHg1WUAQbSxZZFg==","queueTime":0,"applicationTime":894,"atts":"SkRFGgJKGRQWAEFfHUwb","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script><script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=2';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script>
 
 </body></html>
