@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihiphopmusic.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701122257id_/http%3A//www.ihiphopmusic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihiphopmusic.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607015426id_/http%3A//www.ihiphopmusic.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -90,8 +90,7 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.ihiphopmusic.com/
-
+http://www.ihiphopmusic.com/  
 45 Grant Ave  
 Brentwood, New York 11717  
 Untied States  
