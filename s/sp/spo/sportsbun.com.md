@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportsbun.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110202647id_/http%3A//sportsbun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbun.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607015146id_/http%3A//sportsbun.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Sportsbun
 
 We at Sportsbun.com sincerely respect your privacy. Please read the following information to learn more about our policy.
 
