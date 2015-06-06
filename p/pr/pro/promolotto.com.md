@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promolotto.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701060415id_/http%3A//www.promolotto.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promolotto.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607004013id_/http%3A//www.promolotto.com/privacy.php) for the most accurate reproduction.*
 
 # Promo Lotto - Manual Traffic Exchange - Free Website Traffic - Increase Web Traffic
 
