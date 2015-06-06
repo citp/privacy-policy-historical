@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the yellosa.co.za privacy policy that was archived on 2014-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141213222939id_/http%3A//www.yellosa.co.za/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yellosa.co.za privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607002804id_/http%3A//www.yellosa.co.za/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head><meta charset="utf-8"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Content-Language" content="en">
-<meta name="viewport" content="initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=0, width=device-width"><title>Privacy Policy</title>
+<meta name="viewport" content="initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=0, width=device-width"><title>Privacy policy</title>
 <meta name="keywords" content="companies in South Africa, Business in South Africa, South Africa business, South Africa companies">
-<meta name="description" content="Privacy Policy. Search for South Africa Companies in South Africa Business Directory. Add your free Business Listing on South Africa Business Directory.">
+<meta name="description" content="Privacy policy. Search for South Africa Companies in South Africa Business Directory. Add your free Business Listing on South Africa Business Directory.">
 <meta name="copyright" content="Yellosa">
 <meta name="ROBOTS" content="index,follow">
-<meta name="GOOGLEBOT" content="index,follow"><link rel="stylesheet" type="text/css" href="/css/site/main.css?v=177">
+<meta name="GOOGLEBOT" content="index,follow"><link rel="stylesheet" type="text/css" href="/css/site/main.min.css?v=27">
 <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet" type="text/css"><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/jquery/jquery.min.js?v=191"></script>
 <link href="/zafavicon.ico" type="image/x-icon" rel="icon"><link href="/zafavicon.ico" type="image/x-icon" rel="shortcut icon">
 <meta name="DC.title" content="Business South Africa">
@@ -36,14 +36,13 @@
 
 
 
-
 <script>
 url_ln = "http://www.yellosa.co.za/";
 	
 $(document).ready(function() {    
 
-	$("#CompanySearchQuery").autocomplete(url_ln+'autocomplete/query', { delay: 300, minChars: 3, max: 20, cacheLength: 20, scroll: false, width : 279, scrollHeight : 205, selectFirst : false, autoFill: false});     
-	$("#CompanySearchLocation").autocomplete(url_ln+'autocomplete/location', { delay: 300, minChars: 3, max: 20, cacheLength: 20, scroll: false, width : 279, scrollHeight : 205, selectFirst : false, autoFill: false});     
+	$("#CompanySearchQuery").autocomplete(url_ln+'autocomplete/query', {       delay: 300, minChars: 3, max: 40, sortResults: false, selectFirst : false, autoFill: false});     
+	$("#CompanySearchLocation").autocomplete(url_ln+'autocomplete/location', { delay: 300, minChars: 3, max: 40, sortResults: false, selectFirst : false, autoFill: false});     
 
 	$('.search_box input').on('focus', function() {
 		resetCollapse();
@@ -72,38 +71,65 @@ $(document).ready(function() {
 }); 
 
 function showBrowse(t) {
-	$('#search_drop_content').load('/ajax/browse/'+t, function() {
+	
+	if($('#search_drop_content').attr('rel') == t) {
+		$('#search_drop').hide().html('');
+		resetCollapse();
+		
+		return false;
+	}
+	
+	$('#search_drop').load('/ajax/browse/'+t, function() {
 		$('#search_drop').show();
-		//$('.screen-block').show();
+
 		resetCollapse();
 	
-		$('#'+t+'_browse').css({'background-image': 'url(/img/site/collapse.png)'});
+		$('#'+t+'_browse').css({'background-position': '-597px -215px'});
 	});
 }
 
 function resetCollapse() {
-	$('#what_browse').css({'background-image': 'url(/img/site/expand.png)'});
-	$('#where_browse').css({'background-image': 'url(/img/site/expand.png)'});
+	$('#what_browse').css({'background-position': '-396px -215px'});
+	$('#where_browse').css({'background-position': '-396px -215px'});
 }
 
 
 function saveClick(el_id) {
 	$.post(url_ln+'/ajax/save_click/'+el_id);
 }
+
+
+function showLogin(extra_url) {
+	$('body').after(function() {
+		return $('<div class="screen-block" id="login-screen-block" style="display: block;"></div>').click(function(e) {
+			$(this).remove();
+			$('#login_box').hide();
+		});
+	});
+	
+	$('#login_box').show();
+
+	if(extra_url) {
+		$('#login_box form').attr('action', $('#login_box form').attr('action')+'/'+extra_url );
+		$('#login_box_sign_up').attr('href', $('#login_box_sign_up').attr('href')+'/'+extra_url );
+		$('#login_box_signup_fb').attr('href', $('#login_box_signup_fb').attr('href')+'/'+extra_url );
+	}
+}
 </script>
 
 <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#appId=171166422952329&amp;xfbml=1"></script></head>
 <body>
 
+
 <header>
 	<nav>
-		<a href="http://www.yellosa.co.za" title="South Africa Business Directory - Yellosa" class="logo_link logo_za" style="background-image: url(/img/site/logo_za.png);">South Africa Business Directory - Yellosa</a>			
+		<a href="http://www.yellosa.co.za" title="South Africa Business Directory - Yellosa" class="logo_link logo_za" style="background-image: url(/img/site/logos/logo_za.png);">South Africa Business Directory - Yellosa</a>			
 		<div class="search_box">
 	<form id="search_form" method="post" action="/southafrica-business-search"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST"></fieldset>	
 	<fieldset>
-		<div class="input text"><input name="data[CompanySearch][query]" type="text" rel="Search for Companies or Services" autocapitalize="off" autocorrect="off" autocomplete="off" class="highlight acInput" value="" id="CompanySearchQuery"><a href="#" id="what_browse" onclick="showBrowse('what'); return false;" style="background-image: url(&quot;/img/site/expand.png&quot;);"></a></div>		
+		<div class="input text"><input name="data[CompanySearch][query]" type="text" rel="Search for Companies or Services" autocapitalize="off" autocorrect="off" autocomplete="off" class="highlight acInput" value="" id="CompanySearchQuery"><a href="#" id="what_browse" onclick="showBrowse('what'); return false;" style="background-position: -396px -215px;"></a></div>		
 				
-		<div class="input text"><input name="data[CompanySearch][location]" type="text" rel="Location" value="" id="CompanySearchLocation" autocomplete="off" class="acInput"><a href="#" id="where_browse" onclick="showBrowse('where'); return false;" style="background-image: url(&quot;/img/site/expand.png&quot;);"></a></div>		
+		<div class="input text"><input name="data[CompanySearch][location]" type="text" rel="Location" value="" id="CompanySearchLocation" autocomplete="off" class="acInput"><a href="#" id="where_browse" onclick="showBrowse('where'); return false;" style="background-position: -396px -215px;"></a></div>		
 		<div class="submit">
 			<a href="#" onclick="$('#search_form').submit(); $('#loading').fadeIn(); return false;" class="search_submit">Search</a>					</div>
 
@@ -111,42 +137,40 @@ function saveClick(el_id) {
 	    <input type="submit" class="hidden" value="Search">
 	</fieldset>
 	</form>	 
-
+	
+	<a href="/browse-business-directory" class="fleft m_link">Browse categories</a>	<a href="/browse-business-cities" class="fright m_link">Browse locations</a>
 		
 	<div class="clear"></div>
 </div>
 <a href="#" id="m_search_link"></a>
-<a href="#" id="search_close" class="skinny_close"><img src="/img/site/skinny_close2.png" alt=""></a>
+<a href="#" id="search_close" class="skinny_close"></a>
 
 <script>
+$(function() {
 	$('#m_search_link').click(function(e) {
 		$('.screen-paint').show();
 		$('.search_box').show();
 		$('#search_close').fadeIn('slow');
-		$('html, body').css({'overflow': 'hidden', 'height': '100%'});		
-
 		e.preventDefault();
 	});
-
 
 	$('#search_close').click(function(e) {
 		$('.screen-paint').hide();
 		$('.search_box').hide();
 		$('#search_close').hide();
-		$('html, body').css({'overflow': 'auto', 'height': 'auto'});		
-
 		e.preventDefault();
 	});
+});	
 </script>	
 		<div class="userbox userbox_en">
-		  	<a href="/sign-in" title="Sign in">Sign in</a><a href="/create-business-listing" title="Add Business" class="add_business">Add Business</a>		
+		  	<a href="/sign-in">Sign in</a><a href="/create-business-listing" title="Add business" class="add_business">Add business</a>		
 </div>
 
 <div class="hidden_menu hidden">
-		  	<a href="/sign-in" title="Sign in">Sign in</a>	  	<a href="/create-business-listing" title="Add Business" class="add_business">Add Business</a>		
-	<a href="/browse-business-directory">Browse Categories</a>	<a href="/browse-business-cities">Browse locations</a></div>
+		  	<a href="/sign-in" title="Sign in">Sign in</a>	  	<a href="/create-business-listing" title="Add business" class="add_business">Add business</a>		
+	<a href="/browse-business-directory">Browse categories</a>	<a href="/browse-business-cities">Browse locations</a></div>
 
-<a href="#" title="Menu" class="m_menu_link"></a><a href="#" id="userbox_close" class="skinny_close"><img src="/img/site/skinny_close2.png" alt=""></a>
+<a href="#" title="Menu" class="m_menu_link"></a><a href="#" id="userbox_close" class="skinny_close"></a>
 <script>
 
 
@@ -176,21 +200,17 @@ function saveClick(el_id) {
 <div id="top">
 	<section>
 		<div class="topsocial">  
-			<div id="fbtop" class="fb-like" data-href="http://www.yellosa.co.za" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-font="arial"></div>
+			<div id="fbtop" class="fb-like" data-href="https://www.facebook.com/pages/South-Africa-Business-Directory/185668581618933" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-font="arial"></div>
 			<div id="plusone-div"><g:plusone size="medium" href="http://www.yellosa.co.za"></g:plusone></div>
 		</div>
 	</section>
 </div>
 
-<div id="search_drop" style="display: none;">
-	<section>
-		<div id="search_drop_content"></div>
-	</section>
-</div>   
+<div id="search_drop" style="display: none;"></div>   
 
 <div id="wrapper"> 
 	<section>
-		<h1 class="bigh1">Privacy Policy</h1>
+		<h1 class="bigh1">Privacy policy</h1>
 
 
 
@@ -243,10 +263,11 @@ function saveClick(el_id) {
 		<div class="footer_box">
 			<h6>Links</h6>
 			<ul>
-								<li><a href="/contact-us">Contact Us</a></li>
-				<li><a href="/browse-business-directory">Browse Categories</a></li>
-								<li><a href="/terms-of-use" rel="nofollow, noindex">Terms of Use</a></li>
-				<li><a href="/privacy-policy" rel="nofollow, noindex">Privacy Policy</a></li>
+								<li><a href="/contact-us">Contact us</a></li>
+				<li><a href="/browse-business-directory">Browse categories</a></li>
+				<li><a href="/browse-business-cities">Browse locations</a></li>
+								<li><a href="/terms-of-use" rel="nofollow, noindex">Terms of use</a></li>
+				<li><a href="/privacy-policy" rel="nofollow, noindex">Privacy policy</a></li>
 								<li><a href="/sitemap.html">Sitemap</a></li>
 			</ul>			
 		</div>
@@ -255,8 +276,8 @@ function saveClick(el_id) {
 		<div class="footer_box">
 			<h6>Users</h6>
 			<ul>
-				<li><a href="/create-business-listing">Add Business</a></li>
-				<li><a href="/contact-us/remove:yes" rel="nofollow">Remove Company</a></li>
+				<li><a href="/create-business-listing">Add business</a></li>
+				<li><a href="/contact-us/remove:yes" rel="nofollow">Remove company</a></li>
 				<li><a href="/sign-in">Sign in</a></li>
 			</ul>	
 
@@ -266,20 +287,20 @@ function saveClick(el_id) {
 		<div class="footer_box footer_categories">
 			<h6>Main Categories</h6>
 			<ul>
-			<li><a href="/category/logistics">Logistics Companies</a></li><li><a href="/category/travel-agents">Travel Agencies</a></li><li><a href="/category/Construction">Construction Companies</a></li><li><a href="/category/cleaning">Cleaning Companies</a></li><li><a href="/category/information-technology">IT Companies</a></li><li><a href="/category/financial-activity">Insurance Companies</a></li>			</ul>
+			<li><a href="/category/logistics">Logistics companies</a></li><li><a href="/category/travel-agents">Travel agencies</a></li><li><a href="/category/Construction">Construction companies</a></li><li><a href="/category/cleaning">Cleaning companies</a></li><li><a href="/category/information-technology">IT companies</a></li><li><a href="/category/financial-activity">Insurance companies</a></li>			</ul>
 		</div>
 		
 
 				
 		<div class="footer_box" id="site_stats">
 			<h6>Statistics</h6>
-			806,891 Companies<br>
-			799,158 Phones<br>
-			198,038 Faxes<br>
-			155,718 Emails<br>
-			143,971 Websites<br>
-			3,331 Products<br>
-			2,054 Reviews		</div>
+			808,191 Companies<br>
+			800,240 Phones<br>
+			198,758 Faxes<br>
+			155,152 Emails<br>
+			145,314 Websites<br>
+			4,472 Products<br>
+			2,509 Reviews		</div>
 
 		<div class="clear"></div>
 
@@ -288,8 +309,8 @@ function saveClick(el_id) {
 				<a href="https://www.facebook.com/pages/South-Africa-Business-Directory/185668581618933" class="facebook" rel="nofollow" target="_blank">Facebook</a><a href="https://twitter.com/BusinessListSA" class="twitter" rel="nofollow" target="_blank">Twitter</a><a href="https://plus.google.com/+YellosaCoZa" class="google" rel="nofollow" target="_blank">Google+</a><a href="http://www.linkedin.com/company/south-africa-business-directory-new-companies" class="linkedin" rel="nofollow" target="_blank">Linkedin</a>			</div>
 				
 				
-			<div id="international"><h6>International Directories</h6><ul><li><a href="http://www.businesslist.co.ke" class="target" rel="nofollow" title="Kenya Business Directory" target="_blank">Kenya</a></li><li><a href="http://www.businesslist.com.ng" class="target" rel="nofollow" title="Nigeria Business Directory" target="_blank">Nigeria</a></li><li><a href="http://www.yellow.ug" class="target" rel="nofollow" title="Uganda Business Directory" target="_blank">Uganda</a></li><li><a href="http://www.businesslist.co.cm" class="target" rel="nofollow" title="Cameroon Business Directory" target="_blank">Cameroon</a></li><li><a href="http://www.ghanayello.com" class="target" rel="nofollow" title="Ghana Business Directory" target="_blank">Ghana</a></li><li><a href="http://www.yelo.mu" class="target" rel="nofollow" title="Mauritius Business Directory" target="_blank">Mauritius</a></li><li><a href="http://www.moroccoyp.com" class="target" rel="nofollow" title="Morocco Business Directory" target="_blank">Morocco</a></li><li><a href="http://www.ethyp.com" class="target" rel="nofollow" title="Ethiopia Business Directory" target="_blank">Ethiopia</a></li><li><a href="http://www.tanzaniayp.com" class="target" rel="nofollow" title="Tanzania Business Directory" target="_blank">Tanzania</a></li><li><a href="http://www.zambiayp.com" class="target" rel="nofollow" title="Zambia Business Directory" target="_blank">Zambia</a></li><li><a href="http://www.zimbabweyp.com" class="target" rel="nofollow" title="Zimbabwe Business Directory" target="_blank">Zimbabwe</a></li><li><a href="/international-business-directories-map" rel="nofollow" style="background: none; margin-left: 0;">See All</a></li></ul></div>	
-	<div id="copyright">© 2009 - 2014 <a href="http://www.yellosa.co.za">Yellosa</a> </div>
+			<div id="international"><h6>International Directories</h6><ul><li><a href="http://www.businesslist.co.ke" class="target" rel="nofollow" title="Kenya Business Directory" target="_blank">Kenya</a></li><li><a href="http://www.businesslist.com.ng" class="target" rel="nofollow" title="Nigeria Business Directory" target="_blank">Nigeria</a></li><li><a href="http://www.yellow.ug" class="target" rel="nofollow" title="Uganda Business Directory" target="_blank">Uganda</a></li><li><a href="http://www.businesslist.co.cm" class="target" rel="nofollow" title="Cameroon Business Directory" target="_blank">Cameroon</a></li><li><a href="http://www.ghanayello.com" class="target" rel="nofollow" title="Ghana Business Directory" target="_blank">Ghana</a></li><li><a href="http://www.yelo.mu" class="target" rel="nofollow" title="Mauritius Business Directory" target="_blank">Mauritius</a></li><li><a href="http://www.moroccoyp.com" class="target" rel="nofollow" title="Morocco Business Directory" target="_blank">Morocco</a></li><li><a href="http://www.ethyp.com" class="target" rel="nofollow" title="Ethiopia Business Directory" target="_blank">Ethiopia</a></li><li><a href="http://www.tanzayp.com" class="target" rel="nofollow" title="Tanzania Business Directory" target="_blank">Tanzania</a></li><li><a href="http://www.zambiayp.com" class="target" rel="nofollow" title="Zambia Business Directory" target="_blank">Zambia</a></li><li><a href="http://www.zimbabweyp.com" class="target" rel="nofollow" title="Zimbabwe Business Directory" target="_blank">Zimbabwe</a></li><li><a href="/international-business-directories-map" rel="nofollow" style="background: none; margin-left: 0;">See All</a></li></ul></div>	
+	<div id="copyright">© 2009 - 2015 <a href="http://www.yellosa.co.za">Yellosa</a> </div>
 </section></footer>
 
 
