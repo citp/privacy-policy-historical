@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsrgroup.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702235900id_/http%3A//www.rsrgroup.com/opnprvcy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsrgroup.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607002615id_/http%3A//www.rsrgroup.com/opnprvcy.php) for the most accurate reproduction.*
 
 # RSR Group | Privacy Statement
 
@@ -8,25 +8,25 @@
 
 **2\. Sites covered by this Privacy Statement**
 
-This Privacy Statement applies only to RSR owned Web sites and domains. 
+This Privacy Statement applies only to RSR owned websites and domains. 
 
-The RSR Web site provides links to third-party Web sites for your convenience. If you access those links, you will leave the RSR Web site. RSR does not control those sites or their privacy practices, which may differ from RSR's. We do not endorse or make any representations about third-party Web sites. The RSR Privacy Statement does not cover the personal data you choose to give to unrelated third party Web sites. We encourage you to review the privacy policy of any company before submitting your personal information. 
+The RSR website provides links to third-party websites for your convenience. If you access those links, you will leave the RSR website. RSR does not control those sites or their privacy practices, which may differ from RSR's. We do not endorse or make any representations about third-party websites. The RSR Privacy Statement does not cover the personal data you choose to give to unrelated third party websites. We encourage you to review the privacy policy of any company before submitting your personal information. 
 
 **3\. Types of information we collect**
 
 This Privacy Statement covers personal information, non-personal data collection and aggregate reporting. 
 
-Personal information is information that is associated with your name or personal identity. RSR uses personal information to understand better your needs and interests and to provide you with better service. Once you choose to provide us with personal information, you can be assured it will be used only to support your customer relationship with RSR. We take seriously the trust you place in us. RSR will not sell, rent or lease your personal information to others.
+Personal information is information that is associated with your name or personal identity. RSR uses personal information to better understand your needs and interests and to provide you with better service. Once you choose to provide us with personal information, you can be assured it will be used only to support your customer relationship with RSR. We take seriously the trust you place in us. RSR will not sell, rent or lease your personal information to others.
 
-Non-personal information is data about usage and service operation that is not associated with a specific personal identity. RSR collects and analyzes non-personal information to evaluate how visitors use the RSR Web site. 
+Non-personal information is data about usage and service operation that is not associated with a specific personal identity. RSR collects and analyzes non-personal information to evaluate how visitors use the RSR website. 
 
-Non-personal data we collect may include the pages visited on the RSR Web site, unique URLs visited within RSR's Web site, browser type and IP address. RSR web pages use cookies for access into our secure areas.
+Non-personal data we collect may include the pages visited on the RSR website, unique URLs visited within RSR's website, browser type and IP address. RSR Web pages use cookies for access into our secure areas.
 
 **4\. How we use your information**
 
 RSR uses your personal information to provide you with services and to help us better understand your needs and interests. Specifically, we use your information to help you complete a transaction or order, to communicate with you, to provide service and support, to update you on services and benefits, and to personalize promotional offers. Credit card information is used only for payment processing. Credit card information and sensitive personal data are not used for any other purpose, and will not be kept longer than necessary for providing the services.
 
-Non-personal data is aggregated for reporting about RSR Web site usability, performance and effectiveness. It is used to improve the customer experience, usability and site content.
+Non-personal data is aggregated for reporting about RSR website usability, performance and effectiveness. It is used to improve the customer experience, usability and site content.
 
 **5\. Who we share your information with**
 
