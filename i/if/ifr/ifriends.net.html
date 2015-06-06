@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ifriends.net privacy policy that was archived on 2014-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141220185218id_/http%3A//www.ifriends.net/ifpage.dll%3Ft%3Dsite/general/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ifriends.net privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607014955id_/http%3A//www.ifriends.net/ifpage.dll%3Ft%3Dsite/general/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Privacy Statement for iFriends</title>
@@ -25,7 +25,6 @@
 
 </script>
 <!--Includeee:site/includes/data/DatesAndTime.htm-->
-
 
 
 <script language="javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js" type="text/javascript"></script>
@@ -160,6 +159,9 @@ jQuery(document).ready(function(){		iframeModalBind();
 					jQuery('#fancybox-wrap').height(parseInt(obj.height)).width(parseInt(obj.width));
 					jQuery.fancybox.center_legacy();
 				break;
+				case 'close_fancybox':
+					jQuery.fancybox.close();
+				break;
 				case 'open_huitf':
 					window.location.href = "http://www.ifriends.net/ifpage.dll?t=tools/feedback/main&pID=0&pAppCode=IFPage&pHost_ComputerName=US2WWW493-8-275&pTemplateName=site/general/legal/privacy.htm";
 				break;
@@ -169,6 +171,8 @@ jQuery(document).ready(function(){		iframeModalBind();
 			}
 		} , function(source){
 				if (source.toLowerCase() == "https://secure.ifriends.net".toLowerCase()) {
+					return true;
+				} else if (source.toLowerCase() == "http://www.ifriends.net".toLowerCase()) {
 					return true;
 				} else if (source.toLowerCase() == "http://www.ifriends.net".toLowerCase()) {
 					return true;
@@ -226,8 +230,8 @@ window.onerror = function (message, url, line){
 <![endif]-->
 
 <link rel="stylesheet" type="text/css" href="http://images.ifriends.net/if_v2/wwee/locked_jquery.fancybox-1.3.4.css" media="screen">
-				<link rel="stylesheet" type="text/css" id="ssGeneral1" href="http://images.ifriends.net/if_v2/wwee/ifriendsv2/css/core.ver20140912live.css">
-			<link rel="stylesheet" type="text/css" id="ssGeneral2" href="http://images.ifriends.net/if_v2/wwee/ifriendsv2/css/global_styles_required_by_sitelevel_omnipresent_elements_v3.ver20140904live.css">
+				<link rel="stylesheet" type="text/css" id="ssGeneral1" href="http://images.ifriends.net/if_v2/wwee/ifriendsv2/css/core.ver20150507live.css">
+			<link rel="stylesheet" type="text/css" id="ssGeneral2" href="http://images.ifriends.net/if_v2/wwee/ifriendsv2/css/global_styles_required_by_sitelevel_omnipresent_elements_v3.ver20150518live.css">
 		<link rel="stylesheet" type="text/css" id="ssModalWindow" href="http://images.ifriends.net/if_v2/wwee/locked_modalwindow_v2.css">
 <script type="text/javascript">
 $(document).ready(function(){	function appendDynamicJsFile(url)
@@ -317,14 +321,14 @@ jQuery(document).ready(function(){		//event listeners for communication with iFr
 
                 <li class="menu-parent" style="position:relative;"><a class="icon-link toplink" aria-haspopup="true" href="javascript:void(0);"><span style="display: inline-block;">Share</span> <i class="icon-v2 icon-share-mini"></i></a>
 <ul class="menu">
-	<li class="gs-box"><a class="icon-link share-this" data-share-url="" href="javascript:void(0);" onclick="window.open('https://twitter.com/intent/tweet?text='+encodeURIComponent(document.title)+' @ifriends&amp;url=' + ( $(this).attr('data-share-url') != '' ? encodeURIComponent($(this).attr('data-share-url').trim()) : encodeURIComponent(location.href   )),'');" data-via="iFriends" title="Tweet this"><i class="icon-v2 icon-twitter-large" style="margin:3px 0px;"></i> Twitter</a></li>
-	<li class="gs-box"><a class="icon-link share-this" data-share-url="" href="javascript:void(0);" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + ( $(this).attr('data-share-url') != '' ? encodeURIComponent($(this).attr('data-share-url').trim()) : encodeURIComponent(location.href )),'');return false;" title="Share on Facebook"><i class="icon-v2 icon-facebook-large" style="margin:3px 0px;"></i> Facebook</a></li>
-	<li class="gs-box"><a class="icon-link share-this" data-share-url="" href="javascript:void(0);" onclick="window.open('https://plus.google.com/share?url=' + ( $(this).attr('data-share-url') != '' ? encodeURIComponent($(this).attr('data-share-url').trim()) : encodeURIComponent(location.href )),'');return false;" title="Share on Google+"><i class="icon-v2 icon-googleplus-large" style="margin:3px 0px;"></i> Google+</a></li>
-	<li class="gs-box"><a class="icon-link share-this" data-share-url="" href="javascript:void(0);" onclick="window.open('mailto:?subject='+document.title+' &amp;body=Check out - ' + ( $(this).attr('data-share-url') != '' ? encodeURIComponent($(this).attr('data-share-url').trim()) : encodeURIComponent(location.href  ) ),'');" title="Share by Email"><i class="icon-v2 icon-email-large" style="margin:3px 0px;"></i> Email</a></li>
+	<li class="gs-box"><a class="icon-link share-this" data-share-url="" href="javascript:void(0);" onclick="window.open('https://twitter.com/intent/tweet?text='+encodeURIComponent(document.title)+' @ifriends&amp;url=' + ($(this).attr('data-share-url') != '' ? encodeURIComponent($(this).attr('data-share-url').trim()) : encodeURIComponent(location.href )),'');" data-via="iFriends" title="Tweet this"><i class="icon-v2 icon-twitter-large" style="margin:3px 0px;"></i> Twitter</a></li>
+	<li class="gs-box"><a class="icon-link share-this" data-share-url="" href="javascript:void(0);" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + ($(this).attr('data-share-url') != '' ? encodeURIComponent($(this).attr('data-share-url').trim()) : encodeURIComponent(location.href )),'');return false;" title="Share on Facebook"><i class="icon-v2 icon-facebook-large" style="margin:3px 0px;"></i> Facebook</a></li>
+	<li class="gs-box"><a class="icon-link share-this" data-share-url="" href="javascript:void(0);" onclick="window.open('https://plus.google.com/share?url=' + ($(this).attr('data-share-url') != '' ? encodeURIComponent($(this).attr('data-share-url').trim()) : encodeURIComponent(location.href )),'');return false;" title="Share on Google+"><i class="icon-v2 icon-googleplus-large" style="margin:3px 0px;"></i> Google+</a></li>
+	<li class="gs-box"><a class="icon-link share-this" data-share-url="" href="javascript:void(0);" onclick="window.open('mailto:?subject='+document.title+' &amp;body=Check out - ' + ($(this).attr('data-share-url') != '' ? encodeURIComponent($(this).attr('data-share-url').trim()) : encodeURIComponent(location.href )),'');" title="Share by Email"><i class="icon-v2 icon-email-large" style="margin:3px 0px;"></i> Email</a></li>
 
 </ul>
 </li>
-                <li>	    	         			<a id="if-liveSupport" href="javascript: var e = window.open('https://livesupport.ifriends.net/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=1&amp;siteID=2&amp;queueID=11&amp;skinName=iFriends&amp;skipSurvey=yes&amp;ChatName=GUEST#http://www.ifriends.net/','chatWindow','width=490,height=404,resizable=yes,scrollbars=yes,menubar=no,status=no');" onmouseout="top.status=''; return true;" onmousedown="top.status='Chat with a company representative';return true;" onmouseover="top.status='Chat with a company representative';return true;"><img class="ls-graphic ls-small" border="0" src="http://images.ifriends.net/if_v2/livesupport/viewer_small.jpg" alt="Get live viewer support from iFriends"></a></li>
+                <li>	    	         			<a id="if-liveSupport" href="javascript: var e = window.open('https://livesupport.ifriends.net/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=1&amp;siteID=2&amp;queueID=11&amp;skinName=iFriends&amp;skipSurvey=yes&amp;ChatName=GUEST#http://www.ifriends.net/','chatWindow','width=500,height=404,resizable=no,scrollbars=yes,menubar=no,status=no');" onmouseout="top.status=''; return true;" onmousedown="top.status='Chat with a company representative';return true;" onmouseover="top.status='Chat with a company representative';return true;"><img class="ls-graphic ls-small" border="0" src="http://images.ifriends.net/if_v2/livesupport/viewer_small.jpg" alt="Get live viewer support from iFriends"></a></li>
 
                 <li class="last">
                    <a class="icon-link" id="anchHelpUsImproveThisFeature_1" title="Provide your detailed feedback about this page directly to the development, design and management team" href="http://www.ifriends.net/ifpage.dll?t=tools/feedback/main&amp;pID=0&amp;pAppCode=IFPage&amp;pHost_ComputerName=US2WWW493-8-275&amp;pTemplateName=site/general/legal/privacy.htm" style="text-decoration: none"><i class="icon-v2 icon-huitfoff-mini"></i>
@@ -332,7 +336,7 @@ jQuery(document).ready(function(){		//event listeners for communication with iFr
                 </li>
             </ul>
 		</div>
-                	<div id="if-SiteHeaderNotLoggedIn" class="gs-arial11" style="width:441px;position:absolute;left:244px;top:40px;">
+                <div id="if-SiteHeaderNotLoggedIn" class="gs-arial11" style="width:441px;position:absolute;left:244px;top:40px;">
 		<div id="if-SiteHeaderNotLoggedInForgotPassword" class="gs-arial9">
 			<a href="https://secure.ifriends.net/ifpage.dll?t=site/secure/findlogin/findloginmain&amp;psitecode=iFriendsV2" title="Retrieve Your Forgotten Login and Password">Forgot Password?</a>
 		</div>
@@ -369,8 +373,7 @@ jQuery(document).ready(function(){		//event listeners for communication with iFr
 			};
 			jQuery('#LoginModuleForm').find('input').placeholder();
 		</script>
-	</div>
-		<div id="if-headerJoinNowButton">
+	</div>		<div id="if-headerJoinNowButton">
 
 		
 		
@@ -379,7 +382,7 @@ jQuery(document).ready(function(){		//event listeners for communication with iFr
  				<i id="if-headerJoinBtn-badge" class="icon-v2" style="width: 69px; height: 54px; background-position: -368px -803px;">
 					<img src="http://images.ifriends.net/if_v2/transparentpixel.gif" height="69" width="55" border="0">
 				</i>
-            	<button class="if-button highlight"><span></span></button>
+            	<div id="if-headerJoinBtn-outer"><div id="if-headerJoinBtn-inner"></div></div>
                 <div id="if-headerJoinBtn-copy">
                 	<div class="gs-arial11 tag1">Not a Member Yet?</div>
 					<div class="gs-arial18 tag2">JOIN NOW!</div>
@@ -388,7 +391,7 @@ jQuery(document).ready(function(){		//event listeners for communication with iFr
         </div>
     		</div>
 	</div>
-	<style>
+<style>
 	#navbar-parent {background-image:none; background-color: #0066cc;height:41px;}
 	#navbar-inner {width:900px;margin:auto;}
 	#navbar-links {margin:0px;padding:0px;list-style-type: none;}
@@ -412,263 +415,266 @@ jQuery(document).ready(function(){		//event listeners for communication with iFr
 	#hot-menu {overflow:hidden;width: 377px;margin-top:-1px;margin-left: -157px;padding-top:10px;background-color: white;}
 	#hot-menu .icon-tile {height: 80px;width:110px;position: relative;color: #000 !important;font: 13px Arial;}
 	#hot-menu .icon-tile span {white-space:nowrap;}
-	</style>
-	<div id="navbar-parent">
-		<div id="navbar-inner">
-			<ul id="navbar-links" class="gs-arial13">
-				<li class="flyout">
-					<a class="top" href="http://www.ifriends.net/userurl_membrg2/livehosts/all-cam-girls/live-now/"><span><i class="icon-v2 icon-navdropdownoff"></i><b>Live Cams</b></span></a>
-					<div class="sub-panel" id="livecam-menu-parent">
-						<i class="icon-v2 icon-modulearrow"></i>
-						<div class="gs-box">
-							<div class="gs-border" id="livecam-menu">
-								<div style="float:left;padding:20px;">
-									<div class="text-header top">FEATURED</div>
-									<div class="livecam-menu-links">
-										<a href="http://www.ifriends.net/userurl_membrg2/livehosts/anal/all-cam-girls/live-now/">Anal</a><br>
-										<a href="http://www.ifriends.net/userurl_membrg2/livehosts/hot/all-cam-girls/live-now/">Babe</a><br>
-										<a href="http://www.ifriends.net/userurl_membrg2/livehosts/pornstar&#10;/live-now/">Pornstar</a><br>
-										<a href="http://www.ifriends.net/userurl_membrg2/livehosts/college-girls&#10;/live-now/">College</a><br>
-										<a href="http://www.ifriends.net/userurl_membrg2/livehosts/fresh-faces&#10;/live-now/">Fresh Faces</a><br>
-										<a href="http://www.ifriends.net/userurl_membrg2/livehosts/award-winners&#10;/live-now/">Award Winners</a><br>
-										<a href="http://www.ifriends.net/userurl_membrg2/livehosts/free2goprivate&#10;/live-now/">Free Sex Chat</a><br>
-										<a href="http://www.ifriends.net/userurl_membrg2/livehosts/transgender/live-now/">Transgender</a><br>
-									</div>
-								</div>
-								<div class="gs-border left" style="float:right;padding:20px;background-color:white;">
-									<div class="text-header top">CATEGORIES</div>
-									<div style="float:left;">
-										<div class="livecam-menu-links">
-											<div class="text-header">Age:</div>
-											<a href="http://www.ifriends.net/userurl_membrg2/livehosts/teens-18-19/all-cam-girls/live-now/">Teen 18+</a><br>
-											<a href="http://www.ifriends.net/userurl_membrg2/livehosts/20-25/all-cam-girls/live-now/">20-25</a><br>
-											<a href="http://www.ifriends.net/userurl_membrg2/livehosts/26-30/all-cam-girls/live-now/">26-30</a><br>
-											<a href="http://www.ifriends.net/userurl_membrg2/livehosts/milf/all-cam-girls/live-now/">MILF</a><br>
-											<a href="http://www.ifriends.net/userurl_membrg2/livehosts/ages-41-50/all-cam-girls/live-now/">Cougar</a><br>
-											<a href="http://www.ifriends.net/userurl_membrg2/livehosts/mature/all-cam-girls/live-now/">Mature</a><br>
-										</div>
+</style>
+<div id="navbar-parent">
+    <div id="navbar-inner">
+        <ul id="navbar-links" class="gs-arial13">
+                        <li class="flyout">
+                <a class="top" href="http://www.ifriends.net/userurl_membrg2/livehosts/all-cam-girls/live-now/"><span><i class="icon-v2 icon-navdropdownoff"></i><b>Live Cams</b></span></a>
+                <div class="sub-panel" id="livecam-menu-parent">
+                    <i class="icon-v2 icon-modulearrow"></i>
+                    <div class="gs-box">
+                        <div class="gs-border" id="livecam-menu">
+                            <div style="float:left;padding:20px;">
+                                <div class="text-header top">FEATURED</div>
+                                <div class="livecam-menu-links">
+                                    <a href="http://www.ifriends.net/userurl_membrg2/livehosts/anal/all-cam-girls/live-now/">Anal</a><br>
+                                    <a href="http://www.ifriends.net/userurl_membrg2/livehosts/hot/all-cam-girls/live-now/">Babe</a><br>
+                                    <a href="http://www.ifriends.net/userurl_membrg2/livehosts/pornstar&#10;/live-now/">Pornstar</a><br>
+                                    <a href="http://www.ifriends.net/userurl_membrg2/livehosts/college-girls&#10;/live-now/">College</a><br>
+                                    <a href="http://www.ifriends.net/userurl_membrg2/livehosts/fresh-faces&#10;/live-now/">Fresh Faces</a><br>
+                                    <a href="http://www.ifriends.net/userurl_membrg2/livehosts/award-winners&#10;/live-now/">Award Winners</a><br>
+                                    <a href="http://www.ifriends.net/userurl_membrg2/livehosts/free2goprivate&#10;/live-now/">Free Sex Chat</a><br>
+                                    <a href="http://www.ifriends.net/userurl_membrg2/livehosts/transgender/live-now/">Transgender</a><br>
+                                </div>
+                            </div>
+                            <div class="gs-border left" style="float:right;padding:20px;background-color:white;">
+                                <div class="text-header top">CATEGORIES</div>
+                                <div style="float:left;">
+                                    <div class="livecam-menu-links">
+                                        <div class="text-header">Age:</div>
+                                        <a href="http://www.ifriends.net/userurl_membrg2/livehosts/teens-18-19/all-cam-girls/live-now/">Teen 18+</a><br>
+                                        <a href="http://www.ifriends.net/userurl_membrg2/livehosts/20-25/all-cam-girls/live-now/">20-25</a><br>
+                                        <a href="http://www.ifriends.net/userurl_membrg2/livehosts/26-30/all-cam-girls/live-now/">26-30</a><br>
+                                        <a href="http://www.ifriends.net/userurl_membrg2/livehosts/milf/all-cam-girls/live-now/">MILF</a><br>
+                                        <a href="http://www.ifriends.net/userurl_membrg2/livehosts/cougar/all-cam-girls/live-now/">Cougar</a><br>
+                                        <a href="http://www.ifriends.net/userurl_membrg2/livehosts/mature/all-cam-girls/live-now/">Mature</a><br>
+                                    </div>
 
-										<div class="livecam-menu-links" style="margin-top:-10px">
-											<br><div class="text-header">Build:</div>
-											<a href="http://www.ifriends.net/userurl_membrg2/livehosts/curvy/all-cam-girls/live-now/">Curvy</a><br>
-											<a href="http://www.ifriends.net/userurl_membrg2/livehosts/slender/all-cam-girls/live-now/">Slender</a><br>
-											<a href="http://www.ifriends.net/userurl_membrg2/livehosts/petite/all-cam-girls/live-now/">Petite</a><br>
-											<a href="http://www.ifriends.net/userurl_membrg2/livehosts/muscular/all-cam-girls/live-now/">Muscular</a><br>
-											<a href="http://www.ifriends.net/userurl_membrg2/livehosts/bbw/all-cam-girls/live-now/">BBW</a><br>
-										</div>
-									</div>
-									<div style="float:left;margin-left:30px;">
-										<div class="livecam-menu-links">
-											<div class="text-header">Bust:</div>
-											<a href="http://www.ifriends.net/userurl_membrg2/livehosts/big-tits/all-cam-girls/live-now/">Big Tits</a><br>
-											<a href="http://www.ifriends.net/userurl_membrg2/livehosts/small-tits/all-cam-girls/live-now/">Small Tits</a><br>
-										</div>
-										<div class="livecam-menu-links" style="margin-top:-10px">
-											<br><div class="text-header">Ethnicity:</div>
-											<a href="http://www.ifriends.net/userurl_membrg2/livehosts/white/all-cam-girls/live-now/">White</a><br>
-											<a href="http://www.ifriends.net/userurl_membrg2/livehosts/latin/all-cam-girls/live-now/">Latina</a><br>
-											<a href="http://www.ifriends.net/userurl_membrg2/livehosts/asian/all-cam-girls/live-now/">Asian</a><br>
-											<a href="http://www.ifriends.net/userurl_membrg2/livehosts/black/all-cam-girls/live-now/">Ebony</a><br>
-											<a href="http://www.ifriends.net/userurl_membrg2/livehosts/arabic/all-cam-girls/live-now/">Arabic</a><br>
-										</div>
-										<div class="livecam-menu-links" style="margin-top:-10px">
-											<br><div class="text-header">Appearance:</div>
-											<a href="http://www.ifriends.net/userurl_membrg2/livehosts/hairy/all-cam-girls/live-now/">Hairy</a><br>
-											<a href="http://www.ifriends.net/userurl_membrg2/livehosts/pierced/all-cam-girls/live-now/">Pierced</a><br>
-											<a href="http://www.ifriends.net/userurl_membrg2/livehosts/shaved/all-cam-girls/live-now/">Shaved</a><br>
-											<a href="http://www.ifriends.net/userurl_membrg2/livehosts/tattooed/all-cam-girls/live-now/">Tattoos</a><br>
-										</div>
-									</div>
-									<div style="float:left;margin-left:25px;">
-										<div class="livecam-menu-links">
-											<div class="text-header">Room:</div>
-											<a href="http://www.ifriends.net/userurl_membrg2/livehosts/all-cam-girls/live-now/">Girls</a><br>
-											<a href="http://www.ifriends.net/userurl_membrg2/livehosts/all-guys/live-now/">Guys</a><br>
-											<a href="http://www.ifriends.net/userurl_membrg2/livehosts/fetishists/live-now/">Fetish</a><br>
-											<a href="http://www.ifriends.net/userurl_membrg2/livehosts/bdsm/live-now/">BDSM</a><br>
-											<a href="http://www.ifriends.net/userurl_membrg2/livehosts/couples/live-now/">Couple</a><br>
-											<a href="http://www.ifriends.net/userurl_membrg2/livehosts/girl-on-girl/live-now/">Girl-on-Girl</a><br>
-											<a href="http://www.ifriends.net/userurl_membrg2/livehosts/threesomes/live-now/">Group</a><br>
-											<a href="http://www.ifriends.net/userurl_membrg2/livehosts/transgender/live-now/">Transgender</a><br>
-										</div>
-										<div class="livecam-menu-links" style="margin-top:-10px">
-											<br><div class="text-header">Hair Color:</div>
-											<a href="http://www.ifriends.net/userurl_membrg2/livehosts/brunette/all-cam-girls/live-now/">Brunette</a><br>
-											<a href="http://www.ifriends.net/userurl_membrg2/livehosts/blonde/all-cam-girls/live-now/">Blonde</a><br>
-											<a href="http://www.ifriends.net/userurl_membrg2/livehosts/redhead/all-cam-girls/live-now/">Redhead</a><br>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</li>
-				<li><a class="top" href="http://www.ifriends.net/userurl_membrg2/livehosts/fresh-faces&#10;/live-now/"><span>New</span></a></li>
-				<li><a class="top" href="http://www.ifriends.net/userurl_membrg2/livehosts/hot/all-cam-girls/live-now/"><span>Babe</span></a></li>
-				<li><a class="top" href="http://www.ifriends.net/userurl_membrg2/livehosts/free2goprivate&#10;/live-now/"><span>Free</span></a></li>
-				<li><a class="top" href="http://www.ifriends.net/userurl_membrg2/livehosts/all-cam-girls/live-now/"><span>All Girls</span></a></li>
-				<li><a class="top" href="http://www.ifriends.net/userurl_membrg2/livehosts/big-tits/all-cam-girls/live-now/"><span>Big Tits</span></a></li>
-				<li><a class="top" href="http://www.ifriends.net/userurl_membrg2/livehosts/milf/all-cam-girls/live-now/"><span>MILF</span></a></li>
-				<li><a class="top" href="http://www.ifriends.net/userurl_membrg2/livehosts/transgender/live-now/"><span>Transgender</span></a></li>
-				<li><a class="top" href="http://www.ifriends.net/userurl_membrg2/livehosts/mature/all-cam-girls/live-now/"><span>Mature</span></a></li>
-				<li><a class="top" href="http://www.ifriends.net/userurl_membrg2/livehosts/bbw/all-cam-girls/live-now/"><span>BBW</span></a></li>
-				<li><a class="top" href="http://www.ifriends.net/userurl_membrg2/livehosts/all-guys/live-now/"><span>Guys</span></a></li>
-				<li class="flyout" id="hot-menu-nav"><a class="top" href="http://www.ifriends.net/ifpage.dll?t=site/navigation/hotmenu/main"><span><i class="icon-v2 icon-navdropdownoff"></i><b>Hot Menu</b></span></a>
+                                    <div class="livecam-menu-links" style="margin-top:-10px">
+                                        <br><div class="text-header">Build:</div>
+                                        <a href="http://www.ifriends.net/userurl_membrg2/livehosts/curvy/all-cam-girls/live-now/">Curvy</a><br>
+                                        <a href="http://www.ifriends.net/userurl_membrg2/livehosts/slender/all-cam-girls/live-now/">Slender</a><br>
+                                        <a href="http://www.ifriends.net/userurl_membrg2/livehosts/petite/all-cam-girls/live-now/">Petite</a><br>
+                                        <a href="http://www.ifriends.net/userurl_membrg2/livehosts/muscular/all-cam-girls/live-now/">Muscular</a><br>
+                                        <a href="http://www.ifriends.net/userurl_membrg2/livehosts/bbw/all-cam-girls/live-now/">BBW</a><br>
+                                    </div>
+                                </div>
+                                <div style="float:left;margin-left:30px;">
+                                    <div class="livecam-menu-links">
+                                        <div class="text-header">Bust:</div>
+                                        <a href="http://www.ifriends.net/userurl_membrg2/livehosts/big-tits/all-cam-girls/live-now/">Big Tits</a><br>
+                                        <a href="http://www.ifriends.net/userurl_membrg2/livehosts/small-tits/all-cam-girls/live-now/">Small Tits</a><br>
+                                    </div>
+                                    <div class="livecam-menu-links" style="margin-top:-10px">
+                                        <br><div class="text-header">Ethnicity:</div>
+                                        <a href="http://www.ifriends.net/userurl_membrg2/livehosts/white/all-cam-girls/live-now/">White</a><br>
+                                        <a href="http://www.ifriends.net/userurl_membrg2/livehosts/hispanic/all-cam-girls/live-now/">Latina</a><br>
+                                        <a href="http://www.ifriends.net/userurl_membrg2/livehosts/asian/all-cam-girls/live-now/">Asian</a><br>
+                                        <a href="http://www.ifriends.net/userurl_membrg2/livehosts/black/all-cam-girls/live-now/">Ebony</a><br>
+                                        <a href="http://www.ifriends.net/userurl_membrg2/livehosts/arabic/all-cam-girls/live-now/">Arabic</a><br>
+                                    </div>
+                                    <div class="livecam-menu-links" style="margin-top:-10px">
+                                        <br><div class="text-header">Appearance:</div>
+                                        <a href="http://www.ifriends.net/userurl_membrg2/livehosts/hairy/all-cam-girls/live-now/">Hairy</a><br>
+                                        <a href="http://www.ifriends.net/userurl_membrg2/livehosts/pierced/all-cam-girls/live-now/">Pierced</a><br>
+                                        <a href="http://www.ifriends.net/userurl_membrg2/livehosts/shaved/all-cam-girls/live-now/">Shaved</a><br>
+                                        <a href="http://www.ifriends.net/userurl_membrg2/livehosts/tattooed/all-cam-girls/live-now/">Tattoos</a><br>
+                                    </div>
+                                </div>
+                                <div style="float:left;margin-left:25px;">
+                                    <div class="livecam-menu-links">
+                                        <div class="text-header">Room:</div>
+                                        <a href="http://www.ifriends.net/userurl_membrg2/livehosts/all-cam-girls/live-now/">Girls</a><br>
+                                        <a href="http://www.ifriends.net/userurl_membrg2/livehosts/all-guys/live-now/">Guys</a><br>
+                                        <a href="http://www.ifriends.net/userurl_membrg2/livehosts/fetishists/live-now/">Fetish</a><br>
+                                        <a href="http://www.ifriends.net/userurl_membrg2/livehosts/bdsm/live-now/">BDSM</a><br>
+                                        <a href="http://www.ifriends.net/userurl_membrg2/livehosts/couples/live-now/">Couple</a><br>
+                                        <a href="http://www.ifriends.net/userurl_membrg2/livehosts/girl-on-girl/live-now/">Girl-on-Girl</a><br>
+                                        <a href="http://www.ifriends.net/userurl_membrg2/livehosts/threesomes/live-now/">Group</a><br>
+                                        <a href="http://www.ifriends.net/userurl_membrg2/livehosts/transgender/live-now/">Transgender</a><br>
+                                    </div>
+                                    <div class="livecam-menu-links" style="margin-top:-10px">
+                                        <br><div class="text-header">Hair Color:</div>
+                                        <a href="http://www.ifriends.net/userurl_membrg2/livehosts/brunette/all-cam-girls/live-now/">Brunette</a><br>
+                                        <a href="http://www.ifriends.net/userurl_membrg2/livehosts/blonde/all-cam-girls/live-now/">Blonde</a><br>
+                                        <a href="http://www.ifriends.net/userurl_membrg2/livehosts/redhead/all-cam-girls/live-now/">Redhead</a><br>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+                        <li><a class="top" href="http://www.ifriends.net/userurl_membrg2/livehosts/fresh-faces&#10;/live-now/"><span>New</span></a></li>
+            <li><a class="top" href="http://www.ifriends.net/userurl_membrg2/livehosts/hot/all-cam-girls/live-now/"><span>Babe</span></a></li>
+            <li><a class="top" href="http://www.ifriends.net/userurl_membrg2/livehosts/free2goprivate&#10;/live-now/"><span>Free</span></a></li>
+            <li><a class="top" href="http://www.ifriends.net/userurl_membrg2/livehosts/all-cam-girls/live-now/"><span>All Girls</span></a></li>
+            <li><a class="top" href="http://www.ifriends.net/userurl_membrg2/livehosts/big-tits/all-cam-girls/live-now/"><span>Big Tits</span></a></li>
+            <li><a class="top" href="http://www.ifriends.net/userurl_membrg2/livehosts/milf/all-cam-girls/live-now/"><span>MILF</span></a></li>
+            <li><a class="top" href="http://www.ifriends.net/userurl_membrg2/livehosts/transgender/live-now/"><span>Transgender</span></a></li>
+            <li><a class="top" href="http://www.ifriends.net/userurl_membrg2/livehosts/mature/all-cam-girls/live-now/"><span>Mature</span></a></li>
+            <li><a class="top" href="http://www.ifriends.net/userurl_membrg2/livehosts/bbw/all-cam-girls/live-now/"><span>BBW</span></a></li>
+            <li><a class="top" href="http://www.ifriends.net/userurl_membrg2/livehosts/all-guys/live-now/"><span>Guys</span></a></li>
+                        <li class="flyout" id="hot-menu-nav"><a class="top" href="http://www.ifriends.net/ifpage.dll?t=site/navigation/hotmenu/main"><span><i class="icon-v2 icon-navdropdownoff"></i><b>Hot Menu</b></span></a>
 
-					<div class="sub-panel" id="hot-menu-parent">
-						<i class="icon-v2 icon-modulearrow"></i>
-						<div class="gs-border" id="hot-menu">
-							<a class="icon-tile gs-border gs-box" href="http://www.ifriends.net/userurl_membrg2/livehosts/live-show-replays/">
-							    <i class="icon-v2 icon-replay-large"></i>
-							    <span>Replays</span>
-							</a>
-							<a class="icon-tile gs-border gs-box" href="http://www.ifriends.net/userurl_membrg2/profile-surf/" title="Browse thousands of webcam model profiles; all live now!">
-							    <i class="icon-v2 icon-hotmodels-large"></i>
-							    <span>Profile Surf</span>
-							</a>
-							<a class="icon-tile gs-border gs-box js-iframeModal" href="/ifpage.dll?t=site/includes/select_host_by_region_modal&amp;pappmode=quickbrowse&amp;pclub=">
-								<i class="icon-v2 icon-clubelitetext-small" title="Available for Elite members only."></i>
-							    <i class="icon-v2 icon-searchregion-large"></i>
-							    <span>Models by Region</span>
-							</a>
-							<a class="icon-tile gs-border gs-box" href="http://www.ifriends.net/userurl_membrg2/elite-cam-viewer/all-cam-girls/" title="View dozens of Live Cams simultaneously">
-								<i class="icon-v2 icon-clubelitetext-small" title="Available for Elite members only."></i>
-							    <i class="icon-v2 icon-elitecamviewer-large"></i>
-							    <span>EliteCam Viewer</span>
-							</a>
-							<a class="icon-tile gs-border gs-box" href="http://www.ifriends.net/userurl_membrg/hd-plus/">
-							    <i class="icon-v2 icon-hdplus-large"></i>
-							    <span>HD Plus</span>
-							</a>
-							<a class="icon-tile gs-border gs-box" href="http://www.ifriends.net/userurl_membrg/archive/videos/">
-							    <i class="icon-v2 icon-media-large"></i>
-							    <span>Videos &amp; Photos</span>
-							</a>
-							<a class="icon-tile gs-border gs-box" href="http://www.ifriends.net/membrg/fchome_v2_custom.dll" title="Showcasing Fanclubs that offer the most, and whose webcam models are Live Right Now">
-							    <i class="icon-v2 icon-fanclub-large"></i>
-							    <span>FanClubs</span>
-							</a>
-							<a class="icon-tile gs-border gs-box" href="http://www.ifriends.net/membrg2/livehosts_getcloser.dll?pf_vchpdsex=female&amp;plooppagesize_allpapplivehosts=16" title="Call your favorite iFriends models.">
-							    <i class="icon-v2 icon-getcloser-large"></i>
-							    <span>GetCloser</span>
-							</a>
-							<a class="icon-tile gs-border gs-box" href="http://www.ifriends.net/userurl_membrg/award-winners/" title="Express your views with your fellow iFriends viewers and webcam models">
-							    <i class="icon-v2 icon-awardwinner-large"></i>
-							    <span>Award Winners</span>
-							</a>
-							<a class="icon-tile gs-border gs-box" href="http://www.ifriends.net/membrg/twrp.dll?t=site/customersonly/myif2/ifwall&amp;pappcode=twrp_wallmanager&amp;pmode=getposts&amp;pdisplaystyle=showall" title="See what the webcam models of iFriends are discussing right now.">
-							    <i class="icon-v2 icon-comments-large"></i>
-							    <span>Status Wall</span>
-							</a>
-							<a class="icon-tile gs-border gs-box" href="http://www.ifriends.net/userurl_/chatroulette/" title="Cams Roulette">
-							    <i class="icon-v2 icon-camsroulette-large"></i>
-							    <span>Cams Roulette</span>
-							</a>
-							<a class="icon-tile gs-border gs-box" href="http://www.ifriends.net/ifpage.dll?t=site/navigation/livehosts/vvunfiltered/interstitial&amp;plivecamspysource=leftrail" title="Live Cam Spy">
-							    <i class="icon-v2 icon-livecamspy-large"></i>
-							    <span>Live Cam Spy</span>
-							</a>
-						</div>
-					</div>
-				</li>
-				<li class="last" style="position:relative;">
-					<div id="HeaderSearchBox" style="margin: 0px">
-						<div id="headerSearchDefault" style="display: none;">Search Term</div>
-						<div id="headerSearchError" style="display: none;">Please enter a search term</div>
+                <div class="sub-panel" id="hot-menu-parent">
+                    <i class="icon-v2 icon-modulearrow"></i>
+                    <div class="gs-border" id="hot-menu">
+                        <a class="icon-tile gs-border gs-box" href="http://www.ifriends.net/userurl_membrg2/livehosts/live-show-replays/">
+                            <i class="icon-v2 icon-replay-large"></i>
+                            <span>Replays</span>
+                        </a>
+                        <a class="icon-tile gs-border gs-box" href="http://www.ifriends.net/userurl_membrg2/profile-surf/" title="Browse thousands of webcam model profiles; all live now!">
+                            <i class="icon-v2 icon-hotmodels-large"></i>
+                            <span>Profile Surf</span>
+                        </a>
+                        <a class="icon-tile gs-border gs-box js-iframeModal" href="/ifpage.dll?t=site/includes/select_host_by_region_modal&amp;pappmode=quickbrowse&amp;pclub=">
+                            <i class="icon-v2 icon-clubelitetext-small" title="Available for Elite members only."></i>
+                            <i class="icon-v2 icon-searchregion-large"></i>
+                            <span>Models by Region</span>
+                        </a>
+                        <a class="icon-tile gs-border gs-box" href="http://www.ifriends.net/userurl_membrg2/elite-cam-viewer/all-cam-girls/" title="View dozens of Live Cams simultaneously">
+                            <i class="icon-v2 icon-clubelitetext-small" title="Available for Elite members only."></i>
+                            <i class="icon-v2 icon-elitecamviewer-large"></i>
+                            <span>EliteCam Viewer</span>
+                        </a>
+                        <a class="icon-tile gs-border gs-box" href="http://www.ifriends.net/userurl_membrg/hd-plus/">
+                            <i class="icon-v2 icon-hdplus-large"></i>
+                            <span>HD Plus</span>
+                        </a>
+                        <a class="icon-tile gs-border gs-box" href="http://www.ifriends.net/userurl_membrg/archive/videos/">
+                            <i class="icon-v2 icon-media-large"></i>
+                            <span>Videos &amp; Photos</span>
+                        </a>
+                        <a class="icon-tile gs-border gs-box" href="http://www.ifriends.net/membrg/fchome_v2_custom.dll" title="Showcasing Fanclubs that offer the most, and whose webcam models are Live Right Now">
+                            <i class="icon-v2 icon-fanclub-large"></i>
+                            <span>FanClubs</span>
+                        </a>
+                        <a class="icon-tile gs-border gs-box" href="http://www.ifriends.net/membrg2/livehosts_getcloser.dll?pf_vchpdsex=female&amp;plooppagesize_allpapplivehosts=16" title="Call your favorite iFriends models.">
+                            <i class="icon-v2 icon-getcloser-large"></i>
+                            <span>Phone Sex</span>
+                        </a>
+                        <a class="icon-tile gs-border gs-box" href="http://www.ifriends.net/userurl_membrg/award-winners/" title="Express your views with your fellow iFriends viewers and webcam models">
+                            <i class="icon-v2 icon-awardwinner-large"></i>
+                            <span>Award Winners</span>
+                        </a>
+                        <a class="icon-tile gs-border gs-box" href="http://www.ifriends.net/membrg/twrp.dll?t=site/customersonly/myif2/ifwall&amp;pappcode=twrp_wallmanager&amp;pmode=getposts&amp;pdisplaystyle=showall" title="See what the webcam models of iFriends are discussing right now.">
+                            <i class="icon-v2 icon-comments-large"></i>
+                            <span>Status Wall</span>
+                        </a>
+                        <a class="icon-tile gs-border gs-box" href="http://www.ifriends.net/ifpage.dll?t=site/navigation/livehosts/vvunfiltered/interstitial&amp;plivecamspysource=leftrail" title="Live Cam Spy">
+                            <i class="icon-v2 icon-livecamspy-large"></i>
+                            <span>Live Cam Spy</span>
+                        </a>
+                    </div>
+                </div>
+            </li>
+                        <li class="last" style="position:relative;">
+                <div id="HeaderSearchBox" style="margin: 0px">
+                    <div id="headerSearchDefault" style="display: none;">Search Term</div>
+                    <div id="headerSearchError" style="display: none;">Please enter a search term</div>
 
 
-						<script language="javascript">
-							function submitHeaderSearch() {
-								headerSearchValue = document.getElementById("pKey").value
-								if (headerSearchValue == ("< " + document.getElementById("headerSearchDefault").innerHTML + " >") || headerSearchValue == "") {
-									alert(document.getElementById("headerSearchError").innerHTML);
-								} else {
-									window.location='http://www.ifriends.net/membrg/msearch_v2_custom.dll?psource=SiteHeader_QuickSearch&pmode=msTab_LiveChats&pliveonlyfilter=OFF&pkey='+headerSearchValue;
-								}
-							}
+                    <script language="javascript">
+                        function submitHeaderSearch() {
+                            headerSearchValue = document.getElementById("pKey").value
+                            if (headerSearchValue == ("< " + document.getElementById("headerSearchDefault").innerHTML + " >") || headerSearchValue == "") {
+                                alert(document.getElementById("headerSearchError").innerHTML);
+                            } else {
+                                window.location='http://www.ifriends.net/membrg/msearch_v2_custom.dll?psource=SiteHeader_QuickSearch&pmode=msTab_LiveChats&pliveonlyfilter=OFF&pkey='+headerSearchValue;
+                            }
+                        }
 
 
-							jQuery(document).ready(function(){
-								$( "#pKey" ).autocomplete({
-									source: "/userURL_membrg2/livehosts/?pLoopPageSize_allPappLiveHosts_v2=5&pf_vchlive=Y&t=site/includes/promo/data/VCHData_v2_JSON.htm",
-									minLength: 3
-								})
-								$( "#pKey" ).data( "autocomplete" )._search = function( value ) {
-									this.term = this.element
-										.addClass( "ui-autocomplete-loading" )
-										.val();
-									this.source( { ps_term: value }, this.response );
-								}
-								$( "#pKey" ).data( "autocomplete" )._renderItem = function( ul, item ) {
-								  $( "<li class=\"gs-box gs-border autocomplete-menu-item\" style=\"position:relative;\">" ).data( "item.autocomplete", item ).append(
-										'<table cellpadding="0" cellspacing="0">' +
-										'<tr valign="top">' +
-										'	<td  class="search-box-image-parent" >' +
-										'		<a href="'+ item.liveSessionLink.replace(/\s/gi , "") +'"><img class="search-box-profile" src="'+ item.VCHProfileImage +'" border="0"></a>' +
-										'	</td>' +
-										'	<td class="search-box-options-parent">' +
-										'		<a href="'+ item.liveSessionLink.replace(/\s/gi , "") +'" class="search-box-screenname gs-arial11" >' + item.label + '</a>' +
-										'		<div class="gs-arial9 search-box-sub-text">"'+ item.VCHliveDescrShort +'"</div>' +
-										'		<a class="if-button small" href="'+ item.liveSessionLink.replace(/\s/gi , "") +'"><span>Come See Me LIVE!</span></a>' +
-										'	</td>' +
-										'</tr>' +
-										'</table>'
-									).appendTo( ul );
-									ul.addClass("gs-border");
-								};
-								$( "#pKey" ).data( "autocomplete" )._renderMenu = function( ul, items ) {
-									var self = this;
-									$.each( items, function( index, item ) {
-										self._renderItem( ul, item );
-									});
-									ul.unbind('click');
-									ul.css('visibility' , 'hidden');
+                        jQuery(document).ready(function(){
+                                                        $( "#pKey" ).autocomplete({
+                                source: "/userURL_membrg2/livehosts/?pLoopPageSize_allPappLiveHosts_v2=5&pf_vchlive=Y&t=site/includes/promo/data/VCHData_v2_JSON.htm",
+                                minLength: 3
+                            })
+                            $( "#pKey" ).data( "autocomplete" )._search = function( value ) {
+                                this.term = this.element
+                                    .addClass( "ui-autocomplete-loading" )
+                                    .val();
+                                this.source( { ps_term: value }, this.response );
+                            }
+                            $( "#pKey" ).data( "autocomplete" )._renderItem = function( ul, item ) {
+                              $( "<li class=\"gs-box gs-border autocomplete-menu-item\" style=\"position:relative;\">" ).data( "item.autocomplete", item ).append(
+                                    '<table cellpadding="0" cellspacing="0">' +
+                                    '<tr valign="top">' +
+                                    '	<td  class="search-box-image-parent" >' +
+                                    '		<a href="'+ item.liveSessionLink.replace(/\s/gi , "") +'"><img class="search-box-profile" src="'+ item.VCHProfileImage +'" border="0"></a>' +
+                                    '	</td>' +
+                                    '	<td class="search-box-options-parent">' +
+                                    '		<a href="'+ item.liveSessionLink.replace(/\s/gi , "") +'" class="search-box-screenname gs-arial11" >' + item.label + '</a>' +
+                                    '		<div class="gs-arial9 search-box-sub-text">"'+ item.VCHliveDescrShort +'"</div>' +
+                                    '		<a class="if-button small" href="'+ item.liveSessionLink.replace(/\s/gi , "") +'"><span>Come See Me LIVE!</span></a>' +
+                                    '	</td>' +
+                                    '</tr>' +
+                                    '</table>'
+                                ).appendTo( ul );
+                                ul.addClass("gs-border");
+                            };
+                            $( "#pKey" ).data( "autocomplete" )._renderMenu = function( ul, items ) {
+                                var self = this;
+                                $.each( items, function( index, item ) {
+                                    self._renderItem( ul, item );
+                                });
+                                ul.unbind('click');
+                                ul.css('visibility' , 'hidden');
 
-									setTimeout(function(){
-										ul.css('left' , (ul.css('left').replace('px','') - 13) + 'px');
-										ul.css('visibility' , '');
-									} , '1');
-								}
+                                setTimeout(function(){
+                                    ul.css('left' , (ul.css('left').replace('px','') - 13) + 'px');
+                                    ul.css('visibility' , '');
+                                } , '1');
+                            }
 
-								$(window).resize(function () {
-									$('.ui-autocomplete').hide();
-								});
+                            $(window).resize(function () {
+                                $('.ui-autocomplete').hide();
+                            });
 
-								$('#pKey').keypress(function(e) {
-									if (e.which==13) {
-										submitHeaderSearch();
-									}
-								});
+                            $('#pKey').keypress(function(e) {
+                                if (e.which==13) {
+                                    submitHeaderSearch();
+                                }
+                            });
 
-							});
-
-
-						</script>
-
-						<div class="icon-search-parent">
-							<a class="icon-search-float" style="padding:0px;top: 6px;" onclick="submitHeaderSearch();" href="javascript:void(0);"><i class="icon-v2 icon-search-mini"></i></a>
-							<input data-errortext="Please enter a search term" placeholder="Search iFriends" class="frm-InputBox tall" id="pKey" name="pkey" autocorrect="off" type="TEXT" value="" maxlength="128" style="width:180px;height: 20px;">
-						</div>
-
-						<script language="javascript">
-						$(document).ready(function(){
-							jQuery('#HeaderSearchBox').find('input').placeholder();
-						});
-						</script>
-					</div>
-				</li>
-			</ul>
-		</div>
-	</div>
+                        });
 
 
-<input type="hidden" id="LiveNotificationsEnabled">
+                    </script>
+
+                    <div class="icon-search-parent">
+                        <a class="icon-search-float" style="padding:0px;top: 6px;" onclick="submitHeaderSearch();" href="javascript:void(0);"><i class="icon-v2 icon-search-mini"></i></a>
+                        <input data-errortext="Please enter a search term" placeholder="Search iFriends" class="frm-InputBox tall" id="pKey" name="pkey" autocorrect="off" type="TEXT" value="" maxlength="128" style="width:176px;height: 20px;">
+                    </div>
+
+                    <script language="javascript">
+                    $(document).ready(function(){
+                        jQuery('#HeaderSearchBox').find('input').placeholder();
+                    });
+                    </script>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>        <input type="hidden" id="LiveNotificationsEnabled">
 	
 	<div id="MainContentParentNewLayout">
-<div id="SideBarNewLayout">
-	<div id="SideBarNewLayout_Content">
+	<div id="SideBarNewLayout">
+		<div id="SideBarNewLayout_Content">
 
 	
+	
+	
+	
+	
+	
+
+
+		
+		
+								<a id="adult-star-banner" style="margin: 0px 0px 10px 15px; display: none;" href="http://www.ifriends.net/membrg/ireqfeed_v2_custom.dll?pclub=DRIPPIN_WET&amp;psource=adultstars_homepage"><img src="http://barchives.ifriends.net/image/DRIPPIN_WET/Profile_PS_200x200.jpg" border="0" width="200" height="200" onerror="document.getElementById('adult-star-banner').style.display='none';"></a>
 	
 	
 	
@@ -680,28 +686,19 @@ jQuery(document).ready(function(){		//event listeners for communication with iFr
 		
 		
 		
-						<a id="adult-star-banner" style="margin: 0px 0px 10px 15px; display: none;" href="http://www.ifriends.net/membrg/ireqfeed_v2_custom.dll?pclub=CHLOE-SWIFT&amp;psource=adultstars_homepage"><img src="http://barchives.ifriends.net/image/CHLOE-SWIFT/Profile_PS_200x200.jpg" border="0" width="200" height="200" onerror="document.getElementById('adult-star-banner').style.display='none';"></a>
-	
-	
-	
-	
-	
-	
-	
-
-
 		
 		
 <a class="if-button-liveGirls if-button-grid  sidebar-grid" href="http://www.ifriends.net/userurl_membrg2/livehosts/cam-girls/live-now/?pcache=yes&amp;psource=rm_lgonc" title="Browse through all our sexy Women Home Alone"></a>
 <a class="if-button-collegeGirls if-button-grid  sidebar-grid" href="http://www.ifriends.net/userurl_membrg2/livehosts/live-now/college-girls/?pcache=yes&amp;psource=rm_ccg" title="We've certified that these are real, live college co-eds!"></a>
 <a class="if-button-hottestGirls if-button-grid  sidebar-grid" href="http://www.ifriends.net/userurl_membrg2/livehosts/live-now/hot/?pcache=yes&amp;psource=rm_thago" title="Browse the hottest stars iFriends has to offer"></a>
 <a class="if-button-freeSexChat if-button-grid  sidebar-grid" href="http://www.ifriends.net/userurl_membrg2/livehosts/live-now/free2goprivate/?pcache=yes&amp;psource=rm_fsxch" title="Live Sex Chat.  And it's FREE."></a>
-<a class="if-button-camsRoulette if-button-grid  sidebar-grid" href="http://www.ifriends.net/userurl_/chatroulette/?pcache=yes&amp;psource=rm_cr" title="Connect with a random webcam model"></a>
 <a class="if-button-awardWinners if-button-grid  sidebar-grid" href="http://www.ifriends.net/userurl_membrg2/livehosts/live-now/award-winners/?pcache=yes&amp;psource=rm_aw" title="Hosts voted the best-of-the-best by viewers like you!"></a>
 <a class="if-button-freshFaces if-button-grid  sidebar-grid" href="http://www.ifriends.net/userurl_membrg2/livehosts/live-now/fresh-faces/?pcache=yes&amp;psource=rm_ff" title="See the newest faces (and bodies) new to iFriends!"></a>
-<a class="if-button-hd-plus if-button-grid sidebar-grid" href="http://www.ifriends.net/userurl_membrg/hd-plus/?psource=rm_hdplus" title="Get unlimited access to tens of THOUSANDS High-Definition Video Clips"></a>
+<a class="if-button-hd-plus if-button-grid  sidebar-grid" href="http://www.ifriends.net/userurl_membrg/hd-plus/?psource=rm_hdplus" title="Get unlimited access to tens of THOUSANDS High-Definition Video Clips"></a>
+<a class="if-button-getCloser if-button-grid  sidebar-grid" href="http://www.ifriends.net/membrg2/livehosts_getcloser.dll?pf_vchpdsex=female&amp;plooppagesize_allpapplivehosts=16&amp;psource=rm_getcloser" title="Your favorite webcam models are just a phone call away!"></a>
+		</div>
 	</div>
-</div>
+
 		<div id="FeatureHeaderParent">
 			<div class="gs-FeatureHeaderNew ">
 				<div class="gs-FeatureHeaderBG"></div>
@@ -993,13 +990,13 @@ jQuery(document).ready(function(){		//event listeners for communication with iFr
         <!-- -->			<style type="text/css">
 				#VCHLivePopup { position:fixed;z-index:21;bottom:-172px;right:0px;width:334px;height:163px;display:none;  background-color:white; }
 				.infobox {border: 1px solid #333;}
-				.infobox h1 { margin:0px; background-color: #333; color:white; font-size:13px; position:relative; padding: 5px; font-weight: normal;}
+				.infobox-header { margin:0px; background-color: #333; color:white; font-size:13px; position:relative; padding: 5px; font-weight: normal;}
 				.infobox-content { position:relative;}
-				.infobox h1 a {position:absolute;right:4px;top:4px;color:white; font-weight: bold;}
+				.infobox-header a {position:absolute;right:4px;top:4px;color:white; font-weight: bold;}
 				.infobox .search-box-profile {width:160px;height:120px;}
 			</style>
 			<div id="VCHLivePopup" class="infobox">
-				<h1 class="gs-arial13"><b></b> is now online!<a href="javascript:void(0);" onclick="$('#VCHLivePopup').hide();" class="gs-arial15">X</a></h1>
+				<div class="infobox-header gs-arial13"><b></b> is now online!<a href="javascript:void(0);" onclick="$('#VCHLivePopup').hide();" class="gs-arial15">X</a></div>
 				<div class="infobox-content">
 					<table cellpadding="0" cellspacing="0" class="gs-arial13">
 						<tbody><tr valign="top">
@@ -1027,7 +1024,7 @@ jQuery(document).ready(function(){		//event listeners for communication with iFr
 				<div class="text-header">BECOME A WEBCAM MODEL</div>
 				Earn up to <b>100%</b> commissions and get paid <br> weekly as an iFriends <a href="http://www.ifriends.net/ifpage.dll?t=site/chathostsonly/general/chathostintro">webcam model</a>.<br><br>
 				<div class="text-header" style="margin-top:0px;">BECOME A WEBMASTER</div>
-				Earn up to <b>$200</b> per sign-up or up to <b>35%</b> lifetime revshare when you join the ClickCash <a href="http://www.clickcash.com/" rel="nofollow">affiliate program</a>.<br><br>
+Earn up to <b>$200</b> per sign-up or up to <b>35%</b> lifetime revshare when you join the ClickCash <a href="http://www.clickcash.com/" rel="nofollow">affiliate program</a>.                <br><br>
 
 			</div>
 		</div>
@@ -1049,7 +1046,7 @@ jQuery(document).ready(function(){		//event listeners for communication with iFr
 			<div class="column_inner">
 				<div class="text-header">MEMBERS</div>
 				<div class="link-parent">
-    			<a id="if-liveSupport" href="javascript: var e = window.open('https://livesupport.ifriends.net/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=1&amp;siteID=2&amp;queueID=11&amp;skinName=iFriends&amp;skipSurvey=yes&amp;ChatName=GUEST#http://www.ifriends.net/','chatWindow','width=490,height=404,resizable=yes,scrollbars=yes,menubar=no,status=no');" onmouseout="top.status=''; return true;" onmousedown="top.status='Chat with a company representative';return true;" onmouseover="top.status='Chat with a company representative';return true;">Live Chat Support</a><br>
+    			<a id="if-liveSupport" href="javascript: var e = window.open('https://livesupport.ifriends.net/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=1&amp;siteID=2&amp;queueID=11&amp;skinName=iFriends&amp;skipSurvey=yes&amp;ChatName=GUEST#http://www.ifriends.net/','chatWindow','width=500,height=404,resizable=no,scrollbars=yes,menubar=no,status=no');" onmouseout="top.status=''; return true;" onmousedown="top.status='Chat with a company representative';return true;" onmouseover="top.status='Chat with a company representative';return true;">Live Chat Support</a><br>
 					<a href="http://www.ifriends.net/ifpage.dll?t=site/general/faq/faq">FAQ</a><br>
 					<a href="http://www.ifriends.net/ifpage.dll?t=site/general/customerservice/contacts">Contact Us</a><br>
 					<a href="http://www.ifriends.net/ifpage.dll?t=site/general/customerservice/memserv">Customer Service</a><br>
@@ -1062,7 +1059,7 @@ jQuery(document).ready(function(){		//event listeners for communication with iFr
 			<div class="column_inner ">
 				<div class="text-header">MODELS</div>
 				<div class="link-parent">
-    			<a id="if-liveSupport" href="javascript: var e = window.open('https://livesupport.ifriends.net/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=1&amp;siteID=2&amp;queueID=11&amp;skinName=iFriends&amp;skipSurvey=yes&amp;ChatName=GUEST#http://www.ifriends.net/','chatWindow','width=490,height=404,resizable=yes,scrollbars=yes,menubar=no,status=no');" onmouseout="top.status=''; return true;" onmousedown="top.status='Chat with a company representative';return true;" onmouseover="top.status='Chat with a company representative';return true;">Live Chat Support</a><br>
+    			<a id="if-liveSupport" href="javascript: var e = window.open('https://livesupport.ifriends.net/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=1&amp;siteID=2&amp;queueID=11&amp;skinName=iFriends&amp;skipSurvey=yes&amp;ChatName=GUEST#http://www.ifriends.net/','chatWindow','width=500,height=404,resizable=no,scrollbars=yes,menubar=no,status=no');" onmouseout="top.status=''; return true;" onmousedown="top.status='Chat with a company representative';return true;" onmouseover="top.status='Chat with a company representative';return true;">Live Chat Support</a><br>
 					<a href="http://www.ifriends.net/ifpage.dll?t=site/general/faq/faq">FAQ</a><br>
 					<a href="http://www.ifriends.net/ifpage.dll?t=site/chathostsonly/general/controlcenter/contrib&amp;pclub=">Model Control Center</a><br>
 					<a href="http://www.ifriends.net/ifpage.dll?t=site/chathostsonly/general/pagetools/pagetools&amp;pclub=">Promote Yourself</a><br>
@@ -1075,21 +1072,18 @@ jQuery(document).ready(function(){		//event listeners for communication with iFr
 
 		<div id="footer-sharelinks">
 			<a class="icon-v2 icon-twitter-large" target="_blank" href="https://www.twitter.com/ifriends/"></a>
-			<a class="icon-v2 icon-facebook-large" target="_blank" href="http://www.facebook.com/ifriends.net"></a>
+			<a class="icon-v2 icon-facebook-large" target="_blank" href="https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2FiFriends.net&amp;refsrc=http%3A%2F%2Fwww.ifriends.net%2F&amp;_rdr"></a>
+			<a class="icon-v2 icon-instagram-large" target="_blank" href="http://instagram.com/ifriendsadultwebcams"></a>
 			<a class="icon-v2 icon-tumblr-large" target="_blank" href="http://ifriends.tumblr.com"></a>
-			<a class="icon-v2 icon-pinterest-large" target="_blank" href="http://pinterest.com/ifriends/pins/"></a>
-			<a class="icon-v2 icon-googleplus-large" target="_blank" href="http://plus.google.com/b/111341185197713757820/111341185197713757820/about"></a>
+			<a class="icon-v2 icon-googleplus-large" target="_blank" href="https://plus.google.com/+ifriends/posts"></a>
 		</div>
-
 
 		<a id="back-to-top" href="javascript:void(0);" onclick="$('html, body').animate({scrollTop:0}, 'fast');"><i class="icon-v2 icon-backtotopnew"></i></a>
 
-
 		</div>
-		<div id="footer-secondary" class="gs-arial13">
-			This service is for consenting adults only. All content is published independently by its users and must comply with its <a href="http://www.ifriends.net/ifpage.dll?t=site/general/legal/rules">Code of Conduct</a>.<br><br>
-			<div>
-	© 1998 – <span id="displayYear" class="gs-NavLinksFooter">2014</span> WebPower, Inc. All Rights Reserved.
+		<div id="footer-secondary" class="gs-arial13">This service is for consenting adults only. All content is published independently by its users and must comply with its <a href="http://www.ifriends.net/ifpage.dll?t=site/general/legal/rules">Code of Conduct</a>.<br><br><div>
+
+	© 1998 – <span id="displayYear" class="gs-NavLinksFooter">2015</span> WebPower, Inc. All Rights Reserved.
  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 				<a href="http://www.ifriends.net/ifpage.dll?t=site/general/legal/privacy">Privacy Policy</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 				<a href="http://www.ifriends.net/ifpage.dll?t=site/general/copyright">Legal Notices</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -1114,9 +1108,9 @@ jQuery(document).ready(function(){		//event listeners for communication with iFr
 		jQuery('#SignUpSlideUp-iframe').show();
 	}
 </script>
-<iframe frameborder="0" allowtransparency="true" scrolling="no" id="SignUpSlideUp-iframe" src="/ifpage.dll?t=site/includes/SignUpSlideUp_content.htm&amp;pf_VCHpdEthnicity=&amp;pf_VCHpdBuild=&amp;pf_VCHliveRoomNumber=&amp;pf_isMaleRoom=&amp;pclub=&amp;pf_vchpdsex=&amp;f_hid_refererurl=http:%2F%2Fwww.ifriends.net%2Fifpage.dll%3Ft%3Dsite%2Fgeneral%2Flegal%2Fprivacy"></iframe>
-<p id="showMacCode" style="font-family: arial; font-size: 9px; color: #CCCCCC; margin-bottom: 20px; padding-left: 300px;">W8 (281)</p>
-<img src="/membrg/ATR.dll?pCode=PageLoad&amp;pAction=IFPage&amp;pExtraArgs=%26pLoadTime%3d281%26pRefTemplate%3dsite/general/legal/privacy.htm%26pRefPC%3dW8%26pGetTemplate%3d0%26pProcess%3d0%26pInit%3d0&amp;pSiteID=2&amp;pMbrLANGCODE=1&amp;pMBRSCREENNAMESimple=&amp;pMBRMSTRID=&amp;pMBRSOURCE=&amp;pTESTGROUP=1" width="1" height="1" border="0">
+<iframe frameborder="0" allowtransparency="true" scrolling="no" id="SignUpSlideUp-iframe" src="/ifpage.dll?t=site/includes/SignUpSlideUp_content.htm&amp;pf_VCHpdEthnicity=&amp;pf_VCHpdBuild=&amp;pf_VCHliveRoomNumber=&amp;pf_isMaleRoom=&amp;pclub=&amp;pf_vchpdsex=&amp;f_hid_refererurl=http:%2F%2Fwww.ifriends.net%2Fifpage.dll%3Ft%3Dsite%2Fgeneral%2Flegal%2Fprivacy&amp;isignupslideup="></iframe>
+<p id="showMacCode" style="font-family: arial; font-size: 9px; color: #CCCCCC; margin-bottom: 20px; padding-left: 300px;">W8 (250)</p>
+<img src="/membrg/ATR.dll?pCode=PageLoad&amp;pAction=IFPage&amp;pExtraArgs=%26pLoadTime%3d250%26pRefTemplate%3dsite/general/legal/privacy.htm%26pRefPC%3dW8%26pGetTemplate%3d0%26pProcess%3d0%26pInit%3d0&amp;pSiteID=2&amp;pMbrLANGCODE=1&amp;pMBRSCREENNAMESimple=&amp;pMBRMSTRID=&amp;pMBRSOURCE=&amp;pTESTGROUP=1" width="1" height="1" border="0">
 </div>
 
 </body></html>
