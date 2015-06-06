@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seonett.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229070252id_/http%3A//www.seonett.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seonett.com privacy policy that was archived on 2015-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150606155845id_/http%3A//www.seonett.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Our Privacy and Policy - SEO Nett
 
@@ -43,15 +43,15 @@ We do not sell, trade, or rent Users personal identification information to othe
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
 **Changes to this privacy policy**  
-seo nett technology has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+SEO Nett technology has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**  
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-**Contacting us**  
+**Contact us**  
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-**SEO Nett Technology**  
-SEO Nett Technology Faridabad,  
-121001 Haryana  
+SEO Nett Technology  
+Sector - 2, Noida,  
+Utter Pradesh  
 **Email:** info@seonett.com  
-Website: http://www.seonett.com/
+**Website:** [www.seonett.com](http://www.seonett.com/)
