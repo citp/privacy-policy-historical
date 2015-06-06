@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeremedycentral.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701143121id_/http%3A//www.homeremedycentral.com/en/administration/home-remedy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeremedycentral.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607015733id_/http%3A//www.homeremedycentral.com/en/administration/home-remedy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy-Home Remedy-Admin Home Remedy Central
 
