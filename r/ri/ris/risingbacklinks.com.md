@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the risingbacklinks.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120035013id_/http%3A//www.risingbacklinks.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the risingbacklinks.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607011849id_/http%3A//www.risingbacklinks.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Rising Backlinks :: Free BackLinks Builder
 
