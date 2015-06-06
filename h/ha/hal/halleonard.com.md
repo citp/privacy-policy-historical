@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halleonard.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009174556id_/http%3A//www.halleonard.com/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halleonard.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607015558id_/http%3A//www.halleonard.com/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Hal Leonard Online - Privacy Policy
 
@@ -27,6 +27,12 @@ We may also use information to e-mail you about products or services which we be
 We may also use this information to send you printed catalogs or other material through the mail relating to our products. If you do not wish to receive mail at your postal address, again, please let us know.
 
 From time to time we may share our mailing lists with reputable third parties who may also send you information about their products or services that may be of interest to you. You can, however, have your name put on our "do-not-share" list by sending an e-mail to us. Please provide us with your exact name, postal address and e-mail address. We will be sure your name is removed from the list we share with other organizations.
+
+### Security
+
+We use the Secure Sockets Layer (SSL) on areas of the site where you are entering personal or payment information. This means that this information is encrypted between your computer and ours, and no one else can normally decipher it. Our encryption is the strongest commercially available - 128K - and is approved by the authorities and financial institutions.
+
+Additionally, an independent, trusted third party - in this case GeoTrust - has issued us with a certificate which proves our right to use the domain name [halleonard.com](http://www.halleonard.com/) in a secure environment, and who can clarify that we are who we say we are.
 
 ### Need to make a change?
 
