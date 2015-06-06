@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bandswallpapers.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207041438id_/http%3A//www.bandswallpapers.com/index.php%3Ftemplate%3Dlinks) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandswallpapers.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607010013id_/http%3A//www.bandswallpapers.com/index.php%3Ftemplate%3Dlinks) for the most accurate reproduction.*
 
 # BANDSWALLPAPERS - music wallpapers, rock / metal desktop backgrounds
 
