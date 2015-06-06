@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fightfast.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125101138id_/http%3A//www.fightfast.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fightfast.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607013924id_/http%3A//www.fightfast.com/privacypolicy.php) for the most accurate reproduction.*
 
 # FREE Video Fight Course - FightFast.com
 
@@ -16,8 +16,14 @@ At Fight Fast.com, we gather and store certain types of information you provide 
 
 We may disclose Non-Personally Identifiable Information in connection with improving the services we offer and facilitating our marketing efforts. In addition, we may combine your Non-Personally Identifiable Information that relates to your use of the Site with that of other users to determine which areas of the Site are most popular, and how our services are used. By collecting this Aggregate Information and analyzing it, we can use it to improve the site. We may disclose Aggregate Information in connection with improving the services we offer and facilitating our marketing efforts.
 
-**Cookies**   
+**Cookies and Remarketing**   
 Cookies are information files that are placed on the hard drive of your computer by your browser. Cookies allow websites to remember user's activities and visits to a site. At Fight Fast.com, we use cookies to determine the number of unique visitors we host on our website over any given period of time. Cookies are also used to remember user screen names so multiple logins are not necessary. We do not use cookies to store or gather personal information from our visitors. You can disable cookies on your computer by indicating this in the preferences or options menus in your browser. For more about cookies see [[http://www.cookiecentral.com](http://www.cookiecentral.com/)]. 
+
+We may use cookies to track what products on our site you may be interested in so that we can display advertisements to you in the future based on your browsing history. No personally identifiable information is gathered during this process.
+
+We use numerous third-party advertising services (such as Google, Bing, Yahoo) that show our ads across the internet to our past visitors based on their browsing history on our website. These third party services use cookies to serve ads based on someone's past visits to our website.
+
+You can opt-out of Google's use of cookies by visiting Google's [Ads Settings](http://www.google.com/settings/ads). Alternatively, you can opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out](http://www.networkadvertising.org/managing/opt_out.asp) page. 
 
 **Security**   
 Fight Fast.com is committed to ensure the security of your information. To help prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We use encryption when collecting or transferring sensitive data such as credit card information. Preventing credit card fraud is important to protect your personal financial data security.
