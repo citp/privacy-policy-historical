@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketscript.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202121745id_/http%3A//company.ticketscript.com/uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketscript.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607002943id_/http%3A//company.ticketscript.com/uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ticketscript
 
@@ -27,7 +27,7 @@ We generally do not share personally identifiable information (such as name, add
 Advertising companies may use and collect anonymous data about your interests to customize content and advertising here and in other sites and applications. Interest and location data may be linked to your device, but is not linked to your identity. 
 
 **You can ask privacy questions.**  
-If you have any questions or concerns about our privacy policies, please contact us via info@ticketscript.com. 
+If you have any questions or concerns about our privacy policies, please contact us via [info@ticketscript.com](mailto:info@ticketscript.de). 
 
 **Analytics providers access data on our behalf.**  
 Analytics companies like Google may access anonymous data (such as your IP address or device ID) to help us understand how our services are used. They use this data solely on our behalf. They do not share it except in aggregate form; no data is shared as to any individual user. Click to see company privacy policies that govern their use of data. 
@@ -44,7 +44,7 @@ Information we collect may be stored or processed on computers located in any co
 **YOUR DATA**
 
 **You can ask privacy questions.**  
-If you have any questions or concerns about our privacy policies, please contact us via info@ticketscript.com. 
+If you have any questions or concerns about our privacy policies, please contact us via [info@ticketscript.com](mailto:info@ticketscript.de). 
 
 **You can review more privacy-related information.**  
 This privacy policy was last updated on December 1st, 2014. Our privacy policy may change from time to time. If we make any material changes to our policies, we will place a prominent notice on our website or application. If the change materially affects registered users, we will send a notice to you by email, push notification or text. 
