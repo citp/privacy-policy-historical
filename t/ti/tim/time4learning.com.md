@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the time4learning.com privacy policy that was archived on 2014-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140723080507id_/http%3A//www.time4learning.com/curriculum/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the time4learning.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607014643id_/http%3A//www.time4learning.com/curriculum/privacy.html) for the most accurate reproduction.*
 
 # Time4Learning Privacy Policy
 
