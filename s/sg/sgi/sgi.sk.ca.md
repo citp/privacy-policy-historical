@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sgi.sk.ca privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124143907id_/http%3A//www.sgi.sk.ca/about/governance/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgi.sk.ca privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607014101id_/http%3A//www.sgi.sk.ca/about/governance/privacy.html) for the most accurate reproduction.*
 
 # SGI - Privacy statement
 
