@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutorialwiz.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208002316id_/http%3A//www.tutorialwiz.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorialwiz.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607002448id_/http%3A//www.tutorialwiz.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
