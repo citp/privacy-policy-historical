@@ -1,43 +1,36 @@
-> *The following text is extracted and transformed from the gillette.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623092314id_/http%3A//www.pg.com/privacy/english/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gillette.com privacy policy that was archived on 2015-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150606152308id_/http%3A//www.pg.com/privacy/english/privacy_notice.html) for the most accurate reproduction.*
 
-# Procter & Gamble Privacy Notice
+# P&G Privacy Notice
 
-Personal Information                                                                                                                                                                                                                      [Click here](https://web.archive.org/web/20080623092314id_/http%3A//www.pg.com/privacy/english/privacy_statement.html#tab2) for more information 
-* We collect information you choose to provide such as your email or postal address.
-* We collect non-personal information such as browser type, operating system, and web pages visited to help manage our websites.
-* We use cookies and other internet technologies to manage our website and e-mail programs. We do not use these technologies to collect or store personal information.
-* We may obtain additional information about you, such as demographic information, from commercially available sources.  
-  
-Uses                                                                                                                                                                                                                                                               [Click here](https://web.archive.org/web/20080623092314id_/http%3A//www.pg.com/privacy/english/privacy_statement.html#tab2) for more information 
-* We use personal information to provide you information and samples you request, to give you a customized interactive experience, and to help us develop new products and services that meet your needs. 
-* We do not share your personal information with other marketers unless we have asked for and obtained your explicit consent. If you do not provide your consent, we will not share your information. 
-* We use personal information you provide only for purposes consistent with the reason you provided it. 
-* When we temporarily provide personal information to companies who perform services for us, such as to send you email or samples, we require those companies to protect the information in the same manner as P&G. These service companies cannot use your personal information for any other purpose than the reason you provided it to P&G.   
-  
-Your Rights & Choices                                                                                        [Click here](https://web.archive.org/web/20080623092314id_/http%3A//www.pg.com/privacy/english/privacy_statement.html#tab3) for more information 
-* You have the right to have a copy of the personal information you provide, and to correct or update your personal information.  
+P&G’s Global Consumer Privacy Policy applies to consumer information, including personal information, collected and used by [The Procter & Gamble Company](http://www.pg.com/en_US/index.shtml) and its affiliated companies and subsidiaries (“P&G”).
 
-* You may instruct P&G to remove you from our programs you have subscribed to by using the unsubscribe link provided in our email programs, or using the link provided below   
+To read P&G’s full Global Consumer Privacy Policy [click here](http://www.pg.com/privacy/english/privacy_statement.shtml). 
 
-* You may instruct P&G to remove any previous consent you provided to share your personal information with other companies.  
+  * P&G collects information about you from a variety of sources, including:
+  * Information we collect from you directly.
+  * Information we collect about you when you call us, visit our sites, use our mobile applications or services, or view our online advertisements. 
+  * Information we collect about you from other sources, such as commercially available sources. 
+  * All the information P&G collects about you may be combined to improve our communications with you, and to develop world-class products and services.
 
-* [Click here](https://web.archive.org/web/20080623092314id_/http%3A//www.pg.com/privacy/contact_us/privacy_country_list.html) to select your country and be linked to the correct address to use to: obtain a copy of the personal information you provided, be removed from our programs, or remove your consent for information sharing. 
 
-Important Information
-* P&G is committed to working with consumers to obtain a fair resolution of any complaint or concern about privacy.
-* P&G complies with country data protection laws.
-* We cooperate with country data protection authorities if they believe a privacy problem has occurred.
-* Our U.S. websites are privacy certified by the U.S.[Better Business Bureau OnLine _OnLine_](http://www.bbbonline.com/)® Privacy Seal.
 
-| 
+  * P&G uses the information we collect for P&G business purposes such as:
+  * To provide the products and services you request.
+  * To tell you about P&G products and services and those offered by our carefully selected business partners.
+  * To manage our sites and services.
+  * We do not sell your personal information to marketing companies outside of P&G. 
+  * We may share your information:
+  * With our carefully selected business partners for co-promotions or other joint programs, but only if we have obtained your consent.
+  * With our third-party service providers who perform P&G business operations on our behalf.
+  * With our third-party service providers who work on behalf of P&G and our business partners to send you joint communications that we hope you find of interest.
+  * As part of a sale of a P&G brand to another company.
+  * To protect and defend P&G (including enforcing our Terms and Conditions). 
+  * When required by law and/or government authorities.
+  * If you do not wish to provide your personal information to us, we may not be able to provide the products and services you request, or to tell you about other products and services offered by P&G.
 
-How to Contact Us
-* To contact us with a question [click here](https://web.archive.org/web/20080623092314id_/http%3A//www.pg.com/privacy/contact_us/privacy_country_list.html) (for country specific addresses)
-  
-            Or write to us at:  
-              P&G Privacy Team  
-              2 P&G Plaza  
-              Cincinnati, OH 45202 U.S.A.  
 
-* To read our full Online Privacy Statement [click here:](https://web.archive.org/web/20080623092314id_/http%3A//www.pg.com/privacy/english/privacy_statement.html)
-* To read our Global Privacy Policy [click here](http://www.pg.com/company/our_commitment/privacy_policy/privacy_policy.jhtml)
+
+  * You can stop receiving promotional email or postal communications from P&G by following the instructions in those messages, or through this Privacy Notice. Please [click here](http://www.pg.com/privacy/contact_us/contact_us/privacy-central-contact-interactive.html) to select your country and learn how to unsubscribe.
+  * [Click here](http://www.pg.com/privacy/contact_us/contact_us/privacy-central-contact-interactive.html) to select your country and learn how to access and update information you provide to P&G. 
+
+
