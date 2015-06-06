@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthexpertadvice.org privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230074659id_/http%3A//www.healthexpertadvice.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthexpertadvice.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607015140id_/http%3A//www.healthexpertadvice.org/privacy.php) for the most accurate reproduction.*
 
 # 
 
