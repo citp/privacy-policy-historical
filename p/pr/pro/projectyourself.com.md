@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectyourself.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115131548id_/http%3A//projectyourself.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectyourself.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607015657id_/http%3A//projectyourself.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Project Yourself
 
@@ -63,8 +63,8 @@ If you are concerned about the topic covered by this policy, you should read it 
 You may also mail your concerns to us at the following address:
 
 Deep Origins, LLC  
-8605 Santa Monica Blvd, #57149  
-Los Angeles, California 90069  
+1042 N. El Camino Real, Suite B-421  
+Encinitas, CA 92024  
 USA
 
  **CALIFORNIA PRIVACY RIGHTS**
@@ -72,8 +72,8 @@ USA
 If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to support[at]deeporigins.zendesk.com or write us at the following address:
 
 Deep Origins, LLC  
-8605 Santa Monica Blvd, #57149  
-Los Angeles, California 90069  
+1042 N. El Camino Real, Suite B-421  
+Encinitas, CA 92024  
 USA
 
 This privacy policy was last updated on 05-29-2013.
