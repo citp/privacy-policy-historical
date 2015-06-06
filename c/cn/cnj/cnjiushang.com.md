@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnjiushang.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218113131id_/http%3A//directory.addlinksuggest.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnjiushang.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607015352id_/http%3A//directory.addlinksuggest.com/privacy.html) for the most accurate reproduction.*
 
 # AddLinkSuggest::Privacy Policy
 
