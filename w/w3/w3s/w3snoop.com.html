@@ -1,23 +1,36 @@
-<!--The following is the downloaded HTML source of the w3snoop.com privacy policy that was archived on 2014-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141206085332id_/http%3A//www.w3snoop.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the w3snoop.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607075228id_/http%3A//www.w3snoop.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <base href="http://www.w3snoop.com/">
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="imagetoolbar" content="no"> <!-- Remove resize-popup toolbar on large images in IE -->
-<meta name="author" content="Copyright © W3Snoop.com - All Rights Reserved">
+<meta name="author" content="Copyright � W3Snoop.com - All Rights Reserved">
 <meta name="title" content="Privacy Policy - W3Snoop.com">
 <meta name="description" content="Snoop any website's traffic, estimated earnings, server ip and location, world-wide rankings and more - FREE!">
 <meta name="keywords" content="snoop, w3snoop, w3 snoop, domain, report, traffic, earnings, alexa, server ip, location, rankings, compete">
 <link rel="image_src" href="http://www.w3snoop.com/themes/ws/images/system/facebook-share-default-image.jpg">
 <title>Privacy Policy - W3Snoop.com</title>
 <link rel="stylesheet" href="cache/main-css.php" type="text/css">
-<script type="text/javascript" src="cache/javascript_includes.js.php"></script>
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
-<script type="text/javascript">GS_googleAddAdSenseService("ca-pub-1326151720721754"); GS_googleEnableAllServices();</script>
+<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="cache/javascript_includes.js.php"></script>
+<script type="text/javascript">
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
 <script type="text/javascript" src="http://www.w3snoop.com/scripts/javascript/doubleclick_ads.js"></script>
-<script type="text/javascript">GA_googleFetchAds();</script></head>
+</head>
 
 <body>
 
@@ -27,7 +40,7 @@
 try {Histats.start(1,1876468,4,0,0,0,"");
 Histats.track_hits();} catch(err){};
 </script>
-<noscript><img  src="http://sstatic1.histats.com/0.gif?1521198&101" border="0" width="1" height="1"></noscript>
+<noscript><img  src="http://sstatic1.histats.com/0.gif?1876468&101" border="0" width="1" height="1"></noscript>
 <!-- histats-END  -->
 
 <noscript>
@@ -85,8 +98,8 @@ Histats.track_hits();} catch(err){};
     <div id="top_offset"></div>
 
     <div class="width_100percent">
-        <a name="#"></a><div align="left">
-    <table width="100%" height="118" border="0" cellspacing="0" cellpadding="0" style="margin-bottom:2px;">
+        <a name="#"></a><div class="desktop_only">
+	<table width="100%" height="118" border="0" cellspacing="0" cellpadding="0" style="margin-bottom:2px;">
       <tbody><tr>
         <td width="100%" align="left" valign="bottom" class="header_logo_bg">
             <a href="http://www.w3snoop.com/" class="header_link_home"><img src="themes/ws/images/system/blankdot.gif" width="291" height="118" alt="" border="0"></a>
@@ -154,11 +167,66 @@ Histats.track_hits();} catch(err){};
 			if (!isBlocked){
 		
 				//Block potential double-submits
-				$('#QuickSearch').block({ overlayCSS: { cursor: 'default' }, css: { cursor: 'default' } });
+				//$('#QuickSearch').block({ overlayCSS: { cursor: 'default' }, css: { cursor: 'default' } });
+
+				var formAction = $("#QuickSearch_Keywords").val();
 				
-				//Redirect
-				var redirect_to = "http://www.w3snoop.com/submitform/?formID=QuickSearch&formFieldsID=QuickSearch&formFields="+$("#QuickSearch").serialize();
-				window.location.href = redirect_to;
+				//# Clean up the keywords
+
+				//Lower case
+				formAction = formAction.toLowerCase();
+
+				//Replace multiple fullstops with a single fullstop
+				formAction = formAction.replace(/\.{2,}/g, ".");
+
+				//Remove anything like http:// or ftp://
+				formAction = formAction.replace(/.*?:\/\//g, "");
+				formAction = formAction.replace(/.*?:\//g, "");
+				
+				//Remove subfolders
+				formActionArray = formAction.split("/");
+				formAction = formActionArray[0];
+
+				//Remove first character if it is a fullstop
+				if (formAction.substr(0,1)=='.'){
+					formAction = formAction.substr(1,formAction.length);
+				}
+				
+				//Remove last character if it is a fullstop
+				if (formAction.substr((formAction.length-1),formAction.length)=='.'){
+					formAction = formAction.substr(0,formAction.length-1);
+				}
+
+				//Remove "www." if it is at the start
+				if (formAction.substr(0,4)=='www.'){
+					//If there are no more fullstops, we removed a website called "www" so add the "www" back to the string
+					if (formAction.substr(4,formAction.length).indexOf(".") != -1){
+						var formAction = formAction.substr(4,formAction.length);
+					}
+				}
+				
+				if (formAction=="" || formAction.indexOf(".") == -1){
+					//Invalid
+					
+					//Clear timeouts
+					clearTimeout(setBlockUITimeout);
+		
+					//Set the blockUIArea content
+					document.getElementById('blockUIAreaContent').innerHTML = blockUIBoxOpen+'Invalid - Please Try Again'+blockUIBoxClose;
+					//Show the blockUIArea (doing it this way allows its contents to be selectable
+					$.blockUI({ message: $('#blockUIArea'), overlayCSS: { cursor: 'default' }, css: { cursor: 'default' } });
+					setBlockUITimeout = setTimeout(function() {$.unblockUI();}, blockUIBoxTimeout);
+					
+					$('#jquery_blockui_vertical_center_default').center();
+				} else {
+										
+												$("form[id='QuickSearch']").append('<input type="hidden" name="1432imnv9j998315_update" value="true" />');
+						
+												$("form[id='QuickSearch']").attr("action", "http://"+formAction+".w3snoop.com");
+													
+					
+					$("form[id='QuickSearch']").submit();
+				}
 			}
 			
 		});
@@ -190,15 +258,164 @@ Histats.track_hits();} catch(err){};
       </tr>
     </tbody></table>
 </div>
+<div class="mobile_only" align="center">
+    <a href="http://www.w3snoop.com/" class="header_link_home"><img src="themes/ws/images/interface/logo.jpg" alt="" border="0"></a>
+    <div style="padding-top:8px;">
+		<div align="center" style="width:320px; margin-bottom:4px; padding-left:4px; padding-right:4px;">
+	<form id="QuickSearchMobile" action="" method="POST"><div id="QuickSearchMobile" class="" style="text-align:center;"><input type="text" value="" style="display:none;"><div id="searchboxmobile" style="float:left;"><div id="QuickSearchMobile_Keywords_container" style=""><input type="text" id="QuickSearchMobile_Keywords" name="QuickSearchMobile_Keywords" class="input_quicksearchmobile" value="" style="display:block; float:left;"></div></div><div id="QuickSearchMobile_Spacer_container" style=""><img src="themes/ws/images/system/blankdot.gif" width="4" height="1" style="float:left;" alt=""></div><div id="QuickSearchMobile_Search_container" style=""><div id="QuickSearchMobile_Search" class="form_button_quicksearchmobile" onmouseover="this.style.backgroundPosition='bottom left'; " onmouseout="this.style.backgroundPosition='top left'; " style="float:left;"></div><div id="afterfloat"></div></div></div></form>
 
-<div id="afterfloat"></div>    </div>
+
+
+
+<div id="QuickSearchMobile_Search_blockUIArea_confirm" style="display:none;">
     
-	<div id="content_background">
+    <div id="QuickSearchMobile_Search_jquery_blockui_vertical_center_confirm" class="jquery_blockui">
+    
+    	<div style="padding:20px;">
 
-		<div id="adbox" style="float:left;">
-        	        </div>
-        <div id="supportbox" style="float:right;">
-        	<div style="margin-top:15px;">
+            <div id="QuickSearchMobile_Search_blockUIArea_confirm-text" class="text_large text_d_color5 text_bold" style="margin-bottom:8px;">
+            </div>
+            
+            <div align="center" id="QuickSearchMobile_Search_blockUIArea_confirm-ok" class="option-ok_blockUIArea" style="margin-top:8px;">
+                <div class="linkbox_menulink" style="width:200px; float:left;"><div class="nojavascriptlink_menulink"></div>
+                    <strong class="text_color1">OK</strong>
+                </div>
+            </div>
+            
+            <div align="center" id="QuickSearchMobile_Search_blockUIArea_confirm-cancel" style="margin-top:8px;">
+                <div class="linkbox_menulink" style="width:200px; float:right;"><div class="nojavascriptlink_menulink"></div>
+                    <strong class="text_color4">Cancel</strong>
+                </div>
+            </div>
+            
+            <div id="afterfloat"></div>
+
+    	</div>
+        
+	</div>
+    
+</div>
+<script type="text/javascript" language="JavaScript">	
+	
+	validatorsValid=true;
+	
+	var passedData = "";
+	
+	$(document).ready(function(){
+		
+		// BEGIN - Confirm Popup
+		$("#QuickSearchMobile_Search_blockUIArea_confirm-ok").click(function() {
+		});
+		
+		$("#QuickSearchMobile_Search_blockUIArea_confirm-cancel").click(function() {
+			//Close confirm
+			$.unblockUI();
+			return false;
+		});
+		// END - Confirm Popup
+		
+		//Validate all fields and submit, then redirect to confirmation message (if successful)
+		$('#QuickSearchMobile_Search').click(function() {
+		
+			//Stop blocked elements events
+			var isBlocked = $('#QuickSearchMobile').data('blockUI.isBlocked');
+			if (!isBlocked){
+		
+				//Block potential double-submits
+				//$('#QuickSearchMobile').block({ overlayCSS: { cursor: 'default' }, css: { cursor: 'default' } });
+
+				var formAction = $("#QuickSearchMobile_Keywords").val();
+				
+				//# Clean up the keywords
+
+				//Lower case
+				formAction = formAction.toLowerCase();
+
+				//Replace multiple fullstops with a single fullstop
+				formAction = formAction.replace(/\.{2,}/g, ".");
+
+				//Remove anything like http:// or ftp://
+				formAction = formAction.replace(/.*?:\/\//g, "");
+				formAction = formAction.replace(/.*?:\//g, "");
+				
+				//Remove subfolders
+				formActionArray = formAction.split("/");
+				formAction = formActionArray[0];
+
+				//Remove first character if it is a fullstop
+				if (formAction.substr(0,1)=='.'){
+					formAction = formAction.substr(1,formAction.length);
+				}
+				
+				//Remove last character if it is a fullstop
+				if (formAction.substr((formAction.length-1),formAction.length)=='.'){
+					formAction = formAction.substr(0,formAction.length-1);
+				}
+
+				//Remove "www." if it is at the start
+				if (formAction.substr(0,4)=='www.'){
+					//If there are no more fullstops, we removed a website called "www" so add the "www" back to the string
+					if (formAction.substr(4,formAction.length).indexOf(".") != -1){
+						var formAction = formAction.substr(4,formAction.length);
+					}
+				}
+				
+				if (formAction=="" || formAction.indexOf(".") == -1){
+					//Invalid
+					
+					//Clear timeouts
+					clearTimeout(setBlockUITimeout);
+		
+					//Set the blockUIArea content
+					document.getElementById('blockUIAreaContent').innerHTML = blockUIBoxOpen+'Invalid - Please Try Again'+blockUIBoxClose;
+					//Show the blockUIArea (doing it this way allows its contents to be selectable
+					$.blockUI({ message: $('#blockUIArea'), overlayCSS: { cursor: 'default' }, css: { cursor: 'default' } });
+					setBlockUITimeout = setTimeout(function() {$.unblockUI();}, blockUIBoxTimeout);
+					
+					$('#jquery_blockui_vertical_center_default').center();
+				} else {
+										
+												$("form[id='QuickSearchMobile']").append('<input type="hidden" name="1432imnv9j998315_update" value="true" />');
+						
+												$("form[id='QuickSearchMobile']").attr("action", "http://"+formAction+".w3snoop.com");
+													
+					
+					$("form[id='QuickSearchMobile']").submit();
+				}
+			}
+			
+		});
+		
+	});
+</script>
+    <script type="text/javascript">
+		$(document).ready(function(){
+			if ($(".input_quicksearchmobile").val()==""){
+				$(".input_quicksearchmobile").addClass("quicksearchmobile");
+			}
+		});
+		$(function(){
+			$(".input_quicksearchmobile")
+			.focus(function () {
+				if ($(this).val()==""){
+					$(this).removeClass("quicksearchmobile");
+				}
+			})
+			.blur(function () {
+				if ($(this).val()==""){
+					$(this).addClass("quicksearchmobile");
+				}
+			}); 
+		});
+	</script>
+</div>    </div>
+</div>    </div>
+    
+    <div align="center">
+        <div id="adbox">
+                    </div>
+        <div id="supportbox">
+            <div style="margin-top:15px;">
                 <div style="float:right; height:80px; margin-right:88px;">
                     <script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
                     <g:plusone size="tall"></g:plusone>
@@ -208,8 +425,11 @@ Histats.track_hits();} catch(err){};
                 </div>
             </div>
         </div>
-		<div id="afterfloat"></div>
-        
+        <div id="afterfloat"></div>
+    </div>
+    
+	<div id="content_background">
+
 		<div id="content_top">
         	<img src="themes/ws/images/system/blankdot.gif" width="1" height="5" alt="" border="0">
         </div>
@@ -235,13 +455,8 @@ If there are any questions regarding our privacy policy you may contact us throu
            
            	   <div id="footerlinks">
 					<div align="center" class="text_color1 text_bold padding12">
-    <div style="float:left;">
-        Copyright © W3 Snoop 2011-2014. All Rights Reserved.
-    </div>
-    <div style="float:right;">
-        <a href="contact/">Contact Us</a> | <a href="privacy/">Privacy</a> | <a href="terms/">Terms</a> | <a href="disclaimer/">Disclaimer</a>
-    </div>
-    <div id="afterfloat"></div>
+    <a href="contact/">Contact Us</a> | <a href="privacy/">Privacy</a> | <a href="terms/">Terms</a> | <a href="disclaimer/">Disclaimer</a><br>
+    Copyright © W3 Snoop 2011-2015. All Rights Reserved.
 </div>               </div>
                
         	</div>
