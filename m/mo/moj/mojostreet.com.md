@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mojostreet.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701062125id_/http%3A//www.mojostreet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mojostreet.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607073902id_/http%3A//www.mojostreet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mojostreet.com
 
@@ -48,4 +48,4 @@ You may come across links to external websites on _Mojostreet_. We are not respo
 **Will There Be Changes To This Privacy Policy?**    
 Mojostreet may amend this Privacy Policy periodically. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make material changes in the way we use Personal Information, we will notify you by posting an announcement on our _Service_ or by sending you an email. Users are bound by any changes to the Privacy Policy when they use the Service after such changes have been first posted.
 
-**What If I Have Questions Or Concerns?**  If you have any questions or concerns regarding your privacy while using the Service, please send a detailed message to:  **[privacy@mojostreet.com](mailto:privacy@mojostreet.com)**. We will make every effort to resolve your concerns. 
+**What If I Have Questions Or Concerns?**  If you have any questions or concerns regarding your privacy while using the Service, please send a detailed message to:  **[support@mojostreet.com](mailto:support@mojostreet.com)**. We will make every effort to resolve your concerns. 
