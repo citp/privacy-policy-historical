@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the html5andcss3.org privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117055346id_/http%3A//www.html5andcss3.org/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the html5andcss3.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607124635id_/http%3A//www.html5andcss3.org/privacypolicy.php) for the most accurate reproduction.*
 
 # Html5 Tutorial for Beginners | Css3 Tutorial - Privacy Policy
 
