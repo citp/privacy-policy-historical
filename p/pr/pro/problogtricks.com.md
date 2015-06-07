@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the problogtricks.com privacy policy that was archived on 2014-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140729144547id_/http%3A//www.problogtricks.com/p/privacy-policy-for-www.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the problogtricks.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607205217id_/http%3A//www.problogtricks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Pro Blog Tricks
+# Privacy Policy
 
 Privacy Policy for http://www.problogtricks.com 
 
