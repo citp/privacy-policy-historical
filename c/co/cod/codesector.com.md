@@ -1,21 +1,16 @@
-> *The following text is extracted and transformed from the codesector.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216003517id_/http%3A//codesector.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codesector.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607190754id_/http%3A//codesector.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Code Sector
+# Products - Code Sector
 
 Internet user privacy and confidentiality is important to Code Sector. To better protect your privacy we provide this notice explaining our practices and the choices you can make about the way your information is collected and used.
 
 ### Information collection and use
 
-Code Sector is the sole owner of the information collected on this site. We will not sell, share, or rent this information to third parties in ways different from what is disclosed in this statement. Unless the user provides it voluntarily, Code Sector does not collect any personally identifiable information about visitors of the website. Some pages permit visitors to request additional information. Visitors are able to e-mail messages to Code Sector that will contain the user's name and e-mail address, as well as any additional information the user may wish to include in the message. Code Sector uses the information visitors provide about themselves to fulfill those visitors' requests. E-mail addresses are used to answer messages received only.
+Code Sector is the sole owner of the information collected on this site. We will not sell, share, or rent this information to third parties in ways different from what is disclosed in this statement. Unless the user provides it voluntarily, Code Sector does not collect any personally identifiable information about visitors of the website. Some pages permit visitors to request additional information. Visitors are able to e-mail messages to Code Sector that will contain the user's name and e-mail address, as well as any additional information the user may wish to include in the message. Code Sector uses the information visitors provide about themselves to fulfill those visitors' requests. E-mail addresses are only used to answer received messages.
 
 ### Information collected during purchase
 
-When you place an order online with us, we use the online ordering services provided by PayPal and Braintree. Paypal is a respected and trusted Internet credit card merchant and is designed to protect both buyer and seller. You can review Paypal’s Privacy Policy [here](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside).
-
-Braintree is a division of PayPal, Inc. All order forms are secured with powerful SSL (Security Socket Layer) encryption technology. 
-
-We do not receive credit card information as part of your product registration.  
-Your credit card information securely sent directly from your browser to Braintree servers for processing. Our server keeps purchaser's name and email as a hash string, making it impossible to recover original data. This hash string allows the server to check purchaser's identity and resend a lost license key in the future.
+When you place an order online with us, we use the online ordering services provided by PayPal and Avangate. Paypal is a respected and trusted Internet credit card merchant and is designed to protect both buyer and seller. You can review Paypal’s Privacy Policy [here](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside).
 
 ### Log files
 
