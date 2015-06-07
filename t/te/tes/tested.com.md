@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tested.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230210400id_/http%3A//www.tested.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tested.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608014442id_/http%3A//www.tested.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tested
 
@@ -6,7 +6,7 @@ Effective Date: March 17, 2014
 
 Tested is owned and operated by Web Property #5, LLC. ("Tested" or "we" or "us").
 
-Tested is strongly committed to protecting your privacy and providing a safe online experience for all of our users. This Privacy Policy (the "Policy") discusses the Personally Identifiable Information ("PII") and other information that we may collect about you through Tested's website, which includes all of the Tested articles, videos, and other services we provide on the website (collectively, the "Site"). Please read the complete Policy below and contact us if you have any questions. This Policy is part of and incorporated into the [Terms of Use](https://web.archive.org/terms-of-service/) of the Site. If you are not comfortable with this Policy or our [Terms of Use](https://web.archive.org/terms-of-service/), please do not provide us with PII, or other information or content, or otherwise use the Site. 
+Tested is strongly committed to protecting your privacy and providing a safe online experience for all of our users. This Privacy Policy (the "Policy") discusses the Personally Identifiable Information ("PII") and other information that we may collect about you through Tested's website, which includes all of the Tested articles, videos, and other services we provide on the website (collectively, the "Site"). Please read the complete Policy below and contact us if you have any questions. This Policy is part of and incorporated into the [Terms of Use](https://web.archive.org/auth/terms-of-service/) of the Site. If you are not comfortable with this Policy or our [Terms of Use](https://web.archive.org/auth/terms-of-service/), please do not provide us with PII, or other information or content, or otherwise use the Site. 
 
 Type of Information We Collect.
 
@@ -66,7 +66,7 @@ Use of PII.
 
 
 
-We may use your PII for purposes such as responding to your requests, monitoring and providing the Site, maintaining your account, providing you with advertising and non-advertising content on the Site that we believe would be of interest to you, enforcing our rights and the rights of third parties, and investigating and ensuring compliance with the [Terms of Use](https://web.archive.org/terms-of-service/).
+We may use your PII for purposes such as responding to your requests, monitoring and providing the Site, maintaining your account, providing you with advertising and non-advertising content on the Site that we believe would be of interest to you, enforcing our rights and the rights of third parties, and investigating and ensuring compliance with the [Terms of Use](https://web.archive.org/auth/terms-of-service/).
 
 Opting-Out.
 
@@ -94,7 +94,7 @@ We share information, including PII, with third parties, but only as described i
   * Compliance and Safety. We may release user information when we believe release is appropriate to:
   *     * comply with applicable law, respond to legal requests, or address written complaints of copyright infringement;
     * make disclosures under programs intended to prevent potential crimes or investigate persons;
-    * enforce or apply agreements, including the [Terms of Use](https://web.archive.org/terms-of-service/); or
+    * enforce or apply agreements, including the [Terms of Use](https://web.archive.org/auth/terms-of-service/); or
     * protect the rights, property, or safety of the Site, our users, or others, including exchanging information with other companies for fraud protection and credit risk reduction.
     * How Secure Is My Information?
 
