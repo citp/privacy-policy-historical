@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the viralblitzmailer.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110005id_/http%3A//viralblitzmailer.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralblitzmailer.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608005326id_/http%3A//viralblitzmailer.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Viral Blitz Mailer
+# Viral Blitz Mailer - High Click Thru Credit Based Safelist
+
+******
 
 Welcome to Viral Blitz Mailer (the "Site").
 
@@ -38,3 +40,7 @@ Admin
 Dawn Orr  
 President and CEO  
 Viral Blitz Mailer
+
+﻿ 
+
+******
