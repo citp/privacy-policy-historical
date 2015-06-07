@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the myenglishteacher.eu privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208125203id_/http%3A//www.myenglishteacher.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myenglishteacher.eu privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608002719id_/http%3A//www.myenglishteacher.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Online English Teacher - MyEnglishTeacher.eu
-
-**[](http://www.myenglishteacher.eu/)**
 
 **What information do we collect?**
 
@@ -91,29 +89,10 @@ This policy was last modified on 30.09.2013
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://myenglishteacher.eu-2/
-
+http://myenglishteacher.eu-2/  
 Lehel u. 61  
 Százhalombatta, Pest 2440  
 Hungary  
 info@myenglishteacher.eu
 
 This policy is powered by Free Privacy Policy and Rhino Support. Compare Rhino Support to [Zen desk](http://www.rhinosupport.com/zendesk.htm) and save!
-
-×
-
-... But, if you are serious about
-
-  ↵
-
-  * Learning with a native teacher
-  * Improving your skills in professional atmosphere
-  * Having live conversations with other students
-
-
-
-Let me give you a 20% discount  
-on your first purchase  
-only for PayPal users
-
-array(3) { [0]=> string(0) "" [1]=> string(14) "privacy-policy" [2]=> string(0) "" } 
