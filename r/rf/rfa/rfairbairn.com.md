@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rfairbairn.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219150730id_/http%3A//rfairbairn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rfairbairn.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607151332id_/http%3A//rfairbairn.com/privacy) for the most accurate reproduction.*
 
 # Privacy — Richard Fairbairn
 
