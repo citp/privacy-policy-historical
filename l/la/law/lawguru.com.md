@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the lawguru.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228025728id_/http%3A//www.lawguru.com/support/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawguru.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607124424id_/https%3A//www.lawguru.com/support/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - LawGuru.com
+# Legal Forms - Leases, Contracts, Agreements, Letters - Free Preview - LawGuru.com
 
 Last modified: March 1, 2014.
 
 Our Privacy Policy applies to the following websites owned and operated by WebsiteBroker, Inc.: LawGuru.com, LawSimple.com, AdviceTool.com and to all the other products and services we offer including LawGuru.com Answers, LawSimple.com Answers, AdviceTool.com Answers, the Attorney Network (also referred to as the Lawyer Network in some jurisdictions), the Advisor Network and the LawGuru.com Answers public database (collectively referred to as "LawGuru"). For simplicity, when we refer in this Privacy Policy to LawGuru.com, AdviceTool.com or LawSimple.com, that term also refers to and includes WebsiteBroker, Inc., and its owners, managers, partners and employees. 
 
-If you have any questions about this Privacy Policy, please feel free to contact us via our support page or write to us at:
+If you have any questions about this Privacy Policy, please feel free to [contact us](https://www.lawguru.com/writeus.html) or write to us at:
 
 Legal Department  
 WebsiteBroker, Inc.  
@@ -47,7 +47,7 @@ If you do not want the benefit of cookies, there is a simple procedure to manual
 
 If at any time you no longer wish to receive the information you originally requested to receive from us (e.g. newsletters, etc.), please [contact us](https://www.lawguru.com/writeus.html) and we will remove your information from our system.
 
-If you have any additional questions about our dedication to consumer privacy, please contact us via our support page.
+If you have any additional questions about our dedication to consumer privacy, please [contact us](https://www.lawguru.com/writeus.html).
 
 **E. Third Party Ads**
 
