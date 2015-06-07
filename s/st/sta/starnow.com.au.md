@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starnow.com.au privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706211354id_/http%3A//www.starnow.com.au/help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starnow.com.au privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608002941id_/http%3A//www.starnow.com.au/help/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | StarNow
 
@@ -8,7 +8,9 @@ StarNow (owned and operated by StarNow Limited) collects personal information ab
 
 You agree that StarNow may use this personal information to assist us to provide the services to you, for internal research purposes, to verify your identity, for promoting and marketing other StarNow products and services to you, and for any other use that you authorise.
 
-StarNow may disclose your personal information, including your name and contact details, to the relevant authorities, parties and/or the applicable intellectual property right holders (or their representatives) as we see fit.
+You agree that StarNow.com may use your images, profile text and/or media files for the promotion of the website. You also agree when you choose to make your profile public or include your photo in the Talent Directory that StarNow.com will publish your personal information and photos, and allow other members to contact you.
+
+We will not sell your personal information without your consent, however you agree that StarNow.com may disclose your personal information, including your name and contact details, to the relevant authorities, parties and/or the applicable intellectual property right holders (or their representatives) where the law requires or allows us to do so.
 
 You can access and correct your personal information at any time.
 
@@ -23,6 +25,8 @@ Find out more about our [cookie policy](https://web.archive.org/help/CookiePolic
 ### Third Party Services
 
 StarNow may contain links to other websites ("Third Party Services") and may post your information on other websites (including, but not limited to, Facebook, Twitter and YouTube). If you choose to use a Third Party Service they may use and share your data in accordance with their privacy policy and your privacy settings on that service. You should always review the policies of Third Party Services and websites to make sure you are comfortable with the ways in which they use information you share with them.
+
+StarNow may use third party providers to provide certain services to you in connection with your membership on StarNow. StarNow may disclose personally identifiable information to these third party service providers for the sole purpose of the provision of services to you.
 
 ### Applying for roles
 
