@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxhow.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228001928id_/http%3A//www.oxhow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxhow.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607181433id_/http%3A//www.oxhow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
