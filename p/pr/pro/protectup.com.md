@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the protectup.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221042026id_/http%3A//protectup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protectup.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607035738id_/http%3A//protectup.com/privacy.php) for the most accurate reproduction.*
 
 # Pricacy Policy | URL Safety
 
 **This is the web site of URLSAFETY.COM Ltd.**
 
-We can be reached via [contact form.](https://web.archive.org/web/20141221042026id_/http%3A//protectup.com/contact_us.php)
+We can be reached via [contact form.](https://web.archive.org/web/20150607035738id_/http%3A//protectup.com/contact_us.php)
 
  **Cookies:** With respect to cookies: We use cookies to store visitors preferences.
 
@@ -23,9 +23,3 @@ text link adverts as well as general advertising links that may be displayed all
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at 
 
 the above address.
-
-###### 
-
-##### **Merci de nous soutenir en prenant votre Premium**
-
-#### **[JAPLODE.COM](http://japlode.com/?op=payments)**
