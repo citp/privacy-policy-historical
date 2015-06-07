@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodnavigator-usa.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017145605id_/http%3A//www.foodnavigator-usa.com/Publications/Info/Privacy-and-Cookie-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodnavigator-usa.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608015043id_/http%3A//www.foodnavigator-usa.com/Publications/Info/Privacy-and-Cookie-Policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy
 
@@ -211,10 +211,14 @@ __utmc
 
 __utmz  
  dnm_c  
+dnm_guestc  
  dnm_l  
- dnm_s
+ dnm_s  
+dnm_activepp
 
 dnm_r
+
+read_news_ids
 
 JobListing
 
