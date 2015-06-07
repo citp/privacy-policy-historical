@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sabre.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219131201id_/http%3A//www.sabre.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabre.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607190554id_/http%3A//www.sabre.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sabre
 
@@ -104,5 +104,3 @@ Please direct any questions or comments about this privacy statement and our pri
   * 3150 Sabre Drive, Southlake, Texas 76092 Attn: Privacy Office 
 
 
-
-## [Travelocity Privacy Policy](http://www.travelocity.com/p/info-other/privacy-policy.htm)
