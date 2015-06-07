@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the desiopt.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202031131id_/http%3A//www.desiopt.com/include/themes/custom/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desiopt.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607134117id_/http%3A//desiopt.com/privacypolicy) for the most accurate reproduction.*
 
-# 
+# DesiOPT.com: Privacy Policy
 
 **What information do we collect?**
 
@@ -12,25 +12,25 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 Any of the information we collect from you may be used in one of the following ways: 
 
-腹To personalize your experience  
+• To personalize your experience  
 (your information helps us to better respond to your individual needs)
 
-腹To improve our website  
+• To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-腹To improve customer service  
+• To improve customer service  
 (your information helps us to more effectively respond to your customer service requests and support needs)
 
-腹To process transactions  
+• To process transactions  
 Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer. 
 
-腹To send periodic emails
+• To send periodic emails
 
 The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-腹To administer a contest, promotion, survey or other site feature
+• To administer a contest, promotion, survey or other site feature
 
 **How do we protect your information?**
 
