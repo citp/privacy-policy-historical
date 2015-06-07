@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bradfordexchange.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123112604id_/http%3A//www.bradfordexchange.com/service/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bradfordexchange.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607043210id_/http%3A//www.bradfordexchange.com/service/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | The Bradford Exchange Online
 
@@ -6,7 +6,7 @@ Shopping online at www.bradfordexchange.com is extremely safe. The Bradford Exch
 
 If you have any concerns about ordering electronically, please call 1-866-907-3607 to place your order over the phone.
 
-The Bradford Exchange Online is an Internet marketing arm of The Bradford Group. We at the Bradford Group (identified below under "Information Sharing") are committed to protecting our customers' privacy. We know that you are concerned about how your information is used and shared, and we appreciate your trust that we will do so carefully and sensibly. The following notice describes our privacy policy. 
+Collectibles Today Network, Ltd. is an Internet marketing arm of The Bradford Group. We operate under the name The Bradford Exchange Online. We at the Bradford Group (identified below under "Information Sharing") are committed to protecting our customers' privacy. We know that you are concerned about how your information is used and shared, and we appreciate your trust that we will do so carefully and sensibly. The following notice describes our privacy policy. 
 
 Automatic Information:
 
@@ -56,31 +56,25 @@ Please remember that if you add or change e-mail addresses, you need to separate
 
 Information Sharing:
 
-The Bradford Exchange Online is one of a network of related companies who specialize in various high-quality collectible items such as collectors plates, dolls, figurines, ornaments and music boxes. Our affiliated companies include:
+The Bradford Exchange Online is one of a network of related companies who specialize in various high-quality collectible items such as collectors plates, dolls, figurines, ornaments and music boxes. Our affiliated companies or their divisions include:
 
-  * The Bradford Exchange
-  * The Bradford Exchange Checks
-  * The Ashton-Drake Galleries
-  * Ardleigh Elliott & Sons
-  * The Hamilton Collection
+  * The Bradford Exchange, Ltd.
+  * The Bradford Exchange Checks, Ltd.
 
 
 
-  * Van Hygan & Smythe
-  * Hawthorne Village
-  * The Bradford Editions
-  * Hamilton Authenticated
-  * Bradford Authenticated
+  * The Ashton-Drake Galleries, Ltd.
+  * The Hamilton Collection, Inc.
 
 
 
-We sell products from these affiliates and share information about your purchases with them. On occasion you may receive offers mailed by e-mail or ground mail from our affiliates, or when you call our customer service department, for items that you may enjoy. If you order from us or one of our affiliates, we may share your e-mail address for use in communications concerning your order and to offer other Bradford Group items that might interest you. You consent to this information sharing and to being contacted by other companies in The Bradford Group.
+Please note that our affiliates and divisions may change, and the list above may not be up-to-date. We sell products from our affiliates or their divisions and share information about your purchases with them. On occasion you may receive offers mailed by e-mail or ground mail from our affiliates or their divisions, or when you call our customer service department, for items that you may enjoy. We and our affiliates or their divisions may use information you provide when you order to personalize marketing communications to you. If you order from us or one of our affiliates or their divisions, we may share your e-mail address for use in communications concerning your order and to offer other Bradford Group items that might interest you. You consent to this information sharing and use, and to being contacted by other companies in The Bradford Group.
 
-We and our affiliates also share certain collections of personal information that we regard as non-sensitive with selected third parties, such as mailing list brokers and database marketers. These entities may collect and use the information alone or in combination with customer information supplied by other companies, and share it with other companies for marketing purposes in the form of mailing lists. Our contracts with such third parties prohibit them from using or permitting use of the information we provide to generate reports about specific individuals, and require that they honor our customers' do-not-call, do-not-mail, and do-not-e-mail requests when our information is used. We and our affiliates occasionally do ground mail list exchanges in which we provide mailing lists containing customer names and ground mail addresses to third parties in exchange for mailing lists with such information concerning the other company's customers. From time to time we or our affiliates may use your ground mail address to send you offers that may interest you on behalf of third parties. If you respond to a third party offer you receive from us or from a company that has used a mailing list generated from our customer information, you will become that business's customer and the personal information you voluntarily submit to it will be subject to that company's privacy policy, not ours.
+We and our affiliates or their divisions also share certain collections of personal information that we regard as non-sensitive with selected third parties, such as mailing list brokers and database marketers. These entities may collect and use the information alone or in combination with customer information supplied by other companies, and share it with other companies for marketing purposes in the form of mailing lists. Our contracts with such third parties prohibit them from using or permitting use of the information we provide to generate reports about specific individuals, and require that they honor our customers' do-not-call, do-not-mail, and do-not-e-mail requests when our information is used. We and our affiliates or their divisions occasionally do ground mail list exchanges in which we provide mailing lists containing customer names and ground mail addresses to third parties in exchange for mailing lists with such information concerning the other company's customers. From time to time we or our affiliates or their divisions may use your ground mail address to send you offers that may interest you on behalf of third parties. If you respond to a third party offer you receive from us or from a company that has used a mailing list generated from our customer information, you will become that business's customer and the personal information you voluntarily submit to it will be subject to that company's privacy policy, not ours.
 
 We do not exchange or share our customer e-mail addresses with third parties for marketing or promotional purposes.
 
-If you object to our sharing information about you as a customer with these affiliated and non-affiliated companies, or if you prefer not to receive ground mail from us or other companies, you may use the [Contact Us](http://www.bradfordexchange.com/service_contact-us.html) feature on our site, or phone us at 1-866-907-3607 to tell us about your preferences. 
+If you object to our sharing information about you as a customer with these affiliated and non-affiliated companies or divisions, or if you prefer not to receive ground mail from us or other companies, you may use the [Contact Us](http://www.bradfordexchange.com/service_contact-us.html) feature on our site, or phone us at 1-866-907-3607 to tell us about your preferences.
 
 Even if you opt out from information sharing generally, we must share information about your individual orders with the sister corporation that packs, ships and bills your purchases, and with outside companies on a confidential basis as needed to obtain approval to charge your credit card, to verify your address, and to deliver your orders. 
 
