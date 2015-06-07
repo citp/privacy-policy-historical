@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awamipolitics.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009103315id_/http%3A//www.awamipolitics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awamipolitics.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607210607id_/http%3A//www.awamipolitics.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY |
 
@@ -6,7 +6,7 @@
 
 Awamipolitics is a news-based political web. It believes in delivering updated news and political affairs to its visitors around the world aiming that they should be well-informed of the real issues hitting the environment. We welcome our visitors and subscribers giving great importance believing to secure all the information by our visitors hundred per cent guaranteed!
 
-  **1\. Safeguard Personal Info**
+**1\. Safeguard Personal Info**
 
 Awamipolitics has a deep faith to safeguard your personal information as mentioned above. Whenever you provide such information, we are legally obliged to use your information in line with all laws concerning the protection of personal information.
 
