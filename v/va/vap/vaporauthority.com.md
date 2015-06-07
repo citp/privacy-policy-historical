@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vaporauthority.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127210432id_/http%3A//vaporauthority.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaporauthority.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607170800id_/http%3A//www.vaporauthority.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Meta Tag Manager Test
+# Privacy Policy
 
 **Privacy Policy**
 
