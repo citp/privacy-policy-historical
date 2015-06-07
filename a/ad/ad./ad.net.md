@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ad.net privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208045607id_/http%3A//ad.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ad.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607134505id_/http%3A//ad.net/privacypolicy.php) for the most accurate reproduction.*
 
 # Ad.net
 
@@ -26,7 +26,7 @@ To Change and/or Modify Information We allow our customers to change and modify 
 **Cookies**  
 To enhance the performance of certain services within our Web Site we use cookies. Cookies, by themselves, do not tell us your personally identifiable information. However, once you choose to furnish the Web Site with personally identifiable information, this information may be linked to the data stored in the cookie. We use cookies to understand site usage and to improve the offerings on our Web Site. Cookies placed on your computer by third parties by or through the Web Site, if any, are not the responsibility of the Company and are not subject to this Privacy Policy. Please contact the third party placing these cookies to find out what information is collected and how it is used. You can usually edit your browser not to accept cookies, but the features of our Web Site may not function properly if you do accept cookies. 
 
-Ad.Net utilizes AppNexus as an ad server.  To opt out of the Platform selecting ads for your browser based on your online web browsing behavior and cookies, please follow this link and follow the instructions:  http://www.appnexus.com/platform-policy#choices 
+Ad.Net utilizes AppNexus as an ad server.  To opt out of the Platform selecting ads for your browser based on your online web browsing behavior and cookies, please follow this link and follow the instructions:  [ http://www.appnexus.com/platform-policy#choices ](http://www.appnexus.com/platform-policy#choices)
 
 **Contact**  
 If you have any questions about this Privacy Policy, the practices of the Web Site or your dealings with the Web Site, you can contact us by e-mail at: [Contact Us](https://web.archive.org/aboutus/contactus.php). 
