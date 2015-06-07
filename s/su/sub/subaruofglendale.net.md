@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the subaruofglendale.net privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102013640id_/http%3A//www.subaruofglendale.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subaruofglendale.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022506id_/http%3A//www.subaruofglendale.net/privacy.htm) for the most accurate reproduction.*
 
-# Subaru of Glendale | Vehicles for sale in Glendale, CA 91204
+# Subaru of Glendale | New Subaru dealership in Glendale, CA 91204
 
 Our dealership takes your privacy seriously and is committed to safeguarding your privacy online. Because we do gather certain types of information from visitors to our sites, we have developed a privacy statement to help you understand the terms and conditions surrounding the collection and use of that information. This statement discloses the types of information we gather, how it is used, and how you can gain access to and edit any data that we've collected about you at any time.
 
