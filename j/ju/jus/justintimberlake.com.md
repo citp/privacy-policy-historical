@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justintimberlake.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121100559id_/http%3A//justintimberlake.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justintimberlake.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200657id_/http%3A//justintimberlake.com/privacy) for the most accurate reproduction.*
 
 # Home : Justin Timberlake
 
