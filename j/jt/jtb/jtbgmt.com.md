@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jtbgmt.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224081953id_/http%3A//www.jtbgmt.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jtbgmt.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607172405id_/http%3A//www.jtbgmt.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | JTB Global Marketing & Travel
+# Privacy Policy - Leading Japan Tours and Travel Management | JTBGMT
 
 In accordance with the Personal Information Protection Act and JTB Global Marketing & Travel Personal Information Protection Policy, JTB Global Marketing & Travel (below, JTBGMT) handles and works to protect the personal information of customers as follows.
 
