@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opas.com privacy policy that was archived on 2013-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130916234010id_/http%3A//www.opas.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opas.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608004755id_/http%3A//www.opas.com/privacy-policy.php) for the most accurate reproduction.*
 
 # International Mail Forwarding - US and Japan Locations - Personal Shoppers Available | OPAS
 
