@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventbee.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629140044id_/http%3A//www.eventbee.com/main/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventbee.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607230350id_/http%3A//www.eventbee.com/main/privacystatement) for the most accurate reproduction.*
 
 # Eventbee - Your Online Registration, Event Ticketing And Event Promotion Solution
 
