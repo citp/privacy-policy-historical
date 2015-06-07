@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intmath.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702020613id_/http%3A//www.intmath.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intmath.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607232019id_/http%3A//www.intmath.com/help/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -66,7 +66,7 @@ Throughout IntMath and squareCircleZ there are links to other sites, including s
 
 ## Server hosting company's Privacy Policy 
 
-IntMath is hosted on WiredTree servers in Chicago, USA. We strictly abide by their [Terms of Service](http://www.wiredtree.com/legal/tos.php) statement on Spam, which says in part:
+IntMath is hosted on WiredTree servers in Chicago, USA. We strictly abide by their [Terms of Service](https://www.wiredtree.com/legal/tos.php) statement on Spam, which says in part:
 
 > ### SPAM and Unsolicited Commercial Email (UCE)
 > 
@@ -74,9 +74,7 @@ IntMath is hosted on WiredTree servers in Chicago, USA. We strictly abide by the
 
 ## Questions or Concerns
 
-Please use the [Comments](https://web.archive.org/web/20140702020613id_/http%3A//www.intmath.com/help/comments.php) facility to raise any concerns you may have about your privacy on Interactive Mathematics.
-
-Didn't find what you are looking for on this page? Try **search** :
+Please use the [Comments](https://web.archive.org/web/20150607232019id_/http%3A//www.intmath.com/help/comments.php) facility to raise any concerns you may have about your privacy on Interactive Mathematics.
 
 ### Online Algebra Solver
 
@@ -84,20 +82,12 @@ This algebra solver can solve a wide range of math problems. (Please be patient 
 
 Go to: [Online algebra solver](https://web.archive.org/help/problem-solver.php)
 
-### Ready for a break?
-
-Play a [math game](http://www.intmath.com/games/games.php?a=3).
-
-(Well, not really a math game, but each game was made using math...)
-
-### The IntMath Newsletter
-
-Sign up for the free **IntMath Newsletter**. Get math study tips, information, news and updates each fortnight. Join thousands of satisfied students, teachers and parents!
-
-### Share IntMath!
-
 ### Math Lessons on DVD
 
 Easy to understand math lessons on DVD. See samples before you commit.
 
 More info: [Math videos](http://www.intmath.com/help/math-videos/?topic=math)
+
+### The IntMath Newsletter
+
+Sign up for the free **IntMath Newsletter**. Get math study tips, information, news and updates each fortnight. Join thousands of satisfied students, teachers and parents!
