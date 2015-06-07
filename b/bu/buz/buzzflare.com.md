@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buzzflare.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228125907id_/http%3A//buzzflare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzflare.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144228id_/http%3A//buzzflare.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | {BUZZ} FLARE
 
 Privacy Policy for BUZZ Flare.
 
@@ -17,6 +17,3 @@ DoubleClick DART cookies We also may use DART cookies for ad serving through Goo
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, it can affect your ability to interact with our site as well as other websites and it may include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless, you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
-
-  
-
