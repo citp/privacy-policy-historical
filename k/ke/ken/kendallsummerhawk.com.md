@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kendallsummerhawk.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227041857id_/http%3A//www.kendallsummerhawk.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kendallsummerhawk.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607034710id_/http%3A//www.kendallsummerhawk.com/privacy.html) for the most accurate reproduction.*
 
 # KendallSummerHawk.com
 
