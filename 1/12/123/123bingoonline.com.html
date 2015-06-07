@@ -1,7 +1,61 @@
-<!--The following is the downloaded HTML source of the 123bingoonline.com privacy policy that was archived on 2014-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629174214id_/http%3A//www.123bingoonline.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 123bingoonline.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607130654id_/http%3A//www.123bingoonline.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" prefix="fb: http://www.facebook.com/2008/fbml"><head>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://static.dudamobile.com/DM_redirect.js" type="text/javascript"></script>
+	<script type="text/javascript">DM_redirect("http://m.123bingoonline.com");</script>
+<!--fb coding start-->
+<script>
+        window.fbAsyncInit = function() {
+          FB.init({
+            appId      : '164684483309',
+			channelUrl : '//http://p5.123bingoonline.com/lobby/channel.html',
+			status     : true, 
+            cookie     : true,
+            xfbml      : true,
+            oauth      : true
+          });
+        };
+        (function(d){
+           var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+           js = d.createElement('script'); js.id = id; js.async = true;
+           js.src = "//connect.facebook.net/en_US/all.js";
+           d.getElementsByTagName('head')[0].appendChild(js);
+         }(document));
+
+       //LOGIN FUNCTION 
+       function login() {
+        FB.login(function(response) {
+            if (response.authResponse) {
+                window.location.href = "http://p5.123bingoonline.com/lobby/fb";
+            }else{
+                
+            }
+        }, {scope: 'email'});
+     }
+	 
+	 
+	function fbclick() {
+		//alert('here');
+		FB.getLoginStatus(function(response) {
+				login();
+		}, true);
+	}
+		 
+</script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script>
+
+<style type="text/css">
+#overlap {
+	position:absolute;
+	width:419px;
+	height:318px;
+	z-index:1;
+	top: -310px;
+	left: 5px;
+}
+</style>
+<!--fb coding ends-->
+    
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
             
     
@@ -15,14 +69,128 @@
         
     <title>123 Bingo Online Privacy Policy  </title>
     
-    <link rel="canonical" href="http://www.123bingoonline.com/privacy-policy.php">
+    		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/www.123bingoonline.com\/wordpress\/wp-includes\/js\/wp-emoji.js?ver=4.2.2","twemoji":"http:\/\/www.123bingoonline.com\/wordpress\/wp-includes\/js\/twemoji.js?ver=4.2.2"}};
+			( function( window, document, settings ) {
+	var src, ready;
+
+	/**
+	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
+	 * made of two characters, so some browsers (notably, Firefox OS X) don't support them.
+	 *
+	 * @since 4.2.0
+	 *
+	 * @param type {String} Whether to test for support of "simple" or "flag" emoji.
+	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
+	 */
+	function browserSupportsEmoji( type ) {
+		var canvas = document.createElement( 'canvas' ),
+			context = canvas.getContext && canvas.getContext( '2d' );
+
+		if ( ! context || ! context.fillText ) {
+			return false;
+		}
+
+		/*
+		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
+		 * it doesn't work when the font is bolder than 500 weight. So, we
+		 * check for bold rendering support to avoid invisible emoji in Chrome.
+		 */
+		context.textBaseline = 'top';
+		context.font = '600 32px Arial';
+
+		if ( type === 'flag' ) {
+			/*
+			 * This works because the image will be one of three things:
+			 * - Two empty squares, if the browser doesn't render emoji
+			 * - Two squares with 'G' and 'B' in them, if the browser doesn't render flag emoji
+			 * - The British flag
+			 *
+			 * The first two will encode to small images (1-2KB data URLs), the third will encode
+			 * to a larger image (4-5KB data URL).
+			 */
+			context.fillText( String.fromCharCode( 55356, 56812, 55356, 56807 ), 0, 0 );
+			return canvas.toDataURL().length > 3000;
+		} else {
+			/*
+			 * This creates a smiling emoji, and checks to see if there is any image data in the
+			 * center pixel. In browsers that don't support emoji, the character will be rendered
+			 * as an empty square, so the center pixel will be blank.
+			 */
+			context.fillText( String.fromCharCode( 55357, 56835 ), 0, 0 );
+			return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+		}
+	}
+
+	function addScript( src ) {
+		var script = document.createElement( 'script' );
+
+		script.src = src;
+		script.type = 'text/javascript';
+		document.getElementsByTagName( 'head' )[0].appendChild( script );
+	}
+
+	settings.supports = {
+		simple: browserSupportsEmoji( 'simple' ),
+		flag:   browserSupportsEmoji( 'flag' )
+	};
+
+	settings.DOMReady = false;
+	settings.readyCallback = function() {
+		settings.DOMReady = true;
+	};
+
+	if ( ! settings.supports.simple || ! settings.supports.flag ) {
+		ready = function() {
+			settings.readyCallback();
+		};
+
+		if ( document.addEventListener ) {
+			document.addEventListener( 'DOMContentLoaded', ready, false );
+			window.addEventListener( 'load', ready, false );
+		} else {
+			window.attachEvent( 'onload', ready );
+			document.attachEvent( 'onreadystatechange', function() {
+				if ( 'complete' === document.readyState ) {
+					settings.readyCallback();
+				}
+			} );
+		}
+
+		src = settings.source || {};
+
+		if ( src.concatemoji ) {
+			addScript( src.concatemoji );
+		} else if ( src.wpemoji && src.twemoji ) {
+			addScript( src.twemoji );
+			addScript( src.wpemoji );
+		}
+	}
+
+} )( window, document, window._wpemojiSettings );
+		</script><script src="http://www.123bingoonline.com/wordpress/wp-includes/js/twemoji.js?ver=4.2.2" type="text/javascript"></script><script src="http://www.123bingoonline.com/wordpress/wp-includes/js/wp-emoji.js?ver=4.2.2" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="canonical" href="http://www.123bingoonline.com/privacy-policy.php">
 <!-- HeadSpace SEO 3.6.41 by John Godley - urbangiraffe.com -->
 <meta name="description" content="At 123bingoonline, we are committed to the highest levels of data protection and security procedures for all of our bingo members. Join safe and secure bingo rooms Now!!!">
 <meta name="keywords" content="123 bingo privacy policy, bino group, group of bingo games, join bingo group">
 <!-- HeadSpace -->
 
 <!-- WP-SWFObject 2.4 by unijimpe -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script src="http://www.123bingoonline.com/wordpress/wp-content/plugins/wp-swfobject/2.0/swfobject.js" type="text/javascript"></script>
+<script src="http://www.123bingoonline.com/wordpress/wp-content/plugins/wp-swfobject/2.0/swfobject.js" type="text/javascript"></script>
     
     <script type="text/javascript">
       function test(){        
@@ -84,8 +252,10 @@ function checkVersion()
 }
 </script>
 <script async="" type="text/javascript" src="//123bingoonline.disqus.com/count.js"></script></head>
-<body onload="test();" class="nl-body">
-
+<body onload="checkVersion();test()" class="nl-body">
+<!--fb coding starts-->
+<div id="fb-root"></div>
+<!--fb coding ends-->
 <div class="ie-upgrade" id="ie-upgrade" style="display:none">
 	<div class="ie-up-sec">
 		<div class="ie-up-logo"><img src="/images/ie-updrade.jpg" alt="ie-updrade.jpg"></div>
@@ -116,7 +286,7 @@ function checkVersion()
 	
 <div>
     <a href="/" class="nl-logo" title="123BingoOnline.com">
-	    <img src="/images/logo.png" alt="logo.png">
+	    <img src="/images/logo.png" alt="123 Bingo Online">
     </a>
 </div>
     
@@ -124,17 +294,17 @@ function checkVersion()
     <div class="nl-header-icon-sec">
       <div class="nl-icon-box"><strong>Latest Winner</strong><br>
 		
-pebbysAbrat      </div>
+mallet64      </div>
     </div>
     
     <div class="nl-header-icon-sec">
       <div class="nl-icon-box"><strong>Total Registered Players</strong><br>
-		2,913,082      </div>
+		3,406,727      </div>
     </div>
     
     <div class="nl-header-icon-sec">
       <div class="nl-icon-box"><strong>Players Online</strong><br>
-		1,277      </div>
+		1,254      </div>
     </div>
     <div class="nl-clear"></div>
 </div>
@@ -152,17 +322,17 @@ pebbysAbrat      </div>
       <div class="nl-float">
        	  <div class="nl-uname"><input type="text" id="user_name" name="user_name" value="" maxlength="15" tabindex="1">
           <span onclick="user_name.value=''" class="nl-clear-text">&nbsp;&nbsp;&nbsp;</span></div>
-          <a href="http://p5.123bingoonline.com/lobby/members/forgot_password">Forgot ID/Password?</a>
+          <a href="http://p5.123bingoonline.com/lobby/members/forgot_password">Forgot ID/Password?</a>&nbsp;&nbsp;<a href="http://p5.123bingoonline.com/lobby/register">Join Now</a> 
       	</div>
         <div class="nl-floatR">
        	  <div class="nl-pwd">
-          	<input type="password" id="password" name="password" value="" maxlength="16" tabindex="2">
+          	<input type="password" id="password" name="password" value="" maxlength="25" tabindex="2">
           	<input type="submit" value="" name="login" id="login" tabindex="3" class="nl-submit">
             <span onclick="password.value=''" class="nl-clear-text">&nbsp;&nbsp;&nbsp;</span>
             
             <div class="nl-clear"></div>
        	  </div>
-          	<a href="http://p5.123bingoonline.com/lobby/register">Join Now</a> 
+          	<div style="padding-top: 3px; float:right;"><a onclick="fbclick();" style="cursor:pointer"><img src="/images/fb_login.PNG" alt="Facebook Login"></a></div>
       	</div>
         <div class="nl-clear"></div>
 		<div class="nl-rememberme"><input name="remember_me" id="remember_me" type="checkbox"> Remember me</div>
@@ -190,7 +360,7 @@ pebbysAbrat      </div>
     <li class="nl-navsep"></li>
     <li><a href="/bingo-promotions.php">Promotions</a></li>
     <li class="nl-navsep"></li>
-    <li><a href="/reward-point.php">Reward</a></li>
+    <li><a href="/vip-program.php">VIP</a></li>
     <li class="nl-navsep"></li>
     <li><a href="/slots/">Slots</a></li>
     <li class="nl-navsep"></li>
@@ -208,7 +378,7 @@ pebbysAbrat      </div>
   
     <h1>123 Bingo Online Privacy Policy</h1>
 <h2>Collection and Use of Information.</h2>
-<p>123Bingoonline is the exclusive and sole owner of all the information collected through various points of the site. We don’t sell, share or divulge this information to others under any circumstances. 123Bingoonline and its employees adhere strictly to this policy.</p>
+<p>123Bingoonline is the exclusive and sole owner of all the information collected through various points of the site. We don't sell, share or divulge this information to others under any circumstances. 123Bingoonline and its employees adhere strictly to this policy.</p>
 
 <h2>Registration</h2>
 <p>In order to play the games offered at our site, you need to register with us. During the registration process, you must provide contact information such as your full name, email address, etc. as requested.</p>
@@ -227,7 +397,7 @@ pebbysAbrat      </div>
 <p>All users have the ability to opt-in via email for important information regarding our site. All users who register at our site have the option to opt in or out while they are completing the registration form. We advise users to opt in as some information may be very important to the user. If existing users wish to revert from opt-in to opt-out, they can contact our Customer Service Team or click the link given at the bottom of email.</p>
 
 <h2>Security.</h2>
-<p>We have taken every precaution to protect our user’s information on our website. When users submit sensitive information via our website, that information is protected both online and off-line. The information that you fill in the registration/order form, such as your credit card number and/or social security number, is protected with the best encryption software in the industry – SSL.</p>
+<p>We have taken every precaution to protect our user's information on our website. When users submit sensitive information via our website, that information is protected both online and off-line. The information that you fill in the registration/order form, such as your credit card number and/or social security number, is protected with the best encryption software in the industry - SSL.</p>
 <p>Only the employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices.</p>
 <p>Finally, the servers that we store personally identifiable information on are kept in a secure environment.</p>
 
@@ -236,118 +406,114 @@ pebbysAbrat      </div>
 </div><!--end:content-->
 
 <div id="sidebar" class="nl-sidebar">
-<div id="join" class="nl-join btn-hover">
-<a href="http://p5.123bingoonline.com/lobby/register" title="Join Now 123bingoonline - North America's Favorite online bingo site" class="nl-join-now-btn"><span style="opacity: 0;"></span></a>
+	<div id="join" class="nl-join btn-hover">
+		<a href="http://p5.123bingoonline.com/lobby/register" title="Join Now 123bingoonline - North America's Favorite online bingo site" class="nl-join-now-btn"><span style="opacity: 0;"></span></a>
+	</div>
+
+	<!--promobox-new starts-->
+	<div class="new-promo-box">
+		<div class="new-promo-box-top"></div>
+
+		<div class="new-promo-box-middle">
+			<!--Banner logic starts here -->
+			<div class="nl-nevo-slider"> 
+				<div class="slider-wrapper theme-default">
+
+					<div id="slider" class="nivoSlider">
+						<a href="http://p5.123bingoonline.com/lobby/register" class="nivo-imageLink" style="display: block;"><img src="/images/promobox/promobox-img8.png" alt="MEGA PROGRESSIVE JACKPOTS WIN UP TO" title="#banner1" style="display: none;"></a>
+						<a href="http://p5.123bingoonline.com/lobby/register" class="nivo-imageLink" style="display: none;"><img src="/images/promobox/promobox-img9.png" alt="BECOME A BIG SHOT" title="#banner2" style="display: none;"></a>
+						<a href="http://p5.123bingoonline.com/lobby/register" class="nivo-imageLink" style="display: none;"><img src="/images/promobox/promobox-img10.png" alt="Bingo and Slots TOURNAMENTS" title="#banner3" style="display: none;"></a>
+						<a href="http://p5.123bingoonline.com/lobby/register" class="nivo-imageLink" style="display: none;"><img src="/images/promobox/promobox-img11.png" alt="DAILY RAFFLES Get More on Your Deposits" title="#banner4" style="display: none;"></a>
+						<a href="https://www.facebook.com/123bingogames" class="nivo-imageLink" style="display: none;"><img src="/images/promobox/promobox-img12.png" alt="America's Biggest Bingo Community!" title="#banner5" style="display: none;"></a>
+					<img class="nivo-main-image" src="/images/promobox/promobox-img8.png"><div class="nivo-caption">
+						<div class="nivo-heading">Biggest Jackpots Ever!</div> 
+						<p>Play our Bingo and Slots for the easiest odds to win our Progressive Jackpots of up to $20,000! <a href="http://www.123bingoonline.com/bingobounty.php">View All</a></p>
+					</div><div class="nivo-directionNav"><a class="nivo-prevNav">Prev</a><a class="nivo-nextNav">Next</a></div></div><div class="nivo-controlNav"><a class="nivo-control active" rel="0">1</a><a class="nivo-control" rel="1">2</a><a class="nivo-control" rel="2">3</a><a class="nivo-control" rel="3">4</a><a class="nivo-control" rel="4">5</a></div>
+
+					<!--<a href="http://www.123bingoonline.com/bingo-promotions.php" class="vall">View All</a>-->
+
+					<div id="banner1" class="nivo-html-caption">
+						<div class="nivo-heading">Biggest Jackpots Ever!</div> 
+						<p>Play our Bingo and Slots for the easiest odds to win our Progressive Jackpots of up to $20,000! <a href="http://www.123bingoonline.com/bingobounty.php">View All</a></p>
+					</div>
+
+					<div id="banner2" class="nivo-html-caption">
+						<div class="nivo-heading">You are always a VIP at 123BingoOnline!</div> 
+						<p>Get the Bigger Bonuses, Cash-Backs, entries to VIP only Tournaments, Gifts and much more along with a personal VIP Manager at your service. <a href="http://www.123bingoonline.com/deposit-special.php">View All</a></p> 
+					</div>
+
+					<div id="banner3" class="nivo-html-caption">
+						<div class="nivo-heading">Tournaments &amp; more Tournaments!</div> 
+						<p>Play our weekly and monthly Bingo and Slots tournaments with thousands of dollars as prizes. Enter our tournaments today! <a href="http://www.123bingoonline.com/tournaments">View All</a></p>
+					</div>
+					
+                    <div id="banner4" class="nivo-html-caption">
+						<div class="nivo-heading">Get more on your deposits!</div> 
+						<p>Get bonuses, cash-backs and entries into Daily Raffle and win awesome rewards every day! <a href="http://www.123bingoonline.com/raffle.php">View All</a></p>
+					</div>
+
+					<div id="banner5" class="nivo-html-caption">
+						<div class="nivo-heading">Get Social with 123Bingo on Facebook!</div> 
+						<p>Join America's biggest bingo community on 123Bingo Facebook page. Participate in competitions &amp; win gifts. There are free chips, bonus deals and some spicy gossip to share! <a href="https://www.facebook.com/123bingogames">View All</a></p> 
+					</div>
+				</div>
+			</div>
+			<!--Banner logic ends here -->
+		</div>
+		<div class="new-promo-box-bottom"></div>
+	</div>
+	<!--promobox-new ends-->
+    
+	<div class="nl-sepH"></div>
+
+	<div class="nl-social-connect">
+		<div class="nl-left-icon btn-hover">
+			<div class="heading">Social Connect</div>
+			<div class="nl-iconbox">
+				<a href="https://www.facebook.com/123bingogames" title="Find us on Facebook" target="_blank" rel="nofollow" class="nl-ficon"><span style="opacity: 0;"></span></a>
+				<div class="nl-sep-connect"></div>
+				<a href="https://twitter.com/123_bingoonline" title="Follow us on Twitter" target="_blank" rel="nofollow" class="nl-twicon"><span style="opacity: 0;"></span></a>
+				<div class="nl-sep-connect"></div>
+				<script src="//apis.google.com/js/plusone.js" type="text/javascript"></script>
+				<div class="nl-gplusone-connect">
+					<script type="text/javascript">
+					//<![CDATA[
+					document.write('<g:plusone size="medium" href=""></g:plusone>');
+					//]]>
+					</script><g:plusone size="medium" href=""></g:plusone>
+				</div>
+				<div class="nl-sep-connect-youtube"></div>
+				<a href="https://www.youtube.com/channel/UCTJXNbafTl_-rviI3e4qMdw" title="Find us on YouTube" target="_blank" rel="nofollow" class="nl-yticon"><span style="opacity: 0;"></span></a>
+				<div class="nl-clear"></div>  
+			</div>
+		</div>
+		<div class="nl-like-send">
+		<script type="text/javascript">
+		//-- Facebook Like --
+		try{(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));}catch(err){
+		}
+		</script>
+		<div id="fb-root"></div>
+		<div class="fb-like" data-href="https://www.facebook.com/123bingogames" data-send="false" data-layout="box_count" data-width="51" data-show-faces="true" data-font="arial"></div>
+	</div>
+	<div class="nl-clear"></div>
 </div>
 
-<!--promobox starts-->
-<div class="new-promo-box">
-   	  <div class="new-promo-box-top"></div>
-      <div class="new-promo-box-middle">
-      	<div class="nl-nevo-slider">
- 
-        <div class="slider-wrapper theme-default">
-            <div id="slider" class="nivoSlider">
-              <a href="http://p5.123bingoonline.com/lobby/register" class="nivo-imageLink" style="display: block;">
-              	<img src="/images/promobox/promobox-img1.jpg" alt="123bingo Social" title="#banner1" style="display: none;">
-              </a>
-              <a href="http://www.123bingoonline.com/bingo-basket.php" class="nivo-imageLink" style="display: none;">
-              	<img src="/images/promobox/promobox-img2.jpg" alt="$5,000 Cover All's Galore!" title="#banner2" style="display: none;">
-              </a>
-              <a href="http://www.123bingoonline.com/casinovault.php" class="nivo-imageLink" style="display: none;">
-              	<img src="/images/promobox/promobox-img3.jpg" alt="$75,000 Slots Fest!" title="#banner3" style="display: none;">
-              </a>
-              <a href="http://www.123bingoonline.com/raffle.php" class="nivo-imageLink" style="display: none;">
-              	<img src="/images/promobox/promobox-img4.jpg" alt="$25,000 MEGA RAFFLE!" title="#banner4" style="display: none;">
-              </a>
-              <a href="http://www.123bingoonline.com/deposit-special.php" class="nivo-imageLink" style="display: none;">
-              	<img src="/images/promobox/promobox-img5.jpg" alt="A Trail of Gifts!" title="#banner5" style="display: none;">
-              </a>
-          <img class="nivo-main-image" src="/images/promobox/promobox-img1.jpg"><div class="nivo-caption">
-               <div class="nivo-heading">Your Wall on 123bingoonline is up and ready</div> 
-               <p>123bingoonline Social - You, Bingo, Friends and a surprise Gift Every Day!... </p> 
-            </div><div class="nivo-directionNav"><a class="nivo-prevNav">Prev</a><a class="nivo-nextNav">Next</a></div></div><div class="nivo-controlNav"><a class="nivo-control active" rel="0">1</a><a class="nivo-control" rel="1">2</a><a class="nivo-control" rel="2">3</a><a class="nivo-control" rel="3">4</a><a class="nivo-control" rel="4">5</a></div>
-            <a href="http://www.123bingoonline.com/bingo-promotions.php" class="vall">View All</a>
-            
-            <div id="banner1" class="nivo-html-caption">
-               <div class="nivo-heading">Your Wall on 123bingoonline is up and ready</div> 
-               <p>123bingoonline Social - You, Bingo, Friends and a surprise Gift Every Day!... </p> 
-            </div>
-            
-            <div id="banner2" class="nivo-html-caption">
-                <div class="nivo-heading">$5,000 Cover All's Galore!</div> 
-                <p>Cover All games are playing every day with up to $5,000 CASH!... </p> 
-            </div>
-            
-            <div id="banner3" class="nivo-html-caption">
-               <div class="nivo-heading">$75,000 Slots Fest!</div> 
-               <p>Win $15,000 on your favorite slots every week... </p> 
-             </div>
-            <div id="banner4" class="nivo-html-caption">
-                <div class="nivo-heading">$25,000 MEGA RAFFLE!</div> 
-                <p>$67,000 CASH is waiting to won between 120 players in Daily Raffles and Mega Cash Raffle!... </p> 
-           </div>
-           
-            <div id="banner5" class="nivo-html-caption">
-                <div class="nivo-heading">A Trail of Gifts!</div> 
-                <p>Win Home Theaters, LCD TV's Cell Phones, GPS Navigators or Gifts Cards! Check out our deposit specials....</p> 
-           </div>
-        </div>
-
-    </div>
-      </div>
-      <div class="new-promo-box-bottom"></div>
-    </div>
-    <!--promobox ends-->
-
 <div class="nl-sepH"></div>
+
 <div><img src="/images/why-play.png" style="border:none" alt="$25 free on sign up"></div>
 <div class="nl-sepH"></div> 
 <div class="opacity-hover"><a onclick="javascript:window.open('http://server.iad.liveperson.net/hc/77067483/?cmd=file&amp;file=visitorWantsToChat&amp;site=77067483&amp;SESSIONVAR!skill=123Bingo-Support&amp;byhref=1&amp;referrer='+escape(document.location),'chat77067483','width=475,height=400');return false;" href="http://server.iad.liveperson.net/hc/77067483/?cmd=file&amp;file=visitorWantsToChat&amp;site=77067483&amp;byhref=1&amp;SESSIONVAR!skill=123Bingo-Support" target="chat77067483" style="text-decoration: none; opacity: 1;" rel="nofollow"><img src="/images/any-ques.png" style="border:none" alt="Any Question or Query?"></a></div>   
- 
- <div class="nl-sepH"></div> 
 
- <div class="nl-social-connect">
- 	<div class="nl-left-icon btn-hover">
-    	<div class="heading">Social Connect</div>
-        <div class="nl-iconbox">
-            <a href="https://www.facebook.com/123bingogames" title="Find us on Facebook" target="_blank" rel="nofollow" class="nl-ficon"><span style="opacity: 0;"></span></a>
-            <div class="nl-sep-connect"></div>
-          <a href="https://twitter.com/123_bingoonline" title="Follow us on Twitter" target="_blank" rel="nofollow" class="nl-twicon"><span style="opacity: 0;"></span></a>
-            <div class="nl-sep-connect"></div>
-            <script src="//apis.google.com/js/plusone.js" type="text/javascript"></script>
-          <div class="nl-gplusone-connect">
-             <script type="text/javascript">
-			//<![CDATA[
-			document.write('<g:plusone size="medium" href=""></g:plusone>');
-			//]]>
-			</script><g:plusone size="medium" href=""></g:plusone>
-          </div>
-            <div class="nl-clear"></div>  
-        </div>
- 	</div>
-    <div class="nl-like-send">
-                <script type="text/javascript">
-               //-- Facebook Like --
-                  try{(function(d, s, id) {
-                  var js, fjs = d.getElementsByTagName(s)[0];
-                  if (d.getElementById(id)) return;
-                  js = d.createElement(s); js.id = id;
-                  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-                  fjs.parentNode.insertBefore(js, fjs);
-                  }(document, 'script', 'facebook-jssdk'));}catch(err){
-                  }
-                  </script>
-      	<div id="fb-root"></div>
-    <div class="fb-like" data-href="https://www.facebook.com/123bingogames" data-send="false" data-layout="box_count" data-width="51" data-show-faces="true" data-font="arial"></div>
-    </div>
-	<div class="nl-clear"></div>
- </div>
- 
-<div class="nl-sepH"></div>
+<div class="nl-sepH"></div> 
 
-
-    <div class="nl-testimonials">
+<div class="nl-testimonials">
 	        
 	<div class="heading">Testimonials</div>
 	<div class="nl-testicont-bg">
@@ -357,42 +523,43 @@ pebbysAbrat      </div>
         	</div>
         </div>
 		<div class="nl-testi-conent">
-			<div class="heading"><span id="tst_als">luckylady11</span></div> 
-			<p>i love this site.the players are very helpful and nice and so are the chat host...</p> 
+			<div class="heading"><span id="tst_als">SynfulAngel</span></div> 
+			<p>Dear All, Well this was a surprize to long in this morning and to find 300.00 in m...</p> 
 			<a href="/bingo-testimonials.php">Read More</a> 
 		</div>
 		<div class="nl-clear"></div>
 	</div>
 </div>
-    <div class="nl-sepH"></div> 
+<div class="nl-sepH"></div> 
 
-    <div class="nl-winner-list">
-    	<div class="heading">Winner List</div>
-        <div class="nl-winner-box"><img src="/images/winner-trophy.png" style="border:none" alt="winners" class="nl-floated_img_left">
-      		 
-      		<!--<marquee behavior="scroll" direction="up" scrollamount="2" height="99" width="226" onmouseover="this.stop()" onmouseout="this.start()" />-->
-          	               <!--</marquee>-->
-          <div class="nl-clear"></div>
-        </div>
-    </div>
-    <div class="nl-sepH"></div> 
-    <div class="nl-chat-mod">
+<div class="nl-winner-list">
+	<div class="heading">Winner List</div>
+	<div class="nl-winner-box">
+    	<img src="/images/winner-trophy.png" style="border:none" alt="winners" class="nl-floated_img_left">
+		 
+		<!--<marquee behavior="scroll" direction="up" scrollamount="2" height="99" width="226" onmouseover="this.stop()" onmouseout="this.start()" />-->
+				<!--</marquee>-->
+		<div class="nl-clear"></div>
+	</div>
+</div>
+<div class="nl-sepH"></div> 
+<div class="nl-chat-mod">
 		<div class="heading">Chat Moderators</div>
 	<div class="nl-chatcont-bg">
-		<div class="nl-userimg"><img src="/images/chathosts/female-small.jpg" alt="female-small.jpg" width="62" height="62"></div>
+		<div class="nl-userimg"><img src="/images/chathosts/cm-jackie-small.jpg" alt="cm-jackie-small.jpg" width="62" height="62"></div>
 		<div class="nl-chati-conent">
-			<div class="heading">CH Judy</div> 
-			<p>I like meeting new people, easy to get along with, Reading, horses, bowling, swimming....</p> 
+			<div class="heading">CM Jackie</div> 
+			<p>I was born in the 60's-loved the 70's-dont recall much of the 80's-the 90's were Great! living life to the fulle...</p> 
 			<a href="/bingo-chathosts.php">View More</a> 
 		</div>
 		<div class="nl-clear"></div>
 	</div>
 </div>
-    <div class="nl-sepH"></div>
-    </div>
-    <div class="nl-clear"></div>
-    
-	
+<div class="nl-sepH"></div>
+</div>
+<div class="nl-clear"></div>
+
+
 
 </div><!--end:wrapper-->
 <div class="nl-sepH"></div> 
@@ -410,6 +577,7 @@ pebbysAbrat      </div>
       <a href="/terms-conditions.php">Terms and Conditions</a>|
       <a href="/123bingo-affiliate-program.php">Affiliate Programs</a>|
   	<a href="/bingo-news/">Bingo News</a>|
+    <a href="/bingo-halls/">Bingo Halls</a>|
   	<a href="/sitemap.php">Sitemap</a>
   </div>
  
@@ -434,28 +602,29 @@ pebbysAbrat      </div>
   </div>
   <div class="nl-clear"></div>
 </div><!--end:footer-->
-    <script type="text/javascript">
-    // <![CDATA[
+        <script type="text/javascript">
+        // <![CDATA[
         var disqus_shortname = '123bingoonline';
         (function () {
             var nodes = document.getElementsByTagName('span');
             for (var i = 0, url; i < nodes.length; i++) {
                 if (nodes[i].className.indexOf('dsq-postid') != -1) {
-                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('rel'));
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
                     url = nodes[i].parentNode.href.split('#', 1);
-                    if (url.length == 1) url = url[0];
-                    else url = url[1]
+                    if (url.length == 1) { url = url[0]; }
+                    else { url = url[1]; }
                     nodes[i].parentNode.href = url + '#disqus_thread';
                 }
             }
-            var s = document.createElement('script'); s.async = true;
+            var s = document.createElement('script'); 
+            s.async = true;
             s.type = 'text/javascript';
             s.src = '//' + disqus_shortname + '.disqus.com/count.js';
             (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
         }());
-    //]]>
-    </script>
-</div>
+        // ]]>
+        </script>
+        </div>
 <script type="text/javascript">
 function addBookmark(){ 
 	var title='123Bingoonline';
