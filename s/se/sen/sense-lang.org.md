@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sense-lang.org privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020175007id_/http%3A//www.sense-lang.org//teachers/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sense-lang.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074153id_/http%3A//www.sense-lang.org/teachers/Privacy_Policy.html) for the most accurate reproduction.*
 
 # TERMS OF USE
 
