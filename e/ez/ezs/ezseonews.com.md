@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ezseonews.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115034414id_/http%3A//ezseonews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezseonews.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608005957id_/http%3A//ezseonews.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - ezSEO Newsletter
 
-**– IMPORTANT — PLEASE READ**
+**— IMPORTANT — PLEASE READ**
 
 This Privacy Policy describes the terms of our commitment to your privacy.
 
