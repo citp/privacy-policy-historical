@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realliving.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701132506id_/http%3A//www.realliving.com/pages/about-real-living/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realliving.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607071840id_/http%3A//www.realliving.com/pages/about-real-living/privacypolicy) for the most accurate reproduction.*
 
 # Real Living Real Estate: Privacy Policy | Real Living Real Estate
 
