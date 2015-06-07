@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartertools.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227023802id_/http%3A//www.smartertools.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartertools.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607201220id_/https%3A//smartertools.com/company/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
