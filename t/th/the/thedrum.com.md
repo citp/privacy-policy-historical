@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedrum.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016063750id_/http%3A//www.thedrum.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedrum.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607150356id_/http%3A//www.thedrum.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Drum
 
@@ -45,11 +45,11 @@ Parts of thedrum.com and our billing process (which is transacted via SagePay) a
 
 ### 8 Accessing and updating your personal information
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998 and request us to change/update this information. A small administration fee will be payable. If you would like a copy of the information held on you please write to Marketing Department, Carnyx Group Ltd, Mercat Building, 4th Floor, 26 Gallowgate, Glasgow G1 5AB or email [data@thedrum.com](mailto:data@thedrum.com).
+You may request details of personal information which we hold about you under the Data Protection Act 1998 and request us to change/update this information. A small administration fee will be payable. If you would like a copy of the information held on you please write to Marketing Department, Carnyx Group Ltd, Mercat Building, 4th Floor, 26 Gallowgate, Glasgow G1 5AB or email data@thedrum.com.
 
 ### 9 Questions?
 
-If you have any questions or complaints relating to this Privacy Policy or how we use the personal information we have about you, please write to Marketing Department, Carnyx Group Ltd, Mercat Building, 4th Floor, 26 Gallowgate, Glasgow G1 5AB or email [data@thedrum.com](mailto:data@thedrum.com). We will endeavour to respond to you promptly. 
+If you have any questions or complaints relating to this Privacy Policy or how we use the personal information we have about you, please write to Marketing Department, Carnyx Group Ltd, Mercat Building, 4th Floor, 26 Gallowgate, Glasgow G1 5AB or email data@thedrum.com. We will endeavour to respond to you promptly. 
 
 ## Cookies and how they benefit you
 
@@ -127,7 +127,7 @@ We use cookies to compile anonymous visitor statistics such as how many people h
 
 Cookies are widely used in online advertising. Neither us, advertisers or our advertising partners can gain personally identifiable information from these cookies. 
 
-You can learn more about online advertising at [http://www.youronlinechoices.com](http://www.youronlinechoices.com/) . You can opt-out of almost all advertising cookies at <http://www.youronlinechoices.com/uk/your-ad-choices>. It is worth noting that opting out of advertising cookies will not mean you won't see adverts, just that they won't be tailored to you.
+You can learn more about online advertising at http://www.youronlinechoices.com . You can opt-out of almost all advertising cookies at http://www.youronlinechoices.com/uk/your-ad-choices. It is worth noting that opting out of advertising cookies will not mean you won't see adverts, just that they won't be tailored to you.
 
 Advertising partners include:
 
@@ -174,4 +174,4 @@ If you submit your details via The Drum Website, we may use this information to 
 
 ## Contact
 
-If you have any questions in relation to the above please contact Marketing Department, Carnyx Group Ltd, Mercat Building, 4th Floor, 26 Gallowgate, Glasgow G1 5AB or email [data@thedrum.com](mailto:data@thedrum.com).
+If you have any questions in relation to the above please contact Marketing Department, Carnyx Group Ltd, Mercat Building, 4th Floor, 26 Gallowgate, Glasgow G1 5AB or email data@thedrum.com.
