@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the skilljar.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119232511id_/http%3A//www.skilljar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skilljar.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607154917id_/http%3A//www.skilljar.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Skilljar
 
 ## Privacy Policy
 
-Last Updated: August 31, 2014
+Last Updated: February 23, 2015
 
 Welcome to the website www.skilljar.com (part of the “Site,” as defined in the Membership and Use Agreement) of Everpath Inc. dba Skilljar (“we”, “us” or “our”). This Privacy Policy applies to the Site and Services (as defined in the Membership and Use Agreement) and describes the information that we collect on the Site and how we use it, how we protect it and the choices you can make about your information with respect to users.
 
@@ -29,13 +29,6 @@ We collect the following types of information in the manner described below.
 
 
 
-### User Content and Monitoring
-
-  1. User Content. A user may submit comments or other content which are visible to the other users and may be publicly available. Before submitting content, please read the Terms carefully. You should be comfortable with the information you choose to provide. We make no representations and undertake no obligations as to the information you voluntarily provide when submitting content.
-  2. Monitoring. We reserve the right, but have no obligation, to monitor comments or other content that you voluntarily disclose and post to the Site. We reserve the right to remove any such content for any reason or no reason, including without limitation, if in our sole opinion it violates, or may violate, any applicable law or guidance, this Privacy Policy or the Terms. We also reserve the right to remove content upon the request of any third party.
-
-
-
 ### How We Use Your Information
 
 We use the information that we collect for the following purposes, including:
@@ -43,8 +36,6 @@ We use the information that we collect for the following purposes, including:
   * The purposes for which you provided it;
   * To administer and provide you with information about your account;
   * To send you information about your relationship with us;
-  * To contact you with information, including promotional information and recommendations, that we believe will be of interest to you;
-  * Advertisements;
   * To develop new services;
   * To process and respond to your inquiries and comments;
   * To personalize and enhance your experience using the Site and Services;
@@ -60,20 +51,18 @@ We use the information that we collect for the following purposes, including:
 
 Information may be disclosed to third parties in accordance with our Privacy Policy. Please note that a user may choose not to share certain information as described in Your Choices Regarding Your Information below.
 
-  1. Third Party Service Providers and Business Partners. We may use third party service providers and business partners to perform functions in connection with the Site and Services. Examples include functions related to signing up for our email lists and for posting user comments and conversations. We may share information about you that they need to perform their functions.
-  2. Third Parties for Their Direct Marketing and Other Promotional Purposes. We may share your information with third parties, including our business partners, for their direct marketing and other promotional purposes.
-  3. Business Changes. If we become involved in a merger, acquisition, sale of assets, bankruptcy, reorganization, dissolution, or other transaction or if the ownership of all or substantially all of our business otherwise changes, we may transfer your information to a third party or parties in connection therewith.
-  4. Affiliates. We may also share your information with our affiliates for purposes consistent with this Privacy Policy. Our affiliates will be required to maintain that information in accordance with this Privacy Policy.
-  5. Investigations and Law. We reserve the right to investigate fraud and abuse on the Site and Services and enforce and apply the Terms. We may disclose information about you to third parties if we have a good faith belief that such disclosure is reasonably necessary to: 
+  1. Third Party Service Providers and Business Partners. We may use third party service providers and business partners to perform functions in connection with the Site and Services. Examples include account management ticketing and sending you notifications of key platform improvements via email. We may share information about you that they need to perform their functions.
+  2. Business Changes. If we become involved in a merger, acquisition, sale of assets, bankruptcy, reorganization, dissolution, or other transaction or if the ownership of all or substantially all of our business otherwise changes, we may transfer your information to a third party or parties in connection therewith.
+  3. Affiliates. We may also share your information with our affiliates for purposes consistent with this Privacy Policy. Our affiliates will be required to maintain that information in accordance with this Privacy Policy.
+  4. Investigations and Law. We reserve the right to investigate fraud and abuse on the Site and Services and enforce and apply the Terms. We may disclose information about you to third parties if we have a good faith belief that such disclosure is reasonably necessary to: 
     * Take action regarding suspected illegal activities;
     * Enforce or apply the Terms;
     * Comply with the law or guidance and cooperate with government or law enforcement officials or private parties;
     * Protect our rights, reputation, safety, and property, or that of users or others;
     * Respond to claims and legal process (for example, subpoenas); and/or
     * Protect against legal liability.
-  6. Aggregated Information. We may share aggregated information relating to users of the Site and Services with affiliated or unaffiliated third parties.
-  7. User Content and Monitoring. Please see User Content and Monitoring above.
-  8. Cookies, Other Storage and Web Beacons. Please see Cookies, Other Storage and Web Beacons below.
+  5. Aggregated Information. We may share aggregated information relating to users of the Site and Services with affiliated or unaffiliated third parties.
+  6. Cookies, Other Storage and Web Beacons. Please see Cookies, Other Storage and Web Beacons below.
 
 
 
@@ -91,8 +80,6 @@ We, along with our third party service partners and business partners, use cooki
 
 We use Google Analytics to better understand who is using the Site and how people are using it. Google Analytics uses cookies to collect and store anonymous information such as Site pages visited, time spent on each Site page, Internet Protocol address and type of operating system used. We use this information to improve the Site. Please see <https://tools.google.com/dlpage/gaoptout> for information about Google Analytics Opt-out Browser Add-on.
 
-We may deliver advertisements to you. We may work with third-party advertising companies that help deliver these advertisements to you. To learn more about third-party online advertising and to opt out of certain types of advertising, please see <http://www.networkadvertising.org/managing/opt_out.asp>.
-
 ### Security
 
 While we take reasonable measures to protect the information you submit via the Site and Services against loss, theft and unauthorized use, disclosure, or modification, we cannot guarantee its absolute security. Please keep your password secure. No Internet or email transmission is ever fully secure or error free. You should use caution whenever submitting information online and take special care in deciding with which information you provide us.
@@ -106,10 +93,9 @@ This Privacy Policy applies only to the Site. The Site may contain links to othe
 You have choices regarding the use of information on our Site and Services.
 
   1. Changing Your Information. To change your information, including keeping your information accurate, please contact us at cs@skilljar.com. We will take reasonable steps to change your information in our possession that you have submitted via the Site.
-  2. Email Communications. To change your information regarding email communications, please contact us at cs@skilljar.com.
-  3. User Content and Monitoring. Please see User Content and Monitoring above.
-  4. Cookies, Other Storage and Web Beacons. Please see Cookies, Other Storage and Web Beacons above.
-  5. Closing Your Account. You may close your account by contacting us at cs@skilljar.com. **If the email account associated with your email address is not active, we may close your account on the Site without notice in our sole discretion.**
+  2. Email Communications. To change your information regarding email communications, please unsubscribe from the footer of any communication or contact us at cs@skilljar.com.
+  3. Cookies, Other Storage and Web Beacons. Please see Cookies, Other Storage and Web Beacons above.
+  4. Closing Your Account. You may close your account by contacting us at cs@skilljar.com. **If the email account associated with your email address is not active, we may close your account on the Site without notice in our sole discretion.**
 
 
 
