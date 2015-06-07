@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldcam.eu privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924132428id_/http%3A//worldcam.eu/polityka%2Cprywatnosci.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcam.eu privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140022id_/http%3A//www.worldcam.eu/polityka%2Cprywatnosci) for the most accurate reproduction.*
 
 # Privacy Policy
 
