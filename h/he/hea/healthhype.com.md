@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthhype.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120210831id_/http%3A//www.healthhype.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthhype.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607133808id_/http%3A//www.healthhype.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Healthhype.com
 
@@ -129,4 +129,4 @@ HealthHype.com
 
 Burlingame, Ca 94010
 
-Email: j2network.com@gmail.com
+Email: admin@healthhype.com
