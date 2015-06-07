@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sixdollarbux.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120045159id_/http%3A//sixdollarbux.com/index.php%3Fview%3Dprivacy%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixdollarbux.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607035046id_/http%3A//sixdollarbux.com/index.php%3Fview%3Dprivacy%26) for the most accurate reproduction.*
 
 # Six Dollar Bux :: Privacy
 
