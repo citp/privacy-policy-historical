@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the exercise4weightloss.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121035940id_/http%3A//www.exercise4weightloss.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exercise4weightloss.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607141855id_/http%3A//www.exercise4weightloss.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Exercise 4 Weight Loss
 
-   
+##### [Home](http://www.exercise4weightloss.com/) ›  Privacy Policy
 
 Your privacy is important to me.  I am a very private person myself, so I understand the reluctance to share certain information with people you don’t know.  
 
@@ -70,9 +70,7 @@ If you do not agree to exercise4weightloss.com Privacy Policy as posted here on 
 
 Your use of this site indicates acceptance of this privacy policy.
 
- 
-
-#### Monthly ezine
+### Monthly ezine
 
 Free tips and recipes monthly. What do you have to lose...except some weight.....Sign up now.
 
