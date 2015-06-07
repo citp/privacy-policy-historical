@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mynextmove.org privacy policy that was archived on 2014-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141204200700id_/http%3A//www.mynextmove.org/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mynextmove.org privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607234809id_/http%3A//www.mynextmove.org/help/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en" class=""><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -18,49 +18,79 @@
 <script type="text/javascript">
 $(document).ready(function(){
 
+    
+      var fbShow = function() {
+        $("#allcontent").attr('aria-hidden', 'true');
+        var fwrap = $(".fancybox-wrap");
+        fwrap.attr('role', 'dialog');
+        fwrap.attr('aria-hidden', 'false');
+        fwrap.focus();
+      };
+      var fbClose = function() {
+        $("#allcontent").attr('aria-hidden', 'false');
+      };
+        
       $(".popup_ind").fancybox({
         width : 350,
         height : 250,
+        afterShow : fbShow,
+        afterClose : fbClose,
         type : 'iframe'
       });
       $(".popup_green").fancybox({
         width : 350,
         height : 200,
+        afterShow : fbShow,
+        afterClose : fbClose,
         type : 'iframe'
       });
       $(".popup_bright").fancybox({
         width : 350,
         height : 240,
+        afterShow : fbShow,
+        afterClose : fbClose,
         type : 'iframe'
       });
       $(".popup_jobzone").fancybox({
         width : 700,
         height : 450,
+        afterShow : fbShow,
+        afterClose : fbClose,
         type : 'iframe'
       });
       $(".popup_training").fancybox({
         width : 350,
         height : 270,
+        afterShow : fbShow,
+        afterClose : fbClose,
         type : 'iframe'
       });
       $(".popup_appren").fancybox({
         width : 350,
         height : 270,
+        afterShow : fbShow,
+        afterClose : fbClose,
         type : 'iframe'
       });
       $(".popup_salary").fancybox({
         width : 350,
         height : 300,
+        afterShow : fbShow,
+        afterClose : fbClose,
         type : 'iframe'
       });
       $(".popup_jobs").fancybox({
         width : 350,
         height : 350,
+        afterShow : fbShow,
+        afterClose : fbClose,
         type : 'iframe'
       });
       $(".popup_military").fancybox({
         width : 450,
         height : 350,
+        afterShow : fbShow,
+        afterClose : fbClose,
         type : 'iframe'
       });
 
