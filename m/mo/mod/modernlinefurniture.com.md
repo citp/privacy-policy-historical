@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modernlinefurniture.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221034037id_/http%3A//www.modernlinefurniture.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernlinefurniture.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142723id_/http%3A//www.modernlinefurniture.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Modern furniture | Contemporary furniture | Nightclub Furniture | Designer Furniture | Privacy Policy
 
