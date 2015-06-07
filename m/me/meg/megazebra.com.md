@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megazebra.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223103244id_/http%3A//www.megazebra.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megazebra.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607102830id_/http%3A//www.megazebra.com/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - MegaZebra
 
