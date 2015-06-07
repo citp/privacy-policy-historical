@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thermofisher.com privacy policy that was archived on 2014-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141124193832id_/http%3A//www.thermofisher.com/en/footer/privacy-statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thermofisher.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607145345id_/http%3A//www.thermofisher.com/en/footer/privacy-statement.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -145,9 +145,7 @@ function initHeaderComponent() {
 
 <header class="header" role="banner">
         <div class="wrap">
-            
             <h1 class="logo"><a href="/en/home.html">Thermo Fisher Scientific<img class="main-logo" src="/content/dam/tf/brand/thermo-fisher-scientific.png" alt="Thermo Fisher Scientific"></a></h1>
-            
             <div class="main-nav">
                 <div class="parbase baseComp brandNav">
 
@@ -165,7 +163,14 @@ function initHeaderComponent() {
    
 		
 		
-			<li><a href="/en/about-us/life-technologies.html">Life Technologies</a></li>					  
+			<li><a href="/en/about-us/applied-biosystems.html">Applied Biosystems</a></li>					  
+   		
+   
+   
+   
+		
+		
+			<li><a href="/en/about-us/invitrogen.html">Invitrogen</a></li>					  
    		
    
    
@@ -188,8 +193,7 @@ function initHeaderComponent() {
 
             </div>
             <div class="search">
-			    
-				<div class="parbase baseComp siteSearch">
+			    <div class="parbase baseComp siteSearch">
 
 
 	
@@ -227,7 +231,6 @@ function initHeaderComponent() {
 </div>
 
    				<input type="submit" value="" class="submitSearch" onclick="return submitQuery()">
-
     		</div>        
     	</div><!-- wrap -->
     	<div class="clear"></div>
@@ -569,7 +572,7 @@ to time.</p>
                             
                                 <div class="footer-about">
                                     <h5 class="h6">About Thermo Fisher Scientific</h5>
-                                    <p>Thermo Fisher Scientific Inc. (NYSE: TMO) is the world leader in serving science, with revenues of $17 billion and 50,000 employees in 50 countries. Our mission is to enable our customers to make the world healthier, cleaner and safer. We help our customers accelerate life sciences research, solve complex analytical challenges, improve patient diagnostics and increase laboratory productivity. Through our four premier brands – Thermo Scientific, Life Technologies, Fisher Scientific and Unity Lab Services – we offer an unmatched combination of innovative technologies, purchasing convenience and comprehensive support.</p>
+                                    <p>Thermo Fisher Scientific Inc. (NYSE: TMO) is the world leader in serving science, with revenues of $17 billion and approximately 50,000 employees in 50 countries. Our mission is to enable our customers to make the world healthier, cleaner and safer. We help our customers accelerate life sciences research, solve complex analytical challenges, improve patient diagnostics and increase laboratory productivity. Through our premier brands – Thermo Scientific, Applied Biosystems, Invitrogen, Fisher Scientific and Unity Lab Services – we offer an unmatched combination of innovative technologies, purchasing convenience and comprehensive support.</p>
                                 </div>
                             
                             
@@ -613,8 +616,23 @@ to time.</p>
     		
     		
     		<li>
-    			<a href="/en/about-us/life-technologies.html">
-    				Life Technologies
+    			<a href="/en/about-us/applied-biosystems.html">
+    				Applied Biosystems
+    			</a>
+    		</li>			
+		
+    		
+    		
+    		
+    		
+    		
+    			
+    			
+    		
+    		
+    		<li>
+    			<a href="/en/about-us/invitrogen.html">
+    				Invitrogen
     			</a>
     		</li>			
 		
@@ -771,7 +789,7 @@ to time.</p>
 
                 <div class="copywrite">
                     <div class="wrap">
-                        <span>© Copyright 2014 Thermo Fisher Scientific Inc. All rights reserved.</span>
+                        <span>© Copyright 2015 Thermo Fisher Scientific Inc. All rights reserved.</span>
                         <span class="terms-nav">
                             
                             
@@ -838,6 +856,12 @@ CQ_Analytics.Sitecatalyst.frameworkComponents = ['thermoFisher/components/page/c
  *
  * @param {Object} options Parameter object from CQ_Analytics.record() call. Optional.
  */
+
+
+
+var isProductPage = 'false';
+var pageResourceName = 'privacy-statement';
+
 CQ_Analytics.Sitecatalyst.updateEvars = function(options) {
     this.frameworkMappings = [];
 	this.frameworkMappings.push({scVar:"pageType",cqVar:"pagedata.pageType",resourceType:"thermoFisher/components/page/contentPage"});
@@ -846,15 +870,25 @@ CQ_Analytics.Sitecatalyst.updateEvars = function(options) {
     for (var i=0; i<this.frameworkMappings.length; i++){
 		var m = this.frameworkMappings[i];
 		if (!options || options.compatibility || (options.componentPath == m.resourceType)) {
+			if (pageResourceName == '404' && m.scVar == 'pageName') continue;
+			if (isProductPage == 'false' && (m.scVar == 'eVar12' || m.scVar == 'products') ) continue;
 			CQ_Analytics.Sitecatalyst.setEvar(m);
 		}
     }
 }
+ 
 if (typeof thermo === 'undefined' || thermo.components.global.SiteCookies.cookiesAllowed()) {
 CQ_Analytics.CCM.addListener("storesinitialize", function(e) {
 	var collect = true;
     var lte = s.linkTrackEvents;
-    s.pageName="content:tf:en:footer:privacy-statement";
+    
+    if (pageResourceName == '404'){
+    	s.pageType="errorPage";
+    	s.pageName="";
+    }else{
+    	s.pageName="content:tf:en:footer:privacy-statement";
+    }
+    
     CQ_Analytics.Sitecatalyst.collect(collect);
     if (collect) {
 		CQ_Analytics.Sitecatalyst.updateEvars();
@@ -872,7 +906,7 @@ CQ_Analytics.CCM.addListener("storesinitialize", function(e) {
 //if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //-->
 </script>
-<noscript><img src="http://stats.thermofisher.com/b/ss/thermofishercorporateprod/1/H.25--NS/1416849900840?cdp=2&amp;gn=content%3Atf%3Aen%3Afooter%3Aprivacy-statement" height="1" width="1" border="0" alt=""/></noscript>
+<noscript><img src="http://stats.thermofisher.com/b/ss/thermofishercorporateprod/1/H.25--NS/1433680656008?cdp=2&amp;gn=content%3Atf%3Aen%3Afooter%3Aprivacy-statement" height="1" width="1" border="0" alt=""/></noscript>
 <span data-tracking="{event:'pageView', values:{}, componentPath:'foundation/components/page'}"></span>
 
 </div>
