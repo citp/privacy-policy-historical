@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leawo.org privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025120026id_/http%3A//www.leawo.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leawo.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607230505id_/http%3A//www.leawo.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Leawo Software
 
@@ -22,11 +22,3 @@ You can change the settings in your browser to prevent cookies if you do not wan
 
 **5\. Our companywide commitment to your privacy  
 **This policy covers the Intel Corporate website and is applicable worldwide. To make sure your personal information is secure, we communicate these guidelines to Leawo employees and strictly enforce privacy safeguards within the company. 
-
-  * [About us](https://web.archive.org/company/)
-  * [Contact us](https://web.archive.org/company/contact-us.html)
-  * [Privacy Policy](https://web.archive.org/privacy.html)
-  * [Terms of use](https://web.archive.org/company/terms.html)
-  * [Sitemap](https://web.archive.org/sitemap.html)
-
-
