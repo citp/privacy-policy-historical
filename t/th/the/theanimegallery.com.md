@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theanimegallery.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123090444id_/http%3A//www.theanimegallery.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theanimegallery.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174220id_/http%3A//www.theanimegallery.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy policy | theAnimeGallery.com
 
