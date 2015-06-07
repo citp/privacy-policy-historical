@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the inktip.com privacy policy that was archived on 2014-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141126181456id_/http%3A//www.inktip.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the inktip.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607070616id_/http%3A//inktip.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta charset="utf-8">
@@ -21,10 +21,10 @@
                 </tr>
                 <tr>
                   <td><span class="grey"><span class="ari10"><label for="login_id">USERNAME</label>&nbsp;</span></span></td>
-                  <td><input type="text" name="login_id" size="16"></td>
+                  <td><input type="text" id="login_id" name="login_id" size="16"></td>
                   <td><img src="images/spacer.gif" alt="" height="10" width="10" border="0"></td>
                   <td><span class="grey"><span class="ari10"><label for="password">PASSWORD</label>&nbsp;</span></span></td>
-                  <td><input type="password" name="password" size="16"></td>
+                  <td><input type="password" id="password" name="password" size="16"></td>
                   <td><img src="images/spacer.gif" alt="" height="10" width="10" border="0"></td>
                   <td><input type="image" src="images/but_login.gif" alt=""></td>
                   <td><img src="images/spacer.gif" alt="" height="10" width="10" border="0"></td>
@@ -84,10 +84,11 @@
       </ul>
     </li>
     
-    <li><a class="main arrowdn" href="#">Competitions</a>
+    <li><a class="main arrowdn" href="#">Contests/Festivals</a>
       <ul>
-        <li><a href="competition_directory.php">Competition Directory</a></li>
-        <li><a href="contest_register.php">Add your Competition</a></li>
+        <li><a href="competition_directory.php">Screenplay Contests</a></li>
+        <li><a href="festival_directory.php">Film Festivals</a></li>
+        <li><a href="contest_register.php">Add Your Call for Entries</a></li>
       </ul>
     </li>
   </ul>
@@ -98,6 +99,46 @@
       <tbody><tr>
         <td valign="top">
 
+<!--
+        <ul id="sidebar">
+          <li><a href="sa_services_products.php">Services for Writers</a></li>
+            <li class="sub"><a href="sa_executive_index.php">Script Listing</a></li>
+            <li class="sub"><a href="sa_inktip_magazine.php">Magazine Listing</a></li>
+            <li class="sub"><a href="sa_preferred_newsletter.php">Preferred Newsletter</a></li>
+            <li class="sub"><a href="newsletter_writers.php">Free Newsletter</a></li>
+            <li class="sub"><a href="sa_short_script_listing.php">Short Script Listing</a></li>
+            
+          <li><a href="ep_services.php">Services for Industry Pros</a></li>
+          <li><a href="inktip_register.php">Register as a Writer</a></li>
+
+          <li><a href="inktip_register.php">Register as an Industry Pro</a></li>
+        </ul>
+-->
+
+        <ul id="writer-menu">
+          <li><a class="btn sm menu" href="inktip_register.php">Join InkTip</a></li>
+          <li id="reveal1"><a class="btn sm menu" href="javascript:void(0);">Sell Your Scripts <div class="arrow-down"></div> </a>
+            <ul id="sub1">
+              <li class="sub"><span class="menuitem"><a href="order1_script.php">Showcase Your Scripts</a></span></li>
+              <li class="sub"><span class="menuitem"><a href="order3_mag.php">Publish Your Loglines</a></span></li>
+              <li id="reveal2" class="sub"><span class="menuitem"><a href="javascript:void(0);">Connect to Producers <div class="arrow-down2 blue"></div></a></span>
+                <ul id="sub2">
+                  <li class="sub"><span class="menuitem"><a href="order2_pnl.php">Preferred Newsletter</a></span></li>
+                  <li class="sub"><span class="menuitem"><a href="newsletter_writers.php">Standard  Newsletter</a></span></li>
+                </ul>
+              </li>
+              <li class="sub"><span class="menuitem"><a href="sa_short_script_listing.php">List Your Shorts</a></span></li>
+              <li class="sub"><span class="menuitem"><a href="sa_services_products.php">All Services</a></span></li>
+            </ul>
+          </li>
+          <li><a class="btn sm menu" href="ep_services.php">Find good scripts</a></li>
+<!--
+          <li><a href="inktip_register.php">Register as a Writer</a></li>
+
+          <li><a class="btn sm" style="display:table-cell; vertical-align:middle; width:144px; height:18px; font-size:12px;" href="inktip_register.php">Find Good Scripts</a></li>
+-->
+        </ul>
+<!--
         <ul id="sidebar">
           <li><a href="contact_us.php">Contact Us</a></li>
           <li><a href="advertise_with_inktip.php">Advertise with InkTip</a></li>
@@ -105,10 +146,10 @@
           <li><a href="privacy_policy.php">Privacy Policy</a></li>
           <li><a href="terms.php">Terms of Use</a></li>
           <li><a href="sa_protocol.php">Writer Client Protocol</a></li>
-          <li><a href="ep_protocol.php">EP Member Client Protocol</a></li>
+          <li><a href="ep_protocol.php">IP Member Client Protocol</a></li>
           <li><a href="site_credits.php">Site Credits</a></li>
         </ul>
-
+-->
         </td>
         <td valign="top">
         <div id="mainMain">
@@ -180,7 +221,7 @@
     <li><a href="privacy_policy.php">Privacy Policy</a></li>
     <li><a href="terms.php">Terms Of Use</a></li>
     <li><a href="sa_protocol.php">Writer Client Protocol</a></li>
-    <li><a href="ep_protocol.php">Ep Client Protocol</a></li>
+    <li><a href="ep_protocol.php">IP Client Protocol</a></li>
     <li><a href="minktip_tos.php">MinkTip TOS</a></li>
     <li><a class="noline" href="site_credits.php">Site Credits</a></li>
   </ul>
@@ -231,6 +272,27 @@ function emailthis(){
   mail_str += "&body=I wanted to show you \"" + document.title + "\" (" + url + ")";
   document.location.href = mail_str;
 }
+
+$(function(){
+  $('#reveal1').click(function(e) {
+    e.stopPropagation();
+    $(this).children('#sub1').slideToggle();
+  });
+});
+
+$(function(){
+  $('#reveal2').click(function(e) {
+    e.stopPropagation();
+    $(this).children('#sub2').slideToggle();
+  });
+});
+
+$(function(){
+  $('#revealMinktip').click(function() {
+    $('#Minksubmenu').slideToggle();
+  });
+});
+
 </script>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
