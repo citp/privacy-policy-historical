@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1cuk.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602221519id_/http%3A//1cuk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1cuk.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074241id_/http%3A//1cuk.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy 1CAK - For Fun Only
 
@@ -24,7 +24,7 @@ Certain visitors to 1CAK’s websites choose to interact with  1CAK  in ways 
 
 * ### Protection of Certain Personally-Identifying Information
 
-1CAK discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on 1CAK’s behalf or to provide services available at  1CAK ’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using 1CAK’s websites, you consent to the transfer of such information to them. In addition, in some cases we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if 1CAK or substantially all of its assets were acquired, or in the unlikely event that 1CAK goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of 1CAK may continue to use your personal and non-personal information only as set forth in this policy. Otherwise, 1CAK will not rent or sell potentially personally-identifying and personally-identifying information to anyone.
+1CAK discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on 1CAK’s behalf or to provide services available at  1CAK ’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country: by using 1CAK’s websites, you consent to the transfer of such information to them. In addition, in some cases we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if 1CAK or substantially all of its assets were acquired, or in the unlikely event that 1CAK goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of 1CAK may continue to use your personal and non-personal information only as set forth in this policy. Otherwise, 1CAK will not rent or sell potentially personally-identifying and personally-identifying information to anyone.
 
 Other than to its employees, contractors and affiliated organizations, as described above, 1CAK discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when 1CAK believes in good faith that disclosure is reasonably necessary to protect the property or rights of 1CAK, third parties or the public at large. If you are a registered user of a 1CAK website and have supplied your email address, 1CAK may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with 1CAK and its products. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. 1CAK takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
@@ -44,11 +44,11 @@ This privacy policy only applies to information collected by 1CAK. This privacy 
 
 * ### Security
 
-All non-personally-identifying information, potentially personally-identifying and personally identifying-information described above is stored on restricted database servers. 
+All non-personally-identifying information, potentially personally-identifying and personally identifying-information described above is stored on restricted database servers. :
 
 * ### Choice/Opt-out
 
-If we ever send you information by email concerning new products, services or information that you did not expressly request, we will provide you with an email address by which you may request no further notices. 
+If we ever send you information by email concerning new products, services or information that you did not expressly request, we will provide you with an email address by which you may request no further notices. :
 
 * ### Address Book Data
 
@@ -60,4 +60,4 @@ Although most changes are likely to be minor, 1CAK may change its privacy policy
 
 * ### Contact Us
 
-If you have any questions about this privacy policy or our sites in general, please [contact us](mailto:info@1cuk.com).
+If you have any questions about this privacy policy or our sites in general, please [contact us](mailto:info@1cak.com).
