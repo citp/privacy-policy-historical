@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the review-australia.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120125718id_/http%3A//www.review-australia.com/terms-and-privacy%3F___SID%3DU) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the review-australia.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607194829id_/http%3A//www.review-australia.com/terms-and-privacy) for the most accurate reproduction.*
 
 # Review Australia | Terms and Privacy Overview
 
