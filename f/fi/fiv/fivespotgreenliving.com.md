@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fivespotgreenliving.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203124449id_/http%3A//www.fivespotgreenliving.com/privacy-po) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fivespotgreenliving.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607134305id_/http%3A//www.fivespotgreenliving.com/privacy-po) for the most accurate reproduction.*
 
-# Privacy - Five Spot Green Living - Healthy Recipes and Essential Oils
+# Privacy -
 
 This privacy policy sets out how Five Spot Green Living uses and protects any information that you give while using www.fivespotgreenliving.com. ??Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
