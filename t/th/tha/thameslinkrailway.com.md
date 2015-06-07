@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thameslinkrailway.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207093208id_/http%3A//www.thameslinkrailway.com/contact-us/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thameslinkrailway.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145552id_/http%3A//www.thameslinkrailway.com/contact-us/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy : Thameslink
 
@@ -66,7 +66,7 @@ More information about the Data Protection Act can be found on the [Information 
 
 2.1.1.5. to issue a Penalty Fares or take other fare evasion enforcement action;.
 
-2.1.2. When you visit our website details of your visits, how you use our site and the resources that you access on our site may be recorded as explained in our [cookie policy](https://web.archive.org/contact-us/terms/cookies/). 
+2.1.2. When you visit our website details of your visits, how you use our site and the resources that you access on our site may be recorded as explained in our [cookie policy](https://web.archive.org/contact-us/terms/cookies/).
 
 2.1.3. When you use the key we record your transaction and journey history.
 
@@ -137,7 +137,7 @@ Such requests are called subject access requests. To make a subject access reque
 
 5.2.7. At our discretion, we may disclose personal data in response to valid requests from the police and other statutory law enforcement agencies. Requests from the police are dealt with on a case-by-case basis to ensure that any such disclosure is lawful in accordance with the Data Protection Act.
 
-5.2.8. On the instruction of a regulatory body of competent jurisdiction Such as the Department for Transport; other train operating companies where this is necessary to process your contact with us, Passenger Focus and London Travel Watch, other transport providers where you request this, any other body carrying out statutory functions;
+5.2.8. On the instruction of a regulatory body of competent jurisdiction Such as the Department for Transport; other train operating companies where this is necessary to process your contact with us, Transport Focus and London Travel Watch, other transport providers where you request this, any other body carrying out statutory functions;
 
 5.2.9. In respect of information provided to us for marketing purposes only, to the Department for Transport and/or any successor operator of the rail franchise in order that they may contact you for marketing purposes in the event that we cease to operate this rail franchise.
 
