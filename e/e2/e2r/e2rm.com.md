@@ -1,112 +1,85 @@
-> *The following text is extracted and transformed from the e2rm.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203113943id_/http%3A//www.artez.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e2rm.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608002221id_/http%3A//www.frontstream.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Artez Interactive
+# Privacy Policy - FrontStream
 
-## Artez Interactive Privacy Policy
+**At FrontStream Payments,** we believe it is important to protect the privacy of our merchants, sales representatives, outside agents, and guests. We know that you care about how your personal information is collected, updated, used and shared. Furthermore, we want to help you make knowledgeable choices about the information you provide to us. This Privacy Policy explains and summarizes how FrontStream Payments collects, uses, and protects your personal information as you interact with us online and through our customer and technical support services. This Privacy Policy applies to FrontStream Payments, the corporate website located at [www.frontstream.com](https://web.archive.org/) and associated web sites owned or controlled by FrontStream Payments. This policy is intended to be global in nature. If you are visiting from outside the United States, there may be special rules or limitations on your use of this website or other FrontStream Payments operated websites. By using our website, you consent to the collection and use of your personal information by FrontStream Payments consistent with applicable data protection law and this policy.
 
- _Last updated November 25th, 2009_
+## THIS POLICY EXPLAINS
 
-### General Privacy Statement
+  * What information FrontStream Payments gathers from you.
+  * How FrontStream Payments uses the personal information shared with us.
+  * How FrontStream Payments uses “cookies” and “IP addresses”.
+  * What personal information, if any, FrontStream Payments may share about you and the environment used to protect your information if it must be shared.
+  * The security measures FrontStream Payments takes to protect your information from accidental loss or disclosure and how FrontStream Payments will inform you in the event of a security breach.
+  * The circumstances under which you can access your personal information and have that information corrected, restrict FrontStream Payments’s use of that information or, even have it removed from our records.
+  * Other things you should know about privacy and FrontStream Payments.
 
-ARTEZ INTERACTIVE INC. respects your right to privacy and is committed to protect the personal information you provide to us. Your personal information will only be used for the purpose we have identified when obtaining the information. ARTEZ INTERACTIVE uses the information collected through its Internet-based tools to facilitate the processing of donations, to provide tax receipts, and processing online event registrations. ARTEZ INTERACTIVE does not trade or sell your personal information.
 
-#### I. Introduction
 
-ARTEZ INTERACTIVE is committed to protecting and safeguarding the privacy and security of the personal information provided to us by our clients' donors, volunteers, constituents and others. Our policy complies with the Personal Information Protection and Electronic Documents Act (Canada) (PIPEDA) and the 10 basic principles set out in the Canadian Standards Association Model Code for the Protection of Personal Information. By becoming a member, requesting information, or registering for events on websites we empower, an individual is giving ARTEZ INTERACTIVE permission to contact him or her by way of the information provided. During the course of servicing the needs of registrants, donors, constituents and others we may gather personal information. This policy explains why we may need your personal information, how the confidentiality of this information is protected, and how you can find out what information concerning you is recorded.
+## COLLECTED INFORMATION AND USAGE
 
-#### II. Personal Information
+FrontStream Payments collects and uses information you provide to us including information obtained from your use of this website. We do not share your personal information with third parties for their direct marketing purposes. FrontStream Payments may use or share your personal information (e.g., name, address, telephone number and e-mail address) where it is necessary for us to complete a transaction or do something that you have asked us to do. FrontStream Payments employees, agents and service providers who need to access personal information provided by you to fulfill their responsibilities may do so under the direction and control of FrontStream Payments; and must be consistent with FrontStream Payments’ policies that limit access to this type of information. Whenever we may need to share your personal information, we try to provide the information you need to make informed reasonable choices and we manage your information consistent with applicable privacy law.
 
-Personal information is defined as any information that can be used to distinguish, identify or contact a specific individual that pertains to the use of Internet-based tools to facilitate the processing of donations and registrations online and credit card information. Personal information does not include business contact information (with the exception of email addresses which are considered personal information) and certain publicly available information, such as names, addresses and telephone numbers as published in telephone directories (i.e. information on a business card). Most of the information ARTEZ INTERACTIVE collects is not personal information. Where an individual uses his or her home contact information as business contact information as well, ARTEZ INTERACTIVE considers that the contact information provided is business contact information and is therefore not subject to protection as personal information.
+### We Collect and Use Your Personal Information In Several Ways
 
-#### III. Privacy Practices
+ **Website Usage:** FrontStream Payments may observe your activities, preferences, and transactional data (such as your IP address and browser type) as well as pages you have viewed during your use of this website. While we may collect or log this information, we do not identify you or match this non-personal information with your other personal information. We may use this collected or logged information to diagnose web site technical problems, or to facilitate your use of the site. FrontStream Payments may also use this information to track aggregate traffic patterns throughout this web site.
 
-ARTEZ INTERACTIVE adheres to the following privacy practices:
+ **Direct Marketing:** We will never sell any personally identifiable information to a third party for marketing purposes without your consent. We will only disclose information to third parties about your account or the transfers or payments you make:
 
-• Personal information gathered by ARTEZ INTERACTIVE is held in the strictest confidence and is protected by industry standard best practices.  
-• ARTEZ INTERACTIVE collects information for expressly identified purposes.  
-• Safeguards are in place to ensure that the information is disclosed only on a need to know basis and only for the purpose for which it was gathered.  
-• No more than the minimum required amount of personal information will be collected in the course of providing any service.  
-• Users have the right to opt out of providing certain information recognizing that in doing so, the purpose may then not be fulfilled or ARTEZ INTERACTIVE may not be able to provide certain services that have Personal Information dependencies.  
-• ARTEZ INTERACTIVE will advise users accessing our products and services of our Privacy Policy;  
-o at the time they register, or access a product or service as appropriate  
-o on the website in the form of an online privacy statement
+(a) where it is necessary for opening or maintaining your account, or for completing transfers or payments,
 
-#### IV. ARTEZ INTERACTIVE Application Websites **  
-1\. Anonymous Non-Personal Information**
+(b) if lawfully required or
 
-When our clients' donors, volunteers, and other constituents access the secure section of our website, anonymous, non personal information about their visit is automatically collected. Such information may include the length and date of the visit, how the visitor navigated the Website, what pages the visitor viewed, the type of browser being used by the visitor, the type of operating system used by the visitor and the domain name of the visitor's Internet service provider. This information is used, in aggregate form, to provide statistical measures about usage of our site. This allows us to continually improve the functionality, content and design of websites we empower. This Anonymous Non-Personal Information may be shared with other parties, such as sponsors and partners.
+(c) to certain third parties with whom we have joint marketing agreements, or
 
- **2\. Cookie-based Information**  
-When our clients' donors, volunteers, and other constituents access the secure section of our website, a small text file called a "cookie" is sent from our web server to their web browser and is stored on their computer. Cookies allow us to recognize you while you are logged into the ARTEZ INTERACTIVE website and expire when you close your browser window. The ARTEZ INTERACTIVE websites contains links to other websites owned and operated by external parties. ARTEZ INTERACTIVE is not responsible for the content or privacy practices of such sites.
+(d) if you request or authorize it.
 
-#### V. Ten Basic Privacy Principles
+FrontStream Payments may share your personal information with certain third parties with whom we have joint marketing agreements for their on-line and off-line marketing purposes. Additionally, we may combine your personal information with information from third parties to enable us or our third party partners to provide a more personalized marketing experience.
 
-ARTEZ INTERACTIVE is committed to the following ten basic privacy principles:
+ **Login Registration and Technical Support:** You may be asked to share personal information such as your name, address and telephone number in order to complete a login registration. This information is used, for example, to carry out the request, service or agreement for which the information is submitted. With your consent, we may also use the information you provide to notify you periodically about important changes to the website (such as a change to this privacy policy or notice of a security breach), new FrontStream Payments products and services that might be of interest to you. FrontStream Payments limits the access to and use of your personal information using administrative, managerial and technical safeguards that are intended to enforce this privacy policy and assure compliance with applicable data protection law.
 
- **1\. Accountability**  
-a. ARTEZ INTERACTIVE is responsible for personal information under our control and we have designated a Privacy Officer who is accountable for ARTEZ INTERACTIVE'S compliance with PIPEDA. There are other individuals within ARTEZ INTERACTIVE who are designated with the responsibility for day to day collection and management of personal information.  
-b. ARTEZ INTERACTIVE has policies and procedures in place to implement and comply with this Privacy Policy, including procedures relating to the collection, handling, storage and destruction of personal information.  
-c. ARTEZ INTERACTIVE is responsible for personal information transferred by us to third parties, if any, for processing on our behalf. ARTEZ INTERACTIVE uses contractual means to provide an appropriate level of protection for such transferred information. Third parties entering into a business relationship with ARTEZ INTERACTIVE are required to adhere to these privacy principles, this privacy policy, the Act and any other applicable law dealing with the protection of personal information.
+ **Cookies:** To the extent that website usage information is developed in connection with your IP address through session cookies, we will only use this information to facilitate your use of the FrontStream Payments website. Cookies are data files written onto your computer by a website. FrontStream Payments does not use cookies other than the session cookies identified and will remain stored on your computer until you remove them. You may set your browser to notify you when you receive a cookie or to refuse receiving it. You should be aware that this might interfere with or make you unable to use certain functionality on websites using cookies. For example, many websites will ask your permission to use a cookie that will enable you to automatically log on to the website. Disabling or removing cookies may require you to manually login each time you wish to visit that website. You may also delete cookies from your computer through your browser.
 
- **2\. Identifying Purposes**  
-a. ARTEZ INTERACTIVE identifies the purposes for which personal information is being collected at the time of such collection.  
-b. Generally, ARTEZ INTERACTIVE collects personal information for the following purposes:  
-i. When you register online for ARTEZ INTERACTIVE'S clients' events, campaigns, etc.  
-ii. When you make an online donation.  
-iii. To facilitate commercial transactions. (ie purchases)  
-iv. To provide members access to secure area of ARTEZ INTERACTIVE empowered sites.  
-v. To register members and non-members for ARTEZ INTERACTIVE events.  
-vi. To communicate and provide information about ARTEZ INTERACTIVE - empowered client events, member benefits, programs, services and other opportunities.  
-vii. To provide tax receipts.  
-When a client contracts with ARTEZ INTERACTIVE to develop an online application for its use, the client owns all data that is collected relevant to its events, campaigns and other online initiatives for which ARTEZ INTERACTIVE is facilitating data collection. Often ARTEZ INTERACTIVE clients use this data to communicate directly with you, as a member of its constituent base. The ARTEZ INTERACTIVE data passed on to its clients identifies which of its users have opted in for a permission-based relationship with ARTEZ INTERACTIVE clients. ARTEZ INTERACTIVE may use personal account information and data collected through your registration and / or donation to generate statistics and aggregate reports for internal use  
-and for sharing with clients and partners. These reports will not contain any information that could identify you personally.
+ **Recruitment and Job Applications:** Personal information such as that contained on a resume or curriculum vitae may be submitted in connection with a job application or inquiry. We may use this information throughout FrontStream Payments for the purpose of employment consideration. We may keep your information on file for future consideration.
 
- **3\. Consent**  
-a. ARTEZ INTERACTIVE collects personal information by fair and lawful means and obtains the individual's consent for the collection, use or disclosure of his or her personal information as required by PIPEDA or by other applicable law.  
-b. The consent may be expressed, implied or given through an authorized representative.  
-By visiting and using this website, the visitor agrees to the Privacy Policy and the terms of use linked to this Privacy Policy. If you do not agree to the Privacy Policy do not use this Website or provide Personal Information to ARTEZ INTERACTIVE.  
-c. A user may withdraw consent to use his or her personal information at any time, subject to any legal or contractual restrictions upon giving ARTEZ INTERACTIVE reasonable notice. ARTEZ INTERACTIVE will inform individuals of the implications, if any, of withdrawing consent and how to do so.
+ **Children:** If under the relevant laws of the place where you are visiting this web site you are considered a minor (usually if you are under age 18), or would otherwise be required to have parent or guardian consent to share information with FrontStream Payments, you should not send any personal facts about yourself to us. If a minor submits information through any part of the FrontStream Payments website, and we learn the person submitting the information is a child, we will attempt to delete this information as soon as possible. FrontStream Payments does not knowingly solicit, collect or attract personal information from or about children.
 
- **4\. Limiting Collection**  
-ARTEZ INTERACTIVE limits the collection of personal information to that which is reasonably necessary for the identified purpose(s).
+ **Public Areas:** Any information disclosed in public areas of the FrontStream Payments website will become public information. We cannot control the use of information disclosed in public forums, such as bulletin boards or blogs. You should exercise caution and refrain from disclosing your personal information. Content posted in public areas of the FrontStream Payments website, including advice and opinions, represents the views and is the responsibility of those who post the content.
 
- **5\. Limiting Use, Disclosure and Retention**  
-a. ARTEZ INTERACTIVE does not use or disclose personal information for purposes other than those for which it was collected, except with the consent of the individual, or as permitted or required by law.  
-b. ARTEZ INTERACTIVE retains personal information only as long as is necessary for the fulfillment of those purposes or as required by law.  
-c. ARTEZ INTERACTIVE does not disclose credit card account information provided by users except to the appropriate banking institutions and/or clearinghouses in order to obtain debit authorization and payment. The Client may request personal account information. In that event, ARTEZ INTERACTIVE will only transmit or relinquish this data to any organization (including  
-the Client itself) that is also accredited by the Payment Card Industry at Level 1 certification.  
-d. ARTEZ INTERACTIVE reserves the right to change this Privacy Policy at any time. We also reserve the right at any time to disclose any information in an individual's registration and / or donation:  
-i. to satisfy any law, regulation or government request;  
-ii. if such disclosure is necessary or appropriate to site operation; or  
-iii. To protect the rights or property of ARTEZ INTERACTIVE and its users,providers, licensors or merchants.
+^ back to top
 
- **6\. Accuracy**  
-ARTEZ INTERACTIVE takes reasonable steps to keep personal information accurate, complete and up to date as is necessary for the identified purpose(s). Individuals are entitled to check on the accuracy of their personal information and submit a correction request, if necessary. ARTEZ INTERACTIVE will rely exclusively on individuals in determining the completeness, accuracy, and timeliness of his or her personal information and will have no further obligation to seek independent verification of any personal information supplied by the individual.
+### When Scandisk May Share Collected Information
 
- **7\. Safeguards**  
-a. ARTEZ INTERACTIVE protects personal information from unauthorized access, use and disclosure by establishing and maintaining appropriate security safeguards. All safety and security measures are appropriate to the sensitivity level of the information.  
-b. ARTEZ INTERACTIVE has implemented safeguards to protect against such risks as loss or theft, unauthorized access, disclosure, copying, use, modification or destruction of personal information. All ARTEZ INTERACTIVE staff are made aware of the need to maintain strict confidentiality of all personal information.
+As mentioned in the beginning of this policy, FrontStream Payments may share your personal information within the FrontStream Payments group to fulfill its obligations to you and operate its business consistent with this policy and applicable data protection law. FrontStream Payments may also share your personal information with third parties in the following situations.
 
- **8\. Openness**  
-a. ARTEZ INTERACTIVE makes information readily available about our policies and practices related to the management of personal information.  
-b. ARTEZ INTERACTIVE's Privacy Policy is posted on our website and those of users of our product and services about the type of personal information we may collect, what it is used for and to whom the information may be disclosed.
+ **Vendors and Suppliers:** FrontStream Payments works with vendors and suppliers to provide technical and customer support, shipping, product fulfillment or other services. FrontStream Payments requires these vendors and suppliers to safeguard personal information you provide to us. To the extent necessary for these service providers to complete their contractual obligations to FrontStream Payments, these third parties may have access to or process your personal information. FrontStream Payments limits their use of your personal information to the purpose for which it was shared.
 
- **9\. Individual Access**  
-a. Upon request ARTEZ INTERACTIVE provides users with access to their personal information. Requests are to be directed to our Privacy Officer:
+ **Mergers & Acquisitions:** If FrontStream Payments should ever merge with another company, or if FrontStream Payments should decide to buy, sell or reorganize some part or all of its business, FrontStream Payments may be required to disclose your personal information to prospective or actual purchasers. It is FrontStream Payments’ policy to seek appropriate protection for information disclosed or received in these types of transactions consistent with applicable data protection law.
 
-Artez Interactive  
-215 Spadina Avenue  
-Suite 500  
-Toronto, Ontario, Canada  
-M5T 2C7
+## SPECIAL NOTICE TO INTERNATIONAL VISITORS AND CUSTOMERS
 
-b. Upon request ARTEZ INTERACTIVE will inform users whether their personal information has been disclosed to any authorized third parties.  
-c. ARTEZ INTERACTIVE will make every effort to respond to requests for access to donor or registrant personal information within 30 days.
+Because FrontStream Payments operates globally, we may transfer your personal information to fulfill our obligations to you but always subject to the limitations of applicable data protection law and this policy. Privacy laws differ across the globe. This website is hosted in the United States. If you are visiting from other regions with laws governing data collection and use that may differ from U.S. law, including those whose privacy laws may be stricter than U.S. law, please note that you are transferring your personal data to the United States to FrontStream Payments, Inc. By providing your personal data, you consent to that transfer.
 
- **10\. Challenging Compliance**  
-Any questions, requests or complaints with respect to this Privacy Policy or about our privacy practices may be directed to our Privacy Officer (see 9.a above for contact information).
+## STORAGE AND PERIOD OF HOLDNG FOR PERSONAL INFORMATION
 
-#### VI. Changes to Privacy Policy
+Unless otherwise requested by you, FrontStream Payments will continue to keep the personal information you provided to us. If the reason for collecting your personal information no longer exists, we will delete the personal information at the appropriate required time if legally required by relevant applicable data protection law.
 
-ARTEZ INTERACTIVE regularly reviews its privacy practices and updates its Privacy Policy as required. We recommend that you check this policy periodically so that you are aware of any  
-changes.
+^ back to top
+
+### Security
+
+No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, FrontStream Payments cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make reasonable efforts to ensure security on our systems. We use secure server software (SSL) and firewalls to protect your information from unauthorized access, disclosure, alteration, or destruction. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software. Daily review of system and activity logs are another mechanism used to protect your information. These logs are reviewed regularly, any anomalies or discrepancies are investigated thoroughly, and action is taken immediately. To further protect you, a timeout feature is often used. This feature will automatically log you out of your current merchant service session after an extended period of inactivity on the payment gateway site. If FrontStream Payments learns of a security systems breach, we will notify you so that you can take appropriate protective steps. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. By using this web site or providing personal information to us, you agree that FrontStream Payments can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this site.
+
+## Links To Third-Party Sites And CO-Branded Web Sites
+
+This website may contain links to third-party sites, however, please be aware that FrontStream Payments is not responsible for and cannot control the privacy practices of these other sites. We encourage you to read the privacy policies for these other sites, as they may differ from ours. This website also contains links to co-branded websites that may display FrontStream Payments’ logo and trademarks, but which are maintained by third parties. Such websites may be identified by the fact that they do not display a “FastTransact.com” URL. Please read the privacy policy on co-branded sites for applicable privacy practices relating to personal information collected via that site, as it may differ from FrontStream Payments’ Privacy Policy. This Privacy Policy applies solely to personal information collected by FrontStream Payments.
+
+## CHANGES TO THIS POLICY BY FRONTSTREAM PAYMENTS
+
+If in the future we change the FrontStream Payments Privacy Policy, we will post the new policy on this website. We reserve the right to change this policy and your continued use of this website represents consent to the new policy to the fullest extent permitted by law. We encourage you to periodically review this Privacy Policy.
+
+## Accessing Your Personal Information, Making Changes Or Requesting Deletion of Personal Information
+
+You may at all times object or restrict FrontStream Payments’ use of your personal data for direct marketing purposes. You may also request access to, correction of or deletion of personal data. For further instructions on changing any of your privacy preferences, accessing your information or for any privacy or data protection related question or concern please email your questions/comments to [support@frontstream.com](mailto:support@frontstream.com). Please be aware that this Privacy Policy and the choices that you indicate when registering on this website will not necessarily apply to personal information you may have provided to FrontStream Payments or its business partners as part of other, separately-operated websites or services. Generally, when we contact you, we will try to provide you with an easy and convenient way to notify us if you would not like further similar communications. Contacting FrontStream Payments If you have any questions, comments, or concerns about this Privacy Policy, please email us [suppport@frontstream.com](mailto:support@frontstream.com).
+
+^ back to top
