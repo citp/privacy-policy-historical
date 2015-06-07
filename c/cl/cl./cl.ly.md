@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cl.ly privacy policy that was archived on 2014-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140916023808id_/https%3A//www.getcloudapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cl.ly privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608004453id_/http%3A//getcloudapp.com/privacy) for the most accurate reproduction.*
 
 # CloudApp
 
@@ -49,5 +49,3 @@ If CloudApp, or substantially all of its assets were acquired, or in the unlikel
 We may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your CloudApp primary account holder account or by placing a prominent notice on our site. 
 
 Questions on our privacy policy can be directed to [support@getcloudapp.com](mailto:support@getcloudapp.com). 
-
-## Try **Cloud** App Pro Free for 30 days
