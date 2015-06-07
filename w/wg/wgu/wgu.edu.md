@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the wgu.edu privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703024226id_/http%3A//www.wgu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wgu.edu privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607114212id_/http%3A//www.wgu.edu/privacy) for the most accurate reproduction.*
 
 # WGU's Privacy Policy
 
 Western Governors University is committed to ensuring your privacy as a visitor to this website, as an interested party in one of WGU’s degree programs, and as a student in our university. Generally speaking, here’s how we ensure your privacy: 
 
   * We require our employees to keep your personal information confidential.
-  * We only authorize access to your personal information to employees and third parties (only AFTER you become a student) who need your information to perform their duties (Further explained below).
+  * We only authorize access to your personal information to employees and third parties (only **after** you become a student) who need your information to perform their duties (Further explained below).
   * We safeguard your personal information through electronic, procedural, and physical means.
 
 
 
-### WEBSITE INFORMATION:
+### Website Information:
 
 When you visit the WGU.edu website, the only personal information WGU collects about you is the information you voluntarily provide through our online inquiry or application forms. Any personally identifiable information collected about you on this website is used by WGU to contact you about the university’s programs, administer your application to the university, and provide additional information as needed, potentially including contact via phone or email.
 
@@ -18,7 +18,7 @@ When you visit the WGU.edu website, the only personal information WGU collects a
 
 WGU will collect anonymous non-personally identifiable information about your website visit through pixel tags, sometimes known as cookies. These tags help us track information about your visit and are used to deliver banner advertisements to you on the Internet. 
 
-### HOW WE TREAT YOUR PERSONAL INFORMATION AS A PROSPECTIVE STUDENT:
+### How We Treat Your Personal Information as a Prospective Student:
 
 As a prospective student, your email address and other personal information will never be shared with third parties. Your assigned WGU Enrollment Counselor and other departments in the university will use your email address and other personal information to provide you with the information you request about your degree program of interest, tuition, financial aid, and any other topics pertaining to enrollment in the university.
 
@@ -43,12 +43,9 @@ Salt Lake City, UT 84107
 
 Call the WGU Enrollment Department toll-free 1-866-225-5948
 
-**To opt out via WGU’s website:**  
-[Visit the WGU Preference Center](https://www.wgu.edu/wgu/unsubscribe)
-
 You can also send your request via email to [unsubscribe@wgu.edu](mailto:unsubscribe@wgu.edu).
 
-### FERPA COMPLIANCE:
+### FERPA Compliance:
 
 WGU complies with the protections established under the **Family Education Rights and Privacy Acts of 1974 (FERPA).** FERPA is a federal law designed to protect the privacy of student education records. FERPA governs the release of education records and access to education records.
 
