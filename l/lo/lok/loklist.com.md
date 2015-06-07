@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the loklist.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111200248id_/http%3A//www.loklist.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loklist.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607072857id_/http%3A//www.loklist.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
-# Post-Place Free classifieds ads in India | Post Free ads
+# Post Free classified ads India-Post Free ads-Classified sites in India
 
 You can change the text for this page by accessing the following menu in the admin panel:  
 Design > Templates > main_page > extra_pages
@@ -19,8 +19,8 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
 
-#### Copyright © 2014 LokList.com. All Rights Reserved.
+#### Copyright © 2015 LokList.com(100% free classified site). All Rights Reserved.
 
-LokList.com – Post free classifieds ads in India now
+LokList.com – Post free classified ads in India
 
-Use of this Web site constitutes acceptance of the [User Agreement](http://loklist.com/index.php?a=28&b=140) and [Privacy Policy](http://loklist.com/index.php?a=28&b=145). Designated trademarks and brands are the property of their respective owners.
+Use of this Web site constitutes acceptance of the [User Agreement](http://www.loklist.com/index.php?a=28&b=140) and [Privacy Policy](http://www.loklist.com/index.php?a=28&b=145). Designated trademarks and brands are the property of their respective owners.
