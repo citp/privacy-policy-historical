@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveukulele.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529015942id_/http%3A//liveukulele.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveukulele.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607084814id_/http%3A//liveukulele.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,10 +26,8 @@ Except as disclosed in these Terms, Live ‘Ukulele does not sell or disclose an
 
 **Security:** Live ‘Ukulele relies on industry-standard security technologies and procedures to protect your personal information from unauthorized access, use, disclosure, alteration, and/or destruction. Live ‘Ukulele cannot fully eliminate security risks associated with the personal information it collects, and a breech may occur.
 
-**Jurisdiction:** Live ‘Ukulele is based in Placerville, CA. As such, any information collected by Live ‘Ukulele and/or voluntarily provided by Live ‘Ukulele users will be subject to the laws and regulations of the United States. Should a dispute arise, Live ‘Ukulele users agree that any civil action or legal proceeding shall be brought in the local, state, and federal courts of record located closest to Placerville, CA or resolved under the rules of the American Arbitration Association ( www.adr.org).
+**Jurisdiction:** Live ‘Ukulele is based in Honoka’a, HI. As such, any information collected by Live ‘Ukulele and/or voluntarily provided by Live ‘Ukulele users will be subject to the laws and regulations of the United States. Should a dispute arise, Live ‘Ukulele users agree that any civil action or legal proceeding shall be brought in the local, state, and federal courts of record located closest to Honoka’a, HI or resolved under the rules of the American Arbitration Association ( www.adr.org).
 
 **Terms Updates:** The Live ‘Ukulele Terms may be changed at any time and without notice. Should Live ‘Ukulele undergo a change of ownership or make a substantial change regarding its use of personal information, Live ‘Ukulele will notify individual subscribers any subscription management services in place. Continued use of Live ‘Ukulele’s subscription services and/or accessing its site indicates your acknowledgment of such changes and agreement to be bound by the terms and conditions of such changes.
 
 If you have any questions or concerns about Live ‘Ukulele’s Terms of Use and Privacy Statement, email: liveukulele[at]gmail.com.
-
-Like This Post? Share:
