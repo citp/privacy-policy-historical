@@ -1,79 +1,166 @@
-> *The following text is extracted and transformed from the dominos.com.sg privacy policy that was archived on 2014-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140717040721id_/http%3A//dominos.com.sg/frmPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominos.com.sg privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607215314id_/http%3A//www.dominos.com.sg/frmPrivacy.aspx) for the most accurate reproduction.*
 
 # Domino's Pizza Singapore - Privacy
 
-Domino's Pizza Singapore Pte Ltd ("Domino's") acknowledges and respects the privacy of individuals. This policy covers the personal information that Domino's and its franchisees hold and sets out the way in which Domino's and its franchisees will use, manage and protect your personal information when you visit any of our websites, or place an order with one of our stores.
+Dear valued customer,
 
-Domino's may revise this policy from time to time whenever necessary so check this website regularly to stay informed of any updates. This policy is effective as from October 2009.
+Thank you for your loyal patronage. Your data privacy is important to us.
 
-How Do We Collect Information?
+Please be assured that Domino’s Pizza considers the privacy of your personal data a subject of utmost importance.
 
-Domino's may collect personal information from you including your first and last name, address, telephone and mobile number(s), email address, credit card details and any other information, when you knowingly provide us with this information. This will generally occur when you either:
+Personal data includes but is not limited to your name, telephone number, email address, home address as well as any information you have provided to Domino’s Pizza.
 
-visit our web sites;  
-enter into a competition or promotion;  
-participate in a survey;  
-subscribe to our mailing list;  
-register as an emember;  
-apply for a job;  
-submit website feedback; or  
-place a pizza order via store or via our internet system.
+Please scroll down to view our Personal Data Protection Policy.
 
-Where Domino's collects personal information about you from someone else, Domino's will take reasonable steps to advise you.
+The Personal Data Protection Policy will enable you to understand how we use the personal information we may collect from you. By providing your personal information to us, you are consenting to our Personal Data Protection Policy and the collection, use, access, transfer, storage and processing of your personal information as described in our Personal Data Protection Policy.
 
-How Do We Use Information?
+Should you wish to limit or be excluded from our engagements, please contact us at the following:
 
-Domino's may use the personal information that you submit to store and process that information in order to provide goods and services. Generally, we may use your personal information in the ways in which you would expect, including but not limited, to any of the following purposes:
+**Email Address : contact.privacy@dominos.com.sg**
 
-to process any job application you may submit;  
-to provide you with any company information you may request;  
-to process any online ordering;  
-to determine the number of visitors to our websites and conduct reviews of our sites;  
-to fulfil prizes, awards and purchases;  
-to respond to specific requests from visitors;  
-to keep you informed about any changes to our websites;  
-to conduct marketing research; and  
-to now and again send you offers or information on products or services that we consider will be of interest to you.
+By not contacting us, we take it that you have consented to the overall use of your personal data as set out in our Personal Data Protection Policy.
 
-Further information on how we use your personal information when using our Internet ordering system.
+All updates to our Personal Data Protection Policy will be regularly posted on our website. We encourage you to continually visit us for the latest updates and news.
 
-When using the Domino's Pizza internet ordering system additional information is collected when you order a pizza online. This information assists in the delivery to your door and to verify your credit card payment. The internet order system also stores information about your order to help you remember and re-order the same menu in future. 
+Thank you.
 
-ECoupons
+This Personal Data Protection Policy (PDPP) is issued to all our valued customers pursuant to the requirements of the Singapore Personal Data Protection Act 2012. 
 
-Domino’s ecoupon to be redeemed via Domino's Pizza Internet order system. Go to the 'Online Order' page, select the 'Online e-Coupon' button, and select your e-coupon. This information is then processed by Domino's Pizza in order to verify and provide your discount.
+We treat and view your personal data seriously. Please read the following Policy to understand how Domino’s Pizza Singapore Pte Ltd (“Domino’s Pizza”) uses the personal data we may collect from you. By providing your personal data to us, you are consenting to this PDPP and the collection, use, access, transfer, storage and processing of your personal information as described in the Policy.
 
-Third Party Disclosure
+**1\. Personal Data**
 
-Domino's may share statistics and personal information with companies that are related to Domino's including our international branches.
+Personal data is any information that concerns you individually and would permit us to contact you, for example, your name, address, telephone/fax number, email address or any information you submit to Domino’s Pizza, our tablet and smartphone applications ("Applications") that identifies you individually.
 
-Personal information that you submit to Domino's may be disclosed to a third party:
+The Websites or the Applications cannot collect any personal information about you unless you provide it.
 
-Such as our suppliers who are employed to provide some of our services such as mailing houses;  
-to meet the purpose for which it was submitted;  
-if you have provided your express consent to share the information;  
-if Domino's are required or authorised by law to disclose the information;  
-if your personal information is collected in connection with a joint promoter, to that joint promoter for marketing and research purposes;  
-if Domino's feel you might like to know about a third party's goods and services we may supply that personal information to that third party. (We know that many of our customers enjoy receiving these excellent offers); or  
-if you place an order via our internet order system, your details will be passed on to Verisign, who receive your credit card details for internet order payment. Verisign is a secure internet payment gateway that secures your credit card number during transmission. See: www.verisign.com for further details.
+You can visit and browse the Domino's Pizza Website and the Applications without revealing personal information about yourself, but not all functions will be available to you. You may also choose to disclose personal information about yourself. We may collect personal information from you when you:
 
-Access, Accuracy and Security
-
-Domino's will take reasonable steps to ensure that the personal information collected is accurate, complete and up-to-date.
-
-You can access and request correction of any personal information concerning you at any time. You may also request that your personal information be deleted at any time. Any such requests should be made directly by contacting us (see "Contact Us" section below).
-
-Domino's will take reasonable steps to protect personal information from misuse, loss and unauthorised access, modification or disclosure.  
+  1. Communicate with us through the different platforms of ordering 
+    1. Through website 
+    2. Through mobile applications 
+    3. Through call centre
+    4. Through over the counter 
+  2. Register or subscribe to any products/services e.g.: newsletter.
+  3. Participate in any of our surveys done internally or via an appointed third party.
+  4. Enter into /participate/win in any contest/competition/loyalty programs run by us.
+  5. Register interest and /or request for information or orders.
+  6. Respond to any marketing materials we send out.
+  7. Commence a business relationship with us.
+  8. Visit any of our stores
+  9. Visit or browse our website
+  10. Lodge a complaint with us
+  11. Provide feedback to us
+  12. Apply for a job
 
 
-Sensitive Information
 
-Domino's will not collect, use or disclose sensitive information (such as information about racial or ethnic origins or political or religious beliefs) except with your specific consent or in the circumstances permitted in the Singaporean privacy laws or any other related laws in Singapore.  
+If you provide us with any Personal Data relating to a third party (e.g. information of your spouse, children, parents, and/or employees), by submitting such Personal Data to us, you represent to us that you have obtained the consent of the third party to provide us with their Personal Data for the purposes as listed below.
+
+**2\. Purpose of Collection, Use and Disclosure of Your Personal Data**
+
+Domino's Pizza may use the personal information collected through its Website or Applications primarily for the following purposes:
+
+  1. To verify your identity
+  2. To assess and process your application(s)/request(s) for our products or service
+  3. To provide you with the products and /or services you have requested
+  4. To administer and manage the products and/or services we provide you (including but not limited to ordering, delivery, complaints, follow up and feedbacks)
+  5. To investigate and resolve any ordering, delivery, quality, complaints or other inquiries that you submit to us regarding our products and services
+  6. To detect and prevent fraudulent activities
+  7. To keep in contact with you and provide you with any information you have requested
+  8. To engage in business transactions in respect of products and/or services to be offered and provided to you
+  9. To establish and better manage any business relationship we may have with you
+  10. To process any communications you send us (e.g.: answering any queries and dealing with any complaints or feedbacks)
+  11. To help us monitor and improve our product and service performances
+  12. To maintain and develop our business system and infrastructure, including testing and upgrading of these systems as we are always working on continuous improvement.
+  13. To manage staff training and quality assurance
+  14. To notify you about benefits and changes to the features of our products and/or services 
+  15. To determine how we can improve services to you
+  16. To produce data, reports and statistics which shall be anonymized or aggregated in a manner that does not identify you as an individual
+  17. To investigate, respond to, or defend claims against Domino’s Pizza Singapore Pte Ltd
+  18. To conduct marketing activities (for example, market research, sending latest information on promotions, offers and new products/services
+  19. To maintain records required for internal investigations, audit or security purposes.
 
 
-Clickstream Data
 
-Each time you visit the Domino's site our server collects some anonymous information, known as click-stream data, including the type of browser and system you are using; the address of the site you have come from and move to after your visit; the date and time of your visit; and your server's IP address.
+**3\. Disclosure and Transferring of Data**
 
-Domino's may collect this information for statistical purposes to find out how the websites is used and navigated, including the number of hits, the frequency and duration of visits, most popular session times. Domino's may use this information to evaluate and improve the Domino's websites.  
+We may disclose your personal data to the following third parties as may be required for any of the above purposes:
 
+  1. Law enforcement agencies and such bodies in compliance with the law and Order of a Court
+  2. Companies and/or organisations that act as our agents, contractors, service providers and/or professional advisers
+  3. Companies and/or organisations that assist us in processing the personal information
+  4. Our business associates and other parties for purposes that are related to the purpose of collecting your personal information
+  5. Other parties in respect of whom you have given your consent
+
+
+
+**4\. "Cookies" and Advertisers**
+
+A cookie may be used in the processing of your personal information. A cookie is a text file placed into the memory of your computer and/or device by Domino’s Pizza’s computers. A copy of this text file is sent by your computer and/or device whenever it communicates with Domino’s Pizza’s server. Domino’s Pizza use cookies to identity you. Domino’s Pizza may also collect the following information during your visit to the Websites:-
+
+The date and time you accessed each page on the Websites;The URL of any webpage from which you accessed the Websites;The web browser that you are using and the pages you accessed
+
+Some web pages may require you to provide a limited amount of personal data in order to enjoy certain services on the Websites (system login credentials, email address and contact, etc.). These personal data will only be used by Domino’s Pizza for its intended purpose only, i.e. to respond to your message and deliver the requested services.
+
+**5\. External Links**
+
+Domino's Pizza Websites and Applications may contain links to other web sites not maintained or related to Domino's Pizza. These links are provided as a service to users and are not sponsored by or affiliated with the Websites, Applications, or Domino's Pizza. These websites may have their own privacy statement in place and we recommend that you review those statements if you visit any linked web sites. Domino's Pizza is not responsible for the contents on the linked sites or any use of the sites.
+
+**6\. Security**
+
+Domino’s Pizza shall take reasonable steps to safeguard your personal information against any loss, misuse, modification, unauthorized or accidental access or disclosure, alteration or destruction by having regard
+
+  1. to the nature of the personal data and the harm that would arise; 
+  2. to the place or location where the personal data is stored; 
+  3. to any security measures incorporated into any equipment in which the personal data is stored; 
+  4. to the measures taken for ensuring the reliability, integrity and competence of personnel having access to the personal data; and 
+  5. to the measures taken for ensuring the secure transfer of the personal data. 
+
+
+
+Domino’s Pizza shall ensure that any security policy developed or implemented by Domino’s Pizza complies with the security standard required under the Act and any applicable law that may from time to time be in force. 
+
+Domino’s Pizza places great importance on the security of your personal information and ensures organisational security measures when processing your personal data.
+
+**7\. Retention**
+
+Any personal information supplied by you will be retained by Domino’s Pizza for such period as is necessary for the purposes set out in this Policy or as may be deemed necessary by Domino’s Pizza or where otherwise required by law.
+
+**8\. Changes to our Privacy Policy**
+
+This Privacy Policy is effective as of 3 July 2014. From time to time, it may be necessary for Domino’s to change this Privacy Policy. If we change our policy, we will post the revised version here, so we suggest that you check here periodically for the most up-to-date version of our Privacy Policy. Rest assured, however, that any changes will not be retroactively applied and will not alter how we handle previously collected information.
+
+**9\. Right of Access and Correction**
+
+You have the right to access and correct the personal information supplied to Domino’s Pizza. 
+
+If you wish to access and/or correct the personal information held by Domino’s Pizza or make a feedback in respect of the personal information furnished to Domino’s Pizza, you may contact: 
+
+| Designation | : | Customer Service Executive  
+---|---|---  
+Correspondence Address | : | Domino’s Pizza Singapore Pte Ltd, 81 Ubi Avenue 4 #10-16 Ub.OneSingapore 408830.  
+Email Address | : | contact.privacy@dominos.com.sg  
+  
+Office hours   
+9.00am to 6.00pm (Monday to Friday) 
+
+Domino’s will generally be able to respond to such queries and/or requests within 48 working hours.
+
+Domino's Pizza has limited delivery areas only. If your address is not found to be in our delivery area, but should be, please Contact Us. 
+
+To order online, registered customers must first login by keying in member ID and password.
+
+Mode of payment is strictly Cash On Delivery and/or Credit Card and/or Domino's Gift Certificates.
+
+The 30-minute Delivery Commitment starts from the time our Customer Service Centre e-mails you and/or verifies your order.
+
+The last arrival time for orders is 11.30pm.
+
+Customers may use more than one online coupon per order, subject to terms and conditions.
+
+Online Coupons are not redeemable for cash.
+
+Children below 18 years of age are not permitted to place online orders.
+
+Minimum order for delivery is S$15 OR one regular pizza .
