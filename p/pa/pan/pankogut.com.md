@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pankogut.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206085856id_/http%3A//pankogut.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pankogut.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607093036id_/http%3A//pankogut.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - PanKogut
+# Privacy Policy | Pankogut
 
 Your privacy is critically important to us. At Pankogut we have a few fundamental principles:
 
