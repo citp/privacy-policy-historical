@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techypassion.com privacy policy that was archived on 2014-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140814020041id_/http%3A//www.techypassion.com/contact/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techypassion.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144416id_/http%3A//www.techypassion.com/contact/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TechypassionTechypassion
+# Privacy Policy - TechypassionTechypassion
 
   
 **Techypassion Privacy Policy**
