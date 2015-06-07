@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thuttu.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208190923id_/http%3A//thuttu.com/page.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thuttu.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607150929id_/http%3A//thuttu.com/page.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for thuttu.com | Thuttu
 
