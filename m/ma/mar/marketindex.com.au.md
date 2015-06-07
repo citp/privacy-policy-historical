@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketindex.com.au privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106120019id_/http%3A//www.marketindex.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketindex.com.au privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607135932id_/http%3A//www.marketindex.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Market Index
 
@@ -25,7 +25,7 @@ We use Google Analytics and may use other types of analytics software to improve
 
 Google [DoubleClick](http://en.wikipedia.org/wiki/DoubleClick) software is used to serve the advertisements on this website. Google uses their anonymous data about website visitors to serve them with advertisements that are more relevant to their interests.
 
-You can opt out from Google Analytics and Advertising Features by turning off cookies in your browser. Please note, disabling cookies may result in reduced website functioning, not necessarily on Market Index but on a significant number of websites on the internet.
+You can opt out from Google Analytics and Google Analytics Advertising Features by turning off cookies in your browser. Please note, disabling cookies may result in reduced website functioning, not necessarily on Market Index but on a significant number of websites on the internet.
 
 Visit the [Google Analytics](https://www.google.com.au/analytics/) page for more information or [opt-out here](https://tools.google.com/dlpage/gaoptout/).
 
