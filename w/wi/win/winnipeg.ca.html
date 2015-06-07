@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the winnipeg.ca privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120084701id_/http%3A//www.winnipeg.ca/interhom/conditions_of_use/PrivacyStatement.stm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the winnipeg.ca privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607174932id_/http%3A//www.winnipeg.ca/interhom/conditions_of_use/PrivacyStatement.stm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy - Connect With Us - City of Winnipeg</title>
@@ -13,7 +13,7 @@
 
 <!-- Remember to update the French website's head_fr.htm file when updating this -->
 
-<meta name="copyright" content="Copyright 2014 City of Winnipeg All Rights Reserved">
+<meta name="copyright" content="Copyright 2015 City of Winnipeg All Rights Reserved">
 
 
 <link href="http://winnipeg.ca/interhom/images/ico/winnipegca32.ico" rel="shortcut icon">
@@ -21,7 +21,6 @@
 <link href="/shared/Redesign/stylesheets/Print.css" rel="stylesheet" type="text/css" media="handheld">
 <link href="/shared/Redesign/stylesheets/lightbox.css" rel="stylesheet" type="text/css">
 <link href="/shared/Redesign/stylesheets/base_style.css" rel="stylesheet" type="text/css">
-<link href="/shared/Redesign/stylesheets/home_style.css" rel="stylesheet" type="text/css">
 
 <script language="JavaScript" type="text/javascript" src="/shared/js/global.js"></script>
 
@@ -43,26 +42,36 @@
 <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
 <!--script type="text/javascript" src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script-->
 
-<!-- Left menu for Residents, Business, Visitors, City Hall, Departments and Site Map-->
-<script type="text/javascript" src="/shared/Redesign/js/menutree.js"></script>
-
 <!-- This is to help IE render HTML5 tags -->
 <script src="/shared/Redesign/js/html5shiv.js"></script>
 <script src="/shared/Redesign/js/html5shiv-printshiv.js"></script>
 
+<!-- FONT AWESOME Accessibility friendly icons -- http://fontawesome.io/ -->
+<link rel="stylesheet" href="/shared/Redesign/font-awesome-4.3.0/css/font-awesome.min.css">
 
 <link href="/shared/Redesign/stylesheets/blue.css" rel="stylesheet" type="text/css">
 </head>
 <body class="hide-right-bar"><div id="overlay" style="display: none; position: absolute; top: 0px; left: 0px; z-index: 90; width: 100%;"></div><div id="lightbox" style="display: none; position: absolute; z-index: 100;"><a href="#" title="Click to close"><img id="lightboxImage"></a><div id="lightboxDetails"><div id="lightboxCaption" style="display: none;"></div><div id="keyboardMsg">click on image to close</div></div></div>
 <!-- To add a right nav, remove class="hide-right-bar" from the body tag above -->
-<!-- BEGIN accessibility link -->
-<a href="/interhom/help/access.stm" tabindex="1"><img src="/shared/winnipegca/images/pxl_trans.gif" width="1" height="1" border="0" alt="Accessibility" title="Accessibility" style="position:absolute; top:0px; left:0px; z-index:0; visibility:hidden;"></a>
-<!-- END accessibility link -->
+
 
   <!-- top navigation -->
   <!-- access key #1 to top nav is in the top-nav.htm include file -->
-  <a href="#skipToTopNav" accesskey="1" title="Access Key 1 to Skip to Top Navigation - Weather, Date and Francais"></a>
+  
+<!--The first link on the page is supposed to be an Accessibility link-->
+<a title="Site Accessibility Information" href="http://www.winnipeg.ca/interhom/help/access.stm" tabindex="1"><img alt="Accessibility" src="/shared/images/pxl_trans.gif" width="1" height="1" border="0" style="position:absolute; top:0px; left:0px; z-index:0; visibility:hidden;"></a>
+
+<a href="#skipToTopNav" accesskey="1" title="Access Key 1 to Skip to Top Navigation"></a>
+<a href="#skipTo311Link" accesskey="2" title="Access Key 2 to Skip to the Three One One link"></a>
+<a href="#skipToMainMenu" accesskey="3" title="Access Key 3 to Skip to City of Winnipeg Main Menu"></a>
+<a href="#skipToLeftNav" accesskey="4" title="Access Key 4 to Skip to Left Navigation Menu"></a> 
+<a href="#skipToContent" accesskey="5" title="Access Key 5 to Skip to Content area"></a> 
+<a href="#skipToRtSidebar" accesskey="6" title="Access Key 6 to Skip to Right Sidebar content area"></a>
+<a href="#skipToFooter" accesskey="7" title="Access Key 7 to Skip to Footer Links" onclick="document.getElementById('skipToFooter').focus();"></a>
+
+
 <a name="skipToTopNav"></a>
+
 
 <script type="text/javascript">
 
@@ -130,24 +139,29 @@ $(document).ready(function() {
     <div class="container">
 
 <div class="stayconnected">
-      <img src="http://www.winnipeg.ca/shared/Redesign/images/socialMedia/stayconnected_topnav.png" alt="">
+      <img src="http://www.winnipeg.ca/shared/Redesign/images/socialMedia/stayconnected_topnav.png" alt="Stay Connected with Facebook and Twitter">
       <span class="sc"><a href="http://www.winnipeg.ca/interhom/SocialMedia/">stay connected</a></span>
 </div>
 
 
 <!--Font size selector -->
 <div class="resizer">Text size: 
-       <span class="small"><a href="#"><span style="font-size:12px;">A</span></a></span> |
-       <span class="medium"><a href="#"><span style="font-size:14px;">A</span></a></span> |
-       <span class="large"><a href="#"><span style="font-size:16px;">A</span></a></span> 
+       <span class="small"><a href="#"><span id="accesssmall">change text size to small</span><span style="font-size:12px;">A</span></a></span>  |
+       <span class="medium"><a href="#"><span id="accessmedium">change text size to medium</span><span style="font-size:14px;">A</span></a></span>  |
+       <span class="large"><a href="#"><span id="accesslarge">change text size to large</span><span style="font-size:16px;">A</span></a></span>
 </div>
 <!--Close font size selector-->
 
 
-<a href="http://winnipeg.ca/francais/">Français</a>&nbsp;&nbsp;<strong>|</strong>&nbsp;
+<a href="http://winnipeg.ca/francais/" alt=""><span id="francais">Link to the City of Winnipeg French website</span>Français</a>&nbsp;&nbsp;<strong>|</strong>&nbsp;
 
 <!-- winnipeg weather -->
 <!-- <a href="http://weather.gc.ca/city/pages/mb-38_metric_e.html" target="_blank">Weather</a> |  -->
+
+<!-- For Screenreaders -->
+<span id="weather">Current weather in the City of Winnipeg</span>
+<!--close-->
+
 <a href="http://ca.weather.yahoo.com/canada/manitoba/winnipeg-2972/" id="ywgIcon2" target="_blank"></a>
 <span id="ywgTemp"></span>				
 <script type="text/javascript" src="http://www.winnipeg.ca/shared/Redesign/winnipegWeather/weather.js" defer="defer"></script>
@@ -183,9 +197,9 @@ document.write(d_names[curr_day] + "," + " " + m_names[curr_month] + " " + curr_
 <!-- Search -->
 <!-- Google CSE Search Box Begins -->
 	<form method="get" action="http://cowapp02.winnipeg.ca/search" name="search" style="display:inline;">
-        <input id="top_nav_wpgsearchtxt" type="text" name="q" size="22" maxlength="255" style="width: 150px; height: 17px; color:#999999; border:0;" align="left" onfocus="if (this.value == ' search winnipeg.ca') {this.value = '';}" value=" search winnipeg.ca" onblur="if (this.value == '') {this.value = ' search winnipeg.ca';}">
+        <input id="top_nav_wpgsearchtxt" type="text" name="q" size="22" maxlength="255" style="width: 150px; height: 17px; color:#999999; border:0;" align="left" onfocus="if (this.value == ' search winnipeg.ca') {this.value = '';}" value=" search winnipeg.ca" onblur="if (this.value == '') {this.value = ' search winnipeg.ca';}" title="search the City of Winnipeg website">
             
-		<button id="top_nav_wpgsearchbtn" style="width: 38px; height: 19px; border:0; font-size:12px; color:#323266;" role="button" aria-disabled="false" title="">Go</button>
+		<button id="top_nav_wpgsearchbtn" style="width: 38px; height: 19px; border:0; font-size:12px; color:#323266;" role="button" aria-disabled="false" title="Click Go to Search">Go</button>
            
 		<input type="hidden" name="site" value="default_collection">
 		<input type="hidden" name="client" value="SearchFrontend">
@@ -202,7 +216,7 @@ document.write(d_names[curr_day] + "," + " " + m_names[curr_month] + " " + curr_
 </div>
 
 <!-- START KNOW YOUR ZONE AD -->
-<style>
+<!--style>
 div.floating-menu {
   clear: both;
   width: 952px;
@@ -251,14 +265,14 @@ div.floating-menu .container .alert a:visited{
 </style>
 
 <div class="floating-menu" id="float">
-	<a href="http://www.winnipeg.ca/publicworks/Parkingbans/parkingBans.asp">
+	<a href="http://www.winnipeg.ca/publicworks/Parkingbans/parkingBans.asp" title="Parking Ban information, Know Your Zone dot winnipeg dot ca">
     <div class="container">
-		<!--div class="alert"-->
-                <!--include virtual="/shared/Redesign/socks_KYZ/includes/KYZ.htm" --> 
-        <!--/div-->
+		<div class="alert">
+                <!--include virtual="/shared/Redesign/socks_KYZ/includes/KYZ.htm" > 
+        </div>
     </div>
     </a>
-</div>
+</div-->
 <!-- END KNOW YOUR ZONE AD -->
 
 
@@ -278,7 +292,7 @@ div.floating-menu .container .alert a:visited{
       <div id="left-menu">
         <a href="#skipToLeftNav" accesskey="3" title="Access Key 3 to Skip to Left Menu Bar"></a> <a name="skipToLeftNav"></a>
         <!-- *** EDITABLE: left sidebar content -->
-        
+        <a name="skipToLeftNav"></a>
 
 <div class="section agency first"><a href="/interhom/SocialMedia/default.stm">Connect With Us</a></div>
 <div id="leftNav">
@@ -293,7 +307,7 @@ div.floating-menu .container .alert a:visited{
 		<li><a href="/interhom/conditions_of_use/" title="Conditions of Use">Conditions of Use</a></li>
         <li><a href="/interhom/conditions_of_use/MapConditions.stm" title="Mapping Conditions of Use">Mapping Conditions of Use</a></li>
         <li><a href="/interhom/conditions_of_use/PrivacyStatement.stm" title="Privacy">Privacy</a></li>
-		<li><a href="/isext/CorporateCommunications/" title="Media Inquiries">Media Inquiries</a></li>
+		<li><a href="/cao/CorporateCommunications/" title="Media Inquiries">Media Inquiries</a></li>
         <li><a href="/contact/" title="Contact">Contact</a></li>
         <li><a href="/interhom/SocialMedia/sitemap/sitemap.asp">Site map</a></li>
         <li><a href="/interhom/Calendar/default.stm">Event Calendar</a></li>
@@ -319,7 +333,7 @@ Please enable JavaScript in your browser settings then try again.
         <a href="/WinnipegMinute/"><img src="/interhom/WinnipegMinute/images/Winnipeg-minunte_163x100.jpg" alt="Winnipeg Minute" width="163" height="100" border="0"></a>
       </div>
 
-<div class="section emergweb"><a title="EmergeWeb, the City of Winnipeg's Emergency Preparedness website for the citizens of Winnipeg" href="/emergweb/"><img src="/interhom/images/home/EmergWeb.jpg"></a></div>
+<div class="section image"><a title="EmergeWeb, the City of Winnipeg's Emergency Preparedness website for the citizens of Winnipeg" href="/emergweb/"><img src="/interhom/images/home/EmergWeb.jpg"></a></div>
  
         <!-- *** /EDITABLE: left sidebar content -->
       </div>
@@ -333,7 +347,7 @@ Please enable JavaScript in your browser settings then try again.
     
       <div id="top-menu">
         <ul class="menu extras">
-          <li class="site_map"><a href="http://winnipeg.ca/interhom/sitemap.stm">Site Map</a></li>
+          <li class="site_map"><a href="http://winnipeg.ca/interhom/TOC/sitemap/sitemap.asp">Site Map</a></li>
         </ul>
 
   <ul class="menu">
@@ -416,67 +430,129 @@ populateNav("/Interhom/SocialMedia/navData.xml");
 
     <!-- footer -->
     <!-- access key #6 to the footer is in the footer.htm include file -->
-    <a href="#skipToFooter" accesskey="6" title="Access Key 6 to Skip to Bottom Links"></a> <a name="skipToFooter"></a>
+    <style>
+/***** FOOTER ***********************************************************************/
+
+
+#footer {
+  clear: both;
+  display:block;
+  background-color: #E7EFF7;
+  text-align: left;
+  font-size: 70%;
+  border-top: 1px dotted #999999;
+  height: inherit;
+  line-height: 20px;
+  margin-top:10px;
+  padding-top:10px;
+  padding-bottom:10px;
+}
+
+
+#footer ul {
+	list-style:none !important;
+	width:15%;
+	float:left;
+ 	}
+
+#footer li {
+	list-style:none !important;
+	border-bottom:1px dotted #ffffff;				
+	}
+	
+#footer li a {
+	border-left:none !important;
+	text-decoration: none;
+	display:block;
+	padding-bottom:3px;
+	padding-top:3px;
+	padding-left: 13px;	
+	padding-right: 3px;	
+	border-bottom:1px dotted #ccc;
+	color:#333;			
+				
+	}
+
+#footer li a:hover {
+color:#333;			
+	}
+
+.copyright {
+ clear: both;
+ text-align:left;
+ padding-top:5px;
+ padding-left:40px;
+  font-size: 80%;
+ }
+
+
+/*--------------------END Footer Styles------------------------------------------*/
+</style>
+
+
+<a name="skipToFooter" id="skipToFooter"></a>
 
 
 <div id="footer">
   
-<div class="footer_box">
-<div class="footer_box"><a href="http://www.winnipeg.ca/interhom/">Home</a></div>
-<div class="footer_box"><a href="http://www.winnipeg.ca/interhom/accessibility/accessWinnipegCa.stm">Accessibility</a></div>
-<div class="footer_box"><a href="http://www.winnipeg.ca/mobile/">Mobile</a></div>
-<div class="footer_box"><a href="http://www.winnipeg.ca/apps/">Apps</a></div>
-<div class="footer_box"><a href="https://data.winnipeg.ca/">Open Data</a></div>
+<ul>
+<li><a href="http://www.winnipeg.ca/interhom/">Home</a></li>
+<li><a href="http://www.winnipeg.ca/interhom/accessibility/accessWinnipegCa.stm">Accessibility</a></li>
+<li><a href="http://www.winnipeg.ca/mobile/">Mobile</a></li>
+<li><a href="http://www.winnipeg.ca/apps/">Apps</a></li>
+<li><a href="https://data.winnipeg.ca/" target="_blank">Open Data</a></li>
+</ul>
 
-</div>
 
-<div class="footer_box">
-<div class="footer_box"><a href="http://www.winnipeg.ca/interhom/TOC/residents.asp">Residents</a></div>
-<div class="footer_box"><a href="http://www.winnipeg.ca/interhom/TOC/business.asp">Business</a></div>
-<div class="footer_box"><a href="http://www.winnipeg.ca/interhom/TOC/visitors.asp">Visitors</a></div>
-<div class="footer_box"><a href="http://www.winnipeg.ca/interhom/TOC/CityHall.asp">City Hall</a></div>
-<div class="footer_box"><a href="http://www.winnipeg.ca/interhom/TOC/departments.asp">Departments</a></div>
-</div>
 
-<div class="footer_box">
-<div class="footer_box"><a href="http://www.winnipeg.ca/cao/media/news/">News</a></div>
-<div class="footer_box"><a href="http://www.winnipeg.ca/interhom/mayor/">Mayor's Office</a></div>
-<div class="footer_box"><a href="http://www.winnipeg.ca/interhom/contact/">Contact 311</a></div>
-<div class="footer_box"><a href="http://www.winnipeg.ca/isext/CorporateCommunications/">Media Inquiries</a></div>
-</div>
+<ul>
+<li><a href="http://www.winnipeg.ca/interhom/TOC/residents.asp">Residents</a></li>
+<li><a href="http://www.winnipeg.ca/interhom/TOC/business.asp">Business</a></li>
+<li><a href="http://www.winnipeg.ca/interhom/TOC/visitors.asp">Visitors</a></li>
+<li><a href="http://www.winnipeg.ca/interhom/TOC/CityHall.asp">City Hall</a></li>
+<li><a href="http://www.winnipeg.ca/interhom/TOC/departments.asp">Departments</a></li>
+</ul>
 
-<div class="footer_box">
-<div class="footer_box"><a href="http://www.winnipeg.ca/interhom/sitemap.stm">Site Map</a></div>
-<div class="footer_box"><a href="http://www.winnipeg.ca/interhom/conditions_of_use/PrivacyStatement.stm">Privacy</a></div>
-</div>
 
-<div class="footer_box">
-<div class="footer_box"><a href="http://www.winnipeg.ca/interhom/SocialMedia/"><strong>Connect With Us!</strong></a>
-</div>
+<ul>
+<li><a href="http://www.winnipeg.ca/cao/media/news/">News</a></li>
+<li><a href="http://www.winnipeg.ca/interhom/mayor/">Mayor's Office</a></li>
+<li><a href="http://www.winnipeg.ca/interhom/contact/311.stm">Contact 311</a></li>
+<li><a href="http://www.winnipeg.ca/corp/CorporateCommunications/">Media Inquiries</a></li>
+</ul>
 
-<div class="connect">
-<table width="100%" border="0" cellpadding="5">
+
+<ul>
+<li><a href="http://winnipeg.ca/interhom/TOC/sitemap/sitemap.asp">Site Map</a></li>
+<li><a href="http://www.winnipeg.ca/interhom/conditions_of_use/PrivacyStatement.stm">Privacy</a></li>
+</ul>
+
+
+<ul>
+<li><a href="http://www.winnipeg.ca/interhom/SocialMedia/">Connect With Us!</a></li>
+</ul>
+
+<table border="0" cellpadding="5" align="left" style="padding-left:35px;">
   <tbody><tr>
-    <td><a href="http://www.winnipeg.ca/interhom/SocialMedia/"><img src="http://www.winnipeg.ca/shared/Redesign/images/socialMedia/Blog.png" alt="Blog" width="36" height="36" border="0"></a></td>
-    <td><a href="http://www.winnipeg.ca/interhom/SocialMedia/"><img src="http://www.winnipeg.ca/shared/Redesign/images/socialMedia/Facebook.png" alt="Become a fan on Facebook" width="36" height="36" border="0"></a></td>
-    <td><a href="http://www.winnipeg.ca/interhom/SocialMedia/"><img src="http://www.winnipeg.ca/shared/Redesign/images/socialMedia/twitter.png" alt="follow us on Twitter" width="36" height="36" border="0"></a></td>
+    <td><a href="/interhom/SocialMedia/"><img src="http://www.winnipeg.ca/shared/Redesign/images/socialMedia/Blog.png" alt="Blog" width="36" height="36" border="0"></a></td>
+    <td><a href="/interhom/SocialMedia/"><img src="http://www.winnipeg.ca/shared/Redesign/images/socialMedia/Facebook.png" alt="Become a fan on Facebook" width="36" height="36" border="0"></a></td>
+    <td><a href="/interhom/SocialMedia/"><img src="http://www.winnipeg.ca/shared/Redesign/images/socialMedia/twitter.png" alt="follow us on Twitter" width="36" height="36" border="0"></a></td>
   </tr>
   <tr>
-    <td><a href="http://www.winnipeg.ca/interhom/SocialMedia/"><img src="http://www.winnipeg.ca/shared/Redesign/images/socialMedia/youtube.png" alt="YouTube" width="36" height="36" border="0"></a></td>
-    <td><a href="http://www.winnipeg.ca/interhom/SocialMedia/"><img src="http://www.winnipeg.ca/shared/Redesign/images/socialMedia/rss.png" alt="Winnipeg.ca News" width="36" height="36" border="0"></a></td>
-    <td><a href="http://www.winnipeg.ca/interhom/SocialMedia/"><img src="http://www.winnipeg.ca/shared/Redesign/images/socialMedia/email.png" alt="Winnipeg.ca News" width="36" height="36" border="0"></a></td>
+    <td><a href="/interhom/SocialMedia/"><img src="http://www.winnipeg.ca/shared/Redesign/images/socialMedia/youtube.png" alt="YouTube" width="36" height="36" border="0"></a></td>
+    <td><a href="/interhom/SocialMedia/"><img src="http://www.winnipeg.ca/shared/Redesign/images/socialMedia/rss.png" alt="Winnipeg.ca News" width="36" height="36" border="0"></a></td>
+    <td><a href="/interhom/SocialMedia/"><img src="http://www.winnipeg.ca/shared/Redesign/images/socialMedia/email.png" alt="Winnipeg.ca News" width="36" height="36" border="0"></a></td>
   </tr>
 </tbody></table>
-</div>
+
+<div class="copyright">
+City of Winnipeg - 510 Main Street - Winnipeg, Manitoba - R3B 1B9<br>
+©1996-2015, City of Winnipeg &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Use of this site signifies your agreement to the <a href="http://www.winnipeg.ca/interhom/conditions_of_use/"><strong>Conditions of Use</strong></a>
 </div>
 
-<br clear="all">
-    
-<div class="copyright">
-©1996-2014, City of Winnipeg &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Use of this site signifies your agreement to the <a href="http://www.winnipeg.ca/interhom/conditions_of_use/">Conditions of Use</a>
 </div>
 
 
   </div>
 
-</div></body></html>
+</body></html>
