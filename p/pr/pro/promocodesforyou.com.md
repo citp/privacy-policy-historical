@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promocodesforyou.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108155506id_/http%3A//promocodesforyou.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promocodesforyou.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607154538id_/http%3A//promocodesforyou.com/Privacy) for the most accurate reproduction.*
 
 # Privacy | PromoCodesForYou
 
@@ -52,5 +52,5 @@ If there are any questions regarding this privacy policy you may visit our [Cont
 
 PromoCodesForYou.com
 
-2121 Cloverfield Blvd. Suite 132   
-Santa Monica, CA 90404
+615 Hampton Dr. Unit D302   
+Venice, CA 90291
