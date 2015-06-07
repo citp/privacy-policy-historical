@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indianpornvideos.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125080205id_/http%3A//www.indianpornvideos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianpornvideos.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607062604id_/http%3A//www.indianpornvideos.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy - Indian Porn Videos
+# 📹 Privacy policy - Indian Porn Videos
 
 rnIndian Porn Videos Limited recognizes that its customers, visitors, users, and others who use Indian Porn Videos Video value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the Indian Porn Videos Video site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site.rn
 
