@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grammar.cl privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126032710id_/http%3A//www.grammar.cl/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grammar.cl privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142819id_/http%3A//www.grammar.cl/privacy.htm) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
 ## www.grammar.cl
 
@@ -31,3 +31,7 @@ Grammar.cl is in no way responsible for websites that are linked from Grammar.cl
 Changes may be made at any time according to our privacy policy. Changes will become effective immediately upon changes to this website. Viewers may check this website at anytime to be up to date on the privacy policies of Grammar.cl.
 
 Effective Date: 01 November 2007
+
+  
+  
+
