@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directlink.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327003054id_/http%3A//www.posten.se/en/Customer-service/Pages/Postens-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directlink.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607090715id_/http%3A//www.posten.se/en/Customer-service/Pages/Postens-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Posten’s privacy policy
 
