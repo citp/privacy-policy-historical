@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpvlab.com privacy policy that was archived on 2014-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140911041208id_/http%3A//cpvlab.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpvlab.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607215149id_/http%3A//www.cpvlab.com/privacy.html) for the most accurate reproduction.*
 
 # CPV Lab - Privacy Policy
 
