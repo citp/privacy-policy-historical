@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitwales.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529161932id_/http%3A//www.visitwales.com/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitwales.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142848id_/http%3A//www.visitwales.com/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,9 +67,9 @@ Under the Data Protection Act, we have a legal duty to protect any information w
 We do not pass on your details to any third party or other government department.
 
 Access to your information and contacting us   
-If you wish to see our records of any correspondence you have sent to us, or if you have a query or complaint about this privacy policy or about the site, you can contact us at: [info@visitwales.co.uk](mailto:info@visitwales.co.uk)
+If you wish to see our records of any correspondence you have sent to us, or if you have a query or complaint about this privacy policy or about the site, use the form on the [contact us page](https://web.archive.org/contact). 
 
-If you have any comments on our privacy policy as set out in this document, please contact us using the following email address: [info@visitwales.co.uk](mailto:info@visitwales.co.uk)
+If you have any comments on our privacy policy as set out in this document, please contact us using the form on the [contact us page](https://web.archive.org/contact).
 
 ### When and how do we collect data from you? 
 
@@ -91,7 +91,7 @@ The information is collected by us, Welsh Government, Cardiff Bay, Cardiff, CF9
 
 We hold valid notifications under the Data Protection Act 1998.
 
-The personally identifiable information that is required to use the Site is owned solely by us. We do not share, sell or rent your information to any other person, company or organisation in any way other than as disclosed in this document or as stated at the point where the information is collected. You should, however, note that if you request a brochure through the Site or VisitWales, in some instances your details may be forwarded to a regional tourism marketing organisation so that they can despatch the brochure to you. [Your details will only be used by that organisation for the purposes of sending the brochure to you.]
+The personally identifiable information that is required to use the Site is owned solely by us. We do not share, sell or rent your information to any other person, company or organisation in any way other than as disclosed in this document or as stated at the point where the information is collected. You should, however, note that if you request a brochure through the Site or Visit Wales, in some instances your details may be forwarded to a regional tourism marketing organisation so that they can despatch the brochure to you. [Your details will only be used by that organisation for the purposes of sending the brochure to you.]
 
 ## Consent
 
@@ -129,4 +129,4 @@ If this privacy policy changes in any way, we will place an updated version on t
 
 ## Questions
 
-If you have any questions about this document or our procedures please contact us at [info@visitwales.co.uk](mailto:info@visitwales.co.uk)
+If you have any questions about this document or our procedures please get in touch via the [contact us page.](https://web.archive.org/contact)
