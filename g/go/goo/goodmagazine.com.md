@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the goodmagazine.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630231017id_/http%3A//www.good.is/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodmagazine.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607064814id_/http%3A//www.good.is/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GOOD
 
 This privacy policy is a legal notice about how we use personal information collected on this website. The information below outlines what information is collected (yes, we do collect some), how we may use that information (we may use some of it), the persons to whom the personal information may be disclosed, and the security measures taken to protect the personal information.
 
-Last Updated on June 28, 2012.
+Last Updated on September 4, 2014.
 
 This Privacy Policy discloses the privacy practices for GOOD.is, GOOD Finder, GOOD Maker, GOOD Mobile, the Daily GOOD, the GOOD Store, and GOOD Magazine online (collectively referred to as “GOOD”). If you have questions or concerns about any aspect of this policy, please feel free to contact our Privacy Policy Coordinator as follows:
 
@@ -14,7 +14,7 @@ GOOD Worldwide Inc
 15th Floor  
 Los Angeles, CA 90048
 
-Please read this Privacy Policy carefully. You can access the Privacy Policy anytime at www.good.is/privacy. Your use and/or registration on any aspect of GOOD will constitute your agreement to this Privacy Policy. This privacy policy does not cover information collected elsewhere, including, without limitation, offline and on sites linked to from GOOD.
+Please read this Privacy Policy carefully. You can access the Privacy Policy anytime at community.good.is/about/privacy. Your use and/or registration on any aspect of GOOD will constitute your agreement to this Privacy Policy. This privacy policy does not cover information collected elsewhere, including, without limitation, offline and on sites linked to from GOOD.
 
 1\. What this Policy Covers. This policy covers our treatment of information that we obtain when you visit GOOD. This policy does not cover the privacy practices of third parties that we do not own or control, such as our partners or advertisers. In addition we may provide links to other services and on occasion links to other sites that may interest you. All of these sites own independently of GOOD and they have their own privacy and security practices. For your best on-line experience, we encourage you to review their privacy policies before submitting personal information to them.
 
@@ -34,7 +34,7 @@ If you have signed up for a GOOD account, we will track and aggregate your Publi
 
 2.1.5. Contests, Sweepstakes, and Special Offers. GOOD may collect information from you in connection with contests, sweepstakes, and special offers. If this information is shared with a third party, we will notify you at the time of collection, if you do not want any personal information shared, you may always decline to participate in the sweepstakes, contest, or special offer.
 
-2.1.6. Surveys, Panels, and Market Research. GOOD may collect personal information from you in connection with voluntary surveys. Unless we notify you at the time of collection, the information you provide in response to optional survey questions may be shared, but only in aggregate, with advertisers and partners.
+2.1.6. Surveys, Panels, and Market Research. GOOD may collect personal information from you from third party applications (ex: Google Analytics) and/or in connection with voluntary surveys. Unless we notify you at the time of collection, the information you provide may be shared, but only in aggregate, with advertisers and partners.
 
 ## 2.2. Non-Personally Identifiable Information Collected Using Technology.
 
