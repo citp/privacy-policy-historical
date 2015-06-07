@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guruscript.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211001156id_/http%3A//guruscript.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guruscript.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174525id_/http%3A//www.guruscript.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gurus Script
 
