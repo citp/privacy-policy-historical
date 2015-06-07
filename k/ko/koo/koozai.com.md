@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the koozai.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230080340id_/http%3A//www.koozai.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koozai.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152749id_/http%3A//www.koozai.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and Cookie Policy
+# Privacy and Cookie Policy | Koozai
 
 ## Introduction
 
@@ -63,13 +63,7 @@ This website uses the following cookies:
 
  **DoubleClick** : We use remarketing codes to log when users view specific pages, allowing us to provide targeted advertising in the future.
 
- **Pardot** : The Pardot cookie allows us to add information to our database when you complete a form on the Koozai website. It makes tracking our site visitors easier and allows us to see the content that each person enjoys reading, and how they navigate through the site.
-
- **Tynt Insight** : Whenever content is copied from the Koozai website, Tynt allows us to see which content was taken.
-
  **Website Optimiser** : Our website optimiser uses cookies to remember the website for which you searched. This helps it generate the required results.
-
- **civicAllowCookies** : This code remembers if you would like to see cookies on the Koozai website, based on your choices via the cookie control pop-up.
 
 ## Social sharing cookies
 
