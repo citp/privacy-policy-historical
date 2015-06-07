@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pathfinderwiki.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129092751id_/http%3A//pathfinderwiki.com/wiki/PathfinderWiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pathfinderwiki.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142533id_/http%3A//pathfinderwiki.com/wiki/PathfinderWiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # PathfinderWiki:Privacy policy - PathfinderWiki
 
