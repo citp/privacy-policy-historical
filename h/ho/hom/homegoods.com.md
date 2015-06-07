@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homegoods.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207034415id_/http%3A//www.homegoods.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homegoods.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607184504id_/http%3A//www.homegoods.com/privacy-policy) for the most accurate reproduction.*
 
 # HomeGoods | Privacy Policy
 
