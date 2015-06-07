@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viraltrafficfrenzy.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229061509id_/http%3A//www.viraltrafficfrenzy.com/disclaimers/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viraltrafficfrenzy.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607070057id_/http%3A//www.viraltrafficfrenzy.com/disclaimers/privacy-policy.php) for the most accurate reproduction.*
 
 # Untitled
 
