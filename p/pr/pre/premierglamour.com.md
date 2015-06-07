@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premierglamour.com privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212011531id_/http%3A//www.premierglamour.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premierglamour.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074621id_/http%3A//www.premierglamour.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PremierGlamour
 
