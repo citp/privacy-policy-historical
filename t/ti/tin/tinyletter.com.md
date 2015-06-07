@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinyletter.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229052226id_/http%3A//tinyletter.com/site/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinyletter.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607231926id_/https%3A//tinyletter.com/site/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TinyLetter
 
@@ -28,8 +28,8 @@ If you have any questions or comments, or if you want to update, delete, or chan
 
 MailChimp  
 Privacy Department  
-512 Means St. Suite 404  
-Atlanta, GA 30318 
+675 Ponce De Leon Ave NE, Suite 5000  
+Atlanta, GA 30308 
 
 If you’re not satisfied with our response you can [contact TRUSTe](https://feedback-form.truste.com/watchdog/request).
 
@@ -59,7 +59,7 @@ We may use and disclose your Personal Information only as follows:
   9. **To prosecute and defend a court, arbitration, or similar proceeding.**
   10. **To support and improve the Services we offer.** This includes adding features that compare Members' Email Campaigns, or using data to suggest other publishers your subscribers may be interested in. 
   11. **To communicate with you about your account** for informational, not promotional, reasons. 
-  12. **To transfer your information** in the case of a sale, merger, consolidation or acquisition. In that event, any acquirer will be subject to our obligations under this Privacy Policy. 
+  12. **To transfer your information** in the case of a sale, merger, consolidation, or acquisition. In that event, any acquirer will be subject to our obligations under this Privacy Policy, including your rights to access and choice. We will notify you of the change either by sending you an email or posting a notice on our Web site. 
   13. **To send you informational and promotional content that you may choose (or "opt in") to receive.** You can stop receiving our promotional emails by following the unsubscribe instructions included in every email. 
 
 
@@ -69,6 +69,7 @@ We may use and disclose your Personal Information only as follows:
   1. **Blog.** We have public blogs on our Websites. Any information you include in a comment on our blog may be read, collected, and used by anyone. If your Personal Information appears on our blogs and you’d like it to be removed, contact us here. If we’re not able to remove your information, we’ll let you know why. 
   2. **Social Media Widgets.** Our Websites include social media features, like the Facebook Like button. These features may collect information about your IP address and which page you’re visiting on our site, and they may set a cookie to make sure the feature functions properly. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with those features are governed by the privacy policies of the companies that provide them. 
   3. **Links to Third-Party Sites.** Our Websites include links to other websites, whose privacy practices may be different from MailChimp’s. If you submit Personal Information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Website you visit. 
+  4. **Service Providers.** If it is necessary to provide you a service you've requested, like send you a T-shirt or enable a feature like Social Pro, then we may provide your personal information to a service provider. We will restrict any service provider's use of your personal information. We will tell you whenever reasonably possible and you may request at any time the name of our service providers. 
 
 
 
@@ -119,4 +120,4 @@ We and TRUSTe regularly review our compliance with this Privacy Policy. If we re
 
 Thanks for taking the time to learn about The Rocket Science Group’s privacy policy, and thanks for trusting us to handle your email.
 
- _Updated March 15, 2013_
+ _Updated December 18, 2014_
