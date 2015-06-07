@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadband-finder.co.uk privacy policy that was archived on 2014-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140916052830id_/http%3A//www.broadband-finder.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadband-finder.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607201611id_/http%3A//www.broadband-finder.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Broadband Finder
 
@@ -31,5 +31,3 @@ By using our website you agree to accept this privacy policy and are aware that 
 #### Website operated by
 
 This website is operated by UK Web Media LTD, and UK Web Media is a registered company in England & Wales No. 04388827. Registered Address: UK Web Media Unit 8 The Fairground Industrial Estate, Weyhill, Hampshire, SP11 0QN http://www.ukwebmedia.com
-
-Sky TV prices will increase on 1 September. In accordance with their standard terms, your Sky TV package may rise by up to 10% in a minimum contract term.
