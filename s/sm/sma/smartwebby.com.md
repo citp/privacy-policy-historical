@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartwebby.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928154346id_/http%3A//www.smartwebby.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartwebby.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607154428id_/http%3A//smartwebby.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # SmartWebby.com Privacy Policy
 
@@ -56,9 +56,9 @@ If your personally identifiable information changes (such as zip code, phone, em
 
 ### Contact Information 
 
-If you have any questions or suggestions regarding our privacy policy, please contact us using our [customer service](https://web.archive.org/web/20140928154346id_/http%3A//www.smartwebby.com/contactus.asp) input form. 
+If you have any questions or suggestions regarding our privacy policy, please contact us using our [customer service](https://web.archive.org/web/20150607154428id_/http%3A//smartwebby.com/contactus.asp) input form. 
 
-**Website Maintenance Special:** Get FREE website hosting (including database: MS SQL Server or MySQL) with our annual maintenance plans. Unlimited Space, Unlimited Bandwidth, 99.9% uptime - web hosting by top US provider!!
+**Website Programming Special:** Get 2 years monthly maintenance FREE with any ASP.net or PHP project above $5000 - worth $2000!
 
 Like & Follow SmartWebby.com on Facebook:
 
