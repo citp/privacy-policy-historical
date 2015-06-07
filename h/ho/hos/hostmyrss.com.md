@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostmyrss.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109080426id_/http%3A//hostmyrss.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostmyrss.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074354id_/http%3A//hostmyrss.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
