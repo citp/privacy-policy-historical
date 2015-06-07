@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the freestuffblog.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201082646id_/http%3A//signup.freestuffblog.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestuffblog.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152844id_/http%3A//signup.freestuffblog.com/privacy.php) for the most accurate reproduction.*
 
 # FreeStuffBlog.com
 
 _PRIVACY POLICY_  
-signup.freestuffblog.com/privacy.php 
+
 
 **What information do we collect?**  
 We collect information from you when you register on our site, subscribe to our newsletter or fill out a form. 
