@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pollen-8.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105445id_/http%3A//www.pollen-8.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pollen-8.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185639id_/http%3A//www.pollen-8.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Product Reviews | How to Market or Promote a New Product | Word of Mouth Marketing | Pollen-8
 
