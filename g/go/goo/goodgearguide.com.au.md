@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goodgearguide.com.au privacy policy that was archived on 2014-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140914221828id_/http%3A//www.goodgearguide.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodgearguide.com.au privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608003358id_/http%3A//www.goodgearguide.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Good Gear Guide by PC World Australia
+# Privacy Policy - Good Gear Guide Australia
 
 **Privacy Statement for IDG Communications Pty Ltd**
 
@@ -136,13 +136,17 @@ For more information about privacy issues in Australia and protecting your priva
 
 **LAST UPDATED** : March 3, 2014
 
-  * 1 [Microsoft Surface Pro 3 Windows 8.1 tablet](https://web.archive.org/review/microsoft/surface_pro_3/546872/?utm_source=www.goodgearguide.com.au&utm_medium=rhs_most_popular_reviews)
-  * 2 [Samsung Galaxy Tab S (10.5) 4G review](https://web.archive.org/review/samsung/galaxy_tab_s_10_5/549256/?utm_source=www.goodgearguide.com.au&utm_medium=rhs_most_popular_reviews)
-  * 3 [TomTom Runner Cardio GPS watch](https://web.archive.org/review/tomtom/runner_cardio_gps_watch/551889/?utm_source=www.goodgearguide.com.au&utm_medium=rhs_most_popular_reviews)
-  * 4 [LG G3 review](https://web.archive.org/review/lg/g3/550826/?utm_source=www.goodgearguide.com.au&utm_medium=rhs_most_popular_reviews)
-  * 5 [Nokia Lumia 930 review](https://web.archive.org/review/nokia/lumia_930/550020/?utm_source=www.goodgearguide.com.au&utm_medium=rhs_most_popular_reviews)
+  * 1 [Playing chicken with a Tesla Model S](https://web.archive.org/review/tesla/model-s/576529/)
+  * 2 [Audi TT (2015) review: A smarter take on the sports coupe](https://web.archive.org/review/audi_australia/tt-20-tfsi-s-tronic/575184/)
+  * 3 [Microsoft Lumia 640 review: Honouring Nokia's legacy](https://web.archive.org/review/microsoft/lumia-640/574875/)
+  * 4 [Samsung SUHD smart TV (JS9500) review ](https://web.archive.org/review/samsung/js9500/574012/)
+  * 5 [Samsung Galaxy S6 Edge review: Return to Glory](https://web.archive.org/review/samsung/galaxy-s6-edge/573108/)
 
 
+
+### Join the Good Gear Guide newsletter!
+
+Error: Please check your email address.
 
 [ ](http://www.shopping.com/)
 
@@ -193,3 +197,5 @@ STYLISTIC Q702
 My first impression after unboxing the Q702 is that it is a nice looking unit. Styling is somewhat minimalist but very effective. The tablet part, once detached, has a nice weight, and no buttons or switches are located in awkward or intrusive positions. 
 
 [Good Gear Guide Evaluation Team](https://web.archive.org/gggtester/)
+
+BASE RHS WIDGET 
