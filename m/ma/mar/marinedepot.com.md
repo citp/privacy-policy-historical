@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marinedepot.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230040746id_/http%3A//www.marinedepot.com/help_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marinedepot.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607184947id_/http%3A//www.marinedepot.com/help_privacy_policy.html) for the most accurate reproduction.*
 
 # MarineDepot.com
 
@@ -56,7 +56,7 @@ MarineDepot.com takes every precaution necessary to protect your privacy and per
 
 ## Correction/Updating/Reviewing Personal Information
 
-Registered customers may change or review their stored account information (such as street address or email address) through our website by entering [My Account](https://web.archive.org/web/20141230040746id_/http%3A//www.marinedepot.com/ps_customerShowOrders.html). You must have your username and password in order to access your account. In the event you forget both your username and password, please contact our customer service department for assistance. 
+Registered customers may change or review their stored account information (such as street address or email address) through our website by entering [My Account](https://web.archive.org/web/20150607184947id_/http%3A//www.marinedepot.com/ps_customerShowOrders.html). You must have your username and password in order to access your account. In the event you forget both your username and password, please contact our customer service department for assistance. 
 
 ## Choice/Opt-out
 
