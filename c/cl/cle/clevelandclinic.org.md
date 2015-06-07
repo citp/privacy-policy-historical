@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clevelandclinic.org privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028173746id_/http%3A//my.clevelandclinic.org/about-cleveland-clinic/about-this-website/privacy-security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clevelandclinic.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144404id_/http%3A//my.clevelandclinic.org/about-cleveland-clinic/about-this-website/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security
 
