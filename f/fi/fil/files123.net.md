@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the files123.net privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106155908id_/http%3A//www.files123.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the files123.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074924id_/http%3A//www.files123.net/privacy_policy.html) for the most accurate reproduction.*
 
 # files123.net | Upload your files fast,easy and free
 
