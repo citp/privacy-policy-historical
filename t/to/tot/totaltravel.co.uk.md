@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totaltravel.co.uk privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118154739id_/http%3A//info.thewest.com.au/documents/WAN_PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaltravel.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607114740id_/http%3A//info.thewest.com.au/documents/WAN_PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # 
 
