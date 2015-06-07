@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the convert2media.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219042637id_/http%3A//convert2media.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convert2media.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144417id_/http%3A//convert2media.com/privacy) for the most accurate reproduction.*
 
-# 
+# Convert2Media - Top Ranked CPA Affiliate Network Worldwide
 
-### PRIVACY POLICY OF Convert2Media, LLC
+## PRIVACY POLICY OF Convert2Media, LLC 
 
 Including all Related Websites Owned or Registered to Convert2Media, LLC
 
