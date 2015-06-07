@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalnewsasia.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007185607id_/http%3A//www.digitalnewsasia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalnewsasia.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607201227id_/http%3A//www.digitalnewsasia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Digital News Asia
 
