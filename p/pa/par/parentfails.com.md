@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the parentfails.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102040256id_/http%3A//www.pophangover.com/parentfails-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentfails.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607172929id_/http%3A//www.pophangover.com/parentfails-privacy-policy) for the most accurate reproduction.*
 
-# ParentFails Privacy Policy » POPHANGOVER
+# ParentFails Privacy Policy - POPHANGOVER
 
 Thank you for visiting a Defy Media, LLC website (the “Site”)! The Site is strongly committed to protecting your privacy. The purpose of this privacy  
 policy is to inform users of the Site as to what information we collect and how and why we use such information. 
