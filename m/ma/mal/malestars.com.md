@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the malestars.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121225011id_/http%3A//support.xahead.com/msprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malestars.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607070933id_/http%3A//support.xahead.com/msprivacy) for the most accurate reproduction.*
 
 # MaleStars.com Privacy Policy
 
