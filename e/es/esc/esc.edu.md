@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the esc.edu privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122165243id_/http%3A//www.esc.edu/webprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esc.edu privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144031id_/http%3A//www.esc.edu/webprivacy) for the most accurate reproduction.*
 
 # Web Privacy Policy - SUNY Empire State College | Policies, Procedures and Guidelines | SUNY Empire State College
 
 ## Sponsor:
 
-| Office of Integrated Technologies   
+| Information Technology Services   
 ---|---  
   
 ## Contact:
 
-| Chief Information Officer and Vice President for the Office of Integrated Technologies  
+| Chief Information Officer and Vice President for Information Technology Services  
   
 ## Category:
 
@@ -156,6 +156,6 @@ This policy is consistent with the provisions of the Internet Security and Priva
 
 ## Related References, Policies, Procedures, Forms and Appendices
 
-[Password and Information Security Practices at Empire State College](https://web.archive.org/integrated-technologies/technology-policies/password-information-security-practices/)
+[Password and Information Security Practices at Empire State College](https://web.archive.org/its/technology-policies/password-information-security-practices/)
 
-[Web Presence and Publishing Policy - SUNY Empire State College](https://web.archive.org/web/20141122165243id_/http://www.esc.edu/policies/?search=cid%3D35655)
+[Web Presence and Publishing Policy - SUNY Empire State College](https://web.archive.org/web/20150607144031id_/http://www.esc.edu/policies/?search=cid%3D35655)
