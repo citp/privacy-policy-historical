@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boredombash.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225022806id_/http%3A//boredombash.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boredombash.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145444id_/http%3A//boredombash.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | BoredomBash
+# Privacy Policy
 
 **Privacy Policy for www.boredombash.com**
 
