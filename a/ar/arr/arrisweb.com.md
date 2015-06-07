@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arrisweb.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101113810id_/http%3A//www.arrisweb.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arrisweb.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607210645id_/http%3A//www.arrisweb.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Arrisweb | Social Bookmarking
 
