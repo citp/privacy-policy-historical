@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the sharespost.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224032104id_/http%3A//sharespost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharespost.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144235id_/http%3A//sharespost.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy - SharesPost
 
-## **Privacy Policy**
-
-This Privacy Policy is incorporated by reference into the SharesPost [User Agreement](https://web.archive.org/terms-of-use/). The term " **SharesPost** **Financial** ," " **we** ," and " **us** " includes SharesPost Financial Corporation and its affiliates and subsidiaries. The Privacy Policy explains how SharesPost may:
+This Privacy Policy is incorporated by reference into the SharesPost [User Agreement](https://web.archive.org/legal/terms-of-use/). The term " **SharesPost** **Financial** ," " **we** ," and " **us** " includes SharesPost Financial Corporation and its affiliates and subsidiaries. The Privacy Policy explains how SharesPost may:
 
   * collect,
   * use, and
@@ -12,7 +10,7 @@ This Privacy Policy is incorporated by reference into the SharesPost [User Agre
 
 
 
-information we obtain through the "Service" as defined in the [User Agreement](https://web.archive.org/terms-of-use/).
+information we obtain through the "Service" as defined in the [User Agreement](https://web.archive.org/legal/terms-of-use/).
 
 ## The Service Collects Your Information
 
@@ -146,7 +144,7 @@ By using the Service, you will transfer data to the United States.
 
  **If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your information to the United States and processing globally. By providing your information you consent to any transfer and processing in accordance with this Privacy Policy.**
 
-##  **Update Your Information or Pose a Question or Suggestion**
+## Update Your Information or Pose a Question or Suggestion
 
 If you would like to update or correct any information that you have provided to us through your use of the Service or otherwise, or if you have suggestions for improving this Privacy Policy, please send an email to [legal@sharespost.com.](mailto:legal@sharespost.com)
 
@@ -165,6 +163,6 @@ From time to time, we may desire to use Personal Information for uses not previo
 ## Contact Information
 
 SharesPost Financial Corporation  
-1150 Bayhill Drive #300  
-San Bruno, CA 94066  
+221 Pine Street, 6th Floor  
+San Francisco, CA 94104  
 [legal@sharespost.com](mailto:legal@sharespost.com)
