@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wearpact.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215015844id_/http%3A//www.wearpact.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wearpact.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607150807id_/http%3A//www.wearpact.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
