@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobsiit.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120170522id_/http%3A//www.jobsiit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsiit.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607180059id_/http%3A//www.jobsiit.com/privacy) for the most accurate reproduction.*
 
-# JobsIIT
+# Privacy
 
 Privacy Policy Eduangels (jobsiit.com) is committed to protecting the privacy of our candidates, clients and other users of our websites and services. Where you provide us with your personal information, in person, by email, through this website, we will endeavour to ensure that such information remains private and is only used in accordance with this policy. By providing us with your personal information, you also consent for us to collect, hold, use and disclose your personal information in accordance with this policy. Eduangels (jobsiit.com) must comply with the applicable privacy laws and similar laws in the countries in which we operate.
 
