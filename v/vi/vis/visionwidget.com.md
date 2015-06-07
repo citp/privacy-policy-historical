@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the visionwidget.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208194152id_/http%3A//visionwidget.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visionwidget.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607034757id_/http%3A//visionwidget.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Details
-     Last Updated on Saturday, 02 August 2014 08:12 
+Details 
+     Last Updated: 02 August 2014 
 
 ## Privacy Policy for visionwidget.com
 
