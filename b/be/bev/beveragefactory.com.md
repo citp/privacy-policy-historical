@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the beveragefactory.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121193857id_/http%3A//www.beveragefactory.com/privacy_statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beveragefactory.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608014310id_/http%3A//www.beveragefactory.com/privacy_statement.shtml) for the most accurate reproduction.*
 
 # Privacy Statement | BeverageFactory.com
+
+[](http://www.beveragefactory.com/sales/pre-fathers-day-sale.html)
+
+  1. [Home](http://www.beveragefactory.com/index.shtml)
+  2. [Customer Service](http://www.beveragefactory.com/contact_index.shtml)
+  3. Privacy Statement
+
+
 
 This privacy notice discloses the privacy practices for www.BeverageFactory.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
