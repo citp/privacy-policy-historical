@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the webthemez.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120112107id_/http%3A//webthemez.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webthemez.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607202903id_/http%3A//webthemez.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WebThemez
+
+## Our Privacy Policy
 
 This Privacy Policy governs the manner in which WebThemez collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://webthemez.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by WebThemez.
 
@@ -22,11 +24,11 @@ WebThemez may collect and use Users personal information for the following purp
 
 \- To improve customer service  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.  
-– To personalize user experience  
+\- To personalize user experience  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
-– To improve our Site  
+\- To improve our Site  
 We may use feedback you provide to improve our products and services.  
-– To send periodic emails  
+\- To send periodic emails  
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 ### How we protect your information
@@ -55,11 +57,20 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-WebThemez
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-http://WebThemez.com/
+[Webthemez.com](http://webthemez.com/)
 
-webthemez@gmail.com
+Webthemez,
 
-This document was last updated on June 05, 2014
+8-2-613/G/174,
+
+Banjara Hills,
+
+Hyderabad - 500034,
+
+Telangana, India.
+
+**Support:** webthemez@gmail.com
+
+This document was last updated on January 05, 2015
