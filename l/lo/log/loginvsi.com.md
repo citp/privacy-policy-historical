@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the loginvsi.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228221210id_/http%3A//www.loginvsi.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loginvsi.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608005222id_/http%3A//www.loginvsi.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Login VSI
 
-**Personal information**  
+**Personal information**
+
 In general, you can visit us on the internet without telling us who you are or giving us personal information. There are times when we may need information from you, for instance: to process an order, to correspond, to provide a subscription or in connection with a job application. We may supplement this information to complete a transaction or to provide a better service.
 
 **Uses**
@@ -30,3 +31,19 @@ Questions about this statement or how Login VSI Inc. uses your information may b
 5201 Great America Parkway  
 Suite 320  
 Santa Clara, CA 95054
+
+### Login VSI Inc.
+
+3945 Freedom Circle  
+Suite 670  
+Santa Clara, CA 95054
+
+Phone: +1 408 899 7418
+
+### Login VSI B.V.
+
+De Entree 11-13  
+1101 BH Amsterdam  
+The Netherlands
+
+Phone: +31 20 342 0280
