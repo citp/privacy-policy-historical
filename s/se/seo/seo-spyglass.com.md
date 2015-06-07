@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seo-spyglass.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120050038id_/http%3A//www.seo-spyglass.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seo-spyglass.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607035835id_/http%3A//www.seo-spyglass.com/privacy.html) for the most accurate reproduction.*
 
 # SEO SpyGlass Privacy Policies
 
