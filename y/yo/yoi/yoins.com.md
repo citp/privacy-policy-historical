@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoins.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202045133id_/http%3A//www.yoins.com/Yoins-Privacy-and%25C2%25A0Cookies-a-8.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoins.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607201111id_/http%3A//www.yoins.com/Yoins-Privacy-and%25C2%25A0Cookies-a-8.html) for the most accurate reproduction.*
 
 # Privacy & Cookies
 
