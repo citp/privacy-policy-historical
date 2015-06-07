@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthcareitnews.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014060406id_/http%3A//www.healthcareitnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcareitnews.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607234656id_/http%3A//www.healthcareitnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Healthcare IT News
 
@@ -6,7 +6,7 @@ To receive the monthly _Healthcare IT News_ issues or our email newsletters, or 
 
 The information helps us provide you with access to a wide variety of content on our site and better serve you through customized newsletters and other products. _Healthcare IT News_ shares aggregate, non-personally identifying data with our partners and advertisers. We disclose website usage information to third parties only in aggregate.
 
-We may make email and mailing addresses of registrants available to carefully screened businesses that provide products or services that we think may be of interest. If you do not want to receive email or USPS-mailed offers from our advertising or conference partners please send an email stating this preference and including your full name and address to [hitn@kmpsgroup.com](mailto:hitn@kmpsgroup.com). Or, please call 1-800-869-6882 Option#5.
+We may make email and mailing addresses of registrants available to carefully screened businesses that provide products or services that we think may be of interest. If you do not want to receive email or USPS-mailed offers from our advertising or conference partners please send an email stating this preference and including your full name and address to [healthcareitnews@halldata.com](mailto:healthcareitnews@halldata.com). Or, please call 1-847-763-9618.
 
 _Healthcare IT News_ will NEVER share your phone or fax number with ANY third party. You may receive email, telephone or fax communications from _Healthcare IT News_ regarding your subscription or for research purposes. Please see our registration page (<http://healthcareitnews.com/register?return2url=%2F>) for further details.
 
