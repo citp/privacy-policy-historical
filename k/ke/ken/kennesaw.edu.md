@@ -1,0 +1,9 @@
+> *The following text is extracted and transformed from the kennesaw.edu privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608014504id_/http%3A//www.kennesaw.edu/privacy.php) for the most accurate reproduction.*
+
+# KSU - Privacy Statement
+
+Kennesaw State University (KSU) is committed to ensuring the privacy of your information. Any information submitted via the website will only be used for the purposes stated on the submission page. KSU does not actively share personal information gathered from its Web servers. If you contact KSU through our online contact forms, we may request that you provide certain personal identifying information (such as name, address, e-mail, etc.). We ask for and store this information only to help us respond to your request. However, because KSU is a public institution, some information collected from university websites, including the summary server log information, emails sent to websites, and information collected from Web-based forms, may be subject to the Georgia Open Records Act.
+
+Links within the university web site may direct you to other Web sites that we do not control. Kennesaw State University is not responsible for the privacy practices, policies, actions, Web content, services or products of non-KSU sites to which we link. These links are not intended to, nor do they constitute, an endorsement by KSU of the linked materials.
+
+University web sites use cookies to collect certain information. Cookies are small pieces of data that are sent by our Web site to your Web browser. They are stored on your computer and are used to improve your web experience and improve the availability of web content. We may also use cookies to pre-fill forms so that you do not need to re-enter data. Accepting a cookie does not give us access to your computer or any personal information about you.
