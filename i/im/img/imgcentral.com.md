@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imgcentral.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120063047id_/http%3A//imgcentral.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgcentral.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607072933id_/http%3A//imgcentral.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
-# imgcentral » More Information » Privacy Policy
+# imgcentral » More Information »Privacy Policy
 
 When you sign up for an account with imgcentral, we collect personal information from you including your email address and a password. 
 
