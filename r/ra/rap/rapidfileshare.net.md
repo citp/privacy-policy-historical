@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rapidfileshare.net privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629090911id_/http%3A//www.rapidfileshare.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidfileshare.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607231626id_/http%3A//www.rapidfileshare.net/privacy.html) for the most accurate reproduction.*
 
-# RapidFileShare - Manera facil de compartir sus archivos
+# RapidFileShare - EgyszerЕ± mГіdja, hogy megosszd az ГЎllomГЎnyaidat
 
 **What information do we collect?**
 
