@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preservationnation.org privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227121107id_/http%3A//www.preservationnation.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preservationnation.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607040757id_/http%3A//www.preservationnation.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of the National Trust for Historic Preservation - National Trust for Historic Preservation
 
@@ -147,7 +147,7 @@ The National Trust welcomes comments or questions on this Privacy Policy.  We a
 
 Constituent Services Department  
 National Trust for Historic Preservation  
-2600 Virginia Avenue NW, Suite 1000  
+2600 Virginia Avenue NW, Suite 1100  
 Washington, DC 20037   
 members@savingplaces.org  
 1-800-315-NTHP (6847) 
