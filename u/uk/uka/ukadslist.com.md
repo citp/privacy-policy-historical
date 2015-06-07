@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukadslist.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230171130id_/http%3A//www.ukadslist.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukadslist.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144458id_/http%3A//www.ukadslist.com/info/privacy.php) for the most accurate reproduction.*
 
 # UKAdsList.com - Privacy Policy
 
@@ -45,4 +45,4 @@ We do not knowingly collect any information from persons under the age of 18. Ch
 Should you have any questions, concerns, or comments, please [Contact Us](https://web.archive.org/info/contactus.php).
 
 UKAdsList.com  
-Owned and Operated by USNetAds LLC 
+Owned and operated by USNetAds LLC 
