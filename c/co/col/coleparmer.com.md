@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the coleparmer.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205154536id_/http%3A//www.coleparmer.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coleparmer.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608003925id_/http%3A//www.coleparmer.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy from Cole-Parmer
 
 This is the web site of
 
-Cole-Parmer Instrument Company  
+Cole-Parmer Instrument Company, LLC  
 625 East Bunker Court  
 Vernon Hills, IL 60061
 
 We can be reached via e-mail at  [sales@coleparmer.com](mailto:sales@coleparmer.com). 
 
 Secure Shopping  
-At Cole-Parmer, we understand your concerns about online security and privacy. All orders on our site are encrypted using Secure Socket Layer (SSL) technology. SSL is a complex form of cryptography that makes it virtually impossible for a third party to decrypt any useful information you provide. You can use our site knowing that your personal and credit card information is protected when transmitted online. Cole-Parmer uses Verisign Web site security services, allowing you to place Internet orders with confidence, knowing that your credit card information will be secure.
+At Cole-Parmer, we understand your concerns about online security and privacy. All orders on our site are encrypted using Secure Socket Layer (SSL) technology. SSL is a complex form of cryptography that makes it virtually impossible for a third party to decrypt any useful information you provide. You can use our site knowing that your personal and credit card information is protected when transmitted online. Cole-Parmer uses GoDaddy website security services, allowing you to place Internet orders with confidence, knowing that your credit card information will be secure.
 
 What Information Do We Collect?  
 When you visit Cole-Parmer, we’ll be collecting various types of information from you. If you place an order from our site, we’ll need to collect your shipping and billing information.Cole-Parmer will also be collecting data from all site visitors such as IP name, domain name, web page, length of time spent at the site and pages accessed while visiting the site, but not the e-mail address. We collect the e-mail address of visitors only via information volunteered by you, such as survey information, catalog requests, and/or site registrations. This information is collected for statistical purposes and to help with the administration and improvement of the site. Cole-Parmer also reserves the right to retain the content of any questions or comments that are sent to our employees. This information will be used to help improve responses to future questions. For international customers, information may be shared with our international dealers. See our full [cookie disclosure](https://web.archive.org/CookieDisclosure).
