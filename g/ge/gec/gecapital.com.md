@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gecapital.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120050308id_/http%3A//www.gecapital.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gecapital.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607040646id_/http%3A//www.gecapital.com/en/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement: CAREFULLY READ THIS STATEMENT BEFORE USING THE SITE, AS IT AFFECTS YOUR LEGAL RIGHTS AND OBLIGATIONS.
 
