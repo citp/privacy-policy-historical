@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the quoners.com privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120055335id_/http%3A//www.quoners.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the quoners.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607040757id_/http%3A//www.quoners.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
@@ -48,6 +48,7 @@
 </script>
 
 
+	<script type="text/javascript" src="/cdn/js/jquery.cookie.js"></script>
     <script type="text/javascript" src="/cdn/js/jsrender.js"></script>
     <script type="text/javascript" src="/cdn/js/jquery.observable.js"></script>
     <script type="text/javascript" src="/cdn/js/jquery.views.js"></script>
@@ -176,7 +177,8 @@
     <div id="settingsMenu" class="modalHeader">
         <ul>
             <li class="languagesIcon tip" id="LanguageSelectorIcon"><a href="#" onclick="placeLanguageMenu()">Idiomas / Languages</a></li>
-            <li class="tagCloudIcon" id="tagCloudIcon"><a href="#">Tags cloud</a></li>
+            <li class="tagCloudIcon" id="tagCloudIcon">Tags cloud</li>
+            <li class="chatIcon" id="chatIcon">My chats</li>
             <li class="myAccountIcon"><a href="/user/myAccount">My Account</a></li>
             <li class="myEchoIcon"><a href="/user/myActivityEcho">My activity echo</a></li>
 
@@ -193,7 +195,35 @@
     <div id="closeTagCloudIcon" class="closeTagCloud">Close <img src="/cdn/img/icons/delete.png" alt="Hide" title="Hide"></div>
     <!-- end include tagCloud -->
 </div>
+
+<script id="chatMessages_template" type="text/x-jsrender" data-jsv-tmpl="chatMessagesTemplate">
+{{for content}}
+	<div class="chatMessage {{:userFrom!= ~me ? 'messageFromHe' : 'messageFromMe'}}">
+		<span class="timeChat">{{:~formatDateTime(creationDate)}}</span> <b>{{:userFrom==~me ? 'yo' : ~heName}}</b>: {{>text}}<br />
+	</div>
+{{/for}}
+</script>
+
 <script type="text/javascript">
+
+$(window).on("popstate", function(e) {
+	var state=e.originalEvent.state;
+	//alert('voy a cargar en maincontent: '+location.href+' y state: '+state);
+	if (state==null || !state.ajaxCall){
+		document.location=location.href;
+	} else {
+		$('#mainContent').load(location.href);
+	}
+});
+
+
+
+$.templates({
+	chatMessagesTemplate: "#chatMessages_template"
+	});
+
+
+
 var bIsLogged = false;
 var afterLoginCallback="--";
 
@@ -284,6 +314,15 @@ $(function() {
 
 });
     
+$("#chatIcon").on("click",function(){
+	if (bIsLogged){
+		history.pushState({ajaxCall:true}, 'conversations', '/chat/conversations/');
+		$('#mainContent').load("/chat/conversations/");
+	} else {
+		document.location="/chat/conversations";
+	}
+	hideMenus(true);
+});
 
 
 
