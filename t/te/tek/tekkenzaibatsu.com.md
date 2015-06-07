@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tekkenzaibatsu.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109085349id_/http%3A//www.tekkenzaibatsu.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tekkenzaibatsu.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175516id_/http%3A//www.tekkenzaibatsu.com/info/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Tekken Zaibatsu
 
