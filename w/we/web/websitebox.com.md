@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitebox.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330224222id_/http%3A//www.websitebox.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitebox.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607020207id_/http%3A//www.websitebox.com/privacy-policy.php) for the most accurate reproduction.*
 
 # WebsiteBox | Privacy Policy
 
@@ -42,8 +42,8 @@ If you have questions or concerns about WebsiteBox's Customer Privacy Policy or 
 WebsiteBox may update its privacy policy from time to time. When we change the policy in a material way a notice will be posted on our website along with the updated privacy policy.
 
 **WEBSITEBOX CORP.**  
-245 Fairview Mall Drive, Suite 401  
-Toronto, ON M2J 4T1  
+7191 Yonge Street, Suite 410  
+Toronto, ON, L3T 0C4  
 Canada
 
 
@@ -79,10 +79,6 @@ Canada
 > 
 > Jeff Royle Orlando, FL
 
-
-
-  * Previous
-  * Next
 
 
 
