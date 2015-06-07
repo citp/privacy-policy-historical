@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the androidrootguide.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703002451id_/http%3A//www.androidrootguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidrootguide.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607205443id_/http%3A//www.androidrootguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Of Android Root Guides
 
+  
 In case you need any more information or if you have any queries or questions about our privacy policy, please do not hesitate to shoot us an email at info@androidrootguide.com.
 
 At Androidrootguide.com, the privacy of our visitors is of utmost importance and we have made it our top priority. This privacy policy document elucidates how your personal information is received, collated, and utilized by Androidrootguide.com. 
