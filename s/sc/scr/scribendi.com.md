@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scribendi.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214213057id_/http%3A//www.scribendi.com/privacy.en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scribendi.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175723id_/http%3A//www.scribendi.com/privacy.en.html) for the most accurate reproduction.*
 
 # Your Privacy | Scribendi.com
 
@@ -64,7 +64,7 @@ This information is used to fulfill your order, to allow you to track your order
 
 ### Statistical Analysis
 
-  * We may, from time to time, engage the services of third parties to store and process server logs and statistical data on our behalf. When we do so, those third parties act as limited agents of Scribendi.com and are bound by this privacy policy.
+  * Scribendi.com may, from time to time, make use of analytics advertising features including, but not limited to, remarketing, remarketing with analytics, display network impression reporting, and demographics and interest reporting. This is done via advertising cookies and anonymous identifiers. If you wish to opt out of these features, you may do so through Ads Settings, Ad Settings for mobile apps, or any other available means (for example, the NAI's consumer opt-out). Please also see <https://tools.google.com/dlpage/gaoptout/>.
 
 
 
