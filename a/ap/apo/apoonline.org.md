@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apoonline.org privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209073756id_/http%3A//www.apoonline.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apoonline.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607191142id_/http%3A//apoonline.org/privacy.php) for the most accurate reproduction.*
 
 # APOonline.org - Privacy Policy
 
@@ -41,6 +41,6 @@ APOonline knows that you care how information about you is used and shared, and 
 
 **Children** APOonline.org does not sell products or services for purchase by children. When products are suitable for use by children, they are intended as products and services for purchase by adults. If you are under 18, you may use APOonline.org only with the involvement of a parent or guardian or if you are an enrolled student of one of our customers.  **Conditions of Use, Notices, and Revisions**
 
-If you choose to visit APOonline.org, your visit and any dispute over privacy is subject to this [Privacy Policy](https://web.archive.org/web/20141209073756id_/http%3A//www.apoonline.org/privacy.php) and our [Master Subscription Agreement](https://web.archive.org/web/20141209073756id_/http%3A//www.apoonline.org/agreement.php). If you have any concern about privacy at APOonline.org, please contact us with a thorough description, and we will try to resolve it. 
+If you choose to visit APOonline.org, your visit and any dispute over privacy is subject to this [Privacy Policy](https://web.archive.org/web/20150607191142id_/http%3A//apoonline.org/privacy.php) and our [Master Subscription Agreement](https://web.archive.org/web/20150607191142id_/http%3A//apoonline.org/agreement.php). If you have any concern about privacy at APOonline.org, please contact us with a thorough description, and we will try to resolve it. 
 
 Our business changes constantly and our Privacy Policy may change. You should check our website frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. We stand behind the promises we make. We will never materially change our policies and practices to make them less protective of user information collected in the past; however, we reserve the right to make changes to this Policy and our practices.
