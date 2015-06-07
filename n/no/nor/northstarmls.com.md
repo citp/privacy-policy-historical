@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northstarmls.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121225112id_/http%3A//www.northstarmls.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northstarmls.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607072820id_/http%3A//www.northstarmls.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NorthstarMLS
 
