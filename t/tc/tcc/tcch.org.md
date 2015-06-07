@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcch.org privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205164322id_/http%3A//directory.tcch.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcch.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175917id_/http%3A//directory.tcch.org/privacy.html) for the most accurate reproduction.*
 
 # TccH Directory-QuaLity Web Directory
 
