@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nortonrosefulbright.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217092406id_/http%3A//www.nortonrosefulbright.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nortonrosefulbright.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607180131id_/http%3A//www.nortonrosefulbright.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy notice| Norton Rose Fulbright
+# Privacy notice | Norton Rose Fulbright
 
-Norton Rose Fulbright refers to Norton Rose Fulbright LLP, Norton Rose Fulbright Australia, Norton Rose Fulbright Canada LLP, Norton Rose Fulbright South Africa (incorporated as Deneys Reitz Inc), Fulbright & Jaworski LLP, each of which is a separate legal entity, and their respective affiliates.
+Norton Rose Fulbright refers to Norton Rose Fulbright LLP, Norton Rose Fulbright Australia, Norton Rose Fulbright Canada LLP, Norton Rose Fulbright South Africa Inc and Norton Rose Fulbright US LLP, each of which is a separate legal entity, and their respective affiliates.
 
 This Privacy Notice aims to help you understand how we may use personal information collected when you visit our website. It does not apply to, and Norton Rose Fulbright is not responsible for, any third party websites which may be accessible through links from this website.
 
