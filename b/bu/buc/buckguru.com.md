@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buckguru.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207140343id_/http%3A//www.micronichefinder.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buckguru.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185744id_/http%3A//www.micronichefinder.com/terms/privacy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
