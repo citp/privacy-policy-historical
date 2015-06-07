@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicradiocreative.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126081816id_/http%3A//www.musicradiocreative.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicradiocreative.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200250id_/http%3A//www.musicradiocreative.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Music Radio Creative
 
