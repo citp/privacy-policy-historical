@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ft86speedfactory.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226070232id_/http%3A//www.ft86speedfactory.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ft86speedfactory.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200649id_/http%3A//www.ft86speedfactory.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : FT-86 SpeedFactory, Your exclusive source for FR-S / BRZ / GT-86 parts!
 
@@ -15,26 +15,26 @@ Any and all the information collected on this site will be kept strictly confide
 
 [Specials](http://www.ft86speedfactory.com/specials/)
 
-[](http://www.ft86speedfactory.com/enkei-rs05-rr-18x9-5-43-4pcs-1058.html)
+[](http://www.ft86speedfactory.com/stoptech-328x28-big-brake-kit-f-260.html)
 
-$2,400.00  $2,160.00  
-Save: $240.00 off[](http://www.ft86speedfactory.com/enkei-rs05-rr-18x9-5-43-4pcs-1058.html)
+$1,995.00  $1,745.63  
+Save: $249.37 off[](http://www.ft86speedfactory.com/stoptech-328x28-big-brake-kit-f-260.html)
 
-[Enkei RS05-RR 18x9.5 +43 - 4pcs](http://www.ft86speedfactory.com/enkei-rs05-rr-18x9-5-43-4pcs-1058.html)
+[Stoptech 328x28 Big Brake Kit - F](http://www.ft86speedfactory.com/stoptech-328x28-big-brake-kit-f-260.html)
 
-[](http://www.ft86speedfactory.com/ati-vpod-w-52mm-conversion-1059.html)
+[](http://www.ft86speedfactory.com/stoptech-front-upgrade-263.html)
 
-$68.81  $45.99  
-Save: $22.82 off[](http://www.ft86speedfactory.com/ati-vpod-w-52mm-conversion-1059.html)
+$329.30  $295.00  
+Save: $34.30 off[](http://www.ft86speedfactory.com/stoptech-front-upgrade-263.html)
 
-[ATI vPod w/52MM Conversion](http://www.ft86speedfactory.com/ati-vpod-w-52mm-conversion-1059.html)
+[StopTech Front Upgrade](http://www.ft86speedfactory.com/stoptech-front-upgrade-263.html)
 
-[](http://www.ft86speedfactory.com/cusco-strut-bar-cf-brake-stop-1075.html)
+[](http://www.ft86speedfactory.com/stoptech-rear-upgrade-264.html)
 
-$307.00  $276.30  
-Save: $30.70 off[](http://www.ft86speedfactory.com/cusco-strut-bar-cf-brake-stop-1075.html)
+$401.12  $242.37  
+Save: $158.75 off[](http://www.ft86speedfactory.com/stoptech-rear-upgrade-264.html)
 
-[Cusco Strut Bar CF (Brake Stop)](http://www.ft86speedfactory.com/cusco-strut-bar-cf-brake-stop-1075.html)
+[StopTech Rear Upgrade](http://www.ft86speedfactory.com/stoptech-rear-upgrade-264.html)
 
 Information 
 
