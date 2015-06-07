@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigscreen.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121084448id_/http%3A//www.bigscreen.com/about/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigscreen.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607182323id_/http%3A//www.bigscreen.com/about/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - The BigScreen Cinema Guide
 
@@ -6,7 +6,7 @@
 
 > This document explains what information we collect from you, why we collect it, and what we will and will not do with it. It also explains certain issues involved with advertising that appears on our site, and how that relates to privacy concerns that you may have. Please note: We reserve the right to change the policies documented here without notice.
 
-Last Updated: March 26, 2009
+Last Updated: May 26, 2015
 
 ## What Information We Collect When You Customize The BigScreen Cinema Guide
 
@@ -53,6 +53,6 @@ Google, as a third party vendor, uses cookies to serve ads on this site. Google'
 
 
 
-## Other Cookies
+### Use of Google Analytics
 
-Page views to this site are tracked by Google's _Analytics_ application so that we may view reports on traffic to this site and have a better idea of where our readers are coming from and other generalized information about the traffic on this site. The cookie placed by Google Analytics is subject to Google's Privacy Policy referenced above.
+This site uses Google Analytics, a web analytics service provided by Google, Inc. This analytical tool uses cookies and other technologies to help analyze how our readers use this site. In order to create reports and provide us with usage information, data including site usage, including visitor IP address, is transmitted to Google. This information is then used to evaluate visitors' use of the website, compile statistical reports on site activity, and other services relating to site activity and internet usage. Google offers the ability to opt out from tracking through Google Analytics cookies; for more information, visit <http://tools.google.com/dlpage/gaoptout>.
