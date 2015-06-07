@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the football-talk.co.uk privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230201936id_/http%3A//football-talk.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the football-talk.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142559id_/http%3A//football-talk.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Football Talk | Premier League News
 
-[Football Talk](http://football-talk.co.uk/ "Football Talk") knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy or visit [http://youronlinechoices.com](http://youronlinechoices.com/) to find out more information about online behavioural advertising. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
+Football Talk knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy or visit [http://youronlinechoices.com](http://youronlinechoices.com/) to find out more information about online behavioural advertising. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
 This Privacy Policy covers Football Talk’s treatment of personal information that Football Talk gathers when you are on the Football Talk website and when you use Football Talk’ services. This policy does not apply to the practices of third parties that Football Talk does not own or control, or to individuals that Football Talk does not employ or manage.
 
@@ -24,7 +24,7 @@ Football Talk is very concerned about your privacy and we will never provide you
 
 **Cookies**
 
-Cookies are alphanumeric identifiers that we [transfer](http://football-talk.co.uk/tag/transfer-rumours/ "transfer") to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Football Talk cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
+Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Football Talk cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
 
 The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Football Talk’s coolest features.
 
