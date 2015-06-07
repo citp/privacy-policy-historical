@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaypeegreens.com privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031001049id_/http%3A//jaypeegreens.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaypeegreens.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074605id_/http%3A//www.jaypeegreens.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Jaypee Greens, Luxury Villas, Flats & Residential Projects in Noida, Flats on Noida Expressway, Greater Noida Real Estate Developer
 
