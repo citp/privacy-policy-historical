@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fedena.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120170708id_/http%3A//www.fedena.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fedena.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175823id_/http%3A//www.fedena.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -59,8 +59,10 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
 Foradian Technologies Pvt Ltd,  
-#2733, HSR Layout, Bangalore, Karnataka, India  
+JK Landmark, 2nd Floor, 27th Main,  
+Sector 1, HSR Layout, Bangalore,  
+560102, Karnataka, India  
 +91-7829001801  
-[info@fedena.com](https://web.archive.org/web/20141120170708id_/http%3A//www.fedena.com/info@fedena.com)
+[info@fedena.com](https://web.archive.org/web/20150607175823id_/http%3A//www.fedena.com/info@fedena.com)
 
 This document was last updated on March 14, 2013
