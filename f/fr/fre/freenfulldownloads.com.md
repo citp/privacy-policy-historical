@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freenfulldownloads.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228022702id_/http%3A//www.freenfulldownloads.com/view-content/11-Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freenfulldownloads.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607210851id_/http%3A//www.freenfulldownloads.com/view-content/11-Privacy-Policy.html) for the most accurate reproduction.*
 
 # Free n Full Downloads | Privacy Policy
 
@@ -58,7 +58,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.freenfulldownloads.com/view-content/10-Terms_and_Conditions.html](https://web.archive.org/web/20141228022702id_/http%3A//www.freenfulldownloads.com/view-content/10-Terms_and_Conditions.html)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.freenfulldownloads.com/view-content/10-Terms_and_Conditions.html](https://web.archive.org/web/20150607210851id_/http%3A//www.freenfulldownloads.com/view-content/10-Terms_and_Conditions.html)
 
  **Your Consent**
 
