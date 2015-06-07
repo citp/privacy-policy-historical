@@ -1,100 +1,125 @@
-> *The following text is extracted and transformed from the popjam.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popjam.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607154140id_/http%3A//mindcandy.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Mind Candy
 
-**Go Daddy Respects Your Privacy**
+## 1\. Who are you and what is this Privacy Policy about?
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Mind Candy Ltd is a UK family entertainment company that creates extraordinary brands with online games at their heart.  We know that you care about how your Personal Information is used and shared and we care about that too.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Our Privacy Policy tells you how we look after, use and share the Personal Information that we collect from you. Please read this carefully. Unless we tell you or you agree, we do not share your Personal Information with anyone.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+When you use any of our Services, you are agreeing to our Privacy Policy.
 
-**Information Collection and Use**
+## 2\. How do you protect my Personal Information?
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We are serious about guarding the security of your Personal Information and use a secure server to store your Personal Information. However, like everyone else, we cannot guarantee complete security. We use industry standard organisational and technical security measures to protect your data against unauthorised disclosure or processing. We have certified that we adhere to a legal framework established by the United States Department of Commerce called ‘Safe Harbor’, relating to the collection, use and retention of personal information from the European Union.   To learn more about the Safe Harbor program, please visit [Safe Harbor](http://export.gov/safeharbor/).
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Where you are required to choose a password for your account, you are responsible for keeping that password confidential. This means you should limit access to your computer or device and sign off after you have finished accessing your account. If you think someone has access to your password or unauthorised access to your account, please inform us immediately at [info@mindcandy.com](mailto:info@mindcandy.com).
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We are not responsible for the misuse of your account or information where you have not kept your password confidential or not reported a breach of security.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+## 3\. What information do you collect about me?
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+We collect Personal Information about you when you register with us, use our Services, answer our questions or provide feedback. We may also record our communications with you.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+**Information that you provide to us** : This may include your name, email address, telephone number, address book, user name, date of birth, genderand your location. If you buy something from us, we may need your address and payment information.  You may choose whether or not to give some information to us. However, not providing certain information may mean you cannot enjoy all or parts of our Services.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+**Information that is automatically collected:**  Whenever you interact with our Services, we automatically record information from your browser or device. This may include your IP address, device information (e.g., MAC address, device type), pages you have requested and cookie information.  Depending on your privacy settings, we may also receive information from social networks you choose to connect with via our Services, e.g. your profile information from Facebook.
 
-**Security**
+## 4\. How will you use the information about me?
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+We use the information you give to us to make our Services the best possible experience for you. For instance, we may use your information to:
 
-**Updating Your Information**
+  * Customise the Services you choose to receive
+  * Manage your account and your queries
+  * Improve our Services
+  * Contact you with important service announcements
+  * Meet our legal and regulatory obligations and protect our legitimate interests
+  * Carry out research and analysis, training and quality assurance
+  * If you agree, contact you about other Services and products from Mind Candy that we think may be of interest to you
+  * if you agree, contact you with advertising from other businesses
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Some of our Services may use location information transmitted from your devices. We only use location information in a way that is necessary to provide the Service you want. If you have not allowed your location information to be sent (through the settings menu on your device), then location information will not be sent.
 
-      iii.      You may call us at: (480) 505-8800
+## 5\. To whom will you disclose my Personal Information?
 
-       iv.      You may fax us at: (480) 505-8844
+Mind Candy will not share your Personal Information for marketing purposes with companies outside the Mind Candy group of companies, unless you have given us permission to do so. However, we may share your information in the following ways:
 
-**Sending Emails**
+  * We may display your chosen profile information along with your activity levels on our Services, to friends with whom you have connected. Your other Personal Information cannot be seen by other users unless you post it in areas accessible by other users
+  * We may share your Personal Information, where appropriate, with any member of our group of companies
+  * We work with trusted partners to perform tasks on our behalf and we may need to disclose your Personal Information for them to provide services to you. However, these companies are bound by confidentiality obligations and do not have any independent right to use your Personal Information beyond what is necessary to assist us
+  * When the law requires us to disclose your information, we will comply
+  * When we need to enforce our Terms of Service, investigate fraud, reduce credit risk, exercise our legal rights or defend against legal claims
+  * When it is necessary for the protection of a person’s wellbeing or property and when obtaining your prior consent is difficult
+  * If there is a change in the ownership of Mind Candy or any of its assets, we may disclose Personal Information to the new or prospective investor. If we do so, we will notify you before your Personal Information becomes subject to a different privacy policy
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**Compliance with Laws and Law Enforcement**
+Mind Candy may display targeted advertisements based on anonymised information, personally identifiable information or information you make publicly available. No Personal Information will be provided to the advertiser directly by Mind Candy when you interact with or view a targeted advertisement. However, by interacting with or viewing an advertisement you are consenting to the possibility that the advertiser will collect data from you and/or make the assumption that you meet the targeting criteria used to display the advertisement.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+## 6\. Will I receive marketing information from you?
 
-**Third Party Service Providers**
+We would like to send you information about our Services which may be of interest to you. If you don’t like this, we are happy to stop at any time. Just click on the ‘unsubscribe’ link if provided or contact us at [info@mindcandy.com](mailto:info@mindcandy.com).  On mobile devices, you can manage notices you receive about our Services by using the settings on your device.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+## 7\. How do I access or change my Personal Information?
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+If you want to see, or change, your Personal Information, go to ‘my profile’ or your account settings or contact us at [info@mindcandy.com](mailto:info@mindcandy.com). Please note that certain information cannot be changed once you have entered it.  For instance, there should be no reason for a user to change their date of birth, if inputted.  This is to discourage users from engaging in unlawful activities.
 
-**Supplementation of Information**
+In certain jurisdictions, you may be entitled to request access to Personal Information we hold, by writing to us at [privacy@mindcandy.com](mailto:privacy@mindcandy.com) or at our postal address (see below). A small fee will be charged for this service, to cover administrative costs.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+## 8\. How long do you keep my Personal Information for? How can I delete it?
 
-**Contests/Surveys**
+We store your Personal Information for as long as your account is active and for as long as is required solely for our business purposes.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+If you wish to delete an account, you can do so by following instructions within the relevant Service, and/or by contacting [info@mindcandy.com](mailto:info@mindcandy.com). If you wish to delete the Personal Information that we hold on you, you may do so by contacting us at [privacy@mindcandy.com](mailto:privacy@mindcandy.com).  When you do this, we will deactivate your account and/or delete or anonymise (which means you cannot be identified from the information) relevant Personal Information, unless we have to retain it for legal reasons.  A limited amount of data may be retained for archive purposes only.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+Some of the things you do on our Service are not stored in your account, like sending someone a message (where your friend may still have a message you sent, or may resend it, even after you delete your account). This information may remain after you delete your account.
 
-**Tell-A-Friend**
+## 9\. What are cookies? Do you use cookies?
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+Cookies are small text files that we place on your device to allow us to store your settings, customise content for your repeat use of our Services and to assess user behaviour information.
 
-**What Happens to my Personal Information if I Opt Out?**
+We may also place cookies on your device if you click on our advertisements within/outside our Services. These cookies help us in a number of ways, including allowing us to audit the effectiveness of our advertising and for content and advertising personalisation.Our advertising partners may also transmit cookies to your computer or device, e.g. when you click on advertisements that appear on our Services. Our Privacy Policy does not cover the use of cookies by third parties. Please read their privacy policies for more information. **    **
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+If you would like to opt-out of advertising tracking by our partner AD-X, please go to [this page](https://itunes.apple.com/us/app/ad-x-tracking-opt-out/id651367370?mt=8). If you would like to delete or control cookies on your device or use sites without cookies or would like to know more, visit [www.aboutcookies.org](http://aboutcookies.org/) or [www.allaboutcookies.org](http://allaboutcookies.org/).
 
-**Transfer of Data Abroad**
+## 10\. Where is my Personal Information?
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+We may transfer your Personal Information to countries outside of the European Economic Area EEA (such as the US), but only to companies we trust. This includes Mind Candy group companies or carefully selected business partners that agree to “Safe Harbor” certification or equivalent protections. We do this for our data management and business purposes, in particular, for outsourced data processing by organisations on our behalf. We take appropriate steps to ensure your information is adequately protected. If you do not agree to this, please do not use our Services.  _ _
 
-**Changes in Our Practices**
+## 11\. Does this Privacy Policy apply to services, apps or websites provided by other companies?
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+Our Services may contain links to other apps or websites. Our Privacy Policy applies only to how Mind Candy uses your Personal Information. If you disclose your Personal Information to other companies, they are responsible for their use of your information.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+## 12\. What about Personal Information of children?
 
-**Contacting Our Site**
+**If you are younger than 13 years of age, you must get consent from your parents or legal guardians before you provide any Personal Information to us.**  We may also separately contact your parents or legal guardians to get consent and verification.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+If you believe we may have personal information about a child under 13 that was not provided with parental consent, please contact us at [privacy@mindcandy.com](mailto:privacy@mindcandy.com).
 
-* * *
+## 13\. Changes to our Privacy Policy
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+We may update our Privacy Policy from time to time. We will notify you of such changes by posting an announcement on our Service. You are bound by any changes to our Privacy Policy when you use our Service after you are notified of these changes.
+
+## 14\. How do I contact you?
+
+Please contact us if you have any questions about information we hold about you or about our Privacy Policy:
+
+  * Send an email to [privacy@mindcandy.com](mailto:privacy@mindcandy.com)
+  * Write to us at Mind Candy Limited, 4th Floor Bonhill Building, 15 Bonhill Street, London EC2A 4DN, United Kingdom
+
+
+
+## 15\. What does it mean?
+
+‘Personal Information’ means anything that can be used to identify you, including information you give to us when you register and anything that we collect as you use our Services.
+
+“Service” or “Services” means the products and services provided by Mind Candy, including our games, applications, mobile applications, our websites and any other online, offline and/or mobile products and services on or via any platform or technology.
+
+## 16\. Other Services
+
+We may need to tell you more about how we collect and use information relating to particular Services. Please read more here:
+
+** **[Moshi Monsters Privacy Policy](http://moshimonsters.com/privacy)
