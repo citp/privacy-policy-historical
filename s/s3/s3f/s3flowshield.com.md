@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the s3flowshield.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123045030id_/http%3A//www.s3flowshield.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the s3flowshield.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144636id_/http%3A//s3flowshield.com/privacy.php) for the most accurate reproduction.*
 
 # S3FlowShield.com Privacy Policy
 
