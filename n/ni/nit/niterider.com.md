@@ -1,34 +1,31 @@
-> *The following text is extracted and transformed from the niterider.com privacy policy that was archived on 2006-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060316194716id_/http%3A//niterider.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niterider.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608001608id_/http%3A//www.niterider.com/niterider-privacy-policy-information-you-should-know) for the most accurate reproduction.*
 
-# NiteRider
+# Privacy - NiteRider Lighting Systems
 
-  
-|   
+NiteRider Lighting Systems is committed to protecting the privacy of individuals’ personal information.
+
+“Personal information” means information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about a person whose identity is apparent, or can be reasonably ascertained, from the information or opinion.
+
+NiteRider Lighting Systems will, from time to time, collect and use personal information. The types of personal information collected and the purposes for which that personal information will be used, will depend on the circumstances.
+
+NiteRider Lighting Systems will not disclose personal information of an individual to third parties except:
+
+  1. where third parties appointed by NiteRider Lighting Systems require access to personal information held by NiteRider Lighting Systems to perform services (in which case NiteRider Lighting Systems requires these contractors to keep that personal information confidential and not to use or disclose it for any purpose other than the purpose of performing those services);
+  2. within NiteRider Lighting Systems (that is, to related bodies corporate) in accordance with the law;
+  3. where NiteRider Lighting Systems is required or authorized by law to disclose personal information, for example to law enforcement agencies; or with the individual’s consent.
 
 
-NiteRider Technical Lighting Systems  
-Privacy Statement  
-Last Updated March 2005 
 
-We respect your right to privacy. This privacy statement explains our policy regarding the collection, use, disclosure and protection of personal information. 
+Any person may seek access to personal information which NiteRider Lighting Systems holds about that person and NiteRider Lighting Systems will provide access to that information in accordance with the Act.
 
-**Personal Information**
+There are certain exemptions which may apply to the provision of that information.
 
-Personal information is information that identifies an individual or is directly associated with a specific person or entity such as a customer's name, address, telephone number, e-mail address, credit card number, or information about activities which can be directly linked to that person, such as his or her purchases. 
+**Cookies**  
+As you browse NiteRider.com, advertising cookies could be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with NiteRider.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. 
 
-Our definition of personal information does not include "aggregate" information. Aggregate information is data we collect about a group or category of products, services or customers, from which individual customer identities have been removed. In other words, information about how you use customer service may be collected and combined with information about how others use customer service, but no personal information will be included in the resulting data. Likewise, information about the products you have purchased may be collected and combined with information about the products purchased by others. Aggregate data helps us understand trends and customer needs so that we can better consider new products and services, and tailor existing products and services to customer desires. 
+**Security**  
+We implement a secure processing server on our site when collecting information to ensure a high level of security for your personal information entered such as bank details and credit card information.
 
-**Use of Personal Information by NiteRider**
+NiteRider Lighting Systems may charge a fee for granting access to information.
 
-The personal information we collect is generally used to process your requests or transactions, provide you with high-quality service and understand your needs so that we can serve you better. For example, we may use your telephone number, your e-mail or your postal address to alert you about lighting system recalls or safety issues. 
-
-**Sharing of Personal Information**
-
-We do not sell, rent, share or disclose personal information to third parties without your prior consent, except in limited circumstances. For example, we may provide to a third party certain information that is necessary to fulfill an order you have placed with us. For example, if you request return shipment for a repaired lighting system, we may provide your address to the shipping carrier, and if you pay by a credit or debit card, your card number and sales transaction information are passed on to the card processor and/or issuer (including their service providers such as fraud verification services). However, we give vendors, suppliers, and others involved in the commerce distribution chain only the information needed to provide you the products or services you order, such as shipping and/or billing address, e-mail address, telephone number and product orders. Moreover, we require them to keep the information confidential and not to use it for other purposes. We are not responsible for any additional information you provide directly to these parties, and we encourage you to become familiar with their practices before disclosing information directly to them. 
-
-**Online Links to Other Websites**
-
-You can link to other Web sites of third parties who have a common association with NiteRider. Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party's privacy policy. Except as described above, we are not responsible for the content or privacy and security practices and policies of Web sites to which we link. Links from our site to third parties or to other sites are provided for your convenience. We encourage you to learn about their privacy and security practices and policies before providing them with personal information. 
-
-|   
-
+If you have any questions or concerns about NiteRider Lighting Systems and our collection, use or disclosure of personal information, contact us at [info@niterider.com](mailto:info@niterider.com).
