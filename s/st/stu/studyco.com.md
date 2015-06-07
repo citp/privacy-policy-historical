@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studyco.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626184734id_/http%3A//www.studyco.com/en/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyco.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607180130id_/http%3A//www.studyco.com/en/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -77,10 +77,10 @@ For further information contact us on:
 
 **StudyCo Pty Ltd   ABN: ****99 155 316 626**
 
-**Tel:** +61 3 9629 2655 
+**Tel:    **+61 3 9629 2677
 
 **Fax:**   +61 3 9629 2611
 
 **Address:** PO Box 180, Collins Street West, Melbourne Victoria 8007 Australia 
 
-**Email:** counsellor@studyco.com
+**Email:**  counsellor@studyco.com
