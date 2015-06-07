@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bioportfolio.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208133736id_/http%3A//www.bioportfolio.com/info/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bioportfolio.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608002723id_/http%3A//bioportfolio.com/info/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # BioPortfolio Privacy and Cookie Policy
 
@@ -81,7 +81,3 @@ a. If we change our Policy, we will post the changes on this page. Please check 
 a. If you believe that we have not adhered to this Policy, please notify us by email at [priority@bioportfolio.com](mailto:priority@bioportfolio.com) and we will try to solve the problem promptly.
 
 This Policy was last updated on February 22rd 2013
-
-Search BioPortfolio:
-
-Loading
