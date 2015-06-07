@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the designpax.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120115600id_/http%3A//www.designpax.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designpax.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607134626id_/http%3A//www.designpax.com/pages/privacy.html) for the most accurate reproduction.*
 
 # 
+
+[](http://www.designpax.com/)
+
+## Need Help? Call Us
+
+### (800) 328-0284
+
+## PRIVACY POLICY
 
 Our Commitment to Privacy
 
@@ -19,6 +27,8 @@ Billing Information
  The Way We Use Information
 
  We use the information you provide about yourself in order to respond to communications and fulfill orders. We will not share this information with any third parties at anytime.
+
+As you browse through Designpax and other websites, online ad networks we work with may place anonymous cookies on your computer, and use similar technologies, in order to understand your interests based on your (anonymous) online activities, and thus to tailor more relevant ads to you.   If you do not wish to receive such tailored advertising, you can visit this [page](http://www.networkadvertising.org/choices/) to opt out of most companies that engage in such advertising.  (This will not prevent you from seeing ads; the ads simply will not be delivered through these targeting methods.)
 
  Our Commitment to Data Security
 
