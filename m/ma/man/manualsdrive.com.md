@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the manualsdrive.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120050057id_/http%3A//www.manualsdrive.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manualsdrive.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608010556id_/http%3A//manualsdrive.com/privacy.php) for the most accurate reproduction.*
 
 # manualsdrive.com : Privacy Policy
 
-Your privacy is important to manualsdrive.com. So we’ve developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and [let us know](https://web.archive.org/web/20141120050057id_/http%3A//www.manualsdrive.com/about.php) if you have any questions.
+Your privacy is important to manualsdrive.com. So we’ve developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and [let us know](https://web.archive.org/web/20150608010556id_/http%3A//manualsdrive.com/about.php) if you have any questions.
 
 ## Collection and Use of Personal Information
 
@@ -113,7 +113,7 @@ To make sure your personal information is secure, we communicate our privacy and
 
 ## Privacy Questions
 
-If you have any questions or concerns about manualsdrive.com’s Privacy Policy or data processing, please [contact us](https://web.archive.org/web/20141120050057id_/http%3A//www.manualsdrive.com/about.php).
+If you have any questions or concerns about manualsdrive.com’s Privacy Policy or data processing, please [contact us](https://web.archive.org/web/20150608010556id_/http%3A//manualsdrive.com/about.php).
 
 manualsdrive.com may update its Privacy Policy from time to time. When we change the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy.
 
