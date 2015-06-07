@@ -1,476 +1,515 @@
-<!--The following is the downloaded HTML source of the tommiecopper.com privacy policy that was archived on 2014-09-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140921041234id_/http%3A//www.tommiecopper.com/content/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tommiecopper.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607195455id_/http%3A//www.tommiecopper.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><!--<![endif]--><head>
-  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0020/8292.js?439022" async="" type="text/javascript"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="ltkSDK" src="https://cdn.listrakbi.com/scripts/script.js?m=mPxVvMgC89tF&amp;v=1"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAQEUFBACQQHUVVV"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-<link rel="shortcut icon" href="http://www.tommiecopper.com/sites/all/themes/tc_19/favicon.ico" type="image/vnd.microsoft.icon">
-<link rel="shortlink" href="http://www.tommiecopper.com/node/850">
-<meta name="generator" content="Drupal 7 (http://drupal.org)">
-<meta name="description" content="&nbsp;
-This Privacy Policy governs the manner in which Tommie Copper collects, uses, maintains and discloses information collected from users (each, a &quot;User&quot;) of the www.tommiecopper.com website (&quot;Site&quot;). This privacy policy applies to the Site and all products and services offered by Tommie Copper.
-&nbsp;
-Personal identification information
-&nbsp;">
-<link rel="canonical" href="http://www.tommiecopper.com/content/privacy-policy">
-  <title>Privacy Policy | Tommie Copper</title>
-  <link rel="shortcut icon" type="image/x-icon" href="/sites/all/themes/tc_19/favicon.ico">
-  <link rel="stylesheet" type="text/css" href="//cloud.typography.com/6503272/616942/css/fonts.css">
-  <link type="text/css" rel="stylesheet" href="http://www.tommiecopper.com/sites/default/files/css/css_L6BvqmGDIs5JYeLHxCoM0HnJIaR84PD_uDl79qptVy4.css" media="all">
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-850 node-type-page i18n-en">
-    <div id="page" class="page">
-  <div id="sticky-top">
-    <div id="banner" class="c">
-    <div class="pw">
-        <div class="region region-header-top">
-    <div id="block-tc_utility-tc_utility_header" class="block block-tc-utility">
-<div class="block-content">
-<div id="header-links">
-  <a href="http://chat1d.livechatinc.com/licence/1055673/open_chat.cgi?lang=en&amp;groups=0" class="live-chat">LIVE CHAT</a>
-  <a href="/content/help">SUPPORT</a>
-  <span class="divider">|</span>
-  <a href="/copper/soul/our-vision">COMPANY</a>
-</div>
-<div id="header-promo">
-<p class="promo-msg">FREE SHIPPING. CLICK FOR DETAILS.</p>
-</div>
-<div id="header-user">
-  <a href="/user/login">SIGN IN</a> / <a href="/user/register">SIGN UP</a>
-</div>
-<div id="header-cart">
-  <a href="/cart">CART <span class="cart-icon"></span> <span class="cart-price">0 ITEMS</span></a>
-</div></div>
-</div>  </div>
-    </div>
-  </div>
-    <noscript>
-    <div class="pw">
-      <div id="browser-warning" class="messages error">
-        This site requires JavaScript. Please <a href="http://enable-javascript.com/" title="Enable Javascript" >enable JavaScript on your device</a> to fully experience Tommiecopper.com.   Thank You.
-      </div>
-    </div>
-  </noscript>
-  
-    <div id="header" class="c">
-      <div class="pw">
-          <div class="region region-header">
-    <div id="block-block-29" class="block block-block">
-<div class="block-content">
-<div style="font-size:12px;font-weight:300;line-height:150%;overflow:hidden;padding: 15px 0;">
-<a style="color:#FFF;text-decoration:none;" href="/pf">RECEIVE FREE SHIPPING ON ORDERS OF 2+ ITEMS</a>
-</div></div>
-</div>  </div>
-      </div>
-    </div>
-    <div id="main-menu" class="c">
-      <div class="pw">
-          <div class="region region-main-menu">
-    <div id="block-tc_utility-tc_utility_menu" class="block block-tc-utility">
-<div class="block-content">
-<div id="menu-layer">
-  <div id="menu-icon"></div>
-  <div id="logo-container">
-    <a href="/" title="Tommie Copper Compression Apparel">
-      <span id="logo"></span>
-    </a>
-  </div>
-  <div id="search-icon"></div>
-  <div id="main-menu-c">
-    <div class="menu-group">
-      <div class="menu-top">
-        <a class="expandable" href="/pf?4=11" title="Men">MEN</a>
-      </div>
-      <div class="menu-bottom mb-men"><div class="menu-col"><div class="menu-col-inner">
-<div class="col-heading"><a href="/pf?4=11&amp;11=1332" class="active">Compression Sleeves</a></div><a class="menu-benefit recovery" href="/pf?4=11&amp;14=1908&amp;11=1332">Recovery 1.0</a><ul class="product-list"><li><a href="/product/mens-recovery-compression-knee-sleeve">Knee</a></li><li><a href="/product/mens-ankle-compression-sleeve">Ankle</a></li><li><a href="/product/mens-wrist-compression-sleeves">Wrist</a></li><li><a href="/product/mens-recovery-compression-elbow-sleeve">Elbow</a></li><li><a href="/product/mens-recovery-compression-calf-sleeve">Calf</a></li></ul><a class="menu-benefit performance" href="/pf?4=11&amp;14=1909&amp;11=1332">Performance 2.0</a><ul class="product-list"><li><a href="/product/mens-compression-silicone-free-knee-sleeve">Silicone Free Knee</a></li><li><a href="/product/mens-performance-compression-elbow-sleeve">Performance Elbow</a></li><li><a href="/product/mens-performance-compression-full-arm-sleeve">Performance Arm</a></li><li><a href="/product/mens-performance-compression-ankle-sleeve">Performance Ankle</a></li></ul></div></div><div class="menu-col"><div class="menu-col-inner">
-<div class="col-heading"><a href="/pf?4=11&amp;11=1334" class="active">Tops</a></div><a class="menu-benefit recovery" href="/pf?4=11&amp;14=1908&amp;11=1334">Recovery 1.0</a><ul class="product-list"><li><a href="/product/mens-recovery-compression-long-sleeve-crew-neck-shirt">Long Sleeve Crew</a></li><li><a href="/product/mens-short-sleeve-shirt">Short Sleeve Crew</a></li><li><a href="/product/mens-recovery-compression-v-neck-shirt">Short Sleeve V-Neck</a></li></ul><a class="menu-benefit performance" href="/pf?4=11&amp;14=1909&amp;11=1334">Performance 2.0</a><ul class="product-list"><li><a href="/product/mens-performance-active-fit-short-sleeve-crew-neck-shirt">Performance Short Sleeve</a></li><li><a href="/product/mens-performance-active-fit-sleeveless-crew-shirt">Performance Sleeveless Crew</a></li><li><a href="/product/mens-performance-baseball-shirt">3/4 Sleeve Baseball Shirt</a></li></ul></div></div><div class="menu-col"><div class="menu-col-inner">
-<div class="col-heading"><a href="/pf?4=11&amp;11=1333" class="active">Bottoms</a></div><a class="menu-benefit recovery" href="/pf?4=11&amp;14=1908&amp;11=1333">Recovery 1.0</a><ul class="product-list"><li><a href="/product/mens-compression-shorts">Undershorts</a></li><li><a href="/product/mens-compression-running-tights">Running Tights</a></li><li><a href="/product/mens-compression-running-shorts">Shorts</a></li></ul><a class="menu-benefit performance" href="/pf?4=11&amp;14=1909&amp;11=1333">Performance 2.0</a><ul class="product-list"><li><a href="/product/mens-performance-compression-tri-pants">3/4 Tri Pants</a></li><li><a href="/product/mens-performance-compression-shorts">Performance Shorts</a></li></ul></div></div><div class="menu-col"><div class="menu-col-inner">
-<div class="col-heading"><a href="/pf?4=11&amp;11=1946" class="active">Innerwear</a></div><ul class="product-list"><li><a href="/product/mens-innerwear-active-fit-crew-neck-undershirt">Undershirt</a></li><li><a href="/product/mens-innerwear-active-fit-tank">Tank</a></li><li><a href="/product/mens-innerwear-active-fit-boxer-briefs">Boxer Briefs</a></li></ul></div></div><div class="menu-col"><div class="menu-col-inner">
-<div class="col-heading"><a href="/pf?4=11&amp;11=1921" class="active">Compression Socks</a></div><a class="menu-benefit recovery" href="/pf?4=11&amp;14=1908&amp;11=1921">Recovery 1.0</a><ul class="product-list"><li><a href="/product/mens-recovery-compression-dress-crew-socks">Dress Crew</a></li><li><a href="/product/mens-recovery-compression-dress-calf-socks">Dress Calf</a></li></ul><a class="menu-benefit performance" href="/pf?4=11&amp;14=1909&amp;11=1921">Performance 2.0</a><ul class="product-list"><li><a href="/product/mens-performance-compression-athletic-calf-socks">Athletic Calf</a></li><li><a href="/product/mens-performance-compression-athletic-ankle-socks">Athletic Ankle</a></li><li><a href="/product/mens-exo-performance-compression-calf-socks">Exo Athletic Calf</a></li><li><a href="/product/mens-performance-compression-athletic-crew-socks">Athletic Crew</a></li></ul></div></div><div class="menu-col"><div class="menu-col-inner">
-<div class="col-heading"><a href="/pf?4=11&amp;11=1331" class="active">Accessories</a></div><a class="menu-benefit recovery" href="/pf?4=11&amp;14=1908&amp;11=1331">Recovery 1.0</a><ul class="product-list"><li><a href="/product/mens-recovery-compression-full-finger-gloves">Full Finger Gloves</a></li><li><a href="/product/mens-half-finger-compression-gloves">Half Finger Gloves</a></li></ul></div></div>
-      </div>
-    </div>
-    <div class="menu-group">
-      <div class="menu-top">
-        <a class="expandable" href="/pf?4=12" title="Women">WOMEN</a>
-      </div>
-      <div class="menu-bottom mb-women"><div class="menu-col"><div class="menu-col-inner">
-<div class="col-heading"><a href="/pf?4=12&amp;11=1332" class="active">Compression Sleeves</a></div><a class="menu-benefit recovery" href="/pf?4=12&amp;14=1908&amp;11=1332">Recovery 1.0</a><ul class="product-list"><li><a href="/product/womens-knee-compression-sleeve">Knee</a></li><li><a href="/product/womens-ankle-compression-sleeve">Ankle</a></li><li><a href="/product/womens-wrist-compression-sleeves">Wrist</a></li><li><a href="/product/womens-recovery-compression-elbow-sleeve">Elbow</a></li><li><a href="/product/womens-recovery-compression-calf-sleeve">Calf</a></li><li><a href="/product/womens-recovery-compression-core-band">Core Band</a></li></ul><a class="menu-benefit performance" href="/pf?4=12&amp;14=1909&amp;11=1332">Performance 2.0</a><ul class="product-list"><li><a href="/product/womens-compression-silicone-free-knee-sleeve">Silicone Free Knee</a></li><li><a href="/product/womens-performance-compression-full-arm-sleeve">Performance Arm</a></li><li><a href="/product/womens-performance-compression-elbow-sleeve">Performance Elbow</a></li><li><a href="/product/womens-performance-compression-ankle-sleeve">Performance Ankle</a></li></ul></div></div><div class="menu-col"><div class="menu-col-inner">
-<div class="col-heading"><a href="/pf?4=12&amp;11=1334" class="active">Tops</a></div><a class="menu-benefit recovery" href="/pf?4=12&amp;14=1908&amp;11=1334">Recovery 1.0</a><ul class="product-list"><li><a href="/product/womens-recovery-compression-long-sleeve-shirt">Long Sleeve V-Neck</a></li><li><a href="/product/womens-short-sleeve-shirt">Short Sleeve V-Neck</a></li><li><a href="/product/womens-recovery-compression-camisole">Camisole</a></li><li><a href="/product/womens-recovery-compression-tank-top">Tank Top</a></li></ul><a class="menu-benefit performance" href="/pf?4=12&amp;14=1909&amp;11=1334">Performance 2.0</a><ul class="product-list"><li><a href="/product/womens-performance-cap-sleeve-v-neck">Cap Sleeve V-Neck</a></li><li><a href="/product/womens-performance-active-fit-racerback-tank">Racerback Tank</a></li><li><a href="/product/womens-performance-active-fit-racerback-camisole">Racerback Camisole</a></li><li><a href="/product/womens-performance-active-fit-polo">Johnny Collar Polo</a></li></ul></div></div><div class="menu-col"><div class="menu-col-inner">
-<div class="col-heading"><a href="/pf?4=12&amp;11=1333" class="active">Bottoms</a></div><a class="menu-benefit recovery" href="/pf?4=12&amp;14=1908&amp;11=1333">Recovery 1.0</a><ul class="product-list"><li><a href="/product/womens-shorts">Shorts</a></li><li><a href="/product/womens-recovery-compression-tights">Tights</a></li></ul><a class="menu-benefit performance" href="/pf?4=12&amp;14=1909&amp;11=1333">Performance 2.0</a><ul class="product-list"><li><a href="/product/womens-performance-compression-capris">Capris</a></li><li><a href="/product/womens-compression-full-length-legging">Leggings</a></li><li><a href="/product/womens-performance-compression-tri-pants">3/4 Tri Pants</a></li><li><a href="/product/womens-performance-compression-fold-over-shorts">Fold Over Shorts</a></li><li><a href="/product/womens-performance-active-fit-skort">Skort</a></li></ul></div></div><div class="menu-col"><div class="menu-col-inner">
-<div class="col-heading"><a href="/pf?4=12&amp;11=1921" class="active">Compression Socks</a></div><a class="menu-benefit recovery" href="/pf?4=12&amp;14=1908&amp;11=1921">Recovery 1.0</a><ul class="product-list"><li><a href="/product/womens-recovery-compression-dress-crew-socks">Dress Crew</a></li><li><a href="/product/womens-recovery-compression-dress-calf-socks">Dress Calf</a></li></ul><a class="menu-benefit performance" href="/pf?4=12&amp;14=1909&amp;11=1921">Performance 2.0</a><ul class="product-list"><li><a href="/product/womens-ankle-compression-athletic-socks">Athletic Ankle</a></li><li><a href="/product/womens-performance-compression-athletic-calf-socks">Athletic Calf</a></li></ul></div></div><div class="menu-col"><div class="menu-col-inner">
-<div class="col-heading"><a href="/pf?4=12&amp;11=1331" class="active">Accessories</a></div><a class="menu-benefit recovery" href="/pf?4=12&amp;14=1908&amp;11=1331">Recovery 1.0</a><ul class="product-list"><li><a href="/product/womens-recovery-compression-full-finger-gloves">Full Finger Gloves</a></li><li><a href="/product/womens-half-finger-compression-gloves">Half Finger Gloves</a></li></ul></div></div>
-      </div>
-    </div>
-    <div class="menu-group">
-      <div class="menu-top">
-        <a href="/copper/mind" title="Tech">TECH</a>
-      </div>
-    </div>
-    <div class="menu-group">
-      <div class="menu-top">
-        <span class="expandable">COMMUNITY</span>
-      </div>
-      <div class="menu-bottom mb-com">
-      <div class="menu-col">
-      <div class="menu-col-inner">
-      <ul class="product-list">
-      <li><a href="/blog">Blog</a></li>
-      <li><a href="/copper/heart/tommie-cares">Tommie Cares</a></li>
-      <li><a href="/copper/culture/partners">Partners</a></li>
-      </ul>
-      </div>
-      </div>
-      </div>
-    </div><div class="menu-group">
-      <div class="menu-top">
-        <a href="/pf?clearance=1">CLEARANCE</a>
-      </div>
-    </div></div>
-  <div id="search-box">
-    <form action="#" id="search-form" method="POST">
-      <input id="edit-search-text" type="text" placeholder="SEARCH" name="search-form-text">
-      <input id="edit-search-submit" type="submit" value="">
-    </form>
-  </div>
-</div></div>
-</div>  </div>
-      </div>
-    </div>
-  </div>
-  <div id="spacer"></div>
-            <div id="main-content" class="c">
-    <div class="pw">
-        <div class="region region-content">
-    <div id="block-system-main" class="block block-system">
-<div class="block-content">
-<div id="node-850" class="node node-page clearfix">
-  <h1 class="title">Privacy Policy</h1>
-  <div class="content clearfix">
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>&nbsp;</p>
-<p>This Privacy Policy governs the manner in which Tommie Copper collects, uses, maintains and discloses information collected from users (each, a "User") of the <u><a href="http://www.generateprivacypolicy.com/account/policies/edit/www.tommiecopper.com">www.tommiecopper.com</a></u> website ("Site"). This privacy policy applies to the Site and all products and services offered by Tommie Copper.</p>
-<p>&nbsp;</p>
-<p><strong>Personal identification information</strong></p>
-<p>&nbsp;</p>
-<p>We may collect personal identification information from Users in a variety of ways including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personal identification information, except that it may prevent them from engaging in certain Site related activities.</p>
-<p>&nbsp;</p>
-<p><strong>Non-personal identification information</strong></p>
-<p>&nbsp;</p>
-<p>We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include, but is not limited to, demographic information, browser information, type of computer and technical information about Users' means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.</p>
-<p>&nbsp;</p>
-<p><strong>Web browser cookies</strong></p>
-<p>&nbsp;</p>
-<p>Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.</p>
-<p>&nbsp;</p>
-<p><strong>How we use collected information</strong></p>
-<p>&nbsp;</p>
-<p>Tommie Copper collects and uses Users personal information for the following purposes:</p>
-<ul><li>
-<p><em>- To improve our Site</em><br>
-	We continually strive to improve our website offerings based on the information and feedback we receive from you.</p>
-</li>
-<li>
-<p><em>- To improve customer service</em><br>
-	Your information helps us to more effectively respond to your customer service requests and support needs.</p>
-</li>
-<li>
-<p><em>- To process transactions</em><br>
-	We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.</p>
-</li>
-<li>
-<p><em>- To send periodic emails</em><br>
-	The email address a User provides for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If a User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.</p>
-</li>
-</ul><p><strong>How we protect your information</strong></p>
-<p>&nbsp;</p>
-<p>We adopt appropriate data collection, storage and processing practices, and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.</p>
-<p>&nbsp;</p>
-<p>Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.</p>
-<p>&nbsp;</p>
-<p><strong>Sharing your personal information</strong></p>
-<p>&nbsp;</p>
-<p>We do not sell, trade, or rent Users' personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.</p>
-<p>&nbsp;</p>
-<p><strong>User reviews, testimonials and other consent terms and conditions</strong></p>
-<p>&nbsp;</p>
-<p>These terms and conditions govern your conduct associated with submitting reviews, testimonials or other content to Tommie Copper, Inc. via its website. To the extent of any conflict between Tommie Copper, Inc.'s Privacy Policy and these terms and conditions, these terms and conditions shall control with respect to such conduct and content.</p>
-<p>By submitting any content to Tommie Copper, Inc., you represent and warrant that:</p>
-<ul><li>
-<p>You are the sole author and owner of the intellectual property rights thereto;</p>
-</li>
-<li>
-<p>All "moral rights" that you may have in such content have been voluntarily waived by you;</p>
-</li>
-<li>
-<p>All content that you post is honest and accurate;</p>
-</li>
-<li>
-<p>This question or answer is based on your personal experience and not that of a third party;</p>
-</li>
-<li>
-<p>You are at least 18 years old, 19 or older if a resident of AL or NE;</p>
-</li>
-<li>
-<p>Use of the content you supply does not violate these Terms of Use and will not cause injury to any person or entity.</p>
-</li>
-</ul><p>You further represent and warrant that you shall not submit any content:</p>
-<ul><li>
-<p>That is known by you to be false, inaccurate or misleading;</p>
-</li>
-<li>
-<p>That portrays any dangerous stunts or acts;</p>
-</li>
-<li>
-<p>That infringes any third party's copyright, patent, trademark, trade secret or other proprietary rights or rights of publicity or privacy;</p>
-</li>
-<li>
-<p>That violates any law, statute, ordinance or regulation (including, but not limited to, those governing export control, consumer protection, applicable product regulations, unfair competition, anti-discrimination or false advertising);</p>
-</li>
-<li>
-<p>That is, or may reasonably be considered to be, defamatory, libelous, hateful, racially or religiously biased or offensive, unlawfully threatening or unlawfully harassing to any individual, partnership or corporation;</p>
-</li>
-<li>
-<p>For which you were compensated or granted any consideration by any third party;</p>
-</li>
-<li>
-<p>That includes any information that references other websites, addresses, email addresses, contact information or phone numbers;</p>
-</li>
-<li>
-<p>That contains any computer viruses, worms or other potentially damaging computer programs or files.</p>
-</li>
-</ul><p>You agree to indemnify and hold Tommie Copper, Inc. (and its officers, directors, agents, subsidiaries, joint ventures, employees and third-party service providers and respective successors and assigns), harmless from all claims, demands, and damages (actual and consequential) of every kind and nature, known and unknown including reasonable attorneys' fees, arising out of a breach of your representations and warranties set forth above, or your violation of any law or the rights of a third party.</p>
-<p>For any content that you submit, you grant Tommie Copper, Inc. a, perpetual, irrevocable, royalty-free, transferable right and license to use, copy, modify, delete in its entirety, adapt, publish, translate, create derivative works from and/or sell and/or distribute such content and/or incorporate such content into any form, medium or technology throughout the world without compensation to you.</p>
-<p>Tommie Copper, Inc. reserves the right to moderate all reviews and other user submissions.&nbsp; All content that you submit may be used at Tommie Copper, Inc.'s sole discretion. Tommie Copper, Inc. reserves the right to change, condense or delete any content on Tommie Copper, Inc.'s website that Tommie Copper, Inc. deems, in its sole discretion, to violate the these Terms and Conditions or for any other reason whatsoever. Tommie Copper, Inc. does not guarantee that you will have any ability to edit or delete any content you have submitted. Tommie Copper, Inc. reserves the right to remove or to refuse to post any submission for any reason. You acknowledge that you, and not Tommie Copper, Inc., are responsible for the contents of your submission. None of the content that you submit shall be subject to any obligation of confidence on the part of Tommie Copper, Inc., its agents, subsidiaries, affiliates, partners or third party service providers and their respective directors, officers and employees and successors and assigns.</p>
-<p>By submitting your email address in connection with your submission, you agree that Tommie Copper, Inc. and its third-party service providers may use your email address to contact you about the status of your submission and for other administrative purposes.</p>
-<p><strong>Changes to this privacy policy</strong></p>
-<p>&nbsp;</p>
-<p>Tommie Copper has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.</p>
-<p>&nbsp;</p>
-<p><strong>Your acceptance of these terms</strong></p>
-<p>&nbsp;</p>
-<p>By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.</p>
-<p>&nbsp;</p>
-<p><strong>Contacting us</strong></p>
-<p>&nbsp;</p>
-<p>If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:</p>
-<p>Tommie Copper</p>
-<p><u><a href="http://www.generateprivacypolicy.com/account/policies/edit/www.tommiecopper.com">www.tommiecopper.com</a></u></p>
-<p>74 S. Moger Ave.</p>
-<p>Mount Kisco, NY 10549</p>
-<p>914-488-5563</p>
-</div></div></div>  </div>
-    </div></div>
-</div>  </div>
-    </div>
-  </div>
-    <div id="post-content" class="c">
-    <div class="pw">
-      <form method="post" action="http://t.lt02.net/q/php02Woigx3psP1P5vVjdxPo_T2JKkW20n">
-        <input type="hidden" name="crvs" value="vwj_edKFduOY3u2xnBgzOm2IH6WXug8yBMQVWf2uZbD_xVZNAcxyRa3-_rl5RO_bi2pqXavrjP_02CSmek68blck8LHVfvmho_q898k8Seso0Gbjwv6yGMVlWjt-vN1FRrABqxsfv9DwBi1HCQOCEWQqJtQ7BtTIFgCNehlRJa8z-8MCuigOPjWJZ17RTwsL">
-        <label for="email">Newsletter Signup</label>
-        <input type="text" id="email" placeholder="Email Address" name="email" size="40" maxlength="100" value="">
-        <input type="hidden" name="CheckBox.Source.Miniform" value="on">
-        <input type="submit" id="newsletter-submit" value="SIGN UP">
-      </form>
-    </div>
-  </div>
-    <div id="footer" class="c">
-    <div class="pw">
-        <div class="region region-footer">
-    <div id="block-tc_utility-tc_utility_footer" class="block block-tc-utility">
-<div class="block-content">
-<div id="footer-c">
-  <div id="footer-spacer">
-  </div>
-  <div id="footer-cols">
-    <div class="footer-col fcol1">
-      <p class="footer-label">CUSTOMER SERVICE</p>
-      <ul class="footer-col-list">
-        <li><a href="/content/help">CONTACT</a></li>
-        <li><a class="phone-link" href="tel:1-855-692-8291">1.855.692.8291</a></li>
-        
-        <li><a class="live-chat" href="http://chat1d.livechatinc.com/licence/1055673/open_chat.cgi?lang=en&amp;groups=0">LIVE CHAT</a></li>
-        <li><a href="/content/tommie-copper-comfort-challenge-100-money-back-guarantee">RETURNS &amp; EXCHANGES</a></li>
-        <li><a href="/copper/mind/faq">FAQs</a></li>
-        <li><a href="/user">MY ACCOUNT</a></li>
-      </ul>
-    </div>
-    <div class="footer-col fcol2">
-      <p class="footer-label">MEN</p>
-      <ul class="footer-col-list">
-        <li><a href="/pf?4=11&amp;11=1332">COMPRESSION SLEEVES</a></li>
-        <li><a href="/pf?4=11&amp;11=1334">TOPS</a></li>
-        <li><a href="/pf?4=11&amp;11=1946">INNERWEAR</a></li>
-        <li><a href="/pf?4=11&amp;11=1333">BOTTOMS</a></li>
-        <li><a href="/pf?4=11&amp;11=1921">COMPRESSION SOCKS</a></li>
-        <li><a href="/pf?4=11&amp;11=1331">ACCESSORIES</a></li>
-      </ul>
-    </div>
-    <div class="footer-col fcol3">
-      <p class="footer-label">WOMEN</p>
-      <ul class="footer-col-list">
-        <li><a href="/pf?4=12&amp;11=1332">COMPRESSION SLEEVES</a></li>
-        <li><a href="/pf?4=12&amp;11=1334">TOPS</a></li>
-        <li><a href="/pf?4=12&amp;11=1946">INNERWEAR</a></li>
-        <li><a href="/pf?4=12&amp;11=1333">BOTTOMS</a></li>
-        <li><a href="/pf?4=12&amp;11=1921">COMPRESSION SOCKS</a></li>
-        <li><a href="/pf?4=12&amp;11=1331">ACCESSORIES</a></li>
-      </ul>
-    </div>
-    <div class="footer-col fcol4">
-      <p class="footer-label">ABOUT TOMMIE COPPER</p>
-      <ul class="footer-col-list">
-        <li><a href="/copper/soul/our-vision">TOMMIE COPPER INC</a></li>
-        <li><a href="/copper/culture/partners">PARTNERS</a></li>
-        <li><a href="/copper/heart/special-olympics">SPECIAL OLYMPICS</a></li>
-        <li><a href="/copper/heart/tommie-cares">TOMMIE CARES</a></li>
-      </ul>
-    </div>
-    <div class="footer-col fcol5">
-      <p class="footer-label">CONNECT WITH US</p>
-      <div id="sm-icons">
-        <a href="http://www.facebook.com/tommiecopper" class="sm-link fb" title="Tommie Copper on Facebook" target="_blank">Facebook</a>
-        <a href="http://twitter.com/tommiecopper" class="sm-link tw" title="Tommie Copper on Twitter" target="_blank">Twitter</a>
-        <a href="http://www.youtube.com/user/TommieCopper" class="sm-link yt" title="Tommie Copper on YouTube" target="_blank">YouTube</a>
-        <a href="http://plus.google.com/u/0/101407282583531534048/posts" class="sm-link gp" title="Tommie Copper on G+" target="_blank">Gplus</a>
-        <a href="http://pinterest.com/search/?q=tommie+copper" class="sm-link pi" title="Tommie Copper on Pintrest" target="_blank">Pintrest</a>
-        <a href="http://www.instagram.com/tommiecopper" class="sm-link in" title="Tommie Copper on Instagram" target="_blank">Instagram</a>
-      </div>
-      <ul class="footer-col-list">
-        <li><a href="/blog">BLOG</a></li>
-        <li><a href="/copper/soul/your-voice/testimonials">TESTIMONIALS</a></li>
-      </ul>
-    </div>
-  </div>
-  <div id="footer-post">
-    <p id="copyright">Copyright © 2014 Tommie Copper Inc.  All Rights Reserved.</p>
-    <div id="footer-links">
-      <a href="/content/privacy-policy">Privacy Policy</a> <span class="sep">|</span> <a href="/content/terms-use">Terms of Use</a>
-    </div>
-  </div>
-</div></div>
-</div>  </div>
-    </div>
-  </div>
-</div>
-<div id="internal-nid" style="display:none;">850</div>  <div class="pc-overlay">
-    <div class="overlay-inner">
-      <span class="close-overlay">close</span>
-      <div class="overlay-inner-inner"></div>
-    </div>
-  </div>
-  <script type="text/javascript">
-<!--//--><![CDATA[//><!--
-(function(d) {
-  'use strict';
-  if (document.addEventListener) { 
-   document.addEventListener('ltkAsyncListener', d);
-  }
-  else {
-    e = document.documentElement;
-    e.ltkAsyncProperty = 0;
-    e.attachEvent('onpropertychange', function (e) {
-      if (e.propertyName == 'ltkAsyncProperty') {
-        d();
+<!DOCTYPE html><html xml:lang="en" lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NJP5DW"></script><script id="ltkSDK" src="http://cdn.listrakbi.com/scripts/script.js?m=mPxVvMgC89tF&amp;v=1"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" async="" src="https://secure-cdn.mplxtms.com/s/MasterTMS.min.js#1483"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+<title>Privacy Policy</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="INDEX,FOLLOW">
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+<link rel="icon" href="http://skin.tommiecopper.com/skin/frontend/enterprise/tommiecopper/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://skin.tommiecopper.com/skin/frontend/enterprise/tommiecopper/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" type="text/css" href="//cloud.typography.com/6503272/765904/css/fonts.css">
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'http://js.tommiecopper.com/js/blank.html';
+    var BLANK_IMG = 'http://js.tommiecopper.com/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+<script type="text/javascript">
+//<![CDATA[
+  var Tommiecopper = Tommiecopper || {"data":{}};
+  function isMobile(type) {
+      "use strict";
+      switch (type) {
+       case "Android":
+        return navigator.userAgent.match(/Android/i) ? true : false;
+      case "BlackBerry":
+        return navigator.userAgent.match(/BlackBerry/i) ? true : false;
+      case "iOS":
+        return navigator.userAgent.match(/iPhone|iPad|iPod/i) ? true : false;
+      case "Windows":
+        return navigator.userAgent.match(/IEMobile/i) ? true : false;
+      case "any":
+        var android     = navigator.userAgent.match(/Android/i) ? true : false;
+        var blackberry  = navigator.userAgent.match(/BlackBerry/i) ? true : false;
+        var ios         = navigator.userAgent.match(/iPhone|iPad|iPod/i) ? true : false;
+        var win         = navigator.userAgent.match(/IEMobile/i) ? true : false;
+        return (android || blackberry || ios || win);
       }
-    });
   }
-})(function() { 
-  'use strict';
-  if (typeof _ltk !== 'undefined') {
-    _ltk.SCA.CaptureEmail('email');
-  }
-});
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-(function(a){if(document.addEventListener){document.addEventListener("ltkAsyncListener",a)}else{e=document.documentElement;e.ltkAsyncProperty=0;e.attachEvent("onpropertychange",function(b){if(b.propertyName=="ltkAsyncProperty"){a()}})}})(function(){if(typeof _ltk!=="undefined"){_ltk.Click.Submit()}});
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-var biJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
-(function (d, s, id, tid, vid) {
-var js, ljs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id)) return; js = d.createElement(s); js.id = id;
-js.src = biJsHost + "cdn.listrakbi.com/scripts/script.js?m=" + tid + "&v=" + vid;
-ljs.parentNode.insertBefore(js, ljs);
-})(document, "script", "ltkSDK", "mPxVvMgC89tF", "1");
-//--><!]]>
-</script>
-  <script type="text/javascript" src="http://www.tommiecopper.com/sites/default/files/js/js_xAPl0qIk9eowy_iS9tNkCWXLUVoat94SQT48UBCFkyQ.js"></script>
-<script type="text/javascript" src="http://www.tommiecopper.com/sites/default/files/js/js_CC-zfeuQHcDhFtVRuKW53h30TL7j_105J32Nz8b8R38.js"></script>
-<script type="text/javascript" src="http://www.tommiecopper.com/sites/default/files/js/js_on_hwTpMw0FTlOLQH9T5W2Cf8vgVeln_wUD6j7UmAXw.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery(function() { Authcache.init(); });
-//--><!]]>
-</script>
-<script type="text/javascript" src="//j.maxmind.com/js/apis/geoip2/v2.0/geoip2.js"></script>
-<script type="text/javascript" src="http://www.tommiecopper.com/sites/default/files/js/js_pENpBh5RKpysGJV_aquQiWMPKwy6U7DQu-5HQaKpOuA.js"></script>
-<script type="text/javascript" src="http://cdn.optimizely.com/js/982680214.js"></script>
-<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-<script type="text/javascript" src="http://www.tommiecopper.com/sites/default/files/js/js__IcoQ9F6ifX3glQE3dtvV4JVbMZPnbgCs0nBN8aYnCU.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-19715659-1", {"cookieDomain":".tommiecopper.com"});ga("require", "displayfeatures");ga("send", "pageview");
-//--><!]]>
-</script>
-<script type="text/javascript" src="http://www.tommiecopper.com/sites/default/files/js/js_U3Hl00QfWoktYLOTrHV5S1sbnfY3wdZuOPalWCF-NhI.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"tc_19","theme_token":"aQOUGldDMm0MLC_IOUerzQ6Gksh7r8g9OmUn_KFeee4","js":{"0":1,"1":1,"2":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/authcache\/authcache.js":1,"3":1,"\/\/j.maxmind.com\/js\/apis\/geoip2\/v2.0\/geoip2.js":1,"sites\/all\/modules\/custom\/country_redirect_helper\/js\/country_redirect_helper.js":1,"http:\/\/cdn.optimizely.com\/js\/982680214.js":1,"http:\/\/w.sharethis.com\/button\/buttons.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"4":1,"sites\/all\/themes\/tc_19\/js\/common.js":1},"css":{"sites\/all\/themes\/tc_19\/css\/main.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackDomainMode":"1"}});
-//--><!]]>
-</script>
-    <script type="text/javascript">
-    var __lc = {};
-    __lc.license = 1055673;
-    (function() {
-      var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
-      lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
-    })();
-  </script>
-  <script type="text/javascript">
-    setTimeout(function(){var a=document.createElement("script");
-    var b=document.getElementsByTagName("script")[0];
-    a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0020/8292.js?"+Math.floor(new Date().getTime()/3600000);
-    a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-  </script>
-  <script type="text/javascript">
-    adroll_adv_id = "R43YRBEGYVAUFJW4MFQ753";
-    adroll_pix_id = "CZUGHXAQGZD7BHP5USUMK3";
-    (function () {
-    var oldonload = window.onload;
-    window.onload = function(){
-       __adroll_loaded=true;
-       var scr = document.createElement("script");
-       var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-       scr.setAttribute('async', 'true');
-       scr.type = "text/javascript";
-       scr.src = host + "/j/roundtrip.js";
-       ((document.getElementsByTagName('head') || [null])[0] ||
-        document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-       if(oldonload){oldonload()}};
-    }());
-  </script>
-  <script type="text/javascript">
-  (function() {
-    var _fbq = window._fbq || (window._fbq = []);
-    if (!_fbq.loaded) {
-      var fbds = document.createElement('script');
-      fbds.async = true;
-      fbds.src = '//connect.facebook.net/en_US/fbds.js';
-      var s = document.getElementsByTagName('script')[0];
-      s.parentNode.insertBefore(fbds, s);
-      _fbq.loaded = true;
+
+  var isIE8 = function() {
+    "use strict";
+    if (navigator.appName === 'Microsoft Internet Explorer') {
+        if ($.browser.version < 10)
+        {
+            return true;
+        }
     }
-    _fbq.push(['addPixelId', '1479630782275778']);
-  })();
-  window._fbq = window._fbq || [];
-  window._fbq.push(['track', 'PixelInitialized', {}]);
-  </script>
-  <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1479630782275778&amp;ev=NoScript" /></noscript>
-  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"e75913a8b7","applicationID":"177547","transactionName":"YlBUZEUAWkBVVhANX1sad1NDCFtdG1sLAFVqRVdXUj5CWlFC","queueTime":0,"applicationTime":60,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+    return false;
+  };
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var mageBaseUrl = 'http://www.tommiecopper.com/';
+var mageSkinUrl = 'http://skin.tommiecopper.com/skin/frontend/enterprise/tommiecopper/';
+//]]>
+</script>
+<link rel="stylesheet" type="text/css" href="http://d3ll6ygsrdtlwk.cloudfront.net/media/css/4028679174997507621eba7f5f65fe62.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://d3ll6ygsrdtlwk.cloudfront.net/media/css/ed324e40d6c776ce85207abfe45d5988.css" media="print">
+<script type="text/javascript" src="http://d3ll6ygsrdtlwk.cloudfront.net/media/js/e53c20b14eeb534d5145ee81fa5edffc.js"></script>
+<link rel="canonical" href="http://www.tommiecopper.com/privacy-policy/">
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="http://d3ll6ygsrdtlwk.cloudfront.net/media/css/0db1bbe739a8822a844bb9b797705187.css" media="all" />
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" href="http://d3ll6ygsrdtlwk.cloudfront.net/media/css/e1ceda69def9f84f9da5e51d61422865.css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="http://d3ll6ygsrdtlwk.cloudfront.net/media/js/c3e46ef69df6b4b327096c66ff2c08d8.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+//<![CDATA[
+document.onload = function() {
+	if (!Mage) var Mage             = {};
+	if (!Mage.Cookies) Mage.Cookies = {};
+
+	Mage.Cookies.path     = '/';
+	Mage.Cookies.domain   = '.www.tommiecopper.com';
+};
+//]]>
+</script>
+<script type="text/javascript">/*DO NOT ALTER *** Tommie Copper*/(function(e){var t="1483",n=document,r,i,s={http:"http://cdn.mplxtms.com/s/MasterTMS.min.js",https:"https://secure-cdn.mplxtms.com/s/MasterTMS.min.js"},o=s[/\w+/.exec(window.location.protocol)[0]];i=n.createElement("script"),i.type="text/javascript",i.async=!0,i.src=o+"#"+t,r=n.getElementsByTagName("script")[0],r.parentNode.insertBefore(i,r),i.readyState?i.onreadystatechange=function(){if(i.readyState==="loaded"||i.readyState==="complete")i.onreadystatechange=null}:i.onload=function(){try{e()}catch(t){}}})(function(){});</script>
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["HK","IE","MO","PA"];
+//]]>
+</script>
+
+	<script type="text/javascript">
+	  var __lc = {};
+	  __lc.license = 1055673;
+	  __lc.group = 0;
+
+	  (function() {
+	    var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+	    lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+	  })();
+	</script>
+
+<!-- MyBuys Version 1.1.28 -->
+            <link href="https://t.p.mybuys.com/clients/TOMMIECOPPER/css/styles.css" type="text/css" rel="stylesheet" id="mybuysstyles">
+        <script type="text/javascript" src="http://t.p.mybuys.com/js/mybuys4.js"></script>
+        <script type="text/javascript" src="http://t.p.mybuys.com/clients/TOMMIECOPPER/js/setup.js"></script>
+    <script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script></head>
+<body class=" cms-page-view cms-privacy-policy">
+    <script type="text/javascript">
+var donations = new Donations(
+     1,
+    'http://www.tommiecopper.com/checkout/cart/',
+    'https://www.tommiecopper.com/donations/cart/',
+    'https://www.tommiecopper.com/donations/cart/remove/',
+    'https://www.tommiecopper.com/donations/cart/roundamount/',
+    0);
+</script>
+
+ 
+    <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+            </div>
+        </div>
+    </noscript>
+    <div class="wrapper"> 
+        <div class="page"><!-- ESI START DUMMY COMMENT [] -->
+<!-- ESI URL DUMMY COMMENT -->
+
+ <div class="header-container">
+    <div class="header-panel">
+        <div class="LHS"><a href="#" onclick="parent.LC_API.open_chat_window()" class="live-chat">LIVE CHAT</a>|<a href="http://www.tommiecopper.com/contact/" class="contact">CONTACT</a></div>
+        <div class="text-promo-header"><a href="#">FREE SHIPPING. VIEW DETAILS</a></div>
+        <div class="RHS">
+<div class="top-cart">
+            <div class="block-title no-items">
+        <strong id="cartHeader"><a class="jqCartLink" href="javascript:;">My Cart</a></strong>
+    </div>
+    <div id="topCartContent" class="block-content" style="display:none">
+        <div class="inner-wrapper">                            <p class="block-subtitle">
+                <span class="close-btn">Close</span>
+                Recently added item(s)            </p>
+            <p class="cart-empty">
+                You have no items in your shopping cart.            </p>
+                                    </div>
+    </div>
+</div>
+        <div class="top-myaccount">
+<h3><span>My Account</span></h3>
+<div id="myAccountContent" class="block-content" style="display:none">
+    <div class="inner-wrapper">
+    	        <span class="close-btn">Close</span>
+        <ul class="links">
+                                                <li class="first"><a href="https://www.tommiecopper.com/customer/account/" title="Account Dashboard">Account Dashboard</a></li>
+                                                                <li><a href="https://www.tommiecopper.com/sales/order/history/" title="My Orders">My Orders</a></li>
+                                                                <li class=" last"><a href="https://www.tommiecopper.com/customer/account/login/referer/aHR0cDovL3d3dy50b21taWVjb3BwZXIuY29tLw,,/" title="Register/Log In">Register/Log In</a></li>
+                                    </ul>
+    </div>
+</div>
+</div>
+<script type="text/javascript">
+    //Enterprise.TopMyAccountLinks.initialize('myAccountContent');
+    // Below can be used to show minicart after item added
+    // Enterprise.TopCart.showCart(7);
+</script>
+</div>
+    </div>
+    <div class="free-ship-banner"><p><strong>FREE ECONOMY SHIPPING ON ORDERS OF 2+ ITEMS</strong> (Contiguous U.S.) | <strong>FREE 2 DAY SHIPPING ON ORDERS $150+</strong> (Contiguous U.S.)</p></div>
+    <div class="header-outer">
+    	<div class="header">
+        <div class="push-button"><a href="javascript:;" id="jqCorraMenu"></a></div><a class="show-corra-overlay" href="javascript:;">Show</a>
+        <div class="branding">
+                        <h1 class="logo"><span><span><a href="http://www.tommiecopper.com/" title="Tommie Copper" class="logo"><img src="http://skin.tommiecopper.com/skin/frontend/enterprise/tommiecopper/images/tc-main-logo.png" alt="Tommie Copper Active and Compression Wear"></a></span></span></h1>
+                                </div>
+        <div id="tc-main-menu">
+        	<ul class="pushmenu-header">
+   		 		<li class="home"><a href="http://www.tommiecopper.com/">Home</a></li>
+        		<li class="my-account"><a href="https://www.tommiecopper.com/customer/account/">My Account</a></li>
+            </ul>
+            <ul class="nav">
+                <li class="level-1 parent">
+                    <a href="http://www.tommiecopper.com/men/">MEN</a>
+                    <div class="level-2"><div class="level2-inner">
+	<div class="level2-inner-sub">
+        <ul class="level-2ul">
+            <li class="level-2li column1">
+                <h2><a href="http://www.tommiecopper.com/men/new-arrivals">New arrivals</a></h2>
+                <div class="level-3">
+                    <ul>
+                        <li><a href="http://www.tommiecopper.com/men/sleeves">Sleeves</a></li>
+                        <li><a href="http://www.tommiecopper.com/men/back-support">Back Support</a></li>
+                        <li><a href="http://www.tommiecopper.com/men/gloves">Gloves</a></li>
+                        <li><a href="http://www.tommiecopper.com/men/tops">Tops</a></li>
+                        <li><a href="http://www.tommiecopper.com/men/bottoms">Bottoms </a></li>
+                        <li><a href="http://www.tommiecopper.com/men/compression-socks">Socks </a></li>
+                        <li><a href="http://www.tommiecopper.com/men/innerwear">Innerwear </a></li>
+                        <li><a href="http://www.tommiecopper.com/men/accessories">Accessories </a></li>                        
+                        <li><a href="http://www.tommiecopper.com/men/extended-sizing">Extended  sizes </a></li>
+                    </ul>
+                </div>
+            </li>
+        </ul>
+		<div class="menu-static-block">
+			<div class="column1">
+                <h2>SHOP BY </h2>
+                <ul>
+                    <li><a href="http://www.tommiecopper.com/men/performance">Performance</a></li>
+                    <li><a href="http://www.tommiecopper.com/men/recovery">Recovery</a></li>
+                </ul>
+			</div>
+        </div>
+	</div>
+</div></div>
+                </li>
+                <li class="level-1 parent">
+                    <a href="http://www.tommiecopper.com/women/">WOMEN</a>
+                    <div class="level-2"><div class="level2-inner">
+	<div class="level2-inner-sub">
+        <ul class="level-2ul">
+            <li class="level-2li column1">
+                <h2><a href="http://www.tommiecopper.com/women/new-arrivals">New arrivals</a></h2>
+                <div class="level-3">
+                    <ul>
+                        <li><a href="http://www.tommiecopper.com/women/sleeves">Sleeves</a></li>
+                        <li><a href="http://www.tommiecopper.com/women/gloves">Gloves</a></li>
+                        <li><a href="http://www.tommiecopper.com/women/tops">Tops</a></li>
+                        <li><a href="http://www.tommiecopper.com/women/bottoms">Bottoms </a></li>
+                        <li><a href="http://www.tommiecopper.com/women/innerwear">Innerwear </a></li>
+                        <li><a href="http://www.tommiecopper.com/women/compression-socks">Socks </a></li>
+                        <li><a href="http://www.tommiecopper.com/women/accessories">Accessories </a></li>                        
+                        <li><a href="http://www.tommiecopper.com/women/extended-sizing">Extended sizes </a></li>
+                        <li><a href="http://www.tommiecopper.com/women/hosiery">Hosiery </a></li>
+                    </ul>
+                </div>
+            </li>
+        </ul>
+		<div class="menu-static-block">
+			<div class="column1">
+				<h2>SHOP BY </h2>
+				<ul>
+					<li><a href="http://www.tommiecopper.com/women/performance">Performance</a></li>
+					<li><a href="http://www.tommiecopper.com/women/recovery">Recovery</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div></div>
+                </li>
+                <li class="level-1 parent">
+                    <a href="http://www.tommiecopper.com/community/">COMMUNITY</a>
+                    <div class="level-2 community-explore"><div class="level2-inner">
+    <div class="level2-inner-sub">
+        <ul class="level-2ul">
+            <li class="level-2li column1">
+                <div class="level-3">
+                    <ul>
+                        <li><a href="http://www.tommiecopper.com/videos/">VIDEOS</a></li>
+                        <li><a href="http://www.tommiecopper.com/livepositive/">CONTEST</a></li> 
+                        <li><a href="http://www.tommiecopper.com/tommie-cares/">TOMMIE CARES</a></li>
+                        <li><a href="http://www.tommiecopper.com/ambassadors/">AMBASSADORS</a></li>
+                    </ul>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                </li>
+            </ul>
+        </div>
+    <form id="search_mini_form" action="http://www.tommiecopper.com/catalogsearch/result/" method="get">
+    <div class="form-search">
+        <label for="search">Search:</label>
+        <input id="search" type="text" name="q" value="" class="input-text" maxlength="128">
+	<a href="javascript:;" class="hide-corra-overlay">X</a>
+        <button type="submit" title="Search" class="button" id="searchButton"><span><span>&nbsp;</span></span></button>        <div id="search_autocomplete" class="search-autocomplete"></div>
+        <script type="text/javascript">
+        //<![CDATA[
+            var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search');
+            searchForm.initAutocomplete('http://www.tommiecopper.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
+			//
+			jQuery(document).ready(function() {
+		  jQuery('form#search_mini_form input#search').css('color','#d8d8d8')
+		  jQuery('form#search_mini_form input#search').blur(function(){			  
+			  if (jQuery(this).val() == "SEARCH"){
+				  jQuery(this).css('color','#d8d8d8')
+			  }else{
+				  jQuery(this).css('color','#686868')
+			  }
+		  })
+		  jQuery('form#search_mini_form input#search').focus(function(){
+				  jQuery(this).css('color','#686868')
+		  })
+			  
+		});
+        //]]>
+        </script>
+    </div>
+</form>
+</div>
+</div>
+</div>
+ 
+<!-- ESI END DUMMY COMMENT [] -->
+<!-- ESI START DUMMY COMMENT [] -->
+<!-- ESI URL DUMMY COMMENT -->
+
+  
+<!-- ESI END DUMMY COMMENT [] -->
+ <div class="breadcrumbs">
+    <ul>
+                    <li class="home">
+                            <a href="http://www.tommiecopper.com/" title="Go to Home Page">Home</a>
+                                        <span>/ </span>
+                        </li>
+                    <li class="cms_page">
+                            Privacy Policy                                    </li>
+            </ul>
+</div>
+            <div class="main col1-layout">
+                <div class="col-main">     <div class="page-title">
+        <h1>Privacy Policy</h1>
+    </div>
+<div class="std"><!-- ESI START DUMMY COMMENT [] -->
+<!-- ESI URL DUMMY COMMENT -->
+
+  
+<!-- ESI END DUMMY COMMENT [] -->
+<div class="cms-main">
+<p><strong>Overview</strong></p>
+<p>This privacy policy governs the manner in which Tommie Copper collects, uses, maintains and discloses information collected from users (each, a "User") of the www.tommiecopper.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Tommie Copper.<br>&nbsp;<br><strong>Personal identification information</strong><br>&nbsp;<br>We may collect personal identification information from Users in a variety of ways including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personal identification information, except that it may prevent them from engaging in certain Site related activities.<br>&nbsp;<br><strong>Non-personal identification information</strong><br>&nbsp;<br>We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include, but is not limited to, demographic information, browser information, type of computer and technical information about Users' means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.<br>&nbsp;<br><strong>Web browser cookies</strong><br>&nbsp;<br>Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.<br>&nbsp;<br><strong>How we use collected information</strong><br>&nbsp;<br>Tommie Copper collects and uses Users' personal information for the following purposes:</p>
+<ul>
+<li><strong>To improve our Site:</strong> We continually strive to improve our website offerings based on the information and feedback we receive from you.</li>
+<li><strong>To improve customer service:</strong> Your information helps us to more effectively respond to your customer service requests and support needs.</li>
+<li><strong>To process transactions:</strong> We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.</li>
+<li><strong>To send periodic emails:</strong> The email address a User provides for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If a User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.</li>
+</ul>
+<p><strong>How we protect your information</strong><br><br>We adopt appropriate data collection, storage and processing practices, and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site. Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.<br>&nbsp;<br><strong>Sharing your personal information</strong><br>&nbsp;<br>We do not sell, trade, or rent Users' personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.<br>&nbsp;<br><strong>User reviews, testimonials and other consent terms and conditions</strong><br>&nbsp;<br>These terms and conditions govern your conduct associated with submitting reviews, testimonials or other content to Tommie Copper, Inc. via its website. To the extent of any conflict between Tommie Copper, Inc.'s Privacy Policy and these terms and conditions, these terms and conditions shall control with respect to such conduct and content.<br><br>By submitting any content to Tommie Copper, Inc., you represent and warrant that:</p>
+<ul>
+<li>You are the sole author and owner of the intellectual property rights thereto;</li>
+<li>All "moral rights" that you may have in such content have been voluntarily waived by you;</li>
+<li>All content that you post is honest and accurate;</li>
+<li>This question or answer is based on your personal experience and not that of a third party;</li>
+<li>You are at least 18 years old, 19 or older if a resident of AL or NE;</li>
+<li>Use of the content you supply does not violate these Terms of Use and will not cause injury to any person or entity.</li>
+</ul>
+<p>You further represent and warrant that you shall not submit any content:</p>
+<ul>
+<li>That is known by you to be false, inaccurate or misleading;</li>
+<li>That portrays any dangerous stunts or acts;</li>
+<li>That infringes any third party's copyright, patent, trademark, trade secret or other proprietary rights or rights of publicity or privacy;</li>
+<li>That violates any law, statute, ordinance or regulation (including, but not limited to, those governing export control, consumer protection, applicable product regulations, unfair competition, anti-discrimination or false advertising);</li>
+<li>That is, or may reasonably be considered to be, defamatory, libelous, hateful, racially or religiously biased or offensive, unlawfully threatening or unlawfully harassing to any individual, partnership or corporation;</li>
+<li>For which you were compensated or granted any consideration by any third party;</li>
+<li>That includes any information that references other websites, addresses, email addresses, contact information or phone numbers;</li>
+<li>That contains any computer viruses, worms or other potentially damaging computer programs or files.</li>
+</ul>
+<p>You agree to indemnify and hold Tommie Copper, Inc. (and its officers, directors, agents, subsidiaries, joint ventures, employees and third-party service providers and respective successors and assigns), harmless from all claims, demands, and damages (actual and consequential) of every kind and nature, known and unknown including reasonable attorneys' fees, arising out of a breach of your representations and warranties set forth above, or your violation of any law or the rights of a third party.<br><br>For any content that you submit, you grant Tommie Copper, Inc. a, perpetual, irrevocable, royalty-free, transferable right and license to use, copy, modify, delete in its entirety, adapt, publish, translate, create derivative works from and/or sell and/or distribute such content and/or incorporate such content into any form, medium or technology throughout the world without compensation to you.<br><br>Tommie Copper, Inc. reserves the right to moderate all reviews and other user submissions.&nbsp; All content that you submit may be used at Tommie Copper, Inc.'s sole discretion. Tommie Copper, Inc. reserves the right to change, condense or delete any content on Tommie Copper, Inc.'s website that Tommie Copper, Inc. deems, in its sole discretion, to violate the these Terms and Conditions or for any other reason whatsoever. Tommie Copper, Inc. does not guarantee that you will have any ability to edit or delete any content you have submitted. Tommie Copper, Inc. reserves the right to remove or to refuse to post any submission for any reason. You acknowledge that you, and not Tommie Copper, Inc., are responsible for the contents of your submission. None of the content that you submit shall be subject to any obligation of confidence on the part of Tommie Copper, Inc., its agents, subsidiaries, affiliates, partners or third party service providers and their respective directors, officers and employees and successors and assigns.<br><br>By submitting your email address in connection with your submission, you agree that Tommie Copper, Inc. and its third-party service providers may use your email address to contact you about the status of your submission and for other administrative purposes.<br><br><strong>Changes to this privacy policy</strong><br>&nbsp;<br>Tommie Copper has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.<br><strong>&nbsp;</strong><br><strong>Your acceptance of these terms</strong><br>&nbsp;<br>By using this site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.<br>&nbsp;<br><strong>Contacting us</strong><br>&nbsp;<br>If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this site, please contact us at:<br><br>Tommie Copper<br>www.tommiecopper.com<br>74 S. Moger Ave.<br>Mount Kisco, NY 10549<br>914-488-5563<br><br></p>
+</div></div> </div>
+            </div>
+        </div>
+    </div>
+<div class="footer-before-container"><div class="widget widget-static-block"><script type="text/javascript">
+var __lc = {};
+__lc.license = 1055673;
+
+(function() {
+	var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+	lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+})();
+</script></div></div><!-- ESI START DUMMY COMMENT [] -->
+<!-- ESI URL DUMMY COMMENT -->
+
+ <div class="footer-container">
+    <div class="newsletter-block"><form action="https://www.tommiecopper.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+    <div class="form-subscribe">
+    <div class="form-subscribe-header">
+        <label for="newsletter"><span class="join-text">Sign Up</span> <span class="separator">|</span> <span>Receive 15% off your next order!</span></label>
+    </div>
+    <div class="subscribe-input-wrpper">
+        <div class="v-fix"><input name="email" type="text" id="newsletter" value="Enter email address" onclick="this.value=='Enter email address'?this.value='':''" onblur="this.value==''?this.value='Enter email address':''" class="input-text required-entry validate-email"></div>
+        <button type="submit" title="Subscribe" class="button with-right-arrow"><span><span>Sign Up</span></span></button>
+     </div>
+    </div>
+</form>
+<script type="text/javascript">
+//<![CDATA[
+    var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');	
+//]]>
+</script>
+</div>
+    <div class="footer">
+<div class="footer-nav-wrapper">
+<div class="customer-service">
+<h3>CUSTOMER SERVICE</h3>
+<ul>
+<li><a href="http://www.tommiecopper.com/contact/">CONTACT</a></li>
+<li><a onclick="parent.LC_API.open_chat_window()" href="javascript:;">LIVE CHAT</a></li>
+<li><a href="http://www.tommiecopper.com/returns-and-exchanges/">RETURNS &amp; EXCHANGES</a></li>
+<li><a href="http://www.tommiecopper.com/faq/">FAQS</a></li>
+<li><a href="https://www.tommiecopper.com/customer/account/">MY ACCOUNT</a></li>
+<li><a href="http://www.tommiecopper.com/corpwellness/">CORPORATE SAVINGS</a></li>
+</ul>
+</div>
+<div class="about-tommiecopper">
+<h3>ABOUT TOMMIE COPPER</h3>
+<ul>
+<li><a href="http://www.tommiecopper.com/about-us/">TOMMIE COPPER, INC</a></li>
+<li><a href="http://www.tommiecopper.com/ambassadors/">AMBASSADORS</a></li>
+<li><a href="http://www.tommiecopper.com/tommie-cares/">TOMMIE CARES</a></li>
+</ul>
+</div>
+<div class="connect-with-us">
+<h3>CONNECT WITH US</h3>
+<ul class="social-links">
+<li><a class="instagram" href="http://www.instagram.com/tommiecopper" target="_blank">INSTAGRAM</a></li>
+<li><a class="facebook" href="http://www.facebook.com/tommiecopper" target="_blank">FACEBOOK</a></li>
+<li><a class="twitter" href="http://twitter.com/tommiecopper" target="_blank">TWITTER</a></li>
+<li><a class="youtube" href="http://www.youtube.com/user/TommieCopper" target="_blank">YOUTUBE</a></li>
+<li><a class="googleplus" href="http://plus.google.com/u/0/101407282583531534048/posts" target="_blank">GOOGLE+</a></li>
+<li><a class="pintrust" href="http://www.pinterest.com/tommiecopper/">Pinterest</a></li>
+</ul>
+</div>
+</div>
+<div class="copy-right-block">
+<div class="copyright">
+<div class="footer-logo"><a href="http://www.tommiecopper.com/"><img src="http://skin.tommiecopper.com/skin/frontend/enterprise/tommiecopper/images/footer-logo.png" alt="TOMMIE COPPER"></a></div>
+<ul>
+<li><a href="http://www.tommiecopper.com/privacy-policy/">Privacy Policy</a></li>
+<li>|</li>
+<li><a href="http://www.tommiecopper.com/terms-of-use/">Terms of Use</a></li>
+</ul>
+</div>
+<div class="copy-right-text">©2015 Tommie Copper Inc. All Rights Reserved.</div>
+</div>
+</div></div> 
+<div id="backgroundPopup" style="opacity: 0.7; display: none;"></div>
+<div id="overlay-fixed">
+    <img width="16" height="16" alt="Loading" src="http://skin.tommiecopper.com/skin/frontend/enterprise/tommiecopper/images/ajax-loader.gif">
+</div> 
+<!-- ESI END DUMMY COMMENT [] -->
+
+
+<!-- Listrak Script Block -->
+<script type="text/javascript">
+    (function(d) { if (document.addEventListener) document.addEventListener('ltkAsyncListener', d);
+    else {e = document.documentElement; e.ltkAsyncProperty = 0; e.attachEvent('onpropertychange', function (e) {
+    if (e.propertyName == 'ltkAsyncProperty'){d();}});}})(function() {
+        _ltk.Click.Submit();
+_ltk.SCA.CaptureEmail('newsletter');
+_ltk.SCA.CaptureEmail('ltkmodal-email');
+    });
+</script>
+<!-- Listrak Analytics - Script Source -->
+<script type="text/javascript">
+//<![CDATA[
+    (function (d, s, id, url) {
+        var js, ljs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id; js.src = url;
+        ljs.parentNode.insertBefore(js, ljs);
+    })(document, 'script', 'ltkSDK', 'http://cdn.listrakbi.com/scripts/script.js?m=mPxVvMgC89tF&v=1');
+//]]>
+</script>
+<script type="text/javascript">
+    Listrak_Remarketing = new function() {
+        this.updateCart = function() {
+                            new Ajax.Request('http://www.tommiecopper.com/remarketing/ajax/cart/');
+                    };
+    };
+</script>
+<script type="text/javascript">
+  mybuys.initPage();
+</script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NJP5DW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NJP5DW');</script>
+<!-- End Google Tag Manager -->
+<!--Facebook Custom Audiences -->
+<script>(function() {
+  "use strict";
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '1479630782275778']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1479630782275778&amp;ev=PixelInitialized" /></noscript>
+<!-- end FB Custom Audiences --><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e00b2fa278","applicationID":"6476346","transactionName":"MQcEbRQFWBIFBxZZVwhNJ1oSDVkPSwcPQxcWAwFcSRJfBBM=","queueTime":0,"applicationTime":322,"atts":"HUAHG1wfSxw=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+</body></html>
