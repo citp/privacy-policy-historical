@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowyourmoney.co.uk privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211142953id_/http%3A//www.knowyourmoney.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowyourmoney.co.uk privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608011529id_/http%3A//www.knowyourmoney.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy
 
@@ -6,7 +6,7 @@ The content and information on this website is owned by Notice Media Ltd. As a K
 
 ##  What Information do we hold on our records about you?
 
-If you choose to sign up to our newsletter or product rate alerts we will only hold your first name, surname and email address. We do not pass on any of your personal information to any third parties without your given consent. If you would like to update the information that we hold about you, opt-out of receiving our newsletter or request what information we hold about you on our database either email us on advertising@knowyourmoney.co.uk or write to us at:
+If you choose to sign up to our email services we will only hold your first name, surname and email address. We do not pass on any of your personal information to any third parties without your given consent. If you would like to update the information that we hold about you, opt-out of receiving our emails or request what information we hold about you on our database either email us on advertising@knowyourmoney.co.uk or write to us at:
 
 **Notice Media Ltd  
 Floor 3 Haldin House  
@@ -20,7 +20,7 @@ In addition we will also hold anonymous information about your computer and abou
 
 ##  How do we use your data?
 
-If you choose to sign up to our newsletter we will send you a weekly newsletter via email featuring money [savings](https://web.archive.org/savings-accounts/) deals, financial news and consumer articles. Within all of our emails is the facility to 'un-subscribe' from our newsletter.
+If you choose to sign up to our email services we will send you emails regarding offers and new products that you may be interested and, where consent is given, you may recieve similar emails from our trusted partners. Within all of our emails is the facility to 'un-subscribe' from our emails.
 
 The Know Your Money website also offers web forms for certain financial products where we require you to give us information about the product you require. Where you provide us your contact details you consent to us using these to contact you and to pass the information that you have supplied to carefully selected third parties that we may choose including product providers, brokers and others who we believe may have products or service that will be of interest to you. If you prefer that your contact information is not used in this way please do not submit your contact details.
 
