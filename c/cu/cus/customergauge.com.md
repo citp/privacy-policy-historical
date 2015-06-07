@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the customergauge.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065609id_/http%3A//customergauge.com/company-profileprivacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customergauge.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607033455id_/http%3A//customergauge.com/company-profileprivacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | CustomerGauge
+# Privacy Statement | CustomerGauge.com
 
 _Privacy Statement Effective as of 2 October, 2013_
 
