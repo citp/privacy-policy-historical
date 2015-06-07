@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partydelights.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120180635id_/http%3A//www.partydelights.co.uk/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partydelights.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185641id_/http%3A//www.partydelights.co.uk/corporate/privacy.asp) for the most accurate reproduction.*
 
 # Party Delights Terms and Conditions
 
@@ -153,4 +153,4 @@ If you would like to unsubscribe then please click on the link located at the bo
   
 
 
-Copyright © 2001-2014 Party Delights Limited. All Rights Reserved. All prices are in Pounds Sterling.
+Copyright © 2001-2015 Party Delights Limited. All Rights Reserved. All prices are in Pounds Sterling.
