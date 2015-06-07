@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollarstorecrafts.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228220216id_/http%3A//dollarstorecrafts.com/about-2/mailing-list/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollarstorecrafts.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607133932id_/http%3A//dollarstorecrafts.com/about-2/mailing-list/privacy) for the most accurate reproduction.*
 
 # Dollar Store Crafts » Privacy
 
@@ -63,8 +63,7 @@ This policy was last modified on November 18, 2010
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://dollarstorecrafts.com
-
+http://dollarstorecrafts.com  
 1748 SE 12th Ave  
 Portland, OR 97214  
 USA  
