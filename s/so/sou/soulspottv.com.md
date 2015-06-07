@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soulspottv.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113014314id_/http%3A//soulspottv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soulspottv.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022943id_/http%3A//soulspottv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SOULSpot
 
@@ -8,7 +8,7 @@ The privacy of our visitors to http://soulspottv.com is important to us.
 
 At http://soulspottv.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit http://soulspottv.com, and how we safeguard your information. We never sell your personal information to third parties.
 
-**We collect but do not link personal and activity data.  
+ **We collect but do not link personal and activity data.  
 ** We use technologies like cookies (small files stored by your browser), web beacons, or unique device identifiers to anonymously identify your computer or device so we can deliver a better experience. Our systems also log information like your browser, operating system and IP address.
 
 We also may collect personally identifiable information that you provide to us, such as your name, address, phone number or email address. With your permission, we may also access other personal information on your device, such as your phone book, calendar or messages, in order to provide services to you. If authorized by you, we may also access profile and other information from services like Facebook.
@@ -26,15 +26,15 @@ As with most other websites, we collect and use the data contained in log files.
 
  **We do not store or share your precise location.**
 
- ****We do not use or collect your precise geographic location.  
+We do not use or collect your precise geographic location. 
 
  **You can request to see your personal data.**
 
- ****You can sign into your account to see any personally identifiable information we have stored, such as your name, email, address or phone number. You can also contact us by email to request to see this information.  
+You can sign into your account to see any personally identifiable information we have stored, such as your name, email, address or phone number. You can also contact us by email to request to see this information. 
 
  **We keep personal data until you delete it.**
 
- ****We remove personally identifiable information (such as your name, address, email or phone number) and other preferences associated with your account promptly after you delete your account. We may retain other data indefinitely.  
+We remove personally identifiable information (such as your name, address, email or phone number) and other preferences associated with your account promptly after you delete your account. We may retain other data indefinitely. 
 
  **We don’t share your personal data with other companies.  
 ** We generally do not share personally identifiable information (such as name, address, email or phone) with other companies. 
@@ -59,7 +59,7 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-**You can ask privacy questions.  
+ **You can ask privacy questions.  
 ** If you have any questions or concerns about our privacy policies, please contact us:  
 [[Contact us](http://soulspottv.com/contact-us/)] OR [[EMAIL](mailto:Chris@soulspottv.com)]
 
