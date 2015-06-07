@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roojoom.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015091543id_/http%3A//info.roojoom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roojoom.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175722id_/http%3A//info.roojoom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Roojoom Blog
 
