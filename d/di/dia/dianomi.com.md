@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dianomi.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121180329id_/http%3A//www.dianomioffers.co.uk/legal/privacy.epl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dianomi.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607034708id_/http%3A//www.dianomioffers.co.uk/legal/privacy.epl) for the most accurate reproduction.*
 
 # Privacy Policy - dianomi - intelligent customer acquisition
 
