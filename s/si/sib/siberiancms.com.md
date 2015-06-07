@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siberiancms.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230082659id_/http%3A//www.siberiancms.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siberiancms.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144430id_/http%3A//www.siberiancms.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
