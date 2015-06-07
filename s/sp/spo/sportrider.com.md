@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sportrider.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226162858id_/http%3A//www.sportrider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportrider.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022230id_/http%3A//www.sportrider.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sport Rider
 
 **Bonnier Corporation Privacy Policy**
 
-_This policy was last updated on October 11, 2011._
+_This policy was last updated on April 13, 2015._
 
 At Bonnier Corporation, your privacy is important to us.  This Privacy Policy applies to all of the products, services, and websites offered by Bonnier Corporation and its subsidiaries or affiliated companies (collectively, "Bonnier").
 
@@ -99,7 +99,7 @@ We only use the information we collect for purposes consistent with this policy.
 
 **If you prefer not to receive email communications from other companies** , you may choose to remove yourself from any lists that we provide to third parties for marketing purposes by [emailing us](mailto:emailoptout@bonniercorp.com?subject=Third-Party%20Opt%20Out) at emailoptout@bonniercorp.com.  You will still receive information from Bonnier and its various brands, but we will not share your address information with anyone else.
 
-If you prefer not to receive postal communication from other companies, you may choose to remove yourself from any postal mailing lists that we provide to third parties for marketing purposes by sending us an e-mail at [emailoptout@bonniercorp.com](mailto:emailoptout@bonniercorp.com), or writing us at P.O. Box 420235, Palm Coast, FL. You will still receive information from Bonnier and its various brands, but we will not share your address information with anyone else.
+If you prefer not to receive postal communication from other companies, you may choose to remove yourself from any postal mailing lists that we provide to third parties for marketing purposes by sending us an e-mail at [emailoptout@bonniercorp.com](mailto:emailoptout@bonniercorp.com), or writing us at Bonnier Corporation, P.O. Box 6364, Harlan, IA 51593. You will still receive information from Bonnier and its various brands, but we will not share your address information with anyone else.
 
 We only want to communicate with you if you want to hear from us.  **If you prefer not to be contacted at all** , you may opt out of receiving any communications from us at any time by [notifying us](mailto:emailoptout@bonniercorp.com?subject=Opt%20Out%20of%20All%20Communications) at emailoptout@bonniercorp.com.  You may also notify us by sending mail to the following address:
 
