@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepancard.com privacy policy that was archived on 2014-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141005074726id_/http%3A//www.thepancard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepancard.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607141200id_/http%3A//www.thepancard.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ThePanCard.com
 
@@ -44,7 +44,8 @@ If you have questions or comments about our privacy practices, please feel free 
 
 **Our postal address is:**  
 www.thepancard.com  
-Samanta Communications Pvt. Ltd.  
-2G, Second Floor, Continental Plaza,  
-705, Anna Salai,  
-Chennai − 600 006.
+Samanta Communications Pvt. Ltd  
+41, Fourth Floor, Tower I,  
+Shakthi Towers,  
+766, Anna Salai,  
+Chennai - 600002. 
