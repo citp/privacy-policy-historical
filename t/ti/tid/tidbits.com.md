@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tidbits.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208234431id_/http%3A//tidbits.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tidbits.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607075045id_/http%3A//tidbits.com/privacy.html) for the most accurate reproduction.*
 
 # TidBITS: Apple news for the rest of us
 
