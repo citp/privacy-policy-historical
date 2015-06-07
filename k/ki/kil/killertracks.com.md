@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the killertracks.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094835id_/http%3A//www.killertracks.com/en/Privacy%2520Terms/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killertracks.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607180131id_/http%3A//www.killertracks.com/en/Privacy%2520Terms/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
