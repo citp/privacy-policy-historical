@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the tmp.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224123804id_/http%3A//tmp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmp.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607044619id_/http%3A//www.tmp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - TMP Worldwide Advertising & Communications, LLC
 
-Effective Date: April 15, 2014
+Effective Date: February 11, 2015
 
-TMP Worldwide Advertising & Communications, LLC (“ **TMP Worldwide** ”) is committed to respecting the privacy of those who visit this site. Any online data collection from emails and forms submitted by you will only be used in the normal course of business to help us contact you and provide solutions to your challenges. This privacy policy describes how TMP Worldwide collects and uses any personal information you may provide on our web site, www.tmp.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. The use of information collected through our service shall be limited to the purpose of providing the service for which the client has engaged TMP Worldwide.
-
-TMP Worldwide has been awarded TRUSTe's Privacy Seal, which signifies that this privacy policy and TMP Worldwide’s practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/) and [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html), including transparency, accountability and choice regarding the collection and use of personal information. The TRUSTe program covers only information that is collected through this web site www.tmp.com and TMP Worldwide’s TalentBrew Platform.
+TMP Worldwide Advertising & Communications, LLC (“ **TMP Worldwide** ”) is committed to respecting the privacy of those who visit this site. Any online data collection from emails and forms submitted by you will only be used in the normal course of business to help us contact you and provide solutions to your challenges. This privacy policy describes how TMP Worldwide collects and uses any personal information you may provide on our web site, [www.tmp.com](http://www.tmp.com/) and TMP Worldwide's TalentBrew Platform. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. The use of information collected through our service shall be limited to the purpose of providing the service for which the client has engaged TMP Worldwide.
 
 ### TRUSTe
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [tbsupport@tmp.com](mailto:tbsupport@tmp.com). If you are not satisfied with our response you can contact [TRUSTe here.](https://feedback-form.truste.com/watchdog/request)
+TMP Worldwide has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe certification covers only our collection, use and disclosure of information we collect through our website www.tmp.com and TMP Worldwide’s TalentBrew Platform. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged TMP Worldwide.
 
-[](https://privacy.truste.com/privacy-seal/TMP-Worldwide-Advertising---Communications-LLC/validation?rid=556779fb-4aa2-40bf-995a-de2b8060f7ab "Validate TRUSTe privacy certification")
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
+
+[](https://privacy.truste.com/privacy-seal/TMP-Worldwide-Advertising---Communications-LLC/validation?rid=7ef51a44-acd6-4e10-8d67-f3a281fd4037 "Validate TRUSTe privacy certification")
 
   
 
@@ -51,6 +51,8 @@ We will share your personal information with third parties only in the ways that
 
 Service Providers - We may provide your personal information to companies that provide services to help us with our business activities like offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
+Some of our pages utilize framing techniques to serve content to / from our partners while preserving the look and feel of our site. Please be aware that you are providing your personal information to these third parties and not to [ www.tmp.com](http://www.tmp.com/). 
+
 Legal Disclaimer – We may also disclose your personal information; (i) as required by law, such as to comply with a subpoena, or similar legal process; (ii) when we believe in good faith that disclosure is necessary to (a) protect our rights, (b) protect your safety or the safety of others, (c) investigate fraud or (d) respond to a government request; or (iii) to any other party with your consent.
 
 If TMP Worldwide is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
@@ -61,7 +63,7 @@ TMP Worldwide collects information under the direction of its clients, and has n
 
 **Choice -** We collect information for our clients, if you are an applicant or potential applicant for employment by one of our clients or have otherwise requested to receive information from one of our clients and would no longer like to be contacted by that client, please contact the client that you interact with directly. 
 
-**Service Provider, Sub-Processors/Onward Transfer -** We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Clients
+**Service Provider, Sub-Processors/Onward Transfer -** We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Clients.
 
 **Access to Data Controlled by our Clients -** We have no direct relationship with the individuals whose personal data we process on behalf of our clients. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to our client (the data controller). If the client requests us to remove the data, we will respond to their request within thirty (30) business days. 
 
@@ -77,11 +79,9 @@ Opt-out Preferences - If you wish to subscribe to our newsletter(s), we will use
 
 ### Tracking Technologies / Cookies
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
+Technologies such as: cookies, beacons, tags and scripts are used by TMP Worldwide and our [marketing partners], affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
 
-We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. Session cookies can be used for site usage tracking, enabling features, or other site functionality. A persistent cookie remains on your hard drive for an extended period of time. Persistent cookies can be used for site usage tracking, remembering feature preferences, or other site functionality. You can remove persistent cookies by following directions provided in your Internet browser’s “help” directory.
-
-If you reject cookies, you may still use our site, but your ability to use some areas of our site may be limited. 
+We use cookies for site tracking, remember feature preferences and other site. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
 
 As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
@@ -89,17 +89,17 @@ We use this information, which does not identify individual users, to analyze tr
 
 We do not link this automatically-collected data to personal information.
 
-3rd Party Tracking - The use of cookies by our clients, partners, affiliates, tracking utility company or service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site. Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personal information.
+We use Local Storage Objects (LSOs) such as HTML5 or Flash to store content information and preferences. To manage Flash LSOs please [click here:](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
 
 ### Behavioral Targeting / Re-Targeting
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here ](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/) ). Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
 
 ### Security
 
 The security of your personal information submitted on the web and through the TalentBrew platform is important to us. When you enter sensitive information such as account passwords on forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our web site, please contact us at tbsupport@tmp.com.
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our web site, please contact us at [tbsupport@tmp.com](mailto:tbsupport@tmp.com).
 
 ### Additional Information
 
