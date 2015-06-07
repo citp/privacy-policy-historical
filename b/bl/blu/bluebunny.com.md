@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the bluebunny.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110191906id_/http%3A//www.bluebunny.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluebunny.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607135830id_/http%3A//www.bluebunny.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Blue Bunny Ice Cream Privacy Policy
+# BlueBunny.com Privacy Policy
 
-## WWW.BLUEBUNNY.COM PRIVACY POLICY
+  * WWW.BLUEBUNNY.COM  
+PRIVACY POLICY
+
+
 
 Wells Enterprises, Inc. is a family owned business and we respect your privacy. Any personally identifiable information such as your name, address, telephone number, or e-mail address that you give to us via the WWW.BLUEBUNNY.COM website or by other methods such as email, phone call or US Mail is kept in strict confidence.
 
@@ -59,5 +62,3 @@ e. a statement by you that you have a good faith belief that the disputed use is
 f. a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright or intellectual property owner or authorized to act on the copyright or intellectual property owner's behalf.
 
 Any notification by a copyright owner or a person authorized to act on its behalf that fails to comply with requirements of the DMCA shall not be considered sufficient notice and shall not be deemed to confer upon us actual knowledge of facts or circumstances from which infringing material or acts are evident.
-
-If you have any questions about this privacy statement or this website, please feel free to [contact us](https://web.archive.org/web/20141110191906id_/http%3A//www.bluebunny.com/About/ContactUs.aspx).
