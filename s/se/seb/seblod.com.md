@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seblod.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110631id_/http%3A//www.seblod.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seblod.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200303id_/http%3A//www.seblod.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ Please keep in mind that if you directly disclose personally identifiable inform
 
 Octopoos encourages you to review the privacy statements of Web sites you choose to link to from Octopoos so that you can understand how those Web sites collect, use and share your information. Octopoos is not responsible for the privacy statements or other content on Web sites outside of the Octopoos and Octopoos family of Web sites. Use of your Personal Information.
 
-Octopoos collects and uses your personal information to operate the Octopoos Web site and deliver the services you have requested. Octopoos also uses your personally identifiable information to inform you of other products or services available from Octopoos and its affiliates. Octopoos may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+Octopoos collects and uses your personal information to operate the Octopoos Web sites and deliver the services you have requested. Octopoos also uses your personally identifiable information to inform you of other products or services available from Octopoos and its affiliates. Octopoos may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
 Octopoos does not sell, rent or lease its customer lists to third parties. Octopoos may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Octopoos may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Octopoos, and they are required to maintain the confidentiality of your information.
 
@@ -23,6 +23,8 @@ Octopoos does not use or disclose sensitive personal information, such as race, 
 Octopoos keeps track of the Web sites and pages our customers visit within Octopoos, in order to determine what Octopoos services are the most popular. This data is used to deliver customized content and advertising within Octopoos to customers whose behavior indicates that they are interested in a particular subject area.
 
 Octopoos Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Octopoos or the site; (b) protect and defend the rights or property of Octopoos; and, (c) act under exigent circumstances to protect the personal safety of users of Octopoos, or the public.
+
+CNIL's declaration number: 1820995 v 0 ([www.cnil.fr](http://www.cnil.fr/ "CNIL"))
 
 ## Changes to this Statement
 
