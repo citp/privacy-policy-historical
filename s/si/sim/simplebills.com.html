@@ -1,269 +1,217 @@
-<!--The following is the downloaded HTML source of the simplebills.com privacy policy that was archived on 2014-11-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141108040655id_/http%3A//www.simplebills.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the simplebills.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607152609id_/http%3A//www.simplebills.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><!--<![endif]--><head>
-<meta charset="utf-8"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgMCUl5bGwAIV1BWBgU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
-
-<title>SimpleBills Corporation | Privacy Policy</title><meta property="og:site_name" content="SimpleBills Corporation">
-<meta property="og:title" content="Privacy Policy">
-<meta property="og:type" content="article">
-<meta property="og:url" content="http://simplebills.com/privacy-policy">
-
-<link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/themes/smoothness/jquery-ui.css">
-<link rel="stylesheet" type="text/css" href="http://www.convergencecms.co/resources/css/system.css">
-<link rel="stylesheet" type="text/css" href="http://www.convergencecms.co/resources/js/jquery-plugins/fancybox/jquery.fancybox-1.3.1.css">
-<script type="text/javascript" language="javascript">var CMS_DOMAIN="convergencecms.co";</script>
-<script type="text/javascript" language="javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
-<script type="text/javascript" language="javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js"></script>
-<script type="text/javascript" language="javascript" src="http://www.convergencecms.co/resources/js/tiny_mce/tiny_mce.js"></script>
-<script type="text/javascript" language="javascript" src="http://www.convergencecms.co/resources/js/3/includes.js"></script>
-<script type="text/javascript" language="javascript" src="http://www.convergencecms.co/resources/js/3/default.js?v=1381770385"></script>
-<link rel="stylesheet" type="text/css" href="http://www.convergencecms.co/resources/css/3/bootstrap.css">
-<link rel="stylesheet" type="text/css" href="http://www.convergencecms.co/resources/css/3/cms.css?v=1383318000">
-<script type="text/javascript" src="//use.typekit.com/fcn4mih.js"></script>
-<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-
-<!-- Mobile Specific Metas -->
-<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=1">
-
-
-<link href="css/style.css" rel="stylesheet" type="text/css">
-<link href="css/cart.css" rel="stylesheet" type="text/css">
-<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
- 
-<!--[if lt IE 9]>
-<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-<script src="js/respond.min.js"></script>
-<![endif]-->
-
-
-<script src="js/site.js"></script>
-
-
-<!-- Favicon -->
-<link rel="shortcut icon" href="css/images/favicon.ico">
-<link rel="apple-touch-icon" sizes="57x57" href="">
-<link rel="apple-touch-icon" sizes="72x72" href="">
-<link rel="apple-touch-icon" sizes="114x114" href="">
-
-
-   
-
-<script type="text/javascript">
-	  var _gaq = _gaq || [];
-	  _gaq.push(['_setAccount', 'UA-30605410-1']);
-	  
-	   _gaq.push(['_trackPageview']);
-	  (function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	  })();
-
-	</script></head>
-
-<body class="page-privacy-policy">
-
-<header class="navbar darkest" role="banner">
-	<div class="container">
-        <div class="col-sm-3 g0l g0r">
-            <a href="/" class="<!--navbar-brand--> logo"><img src="../css/images/logo-simplebills.png" width="187" height="124" alt="SimpleBills Corporation"></a>
-            <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button> 
-        </div>
-        <div class="col-sm-9 g0r g0l">
-        	<div class="navbuttons">
-            	<ul>
-                	<li>
-                    	<a class="menu-page-login btn" href="login2">LOGIN</a>
-                    </li>
-                	<li>
-                    	<a class="menu-page-sign-up btn" href="sign-up">SIGN UP</a>
-                    </li>
-                	<li>
-                    	<a class="menu-page-renew btn" href="contact">CONTACT</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="cl"></div>
-            <nav class="navbar-collapse bs-navbar-collapse collapse" role="navigation">
-              <ul class="menu menu-type-main nav navbar-nav menu-level-0"><li class="menu-page-for-roommates has-children "><a href="for-roommates" class="menu-page-for-roommates">For Roommates</a></li><li class="menu-page-for-properties has-children "><a href="for-properties" class="menu-page-for-properties">For Properties</a></li><li class="menu-page-for-parents has-children "><a href="for-parents" class="menu-page-for-parents">For Parents</a></li><li class="menu-page-about-simplebills has-children "><a href="about-simplebills" class="menu-page-about-simplebills">About SimpleBills</a></li></ul>
-            </nav>
-            <div class="contact-icons">
-            </div>
-        </div>
+<!DOCTYPE html><html lang="en"><head>
+        <title>Privacy Policy | SimpleBills</title>
+        <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="icon" type="image/png" href="http://www.simplebills.com/wp-content/themes/SimpleBills/images/favicon.png">
+        <link href="//fonts.googleapis.com/css?family=Pathway+Gothic+One" rel="stylesheet" type="text/css">
+        <link href="//fonts.googleapis.com/css?family=Open+Sans:400,600,700,700italic,600italic,400italic" rel="stylesheet" type="text/css">        
+        <link rel="stylesheet" type="text/css" href="http://www.simplebills.com/wp-content/themes/SimpleBills/css/bootstrap.min.css">
+        <link href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.css" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="http://www.simplebills.com/wp-content/themes/SimpleBills/css/ekko-lightbox.min.css">
+        <link rel="stylesheet" type="text/css" href="http://www.simplebills.com/wp-content/themes/SimpleBills/style.css">         
+       
+        <link rel="alternate" type="application/rss+xml" title="SimpleBills » Privacy Policy Comments Feed" href="http://www.simplebills.com/privacy-policy/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.simplebills.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.simplebills.com/wp-includes/js/wp-emoji-release.min.js?ver=4.2.2" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="contact-form-7-css" href="http://www.simplebills.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.1.2" type="text/css" media="all">
+<script type="text/javascript" src="http://www.simplebills.com/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script>
+<script type="text/javascript" src="http://www.simplebills.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="http://www.simplebills.com/wp-content/themes/SimpleBills/js/bootstrap.min.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://www.simplebills.com/wp-content/themes/SimpleBills/js/ekko-lightbox.min.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://www.simplebills.com/wp-content/themes/SimpleBills/js/global.js?ver=4.2.2"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.simplebills.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.simplebills.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.2.2">
+<link rel="canonical" href="http://www.simplebills.com/privacy-policy/">
+<link rel="shortlink" href="http://www.simplebills.com/?p=71">
+  
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+        <script src="http://www.simplebills.com/wp-content/themes/SimpleBills/js/html5shiv.min.js"></script>
+        <script src="http://www.simplebills.com/wp-content/themes/SimpleBills/js/respond.min.js"></script>
+        <![endif]-->   
         
-        <div class="navbuttons-mobile">
-            <ul>
-                <li>
-                    <a class="menu-page-login btn" href="login2">LOGIN</a>
-                </li>
-                <li>
-                    <a class="menu-page-sign-up btn" href="sign-up">SIGN UP</a>
-                </li>
-                <li>
-                    <a class="menu-page-renew btn" href="contact">CONTACT</a>
-                </li>
-            </ul>
-        </div>
-	</div>
-    <div class="cl"></div>
+        <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-</header>		
+        ga('create', 'UA-30605410-1', 'auto');
+        ga('send', 'pageview');
 
-
-    <div id="slideshow" class="container wide inside">
-       <div class="modules" id="inside-slideshow"></div>
-    </div>
-<section id="inside-top" class="white down-arrow">
-	<div class="container inside content ">
-    
-        <!-- MAIN -->
-        <div class="col-sm-9 col-sm-push-3 maincol">
-            <div class="col-sm-12 main">
-                <div class="modules" id="top-content"><div class="bit bit-text bit-text-31781" id="bit_31781"><h1 style="text-align: center;">Privacy Policy</h1>
-<h2>&nbsp;</h2>
-<h2><img class="bullet" src="http://simplebills.com/images/bullet.png" border="0" width="21" height="18">Our Commitment to Privacy</h2>
+        </script>
+    </head>
+    <body>
+        <header>
+            <div id="header-mobile" class="navbar visible-xs">
+                <div class="container">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand logo" href="http://www.simplebills.com"></a>
+                    </div>                
+                    <div class="main-nav collapse navbar-collapse">                        
+                        <div class="menu-main-menu-container"><ul id="menu-main-menu" class="nav navbar-nav menu"><li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="http://www.simplebills.com/for-roommates/what-is-simplebills/">For Roommates</a></li>
+<li id="menu-item-79" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79"><a href="http://www.simplebills.com/for-properties/overview/">For Properties</a></li>
+<li id="menu-item-76" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76"><a href="http://www.simplebills.com/for-parents/what-is-simplebills/">For Parents</a></li>
+<li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="http://www.simplebills.com/about-simplebills/">About SimpleBills</a></li>
+</ul></div>                    </div>
+                    <div class="nav-buttons">
+                        <div class="row">
+                            <div class="col-xs-4">
+                                <a href="http://secure.simplebills.com/user/default.aspx?p=MyGroup">Login</a>
+                            </div>
+                            <div class="col-xs-4">
+                                <a href="http://secure.simplebills.com/signup/default.aspx?intro=true">Sign Up</a>
+                            </div>
+                            <div class="col-xs-4">
+                                <a href="http://www.simplebills.com/contact">Contact</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="header-desktop" class="hidden-xs">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-3 header-left">
+                            <a href="http://www.simplebills.com" class="logo"></a>
+                        </div>
+                        <div class="col-sm-9 header-right">
+                            <div class="nav-buttons">
+                                <div class="row">
+                                    <div class="col-xs-4">
+                                        <a href="http://secure.simplebills.com/user/default.aspx?p=MyGroup">Login</a>
+                                    </div>
+                                    <div class="col-xs-4">
+                                        <a href="http://secure.simplebills.com/signup/default.aspx?intro=true">Sign Up</a>
+                                    </div>
+                                    <div class="col-xs-4">
+                                        <a href="http://www.simplebills.com/contact">Contact</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="main-nav pull-right">
+                                <div class="menu-main-menu-container"><ul id="menu-main-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="http://www.simplebills.com/for-roommates/what-is-simplebills/">For Roommates</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79"><a href="http://www.simplebills.com/for-properties/overview/">For Properties</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76"><a href="http://www.simplebills.com/for-parents/what-is-simplebills/">For Parents</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="http://www.simplebills.com/about-simplebills/">About SimpleBills</a></li>
+</ul></div>                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <div class="clearfix"></div><section id="page-content" class="page-content white down-arrow">
+    <div class="container">
+        <div class="row content-cols-row">
+            <div class="col-sm-3 sidenav hidden-xs">         
+                <ul class="dynamic-sidebar">
+                    <li class="widget watch-video-widget text-center">
+            <a data-toggle="lightbox" data-remote="http://player.vimeo.com/video/84645386" href="http://vimeo.com/84645386">
+                <img src="http://www.simplebills.com/wp-content/themes/SimpleBills/images/watch-video-widget.png" alt="Watch the Video">
+                Watch Our Video
+            </a>
+        </li>
+                        </ul> 
+            </div>
+            <div class="col-sm-9 main-col">
+                <div class="main-col-inner">
+                                            <h1>Privacy Policy</h1>
+<h2>Our Commitment to Privacy</h2>
 <p>Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.</p>
-<h2><img class="bullet" src="http://simplebills.com/images/bullet.png" border="0" width="21" height="18">The Information We Collect:</h2>
-<p>This notice applies to all information collected or submitted simplebills.com or any of it's affiliated websites. On our website, you are able to apply for service through SimpleBills. The types of personal information we collect during the application process are: <br><br> Name<br> Email address<br> Phone number<br> Birth Date<br> Address<br> Current lease term<br> Names of Roommates, if any</p>
+<h2>The Information We Collect:</h2>
+<p>This notice applies to all information collected or submitted simplebills.com or any of it’s affiliated websites. On our website, you are able to apply for service through SimpleBills. The types of personal information we collect during the application process are:</p>
+<p>Name<br>
+Email address<br>
+Phone number<br>
+Birth Date<br>
+Address<br>
+Current lease term<br>
+Names of Roommates, if any</p>
 <p>If your application to be serviced by SimpleBills is accepted, we will require a form of payment to keep on file. This form of payment may be a credit card, debit/ATM card, checking account, or savings account.</p>
 <p>We may collection information not specifically mentioned above, if the information is required by a utility provider in order to set up an account. This information is usually secondary contact information and/or a social security number.</p>
 <p>Finally, if you begin using our service, we will begin collecting information related to the utilities to which you subscribe, including account information, monthly billing information, and other related information.</p>
-<h2><img class="bullet" src="http://simplebills.com/images/bullet.png" border="0" width="21" height="18">The Way We Use Information:</h2>
+<h2>The Way We Use Information:</h2>
 <p>We use the information you provide about yourself when applying for our service to aid in accurately determining the serviceability of your address. We do not share this information with outside parties except to the extent necessary to determine serviceability.</p>
 <p>We will share certain account or payment information with other Customers at your Residence, the parents of any Customer at the Residence, and other bill-paying parties related to your Residence upon request. SimpleBills will never share credit/debit card numbers, automatic bank draft account information, social security numbers, and birth dates with any party. If we determine an account to be delinquent, we will send this account to an outside debt collections agency. SimpleBills shall provide any information that the collections agency determines is necessary.</p>
 <p>We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.</p>
 <p>We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.</p>
 <p>Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.</p>
-<h2><img class="bullet" src="http://simplebills.com/images/bullet.png" border="0" width="21" height="18">Our Commitment To Data Security:</h2>
+<h2>Our Commitment To Data Security:</h2>
 <p>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.</p>
 <p>We take your security very seriously. To show our commitment, we have taken several steps to ensure our business and our website use the latest data security techniques. We use SSL technology to secure our website. We have been accredited by the Better Business Bureau. Finally, we use a secure payment processor for all of our online transactions which meets or exceeds all industry standards for information security, including PCI DSS and PA-DSS.</p>
-<h2><img class="bullet" src="http://simplebills.com/images/bullet.png" border="0" width="21" height="18">Our Commitment To Children's Privacy:</h2>
+<h2>Our Commitment To Children’s Privacy:</h2>
 <p>Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.</p>
-<h2><img class="bullet" src="http://simplebills.com/images/bullet.png" border="0" width="21" height="18">How To Contact Us:</h2>
-<p>Should you have other questions or concerns about these privacy policies, please <a href="contact">contact us</a>.</p><div class="cl"></div></div></div>
-            <div class="cl"></div>
+<h2>How To Contact Us:</h2>
+<p>Should you have other questions or concerns about these privacy policies, please <a href="http://simplebills.com/contact">contact us</a>.</p>
+                       
+                </div>
             </div>
-            <div class="col-sm-6">
-                <div class="modules" id="col-1"></div>
-            </div>
-            <div class="col-sm-6">
-                <div class="modules" id="col-2"></div>
-            </div>
-            <div class="cl"></div>
-			<!--colin add--><div class="col-sm-12 main">
-                <div class="modules" id="middle content"></div>
-            <div class="cl"></div>
-            </div>
-			<div class="col-sm-6">
-                <div class="modules" id="bottom col-1"></div>
-            </div>
-            <div class="col-sm-6">
-                <div class="modules" id="bottom col-2"></div>
-            </div>
-            <div class="cl"></div>
-			<div class="col-sm-12 main">
-                <div class="modules" id="bottom content"></div>
-            <div class="cl"></div>
-            </div>
-			<div class="col-sm-6">
-                <div class="modules" id="bottom2 col-1"></div>
-            </div>
-            <div class="col-sm-6">
-                <div class="modules" id="bottom2 col-2"></div>
-            </div><!-- colin end add -->
-        </div>  
-        <!--SIDE NAV-->
-        <div class="col-sm-3 col-sm-pull-9 g0l g1l-xs sidenav">
-        	<nav>
-        		<ul class="menu menu-type-submenu  menu-level-1"></ul>
-           </nav>     
-           <div class="cl"></div>
-           <div class="global-side">
-           	<div class="modules" id="globalsidecontent"><div class="bit bit-text bit-text-32748" id="bit_32748"><p><a class="sbvideo" href="video"><img src="templates/photos/thumnbail-vid.png" border="0" width="158" height="92"></a><br><a class="sbvideo" href="video">WATCH OUR VIDEO</a></p><div class="cl"></div></div></div>
-           </div>
-
+            
         </div>
-        
-	</div>
+    </div>
 </section>
-<section id="inside" class="mdgrey">
-	<div class="container inside content">
-        <!-- MAIN -->
-        <div class="col-sm-12 main">
-            <div class="modules" id="bottom-default"><div class="bit bit-itemlist bit-itemlist-13551" id="bit_32816"><div class="itemlist display-custom-testimonies itemlist-testimonies" id="itemlist-13551"><li>
-    <div class="testimony">
-        <h2><p>"SimpleBills has been a fast, easy, and reliable way to pay my utility bills. Customer Service is prompt, friendly, and extremely helpful."</p></h2>
-    </div>
-    <div class="namefrom">
-        David<span class="show-1">,</span> Student- Baylor University
-    </div>
-</li>
-<li>
-    <div class="testimony">
-        <h2><p>"Thank you for your help and patience in setting up utilities. I can't express my surprise at how easy you've made this process for 6 families to work together!"</p></h2>
-    </div>
-    <div class="namefrom">
-        Angie<span class="show-1">,</span> Mother - Fort Worth, Texas
-    </div>
-</li>
-<li>
-    <div class="testimony">
-        <h2><p class="p1">"SimpleBills is a great way to help residents resolve issues before issues exist. All residents we have seen that used SimpleBills, love it!"</p></h2>
-    </div>
-    <div class="namefrom">
-        Jacob Meltzer<span class="show-1">,</span> Assistant Director - Tempe, Arizona
-    </div>
-</li>
-<li>
-    <div class="testimony">
-        <h2><p>"We are starting our second year with SimpleBills and HIGHLY recommend them. They helped make the transition from dorm life to a shared apartment and success!"</p></h2>
-    </div>
-    <div class="namefrom">
-        Paul and Pat<span class="show-1">,</span> Parents - San Marcos, Texas
-    </div>
-</li>
-<li>
-    <div class="testimony">
-        <h2><p>"I can't even describe how wonderful SimpleBills is! Trying to separate out bills in past years with roommates has turned into nightmares...but you've made it stress-free and simple!"</p></h2>
-    </div>
-    <div class="namefrom">
-        Miranda<span class="show-1">,</span> Student - Texas A&amp;M University
-    </div>
-</li>
-<li>
-    <div class="testimony">
-        <h2><p>"Thank you for doing such upstanding business...I really appreciate it, and will continue to recommend you to friends."</p></h2>
-    </div>
-    <div class="namefrom">
-        Christy<span class="show-1">,</span> Student - Arizona State University
-    </div>
-</li>
-</div><div class="cl">&nbsp;</div><div class="cl"></div></div></div>
-        <div class="cl"></div>
-        </div>
-	</div>
-</section>
-
-
-
-
-<footer>
-    <div class="container">
-    	<div class="col-sm-12">
-        	<div class="copyright">
-            	<p>© 2014 SimpleBills Corporation&nbsp;&nbsp;|&nbsp;&nbsp; <a href="privacy-policy">Privacy Policy </a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="terms-of-service">Terms of Service</a></p>
-            	<div class="cl"></div>
-        	</div>
-        </div>
-    </div>
-</footer>
-
-
-
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"f2be772923","applicationID":"3831414","transactionName":"b1ABZRZQCERTURUIDFYaNkMNHg9ZVlcZTxNQRQ==","queueTime":0,"applicationTime":115,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script><script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+<section class="page-testimonies-view page-section mdgrey ">
+            <div class="container text-center">
+                <div id="home-testimonies-carousel" class="carousel slide" data-ride="carousel" data-interval="15000">
+                    <div class="carousel-inner"><div class="item active">                      
+                                <h2>"We are starting our second year with SimpleBills and HIGHLY recommend them. They helped make the transition from dorm life to a shared apartment and success!"</h2>
+                                <p>Paul and Pat, Parents – San Marcos, Texas</p>
+                            </div><div class="item ">                      
+                                <h2><span class="nodeLabelBox repTarget "><span class="nodeText editable "><span class="  ">"SimpleBills has been a fast, easy, and reliable way to pay my utility bills. Customer Service is prompt, friendly, and extremely helpful."</span></span></span></h2>
+                                <p>David, Student- Baylor University</p>
+                            </div><div class="item ">                      
+                                <h2><span class="nodeLabelBox repTarget "><span class="nodeText editable "><span class="  ">"Thank you for your help and patience in setting up utilities. I can't express my surprise at how easy you've made this process for 6 families to work together!"</span></span></span></h2>
+                                <p>Angie, Mother – Fort Worth, Texas</p>
+                            </div><div class="item ">                      
+                                <h2><span class="nodeLabelBox repTarget "><span class="nodeText editable "><span class="  ">"I can't even describe how wonderful SimpleBills is! Trying to separate out bills in past years with roommates has turned into nightmares...but you've made it stress-free and simple!"</span></span></span></h2>
+                                <p>Miranda, Student – Texas A&amp;M University</p>
+                            </div><div class="item ">                      
+                                <h2>"Thank you for doing such upstanding business...I really appreciate it, and will continue to recommend you to friends."</h2>
+                                <p>Christy, Student – Arizona State University</p>
+                            </div><div class="item ">                      
+                                <h2><span class="nodeLabelBox repTarget "><span class="nodeText editable "><span class="  ">"SimpleBills is a great way to help residents resolve issues before issues exist. All residents we have seen that used SimpleBills, love it!"</span></span></span></h2>
+                                <p>Jacob, Assistant Director – Tempe, Arizona</p>
+                            </div></div>            
+                </div>
+            </div>
+        </section>      
+        <footer>
+            <div class="container">
+                <p class="text-center">© 2014 SimpleBills Corporation&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.simplebills.com/privacy-policy">Privacy Policy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.simplebills.com/terms-of-use">Terms of Service</a></p>
+            </div>
+        </footer>
+        <script type="text/javascript" src="http://www.simplebills.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.simplebills.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.simplebills.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.1.2"></script>
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"45e0c27a1b","applicationID":"6433624","transactionName":"YFcANUYFV0ZYWhUPXVkdIwJADVZbFkkAAVc=","queueTime":0,"applicationTime":278,"atts":"TBADQw4fREg=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+  
+</body></html>
