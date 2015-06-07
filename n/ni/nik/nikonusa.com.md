@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikonusa.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102143437id_/http%3A//www.nikonusa.com/en/About-Nikon/Privacy-Policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikonusa.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607213102id_/http%3A//www.nikonusa.com/en/About-Nikon/Privacy-Policy.page) for the most accurate reproduction.*
 
 # Nikon Privacy Policy
 
@@ -23,9 +23,28 @@ _Effective November 7, 2013_
 **2\. Collection of Information  
 **This Privacy Policy applies to all information NIKON receives through various points of communication with consumers (collectively, the “Communication Points”). The Communication Points include, but are not limited to, the following: 
 
-(a) NIKON owned websites, including without limitation, [nikonusa.com](http://www.nikonusa.com/en/index.page); [support.nikonusa.com](https://support.nikonusa.com/); [nikonparts.com](http://parts.nikonusa.com/en/index.page); [nikonpro.com](http://nikonpro.com/); [nikonsportoptics.com](http://www.nikonsportoptics.com/en/index.page); [nikonhunting.com](http://www.nikonsportoptics.com/en/Nikon-Products/Hunting/index.page); and [nikonbirding.com](http://www.nikonsportoptics.com/en/Nikon-Products/Birding/index.page) (collectively "NIKON Websites"); 
+(a) NIKON owned websites, including without limitation, [  
+](http://www.nikonusa.com/)
 
-(b) NIKON’s social media properties on Third Party Websites (as defined in Section 6 below), e.g., NIKON’s branded pages on Facebook, Twitter, YouTube, Flickr and/or Vimeo; and
+[nikonusa.com](http://www.nikonusa.com/);  
+[support.nikonusa.com](http://support.nikonusa.com/);  
+[experience.nikonusa.com](http://experience.nikonusa.com/);  
+[nikonpro.com](http://nikonpro.com/);  
+[nikonsportoptics.com](http://nikonsportoptics.com/);  
+[nikonusa.com/cinema](http://nikonusa.com/cinema);  
+[iamgenerationimage.com](http://iamgenerationimage.com/home);  
+[imagechaser.com](http://www.imagechaser.com/);  
+[parts.nikonusa.com](http://parts.nikonusa.com/en/index.page);  
+[repair.nikonusa.com](http://repair.nikonusa.com/ProductEntry);  
+[rewards.nikonusa.com](http://rewards.nikonusa.com/);  
+[www.nikonusa.com/digital-brochure/D4S](http://www.nikonusa.com/digital-brochure/d4s/);  
+[www.nikonusa.com/digital-brochure/Nikon1V3](http://www.nikonusa.com/digital-brochure/nikon1v3/);  
+[www.nikonusa.com/digital-brochure/D810](http://www.nikonusa.com/digital-brochure/d810/);  
+[www.nikonusa.com/digital-brochure/D750](http://www.nikonusa.com/digital-brochure/d750/);  
+[nikon360project.com](http://www.nikon360project.com/);  
+(collectively "NIKON Websites"); 
+
+(b) NIKON’s social media properties on Third Party Websites (as defined in Section 6 below), e.g., NIKON’s branded pages on Facebook, Twitter, YouTube, Flickr and/or Vimeo, Google+, Instagram; and
 
 (c) Other electronic, in-person, hard copy written or other means by which a consumer may provide us with information, such as by purchasing products from the NIKON store, by participating in NIKON-related contests, sweepstakes and/or other promotions, by redeeming a NIKON-related offer, by communicating with NIKON at trade shows or events, by registering and/or attending NIKON School sessions and events, by presenting products for service, and/or by registering your product purchase.
 
