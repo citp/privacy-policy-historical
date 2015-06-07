@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jackerwin.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103034id_/http%3A//jackerwin.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackerwin.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607072617id_/http%3A//www.jackerwin.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Jack Erwin
+# Jack Erwin - Privacy Policy
 
 #### Section 1: What do we do with your information?
 
@@ -23,8 +23,8 @@ How do I withdraw my consent?
 If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at help@jackerwin.com or mailing us at:
 
 Jack Erwin, Inc.  
-Lafayette St #3E  
-New York, US 10012
+226 Lafayette St #3E  
+New York, NY 10012
 
 #### Section 3: Disclosure
 
@@ -64,7 +64,7 @@ When you click on links on our store, they may direct you away from our site. We
 
 Google analytics: 
 
-Our store uses Google Analytics to help us learn about who visits our site and what pages are being looked at
+Our store uses Google Analytics to help us learn about who visits our site and what pages are being looked at.
 
 #### Section 6: Security
 
@@ -105,5 +105,5 @@ If our store is acquired or merged with another company, your information may be
 If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at help@jackerwin.com or by mail at:
 
 Jack Erwin, Inc.  
-154 W 27th St #4E  
-New York, NY 10001
+226 Lafayette St #3E  
+New York, NY 10012
