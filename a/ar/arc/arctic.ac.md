@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arctic.ac privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011145824id_/http%3A//www.arctic.ac/worldwide_en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arctic.ac privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607223053id_/http%3A//www.arctic.ac/worldwide_en/privacy-policy) for the most accurate reproduction.*
 
 # ARCTIC | Privacy Policy
 
@@ -19,8 +19,7 @@ We use IP addresses to analyze trends, administer the site, track user movement,
 We may employ third party companies to perform functions on our behalf. These functions may include order fulfillment, package delivery, marketing assistance, postal and e-mail delivery, customer service, data analysis, and credit processing. The third parties we contract for these purposes have limited access to your personal information and may not use it for other purposes.
 
 We may frame or mask another web site so that the look, feel and interface simulate the experience of browsing a genuine ARCTIC web page. Extreme care and discretion is exercised when evaluating third party sites. We only brand third party sites if their organization applies stringent security and privacy practices which parallel our own commitment to safe online shopping.   
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
-
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.  
 **Links**   
 This website contains links to other sites. Please be aware that ARCTIC is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies only to information collected by this Webshop.
 
@@ -28,7 +27,7 @@ This website contains links to other sites. Please be aware that ARCTIC is not r
 ARCTIC takes precautions to protect its customer information. When you submit sensitive information via the website, your information is protected both online and offline.  
 When our registration/order form asks you to enter sensitive information (such as your credit card number), that information is encrypted and is protected with the encryption software currently available in the industry – SSL. ARCTIC uses the most advanced form of SSL software available: 256-bit encryption by thawte. To learn more about SSL, follow this link www.geotrust.com. Access to all of our users‘ information is restricted. Your financial information such as credit card number will not be stored after the completion of orders.  
 All ARCTIC servers, including web servers and database servers, are housed and maintained in secure locations. Access to the database is strictly monitored and protected from outside access. Internet access is restricted and protected by multiple firewalls and password protection. The servers on which we store personally identifiable information are kept in a secured environment, inside a secured and locked area. All backups are stored and locked in a high-level security area. Only personnel with proper security clearance have access to these restricted areas. Backups are not permitted to leave the premises without prior authorization.  
-If you have any questions or concerns about ARCTIC's security practices, please email us at info@arctic.ac 
+If you have any questions or concerns about ARCTIC's security practices, please email us at info@arctic.ac
 
 ### **Newsletters**
 
