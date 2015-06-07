@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riotzone.net privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124174051id_/http%3A//legal.my.com/us/games/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riotzone.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607072725id_/http%3A//legal.my.com/us/games/privacy) for the most accurate reproduction.*
 
 # My.com — communication and entertainment apps: myMail, myChat, myGames, myCamera. Manage email, chat with friends, discover captivating new games, and edit your photos
 
