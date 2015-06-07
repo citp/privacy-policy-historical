@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prettydesigns.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121100053id_/http%3A//www.prettydesigns.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prettydesigns.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607141533id_/http%3A//www.prettydesigns.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pretty Designs
 
@@ -51,7 +51,3 @@ From time to time, Prettydesigns.com may offer promotions, contests, or sweepsta
 **Sale or Bankruptcy Information**
 
 In the event of a bankruptcy, sale, merger, public offering, or other change in control of Prettydesigns.com, your information may be shared with the person or business that assumes ownership or control of this website.
-
-#### search terms:
-
-children\s inverted bob haircut,formal updos for children
