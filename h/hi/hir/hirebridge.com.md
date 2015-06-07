@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hirebridge.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124003130id_/http%3A//www.hirebridge.com/corp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hirebridge.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175819id_/http%3A//www.hirebridge.com/corp/privacy.asp) for the most accurate reproduction.*
 
 # Hirebridge Applicant Tracking Solutions :: Privacy Policy
 
@@ -42,8 +42,6 @@ Hirebridge does not intend to transfer Personal Information without your consent
 
 * * *
 
-Have questions about Hirebridge's applicant tracking software or hiring management solutions? Visit our [Features Page](https://web.archive.org/web/20141124003130id_/http%3A//www.hirebridge.com/corp/applicant_tracking_features.asp) or give us a call at 1-954-688-3854. We are here to help.
+Have questions about Hirebridge's applicant tracking software or hiring management solutions? Visit our [Features Page](https://web.archive.org/web/20150607175819id_/http%3A//www.hirebridge.com/corp/applicant_tracking_features.asp) or give us a call at 1-954-688-3854. We are here to help.
 
 Our [free trial account](http://www.hirebridge.com/corp/demo_form.asp) gives you plenty of time to get familiar with the powerful features available with Hirebridge Recruiter. It's risk free. No credit card required. Sign up today! 
-
-[](http://www.linkedin.com/companies/hirebridge-llc?trk=fc_badge)
