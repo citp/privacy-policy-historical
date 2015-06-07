@@ -1,17 +1,13 @@
-> *The following text is extracted and transformed from the gurobi.com privacy policy that was archived on 2014-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140902110633id_/http%3A//www.gurobi.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurobi.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022113id_/http%3A//www.gurobi.com/company/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - We respect our customers and their privacy
+# Privacy Policy
 
-### We respect our customers and their privacy
+Last update: February 26, 2015
 
-## Our Privacy Policy
-
-_Last update: August 6th, 2013_
-
-Section List  
----  
+Section List |   
+---|---  
   Introduction and General Terms ➤ |   Who are you? ➤   
-  What information does you collect? ➤ |   How will you use the information? ➤   
+  What information do you collect? ➤ |   How will you use the information? ➤   
   When will you contact me? ➤ |   Will I be contacted for Marketing or Sales purposes? ➤   
   Will you share my information? ➤ |   What if I am under 16 years old? ➤   
   How long will you keep my information? ➤ |   Can I find out what you have? ➤   
@@ -47,13 +43,13 @@ Gurobi Optimization websites contain hyperlinks to websites owned and operated b
 
 ## 2\. Who are you?
 
-Gurobi Optimization is in the business of helping companies solve their hardest problems by providing the best optimization solver possible, with outstanding support, and no surprises pricing. We also operate an online website, www.gurobi.com. The URL www.gurobi.de redirects users to www.gurobi.com. 
+Gurobi Optimization is in the business of helping companies solve their hardest problems by providing the best optimization solver possible, with outstanding support, and no-surprises pricing. We also operate an online website, www.gurobi.com. The URL www.gurobi.de redirects users to www.gurobi.com. 
 
 * * *
 
 ## 3\. What information will Gurobi Optimization collect about me?
 
-When you participate in, access or sign up to any of Gurobi Optimization’s services, activities or online content, sign up for a webinar, or create an account using Gurobi Optimization’s online registration system we may receive personal information about you. This can consist of information such as your name, email address, country of origin, company or university, and www.gurobi.com webpages visited.
+When you participate in, access or sign up to any of Gurobi Optimization’s services, activities or online content, sign up for a webinar, or create an account using Gurobi Optimization’s online registration system, we may receive personal information about you. This can consist of information such as your name, email address, country of origin, company or university, and Gurobi webpages visited.
 
 By submitting your details, you enable us to provide you with the services, activities or online content you select, and personalize the information provided so it is most relevant to you.
 
@@ -130,9 +126,6 @@ Please address requests and questions about this or any other question about thi
 
 ## 11\. Cookies Policy - Information Gurobi Optimization collects from you
 
-  
-
-
 ### a. What is a cookie?
 
 A cookie is a small amount of data, which often includes a unique identifier that is sent to your computer, tablet or mobile phone (referred to here as a "device") browser from a website's computer and is stored on your device's hard drive. Each website can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other websites. Many websites do this whenever a user visits their website in order to track online traffic flows.
@@ -147,7 +140,7 @@ Information supplied by cookies can help us to analyze the profile of our visito
 
 If you don’t want to receive cookies, you can modify your browser so that it notifies you when cookies are sent to it or you can refuse cookies altogether. You can also delete cookies that have already been set.
 
-If you wish to restrict or block web browser cookies which are set on your device then you can do this through your browser settings; the Help function within your browser should tell you how. Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/), which contains comprehensive information on how to do this on a wide variety of desktop browsers.
+If you wish to restrict or block web browser cookies that are set on your device, you can do this through your browser settings; the Help function within your browser should tell you how. Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/), which contains comprehensive information on how to do this on a wide variety of desktop browsers.
 
 It is important to note that if you change your settings and block certain cookies, this means that certain personalized features cannot then be provided and accordingly you may not be able to take full advantage of all of the websites' features.
 
