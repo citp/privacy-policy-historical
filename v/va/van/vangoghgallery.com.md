@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vangoghgallery.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122172913id_/http%3A//www.vangoghgallery.com/misc/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vangoghgallery.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200233id_/http%3A//www.vangoghgallery.com/misc/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Vincent van Gogh Gallery
 
@@ -18,4 +18,4 @@ If you give us information about yourself in an e-mail, or through our contact f
 
 If you receive email newsletters, we will not give, sell or transfer your email address to a third party. If you do not wish to receive promotional emails from the Van Gogh Gallery or the Van Gogh Gallery Art Store, simply use the unsubscribe link at the bottom of the email, or please send an email requesting to unsubscribe from all future mailings to newsletters@vangoghgallery.com . 
 
-"I am not an adventurer by choice but by fate." 
+"If ... boyhood and youth are but vanity, must it not be our ambition to become men?" 
