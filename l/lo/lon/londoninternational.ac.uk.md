@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londoninternational.ac.uk privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018125501id_/http%3A//www.londoninternational.ac.uk/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londoninternational.ac.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607130523id_/http%3A//www.londoninternational.ac.uk/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy policy & Cookies | University of London International Programmes
 
