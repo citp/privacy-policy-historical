@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tucando.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227074736id_/http%3A//tucando.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tucando.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074724id_/http%3A//tucando.com/privacy.php) for the most accurate reproduction.*
 
 # Free Business Directory - Free Advertising. | Tucando.com
 
