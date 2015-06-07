@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dosgamesarchive.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227164354id_/http%3A//www.dosgamesarchive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dosgamesarchive.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607123602id_/http%3A//www.dosgamesarchive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | DOS Games Archive
 
@@ -27,13 +27,13 @@ We use non-identifying and aggregate information to better design our website an
 
 Our hit tracking service tracks general information about all visitors to the site, such as type web browser, operating system, screen resolution, etc. No information about specific visitors is ever tracked or stored. This information is used to ensure that the site is compatible with the majority of visitors. 
 
-This site uses the services of ad services, which include [Burst Media](http://www.burstmedia.com/), [Google AdSense](http://www.google.com/adsense/) and/or others for the serving and/or targeting of ads, promotions and other marketing messages. To do this, the advertiser(s) may collect anonymous data through the use of cookies. 
+This site uses the services of ad services, which include [Google AdSense](http://www.google.com/adsense/) and/or others for the serving and/or targeting of ads, promotions and other marketing messages. To do this, the advertiser(s) may collect anonymous data through the use of cookies. 
 
 ### Third-party advertising
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use aggregated information (not including your name, address, e-mail address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
 
-If you would like more information about this practice and to know your choices about not having this information used by these companies, you can find that on the website of [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp). 
+If you would like more information about this practice and to know your choices about not having this information used by these companies, you can find that on the website of [Network Advertising Initiative](http://www.networkadvertising.org/choices/). 
 
 ### Our commitment to data security
 
