@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guerrilla-games.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218205904id_/http%3A//www.guerrilla-games.com/templates/guerrilla/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guerrilla-games.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607083945id_/http%3A//www.guerrilla-games.com/templates/guerrilla/privacy.html) for the most accurate reproduction.*
 
 # Guerrilla Games - Privacy Policy
 
@@ -8,7 +8,7 @@ Guerrilla-Games.com (the "Website") is operated by Guerrilla Games of Herengrach
 
 We collect information submitted via the Careers section of the Website, or e-mailed to us as part of a job application or job search process ("Application Information"). This information may include the applicant’s name, address, telephone number and email address, as well as resume or CV, cover letter, portfolio, and any other information relevant to the job application or job search process. 
 
-In addition, we register visitor activity on the Website through the use of Google Analytics Cookies (see "[What Are Cookies And How Do We Use Them](https://web.archive.org/web/20141218205904id_/http%3A//www.guerrilla-games.com/templates/guerrilla/privacy.html#privacy4)", below).
+In addition, we register visitor activity on the Website through the use of Google Analytics Cookies (see "[What Are Cookies And How Do We Use Them](https://web.archive.org/web/20150607083945id_/http%3A//www.guerrilla-games.com/templates/guerrilla/privacy.html#privacy4)", below).
 
 ### 2\. What do we do with the information we collect?
 
