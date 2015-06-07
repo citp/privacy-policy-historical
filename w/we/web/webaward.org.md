@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webaward.org privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120084520id_/http%3A//www.webaward.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webaward.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174529id_/http%3A//www.webaward.org/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Web Marketing Association's WebAwards
 
@@ -25,4 +25,4 @@ When you choose to enter registration information on Webaward.org, we may ask yo
 We use SSL (Secure Socket Layer), providing our customers the strongest certificate services available. Your credit card information is encrypted while traveling the Internet. 
 
 **disclosure of information policy**   
-We never make your e-mail address available to any other company or organization without your permission. If you supply us with your email or postal address, you may receive periodic mailings from Webawards.org with information or upcoming events. If you do not wish to receive such mailings, please let us know by sending an e-mail. 
+We never make your e-mail address available to any other company or organization without your permission. If you supply us with your email or postal address, you may receive periodic mailings from Webawards.org with information or upcoming events. If you do not wish to receive such mailings, please let us know by sending an e-mail.
