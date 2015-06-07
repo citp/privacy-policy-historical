@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sarmady.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075550id_/http%3A//sarmady.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarmady.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607151553id_/http%3A//www.sarmady.net/privacy.php) for the most accurate reproduction.*
 
 # Sarmady - Privacy Policy
 
@@ -46,7 +46,29 @@ You can correct factual errors in your personally identifiable information by se
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
+Newsletter
+
+By signing up, you will allow Sarmady to send you monthly newsletters, which will contain the latest updates and news in the field, as well as the announcements for the company's new products and achievements.
+
+You can opt out/ unsubscribe by using the one click unsubscribe button located at the bottom of every newsletter.
+
+if you have any inquiries or complaints please visit "Contact Us" page.
+
 How to contact us
 
-Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/web/20140625075550id_/http%3A//sarmady.net/contactus.html).  
+Head office: 
+
+54 El Batal Ahmed Abdel-Aziz St. , Top Floor
+
+Mohandiseen, Giza
+
+Egypt 
+
+Phone:(+202) 3749 2435
+
+Fax: (+202) 3749 2487
+
+Support E-mail: support@sarmady.net
+
+Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/web/20150607151553id_/http%3A//www.sarmady.net/contactus.php).  
 
