@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopvisible.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125033602id_/http%3A//www.shopvisible.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopvisible.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608011923id_/http%3A//www.shopvisible.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hosted Ecommerce Software | ShopVisible
 
