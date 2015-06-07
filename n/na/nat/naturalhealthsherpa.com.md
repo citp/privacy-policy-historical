@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturalhealthsherpa.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121104835id_/http%3A//www.naturalhealthsherpa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalhealthsherpa.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145000id_/http%3A//www.naturalhealthsherpa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NaturalHealthSherpa.com
 
@@ -73,11 +73,5 @@ We partner with a third party ad network to either display advertising on our Si
 If you are a California resident and our customer, Cal. Civ. Code 1798.83 permits you to request certain information about our disclosure of PII to third parties for their direct marketing purposes. To request this information, please send an e-mail to , call us at 800-316-8556 or write us at the following address: 1121C Military Cutoff Road, #360, Wilmington, NC 28405.
 
 **Last Updated: September 25th, 2013**
-
-#### Incoming search terms:
-
-  * [www naturalhealthsherpa library reset](http://www.naturalhealthsherpa.com/privacy-policy "www naturalhealthsherpa library reset") (1)
-
-
 
 Disclaimer: The information on this site is not intended or implied to be a substitute for professional medical advice, diagnosis or treatment. All content, including text, graphics, images and information, contained on or available through this web site is for general information purposes only. Natural Health Sherpa LLC makes no representation and assumes no responsibility for the accuracy of information contained on or available through this web site, and such information is subject to change without notice. You are encouraged to confirm any information obtained from or through this web site with other sources, and review all information regarding any medical condition or treatment with your physician.
