@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digimarc.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120231358id_/http%3A//www.digimarc.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digimarc.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607170039id_/http%3A//www.digimarc.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Digimarc's Privacy Policy
 
 This Privacy Policy describes our practices in connection with information that we collect through the website owned and controlled by us from which you are accessing this Privacy Policy (the “Site”). By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy.
 
