@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arthritis.org privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220012416id_/http%3A//www.arthritis.org/about-us/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arthritis.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607085703id_/http%3A//www.arthritis.org/About-Us/Privacy-Policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Arthritis Foundation
 
@@ -83,7 +83,7 @@ If we decide to change our privacy policy, we will post those changes here and t
 
 Whenever you have any questions or concerns, please contact us through any medium you prefer. Your complete satisfaction in dealing with the Arthritis Foundation is important to us. If you have questions about the Arthritis Foundation’s privacy practices described above, please send an e-mail message to [arthritisfoundation@arthritis.org](mailto:arthritisfoundation@arthritis.org).
 
-If you have general questions about arthritis, please visit [We Can Help](https://web.archive.org/we-can-help/) for more information or to contact an information specialist.
+If you have general questions about arthritis, please visit We Can Help for more information or to contact an information specialist.
 
 The Arthritis Foundation follows the online Privacy Guidelines and the Guidelines on Ethical Business Practice of The Direct Marketing Association (DMA). For more information on these guidelines, visit the DMA at [http://the-dma.org](http://www.the-dma.org/index.php).
 
