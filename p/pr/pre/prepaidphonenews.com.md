@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prepaidphonenews.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702161646id_/http%3A//www.prepaidphonenews.com/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prepaidphonenews.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607154527id_/http%3A//www.prepaidphonenews.com/p/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Prepaid Phone News
 
