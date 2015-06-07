@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aremysitesup.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921054639id_/http%3A//aremysitesup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aremysitesup.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607204938id_/http%3A//aremysitesup.com/privacy-policy) for the most accurate reproduction.*
 
 # Are My Sites Up?
 
