@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendycovers.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206044105id_/http%3A//www.trendycovers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendycovers.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607030630id_/http%3A//www.trendycovers.com/privacy.php) for the most accurate reproduction.*
 
 # Facebook Covers, FB Cover, Facebook Profile Covers - trendycovers.com
 
