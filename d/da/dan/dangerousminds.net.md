@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dangerousminds.net privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230041029id_/http%3A//dangerousminds.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dangerousminds.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607104542id_/http%3A//dangerousminds.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dangerous Minds
 
