@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wphackr.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627201349id_/http%3A//www.rlmseo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wphackr.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607134933id_/http%3A//www.rlmseo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Cincinnati SEO, Web Design, PPC by Razorlight Media
+# Privacy Policy - Razorlight Media
 
 Your privacy is important to us. That’s why we will never share your contact information with any third parties unless you want us to. We also hate spam just as much as you do and will never use your email address for anything other than what you tell us is ok.
 
-Razorlight Media is committed to your privacy and your rights as our customer. Any information gathered by Razorlight Media will be kept strictly confidential and will only be used or shared in ways for which you have specifically consented. The following statement discloses our standard practice regarding the information we collect and the information we hold on behalf of our customers.
+Razorlight Media, Inc. (herein referred to as "Razorlight Media") is committed to your privacy and your rights as our customer. Any information gathered by Razorlight Media will be kept strictly confidential and will only be used or shared in ways for which you have specifically consented. The following statement discloses our standard practice regarding the information we collect and the information we hold on behalf of our customers.
 
 This privacy policy only applies to the Razorlight Media website. The privacy policy applies to information that is given offline as well as on the Razorlight Media website. The policy does not pertain to third party web sites that are accessible through Razorlight Media’ website. Razorlight Media proposes that you read the privacy policies of any third party site to learn how they collect and use information that is gathered.
 
@@ -42,7 +42,7 @@ Razorlight Media may share information with partners or third parties during the
 
 ## Control and Modification of Third Parties
 
-You remain in control of your information. When you provide your information you can select whether you want to receive further communications about our products and services or other marketing information. When you opt-in to receive marketing communications from Razorlight Media, you can opt-out whenever you want. There is an opt-out feature located in the footer of all Mirage Design Works marketing email list communications. Razorlight Media wants your personal data to be accurate and complete. If you want to change any of the personal data or preferences you can [contact us here](https://web.archive.org/company/contact/ "Contact Us"), or call (513) 549-7355.
+You remain in control of your information. When you provide your information you can select whether you want to receive further communications about our products and services or other marketing information. When you opt-in to receive marketing communications from Razorlight Media, you can opt-out whenever you want. There is an opt-out feature located in the footer of all Razorlight Media marketing email list communications. Razorlight Media wants your personal data to be accurate and complete. If you want to change any of the personal data or preferences you can [contact us here](http://www.rlmseo.com/contact/ "Contact Us"), or call (513) 549-7355.
 
 ## Data Security
 
@@ -50,19 +50,12 @@ This site does not have security measures in place. Any information that you do 
 
 ## Questions and Contact Information
 
-If you have any questions about this privacy Policy, you can [contact us here](https://web.archive.org/company/contact/ "Contact Us"). Or, send correspondence to the following address:
+If you have any questions about this privacy Policy, you can [contact us here](http://www.rlmseo.com/contact/ "Contact Us"). Or, send correspondence to the following address:
 
 > Razorlight Media  
-> 700 West Pete Rose Way, #68  
-> Cincinnati, OH 45203  
-> United States of America
+>  700 West Pete Rose Way, #68  
+>  Cincinnati, OH 45203
 
 ## Changes to Privacy Policy
 
 Changes to the privacy policy will be posted in this section. This way you will always have a clear understanding of what information is collected online and offline, how it is used, and the choices you have. Your personal information will only be used in accordance with the version of the Policy that is in place at the time that you provided your information, unless you provide your consent to do otherwise.
-
-We hope you enjoy your experience here! If you’d like more information about Razorlight Media, or to request a free consultation, feel free to [contact us today](https://web.archive.org/company/contact/ "Contact Us").
-
-If you’re new here and haven’t read our newsletter, subscribe for free and receive the techniques we use everyday to market our clients’ sites delivered directly to your inbox twice a month. [Find out more about your free subscription here.](https://web.archive.org/seo-newsletter/ "Subscribe to our SEO newsletter")
-
-Looking for [cincinnati web design](https://web.archive.org/services/web-design/ "Web Design") services? Or perhaps [WordPress SEO](https://web.archive.org/services/wordpress-seo/ "WordPress SEO")? We can help. Get in touch with us for a free, no obligation quote or view our [services section](https://web.archive.org/services/ "Services") for more information about how we can help you acheive your goals.
