@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iasexamportal.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218235747id_/http%3A//iasexamportal.com/civilservices/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iasexamportal.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144931id_/http%3A//iasexamportal.com/civilservices/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IASEXAMPORTAL - India's Largest Community for IAS, CSAT, UPSC, Civil Services Exam Aspirants.
 
