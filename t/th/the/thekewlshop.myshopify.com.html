@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the thekewlshop.myshopify.com privacy policy that was archived on 2013-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131207065523id_/http%3A//www.thekewlshop.com/pages/security-privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thekewlshop.myshopify.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607074237id_/http%3A//www.thekewlshop.com/pages/security-privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><!-- Place this render call where appropriate --><head><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0017/8602.js?438999" async="" type="text/javascript"></script><script type="text/javascript" async="" src="//cdn.shopify.com/s/javascripts/shopify_stats.js?v=6"></script><script type="text/javascript" async="" src="https://www.refersion.com/tracker/shopify_script_tag/?shop=thekewlshop.myshopify.com"></script><script async="" charset="utf-8" src="//v2.zopim.com/?HUVPOwWRJ87u6NjPvObRDsISjag2xxKh" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">
+<!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><!-- Place this render call where appropriate --><head><script type="text/javascript" async="" src="http://apps.poln.co/scripts/shopify.js?shop=thekewlshop.myshopify.com"></script><script type="text/javascript" async="" src="//s.sloyalty.com/site_media/static/dist/js/v2/sloyalty.shopify.js?shop=thekewlshop.myshopify.com"></script><script type="text/javascript" async="" src="https://acp-magento.appspot.com/js/acp-magento.js?v=2&amp;mode=shopify&amp;UUID=ebfc3fd9-72cd-4160-a659-c23bca26dcab&amp;store=1451162&amp;shop=thekewlshop.myshopify.com"></script><script type="text/javascript" async="" src="https://d1uisejozjzupo.cloudfront.net/pc.js?shop=thekewlshop.myshopify.com"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0017/8602.js?438999" async="" type="text/javascript"></script><script async="" charset="utf-8" src="//v2.zopim.com/?HUVPOwWRJ87u6NjPvObRDsISjag2xxKh" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="//cdn.shopify.com/s/javascripts/shopify_stats.js?v=6"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="//staticw2.yotpo.com/ElKjTQBZsreL5gK3dUyMrzWGNsVH6Ex4nmPg38xY/widget.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">
   (function() {
     var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
     po.src = 'https://apis.google.com/js/plusone.js';
@@ -10,49 +10,206 @@
 </script>
 
 
+<!-- duplicate URL start -->
 
-  <!-- Start Clicky -->   
+	<link rel="canonical" href="http://www.thekewlshop.com/pages/security-privacy">
+ 
+<!-- duplicate URL end -->  
+  
+<meta name="viewport" content="width=device-width">
+  <!-- Start Clicky --> 
 <script src="//static.getclicky.com/js" type="text/javascript"></script>
 <script type="text/javascript">try{ clicky.init(100666029); }catch(e){}</script>
+
 <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100666029ns.gif" /></p></noscript>  
   <!-- End Clicky Bar --> 
 
-  <!-- Start Hello Bar -->  
-<script type="text/javascript" src="//www.hellobar.com/hellobar.js"></script>
-<script type="text/javascript">
-    new HelloBar(73236,110891);    
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" type="text/javascript"></script>
+  <script type="text/javascript" charset="utf-8">
+//<![CDATA[
+// Including jQuery conditionnally.
+if (typeof jQuery === 'undefined') {
+  document.write("\u003cscript src=\"http:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1\/jquery.min.js\" type=\"text\/javascript\"\u003e\u003c\/script\u003e");
+  document.write('<script type="text/javascript">jQuery.noConflict();<\/script>');
+}
+//]]>
+</script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js" type="text/javascript"></script><script type="text/javascript">jQuery.noConflict();</script>
+
+  <script src="//cdn.shopify.com/s/files/1/0145/1162/t/36/assets/cloud-zoom.js?75987681876262822" type="text/javascript"></script>
+
+<script>
+$(document).ready(function () {
+  $(".add-bttnn").click(function(e) {     
+    e.preventDefault();
+    $(this).val('Adding..!').attr('disabled','disabled');
+    var id = $(this).attr('data-id');
+    function collectionMoveAlong(){
+        var tempId = $('.add-cart-'+id).val();
+        var params = {
+          type: 'POST',
+          url: '/cart/add.js',
+          data: 'id='+tempId,
+          dataType: 'json',
+          success: function(line_item) { 
+            //console.log("success!");
+            //collectionMoveAlong();
+            $.ajax({
+                  type: 'GET',
+                  url: '/cart.js',
+                  dataType: 'json',
+                  success: function(cartdata){
+                    console.log(cartdata.item_count);
+                    if(cartdata.item_count == 1 )
+                      $('.cart-total-items .total_price').html(cartdata.item_count+' Item');
+                    else
+                      $('.cart-total-items .total_price').html(cartdata.item_count+' Items');
+                    //$('.cart-total-price').html('$'+(cartdata.total_price/100).toFixed(2));
+                        $('#add-to-cart-'+id).val('Added..!')
+                        setTimeout(function(){
+                          $('#add-to-cart-'+id).val('Add to Cart').attr('disabled','');
+                        }, 800);
+
+                        $('div.cart-bttn-conn').show();
+                      }
+                    });
+          },
+          error: function() {
+            //console.log("fail");
+          }
+        };
+      $.ajax(params);
+    };
+    collectionMoveAlong();
+  });
+  //Code for next & prev product on quick view 
+  $('.next_p').click(function(){
+    $('.cartpopup-product').hide();
+    var next = $(this).closest('.cartpopup-product').nextAll('.cartpopup-product').eq(0);
+    next.show();
+  });
+  $('.prev_p').click(function(){
+    $('.cartpopup-product').hide();
+    var previous = $(this).closest('.cartpopup-product').prevAll('.cartpopup-product').eq(0);
+    previous.show();
+  });
+  $('.close-cartpopupp').click(function(){
+    $('.cartpopup-product').hide(200);
+    jQuery('body').css({'overflow-y':'','padding-right':''});
+  });
+});
+
 </script>
-  <!-- End Hello Bar -->   
+
   
-<script type="text/javascript" src="//www.yotpo.com/js/yQuery.js"></script>
- <meta name="google-site-verification" content="IlGaGi5fIbpD42KFTd-OJk0A63OMJPLoSzVN1NUHf8g"> 
-  <link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0145/1162/t/2/assets/favicon.png?53922" type="image/png">
+  <!-- Yotpo start -->   
+<script type="text/javascript">
+(function e(){var e=document.createElement("script");e.type="text/javascript",e.async=true,e.src="//staticw2.yotpo.com/ElKjTQBZsreL5gK3dUyMrzWGNsVH6Ex4nmPg38xY/widget.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();
+</script>
+  <!-- Yotpo end -->
+
+  <!-- Drip Start -->
+  
+<!-- <script type="text/javascript">
+  var _dcq = _dcq || [];
+  var _dcs = _dcs || {}; 
+  _dcs.account = '6751634';
+  
+  (function() {
+    var dc = document.createElement('script');
+    dc.type = 'text/javascript'; dc.async = true; 
+    dc.src = '//tag.getdrip.com/6751634.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(dc, s);
+  })();
+</script> -->
+  
+  <!-- Drip End --> 
+  
+  <!-- Facebook Bandage Dress Pixel start --> 
+  
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '688863991193178']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=688863991193178&amp;ev=PixelInitialized" /></noscript>
+  
+   <!-- Facebook Bandage Dress Pixel end --> 
+  
+  
+  <!-- Facebook Conversion Code for Adds to Cart Fixed start -->
+  
+  
+  
+  <!-- Facebook Conversion Code for Adds to Cart Fixed end -->  
+  
+  
+ <!-- Facebook Conversion Code for Product Views starts -->
+  
+    
+  
+ <!-- Facebook Conversion Code for Product Views ends-->  
+  
+   
+  
+  <meta name="google-site-verification" content="IlGaGi5fIbpD42KFTd-OJk0A63OMJPLoSzVN1NUHf8g"> 
+  <link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0145/1162/t/36/assets/favicon.png?75987681876262822" type="image/png">
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-  <meta name="p:domain_verify" content="333a9fd952ae3c7422471db07cc58e6e">
-
-
-  <title>Security &amp; Privacy - The Kewl Shop</title>
-  <meta name="description" content="This policy sets out how The Kewl Shop uses and protects any information that you give The Kewl Shop when you use this website.The Kewl Shop is committe...">
+  
 
 
 
+	
+	
+	
+	
 
-  <script type="text/javascript">
+
+	    
+	
+        <!-- SEO Meta Manager 3.1 -->
+		
+			
+			
+			<meta name="description" content="This policy sets out how we use &amp; protect information that you give us when using our web site. We are committed to ensuring that your security &amp; privacy is protected.">
+				
+		
+			
+			
+			<title>Security &amp; Privacy | The Kewl Shop</title>
+				
+		
+		
+
+
+  <script>
 //<![CDATA[
       var Shopify = Shopify || {};
       Shopify.shop = "thekewlshop.myshopify.com";
-      Shopify.theme = {"name":"Expo","id":2873737,"theme_store_id":null,"role":"main"};
+      Shopify.theme = {"name":"Expo \/ Ethercycle - 3\/30\/15","id":19255620,"theme_store_id":null,"role":"main"};
 
 //]]>
 </script>
 
-<script type="text/javascript">
+
+<script>
 //<![CDATA[
     (function() {
       function asyncLoad() {
-        var urls = ["https://www.refersion.com/tracker/shopify_script_tag/?shop=thekewlshop.myshopify.com"];
+        var urls = ["https:\/\/d1uisejozjzupo.cloudfront.net\/pc.js?shop=thekewlshop.myshopify.com","https:\/\/acp-magento.appspot.com\/js\/acp-magento.js?v=2\u0026mode=shopify\u0026UUID=ebfc3fd9-72cd-4160-a659-c23bca26dcab\u0026store=1451162\u0026shop=thekewlshop.myshopify.com","\/\/s.sloyalty.com\/site_media\/static\/dist\/js\/v2\/sloyalty.shopify.js?shop=thekewlshop.myshopify.com","http:\/\/apps.poln.co\/scripts\/shopify.js?shop=thekewlshop.myshopify.com"];
         for (var i = 0; i < urls.length; i++) {
           var s = document.createElement('script');
           s.type = 'text/javascript';
@@ -67,98 +224,363 @@
 
 //]]>
 </script>
-<script id="__st" type="text/javascript">
+<script id="__st">
 //<![CDATA[
-var __st={"a":1451162,"offset":-18000,"u":"ebc457bf23a5","s":"pages-7905330"};
+var __st={"a":1451162,"offset":-14400,"reqid":"9edd3f4f-a1a7-4574-b81a-5e3020dea1ac","pageurl":"www.thekewlshop.com\/pages\/security-privacy","s":"pages-7905330","u":"87e5d1b162f1","p":"page","rtyp":"page","rid":7905330};
 //]]>
 </script>
-<script type="text/javascript">
+<script>
 //<![CDATA[
-    (function() {
-      function asyncLoad() {
-        var urls = ["//cdn.shopify.com/s/javascripts/shopify_stats.js?v=6"];
-        for (var i = 0; i < urls.length; i++) {
-          var s = document.createElement('script');
-          s.type = 'text/javascript';
-          s.async = true;
-          s.src = urls[i];
-          var x = document.getElementsByTagName('script')[0];
-          x.parentNode.insertBefore(s, x);
-        }
-      }
-      window.attachEvent ? window.attachEvent('onload', asyncLoad) : window.addEventListener('load', asyncLoad, false);
-    })();
+      (function() {
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+        s.src = '//cdn.shopify.com/s/javascripts/shopify_stats.js?v=6';
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+      })();
 
 //]]>
 </script>
-<script src="http://stats.g.doubleclick.net/dc.js" type="text/javascript"></script><script type="text/javascript">var pageTracker = _gat._getTracker('UA-29411009-1');pageTracker._addDevId('o5cUG');pageTracker._setAllowLinker(true);pageTracker._setDomainName('none');pageTracker._trackPageview();</script><script type="text/javascript" src="//cdn.shopify.com/s/global/ga_urchin_forms.js?c3c8fde947bd6c2a0db864bca7cce80ed9c80be6"></script>
+
+      <script type="text/javascript" class="analytics">
+        
+      window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+      window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+      window.ShopifyAnalytics.meta.currency = 'USD';
+    
+        (window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
+        
+        (function () {
+          var customDocumentWrite = function(content) {
+            var jquery = null;
+
+            if (window.jQuery) {
+              jquery = window.jQuery;
+            } else if (window.Checkout && window.Checkout.$) {
+              jquery = window.Checkout.$;
+            }
+
+            if (jquery) {
+              jquery('body').append(content);
+            }
+          };
+
+          var analytics = document.createElement('script');
+          var loaded = false;
+          var onload = function() {
+            if (loaded) return;
+            loaded = true;
+            window.ShopifyAnalytics.lib = window.analytics.noConflict();
+            window.ShopifyAnalytics.lib.initialize({"Google Analytics":{"trackingId":"UA-29411009-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true}});
+            
+        window.ShopifyAnalytics.lib.page(
+          null,
+          {}
+        );
+      
+            
+
+            window.ShopifyAnalytics.lib.ready(function() {
+              
+      ga('require', 'linker');
+      function addListener(element, type, callback) {
+        if (element.addEventListener) {
+          element.addEventListener(type, callback);
+        }
+        else if (element.attachEvent) {
+          element.attachEvent('on' + type, callback);
+        }
+      }
+      function decorate(event) {
+        event = event || window.event;
+        var target = event.target || event.srcElement;
+        if (target && (target.action || target.href)) {
+          ga(function (tracker) {
+            var linkerParam = tracker.get('linkerParam');
+            document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+          });
+        }
+      }
+      addListener(window, 'load', function(){
+        for (var i=0; i < document.forms.length; i++) {
+          if(document.forms[i].action && document.forms[i].action.indexOf('/cart') >= 0) {
+            addListener(document.forms[i], 'submit', decorate);
+          }
+        }
+        for (var i=0; i < document.links.length; i++) {
+          if(document.links[i].href && document.links[i].href.indexOf('/checkout') >= 0) {
+            addListener(document.links[i], 'click', decorate);
+          }
+        }
+      });
+    
+
+              var originalDocumentWrite = document.write;
+              document.write = customDocumentWrite;
+              try {  } catch(e) {};
+              document.write = originalDocumentWrite;
+            });
+          }
+          analytics.onload = onload;
+          analytics.onreadystatechange = function() {
+            if (!/complete|loaded/.test(analytics.readyState)) return;
+            onload();
+          }
+          analytics.async = true;
+          analytics.src = "//cdn.shopify.com/s/assets/vendor/analytics-9d2d58c6fd580ba80e22dfb78086fa68.js";
+          document.getElementsByTagName('head')[0].appendChild(analytics);
+          
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-a91bb5cad4ac34ff7e9e2ecdb00bf4b3.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+        })();
+      </script><script async="" src="//cdn.shopify.com/s/assets/vendor/analytics-9d2d58c6fd580ba80e22dfb78086fa68.js"></script><script async="" src="//cdn.shopify.com/s/assets/shop_events_listener-a91bb5cad4ac34ff7e9e2ecdb00bf4b3.js"></script>
+    <script type="text/javascript" src="//cdn.shopify.com/s/assets/themes_support/ga_urchin_forms-8fde1fbb883ab5fc16a57152eb5fa3bd.js"></script>
+
   <link rel="canonical" href="http://www.thekewlshop.com/pages/security-privacy">
   
   
   <meta name="author" content="">
   <meta name="keywords" content="">
 
-  <meta property="og:site_name" content="The Kewl Shop">
+
+
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Security &amp; Privacy">
   
 
-  <link href="//cdn.shopify.com/s/files/1/0145/1162/t/2/assets/reset.css?53922" rel="stylesheet" type="text/css" media="all">
-  <link href="//cdn.shopify.com/s/files/1/0145/1162/t/2/assets/shop.css?53922" rel="stylesheet" type="text/css" media="all">
 
+
+<meta property="og:description" content="This policy sets out how The Kewl Shop uses and protects any information that you give The Kewl Shop when you use this website. The Kewl Shop is committed to en">
+
+<meta property="og:url" content="http://www.thekewlshop.com/pages/security-privacy">
+<meta property="og:site_name" content="The Kewl Shop">
+
+  
+  
+  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Libre+Baskerville">
+  
+
+  
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css">
+
+<!--   <link href="//cdn.shopify.com/s/files/1/0145/1162/t/36/assets/reset.css?75987681876262822" rel="stylesheet" type="text/css"  media="all"  /> -->
+  <link href="//cdn.shopify.com/s/files/1/0145/1162/t/36/assets/shop.css?75987681876262822" rel="stylesheet" type="text/css" media="all">
+  <!-- <link href="//cdn.shopify.com/s/files/1/0145/1162/t/36/assets/rcarousel.css?75987681876262822" rel="stylesheet" type="text/css"  media="all"  /> -->
+<!--   <link href="//cdn.shopify.com/s/files/1/0145/1162/t/36/assets/skin.css?75987681876262822" rel="stylesheet" type="text/css"  media="all"  /> -->
+  
+  
   <!--[if IE]>
-  <link href="//cdn.shopify.com/s/files/1/0145/1162/t/2/assets/ie.css?53922" rel="stylesheet" type="text/css"  media="all"  />
+  <link href="//cdn.shopify.com/s/files/1/0145/1162/t/36/assets/ie.css?75987681876262822" rel="stylesheet" type="text/css"  media="all"  />
   <![endif]-->
   <!--[if IE 9]>
-  <link href="//cdn.shopify.com/s/files/1/0145/1162/t/2/assets/ie9.css?53922" rel="stylesheet" type="text/css"  media="all"  />
+  <link href="//cdn.shopify.com/s/files/1/0145/1162/t/36/assets/ie9.css?75987681876262822" rel="stylesheet" type="text/css"  media="all"  />
   <![endif]-->
   <!--[if IE 8]>
-  <link href="//cdn.shopify.com/s/files/1/0145/1162/t/2/assets/ie8.css?53922" rel="stylesheet" type="text/css"  media="all"  />
+  <link href="//cdn.shopify.com/s/files/1/0145/1162/t/36/assets/ie8.css?75987681876262822" rel="stylesheet" type="text/css"  media="all"  />
   <![endif]-->
   <!--[if IE 7]>
-  <link href="//cdn.shopify.com/s/files/1/0145/1162/t/2/assets/ie7.css?53922" rel="stylesheet" type="text/css"  media="all"  />
+  <link href="//cdn.shopify.com/s/files/1/0145/1162/t/36/assets/ie7.css?75987681876262822" rel="stylesheet" type="text/css"  media="all"  />
   <![endif]-->
   <!--[if lt IE 7 ]>
-  <link href="//cdn.shopify.com/s/files/1/0145/1162/t/2/assets/ie6.css?53922" rel="stylesheet" type="text/css"  media="all"  />
+  <link href="//cdn.shopify.com/s/files/1/0145/1162/t/36/assets/ie6.css?75987681876262822" rel="stylesheet" type="text/css"  media="all"  />
   <![endif]-->
 
-  <script src="//cdn.shopify.com/s/files/1/0145/1162/t/2/assets/modernizr.js?53922" type="text/javascript"></script>
-
   <script type="text/javascript" src="http://www.google.com/jsapi"></script>
-  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+
 
   
-
-  <script src="//cdn.shopify.com/s/shopify/option_selection.js?c3c8fde947bd6c2a0db864bca7cce80ed9c80be6" type="text/javascript"></script>
-  <script src="//cdn.shopify.com/s/shopify/api.jquery.js?c3c8fde947bd6c2a0db864bca7cce80ed9c80be6" type="text/javascript"></script>
-  <script src="//cdn.shopify.com/s/files/1/0145/1162/t/2/assets/ajaxify-shop.js?53922" type="text/javascript"></script>
-  
-  
-
-  <script src="//cdn.shopify.com/s/files/1/0145/1162/t/2/assets/jquery-ui-1.8.6.js?53922" type="text/javascript"></script>
-  <script src="//cdn.shopify.com/s/files/1/0145/1162/t/2/assets/jquery.cookie.js?53922" type="text/javascript"></script>
-  <script src="//cdn.shopify.com/s/files/1/0145/1162/t/2/assets/jquery.slider.js?53922" type="text/javascript"></script>
-  <script src="//cdn.shopify.com/s/files/1/0145/1162/t/2/assets/cloud-zoom.js?53922" type="text/javascript"></script>
-  <script src="//cdn.shopify.com/s/files/1/0145/1162/t/2/assets/shop.js?53922" type="text/javascript"></script>
-
-  
-
   <script type="text/javascript">
   Shopify.money_format = '${{amount}}';
   </script>
 
   
-<!-- Added by Lexity. DO NOT REMOVE/EDIT -->
-<meta name="google-site-verification" content="MfT3T1u_VHbY1QHrfhk7aNQVANybsbfsTA2QIT_5o2s">
+
+
+  
+
+  <script src="//cdn.shopify.com/s/assets/themes_support/option_selection-fe0304d361801951e24464bb64f38fc2.js" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/assets/themes_support/api.jquery-be79ff08d48a7d544d7f86eaf0d89af9.js" type="text/javascript"></script>
+  
+  
+  
+
+  <script src="//cdn.shopify.com/s/files/1/0145/1162/t/36/assets/shop.js?75987681876262822" type="text/javascript"></script>
+  
+  <script src="//cdn.shopify.com/s/files/1/0145/1162/t/36/assets/jquery.ui.widget.min.js?75987681876262822" type="text/javascript"></script>
+ 
+  <script src="//cdn.shopify.com/s/files/1/0145/1162/t/36/assets/jquery.jcarousel.min.js?75987681876262822" type="text/javascript"></script>
+
+    
+  
+    <style>
+      .wrapper {width: 1160px;}
+      #hellobar-container {width: 1160px;margin: 0 auto;}
+    </style>
+  
+  
+  
+  <style>
+    #body .main {
+      width: 910px;
+	  padding-right: 40px;
+    }
+  </style>
+  
+  
 <script type="text/javascript">
-(function (d, w) {
-  var x = d.getElementsByTagName('SCRIPT')[0], g = d.createElement('SCRIPT'); 
-  g.type = 'text/javascript';
-  g.async = true;
-  g.src = ('https:' == d.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-  x.parentNode.insertBefore(g, x);
-}(document, window));
+var UnbxdSiteName = "thekewlshop_myshopify_com-u1405077898828";
+var UnbxdApiKey = "21d35a42c63a3481664b3b1622bbce46";
+var UnbxdWidgetsConf = {
+
+currency : "USD"
+};
+setInterval(function(){
+if (window.Unbxd && window.Currency){
+if (UnbxdWidgetsConf.currency != window.Currency.currentCurrency){
+UnbxdWidgetsConf.currency = window.Currency.currentCurrency;
+if (Unbxd.refreshWidgets)
+Unbxd.refreshWidgets();}}},100);
+if(window.Unbxd==undefined){
+window.Unbxd={}
+}
+var x=Unbxd.postLoad;
+Unbxd.postLoad = function(){
+if(x!=undefined&&typeof x=="function"){x()}
+function createCookie(name,value,days){
+if (days) {
+var date = new Date();date.setTime(date.getTime()+(days*24*60*60*1000));var expires = "; expires="+date.toGMTString();}
+else var expires = "";
+document.cookie = name+"="+value+expires+"; path=/";}
+function readCookie(name) {
+var nameEQ = name + "=";
+var ca = document.cookie.split(';');
+for(var i=0;i < ca.length;i++) {
+var c = ca[i];while (c.charAt(0)==' ') c = c.substring(1,c.length);
+if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);}
+return null;}
+function eraseCookie(name) {
+createCookie(name,"",-1);}
+var cart_token = readCookie('cart');
+if(cart_token){
+Unbxd.track("map_token",{token:cart_token});
+}
+
+}
+var loadScript = function(url,callback){
+var script = document.createElement("script");script.type = "text/javascript";
+if (script.readyState){
+script.onreadystatechange = function(){
+if (script.readyState == "loaded" ||
+script.readyState == "complete"){
+script.onreadystatechange = null;
+callback();
+}};
+}else { 
+ script.onload = function(){ 
+callback();
+ }; }
+script.src=url;document.getElementsByTagName("head")[0].appendChild(script);};
+var myAppJavaScript = function($){
+(function(){
+var ubx = document.createElement('script');ubx.type = 'text/javascript'; ubx.sync=true;
+ubx.src = '//unbxd.s3.amazonaws.com/unbxdAnalytics.js';
+(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(ubx);})();
+(function(){
+var ubx = document.createElement('script');ubx.type = 'text/javascript'; ubx.sync=true;
+ubx.src = '//unbxd.s3.amazonaws.com/embed.js';
+(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(ubx);})();
+}
+if ((typeof jQuery === 'undefined') || (parseFloat(jQuery.fn.jquery) < 1.7)) {
+loadScript('//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js', function(){
+jQueryUnbxd = jQuery.noConflict(true);
+myAppJavaScript(jQueryUnbxd);
+});
+} else {
+myAppJavaScript(jQuery);
+}
+</script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>  
+    <script src="https://d3f5pyioow99x0.cloudfront.net/0.8/hull.js"></script>
+
+<script>
+  (function() {
+    var customerId = false;
+    var customerAccessToken;
+
+    
+
+    function ensureCustomerHasUser() {
+      if (customerId && !customerAccessToken) {
+        Hull.api('services/shopify/customers/' + customerId, 'put').then(function() {
+          document.location.reload();
+        });
+      }
+    }
+
+    function logout() {
+      document.location = '/account/logout';
+    }
+
+    Hull.on('hull.auth.logout', logout);
+
+    Hull.init({
+      callbackUrl: document.location.origin + '/a/hull-callback',
+      orgUrl: 'https://6315cb83.hullapp.io',
+      appId: '53e30c62603d60482500026e',
+      accessToken: customerAccessToken || 'false'
+    }, ensureCustomerHasUser);
+  }());
 </script>
-<!-- End of addition by Lexity. DO NOT REMOVE/EDIT -->
-<meta name="google-site-verification" content="iefKa4d_AX-RffLogQtWdF4gWKEJQT_uUdcKaWntTr4">
+ 
+  <style>
+    .unbxd-width-x {
+		width: 24.5% !important;
+        margin: 0px !important;
+    }
+  </style>
+   
+  
+<!-- <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"
+    data-pin-hover="true" data-pin-position="center"></script> -->
+  <script src="//cdn.shopify.com/s/files/1/0145/1162/t/36/assets/jquery.imgPin.js?75987681876262822" type="text/javascript"></script> 
+  <script>
+    jQuery(document).ready(function(){
+    jQuery('.content img').imgPin();
+    jQuery('#collection img').imgPin();
+    });
+    
+  </script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36251023-1']);
+  _gaq.push(['_setDomainName', 'jqueryscript.net']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+  
+
+  
+  <!-- Start Visual Website Optimizer Asynchronous Code -->
+  
+<script type="text/javascript">
+var _vwo_code=(function(){
+var account_id=141830,
+settings_tolerance=2000,
+library_tolerance=2500,
+use_existing_jquery=false,
+// DO NOT EDIT BELOW THIS LINE
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=141830&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150607074237id_%2Fhttp%253A%2F%2Fwww.thekewlshop.com%2Fpages%2Fsecurity-privacy&amp;r=0.11941951689390495" type="text/javascript"></script>
+  
+<!-- End Visual Website Optimizer Asynchronous Code -->
+  
 <script type="text/javascript">
 window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
 d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
@@ -166,95 +588,129 @@ _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
 $.src='//v2.zopim.com/?HUVPOwWRJ87u6NjPvObRDsISjag2xxKh';z.t=+new Date;$.
 type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 </script><script type="text/javascript">
-    $(document).ready(function() {
-      var settingsJSON = '{"customer_layout":"theme", "contact_phone":"1 (646) 741-2249", "contact_email":"us@thekewlshop.com", "twitter_account":"@thekewlshop", "facebook_url":"https://www.facebook.com/thekewlshop", "rss_url":"http://thekewlshop.com/blogs/news", "shop_bg_color":"#222222", "shop_bg_color_content_area":"#ffffff", "shop_accent_color":"#ed7d1e", "shop_btn_color":"#0109ff", "header_color":"#000000", "text_color":"#494949", "link_color":"#ed7d1e", "link_hover_color":"#834510", "nav_link_color":"#222222", "nav_link_hover_color":"#222222", "selected_nav_link_color":"#222222", "selected_nav_link_bg_color":"#ffffff", "sidebar_header_color":"#000000", "sidebar_header_bg_color":"#d6d6d6", "image_1_link":"http://www.thekewlshop.com/collections/bandage-dresses", "image_1_alt":"Black Friday Giveaway", "image_2_link":"http://www.thekewlshop.com/collections/bandage-dresses", "image_2_alt":"bandage dresses", "image_3_link":"http://www.thekewlshop.com/collections/pumped-shoes", "image_3_alt":"shoes", "image_4_link":"http://www.thekewlshop.com/collections/dresses", "image_4_alt":"dresses", "image_5_link":"http://www.thekewlshop.com/collections/amazing-leggings", "image_5_alt":"Amazing leggings", "image_6_link":"http://www.thekewlshop.com/collections/all-women-bags", "image_6_alt":"Fashionable bags", "image_7_link":"", "image_7_alt":"", "image_8_link":"http://www.thekewlshop.com/collections/whats-new", "image_8_alt":"Whats New", "image_9_link":"http://www.thekewlshop.com/pages/customer-service", "image_9_alt":"Customer Service", "image_10_link":"http://www.thekewlshop.com/blogs/promotions/7295768-promotions-and-discounts-at-the-kewl-shop", "image_10_alt":"Promotions", "title_tags":"", "meta_keywords":"", "meta_author":"", "tr_welcome_customer":"Your Account", "tr_featured_items":"Featured Items", "tr_about_us":"About Us", "tr_recent_articles":"Recent Blog Articles", "tr_shop_by_vendor":"Shop by Product Vendor", "tr_shop_by_type":"Shop by Product Type", "tr_recently_viewed":"Recently Viewed Items", "tr_add_to_cart":"Add to Cart", "tr_cart_adding":"Adding...", "tr_cart_added":"Added!", "tr_sold_out":"Sold Out", "tr_was_added_to_cart":"was added to your cart.", "tr_update_text":"Update", "tr_checkout_text":"Check Out", "tr_remove_text":"(Delete)", "tr_cart_instructions":"Add special instructions for your order...", "tr_product_collections":"Product Collections", "tr_search_text":"Search...", "tr_sale_text":"Sale", "wishlist_content_header_colour":"#3a3a3a", "wishlist_content_text_colour":"#4d4d4d", "wishlist_content_border_colour":"#7d7d7d", "wishlist_table_bg_colour":"#b2b2b2", "wishlist_content_link_colour":"#636363", "wishlist_content_link_hover_colour":"#6db038", "wishlist_popup_bg_colour":"#e5e5e5", "wishlist_tab_bg_colour":"#fff", "wishlist_btn_colour":"#b2b2b2", "wishlist_btn_font_size":"12", "wishlist_btn_text_colour":"#ffffff", "wishlist_btn_hover_colour":"#c48a7c", "wishlist_btn_hover_text_colour":"#ffffff", "continue_shopping_button_link":"http://www.thekewlshop.com/", "vick_main_head":"Youre Almost There!", "vick_sign_in_head":"Sign In To My Account", "vick_sign_up_head":"Im New To The Kewl Shop", "vick_guest_head":"Check Out As Guest", "vick_head_color":"#0d0d0d", "typekit_js":"", "meta_description":"", "pagination_limit":"48", "google_header_font":"Allan", "header_font":"Helvetica, Arial, sans-serif", "header_weight":"700", "header_font_style":"none", "regular_font":"Helvetica, Arial, sans-serif", "nav_font_size":"12px", "nav_weight":"700", "nav_font_style":"uppercase", "frontpage_pagination_limit":"10", "slideshow_speed":"5000", "slideshow_transition":"horizontal", "wishlist_btn_float":"right", "wishlist_btn_float_list":"right", "use_logo":true, "use_custom_bg_image":false, "use_custom_bg_image_content_area":false, "display_cart_icon":true, "accept_visa":true, "accept_mastercard":true, "accept_amex":true, "accept_cirrus":false, "accept_delta":false, "accept_discover":false, "accept_westernunion":false, "accept_paypal":true, "display_shop_currency":true, "designed_by":false, "powered_by":false, "show_recent_products":true, "show_drop_shadow":true, "display_blog_dropdown":true, "display_collection_dropdown":false, "show_breadcrumb_nav":true, "enable_subcategories":true, "hide_sidebar":false, "display_customer_accounts":false, "shop_by_type":false, "shop_by_vendor":false, "show_about_us":false, "show_articles":false, "display_slideshow_1":false, "display_slideshow_2":true, "display_slideshow_3":true, "display_slideshow_4":true, "display_slideshow_5":true, "display_slideshow_6":true, "display_slideshow_7":false, "display_slideshow_8":true, "display_slideshow_9":true, "display_slideshow_10":true, "show_tweet_button":true, "show_facebook_like":true, "show_facebook_comments":false, "show_related_products":true, "collection_description":true, "collection_tags":false, "background_image_display":"tiled", "cart_summary_style":"items", "typeface_method":"websafe", "product_description_position":"bottom", "comment_method":"shopify", "main_linklist":"main-menu", "footer_linklist_1":"footer", "sidebar_linklist_1":"shop-now", "footer_linklist_cus_service":"footer-customer-srveices", "footer_linklist_about_shop":"about-the-kewl-shop", "footer_linklist_explore_shop":"explore-the-kewl-shop", "footer_linklist_best_sellers_1":"best-sellers-1", "footer_linklist_social":"find-us-on", "clothes":"bandage-dresses", "sidebar_linklist_2":"", "sidebar_linklist_3":"", "sidebar_linklist_4":"", "sidebar_linklist_5":"", "sidebar_blog":"news", "frontpage_collection":"whats-new", "index_page_content":"", "bandage-dresses":"clothes", "dresses":"clothes", "coats-jackets":"clothes", "amazing-leggings":"clothes", "denim-women":"clothes", "skirts":"clothes", "tops-and-tshirts":"clothes", "long-sleeve-tops":"clothes", "swimwear":"clothes", "all-women-shoes":"shoes", "pumped-shoes":"shoes", "sexy-boots":"shoes", "perfect-flat-shoes":"shoes", "all-women-bags":"bags", "crossbody-bags":"bags", "shoulder-bags":"bags", "clutches":"bags", "top-handle-bags":"bags", "hobo-bags-tote-bags":"bags", "wallets":"bags", "cheap-handbags":"bags", "all-accessories":"accessories", "jewelry":"accessories", "watches":"accessories", "infinity-rings":"accessories", "clothing-accessories":"accessories", "all-babies-kids":"kids", "baby-girl-clothes":"kids", "baby-boy-clothes":"kids", "baby-clothes-toddler-girls":"kids", "baby-clothes-toddler-boys":"kids", "funky-baby-and-kids":"kids", "diaper-bags":"kids", "mum-stuff":"kids", "toddler-and-baby-clothes":"kids", "all-guys-stuff":"guys-stuff", "hoodies":"guys-stuff", "coats-and-jackets-men":"guys-stuff", "bags-for-men":"guys-stuff", "watches-1":"guys-stuff", "biker-gear":"biker-gear", "hys-denim":"guys-stuff", "all-biker-gear":"biker-gear", "biker-gear-jackets":"biker-gear", "biker-gear-vests":"biker-gear", "biker-gear-pants":"biker-gear", "biker-gear-bags":"biker-gear", "biker-gear-gloves":"biker-gear", "biker-gear-accessories":"biker-gear", "biker-gear-sunglasses-and-goggles":"biker-gear", "helmets-protective-gear":"biker-gear", "biker-gear-apparel":"biker-gear", "fashion-clothing":"clothes", "cool-shoes":"shoes", "fashion-bags":"bags", "guys-stuff":"guys-stuff", "admin-mail":"charles@thekewlshop.com"}';
-      var curColl = '';
-      if(curColl == '')
-      {
-        var curColl = 'security-privacy';
-      }  
-      var allSet = JSON.parse(settingsJSON);
-      var parentCat = allSet[curColl];      
-      console.log(parentCat);
-      //if(curColl !='bandage-dresses')      
-        //$('#left-menu > li').not("li."+parentCat).remove();      
-      
-      $('#left-menu li.'+parentCat+' > ul').css('display','block');
-      if(curColl.indexOf('bandage-dresses') != -1 || curColl.indexOf('pump-shoes') != -1 || curColl.indexOf('leggings') != -1 )
-      {
-        $('.other-sidebar').parent().remove();
-      }  
-      //set #back href
-      var referrer =  document.referrer;
-      $('#back').attr('href',referrer);
+//   $(document).ready(function() {
+//     var settingsJSON = '{"use_logo":true, "use_custom_bg_image":false, "background_image_display":"tiled", "use_custom_bg_image_content_area":false, "main_linklist":"main-menu", "footer_linklist_1":"footer", "pagination_limit":"48", "pagination_limitt":"50", "contact_phone":"<span class=\"colored\">1 (646) 741-2249</span>", "contact_email":"us@thekewlshop.com", "cart_summary_style":"items", "display_cart_icon":true, "twitter_account":"@thekewlshop", "facebook_url":"https://www.facebook.com/thekewlshop", "rss_url":"http://thekewlshop.com/blogs/news", "accept_visa":true, "accept_mastercard":true, "accept_amex":true, "accept_cirrus":false, "accept_delta":false, "accept_discover":false, "accept_westernunion":false, "accept_paypal":true, "display_shop_currency":true, "designed_by":false, "powered_by":false, "show_recent_products":true, "show_drop_shadow":true, "shop_bg_color":"#222222", "shop_bg_color_content_area":"#ffffff", "shop_accent_color":"#ed7d1e", "shop_btn_color":"#000000", "header_color":"#000000", "text_color":"#494949", "link_color":"#ed7d1e", "link_hover_color":"#834510", "typeface_method":"google_webfonts", "typekit_js":"", "google_header_font":"Libre+Baskerville", "header_font":"Helvetica, Arial, sans-serif", "header_weight":"700", "header_font_style":"none", "regular_font":"Open Sans, Helvetica, Arial, sans-serif", "nav_font_size":"14px", "nav_weight":"700", "nav_font_style":"uppercase", "nav_link_color":"#222222", "nav_link_hover_color":"#222222", "selected_nav_link_color":"#222222", "selected_nav_link_bg_color":"#ffffff", "display_blog_dropdown":false, "display_collection_dropdown":false, "show_breadcrumb_nav":true, "enable_subcategories":true, "hide_sidebar":false, "sidebar_header_color":"#000000", "sidebar_header_bg_color":"#d6d6d6", "sidebar_linklist_1":"shop-now", "sidebar_linklist_2":"", "sidebar_linklist_3":"", "sidebar_linklist_4":"", "sidebar_linklist_5":"", "display_customer_accounts":false, "shop_by_type":false, "shop_by_vendor":false, "show_about_us":false, "show_articles":false, "sidebar_blog":"news", "enable_subcategories1":false, "hide_sidebar1":false, "sidebar_header_color1":"#ffffff", "sidebar_header_bg_color1":"#383838", "sidebar_linklist_11":"", "sidebar_linklist_21":"", "sidebar_linklist_31":"", "sidebar_linklist_41":"", "sidebar_linklist_51":"", "display_customer_accounts1":false, "shop_by_type1":false, "shop_by_vendor1":false, "show_about_us1":false, "show_articles1":false, "sidebar_blog1":"", "hello_bar_text":"FREE Shipping, Easy Returns, 24/7 Customer Service", "read_more_button_text":"Read More!", "read_more_button_link":"http://www.thekewlshop.com/pages/customer-service", "frontpage_collection":"whats-new", "frontpage_pagination_limit":"48", "index_page_content":"", "slideshow_speed":"8000", "slideshow_transition":"horizontal", "display_slideshow_1":false, "image_1_link":"http://www.thekewlshop.com/collections/new-bandage-dresses", "image_1_alt":"4th of July Banner Promo", "display_slideshow_2":true, "image_2_link":"http://www.thekewlshop.com/collections/new-bandage-dresses", "image_2_alt":"Bandage Dresses", "display_slideshow_3":false, "image_3_link":"http://www.thekewlshop.com/collections/black-bandage-dresses", "image_3_alt":"Black Collection Bandage Dresses", "display_slideshow_4":false, "image_4_link":"http://www.thekewlshop.com/collections/whats-new", "image_4_alt":"Swimwear", "display_slideshow_5":false, "image_5_link":"http://www.thekewlshop.com/collections/pumped-shoes", "image_5_alt":"Pumped Shoes on the go", "display_slideshow_6":false, "image_6_link":"http://www.thekewlshop.com/collections/amazing-leggings", "image_6_alt":"Stunning Leggings", "display_slideshow_7":false, "image_7_link":"http://www.thekewlshop.com/collections/bandage-skirts", "image_7_alt":"Beautiful Skirt", "display_slideshow_8":true, "image_8_link":"http://www.thekewlshop.com/collections/swimwear", "image_8_alt":"Amazing Leggings", "display_slideshow_9":true, "image_9_link":"http://www.thekewlshop.com/collections/whats-new", "image_9_alt":"Bandage Dresses", "display_slideshow_10":true, "image_10_link":"http://www.thekewlshop.com/pages/style-reviews", "image_10_alt":"Reviews", "subscription_bttn":"Get Discounts Now!", "banner_text":"The Kewl Shop Is Famous For", "banner_link_text":"Bandage Dresses", "banner_link":"http://www.thekewlshop.com/collections/new-bandage-dresses", "display_email_popup":false, "use_popup":false, "product_description_position":"bottom", "show_tweet_button":true, "show_facebook_like":true, "show_facebook_comments":false, "show_related_products":false, "vick_ship_free_bandage":"Free Shipping On All Orders", "vick_ship_free_pump":"Made To Order, Just For You", "vick_ship_free_legging":"Please Note Delivery Options", "vick_ship_free_head":"Free Shipping On All Orders", "collection_description":true, "collection_tags":false, "comment_method":"shopify", "display_blogshow":false, "recent-post-title":"Popular Reads", "first-post-link":"<span style=\"color: #000000;\"><strong><a href=\"http://www.thekewlshop.com/blogs/news/14826073-how-much-should-i-pay-for-a-bandage-dress\"><span style=\"color: #000000;\">How Much Should I Pay For A Bandage Dress?</span></a></strong></span>", "second-post-link":"<span style=\"color: #000000;\"><strong><a href=\"http://www.thekewlshop.com/blogs/news/7131090-clothes-for-clubs-just-get-the-right-ones\"><span style=\"color: #000000;\">Clothes For Clubs – Just Get The Right Ones!</span></a></strong></span>", "third-post-link":"<span style=\"color: #000000;\"><strong><a href=\"http://www.thekewlshop.com/blogs/news/13878089-fashion-shoots-bandage-dress-images\"><span style=\"color: #000000;\">Fashion Shoots &amp; Bandage Dress Images</span></a></strong></span>", "fourth-post-link":"<span style=\"color: #000000;\"><strong><a href=\"http://www.thekewlshop.com/blogs/news/13807853-kick-ass-selfie-promo-gets-you-15-off-today\"><span style=\"color: #000000;\">Kick Ass Selfie Promo Gets You 15% Off Today!</span></a></strong></span>", "fifth-post-link":"<span style=\"color: #000000;\"><strong><a href=\"http://www.thekewlshop.com/blogs/news/7275378-kewl-whats-it-all-about\"><span style=\"color: #000000;\">Kewl - What&apos;s It All About</span></a></strong></span>", "guide11-link-panel":"Shopping Guides", "first1-guide-link":"<br /> <strong><a href=\"http://www.thekewlshop.com/blogs/news/14826073-how-much-should-i-pay-for-a-bandage-dress\">How Much Should I Pay For A Bandage Dress?</a></strong>How much will a quality bandage dress cost? Why do you see so many dresses that look the same but vary in prices from $10 to more than $1000? And most importantly, will the dress you see on the store&apos;s<br /><strong style=\"line-height: 1.2;\"><a href=\"http://www.thekewlshop.com/blogs/news/14109817-need-a-bandage-dress-delivered-overnight-or-fast-shipped\"><br /></a></strong>", "second1-guide-link":"<br /><strong><a href=\"http://www.thekewlshop.com/blogs/news/18421956-how-to-care-for-your-bandage-dress\">How to Care for a Bandage Dress</a>.</strong>Your bandage dress gives you the toosh you have always dreamed of and the shapely figure you have come to count on. It is more than a dress but also a solid investment into your go-to wardrobe.  <br /><br/><a></a>", "third1-guide-link":"<br /><strong><a href=\"http://www.thekewlshop.com/blogs/news/7131090-clothes-for-clubs-just-get-the-right-ones\">What to Wear to the Club </a></strong> <span>With trendy clubs establishing themselves in all cities, a night out now is often a club night.</span></strong><br /><br />", "fourth1-guide-link":"<br /><strong><a href=\"http://www.thekewlshop.com/blogs/news/18578564-7-trending-white-dress-styles-in-2015\">How to Wear a White Bandage Dress</a></strong> <span>Admittingly, white is not the new black - but it certainly is hot right now. If you have the confidence to wear a white dress then you have the confidence to try different styles for the various venues you attend as the weather heats up throughout the spring and summer</span></strong><br /><br />", "fifth1-guide-link":"", "cart_free_shipping_heading":"FREE SHIPPING ON ALL ORDERS", "cart_free_shipping_text":"<strong style=\"line-height:normal;text-align:left;text-transform:capitalize;float:left;width:100%\">Standard delivery times to worldwide destinations</strong>\r\n<ul style=\"line-height:normal;text-align:left;text-transform:none;float:left;width:100%;\">\r\n<li style=\"list-style: none;\">Bandage Dresses: 3 to 5 business days</li> \r\n<li style=\"list-style: none;\">Bandage Swim Wear: 3 to 5</li>\r\n<li style=\"list-style: none;\">Shoes: 7 to 12 (shoes are made to order)</li>\r\n<li style=\"list-style: none;\">Leggings: 7 to 12 (+5 non-USA)</li>\r\n<li style=\"list-style: none;\">Everything else: 7 to 12</li>\r\n</ul>\r\n<strong style=\"line-height:normal;text-align:left;text-transform:capitalize;float:left;width: 100%;\">Expedited Shipping of Bandage Dresses (USA Only)</strong>\r\n<p  style=\"line-height:normal;text-align:left;margin:0;padding:0;\">If you have ordered from the Expedited Shipping Collection:</p>\r\n<ul style=\"line-height:normal;text-align:left;text-transform:none;float:left;width:100%;\">\r\n\r\n<li style=\"list-style: none;\">Overnight ships for next business day delivery</li>\r\n<li style=\"list-style: none;\">Two Day ships for one business day later than Overnight</li>\r\n</ul>\r\n<p style=\"line-height:normal;text-align:left;text-transform:none;float:left;width:100%;margin:0;padding:0;\">\r\n<strong style=\"line-height:normal;\">Returns</strong>\r\n<p style=\"line-height:normal;text-align:left;text-transform:none;float:left;width:100%;margin:0;padding:0;\">\r\nReturns accepted up to 60 days from order date (some conditions apply)\r\n</p></p>", "hit-link-panel":"Top Hits", "first-hit-link":"<p><strong><a href=\" http://www.usmagazine.com/celebrity-news/news/kim-kardashian-pregnant-expecting-second-child-with-kanye-west-2015315\">Kim K Is Pregnant</a></strong></p>", "second-hit-link":"<p><strong><a href=\" http://www.people.com/article/bruce-jenner-lands-vanity-fair-cover-woman\">Jenner’s Magazine Cover</a></strong></p>", "third-hit-link":"<p><strong><a href=\" http://www.eonline.com/news/660462/bruce-jenner-responds-to-wrongful-death-lawsuit-stemming-from-fatal-car-crash\">Bruce Bites Back</a></strong></p>", "fourth-hit-link":"<p><strong><a href=\" http://www.vanityfair.com/hollywood/2015/05/natalie-portman-harvard-commencement-class-day-speech\">Portman’s Speech</a></strong></p>", "fifth-hit-link":"<p><strong><a href=\" http://time.com/3900501/michael-jackson-neverland-ranch/\">For Sale: Neverland</a></strong></p>", "guide-link-panel":"Guides", "first-guide-link":"<p><strong><a href=\"http://www.thekewlshop.com/blogs/news/14826073-how-much-should-i-pay-for-a-bandage-dress\">How Much Should I Pay For A Bandage Dress?</a></strong></p>", "second-guide-link":"<p><strong><a href=\"http://www.thekewlshop.com/blogs/news/14779921-what-are-bandage-dresses-made-from\">What Are Bandage Dresses Made From</a></strong></p>", "third-guide-link":"", "fourth-guide-link":"<p><strong><a href=\"http://www.thekewlshop.com/blogs/news/14776053-can-you-wear-a-bandage-dress-during-the-day\">Can You Wear A Bandage Dress During The Day?</a></strong></p>", "fifth-guide-link":"<p><strong><a href=\"http://www.thekewlshop.com/blogs/news/14109817-need-a-bandage-dress-delivered-overnight-or-fast-shipped\">Need A Bandage Dress Delivered Overnight Or Fast Shipped?</a></strong></p>", "title_tags":"", "meta_keywords":"", "meta_author":"", "meta_description":"", "tr_welcome_customer":"Your Account", "tr_featured_items":"Featured Items", "tr_about_us":"About Us", "tr_recent_articles":"Recent Blog Articles", "tr_shop_by_vendor":"Shop by Product Vendor", "tr_shop_by_type":"Shop by Product Type", "tr_recently_viewed":"Recently Viewed Items", "tr_add_to_cart":"Add to Cart", "tr_cart_adding":"Adding...", "tr_cart_added":"Added!", "tr_sold_out":"Sold Out", "tr_was_added_to_cart":"was added to your cart.", "tr_update_text":"Update", "tr_checkout_text":"Proceed To Checkout Now", "tr_remove_text":"(Delete)", "tr_cart_instructions":"Add special instructions for your order...", "tr_product_collections":"Product Collections", "tr_search_text":"Search the store...", "tr_sale_text":"Sale", "wishlist_content_header_colour":"#3a3a3a", "wishlist_content_text_colour":"#4d4d4d", "wishlist_content_border_colour":"#7d7d7d", "wishlist_table_bg_colour":"#b2b2b2", "wishlist_content_link_colour":"#636363", "wishlist_content_link_hover_colour":"#6db038", "wishlist_popup_bg_colour":"#e5e5e5", "wishlist_tab_bg_colour":"#ffffff", "wishlist_btn_colour":"#b2b2b2", "wishlist_btn_font_size":"12", "wishlist_btn_text_colour":"#ffffff", "wishlist_btn_hover_colour":"#c48a7c", "wishlist_btn_hover_text_colour":"#ffffff", "wishlist_btn_float":"right", "wishlist_btn_float_list":"right", "continue_shopping_button_link":"http://www.thekewlshop.com/", "vick_main_head":"You&apos;re Almost There!", "vick_sign_in_head":"Sign In To My Account", "vick_sign_up_head":"Im New To The Kewl Shop", "vick_guest_head":"Check Out As Guest", "vick_head_color":"#0d0d0d", "vick_cust_service_head":"Sign up to our EMAIL LIST below for DISCOUNTS now!", "trending_1_link":"http://www.thekewlshop.com/blogs/news/26996548-the-history-of-the-bandage-dress", "trending_1_title":"The History of the Bandage Dress", "trending_2_link":"http://www.thekewlshop.com/blogs/news/18578564-7-trending-white-dress-styles-in-2015", "trending_2_title":"7 Trending White Dress Styles in 2015", "trending_3_link":"http://www.thekewlshop.com/blogs/news/17848384-style-interview-stylewich", "trending_3_title":"Style Interview | Stylewich", "trending_4_link":"http://www.thekewlshop.com/blogs/news/17830412-style-interview-mandia-nantsios", "trending_4_title":"Style Interview | Mandia Nantsios", "trending_5_link":"http://www.thekewlshop.com/blogs/news/19080708-top-9-reasons-to-wear-short-dresses", "trending_5_title":"Top 9 Reasons to Wear Short Dresses", "checkout_use_header_image":false, "checkout_banner_background_color":"#222222", "checkout_logo":"logo.png", "checkout_headline":"", "checkout_accent_color":"#ed7d1e", "checkout_button_color":"#ed7d1e", "checkout_call_to_action_color":"#8fc243", "customer_layout":"theme", "banner_text_link":"http://www.thekewlshop.com/blogs/news/13987585-customer-service-at-the-kewl-shop", "vick_cust_service_link":"http://www.thekewlshop.com/pages/customer-service", "image_11_link":"", "image_11_alt":"Demo 1", "image_12_link":"", "image_12_alt":"Demo 2", "image_13_link":"", "image_13_alt":"Demo 3", "display_slideshow_11":"true", "display_slideshow_12":"true", "display_slideshow_13":"true", "footer_linklist_cus_service":"footer-customer-srveices", "footer_linklist_about_shop":"about-the-kewl-shop", "footer_linklist_explore_shop":"explore-the-kewl-shop", "footer_linklist_best_sellers_1":"best-sellers-1", "footer_linklist_social":"find-us-on", "clothes":"bandage-dresses", "bandage-dresses":"clothes", "dresses":"clothes", "coats-jackets":"clothes", "amazing-leggings":"clothes", "denim-women":"clothes", "skirts":"clothes", "tops-and-tshirts":"clothes", "long-sleeve-tops":"clothes", "swimwear":"clothes", "all-women-shoes":"shoes", "pumped-shoes":"shoes", "sexy-boots":"shoes", "perfect-flat-shoes":"shoes", "all-women-bags":"bags", "crossbody-bags":"bags", "shoulder-bags":"bags", "clutches":"bags", "top-handle-bags":"bags", "hobo-bags-tote-bags":"bags", "wallets":"bags", "cheap-handbags":"bags", "all-accessories":"accessories", "jewelry":"accessories", "watches":"accessories", "infinity-rings":"accessories", "clothing-accessories":"accessories", "all-babies-kids":"kids", "baby-girl-clothes":"kids", "baby-boy-clothes":"kids", "baby-clothes-toddler-girls":"kids", "baby-clothes-toddler-boys":"kids", "funky-baby-and-kids":"kids", "diaper-bags":"kids", "mum-stuff":"kids", "toddler-and-baby-clothes":"kids", "all-guys-stuff":"guys-stuff", "hoodies":"guys-stuff", "coats-and-jackets-men":"guys-stuff", "bags-for-men":"guys-stuff", "watches-1":"guys-stuff", "biker-gear":"biker-gear", "hys-denim":"guys-stuff", "all-biker-gear":"biker-gear", "biker-gear-jackets":"biker-gear", "biker-gear-vests":"biker-gear", "biker-gear-pants":"biker-gear", "biker-gear-bags":"biker-gear", "biker-gear-gloves":"biker-gear", "biker-gear-accessories":"biker-gear", "biker-gear-sunglasses-and-goggles":"biker-gear", "helmets-protective-gear":"biker-gear", "biker-gear-apparel":"biker-gear", "fashion-clothing":"clothes", "cool-shoes":"shoes", "fashion-bags":"bags", "guys-stuff":"guys-stuff", "admin-mail":"charles@thekewlshop.com"}';
+//     var curColl = '';
+//     if(curColl == '')
+//     {
+//       var curColl = 'security-privacy';
+//     }  
+//     var allSet = JSON.parse(settingsJSON);
+//     var parentCat = allSet[curColl];      
+//     //console.log(parentCat);
+//     //if(curColl !='bandage-dresses')      
+//       //$('#left-menu > li').not("li."+parentCat).remove();      
+    
+//     $('#left-menu li.'+parentCat+' > ul').css('display','block');
+//     if(curColl.indexOf('bandage-dresses') != -1 || curColl.indexOf('pump-shoes') != -1 || curColl.indexOf('leggings') != -1 )
+//     {
+//       $('.other-sidebar').parent().remove();
+//     }  
+//     //set #back href
+//     var referrer =  document.referrer;
+//     $('#back').attr('href',referrer);
+//   });
+  
 
-    });
-
-  </script></head>
+</script><script type="text/javascript" src="//static.criteo.net/js/ld/ld.js" async="true"></script><script type="text/javascript">
+      var site_type = /Mobile|iP(hone|od|ad)|Android|BlackBerry|IEMobile/.test(navigator.userAgent) ? "m" : "d";
+      window.criteo_q = window.criteo_q || [];
+      window.criteo_q.push(
+        { event: "setAccount", account: 18439},
+        { event: "setSiteType", type: site_type});
+    </script><script async="" type="text/javascript" src="//thekewlshop.disqus.com/count.js"></script></head>
 
 <!--Start of Zopim Live Chat Script-->
 
 <!--End of Zopim Live Chat Script-->
 
-  <!--BOF Sidebar Navigation Hook by javascript-->
-  
-  <!--EOF Sidebar Navigation Hook by javascript-->
+<!--BOF Sidebar Navigation Hook by javascript-->
+
+
+<!--EOF Sidebar Navigation Hook by javascript-->
+<!-- CRITEO START -->
+<!-- CRITEO -->
+    
+    
+    
+<!-- CRITEO END -->
 
 <body>
-<!-- ClickTale Top part -->
-<script type="text/javascript">
-var WRInitTime=(new Date()).getTime();
-</script>
-<!-- ClickTale end of Top part -->
 
+<!--page-->
+<!-- BO Hello Bar -->
   
+<div style="display: block;" id="hellobar-wrapper" class="hellobar-button">
+  <div id="hellobar-container">
+    <span>FREE Shipping, Easy Returns, 24/7 Customer Service</span> 
+    <a class="hellobar-link" href="http://www.thekewlshop.com/pages/customer-service">Read More!</a>
+  <!-- <a href="#close" id="hellobar-close">Close</a> -->
+  </div>
+</div>
+
+<!-- EO Hello Bar -->  
   <div class="wrapper clearfix">
-    <header class="clearfix">
+<header class="clearfix">
       <div class="logo">
         
-        <a href="/" class="shop_logo"><h2 class="inline"><img src="//cdn.shopify.com/s/files/1/0145/1162/t/2/assets/logo.png?53922" alt="Security &amp; Privacy" class="png_bg"></h2></a>
+        <a href="/" class="shop_logo"><h2 class="inline"><img src="//cdn.shopify.com/s/files/1/0145/1162/t/36/assets/logo.png?75987681876262822" alt="Security &amp; Privacy" class="png_bg"></h2></a>
         
       </div> <!-- /.logo -->
-      <div class="cy fr clearfix">
-                  
-  
-    <span style="float: right; margin-bottom: 12px;">
-      <a href="/account/login" id="customer_login_link">Log in</a>
-      
-      <span class="or">or</span>
-      <a href="/account/register" id="customer_register_link">Create an account</a>
-      
-    </span>
-  
-    
 
-          <div class="clearfix"></div>
-        <div class="fr cart-summary">
-
-          <span class="cart">
-            <h3>
-              <a href="/cart">
-                <span class="cart-total-items clearfix">
+<div class="fr clearfix">
+      
+          
+                <span style="float: right; margin-bottom: 12px;">
+                  <a href="/account/login" id="customer_login_link">Log in</a>
                   
-                  <span class="total_price fl">0 Items</span>
+                  <span class="or">or</span>
+                  <a href="/account/register" id="customer_register_link">Create an account</a>
                   
                 </span>
-              </a>
+          
+      
+      <div class="clearfix"></div>
+        <a class="fr cart-summary" href="/cart">
+          <span class="cart">
+            <h3>
+                <span class="cart-total-items clearfix">
+                  
+                    
+                      <span class="total_price fl">0 Items</span>
+                    
+                  
+                </span>
             </h3>
           </span>
           <div id="item-added" style="display:none;">'Item' was added to your cart.</div>
-        </div> <!-- /.cart-summary -->
+        </a> <!-- /.cart-summary -->
         <div class="fr contact-info">
-          <span class="tel">1 (646) 741-2249</span>
-          <span class="email"><a href="mailto:us@thekewlshop.com">us@thekewlshop.com<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script></a></span>
+          <!-- <span><b>24/7 Customer Service</b></span> -->
+          <span class="tel"><span class="colored">1 (646) 741-2249</span></span>
+          <span class="email"><a href="http://www.thekewlshop.com/pages/contact-us">us@thekewlshop.com</a></span>
         </div>
-      </div> 
-    </header>
+  
+        <div class="cust_serv_banner">
+          <!-- <a href="http://www.thekewlshop.com/pages/customer-service"> -->
+              <span class="service_head">
+               <!-- Sign up to our EMAIL LIST below for DISCOUNTS now! -->
+                
+<div id="mc_embed_signup">
+<form action="https://www.getdrip.com/forms/7873305/submissions" method="post" target="_blank" data-drip-embedded-form="2847">
+<input type="text" name="fields[email]" value="" class="email" placeholder="Enter Email">
+ 
+    <input type="submit" name="submit" value="Get Discounts Now" data-drip-attribute="sign-up-button" class="button"><br>
 
+</form></div>
+
+              </span>
+          <!-- </a> -->
+        </div>
+  
+</div> 
+ 
+</header>
+    
     <nav class="main">
       <ul class="clearfix">
         
@@ -267,678 +723,239 @@ var WRInitTime=(new Date()).getTime();
       
       
         
-      <li class="dropdown"><a href="/pages/fashion-clothing" class=""><span>Clothes</span></a>
-        <ul class="dropdown">
-          
-          <li><a href="/collections/all-women-clothes">View All</a></li>
-          
-          <li><a href="/collections/bandage-dresses">Bandage Dresses</a></li>
-          
-          <li><a href="/collections/dresses">Dresses</a></li>
-          
-          <li><a href="/collections/coats-jackets">Coats &amp; Jackets</a></li>
-          
-          <li><a href="/collections/amazing-leggings">Leggings</a></li>
-          
-          <li><a href="/collections/denim-women">Denim</a></li>
-          
-          <li><a href="/collections/skirts">Skirts</a></li>
-          
-          <li><a href="/collections/tops-and-tshirts">Tops &amp; Tshirts</a></li>
-          
-          <li><a href="/collections/long-sleeve-tops">Long Sleeve Tops</a></li>
-          
-          <li><a href="/collections/swimwear">Swim Wear</a></li>
-          
-        </ul>
-      </li>
-      
-      
+        <li>
+        <a href="/collections/new-bandage-dresses" class=""><span>All Bandage Dresses</span></a>
         
-      <li class="dropdown"><a href="/pages/cool-shoes" class=""><span>Shoes</span></a>
-        <ul class="dropdown">
-          
-          <li><a href="/collections/all-women-shoes">View All</a></li>
-          
-          <li><a href="/collections/pumped-shoes">Pump Shoes</a></li>
-          
-          <li><a href="/collections/sexy-boots">Sexy Boots</a></li>
-          
-          <li><a href="/collections/perfect-flat-shoes">Perfect Flat Shoes</a></li>
-          
-        </ul>
-      </li>
-      
-      
         
-      <li class="dropdown"><a href="/pages/fashion-bags" class=""><span>Bags</span></a>
-        <ul class="dropdown">
-          
-          <li><a href="/collections/all-women-bags">View All</a></li>
-          
-          <li><a href="/collections/crossbody-bags">Cross Body Bags</a></li>
-          
-          <li><a href="/collections/shoulder-bags">Shoulder Bags</a></li>
-          
-          <li><a href="/collections/clutches">Clutch Bags</a></li>
-          
-          <li><a href="/collections/top-handle-bags">Top Handle Bags</a></li>
-          
-          <li><a href="/collections/hobo-bags-tote-bags">Hobo &amp; Tote Bags</a></li>
-          
-          <li><a href="/collections/wallets">Wallets</a></li>
-          
-          <li><a href="/collections/cheap-handbags">Bags under $50 </a></li>
-          
-        </ul>
-      </li>
-      
-      
-        
-      <li class="dropdown"><a href="/pages/clothing-accessories" class=""><span>Accessories</span></a>
-        <ul class="dropdown">
-          
-          <li><a href="/collections/all-accessories">View All</a></li>
-          
-          <li><a href="/collections/jewelry">Fashion Jewelry</a></li>
-          
-          <li><a href="/collections/watches">Watches</a></li>
-          
-          <li><a href="/collections/infinity-rings">Eternity Rings</a></li>
-          
-        </ul>
-      </li>
-      
-      
-        
-      <li class="dropdown"><a href="/pages/toddler-and-baby-clothes" class=""><span>Kids</span></a>
-        <ul class="dropdown">
-          
-          <li><a href="/collections/all-babies-kids">View All</a></li>
-          
-          <li><a href="/collections/baby-girl-clothes">Baby Girl</a></li>
-          
-          <li><a href="/collections/baby-boy-clothes">Baby Boy</a></li>
-          
-          <li><a href="/collections/baby-clothes-toddler-girls">Toddler Girls</a></li>
-          
-          <li><a href="/collections/baby-clothes-toddler-boys">Toddler Boys</a></li>
-          
-          <li><a href="/collections/funky-baby-and-kids">Funky Baby &amp; Kids</a></li>
-          
-          <li><a href="/collections/diaper-bags">Diaper Bags</a></li>
-          
-          <li><a href="/collections/mum-stuff">Cool Mum Stuff</a></li>
-          
-        </ul>
-      </li>
-      
-      
-        
-      <li class="dropdown"><a href="/pages/guys-stuff" class=""><span>Guys Stuff</span></a>
-        <ul class="dropdown">
-          
-          <li><a href="/collections/all-guys-stuff">View All</a></li>
-          
-          <li><a href="/collections/hoodies">Hoodies</a></li>
-          
-          <li><a href="/collections/coats-and-jackets-men">Coats &amp; Jackets</a></li>
-          
-          <li><a href="/collections/bags-for-men">Bags for Men</a></li>
-          
-          <li><a href="/collections/watches">Watches</a></li>
-          
-          <li><a href="/pages/biker-gear">Biker Gear</a></li>
-          
-          <li><a href="/pages/hys-denim">HYS Denim</a></li>
-          
-        </ul>
-      </li>
-      
-      
-        
-      <li class="dropdown"><a href="/pages/biker-gear" class=""><span>Biker Gear</span></a>
-        <ul class="dropdown">
-          
-          <li><a href="/collections/all-biker-gear">View All</a></li>
-          
-          <li><a href="/collections/biker-gear-jackets">Jackets</a></li>
-          
-          <li><a href="/collections/biker-gear-vests">Vests</a></li>
-          
-          <li><a href="/collections/biker-gear-pants">Pants &amp; Chaps</a></li>
-          
-          <li><a href="/collections/biker-gear-bags">Bags</a></li>
-          
-          <li><a href="/collections/biker-gear-gloves">Gloves</a></li>
-          
-          <li><a href="/collections/biker-gear-accessories">Accessories</a></li>
-          
-          <li><a href="/collections/biker-gear-sunglasses-and-goggles">Biker Glasses and Goggles</a></li>
-          
-          <li><a href="/collections/helmets-protective-gear">Helmets &amp; Protective Gear</a></li>
-          
-          <li><a href="/collections/biker-gear-apparel">Apparel</a></li>
-          
-        </ul>
       </li>
       
       
         
         <li>
-        <a href="/pages/customer-reviews" class=""><span>Reviews</span></a>
+        <a href="/collections/dresses" class=""><span>Other Dresses</span></a>
         
         
+      </li>
+      
+      
+        
+        <li>
+        <a href="/collections/amazing-leggings" class=""><span>Leggings </span></a>
+        
+        
+      </li>
+      
+      
+        
+        <li>
+        <a href="/collections/swimwear" class=""><span>Swimwear</span></a>
+        
+        
+      </li>
+      
+      
+        
+        <li>
+        <a href="/collections/pumped-shoes" class=""><span>Shoes</span></a>
+        
+        
+      </li>
+      
+      
+        
+      <li class="dropdown"><a href="/blogs/news" class=""><span>Blogs</span></a>
+        <ul class="dropdown">
+          
+          <li><a href="/pages/the-bandage-dress-report">The Bandage Dress Report</a></li>
+          
+          <li><a href="/blogs/news">The Blog</a></li>
+          
+        </ul>
+      </li>
+      
+      
+        
+      <li class="dropdown"><a href="/pages/customer-reviews" class=""><span>Reviews</span></a>
+        <ul class="dropdown">
+          
+          <li><a href="/pages/customer-reviews">Customer Reviews</a></li>
+          
+          <li><a href="/pages/style-reviews">Style Reviews</a></li>
+          
+        </ul>
       </li>
       
       
       <li class="fr">
-        <form id="search_form" class="searchform" name="search" action="/search">
+        <form id="search_form" class="searchform" name="search" action="/pages/search-results">
           
-          <input type="text" class="replace" name="q" value="Search...">
+          <input type="text" class="replace" name="q" value="Search the store...">
           
         </form>
       </li>
+          <!--   
+            
+
+
+<li class="fr dropdown colored-menu">
+  <a href="http://www.thekewlshop.com/account/login" title="">Sign In</a>
+  <ul class="dropdown">
+    
+    <li>
+      <a href="http://www.thekewlshop.com/account/login" title="">Log in</a>
+    </li>
+    
+    <li>
+      <a href="http://www.thekewlshop.com/account/register" title="">Create an account</a>
+    </li>
+            
+  </ul>
+</li>
+
+
+
+           -->
     </ul>
   </nav>
-
+    
   <section id="body" class="clearfix">
     
     <div class="sidebar">
+        
+       
       
-
-
-<nav>
-  <span class="heading">SHOP NOW</span>
-  <ul id="left-menu" class="other-sidebar">
-    
-      
+      <nav>
+  		<span class="heading">Customer Services</span>
+  			<ul id="left-menu" class="leggings-sidebar">
+     		
+      		  
   
-    <li class="whats-new"><a href="/collections/whats-new">What's New</a></li>
-  
-
-
     
-      
-      
-    <li class="clothes">
-      
-        <span>Clothes</span>
-      
-      <ul class="subcategory">
-        
-        
-        <li class="view-all">                
-            <a href="/collections/all-women-clothes" alt="">View All</a>
-        </li>
-
-        
-        
-        <li class="bandage-dresses">                
-            <a href="/collections/bandage-dresses" alt="Bandage Dresses">Bandage Dresses</a>
-        </li>
-
-        
-        
-        <li class="dresses">                
-            <a href="/collections/dresses" alt="">Dresses</a>
-        </li>
-
-        
-        
-        <li class="coats-jackets">                
-            <a href="/collections/coats-jackets" alt="">Coats &amp; Jackets</a>
-        </li>
-
-        
-        
-        <li class="leggings">                
-            <a href="/collections/amazing-leggings" alt="">Leggings</a>
-        </li>
-
-        
-        
-        <li class="denim">                
-            <a href="/collections/denim-women" alt="">Denim</a>
-        </li>
-
-        
-        
-        <li class="skirts">                
-            <a href="/collections/skirts" alt="">Skirts</a>
-        </li>
-
-        
-        
-        <li class="tops-tshirts">                
-            <a href="/collections/tops-and-tshirts" alt="">Tops &amp; Tshirts</a>
-        </li>
-
-        
-        
-        <li class="long-sleeve-tops">                
-            <a href="/collections/long-sleeve-tops" alt="">Long Sleeve Tops</a>
-        </li>
-
-        
-        
-        <li class="swim-wear">                
-            <a href="/collections/swimwear" alt="">Swim Wear</a>
-        </li>
-
-        
-      </ul>
-    </li>
+    <li class="24-7-customer-service"><a href="/pages/customer-service">24/7 Customer Service</a></li>
   
 
-
+    		
+      		  
+  
     
-      
-      
-    <li class="shoes">
-      
-        <span>Shoes</span>
-      
-      <ul class="subcategory">
-        
-        
-        <li class="view-all">                
-            <a href="/collections/all-women-shoes" alt="">View All</a>
-        </li>
-
-        
-        
-        <li class="pump-shoes">                
-            <a href="/collections/pumped-shoes" alt="">Pump Shoes</a>
-        </li>
-
-        
-        
-        <li class="sexy-boots">                
-            <a href="/collections/sexy-boots" alt="">Sexy Boots</a>
-        </li>
-
-        
-        
-        <li class="perfect-flat-shoes">                
-            <a href="/collections/perfect-flat-shoes" alt="">Perfect Flat Shoes</a>
-        </li>
-
-        
-      </ul>
-    </li>
+    <li class="order-lookup"><a href="/pages/order-lookup">Order Lookup</a></li>
   
 
-
+    		
+      		  
+  
     
-      
-      
-    <li class="bags">
-      
-        <span>Bags</span>
-      
-      <ul class="subcategory">
-        
-        
-        <li class="view-all">                
-            <a href="/collections/all-women-bags" alt="">View All</a>
-        </li>
-
-        
-        
-        <li class="cross-body-bags">                
-            <a href="/collections/crossbody-bags" alt="">Cross Body Bags</a>
-        </li>
-
-        
-        
-        <li class="shoulder-bags">                
-            <a href="/collections/shoulder-bags" alt="">Shoulder Bags</a>
-        </li>
-
-        
-        
-        <li class="clutch-bags">                
-            <a href="/collections/clutches" alt="">Clutch Bags</a>
-        </li>
-
-        
-        
-        <li class="top-handle-bags">                
-            <a href="/collections/top-handle-bags" alt="">Top Handle Bags</a>
-        </li>
-
-        
-        
-        <li class="hobo-tote-bags">                
-            <a href="/collections/hobo-bags-tote-bags" alt="">Hobo &amp; Tote Bags</a>
-        </li>
-
-        
-        
-        <li class="wallets">                
-            <a href="/collections/wallets" alt="">Wallets</a>
-        </li>
-
-        
-        
-        <li class="bags-under-50">                
-            <a href="/collections/cheap-handbags" alt="">Bags under $50 </a>
-        </li>
-
-        
-      </ul>
-    </li>
+    <li class="free-shipping"><a href="/pages/free-shipping">Free Shipping</a></li>
   
 
-
+    		
+      		  
+  
     
-      
-      
-    <li class="accessories">
-      
-        <span>Accessories</span>
-      
-      <ul class="subcategory">
-        
-        
-        <li class="view-all">                
-            <a href="/collections/all-accessories" alt="">View All</a>
-        </li>
-
-        
-        
-        <li class="fashion-jewelry">                
-            <a href="/collections/jewelry" alt="">Fashion Jewelry</a>
-        </li>
-
-        
-        
-        <li class="watches">                
-            <a href="/collections/watches" alt="">Watches</a>
-        </li>
-
-        
-        
-        <li class="eternity-rings">                
-            <a href="/collections/infinity-rings" alt="">Eternity Rings</a>
-        </li>
-
-        
-      </ul>
-    </li>
+    <li class="returns"><a href="/pages/returns">Returns</a></li>
   
 
-
+    		
+      		  
+  
     
-      
-      
-    <li class="kids">
-      
-        <span>Kids</span>
-      
-      <ul class="subcategory">
-        
-        
-        <li class="view-all">                
-            <a href="/collections/all-babies-kids" alt="">View All</a>
-        </li>
-
-        
-        
-        <li class="baby-girl">                
-            <a href="/collections/baby-girl-clothes" alt="">Baby Girl</a>
-        </li>
-
-        
-        
-        <li class="baby-boy">                
-            <a href="/collections/baby-boy-clothes" alt="">Baby Boy</a>
-        </li>
-
-        
-        
-        <li class="toddler-girls">                
-            <a href="/collections/baby-clothes-toddler-girls" alt="">Toddler Girls</a>
-        </li>
-
-        
-        
-        <li class="toddler-boys">                
-            <a href="/collections/baby-clothes-toddler-boys" alt="">Toddler Boys</a>
-        </li>
-
-        
-        
-        <li class="funky-baby-kids">                
-            <a href="/collections/funky-baby-and-kids" alt="">Funky Baby &amp; Kids</a>
-        </li>
-
-        
-        
-        <li class="diaper-bags">                
-            <a href="/collections/diaper-bags" alt="">Diaper Bags</a>
-        </li>
-
-        
-        
-        <li class="cool-mum-stuff">                
-            <a href="/collections/mum-stuff" alt="">Cool Mum Stuff</a>
-        </li>
-
-        
-      </ul>
-    </li>
+    <li class="faq"><a href="/pages/faq">FAQ</a></li>
   
 
-
+    		
+      		  
+  
     
-      
-      
-    <li class="guys-stuff">
-      
-        <span>Guys Stuff</span>
-      
-      <ul class="subcategory">
-        
-        
-        <li class="view-all">                
-            <a href="/collections/all-guys-stuff" alt="">View All</a>
-        </li>
-
-        
-        
-        <li class="hoodies">                
-            <a href="/collections/hoodies" alt="">Hoodies</a>
-        </li>
-
-        
-        
-        <li class="coats-jackets">                
-            <a href="/collections/coats-and-jackets-men" alt="">Coats &amp; Jackets</a>
-        </li>
-
-        
-        
-        <li class="bags-for-men">                
-            <a href="/collections/bags-for-men" alt="">Bags for Men</a>
-        </li>
-
-        
-        
-        <li class="watches">                
-            <a href="/collections/watches" alt="">Watches</a>
-        </li>
-
-        
-        
-        <li class="biker-gear">                
-            <a href="/pages/biker-gear" alt="Biker Gear">Biker Gear</a>
-        </li>
-
-        
-        
-        <li class="hys-denim">                
-            <a href="/pages/hys-denim" alt="">HYS Denim</a>
-        </li>
-
-        
-      </ul>
-    </li>
+    <li class="security-privacy"><a href="/pages/security-privacy" class="current">Security &amp; Privacy</a></li>
   
 
-
+    		
+      		  
+  
     
-      
-      
-    <li class="biker-gear">
-      
-        <span>Biker Gear</span>
-      
-      <ul class="subcategory">
-        
-        
-        <li class="view-all">                
-            <a href="/collections/all-biker-gear" alt="">View All</a>
-        </li>
-
-        
-        
-        <li class="jackets">                
-            <a href="/collections/biker-gear-jackets" alt="">Jackets</a>
-        </li>
-
-        
-        
-        <li class="vests">                
-            <a href="/collections/biker-gear-vests" alt="">Vests</a>
-        </li>
-
-        
-        
-        <li class="pants-chaps">                
-            <a href="/collections/biker-gear-pants" alt="">Pants &amp; Chaps</a>
-        </li>
-
-        
-        
-        <li class="bags">                
-            <a href="/collections/biker-gear-bags" alt="Bags">Bags</a>
-        </li>
-
-        
-        
-        <li class="gloves">                
-            <a href="/collections/biker-gear-gloves" alt="">Gloves</a>
-        </li>
-
-        
-        
-        <li class="accessories">                
-            <a href="/collections/biker-gear-accessories" alt="Accessories">Accessories</a>
-        </li>
-
-        
-        
-        <li class="biker-glasses-and-goggles">                
-            <a href="/collections/biker-gear-sunglasses-and-goggles" alt="">Biker Glasses and Goggles</a>
-        </li>
-
-        
-        
-        <li class="helmets-protective-gear">                
-            <a href="/collections/helmets-protective-gear" alt="">Helmets &amp; Protective Gear</a>
-        </li>
-
-        
-        
-        <li class="apparel">                
-            <a href="/collections/biker-gear-apparel" alt="">Apparel</a>
-        </li>
-
-        
-      </ul>
-    </li>
+    <li class="terms-of-use"><a href="/pages/terms-of-use">Terms Of Use</a></li>
   
 
-
+    		
+      		  
+  
     
+    <li class="site-map"><a href="/pages/sitemap">Site Map</a></li>
+  
+
+    		
+ 			 </ul>
+	  </nav>
+      <nav>
+  		<span class="heading">About The Kewl Shop</span>
+  			<ul id="left-menu" class="leggings-sidebar">
+     		
+      		  
+  
+    
+    <li class="about-us"><a href="/pages/about-us">About Us</a></li>
+  
+
+    		
+      		  
+  
+    
+    <li class="contact-us"><a href="/pages/contact-us">Contact Us</a></li>
+  
+
+    		
+      		  
+  
+    
+    <li class="core-principles"><a href="/pages/core-principles">Core Principles</a></li>
+  
+
+    		
+ 			 </ul>
+	  </nav>
       
-  
-    <li class="collections"><a href="/blogs/collections">Collections</a></li>
-  
-
-
-    
       
-  
-    <li class="promotions"><a href="/pages/promotions-at-the-kewl-shop">Promotions</a></li>
-  
+      <div class="third-tab">
+          <!--<div id="mc_embed_signup">
+<form action="https://www.getdrip.com/forms/7873305/submissions" method="post" target="_blank" data-drip-embedded-form="2847">
+ <!--  <h3 data-drip-attribute="headline">It's Holiday Season!</h3>
+  <p data-drip-attribute="description"><div style="text-align: center;"><strong>Get 15% off your order if you buy now!</strong></div>
+<p><p/>
+<div style="text-align: center;">Enter your email below to get your limited time coupon code (valid for 48 hours).</div>
+<br/></p>
+    <div>
+      <label for="fields[name]">Name</label><br /> 
+      <input type="text" name="fields[name]" class="email" value="" placeholder="Name"/><br/>
 
-
-    
-  </ul>
-</nav>
-
-
-<!--BOF of bandage-dress naviagation-->
-
-<!--EOF of bandage-dress naviagation-->
-<!--BOF of pump-shoes naviagation-->
-
-<!--EOF of pump-shoes naviagation-->
-<!--BOF of Leggings naviagation-->
-
-<!--EOF of Leggings naviagation-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div id="y-embedded-widget" class="yotpo embedded-widget" data-appkey="ElKjTQBZsreL5gK3dUyMrzWGNsVH6Ex4nmPg38xY" data-product-id="yotpo_global_reviews" data-layout="pictures" data-width="100" data-reviews="5" data-header-text="RECENT REVIEWS" data-header-background-color="d6d6d6" data-body-background-color="FFFFFF" data-font-size="11" data-font-color="000000"></div>
-<script type="text/javascript">
-//<![CDATA[
-$(document).ready(function () {
-  $('#left-menu > li > span').click(function() {
-
-      $(this).next().slideToggle('slow');
-      $(this).toggleClass('expanded');
-    
-  });
-  $('#left-menu > li > ul > li > span').click(function() {
-
-      $(this).next().slideToggle('slow');
-      $(this).toggleClass('expanded');
-    
-  });
-  $('#left-menu .current').parent().parent().css('display','block');
-  $('#left-menu > li > ul > li > span.current').next().css('display','block');
-    
-  $( "#embedded_widget .embedded_widget_header" ).live( "click", function() {
-    window.location = '/pages/customer-reviews';
-  });
-
-});
-//]]>  
-</script>
-
-<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FTheKewlShop&amp;width=230&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:230px; height:290px;" allowtransparency="true"></iframe>
-
+      <input type="text" name="fields[email]" value="" class="email" placeholder="Email"/><br/>
+ 
+    <input type="submit" name="submit" value="Get 15% Off Now" data-drip-attribute="sign-up-button" class="button"/>
+</form></div>-->
+<div id="signup">
+<form action="https://www.getdrip.com/forms/7873305/submissions" method="post" target="_blank" data-drip-embedded-form="2847">
+    <div>
+     
+      <input type="text" name="fields[name]" value="" placeholder="First Name">
     </div>
+    <div>
+    
+      <input type="text" name="fields[email]" value="" placeholder="Enter Email">
+    </div> 
+  <div>
+   
+    <input type="submit" name="submit" value="Get Discounts Now!" data-drip-attribute="sign-up-button">
+  </div>
+</form></div>
+      </div>
+      
+    </div>
+    
+    
+    
     
     <div class="main ">
       
+       
       
 <div id="breadcrumb" class="clearfix">
   <a href="/">Home</a><span class="divider">»</span>
@@ -957,9 +974,12 @@ $(document).ready(function () {
 
       
       
-      <div id="page" class="clearfix">
+      
+      
+<div id="page" class="clearfix">
   <div class="details clearfix">
     <h1 class="title">Security &amp; Privacy</h1>
+    
   </div>
   <div class="content">
     <p><span>This policy sets out how The Kewl Shop uses and protects any information that you give The Kewl Shop when you use this website.</span></p>
@@ -1000,11 +1020,7 @@ $(document).ready(function () {
 <ul>
 <ul>
 <li><span>whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes</span></li>
-<li><span>if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at <a href="https://thekewlshop.myshopify.com/admin/pages/us@thekewlshop.com">us@thekewlshop.com<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script></a></span></li>
+<li><span>if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at us@thekewlshop.com</span></li>
 </ul>
 </ul>
 </ul>
@@ -1061,52 +1077,72 @@ jQuery(function() {
 </script>
       
     </div>
+    
+
+<!-- 
+ -->
+    
   </section> <!-- /#body -->
 
-  <footer class="clearfix">    
+  <footer class="clearfix"> 
+     
     <nav class="main">      
       <div class="footer-links-wrapper">      
         <div class="subscribe-mailchip">
-        <div id="mc_embed_signup">
-<form action="http://thekewlshop.us7.list-manage2.com/subscribe/post?u=cce7928c8101787c62229f6d0&amp;id=6fb51b5612" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">	
-	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Enter your email" required="">
-	<input type="submit" value="Join" name="subscribe" id="mc-embedded-subscribe" class="button">
-</form>
-</div>
+        
+<div id="mc_embed_signup">
+<form action="https://www.getdrip.com/forms/7873305/submissions" method="post" target="_blank" data-drip-embedded-form="2847">
+<input type="text" name="fields[email]" value="" class="email" placeholder="Enter Email">
+ 
+    <input type="submit" name="submit" value="Get Discounts Now" data-drip-attribute="sign-up-button" class="button"><br>
 
-<!--End mc_embed_signup-->
+</form></div>
+
       </div>
       <div class="clear"></div>      
               <div class="footer-customer-srveices footer-links-set">
         <span>Customer Services</span>
         <ul class="footer-links">
           
-          <li><a href="/pages/contact-us">Contact Us</a></li>
+          <li><a href="/pages/customer-service">24/7 Customer Service</a></li>
           
-          <li><a href="/pages/order-lookup">Order Status</a></li>
+          <li><a href="/pages/order-lookup">Order Lookup</a></li>
           
           <li><a href="/pages/free-shipping">Free Shipping</a></li>
           
           <li><a href="/pages/returns">Returns</a></li>
           
-          <li><a href="/pages/faq">FAQ's</a></li>
+          <li><a href="/pages/faq">FAQ</a></li>
           
-          <li><a class="active" href="/pages/security-privacy">Security and Privacy</a></li>
+          <li><a class="active" href="/pages/security-privacy">Security &amp; Privacy</a></li>
+          
+          <li><a href="/pages/terms-of-use">Terms Of Use</a></li>
+          
+          <li><a href="/pages/sitemap">Site Map</a></li>
           
         </ul>
       </div>
-      
+
       <div class="about-the-kewl-shop footer-links-set">
         <span>About The Kewl Shop</span>
         <ul class="footer-links">
           
           <li><a href="/pages/about-us">About Us</a></li>
           
+          <li><a href="/pages/contact-us">Contact Us</a></li>
+          
           <li><a href="/pages/core-principles">Core Principles</a></li>
           
-          <li><a href="/pages/customer-reviews">Customer Reviews</a></li>
+        </ul>
+      </div>
+
+      <div class="product-services footer-links-set">
+        <span>Product Services</span>
+        <ul class="footer-links">
           
-          <li><a href="https://thekewlshop.refersion.com/">Affiliates</a></li>
+          <li><a href="/pages/wholesale-bandage-dresses">Wholesale &amp; Drop Ship</a></li>
+          
+          <li><a href="/pages/bandage-dress-size-chart">Size Chart - Bandage Dresses</a></li>
           
         </ul>
       </div>
@@ -1115,27 +1151,19 @@ jQuery(function() {
         <span>Explore The Kewl Shop</span>
         <ul class="footer-links">
           
+          <li><a href="/pages/customer-reviews">Customer Reviews</a></li>
+          
+          <li><a href="/collections/whats-new">What's New</a></li>
+          
           <li><a href="/pages/promotions-at-the-kewl-shop">Promotions</a></li>
           
-          <li><a href="http://www.thekewlshop.com/blogs/news">Blog</a></li>
+          <li><a href="/collections/clearance">Clearance</a></li>
           
-          <li><a href="/blogs/collections">Collections</a></li>
+          <li><a href="/pages/the-bandage-dress-report">The Bandage Dress Report</a></li>
           
-          <li><a href="http://www.thekewlshop.com/collections/whats-new">What's New</a></li>
+          <li><a href="/blogs/news">The Plug Blog</a></li>
           
-          <li><a href="/pages/fashion-clothing">Clothes</a></li>
-          
-          <li><a href="/pages/cool-shoes">Shoes</a></li>
-          
-          <li><a href="/pages/fashion-bags">Bags</a></li>
-          
-          <li><a href="/pages/clothing-accessories">Accessories</a></li>
-          
-          <li><a href="/pages/toddler-and-baby-clothes">Kids</a></li>
-          
-          <li><a href="/pages/guys-stuff">Guys Stuff</a></li>
-          
-          <li><a href="/pages/biker-gear">Biker Gear</a></li>
+          <li><a href="/pages/fashion-designers-scholarship">Scholarship</a></li>
           
         </ul>
       </div>
@@ -1143,17 +1171,15 @@ jQuery(function() {
         <span>Best Sellers</span>
         <ul class="footer-links">
           
-          <li><a href="http://www.thekewlshop.com/collections/bandage-dresses">Bandage Dresses</a></li>
+          <li><a href="/collections/new-bandage-dresses">Bandage Dresses</a></li>
           
-          <li><a href="http://www.thekewlshop.com/collections/dresses">Dresses</a></li>
+          <li><a href="/collections/swimwear">Swim Wear</a></li>
           
-          <li><a href="http://www.thekewlshop.com/collections/pumped-shoes">Pump Shoes</a></li>
+          <li><a href="/collections/amazing-leggings">Leggings</a></li>
           
-          <li><a href="http://www.thekewlshop.com/collections/amazing-leggings">Leggings</a></li>
+          <li><a href="/collections/dresses">Other Dresses</a></li>
           
-          <li><a href="http://www.thekewlshop.com/collections/all-women-bags">Fashion Bags</a></li>
-          
-          <li><a href="/products/gift-card">Gift Cards</a></li>
+          <li><a href="/products/gift-card">Gift Card</a></li>
           
         </ul>
       </div>      
@@ -1161,15 +1187,15 @@ jQuery(function() {
         <span>Find Us On</span>
         <ul class="footer-links find-us-on">
           
-          <li class="instagram"><a href="http://www.facebook.com/thekewlshop"></a></li>
+          <li class="instagram"><a target="_blank" href="http://instagram.com/thekewlshopofficial"></a></li>
           
-          <li class="google"><a href="https://plus.google.com/107155023737045308535/posts"></a></li>
+          <li class="google"><a target="_blank" href="https://plus.google.com/107155023737045308535/posts"></a></li>
           
-          <li class="pinterest"><a href="http://www.pinterest.com/thekewlshop/"></a></li>
+          <li class="pinterest"><a target="_blank" href="http://www.pinterest.com/thekewlshop/"></a></li>
           
-          <li class="twitter"><a href=" https://twitter.com/thekewlshop"></a></li>
+          <li class="twitter"><a target="_blank" href=" https://twitter.com/thekewlshop"></a></li>
           
-          <li class="facebook"><a href="http://www.facebook.com/thekewlshop"></a></li>
+          <li class="facebook"><a target="_blank" href="http://www.facebook.com/thekewlshop"></a></li>
           
         </ul>
         <!-- <div id="y-badges" class="yotpo badge badge-init"></div> -->
@@ -1179,9 +1205,18 @@ jQuery(function() {
     <div class="clear"></div>    
       
     </nav>
+    
     <div class="details clearfix">
+      <div class="norton">
+        <table width="140" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications.">
+          <tbody><tr>
+            <td width="140" align="center" valign="top"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.thekewlshop.com&amp;size=L&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script><br>
+            <a class="ssl-link" href="http://www.symantec.com/ssl-certificates" target="_blank" style="color:#4B525D; text-decoration:none; font: bold 9px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px; float:left;">ABOUT SSL CERTIFICATES</a></td>
+          </tr>
+        </tbody></table>
+      </div>
       <div class="fl subtext" style="top:0px !important;">
-        Copyright © 2013 The Kewl Shop 
+        Copyright © 2015 The Kewl Shop 
         | All prices in USD 
          
         
@@ -1189,15 +1224,16 @@ jQuery(function() {
       <div class="fr">
         <nav>
           <ul class="cc clearfix">
-            <li><img src="//cdn.shopify.com/s/files/1/0145/1162/t/2/assets/cc-visa.gif?53922" alt="Visa"></li>
-            <li><img src="//cdn.shopify.com/s/files/1/0145/1162/t/2/assets/cc-mastercard.gif?53922" alt="MasterCard"></li>
-            <li><img src="//cdn.shopify.com/s/files/1/0145/1162/t/2/assets/cc-amex.gif?53922" alt="Amex"></li>
+            <li><img src="//cdn.shopify.com/s/files/1/0145/1162/t/36/assets/cc-visa.gif?75987681876262822" alt="Visa"></li>
+            <li><img src="//cdn.shopify.com/s/files/1/0145/1162/t/36/assets/cc-mastercard.gif?75987681876262822" alt="MasterCard"></li>
+            <li><img src="//cdn.shopify.com/s/files/1/0145/1162/t/36/assets/cc-amex.gif?75987681876262822" alt="Amex"></li>
             
             
             
             
-            <li><img src="//cdn.shopify.com/s/files/1/0145/1162/t/2/assets/cc-paypal.gif?53922" alt="PayPal"></li>            
+            <li><img src="//cdn.shopify.com/s/files/1/0145/1162/t/36/assets/cc-paypal.gif?75987681876262822" alt="PayPal"></li>            
             <li class="worldpay-logo"><a href="http://www.worldpay.com/" target="_blank" title="Payment Processing - WorldPay - Opens in new browser window"><img src="http://www.worldpay.com/images/poweredByWorldPay.gif" border="0" alt="WorldPay Payments Processing"></a></li>
+            <li class="worldpay-logo"><a target="_blank" href="https://signifyd.com/?utm_source=customer&amp;utm_medium=badge&amp;utm_campaign=badge"><img src="//assets.signifyd.com/assets/images/signifyd-badge-light.png" alt="Signifyd | Fraud Protection and Chargeback Prevention for eCommerce"></a></li>
           </ul>
         </nav>
       </div>      
@@ -1210,29 +1246,11 @@ var b=document.getElementsByTagName("script")[0];
 a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0017/8602.js?"+Math.floor(new Date().getTime()/3600000);
 a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 </script>
-
     
-<!-- ClickTale Bottom part -->
-
-<script type="text/javascript">
-// The ClickTale Balkan Tracking Code may be programmatically customized using hooks:
-// 
-//   function ClickTalePreRecordingHook() { /* place your customized code here */  }
-//
-// For details about ClickTale hooks, please consult the wiki page http://wiki.clicktale.com/Article/Customizing_code_version_2
-
-document.write(unescape("%3Cscript%20src='"+
-(document.location.protocol=='https:'?
-"https://clicktalecdn.sslcs.cdngc.net/www07/ptc/668f4ffb-6904-4af2-86b5-362663b40eeb.js":
-"http://cdn.clicktale.net/www07/ptc/668f4ffb-6904-4af2-86b5-362663b40eeb.js")+"'%20type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://clicktalecdn.sslcs.cdngc.net/www07/ptc/668f4ffb-6904-4af2-86b5-362663b40eeb.js" type="text/javascript"></script>
-
-<!-- ClickTale end of Bottom part -->
-
 <!-- Google Code for Remarketing Tag -->
-<!--------------------------------------------------
+<!--
 Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
---------------------------------------------------->
+-->
 <script type="text/javascript">
   
     var google_tag_params = {
@@ -1273,497 +1291,143 @@ var google_remarketing_only = true;
 </div>
 </noscript>
   
+<!-- Google Code for Remarketing Tag End -->
+   
+<!--<script async type="text/javascript" src="//www.yotpo.com/js/yQuery.js"></script> -->
+
+<script src="//cdn.shopify.com/s/files/1/0145/1162/t/36/assets/modernizr.js?75987681876262822" type="text/javascript"></script>
+
+<script src="//cdn.shopify.com/s/files/1/0145/1162/t/36/assets/jquery.cookie.js?75987681876262822" type="text/javascript"></script>
+<input type="hidden" name="_pc_params" value="thekewlshop.myshopify.com:">
 
 
-<!-- Google Code for Remarketing Tag End-->
+
+
+
+
+<script type="text/javascript">
+window.sloyalty = window.sloyalty || {};
+window.sloyalty.shop = 'www.thekewlshop.com';
+
+window.sloyalty.customer_id = '';
+window.sloyalty.digest = '';
+
+</script>
+
+
+
+
+  
+
+
+
+<div class="sloyalty-loyalty-widget" data-shop="www.thekewlshop.com" data-version="3" data-widget-css="bottom:0px;left:20px;" data-overlay-css=""></div>
+
+
+
+
+
+
+<div class="sloyalty-referral-widget" data-shop="www.thekewlshop.com" data-customer=""></div>
+
+
+
+
+
+
+
+<div class="sloyalty-standalone-share-widget" data-shop="www.thekewlshop.com" data-customer=""></div>
+
+
+
+
+
+
+
+<div class="sloyalty-fans-widget" data-shop="www.thekewlshop.com" data-customer=""></div>
+
+
+
   
 
   
-<!-- SpurIT_Wishlist_Include -->
-<script>!window.jQuery && document.write('<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"><\/script>')</script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-<link href="//cdn.shopify.com/s/files/1/0145/1162/t/2/assets/basic.css?53922" rel="stylesheet" type="text/css" media="all">
-<script src="//cdn.shopify.com/s/files/1/0145/1162/t/2/assets/jquery.simplemodal.js?53922" type="text/javascript"></script>
-<script type="text/javascript">
-var buttonElementProduct = jQuery('<input />').attr({
-    'class': 'add-to-wishlist-btn',
-    'type': 'button',
-    'name': '',
-    'id': 'add-to-wishlist',
-    'value': 'Add to Wishlist',
-    'rel': ''
+
+<script> if (document.getElementById("archive") != null) { document.getElementById("archive").onchange = function() { if (this.selectedIndex!==0) { window.location.href = this.value; } } } </script>
+  <script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'thekewlshop'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+    </script>
+
+      <script id="SPI-CONFIG-SCRIPT">
+                        
+                        
+                    </script>  
+    <script>
+  jQuery(document).ready(function(){
+if ((typeof myShopify) === 'undefined') {
+  myShopify = {};
+}
+
+myShopify.addItem = function(id, qty, cb) {
+  var query = {
+    'type': 'POST',
+    'url': '/cart/add.js',
+    'data': 'quantity=' + qty + '&id=' + id,
+    'dataType': 'json',
+    success: function(response){
+      cb(response);
+    },
+    error: function(response){
+      response = jQuery.parseJSON(response.responseText);
+      cb(response);
+    }
+  }
+
+  $.ajax(query);
+}
+
+myShopify.getCart = function(cb){
+  var query = {
+    type: 'POST',
+    url: '/cart.js',
+    dataType: 'json',
+    complete: function(response){
+      var cart = $.parseJSON(response.responseText);
+      if(typeof(cb === "function")){
+        cb(cart);
+      }
+    }
+  }
+  jQuery.ajax(query);
+}
+
+
 });
-
-var buttonElement = jQuery('<input />').attr({
-    'class': 'add-to-wishlist-btn-image',
-    'type': 'button',
-    'name': 'wishlist',
-    'id': 'add-to-wishlist',
-    'value': '',
-    'title': 'Add to Wishlist'
-});
-
-//My Wishlist Link
-var linkWishlist = '/pages/wishlist';
-var customerId = '';
-if (1 && customerId == '') {
-    linkWishlist = '/account';
-}
-var linkElement = jQuery('<a>').attr({
-    'id': 'my-wishlist-count',
-    'href': linkWishlist
-}).html('My Wishlist'); 
-if (jQuery('#wishlist-link').length > 0) {
-    jQuery('#wishlist-link').append(linkElement);
-} else {
-    if (jQuery("li.cart-link").length > 0) {
-        var li = jQuery('<li>').attr({
-            'id': 'wishlist-link'
-        });
-        li.append(linkElement);
-        jQuery("li.cart-link").before(li);
-    }
-}
-//Product Page
-if (jQuery('#p-wishlist-product').length > 0) {
-    jQuery('#p-wishlist-product').append(buttonElementProduct);
-} else {
-    if (jQuery("form#product-actions").length > 0) {
-        var pElementProduct = jQuery('<p>').attr({
-            'class': 'p-float',
-            'id': 'p-wishlist-product'
-        });
-        jQuery("form#product-actions").after(pElementProduct);
-        jQuery(pElementProduct).append(buttonElementProduct);
-    }
-}
-//Other Page
-if (1) {
-    if (jQuery('p#p-wishlist').length > 0) {
-        jQuery('p#p-wishlist').append(buttonElement);
-    } else {
-        if (jQuery("div.product-information").length > 0) {
-            var pElement = jQuery('<p>').attr({
-                'class': 'p-float',
-                'id': 'p-wishlist',
-            });
-            jQuery("div.product-information").prepend(pElement);
-            jQuery("p#p-wishlist").append(buttonElement);
-        }
-    }
-}
-
-var appDomain = 'http://wishlist.shopfrogs.com/wishlist/call/';
-var userId = 0;
-var customerFN='';
-var customerLN='';
-var checkout = '1';
-var customer = '';
-var productId = 0;
-var currency = "${{amount}}";
-jQuery(function ($) {
-    // Load dialog on click
-    $('input#add-to-wishlist').click(function (e) {
-        if (1 && customer == '') {
-            window.location = '/account/login/whish';
-        } else {
-            if ($(this).attr('name') == 'wishlist') {
-                productId = $(this).prev().val();
-                productHandle = $(this).prev().attr('id');
-            } else {
-                productId = $(this).attr('name');
-                productHandle = $(this).attr('rel');
-            }
-            $('input#productId').val(productId);
-            $('input#productId').attr('class', productHandle);
-            loadCategories(userId, $('div#categories'), 0);
-        }
-        return false;
-    });
-});
-
-function showModalForm() {
-    $('#basic-modal-content').modal({overlayClose:true});
-}
-
-function closeModalForm() {
-    $.modal.close();
-}
-
-function loadCategories(user, object, type) {
-    loading('show');
-    var categories;
-    var json = $.getJSON(appDomain + "getcategories?jsoncallback=?", {
-            format: 'json',
-            customer: user,
-            fn: customerFN,
-            ln: customerLN,
-            product: productId,
-            shop: 'thekewlshop.myshopify.com',
-            type: type
-        },
-        function(data) {
-            object.html('');
-            loading('hide');
-            if (data.status == 200) {
-                object.append(data.value);
-                if (!type) showModalForm();
-                else {
-                    $('ul#navlist-wishlist a#current').click();
-                    $("span.delete-wishlist").click(function(event){
-                        event.stopPropagation();
-                        //delete wishlist
-                        if (confirm("Do you want to delete this wishlist?")) {
-                            deleteWishlist($(this).attr('id'));
-	                    } else {
-	                        return;
-	                    }                        
-                    });                     
-                }
-            } else if (data.status == 300) {
-                alert(data.message);
-                return;
-            } else {
-                object.html('Categories not found');
-                if (!type) showModalForm();
-            }
-    });
-}
-
-function setCookie(name, value, expires, path, domain, secure) {
-    if (!name || !value) return false;
-    var str = name + '=' + encodeURIComponent(value);
     
-    if (expires) str += '; expires=' + expires.toGMTString();
-    if (path)    str += '; path=' + path;
-    if (domain)  str += '; domain=' + domain;
-    if (secure)  str += '; secure';
-    
-    document.cookie = str;
-    return true;
-}
-
-function getCookie(name) {
-    var pattern = "(?:; )?" + name + "=([^;]*);?";
-    var regexp  = new RegExp(pattern);
-    
-    if (regexp.test(document.cookie))
-        return decodeURIComponent(RegExp["$1"]);
-    
-    return false;
-}
-
-if (1 == 0) {
-        userId = getCookie('questId');
-        customerFN = '';
-        customerLN = 'Guest';            
-        if (!userId) {
-            var domain = 'thekewlshop.myshopify.com';
-            $.getJSON(appDomain + "cookie?format=json&shop="+domain+"&jsoncallback=?",
-                function(data){
-                    var today = new Date();
-                    var days = 365*2; //Two year
-                    today.setTime(today.getTime()+(days*24*60*60*1000));
-                    setCookie('questId', data.id, today, '/', 'www.thekewlshop.com');
-		    userId = getCookie('questId');
-                }
-            );
-        }
-} else {
-    userId = '';
-    customerFN = '';
-    customerLN = '';
-}
-
-function createWishlist(title){
-    closeMessage();
-    $.getJSON(appDomain + "createwishlist?jsoncallback=?",
-        {
-            format: 'json',
-            title: title,
-            customer: userId,
-            fn: customerFN,
-            ln: customerLN,
-            shop: 'thekewlshop.myshopify.com'
-        },
-        function(data){
-            if (data.status == 200) {
-                loadCategories(userId, $('div#nav-wishlist'), 1);
-            } else if (data.status == 300) {
-                $('p#add-to-cart-msg-wishlist').hide().addClass('success').html(data.message + '<span style="float: right"><a href="javascript:void(0)" onclick="closeMessage()">close</a></span>').fadeIn();
-            }
-        }
-    );
-}
-
-function deleteWishlist(wishlistId) {
-    $.getJSON(appDomain + "deletewishlist?jsoncallback=?",
-        {
-            format: 'json',
-            wishlist: wishlistId,
-            customer: userId,
-            shop: 'thekewlshop.myshopify.com'
-        },
-        function(data){
-            if (data.status == 200) {
-                loadCategories(userId, $('div#nav-wishlist'), 1);
-            } else if (data.status == 300) {
-                $('p#add-to-cart-msg-wishlist').hide().addClass('success').html(data.message + '<span style="float: right"><a href="javascript:void(0)" onclick="closeMessage()">close</a></span>').fadeIn();
-            }
-        }
-    );
-}
-
-function deleteSelected(wishlist) {
-    var selected = new Array();
-    $("input:checkbox.checkbox:checked").each(function() {
-       selected.push($(this).val());
-    });    
-    if (selected.length) {
-        if (confirm("Do you want to delete selected items?")) {
-            deleteProduct(selected, wishlist);
-        } else {
-            return;
-        }         
-    } else 
-        return;
-}
-
-function deleteItem(productId, wishlist) {
-    //delete Product
-    if (confirm("Do you want to delete this product?")) {
-        var selected = new Array();
-        selected.push(productId);
-        deleteProduct(selected, wishlist);
-    } else {
-        return;
-    }     
-}
-
-function deleteProduct(productId, wishlist) {
-    $.getJSON(appDomain + "deleteproduct?jsoncallback=?",
-        {
-            format: 'json',
-            wishlist: wishlist.attr('class'),
-            product: productId,
-            customer: userId,
-            shop: 'thekewlshop.myshopify.com'
-        },
-        function(data){
-            if (data.status == 200) {
-                loadTabProducts(wishlist);
-            } else if (data.status == 300) {
-                $('p#add-to-cart-msg-wishlist').hide().addClass('success').html(data.message + '<span style="float: right"><a href="javascript:void(0)" onclick="closeMessage()">close</a></span>').fadeIn();
-            }
-        }
-    );    
-}
-
-function moveSelected(wishlist) {
-    var selected = new Array();
-    $("input:checkbox.checkbox:checked").each(function() {
-       selected.push($(this).val());
-    });    
-    if (selected.length) {
-        if (confirm("Do you want to move selected items?")) {
-            loading('show');
-            $.getJSON(appDomain + "moveproduct?jsoncallback=?",
-            {
-                format: 'json',
-                wishlist: wishlist.attr('class'),
-                product: selected,
-                customer: userId,
-                shop: 'thekewlshop.myshopify.com',
-                wishlistNew: $('select[id=all-items]').val()
-            },
-            function(data){
-                if (data.status == 200) {
-                    loadTabProducts(wishlist);
-                } else {
-                    $('p#add-to-cart-msg-wishlist').hide().addClass('success').html(data.message + '<span style="float: right"><a href="javascript:void(0)" onclick="closeMessage()">close</a></span>').fadeIn();
-                    loading('hide');
-                }
-            }
-            );
-        } else {
-            return;
-        }         
-    } else 
-        return;
-}
-
-function move(productId, wishlist) {
-    loading('show');
-    $.getJSON(appDomain + "moveproduct?jsoncallback=?",
-        {
-            format: 'json',
-            wishlist: wishlist.attr('class'),
-            product: productId,
-            customer: userId,
-            shop: 'thekewlshop.myshopify.com',
-            wishlistNew: $('select[id='+productId+']').val()
-        },
-        function(data){
-            if (data.status == 200) {
-                loadTabProducts(wishlist);
-            } else {
-                $('p#add-to-cart-msg-wishlist').hide().addClass('success').html(data.message + '<span style="float: right"><a href="javascript:void(0)" onclick="closeMessage()">close</a></span>').fadeIn();
-                loading('hide');
-            }
-        }
-    );    
-}
-
-function copySelected(wishlist) {
-    var selected = new Array();
-    $("input:checkbox.checkbox:checked").each(function() {
-       selected.push($(this).val());
-    });    
-    if (selected.length) {
-        if (confirm("Do you want to copy selected items?")) {
-            loading('show');
-            $.getJSON(appDomain + "copyproduct?jsoncallback=?",
-            {
-                format: 'json',
-                wishlist: wishlist.attr('class'),
-                product: selected,
-                customer: userId,
-                shop: 'thekewlshop.myshopify.com',
-                wishlistNew: $('select[id=all-items]').val()
-            },
-            function(data){
-                if (data.status) {
-                    $('p#add-to-cart-msg-wishlist').hide().addClass('success').html(data.message + '<span style="float: right"><a href="javascript:void(0)" onclick="closeMessage()">close</a></span>').fadeIn();
-                }
-                loading('hide');
-            }
-            ); 
-        } else {
-            return;
-        }         
-    } else 
-        return;
-}
-
-function copy(productId, wishlist) {
-    loading('show');
-    $.getJSON(appDomain + "copyproduct?jsoncallback=?",
-        {
-            format: 'json',
-            wishlist: wishlist.attr('class'),
-            product: productId,
-            customer: userId,
-            shop: 'thekewlshop.myshopify.com',
-            wishlistNew: $('select[id='+productId+']').val()
-        },
-        function(data){
-            if (data.status) {
-                $('p#add-to-cart-msg-wishlist').hide().addClass('success').html(data.message + '<span style="float: right"><a href="javascript:void(0)" onclick="closeMessage()">close</a></span>').fadeIn();
-            }
-            loading('hide');
-        }
-    );    
-}
-
-function addNote(el, wishlistId){
-    loading('show');
-    var element = $(el);
-    closeMessage();
-    $.getJSON(appDomain + "addnote?jsoncallback=?",
-        {
-            format: 'json',
-            text: $('#'+element.attr('id')).val(),
-            customer: userId,
-            product: element.attr('id'),
-            wishlist: wishlistId,
-            shop: 'thekewlshop.myshopify.com'
-        },
-        function(data){
-            if (data.status == 200) {
-            } else if (data.status == 300) {
-                $('p#add-to-cart-msg-wishlist').hide().addClass('success').html(data.message + '<span style="float: right"><a href="javascript:void(0)" onclick="closeMessage()">close</a></span>').fadeIn();
-            }
-            loading('hide');
-        }
-    );
-}
-
-function addToWishlist(){
-    $.getJSON(appDomain + "addtowishlist?jsoncallback=?",
-        {
-            format: 'json',
-            category: $('form.select-form input:checked').val(),
-            title: $('input#category-name').val(),
-            customer: userId,
-            fn: customerFN,
-            ln: customerLN,
-            product: $('input#productId').val(),
-            handle: $('input#productId').attr('class'),
-            shop: 'thekewlshop.myshopify.com'
-        },
-        function(data){
-            if (data.status == 200) {
-                if (0)
-                    window.location = '/pages/wishlist';
-                else 
-                    closeModalForm();
-            } else if (data.status == 300) {
-                $('span#resultMessage').html(data.message);
-            }
-        }
-    );
-}
-/*Loading Block*/
-function loading(type) {
-    switch (type) {
-        case 'show':
-            $('div.wl_loading').show().fadeIn();
-            break;
-        case 'hide':
-            $('div.wl_loading').hide().fadeOut();
-            break;            
-    }
-}
+  </script>
+  <script>
+jQuery('a[href^="http"]').not('a[href^="http://www.thekewlshop.com"]').attr('target', '_blank');
 </script>
-
-<div id="basic-modal-content">
-    <h2>Please select a wishlist category</h2>
-        
-    <form class="select-form" onsubmit="javascript: return true;" accept-charset="utf-8" method="post" action="cart.php">
-        <input type="hidden" value="0" id="productId" class="">
-        <div id="categories"></div>
-        <table class="category_wishlist">
-            <tbody><tr>
-                <td width="40%">
-                    <input id="category-new" type="radio" size="45" value="0" name="category">
-                    <b><label for="category-new">or create a new wishlist</label></b>
-                </td>
-                <td>
-                    <input id="category-name" type="text" size="45" name="categoryName">
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <input onclick="addToWishlist()" class="add-to-wishlist-btn" type="button" name="add-wishlist" value="Add to Wishlist">
-                </td>
-                <td>
-                    <span id="resultMessage"></span>
-                </td>                
-            </tr>
-        </tbody></table>
-    </form>
-  <div id="images">
-  </div>
-</div>
-<div class="wl_loading"></div>
-
-<script src="http://ajax.microsoft.com/ajax/jquery.templates/beta1/jquery.tmpl.min.js" type="text/javascript"></script>
-<script src="//cdn.shopify.com/s/files/1/0145/1162/t/2/assets/jquery.products.min.js?53922" type="text/javascript"></script>
-<!-- /SpurIT_Wishlist_Include -->
-<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&"www.cloudflare.com/email-protection"==a.substr(7 ,35)){s='';j=43;r=parseInt(a.substr(j,2),16);for(j+=2;a.length-j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
-/* ]]> */
-</script>
-
+  <script>
+    jQuery(document).ready(function(){  
+  jQuery('.custom-left-content .imgPinWrap').parents('p').hide();
+  jQuery('.custom-left-content .imgPinWrap').parent('div').hide();
+  jQuery('.custom-left-content p').each(function() {
+     var $this = jQuery(this);
+     if($this.html().replace(/\s|&nbsp;/g, '').length == 0)
+         $this.remove();
+  });
+});
+  </script>
+  
+  
 
 </body></html>
