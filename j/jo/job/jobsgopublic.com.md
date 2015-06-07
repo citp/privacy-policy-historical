@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsgopublic.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120130727id_/http%3A//www.jobsgopublic.com/pages/show/cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsgopublic.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142532id_/http%3A//www.jobsgopublic.com/pages/show/cookies) for the most accurate reproduction.*
 
 # cookies | jobsgopublic - Public Sector Jobs and Careers
 
@@ -30,7 +30,7 @@ We may edit this statement and/or our privacy policies and practices at any time
 
 ## Contact Details
 
-If you have any questions or suggestions regarding this statement or believe we are not properly adhering to it, please contact us at [support@jobsgopublic.com](mailto:support@jobsgopublic.com) or call us on 0207 884 3389.
+If you have any questions or suggestions regarding this statement or believe we are not properly adhering to it, please contact us at [support@jobsgopublic.com](mailto:support@jobsgopublic.com) or call us on 020 7427 8250.
 
 ## What are cookies?
 
