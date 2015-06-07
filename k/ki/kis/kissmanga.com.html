@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kissmanga.com privacy policy that was archived on 2014-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141210190057id_/http%3A//kissmanga.com/Message/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kissmanga.com privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608005811id_/http%3A//kissmanga.com/Message/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 Privacy Policy
@@ -47,7 +47,7 @@ Register</a>
 </select>
 <input id="imgSearch" type="image" src="http://kissmanga.com/Content/images/search.png" class="button" onclick="return false;">
 </p>
-<div id="result_box" style="display: none">
+<div id="result_box" style="display: none; margin-top: -3px; max-height: 300px; overflow-y: auto; overflow-x: hidden;">
 </div>
 <div style="float: left; width: 250px; text-align: left; margin-left: 2px">
 <div style="float: left; width: 90px">
@@ -117,7 +117,7 @@ Search</a>
 
                     function Suggest() {
                         var keyword = $.trim($('#keyword').val());
-                        if (keyword != "") {
+                        if (keyword != "" && $.trim($('#keyword').val()).length > 1) {
                             $('#result_box').html("<span id='loader'></span>");
                             $('#result_box').css('display', 'block');
                             $.ajax(
@@ -130,8 +130,7 @@ Search</a>
                                         $('#result_box').html(message);
                                     }
                                     else {
-                                        $('#result_box').html('');
-                                        $('#result_box').css('display', 'none');
+                                        $('#result_box').html('<a href="#" onclick="return false;">Press Enter to search...</a>');
                                     }
                                 }
                             });
@@ -222,12 +221,12 @@ practice or to opt-out of this type of advertising, you can visit <a href="http:
 &nbsp;</div>
 <div style="z-index: 0; position: absolute; top: 220px; left: 0px; width: 100%; height: 768px; overflow: hidden; visibility:hidden">
 <div id="divFloatLeft" style="position: absolute; visibility:visible">
-<a target="_blank" href="http://ninja.joyfun.com/ld_register?tpl=fetters&amp;pn=23&amp;sp=204&amp;ss=skin&amp;ts=9">
-<img border="0" src="http://kissmanga.com/ads/sideskins/121L.jpg"></a>
+<a target="_blank" href="http://ninja.joyfun.com/ld_register?tpl=end&amp;pn=27&amp;sp=204&amp;ss=skin&amp;ts=11">
+<img border="0" src="http://kissmanga.com/ads/sideskins/may/side1/L.jpg"></a>
 </div>
 <div id="divFloatRight" style="position: absolute; visibility:visible">
-<a target="_blank" href="http://ninja.joyfun.com/ld_register?tpl=fetters&amp;pn=23&amp;sp=204&amp;ss=skin&amp;ts=9">
-<img border="0" src="http://kissmanga.com/ads/sideskins/121R.jpg"></a>
+<a target="_blank" href="http://ninja.joyfun.com/ld_register?tpl=end&amp;pn=27&amp;sp=204&amp;ss=skin&amp;ts=11">
+<img border="0" src="http://kissmanga.com/ads/sideskins/may/side1/R.jpg"></a>
 </div>
 </div>
 <script type="text/javascript">
@@ -255,7 +254,7 @@ practice or to opt-out of this type of advertising, you can visit <a href="http:
 <div id="footcontainer" style="position: relative">
 <p>
 From 2011 - 2014 <a href="http://kissmanga.com">KissManga.com</a>. Copyrights and trademarks for the manga, and other promotional materials are held by their respective owners and their use is allowed under the fair use clause of the Copyright Law.
-<a href="/Message/PrivacyPolicy">Privacy Policy</a>
+<a href="/Message/PrivacyPolicy">Privacy Policy</a>&nbsp;|&nbsp;<a href="http://kisscartoon.me/">Watch cartoons online</a>
 &nbsp;&nbsp;</p>
 <div style="position: absolute; left: 200px; top: 20px">
 </div>
