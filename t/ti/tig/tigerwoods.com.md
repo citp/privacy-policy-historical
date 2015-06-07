@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigerwoods.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226100830id_/http%3A//www.tigerwoods.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerwoods.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607154005id_/http%3A//www.tigerwoods.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TigerWoods.com
 
