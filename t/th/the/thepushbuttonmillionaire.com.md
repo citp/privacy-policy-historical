@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepushbuttonmillionaire.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923092926id_/http%3A//thepushbuttonmillionaire.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepushbuttonmillionaire.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607040605id_/http%3A//thepushbuttonmillionaire.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
