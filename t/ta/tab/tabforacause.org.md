@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tabforacause.org privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221075019id_/http%3A//www.tabforacause.org/more/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabforacause.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607035921id_/http%3A//www.tabforacause.org/more/privacy_policy) for the most accurate reproduction.*
 
 # Tab for a Cause
 
