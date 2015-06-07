@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-web-submission.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527132243id_/http%3A//free-web-submission.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-web-submission.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607234716id_/http%3A//www.free-web-submission.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
