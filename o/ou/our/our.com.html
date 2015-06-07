@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the our.com privacy policy that was archived on 2014-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141229115211id_/http%3A//www.our.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the our.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607202913id_/http%3A//www.our.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
         <meta charset="utf-8">
@@ -79,9 +79,21 @@
     font-weight: normal;
     font-style: normal;
 }
+
+@font-face {
+    font-family: 'groboldmedium';
+    src: url('http://www.our.com/fonts/our_grobold-webfont.eot');
+    src: url('http://www.our.com/fonts/our_grobold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://www.our.com/fonts/our_grobold-webfont.woff2') format('woff2'),
+         url('http://www.our.com/fonts/our_grobold-webfont.woff') format('woff'),
+         url('http://www.our.com/fonts/our_grobold-webfont.ttf') format('truetype'),
+         url('http://www.our.com/fonts/our_grobold-webfont.svg#groboldmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
 </style>
         <link rel="stylesheet" href="http://cdn.our.com/css/main.css">
-        <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script src="http://cdn.our.com/js/vendor/modernizr-2.6.2.min.js"></script>
+        <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/sdk.js"></script><script src="http://cdn.our.com/js/vendor/modernizr-2.6.2.min.js"></script>
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script src="http://cdn.our.com/js/main.js"></script> <!-- general functions -->
         
@@ -108,6 +120,7 @@
             window.fbAsyncInit = function() {
                 FB.init({
                   appId      : '161337093903516', // App ID
+                  version    : 'v2.2', // Api Version
                   channelUrl : '//www.our.com/channel.php', // Channel File
                   status     : true, // check login status
                   cookie     : true, // enable cookies to allow the server to access the session
@@ -145,7 +158,7 @@
                var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
                if (d.getElementById(id)) {return;}
                js = d.createElement('script'); js.id = id; js.async = true;
-               js.src = "//connect.facebook.net/en_US/all.js";
+               js.src = "//connect.facebook.net/en_US/sdk.js";
                ref.parentNode.insertBefore(js, ref);
              }(document));
             
@@ -159,7 +172,7 @@
                         // cancelled
                         // alert("cancelado");
                     }
-                },{scope:'user_likes,email,user_birthday'});
+                },{scope:'public_profile,email,user_birthday'});
             }
             
             function fb_validate() {
@@ -168,7 +181,7 @@
                     location.href = 'http://www.our.com/fb_registration.php';
                 });
            	}            // uiSlideHeader
-            var banners = new Array("http://www.our.com/mobile_promotion.php#_blank","http://www.our.com/games/our-bingo/#_self","http://www.our.com/games/our-slots/#_self","http://www.our.com/games/our-bingo/#_self","javascript:showTheFormRegister();#_self");
+            var banners = new Array("http://www.our.com/app/our-slots/#_blank","http://www.our.com/app/our-bingo/#_blank","http://www.our.com/games/our-bingo/#_self","http://www.our.com/games/our-slots/#_self","javascript:showTheFormRegister();#_self");
 
             
             function clickBanner(){
@@ -281,7 +294,7 @@
                         emailToSend = emailToSend.toLowerCase();
                         // Send email via ajax
                         var sessionVarName = 'loginFormKey';
-                        $.post('http://www.our.com/usr_remember_pwd.php',{ email:emailToSend, sessionKey:9383, sessionKeyVarName:sessionVarName} ,function(data) {
+                        $.post('http://www.our.com/usr_remember_pwd.php',{ email:emailToSend, sessionKey:4301, sessionKeyVarName:sessionVarName} ,function(data) {
                              _loginFormRememberSended(true, data);
                         });
                     }
@@ -533,7 +546,7 @@
                         var fbId_param = '';
                         var fbImage_param = '';
                         var vinculateIdUser_param = '';
-                        $.post('http://www.our.com/usr_create.php',{ login:$('#registerLogin').val(), password:$('#registerPassword').val(), email:$('#registerEmail').val(), birthDate:birthDate, gender:$('[name="registerSex"]:checked').val(), sessionKey:9628, from:from, fbId:fbId_param, fbImage:fbImage_param, vinculateIdUser:vinculateIdUser_param} ,function(data) {
+                        $.post('http://www.our.com/usr_create.php',{ login:$('#registerLogin').val(), password:$('#registerPassword').val(), email:$('#registerEmail').val(), birthDate:birthDate, gender:$('[name="registerSex"]:checked').val(), sessionKey:6630, from:from, fbId:fbId_param, fbImage:fbImage_param, vinculateIdUser:vinculateIdUser_param} ,function(data) {
                             if (data.indexOf('yes') == -1 && isNaN(data)) {
                                 // Registration failed !!!!
                                 messageError("There was an error registering user");
@@ -610,7 +623,7 @@
                         emailToSend = emailToSend.toLowerCase();
                         // Send email via ajax
                         var sessionVarName = 'loginFormKey2';
-                        $.post('http://www.our.com/usr_remember_pwd.php',{ email:emailToSend, sessionKey:5476, sessionKeyVarName:sessionVarName} ,function(data) {
+                        $.post('http://www.our.com/usr_remember_pwd.php',{ email:emailToSend, sessionKey:642, sessionKeyVarName:sessionVarName} ,function(data) {
                              _RegisterLoginFormRememberSended(true, data);
                         });
                     }
@@ -718,7 +731,7 @@
                 
                 $('#resendEmail').click(function() {
                     if (id_new_user > 0) {
-                        $.post('http://www.our.com/usr_send_validation_email.php',{ userId:id_new_user, sessionKey:8412} ,function(data) {
+                        $.post('http://www.our.com/usr_send_validation_email.php',{ userId:id_new_user, sessionKey:2316} ,function(data) {
                             if (data == 'yes') {
                                 // Email sended
                                 $('#responsenolocate2').html(message_email_sended + ' ' + email_new_user);
@@ -766,10 +779,10 @@
                             <form name="dummyBanner" id="dummyBanner" action="" target="" method="GET"></form>
             <div id="slideHeader" style="visibility:hidden;">
                 <ul class="bxslider">
-                    <li><img src="http://cdn.our.com/img/web/banners/BINGOMOBILE_EN.jpg"></li>
+                    <li><img src="http://cdn.our.com/img/web/banners/SLOTSMOBILE_EN.jpg"></li>
+<li><img src="http://cdn.our.com/img/web/banners/BINGOMOBILE_EN.jpg"></li>
 <li><img src="http://cdn.our.com/img/web/banners/BINGOPARIS_EN.jpg"></li>
 <li><img src="http://cdn.our.com/img/web/banners/SLOTS_EN.jpg"></li>
-<li><img src="http://cdn.our.com/img/web/banners/BINGOHAWAII_EN.jpg"></li>
 <li><img src="http://cdn.our.com/img/web/banners/REGISTRATE_EN.jpg"></li>
 
                 </ul>
@@ -906,7 +919,8 @@
                             <div><label class="labelField" for="registerEmail">email</label><input type="text" name="registerEmail" id="registerEmail" value=""><div id="registerEmailCondition" class="condition"></div></div>
                             <div class="birthdayFields">
                                 <div class="selectYear"><select name="registerBirthYear" id="registerBirthYear">
-                                    <option value="2000">2000</option>
+                                    <option value="2001">2001</option>
+<option value="2000">2000</option>
 <option value="1999">1999</option>
 <option value="1998">1998</option>
 <option value="1997">1997</option>
@@ -972,7 +986,6 @@
 <option value="1937">1937</option>
 <option value="1936">1936</option>
 <option value="1935">1935</option>
-<option value="1934">1934</option>
 
                                 </select></div>
                                 <div class="selectMonth"><select name="registerBirthMonth" id="registerBirthMonth">
