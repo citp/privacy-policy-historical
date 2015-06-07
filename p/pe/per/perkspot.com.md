@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perkspot.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102034304id_/http%3A//www.perkspot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perkspot.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074504id_/http%3A//www.perkspot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PerkSpot
 
