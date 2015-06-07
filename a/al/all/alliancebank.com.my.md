@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alliancebank.com.my privacy policy that was archived on 2014-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140901003509id_/http%3A//www.alliancebank.com.my/WebsitePrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliancebank.com.my privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607213410id_/http%3A//www.alliancebank.com.my/WebsitePrivacyPolicy) for the most accurate reproduction.*
 
 # About the Website - Privacy Policy | Alliance Bank Malaysia Berhad
 
@@ -52,6 +52,6 @@ Alliance Bank may on occasion use a "cookie" to interact with your browser. This
 
 **QUESTIONS AND SUGGESTIONS**
 
-If you have any further queries or suggestions, please contact ABMB via e-mail at [info@alliancefg.com](mailto:info@alliancefg.com) or visit the nearest ABMB branch. 
+If you have any further queries or suggestions, please contact ABMB via e-mail at [info@alliancefg.com](mailto:info@alliancefg.com) or visit the nearest [ABMB branch](https://web.archive.org/ContactUs#branch_locator-tab). 
 
 ABMB will do its best to assist and provide prompt response.
