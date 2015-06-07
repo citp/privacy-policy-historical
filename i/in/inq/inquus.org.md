@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inquus.org privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111072848id_/http%3A//inquus.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inquus.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607075402id_/http%3A//inquus.org/privacy-policy) for the most accurate reproduction.*
 
 # OpenStudy: Study Together
 
@@ -11,6 +11,8 @@
   * [Terms](https://web.archive.org/terms-and-conditions)
   * [Privacy](https://web.archive.org/privacy-policy)
   * [Code of Conduct](https://web.archive.org/code-of-conduct)
+  * [Teachers](https://web.archive.org/teachers)
+  * [What's New](https://web.archive.org/whats-new)
 
 
 
