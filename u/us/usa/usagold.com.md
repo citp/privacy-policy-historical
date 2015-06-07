@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usagold.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052505id_/http%3A//www.usagold.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usagold.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607062622id_/http%3A//www.usagold.com/legal/privacy.html) for the most accurate reproduction.*
 
 # USAGOLD Privacy Policy
 
@@ -6,7 +6,7 @@
 
 USAGOLD (the “Firm”) is committed to protecting and respecting your privacy.
 
-This policy (together with our [Terms of Use](http://www.usagold.com/legal/termsofuse.html), [Risk Disclosure](http://www.usagold.com/legal/riskdisclosure.html), and [Online Shipping Policy](http://www.usagold.com/legal/onlineshippingpolicy.html)) is presented to you in order to help you make an informed decision about using this website and to explain to you what information we collect, how we store that information, and how we may use it. By using [www.USAGold.com](http://www.usagold.com/) (the “Website”), you are consenting to this Privacy Policy and to have your personal data transferred to and/or processed in the United States in accordance with the terms of this Privacy Policy.  **The Firm does not rent, share, sell, or trade personally identifiable information with third parties for their promotional purposes.   **The data collection practices set out in this Privacy Policy are for the primary purpose of fulfilling your orders and providing customer support. Please do not use the Website or purchase any products over the phone if you do not agree with this policy and any other policies listed on the Website.
+This policy (together with our Terms of Use, Risk Disclosure, and Online Shipping Policy) is presented to you in order to help you make an informed decision about using this website and to explain to you what information we collect, how we store that information, and how we may use it. By using USAGold (the “Website[s]”), you are consenting to this Privacy Policy and to have your personal data transferred to and/or processed in the United States in accordance with the terms of this Privacy Policy.  **The Firm does not rent, share, sell, or trade personally identifiable information with third parties for their promotional purposes.   **The data collection practices set out in this Privacy Policy are for the primary purpose of fulfilling your orders and providing customer support. Please do not use the Website or purchase any products over the phone if you do not agree with this policy and any other policies listed on the Website.
 
 **Information We Collect**
 
@@ -102,7 +102,7 @@ When you click on links or advertising, third parties may place their own cookie
 
 **F. Changes to Privacy Policy**
 
-We reserve the right to modify this Privacy Policy at any time, so please review it frequently and at least each time you submit personal information to the Website. If we make material changes to this policy, we will notify you here at <http://www.usagold.com/legal/privacy.html> by email, or by means of a notice on our homepage. The date of the most recent revisions will also appear on this page. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your interactions with the Firm.
+We reserve the right to modify this Privacy Policy at any time, so please review it frequently and at least each time you submit personal information to the Website. If we make material changes to this policy, we will notify you here at this privacy page, by email, or by means of a notice on our homepage. The date of the most recent revisions will also appear on this page. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your interactions with the Firm.
 
 **G.** **Questions**
 
