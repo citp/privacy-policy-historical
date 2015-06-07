@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joc.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619180428id_/https%3A//www.joc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joc.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607170340id_/http%3A//www.joc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | JOC
+# Privacy Policy | JOC.com
 
 _Effective: February 15, 2010_
 
