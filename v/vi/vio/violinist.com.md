@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the violinist.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123181556id_/http%3A//www.violinist.com/directory/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the violinist.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607195458id_/http%3A//www.violinist.com/directory/privacy.cfm) for the most accurate reproduction.*
 
 # Violinist.com privacy policy
 
@@ -13,12 +13,3 @@ Several pages on Violinist.com will attempt to set "cookies" in your browser. Co
 We may use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 Information collected by Violinist.com may be transferred along with the other assets of Violinist.com to any subsequent owners of the site. Violinist.com is private property and its owners reserve the right to remove from the site any user and/or his or her information at any time.
-
-  
-[](http://www.amazon.com/gp/product/0486498646/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0486498646&linkCode=as2&tag=statistieverywri&linkId=PVTZZJQBDO6WJU4A)
-
-### Galamian's Principles of the Violin
-
-Long one of the standards for violin teachers and students, **Ivan Galamian** 's [Principles of Violin Playing and Teaching](http://www.amazon.com/gp/product/0486498646/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0486498646&linkCode=as2&tag=statistieverywri&linkId=PVTZZJQBDO6WJU4A) offers both principles and practice exercises to help develop violinists of all ages and abilities. This new edition includes a foreword by **Sally Thomas**.
-
-**Get it now!** [In Paperback](http://www.amazon.com/gp/product/0486498646/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0486498646&linkCode=as2&tag=statistieverywri&linkId=PVTZZJQBDO6WJU4A) | [For Kindle](https://web.archive.org/web/20141123181556id_/http%3A//www.violinist.com/directory/%3Ca%20href=)
