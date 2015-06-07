@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the winningelevenblog.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127210025id_/http%3A//kitanamedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winningelevenblog.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607040537id_/http%3A//kitanamedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Kitana Media Network
+# Privacy Policy - Kitana Media NetworkKitana Media Network
 
 This privacy policy covers all of the Kitana Media Network sites (“KMN Sites”). Please read this statement carefully before using or proceeding to access KMN Sites. Your use of KMN Sites indicates you have read and understood this privacy policy and indicates your agreement to abide by the Terms of Use in effect.
 
