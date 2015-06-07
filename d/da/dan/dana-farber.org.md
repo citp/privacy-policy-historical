@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dana-farber.org privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222200851id_/http%3A//www.dana-farber.org/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dana-farber.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607075400id_/http%3A//www.dana-farber.org/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Dana-Farber Cancer Institute | Boston, MA
 
@@ -8,21 +8,21 @@ Your privacy is important to us, so we operate our website by the following prin
 
 ### Confidentiality
 
-You may use our website without disclosing personally identifiable information. We want to be clear that we will not obtain such information about you unless you choose to submit it to us. If you supply personally identifiable information (such as name, address or telephone numbers) for various purposes on this site, we only use the information for that purpose (such as to provide the service or information you have requested).
+You may use our website without disclosing personal, identifying information. We will not obtain such information about you unless you choose to submit it to us. If you supply personal, identifying information (such as name, address, telephone numbers, or email address) for various purposes on this site, we use the information only for that purpose (such as to provide the service or information you have requested).
 
 ### Security
 
-Dana-Farber takes every precaution to protect our users' information. When a registration/order form asks users to enter sensitive information (such as credit card number and/or diagnosis), that information is encrypted and is protected with the best encryption software in the industry-SSL.
+Dana-Farber takes every precaution to protect our users' information. When a registration/order form asks users to enter sensitive or donor information (such as credit card number and/or diagnosis), that information is encrypted and is protected with the best encryption software in the industry-SSL.
 
-Should you electronically request a referral to a Dana-Farber physician, we will use the information you submit to arrange for care where appropriate. While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off line. Our software and hardware is configured to provide maximum security.
+Should you electronically request a referral to a Dana-Farber physician, we will use the information you submit to arrange for care where appropriate. While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off line. Our software and hardware are configured to provide maximum security.
 
 ### Cookies
 
-The Dana-Farber website use cookies to track traffic coming to our site. Cookies will also be used to identify a person who chooses to register on our site. If you choose to register on our site and are given a password for an event, give donations on line, or choose to enroll in our email subscription services, we will identify you with cookies. You will always have a chance to opt out at any time.
+The Dana-Farber website use cookies to track traffic coming to our site. We do not collect personal data such as name, age, telephone number, email, or mailing address. Cookies will also be used to identify a person who chooses to register on our site. If you choose to register on our site and are given a password, give gifts online, choose to give gifts online, or choose to enroll in our email subscription services, we will identify you with cookies. You will always have an opportunity to opt out at any time.
 
 ### Information Collection and Use
 
-Dana-Farber is the sole owner of the personal medical information collected on this site. We will not sell, share, or rent this information to others. Dana-Farber occasionally trades its contributor mailing lists with other non-profit organizations. This process saves us money and is carefully monitored and one may always opt out.
+Dana-Farber is the sole owner of personal, protected health and donor information collected on this site. We will not sell, share, or rent personal medical information to others. Dana-Farber does not sell or rent donor information to others, but we do occasionally trade donor mailing lists with other non-profit organizations. This process saves us money and is carefully monitored and one may always opt out.
 
 ### Gifts on the Web
 
@@ -59,6 +59,6 @@ If you currently receive the E-Newsletter and would like to unsubscribe, you may
 
 ### Opt Out of Mailings
 
-To stop receiving print mail and/or email communications from Dana-Farber Cancer Institute and the Jimmy Fund, please fill out our [print mailing](http://www.jimmyfund.org/about-us/contact-us/print-opt-out/ "print mailing") or [email communications](http://www.jimmyfund.org/about-us/contact-us/email-opt-out/ "email communications") opt-out forms.
+If you wish to opt out of receiving fundraising mail and/or email communications from Dana-Farber Cancer Institute and the Jimmy Fund, please call 800-525-4669 or visit [JimmyFund.org/Opt-Out](http://www.jimmyfund.org/Opt-Out).
 
-_Reviewed December 2013_  
+_Reviewed May 2015_  
