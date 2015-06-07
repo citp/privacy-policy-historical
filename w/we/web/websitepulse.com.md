@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitepulse.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223043915id_/http%3A//www.websitepulse.com/corporate/privacy.policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitepulse.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607180108id_/http%3A//www.websitepulse.com/corporate/privacy.policy.php) for the most accurate reproduction.*
 
 # Privacy Policy of WebSitePulse
 
