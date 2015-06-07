@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the startbuyingstocks.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223193926id_/http%3A//startbuyingstocks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startbuyingstocks.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607190834id_/http%3A//startbuyingstocks.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Start Buying Stocks When You Are Young
+# Privacy
 
 At StartBuyingStocks.com, the privacy of my visitors is of extreme importance. This privacy policy document outlines the types of personal information is received and collected by StartBuyingStocks.com and how it is used.
 
