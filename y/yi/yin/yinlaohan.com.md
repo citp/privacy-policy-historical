@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yinlaohan.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701070210id_/http%3A//yinlaohan.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yinlaohan.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607033721id_/http%3A//www.yinlaohan.com/Privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
