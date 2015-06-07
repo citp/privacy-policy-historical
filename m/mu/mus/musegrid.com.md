@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the musegrid.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120211040id_/http%3A//www.musegrid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musegrid.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607033855id_/http%3A//www.musegrid.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Home](https://web.archive.org/index.htm) / [Privacy](https://web.archive.org/privacy)
+[Home](https://web.archive.org/index.htm)/[Privacy](https://web.archive.org/privacy)
 
 This privacy policy sets out how Pixel IQ LLC (dba museGrid) uses and protects any information that you give museGrid when you use this website. museGrid is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
