@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcity.com.au privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227073705id_/http%3A//domains.webcity.com.au/terms/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcity.com.au privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175307id_/http%3A//domains.webcity.com.au/terms/privacy.php) for the most accurate reproduction.*
 
 # Domain Registration | Webcity Australia
 
@@ -72,8 +72,8 @@ We attempt to keep all information up to date but we rely on you to inform us of
 You can request specific details of information we have about you or copies of the actual information by writing to
 
 The Privacy Officer   
-PO Box 245   
-Parramatta NSW 2124
+PO Box 7829   
+Baulkham Hills NSW 2153
 
 We may charge you a handling and materials fee depending on circumstances.
 
