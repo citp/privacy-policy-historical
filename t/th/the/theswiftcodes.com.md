@@ -1,31 +1,29 @@
-> *The following text is extracted and transformed from the theswiftcodes.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228182344id_/http%3A//www.theswiftcodes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theswiftcodes.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074401id_/http%3A//www.theswiftcodes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : The Swift Codes
+# Privacy Policy
 
-The Swift code consists of 8 or 11 characters. When 8-digits code is given, it refers to the primary office.
+**Swift Code** is a standard format of Bank Identifier Codes (BIC) and it is unique identification code for a particular bank. These codes are used when transferring money between banks, particularly for international wire transfers. Banks also used the codes for exchanging other messages between them.
 
-Currently, there are over 7,500 “live” Swift codes. The "live" codes are for the partners who are actively connected to the Swift network. On top of that, there are more than 10,000 additional codes, which are used for manual transactions. These additional codes are for the passive participants.
+The Swift code consists of 8 or 11 characters. When 8-digits code is given, it refers to the primary office. The code formatted as below;
 
-The registrations of Swift Codes are handled by Society for Worldwide Interbank Financial Telecommunication (“SWIFT”) and their headquarters is located in La Hulpe, Belgium.
+Currently, there are over 40,000 “live” Swift codes. The "live" codes are for the partners who are actively connected to the Swift network. On top of that, there are more than 50,000 additional codes, which are used for manual transactions. These additional codes are for the passive participants.
 
-SWIFT is the registered trademarks of S.W.I.F.T. SCRL with a registered address at Avenue Adèle 1, B-1310 La Hulpe, Belgium.
-
-**Privacy Policy for www.theswiftcodes.com**
+The registrations of Swift Codes are handled by Society for Worldwide Interbank Financial Telecommunication (“SWIFT”) and their headquarters is located in La Hulpe, Belgium. SWIFT is the registered trademarks of S.W.I.F.T. SCRL with a registered address at Avenue Adèle 1, B-1310 La Hulpe, Belgium.
 
 The privacy of our visitors to **www.theswiftcodes.com** is important to us.
 
 At **www.theswiftcodes.com** , we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit **www.theswiftcodes.com** , and how we safeguard your information. We never sell your personal information to third parties.
 
-**_Log Files_**  
+Log Files  
 As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
-**_Cookies and Web Beacons_**  
+Cookies and Web Beacons  
 We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
 We also use third party advertisements on **www.theswiftcodes.com** to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
-**_DoubleClick DART cookies_**  
-We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx
+DoubleClick DART cookies  
+We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx 
 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
