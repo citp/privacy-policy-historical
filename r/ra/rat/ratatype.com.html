@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the ratatype.com privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120164430id_/http%3A//www.ratatype.com/privacy-terms) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ratatype.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607074236id_/http%3A//www.ratatype.com/privacy-terms) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://ogp.me/ns#"><head>
-	<meta name="Keywords" content="Typing tutor, typing test, touch typing, typing speed certificates, learn to type, touch-typing, typing lessons, free online typing lessons, ratatype">
+	<link rel="yandex-tableau-widget" href="/yandex-tableau/manifest.json">
+<meta name="Keywords" content="Typing tutor, typing test, touch typing, typing speed certificates, learn to type, touch-typing, typing lessons, free online typing lessons, ratatype">
 <meta name="Description" content="Ratatype will teach you how to type faster">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="content-language" content="en-us">
@@ -14,15 +15,16 @@
 <meta property="og:description" content="Ratatype will teach you how to type faster">
 
 <title>Privacy &amp; Terms — Ratatype</title>
-<link href="/static/css/main-min-1400153933.css" rel="stylesheet">
+<link href="http://www.ratatype.com/privacy-terms/" rel="canonical">
+<link href="/static/css/main-min-1421915198.css" rel="stylesheet">
 
 		<link rel="shortcut icon" href="/favicon.ico">
 		<!--[if lt IE 9]>
 		<link rel="stylesheet" title="default" href="/static/css/ie8.css" type="text/css" media="screen, projection" />
 		<script type="text/javascript" src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
-		<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script src="/js/jquery-1.10.2-min-1383142158.js"></script>
-<script src="/js/main-min-1401097893.js"></script>
+		<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script src="/js/jquery-1.10.2-min-1383142158.js"></script>
+<script src="/js/main-min-1422278927.js"></script>
 <style type="text/css">
 .paddrightSide {
 	padding-right:160px
@@ -40,15 +42,15 @@ h2 {
 <body style="">
 <div id="fb-root"></div>
 <script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      appId: 353876334709158,
-      status: true,
-      cookie: true,
-      xfbml: true,
-      oauth: true
-    });	
-	
+	window.fbAsyncInit = function() {
+	    FB.init({
+	      appId: '353876334709158',
+	      status: true,
+	      cookie: true,
+	      xfbml: true,
+	      version: 'v2.2'
+	    });
+
 	//Когда лайкаем по фейбуку что бы увеличивалась высота блока
 	FB.Event.subscribe('edge.create', function(response) {
 		$('.footerLinks').height(250)
@@ -61,15 +63,19 @@ h2 {
 
     $(function() {
 	$('.btnFBLogin').click(fbLogin);
-	    });
+		// навешиваем обработчик кнопок facebook
+	$('.btnFB').each(function(i, b){
+		if (funcName=$(b).data('fbc'))$(b).click(window[funcName]);
+	})
+    });
   };
-  (function(d){
-     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
      if (d.getElementById(id)) {return;}
-     js = d.createElement('script'); js.id = id; js.async = true;
-     js.src = "//connect.facebook.net/en_US/all.js";
-     ref.parentNode.insertBefore(js, ref);
-   }(document));
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
 </script>
 <form method="post" id="fb_login_form"><input type="hidden" name="fb_login"></form>
 <form method="post" id="fb_join_form"><input type="hidden" name="fb_join"></form>
@@ -213,7 +219,6 @@ h2 {
 		
 		<h2>Date of Last Update</h2>
 		<p>This agreement was last updated on January 16, 2013.</p>
-		
 		</div>
 	</div>
 </div><!-- / typo --></div>
@@ -226,7 +231,7 @@ h2 {
 			<a href="/about/">About</a>
 			<a href="/contact/">Contact Us</a>
 			<a href="/privacy-terms/">Privacy &amp; Terms</a>
-			<span>©&nbsp;2014  <a href="http://www.ratatype.com/">Ratatype — Free Online Typing Tutor</a></span>
+			<span>©&nbsp;2015  <a href="http://www.ratatype.com/">Ratatype — Free Online Typing Tutor</a></span>
 		</div>
 		<div class="right likes">
 			<div>
