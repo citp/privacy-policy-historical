@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the parsely.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120111814id_/http%3A//www.parsely.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parsely.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200514id_/http%3A//www.parsely.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Parse.ly
+# Audience Data and Publishing Analytics | Parse.ly Privacy Policy
 
 Welcome to Parsely, Inc. (“ Parse.ly ,” “ we ,” “ us ,” or “ our ”), the operator of the Parse.ly Dash Service analytics service that allows publishers to track usage and activity on their own website on a non-personal basis and perform analytics related to the tracking (the “ Dash Service ”). We have created this privacy statement (“ Privacy Statement ”) in order to demonstrate our commitment to you (“ you ” or “ your ”), our user, regarding your privacy with respect to information that you submit to Parse.ly through parsely.com (the “Site” as further defined below) or the Dash Service. As a general rule, there are two categories of users of the Site and Dash Service: " Publishers " who are operators or publishers of websites that make the Parse.ly Dash Service available on their website (“ Publisher Sites ”), and " Visitors " who are individual visitors of the Site or a Publisher Site.
 
