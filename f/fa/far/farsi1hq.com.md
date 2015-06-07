@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farsi1hq.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223115426id_/http%3A//parslivetv.eu/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farsi1hq.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608004654id_/http%3A//parslivetv.eu/privacy_policy.php) for the most accurate reproduction.*
 
 # Serial Privacy_policy - parslivetv.eu
 
@@ -20,27 +20,5 @@ Note that you can change your browser settings to disable cookies if you have pr
 Contact Information  
 Concerns or questions about this privacy policy can be directed to info@free0098.com for further clarification.
 
-[](https://web.archive.org/web/20141223115426id_/http%3A//parslivetv.eu/index.php?tv=DanceTV "Dance TV") [](https://web.archive.org/web/20141223115426id_/http%3A//parslivetv.eu/index.php?tv=BBCFA "BBC Persian") [](http://www.iranianlivetv.com/allirib.php "Irib TV") [](https://web.archive.org/web/20141223115426id_/http%3A//parslivetv.eu/index.php?tv=Cine5 "Cine 5 Turk")   
-[](https://web.archive.org/web/20141223115426id_/http%3A//parslivetv.eu/farsi1serial2.php "Farsi1 Serial")  
-[](https://web.archive.org/web/20141223115426id_/http%3A//parslivetv.eu/asi.php "Serial Asi")  
-[](https://web.archive.org/web/20141223115426id_/http%3A//parslivetv.eu/vip-n.php "Serial Noor")
-
-**Latest added Series (Serialhaye amade shode, be tartib)**
-
-* * *
-
- **Newest, First...
-
- Seriale Karadayi [Part 211](https://web.archive.org/web/20141223115426id_/http%3A//parslivetv.eu/karadayi.php "Karadayi")  
-Salhaye Por Majara[Part 55](https://web.archive.org/web/20141223115426id_/http%3A//parslivetv.eu/salhaye-por-majara.php "salhaye-por-majara")  
- Dar Entezare Aftab [Part 106](https://web.archive.org/web/20141223115426id_/http%3A//parslivetv.eu/aftab.php "Dar Entezare Aftab")  
- Roozi Roozegari [Part 108](https://web.archive.org/web/20141223115426id_/http%3A//parslivetv.eu/roozi-roozegari.php "Roozi Roozegari")
-
- Karadayi Zirnevis [Fasl3 266](https://web.archive.org/web/20141223115426id_/http%3A//parslivetv.eu/karadayi-zir.php "Karadayi")
-
-**
-
-* * *
-
   
-Copyright ©2010 free0098.com | [Privacy Policy / Contact US](https://web.archive.org/web/20141223115426id_/http%3A//parslivetv.eu/privacy_policy.php)| [**FAQ / Soalha Va Javabha**](https://web.archive.org/web/20141223115426id_/http%3A//parslivetv.eu/faq.php) [ ](http://www.countomat.de/77390.html "Countomat Webcounter und Webstatistik \(Statistik und Logfileanalyse, Counter\)")
+Copyright ©2010 free0098.com | [Privacy Policy / Contact US](https://web.archive.org/web/20150608004654id_/http%3A//parslivetv.eu/privacy_policy.php)| [**FAQ / Soalha Va Javabha**](https://web.archive.org/web/20150608004654id_/http%3A//parslivetv.eu/faq.php) [ ](http://www.countomat.de/77390.html "Countomat Webcounter und Webstatistik \(Statistik und Logfileanalyse, Counter\)")
