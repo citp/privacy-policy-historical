@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the get-a-wingman.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128072233id_/http%3A//get-a-wingman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the get-a-wingman.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607172546id_/http%3A//get-a-wingman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,7 +40,7 @@ However, you can still place orders .
 
 Third Party Disclosure
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
 
 However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
@@ -50,7 +50,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 Google
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
 
 We have not enabled Google AdSense on our site but we may do so in the future.
 
