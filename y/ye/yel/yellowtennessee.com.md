@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yellowtennessee.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206022206id_/http%3A//yellowtennessee.com/pr-welcome/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowtennessee.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607183103id_/http%3A//yellowtennessee.com/pr-welcome/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Yellow Tennessee
+# Privacy Policy - Yellow Tennessee
 
 This privacy policy applies to the use of Yellow Tennessee.
 
