@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the winterparkresort.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511125709id_/http%3A//www.intrawest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winterparkresort.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607193503id_/http%3A//www.intrawest.com/privacy) for the most accurate reproduction.*
 
-# Intrawest - Privacy Policy
+# Intrawest - A Leader in Experiential Destination Resorts -
 
 ###  PRIVACY POLICY
 
@@ -258,4 +258,9 @@ Intrawest
 1621 18th Street, Suite #300  
 Denver, CO 80202  
   
-Policy Update: December 30, 2011
+**UNSUBSCRIBING**  
+
+
+If you prefer not to receive any additional promotional material please email us at [yourprivacy@intrawest.com](mailto:yourprivacy@intrawest.com). If you have questions about the collection or use of your information please call 1-877-477-6777.
+
+Policy Update: March 17, 2015
