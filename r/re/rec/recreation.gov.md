@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recreation.gov privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120034726id_/http%3A//www.recreation.gov/marketing.do%3Fgoto%3D/acm/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recreation.gov privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607232004id_/http%3A//www.recreation.gov/marketing.do%3Fgoto%3D/acm/privacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
