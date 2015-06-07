@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webix.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219145619id_/http%3A//webix.com/legalnote/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webix.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140750id_/http%3A//webix.com/legalnote/privacy-policy) for the most accurate reproduction.*
 
 # JavaScript Library Webix - Privacy Policy
 
