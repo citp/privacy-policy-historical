@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the forex-strategies-revealed.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108035651id_/http%3A//forex-strategies-revealed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forex-strategies-revealed.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140432id_/http%3A//forex-strategies-revealed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Forex Strategies & Systems Revealed
-
-[](http://www.gomarketsaus.com/#a_aid=forexadvertising)   
-
 
 **Personal data**  
 Unless volunteered by visitors, we don’t collect or store any personal data about our visitors.  
@@ -26,3 +23,5 @@ We use third-party advertising companies to serve ads when you visit our website
 
 **Policy updates**  
 We reserve the right to amend this policy in order to adapt it to new legal requirements. An appropriate announcement will be made to inform about the changes.
+
+[](http://www.forextime.com/register/excellent-trading-conditions?reg-type=full&utm_blocka=USPs_adv&agnt=53cb3e8b990ef&ctrv=ed74cd8b)
