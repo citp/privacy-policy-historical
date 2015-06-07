@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rapidresizer.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122163856id_/http%3A//online.rapidresizer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidresizer.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144247id_/http%3A//online.rapidresizer.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which Patrick Roberts collects, uses, maintains and discloses information collected from users (each, a "User") of the [RapidResizer.com](https://web.archive.org/web/20141122163856id_/http%3A//online.rapidresizer.com/RapidResizer.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Patrick Roberts.
+This Privacy Policy governs the manner in which Patrick Roberts collects, uses, maintains and discloses information collected from users (each, a "User") of the [RapidResizer.com](https://web.archive.org/web/20150607144247id_/http%3A//online.rapidresizer.com/RapidResizer.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Patrick Roberts.
 
 **Personal identification information**
 
@@ -64,8 +64,8 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Patrick Roberts](https://web.archive.org/web/20141122163856id_/http%3A//online.rapidresizer.com/RapidResizer.com)  
-[RapidResizer.com](https://web.archive.org/web/20141122163856id_/http%3A//online.rapidresizer.com/RapidResizer.com)  
+[Patrick Roberts](https://web.archive.org/web/20150607144247id_/http%3A//online.rapidresizer.com/RapidResizer.com)  
+[RapidResizer.com](https://web.archive.org/web/20150607144247id_/http%3A//online.rapidresizer.com/RapidResizer.com)  
 Patrick Roberts 115 George St Suite # 144 Oakville, ON L6J 0A2 Canada   
 1-800-887-5709  
 patrick@RapidResizer.com
