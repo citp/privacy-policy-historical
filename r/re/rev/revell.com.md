@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the revell.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121044314id_/http%3A//www.revell.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revell.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607210041id_/http%3A//www.revell.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Revell Privacy Policy
 
   | 
 
-[Privacy Policy](https://web.archive.org/web/20141121044314id_/http%3A//www.revell.com/privacy-policy.html)
+[Privacy Policy](https://web.archive.org/web/20150607210041id_/http%3A//www.revell.com/privacy-policy.html)
 
 Revell Inc., has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for www.Revell.com. The Revell Inc. web site is a dynamic site and changes all the time. Some information given in this section is included for future intended use. By visiting this portion of our site, you can expect to be notified of:
 
@@ -79,4 +79,4 @@ Our site also gives users the option to change and modify information previously
 >  Elk Grove Village, IL 60007  
 >   
   
-© 1996-2014 Revell Inc. A subsidiary of Hobbico, Inc.
+© 1996-2015 Revell Inc. A subsidiary of Hobbico, Inc.
