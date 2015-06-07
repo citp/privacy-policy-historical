@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the funfunky.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813203058id_/http%3A//www.funfunky.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funfunky.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607193447id_/http%3A//www.funfunky.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - FunFunky.com
+# Privacy Policy FunFunky.com
 
   
 
