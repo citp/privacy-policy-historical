@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the roughguides.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122072553id_/http%3A//www.roughguides.com/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roughguides.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152553id_/http%3A//www.roughguides.com/privacy-cookies) for the most accurate reproduction.*
 
-# Privacy & Cookies | Rough Guides
+# | Rough Guides
 
 This website is owned and operated by The Rough Guides Limited.
 
@@ -67,8 +67,8 @@ Facebook  |  c_user, datr, fr, highContrast, locale, lu, reg_ext_ref, reg_fb_gat
 Google Accounts  |  PISID, BEAT, CheckConnection TempCookie703, GALX, GAPS, GoogleAccountsLocale_session, HSID, LSID, LSOSID, NID, PREF, RMME, S, SAPISID, SID, SSID  |  These cookies allow users to log in and share using their Google Account.  |  [Google Privacy Policy](http://www.google.com/policies/privacy/)  
 Google Analytics |  __utma, __utmb, __utmc, __utmz  | These cookies are used to collect information about how visitors use our site. We use this information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. | [Google Analytics: Safeguarding Your Data](http://www.google.com/analytics/learn/privacy.html)  
 Twitter  |  __utmv, _twitter_sess, auth_token, auth_token_session, external_referer, guest_id, k, lang, original_referer, remember_checked, secure_session, twid, twll  |  These cookies allow users to log in, share and comment on content using their Twitter account.  |  [Twitter Privacy Policy](https://twitter.com/privacy)  
-Newsletter  |  ASPSESSIONIDAAACTD  |  This cookie allows us to remember which users have signed up to our newsletter.  |  \-   
-WordPress & First-Party Cookies  |  RS, bp-message, bp-message-type, id, UIDR, w3tc_logged_out, wordpress_ d664b4336b42b193c461aa90eeef7097, wordpress_logged_in_ d664b4336b42b193c461aa90eeef7097  |  These cookies are used by our website to perform and its platform, WordPress, to perform general functions such as: determining if you are logged in or not, remembering if you have accepted our terms and conditions, allowing you to add comments.  |  \-   
+Newsletter  |  ASPSESSIONIDAAACTD  |  This cookie allows us to remember which users have signed up to our newsletter.  |  –   
+WordPress & First-Party Cookies  |  RS, bp-message, bp-message-type, id, UIDR, w3tc_logged_out, wordpress_ d664b4336b42b193c461aa90eeef7097, wordpress_logged_in_ d664b4336b42b193c461aa90eeef7097  |  These cookies are used by our website to perform and its platform, WordPress, to perform general functions such as: determining if you are logged in or not, remembering if you have accepted our terms and conditions, allowing you to add comments.  |  –   
   
 ### Third Party Cookies
 
