@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zug.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230045153id_/http%3A//mediashower.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zug.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607211158id_/http%3A//mediashower.com/privacy.html) for the most accurate reproduction.*
 
 # Media Shower: Content Marketing, Article Writing Services, and Blog Writers
 
