@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webloggerz.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120005441id_/http%3A//webloggerz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webloggerz.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185711id_/http%3A//webloggerz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Webloggerz
 
@@ -61,6 +61,6 @@ All pages and graphics on this website are the property of the company Weblogger
 
 Reproduction or redistribution of the content in the form of text or graphics will be a violation of copyright laws.
 
- **For any other information please[Contact Us](http://webloggerz.com/contact-us/ "Contact Us")**
+ **For any other information regarding our privacy policy, please[Contact Us](http://webloggerz.com/contact-us/ "Contact Us")**
 
  _(This document was last updated on: 12 March 2014.)_
