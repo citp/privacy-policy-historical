@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the macblurayplayer.com privacy policy that was archived on 2014-08-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140820205205id_/http%3A//www.macblurayplayer.com/privacy-policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the macblurayplayer.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607220018id_/http%3A//www.macblurayplayer.com/privacy-policy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <base href="http://www.macblurayplayer.com/">
@@ -11,6 +11,7 @@
 <link href="image/favicon.ico" rel="shortcut icon" type="image/x-icon">
 <link href="script/general.css" rel="stylesheet" type="text/css">
 <link href="script/layout.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="script/2.0.jquery.min.js"></script>
 <link href="http://fonts.googleapis.com/css?family=Roboto:300|Noto+Sans" rel="stylesheet" type="text/css">
 <!--[if lt IE 7]>
    <script type="text/javascript" src="script/ie_png.js"></script>
@@ -18,8 +19,7 @@
        ie_png.fix('.png, .link1');
    </script>
 <![endif]-->
-<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="script/jquery-1.4.2.js" type="text/javascript"></script>
-<script type="text/javascript" src="script/general.js"></script>
+<script src="script/jquery-1.4.2.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 function MM_preloadImages() { 
@@ -27,8 +27,44 @@ function MM_preloadImages() {
     var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
     if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
 }
-MM_preloadImages('image/mac_button2.png','image/mac_button22.png','image/pc_button2.png','image/pc_button22.png','image/mac_btn3.png','image/mac_btn33.png','image/pc_btn3.png','image/pc_btn33.png','image/store-buy-btn-1.png','image/store_button.png','image/index_button.png','image/features_button.png');
+MM_preloadImages('image/mac_button2.png','image/mac_button22.png','image/pc_button2.png','image/pc_button22.png','image/mac_btn3.png','image/mac_btn33.png','image/pc_btn3.png','image/pc_btn33.png','image/store-buy-btn-1.png','image/store_button.png','image/index_button.png','image/headbg.png','image/features_button.png' );
 </script>
+<script type="text/javascript">
+function cCookie(name,value,days) {
+	if (days) {
+	    var date = new Date();
+	    date.setTime(date.getTime()+(days*24*60*60*1000));
+	    var expires = "; expires="+date.toGMTString();
+	}
+	else var expires = "";
+	document.cookie = name+"="+value+expires+"; path=/";
+}
+
+function rCookie(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++){
+	    var c = ca[i];
+	    while (c.charAt(0)==' ') c = c.substring(1,c.length);
+	    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+}
+
+function closeDiv(){
+	$("#top_close").slideUp(400);
+	 cCookie("showbanner_thanksgiving","0",10);
+}
+
+function showbanner(){
+	var showbanner = rCookie("showbanner_thanksgiving");
+	if(!showbanner){
+	   $("#top_close").show();
+	  }
+	}
+</script>
+<script type="text/javascript" src="script/general.js"></script>
+
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-23734221-1']);
@@ -45,12 +81,154 @@ MM_preloadImages('image/mac_button2.png','image/mac_button22.png','image/pc_butt
 </script></head>
 
 <body id="page2">
+
 <div class="body1">
 <a name="top" id="top"></a>
 <div class="body2">
+<div class="head" id="head">
+
+<div class="top_close_bg">
+<div class="top_close" id="top_close">
+	<a href="macgo-comic-bluray.htm" style="width:1000px; height:80px; display:block;" title="Macgo Comic Festival" target="“_blank”"></a>
+    <div onclick="closeDiv();" class="closediv">X</div>
+</div>
+</div>
+<script type="text/javascript">showbanner(0);</script>
+
+  <div class="header">
+    <div class="logo"><a href="http://www.macblurayplayer.com" title="Macgo Office"><img itemprop="logo" id="_logo6" src="image/macgologo.png" width="140" height="42" alt="Macgo Official"></a></div>
+    <div class="nav">
+      <ul class="nav_list">
+        <li class="drop-menu-effect"><a class="products-img">Products<img src="image/index-drop-down.png"></a>
+         <ul class="submenu">
+            <div class="Media_Player">
+              <div id="drop-down-menu">
+              <div id="drop-down-menu-title">Media Player Software</div>
+             	 <div class="div-list">
+                    <a href="features.htm" class="dh-img-a">
+                    <img title="Mac Blu-ray Player" src="image/MacBlurayPlayericon.png" width="80" height="80">
+                    <p>Mac Blu-ray Player</p>
+                    <p class="dh-system-icon">For Mac OS</p>
+                    </a>
+                </div>
+
+                <div class="div-list">
+                     <a href="windows-bluray-player.htm" class="dh-img-a">
+                     <img title="Windows Blu-ray Player" src="image/WinBlurayPlayericon.png" width="80" height="80">
+                    <p>Windows Blu-ray Player</p>
+                    <p class="dh-system-icon-pc">For Windows</p>
+                 </a>
+                </div>
+
+                <div class="div-list" style="border:none;">
+                        <a href="mac-media-player.htm" class="dh-img-a">
+                        <img title="Mac Media Player" src="image/MediapPlayericon.png" width="80" height="80">
+                        <p>Mac Media Player</p>
+                        <p class="dh-system-icon">For Mac OS</p>
+                        </a>
+                </div>
+             </div>
+            </div>
+
+            <div class="Media_Player" style=" border:none;">
+              <div id="drop-down-menu">
+                <div id="drop-down-menu-title">iPhone Tools</div>
+               	<div class="div-list">
+                <a href="iphone-cleaner-mac.htm" class="dh-img-a">
+               <img title="iPhone Cleaner for Mac" src="image/iPhoneCleanericon.png" width="80" height="80">
+               <p>Mac iPhone Cleaner</p>
+               <p class="dh-system-icon">For Mac OS</p>
+               </a>
+               <p><a href="iphone-cleaner.htm" class="dot-gray dot-gray-win" title="iPhone Cleaner">For Windows</a></p>
+                </div>
+               
+                <div class="div-list">
+                <a href="iphone-explorer-mac.htm" class="dh-img-a">
+                <img title="iPhone Explorer for Mac" src="image/iphoneexplorericon.png" width="80" height="80">
+                    <p>Mac iPhone Explorer</p>
+                    <p class="dh-system-icon">For Mac OS</p>
+                    </a>
+                    <p><a href="iphone-explorer.htm" class="dot-gray dot-gray-win" title="iPhone Explorer">For Windows</a></p>
+                </div>
+
+                 <div class="div-list" style="border:none;">
+                <a href="mac-iphone-data-recovery.htm" class="dh-img-a">
+                <img title="iPhone Data Recovery" src="image/datarecoveryicon.png" width="80" height="80">
+                    <p>iPhone Data Recovery</p>
+                    <p class="dh-system-icon">For Mac OS</p>
+                 </a>
+                </div>
+               </div>
+            </div>
+          </ul>
+        </li>
+        <li><a href="store.htm">Store</a></li>
+        <li><a href="download.htm">Download</a></li>
+        <li><a href="support.htm">Support</a></li>
+        <li><a href="macgo-bluray-player-drive.htm">Blu-ray Drive</a></li>
+      </ul>
+    </div>
+    <ul class="facebook_icon">
+      <li><a href="https://www.facebook.com/MacBlurayPlayer" target="_blank" class="facebook" rel="nofollow"><img src="image/facebook_icon.png"></a></li>
+      <li><a href="http://twitter.com/MacBlurayPlayer" target="_blank" class="twitter" rel="nofollow"><img src="image/twitter_icon.png"></a></li>
+      <li style="margin:0px;"><a href="https://plus.google.com/b/116586102455822290433/116586102455822290433/posts" target="_blank" class="google" rel="nofollow"><img src="image/google_icon.png"></a></li>
+    </ul>
+    <div class="international">
+      <ul class="Language">
+        <li><a class="english"></a>
+          <ul>
+            <li class="jp"><a href="http://jp.macblurayplayer.com/privacy-policy.htm">日本語</a></li>
+            <li class="de"><a href="http://de.macblurayplayer.com/privacy-policy.htm">Deutsch</a></li>
+            <li class="fr"><a href="http://fr.macblurayplayer.com/privacy-policy.htm">Français</a></li>
+            <li class="ru"><a href="http://ru.macblurayplayer.com/privacy-policy.htm">Русский</a></li>
+            <li class="zh"><a href="http://zh.macblurayplayer.com/privacy-policy.htm">繁體中文</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+<script type="text/javascript">
+function dropMenu(obj){
+		$(obj).each(function(){
+			var theSpan = $(this);
+			var theMenu = theSpan.find(".submenu");
+			var tarHeight = theMenu.height();
+
+			theMenu.css({height:0,opacity:0});
+			
+			var t1;
+			
+			function expand() {
+				clearTimeout(t1);
+				theSpan.find('a').addClass("selected");
+				theMenu.stop().show().animate({height:tarHeight,opacity:1},200);
+			}
+			
+			function collapse() {
+				clearTimeout(t1);
+				t1 = setTimeout(function(){
+					theSpan.find('a').removeClass("selected");
+					theMenu.stop().animate({height:0,opacity:0},200,function(){
+						$(this).css({display:"none"});
+					});
+				}, 250);
+			}
+			
+			theSpan.hover(expand, collapse);
+			theMenu.hover(expand, collapse);
+		});
+	}
+
+$(document).ready(function(){
+	
+	dropMenu(".drop-menu-effect");
+
+});
+</script>
 		<div class="main">
-			<!--header -->
-			<div id="header">
+			<!--header-->
+			<!--<div id="header">
 				<div id="login">
                 	<div id="lang_option" style="display:none;" onmouseover="document.getElementById('lang_option').style.display=''" onmouseout="document.getElementById('lang_option').style.display='none'">
 <div class="block_noam">
@@ -66,12 +244,12 @@ MM_preloadImages('image/mac_button2.png','image/mac_button22.png','image/pc_butt
 <div class="clear_both"></div>
 </div>
 <div id="lang" onmouseover="document.getElementById('lang_option').style.display=''; return false;">                 
- <span style="padding-right:10px;">International:</span> <a href="#" id="locale_lang" onclick="return false;">EN</a>&nbsp;<a href="#" onclick="return false;"><img src="image/lang-icon.gif" alt="Select Locale" width="12" height="15"></a>
+ <span style="padding-right:10px;">International:</span> <a href="#" id="locale_lang" onclick="return false;">EN</a>&nbsp;<a href="#" onclick="return false;"><img src="image/lang-icon.gif" alt="Select Locale" width="12" height="15" /></a>
 </div>
 <div style="float:right;padding-right:10px;">
-                    	<span style="float:left; "> Follow us:</span><a href="https://plus.google.com/u/0/b/116586102455822290433/116586102455822290433" title="Mac Blu-ray player on Google+" target="_blank" class="ind_sns" rel="nofollow"><img src="image/gplus.jpg" alt="Macgo Google+"></a>
-                    	<a href="http://twitter.com/MacBlurayPlayer" title="Mac Blu-ray player on Twitter" target="_blank" class="ind_sns" rel="nofollow"><img src="image/twitter.jpg" alt="Follow Macgo Twitter"></a>
-                    	<a href="http://www.facebook.com/MacBlurayPlayer" title="Mac Blu-ray player on Facebook" target="_blank" class="ind_sns" rel="nofollow"><img src="image/facebook.jpg" alt="Like Macgo Facebook"></a>
+                    	<span style="float:left; "> Follow us:</span><a href="https://plus.google.com/u/0/b/116586102455822290433/116586102455822290433" title="Mac Blu-ray player on Google+" target="_blank" class="ind_sns" rel="nofollow"><img src="image/gplus.jpg" alt="Macgo Google+" /></a>
+                    	<a href="http://twitter.com/MacBlurayPlayer" title="Mac Blu-ray player on Twitter" target="_blank" class="ind_sns" rel="nofollow"><img src="image/twitter.jpg" alt="Follow Macgo Twitter" /></a>
+                    	<a href="http://www.facebook.com/MacBlurayPlayer" title="Mac Blu-ray player on Facebook" target="_blank" class="ind_sns" rel="nofollow"><img src="image/facebook.jpg" alt="Like Macgo Facebook" /></a>
                     </div>
                 </div>	
 				<div id="ClearFix"></div>			
@@ -93,12 +271,12 @@ MM_preloadImages('image/mac_button2.png','image/mac_button22.png','image/pc_butt
 <li><a href="http://blog.macblurayplayer.com/"><span><span>Blog</span></span></a></li>
 
 </ul>
-					<a href="http://www.macblurayplayer.com"><img src="image/logo.png" id="logo" class="png" alt="macgo"></a>
+					<a href="http://www.macblurayplayer.com"><img src="image/logo.png" id="logo" class="png" alt="macgo" /></a>
 				</div>
-			</div>
-			<!--header end-->
+			</div>-->
+			<!--header end--> 
 			<!--content -->
-			<div id="content">
+			<div id="content" style="padding-botttom:0px;">
 			<div class="wrapper under pad_bot1">
 
 					<div class="tab-content">
@@ -161,7 +339,7 @@ Macgo<span class="color2"> Respects Your Privacy</span>
 
                  <div class="item">
 
-                       <div><img style="margin-right: 10px;" src="image/macbuy.png" alt="macbuy"><a href="https://usd.swreg.org/cgi-bin/s.cgi?s=138538&amp;p=138538-1&amp;q=1&amp;v=0&amp;d=0&amp;rc=MAG-45K2D46CWS&amp;a=en-macbdplayer" rel="nofollow" onclick="CheckReferAndSoftware_GA();_gaq.push(['_link', this.href]);return false;">Buy Now Mac Blu-ray Player ( $39.95 <del>$59.95</del> )</a></div><div><img style="margin-right: 5px;" src="image/mac-down.png" alt="mac-down"><a href="http://www.macblurayplayer.com/user/download/Mac_Bluray_Player.dmg" onclick="_gaq.push(['_trackPageview', '/user/download/Mac_Bluray_Player.dmg']);">Free Download Mac Blu-ray Player</a> </div><div><img style="margin-right: 8px;" src="image/pc-down.png" alt="pc-down"><a href="http://www.macblurayplayer.com/user/download/Mac_Bluray_Player_for_Windows.exe" onclick="_gaq.push(['_trackPageview', '/user/download/Mac_Bluray_Player_for_Windows.exe']);">Download Blu-ray Player for PC </a> </div>
+                       <div><img style="margin-right: 10px;" src="image/macbuy.png" alt="macbuy"><a href="https://secure.avangate.com/order/checkout.php?PRODS=4587711&amp;QTY=1&amp;CART=2&amp;COUPON=ENMACBD&amp;SRC=en-macbdplayer" ref="nofollow" onclick="CheckReferAndSoftware_GA();_gaq.push(['_link', this.href]);return false;">Buy Now Mac Blu-ray Player ( $39.95 <del>$59.95</del> )</a></div><div><img style="margin-right: 5px;" src="image/mac-down.png" alt="mac-down"><a href="http://www.macblurayplayer.com/user/download/Mac_Bluray_Player.dmg" onclick="_gaq.push(['_trackPageview', '/user/download/Mac_Bluray_Player.dmg']);">Free Download Mac Blu-ray Player</a> </div><div><img style="margin-right: 8px;" src="image/pc-down.png" alt="pc-down"><a href="http://www.macblurayplayer.com/user/download/Mac_Bluray_Player_for_Windows.exe" onclick="_gaq.push(['_trackPageview', '/user/download/Mac_Bluray_Player_for_Windows.exe']);">Download Blu-ray Player for PC </a> </div>
 
 
                  </div>
@@ -171,7 +349,8 @@ Macgo<span class="color2"> Respects Your Privacy</span>
 					<div class="col2 pad_left1"><div class="spacing3"></div>
                     
                         
-                        <a title="Buy Blu-ray Player Software" href="promotion.htm" alt="special"></a>
+                       <a title="Macgo Comic Festival" href="/macgo-comic-bluray.htm "><img src="image/special-comic.jpg" alt="Macgo Comic Festival"></a>
+
 
 
                     <div class="indFace"><iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FMacBlurayPlayer&amp;width=276&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=false&amp;height=279" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:276px; height:279px;" allowtransparency="true"></iframe>
@@ -180,20 +359,19 @@ Macgo<span class="color2"> Respects Your Privacy</span>
 
 				</div>
            </div>
-				<div class="wrapper">
+				<!--<div class="wrapper">
                   <ul id="jsddm">
                   	<li><a href="http://www.macblurayplayer.com">Home</a></li>
-                    <li><a href="features.htm">Mac Blu-ray Player</a></li>
-                  	<li><a href="windows-bluray-player.htm">Windows Blu-ray Player</a></li>
-                     <li><a href="mac-iphone-data-recovery.htm">Mac iPhone Data Recovery</a></li>
+                        <li><a href="features.htm">Mac Blu-ray Player</a></li>
+                  	<li><a href="windows-bluray-player.htm">Windows Blu-ray Player</a></li>          
                   	<li><a href="mac-media-player.htm">Mac Media Player</a></li>
-                        <li><a href="faq.htm">FAQ</a></li>
+                        <li><a href="macgo-mac-bluray-player-faq.htm">Mac Blu-ray Player FAQ</a></li>        
                   	<li><a href="sitemap.htm">Sitemap</a></li>
                   	<li><a href="about-us.htm">About us</a></li>
                   	<li><a href="cooperation.htm">Cooperation</a></li>
                         <li><a href="mac-bluray-player-link-to-us.htm">Link to us</a></li>
                   </ul>	
-			</div>	
+			</div>-->	
 			</div>	
 			</div>
 			<!--content end-->
@@ -201,11 +379,76 @@ Macgo<span class="color2"> Respects Your Privacy</span>
 </div>
 		<div class="main">
 			<!--footer -->
-			<div id="footer">
-			Copyright © 2011-2014 Mac Blu-ray Player. All rights reserved.  | <a href="privacy-policy.htm" rel="nofollow">Privacy Policy </a><br><span style="font-size:12px; color: #999999;">Blu-ray Disc™, Blu-ray™, and the logos are trademarks of the Blu-ray Disc Association.</span><br>
-			</div>
+			<!--<div id="footer">
+			Copyright © 2011-2015 Mac Blu-ray Player. All rights reserved.  | <a href="eula.htm">Macgo EULA</a><br /><span style="font-size:12px; color: #999999;">Blu-ray Disc™, Blu-ray™, and the logos are trademarks of the Blu-ray Disc Association.<br />iPod ®,iPhone ®,iTunes ® and Mac ® are trademarks of Apply inc., registered in the U.S. and other countries. Our software is not developed by or affiliated with Apple. Inc.</span><br />
+			</div>-->
             <!--footer end-->
 		</div>
+<!--footer -->
+
+<div class="footer">
+  <div class="footerbg">
+    <div>
+      <p>All Products</p>
+      <ul>
+        <li><a href="features.htm">Mac Blu-ray Player</a></li>
+        <li><a href="windows-bluray-player.htm">Windows Blu-ray Player</a></li>
+        <li><a href="mac-media-player.htm">Free Mac Media Player</a></li>
+        <li><a href="iphone-cleaner-mac.htm">iPhone Cleaner for Mac</a></li>
+        <li><a href="mac-iphone-data-recovery.htm">iPhone Data Recovery</a></li>
+        <li><a href="iphone-explorer-mac.htm">Free iPhone Explorer</a></li>
+        <li><a href="download.htm">Free Download</a></li>
+      </ul>
+    </div>
+    <div>
+      <p>Popular Topics</p>
+      <ul>
+        <li><a href="how-to-play-a-bluray-disc-on-mac.htm">Play Blu-ray on Mac</a></li>
+        <li><a href="how-to-play-a-bluray-disc-on-windows.htm">Blu-ray Player Software</a></li>
+        <li><a href="how-to-play-blu-ray-on-ipad-easily.htm">Play Movie on iPad</a></li>
+        <li><a href="iphone-cleaner-mac/how-to-clean-your-iphone-on-your-mac.htm">Speed up iPhone</a></li>
+        <li><a href="mac-iphone-data-recovery.htm">Get Back iPhone Data</a></li>
+        <li><a href="features.htm">Mac Blu-ray Player</a></li>
+      </ul>
+    </div>
+    <div>
+      <p>Product Center</p>
+      <ul>
+        <li><a href="support.htm">License Retrieval</a></li>
+        <li><a href="macgo-mac-bluray-player-faq.htm">Mac Blu-ray Player FAQ</a></li>        
+        <li><a href="tutorial.htm">Products Tutorial</a></li>
+        <li><a href="knowledge-base.htm">Knowledge Base</a></li>
+        <li><a href="http://help.macblurayplayer.com">Products Center</a></li>
+        <li><a href="whatsnew.htm">Products Update</a></li>
+      </ul>
+    </div>
+    <div>
+      <p>Sales Support</p>
+      <ul>
+        <li><a href="cooperation.htm">Corporate Sales</a></li>
+        <li><a href="mailto:business@macblurayplayer.com">Educational Discounts</a></li>
+        <li><a href="refund-policy.htm">Refund Policy</a></li>
+        <li><a href="mailto:support@macblurayplayer.com">Contact Support</a></li>
+        <li><a href="affiliate.htm">Affiliate Program</a></li>
+      </ul>
+    </div>
+    <div>
+      <p>Company</p>
+      <ul style=" border:none;">
+        <li><a href="about-us.htm">About Macgo</a></li>
+        <li><a href="privacy-policy.htm">Privacy Policy</a></li>
+        <li><a href="how-to-install-mac-bluray-player.htm">Install and Uninstall</a></li>
+        <li><a href="sitemap.htm">Macgo SiteMap</a></li>
+        <li><a href="http://blog.macblurayplayer.com/" target="_blank" rel="nofollow">Macgo's Blog</a></li>
+      </ul>
+    </div>
+    <div class="clear" style="border-bottom:1px #c7c7c7 solid; float:none; width:1000px; margin:0px; padding:0px; "></div>
+   <p style="text-align:center; margin-top:20px; padding-bottom:10px;">Copyright © 2011-2015 Macgo International Limited All Rights Reserved.   | <a href="eula.htm" style="color:#666;">Macgo EULA</a></p>
+    <p style="text-align:center;"><span style="font-size:12px; color: #999999;">Blu-ray Disc™, Blu-ray™, and the logos are trademarks of the Blu-ray Disc Association.<br>iPod ®,iPhone ®,iTunes ® and Mac ® are trademarks of Apple Inc., registered in the U.S. and other countries. Our software is not developed by or affiliated with Apple Inc.</span></p>
+  </div>
+  <div class="clear"></div>
+</div>
+<!--footer end-->
                   <script>
 	$(function(){
 		$(window).scroll(function(){
@@ -222,6 +465,33 @@ Macgo<span class="color2"> Respects Your Privacy</span>
                   <div id="bck" style="display:none;"> 
                       <a href="privacy-policy.htm#top" title="Back to top"></a> 
                   </div>
+
+
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+var google_tag_params = {
+ecomm_prodid: 'REPLACE_WITH_VALUE',
+ecomm_pagetype: 'REPLACE_WITH_VALUE',
+ecomm_totalvalue: 'REPLACE_WITH_VALUE',
+};
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1005735971;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1005735971/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 		
 
 </body></html>
