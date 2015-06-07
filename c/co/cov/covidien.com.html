@@ -1,291 +1,490 @@
-<!--The following is the downloaded HTML source of the covidien.com privacy policy that was archived on 2014-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141217102203id_/http%3A//www.covidien.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the covidien.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607185504id_/http%3A//www.covidien.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=8">
     <base href="http://www.covidien.com/covidien/">
+    <noscript>
+      <link rel="stylesheet" type="text/css" href="config/noJavascript.css">
+    </noscript>
     <link rel="stylesheet" type="text/css" href="config/site.css">
-    <link rel="stylesheet" type="text/css" href="config/rich-description-only.css">
-    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T8X5T6"></script><script type="text/javascript" src="js/jquery-1.7.1.min.js">
-    </script>
-    <script type="text/javascript" src="js/jquery.validate.js">
-    </script>
-    <!--
-                [if lt IE 7]><script defer type="text/javascript" src="js/jquery.pngFix.js"></script>
-                <script type="text/javascript">
-                $(function(){
-                $(document).pngFix();
-                }
-                );
-                </script>
-                <![endif]
-            -->
-    <!--[if IE 6]> <link href="config/ie.css" rel="stylesheet" type="text/css"> <![endif]-->
-    <!--[if IE 7]> <link href="config/ieHome.css" rel="stylesheet" type="text/css"> <![endif]-->
-    <!--[if IE 8]> <link href="config/ieHome.css" rel="stylesheet" type="text/css"> <![endif]-->
+    <link rel="stylesheet" type="text/css" href="config/prettyPhoto.css">
     <link rel="SHORTCUT ICON" href="graphics/favicon.ico">
-    <!--[if !IE 6]><!-->
-    <script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#publisher=7235fc49-fac9-45f9-8701-434e70698fb6&amp;type=website&amp;popup=true&amp;embeds=true&amp;style=rotate">
-    </script>
-    <!--<![endif]-->
     <title>Privacy Policy | Covidien</title>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="description" content="Learn about Covidien's privacy policy.">
     <meta name="keywords" content="">
-    <script type="text/javascript" src="js/jquery.flash.js">
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T8X5T6"></script><script type="text/javascript" src="js/jquery-1.10.2.js">
     </script>
-    <script type="text/javascript" src="js/formalforms.js">
+    <script src="http://code.jquery.com/jquery-migrate-1.2.1.js">
     </script>
-    <script type="text/javascript" src="js/jquery.validate.js">
+    <script src="js/jquery-mobile-detect.js" type="text/javascript">
     </script>
-    <script type="text/javascript" src="js/jquery.dropmenu-1.1.4.js">
+    <script src="js/dropDownNav.js" type="text/javascript">
     </script>
-    <script>
-        $(document).ready(function(){
-        $('.navigation li a').each(function(){
-        if($(this).hasClass('active')){
-        if( $(this).parent('li').hasClass('collapsed')){
-        $(this).parent('li').removeClass('collapsed').addClass('expanded');
-        }
-        $(this).next('ul').removeClass('collapsed');
-        $(this).parent('li').parent('ul').removeClass('collapsed');
-        $(this).parent('li').parent('ul').parent('li').removeClass('collapsed').addClass('expanded');
-        $(this).parent('li').parent('ul').parent('li').parent('ul').removeClass('collapsed');
-        $(this).parent('li').parent('ul').parent('li').parent('ul').parent('li').removeClass('collapsed').addClass('expanded');
-        }
-        });
-
-        $('.flashCheck').hide();
-        });
-      </script>
-    <script type="text/javascript" src="http://www.google.com/jsapi">
+    <script src="js/jquery.validate.js" type="text/javascript">
     </script>
     <script type="text/javascript">
-        google.load('search', '1');
-        google.setOnLoadCallback(function() {google.search.CustomSearchControl.attachAutoCompletion('008418102433676307395:zfuylipv7ls',document.getElementById('searchCriteria'),'cse-search-box');});
-      </script>
-    <script type="text/javascript" src="js/fancybox-1.3.4/jquery.fancybox-1.3.4.pack.js">
-    </script>
-    <script type="text/javascript" src="js/defaultjavascript.js">
-    </script>
-    <script type="text/javascript" src="js/jquery.url.js">
-    </script>
-    <script src="js/formalforms.js" type="text/javascript">
-    </script>
-    <script src="js/jquery.field.js" type="text/javascript">
-    </script>
-    <script src="js/jquery.field.min.js" type="text/javascript">
-    </script>
-    <script>
-        
-					$(function() {	
-						//$('div#formContent')
-						//	.activateForm('mailBuilder.aspx',{email_subject: 'Covidien'},true);
-						
-						$('.formFail').hide();
-						$('.formSuccess').hide();
-						$('.formInProcess').hide();
-						
-						var emailSubject, emailBody, currentPage;
-						emailSubject = 'Covidien';
-						currentPage = window.location.href;
-						emailBody = 'I thought you might be interested in the information available at this site: '+currentPage;
-						emailLink = 'mailto: ?Subject='+emailSubject+'&Body='+emailBody;
-						$('.email a.form').attr('href', emailLink);	
-						
-						$("input.submit").click(function(){
-							var msg = $('textarea[name="email_message"]');
-							var msgVal = $(msg).getValue();
-						$("input[name='email_txtYourName']").setEmailBody(msgVal);
-							var bcc = $('input[name="email_sendCopy"]');
-							var bccVal = $(bcc).getValue();
-							if (bccVal == "cc") {
-								$("input[name='Email']").setEmailBCC();
-							 }							 
-				        });
-					})
-					
-				
-      </script>
-    <script type="text/javascript">
-$(document).ready(function() {
-
-	// Create dropdown menus
-	$('.nav_menu .dropmenu').css('display','block');
-	$('.nav_menu > ul').dropmenu({
-		effect : 'slide',
-		speed : 250,
-		timeout : 0,
-		nbsp : false
+		$(document).ready(function() {
+		$('.newwindow > a').attr('target','_blank');
 	});
-	
-	// Indicate items with sub-menu
-	$('li').has('ul').find('> a').addClass('indicator');
-	
-});
-	
 </script>
+    <script type="text/javascript">
+				$(document).ready (function() {
+
+					var titl, newLink, hrefLast, slicePosition;
+					$("div.navPopUp ul li a").each(function() {
+						$(this).mouseover(function(event ) {
+							//alert("In Mouseover");
+							newLink = '';
+							titl = $(this).attr("href"); 
+							//alert("href is " + titl);
+							//hrefLength = titl.length;
+							slicePosition = titl.lastIndexOf('/');
+							hrefLast = titl.slice(slicePosition + 1);
+							//alert(hrefLast);
+							if (isNaN(hrefLast)) {} else {
+								newLink = "http://www.covidien.com/products/" + titl.slice(slicePosition + 1);
+								//alert("New Link is " + newLink);
+								$(this).attr("href", newLink)
+							};
+						}); 
+					});
+				});			
+				$(document).ready (function() {
+
+					var titl, newLink, hrefLast, slicePosition;
+					$("#productsNav div.navPopUp div.navFeature a").each(function() {
+						$(this).mouseover(function(event ) {
+							//alert("In Mouseover");
+							newLink = '';
+							titl = $(this).attr("href"); 
+							//alert("href is " + titl);
+							//hrefLength = titl.length;
+							slicePosition = titl.lastIndexOf('/');
+							hrefLast = titl.slice(slicePosition + 1);
+							//alert(hrefLast);
+							if (isNaN(hrefLast)) {} else {
+								newLink = "http://www.covidien.com/Product/" + titl.slice(slicePosition + 1);
+								if (hrefLast == '245453') {newLink = "http://www.covidien.com/products/pulse-oximetry/monitors&product=1"};
+								//alert("New Link is " + newLink);
+								$(this).attr("href", newLink)
+							};
+						}); 
+					});
+				});	
+				$(document).ready (function() {
+
+					$("ul:empty").css("display","none");
+					$("div.navFeature").each(function() {
+						if ($($(this).find('a')).length) {}
+						else {$(this).css("display","none");}
+					});
+				});
+			</script>
     <script>
-$(document).ready(function() {
-if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
-$('html #contentWrapper').click(function() {
-$('.dropmenu ul').hide();
-});
-
-$('.dropmenu ul').click(function(event){
-  event.stopPropagation();
-});
-}
-});
-</script>
+			$(document).ready(function() {
+			if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+				$("#siteNav").hide();
+				$("#siteNav-iPad").show();
+				$("#siteNav-iPad li#OurProducts.iPad-no-link").show();
+				$("#siteNav-iPad li#OurBrands.iPad-no-link").show();
+				$("#siteNav-iPad li#Education.iPad-no-link").show();
+				$("#siteNav-iPad li#Sales.iPad-no-link").show();
+    			
+    			$("#siteNav-iPad li#OurProducts.iPad-no-link").click(function(){
+        		
+        		$("#siteNav-iPad li#OurProducts.iPad-link").show();
+				$("#siteNav-iPad li#OurBrands.iPad-no-link").show();
+				$("#siteNav-iPad li#Education.iPad-no-link").show();
+				$("#siteNav-iPad li#Sales.iPad-no-link").show();
+				
+				$("#siteNav-iPad li#OurProducts.iPad-no-link").hide();
+				$("#siteNav-iPad li#OurBrands.iPad-link").hide();
+				$("#siteNav-iPad li#Education.iPad-link").hide();
+				$("#siteNav-iPad li#Sales.iPad-link").hide();
+				
+        		$("#innerHeaderNav #productsNav").css("display","block");
+        		$("#innerHeaderNav #brandsNav").css("display","none");
+        		$("#innerHeaderNav #educationNav").css("display","none");
+        		$("#innerHeaderNav #salesNav").css("display","none");
+    			});
+				$("#siteNav-iPad li#OurProducts.iPad-link").click(function(){
+        		$("#siteNav-iPad li#OurProducts.iPad-link").hide();
+        		$("#siteNav-iPad li#OurProducts.iPad-no-link").show();
+        		$("#innerHeaderNav #productsNav").css("display","none");
+        		$("#innerHeaderNav #brandsNav").css("display","none");
+        		$("#innerHeaderNav #educationNav").css("display","none");
+        		$("#innerHeaderNav #salesNav").css("display","none");
+        		});
+        		$("#siteNav-iPad li#OurBrands.iPad-no-link").click(function(){
+        		$("#siteNav-iPad li#OurBrands.iPad-link").show();
+				$("#siteNav-iPad li#OurProducts.iPad-no-link").show();
+				$("#siteNav-iPad li#Education.iPad-no-link").show();
+				$("#siteNav-iPad li#Sales.iPad-no-link").show();
+				
+				$("#siteNav-iPad li#OurBrands.iPad-no-link").hide();
+				$("#siteNav-iPad li#OurProducts.iPad-link").hide();
+				$("#siteNav-iPad li#Education.iPad-link").hide();
+				$("#siteNav-iPad li#Sales.iPad-link").hide();
+				
+        		$("#innerHeaderNav #brandsNav").css("display","block");
+        		$("#innerHeaderNav #productsNav").css("display","none");
+        		$("#innerHeaderNav #educationNav").css("display","none");
+        		$("#innerHeaderNav #salesNav").css("display","none");
+        		$("#innerHeaderNav #productsNav").css("display","none");
+        		$("#innerHeaderNav #educationNav").css("display","none");
+        		$("#innerHeaderNav #salesNav").css("display","none");
+    			});
+    			$("#siteNav-iPad li#OurBrands.iPad-link").click(function(){
+        		$("#siteNav-iPad li#OurBrands.iPad-link").hide();
+        		$("#siteNav-iPad li#OurBrands.iPad-no-link").show();
+        		$("#innerHeaderNav #salesNav").css("display","none");
+        		$("#innerHeaderNav #brandsNav").css("display","none");
+        		$("#innerHeaderNav #educationNav").css("display","none");
+        		$("#innerHeaderNav #productsNav").css("display","none");
+    			});
+				$("#siteNav-iPad li#Education.iPad-no-link").click(function(){
+        		$("#siteNav-iPad li#Education.iPad-no-link").hide();
+        		$("#siteNav-iPad li#Education.iPad-link").show();
+        		$("#innerHeaderNav #salesNav").css("display","none");
+        		$("#innerHeaderNav #brandsNav").css("display","none");
+        		$("#innerHeaderNav #educationNav").css("display","block");
+        		$("#innerHeaderNav #productsNav").css("display","none");
+    			});
+    			$("#siteNav-iPad li#Education.iPad-link").click(function(){
+        		
+        		$("#siteNav-iPad li#Education.iPad-link").show();
+				$("#siteNav-iPad li#OurProducts.iPad-no-link").show();
+				$("#siteNav-iPad li#OurBrands.iPad-no-link").show();
+				$("#siteNav-iPad li#Sales.iPad-no-link").show();
+				
+				$("#siteNav-iPad li#Education.iPad-no-link").hide();
+				$("#siteNav-iPad li#OurProducts.iPad-link").hide();
+				$("#siteNav-iPad li#OurBrands.iPad-link").hide();
+				$("#siteNav-iPad li#Sales.iPad-link").hide();
+				
+        		$("#innerHeaderNav #salesNav").css("display","none");
+        		$("#innerHeaderNav #brandsNav").css("display","none");
+        		$("#innerHeaderNav #educationNav").css("display","none");
+        		$("#innerHeaderNav #productsNav").css("display","none");
+    			});
+    			
+    			$("#siteNav-iPad li#Sales.iPad-no-link").click(function(){
+        		$("#siteNav-iPad li#Sales.iPad-link").show();
+				$("#siteNav-iPad li#OurProducts.iPad-no-link").show();
+				$("#siteNav-iPad li#Education.iPad-no-link").show();
+				$("#siteNav-iPad li#OurBrands.iPad-no-link").show();
+				
+				$("#siteNav-iPad li#Sales.iPad-no-link").hide();
+				$("#siteNav-iPad li#OurProducts.iPad-link").hide();
+				$("#siteNav-iPad li#Education.iPad-link").hide();
+				$("#siteNav-iPad li#OurBrands.iPad-link").hide();
+				
+        		$("#innerHeaderNav #salesNav").css("display","block");
+        		$("#innerHeaderNav #brandsNav").css("display","none");
+        		$("#innerHeaderNav #educationNav").css("display","none");
+        		$("#innerHeaderNav #productsNav").css("display","none");
+    			});
+				$("#siteNav-iPad li#Sales.iPad-link").click(function(){
+        		$("#siteNav-iPad li#Sales.iPad-link").hide();
+        		$("#siteNav-iPad li#Sales.iPad-no-link").show();
+        		$("#innerHeaderNav #salesNav").css("display","none");
+        		$("#innerHeaderNav #brandsNav").css("display","none");
+        		$("#innerHeaderNav #educationNav").css("display","none");
+        		$("#innerHeaderNav #productsNav").css("display","none");
+        		});
+			$('#footer').css({'width':'1270px'});
+			$('#navWrapper').css({'width':'1270px'});
+			$('#hubHeader').css({'width':'1270px'});
+			$('#contentResponsive.home').css({'margin-left':'70px'});
+			$('#contentResponsive.wfClass').css({'margin-left':'117px'});
+			 $('.rowHeader').css({'left':'100px'});
+			$('span#siteLogo').css({'position':'relative' , 'left':'113px'});
+			}
+			});
+			</script>
+    <script>
+      <!-- **** end Default Template Javascript **** -->
+    </script>
+    <script>
+      <!-- **** end Default Template Javascript **** -->
+    </script>
   </head>
-      <body class="twocolumn">
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T8X5T6" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-T8X5T6');</script>
-<!-- End Google Tag Manager -->
-        <div id="pageWrapper">
-          <div id="header" class="wfClass">
-        <div id="masthead">
-          <div id="searchWrapper">
-            <div id="searchBox">
-              <div id="googleSearchBox">
-                <form action="searchResults.aspx" id="cse-search-box">
-        <div>
-          <input type="hidden" name="cx" value="008418102433676307395:zfuylipv7ls">
-          <input type="hidden" name="cof" value="FORID:9;NB:1">
-          <input type="hidden" name="ie" value="UTF-8">
-          <input type="text" id="searchCriteria" name="q" autocomplete="on" size="31">
-          <input type="submit" id="searchSubmit" name="sa" value="Search">
-        </div>
-      </form>
-              </div>
+		<body>
+			<!-- Google Tag Manager -->
+			<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T8X5T6" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+			<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+				new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+				j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+				'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+				})(window,document,'script','dataLayer','GTM-T8X5T6');</script>
+			<!-- End Google Tag Manager -->
+			 <div id="hubHeader" class="wfClass">
+        <div class="hub-text-wrapper">
+          <div class="hub-text">
+            <span>Covidien is joining Medtronic</span>
+          </div>
+          <a href="http://www.medtronic.com/us-en/about-3/new-medtronic-plc.html?cmpid=cov_com_us_interpgs_s_banner_joinmdt_2newplc_3_us&amp;utm_source=cov_com_us_interpgs&amp;utm_medium=super_banner_joinmdt_2newplc_about_3_us&amp;utm_campaign=MDT_PLC_Launch_2015" target="_new">
+            <div class="hub-button">
+              <span>LEARN MORE</span>
             </div>
-          </div>
-          <div id="shareThis">
-            <ul>
-              <li class="first first item1">
-                  <a href="http://www.covidien.com/contact"><span>Contact Us</span></a>
-                </li><li class="email item2">
-                  <a class="form" href="#formContent">
-                    <span>Email This Page</span>
-                  </a>
-                </li><li class="removeThis last item3">
-                  <!--[if !IE 6]><!--><script language="javascript" type="text/javascript">
-            SHARETHIS.addEntry({
-            title: 'Covidien.com - ' + document.title,
-            summary:'I thought you might be interested in the information provided by the ' + document.title + ' page on www.covidien.com.',
-            icon: 'http://path.to/icon'
-            }, {button:true}
-            );
-        </script><!--<![endif]-->
-                </li>
-            </ul>
-          </div>
+          </a>
         </div>
-        <div id="lowerHeader">
-          <span id="siteLogo">
-            <a href="http://www.covidien.com/"><img src="../imageServer.aspx/doc192402.gif?contentID=16119&amp;contenttype=image/gif"></a>
-          </span>
-      <nav class="nav_menu">
-      <ul class="dropmenu">
-	
-	<li> <a href="http://products.covidien.com/catalog/pages.aspx"><span>Products</span></a>
-		<ul>
+      </div>
+			<div id="header" class="wfClass">
+				<div id="lowerHeader">
+					<span id="siteLogo">
+						<a href="http://www.covidien.com/covidien"><img src="graphics/covidien-logo.png"></a>
+					</span>
+					<p>Worldwide</p>
 
 
-												<li>
-												
-												<a href="http://surgical.covidien.com"><div id="blue-arrow">›</div><span class="bold">Surgical Solutions 
-													
-													</span></a>
-												<ul id="surgical">
-												<li>
-													<a href="http://surgical.covidien.com/products/stapling"><span>Surgical Stapling</span></a>
-												</li>
-											<li class="no-border">
-													<a href="http://surgical.covidien.com/products/vessel-sealing"><span>Vessel Sealing</span></a>
-												</li>
-											<li>
-													<a href="http://surgical.covidien.com/products/ultrasonic-dissection"><span>Ultrasonic Dissection</span></a>
-												</li>
-											<li>
-													<a href="http://surgical.covidien.com/products/hernia-repair"><span>Hernia Repair</span></a>
-												</li>
+					<div class="rowHeader">
+						<div id="careerInvest">
+							<ul>
+								<li class="first first item1">
+										<a href="http://careers.covidien.com"><span>Careers</span></a>
+									</li><li class="second last item2">
+										<a href="http://www.covidien.com/videos"><span>Videos</span></a>
+									</li>
+							</ul>
+						</div>
+ 
 
-											<li class="no-border">
-													<a href="http://surgical.covidien.com/products/hand-instruments-and-ligation"><span>Hand Instruments &amp; Ligation Devices</span></a>
-												</li>
-											<li>
-													<a href="http://surgical.covidien.com/products/electrosurgical-hardware"><span>Electrosurgical Hardware &amp; Accessories </span></a>
-												</li>
-											<li>
-													<a href="http://surgical.covidien.com/products/electrosurgical-instruments"><span>Electrosurgical Instruments &amp; Accessories</span></a>
-												</li>
-											<li class="no-border">
-													<a href="http://surgical.covidien.com/products/smoke-evacuation"><span>Smoke Evacuation Systems &amp; Accessories</span></a>
-												</li>
+						<div class="countrySelect">
+							<select id="selectLang" onchange="if(this.selectedIndex!=0)self.location=this.options[this.selectedIndex].value">
+								<option value="selectLang">Select a Country</option>
+								<option value="http://www.covidien.com.br/">
+									Brasil
+								</option><option value="http://www.covidien.com/cn/pages.aspx">
+									中国
+								</option>
+								<option value="http://www.covidien.com/de/pages.aspx">
+									Deutschland
+								</option>
+								<option value="http://www.covidien.co.il/pages.aspx">
+									ישראל
+								</option>
+								<option value="http://www.covidien.co.jp">
+									日本
+
+								</option>
+								<option value="http://www.covidien.com/kr/pages.aspx">
+									한국
+
+								</option>
+								<option value="http://www.covidien.com/russia/pages.aspx">
+									Россия
+
+								</option>
+								<option value="http://www.covidien.com/turkey/pages.aspx">
+									Türkiye
+
+								</option>
+							</select>
+						</div>
+					</div>
+					<div style="clear:right;"></div>
+				</div> <!-- lower header -->
+
+			</div>
+			<div id="navWrapper">
+				<div id="innerHeaderNav">
+					<ul class="navigation" id="siteNav">
+							<li id="OurProducts" class="first">
+								<!-- span class="leftBracket">[</span -->
+								<a href="http://products.covidien.com/catalog/pages.aspx"><span>Products</span></a>
+								<!-- span class="rightBracket">]</span -->
+							</li>
+							<li id="OurBrands">
+								<!-- span class="leftBracket">[</span -->
+								<a href="http://www.covidien.com/pace/clinical-education"><span>Education &amp; Training</span></a>
+								<!-- span class="rightBracket">]</span -->
+							</li>
+							<li id="Education">
+								<a href="http://www.covidien.com/about"><span>About Us</span></a>
+
+							</li>
+							<li id="Sales">
+								<!-- span class="leftBracket">[</span -->
+								<a href="http://www.covidien.com/sales-support"><span>Sales &amp; Support</span></a>
+								<!-- span class="rightBracket">]</span -->
+							</li>
+						</ul><ul class="navigation" id="siteNav-iPad">
+							<li class="iPad-link first" id="OurProducts">
+								<!-- span class="leftBracket">[</span -->
+								<a href="http://products.covidien.com/catalog/pages.aspx"><span>Products</span></a>
+								<!-- span class="rightBracket">]</span -->
+							</li>
+							<li class="iPad-no-link first" id="OurProducts">
+								<!-- span class="leftBracket">[</span -->
+								<span>Products</span>
+								<!-- span class="rightBracket">]</span -->
+							</li>
+							<li class="iPad-link dropdownNavActive" id="OurBrands">
+								<!-- span class="leftBracket">[</span -->
+								<a href="http://www.covidien.com/pace/clinical-education"><span>Education &amp; Training</span></a>
+								<!-- span class="rightBracket">]</span -->
+							</li>
+							<li class="iPad-no-link" id="OurBrands">
+								<!-- span class="leftBracket">[</span -->
+								<span>Education &amp; Training</span>
+								<!-- span class="rightBracket">]</span -->
+							</li>
+							<li class="iPad-link dropdownNavActive" id="Education">
+								<a href="http://www.covidien.com/about"><span>About Us</span></a>
+
+							</li>
+							<li class="iPad-no-link" id="Education">
+								<span>About Us</span>
+
+							</li>
+							<li class="iPad-link dropdownNavActive" id="Sales">
+								<!-- span class="leftBracket">[</span -->
+								<a href="http://www.covidien.com/sales-support"><span>Sales &amp; Support</span></a>
+								<!-- span class="rightBracket">]</span -->
+							</li>
+							<li class="iPad-no-link" id="Sales">
+								<!-- span class="leftBracket">[</span -->
+								<span>Sales &amp; Support</span>
+								<!-- span class="rightBracket">]</span -->
+							</li>
+						</ul>
+
+					<div id="searchWrapper">
+
+						<div id="searchBox">
+							<div id="googleSearchBox">
+								<form action="pages.aspx" id="cse-search-box">
+			<div>
+				<input type="hidden" name="cx" value="008418102433676307395:fz8d_yxqmcw">
+				<input type="hidden" name="cof" value="FORID:9;NB:1">
+				<input type="hidden" name="ie" value="UTF-8">
+				<input type="hidden" name="page" value="SearchResults">
+				<!-- span id="searchFor">Search for</span -->
+				<input type="text" id="searchCriteria" name="q" size="31">
+				<input type="image" name="submit" src="graphics/covSearchSubmit.jpg" id="searchSubmit" class="searchbox_submit">
+			</div>
+		</form>
+							</div>
+						</div>
+					</div>
+					<div id="shareThis">
+						<ul>
+							<li class="first first item1">
+									<a href="http://www.covidien.com/contact"><span>Contact Us</span></a>
+								</li><li class="second last item2">
+									<a href="http://www.addtoany.com/share_save" class="a2a_dd">Share This</a>
+								</li>
+						</ul>
+					</div>
+
+
+
+					<div id="productsNav"> <!-- PRODUCTS POPUP -->
+						<div class="navPopUp">
+							<div class="navPopUpTitle">
+									<a href="http://products.covidien.com/catalog/pages.aspx"><h2>Products  ›</h2></a>
+
+								</div><div class="dropdownNavigation">
+									<div class="headerSection1">
+										<ul>
+
 
 											<li>
-													<a href="http://surgical.covidien.com/products/trocars-and-access"><span>Trocars &amp; Access Instruments</span></a>
-												</li>
-											<li>
-													<a href="http://surgical.covidien.com/products/single-incision-laparoscopic-surgery"><span>Single Incision Laparoscopic Surgery</span></a>
-												</li>
-											<li class="no-border">
-													<a href="http://surgical.covidien.com/products/wound-closure"><span>Wound Closure</span></a>
-												</li>
-											<li>
-													<a href="http://surgical.covidien.com/products/ablation-systems"><span>Ablation Systems</span></a>
-												</li>
-													<li>
-											<a href="http://surgical.covidien.com/products/sports-surgery"><span>Sports Surgery</span></a>
-										</li>
-											<li class="no-border">
-												<a href="http://surgical.covidien.com/products"><span>All Surgical Products</span></a>
+												<a href="http://www.covidien.com/surgical"><span class="bold">Surgical Solutions</span></a>
 											</li>
+											<li>
+													<a href="http://www.covidien.com/surgical/products/ablation-systems"><span>Ablation Systems</span></a>
+												</li>
+											<li>
+													<a href="http://www.covidien.com/surgical/products/electrosurgical-instruments"><span>Electrosurgical Instruments &amp; Accessories</span></a>
+												</li>
+											<li>
+													<a href="http://www.covidien.com/surgical/products/electrosurgical-hardware"><span>Electrosurgical Hardware &amp; Accessories </span></a>
+												</li>
+											<li>
+													<a href="http://www.covidien.com/surgical/products/hand-instruments-and-ligation"><span>Hand Instruments &amp; Ligation Devices</span></a>
+												</li>
+											<li>
+													<a href="http://www.covidien.com/surgical/products/hernia-repair"><span>Hernia Repair</span></a>
+												</li>
+
+											<li>
+													<a href="http://www.covidien.com/surgical/products/single-incision-laparoscopic-surgery"><span>Single Incision Laparoscopic Surgery</span></a>
+												</li>
+											<li>
+													<a href="http://www.covidien.com/surgical/products/smoke-evacuation"><span>Smoke Evacuation Systems &amp; Accessories</span></a>
+												</li>
+												<li>
+											<a href="http://www.covidien.com/surgical/products/sports-surgery"><span>Sports Surgery</span></a>
+											</li>
+
+											<li>
+													<a href="http://www.covidien.com/surgical/products/stapling"><span>Surgical Stapling</span></a>
+												</li>
+											<li>
+													<a href="http://www.covidien.com/surgical/products/vessel-sealing"><span>Vessel Sealing</span></a>
+												</li>
+
+											<li>
+													<a href="http://www.covidien.com/surgical/products/ultrasonic-dissection"><span>Ultrasonic Dissection</span></a>
+												</li>
+											<li>
+													<a href="http://www.covidien.com/surgical/products/trocars-and-access"><span>Trocars &amp; Access Instruments</span></a>
+												</li>
+											<li>
+													<a href="http://www.covidien.com/surgical/products/wound-closure"><span>Wound Closure</span></a>
+												</li>
+
+											<li>
+												<a href="http://www.covidien.com/surgical/products"><span>All Surgical Products</span></a>
+											</li>
+
 										</ul>
-											</li>
-					<li>
-												<a href="http://covidien.com/rms"><div id="blue-arrow">›</div><span class="bold">Respiratory &amp; Monitoring Solutions</span></a>
-											
-																<ul id="rms">
+									</div>
+									<div class="headerSection1">
+										<ul>
+
+
+
 											<li>
-													<a href="http://covidien.com/rms/products/acute-platform-ventilation"><span>Acute Care Ventilation</span></a>
+												<a href="http://www.covidien.com/rms"><span class="bold">Respiratory &amp; Monitoring Solutions</span></a>
+											</li>
+												<li>
+													<a href="http://www.covidien.com/rms/products/acute-platform-ventilation"><span>Acute Care Ventilation</span></a>
 												</li>
 
 									
 									
 											<li>
-													<a href="http://covidien.com/rms/products/brain-monitoring"><span>Brain Monitoring</span></a>
+													<a href="http://www.covidien.com/rms/products/brain-monitoring"><span>Brain Monitoring</span></a>
 												</li>
 											<li>
-													<a href="http://covidien.com/rms/products/capnography"><span>Capnography</span></a>
+													<a href="http://www.covidien.com/rms/products/capnography"><span>Capnography</span></a>
 												</li>
-											<li class="no-border">
-													<a href="http://covidien.com/rms/products/cerebral-somatic-oximetry"><span>Cerebral/Somatic Oximetry</span></a>
+											<li>
+													<a href="http://www.covidien.com/rms/products/cerebral-somatic-oximetry"><span>Cerebral/Somatic Oximetry</span></a>
 												</li>
 											
-														<li class="no-border">
+														<li>
 													<a href="http://www.covidien.com/rms/products/endotracheal-airway-tubes-for-the-intensive-care-unit"><span>Endotracheal Tubes – ICU</span></a>
 												</li>
-													<li class="no-border">
+													<li>
 													<a href="http://www.covidien.com/rms/products/endotracheal-airway-tubes-and-accessories-for-the-operating-room"><span>Endotracheal Tubes – Operating Room</span></a>
 												</li>
 
 											<li>
-													<a href="http://covidien.com/rms/products/portable-platform-ventilation"><span>Portable Ventilation</span></a>
+													<a href="http://www.covidien.com/rms/products/portable-platform-ventilation"><span>Portable Ventilation</span></a>
 												</li>
 											<li>
-													<a href="http://covidien.com/rms/products/pulse-oximetry"><span>Pulse Oximetry</span></a>
+													<a href="http://www.covidien.com/rms/products/pulse-oximetry"><span>Pulse Oximetry</span></a>
 												</li>
 
-											<li class="no-border">
-													<a href="http://covidien.com/rms/products/remote-patient-monitoring"><span>Remote Patient Monitoring</span></a>
+											<li>
+													<a href="http://www.covidien.com/rms/products/remote-patient-monitoring"><span>Health Informatics &amp; Monitoring</span></a>
 												</li>	
 												
 													<li>
@@ -296,259 +495,485 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 													<a href="http://www.covidien.com/rms/products/video-laryngoscopy"><span>Video Laryngoscopy</span></a>
 												</li>
 
-
-													<li>
-												<a href="http://covidien.com/rms/products"><span>All Respiratory &amp; Monitoring Products</span></a>
-												</li>
-												</ul>
+											<li>
+												<a href="http://www.covidien.com/rms/products"><span>All Respiratory &amp; Monitoring Products</span></a>
 											</li>
 											<li>
-											
-											<a href="http://www.covidien.com/vt/pages.aspx"><div id="blue-arrow">›</div><span>Vascular Therapies</span></a>
-											<ul id="vasc">
-												<li>
-														<a href="http://www.covidien.com/dialysiscatheter/pages.aspx?page=DialysisCatheter"><span>Dialysis Access Products</span></a>
-													</li><li>
-														<a href="http://www.kendallvasculartherapy.com/VascularTherapy/pagebuilder.aspx?topicID=187648"><span>Guide Wires</span></a>
-													</li><li>
-														<a href="http://www.ev3.net/neuro/us/"><span>Neurovascular Products</span></a>
-													</li><li>
-														<a href="http://www.ev3.net/interactive/us-interactive-catalog-2013.htm"><span>Peripheral Vascular Product Catalog</span></a>
-													</li><li>
-														<a href="http://www.ev3.net/peripheral/us/"><span>Peripheral Vascular Products</span></a>
-													</li><li>
-														<a href="http://www.covidien.com/trellis/pages.aspx?page=products"><span>Peripheral Infusion System</span></a>
-													</li><li>
-														<a href="http://www.covidien.com/vascularcompression/pages.aspx?page=home"><span>Vascular Compression</span></a>
-													</li><li>
-														<a href="http://www.venefitprocedure.com/"><span>Venous Insufficiency Treatment</span></a>
-													</li>
-											</ul>
-										</li>
+												<a href="http://www.ev3.net/neuro/us"><span class="bold3">Neurovascular Products</span></a>
+											</li>
 
-											
+
+
+										</ul>
+									</div>
+									<div class="headerSection1">
+										<ul>
+											<li>
+												<a href="http://www.covidien.com/vt/pages.aspx"><span class="bold">Peripheral Vascular</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/dialysiscatheter/pages.aspx?page=DialysisCatheter"><span>Dialysis Access Products</span></a>
+											</li>
+
+
+											<li>
+												<a href="http://www.kendallvasculartherapy.com/VascularTherapy/pagebuilder.aspx?topicID=187648"><span>Guide Wires</span></a>
+											</li>
+
+
+
+											<li>
+												<a href="http://www.ev3.net/interactive/us-interactive-catalog-2013.htm"><span>Peripheral Vascular Product Catalog</span></a>
+											</li>
+											<li>
+												<a href="http://www.ev3.net/peripheral/us"><span>Peripheral Vascular Products</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/trellis/pages.aspx?page=products"><span>Peripheral Infusion System</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/vascularcompression/pages.aspx?page=home"><span>Vascular Compression</span></a>
+											</li>
+											<li>
+												<a href="https://venefitprocedure.com"><span>Venous Insufficiency Treatment</span></a>
+											</li>
 
 											<!-- Medical Supplies -->
-											<li class="no-border">
-												<a href="http://www.covidien.com/medicalsupplies/pages.aspx"><span class="minus">Medical Supplies</span></a>
+											<li>
+												<a href="http://www.covidien.com/medicalsupplies/pages.aspx"><span class="bold3">Medical Supplies</span></a>
 											</li>
-											
+											<li>
+												<a href="http://www.covidien.com/animalhealth"><span>Animal Health</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/cps"><span>Custom Product Solutions</span></a>
+											</li>
+											<li>
+												<a href="http://www.kendall-ltp.com/pagebuilder.aspx?webPageID=149910"><span>Monitoring &amp; Operating Room Products</span></a>
+											</li>
+											<li>
+												<a href="http://www.kendallpatientcare.com/pagebuilder.aspx?webPageID=106258"><span>Nursing Care</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/SharpSafety"><span>SharpSafety</span></a>
+											</li>
 										</ul>
-	</li>
-           <li>
-	<a href="http://www.covidien.com/pace/pages.aspx?page=ClinicalEducation"><span>Education &amp; Training</span></a>
-				<ul>
+									</div>
+									<div class="headerSection2">
+										<div class="navPopUpCallout">
+											<h3>Product Spotlight</h3>
+											<p>Take the Product Tour of the Puritan Bennett™ 980 Ventilator
+												to explore the features and learn about the new ventilator.
+											</p>
+											<p class="navPopUpCalloutButton">
+												<a href="http://www.covidien.com/rms/products/acute-platform-ventilation/puritan-bennett-pb980-ventilator/product-tour">Learn More</a>
+											</p>
+											<div class="featureNavImage">
+												<a href="http://www.covidien.com/rms/products/acute-platform-ventilation/puritan-bennett-pb980-ventilator/product-tour">
+													<img src="graphics/covidien-feature-product.jpg">
+												</a>
+											</div>
+										</div>
+									</div>
+
+								</div>
+						</div>
+
+					</div> 
+					<!-- END PRODUCTS POPUP -->
+					<div id="brandsNav"> <!-- BRANDS POPUP -->
+						<div class="navPopUp">
+							<div class="navPopUpTitle">
+									<a href="http://www.covidien.com/pace/clinical-education"><h2>Education &amp; Training ›</h2></a>
+
+								</div><div class="dropdownNavigation">
+									<div class="headerSection1">
+										<ul>
+
 											<li>
-												<a href="http://surgical.covidien.com/education-and-training/biomed-connect"><span class="minus">BioMed Connect</span></a>
+												<a href="http://www.covidien.com/surgical/education-and-training/biomed-connect"><span class="bold">BioMed Connect<sup>TM</sup></span></a>
 											</li>
 											<li>
-												<a href="http://covidien.com/pace/pages.aspx?page=ClinicalEducation/Channels"><div id="blue-arrow">›</div><span>Clinical Education</span></a>
-												<ul id="clinedu">
-												<li class="no-border">
-												<a href="http://covidien.com/pace/pages.aspx?page=ClinicalEducation/Channels/AdultCardiacMonitoring"><span>Adult Cardiac Monitoring</span></a>
+												<a href="http://www.covidien.com/pace/clinical-education/channels"><span class="bold3">Clinical Education</span></a>
 											</li>
 											<li>
-												<a href="http://covidien.com/pace/pages.aspx?page=ClinicalEducation/Channels/BrainFunctionMonitoring"><span>Brain Monitoring System</span></a>
+												<a href="http://www.covidien.com/pace/clinical-education/channels/adult-cardiac-monitoring"><span>Adult Cardiac Monitoring</span></a>
 											</li>
 											<li>
-												<a href="http://covidien.com/pace/pages.aspx?page=ClinicalEducation/Channels/Capnography"><span>Capnography</span></a>
-											</li>
-											<li class="no-border">
-												<a href="http://covidien.com/pace/pages.aspx?page=ClinicalEducation/Channels/CongenitalHeartDisease"><span>Congenital Heart Disease</span></a>
+												<a href="http://www.covidien.com/pace/clinical-education/channels/brain-function-monitoring"><span>Brain Monitoring System</span></a>
 											</li>
 											<li>
-												<a href="http://covidien.com/pace/pages.aspx?page=ClinicalEducation/Channels/IntensiveCareMonitoring "><span>Intensive Care Monitoring</span></a>
+												<a href="http://www.covidien.com/pace/clinical-education/channels/capnography"><span>Capnography</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/pace/clinical-education/channels/congenital-heart-disease"><span>Congenital Heart Disease</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/pace/clinical-education/channels/intensive-care-monitoring"><span>Intensive Care Monitoring</span></a>
 											</li>
 
 											<li>
-												<a href="http://covidien.com/pace/pages.aspx?page=ClinicalEducation/Channels/PeripheralArterialDisease"><span>Peripheral Arterial Disease</span></a>
-											</li>
-											<li class="no-border">
-												<a href="http://www.covidien.com/PACE/pages.aspx?page=ClinicalEducation/Channels/Post-IntubationPulmonaryComplications"><span>Post-Intubation Pulmonary Complications</span></a>
+												<a href="http://www.covidien.com/pace/clinical-education/channels/peripheral-arterial-disease"><span>Peripheral Arterial Disease</span></a>
 											</li>
 											<li>
-												<a href="http://www.covidien.com/PACE/pages.aspx?page=ClinicalEducation/Channels/Reimbursement"><span>Reimbursement</span></a>
+												<a href="http://www.covidien.com/pace/clinical-education/channels/post-intubation-pulmonary-complications"><span>Post-Intubation Pulmonary Complications</span></a>
 											</li>
 											<li>
-												<a href="http://www.covidien.com/PACE/pages.aspx?page=ClinicalEducation/Channels/RespiratoryFunctionMonitoring"><span>Respiratory Function Monitoring</span></a>
+												<a href="http://www.covidien.com/pace/clinical-education/channels/reimbursement"><span>Reimbursement</span></a>
 											</li>
-										<li class="no-border">
-												<a href="http://www.covidien.com/PACE/pages.aspx?page=ClinicalEducation/Channels/Ventilation"><span>Ventilation</span></a>
-											</li>
-											</ul>
-											</li>
-											
 											<li>
-												<!--Start Pace Care Setting--> 
-												<a href="http://covidien.com/pace/pages.aspx?page=ClinicalEducation/CareSetting"><div id="blue-arrow">›</div><span>Care Setting</span></a>
-												<ul id="care">
-												<li>
-													<a href="http://covidien.com/pace/pages.aspx?page=ClinicalEducation/CareSetting/AdolescentUnit"><span>Adolescent Unit</span></a>
-												</li>
-											<li class="no-border">
-													<a href="http://covidien.com/pace/pages.aspx?page=ClinicalEducation/CareSetting/CathLab"><span>Cath Lab</span></a>
+												<a href="http://www.covidien.com/pace/clinical-education/channels/respiratory-function-monitoring"><span>Respiratory Function Monitoring</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/pace/clinical-education/channels/ventilation"><span>Ventilation</span></a>
+											</li>
+
+										</ul>
+									</div>
+									<div class="headerSection1">
+										<ul>
+											<li>
+												<!--Start Pace Care Setting--> <a href="http://www.covidien.com/pace/clinical-education/care-setting"><span class="bold">Care Setting</span></a>
+											</li>
+											<li>
+													<a href="http://www.covidien.com/pace/clinical-education/care-setting/adolescent-unit"><span>Adolescent Unit</span></a>
 												</li>
 											<li>
-													<a href="http://covidien.com/pace/pages.aspx?page=ClinicalEducation/CareSetting/EmergencyRoom"><span>Emergency Room (ER)</span></a>
+													<a href="http://www.covidien.com/pace/clinical-education/care-setting/cath-lab"><span>Cath Lab</span></a>
 												</li>
 											<li>
-													<a href="http://covidien.com/pace/pages.aspx?page=ClinicalEducation/CareSetting/GeneralCareFloor"><span>General Care Floor</span></a>
+													<a href="http://www.covidien.com/pace/clinical-education/care-setting/emergency-room"><span>Emergency Room (ER)</span></a>
 												</li>
-											<li class="no-border">
-													<a href="http://covidien.com/pace/pages.aspx?page=ClinicalEducation/CareSetting/Hematology-OncologyUnit(NICU)"><span>Hematology/Oncology Unit (NICU)</span></a>
+											<li>
+													<a href="http://www.covidien.com/pace/clinical-education/care-setting/general-care-floor"><span>General Care Floor</span></a>
+												</li>
+											<li>
+													<a href="http://www.covidien.com/pace/clinical-education/care-setting/hematology-oncology-unit-nicu"><span>Hematology/Oncology Unit</span></a>
 												</li>
 
 											<li>
-													<a href="http://covidien.com/pace/pages.aspx?page=ClinicalEducation/CareSetting/HomeSetting"><span>Home Setting</span></a>
+													<a href="http://www.covidien.com/pace/clinical-education/care-setting/home-setting"><span>Home Setting</span></a>
 												</li>
 											<li>
-													<a href="http://covidien.com/pace/pages.aspx?page=ClinicalEducation/CareSetting/IntensiveCareUnit"><span>Intensive Care Unit (ICU)</span></a>
+													<a href="http://www.covidien.com/pace/clinical-education/care-setting/intensive-care-unit"><span>Intensive Care Unit (ICU)</span></a>
 												</li>
-											<li class="no-border">
-													<a href="http://covidien.com/pace/pages.aspx?page=ClinicalEducation/CareSetting/LaborDelivery"><span>Labor &amp; Delivery</span></a>
+											<li>
+													<a href="http://www.covidien.com/pace/clinical-education/care-setting/labor-delivery"><span>Labor &amp; Delivery</span></a>
 												</li>
 
 
 
 											<li>
-													<a href="http://covidien.com/pace/pages.aspx?page=ClinicalEducation/CareSetting/LongTermCareCenter"><span>Long Term Care Center (LTCC)</span></a>
+													<a href="http://www.covidien.com/pace/clinical-education/care-setting/long-term-care-center"><span>Long Term Care Center (LTCC)</span></a>
 												</li>										
 
 											<li>
-													<a href="http://covidien.com/pace/pages.aspx?page=ClinicalEducation/CareSetting/Office"><span>Office</span></a>
-												</li>
-											<li class="no-border">
-													<a href="http://covidien.com/pace/pages.aspx?page=ClinicalEducation/CareSetting/OperatingRoom(OR)"><span>Operating Room (OR)</span></a>
+													<a href="http://www.covidien.com/pace/clinical-education/care-setting/office"><span>Office</span></a>
 												</li>
 											<li>
-													<a href="http://covidien.com/pace/pages.aspx?page=ClinicalEducation/CareSetting/NeonatalIntensiveCareUnit"><span>Neonatal Intensive Care Unit</span></a>
+													<a href="http://www.covidien.com/pace/clinical-education/care-setting/operating-room"><span>Operating Room (OR)</span></a>
 												</li>
 											<li>
-													<a href="http://covidien.com/pace/pages.aspx?page=ClinicalEducation/CareSetting/PediatricEmergencyDepartment"><span>Pediatric Emergency Department</span></a>
+													<a href="http://www.covidien.com/pace/clinical-education/care-setting/neonatal-intensive-care-unit"><span>Neonatal Intensive Care Unit (NICU)</span></a>
 												</li>
-											<li class="no-border">
-													<a href="http://covidien.com/pace/pages.aspx?page=ClinicalEducation/CareSetting/PediatricIntensiveCareUnit"><span>Pediatric Intensive Care Unit (PICU)</span></a>
+											<li>
+													<a href="http://www.covidien.com/pace/clinical-education/care-setting/pediatric-emergency-department"><span>Pediatric Emergency Department</span></a>
+												</li>
+											<li>
+													<a href="http://www.covidien.com/pace/clinical-education/care-setting/pediatric-intensive-care-unit"><span>Pediatric Intensive Care Unit (PICU)</span></a>
 												</li>
 
 											<li>
-													<a href="http://covidien.com/pace/pages.aspx?page=ClinicalEducation/CareSetting/PediatricUnit"><span>Pediatric Unit</span></a>
+													<a href="http://www.covidien.com/pace/clinical-education/care-setting/pediatric-unit"><span>Pediatric Unit</span></a>
 												</li>
 											<li>
-													<a href="http://covidien.com/pace/pages.aspx?page=ClinicalEducation/CareSetting/Universities"><span>Universities</span></a>
+													<a href="http://www.covidien.com/pace/clinical-education/care-setting/universities"><span>Universities</span></a>
 												</li>
-												</ul>
-											</li>
-											
-											<li class="no-border">
-												<a href="http://www.patientcare-edu.com/pages.aspx"><span class="minus">Patient Care Education</span></a>
+										</ul>
+									</div>
+									<div class="headerSection1">
+										<ul>
+											<li>
+												<a href="http://www.patientcare-edu.com/pages.aspx"><span class="bold">Patient Care Education</span></a>
 											</li>
 
-										<li>
-												<a href="http://www.covidien.com/pace"><div id="blue-arrow">›</div><span>Product Training</span></a>
-											<ul id="training">
-											<li>
-												<a href="http://www.kangaroopumptraining.com"><span>Kangaroo Pump Training</span></a>
-											</li>
-											<li>
-												<a href="http://www.genius2training.com"><span>Thermometry Product Training</span></a>
-											</li>
-
-											<li class="no-border">
-												<a href="http://akamai.covidien.com/sfdistribution/vtn/flash/magellan/home.htm"><span>Magellan Safety Product Training</span></a>
+											<li class="navPopUpHeader">
+												<span class="bold3">Product Training</span>
 											</li>
 											<li>
 												<a href="http://akamai.covidien.com/sfdistribution/vtn/flash/cardiotraining/home.htm"><span>Argyle Chest Drainage Unit Training</span></a>
 											</li>
 											<li>
-												<a href="http://www.doverurologytraining.com/"><span>Dover Collection System Training</span></a>
-											</li>
-											<li class="no-border">
-												<a href="http://akamai.covidien.com/sfdistribution/vtn/flash/skinwellness/home.htm"><span>Kendall Skin Wellness System</span></a>
-											</li>
-											<li>
-												<a href="http://www.turkelsafetysystem.com/"><span>Turkel Safety System Training</span></a>
+												<a href="http://www.barrxuniversity.com"><span>Barrx Products Education</span></a>
 											</li>
 											<li>
 												<a href="http://akamai.covidien.com/sfdistribution/vtn/flash/bonemarrowbiopsy/home.htm"><span>Bone Marrow Biopsy/Aspiration Needle Training</span></a>
 											</li>
 
-											<li class="no-border">
-												<a href="http://www.barrxuniversity.com"><span>Barrx Products Education</span></a>
-											</li>
 											<li>
 												<a href="http://www.capsuleendoscopy.org/Pages/Home.aspx"><span>Capsule Endoscopy Education</span></a>
 											</li>
-											</ul>
-											</li>
-											
-		</ul>
-              </li>
-              <li> <a href="http://www.covidien.com/about"><span>About Us</span></a>
-		<ul>
-				<li>
-												<a href="http://www.covidien.com/about/our-story"><span>Our Story</span></a>
+											<li>
+												<a href="http://www.doverurologytraining.com"><span>Dover Collection System Training</span></a>
 											</li>
 											<li>
-												<a href="http://www.covidien.com/about/mission"><span>Mission &amp; Values</span></a>
+												<a href="http://www.kangaroopumptraining.com"><span>Kangaroo Pump Training</span></a>
 											</li>
 											<li>
-												<a href="http://www.covidien.com/about/corporate-fact-sheet"><span>Corporate Fact Sheet</span></a>
+												<a href="http://akamai.covidien.com/sfdistribution/vtn/flash/skinwellness/home.htm"><span>Kendall Skin Wellness System</span></a>
 											</li>
 											<li>
-												<a href="http://www.covidien.com/about/social-responsibility"><span>Social Responsibility</span></a>
+												<a href="http://akamai.covidien.com/sfdistribution/vtn/flash/magellan/home.htm"><span>Magellan Safety Product Training</span></a>
+											</li>
+
+											<li>
+												<a href="http://www.genius2training.com"><span>Thermometry Product Training</span></a>
+											</li>
+											<li>
+												<a href="http://www.turkelsafetysystem.com"><span>Turkel Safety System Training</span></a>
+											</li>
+
+										</ul>
+									</div>
+									<div class="headerSection2">
+										<div class="navPopUpCallout">
+											<h3>Education Spotlight</h3>
+											<p><strong>Ventral Hernia and Abdominal Wall Repair Master Class:</strong> This robust one-day program will include didactic lecture as well as a hands-on lab session.
+											</p>
+											<p class="navPopUpCalloutButton">
+												<a href="http://www.covidien.com/pace/clinical-education/event/258565">Learn More</a>
+											</p>
+											<div class="featureNavImage">
+												<a href="http://www.covidien.com/pace/clinical-education/event/258565">
+													<img src="graphics/featured-training-image.jpg">
+												</a>
+											</div>
+										</div>
+									</div>
+
+								</div>
+						</div>
+
+					</div> <!-- END BRANDS POPUP -->
+					<div id="educationNav"> 
+						<div class="navPopUp" id="about">
+							<div class="navPopUpTitle">
+									<a href="http://www.covidien.com/about"><h2>About Us ›</h2></a>
+								</div><div class="dropdownNavigation">
+									<div class="headerSection1">
+										<ul>
+											<li>
+												<a href="http://www.covidien.com/about/philanthropy"><span class="bold">Philanthropy</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/philanthropy/community-partners"><span>Community Partners</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/philanthropy/donations"><span>Product Donations</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/philanthropy/commitment"><span>Employee Commitment</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/suppliers"><span class="bold">Suppliers</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/suppliers/code-of-conduct"><span>Code of Conduct</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/suppliers/expectations"><span>Expectations</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/suppliers/diversity"><span>Supplier Diversity</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/suppliers/sustainability"><span>Supplier Sustainability</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/suppliers/conflict-minerals"><span>Conflict Minerals</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/suppliers/recognition-program"><span>Supplier Recognition Program</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/suppliers/registration"><span>Supplier Registration</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/ethical-research-and-development"><span class="bold">Ethical Research &amp; Development</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/your-ideas"><span class="bold">Your Ideas</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/your-ideas/why"><span>Why Submit</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/your-ideas/what"><span>What to Submit</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/your-ideas/how"><span>How to Submit</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/your-ideas/idea-submit"><span>Areas of Interest</span></a>
+											</li>
+										</ul>
+									</div>
+									<div class="headerSection2">
+										<ul>
+											<li>
+												<a href="http://www.covidien.com/about/clinical-education"><span class="bold">Clinical Education</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/clinical-education/fellowships"><span>Fellowships</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/clinical-education/resident"><span>Resident Training</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/clinical-education/nursing"><span>Nursing Programs</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/advanced-training"><span class="bold">Advanced Training</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/advanced-training/master-classes"><span>Master Classes</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/advanced-training/clinical-immersion"><span>Clinical Immersion</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/advanced-training/mentorship"><span>Mentorship</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/advanced-training/mini-fellowship"><span>Mini-fellowship</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/grants"><span class="bold">Grants</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/grants/instructions"><span>Instructions</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/grants/documents"><span>Documents</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/grants/application"><span>Application</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/grants/more-information"><span>More Information</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/grants/charitable-contributions"><span>Charitable Contributions</span></a>
+											</li>
+										</ul>
+									</div>
+
+
+									<div class="headerSection3">
+										<ul>
+											<li>
+												<a href="http://www.covidien.com/investigatorsponsoredresearch/Home"><span class="bold">Research Grants</span></a>
+											</li> 
+											<li>
+												<a href="http://www.covidien.com/investigatorsponsoredresearch/Home"><span>Investigator Sponsored Research</span></a>
+											</li> 
+											<li>
+												<a href="http://www.covidien.com/investigatorsponsoredresearch/HowToSubmit"><span>How to Submit</span></a>
+											</li>
+											<li class="newwindow">
+												<a href="https://covidien.envisionpharma.com/vt_covidien"><span>Submit Your Research</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/social-responsibility"><span class="bold">Social Responsibility</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/global-inclusion"><span class="bold">Global Inclusion</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/about/global-inclusion/womens-leadership"><span>Womens Leadership</span></a>
+											</li>
+										</ul>
+									</div>
+									<!-- 
+									<div class="headerSection5">
+										<h3>A History of Innovation</h3>
+										<p>In 1940, Ray Bennett created a novel gas delivery mechanism, a jeweled pneumatic valve – the “valve that breathes with the patient.” Bennett’s innovation lead to the development of generations of mechanical ventilators.</p>
+										<p class="attribution">
+											<strong>[</strong><link page="about/our-story"><span>Learn More</span></link><strong>]</strong>
+										</p>
+										<div class="featureNavImage">
+											<a href="http://www.covidien.com/about/our-story">
+												<img src="graphics/featured-about-image-1.jpg"/>
+											</a>										
+										</div>
+									</div>
+ -->
+							
+								</div>
+						</div>
+					</div>
+					<!-- SALES POPUP -->
+					<div id="salesNav"> 
+						<div class="navPopUp" id="about">
+							<div class="navPopUpTitle">
+									<a href="http://www.covidien.com/sales-support"><h2>Sales &amp; Support ›</h2></a>
+								</div><div class="dropdownNavigation">
+									<div class="headerSection1">
+										<ul>
+
+											<li>
+											<a href="http://www.covidien.com/contact"><span class="bold">Contact Us</span></a>
+											</li>
+											<li>
+											<a href="http://www.covidien.com/sales-support"><span class="bold">Customer Service</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/sales-support/australia"><span>Australia/New Zealand</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/asia"><span>Asia</span></a>
+											</li>
+											<li>
+												<a href="http://www.covidien.com/sales-support/canada"><span>Canada</span></a>
 											</li>	
 											<li>
-												<a href="http://www.covidien.com/about/global-inclusion"><span>Global Inclusion</span></a>
+												<a href="http://www.covidien.com/sales-support/europe"><span>Europe, Middle East</span></a>
 											</li>
 											<li>
-												<a href="http://www.covidien.com/globalsourcing"><span>Suppliers</span></a>
+												<a href="http://www.covidien.com/sales-support/latin-america"><span>Latin America</span></a>
 											</li>
-											<li>
-												<a href="http://www.covidien.com/about/laboratory-animals"><span>Ethical Research &amp; Development</span></a>
-											</li>
-											<li>
-												<a href="http://www.covidien.com/about/conscientious-collaboration"><span>Conscientious Collaboration</span></a>
-											</li>
-											<li>
-												<a href="http://www.covidien.com/about/management"><span>Management</span></a>
-											</li>
-											<li>
-												<a href="http://www.covidien.com/news/phoenix.zhtml?c=216712&amp;p=irol-overview"><span>Newsroom</span></a>
-											</li>
-											<li>
-												<a href="http://www.covidien.com/contact"><span class="bold3">Contact Us</span></a>
-											</li>
-		</ul>
-	</li>
-              <li>
-				<!--link url="http://investor.covidien.com/phoenix.zhtml?c=207592&amp;p=irol-news&amp;nyo=0"-->
-				<a href="http://www.covidien.com/news/phoenix.zhtml?c=216712&amp;p=irol-overview"><span>News</span></a>
-              </li>
-              <li>
-                <!--link url="http://investor.covidien.com/phoenix.zhtml?c=207592&amp;p=irol-irhome"-->
-				<a href="http://www.covidien.com/investor/phoenix.zhtml?c=207592&amp;p=irol-irhome"><span>Investor Relations</span></a>
-              </li>
-              <li>
-                <a href="http://careers.covidien.com"><span>Careers</span></a>
-              </li>
-</ul>
-        </nav>
-        </div>
-      </div>
-          <div id="contentWrapper">
-            <div id="breadcrumbs">        
-        <div class="document Breadcrumbs"><ul>
-<li class="first item1"><a href="http://www.covidien.com/">Covidien</a> &gt;</li>
+										</ul>
+									</div>
+									<div class="headerSection5">
+										<h3>Commitment to Quality</h3>
+										<p>Covidien’s Global Sourcing organization is committed to creating mutually beneficial supply base partnerships to assist in delivering excellence in product quality and service to our customers.</p>
+										<p class="attribution">
+											<strong>[</strong>
+											<a href="http://www.covidien.com/imageServer.aspx/doc264616.pdf?contentID=36588&amp;contenttype=application/pdf">Learn More</a><strong>]</strong>
+										</p>
+										<div class="featureNavImage">
+											<a href="http://www.covidien.com/imageServer.aspx/doc264616.pdf?contentID=36588&amp;contenttype=application/pdf">
+												<img src="graphics/commitment-to-quality.jpg">
+											</a>
+										</div>
+									</div>
+
+								</div>
+						</div>
+					</div>
+				</div> <!-- innerHeaderNav -->
+			</div>
+			<div id="pageWrapperResponsive">
+	
+				<div id="contentResponsive" class="wfClass"> <div id="breadcrumbs-2">
+			<div class="document Breadcrumbs"><ul>
+<li class="first item1"><a href="http://www.covidien.com/home">Home</a> &gt;</li>
 <li class="last item2">Privacy Policy</li>
-</ul><div class="clear"></div></div>        
-      </div>
-            <div id="primaryNav">
-        <h1>
-          <span>Privacy Policy</span>
-        </h1>
-      </div>
-            <div id="content" class="privacy">
-        <div class="document Rich_Description"><h1><span>Privacy Policy</span></h1><p>Covidien plc, and its affiliates (“Covidien”) - Privacy Policy, Last Updated: April 30, 2012. As a user of this Internet Website (“Site”), you ("you" or "user") are valued by Covidien. Covidien is committed to protecting the personally identifiable information ("Personal Information") provided by and collected from you on this Site in connection with the functions, facilities and services offered on this Site.</p><div class="section1">
+</ul><div class="clear"></div></div>
+		</div>
+
+		<div class="contentOnlyRowII">
+			<div class="document Rich_Description"><h1><span>Privacy Policy</span></h1><p>Covidien plc, and its affiliates (“Covidien”) - Privacy Policy, Last Updated: April 30, 2012. As a user of this Internet Website (“Site”), you ("you" or "user") are valued by Covidien. Covidien is committed to protecting the personally identifiable information ("Personal Information") provided by and collected from you on this Site in connection with the functions, facilities and services offered on this Site.</p><div class="section1">
 <h2><span>What Personal Information Does Covidien Collect From Site Users?</span></h2>
 <p>We may gather Personal Information so that we can improve and personalize your experience with Covidien. Personal Information that we collect falls into the following primary categories. We may receive Personal Information that you enter into the Site, provide in an online form, or provide in any other way. You can choose not to provide some or all of the Personal Information we ask for, but this may prevent you from using some of our Site's features, such as on-line educational course credit. </p>
 <p>In addition to the preceding categories of Personal Information, Covidien also collects certain non-identifiable information (the "Non-Identifiable Information"). Whenever you interact with Covidien, we receive and store certain types of Non-Identifiable Information. For example, we may use "cookies" to obtain information when your web browser accesses this Site. A cookie is an alphanumeric identifier which we transfer to your computer via your Web browser and store on your computer's hard drive. The cookie file allows us to recognize your computer when you visit our Site. On most web browsers you will find a "help" section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie, and how to turn cookies off. We recommend that you leave cookies turned on because they may enable you to take advantage of some of our Site's best features.</p>
@@ -622,40 +1047,249 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p>If an individual has a concern regarding the processing of their personal data they may <a target="_blank" class="link2" href="mailto:corporate.communications@covidien.com?subject=Privacy">contact us</a>.</p>
 <p>Covidien will investigate all concerns and try to resolve them in a timely manner. If you do not find the proposed solution satisfactory, Covidien will resolve the dispute under the enforcement principle of the Safe Harbor framework through  <a target="_blank" class="link2" href="http://www.jamsadr.com/">JAMS</a>, our selected third-party dispute resolution service.</p>
 </div><div class="clear"></div></div>
-      </div>
-            <div class="clear"></div>
-          </div>
-          <div id="footer">
-        <div class="footerNav">
-          <ul>
-            <li class="first">
-              <a href="http://www.covidien.com/about"><span>About Us</span></a>
-            </li>
-            <li>
-              <a href="http://careers.covidien.com"><span>Careers</span></a>
-            </li>
-            <li>
-              <a href="http://www.covidien.com/contact"><span>Contact Us</span></a>
-            </li>
-            <li>
-              <a href="http://www.covidien.com/legal"><span>Legal Information</span></a>
-            </li>
-            <li>
-              <a href="http://www.covidien.com/privacy" class="active"><span>Privacy Policy</span></a>
-            </li>
-            <li class="last">
-              <a href="http://www.covidien.com/compliance"><span>Compliance</span></a>
-            </li>
-          </ul>
-        </div>
-        <div class="footerLegal">
-          © 2014 Covidien. All rights reserved.
-        </div>
-        <div id="disclaimerText" class="disclaimerText hidden">
-          <p>You are leaving this site and entering a non-Covidien Web site. You will be subject to the destination site's privacy policy when you leave this site.</p>
-        </div>
-      </div>
-          
-        </div>
-      
-    <script type="text/javascript" language="JavaScript" src="../elqNowEBD/elqCfg.js"></script><script type="text/javascript" language="JavaScript" src="../elqNowEBD/elqImg.js"></script></body></html>
+		</div>
+	</div>
+
+				<div class="clear"></div>
+
+				<div id="footerWrapper">
+				<div id="footer">
+					<div id="upperFooter">
+						<div class="footerLegal">
+							© 2015 Covidien. All rights reserved.
+						</div>
+						<div id="stdNav" class="stdNav">
+							<ul class="navigation">
+								<li>
+									<a href="http://www.covidien.com/contact"><span>Contact Us</span></a>
+								</li>
+								<li>
+									<a href="http://www.covidien.com/legal"><span>Legal Information</span></a>
+								</li>
+								<li>
+									<a href="http://www.covidien.com/privacy" class="active"><span>Privacy Policy</span></a>
+								</li>
+								<li>
+									<a href="http://www.covidien.com/compliance"><span>Compliance</span></a>
+								</li>
+
+
+
+							</ul>
+						</div>
+					</div>
+
+
+
+					<div id="lowerFooter">
+
+						<div class="media-bar">
+							<div class="row-4">
+
+								<div class="containerMediaLogo">
+									<a href="http://www.covidien.com/covidien">
+										<img src="graphics/covidien-logo-white.png">
+									</a>
+								</div>
+
+								<div class="containerSocialMedia">
+									<div class="container21">
+										<a href="https://www.facebook.com/Medtronic">
+											<img src="graphics/facebook-white.png">
+										</a>
+									</div>
+									<div class="container22">
+										<a href="https://twitter.com/Medtronic">
+											<img src="graphics/twitter-white.png">
+										</a>
+									</div>
+									<div class="container23">
+										<a href="https://www.linkedin.com/company/medtronic">
+											<img src="graphics/linkedin-white.png">
+										</a>
+									</div>
+									<div class="container24">
+										<a href="https://www.youtube.com/user/covidienplc">
+											<img src="graphics/youtube-white.png">
+										</a>
+									</div>
+									<div class="container25">
+										<a href="http://sharinghealthcaresolutions.covidien.com">
+											<img src="graphics/blog-white.png">
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div id="footNavWrapper">
+							<div id="innerfootNavWrapper">
+								<div class="footerSection1">
+									<ul>
+										<li>
+											<a href="http://www.covidien.com/about"><span>About Us</span></a>
+										</li>
+										<li>
+											<a href="http://careers.covidien.com"><span>Careers</span></a>
+										</li>
+
+										<li>
+											<a href="http://www.covidien.com/pace/clinical-education"><span>Education &amp; Training</span></a>
+										</li>
+
+										<li>
+											<a href="http://phx.corporate-ir.net/phoenix.zhtml?c=76126&amp;p=irol-IRHome&amp;loc=MDTHomeRefresh_B_InPage_MainNav_Line1_3"><span>Investor Relations</span></a>
+										</li>
+										<li>
+											<a href="http://newsroom.medtronic.com/phoenix.zhtml?c=251324&amp;p=irol-overview"><span>Newsroom</span></a>
+										</li>
+										<li>
+											<a href="http://products.covidien.com/catalog/pages.aspx"><span>Product Catalog</span></a>
+										</li>
+										<li>
+											<a href="http://www.covidien.com/sales-support"><span>Sales &amp; Support</span></a>
+										</li>
+
+									</ul>
+								</div>
+								<div class="footerSection2">
+									<h5><a><span>Our Businesses</span></a></h5>
+									<ul class="margBottom">
+
+										<li>
+											<a href="http://www.covidien.com/medicalsupplies/pages.aspx"><span>Medical Supplies</span></a>
+										</li>
+
+										<li>
+											<a href="http://www.ev3.net/neuro/us"><span>Neurovascular Products</span></a>
+										</li>
+										<li>
+											<a href="http://www.covidien.com/vt/pages.aspx"><span>Peripheral Vascular</span></a>
+										</li>
+										<li>
+											<a href="http://www.covidien.com/rms"><span>Respiratory &amp; Monitoring Solutions</span></a>
+										</li>
+										<li>
+											<a href="http://www.covidien.com/surgical"><span> Surgical Solutions</span></a>
+										</li>
+
+
+
+									</ul>
+									<h5><a><span>Additional Resources</span></a></h5>
+									<ul>
+
+										<li>
+											<a href="http://www.covidien.com/animalhealth/pages.aspx"><span>Animal Health</span></a>
+										</li>
+										<li>
+											<a href="http://www.covidien.com/surgical/education-and-training/biomed-connect"><span>BioMed Connect<sup>TM</sup></span></a>
+										</li>
+										<li>
+											<a href="http://www.covidien.eu/products/pages.aspx"><span>European Surgical Product Catalog</span></a>
+										</li>
+										<li>
+											<a href="http://www.covidien.com/reimbursement/pages.aspx"><span>Reimbursement</span></a>
+										</li>
+										<li>
+											<a href="http://www.covidien.com/surgical/services/valleylab-exchange"><span>Valleylab<sup>TM</sup> Exchange Software</span></a>
+										</li>
+									</ul>
+								</div>
+								<div class="footerSection2">
+									<h5><a><span>Patient Resources</span></a></h5>
+									<ul>
+
+										<li>
+											<a href="http://www.covidien.com/bariatrics/Patients"><span>Bariatrics</span></a>
+										</li>
+										<li>
+											<a href="http://treatbarretts.com"><span>Barretts Disease</span></a>
+										</li>
+										<li>
+											<a href="http://www.covidien.com/ColonDisease/pages.aspx"><span>Colon Disease</span></a>
+										</li>
+										<li>
+											<a href="http://www.pillcamcrohns.com"><span>Crohn’s Disease</span></a>
+										</li>
+										<li>
+											<a href="http://www.mygallbladderinfo.com/gallbladder/pages.aspx?page=Home"><span>Gallbladder Treatment</span></a>
+										</li>
+										<li>
+											<a href="http://www.covidien.com/yourhernia/pagebuilder.aspx?page=Site:Home&amp;topicID=168024"><span>Hernia Treatment</span></a>
+										</li>
+										<li>
+											<a href="http://www.livingwithavent.com"><span>Homecare Ventilation</span></a>
+										</li>
+										<li>
+											<a href="http://www.covidien.com/homecare"><span>Medical Supplies Homecare Site</span></a>
+										</li>
+										<li>
+											<a href="http://www.covidien.com/mylivercanceroptions/pages.aspx"><span>Liver Cancer</span></a>
+										</li>
+										<li>
+											<a href="http://www.covidien.com/treatmylungcancer/pages.aspx"><span>Lung Cancer</span></a>
+										</li>
+										<li>
+											<a href="http://www.rethinkvaricoseveins.com"><span>Varicose Veins</span></a>
+										</li>
+
+
+									</ul>
+								</div>
+								<div class="footerSection3">
+									<select id="selectLang" onchange="if(this.selectedIndex!=0)self.location=this.options[this.selectedIndex].value">
+										<option value="selectLang">Select a Country</option>
+										<option value="http://www.covidien.com.br/">
+											Brasil
+										</option>
+										<option value="http://www.covidien.com/cn/pages.aspx">
+											中国
+										</option>
+										<option value="http://www.covidien.com/de/pages.aspx">
+											Deutschland
+										</option>
+										<option value="http://www.covidien.co.il/pages.aspx">
+											ישראל
+										</option>
+										<option value="http://www.covidien.co.jp">
+											日本
+
+										</option>
+										<option value="http://www.covidien.com/kr/pages.aspx">
+											한국
+
+										</option>
+										<option value="http://www.covidien.com/russia/pages.aspx">
+											Россия
+
+										</option>
+										<option value="http://www.covidien.com/turkey/pages.aspx">
+											Türkiye
+
+										</option>
+									</select>
+									<p class="footerImage1">
+										<img src="graphics/footer-image-1.jpg" width="76" height="74">
+									</p>
+									<p class="footerImage">
+										<a href="http://www.lifechanginginnovation.org">
+											<img src="graphics/footer-image-2.jpg" width="126" height="94">
+										</a>
+									</p>
+									<p class="footerImage2">
+										<img src="graphics/footer-image-3.jpg" width="164" height="98">
+									</p>	
+
+								</div>
+								<div class="clear"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div id="disclaimerText" class="disclaimerText hidden">
+					<p>You are leaving this site and entering a non-Covidien Web site. You will be subject to the destination site's privacy policy when you leave this site.</p>
+				</div>
+			</div>
+			</div>
+		
+	</body></html>
