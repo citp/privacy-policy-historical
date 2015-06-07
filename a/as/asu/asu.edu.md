@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asu.edu privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119204838id_/http%3A//www.asu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asu.edu privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607070732id_/http%3A//www.asu.edu/privacy) for the most accurate reproduction.*
 
 # ASU's Privacy Statement
 
@@ -62,7 +62,7 @@ ASU does not store any personal information in cookies nor do we link or combine
 
 #### Parental Access 
 
-Parents can print out and mail or fax a signed form that allows them to review any identifiable information collected about their underage child, have this information deleted, and/or request that there be no further collection or use of their underage child’s information. ASU will take steps to verify the identity of anyone requesting information about a child and to ensure that the person is in fact the child’s parent or legal guardian. You can link to the form [here](https://web.archive.org/web/20141119204838id_/http://www.asu.edu/privacy/parentalform.pdf). Parents with questions will find contact information below.
+Parents can print out and mail or fax a signed form that allows them to review any identifiable information collected about their underage child, have this information deleted, and/or request that there be no further collection or use of their underage child’s information. ASU will take steps to verify the identity of anyone requesting information about a child and to ensure that the person is in fact the child’s parent or legal guardian. You can link to the form [here](https://web.archive.org/web/20150607070732id_/http://www.asu.edu/privacy/parentalform.pdf). Parents with questions will find contact information below.
 
 ## Alternatives to Web site Transactions
 
