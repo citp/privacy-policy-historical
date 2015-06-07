@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comicrelief.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008020145id_/http%3A//www.comicrelief.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicrelief.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608014705id_/http%3A//www.comicrelief.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Comic Relief
 
@@ -34,7 +34,7 @@ When you visit our site, we also sometimes use cookies, and collect information 
 
 We use your information in a number of ways, such as:
 
-  * sending you information about Comic Relief, our supporters and beneficiaries for marketing purposes
+  * sending you information about Comic Relief, our supporters and beneficiaries for marketing purposes, including via Facebook
   * processing a donation that you have made
   * processing an order from our online shop
   * dealing with entries into competition
