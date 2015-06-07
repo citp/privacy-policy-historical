@@ -1,61 +1,59 @@
-> *The following text is extracted and transformed from the sensoro.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114184633id_/http%3A//www.pnicorp.com/pniCart/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sensoro.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607090252id_/http%3A//www.sensoro.com/en/privacy) for the most accurate reproduction.*
 
-# PNI - Privacy Statement
+# SENSORO
 
-Privacy Statement
+### Privacy Policy
 
-Information Collection and Use
+Sensoro Inc. ("Sensoro") is committed to protecting the privacy of its customers, and seeks to provide a safe and secure customer experience. Sensoro will use its best efforts to ensure that the information submitted or gathered remains private, and is only used for the purposes set forth herein.
 
-PNI Corporation is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways other than those disclosed in this statement. We collect information from visitors at several different points on this website. 
+By purchasing or using the Sensoro Website or Sensoro Products, you explicitly accept, without limitation or qualification, the collection, use, and disclosure of personal information provided by you in the manner described in this Policy. Please read the Policy carefully as it affects your rights and liabilities. If you disagree with the way we collect and process personal information, please do not use the Sensoro Website and Sensoro Products.
 
-Registration 
+1DEFINITIONS
 
-During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest, and to ensure delivery of products and/or services. It is optional for the user to provide demographic information (such as income level and gender), and unique identifiers (such as social security number), but it is encouraged so we can provide a more personalized experience on our site. 
+"Sensoro Website(s)" or "Website(s)" mean any websites, web pages, and any subpages under Sensoro's control. This also includes the contents of the Websites, which includes but is not limited to text, images, audio content, videos, designs, graphics, information, logos, downloadable content, software, and any other content found on the Websites.
 
-Order 
+"Sensoro Product(s)" means and refers to any products purchased from Sensoro or through the Sensoro Websites."
 
-We request information from the user on our order form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number and expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user. 
+"You", "Your", and "Customer" mean and refer to all individuals and/or entities who are accessing or using the Websites or Sensoro Products for any reason.
 
-Cookies 
+2SCOPE
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. For instance, by setting a cookie on our site, the user would not have to enter a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. 
+This Policy applies to the Website and Sensoro Products. This Policy regulates the processing of information relating to you. The Website may contain links to other websites over which we have no control. Sensoro is not responsible for the privacy policies or practices of such other websites. We also do not control the data use practices of employers and third-party advertising networks.
 
-Log Files 
+3INFORMATION COLLECTED
 
-We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
+Personal Information. Sensoro collects general information about all of our Customers in aggregate when they use the Website. Most of the information collected during the purchase and ordering process will be used to process orders. If You make purchases through the Website for Sensoro Products, we do collect personal information provided to us. The personal information includes, but is not limited to, Your name, address, email, account number, and other contact information. We also may acquire personal information from third parties who provide it to us.
 
-Sharing 
+Behavioral Information. Sensoro may collect behavioral information regarding how You use the Website. This includes, but is not limited to, Your Internet Protocol (IP) address, location, browser, access times, operating system, and referring website addresses. This information is used to analyze the use of resources, prevent fraud, troubleshoot, and also improve our services. Sensoro also may acquire behavioral information from third parties who provide it to us. Sensoro may also personalize the advertising shown to You on the Websites, based on the information provided and collected.
 
-We may share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. We may partner with another party to provide specific services. When the user signs up for these services, we may share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. 
+4USE OF INFORMATION COLLECTED
 
-Links 
+Use by Sensoro. Sensoro does not disclose personal information or other information related to Your visit to the Website to any third parties except as provided in this Policy. We use the information collected through the Website for responding to any inquiries, operating and improving the Website, creating a positive Customer experience. The information gathered and collected on the Website may be shared internally at Sensoro to deliver its products and services.
 
-This web site contains links to other sites. Please be aware that we PNI Corporation are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+By using the Website, You have consented for us to use Your information to: (1) analyze the use of resources, prevent fraud, troubleshoot, improve our products and services, and develop new products and services; (2) personalize the advertising shown to You on the Websites; (3) contact You about Sensoro Products and other updates; (4) provide You with additional information and promotions; (5) enable You to provide feedback and for us to respond to the feedback; (6) conduct surveys, promotions, and contests, and provide the results thereof; and (7) generate internal reports.
 
-Newsletter 
+Disclosure to Third Parties. We may share Your information with third parties who help us in the delivery of Sensoro Products and other services. Sensoro may also disclose information to third parties employed by Sensoro to perform functions on our behalf. We may also disclose information to third parties if You consent to such disclosure. We may also share aggregate anonymous information about visitors to the Website to various third parties. Sensoro discloses information, if legally required to do so, or at our request pursuant to a request from a governmental entity. We may also disclose information if we believe in good faith that disclosure is necessary to protect our rights, protect Your safety, protect the safety of others, or investigate fraud.
 
-If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address. 
+Successors. We may disclose and/or transfer any information to a third party who acquires any or all of Sensoro’s business and business units, whether such acquisition is by merger, consolidation, or purchase of all or a substantial portion of Sensoro’s assets. In addition, in the event Sensoro becomes the subject of an insolvency proceeding, whether voluntary or involuntary, Sensoro or its liquidator, administrator, receiver or administrative receiver may sell, license or otherwise dispose of such information in a transaction approved by the court.
 
-Surveys & Contests 
+5ONLINE PAYMENTS
 
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as ZIP code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
+If You place any orders or make any payments online through the Websites, Your payment information will be and is protected by encryption, such as with the Secure Socket Layer ("SSL") protocol. The SSL protocol makes it difficult for Your payment information to be stolen or intercepted during transmission.)
 
-Security 
+6CHANGES TO PRIVACY POLICY
 
-This website takes every precaution to protect our users' information. When users submit sensitive information via the website, this information is protected both online and offline. When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with industry standard encryption: SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information offline. All of our users' information, not just the sensitive information mentioned above, is restricted within our offices. Only employees who need the information to perform a specific job (for example, billing clerks or customer service representatives) are granted access to personally-identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. If you have any questions about the security at our website, you can send an email to webmaster@pnicorp.com. 
+Updates. If Sensoro makes a substantial and material change or update to the substance of this Policy, Sensoro will post a prominent notice of such change, together with a link to the revised Policy, on the Website. It is Your responsibility to review the current Policy and, if you disagree with any of the terms of the Policy, you should (i) discontinue Your use of the Website and/or Sensoro’s Products and/or (ii) inform Sensoro via the contact us link at the end of this Policy.
 
-Special Offers 
+Contact Information. Your information, documents, and other data are submitted to Sensoro’s servers. These servers are situated in the QingCloud and maintained by Sensoro, whose principal place of business is 2807#, B, T1, WangJing SOHO, ChaoYang, Beijing 100020. If You have any questions or concerns regarding this Policy or believe that they have not been adhered to, please contact Sensoro at this address. Sensoro will use reasonable efforts to answer any questions and resolve any problems.
 
-Established members will occasionally receive information on products, services, special deals, and a newsletter. 
+7MISCELLANEOUS
 
-Site and Service Updates 
+Cookies. A cookie is a small text file stored, often temporarily, on Your computer's memory or placed on Your hard drive by a Webpage server. Cookies allow Sensoro to retrieve the information previously provided, so that You can easily use the features that You customized. Cookies allow for faster, more accurate, and more personalized results. Sensoro may use cookies, both session and persistent, to help personalize and maximize Your experience in using the Website. You have the ability to accept or decline cookies at any time by modifying Your Internet browser settings. We have no access or control over third-party cookies.
 
-We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone. 
+Page Tags and Web Beacons. The Website may utilize electronic images called page tags (or web beacons, clear gifs, action tags, single-pixel gifts) that allow Sensoro to collect webpage usage information. These page tags are not used to access or collect personal information, but rather to inform us what content is effective. Page tags are techniques to compile aggregate statistics about webpage usage to improve the effectiveness of our services and advertisements. The information collected by the page tags may be shared with third parties for processing, so that they can understand the kinds of visitors to the websites and how those visitors use the webpages. Page tags may be rendered ineffective by changing the cookie setup options in your Internet browser.
 
-Correction/Updating Personal Information: 
+JavaScript. JavaScript is a script or programming language that enhances the functionality of websites, often for pictures. Sensoro does not collect personal data via Javascript, and it can be deactivated via the Customer's Internet browser settings.
 
-If a user's personally identifiable information (such as ZIP code) changes, or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page or by emailing our Customer Support. 
+Headings. Headings provided in this Policy are included for reference purposes only and are not to be given any substantive effect.
 
-Notification of Changes 
-
-If we decide to change our privacy policy, we will post those changes on this page so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+Effective Date. This Policy became effective as of [Jun 1], 2014 and may be revised by Sensoro from time to time.
