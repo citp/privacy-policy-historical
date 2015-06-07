@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billygraham.org privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123131009id_/http%3A//billygraham.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billygraham.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142600id_/http%3A//billygraham.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BGEA
 
