@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the designdeal.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102181708id_/http%3A//www.designdeal.com/cms/%3Fpi%3D6543214569) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designdeal.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607201138id_/http%3A//www.designdeal.com/cms/%3Fpi%3D6543214569) for the most accurate reproduction.*
 
-# DESIGNDEAL
+# DESIGNDEAL | Websites for Online Shopping in India | Original Art Prints Online
 
 Design Deal India Private Limited is committed to protecting the privacy of visitors to the site. Your use of the site confirms your acceptance of the site. On registering on our site, we also collect personal information such as your phone number, billing and shipping addresses and credit card information, buying preferences, etc. We also collect other information such as browsing history on the site, through the use of cookies and other technologies. You can also invite friends by giving name and email address amongst other information. We use this information to try and better our services and shopping experience for you as well as notify you on future sales to enhance your experience with us.
 
