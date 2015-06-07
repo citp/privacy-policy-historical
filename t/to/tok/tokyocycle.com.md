@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tokyocycle.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105111id_/http%3A//www.tokyocycle.com/bbs/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyocycle.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607184644id_/http%3A//www.tokyocycle.com/bbs/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Tokyo Cycling Club
 
-[](http://cyclism.jp/products/ritte-stainless-snob) [](http://www.telljp.com/)
+[ ](http://www.tokyocycle.com/bbs/portal/)
 
 The Tokyo Cycling Club (TCC) does not collect personally identifying information with the sole exception of your specific knowledge and consent thereof. We do not share such information with any third parties, and no third party has access to your stored information.
 
@@ -19,6 +19,4 @@ For your security, TCC only officially supports the latest version of all web br
 Published:
     Jun 14, 2013
 Page Views:
-    1,720
-
-[ ](http://www.tokyocycle.com/bbs/portal/)
+    2,587
