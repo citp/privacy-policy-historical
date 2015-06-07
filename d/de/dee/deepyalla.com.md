@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deepyalla.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128183800id_/http%3A//www.deepyalla.com/DeepyallaPrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepyalla.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607042102id_/http%3A//deepyalla.com/DeepyallaPrivacyPolicy.html) for the most accurate reproduction.*
 
 # Deepyalla Deep Links Directory - Human edited and SEO friendly . - Privacy Policy
 
