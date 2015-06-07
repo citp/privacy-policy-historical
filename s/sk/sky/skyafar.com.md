@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyafar.com privacy policy that was archived on 2014-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140930160958id_/http%3A//www.skyafar.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyafar.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152613id_/http%3A//www.skyafar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Skyafar Technology Blog
 
@@ -54,15 +54,15 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.skyafar.org/>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.skyafar.com/>
 
 **Your Consent**
 
-By using our site, you consent to our [online privacy policy](http://www.skyafar.org/privacy-policy/).
+By using our site, you consent to our [online privacy policy](http://www.skyafar.com/privacy-policy/).
 
  **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. [Contact form](http://www.skyafar.org/contact-skyafar-admin/)
+If there are any questions regarding this privacy policy you may contact us using the information below. [Contact form](http://www.skyafar.com/contact-skyafar-admin/)
 
  **Changes to our Privacy Policy**
 
