@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearfit.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121141925id_/http%3A//www.clearfit.com/privacy-policy-anti-spam-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearfit.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608011010id_/http%3A//www.clearfit.com/privacy-policy-anti-spam-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Anti-Spam Policy - ClearFit
 
@@ -44,7 +44,7 @@ As an employer, we may contact you via email with news about our company and pro
 
 You agree that ClearFit may, as part of its services to you, communicate with you, or initiate communication with you on behalf of a 3rd party, through your ClearFit account or through other means made available through your contact information such as email, phone, or postal mail as permitted by applicable law.
 
-Employers are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our Site at the point when we email them to confirm their registration, and provide a link to enable opt-out. Any Users who no longer wish to receive contact from ClearFit or from our partners may opt-out of receiving further communications from a particular party by replying with unsubscribe in the subject line in the email or email us at [info@clearfit.com](mailto:info@clearfit.com).
+Employers are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our Site at the point when we email them to confirm their registration, and provide a link to enable opt-out. Any Users who no longer wish to receive contact from ClearFit or from our partners may opt-out of receiving further communications from a particular party by replying with unsubscribe in the subject line in the email or email us at [info@clearfit.com](mailto:info@clearfit.com).
 
 ### How else is personal information used?
 
@@ -52,11 +52,11 @@ ClearFit may, on occasion, share some or all of your personal information with t
 
 ### Blog/Testimonials
 
-If you use a blog or testimonial on this Site, you should be aware that any personal information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. For testimonials, we do obtain the customer’s consent prior to posting their name along with their testimonial. We are not responsible for the personal information you choose to submit in these forums. If you want to remove your personal information that is being displayed on our Site under public pages, please contact us at [info@ClearFit.com](mailto:info@clearfit.com).
+If you use a blog or testimonial on this Site, you should be aware that any personal information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. For testimonials, we do obtain the customer's consent prior to posting their name along with their testimonial. We are not responsible for the personal information you choose to submit in these forums. If you want to remove your personal information that is being displayed on our Site under public pages, please contact us at [info@ClearFit.com](mailto:info@clearfit.com).
 
 ### Use of Cookies
 
-We use “cookies” to track User activities on our Sites. These cookies permit us to remember a User who has visited different areas of our Site, so that the User will not have to re-enter his or her password on multiple occasions. We use third-party tracking services that employ cookies to track non-personal information about visitors to our Site. Our services can determine whether you are a new or returning visitor, the time of the current visit, and what the referrer site the User came from. We also use this to track page and site usage on our Site.
+We use "cookies" to track User activities on our Sites. These cookies permit us to remember a User who has visited different areas of our Site, so that the User will not have to re-enter his or her password on multiple occasions. We use third-party tracking services that employ cookies to track non-personal information about visitors to our Site. Our services can determine whether you are a new or returning visitor, the time of the current visit, and what the referrer site the User came from. We also use this to track page and site usage on our Site.
 
 ### 3rd Party Tracking
 
@@ -82,13 +82,13 @@ We may also send Users our Site and service announcement updates. Users are not 
 
 ### Opting Out/Deactivation/Access
 
-You can elect to be excluded from any surveys, contests or announcements that will be sent out by ClearFit at any time.  Employers may do this by going to the “Account” tab. In these areas we may use your information to make you aware of additional products and services which may be of interest to you, or to contact you regarding Site changes. You may access and edit all of your personal information at any time. We will retain your personal information for as long as you remain a User of the ClearFit Services or for as long as legally required. Users may terminate, correct, update, amend, delete/remove their account with ClearFit by sending a request to our customer service department through the ‘Contact Us’ section of our Site or by emailing us at [info@ClearFit.com](mailto:info@clearfit.com).
+You can elect to be excluded from any surveys, contests or announcements that will be sent out by ClearFit at any time.  Employers may do this by going to the “Account” tab. In these areas we may use your information to make you aware of additional products and services which may be of interest to you, or to contact you regarding Site changes. You may access and edit all of your personal information at any time. We will retain your personal information for as long as you remain a User of the ClearFit Services or for as long as legally required. Users may terminate, correct, update, amend, delete/remove their account with ClearFit by sending a request to our customer service department through the 'Contact Us' section of our Site or by emailing us at [info@ClearFit.com](mailto:info@clearfit.com).
 
 ### Links
 
 This Site contains links to other sites. Please be aware that ClearFit is not responsible for the privacy practices of such other sites. We encourage our Users to be aware when they leave our Site and to read the Privacy Policy of each and every web site that collects personal information. This Privacy Policy applies solely to information collected by this Site.
 
-When you use “Share This” to bookmark and share our products and Site, you will be taken to a third party site. Please note that these third party sites’ privacy policies govern the collection and use of the information collected on those sites.
+When you use "Share This" to bookmark and share our products and Site, you will be taken to a third party site. Please note that these third party sites' privacy policies govern the collection and use of the information collected on those sites.
 
 ### Security
 
@@ -118,13 +118,13 @@ ClearFit.com strictly prohibits members engaging in spam and other tactics which
 
 Spam can take several different forms. When someone logs on to Usenet or message boards and sends or posts messages which are unrelated to the topic of discussion, that’s spam. In addition, the sending of an electronic mail message addressed to a recipient with whom the sender does not have an existing business or personal relationship or is not sent at the request of, or with the express consent of, the recipient constitutes spam. The act of engaging in activities which constitute spam is called spamming.
 
-Other types of Internet abuse may also qualify as spam. Examples include, spamming of chat rooms and spamming via Internet Relay Chat or “Instant Messaging” systems (such as ICQ). In reality, the various methods of spamming will continue to evolve with the Internet as new ways of online communication between people develop.
+Other types of Internet abuse may also qualify as spam. Examples include, spamming of chat rooms and spamming via Internet Relay Chat or "Instant Messaging" systems (such as ICQ). In reality, the various methods of spamming will continue to evolve with the Internet as new ways of online communication between people develop.
 
 ### We Don’t Like Spam
 
 No one likes sorting through junk mail or talking to telemarketers, but spam is even worse! Electronic junk mail costs recipients of spam more time and money than it costs the sender. The unwitting recipient of spam is required to download, sort through, and identify what e-mail is legitimate and what e-mail is junk e-mail, and then discard it. If the recipient pays for Internet access by the hour or minute, then sorting through spam messages leads to increased time online, which translates into higher monthly bills from their Internet Service Provider.
 
-Conduct on the Internet is governed by an unwritten set of rules called ‘Netiquette,’ and one of those rules is that it’s not acceptable to send out unsolicited mass e-mail. Spam can also slow the performance of the Internet. There have been instances where large volumes of spam have slowed down e-mail delivery for hours (or even days!). Spam sometimes causes computers on the Internet to crash. Most importantly, we feel that spamming is just plain rude.
+Conduct on the Internet is governed by an unwritten set of rules called ‘Netiquette,’ and one of those rules is that it's not acceptable to send out unsolicited mass e-mail. Spam can also slow the performance of the Internet. There have been instances where large volumes of spam have slowed down e-mail delivery for hours (or even days!). Spam sometimes causes computers on the Internet to crash. Most importantly, we feel that spamming is just plain rude.
 
 ### Our Anti-Spam Policy
 
