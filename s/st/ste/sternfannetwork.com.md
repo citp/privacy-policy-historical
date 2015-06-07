@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sternfannetwork.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109095725id_/http%3A//www.sternfannetwork.com/xen/index.php%3Fhelp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sternfannetwork.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607180043id_/http%3A//www.sternfannetwork.com/xen/index.php%3Fhelp/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SternFanNetwork
 
@@ -169,5 +169,8 @@ Our site makes use of cookies. Cookies are used for the following purposes:
   2. Research and development
 
 
+
+**Stern Show Related Videos  
+**
 
 [ ](http://www.sternfannetwork.com/xen/index.php?threads/where-are-the-new-logo-submissions.647580/)
