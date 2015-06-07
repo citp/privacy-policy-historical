@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobplacements.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205090157id_/http%3A//jobplacements.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobplacements.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607075257id_/http%3A//jobplacements.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Job Placements - Privacy Policy
 
@@ -31,7 +31,7 @@ We implement a variety of security measures to maintain the safety of your perso
 
 **Do we use cookies?**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
 We use cookies to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
@@ -57,11 +57,11 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.jobplacements.com/disclaimer.php](https://web.archive.org/web/20141205090157id_/http%3A//jobplacements.com/disclaimer.php)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.jobplacements.com/disclaimer.php](https://web.archive.org/web/20150607075257id_/http%3A//jobplacements.com/disclaimer.php)
 
 **Your Consent**
 
-By using our site, you consent to our [websites privacy policy](http://www.jobplacements.com/).
+By using our site, you consent to our [websites privacy policy](http://www.jobplacements.com/). Jobplacements.com is owned by Locker Leisure Limited located at 923 Finchley Road, London, NW11 7PE.
 
 **Changes to our Privacy Policy**
 
