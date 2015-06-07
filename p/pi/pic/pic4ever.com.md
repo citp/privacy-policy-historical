@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pic4ever.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921140337id_/http%3A//www.pic4ever.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pic4ever.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607192841id_/http%3A//www.pic4ever.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - www.pic4ever.com
 
