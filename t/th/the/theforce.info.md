@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theforce.info privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123164916id_/http%3A//theforce.info/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theforce.info privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607182326id_/http%3A//theforce.info/%3Fpage_id%3D2) for the most accurate reproduction.*
 
 # Privacy | The Force of the games
 
