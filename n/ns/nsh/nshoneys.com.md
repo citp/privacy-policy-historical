@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nshoneys.com privacy policy that was archived on 2014-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140222115200id_/http%3A//network.newsensations.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nshoneys.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607030552id_/http%3A//network.newsensations.com/privacy.htm) for the most accurate reproduction.*
 
 # New Sensations Network - Privacy Policy
 
