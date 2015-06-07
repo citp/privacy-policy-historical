@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hangintherejack.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217025653id_/http%3A//x3watch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hangintherejack.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607154954id_/http%3A//x3watch.com/privacy-policy) for the most accurate reproduction.*
 
 # X3watch Privacy Policy
 
@@ -28,16 +28,3 @@ Yes. X3watch Privacy Policy complies with all the regulations of the Children’
 If you have questions or concerns regarding this Privacy Policy, you should first contact the Privacy Program Office of Fireproof. by emailing info@x3watch.com or by calling 626-628-3387.
 
 This privacy policy was last modified on Jan. 28, 2013
-
-Mac OS X users, please note that the Trial version of X3Watch Premium is currently available for download outside the Mac OS App Store, and thus has not been signed. Mac OS X Gatekeeper may prompt with an “unidentified developer” warning during installation. Follow these steps to bypass the warning when installing X3Watch:
-
-Gatekeeper options are found in Apple menu under **System Preferences** … > **Security & Privacy** > **General** tab under the header “ **Allow applications downloaded from:** ”
-
-Change setting to “ **Anywhere** ”
-
-After X3Watch is installed, you may revert back to the prior, or default setting.
-
-Alternate steps for OS X 10.9 (Mavericks): <http://support.apple.com/kb/PH14370>[  
-](http://support.apple.com/kb/PH14370)Additional information on Mac OS X Gatekeeper: [http://support.apple.com/kb/HT5290](https://web.archive.org/web/20141217025653id_/http://x3watch.com/privacy-policy/onclick=)
-
-[Download for Mac](http://x3watch.com/download_zip/X3Watch.dmg) ×
