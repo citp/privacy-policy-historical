@@ -1,62 +1,8 @@
-> *The following text is extracted and transformed from the horseplayerinteractive.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630003528id_/http%3A//www.horseplayerinteractive.com/Discover/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horseplayerinteractive.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142950id_/http%3A//www.horseplayerinteractive.com/Discover/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # HorsePlayer Interactive
 
-  * |  [Santa Anita](https://web.archive.org/web/20140630003528id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=81&Race=9&SessionDate=2014-06-29)
-
-Race 9, 0 MTP
-
-[](https://web.archive.org/web/20140630003528id_/http%3A//www.horseplayerinteractive.com/Racing/Schedules.aspx?code=HPItv)  
-  
----  
-[Oak Tree @ Pleasanton](https://web.archive.org/web/20140630003528id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=133&Race=9&SessionDate=2014-06-29)
-
-Race 9, 18 MTP  
-  
-[Emerald](https://web.archive.org/web/20140630003528id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=22&Race=7&SessionDate=2014-06-29)
-
-Race 7, 11 MTP  
-  
-[Presque Isle](https://web.archive.org/web/20140630003528id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=156&Race=8&SessionDate=2014-06-29)
-
-Race 8, 15 MTP  
-  
-[Georgian Downs](https://web.archive.org/web/20140630003528id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=33&Race=8&SessionDate=2014-06-29)
-
-Race 8, 5 MTP
-
-[](https://web.archive.org/web/20140630003528id_/http%3A//www.horseplayerinteractive.com/Racing/Schedules.aspx?code=HPItv)  
-  
-[Pocono Downs](https://web.archive.org/web/20140630003528id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=180&Race=7&SessionDate=2014-06-29)
-
-Race 7, 0 MTP
-
-[](https://web.archive.org/web/20140630003528id_/http%3A//www.horseplayerinteractive.com/Racing/Schedules.aspx?code=HPItv)  
-  
-[Running Aces](https://web.archive.org/web/20140630003528id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=179&Race=5&SessionDate=2014-06-29)
-
-Race 5, 10 MTP  
-  
-[Mountaineer](https://web.archive.org/web/20140630003528id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=60&Race=4&SessionDate=2014-06-29)
-
-Race 4, 2 MTP
-
-[](https://web.archive.org/web/20140630003528id_/http%3A//www.horseplayerinteractive.com/Racing/Schedules.aspx?code=HPItv)  
-  
-[Balmoral](https://web.archive.org/web/20140630003528id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=7&Race=2&SessionDate=2014-06-29)
-
-Race 2, 7 MTP
-
-[](https://web.archive.org/web/20140630003528id_/http%3A//www.horseplayerinteractive.com/Racing/Schedules.aspx?code=HPItv)  
-  
-[Los Alamitos](https://web.archive.org/web/20140630003528id_/http%3A//www.horseplayerinteractive.com/Racing/RaceInfo.aspx?Track=52&Race=1&SessionDate=2014-06-29)
-
-Race 1, 56 MTP
-
-[](https://web.archive.org/web/20140630003528id_/http%3A//www.horseplayerinteractive.com/Racing/Schedules.aspx?code=HPItv)  
-  
-  *   * 
-
+| 
 
 This Privacy Policy was last revised January 15, 2009 
 
