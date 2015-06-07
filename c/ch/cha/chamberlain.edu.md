@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chamberlain.edu privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220121737id_/http%3A//chamberlain.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chamberlain.edu privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607230612id_/http%3A//www.chamberlain.edu/privacy) for the most accurate reproduction.*
 
 # Privacy
 
