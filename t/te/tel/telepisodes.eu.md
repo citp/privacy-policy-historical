@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telepisodes.eu privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228085011id_/http%3A//www.telepisodes.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telepisodes.eu privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607201834id_/http%3A//www.telepisodes.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Today - Telepisodes
 
@@ -8,7 +8,7 @@ At [Telepisodes](http://www.telepisodes.com/), the privacy of our visitors is of
 
 We collect information from you when you register on our site or fill out a form.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address.
+When registering on our site or leaving a comment, as appropriate, you may be asked to enter your: name or e-mail address.
 
 **What do we use your information for?**
 
@@ -24,7 +24,7 @@ Any of the information we collect from you may be used in one of the following w
 
 ; To send periodic emails
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+> The email address you provide, may be used to send you information and updates pertaining the website, in addition to receiving occasional news, updates, related product or service information, etc.
 
 **How do we protect your information?**
 
@@ -64,6 +64,5 @@ By using our site, you consent to our web site privacy policy.
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.telepisodes.com
-
+http://www.telepisodes.com  
 privacy@telepisodes.net
