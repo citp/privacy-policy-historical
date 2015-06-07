@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nicabm.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230075950id_/http%3A//www.nicabm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicabm.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145454id_/http%3A//www.nicabm.com/privacy-policy) for the most accurate reproduction.*
 
 # National Institute for the Clinical Application of Behavioral Medicine: Privacy Policy - NICABM
 
-****(Last Revised: April 22, 2014)****
+****(Last Revised: February 11, 2015)****
 
 Thank you for visiting a NICABM web site, including nicabm.com, mindfulnessforpsychotherapists.com, and webinarsforchange.com. You arrived at this Privacy Policy from one of the above sites, referred to herein as “this web site”.
 
@@ -19,6 +19,14 @@ We do not control and are not liable for the actions of our third party marketer
 **Cookies**
 
 We may use cookies to deliver content that is specific to your interests. Cookies are text files that are used by your computer’s web browser to store your preferences, and enable us to enhance your user experience with our web site. Emails or newsletters that we send electronically may use techniques such as web beacons or pixel tags to gather email metrics and information to improve the reader’s experience, such as the number of emails that are opened, whether they were forwarded or printed, the type of device from which they were opened, and the location (e.g. city, state, and county) associated with the applicable IP address.
+
+**Behavioral Targeting / Re-Targeting**
+
+We partner with a third party to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by [clicking here](http://www.google.com/settings/ads). Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
+
+We may also collect any data that you provide us by posting it at our websites (through our contact us page) or by e-mail (such as your name and email address). You can always choose not to provide us with information. However, if you do withhold information, we may deny you access to some or all of our website's services and features. 
+
+Any information provided on our website order forms is collected by our payment processing service providers on their servers from Customers who access our site. That information is then shared with NICABM. This information includes ordering information such as shipping and billing names and addresses, phone numbers, email address, and credit card information. We use this information primarily to fulfill customer orders and requests. We do not share this information with any third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law.
 
 **IP Addresses**
 
