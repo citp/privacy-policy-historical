@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pbslearningmedia.org privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204200953id_/http%3A//www.pbslearningmedia.org/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbslearningmedia.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607075401id_/http%3A//www.pbslearningmedia.org/help/privacy-policy) for the most accurate reproduction.*
 
-# Help Page : PBS LearningMedia
+# Help Page | Privacy Policy | PBS LearningMedia
 
 ## Privacy Policy
 
