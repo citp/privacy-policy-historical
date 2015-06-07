@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the blogorama.com privacy policy that was archived on 2014-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140719044332id_/http%3A//www.blogorama.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogorama.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607233706id_/http%3A//www.blogarama.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Blogorama
+# Blogorama - Blog directory
 
-Our mission is to meet the expectancies of our advertisers as well as the users of our other resources. In an effort to achieve our goal, we would like to clearly define our position with regard to the internet, our web site and your identity. The following outlines our information gathering and disbursement procedures for our site located at [Blogorama.com](http://www.blogorama.com/).
+## Privacy Policy
+
+Our mission is to meet the expectancies of our advertisers as well as the users of our other resources. In an effort to achieve our goal, we would like to clearly define our position with regard to the internet, our web site and your identity. The following outlines our information gathering and disbursement procedures for our site located at [Www.blogarama.com](https://web.archive.org/)
 
 To improve our service to the marketplace, we use your IP address to help troubleshoot problems with various technology, including our servers, and to deploy our web site. Certain functionality on our site, including submit form(s), require you to give us contact information. this contact information including name, e-mail address, etc. is used for the benefit of all so that we may communicate important information about our services and your account.
 
 Unless otherwise agreed to by electronic signature, information about you is not shared with outside organizations or sold to any other third parties. Although we deploy leading technology to protect against misuse of your information and encourage our business partners and affiliates to maintain the highest standards, we do not have control over information not directly relating to our site.
 
-You should consider any communication that you transmit to Blogorama.com (such as data, questions or answers, comments, or suggestions) as non-confidential, and agree that Blogorama.com will not be liable or responsible if information that belongs to you is intercepted and used by an unintended recipient.
+You should consider any communication that you transmit to Www.blogarama.com (such as data, questions or answers, comments, or suggestions) as non-confidential, and agree that Www.blogarama.com will not be liable or responsible if information that belongs to you is intercepted and used by an unintended recipient.
 
 ### Third Party Cookies
 
