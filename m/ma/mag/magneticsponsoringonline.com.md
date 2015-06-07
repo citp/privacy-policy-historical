@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magneticsponsoringonline.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626060730id_/http%3A//elitemarketingpro.com/compliance/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magneticsponsoringonline.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607183223id_/http%3A//elitemarketingpro.com/compliance/privacy.html) for the most accurate reproduction.*
 
 # Earnings and Income Disclaimers
 
