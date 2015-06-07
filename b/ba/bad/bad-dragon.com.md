@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bad-dragon.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208022913id_/http%3A//bad-dragon.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bad-dragon.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607122513id_/http%3A//bad-dragon.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Bad Dragon
 
@@ -76,4 +76,4 @@ We use this information for a number of purposes, including generating statistic
 
 You may opt out of receiving newsletters and/or notices of new or enhanced products, services or related services from Bad Dragon by clicking on the ‘opt out’ link within email newsletters sent to you. You may opt out of newsletters at any time.
 
-Please note, however, that Bad Dragon reserves the right to send information directly relevant to your order and Bad Dragon account at our discretion; this is to allow us to fulfil your order and to deal with any problems with your order or account which may occur. You may request that your entire account (and all personally identifiable information) be deleted by submitting a ticket, listing your email address and reason for removal using our contact form.
+Please note, however, that Bad Dragon reserves the right to send information directly relevant to your order and Bad Dragon account at our discretion; this is to allow us to fulfil your order and to deal with any problems with your order or account which may occur. You may request that your entire account be disabled by submitting a ticket, listing your email address and reason for removal using our contact form.
