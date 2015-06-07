@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metsblog.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207035726id_/http%3A//metsblog.com/metsblogcoms-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metsblog.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607182345id_/http%3A//metsblog.com/metsblogcoms-privacy-policy) for the most accurate reproduction.*
 
 # MetsBlog.com's Privacy Policy | Metsblog
 
@@ -37,3 +37,7 @@ The Privacy Policy applies only to this Website.
 Special Rules For Children
 
 Because of federal law, we cannot collect any personal information from a child under the age of thirteen without the consent of that child’s parent. The statements in this Privacy Policy generally about our collection and use of personal information also apply to our treatment of personal information from children under the age of thirteen, where permission has been granted by a parent or guardian.
+
+* * *
+
+[Comment](http://metsblog.com/metsblogcoms-privacy-policy/#comments)
