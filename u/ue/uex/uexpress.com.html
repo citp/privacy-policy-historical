@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the uexpress.com privacy policy that was archived on 2014-11-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141107133213id_/http%3A//www.uexpress.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uexpress.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607154008id_/http%3A//www.uexpress.com/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   <meta charset="UTF-8">
@@ -44,7 +44,8 @@
     <meta name="twitter:title" content="Welcome to uexpress">
     <meta name="twitter:description" content="The home of Dear Abby, News of the Weird, Ann Coulter and many of the greatest Advice and Opinion articles on the web!">
     <meta name="twitter:image:src" content="http://www.uexpress.com/assets/logo-b9aaea68d50a5c483fdf928fc0814101.png">
-
+<!-- For Webmaster Tools Verification -->
+<meta name="google-site-verification" content="RCMrnu--kYloOMKteCjOP8jss1tAVXBDVhYuQavKI90">
 
   <!--[if lt IE 9]>
   <link href="/assets/application-ie8-4d8eaf790198c398bd1296c5fdf0fadf.css" media="screen" rel="stylesheet" />
@@ -54,12 +55,31 @@
   <![endif]-->
 
 
-  <link href="/assets/application-all-acc7b6aa5284310b1c5d46a50e04f752.css" media="screen" rel="stylesheet">
+  <link href="/assets/application-all-919fba1d3c08c4f817af2d6bdfec8c21.css" media="screen" rel="stylesheet">
   <link href="/assets/uu-font-4b0f9694161dd1be5ae963332b58d268.css" media="screen" rel="stylesheet">
-  <link href="/assets/application-print-dd9a68268d15381f608fbfe7b0990134.css" media="print" rel="stylesheet">
+  <link href="/assets/application-print-11a5132350b7071ba11537fac07ed673.css" media="print" rel="stylesheet">
+
+  <!-- Index Request -->
+<script type="text/javascript" async="" src="https://report-ads-to.pubnation.com/dist/pnr.js?t=pn-1e46a850d3d769b6&lt;http://report-ads-to.pubnation.com/dist/pnr.js?t=pn-1e46a850d3d769b6&gt;"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://js.indexww.com/ht/uuclick.js"></script>
+<!-- Index Request -->
 
 
-  <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
+  <script type="text/javascript" src="http://c.amazon-adsystem.com/aax2/amzn_ads.js"></script>
+
+<script type="text/javascript">
+    // Fetches Amazon ads if available and stores them for future use
+    try {
+        amznads.getAds('3170');
+    } catch(e) {
+        /*ignore*/
+    }
+</script>
+
+
+
+
+
+  <script type="text/javascript">
     var googletag = googletag || {};
     googletag.cmd = googletag.cmd || [];
     (function() {
@@ -82,27 +102,73 @@
 </script>
 
 <script type="text/javascript">
+  var leaderboard_locked;
+  var leaderboard_locked_refresh = 0;
+  var leaderboard_locked_interval;
     googletag.cmd.push(function() {
 
+        var leaderboard_locked_mapping = googletag.sizeMapping().
+            addSize([768, 0], []).
+            addSize([0, 0], [[320, 50], [300, 50]]).
+            build();
+
+
         var leaderboard_mapping = googletag.sizeMapping().
-                addSize([0, 0], [[320, 100], [320, 50], [300, 50]]).
-                addSize([469, 0], [[468, 60], [320, 50], [300, 50]]).
-                addSize([729, 0], [[728, 90], [468, 60]]).
-                addSize([971, 0], [[970, 250], [970, 90], [728, 90]]).
-                build();
+            addSize([971, 0], [[970, 250], [970, 90], [728, 90]]).
+            addSize([729, 0], [[728, 90], [468, 60]]).
+            addSize([469, 0], [[468, 60], [320, 50], [300, 50]]).
+            addSize([0, 0], [[320, 100], [320, 50], [300, 50]]).    
+            build();
 
         var halfpage_mapping = googletag.sizeMapping().
-                addSize([992, 0], [[300, 600], [300, 250], [336, 280], [160, 600], [120, 600]]).
+                addSize([768, 0], [[300, 600], [300, 250], [336, 280], [160, 600], [120, 600]]).
+                addSize([0, 0], []).
                 build();
 
 
+        leaderboard_locked = googletag.defineSlot('/19196947/uexpress.com_new/homepage', [[320, 50],[300, 50]], 'leaderboard_locked').defineSizeMapping(leaderboard_locked_mapping).addService(googletag.pubads()).setTargeting('pos', 'locked');
         googletag.defineSlot('/19196947/uexpress.com_new/homepage', [[970, 250],[970, 90],[728, 90],[320, 50],[300, 50]], 'leaderboard1').defineSizeMapping(leaderboard_mapping).addService(googletag.pubads()).setTargeting('pos', 'top');
         googletag.defineSlot('/19196947/uexpress.com_new/homepage', [[728, 90],[320, 100],[320, 50],[300, 50]], 'leaderboard2').defineSizeMapping(leaderboard_mapping).addService(googletag.pubads()).setTargeting('pos', 'mid');
         googletag.defineSlot('/19196947/uexpress.com_new/homepage', [[728, 90],[320, 100],[320, 50],[300, 50]], 'leaderboard3').defineSizeMapping(leaderboard_mapping).addService(googletag.pubads()).setTargeting('pos', 'bot');
-        googletag.defineSlot('/19196947/uexpress.com_new/homepage', [[300, 600],[300, 250], [160, 600]], 'halfpage').defineSizeMapping(halfpage_mapping).addService(googletag.pubads()).setTargeting('pos', 'top');
+
+        googletag.defineSlot('/19196947/uexpress.com_new/homepage', [[300, 600],[300, 250],[160, 600]], 'halfpage').defineSizeMapping(halfpage_mapping).addService(googletag.pubads()).setTargeting('pos', 'top');
+
+
+        googletag.pubads().setCentering(true);
+
         googletag.enableServices();
+
+
+        /*leaderboard_locked_interval = setInterval(function () { refresh_leaderboard_locked(); }, 120000);
+
+        googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+            if (event.slot === leaderboard_locked) {
+                if (event.isEmpty) {
+                    clearInterval(leaderboard_locked_interval);
+                }
+            }
+        });*/
     });
+
+  /*function refresh_leaderboard_locked(){
+      if(leaderboard_locked_refresh < 2){
+          googletag.pubads().refresh([leaderboard_locked]);
+          leaderboard_locked_refresh++;
+      } else {
+          clearInterval(leaderboard_locked_interval);
+      }
+  }*/
 </script>
+
+<script>
+  // Gets key-value pairs and makes calls to googletag.setTargeting() to set them
+    try {
+        amznads.setTargetingForGPTAsync('amznslots');
+    } catch(e) {
+        /*ignore*/
+    }
+</script>
+
 
 
   <!-- Embed jwplayer on puzzle pages (for preroll video ads) -->
@@ -113,7 +179,7 @@
     <script src="/assets/application-ie8-c2c10d53753735bc53a3989ac7f7a733.js"></script>
   <![endif]-->
 
-</head>
+<script type="text/javascript" async="" src="//static.yieldmo.com/ym.m4.js"></script></head>
 <body>
   <!-- Quantcast Tag Start -->
 <script type="text/javascript">
@@ -169,11 +235,14 @@
     <nav class="main-nav" role="navigation">
   <div class="container">
     <div class="main-nav-header">
-      <button type="button" class="main-nav-toggle" data-toggle="collapse" data-target="#js-main-nav">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
+      <button type="button" class="main-nav-toggle" data-toggle="collapse" data-target="#js-main-nav"> 
+        <span class="hamburger-label">Menu</span>
+        <div class="hamburger-icons">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </div>
       </button>
       <a class="logo" href="/"><img alt="Logo" class="logo-print" height="36" src="/assets/logo-b9aaea68d50a5c483fdf928fc0814101.png" width="161"></a>
     </div>
@@ -182,8 +251,8 @@
       </li>
       <li class=""><a href="/opinion" class="main-nav-link">Opinion</a></li>
       <li class=""><a href="/astrology" class="main-nav-link">Astrology</a></li>
-      <li class=""><a href="/puzzles" class="main-nav-link">Puzzles <span class="badge badge-new">New</span></a></li>
-      <!-- <li class="active"><a href="/comics" class="main-nav-link">Comics <span class="badge badge-new">New</span></a></li> Main nav link for comics -ACB -->
+      <li class=""><a href="/puzzles" class="main-nav-link">Puzzles </a></li>
+      <li class=""><a href="/comics" class="main-nav-link">Comics <span class="badge badge-new">New</span></a></li>
       <li class=""><a href="/more" class="main-nav-link">More</a></li>
     </ul>
     <ul class="main-nav-list-right">
@@ -214,8 +283,8 @@
         </li>
         <li class=""><a href="/opinion" class="main-nav-link">Opinion</a></li>
         <li class=""><a href="/astrology" class="main-nav-link">Astrology</a></li>
-        <li class=""><a href="/puzzles" class="main-nav-link">Puzzles <span class="badge badge-new">New</span></a></li>
-        <!-- <li class="active"><a href="/comics" class="main-nav-link">Comics <span class="badge badge-new">New</span></a></li> Mobile main nav link for comics -ACB -->
+        <li class=""><a href="/puzzles" class="main-nav-link">Puzzles</a></li>
+        <li class=""><a href="/comics" class="main-nav-link">Comics <span class="badge badge-new">New</span></a></li>
         <li class=""><a href="/more" class="main-nav-link">More</a></li>
         <li class=""><a href="/about/search" class="main-nav-link header-search"><i class="fa fa-search"></i> <span>Search</span></a></li>
       </ul>
@@ -234,7 +303,7 @@
 
 
 <section class="page-section">
-  <div class="list-large">
+  <div class="single-container">
     <p>Effective: Feb 5th, 2014</p>
 
     <p>At Universal Uclick (<strong>“Universal Uclick,”</strong> <strong>“we”</strong>, <strong>“our”</strong>, or <strong>“us”</strong>), we respect your right to privacy and we understand that visitors and users of Universal Uclick's websites and applications wish to control the use of their personal information. This privacy policy outlines the measures taken by Universal Uclick to protect your privacy in connection with your use of www.GoComics.com, www.PuzzleSociety.com, www.Dilbert.com, www.ComicsSherpa.com, www.uexpress.com, www.InfiniteCrosswords.com and other sites or applications, including mobile applications, owned and operated by Universal Uclick (each individually a <strong>“Site”</strong> and collectively the <strong>”Sites”</strong>). Universal Uclick does not intend to collect any personal information from children under 13 unless Universal Uclick believes such collection to be permitted by law. Your use of the Sites, including any dispute concerning privacy, is subject to this Privacy Policy and Universal Uclick's Terms &amp; Conditions and any other policies on the applicable Site (collectively the <strong>“Terms”</strong>). By using the Sites, you are accepting the practices set out in this Privacy Policy and the Terms. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Your continued use of any portion of the Sites following posting of the updated Privacy Policy will constitute your acceptance of the changes. Please check the date above to determine if this Privacy Policy has been modified.</p>
@@ -314,7 +383,7 @@
   </div>
 </section>
     </div>
-  <footer class="page-footer">
+    <footer class="page-footer">
   <div class="container">
     <div class="row">
       <nav class="page-footer-nav-primary">
@@ -324,6 +393,7 @@
           <li><a class="page-footer-link" href="/opinion">Opinion</a></li>
           <li><a class="page-footer-link" href="/astrology">Astrology</a></li>
           <li><a class="page-footer-link" href="/puzzles">Puzzles</a></li>
+          <li><a class="page-footer-link" href="/comics">Comics</a></li>
           <li><a class="page-footer-link" href="/more">More</a></li>
         </ul>
       </nav>
@@ -339,7 +409,7 @@
             <p class="element-flush">© Copyright <em><a href="http://www.amuniversal.com">Andrews McMeel Universal</a>,
             <a href="http://www.universaluclick.com">Universal Uclick</a>,
             <a href="http://uexpress.com">uexpress</a>
-            </em> 2014</p>
+            </em> 2015</p>
           </li>
           <li class="footer-link">
             <a href="/legal/terms">Terms of Use</a>
@@ -362,6 +432,27 @@
   </div>
 </footer>
   </div>
-  <script src="/assets/application-d528f6b74efa320646d1a7662d8e6c04.js"></script>
+  <script src="/assets/application-3db32ef6d476ae2f3fa02836341b85b3.js"></script>
+  
+
+  
+
+  <script>var _pnq = _pnq || [];
+_pnq.push(['setId', 'pn-1e46a850d3d769b6']);
+(function() {
+    var pnr = document.createElement('script');
+    pnr.type = 'text/javascript';
+    pnr.async = true;
+    pnr.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'report-ads-to.pubnation.com/dist/pnr.js?t=pn-1e46a850d3d769b6<http://report-ads-to.pubnation.com/dist/pnr.js?t=pn-1e46a850d3d769b6>';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(pnr, s);
+})();</script>
+
+  <script type="text/javascript">(function(e,t){if(t._ym===void 0){t._ym="";var m=e.createElement("script");m.type="text/javascript",m.async=!0,m.src="//static.yieldmo.com/ym.m4.js",(e.getElementsByTagName("head")[0]||e.getElementsByTagName("body")[0]).appendChild(m)}else t._ym instanceof String||void 0===t._ym.chkPls||t._ym.chkPls()})(document,window);</script>
+
+  
+
+  <script type="text/javascript" language="Javascript" src="http://redir.Adap.tv/redir/javascript/lightintegration.js"></script>
+
 
 </body></html>
