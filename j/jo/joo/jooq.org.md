@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jooq.org privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231092329id_/http%3A//www.jooq.org/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jooq.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022108id_/http%3A//www.jooq.org/legal/privacy) for the most accurate reproduction.*
 
 # jOOQ Affiliates and Partners
 
