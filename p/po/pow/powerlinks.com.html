@@ -1,105 +1,113 @@
-<!--The following is the downloaded HTML source of the powerlinks.com privacy policy that was archived on 2014-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141215102608id_/http%3A//www.powerlinks.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the powerlinks.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607072323id_/http%3A//www.powerlinks.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US"><head>
-    <meta charset="utf-8"><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAIBVVNVGwEGVVJRAwQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
-    <title>Powerlinks | Privacy Policy</title>  
-    <meta name="description" content="">
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
+    <meta charset="utf-8">
+    <title>Powerlinks Privacy Policy - Powerlinks</title>  
+    
     <meta name="keywords" content="">
     
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     
     <!-- Apple Touch Icon -->
-        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.powerlinks.com/wp-content/uploads/2014/04/PL_Favicon.png">
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.powerlinks.com/wp-content/uploads/2015/04/apple-touch-icon-120.png">
         
     <!--  Favicon -->
-        <link rel="shortcut icon" href="http://www.powerlinks.com/wp-content/uploads/2014/04/PL_Favicon.png">
+        <link rel="shortcut icon" href="http://www.powerlinks.com/wp-content/uploads/2015/04/favicon1.png">
         
 
     
-<!-- BEGIN Metadata added by Add-Meta-Tags WordPress plugin -->
-<meta name="description" content="PowerLinks is committed to protecting and respecting your privacy. This policy (together with our Cookie Policy and any terms governing use of our sites or our services) sets out the basis on which any personal data we collect from you, or that you provide to us, will be pro...">
-<meta property="og:type" content="article">
-<meta property="og:site_name" content="Powerlinks">
-<meta property="og:title" content="Privacy Policy">
-<meta property="og:url" content="http://www.powerlinks.com/privacy-policy/">
-<meta property="og:description" content="PowerLinks is committed to protecting and respecting your privacy. This policy (together with our Cookie Policy and any terms governing use of our sites or our services) sets out the basis on which any personal data we collect from you, or that you provide to us, will be pro...">
+<!-- This site is optimized with the Yoast WordPress SEO plugin v2.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.powerlinks.com/privacy-policy/">
 <meta property="og:locale" content="en_US">
-<meta property="article:published_time" content="2014-06-03T10:02:29+00:00">
-<meta property="article:modified_time" content="2014-07-22T08:56:09+00:00">
-<meta property="og:image" content="http://www.powerlinks.com/wp-content/uploads/2014/04/powerlink_logo.png">
-<meta property="article:author" content="http://www.powerlinks.com/author/admin/">
-<meta property="article:publisher" content="http://www.powerlinks.com">
-<meta property="twitter:card" content="summary">
-<meta property="twitter:title" content="Privacy Policy">
-<meta property="twitter:description" content="PowerLinks is committed to protecting and respecting your privacy. This policy (together with our Cookie Policy and any terms governing use of our sites or our services) sets out the basis on which any personal data we collect from you, or that you provide to us, will be pro...">
-<meta property="twitter:image" content="http://www.powerlinks.com/wp-content/uploads/2014/04/powerlink_logo.png">
-<link rel="publisher" type="text/html" title="Powerlinks" href="http://www.powerlinks.com">
-<link rel="author" type="text/html" title="PowerLinks" href="http://www.powerlinks.com/author/admin/">
-<!-- END Metadata added by Add-Meta-Tags WordPress plugin -->
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - Powerlinks">
+<meta property="og:url" content="http://www.powerlinks.com/privacy-policy/">
+<meta property="og:site_name" content="Powerlinks">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Privacy Policy - Powerlinks">
+<meta name="twitter:domain" content="Powerlinks">
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/www.powerlinks.com\/","name":"Powerlinks"}</script>
+<!-- / Yoast WordPress SEO plugin. -->
 
 <link rel="alternate" type="application/rss+xml" title="Powerlinks » Feed" href="http://www.powerlinks.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Powerlinks » Comments Feed" href="http://www.powerlinks.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="Powerlinks » Privacy Policy Comments Feed" href="http://www.powerlinks.com/privacy-policy/feed/">
-<link rel="stylesheet" id="layerslider-css" href="http://www.powerlinks.com/wp-content/plugins/LayerSlider/static/css/layerslider.css?ver=5.0.1" type="text/css" media="all">
-<link rel="stylesheet" id="ls-google-fonts-css" href="http://fonts.googleapis.com/css?family=Lato:100,300,regular,700,900|Open+Sans:300|Indie+Flower:regular|Oswald:300,regular,700&amp;subset=latin,latin-ext" type="text/css" media="all">
-<link rel="stylesheet" id="contact-form-7-css" href="http://www.powerlinks.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.7" type="text/css" media="all">
-<link rel="stylesheet" id="cresta-social-font-awesome-css" href="http://www.powerlinks.com/wp-content/plugins/cresta-social-share-counter/css/font-awesome.min.css?ver=3.8.1" type="text/css" media="all">
-<link rel="stylesheet" id="cresta-social-wp-style-css" href="http://www.powerlinks.com/wp-content/plugins/cresta-social-share-counter/css/cresta-wp-css.css?ver=3.8.1" type="text/css" media="all">
-<link rel="stylesheet" id="cresta-social-googlefonts-css" href="//fonts.googleapis.com/css?family=Noto+Sans%3A400%2C700&amp;ver=3.8.1" type="text/css" media="all">
-<link rel="stylesheet" id="bootstrap-css" href="http://www.powerlinks.com/wp-content/themes/powerlinks/assets/css/bootstrap.css?ver=20120208" type="text/css" media="all">
-<link rel="stylesheet" id="style-css" href="http://www.powerlinks.com/wp-content/themes/powerlinks/style.css?ver=20120208" type="text/css" media="all">
-<link rel="stylesheet" id="1170-css" href="http://www.powerlinks.com/wp-content/themes/powerlinks/assets/css/1170.css?ver=20120208" type="text/css" media="all">
-<link rel="stylesheet" id="scripts-css" href="http://www.powerlinks.com/wp-content/themes/powerlinks/assets/css/scripts.css?ver=20120208" type="text/css" media="all">
-<link rel="stylesheet" id="font-awesome-css" href="http://www.powerlinks.com/wp-content/themes/powerlinks/assets/css/font-awesome.min.css?ver=20120208" type="text/css" media="all">
-<link rel="stylesheet" id="responsive-css" href="http://www.powerlinks.com/wp-content/themes/powerlinks/assets/css/responsive.css?ver=20120208" type="text/css" media="all">
-<link rel="stylesheet" id="woocommerce-css" href="http://www.powerlinks.com/wp-content/themes/powerlinks/assets/css/woocommerce.css?ver=20120208" type="text/css" media="all">
-<link rel="stylesheet" id="mytheme-sourcesanspro-css" href="http://fonts.googleapis.com/css?family=Open+Sans%3A200%2C300%2C400%2C500%2C600%2C700&amp;ver=3.8.1" type="text/css" media="all">
-<link rel="stylesheet" id="custom-style-css" href="http://www.powerlinks.com/wp-content/themes/powerlinks/assets/css/custom.css?ver=3.8.1" type="text/css" media="all">
-<style type="text/css">
-body { background:  url(http://www.powerlinks.com/wp-content/uploads/2014/04/noisy_net.png) }.navigation li a { font-family: Open Sans !important; }h1, h2, h3, h4, h5, h6 { font-family: Open Sans !important; }p, p span { font-family: Open Sans !important; }.navigation li a { font-size: 14px; }.navigation .sub-menu li a { font-size: 13px; }p, ul li { font-size: 14px; line-height: 24.5px; }.navigation .sub-menu li a:hover, .header-scrolled .navigation .sub-menu li a:hover { background: #48c4b3 !important; }.navigation .sub-menu li a, .mega-menu .sub-menu .menu-item-has-children > a { color: #ffffff !important; }.rainbow1 { background: #50575E}.rainbow2 { background: #48C4B3}.rainbow3 { background: #77E2D3}.rainbow4 { background: #177F71}.rainbow5 { background: #48C4B3}.entry-image-overlay { background-color: #222528; }.entry-image:hover .entry-image-overlay { opacity: 0.7; }.image-fullwidth-overlay { background: rgba(72,196,179, 0.95); } .button, .wpb_button, .wpcf7-submit, #submit { background: #48c4b3 !important;}.header-contact-bar .left a:hover { color: #48c4b3; }.button:hover, .wpb_button:hover, .wpcf7-submit:hover, #submit:hover { background: #41b0a1 !important; }.content-heading a { color: #48c4b3; }.post-icons a:hover, .post-icons a:hover [class*='fa-'] { color: #48c4b3 !important; }.header-scrolled .navigation .current-menu-item a {  }.navigation .current-menu-item a {  }.team-icons [class*='icon-']:hover { color: #48c4b3; }.package-name span { background: #48c4b3; }#submit:hover, .contact-submit:hover { background: #48c4b3 }.entry-quote, .entry-link { background: #48c4b3; }.view [class*='fa-'] { background: #48c4b3; }.feature-icon { color: #48c4b3; }.heading a { color: #48c4b3; }.tweet_text a { color: #48c4b3; }.isotope-loadmore a { background: #48c4b3; }.navigation .current-menu-item a { color: #48c4b3 }.navigation li a:hover, .navigation .dropdown:hover a { color: #48c4b3; }.tagcloud a:hover { background: #48c4b3 !important; }.wpb_tabs .ui-tabs-active .ui-tabs-anchor { background-color: #48c4b3; }.tweet_text a { color: #48c4b3 !important; }.navigation-search:hover .fa-search { color: #48c4b3 }.highlight { background: #48c4b3 !important; }.products .price { color: #48c4b3 !important; }.products .price ins { color: #48c4b3 !important; }.onsale { color: #48c4b3 !important; }.single-product .price { color: #48c4b3 !important; }.product-remove a { background-color: #48c4b3 !important; }.vc-counter-number { color: #48c4b3 !important }.shipping-calculator-button { color: #48c4b3 !important; }.mini-cart-list .buttons .checkout { background: #48c4b3 !important; }.mini-cart a { color: #48c4b3 !important; }.header-contact-bar .right a:hover { color: #48c4b3 !important; }.post-icons .voted i, .post-icons .voted span { color: #48c4b3 !important; }div.footer-widget {
-   /* color:white !important; */
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.powerlinks.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.powerlinks.com/wp-includes/js/wp-emoji-release.min.js?ver=4.2.2" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
 }
 </style>
-<script type="text/javascript" src="http://www.powerlinks.com/wp-includes/js/jquery/jquery.js?ver=1.10.2"></script>
+<link rel="stylesheet" id="layerslider-css" href="http://www.powerlinks.com/wp-content/plugins/LayerSlider/static/css/layerslider.css?ver=5.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://www.powerlinks.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.1.2" type="text/css" media="all">
+<link rel="stylesheet" id="ssbaFont-css" href="//fonts.googleapis.com/css?family=Indie+Flower&amp;ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="essential-grid-plugin-settings-css" href="http://www.powerlinks.com/wp-content/plugins/essential-grid/public/assets/css/settings.css?ver=1.5.4" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-css" href="http://www.powerlinks.com/wp-content/themes/avian/assets/css/bootstrap.css?ver=20120208" type="text/css" media="all">
+<link rel="stylesheet" id="style-css" href="http://www.powerlinks.com/wp-content/themes/powerlinks/style.css?ver=20120208" type="text/css" media="all">
+<link rel="stylesheet" id="scripts-css" href="http://www.powerlinks.com/wp-content/themes/avian/assets/css/scripts.css?ver=20120208" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="http://www.powerlinks.com/wp-content/themes/avian/assets/css/font-awesome.min.css?ver=20120208" type="text/css" media="all">
+<link rel="stylesheet" id="responsive-css" href="http://www.powerlinks.com/wp-content/themes/avian/assets/css/responsive.css?ver=20120208" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-css" href="http://www.powerlinks.com/wp-content/themes/avian/assets/css/woocommerce.css?ver=20120208" type="text/css" media="all">
+<link rel="stylesheet" id="js_composer_front-css" href="http://www.powerlinks.com/wp-content/plugins/js_composer/assets/css/js_composer.css?ver=4.3.4" type="text/css" media="all">
+<link rel="stylesheet" id="js_composer_custom_css-css" href="http://www.powerlinks.com/wp-content/uploads/js_composer/custom.css?ver=4.3.4" type="text/css" media="screen">
+<script type="text/javascript" src="http://www.powerlinks.com/wp-content/plugins/LayerSlider/static/js/greensock.js?ver=1.11.8"></script>
+<script type="text/javascript" src="http://www.powerlinks.com/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script>
 <script type="text/javascript" src="http://www.powerlinks.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://www.powerlinks.com/wp-includes/js/comment-reply.min.js?ver=3.8.1"></script>
-<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/powerlinks/assets/js/random-number.js?ver=3.8.1"></script>
-<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/powerlinks/assets/js/waypoints.min.js?ver=in_footer"></script>
-<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/powerlinks/assets/js/waypoints-sticky.min.js?ver=in_footer"></script>
-<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/powerlinks/assets/js/jquery.infinite-carousel.js?ver=3.8.1"></script>
+<script type="text/javascript" src="http://www.powerlinks.com/wp-content/plugins/LayerSlider/static/js/layerslider.kreaturamedia.jquery.js?ver=5.3.2"></script>
+<script type="text/javascript" src="http://www.powerlinks.com/wp-content/plugins/LayerSlider/static/js/layerslider.transitions.js?ver=5.3.2"></script>
+<script type="text/javascript" src="http://www.powerlinks.com/wp-content/plugins/essential-grid/public/assets/js/lightbox.js?ver=1.5.4"></script>
+<script type="text/javascript" src="http://www.powerlinks.com/wp-content/plugins/essential-grid/public/assets/js/jquery.themepunch.tools.min.js?ver=1.5.4"></script>
+<script type="text/javascript" src="http://www.powerlinks.com/wp-content/plugins/essential-grid/public/assets/js/jquery.themepunch.essential.min.js?ver=1.5.4"></script>
+<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/avian/assets/js/random-number.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/avian/assets/js/waypoints.min.js?ver=in_footer"></script>
+<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/avian/assets/js/waypoints-sticky.min.js?ver=in_footer"></script>
+<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/avian/assets/js/jquery.infinite-carousel.js?ver=4.2.2"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.powerlinks.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.powerlinks.com/wp-includes/wlwmanifest.xml"> 
-<link rel="prev" title="Terms &amp; Conditions" href="http://www.powerlinks.com/terms-conditions/">
-<link rel="next" title="Cookie Policy" href="http://www.powerlinks.com/cookie-policy/">
-<link rel="canonical" href="http://www.powerlinks.com/privacy-policy/">
+<meta name="generator" content="WordPress 4.2.2">
 <link rel="shortlink" href="http://www.powerlinks.com/?p=560">
-<style type="text/css">
-			@media (max-width : 640px) {
-				#crestashareicon {
-					display:none !important;
-				}
-			}
-		#crestashareicon {position:fixed; top:50%; left:30px; float:left;z-index:99;}
-
-		#crestashareicon .sbutton {clear:both;}
-		#crestashareicon .sbutton { float:left;}</style>
-<!-- BEGIN GADWP Universal Tracking - http://deconf.com/google-analytics-dashboard-wordpress/ -->
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-  
-  ga('create', 'UA-44261866-1', 'powerlinks.com');
-  ga('send', 'pageview');
-</script>
-<!-- END GADWP Universal Tracking -->
-
-<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
-       
-	</head><body class="page page-id-560 page-template-default wpb-js-composer js-comp-ver-3.7.4 vc_responsive">
+<style type="text/css">	.ssba {
+											
+											
+											
+											
+										}
+										.ssba img		
+										{ 	
+											width: 35px !important;
+											padding: 6px;
+											border:  0;
+											box-shadow: none !important;
+											display: inline !important;
+											vertical-align: middle;
+										}
+										.ssba, .ssba a		
+										{
+											text-decoration:none;
+											background: none;
+											font-family: Indie Flower;
+											font-size: 	20px;
+											
+											
+										}</style><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://www.powerlinks.com/wp-content/plugins/js_composer/assets/css/vc-ie8.css" media="screen"><![endif]--><style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style>       
+	</head><body class="page page-id-560 page-template-default wpb-js-composer js-comp-ver-4.3.4 vc_responsive">
 		<div class="page-container ">
 		
 		<div class="preloader"></div>
@@ -114,7 +122,7 @@ body { background:  url(http://www.powerlinks.com/wp-content/uploads/2014/04/noi
 				<!-- Mobile Logo -->
 								<div class="mobile-logo">
 					<a href="http://www.powerlinks.com">
-						<img src="http://www.powerlinks.com/wp-content/uploads/2014/04/powerlink_logo.png" alt="">	
+						<img src="http://www.powerlinks.com/wp-content/uploads/2015/03/Powerlinks-logo.png" alt="">	
 					</a>
 				</div>
 								
@@ -123,24 +131,47 @@ body { background:  url(http://www.powerlinks.com/wp-content/uploads/2014/04/noi
 			<!-- Mobile Drop Down -->
 			<div id="mobile-nav" class="collapse">
 				<ul>
-									   <li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/">Home</a></li>
-<li class="  menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown"><a href="http://www.powerlinks.com/about/">About</a>
+									   <li class="  menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown"><a href="http://www.powerlinks.com/native-advertising-platform/">The Platform</a>
 <ul class="sub-menu">
-	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/company/">What we do</a></li>
-	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/team/">The team</a></li>
-	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/board/">The board</a></li>
-	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/press-awards/">Press and awards</a></li>
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/native-advertising-platform/native-advertising-server/">Native Ad Server</a></li>
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/native-advertising-platform/native-advertising-exchange/">Native Ad Exchange</a></li>
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/native-advertising-platform/data-management-platform/">Data Management Platform</a></li>
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/native-advertising-platform/open-apis/">Open APIs</a></li>
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/native-advertising-platform/native-demand-side-platform/">Demand Side Platform</a></li>
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/native-advertising-platform/native-ad-formats/">Native Ad Formats</a></li>
 </ul>
 </li>
-<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/powerlinks-for-publishers/"><i class="fa fa-Native Advertising Exchange and Demand Side Platform for Advertisers"></i>Publishers</a></li>
-<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/powerlinks-for-advertisers/"><i class="fa fa-Native Advertising Exchange and Demand Side Platform for Advertisers"></i>Advertisers</a></li>
+<li class="  menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown"><a href="http://www.powerlinks.com/powerlinks-for-buyers/">Buyers</a>
+<ul class="sub-menu">
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/powerlinks-for-buyers/trading-desks/">Trading Desks</a></li>
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/powerlinks-for-buyers/dsps-and-marketing-platforms/">DSPs &amp; Marketing Platforms</a></li>
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/powerlinks-for-buyers/ad-networks/">Ad Networks</a></li>
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/powerlinks-for-buyers/agencies-and-brands/">Agencies &amp; Brands</a></li>
+</ul>
+</li>
+<li class="  menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown"><a href="http://www.powerlinks.com/powerlinks-for-sellers/">Sellers</a>
+<ul class="sub-menu">
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/powerlinks-for-sellers/native-ad-networks/">Native Ad Networks</a></li>
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/powerlinks-for-sellers/publishers/">Publishers</a></li>
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/powerlinks-for-sellers/ssps-and-native-platforms/">SSPs &amp; Native Platform</a></li>
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/powerlinks-for-sellers/white-label-native-advertising-platform/">White Label Native Platform</a></li>
+</ul>
+</li>
+<li class="  menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown"><a href="http://www.powerlinks.com/about/">About</a>
+<ul class="sub-menu">
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/about/team/">The team</a></li>
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/about/board/">The board</a></li>
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/about/press-awards/">Press and awards</a></li>
+</ul>
+</li>
 <li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/blog/">Blog</a></li>
 <li class="  menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown"><a href="http://www.powerlinks.com/contact/">Contact</a>
 <ul class="sub-menu">
-	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/offices/">Offices</a></li>
-	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/get-in-touch/">Get in touch</a></li>
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/contact/offices/">Offices</a></li>
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/contact/careers/">Careers</a></li>
 </ul>
 </li>
+<li class="  menu-item menu-item-type-custom menu-item-object-custom"><a href="http://dashboard.powerlinks.com/login"><i class="fa fa-Client Login"></i>Client Login</a></li>
 				</ul>
 			</div>
 		</div>
@@ -148,30 +179,7 @@ body { background:  url(http://www.powerlinks.com/wp-content/uploads/2014/04/noi
 		<!-- DESKTOP HEADER
 		================================================== -->
 								
-				<div class="header-contact-bar">
-		<div class="container">
-		
-			<!-- Left -->
-			<div class="left">					
-				<ul>
-															<li><a href="https://twitter.com/powerlinksads" class="fa fa-twitter" target="_blank"></a></li>
-										<li><a href="https://plus.google.com/+PowerlinksMedia" class="fa fa-google-plus" target="_blank"></a></li>
-										<li><a href="http://www.linkedin.com/company/powerlinks-media" class="fa fa-linkedin" target="_blank"></a></li>
-														</ul>
-			</div>
-			
-			<!-- Right -->
-			<div class="right">
-											
-					<a href="tel:+1 646 741 6115" target="_blank"><i class="fa fa-mobile"></i> &nbsp; +1 646 741 6115</a>
-											
-					<a href="mailto:info@powerlinks.com" target="_blank"><i class="fa fa-envelope"></i> &nbsp; info@powerlinks.com</a>
-											
-					<a href="http://dashboard.powerlinks.com" target="_blank"><i class="fa fa-users"></i> &nbsp; Client login</a>
-							</div>
-		</div>
-	</div>
-			<div class="header">
+					<div class="header">
 	
 			
 						
@@ -185,36 +193,52 @@ body { background:  url(http://www.powerlinks.com/wp-content/uploads/2014/04/noi
 							<ul class="navigation right">
 								
 								<!-- Logo -->
-																<li class="nav-logo float-left"><a href="http://www.powerlinks.com"><img src="http://www.powerlinks.com/wp-content/uploads/2014/04/powerlink_logo.png" alt=""></a></li>
+																<li class="nav-logo float-left"><a href="http://www.powerlinks.com"><img src="http://www.powerlinks.com/wp-content/uploads/2015/03/Powerlinks-logo.png" alt=""></a></li>
 																
 								<!-- Navigation Menu -->
-								<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/">Home</a></li>
-<li class="  menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown"><a href="http://www.powerlinks.com/about/">About</a>
+								<li class="  menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown"><a href="http://www.powerlinks.com/native-advertising-platform/">The Platform</a>
 <ul class="sub-menu">
-	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/company/">What we do</a></li>
-	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/team/">The team</a></li>
-	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/board/">The board</a></li>
-	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/press-awards/">Press and awards</a></li>
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/native-advertising-platform/native-advertising-server/">Native Ad Server</a></li>
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/native-advertising-platform/native-advertising-exchange/">Native Ad Exchange</a></li>
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/native-advertising-platform/data-management-platform/">Data Management Platform</a></li>
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/native-advertising-platform/open-apis/">Open APIs</a></li>
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/native-advertising-platform/native-demand-side-platform/">Demand Side Platform</a></li>
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/native-advertising-platform/native-ad-formats/">Native Ad Formats</a></li>
 </ul>
 </li>
-<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/powerlinks-for-publishers/"><i class="fa fa-Native Advertising Exchange and Demand Side Platform for Advertisers"></i>Publishers</a></li>
-<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/powerlinks-for-advertisers/"><i class="fa fa-Native Advertising Exchange and Demand Side Platform for Advertisers"></i>Advertisers</a></li>
+<li class="  menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown"><a href="http://www.powerlinks.com/powerlinks-for-buyers/">Buyers</a>
+<ul class="sub-menu">
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/powerlinks-for-buyers/trading-desks/">Trading Desks</a></li>
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/powerlinks-for-buyers/dsps-and-marketing-platforms/">DSPs &amp; Marketing Platforms</a></li>
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/powerlinks-for-buyers/ad-networks/">Ad Networks</a></li>
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/powerlinks-for-buyers/agencies-and-brands/">Agencies &amp; Brands</a></li>
+</ul>
+</li>
+<li class="  menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown"><a href="http://www.powerlinks.com/powerlinks-for-sellers/">Sellers</a>
+<ul class="sub-menu">
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/powerlinks-for-sellers/native-ad-networks/">Native Ad Networks</a></li>
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/powerlinks-for-sellers/publishers/">Publishers</a></li>
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/powerlinks-for-sellers/ssps-and-native-platforms/">SSPs &amp; Native Platform</a></li>
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/powerlinks-for-sellers/white-label-native-advertising-platform/">White Label Native Platform</a></li>
+</ul>
+</li>
+<li class="  menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown"><a href="http://www.powerlinks.com/about/">About</a>
+<ul class="sub-menu">
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/about/team/">The team</a></li>
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/about/board/">The board</a></li>
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/about/press-awards/">Press and awards</a></li>
+</ul>
+</li>
 <li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/blog/">Blog</a></li>
 <li class="  menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown"><a href="http://www.powerlinks.com/contact/">Contact</a>
 <ul class="sub-menu">
-	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/offices/">Offices</a></li>
-	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/get-in-touch/">Get in touch</a></li>
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/contact/offices/">Offices</a></li>
+	<li class="  menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.powerlinks.com/contact/careers/">Careers</a></li>
 </ul>
 </li>
+<li class="  menu-item menu-item-type-custom menu-item-object-custom"><a href="http://dashboard.powerlinks.com/login"><i class="fa fa-Client Login"></i>Client Login</a></li>
 								
 								<!-- Navigation Search -->
-																<li class="navigation-search">
-									<form id="searchform" action="http://www.powerlinks.com/?s=" method="get" role="search">
-										<input id="s" type="text" name="s" value="">
-										<input id="searchsubmit" type="submit" value="Search">
-									</form>
-									<i class="fa fa-search"></i>
-								</li>
 																
 																
 								<li class="dropdown mini-cart">
@@ -237,10 +261,24 @@ body { background:  url(http://www.powerlinks.com/wp-content/uploads/2014/04/noi
 		
 			
 		</div>
+<script type="text/javascript">
+	
+jQuery(document).ready(function($){ 
+
+	$('.nav-logo img').attr('alt', 'Powerlinks Logo');
+
+});
+
+</script>
+
+
+<!-- Custom theme hack -->
 
 <!-- Slider -->
 <div class="layer-slider">
 	</div>
+
+
 
 <!-- Breadcrumb -->
 
@@ -257,38 +295,8 @@ body { background:  url(http://www.powerlinks.com/wp-content/uploads/2014/04/noi
 				
 											<div id="post-560" class="post-560 page type-page status-publish hentry">
 
-					
-<!-- BEGIN Microdata added by Add-Meta-Tags WordPress plugin -->
-<!-- Scope BEGIN: Article -->
-<div itemscope="" itemtype="http://schema.org/Article" itemref="comments">
-<!-- Scope BEGIN: Organization -->
-<span itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
-<meta itemprop="name" content="Powerlinks">
-<meta itemprop="description" content="The Complete Native Advertising Platform">
-<meta itemprop="logo" content="http://www.powerlinks.com/wp-content/uploads/2014/04/powerlink_logo.png">
-<meta itemprop="url" content="http://www.powerlinks.com">
-</span> <!-- Scope END: Organization -->
-<!-- Scope BEGIN: Person -->
-<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
-<meta itemprop="name" content="PowerLinks">
-<meta itemprop="image" content="http://www.gravatar.com/avatar/175bae13d0fb2a274547b0fcb363c5a1?s=128">
-<meta itemprop="url" content="http://www.powerlinks.com/author/admin/">
-</span> <!-- Scope END: Person -->
-<meta itemprop="url" content="http://www.powerlinks.com/privacy-policy/">
-<meta itemprop="datePublished" content="2014-06-03T10:02:29+00:00">
-<meta itemprop="dateModified" content="2014-07-22T08:56:09+00:00">
-<meta itemprop="copyrightYear" content="2014">
-<meta itemprop="inLanguage" content="en_US">
-<meta itemprop="name" content="Privacy Policy">
-<meta itemprop="headline" content="Privacy Policy">
-<meta itemprop="description" content="PowerLinks is committed to protecting and respecting your privacy. This policy (together with our Cookie Policy and any terms governing use of our sites or our services) sets out the basis on which any personal data we collect from you, or that you provide to us, will be pro...">
-<!-- Scope BEGIN: ImageObject -->
-<span itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">
-<meta itemprop="contentUrl" content="http://www.powerlinks.com/wp-content/uploads/2014/04/powerlink_logo.png">
-</span> <!-- Scope END: ImageObject -->
-<div itemprop="articleBody">
-<div style="background-color: ; background-image: url();" class="main-row wpb_row vc_row-fluid        ">
-	<div class="vc_span12 wpb_column column_container">
+					<div style="background-color: ; background-image: url();" class="main-row vc_row wpb_row vc_row-fluid        ">
+	<div class="vc_col-sm-12 wpb_column vc_column_container">
 		<div class="wpb_wrapper">
 			
 	<div class="wpb_text_column wpb_content_element ">
@@ -296,7 +304,7 @@ body { background:  url(http://www.powerlinks.com/wp-content/uploads/2014/04/noi
 			<p>PowerLinks</p>
 <p class="NormalSpaced"><span style="font-size: 10.0pt;"> is committed to protecting and respecting your privacy.</span></p>
 <p class="NormalSpaced"><span style="font-size: 10.0pt;">This policy (together with our Cookie Policy and any terms governing use of our sites or our services) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. </span></p>
-<p class="NormalSpaced"><span style="font-size: 10.0pt;">Please read this document carefully before you start to use </span><a href="http://www.powerlinks.com"><span style="font-size: 10.0pt; font-family: 'Arial','sans-serif';">www.powerlinks.com</span></a><span style="font-size: 10.0pt; font-family: 'Arial','sans-serif';"> or any other of our websites (<b>our sites</b>), whether as a guest or a registered user. By using our sites, you indicate that you accept this policy. If you do not agree, please refrain from using our sites. By using our sites, you warrant that all data provided by you is accurate.</span></p>
+<p class="NormalSpaced"><span style="font-size: 10.0pt;">Please read this document carefully before you start to use </span><a href="http://www.powerlinks.com"><span style="font-size: 10.0pt; font-family: 'Arial','sans-serif';">powerlinks.com</span></a><span style="font-size: 10.0pt; font-family: 'Arial','sans-serif';"> or any other of our websites (<b>our sites</b>), whether as a guest or a registered user. By using our sites, you indicate that you accept this policy. If you do not agree, please refrain from using our sites. By using our sites, you warrant that all data provided by you is accurate.</span></p>
 <p class="1stIntroHeadings"><span style="font-size: 10.0pt; ; font-variant: normal !important;">Information About Us</span></p>
 <p class="NormalSpaced"><span style="font-size: 10.0pt;">Our sites are operated by PowerLinks Media Limited of The Edge, Clowes Street, Salford M3 5NA (<b>PowerLinks, we or us</b>). We are a company registered in England and Wales with company number 08012063.</span></p>
 <p class="NormalSpaced"><span style="font-size: 10.0pt;">For the purpose of the Data Protection Act 1998 (the <b>Act</b>), we are the data controller.</span></p>
@@ -367,10 +375,6 @@ body { background:  url(http://www.powerlinks.com/wp-content/uploads/2014/04/noi
 		</div> 
 	</div> 
 </div>
-
-</div> <!-- Itemprop END: articleBody -->
-</div> <!-- Scope END: Article -->
-<!-- END Microdata added by Add-Meta-Tags WordPress plugin -->
 											
 				</div>
 						
@@ -388,59 +392,38 @@ body { background:  url(http://www.powerlinks.com/wp-content/uploads/2014/04/noi
 	
 	<!-- BEGIN FOOTER CALLOUT SECTION
 	================================================== -->
-						<div class="quote-section">
-			<div class="container">
-				<div class="row-fluid">
-					<div class="span8 offset2">
-						<span>For more information about PowerLinks</span>
-																				<a style="background: #48c4b3 !important;" href="/get-in-touch/" class="button">Get in touch</a>
-																		</div>
-				</div>
-			</div>
-		</div>
-					
+							
 	
 	<!-- BEGIN WIDGET FOOTER
 	================================================== -->
 				<div class="sub-footer">
 		<div class="container">
 			<div class="row">
-						<div class="footer-widget"><div class="span3"><ul><li id="text-2" class="widget widget_text">			<div class="textwidget"><p>PowerLinks is the only open technology platform powering the creation, transaction and management of native advertising. Founded in 2012 by young entrepreneurs Kevin Flood and Mike Harty, PowerLinks is headquartered in London, with additional offices in New York City and Manchester, UK.</p>
-<p>For more information, please get in touch.</p>
-</div>
+						<div class="footer-widget"><div class="span3"><ul><li id="text-2" class="widget widget_text">			<div class="textwidget">PowerLinks is the only open technology platform powering the creation, transaction and management of native advertising. Founded in 2012 by young entrepreneurs Kevin Flood and Mike Harty, PowerLinks is headquartered in London, with additional offices in New York City and Manchester, UK.
+
+For more information, please get in touch.</div>
 		</li></ul></div></div><div class="footer-widget"><div class="span3"><ul><li id="twitter-widget-2" class="widget twitter"><h2 class="widgettitle">Powerlinks on Twitter</h2><div class="tweet"></div></li></ul></div></div>		<div class="footer-widget"><div class="span3"><ul><li id="recent-posts-2" class="widget widget_recent_entries">		<h2 class="widgettitle">Recent Posts</h2>		<ul>
 					<li>
-				<a href="http://www.powerlinks.com/native-strategy-learning-from-the-mistakes-of-display/">Native Strategy: Learning from the Mistakes of Display</a>
+				<a href="http://www.powerlinks.com/native-ad-talks-nyc-creating-great-branded-content/">Native Ad Talks NYC – Creating Great Branded Content</a>
 						</li>
 					<li>
-				<a href="http://www.powerlinks.com/programmatic-native-making-it-work-for-everyone/">Programmatic Native: Making It Work For Everyone</a>
+				<a href="http://www.powerlinks.com/adweek-europe-2015-recap-how-native-programmatic-advertising-is-reshaping-the-media-landscape/">AdWeek Europe 2015 Recap: How Native Programmatic Advertising is Reshaping the Media Landscape</a>
 						</li>
 					<li>
-				<a href="http://www.powerlinks.com/publishers-5-considerations-for-your-native-advertising-strategy/">Publishers: 5 Considerations for your Native Advertising Strategy</a>
+				<a href="http://www.powerlinks.com/mike-harty-in-exchangewire-march-2015-the-highlights/">Mike Harty in ExchangeWire, March 2015: The Highlights</a>
 						</li>
 					<li>
-				<a href="http://www.powerlinks.com/powerlinks-named-as-finalists-in-startups-tech-awards-2014/">PowerLinks named as Finalists in Startups Tech Awards 2014</a>
+				<a href="http://www.powerlinks.com/measuring-branded-content-engagement-understanding-bounce-rates-fine-print/">Measuring Branded Content Engagement: Understanding Bounce Rate’s Fine Print</a>
 						</li>
 					<li>
-				<a href="http://www.powerlinks.com/powerlinks-at-onmedia-ny-2014/">WATCH: Our CEO Kevin presents PowerLinks at OnMedia NY 2014</a>
+				<a href="http://www.powerlinks.com/how-to-win-at-native-four-tips-to-get-you-started/">How to Win at Native: Four Tips to Get You Started</a>
 						</li>
 				</ul>
-		</li></ul></div></div><div class="footer-widget"><div class="span3"><ul><li id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-menu-2-container"><ul id="menu-menu-3" class="menu"><li id="menu-item-567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-567"><a href="http://www.powerlinks.com/ad-choices/">Ad Choices</a></li>
-<li id="menu-item-566" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-566"><a href="http://www.powerlinks.com/terms-conditions/">Terms &amp; Conditions</a></li>
-<li id="menu-item-565" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-560 current_page_item menu-item-565"><a href="http://www.powerlinks.com/privacy-policy/">Privacy Policy</a></li>
-<li id="menu-item-564" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-564"><a href="http://www.powerlinks.com/cookie-policy/">Cookie Policy</a></li>
-</ul></div></li></ul></div></div><div class="footer-widget"><div class="span3"><ul><li id="text-3" class="widget widget_text"><h2 class="widgettitle">Google Translate</h2>			<div class="textwidget"><style>
-.goog-te-gadget-simple, .goog-te-gadget-simple span .goog-te-menu-value span {
-	border:none !important;
-	background-color:transparent !important;
-}	
-</style>
-<div id="google_translate_element"></div><script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false, gaTrack: true, gaId: 'UA-44261866-1'}, 'google_translate_element');
-}
-</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script></div>
-		</li></ul></div></div>			</div>
+		</li></ul></div></div><div class="footer-widget"><div class="span3"><ul><li id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-menu-2-container"><ul id="menu-menu-2" class="menu"><li id="menu-item-893" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-893"><a href="http://www.powerlinks.com/ad-choices/">Ad Choices</a></li>
+<li id="menu-item-892" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-892"><a href="http://www.powerlinks.com/terms-conditions/">Terms &amp; Conditions</a></li>
+<li id="menu-item-891" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-560 current_page_item menu-item-891"><a href="http://www.powerlinks.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-890" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-890"><a href="http://www.powerlinks.com/cookie-policy/">Cookie Policy</a></li>
+</ul></div></li></ul></div></div>			</div>
 		</div>
 	</div>
 				
@@ -450,7 +433,7 @@ function googleTranslateElementInit() {
 	    <div class="container">
 	    	<div class="row">
 		    	<div class="span6 copyright-text">
-		    				    		<p>© Copyright Powerlinks 2014</p>
+		    				    		<p>Copyright Powerlinks 2015</p>
 		    				    		
 		    		<!---->
 		    	</div>
@@ -458,23 +441,13 @@ function googleTranslateElementInit() {
 		    	<div class="span6 footer-icons">
 		    	
 					<ul>
-																		
-							<li class="social-button"><a href="https://twitter.com/powerlinksads" rel="publisher" target="_blank" data-original-title="Twitter"><i class="fa fa-twitter"></i></a></li>
-				
-													
-							<li class="social-button"><a href="https://plus.google.com/+PowerlinksMedia" rel="publisher" target="_blank" data-original-title="google plus"><i class="fa fa-google-plus"></i></a></li>
-				
-													
-							<li class="social-button"><a href="http://www.linkedin.com/company/powerlinks-media" rel="publisher" target="_blank" data-original-title="LinkedIn"><i class="fa fa-linkedin"></i></a></li>
-				
-															 	</ul>
+									 	</ul>
 		    	
 		    	</div>
 	    	</div>
 	    </div>
 	    <a rel="alternate" title="Back to top" class="up"></a>
 	</div>
-    <span style="display:none;"><a href="https://plus.google.com/+PowerlinksMedia" rel="publisher">Google+</a></span>
 </footer>
 
 
@@ -485,21 +458,21 @@ function googleTranslateElementInit() {
 	// Adjust size for full width portfolio
 	jQuery(document).ready(function() {
 		var width = jQuery(document).width();
-		var offset = jQuery( '.content-container .container' ).offset().left;
+		var offset = jQuery( '.content-container .container' ).offset().left + 15;
 		
 		jQuery( '.full-width-portfolio' ).css("width", width);
 		jQuery( '.full-width-portfolio' ).css("margin-left", "-"+offset+"px");
 		
 		jQuery(window).resize(function() {
 		var width = jQuery(document).width();
-		var offset = jQuery( '.content-container .container' ).offset().left;
+		var offset = jQuery( '.content-container .container' ).offset().left + 15;
 						jQuery( '.full-width-portfolio' ).css("width", width);
 						jQuery( '.full-width-portfolio' ).css("margin-left", "-"+offset+"px");
 		});
 		
 		jQuery(".styleswitch").click(function() {
 		var width = jQuery(document).width();
-		var offset = jQuery( '.content-container .container' ).offset().left;
+		var offset = jQuery( '.content-container .container' ).offset().left + 15;
 						jQuery( '.full-width-portfolio' ).css("width", width);
 						jQuery( '.full-width-portfolio' ).css("margin-left", "-"+offset+"px");
 		});
@@ -536,68 +509,6 @@ function googleTranslateElementInit() {
 	</script>
 		<script>
 	jQuery(document).ready(function() {
-/*
-	
-	jQuery.Isotope.prototype._getCenteredMasonryColumns = function() {
-    this.width = this.element.width();
-    
-    var parentWidth = this.element.parent().width();
-    
-                  // i.e. options.masonry && options.masonry.columnWidth
-    var colW = this.options.masonry && this.options.masonry.columnWidth ||
-                  // or use the size of the first item
-                  this.$filteredAtoms.outerWidth(true) ||
-                  // if there's no items, use size of container
-                  parentWidth;
-    
-    var cols = Math.floor( parentWidth / colW );
-    cols = Math.max( cols, 1 );
-
-    // i.e. this.masonry.cols = ....
-    this.masonry.cols = cols;
-    // i.e. this.masonry.columnWidth = ...
-    this.masonry.columnWidth = colW;
-  };
-  
-  jQuery.Isotope.prototype._masonryReset = function() {
-    // layout-specific props
-    this.masonry = {};
-    // FIXME shouldn't have to call this again
-    this._getCenteredMasonryColumns();
-    var i = this.masonry.cols;
-    this.masonry.colYs = [];
-    while (i--) {
-      this.masonry.colYs.push( 0 );
-    }
-  };
-
-  jQuery.Isotope.prototype._masonryResizeChanged = function() {
-    var prevColCount = this.masonry.cols;
-    // get updated colCount
-    this._getCenteredMasonryColumns();
-    return ( this.masonry.cols !== prevColCount );
-  };
-  
-  jQuery.Isotope.prototype._masonryGetContainerSize = function() {
-    var unusedCols = 0,
-        i = this.masonry.cols;
-    // count unused columns
-    while ( --i ) {
-      if ( this.masonry.colYs[i] !== 0 ) {
-        break;
-      }
-      unusedCols++;
-    }
-    
-    return {
-          height : Math.max.apply( Math, this.masonry.colYs ),
-          // fit container to columns that have been used;
-          width : (this.masonry.cols - unusedCols) * this.masonry.columnWidth
-        };
-  };
-
-	
-*/
 	    
 	// Check if Mobile or Tablet device  
 	function is_touch_device() {
@@ -661,29 +572,28 @@ function googleTranslateElementInit() {
         function( newElements ) {
         
 		var $newElems = jQuery(newElements);
-		$newElems.css("opacity","0");
-		$newElems.imagesLoaded(function(){
-			$newElems.css("opacity","1");
-			jQuery(".post").css("opacity","1");
+
+
+
 			$container.isotope('appended', $newElems );
-		});
+
 		
 		// LoadMore Callback scripts
 		// =========================================
 		jQuery('.isotope-loadmore a').text("Load more");
 		
 		// Post Like
-  		jQuery.getScript("http://www.powerlinks.com/wp-content/themes/powerlinks/js/post-like.js");
+  		//jQuery.getScript("http://www.powerlinks.com/wp-content/themes/avian/js/post-like.js");
   		
   		// Slider
   		
         jQuery('.widget-slider .flexslider').flexslider({
-		animation: "slide",
-		slideshow: "false", 
-		slideshowSpeed: 800,
-		animationSpeed: 600, 
-		easing: "swing", 
-		directionNav: false 
+			animation: "slide",
+			slideshow: "true", 
+			slideshowSpeed: 5000,
+			animationSpeed: 500, 
+			easing: "swing", 
+			directionNav: true 
 		});
 	    
 	    // Video Player
@@ -776,10 +686,7 @@ function googleTranslateElementInit() {
 		}
         return false;
     });
-    
-    	$container.imagesLoaded( function(){
-		  $container.isotope('reLayout');
-		});
+   
 
     var hashChanged = false;
     jQuery(window).bind( 'hashchange', function( event ){
@@ -844,12 +751,7 @@ function googleTranslateElementInit() {
 		<script>
 	jQuery('.mobile-nav-container .dropdown').click(function() {
     	jQuery('.sub-menu', this).slideToggle(300);
-    });
-    
-    jQuery(function($) {
-		jQuery(".dropdown").children("a").attr('href', "javascript:void(0)"); 
-    });
-    
+    });    
 	</script>
 		<script>
 	jQuery(document).ready(function() {
@@ -936,7 +838,7 @@ var intervalId = window.setInterval(slide, 2000);
 		
 		// Make navigation smaller on scroll
 		jQuery(document).scroll(function(){
-		    if(jQuery(window).scrollTop() > 0)
+		    if(jQuery(window).scrollTop() > 200)
 		    {   
 		        jQuery('.header').addClass("header-scrolled");
 		    }
@@ -956,10 +858,10 @@ var intervalId = window.setInterval(slide, 2000);
         jQuery(function($){
         	jQuery(".tweet").tweet({
             username: 'PowerLinksAds',
-            modpath: 'http://www.powerlinks.com/wp-content/themes/powerlinks/framework/twitter/',
+            modpath: 'http://www.powerlinks.com/wp-content/themes/avian/framework/twitter/',
             join_text: "auto",
             avatar_size: 32,
-            count: 2,
+            count: 3,
             auto_join_text_default: "",
             auto_join_text_ed: "",
             auto_join_text_ing: "",
@@ -1001,7 +903,7 @@ var intervalId = window.setInterval(slide, 2000);
 
 				jQuery(this).numAnim({
 				    endAt: counter_number,
-				    duration: 2
+				    duration: 1
 				});
 			  }
 			});
@@ -1017,37 +919,35 @@ var intervalId = window.setInterval(slide, 2000);
 		
 		
 
-
-
-
-<link rel="stylesheet" id="js_composer_front-css" href="http://www.powerlinks.com/wp-content/plugins/js_composer/assets/css/js_composer_front.css?ver=3.7.4" type="text/css" media="all">
-<script type="text/javascript" src="http://www.powerlinks.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.48.0-2013.12.28"></script>
+<script type="text/javascript" src="http://www.powerlinks.com/wp-includes/js/comment-reply.min.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://www.powerlinks.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var _wpcf7 = {"loaderUrl":"http:\/\/www.powerlinks.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.powerlinks.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.7"></script>
-<script type="text/javascript" src="http://www.powerlinks.com/wp-content/plugins/zero-spam/zero-spam.min.js?ver=1.1.0"></script>
-<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/powerlinks/assets/js/jquery.flexslider-min.js?ver=3.8.1"></script>
-<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/powerlinks/assets/js/bootstrap.min.js?ver=3.8.1"></script>
-<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/powerlinks/assets/js/jquery.infinitescroll.min.js?ver=3.8.1"></script>
-<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/powerlinks/assets/js/jquery.manual-trigger.js?ver=3.8.1"></script>
-<script type="text/javascript" src="http://www.powerlinks.com/wp-content/plugins/js_composer/assets/lib/isotope/jquery.isotope.min.js?ver=3.7.4"></script>
-<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/powerlinks/assets/js/jquery.ba-bbq.min.js?ver=3.8.1"></script>
-<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/powerlinks/assets/js/jquery.fancybox.js?ver=3.8.1"></script>
-<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/powerlinks/assets/js/easing.js?ver=3.8.1"></script>
-<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/powerlinks/assets/js/jquery.ui.totop.js?ver=3.8.1"></script>
+<script type="text/javascript" src="http://www.powerlinks.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.1.2"></script>
+<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/powerlinks/scripts/powerlinks-customise-fonts.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/powerlinks/scripts/powerlinks-fonts.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/avian/assets/js/jquery.flexslider-min.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/avian/assets/js/bootstrap.min.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/avian/assets/js/jquery.infinitescroll.min.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/avian/assets/js/jquery.manual-trigger.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://www.powerlinks.com/wp-content/plugins/js_composer/assets/lib/isotope/dist/isotope.pkgd.min.js?ver=4.3.4"></script>
+<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/avian/assets/js/jquery.ba-bbq.min.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/avian/assets/js/jquery.fancybox.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/avian/assets/js/easing.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/avian/assets/js/jquery.ui.totop.js?ver=4.2.2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var ajax_var = {"url":"http:\/\/www.powerlinks.com\/wp-admin\/admin-ajax.php","nonce":"6554e6f536"};
+var ajax_var = {"url":"http:\/\/www.powerlinks.com\/wp-admin\/admin-ajax.php","nonce":"313301227e"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/powerlinks/assets/js/post-like.min.js?ver=3.8.1"></script>
-<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/powerlinks/assets/js/jquery.parallax-1.1.3.js?ver=3.8.1"></script>
-<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/powerlinks/assets/js/jquery.scrollTo-1.4.2-min.js?ver=3.8.1"></script>
-<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/powerlinks/framework/twitter/jquery.tweet.js?ver=3.8.1"></script>
-<script type="text/javascript" src="http://www.powerlinks.com/wp-content/plugins/js_composer/assets/js/js_composer_front.js?ver=3.7.4"></script>
+<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/avian/assets/js/post-like.min.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/avian/assets/js/jquery.parallax-1.1.3.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/avian/assets/js/jquery.scrollTo-1.4.2-min.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://www.powerlinks.com/wp-content/themes/avian/framework/twitter/jquery.tweet.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://www.powerlinks.com/wp-content/plugins/js_composer/assets/js/js_composer_front.js?ver=4.3.4"></script>
 
-  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"e8007cc259","applicationID":"2613345","transactionName":"ZgRQMUBXChJYBkZZWl9OcwZGXwsPFhVTV1A=","queueTime":0,"applicationTime":1528,"atts":"SkNTRwhNGRw=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
-   <script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+  
+   </body></html>
