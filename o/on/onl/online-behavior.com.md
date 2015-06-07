@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-behavior.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016033417id_/http%3A//online-behavior.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-behavior.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608015035id_/http%3A//online-behavior.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Behavior
 
@@ -21,6 +21,8 @@ One important feature we use in Google Analytics that should be mentioned is the
 > 1\. Opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Preferences Manager](https://www.google.com/ads/preferences/)
 > 
 > 2\. [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/)
+
+Please also note that we use the Mailchimp ID (mcid) to track behavior across device through the [User ID feature](https://support.google.com/analytics/answer/3123662). So when a user registers to receive our newsletter, and clicks on an email, we will append the mcid to the URL and use it to measure usage across device using a 1st party cookie. We also save the information for future visits.
 
 ## Information Transfers
 
