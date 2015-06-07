@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shop2market.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111173639id_/http%3A//www.shop2market.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop2market.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152732id_/http%3A//www.shop2market.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Shop2market
+# Privacy Policy - Shop2market
 
 Shop2market is a global software company that engineers cloud-based digital marketing solutions and predictive media optimization technology. As such, we collect, process and analyze data from various sources, produce statistical information and identify trends in order to enable our customers to manage, optimize and analyze their digital marketing activities across multiple advertising channels and devices. This Privacy Policy discloses the privacy principles and practices applied by Shop2market in the course of providing services to its customers and from individuals visiting our website.
 
