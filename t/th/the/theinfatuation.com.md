@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theinfatuation.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120115714id_/http%3A//www.theinfatuation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinfatuation.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607033954id_/http%3A//www.theinfatuation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – The Infatuation
 
@@ -90,7 +90,7 @@ The Infatuation takes reasonable steps to protect the Personal Data provided via
 
 ## Other Terms and Conditions
 
-Your access to and use of this Site is subject to the [Terms of Service](https://web.archive.org/terms-of-service).
+Your access to and use of this Site is subject to the [Terms of Service](http://www.theinfatuation.com/terms-of-service).
 
 ## Changes to The Infatuation’s Privacy Policy
 
