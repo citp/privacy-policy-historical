@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the topcoder.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115161110id_/http%3A//www.topcoder.com/community/how-it-works/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topcoder.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607075249id_/http%3A//www.topcoder.com/community/how-it-works/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – topcoder
 
-This privacy statement covers the Web site www.topcoder.com (“Site”) owned and operated by Appirio Inc. This privacy statement describes how Appirio Inc. collects and uses the personal information you provide on our web site. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. Appirio Inc. has received TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, [www.topcoder.com](https://www.topcoder.com/). If you have questions or concerns regarding this statement, you should first contact security@appirio.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. Appirio Inc. complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Dchageepartment of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Appirio Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Appirio Inc’s certification, please visit <http://www.export.gov/safeharbor/>
+[](https://privacy.truste.com/privacy-seal/Appirio-Inc/validation?rid=8f5bcc44-bbcc-4021-8104-1c889c1a5710 "TRUSTe European Safe Harbor certification")
+
+This privacy statement covers the Web site www.topcoder.com (“Site”) owned and operated by Appirio Inc. This privacy statement describes how Appirio Inc. collects and uses the personal information you provide on our web site. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. Appirio Inc. has received TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, [www.topcoder.com](https://www.topcoder.com/). If you have questions or concerns regarding this statement, you should first contact security@appirio.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. Appirio Inc. complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Appirio Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Appirio Inc’s certification, please visit <http://www.export.gov/safeharbor/>
 
 ### Privacy Policy Updates
 
@@ -18,7 +20,7 @@ Technologies such as: cookies, beacons, tags and scripts are used by Appirio and
 
 ### Log Files
 
-As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. 
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you. 
 
 ### LSOs
 
@@ -36,7 +38,7 @@ Our Web site includes Social Media Features, such as the Facebook Like button [a
 
 You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.  Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network. 
 
-### Blogs, Forums and Chartrooms
+### Blogs, Forums and Chatrooms
 
 If you use a bulletin board, blog, or chat room on this Site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. To request removal of your personal information from our blog or community forum, contact us at support@topcoder.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
 
