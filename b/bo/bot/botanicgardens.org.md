@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the botanicgardens.org privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229063802id_/http%3A//www.botanicgardens.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the botanicgardens.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607235757id_/http%3A//www.botanicgardens.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Denver Botanic Gardens
-
-## Privacy Policy
+# Privacy Policy
 
 **Collection and Usage of Personal Information**  
 Denver Botanic Gardens (the Gardens), operator of [www.botanicgardens.org](https://web.archive.org/), recognizes the importance of protecting the privacy of the users of this website and our digital annual report. Except when specifically and knowingly provided by you, the website and/or annual report user, the Gardens collects no personally identifying information about individuals.
