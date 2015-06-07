@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the homebuyinginstitute.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123131848id_/http%3A//www.homebuyinginstitute.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homebuyinginstitute.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145149id_/http%3A//www.homebuyinginstitute.com/privacy.php) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
-  * This is the official website of the Home Buying Institute. Our website address is www.HomeBuyingInstitute.com. This policy was last updated on July 15, 2013.
+This is the official website of the Home Buying Institute. Our website address is www.HomeBuyingInstitute.com. This policy was last updated on July 15, 2013.
 
 This website is independently owned and operated by Brandon Cornett.
 
@@ -28,6 +28,3 @@ We use third-party advertising companies to serve ads when you visit our website
 Google, as a third party vendor, uses cookies to serve ads on this website. Google's use of the DART cookie enables it to serve ads to our site visitors based on their visit to out sites and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the Google ad and content [network privacy policy](http://www.google.com/privacy_ads.html).
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
-
-
-
