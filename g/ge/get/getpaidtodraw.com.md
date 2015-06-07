@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getpaidtodraw.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230063305id_/http%3A//www.getpaidtodraw.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpaidtodraw.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607193613id_/http%3A//www.getpaidtodraw.com/privacy.html) for the most accurate reproduction.*
 
 # Get Paid To Draw .com - Privacy Policy
 
