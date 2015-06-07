@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metroworks.co.jp privacy policy that was archived on 2014-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140820034538id_/http%3A//metroworks.co.jp/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metroworks.co.jp privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607043417id_/http%3A//www.metroworks.co.jp/privacy.shtml) for the most accurate reproduction.*
 
 # MetroWorks
 
