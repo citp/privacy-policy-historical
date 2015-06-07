@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the goldenvoice.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109142813id_/http%3A//www.goldenvoice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenvoice.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185225id_/http%3A//www.goldenvoice.com/%257B%257Bsite%257D%257D/goldenvoice-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy :: Goldenvoice
-
-## Goldenvoice Privacy Policy
+# GOLDENVOICE PRIVACY POLICY | Goldenvoice
 
 ### General Overview
 
@@ -38,11 +36,11 @@ The personally identifiable information we collect is used to facilitate deliver
 
 In the case of contests, promotions, and/or newsletter registrations or other features that may or may not involve a purchase: We may require all users and/or customers wishing to participate in any of our contests, drawings, sweepstakes, promotions, newsletters, Fantasy Games, Webcasts or other interactive features which may or may not require a purchase to complete an entry form which will require the submission of certain personally-identifiable information.
 
-The personally-identifiable information that may be collected in an entry form includes, but may not be limited to: customer's first name, last name, zip code, phone number, age and email address. Winners of contests, drawings, sweepstakes, and/or promotions will be required to provide additional personally identifiable information such as a shipping address and telephone number. If the privacy policy varies for a particular sweepstakes or promotion, that information will be disclosed in the sweepstakes or promotion rules.
+The personally-identifiable information that may be collected in an entry form includes, but may not be limited to: customer’s first name, last name, zip code, phone number, age and email address. Winners of contests, drawings, sweepstakes, and/or promotions will be required to provide additional personally identifiable information such as a shipping address and telephone number. If the privacy policy varies for a particular sweepstakes or promotion, that information will be disclosed in the sweepstakes or promotion rules.
 
 In the case of a ticket or other product and/or service which involves a purchase on our Site: In order to complete the purchase of a product and/or service, an online credit card transaction is required. During this process we generate and collect certain personally identifiable information.
 
-The personally identifiable information that may be collected from our customers in completion of a product and/or service purchase, includes, but may not be limited to: customer's first and last name, first and last name of the credit card owner, credit card billing address, credit card number, credit card security code, credit card expiration date, customer's shipping address, phone number, and email address. You may also have the opportunity to permit us to maintain this information in a personal profile for you so you do not have to re-enter the information each time you make a purchase.
+The personally identifiable information that may be collected from our customers in completion of a product and/or service purchase, includes, but may not be limited to: customer’s first and last name, first and last name of the credit card owner, credit card billing address, credit card number, credit card security code, credit card expiration date, customer’s shipping address, phone number, and email address. You may also have the opportunity to permit us to maintain this information in a personal profile for you so you do not have to re-enter the information each time you make a purchase.
 
 If a customer sends us personal correspondence, such as emails or letters, we may collect such information into a file specific to such customer.
 
@@ -62,7 +60,7 @@ We may offer free newsletters to share information with you about our Site, abou
 
 **Contests or Sweepstakes**
 
-We may operate contests and sweepstakes through our Site, which may require registration. Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation or other related purposes. Your entry in the contest or sweepstakes may also result in your being added to our mailing lists as well as those of our promotional partners associated with the contest or sweepstakes. Acceptance of a prize may require you (unless prohibited by law) to allow us to post publicly some of your information on our Site, such as on a winner's page, in the event you win a contest or sweepstakes. In some instances, a third-party advertiser or sponsor may operate or host a contest or sweepstakes on our Site, and collect your information. In those cases, where we are not the operator or host of the contest or sweepstakes, we have no control over the information collected and accordingly urge you to review the official rules of the contest/sweepstakes as well as the advertiser's or sponsor's privacy policy applicable to the contest or sweepstakes before participating.
+We may operate contests and sweepstakes through our Site, which may require registration. Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation or other related purposes. Your entry in the contest or sweepstakes may also result in your being added to our mailing lists as well as those of our promotional partners associated with the contest or sweepstakes. Acceptance of a prize may require you (unless prohibited by law) to allow us to post publicly some of your information on our Site, such as on a winner’s page, in the event you win a contest or sweepstakes. In some instances, a third-party advertiser or sponsor may operate or host a contest or sweepstakes on our Site, and collect your information. In those cases, where we are not the operator or host of the contest or sweepstakes, we have no control over the information collected and accordingly urge you to review the official rules of the contest/sweepstakes as well as the advertiser’s or sponsor’s privacy policy applicable to the contest or sweepstakes before participating.
 
 **Surveys or Voting**
 
@@ -70,7 +68,7 @@ From time-to-time we may request personally-identifiable information from you vi
 
 **Cookies**
 
-As with many Websites, our Site uses standard technology called "cookies," which are small data files that are transferred to your computer when you allow your browser to accept cookies. Cookies automatically identify your Web browser to our Site whenever you visit our Site, and make using our Site easier for you by saving your passwords, purchases, and preferences. By tracking how and when you use our Site, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Site are based on data obtained from cookies. Accepting cookies allows you, among other things, to personalize your experience on our Site. Cookies may also allow our Site to present to you advertising which may be of interest to you. If you do not want information collected through the use of cookies, you generally can opt out of providing this information by turning the cookies off in your browser; however, some areas of our Site may not provide you with a personalized experience if you have disabled the use of cookies.
+As with many Websites, our Site uses standard technology called “cookies,” which are small data files that are transferred to your computer when you allow your browser to accept cookies. Cookies automatically identify your Web browser to our Site whenever you visit our Site, and make using our Site easier for you by saving your passwords, purchases, and preferences. By tracking how and when you use our Site, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Site are based on data obtained from cookies. Accepting cookies allows you, among other things, to personalize your experience on our Site. Cookies may also allow our Site to present to you advertising which may be of interest to you. If you do not want information collected through the use of cookies, you generally can opt out of providing this information by turning the cookies off in your browser; however, some areas of our Site may not provide you with a personalized experience if you have disabled the use of cookies.
 
 **IP Addresses and Click-stream Data**
 
@@ -90,9 +88,9 @@ Back to Top
 
 ### 3\. How we use the information we collect?
 
-We internally use personally identifiable information about our customers to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our Site's content and layout. We believe these uses allow us to improve our Site and provide better service to our customers.
+We internally use personally identifiable information about our customers to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our Site’s content and layout. We believe these uses allow us to improve our Site and provide better service to our customers.
 
-We may use a customer's email address and, in rare situations mailing address or phone number, to contact a customer regarding, administrative matters or notices, satisfaction with our Site and/or services and to provide further information regarding additional events, products or services we believe the customer would be interested in.
+We may use a customer’s email address and, in rare situations mailing address or phone number, to contact a customer regarding, administrative matters or notices, satisfaction with our Site and/or services and to provide further information regarding additional events, products or services we believe the customer would be interested in.
 
 We may use information in the file we maintain about a customer to resolve disputes and troubleshoot problems.
 
@@ -104,7 +102,7 @@ In order to process your requests we may provide your personally-identifiable in
 
 If you purchase a ticket to a specific event on our Site, your first name, last name, physical address, phone number and email address may be provided to the management of the artist(s) for that event.
 
-While we believe any disclosure of your information will result in opportunities that may be of interest to you, you have the right to opt out from receiving any future communications by contacting such third party directly. You may also opt out from receiving future communications from Goldenvoice through one of the following methods: (i) clicking on the appropriate links contained in our email communications; (ii) sending us a written request to the following address: Privacy Policy - Goldenvoice, C/O AEG Digital, 800 West Olympic Blvd., Suite 305, Los Angeles, CA 90015 or (iii) emailing: [privacypolicy@aegworldwide.com](https://web.archive.org/web/20141109142813id_/http%3A//www.goldenvoice.com/privacypolicy@aegworldwide.com)
+While we believe any disclosure of your information will result in opportunities that may be of interest to you, you have the right to opt out from receiving any future communications by contacting such third party directly. You may also opt out from receiving future communications from Goldenvoice through one of the following methods: (i) clicking on the appropriate links contained in our email communications; (ii) sending us a written request to the following address: Privacy Policy – Goldenvoice, C/O AEG Digital, 800 West Olympic Blvd., Suite 305, Los Angeles, CA 90015 or (iii) emailing: [privacypolicy@aegworldwide.com](https://web.archive.org/web/20150607185225id_/http://www.goldenvoice.com/goldenvoice-privacy-policy/privacypolicy@aegworldwide.com)
 
 Your request must include your name, email address, mailing address and must be signed. (Signature only required for written request sent by regular mail). Please allow six weeks to process your request. You may also opt out by clicking on the appropriate links contained in our email communications. Under some circumstances, such as where we are contractually required to disclose ticket purchase information to artist management, we may not be able to fulfill your ticket order if you have requested that we do not disclose your information to third parties.
 
@@ -116,7 +114,7 @@ Back to Top
 
 ### 5\. What choices do I have about Goldenvoice collecting, using, and disclosing my information?
 
-It is possible for you to use much of our Site without giving us any personally identifiable information. When you do register with us or give us personally identifiable information, you will have an opportunity at the time we collect your information -- to limit e-mail communications from Goldenvoice and from our third-party partners. You can request at any time that Goldenvoice not send future e-mail to you either by unsubscribing from the communication or by contacting us at [privacypolicy@aegworldwide.com](https://web.archive.org/web/20141109142813id_/http%3A//www.goldenvoice.com/privacypolicy@aegworldwide.com). Also, as mentioned above, there are ways to limit the information collected through technology -- though some of our Site features won't work if you decide to do this.
+It is possible for you to use much of our Site without giving us any personally identifiable information. When you do register with us or give us personally identifiable information, you will have an opportunity at the time we collect your information — to limit e-mail communications from Goldenvoice and from our third-party partners. You can request at any time that Goldenvoice not send future e-mail to you either by unsubscribing from the communication or by contacting us at [privacypolicy@aegworldwide.com](https://web.archive.org/web/20150607185225id_/http://www.goldenvoice.com/goldenvoice-privacy-policy/privacypolicy@aegworldwide.com). Also, as mentioned above, there are ways to limit the information collected through technology — though some of our Site features won’t work if you decide to do this.
 
 Even if you request that we not disclose your personal information to third parties, we may disclose personally identifiable information in the good faith belief that we are required to do so by law, or that doing so is reasonably necessary to comply with legal process, respond to any claims, or to protect the rights, property, or personal safety of Goldenvoice, Site users or the public. Information collected through this Site, including personally identifiable information, may be disclosed as part of, or during negotiations of, any merger, sale of company assets or acquisition.
 
@@ -124,7 +122,7 @@ Back to Top
 
 ### 6\. What security precautions are in place to protect against the loss, misuse, or alteration of your information?
 
-We have implemented reasonable security measures to safeguard your personally identifiable information using reasonable industry standards. However, please keep in mind that "perfect security" does not exist on the Internet and/or the World Wide Web.
+We have implemented reasonable security measures to safeguard your personally identifiable information using reasonable industry standards. However, please keep in mind that “perfect security” does not exist on the Internet and/or the World Wide Web.
 
 Back to Top
 
@@ -136,7 +134,7 @@ Back to Top
 
 ### 8\. Links to other Websites
 
-You should be aware that when you are on our Site you could be directed to other sites beyond our control. For example, if you seek to purchase a ticket to a concert that is not sold on our Site or "click" on a banner advertisement, the "click" may take you off our Site onto a different Website. This includes links from advertisers, sponsors and partners that may use our Site's logo as part of a co-branding agreement. These other Websites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a Website that is linked to our Site, you should review that site's privacy policy before providing any personal information. This Privacy Policy does not apply to any information you submit to third-party Websites, including, without limitation, any Websites that may be connected to our Site by hypertext link or otherwise.
+You should be aware that when you are on our Site you could be directed to other sites beyond our control. For example, if you seek to purchase a ticket to a concert that is not sold on our Site or “click” on a banner advertisement, the “click” may take you off our Site onto a different Website. This includes links from advertisers, sponsors and partners that may use our Site’s logo as part of a co-branding agreement. These other Websites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a Website that is linked to our Site, you should review that site’s privacy policy before providing any personal information. This Privacy Policy does not apply to any information you submit to third-party Websites, including, without limitation, any Websites that may be connected to our Site by hypertext link or otherwise.
 
 Back to Top
 
@@ -154,7 +152,7 @@ Back to Top
 
 ### 11\. Limitation of Liability
 
-By providing us with any personal information you expressly and unconditionally release and hold harmless Anschutz Entertainment Group, Inc., its parents, shareholders, owners, members, and each of their subsidiaries, affiliates, directors, officers, employees and agents (collectively, the "Releasees") from any and all liability for any injuries, loss or damage of any kind arising from or in connection with the use and/or misuse of your collected personal information. In addition, while Goldenvoice takes efforts to ensure the proper and appropriate use of Goldenvoice data provided by Goldenvoice to third party companies, promotional partners or vendors, the Releasees are not liable for any injuries, loss or damage of any kind arising from or in connection with the use and/or misuse of your collected personal information by such third parties.
+By providing us with any personal information you expressly and unconditionally release and hold harmless Anschutz Entertainment Group, Inc., its parents, shareholders, owners, members, and each of their subsidiaries, affiliates, directors, officers, employees and agents (collectively, the “Releasees”) from any and all liability for any injuries, loss or damage of any kind arising from or in connection with the use and/or misuse of your collected personal information. In addition, while Goldenvoice takes efforts to ensure the proper and appropriate use of Goldenvoice data provided by Goldenvoice to third party companies, promotional partners or vendors, the Releasees are not liable for any injuries, loss or damage of any kind arising from or in connection with the use and/or misuse of your collected personal information by such third parties.
 
 Back to Top
 
@@ -166,13 +164,13 @@ Back to Top
 
 ### 13\. Correcting and updating personal information
 
-If your PII changes, or if you no longer wish to receive communications from us, you should make changes to your password protected registered user profile on the Site, respond to an opt-out message in an email or text, or email us at [privacypolicy@aegworldwide.com](https://web.archive.org/web/20141109142813id_/http%3A//www.goldenvoice.com/privacypolicy@aegworldwide.com). Please note that to the extent that such information is stored in our databases, we will respond to your changes as soon as reasonably practicable, however that information may remain stored indefinitely in our back-up and archival records. Any information that is stored in aggregate ("headless") form that may have been excerpted from is not considered PII and will not be updated or changed pursuant to a request from you.
+If your PII changes, or if you no longer wish to receive communications from us, you should make changes to your password protected registered user profile on the Site, respond to an opt-out message in an email or text, or email us at [privacypolicy@aegworldwide.com](https://web.archive.org/web/20150607185225id_/http://www.goldenvoice.com/goldenvoice-privacy-policy/privacypolicy@aegworldwide.com). Please note that to the extent that such information is stored in our databases, we will respond to your changes as soon as reasonably practicable, however that information may remain stored indefinitely in our back-up and archival records. Any information that is stored in aggregate (“headless”) form that may have been excerpted from is not considered PII and will not be updated or changed pursuant to a request from you.
 
 Back to Top
 
 ### 14\. Opting out of Registration.
 
-If you are a registered subscriber and no longer wish to receive our email communications, you may opt out. Choosing to opt out means we will remove your personal data from our database and you will not receive further communications from us. You may opt out by utilizing one of the following methods: (i) emailing us at [privacypolicy@aegworldwide.com](https://web.archive.org/web/20141109142813id_/http%3A//www.goldenvoice.com/privacypolicy@aegworldwide.com), (ii) using an option out message contained in an email from us, or (iii) calling us at 888-929-7849.
+If you are a registered subscriber and no longer wish to receive our email communications, you may opt out. Choosing to opt out means we will remove your personal data from our database and you will not receive further communications from us. You may opt out by utilizing one of the following methods: (i) emailing us at [privacypolicy@aegworldwide.com](https://web.archive.org/web/20150607185225id_/http://www.goldenvoice.com/goldenvoice-privacy-policy/privacypolicy@aegworldwide.com), (ii) using an option out message contained in an email from us, or (iii) calling us at 888-929-7849.
 
 Back to Top
 
@@ -180,11 +178,11 @@ Back to Top
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact Goldenvoice by sending a letter to:
 
-Privacy Policy - Goldenvoice  
-C/O AEG Digital   
+Privacy Policy – Goldenvoice  
+C/O AEG Digital  
 800 West Olympic Blvd., Suite 305  
 Los Angeles, CA 90015
 
-You may also contact us by e-mail at: [privacypolicy@aegworldwide.com](https://web.archive.org/web/20141109142813id_/http%3A//www.goldenvoice.com/privacypolicy@aegworldwide.com)
+You may also contact us by e-mail at: [privacypolicy@aegworldwide.com](https://web.archive.org/web/20150607185225id_/http://www.goldenvoice.com/goldenvoice-privacy-policy/privacypolicy@aegworldwide.com)
 
 Back to Top
