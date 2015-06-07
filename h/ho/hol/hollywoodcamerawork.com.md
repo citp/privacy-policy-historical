@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hollywoodcamerawork.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202063110id_/http%3A//www.hollywoodcamerawork.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodcamerawork.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607183619id_/http%3A//www.hollywoodcamerawork.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Hollywood Camera Work -- Main --
+# Hollywood Camera Work :: Main :: Privacy Policy
 
 ## Privacy Policy And Stuff
 
-####  Our Commitment To Privacy 
+#### Our Commitment To Privacy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
 
@@ -26,8 +26,8 @@ We use Google Analytics to monitor site usage, so that we may optimize the layou
 
 ####  Our Commitment To Data Security 
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We are in the process of becoming PCI Compliant, which is a Payment Card Industry certification program that requires merchants to have the highest standards of data security. 
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We are fully PCI Compliant, which is a Payment Card Industry certification program that requires merchants to have the highest standards of data security. We do not touch or store payment information. 
 
 ####  How To Contact Us 
 
-Should you have other questions or concerns about these privacy policies, please contact us at any of the addresses or phone numbers listed on the [Contact Page](https://web.archive.org/web/20141202063110id_/http%3A//www.hollywoodcamerawork.com/\[~9~\]). 
+Should you have other questions or concerns about these privacy policies, please contact us at any of the addresses or phone numbers listed on the [Contact Page](https://web.archive.org/web/20150607183619id_/http%3A//www.hollywoodcamerawork.com/contact.html). 
