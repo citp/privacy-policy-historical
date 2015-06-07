@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trueswords.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217043532id_/http%3A//www.trueswords.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trueswords.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145053id_/http%3A//www.trueswords.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
