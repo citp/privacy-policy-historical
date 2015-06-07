@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the incansoft.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120124919id_/http%3A//www.incansoft.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incansoft.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607183302id_/http%3A//www.incansoft.com/Privacy.php) for the most accurate reproduction.*
 
-# Incansoft | Experience The Difference Today!
+# Incansoft - Privacy Policy
 
 **Incansoft Privacy Statement**
 
@@ -57,8 +57,3 @@ As we continue to develop our business, we or our affiliates may sell or buy oth
 Your information may be stored and processed in any country in which we maintain facilities or conduct operations. By using our website, products and services, you consent to any such transfer of information outside of your country. 
 
 After your account becomes inactive your information may remain in our databases, computers, and archives, and cannot reasonably be expunged. 
-
-Sincerely, 
-
-Michalis " **BIG Mike** " Kotzakolios and his Trusty Sidekick **Diego Hernando**   
-[Niche Mania](http://www.niche-mania.com/) & Incansoft | _Experience The Difference Today!_
