@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisdomtimes.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222200726id_/http%3A//wisdomtimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisdomtimes.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607071722id_/http%3A//www.wisdomtimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy-Policy
 
