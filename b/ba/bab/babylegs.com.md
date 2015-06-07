@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babylegs.com privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713132937id_/http%3A//www.babylegs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babylegs.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142538id_/http%3A//www.babylegs.com/privacy-policy) for the most accurate reproduction.*
 
 # Leg warmers for babies & toddlers at BabyLegs - Privacy policy
 
