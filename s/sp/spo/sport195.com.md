@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sport195.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021030807id_/http%3A//www.sport195.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sport195.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022452id_/http%3A//corporate.sports195.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SPORTS195
-
-YOU ARE USING A BETA VERSION OF OUR WEBSITE AND/OR APPLICATION. WE WILL MAINTAIN ANY INFORMATION THAT WE COLLECT ABOUT YOU DURING THE BETA PHASE IN OUR FINAL LAUNCH. WE MAY, HOWEVER, MAKE CHANGES TO OUR PRIVACY POLICY AS WE WORK THROUGH THE BETA PROCESS.
+# Privacy Policy - SPORTS195
 
 ## EFFECTIVE DATE: October 14, 2013
 
@@ -14,6 +12,28 @@ In this Privacy Policy (“Policy”), we describe how we collect, use, and disc
 
 By visiting the Site, using or downloading the Application, or using any of our Services, you agree that we will use your personal information as described in this Policy. Your use of our Site, Application, or Services, and any dispute over privacy, is subject to this Policy and our Terms of Service, including its applicable limitations on damages and the resolution of disputes. Our Terms of Service are incorporated by reference into this Policy.
 
+  * [The Information We Collect About You](https://web.archive.org/privacy-policy#info_we_collect)
+    * [Information We Collect Directly From You](https://web.archive.org/privacy-policy#info_direct)
+    * [Information that We Collect About You from Social Networking Sites](https://web.archive.org/privacy-policy#info_social)
+    * [Information We Collect Automatically](https://web.archive.org/privacy-policy#info_auto)
+  * [How We Use Your Information](https://web.archive.org/privacy-policy#use_info)
+  * [How We Share Your Information/What Information About You is Publicly Available](https://web.archive.org/privacy-policy#share_info)
+  * [Our Use of Cookies and Other Tracking Mechanisms](https://web.archive.org/privacy-policy#cookies)
+    * [Local Storage Objects](https://web.archive.org/privacy-policy#local_storage)
+    * [Clear GIFs, pixel tags and other technologies](https://web.archive.org/privacy-policy#pixel_tags)
+  * [Third Party Analytics](https://web.archive.org/privacy-policy#analytics)
+  * [Third-Party Ad Networks](https://web.archive.org/privacy-policy#ad_networks)
+  * [Third-Party Links and Applications](https://web.archive.org/privacy-policy#links_apps)
+  * [Security of My Personal Information](https://web.archive.org/privacy-policy#security)
+  * [Accessing Your Personal Information and Deleting Your Account](https://web.archive.org/privacy-policy#delete_account)
+  * [What Choices Do I Have Regarding Use of My Personal Information?](https://web.archive.org/privacy-policy#choices)
+  * [Children Under 13](https://web.archive.org/privacy-policy#under_thirteen)
+  * [Special Information for California Consumers](https://web.archive.org/privacy-policy#calif)
+  * [Contact Us](https://web.archive.org/privacy-policy#contact)
+  * [Changes to this Policy](https://web.archive.org/privacy-policy#changes)
+
+
+
 ## The Information We Collect About You
 
 We collect information about you directly from you and from third parties, as well as automatically through your use of our Site, Application, and Services.
@@ -22,11 +42,11 @@ We collect information about you directly from you and from third parties, as we
 
 You may view certain portions of our Site/Application without registering with us. Other portions of our Site/Application require registration. We will collect the following information about you as you use our Services.
 
-  * Registration Information. If you would like to create a page for you or your team, or to post a comment about an athlete on our Site or through our Application, then you must register with us. When you register, we will collect your full name, email address, country, and birthdate.
+  * Registration Information. If you would like to create a page for you or your team, or to post a comment about an athlete on our Site or through our Application, then you must register with us. When you register, we will collect your full name, email address, country, and birthdate.
 
-  * Profile Information and Other User Submissions. Once you are registered, you may choose to create a user profile, which may include your date of birth, interests, sports information, hobbies, groups (e.g., schools, companies), and any other information that you choose to include in your profile (“Profile Information”). You also may post comments and otherwise interact with our Site, Application, and Services. This information is provided at your discretion.
+  * Profile Information and Other User Submissions. Once you are registered, you may choose to create a user profile, which may include your date of birth, interests, sports information, hobbies, groups (e.g., schools, companies), and any other information that you choose to include in your profile (“Profile Information”). You also may post comments and otherwise interact with our Site, Application, and Services. This information is provided at your discretion.
 
-  * Transaction Information. If you make a purchase, we also will collect billing and shipping information (e.g., credit card number/mailing address).
+  * Transaction Information. If you make a purchase, we also will collect billing and shipping information (e.g., credit card number/mailing address).
 
 Unless requested, we will not store your credit card information. We may combine the other information that we collect from and about you, either individually in the aggregate, and use as discussed below.
 
@@ -35,11 +55,11 @@ Unless requested, we will not store your credit card information. We may combine
 
 ### Information that We Collect About You from Third Parties.
 
-  * Social Networking Sites. Currently, you may log onto our Services through Facebook. We may add the option to log onto our Services through other social networking sites. If you log onto our Services through Facebook, we will ask that you grant us permission to access your: (i) basic information; (ii) email address; (iii) profile information (birthday, education history, hometown, interests, likes, location, and work history); (iv) friends' profile information (birthdays, education histories, locations and work histories); (v) events shared with you; and (vi) status updates shared with you. If you allow us to have access to this information, then we will have access to this information even if you have chosen not to make that information public.
+  * Social Networking Sites. Currently, you may log onto our Services through Facebook. We may add the option to log onto our Services through other social networking sites. If you log onto our Services through Facebook, we will ask that you grant us permission to access your: (i) basic information; (ii) email address; (iii) profile information (birthday, education history, hometown, interests, likes, location, and work history); (iv) friends’ profile information (birthdays, education histories, locations and work histories); (v) events shared with you; and (vi) status updates shared with you. If you allow us to have access to this information, then we will have access to this information even if you have chosen not to make that information public.
 
 Any third-party social networking site controls the information it collects from you. For information about they may use and disclose your information, including any information you make public, please consult their respective privacy policies. We have no control over how any third party site uses or discloses the personal information it collects about you.
 
-  * Information We Collect About You From Other Third Parties. Members of our Services may post information about other athletes on our Site and our Application. Among other examples, an athlete’s sponsor may post information about the athletes that it sponsors, or may post a sponsor logo the pages of the athletes that it sponsors. A team also may post a page its team and include postings about the individual athletes on that team.
+  * Information We Collect About You From Other Third Parties. Members of our Services may post information about other athletes on our Site and our Application. Among other examples, an athlete’s sponsor may post information about the athletes that it sponsors, or may post a sponsor logo the pages of the athletes that it sponsors. A team also may post a page its team and include postings about the individual athletes on that team.
 
 We store the information that we collect about you from third parties with other information that we collect from you or receive about you.
 
@@ -50,9 +70,9 @@ We store the information that we collect about you from third parties with other
 
 We collect information about you automatically as you use our Services.
 
-  * Our Site. We automatically collect information about your use of our Services as you move through our Site, including, your domain name; your browser type and operating system; web pages you view; links you click; your IP address; the length of time you visit our Site and or use our Services; and the referring URL, or the webpage that led you to our Site.
+  * Our Site. We automatically collect information about your use of our Services as you move through our Site, including, your domain name; your browser type and operating system; web pages you view; links you click; your IP address; the length of time you visit our Site and or use our Services; and the referring URL, or the webpage that led you to our Site.
 
-  * Our Application. We also may collect the following information about your use of the Application: mobile device ID; location and language information; device name and model; operating system type, name, and version; your activities within the Application; and the length of time that you are logged into our Application.
+  * Our Application. We also may collect the following information about your use of the Application: mobile device ID; location and language information; device name and model; operating system type, name, and version; your activities within the Application; and the length of time that you are logged into our Application.
 
 Please see the section “What About Cookies and Other Tracking Mechanisms?” below for more information about our use of cookies and other tracking mechanisms.
 
@@ -86,34 +106,34 @@ We primarily use your information (including the information that you give to us
 
 Our Services offer a public forum for the exchange of information. The information that you post to our Site and Application generally is public information, which will be available by any uses of our Site and Application. We may share the information that we collect about you, including personally identifiable information, as follows:
 
-  * Other Users of Our Services/Following Users. Registered users may search for other members using various criteria, such as name, email, schools and/or companies where the member has attended/worked. Search engines also may index the portion of a member’s profile (including the Profile Information it contains) that is publicly displayed. Our Services are designed for users to share information with one another. At SPORTS195, we do not assign a user name; rather, you registered name is your user name. All posts that you make will be accompanied by your registered name, and will be viewable by all other members of our Services. You may choose to follow other athletes, and we will notify the athlete that you are following him/her.
+  * Other Users of Our Services/Following Users. Registered users may search for other members using various criteria, such as name, email, schools and/or companies where the member has attended/worked. Search engines also may index the portion of a member’s profile (including the Profile Information it contains) that is publicly displayed. Our Services are designed for users to share information with one another. At SPORTS195, we do not assign a user name; rather, you registered name is your user name. All posts that you make will be accompanied by your registered name, and will be viewable by all other members of our Services. You may choose to follow other athletes, and we will notify the athlete that you are following him/her.
 
-  * Affiliates. We may disclose the information we collect from you to our affiliates or subsidiaries; however, if we do so, their use and disclosure of your personally identifiable information will be subject to this Policy.
+  * Affiliates. We may disclose the information we collect from you to our affiliates or subsidiaries; however, if we do so, their use and disclosure of your personally identifiable information will be subject to this Policy.
 
-  * Service Providers. We may disclose the information we collect from you to third party vendors, service providers, contractors or agents who perform functions on our behalf, including message board administration, order fulfillment, statistical analysis, data processing, as well as contractors, agents, or sponsors who assist us with the administration, judging and prize fulfillment aspects of contests, promotions, and sweepstakes.
+  * Service Providers. We may disclose the information we collect from you to third party vendors, service providers, contractors or agents who perform functions on our behalf, including message board administration, order fulfillment, statistical analysis, data processing, as well as contractors, agents, or sponsors who assist us with the administration, judging and prize fulfillment aspects of contests, promotions, and sweepstakes.
 
-  * Non-Affiliated Third Parties. We may share your information with third parties to market products and services that they believe would be of interest to you, including customer mailing lists and email address, among other user data. If you are a California resident, please see our special notice below regarding this information disclosure. We also may share your information, including your user submissions, either individually, aggregated, or compilations with third parties for their use, consistent with our Terms of Service. We also may share information obtained through cookies and other tracking devices with third parties so that we may target appropriate ads to you.
+  * Non-Affiliated Third Parties. We may share your information with third parties to market products and services that they believe would be of interest to you, including customer mailing lists and email address, among other user data. If you are a California resident, please see our special notice below regarding this information disclosure. We also may share your information, including your user submissions, either individually, aggregated, or compilations with third parties for their use, consistent with our Terms of Service. We also may share information obtained through cookies and other tracking devices with third parties so that we may target appropriate ads to you.
 
 We also may disclosure your information in the following circumstances:
 
-  * Business Transfers. If we are acquired by or merged with another company, if substantially all of our assets are transferred to another company, or as part of a bankruptcy proceeding, we may transfer the information we have collected from you to the other company.
+  * Business Transfers. If we are acquired by or merged with another company, if substantially all of our assets are transferred to another company, or as part of a bankruptcy proceeding, we may transfer the information we have collected from you to the other company.
 
-  * In Response to Legal Process. We also may disclose the information we collect about you to comply with the law, a judicial proceeding, court order, or other legal process, such as in response to a court order or a subpoena.
+  * In Response to Legal Process. We also may disclose the information we collect about you to comply with the law, a judicial proceeding, court order, or other legal process, such as in response to a court order or a subpoena.
 
-  * To Protect Us and Others. We also may disclose the information we collect from you where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our Terms of Use or this Policy, or as evidence in litigation in which we are involved.
+  * To Protect Us and Others. We also may disclose the information we collect from you where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our Terms of Use or this Policy, or as evidence in litigation in which we are involved.
 
-  * Aggregate and De-Identified Information. We also may share aggregate or de-identified data about users with third parties (including, participating schools, sponsors, researchers, and other non-affiliated third parties) for marketing, advertising, research or similar purposes.
+  * Aggregate and De-Identified Information. We also may share aggregate or de-identified data about users with third parties (including, participating schools, sponsors, researchers, and other non-affiliated third parties) for marketing, advertising, research or similar purposes.
 
 
 
 
 ## What Choices Do I Have About the Use of My Personal Information?
 
-  * Marketing. We may send periodic promotional or informational emails to you. You may opt-out of such communications by following the opt-out instructions contained in the e-mail. Please note that it may take up to 10 business days for us to process opt-out requests. If you opt-out of receiving emails about recommendations or other information we think may interest you, we may still send you e-mails about your account or any Services you have requested or received from us.
+  * Marketing. We may send periodic promotional or informational emails to you. You may opt-out of such communications by following the opt-out instructions contained in the e-mail. Please note that it may take up to 10 business days for us to process opt-out requests. If you opt-out of receiving emails about recommendations or other information we think may interest you, we may still send you e-mails about your account or any Services you have requested or received from us.
 
-  * Updating Registration or Profile Information/Postings. You may update your registration and Profile Information by logging into your account and selecting “Edit Profile.” Please note that copies of the data that you have deleted may remain in our system for a period of time. You also may flag comments posted on our Services if you think they are inappropriate or inaccurate, but you may not remove comments that other people have posted to our Services.
+  * Updating Registration or Profile Information/Postings. You may update your registration and Profile Information by logging into your account and selecting “Edit Profile.” Please note that copies of the data that you have deleted may remain in our system for a period of time. You also may flag comments posted on our Services if you think they are inappropriate or inaccurate, but you may not remove comments that other people have posted to our Services.
 
-  * Access to Your Page. Depending upon your membership level, you may control certain account settings by logging into your account and selecting “Edit Profile.”
+  * Access to Your Page. Depending upon your membership level, you may control certain account settings by logging into your account and selecting “Edit Profile.”
 
 
 
@@ -122,11 +142,11 @@ We also may disclosure your information in the following circumstances:
 
 We use cookies and other tracking mechanisms to track information about your use of our Site (and, where applicable, our Application) and Services. We may combine this information with other personal information we collect from you. Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your web browser for record-keeping purposes. Some cookies allow us to make it easier for you to navigate our Services, while others are used to enable a faster log-in process or to allow us to track your activities at our Site and Service. There are two types of cookies: session and persistent cookies. We also engage third parties to track and analyze Site and Application data.
 
-  * Session Cookies. Session cookies exist only during an online session. They disappear from your computer when you close your browser or turn off your computer. We use session cookies to allow our systems to uniquely identify you during a session or while you are logged into the Site. This allows us to process your online transactions and requests and verify your identity, after you have logged in, as you move through our Site.
+  * Session Cookies. Session cookies exist only during an online session. They disappear from your computer when you close your browser or turn off your computer. We use session cookies to allow our systems to uniquely identify you during a session or while you are logged into the Site. This allows us to process your online transactions and requests and verify your identity, after you have logged in, as you move through our Site.
 
-  * Persistent cookies. Persistent cookies remain on your computer after you have closed your browser or turned off your computer. We use persistent cookies to track aggregate and statistical information about user activity, and to display advertising both on our Site and on third-party sites.
+  * Persistent cookies. Persistent cookies remain on your computer after you have closed your browser or turned off your computer. We use persistent cookies to track aggregate and statistical information about user activity, and to display advertising both on our Site and on third-party sites.
 
-  * Third Party Cookies/Online Tracking. We may engage third parties to track and analyze Site and Application data. We use the data collected by such third parties to help us administer and improve the quality of the Site and to analyze Site and Application usage. Such third parties may combine the information that we provide about you with other information that they have collected. This Policy does not cover such third parties’ use of the data.
+  * Third Party Cookies/Online Tracking. We may engage third parties to track and analyze Site and Application data. We use the data collected by such third parties to help us administer and improve the quality of the Site and to analyze Site and Application usage. Such third parties may combine the information that we provide about you with other information that they have collected. This Policy does not cover such third parties’ use of the data.
 
 
 
@@ -173,7 +193,7 @@ You should take steps to protect against unauthorized access to your password, p
 
 ## Accessing Your Personal Information and Deleting Your Account
 
-You may access and modify your Profile Information by logging into your account and selecting “Edit Profile.” You also may update any information that you have posted about other athletes. If you would like to delete your profile you may do so by sending a deletion request email to [support@sport195.com](mailto:support@sport195.com). Please note that copies of information that you have updated, modified or deleted may remain viewable in cached and archived pages of the Site or Application for a period of time.
+You may access and modify your Profile Information by logging into your account and selecting “Edit Profile.” You also may update any information that you have posted about other athletes. If you would like to delete your profile you may do so by sending a deletion request email to [support@sport195.com](mailto:support@sport195.com). Please note that copies of information that you have updated, modified or deleted may remain viewable in cached and archived pages of the Site or Application for a period of time.
 
 ## Children Under 13
 
@@ -185,11 +205,11 @@ If you are located outside of the United States, please note that information we
 
 ## Special Information for California Consumers
 
-California residents may request a list of certain third parties to which we have disclosed personally identifiable information about you for their own direct marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us at: [support@sport195.com](mailto:support@sport195.com). Please allow up to thirty (30) days for a response.
+California residents may request a list of certain third parties to which we have disclosed personally identifiable information about you for their own direct marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us at:[support@sport195.com](mailto:support@sport195.com). Please allow up to thirty (30) days for a response.
 
 ## Contact Us
 
-If you have questions about the privacy aspects of our Services or would like to make a complaint, please contact us at: [support@sport195.com](mailto:privacy@sport195).
+If you have questions about the privacy aspects of our Services or would like to make a complaint, please contact us at: [support@sport195.com](mailto:privacy@sport195).
 
 ## Changes to this Policy
 
