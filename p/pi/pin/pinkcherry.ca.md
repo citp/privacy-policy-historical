@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pinkcherry.ca privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229164218id_/http%3A//www.pinkcherry.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinkcherry.ca privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607065231id_/http%3A//www.pinkcherry.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy & Security
+## Privacy & Security
 
 At PinkCherry.ca Canada (a division of TBMBM, Inc.), we know that your privacy and security while shopping online is very important. Below, please find the top privacy and security-related questions and answers.
 
