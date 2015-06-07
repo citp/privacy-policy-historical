@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the magazine-agent.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022104413id_/http%3A//www.magazine-agent.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazine-agent.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607213306id_/http%3A//www.magazine-agent.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Magazine-Agent.com | Privacy Policy
 
-### Publishers
-
-When you order a magazine, we forward the name of the recipient and the postal address to which the magazine is to be delivered to the applicable magazine publisher for fulfillment. This information will be governed by the privacy policy of the magazine publishers for the titles you have chosen to receive. No other personally identifiable information is shared with the publisher of the magazine ordered.
-
 ### About this Site
 
-Effective Date of Policy: December 11th, 2013 - [Previous Policy](https://web.archive.org/Privacy-Policy/Previous)
+Effective Date of Policy: June 1st, 2015 - [Previous Policy](https://web.archive.org/Privacy-Policy/Previous)
 
-This site is operated by Contrix Inc., on behalf of Magazine-Agent.com, hereinafter all collectively referred to as the “Site.” By visiting the Site, you are accepting the practices described in this Privacy Policy.
+This site is operated by [Contrix Inc.](http://www.contrix.com/), on behalf of Magazine-Agent.com, hereinafter all collectively referred to as the “Site.” By visiting the Site, you are accepting the practices described in this Privacy Policy.
 
 ### Information Collected from All Visitors
 
@@ -19,6 +15,10 @@ The Site may collect certain profile information from its users (including but n
 ### Additional Information Collected from Registered Users and Customers
 
 In order to fulfill customer orders and enhance user experience, the Site collects certain specific personally identifiable information that its customers and registered users provide when visiting the Site, such as their first and last name, their home or other physical address including their street name and the name of their city or town, their email address, their telephone number, and their credit card information (none of the above-listed types of personally identifiable information will be collected unless provided directly by the user). Such information is shared with contracted third-parties in order to fill orders accurately and promptly, provide customer service assistance, improve your shopping service, and improve the content of the Site generally so that we may better meet our users' needs. We may also provide the personally identifiable information (except email and credit card information) we collect from our users to other businesses and companies that sell a wide variety of products and services that we believe will be of interest to our customers. Because we respect the privacy of our customers and visitors, you can request that we not share your personally identifiable information with these other businesses and companies by[changing your privacy preferences by logging in to your account](https://manage.magazine-agent.com/). **Except as specifically set forth in this privacy policy, we will never share your email address or credit card information with third-parties**. Furthermore (as noted above), except as specifically stated herein, we have not granted any third party the right to share your information with others.
+
+### Multiple Businesses with Common Systems
+
+In addition to the Site, Contrix Inc. (1) may operate sites for publishing companies and (2) operate other proprietary sites which act as third party resellers of discount magazine subscriptions, collectively "Other Sites". Contrix may store information collected from the Site and information collected from Other Sites in the same systems and in turn Contrix may analyze any and all information from both the Site and Other Sites in the aggregate. 
 
 ### Setting Communication Preferences
 
@@ -70,3 +70,7 @@ Suite 1311
 New York, NY 10017**
 
 top
+
+### Publishers
+
+When you order a magazine, we forward the name of the recipient and the postal address to which the magazine is to be delivered to the applicable magazine publisher for fulfillment. This information will be governed by the privacy policy of the magazine publishers for the titles you have chosen to receive. No other personally identifiable information is shared with the publisher of the magazine ordered.top
