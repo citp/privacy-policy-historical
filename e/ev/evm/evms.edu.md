@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the evms.edu privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227202116id_/http%3A//www.evms.edu/about_evms/leadership/general_counsel/legal_and_compliance/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evms.edu privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608003324id_/http%3A//www.evms.edu/about_evms/leadership/general_counsel/legal_and_compliance/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Eastern Virginia Medical School (EVMS), Norfolk, Hampton Roads
 
-[](https://web.archive.org/)
+[](https://www.evms.edu/)
 
 All pages within the domain [www.evms.edu](http://www.evms.edu/) (the “Site”) are for use by members of the Eastern Virginia Medical School (“EVMS”) community and general public.  By accessing, viewing, commenting, or submitting any information from/to the Site, you acknowledge that you have read, understand, and agree to the Terms of Use and Privacy Policies for the Site.  Also note that EVMS may change the Terms of Use or Privacy Policy at any time.  You are responsible for regularly reviewing the Terms of Use and Privacy Policies for changes and your continued use of the Site constitutes your agreement to all such changes to the Terms of Use and Privacy Policies.
 
@@ -27,7 +27,7 @@ The information EVMS collects will be used for:
 
 We will never sell your information, but may share your information with any or all of the following:
 
-  * The EVMS Foundation for purposes of fundraising on behalf of EVMS. For EVMS Medical Group patients, if you do not want us to contact you for fundraising efforts, you must notify our Privacy Office. [Find out more](https://web.archive.org/about_evms/leadership/general_counsel/legal_and_compliance/evms_medical_group_opt_out/).
+  * The EVMS Foundation for purposes of fundraising on behalf of EVMS. For EVMS Medical Group patients, if you do not want us to contact you for fundraising efforts, you must notify our Privacy Office. [Find out more](https://www.evms.edu/about_evms/leadership/general_counsel/legal_and_compliance/evms_medical_group_opt_out/).
   * EVMS Medical Group for purposes of following up on a patient care complaint or to improve our patient care services to you
   * Service providers that provide web related services on our behalf. These service providers are contractually restricted from using or disclosing the information except as necessary to perform services on our behalf or to comply with legal requirements.
   * As necessary to comply with legal requirements (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities or other government officials, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity.
