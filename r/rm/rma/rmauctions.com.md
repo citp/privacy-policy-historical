@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rmauctions.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131635id_/http%3A//www.rmauctions.com/about/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rmauctions.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607150251id_/http%3A//rmauctions.com/about/privacy-policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy | Classic Car Auctions | RM AUCTIONS
+# Privacy Policy | Classic Car Auctions | RM Sotheby's
 
 **RM Auctions Inc. Personal Data Privacy and Protection Policy**   
 RM Auctions Inc. considers the privacy and protection of its clients' personal data to be of utmost importance. To ensure that you feel confident about providing us with your personal information when communicating with us and using our services, we outline below our practices in relation to the collection and use of personal data. 
