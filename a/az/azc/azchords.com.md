@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azchords.com privacy policy that was archived on 2014-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140730182546id_/http%3A//www.azchords.com/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azchords.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607215351id_/http%3A//www.azchords.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy. AZchords.com
 
@@ -6,16 +6,18 @@
 
 **Information Automatically Logged**
 
-We use your IP address to help diagnose problems with our server and to administer our Web site.
+We use your IP address to help diagnose problems with our server and to administer our Web site. 
 
 **Advertisers**
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
 
-Read Amazon [privacy policy here](http://rcm.amazon.com/e/cm/privacy-policy.html?o=1).  
-Read AllPosters [privacy policy here](http://www.allposters.com/help/guarantee.asp#privacy).
+Read Amazon [privacy policy here](http://rcm.amazon.com/e/cm/privacy-policy.html?o=1). 
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://networkadvertising.org/managing/opt_out.asp>. 
+Read AllPosters [privacy policy here](http://www.allposters.com/help/guarantee.asp#privacy). 
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://networkadvertising.org/managing/opt_out.asp>.   
+
 
 **External Links**
 
@@ -31,11 +33,9 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 **Fair Use Notice**
 
-This web site may contain copyrighted material whose use has not been   
-specifically authorized by the copyright owner. This page is operated under the   
-assumption that this not-for-profit use on the Web constitutes a "fair use"  
-of the copyrighted material as provided for in Title 17, Chapter 1 , section 107 of the US Copyright Law. If you wish to use this copyrighted material for purposes of your own that go beyond "fair use", you must obtain permission from the copyright owner. The material in this site is provided for educational and informational purposes only.
+This web site may contain copyrighted material whose use has not been specifically authorized by the copyright owner. This page is operated under the assumption that this not-for-profit use on the Web constitutes a "fair use" of the copyrighted material as provided for in Title 17, Chapter 1 , section 107 of the US Copyright Law. If you wish to use this copyrighted material for purposes of your own that go beyond "fair use", you must obtain permission from the copyright owner. The material in this site is provided for educational and informational purposes only. 
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20140730182546id_/http%3A//www.azchords.com/contact.html).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20150607215351id_/http%3A//www.azchords.com/contact.html).   
+
