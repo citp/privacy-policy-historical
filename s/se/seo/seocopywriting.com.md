@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the seocopywriting.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222202244id_/http%3A//www.seocopywriting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seocopywriting.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607090441id_/http%3A//seocopywriting.com/privacy) for the most accurate reproduction.*
 
 # Privacy - SEO Copywriting
 
-[private]SuccessWorks Search Marketing, Inc. takes individual privacy very seriously. We are also aware of the threats to your security and privacy on the Internet. Please take a few moments to review the steps that we take to ensure your privacy and security while giving you the best possible customer service as you use our websites.
+SuccessWorks Search Marketing, Inc. takes individual privacy very seriously. We are also aware of the threats to your security and privacy on the Internet. Please take a few moments to review the steps that we take to ensure your privacy and security while giving you the best possible customer service as you use our websites.
 
 ### Ordering Online
 
@@ -22,7 +22,7 @@ If at any time you wish to be removed from our mailing list, please send an emai
 
 ### Disclaimer
 
-The information presented in our programs is for the exclusive use of SuccessWorks Search Marketing, Inc. members. Copying or disseminating any information published by SuccessWorks Search Marketing, Inc., electronic or otherwise is strictly prohibited. 
+The information presented in our programs is for the exclusive use of SuccessWorks Search Marketing, Inc. members. Copying or disseminating any information published by SuccessWorks Search Marketing, Inc., electronic or otherwise is strictly prohibited.
 
 **SuccessWorks Search Marketing, Inc.**  
 333 NW 9th Ave #803  
@@ -30,6 +30,4 @@ Portland, OR 97209
 (503) 922-3627  
 [http://www.seocopywriting.com](http://www.seocopywriting.com/)
 
-[/private]
-
-* * *
+Scroll to top
