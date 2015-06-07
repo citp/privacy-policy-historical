@@ -1,62 +1,94 @@
-<!--The following is the downloaded HTML source of the partydelights.co.uk privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120180635id_/http%3A//www.partydelights.co.uk/corporate/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the partydelights.co.uk privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607185641id_/http%3A//www.partydelights.co.uk/corporate/privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html class=" js "><head>
 
 <!-- U12 -->
 <meta http-equiv="cleartype" content="on">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<meta property="fb:app_id" content="1417288415175268">
+<meta property="og:site_name" content="Party Delights">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_GB">
 <meta name="apple-mobile-web-app-capable" content="no">
+
 <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/images/_sitedesign/apple-touch-icon-152x152.png">
-<link rel="stylesheet" type="text/css" href="/general.css?ver=1">
+<link href="//fonts.googleapis.com/css?family=Roboto:700,500,400,300" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="/general.css?v=2">
 <!--[if IE 9]><link rel="stylesheet" type="text/css" href="/styles/ie9.css"/><![endif]-->
 <!--[if IE 8]><link rel="stylesheet" type="text/css" href="/styles/ie8.css"/><![endif]-->
 <!--[if IE 7]><link rel="stylesheet" type="text/css" href="/styles/ie7.css"/><![endif]-->
 <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/styles/ie6.css"/><![endif]-->
 
-<!-- JQuery Scripts -->
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T5ZC5N"></script><script type="text/javascript" src="/js/jquery-1.11.0.min.js?v=1"></script>
-<!-- Fast Click -->
-<script type="text/javascript" src="/js/fastClick.js?v=1"></script>
-<!-- eMarsys -->
-<script type="text/javascript" src="/js/emstrack.js"></script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T5ZC5N"></script><script type="text/javascript" src="/JS/jquery-1.11.0.min.js?v=1"></script>
 <script type="text/javascript">
-	// <!--
-	emsSetEnv('suite');
-	emsTracking(272590397, 'partydelights.co.uk');
-	// --> 
+    //-- Fast Click
+    (function () { function e(e, t, n, r) { if (e.addEventListener) { e.addEventListener(t, n, r); return { destroy: function () { e.removeEventListener(t, n, r) } } } else { var i = function (e) { n.handleEvent(window.event, n) }; e.attachEvent("on" + t, i); return { destroy: function () { e.detachEvent("on" + t, i) } } } } var t = "ontouchstart" in window; this.FastButton = function (n, r, i) { this.events = []; this.touchEvents = []; this.element = n; this.handler = r; this.useCapture = i; if (t) this.events.push(e(n, "touchstart", this, this.useCapture)); this.events.push(e(n, "click", this, this.useCapture)) }; this.FastButton.prototype.destroy = function () { for (i = this.events.length - 1; i >= 0; i -= 1) this.events[i].destroy(); this.events = this.touchEvents = this.element = this.handler = this.fastButton = null }; this.FastButton.prototype.handleEvent = function (e) { switch (e.type) { case "touchstart": this.onTouchStart(e); break; case "touchmove": this.onTouchMove(e); break; case "touchend": this.onClick(e); break; case "click": this.onClick(e); break } }; this.FastButton.prototype.onTouchStart = function (t) { t.stopPropagation ? t.stopPropagation() : t.cancelBubble = true; this.touchEvents.push(e(this.element, "touchend", this, this.useCapture)); this.touchEvents.push(e(document.body, "touchmove", this, this.useCapture)); this.startX = t.touches[0].clientX; this.startY = t.touches[0].clientY }; this.FastButton.prototype.onTouchMove = function (e) { if (Math.abs(e.touches[0].clientX - this.startX) > 10 || Math.abs(e.touches[0].clientY - this.startY) > 10) { this.reset() } }; this.FastButton.prototype.onClick = function (e) { e.stopPropagation ? e.stopPropagation() : e.cancelBubble = true; this.reset(); var t = this.handler.call(this.element, e); if (e.type == "touchend") clickbuster.preventGhostClick(this.startX, this.startY); return t }; this.FastButton.prototype.reset = function () { for (i = this.touchEvents.length - 1; i >= 0; i -= 1) this.touchEvents[i].destroy(); this.touchEvents = [] }; this.clickbuster = function () { }; this.clickbuster.preventGhostClick = function (e, t) { clickbuster.coordinates.push(e, t); window.setTimeout(clickbuster.pop, 2500) }; this.clickbuster.pop = function () { clickbuster.coordinates.splice(0, 2) }; this.clickbuster.onClick = function (e) { for (var t = 0; t < clickbuster.coordinates.length; t += 2) { var n = clickbuster.coordinates[t]; var r = clickbuster.coordinates[t + 1]; if (Math.abs(e.clientX - n) < 25 && Math.abs(e.clientY - r) < 25) { e.stopPropagation ? e.stopPropagation() : e.cancelBubble = true; e.preventDefault ? e.preventDefault() : e.returnValue = false } } }; if (t) { document.addEventListener("click", clickbuster.onClick, true); clickbuster.coordinates = [] } })(this); (function (e) { e.event.special.fastClick = { setup: function () { e(this).data("fastClick", new FastButton(this, e.event.special.fastClick.handler)) }, teardown: function () { e(this).data("fastClick").destroy(); e(this).removeData("fastClick") }, handler: function (t) { t = e.event.fix(t); t.type = "fastClick"; e.event.dispatch.apply(this, arguments) } }; e.fn.fastClick = function (t) { return e(this).each(function () { return t ? e(this).bind("fastClick", t) : e(this).trigger("fastClick") }) } })(jQuery)
 </script>
-<script type="text/javascript">
-	var ScarabQueue = ScarabQueue || [];
-</script>
-<script type="text/javascript" id="scarab-js-api" src="https://cdn.scarabresearch.com/js/1D36FD7533ED62A9/scarab-v2.js"></script>
-<script type="text/javascript" src="/js/jquery-ui.js?v=1"></script>
-<!-- Extracted JQuery Mobile Touch -->
-<script type="text/javascript" src="/js/jquery.cj-swipe.js?v=1"></script>
-<!-- JQuery Cookie -->
-<script src="/js/jquery.cookie.js?v=1"></script>
 
-<!-- This file is included on all html head sections on every page -->
-<script type="text/javascript" src="/js/popup550.js?v=1"></script>
+<script type="text/javascript">
+    //-- Touch Swipe JavaScript
+    (function (e) { function a(t) { e(this).touchSwipeLeft(t).touchSwipeRight(t) } function f(t) { var n = e(this); if (!n.data("swipeLeft")) n.data("swipeLeft", t); if (!n.data("swipeRight")) c(n) } function l(t) { var n = e(this); if (!n.data("swipeRight")) n.data("swipeRight", t); if (!n.data("swipeLeft")) c(n) } function c(e) { e.unbindSwipe(true).bind(r, h) } function h(r) { function m(e) { l.unbind(n); if (a && v) { if (v - a < u && Math.abs(c - p) > i && Math.abs(h - d) < s) { if (c > p) { if (l.data("swipeLeft")) l.data("swipeLeft")("left") } else { if (l.data("swipeRight")) l.data("swipeRight")("right") } } } a = v = null } function g(e) { if (a) { f = e.originalEvent.touches ? e.originalEvent.touches[0] : e; v = (new Date).getTime(); p = f.pageX; d = f.pageY; if (Math.abs(c - p) > o) e.preventDefault() } } var a = (new Date).getTime(), f = r.originalEvent.touches ? r.originalEvent.touches[0] : r, l = e(this).bind(n, g).one(t, m), c = f.pageX, h = f.pageY, p, d, v; if (l.data("stopPropagation")) r.stopImmediatePropagation() } var t, n, r, i = 200, s = 20, o = 50, u = 1e3; if ("ontouchend" in document) { t = "touchend.cj_swp"; n = "touchmove.cj_swp"; r = "touchstart.cj_swp" } else { t = "mouseup.cj_swp"; n = "mousemove.cj_swp"; r = "mousedown.cj_swp" } e.fn.touchSwipe = function (e, t) { if (t) this.data("stopPropagation", true); if (e) return this.each(a, [e]) }; e.fn.touchSwipeLeft = function (e, t) { if (t) this.data("stopPropagation", true); if (e) return this.each(f, [e]) }; e.fn.touchSwipeRight = function (e, t) { if (t) this.data("stopPropagation", true); if (e) return this.each(l, [e]) }; e.fn.unbindSwipeLeft = function () { this.removeData("swipeLeft"); if (!this.data("swipeRight")) this.unbindSwipe(true) }; e.fn.unbindSwipeRight = function () { this.removeData("swipeRight"); if (!this.data("swipeLeft")) this.unbindSwipe(true) }; e.fn.unbindSwipe = function (e) { if (!e) this.removeData("swipeLeft swipeRight stopPropagation"); return this.unbind(r + " " + n + " " + t) } })(jQuery)
+</script>
+
+<script type="text/javascript">
+    //-- Adds support for CSS3 selectors in older browsers using JQuery
+    (function (e) { function t(e, t) { var n = e, r = 0; while (e = e[t]) { if (n.tagName == e.tagName) { r++ } } return r } function n(e, n, r) { var i = t(e, r), s; if (n == "odd" || n == "even") { s = 2; i -= !(n == "odd") } else { var o = n.indexOf("n"); if (o > -1) { s = parseInt(n, 10) || parseInt(n.substring(0, o) + "1", 10); i -= (parseInt(n.substring(o + 1), 10) || 0) - 1 } else { s = i + 1; i -= parseInt(n, 10) - 1 } } return (s < 0 ? i <= 0 : i >= 0) && i % s == 0 } var r = { "first-of-type": function (e) { return t(e, "previousSibling") == 0 }, "last-of-type": function (e) { return t(e, "nextSibling") == 0 }, "only-of-type": function (e) { return r["first-of-type"](e) && r["last-of-type"](e) }, "nth-of-type": function (e, t, r) { return n(e, r[3], "previousSibling") }, "nth-last-of-type": function (e, t, r) { return n(e, r[3], "nextSibling") } }; e.extend(e.expr[":"], r) })(jQuery)
+</script>
+
+<script type="text/javascript">
+    //-- Pop up image in /product_detail.asp
+    function PopupPic(sPicURL) { window.open("/popup.htm?" + sPicURL, "", "resizable=1,HEIGHT=390,WIDTH=330,left=100,top=50"); }
+</script>
+
+<script type="text/javascript">
+    //-- Waypoints - 3.0.0
+    !function () { "use strict"; function t(o) { if (!o) throw new Error("No options passed to Waypoint constructor"); if (!o.element) throw new Error("No element option passed to Waypoint constructor"); if (!o.handler) throw new Error("No handler option passed to Waypoint constructor"); this.key = "waypoint-" + e, this.options = t.Adapter.extend({}, t.defaults, o), this.element = this.options.element, this.adapter = new t.Adapter(this.element), this.callback = o.handler, this.axis = this.options.horizontal ? "horizontal" : "vertical", this.enabled = this.options.enabled, this.triggerPoint = null, this.group = t.Group.findOrCreate({ name: this.options.group, axis: this.axis }), this.context = t.Context.findOrCreateByElement(this.options.context), t.offsetAliases[this.options.offset] && (this.options.offset = t.offsetAliases[this.options.offset]), this.group.add(this), this.context.add(this), i[this.key] = this, e += 1 } var e = 0, i = {}; t.prototype.queueTrigger = function (t) { this.group.queueTrigger(this, t) }, t.prototype.trigger = function (t) { this.enabled && this.callback && this.callback.apply(this, t) }, t.prototype.destroy = function () { this.context.remove(this), this.group.remove(this), delete i[this.key] }, t.prototype.disable = function () { return this.enabled = !1, this }, t.prototype.enable = function () { return this.context.refresh(), this.enabled = !0, this }, t.prototype.next = function () { return this.group.next(this) }, t.prototype.previous = function () { return this.group.previous(this) }, t.destroyAll = function () { var t = []; for (var e in i) t.push(i[e]); for (var o = 0, r = t.length; r > o; o++) t[o].destroy() }, t.refreshAll = function () { t.Context.refreshAll() }, t.viewportHeight = function () { return window.innerHeight || document.documentElement.clientHeight }, t.viewportWidth = function () { return document.documentElement.clientWidth }, t.adapters = [], t.defaults = { context: window, continuous: !0, enabled: !0, group: "default", horizontal: !1, offset: 0 }, t.offsetAliases = { "bottom-in-view": function () { return this.context.innerHeight() - this.adapter.outerHeight() }, "right-in-view": function () { return this.context.innerWidth() - this.adapter.outerWidth() } }, window.Waypoint = t }(), function () { "use strict"; function t(t) { window.setTimeout(t, 1e3 / 60) } function e(t) { this.element = t, this.Adapter = r.Adapter, this.adapter = new this.Adapter(t), this.key = "waypoint-context-" + i, this.didScroll = !1, this.didResize = !1, this.oldScroll = { x: this.adapter.scrollLeft(), y: this.adapter.scrollTop() }, this.waypoints = { vertical: {}, horizontal: {} }, t.waypointContextKey = this.key, o[t.waypointContextKey] = this, i += 1, this.createThrottledScrollHandler(), this.createThrottledResizeHandler() } var i = 0, o = {}, r = window.Waypoint, n = window.requestAnimationFrame || window.mozRequestAnimationFrame || window.webkitRequestAnimationFrame || t, s = window.onload; e.prototype.add = function (t) { var e = t.options.horizontal ? "horizontal" : "vertical"; this.waypoints[e][t.key] = t, this.refresh() }, e.prototype.checkEmpty = function () { var t = this.Adapter.isEmptyObject(this.waypoints.horizontal), e = this.Adapter.isEmptyObject(this.waypoints.vertical); t && e && (this.adapter.off(".waypoints"), delete o[this.key]) }, e.prototype.createThrottledResizeHandler = function () { function t() { e.handleResize(), e.didResize = !1 } var e = this; this.adapter.on("resize.waypoints", function () { e.didResize || (e.didResize = !0, n(t)) }) }, e.prototype.createThrottledScrollHandler = function () { function t() { e.handleScroll(), e.didScroll = !1 } var e = this; this.adapter.on("scroll.waypoints", function () { (!e.didScroll || r.isTouch) && (e.didScroll = !0, n(t)) }) }, e.prototype.handleResize = function () { r.Context.refreshAll() }, e.prototype.handleScroll = function () { var t = {}, e = { horizontal: { newScroll: this.adapter.scrollLeft(), oldScroll: this.oldScroll.x, forward: "right", backward: "left" }, vertical: { newScroll: this.adapter.scrollTop(), oldScroll: this.oldScroll.y, forward: "down", backward: "up" } }; for (var i in e) { var o = e[i], r = o.newScroll > o.oldScroll, n = r ? o.forward : o.backward; for (var s in this.waypoints[i]) { var a = this.waypoints[i][s], l = o.oldScroll < a.triggerPoint, h = o.newScroll >= a.triggerPoint, p = l && h, u = !l && !h; (p || u) && (a.queueTrigger(n), t[a.group.id] = a.group) } } for (var c in t) t[c].flushTriggers(); this.oldScroll = { x: e.horizontal.newScroll, y: e.vertical.newScroll } }, e.prototype.innerHeight = function () { return this.element === this.element.window ? r.viewportHeight() : this.adapter.innerHeight() }, e.prototype.remove = function (t) { delete this.waypoints[t.axis][t.key], this.checkEmpty() }, e.prototype.innerWidth = function () { return this.element === this.element.window ? r.viewportWidth() : this.adapter.innerWidth() }, e.prototype.destroy = function () { var t = []; for (var e in this.waypoints) for (var i in this.waypoints[e]) t.push(this.waypoints[e][i]); for (var o = 0, r = t.length; r > o; o++) t[o].destroy() }, e.prototype.refresh = function () { var t, e = this.element === this.element.window, i = this.adapter.offset(), o = {}; this.handleScroll(), t = { horizontal: { contextOffset: e ? 0 : i.left, contextScroll: e ? 0 : this.oldScroll.x, contextDimension: this.innerWidth(), oldScroll: this.oldScroll.x, forward: "right", backward: "left", offsetProp: "left" }, vertical: { contextOffset: e ? 0 : i.top, contextScroll: e ? 0 : this.oldScroll.y, contextDimension: this.innerHeight(), oldScroll: this.oldScroll.y, forward: "down", backward: "up", offsetProp: "top" } }; for (var r in t) { var n = t[r]; for (var s in this.waypoints[r]) { var a, l, h, p, u, c = this.waypoints[r][s], d = c.options.offset, f = c.triggerPoint, w = 0, y = null == f; c.element !== c.element.window && (w = c.adapter.offset()[n.offsetProp]), "function" == typeof d ? d = d.apply(c) : "string" == typeof d && (d = parseFloat(d), c.options.offset.indexOf("%") > -1 && (d = Math.ceil(n.contextDimension * d / 100))), a = n.contextScroll - n.contextOffset, c.triggerPoint = w + a - d, l = f < n.oldScroll, h = c.triggerPoint >= n.oldScroll, p = l && h, u = !l && !h, !y && p ? (c.queueTrigger(n.backward), o[c.group.id] = c.group) : !y && u ? (c.queueTrigger(n.forward), o[c.group.id] = c.group) : y && n.oldScroll >= c.triggerPoint && (c.queueTrigger(n.forward), o[c.group.id] = c.group) } } for (var g in o) o[g].flushTriggers(); return this }, e.findOrCreateByElement = function (t) { return e.findByElement(t) || new e(t) }, e.refreshAll = function () { for (var t in o) o[t].refresh() }, e.findByElement = function (t) { return o[t.waypointContextKey] }, window.onload = function () { s && s(), e.refreshAll() }, r.Context = e }(), function () { "use strict"; function t(t, e) { return t.triggerPoint - e.triggerPoint } function e(t, e) { return e.triggerPoint - t.triggerPoint } function i(t) { this.name = t.name, this.axis = t.axis, this.id = this.name + "-" + this.axis, this.waypoints = [], this.clearTriggerQueues(), o[this.axis][this.name] = this } var o = { vertical: {}, horizontal: {} }, r = window.Waypoint; i.prototype.add = function (t) { this.waypoints.push(t) }, i.prototype.clearTriggerQueues = function () { this.triggerQueues = { up: [], down: [], left: [], right: [] } }, i.prototype.flushTriggers = function () { for (var i in this.triggerQueues) { var o = this.triggerQueues[i], r = "up" === i || "left" === i; o.sort(r ? e : t); for (var n = 0, s = o.length; s > n; n += 1) { var a = o[n]; (a.options.continuous || n === o.length - 1) && a.trigger([i]) } } this.clearTriggerQueues() }, i.prototype.next = function (e) { this.waypoints.sort(t); var i = r.Adapter.inArray(e, this.waypoints), o = i === this.waypoints.length - 1; return o ? null : this.waypoints[i + 1] }, i.prototype.previous = function (e) { this.waypoints.sort(t); var i = r.Adapter.inArray(e, this.waypoints); return i ? this.waypoints[i - 1] : null }, i.prototype.queueTrigger = function (t, e) { this.triggerQueues[e].push(t) }, i.prototype.remove = function (t) { var e = r.Adapter.inArray(t, this.waypoints); e > -1 && this.waypoints.splice(e, 1) }, i.prototype.first = function () { return this.waypoints[0] }, i.prototype.last = function () { return this.waypoints[this.waypoints.length - 1] }, i.findOrCreate = function (t) { return o[t.axis][t.name] || new i(t) }, r.Group = i }(), function () { "use strict"; function t(t) { this.$element = e(t) } var e = window.jQuery, i = window.Waypoint; e.each(["innerHeight", "innerWidth", "off", "offset", "on", "outerHeight", "outerWidth", "scrollLeft", "scrollTop"], function (e, i) { t.prototype[i] = function () { var t = Array.prototype.slice.call(arguments); return this.$element[i].apply(this.$element, t) } }), e.each(["extend", "inArray", "isEmptyObject"], function (i, o) { t[o] = e[o] }), i.adapters.push({ name: "jquery", Adapter: t }), i.Adapter = t }(), function () { "use strict"; function t(t) { return function () { var i = [], o = arguments[0]; return t.isFunction(arguments[0]) && (o = t.extend({}, arguments[1]), o.handler = arguments[0]), this.each(function () { var r = t.extend({}, o, { element: this }); "string" == typeof r.context && (r.context = t(this).closest(r.context)[0]), i.push(new e(r)) }), i } } var e = window.Waypoint; window.jQuery && (window.jQuery.fn.waypoint = t(window.jQuery)), window.Zepto && (window.Zepto.fn.waypoint = t(window.Zepto)) }();
+</script>
+
+<script type="text/javascript">
+    // Modernizr 2.8.3 (Custom Build) | MIT & BSD - Build: http://modernizr.com/download/#-shiv-cssclasses-load
+    ; window.Modernizr = function (a, b, c) { function u(a) { j.cssText = a } function v(a, b) { return u(prefixes.join(a + ";") + (b || "")) } function w(a, b) { return typeof a === b } function x(a, b) { return !!~("" + a).indexOf(b) } function y(a, b, d) { for (var e in a) { var f = b[a[e]]; if (f !== c) return d === !1 ? a[e] : w(f, "function") ? f.bind(d || b) : f } return !1 } var d = "2.8.3", e = {}, f = !0, g = b.documentElement, h = "modernizr", i = b.createElement(h), j = i.style, k, l = {}.toString, m = {}, n = {}, o = {}, p = [], q = p.slice, r, s = {}.hasOwnProperty, t; !w(s, "undefined") && !w(s.call, "undefined") ? t = function (a, b) { return s.call(a, b) } : t = function (a, b) { return b in a && w(a.constructor.prototype[b], "undefined") }, Function.prototype.bind || (Function.prototype.bind = function (b) { var c = this; if (typeof c != "function") throw new TypeError; var d = q.call(arguments, 1), e = function () { if (this instanceof e) { var a = function () { }; a.prototype = c.prototype; var f = new a, g = c.apply(f, d.concat(q.call(arguments))); return Object(g) === g ? g : f } return c.apply(b, d.concat(q.call(arguments))) }; return e }); for (var z in m) t(m, z) && (r = z.toLowerCase(), e[r] = m[z](), p.push((e[r] ? "" : "no-") + r)); return e.addTest = function (a, b) { if (typeof a == "object") for (var d in a) t(a, d) && e.addTest(d, a[d]); else { a = a.toLowerCase(); if (e[a] !== c) return e; b = typeof b == "function" ? b() : b, typeof f != "undefined" && f && (g.className += " " + (b ? "" : "no-") + a), e[a] = b } return e }, u(""), i = k = null, function (a, b) { function l(a, b) { var c = a.createElement("p"), d = a.getElementsByTagName("head")[0] || a.documentElement; return c.innerHTML = "x<style>" + b + "</style>", d.insertBefore(c.lastChild, d.firstChild) } function m() { var a = s.elements; return typeof a == "string" ? a.split(" ") : a } function n(a) { var b = j[a[h]]; return b || (b = {}, i++, a[h] = i, j[i] = b), b } function o(a, c, d) { c || (c = b); if (k) return c.createElement(a); d || (d = n(c)); var g; return d.cache[a] ? g = d.cache[a].cloneNode() : f.test(a) ? g = (d.cache[a] = d.createElem(a)).cloneNode() : g = d.createElem(a), g.canHaveChildren && !e.test(a) && !g.tagUrn ? d.frag.appendChild(g) : g } function p(a, c) { a || (a = b); if (k) return a.createDocumentFragment(); c = c || n(a); var d = c.frag.cloneNode(), e = 0, f = m(), g = f.length; for (; e < g; e++) d.createElement(f[e]); return d } function q(a, b) { b.cache || (b.cache = {}, b.createElem = a.createElement, b.createFrag = a.createDocumentFragment, b.frag = b.createFrag()), a.createElement = function (c) { return s.shivMethods ? o(c, a, b) : b.createElem(c) }, a.createDocumentFragment = Function("h,f", "return function(){var n=f.cloneNode(),c=n.createElement;h.shivMethods&&(" + m().join().replace(/[\w\-]+/g, function (a) { return b.createElem(a), b.frag.createElement(a), 'c("' + a + '")' }) + ");return n}")(s, b.frag) } function r(a) { a || (a = b); var c = n(a); return s.shivCSS && !g && !c.hasCSS && (c.hasCSS = !!l(a, "article,aside,dialog,figcaption,figure,footer,header,hgroup,main,nav,section{display:block}mark{background:#FF0;color:#000}template{display:none}")), k || q(a, c), a } var c = "3.7.0", d = a.html5 || {}, e = /^<|^(?:button|map|select|textarea|object|iframe|option|optgroup)$/i, f = /^(?:a|b|code|div|fieldset|h1|h2|h3|h4|h5|h6|i|label|li|ol|p|q|span|strong|style|table|tbody|td|th|tr|ul)$/i, g, h = "_html5shiv", i = 0, j = {}, k; (function () { try { var a = b.createElement("a"); a.innerHTML = "<xyz></xyz>", g = "hidden" in a, k = a.childNodes.length == 1 || function () { b.createElement("a"); var a = b.createDocumentFragment(); return typeof a.cloneNode == "undefined" || typeof a.createDocumentFragment == "undefined" || typeof a.createElement == "undefined" }() } catch (c) { g = !0, k = !0 } })(); var s = { elements: d.elements || "abbr article aside audio bdi canvas data datalist details dialog figcaption figure footer header hgroup main mark meter nav output progress section summary template time video", version: c, shivCSS: d.shivCSS !== !1, supportsUnknownElements: k, shivMethods: d.shivMethods !== !1, type: "default", shivDocument: r, createElement: o, createDocumentFragment: p }; a.html5 = s, r(b) }(this, b), e._version = d, g.className = g.className.replace(/(^|\s)no-js(\s|$)/, "$1$2") + (f ? " js " + p.join(" ") : ""), e }(this, this.document), function (a, b, c) { function d(a) { return "[object Function]" == o.call(a) } function e(a) { return "string" == typeof a } function f() { } function g(a) { return !a || "loaded" == a || "complete" == a || "uninitialized" == a } function h() { var a = p.shift(); q = 1, a ? a.t ? m(function () { ("c" == a.t ? B.injectCss : B.injectJs)(a.s, 0, a.a, a.x, a.e, 1) }, 0) : (a(), h()) : q = 0 } function i(a, c, d, e, f, i, j) { function k(b) { if (!o && g(l.readyState) && (u.r = o = 1, !q && h(), l.onload = l.onreadystatechange = null, b)) { "img" != a && m(function () { t.removeChild(l) }, 50); for (var d in y[c]) y[c].hasOwnProperty(d) && y[c][d].onload() } } var j = j || B.errorTimeout, l = b.createElement(a), o = 0, r = 0, u = { t: d, s: c, e: f, a: i, x: j }; 1 === y[c] && (r = 1, y[c] = []), "object" == a ? l.data = c : (l.src = c, l.type = a), l.width = l.height = "0", l.onerror = l.onload = l.onreadystatechange = function () { k.call(this, r) }, p.splice(e, 0, u), "img" != a && (r || 2 === y[c] ? (t.insertBefore(l, s ? null : n), m(k, j)) : y[c].push(l)) } function j(a, b, c, d, f) { return q = 0, b = b || "j", e(a) ? i("c" == b ? v : u, a, b, this.i++, c, d, f) : (p.splice(this.i++, 0, a), 1 == p.length && h()), this } function k() { var a = B; return a.loader = { load: j, i: 0 }, a } var l = b.documentElement, m = a.setTimeout, n = b.getElementsByTagName("script")[0], o = {}.toString, p = [], q = 0, r = "MozAppearance" in l.style, s = r && !!b.createRange().compareNode, t = s ? l : n.parentNode, l = a.opera && "[object Opera]" == o.call(a.opera), l = !!b.attachEvent && !l, u = r ? "object" : l ? "script" : "img", v = l ? "script" : u, w = Array.isArray || function (a) { return "[object Array]" == o.call(a) }, x = [], y = {}, z = { timeout: function (a, b) { return b.length && (a.timeout = b[0]), a } }, A, B; B = function (a) { function b(a) { var a = a.split("!"), b = x.length, c = a.pop(), d = a.length, c = { url: c, origUrl: c, prefixes: a }, e, f, g; for (f = 0; f < d; f++) g = a[f].split("="), (e = z[g.shift()]) && (c = e(c, g)); for (f = 0; f < b; f++) c = x[f](c); return c } function g(a, e, f, g, h) { var i = b(a), j = i.autoCallback; i.url.split(".").pop().split("?").shift(), i.bypass || (e && (e = d(e) ? e : e[a] || e[g] || e[a.split("/").pop().split("?")[0]]), i.instead ? i.instead(a, e, f, g, h) : (y[i.url] ? i.noexec = !0 : y[i.url] = 1, f.load(i.url, i.forceCSS || !i.forceJS && "css" == i.url.split(".").pop().split("?").shift() ? "c" : c, i.noexec, i.attrs, i.timeout), (d(e) || d(j)) && f.load(function () { k(), e && e(i.origUrl, h, g), j && j(i.origUrl, h, g), y[i.url] = 2 }))) } function h(a, b) { function c(a, c) { if (a) { if (e(a)) c || (j = function () { var a = [].slice.call(arguments); k.apply(this, a), l() }), g(a, j, b, 0, h); else if (Object(a) === a) for (n in m = function () { var b = 0, c; for (c in a) a.hasOwnProperty(c) && b++; return b }(), a) a.hasOwnProperty(n) && (!c && !--m && (d(j) ? j = function () { var a = [].slice.call(arguments); k.apply(this, a), l() } : j[n] = function (a) { return function () { var b = [].slice.call(arguments); a && a.apply(this, b), l() } }(k[n])), g(a[n], j, b, n, h)) } else !c && l() } var h = !!a.test, i = a.load || a.both, j = a.callback || f, k = j, l = a.complete || f, m, n; c(h ? a.yep : a.nope, !!i), i && c(i) } var i, j, l = this.yepnope.loader; if (e(a)) g(a, 0, l, 0); else if (w(a)) for (i = 0; i < a.length; i++) j = a[i], e(j) ? g(j, 0, l, 0) : w(j) ? B(j) : Object(j) === j && h(j, l); else Object(a) === a && h(a, l) }, B.addPrefix = function (a, b) { z[a] = b }, B.addFilter = function (a) { x.push(a) }, B.errorTimeout = 1e4, null == b.readyState && b.addEventListener && (b.readyState = "loading", b.addEventListener("DOMContentLoaded", A = function () { b.removeEventListener("DOMContentLoaded", A, 0), b.readyState = "complete" }, 0)), a.yepnope = k(), a.yepnope.executeStack = h, a.yepnope.injectJs = function (a, c, d, e, i, j) { var k = b.createElement("script"), l, o, e = e || B.errorTimeout; k.src = a; for (o in d) k.setAttribute(o, d[o]); c = j ? h : c || f, k.onreadystatechange = k.onload = function () { !l && g(k.readyState) && (l = 1, c(), k.onload = k.onreadystatechange = null) }, m(function () { l || (l = 1, c(1)) }, e), i ? k.onload() : n.parentNode.insertBefore(k, n) }, a.yepnope.injectCss = function (a, c, d, e, g, i) { var e = b.createElement("link"), j, c = i ? h : c || f; e.href = a, e.rel = "stylesheet", e.type = "text/css"; for (j in d) e.setAttribute(j, d[j]); g || (n.parentNode.insertBefore(e, n), m(c, 0)) } }(this, document), Modernizr.load = function () { yepnope.apply(window, [].slice.call(arguments, 0)) };
+</script>
+
+<script type="text/javascript">
+    // Measure Viewport and create global variables --%>
+    $(document).ready(measureviewport);
+    $(window).resize(measureviewport);
+
+    function measureviewport() {
+        viewportWidth = $(window).width() / parseFloat($("body").css("font-size"));
+        viewportHeight = $(window).height();
+    }
+</script>
+
+<script type="text/javascript" id="scarab-js-api" src="//cdn.scarabresearch.com/js/1D36FD7533ED62A9/scarab-v2.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        if (viewportWidth > 62) {
+            var $head = $('#headercontainer');
+            var waypoint = new Waypoint({
+                element: $('.ha-waypoint'),
+                handler: function (direction) {
+                    if (direction === 'down') {
+                        $head.attr('class', 'header-container mobile');
+                    }
+                    else if (direction === 'up') {
+                        $head.attr('class', 'header-container desktop');
+                    }
+                },
+            })
+        }
+    });
+</script>
+
+<script type="text/javascript" src="/js/jquery-ui.js?v=1"></script>
 <script type="text/javascript" src="/ajax/ajax_basket.js?v=1"></script>
 
-<script type="text/javascript">
-$(document).ready(measureviewport);
-$(window).resize(measureviewport);
-function measureviewport() {
-viewportWidth = $(window).width() / parseFloat($("body").css("font-size"));
-viewportHeight = $(window).height();
-}
-$(document).ready(function(){
-	 $('.pageheaderimage p, .flexslider1 + p, .homepage p, p.seo').click(function(){
-	  $(this).toggleClass('showall');
-	 });
-});
-</script>
 
-<!-- FancyBox (popup window) -->
-<script type="text/javascript" src="/js/jquery.fancybox.js?v=1"></script>
+<script type="text/javascript" src="/JS/fancybox/jquery.fancybox.js?v=1"></script>
 <script type="text/javascript">
 $(document).ready(function() {
 			
@@ -92,83 +124,47 @@ $(document).ready(function() {
 			  return false;
 			});
 			$(".flexslider .fancybox").unbind("fastClick");
-});
-</script>
 
+    
+			$(".showMenu").fastClick(function () {
+			    $(".menu-toggle").toggleClass("show-menu");
+			    $(".menuoverlay").toggleClass("show-overlay");
+			});
 
+			$(".showSearch").fastClick(function (e) {
+			    e.preventDefault();
+			    $(".header .search").toggleClass("show-search");
+			    $(".header .logo").toggleClass("hide");
+			    $(".header .showMenu").toggleClass("hide");
+			    $(".header .basket").toggleClass("hide");
+			});
 
+			$(".alldepartments").fastClick(function (e) {
+			    e.preventDefault();
+			    $(".alldepartmentslist").toggleClass("show-alldepartmentslist");
+			});
 
-<!-- Scroll to Top -->
-<script type="text/javascript">
-$(document).ready(function(){
-	
-	// hide #back-to-top first
-	$("#back-to-top").hide();
-	
-	// fade in #back-to-top
-	$(function () {
-		$(window).scroll(function () {
-			if ($(this).scrollTop() > 100) {
-				$('#back-to-top').fadeIn();
-			} else {
-				$('#back-to-top').fadeOut();
-			}
-		});
-
-		// scroll body to 0px on click
-		$('#back-to-top a').fastClick(function () {
-			$('body,html').animate({
-				scrollTop: 0
-			}, 800);
-			return false;
-		});
-	});
-
-});
-</script>
-
-<!-- Responsive Menu Class Toggle Script -->
-<script type="text/javascript">
-
-$(document).ready(function(){
-
-        $(".showMenu").fastClick(function () {
-            $(".menu-toggle").toggleClass("show-menu");
-            $(".menuoverlay").toggleClass("show-overlay");
-        });
-
-		$(".showSearch").fastClick(function (e) {
-			e.preventDefault();
-            $(".search-toggle").toggleClass("show-search");
-			var KWSearchTextval = $('#KWSearchText').val();
-			var DefaultSearchText = "I'm looking for..."
-			if (KWSearchTextval == DefaultSearchText) {$('#KWSearchText').val('').focus();}
-			else {$('#KWSearchText').focus();}
-        });
-
-		$(".alldepartments").fastClick(function(){
-			$(".alldepartmentslist").toggleClass("show-alldepartmentslist");
-		});
-	
-// Focus on search box after pressing search icon
-  $('input').on('blur', function(){
-   $(this).next('div').removeClass('input-desc-hover').addClass('input-desc');
-	}).on('focus', function(){
-  $(this).next('div').removeClass('input-desc').addClass('input-desc-hover');
-});
-  
+             $(".header input")
+            .focus(function () {
+                if (viewportWidth < 62 && viewportWidth > 32) {
+                    $(".header").addClass("fixfixed");
+                    window.scrollTo(0, 0);
+                }
+                if (this.value == 'I\'m looking for...') { this.value = '' }
+            })
+            .blur(function () {
+                if (this.value == '') { this.value = 'I\'m looking for...' }
+                $(".header").removeClass("fixfixed");
+            });
 });
 </script>
 
 <script type="text/javascript">
     //<![CDATA[
-    function get_form( element )
-    {
-        while( element )
-        {
+    function get_form(element) {
+        while (element) {
             element = element.parentNode
-            if( element.tagName.toLowerCase() == "form" )
-            {
+            if (element.tagName.toLowerCase() == "form") {
                 //alert( element ) //debug/test
                 return element
             }
@@ -178,9 +174,7 @@ $(document).ready(function(){
     //]]>
 </script>
 
-<!-- Flexslider - make sure to leave the last , off for jquery values as old IE versions will fail to load -->
-<script src="/js/flexslider/jquery.flexslider-2.2.2-edited-min.js?v=1"></script>
-
+<script type="text/javascript" src="/js/flexslider/jquery.flexslider-2.2.2-edited-min.js?v=1"></script>
 <script type="text/javascript">
     $(window).load(function () {
 
@@ -226,15 +220,19 @@ $(document).ready(function(){
         });
 		
 		// Party-Home-Link Slider
-        $('.flexslider9').flexslider({
-            animation: "slide",
-            animationLoop: true,
-            slideshow: false,
-            itemWidth: 260,
-            itemMargin: 0,
-            animationSpeed: 600,
-            move: 3
-        });
+        if (viewportWidth > 32) {
+            $('.flexslider9').flexslider({
+                animation: "slide",
+                animationLoop: true,
+                slideshow: true,
+                itemWidth: 270,
+                itemMargin: 0,
+                animationSpeed: 600,
+                move: 1
+            });
+        } else {
+            $('.flexslider9 .party-home-link').unwrap().unwrap().unwrap();
+        }
 		
     });
 
@@ -305,34 +303,127 @@ $(document).ready(function(){
         });
     });
 
+    //-- Scaling fonts in flexslider
+    $(document).ready(function () { if (viewportWidth <= 62) { flexsliderfontsize(); } });
+    $(window).resize(flexsliderfontsize);
+
+    function flexsliderfontsize() {
+        var flexslider1current = $('.flexslider1').width();
+        var flexslider0current = $('.flexslider0').width();
+        var flexslider1percentage = (flexslider1current / 980) * 120 + "%";
+        var flexslider0percentage = (flexslider0current / 980) * 100 + "%";
+        $('.flexslider1').css("font-size", flexslider1percentage)
+        $('.flexslider0').css("font-size", flexslider0percentage)
+    }
+
 </script>
 
-<!-- Tabbed Content using JQuery -->
+<script type="text/javascript" src="/js/cardgal-v3-min.js?v=1"></script>
+<script type="text/javascript" src="/js/canvas_support.js?v=1"></script>
+<script type="text/javascript" src="/fancy-dress/js/size_tabs.js?v=1"></script>
+
+<script type="text/javascript" src="/checkout/scripts/basket.js?v=1"></script>
 <script type="text/javascript">
-$(window).load(function () {
-
- //When page loads...
- $(".wetab_content").hide(); //Hide all content
- $("ul.wetabs li:first").addClass("active").show(); //Activate first tab
- $(".wetab_content:first").show(); //Show first tab content
-
- //On Click Event
- $("ul.wetabs li").click(function() {
-
-  $("ul.wetabs li").removeClass("active"); //Remove any "active" class
-  $(this).addClass("active"); //Add "active" class to selected tab
-  $(".wetab_content").hide(); //Hide all tab content
-
-  var activeTab = $(this).find("a").attr("href"); //Find the href attribute value to identify the active tab + content
-  $(activeTab).fadeIn(); //Fade in the active ID content
-  return false;
- });
-
-});
+    //-- Fancy Dress step carousel
+   featuredcontentglider.init({
+       gliderid: "sizing", //ID of main glider container
+       contentclass: "glidecontent", //Shared CSS class name of each glider content
+       togglerid: "p-select", //ID of toggler container
+       remotecontent: "", //Get gliding contents from external file on server? "filename" or "" to disable
+       selected: 0, //Default selected content index (0=1st)
+       persiststate: false, //Remember last content shown within browser session (true/false)?
+       speed: 200, //Glide animation duration (in milliseconds)
+       direction: "rightleft", //set direction of glide: "updown", "downup", "leftright", or "rightleft"
+       autorotate: false, //Auto rotate contents (true/false)?
+       autorotateconfig: [3000, 2] //if auto rotate enabled, set [milliseconds_btw_rotations, cycles_before_stopping]
+   })
 </script>
 
+<script type="text/javascript">
+    //-- Product alignment (product.js) --%>
+    function updateTopPositions(){$(".product").each(function(){var e=$(this).position().top;$(this).attr("data-top-position",e)});updateAlignment()}function updateAlignment(){$(".product_ps13, .product_ps14, .product_ps15, .product_fd1, .product_fd2").each(function(){ThisProductTop=$(this).attr("data-top-position");$("*[data-top-position='"+ThisProductTop+"']").each(function(){$(this).prev("*[data-top-position!='"+ThisProductTop+"']").next().addClass("insert-div-start");$(this).next("*[data-top-position!='"+ThisProductTop+"']").prev().addClass("insert-div-end")})});$(".product").each(function(){var e=$(this).position().top;$(this).attr("data-top-position",e)});$("<div class='start'></div>").insertBefore(".insert-div-start");$("<div class='end'></div>").insertAfter(".insert-div-end");$(".start").each(function(){$(this).nextUntil(".end").wrapAll("<div class='alignment'></div>")});$(".alignment").prepend("<div class='product_fake'></div>");Alignment()}function Alignment(){$(".alignment .product").each(function(){var e=$(this).position().left;var t=Math.ceil(e.toFixed(2));$(this).css("left",t)});$(".alignment").each(function(){var e=$(this).outerHeight(true);$(this).css("height",e)});$("head").append("<style>.alignment .product {position:absolute; bottom:0}</style>")}$(window).load(function(){updateTopPositions()})
+</script>
 
-<!-- Get current basket by ajax, allows every page to be cached -->
+<script type="text/javascript">
+    $(document).ready(function () {
+        /* Out Of Stock */
+        $('.product').each(function (index) {
+            try {
+                if ($('#' + this.id + '_StockAvail').val() < 1) {
+                    $('#' + this.id).addClass("outofstock");
+                    $('#' + this.id + ' .buttons .fancybox').text("out of stock").attr("class", "oosbutton");
+                    try {
+                        if ($('#' + this.id + ' .stock_due .message').text().length > 0) {
+                            $('#' + this.id + ' .stock_due').show();
+                        } else {
+                            $('#' + this.id + ' .stock_due').hide();
+                        }
+                    }
+                    catch (e) { }
+                }
+            }
+            catch (e) {
+            }
+        });
+        $('.oosbutton').on('click', function (event) {
+            event.preventDefault();
+            var prod = $(this).parents().filter('.product')[0];
+            if ($(prod).children('p.quick-add-message').length == 0) {
+                $(prod).prepend("<p class=\"quick-add-message\">" + "out of stock" + "</p>");
+                $('.quick-add-message').show().delay(6000).fadeOut(300, function () { $(this).remove(); });
+            }
+        });
+    
+
+        $('.country-select-toggle').focus(openCountry).click(openCountryNofocus).mouseenter(openCountry);
+        $('.country-select').mouseleave(closeCountry);
+        $('.basket-button').focus(closeCountry);
+        $('.country-select .first').fastClick(closeCountry);
+
+        function openCountry() {
+            $('.country-select').addClass('show');
+            $('.country-select a.first').focus();
+        }
+        function openCountryNofocus() {
+            $('.country-select').addClass('show');
+            $(window).scroll(function () {
+                if ($(this).scrollTop() > 50) {
+                    $('.country-select').removeClass('show');
+                }
+            });
+        }
+        function closeCountry(e) {
+            e.preventDefault();
+            $('.country-select').removeClass('show');
+        }
+
+    });
+</script>
+
+<script type="text/javascript">
+    //-- Country Drop down list in header --%>
+    $('.country-select-toggle').focus(openCountry).click(openCountryNofocus).mouseenter(openCountry);
+    $('.country-select').mouseleave(closeCountry);
+    $('.basket-button').focus(closeCountry);
+    $('.country-select .first').fastClick(closeCountry);
+
+    function openCountry() {
+        $('.country-select').addClass('show');
+        $('.country-select a.first').focus();
+    }
+    function openCountryNofocus() {
+        $('.country-select').addClass('show');
+        $(window).scroll(function () {
+            if ($(this).scrollTop() > 50) {
+                $('.country-select').removeClass('show');
+            }
+        });
+    }
+    function closeCountry(e) {
+        e.preventDefault();
+        $('.country-select').removeClass('show');
+    }
+</script>
 
 <!-- Quick Add Function for Fancybox2 BenW 29/05/13 removed "modal=1" BenW 26/09/13-->
 <script type="text/javascript">
@@ -384,7 +475,7 @@ function GetSweetSearchResults(surl,st,fl,di){
 	}
 </script>
 
-<script type="text/javascript" language="JavaScript">
+<script type="text/javascript">
 <!--
 function MM_jumpMenu(targ,selObj,restore){ //v3.0
 
@@ -398,172 +489,52 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 //-->
 </script>
 
+
 <!-- Admin Toolbar -->
 <script type="text/javascript">
-function insertParam(key, value) {
-        key = escape("showoutofstock"); value = escape("y");
+    function insertParam(e, t) { e = escape("showoutofstock"); t = escape("1"); var n = document.location.search.substr(1).split("&"); if (n == "") { document.location.search = "?" + e + "=" + t } else { var r = n.length; var i; while (r--) { i = n[r].split("="); if (i[0] == e) { i[1] = t; n[r] = i.join("="); break } } if (r < 0) { n[n.length] = [e, t].join("=") } document.location.search = n.join("&") } }
+    function removeParam(e, t) { e = escape("showoutofstock"); t = escape("0"); var n = document.location.search.substr(1).split("&"); if (n == "") { document.location.search = "?" + e + "=" + t } else { var r = n.length; var i; while (r--) { i = n[r].split("="); if (i[0] == e) { i[1] = t; n[r] = i.join("="); break } } if (r < 0) { n[n.length] = [e, t].join("=") } document.location.search = n.join("&") } }
+    function showCodes() { $('.product .stock-code').show(); }
+    function hideCodes() { $('.product .stock-code').hide(); }
 
-        var kvp = document.location.search.substr(1).split('&');
-        if (kvp == '') {
-            document.location.search = '?' + key + '=' + value;
-        }
-        else {
+    $(document).ready(function () {
 
-            var i = kvp.length; var x; while (i--) {
-                x = kvp[i].split('=');
+        $('#qpid').on('keyup keypress blur change', function () {
+            var qpidval = $(this).val();
+            $('.fancyboxqa').attr('href', '/product_detail_cs.asp?ProductID=' + qpidval);
+        });
 
-                if (x[0] == key) {
-                    x[1] = value;
-                    kvp[i] = x.join('=');
-                    break;
-                }
-            }
+        $("#fancyboxqa").submit(function () {$('.fancyboxqa').click();return false;});
+        $(".fancyboxqa").fancybox({ type: 'ajax' });
 
-            if (i < 0) { kvp[kvp.length] = [key, value].join('='); }
+        //-- look for a page ID in the document title
+        var DocumentTitle = document.title;
+        var pieces = DocumentTitle.split(":");
+        var PageID = pieces[1];
+        $('#testpagelink').attr('href', '/white-labels.aspx?pageid=' + PageID);
 
-            //this will reload the page, it's likely better to store this until finished
-            document.location.search = kvp.join('&');
-        }
-    }
-	
-function removeParam(key, value) {
-        key = escape("showoutofstock"); value = escape("n");
+        //-- If PageID is null or undefined remove the button from the admin toolbar
+        if (!PageID) { $('.white-label').remove(); };
 
-        var kvp = document.location.search.substr(1).split('&');
-        if (kvp == '') {
-            document.location.search = '?' + key + '=' + value;
-        }
-        else {
+        $('.admin-toolbar').draggable({snap: "body",stop: function (event, ui) {}});
+        $('.admin-open').fastClick(function () {$('.admin-toolbar').show();$('.admin-open').hide();});
+        $('.admin-close').fastClick(function () { $('.admin-toolbar').hide();$('.admin-open').show()});
 
-            var i = kvp.length; var x; while (i--) {
-                x = kvp[i].split('=');
-
-                if (x[0] == key) {
-                    x[1] = value;
-                    kvp[i] = x.join('=');
-                    break;
-                }
-            }
-
-            if (i < 0) { kvp[kvp.length] = [key, value].join('='); }
-
-            //this will reload the page, it's likely better to store this until finished
-            document.location.search = kvp.join('&');
-        }
-    }
-	
-//add enter on text box to submit the quick lookup code	
-	function submitenter(myfield,e)
-{
-var keycode;
-if (window.event) keycode = window.event.keyCode;
-else if (e) keycode = e.which;
-else return true;
-
-if (keycode == 13)
-   {
-	javascript:fn_quickadd();
-   myfield.form.submit();
-   return false;
-   }
-else
-   return true;
-}
+    });
 </script>
-
-<script type="text/javascript">
-$(document).ready(function () {
-
-	$('.admin-toolbar').draggable({
-		snap: "body",
-		stop: function(event, ui) {
-			$.cookie('elementLeft', ui.position.left);
-			$.cookie('elementTop', ui.position.top);
-		}
-	});
-	$('.admin-toolbar').css({left : parseInt($.cookie('elementLeft')), top : parseInt($.cookie('elementTop'))});
-
-	$('.admin-open').click(function(){
-		$('.admin-toolbar').show();
-		$('.admin-open').hide();
-		$.cookie('admin-toolbar', true);
-	});
-	
-	$('.admin-close').click(function(){
-        $('.admin-toolbar').hide()
-		$('.admin-open').show()
-		$.cookie('admin-toolbar', false);
-	});
-	
-	if($.cookie('admin-toolbar') == 'true'){
-		$('.admin-open').click();
-	} else {
-		$('.admin-close').click();
-	}
-	
-});
-</script>
-
-<script type="text/javascript">
-$(document).ready(function () {
-	$('.country-select-toggle').focus(openCountry).click(openCountryNofocus).mouseenter(openCountry);
-	$('.country-select').mouseleave(closeCountry);
-	$('.basket-button').focus(closeCountry);
-	$('.country-select .first').click(closeCountry);
-});
-
-function openCountry() {
-	$('.country-select').addClass('show');
-	$('.country-select a.first').focus();
-}
-function openCountryNofocus() {
-	$('.country-select').addClass('show');
-	$(window).scroll(function () {
-		if ($(this).scrollTop() > 50) {
-		closeCountry();
-		}
-	});
-}
-function closeCountry(e) {
-	e.preventDefault();
-	$('.country-select').removeClass('show');
-}
-</script>
-
-<script type="text/javascript">
-$(document).ready(function(){if (viewportWidth <= 62) {flexsliderfontsize();}});
-$(window).resize(flexsliderfontsize);
-
-function flexsliderfontsize() {
-  var flexslider1current = $('.flexslider1').width();
-  var flexslider0current = $('.flexslider0').width();
-  var flexslider1percentage = (flexslider1current / 980)*120 + "%";
-  var flexslider0percentage = (flexslider0current / 980)*100 + "%";
-  $('.flexslider1').css("font-size", flexslider1percentage)
-  $('.flexslider0').css("font-size", flexslider0percentage)
- }
- 
-</script>
-
 
 
 
 <!-- Initalise the Sticky Left nav-->
 
-<script type="text/javascript" src="/checkout/scripts/basket.js?v=1"></script>
-<!-- Open Graph Meta Tags for Facebook & Google Plus -->
-<meta property="fb:app_id" content="1417288415175268">
-<meta property="og:site_name" content="Party Delights">
-<meta property="og:type" content="website">
-<meta property="og:locale" content="en_GB">
  
 <title>Party Delights Terms and Conditions</title>
 <meta keywords="contact us">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
  
 <link rel="stylesheet" href="/general.css">
-</head>
-<body>
+<style>.alignment .product {position:absolute; bottom:0}</style></head>
+<body style="">
 
 
 
@@ -578,111 +549,192 @@ function flexsliderfontsize() {
 
 <div class="header par" id="top">
 
-<div class="header-bar">
-<div> 
+    <div class="headerbar">
+        <div>
+            <span class="header-party-city-company">A <span>Party City</span> COMPANY</span>
+            <a class="country-select-toggle" href="#"><img class="ukflag" src="/images/_sitedesign/UK.png" alt="UK Flag"></a>
+            <span class="country-select">
+            <a class="first" href="#">United Kingdom <img src="/images/_sitedesign/UK.png" alt="UK Flag"></a>
+            <a href="http://www.partycity.eu.com/">France <img src="/images/_sitedesign/France.png" alt="French Flag"></a>
+            <a href="http://www.partycity.de/">Germany<img src="/images/_sitedesign/Germany.png" alt="German Flag"></a>
+            <a href="http://www.partycity.nl/">Netherlands <img src="/images/_sitedesign/Netherlands.png" alt="Netherlands Flag"></a>
+            <a href="http://www.partycity.com/">United States <img src="/images/_sitedesign/USA.png" alt="US Flag"></a>
+            <a class="last" href="http://www.partycity.ca/">Canada <img src="/images/_sitedesign/Canada.png" alt="Canadian Flag"></a>
+            </span>
+            <a class="basket-button" id="cart_items" href="Javascript:GoCheckout('V')" title="View your Shopping Basket"><span class="items">0 items</span><span class="total">£0.00 </span></a>
+            
+            <a href="/myaccount.asp">My Account</a>
+            <a href="/contact-us.aspx">Help</a>
+        </div>
+    </div>
 
-<span class="header-party-city-company">A <span>Party City</span> COMPANY</span>
+    <div id="headercontainer" class="header-container desktop">
 
-<a class="country-select-toggle" href="#"><img class="ukflag" src="/images/_sitedesign/UK.png" alt="UK Flag"></a>
-<span class="country-select">
-<a class="first" href="http://www.partydelights.co.uk/">United Kingdom <img src="/images/_sitedesign/UK.png" alt="UK Flag"></a>
-<a href="http://www.partycity.eu.com/">France <img src="/images/_sitedesign/France.png" alt="French Flag"></a>
-<a href="http://www.partycity.de/">Germany<img src="/images/_sitedesign/Germany.png" alt="German Flag"></a>
-<a href="http://www.partycity.nl/">Netherlands <img src="/images/_sitedesign/Netherlands.png" alt="Netherlands Flag"></a>
-<a href="http://www.partycity.com/">United States <img src="/images/_sitedesign/USA.png" alt="US Flag"></a>
-<a class="last" href="http://www.partycity.ca/">Canada <img src="/images/_sitedesign/Canada.png" alt="Canadian Flag"></a>
-</span>
+    <div class="desktop">
 
-<a id="cart_items" class="basket-button" href="Javascript:GoCheckout('V')" title="View your Shopping Basket"><span class="icon">B</span> <span class="items">0</span> items <span class="total">£0</span></a>
-<a href="https://www.partydelights.co.uk/myaccount.asp">Sign in to My Account</a>
-<a href="/contact-us.aspx">Help</a>
+                <div class="logo-section">
+
+                <a class="showMenu showMenu-header" href="#"></a>
+
+                <div class="desktoplogo">
+                    <a href="/default.aspx" title="Home">
+                    <img class="x1" src="/images/_sitedesign/PartyDelights.jpg" alt="Party Delights">
+                    <img class="x2" src="/images/_sitedesign/PartyDelights-x2.jpg" alt="Party Delights">
+                    </a>
+                </div>
+
+                <div class="searchbox search-toggle">
+                    <form name="frmSearch" method="get" action="/keywordsearch.aspx">
+                    <input name="KWSearchText" class="search_text" type="text" id="KWSearchText" value="I'm looking for...">
+                    <input class="submit" type="submit" value="Go">
+                    </form>
+                </div> 
+
+                <span class="phone-number">
+                <a href="tel:03339005000"><span class="number">0333 900 5000</span><br>calls charged at local rate</a>
+                <div><span class="number">0333 900 5000</span><br>calls charged at local rate</div>
+                </span>
+
+                <a class="checkout-button" href="Javascript:GoCheckout('C')"><span class="text">Checkout</span><span class="icon">&gt;</span></a>
+
+                <a class="country-select-toggle" href="#"><img class="ukflag" src="/images/_sitedesign/UK.png" alt="UK Flag"></a>
+                <span class="country-select">
+                <a class="first" href="#">United Kingdom <img src="/images/_sitedesign/UK.png" alt="UK Flag"></a>
+                <a href="http://www.partycity.eu.com/">France <img src="/images/_sitedesign/France.png" alt="French Flag"></a>
+                <a href="http://www.partycity.de/">Germany<img src="/images/_sitedesign/Germany.png" alt="German Flag"></a>
+                <a href="http://www.partycity.nl/">Netherlands <img src="/images/_sitedesign/Netherlands.png" alt="Netherlands Flag"></a>
+                <a href="http://www.partycity.com/">United States <img src="/images/_sitedesign/USA.png" alt="US Flag"></a>
+                <a class="last" href="http://www.partycity.ca/">Canada <img src="/images/_sitedesign/Canada.png" alt="Canadian Flag"></a>
+                </span>
+
+                </div>
+
+                
+    </div>
+
+    
+    <div class="mobile">
+
+        <div class="inner">
+
+            <div class="showMenu">
+                <img class="x1" alt="Navigation menu" src="/images/_sitedesign/icons/menu-grey.png">
+                <img class="x2" alt="Navigation menu" src="/images/_sitedesign/icons/menu-grey-x2.png">
+            </div>
+
+            <div class="logo">
+                <a href="/default.aspx">
+                    <img class="x1" alt="PartyDelights" src="/images/_sitedesign/partydelights/mobile-logo-colour.png">
+                    <img class="x2" alt="PartyDelights" src="/images/_sitedesign/partydelights/mobile-logo-colour-x2.png">
+                </a>
+            </div>
+
+            <div class="basket">
+                <a id="cart_items2" class="empty" href="Javascript:GoCheckout('V')" title="View Basket &amp; Checkout"><span class="total">£0.00</span></a>
+                <a class="mobilelink" href="Javascript:GoCheckout('V')" title="Checkout"></a>
+            </div>
+
+            <div class="account">
+                <a class="lk-account" href="/myaccount.asp" title="My Account">My Account</a>
+            </div>
+
+            <div class="search">
+               <form name="frmSearch" method="get" action="/keywordsearch.aspx">
+                    <input name="KWSearchText" type="text" id="KWSearchText2" value="I'm looking for...">
+                    <button class="submit" type="submit">
+                        <img class="x1" alt="Search" src="/images/_sitedesign/icons/search-grey.png">
+                        <img class="x2" alt="Search" src="/images/_sitedesign/icons/search-grey-x2.png">
+                    </button>
+               </form>
+                <a class="showSearch" href="#">
+                    <img class="search x1" alt="Search" src="/images/_sitedesign/icons/search-grey.png">
+                    <img class="search x2" alt="Search" src="/images/_sitedesign/icons/search-grey-x2.png">
+                    <img class="close x1" alt="Close" src="/images/_sitedesign/icons/arrow-left-grey.png">
+                    <img class="close x2" alt="Close" src="/images/_sitedesign/icons/arrow-left-grey-x2.png">
+                </a>
+             </div>
+
+        </div>
+
+    </div>
+
+        <!-- use class "tabs one-season" to hide the second link and space out the other tabs -->
+                <div class="tabs one-season">
+                    <a class="home" href="/">Home</a>
+                    <a class="party" href="/party-supplies.aspx">Party</a>
+                    <a class="fancy" href="/fancy-dress/">Fancy Dress</a>
+                    <a class="baby" href="/baby/">Baby</a>
+                    <a class="wedding" href="/wedding/?pmo=we">Wedding</a>
+                    <a class="disney" href="/themes/disney-party.aspx">Disney</a>
+                    <a class="per" href="/personalised.aspx?pmo=pe">Personalised</a>
+                    <a class="sweets" href="/sweets/">Sweets</a>
+                    <a class="summer" href="/themes/summer-party.aspx?pmo=su">Summer</a>
+                </div>
+
+                <div class="sub-tab">
+                    <p><a rel="facebox" data-fancybox-type="iframe" href="/help/price-match.html" class="fancybox fancybox.ajax"><img src="/images/_sitedesign/usp-price-match.jpg" alt="Price Match Promise Tick"><span>Price Match<br>Promise</span></a></p>
+                    <p class="wider"><a rel="facebox" href="/help/delivery.html" class="fancybox fancybox.ajax"><img src="/images/_sitedesign/usp-fast2.jpg" alt="Next Day Delivery"><span>Next Day <br>Delivery</span></a></p>
+                    <p><a rel="facebox" href="/help/guarantee.html" class="fancybox fancybox.ajax"><img src="/images/_sitedesign/usp-pound.jpg" alt="Pound Sign"><span>100% Money Back Guarantee</span></a></p>
+                    <p><a rel="facebox" data-fancybox-type="iframe" href="http://www.feefo.com/reviews/Delights_UK/?internal=true&amp;id=212999" class="fancybox fancybox.ajax"><img src="/images/_sitedesign/usp-feefo-symbol.jpg" alt="Feefo logo"><span>96% Excellence<br><img class="stars" src="/images/_sitedesign/usp-feefo-stars.jpg" alt="Five Stars"></span></a></p>
+                </div>
+
 
 </div>
-</div>
 
-<div class="header_container">
-<div class="header_container_inside">
 
-<div class="logo-section">
-
-<a class="showMenu showMenu-header" href="#"></a>
-
-<div class="logo">
-<a href="/default.aspx" title="Home">
-<img class="x1" src="/images/_sitedesign/PartyDelights.jpg" alt="Party Delights">
-<img class="x2" src="/images/_sitedesign/PartyDelights-x2.jpg" alt="Party Delights">
-</a>
-</div>
-
-<!--Search-->
-<div class="searchbox search-toggle">
-<form name="frmSearch" method="post" action="/keywordsearch.aspx">
-<a href="#" class="icon showSearch">x</a>
-<input name="KWSearchText" class="search_text" type="text" id="KWSearchText" value="I'm looking for..." onclick="if (this.value == 'I\'m looking for...') { this.value = '' }" onblur="if(this.value==''){this.value='I\'m looking for...'}">
-<input class="submit" type="submit" value="Go">
-</form>
+<div class="promo-banner">
+  <div>
+    <div class="promo-banner-left-tail"></div>
+    <div>
+   
+   <span class="promo-central">
+        <b> 
+		
+		<!--&nbsp;&nbsp;-->
+		 FREE UK DELIVERY this weekend only!</b> 
+		<!--<small></small>-->
+      <small>Enter code </small><b>JUNEDEL</b><small> at checkout. £40 min order.
+		
+		</small>&nbsp;&nbsp;<b class="surplus"></b>
+		<span class="surplus">Hurry, ends 9am Thurs.</span>
+         <small>
+          <a class="promo-terms fancybox fancybox.ajax" style="color: #FFF; text-decoration: underline; margin-left:10px" href="/help/terms.html">T&amp;C's</a>
+        </small>
+      </span>       
+      
+    </div>
+    <div class="promo-banner-right-tail"></div>
+  </div>
 </div> 
 
-<span class="phone-number">
-<a href="tel:0333 900 5000"><span class="number">0333 900 5000</span><br>calls charged at local rate</a>
-<div><span class="number">0333 900 5000</span><br>calls charged at local rate</div>
-</span>
 
-<a class="checkout-button" href="Javascript:GoCheckout('C')"><span class="text">Checkout</span><span class="icon">&gt;</span></a>
 
-<a class="country-select-toggle" href="#"><img class="ukflag" src="/images/_sitedesign/UK.png" alt="UK Flag"></a>
-<span class="country-select">
-<a class="first" href="http://www.partydelights.co.uk/">United Kingdom <img src="/images/_sitedesign/UK.png" alt="UK Flag"></a>
-<a href="http://www.partycity.eu.com/">France <img src="/images/_sitedesign/France.png" alt="French Flag"></a>
-<a href="http://www.partycity.de/">Germany<img src="/images/_sitedesign/Germany.png" alt="German Flag"></a>
-<a href="http://www.partycity.nl/">Netherlands <img src="/images/_sitedesign/Netherlands.png" alt="Netherlands Flag"></a>
-<a href="http://www.partycity.com/">United States <img src="/images/_sitedesign/USA.png" alt="US Flag"></a>
-<a class="last" href="http://www.partycity.ca/">Canada <img src="/images/_sitedesign/Canada.png" alt="Canadian Flag"></a>
-</span>
+<!-- <div class="promo-banner">
+  <div>
+    <div class="promo-banner-left-tail"></div>
+    <div>
 
-<a href="#" title="Search" class="search-icon showSearch"></a>
+      <a href="/world-book-day-costumes/?pmo=fachildren">
+      <span class="promo-central">
+        <b>BANK HOLIDAY DISCOUNT: 10% off everything!</b>&nbsp;&nbsp;<small>Enter code </small>BHSMAY15
+         <small>Enter code </small><b>code</b>
+        <small> at checkout. &pound;40 min order.</small> &nbsp;&nbsp;
+        <b  class="surplus"></b>
+        <span class="surplus">Order by 2pm Tues for guaranteed delivery.</span>     Hurry, ends time-date.
+         <small>
+          <a class="promo-terms fancybox fancybox.ajax" style="color: #FFF; text-decoration: underline; margin-left:10px" href="/help/terms.html">T&amp;C's</a>
+        </small>
+      </span>
+    </a>        
+      
+    </div>
+    <div class="promo-banner-right-tail"></div>
+  </div>
+</div> -->
 
 </div>
 
-<div class="basket-checkout-section">
-<a href="/contactus.asp?expandable=10">Help</a>
-<a href="https://www.partydelights.co.uk/myaccount.asp">Sign in</a>
-
-<a class="checkout-button" href="Javascript:GoCheckout('C')">Checkout<span class="icon">&gt;</span></a>
-<a id="cart_items2" class="basket-button" href="Javascript:GoCheckout('V')" title="View your Shopping Basket"><span class="icon">B</span> <span class="items">0</span> items <span class="total">£0</span></a>
-</div>
-
-<!-- use class "tabs one-season" to hide the second link and space out the other tabs -->
-<div class="tabs">
-<a class="home" href="/default.aspx">Home</a>
-<a class="party" href="/party-supplies.aspx?pmo=pa">Party</a>
-<a class="fancy" href="/fancy-dress/default.asp">Fancy Dress</a>
-<a class="baby" href="/baby/default.aspx">Baby</a>
-<a class="wedding" href="/wedding/default.aspx">Wedding</a>
-<a class="disney" href="/themes/disney-party.aspx?pmo=3">Disney</a>
-<a class="per" href="/personalised.aspx?pmo=pe">Personalised</a>
-<a class="sweets" href="/sweets/default.asp">Sweets</a>
-<a class="christmas" href="/seasonal/christmas-party.aspx">Christmas</a>
-<a class="season2 newyear" href="/seasonal/new-years-eve-party.aspx">New Year</a>
-</div>
-
-<div class="sub-tab">
-<p><a rel="facebox" data-fancybox-type="iframe" href="/help/price-match.html"><img src="/images/_sitedesign/usp-price-match.jpg" alt="Tick"><span>Price Match<br>Promise</span></a></p>
-<p class="wider"><a rel="facebox" href="/help/delivery.html"><img src="/images/_sitedesign/usp-fast2.jpg" alt="Next Day Delivery"><span>Next Day <br>Delivery</span></a></p>
-<p class="wider"><a rel="facebox" href="/help/free-delivery.html" title="Free Delivery"><img src="/images/_sitedesign/usp-free2.jpg" alt="Free Delivery"><span>Free Delivery<br>Over £75</span></a></p>
-<p><a rel="facebox" href="/help/guarantee.html"><img src="/images/_sitedesign/usp-pound.jpg" alt="Pound Sign"><span>100% Money Back Guarantee</span></a></p>
-<p><a rel="facebox" data-fancybox-type="iframe" href="http://www.feefo.com/reviews/Delights_UK/?internal=true&amp;id=212999"><img src="/images/_sitedesign/usp-feefo-symbol.jpg" alt="Feefo"><span>96% Excellence<br><img class="stars" src="/images/_sitedesign/usp-feefo-stars.jpg" alt="Five Stars"></span></a></p>
-</div>
-
-</div><!--/Header Container Inside-->
-</div><!--/Header Container-->
-
-<div class="header_padding"></div>
-
-
-
-</div><!--/Header -->
-
+<span class="ha-waypoint"></span>
 
 <div class="headertitle">
 <!-- This page covers our <a href="/corporate/privacy.asp">Privacy Policy</a>  -->  
@@ -699,23 +751,22 @@ function flexsliderfontsize() {
 <li class="tablet-only"><a href="#" class="alldepartments">All Departments</a></li>
 
 	<ul class="alldepartmentslist">
-		<li><a href="/default.asp?pmo=pa">Home</a></li>
-		<li><a href="/default.asp?pmo=pa">Party</a></li>
+		<li><a href="/default.aspx?pmo=pa">Home</a></li>
+		<li><a href="/party-supplies.aspx?pmo=pa">Party</a></li>
 		<li><a href="/fancy-dress/default.asp?pmo=fa">Fancy Dress</a></li>
 		<li><a href="/baby/default.aspx?pmo=ba">Baby</a></li>
-		<li><a href="/wedding/?pmo=we">Wedding</a></li>
-		<li><a href="/toys/pocket-money-toys.aspx?pmo=to">Toys</a></li>
+		<li><a href="/wedding/default.aspx?pmo=we">Wedding</a></li>	
 		<li><a href="/themes/disney-party.aspx?pmo=3">Disney</a></li>
 		<li><a href="/personalised.aspx?pmo=pe">Personalised</a></li>
-		<li><a href="/sweets/?pmo=sw">Sweets</a></li>
-        <li><a href="/themes/easter-party.aspx?pmo=ea">Easter</a></li>
-        <li><a href="/themes/summer-parties.aspx?pmo=su">Summer</a></li>
+		<li><a href="/sweets/default.asp?pmo=sw">Sweets</a></li>
+        <li><a href="/seasonal/christmas-party.aspx">Christmas</a></li>
+        <li><a href="/seasonal/new-years-eve-party.aspx">New Year</a></li>
 	</ul>
 	
   <!--Code for menu starts here-->
   <li><a href="http://www.partydelights.co.uk/party-supplies.aspx?pmo=pa" title="Party Home">Party Home</a></li>
 <li><a href="http://www.partydelights.co.uk/baby/default.aspx?pmo=ba" title="Baby Occasions">Baby Occasions</a></li>
-<li><a href="http://www.partydelights.co.uk/themes/childrens-party.aspx?pmo=3" title="Children's Birthdays">Children's Birthdays</a></li>
+<li><a href="http://www.partydelights.co.uk/themes/childrens-party-supplies.aspx?pmo=3" title="Children's Birthdays">Children's Birthdays</a></li>
 <li><a href="http://www.partydelights.co.uk/teenage-party.aspx?pmo=pateenoccasions">Teen Birthdays</a></li>
 <li><a href="http://www.partydelights.co.uk/adult/adult-birthday-party.aspx?pmo=paadultoccasions">Adult Birthdays</a></li>
 <li><a href="http://www.partydelights.co.uk/adult/parties-for-adults.aspx?pmo=paadultthemes" title="Adult Themes">Adult Themes</a></li>
@@ -769,37 +820,31 @@ function flexsliderfontsize() {
 <!--include virtual="/navigation/leftnavfooter24del.asp" -->
 <div class="nav-footer">
 
-<a href="/help/sitemap/" title="Delivery Information and Calculator">
-<img src="/images/_sitedesign/link-delivery-v2.jpg" alt="24Hr delivery in the UK for only Â£7.95, 3-5 day delivery in the UK from Â£3.95, Collect for free, Pick up orders from our Manchester Warehouse">
+<a class="delivery-info" href="/help/sitemap/" title="Delivery Information and Calculator">
+<div class="delivery-header"><span style="font-size:1.3em">24</span>Hr Delivery*</div>
+<div>in the UK <br>only £7.95 </div>
+<div class="delivery-header">3-5 day</div>
+<div>delivery in the <br>UK from only £3.95 </div>
+<div class="delivery-header">Collect for Free</div>
+<div>Pick up orders from our<br>Manchester warehouse</div>
+<div class="delivery-button">delivery cost and options</div>
+<div class="delivery-disclaimer">*postcode restrictions apply</div>
 </a>
 
-<a class="old" href="/help/howitworks.asp" title="Get answers using our Help section">
-<div class="title">Any Questions?</div>
-<div class="txt">get answers to<br>
-common questions</div>
-<img src="/images/_sitedesign/help.jpg"></a>
-  
-<a class="old" href="/customer_citations.asp" title="Customer Feedback">
-<div class="title">
-Customer Feedback</div>
-<div class="txt">See how others rate<br>our service</div>
-<img src="/images/_sitedesign/feedback.jpg"></a>
-  
-<a class="feefo" rel="facebox" data-fancybox-type="iframe" href="http://www.feefo.com/reviews/Delights_UK/?internal=true&amp;id=212999" title="Feefo Rating">
-<span>97% excellence</span>
-<img src="/images/_sitedesign/nav-footer-feefo.jpg">
+<a class="any-questions" href="/contactus.asp" title="Any questions? Get answers using our help section">
+<div class="any-questions-header">Any questions?</div>
+<div>get answers <br>here in our FAQ</div>
 </a>
   
-<!--<div class="socialnav old">
-<div class="title">Party with us...</div>
-<div class="txt">and never miss an offer!</div>
-<a href="http://facebook.com/partydelightsuk" title="Facebook"><img src="/images/_sitedesign/lnsm-icons-facebook.png" alt="Facebook"></a>
-<a href="http://twitter.com/partydelightsuk" title="Twitter"><img src="/images/_sitedesign/lnsm-icons-twitter.png" alt="Twitter"></a>
-<a href="http://instagram.com/delights_uk/" title="Instagram"><img src="/images/_sitedesign/lnsm-icons-instagram.png" alt="Instagram"></a>
-<a href="http://pinterest.com/partydelightsuk" title="Pinterest"><img src="/images/_sitedesign/lnsm-icons-pinterest.png" alt="Pinterest"></a>
-<a href="http://google.com/+delightscouk" title="Google+"><img src="/images/_sitedesign/lnsm-icons-google.png" alt="Google+"></a>
-<a href="http://youtube.com/user/partydelights1" title="You Tube"><img src="/images/_sitedesign/lnsm-icons-you-tube.png" alt="You Tube"></a>
-</div>-->
+<a class="customer-feedback" href="/customer_citations.asp" title="Customer Feedback">
+<div class="customer-feedback-header">Customer Feedback</div>
+<div>See how others rate<br>our service</div>
+</a>
+  
+<a class="feefo fancybox fancybox.ajax" rel="facebox" data-fancybox-type="iframe" href="http://www.feefo.com/reviews/Delights_UK/?internal=true&amp;id=212999" title="Feefo Rating">
+<span>96% excellence</span>
+<img src="/images/_sitedesign/nav-footer-feefo.jpg" alt="Feefo logo">
+</a>
 
 </div>
 </div>
@@ -977,100 +1022,102 @@ Our site may, from time to time, contain links to and from the websites of our p
 
 
 </div><!-- /main -->
-<div class="copyright">Copyright © 2001-2014 Party Delights Limited. All Rights Reserved. All prices are in Pounds Sterling.</div> 
+<div class="copyright">Copyright © 2001-2015 Party Delights Limited. All Rights Reserved. All prices are in Pounds Sterling.</div> 
 </div><!-- /page -->
 <div class="footer">
-<div class="footer-inside">
 
-<span class="email-social">
-<span class="email">
-<form action="/social/NewsLetterSignup.aspx" method="get">
-<label>Sign up for our newsletter</label>
-<input class="email-input" type="email" name="email" value="Enter your email address" onclick="if(this.value=='Enter your email address'){this.value=''}" onblur="if(this.value==''){this.value='Enter your email address'}">
-<input class="email-btn" type="submit" value="Go">
-</form>
-</span>
+    <div class="footer-top">
+	<div class="footer-inside">
 
-<span class="social">
-<a rel="me" href="https://www.facebook.com/partydelightsuk" class="facebook" title="Facebook">F</a>
-<a rel="me" href="https://www.twitter.com/partydelightsuk" class="twitter" title="Twitter">L</a>
-<a rel="me" href="https://www.google.com/+delightscouk" class="google" title="Google+">g</a>
-<a rel="me" href="https://www.youtube.com/user/partydelights1" class="youtube" title="YouTube">Y</a>
-<a rel="me" href="http://www.pinterest.com/partydelightsUK/" class="pinterest" title="Pinterest">p</a>
-</span>
+        <span class="email-social">
+    <span class="email">
 
-</span>
+        <form action="/social_ems/NewsLetterSignup.aspx" method="get">
+        <input class="email-input" type="email" name="email" placeholder="Sign up for our email newsletter"><input class="email-btn" type="submit" value="Sign up">
+        </form>
 
-<div class="divider"></div>
+    </span>
 
-<span class="blog">
-<span class="icon">c </span> 
-<a rel="me" href="http://blog.partydelights.co.uk" title="Read our party blog for party inspiration, free crafts and competitions!">Read our party blog for party inspiration, free crafts and competitions!</a>
-</span>
+        <span class="social">
+        <a rel="me" href="https://www.facebook.com/partydelightsuk" class="facebook" title="Facebook">f</a>
+        <a rel="me" href="https://www.twitter.com/partydelightsuk" class="twitter" title="Twitter">t</a>
+        <a rel="me" href="https://www.google.com/+delightscouk" class="google" title="Google+">g</a>
+        <a rel="me" href="https://www.youtube.com/user/partydelights1" class="youtube" title="YouTube">y</a>
+        <a rel="me" href="https://www.pinterest.com/partydelightsUK/" class="pinterest" title="Pinterest">p</a>
+        </span>
 
-<div class="divider"></div>
-
-<ul>
-<li>PartyDelights.co.uk</li>
-<li><a href="/about.asp">About us</a></li>
-<li><a href="http://www.delightsdirect.co.uk/">Wholesale</a></li>
-<li><a href="http://www.partycity.de/">PartyCity.de</a></li>
-<li><a href="/corporate/legal.asp">Terms &amp; Conditions</a></li>
-</ul>
+    </span>
 
 
-<ul>
-<li>Customer Services</li>
-<li><a href="/contact-us.aspx#contact">Contact Us</a></li>
-<li><a href="/myaccount.asp">My Account</a></li>
-<li><a href="/help/sitemap/default.asp">Delivery</a></li>
-<li><a href="/contact-us.aspx#returns">Returns</a></li>
-</ul>
 
-<ul>
-<li>Shop with Confidence</li>
-<li><a href="/customer_citations.asp">Customer Reviews</a></li>
-<li><a rel="facebox" href="/help/security.html">Secure Shopping</a></li>
-<li><a href="/about.asp#awards">Awards</a></li>
-<li><a href="/corporate/privacy.asp">Privacy Policy</a></li>
-</ul>
+        <span class="blog">
+        <a rel="me" href="http://blog.partydelights.co.uk" title="Read our party blog for party inspiration, free crafts and competitions!">Read our party blog for party inspiration, free crafts and competitions!</a>
+        </span>
 
-<ul>
-<li>Popular Searches</li>
-<li><a href="/themes/childrens-party.aspx?pmo=pa">Children's Party</a></li>
-<li><a href="/fancy-dress/default.asp?pmo=fa">Fancy Dress Costumes</a></li>
-<li><a href="/personalised.aspx?pmo=pe">Personalised</a></li>
-<li><a href="/halloween/halloween-costumes.aspx?pmo=hafancydress">Halloween Costumes</a></li>
-</ul>
 
-<div class="divider"></div>
-<div>
+        <ul>
+        <li>PartyDelights.co.uk</li>
+        <li><a href="/about.asp">About us</a></li>
+        <li><a target="_blank" href="http://investor.partycity.com/">Investor relations</a></li>
+        <li><a href="http://www.delightsdirect.co.uk/">Wholesale</a></li>
+        <li><a href="/corporate/privacy.asp">Privacy Policy</a></li>
+        </ul>
 
-<span class="cards">
-<img src="/images/_sitedesign/footer/visa.jpg" alt="Visa">
-<img src="/images/_sitedesign/footer/mastercard.jpg" alt="MasterCard">
-<img src="/images/_sitedesign/footer/solo.jpg" alt="Solo">
-<img src="/images/_sitedesign/footer/visaelectron.jpg" alt="Visa Electron">
-<img src="/images/_sitedesign/footer/paypal.jpg" alt="PayPal">
-<img src="/images/_sitedesign/footer/amazon.jpg" alt="Amazon">
-</span>
+        <ul>
+        <li>Customer Services</li>
+        <li><a href="/contact-us.aspx#contact">Contact Us</a></li>
+        <li><a href="/help/sitemap/default.asp">Delivery</a></li>
+        <li><a href="/myaccount.asp">My Account</a></li>
+        <li><a href="/contact-us.aspx#returns">Returns</a></li>
 
-<a class="checkout-button" href="Javascript:GoCheckout('C')">Checkout <span class="icon">&gt;</span></a>
+        </ul>
+
+        <ul class="surplus">
+        <li>Shop with Confidence</li>
+        <li><a href="/citations.asp">Customer Reviews</a></li>
+        <li><a rel="facebox" href="/help/security.html" class="fancybox fancybox.ajax">Secure Shopping</a></li>
+        <li><a href="/about.asp#awards">Awards</a></li>
+        <li></li>
+        </ul>
+
+        <ul class="surplus">
+            <li><span>Popular Searches</span></li>
+            <li><a href="/themes/childrens-party.aspx?pmo=pa">Children's Party</a></li>
+            <li><a href="/fancy-dress/?pmo=fah">Fancy Dress Costumes</a></li>
+            <li><a href="/personalised.aspx?pmo=pe">Personalised</a></li>
+            <li><a href="/halloween-costumes/?pmo=hafancydress">Halloween Costumes</a></li>
+        </ul>
+
+	</div>
 </div>
 
-<div class="divider"></div>
+	
 
-<span class="copyright">2014 © Party Delights Limited. <span class="break"><br></span>All Rights Reserved.</span>
-
-</div>
+	<div class="footer-bottom">
+		<div class="footer-inside">
+			<div class="cards">
+				<span>1</span>
+				<span>2</span>
+				<span>3</span>
+				<span class="larger">4</span>
+				<span class="larger">5</span>
+			</div>		
+			<span class="copyright">
+				©&nbsp;&nbsp;2015&nbsp;&nbsp;Party Delights&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/corporate/legal.asp">Terms &amp; Conditions</a>
+			</span>					
+		</div>
+	</div>
 </div>
 
 <input type="hidden" id="BasketID" value="">
 <input type="hidden" id="CurrencySymbol" value="£">
 <input type="hidden" id="AddBasketText" value="add to basket"></div> <!-- closing the unclosed page level div -->
+
+<script src="/JS/analyticsheader.js" type="text/javascript"></script>
+<script src="/JS/analytics.js" async="async" type="text/javascript"></script>
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T5ZC5N" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-T5ZC5N');</script>
 <!-- End Google Tag Manager -->
 
-</body></html>
+<div style="display:none"><div id="oosmsg"><h2>Stock Alert</h2><p>We're sorry but we no longer have enough stock for the following items, your basket quantities have been automatically adjusted:</p><ul></ul><p></p><div></div></div></div><a style="display:none" id="oosmsgbutton" href="#oosmsg">Stock Alert</a></body></html>
