@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the help.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203212615id_/http%3A//www.help.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the help.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607141912id_/http%3A//help.com/privacy-policy) for the most accurate reproduction.*
 
 # Help.com - Scalable Cloud-Based Customer Service Software - Privacy Policy
 
