@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kepware.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121131321id_/http%3A//www.kepware.com/Menu_items/Legal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kepware.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607070914id_/http%3A//www.kepware.com/Menu_items/Legal.asp) for the most accurate reproduction.*
 
 # Privacy Statement | Kepware Technologies
 
