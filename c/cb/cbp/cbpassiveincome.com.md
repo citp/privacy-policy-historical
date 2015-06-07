@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbpassiveincome.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227202303id_/http%3A//cbpassiveincome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbpassiveincome.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607072759id_/http%3A//cbpassiveincome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CBPassiveIncome.com
 
