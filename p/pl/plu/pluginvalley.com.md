@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pluginvalley.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020135835id_/http%3A//www.pluginvalley.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluginvalley.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608003823id_/http%3A//www.pluginvalley.com/privacy-policy.html) for the most accurate reproduction.*
 
 # PluignValley Privacy Policy - We care your privacy
 
