@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the internationalliving.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119040715id_/http%3A//internationalliving.com/about-il/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalliving.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152537id_/http%3A//internationalliving.com/about-il/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy...
+# Privacy Policy - International Living Policies
 
 We take our commitment to protecting the privacy and security of our website users very seriously. We will never intentionally disclose personal information about you as an individual user, but please note that the Internet as a whole is not a secure forum. Exercise caution whenever disclosing information on any website.
 
@@ -10,9 +10,23 @@ Personal information will not be shared at any time without your permission and 
 
 If you subscribe, you may receive e-mails from us introducing new products and services that we think will be of interest to you. Some may be from companies other than International Living.
 
+## Get Your Free Report on the Top 10 Retirement Havens Now
+
+Sign up for our  **FREE report**  on the world’s top 10 Retirement Havens.
+
+Simply enter your e-mail below to subscribe to International Living’s free daily e-letter and we’ll immediately send your free report– **The World’s Top 10 Retirement Havens**
+
+## Get Your Free Report Here
+
+No spam pledge. We value your privacy.
+
+[Find Out More About Our Top 10 Retirement Havens Report Here](https://web.archive.org/lp/annual-global-retirement-index-2015/)
+
+* * *
+
 We reserve the right to use, without identifying you, any questions, comments, or other information that is submitted. We guarantee that we will keep your personal identification information confidential if your information is used in books, articles, or promotions.
 
-**Cookie Policy**
+## Cookie Policy
 
 Cookies are small files placed on your computer by a website when you visit them. They can be used to store all sorts of useful information to make your next visit easier and more convenient.
 
@@ -33,3 +47,15 @@ If you no longer wish to receive emails from us simply click on the unsubscribe 
 **How to cancel your** ** ** _ **International Living**_ ** ** **Magazine subscription**
 
 If you wish to cancel your International Living Magazine subscription, please contact us at <http://internationalliving.com/customer-service/ilv-and-products/>[ ](http://internationalliving.com/customer-service/ilv-and-products/)or call 1-800-681-2402 or (toll free from the US and Canada) or +443-353-4232 (international). We will promptly refund you for all unmailed issue. And no matter what, all of the free INTERNATIONAL LIVING reports are yours to keep.
+
+## Get Your Free Report on the Top 10 Retirement Havens Now
+
+Sign up for our  **FREE report**  on the world’s top 10 Retirement Havens.
+
+Simply enter your e-mail below to subscribe to International Living’s free daily e-letter and we’ll immediately send your free report– **The World’s Top 10 Retirement Havens**
+
+## Get Your Free Report Here
+
+No spam pledge. We value your privacy.
+
+[Find Out More About Our Top 10 Retirement Havens Report Here](https://web.archive.org/lp/annual-global-retirement-index-2015/)
