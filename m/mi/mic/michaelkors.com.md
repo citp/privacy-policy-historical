@@ -1,150 +1,163 @@
-> *The following text is extracted and transformed from the michaelkors.com privacy policy that was archived on 2010-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100710074645id_/http%3A//www.michaelkors.com/category/assistance/service/security.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaelkors.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607135738id_/http%3A//www.michaelkors.com/browse/common/staticContent.jsp%3FslotId%3D2200002) for the most accurate reproduction.*
 
-# Michael Kors -
+# Privacy Policy | Michael Kors
 
-| 
+## Privacy Policy/Your Privacy Rights 
 
-How to Contact Us  
-  
-  
-  
-Phone   
-Call a customer service representative from Michael Kors - The official site and online store: 800-908-1157 
+Last updated: January 18, 2015 
 
-E-mail   
-  
-Online Chat   
+This Privacy Policy applies to information that each of Michael Kors (USA), Inc. and its parent, subsidiary and affiliate entities worldwide (individually referred to herein as the “Michael Kors”, “we,” “us” or “our”) collects about you: (i) in one of our stores or otherwise offline, (ii) through purchases you make from our catalog, or (iii) on or through michaelkors.com or destinationkors.com or michaelkors.ca (or any subdomain thereof), or one of our other websites, applications or other services from which you are accessing this Privacy Policy (each referred to herein as a “Site,” and collectively, the “Sites”). This Privacy Policy describes how we collect such information, how we use it and to whom and under what circumstances we may disclose it. The personal information we collect is stored and/or controlled by Michael Kors (USA), Inc. at 11 West 42nd St., New York, New York, 10036, USA. 
 
+We may share your personal information with third parties for their direct marketing purposes, as further described in our Information Disclosure and Your Choices/Your Privacy Rights sections below. If you wish to opt out of such sharing, please contact [customerservice@michaelkors.com](mailto:customerservice@michaelkors.com) or [customerservice@michaelkors.ca](mailto:customerservice@michaelkors.ca), and include your name, email address and postal address in your request. 
 
-  
-|  | 
+Table of Contents (click on one of the links below to jump ahead to that section): 
 
-Security & Privacy  
+• Information Collection   
+  o Information You Provide to Us  
+  o Site Usage Information and Other Information Collected Automatically  
+  o Browser Do-Not-Track Signals  
+  o Cookies and Other Tracking Technologies   
+•Advertising on the Site and other Websites  
+•Information Use  
+•Information Disclosure  
+•Your Choices/Your Privacy Rights  
+•Maintenance and Processing of Information in the U.S. and Other Countries  
+•Access To Your Personal Information  
+•Security  
+•Children’s Privacy  
+•Third-Party Websites  
+•Phishing, Spoofing & Other Schemes  
+•Safe Harbor Certification  
+•Changes to This Privacy Policy  
+•Contact Us
 
+#### Information Collection
 
-Privacy Policy and Security Information   
-Last updated: March 11, 2010 
+##### Information You Provide to Us
 
-**Introduction**   
-This Privacy Policy describes how Michael Kors (“we” or “us”) collects personal information from you, how we use it and to whom and under what circumstances we may disclose it. For visitors to www.michaelkors.com (the “Site”): The Site is operated by The Neiman Marcus Group, Inc., pursuant to an agreement with us. To learn how The Neiman Marcus Group handles the information it receives from and about you while you are on the Site, please click [here](https://web.archive.org/category/assistance/service/security_NM.jhtml;jsessionid=PKSNEDBTRGDNWCQAAJZHN0A). 
+We (or our service providers) collect information from you when you: (1) purchase products from us, whether on a Site, through a catalog or in one of our stores; (2) create an account with us, or otherwise sign up for a service or feature; (3) complete a survey; (4) participate in a sweepstakes, contest or other promotion; (5) communicate with us via third-party social media sites; (6) apply for a job with us; or (7) contact us, or otherwise communicate with us or provide information to us. The “personal information” we collect may include, for example, your name, postal address, zip or postal code, email address, telephone number, date of birth, payment information, demographic information, details on items purchased, and other information you choose to provide to us. 
 
-**Information Collection**   
-We collect personal information from you when you: (1) purchase products from us, whether online, through a catalog or in one of our stores; (2) register on the Site; (3) complete a survey; (4) participate in a sweepstakes or other promotion; (5) contact us; or (6) otherwise provide it to us. The information we collect may include your name, address, email address, telephone number, items purchased, date of birth, payment information and other information you may provide to us. We may combine the information we collect from and about you online with the information we collect from and about you offline. We may also combine your information with information we receive about you from other sources, such as address update services. 
+In some cases, you may provide information to us about another person, such as when you purchase a gift card for someone and request that we deliver it to that person, when you share Site content or send a message to a friend through a Site or otherwise, or when you decide to ship products you purchase to someone else. In such cases, you represent that you have the authorization of such person to provide us with such information. 
 
-As part of the standard operation of the Site, we may collect certain non-personal information from you, including but not limited to your browser type, operating system, IP address and the domain name from which you accessed the Site. In addition, we may collect information about your browsing behavior, such as the date and time you visit the Site, the areas or pages of the Site that you visit, the amount of time you spend viewing the Site, the number of times you return to the Site and other click-stream data. 
+We may combine the information we collect online from or about you with the information we collect offline from or about you. We may also combine your (and others’) information that we’ve collected from you (or others) with information we may receive from other sources, such as third-party social media platforms (e.g., when you choose to log in to our Site through a third-party social media platform, subject to your actions and settings thereon), address update services or co-promotion partners. **By accessing a Site, you signify your consent to the above collection of your personal information.**
 
-We, or service providers acting on our behalf, may use cookies and web beacons to collect the non-personal information described above. A cookie is a small text file that may be stored on the hard drive of your computer when you access the Site. A web beacon is typically a one-pixel image, used to pass information from your computer to a website. We may also use cookies and web beacons to: (1) remember you when you return to the Site; (2) keep track of what you have in your online shopping cart; (3) provide you with customized content and advertising; (4) monitor Site usage; (5) measure the effectiveness of our advertising (both on our Site and on other sites) and emails; and (6) conduct research to improve our content, merchandise and services. 
+When you are a creating an account for the first time on a Site with an email address that you have previously provided to us in another circumstance (e.g., in one of our stores, when signing up for our emails, by entering one of our sweepstakes or other promotions), we may recognize that email address and, once you have completed the account set-up process, you may be able to see your contact information already included in your new online account. This is happening because we have recognized your email address and, for your convenience, have added your information to your account. You can always change this information by signing into your account. 
 
-You are free to decline cookies, but by doing so, you may not be able to use certain features on the Site or take full advantage of all of our offerings. Check the “Help” menu of your browser to learn how to change your cookie preferences. By declining cookies, you may also block certain web beacons. 
+For all users who created an online account on michaelkors.com prior to September 3, 2014, due to operational changes made to the website, certain information that was stored in your “old” site account will need to be re-entered and reset, including your account password, as well as your payment information. Your address book, however, should still be included in your account. If you have any questions, please contact us at: 1-866-709-5677 (for the U.S.) or 1-855-898-5677 (for Canada). 
 
-We also work with service providers that use cookies and web beacons to collect information about your visits to the Site and to other websites and serve advertisements to you, across the Internet, based on that information. If you would like to learn more about this practice, and to know your choices with respect to it, please visit [ here](http://www.networkadvertising.org/managing/opt_out.asp). 
+##### Site Usage Information & Other Information Collected Automatically 
 
-**Access to Your Personal Information**   
-You may access any personal information you provide to us, correct or modify any such personal information, or direct us to make no further use of your personal information. To do so, please send us an email with your request to [customerservice@michaelkors.com](mailto:customerservice@michaelkors.com). In your request, please include your name and your email and postal addresses. 
+As part of the standard operation of the Sites, certain information is collected automatically or passively from or about you in connection with your visit to the Site. Our servers may automatically gather some of the “Site usage information” described below, or we (or our service providers) may use cookies and other tracking technologies to collect and track such information (see our Cookies and Other Tracking Technologies section below for more details). 
 
-**Information Use**   
-We may use the information we collect from and about you for any of the following purposes: (1) to fulfill your requests for products and services and to keep you informed about your orders; (2) to provide you with targeted offers and advertising on the Site; (3) subject to the choices you have expressed to us, to contact you with information and promotional materials, including our catalog, as well as offers from select partners; (4) to contact you when necessary; (5) for market research and to review and improve our merchandise selections, customer service, online and offline operations and overall shopping experience; (6) to protect the security or integrity of the Site and our business; and (7) otherwise, with your permission. 
+“Site usage information” includes, but is not limited to: (i) your browser type, device type, carrier (if applicable), device address, operating system, operating system address, IP address and the domain name from which you accessed a Site; (ii) information about your region, continent, country, city, zip code, time zone, and general location; and (iii) information about your browsing activities on and through a Site (also known as “click stream” data), such as (a) the date and time you visit one of the Sites, (b) the areas or pages of a Site that you visit, (c) the amount of time you spend viewing a Site or specific areas of a Site, (d) the number of times you return to a Site or a specific area of a Site, (e) the web sites or pages you visited prior to visiting a Site, (f) the websites or pages you visit after you leave a Site; (g) searches you have performed on the Site and on other websites that led you to our Site; (h) social plug-ins with which you have interacted on our Site; and (j) other similar Site usage data. 
 
-**Information Disclosure**   
-We may disclose information collected from and about you as follows: (1) to our service providers and suppliers, if the disclosure will enable any of them to perform a business, professional or technical support function for us; (2) as necessary if we believe that there has been a violation of the Site Terms of Use or of our rights or the rights of any third party; (3) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; (4) in the event that our company or substantially all of its assets are acquired, your personal information may be one of the transferred assets; and (5) otherwise, with your permission. We may also share your name, address and transactional information (but not any payment information) with other marketers, unless you direct us not to. Please see “Your Choices,” below. 
+We consider this Site usage information, on its own, to be non-personal in nature, unless required otherwise by applicable law. However, we may combine Site usage information about you with personal information about you, and we would consider the combined information to be “personally identifiable” or “personal information” for the purposes of this Privacy Policy.
 
-**Your Choices**   
-If you would like to opt out of receiving direct mail or telephone marketing calls from us, please contact us at [customerservice@michaelkors.com](mailto:customerservice@michaelkors.com). Please include your name, your email and postal addresses and your telephone number. We will process your request within a reasonable timeframe, but you may, in the meantime, receive previously scheduled mail or calls from us. 
+##### Browser Do-Not-Track Signals
 
-If you would like to opt out of receiving promotional emails from us, please follow the unsubscribe instructions located in each such email. 
+Some web browsers and devices permit you to broadcast a preference that you not be “tracked” online. At this time we do not modify your experience based on whether such a signal is broadcast. To learn more about browser tracking signals and “Do Not Track,” please visit [http://allaboutdnt.org](http://allaboutdnt.org/). Please note, however, that you can opt out of our (and our service providers’) use of your information for behavioral targeting of our advertisements by following the directions in the Advertising on the Site and other Websites section below. 
 
-If you would prefer that we not share your name, address and transactional information with other marketers, please contact us at [customerservice@michaelkors.com](mailto:customerservice@michaelkors.com). In your request, please include your name and your email and postal addresses. (We never share your payment information with other marketers.) 
+##### Cookies and Other Tracking Technologies 
 
-**Maintenance of Personal Information in U.S.**   
-Your personal information may be stored and processed in the United States by our affiliates and other third party service providers and may be accessed pursuant to a search warrant or other legally valid inquiry or order. 
+Advertising on the Site and other Websites section below. 
 
-**Security**   
-We have implemented measures in an effort to safeguard the personal information in our custody and control, including only providing access to personal information to employees and authorized service providers who require such information for the purposes described in this Privacy Policy. We maintain reasonable administrative, technical and physical safeguards in an effort to protect against unauthorized access, use, modification and disclosure of personal information in our custody and control. Our service providers are not authorized to use or disclose your personal information for any purpose other than providing the services on our behalf or as otherwise required by applicable law.   
-To provide you with an increased level of security, online access to certain personal information may be protected with a password you select. We strongly recommend that you do not disclose your password to anyone. We will never ask you for your password in any unsolicited communication. 
+> _Cookies._ A “cookie” is a small data file that is sent to your web browser and placed on your computer or device when you access a website. The cookies are then able to track your activities on the Sites and across websites. Cookies also allow us (and our service providers) to: track your activities on the Sites; track clicks, purchases and conversion; recognize your computer or device so that you are able to save your preferences and stay logged in to the Site without having to re-enter your Account credentials; deliver customized content, messages and advertising to you; preserve the contents of your shopping cart; optimize and measure the effectiveness of our advertising and emails; provide and enhance Site security and fraud detection; otherwise enhance, monitor and analyze Site usage; conduct research to improve our content, merchandise and services; and personalize your experience on the Sites. 
+> 
+> Most web browsers enable you to decline or block cookies (check the “Help” or “Settings” menus of your browser to learn more). While you are free to decline cookies, doing so may prevent you from taking full advantage of all features of our Site(s). Refusing cookies may also negatively impact the display or functionality of certain areas of a Site. 
+> 
+> **By continuing to use this Site, you consent to our use of cookies as described in this Privacy Policy, as well as our[Cookie Policy](https://web.archive.org/browse/common/staticContent.jsp?slotId=2400006) (which is incorporated herein).**
+> 
+> _Web Beacons and Tags._ We also use web beacons (also known as “clear GIFs” or “pixel tags”), which are typically one-pixel images that are embedded on a page of a Site or in our communications, such as an email message. These technologies help us to verify when a certain page of a Site is viewed, when a message is opened and when links or other content in a message are clicked or viewed. We use the information collected through web beacons, tags and other similar technologies for similar purposes as the information collected through cookies, as described above.
+> 
+> _Flash Cookies/Local Stored Objects._ We may use Flash cookies and other similar technologies (referred to herein as Local Stored Objects or "LSOs"), which allow a website to store certain information locally on an individual's computer or device and then access and use that information to enhance and facilitate certain Site experiences, processes and functionality. Flash cookies and other LSOs are different from typical browser cookies (as described above), and therefore the cookie management tools provided by your web browser may not enable you to remove Flash cookies or other LSOs. To learn more about managing these technologies, visit <http://www.allaboutcookies.org/manage-cookies/>. 
 
-**Retention**   
-We only keep your personal information as long as necessary for the purposes we collected it, or as otherwise required by law. 
+We may use third party web analytics services, such as Google Analytics and Adobe services, to help us track and analyze the use of our Site and to measure the effectiveness of our advertising, Site content and communications. These service providers’ tools, including, for example, cookies, tags and web beacons, help us to gain this understanding. To opt out of this use by Adobe, please [click here](http://www.adobe.com/privacy/opt-out.html), and to opt out of this use by Google Analytics, click [here](http://tools.google.com/dlpage/gaoptout). 
 
-**Children's privacy**   
-We do not direct the Site to, nor do we knowingly collect any personal information from, children under thirteen. 
+#### Advertising on the Site and other Websites 
 
-**Third Party Websites**   
-The Site may contain links to third-party websites, which may have privacy policies that differ from our own. We are not responsible for the activities and practices that take place on these sites. Accordingly, we recommend that you review the privacy policy posted on any site that you may access through the Site. 
+We also work with service providers and partner with advertising companies that use cookies, web beacons and other tools to collect information about your visits to and behavior on the Site and other websites, and then use that information to deliver targeted advertisements to you across the Internet. The information collected and used in this manner is generally, on its own, anonymous and not personally identifiable. To learn more about this practice and your choices with respect to it, please visit the Network Advertising Initiative at [www.networkadvertising.org ](http://www.networkadvertising.org/) and the Digital Advertising Alliance at [www.aboutads.info](http://www.aboutads.info/). To opt-out of our third-party advertising partners’ use of cookies in this manner, visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-**Safe Harbor Certification**   
-Michael Kors adheres to the Safe Harbor framework developed by the U.S. Department of Commerce in coordination with the European Commission. 
+#### Information Use 
 
-**Changes to This Privacy Policy**   
-We may change this privacy policy from time to time. When we do, we will post the change(s) on our website. If we change the policy in a material way, we will provide appropriate online notice to you. 
+We may use the information we collect from and about you (including both personal information and Site usage information) for a variety of purposes, including the following: 
 
-**Contact Us**   
-If you have questions about this Privacy Policy, please contact us at [customerservice@michaelkors.com](mailto:customerservice@michaelkors.com). 
-
-**Browser advisory**   
-PC users should place their online order using Internet Explorer or Firefox. Macintosh users should place their online orders using Safari or Firefox. These browsers allow us to offer our customers the highest level of security; some other browsers prevent users from viewing secure pages during the checkout process. We apologize for any inconvenience. 
-
-Download a free copy of Firefox [here](http://www.mozilla.com/firefox/). For the latest version of Safari, from the Apple menu, choose Software Update. For the latest Internet Explorer version visit [here](http://windowsupdate.microsoft.com/). 
-
-Please be aware that MichaelKors.com uses rich media content to improve the user experience. [Download](http://www.adobe.com/go/getflashplayer) and Install Adobe Flash to view the website as it was intended. 
-
-Conditions of use, notices and disclaimers.   
-When you use this Web Site, you are automatically agreeing that both your access to the site and your use of it are: 
-
-  * Subject to the terms and conditions in this legal notice, which may change at any time without notice.
-  * Subject to all applicable laws.
-  * Undertaken at your own risk.
+  * to fulfill your requests for products and services and to keep you informed about your orders;
+  * to provide you with targeted offers and advertising on and at the Sites; 
+  * subject to your communications preferences and, where required by applicable law, subject to your consent, to contact you (via postal mail, email and the like) with promotional materials about us, our products, our services and our events, as well as about select partners; 
+  * to contact you when necessary or appropriate; 
+  * where appropriate, for market research and to review and improve our merchandise selections, customer service, online and offline operations and overall shopping experience; 
+  * to protect the security or integrity of the Sites and our business; and 
+  * otherwise, with your permission or as permitted by law. 
 
 
 
-Please refer to this page frequently to review our current terms and conditions of use. 
+If you provide us with information about another person (as described above in the Information You Provide to Us section), where permitted by applicable law, we use that information to fulfill your requests and treat such information in accordance with this Privacy Policy. 
 
-**Copyright**   
-The following elements of this Web Site are the property of Neiman Marcus or Neiman Marcus suppliers or Michael Kors and are protected by United States and international copyright laws: 
+We (and our service providers) also analyze and use Site usage information and information collected through cookies, web beacons and other tracking technologies, alone and in combination with personal information, to assess the behavior of our users, to measure the interest in and use of the Sites and communications, and to customize the Sites and our communications with you. We do this on both on an individual basis and in the aggregate. 
 
-  * All text, graphics, logos, button icons, images, audio clips, digital downloads, and data compilations -- both individually and as they are compiled on the site.
-  * All software.
+#### Information Disclosure 
+
+We may disclose information we collect (including Site usage information and personal information) in the following ways, to the extent permitted by law: 
+
+  * to our service providers and suppliers, who collect or use such information for us or on our behalf (such as website or database hosting companies, address list hosting companies, email service providers, analytics companies, distribution companies, fulfillment companies, and other similar entities that help us to operate the Sites and/or provide functionality, content and services); 
+  * as necessary, if we believe that there has been a violation of the Site Terms and Conditions or any other Site policy, or if we have reason to believe that our rights or property, or the rights or property of any third party, may be or have been harmed; 
+  * to respond to subpoenas or other judicial processes, or to provide information as requested by law enforcement agencies, other government authorities, or otherwise as required by law; 
+  * in the event that Michael Kors or substantially all of its assets are acquired by one or more third parties as a result of an acquisition, merger, sale, consolidation, bankruptcy, liquidation or other similar corporate reorganization, where your information may be one of the transferred assets; 
+  * to third-party marketers, as permitted by law, unless you direct us not to (please see the Your Choices/Your Privacy Rights section below); 
+  * when you contribute to a social, community or other publicly available area or feature of the Site, the information and content that you post may be made available to the general public, depending on your settings (which is why we recommend that you do not submit or post any sensitive personal information, such as your full name, home address, phone number or other information that would enable others to contact or locate you);
+  * otherwise, with your permission; and
+  * as otherwise, with your permission or as permitted by law. 
 
 
 
-**Trademarks**   
-The trademarks or trade dress of Neiman Marcus, Michael Kors and each of our affiliates may not be used without our written permission. Trademarks or trade dress include the Neiman Marcus names and logos, and other graphics, logos, page headers, button icons, scripts, and service names of Neiman Marcus and Michael Kors products, services, and programs. 
+Content and information that you submit on or through Facebook, Twitter, Instagram, Tumblr and other third-party platforms may appear on the Sites through feeds from and other interfaces with those platforms. We are not responsible for the information, content and/or privacy practices of any such third-party platforms. 
 
-VELCRO® is a registered trademark of Velcro Industries, B.V. 
+#### Your Choices/Your Privacy Rights 
 
-All other trademarks that appear on this Web Site are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by us or our affiliates. 
+If you would like to opt out of receiving direct mail from us, please contact us at [customerservice@michaelkors.com](mailto:customerservice@michaelkors.com). Please understand that if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your Account, relationship, activities, transactions and communications with us. 
 
-**Use**   
-You have permission to electronically copy and print hard copies of pages from this Web Site solely for personal, non-commercial purposes related to placing an order or shopping with the Web Site. Unless we give you written permission in advance, any other use of this Web Site, its content and its information, including linking or framing to this Web Site, are strictly prohibited. 
+If you would like to opt out of receiving promotional emails from us, please follow the unsubscribe instructions located in each such email or contact us at [customerservice@michaelkors.com](mailto:customerservice@michaelkors.com). Please understand that if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your Account, relationship, activities, transactions and communications with us. 
 
-**Errors and inaccuracies**   
-Our goal is to provide complete, accurate, up-to-date information on our Web Site. Unfortunately, it is not possible to ensure that any Web Site is completely free of human or technological errors. This site may contain typographical mistakes, inaccuracies, or omissions, some of which may relate to pricing and availability, and some information may not be complete or current. We reserve the right to correct any errors, inaccuracies or omissions -- including after an order has been submitted -- and to change or update information at any time without prior notice. We sincerely apologize for any inconvenience this may cause. 
+If you would prefer that we not share your personal information with third-party marketers, please contact us at [customerservice@michaelkors.com](mailto:customerservice@michaelkors.com). Please include your name and your email and postal addresses. (Note that we never share your payment information with other marketers.) Please understand that if you do request that we stop sharing your personal information with third parties for their direct marketing purposes, such request will only apply as of the date of your request, and we will not be responsible for any communications that you may receive from third parties that received your personal information prior to that request. In these cases, please opt out from or contact that third party directly. 
 
-**Disclaimer of liability**   
-We make no representations or warranties of any kind, whether express or implied, with respect to this Web Site, its content, or the information available on or through it; they are provided "as is," with all faults. Except as otherwise provided under applicable laws, we and our corporate affiliates, and the directors, officers, employees, agents, contractors, successors and assigns of each, will not be liable for any damages whatsoever arising out of or related to the use of this Web Site or any other site linked to it. This limitation of liability applies to direct, indirect, consequential, special, punitive or other damages you or others may suffer, as well as damages for lost profits, business interruption or the loss of data or information, even if we are notified in advance of the potential for any such damages. 
+#### Maintenance and Processing of Information in the U.S. and Other Countries
 
-**No confidentiality**   
-Except for information necessary to place an order, we do not want to receive confidential or proprietary information or trade secrets through this Web Site. Any information, materials, suggestions, ideas or comments sent to us will be deemed non-confidential, and by submitting it, you are granting us an irrevocable and unrestricted license to use, modify, reproduce, transmit, display and distribute it for any purpose whatsoever, with no payment or other compensation to you. However, we will not use your name unless we are required by law to identify the source of the materials, information, suggestions, ideas or comments, or unless we first obtain your permission. 
+Your personal and other information may be stored, transferred and processed in and to the United States and in other countries by our affiliates and our service providers. By providing personal information to us, you consent to the collection, maintenance, processing and transfer of such information in and to the United States and other countries and territories, pursuant to the laws of the United States or such other jurisdictions, which may provide lesser privacy protections than the laws of other countries, and you acknowledge that your information may thus be subject to U.S. and foreign laws and accessible to U.S. and foreign governments, courts, law enforcement and regulatory agencies. 
 
-**Applicable law**   
-By visiting this Web Site, you agree that, except with respect to disputes involving The Neiman Marcus Group, Inc., which are governed by The Neiman Marcus Group, Inc.’s [policy](https://web.archive.org/category/assistance/service/security_NM.jhtml;jsessionid=PKSNEDBTRGDNWCQAAJZHN0A), the laws of the state of New York, without regard to principles of conflict of laws, will govern any dispute related to products purchased here or infringement on our intellectual property rights that might arise between you and us or any of our affiliates. 
+#### Access to Your Personal Information 
 
-**Disputes**   
-Except with respect to disputes involving The Neiman Marcus Group, Inc., which are governed by The Neiman Marcus Group, Inc.’s [policy](https://web.archive.org/category/assistance/service/security_NM.jhtml;jsessionid=PKSNEDBTRGDNWCQAAJZHN0A), any dispute relating in any way to products purchased here shall be submitted to confidential arbitration New York, New York. However, if you have in any manner violated or threatened to violate our intellectual property rights, we may seek injunctive or other appropriate relief in any state or federal court in the state of New York. You consent to exclusive jurisdiction and venue in such courts. Any arbitration under this agreement shall be conducted under the prevailing rules of the American Arbitration Association. The arbitrator's award shall be binding and may be entered as a judgment in any court of competent jurisdiction. To the fullest extent permitted by applicable law, no arbitration with respect to this Web Site or to products purchased here shall be joined to an arbitration involving any other party, whether through class arbitration proceedings or otherwise. 
+You may access any personal information you provide to us, correct or modify any such personal information, or direct us to delete or make no further use of your personal information. You can access or make certain adjustments to your account directly through your online Account, or you can contact us with your request at [customerservice@michaelkors.com](mailto:customerservice@michaelkors.com). In your request, please include your name, email and postal address, as well as your specific request and any information we may need in order to provide or otherwise process your request. 
 
-**Privacy Complaints by European Union Citizens:**   
-In compliance with the Safe Harbor Principles, Michael Kors commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Michael Kors at [customerservice@michaelkors.com](mailto:privacy@michaelkors.com). 
+#### Security
 
-Michael Kors has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Michael Kors you may contact:
+We have implemented measures in an effort to safeguard the personal information in our custody and control. Such measures include, for example, limiting access to personal information only to employees and authorized service providers who need to know such information for the purposes described in this Privacy Policy, as well as other administrative, technical and physical safeguards. Additionally, our service providers are not authorized to use or disclose your personal information for any purpose other than providing the services to us or on our behalf, or as otherwise may be required by applicable law. While we endeavor to always protect our systems, Sites and information against unauthorized access, use, modification and disclosure, due to the inherent nature of the Internet as an open global communications vehicle and other risk factors, we cannot guarantee that any information, during transmission or while stored on our systems, will be absolutely safe from intrusion by others, such as hackers. 
 
-Council of Better Business Bureaus, Inc.  
-BBB EU Safe Harbor   
-4200 Wilson Boulevard, Suite 800  
-Arlington, VA 22203  
-Phone: 703-276-0100  
-Web: www. us.bbb.org  
-Email: eusafeharbor@council.bbb.org 
+To provide you with increased security, access to certain personal information stored in your Account is protected with your username and password. You are responsible for maintaining the confidentiality of your Account credentials, and we strongly recommend that you do not disclose your Account username or password to anyone. We will never ask you for your password in any unsolicited communication. Please notify us immediately of any unauthorized use of your Account credentials or any other suspected breach of security.
 
-**Protecting your information**   
-As part of our ongoing commitment to ensure that your shopping experience with the Web Site is protected, we will prosecute all unauthorized or fraudulent transactions to the fullest extent allowed by law. 
+#### Children's Privacy 
 
-| 
+The Sites are not directed to children under the age of thirteen (13). If you are under thirteen, do not provide your personal information on or to the Site. We do not knowingly collect on the Site any personal information from children under thirteen. Users outside of the United States who are below the age of eighteen (18) (or the age of majority in the applicable jurisdiction) should not use the Sites without authorization from a parent or legal guardian. 
+
+#### Third-Party Websites 
+
+The Sites may contain links (which may take the form of hyperlinks, widgets, clickable logos, plug-ins, images or banners) to websites and services operated by entities other than us. This Privacy Policy does not apply to such other websites or services, so we recommend that you review their posted privacy policies so that you understand the relevant information collection, use and disclosure practices.
+
+#### Phishing, Spoofing & Other Schemes
+
+It has become increasingly common for hackers, cyber-criminals and other unauthorized individuals to send emails and other communications to consumers purporting to represent a legitimate company, such as a bank or an online retailer, and requesting through those communications that the consumer provide personal, often sensitive, information. Sometimes, the domain name of the sender’s email address, or the domain name of the website requesting such information, may appear to be the domain name of a legitimate, trusted company. If you receive a request to provide sensitive information (including your Account password, or any payment information) via email or to a website or individual that does not seem to be affiliated with the Sites or Michael Kors, or that otherwise seems suspicious to you, please do not respond or disclose your information. Michael Kors will never send you an email requesting that you verify any credit card information, financial information or other sensitive personal information. Please immediately report any such communication or request to us at [customerservice@michaelkors.com](mailto:customerservice@michaelkors.com). 
+
+Additionally, Michael Kors works with customs authorities, law enforcement and legal representatives globally in an effort to prevent the sale of counterfeit Michael Kors products, both online and offline. To avoid the risk of purchasing counterfeit products, it is best to buy directly from the only official Michael Kors e-commerce website, an official Michael Kors retail store, or an authorized department store, specialty retailer or e-tailer that you know to be reputable. To report counterfeits, please email [intellectualpropertyenforcement@michaelkors.com](mailto:intellectualpropertyenforcement@michaelkors.com). 
+
+#### Safe Harbor Certification 
+
+Michael Kors has certified that it complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, retention, transfer and processing of personal information from European Union member countries and Switzerland. Michael Kors has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor Program, and to view Michael Kors’ certification, please visit http://www.export.gov/safeharbor/. The BBB EU Safe Harbor Program acts as Michael Kors' third-party dispute resolution provider, as required by the Safe Harbor Program. If you have a complaint concerning our Safe Harbor compliance, please use the BBB EU Safe Harbor Program complaint process described here: <http://www.bbb.org/us/Business-Complaints/>. 
+
+#### Changes to This Privacy Policy 
+
+We may change this Privacy Policy from time to time and the amended policy will be posted to the Sites. Under certain circumstances (for example, in connection with certain material adverse changes to this Privacy Policy), we may also elect to notify you through additional means, such as posting a notice on the home page of the Sites or contacting you via email. 
+
+#### Contact Us 
+
+If you have any questions or concerns about this Privacy Policy and/or about the privacy policies and practices of our service providers, please contact us at [privacy@michaelkors.com](mailto:privacy@michaelkors.com), or at: Michael Kors, 11 West 42nd Street, New York, New York 10036, Attn: Privacy Officer. 
+
+[Top of Page]
