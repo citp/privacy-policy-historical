@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the soonersetc.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120045327id_/http%3A//www.soonersetc.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soonersetc.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607033709id_/http%3A//www.soonersetc.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Sooners Etc - Privacy Policy
-
-##  Privacy Policy 
 
 Sooners Etc believes that electronic privacy is crucial for the ongoing success of the Internet as a service, commercial, and entertainment medium. We know you're concerned about protecting your privacy online. At Sooners Etc, we treat your personal information with the highest standards of safety, security, and confidentiality.
 
