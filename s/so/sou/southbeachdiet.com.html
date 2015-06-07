@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the southbeachdiet.com privacy policy that was archived on 2014-07-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140703064147id_/http%3A//www.southbeachdiet.com/diet/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the southbeachdiet.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607075307id_/http%3A//www.southbeachdiet.com/diet/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     
@@ -10,7 +10,7 @@
     <!-- Resolves IOS orientation bug: http://tiny.cc/ios-bug -->
     <meta name="user-agent" content="NotMobile">
     <meta name="iTuneAppUrl" content="http://yoz.io/r/hz">
-     <meta name="apple-itunes-app" content="app-id=, app-argument=x-sfp:///visit/seal-rocks">
+     <meta name="apple-itunes-app" content="app-id=520821618, app-argument=x-sfp:///visit/seal-rocks">
     
     <link rel="icon" href="//content.everydayhealth.com/sbd2/cms/favicon.ico" type="image/x-icon">
     <meta name="msvalidate.01" content="DDF93A9901EF52470CB504F53FE70272">
@@ -40,7 +40,7 @@
 <!-- Begin Tracking -->
 <script language="javascript" type="text/javascript" src="//tracking.waterfrontmedia.com/GCScript.ashx?p=16"></script>
 <!-- script contains there minified js files: omniture.js, tophat.js, ads.js, beacon.js -->
-<script type="text/javascript" src="//content.everydayhealth.com/assets/sbd2/scripts/package_top_header.min.js?v=28011"></script>
+<script type="text/javascript" src="//content.everydayhealth.com/assets/sbd2/scripts/package_top_header.min.js?v=28989"></script>
 <!-- call ComScore and Omniture -->
 <script>
     document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
@@ -57,7 +57,7 @@
     
     
 
-    <link rel="stylesheet" type="text/css" href="//content.everydayhealth.com/assets/sbd2/styles/package_default.min.css?v=28011" media="screen">
+    <link rel="stylesheet" type="text/css" href="//content.everydayhealth.com/assets/sbd2/styles/package_default.min.css?v=28989" media="screen">
    <style>
         body {background-image:none;overflow-y:auto !important}
         body,.container, .content-full, .one-col, .column, row.column.auto{width: 100%;min-width: 0;}
@@ -71,9 +71,9 @@
     <script>window.jQuery || document.write('<script src="/assets/scripts/jquery.1.7.min.js"><\/script>');</script><script src="/assets/scripts/jquery.1.7.min.js"></script>
     
     <!--[if lt IE 9]>
-    <script type='text/javascript' src='//content.everydayhealth.com/assets/sbd2/scripts/json2.js?v=28011'></script>
-    <script type='text/javascript' src='//content.everydayhealth.com/assets/sbd2/scripts/html5.js?v=28011'></script>
-    <script type='text/javascript' src='//content.everydayhealth.com/assets/sbd2http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE7.js?v=28011'></script>
+    <script type='text/javascript' src='//content.everydayhealth.com/assets/sbd2/scripts/json2.js?v=28989'></script>
+    <script type='text/javascript' src='//content.everydayhealth.com/assets/sbd2/scripts/html5.js?v=28989'></script>
+    <script type='text/javascript' src='//content.everydayhealth.com/assets/sbd2http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE7.js?v=28989'></script>
     <![endif]-->
     
 </head>
@@ -95,7 +95,7 @@
         </div>
         <!-- Full Width Content -->
         <div class="row one-col">
-            <!-- Begin Location: 'Content2Full', origin: 'repository', cachetime: 02:41:47 AM' -->
+            <!-- Begin Location: 'Content2Full', origin: 'repository', cachetime: 03:53:07 AM' -->
 <!-- Begin A Razor Content Template At Location: 'Content2Full' -->
 <!-- Content ID: '238354' | Content Type: 'Article' | Path: '~/views/gcms/modules/common-article-no-comments.cshtml' -->
 <div class="row column auto">
@@ -147,7 +147,7 @@ New York, NY 10014 </p><h2><strong>12. Privacy Policy Changes</strong></h2><p>We
 
 <!-- End A Razor Content Template At Location: 'Content2Full' -->
 
-<!-- End Location: 'Content2Full', origin: 'repository', cachetime: 02:41:47 AM' -->
+<!-- End Location: 'Content2Full', origin: 'repository', cachetime: 03:53:07 AM' -->
 
         </div>
     </div>
@@ -173,7 +173,7 @@ New York, NY 10014 </p><h2><strong>12. Privacy Policy Changes</strong></h2><p>We
     <script>
         var ImageServerPath = 'http://images.agoramedia.com/';
     </script>
-<script type="text/javascript" src="//content.everydayhealth.com/assets/sbd2/scripts/package_default.min.js?v=28011"></script>    
+<script type="text/javascript" src="//content.everydayhealth.com/assets/sbd2/scripts/package_default.min.js?v=28989"></script>    
     
     
 <script type="text/javascript">
@@ -196,9 +196,33 @@ New York, NY 10014 </p><h2><strong>12. Privacy Policy Changes</strong></h2><p>We
 </script>
     <script type="text/javascript">
         // Loads AOL Tophat function in package_top_header.min.js
-        $(function () {
             TopHatConfig.init('everydayhealth.com');
-        }); 
+ 
+
+        var i = 1;
+        function myLoop() {
+            console.log(new Date());
+            setTimeout(function () {
+                try {
+                    if ($('#GH_').length == 0) {
+                        console.log(new Date());
+                        AolEh.init();
+                    }
+                    i = 100;
+                } catch(e) {
+                    i = 1;
+                } 
+                i++;
+                if (i < 10) {
+                    myLoop();
+                }
+            }, 2000);
+        }
+
+        $(function() {
+            myLoop();
+        });
+
     </script>
 
 
