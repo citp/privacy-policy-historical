@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seagm.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203071120id_/http%3A//www.seagm.com%3Fr%3Dpage%26view%3Dmemberprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seagm.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608003305id_/http%3A//www.seagm.com%3Fr%3Dpage%26view%3Dmemberprivacy) for the most accurate reproduction.*
 
 # SEA Gamer Mall Online Game Store | FIFA Coins, Archeage Gold, Global Game Card and CD-Key
 
