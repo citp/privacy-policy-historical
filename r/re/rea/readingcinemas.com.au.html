@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the readingcinemas.com.au privacy policy that was archived on 2014-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141223223129id_/http%3A//readingcinemas.com.au/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the readingcinemas.com.au privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607200322id_/http%3A//readingcinemas.com.au/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     	<!--[if lt IE 7]>
@@ -9,7 +9,11 @@
 	    <meta name="description" content="Privacy Policy">
 	    <meta name="keywords" content="reading cinema, reading cinemas, reading,  readings cinema, www.readingcinemas.com.au, readingcinemas, readings cinemas,  reading cinemas auburn, reading cinemas charlestown,  reading cinemas dubbo, reading cinemas maitland, reading cinemas rhodes, reading cinemas rouse Hill, reading cinemas chirnside park, reading cinemas dandenong, reading cinemas epping, reading cinemas melton, reading cinemas sunbury, reading cinemas waurn ponds, reading cinemas bundaberg, reading cinemas harbourtown, reading cinemas redbank, reading cinemas townsville, reading cinemas mandurah, reading cinemas belmont, reading cinemas elizabeth, reading cinemas west lakes, contact, contact us, email, phone, address">
 		<title>Privacy Policy | Reading Cinemas AU</title>
-        <script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>var baseurl = 'http://readingcinemas.com.au/';</script>
+        <script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=10"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>var baseurl = 'http://readingcinemas.com.au/';</script>
+		<script>
+			 var csfrData = {};
+			 csfrData['ci_csrf_token'] = '7b6c6fd0652d35c28775d81ce1719214';
+		</script>
 		<script>var cloudurl = 'http://djqh0pophbxqy.cloudfront.net/';</script>
 		<link rel="shortcut icon" href="http://djqh0pophbxqy.cloudfront.net/images/favicon.ico">
 		<base href="http://readingcinemas.com.au/">		<link href="http://djqh0pophbxqy.cloudfront.net/css/reset.css" rel="stylesheet" type="text/css">
@@ -68,7 +72,8 @@
 				$('#loginform').submit(function(){
 										$email=$(this).find('#loginemail').val();
 					
-					 var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+					 var reg = /^([a-z0-9\+_\-]+)(\.[a-z0-9\+_\-]+)*@([a-z0-9\-]+\.)+[a-z]{2,6}$/i;
+					 
 			        if(reg.test($email)==false){
 						showPopup('<span>Login Failed</span>','<p>Username or Password is invalid.</p>');
 						return false;
@@ -82,16 +87,131 @@
 						return false;
 					}
 					else{
+						$( "input[name='pwd']" ).val(Base64.encode($( "input[name='pwd']" ).val()));
 						$('#sub_btn').hide().attr('disabled','disabled');
 						$('#loading').show();
 						return true;
 					}
 				});
 			});
-			</script>
 			
-            <form action="https://readingcinemas.com.au/member_login" method="post" id="loginform" name="loginform" target="signin">
-                <div class="login-form">
+	//********************* Base64_encode function****************************//
+	var Base64 = {
+    _keyStr: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",
+    encode: function(input) {
+        var output = "";
+        var chr1, chr2, chr3, enc1, enc2, enc3, enc4;
+        var i = 0;
+        input = Base64._utf8_encode(input);
+        while (i < input.length) {
+            chr1 = input.charCodeAt(i++);
+            chr2 = input.charCodeAt(i++);
+            chr3 = input.charCodeAt(i++);
+            enc1 = chr1 >> 2;
+            enc2 = ((chr1 & 3) << 4) | (chr2 >> 4);
+            enc3 = ((chr2 & 15) << 2) | (chr3 >> 6);
+            enc4 = chr3 & 63;
+            if (isNaN(chr2)) {
+                enc3 = enc4 = 64;
+            } else if (isNaN(chr3)) {
+                enc4 = 64;
+            }
+            output = output + this._keyStr.charAt(enc1) + this._keyStr.charAt(enc2) + this._keyStr.charAt(enc3) + this._keyStr.charAt(enc4);
+		}
+
+        return output;
+    },
+
+
+    decode: function(input) {
+        var output = "";
+        var chr1, chr2, chr3;
+        var enc1, enc2, enc3, enc4;
+        var i = 0;
+        input = input.replace(/[^A-Za-z0-9\+\/\=]/g, "");
+        while (i < input.length) {
+            enc1 = this._keyStr.indexOf(input.charAt(i++));
+            enc2 = this._keyStr.indexOf(input.charAt(i++));
+            enc3 = this._keyStr.indexOf(input.charAt(i++));
+            enc4 = this._keyStr.indexOf(input.charAt(i++));
+            chr1 = (enc1 << 2) | (enc2 >> 4);
+            chr2 = ((enc2 & 15) << 4) | (enc3 >> 2);
+            chr3 = ((enc3 & 3) << 6) | enc4;
+            output = output + String.fromCharCode(chr1);
+            if (enc3 != 64) {
+                output = output + String.fromCharCode(chr2);
+            }
+            if (enc4 != 64) {
+                output = output + String.fromCharCode(chr3);
+            }
+        }
+        output = Base64._utf8_decode(output);
+        return output;
+    },
+
+    _utf8_encode: function(string) {
+        string = string.replace(/\r\n/g, "\n");
+        var utftext = "";
+
+        for (var n = 0; n < string.length; n++) {
+
+            var c = string.charCodeAt(n);
+
+            if (c < 128) {
+                utftext += String.fromCharCode(c);
+            }
+            else if ((c > 127) && (c < 2048)) {
+                utftext += String.fromCharCode((c >> 6) | 192);
+                utftext += String.fromCharCode((c & 63) | 128);
+            }
+            else {
+                utftext += String.fromCharCode((c >> 12) | 224);
+                utftext += String.fromCharCode(((c >> 6) & 63) | 128);
+                utftext += String.fromCharCode((c & 63) | 128);
+            }
+
+        }
+
+        return utftext;
+    },
+
+    _utf8_decode: function(utftext) {
+        var string = "";
+        var i = 0;
+        var c = c1 = c2 = 0;
+
+        while (i < utftext.length) {
+
+            c = utftext.charCodeAt(i);
+
+            if (c < 128) {
+                string += String.fromCharCode(c);
+                i++;
+            }
+            else if ((c > 191) && (c < 224)) {
+                c2 = utftext.charCodeAt(i + 1);
+                string += String.fromCharCode(((c & 31) << 6) | (c2 & 63));
+                i += 2;
+            }
+            else {
+                c2 = utftext.charCodeAt(i + 1);
+                c3 = utftext.charCodeAt(i + 2);
+                string += String.fromCharCode(((c & 15) << 12) | ((c2 & 63) << 6) | (c3 & 63));
+                i += 3;
+            }
+
+        }
+
+        return string;
+    }
+
+}
+    
+			</script>
+			<form action="https://readingcinemas.com.au/member_login" accept-charset="utf-8" method="POST" id="loginform" name="loginform" target="signin">
+<div class="hidden">
+<input type="hidden" name="ci_csrf_token" value="7b6c6fd0652d35c28775d81ce1719214">
+</div>                <div class="login-form">
                     <div class="login-form-inner">
                         <input type="text" class="text" id="loginemail" name="email" value="Email »" onfocus="clearText(this)" onblur="clearText(this)" autocomplete="off">
                         <input type="password" class="text" name="pwd" value="Pass »" onfocus="clearText(this)" onblur="clearText(this)" autocomplete="off">
@@ -100,7 +220,7 @@
                     </div>
 
                     <input type="submit" class="signinBtn" id="sub_btn">
-					<img src="http://djqh0pophbxqy.cloudfront.net/images/frontend/loading_profile.gif" style="display:none;width:94px;height:24px;" id="loading">
+					<img src="http://djqh0pophbxqy.cloudfront.net/images/frontend/loading_profile.gif" style="display:none;width:94px;height:24px;" width="94px" height="24px" id="loading">
 
                 </div><!--end of login-form-->
             </form><iframe src="" name="signin" style="width:1px;height:1px;float:left;"></iframe>
@@ -203,11 +323,13 @@
 	</ul>
 
 	<div class="searchBox">	
-		<form method="post" name="frm_sitesearch" id="frm_sitesearch" action="javascript:void(0);">	
-		<input class="textbox" name="sitesearch" autocomplete="off" id="sitesearch" value="Search.." type="text" onfocus="if (this.value==this.defaultValue) this.value='';">
-		
+		<form action="http://readingcinemas.com.au/javascript:void(0);" accept-charset="utf-8" method="POST" id="frm_sitesearch" name="frm_sitesearch">
+<div class="hidden">
+<input type="hidden" name="ci_csrf_token" value="7b6c6fd0652d35c28775d81ce1719214">
+</div>		<input class="textbox" name="sitesearch" autocomplete="off" id="sitesearch" value="Search.." type="text" onfocus="if (this.value==this.defaultValue) this.value='';">
+		<input type="hidden" name="keyword" value="">
 		 <div class="suggestionsBox" id="suggestions" style="display: none;">
-			<img src="http://djqh0pophbxqy.cloudfront.net/images/upArrow.png" style="position: relative; top: -18px; left: 65px;" alt="upArrow">
+			<img src="http://djqh0pophbxqy.cloudfront.net/images/upArrow.png" width="10" height="10" style="position: relative; top: -18px; left: 65px;" alt="upArrow">
 			<div class="suggestionList" id="autoSuggestionsList"></div>
 		</div>
 	</form>
@@ -345,8 +467,10 @@
 						<div class="sidebar f-left">
 
 							<div class="eTix">
-<form action="https://readingcinemas.com.au/process_tix" method="POST" id="expressform" name="expressform">
-		<h2><span>E-TIX</span>  EXPRESS</h2>
+<form action="https://readingcinemas.com.au/process_tix" accept-charset="utf-8" method="POST" id="expressform" name="expressform">
+<div class="hidden">
+<input type="hidden" name="ci_csrf_token" value="7b6c6fd0652d35c28775d81ce1719214">
+</div>		<h2><span>E-TIX</span>  EXPRESS</h2>
         
        
         
@@ -439,12 +563,10 @@
 
 							<div id="leftAd" class="fLeft">
 
-<a href="http://readingcinemas.com.au/giftideas" target="_self"><img src="http://djqh0pophbxqy.cloudfront.net/wpdata/images/79703-o.png" alt="AU Gift Card competition"></a>
-<a href="http://readingcinemas.com.au/competition" target="_self"><img src="http://djqh0pophbxqy.cloudfront.net/wpdata/images/79805-o.png" alt="AU Water Diviner competition"></a>
-<a href="http://readingcinemas.com.au/movie/5721" target="_self"><img src="http://djqh0pophbxqy.cloudfront.net/wpdata/images/79804-o.png" alt="AU NATM and Penguins competition"></a>
-<a href="http://readingcinemas.com.au/movie/5737" target="_self"><img src="http://djqh0pophbxqy.cloudfront.net/wpdata/images/79815-o.png" alt="AU Annie - now showing"></a>
-<a href="http://readingcinemas.com.au/movie/5262" target="_self"><img src="http://djqh0pophbxqy.cloudfront.net/wpdata/images/79776-o.png" alt="AU The Hobbit - tickets on sale"></a>
-<a href="http://readingcinemas.com.au/movie/5422" target="_self"><img src="http://djqh0pophbxqy.cloudfront.net/wpdata/images/79674-o.png" alt="AU Fifty Shades of Grey - on sale"></a>
+<a href="http://readingcinemas.com.au/public_competition/1748" target="_self"><img src="http://djqh0pophbxqy.cloudfront.net/wpdata/images/80693-o.png" alt="AU Entourage Competition"></a>
+<a href="http://readingcinemas.com.au/movie/5823" target="_self"><img src="http://djqh0pophbxqy.cloudfront.net/wpdata/images/80736-o.png" alt="AU Aloha - Now Showing"></a>
+<a href="http://readingcinemas.com.au/movie/5745" target="_self"><img src="http://djqh0pophbxqy.cloudfront.net/wpdata/images/80704-o.png" alt="AU Jurassic World - Tickets On Sale"></a>
+<a href="http://readingcinemas.com.au/movie/5811" target="_self"><img src="http://djqh0pophbxqy.cloudfront.net/wpdata/images/80690-o.png" alt="AU San Andreas - Now Showing"></a>
 </div>
 <style>  #leftAd img {  width:295px !important; height:auto !important;}</style>
 						</div><!--end of sidebar-->
@@ -465,7 +587,7 @@
 					<ul>
 						<li><a href="http://readingcinemas.com.au/session_times/locations/">Session Times</a></li>
 						<li><a href="http://readingcinemas.com.au/locations/">Cinema Locations</a></li>
-						<li><a href="http://readingcinemas.com.au/trailers/">Movie Trailers</a></li>
+						<li><a href="http://readingcinemas.com.au/trailers">Movie Trailers</a></li>
 						<li><a href="http://readingcinemas.com.au/gold_lounge_tour/">Gold Lounge</a></li>
 						<li><a href="http://readingcinemas.com.au/contact_us/">Contact Us</a></li>
 						<li><a href="http://readingcinemas.com.au/terms/">Terms</a></li>
@@ -478,10 +600,12 @@
 					<p>&nbsp;</p>
 <p style="padding-top: 0px; padding-right: 0px; padding-bottom: 20px; padding-left: 0px; outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 11px; font-family: inherit; vertical-align: baseline; color: #666666; line-height: 20px !important; margin: 0px; border: 0px initial initial;">Want to skip the queues?<br>Purchase your E-Tix online.</p>					<a href="http://readingcinemas.com.au/session_times/locations" class="buy-btn" onclick="gaTrackEvent('E-Tix', 'Footer', 'Footer - Buy Tix - Button', this.href); return false;">Buy</a>
 				</div>
-                <div class="ticket-img"><img src="http://djqh0pophbxqy.cloudfront.net/images/admit-2-ticket-image-footer.png" alt=""></div>
+                <div class="ticket-img"><img src="http://djqh0pophbxqy.cloudfront.net/images/admit-2-ticket-image-footer.png" alt="" width="340" height="303"></div>
 	  </div><!--end of footer-->
 	  <div class="feedback-con"><a href="http://readingcinemas.com.au/contact_us"><img src="http://djqh0pophbxqy.cloudfront.net/images/feedback-btn.png" width="29" height="161"></a> </div>
-
+<!-- InDigi - Reading Cinemas - Website Tag: CODE START -->
+<script src="//c.supert.ag/p/0002ny/supertag.js"></script>
+<!-- InDigi - Reading Cinemas - Website Tag: CODE END -->
 			</div><!--end of wrap-inner-->
 		</div><!--end of wrap-->
         
@@ -536,7 +660,7 @@
 <!-- end -->
 <script>
 $(function() {
-$.ajaxSetup ({cache: false});
+$.ajaxSetup ({data: csfrData,cache: false});
 });
 </script>
 
@@ -555,7 +679,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 //<![CDATA[
 (function() {
 var _analytics_scr = document.createElement('script');
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=1';
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=10';
 var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
 })();
 // ]]>
