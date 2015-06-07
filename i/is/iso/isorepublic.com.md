@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isorepublic.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210224117id_/http%3A//isorepublic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isorepublic.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607235358id_/http%3A//isorepublic.com/privacy) for the most accurate reproduction.*
 
 # Privacy - ISO Republic
 
