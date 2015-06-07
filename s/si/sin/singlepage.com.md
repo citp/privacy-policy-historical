@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singlepage.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126183853id_/http%3A//www.singleplatform.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singlepage.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022654id_/http%3A//www.singleplatform.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement - Constant Contact
 
@@ -40,7 +40,7 @@ You always have the opportunity to opt-out or change preferences in our non-tran
 Access to Personal Information
 
   * You can update your Constant Contact account information by logging in to your account. If you would like to suspend or cancel your Constant Contact account or obtain further information about or access to your personal information, you can do so by contacting Constant Contact customer support.
-  * You can update your SinglePlatform account information, suspend or cancel your account or obtain further information about or access to your personal information, by contacting the SinglePlatform account management team at (877) 564-8728.
+  * You can update your SinglePlatform account information, suspend or cancel your account or obtain further information about or access to your personal information, by contacting the SinglePlatform account management team at (866) 289-2087.
   * We will retain and use your information for as long as your account is active or as needed to provide you services, as necessary to comply with our legal obligations, resolve disputes and enforce our agreements. Notwithstanding the foregoing, we may continue to disclose your storefront information to third parties in a manner that does not reveal personal information after you suspend or cancel your SinglePlatform account unless you request otherwise.
 
 
@@ -147,7 +147,7 @@ Back to Top
 
 Our Anti-Spam Policy tolerates only permission-based email, see <http://www.constantcontact.com/anti-spam>. You may choose to opt-out or select your email preferences when you sign-up for our email lists. You always have the opportunity to opt-out or change preferences by following a link in the footer of all non-transactional email messages sent by us or by emailing us at [support@constantcontact.com](mailto:support@constantcontact.com). In addition, anyone receiving emails from us on behalf of our customers always has the opportunity to opt-out of email messages from such customer by using the opt-out link included in the link in the footer of the message. If you believe that you have received an unsolicited commercial email from us on behalf of any of our customers, you may report it to us at [abuse@constantcontact.com](mailto:abuse@constantcontact.com).
 
-Some communications (for example, important account notifications and billing information) are considered transactional and are necessary for all of our customers. You must cancel your Constant Contact or SinglePlatform account, as applicable, to unsubscribe from these communications. To cancel your Constant Contact account, please email us at [support@constantcontact.com](mailto:support@constantcontact.com). To cancel your SinglePlatform account, please call us at (877) 564-8728.
+Some communications (for example, important account notifications and billing information) are considered transactional and are necessary for all of our customers. You must cancel your Constant Contact or SinglePlatform account, as applicable, to unsubscribe from these communications. To cancel your Constant Contact account, please email us at [support@constantcontact.com](mailto:support@constantcontact.com). To cancel your SinglePlatform account, please call us at (866) 289-2087.
 
 To manage the information we receive about you from an SNS or any other third party, you will need to follow the instructions from that party for updating your information and changing your privacy settings. The information we collect is covered by this privacy statement and the information the third party collects is subject to such third party's privacy practices. Privacy choices you have made on any third party site will not apply to our use of the information we have collected directly through our applications.
 
@@ -159,7 +159,7 @@ You can update your Constant Contact account information, including your organiz
 
 You can update your SinglePlatform account information by contacting the SinglePlatform account management team directly at (866) 289-2087. If you would like to suspend or cancel your account or obtain further information about or access to your personal information, you can do so by contacting the account management team at (866) 289-2087.
 
-We will retain and use your information for as long as your account is active or as needed to provide you services, as necessary to comply with our legal obligations, resolve disputes, enforce our agreements and for backup purposes. Notwithstanding the foregoing, we may continue to disclose your storefront information to third parties in a manner that does not reveal personal information after you suspend or cancel your SinglePlatform account unless you request otherwise by calling the SinglePlatform account management team at (877) 564-8728.
+We will retain and use your information for as long as your account is active or as needed to provide you services, as necessary to comply with our legal obligations, resolve disputes, enforce our agreements and for backup purposes. Notwithstanding the foregoing, we may continue to disclose your storefront information to third parties in a manner that does not reveal personal information after you suspend or cancel your SinglePlatform account unless you request otherwise by calling the SinglePlatform account management team at (866) 289-2087.
 
 Back to Top
 
