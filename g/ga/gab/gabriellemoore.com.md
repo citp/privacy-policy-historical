@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gabriellemoore.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064449id_/http%3A//www.gabriellemoore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gabriellemoore.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607213703id_/http%3A//www.gabriellemoore.com/privacy-policy) for the most accurate reproduction.*
 
-# Best Sex Tips And Positions
+# Privacy Policy « Best Sex Tips And Positions
 
 www.GabrielleMoore.com is committed to protecting the privacy of our online visitors. We collect information from online visitors who ask to be on our newsletter mailing list and/or receive periodic email announcements. Anyone who wishes can choose to be removed from our mailing list at any time.
 
