@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safely.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014125139id_/http%3A//www.safely.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safely.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607124331id_/http%3A//www.safely.com/privacy-policy) for the most accurate reproduction.*
 
 # Safely | Mobile & Digital Wellness
 
@@ -168,7 +168,7 @@ Attn: Privacy Policy
 5980 Horton St., Suite 675,  
 Emeryville, CA 94608
 
-Location Labs has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20141014125139id_/http%3A//www.safely.com/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+Location Labs has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20150607124331id_/http%3A//www.safely.com/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 Again, if you have any questions or concerns regarding this Privacy Policy, including the Safe Harbor Privacy Framework, you should contact us at [Privacy_support@locationlabs.com](mailto:Privacy_support@locationlabs.com).
 
