@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the crime-scene-investigator.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120231225id_/http%3A//www.crime-scene-investigator.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crime-scene-investigator.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142813id_/http%3A//crime-scene-investigator.net/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## Stay Connected
+**Sign up now to receive our free monthly newsletter** featuring articles, news and new jobs available in Crime Scene Investigations and Forensic Science. 
+
+## How to Become a CSI
+
+[](http://www.crime-scene-investigator.net/csi-training.html)
 
   
 
-
-**Sign up now to receive our free monthly newsletter** featuring articles, news and new jobs available in Crime Scene Investigations and Forensic Science. 
 
 ### Job Posting Alerts
 
@@ -16,6 +18,16 @@
 **"Follow" to Receive Job Alerts**
 
 [Follow @CSInetwork](https://twitter.com/CSInetwork)
+
+  
+
+
+## Featured Product
+
+[](http://www.forensicwear.com/)
+
+  
+
 
 | 
 
