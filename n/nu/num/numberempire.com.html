@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the numberempire.com privacy policy that was archived on 2014-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121013859id_/http%3A//www.numberempire.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the numberempire.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607174222id_/http%3A//www.numberempire.com/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <!-- This document is protected by the copyright law. 
@@ -38,7 +38,6 @@ Modification, publishing and redistribution of this document are prohibited. -->
 
   var lang = 'en';
   var url = 'http://www.numberempire.com/privacypolicy.php';
-  var allow_ads_msg = "Please disable ad block on www.numberempire.com to continue using this site.\n\nWe only show moderate non-intrusive ads. \n\nThank you!\n\nNumber Empire Team";
   var show_help = "Show help";
   var hide_help = "Hide help";
   var parentheses_do_not_match = "Parentheses do not match";
@@ -60,14 +59,12 @@ Modification, publishing and redistribution of this document are prohibited. -->
 <table class="center zero main">
 <tbody><tr id="top_sandbar"><td class="center">
 <table class="zero wide"><tbody><tr>
-<td class="left" style="width: 35%">
+<td class="left" style="width: 70%">
     <a href="/">Home</a>
     <span class="gray">|</span>
-          <a href="#menu">Menu</a>
-      <span class="gray">|</span>
         <a href="/getinvolved.php">Get&nbsp;Involved</a>
     </td>
-<td class="center" style="width: 35%"><div class="addthis_toolbox addthis_default_style" style="display: table; margin: 0 auto;">
+<!--td class='center' style='width: 35%'><div class="addthis_toolbox addthis_default_style" style="display: table; margin: 0 auto;">
 <a class="addthis_button_google_plusone" g:plusone:size="small" g:plusone:count="false"></a>
 <a class="addthis_button_preferred_1"></a>
 <a class="addthis_button_preferred_2"></a>
@@ -78,11 +75,41 @@ Modification, publishing and redistribution of this document are prohibited. -->
 <a class="addthis_button_preferred_7"></a>
 <a class="addthis_button_preferred_8"></a>
 <a class="addthis_button_compact"></a>
-</div></td>
+</div></td-->
 <td class="center" style="width: 5%">
     </td>
 <td class="right" style="width: 25%; min-width: 100px">
-    <span id="fivestars" title="Click to rate this page" style="vertical-align: middle;"></span>
+    <span title="Click to rate this page"><img id="star1" alt="1" src="/images/graystar.png" onmouseover="mouseOverStar(1)" onmouseout="mouseOut()" onclick="mouseClick(1)" width="20" height="20"><img id="star2" alt="2" src="/images/graystar.png" onmouseover="mouseOverStar(2)" onmouseout="mouseOut()" onclick="mouseClick(2)" width="20" height="20"><img id="star3" alt="3" src="/images/graystar.png" onmouseover="mouseOverStar(3)" onmouseout="mouseOut()" onclick="mouseClick(3)" width="20" height="20"><img id="star4" alt="4" src="/images/graystar.png" onmouseover="mouseOverStar(4)" onmouseout="mouseOut()" onclick="mouseClick(4)" width="20" height="20"><img id="star5" alt="5" src="/images/graystar.png" onmouseover="mouseOverStar(5)" onmouseout="mouseOut()" onclick="mouseClick(5)" width="20" height="20"></span>
+<script type="text/javascript">//<![CDATA[
+var starSelection = 0;
+function mouseOverStar(n) {
+	for (i = 1; i <= n; i++) {
+		document.getElementById('star' + i).setAttribute('src', '/images/orangestar.png');
+	}
+	for (i = n + 1; i <= 5; i++) {
+		document.getElementById('star' + i).setAttribute('src', '/images/graystar.png');
+	}
+}
+
+function mouseOut() {
+	mouseOverStar(starSelection);
+}
+
+function mouseClick(n) {
+	starSelection = n;
+	mouseOverStar(n);
+	ajax('page_ratings.php', 'rating=' + n 
+			+ '&url=' + escape(document.location.href) 
+			+ '&screenWidth=' + screen.width 
+			+ '&screenHeight=' + screen.height
+			+ '&colorDepth=' + screen.colorDepth
+			+ '&cookiesEnabled=' + navigator.cookieEnabled);
+    if(confirm("Would you like to write a comment?")) {
+        document.location.href = 'contact.php?tag=ranking';
+    };
+}
+//]]></script>
+
 </td>
 </tr>
 </tbody></table></td></tr>
@@ -171,18 +198,18 @@ This document was last updated on April 15, 2013<br><br>
 <tbody><tr><td class="left" style="width: 25%"><a class="contact" href="/usefullinks.php">Useful links</a></td>
 <td class="center" style="width: 50%"> in your language:
 <br>
-        <a class="m" href="http://de.numberempire.com/privacypolicy.php" lang="de" hreflang="de">Deutsch</a>
-        <b>    <a class="m" href="http://www.numberempire.com/privacypolicy.php" lang="en" hreflang="en">English</a>
-    </b>        <a class="m" href="http://es.numberempire.com/privacypolicy.php" lang="es" hreflang="es">Español</a>
-            <a class="m" href="http://fr.numberempire.com/privacypolicy.php" lang="fr" hreflang="fr">Français</a>
-            <a class="m" href="http://it.numberempire.com/privacypolicy.php" lang="it" hreflang="it">Italiano</a>
-            <a class="m" href="http://nl.numberempire.com/privacypolicy.php" lang="nl" hreflang="nl">Nederlands</a>
-            <a class="m" href="http://pl.numberempire.com/privacypolicy.php" lang="pl" hreflang="pl">Polski</a>
-            <a class="m" href="http://pt.numberempire.com/privacypolicy.php" lang="pt" hreflang="pt">Português</a>
-            <a class="m" href="http://ru.numberempire.com/privacypolicy.php" lang="ru" hreflang="ru">Русский</a>
-            <a class="m" href="http://zh.numberempire.com/privacypolicy.php" lang="zh" hreflang="zh">中文</a>
-            <a class="m" href="http://ja.numberempire.com/privacypolicy.php" lang="ja" hreflang="ja">日本語</a>
-            <a class="m" href="http://ko.numberempire.com/privacypolicy.php" lang="ko" hreflang="ko">한국어</a>
+        <a href="http://de.numberempire.com/privacypolicy.php" hreflang="de" rel="alternate">Deutsch</a>
+        <b>    <a href="http://www.numberempire.com/privacypolicy.php" hreflang="en" rel="alternate">English</a>
+    </b>        <a href="http://es.numberempire.com/privacypolicy.php" hreflang="es" rel="alternate">Español</a>
+            <a href="http://fr.numberempire.com/privacypolicy.php" hreflang="fr" rel="alternate">Français</a>
+            <a href="http://it.numberempire.com/privacypolicy.php" hreflang="it" rel="alternate">Italiano</a>
+            <a href="http://nl.numberempire.com/privacypolicy.php" hreflang="nl" rel="alternate">Nederlands</a>
+            <a href="http://pl.numberempire.com/privacypolicy.php" hreflang="pl" rel="alternate">Polski</a>
+            <a href="http://pt.numberempire.com/privacypolicy.php" hreflang="pt" rel="alternate">Português</a>
+            <a href="http://ru.numberempire.com/privacypolicy.php" hreflang="ru" rel="alternate">Русский</a>
+            <a href="http://zh.numberempire.com/privacypolicy.php" hreflang="zh" rel="alternate">中文</a>
+            <a href="http://ja.numberempire.com/privacypolicy.php" hreflang="ja" rel="alternate">日本語</a>
+            <a href="http://ko.numberempire.com/privacypolicy.php" hreflang="ko" rel="alternate">한국어</a>
     </td>
 <td class="right">
 <a class="contact" href="/contact.php">Contact webmaster</a>
@@ -197,14 +224,14 @@ This document was last updated on April 15, 2013<br><br>
 <tr class="center"><td class="text">
 <span style="color:gray" class="m">
 By using this website, you signify your acceptance of <a href="/termsandconditions.php">Terms and Conditions</a> and <a href="/privacypolicy.php">Privacy Policy</a>.
-<br>Copyright 2014 
+<br>© 2015 
 numberempire.com
 All rights reserved
 </span><br>
 
 </td></tr>
 </tbody></table>
-  <script src="/js/36/ne.js" async=""></script>
+  <script src="/js/40/ne.js" async=""></script>
 <script type="text/javascript">
 
 //POST_PROCESSING_JS
