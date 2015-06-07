@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorsportauctions.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201031041id_/http%3A//www.motorsportauctions.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorsportauctions.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608004744id_/http%3A//www.motorsportauctions.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
 # 
 
@@ -114,7 +114,7 @@ Cheltenham
 GL51 0GA  
 UK 
 
-Copyright © 2014 Motorsport Auctions Ltd. All Rights Reserved.
+Copyright © 2015 Motorsport Auctions Ltd. All Rights Reserved.
 
 Use of this Web site constitutes acceptance of our Terms and Conditions and our Privacy Policy.   
 Designated trademarks and brands are the property of their respective owners.
