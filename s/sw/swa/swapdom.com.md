@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swapdom.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120055620id_/http%3A//www.swapdom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swapdom.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607041213id_/http%3A//www.swapdom.com/privacy) for the most accurate reproduction.*
 
 # Swapdom Privacy Policy
 
@@ -22,7 +22,7 @@ The following describes the types of personal and other information we may colle
 
  **Correspondence.** If you correspond with us via email, we may gather in a file specific to you the information that you submit. We may keep this information indefinitely.
 
- **Promotions.** We will collect information you give us when you participate in any promotion sponsored by Swapdom, such as a sweepstakes or contest. You will typically be asked to provide your name, email address, and mailing address to participate in a Swapdom promotion. We store this information in our database and will use it to communicate with you about the promotion. We may also use this information to promote the Service to you in the future, unless you inform us that you opt out from receiving such communications.
+ **Promotions.** We will collect information you give us when you register or you participate in any promotion sponsored by Swapdom, such as a sweepstakes or contest. You will typically be asked to provide your name, email address, and mailing address to participate in a Swapdom promotion. We store this information in our database and will use it to communicate with you about the promotion. We may also use this information to promote the Service to you in the future, unless you inform us that you opt out from receiving such communications.
 
  **URL and IP addresses.** Like many other websites, we collect information about our users’ utilization and navigation of the Site and the Service. This information helps us to design the Site and the Service to better suit our users’ needs. For example, the Site will track the URL that you visited before you came to the Site, the URL to which you next go and your Internet Protocol (IP) address. We use your IP address to help diagnose problems with our server and to administer the Site and the Service. Your IP address also is used to help identify you and to gather broad demographic information.
 
