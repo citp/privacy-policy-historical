@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aauw.org privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226091757id_/http%3A//www.aauw.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aauw.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142344id_/http%3A//www.aauw.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : AAUW: Empowering Women Since 1881
 
@@ -13,10 +13,6 @@ AAUW does not collect any personally identifying information from users browsing
 Occasionally, we will ask you to provide personally identifiable information such as when you send a secure contribution. Like many nonprofit organizations, AAUW obtains the names of potential supporters by renting membership lists of like-minded organizations and publications. Sometimes, instead of paying the rental fee, AAUW exchanges its list with another group’s list for a single use. By receiving mail from other similar groups, you help AAUW grow its programs and services. You may have your name excluded from any lists that AAUW sells or exchanges by contacting [connect@aauw.org](mailto:connect@aauw.org).
 
 Personal information in e-mails sent to staff or AAUW leaders will be used to answer questions, address problems or complaints, or otherwise improve service. With any electronic communication, interception by unauthorized third parties is possible, so you may wish to transmit particularly confidential or sensitive information by regular mail.
-
-## Cookies
-
-The AAUW website uses cookies in order to recognize users who are registered to access certain resources, to store user settings for subsequent visits to the site, and to generate usage statistics. Cookies are not evaluated and are never used to track website visitors.
 
 ## Member Tools and Communications
 
