@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lumoslearning.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206124658id_/http%3A//lumoslearning.com/llwp/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lumoslearning.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607161826id_/http%3A//lumoslearning.com/llwp/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy | Lumos Learning
+# Privacy - Lumos Learning
 
 This privacy statement is designed to help you understand how we use and safeguard the personal information you provide to us. This privacy statement describes the practices of LumosTestPrep.com, LumosEditor.com, and Lumos Information Services.
 
