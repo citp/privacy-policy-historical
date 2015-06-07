@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theleadmagnet.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120050303id_/http%3A//theleadmagnet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theleadmagnet.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607040540id_/http%3A//www.theleadmagnet.com/privacy.php) for the most accurate reproduction.*
 
 # The Lead Magnet - Your #1 List Builder
 
