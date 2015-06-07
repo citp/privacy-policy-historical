@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babesrater.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701041151id_/http%3A//babesrater.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babesrater.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607124552id_/http%3A//babesrater.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
