@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geni.us privacy policy that was archived on 2014-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140823155852id_/http%3A//www.georiot.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geni.us privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607224306id_/http%3A//www.georiot.com/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GeoRiot
 
