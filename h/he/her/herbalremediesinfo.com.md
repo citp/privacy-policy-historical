@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herbalremediesinfo.com privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924153930id_/http%3A//www.herbalremediesinfo.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbalremediesinfo.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144351id_/http%3A//www.herbalremediesinfo.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Herbal Remedies Info
 
@@ -46,4 +46,5 @@ If you do not agree to our Privacy Policy as posted here on this website, please
 
 Your use of this site indicates acceptance of this privacy policy.
 
-[](http://digg.com/submit?url=http%3A%2F%2Fwww.herbalremediesinfo.com%2Fprivacy-policy.html&title=Privacy+Policy)[](mailto:?subject=Privacy%20Policy&body=http://www.herbalremediesinfo.com/privacy-policy.html)[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.herbalremediesinfo.com%2Fprivacy-policy.html&media=&description=Privacy+Policy)[](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.herbalremediesinfo.com%2Fprivacy-policy.html)[ ](https://www.linksalpha.com/social/mobile)
+[](http://canthai.selfsuff1.hop.clickbank.net/?x=herbal)   
+
