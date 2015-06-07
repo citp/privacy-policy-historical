@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partstree.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120111622id_/http%3A//www.partstree.com/resources/%3Fc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partstree.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200453id_/http%3A//www.partstree.com/resources/%3Fc%3Dprivacy) for the most accurate reproduction.*
 
 # Lawn Mower Parts, Small Engine Parts & Much More! | PartsTree.com - Briggs, MTD, Toro, Cub Cadet, Husqvarna, Troy-bilt...
 
@@ -31,7 +31,7 @@ We use the information you provide about someone else when placing an order only
 
 We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
-After placing an order on this site, you may receive the opportunity to provide feedback on your experience to ResellerRatings.com, an independent customer review service. If you are selected for this opportunity, we will use the email address provided during the ordering process to send this one-time invitation. The survey is entirely voluntary and has no impact on your order. If you choose to complete the survey, any feedback information collected by ResellerRatings.com is governed by their privacy policy which is available at <http://www.resellerratings.com/privacy-policy>.
+After placing an order on this site, you may receive the opportunity to provide feedback on your experience to ShopperApproved.com, an independent customer review service. If you are selected for this opportunity, we will use the email address provided during the ordering process to send this one-time invitation. The survey is entirely voluntary and has no impact on your order. If you choose to complete the survey, any feedback information collected by ShopperApproved.com is governed by their privacy policy which is available at <http://www.shopperapproved.com/privacypolicy.php>.
 
 We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
 
