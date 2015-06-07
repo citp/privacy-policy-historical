@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diagnose-me.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223193852id_/http%3A//www.diagnose-me.com/privacy_policy.html%3Fn%3Db) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diagnose-me.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607164621id_/http%3A//www.diagnose-me.com/privacy_policy.html%3Fn%3Db) for the most accurate reproduction.*
 
 # Diagnose-Me - Privacy Policy
 
@@ -48,10 +48,6 @@ You will not be added to any email list. Your contact details will never be sold
 ### Emails sent to Diagnose-Me.com
 
 This Privacy Policy does not apply to content, business information, ideas, concepts or inventions that you send to Diagnose-Me.com by email. If you want to keep content or business information, ideas, concepts or inventions private or proprietary, do not send them in an email to Diagnose-Me.com. We try to answer every email within 24 business hours, but are not always able to do so. 
-
-### Message Boards and other Public Forums
-
-As a service to our users, Diagnose-Me.com features a public forum where users with similar interests or medical conditions can share information and support one another or where users can post questions for experts to answer. Any information shared (including PII and PHI) that you reveal in the discussion forum is by design open to the public and is not a private, secure service. You should think carefully before disclosing any personally identifiable or PHI in any public forum. What you have written may be seen, disclosed to or collected by third parties and may be used by others in ways we are unable to control or predict, including to contact you for unauthorized purposes. As with any public forum on any site, this information may also appear in third-party search engines. 
 
 ### Subscription Services
 
@@ -119,7 +115,7 @@ Diagnose-Me.com accepts changes by email from the person who originally submitte
 
 ### Removing your Personal Information
 
-If you have a complaint or problem, please use our [Contact Us](https://web.archive.org/web/20141223193852id_/http%3A//www.diagnose-me.com/contact.html) page. Our customer service department will forward your complaint to the appropriate internal Diagnose-Me.com department for a response or resolution. We try to answer every email within 24 business hours, but may not always able to do so. If you want to delete/update your PII and PHI that you have provided to us from/on our systems, simply provide written instructions or click on the appropriate action link in one of our emails to you.
+If you have a complaint or problem, please use our [Contact Us](https://web.archive.org/web/20150607164621id_/http%3A//www.diagnose-me.com/contact.html) page. Our customer service department will forward your complaint to the appropriate internal Diagnose-Me.com department for a response or resolution. We try to answer every email within 24 business hours, but may not always able to do so. If you want to delete/update your PII and PHI that you have provided to us from/on our systems, simply provide written instructions or click on the appropriate action link in one of our emails to you.
 
 If you do not receive adequate resolution of a privacy-related problem, you may write to Diagnose-Me.com's Privacy Office at:
 
