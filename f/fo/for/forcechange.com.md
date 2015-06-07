@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the forcechange.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218002718id_/http%3A//forcechange.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forcechange.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144926id_/http%3A//forcechange.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ForceChange
+# Privacy Policy | ForceChange
 
 Black Bear Media, a Limited Liability Company, (“the Company”, “we”, “ForceChange” or “us”) has established this privacy policy to explain to you how your information on ForceChange is protected, collected and used, which may be updated by us from time to time.
 
@@ -23,6 +23,12 @@ You can remove or block cookies using the settings in your browser, but in some 
 To remove yourself from a ForceChange email list, simply click “unsubscribe” at the bottom of the email. Notwithstanding the foregoing the Company maintains the right at all times to contact its members for business related purposes (some examples include, but are not limited to: (i) if a user requests a new password, (ii) if the Company chooses to alert its users about a site-related issue, or (iii) in response to an action taken by you using the Company’s products and/or services, such as signing a petition or updating your profile).
 
 If you create a profile on ForceChange, it will be visible to the public, anyone can view it and your profile may be indexed by internet search engines.
+
+If you sign a petition or leave a comment on the site, your name and/or comment will be publicly visible.
+
+We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services. No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies or learn more please go to http://www.networkadvertising.org/managing/opt_out.asp. 
+
+Additionally, emails we send may contain a bit of code known as a “web beacon.” This code allows us to understand the time and date of when a user has opened an email and when he/she has utilized a link within the email to visit a website. Our web beacons do not collect personally identifiable information. Users wishing to disable our web beacons should do so by turning images “off” in their email client (e.g., Outlook, Outlook Express). Please see your email client for more information.” 
 
 Your ForceChange account is password-protected. It is your obligation to safeguard your password. To update your password, login to your account, click on “Edit My Profile” and then change your password.
 
