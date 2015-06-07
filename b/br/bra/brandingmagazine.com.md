@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brandingmagazine.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609094750id_/http%3A//www.brandingmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandingmagazine.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607194615id_/http%3A//www.brandingmagazine.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Branding Magazine
 
 **How do we protect your information?**
 
