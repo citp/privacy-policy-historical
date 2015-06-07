@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobileye.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121061738id_/http%3A//www.mobileye.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileye.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200222id_/http%3A//www.mobileye.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mobileye
 
@@ -30,9 +30,9 @@ The information which Mobileye collects from visitors to the site is intended to
 
 Mobileye will only transfer the relevant personal information collected about users to third parties in the following cases:
 
-\- Information as necessary to comply with the requirements imposed by law, regulation, legal proceedings, or at the demand of any other competent authority.
+– Information as necessary to comply with the requirements imposed by law, regulation, legal proceedings, or at the demand of any other competent authority.
 
-\- In the event you breach the terms of use, including these terms or if you perform illegal actions, or attempt to perform such actions.
+– In the event you breach the terms of use, including these terms or if you perform illegal actions, or attempt to perform such actions.
 
 A visitor who does not wish to receive information about products and services can choose to be removed from the distribution list  when receiving such information.
 
