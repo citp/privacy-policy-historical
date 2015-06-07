@@ -1,130 +1,229 @@
-> *The following text is extracted and transformed from the freedom2surf.net privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121050620id_/http%3A//www.talktalkbusiness.co.uk/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedom2surf.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607182331id_/http%3A//www.talktalkbusiness.co.uk/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TalkTalk Business
 
-**TalkTalk Business is committed to protecting and preserving your privacy.**
+### AIM
 
-**This policy (together with our[Terms of Use](https://web.archive.org/legal/terms-of-use/) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us online or on our mobile service, will be processed by us.  ** **Please read the following privacy policy to understand how we use and protect the information you provide to us.**
+The aim of this policy is to provide you with information about:
 
-Download our [Privacy Policy](https://web.archive.org/elqNow/elqRedir.htm?ref=http://www.talktalkbusiness.co.uk/Documents/Legal/TTB%20Privacy%20Policy.pdf)
-
-##### About TalkTalk Business
-
-TalkTalk Business is part of the TalkTalk Group Limited group of companies, the UK’s third largest communications network operator. TalkTalk Business provides business grade services to the UK market place across two direct sales channels with a wholesale division covering the reseller and dealer market places. TalkTalk Business is a leading player in the development and delivery of next generation IP based converged voice and data services.
-
-This Privacy Policy covers all of the TalkTalk Group of companies including TalkTalk Communications Limited (3849133) registered at Stanford House, Garrett Field, Birchwood, Warrington WA3 7BH.
-
-##### When do we collect information about you?
-
-When you register for information or place an order with TalkTalk Business, we may need to collect certain information in order to provide the information you have requested or to process your order. What we need varies depending on the type of enquiry you make or what you have ordered, and the pages you are asked to complete will vary accordingly. This information is sent to us via an SSL encrypted server and will form part of a permanent record of your dealings with us.
-
-When you e-mail us, we may ask for certain information to be able to confirm your identity, check our records and answer your questions quickly and accurately. When you contact us, in any way, we may make a note of this contact if it is relevant to your permanent records. This allows us to provide a higher level of ongoing customer care.
-
-When you download or use mobile applications created by TalkTalk Business or any other companies in the TalkTalk Group Limited group of companies and, where applicable, have requested or consented to location services, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as search results, and other personalised content. Most mobile devices allow you to turn off location services. Our mobile application does not collect precise information about the location of your mobile device.
-
-We will keep your personal details given to us by you or others during your relationship with both us and other companies in the TalkTalk Group Limited group of companies (including our mobile and insurance companies).
-
-##### This information may include:
-
-  * Details you give us via the TalkTalk Business website, our mobile applications, on application forms or by e-mail or during conversations with you on the telephone or face to face with one of your representatives.
-  * Details you give us so that we can provide you with goods and services.
-  * Details we receive from another source, such as our suppliers, marketing organisations, and credit reference or fraud detection agencies.
+  * What information we collect from you and why;
+  * How we use this information; and
+  * How you can access and manage your information.
 
 
 
-##### You agree that we our Associates or agents may use and update centrally held traffic data and personal data and information:
+We are committed to protecting and preserving your information, being transparent about what data we hold and how we use it.
 
-  * for processing your enquiries, orders or applications;
-  * for credit checks and to manage your accounts;
-  * to provide you with other services which you could have from time to time. (We will only contact you in this way if you have previously shown your consent);
-  * to help to run any accounts, services and products which we provide now or in the future (or have previously provided);
-  * to carry out any marketing analysis, profiling or create statistical or testing information
-  * to recover debts
-  * to prevent and detect fraud or loss
-  * to update our records about you;
-  * to prevent money laundering; and
-  * to identify you when you contact us.
+### SCOPE
+
+This policy applies to anyone who buys or uses any of the services provided by the TalkTalk group and its companies, which includes the brands TalkTalk, TalkTalk Business, and Blinkbox.
+
+When we refer to “we” or “our” or “TalkTalk” we are referring to TalkTalk Telecom Group Plc and its subsidiaries, (including TalkTalk Communications Limited and TalkTalk Telecom Limited), or any of them, as the context requires.
+
+### OVERVIEW
+
+We collect information about you when you buy or use any of our services including services which have transferred to us when we have bought another business, or from other organisations such as credit agencies or other organisations we use to provide services to you, for example Qube. We may share this information between us so we can provide the services you order and manage your account.
+
+By using any of our services or visiting our websites you agree to our use of your information as set out in this privacy policy. This privacy policy forms part of and should be read in conjunction with the terms and conditions on our websites and any additional terms you are provided with in relation to our services.
+
+INFORMATION WE COLLECT
+
+1.)  Information you give us
+
+When you place an order with us for any of our services we will need certain information to process your order. This may be information such as your name, private/business email or postal address, telephone or mobile number, date of birth, financial or credit card information to help us identify you and to provide a service to you. We may ask for other information that relates to the service you are using or ordering.
+
+When you contact us to discuss your services using [MyAccount](https://myaccount.talktalkbusiness.co.uk/login/?ReturnUrl=/Home/) or [Contact Us](http://www.talktalkbusiness.co.uk/contact-us/) (or on our online chat support) we may ask for certain information to be able to confirm your identity, check our records and answer your questions quickly and accurately.
+
+If you complete any survey or enter any competitions we may ask for information about you, which we will make clear to you at the time and for the purpose we will be using this information.
+
+2.)  Information we automatically collect
+
+We will automatically collect information:when you **use our services** , such as the amount of time you spend online, the channels and programmes you watch and record, the websites you visit, or when you make a call the number, destination and length of your call, which we need to help manage our network and for billing purposes; and
+
+when you **visit our websites or use our mobile applications** , we may collect and process information about your usage of these by using “cookies” and other similar technologies (see **Cookies** ) to help us make improvements to the websites and to the services we make available.
+
+When you download or use mobile applications created by us and, where applicable, have requested or consented to location services, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with **location-based services** , such as search results, and other personalised content. Most mobile devices allow you to turn off location services. Our mobile application does not collect precise information about the location of your mobile device.
+
+3.)  Information we receive from other sources.
+
+We may receive personal information about you from third parties, such as companies contracted by us to provide services to you, other telecommunications operators, marketing organisations, and credit reference agencies ( **CRA’s** ) or fraud prevention agencies ( **FPA’s** ) – see **credit checks**.
+
+### HOW WE USE INFORMATION
+
+The information we collect helps us to better understand what you need from us and to improve the provision of our services to you.
+
+We use the information collected for example to:
+
+  * verify your identity when you use our services or contact us;
+  * process your enquiries, orders or applications, for example when assessing an application, we may use automated decision making systems and to provide your services;
+  * carry out credit checks and to manage your accounts - see credit checks.
+  * monitor, record, store and use any telephone, e-mail or other electronic communications with you for training purposes, so that we can check any instructions given to us and to improve the quality of our customer service, and in order to meet our legal and regulatory obligations.
+  * where you have agreed, we will provide you with information about other TalkTalk services, offers or products which you may be interested in - **Marketing Preferences**.
+  * to tell you about changes to our websites, services or terms and conditions.
+  * carry out any marketing analysis, profiling or create statistical or testing information to help us personalise the services we offer you and to understand what our customers want.
+  * recover any monies you may owe to us for using our services.
+  * for analysis of our services with the aim of improving them.
+  * to enable you to earn or redeem your ‘Tesco Clubcard’ loyalty points (where applicable).
+  * to prevent or detect a crime, fraud or misuse of, or damage to our network, and to investigate where we believe any of these have occurred;
+  * monitor network traffic from time to time for the purposes of backup and problem solving, for example our automated system may monitor email subjects to help with spam and malware detection.
 
 
 
-When assessing an application, we may use automated decision making systems.
+Your data may also be used for other purposes for which you give your specific permission or, in very limited circumstances, when required by law or where permitted under the terms of the Data Protection Act 1998 - sharing information.
 
-Where you have been introduced to TalkTalk Business by an authorised dealer of TalkTalk Business you agree that TalkTalk Business and your dealer shall be entitled to view your account information from time to time for the purposes of maintaining your account and improving the services we provide to you.
+### CREDIT CHECKS
 
-If you do not become our customer or if your application is declined we will continue to hold information about you for such periods as we determine for the purpose of dealing with enquiries, complying with any legal obligation and for crime and fraud prevention and detection.
+When you apply to buy products and services from us we may carry out a credit check. This means we may need to check certain records about you, these may include:
 
-If you request it, on payment of a fee, which is currently £10, we will provide you with a copy of the personal information to which you are entitled that we hold about you.  This request must be in writing to TalkTalk Business, c/o The Data Controller, No.1 Triangle Business Park, Quilters Way, Stoke Mandeville, Buckinghamshire HP22 5BL
+  * Our own;
+  * records at CRAs. Information on applications for our products and services will be sent to CRAs, when CRAs receive a search from us they will place a search footprint on your credit file that may be seen by other organisations. They supply to us both public (including the electoral register) and shared credit and fraud prevention information. If you tell us about a spouse or financial associate, we will link your records together. CRA’s also link your records together, and these searches will be recorded by CRAs. We may disclose information about how you run your accounts to the CRA’s;
+  * those at FPA’s. We and other organisations may access and use from other countries the information recorded by fraud prevention agencies; or
+  * If you are a director of an organisation, we will seek confirmation, from credit reference agencies, that the residential address that you provide is the same as that shown on the restricted register of directors’ usual addresses at Companies House.
 
-The information we hold about you is confidential. We will only disclose it outside the TalkTalk Group:
 
-  * to provide or to help us improve the services you have asked for;
+
+It is important that you give us accurate information. If you give us false or inaccurate data and we suspect fraud we will record this with the FPA’s.
+
+### SHARING INFORMATION
+
+We will only share your information with organisations outside TalkTalk:
+
+  * with your consent if we are using information for a purpose other than as set out in this Privacy Policy;
+  * involved in the running or managing of your accounts or providing services to you for us (e.g. customer support, or a courier company if you have asked us to send something to you);
+  * to help us improve the services we are providing;
   * as part of the process of selling one or more of our businesses;
-  * to provide information for legal or regulatory purposes;
-  * as part of current or future legal proceedings; or
-  * to enable us to manage your account.
+  * as part of current or future legal proceedings; 
+  * who are part of the Tesco Group for the purpose of its ‘Tesco Clubcard’ loyalty scheme, where you have provided us with your Tesco Clubcard details;
+  * in response to properly made requests from law enforcement agencies for the prevention and detection of a crime, or for the purpose of safeguarding national security; or when the law requires us to, such as in response to a court order, or other lawful demand or powers contained in legislation; or
+  * in response to properly made requests from regulatory bodies such as the Information Commissioners Office and Ofcom, for example where you contact Ofcom asking them to investigate a complaint in respect of the provision of the our services to you, they may request information from us to enable them to investigate and make a decision in respect of this matter. We will need to provide them with the relevant information we hold relating to your account.
 
 
 
-From time to time these other people and organisations may be outside the European Economic Area in countries that do not always have the same standard of data protection laws as the UK. However, we will have a contract in place to ensure that your information is adequately protected and we will remain bound by our obligations under the Data Protection Act 1998 even when your personal information is processed outside Europe.
+Where we share your information with third parties they are required to follow our express instructions in respect of the use of your personal information and they must comply with the requirements of the Data Protection Act or any other relevant legislation to protect your information and keep it secure.
 
-##### Use of Cookies
+From time to time these other people and organisations may be outside the European Economic Area in countries that do not always have the same standard of data protection laws as the UK. However, we will have a contract in place to ensure that your information is adequately protected and we will remain bound by our obligations under the Data Protection Act 1998 (as amended from time to time) even when your personal information is processed outside Europe.
 
-This website and our mobile applications use cookies. Cookies collect information about your use of the website and the mobile applications, including things like your connection speed, details of your operating system, the time and duration of your visit and your IP address. The information collected by cookies enables us to understand the use of our site, including the number of visitors we have, the pages viewed per session, time exposed to particular pages etc. This in turn helps us to provide you with a better experience, since we can evaluate the level of interest in the content of our website and tailor it accordingly. We will not attempt to personally identify you from your IP address unless required to as a matter of law or regulation or in order to protect our or our other customers' rights.
+### HOW LONG DO WE HOLD YOUR INFORMATION
 
-Most browsers automatically accept cookies. You can set your browser options so that you will not receive cookies and you can also delete existing cookies from your browser.  However, you may find that some parts of the site will not function properly if you disable cookies.  If you'd like to learn how to manage these cookies and 'opt in' and 'out' of different types please see our Cookies Policy. However, you may find that some parts of the site will not function properly if you disable cookies.
+The time period for which we keep information varies according to what the information is used for. Unless there is a specific legal requirement for us to keep information, we will keep your information for as long as it is relevant and useful for the purpose for which it was collected (and which you agreed to).
 
-##### Monitoring
+For example, when you contact us we may monitor and record your communications with us to use this information for training and quality purposes, and to meet our legal and regulatory requirements. Where we record calls, these call recordings are only held for a limited period of time before we delete them permanently.
 
-We may monitor, record, store and use any telephone, e-mail or other electronic communications with you for training purposes, so that we can check any instructions given to us and to improve the quality of our customer service.
+We will continue to hold information about you, if you do not become our customer, your application is declined, or even after you have closed your account or terminated your services with us. We will only hold such information for such periods as is necessary for the purpose of dealing with enquiries, offering TalkTalk products and services you may be interested in, complying with any legal obligation and for crime and fraud prevention and detection.
 
-We will monitor network traffic from time to time for the purposes of backup and problem solving and in order to ensure that you are not misusing any of the services provided to you.
+The law requires us to keep certain information about how you use our services for a period of 12 months. This information may be used by certain law enforcement agencies to prevent and detect crime and to protect national security; we will only disclose this information to them when we are legally required to.
 
-##### Protecting your Privacy
+### ACCESSING YOUR INFORMATION
 
-To the extent that sensitive personal data is processed about you, we will employ appropriate security measures given the nature of that data. However, you recognise that your use of the internet, our website and mobile applications is entirely at your own risk. We have tried to create a secure and reliable website and mobile applications for our users. However, we have no responsibility or liability for the security of personal information transmitted via the internet.
+The Data Protection Act entitles you find out what information we hold about you. If you want to find out what information we hold you will need to submit a request in writing to **c/o The Data Controller, Data Protection Office, PO Box 390, Southampton SO30 9AQ** together with a cheque for £10 (to cover our costs of processing the information) made payable to:
 
-We may need to provide some of your personal information to third parties that we use for the purpose of delivering specific services to you (e.g. customer support, or a shipping company if you have asked us to send something to you).
+  * if you are a business customer: TalkTalk Communications Limited; or
+  * if you are a residential customer: TalkTalk Telecom Limited; or
+  * if you are a Blinkbox customer: Blinkbox Entertainment Limited
 
-Our website may provide links and banner advertisements to third party sites. Please note that we are not responsible for, and have no control over, information that is submitted to or collected by these third parties. Since we do not control those websites, you are responsible for reviewing and abiding by the privacy policies of those third party sites.
 
-##### Accurate Information
 
-We may check what you have told us and share that information with fraud prevention agencies. It is important that you give us accurate information. If you give us false or inaccurate data and we suspect fraud we will record this with the fraud prevention agencies.
+We may ask you to provide us with proof of your identity to make sure we are giving your information to the right person.
 
-You are responsible for informing us that your personal details have changed; for example, a change of address or to your title. You confirm that you will inform us of any change to your personal information as soon as is reasonably practicable in order that we may update our records. Please note that notification of any change to your personal information must be in writing (to the address below), and should include your account number and/or telephone numbers with us.
+To help us process your request you will need to provide the following information:
 
-##### Contacting You
+  * account number(s);
+  * telephone number(s);
+  * address; and
+  * date and time (if requesting a call recording);
 
-You may have the opportunity to consent to us contacting you by e-mail, telephone, SMS or MMS from time to time about products and services which the TalkTalk Group of companies and carefully selected third parties believe may be of interest to you.
 
-If you no longer wish TalkTalk Business to contact you with details of products, services and special offers, please contact us either by telephone or in writing and we will remove you from our subscription list.
 
-##### Security
+If any of your information is incorrect or your personal details have changed you can either:
 
-You must not use any computers, computer equipment, network resources or any services provided by us for any illegal purpose, or for accessing, receiving or transmitting any material deemed by us to be illegal, indecent, offensive or otherwise unacceptable.
+  * notify us in writing, and we will update your details; or
+  * update your details within the My Details section of [MyAccount](https://myaccount.talktalkbusiness.co.uk/login/?ReturnUrl=/Home/).
 
-You must not use any false identity in e-mail or other network communications.
 
-You must not use the services and/or network systems or any part thereof for fraudulent activities, or to breach another organisation's security (cross-network hacking). This is an illegal act and may result in criminal prosecution.
 
-##### Consent and Changes to Privacy Policy
+### MARKETING PREFERENCES
 
-By using this website or our mobile applications you are consenting to this privacy policy.
+Where you have agreed to us contacting you either when you joined or via your preferences on My Account, we will contact you with details of products, services and special offers that we believe you may be interested in. If you change your mind and do not want to us to send you marketing messages you can do this in a number of ways:
+
+  * calling our customer services on the phone number set out at Contact Us.
+  * writing to us at the contact details at Contact Us.
+  * online within the My Details section of [MyAccount](https://myaccount.talktalkbusiness.co.uk/login/?ReturnUrl=/Home/).
+  * changing your cookie settings - Cookies.
+
+
+
+If you notify us in any of the above ways we will stop sending you marketing messages, but we will still need to send you service related messages including changes to services or terms and conditions.
+
+### COOKIES
+
+Our websites and mobile application use cookies. Cookies collect information about your use of our website and any of our mobile applications you download, including things like your connection speed, details of your operating system, the time and duration of your visit and your IP address. The information collected by cookies enables us to understand the use of our site, including the number of visitors we have, the pages viewed per session, time exposed to particular pages etc. This in turn helps us to provide you with a better experience, since we can evaluate the level of interest in the content of our website and tailor it accordingly. We will not attempt to personally identify you from your IP address unless required to as a matter of law or regulation or in order to protect our or our other customers' rights.
+
+Most browsers automatically accept cookies. You can set your browser options so that you will not receive cookies and you can also delete existing cookies from your browser. However, you may find that some parts of the site will not function properly if you disable cookies.
+
+If you'd like to learn how to manage these cookies and 'opt in' and 'out' of different types:
+
+  * If you are a TalkTalk Telecom customer please see our Cookies Policy [here](http://www.talktalk.co.uk/legal/manage-cookies.html); and
+  * If you are a TalkTalk Business customer please see our Cookies Policy [here](http://www.talktalkbusiness.co.uk/cookie-policy/).
+
+
+
+### CHILDREN AND TALKTALK
+
+We do not specifically collect information about children and believe that children should always get the consent of their parents before giving out any personal information. Where children are specifically encouraged to participate on our websites or using our services (including using our mobile service), they will be advised that they should seek parental permission before then continue to with the activity. We recommend that parents actively participate and where possible monitor their children’s use of the internet and the website – **Homesafe and Worksafe**.
+
+### HOMESAFE AND WORKSAFE
+
+##### Homesafe (TalkTalk Telecom Customers)
+
+We will keep a record if you have activated or de-activated Homesafe. Information held after deactivation will be only for operational purposes to enable us to identify or trace a fault if required. We do not keep a record of the websites you have sought to block.
+
+##### Worksafe (TalkTalk Business Customers)
+
+We will keep a record of the following information if you have activated Worksafe to enable it to operate in accordance with your instructions:
+
+(a) your activation of anti-malware and web filtering;  
+(b) The website categories you wish to block;  
+(c) Websites you have added to you “Whitelist” and “Blacklist”.  
+(d) hours of the day you wish the filters to operate.
+
+### PROTECTING YOUR INFORMATION
+
+We take protecting your data seriously, and will do our utmost to employ appropriate organisational and technical security measures to protect your against unauthorised disclosure or processing.
+
+Unfortunately we cannot guarantee the security of transmitting information via the internet. We have tried to create a secure and reliable website and mobile application for our users. However, we have no responsibility or liability for the security of personal information transmitted via the internet.
+
+### CHANGES TO PRIVACY POLICY
 
 Please note that this policy will be reviewed and may change from time to time. The revised policy will be posted to this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it.
 
-##### Decision Making
+### CONTACT US
 
-Any decision made by us in relation to the services provided to you shall be final.
+If you feel we have breached your privacy, want us to update your marketing preferences, or amend your information, please contact us either:
 
-##### Contact Us
+##### If you are a customer of TalkTalk Business
 
-If you feel we have breached your privacy, then please write to:
+In writing at:
 
-TalkTalk Business  
+TalkTalk Business Customer Services  
 PO Box 136  
 Birchwood  
 Warrington  
-WA3 7WU
+WA3 7BH
 
-Or call customer services on 0800 083 3003.
+By Phone at:
+
+0800 083 3003
+
+##### If you are a customer of TalkTalk Telecom
+
+In writing at:
+
+TalkTalk Telecom Limited  
+TalkTalk Customer Relations Department  
+P.O. Box 346  
+Southampton  
+SO30 2PW
+
+By Phone at:
+
+0870 444 1820
