@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pointclickcare.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202050637id_/http%3A//www.pointclickcare.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointclickcare.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608001246id_/http%3A//www.pointclickcare.com/us/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -19,6 +19,16 @@ Wescom Solutions may also collect certain information from visitors to and custo
   
 **Cookies**  
 Cookies are files that Web browsers place on a computer's hard drive and are used to tell us whether customers and visitors have visited the Site previously. Wescom Solutions uses a persistent cookie to help save and retrieve user names of customers accessing the Site. Wescom Solutions issues a session cookie only to record encrypted authentication information for the duration of a specific session. The session cookie does not include the username or password of the user. If the cookie is rejected, access to and usage of the Service will be denied.
+
+PointClickCare.com uses remarketing with Google Analytics to advertise online.
+
+Third-party vendors, including Google, may show you ads on sites across the Internet.
+
+PointClickCare and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to PointClickCare.com. This information is also used to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to PointClickCare.com.
+
+PointClickCare uses data from Google's Interest-based advertising or 3rd-party audience data (such as age, gender, and interests) with Google Analytics to optimize ads and improve website usability for our target audience.
+
+By using the following [Ads Settings](https://www.google.com/settings/ads), users can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads. Users are also able to opt-out of sharing data with Google Analytics with the following browser add on: [browser opt-outs](https://tools.google.com/dlpage/gaoptout/).
 
   
 **Third Party Sites**  
