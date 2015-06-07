@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfbooksworld.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122080025id_/http%3A//www.pdfbooksworld.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfbooksworld.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144800id_/http%3A//www.pdfbooksworld.com/Privacy-Policy) for the most accurate reproduction.*
 
 # PDFBooksWorld Privacy Policy
 
@@ -10,7 +10,7 @@ We recognize the importance of protecting your privacy and our policy is designe
 
 Contents and eBooks in this website may not be suitable for all readers. Only readers above 13 years of age can use our website through membership registration. PDFBooksWorld reserves the right to deny or deactivate memberships anytime now or in future without assigning any reasons.
 
- **Download Limitations For Free Members**
+ **Download Limitations For Free Members (2 Books Per Day)**
 
 Excessive download of books are not allowed for free members and if we notice, such user's IP will be blocked permanently from accessing our site.  **  
 **
