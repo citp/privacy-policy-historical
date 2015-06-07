@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gentsco.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129072353id_/http%3A//gentsco.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gentsco.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607160928id_/http%3A//gentsco.com/privacy-policy.html) for the most accurate reproduction.*
 
 # About | Privacy Policy
 
@@ -48,4 +48,4 @@ By accessing and using the Gents website (including registering on the website o
 
 ## Contact Us
 
-If you have any comments or queries regarding our privacy policy or to update, correct or request removal of your personal information from our Customers Database, please write to Gents 6725 W Sunset Blvd, Suite 270, Los Angeles, CA 90028 or e-mail us at: service@gentsco.com
+If you have any comments or queries regarding our privacy policy or to update, correct or request removal of your personal information from our Customers Database, please write to Gents 6725 W Sunset Blvd, Suite 270, Los Angeles, CA 90028 or e-mail us at: info@gentsco.com
