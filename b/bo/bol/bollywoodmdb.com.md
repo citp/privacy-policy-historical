@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the bollywoodmdb.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106022203id_/http%3A//www.bollywoodmdb.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodmdb.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608004918id_/http%3A//www.bollywoodmdb.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### Privacy Policy for BollywoodMDB.com
-
-### The privacy of our visitors to BollywoodMDB.com is important to us.
+**The privacy of our visitors to BollywoodMDB.com is important to us.**
 
 At BollywoodMDB.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit BollywoodMDB.com, and how we safeguard your information. We never sell your personal information to third parties.
 
@@ -12,7 +10,7 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
-### Cookies and Web Beacons
+**Cookies and Web Beacons**
 
 We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
@@ -22,13 +20,15 @@ We also may use DART cookies for ad serving through Google’s DoubleClick, whic
 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-### How Secure Is Information About Me? 
+**How Secure Is Information About Me?**
 
 If you use our subscription service or our online BollywoodMDB.com store, we work to protect the security of your subscription information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.   
 It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
 
-### Children
+**Children**
 
 BollywoodMDB.com is not intended for use by children under the age of 13. If you are under the age of 13, you may not submit information about yourself to BollywoodMDB.com.
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.bollywoodmdb.com/contact). 
+
+©2015 BollywoodMDB.com. All rights reserved. 
