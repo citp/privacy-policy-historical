@@ -1,16 +1,16 @@
-<!--The following is the downloaded HTML source of the zeromotorcycles.com privacy policy that was archived on 2014-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141225154115id_/http%3A//www.zeromotorcycles.com/legal/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zeromotorcycles.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607150846id_/http%3A//www.zeromotorcycles.com/legal/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="shortcut icon" href="http://www.zeromotorcycles.com/favicon.ico?v=2">
 
 
-<link href="/css/zero.css?m=542a36b9" rel="stylesheet" type="text/css">
+<link href="/css/zero.css?m=55514d83" rel="stylesheet" type="text/css">
 
 <style type="text/css">
-	.js .hide-if-js,.no-js .hide-if-no-js{display:none;}
-	h1.maintitle {padding-top:20px;}
+.js .hide-if-js,.no-js .hide-if-no-js{display:none;}
+h1.maintitle {padding-top:20px;}
 .standard-content {margin: 0 0 20px 0;}
 .standard-content h2 {margin: 2em 0 0 0; padding:0;}
 .standard-content ul {margin:0; padding:0 0 0 1.2em;}
@@ -32,16 +32,24 @@
 <script type="text/javascript" src="http://cdn.zeromotorcycles.net/js/jquery.popupwindow_12830.js"></script>
 <script type="text/javascript" src="http://cdn.zeromotorcycles.net/js/jquery.cookie_12581.js"></script>
 <script type="text/javascript" src="/js/jquery.validate.min.js?m=542a36b7"></script>
-<script type="text/javascript" src="/js/inquiry-form-validate.js?m=542a36b7"></script>
-<script type="text/javascript" src="http://cdn.zeromotorcycles.net/js/countrydata_12244.js"></script>
+<script type="text/javascript" src="/js/inquiry-form-validate.js?m=55495b73"></script>
+<script type="text/javascript" src="http://cdn.zeromotorcycles.net/js/countrydata_13551.js"></script>
 			
 <script type="text/javascript">
 /* <![CDATA[ */
+zm_site_country='us';
 function countryChangeEvent(action,label) {
 	if(typeof pageTracker == 'undefined') return;
 	pageTracker._trackEvent('country_change',action,label);
 }
-
+function setPrefSiteCookie(site) {
+	$.cookie('zm_ps', site, { expires: 30, path: '/' });
+}
+function countryChangeClick(id,action) {
+	var sc = id.substring(id.length-2);
+	countryChangeEvent(action,zm_site_country+' => '+ sc);
+	setPrefSiteCookie(sc);
+}
 (function($){
 inquiry_form_options={
 		validator_options:{
@@ -172,11 +180,10 @@ $(document).ready(function() {
 		internationalContactWindow:{center:1,width:950,height:700,status:0,scrollbars:1,toolbar:0,resizable:1},
 		inquiryWindow:{center:1,width:580,height:750,status:0,scrollbars:1,toolbar:0,resizable:1} // no comma for the last one! IE7 problems!!
 	};
-		$('.footer-country-link').click(function(e){
-		countryChangeEvent("bottom_flag_link",'us => '+$('img',this).attr('src'));
-		$.cookie('zm_ipcountry', $(this).attr('id').substring(3), { expires: 30, path: '/' });
+	$('.footer-country-link').click(function(e){
+		countryChangeClick($(this).attr('id'),'bottom_flag_link');
 	});
-	initializeFooterForm();
+initializeFooterForm();
 	$('.popupwindow').popupwindow(windowProfiles);
 	var $menuWrapper=$('#menu-wrapper');
 	if (zmc.isMobile()){
@@ -455,7 +462,7 @@ Zero may make limited personal information available to third parties in order t
 The Zero Motorcycles App gives you the ability to email diagnostic information to the Zero Motorcycles Customer Service Group. If you choose to email the bike log information to Zero Motorcycles, it will be associated with your name and email address and may be shared with dealers, distributors and Zero Motorcycles personnel. We use this diagnostic information to resolve issues with your motorcycle and to help us improve product quality.
 </p>
 <p>
-Zero uses cookies, which share your browsing activity on our website with Google and Facebook. Google Analytics cookies measure website activity and general statistics and allow us to improve our service. This information will include your IP address and is transmitted to and stored on Google servers. Google AdWords and Facebook use cookies to add our website visitors to our remarketing ad campaigns. Remarketing cookies allow Google AdWords and Facebook to display informed and optimized ads to past website visitors as they visit other sites. The information shared with Google and Facebook does not contain your name, address, telephone number, or e-mail address.
+Zero uses cookies, which share your browsing activity on our website with Google and Facebook. Google Analytics cookies measure website activity and general statistics, including demographic and interest data, and allow us to improve our service. This information will include your IP address and is transmitted to and stored on Google servers. Google AdWords and Facebook use cookies to add our website visitors to our remarketing ad campaigns. Remarketing cookies allow Google AdWords and Facebook to display informed and optimized ads to past website visitors as they visit other sites. The information shared with Google and Facebook does not contain your name, address, telephone number, or e-mail address.
 </p>
 <p>
 Most browsers allow you to disable cookies in the “Preferences” section. Your browser may also have options to block new cookies or notify you when you receive a request for a new cookie. If you disable cookies some sections of our website may not function fully.
@@ -508,7 +515,7 @@ USA<br>
 <div class="policy-section" id="changes" name="changes">
 <h2>Changes to Zero Motorcycle’s Privacy Policy</h2>
 <p class="first">
-Last revised: November, 2014
+Last revised: February, 2015
 <br>
 This page describes the most recent updates to our Privacy Policy. We will update our privacy policy from time to time and encourage you to review it periodically.
 </p>
@@ -567,32 +574,31 @@ This page describes the most recent updates to our Privacy Policy. We will updat
 <div class="top-text">
 
 </div>
-
-<form id="address_formfooter" class="popup address-form" name="address_formfooter" action="/legal/privacy-policy.php?completed" method="post">
+<form id="address_formfooter" class="address-form" name="address_formfooter" action="/legal/privacy-policy.php?completed" method="post">
 <input type="hidden" name="posted" value="true">
-<input type="hidden" name="jscv" value="16429">
+<input type="hidden" name="jscv" value="16593">
 
 <table style="width:100%;">
+
 <tbody><tr>
-	<td><div class="inquiry-label-column"><label>Email<span class="heads-up">*</span>:</label></div></td>
-	<td>	<div class="inquiry-input-column"><input maxlength="100" name="email" size="20" type="text" value="" class="required email"></div>
-</td>
+	<td><div class="inquiry-label-column"><label>Email<span class="req-mark heads-up">*</span>:</label></div></td>
+	<td><div class="inquiry-input-column">	<input maxlength="100" name="email" size="20" type="text" value="" class="required email">
+</div></td>
 </tr>
 <tr>
-	<td><div class="inquiry-label-column"><label>First Name<span class="heads-up">*</span>:</label></div></td>
-	<td>	<div class="inquiry-input-column"><input maxlength="40" name="first_name" size="20" type="text" value="" class="required text"></div>
-</td>
+	<td><div class="inquiry-label-column"><label>First Name<span class="req-mark heads-up">*</span>:</label></div></td>
+	<td><div class="inquiry-input-column">	<input maxlength="40" name="first_name" size="20" type="text" value="" class="required text">
+</div></td>
 </tr>
 <tr>
 	<td><div class="inquiry-label-column"><label>Last Name:</label></div></td>
-	<td>	<div class="inquiry-input-column"><input maxlength="80" name="last_name" size="20" type="text" value="" class="text"></div>
-</td>
+	<td><div class="inquiry-input-column">	<input maxlength="80" name="last_name" size="20" type="text" value="" class="text">
+</div></td>
 </tr>
 <tr>
-	<td><div class="inquiry-label-column"><label>Country<span class="heads-up">*</span>:</label></div></td>
-	<td><div class="inquiry-input-column">
-	<select name="country" class="required country select">
-		<option value="">-- Select --</option>
+	<td><div class="inquiry-label-column"><label>Country<span class="req-mark heads-up">*</span>:</label></div></td>
+	<td><div class="inquiry-input-column">	<select name="country" class="required country select">
+		<option value="">-- Select country --</option>
 				<option value="AX">Aaland Islands</option>
 		<option value="AF">Afghanistan</option>
 		<option value="AL">Albania</option>
@@ -654,7 +660,7 @@ This page describes the most recent updates to our Privacy Policy. We will updat
 		<option value="DJ">Djibouti</option>
 		<option value="DM">Dominica</option>
 		<option value="DO">Dominican Republic</option>
-		<option value="TP">East Timor</option>
+		<option value="TL">East Timor</option>
 		<option value="EC">Ecuador</option>
 		<option value="EG">Egypt</option>
 		<option value="SV">El Salvador</option>
@@ -831,57 +837,55 @@ This page describes the most recent updates to our Privacy Policy. We will updat
 		<option value="ZM">Zambia</option>
 		<option value="ZW">Zimbabwe</option>
 	</select>
-	<div style="margin-top: .5em;" class="update_country">
-	<input name="update_country" class="submit hide-if-js" type="submit" value="Update">
-	</div>
-	</div></td>
+	<div class="update_country inquiry-country-update hide-if-js">
+	<input name="update_country" class="submit" type="submit" value="Update">
+	</div></div></td>
 </tr>
 <tr>
-	<td><div class="inquiry-label-column"><label>State<span class="heads-up state-field state-list-display">*</span>:</label></div></td>
-	<td><div class="state_area inquiry-input-column">
+	<td><div class="inquiry-label-column"><label>State<span class="req-mark heads-up state-field state-list-display">*</span>:</label>
+</div></td>
+	<td><div class="inquiry-input-column"><div class="state_area">
 		<input maxlength="100" name="state" size="20" type="text" value="" class="state-field state-display hidden">
 		<select name="state_list" class="state-field state-list-display required"></select>
-    </div></td>
+	</div>
+</div></td>
 </tr>
 <tr>
-	<td><div class="inquiry-label-column"><label>Postal Code<span class="heads-up">*</span>:</label></div></td>
-	<td>	<div class="inquiry-input-column"><input maxlength="40" name="zip" size="20" type="text" value="" class="required text"></div>
-</td>
+	<td><div class="inquiry-label-column"><label>Postal Code<span class="req-mark heads-up">*</span>:</label></div></td>
+	<td><div class="inquiry-input-column">	<input maxlength="40" name="zip" size="20" type="text" value="" class="required text">
+</div></td>
 </tr>
 <tr class="footer-checkbox">
-	<td colspan="2"><div class="inquiry-input-column"><input type="checkbox" name="cb_newsletter" value="1" checked="" class="footer-checkbox"> Sign me up for the newsletter</div></td>
+	<td colspan="2"><div class="inquiry-label-column"></div><div class="inquiry-input-column"><input type="checkbox" name="cb_newsletter" value="1" checked="" class="footer-checkbox"> Sign me up for the newsletter</div></td>
 </tr>
 <tr class="footer-checkbox">
-	<td colspan="2"><div class="inquiry-input-column"><input type="checkbox" name="cb_demo" value="1" class="footer-checkbox inquiry-toggle"> I would like a demo ride</div></td>
+	<td colspan="2"><div class="inquiry-label-column"></div><div class="inquiry-input-column"><input type="checkbox" name="cb_demo" value="1" class="footer-checkbox inquiry-toggle"> I would like a demo ride</div></td>
 </tr>
 <tr class="footer-checkbox">
-	<td colspan="2"><div class="inquiry-input-column"><input type="checkbox" name="cb_buy" value="1" class="footer-checkbox inquiry-toggle"> I would like to purchase a motorcycle</div></td>
+	<td colspan="2"><div class="inquiry-label-column"></div><div class="inquiry-input-column"><input type="checkbox" name="cb_buy" value="1" class="footer-checkbox inquiry-toggle"> I would like to purchase a motorcycle</div></td>
 </tr>
 <tr>
-	<td colspan="2"><div class="inquiry-input-column"><input type="checkbox" name="cb_other" value="1" class="footer-checkbox inquiry-toggle"> I have other questions</div></td>
+	<td colspan="2"><div class="inquiry-label-column"></div><div class="inquiry-input-column"><input type="checkbox" name="cb_other" value="1" class="footer-checkbox inquiry-toggle"> I have other questions</div></td>
 </tr>
 <tr>
 	<td><div class="inquiry-label-column"><label>Phone:</label></div></td>
-	<td>	<div class="inquiry-input-column"><input maxlength="20" name="phone" size="20" type="text" value="" class="text"></div>
-</td>
+	<td><div class="inquiry-input-column">	<input maxlength="20" name="phone" size="20" type="text" value="" class="text">
+</div></td>
 </tr>
 <tr>
 	<td><div class="inquiry-label-column"><label>City:</label></div></td>
-	<td>	<div class="inquiry-input-column"><input maxlength="100" name="city" size="20" type="text" value="" class="text"></div>
-</td>
+	<td><div class="inquiry-input-column">	<input maxlength="100" name="city" size="20" type="text" value="" class="text">
+</div></td>
 </tr>
 <tr>
 	<td><div class="inquiry-label-column">Product Interest:</div></td>
-	<td><div class="inquiry-input-column">
-		<select name="00N7000000215xx" title="Product Interest">
+	<td><div class="inquiry-input-column">		<select name="00N7000000215xx" title="Product Interest">
 		<option value="All Products">All Products</option>
 		<option value="Zero S">Zero S</option>
 		<option value="Zero SR">Zero SR</option>
 		<option value="Zero DS">Zero DS</option>
 		<option value="Zero FX">Zero FX</option>
-		<option value="Zero XU">Zero XU</option>
-	    </select>
-</div></td>
+	    </select></div></td>
 </tr>
 <tr>
 	<td><div class="inquiry-label-column"><label>Do you have any additional questions or requests?:</label></div></td>
@@ -889,8 +893,7 @@ This page describes the most recent updates to our Privacy Policy. We will updat
 </tr>
 <tr>
 	<td><div class="inquiry-label-column">How did you hear about us? (optional):</div></td>
-	<td><div class="inquiry-input-column">
-		<select name="00N70000002IdJJ" title="How did you hear about us? (optional)">
+	<td><div class="inquiry-input-column">		<select name="00N70000002IdJJ" title="How did you hear about us? (optional)">
 		<option value="None"></option>
 		<option value="Online">Online</option>
 		<option value="Magazine / Newspaper">Magazine / Newspaper</option>
@@ -898,8 +901,7 @@ This page describes the most recent updates to our Privacy Policy. We will updat
 		<option value="Friend">Friend</option>
 		<option value="Television">Television</option>
 		<option value="Other">Other</option>
-	    </select>
-</div></td>
+	    </select></div></td>
 </tr>
 <tr>
 	<td><div class="inquiry-label-column"></div></td>
@@ -912,7 +914,7 @@ This page describes the most recent updates to our Privacy Policy. We will updat
 </tr>
 	
 </tbody></table>
-<input type="hidden" name="jscvo" value="16447"></form>
+<input type="hidden" name="jscvo" value="16611"></form>
 
 
 
@@ -940,26 +942,27 @@ This page describes the most recent updates to our Privacy Policy. We will updat
 		<a class="flag bottom-link" href="#"><img src="http://cdn.zeromotorcycles.net/images/flags/usa_11226.jpg" alt=""> Select Country</a>
 		<div id="footer-country-menu1">
 		<div id="footer-country-menu2"><div class="footer-region">North America</div>
-<a class="footer-country-link" href="/ca/" id="cc-ca"><img src="http://cdn.zeromotorcycles.net/images/flags/canada_11226.jpg" alt="">Canada (English)</a>
-<a class="footer-country-link" href="/qc/" id="cc-qc"><img src="http://cdn.zeromotorcycles.net/images/flags/canada_11226.jpg" alt="">Canada (Français)</a>
-<a class="footer-country-link" href="/" id="cc-us"><img src="http://cdn.zeromotorcycles.net/images/flags/usa_11226.jpg" alt="">United States</a>
+<a class="footer-country-link" href="/ca/" id="footer-ca"><img src="http://cdn.zeromotorcycles.net/images/flags/canada_11226.jpg" alt="">Canada (English)</a>
+<a class="footer-country-link" href="/qc/" id="footer-qc"><img src="http://cdn.zeromotorcycles.net/images/flags/canada_11226.jpg" alt="">Canada (Français)</a>
+<a class="footer-country-link" href="/" id="footer-us"><img src="http://cdn.zeromotorcycles.net/images/flags/usa_11226.jpg" alt="">United States</a>
 <div class="footer-region-sep"></div>
 <div class="footer-region">Europe</div>
-<a class="footer-country-link" href="/de/" id="cc-de"><img src="http://cdn.zeromotorcycles.net/images/flags/germany_11226.jpg" alt="">Deutschland</a>
-<a class="footer-country-link" href="/es/" id="cc-es"><img src="http://cdn.zeromotorcycles.net/images/flags/spain_11226.jpg" alt="">España</a>
-<a class="footer-country-link" href="/fr/" id="cc-fr"><img src="http://cdn.zeromotorcycles.net/images/flags/france_11226.jpg" alt="">France</a>
-<a class="footer-country-link" href="/nl/" id="cc-nl"><img src="http://cdn.zeromotorcycles.net/images/flags/netherlands_11679.jpg" alt="">Nederland</a>
-<a class="footer-country-link" href="/eu/" id="cc-eu"><img src="http://cdn.zeromotorcycles.net/images/flags/eu_11226.jpg" alt="">Other EU (English)</a>
+<a class="footer-country-link" href="/de/" id="footer-de"><img src="http://cdn.zeromotorcycles.net/images/flags/germany_11226.jpg" alt="">Deutschland</a>
+<a class="footer-country-link" href="/es/" id="footer-es"><img src="http://cdn.zeromotorcycles.net/images/flags/spain_11226.jpg" alt="">España</a>
+<a class="footer-country-link" href="/fr/" id="footer-fr"><img src="http://cdn.zeromotorcycles.net/images/flags/france_11226.jpg" alt="">France</a>
+<a class="footer-country-link" href="/it/" id="footer-it"><img src="http://cdn.zeromotorcycles.net/images/flags/italy_11226.jpg" alt="">Italia</a>
+<a class="footer-country-link" href="/nl/" id="footer-nl"><img src="http://cdn.zeromotorcycles.net/images/flags/netherlands_11679.jpg" alt="">Nederland</a>
+<a class="footer-country-link" href="/eu/" id="footer-eu"><img src="http://cdn.zeromotorcycles.net/images/flags/eu_11226.jpg" alt="">Other EU (English)</a>
 <div class="footer-region-sep"></div>
 <div class="footer-region">Pacific</div>
-<a class="footer-country-link" href="/au/" id="cc-au"><img src="http://cdn.zeromotorcycles.net/images/flags/australia_11226.jpg" alt="">Australia</a>
+<a class="footer-country-link" href="/au/" id="footer-au"><img src="http://cdn.zeromotorcycles.net/images/flags/australia_11226.jpg" alt="">Australia</a>
 		</div>
 		</div>
 	</div><a class="bottom-link" href="/contact.php">Contact</a>:
 (888) RUN-ZERO
 &nbsp;&nbsp;|&nbsp;&nbsp;<a class="bottom-link" href="/company/employment.php">Employment</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;<a class="bottom-link" href="/legal/privacy-policy.php">Privacy Policy - Terms of Service</a>
-&nbsp;&nbsp;|&nbsp;&nbsp; ©2014 Copyright Zero Motorcycles, Inc. All rights reserved	</div>
+&nbsp;&nbsp;|&nbsp;&nbsp; ©2015 Copyright Zero Motorcycles, Inc. All rights reserved	</div>
 </div>
 </div>
 
@@ -970,6 +973,7 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 
 <script type="text/javascript">
 var pageTracker = _gat._getTracker("UA-3489419-1");
+
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
@@ -1013,6 +1017,7 @@ window._fbq = window._fbq || [];
 window._fbq.push(['track', 'PixelInitialized', {}]);
 </script>
 <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=719213288167028&amp;ev=PixelInitialized" /></noscript>
+
 
 
 
