@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the lollapalooza.com privacy policy that was archived on 2014-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141213074436id_/http%3A//www.lollapalooza.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lollapalooza.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607210152id_/http%3A//www.lollapalooza.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js "><head>
         <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQIHVFJVGwEJUFJaAwY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQIHVFJVGwEJUFJaAwY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(3),t(4),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:6,4:5,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:21,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],10:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","trackUserAction","finished","traceEvent","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:19,2:20,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&u&&u.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=l.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-536.min.js"},l=e.exports={offset:i(),origin:p,features:{}};u[f]?(u[f]("DOMContentLoaded",o,!1),c[f]("load",n,!1)):(u[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:19,2:10,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],19:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
         <title>Privacy &amp; Security | Lollapalooza 2015</title>
         <meta name="viewport" content="width=device-width">
 
@@ -12,8 +12,8 @@
         <![endif]-->
 
         <link rel="shortcut icon" href="http://lolp3.c3cdn.com/wp/wp-content/themes/lolla2014/img/LOL-US-16x16.gif">
-        <link rel="stylesheet" id="style-css" href="http://lolp1.c3cdn.com/wp/wp-content/themes/lolla2014/css/style.ts1417810606.css" type="text/css" media="all">
-<script type="text/javascript" src="http://lolp1.c3cdn.com/wp/wp-content/themes/lolla2014/js/vendor/modernizr.min.ts1395960399.js"></script>
+        <link rel="stylesheet" id="style-css" href="http://lolp2.c3cdn.com/wp/wp-content/themes/lolla2014/css/style.ts1433481022.css" type="text/css" media="all">
+<script type="text/javascript" src="http://lolp2.c3cdn.com/wp/wp-content/themes/lolla2014/js/vendor/modernizr.min.ts1432792225.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 <meta property="fb:app_id" content="130507217028926">
 <meta property="og:type" content="article">
@@ -40,7 +40,7 @@
         <![endif]-->
         <div id="page">
             <div id="header" class="header-container">
-                                <div class="pulldown-container is-closed">
+                                                <div class="pulldown-container is-closed">
     <div id="follow" class="pulldown is-closed">
         <div class="site-wrapper text--center network-wrapper">
             <div class="network-container">
@@ -62,7 +62,7 @@
     <a class="network" href="http://lollapalooza.tumblr.com" target="_blank" title="Tumblr">
         <img src="http://lolp1.c3cdn.com/wp/wp-content/uploads/2013/11/LOL-social-icons-Tumblr.png" alt="Tumblr" onmouseover="this.src='http://lolp1.c3cdn.com/wp/wp-content/uploads/2013/11/LOL-social-icons-Tumblr-H.png'" onmouseout="this.src='http://lolp1.c3cdn.com/wp/wp-content/uploads/2013/11/LOL-social-icons-Tumblr.png'">
     </a>
-    <a class="network" href="http://www.flickr.com/photos/lollapaloozafest" target="_blank" title="Flickr">
+    <a class="network" href="https://www.flickr.com/photos/lollapalooza" target="_blank" title="Flickr">
         <img src="http://lolp3.c3cdn.com/wp/wp-content/uploads/2013/11/LOL-social-icons-Flickr.png" alt="Flickr" onmouseover="this.src='http://lolp2.c3cdn.com/wp/wp-content/uploads/2013/11/LOL-social-icons-Flickr-H.png'" onmouseout="this.src='http://lolp3.c3cdn.com/wp/wp-content/uploads/2013/11/LOL-social-icons-Flickr.png'">
     </a>
     <a class="network" href="http://plus.google.com/+lollapalooza" target="_blank" title="Google+">
@@ -163,14 +163,13 @@
                         <div class="grid">
                             <div class="grid__item one-tenth palm-is-hidden">
                                 <div id="desk-myfest-menu" class="myfest-column-wrapper">
-    <div id="desk-myfest-menu-in" class="myfest-column">
-    <a href="#" class="myfest-column__link myfest-column__link--top"><i class="myfest-column__notification-count js-notification-count">0</i><img class="myfest-column__img js-myfest-img" src="http://lolp2.c3cdn.com/wp/wp-content/themes/lolla2014/img/myfest__avatar.png" alt=""> <span>MyLolla</span></a>
+    <div id="desk-myfest-menu-in" class="myfest-column" style="display: none;">
+    <a href="#" class="myfest-column__link myfest-column__link--top"><img class="myfest-column__img js-myfest-img" src="http://lolp2.c3cdn.com/wp/wp-content/themes/lolla2014/img/myfest__avatar.png" alt=""> <span>MyLolla</span></a>
     <a href="#artists" class="myfest-column__link"><i class="myfest-column__count js-myfest-type--artist">0</i> <span>Artists</span></a>
-    <a href="#stuff" class="myfest-column__link"><i class="myfest-column__count js-myfest-type--stuff">0</i> <span>Stuff</span></a>
     <a href="#schedule" class="myfest-column__link"><i class="myfest-column__count js-myfest-type--session">0</i> <span>Schedule</span></a>
     <a href="#compare" class="myfest-column__link"><i class="myfest-column__count js-myfest-type--compare">0</i> <span>Compare</span></a>
 </div>
-    <div id="desk-myfest-menu-out" class="myfest-column" style="display: none;">
+    <div id="desk-myfest-menu-out" class="myfest-column">
     <div class="myfest-column__link myfest-column__link--top js-login"><img class="myfest-column__img" src="http://lolp2.c3cdn.com/wp/wp-content/themes/lolla2014/img/myfest__avatar.png" alt=""> <span>MyLolla</span></div>
     <div class="myfest-column__link myfest-column__link--logout"><p>CUSTOMIZE YOUR FESTIVAL, COMPARE WITH FRIENDS &amp; GET SPECIAL UPDATES</p>
 <p><a href="#" class="btn btn--yellow js-login">Sign In</a></p></div>
@@ -181,17 +180,17 @@
 <ul class="sub-menu">
 	<li id="menu-item-6853" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6853"><a href="/tickets/">General Admission</a></li>
 	<li id="menu-item-6854" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6854"><a href="/vip-platinum/">VIP &amp; Platinum</a></li>
-	<li id="menu-item-6855" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6855"><a target="_blank" href="http://www.cidentertainment.com/lollapalooza/2014/index.php?page=travel">Travel Packages</a></li>
-	<li id="menu-item-11917" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11917"><a href="http://www.lollapalooza.com/2014-hotels/">Book My Hotel</a></li>
-	<li id="menu-item-6857" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6857"><a href="/tickets/#faqs">Ticket FAQs</a></li>
+	<li id="menu-item-6855" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6855"><a target="_blank" href="http://www.cidentertainment.com/events/lollapalooza-2015/travel-packages/">Travel Packages</a></li>
+	<li id="menu-item-11917" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11917"><a href="http://www.lollapalooza.com/hotels/">Book My Hotel</a></li>
+	<li id="menu-item-6857" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6857"><a href="/faqs/#tickets-faqs">Ticket FAQs</a></li>
 </ul>
 </li>
-<li id="menu-item-6838" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current-menu-ancestor current-menu-parent menu-item-has-children menu-item-6838"><a href="/2014-lineup/">Lineup</a>
+<li id="menu-item-6838" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6838"><a href="/2015-lineup/">Lineup</a>
 <ul class="sub-menu">
-	<li id="menu-item-6858" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-6858"><a href="/2014-lineup/">2014 Lineup</a></li>
-	<li id="menu-item-11828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11828"><a href="http://www.lollapalooza.com/2014-schedule/">2014 Schedule</a></li>
-	<li id="menu-item-13272" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13272"><a href="http://www.lollapalooza.com/2014-artist-list/">2014 Artist List</a></li>
-	<li id="menu-item-12384" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12384"><a target="_blank" href="http://do312.com/lollaaftershows">2014 Aftershows</a></li>
+	<li id="menu-item-6858" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6858"><a href="/2015-lineup/">2015 Lineup</a></li>
+	<li id="menu-item-13272" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13272"><a href="/2015-lineup-alphabetical/">2015 Artist List</a></li>
+	<li id="menu-item-18349" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18349"><a href="/2015-schedule/">2015 Schedule</a></li>
+	<li id="menu-item-18591" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18591"><a href="http://do312.com/lollaaftershows/">2015 Aftershows</a></li>
 </ul>
 </li>
 <li id="menu-item-6840" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6840"><a href="/festival/">Festival</a>
@@ -214,7 +213,7 @@
 </li>
 <li id="menu-item-6842" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6842"><a href="/blog/">The Loop</a></li>
 </ul></div><div class="desk-nav-secondary-wrapper palm-is-hidden"><ul id="desk-menu__secondary" class="nav nav--secondary"><li id="menu-item-6843" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6843"><a target="_blank" href="http://store.lollapalooza.com">MERCH</a></li>
-<li id="menu-item-14604" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14604"><a href="/2014-hotels/">BOOK MY HOTEL</a></li>
+<li id="menu-item-14604" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14604"><a href="/hotels/">BOOK MY HOTEL</a></li>
 <li id="menu-item-14601" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14601"><a href="/connect/">CONNECT</a></li>
 </ul></div>                                            <div id="palm-nav-wrapper" class="palm-nav-wrapper lap-and-up-is-hidden">
                 <ul id="palm-menus" class="nav--palm__wrapper">
@@ -232,10 +231,9 @@
     <p>CUSTOMIZE YOUR FESTIVAL, COMPARE WITH FRIENDS &amp; GET SPECIAL UPDATES</p>
 <p><a href="#" class="btn btn--yellow js-login">Sign In</a></p></li>                            </ul>
                             <ul id="palm-myfest-menu-in">
-                                <li class="menu-item"><a href="#"><i class="palm-myfest__notification-count js-notification-count">0</i><img class="palm-myfest__img js-myfest-img" src="http://lolp2.c3cdn.com/wp/wp-content/themes/lolla2014/img/myfest__avatar.png" alt=""> MyLolla</a></li>
+                                <li class="menu-item"><a href="#"><img class="palm-myfest__img js-myfest-img" src="http://lolp2.c3cdn.com/wp/wp-content/themes/lolla2014/img/myfest__avatar.png" alt=""> MyLolla</a></li>
 <li class="menu-item"><a href="#artists"><i class="i i--myfest-number palm-myfest__count js-myfest-type--artist">0</i> Artists</a></li>
 <li class="menu-item"><a href="#stuff"><i class="i i--myfest-number palm-myfest__count js-myfest-type--schedule">0</i> Schedule</a></li>
-<li class="menu-item"><a href="#schedule"><i class="i i--myfest-number palm-myfest__count js-myfest-type--stuff">0</i> Stuff</a></li>
 <li class="menu-item"><a href="#compare"><i class="i i--myfest-number palm-myfest__count js-myfest-type--compare">0</i> Compare</a></li>
 <li class="menu-item--small"><a href="http://www.lollapalooza.com/my-account">Account</a></li>
 <li class="menu-item--small"><a href="#" class="js-logout">Sign Out</a></li>                            </ul>
@@ -248,17 +246,17 @@
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6853"><a href="/tickets/">General Admission</a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6854"><a href="/vip-platinum/">VIP &amp; Platinum</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6855"><a target="_blank" href="http://www.cidentertainment.com/lollapalooza/2014/index.php?page=travel">Travel Packages</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11917"><a href="http://www.lollapalooza.com/2014-hotels/">Book My Hotel</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6857"><a href="/tickets/#faqs">Ticket FAQs</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6855"><a target="_blank" href="http://www.cidentertainment.com/events/lollapalooza-2015/travel-packages/">Travel Packages</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11917"><a href="http://www.lollapalooza.com/hotels/">Book My Hotel</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6857"><a href="/faqs/#tickets-faqs">Ticket FAQs</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current-menu-ancestor current-menu-parent menu-item-has-children menu-item-6838"><a href="/2014-lineup/">Lineup</a>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6838"><a href="/2015-lineup/">Lineup</a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-6858"><a href="/2014-lineup/">2014 Lineup</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11828"><a href="http://www.lollapalooza.com/2014-schedule/">2014 Schedule</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13272"><a href="http://www.lollapalooza.com/2014-artist-list/">2014 Artist List</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12384"><a target="_blank" href="http://do312.com/lollaaftershows">2014 Aftershows</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6858"><a href="/2015-lineup/">2015 Lineup</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13272"><a href="/2015-lineup-alphabetical/">2015 Artist List</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18349"><a href="/2015-schedule/">2015 Schedule</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18591"><a href="http://do312.com/lollaaftershows/">2015 Aftershows</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6840"><a href="/festival/">Festival</a>
@@ -281,7 +279,7 @@
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6842"><a href="/blog/">The Loop</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6843"><a target="_blank" href="http://store.lollapalooza.com">MERCH</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14604"><a href="/2014-hotels/">BOOK MY HOTEL</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14604"><a href="/hotels/">BOOK MY HOTEL</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14601"><a href="/connect/">CONNECT</a></li>
             <li class="menu-item">
                 <a href="#">Country</a>
@@ -302,7 +300,7 @@
                                         <li class="menu-item"><a href="http://www.youtube.com/lollapalooza" rel="external" target="_blank">YouTube</a></li>
                                         <li class="menu-item"><a href="http://www.instagram.com/lollapalooza" rel="external" target="_blank">Instagram</a></li>
                                         <li class="menu-item"><a href="http://lollapalooza.tumblr.com" rel="external" target="_blank">Tumblr</a></li>
-                                        <li class="menu-item"><a href="http://www.flickr.com/photos/lollapaloozafest" rel="external" target="_blank">Flickr</a></li>
+                                        <li class="menu-item"><a href="https://www.flickr.com/photos/lollapalooza" rel="external" target="_blank">Flickr</a></li>
                                         <li class="menu-item"><a href="http://plus.google.com/+lollapalooza" rel="external" target="_blank">Google+</a></li>
                                     </ul>
             </li>
@@ -356,37 +354,32 @@
         <span class="commerce-column__pre-title">BUY</span>
         <span class="commerce-column__title">TICKETS</span>
     </div>
-            <div class="commerce-item commerce-item--ticket--offsale">
-                                        <span class="commerce-item__line-one">Regular</span>
+            <div class="commerce-item commerce-item--ticket--soldout">
+                                        <span class="commerce-item__line-one">GA</span>
                 
                                 <span class="commerce-item__line-two">3-Day Pass</span>
                 
-                                    <span class="commerce-item__line-three">SOON</span>
+                                    <span class="commerce-item__line-three">$275</span>
                 
-                                <span class="commerce-item__line-four">SPRING 2015</span>
-                        </div>            <div class="commerce-item commerce-item--ticket--offsale">
-                                        <span class="commerce-item__line-one">Singles</span>
+                                <span class="commerce-item__line-four">SOLD OUT</span>
+                        </div>            <div class="commerce-item commerce-item--ticket--soldout">
+                                        <span class="commerce-item__line-one">GA</span>
                 
                                 <span class="commerce-item__line-two">1-Day Pass</span>
                 
-                                    <span class="commerce-item__line-three">SOON</span>
+                                    <span class="commerce-item__line-three">$110</span>
                 
-                                <span class="commerce-item__line-four">SPRING 2015</span>
-                        </div>            <div class="commerce-item commerce-item--ticket--offsale">
-                                        <span class="commerce-item__line-one">TRAVEL PACKAGES</span>
-                
+                                <span class="commerce-item__line-four">SOLD OUT</span>
+                        </div>            <div class="commerce-item commerce-item--ticket--onsale">
+                    <a href="http://www.cidentertainment.com/events/lollapalooza-2015/travel-packages/" target="_blank">
+                        
+                                <span class="commerce-item__line-two">TRAVEL PACKAGES</span>
                 
                                                         <img class="commerce-item__icon" src="http://lolp1.c3cdn.com/wp/wp-content/uploads/2014/03/LOL-column-Travel-Red1.png" data-hover-src="http://lolp1.c3cdn.com/wp/wp-content/uploads/2014/03/LOL-column-Travel-White1.png">
                                     
-                                <span class="commerce-item__line-four">SPRING 2015</span>
-                        </div>            <div class="commerce-item commerce-item--ticket--offsale">
-                                        <span class="commerce-item__line-one">PLATINUM PASSES</span>
-                
-                
-                                                        <img class="commerce-item__icon" src="http://lolp2.c3cdn.com/wp/wp-content/uploads/2013/11/LOL-column-Plat-Red1.png" data-hover-src="http://lolp1.c3cdn.com/wp/wp-content/uploads/2013/11/LOL-column-Plat-White.png">
-                                    
-                                <span class="commerce-item__line-four">SPRING 2015</span>
-                        </div>    </div>
+                                <span class="commerce-item__line-four">Buy Now</span>
+                                    </a>
+        </div>    </div>
                             </div>
                         </div>
                     </div>
@@ -406,8 +399,7 @@
                     <div role="main" class="grid__item push--lap-and-up-one-tenth eight-tenths palm-one-whole">
                                                 <article class="page" id="post-1759">
                             <header class="header">
-                                                                                                    <h1 class="title">Privacy &amp; Security</h1>
-                                                                                                <div class="grid">
+                                                                    <h1 class="title">Privacy &amp; Security</h1>                                                                                                <div class="grid">
                                     <div class="grid__item one-third palm-one-whole">
                                                                             </div>
                                 </div>
@@ -555,17 +547,17 @@
 <ul class="sub-menu">
 	<li id="menu-item-6974" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6974"><a href="/tickets/">General Admission</a></li>
 	<li id="menu-item-6975" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6975"><a href="/vip-platinum/">VIP &amp; Platinum</a></li>
-	<li id="menu-item-6976" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6976"><a target="_blank" href="http://www.cidentertainment.com/lollapalooza/2014/index.php?page=travel">Travel Packages</a></li>
-	<li id="menu-item-11918" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11918"><a href="http://www.lollapalooza.com/2014-hotels/">Festival Hotels</a></li>
+	<li id="menu-item-6976" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6976"><a target="_blank" href="http://www.cidentertainment.com/events/lollapalooza-2015/travel-packages/">Travel Packages</a></li>
+	<li id="menu-item-11918" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11918"><a href="http://www.lollapalooza.com/hotels/">Festival Hotels</a></li>
 	<li id="menu-item-6978" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6978"><a href="/tickets/#faqs">Ticket FAQs</a></li>
 </ul>
 </li>
-<li id="menu-item-6979" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current-menu-ancestor current-menu-parent menu-item-has-children menu-item-6979"><a href="/2014-lineup/">LINEUP</a>
+<li id="menu-item-6979" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6979"><a href="/2015-lineup/">LINEUP</a>
 <ul class="sub-menu">
-	<li id="menu-item-10774" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-9613 current_page_item menu-item-10774"><a href="http://www.lollapalooza.com/2014-lineup/">2014 Lineup</a></li>
-	<li id="menu-item-11829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11829"><a href="http://www.lollapalooza.com/2014-schedule/">2014 Schedule</a></li>
-	<li id="menu-item-13271" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13271"><a href="http://www.lollapalooza.com/2014-artist-list/">2014 Artist List</a></li>
-	<li id="menu-item-12385" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12385"><a target="_blank" href="http://do312.com/lollaaftershows">2014 Aftershows</a></li>
+	<li id="menu-item-17640" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17640"><a href="/2015-lineup/">2015 Lineup</a></li>
+	<li id="menu-item-13271" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13271"><a href="/2015-lineup-alphabetical/">2015 Artist List</a></li>
+	<li id="menu-item-18348" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18348"><a href="/2015-schedule/">2015 Schedule</a></li>
+	<li id="menu-item-18592" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18592"><a href="http://do312.com/lollaaftershows">2015 Aftershows</a></li>
 </ul>
 </li>
 <li id="menu-item-6984" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6984"><a href="/festival/">FESTIVAL</a>
@@ -591,7 +583,7 @@
 <ul class="sub-menu">
 	<li id="menu-item-7011" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7011"><a href="/blog/">The Loop</a></li>
 	<li id="menu-item-6998" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6998"><a target="_blank" href="http://store.lollapalooza.com">Official Store</a></li>
-	<li id="menu-item-6996" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6996"><a href="/sponsors/">2014 Sponsors</a></li>
+	<li id="menu-item-6996" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6996"><a href="/sponsors/">Sponsors</a></li>
 	<li id="menu-item-6997" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6997"><a href="/press/">Press &amp; Media</a></li>
 	<li id="menu-item-6999" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6999"><a href="/privacy/">Privacy &amp; Security</a></li>
 	<li id="menu-item-7000" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7000"><a href="/terms-conditions/">Terms &amp; Conditions</a></li>
@@ -606,7 +598,7 @@
 	<li id="menu-item-7005" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7005"><a target="_blank" href="http://www.instagram.com/lollapalooza">Instagram</a></li>
 	<li id="menu-item-7006" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7006"><a target="_blank" href="http://www.youtube.com/lollapalooza">YouTube</a></li>
 	<li id="menu-item-7008" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7008"><a target="_blank" href="http://lollapalooza.tumblr.com">Tumblr</a></li>
-	<li id="menu-item-7007" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7007"><a target="_blank" href="http://www.flickr.com/lollapaloozafest">Flickr</a></li>
+	<li id="menu-item-7007" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7007"><a target="_blank" href="http://www.flickr.com/lollapalooza">Flickr</a></li>
 	<li id="menu-item-7009" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7009"><a target="_blank" href="http://theboard.lollapalooza.com">Forum</a></li>
 </ul>
 </li>
@@ -618,395 +610,334 @@
             </div>
         </div>
         <div id="janrainCaptureDevScript"></div>
-        <div id="janrainCaptureDevScript"></div><div id="janrainCaptureWidget"><div style="display:none;" id="signIn">
-    <div class="capture_header">
-        <h1>MyLolla</h1>
-    </div>
-    <div class="capture_signin--social">
-        <h2>Sign in or sign up using</h2>
-        <a href="#" id="facebook_signin" class="modal-btn--facebook" onclick="janrain.engage.signin.triggerFlow('facebook'); return false;" data-bypass=""><img src="http://lolp3.c3cdn.com/wp/wp-content/themes/lolla2014/img/i--fb-login.png" height="44" width="44">Facebook</a>
-    </div>
-           <h2 class="capture_signin--divider">OR</h2>
-    <div class="capture_backgroundColor">
-        <div class="capture_signin--callout">
-            <h2>Sign in or sign up using email address</h2>
-                {* #userInformationForm *}
-                    {* traditionalSignIn_emailAddress *}
-                    {* traditionalSignIn_password *}
-                    <div class="capture_splitText">
-                        {* traditionalSignIn_signInButton *}{* traditionalSignIn_createButton *}
+        <script id="modal-login" type="text/template">
+    <div class="modal">
+        <div class="modal__header">
+            <h3>Your Fest. Your Friends. Your World.</h3>
+            <hr class="divider--thin">
+        </div>
+        <div class="modal__content">
+
+            <div id="login-errors">
+            </div>
+
+            <p>Use MyFest to create favorites, compare with friends, and more sweet features.</p>
+
+            <p>Sign in or sign up using:</p>
+            <p class="modal__contrained">
+                <a class="btn--modal btn--spotify" data-network="spotify" href="https://tradablebits.com/crm/oauth?login_type=spotify&account_id=7167948&redirect_url=http://www.lollapalooza.com/user/login">
+                    <i class="fa fa-spotify"></i>
+                </a>
+
+                <a class="btn--modal btn--facebook" data-network="facebook" href="https://tradablebits.com/crm/oauth?login_type=facebook&account_id=7167948&redirect_url=http://www.lollapalooza.com/user/login">
+                    <i class="fa fa-facebook"></i>
+                </a>
+
+                <a class="btn--modal btn--instagram" data-network="instagram" href="https://tradablebits.com/crm/oauth?login_type=instagram&account_id=7167948&redirect_url=http://www.lollapalooza.com/user/login">
+                    <i class="fa fa-instagram"></i>
+                </a>
+
+                <a class="btn--modal btn--twitter" data-network="twitter" href="https://tradablebits.com/crm/oauth?login_type=twitter&account_id=7167948&redirect_url=http://www.lollapalooza.com/user/login">
+                    <i class="fa fa-twitter"></i>
+                </a>
+
+                <a class="btn--modal btn--google" data-network="google" href="https://tradablebits.com/crm/oauth?login_type=google&account_id=7167948&redirect_url=http://www.lollapalooza.com/user/login">
+                    <i class="fa fa-google"></i>
+                </a>
+
+                <a class="btn--modal btn--email js-show-email-login" data-network="email" href="#">
+                    <i class="fa fa-envelope"></i>
+                </a>
+            </p>
+
+            <div id="email-login" style="display: none;">
+                <hr class="divider--thin">
+
+                <div class="grid">
+                    <div class="grid__item one-half">
+                        <button id="sign-in" class="btn btn--yellow one-whole js-show-login-form">Sign In</button>
                     </div>
-                {* /userInformationForm *}
-        </div>
-    </div>
-</div>
-<div style="display:none;" id="returnSocial">
-    <div class="capture_header">
-        <h1>Sign In</h1>
-    </div>
-    <div class="capture_signin">
-        <h2>Sign in using</h2>
-        <a href="#" id="facebook_signin" class="modal-btn--facebook" onclick="janrain.engage.signin.triggerFlow('facebook'); return false;" data-bypass=""><img src="http://lolp3.c3cdn.com/wp/wp-content/themes/lolla2014/img/i--fb-login.png" height="44" width="44">Facebook</a>
-        <div class="capture_centerText switchLink"><a href="#" data-cancelcapturereturnexperience="true" data-bypass="">or use another account</a></div>
-    </div>
-</div>
-<div style="display:none;" id="returnTraditional">
-    <div class="capture_header">
-        <h1>Sign In</h1>
-    </div>
-            <div class="capture_backgroundColor">
-                {* #userInformationFormReturn *}
-                    {* traditionalSignIn_emailAddress *}
-                    {* traditionalSignIn_password *}
-                    <div class="capture_form_item capture_splitText">
-                        {* traditionalSignIn_signInButton *}
-                    </div>
-                {* /userInformationForm *}
-        <div class="capture_centerText switchLink"><a href="#" data-cancelcapturereturnexperience="true" data-bypass="">or use another account</a></div>
-    </div>
-</div>
-<div style="display:none;" id="socialRegistration">
-    <div class="capture_header">
-        <h1>Almost Done!</h1>
-    </div>
-      <h2>Please confirm the information below</h2>
-        {* #socialRegistrationForm *}
-            {* socialRegistration_firstName *}
-            {* socialRegistration_lastName *}
-            {* socialRegistration_emailAddress *}
-            {* socialRegistration_newsLetter *}
-            By clicking "Sign in", you confirm that you accept our
-                <a href="/terms-conditions">terms of service</a> and have read and understand
-                <a href="/privacy">privacy policy</a>.
-            <div class="capture_footer">
-                <div class="capture_left">
-                    {* backButton *}
-                </div>
-                <div class="capture_right">
-                {* socialRegistration_signInButton *}
-                </div>
-            </div>
-        {* /socialRegistrationForm *}
-</div>
-<div style="display:none;" id="registrationNewVerification">
-    <div class="capture_header">
-        <h1>Thank you for Signing Up!</h1>
-    </div>
-    <p>We have sent a confirmation email to {* emailAddressData *}.</p>
-    <div class="capture_footer">
-        <a href="#" class="capture_btn capture_primary js-modal-close">Close</a>
-    </div>
-</div>
-<div style="display:none;" id="traditionalRegistration">
-    <div class="capture_header">
-        <h1>Almost Done!</h1>
-    </div>
-    <p>Please confirm the information below before signing in. Already have a MyLolla account? <a href="#" data-capturescreen="signIn" data-bypass="">Sign In.</a>
-    </p>
-        {* #registrationForm *}
-            {* traditionalRegistration_firstName *}
-            {* traditionalRegistration_lastName *}
-            {* traditionalRegistration_emailAddress *}
-            {* traditionalRegistration_password *}
-            {* traditionalRegistration_passwordConfirm *}
-            {* newsLetter *}
-            By clicking "Sign Up", you confirm that you accept our
-                <a href="/terms-conditions">terms of service</a> and have read and understand
-                <a href="/privacy">privacy policy</a>.
-            <div class="capture_footer">
-                <div class="capture_left">
-                    {* backButton *}
-                </div>
-                <div class="capture_right">
-                {* createAccountButton *}
-                </div>
-            </div>
-        {* /registrationForm *}
-</div>
-<div style="display:none;" id="forgotPassword">
-    <div class="capture_header">
-        <h1>Create a new password</h1>
-    </div>
-    <h2>We'll send you a link to create a new password.</h2>
-    {* #forgotPasswordForm *}
-        {* traditionalSignIn_emailAddress *}
-        <div class="capture_footer">
-            <div class="capture_left">
-                {* backButton *}
-            </div>
-            <div class="capture_right">
-                {* forgotPassword_sendButton *}
-            </div>
-        </div>
-    {* /forgotPasswordForm *}
-</div>
-<div style="display:none;" id="forgotPasswordSuccess">
-    <div class="capture_header">
-        <h1>Create a new password</h1>
-    </div>
-      <p>We've sent an email with instructions to create a new password. Your existing password has not been changed.</p>
-    <div class="capture_footer">
-        <a href="#" class="capture_btn capture_primary js-modal-close">Close</a>
-    </div>
-</div>
-<div style="display:none;" id="mergeAccounts">
-    {* mergeAccounts {"custom":true} *}
-    <div id="capture_mergeAccounts_mergeAccounts_mergeOptionsContainer" class="capture_mergeAccounts_mergeOptionsContainer">
-        <div class="capture_header">
-            <div class="capture_icon_col">
-                {| rendered_current_photo |}
-            </div>
-            <div class="capture_displayName_col">
-                {| current_displayName |}<br>
-                {| current_emailAddress |}
-            </div>
-            <span class="capture_mergeProvider janrain-provider-icon-24 janrain-provider-icon-{| current_provider_lowerCase |}"></span>
-        </div>
-        <div class="capture_dashed">
-            <div class="capture_centerText">
-                <p class="capture_bigText">{| foundExistingAccountText |}.</p>
-            </div>
-        </div>
-        {| merge_radio |}
-        <div class="capture_footer">
-            {| connect_button |}
-            {| create_button |}
-        </div>
-    </div>
-</div>
-<div style="display:none;" id="traditionalAuthenticateMerge">
-    <div class="capture_header">
-        <h1>Sign in to complete account merge</h1>
-    </div>
-    <div class="capture_signin">
-    {* #tradAuthenticateMergeForm *}
-        {* traditionalSignIn_emailAddress *}
-        {* mergePassword *}
-        <div class="capture_footer">
-            <div class="capture_left">
-                {* backButton *}
-            </div>
-            <div class="capture_right">
-                {* traditionalSignIn_signInButton *}
-            </div>
-        </div>
-     {* /tradAuthenticateMergeForm *}
-    </div>
-</div>
-<div style="display:none;" id="verifyEmail">
-    <div class="capture_header">
-        <h1>Resend Email Verification</h1>
-    </div>
-    <p>Sorry we could not verify that email address. Enter your email below and we'll send you another email.</p>
-    {* #resendVerificationForm *}
-        {* traditionalSignIn_emailAddress *}
-        <div class="capture_footer">
-            {* submitButton *}
-        </div>
-     {* /resendVerificationForm *}
-</div>
-<div style="display:none;" id="resendVerificationSuccess">
-    <div class="capture_header">
-        <h1>Your Verification Email Has Been Sent</h1>
-    </div>
-    <div class="hr"></div>
-    <p>Check your email for a link to reset your password.</p>
-    <div class="capture_footer">
-        <a href="#" data-capturescreen="signIn" class="capture_btn capture_primary js-modal-close" data-bypass="">OK</a>
-    </div>
-</div>
-<div style="display:none;" id="verifyEmailSuccess">
-    <div class="capture_header">
-        <h1>You did it!</h1>
-    </div>
-    <p>Thank you for verifiying your email address.
-    </p><div class="capture_footer">
-        <a href="#" class="capture_btn capture_primary js-modal-close">OK</a>
-    </div>
-</div>
-<div style="display:none;" id="resetPassword">
-    <div class="capture_header">
-        <h1>Change password</h1>
-    </div>
-    {* newPasswordForm *}
-        {* newpassword *}
-        {* newpasswordConfirm *}
-        <div class="capture_footer">
-            {* submitButton *}
-        </div>
-    {* /newPasswordForm *}
-</div>
-<div style="display:none;" id="resetPasswordSuccess">
-    <div class="capture_header">
-        <h1>Your password has been changed</h1>
-    </div>
-    <p>Password has been successfully updated.</p>
-    <div class="capture_footer">
-        <a href="#" class="capture_btn capture_primary js-modal-close">Close</a>
-    </div>
-</div>
-<div style="display:none;" id="resetPasswordRequestCode">
-    <div class="capture_header">
-        <h1>Create a new password</h1>
-    </div>
-    <p>We didn't recognize that password reset code. Enter your email address to get a new one.</p>
-    {* #resetPasswordForm *}
-        {* traditionalSignIn_emailAddress *}
-        <div class="capture_footer">
-            {* forgotPassword_sendButton *}
-        </div>
-    {* /resetPasswordForm *}
-</div>
-<div style="display:none;" id="resetPasswordRequestCodeSuccess">
-    <div class="capture_header">
-        <h1>Create a new password</h1>
-    </div>
-      <p>We've sent an email with instructions to create a new password. Your existing password has not been changed.</p>
-    <div class="capture_footer">
-        <a href="#" class="capture_btn capture_primary js-modal-close">Close</a>
-    </div>
-</div>
-<div style="display:none;" id="editProfile">
-    <div class="grid text--center">
-        <div class="grid__item one-whole">
-            <h3 class="divider--title"><span>Account Info</span></h3>
-            <div class="contentBoxWhiteShadow">
-                <div class="capture_grid_block">
-                    <div class="capture_center_col">
-                        <div class="capture_editCol">
-                            <p>This is the Full Name and E-mail Address associated with this MyLolla Account. Please make sure all information is correct. This is not the same as being signed up on our E-list. To receive e-mail updates from us, visit our <a href="/connect">Connect Page</a>.</p>
-                            {* editProfileForm *}
-                                    {* name *}
-                                    {* email *}
-                                    <div class="capture_form_item">
-                                        <label for="capture_editProfile_myfest">Unique MyLolla Festival Link</label>
-                                        <input id="capture_editProfile_myfest" type="text" class="capture_editProfile_myfest capture_text_input" disabled="" value="">
-                                    </div>
-                                    <div class="capture_form_item">
-                                        {* saveButton *}
-                                        {* savedProfileMessage *}
-                                    </div>
-                            {* /editProfileForm *}
-                        </div>
+                    <div class="grid__item one-half">
+                        <button id="sign-up" class="btn btn--yellow one-whole js-show-register-form">Sign Up</button>
                     </div>
                 </div>
+
+                <form id="email-login-form" action="https://tradablebits.com/crm/oauth?login_type=email&account_id=7167948&redirect_url=http://www.lollapalooza.com/user/login" method="POST" style="display: none;">
+                    <p>Trouble with your password? Click <a href="#" class="js-forgot-password">Lost your password?</a> to reset it. </p>
+
+                    <input type="hidden" name="action" value="login">
+
+                    <input type="email" maxlength="128" name="email" placeholder="Email" class="form__input one-whole">
+                    <br>
+                    <input type="password" maxlength="128" name="password" placeholder="Password" class="form__input one-whole">
+                    <br>
+
+                    <input type="submit" class="btn one-whole" value="Sign In">
+                    <br>
+                    <p class="text--left"><a href="#" class="js-forgot-password" title="Password Lost and Found">Lost your password</a>?</p>
+                </form>
+
+                <form id="email-register-form" action="https://tradablebits.com/crm/oauth?login_type=register&account_id=7167948&redirect_url=http://www.lollapalooza.com/user/login" method="POST" style="display: none;">
+                    <input type="hidden" name="action" value="register">
+
+                    <input type="text" name="name" value="" placeholder="Full Name" class="form__input one-whole">
+
+                    <input type="email" maxlength="128" name="email" placeholder="Email" class="form__input one-whole">
+                    <input type="email" maxlength="128" name="email_confirmation"placeholder="Confirm Email" class="form__input one-whole">
+                    <br>
+                    <input type="password" maxlength="128" name="password" placeholder="Password" class="form__input one-whole">
+                    <input type="password" maxlength="128" name="password_confirmation" placeholder="Confirm Password" class="form__input one-whole">
+                    <br>
+
+                    <input id="register-subscribed" type="checkbox" value="1" name="subscribe">
+                    <label class="form__label--checkbox" for="register-subscribed">
+                        Subscribe to our elist                    </label>
+
+                    <input type="submit" class="btn one-whole" value="Sign Up">
+                </form>
             </div>
-        </div><!--
-        --><div id="jr-profile-link-accounts" class="grid__item one-whole">
-            <h3 class="divider--title"><span>Linked Accounts</span></h3>
-            <div class="contentBoxWhiteShadow">
-                <div class="capture_grid_block">
-                    <div class="capture_center_col">
-                        <p>If you've only created a traditional email based MyLolla Account, then you can click below to link this account to your Facebook account so you can start comparing your festival experience to your friends.</p>
-                        {* linkedAccounts *}
-                        {* linkAccountContainer *}
-                            <div class="capture_header">
-                                <h1>Link your accounts</h1>
-                            </div>
-                            <h2>Allows you to sign in to your account using that provider in the future.</h2>
-                            <div class="capture_signin">
-                                <a href="#" id="facebook_signin" class="modal-btn--facebook" data-bypass="" onclick="janrain.engage.signin.triggerFlow('facebook'); return false;"><img src="http://lolp3.c3cdn.com/wp/wp-content/themes/lolla2014/img/i--fb-login.png" height="44" width="44">Facebook</a>
-                            </div>
-                        {* /linkAccountContainer *}
-                    </div>
-                </div>
-            </div>
-        </div><!--
-        --><div class="grid__item one-whole janrain_traditional_account_only">
-               <h3 class="divider--title"><span>Change Password</span></h3>
-               <div class="contentBoxWhiteShadow">
-                   <div class="capture_grid_block">
-                       <div class="capture_center_col">
-                           <!-- Only show this if it was from a traditional login !-->
-                           <div class="janrain_traditional_account_only contentBoxWhiteShadow">
-                               <a href="#" class="btncapture_saveButton capture_btn capture_primary" data-capturescreen="changePassword" data-bypass="">Change Password</a>
-                           </div>
-                       </div>
-                   </div>
-               </div>
-           </div><!--
-        --><div class="grid__item one-whole">
-               <h3 class="divider--title"><span>Privacy</span></h3>
-               <div class="contentBoxWhiteShadow">
-                   <div class="capture_grid_block">
-                       <div class="capture_center_col">
-                            <p class="capture_editCol">To make your My Festival Page and MyLolla Account private, click the button below. For more information, visit our <a href="/privacy">Privacy</a> and <a href="/terms-conditions">Terms &amp; Conditions</a>.</p>
-                            <a href="#" class="btn btn--yellow capture_saveButton capture_btn capture_primary js-make-private">Make Your Festival Private...</a>
-                            <a href="#" class="btn btn--yellow capture_saveButton capture_btn capture_primary js-make-public">Make Your Festival Public...</a>
-                       </div>
-                   </div>
-               </div>
-           </div><!--
-        --><div class="grid__item one-whole">
-               <h3 class="divider--title"><span>Delete Account</span></h3>
-               <div class="contentBoxWhiteShadow">
-                   <div class="capture_grid_block">
-                       <div class="capture_center_col">
-                            <p>To permanently delete this My Festival Page and MyLolla Account, click the button below. This cannot be undone…but you can always sign up again!</p>
-                            <a href="#" class="btn btn--red btn--danger js-delete-ask">Delete Your Account...</a>
-                       </div>
-                   </div>
-               </div>
-           </div>
-       </div>
-</div>
-<div style="display:none;" id="changePassword">
-    <div class="capture_header">
-        <h1>Change password</h1>
-    </div>
-    {* newPasswordForm *}
-        {* oldpassword *}
-        {* newpassword *}
-        {* newpasswordConfirm *}
-        <div class="capture_footer">
-            {* saveButton *}
-        </div>
-    {* /newPasswordForm *}
-</div>
-<div style="display:none;" id="changePasswordSuccess">
-    <div class="capture_header">
-        <h1>You did it!</h1>
-    </div>
-      <p>Your password has been successfully changed.</p>
-    <div class="capture_footer">
-        <a href="#" class="capture_btn capture_primary js-modal-close">Close</a>
-    </div>
-</div>
-<div style="display: none;" id="publicProfileModal">
-    <div class="capture_header">
-        <h1>My profile</h1>
-    </div>
-    <div class="capture_grid_block">
-        <div class="capture_col_6">
-            <div class="capture_profile_pic">
-                <div id="profile_pic" class="capture_default">
-                    {* profilePhotoCustom *}
-                </div>
+            <div id="email-register" style="display: none;">
+                <hr class="divider--thin">
             </div>
         </div>
-        <div class="capture_col_6">
-            <h2>{* public_displayName *}</h2>
-            {* public_profileBlurb *}
+        <div class="modal__footer">
         </div>
     </div>
-    {* public_name *}
-    {* public_emailAddress *}
-    <div class="capture_footer">
-        <div class="capture_right">
-            <a href="#" class="capture_btn capture_primary js-modal-close">Close</a>
+</script>
+<script id="modal-returning-login" type="text/template">
+    <div class="modal">
+        <div class="modal__header">
+            <h3>Welcome Back!</h3>
+            <hr class="divider--thin">
+        </div>
+        <div class="modal__content">
+            <p>Sign in using:</p>
+            <p>
+                <a class="btn--modal btn--spotify" data-network="spotify" href="https://tradablebits.com/crm/oauth?login_type=spotify&account_id=7167948&redirect_url=http://www.lollapalooza.com/user/login">
+                    <i class="fa fa-spotify"></i>
+                </a>
+
+                <a class="btn--modal btn--facebook" data-network="facebook" href="https://tradablebits.com/crm/oauth?login_type=facebook&account_id=7167948&redirect_url=http://www.lollapalooza.com/user/login">
+                    <i class="fa fa-facebook"></i>
+                </a>
+
+                <a class="btn--modal btn--instagram" data-network="instagram" href="https://tradablebits.com/crm/oauth?login_type=instagram&account_id=7167948&redirect_url=http://www.lollapalooza.com/user/login">
+                    <i class="fa fa-instagram"></i>
+                </a>
+
+                <a class="btn--modal btn--twitter" data-network="twitter" href="https://tradablebits.com/crm/oauth?login_type=twitter&account_id=7167948&redirect_url=http://www.lollapalooza.com/user/login">
+                    <i class="fa fa-twitter"></i>
+                </a>
+
+                <a class="btn--modal btn--google" data-network="google" href="https://tradablebits.com/crm/oauth?login_type=google&account_id=7167948&redirect_url=http://www.lollapalooza.com/user/login">
+                    <i class="fa fa-google"></i>
+                </a>
+
+                <a class="btn--modal btn--email js-show-email-login" href="#">
+                    <i class="fa fa-envelope"></i>
+                </a>
+            </p>
+
+            <div id="returning-login-errors">
+            </div>
+
+            <div id="email-login" style="display: none;">
+                
+                <form id="email-login-form" action="https://tradablebits.com/crm/oauth?login_type=email&account_id=7167948&redirect_url=http://www.lollapalooza.com/user/login" method="POST" style="display: none;">
+                    <input type="hidden" name="action" value="login">
+
+                    <input type="email" maxlength="128" name="email" placeholder="Email" class="form__input one-whole">
+                    <br>
+                    <input type="password" maxlength="128" name="password" placeholder="Password" class="form__input one-whole">
+                    <br>
+
+                    <input type="submit" class="btn one-whole" value="Sign In">
+                    <br>
+                    <p class="text--left"><a href="#" class="js-forgot-password" title="Password Lost and Found">Lost your password</a>?</p>
+                </form>
+
+            </div>
+        </div>
+        <div class="modal__footer">
+            <a id="full-login-link" href="#">Or, sign up or sign in with a different account</a>
         </div>
     </div>
-</div>
-<div id="janrainEngageEmbed" style="display:none;"></div></div><script type="text/javascript">
+</script>
+<script id="modal-first-login" type="text/template">
+    <div class="modal">
+        <div class="modal__header">
+            <h3>Almost There</h3>
+            <hr class="divider--thin">
+        </div>
+
+        <div id="first-login-errors"></div>
+
+        <div class="modal__content">
+            <p>We just need to confirm your email address and you'll be all set.</p>
+
+            <form id="first-login-form" action="/" method="POST">
+                <input type="hidden" name="action" value="first_login">
+                <input type="hidden" name="fan_id" value="">
+                <input type="email" maxlength="128" name="email" placeholder="Email" class="form__input one-whole" value="">
+                <input type="email" maxlength="128" name="email_confirmation" placeholder="Confirm Email" class="form__input one-whole" value="">
+                <input id="first-login-subscribe" type="checkbox" value="1" name="subscribe">
+                <label class="form__label--checkbox" for="first-login-subscribe">
+                    Subscribe to our elist                </label>
+                <input type="submit" value="Confirm">
+            </form>
+        </div>
+        <div class="modal__footer">
+        </div>
+    </div>
+</script>
+<script id="modal-first-login-success" type="text/template">
+    <div class="modal">
+        <div class="modal__header">
+            <h3>Check your email</h3>
+            <hr class="divider--thin">
+        </div>
+
+        <div id="first-login-errors"></div>
+
+        <div class="modal__content">
+            <p>You're all set. Just confirm your email address by clicking the link in your email. Enjoy!</p>
+        </div>
+        <div class="modal__footer">
+        </div>
+    </div>
+</script>
+<script id="modal-forgot-password" type="text/template">
+    <div class="modal">
+        <div class="modal__header">
+            <h3>Need a reset?</h3>
+            <hr class="divider--thin">
+        </div>
+        <div class="modal__content">
+            <p>Enter your email address and new password and we'll send you a link to reset.</p>
+
+            <div id="forgot-password-errors"></div>
+
+            <form id="forgot-password-form" action="/" method="POST">
+                                <input type="hidden" name="action" value="forgot_password">
+                
+                <input type="email" maxlength="128" name="email" placeholder="Email" class="form__input one-whole" value="">
+                <br>
+                <input type="password" maxlength="128" name="password" placeholder="New Password" class="form__input one-whole" value="">
+                <input type="password" maxlength="128" name="password_confirmation" placeholder="Confirm Password" class="form__input one-whole" value="">
+
+                <input type="submit" class="btn one-whole" value="Reset Password">
+            </form>
+        </div>
+        <div class="modal__footer">
+        </div>
+    </div>
+</script>
+<script id="modal-forgot-password-success" type="text/template">
+    <div class="modal">
+        <div class="modal__header">
+            <h3>Check your email</h3>
+            <hr class="divider--thin">
+        </div>
+        <div class="modal__content">
+            <p>We sent you an email to reset your password; just click the link.</p>
+        </div>
+        <div class="modal__footer">
+        </div>
+    </div>
+</script>
+<script id="modal-confirm-email" type="text/template">
+    <div class="modal">
+        <div class="modal__header">
+            <h3>Almost There</h3>
+            <hr class="divider--thin">
+        </div>
+
+        <div id="confirm-email-errors"></div>
+
+        <div class="modal__content">
+            <p>We just need to confirm your email address and you'll be all set.</p>
+
+            <form id="confirm-email-form" action="/" method="POST">
+                <input type="hidden" name="action" value="confirm_email">
+                <input type="hidden" name="fan_id" value="">
+                <input type="email" maxlength="128" name="email" placeholder="Email" class="form__input one-whole">
+                <input type="email" maxlength="128" name="email_confirmation" placeholder="Confirm Email" class="form__input one-whole">
+                <input id="confirm-email-subscribed" type="checkbox" value="1" name="subscribe">
+                <label class="form__label--checkbox" for="confirm-email-subscribed">
+                    Subscribe to our elist                </label>
+                <input type="submit" value="Confirm">
+            </form>
+        </div>
+        <div class="modal__footer">
+        </div>
+    </div>
+</script>
+<script id="modal-confirm-email-success" type="text/template">
+    <div class="modal">
+        <div class="modal__header">
+            <h3>Check your email</h3>
+            <hr class="divider--thin">
+        </div>
+
+        <div id="confirm-email-errors"></div>
+
+        <div class="modal__content">
+            <p>We've sent you a confirmation email. Please click the link in that email to complete the login process.</p>
+        </div>
+        <div class="modal__footer">
+        </div>
+    </div>
+</script>
+<script id="modal-connect-email" type="text/template">
+    <div class="modal">
+        <div class="modal__header">
+            <h3>Connect with your email</h3>
+            <hr class="divider--thin">
+        </div>
+        <div class="modal__content">
+            <p>Confirm your email address and set a password to connect with your email.</p>
+            <form id="email-connect-form" action="/" method="POST">
+                <div id="connect-email-errors"></div>
+                <input type="hidden" name="action" value="connect_email">
+                <input type="hidden" name="fan_id" value="">
+
+                <input type="text" name="name" value="" placeholder="Full Name" class="form__input one-whole">
+
+                <input type="email" maxlength="128" name="email" placeholder="Email" class="form__input one-whole" value="">
+                <input type="email" maxlength="128" name="email_confirmation"placeholder="Confirm Email" class="form__input one-whole" value="">
+                <br>
+                <input type="password" maxlength="128" name="password" placeholder="Password" class="form__input one-whole">
+                <input type="password" maxlength="128" name="password_confirmation" placeholder="Confirm Password" class="form__input one-whole">
+                <br>
+
+                <input id="connect-email-subscribe" type="checkbox" value="1" name="subscribe" >
+                <label class="form__label--checkbox" for="connect-email-subscribe">
+                    Subscribe to our elist                </label>
+
+                <input type="submit" class="btn one-whole" value="Connect">
+            </form>
+        </div>
+        <div class="modal__footer">
+        </div>
+    </div>
+</script>
+<script type="text/javascript">
 /* <![CDATA[ */
-var C3FMConfig = {"ajaxUrl":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/themes\/lolla2014\/ajax\/wp-ajax.php","analytics":{"gaId":"UA-49228721-1","uaId":"UA-1835828-1","domain":"lollapalooza.com"},"themeUrl":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/themes\/lolla2014\/","defaultTrack":[],"messages":{"audioplayer":{"error":"<h3>This track is currently unavailable<\/h3>\r\n<p> Our staff has now been notified, thank you.<\/p>","timeout":"<h3>This track is currently unavailable<\/h3>\r\n<p>Your current internet connection speed is too slow to stream this track. Try again with a faster connection.<\/p>"},"janrain":{"loginError":"<h3>An Error Occured<\/h3>\r\n<p>We encountered a problem while trying to log you in. Please try again.<\/p>"},"myaccount":{"deleteAsk":"<h3>Are you sure?<\/h3>\r\n<p>You are about to delete your account. This cannot be undone.<\/p>\r\n<div class=\"text--right\"><a href=\"#\" class=\"btn btn--yellow btn--primary js-colorbox-close\">No<\/a> <a href=\"#\" class=\"btn btn--red btn--danger js-delete-confirm\">Yes<\/a><\/div>","privateAsk":"<h3>Are you sure?<\/h3>\r\n<p>You are about to make your account private, so no one will be able to view your favorites.<\/p>\r\n<div class=\"text--right\"><a href=\"#\" class=\"btn btn--yellow btn--primary js-colorbox-close\">No<\/a> <a href=\"#\" class=\"btn btn--red btn--danger js-private-confirm\">Yes<\/a><\/div>","publicAsk":"<h3>Are you sure?<\/h3>\r\n<p>You are about to make your account public, so that anyone will be able to view your favorites.<\/p>\r\n<div class=\"text--right\"><a href=\"#\" class=\"btn btn--yellow btn--primary js-colorbox-close\">No<\/a> <a href=\"#\" class=\"btn btn--red btn--danger js-public-confirm\">Yes<\/a><\/div>"}},"mailchimp":{"uuid":"da0c94b2fb2cb953b44fcc721"},"feedback":{"href":"mailto:info@lollapalooza.com?subject=Website Feedback"},"janrain":{"capture":{"appId":"zq8aysd4tct69p33ngs6kgrsa4","appDomain":"https:\/\/lollapalooza.janraincapture.com","clientId":"kj2ecf9vn7furh5x2hhuxu8t23a56nce","redirectUri":"http:\/\/www.lollapalooza.com"},"engage":{"appDomain":"https:\/\/login.lollapalooza.com","tokenUrl":"http:\/\/www.lollapalooza.com","shareDomain":"lollapalooza"},"widgetHtml":"<div style=\"display:none;\" id=\"signIn\">\r\n    <div class=\"capture_header\">\r\n        <h1>MyLolla<\/h1>\r\n    <\/div>\r\n    <div class=\"capture_signin--social\">\r\n        <h2>Sign in or sign up using<\/h2>\r\n        <a href=\"#\" id=\"facebook_signin\" class=\"modal-btn--facebook\" onclick=\"janrain.engage.signin.triggerFlow('facebook'); return false;\" data-bypass><img src=\"{facebookImage}\" height=\"44\" width=\"44\"\/>Facebook<\/a>\r\n    <\/div>\r\n           <h2 class=\"capture_signin--divider\">OR<\/h2>\r\n    <div class=\"capture_backgroundColor\">\r\n        <div class=\"capture_signin--callout\">\r\n            <h2>Sign in or sign up using email address<\/h2>\r\n                {* #userInformationForm *}\r\n                    {* traditionalSignIn_emailAddress *}\r\n                    {* traditionalSignIn_password *}\r\n                    <div class=\"capture_splitText\">\r\n                        {* traditionalSignIn_signInButton *}{* traditionalSignIn_createButton *}\r\n                    <\/div>\r\n                {* \/userInformationForm *}\r\n        <\/div>\r\n    <\/div>\r\n<\/div>\r\n<div style=\"display:none;\" id=\"returnSocial\">\r\n    <div class=\"capture_header\">\r\n        <h1>Sign In<\/h1>\r\n    <\/div>\r\n    <div class=\"capture_signin\">\r\n        <h2>Sign in using<\/h2>\r\n        <a href=\"#\" id=\"facebook_signin\" class=\"modal-btn--facebook\" onclick=\"janrain.engage.signin.triggerFlow('facebook'); return false;\" data-bypass><img src=\"{facebookImage}\" height=\"44\" width=\"44\"\/>Facebook<\/a>\r\n        <div class=\"capture_centerText switchLink\"><a href=\"#\" data-cancelcapturereturnexperience=\"true\" data-bypass>or use another account<\/a><\/div>\r\n    <\/div>\r\n<\/div>\r\n<div style=\"display:none;\" id=\"returnTraditional\">\r\n    <div class=\"capture_header\">\r\n        <h1>Sign In<\/h1>\r\n    <\/div>\r\n            <div class=\"capture_backgroundColor\">\r\n                {* #userInformationFormReturn *}\r\n                    {* traditionalSignIn_emailAddress *}\r\n                    {* traditionalSignIn_password *}\r\n                    <div class=\"capture_form_item capture_splitText\">\r\n                        {* traditionalSignIn_signInButton *}\r\n                    <\/div>\r\n                {* \/userInformationForm *}\r\n        <div class=\"capture_centerText switchLink\"><a href=\"#\" data-cancelcapturereturnexperience=\"true\" data-bypass>or use another account<\/a><\/div>\r\n    <\/div>\r\n<\/div>\r\n<div style=\"display:none;\" id=\"socialRegistration\">\r\n    <div class=\"capture_header\">\r\n        <h1>Almost Done!<\/h1>\r\n    <\/div>\r\n      <h2>Please confirm the information below<\/h2>\r\n        {* #socialRegistrationForm *}\r\n            {* socialRegistration_firstName *}\r\n            {* socialRegistration_lastName *}\r\n            {* socialRegistration_emailAddress *}\r\n            {* socialRegistration_newsLetter *}\r\n            By clicking \"Sign in\", you confirm that you accept our\r\n                <a href=\"\/terms-conditions\">terms of service<\/a> and have read and understand\r\n                <a href=\"\/privacy\">privacy policy<\/a>.\r\n            <div class=\"capture_footer\">\r\n                <div class=\"capture_left\">\r\n                    {* backButton *}\r\n                <\/div>\r\n                <div class=\"capture_right\">\r\n                {* socialRegistration_signInButton *}\r\n                <\/div>\r\n            <\/div>\r\n        {* \/socialRegistrationForm *}\r\n<\/div>\r\n<div style=\"display:none;\" id=\"registrationNewVerification\">\r\n    <div class=\"capture_header\">\r\n        <h1>Thank you for Signing Up!<\/h1>\r\n    <\/div>\r\n    <p>We have sent a confirmation email to {* emailAddressData *}.<\/p>\r\n    <div class=\"capture_footer\">\r\n        <a href=\"#\" class=\"capture_btn capture_primary js-modal-close\">Close<\/a>\r\n    <\/div>\r\n<\/div>\r\n<div style=\"display:none;\" id=\"traditionalRegistration\">\r\n    <div class=\"capture_header\">\r\n        <h1>Almost Done!<\/h1>\r\n    <\/div>\r\n    <p>Please confirm the information below before signing in. Already have a MyLolla account? <a href=\"#\" data-capturescreen=\"signIn\" data-bypass>Sign In.<\/a>\r\n    <\/p>\r\n        {* #registrationForm *}\r\n            {* traditionalRegistration_firstName *}\r\n            {* traditionalRegistration_lastName *}\r\n            {* traditionalRegistration_emailAddress *}\r\n            {* traditionalRegistration_password *}\r\n            {* traditionalRegistration_passwordConfirm *}\r\n            {* newsLetter *}\r\n            By clicking \"Sign Up\", you confirm that you accept our\r\n                <a href=\"\/terms-conditions\">terms of service<\/a> and have read and understand\r\n                <a href=\"\/privacy\">privacy policy<\/a>.\r\n            <div class=\"capture_footer\">\r\n                <div class=\"capture_left\">\r\n                    {* backButton *}\r\n                <\/div>\r\n                <div class=\"capture_right\">\r\n                {* createAccountButton *}\r\n                <\/div>\r\n            <\/div>\r\n        {* \/registrationForm *}\r\n<\/div>\r\n<div style=\"display:none;\" id=\"forgotPassword\">\r\n    <div class=\"capture_header\">\r\n        <h1>Create a new password<\/h1>\r\n    <\/div>\r\n    <h2>We'll send you a link to create a new password.<\/h2>\r\n    {* #forgotPasswordForm *}\r\n        {* traditionalSignIn_emailAddress *}\r\n        <div class=\"capture_footer\">\r\n            <div class=\"capture_left\">\r\n                {* backButton *}\r\n            <\/div>\r\n            <div class=\"capture_right\">\r\n                {* forgotPassword_sendButton *}\r\n            <\/div>\r\n        <\/div>\r\n    {* \/forgotPasswordForm *}\r\n<\/div>\r\n<div style=\"display:none;\" id=\"forgotPasswordSuccess\">\r\n    <div class=\"capture_header\">\r\n        <h1>Create a new password<\/h1>\r\n    <\/div>\r\n      <p>We've sent an email with instructions to create a new password. Your existing password has not been changed.<\/p>\r\n    <div class=\"capture_footer\">\r\n        <a href=\"#\" class=\"capture_btn capture_primary js-modal-close\">Close<\/a>\r\n    <\/div>\r\n<\/div>\r\n<div style=\"display:none;\" id=\"mergeAccounts\">\r\n    {* mergeAccounts {\"custom\":true} *}\r\n    <div id=\"capture_mergeAccounts_mergeAccounts_mergeOptionsContainer\" class=\"capture_mergeAccounts_mergeOptionsContainer\">\r\n        <div class=\"capture_header\">\r\n            <div class=\"capture_icon_col\">\r\n                {| rendered_current_photo |}\r\n            <\/div>\r\n            <div class=\"capture_displayName_col\">\r\n                {| current_displayName |}<br \/>\r\n                {| current_emailAddress |}\r\n            <\/div>\r\n            <span class=\"capture_mergeProvider janrain-provider-icon-24 janrain-provider-icon-{| current_provider_lowerCase |}\"><\/span>\r\n        <\/div>\r\n        <div class=\"capture_dashed\">\r\n            <div class=\"capture_centerText\">\r\n                <p class=\"capture_bigText\">{| foundExistingAccountText |}<\/b>.<\/p>\r\n            <\/div>\r\n        <\/div>\r\n        {| merge_radio |}\r\n        <div class=\"capture_footer\">\r\n            {| connect_button |}\r\n            {| create_button |}\r\n        <\/div>\r\n    <\/div>\r\n<\/div>\r\n<div style=\"display:none;\" id=\"traditionalAuthenticateMerge\">\r\n    <div class=\"capture_header\">\r\n        <h1>Sign in to complete account merge<\/h1>\r\n    <\/div>\r\n    <div class=\"capture_signin\">\r\n    {* #tradAuthenticateMergeForm *}\r\n        {* traditionalSignIn_emailAddress *}\r\n        {* mergePassword *}\r\n        <div class=\"capture_footer\">\r\n            <div class=\"capture_left\">\r\n                {* backButton *}\r\n            <\/div>\r\n            <div class=\"capture_right\">\r\n                {* traditionalSignIn_signInButton *}\r\n            <\/div>\r\n        <\/div>\r\n     {* \/tradAuthenticateMergeForm *}\r\n    <\/div>\r\n<\/div>\r\n<div style=\"display:none;\" id=\"verifyEmail\">\r\n    <div class=\"capture_header\">\r\n        <h1>Resend Email Verification<\/h1>\r\n    <\/div>\r\n    <p>Sorry we could not verify that email address. Enter your email below and we'll send you another email.<\/p>\r\n    {* #resendVerificationForm *}\r\n        {* traditionalSignIn_emailAddress *}\r\n        <div class=\"capture_footer\">\r\n            {* submitButton *}\r\n        <\/div>\r\n     {* \/resendVerificationForm *}\r\n<\/div>\r\n<div style=\"display:none;\" id=\"resendVerificationSuccess\">\r\n    <div class=\"capture_header\">\r\n        <h1>Your Verification Email Has Been Sent<\/h1>\r\n    <\/div>\r\n    <div class=\"hr\"><\/div>\r\n    <p>Check your email for a link to reset your password.<\/p>\r\n    <div class=\"capture_footer\">\r\n        <a href=\"#\" data-capturescreen=\"signIn\" class=\"capture_btn capture_primary js-modal-close\" data-bypass>OK<\/a>\r\n    <\/div>\r\n<\/div>\r\n<div style=\"display:none;\" id=\"verifyEmailSuccess\">\r\n    <div class=\"capture_header\">\r\n        <h1>You did it!<\/h1>\r\n    <\/div>\r\n    <p>Thank you for verifiying your email address.\r\n    <div class=\"capture_footer\">\r\n        <a href=\"#\" class=\"capture_btn capture_primary js-modal-close\">OK<\/a>\r\n    <\/div>\r\n<\/div>\r\n<div style=\"display:none;\" id=\"resetPassword\">\r\n    <div class=\"capture_header\">\r\n        <h1>Change password<\/h1>\r\n    <\/div>\r\n    {* newPasswordForm *}\r\n        {* newpassword *}\r\n        {* newpasswordConfirm *}\r\n        <div class=\"capture_footer\">\r\n            {* submitButton *}\r\n        <\/div>\r\n    {* \/newPasswordForm *}\r\n<\/div>\r\n<div style=\"display:none;\" id=\"resetPasswordSuccess\">\r\n    <div class=\"capture_header\">\r\n        <h1>Your password has been changed<\/h1>\r\n    <\/div>\r\n    <p>Password has been successfully updated.<\/p>\r\n    <div class=\"capture_footer\">\r\n        <a href=\"#\" class=\"capture_btn capture_primary js-modal-close\">Close<\/a>\r\n    <\/div>\r\n<\/div>\r\n<div style=\"display:none;\" id=\"resetPasswordRequestCode\">\r\n    <div class=\"capture_header\">\r\n        <h1>Create a new password<\/h1>\r\n    <\/div>\r\n    <p>We didn't recognize that password reset code. Enter your email address to get a new one.<\/p>\r\n    {* #resetPasswordForm *}\r\n        {* traditionalSignIn_emailAddress *}\r\n        <div class=\"capture_footer\">\r\n            {* forgotPassword_sendButton *}\r\n        <\/div>\r\n    {* \/resetPasswordForm *}\r\n<\/div>\r\n<div style=\"display:none;\" id=\"resetPasswordRequestCodeSuccess\">\r\n    <div class=\"capture_header\">\r\n        <h1>Create a new password<\/h1>\r\n    <\/div>\r\n      <p>We've sent an email with instructions to create a new password. Your existing password has not been changed.<\/p>\r\n    <div class=\"capture_footer\">\r\n        <a href=\"#\" class=\"capture_btn capture_primary js-modal-close\">Close<\/a>\r\n    <\/div>\r\n<\/div>\r\n<div style=\"display:none;\" id=\"editProfile\">\r\n    <div class=\"grid text--center\">\r\n        <div class=\"grid__item one-whole\">\r\n            <h3 class=\"divider--title\"><span>Account Info<\/span><\/h3>\r\n            <div class=\"contentBoxWhiteShadow\">\r\n                <div class=\"capture_grid_block\">\r\n                    <div class=\"capture_center_col\">\r\n                        <div class=\"capture_editCol\">\r\n                            <p>This is the Full Name and E-mail Address associated with this MyLolla Account. Please make sure all information is correct. This is not the same as being signed up on our E-list. To receive e-mail updates from us, visit our <a href=\"\/connect\">Connect Page<\/a>.<\/p>\r\n                            {* editProfileForm *}\r\n                                    {* name *}\r\n                                    {* email *}\r\n                                    <div class=\"capture_form_item\">\r\n                                        <label for=\"capture_editProfile_myfest\">Unique MyLolla Festival Link<\/label>\r\n                                        <input id=\"capture_editProfile_myfest\" type=\"text\" class=\"capture_editProfile_myfest capture_text_input\" disabled value=\"{customUrl}\">\r\n                                    <\/div>\r\n                                    <div class=\"capture_form_item\">\r\n                                        {* saveButton *}\r\n                                        {* savedProfileMessage *}\r\n                                    <\/div>\r\n                            {* \/editProfileForm *}\r\n                        <\/div>\r\n                    <\/div>\r\n                <\/div>\r\n            <\/div>\r\n        <\/div><!--\r\n        --><div id=\"jr-profile-link-accounts\" class=\"grid__item one-whole\">\r\n            <h3 class=\"divider--title\"><span>Linked Accounts<\/span><\/h3>\r\n            <div class=\"contentBoxWhiteShadow\">\r\n                <div class=\"capture_grid_block\">\r\n                    <div class=\"capture_center_col\">\r\n                        <p>If you've only created a traditional email based MyLolla Account, then you can click below to link this account to your Facebook account so you can start comparing your festival experience to your friends.<\/p>\r\n                        {* linkedAccounts *}\r\n                        {* linkAccountContainer *}\r\n                            <div class=\"capture_header\">\r\n                                <h1>Link your accounts<\/h1>\r\n                            <\/div>\r\n                            <h2>Allows you to sign in to your account using that provider in the future.<\/h2>\r\n                            <div class=\"capture_signin\">\r\n                                <a href=\"#\" id=\"facebook_signin\" class=\"modal-btn--facebook\" data-bypass onclick=\"janrain.engage.signin.triggerFlow('facebook'); return false;\"><img src=\"{facebookImage}\" height=\"44\" width=\"44\"\/>Facebook<\/a>\r\n                            <\/div>\r\n                        {* \/linkAccountContainer *}\r\n                    <\/div>\r\n                <\/div>\r\n            <\/div>\r\n        <\/div><!--\r\n        --><div class=\"grid__item one-whole janrain_traditional_account_only\">\r\n               <h3 class=\"divider--title\"><span>Change Password<\/span><\/h3>\r\n               <div class=\"contentBoxWhiteShadow\">\r\n                   <div class=\"capture_grid_block\">\r\n                       <div class=\"capture_center_col\">\r\n                           <!-- Only show this if it was from a traditional login !-->\r\n                           <div class=\"janrain_traditional_account_only contentBoxWhiteShadow\">\r\n                               <a href=\"#\" class=\"btncapture_saveButton capture_btn capture_primary\" data-capturescreen=\"changePassword\" data-bypass>Change Password<\/a>\r\n                           <\/div>\r\n                       <\/div>\r\n                   <\/div>\r\n               <\/div>\r\n           <\/div><!--\r\n        --><div class=\"grid__item one-whole\">\r\n               <h3 class=\"divider--title\"><span>Privacy<\/span><\/h3>\r\n               <div class=\"contentBoxWhiteShadow\">\r\n                   <div class=\"capture_grid_block\">\r\n                       <div class=\"capture_center_col\">\r\n                            <p class=\"capture_editCol\">To make your My Festival Page and MyLolla Account private, click the button below. For more information, visit our <a href=\"\/privacy\">Privacy<\/a> and <a href=\"\/terms-conditions\">Terms & Conditions<\/a>.<\/p>\r\n                            <a href=\"#\" class=\"btn btn--yellow capture_saveButton capture_btn capture_primary js-make-private\">Make Your Festival Private...<\/a>\r\n                            <a href=\"#\" class=\"btn btn--yellow capture_saveButton capture_btn capture_primary js-make-public\">Make Your Festival Public...<\/a>\r\n                       <\/div>\r\n                   <\/div>\r\n               <\/div>\r\n           <\/div><!--\r\n        --><div class=\"grid__item one-whole\">\r\n               <h3 class=\"divider--title\"><span>Delete Account<\/span><\/h3>\r\n               <div class=\"contentBoxWhiteShadow\">\r\n                   <div class=\"capture_grid_block\">\r\n                       <div class=\"capture_center_col\">\r\n                            <p>To permanently delete this My Festival Page and MyLolla Account, click the button below. This cannot be undone\u2026but you can always sign up again!<\/p>\r\n                            <a href=\"#\" class=\"btn btn--red btn--danger js-delete-ask\">Delete Your Account...<\/a>\r\n                       <\/div>\r\n                   <\/div>\r\n               <\/div>\r\n           <\/div>\r\n       <\/div>\r\n<\/div>\r\n<div style=\"display:none;\" id=\"changePassword\">\r\n    <div class=\"capture_header\">\r\n        <h1>Change password<\/h1>\r\n    <\/div>\r\n    {* newPasswordForm *}\r\n        {* oldpassword *}\r\n        {* newpassword *}\r\n        {* newpasswordConfirm *}\r\n        <div class=\"capture_footer\">\r\n            {* saveButton *}\r\n        <\/div>\r\n    {* \/newPasswordForm *}\r\n<\/div>\r\n<div style=\"display:none;\" id=\"changePasswordSuccess\">\r\n    <div class=\"capture_header\">\r\n        <h1>You did it!<\/h1>\r\n    <\/div>\r\n      <p>Your password has been successfully changed.<\/p>\r\n    <div class=\"capture_footer\">\r\n        <a href=\"#\" class=\"capture_btn capture_primary js-modal-close\">Close<\/a>\r\n    <\/div>\r\n<\/div>\r\n<div style=\"display: none;\" id=\"publicProfileModal\">\r\n    <div class=\"capture_header\">\r\n        <h1>My profile<\/h1>\r\n    <\/div>\r\n    <div class=\"capture_grid_block\">\r\n        <div class=\"capture_col_6\">\r\n            <div class=\"capture_profile_pic\">\r\n                <div id=\"profile_pic\" class=\"capture_default\">\r\n                    {* profilePhotoCustom *}\r\n                <\/div>\r\n            <\/div>\r\n        <\/div>\r\n        <div class=\"capture_col_6\">\r\n            <h2>{* public_displayName *}<\/h2>\r\n            {* public_profileBlurb *}\r\n        <\/div>\r\n    <\/div>\r\n    {* public_name *}\r\n    {* public_emailAddress *}\r\n    <div class=\"capture_footer\">\r\n        <div class=\"capture_right\">\r\n            <a href=\"#\" class=\"capture_btn capture_primary js-modal-close\">Close<\/a>\r\n        <\/div>\r\n    <\/div>\r\n<\/div>\r\n<div id=\"janrainEngageEmbed\"  style=\"display:none;\"><\/div>","language":"en"},"audioplayer":{"disabled":false,"clientId":"e505ebee18216dde4d168ad4926f65ed"},"colorbox":{"close":"<span class=\"close\">&times;<\/span> Close"},"l10n":{"Close":"Close","Sign In\/Sign Up":"Sign In\/Sign Up","Sign Out":"Sign Out","Add":"Add","Remove":"Remove","Listen":"Listen","Share":"Share"},"year":"2014","selectedYear":"2014","currentUser":"0","allArtistsTracks":{"i9637":[{"track__artistId":9637,"track__artist":"GTA","track__url":"http:\/\/soundcloud.com\/fly-eye\/flyeye120-gta-the-crowd","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/113495836","track__title":"FLYEYE120: GTA - The Crowd"}],"i9618":[{"track__artistId":9618,"track__artist":"DARKSIDE","track__url":"http:\/\/soundcloud.com\/daftside-2\/paper-trails","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/110945653","track__title":"Paper Trails"}],"i11322":[{"track__artistId":11322,"track__artist":"Play Date","track__url":"https:\/\/soundcloud.com\/iloveplaydate\/play-date-dance-like-a-monster?in=iloveplaydate\/sets\/play-date-imagination","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/71269390","track__title":"Play Date - Dance Like A Monster"}],"i9373":[{"track__artistId":9373,"track__artist":"Lindsay Lowend","track__url":"http:\/\/soundcloud.com\/lindsay-lowend\/gt40?in=lindsay-lowend\/sets\/wind-fish-ep","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/104250170","track__title":"GT40"}],"i10316":[{"track__artistId":10316,"track__artist":"Wallpaper.","track__url":"http:\/\/soundcloud.com\/wallpaper\/wallpaper-hesher-kairo-kingdom","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/119077438","track__title":"Wallpaper. - Hesher (Kairo Kingdom Remix)"}],"i9668":[{"track__artistId":9668,"track__artist":"Lykke Li","track__url":"https:\/\/soundcloud.com\/lykkeli\/no-rest-for-the-wicked","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/140323134","track__title":"No Rest For The Wicked"}],"i10318":[{"track__artistId":10318,"track__artist":"Highly Suspect","track__url":"http:\/\/soundcloud.com\/highlysuspect-2\/lydia","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/98578607","track__title":"Lydia"}],"i9422":[{"track__artistId":9422,"track__artist":"Crass Mammoth","track__url":"https:\/\/soundcloud.com\/3qtr\/all-149","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/148283938","track__title":"Crass Mammoth | The Long Way"}],"i9418":[{"track__artistId":9418,"track__artist":"Lorde","track__url":"http:\/\/soundcloud.com\/lordemusic\/royals","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/68377502","track__title":"Royals"}],"i11312":[{"track__artistId":11312,"track__artist":"The Q Brothers","track__url":"https:\/\/soundcloud.com\/duelingcritics\/the-q-brothers-remix-othello","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/84436590","track__title":"The Q Brothers remix \u2018Othello\u2019"}],"i9420":[{"track__artistId":9420,"track__artist":"Young the Giant","track__url":"http:\/\/soundcloud.com\/youngthegiant\/its-about-time","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/117440301","track__title":"It's About Time"}],"i9430":[{"track__artistId":9430,"track__artist":"Portugal. The Man","track__url":"http:\/\/soundcloud.com\/portugaltheman\/modern-jesus","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/93262195","track__title":"Modern Jesus"}],"i9583":[{"track__artistId":9583,"track__artist":"Courtney Barnett","track__url":"http:\/\/soundcloud.com\/courtney-barnett-milk\/anonymous-club","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/133869230","track__title":"Anonymous Club"}],"i9766":[{"track__artistId":9766,"track__artist":"John Butler Trio","track__url":"https:\/\/soundcloud.com\/vanguard-records\/john-butler-trio-only-one-1","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/119819838","track__title":"John Butler Trio - Only One"}],"i9446":[{"track__artistId":9446,"track__artist":"Chromeo","track__url":"http:\/\/soundcloud.com\/chromeo\/over-your-shoulder","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/109962663","track__title":"Over Your Shoulder"}],"i9647":[{"track__artistId":9647,"track__artist":"Betty Who","track__url":"http:\/\/soundcloud.com\/bettywhomusic\/betty-who-heartbreak-dream","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/132854062","track__title":"Betty Who - Heartbreak Dream"}],"i9783":[{"track__artistId":9783,"track__artist":"Vic Mensa","track__url":"http:\/\/soundcloud.com\/fuck-vic-mensa\/feel-that-official","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/136916897","track__title":"Vic Mensa - Feel That (Official)"}],"i9678":[{"track__artistId":9678,"track__artist":"Phantogram","track__url":"http:\/\/soundcloud.com\/phantogram\/fall-in-love","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/124170847","track__title":"Fall In Love"}],"i9393":[{"track__artistId":9393,"track__artist":"Phosphorescent","track__url":"http:\/\/soundcloud.com\/deadoceans\/phosphorescent-song-for-zula","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/71082732","track__title":"Phosphorescent - Song For Zula (Official Audio)"}],"i9379":[{"track__artistId":9379,"track__artist":"Chance The Rapper","track__url":"https:\/\/soundcloud.com\/chancetherapper\/smoke-again-ft-ab-soul","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/90243761","track__title":"Smoke Again (ft. Ab-Soul)"}],"i9684":[{"track__artistId":9684,"track__artist":"Bronze Radio Return","track__url":"http:\/\/soundcloud.com\/bronze-radio-return\/03-shake-shake-shake-mp3-1?in=bronze-radio-return\/sets\/brr-website-tunes","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/9566115","track__title":"Shake, Shake, Shake"}],"i9649":[{"track__artistId":9649,"track__artist":"CHVRCHES","track__url":"http:\/\/soundcloud.com\/chvrches\/recover","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/77997623","track__title":"CHVRCHES - Recover"}],"i9377":[{"track__artistId":9377,"track__artist":"The Head and the Heart","track__url":"http:\/\/soundcloud.com\/theheadandtheheart\/the-head-and-the-heart-shake","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/103616868","track__title":"The Head and The Heart - Shake"}],"i9365":[{"track__artistId":9365,"track__artist":"Into It. Over It. ","track__url":"http:\/\/soundcloud.com\/triplecrownrecords\/intoitoverit-the-shaking-of-leaves","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/106229293","track__title":"Into It. Over It. - The Shaking Of Leaves"}],"i9661":[{"track__artistId":9661,"track__artist":"Cage The Elephant","track__url":"https:\/\/soundcloud.com\/cagetheelephant\/come-a-little-closer","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/104543979","track__title":"Come A Little Closer"}],"i9406":[{"track__artistId":9406,"track__artist":"Bear Hands","track__url":"http:\/\/soundcloud.com\/bearhandsband\/giants","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/114579651","track__title":"Giants"}],"i9624":[{"track__artistId":9624,"track__artist":"Crizzly","track__url":"http:\/\/soundcloud.com\/crizzly\/hold-up-feat-nipsey-hustle","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/126323842","track__title":"Marion Band$ - Hold Up (feat. Nipsey Hustle) (Crizzly Remix)"}],"i10120":[{"track__artistId":10120,"track__artist":"Typhoon","track__url":"http:\/\/soundcloud.com\/wearetyphoon\/dreams-of-cannibalism-single","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/91903093","track__title":"Typhoon - Dreams Of Cannibalism"}],"i9371":[{"track__artistId":9371,"track__artist":"Martin Garrix","track__url":"http:\/\/soundcloud.com\/spinninrecords\/martin-garrix-firebeatz","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/135264849","track__title":"Martin Garrix & Firebeatz - Helicopter (Original Mix)"}],"i9674":[{"track__artistId":9674,"track__artist":"Wrestlers","track__url":"http:\/\/soundcloud.com\/redbullsoundselect\/bagheera-say-anthing","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/137917505","track__title":"Bagheera - Say Anything (Feat. Twin Shadow and D'Angelo Lacy)"}],"i9478":[{"track__artistId":9478,"track__artist":"Bleachers","track__url":"http:\/\/soundcloud.com\/bleachers\/i-wanna-get-better","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/134118386","track__title":"I Wanna Get Better"}],"i9797":[{"track__artistId":9797,"track__artist":"Desert Noises","track__url":"http:\/\/soundcloud.com\/sqemusic\/desert-noises-out-of-my-head","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/129513240","track__title":"Out Of My Head"}],"i9785":[{"track__artistId":9785,"track__artist":"Royal Blood","track__url":"http:\/\/soundcloud.com\/royalblooduk\/little-monster-1","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/134041449","track__title":"Little Monster"}],"i10110":[{"track__artistId":10110,"track__artist":"RAC","track__url":"http:\/\/soundcloud.com\/rac\/tear-you-down-ft-alex-ebert","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/136603251","track__title":"Tear You Down (ft. Alex Ebert)"}],"i9771":[{"track__artistId":9771,"track__artist":"Jagwar Ma","track__url":"http:\/\/soundcloud.com\/jagwar-ma\/uncertainty-cut-copy-rmx","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/143530780","track__title":"Uncertainty (Cut Copy Remix)"}],"i11313":[{"track__artistId":11313,"track__artist":"Brady Rymer and the Little Band That Could","track__url":"https:\/\/soundcloud.com\/bradyrymer\/gettin-my-ya-yas-out","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/149524970","track__title":"Gettin' My Ya Ya's Out"}],"i9952":[{"track__artistId":9952,"track__artist":"Broken Bells","track__url":"http:\/\/soundcloud.com\/brokenbellsmusic\/holding","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/118528380","track__title":"Holding On For Life"}],"i9655":[{"track__artistId":9655,"track__artist":"Kings of Leon","track__url":"https:\/\/soundcloud.com\/kingsofleon\/supersoaker\/s-BMRUQ?in=kingsofleon\/sets\/mechanical-bull\/s-BMRUQ","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/117025329?secret_token=s-BMRUQ","track__title":"Supersoaker"}],"i9341":[{"track__artistId":9341,"track__artist":"Foster The People","track__url":"http:\/\/soundcloud.com\/dukedumont\/duke-dumont-need-u-100-ft-a-m","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/71000019","track__title":"Duke Dumont - Need U (100%)"}],"i10101":[{"track__artistId":10101,"track__artist":"Gemini Club","track__url":"http:\/\/soundcloud.com\/geminiclub\/sparklers-2013","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/106201217","track__title":"Sparklers (Radio Edit)"}],"i9442":[{"track__artistId":9442,"track__artist":"Fitz & The Tantrums","track__url":"","track__streamUrl":"","track__title":""}],"i9334":[{"track__artistId":9334,"track__artist":"Roadkill Ghost Choir","track__url":"http:\/\/soundcloud.com\/roadkillghostchoir\/beggars-guild?in=roadkillghostchoir\/sets\/quiet-light-ep","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/100514734","track__title":"Beggars' Guild"}],"i9359":[{"track__artistId":9359,"track__artist":"J. Roddy Walston & The Business","track__url":"http:\/\/soundcloud.com\/j-roddy-walston\/j-roddy-walston-the-business-1","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/104290204","track__title":"J. Roddy Walston & The Business - Marigold"}],"i9682":[{"track__artistId":9682,"track__artist":"jhen\u00e9 aiko","track__url":"","track__streamUrl":"","track__title":""}],"i9754":[{"track__artistId":9754,"track__artist":"The 1975","track__url":"http:\/\/soundcloud.com\/the1975\/chocolate","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/75503064","track__title":"The 1975 - Chocolate"}],"i9779":[{"track__artistId":9779,"track__artist":"Jungle","track__url":"http:\/\/soundcloud.com\/jungle-8\/busy-earnin-1","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/135270855","track__title":"Busy Earnin'"}],"i10116":[{"track__artistId":10116,"track__artist":"Plastic Visions","track__url":"http:\/\/soundcloud.com\/plasticvisionsmusic\/plastic-visions-little-string?in=plasticvisionsmusic\/sets\/plastic-visions-ep","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/82348918","track__title":"Plastic Visions - Little String"}],"i9440":[{"track__artistId":9440,"track__artist":"Flosstradamus","track__url":"http:\/\/soundcloud.com\/flosstradamus\/b-nned-3d","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/129780096","track__title":"B\u26a0NNED 3D"}],"i9581":[{"track__artistId":9581,"track__artist":"Jacob Plant","track__url":"http:\/\/soundcloud.com\/jacobplant\/jacob-plant-shakedown","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/77014657","track__title":"Jacob Plant - Shakedown"}],"i9801":[{"track__artistId":9801,"track__artist":"Anna Lunoe","track__url":"http:\/\/soundcloud.com\/anna-lunoe\/q-seattle-boondocks-houston?in=anna-lunoe\/sets\/luney-tunes-mixes","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/137831723","track__title":"LUNEY TUNES 14.02: Q Seattle \/\/ Boondocks Houston"}],"i9680":[{"track__artistId":9680,"track__artist":"Joywave","track__url":"http:\/\/soundcloud.com\/joywave\/tongues","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/87116096","track__title":"Tongues (feat. KOPPS)"}],"i9434":[{"track__artistId":9434,"track__artist":"Run The Jewels","track__url":"http:\/\/soundcloud.com\/foolsgoldrecs\/run-the-jewels-banana-clipper","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/94724240","track__title":"Run The Jewels - Banana Clipper feat. Big Boi"}],"i9752":[{"track__artistId":9752,"track__artist":"Gramatik","track__url":"http:\/\/soundcloud.com\/gramatik\/02-gramatik-torture-feat","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/131062792","track__title":"Gramatik - Torture Feat. Eric Krasno"}],"i9424":[{"track__artistId":9424,"track__artist":"Krewella","track__url":"http:\/\/soundcloud.com\/krewella\/enjoy-the-ride","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/111062826","track__title":"Enjoy The Ride"}],"i9742":[{"track__artistId":9742,"track__artist":"Zedd","track__url":"http:\/\/soundcloud.com\/interscope\/zedd-find-you-ft-matthew-koma","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/132430883","track__title":"Zedd - Find You (ft. Matthew Koma & Miriam Bryant)"}],"i9416":[{"track__artistId":9416,"track__artist":"Temples","track__url":"http:\/\/soundcloud.com\/templesofficial\/temples-mesmerise","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/119929920","track__title":"Temples - Mesmerise"}],"i9480":[{"track__artistId":9480,"track__artist":"Charlie Hirsch","track__url":"http:\/\/soundcloud.com\/charliehirsch\/beaten-up-and-broken-down","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/70484755","track__title":"Beaten Up and Broken Down"}],"i9438":[{"track__artistId":9438,"track__artist":"Z-Trip","track__url":"http:\/\/soundcloud.com\/z-trip\/z-trip-bbc-radio1-hip-hop","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/129732558","track__title":"Z - Trip - BBC Radio1 Hip Hop Takeover Mix (Unedited)"}],"i9444":[{"track__artistId":9444,"track__artist":"The Glitch Mob","track__url":"http:\/\/soundcloud.com\/theglitchmob\/cant-kill-us","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/124726630","track__title":"The Glitch Mob - Can't Kill Us"}],"i9954":[{"track__artistId":9954,"track__artist":"Nas","track__url":"","track__streamUrl":"","track__title":""}],"i9385":[{"track__artistId":9385,"track__artist":"Chase & Status","track__url":"http:\/\/soundcloud.com\/chaseandstatus\/blk-blu-feat-ed-thomas?in=chaseandstatus\/sets\/blk-blu","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/115788241","track__title":"Blk & Blu Feat Ed Thomas"}],"i9369":[{"track__artistId":9369,"track__artist":"Calvin Harris","track__url":"http:\/\/soundcloud.com\/calvinharris\/the-killers-when-you-were","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/113229300","track__title":"The Killers - When You Were Young (Calvin Harris Remix) PREVIEW"}],"i9412":[{"track__artistId":9412,"track__artist":"Delta Rae","track__url":"http:\/\/soundcloud.com\/deltaraemusicsoundcloud\/delta-rae-if-i-loved-you-feat","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/85199937","track__title":"Delta Rae - If I Loved You (feat. Lindsey Buckingham)"}],"i9803":[{"track__artistId":9803,"track__artist":"Rocky Business","track__url":"http:\/\/soundcloud.com\/rockybusiness\/01-king-is-dead?in=rockybusiness\/sets\/rbjulysjoy","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/95870955","track__title":"01 King is Dead"}],"i9355":[{"track__artistId":9355,"track__artist":"NONONO","track__url":"http:\/\/soundcloud.com\/nononoofficial\/nonono-x-pumpin-blood","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/86830295","track__title":"NONONO x Pumpin Blood"}],"i9408":[{"track__artistId":9408,"track__artist":"PAPA","track__url":" http:\/\/soundcloud.com\/papatheband\/put-me-to-work","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/64769912","track__title":"Put Me To Work"}],"i9339":[{"track__artistId":9339,"track__artist":"AFI","track__url":"http:\/\/soundcloud.com\/afi-official\/i-hope-you-suffer","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/101344021","track__title":"I Hope You Suffer"}],"i10118":[{"track__artistId":10118,"track__artist":"GROUPLOVE","track__url":"","track__streamUrl":"","track__title":""}],"i9391":[{"track__artistId":9391,"track__artist":"Blood Orange","track__url":"http:\/\/soundcloud.com\/bloodorange\/it-is-what-it-is","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/150638283","track__title":"It Is What It Is"}],"i11314":[{"track__artistId":11314,"track__artist":"Peter DiStefano & Tor","track__url":"https:\/\/soundcloud.com\/perkana\/peter-distefano-peace-by","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/70630406","track__title":"Peter DiStefano -  Peace By Example"}],"i9375":[{"track__artistId":9375,"track__artist":"Rebelution","track__url":"http:\/\/soundcloud.com\/rebelutionmusic\/rebelution-good-vibes","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/28626934","track__title":"Rebelution - Good Vibes (Featuring Lutan Fyah)"}],"i9664":[{"track__artistId":9664,"track__artist":"The Last Internationale","track__url":"http:\/\/soundcloud.com\/the-last-internationale\/life-liberty-and-the-pursuit-1","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/138070663","track__title":"Life, Liberty, And The Pursuit Of Indian Blood"}],"i9717":[{"track__artistId":9717,"track__artist":"Skrillex","track__url":"http:\/\/soundcloud.com\/skrillex\/chase-status-international","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/115618581","track__title":"Chase & Status - International (Skrillex Remix)"}],"i9657":[{"track__artistId":9657,"track__artist":"The Districts","track__url":"http:\/\/soundcloud.com\/fatpossum\/the-districts-funeral-beds","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/123093622","track__title":"The Districts - Funeral Beds"}],"i9414":[{"track__artistId":9414,"track__artist":"heRobust","track__url":"http:\/\/soundcloud.com\/herobust\/get-busted-2","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/130482948","track__title":"Get Busted"}],"i9387":[{"track__artistId":9387,"track__artist":"Duke Dumont","track__url":"http:\/\/soundcloud.com\/dukedumont\/duke-dumont-need-u-100-ft-a-m","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/71000019","track__title":"Duke Dumont - Need U (100%)"}],"i9768":[{"track__artistId":9768,"track__artist":"Bombay Bicycle Club","track__url":"http:\/\/soundcloud.com\/bombay-bicycle-club\/luna\/","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/128186606","track__title":"Luna"}],"i9332":[{"track__artistId":9332,"track__artist":"San Fermin","track__url":"http:\/\/soundcloud.com\/san-fermin-1\/sonsick","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/70128142","track__title":"Sonsick"}],"i9627":[{"track__artistId":9627,"track__artist":"of Verona","track__url":"http:\/\/soundcloud.com\/ofverona\/dark-in-my-imagination","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/48190654","track__title":"Dark In My Imagination"}],"i9426":[{"track__artistId":9426,"track__artist":"Wildcat! Wildcat!","track__url":"http:\/\/soundcloud.com\/wildcat-wildcat\/garden-grays-2?in=wildcat-wildcat\/sets\/wildcat-wildcat-2012-set","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/107840017","track__title":"Garden Grays"}],"i9757":[{"track__artistId":9757,"track__artist":"The Kooks","track__url":"http:\/\/soundcloud.com\/kooksmusic\/hooray-for-henry","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/143663730","track__title":"Hooray For Henry"}],"i9361":[{"track__artistId":9361,"track__artist":"Above & Beyond","track__url":"http:\/\/soundcloud.com\/aboveandbeyond\/above-and-beyond-hello","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/135317772","track__title":"Above & Beyond - Hello (Danny Howard's BBC Radio 1 Future Anthem)"}],"i9629":[{"track__artistId":9629,"track__artist":"Brillz","track__url":"http:\/\/soundcloud.com\/itsbrillz\/rvtchet-bitch-feat-teddy","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/84961311","track__title":"Rvtchet Bitch feat. Teddy Tuxedo"}],"i12330":[{"track__artistId":12330,"track__artist":"Hozier","track__url":"https:\/\/soundcloud.com\/hozier\/take-me-to-church-1","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/118520884","track__title":"Take Me To Church"}],"i9357":[{"track__artistId":9357,"track__artist":"Kodaline","track__url":"http:\/\/soundcloud.com\/kodaline\/one-day-2014-version","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/128638076","track__title":"One Day (2014 version)"}],"i9756":[{"track__artistId":9756,"track__artist":"Gesaffelstein","track__url":"http:\/\/soundcloud.com\/gesaffelstein\/hate-or-glory","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/115297191","track__title":"HATE OR GLORY"}],"i9345":[{"track__artistId":9345,"track__artist":"Arctic Monkeys","track__url":"http:\/\/soundcloud.com\/arcticmonkeys\/stop-the-world-i-wanna-get-off","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/111086293","track__title":"Stop The World I Wanna Get Off With You"}],"i12336":[{"track__artistId":12336,"track__artist":"Shy Girls","track__url":"https:\/\/soundcloud.com\/shygirls\/second-heartbeat","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/116450386","track__title":"Second Heartbeat"}],"i9946":[{"track__artistId":9946,"track__artist":"Cardiknox","track__url":"http:\/\/soundcloud.com\/cardiknox\/technicolor-dreaming","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/109040635","track__title":"Technicolor Dreaming"}],"i9399":[{"track__artistId":9399,"track__artist":"Lucius","track__url":"http:\/\/soundcloud.com\/ilovelucius\/turn-it-around-1","track__streamUrl":"","track__title":""}],"i9403":[{"track__artistId":9403,"track__artist":"Childish Gambino","track__url":"http:\/\/soundcloud.com\/childish-gambino\/telegraph-ave","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/122326263","track__title":"telegraph ave."}],"i9782":[{"track__artistId":9782,"track__artist":"Meg Myers","track__url":"http:\/\/soundcloud.com\/meginthedark\/desire","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/109466139","track__title":"Desire"}]}};
+var C3FMConfig = {"ajaxUrl":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/themes\/lolla2014\/ajax\/wp-ajax.php","alexa":{"accountId":"JyTzk1aUy1008N","domain":"lollapalooza.com"},"analytics":{"gaId":"UA-49228721-1","uaId":"UA-1835828-1","domain":"lollapalooza.com"},"themeUrl":"http:\/\/www.lollapalooza.com\/wp\/wp-content\/themes\/lolla2014\/","defaultTrack":[],"messages":{"audioplayer":{"error":"<h3>This track is currently unavailable<\/h3>\r\n<p> Our staff has now been notified, thank you.<\/p>","timeout":"<h3>This track is currently unavailable<\/h3>\r\n<p>Your current internet connection speed is too slow to stream this track. Try again with a faster connection.<\/p>"},"janrain":{"loginError":"<h3>An Error Occured<\/h3>\r\n<p>We encountered a problem while trying to log you in. Please try again.<\/p>"},"myaccount":{"deleteAsk":"<h3>Are you sure?<\/h3>\r\n<p>You are about to delete your account. This cannot be undone.<\/p>\r\n<div class=\"text--right\"><a href=\"#\" class=\"btn btn--yellow btn--primary js-colorbox-close\">No<\/a> <a href=\"#\" class=\"btn btn--red btn--danger js-delete-confirm\">Yes<\/a><\/div>","privateAsk":"<h3>Are you sure?<\/h3>\r\n<p>You are about to make your account private, so no one will be able to view your favorites.<\/p>\r\n<div class=\"text--right\"><a href=\"#\" class=\"btn btn--yellow btn--primary js-colorbox-close\">No<\/a> <a href=\"#\" class=\"btn btn--red btn--danger js-private-confirm\">Yes<\/a><\/div>","publicAsk":"<h3>Are you sure?<\/h3>\r\n<p>You are about to make your account public, so that anyone will be able to view your favorites.<\/p>\r\n<div class=\"text--right\"><a href=\"#\" class=\"btn btn--yellow btn--primary js-colorbox-close\">No<\/a> <a href=\"#\" class=\"btn btn--red btn--danger js-public-confirm\">Yes<\/a><\/div>"}},"feedback":{"href":"mailto:info@lollapalooza.com?subject=Website Feedback"},"mailchimp":{"uuid":"da0c94b2fb2cb953b44fcc721","dc":false},"janrain":{"capture":{"appId":false,"appDomain":false,"clientId":false,"redirectUri":false},"engage":{"appDomain":false,"tokenUrl":false,"shareDomain":false},"widgetHtml":false,"language":false},"audioplayer":{"disabled":false,"clientId":"e505ebee18216dde4d168ad4926f65ed"},"colorbox":{"close":"<span class=\"close\">&times;<\/span> Close"},"l10n":{"Close":"Close","Sign In\/Sign Up":"Sign In\/Sign Up","Sign Out":"Sign Out","Add":"Add","Remove":"Remove","Listen":"Listen","Share":"Share"},"tbits":{"accountId":"7167948","apiKey":"88a70a24-8075-4f6b-999b-ef441b882fba"},"year":"2015","selectedYear":"2015","currentUser":"0","allArtistsTracks":{"i16467":[{"track__artistId":16467,"track__artist":"Toro Y Moi","track__url":"https:\/\/soundcloud.com\/carparkrecords\/toro-y-moi-empty-nesters","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/185884942","track__title":"Toro Y Moi - Empty Nesters"}],"i16514":[{"track__artistId":16514,"track__artist":"Spookyland","track__url":"https:\/\/soundcloud.com\/mondayrecords\/spookyland-rock-and-roll-weakling-1","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/164076637","track__title":"Spookyland - Rock and Roll Weakling"}],"i16492":[{"track__artistId":16492,"track__artist":"MisterWives","track__url":"https:\/\/soundcloud.com\/misterwives\/reflections-reflections-ep","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/127763690","track__title":"Reflections - REFLECTIONS EP"}],"i16524":[{"track__artistId":16524,"track__artist":"Elle King","track__url":"https:\/\/soundcloud.com\/ellekingmusic\/elle-king-exs-ohs","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/168861838","track__title":"Elle King - Ex's & Oh's"}],"i16889":[{"track__artistId":16889,"track__artist":"The Pop Ups","track__url":"https:\/\/soundcloud.com\/the-pop-ups\/02-all-these-shapes-touch?in=the-pop-ups\/sets\/appetite-for-construction-preview","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/146108211","track__title":"All These Shapes"}],"i16468":[{"track__artistId":16468,"track__artist":"ODESZA","track__url":"https:\/\/soundcloud.com\/odesza\/say_my_name?in=odesza\/sets\/in-return","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/163684297","track__title":"ODESZA - Say My Name (feat. Zyra)"}],"i16535":[{"track__artistId":16535,"track__artist":"V\u00c9RIT\u00c9","track__url":"https:\/\/soundcloud.com\/veritemusic\/weekend1?in=veritemusic\/sets\/v-rit-echo-ep","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/162056567","track__title":"Weekend"}],"i16426":[{"track__artistId":16426,"track__artist":"Bassnectar","track__url":"https:\/\/soundcloud.com\/bassnectar\/now-ft-rye-rye?in=bassnectar\/sets\/noise-vs-beauty","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/147597627","track__title":"Now Ft.  Rye Rye"}],"i16518":[{"track__artistId":16518,"track__artist":"Lion Babe","track__url":"https:\/\/soundcloud.com\/lionbabe\/jump-hi","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/173154263","track__title":"Jump Hi (ft. Childish Gambino)"}],"i16481":[{"track__artistId":16481,"track__artist":"RL Grime","track__url":"https:\/\/soundcloud.com\/rlgrime\/core-rl-grime","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/158827653","track__title":"Core - RL Grime"}],"i16439":[{"track__artistId":16439,"track__artist":"Dillon Francis","track__url":"https:\/\/soundcloud.com\/dillonfrancis\/dillon-francis-dj-snake-get?in=dillonfrancis\/sets\/money-sucks-friends-rule","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/133060071","track__title":"Dillon Francis & DJ Snake - Get Low"}],"i16489":[{"track__artistId":16489,"track__artist":"Ryn Weaver","track__url":"https:\/\/soundcloud.com\/rynweaver\/ryn-weaver-octahate","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/155798585","track__title":"OctaHate"}],"i16432":[{"track__artistId":16432,"track__artist":"Alesso","track__url":"https:\/\/soundcloud.com\/alesso\/heroes","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/164138555","track__title":"Heroes (We Could Be) ft. Tove Lo"}],"i16471":[{"track__artistId":16471,"track__artist":"Glass Animals","track__url":"https:\/\/soundcloud.com\/glassanimals\/hazey","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/165756102","track__title":"Hazey"}],"i16466":[{"track__artistId":16466,"track__artist":"Death From Above 1979","track__url":"https:\/\/soundcloud.com\/deathfromabove1979\/trainwreck-1979","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/157005310","track__title":"Trainwreck 1979"}],"i16460":[{"track__artistId":16460,"track__artist":"Banks","track__url":"https:\/\/soundcloud.com\/banksbanksbanks\/banks-beggin-for-thread","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/159712413","track__title":"BANKS - BEGGIN FOR THREAD"}],"i16445":[{"track__artistId":16445,"track__artist":"Kygo","track__url":"https:\/\/soundcloud.com\/kygo\/firestone-ft-conrad","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/179647213","track__title":"Firestone (Ft. Conrad)"}],"i16512":[{"track__artistId":16512,"track__artist":"The Wombats","track__url":"https:\/\/soundcloud.com\/thewombats\/greek-tragedy","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/186026607","track__title":"Greek Tragedy"}],"i16442":[{"track__artistId":16442,"track__artist":"G-Eazy","track__url":"https:\/\/soundcloud.com\/g-eazy\/lotta-that-ft-asap-ferg-danny-seth","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/153625454","track__title":"Lotta That ft. A$AP Ferg & Danny Seth"}],"i16530":[{"track__artistId":16530,"track__artist":"B\u00d8RNS","track__url":"https:\/\/soundcloud.com\/bornsmusic\/b-rns-10-000-emerald-pools","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/170134653","track__title":"10,000 Emerald Pools"}],"i17063":[{"track__artistId":17063,"track__artist":"Travis Scott","track__url":"https:\/\/soundcloud.com\/travisscott-2\/nothing-but-net-ft-partynextdoor-young-thug","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/188085971","track__title":"Nothing But Net Ft Partynextdoor , Young Thug"}],"i16448":[{"track__artistId":16448,"track__artist":"The War on Drugs","track__url":"https:\/\/soundcloud.com\/thewarondrugs\/red-eyes","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/123074747","track__title":"Red Eyes"}],"i16473":[{"track__artistId":16473,"track__artist":"The Chainsmokers","track__url":"https:\/\/soundcloud.com\/thechainsmokers\/let-you-go","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/192865052","track__title":"Let You Go Ft. Great Good Fine Ok"}],"i16860":[{"track__artistId":16860,"track__artist":"In The Whale","track__url":"https:\/\/soundcloud.com\/in-the-whale\/track-1-radio-aif","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/196082623","track__title":"RADIO"}],"i16472":[{"track__artistId":16472,"track__artist":"St. Paul & the Broken Bones","track__url":"https:\/\/soundcloud.com\/thirtytigers\/st-paul-the-broken-bones-call","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/133620027","track__title":"St. Paul & The Broken Bones - Call Me"}],"i16534":[{"track__artistId":16534,"track__artist":"ZEBRA KATZ","track__url":"https:\/\/soundcloud.com\/zebrakatz\/tear-the-house-up-monsieur-monsieur-remix","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/165926137","track__title":"Tear The House Up [Monsieur Monsieur Remix]"}],"i16508":[{"track__artistId":16508,"track__artist":"Catfish and the Bottlemen","track__url":"https:\/\/soundcloud.com\/communionmusic\/catfish_kathleen","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/135495195","track__title":"Catfish and the Bottlemen - Kathleen"}],"i16456":[{"track__artistId":16456,"track__artist":"Lord Huron","track__url":"https:\/\/soundcloud.com\/lord-huron\/the-world-ender","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/194566115","track__title":"The World Ender"}],"i16484":[{"track__artistId":16484,"track__artist":"BROODS","track__url":"https:\/\/soundcloud.com\/broods\/broods-mother-father","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/154903684","track__title":"BROODS - Mother & Father"}],"i16523":[{"track__artistId":16523,"track__artist":"jackLNDN","track__url":"https:\/\/soundcloud.com\/jacklndn\/george-maple-talk-talk-jacklndn-remix-2","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/175653614","track__title":"George Maple - Talk Talk (JackLNDN Remix)"}],"i16505":[{"track__artistId":16505,"track__artist":"Coasts","track__url":"https:\/\/soundcloud.com\/coastsband\/coasts-modern-love","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/193859670","track__title":"Coasts - Modern Love"}],"i16443":[{"track__artistId":16443,"track__artist":"Gary Clark Jr.","track__url":"https:\/\/soundcloud.com\/garyclarkjr\/gary-clark-jr-bright-lights-2","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/37382659","track__title":"Gary Clark Jr - Bright Lights: Live At KCRW"}],"i16546":[{"track__artistId":16546,"track__artist":"Beat Connection","track__url":"https:\/\/soundcloud.com\/beatconnexion\/another-go-round","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/167921594","track__title":"Another Go Round"}],"i16529":[{"track__artistId":16529,"track__artist":"The Lonely Biscuits","track__url":"https:\/\/soundcloud.com\/thelonelybiscuits\/circle-lines-1","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/193295902","track__title":"Circle Lines"}],"i16522":[{"track__artistId":16522,"track__artist":"Black Tiger Sex Machine","track__url":"https:\/\/soundcloud.com\/blacktigersexmachine\/the-grave","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/172116053","track__title":"Black Tiger Sex Machine x Apashe - The Grave (ft. Gabriella Hook)"}],"i16480":[{"track__artistId":16480,"track__artist":"Twin Peaks","track__url":"https:\/\/soundcloud.com\/twinpeaksdudes\/i-found-a-new-way","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/148108593","track__title":"Twin Peaks I Found A New Way"}],"i16428":[{"track__artistId":16428,"track__artist":"alt-J","track__url":"https:\/\/soundcloud.com\/alt-j\/left-hand-free","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/157635220","track__title":"Left Hand Free"}],"i16503":[{"track__artistId":16503,"track__artist":"Alison Wonderland","track__url":"https:\/\/soundcloud.com\/alisonwonderland\/alison-wonderland-i-want-u-1","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/147439062","track__title":"Alison Wonderland - I Want U"}],"i16511":[{"track__artistId":16511,"track__artist":"BADBADNOTGOOD","track__url":"https:\/\/soundcloud.com\/badbadnotgood\/cs60","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/128872956","track__title":"CS60"}],"i16521":[{"track__artistId":16521,"track__artist":"Jack Novak","track__url":"https:\/\/soundcloud.com\/jacknovak\/jack-novak-driving-blind-ft-bright-lights","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/201867767","track__title":"Jack Novak - Driving Blind (feat. Bright Lights)"}],"i16516":[{"track__artistId":16516,"track__artist":"Jessica Hernandez & The Deltas","track__url":"https:\/\/soundcloud.com\/jessicahernandezdeltas\/jessica-hernandez-the-deltas-sorry-i-stole-your-man","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/161672547","track__title":"Jessica Hernandez & The Deltas - Sorry I Stole Your Man"}],"i16476":[{"track__artistId":16476,"track__artist":"Wild Belle","track__url":"https:\/\/soundcloud.com\/wildbelle\/its-too-late","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/59765395","track__title":"It's Too Late"}],"i16474":[{"track__artistId":16474,"track__artist":"Django Django","track__url":"https:\/\/soundcloud.com\/djangodjango\/reflections","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/196295430","track__title":"Reflections"}],"i16539":[{"track__artistId":16539,"track__artist":"SirenXX","track__url":"https:\/\/soundcloud.com\/thechainsmokers\/kanye","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/161268280","track__title":"KANYE ft. SirenXX"}],"i16506":[{"track__artistId":16506,"track__artist":"DMA's","track__url":"https:\/\/soundcloud.com\/dmasmusic\/dmas-laced","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/172082186","track__title":"DMA's - Laced"}],"i16431":[{"track__artistId":16431,"track__artist":"Kaskade","track__url":"https:\/\/soundcloud.com\/kaskade\/alittlemore","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/176362690","track__title":"Kaskade & John Dahlb\u00e4ck - A Little More feat Sansa"}],"i16479":[{"track__artistId":16479,"track__artist":"LOGIC","track__url":"https:\/\/soundcloud.com\/teamvisionary\/logic-buried-alive","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/171273542","track__title":"Logic - Buried Alive"}],"i16444":[{"track__artistId":16444,"track__artist":"Nicky Romero","track__url":"https:\/\/soundcloud.com\/nickyromero\/nicky-romero-vicetone-let-me-feel-ft-when-we-are-wild-available-october-6","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/168285849","track__title":"Nicky Romero & Vicetone - Let Me Feel (ft. When We Are Wild) (OUT NOW)"}],"i17877":[{"track__artistId":17877,"track__artist":"LANY","track__url":"https:\/\/soundcloud.com\/thisislany\/ilysb","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/156783113","track__title":"ILYSB"}],"i16463":[{"track__artistId":16463,"track__artist":"Chet Faker","track__url":"https:\/\/soundcloud.com\/chet-faker\/1998a","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/144696525","track__title":"Chet Faker - 1998"}],"i16461":[{"track__artistId":16461,"track__artist":"Sylvan Esso","track__url":"https:\/\/soundcloud.com\/sylvanesso\/hey-mami","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/92170334","track__title":"Hey Mami"}],"i16455":[{"track__artistId":16455,"track__artist":"Cold War Kids","track__url":"https:\/\/soundcloud.com\/coldwarkids\/first","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/164767462","track__title":"First"}],"i16542":[{"track__artistId":16542,"track__artist":"Kyle Thornton & the Company","track__url":"https:\/\/soundcloud.com\/ktandtheco\/i-wanna-be","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/196439491","track__title":"I Wanna Be (Your Man)"}],"i16477":[{"track__artistId":16477,"track__artist":"Delta Spirit","track__url":"https:\/\/soundcloud.com\/jessicahernandezdeltas\/jessica-hernandez-the-deltas-sorry-i-stole-your-man","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/161672547","track__title":"Jessica Hernandez & The Deltas - Sorry I Stole Your Man"}],"i16495":[{"track__artistId":16495,"track__artist":"Hermitude","track__url":"https:\/\/soundcloud.com\/hermitude\/through-the-roof-1","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/186993207","track__title":"Through The Roof feat. Young Tapz"}],"i16541":[{"track__artistId":16541,"track__artist":"Daye Jack","track__url":"https:\/\/soundcloud.com\/daye-jack\/summer-day-1","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/174229540","track__title":"Summer Day"}],"i16493":[{"track__artistId":16493,"track__artist":"CAKED UP","track__url":"https:\/\/soundcloud.com\/eatdatcake\/rave-police-preview-out-on-dim-mak-feb-10th","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/187562406","track__title":"Rave Police Out Now on DIM MAK"}],"i16450":[{"track__artistId":16450,"track__artist":"Walk The Moon","track__url":"https:\/\/soundcloud.com\/walk-the-moon\/walk-the-moon-shut-up-and-dance","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/167152767","track__title":"WALK THE MOON - Shut Up and Dance"}],"i16449":[{"track__artistId":16449,"track__artist":"Father John Misty","track__url":"https:\/\/soundcloud.com\/fatherjohnmisty\/chateau-lobby-4-in-c-for-two-virgins","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/180484148","track__title":"Chateau Lobby #4 (in C for Two Virgins)"}],"i16525":[{"track__artistId":16525,"track__artist":"COIN","track__url":"https:\/\/soundcloud.com\/thisiscoin\/run","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/187536843","track__title":"Run"}],"i16494":[{"track__artistId":16494,"track__artist":"What So Not","track__url":"https:\/\/soundcloud.com\/whatsonot\/what-so-not-gemini-ft-george-maple","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/198813741","track__title":"What So Not - Gemini Ft. George Maple"}],"i16454":[{"track__artistId":16454,"track__artist":"The Tallest Man On Earth","track__url":"https:\/\/soundcloud.com\/deadoceans\/the-tallest-man-on-earth-sagres","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/191824854","track__title":"The Tallest Man On Earth - Sagres"}],"i16451":[{"track__artistId":16451,"track__artist":"Marina and The Diamonds","track__url":"https:\/\/soundcloud.com\/marina-and-the-diamonds\/marina-and-the-diamonds-charli","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/90270915","track__title":"MARINA AND THE DIAMONDS + CHARLI XCX | \u2661 JUST DESSERTS \u2661"}],"i16488":[{"track__artistId":16488,"track__artist":"MOON TAXI","track__url":"https:\/\/soundcloud.com\/moontaxi\/the-new-black","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/110063431","track__title":"The New Black"}],"i16858":[{"track__artistId":16858,"track__artist":"Gabriel Garz\u00f3n-Montano","track__url":"https:\/\/soundcloud.com\/gabriel-garzonmontano\/everything-is-everything","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/131874959","track__title":"Everything Is Everything"}],"i16440":[{"track__artistId":16440,"track__artist":"Carnage","track__url":"https:\/\/soundcloud.com\/djcarnageofficial\/carnage-like-tuh-feat-makonnen","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/192533360","track__title":"Carnage - I Like Tuh Feat. ILoveMakonnen"}],"i16536":[{"track__artistId":16536,"track__artist":"Hippo Campus","track__url":"https:\/\/soundcloud.com\/hippo-campus\/02-little-grace","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/174591793","track__title":"Little Grace"}],"i16429":[{"track__artistId":16429,"track__artist":"Alabama Shakes","track__url":"https:\/\/soundcloud.com\/alabamashakes\/always-alright-mp3","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/79795329","track__title":"Always Alright"}],"i16642":[{"track__artistId":16642,"track__artist":"Mako","track__url":"https:\/\/soundcloud.com\/wearemako\/mako-paris-simo-not-alone","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/194064352","track__title":"Mako, Paris & Simo - Not Alone [OUT NOW]"}],"i16485":[{"track__artistId":16485,"track__artist":"Strand of Oaks","track__url":"http:\/\/soundcloud.com\/deadoceans\/strand-of-oaks-shut-i-n","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/148571306","track__title":"Strand of Oaks - Shut In"}],"i16504":[{"track__artistId":16504,"track__artist":"Circa Waves","track__url":"https:\/\/soundcloud.com\/circawaves\/fossils-3","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/178388497","track__title":"Fossils"}],"i16846":[{"track__artistId":16846,"track__artist":"Mista Cookie Jar & the Chocolate Chips","track__url":"https:\/\/soundcloud.com\/mista-cookie-jar\/the-love-bubble","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/54518875","track__title":"The Love Bubble"}],"i16423":[{"track__artistId":16423,"track__artist":"Metallica","track__url":"https:\/\/soundcloud.com\/officialmetallica\/metallica-lords-of-summer","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/140274835","track__title":"Metallica - Lords of Summer (Garage Demo Version)"}],"i16533":[{"track__artistId":16533,"track__artist":"Mt. Eden","track__url":"https:\/\/soundcloud.com\/mtedenofficial\/blackmill-mt-eden-now","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/182968251","track__title":"Blackmill + Mt Eden - Now"}],"i16537":[{"track__artistId":16537,"track__artist":"Pell","track__url":"https:\/\/soundcloud.com\/pellyeah\/eleven-11","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/134081602","track__title":"Eleven:11"}],"i16446":[{"track__artistId":16446,"track__artist":"Flying Lotus","track__url":"https:\/\/soundcloud.com\/flyinglotus\/coronus-the-terminator","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/168192066","track__title":"Coronus, The Terminator"}],"i16510":[{"track__artistId":16510,"track__artist":"Skylar Spence","track__url":"https:\/\/soundcloud.com\/carparkrecords\/fionacoyne","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/157700627","track__title":"Skylar Spence - Fiona Coyne"}],"i16519":[{"track__artistId":16519,"track__artist":"Peking Duk","track__url":"https:\/\/soundcloud.com\/pekingduk\/peking-duk-high-ft-nicole","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/134684719","track__title":"Peking Duk - High (ft. Nicole Millar)"}],"i16517":[{"track__artistId":16517,"track__artist":"SNBRN","track__url":"https:\/\/soundcloud.com\/snbrn\/raindrops-feat-kerli","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/187003696","track__title":"Raindrops Feat. Kerli (Original Mix)"}],"i17698":[{"track__artistId":17698,"track__artist":"Janelle Kroll","track__url":"https:\/\/soundcloud.com\/janelle-kroll\/sunny-days-1","track__streamUrl":"https:\/\/api.soundcloud.com\/tracks\/189588348","track__title":"Sunny Days"}]}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://lolp1.c3cdn.com/wp/wp-content/themes/lolla2014/js/main.min.ts1416594793.js"></script>
+<script type="text/javascript" src="http://lolp1.c3cdn.com/wp/wp-content/themes/lolla2014/js/main.min.ts1433481022.js"></script>
         <div id="c3-feedback" class="feedback js-feedback-open">
             <p>FEEDBACK?</p>
         </div>
-        <!-- Seconds: 0.11041 -->
-    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"6ea70032f0","applicationID":"2943847","transactionName":"YFBbZRRRXhdXUkBcXVkaeFISWV8KGUFVUlc=","queueTime":0,"applicationTime":118,"atts":"TBdYE1xLTRk=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+        <!-- Seconds: 0.11871 -->
+                                    <!-- Start Alexa Certify Javascript -->
+                <script type="text/javascript">
+                _atrk_opts = { atrk_acct:"JyTzk1aUy1008N", domain:"lollapalooza.com",dynamic: true};
+                (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+                </script>
+                <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=JyTzk1aUy1008N" style="display:none" height="1" width="1" alt="" /></noscript>
+                <!-- End Alexa Certify Javascript -->
+                        <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"6ea70032f0","applicationID":"2943847","transactionName":"YFBbZRRRXhdXUkBcXVkaeFISWV8KGUFVUlc=","queueTime":0,"applicationTime":128,"atts":"TBdYE1xLTRk=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-536.min.js"}</script>
 
-<!-- CDN Linker <https://github.com/wmark/CDN-Linker/tags> active --><script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+<!-- CDN Linker <https://github.com/wmark/CDN-Linker/tags> active --><script src="https://js-agent.newrelic.com/nr-536.min.js"></script></body></html>
