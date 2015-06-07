@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dirtyroulette.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227004503id_/http%3A//dirtyroulette.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirtyroulette.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607201151id_/http%3A//dirtyroulette.com/privacy) for the most accurate reproduction.*
 
 # Dirtyroulette - Privacy Policy
 
@@ -10,7 +10,7 @@ Your privacy is important, so Dirtyroulette has created the following Privacy Po
 
 By using the Site, you consent to the data collection and use practices prescribed in this Privacy Policy. We may periodically make changes to this Privacy Policy that we will include on this page. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often.
 
-1.Personally Identifiable Information
+**1\. Personally Identifiable Information**
 
 “Personally Identifiable Information” means any information that may be used to identify an individual, such as, without limitation, a first and last name, home or other physical address, an email address, phone number or other contact information, whether at work or at home. This Site may contain features that require registration. If registration is required to use this Site or portions of this Site, Dirtyroulette may collect Personally Identifiable Information from you when you register such as the following: first and last name, address (including zip code), email address, telephone number, authentication data, age, company, country, and such other information. Dirtyroulette also automatically receives and records information on our server logs from your browser, including your internet protocol (IP) address, cookie information and the page you request. We may collect and store Personally Identifiable Information when you register to use our Site, ask a question, complete a form, access certain areas of our site, or send us an email. You can choose not to provide us with certain information, but then you might not be able to take advantage of many of our features and we may not be able to provide you with certain services.
 
@@ -20,7 +20,7 @@ For Personally Identifiable Information provided if and when applying for a job 
 
 We may from time to time send you promotional emails relating to our product, promotional, and services offerings. You are given the opportunity to opt-out of receiving promotional e-mails by simply following the "unsubscribe" instructions that appear in every email from us.
 
-2.Non-Personally Identifiable Information
+**2\. Non-Personally Identifiable Information**
 
 We, or our third party service providers, collect and store certain other information automatically whenever you interact with the Site. For example, we collect your internet protocol (IP) address, URL, browser information and reference site domain name every time you visit the Site. We also collect information regarding customer traffic patterns, site usage, hits to our server, Site, page views, date and time of your query, and navigational patterns. The information that is collected in this manner does not provide us with any Personally Identifiable Information about users. This non-personally identifiable information assists us in tracking the location of our users, helps determine high traffic areas and facilitates analysis of the most effective ways to communicate with our users. As part of that ongoing analysis, we may also use devices called “web beacons” to help us identify when emails sent to you have been received and read.
 
@@ -30,7 +30,7 @@ We may use any combination of your IP address, cookies, and other information to
 
 The non-personally identifiable information we collect is also used to analyze and improve the Site and to help us provide our customers with a fulfilling and pleasant online experience. We may also use the non-personally identifiable information for trouble shooting, performing administrative tasks, managing the Site, complying with laws and regulations, and to cooperate with law enforcement activities. We also may use this information in the aggregate to analyze Site usage and to gather broad demographic information.
 
-3.Is The Information Shared, Stored or Disclosed?
+**3\. Is The Information Shared, Stored or Disclosed?**
 
 Dirtyroulette does not rent or sell the Personally Identifiable Information it collects about you to or with third parties.  Since there is no expectation of privacy Dirtyroulette may disclose Personally Identifiable Information if required to do so by law or in the belief that such action is necessary to: (a) comply with law or legal process, court order or a subpoena served on Dirtyroulette or the Site to cooperate with law enforcement authorities; (b) to work with law enforcement to investigate, prevent or take action regarding suspected or actual illegal activity or fraud on the Site; (c) protect and defend the rights, property or safety of us or Service Providers (defined below), licensees, business partners, agents, customers, users, or others; or (d) act in situations involving actual or potential threats to the physical safety of any person, violations of our agreements, abuse of this Site, security breaches of this Site, or as necessary to protect our systems, business, users or others. We may disclose the information obtained from you through the Site, including Personally Identifiable Information, to a successor entity as part of a merger, acquisition, or other sale of our assets or business or should we file for bankruptcy.
 
@@ -42,9 +42,7 @@ Webcam images may be captured from Dirtyroulette video chats, uploaded to Dirtyr
 
 The records Dirtyroulette keeps about your chats may be shared with third parties for the purpose of law enforcement; to monitor and enforce compliance with Dirtyroulette's terms of service; or to improve Dirtyroulette's monitoring and enforcement processes.
 
-Dirtyroulette uses Google Analytics to track non-personally-identifying statistical information about site usage. Google provides a [browser add-on to opt out of Google Analytics](http://tools.google.com/dlpage/gaoptout?hl=en).
-
-4.How You Can Access or Change Your Information
+**4\. How You Can Access or Change Your Information**
 
 If we offer an account registration process and you have signed up for an account with us on the Site, you can access or change your Personally Identifiable Information by logging into your account and editing your profile. You are responsible for maintaining the secrecy of your password and account information at all times.
 
@@ -52,7 +50,7 @@ If you do not have an account with us accessible on the Site, you can access or 
 
 We may retain original and updated information for reasons such as technical constraints, dispute resolution, troubleshooting, record retention, and enforcement of our agreements. For security purposes, we may request information to help verify your identity before granting access or making changes to your information.
 
-5.Notice of Privacy Rights of California Residents
+**5\. Notice of Privacy Rights of California Residents**
 
 California Civil Code Section 1798.83 (“Code”) permits users of our Site who are California residents from whom we have received Personally Identifiable Information to request from us certain information regarding our disclosure of Personally Identifiable Information to third parties for their direct marketing purposes.
 
@@ -62,28 +60,118 @@ The Code allows you to control the parties with whom we share Personally Identif
 
 We are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through the above email address.]
 
-6.The Security of Your Information.
+**6\. The Security of Your Information.**
 
 To help protect the privacy of the personal information you transmit through use of the Site, we use commercially reasonable security practices that are technically feasible for us to protect the user data we collect against unauthorized access, including without limitation, physical, technical, and administrative safeguards.
 
 Except as specified in this Privacy Policy, we use commercially reasonable efforts to limit access to your personal information to our employees, agents, and officers who need the information to perform their responsibilities. However, please be aware that the Site and our services are run on software, hardware and networks, any component of which may, from time to time, require maintenance or experience problems or breaches of security beyond our control. We cannot guarantee the security of the information on and sent from our Site, and are not responsible for the acts and omissions of any third parties who receive the information. Please be aware that despite our best intentions and the guidelines outlined in this Privacy Policy, no data transmission over the internet can be guaranteed to be 100% secure.
 
-7.What Happens When You Link To or From Another Site.
+**7\. What Happens When You Link To or From Another Site.**
 
 The Site may contain links to other sites operated by Service Providers, our affiliates or other third parties. We are not responsible for the privacy policies, practices or contents of such other sites. Please be advised that the practices described in this Privacy Policy do not apply to information gathered through other sites. When you leave the Site the privacy policies and practices of that other site apply; we encourage you to be aware of those privacy policies and practices when you are on those other sites and submitting Personally Identifiable Information. You are responsible for reviewing the privacy policies and practices of each and every site that you visit.
 
-8.International Transfers.
+**8\. International Transfers.**
 
 Personally Identifiable Information collected on the Site may be stored and processed in the United States or any other country in which Dirtyroulette or its affiliates, subsidiaries or agents maintain facilities, and by using the Site, you consent to any such transfer of information outside of your country.
 
 You agree to comply with all local laws, rules and regulations regarding online conduct and acceptable content. Without limiting the generality of the foregoing, you agree to comply with all applicable laws, rules and regulations regarding the transmission of data exported from the United States or the country in which you reside.
 
-9.Children.
+**9\. Children.**
 
 This Site is directed to persons 18 years of age or older (or for jurisdictions in which 18 years old is not the age of majority, at least the age of majority for such jurisdiction). This Site and Dirtyroulette do not knowingly collect Personal Information from persons under age 18 (or for jurisdictions in which 18 years old is not the age of majority, at least the age of majority for such jurisdiction) or children under age 13. Any person who provides their information to Dirtyroulette through the Site or any other part of the Site represents to Dirtyroulette that they are 18 years of age or older (or for jurisdictions in which 18 years old is not the age of majority, at least the age of majority for your jurisdiction). If you are under the age of 18 (or for jurisdictions in which 18 years old is not the age of majority, under the age of majority for your jurisdiction) you may not use, view, or access this Site and you must leave this Web site immediately by clicking [here to leave the site](http://yahoo.com/). If you are under age 13, you are not permitted to use this Site or to submit any Personal Information to the Site and you must leave this Web site immediately by clicking [here to leave the site](http://yahoo.com/).
 
-10.Your Consent To This Privacy Policy and Updates.
+**10.Privacy Policy Consent.**
 
 By using the Site, you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version.
 
 We may occasionally update this Privacy Policy. When we do, we will indicate the date that this Privacy Policy was last updated. Any changes we make will be effective immediately upon notice, which we may provide by one or more of the following means including, without limitation, posting a prominent notice on the Site or personal notice. We are not responsible for your failure to receive an email due to the actions of your ISP or any email filtering service. Consequently, you should add dirtyroulette.com to the list of domains approved to send you email. Your continued use of the Site after such notice will be deemed acceptance of such changes. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so be sure to return to this page periodically to ensure familiarity with the most current version of this Privacy Policy. If we make changes to this Privacy Policy and you continue to use our Site, you are agreeing to this Privacy Policy and any updates. We will only use Personally Identifiable Information in accordance with the Privacy Policy that was in effect at the time the information was collected.
+
+**11\. Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**Google**
+
+Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+
+We use Google AdSense Advertising on our website.
+
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+We have implemented the following:
+
+  * Remarketing with Google AdSense
+  * Google Display Network Impression Reporting
+  * Demographics and Interests Reporting
+
+
+
+We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
+
+**Opting out:**
+
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+
+**12\. California Online Privacy Protection Act**
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+
+According to CalOPPA we agree to the following:
+
+Users can visit our site anonymously
+
+Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
+
+Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.
+
+Users will be notified of any privacy policy changes: On our Privacy Policy Page
+
+Users are able to change their personal information: By logging in to their account
+
+How does our site handle do not track signals?
+
+We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+Does our site allow third party behavioral tracking?
+
+It's also important to note that we do not allow third party behavioral tracking
+
+**13\. COPPA (Children Online Privacy Protection Act)**
+
+When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
+
+We do not specifically market to children under 13.
+
+**14\. Fair Information Practices**
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
+
+We will notify the users via email: Within 7 business days
+
+We will notify the users via in site notification: Within 7 business days
+
+We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
+
+**15\. CAN SPAM Act**
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+We collect your email address in order to:
+
+To be accordance with CANSPAM we agree to the following:
+
+If at any time you would like to unsubscribe from receiving future emails, you can and we will promptly remove you from ALL correspondence.
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+Dirtyroulette.com  
+9663 Santa Monica Blvd.  
+Beverly Hills, CA 90210  
+United States of America  
+contact@dirtyroulette.com 
+
+Last Edited on 2015-01-08
