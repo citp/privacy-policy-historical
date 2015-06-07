@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highrises.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228163015id_/http%3A//www.highrises.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highrises.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144620id_/http%3A//www.highrises.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Service
 
@@ -10,7 +10,7 @@ When you sign up for our personalized home search, we may use that information t
 
 ### Online Forms
 
-When you request other information from us through our various order forms, we need to know your name, e-mail address, mailing address and telephone numbers so we can be sure to get in touch with you when and how you ask us to. The secure socket layer software (SSL) encrypts all information you input before it is sent to us. Even though you may not see a padlock in the bottom of your browser window, rest assured that all the information you enter is encrypted before being sent to our order center. The information we receive from you also is protected against unauthorized access once we receive it. We limit access to your information to employees who have a business reason for accessing it. We also educate our employees about the importance of your privacy through our educational programs and company policies.
+When you request other information from us through our various order forms, we need to know your name, e-mail address, mailing address and telephone numbers so we can be sure to get in touch with you when and how you ask us to. The information we receive from you is protected against unauthorized access once we receive it. We limit access to your information to employees who have a business reason for accessing it. We also educate our employees about the importance of your privacy through our educational programs and company policies.
 
 ### About Our Cookies
 
@@ -22,7 +22,7 @@ Our web site contains links to and from other web sites and may be in the form o
 
 ### Referrals
 
-When you provide us with Personal Information such as your name, email and/or phone number, you authorize Highrises.com to refer you to our partner real estate brokerage in the market in which you registered or inquired.  You also acknowledge that Highrises.com may be paid a valuable consideration for facilitating such a referral.
+When you provide us with Personal Information such as your name, email and/or phone number, you authorize Highrises.com to refer you to our partner real estate brokerage and/or mortgage broker in the market in which you registered or inquired.  You also acknowledge that Highrises.com may be paid a valuable consideration for facilitating such a referral.
 
 ### Your Consent
 
