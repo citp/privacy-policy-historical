@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classmarker.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217033524id_/http%3A//www.classmarker.com/online-testing/privacy/%3Ftrk%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classmarker.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142720id_/http%3A//www.classmarker.com/online-testing/privacy/%3Ftrk%3Dfooter) for the most accurate reproduction.*
 
 # Privacy ClassMarker
 
@@ -70,5 +70,3 @@ View our [Terms and conditions](https://web.archive.org/online-testing/terms/) p
 [](https://web.archive.org/online-testing/award-winning/)
 
 [](http://www.globalsign.com/ssl/ "SSL")
-
-[](http://www.liquidweb.com/pcicompliant.htm)
