@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the omegatheme.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120115609id_/http%3A//www.omegatheme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omegatheme.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607030700id_/http%3A//www.omegatheme.com/privacy-policy) for the most accurate reproduction.*
 
-# OmegaTheme.com - Privacy Policy
+# Privacy Policy - OmegaTheme.com
 
 This privacy policy sets out how Omegatheme uses and protects any information that you give Omegatheme when you use this website. Omegatheme is committed to ensuring that your privacy is protected. We should ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
