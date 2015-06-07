@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the streamlineicons.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120034928id_/http%3A//www.streamlineicons.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamlineicons.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185548id_/http%3A//www.streamlineicons.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Streamline Icons - 1600+ iOS Style Vector Icons for designers & Developers
+# Privacy Policy - Streamline Icons
 
 ### What information do we collect? 
 
