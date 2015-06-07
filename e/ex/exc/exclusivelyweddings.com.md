@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exclusivelyweddings.com privacy policy that was archived on 2014-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140820051259id_/http%3A//www.exclusivelyweddings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exclusivelyweddings.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607235947id_/http%3A//www.exclusivelyweddings.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Terms and Conditions | ExclusivelyWeddings.com
 
