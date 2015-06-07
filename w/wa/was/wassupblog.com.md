@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wassupblog.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093111id_/http%3A//wassupblog.com/disclosure/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wassupblog.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607093706id_/http%3A//wassupblog.com/disclosure/privacy) for the most accurate reproduction.*
 
-# Privacy - WassupBlog - WassupBlog
+# Privacy - WassupBlog
 
 As if I haven’t enough stuff to do with my time, Google in all it’s wisdom wants me to incorporate a Privacy Policy on all my blogs. This is all to do with the introduction of their [Interest Based Advertising](http://wassupblog.com/big-brother-google-opts-for-interest-based-advertising/), and even though my blogs will NOT be taking part I am still required to have a privacy policy.
 
