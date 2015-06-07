@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asahq.org privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202161302id_/https%3A//www.asahq.org/For-the-Public-and-Media/Privacy-Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asahq.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145337id_/http%3A//www.asahq.org/about-asa/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement
+# American Society of Anesthesiologists - Privacy Statement
 
 Last Updated: June 26, 2008.
 
