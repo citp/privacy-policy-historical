@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadoutcome.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209062814id_/http%3A//www.leadoutcome.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadoutcome.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144334id_/http%3A//leadoutcome.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
