@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shots.net privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118103011id_/http%3A//www.shots.net/static/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shots.net privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608003007id_/http%3A//www.shots.net/static/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # shots.net
 
@@ -193,4 +193,4 @@ b. maintain and promptly update the Registration Data to keep it fully up to dat
 
 Media Business Insight Limited  
 Company number 8248880 (England & Wales)  
-Registered address: C/O Top Right Group, The Prow, 1 Wilder Walk, London W1B 5AP 
+Registered address: Zetland House, 5 – 25 Scrutton St, London, EC2A 4HJ 
