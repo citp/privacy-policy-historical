@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the webdevunlimited.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109123518id_/http%3A//www.webdevunlimited.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdevunlimited.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175833id_/http%3A//www.webdevunlimited.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy • Webdevunlimited.com
-
-* * *
+# Privacy Policy • {WebDevUnlimited;}
 
 At Web Dev Unlimited, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the type of personal information which is received and collected by the website and how it is used. We have a strict no spam policy and do not send you any emails, unless you subscribe to receive email updates.
 
@@ -25,7 +23,3 @@ You should consult the respective privacy policies of these third-party ad serve
 ### Visitor Tracking / Statistical Analysis
 
 Web Dev Unlimited makes use of analytical software such as Google Analytics for statistical purposes. For the stat analysis purpose, your IP (Internet Protocol) address, browser, screen resolution, operating system are captured. We, at Web Dev Unlimited, use this information only for statistical purpose and do not share it with any third party.
-
-### Spam Policy
-
-Please visit the [submission guidelines page](http://www.webdevunlimited.com/submission-guidelines/) on how we use the information we collect to safeguard and promote user experience on the www.webdevunlimited.com website.
