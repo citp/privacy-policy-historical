@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jedec.org privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219131735id_/http%3A//www.jedec.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jedec.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607182917id_/http%3A//www.jedec.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | JEDEC
 
