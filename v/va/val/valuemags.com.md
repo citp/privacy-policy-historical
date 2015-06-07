@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuemags.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122173605id_/http%3A//www.valuemags.com/home/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuemags.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152115id_/http%3A//www.valuemags.com/home/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -48,8 +48,8 @@ You can [click here](https://web.archive.org/supportticket.asp) and provide your
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
 ValueMags  
-212 West Superior St.  
-Ste 202  
+230 West huron St.  
+Ste 500  
 Chicago, IL 60654 
 
 [Click here to contact support](https://web.archive.org/supportticket.asp).
