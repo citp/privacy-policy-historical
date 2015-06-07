@@ -1,35 +1,24 @@
-> *The following text is extracted and transformed from the innohosting.com privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112162457id_/http%3A//www.innohosting.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innohosting.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608014803id_/http%3A//www.innohosting.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# InnoHosting - Web Hosting cPanel Reseller Hosting WHM with free WHMCS free RapidSSL - 24x7 Support
 
-InnoHosting Privacy Policy
+## The Data We Collect About You
 
-InnoHosting is committed to protecting your personal information and respecting your privacy.
+InnoHosting operates within UK Data Protection Laws as well as applicable laws where our servers are located. The data we collect about you has to be relevant, accurate and up to date. It must not be kept longer than it is absolutely necessary and we are obligated to provide you all the information we hold on you on request (where feasible). The data we collect about you includes:
 
-We will never sell, rent, or disclose your personally identifiable information to outside parties without your consent unless compelled by a court of law to do so. However we do reserve the right to disclose your requirement information (if you are a member) to industry professionals in order to get your job done if needed. We may send you e-mail regarding our new features, news, or other important update information. In any case, we will never disclose your personally identifiable information to third parties. We may use various methods to collect information including, cookies and/or IP addresses. 
-
-Legal
-
-It is important you are aware of the InnoHosting policies _before_ you purchase your hosting package. If you require clarification on anything mentioned, please contact InnoHosting as we will be happy to clairfy and elaborate!
-
-[Contact us](http://support.innohosting.com/)
-
-What Our Customers Say:
-
-From all of the research I did before moving, through the whole signing up process to my first experiences, it is very gratifying that I find Inno's excellent reputation in the industry and my confidence in that to have been well founded in practice.
-
-All Hosting Plans Include:
-
-  * 99.9 % Uptime Guarantee 
-  * 24 x 7 Technical Support 
-  * User-Friendly Control Panel 
-  * mySQL Databases 
-  * CGI-bin / PHP / Perl 
-  * Frontpage Extensions 
-  * Fantastico DeLuxe Installer 
-  * 16 Day Money Back Policy 
-  * RVSkins 
-  * SiteBuilder
-  * Ruby on Rails
+  * Personal & Business data you submit to us voluntarily
+  * Information we have collected about you from 3rd party services (3rd party anti-fraud agencies, credit agencies, publicly accessible information)
+  * Statistical data usage of your account
+  * In some circumstances, information you have voluntarily made publicly available
 
 
+
+## How We Use Your Data
+
+InnoHosting treats your data in the strictest of confidence. We understand the trust you have given us and under no circumstances do we intend to ever betray that trust. 
+
+Internal access to your data is limited by staff privileges. Only the information relevant and necessary for staff to assist you with support requests and management of your account is shown. For example, technical support staff does not have access to sensitive billing details nor your full address. But they do have access to certain information that we use to verify the authenticity of a request you make. Similarly, data center engineers have no access to any billing or ticket information of your account as it is not necessary for their day to day work.
+
+## 3rd Party Access To Your Data
+
+In some cases, it may be necessary for us to disclose certain details about you to a 3rd party (i.e. law enforcement or fraud prevention). The information we release will only be the absolute minimum information that is required.
