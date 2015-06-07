@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dummymag.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008195206id_/http%3A//www.dummymag.com/terms-conditions-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dummymag.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140020id_/http%3A//www.dummymag.com/terms-conditions-and-privacy-policy) for the most accurate reproduction.*
 
-# Terms & Conditions and Privacy Policy | Dummy
+# Terms & Conditions and Privacy Policy | DummyMag.com
 
 **We are committed to protecting your privacy**
 
