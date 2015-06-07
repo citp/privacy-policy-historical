@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animaker.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205195858id_/http%3A//www.animaker.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animaker.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175441id_/http%3A//www.animaker.com/policy) for the most accurate reproduction.*
 
 # Animaker - Privacy Policy
 
@@ -65,6 +65,6 @@ If you have any questions about this Privacy Policy or the practices described h
 187 E. Warm Springs Rd,  
 Suite B192, Las Vegas,   
  NV, 89119 USA.  
-[info@animaker.com](mailto:info@animaker.com)
+[jerry@animaker.com](mailto:jerry@animaker.com)
 
 Last Modified: May 22, 2014.
