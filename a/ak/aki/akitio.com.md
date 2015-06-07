@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akitio.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226081450id_/http%3A//www.akitio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akitio.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175621id_/http%3A//www.akitio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AKiTiO
 
