@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pharmaceuticalonline.com privacy policy that was archived on 2014-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141217112556id_/http%3A//www.pharmaceuticalonline.com/static/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pharmaceuticalonline.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607035643id_/http%3A//www.pharmaceuticalonline.com/static/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
         <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript"> 
@@ -12,7 +12,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0;">   <meta name="description" content="Pharmaceutical Online - pharmaceutical manufacturing industry,critical environment,particle sizing,pharma process control,pharma material handling,tablet production,">  <meta name="Title" content="Pharmaceutical Online : Privacy Statement"> 
-        <link rel="shortcut icon" href="/Content/images/favicons/pharm-favicon.ico">
+        <link rel="shortcut icon" href="http://vertassets.blob.core.windows.net/sites/favicons/pharm-favicon.ico">
         
 
 <!-- Google Analytics -->
@@ -24,22 +24,23 @@
         m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
     })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
+
     var gaConfig = {
         'legacyCookieDomain': 'none',
         'allowLinker': true
     };
+
     ga('create', 'UA-13015922-4', 'auto', gaConfig);
+
+    ga('require', 'linker');
+    ga('linker:autoLink', ['cart.lifesciencetraininginstitute.com', 'www.lifesciencetraininginstitute.com']);
 
     
     ga('send', 'pageview', '/static/Privacy?documenttype=&hascompany=N&hasauthor=N');
 </script>
 <!-- End Google Analytics -->
-
         
-<link href="/cassette.axd/stylesheet/0b656d42f930bcd066eca83f5a2fb92f243e850b/Content/accents/default.less" type="text/css" rel="stylesheet">
-
-        
-
+        <link href="/bundles/css/accents/lifesciences/pharmaceuticalonline?v=x2YKvfJ_wwtKkUV_MnYJVD-qU-SwxaQO0LCZHZ_Br_41" rel="stylesheet">
 
         
         <script type="text/javascript">
@@ -58,18 +59,45 @@
                 document.getElementsByTagName('body')[0].className = 'ie-8';
             </script>
         <![endif]-->
-        <div class="hellobar-container mobile-hide" data-action="/service/HelloBar"></div>
-<div class="site-header">
+        
+        <script type="text/template" id="login-template">
+    <% if(!userLoggedIn) { %>
+    <a href="<%= signInUrl %>">Sign in</a> or
+    <a href="<%= signUpUrl %>">Sign-up</a>
+    <% } else { %>
+    Welcome,
+    <strong><%= userName %></strong> (
+    <a href="<%= profileUrl %>">Profile</a> |
+    <a href="<%= signOutUrl %>">Sign Out</a>)
+    <% } %>
+</script>
+
+
+<script type="text/template" id="hello-bar-template">
+    <% if(showHelloBar) { %>
+        <div id="hellobar" class="<%= helloBar.topClass %>">
+            <span class="hello-bar-text"><%= helloBar.text %></span>
+            <span class="fancy-btn-inline-block">
+                <a class="fancy-btn-default fancy-btn-variable" href="<%= helloBar.url %>">
+                    <i><span class="<%= helloBar.iconClass %> icon-white"></span></i> <%= helloBar.buttonText %>
+                </a>
+            </span>
+        </div>
+        <div id="hellobar-pusher"></div>
+    <% } %>
+</script>
+        
+        <div class="hellobar-container mobile-hide"></div>
+
+        <div class="site-header">
     <div class="site-header-inner ir">
         <a href="/"><img alt="www.pharmaceuticalonline.com" src="http://vertassets.blob.core.windows.net/sites/logos/pharmaceuticalonline/header_genesis.gif" border="0"></a>
         <div class="right-hand-information">
             
-
             <div class="user-login-indicator noprint" data-action="/user/LoginInfo"></div>
         </div>
     </div>
 </div>
-
 <div class="navbar">
     <div class="navbar-inner">
         <div class="container">
@@ -122,7 +150,7 @@
         </ul>
 </li>
                         <li class="dropdown">        <a href="/solution/pharmaceutical-packaging-and-product-protection" class="dropdown-toggle" data-toggle="dropdown">
-            Packaging &amp; Product Protection <b class="caret "></b>
+            Packaging &amp; Protection <b class="caret "></b>
         </a>
         <ul class="dropdown-menu">
                 <li class="">        <a href="/solution/contract-packaging">Contract Packaging</a>
@@ -175,9 +203,11 @@
 </li>
         </ul>
 </li>
-                        <li class="">        <a href="  /solution/pharmaceutical-supply-chain">Pharma Logistics</a>
+                        <li class="">        <a href="/solution/pharmaceutical-supply-chain">Pharma Logistics</a>
 </li>
                         <li class="">        <a href="/doc/pharmaceutical-online-editorial-board-0001">Editorial Board</a>
+</li>
+                        <li class="">        <a href="/blog/pharmaceutical-online-blog">Blog</a>
 </li>
                 </ul>
             </div>
@@ -188,28 +218,30 @@
 
 
 
+
         
          
     <div class="top-ads noprint">
         <div class="top-ad-container">
             <div class="ad-white-canvas">
-
-<div>
+<div class="">
     <script type="text/javascript">
         nZoneId = '765';
         OA_show(nZoneId);
     </script>
 </div></div>
             <div class="ad-white-canvas earpiece">
-
-<div>
+<div class="">
     <script type="text/javascript">
         nZoneId = '1316';
         OA_show(nZoneId);
     </script>
 </div></div>
         </div>
-    </div>
+        <div class="mobile-ad-container">
+            
+        </div>
+    </div>    
  
         <div class="main-container main-container-background">
             <div class="body-container">
@@ -217,47 +249,46 @@
 <div class="one-column">    
     <div id="column1">
             <h2 class="header">Privacy Statement</h2>
-<p>
-	<strong>PRIVACY STATEMENT</strong><br>
-	Your privacy on the Internet is important to us. Because we gather certain types of information about the users of VertMarkets' network of sites and services, we believe you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.</p>
-<p>
-	<strong>Information Collection and Use</strong><br>
-	VertMarkets collects information from our users at several different points on our web sites. Wherever we collect personal information, we include a link to this Privacy Policy on that page. When you <strong>register</strong> with one of our sites or sign up to receive one of our newsletters and promotional emails, VertMarkets may ask for your contact information (such as your email address) and your demographic information (such as your zip code, industry, and job function). We use demographic information to tailor your experience at our web site, showing you content and advertisements that we think might interest you. VertMarkets may also ask for such information at other times, such as when you request information from VertMarkets and/or our customers and suppliers. The information collected by VertMarkets may be used in a number of ways. For example, VertMarkets will share broad aggregated demographic information with our partners and advertisers. An example would be where VertMarkets provides partners and advertisers with information about the percentage of men or women who visit our sites, or about the types of industries that users come from. VertMarkets' goal in collecting personal information is to provide you, the user, with the most personalized web experience possible and our advertisers with an efficient means to reach the right audience. By knowing a little about you, VertMarkets is able to deliver more relevant content and advertisements, and hence a better service, to you.</p>
-<p>
-	<strong>With whom does VertMarkets share my information?</strong><br>
-	If you are requesting assistance, product information, white papers, case studies or brochures, your contact information may be shared with the developer of the relevant product, content, or software. Some materials that are available for download on VertMarkets' sites, like white papers, product demonstrations, case studies, and product literature, are offered in conjunction with a partner company. This information is shared with the partner company so that they may provide you with the material you requested.</p>
-<p>
-	<strong>Promotion and Direct Mail</strong><br>
-	By signing up to receive one of our newsletters and promotional emails you will be giving VertMarkets permission to access your information on behalf of pre-screened third parties for marketing or promotional purposes. We will not share your information with these pre-screened partners unless you have opted in to receive our newsletters and promotional emails. If you have chosen to receive such emails and later change your mind, you can remove yourself from this distribution list via a link in the communication or by unsubscribing at this site. In addition to VertMarkets, agents working on behalf of VertMarkets under confidentiality agreements, and certain suppliers who are in contract with VertMarkets, may contact you about products and services that may be of interest to you via e-mail, direct mail, or phone. VertMarkets does not control or monitor these communications conducted by these suppliers. <strong>If you do not wish to receive the newsletters and promotional emails set forth above, please </strong><a href="http://www.pharmaceuticalonline.com/Content/membership/Register.asp?TypeofPage=Signin"><strong>click here</strong></a><strong> to opt-out.</strong></p>
-<p>
-	<strong>Career Center and Careermag.com</strong><br>
-	VertMarkets works with Beyond.com to bring you the career development portion of our online marketplaces and careermag.com. If you register for any of the services (excluding newsletter services provided by VertMarkets) offered on the career development portion of our online marketplaces or careermag.com, Beyond.com will receive your registration information in order to create your account and profile. Beyond.com shall maintain your personal information in accordance with Beyond.com's privacy policy. Please read their privacy policy posted at <a href="http://www.careermag.com/MKT/Content/JS/default.asp?pg=privacy">http://www.careermag.com/MKT/Content/JS/default.asp?pg=privacy</a>.</p>
-<p>
-	<strong>Cookies</strong><br>
-	A cookie is a piece of data stored on the user's computer by a web browser containing information associated with the user. We use cookies to be reminded of who you are and to access your account information (stored on our computers) in order to deliver to you a better and more personalized service. This cookie is set when you register and helps VertMarkets make it easier for users when filling in the request information form. Cookies are also used by VertMarkets on our sites to help VertMarkets track visits and to estimate our audience size. Each browser accessing VertMarkets is given a unique cookie which is then used to determine repeat usage versus initial usage, and to help in targeting ads based on user interests.</p>
-<p>
-	<strong>Third Party Cookies</strong><br>
-	In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser that does not contain any information about the user.</p>
-<p>
-	<strong>IP Addresses</strong><br>
-	We use IP addresses for purposes of system administration, and to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.</p>
-<p>
-	<strong>Links</strong><br>
-	This web site may contain links to other sites. Please be aware that VertMarkets is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.</p>
-<p>
-	<strong>Tell an Associate</strong><br>
-	If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's email address. VertMarkets will automatically send the friend an email inviting them to visit the site.</p>
-<p>
-	<strong>Site and Service Updates</strong><br>
-	We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone.</p>
-<p>
-	<strong>Notification of Changes;</strong> <strong>Conflicts</strong><br>
-	If we decide to change our privacy policy, we will post those changes here so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. This page reflects the most up-to-date version of our privacy policy, and thus takes precedence over information provided in P3P documents and other documents.</p>
-<p>
-	<strong>Contact</strong><br>
-	If you feel that this company is not abiding by its posted privacy policy, you should contact us by email at intellectualproperty@vertmarkets.com; by phone at 215-675-1800; or by mail at 101 Gibraltar Road, Suite 100, Horsham, PA 19044.</p>
-<p>
-	VertMarkets Privacy Policy, October 2013.</p>
+<p><strong>PRIVACY STATEMENT</strong><br>
+Your privacy on the Internet is important to us. Because we gather certain types of information about the users of VertMarkets' network of sites and services, we believe you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.</p>
+
+<p><strong>Information Collection and Use</strong><br>
+VertMarkets collects information from our users at several different points on our web sites. Wherever we collect personal information, we include a link to this Privacy Policy on that page. When you <strong>register</strong> with one of our sites or sign up to receive one of our newsletters and promotional emails, VertMarkets may ask for your contact information (such as your email address) and your demographic information (such as your zip code, industry, and job function). We use demographic information to tailor your experience at our web site, showing you content and advertisements that we think might interest you. VertMarkets may also ask for such information at other times, such as when you request information from VertMarkets and/or our customers and suppliers. The information collected by VertMarkets may be used in a number of ways. For example, VertMarkets will share broad aggregated demographic information with our partners and advertisers. An example would be where VertMarkets provides partners and advertisers with information about the percentage of men or women who visit our sites, or about the types of industries that users come from. VertMarkets' goal in collecting personal information is to provide you, the user, with the most personalized web experience possible and our advertisers with an efficient means to reach the right audience. By knowing a little about you, VertMarkets is able to deliver more relevant content and advertisements, and hence a better service, to you.</p>
+
+<p><strong>With whom does VertMarkets share my information?</strong><br>
+If you are requesting assistance, product information, white papers, case studies or brochures, your contact information may be shared with the developer of the relevant product, content, or software. Some materials that are available for download on VertMarkets' sites, like white papers, product demonstrations, case studies, and product literature, are offered in conjunction with a partner company. This information is shared with the partner company so that they may provide you with the material you requested. VertMarkets’ customer agreements with&nbsp; partner companies: (a) provide that the partner company may use this information to contact you via common methods of communication; and (b) prohibit disclosure of the information to any third party other than agents of the Content Sponsor for the permitted marketing purposes set forth above; and (c) use of this contact information and adherence to the laws of any/all countries is the responsibility of the partner company.&nbsp; You should contact the partner company directly if you have any questions about their use of this information.</p>
+
+<p><strong>Promotion and Direct Mail</strong><br>
+By signing up to receive one of our newsletters and promotional emails you will be giving VertMarkets permission to access your information on behalf of pre-screened third parties for marketing or promotional purposes. We will not share your information with these pre-screened partners unless you have opted in to receive our newsletters and promotional emails. If you have chosen to receive such emails and later change your mind, you can remove yourself from this distribution list via a link in the communication or by unsubscribing at this site. In addition to VertMarkets, agents working on behalf of VertMarkets under confidentiality agreements, and certain suppliers who are in contract with VertMarkets, may contact you about products and services that may be of interest to you via e-mail, direct mail, or phone. VertMarkets does not control or monitor these communications conducted by these suppliers. <strong>If you do not wish to receive the newsletters and promotional emails set forth above, please </strong><a href="http://www.pharmaceuticalonline.com/Content/membership/Register.asp?TypeofPage=Signin"><strong>click here</strong></a><strong> to opt-out.</strong></p>
+
+<p><strong>Career Center and Careermag.com</strong><br>
+VertMarkets works with Beyond.com to bring you the career development portion of our online marketplaces and careermag.com. If you register for any of the services (excluding newsletter services provided by VertMarkets) offered on the career development portion of our online marketplaces or careermag.com, Beyond.com will receive your registration information in order to create your account and profile. Beyond.com shall maintain your personal information in accordance with Beyond.com's privacy policy. Please read their privacy policy posted at <a href="http://www.careermag.com/MKT/Content/JS/default.asp?pg=privacy">http://www.careermag.com/MKT/Content/JS/default.asp?pg=privacy</a>.</p>
+
+<p><strong>Cookies</strong><br>
+A cookie is a piece of data stored on the user's computer by a web browser containing information associated with the user. We use cookies to be reminded of who you are and to access your account information (stored on our computers) in order to deliver to you a better and more personalized service. This cookie is set when you register and helps VertMarkets make it easier for users when filling in the request information form. Cookies are also used by VertMarkets on our sites to help VertMarkets track visits and to estimate our audience size. Each browser accessing VertMarkets is given a unique cookie which is then used to determine repeat usage versus initial usage, and to help in targeting ads based on user interests.</p>
+
+<p><strong>Third Party Cookies</strong><br>
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser that does not contain any information about the user.</p>
+
+<p><strong>IP Addresses</strong><br>
+We use IP addresses for purposes of system administration, and to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.</p>
+
+<p><strong>Links</strong><br>
+This web site may contain links to other sites. Please be aware that VertMarkets is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.</p>
+
+<p><strong>Tell an Associate</strong><br>
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's email address. VertMarkets will automatically send the friend an email inviting them to visit the site.</p>
+
+<p><strong>Site and Service Updates</strong><br>
+We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone.</p>
+
+<p><strong>Notification of Changes;</strong> <strong>Conflicts</strong><br>
+If we decide to change our privacy policy, we will post those changes here so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. This page reflects the most up-to-date version of our privacy policy, and thus takes precedence over information provided in P3P documents and other documents.</p>
+
+<p><strong>Contact</strong><br>
+If you feel that this company is not abiding by its posted privacy policy, you should contact us by email at intellectualproperty@vertmarkets.com; by phone at 215-675-1800; or by mail at 101 Gibraltar Road, Suite 100, Horsham, PA 19044.</p>
+
+<p>VertMarkets Privacy Policy, October 2013.</p>
     </div>
 </div>
             </div>
@@ -278,7 +309,6 @@
 
                     <ul>
                             <li> <a href="/lead/new?itemid=4f5d0a97-dfc9-492f-9fce-a1d600bdcefc&amp;type=download">Request Media Kit</a> </li>
-                            <li> <a href="http://proddownloads.vertmarkets.com.s3.amazonaws.com/download/103e0b45/103e0b45-69ac-4a22-ae58-3bfa5ea1c081/original/2014_editorial_calendar_pharmaceuticalonline.pdf ">Editorial Calendar</a> </li>
                             <li> <a href="/doc/be-a-contributor-to-onlinename-0001">Be a Contributor</a> </li>
                             <li> <a href="/doc/life-science-connect-ad-specifications-0001">Ad Specifications</a> </li>
                     </ul>
@@ -286,7 +316,7 @@
     </ul>
     <ul class="footer-col">
             <li>
-                 <a href="http://www.lifescienceleader.com/solution/life-science-connect"><strong>Life Science Connect</strong></a> 
+                 <a href="http://www.lifescienceconnect.com/" target="_blank"><strong>Life Science Connect</strong></a> 
                     <ul>
                             <li> <a href="http://www.bioprocessonline.com/">BioProcess Online</a> </li>
                             <li> <a href="http://www.clinicalleader.com/">Clinical Leader</a> </li>
@@ -320,8 +350,7 @@
         <div class="ad-footer-container">
             <div class="ad-footer-white-canvas">
                 
-
-<div>
+<div class="">
     <script type="text/javascript">
         nZoneId = '182';
         OA_show(nZoneId);
@@ -331,33 +360,32 @@
         </div>
         <div class="bottom-ads-container noprint">
             <div class="bottom-ad">
-
-<div>
+<div class="">
     <script type="text/javascript">
         nZoneId = '765';
         OA_show(nZoneId);
     </script>
 </div></div>
             <div class="bottom-ad earpiece">
-
-<div>
+<div class="">
     <script type="text/javascript">
         nZoneId = '1316';
         OA_show(nZoneId);
     </script>
 </div></div>
+            
+            <div class="mobile-ad-container">
+                
+            </div>
         </div>
     <div class="vert-copyright">
-        <a href="/static/Copyright">Copyright</a> © 1996-2014 <a href="http://www.vertmarkets.com">VertMarkets, Inc.</a> All Rights Reserved.  <a href="/static/Legal">Terms of Use</a>.  <a href="/static/Privacy">Privacy Statement</a>.
+        <a href="/static/Copyright">Copyright</a> © 1996-2015 <a href="http://www.vertmarkets.com">VertMarkets, Inc.</a> All Rights Reserved.  <a href="/static/Legal">Terms of Use</a>.  <a href="/static/Privacy">Privacy Statement</a>.
     </div>
 </div>
 
         <div id="desktopMedia" class="mobile-hide" style="width:1px;height:1px;"></div>
-        
-<script src="/cassette.axd/script/06333f71fb14e735cd365afbc959dc69c776a6c8/Scripts/Vendor" type="text/javascript"></script>
-<script src="/cassette.axd/script/4cc56402f35032b7bd4ebfc2e4b1a6eff521da58/Scripts/Sites/Core" type="text/javascript"></script>
 
-        
+        <script src="/bundles/js/core?v=plDSG5Vu7XTimmlVVuVSexblh8heVoH78FhMWHsrq481"></script>
 
 
         
