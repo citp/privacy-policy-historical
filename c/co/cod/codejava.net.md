@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the codejava.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110626id_/http%3A//www.codejava.net/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codejava.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607195629id_/http%3A//www.codejava.net/site/privacy-policy) for the most accurate reproduction.*
 
 # CodeJava.net’s Privacy Policy
 
 Details
-     Last Updated on 02 November 2013
+     Last Updated on 02 November 2013   |   [ Print ](http://www.codejava.net/privacy-policy?tmpl=component&print=1&page= "Print") [ Email](http://www.codejava.net/component/mailto/?tmpl=component&template=protostar&link=d5936477ae1f9d718be809964c6b78cae8afd000 "Email")
 
 This Privacy Policy explains what types of information **CodeJava.net** (“CodeJava”, “we”, “us”) may collect from or about visitors to our websites or applications (“you”), and describes our practices for collecting, using and protecting such information.
 
