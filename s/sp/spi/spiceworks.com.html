@@ -1,27 +1,36 @@
-<!--The following is the downloaded HTML source of the spiceworks.com privacy policy that was archived on 2014-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230043100id_/http%3A//www.spiceworks.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spiceworks.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607232038id_/http%3A//www.spiceworks.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PGLF8G"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAUEV1FACgQCVVVVBw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script>
 	<title>Spiceworks Privacy Policy</title>
 	<meta name="description" content="Spiceworks is the first free IT management software designed to meet the unique needs of small and medium businesses. Spiceworks software helps IT professionals easily discover, manage and monitor the software and hardware assets in their networks.">
 	
-		<script src="//cdn.optimizely.com/js/168363181.js"></script>
+	<script>
+window['optimizely'] = window['optimizely'] || [];
+</script>
 	
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="dcterms.rights" content="Copyright (c) 2006-2014 Spiceworks. All rights reserved.">
-	<meta name="dcterms.rightsHolder" content="Spiceworks">
-	<meta name="dcterms.audience" content="global">
-	<meta property="og:image" content="http://www.spiceworks.com/images/icons/swoosh.png">
-	<link rel="shortcut icon" href="/favicon.gif">
-	<link href="https://plus.google.com/108660400379322656127" rel="publisher">
-	<link rel="home" title="Spiceworks" href="http://www.spiceworks.com">
-	<link href="//wwwstatic.spiceworks.com/css/all-styles.css?version=20141212" rel="stylesheet">
-	<script>//document.cookie='resolution='+Math.max(screen.width,screen.height)+("devicePixelRatio" in window ? ","+devicePixelRatio : ",1")+'; path=/';</script>   
-	<!--[if lt IE 9]>
-	    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-	    <link rel="stylesheet" type="text/css" href="//wwwstatic.spiceworks.com/css/ie.css" />
-	<![endif]-->
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="dcterms.rights" content="Copyright (c) 2006-2015 Spiceworks. All rights reserved.">
+<meta name="dcterms.rightsHolder" content="Spiceworks">
+<meta name="dcterms.audience" content="global">
+<meta property="og:image" content="http://www.spiceworks.com/images/icons/swoosh.png">
+<link rel="shortcut icon" href="/favicon.gif">
+<link href="https://plus.google.com/108660400379322656127" rel="publisher">
+<link rel="home" title="Spiceworks" href="http://www.spiceworks.com">
+<link href="//wwwstatic.spiceworks.com/css/all-styles_20150304.css?version=20150505" rel="stylesheet">
+<script>//document.cookie='resolution='+Math.max(screen.width,screen.height)+("devicePixelRatio" in window ? ","+devicePixelRatio : ",1")+'; path=/';</script>   
+<!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <link rel="stylesheet" type="text/css" href="//wwwstatic.spiceworks.com/css/ie.css?version=20150106" />
+<![endif]-->
+<script>
+var SWUFR = SWUFR || {};
+SWUFR.cmd = SWUFR.cmd || [];
+SWUFR.cmd.push(function() { SWUFR.ufr.visit(); });
+</script>
+<script async="" src="//gekko.spiceworks.com/swufr.js"></script>
   </head>
 
   <body>   
@@ -38,24 +47,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <div class="navbar-inner">
         <div class="container">
           <a class="btn btn-small btn-secondary btn-navbar btn-inverse collapsed" data-toggle="collapse" data-target=".nav-collapse" onclick="_gaq.push(['_trackEvent', 'Menus', 'Opened', 'Mobile Navigation Menu']);">Menu</a>
-          <a class="brand" href="/">Spiceworks</a>   
-         
+          <a class="brand" href="/">Spiceworks</a>
+
           <div class="nav-action pull-right">
-          
-						
-          	<a href="#join-login" class="btn btn-link" role="button" data-toggle="modal" data-tab="login" onclick="_gaq.push(['_trackEvent', 'Modals', 'Opened', 'Login']);">Login</a>
-            <a href="#join-login" class="btn btn-small btn-primary btn-join-community" role="button" data-toggle="modal" data-tab="join" onclick="_gaq.push(['_trackEvent', 'Modals', 'Opened', 'Join']);">Join Now</a>
-          	
-						
-          </div>
+
+            
+              <a onclick="_gaq.push(['_trackEvent', 'Menu', 'Clicked', 'Features']);" href="/app/" class="btn btn-link " role="button" data-toggle="modal" data-tab="login">Features</a>
+              <a onclick="_gaq.push(['_trackEvent', 'Menu', 'Clicked', 'Downloads']);" href="/downloads/" class="btn btn-link " role="button" data-toggle="modal" data-tab="login">Downloads</a>
+
+        			        			
+
+            
+			    </div>
 
           <div class="nav-collapse collapse">
             <ul class="nav">
               <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" onclick="_gaq.push(['_trackEvent', 'Menus', 'Opened', 'About Menu']);">About <b class="caret"></b></a>
                 <ul class="dropdown-menu">
-                  <li><a href="/about/" onclick="_gaq.push(['_trackEvent', 'Menus', 'Opened', 'About Menu - Our Story']);">Our Story</a></li> 
-                  <li><a href="/jobs/meet-the-team/" onclick="_gaq.push(['_trackEvent', 'Menus', 'Opened', 'About Menu - Meet the Team']);">Meet the Team</a></li>                 
+                  <li><a href="/about/" onclick="_gaq.push(['_trackEvent', 'Menus', 'Opened', 'About Menu - Our Story']);">Our Story</a></li>
+                  <li><a href="/jobs/meet-the-team/" onclick="_gaq.push(['_trackEvent', 'Menus', 'Opened', 'About Menu - Meet the Team']);">Meet the Team</a></li>
                   <li><a href="http://community.spiceworks.com/blog" onclick="_gaq.push(['_trackEvent', 'Menus', 'Opened', 'About Menu - Blog']);">Blog</a></li>
                   <li><a href="/press/" onclick="_gaq.push(['_trackEvent', 'Menus', 'Opened', 'About Menu - Press']);">Press</a></li>
                   <li><a href="/jobs/" onclick="_gaq.push(['_trackEvent', 'Menus', 'Opened', 'About Menu - Jobs']);">Jobs</a></li>
@@ -89,7 +100,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" onclick="_gaq.push(['_trackEvent', 'Menus', 'Opened', 'Community Menu']);">Community <b class="caret"></b></a>
                 <ul class="dropdown-menu">
                     <li><a href="/free-it-community-network/" onclick="_gaq.push(['_trackEvent', 'Menus', 'Opened', 'Community Menu - Overview']);">Overview</a></li>
-                    <li><a href="http://community.spiceworks.com/launch/see_all" onclick="_gaq.push(['_trackEvent', 'Menus', 'Opened', 'Community Menu - Discussion Groups']);">Discussion Groups</a></li>					
+                    <li><a href="http://community.spiceworks.com/launch/see_all" onclick="_gaq.push(['_trackEvent', 'Menus', 'Opened', 'Community Menu - Discussion Groups']);">Discussion Groups</a></li>
                     <li><a href="http://community.spiceworks.com/people" onclick="_gaq.push(['_trackEvent', 'Menus', 'Opened', 'Community Menu - IT Profiles']);">IT Profiles</a></li>
 					<li><a href="http://community.spiceworks.com/how_to" onclick="_gaq.push(['_trackEvent', 'Menus', 'Opened', 'Community Menu - How-Tos']);">How-Tos</a></li>
 					<li><a href="http://community.spiceworks.com/spiceworks-tv" onclick="_gaq.push(['_trackEvent', 'Menus', 'Opened', 'Community Menu - Videos']);">Videos</a></li>
@@ -116,7 +127,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           </div>
         </div>
       </div>
-    </div> 	
+    </div>
+	
 	<div class="hero">	
 		<div class="navbar navbar-static-top navbar-section hidden-phone">
 			<div class="navbar-inner">
@@ -315,8 +327,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<p>If you have comments on any part of the Service or ideas on how to improve it, please send email to <a href="mailto:feedback@spiceworks.com">feedback@spiceworks.com</a>. Please note that by doing so, you also grant Spiceworks and third parties permission to use and incorporate your ideas or comments into the service (or third party software or content) without further compensation or approval.</p>
 		
 				<p>The information contained in this web site is subject to change without notice.<br>
-				Copyright © 2006-2014 Spiceworks, Inc. All rights reserved.<br>
-				Spiceworks, Inc. 7300 FM 2222, Bldg 3, Suite 100, Austin, TX 78730, USA</p>
+				Copyright © 2006-2015 Spiceworks, Inc. All rights reserved.<br>
+				Spiceworks, Inc. 3700 North Capital of Texas Highway #100, Austin, TX 78746, USA</p>
         	</div>
         </div>
     	
@@ -338,7 +350,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						<li><a href="http://community.spiceworks.com/support" onclick="_gaq.push(['_trackEvent', 'Links', 'Clicked', 'Footer - Support']);">Support</a></li>
 						<li><a href="http://community.spiceworks.com/spiceworks-tv" onclick="_gaq.push(['_trackEvent', 'Links', 'Clicked', 'Footer - Videos']);">Videos</a></li>
 						<li><a href="http://developers.spiceworks.com/" onclick="_gaq.push(['_trackEvent', 'Links', 'Clicked', 'Footer - Developers']);">Developers</a></li>
-						<li><a href="/affiliate-program/" onclick="_gaq.push(['_trackEvent', 'Links', 'Clicked', 'Footer - Affiliate Program']);">Affiliate Program</a></li>
+						<li><a href="/partner-program/" onclick="_gaq.push(['_trackEvent', 'Links', 'Clicked', 'Footer - Affiliate Program']);">Partner Referral Program</a></li>
 					</ul>
 				</div>
 				<div class="span3 offset1">
@@ -390,15 +402,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<div class="span6 pull-right text-right">
 					<small class="muted">
 						<a href="/sitemap/" onclick="_gaq.push(['_trackEvent', 'Links', 'Clicked', 'Footer - Sitemap']);">Sitemap</a> &nbsp; • &nbsp; 
-						<a href="/privacy/" onclick="_gaq.push(['_trackEvent', 'Links', 'Clicked', 'Footer - Privacy Policy']);">Privacy Policy</a> &nbsp; • &nbsp;  
-						<a href="/terms/" onclick="_gaq.push(['_trackEvent', 'Links', 'Clicked', 'Footer - Terms of Use']);">Terms of Use</a> &nbsp; • &nbsp; 
-						<a href="/requirements/" onclick="_gaq.push(['_trackEvent', 'Links', 'Clicked', 'Footer - System Requirements']);">System Requirements</a>
+						<a href="/terms-and-privacy/" onclick="_gaq.push(['_trackEvent', 'Links', 'Clicked', 'Footer - Privacy Policy']);">Privacy Policy</a> &nbsp; • &nbsp;  
+						<a href="/terms-and-privacy/#terms" onclick="_gaq.push(['_trackEvent', 'Links', 'Clicked', 'Footer - Terms of Use']);">Terms of Use</a> &nbsp; • &nbsp; 
+						<a href="/terms-and-privacy/#system-requirements" onclick="_gaq.push(['_trackEvent', 'Links', 'Clicked', 'Footer - System Requirements']);">System Requirements</a>
 					</small>
 				</div>
 				
 				<div class="span6 footer-legal">
 					<small class="muted">
-						© Copyright 2006-2014 Spiceworks Inc. 
+						© Copyright 2006-2015 Spiceworks Inc. 
 					</small>
 				</div>
 			</div>
@@ -406,14 +418,62 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	</footer>
 
 
-<script src="//wwwstatic.spiceworks.com/js/global.js?version=20141126"></script>
-<aside>
-    <div id="join-login" class="modal modal-join-login join-login hide fade" tabindex="-1" role="dialog" aria-labelledby="login_label" aria-hidden="true">
-	    <div class="tab-content">
+
+<script>
+(function () {
+
+	// should be moved into JS library
+	window.SW_DOWNLOAD_WAIT = true;
+	var anchors = document.getElementsByTagName('a'),
+		anchor, anchordata,
+		alen = anchors.length,
+		i = 0,
+		reg = /\/download\//,
+		timeout, scheduleClick,
+		iters = 0;
+
+	scheduleClick = function (a) {
+		clearTimeout(timeout);
+		if (window.SW_DOWNLOAD_WAIT) {
+			timeout = setTimeout(function () {
+				iters++;
+				if (iters > 40) window.SW_DOWNLOAD_WAIT = false;
+				a.click();
+			}, 200);
+		}
+	};
+
+	for (; i < alen; i++) {
+		anchor = anchors[i];
+		anchordata = anchor.data || anchor.dataset;
+		if (anchordata.href && anchordata.href.match(reg) ||
+			anchor.href && anchor.href.match(reg)) {
+			if (anchor.addEventListener) {
+				anchor.addEventListener("click", function (e) {
+					e.preventDefault();
+					scheduleClick(this);
+				}, false);
+			}
+			else {
+				anchor.attachEvent("onclick", function (e) {
+					e.preventDefault();
+					scheduleClick(this);
+				});
+			}
+		}
+	}
+
+})();
+</script>
+
+<script src="//wwwstatic.spiceworks.com/js/global.js?version=20150603"></script>
+	<aside>
+    <div id="join-login" class="modal modal-join-login join-login fade hide" tabindex="-1" role="dialog" aria-labelledby="login_label" aria-hidden="true">
+    		    <div class="tab-content">
 	    	<div id="join" class="tab-pane active">
 		        <div class="modal-header">
 		            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-		            <h3 id="login_label">Get free apps and a community of 6 million IT pros.</h3>
+		            <h3 id="login_label">Get free apps and a community of millions of IT pros.</h3>
 		        </div>
 		        <div class="modal-body">
 			        <div class="social-register text-center">
@@ -426,7 +486,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					<div class="or-divider"><div>Or</div></div>
 					<h4 class="sign-up-header">Sign up with your email address</h4>
 
-		      <form accept-charset="UTF-8" action="http://community.spiceworks.com/join/register" class="form-horizontal register-form" data-remote-json="true" id="new_registration" method="post" target="_parent">
+		      		<form accept-charset="UTF-8" action="https://community.spiceworks.com/join/register" class="form-horizontal register-form" data-remote-json="true" id="new_registration" method="post" target="_parent">
 
 						<input name="utf8" type="hidden" value="✓">
 						<input name="registration[terms]" type="hidden" value="1">
@@ -436,30 +496,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						<div class="sui-alert no-controls generic-error"></div>
 
 						<div class="control-group">
-							<label class="control-label" for="new_registration_first_name">First Name</label>
+							<label class="control-label" for="new_registration_first_name" onclick="_gaq.push(['_trackEvent', 'Form', 'Join', 'First Name Label']);">First Name</label>
 							<div class="controls">
-								<input id="new_registration_first_name" name="registration[first_name]" size="30" type="text" required="">
+								<input id="new_registration_first_name" name="registration[first_name]" size="30" type="text" required="" onclick="_gaq.push(['_trackEvent', 'Form', 'Join', 'First Name Field']);">
 							</div>
 						</div>
 						<div class="control-group">
-							<label class="control-label" for="new_registration_last_name">Last Name</label>
+							<label class="control-label" for="new_registration_last_name" onclick="_gaq.push(['_trackEvent', 'Form', 'Join', 'Last Name Label']);">Last Name</label>
 							<div class="controls">
-								<input id="new_registration_last_name" name="registration[last_name]" size="30" type="text" required="">
+								<input id="new_registration_last_name" name="registration[last_name]" size="30" type="text" required="" onclick="_gaq.push(['_trackEvent', 'Form', 'Join', 'Last Name Field']);">
 							</div>
 						</div>
 						<div class="control-group">
-							<label class="control-label" for="new_registration_email">Email</label>
+							<label class="control-label" for="new_registration_email" onclick="_gaq.push(['_trackEvent', 'Form', 'Join', 'Email Label']);">Email</label>
 							<div class="controls">
-								<input id="new_registration_email" name="registration[email]" size="30" type="email" value="" required="">
-							</div>
-						</div>
-						<div class="control-group">
-							<div class="controls">
-								<input name="registration[terms]" type="hidden" value="0">
-								<label class="checkbox" for="new_registration_terms">
-									<input id="new_registration_terms" name="registration[terms]" type="checkbox" value="1" required="">
-									I agree to the <a href="http://www.spiceworks.com/terms/" target="_blank">Terms of Use</a>.
-								</label>
+								<input id="new_registration_email" name="registration[email]" size="30" type="email" value="" required="" onclick="_gaq.push(['_trackEvent', 'Form', 'Join', 'Email Field']);">
 							</div>
 						</div>
 						<div class="control-group">
@@ -467,27 +518,31 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 								<button class="btn btn-primary" data-button-type="submit" data-primary="true" type="submit" onclick="_gaq.push(['_trackEvent', 'Buttons', 'Clicked', 'Join Now']);">Join Now</button>
 							</div>
 						</div>
-
+						<input name="registration[terms]" type="hidden" value="1">								
 					</form>
 
+					<p class="text-center join-form-copy">Already have an account? <a href="#login" class="iframe join_community btn-join-community" role="button" data-toggle="tab" onclick="_gaq.push(['_trackEvent', 'Buttons', 'Clicked', 'Log In from Join']);">Sign In</a></p>
+					<p class="text-center terms-disclaimer">By creating your account, you are agreeing to our <a href="http://www.spiceworks.com/terms-and-privacy/#terms" target="_blank" onclick="_gaq.push(['_trackEvent', 'Form', 'Join', 'View Terms of Use']);">Terms of Use</a> and our <a href="http://www.spiceworks.com/terms-and-privacy/" target="_blank" onclick="_gaq.push(['_trackEvent', 'Form', 'Join', 'View Privacy Policy']);">Privacy Policy</a>.</p>
 		        </div>
-		        <div class="modal-footer">
-		           	Already have an account? <a href="#login" class="iframe join_community btn-join-community" role="button" data-toggle="tab" onclick="_gaq.push(['_trackEvent', 'Buttons', 'Clicked', 'Log In from Join']);">Sign In</a>
-		        </div>
-		        <hr>
 		        <div class="modal-footer">
 					<strong>Are you a tech marketer?</strong> <a href="/marketing/" onclick="_gaq.push(['_trackEvent', 'Buttons', 'Clicked', 'Join - Marketer Link']);">Join Here</a>
 		        </div>
 			</div>
 
-			<div id="join_download" class="tab-pane">
+			<div id="join_download" class="tab-pane ">
 	          <div class="modal-header">
 	            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
 	            <h2 class="text-center">Create your FREE Spiceworks Account.</h2>
-	            <h4 class="text-center">Once that's done, your download will begin immediately.</h4>
-	          </div>
+	            	            	<h4 class="text-center">Once that's done, your download will begin immediately.</h4>
+	            	          </div>
 	          <div class="modal-body">
+              <div class="social-register text-center">
+                <h4>Connect with</h4>
+                <div class="social_links text-center">
 
+                </div>
+                <div class="or-divider"><div>Or</div></div>
+              </div>
 	            <form accept-charset="UTF-8" action="javascript:void(0);" class="form-horizontal register-form" id="join_download_form" method="post" target="_parent">
 	              <input name="utf8" type="hidden" value="✓">
 
@@ -501,7 +556,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	                  <input id="registration_email" name="registration[email]" size="30" type="email" value="" placeholder="Use your email for verification" required="" onclick="_gaq.push(['_trackEvent', 'Form', 'Register to Download', 'Email Field']);">
 	    			  <span id="registration_email_success" class="help-inline success" style="display:none;"><i class="fa fa-check"></i> Looks good!</span>
 	    			  <span id="registration_email_error" class="help-inline error" style="display:none;"><i class="fa fa-times"></i> Oops</span>
-	                  <span id="registration_email_help" class="help-block" style="display:none;">A valid email is required to verify<br>your Spiceworks account.</span>
+	                  <span id="registration_email_help" class="help-block">A valid email is required to verify<br>your Spiceworks account.</span>
 	                </div>
 	              </div>
 
@@ -517,25 +572,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	              <div class="control-group">
 	                <div class="controls">
-	                	<input name="registration[terms]" type="hidden" value="0">
-	                  <label class="checkbox" for="registration_terms">
-	                  	<input id="registration_terms" name="registration[terms]" type="checkbox" value="1" required="" onclick="_gaq.push(['_trackEvent', 'Form', 'Register to Download', 'Agree to Terms of Use']);">
-	                  	I agree to the <a href="http://www.spiceworks.com/terms/" target="_blank" onclick="_gaq.push(['_trackEvent', 'Form', 'Register to Download', 'View Terms of Use']);">Terms of Use</a>.
-	                  </label>
-	                  <span id="registration_terms_help" class="help-block" style="display:none;">You must agree to the continue.</span>
-	                </div>
+	                  	                  	<button class="btn btn-primary btn-large btn-form disabled" data-button-type="submit" data-primary="true" type="submit" onclick="_gaq.push(['_trackEvent', 'Buttons', 'Clicked', 'Start Download in Upfront Reg Modal']);" disabled="">Start Download</button>
+	                  	                </div>
 	              </div>
-
-	              <div class="control-group">
-	                <div class="controls">
-	                  <button class="btn btn-primary btn-large btn-form disabled" data-button-type="submit" data-primary="true" type="submit" onclick="_gaq.push(['_trackEvent', 'Buttons', 'Clicked', 'Start Download in Upfront Reg Modal']);" disabled="">Start Download</button>
-	                </div>
-	              </div>
+	              <input name="registration[terms]" type="hidden" value="1">
 	  			</form>
 
-	          </div>
-	          <div class="modal-footer">
-	            Already have an account?  <a href="#login_download" class="iframe join_community btn-join-community" role="button" data-toggle="tab" onclick="_gaq.push(['_trackEvent', 'Buttons', 'Clicked', 'Log In from Join-Download']);">Sign In</a>
+	  			<p class="text-center join-form-copy">Already have an account?  <a href="#login_download" class="iframe join_community btn-join-community" role="button" data-toggle="tab" onclick="_gaq.push(['_trackEvent', 'Buttons', 'Clicked', 'Log In from Join-Download']);">Sign In</a></p>
+	  			<p class="text-center terms-disclaimer">By creating your account, you are agreeing to our <a href="http://www.spiceworks.com/terms-and-privacy/#terms" target="_blank" onclick="_gaq.push(['_trackEvent', 'Form', 'Join', 'View Terms of Use']);">Terms of Use</a> and our <a href="http://www.spiceworks.com/terms-and-privacy/" target="_blank" onclick="_gaq.push(['_trackEvent', 'Form', 'Join', 'View Privacy Policy']);">Privacy Policy</a>.</p>
+
 	          </div>
 			</div>
 
@@ -544,6 +589,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
 	            <h3>Log in to download Spiceworks.</h3>
 	          </div>
+            <div class="social_links text-center">
+
+            </div>
+            <div class="or-divider"><div>Or</div></div>
+
 	          <div class="modal-body">
 	            <form method="post" action="javascript:void(0);" id="login_download_form" class="simple form-horizontal">
 	              <input name="utf8" type="hidden" value="✓">
@@ -570,10 +620,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	                </div>
 	              </div>
 	            </form>
-	          </div>
-	          <div class="modal-footer text-left">
+	            <p class="join-form-copy text-center">
+	            	<a href="#password-reset" class="forgot-password btn-forgot-password from-log-in-download" role="button" data-toggle="tab" onclick="_gaq.push(['_trackEvent', 'Buttons', 'Clicked', 'Forgot Password from Log In-Download']);">Forgot your password?</a><br><br>
 	              Not a member?
 	              <a href="#join_download" class="join_community btn-join-community" role="button" data-toggle="tab" onclick="_gaq.push(['_trackEvent', 'Buttons', 'Clicked', 'Join from Log In-Download']);">Join Now</a>
+	              </p>
 	          </div>
 		    </div>
 
@@ -596,15 +647,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		                <input type="hidden" value="/" name="referer" id="referer" class="hidden">
 		                <input type="hidden" value="true" name="from_overlay" id="from_overlay" class="hidden">
 		                <div class="mbs control-group">
-		                    <label class="control-label" for="login_email">Email</label>
+		                    <label class="control-label" for="login_email" onclick="_gaq.push(['_trackEvent', 'Form', 'Log In', 'Email Label']);">Email</label>
 		    				<div class="controls">
-		                    	<input type="email" size="40" name="email" id="login_email" class="text email">
+		                    	<input type="email" size="40" name="email" id="login_email" class="text email" onclick="_gaq.push(['_trackEvent', 'Form', 'Log In', 'Email Field']);">
 		                    </div>
 		                </div>
 		                <div class="control-group">
-		                    <label class="control-label" for="login_password">Password</label>
+		                    <label class="control-label" for="login_password" onclick="_gaq.push(['_trackEvent', 'Form', 'Log In', 'Password Label']);">Password</label>
 		    				<div class="controls">
-		                   		<input type="password" size="40" name="password" id="login_password" class="text password">
+		                   		<input type="password" size="40" name="password" id="login_password" class="text password" onclick="_gaq.push(['_trackEvent', 'Form', 'Log In', 'Password Field']);">
 		                   	</div>
 		                </div>
 
@@ -614,17 +665,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		                    </div>
 		                </div>
 		            </form>
-		        </div>
-		        <div class="modal-footer text-left">
+		            <p class="join-form-copy text-center">
+		            	<a href="#password-reset" class="forgot-password btn-forgot-password from-login-in" role="button" data-toggle="tab" onclick="_gaq.push(['_trackEvent', 'Buttons', 'Clicked', 'Forgot Password from Log In']);">Forgot your password?</a><br><br>
 		            Not a member?
 		            		            <a href="#join" class="join_community btn-join-community" role="button" data-toggle="tab" onclick="_gaq.push(['_trackEvent', 'Buttons', 'Clicked', 'Join from Log In']);">Join Now</a>
-		            		        </div>
+		            		            </p>
+		        </div>
 	    	</div>
 
-	    	<!--<div id="password-reset" class="tab-pane">
+	    	<div id="password-reset" class="tab-pane">
 		        <div class="modal-header">
 		            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-		            <h4>Reset your Spiceworks Account password.</h4>
+		            <h3>Reset your Spiceworks Account password.</h3>
 		        </div>
 		        <div class="modal-body">
 				    <form id="password-reset-form" accept-charset="UTF-8" action="javascript:void(0);" class="form-horizontal reset-form" data-remote-json="true" method="post" style="">
@@ -642,29 +694,78 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 						<div class="control-group">
 						<div class="controls">
-							<button class="btn btn-primary btn-large btn-form password-reset-submit" data-button-type="submit" data-primary="true" type="submit" onClick="_gaq.push(['_trackEvent', 'Buttons', 'Clicked', 'Reset Passord']);">Reset Password</button>
+							<button class="btn btn-primary btn-large btn-form password-reset-submit" data-button-type="submit" data-primary="true" type="submit" onclick="_gaq.push(['_trackEvent', 'Buttons', 'Clicked', 'Reset Passord']);">Reset Password</button>
 						</div>
 						</div>
 					</form>
+
+			        <p class="join-form-copy text-center">
+			        	Not a member?
+		              <a href="#join_download" class="join_community btn-join-community" id="joinFromReset" role="button" data-toggle="tab" onclick="_gaq.push(['_trackEvent', 'Buttons', 'Clicked', 'Join from Reset Password']);">Join Now</a>
+			            </p><div class="desktop-password-reset text-center">Need to recover your <a href="http://community.spiceworks.com/help/Resetting_Your_Password_Outside_The_Spiceworks_Desktop">Spiceworks IT Desktop password</a>?</div>
+			        <p></p>
 				</div>
-		        <div class="modal-footer text-left">
-		            <div class="desktop-password-reset">Need to recover your <a href="http://community.spiceworks.com/help/Resetting_Your_Password_Outside_The_Spiceworks_Desktop">Spiceworks IT Desktop password</a>?</div>
-		        </div>
-			</div>-->
+			</div>
 
 	    </div>
-    </div>
+		    </div>
 </aside>
 
-<script>
-	var SWUFR = SWUFR || {};
-	SWUFR.cmd = SWUFR.cmd || [];
-	SWUFR.cmd.push(function() { SWUFR.ufr.visit(); });
-</script>
-<script async="" src="//gekko.spiceworks.com/swufr.js"></script>
 
-<script src="/assets/js/underscore.min.js"></script>
+
+<script src="//wwwstatic.spiceworks.com/js/underscore.min.js"></script>
+
 <script type="text/javascript">
+
+  var getDownloadTrackingData = function(){
+    var tracking = {'download_tracking': {"landing_category":"deleted","landing_page":""}};
+    if (typeof tracking.download_tracking.landing_page != "undefined") // need to encode urls like landing_page (fixes referrer)
+      tracking.download_tracking.landing_page = encodeURI(tracking.download_tracking.landing_page);
+    tracking.download_tracking.download_page = encodeURI("\/privacy\/");
+    return tracking;
+  };
+
+  $(function(){
+    var i,
+    policy = 'www',
+    success = '//www.spiceworks.com/social-success',
+    socialContainer = $('.social_links');
+
+    $.ajax({
+      url: 'http://accounts.spiceworks.com/auth/spiceworks/providers.js',
+      dataType: 'jsonp'
+    })
+    .success(function(links){
+      var i, link, successLink;
+      for (provider in links){
+        link = links[provider];
+        (function(provider){
+        	var properName;
+        	if (provider == 'facebook') properName = 'Facebook';
+        	if (provider == 'linkedin') properName = 'LinkedIn';
+          $('<a href="#" style="margin:0 8px;" onclick="_gaq.push([\'_trackEvent\', \'Buttons\', \'Clicked\', \'Join with ' + properName + ' - Download\']);" data-social-join="'+provider+'">'+'<img alt="'+link.img_alt+'" src="'+link.img_src+'"></a>')
+            .appendTo(socialContainer)
+            .on("click", function(e) {
+              var params = jQuery.param(getDownloadTrackingData()),
+                  where = document.location,
+                  social_network = $(this).attr('data-social-join'),
+                  window_opts = "width="+link.width+",height="+link.height,
+                  newUser = $(this).parents(".social_links").next("#join_download_form").length > 0;
+
+              successLink = success + "?provider=" + provider + "&newuser=" + "false"
+              _gaq.push(['_trackEvent', 'Buttons', 'Using '+ provider +' to Download', 'Clicked for ' + (newUser ? 'new user' : 'existing_user')]);
+
+              Cookie.set('social_auth_referer_url', where, {path: '/'});
+              query = "?policy=" + policy + "&success=" + success + "&" + params;
+              window.open("http://accounts.spiceworks.com/auth/" + provider + "/start" + query, "sw_social_join", window_opts);
+              e.preventDefault();
+            });
+        })(provider);
+      }
+    });
+  });
+
+
 $(document).on('click.modal.data-api', '[data-tab]', function (tab) {
 	tab = $(this).data('tab');
 	$(".tab-pane").removeClass("active");
@@ -693,7 +794,10 @@ $('#join-login').on('hidden', function () {
 $('#join-login').on('shown', function () {
 	var $join_download = $('#join_download');
 	if ($join_download.hasClass('active')) {
-		_gaq.push(['_trackEvent', 'Form', 'Register to Download', 'Opened']);
+
+		var openedMessage = 'Opened';
+		_gaq.push(['_trackEvent', 'Form', 'Register to Download', openedMessage]);
+		window.optimizely.push(["trackEvent", "Register to Download - Opened"]);
 		SWUFR.cmd.push(function() {
 			SWUFR.ufr.modalOpen();
 		});
@@ -710,10 +814,9 @@ $('#join-login').on('shown', function () {
             }
         });
 
-        if (form_empty == false && $('#registration_terms').is(":checked")) {
+        if (form_empty == false) {
             $('#join_download_form .btn-form').removeAttr('disabled');
             $('#join_download_form .btn-form').removeClass('disabled');
-        	$('#registration_terms_help').slideUp(500);
         } else {
             $('#join_download_form .btn-form').attr('disabled');
             $('#join_download_form .btn-form').addClass('disabled');
@@ -763,19 +866,10 @@ $('#join-login').on('shown', function () {
         	$('#registration_password_success').show();
         	$('#registration_password_error').hide();
         	$('#registration_password_help').slideUp(500);
-        	$('#registration_terms_help').slideDown(500);
 	    } else {
         	$(this).addClass('error');
         	$('#registration_password_success').hide();
         	$('#registration_password_error').show();
-	    }
-    });
-
-    $('input#registration_terms').bind("change keyup",function() {
-	    if ( $(this).is(":checked") ) {
-        	$('#registration_terms_help').slideUp(500);
-	    } else {
-        	$('#registration_terms_help').slideDown(500);
 	    }
     });
 })();
@@ -801,8 +895,10 @@ $('#join-login').on('shown', function () {
 
 (function(){
 
+  var joinDownloadCloseModal = false;
+
   var getDownloadTrackingData = function() {
-    var tracking = {'download_tracking': {"landing_category":"inventory","landing_page":"\/free-pc-network-inventory-software\/","referrer":"http:\/\/www.spiceworks.com\/"}};
+    var tracking = {'download_tracking': {"landing_category":"deleted","landing_page":""}};
     tracking.download_tracking.download_page = "\/privacy\/";
     return tracking;
   };
@@ -851,6 +947,13 @@ $('#join-login').on('shown', function () {
   $('#join_download_form').submit(function(evt) {
     evt.preventDefault();
     var self = $(this);
+
+    // Success tracking message
+    var successMessage = 'Successful Download';
+    if (joinDownloadCloseModal) {
+      successMessage += ' - Direct';
+    }
+    
     hideErrors(self);
     self.find('button').prop('disabled','disabled');
     var formDataString = self.serialize();
@@ -858,13 +961,31 @@ $('#join-login').on('shown', function () {
     $.post('/community/join/register_for_download', formDataString,
       function(data){
         if (data.login) {
-          _gaq.push(['_trackEvent', 'Form', 'Login to Download', 'Successful Download']);
-    	  setTimeout(function(){window.location.href = downloadDestination + 'app/'}, 150);
+          _gaq.push(['_trackEvent', 'Form', 'Login to Download', successMessage]);
+		  window.optimizely.push(["trackEvent", "Login to Download - Successful Download"]);
+    	  if (joinDownloadCloseModal) {
+  	   	    $('#join-login').modal('hide');
+  	      } else {
+  	   	    setTimeout(function(){window.location.href = downloadDestination + 'app/'}, 150);
+  	      }
         } else {
-      	  _gaq.push(['_trackEvent', 'Form', 'Register to Download', 'Successful Download']);
-  		    SWUFR.cmd.push(function() { SWUFR.ufr.download(function(){window.location.href = downloadDestination}) });
+      	  _gaq.push(['_trackEvent', 'Form', 'Register to Download', successMessage]);
+		  window.optimizely.push(["trackEvent", "Register to Download - Successful Download"]);
+  		    SWUFR.cmd.push(function() {
+  		      SWUFR.ufr.download(function(){
+  		      	if (joinDownloadCloseModal) {
+  		      	  $('#join-login').modal('hide');
+  		      	} else {
+  		      	  window.location.href = downloadDestination;
+  		      	}
+  		      });
+  		    });
   	   }
-        setTimeout(function(){window.location.href = downloadDestination}, 150);
+  	   if (joinDownloadCloseModal) {
+  	   	 $('#join-login').modal('hide');
+  	   } else {
+  	     setTimeout(function(){window.location.href = downloadDestination}, 150);
+  	   }
       }, 'json'
     )
       .fail(function(jqxhr){
@@ -884,13 +1005,25 @@ $('#join-login').on('shown', function () {
   $('#login_download_form').submit(function(evt) {
     evt.preventDefault();
     var self = $(this);
+
+    // Success tracking message
+    var successMessage = 'Successful Download';
+    if (joinDownloadCloseModal) {
+      successMessage += ' - Direct';
+    }
+    
     hideErrors(self);
     self.find('button').prop('disabled','disabled');
     var formDataString = self.serialize();
     formDataString += '&' + $.param({'login': getDownloadTrackingData()});
     $.post('/community/login/login_for_download', formDataString, function(){
-    	_gaq.push(['_trackEvent', 'Form', 'Login to Download', 'Successful Download']);
-    	setTimeout(function(){window.location.href = downloadDestination + 'app/'}, 150);
+    	_gaq.push(['_trackEvent', 'Form', 'Login to Download', successMessage]);
+		window.optimizely.push(["trackEvent", "Login to Download - Successful Download"]);
+		if (joinDownloadCloseModal) {
+  	   	  $('#join-login').modal('hide');
+  	    } else {
+          setTimeout(function(){window.location.href = downloadDestination + 'app/'}, 150);
+        }
       }, 'json')
       .fail(function(jqxhr){
         _gaq.push(['_trackEvent', 'Form', 'Login to Download', 'Error']);
@@ -901,23 +1034,44 @@ $('#join-login').on('shown', function () {
       });
   });
 
-  //$('#password-reset-form').submit(function(evt) {
-    //evt.preventDefault();
-    //var self = $(this);
-    //hideErrors(self);
-    //self.find('button').prop('disabled','disabled');
-    //$.post('https://community.spiceworks.com/login/reset', function(){
-    	//_gaq.push(['_trackEvent', 'Form', 'Reset Password', 'Email Sent']);
-    	//form.find('.generic-success').slideDown(250);
-      //}, 'json')
-      //.fail(function(jqxhr){
-        //_gaq.push(['_trackEvent', 'Form', 'Reset Password', 'Error']);
-        //handleErrors(self, jqxhr);
-      //})
-      //.always(function(){
-        //self.find('button').prop('disabled',false);
-      //});
-  //});
+  $('.btn-forgot-password').click(function(e) {
+    var href = '#join';
+    if ($(this).hasClass('from-log-in-download')) {
+      href += '_download';
+    }
+    $('#joinFromReset').attr('href', href);
+  });
+
+  $('#password-reset-form').submit(function(evt) {
+    evt.preventDefault();
+    var self = $(this),
+    	endpoint = window.location.protocol + '//' + window.location.host + '/library/includes/identity/reset_password/',
+    	email = $('#reset-form_email').val(),
+    	callbackURL = window.location.toString();
+    hideErrors(self);
+    self.find('.generic-error').hide();
+    self.find('.generic-success').hide();
+    self.find('button').prop('disabled','disabled');
+    $.post(endpoint, {'email': email, 'url': callbackURL}, function(data) {
+    	if (data && data.status == 'success') {
+    		_gaq.push(['_trackEvent', 'Form', 'Reset Password', 'Email Sent']);
+    		self.find('.generic-success').slideDown(250);
+    	} else if (data && data.status == 'error' && data.message) {
+        	_gaq.push(['_trackEvent', 'Form', 'Reset Password', 'Error']);
+    		self.find('.generic-error').text(data.message).slideDown(250);
+    	} else {
+        	_gaq.push(['_trackEvent', 'Form', 'Reset Password', 'Error']);
+    		self.find('.generic-error').text('Something went wrong. Please check your email and try again.').slideDown(250);
+    	}
+      }, 'json')
+      .fail(function(jqxhr){
+        _gaq.push(['_trackEvent', 'Form', 'Reset Password', 'Error']);
+        self.find('.generic-error').text('Something went wrong. Please check your email and try again.').slideDown(250);
+      })
+      .always(function(){
+        self.find('button').prop('disabled',false);
+      });
+  });
 
 })();
 
@@ -925,20 +1079,60 @@ $('#join-login').on('shown', function () {
 
 
 <script type="text/javascript">
-  $(document).ready(function() {
+  $(function() {
+
+  	var $specialDest = $('meta[name=specialdownloaddest]');
+  	var specialDest = false;
+  	if ($specialDest.length) {
+  		specialDest = $specialSignup.attr('content');
+  	}
+    var monitorRE = /monitor/;
     if ($("#join-login.modal #join_download").length) {
       $(document).on('click', 'a[href^="/download/"]', function(evt) {
+      	if ($(this).hasClass('skip-modal')) {
+      		window.location = this.href;
+      		return;
+      	}
+      	evt.preventDefault();
         $('.video-modal').modal('hide');
-		downloadDestination = this.href;
+		    downloadDestination = this.href;
+		    if (specialDest) {
+		    	downloadDestination = specialDest;
+		    }
+
+        if (monitorRE.test(downloadDestination)) //network monitoring does not support social signup
+          $("#join_download .social-register").hide();
+
+        $('#join-login.modal').modal('show');
+        $('#join-login.modal .tab-pane').removeClass("active");
+        $('#join-login.modal #join_download').addClass("active in");
+        return false;
+      });
+
+      // Add support for data-attr.
+      $(document).on('click', 'a[data-href^="/download/"]', function(evt) {
+      	evt.preventDefault();
+        $('.video-modal').modal('hide');
+		    downloadDestination = $(this).attr('data-href');
+		    if (specialDest) {
+		    	downloadDestination = specialDest;
+		    }
+
+        if (monitorRE.test(downloadDestination)) //network monitoring does not support social signup
+          $("#join_download .social-register").hide();
+
         $('#join-login.modal').modal('show');
         $('#join-login.modal .tab-pane').removeClass("active");
         $('#join-login.modal #join_download').addClass("active in");
         return false;
       });
     }
+    window.SW_DOWNLOAD_WAIT = false;
   });
 </script>
 
+
+<script async="" src="//cdn.optimizely.com/js/168363181.js"></script>
     
     <script type="text/javascript">
 	    $(window).load(function() {	
@@ -964,5 +1158,5 @@ $('#join-login').on('shown', function () {
 		});
     </script>
     
-  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"16b4f0abc5","applicationID":"2721470","transactionName":"ZwMGZ0BQVkFWB0QNWV5JMUFbHkhAXhJRB08fDwpXV0kWQl8U","queueTime":0,"applicationTime":120,"atts":"S0QFEQhKRU8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"16b4f0abc5","applicationID":"2721470","transactionName":"ZwMGZ0BQVkFWB0QNWV5JMUFbHkhAXhJRB08fDwpXV0kWQl8U","queueTime":0,"applicationTime":89,"atts":"S0QFEQhKRU8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 <script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
