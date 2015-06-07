@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the startupguys.net privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228063405id_/http%3A//www.startupguys.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupguys.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607072317id_/http%3A//www.startupguys.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | StartupGuys.net
 
 At StartupGuys.net we are strongly committed to protect your privacy in order to provide you safe online experience. This Privacy Policy discusses the types of information we collect from our users. If you’re not comfortable with our Privacy Policy, please do not provide us with information discussed below or otherwise use the Site.
 
