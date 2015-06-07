@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlrising.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205185954id_/http%3A//girlrising.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlrising.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607143913id_/http%3A//girlrising.com/privacy-policy) for the most accurate reproduction.*
 
 # Girl Rising
 
