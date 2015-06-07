@@ -1,185 +1,75 @@
-> *The following text is extracted and transformed from the azfamily.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015232727id_/http%3A//www.azfamily.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azfamily.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607235039id_/http%3A//www.azfamily.com/story/18990/privacy-policy) for the most accurate reproduction.*
 
-# azfamily.com | Privacy Policy
+# This Web Site’s Privacy Policy - azfamily.com 3TV | Phoenix Breaking News, Weather, Sport
 
-## Last Updated: July 7, 2014
+We provide a variety of online web services, mobile applications, and services for location-enabled and other types of devices (collectively, the "Services") from news and weather to interactive entertainment to electronic commerce via our relationship with Gannaway Web Holdings, LLC d/b/a WorldNow ("WorldNow"). WorldNow is the host of this Web site.  Because the success of the Services is dependent on building and maintaining goodwill with our customers, this Web site and WorldNow (hereinafter collectively referred to as "we" or "us" or "our") are committed to implementing measures designed to protect the privacy of those using our services.  Moreover, we see it as our responsibility to set examples and help establish the standards for privacy on the Internet.
 
-Welcome! This Privacy Policy governs the use and collection of information from you by KTVK and its affiliated companies (collectively, "KTVK," "we" or "us") through your use of Web sites, interactive services and mobile applications that display an authorized link to this Privacy Policy (collectively, the "Services"). This Privacy Policy does not apply to any information you may provide to us offline or through any means other than the Services. For example, this Privacy Policy does not apply to information you provide when you subscribe by postal mail or telephone to one of our stations or to information that you provide to us at a live event or when you respond by postal mail or telephone to a survey or an invitation to enter a sweepstakes or contest. Please read this Privacy Policy carefully so that you understand our online privacy practices. By using any of our Services, you agree that your use, and any dispute over our privacy practices, is governed by this Privacy Policy and our [Terms of Service](https://web.archive.org/terms-and-conditions/terms-of-use). Understanding that technologies are rapidly evolving, we reserve the right to make changes to this Privacy Policy at any time. Any such changes will be promptly posted on this page, with an updated "effective date" posted at the beginning and/or end of this policy.
+Although we respect the privacy of all those who use our Services, we do collect information from our members and visitors. This Privacy Policy governs your interaction with the Services, and your registration for and use of this station's Services.  Except as set forth within this Privacy Policy and the  Terms of Service and/or other published guidelines, we do not release personally identifiable information about the Service's members and visitors without their permission.
 
-### This Privacy Policy explains the following:
+Please note that we review these privacy practices from time to time, and that these practices are therefore subject to change. We ask that you periodically review this page to ensure continuing familiarity with the most current version of this Web site's Privacy Policy. To contact us about privacy issues, to report a violation of this Web site's Privacy Policy, or to raise any other issue regarding the Web site, please e-mail us at [Info@WorldNow.com](mailto:Info@WorldNow.com).
 
-  1. What types of information we collect 
-  2. What cookies, scripts, and beacons are and why we use them 
-  3. How we use your personal information 
-  4. With whom we share your personal information 
-  5. Other parties that may collect information when you use our Services
-  6. How you can opt-out of sharing your personal information or receiving our promotional communications 
-  7. How you can update your personal information or registration information 
-  8. What safeguards we put in place to protect your personal information 
-  9. What you should know about third-party sites and advertising 
-  10. Whether we knowingly collect personal information from children under 13 
-  11. How you can contact us 
-  12. What you should know about "phishing" 
-  13. When this Privacy Policy is effective and how changes to the Privacy Policy are posted 
+**The information we gather**
 
+We gather two types of information about the users of the Services:
 
+(1) **Non-personally identifiable information:** When you use the Services, we may collect and aggregate information indicating, among other things, which pages were visited, the order in which they were visited, and which hyperlinks were "clicked." Collecting such information involves the logging of IP addresses, operating system and browser software used by each user. Although such information is not personally identifiable, we can determine from the IP address a visitor's Internet Service Provider and the geographic location of his or her point of connectivity.
 
-### What Types of Information Do We Collect?
+The non-personally identifiable information we collect helps us diagnose problems with our server, administer the Services, identify the most popular areas or features of the Services, and determine the effectiveness of our promotional activities. In addition, we may disclose some of this information to advertisers to inform them of the number of people who have seen and/or clicked through their advertisements.
 
-The information we gather falls into two categories: (1) information (for example, your name, e-mail address and mailing address) that you voluntarily supply when you register, initiate transactions, or communicate with us, and (2) information collected automatically as you navigate within our Services, or read our e-mail newsletters. In some cases, it is a vendor or service provider of ours that collects the information on our behalf. Third-party providers featured on or linked to by our Services also may be gathering the same kinds of information through processes that we don't control subject to their own separate privacy policies.
+For the same purposes, we use "cookies"---that is, small text files placed on your computer's hard drive---to help us determine the type of content and sites to which you link, the length of time you spend at any particular area or feature of the Services, and your usage of the Services. Cookies also tell us which advertising you have seen on the Services.  At certain times, we may use outside advertising companies to display advertisements on the Web site that may contain cookies ("banner ads"). These banner ads collect information stored by the advertising company and we do not have access to this information.
 
-#### Registration and Other Personal Information
+Essentially, cookies are your identification cards for our computers, or servers, that placed them there. Cookies are only read by the server that placed them, and are unable to execute any code or virus. Cookies allow us to serve you better and more efficiently, and to personalize your experience on the Services. Nevertheless, you are able to control how and whether cookies will be accepted by your web browser or device. For more information on how to do so, please refer to the documentation accompanying your browser or device.
 
-When we use the term "Personal Information" in this policy, we are referring only to information that uniquely identifies a specific individual, such as an individual's name, phone number, mailing address, or e-mail address, and information about an individual's activity or characteristics that is directly linked to personally-identifying information.
+The Services may also utilize an electronic file called a web beacon to count users who have visited a web page or recognize users by accessing certain cookies.  We, our third-party suppliers and/or the web sites and services of advertisers and merchants with which we have a relationship may use cookies and web beacons (a) for auditing purposes and to collect information from the web sites of certain advertisers or merchants; (b) to report anonymous individual and/or aggregate information about our users from such advertisers or merchants and (c) to collect general internet usage information over time regarding users of the Services.  Aggregate information may include demographic and usage information.  You may choose to opt-out by contacting us at [www.info@worldnow.com](http://www.info@worldnow.com._/).
 
-We may ask you for Personal Information when you register for or use various aspects of our Services, including when you order products, complete a survey, enter a contest or sweepstakes, or report a problem with our Services. We may also collect contact information for other individuals when you use the sharing tools available within our Services to share content or offers with your friends and associates. We use this information to facilitate the communications you request. Please note that if you use any "send-to-friend" features of our Services, your e-mail address may be included in the communication sent to your friend. 
+At this time, this website and the Services do not recognize automated browser signals regarding tracking mechanisms and preferences, which may include "do not track" instructions.  However, you may adjust the privacy preferences of your browser, including the control of how and whether cookies will be accepted by your web browser or device.  For more information on how to do so, please refer to the documentation accompanying your browser or device.
 
-#### Aggregated Information
+(2) **Personally identifiable information:** Certain features of the Services, such as surveys and contests, may require that you provide personally identifiable information (including, for example, zip code, age, income, and e-mail address, and when applicable, credit card information). WorldNow, as host of the Web site, has access to this information. In addition, when registering to set up an account to use certain services of the Web site such as e-mail, chat rooms, and forums, or to receive certain newsletters or specifically targeted information, we do require that you provide a valid e-mail address.
 
-Much of the information we collect is compiled in the form of aggregated statistics, such as the traffic generated by visits on various pages within our Services, and the habits and preferences of our audience. Such aggregated information does not include any information that would identify you personally and does not constitute "Personal Information" under this policy. We may use aggregated information or other anonymous information and disclose it to third parties as we see fit.
+In addition, we may collect information about your location when you access any of our mobile applications.  If you do not enable the service to use your location information or if the app does not have that feature, we will not collect or store your location information.
 
-#### Information We Collect Automatically When You Use Our Services
+We do not knowingly collect personally identifiable information from children younger than 13 years of age. Before registering for an account to use the Services of the Web site, we ask that all minors thirteen years old and older to have their parents read our Privacy Policy. 
 
-KTVK or third-party vendors and service providers acting on our behalf may collect certain information automatically when you use our Services, including:
+We do not control the acts of users of the Services. All users should be aware that, when they disclose personally identifiable information in a bulletin board, chat room, guestbook, or other forum, the information may be collected and used by others to send that person unsolicited e-mail from other parties outside of the Services or WorldNow. In the event that you encounter any user of the Services who is improperly collecting or using information about you or other users, please contact [Info@WorldNow.com](mailto:Info@WorldNow.com).
 
-  1. Your browser type, browser identifiers, language, plug-ins, Internet domain and operating system;
-  2. Your Internet Protocol (IP) address (a numerical address assigned to your computer by your Internet service provider so that other computers connected to the Internet can communicate with you online) that can sometimes be used to derive your general geographic area;
-  3. The site you visited before visiting a KTVK Service and the site you visited after leaving our Service;
-  4. Content and advertisements you view and links you click on while navigating within our Services;
-  5. Unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law;
-  6. Information collected through cookies, scripts, web beacons and other tracking technologies (see additional descriptions of these terms below);
-  7. Information about your interactions with our video content, such as the type of content viewed on our Services;
-  8. Information about your interactions with our e-mail messages, such as the links you click on and whether you open or forward a message; and
-  9. Standard server log information.
+**How we use (and do not use) the information we gather**
 
+Please take some time to familiarize yourself with the different ways we use the information that we gather. We cannot and do not assume any responsibility for any actions or omissions of third parties, including the manner in which they use information received either from us or independently. Nevertheless, in the event you encounter any third party associated with, or who claims association with us who you feel is improperly collecting or using information about you, please contact [Info@WorldNow.com](mailto:Info@WorldNow.com); we will be happy to forward your message to the third party.
 
+(1) **How we use (and do not use) non-personally identifiable information:** We use non-personally identifiable information in aggregate form to build higher quality, more useful Services by performing statistical analyses of the collective characteristics and behavior of the users of the Services, and by measuring demographics and interests regarding specific areas and features of the Services. We provide statistical information based on this data to advertisers, affiliates, and other current and potential business partners. We also use the aggregate data to inform these third parties as to the number of people who have seen and clicked on links to their web sites.
 
-#### Precise Location-Based Information
+The Services may contain links to other Internet websites and services, including co-branded or other affiliated sites that may or may not be owned or operated by us. Unless otherwise explicitly stated, we are not responsible for the privacy practices or the content of such websites or services, including their use of any information (such as IP number, browser type, or operating system) collected when users or visitors to the Services click through links to those sites. Even though such information might not identify you personally, we strongly encourage you to become familiar with the privacy practices of those sites and services.
 
-With your consent, we may also collect information about the exact real-time location of mobile devices you use to access our Services. We use this information to provide you the content and location services you request, such as location-based weather reports and traffic maps, tell you about offers we think you will value based on your location, enable you to submit user-generated content based on your location, and otherwise improve your experience using our Services. You are not required to consent to our collection of precise location-based information to use our Services and you can adjust the settings of your mobile device to turn on and off our access to your precise location information. 
+(2) **How we use (and do not use) personally identifiable information:** This Privacy Policy serves as notice that personally identifiable information is collected during the registration process. You may choose to "opt in" to receiving promotional materials from us and/or our affiliates, advertisers, or other business partners. If you "opt in" to receiving such promotional materials, we reserve the right to release any personally identifiable registration information regarding you to third parties who provide goods or services that we believe may be of interest to you. We will not release your credit card information to third parties unless necessary to complete a transaction between you and such a third party. If you decide that you would like to discontinue receiving promotional information from such third parties, please contact those third parties directly, or contact us at [Info@WorldNow.com](mailto:Info@WorldNow.com).
 
-### What Are Cookies, Scripts and Web Beacons and Why Do We Use Them?
+We limit our own e-mail contact and solicitations to those customers who have "opted in" to receiving such communications. The solicitations are limited in that they, among other things, will clearly indicate the originator of the e-mail and provide the customer with a method of "opting out" of receiving future communications of a similar nature.
 
-#### What are Cookies?
+In addition, as our businesses change, we may buy or sell various assets. In such cases, personally identifiable information about our users of our Services may be disclosed to the other party(ies) of the transaction.
 
-Cookies are alphanumeric identifiers stored within your browser. Cookies are accessed and recorded by the Web sites you visit, and by the companies that deliver the advertisements you see on Web sites, so they can recognize the same browser navigating online. We use cookies for the following general purposes:
+In addition, we sometimes use demographic data to decide which advertisements and sponsor messages to show to which members. As an example, if Sponsor XYZ wishes to display their advertising only to female members of the Services, we may use member registration data to ensure that Sponsor XYZ's ads are displayed only to female members.
 
-  1. To help us recognize your browser as a previous visitor and save and remember any preferences that may have been set while you visited one of our Web sites. For example, if you register for a KTVK Service, we may save your username and password, so you do not have to re-enter them each time you visit.
-  2. To help control the display of advertisements and customize the content and advertisements you see while using our Services. 
-  3. To help us measure and analyze visitor traffic and usage patterns and to improve the quality and effectiveness of our content, features, advertisements, and other communications.
+Finally, we may use individual members' data to "pre-populate" forms, which are displayed for the purpose of collecting individual data by us and/or our sponsors. In no case does pre-populating a form transfer any data to any advertiser or third party. Only if the member voluntarily requests that such data be transferred will any transfer take place---for example, if/when a member clicks a "submit form" button or other button.
 
+In addition, we may use information about your location when you access our mobile applications to provide location aware products or services and for advertising purposes, and if you submit video or images for the news, for news reporting purposes.   Notwithstanding anything herein to the contrary, we may provide your location information to third parties who provide goods or services that we believe may be of interest to you. 
 
+We reserve the right to release any and all information contained within our access logs concerning any visitor or member when that visitor or member is in violation of our Terms of Service or other published guidelines, or partakes (or is reasonably suspected of partaking) in any illegal activity, even without a subpoena, warrant, or other court order, and to release such information in response to discovery requests, or in response to any circumstance which we, in our sole discretion, deem an emergency. We cooperate with law enforcement agencies in identifying those who may be using the Services for illegal activities. We also reserve the right to report any suspected illegal activity to law enforcement for investigation or prosecution. We also reserve the right to comply with subpoenas, warrants, and other court orders requesting information obtained or any information obtained or stored by us.
 
-Third-party companies that provide some of the tools and features accessible through our Services and advertisers and other companies involved in the delivery of the advertisements that you see while using our Services also may place cookies within your browser. We do not have access to these cookies and do not control how they may be used. You can set your browser to accept or reject most cookies, or to notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.) It is up to you whether to allow us or third parties to send you or to set cookies, but if you block cookies, you may not be able to view or access some of the features of our Services. Please note that certain browsers cannot be used to block or delete so-called "Flash" cookies, which use a feature of the Adobe Flash video player to store information on your computer. For information about how to delete Flash cookies, please visit the Adobe Web site [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). 
+If and when we sponsor promotions or sweepstakes, or third parties sponsor promotions or sweepstakes in conjunction with us, either we or the third party will post relevant privacy information in the official rules and/or registration area for the promotion or sweepstakes. That privacy information, to the extent it conflicts with this Privacy Policy, will govern that particular promotion or sweepstakes.
 
-#### Web Beacons, Scripts, and Other Tracking Technologies
+**Security**
 
-We and our service providers and other third-party companies involved in the delivery of advertisements you see on our Services and/or while visiting other unaffiliated Web sites may use scripts, web beacons and/or similar technologies, to collect information about your use of our Services. Web beacons (sometimes called "transparent GIFs," "clear GIFs," or "pixel tags") embed a small graphic image (usually invisible) on a web page or in an e-mail. When your browser downloads a web beacon, the server that sends the corresponding image to your browser can recognize and store certain types of information such as cookies previously set, the time and date that you viewed the page embedded with the beacon and a description of that page. We use web beacons to improve your experience using our Services, including to provide you with content, advertising and offers customized to your interests, and to understand whether our users read e-mail messages and access links contained within those messages. 
+No security system is impenetrable. Accordingly, we cannot guarantee the security of any database that stores personally identifiable information in connection with the Services, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. Questions regarding this Privacy Policy should be directed to us at [Info@WorldNow.com](mailto:Info@WorldNow.com).
 
-#### How Do We Use Your Personal Information?
+**Changing/deleting personal information**
 
-We believe we can enhance your experience on our Services with the information you share with us. We use Personal Information to improve our advertising and marketing efforts, to statistically analyze Service usage, to improve our content and product offerings and to personalize the content, layout, and features of the Services. We will use your Personal Information to respond to your comments and questions. We may also use your Personal Information, such as your e-mail address, phone number or mailing address, to contact you regarding products and/or services that we think may be of interest to you, including products and services of third parties, unless you have elected not to receive these promotions and offers by modifying your profile as described below in "How Can You Opt-Out of Sharing Your Personal Information or Receiving Our Promotional Communications?"  
-We may match Personal Information we collect through our Services with other information about you supplied by third parties so that we can provide you with customized product, services, and content offerings that we believe will interest you and to otherwise improve our advertising and marketing efforts. After registering on one of our Services, you may receive communications including mail, e-mail, telephone or wireless text messages from us related to products and services that we believe will interest you. Although we hope you find these communications informative and useful, you can opt-out from receiving these types of communications from us by changing the privacy preferences in your member profile or by deleting your profile from our database. Please refer to "How Can You Opt-Out of Sharing Your Personal Information or Receiving Our Promotional Communications?" for additional information and instructions.
+If you would like to have your personally identifiable information changed or removed from our database, please contact us at [Info@WorldNow.com](mailto:Info@WorldNow.com), and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within our databases, access logs, and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; however we reserve the right, from time to time, to recontact former customers or users of this Web site.
 
-### With Whom Do We Share Your Personal Information?
+**Third-Party Ad Serving**
 
-#### Our Affiliated Companies
+We may use third-party advertising companies to serve ads when you visit this Web site.  These companies may use information (not including your name, address or telephone number) about your use of the Services and visits to other web sites and services in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know you choices about not having this information used by these companies, please contact us at [Info@WorldNow.com](mailto:Info@WorldNow.com), or click here <http://www.networkadvertising.org/optout_nonppii.asp>.
 
-We may share any information, including Personal Information, that we collect through the Services with any company that is directly or indirectly owned, controlled or operated by KTVK so that we and they can communicate with you about products and services that we believe may be of interest to you. The use and further disclosure of the information collected on our Services by our affiliated companies will be governed by this Privacy Policy, as it may be amended from time to time.
+**Questions?**
 
-#### Vendors, Service Providers and Provider Partners
+Questions regarding this Privacy Policy should be directed to us at [Info@WorldNow.com](mailto:Info@WorldNow.com).
 
-We have today, and will in the future have, arrangements with third-party vendors and service providers, such as credit card processors, shipping companies and fulfillment services, that assist us with the operation and development of our Services. We reserve the right to share with these companies any information we collect provided that they commit not to use Personal Information collected from our users for any purpose unrelated to the services that they provide for us or our users.
-
-To make our Services more valuable to our visitors, we may offer some features of our Services in conjunction with other unaffiliated companies ("Provider Partners") that specialize in operating such features. For example, we may offer a car buying service, personalized finance and weather information services, social networking tools, sweepstakes offers or other promotions through cooperative arrangements with Provider Partners. We share with our Provider Partners such information, including Personal Information, as is useful or necessary for them to provide you with the feature that they offer through our cooperative arrangement with them. Some of these Provider Partners may also collect their own Personal Information in connection with providing the service. Their use of such information will be subject to the terms of their respective privacy policies, which you can find on their Web sites or obtain by contacting the Provider Partners directly. Please refer to "Who is the Party Collecting Your Personal Information?" for additional information.
-
-#### Other Disclosures
-
-Notwithstanding anything to the contrary stated in this policy or within our Services, we reserve the right to release Personal Information about our users when we deem such release to be appropriate to comply with law, respond to compulsory process or law enforcement requests, enforce our [Terms of Service](https://web.archive.org/terms-and-conditions/terms-of-use), or protect the rights, property or safety of our users, the public, KTVK, our affiliates, or any third party. Over time, we may reorganize or transfer various assets and lines of business. Notwithstanding anything to the contrary stated herein or within our Services, we reserve the right to disclose or transfer any information we collect to third parties in connection with any proposed or actual purchase, sale, lease, merger, foreclosure, liquidation, amalgamation or any other type of acquisition, disposal, transfer, conveyance or financing of all or any portion of KTVK or our affiliates.
-
-### What Other Parties Might Be Collecting Information When You Use Our Services?
-
-#### Third-Party Advertising, Data and Analytics Companies
-
-We work with third-party advertising companies and data providers to target and serve some of the advertisements you see on our Services and on other Web sites, to send e-mails on our behalf, and to provide related analytics, forecasting and optimization services. Most of the third-party advertising and data companies we work with, including DoubleClick and Google, are members of the Network Advertising Initiative ("NAI") and/or the Digital Advertising Alliance ("DAA"). To learn more about the information collection practices of NAI and DAA members and your opt-out choices, please visit the NAI's Web site [here](http://www.networkadvertising.org/choices/), or the DAA's Web site (and opt-out mechanism) at [http://www.aboutads.info](http://www.aboutads.info/). Some of the ads you see in our Services may contain cookies and Web beacons that are managed by other third parties (e.g., advertisers or their advertising agencies) that we do not control. If you have questions regarding the data collection practices of any of the advertisers that appear on our Services, we encourage you to contact the applicable advertiser or review its privacy policy, which should be posted on the advertiser's Web site.
-
-We also engage Omniture, a third party analytics company, to track and analyze usage and browsing patterns of our users to help us improve our Services. For information about Omniture's information collection practices and related opt-out choices, click [here](http://www.omniture.com/en/privacy/visualsciences/policy).  
-When you visit our mobile Web sites or use our mobile applications, third-party mobile advertising networks in which we participate may collect certain information, including your unique device ID and information about your wireless carrier, carrier user ID, the make, model and operating system of your device, cookies stored on your mobile browser, location information, and information about how you navigate within our Services. These networks may collect and track such information over time and combine it with other information collected when you access other mobile Web sites and applications that participate in the network to display advertising that is customized to your interests. Our mobile advertising network relationships are subject to change but include, as of the effective date of this policy, AdMob, iAd, Jumptap, and Millennial. To review their respective privacy policies and learn about any opt-out choices they offer, please visit the following webpages:  
-AdMob - <http://www.admob.com/home/privacy>  
-iAd - <http://support.apple.com/kb/HT4228>  
-Jumptap - <http://www.jumptap.com/privacy-policy/>  
-Millennial - <http://lp.mydas.mobi/rich/foundation/opt-out.php>
-
-#### News Registry
-
-We participate in the News Registry, a service operated by the NewsRight, LLC (NR). The News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued use of the Services means you accept the privacy policy of the NR News Registry. Please refer to the NR News Registry privacy policy at <http://www.newsregistry.com/privacycenter/servicepolicy.aspx> for further information.
-
-#### Blogs, Discussion Forums and Community or Social Networking Areas
-
-This Privacy Policy only addresses the use and transfer of information that we collect from you. To the extent that you disclose any information to other parties, whether through interactive features, third-party services or promotions offered on or through the Services, or through other Web sites throughout the Internet, different policies will apply and KTVK will not be responsible for the use or dissemination of such information. Our Services may offer social network tools, message boards, chat rooms or other forums or interactive areas you can use to communicate with other users or to submit and post your own content (such as stories, blogs, photos and videos, and the like). If you disclose Personal Information in one of these forums, this information can be viewed, collected, and used by others. KTVK is not responsible for the use of information you disclose in these forums or areas. We encourage you to consult the forum rules and the [Terms of Service](https://web.archive.org/terms-and-conditions/terms-of-use) regarding the policies and procedures that apply to that portion of our Services.
-
-#### Co-branded Sites and Services
-
-Our Services may operate as part of a larger group of sites and applications and may carry co-branded pages. In addition, other third-party sites or applications may use KTVK's name, or the name of one of KTVK's affiliated companies or Services. Since KTVK does not control the privacy policies of third parties, you are subject to the privacy policies, if any, of such third parties, and KTVK shall not be responsible for the use or dissemination of your Personal Information by such parties. Therefore, we encourage you to ask questions and review those parties' privacy policies before you disclose your Personal Information to others.
-
-### How Can You Opt-Out of Sharing Your Personal Information or Receiving Our Promotional Communications?
-
-You may choose to "opt-out" of sharing Personal Information in several ways. When choosing to use certain features of the Services, you can choose whether to share optional Personal Information in connection with the feature. If you receive e-mail, phone or mail communications from one of our Web sites that you prefer not to receive, you may opt-out from receiving these communications by modifying the contact options in your registration profile. You may change your contact options at any time by following the process described in "How Can You Update Your Personal or Registration Information?," below.  
-In addition to opting-out by managing your contact preference options, you may opt-out from receiving commercial e-mail communications from any KTVK Service that contacts you by using the opt-out link or instructions included in each commercial e-mail message you receive, or by sending your request to [Customer Service](https://web.archive.org/on-tv/contact), or by postal mail to:
-
-KTVK  
-Attn: Opt-Out Request  
-5555 N. 7th Ave  
-Phoenix, AZ 85013
-
-Please note that changing the contact preference options described above will not affect your receipt of any wireless text message communications you may have registered to receive. To unsubscribe from wireless text communications, please send your "opt-out" request, including the wireless number or wireless address you wish to remove from our list to [Customer Service](https://web.archive.org/on-tv/contact), or by sending postal mail to:
-
-KTVK  
-Attn: Opt-Out Request  
-5555 N. 7th Ave  
-Phoenix, AZ 85013
-
-You may "opt-out" altogether from providing Personal Information to us by not registering on the Services, or not registering for any KTVK-sponsored promotion, and thereby not providing Personal Information. You may also choose at a later date to have your name removed from our database by deleting your registration profile. To do so, please follow the process described in "How Can You Update Your Personal or Registration Information?."
-
-### How Can You Update Your Personal Information or Registration Information?
-
-You may access all of the Web site registration information that we collect from you online and maintain by using the procedure described below. We use this procedure to better safeguard your Personal Information. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access to your profile or making changes.  
-You may also at any time choose to change or delete your profile from our database using this procedure. You should know that if you choose to delete your profile, certain aspects of our Services may no longer be available to you.
-
-  1. If you are not already logged in to the Web site, click on "Log-in" on the main navigation bar.
-  2. Click on the 'My Profile' link.
-  3. To change personal information click on the 'Personal Information' text. 
-  4. Update information and click submit. 
-  5. To delete your profile, submit a request to [Customer Service](https://web.archive.org/on-tv/contact).
-
-
-
-### What Safeguards Do We Put in Place to Protect Your Personal Information?
-
-KTVK maintains reasonable safeguards to protect the security and integrity of the Personal Information that you provide to us. However, no security system is impenetrable and we cannot guarantee the security of our database. Nor can we guarantee that the information you supply won't be intercepted while being transmitted to us over the Internet.  
-For the purposes described in this policy, Personal Information may be transferred to, processed, stored and accessed by us, our affiliates and our service providers in the United States and in other jurisdictions where we or they operate. Courts and other authorities in these jurisdictions may, in certain circumstances, be entitled to access your Personal Information. By using the Services, you consent to this transfer, processing, storage and access of your Personal Information in and/or outside of the jurisdiction in which you reside. 
-
-### What Should You Know About Third-Party Sites and Advertising?
-
-Our Services include links to many other Web sites, and provide access to products and services offered by third parties whose privacy policies we don't control. When you access another site, purchase products or services, or conduct other transactions through links on our Services, use of any information you provide will be governed by the privacy policy of the operator of the site you're visiting or of the provider of such products or services. KTVK assumes no responsibility or liabilities whatsoever for the content or privacy practices of the operators of any such linked sites or of any link or linking program. KTVK does not necessarily endorse companies (or related products or services) promoted on the pages to which our Services are linked. If you decide to access any of the third-party sites linked to the Services, you do so entirely at your own risk.
-
-### Do We Knowingly Collect Personal Information of Children Under 13?
-
-Children should always get permission from their parents before sending any information about themselves (such as their names, e-mail addresses, and phone numbers) over the Internet, to us or to anyone else. We won't knowingly allow anyone under 13 to register with our Services or to provide any other Personal Information via the Services. If you're under 13, please do not provide us with any Personal Information about yourself (such as your name, your e-mail address or your phone number).
-
-### Your California Privacy Rights
-
-California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an e-mail to [Customer Service](https://web.archive.org/on-tv/contact).
-
-### How Do You Contact Us?
-
-If you have any questions or comments about our Privacy Policy, please contact [Customer Service](https://web.archive.org/on-tv/contact). 
-
-### What Should You Know About "Phishing?"
-
-What we do NOT do: a warning about "phishing."  
-We do not and will not, at any time, request your credit card information, login name, or password, in an unsecured or unsolicited e-mail or telephone call. Identity theft and the practice currently known as "phishing" are of great concern to us. Safeguarding information to help protect you from identity theft is our priority. For more information about phishing, you may want to visit the Federal Trade Commission at <http://www.ftc.gov/>.
-
-### When is this Privacy Policy Effective? How Do We Post Changes to the Privacy Policy?
-
-This Privacy Policy is effective as of December 23, 2013. KTVK reserves the right to modify the terms of this policy at any time and in our sole discretion, by posting a change notice to this page and/or on the Service. Your continued viewing, browsing, use or access of a KTVK Service following our posting of a change notice will constitute your binding acceptance of those changes.
+_Effective date: July 1, 2004, Updated: December 23, 2013_
