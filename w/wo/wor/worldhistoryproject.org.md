@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldhistoryproject.org privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229041301id_/http%3A//worldhistoryproject.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldhistoryproject.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607203024id_/http%3A//worldhistoryproject.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | World History Project
 
@@ -75,4 +75,4 @@ If you have any questions about this Privacy Policy, the practices of the Site, 
 World History Project  
 Email: support@worldhistoryproject.org 
 
-©2014 McHaBu The History of Us® and The History of the World® are registred trademarks
+©2015 McHaBu The History of Us® and The History of the World® are registred trademarks
