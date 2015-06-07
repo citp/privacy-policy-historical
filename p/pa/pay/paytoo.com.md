@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the paytoo.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120142401id_/http%3A//paytoo.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paytoo.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608012626id_/https%3A//www.paytoo.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Paytoo - Privacy Policy
+
+We have detected that you are using a proxy. For security reasons you will not be able to log-in or sign-up. 
 
 Thank you for visiting the PayToo Website. It is important to read this privacy policy before submitting any personal data or becoming a User. By using this Website or our services you agree to these terms.  
 PayToo is committed to respecting and protecting your privacy. We value your trust and want you to understand how we protect, collect, use and disclose the personal information you share with us.
@@ -49,4 +51,4 @@ Email: [help@paytoo.com](mailto:help@paytoo.com)
 
 This Privacy Policy was last updated the September 12, 2013.
 
-Copyrighted work of PAYTOO CORP. © 2005-2013 all rights reserved.
+Copyrighted work of PAYTOO CORP. © 1999-2015 all rights reserved.
