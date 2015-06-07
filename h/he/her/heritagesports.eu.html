@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the heritagesports.eu privacy policy that was archived on 2014-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141123090524id_/http%3A//www.heritagesports.eu/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the heritagesports.eu privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607174238id_/http%3A//www.heritagesports.eu/legal/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" xmlns:og="http://opengraphprotocol.org/schema/" itemscope="" itemtype="http://schema.org/Review"><head>
   <base href="http://www.heritagesports.eu/legal/privacy-policy">
@@ -111,19 +111,70 @@ var modal_class = 'modal_link'; var modal_defaults = { opacity: '0.8',maxWidth: 
 
 <body id="default">
 
-<input type="hidden" name="userIp" value="174.129.228.67">
+<input type="hidden" name="userIp" id="userIp" value="156.154.161.211">
+<input type="hidden" name="userIpType" value="192.168.100.42">
 
 <script>
 
 jQuery(function() {
 
-    var ip;
+    var ip,
+        conected = false;
 
-        ip = jQuery('input[name="userIp"]').val();
+    if (window.XDomainRequest) {
+        var xmlhttp = new XDomainRequest();
+        if (xmlhttp) {
 
-    if(location.pathname == '/' || location.pathname == '' || location.pathname == '/sign-up' || location.pathname == '/es/abrir-cuenta') {
-    	getCountry(ip);
+            xmlhttp.open("get","http://qa-fe-us.heritagesports.eu/getIP.php", true);
+            xmlhttp.send();
+
+            conected = true;
+        }
     }
+	
+    if(!conected) {
+
+        if (window.XMLHttpRequest) 
+            xmlhttp = new XMLHttpRequest();
+        else
+            xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+      
+    xmlhttp.open("GET"," http://qa-fe-us.heritagesports.eu/getIP.php ",false);
+    xmlhttp.send();
+    }
+      
+  
+    hostipInfo = xmlhttp.responseText;
+  
+    if (hostipInfo.length > 0) {
+
+        ipAddress = hostipInfo;
+        
+        jQuery('#userIp').val(ipAddress);
+
+        if(localStorage.Country) {
+
+            if(localStorage.Country == 'CANADA') {
+                window.location = "http://ca.heritagesports.eu/";
+            }
+        }
+        else {
+
+            //ip = jQuery('input[name="userIp"]').val();
+
+            localStorage.ClientIP = ipAddress;
+
+            getCountry(ipAddress);
+        }
+
+    }
+
+   // myIP();
+
+
+    //if(location.pathname == '/' || location.pathname == '' || location.pathname == '/sign-up' || location.pathname == '/es/abrir-cuenta') {
+    //	getCountry(ip);
+    //}
 
 
 });
@@ -131,12 +182,12 @@ jQuery(function() {
 
 function myIP() {
 
-    if(localStorage.Country) {
-        if(localStorage.Country == 'CANADA') {
-            window.location = "http://ca.heritagesports.eu/";
-        }
-    }
-    else {
+    //if(localStorage.Country) {
+    //    if(localStorage.Country == 'CANADA') {
+    //        window.location = "http://ca.heritagesports.eu/";
+    //    }
+    //}
+    //else {
         if (window.XMLHttpRequest) xmlhttp = new XMLHttpRequest();
         else xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
       
@@ -149,10 +200,11 @@ function myIP() {
             ipAddress = hostipInfo[i].split(":");
             if ( ipAddress[0].indexOf('IP') != -1 ) {
                 localStorage.ClientIP = ipAddress[1].trim();
+                jQuery('input[name="userIp"]').val(ipAddress[1].trim());
                 getCountry(ipAddress[1].trim());
             }
         }
-    }
+    //}
 
     return false;
 }
@@ -180,7 +232,7 @@ function getCountry3(ip) {
 
 
 function getip(json){
-   //getCountry(json.ip); // backup
+   getCountry(json.ip); // backup
 }
 
 function getCountry(ip) {
@@ -219,35 +271,34 @@ function getCountry(ip) {
 </a>
 </div>
 		<div class="moduletable nav">
-					<ul class="nav menu">
+						<ul class="nav menu">
 <li class="item-165"><a href="/">Home</a></li><li class="item-108"><a href="/sports">Sports</a></li><li class="item-109"><a href="/casino">Casino</a></li><li class="item-111"><a href="/poker">Poker</a></li><li class="item-110"><a href="/racebook">Racebook</a></li><li class="item-116"><a class="hide openAccount" href="/signup-article">Open an Account</a></li><li class="item-112"><a class="liveBet" href="/live-betting">Live Betting</a></li><li class="item-113 parent"><a href="/promotions">Promotions</a></li><li class="item-114"><a href="/funding-options">Funding Options</a></li><li class="item-115"><a class="hide" href="/general-rules">General Rules</a></li><li class="item-211 parent"><a class="hide" href="/landing">landing</a></li></ul>
 		</div>
 			<div class="moduletable login">
-					<!-- BEGIN: Custom advanced (www.pluginaria.com) -->
+						<!-- BEGIN: Custom advanced (www.pluginaria.com) -->
 
 <form class="clearfix" action="http://membersb.heritagesports.eu/loginverify.asp" method="post" name="loginform"><input id="log" class="field" type="text" maxlength="10" placeholder="USERNAME" size="15" name="customerID"> <input id="pwd" class="field" type="password" maxlength="10" placeholder="PASSWORD" size="15" name="Password">
 <div class="btn"><input class="header_login" type="submit" value="Login" name="submit"></div>
 <div id="open-forgot-links"><a class="lopen-account" href="/sign-up">Open an account</a> <a class="lost-pwd" href="/connect">Forgot your password?</a></div>
 <input id="Site" class="inputfield" type="hidden" value="Heritage" name="Site"> <input id="DomainURL" class="inputfield" type="hidden" value="heritagesports.eu" name="DomainURL">
-<div id="loginError" class="login_error">Attention: Invalid username or password.</div>
-</form><!-- END: Custom advanced (www.pluginaria.com) -->
-		</div>
+<div id="loginError" class="login_error">Attention: Invalid username or password.</div><!-- END: Custom advanced (www.pluginaria.com) -->
+		</form></div>
 			<div class="moduletable">
-					<div class="mod-languages">
+						<div class="mod-languages">
 
-	<form name="lang" method="post" action="http://www.heritagesports.eu/legal/privacy-policy">
+	
 	<select class="inputbox" onchange="document.location.replace(this.value);">
 			<option dir="ltr" value="/es/normas-privacidad">
 		Spanish</option>
 			<option dir="ltr" value="http://www.heritagesports.eu/legal/privacy-policy" selected="selected">
 		English</option>
 		</select>
-	</form>
+	
 
 </div>
 		</div>
 			<div class="moduletable_mobile">
-					<div class="mod-languages_mobile">
+						<div class="mod-languages_mobile">
 
 	<ul class="lang-inline">
 						<li class="" dir="ltr">
@@ -276,10 +327,11 @@ function getCountry(ip) {
 
 <div class="item-page" itemscope="" itemtype="http://schema.org/Article">
 	<meta itemprop="inLanguage" content="en-GB">
-				<div class="page-header">
+	
+		
+			<div class="page-header">
 		<h2 itemprop="name">
-												<a href="/privacy-policy" itemprop="url"> Privacy Policy</a>
-									</h2>
+							Privacy Policy					</h2>
 							</div>
 					
 	
@@ -314,11 +366,12 @@ function getCountry(ip) {
 </table> 	</div>
 
 	
-						 </div>
+						</div>
+
 
 
 		<div class="moduletable">
-					
+						
 
 <div class="custom">
 	<div id="perks_leftmenu">
@@ -347,8 +400,8 @@ function getCountry(ip) {
 
 <div class="footer center">
 		<div class="moduletable">
-					<ul class="nav menu">
-<li class="item-123 deeper parent"><a href="/">Heritage Sports</a><ul class="nav-child unstyled small"><li class="item-124"><a href="/sports">Sports</a></li><li class="item-125"><a href="/casino">Casino</a></li><li class="item-126"><a href="/poker">Poker</a></li><li class="item-127"><a href="/racebook">Racebook</a></li><li class="item-128"><a href="/live-betting">Live Betting</a></li></ul></li><li class="item-130 deeper parent"><a href="/promotions">Promotions</a><ul class="nav-child unstyled small"><li class="item-137"><a href="/landing/reduce-juice">Reduced Juice - Cash Back</a></li><li class="item-136"><a href="/landing/build-your-own-teasers">BUILD YOUR OWN TEASER</a></li><li class="item-304"><a href="/landing/football-season-bonus">Football Season Bonus</a></li><li class="item-487"><a href="/landing/turkey-shoot">Turkey Shoot</a></li><li class="item-488"><a href="/landing/thanksgiving-poker">Thanksgiving Poker</a></li><li class="item-489"><a href="/landing/black-friday">Black Friday</a></li></ul></li><li class="item-129 active divider deeper parent"><span class="separator">
+						<ul class="nav menu">
+<li class="item-123 deeper parent"><a href="/">Heritage Sports</a><ul class="nav-child unstyled small"><li class="item-124"><a href="/sports">Sports</a></li><li class="item-125"><a href="/casino">Casino</a></li><li class="item-126"><a href="/poker">Poker</a></li><li class="item-127"><a href="/racebook">Racebook</a></li><li class="item-128"><a href="/live-betting">Live Betting</a></li></ul></li><li class="item-130 deeper parent"><a href="/promotions">Promotions</a><ul class="nav-child unstyled small"><li class="item-137"><a href="/landing/reduce-juice">Reduced Juice - Cash Back</a></li><li class="item-136"><a href="/landing/build-your-own-teasers">BUILD YOUR OWN TEASER</a></li><li class="item-304"><a href="/landing/player-profiles">Player Profiles</a></li><li class="item-488"><a href="/landing/3way-lines">3 Way Baseball Lines</a></li><li class="item-489"><a href="/landing/belmont-stakes-2015">Belmont Stakes</a></li></ul></li><li class="item-129 active divider deeper parent"><span class="separator">
 	Legal</span>
 <ul class="nav-child unstyled small"><li class="item-140"><a href="/legal/general-rules" target="_blank">General Rules</a></li><li class="item-141 current active"><a href="/legal/privacy-policy" target="_blank">Privacy Policy</a></li></ul></li><li class="item-117 deeper parent"><a class="hide" href="/connect">Connect with Us</a><ul class="nav-child unstyled small"><li class="item-144"><a class=" call" href="tel:1-800-800-7777">Call 1-800-800-7777</a></li><li class="item-145"><a class="chat" href="/connect"><span id="lpButDivID-1400885773198"></span>
 <script type="text/javascript" charset="UTF-8" src="https://server.iad.liveperson.net/hc/36477002/?cmd=mTagRepstate&amp;site=36477002&amp;buttonID=22&amp;divID=lpButDivID-1400885773198&amp;bt=3&amp;c=1"></script></a></li><li class="item-207"><a class="email" href="mailto:customerservice@heritagesports.com">Email</a></li></ul></li><li class="item-143 divider deeper parent"><span class="separator">
@@ -370,14 +423,11 @@ GO TO MOBILE SITE
 </center>
   
 		<div class="moduletable">
-					
+						
 
 <div class="custom">
-	<b>© 2014 Heritage Sports. All rights reserved <span>18+</span></b><br>
-The Heritage Brand and Logo are trademarks of Heritage Sports<br>
-Heritage Sports is a premier online sportsbook and gambling destination. Heritage Sports is a fully licensed sportsbook providing a reliable<br>
-and secure sports betting service to millions of satisfied online betting customers world wide since 1994. Heritage Sports offers<br>
-football betting, live and NFL odds all season long.</div>
+	<b style="margin-right:10px;">© 2015 Heritage Sports </b>Powered by<a href="http://linepros.com" target="blank"><img src="/images/linepros-logo.png"></a><br> The Heritage Brand and Logo are trademarks of Heritage Sports<br> Heritage Sports is a premier online sportsbook and gambling destination. Heritage Sports is a fully licensed sportsbook providing a reliable<br> and secure sports betting service to millions of satisfied online betting customers world wide since 1994. Heritage Sports offers<br> football betting, live and NFL odds all season long.
+<br>All rights reserved <span>18+.</span></div>
 		</div>
 	
 </div>
