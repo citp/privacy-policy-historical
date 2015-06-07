@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twtpoll.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020224208id_/http%3A//twtpoll.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twtpoll.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607075215id_/http%3A//twtpoll.com/home/privacy) for the most accurate reproduction.*
 
 # Twtpoll | Privacy Policy
 
