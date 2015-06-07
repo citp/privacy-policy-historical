@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadforensics.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113015141id_/http%3A//www.leadforensics.com/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadforensics.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144957id_/http%3A//www.leadforensics.com/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Leads Forensics
 
@@ -36,15 +36,9 @@ We require this information to understand your needs and provide you with a bett
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-**How we use cookies**
+**How we use IP Tracking**
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
-
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
-
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
-
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+We use IP Address tracking technology to identify businesses visiting our site and the pages that are being used. This helps us analyse data about web page traffic in order to develop and improve our website for business visitors.
 
 **Links to other websites**
 
