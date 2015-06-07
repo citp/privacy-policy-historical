@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beachaudio.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230174749id_/http%3A//www.beachaudio.com/info.php%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beachaudio.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607153345id_/http%3A//www.beachaudio.com/info.php%23Privacy) for the most accurate reproduction.*
 
 # Beach Audio - About Us | Customer Help Center : Consumer Electronics, Video Games, Cables, Appliances, and much more!
 
@@ -17,7 +17,7 @@ All items we sell are BRAND NEW and FACTORY SEALED. We do not sell any refurbish
 
 We are quite proud of the ratings and testimonials we receive from independent sources. 
 
-Please visit our [Ratings & Testimonials](https://web.archive.org/web/20141230174749id_/http%3A//www.beachaudio.com/testimonials.php) page to see for yourself!
+Please visit our [Ratings & Testimonials](https://web.archive.org/web/20150607153345id_/http%3A//www.beachaudio.com/testimonials.php) page to see for yourself!
 
 ###  Sales and Support 
 
@@ -29,21 +29,11 @@ We'll be glad to help you with all of your questions and concerns.
 
 ###  Shipping
 
-Continental United States
+We currently ship to the continental United States, Alaska, Hawaii and Puerto Rico.  We're sorry, but we cannot currently ship to any international country (including Canada) or other United States territory such as Guam and the Virgin Islands.  We do not ship to any address that UPS or Fedex cannot deliver to.  This includes APO and PO Box addresses.
 
-We currently ship to the continental United States, Alaska, Hawaii and Puerto Rico.  For any other locations please see 'International Shipping' below.  We do not ship to any address that UPS or Fedex cannot deliver to.  This includes APO and PO Box addresses.
-
-The flat rate shipping fee applies only to items that can be shipped via UPS Ground. Items that cannot be shipped UPS Ground include all televisions 40" or larger and any delivery outside of the continental United States.
+The flat rate shipping fee applies only to items that can be shipped via UPS Ground. Items that cannot be shipped UPS Ground include all televisions 37" or larger and any delivery outside of the continental United States.
 
 US customers have the option of choosing UPS Next Day Air, 2nd Day Air or 3 Day Select service, for an additional fee.  Customers in HI and AK must choose either UPS 2nd Day Air or Next Day Air service since UPS Ground service is not available to these areas.  
-
-International Shipping
-
-International orders are an important part of how we serve our customers around the world. 
-
-To place an order for international shipment, browse our web site and add items to your cart as usual. On the cart page, under "Shipping Options", there is a button that reads "International Checkout". After you have added all the items you wish to purchase to your cart, click that button. 
-
-The contents of your cart will automatically be transferred to our partner '[bongous.com](https://bongous.com/)' where you will complete the order process.The friendly and professional people at Bongo International will process your order as well as handle all inquiries regarding your international order.
 
 ###  Pricing/Description Mistakes
 
