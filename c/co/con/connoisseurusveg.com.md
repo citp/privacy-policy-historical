@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connoisseurusveg.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120191538id_/http%3A//www.connoisseurusveg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connoisseurusveg.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144251id_/http%3A//www.connoisseurusveg.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Connoisseurus Veg
 
@@ -40,7 +40,8 @@ The Author may disclose your personal information to third parties insofar as re
 
 The Author agrees to take reasonable precautions to protect your personal information. However, you acknowledge that transmission of information over the internet is inherently insecure, and complete security can never be guaranteed.
 
-This Website uses third-party advertising companies to serve ads when you visit this Website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>.
+This Website uses third-party advertising companies to serve ads and/or collect anonymous information when you visit this Website. These companies may use aggregated information (such as click stream information, browser type, time and date subject of advertisements clicked or scrolled over, but not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>. To  
+opt-out of this type of advertising, please see: <http://www.aboutads.info/choices>.
 
 This Website includes links to third party websites. Any visit to any such third-party website is done at your own risk and you acknowledge that the Author has no control over the privacy practices and policies of such third party websites.
 
@@ -52,4 +53,4 @@ If a provision of this Privacy Policy is determined by any court or other compet
 
 This Privacy Policy shall be governed by and construed in accordance with the law of the state of Pennsylvania, United States of America. Any disputes arising hereunder shall be resolved by the courts located in the state of Pennsylvania.
 
-Last update August 14, 2014.
+Last update May 21, 2015.
