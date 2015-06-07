@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csn.edu privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924094237id_/http%3A//www.csn.edu/pages/731.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csn.edu privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607205417id_/http%3A//www.csn.edu/pages/731.asp) for the most accurate reproduction.*
 
 # CSN - Terms of Use & Privacy Policy
 
