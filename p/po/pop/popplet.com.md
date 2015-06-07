@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popplet.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219230834id_/http%3A//popplet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popplet.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185806id_/http%3A//popplet.com/privacy) for the most accurate reproduction.*
 
 # Popplet - Privacy Policy
 
