@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reviewgamezone.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201032042id_/http%3A//reviewgamezone.com/site/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewgamezone.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607203641id_/http%3A//reviewgamezone.com/site/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,3 +45,7 @@ We use third-party advertising companies to serve ads when you visit our website
 **Updates to this Policy**
 
 ReviewGameZone.com reserves the right to change or update this Privacy Policy at anytime, as long as proper notification, such as posting on this page showing a new updated date on the top.  At such a time, the new or updated Privacy Policy immediately goes into effect. If you do not agree to the terms of the new or updated Privacy Policy, you are not permitted to access any portion of this site at anytime. 
+
+ReviewGameZone.com is operated by Holocene Holdings LLC, a New York limited liability company.
+
+Any claim relating to ReviewGameZone.com shall be governed by the laws of the State of New York without regard to its conflict of law provisions.
