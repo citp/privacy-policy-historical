@@ -1,51 +1,121 @@
-> *The following text is extracted and transformed from the jobsearch.gov.au privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714220140id_/http%3A//jobsearch.gov.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsearch.gov.au privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074028id_/http%3A//jobsearch.gov.au/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Australian JobSearch
 
-Private browsing appears to be enabled. This application runs faster with private browsing mode turned off.
+It is important that you read this Privacy Notice, which may change from time to time, so that you understand how your personal information will be handled as a user of the Australian JobSearch website (JobSearch). This Privacy Notice informs you of the collection of your personal information by the Department of Employment (the department) in accordance with the department’s functions in connection with the delivery of employment services and ensuring compliance with participation and activity test requirements. It also informs you of how your personal information will be used and the circumstances in which it may be disclosed to another party.
 
-All personal information collected by the Department of Employment (the department) is protected by the Privacy Act 1988 (Cth) (the Privacy Act). The department’s contracted service providers (including subcontractors) are also required to comply with the Privacy Act.
+All personal information collected by the department is protected by the Privacy Act 1988 (Cth) (the Privacy Act). Employment services providers (the Providers) contracted to the department and the Providers’ subcontractors are required to comply with the Privacy Act. For information about the department’s personal information handling practices, please refer to the department’s [Complete Privacy Policy](http://www.employment.gov.au/privacy "External link. Opens in a new window."). This Privacy Notice contains three Parts as follows:
 
-Further information about the department’s personal information handling practices can be found in our complete [APP Privacy Policy](http://docs.employment.gov.au/node/33883 "External link. Opens in a new window.").
-
-**How the department collects and uses your personal information**  
-The department collects your personal information to assist you to find employment, and so that you can take full advantage of JobSearch services. The types of personal information collected by the department may include your name, date of birth, Job Seeker ID, Centrelink reference number, telephone number(s), facsimile number, email and personal website.
-
-**Personal information**  
-The department collects your personal information directly from you when you register or update your personal details on JobSearch. There may be circumstances where personal information comes from a third party, such as Centrelink, if you have agreed or would reasonably expect your personal information to be collected in this way.  
-When you register your personal information on JobSearch, you will be asked to select what personal information you want to be displayed on your resume.  
- 
-
-**Sensitive information**  
-Depending on the nature of the personal information that you provide in your resume, cover letter or application, the department may also collect “sensitive information” about you. This includes information about your race or ethnic origin, membership of a political, professional or trade association, or trade union, or criminal record. There are additional requirements that apply to the collection and use of sensitive information by the department, so you will be asked to confirm that you have read this privacy statement before you can proceed with uploading this information.  
-The department uses your personal information to:
-
-  * determine if you are eligible to take part in services provided by a Job Services Australia provider
-  * give you employment opportunities
-  * provide you with ready access to your job search related documents, and allow you to access your Application History and forward this information via email to a recipient of your choice. Please note, the Application History functionality will be available from 1 July 2014.
-  * make sure correct payments are made to Job Services Australia providers for services they provide
-  * evaluate and monitor outcomes, programmes and services delivered by Job Services Australia providers
-  * assist in resolving complaints made by you or your Job Services Australia provider
-  * include you in surveys conducted by the department and its contracted providers
-  * help in the administration of programmes
-  * help improve our service to job seekers.
+  * Part 1 applies to job seekers registered on JobSearch to find employment (Job Seekers);
+  * Part 2 applies to employers registered on JobSearch to advertise vacancies (Employers); and 
+  * Part 3 applies to both Job Seekers and Employers.
 
 
 
-By using JobSearch you consent to your personal information being used for the above purposes. If you do not provide all or some of the personal information required, you may not be able to access all JobSearch services.  
- 
+##  Part 1 – Job Seekers
 
-**Who has access to your personal information?**  
-The department may share your personal information with third parties to deliver its employment services and assist you to find employment.  
-By applying for a position advertised on JobSearch you are requesting and authorising that the department pass your personal information to the employer as a part of your application.  
-Your personal information may be disclosed by the department to:
+###  How does the department collect your personal information?
 
+Your personal information is collected from you when you register, provide or update your personal details on JobSearch. It may also be collected from a third party, including Centrelink, your Provider, or Employers whom you have contacted via JobSearch or whom you have submitted a job application to, if you have agreed or would reasonably expect your personal information to be collected in this way.
+
+###  What personal information is the department collecting?
+
+The types of personal information collected by the department may include your name, date of birth, Job Seeker ID, Centrelink reference number, telephone number, facsimile number, email address, information about your website, resumes, cover letters, jobs you have applied for and jobs you have been matched to on JobSearch.
+
+“Sensitive information” about you may also be collected, for example if you provide that information in your resumes, cover letters or job applications on JobSearch. Under the Privacy Act, “sensitive information” includes information about your health, criminal record, racial or ethnic origin, and membership of a trade union, or a political, professional or trade association.
+
+###  Why does the department collect your personal information?
+
+The department collects your personal information for the purposes of:
+
+  * assisting you in finding employment
+  * determining whether you are eligible to take part in services provided by a Provider
+  * ensuring you are paid correctly if you receive Government benefits
+  * assisting you in complying with participation and activity test requirements
+  * providing you with ready access to your job search related documents, and allow you to access your ‘My Job Search Effort’, and forwarding this information via email to a recipient of your choice. Please note that ‘My Job Search Effort’ functionality replaced ‘Application History’ from 6 December 2014
+  * ensuring correct payments are made to Providers for services they provide to you
+  * evaluating and monitoring outcomes, programmes and services delivered by Providers 
+  * including you in surveys conducted by the department and its Providers
+  * assisting in resolving complaints made by you or your Provider
+  * assisting in the administration of programmes
+  * assisting in providing and improving its services to both Job Seekers and Employers.
+
+
+
+By using JobSearch, you consent to your personal information being collected, used and disclosed to third parties for the above purposes.
+
+If the department did not collect your personal information, the department would not be able to provide you with some or all of JobSearch services and make correct payments to you. 
+
+###  Who has access to your personal information?
+
+For the purposes set out above, the department may disclose your personal information to:
+
+  * Employers
+  * Providers
   * the Department of Human Services
   * the Department of Social Services
-  * employment service providers - to assist them to provide employment services
+  * the Department of the Prime Minister and Cabinet
   * recruitment organisations (whether contracted to the Commonwealth or not)
-  * Serco Global Services (under contract to the department) – limited information to enable Serco Global Services to assist job seekers
-  * employers.
+  * Serco Global Services.
+
+
+
+In limited circumstances, the department may be required to disclose your personal information to third parties, including where:
+
+  * the department has reasonable grounds to believe that the disclosure is necessary to prevent or lessen a serious and imminent threat to your life or that of another person
+  * the disclosure is required or authorised by, or under law
+  * the disclosure is for the enforcement of criminal law or of a law imposing a fine, or for the protection of the public revenue
+
+
+
+###  Overseas disclosure of your personal information
+
+It is not intended that your personal information will be disclosed to any overseas recipients. However, you should be aware that Employers’ organisation may be a registered legal entity outside Australia. 
+
+##  Part 2 – Employers
+
+###  How does the department collect your personal information?
+
+Your personal information is collected from you when you register, provide or update your personal details on JobSearch. It may also be collected from a third party, such as a Provider, if you have agreed or would reasonably expect your personal information to be collected in this way. Please note, any Employer may agree to allow any Provider to advertise Vacancies on the Employer’s behalf. For the purpose of this Privacy Notice, ‘Vacancy’ means a legitimate job being advertised or offered which is currently available and includes business opportunities.
+
+###  What personal information is the department collecting?
+
+The types of personal information collected by the department may include your name, telephone number, facsimile number, email address, information about your website, details of Vacancies and details of referrals made by Providers to your Vacancies.
+
+“Sensitive information” about you may also be collected, for example if you provide that information on JobSearch. Under the Privacy Act, “sensitive information” includes information about your health, criminal record, racial or ethnic origin, and membership of a trade union, or a political, professional or trade association.
+
+###  Why does the department collect your personal information?
+
+The department collects your personal information for the purposes of:
+
+  * allowing Job Seekers to apply to your Vacancies
+  * allowing you to use JobSearch to manage your Vacancies and Find Staff 
+  * providing you with ready access to your Vacancies
+  * allowing the department to determine Job Seekers’ compliance with participation and activity test requirements
+  * ensuring correct payments are made to Providers for services they provide to Job Seekers
+  * evaluating and monitoring outcomes, programmes and services delivered by Providers
+  * including you in surveys conducted by the department and its Providers 
+  * assisting in resolving complaints made by you, Job Seekers or Providers
+  * assisting in the administration of programmes
+  * assisting in providing and improving its services to both Job Seekers and Employers.
+
+
+
+By using JobSearch, you consent to your personal information being collected, used and disclosed for the above purposes.
+
+If the department did not collect your personal information, the department would not be able to provide you with some or all of JobSearch services and make correct payments to Job Seekers .
+
+###  Who has access to your personal information?
+
+For the purposes set out above, the department may disclose your personal information to:
+
+  * Job Seekers 
+  * Providers
+  * the Department of Human Services
+  * the Department of Social Services
+  * the Department of the Prime Minister and Cabinet
+  * recruitment organisations (whether contracted to the Commonwealth or not)
+  * Serco Global Services.
 
 
 
@@ -57,23 +127,34 @@ In limited circumstances, the department may be required to disclose your person
 
 
 
-**Amending your personal information**  
-Registered JobSearch users can amend their personal information where it is incorrect by accessing their account details on the JobSearch website.
+###  Overseas disclosure of your personal information
 
-You may also seek access to, or correction of, your personal information stored in relation to the JobSearch website and application. Further information on seeking access to, or correction of, your personal information is contained in the department’s [APP Privacy Policy](http://docs.employment.gov.au/node/33883 "External link. Opens in a new window.").
+It is not intended that your personal information will be disclosed to any overseas recipients. However, you should be aware that a person residing outside Australia may register on JobSearch to access details of Vacancies. 
 
-**Email communications**  
-The department will only record your email address if you send us a message or if you are required to enter an email address to enable you to use the services provided by JobSearch. It will only be used for the purpose for which you have provided it and will not be added to a mailing list.  
-The JobSearch website allows registered JobSearch users to refer job vacancies to another person by email. You may have received an email as a result of a registered JobSearch user electing to refer this job vacancy to you, and entering your personal information (name and email address) into a job vacancy referral form on the JobSearch website.
+##  Part 3 – General Information
 
-In these circumstances, the department will only use your personal information for the purpose of sending you that email.
+###  Amending your personal information
 
-**How to contact us**  
-If you have any enquiries or wish to provide feedback about the JobSearch website or JobSearch job vacancy referral emails, please contact [AJSfeedback@employment.gov.au](mailto:AJSfeedback@employment.gov.au).
+Job Seekers and Employers can amend their personal information on JobSearch if it is incorrect by accessing their account details on JobSearch.
 
-The department’s [APP Privacy Policy](http://docs.employment.gov.au/node/33883 "External link. Opens in a new window.") provides further information about how to:
+You may also seek access to, or correction of, your personal information stored JobSearch. Further information on seeking access to, or correction of, your personal information is contained in the department’s [Complete Privacy Policy](http://www.employment.gov.au/privacy "External link. Opens in a new window.").
+
+###  Email communications
+
+If you have provided your email address on JobSearch, or if you have communicated with the department by email, your email address will not be added to a mailing list.
+
+However, you should be aware that JobSearch allows registered JobSearch users to refer Vacancies to another person by email. Therefore, if a registered JobSearch user elects to refer a Vacancy to you by entering your personal information (such as your name and email address) into a job vacancy referral form on JobSearch, you will receive that referral. In these circumstances, the department uses your personal information for the purpose of sending you that referral.
+
+###  How to contact us
+
+If you have any enquiries or wish to provide feedback about JobSearch or JobSearch job vacancy referral emails, please contact [AJSfeedback@cc.employment.gov.au](mailto:AJSfeedback@cc.employment.gov.au).
+
+The department’s [Complete Privacy Policy](http://www.employment.gov.au/privacy "External link. Opens in a new window.") provides further information about how to:
 
   * query the collection, holding, use and disclosure of your personal information by the department
   * make a privacy complaint
+
+
+  *  
 
 
