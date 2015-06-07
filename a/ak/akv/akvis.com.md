@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akvis.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626002147id_/http%3A//akvis.com/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akvis.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144411id_/http%3A//akvis.com/en/privacy.php) for the most accurate reproduction.*
 
 # Image Editing Software By AKVIS: Privacy Policy
 
@@ -8,7 +8,7 @@
 
 PLEASE READ THIS DOCUMENT CAREFULLY. IT CONTAINS IMPORTANT INFORMATION THAT YOU SHOULD KNOW BEFORE CONTINUING TO USE OUR SERVICE. BY CONTINUING TO USE AKVIS WEBSITE AND SERVICES YOU WILL BE DEEMED TO HAVE ACCEPTED THIS AKVIS’ PRIVACY POLICY. Your use of the AKVIS Website and any services and software provided therein, including any dispute concerning privacy, is subject to this Privacy Policy. By using the AKVIS Website, you are accepting the practices set out in this Privacy Policy. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date below to determine if the policy has been modified since you last reviewed it. Your continued use of any portion of the AKVIS’ Website following posting of the updated Privacy Policy will constitute your acceptance of the changes. 
 
-This privacy statement was last updated on August 1, 2010. AKVIS Lab LLC (“AKVIS”) has created this privacy statement in order to disclose its information gathering and dissemination practices for this internet Websites, [www.akvis.com](http://akvis.com/), hosted in the United States (the “Website”).
+This privacy statement was last updated on August 1, 2010. AKVIS Lab LLC (“AKVIS”) has created this privacy statement in order to disclose its information gathering and dissemination practices for this internet Websites, [akvis.com](https://akvis.com/en/index.php), hosted in the United States (the “Website”).
 
 Upon reading this privacy statement, you will be informed regarding the following: 
 
