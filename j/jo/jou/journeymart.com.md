@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journeymart.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229160033id_/http%3A//www.journeymart.com/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journeymart.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607040851id_/http%3A//www.journeymart.com/info/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy :: JourneyMart.com
 
