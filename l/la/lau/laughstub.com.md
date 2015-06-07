@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laughstub.com privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112085915id_/http%3A//www.laughstub.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laughstub.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608011305id_/http%3A//www.laughstub.com/privacy.cfm) for the most accurate reproduction.*
 
 # LaughStub
 
@@ -12,7 +12,7 @@ Welcome to LaughStub's Privacy Policy. Our Privacy Policy is designed to help yo
 
 Please read this Policy carefully. We will not share your personal information other than as described below. LaughStub reserves the right to change, modify, add, or remove provisions of its Policy, and any changes to the Policy will take effect when the revised Privacy Policy is posted to the Website, so please be sure to check our Website often. By using or accessing LaughStub, you are accepting the practices described in this Policy without limitation, qualification, or change and do so at your own risk. If at any time you do not accept all the terms and conditions contained within this Policy, do not access LaughStub's Website or use any of the products or services LaughStub provides.
 
-If you have any questions, please click [here](http://www.ticketmob.com/contact.cfm) for information on how to contact us.
+If you have any questions, please click [here](http://http//www.crowdtorch.com/contact-us.shtml) for information on how to contact us.
 
 ## THE INFORMATION WE COLLECT
 
@@ -127,7 +127,7 @@ The Children's Online Privacy Protection Act took effect on April 21, 2000, and 
 
 ## CONTACTING LAUGHSTUB REGARDING THIS WEBSITE
 
-If you have any questions concerning this Policy, you may send them by email to privacy@[ticketbuyersupport@crowdtorch.com](mailto:ticketbuyersupport@crowdtorch.com). Please note that email communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your email correspondence with us. You must send any official correspondence via postal mail to: **TicketMob LLC, 11833 Mississippi Ave, Suite 201, Los Angeles, CA 90025. Attention: General Counsel**
+If you have any questions concerning this Policy, you may send them by email to privacy@[ticketbuyersupport@crowdtorch.com](mailto:ticketbuyersupport@crowdtorch.com). Please note that email communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your email correspondence with us. You must send any official correspondence via postal mail to: **CrowdTorch LLC, 11833 Mississippi Ave, Suite 201, Los Angeles, CA 90025. Attention: General Counsel**
 
 ## USE OF THIS WEBSITE OUTSIDE THE UNITED STATES
 
