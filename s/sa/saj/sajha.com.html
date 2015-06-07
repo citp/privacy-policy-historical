@@ -1,30 +1,22 @@
-<!--The following is the downloaded HTML source of the sajha.com privacy policy that was archived on 2014-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141209114341id_/http%3A//sajha.com/sajha/html/index.cfm%3Fprivacy%3D1) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sajha.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607074238id_/http%3A//sajha.com/sajha/html/index.cfm%3Fprivacy%3D1) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:fb="http://ogp.me/ns/fb#"><head><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=162461387091"></script><script type="text/javascript">_cf_loadingtexthtml="<img alt=' ' src='/CFIDE/scripts/ajax/resources/cf/images/loading.gif'/>";
 _cf_contextpath="";
 _cf_ajaxscriptsrc="/CFIDE/scripts/ajax";
 _cf_jsonprefix='//';
-_cf_clientid='43EBF1F6EE0988C69A97FFB468155D30';</script><script type="text/javascript" src="/CFIDE/scripts/ajax/messages/cfmessage.js"></script>
+_cf_clientid='50980B343DE46BCDD178594A3B2229E5';</script><script type="text/javascript" src="/CFIDE/scripts/ajax/messages/cfmessage.js"></script>
 <script type="text/javascript" src="/CFIDE/scripts/ajax/package/cfajax.js"></script>
-<script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
-<script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
-<script type="text/javascript" src="/CFIDE/scripts/cfformhistory.js"></script>
-<script type="text/javascript" src="/CFIDE/scripts/ajax/yui/yahoo-dom-event/yahoo-dom-event.js"></script>
-<script type="text/javascript" src="/CFIDE/scripts/ajax/yui/calendar/calendar-min.js"></script>
-<script type="text/javascript" src="/CFIDE/scripts/ajax/yui/container/container_core-min.js"></script>
-<script type="text/javascript" src="/CFIDE/scripts/ajax/yui/menu/menu-min.js"></script>
-<script type="text/javascript" src="/CFIDE/scripts/ajax/package/cfmenu.js"></script>
-<link rel="stylesheet" type="text/css" href="/CFIDE/scripts/ajax/resources/yui/yui.css">
 
-	<style>#cf_menu1418125419089 .yuimenubaritem a.selected {background-color:#333333;text-decoration:none;color:#fff;}
-	</style>
 <!-- Force latest IE rendering engine or ChromeFrame if installed -->
 <!--[if IE]>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <![endif]-->
 
- 
+
+
+
+
 
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -60,33 +52,65 @@ top.location.href=location.href
 <script type="text/javascript" src="js/sajha.js"></script>
 <script type="text/javascript" src="loadajax.js"></script>
 <script type="text/javascript" src="js/jqbanner.js"></script>
-<script type="text/javascript" src="include/jquery.autosize.min.js"></script>
+<script type="text/javascript" src="include/autosize.js"></script>
 <script type="text/javascript" src="js/jquery.cookie.js"></script>
 
 <script language="javascript" src="js/colorbox.js"></script>
 
-	
-	<script language="JavaScript" src="http://j.maxmind.com/app/geoip.js"></script>
-	<script language="JavaScript"> 
- setCookie("maxloc",geoip_city() + "," + geoip_region() + "," + geoip_region_name() + "," + geoip_country_name(), 2);
-	</script>
-	
+
+
+  
+  
+  <script language="Javascript"> 
+  var mycookie = '';
+  var getcountry = '';
+  $.getJSON("http://freegeoip.net/json/",
+  function(data) {
+	  if (data.country_name == 'United States')
+	  {
+	  mycookie = data.city + ", " + data.region_code + ", " + data.country_name;
+	  }
+	  else
+	  {
+	  mycookie = data.city + ", " + data.country_name;
+	  }
+	  getcountry = data.country_name;
+	  console.log(data);
+	  	document.cookie = "newmaxloc=" + encodeURIComponent(mycookie) + "; expires=Fri, 31 Dec 9999 23:59:59 GMT; path=/";
+	document.cookie = "country=" + data.country_name + "; expires=Fri, 31 Dec 9999 23:59:59 GMT; path=/";
+		  $('#secondheader').load('c_setcity.cfm?city=' + encodeURIComponent(data.city) + '&region_name=' + encodeURIComponent(data.region_code) + '&country_name=' + encodeURIComponent(data.country_name) + '&region=' + encodeURIComponent(data.region_name));
+	  $("#showmainlocid").html(mycookie);
+	  
+  });
+  </script>
+    
+ 
+
+    
 
     <script type="text/javascript" src="include/jquery.nailthumb.1.1.min.js"></script>
     <link href="include/jquery.nailthumb.1.1.min.css" type="text/css" rel="stylesheet">
     <style type="text/css" media="screen">
-        .square-thumb {
+        .square-thumb{
             width: 60px;
             height: 60px;
         }
-		.comment-thumb {
+		.comment-thumb{
 		width:50px;
 		height:50px;	
 		}
-		.home-thumb {
+		.home-thumb{
 		width:35px;
 		height:35px;	
 		}
+		
+		.square-thumb img {
+		max-width:100%;
+		height:auto;
+		outline:0;
+		}
+		
+		
     </style>
 
 
@@ -109,58 +133,7 @@ top.location.href=location.href
 <script type="text/javascript">
 	ColdFusion.Ajax.importTag('CFAJAXPROXY');
 </script>
-
-<script type="text/javascript">
-	ColdFusion.Ajax.importTag('CFDIV');
-</script>
-
-<script type="text/javascript">
-	ColdFusion.Ajax.importTag('CFFORM');
-</script>
-<script type="text/javascript">
-<!--
-    _CF_checkCFForm_1 = function(_CF_this)
-    {
-        //reset on submit
-        _CF_error_exists = false;
-        _CF_error_messages = new Array();
-        _CF_error_fields = new Object();
-        _CF_FirstErrorField = null;
-
-
-        //display error messages and return success
-        if( _CF_error_exists )
-        {
-            if( _CF_error_messages.length > 0 )
-            {
-                // show alert() message
-                _CF_onErrorAlert(_CF_error_messages);
-                // set focus to first form error, if the field supports js focus().
-                if( _CF_this[_CF_FirstErrorField].type == "text" )
-                { _CF_this[_CF_FirstErrorField].focus(); }
-
-            }
-            return false;
-        }else {
-            return true;
-        }
-    }
-//-->
-</script>
-
-	<script type="text/javascript">
-		ColdFusion.Ajax.importTag('CFMENU');
-	</script>
-	
-	<script type="text/javascript">
-		var _cf_menu_init_1418125419090=function()
-		{
-			var _cf_menubar=new YAHOO.widget.MenuBar("cf_menu1418125419089", { autosubmenudisplay:true, showdelay:250, hidedelay:10, lazyload:true});
-			_cf_menubar.render();
-			_cf_menubar.show();
-		};ColdFusion.Event.registerOnLoad(_cf_menu_init_1418125419090);
-	</script>
-	<style type="text/css">
+<style type="text/css">
 
 	#header ul {
 		list-style: none;
@@ -222,7 +195,7 @@ div#showtoplist div u a {color:#333333;}
 }
 
 .dumbBox { /* The actual box, centered in the fixed-position div */
-    width:700px; /* Whatever width you want the box to be */
+    width:750px; /* Whatever width you want the box to be */
     position:relative;
     margin:0 auto;
     /*Everything below is just visual styling */
@@ -230,6 +203,7 @@ div#showtoplist div u a {color:#333333;}
 	color:#000;
 	font-size:16px;
     padding:10px;
+	border-radius: 4px;
 }
 
 table#suser tr td {padding:5px; border:1px solid #ccc;}
@@ -264,7 +238,7 @@ padding:5px;
 
 
 
-<body>
+<body><span></span>
 
 
 
@@ -281,21 +255,6 @@ padding:5px;
 
 
 
-<div class="header-cont">
-<div id="topmostheader">
-
-<div style="float:left;margin-left:10px;width:220px;cursor:pointer;" id="homemsg"></div>
-
-
-
-<div align="right" style="padding:10px;font-size:15px;margin-right:15px;font-weight:bold;"><span onclick="location.href='index.cfm?register=1';" style="cursor:pointer;">Sign up</span> | <span style="cursor:pointer;" onmouseover="document.getElementById('loginDiv').style.display='';document.getElementById('loginfull').style.display='';" onclick="document.getElementById('loginDiv').style.display='';document.getElementById('loginfull').style.display='';">Log in</span></div>
-
-
-</div>
-
-
-</div>
-
 
 
 <div id="fb-root"></div>
@@ -308,227 +267,10 @@ padding:5px;
 }(document, 'script', 'facebook-jssdk'));</script>
 
 
-    <div id="secondheader">
-    	xxx
+    <div id="secondheader" style="display:none;">
     </div>
     
-<div id="bodycontainer" style="padding-top:45px;position:relative;">
-
-
-<div style="width:200px;top:50px;float:right;z-index:5001;display:none;" id="loginDiv">
-<div id="loginBox" class="login" style="position:fixed;top:45px;z-index:5001;"> <form name="CFForm_1" id="CFForm_1" action="nepallogin.cfm" method="post" style="margin:0;padding:0;" onsubmit="return ColdFusion.Ajax.checkForm(this, _CF_checkCFForm_1,'loginBox')"><input type="text" name="username" id="username" onclick="document.getElementById('loginfull').style.display='';" onblur="checkSth('username','loginfull');"> :: Login <img src="/bookmarks/images/closebox.png" id="closebox" onclick="document.getElementById('loginDiv').style.display='none';">
-<div id="loginfull" style="display:none;z-index:500;"><input type="password" name="password"> :: Password
-<br><input type="submit" value="login"><br>
-<input type="hidden" name="redirectto" value="/sajha/html/index.cfm">
-<input type="checkbox" value="1" name="autologin" style="text-align:left;width:15px;" checked=""> Keep me logged in
-
-<br><br>
-<div align="center">OR YOU CAN</div>
-
-<script type="text/javascript">
-function confirmFB() 
-{
-var agree=confirm("Do you want to login using your Facebook Account? You will be registered in sajha using your facebook username, email, location and hometown.");
-if (agree)
-	return true ;
-else
-	return false ;
-}
-</script>
-
-
-<a onclick="javascript:return confirmFB();" href="http://sajha.com/fb/fblogin.cfm?origscript=%2Fsajha%2Fhtml%2Findex%2Ecfm&amp;origquery=privacy%3D1" rel="external"><img src="/sajha/html/fblogin.png" border="0"></a>
-<br><br>
-</div>
-</form>
-</div> 
-</div> 
-
-
-
-
-
-
-
-
-
-
-<div id="header">
-
-<ul>
-<li class="selected"><a href="index.cfm?region=Global" rel="Global">Global</a></li>
-
-
-
-<script language="JavaScript">
-// JavaScript Document
-	var myList = get_cookie("maxloc");
-	
-		if (get_cookie("otherloc"))
-		{
-		myList = get_cookie("otherloc");
-		document.cookie = "otherloc=" + get_cookie("otherloc") + "; expires=Fri, 3 May 2013 20:47:11 UTC; path=/" 
-		}
-	
-	var idList = myList.split(',');
-	
-	
-		for(var i=0; i<idList.length; i++) {
-		
-
-	  if (idList[i] == 'Australia')
-					{
-					document.write("<li ><a href=\"index.cfm?region=Australia\" rel=\"Australia\">Australia</a></li>");  
-					}
-
-	  if (idList[i] == 'Austria')
-					{
-					document.write("<li ><a href=\"index.cfm?region=Austria\" rel=\"Austria\">Austria</a></li>");  
-					}
-
-	  if (idList[i] == 'Canada')
-					{
-					document.write("<li ><a href=\"index.cfm?region=Canada\" rel=\"Canada\">Canada</a></li>");  
-					}
-
-	  if (idList[i] == 'China')
-					{
-					document.write("<li ><a href=\"index.cfm?region=China\" rel=\"China\">China</a></li>");  
-					}
-
-	  if (idList[i] == 'Colorado')
-					{
-					document.write("<li ><a href=\"index.cfm?region=Colorado\" rel=\"Colorado\">Colorado</a></li>");  
-					}
-
-	  if (idList[i] == 'Finland')
-					{
-					document.write("<li ><a href=\"index.cfm?region=Finland\" rel=\"Finland\">Finland</a></li>");  
-					}
-
-	  if (idList[i] == 'France')
-					{
-					document.write("<li ><a href=\"index.cfm?region=France\" rel=\"France\">France</a></li>");  
-					}
-
-	  if (idList[i] == 'Germany')
-					{
-					document.write("<li ><a href=\"index.cfm?region=Germany\" rel=\"Germany\">Germany</a></li>");  
-					}
-
-	  if (idList[i] == 'Hongkong')
-					{
-					document.write("<li ><a href=\"index.cfm?region=Hongkong\" rel=\"Hongkong\">Hongkong</a></li>");  
-					}
-
-	  if (idList[i] == 'India')
-					{
-					document.write("<li ><a href=\"index.cfm?region=India\" rel=\"India\">India</a></li>");  
-					}
-
-	  if (idList[i] == 'Indonesia')
-					{
-					document.write("<li ><a href=\"index.cfm?region=Indonesia\" rel=\"Indonesia\">Indonesia</a></li>");  
-					}
-
-	  if (idList[i] == 'Ireland')
-					{
-					document.write("<li ><a href=\"index.cfm?region=Ireland\" rel=\"Ireland\">Ireland</a></li>");  
-					}
-
-	  if (idList[i] == 'Japan')
-					{
-					document.write("<li ><a href=\"index.cfm?region=Japan\" rel=\"Japan\">Japan</a></li>");  
-					}
-
-	  if (idList[i] == 'Kuwait')
-					{
-					document.write("<li ><a href=\"index.cfm?region=Kuwait\" rel=\"Kuwait\">Kuwait</a></li>");  
-					}
-
-	  if (idList[i] == 'Malaysia')
-					{
-					document.write("<li ><a href=\"index.cfm?region=Malaysia\" rel=\"Malaysia\">Malaysia</a></li>");  
-					}
-
-	  if (idList[i] == 'Minnesota')
-					{
-					document.write("<li ><a href=\"index.cfm?region=Minnesota\" rel=\"Minnesota\">Minnesota</a></li>");  
-					}
-
-	  if (idList[i] == 'NewZealand')
-					{
-					document.write("<li ><a href=\"index.cfm?region=NewZealand\" rel=\"NewZealand\">New Zealand</a></li>");  
-					}
-
-	  if (idList[i] == 'Norway')
-					{
-					document.write("<li ><a href=\"index.cfm?region=Norway\" rel=\"Norway\">Norway</a></li>");  
-					}
-
-	  if (idList[i] == 'Oman')
-					{
-					document.write("<li ><a href=\"index.cfm?region=Oman\" rel=\"Oman\">Oman</a></li>");  
-					}
-
-	  if (idList[i] == 'Qatar')
-					{
-					document.write("<li ><a href=\"index.cfm?region=Qatar\" rel=\"Qatar\">Qatar</a></li>");  
-					}
-
-	  if (idList[i] == 'SaudiArabia')
-					{
-					document.write("<li ><a href=\"index.cfm?region=SaudiArabia\" rel=\"SaudiArabia\">Saudi Arabia</a></li>");  
-					}
-
-	  if (idList[i] == 'Singapore')
-					{
-					document.write("<li ><a href=\"index.cfm?region=Singapore\" rel=\"Singapore\">Singapore</a></li>");  
-					}
-
-	  if (idList[i] == 'Sudan')
-					{
-					document.write("<li ><a href=\"index.cfm?region=Sudan\" rel=\"Sudan\">Sudan</a></li>");  
-					}
-
-	  if (idList[i] == 'Thailand')
-					{
-					document.write("<li ><a href=\"index.cfm?region=Thailand\" rel=\"Thailand\">Thailand</a></li>");  
-					}
-
-	  if (idList[i] == 'Turkey')
-					{
-					document.write("<li ><a href=\"index.cfm?region=Turkey\" rel=\"Turkey\">Turkey</a></li>");  
-					}
-
-	  if (idList[i] == 'UAE')
-					{
-					document.write("<li ><a href=\"index.cfm?region=UAE\" rel=\"UAE\">UAE</a></li>");  
-					}
-
-	  if (idList[i] == 'UK')
-					{
-					document.write("<li ><a href=\"index.cfm?region=UK\" rel=\"UK\">UK</a></li>");  
-					}
-														
-
-    }
-</script>
-
-<li><a href="index.cfm?region=Nepal" rel="Nepal">Nepal</a></li>
-<li><a href="index.cfm?region=Boston" rel="Boston" title="Massachusetts, New Hampshire and Connecticut">Boston</a></li>
-<li><a href="index.cfm?region=California" rel="California">California</a></li>
-<li><a href="index.cfm?region=Chicago" rel="Chicago">Chicago</a></li>
-<li><a href="index.cfm?region=DC/VA/MD" rel="DC/VA/MD">DC/VA/MD</a></li>
-<li><a href="index.cfm?region=NewYork" rel="NewYork" title="New York and New Jersey">New York</a></li>
-
-<li><a href="index.cfm?region=Texas" rel="Texas">Texas</a></li>
-
-
-
-<li><a href="javascript:void(0);" onmouseover="document.getElementById('abovetopbanner').style.display='';" onmouseout="document.getElementById('abovetopbanner').style.display='none';">Other Locations</a></li>
-</ul>
-</div>
+<div id="bodycontainer" style="position:relative;">
 
 
 
@@ -540,125 +282,343 @@ else
 
 
 
-<div style="height:60px;background-color:#eee;border-top:1px solid #666;  ">
- <div style="cursor:pointer; z-index:100;float:left;width:150px;height:60px;">
-
-<a href="/sajha/html/index.cfm"><img src="/sajha/html/images/newlogo.jpg" border="0"></a> 
-	</div>
-   
-   
-
-<div style="padding-top:35px;" id="newtopnav">
 
 
-<style>
-.yuimenubaritemlabel {padding:2px 8px 2px 8px;}
-.yuimenu {z-index:1000;}
-#myMenu {font-size:14px;font-family:'Arimo';font-weight:bold;}
-</style>
 
 
-<div id="myMenu">
+<div style="padding:5px 0;height:30px;">
+<div style="width:220px;float:left;overflow:hidden;"><img src="banners/topicon.png"></div>
+<div style="width:300px;float:left;padding-left:25px;padding-top:6px;font-size:18px;overflow:hidden;" id="showmainlocid"></div>
+
+<div style="position:absolute;left:520px;width:150px;padding-top:10px;" id="homemsg"></div>
+
+
+<div style="width:300px;float:right;padding-left:25px;padding-top:5px;font-size:18px;"><a href="#_" class="loadtv" rel="loginmenu.cfm" style="color:#333333;">Log in!</a></div>
+</div>
+
+
+
+
+
+
+<div style="background-color:#eee;clear:both;">
+
+<div id="newtopnav">
+
+
+
+
+<link rel="stylesheet" type="text/css" href="../../menu/HTML/css/megamenu.css">
+<script language="javascript" src="../../menu/HTML/js/megamenu_plugins.js"></script>
+<script language="javascript" src="../../menu/HTML/js/megamenu.js"></script>
+<script>
+$(document).ready(function($){
+    $('.megamenu').megaMenuCompleteSet({
+        menu_speed_show : 50, // Time (in milliseconds) to show a drop down
+        menu_speed_hide : 50, // Time (in milliseconds) to hide a drop down
+        menu_speed_delay : 50, // Time (in milliseconds) before showing a drop down
+        menu_effect : 'hover_fade', // Drop down effect, choose between 'hover_fade', 'hover_slide', etc.
+        menu_click_outside : 1, // Clicks outside the drop down close it (1 = true, 0 = false)
+        menu_show_onload : 0, // Drop down to show on page load (type the number of the drop down, 0 for none)
+        menu_responsive:0 // 1 = Responsive, 0 = Not responsive
+    });
+});
+</script>
+
+<script>
+$(function() {
+
+	// grab the initial top offset of the navigation 
+	var sticky_navigation_offset_top = $('#sticky_navigation').offset().top;
 	
-	<div id="cf_menu1418125419089" class="yuimenubar yuimenubarnav" style="background-color:#eeeeee; font-size:112%; padding:0;">
-		<div class="bd">
-			<ul class="first-of-type">
-				<li id="cf_menuitem1418125419091" class="yuimenubaritem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419091', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419091');"><a href="index.cfm" class="yuimenubaritemlabel" style="color:#0001ab; font-family:Arimo;">Home </a>
+	// our function that decides weather the navigation bar should have "fixed" css position or not.
+	var sticky_navigation = function(){
+		var scroll_top = $(window).scrollTop(); // our current vertical position from the top
+		
+		// if we've scrolled more than the navigation, change its position to fixed to stick to top, otherwise change it back to relative
+		if (scroll_top > sticky_navigation_offset_top) { 
+//			$('#sticky_navigation').css({ 'position': 'fixed', 'top':0, 'left':0 });
+			$('#sticky_navigation').css({ 'position': 'fixed', 'top':0, 'width': '1000px' });
+			$('#menulogo').css({'background-image':'url(banners/newsajhalogo.jpg)'});
+		} else {
+			$('#sticky_navigation').css({ 'position': 'relative'}); 
+			$('#menulogo').css({'background-image':'url(banners/homeicon.png)'});
+		}   
+	};
+	
+	// run our function on load
+	sticky_navigation();
+	
+	// and run it again every time you scroll
+	$(window).scroll(function() {
+		 sticky_navigation();
+	});
+	
+	// NOT required:
+	// for this demo disable all links that point to "#"
+	$('a[href="#"]').click(function(event){ 
+		event.preventDefault(); 
+	});
+	
+});
+</script>
+
+
+
+
+<div class="megamenu_container megamenu_light_bar megamenu_light" id="sticky_navigation"><!-- Begin Menu Container -->
+
+        
+        <ul class="megamenu"><!-- Begin Mega Menu -->
+           
+       
+            <li class="noactive" style="width:130px;cursor:pointer;height:45px; background-image:url(banners/homeicon.png);" id="menulogo" onclick="location.href='index.cfm';"><!-- Begin Item -->           
+            </li><!-- End Item -->
+            
+ 
+             <li><a href="#_" class="megamenu_drop">Events</a><!-- Begin Item -->
+            
+            
+                <div class="dropdown_fullwidth shadow"><!-- Begin Item Container -->
+                                    <div class="col_6">
+                    
+
+
+                                  
+
+<div style="max-height:300px;height:auto !important;overflow:auto;">
+<div class="listings">
+    <ul>
+    <li style="font-size:14px;">
+    	<a href="/sajha/html/index.cfm?addevent=1" id="addeventsidx">+ ADD
+                                     EVENTS </a></li>
+    
+    
+    
+      <li><a href="/sajha/html/index.cfm?eventid=2608"><em><span>JUN 20 SAT</span> » MA » Party » Mirchi Moonlight Boat Praty</em></a></li> 
+    
+    </ul>
+  </div>                        
+</div>                        
+                        
+                        </div>
+
+                    <div class="col_6">
+                    
+
+                                  
+
+<div style="max-height:300px;height:auto !important;overflow:auto;">
+<div class="listings">
+    <ul>
+    
+    </ul>
+  </div>                 
+  
+
+         
+</div>                        
+ <a href="index.cfm?calendar=1">:: Calendar of Events</a>                       
+                        </div>
+            
+      
+                    
+
+
+<style type="text/css">
+/* listing items */
+.listings ul {
+        list-style:none;
+        width: 425px;
+		padding:0;
+		margin:0;
+} 
+
+.listings li {
+        border: 1px dotted #999;
+        border-width: 1px 0;
+        margin: 3px 0;
+		list-style:none;
+		display:block;
+}
+
+.listings li a { 
+        color: #990000;
+        display: block;
+        font: bold 120% Arial, Helvetica, sans-serif;
+        padding: 3px;
+        text-decoration: none;
+		display:block;
+}
+
+ * html .listings li a {  /* make hover effect work in IE */
+	width: 400px;
+}
+
+.listings li a:hover {
+        background: #ffffcc;
+}
+
+.listings a em { 
+        color: #333;
+        display: block;
+        font: normal 85% Verdana, Helvetica, sans-serif;
+        line-height: 125%; 
+}
+
+.listings a span {
+        color: #125F15;
+        font: normal 70% Verdana, Helvetica, sans-serif;
+        line-height: 150%;
+}
+/* end listing items */
+</style>        
+
+<script language="javascript">
+$(document).ready(function($){
+		$('#addeventsid').click(function(e) {
+					$('[id]').each(function (i) {
+			var ids = $('[id="' + this.id + '"]');
+			if (ids.length > 1) $('[id="' + this.id + '"]:gt(0)').remove();
+			});
+				e.preventDefault();
+				$('.dumbBoxWrap').show();
+				$(".dumbBox").empty();
+				$(".dumbBox").load($(this).attr('rel') + '?type=' + $(this).attr('type') + '&_=' + (new Date()).getTime()).show();
+			});	
 				
-				</li><li id="cf_menuitem1418125419092" class="yuimenubaritem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419092', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419092');"><a href="index.cfm?forum=2" class="yuimenubaritemlabel" style="color:#0001ab; font-family:Arimo;">Kurakani </a>
-				
-				</li><li id="cf_menuitem1418125419093" class="yuimenubaritem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419093', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419093');"><a href="index.cfm?interestid=6f4491f7-d51f-4418-8f0e-0e4cfc7a227d" class="yuimenubaritemlabel" style="color:#0001ab; font-family:Arimo;">Chautari </a>
-				
-				</li><li id="cf_menuitem1418125419094" class="yuimenubaritem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419094', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419094');"><a href="http://chahiyo.com" class="yuimenubaritemlabel" style="color:#0001ab; font-family:Arimo;">Classifieds </a>
-				
-				</li><li id="cf_menuitem1418125419095" class="yuimenubaritem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419095', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419095');"><a href="index.cfm?forum=55" class="yuimenubaritemlabel" style="color:#0001ab; font-family:Arimo;">Immigration </a>
-				
-				</li><li id="cf_menuitem1418125419096" class="yuimenubaritem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419096', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419096');"><a href="javascript:ColdFusion.empty();" class="yuimenubaritemlabel" style="color:#0001ab; font-family:Arimo;">Other Discussions </a><div class="yuimenu" style=" color:#0001ab; font-family:Arimo; background-color:#eeeeee; ;">
-					<div class="bd">
-						<ul class="first-of-type">
-							
-							<li id="cf_menuitem1418125419097" class="yuimenuitem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419097', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419097');"><a href="http://sajhalist.com" class="yuimenuitemlabel" style="color:#0001ab; font-family:Arimo;">- Classifieds</a>
-							
-							</li>
-						</ul>
-						<ul>
-							<li id="cf_menuitem1418125419099" class="yuimenuitem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419099', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419099');"><a href="index.cfm?forum=2" class="yuimenuitemlabel" style="color:#0001ab; font-family:Arimo;">-  Kurakani General Discussion</a>
-							
-							</li><li id="cf_menuitem1418125419100" class="yuimenuitem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419100', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419100');"><a href="index.cfm?forum=292" class="yuimenuitemlabel" style="color:#0001ab; font-family:Arimo;">- Career/College</a>
-							
-							</li><li id="cf_menuitem1418125419101" class="yuimenuitem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419101', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419101');"><a href="index.cfm?forum=144" class="yuimenuitemlabel" style="color:#0001ab; font-family:Arimo;">- Computer/IT</a>
-							
-							</li><li id="cf_menuitem1418125419102" class="yuimenuitem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419102', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419102');"><a href="index.cfm?forum=68" class="yuimenuitemlabel" style="color:#0001ab; font-family:Arimo;">- Cooking / Food</a>
-							
-							</li><li id="cf_menuitem1418125419103" class="yuimenuitem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419103', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419103');"><a href="index.cfm?forum=284" class="yuimenuitemlabel" style="color:#0001ab; font-family:Arimo;">- Current Affairs</a>
-							
-							</li><li id="cf_menuitem1418125419104" class="yuimenuitem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419104', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419104');"><a href="index.cfm?forum=297" class="yuimenuitemlabel" style="color:#0001ab; font-family:Arimo;">- Entrepreneurship</a>
-							
-							</li><li id="cf_menuitem1418125419105" class="yuimenuitem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419105', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419105');"><a href="index.cfm?forum=108" class="yuimenuitemlabel" style="color:#0001ab; font-family:Arimo;">- Friends</a>
-							
-							</li><li id="cf_menuitem1418125419106" class="yuimenuitem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419106', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419106');"><a href="index.cfm?forum=290" class="yuimenuitemlabel" style="color:#0001ab; font-family:Arimo;">- Good Deals</a>
-							
-							</li><li id="cf_menuitem1418125419107" class="yuimenuitem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419107', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419107');"><a href="index.cfm?forum=54" class="yuimenuitemlabel" style="color:#0001ab; font-family:Arimo;">- Health</a>
-							
-							</li><li id="cf_menuitem1418125419108" class="yuimenuitem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419108', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419108');"><a href="index.cfm?forum=285" class="yuimenuitemlabel" style="color:#0001ab; font-family:Arimo;">- History / Culture</a>
-							
-							</li><li id="cf_menuitem1418125419109" class="yuimenuitem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419109', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419109');"><a href="index.cfm?forum=3" class="yuimenuitemlabel" style="color:#0001ab; font-family:Arimo;">- Humor</a>
-							
-							</li><li id="cf_menuitem1418125419110" class="yuimenuitem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419110', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419110');"><a href="index.cfm?forum=55" class="yuimenuitemlabel" style="color:#0001ab; font-family:Arimo;">- Immigration</a>
-							
-							</li><li id="cf_menuitem1418125419111" class="yuimenuitem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419111', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419111');"><a href="index.cfm?forum=273" class="yuimenuitemlabel" style="color:#0001ab; font-family:Arimo;">- Investment</a>
-							
-							</li><li id="cf_menuitem1418125419112" class="yuimenuitem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419112', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419112');"><a href="index.cfm?forum=114" class="yuimenuitemlabel" style="color:#0001ab; font-family:Arimo;">- Living in America</a>
-							
-							</li><li id="cf_menuitem1418125419113" class="yuimenuitem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419113', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419113');"><a href="index.cfm?forum=71" class="yuimenuitemlabel" style="color:#0001ab; font-family:Arimo;">- Moderated and/or Self Promotions</a>
-							
-							</li><li id="cf_menuitem1418125419114" class="yuimenuitem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419114', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419114');"><a href="index.cfm?forum=341" class="yuimenuitemlabel" style="color:#0001ab; font-family:Arimo;">- Movie Reviews</a>
-							
-							</li><li id="cf_menuitem1418125419115" class="yuimenuitem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419115', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419115');"><a href="index.cfm?forum=57" class="yuimenuitemlabel" style="color:#0001ab; font-family:Arimo;">- Music/Movies/Entertainment</a>
-							
-							</li><li id="cf_menuitem1418125419116" class="yuimenuitem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419116', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419116');"><a href="index.cfm?forum=221" class="yuimenuitemlabel" style="color:#0001ab; font-family:Arimo;">- Nepalis Got Talent</a>
-							
-							</li><li id="cf_menuitem1418125419117" class="yuimenuitem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419117', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419117');"><a href="index.cfm?forum=345" class="yuimenuitemlabel" style="color:#0001ab; font-family:Arimo;">- NSFW</a>
-							
-							</li><li id="cf_menuitem1418125419118" class="yuimenuitem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419118', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419118');"><a href="index.cfm?forum=101" class="yuimenuitemlabel" style="color:#0001ab; font-family:Arimo;">- Other Languages</a>
-							
-							</li><li id="cf_menuitem1418125419119" class="yuimenuitem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419119', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419119');"><a href="index.cfm?forum=118" class="yuimenuitemlabel" style="color:#0001ab; font-family:Arimo;">- Phonecards for Nepal</a>
-							
-							</li><li id="cf_menuitem1418125419120" class="yuimenuitem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419120', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419120');"><a href="index.cfm?forum=163" class="yuimenuitemlabel" style="color:#0001ab; font-family:Arimo;">- Photography</a>
-							
-							</li><li id="cf_menuitem1418125419121" class="yuimenuitem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419121', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419121');"><a href="index.cfm?forum=4" class="yuimenuitemlabel" style="color:#0001ab; font-family:Arimo;">- Poems / Ghazals  etc.</a>
-							
-							</li><li id="cf_menuitem1418125419122" class="yuimenuitem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419122', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419122');"><a href="index.cfm?forum=122" class="yuimenuitemlabel" style="color:#0001ab; font-family:Arimo;">- Politics</a>
-							
-							</li><li id="cf_menuitem1418125419123" class="yuimenuitem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419123', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419123');"><a href="index.cfm?forum=125" class="yuimenuitemlabel" style="color:#0001ab; font-family:Arimo;">- Religion</a>
-							
-							</li><li id="cf_menuitem1418125419124" class="yuimenuitem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419124', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419124');"><a href="index.cfm?forum=86" class="yuimenuitemlabel" style="color:#0001ab; font-family:Arimo;">- Restaurants / Reviews</a>
-							
-							</li><li id="cf_menuitem1418125419125" class="yuimenuitem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419125', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419125');"><a href="index.cfm?forum=301" class="yuimenuitemlabel" style="color:#0001ab; font-family:Arimo;">- Sajha Polls</a>
-							
-							</li><li id="cf_menuitem1418125419126" class="yuimenuitem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419126', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419126');"><a href="index.cfm?forum=56" class="yuimenuitemlabel" style="color:#0001ab; font-family:Arimo;">- Sports and Games</a>
-							
-							</li><li id="cf_menuitem1418125419127" class="yuimenuitem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419127', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419127');"><a href="index.cfm?forum=283" class="yuimenuitemlabel" style="color:#0001ab; font-family:Arimo;">- Stories / Essays / Literature</a>
-							
-							</li><li id="cf_menuitem1418125419128" class="yuimenuitem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419128', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419128');"><a href="index.cfm?forum=289" class="yuimenuitemlabel" style="color:#0001ab; font-family:Arimo;">- To be Moderated</a>
-							
-							</li><li id="cf_menuitem1418125419129" class="yuimenuitem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419129', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419129');"><a href="index.cfm?forum=160" class="yuimenuitemlabel" style="color:#0001ab; font-family:Arimo;">- Travel</a>
-							
-							</li>
-						</ul>
-					 </div>
-				 </div>
-				</li><li id="cf_menuitem1418125419130" class="yuimenubaritem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419130', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419130');"><a href="http://nepallove.com" class="yuimenubaritemlabel" style="color:#0001ab; font-family:Arimo;">Find Love </a>
-				
-				</li><li id="cf_menuitem1418125419131" class="yuimenubaritem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419131', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419131');"><a href="index.cfm?calendar=1" class="yuimenubaritemlabel" style="color:#0001ab; font-family:Arimo;">EventCalendar </a>
-				
-				</li><li id="cf_menuitem1418125419132" class="yuimenubaritem" style="" onmouseover="ColdFusion.Menu.menuItemMouseOver('cf_menuitem1418125419132', '#ffffff');" onmouseout="ColdFusion.Menu.menuItemMouseOut('cf_menuitem1418125419132');"><a href="http://sajha.com/albums/" class="yuimenubaritemlabel" style="color:#0001ab; font-family:Arimo;">Photo Gallery</a>
-				
-				</li>
-			</ul>
-		 </div>
-	 </div> 
- </div> 
+			
+});			
+</script>           
+                </div><!-- End Item container -->
+                
+            
+            </li><!-- End Item -->
+            
+            
+            
+            
+            <li><a href="#_" class="megamenu_drop" id="roommates">Roommates</a><!-- Begin Item -->
+            
+            
+                <div class="dropdown_fullwidth shadow" id="roommatesdown"><!-- Begin Item Container -->
+                
+                <img src="/img/loader.gif">
+                
+                </div><!-- End Item container -->
+                
+            
+            </li><!-- End Item -->
+            
+            
+            
+            <li><a href="#_" class="megamenu_drop" id="itjobs">IT Jobs</a><!-- Begin Item -->
+            
+            
+                <div class="dropdown_fullwidth shadow" id="itjobsdown"><!-- Begin Item Container -->
+                                <img src="/img/loader.gif">
+                </div><!-- End Item container -->
+                
+            
+            </li><!-- End Item -->
+            
+            
+            
+            <li><a href="#_" class="megamenu_drop" id="localjobs">Local Jobs</a><!-- Begin Item -->
+            
+
+            
+                <div class="dropdown_fullwidth shadow" id="localjobsdown"><!-- Begin Item container -->   
+                                <img src="/img/loader.gif">        
+                </div><!-- End Item Container -->
+                
+                
+            </li><!-- End Item -->
+            
+            
+      
+            
+            
+            
+
+
+
+            <li class="megamenu_right"><a href="#_" class="megamenu_drop">MENU</a><!-- Begin Right Item -->
+            
+
+                <div class="dropdown_2columns dropdown_right dropdown_container droplast_right"><!-- Begin Right Item Container -->
+            
+                    <div class="col_12">
+                    
+                        <ul class="list_unstyled">
+                            <li><a href="index.cfm?showforums=1">Other Discussions</a></li>
+                            <li><a href="http://nepallove.com" target="_blank">Find Love / NepalLove.com</a></li>
+                            <li><a href="http://chahiyo.com" target="_blank">Classifieds / Chahiyo.com</a></li>
+                            <li><a href="index.cfm?calendar=1" target="_blank">Calendar of Events</a></li>
+                        </ul>   
+                         
+                    </div>
+                
+                </div><!-- End Right Item Container -->
+
+                
+                  
+            </li><!-- End Right Item -->
+        
+        
+        </ul><!-- End Mega Menu -->
+
+
+    </div>
+
+
+<script type="text/javascript">
+	
+	
+var localjobsloaded = 0
+$("#localjobs").hover(function() {
+		if (localjobsloaded == 0)
+		{     
+		$("#localjobsdown").load("c_localjobs.cfm?type=localjobs");
+		localjobsloaded = 1;
+		}
+					$('[id]').each(function (i) {
+			var ids = $('[id="' + this.id + '"]');
+			if (ids.length > 1) $('[id="' + this.id + '"]:gt(0)').remove();
+			});
+    })	
+
+
+var itjobsloaded = 0
+$("#itjobs").hover(function() {
+		if (itjobsloaded == 0)
+		{     
+		$("#itjobsdown").load("c_localjobs.cfm?type=itjobs");
+		itjobsloaded = 1;
+		}
+					$('[id]').each(function (i) {
+			var ids = $('[id="' + this.id + '"]');
+			if (ids.length > 1) $('[id="' + this.id + '"]:gt(0)').remove();
+			});
+    })
+	
+	
+var roommatesloaded = 0
+$("#roommates").hover(function() {
+		if (roommatesloaded == 0)
+		{     
+		$("#roommatesdown").load("c_localjobs.cfm?type=roommates");
+		roommatesloaded = 1;
+		}
+					$('[id]').each(function (i) {
+			var ids = $('[id="' + this.id + '"]');
+			if (ids.length > 1) $('[id="' + this.id + '"]:gt(0)').remove();
+			});
+    })		
+	</script>
+    <script type="text/javascript" src="include/jquery.tokeninput.js"></script>
+    <link rel="stylesheet" href="include/token-input.css" type="text/css">
+    <link rel="stylesheet" href="include/token-input-facebook.css" type="text/css">    
 </div>
 
   
@@ -774,6 +734,9 @@ else
 <div style="clear:both;"></div>
 <div align="center"><a href="index.cfm?privacy=1" style="font-size:12px;color:#333;">Sajha.com Privacy Policy</a></div>
 
+<div style="width:500px;height:250px;">
+</div>
+
 
 
 
@@ -820,20 +783,28 @@ $("#header li").corner("top");
 			$('#closehiddentv').live('click',function() {
 				$("#homemsg").load('homemsg.cfm?randval='+ Math.random());
 				$("#tvcontent").empty();
+				$(".dumbBox").empty();
 				$('.dumbBoxWrap').hide();
 				
 			});
+			
+			$('.closehiddentv').live('click',function() {
+				$("#tvcontent").empty();
+				$('.dumbBoxWrap').hide();
+				
+			});			
 			
 		$('a.loadvdos').live('click', function(e) {
 				e.preventDefault();
 				$('.dumbBoxWrap').show();
 				$(".dumbBox").load($(this).attr('rel')).show();
+				$(".corner").corner();
 			});	
 
 		$('a.loadtv').live('click', function(e) {
 				e.preventDefault();
 				$('.dumbBoxWrap').show();
-				$(".dumbBox").load($(this).attr('rel')).show();
+				$(".dumbBox").load($(this).attr('rel') + '?_=' + (new Date()).getTime()).show();
 			});	
 			
 		$('a.loadnews').live('click', function(e) {
@@ -935,7 +906,7 @@ $("#header li").corner("top");
             	<li><span>Please Login First</span></li>
                 <li><a href="/sajha/html/newregister.cfm"> Register your username</a></li>
 
-<li><a href="/sajha/html/clear.cfm?fb=1"> Enable Facebook plugins</a></li>
+<li><a href="/sajha/html/clear.cfm?fb=0"> Disable Facebook plugins</a></li>
 
         
 
@@ -965,6 +936,25 @@ $("#header li").corner("top");
 
 <script language="javascript">
 $(document).ready(function(){
+
+
+	 $("#loginForm2").live('submit' ,function(e){
+    e.preventDefault(); 
+		  username=$("#username").val();
+		  password=$("#password").val();
+		  origpage=$("#origpage").val();
+		  $.post("ajaxlogin.cfm", {'username': encodeURIComponent(username), 'password': encodeURIComponent(password)}, function(data){
+			if (data.indexOf('true') >= 0) {
+		 	 $("#add_err").html("right username or password");
+			 location.reload();
+		  }
+		  else {
+			$("#add_err").css('display', 'block', 'important');
+			 $("#add_err").html(data);
+		  }
+		  });		
+	});
+
 
 						$('img').filter(function(index){return $(this).attr('src')==='';}).hide();
 						$("img").error(function () {
@@ -1073,31 +1063,31 @@ else {
 	sidebannername = "sidebannerbig"
 	}	
 
-	if ($.cookie('maxloc').indexOf('Massachusetts')>-1)
+ 	if ($.cookie('maxloc').indexOf('MA')>-1)
 				{
 					$("#" + sidebannername).load('loadsidebanner.cfm?region=Global&loadregion=Boston');
 				}	
-	else if 	($.cookie('maxloc').indexOf('New York')>-1)
+	else if 	($.cookie('maxloc').indexOf('NY')>-1)
 				{
 					$("#" + sidebannername).load('loadsidebanner.cfm?region=Global&loadregion=NewYork');
 				}		
-	else if 	($.cookie('maxloc').indexOf('Texas')>-1)
+	else if 	($.cookie('maxloc').indexOf('TX')>-1)
 				{
 					$("#" + sidebannername).load('loadsidebanner.cfm?region=Global&loadregion=Texas');
 				}	
-	else if 	($.cookie('maxloc').indexOf('Minnesota')>-1)
+	else if 	($.cookie('maxloc').indexOf('MN')>-1)
 				{
 					$("#" + sidebannername).load('loadsidebanner.cfm?region=Global&loadregion=Minnesota');
 				}	
-	else if 	($.cookie('maxloc').indexOf('Colorado')>-1)
+	else if 	($.cookie('maxloc').indexOf('CO')>-1)
 				{
 					$("#" + sidebannername).load('loadsidebanner.cfm?region=Global&loadregion=Colorado');
 				}	
-	else if 	($.cookie('maxloc').indexOf('Illinois')>-1)
+	else if 	($.cookie('maxloc').indexOf('IL')>-1)
 				{
 					$("#" + sidebannername).load('loadsidebanner.cfm?region=Global&loadregion=Chicago');
 				}	
-	else if 	($.cookie('maxloc').indexOf('California')>-1)
+	else if 	($.cookie('maxloc').indexOf('CA')>-1)
 				{
 					$("#" + sidebannername).load('loadsidebanner.cfm?region=Global&loadregion=California');
 				}	
@@ -1105,11 +1095,11 @@ else {
 				{
 					$("#" + sidebannername).load('loadsidebanner.cfm?region=Global&loadregion=Nepal');
 				}	
-	else if 	($.cookie('maxloc').indexOf('Virginia')>-1)
+	else if 	($.cookie('maxloc').indexOf('VA')>-1)
 				{
 					$("#" + sidebannername).load('loadsidebanner.cfm?region=Global&loadregion=DC/VA/MD');
 				}	
-	else if 	($.cookie('maxloc').indexOf('Maryland')>-1)
+	else if 	($.cookie('maxloc').indexOf('MD')>-1)
 				{
 					$("#" + sidebannername).load('loadsidebanner.cfm?region=Global&loadregion=DC/VA/MD');
 				}
@@ -1120,7 +1110,9 @@ else {
 		else 	
 				{
 					$("#" + sidebannername).load('loadsidebanner.cfm?region=Global&loadregion=Other');
-				}							
+				}		
+				
+									
 </script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -1132,6 +1124,5 @@ else {
   ga('send', 'pageview');
 
 </script> 
-
 
  </body></html>
