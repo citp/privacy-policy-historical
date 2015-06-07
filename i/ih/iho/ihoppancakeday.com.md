@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the ihoppancakeday.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216184418id_/http%3A//www.ihop.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihoppancakeday.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607034827id_/http%3A//www.ihop.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # IHOP Customer Privacy Policy
-
-  * 1880 West Slauson Avenue  
-Los Angeles, CA 90047
-  * (323) 296-4465
-  * Sun-Thur 7am-10pm  
-Fri & Sat 7am-12am
-  * 
-
-
-close
 
 This Privacy Policy was last updated on January 1, 2014 and is effective as of that date.
 
