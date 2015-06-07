@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ellaklassen.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216190042id_/http%3A//ellaklassen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellaklassen.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140021id_/http%3A//ellaklassen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
