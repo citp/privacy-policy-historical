@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nyfuturestars.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706131350id_/http%3A//www.nyfuturestars.com/community/viewtopic.php%3Fp%3D309541) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyfuturestars.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607063926id_/http%3A//www.nyfuturestars.com/community/viewtopic.php%3Fp%3D309541) for the most accurate reproduction.*
 
 # NYFS ny mets message boards • View topic - NYFS Privacy Policy
 
-**NYFS Privacy Policy:**
+NYFS Privacy Policy:
 
 This NYFS Privacy Policy describes the privacy practices that apply to NYFS's products, services and websites collectively, NYFS's "services". 
 
@@ -18,4 +18,4 @@ We may use personal information to provide the services you've requested, includ
 
 We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
 
-You may decline to provide personal information to us and/or refuse cookies in your browser, although some of our features or services may not function properly as a result.
+You may decline to provide personal information to us and/or refuse cookies in your browser, although some of our features or services may not function properly as a result. 
