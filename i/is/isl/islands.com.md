@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the islands.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109002730id_/http%3A//www.islands.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islands.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607124352id_/http%3A//www.islands.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Islands
 
 **Bonnier Corporation Privacy Policy**
 
-_This policy was last updated on October 11, 2011._
+_This policy was last updated on April 13, 2015._
 
 At Bonnier Corporation, your privacy is important to us.  This Privacy Policy applies to all of the products, services, and websites offered by Bonnier Corporation and its subsidiaries or affiliated companies (collectively, "Bonnier").
 
@@ -12,7 +12,7 @@ To better protect your privacy, we provide this notice explaining our privacy pr
 
 Bonnier adheres to the U.S. Department of Commerce Safe Harbor framework and the privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement.  For more information on the framework, please visit the [Safe Harbor website](http://www.export.gov/safeharbor/eu/eg_main_018476.asp).
 
-**Note: For questions related to your magazine subscription, please visit our** **Customer Service web site** **or email** **islands@emailcustomerservice.com** **.**
+**Note: For questions related to your magazine subscription, please visit our** **Customer Service web site** **or email** ** @emailcustomerservice.com** **.**
 
 If you have any questions about this Privacy Policy, please write to us [via e-mail](mailto:privacy@bonniercorp.com) at privacy@bonniercorp.com, or via postal mail at: 
 
@@ -89,7 +89,7 @@ Bonnier employees, agents, and contractors who have access to personally-identif
 
 Bonnier only collects personal information that is relevant to the purposes for which it will be used.  Though we do take appropriate steps to review and update the information that we store to ensure that it is accurate, complete, and current, we also depend on you to update or correct your personal information when necessary. 
 
-You may correct or delete any or all of the personal information you have provided to us at any time.  Many of our websites provide means to review and update the personal information that you have provided on that website.  To inquire about personally identifiable information that Bonnier has collected about you, or about other ways to correct factual errors in that information, please [e-mail us](mailto:privacy@bonniercorp.com) at privacy@bonniercorp.com. (Note: Do not use this email address to send questions about your subscription. Rather, send your subscription-related inquiries to **[islands@emailcustomerservice.com](mailto:islands@emailcustomerservice.com)**.) To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.  We will decline to process requests where we cannot verify the identity of the requester.  We may also decline to process requests that are automated, repetitive, systematic, or impractical, or that might jeopardize the privacy of others.
+You may correct or delete any or all of the personal information you have provided to us at any time.  Many of our websites provide means to review and update the personal information that you have provided on that website.  To inquire about personally identifiable information that Bonnier has collected about you, or about other ways to correct factual errors in that information, please [e-mail us](mailto:privacy@bonniercorp.com) at privacy@bonniercorp.com. (Note: Do not use this email address to send questions about your subscription. Rather, send your subscription-related inquiries to **[@emailcustomerservice.com](mailto:%3C?php%20print%20$pp_email;%20?%3E@emailcustomerservice.com)**.) To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.  We will decline to process requests where we cannot verify the identity of the requester.  We may also decline to process requests that are automated, repetitive, systematic, or impractical, or that might jeopardize the privacy of others.
 
 In some limited circumstances, such as to resolve disputes, troubleshoot problems, and enforce our policies, we may retain some of information that you have requested us to remove.  Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests. 
 
@@ -99,7 +99,7 @@ We only use the information we collect for purposes consistent with this policy.
 
 **If you prefer not to receive email communications from other companies** , you may choose to remove yourself from any lists that we provide to third parties for marketing purposes by [emailing us](mailto:emailoptout@bonniercorp.com?subject=Third-Party%20Opt%20Out) at emailoptout@bonniercorp.com.  You will still receive information from Bonnier and its various brands, but we will not share your address information with anyone else.
 
-If you prefer not to receive postal communication from other companies, you may choose to remove yourself from any postal mailing lists that we provide to third parties for marketing purposes by sending us an e-mail at [emailoptout@bonniercorp.com](mailto:emailoptout@bonniercorp.com), or writing us at P.O. Box 420235, Palm Coast, FL. You will still receive information from Bonnier and its various brands, but we will not share your address information with anyone else.
+If you prefer not to receive postal communication from other companies, you may choose to remove yourself from any postal mailing lists that we provide to third parties for marketing purposes by sending us an e-mail at [emailoptout@bonniercorp.com](mailto:emailoptout@bonniercorp.com), or writing us at Bonnier Corporation, P.O. Box 6364, Harlan, IA 51593. You will still receive information from Bonnier and its various brands, but we will not share your address information with anyone else.
 
 We only want to communicate with you if you want to hear from us.  **If you prefer not to be contacted at all** , you may opt out of receiving any communications from us at any time by [notifying us](mailto:emailoptout@bonniercorp.com?subject=Opt%20Out%20of%20All%20Communications) at emailoptout@bonniercorp.com.  You may also notify us by sending mail to the following address:
 
