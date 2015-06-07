@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the netpicks.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223070725id_/http%3A//www.netpicks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netpicks.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200111id_/http%3A//www.netpicks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NetPicks NetPicks
+# Privacy Policy | NetPicksNetPicks
 
 We respect each site visitor’s right to personal privacy. To that end, we collect and use information throughout our website only as disclosed in this Privacy Policy. This statement applies solely to information collected on this website.
 
