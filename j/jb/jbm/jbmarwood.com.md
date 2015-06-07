@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jbmarwood.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216154126id_/http%3A//jbmarwood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jbmarwood.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608000505id_/http%3A//jbmarwood.com/privacy-policy) for the most accurate reproduction.*
 
-# Our Privacy Policy • How to Beat Wall Street
+# Our Privacy Policy • JB Marwood
 
 __[Trading](http://jbmarwood.com/category/trading-2/)
 
