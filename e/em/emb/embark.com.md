@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the embark.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926044045id_/http%3A//embark.com/%3Fpage_id%3D813) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embark.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608005939id_/http%3A//embark.com/%3Fpage_id%3D813) for the most accurate reproduction.*
 
 # EmbarkPrivacy Policy - Embark
 
@@ -89,7 +89,7 @@ We provide you the opportunity to ‘opt-out’ of having your personally identi
 
 
 
-To tell us not to share information you have provided to us with these third parties, [click on this link](http://my.embark.com/serviceSubscriptions.aspx "Subscription Services").
+To tell us not to share information you have provided to us with these third parties, [click on this link](mailto:support@embark.com "Subscription Services").
 
 In addition, if you no longer wish to receive our newsletter communications, you may opt-out of receiving email communication from us by following the instructions included in each newsletter or communication or by emailing us (see “Unsubscribe” below).
 
@@ -113,7 +113,7 @@ We adhere to all federal and state laws regarding visitors under 18 years of age
 
 **Unsubscribe**
 
-To stop receiving future communications from us, please review your contact preferences [here](http://my.embark.com/serviceSubscriptions.aspx "Subscription Services").
+To stop receiving future communications from us, please contact us [here](mailto:support@embark.com "Subscription Services").
 
 **Changes in Privacy Policy**
 
