@@ -1,41 +1,39 @@
-> *The following text is extracted and transformed from the openlogic.com privacy policy that was archived on 2014-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140711111732id_/http%3A//www.openlogic.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openlogic.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607161206id_/http%3A//www.openlogic.com/privacy) for the most accurate reproduction.*
 
-# OpenLogic Privacy Policy
+# Privacy Policy | OpenLogic
 
-OpenLogic is committed to our users' privacy. This privacy statement covers all information provided to us including information provided on the site www.openlogic.com, a web property of OpenLogic, Inc.
+Rogue Wave's Privacy Policy covers the collection, use and disclosure of information that may be collected by Rogue Wave whenever you interact with Rogue Wave, e.g., when you visit our websites, when you purchase Rogue Wave products or services, or when you call our sales or support associates (collectively, the "Service"). Please regularly review our Privacy Policy.
 
-## Information Gathered by OpenLogic
+### Notice and Disclosure
 
-OpenLogic collects two kinds of information about visitors to www.openlogic.com: 1) data volunteered by users in order to sign up for events, download company and product information, and subscribe to mailing lists; and 2) aggregated tracking data collected when users interact with our website. OpenLogic is the sole owner of all information collected including registration information and contact information.
+In general, you can visit this website without telling us who you are or revealing any personal information. There are times, however, when we may gather information from you. We will not collect any personal information that you do not volunteer. We are the sole owner of all information on our websites.
 
-## Personal Information
+We will not sell, share, or rent personal information to others. We may periodically send you email about new products and services, industry issues or upcoming events. If you do not wish to receive such emails, simply click the "unsubscribe" link in any email you receive from us. We also have a preference center to indicate your areas of interest and to control our outreach to you.
 
-Personal information collected by OpenLogic is for the sole use of OpenLogic and will not be given away, sold or displayed to others for any reason with the exception of information provided for shipping and billing purposes. Though we make every effort to preserve user privacy, we need to disclose personal information required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with legal process served on our website.
+To help us provide superior service, your personal information may be shared with legal entities within the Rogue Wave group globally who will take steps to safeguard it in accordance with this privacy policy.
 
-## Aggregated Tracking Information
+There may also be times when it may be advantageous for Rogue Wave to make certain personal information about you available to companies that Rogue Wave has a strategic relationship with or that perform work for Rogue Wave to provide products and services to you on our behalf. These companies are also obligated to protect your personal information in accordance with Rogue Wave's policies.
 
-OpenLogic analyzes visitors' use of our website by tracking information such as downloads, page views, traffic flow, search terms and click-through rates. This information is used to improve our website. We may also share or publish this anonymous traffic and demographic information in aggregate form. We will not share or publish any information that can identify an individual user.
+We will, at our discretion, disclose information if we believe that we are required to do so by law, that such disclosure is necessary to protect us from legal liability or that we should do so to protect the integrity of the Service.
 
-## Links to Other Websites
+### Information Gathering
 
-The OpenLogic website contains links to other sites. OpenLogic is not responsible for the privacy practices or content of such other sites. We encourage users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information.
+Our web servers automatically recognize and collect the domain name and IP address of visitors to our website. In addition, we collect aggregate information on web page visits. We use this information to tailor our interactions and to ensure we offer the kind of information that you find most valuable.
 
-## Opt-Out
+Portions of this website use cookies to keep track of your visit, or to deliver content specific to your interests. A cookie is a small amount of data transferred to your browser and read by the web server that placed it there. It works as a sort of identification card, recording your preferences and previously entered information. You can set your browser to notify you when you receive a cookie, giving you the chance to accept or reject it.
 
-As part of our ongoing customer education and service, you may receive email updates related to our products and services. You may choose to be removed from any or all mailing lists with any of the following options:
+### Your Personal Information
 
-  * Send email to [info@openlogic.com](mailto:info@openlogic.com) stating your request.
-  * Click on the Unsubscribe link within any email message you receive from OpenLogic.
-  * Reply to any unwanted communications that you receive, stating your request.
+Rogue Wave Software takes your privacy seriously, and has security measures in place to protect against the loss, misuse or alteration of information that we have collected from you at our site. If you feel that Rogue Wave is not following its stated information policy, you may contact us at legal@roguewave.com.
 
+Our websites may contain links to the sites of other companies. Rogue Wave is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies.
 
+### Changes to our privacy policy
 
-## Notification of Changes
+If there are updates to our privacy policy, we will post those changes here and update the revision date so you will always know what information we collect, how we use it, and what choices you have. 
 
-If we change our privacy policy, notification of those changes will be posted on www.openlogic.com. If we decide to use personally identifiable information in a manner different from that stated at the time it was collected, users will be notified by email or phone. Users will be able to opt out of any new use of their personal information.
+### Your acceptance of these terms
 
-## Contacting OpenLogic
+By using the Service, you agree to this privacy policy.
 
-If you have any questions or comments about this privacy statement, the practices of this site or your dealings with this website, please contact [webmaster@openlogic.com](mailto:webmaster@openlogic.com).
-
-Last Updated October 2006
+_Revised: June 6, 2014_
