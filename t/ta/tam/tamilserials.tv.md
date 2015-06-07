@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamilserials.tv privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203141454id_/http%3A//www.tamilserials.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilserials.tv privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607230351id_/http%3A//www.tamilserials.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Policy - Tamil Serials.TV
 
@@ -39,5 +39,5 @@ For questions concerning the product or your account, please. For more informati
 
 tamilserialstv@gmail.com
 
-Copyright (c) 2006-2007 Tamilserials.tv. All rights reserved.  
+Copyright (c) 2013-2014 Tamilserials.tv. All rights reserved.  
 Designed by Tamilserials.tv
