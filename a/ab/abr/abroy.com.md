@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abroy.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227101602id_/http%3A//www.abroy.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abroy.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607143814id_/http%3A//www.abroy.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Play Free Games Online - Arcade Games Online, Puzzle Games, Adventure Games, Escape games, Strategy games, Hidden Object Games, Casino Games Online
 
