@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the musicarts.com privacy policy that was archived on 2014-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141118033021id_/http%3A//www.musicarts.com/Privacy-Policy-g20006t0.mac) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the musicarts.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607142404id_/https%3A//www.musicarts.com/Privacy-Policy-g20006t0.mac) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xmlns:ng="http://angularjs.org"><head id="_htmHead" runat="server"><script type="text/javascript" async="async" src="https://www.adobetag.com/d1/guitarcenter/live/JBS.js"></script>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xmlns:ng="http://angularjs.org"><head id="_htmHead" runat="server">
     <title id="_htmTitle" runat="server">
         Privacy Policy | MAC
     </title>
@@ -13,7 +13,6 @@
     <meta name="y_key" content="41ddca2317ec2d34">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     
-    <link href="/Content/MusicArts/CSS/print.css" media="print" rel="stylesheet">
 
     <!--TODO-GSR: These other <link> tags may want to be dynamic-->
     <link id="Favicon1" rel="shortcut icon" href="/includes/MusicArts/images/favicon.ico" type="image/x-icon" runat="server">
@@ -21,11 +20,11 @@
 
     <!--TODO-GSR: Use a RenderSection instead maybe?-->
     <!--BEGIN ANALYTICS-->
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+    <script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 var omnitureStoreFinder_s;
 var omnitureBrandPrefix = 'ma';
 function analyticsUpdateStoreFinder() { 
-omnitureStoreFinder_s = s_gi('musicartsprod,gciglobalprod');
+omnitureStoreFinder_s = s_gi('musicartsprod');
 omnitureStoreFinder_s.linkInternalFilters = 'javascript:,musicarts.com,www.musicarts.com';
 omnitureStoreFinder_s.linkTrackEvents = 'event41';
 omnitureStoreFinder_s.linkTrackVars = 'events,eVar25';
@@ -39,10 +38,51 @@ if(typeof(checkOmnitureClientUpdates) == 'function') checkOmnitureClientUpdates(
     <!--END ANALYTICS-->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <link id="Favicon" rel="SHORTCUT ICON" href="/Includes/MusicArts/images/favicon.ico">
-    <link href="/csscontent?v=TIdLO_qcpz1UYb2K5Kb3RhmHD_xscWulxu9ZgUCbBpQ1" rel="stylesheet">
+    <link href="/csscontent?v=lLsxEhqaSyzzH_EChjAWv56AzmUyEEXGrNItlhBFmD41" rel="stylesheet">
 
-
-    <script src="/Scripts/modernizr.js"></script>
+    
+    <script type="text/javascript">
+        function getBrowserInfo() {
+            var ua = navigator.userAgent, tem, M = ua.match(/(opera|chrome|safari|firefox|msie|trident(?=\/))\/?\s*(\d+)/i) || [];
+            if (/trident/i.test(M[1])) {
+                tem = /\brv[ :]+(\d+)/g.exec(ua) || [];
+                return { name: 'IE', version: (tem[1] || '')
+                };
+            }
+            if (M[1] === 'Chrome') {
+                tem = ua.match(/\bOPR\/(\d+)/);
+                if (tem != null) { return { name: 'Opera', version: (tem[1] || '') } }
+            }
+            M = M[2] ? [M[1], M[2]] : [navigator.appName, navigator.appVersion, '-?'];
+            if ((tem = ua.match(/version\/(\d+)/i)) != null) { M.splice(1, 1, tem[1]); }
+            return {
+                name: M[0],
+                version: M[1]
+            };
+        };
+        var browser = getBrowserInfo();
+        if (browser && browser.name && browser.version && browser.name.toLowerCase() == "firefox" && parseInt(browser.version) <= 27) {
+            var svgSubstituteLink = document.createElement("link");
+            svgSubstituteLink.type = "text/css";
+            svgSubstituteLink.rel = "stylesheet";
+            svgSubstituteLink.href = "/styles/svgSubstitute";
+            document.getElementsByTagName("head")[0].appendChild(svgSubstituteLink);
+        }
+        if (browser && browser.name && browser.version && browser.name.toLowerCase() == "firefox" && parseInt(browser.version) <= 29) {
+            var navMenuLegacyLink = document.createElement("link");
+            navMenuLegacyLink.type = "text/css";
+            navMenuLegacyLink.rel = "stylesheet";
+            navMenuLegacyLink.href = "/styles/navMenuLegacy";
+            document.getElementsByTagName("head")[0].appendChild(navMenuLegacyLink);
+        }
+        if (navigator.userAgent.indexOf("Android 2") != -1) {
+            var svgSubstituteLink = document.createElement("link");
+            svgSubstituteLink.type = "text/css";
+            svgSubstituteLink.rel = "stylesheet";
+            svgSubstituteLink.href = "/styles/svgSubstitute";
+            document.getElementsByTagName("head")[0].appendChild(svgSubstituteLink);
+        }
+    </script>
 
     <!--[if lte IE 8]>
         <script>
@@ -86,32 +126,31 @@ if(typeof(checkOmnitureClientUpdates) == 'function') checkOmnitureClientUpdates(
         </script>
       <![endif]-->
     <!--[if lt IE 9]>
-        <link href="/styles/ie8?v=pNRusgvVKVYHiHtsdblpxy__H--FvLBUHaJDPY7XWIc1" rel="stylesheet"/>
+    <link href='/styles/printIE8?v=N2fHJj6cHPqR0Ri_pZXrjV55KFRLdUbYCbyZydcLkzE1' rel='stylesheet' media='print' />
 
-        <script src="/script/ie8?v=W5mNV9vGYU39iiybVPtBHuZKkFm7iqKsGqMbi4TyzIk1"></script>
+    <link href="/styles/ie8?v=xre8lpg6uwgfGiNtZsm-O9WEOZaj5Q9_w3PmKFkGeT41" rel="stylesheet"/>
+
+    <script src="/script/ie8?v=lDyVWHunCf2dVnSZia7rE7H8_ru_BE_vF_Q501SBKoA1"></script>
 
     <![endif]-->
     <!--[if (gte IE 9) | (!IE)]><!-->
-    <link href="/styles/modernbrowsers?v=PN4PTyqT4o8EbzWqUWHsgZVvZq6BONp_NRdYdXtmrWc1" rel="stylesheet">
+    <link href="/styles/modernbrowsers?v=68ut_qT8_08ZKE0I7FcExAw8AtGOY9JRlskTMQKGomE1" rel="stylesheet">
 
-    <script src="/script?v=0TBjZeCJb6TBk0IqzVZ24jK7N5nG08aFGTHf4vsmnMw1"></script>
+    <script src="/script?v=TXRn5PdQYrRH_hMI_Ar6yUZmu2WdkF4kOGZNSitkg0Y1"></script>
 
     <!--<![endif]-->
-    <script src="/bundles/angularjs?v=SijQgOFqbXhWmnwFvYSfDgtZ4TgfRaQD8hwsOBb9bFs1"></script>
-
-    <script src="/bundles/globaljs?v=x4bYgayJBnzRSn8CC5quzn8wJ68P2MTfekSg9-bTz5o1"></script>
+    <script src="/bundles/globaljs?v=zMKnYVORaoeK_ESggfDV4kIdhhgDarm3uHmc2-DanKE1"></script>
 
     <link href="//fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet" type="text/css" data-norem="">
 </head>
 <body id="ng-app" ng-controller="globalController" data-ng-class="{ educator : isEducator, 'no-user': !isLoggedIn }">
     <!-- BODY BEGIN -->
-    <script src="/Includes/Common/Scripts/ResourceBootstrapper.min.js?version=25" type="text/javascript" defer="defer"></script>
     <!-- Required. Do not change or move -->
     <div class="off-canvas-wrap" data-offcanvas="">
         <div class="inner-wrap">
             <!-- /Required. Do not change or move -->
 
-<!-- CMS Header Rendered On: 11/17/2014 10:30:34 PM -->
+<!-- CMS Header Rendered On: 6/7/2015 10:27:11 AM -->
 
 <link type="text/css" rel="stylesheet" href="//www.musicarts.com/Home/HeaderCss">
 <script type="text/javascript" src="//www.musicarts.com/Home/HeaderJs"></script>
@@ -122,7 +161,7 @@ if(typeof(checkOmnitureClientUpdates) == 'function') checkOmnitureClientUpdates(
             mboxCreate('MAC_global_header');
     </script>
 
-<div class="promo-header"><span class="text-uppercase text-space1">Free shipping on any order of <sup>$</sup>9<sup>.99</sup> or more!</span></div><div class="scroller_anchor"></div><!-- header nav container--><div class="header-nav-container">   <!-- Header -->  <header class="clearfix">    <div class="nav-trigger left-off-canvas-toggle">Menu</div>    <div class="row">      <div class="columns medium-3 large-2 logo-container">        <div class="logo-block"><a href="//www.musicarts.com"><span>Music &amp; Arts</span></a>          <div class="arrow">            <div><img src="//www.musicarts.com/content/musicarts/img/logo-arrow.svg" class="desktop" alt=""><img src="//www.musicarts.com/content/musicarts/img/mobile-logo-arrow.svg" class="mobile" alt=""></div>          </div>        </div>      </div>      <div class="columns medium-9 large-10">        <div class="row collapse">          <div class="columns large-4 medium-6">            <div class="row collapse search-container">              <div class="columns tokenContainer">                [[KeywordSearchInputContent]]              </div>            </div>          </div>          <div class="columns large-8 medium-6 clearfix">            <ul class="utility-menu tokenContainer">              <li class="location"><a href="http://stores.musicarts.com"><span class="hide-for-medium-down">Find a <span class="nowrap">Location</span></span></a></li>                [[LoginLinkContent]]              <li class="cart right-off-canvas-toggle" data-ng-click="getMiniCart()"><span class="hide-all">Items:</span><span data-ng-class="{'count': cartItemCount > 0}" data-ng-bind="getCartItemCountDisplayText()"></span></li>            </ul>          </div>        </div>      </div>    </div>  </header>  <!-- /Header --> </div><!-- navigation --><div id="nav-back"> </div><!-- /navigation -->
+<div class="promo-header" id="promo_header_eyelash" style="background:none repeat scroll 0% 0%  #196c70;"><a href="/MAC---Yamaha-Rock-Out-School-s-Out-g6534t1.mac"><div class="text-uppercase text-space1" style="font-weight:700; font-size:1.25rem; line-height:1.05rem;"><!--Link-->School's Out ROCK OUT <strong class="color: yellow;"> - Shop Summer Savings</strong><!--/link--></div></a></div><div class="scroller_anchor"></div><!-- header nav container--><div class="header-nav-container">   <!-- Header -->  <header class="clearfix">    <div class="nav-trigger left-off-canvas-toggle">Menu</div>    <div class="row">      <div class="columns medium-3 large-2 logo-container">        <div class="logo-block"><a href="//www.musicarts.com"><span>Music &amp; Arts</span></a>          <div class="arrow">            <div><img src="//www.musicarts.com/content/musicarts/img/logo-arrow.svg" class="desktop" alt=""><img src="//www.musicarts.com/content/musicarts/img/mobile-logo-arrow.svg" class="mobile" alt=""></div>          </div>        </div>      </div>      <div class="columns medium-9 large-10">        <div class="row collapse">          <div class="columns large-4 medium-6">            <div class="row collapse search-container">              <div class="columns tokenContainer">                [[KeywordSearchInputContent]]              </div>            </div>          </div>          <div class="columns large-8 medium-5 clearfix">            <ul class="utility-menu tokenContainer">              <li class="location"><a href="//stores.musicarts.com"><span class="hide-for-medium-down">Find a <span class="nowrap">Location</span></span></a></li>                [[LoginLinkContent]]              <li class="cart right-off-canvas-toggle" data-ng-click="getMiniCart()"><span class="hide-all">Items:</span><span data-ng-class="{'count': cartItemCount > 0}" data-ng-bind="getCartItemCountDisplayText()"></span></li>            </ul>          </div>        </div>      </div>    </div>  </header>  <!-- /Header --> </div><!-- navigation --><div id="nav-back"> </div><!-- /navigation -->
         
             <div class="row">
                 <div class="columns">
@@ -146,7 +185,7 @@ if(typeof(checkOmnitureClientUpdates) == 'function') checkOmnitureClientUpdates(
         var moduleName = 'Global.Apps.App',
         module = angular.module(moduleName);
 
-        var config = {"expertsSearchUrl":"http://stores.musicarts.com/ExpertsApi/Search","expertsEmailAssociateApiUrl":"https://stores.musicarts.com/ExpertsApi/EmailAssociate","isNavigationHidden":false,"siteName":"MusicArts","accountId":0,"currencySymbol":null,"isInternational":false,"hostName":"www.musicarts.com","maxRecentlyViewedItems":0,"contactPhoneNumber":"888-731-5396","isPayPalEnabled":false};
+        var config = {"expertsSearchUrl":"//stores.musicarts.com/ExpertsApi/Search","expertsEmailAssociateApiUrl":"//stores.musicarts.com/ExpertsApi/EmailAssociate","expertsEmailUploadFileUrl":"//stores.musicarts.com/StoresForStores-Widgets-Base-v2-FileUpload/NewFile","isNavigationHidden":false,"siteName":"MusicArts","accountId":0,"currencySymbol":null,"isInternational":false,"hostName":"www.musicarts.com","maxRecentlyViewedItems":10,"isPayPalEnabled":false,"contactPhoneNumber":"888-731-5396","internationalCheckoutEnabled":false,"enableClimbHTML5Geolocation":true,"climbHTML5GeolocationWaitResponseTime":5000,"climbHTML5GeolocationTimeout":5000,"climbHTML5GeolocationMaximumAge":1800000};
         module.value('config', config);
 
         angular.bootstrap('#ng-app', [moduleName]);
@@ -154,9 +193,11 @@ if(typeof(checkOmnitureClientUpdates) == 'function') checkOmnitureClientUpdates(
 
 </script>
 
-<div ncg-request-verification-token="RRAKHSbWLl31Cj4HHUmVmFeP3hkKRWvsFMDYJIPksV11pqPP8y9s_3iEZY5IcCtTO2dgbGZhS0ARyH891UMQhQpxHgs1:0srlc4BE_siTWs1wktqYGi6RlQWaGxKBephYazmEd6vVb0bqMD9KpTgXbyv63qS7PZC9bSARJkaXGTj9THkSxFaea701">    </div>
+<div ncg-request-verification-token="B672AS0DYFCr35kAyES1bUBCeL6Wg2XaH2AGqY54HTBJk3M523hnbuTHTVDzbWMqKWzL1Y3sfP2gZVnWoOE3H_kqKyM1:4xaGLr7v76tphkZgDhOky_KZ-2iRI99a22sHJEPA6dHBqZP3ikjuCB60oGOLRqF83_QWx_onEstKwX6-uUblagLBf7g1">    </div>
     <div id="staticcontent">
-        <div class="row" id="main-content">
+        
+
+<div class="row" id="main-content">
 	<div class="columns content-primary">
 		<h1 class="margin-extra">Your Privacy Rights – Privacy Policy </h1>
 		<h3><a class="offset" href="#financial">Financial Privacy Policy</a></h3>
@@ -167,10 +208,10 @@ if(typeof(checkOmnitureClientUpdates) == 'function') checkOmnitureClientUpdates(
 		<h2>What Information Do We Collect and Why?</h2>
 		<p><strong>Registration and Payment Information:</strong> We may ask you to provide us with personal information on a voluntary basis in certain areas of the Site, and you will be required to provide personal information when you make purchases on the Site. The kinds of personal information that we may request may include your name, address, email address, telephone number, fax number, credit card information (“Personal Information") and information about your interests in and use of various products, programs, and services. All such information will be treated in accordance with the terms of this Privacy Policy.</p>
 		<p><strong>IP Addresses and "Cookie" Information:</strong> As is the case with many sites, the Site logs your IP address and uses standard technology called "cookies," which are small data files that are downloaded onto your computer when you visit the Site. Cookies automatically identify your browser to the musicarts.com server whenever you interact with the Site. We use cookies and the information they provide to improve our services and the quality of your experience with the Site. If you prefer not to allow us to collect "cookie" information, you can disable the cookies by turning them off in your browser, although some areas of the Site may not function properly if you do. We do not link IP addresses to your name, email address or other Personal Information. This means that your session will be tracked, but you will not be personally identified. However, certain kinds of cookies allow us to store certain information of yours so you can save time in filling out forms on the Site. We only send this type of cookie to your browser when you have provided your consent for us to save your profile information.</p>
-		<p><strong>Web Beacons and Clear GIFs:</strong> The Site may also use pieces of code called "web beacons" or "clear gifs" to obtain certain types of information when your Web browser accesses the Site or when you are provided the opportunity to complete surveys, participate in a sweepstakes or other incentives, or open or respond to any newsletter or other email you may have received from the Site. These web beacons or clear GIFs may also be used to deliver cookies that conform to our cookie policy.</p>
+		<p><strong>Web Beacons and Clear GIFs:</strong> The Site may also use pieces of code called "web beacons" or "clear GIFs" to obtain certain types of information when your Web browser accesses the Site or when you are provided the opportunity to complete surveys, participate in a sweepstakes or other incentives, or open or respond to any newsletter or other email you may have received from the Site. These web beacons or clear GIFs may also be used to deliver cookies that conform to our cookie policy.</p>
 		<p><strong>Use of Information From Third Parties:</strong> Music &amp; Arts may use consumer information obtained from third party providers for a variety of purposes, including improving the accuracy of our customer database, to increase our understanding of our customer database, to increase our understanding of our customers, to identify potential new customers and to better tailor our advertising to our customers.</p>
-		<p><strong>Third-Party Optimization Providers and Cookie Opt-Out:</strong> We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and cookies provided by our marketing company on this site. The type of information we collect includes information provided by the customer (including information necessary to complete transactions), IP addresses, cookie information (and other information that tracks browsing and purchasing history). By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can “opt-out" of our ability to analyze such data by clicking&nbsp;<a href="http://www.adobe.com/privacy/opt-out.html"><strong>here</strong></a>.</p>
-		<p><strong>Third Party Advertising Partners:</strong> We may share your personally-identifiable information, including your name, address, email address, as well as a record of any transactions you conduct on our website or offline with us with third-party advertising partners and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partners will make the data we provide it anonymous when utilized in advertising. To learn more about the use of this information or choose not to have this information used by our third-party advertising partners by opting out, please visit the Network Advertising Initiative by <a href="http://www.networkadvertising.org/managing/opt_out.asp"><strong>clicking here</strong></a>.</p>
+		<p><strong>Third-Party Optimization Providers and Cookie Opt-Out:</strong> We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use web beacons and cookies provided by our marketing company on this site. The type of information we collect includes information provided by the customer (including information necessary to complete transactions), IP addresses, cookie information (and other information that tracks browsing and purchasing history). By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interesting to our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can “opt-out" of our ability to analyze such data by clicking&nbsp;<a href="//www.adobe.com/privacy/opt-out.html"><strong>here</strong></a>.</p>
+		<p><strong>Third Party Advertising Partners:</strong> We may share your personally-identifiable information, including your name, address, email address, as well as a record of any transactions you conduct on our website or offline with us with third-party advertising partners and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partners will make the data we provide it anonymous when utilized in advertising. To learn more about the use of this information or choose not to have this information used by our third-party advertising partners by opting out, please visit the Network Advertising Initiative by <a href="//www.networkadvertising.org/managing/opt_out.asp"><strong>clicking here</strong></a>.</p>
 		<h2>How Else Does Music &amp; Arts Use Information That It Collects from the Site?</h2>
 		<p>As well as using information about you for the specific purposes set out above, we may also use information about visitors to the Site to monitor consumer interest in our range of products and services, to troubleshoot problems that may arise on our Site, to protect against fraud or other criminal activity on our Site and other websites, to customize your user experience on the Site, to notify you of product or service offerings that we think may be of interest to you, to inform you about special promotions, and to assist us in tailoring our product lines, our services, and the content of the Site to our online visitors' needs by collecting information about their preferences through tracking patterns of page-viewing on the Site. To assist in this, at certain times, we create a profile relating to you in order to show you the content that we think you might be interested in and to display the content according to your preferences. We may also share data we collect about you, your devices and other visitors to the Site in an anonymous or aggregated form with our business partners and others.</p>
 		<p>Music &amp; Arts may disclose information about individual users to third parties who provide services to Music &amp; Arts and who agree to maintain the confidentiality of such information in accordance with this Privacy Policy. These third parties provide a variety of services to Music &amp; Arts, including, without limitation, fulfilling product orders, managing or hosting the Site, helping create new content and promotions for the Site, and sending or coordinating the sending of marketing communications to users who have consented to receive such materials. In situations where you have supplied your information in connection with a question or request for information about a product or service offered by one of our business partners, we may also send the information you have supplied to the business partners that offer such products or services.</p>
@@ -186,13 +227,13 @@ if(typeof(checkOmnitureClientUpdates) == 'function') checkOmnitureClientUpdates(
 		<p>Our security and privacy policies are periodically reviewed and enhanced as required and only authorized individuals are permitted access to the information that you provide to us. We take physical, technical and administrative measures to safeguard against unauthorized disclosures of Personal Information, however; we cannot guarantee that these measures will prevent breaches of the integrity and security of our network and systems, or that Personal Information will never be accessed or acquired by unauthorized persons, notwithstanding the safeguards we have in place.</p>
 		<p>You hereby acknowledge that Music &amp; Arts is not responsible for any intercepted information sent via the Internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner.</p>
 		<p>Instant SSL Certificate Secure site provided by <a href="https://secure.comodo.net/ttb_searcher/trustlogo?v_querytype=W&amp;v_shortname=SC2&amp;v_search=www.musicarts.com&amp;x=6&amp;y=5">Comodo.</a></p>
-    <a href="https://secure.comodo.net/ttb_searcher/trustlogo?v_querytype=W&amp;v_shortname=SC2&amp;v_search=www.musicarts.com&amp;x=6&amp;y=5"><img src="http://www.musicarts.com/includes/MusicArts/Images/asecure_white.gif"></a>
+    <a href="https://secure.comodo.net/ttb_searcher/trustlogo?v_querytype=W&amp;v_shortname=SC2&amp;v_search=www.musicarts.com&amp;x=6&amp;y=5"><img src="//www.musicarts.com/includes/MusicArts/Images/asecure_white.gif"></a>
 		<h2>External Links</h2>
 		<p>The Site provides links to various websites operated by third parties including, but not limited to, third party sites that display the Music &amp; Arts trademarks.&nbsp; This Privacy Policy does not apply to third party websites that are accessible through the Music &amp; Arts site. When you click on one of these links, you will be transferred out of our website and connected to the website of the organization or company that maintains that website. Even if an affiliation exists between our Site and a third party website, we exercise no control over linked sites. Each of these linked sites maintains its own independent privacy and data collection policies and procedures. We encourage you to read the privacy policies of those other websites to learn how they collect, use, share and secure your information before providing any personal information.</p>
 		<h2>Terms And Modifications to Privacy Policy</h2>
-		<p>By using the Site, you agree to the terms of our Privacy Policy. If you do not agree with these terms, you should not use the Site. Music &amp; Arts may modify this Privacy Policy at any time. If a material change is made to this Privacy Policy and/or the way we use our users' personal identifiable information, then we will post notice of that change on the first page of this Privacy Policy. You are responsible for reviewing this Privacy Policy periodically to ensure that you are aware of any changes to it. Your continued use of the Site constitutes your consent to any changes to this Privacy Policy.</p>
+		<p>By using the Site, you agree to the terms of our Privacy Policy. If you do not agree with these terms, you should not use the Site. Music &amp; Arts may modify this Privacy Policy at any time. If a material change is made to this Privacy Policy and/or the way we use our users' personally-identifiable information, then we will post notice of that change on the first page of this Privacy Policy. You are responsible for reviewing this Privacy Policy periodically to ensure that you are aware of any changes to it. Your continued use of the Site constitutes your consent to any changes to this Privacy Policy.</p>
 		<h2>Collection Of Children’s Personal Information</h2>
-		<p>Music &amp; Arts is committed to protecting the privacy of children. The Site is not directed to children under the age of 13, and Music &amp; Arts does not collect or maintain personal information online from children we actually know are under the age of 13. Should we discover that we have collected personal information online from a child who is under 13, we will promptly delete that personal information.  If you have concerns over the collection of children’s personal information online, please contact us at the address below.</p>
+		<p>Music &amp; Arts is committed to protecting the privacy of children. The Site is not directed towards children under the age of 13, and Music &amp; Arts does not collect or maintain personal information online from children we actually know are under the age of 13. Should we discover that we have collected personal information online from a child who is under 13, we will promptly delete that personal information.  If you have concerns over the collection of children’s personal information online, please contact us at the address below.</p>
 		<h2>How to Contact</h2>
 		<p>If you have any questions or concerns about this Privacy Policy and/or if you want to exercise any of the rights that you are given under this Privacy Policy, please contact us by mail at:<br>
 		</p><ul>
@@ -216,6 +257,7 @@ if(typeof(checkOmnitureClientUpdates) == 'function') checkOmnitureClientUpdates(
 		<p>Music &amp; Arts restricts access to your personal and account information to those employees who need to know that information to provide products or services to you. Music &amp; Arts provides physical, electronic, and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.</p>
 	</div>
 </div>
+ 
     </div>
 
 
@@ -223,7 +265,7 @@ if(typeof(checkOmnitureClientUpdates) == 'function') checkOmnitureClientUpdates(
             </div>
 
 
-<!-- MVC Top Nav Rendered On: 11/17/2014 10:30:34 PM -->
+<!-- MVC Top Nav Rendered On: 6/7/2015 10:27:11 AM -->
 
 <!-- Off Canvas Navigation (Mobile) -->
 <aside class="left-off-canvas-menu">
@@ -232,6 +274,7 @@ if(typeof(checkOmnitureClientUpdates) == 'function') checkOmnitureClientUpdates(
                 <span class="count" data-ng-bind="cartItemCount">0</span> <ng-pluralize count="cartItemCount ? cartItemCount : 0" when="{'one': 'Item', 'other': 'Items'}"></ng-pluralize>
             </div>
             <div class="cart-summary-actions"><a href="http://www.musicarts.com/Cart" class="button secondary needsclick">View Cart</a><a href="http://www.musicarts.com/Cart" class="button needsclick">Checkout</a></div>
+			<a class="exit-off-canvas">×</a>
         </div>
     <a href="http://www.musicarts.com/" class="home needsclick">Home</a>
     <div id="main-nav">
@@ -245,23 +288,32 @@ if(typeof(checkOmnitureClientUpdates) == 'function') checkOmnitureClientUpdates(
                                     <li id="navSection575">	
                                         <a href="http://www.musicarts.com/Woodwinds.mac" class="needsclick">Woodwinds</a>
                                     </li>
-                                    <li id="navSection3704">	
-                                        <a href="http://www.musicarts.com/Woodwind-Accessories-Woodwinds.mac" class="needsclick">Woodwind Accessories</a>
-                                    </li>
                                     <li id="navSection566">	
                                         <a href="http://www.musicarts.com/Brass-Instruments.mac" class="needsclick">Brass</a>
+                                    </li>
+                                    <li id="navSection3704">	
+                                        <a href="http://www.musicarts.com/Woodwind-Accessories-Woodwinds.mac" class="needsclick">Woodwind Accessories</a>
                                     </li>
                                     <li id="navSection3632">	
                                         <a href="http://www.musicarts.com/Brass-Accessories-Brass-Instruments.mac" class="needsclick">Brass Accessories</a>
                                     </li>
-                                    <li id="navSection567">	
-                                        <a href="http://www.musicarts.com/Concert-Percussion.mac" class="needsclick">Concert &amp; Marching Percussion</a>
+                                    <li id="navSection565">	
+                                        <a href="http://www.musicarts.com/Guitars.mac" class="needsclick">Guitars</a>
+                                    </li>
+                                    <li id="navSection1296">	
+                                        <a href="http://www.musicarts.com/Folk---Traditional-Instruments.mac" class="needsclick">Ukuleles &amp; Folk Instruments</a>
                                     </li>
                                     <li id="navSection568">	
                                         <a href="http://www.musicarts.com/Drum---Percussion.mac" class="needsclick">Drums &amp; Percussion</a>
                                     </li>
+                                    <li id="navSection567">	
+                                        <a href="http://www.musicarts.com/Concert-Percussion.mac" class="needsclick">Concert &amp; Marching Percussion</a>
+                                    </li>
                                     <li id="navSection572">	
                                         <a href="http://www.musicarts.com/Orchestral-Strings.mac" class="needsclick">Orchestral Strings</a>
+                                    </li>
+                                    <li id="navSection3411">	
+                                        <a href="http://www.musicarts.com/Accessories.mac" class="needsclick">General Accessories</a>
                                     </li>
                                     <li id="navSection573">	
                                         <a href="http://www.musicarts.com/Books--Sheet-Music---Media.mac" class="needsclick">Books, Sheet Music &amp; Media</a>
@@ -275,26 +327,16 @@ if(typeof(checkOmnitureClientUpdates) == 'function') checkOmnitureClientUpdates(
                                     <li id="navSection574">	
                                         <a href="http://www.musicarts.com/Pro-Audio.mac" class="needsclick">Pro Audio &amp; Software</a>
                                     </li>
-                                    <li id="navSection565">	
-                                        <a href="http://www.musicarts.com/Guitars.mac" class="needsclick">Guitars</a>
-                                    </li>
                                     <li id="navSection1213">	
                                         <a href="http://www.musicarts.com/Bass.mac" class="needsclick">Basses</a>
                                     </li>
-                                    <li id="navSection1296">	
-                                        <a href="http://www.musicarts.com/Folk---Traditional-Instruments.mac" class="needsclick">Folk &amp; Traditional</a>
-                                    </li>
-                                    <li id="navSection3411">	
-                                        <a href="http://www.musicarts.com/Accessories.mac" class="needsclick">General Accessories</a>
+                                    <li id="navSection101596">	
+                                        <a href="http://www.musicarts.com/Clearance-g5489t1.mac" class="needsclick">Clearance</a>
                                     </li>
                             </ul>
                     </li>
                     <li>
-							<a href="http://www.musicarts.com/Musical-Instrument-Rentals" class="needsclick">Rentals</a>
-
-                    </li>
-                    <li>
-							<a href="http://www.musicarts.com/MAC-Lessons-g20010t0.mac" class="needsclick">Take Lessons</a>
+							<a href="http://www.musicarts.com/Clearance-g5489t1.mac" class="needsclick">Clearance</a>
 
                     </li>
                     <li>
@@ -302,7 +344,11 @@ if(typeof(checkOmnitureClientUpdates) == 'function') checkOmnitureClientUpdates(
 
                     </li>
                     <li>
-							<a href="http://www.musicarts.com/Clearance-g5489t1.mac" class="needsclick">Hot Deals</a>
+							<a href="http://www.musicarts.com/Musical-Instrument-Rentals" class="needsclick">Rentals</a>
+
+                    </li>
+                    <li>
+							<a href="http://www.musicarts.com/MAC-Lessons-g20010t0.mac" class="needsclick">Take Lessons</a>
 
                     </li>
                     <li>
@@ -322,12 +368,12 @@ if(typeof(checkOmnitureClientUpdates) == 'function') checkOmnitureClientUpdates(
 <!-- /OLR Zip Code Modal -->
 
 
-<!-- CMS Footer Rendered On: 11/17/2014 10:30:34 PM -->
+<!-- CMS Footer Rendered On: 6/7/2015 10:27:11 AM -->
 
 <link type="text/css" rel="stylesheet" href="//www.musicarts.com/Home/FooterCss">
 <script type="text/javascript" src="//www.musicarts.com/Home/FooterJs"></script>
 
-<!-- Off Canvas Mini Cart --><aside class="right-off-canvas-menu">   <div class="tokenContainer mini-cart">[[MiniCart]]</div></aside><!-- /Off Canvas Mini Cart --> <!-- Footer --><footer>  <div class="row">    <div class="columns medium-4 medium-push-8">      <div class="head footer-email">Sign up for emails and receive a 10% coupon!</div>      <div class="footer-email-form">        <input type="email" placeholder="Email address">        <button onclick="subscribeEmail()">Subscribe</button>      </div>      <div class="footer-email-message head footer-email"></div>      <ul class="social clearfix">        <li class="facebook"><a target="_blank" href="https://www.facebook.com/MusicArtsFan">Facebook</a></li>        <li class="twitter"><a target="_blank" href="https://twitter.com/MusicArtsFan">Twitter</a></li>        <li class="google"><a target="_blank" href="https://plus.google.com/u/2/b/102420181987801440144/102420181987801440144/about">Google</a></li>        <li class="vimeo"><a target="_blank" href="http://www.vimeo.com/MusicArtsFan">Vimeo</a></li>        <li class="pinterest"><a target="_blank" href="http://www.pinterest.com/MusicArtsFan">Pinterest</a></li>      </ul>    </div>    <div class="columns medium-8 medium-pull-4">      <dl class="accordion" data-accordion="">      <dt></dt>        <dd><a href="#footernav1">Customer Service</a>          <div id="footernav1" class="content">            <ul>              <li><a href="//www.musicarts.com/MAC---Contact-Us-Landing-Page-g20071t0.mac">Contact Us</a></li>              <li><a href="//www.musicarts.com/MAC-FAQ-g20002t0.mac">FAQ</a></li>              <li><a href="//www.musicarts.com/TrackOrder">Track My Order</a></li>              <li><a href="//www.musicarts.com/MAC-Music-Resources-g20003t0.mac">Resources</a></li>              <li><a href="//www.musicarts.com/Site-Map-g25728t0.mac">Site Map</a></li>            </ul>          </div>        </dd>        <dd> <a href="#footernav2">Policies &amp; Services</a>          <div id="footernav2" class="content">            <ul>              <li><a href="//www.musicarts.com/30-Day-Price-Match-Guarantee-g26309t0.mac">Price Match</a></li>              <li><a href="//www.musicarts.com/Wishlist">Wish List</a></li>              <li><a href="//www.musicarts.com/Music---Arts---Gift-Certificates-g26603t0.mac">Gift Certificates</a></li>              <li><a href="//www.musicarts.com/MAC-FAQ-g20002t0.mac#TabtoAcc-Base2">Shipping</a></li>              <li><a href="//www.musicarts.com/MAC-FAQ-g20002t0.mac#TabtoAcc-Base3">Returns</a></li>            </ul>          </div>        </dd>        <dd> <a href="#footernav3">About Music &amp; Arts</a>          <div id="footernav3" class="content">            <ul>              <li><a href="//www.musicarts.com/MAC-About-Page-g20004t0.mac">Corporate</a></li>              <li><a href="//www.musicarts.com/Affiliate-Programs-g26944t0.mac">Affiliates</a></li>              <li><a href="//www.musicarts.com/encore/signup">Encore Rewards</a></li>              <li><a href="//www.musicarts.com/Press-Room-g26972t0.mac">Press</a></li>              <li><a href="//www.musicarts.com/MAC-Employment-g20005t0.mac">Careers</a></li>            </ul>          </div>        </dd>      </dl>    </div>  </div></footer><!-- /Footer --> <!-- Post Footer --><div id="footer-post">  <div class="row">    <div class="columns medium-8 text-center medium-push-2">      <p ng-controller="currentYear">© {{date | date:'yyyy'}} Music &amp; Arts. All rights reserved. <a class="terms-of-use" href="//www.musicarts.com/MAC-Terms-of-Use-g20007t0.mac">Terms &amp; Conditions</a> <a href="//www.musicarts.com/Privacy-Policy-g20006t0.mac">Privacy Policy</a></p><p class="print-address">Music &amp; Arts<br>4626 Wedgewood Blvd.<br>Frederick, MD 21703<br>888-731-5396<br>http://www.musicarts.com</p>    </div>    <div class="columns medium-2 medium-pull-8 end footer-icons"></div>  </div></div><!-- /Post Footer -->
+<!-- Off Canvas Mini Cart --><aside class="right-off-canvas-menu">   <div class="tokenContainer mini-cart">[[MiniCart]]</div></aside><!-- /Off Canvas Mini Cart --> <!-- Footer --><footer>  <div class="row">    <div class="columns medium-4 medium-push-8">      <div class="head footer-email">Sign up for emails and receive a 10% coupon!</div>      <div class="footer-email-form">        <input type="email" placeholder="Email address">        <button onclick="subscribeEmail()">Subscribe</button>      </div>      <div class="footer-email-message head footer-email"></div>      <ul class="social clearfix">        <li class="facebook"><a target="_blank" href="https://www.facebook.com/MusicArtsFan">Facebook</a></li>        <li class="twitter"><a target="_blank" href="https://twitter.com/MusicArtsFan">Twitter</a></li>        <li class="google"><a target="_blank" href="https://plus.google.com/u/2/b/102420181987801440144/102420181987801440144/about">Google</a></li>        <li class="vimeo"><a target="_blank" href="//www.vimeo.com/MusicArtsFan">Vimeo</a></li>        <li class="pinterest"><a target="_blank" href="//www.pinterest.com/MusicArtsFan">Pinterest</a></li><li class="blog"><a target="_blank" href="//thevault.musicarts.com/">Blog</a></li>      </ul>    </div>    <div class="columns medium-8 medium-pull-4">      <dl class="accordion" data-accordion="">      <dt></dt>        <dd><a href="#footernav1">Customer Service</a>          <div id="footernav1" class="content">            <ul>              <li><a href="//www.musicarts.com/MAC---Contact-Us-Landing-Page-g20071t0.mac">Contact Us</a></li>              <li><a href="//www.musicarts.com/MAC-FAQ-g20002t0.mac">FAQ</a></li>              <li><a href="//www.musicarts.com/TrackOrder">Track My Order</a></li>              <li><a href="//www.musicarts.com/MAC-Music-Resources-g20003t0.mac">Resources</a></li>              <li><a href="//www.musicarts.com/Site-Map-g25728t0.mac">Site Map</a></li>            </ul>          </div>        </dd>        <dd> <a href="#footernav2">Policies &amp; Services</a>          <div id="footernav2" class="content">            <ul>              <li><a href="//www.musicarts.com/30-Day-Price-Match-Guarantee-g26309t0.mac">Price Match</a></li>              <li><a href="//www.musicarts.com/Wishlist">Wish List</a></li>              <li><a href="//www.musicarts.com/Music---Arts---Gift-Certificates-g26603t0.mac">Gift Certificates</a></li>              <li><a href="//www.musicarts.com/MAC-FAQ-g20002t0.mac#TabtoAcc-Base2">Shipping</a></li>              <li><a href="//www.musicarts.com/MAC-FAQ-g20002t0.mac#TabtoAcc-Base3">Returns</a></li>            </ul>          </div>        </dd>        <dd> <a href="#footernav3">About Music &amp; Arts</a>          <div id="footernav3" class="content">            <ul>              <li><a href="//www.musicarts.com/MAC-About-Page-g20004t0.mac">Corporate</a></li>              <li><a href="//www.musicarts.com/Affiliate-Programs-g26944t0.mac">Affiliates</a></li>              <li><a href="//www.musicarts.com/encore/signup">Encore Rewards</a></li>              <li><a href="//www.musicarts.com/Press-Room-g26972t0.mac">Press</a></li>              <li><a href="//musicartscareers.silkroad.com/">Careers</a></li>            </ul>          </div>        </dd>      </dl>    </div>  </div></footer><!-- /Footer --> <!-- Post Footer --><div id="footer-post">  <div class="row">    <div class="columns medium-8 text-center medium-push-2">      <p ng-controller="currentYear">© {{date | date:'yyyy'}} Music &amp; Arts. All rights reserved. <a class="terms-of-use" href="//www.musicarts.com/MAC-Terms-of-Use-g20007t0.mac">Terms &amp; Conditions</a> <a href="//www.musicarts.com/Privacy-Policy-g20006t0.mac">Privacy Policy</a></p><p class="print-address">Music &amp; Arts<br>4626 Wedgewood Blvd.<br>Frederick, MD 21703<br>888-731-5396<br>//www.musicarts.com</p>    </div>    <div class="columns medium-2 end footer-icons"><div class="row"><div class="columns" style="width: auto;"><div id="GTS_CONTAINER"></div></div></div>    </div>  </div></div><!-- /Post Footer -->
 
 <!-- Google Analytics Tracking Tag -->
 <script type="text/javascript">
@@ -346,7 +392,7 @@ if(typeof(checkOmnitureClientUpdates) == 'function') checkOmnitureClientUpdates(
             <!--BEGIN ANALYTICS-->
             <script type="text/javascript">
 function omnitureStripCharacters(input) { var ret = input.replace(/\&\w+;|%\d{2}|[^A-Za-z0-9\s.&]/gi, ''); ret = ret.replace(/&/gi, 'and'); ret = ret.toLowerCase(); return ret; }
-var s_account = 'musicartsprod,gciglobalprod';
+var s_account = 'musicartsprod';
 var omnitureInternalFilters = 'javascript:,musicarts.com,www.musicarts.com';
 $.urlParam = function(name){ var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href); if(results != null && results.length > 0) { return results[1]; } else { return ''; } }
 function getOmnitureCookie(name) { var nameEQ = name + '='; var ca = document.cookie.split(';'); for (var i = 0; i < ca.length; i++) { var c = ca[i]; while (c.charAt(0) == ' ') c = c.substring(1, c.length); if (c.indexOf(nameEQ) == 0) { return $.trim(c.substring(nameEQ.length, c.length).toLowerCase()); } } return ''; }
@@ -355,14 +401,14 @@ function getOmnitureSourceCode() { var source = ''; var history = ''; var urlSou
 var omnitureCampaign = ''; if(typeof getOmnitureSourceCode != 'undefined') omnitureCampaign = omnitureStripCharacters(getOmnitureSourceCode());
 </script>
 
-<script type="text/javascript" src="/Includes/Common/Scripts/s_code.js"></script><div id="mboxScriptContainer" style="display:none;visibility:hidden;"></div><style>.mboxDefault{visibility:hidden;}</style>
-<script type="text/javascript" src="/Includes/Common/Scripts/OmnitureTracking.js"></script>
-<script type="text/javascript" src="/Includes/Common/Scripts/s_code_extras.js"></script>
+<script src="/bundles/scripts/omniture.js?v=bSmc3WjZa0waJ6B1K-85el-JyfDy-6xOSspAttuXLBY1"></script>
+
 <script type="text/javascript">
 var omnitureFormValidationImagePath = '/includes/Common/images/arrowLeft.gif';
 if(typeof(omnitureMapFormErrorValues) == 'function') omnitureMapFormErrorValues();
 </script>
 <script type="text/javascript">
+if (typeof s == 'object' && s) {
 s.pageType = '';
 s.pageName = '[ma] privacy policy | mac';
 s.server = 'www.musicarts.com';
@@ -379,19 +425,37 @@ s.prop4 = '[ma] privacy policy mac';
 s.prop5 = '[ma] privacy policy mac';
 s.prop6 = '[ma] privacy policy mac';
 s.prop7 = '[ma] privacy policy | mac';
+}
 </script>
 <script language="JavaScript" type="text/javascript"><!--
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+if(typeof s == 'object' && s){var s_code=s.t();if(s_code)document.write(s_code);}//--></script>
 <script language="JavaScript" type="text/javascript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script><noscript>
-<img src="http://musicartsprod.112.2O7.net/b/ss/musicartsprod/1/H.20.3--NS/0"  height="1" width="1" border="0" alt="" />
+<img src="//musicartsprod.112.2O7.net/b/ss/musicartsprod/1/H.20.3--NS/0"  height="1" width="1" border="0" alt="" />
 </noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.24. -->
 
+<!-- BEGIN: Google Trusted Stores -->
+<script type="text/javascript">
+var gts = gts || [];
+gts.push(["id", "520129"]);
+gts.push(["badge_position", "USER_DEFINED"]);
+gts.push(["badge_container", "GTS_CONTAINER"]);
+gts.push(["locale", "en_US"]);
+(function () {
+var gts = document.createElement("script");
+gts.type = "text/javascript";
+gts.async = true;
+gts.src = "https://www.googlecommerce.com/trustedstores/api/js";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(gts, s);
+})();
+</script>
+<!-- END: Google Trusted Stores -->
 
             <!--END ANALYTICS-->
-            <div id="spnGoogle" style="margin:0;padding:0;height:0"></div>
+            <div id="spnGoogle" style="margin: 0; padding: 0; height: 0"></div>
             <!-- Required by Foundation. Do not change or move -->
             <a class="exit-off-canvas"></a>
         </div>
