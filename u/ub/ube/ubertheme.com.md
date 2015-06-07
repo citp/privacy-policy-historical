@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubertheme.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127005213id_/http%3A//www.ubertheme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubertheme.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607150305id_/http%3A//www.ubertheme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UberTheme
 
