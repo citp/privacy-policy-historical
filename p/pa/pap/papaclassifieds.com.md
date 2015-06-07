@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papaclassifieds.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029121828id_/http%3A//papaclassifieds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papaclassifieds.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074037id_/http%3A//papaclassifieds.com/privacy-policy-35) for the most accurate reproduction.*
 
 # Privacy Policy -
 
