@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zapiro.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120123030id_/http%3A//www.zapiro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zapiro.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607233003id_/http%3A//www.zapiro.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
