@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the oldorchard.com privacy policy that was archived on 2014-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122080424id_/http%3A//oldorchard.com/about/company/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oldorchard.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607174402id_/http%3A//oldorchard.com/about/company/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -691,12 +691,12 @@ input.taller
 
     <style type="text/css">
       #header { background: url(/assets/images/html-header/about_bg.jpg) top center; }
-      #header nav .nav-wrapper .header-things .billboard {display: block;}
-      #header nav .nav-wrapper .header-things .tree_left {display: block;}
-      #header nav .nav-wrapper .header-things .tree_right {display: block;}
+      #header .header-things .billboard {display: block;}
+      #header .header-things .tree_left {display: block;}
+      #header .header-things .tree_right {display: block;}
 
       @media (max-width: 520px) {
-        nav .nav-wrapper .header-things .billboard {top: 85px; width: 300px;}
+        .header-things .billboard {top: 85px; width: 300px;}
         #header {height: 200px; background: #8adeff;}
       }
     </style>
@@ -718,16 +718,18 @@ input.taller
   <div id="header">
     <div id="headreplace">
 
-
-    <nav class="container-fluid">
-      <div class="nav-wrapper">
-        <div class="header-things">
+      <div class="header-things">
+        <div class="header-things-inner">
           <div class="tree_left"></div>
           <div class="tree_right"></div>
 
                       <img class="billboard" src="http://oldorchard.com/uploads//billboards/logo-about-us.png">
           
         </div>
+      </div>
+
+    <nav class="container-fluid">
+      <div class="nav-wrapper">
 
         <ul class="nav nav-pills">
           <li id="logo">
@@ -755,11 +757,11 @@ input.taller
             <a href="/club">Fan Club</a>
           </li>
           <li id="nav-menu" class="dropdown">
-            <a class="dropdown-toggle nav-menu-text-menu" data-toggle="dropdown" href="#">
+            <a class="dropdown-toggle nav-menu-text-menu" href="#">
               Menu
               <b class="caret"></b>
             </a>
-            <a class="dropdown-toggle nav-menu-text-more" data-toggle="dropdown" href="#">
+            <a class="dropdown-toggle nav-menu-text-more" href="#">
               More...
               <b class="caret"></b>
             </a>
@@ -1056,7 +1058,7 @@ Sparta, MI 49345<br>
 
      <form id="ajax_login_form" method="post" action="http://oldorchard.com/">
 <div class="hiddenFields">
-<input type="hidden" name="XID" value="eb93ada2ba18cf2860900372c947c512dfb2a143">
+<input type="hidden" name="XID" value="f1b3f87a924418beb117a75262b70aa4a28723a4">
 <input type="hidden" name="ACT" value="9">
 <input type="hidden" name="RET" value="-2">
 <input type="hidden" name="site_id" value="1">
@@ -1195,6 +1197,21 @@ Sparta, MI 49345<br>
     }
   }
 </script>
+
+<div id="fb-root"></div>
+<script>
+window.fbAsyncInit = function() {
+	FB._https = (window.location.protocol == "https:"); // Required because FB Javascript SDK tries to submit https to http
+	FB.init({appId:"215524161885797", version:"v2.1", cookie:true, status:true, xfbml:true, oauth:true});
+};
+(function(d, s, id){
+		   var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) {return;}
+		   js = d.createElement(s); js.id = id;
+		   js.src = "//connect.facebook.net/en_US/sdk.js";
+		   fjs.parentNode.insertBefore(js, fjs);
+		 }(document, 'script', 'facebook-jssdk'));
+</script>
+
 
 
 
