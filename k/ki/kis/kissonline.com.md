@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kissonline.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122145536id_/http%3A//www.kissonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kissonline.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607035133id_/http%3A//www.kissonline.com/privacy) for the most accurate reproduction.*
 
 # KISS Online :: Privacy Policy | Official KISSOnline.com Privacy Policy
 
-**This web site is powered by products and services from BubbleUp Ltd. (BubbleUp). BubbleUp's privacy policy is below.**
+**This web site is powered by products and services from BubbleUp LLC. (BubbleUp). BubbleUp's privacy policy is below.**
 
 **For KISSOnline's privacy policy, please contact them directly.**
 
