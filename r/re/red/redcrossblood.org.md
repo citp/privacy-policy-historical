@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the redcrossblood.org privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228132820id_/http%3A//www.redcrossblood.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcrossblood.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144354id_/http%3A//www.redcrossblood.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | American Red Cross
+
+  * [ Home ](https://web.archive.org/) ›
+  * Privacy Policy 
+
+
 
 The American Red Cross respects the privacy of every visitor to our website. Your privacy is a priority, and we go to great lengths to protect it. This Internet Site Privacy Policy explains our online information practices. This Policy may be changed or updated from time to time. By visiting the Red Cross at [www.redcross.org](http://www.redcross.org/), you accept the practices described in this Policy.
 
