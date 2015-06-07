@@ -1,1041 +1,587 @@
-<!--The following is the downloaded HTML source of the faniq.com privacy policy that was archived on 2014-10-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141007220751id_/http%3A//www.faniq.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the faniq.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607213628id_/http%3A//www.faniq.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
-    
-                        <link rel="canonical" href="//www.faniq.com/privacy.php"> 
-                
-    <title>FanIQ - Privacy Policy</title>
-    <base href="http://www.faniq.com/" target="_top">
-    <meta property="og:title" content="FanIQ - Privacy Policy"><meta property="og:type" content="website"><meta property="og:image" content="//cdn.faniq.com/img/faniq_main_header_logo2.png"><meta property="og:url" content="http://www.faniq.com/privacy.php"><meta property="og:site_name" content="FanIQ"><meta property="fb:app_id" content="132381682187"><meta name="apple-itunes-app" content="app-id=694652942, affiliate-data=at=11l9WH&amp;ct=t0315.SmartAppBanner"><meta name="google-play-app" content="app-id=com.rumble.faniq">			
-    <link rel="stylesheet" type="text/css" href="http://cdn.faniq.com/cache/09319c2b9b08b40060d8775d328ea0c6-css.css" id="faniqcsscache">
-    <style type="text/css">
-    /* Header styling**/
-    
-.topheadheader { 
-        font-family: 'ChunkFiveRegular', Arial, Helvetica, sans-serif;
-	text-transform: uppercase;
-	font-weight: normal;
-	font-size: 10pt;
-        color: #FF6600;
-        height: 25px; 
-        background: none !important;
-        margin-top: 8px;
+<!DOCTYPE html><html class=" js no-touch" style=""><head>
         
-}
+        <link rel="icon" href="/assets/av/images/ui/av-favicon2.ico" type="image/x-icon">
 
-    </style>
-  
-   <!-- //  jsIncludeFiles -->
- <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script language="javascript" type="text/javascript" src="http://cdn.faniq.com/cache/471cbdffc6ab644e60372e388d3a50b9-javascript.js"></script>
-<script language="javascript" type="text/javascript" src="http://cdn.faniq.com/js/scriptaculous/scriptaculous.js?load=effects"></script>
- 
- <script type="text/javascript"> 
-               var isLoggedIn = false;
-                		FBLoginStatusCheck = true;
-                                		FBLoginCheck = true;
-                                
-                    // THIS SHOULD GO RIGHT UP AT THE TOP
-		window.fbAsyncInit = function() {
-		    FB.init({
-		      appId      : FBAPIKey, // App ID
-		      channelURL : '//' + window.location.hostname + '/channel.php', // Channel File
-		      status     : FBLoginStatusCheck, // check login status
-		      cookie     : true, // enable cookies to allow the server to access the session
-		      oauth      : true, // enable OAuth 2.0
-		      xfbml      : true  // parse XFBML
-		    });
-			 
-               //* CBc Moved to function to use with FB.Event.subscribe*/
-                var performFBLogin = function(){ 
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Privacy Policy</title>
 
-                        // check to see if user is already fb connected - if so, automatically log them in
-                                FB.getLoginStatus(function(response) {
-                                        if (response.status === 'connected' && response.authResponse) {
-                                                if (typeof disableFBAutoLogin != 'undefined' && disableFBAutoLogin == true) {
-                                        return;
-                                    }
-                                    new Ajax.Request('/ajax/facebook/auto_signin.php', {onSuccess : function(response) {
-                                        var result;
-                                        try {
-                                            result = response.responseText.evalJSON();
-                                            if (result.success) {
-                                                window.location.href = window.location.href;
-                                            }
-                                        } catch (err) {}
-                                    }});
-                                        }
-                                });
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <meta name="format-detection" content="telephone=no">
+        
+        <style>
+        html, body {margin: 0; padding: 0; overflow-x: hidden}
+        </style>
 
-                       };
+        <link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800|Raleway:400,200,100,500,700,800,900&amp;subset=latin,latin-ext">
+        <style type="text/css">
+        .wf-loading p, .wf-loading h2{
+            visibility: hidden;
+        }
+        </style>
 
-                        FB.Event.subscribe('auth.login', performFBLogin);
+        <link type="text/css" rel="stylesheet" href="/assets/bootstrap-3.2.0-dist/css/bootstrap.min.css">
+        <link type="text/css" rel="stylesheet" href="/assets/av/css/globals-bootstrapoverrides.css">
+        <link type="text/css" rel="stylesheet" href="/assets/av/css/header-styles.css">
+        <link type="text/css" rel="stylesheet" href="/assets/av/css/home-fatfooter-styles.css">
 
-                       // <!-- facebook connect login check -->
-                        if (FBLoginCheck && ! isLoggedIn) {
-                                performFBLogin();
-                        }
-             
-	};
-            
-             (function(d, s, id) {
-		  var js, fjs = d.getElementsByTagName(s)[0];
-		  if (d.getElementById(id)) {return;}
-		  js = d.createElement(s); js.id = id; js.async = true;
-		  js.src = "//connect.facebook.net/en_US/all.js";
-		  fjs.parentNode.insertBefore(js, fjs);
-		}(document, 'script', 'facebook-jssdk'));
-            
-              
-               </script>
-   <!-- // END jsIncludeFiles -->
-   
-	 <!--jsIncludeScript -->
-        <script type="text/javascript">
+        
+
+        <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script>
+        <script src="/assets/av/js/lib/jquery-1.11.0.min.js" type="text/javascript"></script>
+        <script src="/assets/av/js/lib/jquery-browser.js" type="text/javascript"></script>
+        <script src="/assets/av/js/lib/modernizr.custom.34317.js" type="text/javascript"></script>
+        <script src="/assets/react-0.11.1/build/react.min.js" type="text/javascript"></script>
+
+        <script src="/assets/av/js/header.js" type="text/javascript"></script>
+
+        
+    
+    <link type="text/css" rel="stylesheet" href="/assets/av/css/home-privacylegal.css">
+    
 
 
-           $jq(document).ready(function(){
+        <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-             if(typeof $jq.fismartbanner != 'undefined'){
-               $jq.fismartbanner({
-                     //force: "ios"
-                     //force: "android"
-                 });
-            }
+        ga('create', 'UA-46804242-7', 'auto');
+        ga('send', 'pageview');
 
+        </script>
+        <script src="/assets/jquery-scrolldepth-0.6/jquery.scrolldepth.min.js"></script>
+        <script>
+        jQuery(function() {
+            jQuery.scrollDepth({
+                pixelDepth: false
+            });
         });
-</script>
-     <!-- // END jsIncludeScript -->
-	
-                          
-	<meta content="11f5a1a338a7f5651798f87457f80d6d" name="RepostUsAPIKey"> <!-- production -->
-	<!-- <meta content='2be3de7c143dbf6be3664a9b0807ddf9' name='RepostUsAPIKey' />--> <!-- dev -->
-	<!-- /RepostUS -->
-    
- <script type="text/javascript">
+        </script>
+    </head>
+    <body style="">
+        <header id="header">
+    <div id="av-toolbar"></div>
 
-var googletag = googletag || {};
-googletag.cmd = googletag.cmd || [];
-(function() {
-var gads = document.createElement('script');
-gads.async = true;
-gads.type = 'text/javascript';
-var useSSL = 'https:' == document.location.protocol;
-gads.src = (useSSL ? 'https:' : 'http:') + 
-'//www.googletagservices.com/tag/js/gpt.js';
-var node = document.getElementsByTagName('script')[0];
-node.parentNode.insertBefore(gads, node);
-})();
-</script>
+    <div id="avheader">
+        <div class="container">
+            <nav class="row">
+                <div class="navcol col-xs-12">
+                    <a class="logohomelockup hidden-xs" href="/"><img src="/assets/av/images/ui/av_logo_lockup.svg" alt="Allvoices.com"></a>
+                    <a class="logohome visible-xs" href="/"><img src="/assets/av/images/ui/av_logo.svg" alt="Allvoices.com"></a>
 
-
-
-<script type="text/javascript">
-
-var googleCode = function(){
-
-
-googletag.pubads().setTargeting('Sport', '4' );
-googletag.pubads().setTargeting('Team', '' );
-googletag.pubads().setTargeting('CType', 'misc');
-googletag.pubads().setTargeting('LoggedIn', 'n');
-googletag.pubads().setTargeting('FavTeam', ['']);
-googletag.pubads().setTargeting('FavSport', ['']);
-googletag.pubads().setTargeting('FavPlayer', ['']);
-googletag.pubads().setTargeting('traffic', '');
-
-googletag.defineSlot('/128002586/FIQ_160x600_ROS', [160, 600], 'div-gpt-ad-1364937491225-0').addService(googletag.pubads());
-googletag.defineSlot('/128002586/FIQ_1x1_ROS', [1, 1], 'div-gpt-ad-1364937491225-1').addService(googletag.pubads());
-googletag.defineSlot('/128002586/FIQ_300x250_ROS_BTF', [300, 250], 'div-gpt-ad-1364937491225-2').addService(googletag.pubads());
-googletag.defineSlot('/128002586/FIQ_300x50_ROS_ATF', [300, 50], 'div-gpt-ad-1364937491225-3').addService(googletag.pubads());
-googletag.defineSlot('/128002586/FIQ_300xFlex_ROS_ATF', [[300, 250], [300, 600]], 'div-gpt-ad-1364937491225-4').addService(googletag.pubads());
-googletag.defineSlot('/128002586/FIQ_728x90_ROS_ATF', [728, 90], 'div-gpt-ad-1364937491225-5').addService(googletag.pubads());
-googletag.defineSlot('/128002586/FIQ_728x90_ROS_BTF', [728, 90], 'div-gpt-ad-1364937491225-6').addService(googletag.pubads());
-googletag.defineSlot('/128002586/FIQ_88x31_Logo', [88, 31], 'div-gpt-ad-1364937491225-7').addService(googletag.pubads());
-googletag.defineSlot('/128002586/FIQ_948x60_Pushdown', [948, 60], 'div-gpt-ad-1364937491225-8').addService(googletag.pubads());
-
-googletag.pubads().enableAsyncRendering();
-googletag.pubads().enableSingleRequest();
-googletag.pubads().collapseEmptyDivs();
-//googletag.pubads().disableIntialLoad();
-googletag.enableServices();
-
-
-
-}
-   
-   //googletag.display('div-gpt-ad-1364937491225-5');    
-var atfads = function(){
-    
-      googletag.cmd.push(function() {
-            googleCode(); 
-           // display these right away
-            googletag.display('div-gpt-ad-1364937491225-5')
-           // googletag.display('div-gpt-ad-1364937491225-4');
-        });
-    }; 
-// wait for dom
-$jq(window).load(atfads); 
- // don't wait for dom
-//atfads();
-/*$jq(document).ready(function($){
-          $jq("div.lazyload_ad").lazyLoadAd(
-                    {threshold    : 200
-                    // ,debug: true
-                    }
-                );
-});    */
-
-
-</script>
- 	
-<script type="text/javascript">
-
-    $jq(window).load(function(){
-            $jq('#containerFanIQ').css('background-image', "url(//cdn.faniq.com/img/nav/bg_main_center.png)");
-            
-               ggv2id='2f4a10d6';
-               _qoptions={
-                     qacct:"p-c8DY-Sggey0To"
-                };    
-                    // high priority to the top. 
-                var sources = [ 'https://apis.google.com/js/plusone.js',// could potentially go to domready event
-                                //THis one needs to happen right away'//connect.facebook.net/en_US/all.js',
-                                '//platform.twitter.com/widgets.js',
-                                '//1.rp-api.com/rjs/repostus.js',
-                               // from footer
-                                '//g2.gumgum.com/javascripts/ggv2.js',
-                                '//edge.quantserve.com/quant.js',
-                                (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"
-                            ];
-                 
-                $jq(sources).each( function(ind, el){
-                    var opt = {
-                        url: el, 
-                        type:"GET", 
-                        dataType: "script", 
-                        cache: true,
-                        async: true,
-                        success: function(){
-                      //     console.log(el);
-                        }
-
-                    };
-                    $jq.ajax(opt);
-                });
-       
-});
-
-
-
-</script>
-
-                        <script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-500712-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-
-</head>
-
-<body id="containerFanIQ">
-	<div id="fb-root"></div>
-	
-    <script type="text/javascript" language="javascript">
-    
-              	<!--[if !(IE 7)]>if (top.location!= location) { top.location.replace(self.location.href); }<![endif]-->
-	
-	// load login popup after document load if requested
-                          </script>
-                              
-              
-              <!-- Begin comScore Tag -->
-                <script>
-                  var _comscore = _comscore || [];
-                  _comscore.push({ c1: "2", c2: "13216002" });
-//                  (function() {
-//                    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-//                    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-//                    el.parentNode.insertBefore(s, el);
-//                  })();
-                </script>
-                <noscript>
-                  <img data-src="http://b.scorecardresearch.com/p?c1=2&c2=13216002&cv=2.0&cj=1" />
-                </noscript>
-                <!-- End comScore Tag -->
-              
-
-              <div id="main" class="container_16"> 
-
-                                                  <!-- Top section container -->
-			<div id="topContainer">
-                         	<!-- Top Navigation and Bar -->
-				<div id="top"> 
-                                                                     <div style="float: left">
-                                         <a href="//www.faniq.com/privacy.php">
-                                           <h1 class="topheadheader">FanIQ </h1>
-                                         </a>
-                                     </div>
-                                                      <!-- social media --> 
-                    <ul>
-                        
-                        <!-- facebook like -->
-                        <li id="containerFBLike">
-                          <fb:like href="http://www.facebook.com/faniqsports" send="false" layout="button_count" width="90" show_faces="false" colorscheme="light">
-                          </fb:like>
-                        </li>
-                        <!-- google +1 button -->
-                        <li>
-                          <g:plusone size="medium" annotation="none" href="http://www.faniq.com/">
-                          </g:plusone>
-                          
-                        </li>
-                        <!-- twitter follow -->
-                        <li>
-                          <a href="https://twitter.com/FanIQ" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false" data-width="70px" title="Follow FanIQ on Twitter">Follow
-                          </a>
-                 
-                             
-                          
-                          
-                        </li>
-                        <!-- /social media -->
-
-                        <!-- login/register/logout links -->
-                                                                          <li><a href="javascript:showLoginPopup();">join now</a></li>
-                          <li><a href="javascript:showLoginPopup('login');">login</a></li>
-                          <li><div class="">
-                           <a href="#" onclick="doFacebookConnect(); return false;"><img data-src="//cdn.faniq.com/img/facebook_login_button.png"></a></div></li>
-                                            </ul>
+                    <div class="navdropdown visible-xs visible-sm">
+                        <a class="navitem" href="/current-events">Current Events</a>
+                        <a class="navitem" href="/business">Business</a>
+                        <a class="navitem" href="/science-tech">Science &amp; Tech</a>
+                        <a class="navitem" href="/sports">Sports</a>
+                        <a class="navitem" href="/entertainment">Entertainment</a>
+                        <a class="navitem" href="/lifestyle">Lifestyle</a>
+                        <a class="navitem" href="/travel">Travel</a>
+                        <a class="navitem" href="/brandspace">BrandSpace</a>
                     </div>
-                    <!-- /Top Noavigation and Bar -->
-                    <div id="logo">
-                        <a href="http://www.faniq.com/">
-                            <img class="notlazy" src="//cdn.faniq.com/img/nav/logo_faniq.png" border="0" alt="FanIQ">
+
+                    <div class="navsections hidden-xs hidden-sm">
+                        <a class="navitem" href="/current-events" id="/current-events"><div class="navpadding">Current Events</div></a>
+                        <a class="navitem" href="/business" id="/business"><div class="navpadding">Business</div></a>
+                        <a class="navitem" href="/science-tech" id="/science-tech"><div class="navpadding">Science &amp; Tech</div></a>
+                        <a class="navitem" href="/sports" id="/sports"><div class="navpadding">Sports</div></a>
+                        <a class="navitem" href="/entertainment" id="/entertainment"><div class="navpadding">Entertainment</div></a>
+                        <a class="navitem" href="/lifestyle" id="/lifestyle"><div class="navpadding">Lifestyle</div></a>
+                        <a class="navitem" href="/travel" id="/travel"><div class="navpadding">Travel</div></a>
+                        <a class="navitem" href="/brandspace" id="/brandspace"><div class="navpadding">BrandSpace</div></a>
+                    </div>
+
+                    <div id="searchdropnav" class="searchdropdown"></div>
+
+                    <script>
+                            
+                            if(window.location.pathname != '/')
+                                $("a[id*='" + window.location.pathname + "'] .navpadding").addClass("selected")
+                    </script>
+
+                    <div class="writerwrap">
+                        <a class="writetool" href="/mysession">
+                            <img class="origicon" src="/assets/av/images/ui/av_writetool.svg" alt="">
                         </a>
                     </div>
-		<!-- scoretracker FANC-100-->
-                    <div id="topbar">
-                        <ul>
-                             <li class="dropdown">
-                                        <a href="javascript:void(0);">SCORETRACKER</a>
-                                        <div class="detail transparent" style="display:none">
-                                            <div class="dHeader">
-                                                    <a href="javascript:void(0);" id="">SCORETRACKER</a>
-                                            </div>
-                                            <div class="dFooter">
-                                                    <ul id="dSport"></ul>
-                                            </div>
-                                        </div>
-                                </li>
-                                <li class="arrow"><a href="javascript:void(0);"><div class="arrow-left"></div></a></li> 
-                                        <div id="viewpan">
-                                                <div id="e-container"></div>
-                                        </div>
-                                <li class="arrow aright"><a href="javascript:void(0);"><div class="arrow-right"></div></a></li>
-                        </ul>
+
+                    <div class="navburger closed visible-xs visible-sm">
+                        <img src="/assets/av/images/ui/navburger.svg" alt="">
                     </div>
-				<!-- /scoretracker -->
-				<!-- Profile area and Ad Placement -->
-                    <div id="header">
-                            <div class="adplacement">
-                                    <!-- FIQ_728x90_ROS_ATF -->
-<div id="div-gpt-ad-1364937491225-5" style="width:728px; height:90px;" class="">
-</div>                            </div>
-                                                                                                                                                <div class="clear"></div>
-                    </div>
-                    <!-- /Profile area and Ad Placement -->
 
-                    <!-- Main and Sub Navigation -->
-                    <!-- main nav -->
-                    <div id="mainnav">
-                            <ul>
-                                                                                                                    <li class="dropdown active">
-                                                    <a href="/">Home</a>
-                                                    <div class="dropdown-expanded">
-                                                            <div class="column">
-                                                                    <ul>
-                                                                                                                                                                                                                    <li><a href="/blog">Fan Articles</a></li>
-                                                                                                                                        <li><a href="http://www.faniq.com/gamecenter/">Gamecenter</a></li>
-                                                                                                                                        <li><a href="/trivia">Trivia</a></li>
-                                                                                                                                        <li><a href="/quizzes">Quizzes</a></li>
-                                                                                                                                        <li><a href="/polls">Polls</a></li>
-                                                                                                                                        <li><a href="/photos">Photos</a></li>
-                                                                                                                                        <li><a href="/videos">Videos</a></li>
-                                                                                                                                                </ul>
-                                                            </div>
-                                                            <div class="clear"></div>
-                                                    </div>
-                                            </li>
-                                                                                <li class="dropdown ">
-                                                    <a href="/nfl/">NFL</a>
-                                                    <div class="dropdown-expanded">
-                                                            <div class="column">
-                                                                    <ul>
-                                                                                                                                                                                                                    <li><a href="/nfl/blog">Fan Articles</a></li>
-                                                                                                                                        <li><a href="http://www.faniq.com/gamecenter/s/nfl">Gamecenter</a></li>
-                                                                                                                                        <li><a href="/nfl/teams">Teams</a></li>
-                                                                                                                                        <li><a href="/nfl/trivia">Trivia</a></li>
-                                                                                                                                        <li><a href="/nfl/quizzes">Quizzes</a></li>
-                                                                                                                                        <li><a href="/nfl/polls">Polls</a></li>
-                                                                                                                                        <li><a href="/nfl/photos">Photos</a></li>
-                                                                                                                                        <li><a href="/nfl/videos">Videos</a></li>
-                                                                                                                                                </ul>
-                                                            </div>
-                                                            <div class="clear"></div>
-                                                    </div>
-                                            </li>
-                                                                                <li class="dropdown ">
-                                                    <a href="/mlb/">MLB</a>
-                                                    <div class="dropdown-expanded">
-                                                            <div class="column">
-                                                                    <ul>
-                                                                                                                                                                                                                    <li><a href="/mlb/blog">Fan Articles</a></li>
-                                                                                                                                        <li><a href="http://www.faniq.com/gamecenter/s/mlb">Gamecenter</a></li>
-                                                                                                                                        <li><a href="/mlb/teams">Teams</a></li>
-                                                                                                                                        <li><a href="/mlb/trivia">Trivia</a></li>
-                                                                                                                                        <li><a href="/mlb/quizzes">Quizzes</a></li>
-                                                                                                                                        <li><a href="/mlb/polls">Polls</a></li>
-                                                                                                                                        <li><a href="/mlb/photos">Photos</a></li>
-                                                                                                                                        <li><a href="/mlb/videos">Videos</a></li>
-                                                                                                                                                </ul>
-                                                            </div>
-                                                            <div class="clear"></div>
-                                                    </div>
-                                            </li>
-                                                                                <li class="dropdown ">
-                                                    <a href="/nba/">NBA</a>
-                                                    <div class="dropdown-expanded">
-                                                            <div class="column">
-                                                                    <ul>
-                                                                                                                                                                                                                    <li><a href="/nba/blog">Fan Articles</a></li>
-                                                                                                                                        <li><a href="http://www.faniq.com/gamecenter/s/nba">Gamecenter</a></li>
-                                                                                                                                        <li><a href="/nba/teams">Teams</a></li>
-                                                                                                                                        <li><a href="/nba/trivia">Trivia</a></li>
-                                                                                                                                        <li><a href="/nba/quizzes">Quizzes</a></li>
-                                                                                                                                        <li><a href="/nba/polls">Polls</a></li>
-                                                                                                                                        <li><a href="/nba/photos">Photos</a></li>
-                                                                                                                                        <li><a href="/nba/videos">Videos</a></li>
-                                                                                                                                                </ul>
-                                                            </div>
-                                                            <div class="clear"></div>
-                                                    </div>
-                                            </li>
-                                                                                <li class="dropdown ">
-                                                    <a href="/nhl/">NHL</a>
-                                                    <div class="dropdown-expanded">
-                                                            <div class="column">
-                                                                    <ul>
-                                                                                                                                                                                                                    <li><a href="/nhl/blog">Fan Articles</a></li>
-                                                                                                                                        <li><a href="http://www.faniq.com/gamecenter/s/nhl">Gamecenter</a></li>
-                                                                                                                                        <li><a href="/nhl/teams">Teams</a></li>
-                                                                                                                                        <li><a href="/nhl/trivia">Trivia</a></li>
-                                                                                                                                        <li><a href="/nhl/quizzes">Quizzes</a></li>
-                                                                                                                                        <li><a href="/nhl/polls">Polls</a></li>
-                                                                                                                                        <li><a href="/nhl/photos">Photos</a></li>
-                                                                                                                                        <li><a href="/nhl/videos">Videos</a></li>
-                                                                                                                                                </ul>
-                                                            </div>
-                                                            <div class="clear"></div>
-                                                    </div>
-                                            </li>
-                                                                                <li class="dropdown ">
-                                                    <a href="/ncaaf/">NCAAF</a>
-                                                    <div class="dropdown-expanded">
-                                                            <div class="column">
-                                                                    <ul>
-                                                                                                                                                                                                                    <li><a href="/ncaaf/blog">Fan Articles</a></li>
-                                                                                                                                        <li><a href="http://www.faniq.com/gamecenter/s/ncaafb">Gamecenter</a></li>
-                                                                                                                                        <li><a href="/ncaaf/teams">Teams</a></li>
-                                                                                                                                        <li><a href="/ncaaf/trivia">Trivia</a></li>
-                                                                                                                                        <li><a href="/ncaaf/quizzes">Quizzes</a></li>
-                                                                                                                                        <li><a href="/ncaaf/polls">Polls</a></li>
-                                                                                                                                        <li><a href="/ncaaf/photos">Photos</a></li>
-                                                                                                                                        <li><a href="/ncaaf/videos">Videos</a></li>
-                                                                                                                                                </ul>
-                                                            </div>
-                                                            <div class="clear"></div>
-                                                    </div>
-                                            </li>
-                                                                                <li class="dropdown ">
-                                                    <a href="/ncaabb/">NCAABB</a>
-                                                    <div class="dropdown-expanded">
-                                                            <div class="column">
-                                                                    <ul>
-                                                                                                                                                                                                                    <li><a href="/ncaabb/blog">Fan Articles</a></li>
-                                                                                                                                        <li><a href="http://www.faniq.com/gamecenter/s/ncaabb">Gamecenter</a></li>
-                                                                                                                                        <li><a href="/ncaabb/teams">Teams</a></li>
-                                                                                                                                        <li><a href="/ncaabb/trivia">Trivia</a></li>
-                                                                                                                                        <li><a href="/ncaabb/quizzes">Quizzes</a></li>
-                                                                                                                                        <li><a href="/ncaabb/polls">Polls</a></li>
-                                                                                                                                        <li><a href="/ncaabb/photos">Photos</a></li>
-                                                                                                                                        <li><a href="/ncaabb/videos">Videos</a></li>
-                                                                                                                                                </ul>
-                                                            </div>
-                                                            <div class="clear"></div>
-                                                    </div>
-                                            </li>
-                                                                                <li class="dropdown ">
-                                                    <a href="/nascar/">NASCAR</a>
-                                                    <div class="dropdown-expanded">
-                                                            <div class="column">
-                                                                    <ul>
-                                                                                                                                                                                                                    <li><a href="/nascar/blog">Fan Articles</a></li>
-                                                                                                                                        <li><a href="http://www.faniq.com/gamecenter/s/nascar">Gamecenter</a></li>
-                                                                                                                                        <li><a href="/nascar/drivers">Drivers</a></li>
-                                                                                                                                        <li><a href="/nascar/trivia">Trivia</a></li>
-                                                                                                                                        <li><a href="/nascar/quizzes">Quizzes</a></li>
-                                                                                                                                        <li><a href="/nascar/polls">Polls</a></li>
-                                                                                                                                        <li><a href="/nascar/photos">Photos</a></li>
-                                                                                                                                        <li><a href="/nascar/videos">Videos</a></li>
-                                                                                                                                                </ul>
-                                                            </div>
-                                                            <div class="clear"></div>
-                                                    </div>
-                                            </li>
-                                                                                <li class="dropdown ">
-                                                    <a href="/locker-room/">Locker Room</a>
-                                                    <div class="dropdown-expanded">
-                                                            <div class="column">
-                                                                    <ul>
-                                                                                                                                                                                                                    <li><a href="/locker-room/blog">Fan Articles</a></li>
-                                                                                                                                        <li><a href="/locker-room/trivia">Trivia</a></li>
-                                                                                                                                        <li><a href="/locker-room/quizzes">Quizzes</a></li>
-                                                                                                                                        <li><a href="/locker-room/polls">Polls</a></li>
-                                                                                                                                        <li><a href="/locker-room/photos">Photos</a></li>
-                                                                                                                                        <li><a href="/locker-room/videos">Videos</a></li>
-                                                                                                                                                </ul>
-                                                            </div>
-                                                            <div class="clear"></div>
-                                                    </div>
-                                            </li>
-                                    
-                                                                        <li class="dropdown ">
-                                            <a href="javascript:void(0);">more</a>
-                                            <div class="dropdown-expanded right moresports">
-                                                    <div class="column">
-                                                                                                                                                                                                                                                <ul>
-                                                                                                                        <li><a href="/arena-football/">Arena Football</a></li>
-                                                                                                                                                                                                    <li><a href="/aussie-rules-football/">Aussie Rules Football</a></li>
-                                                                                                                                                                                                    <li><a href="/bowling/">Bowling</a></li>
-                                                                                                                                                                                                    <li><a href="/boxing/">Boxing</a></li>
-                                                                                                                                                                                                    <li><a href="/cfl/">CFL</a></li>
-                                                                                                                                                                                                    <li><a href="/cricket/">Cricket</a></li>
-                                                                                                                                                                                                    <li><a href="/cycling/">Cycling</a></li>
-                                                                                                                                                                                                    <li><a href="/equestrian-sports/">Equestrian Sports</a></li>
-                                                                                                                                                                                                    <li><a href="/fantasy-sports/">Fantasy Sports</a></li>
-                                                                                                                                                                                                    <li><a href="/figure-skating/">Figure Skating</a></li>
-                                                                                                                                                                                                    <li><a href="/fishing/">Fishing</a></li>
-                                                                                                                                                                                                    <li><a href="/formula-one/">Formula One</a></li>
-                                                                                                                                                                                                    <li><a href="/gaming/">Gaming</a></li>
-                                                                                                                                                                                                    <li><a href="/general-sports/">General Sports</a></li>
-                                                                                                                                                                                                    <li><a href="/golf/">Golf</a></li>
-                                                                                                                                                                                                    <li><a href="/hs-baseball/">HS Baseball</a></li>
-                                                                                                                                                                                                    <li><a href="/hs-basketball/">HS Basketball</a></li>
-                                                                                                                                                                                                    <li><a href="/hs-cheerleading/">HS Cheerleading</a></li>
-                                                                                                                                                                                                    <li><a href="/hs-football/">HS Football</a></li>
-                                                                                                                                                                                                    <li><a href="/hs-soccer/">HS Soccer</a></li>
-                                                                                                                                                                                                    <li><a href="/hs-track/">HS Track</a></li>
-                                                                                                                                                                                                    <li><a href="/hs-volleyball/">HS Volleyball</a></li>
-                                                                                                                                                                </ul></div>
-                                                                                    <div class="column"><ul>
-                                                                                                                                                                                                    <li><a href="/hs-wrestling/">HS Wrestling</a></li>
-                                                                                                                                                                                                    <li><a href="/horse-racing/">Horse Racing</a></li>
-                                                                                                                                                                                                    <li><a href="/iihf/">IIHF</a></li>
-                                                                                                                                                                                                    <li><a href="/indycar/">IndyCar</a></li>
-                                                                                                                                                                                                    <li><a href="/junior-hockey/">Junior Hockey</a></li>
-                                                                                                                                                                                                    <li><a href="/kiteboarding/">Kiteboarding</a></li>
-                                                                                                                                                                                                    <li><a href="/llws/">LLWS</a></li>
-                                                                                                                                                                                                    <li><a href="/lacrosse/">Lacrosse</a></li>
-                                                                                                                                                                                                    <li><a href="/mlb/">MLB</a></li>
-                                                                                                                                                                                                    <li><a href="/mma/">MMA</a></li>
-                                                                                                                                                                                                    <li><a href="/martial-arts/">Martial Arts</a></li>
-                                                                                                                                                                                                    <li><a href="/media/">Media</a></li>
-                                                                                                                                                                                                    <li><a href="/minor-league-baseball/">Minor League Baseball</a></li>
-                                                                                                                                                                                                    <li><a href="/minor-league-hockey/">Minor League Hockey</a></li>
-                                                                                                                                                                                                    <li><a href="/nascar/">NASCAR</a></li>
-                                                                                                                                                                                                    <li><a href="/nba/">NBA</a></li>
-                                                                                                                                                                                                    <li><a href="/ncaa-baseball/">NCAA Baseball</a></li>
-                                                                                                                                                                                                    <li><a href="/ncaa-hockey/">NCAA Hockey</a></li>
-                                                                                                                                                                                                    <li><a href="/ncaa-mens-volleyball/">NCAA Men's Volleyball</a></li>
-                                                                                                                                                                                                    <li><a href="/ncaa-womens-bb/">NCAA Women's BB</a></li>
-                                                                                                                                                                                                    <li><a href="/ncaa-womens-softball/">NCAA Women's Softball</a></li>
-                                                                                                                                                                                                    <li><a href="/ncaa-womens-volleyball/">NCAA Women's Volleyball</a></li>
-                                                                                                                                                                </ul></div>
-                                                                                    <div class="column"><ul>
-                                                                                                                                                                                                    <li><a href="/ncaabb/">NCAABB</a></li>
-                                                                                                                                                                                                    <li><a href="/ncaaf/">NCAAF</a></li>
-                                                                                                                                                                                                    <li><a href="/nfl/">NFL</a></li>
-                                                                                                                                                                                                    <li><a href="/nhl/">NHL</a></li>
-                                                                                                                                                                                                    <li><a href="/netball/">Netball</a></li>
-                                                                                                                                                                                                    <li><a href="/olympics-summer/">Olympics, Summer</a></li>
-                                                                                                                                                                                                    <li><a href="/olympics-winter/">Olympics, Winter</a></li>
-                                                                                                                                                                                                    <li><a href="/other-racing/">Other Racing</a></li>
-                                                                                                                                                                                                    <li><a href="/pbr/">PBR</a></li>
-                                                                                                                                                                                                    <li><a href="/prca/">PRCA</a></li>
-                                                                                                                                                                                                    <li><a href="/poker/">Poker</a></li>
-                                                                                                                                                                                                    <li><a href="/rugby-league/">Rugby League</a></li>
-                                                                                                                                                                                                    <li><a href="/rugby-union/">Rugby Union</a></li>
-                                                                                                                                                                                                    <li><a href="/soccer/">Soccer</a></li>
-                                                                                                                                                                                                    <li><a href="/surfing/">Surfing</a></li>
-                                                                                                                                                                                                    <li><a href="/tennis/">Tennis</a></li>
-                                                                                                                                                                                                    <li><a href="/track-and-field/">Track and Field</a></li>
-                                                                                                                                                                                                    <li><a href="/wnba/">WNBA</a></li>
-                                                                                                                                                                                                    <li><a href="/wwe/">WWE</a></li>
-                                                                                                                                                                                                    <li><a href="/x-games/">X Games</a></li>
-                                                                                                                                                                                                            </ul>
-                                                    </div>
-                                                    <br class="clear">
-                                            </div>
-                                    </li>
-                                                                                                                    <li class="orange howitworks"><a href="/faqs.php">how it works</a></li>
-                                                                </ul>
-                    </div>
-                    <!-- /main nav -->
-				
-				<!-- subnav  -->
-				<div id="subnav">
-					<ul>
-											</ul>
-					<ul class="search">
-						<li id="navSearchBox">
-							
-<div id="cse-search-form"></div>
-<script src="//www.google.com/jsapi" type="text/javascript"></script>
-<script type="text/javascript"> 
-  google.load('search', '1', {language : 'en'});
-  google.setOnLoadCallback(function() {
-    var customSearchControl = new google.search.CustomSearchControl('010791897186657837785:3tl1kwunxfm');
-    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
-    var options = new google.search.DrawOptions();
-
-    options.enableSearchboxOnly("http://www.faniq.com/search_results.php");
-
-    customSearchControl.draw('cse-search-form', options);
-  }, true);
-</script>
-<link rel="stylesheet" href="//www.google.com/cse/style/look/default.css" type="text/css">
-<style type="text/css">
-#navSearchBox td.gsc-input {
-	padding: 2px 0px 0px 0px;
-	width: 144px;
-}
-#navSearchBox input.gsc-input {
-    border: 1px solid #9A9A9A;
-     -moz-border-radius: 4px; /* Firefox */
- 	 -webkit-border-radius: 43px; /* Safari, Chrome */
-  	border-radius: 4px; /* CSS3 */
-	font-size: 10px;
-	height: 10px;
-	margin: -1px 5px 0 5px;
-	padding: 2px;
-	width: 130px;
-}
-#navSearchBox input.gsc-search-button {
-  	background: transparent url('//cdn.faniq.com/img/nav/icon_search.png') top left no-repeat;
-	border: none;
-	font-size: 0;
-	height: 10px;
-	margin: 0;
-	padding: 0;
-	width: 10px;
-	min-width:15px;
-}
-#navSearchBox table.gsc-search-box td.gsc-input {
-  	padding-right: 0;
-}
-#navSearchBox table.gsc-search-box td.gsc-clear-button {
-  	display: none;
-}
-</style>
-						</li>
-					</ul>
-				</div>
-				<!-- /subnav -->				
-				<!-- /Main and Sub Navigation -->
-			</div>
-			<!-- /Top section container -->
-	
-		    		               <!-- System Messaging to work with redirects. -->
-                                <div id="contentContainer"><!-- body of page goes here -->
-<div id="content">
-
-	<div class="padA20">
-
-<p><b>Effective Date: June 5, 2012</b></p><p>
-
-</p><p>FanIQ ("FanIQ" or "we") respects and values your privacy. As such, this Privacy Policy details FanIQ's treatment of personally identifiable information ("PII") and other information collected through the website, located at <a href="http://www.faniq.com">www.FanIQ.com</a>, any related online applications or services, or the mobile versions thereof (collectively, "Website").</p>
-<p>FanIQ reserves the right to modify this Privacy Policy from time to time. Changes to the Privacy Policy will be posted on this website and the effective date of the Privacy Policy will be modified to reflect the effective date of the most recent version. If a material change to our information practices occurs in the future, we will only use PII collected from the time of the policy change forward for these new purposes unless we have your consent. </p>
-<p>The terms and conditions governing your use of the FanIQ website are contained in a separate Terms of Use agreement available at www.FanIQ.com/terms.php. </p>
-
-<h3>Types of Information We Collect or Maintain About Individuals Through This Website</h3>
-
-<h3>Personally Identifiable Information </h3>
-<p>PII is information that allows FanIQ to identify and communicate with you.</p>
-<p>We have designed the FanIQ website so that you can view the website without providing FanIQ with any PII or having a FanIQ account. This type of user is known as a Visitor.</p>
-<p>Certain activities on the FanIQ website, such as sending messages, creating a personal profile, and more, require you to create an account with FanIQ. This type of user is known as a Registered User. To create an account, you must register as a Registered User and FanIQ may collect or maintain the following PII about you:</p>
-<p>First and last name; physical address; email address; mobile phone number; gender; age; education; occupation; photographs; personal interests; hometown; favorite teams; blog URL; and any other PII you submit during the course of normal correspondence (including SMS, MMS and email) with FanIQ (collectively "Profile Information").</p>
-<p>During your use of FanIQ, you may set up your personal profile, form relationships, send messages, initiate fan actions, perform searches and queries, form groups, set up events, add applications, and transmit information through various channels.  We collect and retain this data to enable you to view prior actions and messages.  We may combine this PII with information from other sources. By creating an account and providing FanIQ your mobile phone number, you expressly agree that FanIQ may contact you by SMS (i.e. "text") message or Multimedia Messaging Service (MMS). If you send information to FanIQ via SMS or MMS, FanIQ may respond to you via SMS or MMS.</p>
-
-<h3>Non-Personally Identifiable Information </h3>
-<p>Non-personally identifiable information is information FanIQ collects in the normal course of operating the FanIQ website that does not reveal the specific identity of the individual. We collect certain aggregate and non-personal information when you visit this website. This information does not relate to a single identifiable visitor. </p>
-<p>When you visit the website to browse, read or download information, we automatically collect standard computer information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring website addresses. We generally do not link standard computer information to anything that will allow us to identify users unless to enforce compliance with our rules or terms of service or to protect our service, site, users or others. </p>
-<p>We also may collect aggregate and non-personal information through "Cookies" or other website technology as explained below.</p>
-
-<h3>How We Use PII Collected on the FanIQ Website</h3>
-
-<h3>Individual PII Collected on the FanIQ Website </h3>
-<p>FanIQ is intended to be a global community for discussion around sports. Accordingly, the FanIQ website publicly displays some Profile Information, including a Registered User's pictures, name, username, age, hometown, and location (country and city) to facilitate user interaction on the FanIQ website. </p>
-<p>We use Registered User's email addresses to share content and to notify you of important updates to the Privacy Policy or Terms of Use. We do not share with, or display to, other website users a Registered User's email address or mobile phone number. To facilitate searching and finding friends and acquaintances on the FanIQ website, FanIQ allows users to search for other Registered Users as well as invite new users via E-mail addresses. If you choose to use our invitation service to tell a friend about FanIQ, we will ask you for information needed to send the invitation, such as your friend's E-mail address.  We will send your friend an E-mail in your name inviting him or her to visit FanIQ, and may send up to three (3) reminders.  FanIQ stores this information to send invitations and reminders, to register a friend connection if your invitation is accepted, to allow you to see the invitations you have sent, and to track the success of our referral program.  FanIQ does not sell these E-mail addresses.  If you were contacted this way and would like to be removed from our database, you may send us a request and we will do so within a reasonable period of time.</p>
-<p>We may also use a Registered User's email address or mobile phone number to send email, SMS and MMS updates or news, such as an email newsletter, regarding the FanIQ website or other services and products that may be of interest to Registered Users.  You may opt out of such E-mails by changing your user preferences.  FanIQ may also send you service-related announcements from time to time through the general operation of the service.  FanIQ reserves the right to send you notices about your account even if you opt out of all voluntary E-mail notifications.</p>
-<p>In some cases, other FanIQ users may be able to supplement your profile (eg. Initiating fan actions, commenting on your blog, giving you gifts, etc.)  As with other websites, your profile information may be made available to third party search engines.  FanIQ allows for the RSS syndication of its public content and may allow third parties to access publicly available FanIQ content through an application programming interface (API).  However, all FanIQ user passwords will be kept strictly private.</p>
-<p>We may create anonymous records from PII by excluding information (such as your name) that makes the information personally identifiable to you. We may use this anonymous information to analyze request and usage patterns to improve the website and our services. We reserve the right to use and disclose this anonymous information to third parties for various purposes, including for internal business analysis and to provide aggregate demographic data to our partners.</p>
-<p>Users can also login to the FanIQ website using their Facebook username and password through Facebook Connect or such other services as we may make available for login from time to time. Information provided to Facebook will be subject to Facebook's privacy policy. Once a user logs in with a Facebook username and password, certain PII will be shared with FanIQ. We will treat this shared information in accordance with this Privacy Policy.</p>
-
-<h3>Sharing of Individual PII with Third Parties</h3>
-<p>FanIQ will not sell, rent or lease PII collected on the FanIQ website to third-party marketers. FanIQ, may however, share PII with its affiliates (FanIQ is a subsidiary of PulsePoint, Inc.) who may use the information for marketing purposes.  For more information, please see the PulsePoint, Inc. Privacy Policy <a href="http://www.datranmedia.com/privacy/">here</a>. Our affiliates will not share PII with unaffiliated third parties for their own marketing purposes. </p>
-<p>FanIQ may share PII with service providers who assist us with our marketing efforts and other communications, but those service providers will not use this PII for their own marketing purposes and are prohibited by contract from sharing this PII with any party other than FanIQ. These businesses include providers of website applications. These services enable us to deliver communications to website users and to verify and update information about website users.</p>
-<p>If you use any third party applications developed for FanIQ, applications may access and share certain information about you with others in accordance with this Privacy Policy.  Before allowing any third party applications on FanIQ, we require the third party partner to enter into an agreement with us which requires them to respect your privacy and strictly limits their collection, use, and storage of your information.  However, while we have undertaken contractual and technical steps to restrict possible misuse of such information by such third party partners, we cannot and do not guarantee that all third party partners will abide by such agreements.  In addition, third party partners may require you to sign up to their own terms of service, privacy policies, or other policies, which may give them additional rights or impose additional obligations on you.  Please be sure to review these terms and policies carefully before using any third party partners of FanIQ.</p>
-<p>FanIQ, or a partner, may sponsor a promotion, sweepstakes, or contest on www.FanIQ.com.  Users may be asked to provide personal information, including name, E-mail address, or home address, or to answer questions in order to participate.  We may transfer personal information to certain advertising partners that you have explicitly requested to receive information from.  It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.</p>
-<p>FanIQ may also share PII in the following limited circumstances: (1) upon receipt of a properly authorized and authenticated governmental request for information; (2) in response to a subpoena or a court order; (3) to comply with relevant laws; (4) in response to an investigation of fraud regarding a specific individual; (5) in an effort to safeguard the person or property of an FanIQ employee or a third party; or (6) when FanIQ believes it is necessary to protect our interests or we believe in good faith that the law requires the sharing of your PII. </p>
-<p>Finally, FanIQ may, in the future, decide to sell, merge or otherwise reorganize its business. FanIQ reserves the right to transfer and disclose PII in this circumstance, but data collected by FanIQ will be governed by the same privacy policy that existed prior to any change in business conditions unless you consent to the new privacy policy.</p>
-
-<h3>How We Use Non-Personally Identifiable Information Collected on the FanIQ Website</h3>
-<p>We use non-personally identifiable information to help us to tailor the features, performance and support of our products and services to website users; to offer you additional information and opportunities; and to inform you of changes to this Privacy Policy and the Terms of Use of the website. The non-personally identifiable information we collect may be shared with FanIQ's affiliates and third parties to provide you with more relevant services and advertisements to website users, including advertisements relating to FanIQ on other websites you may visit.</p>
-
-<h3>How We Use Cookies on the FanIQ Website</h3>
-<p>Cookies are pieces of information that any website may transfer to your browser that are then stored in your computer's system. Cookies are returned to the website that deposited them when a visitor returns to that site. We use Cookies to store users' preferences and to record session information. We also use Cookies for purposes including ensuring that users are not repeatedly offered the same advertisements and to customize newsletter, advertising and web page content based on browser type and user profile information. The deposit of Cookies by the website may enhance your online experience by allowing us to save your preferences for your next visit. Our Cookies may also measure the general activity on the website and measures advertising effectiveness, which allows us to determine which areas and features are most popular. This information allows us to make improvements to our website.</p>
-<p>Most web browsers are set up to accept cookies. You can, however, reset your browser to refuse all cookies or to indicate when a cookie is being sent. If you choose to decline Cookies, some of the functionality of the website may be impaired. Some of the cookies placed may be from our affiliate PulsePoint, Inc's Aperture business. For more information, please see the PulsePoint, Inc. <a href="http://www.datranmedia.com/privacy/aperture/">Aperture privacy policy</a>. Should you wish to opt-out of us placing an Aperture audience cookie on your browser, you can <a href="http://rt.displaymarketplace.com/optout.html">click here</a> to deploy an "opt-out" cookie on your browser. This cookie, when installed on your browser, will prevent us from placing a new Aperture audience cookie on that browser and will prevent the Aperture audience business from collecting web data and audience data on that browser.</p>
-<p>Web beacons, also known as "clear gifs," "one-pixel gifs," "web bugs," "Internet tags" or "pixel tags," are small graphic images on a website or in an email that allow us and third parties to monitor the activity on our website or to make Cookies more effective. We use log files to store the data that is collected through web beacons.</p>
-
-<h3>Third Party Advertising </h3>
-<p>Ads appearing on the FanIQ website may be delivered to you by FanIQ or its affiliates or by one of FanIQ' web advertising partners or advertising networks. FanIQ may allow third-party advertisers or advertising networks that will present advertisements on some of our pages to set and access their Cookies on your computer. These Cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisement that they believe will be of most interest to you. Advertisers' use of Cookies is subject to their own privacy policies, not this Privacy Policy.</p>
-<p>The Network Advertising Initiative (NAI), a self-regulatory organization consisting of online advertising networks, has an opt-out tool that allows you to opt out of the data collection and targeted ad programs of NAI members. You may access the NAI opt-out tool here. PrivacyChoice's opt-out tool allows you to opt out of other third parties (in addition to NAI members) who may place cookies on your computer. To opt out of these third parties, please go to <a href="http://www.privacychoice.org/choose">http://www.privacychoice.org/choose</a>.</p>
-
-<h3>Choice</h3>
-<p>Access and control over most personal information on FanIQ is readily available through the profile editing tools.  You may modify or delete any of your profile information at any time by logging into you're your account.  Information edited this way will be updated immediately.  If you wish to deactivate your account, you may do so at any time.  Removed information may persist in backup copies for a reasonable period of time but will not be generally available to FanIQ users.  For a more detailed description of FanIQ's policy on removed information, please <a href="http://www.faniq.com/terms.php">click here</a> to see FanIQ's Terms of Service.</p>
-<p>When you make use of FanIQ's communications features to share information with others on FanIQ, such as sending a personal message to another FanIQ user, you generally cannot remove such communications.</p>
-<p>Recipients of invitations from FanIQ may contact FanIQ using the contact information below under "Access" to request removal of their information from our database.</p>
-
-<h3>Security</h3>
-<p>We endeavor to safeguard and protect our users' information. When users submit information on our website, such information is protected both online and offline. The servers in which we store PII are kept in a secure physical environment. FanIQ has security measures in place to protect against the loss, misuse and alteration of personal information under our control. Please be advised that, although we take reasonable technological precautions to protect your data, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, FanIQ cannot warrant that your information will be absolutely secure. Any transmission of data at or through our website is at your own risk. However, access to your information is strictly limited, and not accessible to the public.</p>
-
-<h3>Links</h3>
-<p>FanIQ may contain links to other websites.  We are not responsible for the privacy practices of other websites.  We encourage our users to be aware when they leave our Website to review the privacy statements of each and every website that collects personally identifiable information.  This Privacy Policy applies solely to information collected by FanIQ.</p>
-
-<h3>Children's Privacy</h3>
-<p>FanIQ places the highest value on the privacy of children. FanIQ does not knowingly collect PII from children under the age of 13.  In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. </p>
-
-<h3>Access </h3>
-<p>Individuals wishing to review PII collected by FanIQ on this website should write to FanIQ Privacy Department, c/o PulsePoint, Inc., 345 Hudson Street, 5th Floor, New York, New York, 10014. FanIQ may take reasonable steps to confirm the identity of the consumer in an effort to prevent identity theft.</p>
-
-<h3>European Union and Other Non-US Residents</h3>
-<p>Your information may be stored and processed in any country in which FanIQ or its affiliates maintain facilities, including in the United States, which may not have protections equivalent to those in your home country. For purpose of providing the service or sharing or disclosing data for purposes noted in this policy, FanIQ reserves the right to transfer information outside of your country. By using and registering on the FanIQ website, you consent to the transfer of information outside of your country.</p>
-<p>In addition, FanIQ's parent company, PulsePoint, Inc., has self certified to the Department of Commerce's Safe-Harbor framework, and we adhere to the Safe-Harbor Principles. For more information on the Safe-Harbor program, visit <a href="http://export.gov/safeharbor">http://export.gov/safeharbor</a>. If you are a European resident and have a data-privacy inquiry, you may contact us at <a href="mailto:info@pulsepoint.com">info@pulsepoint.com</a> or in writing at:</p>
-<p>PulsePoint, Inc.<br>
-345 Hudson Street, 5th Floor<br>
-New York, NY 10014<br>
-Tel: (212) 706-9781</p>
-<p>If your data privacy inquiry was not satisfactorily resolved by us then you may contact the DMA Safe Harbor Program at:</p>
-<p>Safe Harbor Line<br>
-Direct Marketing Association<br>
-1615 L Street, NW - Suite 1100<br>
-Washington, DC 20036<br>
-Fax: 202-955-0085<br>
-Telephone: 202-861-2410<br>
-Email: <a href="mailto:safeharbor@the-dma.org">safeharbor@the-dma.org</a> </p>
-
-<h3>Your California Privacy Rights</h3>
-<p>California Civil Code Section 1798.83 permits California residents who have provided PII to PulsePoint, Inc. or its partners to request certain information regarding FanIQ disclosure of PII to third parties for their direct marketing purposes. Within thirty days of receiving such a request, we will provide a list of the categories of PII disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of the third parties when required. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this section.</p>
-<p>If you have any questions about your California privacy rights or this Privacy Policy, please contact us at feedback@FanIQ.com or in writing at:</p>
-<p>FanIQ Privacy Department<br>
-c/o PulsePoint, Inc.<br>
-20 Broad Street<br>
-6th Floor<br>
-New York, NY 10005<br>
-Tel: (212) 706-9781</p>
-
-	</div>
-
-<!-- end content-->
-</div>
-	</div>
-        
-					
-		<!-- footer -->
-	<div id="footer" class="grid_16 alpha omega">
-		<!-- 728x90 ad @ bottom of page -->
-    <center>
-		  <center>
-<div id="div-gpt-ad-1364937491225-6" style="width:728px; height:90px;" class="">
-	
-</div>
-</center>    </center>
-		<ul id="footerNav">
-			<li><a href="/about.php">About FanIQ</a></li>
-			<li><a href="/terms.php">Terms of Use</a></li>
-			<li><a href="/privacy.php">Privacy Policy</a></li>
-			<li><a href="/dmca_policy.php">DMCA Policy</a></li>
-			<li><a href="/mk.pdf" target="_blank">Advertise</a></li>
-			<li><a href="/contact.php">Contact Us</a></li>
-			<li><a href="javascript:popWin('http://www.faniq.com/contact.php?bug_report=1',740,580);">Report a Bug</a></li>
-			<li class="last"><a href="/faqs.php">Help</a></li>           
-		</ul>
-		<div id="footerCopyright">
-			© 2014 PulsePoint, Inc. All Rights Reserved.
-		</div>
-	</div><!-- END footer -->
-</div><!-- End container_16 -->
-
-<!-- Preload Images -->
-<img width="35" height="40" data-src="//cdn.faniq.com/img/popup_arrow2_sw.png" alt="" style="display:none;">
-<img width="35" height="40" data-src="//cdn.faniq.com/img/popup_arrow2_nw.png" alt="" style="display:none;">
-<img width="35" height="40" data-src="//cdn.faniq.com/img/popup_arrow2_ne.png" alt="" style="display:none;">
-<img data-src="//cdn.faniq.com/img/popup_top.png?rev=1" alt="" style="display:none;">
-<img data-src="//cdn.faniq.com/img/popup_middle.png?rev=1" alt="" style="display:none;">
-<img data-src="//cdn.faniq.com/img/popup_bottom.png?rev=1" alt="" style="display:none;">
-
-<div id="profilePopup" style="width:260px;position:absolute; left:0px; top:0px; display:none;z-index:101">
-	<div style="background:transparent url(//cdn.faniq.com/img/popup_top.png?rev=1) no-repeat left top;height:10px;"><img data-src="//cdn.faniq.com/img/spacer.gif" height="10"></div>
-	<div class="popupMiddleTransparent">
-		<div id="popupScreenName" style="font-size:14px;font-weight:bold;margin-bottom:5px;color:#004b8d;"></div>
-		<div>
-			<div style="width:80px;height:80px;overflow:hidden;float:left;"><img id="popupProfilePic" width="80" data-src="//cdn.faniq.com/img/profile_blank_m_large.jpg" alt=""></div>
-			<div class="fltRight mrgR10" style="width:140px;">
-				<div class="fltLeft fs10 cGrey5 mrgT5 mrgB5"><span class="cOrange">Q</span> BUCKS:</div>
-                <div class="fltRight fs14 bold cBlack mrgB5" id="popupBucks"></div>
-                <br class="clear">
-				<div class="fltLeft fs10 cGrey5 mrgT5 mrgB5">RESPECT:</div> 
-                <div class="fltRight fs14 bold cBlack mrgB5" id="popupRespect"></div>
-                <br class="clear">
-				<div class="fltLeft fs10 cGrey5 mrgT5 mrgB5">CONTRIBUTIONS:</div> 
-                <div class="fltRight fs14 bold cBlack mrgB5" id="popupContributions"></div>
-                <br class="clear">
-			</div>
-			<br clear="all">
-		</div>
-			<div style="padding-bottom:5px;">
-				<div id="popupName" style="font-weight:bold;"></div>
-				<div id="popupGenderAndAge" style="color:#004b8d;"></div>
-				<div id="popupLocation" style="color:#004b8d;"></div>
-			</div>
-		<div id="popupTeamLeadership" style="padding-bottom:5px;">
-			<div id="popupTeamLeadershipTitle"><strong>Team Leader</strong></div>
-			<div id="popupTeamLeaderLogos"></div>
-		</div>
-		<div style="padding-bottom:5px;">
-			<div><strong>Favorite Teams</strong></div>
-			<div id="popupFavoriteTeams"></div>
-            <br clear="all">
-		</div>
-		<div style="padding-bottom:5px;">
-			<div><strong>Thought Of The Day</strong></div>
-			<div id="popupThought" style="color:#004b8d;"></div>
-		</div>
-		<div id="popupLeadership" style="padding-bottom:5px;">
-			<div id="popupLeadershipTitle"><strong>Community Leadership</strong></div>
-			<div id="popupLeaderBadge" style="color:#004b8d;"></div>
-		</div>
-	</div>
-	<div style="background:transparent url(//cdn.faniq.com/img/popup_bottom.png?rev=1) no-repeat left bottom;height:15px;"><img data-src="//cdn.faniq.com/img/spacer.gif" height="15"></div>
-</div>
-<img id="popupArrow" width="35" height="40" data-src="//cdn.faniq.com/img/popup_arrow2_se.png" alt="" style="position:absolute;left:0px;top:0px;display:none;z-index:102">
-<!-- Preload Images -->
-<img width="35" height="40" data-src="//cdn.faniq.com/img/popup_arrow2_sw.png" alt="" style="display:none;">
-<img width="35" height="40" data-src="//cdn.faniq.com/img/popup_arrow2_nw.png" alt="" style="display:none;">
-<img width="35" height="40" data-src="//cdn.faniq.com/img/popup_arrow2_ne.png" alt="" style="display:none;">
-<!-- temporarily commenting out, since the images don't exist -->
-<!--
-<img data-src="//cdn.faniq.com/img/popup_badge_top.png" alt="" style="display:none;" />
-<img data-src="//cdn.faniq.com/img/popup_badge_middle.png" alt="" style="display:none;" />
-<img data-src="//cdn.faniq.com/img/popup_badge_bottom.png" alt="" style="display:none;" />
-<img data-src="//cdn.faniq.com/img/badge_moderator.png" alt="" style="display:none;" />
-<img data-src="//cdn.faniq.com/img/badge_writer.png" alt="" style="display:none;" />
--->
-
-<div id="badgePopup" style="width:128px;height:128px;position:absolute; left:0px; top:0px;display:none;z-index:101">&nbsp;
-	<!--<div style="background:transparent url(//cdn.faniq.com/img/popup_badge_top.png) no-repeat left top;height:10px;"><img data-src="//cdn.faniq.com/img/spacer.gif" height="10"/></div>
-	<div style="background:transparent url(//cdn.faniq.com/img/popup_badge_middle.png) repeat-y left;padding:0px 0px;">
-		<div style="text-align:center;width:100%;">
-			<div style="color:#004b8d;"><img id="popupBadgeImg" style="background:transparent;" /></div>
-		</div>
-	</div>
-	<div style="background:transparent url(//cdn.faniq.com/img/popup_badge_bottom.png) no-repeat left bottom;height:15px;"><img data-src="//cdn.faniq.com/img/spacer.gif" height="15"/></div>-->
-</div>
-
-<div id="genericPopup-wide" class="popupContainerMain-wide" style="display: none; position: fixed">
-        <b class="roundBorders"><b class="roundBorders1"><b></b></b><b class="roundBorders2"><b></b></b><b class="roundBorders3"></b><b class="roundBorders4"></b><b class="roundBorders5"></b></b>
-            <div class="popUpContainer">
-                <div class="popUpTypeIIContainer">
-                    <div id="genericPopup-wide-bgDiv">
-                        <div id="genericPopup-wide-iconDiv" style="float:left; margin:18px 10px 0px 20px"></div>
-                        <div class="popUpTypeIIMessage"><span id="genericPopup-wide-messageSpan"></span></div>
-                        <div style="clear:left"></div>
+                    <div class="searchburger searchon">
+                        <a onclick="if(window.location.pathname!='/search') window.location.href='/search';return false;" href="#">
+                            
+                        <span class="glyphicon glyphicon-search"></span>
+                        </a>
                     </div>
                 </div>
-            </div>
-        <b class="roundBorders"><b class="roundBorders5"></b><b class="roundBorders4"></b><b class="roundBorders3"></b><b class="roundBorders2"><b></b></b><b class="roundBorders1"><b></b></b></b>
-</div>
-
-<div id="genericPopup-rectangular" class="popupContainerMain-rectangular" style="display: none; position: fixed">
-        <b class="roundBorders">
-            <b class="roundBorders1"><b></b></b>
-            <b class="roundBorders2"><b></b></b>
-            <b class="roundBorders3"></b>
-            <b class="roundBorders4"></b>
-            <b class="roundBorders5"></b></b>
-        <div class="popUpContainer">
-            <div class="popUpContainer2-200">
-                <div id="genericPopup-rectangular-content">
-                    <div class="iconCircleTranX" style="float:right; margin-right: 0px; margin-top:0px; overflow:hidden" onclick="closeGenericPopupRectangular();"></div>
-                    <div style="clear:right"></div>
-                    <div class="messageContainer bgSliceGreen">
-                        <div style="width:200px; margin-left:auto; margin-right:auto; padding-top: 15px; ">
-                            <div class="iconCircleGreenCheck24 fltLeft mrgR10"></div>
-                            <div style="font-size: 18px; color: black; text-align: left; float:left"><span id="genericPopup-rectangular-titleSpan"></span></div>
-                            <div style="clear:left"></div>
-                        </div>
-                    </div>
-                    <div style="color: black">
-                        <span id="genericPopup-rectangular-MessageSpan"></span>
-                    </div>
-                </div>
-            </div>
+            </nav>
         </div>
-        <b class="roundBorders">
-            <b class="roundBorders5"></b>
-            <b class="roundBorders4"></b>
-            <b class="roundBorders3"></b>
-            <b class="roundBorders2"><b></b></b>
-            <b class="roundBorders1"><b></b></b></b>
-</div>
+    </div>
+</header>
 
+<div id="toolbarbacking" style="height: 0px;"></div>
+<div id="headerbacking"></div>
 
 <script>
-
-var fadeInOutDuration = .5;
-
-function displayGenericPopupRectangular (title, message, time) {
-    var t = document.getElementById("genericPopup-rectangular-titleSpan");
-    var m = document.getElementById("genericPopup-rectangular-MessageSpan");
-    t.innerHTML = title;
-    m.innerHTML = message;
-
-    var popup = $("genericPopup-rectangular");
-    popup.appear({duration: fadeInOutDuration});
-    window.setTimeout(closeGenericPopupRectangular, time);
-}
-
-function closeGenericPopupRectangular() {
-    var popup = $("genericPopup-rectangular");
-    popup.fade({duration: fadeInOutDuration});
-    if (typeof closeGenericPopupRectangularCallback == 'function') {
-        closeGenericPopupRectangularCallback();
+    if ( document.cookie.match("username") ) {
+        $('#av-toolbar' ).load("/toolbar?" + Math.random());
     }
-}
-
-function displayGenericPopupWide(type, message, time) {
-    var bgDiv = document.getElementById("genericPopup-wide-bgDiv");
-    var iconDiv = document.getElementById("genericPopup-wide-iconDiv");
-
-    if (type == 'error') {
-        bgDiv.className = "bgSliceRed";
-        iconDiv.className ="iconCircleRedX24";
-    } else if (type == 'warning') {
-        bgDiv.className = "bgSliceYellow";
-        iconDiv.className ="iconTriangleExcl24";
-    } else if (type == 'success') {
-        bgDiv.className = "bgSliceGreen";
-        iconDiv.className ="iconCircleGreenCheck24";
-    } else {
-        bgDiv.className = "bgSliceBlue";
-        iconDiv.className ="iconCircleBlueI24";
-    }
-
-    document.getElementById("genericPopup-wide-messageSpan").innerHTML = message;
-
-    var popup = $("genericPopup-wide");
-    popup.appear({duration: fadeInOutDuration});
-    window.setTimeout(closeGenericPopupWide, time);
-}
-
-function closeGenericPopupWide() {
-    var popup = $("genericPopup-wide");
-    popup.fade({duration: fadeInOutDuration});
-}
-
 </script>
 
-<!-- gravity beacon code - see FAN-505 -->
-
-<script type="text/javascript">
-  //<![CDATA[
-    $jq(window).load(function(){
-      
-    (function(){
-    window.gravityInsightsParams = {
-      'type': 'content',
-      'action': '',
-      'site_guid': 'c85a5245582f2d8dbca2c267c267a98c'
-    };
-    var b,c;b="https:"===document.location.protocol?"https://b-ssl.grvcdn.com/moth-min.js":"http://b.grvcdn.com/moth-min.js";window.grvMakeScript=function(d){var a;a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src=d;return a};c=document.getElementsByTagName("script")[0];b&&c.parentNode.insertBefore(window.grvMakeScript(b),c);})();
-   });
-  //]]>
-</script>
-
-<!-- end gravity beacon code -->
-
-<!-- Begin ADSNATIVE Code -->
-
-<script type="text/javascript">
-var _AdsNativeOpts = {
-    adUnits: [
-      { apiKey: 'IdDeUueGEKK-iTMCx8AZTcW3-gtg_ZNnRZkHW_rs', nativeAdElementId: 'an-div-IdDeUueGEKK-iTMCx8AZTcW3-gtg_ZNnRZkHW_rs' },
-      { apiKey: 'k8AKphBeNXeUpohgDw9joa0bvCDr1ZbYAM3vmXLA', nativeAdElementId: 'an-div-k8AKphBeNXeUpohgDw9joa0bvCDr1ZbYAM3vmXLA' }
-   ]
-};
-document.write('<scri'+'pt type="text/javascript" src="//static.adsnative.com/static/js/render.v1.js"></scr'+'ipt>');
-</script><script type="text/javascript" src="//static.adsnative.com/static/js/render.v1.js"></script>
-
-<!-- End ADSNATIVE Code -->
-
-<!-- end body -->
 
 
 
-  
-<!-- Start Quantcast tag -->
-<noscript>
-<img 
-    src="//pixel.quantserve.com/pixel/p-c8DY-Sggey0To.gif" 
-    style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-</noscript>
-<!-- End Quantcast tag -->
+        
+
+    <div id="privacylegal">
+        <div class="container">
+            <div class="row col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <h1>Privacy Policy</h1>
+            </div>
+            <div class="row">
+                <div class="leftrail col-lg-2 col-md-2 col-sm-2 hidden-xs"></div><!-- leftrail -->
+                <div class="supercol col-lg-8 col-md-8 col-sm-8 col-xs-12">
+                    <article>
+                        <div class="centerblock">
+                            <section class="bodycopy">
+                                <h2>
+                                    Effective Date: August 25, 2011 | Amended April 1, 2013
+                                </h2>
+                                <p>
+                                    Allvoices ("Allvoices" or "we") respects and values your privacy. As such,
+                                    this Privacy Policy details Allvoices' treatment of personally identifiable
+                                    information ("PII") and other information collected through this website.
+                                </p>
+                                <p>
+                                    Allvoices reserves the right to modify this Privacy Policy from time to time.
+                                    Changes to the Privacy Policy will be posted on this website and the effective
+                                    date of the Privacy Policy will be modified to reflect the effective date of the
+                                    most recent version. If a material change to our information practices occurs in
+                                    the future, we will only use PII collected from the time of the policy change
+                                    forward for these new purposes unless we have your consent.
+                                </p>
+                                <p>
+                                   The terms and conditions governing your use of the Allvoices website are contained
+                                    in a separate Terms of Use agreement available at <a href="http://www.allvoices.com/terms">http://www.allvoices.com/terms</a>.
+                                    Types of Information We Collect or Maintain About Individuals through This Website
+                                    Personally Identifiable Information PII is information that allows Allvoices to
+                                    identify and communicate with you.
+                                    We have designed the Allvoices website so that you can view the website without
+                                    providing Allvoices with any PII or having an Allvoices account. This type of user
+                                    is known as a Visitor.
+                                </p>
+                                <p>
+                                    Certain activities on the Allvoices website, including contribution, report or
+                                    submission of breaking news; creating a news event; sharing videos, news, URLs,
+                                    images or perspectives; asking a question; answering a question; commenting;
+                                    creating a user profile; or sharing website content with a friend via email, SMS
+                                    or MMS require you to create an account with Allvoices. This type of user is known
+                                    as a Registered User. To create an account, you must register as a Registered User
+                                    and Allvoices may collect or maintain the following PII about you:<br>
+                                    First and last name; physical address; email address; mobile phone number; gender;
+                                    age; education; occupation; photographs; personal interests; and any other PII you
+                                    submit during the course of normal correspondence (including SMS, MMS and email)
+                                    with Allvoices (collectively "Profile Information").
+                                </p>
+                                <p>
+                                    We may combine this PII with information from other sources. By creating an
+                                    account and providing Allvoices your mobile phone number, you expressly agree that
+                                    Allvoices may contact you by SMS (i.e. "text") message or Multimedia Messaging
+                                    Service (MMS). If you send information to Allvoices via SMS or MMS, Allvoices may
+                                    respond to you via SMS or MMS.
+                                </p>
+                                <h2>
+                                    Non-Personally Identifiable Information
+                                </h2>
+                                <p>
+                                    Non-personally identifiable information is information Allvoices collects in the
+                                    normal course of operating the Allvoices website that does not reveal the specific
+                                    identity of the individual. We collect certain aggregate and non-personal information
+                                    when you visit this website. This information does not relate to a single
+                                    identifiable visitor.
+                                    When you visit the website to browse, read or download information, we automatically
+                                    collect standard computer information that your browser sends to every website you
+                                    visit, such as your IP address, browser type and language, access times and
+                                    referring website addresses. We generally do not link standard computer information
+                                    to anything that will allow us to identify users unless to enforce compliance with
+                                    our rules or terms of service or to protect our service, site, users or others.
+                                    We also may collect aggregate and non-personal information through "Cookies" or other
+                                    website technology as explained below.
+                                </p>
+                                <h2>
+                                    How We Use PII Collected on the Allvoices Website
+                                </h2>
+                                <p>
+                                    Individual PII Collected on the Allvoices Website
+                                    Allvoices is intended to be a global community for discussion around news, events
+                                    and people. Accordingly, the Allvoices website publicly displays some Profile
+                                    Information, including a Registered User's pictures, name, username and location
+                                    (country and city) to facilitate user interaction on the Allvoices website.
+                                </p>
+                                <p>
+                                    We use Registered User's email addresses to share content and to notify you of
+                                    important updates to the Privacy Policy or Terms of Use. We do not share with, or
+                                    display to, other website users a Registered User's email address or mobile phone
+                                    number. To facilitate searching and finding friends and acquaintances on the Allvoices
+                                    website, Allvoices allows users to search for other Registered Users based on
+                                    location (country and city) and interests. Registered Users may email other Registered
+                                    User's through the Allvoices website without obtaining the recipient's email address.
+                                    We recognize and highlight our Registered Users (user names) on Registered User
+                                    Reports and search pages accessed through search terms based on location and key
+                                    interests/contributions.
+                                    We may also use a Registered User's email address or mobile phone number to
+                                    send email, SMS and MMS updates or news, such as an email newsletter, regarding
+                                    the Allvoices website or other services and products that may be of interest to
+                                    Registered Users.
+                                </p>
+                                <p>
+                                    We may create anonymous records from PII by excluding information (such as your
+                                    name) that makes the information personally identifiable to you. We may use this
+                                    anonymous information to analyze request and usage patterns to improve the website
+                                    and our services. We reserve the right to use and disclose this anonymous information
+                                    to third parties for various purposes, including for internal business analysis and
+                                    to provide aggregate demographic data to our partners.
+                                </p>
+                                <p>
+                                    Registered Users can invite friends to join the Allvoices website by sending
+                                    invitation emails and by using our automated invitation system. Allvoices stores
+                                    the email addresses that Registered Users provide so that the respondents may be
+                                    added to the sender's friends' list. We may also send up to 3 reminders of the
+                                    invitations (via email only). Allvoices does not sell these email addresses.
+                                </p>
+                                <p>
+                                    Users can also login to the Allvoices website using their Facebook or Twitter
+                                    username and password through Facebook Connect or Sign in with Twitter or such
+                                    other services as we may make available for login from time to time. Information
+                                    provided to Facebook or Twitter will be subject to those entities' respective
+                                    privacy policies. Once a user logs in with a Facebook or Twitter username and
+                                    password, certain PII will be shared with Allvoices. We will treat this shared
+                                    information in accordance with this Privacy Policy.
+                                </p>
+                                <h2>
+                                    Sharing of Individual PII with Third Parties
+                                </h2>
+                                <p>
+                                    Allvoices will not sell, rent or lease PII collected on the Allvoices website to
+                                    third-party marketers. Allvoices, may however, share PII with its affiliates
+                                    (Allvoices is a subsidiary of PulsePoint) who may use the information for marketing
+                                    purposes. For more information, please see the PulsePoint Privacy Policy. Our
+                                    affiliates will not share PII with unaffiliated third parties for their
+                                    own marketing purposes.
+                                </p>
+                                <p>
+                                    Allvoices may share PII with service providers who assist us with our marketing
+                                    efforts and other communications, but those service providers will not use this
+                                    PII for their own marketing purposes and are prohibited by contract from sharing
+                                    this PII with any party other than Allvoices. These businesses include providers
+                                    of website applications. These services enable us to deliver communications to
+                                    website users and to verify and update information about website users.
+                                </p>
+                                <p>
+                                    Allvoices may also share PII in the following limited circumstances: (1) upon
+                                    receipt of a properly authorized and authenticated governmental request for
+                                    information; (2) in response to a subpoena or a court order; (3) to comply with
+                                    relevant laws; (4) in response to an investigation of fraud regarding a specific
+                                    individual; (5) in an effort to safeguard the person or property of an Allvoices
+                                    employee or a third party; or (6) when Allvoices believes it is necessary to
+                                    protect our interests or we believe in good faith that the law requires the
+                                    sharing of your PII.
+                                </p>
+                                <p>
+                                    Finally, Allvoices may, in the future, decide to sell, merge or otherwise
+                                    reorganize its business. Allvoices reserves the right to transfer and disclose PII
+                                    in this circumstance, but data collected by Allvoices will be governed by the same
+                                    privacy policy that existed prior to any change in business conditions unless you
+                                    consent to the new privacy policy.
+                                    How We Use Non-Personally Identifiable Information Collected on the Allvoices Website
+                                    We use non-personally identifiable information to help us to tailor the features,
+                                    performance and support of our products and services to website users; to offer
+                                    you additional information and opportunities; and to inform you of changes to this
+                                    Privacy Policy the Terms of Use of the website. The non-personally identifiable
+                                    information we collect may be shared with Allvoices' affiliates and third parties
+                                    to provide you with more relevant services and advertisements to website users,
+                                    including advertisements relating to Allvoices on other websites you may visit.
+                                </p>
+                                <h2>
+                                    How We Use Cookies on the Allvoices Website
+                                </h2>
+                                <p>
+                                    Cookies are pieces of information that any website may transfer to your browser
+                                    that are then stored in your computer's system. Cookies are returned to the website
+                                    that deposited them when a visitor returns to that site. We use Cookies to store
+                                    users' preferences and to record session information. We also use Cookies for
+                                    purposes including ensuring that users are not repeatedly offered the same
+                                    advertisements and to customize newsletter, advertising and web page content
+                                    based on browser type and user profile information. The deposit of Cookies by
+                                    the website may enhance your online experience by allowing us to save your
+                                    preferences for your next visit. Our Cookies may also measure the general activity
+                                    on the website and measure advertising effectiveness, which allows us to determine
+                                    which areas and features are most popular. This information allows us to make
+                                    improvements to our website.
+                                </p>
+                                <p>
+                                    Most web browsers are set up to accept cookies. You can, however, reset your
+                                    browser to refuse all cookies or to indicate when a cookie is being sent. If you
+                                    choose to decline Cookies, some of the functionality of the website may be impaired.
+                                    Some of the cookies placed may be from our affiliate PulsePoint's Audience business.
+                                    For more information, please see the PulsePoint Audience privacy policy. Should you
+                                    wish to opt-out of us placing an Audience audience cookie on your browser, you can
+                                    click here to deploy an "opt-out" cookie on your browser. This cookie, when
+                                    installed on your browser, will prevent us from placing a new Audience audience
+                                    cookie on that browser and will prevent the Audience audience business from
+                                    collecting web data and audience data on that browser.
+                                </p>
+                                <p>
+                                    Web beacons, also known as "clear gifs," "one-pixel gifs," "web bugs," "Internet
+                                    tags" or "pixel tags," are small graphic images on a website or in an email that
+                                    allow us and third parties to monitor the activity on our website or to make Cookies
+                                    more effective. We use log files to store the data that is collected through web beacons.
+                                </p>
+                                <h2>
+                                    Third Party Advertising
+                                </h2>
+                                <p>
+                                    Ads appearing on the Allvoices website may be delivered to you by Allvoices or its
+                                    affiliates or by one of Allvoices' web advertising partners or advertising
+                                    networks. Allvoices may allow third-party advertisers or advertising networks that
+                                    will present advertisements on some of our pages to set and access their Cookies on
+                                    your computer. These Cookies allow the ad server to recognize your computer each
+                                    time they send you an online advertisement. In this way, ad servers may compile
+                                    information about where you, or others who are using your computer, saw their
+                                    advertisements and determine which ads are clicked on. This information allows an
+                                    ad network to deliver targeted advertisement that they believe will be of most
+                                    interest to you. Advertisers' use of Cookies is subject to their own privacy
+                                    policies, not this Privacy Policy.
+                                </p>
+                                <p>
+                                    The Network Advertising Initiative (NAI), a self-regulatory organization consisting
+                                    of online advertising networks, has an opt-out tool that allows you to opt out of
+                                    the data collection and targeted ad programs of NAI members. You may access the NAI
+                                    opt-out tool here. PrivacyChoice's opt-out tool allows you to opt out of other
+                                    third parties (in addition to NAI members) who may place cookies on your computer.
+                                    To opt out of these third parties, please go to
+                                        <a href="http://www.privacychoice.org/choose" target="_blank">http://www.privacychoice.org/choose</a>.
+                                </p>
+                                <h2>
+                                    Choice
+                                </h2>
+                                <p>
+                                    Allvoices Registered Users may modify or remove any of their PII at any time by 
+                                    logging into their account and accessing features such as "Edit Profile" and 
+                                    "Account Information." 
+                                </p>
+                                <p>
+                                    Registered Users may also control the types of messages they receive by changing
+                                    settings through the "Edit Profile" feature. U.S. Registered Users can opt out of
+                                    SMS messages using the "Edit Profile" feature or by sending STOP or END or CANCEL
+                                    or UNSUBSCRIBE or STOP ALL from your mobile device to VOICES (864237). Please note
+                                    that this will only work if you have previously submitted content using the same
+                                    mobile number and are in the Allvoices system.
+                                </p>
+                                <p>
+                                    Recipients of invitations from Allvoices may contact Allvoices using the contact 
+                                    information below under "Access" to request removal of their information from our database.  
+                                </p>
+                                <h2>
+                                    Security
+                                </h2>
+                                <p>
+                                    We endeavor to safeguard and protect our users' information. When users submit
+                                    information on our website, such information is protected both online and offline.
+                                    The servers in which we store PII are kept in a secure physical environment.
+                                    Allvoices has security measures in place to protect against the loss, misuse and
+                                    alteration of personal information under our control. Please be advised that,
+                                    although we take reasonable technological precautions to protect your data, no
+                                    data transmission over the Internet can be guaranteed to be 100% secure. Therefore,
+                                    Allvoices cannot warrant that your information will be absolutely secure. Any
+                                    transmission of data at or through our website is at your own risk. However, access
+                                    to your information is strictly limited, and not accessible to the public.
+                                </p>
+                                <h2>
+                                    Children's Privacy
+                                </h2>
+                                <p>
+                                    Allvoices places the highest value on the privacy of children. Allvoices does not
+                                    knowingly collect PII from children under the age of 13.
+                                </p>
+                                <h2>
+                                    Access
+                                </h2>
+                                <p>
+                                    Individuals wishing to review PII collected by Allvoices on this website should
+                                    write to<br><br>
+                                        Allvoices’ Privacy Department, c/o PulsePoint<br>
+                                        20 Broad Street, 6th Floor<br>
+                                        New York, NY 10014.<br><br>
+                                        Allvoices may take reasonable steps to confirm the identity of
+                                    the consumer in an effort to prevent identity theft.
+                                </p>
+                                <h2>
+                                    European Union and Other Non-US Residents
+                                </h2>
+                                <p>
+                                    Your information may be stored and processed in any country in which Allvoices or
+                                    its affiliates maintain facilities, including in the United States, which may not
+                                    have protections equivalent to those in your home country. For purpose of providing
+                                    the service or sharing or disclosing data for purposes noted in this policy, Allvoices
+                                    reserves the right to transfer information outside of your country. By using and
+                                    registering on the Allvoices website, you consent to the transfer of information
+                                    outside of your country.
+                                    In addition, Allvoices’ parent company, PulsePoint, has self-certified to the
+                                    Department of Commerce's Safe-Harbor framework, and we adhere to the Safe-Harbor
+                                    Principles. For more information on the Safe-Harbor program, visit
+                                        <a href="http://export.gov/safeharbor" target="_blank">http://export.gov/safeharbor</a>.
+                                        If you are a European resident and have a data-privacy inquiry, you may contact
+                                        us at <a href="mailto:info@pulsepoint.com">info@pulsepoint.com</a> or in writing at:
+                                </p>
+                                <p>
+                                    PulsePoint<br>
+                                    20 Broad Street, 6th Floor<br>
+                                    New York, NY 10014<br>
+                                    Tel: (212) 706-9781<br>
+                                </p>
+                                <p>
+                                    If your data privacy inquiry was not satisfactorily resolved by us then you may
+                                    contact the DMA Safe Harbor Program at:<br><br>
+                                    Safe Harbor Line Direct Marketing Association<br>
+                                    1615 L Street, NW - Suite 1100<br>
+                                    Washington, DC 20036<br>
+                                    Fax: 202-955-0085<br>
+                                    Telephone: 202-861-2410<br>
+                                    Email: <a href="mailto:safeharbor@the-dma.org">safeharbor@the-dma.org</a>
+                                </p>
+                                <h2>
+                                    Your California Privacy Rights
+                                </h2>
+                                <p>
+                                    California Civil Code Section 1798.83 permits California residents who have
+                                    provided PII to PulsePoint or its partners to request certain information regarding
+                                    Allvoices disclosure of PII to third parties for their direct marketing purposes.
+                                    Within thirty days of receiving such a request, we will provide a list of the categories
+                                    of PII disclosed to third parties for third-party direct marketing purposes during the
+                                    immediately preceding calendar year, along with the names and addresses of the third
+                                    parties when required. This request may be made no more than once per calendar year.
+                                    We reserve our right not to respond to requests submitted other than to the address
+                                    specified in this section.
+                                    If you have any questions about your California privacy rights or this Privacy
+                                    Policy, please contact us at <a href="mailto:privacy@allvoices.com">privacy@allvoices.com</a>
+                                        or in writing at:<br><br>
+                                    Allvoices Privacy Department<br>
+                                    c/o PulsePoint<br>
+                                    20 Broad Street, 6th Floor<br>
+                                    New York, NY 10014<br>
+                                    Tel: (212) 706-9781<br>
+                                </p>
 
 
-<script type="text/javascript">
-    trackVisit();
-</script>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.4.0/jquery.min.js"></script>
-<script src="//cdn.faniq.com/js/jquery.sonar.min.js"></script>
-<script type="text/javascript">
+                            </section>
+                        </div>
+
+                            <!-- <div class="clearboth"></div>-->
+
+                    </article>
+
+
+                </div><!-- supercol -->
+                <div class="rightrail col-lg-2 col-md-2 col-sm-2 hidden-xs"></div><!-- rightrail -->
+            </div><!-- row -->
+        </div><!-- container -->
+    </div>
+
+
+
+        <footer id="footer">
+    <div class="container">
+        <div class="row">
+
+            <div class="fauxcolumn">
+                <section id="footerblock_1" class="item copyblock">
+                    <h3>Allvoices.com</h3>
+                    <p>
+                        Allvoices is an exclusive community where freelance writers can get connected to some of the top brands, events and organizations in the world.
+                    </p>
+                    <p>
+                        Writers can use the publishing tool and their unique profile page to show off what types
+                        of writing projects they would be best suited for. The Allvoices editorial team selects
+                        writers whose strengths and qualifications align with the content needs of our various
+                        clients and curates their work to ensure that our global audience always has fresh stories
+                        to read.
+                    </p>
+                </section>
+                <section id="footerblock_3" class="item subnav">
+                    <h3>Corporate Links</h3>
+                    <div class="footercorplinks">
+                        <a href="mailto:help@allvoices.com"><span>Contact Us</span></a>
+                        <a href="/termsofuse"><span>Terms of Use</span></a>
+                        <a href="/privacy"><span>Privacy Policy</span></a>
+                        <a href="/dmca"><span>DMCA Policy</span></a>
+                        <a href="/howitworks"><span>How It Works</span></a>
+                        <a href="/writers" class="ourTalent"><span>Our Talent</span></a>
+
+
+                        <iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=allvoices&amp;show_count=false" style="width:300px; height:20px;"></iframe>
+
+
+                    </div>
+
+                </section>
+            </div>
+
+
+            <div class="fauxcolumn">
+                <section id="footerblock_4" class="item copyblock">
+                    <h3>BrandSpace <span>by PulsePoint</span></h3>
+                    <p>BrandSpace is a venue for our best sponsored content to be featured on
+                        <a href="http://www.allvoices.com" target="_blank">Allvoices.com</a>.
+                        PulsePoint is a leader in the content marketing space, and our stable of great content
+                        creators helps our partners reach and connect to their desired audience. BrandSpace is
+                        where that content lives.
+                    </p>
+                </section>
+                <section id="footerblock_5" class="item copyblock">
+                    <h3>About PulsePoint</h3>
+                    <p>We want to give our buyer and seller clients priority access to smarter impressions across
+                        the web so they have better targeting, better insights, and better ROI. We do this
+                        through impression-level transparency on proprietary audience, content and
+                        engagement data segments.
+                    </p>
+                </section>
+            </div>
+
+
+
+            <div class="fauxcolumn">
+                <section id="footerblock_6" class="item copyblock">
+                    <h3>Writer Community</h3>
+                    <p>
+                        Allvoices’ writers are passionate and knowledgeable about a variety of subjects. They have
+                        written for some of the top brands, organizations and events in the world and have considerable
+                        experience creating truly engaging, authentic content.
+                    </p>
+                    <p>
+                        To join this community of freelance writers, you must apply and be selected by our team
+                        of editors. If your application is accepted, you will become eligible to be selected
+                        for sponsored content projects.
+                    </p>
+                </section>
+                
+            </div>
+
+
+
+        </div><!-- row -->
+    </div><!-- container -->
+</footer>
+
+
+        
+        <iframe src="http://bh.contextweb.com/bh/rtr?id=L77FHQ" width="0" height="0" tabindex="-1"></iframe>
     
-           jQuery.noConflict();  
-           jQuery(document).ready(function($){
-               $("img, iframe").bind("scrollin", function(){
-		var img = this,
-                $img = $(img),
-                data_src = $img.attr( "data-src" );
-                if(typeof data_src != 'undefined'){
-                         img.src = data_src;    
-                }
-            });
-           })
-        </script>
+
 </body></html>
