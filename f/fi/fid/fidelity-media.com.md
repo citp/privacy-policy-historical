@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the fidelity-media.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205133257id_/http%3A//fidelity-media.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fidelity-media.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607131116id_/http%3A//fidelity-media.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Fidelity Media Ad Network
+# Privacy Policy | Fidelity Media Ad Network
 
-### Privacy Policy
-
-## Acceptance of Terms
+### Acceptance of Terms
 
 Please read this policy carefully since by visiting this website (“Website”) and/or sharing information with us, you agree to be bound by this Privacy Policy. The Privacy Policy may be revised or updated at any time by us. This page was last updated as of the date at the top of this Privacy Policy.
 
-## Summary
+### Summary
 
 **We do not collect personally identifiable information (“PII”) such as:**
 
@@ -48,19 +46,19 @@ Members of the Fidelity Media Ad Network include publishers and advertisers invo
 
 If you have any questions about this Privacy Policy, the practices of or your dealings with us relating to this Privacy Policy, please email us at [privacy@fidelity-media.com](mailto:privacy@fidelity-media.com "Privacy Policy Email").
 
-## Opt-Out
+### Opt-Out
 
 We may use third-party advertising companies as a backfill to serve ads when it is necessary. These companies may use information (not including your name, address email address or telephone number) about your visits in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [networkadvertising.org](http://www.networkadvertising.org/managing/opt_out.asp "NetworkAdvertising.org") web resource can be useful for you.
 
-## Security
+### Security
 
 Fidelity Media employs appropriate measures to ensure the security of all Information and We routinely evaluate our practices to identify security threats or opportunities for the improvement of our services. No transmission of information is guaranteed to be completely secure. Unauthorized entry or use, hardware or software failure, and other factors may compromise data security. You acknowledge and agree to assume this risk when communicating with us.
 
-## Changes
+### Changes
 
 As the standards governing Internet privacy continue to evolve, Fidelity Media may find it appropriate or necessary to update this Privacy Policy from time to time. As a result, we reserve the right to change this privacy policy at any time and shall post such changes on the Website. Our Website will state the date the Privacy Policy was last updated. We encourage you to review the Privacy Policy whenever you use this Website to make sure you understand how your information will be used.
 
-## Your Representations
+### Your Representations
 
 YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND APPLICABLE SITE TERMS AND CONDITIONS.
 
