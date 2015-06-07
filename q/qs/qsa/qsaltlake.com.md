@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qsaltlake.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129160256id_/http%3A//gaysaltlake.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qsaltlake.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140739id_/http%3A//gaysaltlake.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy - QSaltLake - Utah LGBT news, bars, views, arts
 
