@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the havehost.com privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112113300id_/http%3A//www.havehost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the havehost.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142418id_/http%3A//havehost.com/privacy.html) for the most accurate reproduction.*
 
 # HaveHost™ - Privacy Policy - Away in Lock and Key
 
