@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mexiconewsdaily.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225220707id_/http%3A//mexiconewsdaily.com/%3Fp%3D1525) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mexiconewsdaily.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607072918id_/http%3A//mexiconewsdaily.com/%3Fp%3D1525) for the most accurate reproduction.*
 
 # Mexico News Daily Privacy Policy
 
@@ -20,14 +20,14 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Mexico News Daily may collect and use Users personal information for the following purposes:
 
-  * _\- To improve our Site_  
+  *  _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  * _\- To send periodic emails_  
+  *  _– To send periodic emails_  
 We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
 
-**How we protect your information**
+ **How we protect your information**
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
