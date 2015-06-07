@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acn.aero privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120170524id_/http%3A//flyaero.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acn.aero privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174316id_/http%3A//www.flyaero.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Aerocontractors the reliable way to fly - Book cheap flights flyaero.com
 
@@ -32,7 +32,7 @@ Aero will not transfer your personal information to third parties without your c
 Aero may send your personal information to other companies or people under any of the following circumstances: when we have your consent to share the information; we need to share your information to provide the service or booking you have requested; we need to send the information to companies who work on behalf of Aero to provide the requested service to you (we will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose). We will also disclose your personal information if required to do so by law, to enforce our Terms and Conditions, or in urgent circumstances, to protect personal safety, the public or our websites.
 
 **Data Security** **  
-** In certain areas of our websites, Aero uses industry-standard SSL-encryption to enhance the security of data transmissions (Powered by Airkiosk). While we strive to protect your personal information, we cannot ensure the security of the information you transmit to us, and so we urge you to take every precaution to protect your personal data when you are on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser.
+** In certain areas of our websites, Aero uses industry-standard SSL-encryption to enhance the security of data transmissions (Powered by HITIT). While we strive to protect your personal information, we cannot ensure the security of the information you transmit to us, and so we urge you to take every precaution to protect your personal data when you are on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser.
 
 **Changes to this Privacy Policy** **  
 ** Aero will amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will make that information available by posting a notice on this site. We advise you check this policy occasionally to ensure you are aware of the most recent version which will apply each time you access this website.
