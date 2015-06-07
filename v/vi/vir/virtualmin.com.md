@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualmin.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121012032id_/http%3A//www.virtualmin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualmin.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152308id_/https%3A//virtualmin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Virtualmin
 
@@ -8,7 +8,7 @@ We may use client IP addresses to diagnose problems with our web-site. Client ac
 
 Purchased software requires a license key, and an active software updates subscription on our updates server, in order to function fully. License keys and subscription IDs are used only for the purpose of verifying license compliance, and notifying customers of upcoming license renewals. This data will not be sold or disclosed to third parties.
 
-Any personal and financial information gathered for the purposes of commerce will be transmitted via a Secure Sockets Layer (SSL) connection with 128-bit encryption, using a certificate provided by GoDaddy.com, Inc. This information will be kept confidential.
+Any personal and financial information gathered for the purposes of commerce will be transmitted via a Secure Sockets Layer (SSL) connection with 128-bit encryption, using a certificate provided by COMODO CA Limited. This information will be kept confidential.
 
 Your email address will be used to email copies of your order information including order number and details. We do not give away or sell your email address to other companies. We only use this information to contact you regarding your order and to provide better customer support. In the Virtualmin.com community there are many opportunities to subscribe to email notifications and mailing lists, but you will not be subscribed automatically to any email notifications or mailing lists. You may unsubscribe from our website notifications or mailing lists at any time. You may control all of your subscriptions and notifications on the My Account page under the Notifications tab.
 
