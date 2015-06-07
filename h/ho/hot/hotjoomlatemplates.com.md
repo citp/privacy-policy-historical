@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the hotjoomlatemplates.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121025742id_/http%3A//www.hotjoomlatemplates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotjoomlatemplates.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607133728id_/http%3A//www.hotjoomlatemplates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HotThemes
 
 Details
-     Last Updated on Wednesday, 29 May 2013 11:35 
+     Last Updated: Wednesday, 29 May 2013 11:35 
 
 **HotThemes** values the privacy and security of the information that you share with us through www.hotjoomlatemplates.com (the “Web Site”).  It is important that you understand how we collect, use, and maintain your information.
 
