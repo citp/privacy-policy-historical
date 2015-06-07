@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoshowny.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207103936id_/http%3A//www.autoshowny.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoshowny.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144400id_/http%3A//www.autoshowny.com/legal/privacy) for the most accurate reproduction.*
 
 # New York International Auto Show - Privacy Policy
 
