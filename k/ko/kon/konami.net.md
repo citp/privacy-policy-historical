@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the konami.net privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223055644id_/http%3A//www.konami.co.jp/en/siteinfo/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the konami.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607044221id_/http%3A//www.konami.co.jp/en/siteinfo/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - KONAMI
 
