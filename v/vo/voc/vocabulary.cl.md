@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the vocabulary.cl privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120132159id_/http%3A//www.vocabulary.cl/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vocabulary.cl privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152047id_/http%3A//www.vocabulary.cl/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](http://www.vocabulary.cl/ "English Vocabulary - Woodward English")
 
 ## www.vocabulary.cl
 
@@ -31,3 +33,20 @@ Vocabulary.cl is in no way responsible for websites that are linked from Vocabul
 Changes may be made at any time according to our privacy policy. Changes will become effective immediately upon changes to this website. Viewers may check this website at anytime to be up to date on the privacy policies of Vocabulary.cl.
 
 Effective Date: 01 January 2008
+
+  
+
+
+### Vocabulary Notes
+
+A variety of different English vocabulary topics including common words lists, charts and example sentences.
+
+[Learn Vocabulary](https://web.archive.org/web/20150607152047id_/http%3A//www.vocabulary.cl/Lists.htm "English Vocabulary Lists and Notes")
+
+### Vocabulary Games
+
+Improve your English with our interactive English vocabulary games. There are many different topics and levels.
+
+[Play our Games](https://web.archive.org/web/20150607152047id_/http%3A//www.vocabulary.cl/Games.htm "English Vocabulary Games")
+
+[VOCABULARY NOTES](https://web.archive.org/web/20150607152047id_/http%3A//www.vocabulary.cl/Lists.htm "English Vocabulary Lists") [VOCABULARY GAMES](https://web.archive.org/web/20150607152047id_/http%3A//www.vocabulary.cl/Games.htm "English Vocabulary Games") [STUDENT SECTION](https://web.archive.org/web/20150607152047id_/http%3A//www.vocabulary.cl/StudentListsGames.htm "English Student Vocabulary Section") [RESOURCES](https://web.archive.org/web/20150607152047id_/http%3A//www.vocabulary.cl/useful-resources.htm "Useful Resources for Learning English") [ENGLISH GRAMMAR](http://www.grammar.cl/ "English Grammar")
