@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stantec.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115162529id_/http%3A//www.stantec.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stantec.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607075049id_/http%3A//www.stantec.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Stantec
 
