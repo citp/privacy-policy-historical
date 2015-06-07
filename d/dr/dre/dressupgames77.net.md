@@ -1,85 +1,41 @@
-> *The following text is extracted and transformed from the dressupgames77.net privacy policy that was archived on 2014-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140825013212id_/http%3A//www.dressupgames77.net/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressupgames77.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607234839id_/http%3A//www.dressupgames77.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - DressupGames77 - Trendy Barbie, Dora & Fashion Dress Up Games Daily
+# Privacy Policy | Dress Up Games
 
-**Privacy Policy**
+### Privacy Policy:
 
-Dressupgames77 providing online flash games for the community of visitors and members follows strict privacy policies on every aspect. 
+Dressupgames77.net (" **Dressupgames77** ") operates Dressupgames77.net and may operate other websites. It is Dressupgames77's policy to respect your privacy regarding any information we may collect while operating our websites.
 
-**Children under 13:**
+### Website Visitors
 
-Dressupgames77 is not directed for children less than 13 years of age. We comply with the Children’s Online Privacy Protection Act (COPPA). We do not collect any personal information if someone is identified as under the age of 13 when we ask for age.
+Like most website operators, Dressupgames77 collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Dressupgames77's purpose in collecting non-personally identifying information is to better understand how Dressupgames77's visitors use its website. From time to time, Dressupgames77 may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-Parents can contact us by emailing if they suspect or find their child submitted any personal information to us. We will delete the information on investigating and finding that it relates to a child who is under the age of 13. On this case, we would find ourselves responsible to mention that some of the submitted information may remain in web logs and archives even though if it is deleted from our end. We trust that parents always monitors their child’s online activities and use utilities to control their child’s online activities of visiting non-kid friendly websites as well as furnishing personal information online.
+Dressupgames77 also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on Dressupgames77.net blogs/sites. Dressupgames77 only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
 
-**General Information Collection:**
+### Gathering of Personally-Identifying Information
 
-We collect user information only to provide you a customized experience on our portal. We believe you to help us keep on tweaking and improving our content, services, advertising to your needs and goods. Mainly for this reasons, we may request you to register with us while you try to post comments, subscribe to content, subscribe to newsletter, participate on some contest if conducted, and/or visit certain area of the portal. You can access the content even if you are not registered, but will not be able to use few features like commenting, subscribing and so on.
+Certain visitors to Dressupgames77's websites choose to interact with Dressupgames77 in ways that require Dressupgames77 to gather personally-identifying information. The amount and type of information that Dressupgames77 gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [Dressupgames77.net](http://www.dressupgames77.net/) to provide a username and email address. Those who engage in transactions with Dressupgames77 are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Dressupgames77 collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Dressupgames77. Dressupgames77 does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-If you register with us, we may send you periodical email messages about new game releases, about our other services, or third party products and services which we believe comes under your interest as per the information you registered with us. Few of our emails may have code in them to track your usage of our emails. We use those tracking stats to improve your experiences in our portal, and to customize the correspondences between you and Dressupgames77. Other than these, you may receive automatic emails from us on registration confirmations, new games releases, customer support messages and so on if you have opted in. You can anytime opt-out of any of those subscription list.
+### Aggregated Statistics
 
-**Information Handling:**
+Dressupgames77 may collect statistics about the behavior of visitors to its websites. Dressupgames77 may display this information publicly or provide it to others. However, Dressupgames77 does not disclose personally-identifying information other than as described below.
 
-When you register with Dressupgames77, we ask for your email address, a nickname, which has to be unique of your preference and other information. You have privilege to change the registered information anytime logging into your member area.
+### Protection of Certain Personally-Identifying Information
 
-All communication on the Internet takes place between pairs of IP Addresses. Our Web servers will log the IP address that any connection is made from. We may use these IP addresses to help diagnose technical problems or prevent abuse of our systems or other site users. Your IP address may also be used to gather aggregate demographic data and target advertisements accordingly. Your browser has options to accept, reject, or provide you with notice when a cookie is sent. A "cookie" is a small line of text that is stored with your Web browser for record-keeping purposes and to help us provide better service to you. We use cookies to save your password (in an encrypted format) on your machine so you don't have to re-enter it each time you visit our site. We also use cookies to deliver content specific to your interests and track your downloads and purchases from our site. 
+Dressupgames77 discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Dressupgames77's behalf or to provide services available at Dressupgames77's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Dressupgames77's websites, you consent to the transfer of such information to them. Dressupgames77 will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Dressupgames77 discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Dressupgames77 believes in good faith that disclosure is reasonably necessary to protect the property or rights of Dressupgames77, third parties or the public at large. If you are a registered user of an Dressupgames77 website and have supplied your email address, Dressupgames77 may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Dressupgames77 and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Dressupgames77 takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-We use companies [Google (www.google.com), Valueclick (www.valueclickmedia.com) to serve the advertisements on some of our pages. These companies and advertisers may place and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not ours. We may use your information or allow advertisers or companies that serve advertisements access to your information to determine which advertisements you will see. This information may include your demographic information, geographic location, what content you access on our site, how you rate various content, language contained in your comments and other information. 
+### Cookies
 
-Our site contains links, including banner and other ads, to other Websites. We are not responsible for the privacy practices or the content of such Websites. Our site may also link to Websites that feature our trademarks and names along with trademarks and names of other companies. You should look at the privacy policy on that co-branded Website, as the co-branded Website may not be under our control. 
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Dressupgames77 uses cookies to help Dressupgames77 identify and track visitors, their usage of Dressupgames77 website, and their website access preferences. Dressupgames77 visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Dressupgames77's websites, with the drawback that certain features of Dressupgames77's websites may not function properly without the aid of cookies.
 
-For reasons such as improving member experience and providing customized communications to our users, we may receive information about you from third party sources and our web logs and adds it to the information that we have received from you. Web logs automatically record anything a web server sees, which may include e-mail addresses you enter into a form or pages viewed by a user at a particular IP address. 
+### Business Transfers
 
-**Advertisements:**
+If Dressupgames77, or substantially all of its assets, were acquired, or in the unlikely event that Dressupgames77 goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Dressupgames77 may continue to use your personal information as set forth in this policy.
 
-The [DoubleClick DART](http://www.doubleclick.com/privacy/faq.aspx) cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. 
+### Ads
 
->   * Google, as a third party vendor, uses cookies to serve ads on your site. 
->   * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
->   * Users may opt out of the use of the DART cookie by visiting the Google ad and content network [privacy policy.](http://www.google.com/privacy_ads.html)
-> 
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Dressupgames77 and does not cover the use of cookies by any advertisers.
 
+### Privacy Policy Changes
 
-**Sharing Information:**
-
-We will not share your personally identifiable information with third parties, aside from entities that perform services for us, such as fulfilling orders or processing payment, that either are bound to comply with our privacy policy or have privacy policies that protect your information unless you have "opted-in" to such sharing. If you have previously opted-in to such sharing under a prior privacy policy version, you are still considered to have opted-in under this privacy policy. As stated, and whether or not you have opted-in, we may use third parties to accept and process orders for merchandise and products, including software, and such third parties may get access to your personal information for the purposes of providing services or products to you on our behalf. In addition, if you opt-out, we may share that information with third parties who send e-mails on our behalf so that they do not e-mail you. 
-
-However, we may disclose information you provide if required to do so by law or if we have a good faith belief that disclosure is necessary to (1) comply with the law or with legal process served on us; (2) protect and defend our rights or property; or (3) act in an emergency to protect someone’s safety. 
-
-We may request demographic information from you (for example, your age, education level or household income) from time to time. We will not share that information in a manner that identifies you as an individual with any other entity, unless we let you know that at the time of collection or we have your permission. When we share demographic information with third parties, we will give them aggregate information only. 
-
-In the event that we acquired by another company, your personal information may be part of the assets transferred to the acquiring party. 
-
-**Opt-Out:**
-
-If you provide us with your e-mail address, and do not opt-out of receiving e-mail from us, we may e-mail you with information, including information about selected third parties. If you do not want to receive information from us, you may decline to receive it (or "Opt-Out") either when you provide personal information to us or you may update your profile. You may also choose to Opt-Out from certain types of e-mail by following the unsubscribe instructions that appear on each newsletter. You may also contact us through email. Please note that there might be a brief delay between when you submit your request to opt-out and when it is processed and reflected in our systems; accordingly you might continue to receive e-mails from us for a few days after you unsubscribe. We maintain records of those users, who opt-out of specific e-mail options so that we do not e-mail them with respect to those types of e-mails, and we may share this information with third parties who send e-mails on our behalf so that they do not e-mail you; this information may also be contained in web logs.
-
-**Other:**
-
-We have security measures in place to protect the loss, misuse and alteration of the information under our control. These include a firewall to prevent unauthorized access to our systems and maintenance of registration information in a separate database. Although we will exercise reasonable care in providing secure transmission of information between your computer and our servers, we cannot ensure or warrant the security of any information transmitted to us over the Internet and we accept no liability for any unintentional disclosure. Even though we have no obligation of payments towards any of our services right now, we will protect the transmission of credit card information through industry standard, SSL (secure socket layer) encryption in future if we add any commercial services. 
-
-We may offer chat, user reviews, multi-player games, bulletin board, or other public functions and any posting by you are considered public information available to other users. Any posting is governed by our Terms of Use. You should take care to not use personal information in your screen name or other information that might be publicly available to other users. 
-
-If a user elects to use our site for informing a friend about our site or particular features or content, we ask them for the friend's name and e-mail address. We will automatically send the friend a one-time e-mail inviting them to visit our site. We store this information for the sole purpose of sending this one-time e-mail. 
-
-Your personal information is password-protected, and you should take appropriate measures to protect the secrecy of your password. If you use a computer in a public place or share a computer with others, remember to sign out and close your browser window when you finish a session with us in order to prevent others from accessing your personal information. 
-
-We maintain archives of our web logs, database, and other systems and information. Please note that it is possible some of this information may remain archived after we delete the information from its active database (see above regarding web logs). We maintain archives for disaster recovery, legal and other non-marketing purposes. 
-
-**Profile:**
-
-You are responsible for maintaining the accuracy of your profile by notifying us when you change your address, title, phone number, or e-mail address. If at any time you wish to update your information or stop receiving communication from us, sign in and then select "update your profile" to change your newsletter preferences.
-
-**Games Copyright and Licensing Terms:**
-
-Dressupgames77 reserves rights on games developed by us, which you can find under Exclusive Games area in the portal. We reserve the rights to decide on distributing those games in various other portals. Other games, hosted with us are developed by others. They are either submitted to us requesting us to host it or we have permission taken from other webmasters and developers to host their games in our portal. If you believe some one have submitted a game owned by you by mistake and if you want that to be removed, please send us some type of verification of ownership and we will promptly remove it with immediate effect.
-
-**Contact:**
-
-Please address comments or questions regarding this Privacy Policy to us by e-mail at [webmaster_[AT]_dressupgal.com](mailto:webmaster_\[AT\]_dressupgal.com)
-
-**Binding Agreement:**
-
-Your use of our site, including any dispute concerning privacy, is subject to this Privacy Policy. By using our Site, you are accepting the practices set out in this Privacy Policy. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of our Site following posting of the updated Privacy Policy will constitute your acceptance of the changes.
-
-_01/07/2010_
+Although most changes are likely to be minor, Dressupgames77 may change its Privacy Policy from time to time, and in Dressupgames77's sole discretion. Dressupgames77 encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a Dressupgames77.net account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
