@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the problem-attic.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230081347id_/http%3A//www.problem-attic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the problem-attic.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607040612id_/http%3A//www.problem-attic.com/privacy) for the most accurate reproduction.*
 
 # Problem-Attic
 
@@ -6,7 +6,7 @@
 
 Problem-Attic is a web-based program developed by EducAide Software. We are pleased to make the program available to everyone in the educational community: teachers, homeschoolers, tutors, researchers, parents and students.
 
-Because of the wide appeal of Problem-Attic and its many possible uses (classroom instruction, assessment, personalized learning), you should carefully read this Privacy Policy and related [Terms of Service](https://web.archive.org/web/20141230081347id_/http%3A//www.problem-attic.com/terms) to see what rules govern your particular situation. If you do not agree with the rules, then you must not make any further use of Problem-Attic.
+Because of the wide appeal of Problem-Attic and its many possible uses (classroom instruction, assessment, personalized learning), you should carefully read this Privacy Policy and related [Terms of Service](https://web.archive.org/web/20150607040612id_/http%3A//www.problem-attic.com/terms) to see what rules govern your particular situation. If you do not agree with the rules, then you must not make any further use of Problem-Attic.
 
 ## Collection of Information
 
@@ -25,15 +25,15 @@ EducAide Software (hereinafter “EAS”) collects and stores certain types of p
 
 ## Safeguarding and Use of Information
 
-The information collected by EAS will be stored securely on EAS’s or other host servers. (EducAide uses some third-party vendors to provide hardware, software, networking, storage, and related technologies required to run the Program. See [Terms of Service](https://web.archive.org/web/20141230081347id_/http%3A//www.problem-attic.com/terms) for more details.)
+The information collected by EAS will be stored securely on EAS’s or other host servers. (EducAide uses some third-party vendors to provide hardware, software, networking, storage, and related technologies required to run the Program. See [Terms of Service](https://web.archive.org/web/20150607040612id_/http%3A//www.problem-attic.com/terms) for more details.)
 
 The information collected by EAS will _not_ be sold, traded, bartered, given away, or used for solication by a third-party without your explicit permission.
 
-EAS may use the information it collects to improve Program performance and quality of service, to study operation of the Program and user preferences, and to notify you of changes to the Program, including service interruptions, bugfixes, new features, or changes to [Terms of Service](https://web.archive.org/web/20141230081347id_/http%3A//www.problem-attic.com/terms) or this Privacy Policy.
+EAS may use the information it collects to improve Program performance and quality of service, to study operation of the Program and user preferences, and to notify you of changes to the Program, including service interruptions, bugfixes, new features, or changes to [Terms of Service](https://web.archive.org/web/20150607040612id_/http%3A//www.problem-attic.com/terms) or this Privacy Policy.
 
 EAS may share information it collects with any agent or direct affiliate, such as a content- or application-development partner or company hired by EAS to assist with emails, newsletters, marketing, and other customer and public relations activities.
 
-EAS may share the information it collects with third-parties, as EAS deems necessary, to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving threats to another person, violations of [Terms of Service](https://web.archive.org/web/20141230081347id_/http%3A//www.problem-attic.com/terms), or as otherwise required by law.
+EAS may share the information it collects with third-parties, as EAS deems necessary, to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving threats to another person, violations of [Terms of Service](https://web.archive.org/web/20150607040612id_/http%3A//www.problem-attic.com/terms), or as otherwise required by law.
 
 ## Cookies
 
