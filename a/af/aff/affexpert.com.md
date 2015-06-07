@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affexpert.com privacy policy that was archived on 2014-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141005154157id_/http%3A//affexpert.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affexpert.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145010id_/http%3A//www.affexpert.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
