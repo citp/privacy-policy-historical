@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clarifai.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011095241id_/http%3A//www.clarifai.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarifai.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144052id_/http%3A//www.clarifai.com/privacy) for the most accurate reproduction.*
 
-# Image Classifier Terms
+# Clarifai: Privacy Policy
 
 **CLARIFAI, INC.**
 
@@ -17,7 +17,7 @@ Welcome to Clarifai, the online and mobile service of Clarifai, Inc. (“Clarifa
 
 **1.               _HOW WE COLLECT AND USE INFORMATION_**
 
-Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](https://web.archive.org/terms.html). 
+Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](https://web.archive.org/terms). 
 
 We collect the following types of information about you:
 
