@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the axisrooms.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203142044id_/http%3A//www.axisrooms.com/public/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axisrooms.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607134037id_/http%3A//www.axisrooms.com/public/privacyPolicy.html) for the most accurate reproduction.*
 
-# Terms of Use - AxisRooms - Channel manager for Hotels | Hotel Channel Management | Channel Management
+# Privacy Policy - AxisRooms - Channel manager for Hotels | Hotel Channel Management | Channel Management
 
 **1\. OVERVIEW**
 
