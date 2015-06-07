@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funkyappsworld.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213220305id_/http%3A//funkyappsworld.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funkyappsworld.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607071425id_/http%3A//funkyappsworld.com/privacy_policy.php) for the most accurate reproduction.*
 
 # 
 
