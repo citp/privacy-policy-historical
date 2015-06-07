@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the myadmonster.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120115755id_/http%3A//www.myadmonster.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myadmonster.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608002505id_/http%3A//www.myadmonster.com/privacy.php) for the most accurate reproduction.*
 
-# MyAdMonster.com Privacy Policy
-
-## Free Ads! Free Classifieds!
-
-### Post free U.S., Canadian and International Ads.
-
-#### No account required. Classified advertising made easy!
+# MyAdMonster.com Privacy Policy | Post Free Ads
 
 ### MyAdMonster.com Privacy Policy
 
