@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the icovia.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217011647id_/http%3A//www.icovia.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icovia.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607071156id_/http%3A//www.icovia.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Icovia is committed to protecting and respecting your privacy. Indeed, protection of your data is one of the key success criteria by which we measure our performance. And we believe that these policies should be fully disclosed to the public. This privacy policy is based on our belief that customer information should be handled with the utmost respect and should only be shared with other organizations only with the express authorization of our customers. Simply put, we do not sell customer lists or related customer information to other companies. 
+2020 is committed to protecting and respecting your privacy. Indeed, protection of your data is one of the key success criteria by which we measure our performance. And we believe that these policies should be fully disclosed to the public. This privacy policy is based on our belief that customer information should be handled with the utmost respect and should only be shared with other organizations only with the express authorization of our customers. Simply put, we do not sell customer lists or related customer information to other companies. 
 
-In as far as this represents best practice on the web, Icovia is committed to complying with these standards so that members can feel secure in the knowledge that their personal data is properly managed. 
+In as far as this represents best practice on the web, 2020 is committed to complying with these standards so that members can feel secure in the knowledge that their personal data is properly managed. 
 
-If you have questions or concerns regarding this statement, you should first contact Icovia Customer Support via the contact form at http://www.icovia.com/contact.aspx. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, please contact our Customer Advocate at (+1) 514-332-4110. 
+If you have questions or concerns regarding this statement, you should first contact 2020 Icovia Customer Support via the contact form at http://www.icovia.com/contact.aspx. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, please contact our Customer Advocate at (+1) 866-698-2020. 
 
-This document discloses the privacy practices for the Icovia Space Planner and icovia.com including: - What personally identifiable information of yours is collected - What organization is collecting the information - How the information is used - With whom the information may be shared - What choices are available to you regarding collection, use and distribution of the information - What kind of security procedures are in place to protect the loss, misuse or alteration of information under Icovia's control - How you can correct any inaccuracies in the information 
+This document discloses the privacy practices for the 2020 Icovia Space Planner and icovia.com including: - What personally identifiable information of yours is collected - What organization is collecting the information - How the information is used - With whom the information may be shared - What choices are available to you regarding collection, use and distribution of the information - What kind of security procedures are in place to protect the loss, misuse or alteration of information under Icovia's control - How you can correct any inaccuracies in the information 
 
-Questions regarding this privacy policy should be directed to Icovia via our contact form at http://www.icovia.com/contact.aspx. 
+Questions regarding this privacy policy should be directed to 2020 via our contact form at http://www.icovia.com/contact.aspx. 
 
 Table of Contents
 
@@ -36,7 +36,7 @@ Using the Site's web server log files, we use IP addresses to analyze trends, tr
 
 In addition, we use cookies on certain pages of our site. We may also offer certain features that are only available through the use of a cookie. Cookies can also help us provide information which is targeted to your interests. Cookies are stored on your hard drive, not on our site. Most cookies are "session cookies," meaning that they are automatically deleted at the end of a session. The other type of cookie we use is a 'persistent' cookie. This stays on your hard drive and we use this to automatically identify who you are. We use this cookie so that you do not need to log in manually every time you visit the site if you are a registered user. The cookie itself contains no personally identifiable information but it does pass an ID to our server which allows us to tie the cookie to your personal information. We do this to allow us to let you know on the homepage what has changed on the site since your last visit. We also use the cookie to track how often you visit the site so we know who our most loyal users are. You are always free to decline our cookies if your browser permits, although in that case you will not be able to use certain features on our site. For example, if you disable cookies, you will need to log in manually each time you visit the site as we cannot use a cookie to remember who you are. Some of our business partners (e.g. net-filter.com; hitbox.com) use cookies on our site. These are used to monitor site performance and to measure site traffic and usage. We have no access to or control over these cookies. 
 
-Surveys & Contests. From time-to-time our site may request information from users via surveys, contests or for a particular service (e.g. newsletter). Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested will include contact information (as supplied to the site during registration) and supplementary information on your professional interests, opinions and preferences (e.g. choice of software, working practices, opinions on industry issues, feedback on Icovia products and the Icovia web site). We will use the contact information to notify winners. We will not publish winners' details on the site though on request we will provide details of any winners' name and organization. If the survey or contest has a sponsor then we will share information given by entrants with the sponsor. 
+Surveys & Contests. From time-to-time our site may request information from users via surveys, contests or for a particular service (e.g. newsletter). Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested will include contact information (as supplied to the site during registration) and supplementary information on your professional interests, opinions and preferences (e.g. choice of software, working practices, opinions on industry issues, feedback on 2020 Icovia products and the Icovia web site). We will use the contact information to notify winners. We will not publish winners' details on the site though on request we will provide details of any winners' name and organization. If the survey or contest has a sponsor then we will share information given by entrants with the sponsor. 
 
 Payment Processing. In order to process payments online we require the billing address for the credit card used and our external payment provider, CyberSource, requires your credit card details. For details of how your information is used, please see following section. 
 
@@ -66,17 +66,17 @@ As a general proposition, we do not sell or rent any personally identifiable inf
 
 Advertisers. We may aggregate personally identifiable information and disclose such information in aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to personally identify you. 
 
-Legal Requests. Icovia cooperates with law enforcement inquiries and other third parties to enforce laws, intellectual property and other rights. Local, and international law enforcement agents can request and may receive your personally identifiable information. 
+Legal Requests. 2020 cooperates with law enforcement inquiries and other third parties to enforce laws, intellectual property and other rights. Local, and international law enforcement agents can request and may receive your personally identifiable information. 
 
 Suppliers and Other Service Providers. From time to time we use third party Suppliers and Service Providers to facilitate our services. Where any Service Provider collects information directly from you (such as the situation where we ask a Service Provider to conduct a survey for us) you will be notified of the involvement of the Supplier or Service Provider, and all information disclosures you make will be strictly optional. 
 
 **5\. "Email a Plan" Feature**
 
-Icovia offers a feature whereby you can e-mail a copy of an Icovia plan to a friend or colleague. This will involve entering the e-mail address of your friend. We do not use the e-mail addresses you enter for any purpose other than to send your e-mail. We do not store, rent or sell these e-mail addresses. 
+2020 Icovia offers a feature whereby you can e-mail a copy of a plan to a friend or colleague. This will involve entering the e-mail address of your friend. We do not use the e-mail addresses you enter for any purpose other than to send your e-mail. We do not store, rent or sell these e-mail addresses. 
 
 **6\. Control of Your Password**
 
-Except as specifically permitted by this section, you may not disclose your Icovia password to any third parties nor share it with any third parties. If you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password by visiting the Icovia account preferences section under "My Account" which can be found at http://icovia.com/login.aspx. If you wish to change your password for any reason, you can do so at any time at this location. 
+Except as specifically permitted by this section, you may not disclose your 2020 Icovia password to any third parties nor share it with any third parties. If you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password by visiting the Icovia account preferences section under "My Account" which can be found at http://www.icovia.com/manageaccount.aspx?. If you wish to change your password for any reason, you can do so at any time at this location. 
 
 **7\. Reviewing and Changing Your Personally Identifiable Information**
 
@@ -90,25 +90,25 @@ Except as otherwise expressly discussed in this Privacy Policy, this document on
 
 **9\. Security**
 
-In order to process and protect your credit card details, our payment provider CyberSource uses SSL (secure sockets layer) encryption. Icovia is also a licensee of GeoTrust, an industry leader providing secure online transactions. 
+In order to process and protect your credit card details, our payment provider CyberSource uses SSL (secure sockets layer) encryption. 2020 Icovia is also a licensee of GeoTrust, an industry leader providing secure online transactions. 
 
-We use best practices in the Icovia application and web site to safeguard the confidentiality of your personal identifiable information but we do not use encryption (such as SSL) or firewalls to further protect the information as it travels across the Internet. This is because we do not believe that, apart from the credit card information processed by CyberSource, the personal information we currently collect warrants such measures and the accompanying loss of speed experienced. You should be aware that "perfect security" does not exist on the Internet. 
+We use best practices in the 2020 Icovia application and web site to safeguard the confidentiality of your personal identifiable information but we do not use encryption (such as SSL) or firewalls to further protect the information as it travels across the Internet. This is because we do not believe that, apart from the credit card information processed by CyberSource, the personal information we currently collect warrants such measures and the accompanying loss of speed experienced. You should be aware that "perfect security" does not exist on the Internet. 
 
 **10\. Changes to Privacy Policy**
 
-Icovia believes in procatively informing its customers and users of changes in its privacy policy and will make every effort to notify its customers in advance of changes that affect them. 
+2020 believes in procatively informing its customers and users of changes in its privacy policy and will make every effort to notify its customers in advance of changes that affect them. 
 
 **11\. Contact Information**
 
-If you have any questions about the Privacy Policy, the practices of, or your dealings with this site, please contact Icovia at: 
+If you have any questions about the Privacy Policy, the practices of, or your dealings with this site, please contact 2020 at: 
 
-e-mail: support@2020.net 
+e-mail: 2020icovia.support@2020spaces.com 
 
 Mail: 
 
-Customer Advocate 
+2020 Icovia Customer Advocate 
 
-20-20 Icovia Inc. 
+20-20 Technologies 
 
 400 Boulevard Armand Frappier #2020 
 
@@ -116,6 +116,6 @@ Laval, QC H7V 4B4
 
 Canada 
 
-Telephone: (+1) 514-332-4110 
+Telephone: (+1) 866-698-2020 
 
-Fax: (+1) 514-334-6043
+Fax: (+1) 866-621-2020
