@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tpmrpg.net privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121083958id_/http%3A//tpmrpg.net/legal.php%3Farea%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tpmrpg.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174056id_/http%3A//tpmrpg.net/legal.php%3Farea%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy :: The Pokémon Moon :: Online Pokemon RPG/Game
+# Privacy Policy :: The Pokemon Moon RPG :: Online Pokemon RPG Game
 
-Privacy Policy :: The Pokémon Moon :: Online Pokemon RPG/Game
+Privacy Policy :: The Pokemon Moon RPG :: Online Pokemon RPG Game
 
 ## Privacy Policy
 
@@ -13,7 +13,7 @@ Cookies and sessions are utilized upon this website in order to store temporary 
 
 We do not carry responsibility for links posted upon this website. Our staff team will try their hardest to limit malicious links posted. To report somebody or a malicious link, please e-mail webmaster@crystala.net. We will not always respond, however we will read your e-mail and appropriate action will be taken.
 
-It is not our responbility for what other users post; including malicious content, personal information, swear words, pornographic images, etc. As per usual, we will attempt to limit it and give proper punishment to those who perform such actions.
+It is not our responsibility for what other users post; including malicious content, personal information, swear words, pornographic images, etc. As per usual, we will attempt to limit it and give proper punishment to those who perform such actions.
 
 Passwords are all highly encrypted several times. Nobody has access to plain-text passwords. You are responsible for keeping your own password safe. Do not use the same password on multiple websites.
 
