@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tucando.com privacy policy that was archived on 2014-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141227074736id_/http%3A//tucando.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tucando.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607074724id_/http%3A//tucando.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 	<title>Free Business Directory - Free Advertising. | Tucando.com</title>
@@ -15,13 +15,14 @@
     <link type="text/css" href="/style/boxes.css" rel="stylesheet" charset="utf-8">
     <link type="text/css" href="/style/dwstyle.css" rel="stylesheet" charset="utf-8">
     
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/jquery-1.4.2.min.js"></script>
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/scripts/jquery-1.4.2.min.js"></script>
+	<script type="text/javascript" src="/scripts/jquery.cookie.js"></script>
     <script type="text/javascript" src="/scripts/jquery.lightbox-0.5.min.js"></script>
     <link rel="stylesheet" type="text/css" href="/css/jquery.lightbox-0.5.css" media="screen">
         
     <script type="text/javascript" src="/scripts/dwgen.js" charset="utf-8"></script>
     
-  <script type="text/javascript">
+  <!--<script type="text/javascript">
 
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-25992387-1']);
@@ -33,7 +34,17 @@
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
 
-  </script>	
+  </script>	-->
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-15802623-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 
 
 	<script type="text/javascript">
@@ -450,7 +461,10 @@ Our commitment to being a leading provider of online business directory services
 </div>
 </div>
 <div id="footer">
-
+<div class="indegogo_popup">
+	<div class="indegogo_popup_close"></div>
+	<a href="https://www.indiegogo.com/projects/tucando-free-global-business-social-voucher-hub--2"><img src="/images/indegogo_popup.jpg"></a>
+</div>
 <table width="1000" border="0" cellspacing="0" cellpadding="0">
     <tbody>
         <tr>
@@ -502,7 +516,7 @@ Like our Free Services? Reward Us
                         E-mail: <a href="mailto:info@tucando.com?subject=Tucando Website Enquiry" class="footerlink">info@tucando.com</a></p>
                         <!--Date: 1november13-->
                          <p style="color:#ffffff;line-height:150%;font-family:Verdana, Arial, Helvetica, sans-serif; font-size:20px;">
-						 								 <a href="press.php" class="footerlink">
+    					 								 <a href="press.php" class="footerlink">
                                  PRESS
                                  </a>
 						                        </p>
@@ -532,10 +546,45 @@ Like our Free Services? Reward Us
         </tr> 
     </tbody>
 </table>
-
+<div class="indegogo_popup_overlay"></div>
 </div> <!-- End of footer div -->
 </div> <!-- End of page div -->
 
 </center>
+
+<!--<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-59802449-1', 'auto');
+  ga('send', 'pageview');
+</script>-->
+<script>
+$(document).ready(function() {
+	if($.cookie('hide_indegogo_popup') == 'null' || $.cookie('hide_indegogo_popup') != 1){
+		$('.indegogo_popup').show();
+		$('.indegogo_popup_overlay').show();
+	}
+	else {
+		$('.indegogo_popup').hide();
+		$('.indegogo_popup_overlay').hide();
+	}
+	$('.indegogo_popup a').click(function(event){
+		event.preventDefault();
+		$.cookie('hide_indegogo_popup', 1, {path    : '/', });
+		var url = $(this).attr('href');
+		window.open(url, '_blank');
+		$('.indegogo_popup').hide();
+		$('.indegogo_popup_overlay').hide();
+	});
+	$('.indegogo_popup_close').click(function(event){
+		$.cookie('hide_indegogo_popup', 1, {path    : '/', });
+		$('.indegogo_popup_overlay').hide();
+		$('.indegogo_popup').hide();
+	});
+});
+</script>
 
 </body></html>
