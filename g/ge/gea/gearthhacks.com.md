@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gearthhacks.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226123450id_/http%3A//www.gearthhacks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gearthhacks.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607043856id_/http%3A//www.gearthhacks.com/privacy.php) for the most accurate reproduction.*
 
 # Google Earth Hacks - Privacy Statement
 
