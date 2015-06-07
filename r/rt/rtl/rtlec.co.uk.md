@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the rtlec.co.uk privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121014632id_/http%3A//rtlec.co.uk/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtlec.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175745id_/http%3A//rtlec.co.uk/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | RTLEC
+
+[ ](http://twitter.com/share?url=http://rtlec.co.uk/privacy-policy-2/&text=Privacy+Policy "Click here if you like this article.")
 
 What information do we collect?
 
@@ -44,8 +46,7 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://rtlec.co.uk
-
+http://rtlec.co.uk  
 admin@rtlec.co.uk
 
-[ ](http://twitter.com/share?url=http://rtlec.co.uk/privacy-policy-2/&text=Privacy%20Policy "Click here if you like this article.")
+[ ](http://twitter.com/share?url=http://rtlec.co.uk/privacy-policy-2/&text=Privacy+Policy "Click here if you like this article.")
