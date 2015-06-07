@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chrono24.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025221153id_/http%3A//www.chrono24.com/en/info/datenschutz.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chrono24.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608004603id_/http%3A//www.chrono24.com/en/info/datenschutz.htm) for the most accurate reproduction.*
 
 # Chrono24 - Datenschutz
 
@@ -7,13 +7,15 @@ Please note that this is a translation of our German Data Privacy Policy only. O
 
 We, Chrono24 GmbH, Haid-und-Neu-Str. 18, 76131 Karlsruhe, Germany (hereinafter referred to as **"Chrono24"** ), operate the online marketplace for high-quality watches (hereinafter referred to as **"Platform"** ) on www.chrono24.com. We are therefore responsible for the collection, processing and use of your personal data within the meaning of the German Data Privacy Act (BDSG) and the German Telemedia Act (TMG). The correct handling of your personal data is particularly important to us. We are therefore pleased to provide you with information on how your personal data is handled. 
 
+We offer you the possibility to use a mobile device to access our platform or to use our services, either via a mobile application (app) or via a website optimized for mobile devices. The provisions of this Data Privacy Policy shall also apply to mobile access and the use of mobile devices. Reference is made to this Data Privacy Policy in all mobile applications and on all websites optimized for mobile devices. 
+
 We use your personal data in compliance with the applicable data privacy provisions. Below we will describe what data we collect, how we use it and what rights you have in terms of our use of your data: 
 
 **1.** **Scope and purpose of the collection, processing and use of personal data**
 
 **a.** **When visiting our website**
 
-When you visit our website, our servers temporarily save every access in a log file. The following data are automatically recorded without any action on your part and stored until the profile is deleted: 
+When you visit our website, our servers temporarily save every access in a log file. The following data are automatically recorded without any action on your part and stored until such time as the profile is deleted: 
 
   * the IP address of the accessing computer,
   * the date and time of access,
@@ -26,14 +28,16 @@ When you visit our website, our servers temporarily save every access in a log f
 
 These data are collected and processed for the purposes of facilitating use of our website (creating the connection), guaranteeing long-term system security and stability and optimizing our web service, as well as for internal statistical purposes. The IP address will be evaluated only in the event of attacks on our network infrastructure, for statistical purposes and to assert or defend against legal claims. After this your personal data will be deleted. 
 
+In addition, we also set cookies and use web analysis and marketing services during visits to our website. You can find more detailed information on this in Sections 7 and 9. 
+
 **b.** **When registering as a user on the Platform**
 
-Buyers, private sellers and dealers can all create a user account on our Platform. The following data must be provided to be able to set up a user account. We collect and process this data: 
+Buyers, Private Sellers and dealers can all create a user account on our Platform. The following data must be provided to be able to set up a user account. We collect and process this data: 
 
   * so that we know who our contractual partner is,
   * so that we can establish, shape the content of, process and alter contractual relationships with you regarding the use of our Platform and the services offered on it,
   * so that we can check the entered data for plausibility and, 
-  * if necessary, so that we can contact you if we have any questions.
+  * so that we can contact you, where necessary, if we have any questions.
 
 
 
@@ -60,15 +64,13 @@ These data are collected voluntarily to make it easier to contact you.
 
 **bb.** **Private Sellers**
 
-If you wish to publish offers on the Platform as a Private Seller, you first need to create a user account. The Private Seller services are provided by Chrono24 Services GmbH, Herrenstr. 26, 76133 Karlsruhe, Germany (hereinafter referred to as **"Chrono24 Services"** ). To be able to publish an offer on the Platform, the following data must be provided: 
+If you wish to publish offers on the Platform as a Private Seller, you first need a user account. To be able to publish an offer on the Platform, the following data must be provided: 
 
   * first name, last name,
   * address (street, zip code, city, country),
   * telephone.
 
 
-
-The user data shall be collected and processed by Chrono24 on behalf of Chrono24 Services or, if these data are already stored on the user account, transmitted to Chrono24 Services by Chrono24. 
 
 **cc.** **Dealers**
 
@@ -116,12 +118,12 @@ You will need a user account in order to be able to initiate and conclude purcha
 
 
 
-We require this data in order to verify who the dealer’s contractual partner is, to form the basis of and provide the content of purchase agreements, to assist in the processing of purchase agreements and to get in contact with you if necessary. The data shall also be sent to the dealer for this purpose in the event of a purchase request being made or a purchase agreement being concluded with this dealer. 
+We require this data in order to verify who the dealer’s contractual partner is, to form the basis of and provide the content of purchase agreements, to assist in the processing of purchase agreements and to get in contact with you when necessary. The data shall also be sent to the dealer for this purpose in the event of a purchase request being made or a purchase agreement being concluded with this dealer. 
 
 **e.** **Information on the Chrono24 and Private Seller services by e-mail**
 
-**We are constantly striving to improve and develop Chrono24.  
-To be able to inform you about the Chrono24 service and of any news that may interest you as a user, Private Seller or dealer, we or Chrono24 Services will send you e-mails to the e-mail addresses registered by you from time to time. You may withdraw consent to the use of your e-mail address at any time without incurring any costs other than the transmission costs in accordance with the base tariffs. Please address your objection to  if you no longer wish to receive information on Chrono24 and/or the Private Seller services. Withdrawal of or failure to provide consent does not pose an obstacle to concluding a contract or using our service. **
+**We are constantly striving to improve and develop our Platform.  
+To be able to inform you about Chrono24, our services and news that may interest you as a user, Private Seller or dealer, we will from time to time send you e-mails to the e-mail addresses stored for you. You may withdraw consent to use of your e-mail address at any time without incurring any costs other than the transmission costs in accordance with the base tariffs. Please address your objection to  if you do not wish to receive any information on the Chrono24 service. Withdrawal of or failure to provide consent shall not pose an obstacle to conclusion of a contract or use of our Platform or services. **
 
 **f.** **Newsletter**
 
@@ -131,7 +133,7 @@ You may unsubscribe from the newsletter any time by sending us an e-mail to  or 
 
 **g.** **When using a contact form**
 
-You can use a contact form to get in contact with us or with dealers/Private Sellers via the Platform. To do this, you need to provide the following data: 
+You can use a contact form to get in contact with us or with dealers/Private Sellers via the Platform. To do so, you must provide the following information: 
 
   * name,
   * e-mail address,
@@ -140,7 +142,7 @@ You can use a contact form to get in contact with us or with dealers/Private Sel
 
 
 
-These data are saved by us, and if you are sending a message to a Private Seller or dealer, it will be forwarded to that party. 
+These data are saved by us, and if you are sending a message to a Private Seller or dealer, they will be forwarded to that party. 
 
 **h.** **When leaving a comment in our magazine**
 
@@ -156,19 +158,17 @@ We use these voluntary details to be able to publish your comment and to give ot
 
 **2.** **Forwarding of data to third parties for contractual purposes**
 
-We forward your personal data to third parties only if you have expressly agreed to this, if we are under a legal obligation to do so, or if this is required in order to assert our rights, particularly to assert claims under the contractual relationship. 
-
-Upon registering as a Private Seller, Chrono24 shall transmit your seller details to Chrono24 Services who provide the Private Seller services. Data shall only be processed by Chrono24 Services within the scope of this Data Privacy Policy and for the purpose of providing the Private Seller services. 
+We shall forward your personal data to third parties only if you have expressly agreed to this, if we are under a legal obligation to do so, or if this is required in order to assert our rights, in particular to enforce claims arising from the contractual relationship. 
 
 **3.** **Visibility of your data to third parties**
 
 **a)** **Users and Private Sellers**
 
-The personal data saved in your user account (myChrono24) cannot be viewed by third parties if you have not published any offers on the Platform. If you publish offers on the Platform as a Private Seller, registered and unregistered users can view your seller data on the Platform only if you have expressly agreed to publication. 
+The personal data saved in your user account (myChrono24) cannot be viewed by third parties if you have not published any offers on the Platform. If you publish offers on the Platform as a Private Seller, registered and unregistered users can view your seller data on the Platform only if you have expressly agreed to disclosure of such. 
 
 **b)** **Dealers**
 
-If you are registered as a dealer and publish offers on the Platform, registered and unregistered users can view your seller data on the Platform as per item 1b) bb). During registration, and later within your profile, you can limit the visibility of your data to keep your address from being displayed. 
+If you are registered as a dealer and publish offers on the Platform, registered and unregistered users can view your seller data on the Platform as per item 1b) cc). During registration, and later within your profile, you can limit the visibility of your data to keep your address from being displayed. 
 
 **4.** **Registration with cooperation partner (Auctionata) of Chrono24**
 
@@ -209,15 +209,25 @@ Cookies help in many different ways to make your visit to our Platform easier, m
 
 We use cookies in order to be able to identify you as a registered user without your having to log in separately, for example. The use of the cookies does not allow us to receive new personal data about you as an online visitor. The majority of internet browsers accept cookies automatically. However, you can configure your browser to reject cookies or to notify you whenever you receive a new cookie. 
 
+Third-party service providers, including Google, also use stored cookies in order to place adverts on websites on the basis of your previous visits to this website. You may revoke your consent to the collection and storage of data at any time with effect for the future. 
+
+As an alternative to changing the settings on your browser, you can also opt out from the use of cookies for interest-based advertising by Google at [www.google.de/settings/ads](http://www.google.de/settings/ads). More information on this is available at [www.google.de/privacy/ads](http://www.google.de/privacy/ads). You can also find additional information on Google terms and conditions at [www.google.com/intl/de/privacy](http://www.google.com/intl/de/privacy). 
+
+Alternatively, you can opt out from the use of cookies by third-party service providers by accessing the opt-out page of the Network Advertising Initiative at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp). 
+
+Please note that opting out does not mean that your browser will remain deactivated even after the opt-out cookie has been deleted. 
+
 Deactivation of cookies can lead to your not being able to use all of the functions of our Platform. More information on deactivating cookies can be found at: [http://www.meine-cookies.org](http://www.meine-cookies.org/). 
 
 **8.** **Links**
 
-This data privacy policy does not cover websites that are linked to from our website. We do not have any influence whether our data privacy and security standards are upheld by these sites. The operators of linked sites are solely responsible for the content thereof. 
+This data privacy policy does not cover websites that are linked to from our website. We do not have any influence over whether our data privacy and security standards are upheld by these sites. The operators of linked sites are solely responsible for the content thereof. 
 
 **9.** **Web analysis services**
 
-To shape our website according to needs and to continually optimize our service, we use web analysis services (such as "Google Analytics", Net-Metrix Audit from Net-Metrix AG, and IVW/AGOF). Within this context, pseudonymized usage profiles are created and small text files that are saved on your computer (“cookies”) are used. The information on your use of this website that is generated by the cookie, such as 
+**a.** **General information**
+
+To shape our website according to needs and to continually optimize our service, we use web analysis services (“Google Universal Analytics” by Google Inc. and “MobileAppTracking by Tune”). Within this context, pseudonymized usage profiles are created and small text files that are saved on your computer (“cookies”) are used. The information collected by the cookie on your use of this website such as 
 
   * browser type/version,
   * operating system used,
@@ -227,14 +237,32 @@ To shape our website according to needs and to continually optimize our service,
 
 
 
-is transferred to servers in the USA and stored there. The information is used to evaluate use of the website, to compile reports on website activity and to provide further services associated with website and internet use for the purposes of market research and needs-based design of these web pages. This information may also be forwarded to third parties as appropriate, insofar as this is prescribed by law or insofar as these parties process the data on behalf of the commissioning party. Under no circumstances will the IP address be matched with other data related to the user. IP addresses are anonymized to exclude all possibility of such association (IP masking). 
+is transmitted to a server in the US and stored there. The information is used to evaluate use of the website, to compile reports on website activity and to provide further services associated with website and Internet use for the purposes of market research and needs-based design of these web pages. This information may also be forwarded to third parties as appropriate, insofar as this is prescribed by law or insofar as these parties process the data on behalf of the commissioning party. On no account will your IP address be linked with other data of the service providers. IP addresses are anonymized to exclude all possibility of such association (IP masking). 
 
-The user can prevent the installation of cookies on his computer by adjusting his/her browser accordingly; however, we must point out that, in this case, not all functions of the web site will be available to the user in their full capacity. 
+The user can prevent the installation of cookies by adjusting his/her browser accordingly; however, we must point out that in this case not all functions of the web site may be available to the user to their full extent. 
 
-The user can object to the creation of usage profiles at any time. To do so, please follow the instructions for 
+Alternatively, the providers of the web analysis services offer various options to prevent the information generated by the cookie from being collected and further processed. You can find more information on the various options in Section 9.d). 
 
-  * Google at <http://tools.google.com/dlpage/gaoptout?hl=de>
-  * IVW/AGOF at <http://optout.ivwbox.de/>
+**b.** **“Google Universal Analytics”**
+
+Apart from cookie-based web analysis, we also use the analysis tool “Google Universal Analytics”, within the scope of which we allocate a unique user ID to every user upon registration or initial log-in. This user ID together with the behavior of the user on our platform – with, however, no reference to any of the user’s personal data – is forwarded to the Google servers. Google subsequently evaluates this user behavior on our behalf and compiles reports on user activity in order to provide further services associated with website and Internet use for the purposes of market research and needs-based design of our web pages. If IP addresses are collected during this evaluation, these shall be anonymized in such a way that the identity of the user cannot be determined. 
+
+We personally create no user profiles from the reports received by Google Inc. that would enable specific users and their personal data to be identified. 
+
+**c.** **“Google Analytics Advertising Features”**
+
+We use Google Analytics Advertising Features to support display advertising. Apart from the Google Analytics cookie, another double-click cookie is set for this purpose. In addition to the anonymized data on user activity, demographics and interests data are also collected with the double-click cookie. Google evaluates this data on our behalf and draws up remarketing lists on the basis of specific behavioral data, demographics and interests data. Google shares these lists with AdWords. Demographics and interests data are also used by Google on our behalf to prepare analytics report and segments. 
+
+We personally create no user profiles from the reports received by Google Inc. that would enable specific users and their personal data to be identified. 
+
+**d.** **Objection**
+
+The user can object to the creation of usage profiles at any time.
+
+To do so, please follow the instructions ofthe providers of the web analysis services used by us:
+
+  * You may object to the use of Google Universal Analytics at <http://tools.google.com/dlpage/gaoptout?hl=de>
+  * You may object to the use of MobileAppTracking by Tune at <http://optoutmobile.com/optout/index.html>
 
 
 
@@ -294,7 +322,7 @@ We point out that if you delete your data, you will not be able to use our servi
 
 **12.** **Validity of the data privacy policy**
 
-This data privacy policy is currently valid and dates from September 17, 2014. 
+This data privacy policy is currently valid and dates from May 7, 2015 
 
 It can be viewed and printed at any time on our website
 
