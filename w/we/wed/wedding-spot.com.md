@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wedding-spot.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121035843id_/http%3A//www.wedding-spot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedding-spot.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607035131id_/http%3A//www.wedding-spot.com/privacy) for the most accurate reproduction.*
 
-# Wedding Spot - Privacy Policy
+# Wedding Spot Privacy Policy
 
 Privacy Policy
 
@@ -11,7 +11,7 @@ Last updated July 10, 2013
 
 #### Introduction
 
-Wedding Spot, Inc. ( **"Company"** or **"We"** ) respects your privacy and is committed to protecting it through our compliance with this policy.
+Wedding Spot, Inc. ( **"Wedding Spot"** , **"Company"** or **"We"** ) respects your privacy and is committed to protecting it through our compliance with this policy.
 
 This policy describes the types of information we may collect from you or that you may provide when you visit the website [www.wedding-spot.com](http://www.wedding-spot.com/) (our **"Site"** ) and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
@@ -109,6 +109,8 @@ The technologies we use for this automatic data collection may include:
 
 Some advertisements on the Site are served by third-party advertisers, ad networks and ad servers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about our users. This may include information about users' behavior on this and other websites to serve them interested-based (behavioral) advertising. We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement, you should contact the responsible advertiser directly. For information about how you can opt out of receiving targeted advertising from many providers.
 
+For information about how you can opt out of receiving targeted advertising from many providers, see Choices About How We Use and Disclose Your Information.
+
   
 
 
@@ -143,7 +145,7 @@ We may disclose personal information that we collect or you provide as described
 
   * To our subsidiaries and affiliates.
   * To contractors, service providers and other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.
-  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Wedding Spot, Inc.'s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by Wedding Spot, Inc. about our Site users is among the assets transferred.
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Wedding Spot's assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by Wedding Spot about our Site users is among the assets transferred.
   * To third parties to market their products or services to you if you have not opted out of these disclosures. We contractually require these third parties to keep personal information confidential and use it only for the purposes for which we disclose it to them.
   * To fulfill the purpose for which you provide it. 
   * For any other purpose disclosed by us when you provide the information.
@@ -155,7 +157,7 @@ We may also disclose your personal information:
 
   * To comply with any court order, law or legal process, including to respond to any government or regulatory request.
   * To enforce or apply our [Terms of Use](https://web.archive.org/terms-of-use/) and other agreements that may be applicable.
-  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Wedding Spot, Inc., our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Wedding Spot, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
   
 
@@ -174,7 +176,7 @@ We strive to provide you with choices regarding the personal information you pro
 
 You can review and change your personal information by logging into the Site and visiting your account profile page. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect. 
 
-If you delete your User Contributions from the Site, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Site users. Proper access and use of information provided on the Site, including User Contributions, is governed by our [Terms of Use](https://web.archive.org/terms-of-use/)
+If you delete your User Contributions from the Site, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Site users. Proper access and use of information provided on the Site, including User Contributions, is governed by our [Terms of Use](https://web.archive.org/terms-of-use/). 
 
   
 
