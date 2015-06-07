@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nazuka.net privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222212923id_/http%3A//nazuka.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nazuka.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140656id_/http%3A//nazuka.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Unlimited Free Hosting at Nazuka.net
 
@@ -85,8 +85,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.nazuka.net
-
+http://www.nazuka.net  
 8005 Creighton Parkway, Suite C-201  
 Mechanicsville, Virginia 23111  
 USA  
