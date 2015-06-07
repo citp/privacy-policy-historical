@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rebrickable.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120204532id_/http%3A//rebrickable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rebrickable.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607233013id_/http%3A//rebrickable.com/privacy) for the most accurate reproduction.*
 
 # Rebrickable - Privacy Policy
 
