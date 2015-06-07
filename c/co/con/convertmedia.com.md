@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the convertmedia.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229181100id_/http%3A//www.convertmedia.com/privacy-website) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convertmedia.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608013249id_/http%3A//www.convertmedia.com/privacy-website) for the most accurate reproduction.*
 
-# Privacy Policy - Website | ConvertMedia
+# Privacy Policy – Website | ConvertMedia
 
 ## Website Privacy Policy
 
@@ -36,11 +36,11 @@ To the extent required under applicable data processing laws and regulations, an
 
 We do not share, distribute, sell or rent any of your Personal Information with/to third parties, except in the following circumstances:
 
-\- If the information is required by law in order to prevent, investigate, or take action regarding illegal activities, situations involving potential threats to physical safety, rights, property or of any person, suspected fraud and violations of this Privacy Policy or our Terms of Use. In addition, we will share information in response to legal process, court orders, subpoenas, or to establish or exercise our legal rights or defend against legal claims.
+– If the information is required by law in order to prevent, investigate, or take action regarding illegal activities, situations involving potential threats to physical safety, rights, property or of any person, suspected fraud and violations of this Privacy Policy or our Terms of Use. In addition, we will share information in response to legal process, court orders, subpoenas, or to establish or exercise our legal rights or defend against legal claims.
 
-\- For the purpose of providing and operating the Site we may share non-PII information with trusted third-party partners who need to know for purpose of providing Site-related services to us only (and not for such third parties’ commercial use in any way). We will require that these third parties comply with this Privacy Policy and/or with privacy policies at least as protective as this Privacy Policy. 
+– For the purpose of providing and operating the Site we may share non-PII information with trusted third-party partners who need to know for purpose of providing Site-related services to us only (and not for such third parties’ commercial use in any way). We will require that these third parties comply with this Privacy Policy and/or with privacy policies at least as protective as this Privacy Policy. 
 
-\- If we have your permission to do so.
+– If we have your permission to do so.
 
 Any data processing performed by these third parties will, if and when required by law, be governed by a data processing agreement in the form required by law, preserving your statutory data protection rights.
 
