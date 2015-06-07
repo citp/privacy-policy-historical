@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tolweb.org privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122001245id_/http%3A//tolweb.org/tree/home.pages/ToLPrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tolweb.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607182336id_/http%3A//tolweb.org/tree/home.pages/ToLPrivacyPolicy.html) for the most accurate reproduction.*
 
 # Tree of Life Privacy Policy
 
