@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themesandmods.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116022608id_/http%3A//www.themesandmods.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themesandmods.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607141158id_/http%3A//www.themesandmods.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy, Terms and Conditions, Themes and Mods
 
@@ -52,4 +52,4 @@ We are dedicated to provide best collection of feature rich ready made website d
 
 [](http://www.themesandmods.com/go/rt_joomla/)
 
-© 2014, Themes & Mods
+© 2015, Themes & Mods
