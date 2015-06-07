@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tutcity.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121024154id_/http%3A//www.tutcity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutcity.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200231id_/http%3A//www.tutcity.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: TutCity.com
-
-[Home](http://www.tutcity.com/ "Goto Home Page") » Privacy Policy
 
 TutCity.com (hereafter referred to as TutCity) respect and is committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. 
 
