@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jokeroo.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215135322id_/http%3A//www.jokeroo.com/s/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jokeroo.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607071621id_/http%3A//www.jokeroo.com/s/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Jokeroo
 
