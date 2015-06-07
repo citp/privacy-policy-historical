@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gafaa.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114200305id_/http%3A//www.gafaa.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gafaa.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607234228id_/http%3A//www.gafaa.com/privacy.html) for the most accurate reproduction.*
 
 # gafaa.com - Privacy Policy
 
