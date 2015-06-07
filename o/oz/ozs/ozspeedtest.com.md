@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozspeedtest.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016141649id_/http%3A//www.ozspeedtest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozspeedtest.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607193928id_/http%3A//www.ozspeedtest.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Oz Broadband Speed Test
 
