@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sampleroom.ph privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204023545id_/http%3A//www.sampleroom.ph/index.php%3Froute%3Dinformation/information%26information_id%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sampleroom.ph privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145542id_/http%3A//www.sampleroom.ph/index.php%3Froute%3Dinformation/information%26information_id%3D10) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ Please read the following to learn what information we collect from you (the “
 
 **BY ACCESSING OR USING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY AND OUR WEBSITE TERMS OF USE. IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE.**
 
-###  1\. CHANGES TO THE PRIVACY POLICY
+###  1\. changes to the privacy policy
 
 8 CLOVER MEDIA, INC. reserves the right at all times to discontinue or modify this Privacy Policy as we deem necessary or desirable.
 
@@ -24,7 +24,7 @@ Any changes to this Privacy Policy (other than as set forth in this paragraph) o
 
 Should you wish to terminate your account due to a modification to this Privacy Policy, you may do so by sending an email with the subject line "Termination" to the following email address: customer@sampleroom.ph.
 
-###  2\. TYPES OF INFORMATION COLLECTED; USES OF COLLECTED INFORMATION
+###  2\. types of information collected; uses of collected information
 
 We collect two (2) types of information from the users of this Website:
 
@@ -53,7 +53,7 @@ In addition, if you use our Website to send information or a product to another 
 
 We use Non-Personally Identifiable Information to troubleshoot, administer the Website, analyze trends, gather demographic information, comply with applicable law, and cooperate with law enforcement activities. We may also share this information with our authorized Third Party Service Providers and Advertisers to measure the overall effectiveness of our online advertising, content, and programming.
 
-###  3\. RELEASE OF PERSONALLY IDENTIFIABLE INFORMATION
+###  3\. release of personally identifiable information
 
 We will not share, sell, rent, or trade your Personally Identifiable Information with other parties except as provided below:
 
@@ -83,7 +83,7 @@ As with any other business, we could merge with, or be acquired by another compa
 
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Website; enforce or apply this Privacy Policy, our Website Terms of Use or other agreements; or protect the rights, property or safety of the Website, its Users or others.
 
-###  4\. RELEASE OF NON-PERSONALLY IDENTIFIABLE INFORMATION
+###  4\. release of non-personally identifiable information
 
 We may disclose, share, rent, or sell Non-Personally Identifiable Information with Partners, Affiliates and Advertisers. For example, we may share aggregated demographic information (which does not include any Personally Identifiable Information) with “Third Party Advertisers” or “Third Party Advertising Companies” and other parties as provided below.
 
@@ -93,7 +93,7 @@ We may also use Third Party Service Providers to track and analyze Non-Personall
 
 We may also aggregate all survey responses and anonymize the data and make such available to affiliates and other third parties.
 
-###  5\. UPDATING AND CORRECTING PERSONAL INFORMATION
+###  5\. updating and correcting personal information
 
 We believe that you should have the ability to access and edit the Personally Identifiable Information you provide us. You may change any of your Personally Identifiable Information by logging into your account and accessing the "settings" section of the site, or sending us an email at customer@sampleroom.ph. Please indicate your name, address and email address, and what information you would like to update when you contact us.
 
@@ -101,7 +101,7 @@ We encourage you to promptly update your Personally Identifiable Information if 
 
 Should you wish to terminate your account for any reason, you may do so by sending an email with the subject line "Termination" to the following email address: customer@sampleroom.ph.
 
-###  6\. USER CHOICES ON COLLECTING AND USE OF INFORMATION
+###  6\. user choices on collecting and use of information
 
 As discussed above, you can always choose not to provide information, although it may be required to engage in a certain activity on the Website.
 
@@ -109,13 +109,13 @@ As a condition of purchase of our Samples, we will send you Administrative and P
 
 You cannot opt-out of Administrative Emails. "Administrative Emails" relate to a User's activity on the Website, and include emails regarding a particular User's account, requests or inquiries, and purchases of Samples. In contrast to Administrative Emails, however, you do have a choice with respect to Promotional Emails. Promotional Emails advertise our Samples and services, including other offers, and/or the products and services of our Advertisers and Affiliates. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by emailing us at customer@sampleroom.ph or by writing to us at the address contained herein, or by hitting the "unsubscribe" button at the bottom of any of our emails, or by changing your account settings. When contacting us, please indicate your name, address, email address, and what Promotional Emails you do not want to receive.
 
-###  7\. SECURITY OF INFORMATION
+###  7\. security of information
 
 We take security seriously and take numerous precautions to protect the security of Personally Identifiable Information. You can access your Personally Identifiable Information on our Website through a password and your email address. This password is encrypted. We recommend that you do not share your password with anyone. In addition, your Personally Identifiable Information resides on a secure server that only selected personnel and contractors have access to. We encrypt certain sensitive information (such as credit card information) using Secure Socket Layer (SSL) technology to ensure that your Personally Identifiable Information is safe as it is transmitted to us.
 
 Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we employ commercially reasonable security measures to protect data and seek to partner with companies which do the same, we cannot guarantee the security of any information transmitted to or from the Website, and are not responsible for the actions of any third parties that may receive any such information.
 
-###  8\. DATA TRACKING
+###  8\. data tracking
 
 **Cookies.** To facilitate and customize your experience with the Website, we store cookies on your computer. A cookie is a small text file that is stored on a User's computer for record-keeping purposes which contains information about that User. We use cookies to save you time while using the Website, remind us who you are, and track and target User interests in order to provide a customized experience. Cookies also allow us to collect Non-Personally Identifiable Information from you, like which pages you visited and what links you clicked on. Use of this information helps us to create a more user-friendly experience for all visitors.
 
@@ -127,13 +127,13 @@ Most browsers automatically accept cookies, but you may be able to modify your b
 
 Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Website, as well as give us a way to measure our promotions and performance. We may also utilize pixel tags and web beacons provided by our Affiliates and/or Marketing Partners for the same purposes.
 
-###  9\. PRIVACY POLICIES OF THIRD-PARTY WEBSITES
+###  9\. privacy policies of third-party websites
 
 This Privacy Policy only addresses the use and disclosure of information we collect from you on our Website. Other websites that may be accessible through this Website have their own privacy policies and data collection, use and disclosure practices. If you link to any such website, we urge you review the website's privacy policy. The ability to access information of third-parties from Sample Room, or links to other websites or locations, is for your convenience and does not signify our endorsement of such third-parties, their products, their services, other websites, locations or their content.
 
 If you choose to access a third party Site linked to our Site, you do so at your own risk and subject to any terms of service or privacy policy (if any) associated with such third party Sites. We are not responsible for how these other companies or organizations collect, use, disclose, or secure the information that you provide them.
 
-###  10\. MISCELLANEOUS PRIVACY ISSUES
+###  10\. miscellaneous privacy issues
 
 **Children.** Children under the age of 18 are not permitted to use the Website and we do not intentionally collect or maintain personal information from those who are under 18 years old. If we obtain information that a user is under 18, or that a user has misrepresented his/her age and is actually below 18, we will take steps to remove that user's personal information permanently from our databases. We recommend that children between under the age of 18 obtain their parent's permission and assistance in accessing the services offered by this Site and before submitting information over the Internet.
 
