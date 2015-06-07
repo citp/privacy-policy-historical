@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefair.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125102946id_/http%3A//www.thefair.com/utility/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefair.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607071900id_/http%3A//thefair.com/utility/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: Information: Puyallup Fair and Events Center
 
@@ -7,18 +7,18 @@
 
 ###  Information Collection & Treatment
 
-Information collected on [www.thefair.com](http://www.thefair.com/) is used to determine important statistical data for the WWFA, its partners and members to determine the effectiveness of the content, programs and advertisements offered through our website.
+Information collected on [www.thefair.com](http://www.thefair.com/) is used to determine important statistical data for the Washington State Fair (WSF), its partners and members to determine the effectiveness of the content, programs and advertisements offered through our website.
 
-The Western Washington Fair Association, its partners and affiliates may collect personal contact and demographic information that the consumer willingly provides such as name, address, phone number, email, zip code, age, gender and income with the intention of using this information for purposes of statistical reporting and targeted promotional campaigns.
+The Washington State Fair, its partners and affiliates may collect personal contact and demographic information that the consumer willingly provides such as name, address, phone number, email, zip code, age, gender and income with the intention of using this information for purposes of statistical reporting and targeted promotional campaigns.
 
-Demographic information may be used to "personalize" the user's experience on thefair.com and to provide targeted advertising. Contact information may be used to send promotional materials from the WWFA and/or its partners and affiliates. Users have the option of discontinuing the remittance of these by contacting us (please see "Opt-in/Opt-out").
+Demographic information may be used to "personalize" the user's experience on thefair.com and to provide targeted advertising. Contact information may be used to send promotional materials from the WSF and/or its partners and affiliates. Users have the option of discontinuing the remittance of these by contacting us (please see "Opt-in/Opt-out").
 
   
 
 
 ###  Registration Information
 
-Registration areas on our site require may users to provide contact information such as an email address and demographic information such as zip code, age or income level. The WWFA and/or its partners and members may use the information provided to send users relevant promotional materials.
+Registration areas on our site require may users to provide contact information such as an email address and demographic information such as zip code, age or income level. The WSF and/or its partners and members may use the information provided to send users relevant promotional materials.
 
   
 
@@ -32,7 +32,7 @@ Contact and demographic information provided with a consumer's order via our onl
 
 ###  Online Survey Information
 
-To participate in online surveys, the user may be required to supply contact and/or demographic information. The Western Washington Fair Association utilizes the information provided by the user to send that user any compensation promised in exchange for completing the survey and/or for purposes outlined in "Information Collection."
+To participate in online surveys, the user may be required to supply contact and/or demographic information. The Washington State Fair utilizes the information provided by the user to send that user any compensation promised in exchange for completing the survey and/or for purposes outlined in "Information Collection."
 
   
 
@@ -46,7 +46,7 @@ Participation in thefair.com featured/sponsored contests and sweepstakes also re
 
 ###  Opt-In/Opt-Out
 
-A user may choose remove themselves from our mailing list by following the instructions stated on our promotional communications, by completing our online Feedback Form or by sending a request to our Customer Support (also see "Contact Us").
+A user may choose remove themselves from our mailing list by following the instructions stated on our promotional communications, by completing our [online form](http://wafair.mkt5176.com/Opt_Out_Preference_Center) or by sending a request to our Customer Support (also see "Contact Us").
 
   
 
@@ -60,7 +60,7 @@ We have appropriate security measures in place to protect against the loss, misu
 
 ###  Disclaimer
 
-This site contains links to other sites. The Western Washington Fair Association has no control over the content exhibited on these sites, or the administration of them. Use of such sites is subject to each site's unique privacy policy.
+This site contains links to other sites. The Washington State Fair has no control over the content exhibited on these sites, or the administration of them. Use of such sites is subject to each site's unique privacy policy.
 
   
 
@@ -74,7 +74,7 @@ All purchases made through thefair.com are secure. This website is secure.
 
 ###  Contact Us
 
-We welcome your feedback. For any questions, complaints or if you would like to express a concern, remove yourself from our mailing lists, or change your contact information, please complete the form on the Visitor Feedback page on our website.
+We welcome your feedback. For any questions, complaints or if you would like to express a concern, remove yourself from our mailing lists, or change your contact information, please email [info@thefair.com](mailto:info@thefair.com).
 
 You may also contact us by mail at the following address:
 
@@ -83,4 +83,4 @@ Attention: Marketing Dept. - Website Customer Support
 110 9th Ave SW  
 Puyallup, Washington 98371
 
-THE WESTERN WASHINGTON FAIR ASSOCIATION DESERVES THE RIGHT TO UPDATE THIS PRIVACY POLICY AT ITS DISCRETION. ANY CHANGES WILL BE POSTED IMMEDIATELY.
+THE WASHINGTON STATE FAIR DESERVES THE RIGHT TO UPDATE THIS PRIVACY POLICY AT ITS DISCRETION. ANY CHANGES WILL BE POSTED IMMEDIATELY.
