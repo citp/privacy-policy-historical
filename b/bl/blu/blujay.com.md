@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blujay.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120130310id_/http%3A//www.blujay.com/support/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blujay.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608005435id_/http%3A//www.blujay.com/support/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # blujay help
 
