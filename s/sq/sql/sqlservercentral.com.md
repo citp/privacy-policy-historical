@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sqlservercentral.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217000516id_/http%3A//www.sqlservercentral.com/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlservercentral.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607184601id_/http%3A//www.sqlservercentral.com/About/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SQLServerCentral
 
 ###  1.1 General Information 
 
-SQLServerCentral.com is a service from Red Gate Software Limited (together "SQLServerCentral.com") that is responsible for the content of [www.SQLServerCentral.com](http://www.sqlservercentral.com/)
+SQLServerCentral.com is a service from Redgate Software Limited (together "SQLServerCentral.com") that is responsible for the content of [www.SQLServerCentral.com](http://www.sqlservercentral.com/)
 
 ###  1.2 SQLServerCentral.com Privacy Statement 
 
@@ -26,7 +26,7 @@ We will use this information to:
   * customise the service we provide to you;
   * send you our newsletter where this is requested by you;
   * to send you follow-up communications relating to software downloaded from our site; and
-  * send you information about other of our services and those of our owner Red Gate Software Limited.
+  * send you information about other of our services and those of our owner Redgate Software Limited.
 
 
 
@@ -57,7 +57,7 @@ SQLServerCentral.com will not disclose voluntarily provided details to third par
 
 Other than the disclosures referred to in this policy we will not disclose any personal information without your permission unless we are legally obliged or entitled to do so (for example, if required to do so by Court order or for the purposes of fraud or other crime). 
 
-We will only disclose your personal information to a third party either as part of a reorganisation or a sale of the assets of our owner Red gate Software, or having ensured that steps have been taken to ensure that your privacy rights continue to be protected. 
+We will only disclose your personal information to a third party either as part of a reorganisation or a sale of the assets of our owner Redgate Software, or having ensured that steps have been taken to ensure that your privacy rights continue to be protected. 
 
 ###  1.5 Information on products and services 
 
@@ -87,8 +87,8 @@ In addition, if you use our services while you are outside the EEA, your informa
 
 ###  2.1 Your consent 
 
-By using our website, or giving us your details, at an exhibition, you consent to the collection and use of this information by SQLServerCentral.com and its owner Red Gate Software Limited. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we would disclose it. 
+By using our website, or giving us your details, at an exhibition, you consent to the collection and use of this information by SQLServerCentral.com and its owner Redgate Software Limited. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we would disclose it. 
 
 ###  2.2 Contacting us 
 
-You have the right to access your information held by SQLServerCentral.com (for which we may charge a small fee) and where necessary, to have it amended. You can also request not to receive marketing information from SQLServerCentral.com and Red Gate Software Limited. For more details, please contact: Data Protection, SQLServerCentral.com, Red Gate Software, Newnham House, Cambridge Business Park, Cambridge, CB4 0WZ, United Kingdom or email privacy@SQLServerCentral.com. 
+You have the right to access your information held by SQLServerCentral.com (for which we may charge a small fee) and where necessary, to have it amended. You can also request not to receive marketing information from SQLServerCentral.com and Redgate Software Limited. For more details, please contact: Data Protection, SQLServerCentral.com, Redgate Software, Newnham House, Cambridge Business Park, Cambridge, CB4 0WZ, United Kingdom or email privacy@SQLServerCentral.com. 
