@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerfultraders.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226131826id_/http%3A//www.powerfultraders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerfultraders.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608013430id_/http%3A//www.powerfultraders.com/privacy-policy) for the most accurate reproduction.*
 
 # PowerfulTraders | Privacy Policy
 
