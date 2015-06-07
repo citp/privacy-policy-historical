@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the thegraciouspantry.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105112642id_/http%3A//www.thegraciouspantry.com/privacy-statment) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegraciouspantry.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174305id_/http%3A//www.thegraciouspantry.com/privacy-statment) for the most accurate reproduction.*
 
-# Privacy Policy Statement - Clean Eating Recipes
+# Clean Eating Recipes
 
 This is the web site of The Gracious Pantry®.
 
 **Contact**  
 Tiffany McCauley can be reached via e-mail at thegraciouspantry[at]gmail.com  
-or by US Postal mail at: P.O. Box 1141 Sebastopol, CA 95472
+or by US Postal mail at: P.O. Box 61 Concord, CA 94522
 
 **What Information Is Collected**
 
