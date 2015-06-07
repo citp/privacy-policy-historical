@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wisegeekhealth.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229083402id_/http%3A//www.wisegeekhealth.com/what-is-the-wisegeek-privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisegeekhealth.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200619id_/http%3A//www.wisegeekhealth.com/what-is-the-wisegeek-privacy-policy.htm) for the most accurate reproduction.*
 
-# What is the wiseGEEK Privacy Policy?
+# What Is the wiseGEEK Privacy Policy?
 
 We take our user's privacy very seriously. If you have any questions regarding our Privacy Policy, please [contact us](https://web.archive.org/how-can-i-contact-wisegeek.htm).
 
