@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the allmyvideos.net privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219141542id_/http%3A//allmyvideos.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmyvideos.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144026id_/http%3A//allmyvideos.net/privacy.html) for the most accurate reproduction.*
 
 # allmyvideos.net - Reliable,Fast, Secure video hosting
-
-### Privacy Policy
 
 This policy covers how we use your personal information. We take your privacy seriously and will take all measures to protect your personal information. 
 
