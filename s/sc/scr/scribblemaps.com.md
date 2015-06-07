@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scribblemaps.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205115834id_/http%3A//scribblemaps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scribblemaps.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607072900id_/http%3A//scribblemaps.com/privacy) for the most accurate reproduction.*
 
 # Scribble Maps : Privacy Policy
 
