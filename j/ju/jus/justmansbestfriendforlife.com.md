@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the justmansbestfriendforlife.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119074056id_/http%3A//justmansbestfriendforlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justmansbestfriendforlife.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607171638id_/http%3A//justmansbestfriendforlife.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Just Mans Best Friend For Life
+# Privacy Policy - Just Mans Best Friend For Life
 
 Last updates: October 15, 2014
 
 Just Man’s Best Friend for Life cares about your privacy. We guarantee that the information we collect does not go beyond the capabilities of website’s services. Visiting our website means you accept the privacy policy detailed below:
 
- **Personal Information we collect**
+**Personal Information we collect**
 
 1\. Cookies
 
@@ -18,17 +18,17 @@ If you don’t want us storing your cookies, you can disable them. Go to your br
 
 We collect the IP address of the computer you use to access this website, as well as your email address, the web browser you use, your computer’s operating system, and the URL of websites you click to and from this website.
 
- **How we use the information we collect**
+**How we use the information we collect**
 
   1. The information we collect will be used to improve our services to tailor to your unique needs.
   2. In the event of a lawful court order, we will disclose your account and other personal information. We will also release your info if it jeopardizes the life, safety and property of others. For fraud protection and credit risk reduction, we may also exchange info with other companies and organizations.
 
 
 
- **Other websites**
+**Other websites**
 
 Other websites are linked to and from this site. If you go to another website, we cannot guarantee your privacy because you will have to adhere to the privacy policy of that other website. We suggest you read their privacy policy to ensure that they don’t share your personally identifiable info with others.
 
- **Contact Us**
+**Contact Us**
 
 Feel free to contact us at our support desk to learn more about our privacy policy or to access your personally identifiable stored in our website.
