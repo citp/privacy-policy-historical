@@ -1,36 +1,30 @@
-> *The following text is extracted and transformed from the joomlafckeditor.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510193743id_/http%3A//www.joomlackeditor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlafckeditor.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140524id_/http%3A//arkextensions.com/privacy-policy) for the most accurate reproduction.*
 
-# JoomlaCK Editor - Privacy Policy | JoomlaCK Editor
+# Privacy Policy | Ark Extensions
 
-Written by Paul (Team Member)      
-  
-####  JOOMLACKEDITOR.COM IS COMMITTED TO PROTECTING YOUR PRIVACY AND WILL ONLY USE INFORMATION COLLECTED ABOUT YOU LAWFULLY, IN ACCORDANCE WITH THE DATA PROTECTION ACT 1998.
+Written on 09 April 2014. 
+
+##  WEBXSOLUTION.COM IS COMMITTED TO PROTECTING YOUR PRIVACY AND WILL ONLY USE INFORMATION COLLECTED ABOUT YOU LAWFULLY, IN ACCORDANCE WITH THE DATA PROTECTION ACT 1998.
 
 Information is collected about you for two reasons only:-
 
-  1\. To enable the efficient processing of your order, and...  
+  1\. To enable the efficient processing of your order and...  
   2\. To ensure you receive the best possible service in the future.
 
-All information held about you will be accurate and up-to-date, and you have the right to check the details held by contacting support(at)webxsolution.com.
+All information held about you will be accurate and up-to-date and you have the right to check the details held by contacting support(at)webxsolution.com.
 
 In accordance with your directions any errors will be deleted or corrected as soon as possible. All personal information will be held securely in accordance with our Security Policy.
 
-Joomlackeditor.com reserves the right to use the latest technology in tracking the patterns of behaviour of visitors to our site, logging all visitors using their IP address, browser version and referrer. This could include the use of "cookies" which would be stored on your browser, but you can normally modify your browser settings to prevent this from happening. You should be aware that the information collected in this manner can be used to identify you unless you modify your browser settings.
+Webxsolution.com reserves the right to use the latest technology in tracking the patterns of behaviour of visitors to our site, logging all visitors using their IP address, browser version and referrer. This could include the use of "cookies" which would be stored on your browser, but you can normally modify your browser settings to prevent this from happening. You should be aware that the information collected in this manner can be used to identify you unless you modify your browser settings.
 
-####  USE OF COOKIES
+##  SECURITY POLICY
 
-We only uses a session cookies to store the user’s session. This is used for checking that the user is logged in and only happens at your request (i.e. when you have to login) to the restricted part of our site. This cookie doesn’t contain any information about the you but rather only a bookmark or reference point during the user’s session. The cookie contains a string of random numbers and character which is encrypted and only makes sense to the database, while you are login into the site, for that session only. In other words all the cookie does is checks back to the database session which managers the users private data. This means that all private data is managed on our side and not on your side (or on your computer or device) and cannot be disclosed to another user or website.
+Webxsolution.com ensures that all sensitive information and customer details are securely held at all times. The latest security technology is used to prevent damage from viruses, hackers and other IT based threats and our web site is located in secure premises in fire safe housing and is protected by a “firewall”. Sensitive information or customer details are never stored under insecure conditions on the internet .
 
-####  SECURITY POLICY
+To ensure your details remain safe online NOCHEX, Google Checkout and PayPal handle all your online transactions, processing them over a secure, 128bit SSL (Secure Socket Layer) encrypted connection. Your payment details are never made available to Webxsolution.com.
 
-Joomlackeditor.com ensures that all sensitive information and customer details are securely held at all times. The latest security technology is used to prevent damage from viruses, hackers and other IT based threats and our web site is located in secure premises in a fire safe housing and is protected by a “firewall”. Sensitive information or customer details are never stored under insecure conditions on the internet .
+No information, electronic or otherwise, is made available to anyone other than fully authorised Webxsolution.com personnel.
 
-To ensure your details remain safe online NOCHEX, Google Checkout and PayPal handle all your online transactions, processing them over a secure, 128bit SSL (Secure Socket Layer) encrypted connection. Your payment details are never made available to Joomlackeditor.com.
+##  INTEGRITY OF THE JOOMLA BRAND
 
-No information, electronic or otherwise, is made available to anyone other than fully authorised Joomlackeditor.com personnel.
-
-####  INTEGRITY OF THE JOOMLA BRAND
-
-The Joomla!(R) logo is used under a limited license from Open Source Matters in the United States and other countries. [http://www.joomlackeditor.com ](http://www.joomlackeditor.com/)is not affiliated with or endorsed by Open Source Matters or the Joomla! Project.  
-  
-Last Updated on Tuesday, 27 March 2012 11:55 
+The Joomla!(R) logo is used under a limited license from Open Source Matters in the United States and other countries. [webxsolution.com ](http://www.webxsolution.com/)is not affiliated with or endorsed by Open Source Matters or the Joomla! Project.
