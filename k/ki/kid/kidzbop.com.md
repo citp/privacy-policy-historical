@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidzbop.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020234758id_/http%3A//kidzbop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidzbop.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074648id_/http%3A//kidzbop.com/privacy-policy) for the most accurate reproduction.*
 
 # KIDZ BOP | Privacy Policy - KIDZ BOP
 
@@ -7,7 +7,7 @@ This policy was last updated on September 23, 2014
 **What is KIDZ BOP/KIDZBOP.com?  
 **KIDZ BOP records kid-friendly versions of today’s biggest pop music hits sung by kids, for kids. KIDZ BOP is a safe, fun way for families to enjoy music in their daily lives at home and in the car. On KIDZBOP.com, families can sample music from KIDZ BOP albums, watch the KIDZ BOP videos, learn how to tune into KIDZ BOP Radio and find out more about the KIDZ BOP Kids and live concert dates. There is a KIDZ BOP Shop which sells family-friendly compilation CDs. The products we sell are intended to be purchased by adults for children. The KIDZ BOP Shop does not solicit Personal Identification from children.
 
-Our website, KIDZBOP.com, is hosted by KIDZ BOP, LLC a USA company with offices at 214 Sullivan Street 4th Floor NY, NY 10012.  
+Our website, KIDZBOP.com, is hosted by KIDZ BOP, LLC a USA company reachable at: KIDZ BOP, PO Box 543, Village Station, NY 10014.  
 If you have any questions about this privacy policy please contact us by email at: **privacy@kidzbop.com**
 
 **Information we collect  
@@ -56,6 +56,6 @@ If you have any questions about security on our Web site, you can send us an ema
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
 **Questions and suggestions  
-**If you have questions or suggestions, please email us at [parenthelp@kidzbop.com](mailto:parenthelp@kidzbop.com) or mail us at: Attn: Customer Service, KIDZ BOP, 214 Sullivan Street 4th Floor NY, NY 10012
+**If you have questions or suggestions, please email us at [parenthelp@kidzbop.com](mailto:parenthelp@kidzbop.com) or mail us at: KIDZ BOP Attn: Customer Service, PO Box 543, Village Station, NY 10014
 
 [](http://privo.com/privo-site-validation/?company=123)KIDZ BOP is a Member of the PRIVO’s PRIVO Cert™ Safe Harbor Certification Program (“the Program”). As a participating member in the Program, KIDZ BOP adheres to the strict information collection, use and disclosure requirements set forth by the Program. PRIVO is an independent, third party organization committed to safeguarding children’s personal information collected online. PRIVO aims to help parents and their children exercise control over personal information while exploring the Internet. The PRIVO certification seal posted on this page indicates that KIDZ BOP has established COPPA compliant privacy practices and has agreed to submit to PRIVO’s oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at 212-473-9173 or [privacy@kidzbop.com](mailto:privacy@kidzbop.com). If you have further concerns after you have contacted us, you can contact PRIVO directly at [privacy@privo.com](mailto:privacy@privo.com).
