@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the churchleaders.com privacy policy that was archived on 2014-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140912151100id_/http%3A//www.churchleaders.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the churchleaders.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608002425id_/http%3A//www.churchleaders.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy - ChurchLeaders.com - Christian Leadership Blogs, Articles, Videos, How To's, and Free Resources
+# Privacy
 
 ChurchLeaders.com respects the privacy of its subscribers, those who respond to polls, add comments, and subscribe to newsletters. It is the policy of ChurchLeaders.com:
 
