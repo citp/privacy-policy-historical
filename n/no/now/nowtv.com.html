@@ -1,20 +1,21 @@
-<!--The following is the downloaded HTML source of the nowtv.com privacy policy that was archived on 2014-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141221000405id_/http%3A//watch.nowtv.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nowtv.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607140918id_/http%3A//watch.nowtv.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html id="ng-app" ng-app="nowtv" ng-controller="AppCtrl" class="no-js" lang="en" data-version="2"><!--<![endif]--><head>
     <title>Privacy &amp; Cookies | NOW TV</title>
 
-    <meta name="viewport" content="width=1024">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=1024">
 <meta name="google" content="notranslate">
 <meta http-equiv="Content-Language" content="en">
 <meta name="apple-itunes-app" content="app-id=512266300">
 <meta name="fragment" content="!">
 
-<link rel="apple-touch-icon" href="/apple-touch-icon.png">
-<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon.png">
-<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-retina.png">
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/apple-touch-icon-retina.png">
 
-<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
 
 <script>
     
@@ -22,25 +23,30 @@ var NOWTV = NOWTV || {};
 
 (function(ntv) {
     ntv.env = {
+  "clientHttpTimeout": 65000,
   "cookieDomain": ".nowtv.com",
   "serverURL": "http://watch.nowtv.com",
   "clientUrl": "http://client.nowtv.com",
   "proxyClientUrl": "/proxy/client",
   "secureServerURL": "https://watch.nowtv.com",
+  "secureSignupURL": "https://signup.nowtv.com",
   "cmsUrls": {
     "sports": "http://www.nowtv.com/sports",
     "movies": "http://www.nowtv.com/movies",
-    "entertainment": "http://www.nowtv.com/entertainment"
+    "entertainment": "http://www.nowtv.com/entertainment",
+    "identityIssues": "http://www.nowtv.com/identity-issues",
+    "walletIssues": "http://www.nowtv.com/wallet-issues"
   },
   "epg": {
     "domain": "nowtv.com",
-    "frameSrc": "http://tvguide.nowtv.com/embedded-guide?channelList=1314,1301,1302,1333,1322,1303,1306&domain=nowtv.com&externalCss=http://watch.nowtv.com/assets/listings-aee436f5fd5ada1457f5af909304907f.css&externalJs=http://watch.nowtv.com/assets/epgOverrides-95edbc8013d9eb0771c29262e161ac25.js",
+    "frameSrc": "http://tvguide.nowtv.com/embedded-guide?channelList=1314,1301,1302,1333,1322,1303,1306&domain=nowtv.com&externalCss=http://watch.nowtv.com/assets/listings-cd7976778a4965024dd19e427d8f7086.css&externalJs=http://watch.nowtv.com/assets/epgOverrides-95edbc8013d9eb0771c29262e161ac25.js",
     "imageServerURL": "http://epgstatic.sky.com/epgdata/1.0/paimage/81/0/",
     "defaultChannel": "1314"
   },
   "webServices": {
     "customer": "/webservices/customer",
     "devices": "/webservices/devices",
+    "createUserAccount": "/webservices/createUserAccount",
     "epg": {
       "programmeDetails": "/proxy/client/schedule/channels/:channelId/descriptions/:eventId"
     }
@@ -53,11 +59,13 @@ var NOWTV = NOWTV || {};
   "skyId": {
     "signIn": "https://skyid.sky.com/signin/nowtv",
     "signUp": "https://skyid.sky.com/signup/nowtv",
+    "resetPassword": "https://skyid.sky.com/resetpassword/nowtv",
     "signOut": "https://skyid.sky.com/signout/nowtv?successUrl=http%3A%2F%2Fwatch.nowtv.com%2Fsignout"
   },
   "urls": {
     "sports": "http://watch.nowtv.com/sports",
     "sportsListings": "http://watch.nowtv.com/sports/listings",
+    "sportsExplorer": "http://watch.nowtv.com/sports/explorer",
     "movies": "http://watch.nowtv.com/movies",
     "entertainment": "http://watch.nowtv.com/entertainment",
     "genres": "http://watch.nowtv.com/movies/genres",
@@ -93,6 +101,19 @@ var NOWTV = NOWTV || {};
       "dashboard": "https://tag.mention-me.com/api/v2/dashboard/mmfe2eed5d",
       "convert": "https://tag.mention-me.com/api/v2/order/mmfe2eed5d"
     }
+  },
+  "signup": {
+    "rango": "https://mockserver.localhost.nowtv.bskyb.com:8091/rango"
+  },
+  "esuite": {
+    "url": "https://mockserver.localhost.nowtv.bskyb.com:8091",
+    "token": "CA34DD18977C42438D20C4D7DD58B0BB"
+  },
+  "date": {
+    "current": {
+      "month": 6,
+      "year": 2015
+    }
   }
 };
 })(NOWTV);
@@ -112,8 +133,8 @@ var NOWTV = NOWTV || {};
 <script src="//d3c3cq33003psk.cloudfront.net/opentag-95091-1126102.js" async="" defer="" type="text/javascript"></script>
 <script src="//web.static.nowtv.com/ice/3.0.4/js/iceberg.widget.bundle.js"></script>
 
-    <script src="/assets/base-head-103b18002e8cfe4e753174e8292d4cdf.js" type="text/javascript"></script>
-    <link rel="stylesheet" href="/assets/screen-68111588cdf9d14f778fa0f1980317bb.css">
+    <script src="/assets/base-head-e93dcf723af1f8a5c73eb8a4ab953761.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="/assets/screen-1b31dbe0f3773c7890be21924f3e2fab.css">
 
     <script>
         (function(ntv) {
@@ -132,7 +153,9 @@ ntv.load([
 ntv.session = ntv.session || {};
 
 
-    ntv.nowtvEventCollector.subscribe(window.PRE_NOWTV.ec);
+    if (ntv && ntv.nowtvEventCollector) {
+        ntv.nowtvEventCollector.subscribe(window.PRE_NOWTV.ec);
+    }
 
 
         })(NOWTV);
@@ -195,12 +218,12 @@ ntv.session = ntv.session || {};
     </a>
 </nav>
 </script>
-    <script type="text/ng-template" id="partials/navigation/navigationItem.html"><li class="t-{{ link.title | lowercase | removeWhiteSpaces }}" data-t="{{link.title}}">
-    <a ng-href="{{ link.url }}" class="nav-links-heading" ng-class="{'is-active': isActive, 'is-selected': isSelected}" >{{ link.title }}
+    <script type="text/ng-template" id="partials/navigation/navigationItem.html"><li class="t-{{ link.title | lowercase | removeWhiteSpaces }}" data-t="{{link.title}}" >
+    <a ng-href="{{ link.url }}" class="nav-links-heading" ng-class="{'is-active': isActive, 'is-selected': isSelected}" ng-click="changeState(link)">{{ link.title }}
     </a>
     <ul ng-show="link.subNav">
         <li ng-repeat="subLink in link.subNav">
-            <a ng-href="{{ subLink.url }}" ng-class="{'is-selected': subLink.isSelected }" data-t="{{subLink.title}}">{{ subLink.title }}</a>
+            <a ng-href="{{ subLink.url }}" ng-class="{'is-selected': subLink.isSelected }"  ng-click="changeState(subLink)" data-t="{{subLink.title}}">{{ subLink.title }}</a>
         </li>
     </ul>
 </li></script>
@@ -281,21 +304,55 @@ ntv.session = ntv.session || {};
     <script type="text/ng-template" id="partials/content/show.html"><a ng-href="{{ show.getContentUrl() }}" data-t-link="show" ntv-popover="show" wrapper-element="[data-popover-wrapper]" target-element="[data-popover-image]">
     <div class="poster_with-logo">
         <div class="poster-img-overlay"></div>
-        <img class="poster-img" ntv-lazy-load="{{ show.getStillImageUrl(carousel.getImageSize()) }}" src="/assets/still-trans.png" alt="{{ show.getTitle() }}" data-t-poster-img data-popover-image />
+        <img class="poster-img_landscape" ntv-lazy-load="{{ show.getStillImageUrl(carousel.getImageSize()) }}" src="/assets/still-trans.png" alt="{{ show.getTitle() }}" data-t-poster-img data-popover-image />
         <img class="branding_overlay" ng-src="{{ show.getLogoUrl() }}" alt="Channel logo for {{ show.getChannel() }}" data-t-channel-logo />
     </div>
     <span class="poster-name" ng-href="{{ show.getContentUrl() }}" data-t-item-title>
         {{ show.getTitle() | ellipsis:60 }}
     </span>
 </a></script>
+    <script type="text/ng-template" id="partials/pins/pins.html"><section ng-form="{{id}}Form" ng-model="allPins" ntv-pins-match>
+    <div ntv-pin="0"  pin="allPins[0]" description="Enter 4 digits" start-idx="startIdx()" ng-class="{'is-error': isError }" current-tab-index="currentTabIndex"></div>
+    <div ntv-pin="1" ng-if="requiresConfirmRow && isPinValid[0]" pin="allPins[1]" description="Re-Enter PIN" start-idx="startIdx() + 4" current-tab-index="currentTabIndex"></div>
+    <p ng-show="requiresConfirmRow && isError" class="pin-error-msg" data-t-pin-error>That's not it, please try again</p>
+    <input type="hidden" ng-value="pinNumber" id="{{id}}" name="{{id}}" data-t-pin-number />
+</section></script>
+    <script type="text/ng-template" id="partials/pins/pin.html"><div ng-form class="almost-done-payment-pin" data-t-pin-form>
+    <div class="paymentPinRow" data-t-row>
+        <span class="pin-label-reset" ng-show="description">{{description}}</span>
+        <input ng-if="mobileOrConsole"
+               data-t-pin-input="0"
+               data-t-mobile-or-ps3
+               type="password"
+               ng-model="pin.value"
+               ntv-multiple-int-input
+               ntv-string-to-array
+               tabindex="0"
+               size="4"
+               class="pin-input_touch"
+        />
+        <input ng-if="!mobileOrConsole"
+               data-t-pin-input="{{i}}"
+               data-t-not-mobile-or-ps3
+               ng-repeat="i in noOfDigits"
+               class="pin-input"
+               ng-change="focusNextPinInput(i)"
+               ng-keyup="keyPress($event, i)"
+               ng-click="resetRow()"
+               type="password"
+               ng-model="pin.value[$index].value"
+               ntv-single-int-input
+               ng-required
+               tabindex="{{i}}" />
+    </div>
+</div></script>
 
     <div class="l-fluid-container">
     <header class="l-full-body-floaty menubar" data-menubar="">
         <div class="menubar-background"></div>
         <div class="menubar-logo">
             <a href="http://watch.nowtv.com" class="logo-link" title="NOW TV">
-                <svg xmlns="http://www.w3.org/2000/svg" width="136" height="25"><g fill="#fff"><path d="M119.385 1.073h-21.579v3.769h7.608v18.879h4.244v-18.88h6.403l6.962 18.879h4.376l8.353-22.648h-4.447l-5.959 17.282-5.961-17.281zM23.054 1.073l-1.66 9.493-6.469-9.493h-6.216l-3.957 22.624h8.825l1.534-8.775 6.129 8.962h6.665l3.989-22.813-8.84.002zM75.772 23.697l-2.359-10.681-5.797 10.681h-6.796l-3.969-22.624h8.925l1.619 9.116 4.97-9.116h6.383l1.943 9.111 4.625-9.111h9.143l-11.516 22.625-7.171-.001zM44.373 0c-6.783 0-12.284 5.546-12.284 12.385 0 6.84 5.5 12.386 12.283 12.386 6.785 0 12.284-5.545 12.284-12.386 0-6.839-5.499-12.385-12.283-12.385zm-2.944 18.444l.002-12.119 9.05 6.059-9.052 6.06z"></path></g></svg>
-                <img ntv-image="" png-src="/assets/nowtv-logo-d432d675ce585435f3d7fdad5d76608a.png">
+                <img ntv-image="" png-src="/assets/nowtv-logo.png" svg-src="/assets/nowtv-logo.svg" width="105" height="24">
             </a>
         </div>
 
@@ -318,17 +375,9 @@ ntv.session = ntv.session || {};
 
                 <div class="l-full-width">
 
-                    <p>This privacy notice applies to the use of personal information by British Sky Broadcasting Limited and its group companies.</p>
+                    <p>This privacy notice applies to the use of personal information and other information by Sky UK Limited and its group companies.</p>
 
-                    <p>Any member of the British Sky Broadcasting group may use and share, within that group, the information you provide and other information it holds about you for the purposes set out below.&nbsp;<a href="#privacy-policy" target="_self">Please see our privacy notice</a>.</p>
-
-                   <h3 class="all-caps">Cookies Notice</h3>
-
-                    <p>When you create or log in to an online account you agree to our privacy and cookies notice. Otherwise, by continuing to use our websites or mobile services you agree to the use of cookies as described in this notice.&nbsp;<a href="#cookies-policy" target="_self">Please see our cookies notice</a>.</p>
-
-                   <h3 class="all-caps">Now TV</h3>
-
-                    <p>If you are a Now TV customer, there are additions to this notice specific to the Now TV service. <a href="#nowtv" target="_self">Please see Now TV additions</a>.</p>
+                    <p>Any member of the Sky group may use and share, within that group and with its advisors, the information you provide and other information it holds about you for the purposes set out below.</p>
 
                    <h2 class="all-caps" id="privacy-policy">Privacy Notice</h2>
 
@@ -336,140 +385,152 @@ ntv.session = ntv.session || {};
 
                     <ul class="unordered">
                         <li>Information you've provided to us, including on our websites.</li>
-                        <li>Information about our products and services you've ordered or enquired about.</li>
+                        <li>Information about our content, products and services you've ordered or enquired about.</li>
                         <li>Information provided by other companies who've obtained your permission to share information about you.</li>
-                        <li>Information about the channels, programmes, advertisements and services you access, for example how you view, record or fast forward them.</li>
-                        <li>Information we collect using cookies stored on your device about your use of Sky and/or selected third party websites. For more information on cookies and how to manage them, please see the&nbsp;<a href="#cookies-policy" target="_self">section on cookies</a>.</li>
-                        <li>Your IP address, this is a number that identifies a specific network device on the internet and is required for your device to communicate with websites.</li>
-                        <li>Technical information from your Sky device(s) relating to the service you receive, for example, the collection of diagnostic information.</li>
+                        <li>Information, uploads and comments you make about the shows; channels, programmes, advertisements and services you use, for example how you access, view, share, contribute to, communicate with, record or fast forward them.</li>
+                        <li>Information we collect from the devices you use to receive Sky content, products and services about your use of Sky and/or selected third party websites. For more information on cookies and how to manage them, please see the section on cookies.</li>
+                        <li>IP address (this is a number that identifies a specific network device on the internet and is required for your device to communicate with websites) and location data.</li>
+                        <li>Technical information from the devices you use to receive Sky content, products and services, for example, the collection of diagnostic information.</li>
                     </ul>
 
                     <p>How we may we use your information:</p>
 
-                    <p>In addition to using your information to provide you with requested products or services and general account management and the management of traffic across our network, we may also use your information in the following ways:</p>
+                    <p>In addition to using your information to provide you with content, products, services, tailored and personalised recommendations and general account management, and the management of traffic across our network, we may also use your information in the following ways:</p>
 
                     <ul class="unordered">
-                        <li>To monitor and improve our products, services and websites.</li>
-                        <li>We may share information with credit reference and fraud prevention agencies for use in credit decisions, and for fraud detection and prevention purposes.</li>
-                        <li>If false or inaccurate information is provided and fraud is identified, the details will be passed to fraud prevention agencies. Law enforcement agencies may access and use this information. We and other organisations may also access and use this information to prevent fraud and money laundering, for example when: checking details on applications for credit and credit related or other facilities; managing credit and credit related accounts and facilities; recovering debt; checking details on proposals and claims for all types of insurance; or checking details of job applications and employees. We and other organisations may access and use from other countries the information recorded by fraud prevention agencies. Please contact us by emailing us at <a href="mailto:mysky@bskyb.com">mysky@bskyb.com</a>&nbsp;if you want to receive details of the relevant fraud prevention agencies.
-                        </li>
-                        <li>We may also share your information with other companies for debt recovery purposes.</li>
-                        <li>For market research.</li>
+                        <li>To monitor, improve and protect our content, products and services, work with our agents and business partners to improve the products and services we offer, and develop new content, products and services.</li>
+                        <li>We may share information with credit reference, fraud prevention agencies and other companies for use in credit decisions, for fraud detection and debt recovery purposes.We may transfer your information to our data processors outside the European Economic Area, but will do so with appropriate measures and controls in place to protect that information in accordance with applicable data protection laws and regulations.</li>
+                        <li>If false or inaccurate information is provided and fraud is identified, the details will be passed to fraud prevention agencies. Law enforcement agencies may access and use this information. We and other organisations may also access and use this information to prevent fraud and money laundering, for example when: checking details on applications for credit and credit related or other facilities; managing credit and credit related accounts and facilities; recovering debt; checking details on proposals and claims for all types of insurance; or checking details of job applications and employees. We and other organisations may access and use from other countries the information recorded by fraud prevention agencies. Please contact us by emailing us at <a href="mailto:mysky@sky.uk">mysky@sky.uk</a> if you want to receive details of the relevant fraud prevention agencies.</li>
+                         <li>For market research.</li>
                         <li>To enable us to comply with any legal or regulatory requirements; to protect or enforce our rights or the rights of any third party; in the detection and prevention of fraud and other crimes; and for the purpose of safeguarding national security.</li>
                         <li>We may disclose your information to any successors of our business for them to use for the purposes set out in this privacy notice.</li>
                     </ul>
 
-                    <p>and unless you've asked us not to:</p>
+                    <p>Unless you've asked us not to:</p>
 
                     <ul class="unordered">
-                        <li>To send you periodic newsletters about your chosen services.</li>
-                        <li>To send you direct marketing. This may include communications by post, telephone or email and if you've a Sky Bet, Sky Poker, Sky Vegas and/or Sky Bingo account, by SMS, about us and our business partners’ products and services, events and special offers, including, where applicable, for a reasonable time after you have ceased to be a customer of ours.</li>
-                        <li>To provide you with personalised services, such as providing you with viewing recommendations and tailored advertising. This means that we have your agreement to store information about you on the devices you use, for example to make some of the adverts you see more relevant to you.</li>
-                        <li>To provide you with online behavioural advertising through the use of cookies when you visit our websites.</li>
+                        <li>To send you periodic newsletters and other information about content, products and services you have chosen or are entitled to receive.</li>
+                        <li>To send you direct marketing. This may include communications by post, telephone or email, about us and our business partners’ content, products and services, events and special offers, including, where applicable, for a reasonable time after you have ceased to be a customer of ours.</li>
+                        <li>To provide you with viewing recommendations. This means that we have your agreement to store information about you on the devices you use, for example to make some of the adverts you see more relevant to you.</li>
                     </ul>
 
                    <h3 class="all-caps">Your preferences</h3>
 
-                   <h4 class="all-caps">Marketing</h4>
+                   <h4 class="all-caps">Marketing and tailored advertising</h4>
 
-                    <p>You can opt out by calling us on 08442 414141 or via your MySky account. You can also click on the "unsubscribe" link in direct marketing emails from us. You can opt out of direct marketing altogether or you can choose between post, telephone and email. Sky Bet, Sky Poker, Sky Vegas and Sky Bingo customers can opt out of marketing SMS messages by replying "STOP"</p>
+                    <p>You can choose not to receive direct marketing or tailored advertising. You can adjust your preferences in the following ways: by emailing <a href="mailto:optout@nowtv.com">optout@nowtv.com</a>, by calling us on 03442 414 141 in the UK or 0818 719 819 in ROI, by clicking on the "unsubscribe" link in marketing information from us. </p>
 
-                    <p>You can also opt out of receiving our newsletters by clicking on the "unsubscribe" link in emails, or via your MySky account.</p>
-                   <h4 class="all-caps">Personalisation (including tailored advertising)</h4>
+<h4 class="all-caps">Online behavioural advertising</h4>
 
-                    <p>You can opt out by calling us on 08442 414141 or via your MySky account. Please note that if you opt out of personalisation you will not receive tailored advertising. This means you will still see the same number of adverts but they will be ones that appear as standard.</p>
-                   <h4 class="all-caps">Online behavioural advertising</h4>
+                    <p>If you don't want any information processed through the use of cookies, please see the section on "How to see and manage your cookies" or check via your My Sky account.</p>
 
-                    <p>If you do not want to receive online behavioural advertising, or don't want any information processed through the use of cookies, please see the&nbsp;<a href="#cookies-policy" target="_self">section on cookies</a>.</p>
+                   <h2 class="all-caps" id="cookies-policy">Cookies Notice</h2>
 
-                   <h2 class="all-caps" id="nowtv">Now TV</h2>
+                    <p>When you create or log in to an online account you agree to our privacy and cookies notice. Otherwise, by continuing to use our websites or mobile services you agree to the use of cookies as described in this notice.</p>
 
-                   <h3 class="all-caps">Recommendations</h3>
-
-                    <p>We will personalise the NowTV service to better reflect your interests and to provide you with recommendations on movies and entertainment we think you will find enjoyable. To do this we will collect information related to your use of our service and website including content viewed and browsed and user material you submit such as your ratings, reviews and comments made on our forum.</p>
-
-                   <h3 class="all-caps">Social Media</h3>
-
-                    <p>Once you have registered for Now TV you can link your account to Facebook. Linking your account to Facebook will mean that your activity on the Now TV website, such as what you watched, may be posted on your Facebook account. Please note that Facebook will use and retain this information for its own purposes so before linking your account you should familiarise yourself with Facebook’s privacy policy and settings. Now TV also has a presence on social networking sites and we may occasionally identify and respond to customers seeking assistance with Now TV related-queries</p>
-
-                   <h3 class="all-caps">Marketing</h3>
-
-                    <p>You can change your marketing preference at any time within your account management area.</p>
-
-                   <h3 class="all-caps">Contacting Sky</h3>
-
-                    <p>Any queries or comments about this privacy notice or for requests of copies of the information we hold about you should be sent to&nbsp;<a href="mailto:dpoffice@bskyb.com">dpoffice@bskyb.com</a>&nbsp;or to Customer Relations, Sky Subscriber Services Ltd, PO Box 43, Livingston, West Lothian,</p><h5 class="all-caps" 4="" 7dd,="" uk.="" <="" p="">
-
-                    <p>Please ensure you notify us of any updates, amendments and corrections to your information by contacting us on 08442 414141 or through MySky.</p>
-
-
-                   </h5><h2 class="all-caps" id="cookies-policy">Cookies</h2>
-
-                    <p>You should be aware that when you use our websites, mobile sites, or mobile apps, we may collect information by using 'cookies'.</p>
+<p>You should be aware that when you access or use our content, products and services,  we may collect information from the devices you use to receive Sky content, products and services by using 'cookies'.If you'd like to learn how to manage these cookies and choose whether or not to receive information of different types, please see the section "Controlling My Cookies" below.</p>
 
                    <h3 class="all-caps">What are cookies and how do they work?</h3>
 
-                    <p>Cookies are small bits of text that are downloaded to your computer or mobile device when you visit a website. Your browser sends these cookies back to the website every time you visit the site again, so it can recognise you and can then tailor what you see on the screen.&nbsp;</p>
+                    <p>Cookies are small bits of text that are downloaded to the devices you use to receive Sky content, products and services and access online information.. Your browser makes these cookies available every time you visit the website again, so it can recognise you and can then tailor what you see on your device. </p>
 
                    <h3 class="all-caps">What do you use cookies for?</h3>
 
-                    <p>Cookies are an important part of the internet. They make using websites much smoother and affect lots of the useful features of websites. There are many different uses for cookies, but they fall into four main groups.</p>
+<ul class="unordered">
+                        <li>Cookies are an important part of the internet. They make using devices and accessing online information much smoother and affect lots of the useful features of websites. There are many different uses for cookies, but they fall into four main groups.</li>
+</ul>
 
-                   <h3 class="all-caps">Cookies that are needed to provide the service you have asked for</h3>
+                   <h4 class="all-caps">Cookies that are needed to provide the service you have asked for</h4>
 
-                    <p>Some cookies are essential so you can move around the website and use its features. Without these cookies, services you've asked for can't be provided. These cookies don't gather information about you that could be used for marketing or remembering where you've been on the internet.</p>
+                    <p>Some cookies are essential to help your devices download or stream the information, or so you can move around websites and use their features. Without these cookies, content, products or services you've asked for can't be provided.</p>
 
                     <p>Here are some examples of essential cookies.</p>
 
                     <ul class="unordered">
-                        <li>Keeping you logged in during your visit; without cookies you might have to log in on every page you go to.</li>
+                        <li>Positioning information on a smartphone screen, tablet device or other screen so that you can see the website and use its functionality.</li>
+                        <li>Keeping you logged in during your visit or enabling you to stream content; without cookies you might have to log in on every website you visit or repeatedly adjust your volume and viewing settings.</li>
                         <li>When you add something to the online shopping basket, cookies make sure it's still there when you get to the checkout.</li>
-                        <li>Some are session cookies which make it possible to navigate through the website smoothly. However these are automatically deleted after you close your web browser.</li>
+                        <li>Some are session cookies which make it possible to navigate through the website smoothly.</li>
                     </ul>
 
-                   <h3 class="all-caps">Improving your browsing experience</h3>
+                   <h4 class="all-caps">Improving your browsing experience</h4>
 
-                    <p>These cookies allow the website to remember choices you make, such as your language or region and they provide improved features.&nbsp;</p>
+                    <p>Cookies allow the application or website to remember choices you make, such as your language or region and they provide improved features.</p>
 
-                    <p>Here are a few examples of just some of the ways that cookies are used to improve your experience on our websites.</p>
+                    <p>Here are a few examples of just some of the ways that cookies are used to improve your experience on our applications and websites:</p>
                     <ul class="unordered">
-                        <li>Remembering your preferences and settings, including marketing preferences, such as opting in or out of marketing emails.</li>
+                        <li>Remembering your preferences and settings, including marketing preferences, such as choosing whether you wish to receive marketing information.</li>
                         <li>Remembering if you've filled in a survey, so you're not asked to do it again.</li>
-                        <li>Remembering if you've been to the site before. If you are a first-time user, you might see different content to a regular user.</li>
-                        <li>Restricting the number of times you're shown a particular advertisment. This is sometimes called 'frequency capping'.</li>
-                        <li>Showing you information that's relevant to products of ours that you have.</li>
+                        <li>Remembering if you've been to the application or website before.</li>
+                        <li>Restricting the number of times you're shown a particular advertisement. This is sometimes called 'frequency capping'.</li>
+                        <li>Showing you information that's relevant to content, products or services that you receive.</li>
                         <li>Giving you access to content provided by social-media sites like Facebook or Twitter.</li>
-                        <li>Showing 'related article' links that are relevant to the page you're looking at.</li>
-                        <li>Remembering a location you've entered such as weather forecasts.</li>
+                        <li>Showing 'related article' links that are relevant to the information you're looking at.</li>
+                        <li>Remembering an application or website you've entered, such as weather forecasts.</li>
                     </ul>
 
 
-                   <h3 class="all-caps">Analytics</h3>
+                   <h4 class="all-caps">Analytics</h4>
 
-                    <p>We like to keep track of what pages and links are popular and which ones don't get used so much to help us keep our sites relevant and up to date. It's also very useful to be able to identify trends of how people navigate (find their way through) our sites and if they get 'error messages' from web pages.</p>
+                    <p>We like to keep track of what websites, information and links are popular and which ones don't get used so much, to help us keep our information relevant and up to date. It's also very useful to be able to identify trends of how people navigate (find their way through) our information and when and where 'error messages' may originate.</p>
 
-                    <p>This group of cookies, often called 'analytics cookies' are used to gather this information. These cookies don't collect information that identifies you. The information collected is anonymous and is grouped with the information from everyone else’s cookies. We can then see the overall patterns of usage rather than any one person’s activity. Analytics cookies only record activity on the site you are on and they are only used to improve how a website works.&nbsp;</p>
+                    <p>This group of cookies, often called 'analytics cookies' are used to gather this information. The information collected is grouped with the information from everyone else’s cookies. We can then see the overall patterns of usage rather than any one person’s activity. Analytics cookies are used to improve how an application, a website and its pages work.</p>
 
-                    <p>Some of our websites and some of the emails you might get from us also contain small invisible images known as 'web beacons' or 'tracking pixels'. These are used to count the number of times the page or email has been viewed and allows us to measure the effectiveness of its marketing and emails. These web beacons are anonymous and don't contain or collect any information that identifies you.&nbsp;</p>
+                    <p>Our applications, web locations, websites and communications you get from us also contain small invisible images known as 'web beacons' or ' pixels'. These are used to count the number of times the page or email has been viewed and allows us to measure the effectiveness of the communication.</p>
 
-                    <p>We also use 'affiliate' cookies. Some of our web pages will contain promotional links to other companies’ sites. If you follow one of these links and then register with or buy something from that other site, a cookie is sometimes used to tell that other site that you came from one of our sites. That other site may then pay us a small amount for the successful referral. This works using a cookie.</p>
+                   <h4 class="all-caps">Affiliate cookies</h4>
 
-                   <h3 class="all-caps">Showing advertising that is relevant to your interests</h3>
+                    <p>We also use 'affiliate' cookies. Some of our web based information will contain promotional links to other companies’ sites. If you follow one of these links and then register with or buy something from that other site, a cookie is used to tell the other site that you came from one of our sites. That other site may then pay us a small amount for the successful referral. For more information, see the <a href="http://www.iab-performance-marketing-explained.net/">Internet Advertising Bureau's</a> guide about how affiliate marketing works.</p>
 
-                    <p>We sell space on some of our sites to advertisers. The resulting adverts often contain cookies. The advertiser uses the browsing information collected from these cookies to:&nbsp;</p>
+                   <h3 class="all-caps">How we show advertising and marketing that is relevant to your interests</h3>
+
+                    <p>We sell space on some of our websites to advertisers. The resulting adverts often contain cookies. The advertiser uses the browsing information collected from these cookies to:</p>
 
                     <ul class="unordered">
-                        <li>restrict the number of times you see the same ad (frequency capping); and</li>
-                        <li>help show other ads that are relevant to you while you're on our websites. This is often called online behavioural advertising (OBA). OBA is a way of using information about your web-browsing activity, collected by using cookies, to group you with other users into interest groups and show you advertisements based on those interests. The OBA data collected from cookies you get when you're on our sites is only used to show relevant ads on our sites, not on other websites.</li>
+                        <li>restrict the number of times you see the same ad (frequency capping) and</li>
+                        <li>help show other advertisements that are relevant to you while you're accessing our information. This information about your browsing activity may be grouped with information about what is being accessed by other users, into interest groups, and then used to show you advertisements based on those interests. This is often called online behavioural advertising (OBA). OBA is a way of using information about your web-browsing activity, collected by using cookies, to group you with other users into interest groups and show you advertisements based on those interests.</li>
                     </ul>
 
-                    <p>Sometimes our websites contain ads for our own Sky products. These ads use cookies in the same way as described above.</p>
+                    <p>Sometimes our websites contain advertisements for our own Sky products. These advertisements use cookies in the same way as described above.</p>
 
-                    <p>So how does OBA work? Let's look at an example. Imagine you visit a website about travel. That website shows an advert and with that advert you receive a cookie. Imagine you then visit one of our websites which has an advert from the same advertiser you saw on the travel site. The advertiser will give you a new version of the cookie you received on the travel site. The advertiser can then use that cookie to recognise that you've previously been to a travel site and show you a relevant ad.</p>
+                   <h3 class="all-caps">Cookies Explained</h3>
 
-                    <p>Although the OBA data collected uses your browsing activity to understand your interests, the data is anonymous and isn’t linked to you as a person. Even if you log in to our websites, the OBA data is still not linked to you or your Sky package.&nbsp;</p>
+                    <ul class="unordered">
+                        <li>Neither we, nor the companies who show advertisements on our sites sell personal data collected from cookies to any other organisations.</li>
+                    </ul>
 
-                    <p>Neither we, nor the companies who show ads on our sites sell data collected from cookies to any other organisations.</p>
+                    <p>It’s easy to choose not to receive behavioural advertising and manage your cookies if you want to.</p>
+
+<h3 class="all-caps">Controlling my Cookies</h3>
+
+                    <h3 class="all-caps">How can I see and manage my cookies in my browser?</h3>
+
+                    <p>Virtually all modern browsers allow you to see what cookies you've got, and to clear them individually or clear all of them. To find out how to do this go to <a href="http://www.aboutcookies.org/">aboutcookies.org</a>, which contains comprehensive information on how to do this on a wide variety of desktop browsers.</p>
+
+                    <h3 class="all-caps">How can I choose not to receive Online Behavioural Advertising and other tracking cookies?</h3>
+
+                    <p>In addition to the controls available on your computer, there are other ways of choosing not to receive Online Behavioural Advertising and other tracking cookies.</p>
+
+                    <p>Please note that most of these choices work by setting a cookie that overrides the behavioural advertising cookie. If you clear all your cookies, you will also clear these opt-out cookies, therefore changing your preferences. In this instance you would need to choose again.</p>
+
+                    <p>Organisations which provide more information on Online Behavioural Advertising</p>
+
+<ul class="unordered">
+                        <li><a href="https://www.evidon.com/consumers-privacy/manage-your-online-profile">Evidon</a> are a provider of privacy solutions.</li>
+                        <li><a href="http://www.youronlinechoices.com/uk/your-ad-choices">Internet Advertising Bureau (IAB)</a>“ Your Online Choices” page. This allows you to choose not to receive behavioural advertising from each of the advertising networks represented by the IAB.</li>
+                        <li><a href="http://www.networkadvertising.org/choices/">Network Advertising Initiative (NAI)</a> opt out page. This allows you to opt out of behavioural advertising from each of the ad networks represented by the NAI.</li>
+                        <li><a href="http://www.aboutads.info/choices/#completed">Digital Advertising Alliance’s</a> self-regulatory program for online behavioural advertising choices page.</li>              
+                    </ul>
+
+                    <h3 class="all-caps">Contacting Sky</h3>
+
+                 <p>Any queries or comments about this privacy notice or for requests of copies of the information we hold about you should be sent to <a href="mailto:dpoffice@sky.uk">dpoffice@sky.uk</a> or to Customer Relations, Sky Subscriber Services Ltd, PO Box 43, Livingston, West Lothian, EH54 7DD, UK. or to Customer Relations, Sky Subscriber Services Limited, One Burlington Plaza, Burlington Plaza, Dublin 4, ROI.</p>
+
+                    <p>Please ensure you notify us of any updates, amendments and corrections to your information by contacting us online, by phone on 03442 414141 in the UK or 0818 719 819 in the ROI or through <a href="https://secure.sky.com/mysky-homepage/indexb">My Sky</a>.</p>
+
+                    <p>We will occasionally update this privacy notice. We will post a notice of any material changes on our website prior to implementing the changes, and, where appropriate, notify you using any of the contact details we hold for you for this purpose. We encourage you to periodically review this notice to be informed of how we use your information.</p>
+
+                    <p>This Privacy and Cookies Notice was last updated on 16 March 2015.</p>    
 
                 </div>
             </section>
@@ -511,8 +572,7 @@ ntv.session = ntv.session || {};
                     <h5 class="footer-terms-header">The Legal bit:</h5>
                     <small>
                         <div class="footer-terms-legal">
-                            <p><span class="underline">Limited Time Offer - now extended:</span> Sky Sports Day Pass and Sky Sports Week Pass pricing available for limited time only and until 2 March 2015.</p>
-<strong>*Available on iPhone and selected Android devices.</strong><p>Comparison: Comparison of online movie subscription using top UK box office films from past 18 months. See <a href="/compare">nowtv.com/compare</a>.</p><p>Sky Movies Pass: Fees apply after Free Trial. Sky Movies Pass automatically renews at £9.99 a month unless cancelled and you can stop renewal at any time. One Free Trial per person, excludes Sky Sports Day Pass, Entertainment Month Pass or new customers who purchase a NOW TV Box Movies pack or partner package which includes a Sky Movies Pass. Live channels not available on YouView.</p><p>Sports Passes: Each Sky Sports Day Pass costs £6.99. Each Sky Sports Week Pass costs £10.99. Viewing period ends either 24 hours or 7 days after you first watch, depending on pass purchased. Passes must be redeemed within 365 days of purchase. Only one Sky Sports Pass can be added to an account at any time. Only available on YouView to TalkTalk customers. Red button and interactive services are unavailable. Sky Sports Week Pass only currently available to purchase via nowtv.com.</p><p>Entertainment Month Pass: £6.99 a month unless cancelled and you can stop renewal at any time. Currently not available on Android devices and YouView. Not all content available on catch up or live channels. For content we cannot show on live channels see <a href="http://help.nowtv.com/article/Slating-Rights-Restrictions">nowtv.com/slating</a>. Shows only available on catch up for up to 30 days from date first shown.</p><p>NOW TV Box: Connects to TV via HDMI (cable supplied).  BBC iPlayer, Demand 5 and 4OD apps offer a wide selection of the catch up content available on the BBC/Channel 5/4OD websites. A Spotify Premium account is required to use the Spotify application on the NOW TV Box.</p><p>General: 18+. UK Only. Content streamed. Requires broadband/3G (charges may apply). Register up to four compatible devices, and watch on two at the same time. Device changes limited to one per month. Some content unavailable on live channels and/or some devices. NOW TV available on compatible Roku LT and XS boxes only. HDMI cable required for higher quality viewing. You will need to create a Roku UK account to use NOW TV with Roku. See <a href="http://community.nowtv.com/t5/NOW-TV-news-and-information/NOW-TV-Device-FAQs/td-p/51688">here</a> for device compatibility requirements. For content/device restrictions read the FAQs. Full terms of service <a href="http://www.nowtv.com/terms">here</a>. (Updated in October 2013 for Entertainment Month Pass.)</p><p>NOW TV accepts Visa and MasterCard</p>
+                            <strong>*Available on iPhone and selected Android devices.</strong><p>Comparison: Comparison of online movie subscription using top UK box office films from past 18 months. See <a href="/compare">nowtv.com/compare</a>.</p><p>Sky Movies Pass: Fees apply after Free Trial. Sky Movies Pass automatically renews at £9.99 a month unless cancelled and you can stop renewal at any time. One Free Trial per person, excludes Sky Sports Day Pass, Entertainment Month Pass or new customers who purchase a NOW TV Box Movies pack or partner package which includes a Sky Movies Pass. Live and some on demand content not available on YouView.</p><p>Sports Passes: Each Sky Sports Day Pass costs £6.99. Each Sky Sports Week Pass costs £10.99. Viewing period ends either 24 hours or 7 days after you first watch, depending on pass purchased. Passes must be redeemed within 365 days of purchase. Only one Sky Sports Pass can be added to an account at any time. Currently not available on YouView. Red button and interactive services are unavailable. Sky Sports Week Pass only currently available to purchase via nowtv.com.</p><p>Entertainment Month Pass: £6.99 a month unless cancelled and you can stop renewal at any time. Currently not available on Android devices and YouView. Not all content available on catch up or live channels. For content we cannot show on live channels see <a href="http://help.nowtv.com/article/Slating-Rights-Restrictions">nowtv.com/slating</a>. Shows only available on catch up for up to 30 days from date first shown.</p><p>NOW TV Box: Connects to TV via HDMI (cable supplied).  BBC iPlayer, Demand 5 and 4OD apps offer a wide selection of the catch up content available on the BBC/Channel 5/4OD websites. A Spotify Premium account is required to use the Spotify application on the NOW TV Box.</p><p>General: 18+. UK Only. Content streamed. Requires broadband/3G (charges may apply). Register up to four compatible devices, and watch on two at the same time. Device changes limited to one per month. Some content unavailable on live channels and/or some devices. NOW TV available on compatible Roku LT and XS boxes only. HDMI cable required for higher quality viewing. You will need to create a Roku UK account to use NOW TV with Roku. See <a href="http://community.nowtv.com/t5/NOW-TV-news-and-information/NOW-TV-Device-FAQs/td-p/51688">here</a> for device compatibility requirements. For content/device restrictions read the FAQs. Full terms of service <a href="http://www.nowtv.com/terms">here</a>. (Updated in October 2013 for Entertainment Month Pass.)</p><p>NOW TV accepts Visa and MasterCard</p>    
                         </div>
                     </small>
                 </div>
@@ -751,7 +811,8 @@ ntv.session = ntv.session || {};
 
     
 
-    <script src="/assets/base-defer-5035e22961f33e6e167d9c716c8c15ab.js" type="text/javascript"></script>
+    <script src="/assets/base-angular-ae93bc29003d5940bc827edfb4887ebe.js" type="text/javascript"></script>
+    <script src="/assets/base-defer-21bf8fd690a09330974bc11b83f9a395.js" type="text/javascript"></script>
     
     
         <script src="//cdn.optimizely.com/js/562540257.js"></script>
@@ -759,7 +820,5 @@ ntv.session = ntv.session || {};
 
 
     
-    <div ntv-page-load=""></div>
-    <div ntv-qubit=""></div>
 
 </body></html>
