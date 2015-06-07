@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolmessenger.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126091216id_/http%3A//www.schoolmessenger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolmessenger.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607205848id_/http%3A//schoolmessenger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SchoolMessenger
 
@@ -31,7 +31,3 @@ You may update the information that you provide us through this website by conta
 ###### Contacting Us
 
 If you have any questions about this privacy policy or would care to update your information, please use our Contact Us page. We welcome any questions and suggestions you may have.
-
-###### Changes to this Policy
-
-Please check this privacy policy periodically to inform yourself of any changes. Although we reserve the right to modify or supplement this privacy policy, we will provide notice to you on this website of any major changes for at least 30 days following the change.
