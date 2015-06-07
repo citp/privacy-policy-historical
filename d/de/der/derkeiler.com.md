@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the derkeiler.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223194559id_/http%3A//www.derkeiler.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the derkeiler.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607075229id_/http%3A//www.derkeiler.com/privacy) for the most accurate reproduction.*
 
 # Der Keiler: Privacy Policy
 
@@ -31,7 +31,3 @@ As a result of your visit to our site, ad server companies may collect informati
 <http://www.google.com/privacy_ads.html>  
 <http://www.tribalfusion.com/TribalFusion/privacy.html>  
 <http://www.247realmedia.com/privacy.html>
-
-### Contact
-
-If you have any questions about this policy feel free to contact us: [privacy@der-keiler.de](mailto:privacy@der-keiler.de)
