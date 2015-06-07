@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swelen.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120045212id_/http%3A//www.swelen.com/%3Fprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swelen.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607054831id_/http%3A//www.swelen.com/%3Fprivacypolicy) for the most accurate reproduction.*
 
 # Swelen - Privacy Policy
 
