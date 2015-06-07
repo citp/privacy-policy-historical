@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interracialdatingcentral.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110181807id_/http%3A//www.interracialdatingcentral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interracialdatingcentral.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607151205id_/http%3A//www.interracialdatingcentral.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Chellaul
 
@@ -129,7 +129,7 @@ c/o Chellaul Corporation
 1135 Terminal Way, Suite 209  
 Reno, NV, 89502 
 
-(C) 2014 Chellaul Corporation. All rights reserved. 
+(C) 2015 Chellaul Corporation. All rights reserved. 
 
 ## Linked information:
 
