@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tricks-collections.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121183453id_/http%3A//tricks-collections.com/%3Fpage_id%3D9631) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tricks-collections.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607180610id_/http%3A//tricks-collections.com/%3Fpage_id%3D9631) for the most accurate reproduction.*
 
 # Privacy Policy | Tricks-Collections.Com
 
