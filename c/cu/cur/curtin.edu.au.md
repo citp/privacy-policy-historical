@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curtin.edu.au privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113002756id_/http%3A//rim.curtin.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curtin.edu.au privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145742id_/http%3A//rim.curtin.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy - Privacy
 
@@ -61,7 +61,6 @@ Privacy statement last updated 21 October 2014.
 ## Enquiries
 
 If you have any queries about privacy at Curtin please contact:  
-Annette Rooke   
 Information Disclosure Compliance Officer   
 Tel: +61 8 9266 1036   
-Email: [Annette.Rooke@curtin.edu.au](mailto:%20Annette.Rooke@curtin.edu.au)
+Email: [foicoordinator@curtin.edu.au](mailto:%20foicoordinator@curtin.edu.au)
