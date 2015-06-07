@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockstaruproar.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223111020id_/http%3A//www.rockstaruproar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockstaruproar.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607130253id_/http%3A//www.rockstaruproar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rockstar Energy Drink Uproar Festival
 
