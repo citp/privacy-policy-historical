@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the poolcenter.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025190213id_/http%3A//www.poolcenter.com/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poolcenter.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607150329id_/http%3A//www.poolcenter.com/poolcenter/storeus/security) for the most accurate reproduction.*
 
-# POOLCENTER.com, inc Privacy Policy | Poolcenter
+# Poolcenter
 
 POOLCENTER.com is a Private Site.  This means that any information you give us about yourself is not sold or redirected. Our respect for your privacy remains a very important concern for us. We do not and will not sell or rent your personal information, and are strongly opposed to our competitors who do. We are and have always been anti-spam. We will only use your contact information to correspond regarding your order. If you opt-in or register for some of our newsletters or promotional e-mail, we may ask you which pool type you have, or what type of pool equipment you own. This is used to make special offers available to you on the products that you need most.  
   
