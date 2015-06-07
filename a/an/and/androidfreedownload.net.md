@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidfreedownload.net privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218105226id_/http%3A//www.androidfreedownload.net/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidfreedownload.net privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608003507id_/http%3A//www.androidfreedownload.net/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Androidfreedownload.net
 
