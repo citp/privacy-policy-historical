@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trademotion.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122042140id_/http%3A//www.trademotion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trademotion.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607155636id_/http%3A//www.trademotion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TradeMotion.com
 
@@ -6,9 +6,9 @@
 
 You are here: [Home](http://cdn.trademotion.com/ "TradeMotion.com") / Privacy Policy
 
-### Effective Date: 01/30/2014
+### Effective Date: 02/13/2015
 
-Your privacy is important to TradeMotion, LLC (“TradeMotion”); maintaining your trust is paramount to us. This Statement details the information practices for TradeMotion’s (www.trademotion.com) and our affiliates’ Web sites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared.
+Your privacy is important to TradeMotion, Inc. (“TradeMotion”); maintaining your trust is paramount to us. This Statement details the information practices for TradeMotion’s (www.trademotion.com) and our affiliates’ Web sites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared.
 
 This Statement applies to TradeMotion Web sites that link to this Statement but does not apply to TradeMotion or TradeMotion-affiliated Websites that have their own Privacy Statement. Additionally, it does not apply to instances where we merely process data on behalf of clients for their benefit, such as when we act as a web hosting service provider. From time to time, we may supplement this Statement with additional information relating to a particular interaction we have with you.
 
@@ -162,7 +162,7 @@ To find out more about our privacy practices, see the [TradeMotion Online Privac
 
 Questions about this statement or about TradeMotion’s handling of your information may be sent to:
 
-TradeMotion LLC  
+TradeMotion Inc.  
 2190 Carmel Valley Rd. Suite D  
 Del Mar, CA 92014
 
