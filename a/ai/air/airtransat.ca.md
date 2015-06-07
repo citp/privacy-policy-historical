@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the airtransat.ca privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028181210id_/http%3A//www.airtransat.ca/en/Footers/Footer/Privacy-policy-and-Legal-notice%3FID%3D765%26type%3Dgamme%26tmpl%3DGEN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtransat.ca privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607083414id_/http%3A//www.airtransat.ca/en-CA/Legal-notice/Privacy-policy) for the most accurate reproduction.*
 
-# Privacy | Air Transat
+# Privacy Policy | Air Transat
 
-Learn more about Air Transat's Privacy Policy and read the Terms of use for the Air Transat site.
+Review our privacy policy to see how Transat protects your personal information.
 
-## Privacy Policy
+##  Transat's Privacy Policy
 
 Air Transat and its affiliated companies (“Transat”) are committed to protecting the privacy of your personal information and have taken measures to ensure the privacy and confidentiality of that information. Our commitment to safeguarding your privacy is reflected in our Transat’s privacy policy (the “Policy”). We have developed this policy and related procedures to comply with the _Personal Information Protection and Electronic Document Act_. We invite you to consult our Policy below for more information and details.
 
 Transat is responsible for personal information it holds or has under its control, including personal information it passes to others with your permission. Our privacy officer will receive and respond to your enquiries and complaints regarding the protection and privacy of your personal information, and will deal with requests for access to your information.
 
-If you have given us your consent, we may forward your name, coordinates, profile and travel preferences to _ **other divisions and members of Transat**_ (collectively, “Transat”) and to service providers specializing in data processing in order to contact you, via any and all means, with respect to our travel services (including to conduct surveys) and / or to send you personalized offers on our products and **Transat** products. 
+If you have given us your consent, we may forward your name, coordinates, profile and travel preferences to _ **other divisions and members of Transat**_ (collectively, “Transat”) and to service providers specializing in data processing in order to contact you, via any and all means, with respect to our travel services (including to conduct surveys) and / or to send you personalized offers on our products and **Transat** products.
 
 For all bookings, your name and booking details will be forwarded to our travel suppliers (airlines, hotels, cruise companies, incoming tour operators, car rental companies…) in order to finalize your booking and enable you to fully enjoy your trip.
 
-###  1 - The importance of the right to privacy. 
+###  1 - The importance of the right to privacy.
 
 Transat takes the privacy rights of individuals very seriously and, in this respect, takes all measures possible to ensure the protection of the personal information that we collect in providing our services. Transat may be required to exchange personal information with third parties on individuals for the purpose of administering customer accounts and files. Transat and such third parties may also exchange information on individuals that is not of a sensitive nature regarding their preferences for the purpose of offering and providing quality benefits, products, goods, and services in an efficient manner. Nevertheless, Transat will not collect, use, or disclose any personal information on an individual without his or her consent, unless compelled to do so by statute or regulation. In this regard, our primary concern is the trust that individuals place in our safeguarding the privacy of their personal information.
 
@@ -24,13 +24,13 @@ Our Policy has been formulated to satisfy and indeed, even to exceed the require
 
 In order to better understand and meet the expectations of individuals regarding the protection of personal information, Transat has designated a member of senior management to act as Director, Protection of Personal Information (hereinafter “the Director”). Any person may contact the Director in order to share comments, request access to any personal information that we may have on him or her, request that corrections be made to the information, or to file a complaint. The Director shall conduct a consistent review of Transat practices and procedures to ensure compliance with this Policy and to meet customer expectations in this respect.
 
-### 2 - Transat’s undertakings
+###  2 - Transat’s undertakings
 
   * We shall collect only such personal information as is required to offer services, benefits, goods, and products to individuals;
   * We shall not disclose any personal information to a third party without the prior express or tacit consent, as applicable, of the individual, or unless bound by law to do so;
   * We shall not collect, use, or disclose any personal information on any individual without having obtained his or her prior express or tacit consent, as applicable, or unless bound by any statute or regulation to do so;
   * We may on occasion release personal information to our external agencies or mandataries for processing, to identify customers likely to be interested in benefits, products, goods, or services offered by Transat. Through contractual agreements or other comparable means, we shall ensure that your personal information is protected when processed by our mandataries and external agencies;
-  * In order to increase the opportunities of Transat customers to obtain special benefits, we may occasionally exchange personal information with a third party, in the form of a list of those customers who meet certain general criteria. The lists may not contain any information of a sensitive nature, and the use of such information by the third party for any purpose other than as set forth in this Policy is strictly prohibited. Under no circumstances may personal information be disclosed without the express or tacit consent, as applicable of the individual concerned. 
+  * In order to increase the opportunities of Transat customers to obtain special benefits, we may occasionally exchange personal information with a third party, in the form of a list of those customers who meet certain general criteria. The lists may not contain any information of a sensitive nature, and the use of such information by the third party for any purpose other than as set forth in this Policy is strictly prohibited. Under no circumstances may personal information be disclosed without the express or tacit consent, as applicable of the individual concerned.
   * We will provide individuals with explanations on how to delete their names from any lists we exchange with third parties. Individuals may contact us at any time to have their names removed from these lists;
   * We guarantee the security and confidentiality of the information that individuals provide us with. Compliance with these standards is subject to audit and these standards may be revised where a situation warrants it;
   * If requested to reveal personal information to a third party, we shall assume responsibility for the disclosures and shall take the necessary measures to ensure that the undertakings and rules referred to in this Policy are observed by this third party;
@@ -39,7 +39,7 @@ In order to better understand and meet the expectations of individuals regarding
 
 
 
-### 3 - Transat’s Rules regarding the Protection of Personal Information.
+###  3 - Transat’s Rules regarding the Protection of Personal Information.
 
 _A - Personal information_
 
@@ -47,18 +47,12 @@ The following is regarded as personal information: any information that is direc
 
 _B - Responsibilities_
 
-  * Transat is responsible for the personal information in its possession or under its control, in particular, personal information that it entrusts to its mandataries, agents or representatives. Transat shall adopt and apply specific rules of conduct and procedures that ensure compliance with the undertakings and rules referred to in this Policy, which, inter alia, are as follows:   
-
-  * The Director shall take all measures necessary to ensure that the undertakings regarding privacy rights and the protection of personal information, as well as the rules contained in this Policy, are complied with by Transat employees and its agents, mandataries or representatives;   
-
-  * Transat shall require that all agents, mandataries, representatives and other external organizations required to provide it with administrative support services, agree, either by contract or through a certificate of compliance, to comply with the undertakings and rules referred to in this Policy. They are prohibited from using the personal information held by Transat for purposes other than those for which the information was provided to them. The aforementioned phrase “agents, mandataries, representatives, and other organizations” includes, in particular, Transat suppliers of hotel and airport services, data processing and storage companies, as well as suppliers of administrative support services;   
-
-  * Transat shall implement security measures to ensure the confidentiality of personal information;   
-
-  * Transat shall issue employee directives to remind all staff of their obligation to comply with this Policy. In addition, Transat shall provide employee training to ensure that all staff understand the importance of privacy and how to ensure its protection;   
-
-  * Transat shall periodically remind third parties with whom it does business that they, their agents, mandataries or representatives must comply with the undertakings and rules referred to in this Policy; and   
-
+  * Transat is responsible for the personal information in its possession or under its control, in particular, personal information that it entrusts to its mandataries, agents or representatives. Transat shall adopt and apply specific rules of conduct and procedures that ensure compliance with the undertakings and rules referred to in this Policy, which, inter alia, are as follows:
+  * The Director shall take all measures necessary to ensure that the undertakings regarding privacy rights and the protection of personal information, as well as the rules contained in this Policy, are complied with by Transat employees and its agents, mandataries or representatives;
+  * Transat shall require that all agents, mandataries, representatives and other external organizations required to provide it with administrative support services, agree, either by contract or through a certificate of compliance, to comply with the undertakings and rules referred to in this Policy. They are prohibited from using the personal information held by Transat for purposes other than those for which the information was provided to them. The aforementioned phrase “agents, mandataries, representatives, and other organizations” includes, in particular, Transat suppliers of hotel and airport services, data processing and storage companies, as well as suppliers of administrative support services;
+  * Transat shall implement security measures to ensure the confidentiality of personal information;
+  * Transat shall issue employee directives to remind all staff of their obligation to comply with this Policy. In addition, Transat shall provide employee training to ensure that all staff understand the importance of privacy and how to ensure its protection;
+  * Transat shall periodically remind third parties with whom it does business that they, their agents, mandataries or representatives must comply with the undertakings and rules referred to in this Policy; and
   * Transat has adopted procedures in order to receive and investigate complaints, and must report back to complainants as soon as possible.
 
 
@@ -69,14 +63,10 @@ Transat may collect personal information on individuals but solely for the purpo
 
 i. Transat may collect personal information for the following purposes:
 
-  * to check the identity of individuals, to contact them, and to communicate with them;   
-
-  * to better understand the preferences, needs, and interests of individuals.   
-
-  * to enable Transat to offer individuals services, benefits, products, and goods within the framework of this Policy;   
-
-  * to comply with the statutes and regulations in force, including the information requirements of customs and immigration control, and to ensure the security and the processing of information; and   
-
+  * to check the identity of individuals, to contact them, and to communicate with them;
+  * to better understand the preferences, needs, and interests of individuals.
+  * to enable Transat to offer individuals services, benefits, products, and goods within the framework of this Policy;
+  * to comply with the statutes and regulations in force, including the information requirements of customs and immigration control, and to ensure the security and the processing of information; and
   * to allow Transat to effectively manage its human resources.
 
 
@@ -99,12 +89,11 @@ Transat may collect only such personal information as is necessary for the purpo
 
 _E - Identification of uses and disclosure of personal information_
 
-Transat may use or disclose personal information solely for the purposes identified in advance and by employing the means also thus identified. Transat may not collect, use, or disclose any personal information concerning an individual without his or her express or tacit consent, as applicable, unless required to do so by statute or regulation. 
+Transat may use or disclose personal information solely for the purposes identified in advance and by employing the means also thus identified. Transat may not collect, use, or disclose any personal information concerning an individual without his or her express or tacit consent, as applicable, unless required to do so by statute or regulation.
 
 Transat shall not use or disclose any personal information except for the following purposes, and in the manner indicated:
 
-> i. Personal information, that is not sensitive in nature (N.B. information will be deemed as being sensitive of the purpose of applying the present Policy where such information refers to the health or physical, mental or medical condition of an individual), regarding customers’ preferences, needs, and interests, may be used to identify those customers who are most likely to be interested in products or services offered by Transat and its agents, mandataries or representatives. Such information shall be used exclusively to enable Transat and its agents, mandataries or agents to propose services, premiums, benefits, and products that are likely to interest customers as part of a Transat promotional offer. Transat may not provide individualized customer profiles to third parties.  
-> 
+> i. Personal information, that is not sensitive in nature (N.B. information will be deemed as being sensitive of the purpose of applying the present Policy where such information refers to the health or physical, mental or medical condition of an individual), regarding customers’ preferences, needs, and interests, may be used to identify those customers who are most likely to be interested in products or services offered by Transat and its agents, mandataries or representatives. Such information shall be used exclusively to enable Transat and its agents, mandataries or agents to propose services, premiums, benefits, and products that are likely to interest customers as part of a Transat promotional offer. Transat may not provide individualized customer profiles to third parties.
 > 
 > ii. When a third party wishes to submit an offer to customers, generally the offer shall be sent to customers by Transat rather than by the party in question.
 > 
@@ -122,7 +111,7 @@ Transat may not use or disclose personal information for any purpose other than 
 
 _G. Consent_
 
-Transat shall take all measures necessary to ensure that individuals know and understand the purposes for which it collects, uses, or discloses personal information. Transat shall obtain the consent of every individual in respect of whom it collects, uses, or discloses personal information. Indeed, depending on the circumstances and the nature of the information, such consent may be express or tacit. In certain circumstances, express consent is necessary. In other cases, consent is reasonably presumed, but is revocable on demand. 
+Transat shall take all measures necessary to ensure that individuals know and understand the purposes for which it collects, uses, or discloses personal information. Transat shall obtain the consent of every individual in respect of whom it collects, uses, or discloses personal information. Indeed, depending on the circumstances and the nature of the information, such consent may be express or tacit. In certain circumstances, express consent is necessary. In other cases, consent is reasonably presumed, but is revocable on demand.
 
 > i. Transat may not collect, use, or disclose any sensitive personal information of an individual without the express consent of the person concerned, unless required to do so by statute or regulation;
 > 
@@ -174,54 +163,6 @@ Should an individual feel that this Policy is not being complied with or should 
 
 > i. A complaint or request for an inquiry must be addressed in writing to the Director at the following address: 5959 Côte-Vertu Blvd., Montreal, Quebec H4S 2E6; and
 > 
-> ii. Any complaint or request for investigation shall be the subject of an inquiry or a reply within sixty (60) working days. If the complaint is justified, Transat will take the appropriate follow-up measures including providing access to the personal information requested, the correction of the information, or, where applicable, by modifying this Policy. 
+> ii. Any complaint or request for investigation shall be the subject of an inquiry or a reply within sixty (60) working days. If the complaint is justified, Transat will take the appropriate follow-up measures including providing access to the personal information requested, the correction of the information, or, where applicable, by modifying this Policy.
 
-## Terms of use for the Air Transat site
-
-**Agreement between the client and Air Transat**
-
-Welcome to the site www.airtransat.ca (the “ **Site** ”). This Site provides information with respect to Air Transat. Please read the following terms and conditions of the use of this Site closely. The terms “we”, “ours” and “Air Transat” refer to Air Transat operated by Transat Tours Canada Inc. The term “you” refers to you the client that visits the Site and/or who books a reservation on the present Site or through one of our client service representatives. The present Site is offered to you conditionally based on your acceptance without charge regarding all the terms, conditions and notices as indicated below or elsewhere in this Site (the “ **Contract** ”). By accessing and utilizing this Site in any which manner, you acknowledge and accept to be bound by this Contract.
-
-We invite you to return and visit this page regularly, because it will be updated regularly. We reserve the right, upon our discretion, to modify in any which manner the present terms of use, without any prior notice. If you continue to access this present Site, and to use it, it signifies that you accept the modifications made to the Contract.
-
-You may terminate your agreement to be bound by the terms and conditions hereof by ceasing to use this Site and by destroying all information obtained from this Site together with any copies thereof and related documentation. Air Transat may terminate the Contract represented by your use of this Site at any time without notice if you breach any terms or conditions of the use of this Site. Such termination is without prejudice to all other rights and remedies which Air Transat may have at law as a result of your violation of the terms and conditions of the use of this Site.
-
-**Cookie**
-
-A cookie is a small non-executable file that is stored on your hard drive for the purpose of identifying your computer. This website uses cookies to remember information you gave use so that you don’t have to re-enter the information each time you visit this website. Cookies also help us understand which areas of our site are popular by showing us how you and others use our sites.
-
-While it is possible to make a booking on this website by having your browser’s Internet security set such that it will not accept cookies your online experience may be greatly reduced. Our cookies are not tied to personally identifiable information.
-
-This privacy statement covers the use of cookies by Air Transat only and does not cover the use of cookies by any third parties. Some of our business partners use cookies on our site. We have no access to or control over these cookies.
-
-**Jurisdiction**
-
-This Site is operated and controlled in Canada. The present Contract shall be governed by and is construed in accordance with the laws of the Province of Quebec without giving effect to any principles of conflicts of law. If any provision of this present Contract be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from the present Contract and shall not affect the validity and enforceability of any remaining provisions.
-
-**Use of Information**
-
-If you respond to this Site with questions, comments, suggestions or feedback with respect to the content of this Site, all such questions, comments, suggestions or feedback (“Information”) shall be deemed to be non-confidential and Air Transat shall have no obligations whatsoever with respect to such Information and shall be free to reproduce, use, disclose or distribute the Information without limitation and without your consent or approval. In addition, Air Transat shall be entitled, but not obligated, to use, without compensation paid, any ideas, concepts, know-how or techniques contained in such Information for any purpose whatsoever including, but not limited to, developing and marketing services, incorporating such Information.
-
-**Disclaimer and Limitation of Liability**
-
-Air Transat uses all commercially reasonable efforts to provide accurate information, but does not guarantee it and makes no representation regarding its accuracy, reliability or any other matter. Air Transat makes no representation that materials and products are available in all locations and on the dates indicated. Flight schedules and destinations may also be subject to change. It is your sole responsibility to confirm the accuracy and exactness of the information relating to scheduling and destination before relying on it. Air Transat does not guarantee that this Site or every feature of this Site will remain available to you. Neither Air Transat nor anyone who helped develop, create, produce or deliver the material or information on this Site or the functionality of this Site warrants that the functions contained in this Site will be uninterrupted or error free, that defects will be corrected, that this Site or any server that makes it available is free from viruses or other harmful components or that successful results or outcomes will result from your use of information of this Site. Without limiting the foregoing, all information on this Site is provided on an “as is” basis without warrant of any kind, either expressed or implied, including but not limited to any implied warranties as to accuracy, timeliness, completeness, merchantability or fitness for a particular purpose. Air Transat is not responsible for any material posted on this Site by any user or for any information whatsoever contained in any linked Site. Air Transat is not responsible or liable for any defamatory, offensive or illegal conduct of any other visitor to this Site or any third party. IN NO EVENT, WILL AIR TRANSAT BE LIABLE TO USERS AND/OR ANY THIRD PARTY FOR DAMAGES WHATSOEVER RELATED TO OR ARISING FROM THE USE OF OR INABILITY TO USE THIS SITE OR ANY INFORMATION OR MATERIAL ON THIS SITE. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, AIR TRANSAT SHALL NOT UNDER ANY CIRCUMSTANCES BE LIABLE TO USERS AND/OR ANY THIRD PARTY FOR ANY LOSS OF PROFITS OR LOSS OF OPPORTUNITIES, INDIRECT, DIRECT, SPECIAL, CONSEQUENTIAL, INCIDENTAL OR PUNITIVE DAMAGES WHATSOEVER, EVEN IF AIR TRANSAT HAS BEEN ADVISED OR WAS OR SHOULD HAVE BEEN AWARE OF THE POSSIBLITY OF SUCH DAMAGES. The use of this website and/or the information contained on this website is entirely and completely at the customer’s own risk. If the customer accesses the Site through a link to a non-Air Transat’s website, and such site is for the booking of different products, Air Transat invites the customer to read carefully the terms and conditions specifically specified in such linked website.
-
-**Copyright and Trademarks**
-
-All information and artwork on this Site are protected by copyright. All pictures on this Site are either owned by Air Transat or used with permission. Air Transat retains full and complete title to all downloadable software and all images incorporated or generated by the software. You may make a hard copy or download the material for personal use only. You may not reproduce, transmit, distribute, display, download, copy, reproduce or use on your website or in any other public or commercial manner any information, images, sequences contained herein, graphics or functionality from this website including, without limitation, for purposes of producing a television report, producing a website or publishing a poster, advertisement or brochure, without the prior express written consent of Air Transat. You may not reverse-engineer, disassemble or otherwise convert any component of this website to another form. Unless otherwise specified, all trademarks used on this Site are the property of Air Transat or another party and in the latter case are licensed to Air Transat for use in association with its operations. This website is a production and is operated by Transat Tours Canada Inc.
-
-**Use of the Web Site/strong**
-
-In order to be eligible to use this Site, you must guarantee that (i) you are at least eighteen (18) years of age; (ii) you have the legal right to contract a legal obligation; (iii) you will use this present Site in accordance with this Contract; (iv) you will use this Site solely for the purpose of booking legitimate reservations for yourself or for another person over whom you have legal authority to act; (v) all the information provided by you on this present Site are true, exact, valid and complete; and (vi) if you have an Air Transat user account on this Site, you will protect the information on this account and you will supervise the use of your account, used by another person, and you will assume full responsibility for it. Air Transat reserves the right, upon its own discretion, to refuse any person access to this Site or of any service it offers at any time, for any reason, including, notably a violation to this Contract.
-
-**Restrictions regarding the supplier**
-
-Separate terms will apply to reservations and purchases of travel products and services that you have selected. Please read carefully these separate terms. You acknowledge and accept to respect these terms of purchase as set forth and determined by the supplier with whom you choose to do business with, including but not limited to, the payment of all amounts due, and to respect the terms and restrictions of this supplier regarding the availability of the use of tariffs, of these products and services. The carriers, hotels and other suppliers who supply travel services on this present Web Site are independent contractor and not agents or employees of Air Transat, nor of any affiliates of Air Transat. The description of the products and services is provided by each supplier. Air Transat cannot be held responsible for the inaccuracy of the information provided. Air Transat cannot be held responsible for acts, errors, or omissions, representations, warranties, illegalities, offences or negligence, of such a supplier nor for any and all physical injuries, death, damages to property or other damages or expenses that may result. Air Transat will not reimburse you in the case of delays, cancellations, overbooking, strikes, acts of God, or any other act independent of its will, and will not assume any responsibility for additional expenses, omissions, delays, schedule modifications or acts taken by the government or any other authority.
-
-**Privacy Policy**
-
-Air Transat is committed to the privacy of its clients. To consult the privacy policy of Air Transat, please consult the following link
-
-**General**
-
-This Air Transat Site is operated by Transat Tours Canada Inc., a legally constituted corporation with offices at: 300 Léo-Pariseau, Suite 500, Montreal, Quebec, H2X 4C2, 191 The West Mall, Etobicoke, Ontario, M9C 5K8; and 555 West Hastings, Suite 2800, Vancouver, British Columbia, V6B 4N5, and is registered as a travel retailer and agent in three provinces; Quebec – 754241, Ontario – 50009485, and British Columbia – 2454.
+**Was this page helpful?** _No login required_ 6 3 
