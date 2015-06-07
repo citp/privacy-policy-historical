@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the areacodelocations.info privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094929id_/http%3A//www.areacodelocations.info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the areacodelocations.info privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607184457id_/http%3A//www.areacodelocations.info/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy for AreaCodeLocations.info
 
@@ -13,4 +13,4 @@ We sell advertising space on AreaCodeLocations.info to third party companies. Th
 [Google privacy policy](http://www.google.com/intl/en/policies/privacy/)  
 One of the advertisers displaying ads on our website is Google via their Adsense program. They use a new technology called Dart Cookie - an Internet cookie that may trigger ad displaying based on other websites you visit. See this page for detailed information on Google advertising and information collected: <http://www.google.com/intl/en/policies/privacy/ads/>
 
-[PeopleSmart privacy policy](http://www.peoplesmart.com/?_act=privacy)
+[Spokeo privacy policy](http://www.spokeo.com/privacy)
