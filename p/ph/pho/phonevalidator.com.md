@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonevalidator.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204193447id_/http%3A//www.phonevalidator.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonevalidator.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607034810id_/http%3A//www.phonevalidator.com/privacy.html) for the most accurate reproduction.*
 
 # Phone Validator - Is it a Cell or is it a Landline?
 
@@ -69,6 +69,6 @@ D. SALE OF INFORMATION. Should we decide to sell all or part of the Company at s
 
 6.1. CONTACTING US. If you have any questions about this Policy or our practices related to this Site please contact us by accessing the “Contact Us” link at the bottom of each Site page. 
 
-[RETURN HOME](https://web.archive.org/web/20141204193447id_/http%3A//www.phonevalidator.com/default.aspx)
+[RETURN HOME](https://web.archive.org/web/20150607034810id_/http%3A//www.phonevalidator.com/default.aspx)
 
-© Copyright 2020 Crime Time Publishing Co., Inc. All rights reserved. Use of this website is at your own risk. We make no guarantees, expressed or implied, as to the accuracy of this data or service. Your use of this website indicates your acknowledgement and acceptance of these warnings and conditions. [Contact us here. ](http://www.crimetime.com/contact.aspx)You may use this link to view our [PRIVACY STATEMENT](https://web.archive.org/web/20141204193447id_/http%3A//www.phonevalidator.com/privacy.html). Your use of this website indicates your acceptance of our [terms and conditions](https://web.archive.org/web/20141204193447id_/http%3A//www.phonevalidator.com/terms.html). 
+© Copyright 2020 Crime Time Publishing Co., Inc. All rights reserved. Use of this website is at your own risk. We make no guarantees, expressed or implied, as to the accuracy of this data or service. Your use of this website indicates your acknowledgement and acceptance of these warnings and conditions. [Contact us here. ](http://www.crimetime.com/contact.aspx)You may use this link to view our [PRIVACY STATEMENT](https://web.archive.org/web/20150607034810id_/http%3A//www.phonevalidator.com/privacy.html). Your use of this website indicates your acceptance of our [terms and conditions](https://web.archive.org/web/20150607034810id_/http%3A//www.phonevalidator.com/terms.html). 
