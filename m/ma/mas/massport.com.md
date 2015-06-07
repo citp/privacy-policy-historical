@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massport.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108222622id_/http%3A//www.massport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massport.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140744id_/https%3A//www.massport.com/privacy-policy) for the most accurate reproduction.*
 
 # Massport - Privacy Policy
 
@@ -10,9 +10,13 @@ The Google Analytics tool uses “cookies” which are text files placed on your
 
 We offer some special services such as FlightTracker, site Subscription via E-mail, Construction Updates via E-mail, and online Form and Publication Requests. In order for these services to work properly, we must collect some basic information from you. If you submit any personal identifying information to us, you can be assured that we will not sell, lease or share this information with anyone else without your permission, except as follows: (1) as may be required by the Massachusetts General Laws, including the Public Records Law (M.G.L. Chapter 66, Section 10); (2) in the course of a law enforcement investigation; or (3) in the event of a suspected attempt to gain unauthorized access or to do physical damage (an attack by hackers, for example).
 
-**Terms Change** \- Massachusetts Port Authority reserves the right to make changes to this Privacy Policy at any time. Please review it frequently. If we make changes to this policy, we will notify you on this page. We will try and post such changes in advance; however, we do not promise to do so. You will be bound by these new terms if you use our website after they are posted.
+## Terms Change
 
-**How to Contact Us/Questions -** For any questions or comments regarding our Privacy Policy, you may contact us:
+Massachusetts Port Authority reserves the right to make changes to this Privacy Policy at any time. Please review it frequently. If we make changes to this policy, we will notify you on this page. We will try and post such changes in advance; however, we do not promise to do so. You will be bound by these new terms if you use our website after they are posted.
+
+## How to Contact Us/Questions
+
+For any questions or comments regarding our Privacy Policy, you may contact us:
 
 E-mail: |   | [communications@massport.com](mailto:communications@massport.com)  
 ---|---|---  
@@ -22,5 +26,6 @@ Strategic Communications & Marketing
 One Harborside Drive, Suite 200S  
 East Boston, MA 02128-2909  
   
-  
-**Copyright Notice -** Copyright 1999 - 2014 Massachusetts Port Authority. All rights reserved.
+## Copyright Notice
+
+Copyright 1999 - 2015 Massachusetts Port Authority. All rights reserved.
