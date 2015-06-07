@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goqii.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205042856id_/http%3A//www.goqii.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goqii.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140655id_/http%3A//www.goqii.com/privacy) for the most accurate reproduction.*
 
 # Welcome to GOQii Life
 
@@ -86,7 +86,7 @@ You may also have the option of posting your Services activities to Social Media
 * Your information may be transferred to — and maintained on —servers located outside of your state, province or country. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer. 
 
 **Other Terms and Conditions:**
-* Your access to and use of this Site is subject to the [Terms of Service](https://web.archive.org/web/20141205042856id_/http%3A//www.goqii.com/terms.html). 
+* Your access to and use of this Site is subject to the [Terms of Service](https://web.archive.org/web/20150607140655id_/http%3A//www.goqii.com/terms.html). 
 
 **Changes to GOQii’s Privacy Policy:**
 * The Site and our business may change from time to time. As a result, at times it may be necessary for GOQii to make changes to this Privacy Policy. GOQii reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Site after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy. 
