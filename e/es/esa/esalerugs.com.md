@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the esalerugs.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223804id_/http%3A//esalerugs.com/customer-service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esalerugs.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144822id_/http%3A//esalerugs.com/customer-service/privacy) for the most accurate reproduction.*
 
 # Rug Education Center
 
 ## Privacy Policy
 
-Your email address and other personally identifiable information will be used only in order fulfillment, and to send you newsletters if you so request. We will never sell or give your information to third parties, unless related to order fulfillment (such as giving your email address to UPS so that they can inform you if there is a problem with delivery.)
+### Contact Information
+
+104 Williamson St,  
+Fort Mill, SC 29715  
+Email: info@esalerugs.com
+
+### Unsubscribe From eSaleRugs
+
+Your email address and other personally identifiable information will be used only in order fulfillment, and to send you newsletters if you so request. We will never sell or give your information to third parties, unless related to order fulfillment (such as giving your email address to FedEx so that they can inform you if there is a problem with delivery.)
 
 This site is owned and operated by Unique USA Inc. Your privacy on the Internet is of the utmost importance to us. At Unique USA Inc, we want to make your experience online satisfying and safe.
 
@@ -33,8 +41,10 @@ Users of the site's Message Boards and Forums must register separately for these
 Our site users can choose to electronically forward a link, page, or documents to someone else by clicking "e-mail this to a friend". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose.
   4. **Polling**  
 We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. Unique USA Inc may use a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users.
-  5. **5\. Surveys**  
+  5. **Surveys**  
 Unique USA Inc may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party.
+
+
 
 ### CHILDREN
 
@@ -74,12 +84,11 @@ Unique USA Inc operates secure data networks protected by industry standard fire
 
 We give users options wherever necessary and practical. Such choices include:
 
-    * Opting not to register to receive our electronic newsletters.
-    * Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users.
+  * Opting not to register to receive our electronic newsletters.
+  * Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users.
+
+
 
 ### YOUR CONSENT
 
 By using this site, you consent to the collection and use of this information by Unique USA Inc. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
-
-
-
