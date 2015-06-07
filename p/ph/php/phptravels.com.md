@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phptravels.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219061728id_/http%3A//phptravels.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phptravels.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607035310id_/http%3A//phptravels.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - PHPtravels
+# Privacy Statement - PHPTRAVELS
 
 This Privacy Policy governs the manner in which phptravels collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.phptravels.com](http://phptravels.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by phptravels.
 
@@ -55,7 +55,7 @@ Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-[www.phptravels.com](https://web.archive.org/web/20141219061728id_/http%3A//phptravels.com/www.phptravels.com)  
+[www.phptravels.com](https://web.archive.org/web/20150607035310id_/http://phptravels.com/privacy-statement/www.phptravels.com)  
 +92-33-11442244  
 info@phptravels.com
 
