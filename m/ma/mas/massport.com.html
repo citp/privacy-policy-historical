@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the massport.com privacy policy that was archived on 2014-11-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141108222622id_/http%3A//www.massport.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the massport.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607140744id_/https%3A//www.massport.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en-us" xml:lang="en-us" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 	<title>Massport - Privacy Policy
@@ -54,9 +54,30 @@
 	</script>
 </head>	
 <body id="main_homepage">
+
+<div class="hide" role="navigation" aria-labelledby="access-nav">
+<p id="access-nav">Internal page navigation</p>
+<ul>
+<li><a href="#zz1_TopNavigationMenu">Skip to main navigation</a></li>
+<li><a href="#center">Skip to content</a></li>
+<li><a href="#footer">Skip to footer</a></li>
+</ul>
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
     	<div class="main_wrapper">
 	    <div class="wrapper">
-	        <div id="head">
+	        <div id="head" role="banner">
 	            
 
 
@@ -66,7 +87,7 @@
 	            
 
 
-    <div class="topnav" id="zz1_GlobalNav">
+    <div class="topnav" id="zz1_GlobalNav" role="navigation">
 	<div class="AspNet-Menu-Horizontal">
 			<ul class="level0 AspNet-Menu">
                 <li class="AspNet-Menu-Leaf item0 home"><a title="Home" class="AspNet-Menu-Link" href="/"><span class="textContainer">Home</span></a></li>
@@ -129,7 +150,7 @@
 /media/1446/home_img.jpg);">
 	                <div class="logo"><a href="/" title="Massport"><img src="/Massport_Images/logo.png" alt="Massport"></a></div>
                 
-	                        <div id="second_nav">
+	                        <div id="second_nav" role="navigation">
             <div class="second_nav_inner">
                 <ul>
                     
@@ -141,7 +162,10 @@
                 </ul>
             </div>
             <div id="ctl00_PlaceHolderSearchArea_QuickSearchBar1">
-                <div class="QuickSearchBar"><input id="search-box" type="text" class="textBox" onfocus="this.value=''"><input id="search-button" type="image" class="linkButton" src="/Massport_Images/search.png" alt="Search" style="border-width:0px;">
+                <div class="QuickSearchBar" role="search">
+                  <label for="search-box" class="hide">Search Massport.com</label>
+                  <input id="search-box" type="search" class="textBox" onfocus="this.value=''">
+                  <input id="search-button" role="button" type="image" class="linkButton" src="/Massport_Images/search.png" alt="Search" style="border-width:0px;">
                 </div>											
             </div>
         </div>
@@ -161,13 +185,13 @@
 
 <div class="mainnav">
 <div class="mainMenu" id="zz1_TopNavigationMenu">
-    	<div class="AspNet-Menu-Horizontal">
+        <div class="AspNet-Menu-Horizontal" role="navigation">
             <ul class="level0 AspNet-Menu">
 
             </ul>
         </div>
 </div>
-    <script type="text/javascript">
+    <script type="text/javascript">/* removed this for accessibility issues
         $('.AspNet-Menu-WithChildren').hover(function () {
             $(".subMenuContainer", this).fadeIn(300);
             $(".subMenuContainer", this).mouseleave(function () {
@@ -178,6 +202,27 @@
             })
         },
         function () { $(".subMenuContainer", this).fadeOut(1200); });
+*/
+
+;(function() {
+  
+    // add a class to the nav parent if any of the children have focus
+    $('.AspNet-Menu-WithChildren').find('.subMenuContainer').find('a').on('focus', function() {
+      $(this).closest('.AspNet-Menu-WithChildren').addClass('child-has-focus');
+    });
+    
+    // on blur, check if the focus state is out of the parent
+    $('.AspNet-Menu-WithChildren').find('.subMenuContainer').find('a').on('blur', function() {
+    
+      var parentContainer = $(this).closest('.AspNet-Menu-WithChildren');
+      
+      if(parentContainer.find('.subMenuContainer').find('ul > li').children(':focus').length === 0) {
+        parentContainer.removeClass('child-has-focus');
+      }
+      
+    });
+    
+  })();
 
     </script>
 </div>
@@ -187,9 +232,10 @@
 	        </div>
 
 
-<div id="center">
+<div id="center" role="main">
     <div class="left">
 		<div class="pageIcoHolder">
+		<h1 class="hide">Section Navigation</h1>
 		</div>
         
 
@@ -199,7 +245,7 @@
 
 
 <div id="vertmenu">
-<div class="sideMenu" id="zz3_CurrentNavVertical">
+<div class="sideMenu" id="zz3_CurrentNavVertical" role="navigation">
 	<div class="AspNet-Menu-Vertical">
 			<ul>
 			</ul>
@@ -227,13 +273,16 @@
 <li>The page you requested and the amount of data sent to your computer; and</li>
 <li>The information your web browser sends to us, which typically identifies the browser software and may also indicate operating system and the type of CPU in your system.</li>
 </ul>
+
 <p>It is impossible to determine the actual identity of an individual user from this information. <br /> <br /> We develop summary reports, or logs, from the information collected. These logs are analyzed periodically in order to study site usage over time and to perform studies in order to improve the site's organization, performance and usefulness. The raw data used to develop these logs are erased periodically as a part of routine system maintenance. <br /> <br /> <strong>Electronic Mail - </strong>When you send us personal identifying information via E-mail (that is, in a message, question or comment or by filling out a form that e-mails us this information), we use it to respond to your request. We may forward your E-mail to other Massachusetts Port Authority employees or contract personnel who are better able to answer your question. The E-mail itself may be retained as required by Massachusetts Laws and regulations governing the retention of public records. <br /> <br /> <strong>Cookies - </strong>Massachusetts Port Authority places a cookie, a small text file, on a visitor's hard drive. This cookie contains a randomly generated user ID in order to track unique site visits. Massachusetts Port Authority does not use cookies to store any personal information. This cookie can only be read by Massachusetts Port Authority servers and assists us with the statistical analysis necessary to assure site functionality and responsiveness. <br /> <br /> <strong>Opt Out Procedures - </strong>If you have enrolled in any of our special services and wish to be removed from our mailing list, please complete the following <a href="http://www.massport.com/sitemap/contact.asp">form</a> and indicate which list you would like to unsubscribe from in the comment field. <br />-->
 <p>This privacy policy describes how the websites maintained by the Massachusetts Port Authority collect and utilize information supplied by our visitors. <strong>This policy may change from time to time as may be appropriate</strong>. You can visit and enjoy our Websites without disclosing any personal identifying information about yourself.</p>
 <p>This website uses Google Analytics to help analyze how users use the site. Google Analytics is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of www.massport.com, to prepare reports on its activities and share them with other Google services. Google may use the data collected to contextualize and personalize the ads of its own advertising network. Google Analytics features implemented on this site include Display Advertising (Demographics and Interest Reporting). We use data from Google's Interest-based advertising or 3rd-party audience data (such as age, gender and interests) with Google Analytics only to maintain this site’s functionality, responsiveness and improve content. Google’s ability to use and share information collected by Google Analytics regarding your visits to this site is restricted by the Google Analytics <a href="http://www.google.com/analytics/terms/us.html" target="_blank">Terms of Service and Privacy Policy</a>.</p>
 <p>The Google Analytics tool uses “cookies” which are text files placed on your computer, to collect standard internet log information and visitor behavior information in an anonymous form. The information generated by the cookie about your use of the website (including IP address) is transmitted to Google. This information is then used to evaluate visitors’ use of the website and to compile statistical reports on website activity for the Massachusetts Port Authority. Users may enable currently available opt-outs for web and ads to avoid sharing this information.</p>
 <p>We offer some special services such as FlightTracker, site Subscription via E-mail, Construction Updates via E-mail, and online Form and Publication Requests. In order for these services to work properly, we must collect some basic information from you. If you submit any personal identifying information to us, you can be assured that we will not sell, lease or share this information with anyone else without your permission, except as follows: (1) as may be required by the Massachusetts General Laws, including the Public Records Law (M.G.L. Chapter 66, Section 10); (2) in the course of a law enforcement investigation; or (3) in the event of a suspected attempt to gain unauthorized access or to do physical damage (an attack by hackers, for example).</p>
-<p><strong>Terms Change</strong> - Massachusetts Port Authority reserves the right to make changes to this Privacy Policy at any time. Please review it frequently. If we make changes to this policy, we will notify you on this page. We will try and post such changes in advance; however, we do not promise to do so. You will be bound by these new terms if you use our website after they are posted.</p>
-<p><strong>How to Contact Us/Questions - </strong>For any questions or comments regarding our Privacy Policy, you may contact us:</p>
+<h2>Terms Change</h2>
+<p>Massachusetts Port Authority reserves the right to make changes to this Privacy Policy at any time. Please review it frequently. If we make changes to this policy, we will notify you on this page. We will try and post such changes in advance; however, we do not promise to do so. You will be bound by these new terms if you use our website after they are posted.</p>
+<h2>How to Contact Us/Questions</h2>
+<p>For any questions or comments regarding our Privacy Policy, you may contact us:</p>
 <table border="0" style="width: 401px; height: 132px;">
 <tbody>
 <tr>
@@ -253,7 +302,8 @@
 </tr>
 </tbody>
 </table>
-<p><br> <strong>Copyright Notice - </strong>Copyright 1999 - 2014 Massachusetts Port Authority. All rights reserved.</p>
+<h2>Copyright Notice</h2>
+<p>Copyright 1999 - 2015 Massachusetts Port Authority. All rights reserved.</p>
 		</div>
 	</div>
 	<!-- .center end -->
@@ -286,14 +336,14 @@
 			&nbsp;
 		</div>
 	</div>
-<div id="footer">
+<div id="footer" role="contentinfo">
 		<a href="/">Home</a>&nbsp;|&nbsp;<a href="/about-massport">About Massport</a> | <a href="/logan-airport">Logan Airport</a> | <a href="/hanscom-worcester-airports">Hanscom &amp; Worcester Airports</a> | <a href="/port-of-boston">Port of Boston</a>&nbsp;<br>
 <a href="/doing-business-with-massport">Doing Business with Massport</a>&nbsp;| <a href="/environment">Environment</a> | <a href="/in-the-community">In the Community</a> | <a href="/news-room">News Room</a> | <a href="/visit-boston">Visit Boston</a>&nbsp;<br>
 <a target="_blank" href="/logan-airport/inside-the-airport/logan-interactive-maps/">Interactive Map</a> | <a href="/about-massport/contact-us/" id="Massport Contact Us" title="Massport Contact Us">Contact Us</a> | <a href="/news-room/media-center/social-media" id="Massport Social Media" title="Massport Social Media">Follow&nbsp;Us</a>&nbsp;| <a href="/site-map">Site Map</a>
 		<br>
 		<br>
-		© 1999 - 2014
-		<a href="#">Massport Copyright</a> | <a href="/legal-information">Legal Information</a> | <a href="/privacy-policy">Privacy Policy</a><br>
+		© 1999 - 2015
+		Massport Copyright | <a href="/legal-information">Legal Information</a> | <a href="/privacy-policy">Privacy Policy</a><br>
         <div id="google_translate_element">
 
         </div>
