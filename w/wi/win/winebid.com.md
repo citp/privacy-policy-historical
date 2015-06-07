@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the winebid.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022160848id_/http%3A//www.winebid.com/About/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winebid.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607154514id_/http%3A//www.winebid.com/About/PrivacyPolicy) for the most accurate reproduction.*
 
-# WineBid.com » Privacy Policy
+# Privacy Policy | WineBid.com
 
 At WineBid.com we are committed to maintaining your privacy and security. We will not share your email address with any other party, unless legally required by a court order. Our privacy policy is described below. This policy does not, however, govern the terms of our relationship or constitute any representation or warranty. The terms of our relationship are governed by our [Terms and Conditions](https://web.archive.org/About/TermsAndConditions). 
 
@@ -8,7 +8,13 @@ At WineBid.com we are committed to maintaining your privacy and security. We wil
 
 Our site's registration requires you to give us contact information, including your mailing address and your email address, and a valid credit card number. If you choose to receive emails from us (see our Opt-in policy below), we will use this data to send you information about our auctions, special offers and other WineBid.com news. We also use this information to bill you if you participate in our auctions and acquire wines. We may also occasionally use your contact information to send you information about business partners we may have. 
 
-Our site uses cookies. We use cookies to deliver content specific to your interests, to save your password, and for other purposes. 
+Our site uses cookies. We use cookies to preserve your authentication status, to deliver content specific to your interests, and to track anonymous usage data for analysis. 
+
+We use Google Analytics to track anonymous usage data and to perform analysis on the information collected to help us improve the website. Google Analytics uses cookies to collect information in an anonymous form, including the number of visitors to the website, the User IDs of the visitors, where visitors have come to the site from, and the pages they visit and actions they take while using the site. For further information please see the following overview of Google Analytics privacy information:  
+<http://www.google.com/policies/privacy/partners>
+
+If you wish to opt-out of anonymous usage tracking via Google Analytics please see the following:  
+<https://tools.google.com/dlpage/gaoptout>
 
 This site sometimes contains links to other sites. WineBid.com is not responsible for the privacy practices or the content of such sites and expressly disclaims all responsibility and liability for them. 
 
@@ -33,3 +39,5 @@ None of our products or services is intended for use by anyone under the age of 
 WineBid.com is an Opt-in website. This means that it is up to you to choose whether or not you want to receive promotional emails from us, including weekly auction emails and emails alerting you to special offers that may be of interest to you. You choose which categories of emails you’d like to receive from us, if any, when you register. You may change your email preferences at any time by going to the Account Management section and updating your account. You may also have us change your email preferences by contacting our [Customer Service](https://web.archive.org/Help/ContactUs) department.
 
 WineBid.com will never intentionally send Unsolicited Commercial Email (UCE) or SPAM. If you suspect a problem or have any questions about this policy, please [contact us](https://web.archive.org/Help/ContactUs). 
+
+LAST UPDATED: 5/8/2014
