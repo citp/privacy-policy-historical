@@ -1,10 +1,46 @@
-<!--The following is the downloaded HTML source of the designsbysick.com privacy policy that was archived on 2014-10-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141021061634id_/http%3A//www.designsbysick.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the designsbysick.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607064524id_/http%3A//www.designsbysick.com/privacy.php) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html><html><head>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=138787899512690&amp;version=v2.0"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="/jquery.images-rotation.min.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/defaultv2.css">  <!-- my styles -->
+<link rel="shortcut icon" href="/favicon.ico">
+<link href="/css/smartmenu.css" type="text/css" rel="stylesheet">
+<script type="text/javascript" src="/js/smartmenu.js"></script>
+<script>
+var acc1;
+var acc2;
+function ready()
+	{
+	if ($("#navigation").length > 0)
+		jQuery("#navigation").Smartmenu({animationDuration: 350});
+	//$('body').css({'background-image': 'url(/bgxmas'+(Math.floor(Math.random()*16)+1)+'.jpg' + ')'})
+	}
+jQuery(window).ready(function()
+	{
+	ready();
+	});
+function GetCookie(c_name)
+{
+//alert(document.cookie);
+if (document.cookie.length>0)
+  {
+  c_start=document.cookie.indexOf(c_name + "=");
+  if (c_start!=-1)
+    {
+    c_start=c_start + c_name.length+1;
+    c_end=document.cookie.indexOf(";",c_start);
+    if (c_end==-1) c_end=document.cookie.length;
+    return unescape(document.cookie.substring(c_start,c_end));
+    }
+  }
+return "";
+}
+</script>
 <title>Designsbysick.com Privacy Policy</title>
 
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=138787899512690&amp;version=v2.0"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script>(function() {
+<script>(function() {
   var _fbq = window._fbq || (window._fbq = []);
   if (!_fbq.loaded) {
     var fbds = document.createElement('script');
@@ -41,13 +77,11 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=138787899512690&version=v2.0";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-<!--</center>
-<div style="text-align: left;">Enter our contest to win a one year membership!</div>
-<center>-->
+
 <center>
-<div id="navigation" class="smartmenu" style="margin-top:0;">
-<table border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td align="left">
+<div id="navigation" class="smartmenu" style="margin-top:0; width: 1000px">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr><td align="center">
 	<ul>
 		<li>
 			<a href="/products.php?page=1">Home</a>
@@ -56,27 +90,11 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 				<a href="/products.php?page=1">Designs Home Page</a>
 				</li>
 				<li>
-				<a href="/">Home Overview (Summary)</a>
+				<a href="/indexsummary.php">Home Overview (Summary)</a>
 				</li>
 			</ul>
 		</li>
-		<li>
-			<a href="#">Search</a>
-			<ul>
-				<li>
-				<a href="/searchcat.php">Search design sets by category</a>
-				</li>
-				<li>
-				<a href="/searchcatsingles.php">Search single designs by category</a>
-				</li>
-				<li>
-				<a href="/search">Search design sets by keyword</a>
-				</li>
-				<li>
-				<a href="http://www.designsbysick.com/searchresultsgoogle.php">Search entire site</a>
-				</li>
-			</ul>
-		</li>
+	
 		<li>
 			<a href="/votingresults">Free</a>
 			<ul>
@@ -153,7 +171,10 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 			<a href="/points.php">Points</a>
 			<ul>
 				<li>
-					<a href="/points.php">Points Info</a>
+					<a href="/howtobuywithpoints.php">How to Buy with Points</a>
+				</li>
+				<li>
+					<a href="/points.php">How to Collect Points</a>
 				</li>
 				<li>
 					 <a href="/showpoints.php">Your Points Earned</a>
@@ -170,12 +191,9 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 				<li>
 					 <a href="/awardpoints.php">TrialPay Codes</a>
 				</li>
-				<li>
-					 <a href="/forums">Forums Login/Logout</a><br>
-				</li>
-				<li>
+				<!--<li>
 					 <a href="/pointeveryone.php">Top 100 Earners All Time</a>
-				</li>
+				</li>-->
 				<li>
 					 <a href="/pointstopthisyear.php">Top 100 Earners 365 Days</a>
 				</li>
@@ -185,29 +203,15 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 			</ul>
 		</li>
 		<li>
-			<a href="/backings.php">Supplies</a>
+			<a href="/supplies.php">Supplies</a>
 			<ul>
 				<li>
-					<a href="/solarthreads.php">Solar Threads</a>
-				</li>
-<!--				<li>
-					<a href="/threads50colors.php">50 Spool Thread Kit</a>
-				</li>
--->				<li>
-					<a href="/threads61colors.php">61 Brother Color Thread Kit</a>
+					<a href="/supplies.php">USA store</a><br>
 				</li>
 				<li>
-					<a href="/grabbagofthread.php">Grab Bag of 10 Spools</a>
+					<a href="http://embroiderysupply.ca">Canadian store</a><br>
 				</li>
-				<li>
-					<a href="/backings.php">Backings</a>
-				</li>
-				<li>
-					<a href="/wonderthreadguide.php">Wonder Thread Guide</a>
-				</li>
-				<li>
-					<a href="/adorableyou">Adorable You!</a>
-				</li>
+
 			</ul>
 		</li>
 		<li>
@@ -249,125 +253,114 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 					<a href="https://www.facebook.com/DesignsBySiCK">Facebook Page</a>
 				</li>
 			</ul>
-		</li>
+		</li>		
 		<li>
-			<a href="/helpdesk">Support</a>
+			<a href="/contact.php">Contact</a>
 			<ul>
 				<li>
-					<a href="/helpdesk">Enter Support Ticket</a>
-				</li>
-				<li>
-					<a href="/contact">Contact Us</a>
-				</li>
-				<li>
-					<a href="/privacy.php">Privacy Policy</a>
-				</li>
-				<li>
-					<a href="/bio">Staff</a>
-				</li>
-				<li>
-					<a href="#">Support #:<br>(817) 993-1230</a>
-				</li>
-			</ul>
-		</li>
-		<li>
-			<a href="http://www.shareasale.com/shareasale.cfm?merchantID=47945">Affiliate</a>
-			<ul>
-				<li>
-					<a href="http://www.shareasale.com/shareasale.cfm?merchantID=47945">See Affiliate Info</a>
+					<a href="/contact.php">Send us an email</a>
 				</li>
 			</ul>
 		</li>
 	</ul></td>
-<td align="right">
+<!--
+<td align=right>
 			<form action="http://www.designsbysick.com/searchresultsgoogle.php" id="cse-search-box">
 			  	Search:
-				<input type="hidden" name="cx" value="partner-pub-7872320937013072:klrp3e-im5b">
-				<input type="hidden" name="cof" value="FORID:10">
-				<input type="hidden" name="ie" value="ISO-8859-1">
-				<input type="text" name="q" size="20">
-				<input type="submit" name="sa" value="Search">
+				<input type="hidden" name="cx" value="partner-pub-7872320937013072:klrp3e-im5b" />
+				<input type="hidden" name="cof" value="FORID:10" />
+				<input type="hidden" name="ie" value="ISO-8859-1" />
+				<input type="text" name="q" size="20" />
+				<input type="submit" name="sa" value="Search" />
 			</form>
 </td>
+-->
 </tr></tbody></table>
 </div>
-<p>
-</p><div id="sickborder" style="width:1000px">
+<br>
+<div id="sickborder" style="width:978px">
 	<div id="titleleft">
-		<a href="/products.php?page=1"><img border="no" src="/designsbysick300wide1.gif" alt="Designsbysick.com Embroidery Machine Designs"></a><br>
-		<div class="fb-like" data-href="http://facebook.com/designsbysick" data-send="false" data-layout="button_count" data-width="220" data-show-faces="false" data-font="tahoma"></div>
+		<a href="/products.php?page=1"><img border="no" src="/designsbysick300wide1.gif" alt="Designsbysick.com Embroidery Machine Designs"></a>
 	</div>
-	<div id="titlemiddle">             
-		<script language="javascript" src="/whosonlinejs.php"></script><br>
-		You are
+	<div id="titlemiddle">
+		<script language="javascript" src="/whosonlinejsdev.php"></script><br>
 		<script>
 		var suser=unescape(GetCookie("loginusername"));
 		suser=suser.replace(/\+/g," ");
+		document.write('<p>Forums/Points/Chat username: ');
 		if (suser!="")
-			document.write(' logged in as '+suser+'<br><font size=-1><a href="/vblogout.php">Log out</a>');
+			document.write(suser);
 		else
 			{
-			document.write('not logged in<br><a href="/vblogin.php">Log In</a> or ');
-			document.write('<a href="http://www.embroideryforum.com/forums/register.php">Sign Up</a>');
+			document.write('not logged in');
 			}
+		var suser=unescape(GetCookie("amember_ru"));
+		suser=suser.replace(/\+/g," ");
+		document.write('<br>Membership username: ');
+		if (suser!="")
+			document.write(suser);
+		else
+			{
+			document.write('not logged in');
+			}			
+		</script><p>Forums/Points/Chat username: not logged in<br>Membership username: not logged in
+
+		<script type="text/javascript">
+		   function toggle_visibility(id) {
+		   		document.getElementById('signup').style.display='none';
+		   		document.getElementById('login').style.display='none';
+		   		document.getElementById('logout').style.display='none';
+			   var e = document.getElementById(id);
+			   if(e.style.display == 'block')
+				  e.style.display = 'none';
+			   else
+				  e.style.display = 'block';
+		   }
 		</script>
-		
-		<a href="/pastcustomers.php"><br><font size="1">What is everybody buying?</font></a>
+		<br>	
+		<a href="#" onclick="toggle_visibility('signup')">Sign Up</a> | 
+		<a href="#" onclick="toggle_visibility('login')">Log in</a> |
+		<a href="#" onclick="toggle_visibility('logout')">Log Out</a>
+
+		</p><div id="signup" style="display: none;">
+			 Forums/Points/Chat <a href="http://www.embroideryforum.com/forums/register.php">Sign Up</a><br>
+			 Unlimited Download Members <a href="/amember4/signup">Sign Up</a>
+		</div>			
+
+		<div id="login" style="display: none;">
+			 Forums/Points/Chat <a href="/vblogin.php">Log In</a><br>
+			 Unlimited Download Members <a href="/amember4/login">Log In</a>
+		</div>			
+
+		<div id="logout" style="display: none;">
+			 Forums/Points/Chat <a href="/vblogout.php">Log Out</a><br>
+			 Unlimited Download Members <a href="/amember4/logout">Log Out</a>
+		</div>			
 	</div>
 	<div id="titleright">
-		<font size="+1">
-		<b>27,896</b> unique designs online<br>1,981 design sets/packs<br>
-		</font>
-		<font size="-1">Download <font color="red">every design</font> with a <a href="/members">Membership</a><p>
-			</p><div style="padding: 0px;" onmouseover="document.getElementById('keypad').style.display = 'block';"><a href="#">Are these pages too Big or Small?</a>
-			<div id="keypad" style="display: none;"><center>Hold down your CTRL key and press + or - on your keypad!</center></div>
-			</div>
-		</font>
+		<font size="+1">	<b>28,852</b> unique designs online<br>2,047 design sets/packs	</font><p>
+		</p><div align="middle">
+			<img src="/searchicon.jpg">Search<br>
+			<a href="/searchresultsgoogle.php">All</a> | <a href="/searchcat.php">Design sets</a> | <a href="/searchcatsingles.php">Single designs</a> | <a href="/search">By keyword</a>
+		</div>
+
 	</div>
 	<div id="clear">
 	</div>
 </div>
+
 <!--
 <div id="sickborder" style="width:1000px;padding=1;margins:1;margin:1">
-<a href="/toonie.php"><img src="/toonie75.jpg" align=middle></a>
-<p>
-<font size=+1>Toonie Tuesday</font><br>
-All Sets a <a href="/toonie.php">Toonie</a> each!
-</p>
+Win a <a href="/members">life time membership</a> see bottom of page.
 </div>
 -->
 
-<div id="sickborder" style="width:1000px;padding=1;margins:1;margin:1">
-Why not get a <a href="/members">membership</a> and download all the designs you want?
-</div>
-
-<!--<div id="sickborder" style="width:1000px;padding=1;margins:1;margin:1">
-New <a href="/members">membership</a> pricing and plans.<br>
-<b><i>Download everything for as little as $10.00</i></b>
-</div>
--->
 <script>
 	var pointsfor=unescape(GetCookie("pointsreferrer"));
 </script>
 
 <div style="width:1000px;padding=1;margins:1;margin:1">
-	<div id="main" style="width:720;padding=1;margins:1;margin:1"><script type="text/javascript">
-    $(function() {
-        $('#bookmarkme').click(function() {
-            if (window.sidebar && window.sidebar.addPanel) { // Mozilla Firefox Bookmark
-                window.sidebar.addPanel(document.title,window.location.href,'');
-            } else if(window.external && ('AddFavorite' in window.external)) { // IE Favorite
-                window.external.AddFavorite(location.href,document.title);
-            } else if(window.opera && window.print) { // Opera Hotlist
-                this.title=document.title;
-                return true;
-            } else { // webkit - safari/chrome
-                alert('Press ' + (navigator.userAgent.toLowerCase().indexOf('mac') != - 1 ? 'Command/Cmd' : 'CTRL') + ' + D to bookmark this page.');
-            }
-        });
-    });
-</script>
-<div align="right"><img src="/bookmark_add.png"><a id="bookmarkme" href="#" rel="sidebar" title="bookmark this page">Bookmark This Page</a>&nbsp;&nbsp;&nbsp;</div>
+	<div id="main" style="width:720;padding=1;margins:1;margin:1">
 <center>
 <div style="width:600px;">
 
@@ -387,53 +380,53 @@ New <a href="/members">membership</a> pricing and plans.<br>
 </div>
 </center>
 </div> <!-- end main div -->
-<div id="sidebar" style="width:272">
 
+<div id="sidebar" style="width:272">
+<!--
 <div id="sickborder">
-Sign up to our <a href="/newsletter.php"><font color="red" size="+1"><b>Newsletter</b></font></a> for sale announcements, insider discounts, articles and tips every week!<br>
-<a href="/newsletter.php">Click here!</a>
+<font color=red size=+1>Last Day!</font><br>
+<img src="/springdvdcasesmall.jpg" width=175><br>
+28,440 embroidery designs on DVD<br>
+On sale: <b>$24.95</b> plus shipping!<br>
+<a href="/springdvd.php">Order Now!</a>
 </div>
 
 <div id="sickborder">
-<center><b>Today's Free Design</b><p>
+<a href="/toonie.php"><img src="/toonie75.jpg" align=middle></a><br>
+It's <a href="/toonie.php">Toonie</a> Tuesday!<br>
+<font color=red><b>All Design Sets are $2.00 each!</b></font>
+</div>
+-->
+<div id="sickborder">
+<font size="+1" color="red">Newsletter</font><br>
+Sign up to our <a href="/newsletter.php">newsletter</a> to be notified of new set releases, sale announcements, exclusive contests, insider discounts, articles and tips!
+</div>
+
+<div id="sickborder">
+<font size="+1" color="red">Today's Free Design</font><br>
 <a href="http://www.designsbysick.com/votingresults">
 <img width="150" src="http://www.designsbysick.com/todayjpg" id="imagethumb"><br>
 </a><a href="http://www.designsbysick.com/votingresults">Click to Download</a>
-</p></center></div>
-
-<div id="sickborder">
-<b><font color="red" size="+1">Halloween Sale!</font></b><p>
-<a href="/searchcat.php?searchtype=events&amp;searchterm=Halloween">
-<img src="/images/fslspiderwebs_thumb.jpg">
-Halloween Sale!</a><br>
-All sets $2.00 each!<br>
-</p></div>
-
-<!--
-<div id="sickborder">
-<b><font color=red size=+1>Half Price Memberships!</font></b><p>
-50% off 6 month, 1 year and 2 year download <a href="/members">memberships</a><br>
-Coupon Code: <b>HALF</b><p>
-Don't forget to order the <a href="/emblib/membersordercd.php">members DVD set</a> after signup!
-</div>
--->
-
-<div id="sickborder">
-<img src="/ebay.png"><br>
-Design sets starting at 99 cents each <a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?type=4&amp;campid=5336045616&amp;toolid=10001&amp;customid=designsbysickstorelink&amp;mpre=http%3A%2F%2Fstores.ebay.com%2Fdesignsbysick" target="store">on Ebay</a> delivered on CD and instant download.
 </div>
 
-
 <div id="sickborder">
-<b><font color="red" size="+1">New 2014 DVD's!</font></b><p>
-<b>All of DesignsBySiCK.com up to Sept 22, 2014 available!</b></p><p>
-<a href="/ordercd.php">More Info</a><br>
+<font size="+1" color="red">Moving Sale</font><br>
+We are reducing inventory, moving to new warehouse. USA only sale.<p>
+Find 50% off your total in your <a href="/supplies.php">shopping bag</a> at checkout! 
 </p></div>
 
 <div id="sickborder">
-<img src="/canflag.gif"><br><a href="http://www.embroiderysupply.ca" target="top">Canadian Embroidery Supply Store</a><p>
-<img src="/usaflag.png"><br><a href="http://www.embroiderypassion.com" target="top">USA Embroidery Supply Store</a>
-</p></div>
+<font size="+1" color="red">Threads and Stabilizers</font><br>
+We sell supplies!<br>
+<a href="/supplies.php">USA store</a><br>
+<a href="http://embroiderysupply.ca">Canadian store</a><br>
+</div>
+
+<div id="sickborder">
+<font size="+1" color="red">Design Sets on CD</font><br>
+Get Your Order On CD including shipping for $6.95
+<a href="/howtoaddcd.php">more info</a>
+</div>
 
 <!--
 <div id="sickborder">
@@ -445,13 +438,7 @@ Half Price Design Sets<p>
 25% Off <a href="http://embroiderypassion.com">Embroidery Supplies</a><p>
 </div>
 -->
-<!--
 
-<div id="sickborder">
-<b><font color=red size=+1>All you can download for $45.00</font></b><br>
-Get a <a href="/members">membership</a> for $45.00 and download all designs and new designs released for the length of your membership!
-</div>
--->
 <div id="sickborder">
 <center>Like us on <a href="http://www.facebook.com/designsbysick">facebook</a>!<p>
 </p><div class="fb-like" data-href="http://facebook.com/designsbysick" data-send="false" data-layout="button_count" data-width="220" data-show-faces="false" data-font="tahoma"></div><p>
@@ -473,29 +460,37 @@ Design Sets and Singles Cart:<p>
 <input type="hidden" name="page_style" value="PayPal">
 </form>
 </div>
+
 <div id="sickborder">
 <center>Advertisements<p>
-<a href="http://www.shareasale.com/r.cfm?b=493261&amp;u=104716&amp;m=29190&amp;urllink=&amp;afftrack=">Free Embroidery Patterns</a> at Craftsy!</p><p>
-<a href="http://www.shareasale.com/r.cfm?b=493267&amp;u=104716&amp;m=29190&amp;urllink=&amp;afftrack=">Free Quilting Patterns</a> at Craftsy!</p><p>
+Free <a href="http://www.shareasale.com/r.cfm?b=493261&amp;u=104716&amp;m=29190&amp;urllink=&amp;afftrack=">Embroidery Patterns</a> and
+Free <a href="http://www.shareasale.com/r.cfm?b=493267&amp;u=104716&amp;m=29190&amp;urllink=&amp;afftrack=">Quilting Patterns</a> at Craftsy!</p><p>
 </p></center>
+
 </div>
 </div>
+
+
+
 <div id="clear"></div>
 
-<div id="sickborder" style="width:600px">
+
+<center>
+<font size="1"><a href="/contact">Contact Us</a> | <a href="/privacy.php">Privacy Policy</a> | <a href="/bio">Staff</a></font><p>
+
+</p><div id="sickborder">
 		<font size="2" color="black">
 		Website and Embroidery Designs Copyright (C) Shawn Knight Systems Inc.<br>
 		Permission granted to use machine embroidery designs for your own commercial and personal embroidery.<br>
 		Permission denied to resell or give away machine embroidery designs in electronic format.<br>
 		</font>
 </div>
-<center><font size="-1"><script language="javascript" src="/totalsold.php"></script></font></center>
-
-</div></center>
+<table width="1000">
+<tbody><tr><td align="center">
+<font size="-1"><script language="javascript" src="/totalsold.php"></script></font>
+</td>
+</tr></tbody></table>
 <p>
-<script>
-//	document.write('CPU Load for Shawn:'+GetCookie('cpu'));
-</script>
 
 
-</p></body></html>
+</p></center></div></center></body></html>
