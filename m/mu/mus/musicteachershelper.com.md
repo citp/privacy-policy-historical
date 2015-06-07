@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicteachershelper.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701105059id_/http%3A//www.musicteachershelper.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicteachershelper.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607231809id_/http%3A//www.musicteachershelper.com/privacy) for the most accurate reproduction.*
 
 # Music Teacher's Helper: easy software to manage your music teaching studio
 
@@ -26,19 +26,19 @@ If you have concerns about your privacy with the Music Teacher's Helper Web site
 
   * [](http://www.musicteachershelper.com/testimonials#)
 
-> "Music Teacher's Helper has been a fantastic time saving solution for my teaching business!! It has enabled me to streamline and automate almost everything I used to do manually. "
+> "At first I wasn't sure about signing up for MTH, but I will never regret it! I love the huge variety of services on MTH since I can now keep my studio organized all in one place! The lending library was a great help during recital season and I got all my books back, which is a first! "
 
-– **Carmen Hillary** , Victoria, BC
+– **Melody Siemens** , Alberta Canada
   * [](http://www.musicteachershelper.com/testimonials#)
 
-> "Music Teacher's Helper has taken the place of a secretary for me. I do not know what I would do with out all the wonderful features. And I can't begin to tell how many compliments I have had on my web page."
+> "Music Teacher's Helper saved my business and my love for what I do. The calendar makes it so easy to schedule students. The invoicing function ensures that all students know how much is due and when. The website feature has helped me to create an amazing web presence."
 
-– **Sherry Miller** , Middletown, DE
+– **Andrew McCormick** , Bangor, Maine
   * [](http://www.musicteachershelper.com/testimonials#)
 
-> "This is one of the best things I've done for my business. I can now concentrate more on teaching and let the program take care of the business side of things!"
+> "I don't know what took me so long to sign up with Music Teachers Helper. I was keeping all of my records on my computer with a hodge podge of Excel, Word, and Outlook Express."
 
-– **Don Parkhurst, Jr.** , Lebanon, CT
+– **Stephanie James Hoffpauir** , Broussard, Louisiana 
   * [](http://www.musicteachershelper.com/testimonials#)
 
 > "Everything that MTH offers: the website, the invoicing, the online payments... has greatly contributed to the success of my studio! It has brought a level of professionalism, that has resulted in the trust and confidence of the parents, which is absolutely invaluable to me as a teacher!"
