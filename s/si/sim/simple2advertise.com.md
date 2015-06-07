@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simple2advertise.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227122315id_/http%3A//simple2advertise.com/legal/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simple2advertise.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607082419id_/http%3A//simple2advertise.com/legal/Privacy-Policy.php) for the most accurate reproduction.*
 
 # Simple2Advertise Privacy Policy
 
