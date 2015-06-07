@@ -1,20 +1,22 @@
-> *The following text is extracted and transformed from the virante.org privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120005449id_/http%3A//www.virante.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virante.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607135058id_/http%3A//angular.marketing/privacy-policy) for the most accurate reproduction.*
 
-# Virante Privacy Policy
+# Angular Privacy Policy
 
-## Our Commitment To Privacy
+## [ Privacy Policy ](http://angular.marketing/privacy-policy/ "Link to Privacy Policy")
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+### Our Commitment to Privacy…
+
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information privacy policy practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
 ### The Information We Collect:
 
-This notice applies to all information collected or submitted on the Virante website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
+This notice applies to all information collected or submitted on the Angular website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
 Your Name  
-Company Name   
-Email address   
-Phone number   
-Website URL   
+Company Name  
+Email address  
+Phone number  
+Website URL  
 (etc.)
 
 ### The Way We Use Information:
@@ -31,7 +33,7 @@ Finally, we never use or share the personally identifiable information provided 
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-Our Commitment To Children's Privacy:
+Our Commitment To Children’s Privacy:
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
@@ -45,4 +47,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 ### How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please call us at 1-800-650-0820 or send us an email at info@virante.com.
+Should you have other questions or concerns about these privacy policies, please call us at 1-800-650-0820 or send us an email at info@angular.marketing
