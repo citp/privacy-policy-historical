@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amigurumipatterns.net privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117212440id_/http%3A//www.amigurumipatterns.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amigurumipatterns.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074058id_/http%3A//www.amigurumipatterns.net/privacy) for the most accurate reproduction.*
 
-# Amigurumipatterns.net - Privacy policy
+# Amigurumipatterns.net - Privacy Policy
 
 **What information do we collect?**   
 We collect information from you when you register on our site. 
