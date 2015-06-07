@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencegeek.net privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126093745id_/http%3A//www.sciencegeek.net/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencegeek.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185428id_/http%3A//www.sciencegeek.net/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
