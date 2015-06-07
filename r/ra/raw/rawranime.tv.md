@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rawranime.tv privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120084552id_/http%3A//rawranime.tv/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rawranime.tv privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174957id_/http%3A//rawranime.tv/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy and Legal Policy - rawrANIME
 
