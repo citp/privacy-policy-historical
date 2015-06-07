@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the nsgalleries.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231130716id_/http%3A//www.newsensations.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsgalleries.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607030552id_/http%3A//network.newsensations.com/privacy.htm) for the most accurate reproduction.*
 
-# NewSensations.com
-
-[](https://web.archive.org/web/20131231130716id_/http%3A//www.newsensations.com/privacy.htm?o=main)[](http://members.newsensations.com/)[](https://web.archive.org/web/20131231130716id_/http%3A//www.newsensations.com/privacy.htm?o=modellist)[](https://web.archive.org/web/20131231130716id_/http%3A//www.newsensations.com/privacy.htm?o=networklist)[](https://web.archive.org/web/20131231130716id_/http%3A//www.newsensations.com/privacy.htm?o=sets)[](https://web.archive.org/vids/)[](http://www.nscash.com/signup/signup.php?s=2)
-
-****
+# New Sensations Network - Privacy Policy
 
 **We take your privacy seriously.**
 
@@ -17,5 +13,3 @@ This site automatically receives and records information from your browser inclu
 
 Information Sharing and Disclosure  
 This site will not sell, rent, or make available your personally identifiable information to anyone. 
-
-[](https://web.archive.org/web/20131231130716id_/http%3A//www.newsensations.com/privacy.htm?o=main)[](http://members.newsensations.com/)[](https://web.archive.org/web/20131231130716id_/http%3A//www.newsensations.com/privacy.htm?o=modellist)[](https://web.archive.org/web/20131231130716id_/http%3A//www.newsensations.com/privacy.htm?o=networklist)[](https://web.archive.org/web/20131231130716id_/http%3A//www.newsensations.com/privacy.htm?o=sets)[](https://web.archive.org/vids/)[](http://www.nscash.com/signup/signup.php?s=2)
