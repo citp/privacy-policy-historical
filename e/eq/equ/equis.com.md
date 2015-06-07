@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the equis.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215013407id_/http%3A//www.metastock.com/company/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equis.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607193255id_/http%3A//www.metastock.com/company/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
-This Privacy Statement relates solely to the online information collection and use practices of our Web Sites located at [www.metastock.com](http://www.metastock.com/), [www.qchartsmetastockpro.com](http://www.qchartsmetastockpro.com/), [http://forum.equis.com](http://forum.equis.com/), [ www.echarts.com](http://www.echarts.com/), [www.equis.com ](http://www.echarts.com/) and [www.reutersdatalink.com](http://www.echarts.com/) (these “Web Sites”), and not to any subdomains of these Web Sites. We recognize that many visitors and users of these Web Sites are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time, has been developed to address those concerns.
+This Privacy Statement relates solely to the online information collection and use practices of our Web Sites located at [www.metastock.com](http://www.metastock.com/), [www.qchartsmetastockpro.com](https://web.archive.org/), [http://forum.equis.com](http://forum.equis.com/), [ www.echarts.com](http://www.echarts.com/), [www.equis.com ](http://www.echarts.com/) and [www.reutersdatalink.com](http://www.echarts.com/) (these “Web Sites”), and not to any subdomains of these Web Sites. We recognize that many visitors and users of these Web Sites are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time, has been developed to address those concerns.
 
 Your use of this Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Statement. If you have any questions or concerns regarding this Privacy Statement, please contact: [ sales@MetaStock.com](mailto:sales@metastock.com)
 
@@ -73,6 +73,10 @@ If you would like to change your preferences or unsubscribe from receiving any o
 
 We take reasonable steps to maintain the security of the personally identifiable information that we collect, including limiting the number of people who have physical access to our database servers, as well as installing electronic security systems that guard against unauthorized access. However, no data transmission over the Internet can be guaranteed to be completely secure. Accordingly, we cannot ensure or warrant the security of any information that you transmit to us, so you do so at your own risk.
 
+####  Consent to Share Information 
+
+When you provide information to MetaStock we do not sell or share this information with third parties without your express consent. The only exception to this is defined in the Thomson Reuters, Exchanges, and Third Party Add-ons section(s) of the privacy policy. Third parties may from time to time offer deals or training on products that require that we share information, however, we will not share this information unless you give your express consent through an opt in process. Once you have shared your information with a third party, we cannot be held responsible for their privacy policies. 
+
 ####  Consent to Transfer
 
 Please be aware that as MetaStock is a global company, we may transfer your personal information to countries that may not guarantee the same level of protection for personal information as the one in which you reside. We are taking appropriate steps to provide an adequate level of protection to your personal information and no matter where you live, your personal information will be processed in accordance with the other provisions of this Privacy Statement. By using our Web Site, participating in any of our services and/or providing us with your information, you consent to this transfer.
@@ -102,4 +106,4 @@ MetaStock
 Suite 200  
 Salt Lake City, UT 84123
 
-© MetaStock 2014 
+© MetaStock 2015 
