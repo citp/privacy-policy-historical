@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotornot.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201182228id_/http%3A//hotornot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotornot.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607183243id_/http%3A//hotornot.com/privacy) for the most accurate reproduction.*
 
 # Hot or Not - Privacy Policy
 
@@ -220,7 +220,7 @@ Removed and deleted information may persist in backup copies for up to 30 days t
 
 If you have not signed in to Hot or Not for three months, we may remove your Profile as part of our data cleansing process. 
 
-Your Hot or Not account is non-transferable and any rights to your profile or contents within your account will be canceled upon your death. 
+Your Hot or Not account is non-transferable and any rights to your profile or contents within your account will be cancelled upon your death. 
 
 If you have questions about our Privacy Policy or how we collect and use information, contact us through our website. 
 
