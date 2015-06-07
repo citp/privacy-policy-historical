@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldenhelix.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206154158id_/http%3A//goldenhelix.com/Company/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenhelix.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142330id_/http%3A//goldenhelix.com/Company/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -51,4 +51,4 @@ You signify your assent to this Privacy Statement and any future changes to the 
 
 ## Contact Us 
 
-Golden Helix welcomes your suggestions that we may use to make our website easier to use or make the contents more relevant to our customers. If you have any questions or comments about the information presented, please [**contact us**.](https://web.archive.org/web/20141206154158id_/http%3A//goldenhelix.com/Company/contact.html)
+Golden Helix welcomes your suggestions that we may use to make our website easier to use or make the contents more relevant to our customers. If you have any questions or comments about the information presented, please [**contact us**.](https://web.archive.org/web/20150607142330id_/http%3A//goldenhelix.com/Company/contact.html)
