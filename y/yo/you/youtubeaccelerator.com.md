@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the youtubeaccelerator.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216031807id_/http%3A//www.youtubeaccelerator.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youtubeaccelerator.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607095953id_/http%3A//www.youtubeaccelerator.com/legal/privacy) for the most accurate reproduction.*
 
 # YouTube Accelerator - Privacy Policy
 
 **General**
 
-This Privacy Policy is for those using the http://youtubeaccelerator.com website ("Site"), the YouTube Accelerator application, YouTube Accelerator browser Add-On ("YouTube Accelerator Add-On") and all Site and YouTube Accelerator Add-On contained or displayed information, and any and all available editions, add-ins, tools and documentations, either jointly or separately (collectively and separately known as "YouTube Accelerator") and explains how we treat information that is received and/or collected, when collected, through the use of the YouTube Accelerator.
+This Privacy Policy is for those using the http://www.youtubeaccelerator.com website ("Site"), the YouTube Accelerator application, YouTube Accelerator browser Add-On ("YouTube Accelerator Add-On") and all Site and YouTube Accelerator Add-On contained or displayed information, and any and all available editions, add-ins, tools and documentations, either jointly or separately (collectively and separately known as "YouTube Accelerator") and explains how we treat information that is received and/or collected, when collected, through the use of the YouTube Accelerator.
 
 By accessing and using the YouTube Accelerator you agree and accept the terms of this Privacy Policy and consent to the collection and use of information in the manner set out in this Privacy Policy. We encourage you to review this Privacy Policy carefully and to periodically refer to it so that you understand it and subsequent changes if any. We reserve the right to change this Privacy Policy with immediate effect and we will post an appropriate notification. If you do not agree to the terms of this privacy policy, please do not use YouTube Accelerator.
 
@@ -25,7 +25,5 @@ Should the Site include a search feature, the search feature will send a request
 **Security**
 
 We have security measures in place to prevent unauthorized access to and protect the loss, misuse and alteration of the information under our control. Although we take reasonable steps to safeguard information, we cannot be responsible for the acts of those who gain unauthorized access, and we make no warranty, express, implied or otherwise, that we will prevent such access.
-
-Data collection information on web-search services is found at <http://www.conduit.com/privacy/ConduitServicePrivacy.aspx> or <http://info.trovi.com/Privacy>
 
 Privacy Policy Last Version: July 28, 2014
