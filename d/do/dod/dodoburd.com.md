@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dodoburd.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111071342id_/http%3A//dodoburd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dodoburd.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607030913id_/http%3A//dodoburd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,6 +40,6 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 
 Although most changes are likely to be minor, Dodo may change its Privacy Policy from time to time, and in Dodo's sole discretion. Dodo encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a DodoBurd.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-[](http://dodoburd.com/christmas-gifts)
+[](http://dodoburd.com/gifts-for-men)
 
       
