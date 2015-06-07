@@ -1,57 +1,62 @@
-> *The following text is extracted and transformed from the ascio.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626160042id_/http%3A//www.ascio.com/cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ascio.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607235242id_/http%3A//www.ascio.com/privacy-policy) for the most accurate reproduction.*
 
-# Cookie Policy | Ascio
+# | Ascio
 
-**1\. General**
+**INTRODUCTION**
 
-This cookie policy is based on the demands in”Bekendtgørelse om krav til information og samtykke ved lagring af eller adgang til oplysninger i slutbrugeres terminaludstyr”. The Regulation states a number of rules regarding information on and consent to the use of cookies stored on your computer.
+1.            This is the privacy policy of Ascio Technologies Inc, Danmark – Filial af Ascio Technologies Inc, USA, Danish CVR Number 25163532 (“Ascio”) with registered office at Arne Jacobsens Alle 15, 2300 Copenhagen S, Denmark.  Ascio is a domain name registrar accredited with the Internet Corporation for Assigned Names and Numbers (“ICANN”) and other domain name registries throughout the world.  The purpose of this privacy policy is to tell you how we process your personal information (i.e. data about any identified or identifiable living person).
 
-When you visit this website, we collect information about you, your computer and your activity on this website. In this cookie policy you can read in detail about the information we collect, how we treat these information, what we use the information for,  who can access the information and finally who to contact about the collected and stored information.  
-By visiting and using this website you consent to this cookie policy and the collection of information.
+2.            Ascio operates entirely through a reseller channel and does not accept or take orders unless through a contracted reseller. We collect the data from our resellers.
 
-**2\. Cookies**
+**WHAT PERSONAL DATA DO WE COLLECT?**
 
-When visiting this website, you automatically receive one or more cookies. If you do not wish these cookies, you can click here:
+3.            When you place an order for the registration of a domain name, you are required to provide information such as your name, postal address, fax number (where available), email address and telephone number. All such information is mandatory to provide the service requested unless otherwise stated at the time.  You shall also be required to provide the name, postal address, fax number (where available), email address and telephone number of the technical, administrative and billing contacts associated with the domain name. 
 
-[https://support.google.com/chrome/bin/answer.py?hl=en&answer=95647&p=cpn_cookies](http://support.google.com/accounts/bin/answer.py?hl=en&answer=61416),
+4.            In compliance with our obligations as a domain name registrar and as required by ICANN and domain name registries, we collect further mandatory data in relation to domain names including (1) the domain name (2) original creation date (3) expiration date and (4) the names of the primary and secondary name servers for the domain together with IP addresses. 
 
-for a guided introduction on how to avoid receiving cookies and how to delete the cookies already stored on your harddisk.
+5.            The information collected by Ascio will be published in the applicable domain name WHOIS (a service offered by each domain name registry that allows users to check domain name registration details) and is capable of being accessed globally.  In order to comply with our regulatory obligations, we will disclose certain data, such as names and contact information to ICANN and domain name registries.
 
-**2.1 What is a cookie?**
+6.            We also log other identifying details necessary for the provision of our services and to ensure we only act on your instructions, such as written communications, confirmations, modifications and any other related correspondence, payment source information, log files, billing records and any other communications information such as source IP address, HTTP headers and other records concerning registration such as dates, times, zones and sessions. 
 
-A cookie is a small textfile that is stored in your browser and recognized by the website if you return to the site. It makes it possible to send individualized information to your browser. A cookie can contain text, numbers or e.g. a date, but there are no personal information hidden inside a cookie. It is not a program and can not contain virus..
+7.            In providing related services to you, such as the provision of SSL Certificates, we may request additional information at the time of order. 
 
-**2.2 How long do we store cookies?**
+**HOW DO WE USE YOUR PERSONAL DATA?**
 
-The cookies sent to you from this website will be stored no more than 24 months from your last visit to ascio.com. Every time you revisit our site the period is prolongued. The cookies will therefore be stored no more than 24 months after your last visit to our website.
+8.            The information you provide when registering a domain name is required to allow us to properly handle your domain name registration, administer your account, including notifying you about matters related to the domain name, such as renewal or updates and to provide other services that you have ordered from us. We might also use your personal information for marketing and analytical purposes when permitted by law.   
 
-**2.3 How do I avoid cookies?**
+**HOW DO WE PROTECT PERSONAL DATA?**
 
-If you do not wish to receive cookies you can block all cookies, delete existing cookies from your computer or receive a warning if an attemt is made to store a cookie on your computer. You can read more about how to avoid cookies by clicking on this link:
+9.            Security is a high priority for Ascio. We take reasonable precautions to protect personal information from loss, misuse, unauthorised access or disclosure, alteration or destruction.   
 
-[http://support.google.com/accounts/bin/answer.py?hl=en&answer=61416](http://support.google.com/accounts/bin/answer.py?hl=en&answer=61416)
+**TO WHOM DO WE DISCLOSE PERSONAL DATA?**
 
-The link contains a guide to the most commonly used browsers, but it is not a complete list. Usually you’re well off using the “Help”-function in your browser for more information on cookie-settings. Often you can access the “Help”-function by pressing F1 on your computer – search for “cookies”.
+10.          In accordance with the requirements as a domain name registrar, we are required to disclose your information as follows:
 
-**2.4 What do we use the cookies on our website for?**
+(i)           We make WHOIS data available to the public for free query-based access;
 
-We use cookies to determine who visits our website and establish demographic and userrelated statistics. That way we get the opportunity to adapt and establish content and services that match your and other users interests and needs.  
-We also use cookies to deliver targeted online ads, questionnaires, analysis, etc.. We register your clicks on all our bannerformats.
+(ii)          We make domain related data, including communications with you, available to ICANN and domain name registries pursuant to their rules and regulations;
 
-**2.5 Cookies from our partners**
+  1. We escrow domain related data daily or as often as is required to reputable third parties appointed by ICANN or domain registries; and
 
-In this section you find a list of the technology partners, that sends cookies through our website and have access to the information collected with cookies from the website.
 
-  * Google
+  1. We allow third parties access to WHOIS data in bulk provided they agree, amongst other things, not to use them improperly such as for the transmission of unsolicited commercial email.
 
 
 
-These cookies aren’t used to register personal information, unless you specifically express your permission.
+11.          The disclosure of your personal information to ICANN and other third parties involves the transfer of your personal information to entities located outside the European Economic Area (EEA) in order to perform the services.
 
-Data can be transferred to a third party anonymized with the purpose of targeting marketing incentives and achieve a better understanding of users on the website and the world market in general. Information can also be transferred to a third party if it is required by law.
+**HOW CAN YOU ACCESS AND RECTIFY PERSONAL DATA?**
 
-**2.7 Contact information**
+12          For administration purposes, we recommend that you contact your reseller who sold the service to you to access and rectify your personal information.       
 
-Should you require more information about this website, please contact us at:
+**INFORMATION YOU PROVIDE ABOUT OTHERS**
 
-Ascio, Arne Jacobsens Allé 15, DK-2300 København S, E-mail: [sales@ascio.com](mailto:sales@ascio.com?subject=Cookie%20Policy)
+13           In providing personal information about other individuals (such as someone in whose name you are registering or the domain name’s technical or billing contacts) you represent that you have notified them of (i) the purposes for which information will be used (ii) the recipients of their personal information and (iii) how they can access and correct the information.  You further represent that you have obtained their consent. 
+
+**UPDATES**
+
+14           From time to time, we shall update this privacy policy.  You are advised to regularly check for updates. You will be notified of material amendments and any continuation of services provided by Ascio shall constitute acceptance of the amended privacy policy.
+
+15.          If you have any queries concerning this policy, please write to us at the above address or complete the form here [<http://www.ascio.com/about-us/contact>].  
+
+Last Updated:  1 November 2014 
