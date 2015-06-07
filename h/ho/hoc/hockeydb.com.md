@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hockeydb.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221135914id_/http%3A//www.hockeydb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hockeydb.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185744id_/http%3A//www.hockeydb.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy at Hockeydb.com
 
@@ -10,11 +10,12 @@ Hockeydb does not perform mass-mailings to its forum members. The only time you 
 
 From time to time cookies may be written to your computer. A cookie is simply a unique number placed on your hard drive that lets us know if you have previously been to the site. Most commercial sites such as Microsoft.com use cookies. There is no way to gather any information about you from this cookie other than knowing if you have visited the site in the past.
 
-Hockeydb.com writes cookies under three circumstances.
+Hockeydb.com writes cookies under four circumstances.
 
   * A general cookie is written/updated for each page you visit the site. This is to count the number of pages viewed, to enable us to target advertising to your geographic location, and track the number of times you visit so that we can better understand how people use the site. Since you never give hockeydb.com any personal information this data cannot be linked to you in any way.
   * A cookie is written when you view the forum software, VBulletin. This is a canned package which uses cookies to keep track of your user ID on your computer, and to tell you which messages are new to you. It is not related to the cookie discussed above.
   * Hockeydb.com is only able to survive because of the advertising revenue it receives. Several of the banner advertising companies use cookies to track the number of ads you see, limiting you to seeing a certain number of ads per session. 
+  * Hockeydb.com uses Google Analytics to analyze its site traffic. Google Analytics writes cookies to facilitate the collection of demographic-level data. No personally identifyable data is collected from hockeydb.com, and Google Analytics does not provide any personally identifyable data to Hockeydb.com
 
 
 
