@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the avaloncommunities.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120104941id_/http%3A//www.avaloncommunities.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avaloncommunities.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185538id_/http%3A//www.avaloncommunities.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Avalon Bay
+# Privacy policy
 
 Privacy Policy
 
@@ -74,6 +74,18 @@ Please note that in accordance with our routine corporate record-keeping practic
 **SECURITY OF PERSONAL INFORMATION**
 
 While we take reasonable steps to secure your Personal Information, no data transmission over the Internet can be guaranteed to be completely secure. Likewise, no storage or processing of your Personal Information on the Web Site or on other servers or databases to which the information may be transferred can be guaranteed to be completely secure. Please consider this prior to submitting your Personal Information to us via the Web Site.
+
+We use current security measures to safeguard your personal information:  
+
+
+  * All of the personal information you provide us is stored in a secure computing environment protected by secure firewalls and intrusion prevention systems to avert unauthorized access.
+  * We protect the confidentiality of your data by encrypting sensitive information.
+  * We build information security into our systems and networks using internationally recognized security standards, regulations, and industry-based best practices. 
+  * We control access so that only people who need to access the information are able to. All staff of AvalonBay Communities, Inc. are required to adhere to our policies on confidentiality and security.
+  * When you access secure areas of our web sites, we use the Secure Sockets Layer (SSL) protocol to provide you with the safest, most secure web experience possible. SSL technology enables encryption (scrambling) of sensitive information, including passwords and banking information, during your online session. There are two cues to show you that you are using a secure area. First, the web site address (or URL) appears as https:// (instead of just http://) - the "s" is for "secure." Second, a lock or key indicator appears in the status bar of your web browser. We use https:// only for secure pages, i.e. pages that transfer confidential information. Pages that are only used for product offerings will still use the regular http:// since no sensitive information is being passed through them.
+  * Secure areas of the site have a time-out feature. If you leave your secure session inactive for some time, it times-out to prevent unauthorized access.
+
+
 
 **THIRD PARTY CONTENT**
 
