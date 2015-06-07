@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pomodorotechnique.com privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003170144id_/http%3A//pomodorotechnique.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pomodorotechnique.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607151412id_/http%3A//pomodorotechnique.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY - The Pomodoro Technique®The Pomodoro Technique®
+# PRIVACY POLICY -The Pomodoro Technique®
 
 The information below is intended to help you understand what type of data we may collect, how we may use it, and what our policies are to protect it.
 
