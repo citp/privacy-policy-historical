@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webanalyticsworld.net privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627034755id_/http%3A//www.webanalyticsworld.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webanalyticsworld.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607020326id_/http%3A//www.webanalyticsworld.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,8 +29,6 @@ We take all measures reasonably necessary to protect against the unauthorized ac
 
 Information collected automatically  
 We automatically collect information about your visit to our site. This information is used to make your visit to our site more efficient, and to help us follow browsing preferences on our site so that we can make regular improvements. Our external web host may also automatically log your IP address, a unique identifier for your computer or other access device. IP addresses are not linked to personally identifiable information. We only use IP addresses to analyze trends, administer our website, track general user movements, and gather broad demographic information for aggregate use.
-
-This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx "ClickTale Privacy"). We are using the information collected by ClickTale service to identify how web visitors are using our site and improvements to usability. You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
 
 **More information about the[Cookies](http://www.webanalyticsworld.net/privacy/cookies "Cookies") used by Web Analytics World**
 
