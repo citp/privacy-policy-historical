@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplybusiness.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120130345id_/http%3A//www.simplybusiness.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplybusiness.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607234543id_/http%3A//www.simplybusiness.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Simply Business
 
@@ -104,7 +104,7 @@ Feefo.com – your email, name and policy number may be shared with feefo.com (n
 
 #### Invoice Financing
 
-<http://www.simplybusiness.co.uk/finance/invoice-finance-form>
+[http://www.simplybusiness.co.uk/finance/invoice-finance-form](https://web.archive.org/finance/invoice-finance-form/)
 
 We currently work with Aldermore Bank, a regulated bank, to offer invoice finance quotes for our customers.
 
@@ -154,7 +154,7 @@ Back to top
 
 If you have any questions about this privacy statement, the practices of this Site, or your dealings with this Site, you can contact:
 
-Or fill out the form on this page <https://www.simplybusiness.co.uk/contact-us/>
+Or fill out the form on this page [https://www.simplybusiness.co.uk/contact-us/](https://web.archive.org/contact-us/)
 
 Simply Business
 
@@ -166,7 +166,7 @@ London
 
 EC2A 1AE
 
-Telephone: +44 (0)845 450 9959
+Telephone: +44 (0)333 014 6683
 
 Fax: +44 (0)20 7920 8088
 
