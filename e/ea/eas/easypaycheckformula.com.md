@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easypaycheckformula.com privacy policy that was archived on 2014-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140728065412id_/http%3A//easypaycheckformula.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easypaycheckformula.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607115502id_/http%3A//easypaycheckformula.com/privacy-policy.php) for the most accurate reproduction.*
 
 # None
 
