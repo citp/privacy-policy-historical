@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the mytechlogy.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060650id_/http%3A//www.mytechlogy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytechlogy.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145058id_/http%3A//www.mytechlogy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Social Consulting Platform for IT (Information Technology) Professionals - MyTechLogy
+# Privacy Policy - A meaningful collaborative platform for Technology Enthusiasts | MyTechLogy – Where IT Talents Shine
 
-## Privacy Policy
-
-### Overview
+### **Overview**
 
 MyTechLogy.Com (the "Website") is owned by Sciente International Pte Ltd (hereafter referred to as "Sciente International", "we" or "us"). Sciente International is committed to protecting the privacy of MyTechLogy.Com users. We want to provide a safe, secure user experience. The following statement explains Sciente International's commitment to managing your personal information and sets out how and when personal information is collected, held, used or disclosed.
 
 This Privacy Policy only applies to data gathered on the MyTechLogy.Com web site "Website", and does not apply to any other information or web site including, but not limited to, affiliated companies. In this Privacy Policy, "affiliated companies" shall mean entities that control, are controlled by or are under common control with Sciente International. 
 
-### Third Party Web Sites
+### **Third Party Web Sites**
 
 The Website contains links to third party web sites over which we have no control. We are not responsible for the privacy policies or practices of other web sites linked from our Website. We encourage you to review the privacy policies of those other web sites so that you can understand how they collect, use and share your information. 
 
-### Notification of Purpose
+### **Notification of Purpose**
 
 The information we gather on the Website may be shared with any of the affiliated companies on a worldwide basis in order to deliver the products and services we offer to employers such as searches for job seekers or in order to undertake analysis of our database such as aggregate profiling of our registered users. 
 
@@ -22,7 +20,7 @@ We gather information about our Website users collectively, such as what areas u
 
 We do not disclose your personal information to third parties, except to the extent necessary or appropriate to comply with applicable laws, rules or regulations or as required in legal proceedings. 
 
-### Types Of Personal Information Collected
+### **Types Of Personal Information Collected**
 
 MyTechLogy.Com is a social consulting, a career and an on-line/e-learning site. We collect, use and retain your personal information to facilitate job searches and applications through our Job-search Portal, professional training and skills upgrading through our e-Learning Platform, and to facilitate your use of our Forum, as well as facilitating the provision or purchase of other services or products by us. 
 
@@ -36,7 +34,7 @@ You are not required to provide us with personal information. However, without s
 
 Additionally, third party advertisers may collect information about your use of the site, such as the links you click on, number of visits, geographical location and online behaviour. You understand and agree that we exercise no control over such third party advertisers and their collection, use or disclosure of your personal information. We encourage you to review the privacy policies of these third party advertisers so you can understand how they collect, use and share your information. 
 
-### Use Of Personal Information
+### **Use Of Personal Information**
 
 We use the information we gather on the Website to identify you when you access the Website, respond to queries or requests submitted by you, process requests or applications submitted by you, or to fulfil any other reasonable purpose which may, in our ultimate discretion, be necessary. We also use the information for the purposes of operating and improving the Website, fostering a positive user experience, and delivering the products and services that we offer.
 
@@ -46,7 +44,7 @@ We may also use your contact information in order to send you e-mail or other co
 
 MyTechLogy.Com cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. Therefore, although we are committed to protecting your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. As a user of the Website, you understand and agree that you assume all responsibility and risk for your use of the Website, the comments/documents you post or access and for your conduct on and off the Website in relation to the Website. 
 
-### Disclosure of Personal Information
+### **Disclosure of Personal Information**
 
 We may disclose your resume to third party employers who have posted job opportunities that may be of interest to you on the Website when you use the Website to submit your resume for those jobs. When you submit your resume in response to a job posting, a copy of the resume is provided to the third party employer that posted the job opportunity. You are aware and understand that we do not, and are unable to, exercise control over the manner in which third party employers utilize your personal information. You are deemed to have consented to our disclosure of your resume to relevant third party employers by using the Website to submit your resume. 
 
@@ -62,7 +60,7 @@ We may disclose and transfer information to a third party in the process of acqu
 
 You can exercise control over the collection, use and disclosure of personal information in relation to specific functions of the Website by logging into your account and enabling or disabling functions in your account preferences. By enabling functions in your account preferences, you are deemed to have consented to the collection, use and disclosure of any personal information as necessary to carry out the function you have enabled. If at any time you choose to withdraw consent to the collection, use or disclosure of personal information in relation to a specific function on the Website, you may disable it in your account preferences. 
 
-### Resume
+### **Resume**
 
 We give you the option of putting your resume in our database. 
 
@@ -72,41 +70,41 @@ There are two ways of utilizing your resume in our database:
 
 2\. You can allow your resume to be searchable by employers, recruiters, hiring managers, head-hunters, and human resource professionals who pay for access to our resume database and your resume. When you opt to make your resume searchable, you still have the choice to make your personal details confidential where all of your contact information and even your current place of employment can remain hidden. We use our best efforts to restrict access to our database only to those who have paid for access; these parties may retain a copy of your resume in their own files or databases. We will take reasonable steps to ensure that parties other than those mentioned above will not, without our consent, gain access to this database. However MyTechLogy.Com is not responsible for the retention, use, or privacy of resumes by third parties. You agree that we may share your information with our affiliated companies. You may remove your resume from our searchable database at any time. 
 
-### Updating Account Information
+### **Updating Account Information**
 
 We wish to ensure your personal information is complete, accurate and up to date. MyTechLogy.Com allows you to change or correct your personal information at any time. To do so, simply log into your MyTechLogy.Com account and you will find options for editing the information you have submitted. 
 
-### Access to Personal Information
+### **Access to Personal Information**
 
 You can gain access to the personal information you have provided by visiting our Website. If you need assistance to log in you can contact us by emailing enquiry@MyTechLogy.com. If you have not accessed your resume for some time we may also contact you to check your information is still correct. 
 
 A request for access to the personal information we hold about you, to correct or update your personal information, to withdraw your consent for our collection, use or disclosure of your personal information, or in relation to an inquiry about privacy or compliance with personal data protection regulations, should be sent to enquiry@MyTechLogy.com. You may also request for information about the ways in which personal data has been or may have been used by the organisation within the past 1 year from the date of your request. You may delete your resume from MyTechLogy.Com's online database and/or deactivate your account at any time. 
 
-### Withdrawal of Consent
+### **Withdrawal of Consent**
 
 You may, at any time, revoke consent for us to collect, use or disclose your personal information. Withdrawal of consent may be facilitated by deactivating your Website account. By doing so, you will no longer be able to utilize the services provided by the Website as such services are by their nature dependent on the collection, use or disclosure of personal information. 
 
-### Retention of Personal Information
+### **Retention of Personal Information**
 
 A user's personal information in our possession, power or control shall be deleted one month from deactivation of the respective user's account. Please bear in mind that if you have submitted personal information to prospective third party employers through our Job-search Portal, you will need to approach the third party employers directly to delete your personal information. 
 
-### Online Security
+### **Online Security**
 
 We take all reasonable precautions to keep your personal data secure. Personal information used in online purchases from the Website is scrambled using Secure Socket Layer ("SSL") encryption technology before being sent over the Internet. When we receive your order, it is kept encrypted until we are ready to process it. SSL makes it difficult for your information to be stolen or intercepted while being transferred. Although we remain committed to keeping your personal data secure, you understand and agree that we cannot guarantee the successful encryption or the privacy of your personal details and credit card information. 
 
-### MyTechLogy.Com Database
+### **MyTechLogy.Com Database**
 
 The information you provide is stored on the MyTechLogy.Com database. When providing information you agree this may be stored in our databases, which may be located internationally. To ensure the safety of your personal data, our web hosts encrypt information during transmission using Secure Sockets Layer (SSL) software. 
 
-### Cookies
+### **Cookies**
 
 To enhance your experience at MyTechLogy.Com, we use a feature on your Internet browser called a "cookie". Cookies are small files that your Web browser places on your computer's hard drive. We use cookies for remembering user names and passwords and preferences, tracking click streams, and for load balancing. Because of our use of cookies, we can deliver faster service, consistent, updated results, and a more personalised Website experience. You have the option of setting your browser to reject cookies. However, doing this will hinder performance and negatively impact your experience on our Website. 
 
-### Feedback
+### **Feedback**
 
 MyTechLogy.Com may provide an area on the Website where you can submit feedback. Any feedback that is submitted through this area becomes the property of MyTechLogy.Com. We may use this feedback at any time for any purposes, such as success stories for marketing purposes, or to contact you for further feedback on the Website. By submitting feedback, you are deemed to have consented to our use and/or disclosure of your feedback for the improvement and/or promotion of the Website. 
 
-### Privacy Policy Changes
+### **Privacy Policy Changes**
 
 We may make changes to our privacy policy from time to time. We will post material changes on our Website so that you will always know what information we gather, how we intend to use that information, and whether we will disclose it to anyone. Changes to the Privacy Policy are effective immediately, and incorporated into the Privacy Policy. Your use of the Website after such changes have been posted will constitute your agreement to the modified Privacy Policy and all of the changes. 
 
