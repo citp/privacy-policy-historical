@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naijaparrot.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121021810id_/http%3A//naijaparrot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijaparrot.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607193540id_/http%3A//naijaparrot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NaijaParrot.com - Nigerian News and Jobs
 
@@ -53,3 +53,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us through the link below:
 
 [www.naijaparrot.com/contact-us](http://www.naijaparrot.com/contact-us/)
+
+**Are you On Twitter?** Follow [@naijaparrot1](https://twitter.com/intent/follow?region=follow_link&screen_name=naijaparrot1) for news and job updates. For jobs updates only, follow [@naijajobfinder](https://twitter.com/intent/follow?region=follow_link&screen_name=naijajobfinder)
+
+**Are you On Twitter?** Follow [@naijaparrot1](https://twitter.com/intent/follow?region=follow_link&screen_name=naijaparrot1) for news and job updates. For jobs updates only, follow [@naijajobfinder](https://twitter.com/intent/follow?region=follow_link&screen_name=naijajobfinder)
