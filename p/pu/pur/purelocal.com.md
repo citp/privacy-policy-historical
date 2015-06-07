@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purelocal.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227000428id_/http%3A//purelocal.com/Privacy.aspx%3Fvx%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purelocal.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607040918id_/http%3A//www.purelocal.com/Privacy.aspx%3Fvx%3D0) for the most accurate reproduction.*
 
 # PureLocal - PureLocal
 
@@ -30,8 +30,8 @@ This Website Privacy Statement is effective as of the date listed below. Even if
 
 ## Questions?
 
-We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/web/20141227000428id_/http%3A//purelocal.com/contact.aspx).
+We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/web/20150607040918id_/http%3A//www.purelocal.com/contact.aspx).
 
 **Effective Date: Privacy Notice last modified February 19, 2014.**
 
-© 2014 PureLocal 
+© 2015 PureLocal 
