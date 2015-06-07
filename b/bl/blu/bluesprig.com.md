@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluesprig.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214024743id_/http%3A//www.bluesprig.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluesprig.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607130426id_/http%3A//www.bluesprig.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | BlueSprig
 
