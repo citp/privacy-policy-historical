@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polaroidstore.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083825id_/http%3A//www.polaroidstore.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polaroidstore.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142541id_/http%3A//www.polaroidstore.com/privacy.asp) for the most accurate reproduction.*
 
 # Polaroid Store - Privacy Policy
 
