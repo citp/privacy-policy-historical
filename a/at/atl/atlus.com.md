@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlus.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221193032id_/http%3A//www.atlus.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlus.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175417id_/http%3A//www.atlus.com/privacypolicy.php) for the most accurate reproduction.*
 
 # :::: Atlus.com ::::
 
@@ -57,7 +57,7 @@ The only exception shall be in the event that disclosure of information is requi
 _**Can I choose how my personal information is used? **_  
 If you do not want to receive our ATLUS Faithful newsletter, you may simply decline to register. If you have already registered, but wish to no longer receive the newsletter, you may Unsubscribe by clicking the Unsubscribe link included in every e-mail. If you do not wish to be contacted by ATLUS as the result of participation in one or more of our promotions, you may let us know at the time of entry submission or any later time. Please note that this may invalidate your entry in the promotion. 
 
-If you have questions or are experiencing problems with opting out of contact from ATLUS, you may call us at (949) 788-0455 between the hours of 9:00 am and 5:30 pm Pacific Time, or contact us by postal mail at: Index Digital Media, Inc., 6400 Oak Canyon, Suite 100, Irvine, CA 92618. Please mark envelopes, "ATTN: Privacy Department." 
+If you have questions or are experiencing problems with opting out of contact from ATLUS, you may call us at (949) 788-0455 between the hours of 9:00 am and 5:30 pm Pacific Time, or contact us by postal mail at: Atlus U.S.A., Inc., 6400 Oak Canyon, Suite 100, Irvine, CA 92618. Please mark envelopes, "ATTN: Privacy Department." 
 
 _**Can I access my personal information? **_  
 Yes. If you would like to view or correct information that you previously submitted to ATLUS, you may access it by phone by calling us at (949) 788-0455 between the hours of 9:00 am and 5:30 pm Pacific Time, or by postal mail at: Atlus U.S.A., Inc., 6400 Oak Canyon, Suite 100, Irvine, CA 92618. Please mark envelopes, "ATTN: Privacy Department." 
