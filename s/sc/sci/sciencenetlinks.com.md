@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencenetlinks.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123165041id_/http%3A//www.aaas.org/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencenetlinks.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185847id_/http%3A//www.aaas.org/privacy.shtml) for the most accurate reproduction.*
 
 # AAAS Privacy Policy | AAAS - The World's Largest General Scientific Society
 
