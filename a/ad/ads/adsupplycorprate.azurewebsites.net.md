@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsupplycorprate.azurewebsites.net privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227235713id_/http%3A//adsupplycorprate.azurewebsites.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsupplycorprate.azurewebsites.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607193904id_/http%3A//adsupplycorprate.azurewebsites.net/privacy.html) for the most accurate reproduction.*
 
 # AdSupply - Privacy Policy
 
