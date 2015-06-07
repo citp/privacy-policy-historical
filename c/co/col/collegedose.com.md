@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegedose.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202034806id_/http%3A//collegedose.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegedose.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608003636id_/http%3A//collegedose.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY – College Dose - Your Daily Dose of College Life
 
