@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freevaluator.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528003919id_/http%3A//www.freevaluator.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freevaluator.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608000306id_/http%3A//www.freevaluator.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
