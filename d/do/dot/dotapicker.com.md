@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dotapicker.com privacy policy that was archived on 2014-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140905090940id_/http%3A//dotapicker.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotapicker.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174452id_/http%3A//dotapicker.com/privacy) for the most accurate reproduction.*
 
-# Dota 2 Teammate picker
+# Privacy policy
 
-This Privacy Policy governs the manner in which Dotapicker.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://dotapicker.com](http://dotapicker.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Dotapicker.com.
+This Privacy Policy governs the manner in which Dotapicker.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.dotapicker.com](http://www.dotapicker.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Dotapicker.com.
 
 **Personal identification information**
 
@@ -54,9 +54,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Dotapicker.com](http://dotapicker.com/)  
-[http://dotapicker.com](http://dotapicker.com/)  
+[http://www.dotapicker.com](http://www.dotapicker.com/)  
 Iasi, Romania  
-adrian.toma@dotapicker.com
+<http://www.dotapicker.com/contact>
 
 This document was last updated on September 02, 2014
