@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtuosimedia.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225112047id_/http%3A//www.virtuosimedia.com/corporate/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtuosimedia.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607172739id_/http%3A//www.virtuosimedia.com/corporate/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
