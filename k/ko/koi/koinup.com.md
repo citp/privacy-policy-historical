@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koinup.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125172821id_/http%3A//www.koinup.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koinup.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607133554id_/http%3A//www.koinup.com/support/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Koinup
 
