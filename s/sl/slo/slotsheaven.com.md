@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the slotsheaven.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701223908id_/http%3A//www.slotsheaven.com/about/security-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slotsheaven.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022855id_/http%3A//www.slotsheaven.com/about/security-privacy.html) for the most accurate reproduction.*
 
-# Security & Privacy | SlotsHeaven.com
+# Security & Privacy | Slots Heaven
 
 **Introduction**
 
-SLOTSHEAVEN.COM is a duly authorised branded casino of ONISAC Limited, (referred to as "SLOTSHEAVEN.COM", "we", "our" or "us" as the context requires). We are incorporated in Gibraltar and duly licensed to provide online casino services in and from Gibraltar in conjunction with and/or as well as other companies under the same ownership also involved in providing similar or complementary services, (collectively referred to as "the Group").
+Slots Heaven is a duly authorised branded casino of ONISAC Limited, (referred to as "Slots Heaven", "we", "our" or "us" as the context requires). We are incorporated in Gibraltar and duly licensed to provide online casino services in and from Gibraltar in conjunction with and/or as well as other companies under the same ownership also involved in providing similar or complementary services, (collectively referred to as "the Group").
 
 We have provided this privacy policy to help you understand how we collect, use and safeguard your information for the purpose of operating our online casino and poker services. You should read this notice in conjunction with our [terms and conditions](https://web.archive.org/about/terms-and-conditions.html) for use of this site or any other sites operated by us.
 
@@ -59,6 +59,6 @@ It may be necessary to transfer your personal information to other companies wit
 
 You may request details of your personal information kept by us by following the contact information set out below. Once we receive such a request we will ask you to verify your identity by providing relevant information or documentation. We will then request pre-payment of an administration fee of US$15 per request and upon receipt of this process your request within 40 days.
 
-If you have any enquiry about our data protection and privacy policy or practices, or wish to decline receiving e-mail offers from us or from any other companies within the Group please contact SlotsHeaven.com Member Service on +350 20044793 or by email to [support@slotsheaven.com](mailto:support@slotsheaven.com;) or write to SlotsHeaven.com, Suite 901, Europort, Gibraltar.
+If you have any enquiry about our data protection and privacy policy or practices, or wish to decline receiving e-mail offers from us or from any other companies within the Group please contact Slots Heaven Member Service on +350 20044793 or by email to [support@slotsheaven.com](mailto:support@slotsheaven.com;) or write to Slots Heaven, Suite 901, Europort, Gibraltar.
 
 This privacy policy was last revised on the 15th September 2013.
