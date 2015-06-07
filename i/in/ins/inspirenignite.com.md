@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inspirenignite.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121180328id_/http%3A//www.inspirenignite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspirenignite.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607135501id_/http%3A//www.inspirenignite.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - All About Education
 
 Privacy Policy for Inspire ‘n’ Ignite.
 
