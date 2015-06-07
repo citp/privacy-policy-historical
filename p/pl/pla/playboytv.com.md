@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playboytv.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121014140id_/http%3A//www.playboytv.com/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playboytv.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174707id_/http%3A//www.playboytv.com/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Playboy TV
 
