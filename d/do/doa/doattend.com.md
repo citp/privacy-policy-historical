@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doattend.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120045956id_/http%3A//doattend.com/privacy_policy_and_disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doattend.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142052id_/http%3A//doattend.com/privacy_policy_and_disclaimer) for the most accurate reproduction.*
 
 # Online Event Registration Service - DoAttend Privacy Policy and Disclaimer
 
