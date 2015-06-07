@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pc-direct.co.za privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105220915id_/http%3A//www.pc-direct.co.za/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pc-direct.co.za privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022710id_/http%3A//www.pc-direct.co.za/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# PC Direct | Privacy Policy
+# Privacy Policy
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
