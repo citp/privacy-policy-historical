@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fleetio.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123012032id_/http%3A//www.fleetio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fleetio.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607181004id_/https%3A//www.fleetio.com/privacy) for the most accurate reproduction.*
 
-# Fleetio Privacy Policy | Fleetio
+# Privacy Policy - Fleetio
 
-RareStep, LLC (“we”, “us”, or “our”) has created this privacy policy (“Policy”) to inform you (“you” or “your”) of when and how information is collected, used, disclosed and protected through our services (“Service”) and website located at fleetio.com. By using the Service, you consent to the privacy practices described in this Policy.
+Rarestep, Inc. (“we”, “us”, or “our”) has created this privacy policy (“Policy”) to inform you (“you” or “your”) of when and how information is collected, used, disclosed and protected through our services (“Service”) and website located at fleetio.com. By using the Service, you consent to the privacy practices described in this Policy.
 
 We may change this Policy from time to time. Continued use of the Service after any such changes shall constitute your consent to such changes. If we make any changes to this Policy, we will change the “last updated” date above. You can review the most current version of the Policy at any time at [http://www.fleetio.com/privacy](http://fleetio.com/privacy).
 
