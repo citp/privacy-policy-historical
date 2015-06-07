@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoptimise.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121102112id_/http%3A//white.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoptimise.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607040812id_/http%3A//white.net/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | White.net
 
@@ -133,3 +133,12 @@ If you have any questions about this privacy policy or our treatment of your per
 (12) Data controller
 
 The data controller responsible in respect of the information collected on this website is The Data Controller, SEOptimise Limited.
+
+Twitter users: if you are signing up for one of our industry reports we will collect:
+
+  1. Your first name
+  2. Your last name
+  3. Your email
+  4. Your website
+
+
