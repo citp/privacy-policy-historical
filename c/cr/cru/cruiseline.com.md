@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruiseline.com privacy policy that was archived on 2014-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140903233935id_/http%3A//cruiseline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruiseline.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608010332id_/http%3A//cruiseline.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,11 +10,16 @@ This Privacy Policy describes how we use and protect your personal information. 
 
 You can browse and read most of the content cruiseline.com without telling us who you are. In order to use the interactive features, including joining a cruise roll call, posting a cruise review or participating in the forums, you are required to register. If you choose to give us personal information, you consent to the transfer and storage of that information on our servers located in the United States. We may collect and store the following personal information:
 
-  * email address, physical contact information, gender;
-  * general information about you such as full name, date of birth, relationship status, interests and hobbies;
-  * information based on your activities on Cruiseline.com.com (such as your cruises, reviews or posts to the discussion forum);
-  * community discussions, dispute resolution, correspondence sent to us; and
-  * standard web log information, such as connection information, statistics on page views, traffic to and from our site, ad data, and IP address
+  * __email address, physical contact information, gender;
+
+  * __general information about you such as full name, date of birth, relationship status, interests and hobbies;
+
+  * __information based on your activities on Cruiseline.com.com (such as your cruises, reviews or posts to the discussion forum);
+
+  * __community discussions, dispute resolution, correspondence sent to us; and
+
+  * __standard web log information, such as connection information, statistics on page views, traffic to and from our site, ad data, and IP address
+
 
 
 
@@ -26,10 +31,14 @@ Your information is stored on our web host's servers located in the United State
 
 The personal information we collect is used to improve the content of our Web pages and the quality of our service. We will only share this information with companies or individuals outside of Cruiseline.com under the following limited circumstances:
 
-  * We have your consent. We require opt-in consent for the sharing of any sensitive personal information.
-  * It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law.
-  * We transfer information about you if Cruiseline.com is acquired by or merged with another company. In this event, Cruiseline.com will notify you before information about you is transferred and becomes subject to a different privacy policy.
-  * We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users interested in scuba diving on a particular cruise, for example. Such information does not identify you individually.
+  * __We have your consent. We require opt-in consent for the sharing of any sensitive personal information.
+
+  * __It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law.
+
+  * __We transfer information about you if Cruiseline.com is acquired by or merged with another company. In this event, Cruiseline.com will notify you before information about you is transferred and becomes subject to a different privacy policy.
+
+  * __We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users interested in scuba diving on a particular cruise, for example. Such information does not identify you individually.
+
 
 
 
