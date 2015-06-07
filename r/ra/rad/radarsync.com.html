@@ -1,13 +1,12 @@
-<!--The following is the downloaded HTML source of the radarsync.com privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120094423id_/http%3A//www.radarsync.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the radarsync.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607174715id_/http%3A//www.radarsync.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	
-<link href="https://plus.google.com/112118585063934554272" rel="publisher">
+
 <link href="http://www.radarsync.com/assets/litebox.css" rel="stylesheet" type="text/css" media="screen">
 <link href="http://www.radarsync.com/assets/style.css" rel="stylesheet" type="text/css" media="screen">
 <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.aspnetcdn.com/ajax/jquery/jquery-1.4.4.js" type="text/javascript"></script>
-<script type="text/javascript" src="http://www.radarsync.com/assets/jquery.client.js"></script>
 <script type="text/javascript" src="http://www.radarsync.com/assets/jquery.livequery.js"></script>
 <script type="text/javascript" src="http://www.radarsync.com/assets/radarsync.js"></script>
 <link href="http://www.radarsync.com/favicon.ico" type="image/x-icon" rel="shortcut icon">
@@ -17,53 +16,27 @@
 <![endif]-->
 	<script type="text/javascript">
 	    function download_product(product) {
-	        window.open('../../../thankyoufordownloading?product=' + product.toString());
-		}
-		
-		$j(document).ready(function() {
-			if (jQuery.client.os == "Mac")
-				goToMacRadio();
-		});
-		
-		function goToMacRadio() {
-			jQuery('#mac-redirection-message').show();
-			setTimeout(function() {
-				window.location.href = "http://www.homeradiomac.com/radarsync";
-			}, 5000)
+	        location.href = '../../../installers/' + product.toString();
+			window.open('../../../thankyou');
 		}
 	</script>
 	
 	<script type="text/javascript" src="http://cdn.gigya.com/JS/gigya.js?services=socialize"></script>
 	<script type="text/javascript">
+	
 
-
-	    function cssmenuhover() {
-			if (!document.getElementById("cssmenu"))
-				return;
-			var lis = document.getElementById("cssmenu").getElementsByTagName("LI");
-			for (var i = 0; i < lis.length; i++) {
-				lis[i].onmouseover = function() { this.className += " iehover"; }
-				lis[i].onmouseout = function() { this.className = this.className.replace(new RegExp(" iehover\\b"), ""); }
-			}
+	function cssmenuhover() {
+		if (!document.getElementById("cssmenu"))
+			return;
+		var lis = document.getElementById("cssmenu").getElementsByTagName("LI");
+		for (var i = 0; i < lis.length; i++) {
+			lis[i].onmouseover = function() { this.className += " iehover"; }
+			lis[i].onmouseout = function() { this.className = this.className.replace(new RegExp(" iehover\\b"), ""); }
 		}
+	}
+	if (window.attachEvent)
+		window.attachEvent("onload", cssmenuhover);
 		
-		if (window.attachEvent)
-			window.attachEvent("onload", cssmenuhover);
-		
-		function switchLanguage(lang) {
-			var split = window.location.href.split('?');
-			var url   = split[0];
-			if (split.length <= 1) {
-				window.location.href = url + '?lang=' + lang;
-				return;
-			}
-			split = split[1].split('#');
-			query = split[0];
-			var params = jQuery(query.split('&')).filter(function() { return this.substring(0, 4) != 'lang'; }).toArray();
-			params.push('lang=' + lang);
-			query = params.join('&');
-			window.location.href = url + '?' + query + (split.length > 1 ? "#" + split[1] : "");
-		}
 	</script>
 	
 	<style type="text/css">
@@ -74,7 +47,6 @@
 	</style>
 	
     <meta name="description" content="RadarSync will never sell or share your email address or personal information with third parties. We take every possible security measure to keep your information private. RadarSync's products are certified 100% spyware, virus and ad-ware free.">
-
 
 
 	<script type="text/javascript">
@@ -88,6 +60,16 @@
 			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 		})();
 	</script>
+	<!-- //------------------------------------------------------ -->
+        <script type="text/javascript">
+            function red(sel) 
+            {
+                var url = "Index.aspx?filter=language=";
+                url = url + sel.options[sel.selectedIndex].value;
+                document.location = url;
+            }
+        </script>
+	<!-- -------------------------------------------------------- -->
 <title>
 	Driver Updater Privacy Policy by Radar-Sync
 </title></head>
@@ -110,40 +92,25 @@
 		<form id="top_search" action="" method="get">
 			<input id="top_search_submit" class="button search_element submit" type="button" value="Go">
 			<input id="site_search_field" class="search_element" value="Search" onfocus="if (this.value == 'Search') this.value == ''" onblur="if (this.value == '') this.value = 'Search'" name="txt" type="text" onkeypress="return onEnter(event,$j('#top_search_submit'));">
-		<!--	<a style="float:right; margin-top:50px; margin-left:862px; position:absolute;" href="http://www.radarsync.jp/"><img style="padding:0px; position:static;" title="日本" alt="" src="http://www.radarsync.com/assets/images/button_j.jpg" /></a> -->
+			<a style="float:right; margin-top:50px; margin-left:862px; position:absolute;" href="http://www.radarsync.jp/"><img style="padding:0px; position:static;" title="日本" alt="" src="http://www.radarsync.com/assets/images/button_j.jpg"></a>
+				<!--	<select name="ctl00$ctl00$ctl00$HeaderPlaceHolder$Select1" id="HeaderPlaceHolder_Select1" onchange="red(this);" style="padding:0px; margin-left:250px;  width : 200" class="search_element">
+	<option value="0">0</option>
+	<option value="1">English</option>
+	<option value="2">Japanese</option>
+	<option value="3">Chinese</option>
+	<option value="4">German</option>
+	<option value="5">Italian</option>
+	<option value="6">Spanish</option>
+	<option value="7">French</option>
+	<option value="8">Portuguese</option>
+</select>
+                <label id="HeaderPlaceHolder_info">English</label>
+                -->
 		</form>
-		
-		<form method="post" action="privacy" id="frmMain">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTYwNDUxMDQ0OWRkP6Cl0SHXynXf4zKaCDmT56Nc8SlNzGYEk/iG/2ENG3c=">
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="EAA40B43">
-	<!-- -------------------------------------lang-------- -->     
-<img alt="German" ;="" style="position:absolute; float:right; margin-left:725px; margin-top:38px; cursor:pointer;" src="/imagesng/germany.jpg" onclick="switchLanguage('Ge');">                      
-<img alt="English" ;="" style="position:absolute; float:right; margin-left:675px; margin-top:38px; cursor:pointer;" src="/imagesng/usa.jpg" onclick="switchLanguage('En');">                      
-<img alt="Portuguese" ;="" style="position:absolute; float:right; margin-left:625px; margin-top:38px; cursor:pointer" src="/imagesng/brasil.jpg" onclick="switchLanguage('Po');">                      
-<img alt="French" ;="" style="position:absolute; float:right; margin-left:575px; margin-top:38px; cursor:pointer" src="/imagesng/french.jpg" onclick="switchLanguage('Fr');">                      
-<img alt="Italian" ;="" style="position:absolute; float:right; margin-left:525px; margin-top:38px; cursor:pointer" src="/imagesng/it.jpg" onclick="switchLanguage('It');">                      
-<a style="position:absolute; float:right; margin-left:475px; margin-top:38px;" href="http://www.radarsync.jp/"> <img alt="Japanese" ;="" style="position:static; cursor:pointer" src="/imagesng/japanese.jpg"> </a>                     
-
-	<!-- //------------------------------------------------------ -->
-        <script type="text/javascript">
-            function clickddl(DDLlang) {
-                var sel = document.getElementById("HeaderPlaceHolder_DDLlang");
-                var val = sel.options[sel.selectedIndex].value;
-                if (val == "Ja") {
-                    window.location.href = 'http://www.radarsync.jp/';
-                }
-                else {
-                    window.location.href = window.location.href.split('?')[0] + '?lang=' + val;
-                    }
-                } 
-            
-        </script>
-
-	<!-- -------------------------------------------------------- -->
-	</form>
-	</div>	
+	</div>
+	<div class="clear"></div>
 	
+
 		</div>
 		<!-- END HEADER -->
 		
@@ -221,13 +188,16 @@
 
 		<div id="main">
 			
-	
-	
+	<form method="post" action="privacy" id="frmMain">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTYwNDUxMDQ0OWRkQc4RtKlwV4WQY/AKzed5WrBjoCKRrwHUnqZ8+X3DtNg=">
 
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="EAA40B43">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAIJWnYoOLrHnEZowqVkH1A6rOXY998+Nr7S4+qSCupwQBegxFCi2eswMpP765JcTtfFwnQF+3MIBS8n8uWY42gs">
+	</form>
+	
 	<div class="message">Flash Message</div>
 			<div id="" class="litebox">
-				<div class="lb_outer"><div class="lb_inner"> 
-					
+				<div class="lb_outer"><div class="lb_inner">
 					
     <a href="http://www.radarsync.com/">Home</a> &gt; <strong>Privacy</strong>
 <br><br><br><br>
@@ -274,9 +244,8 @@ We will only use it to communicate with you about your computer, and will not sh
 
 					
 				<div class="clear"></div>
-				</div></div> 
+				</div></div>
 			</div> <!-- LITEBOX -->
-			
 
 
 			<div id="bottom">
@@ -295,10 +264,8 @@ We will only use it to communicate with you about your computer, and will not sh
 				<div class="clear"></div>
 			</div>
 
-
 				
 	
-
 	<div class="ad">
 				<script type="text/javascript">				    e9 = new Object(); e9.size = "728x90"; e9.noAd = 1;</script>
 				
@@ -316,7 +283,6 @@ We will only use it to communicate with you about your computer, and will not sh
 					</a>
 				</div>
 			</div>
-			
 
 
 			</div>
@@ -325,8 +291,7 @@ We will only use it to communicate with you about your computer, and will not sh
 		
 	
 	<div id="sidebar">
-		
-	<div class="litebox" style="width:160px; margin-bottom:10px;">
+		<div class="litebox" style="width:160px; margin-bottom:10px;">
 			<div class="lb_outer">
 				<div class="lb_inner" style="padding: 10px 0px 0px 0px; margin-bottom:0px;">
 					<table>
@@ -335,25 +300,20 @@ We will only use it to communicate with you about your computer, and will not sh
 							<td>
 							
 							
-							<a href="http://twitter.com/radarsync"><img src="../../../../assets/images/RSPCUpdaterTwitter.jpg" alt="Twitter" width="50px"></a></td>
+							<a href="http://twitter.com/radarsync"><img src="../../../assets/images/RSPCUpdaterTwitter.jpg" alt="Twitter" width="50px"></a></td>
 							<td>
-	
-							
     <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.radarsync.com%2Fprivacy&amp;layout=box_count&amp;show_faces=false&amp;width=120&amp;action=like&amp;colorscheme=light&amp;height=65" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:65px;" allowtransparency="true"></iframe>
-							
 
+							
 							<!-- Place this tag where you want the +1 button to render -->
-							
-    <g:plusone size="tall" annotation="none"></g:plusone>
-    <center>
-    
+<g:plusone size="tall" annotation="none"></g:plusone>
+<center>
 <!-- Place this render call where appropriate -->
-
 <script type="text/javascript">
   (function() {
-    var po1 = document.createElement('script'); po1.type = 'text/javascript'; po1.async = true;
-    po1.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po1, s);
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
   })();
 </script>
 							
@@ -370,8 +330,8 @@ We will only use it to communicate with you about your computer, and will not sh
 
 <div id="Div1" style="text-align:center">
 <div id="Div2" style="text-align:center">
-<a href="../../../../driverupdater" id="A1" title="RadarSync PC Updater">
-<img src="../../../../imagesng/banner-indipage-rightSide.jpg" style="height:684;width:160px" alt="Update All Your Drivers"> 
+<a href="../../../driverupdater" id="A1" title="RadarSync PC Updater">
+<img src="../../../imagesng/banner-indipage-rightSide.jpg" style="height:684;width:160px" alt="Update All Your Drivers">
 </a>
 </div>
 </div>
@@ -382,9 +342,7 @@ We will only use it to communicate with you about your computer, and will not sh
 			</div>
 		</div>
 		<div class="litebox" style="width:160px; margin-bottom:10px;">
-		
 			
-		
 		</div>
 		<!--<div class="ad">
 			<a href="http://www.radarsync.com/installers/radarsync.exe"><img src="http://www.radarsync.com/assets/images/ad_pc_updater.png" alt="RadarSync PC Updater"/></a>
@@ -393,11 +351,9 @@ We will only use it to communicate with you about your computer, and will not sh
 	</div>
 
 
-
 		<div class="clear"></div>
 	</div>
 	<div id="footer">
-	
 		<div style="float:right">
 			<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.radarsync.com&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=197689636909025" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
 		</div>
@@ -405,58 +361,19 @@ We will only use it to communicate with you about your computer, and will not sh
 			<a href="https://twitter.com/RadarSync" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @RadarSync</a>
 			<script>	!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } } (document, "script", "twitter-wjs");</script>
 		</div>
-		© 2001–2014 RadarSync Ltd. All rights reserved.
-	
-	</div>
-	<div id="mac-redirection-message" style="display:none">
-		<div class="center">
-			<div class="panel">
-				<h2>Try RadarSync's new, award winning software for Mac users: Home Radio for Mac</h2>
-				<h3>You are now being redirected to <a href="http://www.homeradiomac.com/radarsync">http://www.homeradiomac.com/radarsync</a></h3>
-			</div>
-		</div>
+		© 2001–2012 RadarSync Ltd. All rights reserved.
 	</div>
 	
 	
 
 	<script type="text/javascript">
-	    $j(document).ready(function() {
-	        $j('#top_search_submit').click(function() {
-	            site_search();
-	        });
-
-			if (document.getElementById("HeaderPlaceHolder_DDLlang")) {
-				if (window.location.href.indexOf('lang') != -1) {
-					if (window.location.search == "?lang=En")
-					{ document.getElementById('HeaderPlaceHolder_DDLlang').selectedIndex = 0; }
-					if (window.location.search == "?lang=Ja")
-					{ document.getElementById('HeaderPlaceHolder_DDLlang').selectedIndex = 1; }
-					if (window.location.search == "?lang=Ge")
-					{ document.getElementById('HeaderPlaceHolder_DDLlang').selectedIndex = 2; }
-					if (window.location.search == "?lang=It")
-					{ document.getElementById('HeaderPlaceHolder_DDLlang').selectedIndex = 3; }
-					if (window.location.search == "?lang=Fr")
-					{ document.getElementById('HeaderPlaceHolder_DDLlang').selectedIndex = 4; }
-					if (window.location.search == "?lang=Po")
-					{ document.getElementById('HeaderPlaceHolder_DDLlang').selectedIndex = 5; }
-					//document.getElementById('BaseContentPlaceHolder_DDLlang').selectedIndex = 5;
-					// else { document.getElementById('BaseContentPlaceHolder_DDLlang').selectedIndex = 0; }
-				} else {
-				var opt = document.createElement("option");
-				// Add an Option object to Drop Down/List Box
-				document.getElementById("HeaderPlaceHolder_DDLlang").options.add(opt);
-				// Assign text and value to Option object
-				opt.text = "Select Language";
-				opt.value = "Select Language";
-				document.getElementById('HeaderPlaceHolder_DDLlang').selectedIndex = 6;
-			}
-	    }
-	    
-
-	        //show for ie6
-	        showieWarning();
-
-	    });
+		$j(document).ready(function() {
+			$j('#top_search_submit').click(function() {
+				site_search();
+			});
+			//show for ie6
+			showieWarning();
+		});
 
 		function showieWarning() {
 			if (navigator.userAgent.indexOf('MSIE 6.0') != -1)
@@ -553,23 +470,6 @@ We will only use it to communicate with you about your computer, and will not sh
 	
 
 
-	<!-- Google Code for Remarketing tag -->
-<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
-<script type="text/javascript">
-    /* <![CDATA[ */
-    var google_conversion_id = 1071416390;
-    var google_conversion_label = "m2jkCJyhyAUQxojy_gM";
-    var google_custom_params = window.google_tag_params;
-    var google_remarketing_only = true;
-    /* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1071416390/?value=0&amp;label=m2jkCJyhyAUQxojy_gM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
 
 
 </body></html>
