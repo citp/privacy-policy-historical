@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gayroom.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127003640id_/http%3A//gayroom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gayroom.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607182828id_/http%3A//gayroom.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
