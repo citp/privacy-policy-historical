@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearwebstats.com privacy policy that was archived on 2014-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140915130029id_/http%3A//www.clearwebstats.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearwebstats.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607212836id_/http%3A//www.clearwebstats.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ClearWebStats.com
 
