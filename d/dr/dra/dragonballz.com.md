@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dragonballz.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110000445id_/http%3A//www.dragonballz.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dragonballz.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144552id_/http%3A//www.dragonballz.com/legal/privacy) for the most accurate reproduction.*
 
-# Dragon Ball Z | Legal
+# Dragon Ball Z | privacy
 
-[](https://www.amazon.com/dp/B00F9IB1M4/ref=as_li_ss_til?tag=dragonballzwebsite-20&camp=0&creative=0&linkCode=as4&creativeASIN=B00F9IB1M4&adid=1PKDM7XCFWSPN1JN385H& "Dragon Ball Z Blue-Ray Part One") [](https://www.amazon.com/dp/B00F9IB1M4/ref=as_li_ss_til?tag=dragonballzwebsite-20&camp=0&creative=0&linkCode=as4&creativeASIN=B00F9IB1M4&adid=1PKDM7XCFWSPN1JN385H& "Dragon Ball Z Blue-Ray Part One")
+Sign Up for Updates
 
 FUNimation Entertainment is respectful about the privacy of our users. As a general policy, no personal information is automatically collected from users of our sites. This policy statement tells you how we collect information from you and how we use it. Certain non-personal information of users is recorded by the standard operation of the FUNimation Internet servers. Such information is used to make your visits to our sites easy and enjoyable. Other uses of this information include internal review of the number of visitors to FUNimation’s sites, but only in an aggregate form. E-mail addresses and other personally identifiable information about users of this site are known to FUNimation only when voluntarily submitted. However, be assured that FUNimation will not disclose your personal information to third parties without your consent. FUNimation may, however, disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) FUNimation’s intellectual property rights or the rights of other FUNimation site users, or to anyone else that could be harmed by such activities. Further, FUNimation may disclose user information when we believe in good faith that the law requires it. 
 
@@ -26,4 +26,4 @@ Flower Mound, TX, 75028 USA
 
 +1-972-355-7300 
 
-[Legal3@funimation.com](mailto:Legal3@funimation.com "Legal3@funimation.com")
+### Sign up today and get exclusive news and offers from Funimation!
