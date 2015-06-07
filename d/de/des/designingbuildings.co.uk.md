@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designingbuildings.co.uk privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103174321id_/http%3A//www.designingbuildings.co.uk/wiki/Privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designingbuildings.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607214026id_/http%3A//www.designingbuildings.co.uk/wiki/Privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Designing Buildings Wiki
 
