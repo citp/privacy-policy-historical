@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iloverelationship.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117083629id_/http%3A//iloverelationship.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iloverelationship.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608002424id_/http%3A//iloverelationship.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - I Love Relationship
 
@@ -63,6 +63,3 @@ You may request details of personal information which we hold about you under th
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at contact@iloverelationship.com. We will promptly correct any information found to be incorrect.
 
 © 2010 Iloverelationship.com Privacy Policy.
-
-  
-
