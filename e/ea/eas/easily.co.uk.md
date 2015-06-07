@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easily.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625220035id_/http%3A//easily.co.uk/index.php3%3Fexe%3Dterms%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easily.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607201623id_/http%3A//easily.co.uk/index.php3%3Fexe%3Dterms%26page%3Dprivacy) for the most accurate reproduction.*
 
 # Easily Privacy Policy
 
@@ -65,7 +65,7 @@ Credit card payment for our services is processed by our secure payment service 
 
 4\. Easily Newsletter
 
-From time to time Easily will send newsletters to those customers who have opted to be included on our various customer mailing lists. New customers have the opportunity to decide to opt in or out of these mailing lists when they first sign up with us to create an account. Existing customers or other people who are interested in the newsletters may opt in or out on the Easily.co.uk website or by sending an email request to our [helpdesk support team](https://web.archive.org/web/20140625231619id_/http://easily.co.uk/index.php3?exe=contact). 
+From time to time Easily will send newsletters to those customers who have opted to be included on our various customer mailing lists. New customers have the opportunity to decide to opt in or out of these mailing lists when they first sign up with us to create an account. Existing customers or other people who are interested in the newsletters may opt in or out on the Easily.co.uk website or by sending an email request to our [helpdesk support team](https://web.archive.org/web/20150607201623id_/http://easily.co.uk/index.php3?exe=contact). 
 
 5\. Optional Services
 
