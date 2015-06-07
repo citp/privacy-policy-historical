@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymfb.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127045910id_/http%3A//mymfb.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymfb.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607234234id_/http%3A//mymfb.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy » Love . Peace . Joy
 
@@ -63,4 +63,4 @@ Should you have other questions or concerns about these privacy policies, please
 
 *Updated January 25th, 2012 (1st Rabiul Awal 1433 Hijri)
 
-_Page has been viewed 403 times.._
+_Page has been viewed 449 times.._
