@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pective.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125020729id_/http%3A//pective.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pective.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607232930id_/http%3A//pective.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Pective - privacy
 
 It is Pective's policy to respect your privacy regarding any information we may collect while operating our website. 
 
