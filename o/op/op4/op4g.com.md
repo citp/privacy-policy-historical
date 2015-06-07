@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the op4g.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120225420id_/http%3A//op4g.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the op4g.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145142id_/http%3A//op4g.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Op4G | Opinions 4 Good
 
@@ -91,23 +91,17 @@ We use this information to __ provide insights into client funded studies associ
 
 If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you.  Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at support@op4g.com.
 
-### Cookies and other Tracking Technologies
+### Tracking Technologies
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We [do/do not] link the information we store in cookies to any personal information you submit while on our site.
+Technologies such as: cookies, beacons, tags and scripts are used by Op4G and our market research partners, affiliates,  or analytics service providers and affiliate tracking software providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We use both session ID cookies and persistent cookies.  A session ID cookie expires when you close your browser.  Session cookies enable Op4G to track your progress specific to studies you elect to participate in.  A persistent cookie remains on your hard drive for an extended period of time. Persistent cookies enable Op4G to mark your progress in a specific study, should you decide to leave the study and return at a later time to finish.  You can remove persistent cookies by following directions provided in your Internet browser’s “help” directory.
-
-If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
-
-The use of cookies by our tracking service providers is not covered by our privacy policy.  We do not have access or control over these cookies.  Our tracking service providers use both session ID and persistent cookies to provide accurate crediting of your survey taking efforts.
-
-Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personal information.
+We use cookies for our dynamic surveys, to remember users’ settings , language preference or last question answered in surveys, for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
 As is true of most web sites, we gather certain information automatically and store it in log files.  This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
+We may combine this automatically collected log information with other information we collect about you. We do this to improve our ability to send relevant surveys to your member account.
 
-We do not link this automatically-collected data to personal information.  [IP addresses are tied to personal information to prevent a single user from attempting to acquire multiple Op4G accounts _._
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences.truste.com/) . Please note this does not opt you out of being served ads.  You will continue to receive generic ads.
 
 ### Links to 3rd party Sites
 
@@ -137,4 +131,5 @@ Have a question or concern that we don’t answer on our website? Op4G has a ded
 Op4G  
 Corporate Office:  
 93 Middle Street in Portsmouth  
-New Hampshire, 03801
+New Hampshire, 03801  
+603-766-5858
