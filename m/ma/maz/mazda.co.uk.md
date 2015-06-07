@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mazda.co.uk privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206090100id_/http%3A//www.mazda.co.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mazda.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074118id_/http%3A//www.mazda.co.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies
 
@@ -64,7 +64,13 @@ These cookies collect information about how visitors use a website, for instance
   
 The following Category 2 cookie is used on this website:
 
-  * auto.sophus3.com 
+  * auto.sophus3.com
+
+
+  * Google Analytics: _utma /_utmt / _utmb /_utmc /_utmz / utmv
+
+
+  * Click [here](http://www.google.co.uk/intl/en/analytics/privacyoverview.html) for an overview of privacy at Google
 
 
 
@@ -122,3 +128,7 @@ Select the web browser you're using below for information on amending your cooki
 
   
 If you do deactivate cookies it may mean some of the website features become disabled. Even with all cookies disabled, a tiny amount of information will continue to be retrieved from your web browser. This information is necessary for the basic functioning of our website.
+
+To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.aboutcookies.org](http://www.aboutcookies.org/)  or [www.allaboutcookies.org](http://www.allaboutcookies.org/) .
+
+To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout> .
