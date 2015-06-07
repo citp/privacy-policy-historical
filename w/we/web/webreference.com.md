@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webreference.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121030038id_/http%3A//www.webreference.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webreference.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607030649id_/http%3A//www.webreference.com/privacy) for the most accurate reproduction.*
 
 # QUINSTREET, INC. Privacy Policy
 
