@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bettermedicine.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123075123id_/http%3A//www.bettermedicine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettermedicine.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145125id_/http%3A//www.bettermedicine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Better Medicine
 
