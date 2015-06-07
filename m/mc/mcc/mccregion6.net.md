@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mccregion6.net privacy policy that was archived on 2014-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140207214549id_/http%3A//www.mccregion6.net/blog/latest/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mccregion6.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607123446id_/http%3A//www.mccregion6.net/blog/latest/privacy-policy.html) for the most accurate reproduction.*
 
 # Fatcow Coupon 2012 Fatcow Promo Code Fatcow Coupon Code - Privacy Policy
 
