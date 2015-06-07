@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xmind.net privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221151646id_/http%3A//www.xmind.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmind.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607194753id_/http%3A//www.xmind.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - XMind: The Most Professional Mind Map Software
+# Privacy Policy - XMind: The Most Professional Mind Mapping Software
 
 The privacy policy of XMind, Ltd. covers the collection and use of personal data. This information may be collected any time you have interactive contact with us, such as when you buy our products and services, interact with our websites and online forums, or communicate with our sales or technical support staff. Your privacy is important to us. Our practices in handling your personal information are described in more detail below.
 
@@ -68,3 +68,5 @@ If you have any comments or questions related to this privacy policy, please con
   * Skype: support.xmind
 
 
+
+Back to Top
