@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exclusivelicensingrights.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013232350id_/http%3A//exclusivelicensingrights.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exclusivelicensingrights.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142632id_/http%3A//exclusivelicensingrights.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -87,5 +87,5 @@ ExclusiveLicensingRights.com may, from time to time, employ the services of othe
 ExclusiveLicensingRights.com reserves the right to change this Privacy Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on the Web Site and you are deemed to have accepted the terms of the Policy on your first use of the Web Site following the alterations.
 
 No part of this website may be reproduced or transmitted in any form or by any means without written permission from ExclusiveLicensingRights.com  
-**Copyright 2010, MemberSpeed, Inc. and ExclusiveLicensingRights.com. All Rights Reserved.  
+**Copyright 2020, MemberSpeed, Inc. and ExclusiveLicensingRights.com. All Rights Reserved.  
 USA: 2248 Meridian Boulevard Suite H. Minden, NV 89423**
