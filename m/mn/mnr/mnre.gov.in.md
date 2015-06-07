@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mnre.gov.in privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202222110id_/http%3A//www.mnre.gov.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mnre.gov.in privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145650id_/http%3A//mnre.gov.in/privacy-policy) for the most accurate reproduction.*
 
 # Ministry of New and Renewable Energy - Privacy Policy
 
