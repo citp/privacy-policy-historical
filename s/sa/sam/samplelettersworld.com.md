@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samplelettersworld.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217034343id_/http%3A//www.samplelettersworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samplelettersworld.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145725id_/http%3A//www.samplelettersworld.com/privacy-policy) for the most accurate reproduction.*
 
 # SampleLettersWorld.com - Privacy Policy
 
