@@ -1,131 +1,413 @@
-> *The following text is extracted and transformed from the disney.in privacy policy that was archived on 2008-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080916232528id_/http%3A//registration.disneyin.com/privacy.htm%3Fp%3D1821%26fullScreen%3Dfalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disney.in privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140030id_/http%3A//www.disney.in/privacy) for the most accurate reproduction.*
 
-# Disney
+# Privacy Policy | Disney India
 
-**PRIVACY POLICY**
+The Walt Disney Company has a rich tradition of bringing great stories, characters and experiences to our guests around the world, and our sites and applications are created to entertain and connect guests with the best that Disney has to offer on the platforms and devices they prefer.
 
-For over 75 years, The Walt Disney Company has taken great pride in the relationships that it has developed with its guests. In keeping with this tradition, we at the Walt Disney Internet Group ("WDIG") are dedicated to protecting your privacy and handling any personal information we obtain from you with care and respect. 
+We have updated our privacy policy. Our updated policy is designed to provide greater transparency into our privacy practices and principles, in a new format that is easier to navigate, read and understand. We continue to treat your personal information with care and respect. 
 
-The terms and conditions contained in this policy constitutes the privacy policy ("Privacy Policy") governing the use of the Web Site (as defined in the Terms of Use) and shall be construed as a part of the Terms of Use. This Privacy Policy is designed to answer your questions regarding our privacy policies and principles. 
+**Privacy Policy**
 
-Q1 What information does this Privacy Policy cover?
+Effective Date: April 16, 2013
 
-Q2 What types of personally identifiable information do we collect about our guests?
+This privacy policy describes the treatment of information provided or collected on the sites where this privacy policy is posted. It also explains the treatment of information provided or collected on applications we make available on third-party sites or platforms if disclosed to you in connection with use of the application. We follow this privacy policy in accordance with local law in the places where we operate.
 
-Q3 How is your personally identifiable information used and shared?
+  1. Types of Information We Collect 
+  2. How We Collect Your Information
+  3. Use of Your Information by The Walt Disney Family of Companies
+  4. Sharing Your Information with Other Companies
+  5. Your Controls and Choices
+  6. Children’s Privacy
+  7. Data Security and Integrity
+  8. Data Transfers, Storage and Processing Globally
+  9. Changes to this Privacy Policy
+  10. Comments and Questions
 
-Q4 What choices do you have about the collection, use, and sharing of your personally identifiable information?
 
-Q5 What kinds of security measures do we take to safeguard your personally identifiable information?
 
-Q6 What kinds of additional privacy protections do we take for children under 13 and children between the ages of 13 and 17? 
+**1\. Types of Information We Collect**
 
-Q7 How can you update your contact information? 
+We collect two basic types of information - 
 
-Q8 How will you know if we amend this Privacy Policy?
+_personal information_
 
-**Q1 What information does this Privacy Policy cover?**
+and 
 
-**A1** Except as specifically described below in A2 and A7, this Privacy Policy applies only to personally identifiable information collected on the Web sites where this Privacy Policy is posted and does not apply to any other information collected by The Walt Disney Family of Companies through any other means. This Privacy Policy applies to use and sharing of personally identifiable information collected before, on, and after the date that this Privacy Policy is posted. We will also apply this Privacy Policy to personally identifiable information collected in the course of Non-Registered Transactions (as defined in A3) that occurred prior to the date that this Privacy Policy is posted, but only if the guest accepts the terms and conditions of this Privacy Policy. 
+_anonymous information_
 
-Disney India (www.disney.in) (the "Web Site") is controlled and run by Buena Vista Internet Group, part of The Walt Disney Family of Companies. As used in this Privacy Policy, "The Walt Disney Family of Companies" includes The Walt Disney Company and all of its subsidiaries and affiliated entities, as well as companies that generally offer their products and services under the "Disney" brand name, and are referred to in this Privacy Policy as "we," "us," "our," and "ourselves." 
+\- and we may use personal and anonymous information to create a third type of information, 
 
-In keeping with the traditions of The Walt Disney Company, we refer to customers of The Walt Disney Family of Companies as "guests." When this Privacy Policy uses the term "personally identifiable information," we mean information that identifies a particular individual, such as the individual's name, postal address, e-mail address, telephone number, credit card details, bank account details, gender and age. When other information, such as consumer product preferences or number of children, is directly associated with personally identifiable information, this other information also becomes personally identifiable information for purposes of this Privacy Policy. Personally identifiable information is sometimes referred to in this Privacy Policy as "personal information." Finally, the terms of this Privacy Policy are subject to all applicable laws. 
+_aggregate information._
 
-**Q2 What types of personally identifiable information do we collect about our guests?**
+We collect the following categories of information: 
 
-**A2** We collect several types of personally identifiable information about our guests. 
+  * Registration information you provide when you create an account, including your first name and surname, country of residence, gender, date of birth, email address, username and password
+  * Transaction information you provide when you request information or purchase a product or service from us, whether on our sites or through our applications, including your postal address, telephone number and payment information
+  * Information you provide in _public forums_ on our sites and _applications_
+  * Information sent either one-to-one or within a limited group using our message, chat, post or similar functionality, where we are permitted by law to collect this information
+  * Information you provide to us when you use our sites and applications, our applications on third-party sites or platforms such as social networking sites, or link your profile on a third-party site or platform with your registration account
+  * Location information when you visit our sites or use our applications, including location information either provided by a mobile device interacting with one of our sites or applications, or associated with your _IP address_, where we are permitted by law to process this information
+  * Usage, viewing and technical data, including your device identifier or IP address, when you visit our sites, use our applications on third-party sites or platforms or open emails we send 
 
-_Information You Provide to Us_
 
-Much of the personally identifiable information we receive comes directly from guests who are interested in obtaining various products and services from us. Typically, this information includes the guest's name, postal address, e-mail address, and telephone number. We may also collect other types of information such as gender, age, number of children, and personal interests, which we may associate with personally identifiable information. If you purchase products or services from us, we will note, for example, credit card information, the type of services or products ordered or purchased, and the date of the order or purchase. We collect personal information when you register on, log on, or visit our Web sites, including when you participate in activities on our Web sites, such as sweepstakes, contests, games and promotional offers. 
 
-_Information Collected Through Technology_
+**2\. How We Collect Your Information**
 
-We collect information through technology to make our sites more interesting and useful to you. For instance, when you come to one of our sites we collect your IP address. An IP address is often associated with the portal through which you enter the Internet, like your ISP (Internet service provider), your company, or your university. Standing alone your IP address is not personally identifiable. We also may use IP addresses to collect information regarding the frequency with which our guests visit various parts of our sites. We may combine this information with personally identifiable information. 
+  * We collect information you provide to us when you request products, services or information from us, register with us, participate in _public forums_ or other activities on our sites and _applications,_ respond to customer surveys, or otherwise interact with us. Please keep in mind that when you provide information to us on a third-party site or platform (for example, via our applications), the information you provide may be separately collected by the third-party site or platform. The information we collect is covered by this privacy policy and the information the third-party site or platform collects is subject to the third-party site or platform’s privacy practices. Privacy choices you have made on the third-party site or platform will not apply to our use of the information we have collected directly through our applications.
+  * We collect information through technology, such as cookies, Flash cookies and Web beacons, including when you visit our sites and applications or use our applications on third-party sites or platforms. 
+  * We acquire information from other trusted sources to update or supplement the information you provided or we collected automatically. Local law may require that you authorize the third party to share your information with us before we can acquire it.
 
-Our Web sites also use cookies. Cookies are pieces of information that a Web site sends to your computer while you are viewing the Web site. We and other companies use cookies for a variety of purposes. For instance, when you return to one of our sites after logging in, cookies provide information to the site so that the site will remember who you are. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your Web experience smoother (like the features mentioned above) and some of our services will not function properly. 
 
-Our Web sites use a variety of technical methods for tracking purposes, including Web beacons. Web beacons are small pieces of data that are embedded in images on the pages of Web sites. We also use these technical methods to analyze the traffic patterns on our Web sites, such as the frequency with which our users visit various parts of our Web sites. These technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. We also use these technical methods in HTML e-mails that we send our guests to determine whether our guests have opened those e-mails and/or clicked on links in those e-mails. The information from use of these technical methods may be collected in a form that is personally identifiable. 
 
-Many advertisements are managed and placed on our Web sites by third parties. These companies are called "network advertisers." Network advertisers who place advertisements on our Web sites may also use cookies and Web beacons to collect non-personally identifiable information when you click on or move your cursor over one of their banner advertisements. You may not realize this information is being collected. In some cases, we may have access to information from Web beacons and cookies used by network advertisers on our sites and this information may permit us to identify other sites that you have visited that are also associated with the network advertiser. Finally, once you've clicked on an advertisement and have left our Web sites, our Privacy Policy no longer applies and you must read the privacy policy of the advertiser to see how your personal information will be handled on their site. 
+**3.Use of Your Information by The Walt Disney Family of Companies**
 
-_Information That We Collect from Others_
+ _A member_
 
-We may supplement personally identifiable information that we have collected directly from our guests with other information that we obtain from third parties and other members of The Walt Disney Family of Companies. In addition, we may obtain information about individuals who are not yet users of our Web sites or guests of The Walt Disney Family of Companies. In addition, when we associate information that we obtain from third parties or other members of The Walt Disney Family of Companies with personally identifiable information that we have collected under this Privacy Policy, we will treat the acquired information like the information that we collected ourselves and, except as permitted by this Privacy Policy, the information will not be shared with third parties. 
+of 
 
-**Q3 How is your personally identifiable information used and shared?**
+_The Walt Disney Family of Companies_
 
-**A3** As described below and subject to your choices as described in A4, The Walt Disney Family of Companies may use your personally identifiable information in many ways, including sending you promotional materials, and sharing your information with third parties so that these third parties can send you promotional materials. (By "promotional materials," we mean communications that directly promote the use of our Web sites, or the purchase of products or services.) 
+, which includes many different brands, will be the data controller for your information. The relevant data controller(s) can be determined here [link to list of data controllers]. Other members of The Walt Disney Family of Companies may have access to your information where they perform services on behalf of the data controller(s) (as a 
 
-_Disney Family of Companies, Licensees and Co-Branding Participants_
+_data processor_
 
-Personally identifiable information collected under this Privacy Policy is shared among and used by The Walt Disney Family of Companies for many purposes. For example, The Walt Disney Family of Companies may use your personal information to send you promotional materials about goods and services (including special offers and promotions) either offered by The Walt Disney Family of Companies or offered by third parties. These promotional materials may be sent to you by postal mail, e-mail or other means. Please keep in mind, however, that when you purchase or request products or services from The Walt Disney Family of Companies, promotional materials may accompany delivery of that product or service. We refer to sending you promotional materials in these circumstances as "Fulfillment Uses" of your personal information. 
+) and, unless prohibited under applicable law, for use on their own behalf (as a data controller) for the following purposes: 
 
-The Walt Disney Family of Companies may also use your personal information for many purposes other than sending you promotional materials. (We refer to all of these types of uses of your personal information that do not involve the sending of promotional materials as "Operational Uses.") For example, we may use your information to complete transactions requested by you (such as your purchase of a product or service offered on our Web sites), or to send you administrative communications either about your account with us or about features of our Web sites, including any future changes to this Privacy Policy. As another example of Operational Uses, we may share your personal information with the Walt Disney World © Resort telephone reservations center so that the reservations center operators are able to respond immediately to your questions or requests when you call, rather than asking you to provide your information a second time. 
+  * Provide you with the products and services you request
+  * Communicate with you about your account or transactions with us and send you information about features on our sites and _applications_ or changes to our policies
+  * Consistent with local law and choices and controls that may be available to you:
+    * Send you offers and promotions for our products and services or third-party products and services 
+    * Personalize content and experiences on our sites and applications
+    * Provide you with advertising based on your activity on our sites and applications and on third-party sites and applications. 
+  * Optimize or improve our products, services and operations
+  * Detect, investigate and prevent activities that may violate our policies or be illegal
 
-In addition to using your personal information within The Walt Disney Family of Companies, The Walt Disney Family of Companies may share your personal information with companies that offer products and/or services under brand names of The Walt Disney Family of Companies. These companies are called "licensees." For example, a company that publishes and sells books under the "Disney" brand would be such a licensee. The Walt Disney Family of Companies may also share your information with companies that offer products and/or services that are co-branded using brand names of The Walt Disney Family of Companies. These companies are called "co-branding participants." For example, a Disney Visa card may be co-branded with the bank that issues that credit card. When The Walt Disney Family of Companies shares personal information with third parties acting as licensees and co-branding participants, these licensees and co-branding participants are restricted by contract from using the personal information for any marketing or promotional purpose that is not related to a licensed or co-branded product or service. 
 
-You may engage in transactions (such as purchasing products or services) without registering and logging on our Web sites. These transactions may be either with us or with other members of The Walt Disney Family of Companies. (We refer to all of these transactions that you engage in without registering and logging on our Web sites as "Non-Registered Transactions.") An example of a Non-Registered Transaction would be when you purchase items through a Disney e-commerce service without registering and logging on that Web site. When you engage in Non-Registered Transactions your information will not be shared with third parties and will not be used by any member of The Walt Disney Family of Companies to send you promotional materials other than the member involved in your transaction, except as separately permitted by other provisions of this Privacy Policy. 
 
-Finally, The Walt Disney Family of Companies may take your personally identifiable information and make it non-personally identifiable, either by combining it with information about other individuals (aggregating your information with information about other individuals), or by removing characteristics (such as your name) that make the information personally identifiable to you (de-personalizing your information). Given the nature of this information, there are no restrictions under this Privacy Policy upon the right of The Walt Disney Family of Companies to aggregate or de-personalize your personal information, and The Walt Disney Family of Companies may use and/or share with third parties the resulting non-personally identifiable information in any way. 
+**4.Sharing Your Information with Other Companies**
 
-_Third Parties Offering Promotions, Products, or Services_
+We will not share your 
 
-Subject to your choices under A4, The Walt Disney Family of Companies may share your personal information with selected third parties so that they can send you promotional materials about goods and services (including special offers and promotions) offered by them. (We call this type of sharing "promotional sharing" or sharing for "promotional purposes.") When sharing your information for promotional purposes, The Walt Disney Family of Companies attempts to select only reputable companies that offer high quality products and services. Moreover, The Walt Disney Family of Companies will not share your e-mail address with third parties for promotional purposes, except when you consent to such sharing in the course of your participation in a Sponsored Activity as described below. When The Walt Disney Family of Companies shares your personal information with a third party under any circumstance described in this "Third Parties Offering Promotions, Products, or Services" section, your personal information will become permanently subject to the information use and sharing practices of the third party, and the third party will not be restricted by this Privacy Policy with respect to its use and further sharing of your personal information. 
+_personal information_
 
-In addition to the promotional sharing that is subject to your choices under A4, The Walt Disney Family of Companies may also share your information when you engage in certain activities on our sites that are sponsored by third parties, such as purchasing products or services offered by a third party, electing to receive information or communications from a third party, or electing to participate in contests, sweepstakes, games or other programs sponsored in whole or in part by a third party. The Walt Disney Family of Companies may also share your personal information when you respond to promotional materials from The Walt Disney Family of Companies and authorize a third party to use your personal information for purposes such as, for example, sending you additional promotional materials, providing you a product or service, or entering you in a contest, sweepstakes or game. (We refer to all of these activities and requests as "Sponsored Activities.") When you participate in Sponsored Activities, you will either be required or requested to agree that the sponsor or business associate may use your personal information (including, in some cases, your e-mail address) in accordance with the sponsor or business associate's privacy practices. 
+outside 
 
-_Companies That Facilitate Communications and Transactions with You_
+_The Walt Disney Family of Companies_
 
-Sometimes The Walt Disney Family of Companies hires companies to help deliver products or services, like a shipping company that delivers a package or a company that helps fulfill prizes for a sweepstakes. In those instances, there is a need to share your information with these companies. Sometimes The Walt Disney Family of Companies also works with other companies who help either gather your information or communicate with you. Except as separately permitted by other provisions of this Privacy Policy, these companies are allowed to gather, receive, and use your information only for the purposes described in this paragraph or as required by law. 
+except in limited circumstances, including: 
 
-_Companies That You Previously Authorized to Obtain Your Information_
+  * When you allow us to share your personal information with another company, such as:
+    * Electing to share your personal information with carefully selected companies so that they can send you offers and promotions about their products and services
+    * Directing us to share your personal information with third-party sites or platforms, such as social networking sites
+Please note that once we share your personal information with another company, the information received by the other company becomes subject to the other company’s privacy practices. 
+  * When we cooperate with financial institutions to offer co-branded products or services to you, such as our co-branded Disney Rewards Visa Card; however, we will do so only if permitted by applicable law and, in these cases, the financial institutions are prohibited from using your personal information for purposes other than those related to the co-branded products or services
+  * When companies perform services on our behalf, like package delivery and customer service; however, these companies are prohibited from using your personal information for purposes other than those requested by us or required by law
+  * When we share personal information with third parties in connection with the sale of a business, to enforce our Terms of Use or rules, to ensure the safety and security of our guests and third parties, to protect our rights and property and the rights and property of our guests and third parties, to comply with legal process or in other cases if we believe in good faith that disclosure is required by law
 
-In certain circumstances, your dealings with a third party may have authorized that third party to obtain your personal information from The Walt Disney Family of Companies and to use that information in accordance with the third party's own privacy practices and policies. For example, in using an online shopping service (such as the shopping services offered by Internet portals that refer the portal's users to third-party merchants), you may have authorized that shopping service to obtain from the service's participating third-party merchants (including The Walt Disney Family of Companies) information about your purchases conducted through the shopping service. The Walt Disney Family of Companies will provide such companies only the information that you authorized (except as separately permitted under other provisions of this Privacy Policy). In the example given above, the shopping service would be provided only information concerning purchases you made from The Walt Disney Family of Companies through that shopping service, and would not be provided any other information concerning you, unless any additional sharing of your personal information were separately permitted under another provision of this Privacy Policy. 
 
-_Purchase or Sale of Businesses_
 
-From time to time, we may purchase a business or sell one or more of our businesses and your personally identifiable information may be transferred as a part of the purchase or sale. In the event that we purchase a business, the personally identifiable information received with that business would be treated in accordance with this Privacy Policy if it is practicable and permissible to do so. In the event that we sell a business, we will include provisions in the selling contract requiring the purchaser to treat your personally identifiable information in the same manner required by this Privacy Policy (including any amendments to this Privacy Policy). In light of this protection, nothing in this paragraph will affect our right to transfer your information to a purchaser in these circumstances. The provisions of this paragraph will also apply in the event that one or more businesses of any other member of The Walt Disney Family of Companies are sold and personal information subject to this Privacy Policy is transferred to a purchaser of those businesses. 
+**5.Your Controls and Choices**
 
-_Disclosures Required By Law and Disclosures to Help Protect the Security and Safety of Our Web Sites, The Walt Disney Family of Companies and Others_
+We provide you the ability to exercise certain controls and choices regarding our collection, use and sharing of your information. In accordance with local law, your controls and choices may include: 
 
-Regardless of any choices that you make under A4, The Walt Disney Family of Companies will disclose personal information when it believes in good faith that such disclosures (a) are required by law, including, for example, to comply with a court order or subpoena, or (b) will help to: enforce our Terms of Use; enforce contest, sweepstakes, promotions, and/or game rules; protect your safety or security, including the safety and security of property that belongs to you; and/or, protect the safety and security of our Web sites, The Walt Disney Family of Companies, and/or third parties, including the safety and security of property that belongs to The Walt Disney Family of Companies or third parties. 
+* You may correct, update and delete your registration account 
+* You may change your choices for subscriptions, newsletters and alerts
+* You may choose whether to receive from us offers and promotions for our products and services, or products and services that we think may be of interest to you
+* You may choose whether we share your _personal information_ with other companies so they can send you offers and promotions about their products and services
+* You may choose whether to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers [_here_](http://www.disney.in/DisneyOnline/j/redirect.jsp?redirectURL=http://www.youronlinechoices.com)
+* You may request access to the personal information we hold about you and that we amend or delete it and we request third parties with whom we have shared the information do the same
 
-**Q4 What choices do you have about the collection, use, and sharing of your personally identifiable information?**
+You may exercise your controls and choices, or request access to your personal information, by contacting 
 
-**A4** Disney provides guests with the opportunity of deciding whether to receive unsolicited communications from Disney and share personal information. This applies to information sent to Third Parties for promotions, products, and/or services unrelated to a specific transaction and information shared with the Walt Disney Family of Companies, licensees, co-branding participants, and others from time to time. You may make this decision when you first register on the Web Site and you may change your decision at any time by visiting http://registration.disneyin.com/IN.EN.DIS/homepage.jsp. 
+_Guest Services_
 
-This decision to receive communications or share information will not apply to information shared with companies that facilitate communications and transactions with you, information shared with companies that you previously authorized to obtain your information, information transferred as part of the purchase or sale of businesses, information used by the Disney family of companies for Operational Uses, Fulfillment Uses, or Non-Registered Transactions (as defined in A3), disclosures required by law, or disclosures to help protect the security and safety of our web sites. 
+, or following instructions provided in communications sent to you. Please be aware that, if you do not allow us to collect personal information from you, we may not be able to deliver certain products and services to you, and some of our services may not be able to take account of your interests and preferences. If you have questions regarding the specific personal information about you that we process or retain, please contact 
 
-**Q5 What kinds of security measures do we take to safeguard your personally identifiable information?**
+_Guest Services_
 
-**A5** The security and confidentiality of your information is extremely important to us. We have implemented technical, administrative, and physical security measures to protect guest information from unauthorized access and improper use. From time to time, we review our security procedures in order to consider appropriate new technology and methods. Please be aware that despite our best efforts, no security measures are perfect or impenetrable. 
+. 
 
-**Q6 What kinds of additional privacy protections do we take for children under 13 and children between the ages of 13 and 17?**
+**6.Children’s Privacy**
 
-**A6** Building on our general Privacy Policy, we recognize the need to provide additional privacy protections when children visit the sites. Below we explain how we do that for "kids." Also, when we use the term "parent" below, we mean to include legal guardians. 
+We recognize the need to provide further privacy protections with respect to 
 
-Kids can surf the Web Site and other WDIG sites, view content, and play many games without any personal information being collected. We do not collect personal information from kids unless they register on WDIG sites. Typically, kids will register in order to participate in sweepstakes or contests or to participate in a special activity. We collect the following information from kids during our registration process: the kid's first and last name, the pronunciation for the kid's name (in some jurisdictions), the kid's email address, the parent's email address, and the kid's birth date, member name, password, address, and telephone number. We collect birth dates to validate the ages of our guests, including kids. We do not collect any other personally identifiable information from kids during our registration process. 
+_personal information_
 
-If a kid is under 13 and registers with us, we will send an e-mail to the parent confirming the kid's registration. No personal information collected from a kid under 13 will be used for any marketing or promotional purposes, either by Disney or its affiliates. Moreover, for a kid under 13, no information should be submitted to or posted to Disney or any Disney affiliate without consent of the parent. 
+we may collect from 
 
-If a kid is 13 to 17 years old and registers with us, we will send an e-mail to the parent confirming the kid's registration. If a kid is 13 to 17 years old, we may, if a kid asks us, send the kid information or keep the kid informed about new activities on our web sites. 
+_children_
 
-We may collect personal information from parents in order to allow kids to participate in certain features located on our Web sites and within our kids' subscription products, such as Disney's Toontown Online. These features may include instant message chatting (for example, Secret Friends in Disney's Toontown Online), sending e-mail, posting on message boards, interacting with pen-pals, and other similar activities. In the course of a kid's participation in these features, a kid may also provide us additional information about himself or herself, such as the contents of his or her chat or message board postings. If a parent allows us to collect personal information about their kid, we may link certain information collected through technology (see the "Information Collected Through Technology" section of A2) to that personal information. 
+on our sites and applications. Some of the features on our sites and applications are age-gated so that they are not available for use by children, and we do not knowingly collect personal information from children in connection with those features. When we intend to collect personal information from children, we take additional steps to protect children’s privacy, including: 
 
-If a kid wins a competition or sweepstakes, we may publish a winner's first name, first initial of last name, city, and region of residence on our Web sites. Other procedures for competitions and sweepstakes are in the Terms of Use and in the rules for such competitions and sweepstakes, if any. 
+  * Notifying _parents_ about our information practices with regard to children, including the types of personal information we may collect from children, the uses to which we may put that information, and whether and with whom we may share that information
+  * In accordance with applicable law, obtaining consent from parents for the collection of personal information from their children, or for sending information about our products and services directly to their children
+  * Limiting our collection of personal information from children to no more than is reasonably necessary to participate in an online activity
+  * Giving parents access or the ability to request access to personal information we have collected from their children and the ability to request that the personal information be changed or deleted
 
-**Q7 How can you update your contact information and opt-in choices?**
 
-**A7** You can access and update the contact information you gave us during registration (that is, your postal address, e-mail address, or any other information that would directly enable us to contact you), or modify your opt-in choices, by going to our member services centers. Simply click on this link <http://registration.disneyin.com/IN.EN.DIS/homepage.jsp> or go to the Guest Services centers on our Web sites, and then log in with your member name and password. 
 
-Parents can also use this process to refuse to permit us to collect further personal information from their kid and can request that any personal information we have collected be deleted from our records. Parents can also access, change, or delete the personally identifiable information that we have collected from their kids. There are instructions on the start page of the link above to help you recover your password if you've forgotten it. 
+**7.Data Security and Integrity**
 
-Finally, you may unsubscribe from certain e-mail communications by clicking on unsubscribe links in those e-mails. 
+The security, integrity and confidentiality of your information are extremely important to us. We have implemented technical, administrative and physical security measures that are designed to protect guest information from unauthorized access, disclosure, use and modification. From time to time, we review our security procedures to consider appropriate new technology and methods. Please be aware though that, despite our best efforts, no security measures are perfect or impenetrable. 
 
-**Q8 How will you know if we amend this Privacy Policy?**
+**8.Data Transfers, Storage and Processing Globally**
 
-**A8** We may amend this Privacy Policy at any time. If we make any material changes in the way we collect, use, and/or share your personal information, we will notify you by sending you an e-mail at the last e-mail address that you provided us, and/or by prominently posting notice of the changes on the Web sites covered by this Privacy Policy. Any material changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on the Web sites covered by this Privacy Policy. 
+We operate globally and may transfer your 
 
-Please note that, at all times, you are responsible for updating your personal information to provide us your current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any other reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of personal information that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your information, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us.
+_personal information_
+
+to individual companies of 
+
+_The Walt Disney Family of Companies_
+
+or third parties in locations around the world for the purposes described in this privacy policy. Wherever your personal information is transferred, stored or processed by us, we will take reasonable steps to safeguard the privacy of your personal information. Additionally, when using or disclosing personal information transferred from the European Union, we abide by the Safe Harbor Principles as set forth by the U.S. Department of Commerce, use standard contract clauses approved by the European Commission, adopt other means under European Union law for ensuring adequate safeguards, or obtain your consent. We also apply the substantive requirements of the Safe Harbor Principles when transferring personal information from Australia. 
+
+**9.Changes to this Privacy Policy**
+
+From time to time, we may change this privacy policy to accommodate new technologies, industry practices, regulatory requirements or for other purposes. We will provide 
+
+_notice_
+
+to you if these changes are material and, where required by applicable law, we will obtain your consent. 
+
+**10\. Comments and Questions**
+
+If you have a comment or question about this privacy policy, please contact 
+
+_Guest Services_
+
+. 
+
+Our sites and 
+
+_applications_
+
+may contain links to other sites not owned or controlled by us and we are not responsible for the privacy practices of those sites. We encourage you to be aware when you leave our sites or applications and to read the privacy policies of other sites that may collect your 
+
+_personal information_
+
+. 
+
+Notice to California Residents: If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by certain 
+
+_members_
+
+of The Walt Disney Family of Companies to third parties for the third parties’ direct marketing purposes. With respect to these entities, this privacy policy applies only to their activities within the State of California. To make such a request, please send an email to caprivacy.wdig@twdc.com or write us: 
+
+CA Privacy Rights   
+Disney Interactive Media Group   
+500 South Buena Vista Street  
+Mail Code 7667  
+Burbank, CA 91521-7667  In your request, please specify the member of The Walt Disney Family of companies to which your request pertains. If no member is specified, we will treat your request as pertaining to Disney Online. 
+
+**Definitions**
+
+ _Aggregate Information._
+
+Aggregate information means information about groups or categories of guests, which does not identify and cannot reasonably be used to identify an individual guest. 
+
+_Anonymous Information._
+
+Anonymous information means information that does not directly or indirectly identify, and cannot reasonably be used to identify, an individual guest. 
+
+_Application._
+
+Application means a program or service operated by us (or on our behalf) that may be displayed on various online, mobile or other platforms and environments, including those operated by third parties, which permits us to interact directly with our guests.
+
+ _Children._
+
+Children means individuals who we have identified are not of legal age to consent to the collection and processing of their personal information. In the United States and Latin America, the term “children” refers to individuals under 13 years of age.
+
+ _Data Controller._
+
+The data controller is the subsidiary or affiliated entity of The Walt Disney Company that is responsible for the personal information collected from sites and applications, as follows: 
+
+Sites and Applications | Company | Contact Information  
+---|---|---  
+www.utvgroup.com | UTV Software Communication Limited | 1181-82, 8th Floor, Building No. 11, Solitaire Corporate Park, Guru Hargovindji Marg, Chakala, Andheri (E), Mumbai- 400093  
+bindass.com | GenX Entertainment Limited | 7th Floor, Building No. 11, Solitaire Corporate Park, Guru Hargovindji Marg, Chakala, Andheri (E ), Mumbai- 400093  
+utvstars.com | UTV Entertainment Television Limited | 7th Floor, Building No. 11, Solitaire Corporate Park, Guru Hargovindji Marg, Chakala, Andheri (E ), Mumbai- 400093  
+utvaction.in | GenX Entertainment Limited | 7th Floor, Building No. 11, Solitaire Corporate Park, Guru Hargovindji Marg, Chakala, Andheri (E ), Mumbai- 400093  
+utvworldmovies.com | UTV Entertainment Television Limited | 7th Floor, Building No. 11, Solitaire Corporate Park, Guru Hargovindji Marg, Chakala, Andheri (E ), Mumbai- 400093  
+www.disney.in | The Walt Disney Company (India) Private Limited | 4th Floor, Peninsula Tower No. 1, Peninsula Corporate Park, G.K. Marg, Lower Parel, Mumbai- 400013.  
+www.disneyxd.in | The Walt Disney Company (India) Private Limited | 4th Floor, Peninsula Tower No. 1, Peninsula Corporate Park, G.K. Marg, Lower Parel, Mumbai- 400013.  
+www.hungamatv.com | United Home Entertainment Private Limited | 4th Floor, Peninsula Tower No. 1, Peninsula Corporate Park, G.K. Marg, Lower Parel, Mumbai- 400013.  
+indiagames.in | Indiagames Limited | 11th Floor, Vishwaroop IT Park, Sector 30A, Opp. Vashi Railway Station, Navi Mumbai 400705  
+mobile.indiagames.com | Indiagames Limited | 11th Floor, Vishwaroop IT Park, Sector 30A, Opp. Vashi Railway Station, Navi Mumbai 400705  
+god.indiagames.com | Indiagames Limited | 11th Floor, Vishwaroop IT Park, Sector 30A, Opp. Vashi Railway Station, Navi Mumbai 400705  
+t20fever.com | Indiagames Limited | 11th Floor, Vishwaroop IT Park, Sector 30A, Opp. Vashi Railway Station, Navi Mumbai 400705  
+game.raonemovie.com | Indiagames Limited | 11th Floor, Vishwaroop IT Park, Sector 30A, Opp. Vashi Railway Station, Navi Mumbai 400705  
+www.clubpenguin.com | Disney Online Inc. | 500 Buena Vista Street, Burbank CA 91521  
+www.indiagames.com | Indiagames Limited | 11th Floor, Vishwaroop IT Park, Sector 30A, Opp. Vashi Railway Station, Navi Mumbai 400705  
+_Data Processor._
+
+A data processor is a person or entity that processes personal information on behalf of a data controller (or data controllers) and is permitted to perform data processing only as directed by the data controller(s). 
+
+_IP address._
+
+An IP address is associated with the access point through which you enter the Internet, and is typically controlled by your Internet Service Provider (ISP), your company, or your university. We may use IP addresses to collect information regarding the frequency with which our guests visit various parts of our sites and applications, and we may combine IP addresses with personal information. 
+
+_Member._
+
+Member means a subsidiary or affiliated entity that is part of The Walt Disney Family of Companies. 
+
+_Notice._
+
+Notice may be by email to you at the last email address you provided us, by posting notice of such changes on our sites and applications, or by other means, consistent with applicable law. 
+
+_Parents._
+
+Parents means a parent or legal guardian. 
+
+_Personal information._
+
+Personal information means information that identifies (whether directly or indirectly) a particular individual, such as the individual’s name, postal address, email address and telephone number. When anonymous information is directly or indirectly associated with personal information, this anonymous information also is treated as personal information. 
+
+_Public Forums._
+
+Our sites and applications may offer message boards, conversation pages, blogs, chat rooms, social community environments, profile pages, and other forums that do not have a restricted audience. If you provide personal information when you use any of these features, that personal information may be publicly posted and otherwise disclosed without limitation as to its use by us or by a third party. To request removal of your personal information from a public forum on one of our sites or applications, please contact 
+
+_Guest Services_
+
+. 
+
+_The Walt Disney Family of Companies._
+
+The Walt Disney Family of Companies refers to The Walt Disney Company and its subsidiary and affiliated entities, which offer their products and services under various brand names. These companies engage in a number of businesses, including theme parks and travel, motion pictures and television, publishing, consumer products and interactive services. The Walt Disney Company brands include, among others, the following: 
+
+ABC 
+
+Baby Einstein 
+
+Babble 
+
+BabyZone 
+
+Club Penguin 
+
+Disney 
+
+ESPN 
+
+Hollywood Records 
+
+Kaboose 
+
+Marvel 
+
+Muppets 
+
+Pixar 
+
+Playdom 
+
+Tapulous 
+
+Touchstone 
+
+UTV 
+
+**Guest Services Contact Information**
+
+India:
+
+Guest Services
+
+The Walt Disney Company (India) Private Limited  
+4th Floor, Peninsula Tower No. 1,   
+Peninsula Corporate Park, G.K. Marg,   
+Lower Parel, Mumbai- 400013, India
+
+  
+
+
+United State of America:
+
+Guest Services
+
+Disney Interactive Media Group  
+500 South Buena Vista Street  
+Mail Code 7667  
+Burbank, CA 91521-7667  
+United States of America
+
+Disney Interactive Media Group is a licensee of the TRUSTe Privacy Program in the United States. If you believe that Disney Interactive Media Group has not responded to your inquiry or your inquiry has not been satisfactorily addressed, you may contact TRUSTe 
+
+[_here_](http://www.disney.in/DisneyOnline/j/redirect.jsp?redirectURL=http://watchdog.truste.com/pvr.php?page=complaint)
+
+or the United States Federal Trade Commission through its online consumer complaint form available 
+
+[_here_](http://www.disney.in/DisneyOnline/j/redirect.jsp?redirectURL=https://www.ftccomplaintassistant.gov/)
+
+.
+
+ **Communication Choices**
+
+ **1\. Accessing Your Registration Account**
+
+You can access and update the contact information you gave us during registration (that is, your postal address, email address, or any other information that would directly enable us to contact you) or delete your registration account, here. [link to local account management page(s)] 
+
+Forgot your password? 
+
+Click here. 
+
+**2\. Accessing Your Child’s Registration Account**
+
+To request access and update the information your child gave us during registration or to request that we delete your child’s registration account, please contact 
+
+_Guest Services._
+
+**3\. Exercising Marketing Choices**
+
+To modify a general marketing permission that you provided when you registered and set up your account (or any later changes to that permission),please contact 
+
+_Guest Services._
+
+Following our receipt of your request to cease using your personal information for marketing purposes, we may require a reasonable period of time to update our systems to fully implement your request. 
+
+**4\. Choices for Subscriptions, Newsletters and Alerts**
+
+In addition to the general marketing choices managed above, you may choose to subscribe or unsubscribe to a number of communications covering a variety of topics. Please click on the links below to learn about many of these communications and set your choices. 
+
+_Click here_
+
+to subscribe to GoD packs 
+
+_Click here_
+
+to unsubscribe newsletters 
+
+**Online Tracking and Advertising**
+
+1\. Online Tracking and Advertising
+
+We and certain service providers operating on our behalf collect information about your activity on our sites and 
+
+_applications_
+
+using tracking technologies such as cookies, Flash cookies and Web beacons. Definitions for the tracking technologies listed, as well as information regarding how to disable them, are available below. This tracking data is used for many purposes including, for example, to: 
+
+  * Provide useful features to simplify your experience when you return to our sites and applications; for example, remembering your shipping information for future purchases
+  * Deliver relevant content based on your preferences, usage patterns and location
+  * Monitor and evaluate the use and operation of our sites and applications
+  * Analyze traffic on our sites and on the sites of third parties
+
+
+
+We may associate this tracking data with your registration account, in which case we will treat it as personal information. Service providers that collect tracking data on our behalf may provide an opportunity for you to choose not to be tracked online. Advertisers and third parties also may collect information about your activity on our sites and applications and on third-party sites and applications using tracking technologies. Tracking data collected by these advertisers and third parties is used to decide which ads you see both on our sites and applications and on third-party sites and applications, but does not identify you personally and is not associated with your registration account. You may choose not to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers 
+
+[_here._](http://www.disney.in/DisneyOnline/j/redirect.jsp?redirectURL=http://www.youronlinechoices.com/)
+
+In the United States, we adhere to the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising. 
+
+2\. Online Tracking Technologies
+
+Examples of online tracking technologies include:
+
+  * Cookies. Cookies are pieces of information that a website places on the hard drive of your computer when you visit the website. Cookies may involve the transmission of information from us to you and from you directly to us, to another party on our behalf, or to another party in accordance with its privacy policy. We may use cookies to bring together information we collect about you. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won’t have access to many features that make your guest experience more efficient and some of our services will not function properly.
+  * Flash cookies. We may use local shared objects, sometimes known as Flash cookies, to store your preferences or display content based upon what you view on our site to personalize your visit. Our advertisers and third-party service providers also may use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies, please [_click here._](http://www.disney.in/DisneyOnline/j/redirect.jsp?redirectURL=http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html) If you disable Flash cookies, you won’t have access to many features that make your guest experience more efficient and some of our services will not function properly.
+  * Web beacons. Web beacons are small pieces of data that are embedded in images on the pages of sites. Web beacons may involve the transmission of information directly to us, to another party on our behalf, or to another party in accordance with its privacy policy. We may use web beacons to bring together information we collect about you.
+
+
+
+[Addendum to Privacy Policy - For Indian residents](http://www.disney.in/addendum-to-global-privacy-policy)
