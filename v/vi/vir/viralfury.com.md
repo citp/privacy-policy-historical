@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viralfury.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120122917id_/http%3A//viralfury.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralfury.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607232359id_/http%3A//viralfury.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Viralfury
 
 The privacy of our visitors to ViralFury.com is important to us.
 
