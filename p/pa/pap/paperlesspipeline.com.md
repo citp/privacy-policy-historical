@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paperlesspipeline.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701175727id_/http%3A//www.paperlesspipeline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paperlesspipeline.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152631id_/http%3A//www.paperlesspipeline.com/privacy-policy) for the most accurate reproduction.*
 
 # We're serious about privacy | Paperless Pipeline
 
@@ -35,6 +35,9 @@ Questions
 
 Any questions about this Privacy Policy should be addressed to [help@paperlesspipeline.com](mailto:help@paperlesspipeline.com).
 
-100% free. No credit card required. Sign up in seconds.
+#### Paperless Pipeline
+
+100% free. No credit card required.  
+Sign up in seconds.
 
 [Go Back to the Paperless Pipeline Homepage](http://www.paperlesspipeline.com/ "Go Back to the Paperless Pipeline Homepage")
