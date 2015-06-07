@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the edufindme.com privacy policy that was archived on 2014-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141220064608id_/http%3A//edufindme.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the edufindme.com privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608004952id_/http%3A//edufindme.com/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
         <meta charset="utf-8">
@@ -9,21 +9,30 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
         <link rel="stylesheet" href="http://edufindme.com/styles/main.css">        <link rel="stylesheet" href="http://edufindme.com/styles/tips.css">        <link rel="stylesheet" href="http://edufindme.com/styles/form.css">        <link rel="stylesheet" href="http://edufindme.com/styles/header.css">        <link rel="stylesheet" href="http://edufindme.com/public/css_extra/general.css">
+        <link rel="stylesheet" href="http://edufindme.com/public/css_extra/profiles.css">
+
+        
+        <script>
+            var BASE_PATH = 'http://edufindme.com';
+        </script>
 
         <script src="http://edufindme.com/bower_components/modernizr/modernizr.js"></script>
 
-        <script type="text/javascript" src="http://edufindme.com/scripts/vendor.js"></script>        <script type="text/javascript" src="http://edufindme.com/scripts/app.js"></script>        <script type="text/javascript" src="http://edufindme.com/scripts/plugins.js"></script>        <script type="text/javascript" src="http://edufindme.com/scripts/vendor/jquery.validate.min.js"></script>        <script type="text/javascript" src="http://edufindme.com/scripts/vendor/jquery.form.js"></script>        <script type="text/javascript" src="http://edufindme.com/scripts/vendor/jquery.limit-1.2.source.js"></script>
-        <script type="text/javascript">
+        <script type="text/javascript" src="http://edufindme.com/scripts/vendor.js"></script>        <script type="text/javascript" src="http://edufindme.com/scripts/app.js"></script>        <script type="text/javascript" src="http://edufindme.com/scripts/plugins.js"></script>        <script type="text/javascript" src="http://edufindme.com/scripts/vendor/jquery.validate.min.js"></script>        <script type="text/javascript" src="http://edufindme.com/scripts/vendor/jquery.form.js"></script>        <script type="text/javascript" src="http://edufindme.com/scripts/vendor/jquery.limit-1.2.source.js"></script>                <script type="text/javascript">
             $(function () {
                 $( document ).on( "click", ".translate-this", function () {
+                    $.blockUI();
                     var text = $($(this).attr('data-target')).html();
                     $.post('http://edufindme.com/ajax/translate',{'text':text}, function(data) {
+                        $.unblockUI();
                         $('#modal-template-translate').modal('show');
                         $('#modal-template-translate .text').html(data);
                     });
                     return false;
                 });
             });
+
+            var BASE_PATH = 'http://edufindme.com';
         </script>
 
     </head>
@@ -47,7 +56,12 @@
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
         <header role="banner" class="banner">
-                <a href="http://edufindme.com" class="logo"><img src="http://edufindme.com/images/logo.png" alt="Edufindme" title="Ir para home do Edufindme"></a>
+                            <span class="mobile-menu-trigger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </span>
+                            <a href="http://edufindme.com" class="logo"><img src="http://edufindme.com/images/logo.png" alt="Edufindme" title="Ir para home do Edufindme"></a>
 
                 <nav role="navigation">
                     <!-- start menu -->
@@ -55,25 +69,26 @@
                 </nav>
 
                 
-                    <div class="register_box">
-        <a class="white_button" id="login_button">Login</a>
-        <div class="btn-group">
-            <a class="dropdown-toggle white_button signup_button" data-toggle="dropdown">Sign up</a>
-            <ul class="dropdown-menu dropdown-menu-right">
-                <li class="separator"><a href="http://edufindme.com/register/user/student" class="register_link">Student</a></li>
-                <li class="separator"><a href="http://edufindme.com/register/plans/institution" class="register_link">School</a></li>
-                <li class="separator"><a href="http://edufindme.com/register/plans/agent" class="register_link">Agent</a></li>
-                <li><a href="http://edufindme.com/register/user/government" class="register_link">Government Agency</a></li>
-            </ul>
+                            <div class="register_box">
+            <a class="white_button" id="login_button">Login</a>
+            <div class="btn-group">
+                <a class="dropdown-toggle white_button signup_button" data-toggle="dropdown">Sign up</a>
+                <ul class="dropdown-menu dropdown-menu-right">
+                    <li class="separator"><a href="http://edufindme.com/register/user/student" class="register_link">Student</a></li>
+                    <li class="separator"><a href="http://edufindme.com/register/plans/institution" class="register_link">School</a></li>
+                    <li class="separator"><a href="http://edufindme.com/register/plans/agent" class="register_link">Agent</a></li>
+                    <li><a href="http://edufindme.com/register/user/government" class="register_link">Government Agency</a></li>
+                </ul>
+            </div>
         </div>
-    </div>
-    <div class="language_box btn-group 00">
+        <div class="language_box btn-group en">
         <span class="helvetica_bold white float_left margin_right">Language: </span>
-        <a class="language_text azul_claro dropdown-toggle language float_left white_caret" data-toggle="dropdown">English <span class="caret"></span></a>
+        <a class="language_text azul_claro dropdown-toggle language float_left white_caret" data-toggle="dropdown">English (US) <span class="caret"></span></a>
 
         <ul class="dropdown-menu language-menu" role="menu">
                                             <li class="separator"><a class="language_link" tabindex="-1" href="http://00.edufindme.com/pages/privacy">English</a></li>
                                             <li class="separator"><a class="language_link" tabindex="-1" href="http://br.edufindme.com/pages/privacy">Português (Brasil)</a></li>
+                                            <li class="separator"><a class="language_link" tabindex="-1" href="http://ca.edufindme.com/pages/privacy">Català</a></li>
                                             <li class="separator"><a class="language_link" tabindex="-1" href="http://cn.edufindme.com/pages/privacy">简体字</a></li>
                                             <li class="separator"><a class="language_link" tabindex="-1" href="http://de.edufindme.com/pages/privacy">Deutsch</a></li>
                                             <li class="separator"><a class="language_link" tabindex="-1" href="http://en.edufindme.com/pages/privacy">English (US)</a></li>
@@ -83,7 +98,6 @@
                                             <li class="separator"><a class="language_link" tabindex="-1" href="http://ja.edufindme.com/pages/privacy">日本語</a></li>
                                             <li class="separator"><a class="language_link" tabindex="-1" href="http://ko.edufindme.com/pages/privacy">한국어</a></li>
                                             <li class="separator"><a class="language_link" tabindex="-1" href="http://nl.edufindme.com/pages/privacy">Nederlands</a></li>
-                                            <li class="separator"><a class="language_link" tabindex="-1" href="http://ru.edufindme.com/pages/privacy">Русский язык</a></li>
                                             <li class="separator"><a class="language_link" tabindex="-1" href="http://sp.edufindme.com/pages/privacy">Español</a></li>
                                             <li class="separator"><a class="language_link" tabindex="-1" href="http://th.edufindme.com/pages/privacy">ภาษาไทย</a></li>
                                             <li class="separator"><a class="language_link" tabindex="-1" href="http://tr.edufindme.com/pages/privacy">Türkçe</a></li>
@@ -144,9 +158,19 @@
         });
     </script>
 
-
+                <script>var current_area = '';</script>
             </header>
             <div class="main-content">
+                <li class="nav-item sidebar-menu-trigger">
+                    <span class="nav-link">
+                        <span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </span>
+                    </span>
+                </li>
+                <div class="overflow-menu"></div>
 
 <aside class="column sidebar">
     
@@ -266,7 +290,7 @@
                     remote: href,
                     keyboard: true
             });
-            
+
             $('#modal-template').off('hide.bs.modal');
             $('#modal-template').on('hide.bs.modal', function() {
 
@@ -278,10 +302,10 @@
                 }
 
             });
-            
+
             return false;
         });
-  
+
         // Script para ativar o menu correspondente ao action corrente
         $(document).ready(function() {
             var active_menu = "privacy";
@@ -300,7 +324,7 @@
                 confirm_text: 'Ok'
             });
         });
-        
+
         // hack para modalover
         $('#modal-template-confirm').on('hidden.bs.modal', function (e) {
             if ($('.modal-backdrop').length > 0) {
@@ -308,7 +332,7 @@
                 $('body').css('padding-right','15px');
             }
         });
- 
+
         $.confirm = function(user_options, callback) {
 
             var options = {
@@ -316,7 +340,7 @@
             };
 
             jQuery.extend(options, user_options);
-            
+
             $('#modal-template-confirm .modal-title').html(options.title);
 
             $('#modal-template-confirm .text').html(options.text);
@@ -325,7 +349,7 @@
             // hack para modalover
             $('#modal-template-confirm').css('z-index', 1052);
             $('.modal-backdrop:last').css('z-index', 1051);
-            
+
             if (options.confirm_text != undefined) {
                 $('#modal-template-confirm .confirm').show();
                 $('#modal-template-confirm .confirm').html(options.confirm_text);
@@ -347,7 +371,7 @@
                 if (callback != undefined) {
                     callback(true);
                 };
-                
+
                 return false;
 
             });
@@ -359,29 +383,68 @@
                 if (callback != undefined) {
                     callback(false);
                 };
-               
+
                 return false;
 
             });
 
-            
+
         };
-             
+        
     }( jQuery ));
 
 
 
 </script>
 
+
     
+<script type="text/javascript">
+
+    $(function() {
+        $.getScript( "http://edufindme.com/tracks/facebook/custom_audience/1", function( data, textStatus, jqxhr ) {});
+    });
+
+    adroll_adv_id = "7TVUV6S7IZCQHNT3X7HHJN";
+    adroll_pix_id = "6XCH3MULRBAR7AQPPDRALS";
+    (function () {
+    var oldonload = window.onload;
+    window.onload = function(){
+       __adroll_loaded=true;
+       var scr = document.createElement("script");
+       var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+       scr.setAttribute('async', 'true');
+       scr.type = "text/javascript";
+       scr.src = host + "/j/roundtrip.js";
+       ((document.getElementsByTagName('head') || [null])[0] ||
+        document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+       if(oldonload){oldonload()}};
+    }());
+</script>
+
 <!-- Start Alexa Certify Javascript -->
 <script type="text/javascript">
 _atrk_opts = { atrk_acct:"BI27k1a0Sn00qp", domain:"edufindme.com",dynamic: true};
 (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
 </script>
 <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=BI27k1a0Sn00qp" style="display:none" height="1" width="1" alt="" /></noscript>
-<!-- End Alexa Certify Javascript -->  
+<!-- End Alexa Certify Javascript -->
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"47578a2a51","applicationID":"2745045","transactionName":"NVABbRNVVhBYWxYICQwaIEwSQFcOFkgDBgMRGhNLCEJZAEA=","queueTime":0,"applicationTime":11,"atts":"GRcCG1tPRR4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 984287079;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/984287079/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"47578a2a51","applicationID":"2745045","transactionName":"NVABbRNVVhBYWxYICQwaIEwSQFcOFkgDBgMRGhNLCEJZAEA=","queueTime":0,"applicationTime":10,"atts":"GRcCG1tPRR4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
 <script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
