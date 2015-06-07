@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the reachout.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709203717id_/http%3A//reachout.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reachout.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607101557id_/http%3A//reachout.com/Privacy) for the most accurate reproduction.*
 
 # Privacy policy | ReachOut.com Australia
 
 The Inspire Foundation, it’s staff and volunteers who operate [http://au.reachout.com](http://au.reachout.com/), [http://forums.reachout.com](http://forums.reachout.com/), [http://www.inspire.org.au](http://www.inspire.org.au/), and any ReachOut.com and Inspire Foundation social media profiles, respect and are committed to maintaining the privacy of all visitors to this site. This policy (“Privacy Policy”) sets out how we deal with the collection, security, quality, use and disclosure of your Personal Information and Sensitive Information in accordance with the Privacy Act 1988 (Cth). 
 
-Your use of [http://au.reachout.com](http://au.reachout.com/), [http://forums.au.reachout.com](http://forums.au.reachout.com/), [www.inspire.org.au](https://web.archive.org/web/20140709203717id_/http%3A//reachout.com/www.inspire.org.au), or any other website through which you communicate with us (including through ReachOut.com and Inspire Foundation social media profiles such as Facebook, Twitter, Youtube, Myspace, etc) (referred to in this policy as the ‘Sites’) indicates that you accept this Privacy Policy, and consent to the collection and use by us of your Personal Information and Sensitive Information according to the terms below.
+Your use of [http://au.reachout.com](http://au.reachout.com/), [http://forums.au.reachout.com](http://forums.au.reachout.com/), [www.inspire.org.au](https://web.archive.org/web/20150619001828id_/http://au.reachout.com/www.inspire.org.au), or any other website through which you communicate with us (including through ReachOut.com and Inspire Foundation social media profiles such as Facebook, Twitter, Youtube, Myspace, etc) (referred to in this policy as the ‘Sites’) indicates that you accept this Privacy Policy, and consent to the collection and use by us of your Personal Information and Sensitive Information according to the terms below.
 
-If you have any questions, comments or concerns about this Privacy Policy, please [contact us.](http://au.reachout.com/Contact-Us)
+If you have any questions, comments or concerns about this Privacy Policy, please [contact us.](https://web.archive.org/contact-us)
 
 ##  **1.    What types of information do we collect?**
 
@@ -83,7 +83,7 @@ In the event that you provide Sensitive Information to us, we will only use or d
 
 ## 7\.    How can you access the Personal Information we hold about you?
 
-We will take all reasonable steps to keep your Personal Information or Sensitive Information up to date and accurate. If you would like to access a copy of the Personal Information or Sensitive Information we hold about you, or believe that the information we have is not up-to-date, complete or accurate, please [contact us](http://au.reachout.com/Contact-Us) as specified below.  You have the right to request the correction of any information which relates to you and we will take the appropriate steps to correct information we hold about you. 
+We will take all reasonable steps to keep your Personal Information or Sensitive Information up to date and accurate. If you would like to access a copy of the Personal Information or Sensitive Information we hold about you, or believe that the information we have is not up-to-date, complete or accurate, please [contact us](https://web.archive.org/contact-us) as specified below.  You have the right to request the correction of any information which relates to you and we will take the appropriate steps to correct information we hold about you. 
 
 ## 8\.    Our commitment to information security
 
@@ -97,5 +97,5 @@ We may from time to time change this Privacy Policy and will post updated versio
 
 ## 10\.    How to contact us
 
-If you want to access or correct your Personal Information or Sensitive Information, opt out of receiving our marketing materials, cancel your membership with us, or have any questions about this Privacy Policy [please contact us.  ](http://au.reachout.com/Contact-Us)  
+If you want to access or correct your Personal Information or Sensitive Information, opt out of receiving our marketing materials, cancel your membership with us, or have any questions about this Privacy Policy [please contact us.  ](https://web.archive.org/contact-us)  
 
