@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the bevmo.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617230124id_/http%3A//www.bevmo.com/misc/contentpage.aspx%3Fcontentpageid%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bevmo.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185818id_/http%3A//www.bevmo.com/misc/contentpage.aspx%3Fcontentpageid%3D3) for the most accurate reproduction.*
 
-# 
+# BevMo! - BevMo! Privacy and Security Policy
 
-|  |   
+|   
   
-| 
-
 ### View inventory available for  
   
 ---  
@@ -13,6 +11,11 @@
 Please Select
 
 |   
+  
+SHOP ONLINE &   
+PICK UP IN 1 HOUR 
+
+[ ](https://web.archive.org/web/20150607185818id_/http%3A//www.bevmo.com/Shop/SavingsAward.aspx)  
   
 **BevMo! Privacy and Security Policy**
 
@@ -57,5 +60,5 @@ If you have any concerns or questions with respect to our Privacy Policy, please
 
 [contact us](https://web.archive.org/misc/CustomerService.aspx). By using this site, you are agreeing to the conditions of this Privacy Policy. DO NOT USE THIS SITE IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY. If we decide to change our Privacy Policy in whole or in part it will be posted on the site. Please check this page periodically for changes.
 
-Copyright © 2000-2013 BevMo.com. All rights reserved. See our [ Privacy Statement](https://web.archive.org/misc/contentpage.aspx?contentpageid=3)  
+Copyright © 2000-2015 BevMo.com. All rights reserved. See our [ Privacy Statement](https://web.archive.org/misc/contentpage.aspx?contentpageid=3)  
 Website design and hosting by [VisionOne](http://www.visionone.ws/), Inc. 
