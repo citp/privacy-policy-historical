@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the news247.com.ng privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120203905id_/http%3A//www.news247.com.ng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news247.com.ng privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607154250id_/http%3A//www.news247.com.ng/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which news247.com.ng collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.news247.com.ng](https://web.archive.org/web/20141120203905id_/http%3A//www.news247.com.ng/www.news247.com.ng) website ("Site"). This privacy policy applies to the Site and all products and services offered by news247.com.ng.
+This Privacy Policy governs the manner in which nets247.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.nets247.com](https://web.archive.org/web/20150607154250id_/http%3A//www.news247.com.ng/www.nets247.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by nets247.com.
 
 **Personal identification information**
 
@@ -18,7 +18,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 **How we use collected information**
 
-news247.com.ng may collect and use Users personal information for the following purposes:
+nets247.com may collect and use Users personal information for the following purposes:
 
   * _\- To improve our Site_  
 We may use feedback you provide to improve our products and services.
@@ -47,7 +47,7 @@ Some of the ads may be served by Google. Google's use of the DART cookie enables
 
 **Changes to this privacy policy**
 
-news247.com.ng has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+nets247.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
@@ -56,8 +56,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[news247.com.ng](https://web.archive.org/web/20141120203905id_/http%3A//www.news247.com.ng/www.news247.com.ng)  
-[www.news247.com.ng](https://web.archive.org/web/20141120203905id_/http%3A//www.news247.com.ng/www.news247.com.ng)  
+[nets247.com](https://web.archive.org/web/20150607154250id_/http%3A//www.news247.com.ng/www.nets247.com)  
+[www.nets247.com](https://web.archive.org/web/20150607154250id_/http%3A//www.news247.com.ng/www.nets247.com)  
 tony3433@gmail.com
 
 This document was last updated on November 07, 2013
