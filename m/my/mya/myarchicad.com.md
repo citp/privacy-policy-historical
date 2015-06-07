@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myarchicad.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230020901id_/http%3A//www.graphisoft.com/info/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myarchicad.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140022id_/http%3A//www.graphisoft.com/info/legal/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
