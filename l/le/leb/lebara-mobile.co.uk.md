@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lebara-mobile.co.uk privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019134624id_/http%3A//www.lebara.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lebara-mobile.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142721id_/http%3A//www.lebara.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Lebara Mobile
+# Free SIM cards | Free pay as you go SIM cards & deals | Lebara
 
 In this privacy policy, if you are a user of   
 (i) Lebara Mobile Phone services, references to " **we** ", " **us** " and " **Lebara** " are to Lebara Mobile Ltd.  
@@ -99,13 +99,7 @@ viii) Digital Subscriber Line (DSL) or other end point of the originator of a co
 
 **7 Accessing your Information**  
 7.1 If you are a Lebara Registered Customer, you may verify, update or amend the personal information you have provided to Lebara online at any time by clicking on " **Edit User Profile** " under the website navigation heading " **My Lebara** ". The 'opt-in' on the website allows you to select whether you receive marketing information from Lebara only, or from our business partners. You can opt-out of either or both at any time.   
-7.2 We can supply certain types of personal information on request: including but not limited to billing, name and address, aggregated phone usage. Requests should be made in writing and include your name, mobile telephone number and proof of your identity (such as a photocopy of your passport, birth certificate or driving licence) and address (for example, a copy of a utility bill or bank statement), and the information you require. We'll charge you £10 to cover the administrative cost of supplying the requested information. If we hold any inaccurate information about you, please tell us and we will correct it.  
-Our address is: Data Controller  
-Lebara   
-2nd Floor, 25 Copthall Ave  
-London  
-EC2R 7BP
-
+7.2 You may request copies of your personal data held by Lebara by making a subject access request in writing using the form provided by Lebara upon request or available for download by [clicking here](https://web.archive.org/medias/sys_master/h3c/h00/8916354072606.doc). Your form, once completed should be addressed to Lebara’s Legal Department as set out in the standardised form and sent together with proof of your identity (such as a photocopy of your passport, birth certificate or driving licence) and a cheque for £10 to cover the administrative cost of supplying the requested information. Provision of such information will be made with 40 days of Lebara’s receipt of your request   
 **8 Changes to this Policy**  
 We will keep this policy under review and any changes made from time to time will be posted on this page.
 
