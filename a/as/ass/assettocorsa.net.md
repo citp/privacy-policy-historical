@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the assettocorsa.net privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121020742id_/http%3A//www.assettocorsa.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assettocorsa.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607065342id_/http%3A//www.assettocorsa.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Assetto Corsa
 
