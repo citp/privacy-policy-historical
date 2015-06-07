@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promojukebox.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120050445id_/http%3A//promojukebox.com/_pjs--privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promojukebox.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607035915id_/http%3A//promojukebox.com/_pjs--privacy.html) for the most accurate reproduction.*
 
 # PromoJukeBox - watermarked music promotion
 
@@ -61,7 +61,7 @@ of Push Media Promotion GmbH
   
 ### 6\. Information
 
-6.1.| Upon request, you may contact Push Media Promotion GmbH, Dorfstr. 12b, 85591 Vaterstetten by telephone at +49 (0) 152 5726 0928 in order to obtain information regarding data about you or your pseudonym. You may also email your questions to us at [info@promojukebox.com](mailto:info@promojukebox.com)  
+6.1.| Upon request, you may contact Push Media Promotion GmbH, Dorfstr. 12b, 85591 Vaterstetten by telephone at +49 (0) 89 457 087 42 in order to obtain information regarding data about you or your pseudonym. You may also email your questions to us at [info@promojukebox.com](mailto:info@promojukebox.com)  
 ---|---  
   
 _Push Media Promotion GmbH, Stand April 2014_
