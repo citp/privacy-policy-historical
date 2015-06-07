@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the looki.com privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716011703id_/http%3A//www.looki.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the looki.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607052653id_/http%3A//www.looki.us/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -44,12 +44,12 @@ Our online portal containes links to other websites. We have no influence on whe
 
 ## Access Right
 
-You have the right to obtain information about your personal data, its origin and recipient and the purpose of storage. Our data protection supervisor [Lars Rohrbeck](mailto:lars.rohrbeck@nextidea.de) will give you information about the stored data.
+You have the right to obtain information about your personal data, its origin and recipient and the purpose of storage. Our data protection supervisor [Andreas Planer](mailto:info@looki.com) will give you information about the stored data.
 
 ## More information
 
-Your trust is important to us. Therefore we will always to justify ourself to you concerning the processing of your personal data. If you have any questions, you are not answered by this privacy policy, or if you want more in-depth information, please contact our data protection supervisor [Lars Rohrbeck](mailto:lars.rohrbeck@nextidea.de) at any time.
+Your trust is important to us. Therefore we will always to justify ourself to you concerning the processing of your personal data. If you have any questions, you are not answered by this privacy policy, or if you want more in-depth information, please contact our data protection supervisor [Andreas Planer](mailto:info@looki.com) at any time.
 
 ## Personal Data
 
-To delete your personal data, please contact us via email to our data protection officer [Lars Rohrbeck](mailto:lars.rohrbeck@nextidea.de). 
+To delete your personal data, please contact us via email to our data protection officer [Andreas Planer](mailto:info@looki.com). 
