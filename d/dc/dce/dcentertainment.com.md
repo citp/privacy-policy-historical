@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dcentertainment.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215225504id_/http%3A//www.dcentertainment.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcentertainment.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607135426id_/http%3A//www.dcentertainment.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DC Entertainment
 
