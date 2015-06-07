@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the early-pregnancy-tests.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220041622id_/http%3A//www.early-pregnancy-tests.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the early-pregnancy-tests.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607193431id_/http%3A//www.early-pregnancy-tests.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Early Pregnancy Tests Privacy Policy
 
