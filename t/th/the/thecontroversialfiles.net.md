@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the thecontroversialfiles.net privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113201902id_/http%3A//www.thecontroversialfiles.net/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecontroversialfiles.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607131028id_/http%3A//www.thecontroversialfiles.net/p/your-privacy-is-of-utmost-importance-to.html) for the most accurate reproduction.*
 
-# Privacy Policy - LIBRARY OF MOST CONTROVERSIAL FILES
+# Privacy Policy | The Controversial Files
 
-Your privacy is of utmost importance to us here at www.thecontroversialfiles.net. Rest assured that any information you provide will only be used in accordance with this privacy statement.
+Your privacy is of utmost importance to us here at The Daily Trends. Rest assured that any information you provide will only be used in acc...
+
+Your privacy is of utmost importance to us here at The Daily Trends. Rest assured that any information you provide will only be used in accordance with this privacy statement.
 
 This policy may be updated or changed anytime and we encourage you to review it whenever you visit the site to make sure you understand how any personal information you provide will be used.
 
@@ -31,7 +33,7 @@ Our site may contain links to other websites of interest. However, once you use 
 **  
 Privacy Contact Information**
 
-Should you have any questions, concerns, or comments about our privacy policy, please contact us via email at _ _ support@thecontroversialfiles.net 
+Should you have any questions, concerns, or comments about our privacy policy, please contact us via email at _ _   support@thecontroversialfiles.net
 
 **  
 ****Terms and Conditions**
@@ -39,3 +41,5 @@ Should you have any questions, concerns, or comments about our privacy policy, p
 All content provided on this blog is for informational purposes only. The owner of this blog makes no representations as to the accuracy or completeness of any information on this site or found by following any link on this site. The owner will not be liable for any errors or omissions in this information nor for the availability of this information. The owner will not be liable for any losses, injuries, or damages from the display or use of this information.
 
 This policy is subject to change at anytime.
+
+. 
