@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the caboki.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216105840id_/http%3A//www.caboki.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caboki.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607090012id_/http%3A//www.caboki.com/privacy.html) for the most accurate reproduction.*
 
 # Caboki.com Privacy Policy
 
 [](https://privacy.truste.com/privacy-seal/Caboki-LLC/validation?rid=77d084e1-ea14-484c-8630-173af672ae2a "TRUSTe online privacy certification")
 
-**Effective: December 1, 2013**
+**Effective: February 10, 2015**
 
 Caboki LLC ("Caboki") values the protection of individual privacy. This privacy policy sets forth Caboki's privacy policy for the site, and governs the manner in which we collect, use, maintain and disclose information collected from our users. By using our site [www.caboki.com](http://www.caboki.com/), you agree to be bound by this privacy policy. If you do not agree to this privacy policy, please do not use the site.
 
-Caboki has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@caboki.com](mailto:privacy@caboki.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+Caboki has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this website. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@caboki.com](mailto:privacy@caboki.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
-**We will never sell, barter, or rent your email address to any third party other than as disclosed within this privacy policy.**
+**We will never share, sell, barter, or rent your personal information such as your email address to any third party other than as disclosed within this privacy policy.**
 
 ## How we gather information from users
 
@@ -56,39 +56,41 @@ We will retain your information for as long as your account is active of as need
 
 We post customer reviews/video reviews on our Web site which may contain personal information. We do obtain the customer’s consent via email prior to posting the testimonial to post their name along with their testimonial/video. To request removal of your personal information or video from our reviews, contact us at [privacy@caboki.com](mailto:privacy@caboki.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-## Cookies
+## Surveys
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+We may provide you the opportunity to participate in contests or surveys on our site.  If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information.  The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). 
 
-We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time.
+We use this information Describe fully how the data collected is to be used, e.g., to notify contest winners and award prizes, to monitor site traffic or personalize the site (in the case of anonymous information collected in surveys), to send participants an email  newsletter.
 
-We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. You can remove persistent cookies by following directions provided in your Internet browser’s "help" directory.
+We use a third party service provider to conduct these surveys or contests; that company is prohibited from using our users’ personally identifiable information for any other purpose. Use the latter disclosure only if your service-provider contracts expressly prohibit this. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
+## Social Media Widgets
+
+Our Web site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+## Tracking Technologies
+
+Technologies such as: cookies, beacons, tags and scripts are used by [www.caboki.com](http://www.caboki.com/) and our partners specify type e.g. marketing partners, affiliates, or analytics or service providers specify type e.g. online customer support provider, etc. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+
+We use cookies for our shopping cart, to remember users’ settings (e.g. language preference), for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+
+## Log Files
 
 As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
 We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
 
-We do [do not] link this automatically-collected data to personally identifiable information.
+We do link this automatically-collected data to personally identifiable information.
 
-The use of third party cookies is not covered by our privacy policy. We do not have access or control over these cookies.
+## Flash LSO
 
-## Clear Gifs (Web Beacons/Web Bugs)
+Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as Flash to collect and store information. To manage Flash LSOs please click here:[](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
 
-We employ or our third party tracking utility service employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We tie do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
-
-## Flash LSOs
-
-We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
-
-Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here:
-
-<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
+<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
 ## Behavioral Targeting/ Re-Targeting
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 ## Security
 
@@ -112,4 +114,5 @@ We may update this privacy statement to reflect changes to our information pract
 
 Caboki LLC  
 4222 Fortuna Center Plaza #806  
-Dumfries, VA 22025
+Dumfries, VA 22025  
+Email: service@caboki.com
