@@ -1,197 +1,129 @@
-> *The following text is extracted and transformed from the zsassociates.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121213915id_/http%3A//www.zsassociates.com/Home/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zsassociates.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607150515id_/http%3A//www.zsassociates.com/Home/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | ZS Associates
+# 
 
-## ZS Associates Online Privacy Statement
+## ZS Associates  
+Web Site Privacy Policy  
+Last Updated: May 19, 2015
 
-ZS Associates is committed to protecting the privacy of confidential and personal information, including personal data relating to individuals who may be clients, staff, agents, personnel, students, job applicants, patients or professionals in the medical, health, pharmaceutical or biotech sectors or others inside or outside of ZS Associates. This Privacy Statement is based on the privacy and data protection principles applicable in the countries in which we operate and the Safe Harbor Framework established by the United States Department of Commerce. We apply it in light of our over-arching obligations to comply with the law, and commitments to preserve confidential information. 
+## Privacy Policy
 
-This Privacy Statement is intended to summarize ZS Associates’ data protection practices generally, and to advise our clients, interested students, job applicants, website visitors, and other third parties about our privacy polices that may be applicable to them.
+ZS Associates is committed to protecting the privacy of our clients and any other visitors to our Web site. This Privacy Policy describes our current practices regarding the personal data that we collect from you when you visit and use our Web site. Personal data is information that identifies you, such as your name, e-mail address, or mailing address.
 
-This Privacy Statement applies to data collected by ZS Associates through its Website and services and is specifically addressed to parties outside ZS Associates who provide personal information to ZS Associates or who visit or use ZS Associates’ Website.  It does not apply to those ZS Associates sites, services and products that do not display or link to this Privacy Statement or that have their own privacy statements.
+This Privacy Policy applies to this Web site or any online service we offer that links to this Privacy Policy. Other sites and services we offer may have different privacy policies that apply to them.
 
-## **Your Consent**
+If you are a current, prospective, or former ZS employee, please review ZS’s Employee Privacy Notice available when you apply to a job and on the company’s intranet. 
 
-IMPORTANT: BY SUBMITTING PERSONAL DATA TO ZS ASSOCIATES AND/OR BY USING THIS WEBSITE YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA THAT YOU SUBMIT MAY BE PROCESSED BY ZS ASSOCIATES IN THE MANNER AND FOR THE PURPOSES DESCRIBED BELOW.
+By using this Web site and providing us with any of your personal data, you consent to us collecting and processing your data as described below.
 
-## **Collection and Use of Personal Data**
+**Data We Collect**
 
-ZS Associates does not collect from visitors to its Website any personally identifiable information about you, such as your name, job description, e-mail address or mailing address (“Personal Data”) that is not voluntarily provided. You do not have to submit any personal data in order to use this website. If you do provide Personal Data, we may combine such Personal Data with other publically available data about you and use that data for the following purposes: 
+We collect both anonymous and identifiable information about our Web site users. We only collect identifiable information that you voluntarily provide to us. You are not required to provide us with identifiable information to use this Web site.
 
-  * We may contact you occasionally to inform you of new products and services we will be providing. 
-  * We may send you regular updates on issues we think will be of interest to you. 
-  * We may send you requested information on our products and services. 
-  * We may use your Personal Data for marketing purposes and market research. 
-  * We may, in circumstances where we act as a Data Processor for third parties, process your data strictly in accordance with the instructions of that third party. 
-  * We may use your Personal Data internally to administer this Website and to help us improve our services. 
-  * We may use your Personal Data in processing your job application to ZS Associates. Such processing may include evaluation of your application for other positions within ZS Associates for which you may be interested or qualified. 
-  * We may provide you with services, if you are or become a client of ZS Associates, and/or deal with any requests or inquiries you may have. 
-  * We may use your Personal Data to enter into or carry out contracts of various kinds. 
-  * We may use your Personal Data to comply with applicable laws or regulations in a country.If you do not wish to receive e-mails or mail from us for these purposes, please let us know by contacting us as described below. 
+**Sensitive Personal Data**
 
+We do not intentionally collect any sensitive personal data through our Web site. Sensitive personal data means the various categories of personal data identified by applicable data privacy laws as requiring special treatment. These categories can include data relating to ethnic origin or race, marital status, political opinions or affiliations, trade union membership, religious beliefs, physical or mental health, sexual orientation, or criminal record. We therefore suggest that you do not provide sensitive personal data of this type to us. If you do provide us with any sensitive personal data, you are consenting to us using this data in the ways described in this Privacy Policy.
 
+**Anonymous Data We Collect**
 
-If you do not wish to receive e-mails or mail from us for these purposes, please let us know by contacting us as described below. 
+We use technologies that collect anonymous information about the use of our Web site. This technology does not identify you personally. We use this information to compile statistics about our visitors and the ways they use our Web site. For example, we log which pages users access and which Web browsers and operating systems they use. We may also determine which domain you are coming from before visiting our Web site to more accurately gauge our users' demographics.
 
-## **User Postings**
+**Identifying Data We Collect**
 
-Our site may contain areas where you may be able to publicly post information and communicate with others, such as blogs and discussion boards. We may collect and process any information that you post on our website. Prior to posting in these areas, please read our Terms of Use carefully. All of the information you post will be accessible to anyone with Internet access, and any Personal Data you include in your posting may be read, collected, and used by others. Please avoid posting Personal Data.
+If you choose to subscribe to one of our blogs or to receive access to some of our thought-leadership materials, you will be asked to provide us with some personal data, including your name and e-mail address. We will use this information to provide you with the subscriptions and materials you request. With your permission, we may also use this information to provide you with details about our products and services that may be of interest to you.
 
-The content of this site is intended to be informative and is not professional or business advice.
+Portions of our Web site, such as our blogs, allow users to post comments. These comments are reviewed before appearing online, and, once posted, are publicly available. In order to leave a comment, you may be required to enter your name and e-mail address. Your e-mail address will not appear online unless you include it within the text of your comment. Please be careful about including any personal data in any comments you make.
 
-## **Confidentiality of Client Information**
+On occasion, we may have surveys available through our Web site that you can voluntarily participate in. We will compile the results of these surveys to create reports available through our Web site or to provide to our clients or third parties. Information we collect from you through these surveys will be anonymized and aggregated so that the final reports will not include any information that can identify you. Please be aware that any information that you provide to us in survey responses will belong to us.
 
-Consistent with our client obligations, it has always been the policy of ZS Associates to exercise the utmost discretion regarding the information our clients entrust to us. ZS Associates accepts and processes confidential client information always subject to the client’s direction and control, and ZS Associates maintains reasonable and appropriate, although not infallible, security precautions. Operating internationally, we operate systems that may make data related to your matters accessible from our various offices around the world and often transfer client data between our offices. We never trade, sell or share your information with any unrelated parties except as necessary or appropriate to conduct ZS Associates’ business activities, subject to appropriate confidentiality, privacy and information security commitments provided by the receiving party, or to further your interests or as permitted or required by law or as authorized or directed by you. Please feel free to raise any questions, concerns or specific directions you may have regarding the privacy and security of your information to the ZS Associates Principal who is handling your matter or to [dataprivacy@zsassociates.com](mailto:dataprivacy@zsassociates.com). 
+We will also collect your device’s IP address. This data is collected automatically when you access our Web site in order to provide the services to you. This information also helps us to diagnose problems with our server and to improve the services we offer to you. 
 
-## **Disclosure and Transfer of Personal Data**
+**Tracking Technologies We Use**
 
-We do not share, sell, or distribute your Personal Data to unrelated third parties outside of ZS Associates, except to our agents or data processors or other contractors acting on our behalf and at our direction, subject to appropriate confidentiality, privacy and information security commitments provided by the receiving party, or where we believe it necessary to provide a service which you have requested, or as permitted or required by law, or as otherwise authorized or directed by you, including and under these limited circumstances:
+In order to collect the anonymous data described above, we may use cookies. A cookie is a small piece of information that is sent to your browser and stored in your device’s memory. You may be able to set your browser or device to notify you when you receive a cookie. This would enable you to decide if you want to accept it or not. However, some of the services and features offered through our online services may not function properly if your cookies are disabled.
 
-Personal Data may occasionally be transferred or shared with or among ZS Associates’ direct or indirect affiliates for further processing in accordance with the purposes for which such Personal Data was originally collected.  We may also share your Personal Data with third parties who we use to support our business. For example, sometimes a third party may have access to your Personal Data in order to support our information technology or to handle mailings on our behalf or for validation services within the context of recruitment. 
+We use cookies to deliver services requested by you, as well as to improve the quality of our online services by storing user preferences and monitoring user trends. We use several types of cookies: 
 
-  * Where you have consented, we may also share your Personal Data with or among ZS Associates’ direct or indirect affiliates or with other businesses who may contact you about their products or services that may interest you. 
-  * We may also share your personal information with other companies within our group of companies or disclose your personal information to other businesses may wish to receive and use research data about you. Where we do so we will anonymize your information as far as possible, so that you cannot be identified. 
+  * Authentication and authorization cookies allow access to secure areas and specific functionality of the online services. These are strictly necessary for the proper operation of our Web site and the services that we provide to you.
+  * Personalization cookies allow our Web site to remember choices you make and provide personalized features. They may also be used to provide services in the way you have specified.
+  * Tracking cookies collect information about how you use our Web site, what pages you visit on our Web site, and how often. We use this information to improve our Web site.
 
 
 
-We may share, transfer or disclose the information in our databases and server logs to comply with a legal requirement, for the administration of justice, interacting with anti-fraud databases, to protect your vital interests, to protect the security or integrity of our databases or this Website, to take precautions against legal liability, or in the event of our sale, merger, reorganization, dissolution or similar event. We will inform you of any such transfer or disclosure as required by law. 
+At this time due to a lack of industry standards, our Web site does not respond to browser “Do Not Track” signals. 
 
-Where appropriate, before disclosing Personal Data to a third party, we contractually require the third party to take adequate precautions to protect that data and to comply with applicable law. 
+We also use pixel tags (also known as web bugs, web beacons, clear gifs, and other terms) in the marketing e-mails we send. These non-intrusive tags help us know when you view our e-mails. We use this information to understand what kinds of content are of interest to you. You may be able to disable such tracking by setting your e-mail client to display messages as text only or by turning off image display.
 
-We may transfer your Personal Data to other affiliated offices of ZS Associates for the purposes set out for use of Personal Data in this Privacy Statement. Such transfers may involve the transfer of your information between jurisdictions and outside of the jurisdiction in which you submitted your information, including to jurisdictions which the European Union may not deem to provide “adequate” data protection. Please do not provide us any information that you do not wish to be transferred between our offices.
+**Confidentiality of Client Information**
 
-## **Safe Harbor Policy**
+Consistent with our client obligations, it has always been our policy to exercise the utmost discretion regarding the information our clients entrust to us. We accept and process confidential client information subject to our client’s direction and control, and we maintain reasonable and appropriate security precautions. Because we operate globally, our systems may make data related to your matters accessible from our various offices around the world, and we often transfer client data between our offices. This data is transferred in accordance with the requirements of our intra-group data transfer agreement based on the Standard Contractual Clauses defined in Directive 95/46/EC.
 
-ZS Associates, Inc. and ZS Associates International, Inc. abide by the U.S. – EU Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework as established by the United States Department of Commerce regarding the collection, use and retention of personally identifiable information (PII) originating from the European Union and Switzerland. ZS Associates has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement with respect to PII. To learn more about the Safe Harbor program, and to view ZS Associates’ certification, please visit the [Safe Harbor website](http://export.gov/safeharbor/index.asp). 
+We never rent, trade, sell, or share your information with any unrelated parties except as necessary or appropriate to conduct our business activities, subject to appropriate confidentiality, privacy, and information security commitments provided by the receiving party; or to further your interests; or as permitted or required by law; or as authorized or directed by you. Please feel free to raise any questions, concerns or specific directions you may have regarding the privacy and security of your information to the ZS Associates Principal who is handling your matter or to [dataprivacy@zsassociates.com](mailto:dataprivacy@zsassociates.com). 
 
-ZS’s use of PII may be governed by additional requirements described below: 
+**How We Use Your Data**
 
-  * PII obtained from or relating to clients or former clients of ZS Associates is also subject to the terms of any applicable contractual client agreements, laws and/or professional standards 
-  * Certain websites maintained by ZS Associates may have their own privacy policies, accessible on their respective websites, regarding the collection of PII on those sites 
+We may use the data you have voluntarily provided us to notify you about our products or services or keep you updated on issues that we think are of interest to you, if you have opted in to receiving such notifications.
 
+We will send you information and materials you request.
 
+We may use the information you have voluntarily provided us for market research purposes.
 
-## **Access**
+If we are processing your information on behalf of a third party (such as our client), we will follow the processing instructions that the third party provided us.
 
-If you are an individual, you may have certain rights under applicable data protection legislation which includes the right for you to review and correct the Personal Data we hold about you. We may charge you a fee to receive a copy of this data. We will also correct, amend or delete any Personal Data that you inform us is inaccurate and notify any third party recipients of the necessary changes. Requests to delete Personal Data are subject to any applicable legal and ethical reporting or document retention obligations imposed on us. For a copy of or reasonable access to your Personal Data, please contact: [dataprivacy@zsassociates.com](mailto:dataprivacy@zsassociates.com).
+We will use your information to administer and improve our Web site.
 
-## **Sensitive Information**
+We may use your information to carry out contracts or comply with applicable laws or regulations.
 
-We do not intend to seek or collect any sensitive information through our Website unless it is legally required for recruiting purposes.  All references to "sensitive information" are to the various categories of personal data identified by applicable data privacy laws as requiring special treatment.  These categories can include data relating to age, gender, ethnic origin or race, marital status, political opinions or affiliations, trade union membership, religious beliefs, physical or mental health, disability, sexual orientation or criminal record.  We suggest that you do not provide sensitive information of this type to us.  If you do provide any sensitive information to us, you explicitly consent by doing so to allow us to use such sensitive information as Personal Data in the ways described in this Privacy Statement, subject to applicable laws.
+**Disclosures and Transfers of Your Data to Third Parties**
 
-Where we have obtained your express consent, we may use your sensitive personal data for the purposes specified in this Privacy Policy, including for research purposes. 
+We do not rent, sell, share, or otherwise distribute your personal data to unrelated third parties except as required by law and in these circumstances: 
 
-## **Anonymous Data Collected through this Website**
+  * Your personal data may be shared with other companies within our group of companies or with contractors, service providers, and other third parties we use to support our business and who are bound by contractual obligations to keep personal data confidential and use it only for the purposes for which we disclose it to them, per the purpose and with your consent as set out in this Privacy Policy. 
+  * We may share, transfer, or disclose the information in our databases and server logs in the event of our sale, merger, reorganization, dissolution, or similar event, as well as to comply with a contractual obligation with our clients, protect your vital interests, and/or protect the security or integrity of our databases or services. We will inform you of any such transfer or disclosure as required by law.
 
-In addition to the information we collect as described above, we use technology that automatically collects anonymous information about the use of our Website. For example, our web server automatically logs which pages of our Website our visitors view, their IP addresses and which web browsers our visitors use. This technology does not identify you personally, it simply enables us to compile statistics about our visitors and their use of our Website, which we may use, for example, to improve our Website.   
-Our Website contains hyperlinks to other pages on our Website. We may use technology to track how often these links are used and which pages on our Website our visitors choose to view. Again, this technology does not identify you personally – it simply enables us to compile statistics about the use of these hyperlinks. 
 
-## **Data Collected through Tools and Surveys on this Website**
 
-You may voluntarily participate in a survey or other tool available on this website. ZS Associates compiles data collected from its online surveys and tools to produce benchmarking reports for respondents, ZS Clients, and other third parties. Any information provided by you as a respondent to our online surveys or tools will be anonymized and aggregated before such information is shared with a third party. The data you provide will become the property of ZS Associates and may be used by ZS Associates. 
+**How to Access or Correct Your Personal Data**
 
-We may use the data we collect through survey or tool results to provide you with feedback, to provide industry information to others, and/or to help us provide and improve our overall services. 
+If you send us a request to view, correct, or delete the personal data we hold about you, we will make every attempt to honor your request within a reasonable period of time. If we are unable to complete your request because we are unable to locate your data or due to legal restrictions, we will let you know. These requests should be sent to us at [dataprivacy@zsassociates.com](mailto:dataprivacy@zsassociates.com). 
 
-**  
-Cookies**
+**Location of Your Data and Transfers of Your Data Abroad**
 
-In order to collect the anonymous data described in the preceding paragraph, we may use “cookies” that remain in the cookies file of your browser until the browser is closed. 
+We are a global company, and your data may be transferred throughout our offices worldwide. We are headquartered in the United States, and your data will be stored and processed according to U.S. privacy standards. Data is transferred in accordance with the requirements of our intra-group data transfer agreement based on the Standard Contractual Clauses defined in Directive 95/46/EC. Additionally, [we self-certify to the U.S. – EU and U.S. – Swiss Safe Harbor Frameworks](https://safeharbor.export.gov/list.aspx), and our certificates can be viewed [here](http://www.export.gov/safeharbor):
 
-A cookie is a small piece of information which is sent to your browser and stored on your computer’s hard drive. Cookies do not damage your computer. You can set your browser to notify you when you receive a cookie. This enables you to decide if you want to accept it or not.  However, some of the services and features offered through this Website may not function properly if your cookies are disabled. 
+ [](http://www.export.gov/safeharbor)
 
-We use cookies to improve the quality of our website by  storing user preferences and monitoring user trends, as well as to deliver services requested by you.  We use several types of cookies on our website: 
+**Opting Out**
 
-**Authentication and authorization cookies** (i.e. strictly necessary cookies) allow access to secure areas and specific functionality of the website. These are strictly necessary for the proper operation of our website and the service we provide to you. 
+If you no longer wish to receive information you subscribed to or other information that you have previously opted in to receive, you may opt out by clicking the unsubscribe link in any automated e-mail you receive from us or by e-mailing us at [dataprivacy@zsassociates.com](mailto:dataprivacy@zsassociates.com). 
 
-**Personalization cookies** (i.e. functionality cookies) allow the website to remember choices you make and provide enhanced (more personalized) features. They may also be used to provide services in the way you have specified, such as collating data in a report. 
+**Security**
 
-**Tracking cookies** (i.e. performance cookies) collect information about how you use our website; what pages you visit and how often. We use this information to improve our website and the service we provide to you. 
+We provide reasonable and appropriate physical, electronic, and procedural safeguards intended to maintain the confidentiality of the personal data we collect. Please be aware that, although we endeavor to provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
 
-We also use your IP address to help diagnose problems with our server, to administer our Website AND TO IMPROVE THE SERVICE WE OFFER TO YOU. An IP address is a numeric code that identifies your computer on a network, or in this case, the Internet. Your IP address may also be used to gather broad demographic information. 
+**Governing Law**
 
-We may also perform IP lookups to determine which domain you are coming from (i.e: aol.com, yourcompany.com) to more accurately gauge our users' demographics. 
+This Privacy Policy forms part of our [Terms of Use](http://www.zsassociates.com/Terms-of-Use.aspx) and is governed by the laws of the State of Illinois.
 
-In connection with our marketing activites, information from these types of cookies and technologies or about your website usage may be combined with identifiable information provided by you via the website (e.g. when you request a white paper or more information), and publically available information about you from third party sources. 
+**Changes**
 
-**BY USING OUR WEBSITE YOU AGREE THAT WE CAN PLACE THESE TYPES OF COOKIES ON YOUR DEVICE.**
+Any updates to this Privacy Policy will be posted here. The date at the top indicates the date of the last update.
 
-**  
+**Links**
 
+When you leave our Web site via links to other sites or services that we do not provide, this Privacy Policy no longer applies to those sites or services.
 
-## Non-Anonymous Data Provided through this Website
+**Children**
 
-**
+We do not knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without his or her consent, he or she should contact us at [dataprivacy@zsassociates.com](mailto:dataprivacy@zsassociates.com). We will delete such information from our files within a reasonable time.
 
-Your access to and use of this Website, if through an identification code or password, is monitored by us, and the data provided by you is ascribed to you. 
+**Contact Us**
 
-## **Links to Other Websites**
-
-This Website may contain hyperlinks to websites that are not operated by us. These hyperlinks are provided for your reference and convenience only and do not imply any endorsement of the activities of these third-party websites or any association with their operators. We do not control these websites and are not responsible for their data or privacy practices. We urge you to review any privacy policy posted on any site you visit before using the site or providing any Personal Data about yourself. 
-
-## **Transfer of Data Abroad**
-
-If you are visiting this Website from a country other than the country in which our servers are located (currently the United States), the various communications will necessarily result in the transfer of information across international boundaries. 
-
-As ZS Associates has legal entities operating components of our Website worldwide, transfers of your personal information may be to countries which provide varying levels of protection of personal data.  
-By visiting this Website and communicating electronically with us, you consent to the processing and transfer of your Personal Data as set out in this Privacy Statement.
-
-## **Children**
-
-In order to respect the privacy of children online, ZS Associates does not knowingly collect, maintain or process Personal Data submitted by children under the age of 13..
-
-## **Security**
-
-We maintain reasonable and appropriate physical, electronic and procedural safeguards intended to maintain the confidentiality of Personal Data provided by a visitor to this Website. We do not guarantee that our safeguards will always work.
-
-## **Changes**
-
-We reserve the right to change this Privacy Statement at any time without advance notice. Should any new policy go into effect, ZS Associates will post it on this Website.
-
-## **Marketing**
-
-We like to keep our clients, personnel and other interested parties informed of events and news of interest to them. If you do not want to receive publications or details of events or seminars that we consider may be of interest to you, please let us know by sending an e-mail with your instructions to [dataprivacy@zsassociates.com ****](mailto:dataprivacy@zsassociates.com)
-
-## **Contractors, Suppliers and Vendors**
-
-In order to support its provision of services to its clients, from time to time, ZS Associates may maintain business information about prospective or ongoing contractors, suppliers, and vendors. We use this information for internal purposes and do not share this data with unrelated third parties. 
-
-We expect contractors, suppliers, and vendors to maintain data protections consistent with reasonable and appropriate obligations of data processors including, where applicable, the European Union’s Data Protection Directive (95/46/EC). Any prospective contractors, suppliers, or vendors with questions about our policies and expectations should contact us at [dataprivacy@zsassociates.com](mailto:dataprivacy@zsassociates.com).
-
-## **Governing Law**
-
-This Privacy Statement forms part of our Website Terms of Use, and the substantive laws of the State of Illinois govern any controversy or claim of whatever nature arising out of or relating to the use of this Website, without regard to any conflict of laws provisions. All actions or proceedings arising out of or relating to this Privacy Statement, its validity, performance, enforcement or breach, or the subject matter of this Privacy Statement may be venued in the courts of the State of Illinois, and you hereby irrevocably consent and submit yourself to the personal jurisdiction of said courts for all such purposes. Notwithstanding the foregoing, we retain the right to bring legal proceedings in any jurisdiction where we believe that breach of this agreement is taking place or originating..
-
-## **Controlling "Spam" or Unsolicited E-mail**
-
-ZS Associates is concerned about controlling unsolicited commercial e-mail, or "spam." ZS Associates prohibits the use of its Website or services linked to send spam. There is no currently available technology that will totally prevent the sending and receiving of unsolicited e-mail. Using junk e-mail tools and being cautious about the sharing of your e-mail address while online will help reduce the amount of unsolicited e-mail you receive.
-
-## **Contacting Us**
-
-ZS Associates welcomes comments about this Privacy Statement. If you have any questions about this Statement or any part of our service, you may contact at: 
+If you have any questions regarding this Privacy Policy or our privacy practices generally, please contact us via e-mail at [dataprivacy@zsassociates.com](mailto:dataprivacy@zsassociates.com). You may also mail us at:
 
 ZS Associates, Inc.  
-Attn: Legal Department  
-1800 Sherman Avenue, Suite 700  
-Evanston, Illinois 60610  
-[dataprotection@zsassociates.com](mailto:dataprotection@zsassociates.com).
+Attn. Legal   
+1800 Sherman Ave. Ste. 700  
+Evanston, IL 60201
 
-## **Definitions**
-
-References in this Website and this Privacy Statement to "ZS Associates", "ZS", "we", "us", and "our" are references to ZS Associates, Inc. and its direct or indirect affiliates.
-
-When referring to ZS Associates in this Website and this Privacy Statement as a “firm”, we are referring collectively to ZS Associates, Inc. and its direct or indirect affiliates, which include ZS Associates International, Inc., ZS Associates India Private Ltd. And ZS Associates Enterprise Management Consulting, Shanghai, Limited, each of which is a separate legal entity that may operate under the names “ZS”, “ZS Associates” or other related names.
-
-The terms “you”, “your” and “yours” when used in this Privacy Statement mean any user of this Website. 
-
-The terms “Data Processor” and “Data Controller” have the following meanings ascribed to them in the Data Protection Directive (EU Directive 95/46/EC):
-
-The term “Data Processor” means a natural or legal person, public authority, agency or any other body which processes personal data on behalf of the Data Controller.
-
-The term “Data Controller” means the natural or legal person, public authority, agency or other body which alone or jointly with others determines the purposes and means of the processing of Personal Data; where the purposes and means of processing are determined by natural or Community laws or regulations, the Controller or specific criteria for his nomination may be designated by national or Community law.
-
-The term “PII” shall mean Personally Identifiable Information.
-
-The U.S. – EU Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework shall have the meaning found at the following links: [U.S. – EU Safe Harbor Framework](http://export.gov/safeharbor/eu/index.asp) [U.S. – Swiss Safe Harbor Framework](http://export.gov/safeharbor/swiss/index.asp)  
-The term “Website” shall mean all ZS Associates’ websites linked to this Online Privacy Statement.
-
-Last Updated: September 20, 2012             © 2007-2012 ZS Associates, Inc.
+© 2007-2015 ZS Associates, Inc.
