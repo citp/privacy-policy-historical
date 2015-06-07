@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mywebook.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120202615id_/http%3A//www.mywebook.com/help/css/default/templates/art/article.php%3Flng%3D2%26cat%3D28%26doc%3D87) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywebook.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607203618id_/http%3A//www.mywebook.com/help/css/default/templates/art/article.php%3Flng%3D2%26cat%3D28%26doc%3D87) for the most accurate reproduction.*
 
 # mywebook help - Confidentiality Policy - Privacy Policy
 
