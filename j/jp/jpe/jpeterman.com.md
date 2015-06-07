@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jpeterman.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111120142id_/http%3A//www.jpeterman.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpeterman.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607154501id_/http%3A//www.jpeterman.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The J. Peterman Company
 
@@ -16,15 +16,13 @@ This Privacy Policy sets forth the rules and policies governing your use of our 
 
 
 
-## What information do we collect?
+### What information do we collect?
 
 You may submit personal information to our website in numerous ways. First, you may share your name, email address and certain information about your likes and dislikes when you sign up for our website, or request a newsletter. We collect information when you register or update your account, log-in, place an order, opt-in to receive our emails, shop online, request a catalog, or participate in a contest, promotion or survey. This information may include, but is not limited to, name, email address, billing and shipping address, credit card information and phone number. You may also provide personal information when you post comments to jpeterman.com, or to one of our other branded sites. In addition, if you have registered with another of our owned and operated sites, we will have any personal information about you that you provided at the sister site(s) as well. Whether or not you provide personal information is your choice; however, sometimes it may be required to participate in a particular activity or gain access to certain content on our sites.
 
 We also automatically collect general information, or what we call non-personal information, from you when you access our website. This information can include, among other things, the type of browser you are using, the third party website from which your visit originated, the operating system you are using, the domain name of your Internet service provider, the search terms you use on our website, the specific web pages you visit, and the duration of your visits.
 
-[(Back to Top)](http://www.jpeterman.com/Privacy#Top)
-
-## How do we use this information?
+### How do we use this information?
 
 We will not sell, rent or share your email address with third parties to send you unsolicited email. However, in our ongoing effort to provide you with the best service possible, we may share your information with our other brands within our company.
 
@@ -47,46 +45,34 @@ We may also use an approved J. Peterman vendor to help us analyze general inform
 
 We may also send you marketing emails. At various points on our site you have the option to join our email list. Also, if you provide us with your email address either on the home page, when you register, place an order, enter a contest or during checkout, you may automatically be added to our email list as well and receive marketing or promotional information from us or one of our other brands. If you do not wish to receive our marketing emails, you may opt-out by clicking on the unsubscribe link found at the bottom of all our marketing emails, or requests can be sent to the [Contact Us](http://www.jpeterman.com/Contact) page.
 
-[(Back to Top)](http://www.jpeterman.com/Privacy#Top)
-
-## How do we store information?
+### How do we store information?
 
 We take steps consistent with commercially reasonable industry standards to assure that any personal information collected from you is secured from loss, misuse or unauthorized access while under our control. Please note that despite our efforts to protect information provided to us, we cannot guarantee that such information will not be lost, disclosed or accessed by accidental circumstances or by the unauthorized acts of others.
 
-[(Back to Top)](http://www.jpeterman.com/Privacy#Top)
-
-## Do we collect personal information from children?
+### Do we collect personal information from children?
 
 Our website is not intended for children, and the website will not knowingly collect personal information from children under 13. We do not sell products for purchase by children and all children's products we sell are for purchase by adults only.
 
-[(Back to Top)](http://www.jpeterman.com/Privacy#Top)
-
-## How can you edit your personal information?
+### How can you edit your personal information?
 
 At any time, you can edit your personal information during the registration process, and as often as you like. Anyone who experiences problems with our service, or just has questions about our service, please contact us at the Contact Us page.
 
-[(Back to Top)](http://www.jpeterman.com/Privacy#Top)
-
-## How can you access us from outside the U.S.?
+### How can you access us from outside the U.S.?
 
 If you are visiting jpeterman.com from a location outside of the United States, you will be connected through and to servers located within the United States. All jpeterman.com orders will be accepted and fully processed in and shipped from the United States and all information you provide will be securely maintained in our web server and internal systems located within the United States.
 
-[(Back to Top)](http://www.jpeterman.com/Privacy#Top)
-
-## How do you contact us?
+### How do you contact us?
 
 If you have any questions or concerns regarding our privacy policy, please contact us as described below.
 
-By Email: [Contact Us](http://www.jpeterman.com/Contact)
+**By Email:** [Contact Us](http://www.jpeterman.com/Contact)
 
-By Telephone: [888-647-2555](tel:+18886472555)
+**By Telephone:** [888-647-2555](tel:+18886472555)
 
-By Mail:
+**By Mail:**
 
   * J. Peterman Customer Service
   * 5345 Creek Rd.
   * Blue Ash, Ohio 45242
 
 
-
-[(Back to Top)](http://www.jpeterman.com/Privacy#Top)
