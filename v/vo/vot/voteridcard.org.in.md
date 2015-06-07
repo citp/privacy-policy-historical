@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voteridcard.org.in privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216181541id_/http%3A//voteridcard.org.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voteridcard.org.in privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607204542id_/http%3A//voteridcard.org.in/privacy-policy) for the most accurate reproduction.*
 
 # VoterIDCard.org.in Privacy Policy
 
@@ -19,5 +19,3 @@ While we do our best to protect your personal information, we cannot guarantee t
 Please contact those internet sites/vendors and others directly if you have any queries about their privacy policies.
 
 For any other information or concerns, please connect to us through the following page: <http://voteridcard.org.in/contact> .
-
-To provide you the correct information, we did spend a lot of time in researching about this topic. If you found this article useful, please consider leaving a comment or sharing it on your social networks.
