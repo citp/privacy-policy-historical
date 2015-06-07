@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnandmaster.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121100708id_/http%3A//www.learnandmaster.com/main/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnandmaster.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200126id_/http%3A//www.learnandmaster.com/main/pages/privacy-policy) for the most accurate reproduction.*
 
 # Legacy Learning Systems Privacy Policy | Guitar, Piano, Drums, Painting, Photography, Ballroom Dance DVD Instruction
 
@@ -90,5 +90,4 @@ Web site URL: [www.learnandmaster.com](http://www.learnandmaster.com/)
 EFFECTIVE DATE: July 13, 2011  
 LAST UPDATE: February 5, 2014
 
-[](http://learnandmaster.com/photography) | [](http://learnandmaster.com/piano) | [](http://learnandmaster.com/drums) | [](http://learnandmaster.com/painting) | [](http://learnandmaster.com/ballroom-dance) |   |  |   
----|---|---|---|---|---|---|---
+[](http://www.learnandmaster.com/spotlight-series/)
