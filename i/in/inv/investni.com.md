@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investni.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205043916id_/http%3A//www.investni.com/about-us/our-approach/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investni.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607154639id_/http%3A//www.investni.com/about-us/our-approach/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -111,4 +111,4 @@ News
 
 Events
 
-1 – 42 of 4061[ Next ](https://web.archive.org/web/20141205043916id_/http%3A//www.investni.com/about-us/our-approach/privacy.html?page=2 "Next page")
+1 – 42 of 4254[Next](https://web.archive.org/web/20150607154639id_/http%3A//www.investni.com/about-us/our-approach/privacy.html?page=2 "Next page")
