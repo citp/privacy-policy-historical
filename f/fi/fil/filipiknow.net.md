@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filipiknow.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094937id_/http%3A//www.filipiknow.net/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filipiknow.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607182447id_/http%3A//www.filipiknow.net/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,11 +20,11 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 FilipiKnow may collect and use Users personal information for the following purposes:
 
-  * _\- To personalize user experience_  
+  * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To run a promotion, contest, survey or other Site feature_  
+  * _– To run a promotion, contest, survey or other Site feature_  
 To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
