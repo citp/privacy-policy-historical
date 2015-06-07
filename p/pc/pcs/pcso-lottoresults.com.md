@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcso-lottoresults.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120115925id_/http%3A//www.pcso-lottoresults.com/2010/02/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcso-lottoresults.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607141658id_/http%3A//www.pcso-lottoresults.com/2010/02/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
