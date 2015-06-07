@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the getpincodes.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207164222id_/http%3A//www.getpincodes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpincodes.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145707id_/http%3A//www.getpincodes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 * * *
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at getpincodes@yahoo.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@kulguru.com.
 
 At http://www.getpincodes.com/, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.getpincodes.com/ and how it is used.
 
