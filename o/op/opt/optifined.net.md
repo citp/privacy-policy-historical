@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optifined.net privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220194151id_/http%3A//optifined.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optifined.net privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608004033id_/http%3A//optifined.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - optifine.net
 
