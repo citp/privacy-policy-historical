@@ -1,8 +1,13 @@
-<!--The following is the downloaded HTML source of the hirepulse.com.au privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120231152id_/http%3A//www.hirepulse.com.au/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hirepulse.com.au privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607142734id_/http%3A//www.hirepulse.com.au/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xml:lang="en" lang="en"><head>
     
+        
+        
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//use.typekit.net/ydo2euo.js"></script>
+    <script>try{Typekit.load();}catch(e){}</script>
+
     <title>
 	Privacy Policy
  | HirePulse</title>
@@ -21,8 +26,9 @@
 <link href="/Scripts/jquery/themes/base/jquery.ui.all.css" rel="stylesheet" type="text/css">
 
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/Scripts/jquery/jquery-1.7.2.min.js" type="text/javascript"></script>
+<script src="/Scripts/jquery/jquery-1.7.2.min.js" type="text/javascript"></script>
 <script src="/Scripts/jquery/ui/minified/jquery-ui.min.js" type="text/javascript"></script>
+<script src="/Scripts/jquery.ui.touch-punch.min.js" type="text/javascript"></script>
 <script src="/Scripts/jquery.contractors.js" type="text/javascript"></script>
 <script async="" src="/Scripts/jquery.validate.js" type="text/javascript"></script>
 <script src="/Scripts/jquery.cookie.js" type="text/javascript"></script>
@@ -33,6 +39,18 @@
 <script src="/Scripts/Scripts.js" type="text/javascript"></script>
 <script async="" src="/Scripts/messaging.user.js" type="text/javascript"></script>
 <script async="" src="/Scripts/messaging.controlpanel.js" type="text/javascript"></script>
+
+	
+<script type="text/javascript" src="/Scripts/websync/fm.js"></script>
+<script type="text/javascript" src="/Scripts/websync/fm.websync.js"></script>
+<script type="text/javascript" src="/Scripts/websync/fm.websync.subscribers.js"></script>
+<script type="text/javascript" src="/Scripts/websync/fm.websync.chat.js"></script>
+
+<script type="text/javascript" src="/Scripts/conversation.common.js"></script>
+
+<script type="text/javascript" src="/Scripts/conversation.customer.js"></script>
+    
+<script type="text/javascript" src="/Scripts/tutorials/tutorial.common.js"></script>
 
 
 <meta http-equiv="content-type" content="text/html;charset=utf-8">
@@ -46,23 +64,13 @@
     
     
     
-    <style type="text/css">
-        ol
-        {
-        	list-style-type: decimal;
-        }
-        ol li
-        {
-        	list-style-type: decimal;
-        	margin-left: 20px;
-        }
-        ul li
-        {
-        	list-style-type:disc;
-        }
-    </style>
+    <link rel="stylesheet" type="text/css" href="/Content/theme/overrides-policy.css">
 
     <script type="text/javascript">
+        $(document).ready(function(){
+            $('#contentBody').css('margin-top', $('#contentHeader').height() + 'px');
+        });
+    
 	 	$(document).ready(function() {
    			
 
@@ -82,132 +90,275 @@
 	     })();
 
     </script>
-
-</head>
-
-<body>
+    
+	</head><body><div id="fb-root"></div>
 
 
-<div class="wrapper-header">
-	<div class="container-header clearfix">
-	    
-        <div class="logout-link">
-            <a href="/Account/LogOn">Log In to Your Account</a>
+
+
+
+
+<div class="wrapper-header" id="contentHeader">
+	<div class="container-mainnav clearfix">
+		
+		<ul class="mainnav-buttons">
+		
+            <li class="tab">
+				<a class="mainnav-button login" href="/Account/LogOn">Login</a>
+			</li>
+         
+		
+            <li class="tab active">
+				<a class="mainnav-button home" href="/"> </a>
+			</li>
+			
+		
+            <li class="tab">
+				<a class="mainnav-button" href="/Search/BusinessMap">Find</a>
+            </li>
+            <li class="tab">
+				<a class="mainnav-button" href="/Advertise">Advertise</a>
+			</li>
+            <li class="tab">
+                <a class="mainnav-button" href="/BusinessHub">Business Hub</a>
+            </li>
+            <!--li class="tab">
+                <a class="mainnav-button" href="/Partners">Partners</a>
+            </li-->
+            
+            
+            <li class="tab">
+                <a title="Get help on part of this page" class="mainnav-button help" onclick="helpButtonSelected(); return false;" onblur="hideHelpPreview();" id="helpPreviewButton" style="display: none;"> </a>
+            </li>
+            <li>
+                <a href="http://plus.google.com/b/105546026347909438701/" title="Follow us on Google+" target="_blank" class="social-button googleplus"> </a>
+            </li>
+            <li>
+                <a href="http://www.linkedin.com/company/1557613" title="Follow us on LinkedIn" target="_blank" class="social-button linkedin"> </a>
+            </li>
+            <li>
+                <a href="http://www.facebook.com/pages/HirePulse/120731044654504" title="Follow us on facebook" target="_blank" class="social-button facebook"> </a>
+            </li>
+            <li>
+                <a href="http://www.twitter.com/#!/HirePulse" title="Follow us on Twitter" target="_blank" class="social-button twitter"> </a>
+            </li>
+		</ul>
+	</div>
+	<div class="mainnav-extracontent clearfix"></div>
+	<div class="mainnav-footer"></div>
+</div>
+
+
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        userId = '';
+        userName = '';
+        setCustomerLoginDetails(userId, userName);
+        
+        initialiseChat(true, 'customer', '', onConnect, onOnline, onNewConversation);
+    });
+    
+    function onConnect(){
+        
+        onOnline(true);
+        
+    }
+    
+    function onOnline(initialising){
+        
+    }
+    
+    function onNewConversation(conversationMessage){
+        var userId = getCustomerId();
+        
+        // Check whether this is for us.
+        if( conversationMessage.emailAddress == userId ){
+            // This is for us. 
+            
+            // Check whether we need to log in.
+            if( activeConversations.length == 0){
+                showChatConsole();
+                
+                // Check whether we need to show the chat notice.
+                if( conversationMessage.businessOnline){
+                    queueChatNotice();
+                }
+            }
+            
+            //Create a new conversation panel.
+            var conversationHtml = $('#conversationTemplate').html();
+            var conversation = $(conversationHtml);
+                            
+            // Now add the panel to the set of panels.
+            $('.conversations-panel').append(conversation);
+                            
+            // Set field values.
+            var conversationId = conversationMessage.conversationId;
+            
+            conversation.attr('id', 'conversation_'+conversationId);
+            conversation.find('.conversation-title').html(conversationMessage.businessName);
+            conversation.find('.conversation-toggle').attr('onclick', 'toggleConversation('+conversationId+');');
+            conversation.find('.conversation-body').attr('id', 'conversation_body_'+conversationId);
+            conversation.find('.messages').attr('id', 'messages_'+conversationId);
+            conversation.find('.reply-box').attr('id', 'reply_'+conversationId);
+            
+            var textboxId = 'replyBox_'+conversationId;
+            conversation.find('textarea').attr('id', textboxId);
+            conversation.find('textarea').attr('onkeyup', 'checkForEnterPress('+conversationId+',\''+textboxId+'\');');
+            conversation.find('.medium.button').attr('onclick', 'sendMessage('+conversationId+',\''+textboxId+'\');');
+            
+            // Set the messages.
+            for(var i=0; i<conversationMessage.messages.length; i++){
+                var message = conversationMessage.messages[i];
+                
+                var messageHtml;
+                if( message.author == 'customer' ){
+                    messageHtml = $('#userConversationMessageTemplate').html();
+                }
+                else{
+                    messageHtml = $('#otherPartyConversationMessageTemplate').html();
+                }
+                
+                var newMessageDiv = $(messageHtml);
+                
+                var sentTime = message.dateSent;
+                
+                newMessageDiv.find('.message-date').html('Sent ' + sentTime.toLocaleTimeString());
+                newMessageDiv.find('.message-text').html(message.message);
+
+                var messagesDiv = $('#messages_' + conversationId);
+                messagesDiv.prepend(newMessageDiv);
+
+                var slideDirection = '';
+                if (message.author == 'customer') {
+                    slideDirection = 'right';
+                }
+                else {
+                    slideDirection = 'left';
+                }
+
+                newMessageDiv.show({
+                    effect: 'slide',
+                    direction: slideDirection,
+                    easing: animationEasing,
+                    duration: 'medium'
+                });
+            }
+            
+            // Connect to the chat.
+            connectToChat(conversationId, getCustomerId(), getCustomerName(), true, true, false);
+        }
+    }
+</script>
+
+
+
+<div class="chat-console" style="display:none;">
+    <div class="console-bar">
+        <div class="chat-title"></div>
+        <div class="conversations-panel">
+            
         </div>
         
-		<div class="container-tag">
-			<a href="/" class="logo-top"></a>
-			<div class="logo-bottom"></div>
-		</div>
-		
-		<ul class="container-mainnav">
-		    
-            <li class="tab active">
-                <div class="tab-start"></div>
-				<div class="tab-middle"><a href="/" class="button-home" title="Home"></a></div>
-				<div class="tab-end"></div>
-			</li>
-		
-            <li class="tab">
-                <div class="tab-start"></div>
-				<div class="tab-middle"><a href="/Browse">Find</a></div>
-				<div class="tab-end"></div>
-            </li>
+        <div class="change-status online" id="changeStatusButton" style="display: none;" onclick="toggleOnlineStatus();">
             
-            <li class="tab">
-                <div class="tab-start"></div>
-				<div class="tab-middle"><a href="/Advertise">Advertise</a></div>
-				<div class="tab-end"></div>
-			</li>
-            <li class="tab">
-                <div class="tab-start"></div>
-				<div class="tab-middle"><a href="/Pricing">Pricing</a></div>
-				<div class="tab-end"></div>
-            </li>
-            <li class="tab">
-                <div class="tab-start"></div>
-                <div class="tab-middle"><a href="/Blog">Blog</a></div>
-                <div class="tab-end"></div>
-            </li>
-            
-		</ul>
-		<div class="container-searchbox">
-			<div class="wrapper-search">
-				<form action="/Search/Search" id="form0" method="post"><input autocomplete="off" class="textbox-search" id="Keyword" name="Keyword" type="text" value="">
-<input type="submit" class="button-search" value="">
-</form><script type="text/javascript">
-//<![CDATA[
-if (!window.mvcClientValidationMetadata) { window.mvcClientValidationMetadata = []; }
-window.mvcClientValidationMetadata.push({"Fields":[],"FormId":"form0","ReplaceValidationSummary":false});
-//]]>
-</script>
-<div id="website-search-results" class="search-result-preview" style="display: none;">
-    <div id="individual-search-results" style="clear: both; position: relative; overflow: hidden;">
-        <div style="background-color: #C0C4CB; margin-bottom: 4px; z-index: 995;">
-            <h3 class="website-search-result-subheading">Individuals</h3>
+            <div class="switch-status-button"><div class="switch-text">Go offline</div></div>
         </div>
-    </div>
-    <div class="more-results" id="more-individual-results" onclick="MoreIndividualResults();">
-        More individuals...
-    </div>
-    <div id="no-individual-results" class="website-search-no-results">
-        No results.
-    </div>
-    <div id="business-search-results" style="clear: both; position: relative; overflow: hidden;">
-        <div style="background-color: #C0C4CB; margin-bottom: 4px;">
-            <h3 class="website-search-result-subheading">Businesses</h3>
-        </div>
-    </div>
-    <div class="more-results" id="more-business-results" onclick="MoreBusinessResults();">
-        More businesses...
-    </div>
-    <div id="no-business-results" class="website-search-no-results">
-        No results.
-    </div>
-    <div id="individual-search-result-template" style="display: none;">
-        <div class="website-individual-search-result" style="display: none;">
-            <img class="individual-search-image">
-            <h2 class="website-search-name"></h2>
-            <h3 class="website-search-subtext"></h3>
-            <a class="result-url" style="display: none;"></a>
-            <input type="hidden" class="unique-id">
-        </div>
-    </div>
-    <div id="business-search-result-template" style="display: none;">
-        <div class="website-business-search-result" style="display: none;">
-            <img class="business-search-image">
-            <h2 class="website-search-name"></h2>
-            <h3 class="website-search-subtext"></h3>
-            <a class="result-url" style="display: none;"></a>
-            <input type="hidden" class="unique-id">
-        </div>
+        <button class="chat-status online" onblur="hideStatusChangeOption();" onclick="toggleStatusChangeOption();">
+            <div class="status-text">Online</div><div class="status-indicator"></div>
+        </button>
     </div>
 </div>
 
-<script src="/Scripts/websitesearch.js" type="text/javascript"></script>
-
-			</div>
-		</div>
-	</div>
+<div id="newConversationMessageDiv" style="display:none;">
+    <div class="full-screen-wrapper" onclick="closeChatNoticeWindow();">
+    </div>   
+    
+    
+    <div id="newConversationContainer" class="new-conversation-container clearfix">
+        <div class="header-container">
+            <h1>New Conversation Started</h1>
+        </div>
+        <div class="fields-container">
+            <p>You have started a conversation with a business that is online at the moment.</p>
+            <p>Use the chat window below to discuss your enquiry in more detail. If you'd like to continue browsing the site don't worry; the chat window will stay available
+            at the bottom of the screen.</p>
+            <div class="container-button-conversation">
+                <input type="button" class="large button" value="OK, got it" onclick="closeChatNoticeWindow();">
+            </div>
+        </div>
+        <div class="feature-conversation">
+        </div>
+        
+    </div>
 </div>
 
-<div class="container-body clearfix">
+<template id="userConversationMessageTemplate">
+    <div class="message-container user" style="display: none;">
+        <div class="message user">
+            <div class="lead-in"></div>
+            <div class="message-text"></div>
+        </div>
+        <div class="message-date"></div>
+    </div>
+</template>
+
+<template id="otherPartyConversationMessageTemplate">
+    <div class="message-container other-party" style="display: none;">
+        <div class="message other-party">
+            <div class="lead-in"></div>
+            <div class="message-text"></div>
+        </div>
+        <div class="message-date"></div>
+    </div>
+</template>
+
+<template id="conversationTemplate">
+    <div class="conversation" style="display: none;" id="conversation_">
+        <div class="conversation-header">
+            <div class="conversation-title"></div>
+            <div class="conversation-status"></div>
+            <div class="conversation-toggle" onclick="toggleConversation();"><div class="toggle-image"></div></div>
+        </div>
+        <div class="conversation-body" id="conversation_body_">
+        <div class="messages" id="messages_">
+        </div>
+        <div class="reply-box" id="reply_">
+            <div class="container-field clearfix">
+                <textarea cols="10" rows="1" placeholder="Enter a reply" id="replyBox_" onkeyup="checkForEnterPress(, 'replyBox_');"></textarea>
+            </div>
+            <div class="container-button">
+                <input type="button" class="medium button" value="Reply" onclick="sendMessage(, 'replyBox_');">
+            </div>
+        </div>
+        </div>
+    </div>
+</template>
+
+<div class="container-body clearfix" id="contentBody" style="margin-top: 0px;">
 	<div class="container-subnav">
 		<div class="container-breadcrumbs">
 </div>
 		<div class="container-additionalcontrols">
 </div>
 	</div>
-	<div class="wrapper-content">
-	    
+	
+	<div class="wrapper-content clearfix">
     
-	<div class="container-columns clearfix">
-		<div class="leftcolumn">
-		    <div class="box-white">
-    		
-                <h1>Privacy Policy</h1>
-                
-		        <h2>Overview</h2>
+<div class="maincontent-header clearfix">
+    <div class="logo-small"></div>
+    <div class="feature-box clearfix">
+        <h1 class="feature-heading">Advertise your <span class="hilight">business</span> with <span class="hilight">confidence</span>.</h1>
+    </div>
+</div>
+
+<div class="policy-header">
+    <h2>HirePulse Privacy Policy</h2>
+</div>
+
+<div class="policy">    
+    <h2>Overview</h2>
 <p>
     The HirePulse.com.au website is owned by CareerPulse Pty Ltd (hereafter “CareerPulse”).  CareerPulse recognises the importance of protecting the privacy 
     of personally identifiable information collected about our customers.  For the purposes of this Privacy Statement, the term “customers” includes visitors 
@@ -503,37 +654,54 @@ window.mvcClientValidationMetadata.push({"Fields":[],"FormId":"form0","ReplaceVa
 <p>
     Otherwise, further information on your rights to privacy can be found at www.privacy.gov.au.
 </p>
-    		
+</div>
+
+</div>
+	
+	
+
+<div id="tutorialDiv" style="display: none;">
+    <div class="full-screen-notice" onclick="closeTutorial();">Click on part of the page to learn more</div>
+    <div class="full-screen left" onclick="closeTutorial();"></div>
+    <div class="full-screen right" onclick="closeTutorial();"></div>
+    <div class="full-screen top" onclick="closeTutorial();"></div>
+    <div class="full-screen bottom" onclick="closeTutorial();"></div>
+    <div id="tutorialStepDiv" class="tutorial-step" style="display: none;">
+        <div class="tutorial-header">
+            <h2 id="tutorialHeaderText">Step Name</h2>
+            <button class="close-tutorial-button" onclick="closeTutorial();"><img src="/Content/theme/icon-cross.png"></button>
+        </div>
+        <div class="tutorial-text">
+            <div class="container-field">
+                <select id="tutorialSteps" onchange="stepSelected(this);">
+                </select>
             </div>
-		</div>
-		<div class="rightcolumn">
-		    <h2>HirePulse Privacy Policy</h2>
-		    <hr>
-		    <p>This is the HirePulse privacy policy. Feel free to print this policy out
-		    for future reference. It is important to us that you read and are comfortable
-		    with the policy presented here.</p>
-		    <p>Please note that this policy may be modified from time to time. Please check
-		    back for updates.</p>
-		    <p>This policy should be read and considered in conjunction with our
-		    <a href="/Terms">Terms and Conditions</a>.</p>
-		    <p>If you'd like to contact us in regard to this policy, please head over to the
-		    <a href="/Contact">Contact page</a>.</p>
-		</div>
-	</div>
+            <hr>
+            <div id="tutorialStepText">
+                Step Text
+            </div>
+            <hr>
+            <div class="container-button">
+                <input type="button" class="large button tutorial-button" value="Previous" onclick="previousTutorialStep();">
+                <input type="button" class="large button tutorial-button" value="Next" onclick="nextTutorialStep();">
+            </div>
+        </div>
+    </div>
+</div>
 
-
-	</div>
+<div class="tutorial-helper" style="display: none;">
+</div>
 </div>
 
 <div class="container-footer clearfix">
     
 	<ul class="footer-group">
 		<li class="group-heading">The Service</li>
-		<li><a href="/HowItWorks">How It Works</a></li>
-		<li><a href="/Browse">Browse</a></li>
+		<li><a href="/BusinessHub">Business Hub</a></li>
+		<li><a href="/Search/BusinessMap">Find</a></li>
+		
 		<li><a href="/Advertise">Advertise</a></li>
 		<li><a href="/Pricing">Pricing</a></li>
-		
 		<li><a href="/Account/LogOn">Log In</a></li>
 		<li><a href="/Registration">Register</a></li>
      
@@ -548,11 +716,11 @@ window.mvcClientValidationMetadata.push({"Fields":[],"FormId":"form0","ReplaceVa
 		<li><a href="/Privacy">Privacy Policy</a></li>
 		<li><a href="/Terms">Terms &amp; Conditions</a></li>
 	</ul>
-	<ul class="footer-group">
+	<!--ul class="footer-group">
 	    <li class="group-heading">Partners</li>
-	    <li><a href="/Affiliates">Affiliates</a></li>
-	</ul>
-	<div class="container-copyrightinfo">© 2014 CareerPulse Pty Ltd</div>
+	    <li><a href="/Partners">Affiliates</a></li>
+	</ul-->
+	<div class="container-copyrightinfo">© 2015 CareerPulse Pty Ltd</div>
 </div>
 
 <div class="modular-window" id="updatetarget" style="z-index:999;"></div>
