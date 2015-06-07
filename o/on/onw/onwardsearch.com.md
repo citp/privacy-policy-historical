@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onwardsearch.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121045710id_/http%3A//www.onwardsearch.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onwardsearch.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142858id_/http%3A//www.onwardsearch.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Onward Search
+# Privacy Policy - Onward Search
 
 At Onward Search we recognize that privacy is important, and we are serious about protecting your privacy.
 
@@ -24,9 +24,9 @@ This information will not be given or sold to third parties, and we take appropr
 
 We collect information about how you use our website via the following:
 
-  *  **Server Logs:**  When you access our website, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your specific web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
-  *  **Cookies:**  Onward Search may send a cookie to your computer in order to improve your user experience and the usability of our website. We use cookies to store visitors preferences, record session information, and record information you provide via contact form or e-mail.Your web browser can be set to accept or reject cookies or notify you of when a cookie is being sent. If you choose to reject cookies, it should not cause a problem using our site.
-  *  **Site Analytics:**  Onward Search leverages standard web analytics software to collect information about how visitors came to our website and what they do when they get to our site. We use this information to improve the user experience, search engine optimization, and usability of our website. This data is never shared with any third parties or advertising companies.
+  * **Server Logs:**  When you access our website, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your specific web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
+  * **Cookies:**  Onward Search may send a cookie to your computer in order to improve your user experience and the usability of our website. We use cookies to store visitors preferences, record session information, and record information you provide via contact form or e-mail.Your web browser can be set to accept or reject cookies or notify you of when a cookie is being sent. If you choose to reject cookies, it should not cause a problem using our site.
+  * **Site Analytics:**  Onward Search leverages standard web analytics software to collect information about how visitors came to our website and what they do when they get to our site. We use this information to improve the user experience, search engine optimization, and usability of our website. This data is never shared with any third parties or advertising companies.
 
 
 
