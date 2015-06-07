@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gizmopod.com privacy policy that was archived on 2014-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140113231518id_/http%3A//answers.chacha.com/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gizmopod.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607035845id_/http%3A//answers.chacha.com/footer/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - About ChaCha | About ChaCha
 
 **Privacy Policy**
 
@@ -24,14 +24,14 @@ ChaCha may but is not obliged to republish queries and answers which may be asso
 
 ChaCha does not share Personal Information with other companies or individuals outside ChaCha except in the following limited circumstances:
 
-* We have your consent.  
-* We may provide such Personal Information to affiliated companies or other trusted businesses for the purposes of processing Personal Information on our behalf. We require that these parties process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.  
-* ChaCha may request additional information from you on product order forms or other online transaction forms. Such forms may require you to provide contact information (such as name and mailing or shipping address) and payment information (such as credit card number and credit card expiration date). Information that you provide may be used for billing and accounting purposes, for recording products and services that you have licensed, bought or downloaded, and to fill your orders. ChaCha may use contact information to communicate with you about orders, products, services, or fees or charges. ChaCha may use an outside shipping company to ship orders and uses a credit card processing company to process payments for goods and services. These companies have access to user information in order to perform their functions.
+  * We have your consent.
+  * We may provide such Personal Information to affiliated companies or other trusted businesses for the purposes of processing Personal Information on our behalf. We require that these parties process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
+  * ChaCha may request additional information from you on product order forms or other online transaction forms. Such forms may require you to provide contact information (such as name and mailing or shipping address) and payment information (such as credit card number and credit card expiration date). Information that you provide may be used for billing and accounting purposes, for recording products and services that you have licensed, bought or downloaded, and to fill your orders. ChaCha may use contact information to communicate with you about orders, products, services, or fees or charges. ChaCha may use an outside shipping company to ship orders and uses a credit card processing company to process payments for goods and services. These companies have access to user information in order to perform their functions.
+  * ChaCha may partner with other third parties to provide specific goods or services. When you sign up for such goods or services, ChaCha will share names or other contact information that is necessary for the third party to provide these goods or services. ChaCha does not authorize third party providers to use personally identifiable information except for the purpose related to these goods or services.
+  * ChaCha may disclose your Personal Information in the good-faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable government request, (b) enforce applicable Terms of Use including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security, or technical issues, or (d) protect against imminent harm to the rights, property or safety of ChaCha, its users or the public as required or permitted by law.
+  * When you send email or other communications to ChaCha, we may retain those communications in order to process your inquiries, respond to your requests and improve the Site and the Services.
 
-* ChaCha may partner with other third parties to provide specific goods or services. When you sign up for such goods or services, ChaCha will share names or other contact information that is necessary for the third party to provide these goods or services. ChaCha does not authorize third party providers to use personally identifiable information except for the purpose related to these goods or services.  
-* ChaCha may disclose your Personal Information in the good-faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable government request, (b) enforce applicable Terms of Use including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security, or technical issues, or (d) protect against imminent harm to the rights, property or safety of ChaCha, its users or the public as required or permitted by law. 
 
-* When you send email or other communications to ChaCha, we may retain those communications in order to process your inquiries, respond to your requests and improve the Site and the Services.
 
 **ChaCha does not knowingly collect or maintain Personal Information through the Site or the Services from persons under 13 years of age, and no part of the Site or the Services is directed to persons under 13.** If you are under 13 years of age, then please do not use or access the Site or the Services at any time or in any manner. If ChaCha learns that Personal Information of persons under 13 years of age has been collected through the Site or the Services without verified parental consent, then ChaCha will take the appropriate steps to delete this information.
 
@@ -47,25 +47,23 @@ When you submit a search query or question using a mobile phone, mobile device o
 
 ChaCha values its Guides greatly, but they are independent contractors, and ChaCha is not legally responsible for their actions in any manner. ChaCha instructs the Guides not to ask users for Personal Information and not to save any Personal Information derived from communications with users. ChaCha also instructs the Guides to act in accordance with this Privacy Policy.
 
-You should not provide Personal Information to the Guides. If any Guide does ask you for any personally identifiable information or does anything else that raises a privacy concern, you may report any such abuse to ChaCha by use of the [Contact](https://web.archive.org/footer/contact-us/) link provided herein, as well as the [Contact](https://web.archive.org/footer/contact-us/) link located on the ChaCha homepage.
+You should not provide Personal Information to the Guides. If any Guide does ask you for any personally identifiable information or does anything else that raises a privacy concern, you may report any such abuse to ChaCha by use of the Contact link provided herein, as well as the Contact link located on the ChaCha homepage.
 
 Information indicated in ChaCha’s logs may be presented to a Guide in order to improve the quality of the Services. Personal Information is not provided to a Guide except that for some queries, location information may be associated with the query and may be provided to a Guide for the purposes of providing or improving the service.
 
 **Information Collected from Potential Guides**
 
-A Guide may assist users of the Site and the Services. In ChaCha’s recruitment of Guides, ChaCha may collect and disseminate Personal Information from applications to become Guides that has been provided through the Site. If you provide Personal Information in order to seek work as a Guide, you agree to be bound by this Privacy Policy, as well as the [Terms of Use](https://web.archive.org/footer/terms-of-use/), which are incorporated herein by reference. On the basis of the Personal Information provided, ChaCha may contact you regarding potential work as a Guide. The Personal Information that you provide will not be sold, shared or otherwise distributed to any third parties outside ChaCha, except as necessary for purposes of identity verification, background checks, or as otherwise provided in this Privacy Policy, provided that, if you do become a Guide, use of Personal Information you provide will then be under a separate contract between you and ChaCha.
+A Guide may assist users of the Site and the Services. In ChaCha’s recruitment of Guides, ChaCha may collect and disseminate Personal Information from applications to become Guides that has been provided through the Site. If you provide Personal Information in order to seek work as a Guide, you agree to be bound by this Privacy Policy, as well as the Terms of Use, which are incorporated herein by reference. On the basis of the Personal Information provided, ChaCha may contact you regarding potential work as a Guide. The Personal Information that you provide will not be sold, shared or otherwise distributed to any third parties outside ChaCha, except as necessary for purposes of identity verification, background checks, or as otherwise provided in this Privacy Policy, provided that, if you do become a Guide, use of Personal Information you provide will then be under a separate contract between you and ChaCha.
 
 **Advertising and Links to other Web sites**
 
 When you use the Site, a cookie may be sent to your browser. A cookie is a small text file sent by a website’s computer system that is stored on your computer’s hard drive. Cookies are a commonly used technology on the Web, and they are used in ChaCha’s search functionality. You are always free to set your browser to decline cookies, and you can delete cookies from your computer. However, disabling cookies may adversely affect your ability to use the Site or the Services. See your browser’s “Help” file for more details on cookies.
 
-ChaCha uses third party advertisers who serve ads and collect information on the Site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements on the Site, other websites and other forms of media about goods and services of interest to you. These third party advertisers may also use cookies on this Site. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/managing/opt_out.asp>. Further information regarding third party data collection and opt-out may be found at [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+ChaCha uses third party advertisers who serve ads and collect information on the Site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements on the Site, other websites and other forms of media about goods and services of interest to you. These third party advertisers may also use cookies on this Site. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit http://www.networkadvertising.org/managing/opt_out.asp . Further information regarding third party data collection and opt-out may be found at <http://youronlinechoices.eu/> .
 
-Notwithstanding anything else in this Privacy Policy, ChaCha or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, (e.g., your email address), that ChaCha may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to <http://www.aboutads.info/choices>.
+Notwithstanding anything else in this Privacy Policy, ChaCha or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, (e.g., your email address), that ChaCha may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to <http://www.aboutads.info/choices> .
 
-The Site and the Services may contain windows or hyperlinks which provide access to other websites not affiliated with ChaCha. Your use of an external website or any informational content found on an external website is subject to and governed by the terms and guidelines of said external website. ChaCha does not make any representations or warranties concerning, and will not in any way liable for, any informational content, products, services, software, or other materials available on an external website, even if one or more pages of the external website are framed within a page of the Site. ChaCha is not responsible for the privacy practices of any external website. For your protection, please refer to the privacy policies of the respective external websites.
-
-**Access from Outside the United States**
+The Site and the Services may contain windows or hyperlinks which provide access to other websites not affiliated with ChaCha. Your use of an external website or any informational content found on an external website is subject to and governed by the terms and guidelines of said external website. ChaCha does not make any representations or warranties concerning, and will not in any way liable for, any informational content, products, services, software, or other materials available on an external website, even if one or more pages of the external website are framed within a page of the Site. ChaCha is not responsible for the privacy practices of any external website. For your protection, please refer to the privacy policies of the respective external websites. Access from Outside the United States
 
 ChaCha stores and processes information in the United States of America. The data protection and privacy laws the United States may not be as protective as those in other countries, including, in particular, those in the European Union. By use of the Site and the Services, you expressly consent to the transfer of any information you provide to ChaCha for use in accordance with this Privacy Policy.
 
@@ -83,19 +81,18 @@ It is ChaCha’s policy to provide notifications, whether such notifications are
 
 **Third Party Disclosures**
 
-This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by ClickTale service to optimize user experience.
+This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to optimize user experience.
 
-You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
+You can choose to disable the Service at http://www.clicktale.net/disable.html.
 
 **Deletion or Modification of Personal Information**
 
 If you ever wish to access your Personal Information, or to have your Personal Information deleted, updated, changed or modified, you may contact ChaCha by mail, fax, or e-mail at the addresses indicated below:
 
-> **ChaCha Search, Inc.  
->  14550 Clay Terrace Blvd., Suite 130  
->  Carmel, IN 46032-3653 **
-> 
-> **Fax: (317) 660-6687**  
->  **E-mail:[customer.relations@chacha.com](mailto:customer.relations@chacha.com?subject=Privacy%20Policy)**
+**ChaCha Search, Inc.** **14550 Clay Terrace Blvd., Suite 130** **Carmel, IN 46032-3653**
 
-Effective Date: October 23, 2012
+**Fax: (317) 660-6687**
+
+E-mail: [customer.relations@chacha.com](email:customer.relations@chacha.com)
+
+Effective Date: June 10, 2014
