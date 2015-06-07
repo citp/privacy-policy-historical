@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the examresultindia.net privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210143718id_/http%3A//examresultindia.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examresultindia.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144924id_/http%3A//examresultindia.net/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Government Jobs India Today
 
-This Privacy Policy governs the manner in which Exam Result India collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.examresultindia.net](https://web.archive.org/web/20141210143718id_/http%3A//) website (“Site”). This privacy policy applies to the Site and all products and services offered by Exam Result India.
+This Privacy Policy governs the manner in which Exam Result India collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.examresultindia.net](https://web.archive.org/web/20150607144924id_/http://examresultindia.net/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Exam Result India.
 
 **Personal identification information**
 
