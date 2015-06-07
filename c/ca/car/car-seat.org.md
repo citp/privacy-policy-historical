@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the car-seat.org privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207120644id_/http%3A//www.car-seat.org/showthread.php%3Ft%3D170685) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the car-seat.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607235029id_/http%3A//www.car-seat.org/showthread.php%3Ft%3D170685) for the most accurate reproduction.*
 
 # Privacy Policy - Car Seat.Org - Carseat, Automobile & Child Passenger Safety Community Forums
 
