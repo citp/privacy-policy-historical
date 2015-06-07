@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getlittlebird.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205135935id_/http%3A//www.getlittlebird.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getlittlebird.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145826id_/http%3A//www.getlittlebird.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Little Bird - Influencer Marketing Platform - Privacy Policy
 
 _Effective Date: 6 November 2012_
 
@@ -14,11 +14,11 @@ You should read this entire Privacy Policy before submitting information to LITT
 
 ### COPPA Requirements
 
-LITTLE BIRD complies with the requirements of the Children’s Online Privacy Protection Act (COPPA) and the FTC’s Rule interpreting COPPA (16 CFR § 512).   Our websites are not directed to children and we do not knowingly collect any personally identifiable information from children under 13 years of age through our sites. We recommend that minors 13 years of age or older ask their parents for permission before sending any information about themselves to anyone over the Internet.
+LITTLE BIRD complies with the requirements of the Children’s Online Privacy Protection Act (COPPA) and the FTC’s Rule interpreting COPPA (16 CFR § 512).   Our websites are not directed to children and we do not knowingly collect any personally identifiable information from children under 13 years of age through our sites. We recommend that minors 13 years of age or older ask their parents for permission before sending any information about themselves to anyone over the Internet.
 
 ### Information Collection and Use
 
-LITTLE BIRD may collect personal data from customers both online and offline.  In many cases, such information will be collected directly from you, such as through a transaction or inquiry, or your submission of a form, registration, or communication to us.  Information may also be gathered from third-party sources (including without limitation, opt-in lists, publicly available data, consumer reporting agencies, other companies, and referrals) and through your activities and interactions with us.  We may combine data collected from these disparate sources unless we tell you otherwise.
+LITTLE BIRD may collect personal data from customers both online and offline.  In many cases, such information will be collected directly from you, such as through a transaction or inquiry, or your submission of a form, registration, or communication to us.  Information may also be gathered from third-party sources (including without limitation, opt-in lists, publicly available data, consumer reporting agencies, other companies, and referrals) and through your activities and interactions with us.  We may combine data collected from these disparate sources unless we tell you otherwise.
 
 LITTLE BIRD collects personal data about its customers in a number of ways.  In this section, we describe what types of personal data we collect, the ways we collect it, and how we use it. While we have tried to be complete, this list is not necessarily exhaustive, given that these activities can vary from time to time.
 
@@ -54,7 +54,7 @@ If you register to use our website or service, you have the option of granting L
 
 ### Security
 
-LITTLE BIRD takes appropriate steps to protect personal data from loss, misuse, and unauthorized access, disclosure, alteration, or destruction, whether in transmission or storage.  Please keep in mind, however, that there is no such thing as perfect security, and no Internet transmission is ever completely secure or error-free.  You hereby acknowledge that LITTLE BIRD is not responsible for any intercepted information sent via the Internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner.   Moreover, you are responsible for maintaining the confidentiality of any user name and password you use.
+LITTLE BIRD takes appropriate steps to protect personal data from loss, misuse, and unauthorized access, disclosure, alteration, or destruction, whether in transmission or storage.  Please keep in mind, however, that there is no such thing as perfect security, and no Internet transmission is ever completely secure or error-free.  You hereby acknowledge that LITTLE BIRD is not responsible for any intercepted information sent via the Internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner.   Moreover, you are responsible for maintaining the confidentiality of any user name and password you use.
 
 ### It’s Your Choice: Contact Preferences
 
@@ -70,4 +70,4 @@ If you have questions or concerns related to this Privacy Policy or LITTLE BIRD�
 
 ### Changes to This Privacy Policy
 
-If this Privacy Policy changes, the revised policy will include a new effective date and will be posted on this page.  Be sure to check the Privacy Policy whenever you submit personal data. The effective date of this Privacy Policy is the date first set forth above.
+If this Privacy Policy changes, the revised policy will include a new effective date and will be posted on this page.  Be sure to check the Privacy Policy whenever you submit personal data. The effective date of this Privacy Policy is the date first set forth above.
