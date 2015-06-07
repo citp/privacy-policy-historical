@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learningaccelerator.org privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118182550id_/http%3A//learningaccelerator.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningaccelerator.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607180108id_/http%3A//learningaccelerator.org/privacy-policy) for the most accurate reproduction.*
 
 # The Learning Accelerator Privacy Policy
 
@@ -13,12 +13,16 @@
     * [Teacher Voices](https://web.archive.org/blended-learning/teacher-voices)
   * [Our Work](https://web.archive.org/our-work)
     * [Cultivating Solutions](https://web.archive.org/our-work/cultivating-solutions)
+      * [Competency-Based Learning](https://web.archive.org/our-work/cultivating-solutions/competency-based-learning)
       * [District Communications](https://web.archive.org/district-communications)
+      * [District Financing](https://web.archive.org/our-work/school-district-financing)
       * [EdTech Devices](https://web.archive.org/our-work/cultivating-solutions/edtech-devices)
       * [Human Capital](https://web.archive.org/our-work/cultivating-solutions/human-capital)
       * [Internet Connectivity](https://web.archive.org/our-work/cultivating-solutions/internet-connectivity)
-      * [Open Education Resources](https://web.archive.org/open-education-resources)
-      * [District Financing](https://web.archive.org/our-work/school-district-financing)
+      * [Measurement](https://web.archive.org/our-work/cultivating-solutions/measurement)
+      * [Professional Services](https://web.archive.org/our-work/cultivating-solutions/professional-services)
+      * [Open Education Resources](https://web.archive.org/our-work/cultivating-solutions/open-education-resources)
+      * [Software](https://web.archive.org/our-work/cultivating-solutions/software)
     * [Working with Districts](https://web.archive.org/our-work/working-with-districts)
     * [Working with States](https://web.archive.org/working-with-states)
   * [Investments](https://web.archive.org/investments)
@@ -38,7 +42,7 @@
     * [Staff](https://web.archive.org/about-us/staff)
     * [Join Us](https://web.archive.org/about-us/join-us)
     * [News](https://web.archive.org/about-us/news)
-    * [Quarterly Updates](https://web.archive.org/about-us/quarterly-updates)
+    * [Updates](https://web.archive.org/about-us/updates)
 
 
 
