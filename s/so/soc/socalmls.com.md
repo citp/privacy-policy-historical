@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socalmls.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113002643id_/http%3A//crmls.org/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socalmls.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145359id_/http%3A//crmls.org/privacy/privacy.html) for the most accurate reproduction.*
 
 # CRMLS Privacy Policy
 
