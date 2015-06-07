@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeffreynewyork.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122023121id_/http%3A//shop.jeffreynewyork.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeffreynewyork.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607034714id_/http%3A//shop.jeffreynewyork.com/privacy.cfm) for the most accurate reproduction.*
 
 # Jeffrey |
 
@@ -141,11 +141,12 @@ To be sure your connection is secure, look at the bottom status bar of your brow
 
 We also ask customers to carefully review their accounts and immediately report any unexpected activity to Jeffrey and their issuing bank or credit card company. Additionally, we are asking all our customers to take measures to help protect personal information in their online accounts, including the following:
 
-  * Install the latest security updates and anti-virus software on your computer to help prevent malware and viruses
+  * Install the latest security updates and anti-virus software on your computer or mobile devices to help prevent malware and viruses
   * Reset your e-mail account password
   * Use complex passwords (a minimum of 7 alpha/numeric cAsE sEnsitive characters)
   * Do not use the same password on more than one website
   * Do not share your password with others
+  * Password protect your personal mobile device(s)
   * Sign out/log off website sessions so that your session is closed and cannot be accessed by another user on the same computer, especially when using a public computer or terminal
   * Visit these additional resources: 
     * <http://www.us-cert.gov/cas/tips/>
@@ -156,7 +157,7 @@ We also ask customers to carefully review their accounts and immediately report 
 
 ##### **Fraud Alerts: Protecting Your Personal Information**
 
-You may come in contact with websites, e-mails or texts that try to lure you into providing personal information with the offer of a Jeffrey or Nordstrom gift card. Jeffrey and Nordstrom do not sponsor these offers nor are we affiliated with the promotion originators. If you become aware of any potentially fraudulent activity on a website or in an e-mail or text, please forward the information to [onlinefraud@nordstrom.com](mailto:onlinefraud@nordstrom.com) or call us at 1-888-282-6060  so that we can follow up. We take these matters, and the protection of our customers' sensitive information, very seriously. [View](http://shop.nordstrom.com/c/fraud-alert) our Fraud Alerts page.
+You may come in contact with websites, e-mails or texts that try to lure you into providing personal information with an offer such as a Jeffrey or Nordstrom gift card. Jeffrey and Nordstrom do not sponsor these offers nor are we affiliated with the promotion originators. If you become aware of any potentially fraudulent activity on a website or in an e-mail or text, please forward the information to [onlinefraud@nordstrom.com](mailto:onlinefraud@nordstrom.com) or call us at 1-888-282-6060  so that we can follow up. We take these matters, and the protection of our customers' sensitive information, very seriously. [View](http://shop.nordstrom.com/c/fraud-alert) our Fraud Alerts page.
 
 ##### **Data Processing and Storage**
 
@@ -185,4 +186,4 @@ Seattle, WA 98111-3986
 
 The examples contained in this Privacy Policy are illustrations only, and are not intended to be exhaustive.
 
-_9/11/2014_
+_11/24/2014_
