@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desktoplightning.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701153427id_/http%3A//www.desktoplightning.com/new/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desktoplightning.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607031737id_/http%3A//desktoplightning.com/new/privacy.php) for the most accurate reproduction.*
 
 # DesktopLightning
 
@@ -38,8 +38,8 @@ You may contact us for questions or concerns about our privacy practices by writ
 
 DesktopLightning, LLC  
 Attn: DMCA Complaints  
-3411 Silverside Rd Ste 104  
-Wilmington, DE 19810, USA   
+7260 W. Azure Dr Suite 140-644  
+Las Vegas, NV 89130, USA   
   
 
 
