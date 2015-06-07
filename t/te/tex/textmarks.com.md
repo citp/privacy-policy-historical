@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the textmarks.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125010428id_/http%3A//www.textmarks.com/front/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textmarks.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022158id_/http%3A//www.textmarks.com/front/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | TextMarks | SMS and Text Alerts Made Easy | SMS API
+# TextMarks | Privacy Policy
+
+## TextMarks Privacy Policy  
+(Last Updated September 19, 2012)  
+
+
+* * *
 
 This Privacy Policy governs TextMarks's collection, use, and disclosure of the information that we collect and receive from users of our Services. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Service. This Privacy Policy applies to information that you provide to us through your use of the Services. This Privacy Policy does not apply to any products or services provided by third parties, even if those third parties are partners of TextMarks.
 
@@ -56,9 +62,7 @@ TextMarks does not rent, sell, or share any personal information about you with 
   * In response to a subpoena, court order, or other legal process.
   * To establish or exercise our legal rights or defend against legal claims.
   * To a company controlled by, or under common control with, TextMarks for any purpose permitted by this Privacy Policy.
-  * When TextMarks believes such use or disclosure is 
-    1. necessary in order to investigate, prevent, or take action regarding suspected illegal activities, fraud, or situations involving potential threats to the physical safety of any person, or
-    2. required by law.
+  * When TextMarks believes such use or disclosure is a) necessary in order to investigate, prevent, or take action regarding suspected illegal activities, fraud, or situations involving potential threats to the physical safety of any person, or b) required by law. 
   * In the event of a merger, acquisition, consolidation, divestiture, or bankruptcy of TextMarks.
 
 
@@ -91,8 +95,4 @@ TextMarks reserves the right, in its sole discretion, to modify or change this P
 
 ### Questions
 
-If you have any questions, concerns, or comments about this Privacy Policy, you may email us at
-
-_support  
-@   
-textmarks.com_
+If you have any questions, concerns, or comments about this Privacy Policy, you may email us at [**support@textmarks.com**](mailto:support@textmarks.com).
