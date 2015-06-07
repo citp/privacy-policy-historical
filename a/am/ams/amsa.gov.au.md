@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amsa.gov.au privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224073512id_/https%3A//www.amsa.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amsa.gov.au privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607202846id_/http%3A//www.amsa.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy - Australian Maritime Safety Authority (AMSA)
 
@@ -9,7 +9,7 @@
 This Condensed Privacy Policy applies to personal information collected by the Australian Maritime Safety Authority (AMSA).
 
 AMSA has adopted the layered privacy policy format. This document provides you with a succinct overview of how we handle your personal information.  
-Our [complete Privacy Policy](https://web.archive.org/web/20141224073512id_/https%3A//www.amsa.gov.au/complete-privacy-policy/index.asp "complete Privacy Policy") can be accessed on our website.   
+Our [complete Privacy Policy](https://web.archive.org/web/20150607202846id_/http%3A//www.amsa.gov.au/complete-privacy-policy/index.asp "complete Privacy Policy") can be accessed on our website.   
 
 
 ### Personal Information Handling Practices
@@ -27,7 +27,7 @@ We sometimes collect personal information from a third party or from a publicly 
 
 
 
-We only collect personal information for purposes which are related to our functions or activities under [legislation related to and enabling AMSA's operations](https://web.archive.org/web/20141224073512id_/https%3A//about-amsa/corporate-information/legislation/index.asp), and only when it is necessary for or directly related to such purposes. We only collect information by lawful and fair means.    
+We only collect personal information for purposes which are related to our functions or activities under [legislation related to and enabling AMSA's operations](https://web.archive.org/web/20150607202846id_/http%3A//about-amsa/corporate-information/legislation/index.asp), and only when it is necessary for or directly related to such purposes. We only collect information by lawful and fair means.    
 
 
 ### Use and disclosure
@@ -56,7 +56,7 @@ When the personal information that we collect is no longer required, we destroy 
 
 ### Your choices
 
-You can access the personal information that we hold about you, and you can ask us to correct the personal information we hold about you. For more information, see our [complete Privacy Policy](https://web.archive.org/web/20141224073512id_/https%3A//www.amsa.gov.au/complete-privacy-policy/index.asp "complete Privacy Policy") – ‘access and correction’.   
+You can access the personal information that we hold about you, and you can ask us to correct the personal information we hold about you. For more information, see our [complete Privacy Policy](https://web.archive.org/web/20150607202846id_/http%3A//www.amsa.gov.au/complete-privacy-policy/index.asp "complete Privacy Policy") – ‘access and correction’.   
 
 
 If you are listed on one or more of our stakeholder email lists you can opt out at any time. You can unsubscribe by using the ‘unsubscribe’ options noted in our emails.   
@@ -67,13 +67,13 @@ You may interact with us anonymously or by using a pseudonym, unless we are requ
 ### Our obligations
 
 AMSA is bound by the [Australian Privacy Principles](http://www.oaic.gov.au/privacy/privacy-resources/privacy-fact-sheets/other/privacy-fact-sheet-17-australian-privacy-principles) in the Privacy Act.   
-For more information see our [complete Privacy Policy](https://web.archive.org/web/20141224073512id_/https%3A//www.amsa.gov.au/complete-privacy-policy/index.asp).
+For more information see our [complete Privacy Policy](https://web.archive.org/web/20150607202846id_/http%3A//www.amsa.gov.au/complete-privacy-policy/index.asp).
 
-AMSA’s information management tool for general stakeholders is called the AMSA Community Directory. Please read the [AMSA Community Directory](https://web.archive.org/web/20141224073512id_/https%3A//www.amsa.gov.au/documents/privacy-policy-acd.pdf "ACD policy pdf") Policy.
+AMSA’s information management tool for general stakeholders is called the AMSA Community Directory. Please read the [AMSA Community Directory](https://web.archive.org/web/20150607202846id_/http%3A//www.amsa.gov.au/documents/privacy-policy-acd.pdf "ACD policy pdf") Policy.
 
 ### How to contact us 
 
-For further information you can submit an email via the [contact us](https://web.archive.org/web/20141224073512id_/https%3A//contact-us/index.asp) page, or alternatively you can write to us at:   
+For further information you can submit an email via the [contact us](https://web.archive.org/web/20150607202846id_/http%3A//contact-us/index.asp) page, or alternatively you can write to us at:   
 
 
 Privacy Officer  
@@ -140,7 +140,7 @@ Any personal information you choose to provide will only be used for the purpose
 
 The Internet is an insecure medium and users should be aware that there are inherent risks transmitting information across the Internet.
 
-Information submitted unencrypted via electronic mail or web forms may be at risk of being intercepted, read or modified. If you do not wish to email or send an online form to AMSA, you can send mail by [post](https://web.archive.org/web/20141224073512id_/https%3A//about-amsa/organisational-structure/amsa-offices/index.asp).
+Information submitted unencrypted via electronic mail or web forms may be at risk of being intercepted, read or modified. If you do not wish to email or send an online form to AMSA, you can send mail by [post](https://web.archive.org/web/20150607202846id_/http%3A//about-amsa/organisational-structure/amsa-offices/index.asp).
 
 ### Other sites
 
