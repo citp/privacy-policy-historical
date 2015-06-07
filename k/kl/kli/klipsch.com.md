@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klipsch.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020040502id_/http%3A//www.klipsch.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klipsch.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608014741id_/http%3A//www.klipsch.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Klipsch
 
