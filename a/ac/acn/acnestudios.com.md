@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acnestudios.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231154023id_/http%3A//www.acnestudios.com/legal-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acnestudios.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152300id_/http%3A//www.acnestudios.com/legal-privacy) for the most accurate reproduction.*
 
 # Acne Studios - Privacy Policy Shop Ready to Wear, Accessories, Shoes and Denim for Men and Women
 
