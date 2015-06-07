@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the canon.co.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125342id_/http%3A//www.canon.co.in/business/web/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canon.co.in privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607194241id_/http%3A//www.canon.co.in/personal/web/privacy) for the most accurate reproduction.*
 
-# Privacy policy - Canon India - Business
-
-### On this page
+# Privacy policy - Canon India - Personal
 
 ###  Acceptance
 
-This website ("Canon Website") is provided to you by Canon India Pte Ltd ("Canon") on the following terms and conditions ("Terms and Conditions"). By accessing any page on this Canon Website, you agree to be bound by these Terms and Conditions. These Terms and Conditions may be updated by Canon from time to time without prior notice. You should check the Terms and Conditions for updates each time you access the Canon Website.
+This website ("Canon Website") is provided to you by Canon Singapore Pte. Ltd.("Canon") on the following terms and conditions ("Terms and Conditions"). By accessing any page on this Canon Website, you agree to be bound by these Terms and Conditions. These Terms and Conditions may be updated by Canon from time to time without prior notice. You should check the Terms and Conditions for updates each time you access the Canon Website.
 
 Top
 
@@ -48,15 +46,15 @@ Top
 
 ### How We Use Information
 
-We use the Information you provide about yourself to perform the service you have requested and may use that Information to provide you with information about other Canon products and promotions that may be of interest to you. Your Information may be shared among our employees, agents or other related and unrelated Canon entities and/or business partners acting on our behalf to conduct surveys or to provide a product or service you have requested. We do not share this information with non-Canon companies except to the extent necessary to complete your requests and, in the event we do share it, it is subject to their agreement to treat it as confidential business information and with the understanding that it may not be used for any purpose other than to perform their function. If you inquire about a product that Canon does not sell directly, we may forward your information to a Canon authorized dealer, distributor or other reseller. Use of your information by the authorized dealer, distributor or reseller is governed by its own policies, not Canon's. Canon may also provide links to dealer sites from the Canon Website. See our discussion below and in our [Terms of Use](https://web.archive.org/business/web/terms/) about further information about such links.
+We use the Information you provide about yourself to perform the service you have requested and may use that Information to provide you with information about other Canon products and promotions that may be of interest to you. Your Information may be shared among our employees, agents or other related and unrelated Canon entities and/or business partners acting on our behalf to conduct surveys or to provide a product or service you have requested. We do not share this information with non-Canon companies except to the extent necessary to complete your requests and, in the event we do share it, it is subject to their agreement to treat it as confidential business information and with the understanding that it may not be used for any purpose other than to perform their function. If you inquire about a product that Canon does not sell directly, we may forward your information to a Canon authorized dealer, distributor or other reseller. Use of your information by the authorized dealer, distributor or reseller is governed by its own policies, not Canon's. Canon may also provide links to dealer sites from the Canon Website. See our discussion below and in our [Terms of Use](https://web.archive.org/personal/web/terms/) about further information about such links.
 
 We use return email addresses to answer the email we receive as well as to provide you with product and service updates, special promotions and offers.
 
 In the course of growing or restructuring our business, we may purchase the assets of another company or sell the assets of our company. During these transactions, information about customers is frequently considered a business asset that is the subject of such a purchase or sale. Also, in the unlikely event that Canon, or substantially all of its assets are either acquired or subject to liquidation in bankruptcy, Information may be transferred as well.
 
-The Canon Website may contain hyperlinks to and from other Internet websites, including other Canon Company websites. These websites may have different privacy practices from the ones described here. Since this Statement applies solely to this Website, please read the privacy statements of the other websites you visit. For more information about hyperlinks, please see the [Terms of Use](https://web.archive.org/business/web/terms/) posted elsewhere on our Canon Website.
+The Canon Website may contain hyperlinks to and from other Internet websites, including other Canon Company websites. These websites may have different privacy practices from the ones described here. Since this Statement applies solely to this Website, please read the privacy statements of the other websites you visit. For more information about hyperlinks, please see the [Terms of Use](https://web.archive.org/personal/web/terms/) posted elsewhere on our Canon Website.
 
-[Terms of Use](https://web.archive.org/business/web/terms/)and other agreements, or to protect the rights, property, or safety of Canon, Canon Website users or others. This includes exchanging Information with other companies and organizations for fraud protection and credit risk reduction. 
+[Terms of Use](https://web.archive.org/personal/web/terms/)and other agreements, or to protect the rights, property, or safety of Canon, Canon Website users or others. This includes exchanging Information with other companies and organizations for fraud protection and credit risk reduction. 
 
 Top
 
@@ -76,12 +74,11 @@ Top
 
 If you have questions or concerns about this Statement, please contact us at:
 
-**Canon India Pvt Ltd.**  
-7th & 8th Floor,  
-Tower B Building # 5  
-DLF Cyber Terraces, DLF Phase III  
-Gurgaon - 122002  
-Telephone : 0124-4160000  
-Fax : 0124-4160011 
+Canon Singapore Pte. Ltd.  
+1 HarbourFront Avenue #04-01,   
+Keppel Bay Tower   
+Singapore 098632  
+Tel: (65) 6799 8888   
+Fax: (65) 6799 8882 
 
 Top
