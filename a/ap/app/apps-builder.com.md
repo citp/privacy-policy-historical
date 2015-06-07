@@ -1,12 +1,39 @@
-> *The following text is extracted and transformed from the apps-builder.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705143058id_/http%3A//www.apps-builder.com/pag/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apps-builder.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607025920id_/http%3A//www.apps-builder.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - AppsBuilder
+# AppsBuilder - Privacy Statement
 
 AppsBuilder Srl ("AppsBuilder," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by AppsBuilder when you use Apps-Builder.com and/or related AppsBuilder software and services (the "Service"), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy.Information We Collect
 
 **User-Provided Information:** As part of using the Service, you may be required to provide certain information in order to register and set up an account (including billing and credit card information), or at your option for certain free Services (Registration Data). If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. If you invite a friend to try AppsBuilder, we will use that friend's email address for the sole purpose of sending your invitation.
 
-**Cookies Information:** When you visit Apps-Builder.com, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. A cookie does not collect personal information about you. AppsBuilder uses both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser's directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
+**Cookies Information:**
+
+Cookies are small text files sent to the device of the user by the visited website. Cookies are stored in the computer hard disk, thus allowing the website to recognize user and store certain information concerning them, in order to permit or improve the service offered.
+
+There are different types of cookies. Some are necessary to navigate on the site, others have a different purpose such as ensuring internal security, performing system administration tasks and statistical analysis, understanding which sections of the website are more relevant to users, or offering a personalized experience on the website. 
+
+The Site uses cookies that do not run programs on the device of the user nor upload viruses on it, and that do not allow any kind of control over the device. AppsBuilder does not use cookies to access information on the device, to store data on it or to monitor the activities. The foregoing refers to both the device of the user or any other device used to access the Site.
+
+Session cookies are stored temporarily on the device and are deleted when the user closes the browser. If a user registers to the site, AppsBuilder may use cookies to collect personal data that allow to identify the user during subsequent visits and facilitate access, login to the Site (for example by remembering username or nationality of the user) or the navigation on it. AppsBuilder also uses cookies for , system administration purposes, and to provide customized visits to the Site.
+
+The Site may contain links to other sites. AppsBuilder has no access or control over cookies, web bacon and other tracking technologies used on third-party sites which the user may access from the Site, the availability of any content, and material that is published or obtained through such sites and related methods of treatment of the personal data; AppsBuilder expressly disclaims any responsibility accordingly. The user should check the privacy policy of third party websites accessed from the Site to learn about the conditions applicable to the processing of personal data since this Privacy Policy applies only to the Site as defined above. 
+
+Disabling cookies may limit the ability to use the Site and prevent from benefitting in full of the features and services offered on the Site. In order to decide which cookies to accept or reject, please find below a description of the cookies used on the Site.
+
+Types of cookies used 
+
+  * First Party Cookies: First party cookies are set by the website visited by the user, whose address appears in the URL window.
+  * Third Party Cookies: The third party cookies are set from a different domain than the one visited by the user. When a user visits a website and a different company sends the information through that website, that is a third party cookie.  
+AppsBuilder has no access or control over cookies, web bacon and other tracking technologies used by third-party sites which the user may access from the AppsBuilder website in this regard expressly disclaims any responsibility accordingly. The user is encouraged to read the privacy policies of third party websites accessed through the Site, to understand the conditions applicable to the processing of personal data. 
+  * Session Cookies: These cookies are stored temporarily and are deleted when the user closes the browser window. 
+  * Persistent Cookies: Persistent cookies are stored on the device of the user between browser sessions, allowing the Site to remember preferences and actions on the Site. These cookies can be used for different purposes, e.g. to remember preferences and choices when using a site.
+  * Essential cookies: These cookies are strictly necessary for the operation of the Site. Without the use of such cookies, some sections of the Site may not work. They include, for example, cookies that enable access to protected areas of the Site. These cookies do not collect personal information for marketing purposes and can not be disabled. Functional Cookies: These cookies are used to identify a user that returns to the Site. It allows to customize the content and remember preferences of the user (such as the language or country). These cookies do not collect information that can identify the user. All information collected is anonymous. 
+  * Cookies for sharing on Social Networks: These cookies facilitate the sharing of site content through social networks such as Facebook and Twitter. To review the respective privacy policies cookies, you can visit the social networks websites. In the case of Facebook and Twitter please visit https://www.facebook.com/help/cookies and https://twitter.com/privacy.
+
+
+
+How to change cookies settings  
+Most browsers automatically accept cookies, but the user can usually change settings to disable this function. It is possible to block all types of cookies, or agree to receive only some of them disabling others. The "Options" or "Favorites" sections in the browser menu permit to accept or avoid receiving cookies and other tracking technologies, as well as to receive notification from the browser when these technologies are used. Alternatively, it is possible to manage cookies consulting the "Help" section of the toolbar present in most browsers. It is also possible to select the browser from the list below and follow the instructions: -Internet Explorer; - Chrome; - Safari; - Firefox; - Opera. From mobile:- Android; - Safari; - Windows Phone; - Blackberry. 
 
 **File Information:** Log file information is automatically reported by your browser each time you access a web page. When you view Apps-Builder.com, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
 
@@ -57,6 +84,8 @@ It is our policy to provide notifications, whether such notifications are requir
 **Italian Based Service**
 
 Our center of operation is in Italy. Your data is held in Italy and transactions are processed in Euros on servers in Italy. As such, all data is held in accordance with Italian laws and procedures which differ from those in other regions of the world. By using this service, you acknowledge that you understand and agree to these data policies.
+
+www.apps-builder.com is currently hosted in Italy and Ireland. We may transfer and store your information gathered or submitted by you through the website, outside your country or outside the EEA. Though some countries do not provide an adequate level of data protection as defined under the Italian and European Laws on Privacy, we have taken steps to ensure that our hosting providers, provide the necessary level of protection for your information.
 
 **Changes to Our Privacy Policy**
 
