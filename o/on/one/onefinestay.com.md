@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onefinestay.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228133423id_/http%3A//www.onefinestay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onefinestay.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152644id_/http%3A//www.onefinestay.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | onefinestay
 
@@ -49,7 +49,10 @@
     2. Storing details about any properties you have short-listed; 
     3. Enabling our web server to track your session between pages of the site and provide a continuity of experience.
   3. You can block or erase cookies from your computer if you want to (your browser’s help screen or manual should tell you how to do this), but certain parts of the Site are reliant on the use of cookies to operate correctly and may not work correctly if you set your browser not to accept cookies.
-  4. When using our site, there are a number third parties who also need to store cookies for essential running of the site. These include but are not limited to, Amazon for the running of our load balancers, Google to enable Interactive Maps and help us with Analytics. If you have any concerns, please contact us.
+  4. When using our site, there are a number third parties who also need to store cookies for essential running of the site. These include but are not limited to:
+    1. Amazon for the running of our load balancers;
+    2. Google to enable Interactive Maps, help us with Analytics and provide re-marketing campaigns tailored to your browsing using Google Advertiser Features. If you wish to opt out out of the Google Advertiser Features please click [here](https://tools.google.com/dlpage/gaoptout/ "Opt Out of Google Advertiser Features") for details.
+  5. If you have any other concerns, please contact us. 
 
 
 
