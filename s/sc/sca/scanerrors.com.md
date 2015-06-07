@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scanerrors.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703044747id_/http%3A//www.scanerrors.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scanerrors.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607081130id_/http%3A//scanerrors.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,11 +43,11 @@ ScanErrors.com may occasionally update this Privacy Policy. Any changes will be 
 
 **6\. CONTACT INFORMATION**
 
-For questions regarding this Privacy Policy please [contact us](https://web.archive.org/web/20140703044747id_/http%3A//www.scanerrors.com/contact.php).
+For questions regarding this Privacy Policy please [contact us](https://web.archive.org/web/20150607081130id_/http%3A//scanerrors.com/contact.php).
 
 **7\. OPT OUT INSTRUCTIONS**
 
-To opt out of any communications from this website, please send an email through our [contact form](https://web.archive.org/web/20140703044747id_/http%3A//www.scanerrors.com/contact.php).
+To opt out of any communications from this website, please send an email through our [contact form](https://web.archive.org/web/20150607081130id_/http%3A//scanerrors.com/contact.php).
 
 Copyright © ScanErrors.com. All Rights Reserved.
 
