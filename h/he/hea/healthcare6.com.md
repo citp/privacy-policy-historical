@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthcare6.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206081342id_/http%3A//www.healthcare6.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcare6.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607033949id_/http%3A//www.healthcare6.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -63,11 +63,11 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
  **Terms and Conditions**
 
-Please also visit our [Terms of Service](http://www.healthcare6.com/terms-of-service.html) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms of Service](https://web.archive.org/terms-of-service.html) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your Consent**
 
-By using our site, you consent to our [Privacy Policy](http://www.healthcare6.com/privacy-policy.html).
+By using our site, you consent to our [Privacy Policy](https://web.archive.org/privacy-policy.html).
 
  **Changes to our Privacy Policy**
 
