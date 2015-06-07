@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ezrankings.org privacy policy that was archived on 2014-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140906091945id_/http%3A//www.ezrankings.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezrankings.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607065231id_/http%3A//www.ezrankings.org/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Privacy Policy, Ezrankings Policies
+# Privacy Policy – EZ Rankings
 
- At **EZ Ranking IT Services Pvt. Ltd**., we are committed to safeguarding and preserving the privacy of our visitors.
+ At **EZ Rankings**., we are committed to safeguarding and preserving the privacy of our visitors.
 
 This Privacy Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our site.
 
@@ -80,7 +80,7 @@ Please do not hesitate to contact us regarding any matter relating to this Priva
 
 **www.ezrankings.org**
 
-EZ Ranking IT Services Pvt. Ltd.
+**  EZ Ranking IT Services Pvt. Ltd.**
 
 C – 4/19, 1st Floor,
 
@@ -93,5 +93,3 @@ New Delhi – 110091
 India
 
 +91 – 11 – 40507919
-
-contactus@ezrankings.org
