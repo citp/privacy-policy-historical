@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the howrse.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129052849id_/http%3A//www.owlient.eu/2013/10/29/pp-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howrse.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607154452id_/http%3A//www.owlient.eu/2013/10/29/pp-us) for the most accurate reproduction.*
 
-# PP-US | Owlient
+# PRIVACY STATEMENT | Owlient
 
-PRIVACY STATEMENT
-
-Last updated March 1, 2014
+Last updated March 2, 2015
 
 OUR PRIVACY COMMITMENT
 
@@ -111,7 +109,7 @@ We will not share the personal information we collect from you through the Servi
     * To enforce or apply this Policy, our Terms of Use, or our other policies or agreements;
     * To enter you into a sweepstakes, contest, or promotion; and
     * To respond to your questions.
-
+    * 
 
 
 **Aggregate Information**
