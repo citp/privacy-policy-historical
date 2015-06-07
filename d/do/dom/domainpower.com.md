@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainpower.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222213042id_/http%3A//www.domainpower.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainpower.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607171412id_/http%3A//www.domainpower.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | DomainPower
 
@@ -77,7 +77,7 @@ This policy was last modified on 7/13/2011
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 **[www.domainpower.com](https://web.archive.org/)**  
-Domain Holdings, Inc.  
+Bidtellect, Inc.  
 777 East Atlantic Avenue Suite 312  
 Delray Beach, FL 33483  
 USA  
