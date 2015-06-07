@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the charteredclub.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228045121id_/http%3A//www.forum.charteredclub.com/pages/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charteredclub.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144235id_/http%3A//www.forum.charteredclub.com/pages/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Chartered Club: Q&A Forum for CA & Taxpayers
 
-[](https://web.archive.org/web/20141228045121id_/http%3A//www.forum.charteredclub.com/pages/misc/quick-navigation-menu?selected=node-40 "Open quick navigation")
+[](https://web.archive.org/web/20150607144235id_/http://www.forum.charteredclub.com/pages/Privacy/misc/quick-navigation-menu?selected=node-40 "Open quick navigation")
 
 **Chartered Club: Q &A Forum for CA & Taxpayers**
 
