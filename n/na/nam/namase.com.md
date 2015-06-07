@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namase.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231062137id_/http%3A//www.techlila.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namase.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608003417id_/http%3A//www.techlila.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • TechLila
 
