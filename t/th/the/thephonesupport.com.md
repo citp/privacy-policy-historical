@@ -1,17 +1,7 @@
-> *The following text is extracted and transformed from the thephonesupport.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011233944id_/http%3A//thephonesupport.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thephonesupport.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607072830id_/http%3A//www.thephonesupport.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | The Phone Support
 
-|  | 
-
-**Need help with your PC?** We’re here for you - Just in one Call tech expert is ready for help.  
-  
----  
-  
-Call for instant support  
-  
-Toll-FREE:(855) 765-6710  
-  
 Privacy Policy
 
 We value the relationship we have with our customers and are committed to responsible information-handling practices. We take great care in safeguarding your personal information and in complying with all applicable federal laws and our own internal standards and best practices. "The Phone Support" follows these privacy principles both online and offline in the collection, use, security and sharing of customer information:
@@ -34,6 +24,16 @@ As part of your interaction with "The Phone Support", we may collect personal in
   * Contact information, including name, mailing address, phone number and e-mail address
   * Purchase information, billing and/or shipping information.
   * Product information, including services, devices and software used.
+
+
+
+As a Registered customer of "The Phone Support Pvt. Ltd." We might call you for the following specific reasons:
+
+  1. Follow up calls for troubleshooting issues.
+  2. Regular Maintenance calls
+  3. Customer service/Feedback Calls.
+  4. Subscription Status / Renewal Calls.
+  5. Follow up calls for processing refunds etc.
 
 
 
@@ -92,3 +92,14 @@ Please contact "The Phone Support" to report a known or suspected privacy or sec
 PRIVACY POLICY CHANGES
 
 We may need to update our Privacy Policy as "The Phone Support" and our customers grow and evolve. If we make any material changes, including any change in ownership or uses of your personal information, we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective, as well as inform you of any choices you may have with respect to these changes. "The Phone Support" reserves the right to make changes to this policy as & when required.
+
+CONTACT IINFORMATION
+
+Should you have further queries, please e-mail us at support@thephonesupport.com or you can drop a mail at:
+
+**The Phone Support**  
+572 & 573, G-2, Tower B-1 Evolve,  
+IT/ITeS Mahindra World City,  
+Village Kalwara, Taluka Sanganer,  
+Jaipur- 302037,  
+INDIA 
