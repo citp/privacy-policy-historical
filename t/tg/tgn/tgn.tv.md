@@ -1,6 +1,17 @@
-> *The following text is extracted and transformed from the tgn.tv privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211200248id_/http%3A//bbtv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tgn.tv privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174319id_/http%3A//bbtv.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BroadbandTV Corp.
+# BroadbandTV Corp.
+
+## menu
+
+  * [Content Creators](https://web.archive.org/content-creators)
+  * [Brands](https://web.archive.org/brands)
+  * [Enterprise](https://web.archive.org/enterprise)
+  * [About](https://web.archive.org/about)
+  * [Press](https://web.archive.org/press)
+  * [Careers](https://web.archive.org/careers)
+
+
 
 ## Privacy Policy
 
@@ -153,4 +164,4 @@ Email: info@bbtv.com
   
 ---  
   
-******
+**********
