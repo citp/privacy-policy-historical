@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookashowing.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206002226id_/http%3A//bookashowing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookashowing.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607183048id_/http%3A//www.bookashowing.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
