@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the bedsider.org privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107105058id_/http%3A//bedsider.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedsider.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607170925id_/http%3A//bedsider.org/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy: Bedsider
+# Privacy Policy - Bedsider
 
-Welcome to Bedsider.org and the Bedsider network (collectively, “Bedsider”). Bedsider is operated by The National Campaign to Prevent Teen and Unplanned Pregnancy (“The National Campaign,” “we,” or “us”).  
+Welcome to Bedsider.org and the Bedsider network (collectively, “Bedsider”). Bedsider is operated by The National Campaign to Prevent Teen and Unplanned Pregnancy (“The National Campaign,” “we,” or “us”). 
 
-
-This page lists all the privacy stuff you need to know. There’s a lot of text, so here’s the summary: Your privacy is important to us. We’ll never sell your name or information. Ever. But there may be times we share it with our partners if they’re providing a service to you.
+This page lists all the privacy stuff you need to know. There’s a lot of text, so here’s the summary: Your privacy is important to us. We’ll never sell your name or information. Ever. But there may be times we share it with our partners if they’re providing a service to you. 
 
 ### Information we collect
 
@@ -20,7 +19,7 @@ _Cookies_. When you visit Bedsider, we may assign your computer a “cookie” (
 We may use the information we collect about you in certain ways in connection with our business. These uses include:
 
   * Providing you with the products and services you request;
-  * Responding to your questions and comments;
+  * Responding to your questions and comments; 
   * Providing you with information, including advertising, about selected products and services offered by Bedsider or others that may be of interest to you;
   * Facilitating communications between you, your friends, and other users;
   * Soliciting information and feedback from you, including through surveys and questionnaires;
@@ -45,27 +44,25 @@ We may share the information we collect about you in limited circumstances, incl
 
 
 
-We do not sell or rent your personal information to anyone.
+We do not sell or rent your personal information to anyone. 
 
 ### How you can delete or update your information
 
-You can delete or update the personal information you have provided on Bedsider.org by contacting us at [info@bedsider.org](mailto:info@bedsider.org).
+You can delete or update the personal information you have provided on Bedsider.org by contacting us at [info@bedsider.org](mailto:info@bedsider.org). 
 
 Website visitors who don’t want their visit data reported by Google Analytics can install the Google Analytics opt-out browser add-on. This add-on instructs the Google Analytics JavaScript running on Bedsider (and other websites) to prohibit sending visit information to Google Analytics. Additionally, visitors that have installed the opt-out browser add-on are not exposed to [Content Experiments](https://support.google.com/analytics/answer/1745147).
 
 If you want to opt-out of Analytics for the web, visit the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout) and install the add-on for your browser. For more details on installing and uninstalling the add-on, please see the relevant help resources for your specific browser.
 
-The Google Analytics opt-out browser add-on does not prevent data from being sent to the website itself or in other ways to web analytics services.  
-
+The Google Analytics opt-out browser add-on does not prevent data from being sent to the website itself or in other ways to web analytics services. 
 
 ### How we protect your information
 
-We have implemented procedures to help protect the personal information that you provide to us. However, no method of transmitting or storing electronic data is ever completely secure, and we cannot guarantee that such information will never be accessed, used, or released in a manner that is inconsistent with this policy.
+We have implemented procedures to help protect the personal information that you provide to us. However, no method of transmitting or storing electronic data is ever completely secure, and we cannot guarantee that such information will never be accessed, used, or released in a manner that is inconsistent with this policy. 
 
 ### Children’s privacy
 
-We do not knowingly collect personal information from children under 13. Should we learn that a child under 13 has provided us with personal information, we will delete that information from our database.  
-
+We do not knowingly collect personal information from children under 13. Should we learn that a child under 13 has provided us with personal information, we will delete that information from our database. 
 
 ### A special word about public forums
 
@@ -91,5 +88,4 @@ The National Campaign to Prevent Teen and Unplanned Pregnancy 1776 Massachusetts
 
 This privacy policy is effective as of November 1, 2009.
 
-All rights reserved. Copyright © 2014. The National Campaign to Prevent Teen and Unplanned Pregnancy.  
-
+All rights reserved. Copyright © 2014. The National Campaign to Prevent Teen and Unplanned Pregnancy. 
