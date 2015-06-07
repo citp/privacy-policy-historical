@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the e-mailfor.me privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120055718id_/http%3A//e-mailfor.me/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-mailfor.me privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607202646id_/http%3A//e-mailfor.me/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Inbox Ace - Email Toolbar
+# E-mailfor.me
 
 E-mailFor.Me is commited to protect your privacy and will only use information collected about you in accordance with the Data Protection Act 1998 and the European Directive on Privacy and Electronic Communications (2002/58/EC).
 
