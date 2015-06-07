@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the top10bestvpn.com privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027020106id_/http%3A//www.top10bestvpn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10bestvpn.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608002503id_/http%3A//www.top10bestvpn.com/privacy) for the most accurate reproduction.*
 
-# Top 10 Best VPN Services
+# Privacy Policy
 
 Privacy Policy governs the manner in which top10bestvpn.com collects, uses, maintains and discloses information collected from users (each, a "User") of the top10bestvpn.com website ("Site"). This privacy policy applies to the Site and all services offered by top10bestvpn.com.
 
