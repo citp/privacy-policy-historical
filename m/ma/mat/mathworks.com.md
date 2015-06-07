@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathworks.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120112018id_/http%3A//www.mathworks.com/company/aboutus/policies_statements) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathworks.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607202902id_/http%3A//www.mathworks.com/company/aboutus/policies_statements) for the most accurate reproduction.*
 
 # Policies and Statements
 
@@ -12,6 +12,7 @@ At MathWorks, we believe it is your right to know what information we collect, h
   4. How to remove or update your order information
   5. How your information submitted to MATLAB Central may be used
   6. How we collect information through products
+  7. How long we store your information
 
 
 
@@ -25,7 +26,42 @@ MathWorks has further committed to refer unresolved privacy complaints under the
 
 ### 2\. How we use and collect your information
 
-We will not sell or rent your personal contact information to other companies. We will not disclose your personal contact information to other companies, except in the limited manner and for the limited purposes described below. The MathWorks Web site has several forms and additional collection methods that request contact, payment, and [other information](https://web.archive.org/company/aboutus/policies_statements/includes/collection.html?type=shadow). Providing such information is optional, but you may be unable to complete certain transactions, obtain certain services, or access certain features of the MathWorks Web site or software without providing the requested information.
+We will not sell or rent your personal contact information to other companies. We will not disclose your personal contact information to other companies, except in the limited manner and for the limited purposes described below. The MathWorks Web site has several forms and additional collection methods that request contact, payment, and other information. Providing such information is optional, but you may be unable to complete certain transactions, obtain certain services, or access certain features of the MathWorks Web site or software without providing the requested information.
+
+Through Web forms and other online collection methods, we may ask you to provide some of the following information: 
+
+  * Name
+  * Title
+  * Company or University
+  * Professional Organization Affiliation
+  * Department
+  * Mailing Address
+  * E-mail Address
+  * Phone Number
+  * Fax Number
+  * Default Language
+  * License Number
+  * MathWorks Account ID
+  * MathWorks Account Password
+  * Application Area
+  * Industry
+  * Job Function
+  * If you are a student: 
+    * Area of study
+    * Year of graduation
+    * Are you an undergraduate or graduate student?
+  * How did you hear about this event?
+  * Which MathWorks products do you use and how often?
+  * Which MathWorks products are you interested in?
+  * Would you like a representative to contact you with more information?
+  * Would you like more information on pricing or product trials?
+  * How did you receive your product trial CD?
+  * How will you use the software?
+  * Would you like more information about a participating partner's products?
+  * Are you planning to evaluate a participating partner's technology in the next 90 days?
+  * Would you like to have a participating partner contact you, or have us share your information with the partner? 
+
+
 
 MathWorks uses the personal information it collects for the following purposes:
 
@@ -37,7 +73,7 @@ MathWorks uses the personal information it collects for the following purposes:
   * To notify you of new products, updates, or other information related to your purchases or information requests. 
   * To enable delivery of consulting or training services and participation in seminars, trade shows, or other events.
   * To comply with obligations imposed by applicable laws or regulations, or with a court or administrative order.
-  * To provide important information regarding the renewal of agreements, version upgrades, and other alterations related to Company products and services used by customers. 
+  * To provide important information regarding the renewal of agreements, version upgrades, and other alterations related to Company products and services used by customers.
 
 
 
@@ -78,10 +114,16 @@ The [MATLAB® Central](https://web.archive.org/matlabcentral/) portion of MathWo
 
 To enable you to use our products, we may request or collect information such as your name, e-mail address, physical location, phone number, title, company name, and/or system login name. Such information may be used to activate, register, or update your product or license. This allows us to understand your requirements; to ensure safe, secure, and effective licensing of our products; and to provide you with information that you may need for support in the future. MathWorks will use information provided or collected only in ways consistent with this Privacy Policy.
 
+MathWorks may also collect usage and device data through MATLAB Mobile, such as the type of operating system running on your device or the number of times that you access MATLAB Mobile. This data is not personally identifiable and will not be associated with your personal information. It is collected solely for the purpose of MathWorks’ internal analytics, and is not shared with third parties.
+
+### 7\. How long we store your information
+
+We may keep your information for as long as your account is active or as needed to provide you services. We may also retain and use your information as necessary to comply with our legal obligations, resolve disputes, prevent fraud and abuse, and enforce our agreements.
+
 ### Changes to the Privacy Policy
 
 MathWorks may make improvements or changes in the information, services, products, and other materials on the MathWorks Web site at any time without notice. MathWorks may modify this Privacy Policy at any time, and such modifications shall be effective immediately upon posting of the modified Privacy Policy. Notification of material changes to this Privacy Policy will be provided by noting a new "updated" date in connection with the Privacy Policy link that appears at the bottom of each page. 
 
 _If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, please[contact us](https://web.archive.org/company/feedback/)._
 
-Updated 08/27/2009
+Updated December 12, 2014
