@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redirectyourcarbs.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526180838id_/http%3A//redirectyourcarbs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redirectyourcarbs.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607162536id_/http%3A//redirectyourcarbs.com/privacy) for the most accurate reproduction.*
 
 # RedirectYourCarbs.com - Privacy Policy
 
@@ -89,8 +89,8 @@ This policy was last modified on **10/26/12**
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 www.redirectyourcarbs.com  
-14603 East Moncrieff Place, Ste 100  
-Aurora, CO 80011  
+111 Congress Ave; Suite 400  
+Austin, TX 78701  
 USA  
 Support@RedirectYourCarbs.com  
 1-800-558-9522
