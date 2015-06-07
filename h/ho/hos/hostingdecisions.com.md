@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostingdecisions.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106100905id_/http%3A//hostingdecisions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostingdecisions.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608013139id_/http%3A//hostingdecisions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HostingDecisions
 
