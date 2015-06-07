@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sneakhype.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205132153id_/http%3A//sneakhype.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sneakhype.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145607id_/http%3A//sneakhype.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SNEAKHYPE
+# Privacy Policy | Sneakhype
 
 **What information do we collect?**
 
@@ -69,7 +69,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://sneakhype.com/terms](https://web.archive.org/web/20141205132153id_/http%3A//terms)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://sneakhype.com/terms](https://web.archive.org/web/20150607145607id_/http%3A//terms)
 
 **Your Consent**
 
@@ -85,7 +85,7 @@ This policy was last modified on May 8th, 2011
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://sneakhype.com
+[http://sneakhype.com](http://sneakhype.com/)
 
 USA  
 mgmt@sneakhype.com
