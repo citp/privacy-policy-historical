@@ -1,134 +1,175 @@
-> *The following text is extracted and transformed from the datavalidation.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130213848id_/http%3A//www.datavalidation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datavalidation.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200325id_/http%3A//www.datavalidation.com/privacy) for the most accurate reproduction.*
 
 # Data Validation | Privacy
 
-## DataValidation Privacy Summary
+  
+
+
+## DataValidation Privacy Policy
+
+### Effective Date: Feb 21, 2013
 
 DataValidation is committed to maintaining your trust and we are transparent in our practices. We ensure that your data is completely protected, never sold, shared or marketed to, and only collected from publicly available sources. As part of being transparent, you have complete control over your data and what is publicly available.
 
-### Our Privacy Policy explains:
+Your privacy matters to DataValidation. Whether you are new to DataValidation or a long-time user, please take the time to get to know our practices.
 
-  * What information we collect and why we collect it How we use this information
-  * The choices we offer, including how to access, update and remove information
-  * We have kept this simple for your understanding, but if you’re not familiar with terms like cookies, IP addresses, SFTP and API, then please feel free to contact us. Your privacy matters to DataValidation so whether you are new to DataValidation or a long-time user, please take the time to get to know our practices.
+### 1\. Definitions
+
+DataValidation (“DataValidation”, the “Service”, “We”, or “Us”) is an email validation service offered through the URL www.datavalidation.com (or the “Website”), or any of its related apps, APIs, or partners. DataValidation is owned and operated by Synappio, LLC, a Georgia limited liability corporation.
+
+The “Customer” means “you”, as a customer of the Service, or a representative of an entity that is a customer of the Service.
+
+### 2\. Changes
+
+DataValidation reserves the right to update our Privacy Policy from time to time and as needed. Any changes to this Privacy Policy will be effective upon delivery to the last email address provided by the Customer or posted on our Website, whichever date is later.
+
+If you object to our Privacy Policy or the changes made hereafter, we require written notification stating so, and your account will be terminated upon such date as we receive this notification. Our contact information is listed under section 5 below.
+
+### 3\. Effective Date
+
+This Privacy Policy is effective with respect to any data collected by DataValidation in the past, present, and future about and/or for you, according to our Terms of Service.
+
+### 4\. Transfers
+
+If we are involved in a merger, acquisition, sale of all or a substantial portion of our assets, or other similar transaction, your information may be transferred as part of that transaction. You will be notified by email and/or a prominent notice display on our Website of any such transaction and the choices you may have regarding your information.
+
+### 5\. Questions and Notifications
+
+If you have any questions, comments, concerns, cute limericks, or sage advice, we can be contacted at: support [at] datavalidation.com, or by mail   
+DataValidation.com / Synapp.io, LLC   
+75 5th St NW,   
+Suite 207   
+Atlanta, GA 30308
+
+## Information Collection
+
+### 6\. Personal Information
+
+In the course of using the Services, we ask you to provide us with certain personally identifiable information that can be used to contact or identify you and administer your account (“Personally Identifiable Information”). This may include, but is not limited to, your name, phone number, credit card or other billing information, email address and postal address.
+
+If you elect to link an email service provider (ESP) account, we may also collect information about that account, including username and password, campaign history, and any other information or credentials necessary to provide the DataValidation Service.
+
+### 7\. Public Information
+
+DataValidation also collects information that is publicly accessible (“Publicly Identifiable Information”). Publicly Identifiable Information (e.g. information available to search engines), may include social network profiles not set to ‘private’ or information on a social networking page visible to users who are not logged in. If you do not want to be searched or indexed by search engines or services like DataValidation, we recommend that you set appropriate privacy controls within social networks and third-party applications such as Facebook, Twitter and LinkedIn. You can learn how to do this by visiting these sites directly.
+
+### 8\. List and Email Information
+
+When you upload an email list or link an ESP account on our Website or any of our affiliated Services, we have access to the data on your list, such as email addresses and contact names.
+
+### 9\. Marketing Optimization Application
+
+The DataValidation Marketing Optimization Application allows Customers to dynamically populate their contacts with Marketing Optimization Scores. To enable this application, we will download the contact information for each user’s contacts and leads, and use this information to determine various optimization scores for each contact. We will give users the ability to review these matches and choose the most likely correct match. DataValidation will then store match information for use within the Service.
+
+### 10\. Information from your Use of the Service
+
+We may get information about how and when you use the Services. This information may include your IP address, time, date, browser used, actions taken by you within the application, and the web page you were previously visiting before traveling to our Website.
+
+### 11\. Cookies
+
+DataValidation uses cookies, which are strings of code that we transfer to your computer’s hard disk for record-keeping purposes, such as saving your username and login password for future logins, or to monitor web traffic routing to our Website and aggregate usage of the Services. You may turn off cookies that have been placed on your computer by following the instructions for your browser. Please be aware that by not accepting cookies, you may not be able to use all portions of the Sites or all functionality of the Services. Our cookies are tied to Personally Identifiable Information.
+
+### 12\. Web Beacons
+
+DataValidation uses software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. Clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. The information gathered by clear gifs is tied our customers’ Personally Identifiable Information.
+
+### 13\. Third Party Tracking
+
+The use of cookies or web beacons by our partners, affiliates, tracking utility companies, or service providers is not covered by our privacy policy. We have no access or control over these third-party tracking technologies.
+
+### 14\. Behavioral Targeting/ Re-Targeting
+
+DataValidation partners with a third party ad network to either display advertising on our Website or to manage our advertising on other sites. Our ad network partner uses Cookies and Web Beacons to collect non-personally identifiable information about your activities on this and other Websites to provide you targeted advertising based upon your interests. If you do not wish to have this information used for the purpose of serving you targeted ads, you may opt-out by disabling cookies located on your computer by following the instructions in your browser. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+
+### 15\. Children
+
+DataValidation does not knowingly collect Personally Identifiable Information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personally Identifiable Information without their consent, please contact us at support [at] datavalidation.com. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+
+## Use and Disclosure of Your Personal Information
+
+### 16\. DataValidation will never sell or share the Personal Identifiable Information you provide us with to other organizations for their marketing or promotional uses without your express consent. DataValidation will only ever use and disclose your Personal Information for the following purposes:
+
+  1. To bill and collect money owed to us. This includes sending you emails, invoices, receipts, alerting you to expired credit cards and requesting new billing information. We use third parties for secure credit card transaction processing, and we send billing information to those third parties to process your orders and credit card payments.
+  2. To send you service announcements. For example, we may notify you of changes to our Privacy Policy, or changes to our Service, such as planned outages, maintenance, new features, releases, or updates.
+  3. To provide customer support.
+To support and improve the Services we offer. This includes features and content. 
+  4. To communicate with you about your account - for informational, and not promotional, reasons. This includes responses to any potential requests you may make.
+  5. To send you informational and promotional content that you may choose (or "opt in") to receive. You can stop receiving our promotional emails by following the unsubscribe instructions included in every email.
+  6. To transfer your information in the case of a sale, merger, consolidation, or acquisition. In such an event, any acquirer will be subject to our obligation under this Privacy Policy.
+  7. To enforce compliance with our Terms of Service and applicable law. This may include developing tools and algorithms that help us prevent violations.
+  8. To protect the rights and safety of our Customers and third parties, as well as our own.
+  9. To meet legal requirements, such as complying with court orders and valid subpoenas.
+  10. To provide information to representatives and advisors, such as attorneys and accountants, to help us comply with legal, accounting, or security requirements.
+  11. To prosecute and defend a court, arbitration, or similar proceeding.
 
 
 
-## Privacy Policy:
+If you decide at any time that you no longer wish to receive such communications, please follow the unsubscribe instructions provided in any of the communications, or contact us at support [at] datavalidation.com to remove your information from our database.
 
-### Effective: Feb 21, 2013
+## Public Information and Third Parties
 
-DataValidation is a web application that uses public information found on the Internet. Providing the DataValidation services requires collecting and sharing information about you, while shielding sensitive personal information from risks of misuse.
+### 17\. Testimonials
 
-DataValidation (“DataValidation”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive when you visit and use the www.DataValidation.com site and any websites owned or operated by DataValidation (collectively, the “Sites”), and when you use any of DataValidation’s data append services (collectively, the “Services”). This Privacy Policy applies only to information that you provide to us when you access, download, purchase or use any information, services, products or content appearing on the Sites or offered by DataValidation through the Services. The use of information provided by commercial users of our Service (“Clients”) in connection with our Services shall be limited to the purpose of providing the service for which the Client has engaged DataValidation, subject to this Privacy Policy and the written Service agreement between DataValidation and Client.
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at support [at] datavalidation.com. If you provide us with comments or feedback we may collect your name and email address, as well as any other content included in the email to send you a reply and improve our Service.
 
-This Privacy Policy may be updated from time to time to reflect changes to our information practices. If we make any material changes we will notify you or our Client by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+DataValidation may copy, modify, create derivative works, display, disclose, distribute, and use these testimonials and any feedback provided by Customers regarding the APIs or the Services without any obligation to compensation.
 
-Information Collection: Personally & Publicly Identifiable Information
+### 18\. Social Media Widgets
 
-In the course of using the Services, we ask you to provide us with certain personally identifiable information that can be used to contact or identify you and administer your account (“Personally Identifiable Information”). Personally Identifiable Information may include, but is not limited to, your name, phone number, credit card or other billing information, email address and postal addresses.
+Our Website includes Social Media Features, such as the Facebook or LinkedIn ‘Share’ buttons. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our site. Your interactions with these features are governed by the privacy policies of the companies that provide them.
 
-DataValidation collects contact information that is publically accessible (e.g. information that is available to search engines)(“Publicly Identifiable Information”). Publicly Identifiable Information (e.g. a social network profile that is not set to ‘private’ or information on a social network page that can be seen to users who are not logged in), is searched and sometimes indexed by DataValidation, just like major Internet search engines. DataValidation recommends that if you do not want to be searched or indexed by search engines or services like DataValidation, that you set the appropriate privacy controls within social networks and 3rd party applications like Facebook, Twitter and LinkedIn. You can learn how to do this by visiting these sites directly.
+### 19\. Links to Other Sites
 
-### DataValidation Marketing Optimization Application
+DataValidation and its Services contain links to other websites. If you choose to click on these third party links, you will be directed to that third party’s website. The fact that we link to a website is not an endorsement, authorization or representation of affiliation, nor is it an endorsement of a third party’s privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites and services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
 
-The DataValidation Marketing Optimization Application allows Clients to dynamically populate their contacts with Marketing Optimization Scores. To enable this application, we will download the contact information for each user’s contacts and leads, and use this information to determine various optimization scores for each contact. We will give users the ability to review these matches and choose the most likely correct match. DataValidation will then store match information for use within the Service.
+### 20\. Aggregate Information and Non-Identifying Information
 
-Clients access the DataValidation Service via API or SFTP. More information is available at developer.DataValidation.com. As you use the Services, our servers automatically record information that the browser sends whenever it points to a website or online service (“Log Data”). Log Data may include, but is not limited to, your computer’s Internet Protocol address, browser type, the web page you were visiting before you came to one of the Sites and information you search for on Sites.
+We may share aggregated information that includes non-identifying information, Publicly Identifiable Information and information derived from the use of third-party tracking technologies with third parties for analysis and profiling. Any aggregated information shared in these contexts will not contain your Personally Identifiable Information.
 
-DataValidation collects information under the direction of its Clients when providing our Services, and has no direct relationship with the individuals whose personal data it processes.
+### 21\. Service Providers
 
-Like many websites, we use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use “persistent cookies” to save your username and login password for future logins to the Sites. We use “session ID cookies” to enable certain features of the Services, to better understand how you interact with the Services and to monitor web traffic routing on the Sites and aggregate usage of the Services. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Sites or all functionality of the Services. Our cookies are tied to personally identifiable information.
+We may employ third party companies and individuals to facilitate the Services, to provide the Services on our behalf, to perform services related to administration of the Services (including, without limitation, bill and credit card payment processing, chat support, maintenance, hosting and database management services, Site and Services support, web analytics and administration). These third parties may have access to your Personally Identifiable Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notification (section 4) and the Terms of Service Agreements with our Customers.
 
-### Our Policy Toward Children
+## Email List Information
 
-DataValidation does not knowingly collect Personally Identifiable Information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personally Identifiable Information without their consent, he or she should contact us at privacy [at] DataValidation . If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+### 22\. Your Email Lists
 
-### How We Use Personal Information
+When you upload an email list, whether manually or via one of our Partner services, DataValidation has access to information in your list, including but not limited to email addresses, IP addresses, and/or first and last names, for the purpose of delivering validation results related to this data.
 
-Personally Identifiable and Publicly Identifiable Information is used for the following purposes: (i) to provide and improve the Services, features and content, (ii) to administer your use of the Services and DataValidation account, (iii) to enable users to enjoy and easily navigate the Sites, (iv) to better understand your needs and interests, (v) to fulfill requests you may make, (vi) to personalize your experience, (vii) to provide service announcements, and (viii) to provide you with further information and offers from us or third parties. If you decide at any time that you no longer wish to receive such communications, please follow the unsubscribe instructions provided in any of the communications, or contact us at privacy [at] DataValidation to remove your information from our database. We may combine Personally Identifiable Information with data that we obtain from other sources, and perform analysis on such combined data in order to provide and improve the Services and to establish the accuracy and completeness of our data.
+Your subscriber lists are stored on secure DataValidation servers. We have not, nor will we ever, under any circumstances, contact people on your lists, market to people on your lists, or sell, steal, rent, or share your lists with any other party, except if required by law. Only authorized employees have access to view your lists.
 
-We may create anonymous data records from Personally Identifiable Information by excluding information (such as your name) that make the data personally identifiable to you. We use this anonymous data to analyze request and usage patterns so that we may enhance our Services. We reserve the right to use anonymous data for any purpose and disclose anonymous data to third parties in our sole discretion.
+## Security
 
-We use information we obtain by technical means (such as the automatic recording performed by our servers or through the use of cookies) for the above purposes and in order to monitor and analyze use of the Services and for the technical administration of the Sites, to increase the functionality and user-friendliness of the Services, to better tailor both to your needs, to generate and derive useful data and information concerning the interests, characteristics and website use behavior of our users, and to verify that visitors and users to and of the Services meet the criteria required to process their requests.
+### 23\. Safeguarding Your Information
 
-We employ and/or our third party tracking utility company employs software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We tie the information gathered by clear gifs to our customers’ personally identifiable information
+We use encryption, access controls, and data security policies to protect your passwords, credit card numbers and email lists. When you enter sensitive information (such as login credentials or credit card information) we encrypt the transmission of that information using Secure Socket Layer technology (SSL). Your Credit Card Data is protected using controls compliant with Payment Card Industry (or PCI) security standards.
 
-### 3rd Party Tracking
+While we strive to use commercially acceptable means to protect sensitive information, we cannot guarantee its absolute security. With this in mind, you must keep access to your account secure and undisclosed. DataValidation does not store plaintext passwords, and cannot see yours. We cannot send a forgotten password, but we will reset it and notify you of the change to your account.
 
-The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site, in order for you to use the shopping cart, etc.
+### 24\. Notice of Security Breach
 
-Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We tie the information gathered to our Customers’ or Users’ personally identifiable information. We have no access or control of these third-party tracking technologies.
+Should an unauthorized intrusion to our system occur which affects you or people on your Email Lists, DataValidation will notify you as soon as reasonably possible, consistent with the legitimate needs of law enforcement or with any measures necessary to determine the scope of the breach and restore the reasonable integrity, security, and confidentiality of the Service and your data. The Customer will be notified with documentation of such an event and the actions we took in response.
 
-### Behavioral Targeting / Re-Targeting
+## Compliance
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking Here. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+### 25\. Safe Harbor Certification
 
-### Email
+DataValidation complies with the U.S.-E.U. and U.S.-Swiss Safe Harbor frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. DataValidation certifies its adherence to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view DataValidation’s certification, please visit [Safe Harbor.](http://www.export.gov/safeharbor/)
 
-By registering with DataValidation, you consent to receiving periodic notifications including, but not limited to: DataValidation updates and newsletters, relevant account notifications and order/signup confirmations. We will provide means to opt-out of any email notifications in every email.
+### 26\. Accuracy
 
-### Testimonials
+DataValidation takes pride in delivering information that is accurate to the best of our knowledge. The Customer is responsible for keeping both their personal data and email list data accurate and up to date. Any changes to the Customer’s Personally Identifiable Information should be promptly updated by the Customer through their account profile on the Website or by notifying DataValidation as stated in section 5. Changes to the Customer’s email list data should be promptly updated by the Customer through their own means.
 
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at privacy [at] DataValidation . If you provide us with comments or feedback we may collect your name and e-mail address, as well as any other content included in the e-mail to send you a reply and improve our Service.
+### 27\. Retention
 
-### Social Media Widgets
+DataValidation will retain and use Personal Identifiable Information for as long as necessary to comply with our financial and legal obligations, resolve disputes, and enforce our agreements.
 
-Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+DataValidation will retain email list data processed on behalf of our Customers for as long as reasonably required to provide the Services under which we were initially provided this information, subject to this Privacy Policy and the Terms of Service. The Customer has 30 days to download data results provided as a result of use of the Service, after which this data may no longer be available for download.
 
-### Information Sharing and Disclosure
+DataValidation may also keep some non-personally identifiable data indefinitely, relating to when and where emails were sent, which bounced, which resulted in a complaint, and similar information, for reasons explained in this policy.
 
-### Third Parties.
+### 28\. Enforcement
 
-We will never share or sell the Personal Identifiable Information you provide us with other organizations for their marketing or promotional uses without your express consent.
+DataValidation cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of DataValidation or a third party, to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable.
 
-Synapp.io Members. In addition to your username, any comments or submissions that you post to publicly viewable areas of the Sites, such as feedback forums or blog comments will be publicly available. Any information you choose to provide in a comment or a submission should reflect how much you want other users to know about you. We recommend that you guard your anonymity and sensitive information and we encourage DataValidation members to think carefully about what information about themselves they disclose in their comments or submissions. If you use a bulletin board, chat room, blog or forum on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
-
-### Aggregate Information and Non-Identifying Information.
-
-We may share aggregated information that includes non-identifying information, Publicly Identifiable Information and Log Data with third parties for analysis and profiling. Any aggregated information shared in these contexts will not contain your Personally Identifiable Information.
-
-Service Providers. We may employ third party companies and individuals to facilitate the Services, to provide the Services on our behalf, to perform services related to administration of the Services (including, without limitation, bill and credit card payment processing, chat support, maintenance, hosting and database management services, Site and Services support, web analytics and administration). These third parties may have access to your Personally Identifiable Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Clients.
-
-Compliance with Laws and Law Enforcement. DataValidation cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of DataValidation or a third party, to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable.
-
-### Business Transfers.
-
-DataValidation may sell, transfer or otherwise share some or all of its assets, including your Personally Identifiable Information and Publicly Identifiable Information in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
-
-### Changing or Deleting Your Information
-
-All DataValidation members may review, update, correct or delete the Personally Identifiable Information in their registration profile by logging into their account and changing the “user preferences” associated with their account. You may also contact us at privacy [at] DataValidation . If you completely delete all such information, your account may be deactivated. All access requests will be responded to within 30 days.
-
-Access to Data Controlled by our Clients:
-
-DataValidation has no direct relationship with the individuals whose personal data it processes within our Services. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the DataValidation’s Client (the data controller). If the Client requests DataValidation to remove the data, we will respond to their request within 30 days.
-
-### Data Retention
-
-We may retain an archived copy of your records as required by law or for legitimate business purposes. DataValidation will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client, subject to this Privacy Policy and the written Service agreement between DataValidation and Client. DataValidation will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-### Security
-
-We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. When you enter sensitive information (such as login credentials or credit card information) we encrypt the transmission of that information using secure socket layer technology (SSL).
-
-### International Transfer
-
-Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to DataValidation, please be advised that we transfer Personally Identifiable Information to the United States and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
-
-### Links to Other Sites
-
-The Services contain links to other websites. If you choose to click on another third party link, you will be directed to that third party’s website. The fact that we link to a website is not an endorsement, authorization or representation that we are affiliated with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites and services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
-
-### DataValidation and the E.U. – U.S. and Swiss – U.S. Safe Harbor for Privacy
-
-DataValidation complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. DataValidation has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view DataValidation’s certification, please visit http://www.export.gov/safeharbor/.
-
-### Contacting Us
-
-If you have any questions about this Privacy Policy, please contact us at privacy [at] DataValidation or by sending a written request to:
-
-**DataValidation**   
-75 5th St NW   
-Suite 221   
-Atlanta, GA 30308 
+### Last updated: February 10, 2015
