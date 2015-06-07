@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yellowpages.com.my privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207044609id_/http%3A//yellowpages.com.my/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowpages.com.my privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607194940id_/http%3A//www.yellowpages.my/policy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy - Malaysia Yellow Pages
+# Yellow Pages Malaysia
 
 ## Privacy Statement
 
