@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paylocity.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104125136id_/http%3A//www.paylocity.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paylocity.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022632id_/http%3A//www.paylocity.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Paylocity
 
@@ -7,6 +7,12 @@
 All statements, information and data given herein are believed to be accurate and reliable, but are presented without guarantee, expressed or implied. Statements or suggestions concerning possible use of our products, including but not limited to the design of Paylocity products and systems, are made without representation or warranty that any such use is free of patent infringement, and are not recommendations to infringe any patent. The user should not assume that all safety measures are indicated, or that other measures may not be required.
 
 Paylocity is committed to protecting online user privacy. In order to ensure your privacy, information Paylocity collects through our web site at www.paylocity.com ("Site") is used only in the manner and for the purposes described in this Paylocity Privacy Policy ("Privacy Policy.")
+
+## Newsletter Disclaimer
+
+Paylocity provides information in e-newsletters for general guidance only, and does not constitute the provision of legal advice, tax advice, accounting services, investment advice, or professional consulting of any kind. The information provided herein should not be used as a substitute for consultation with professional tax, accounting, legal, or other competent advisers. Before making any decision or taking any action, you should consult a professional adviser who has been provided with all pertinent facts relevant to your particular situation.
+
+Tax articles in e-newsletters are not intended to be used, and cannot be used by any taxpayer, for the purpose of avoiding accuracy-related penalties that may be imposed on the taxpayer. The information is provided "as is," with no assurance or guarantee of completeness, accuracy, or timeliness of the information, and without warranty of any kind, express or implied, including but not limited to warranties of performance, merchantability, and fitness for a particular purpose. 
 
 ##  User Consent to Privacy Policy
 
