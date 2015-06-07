@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shawacademy.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115063351id_/http%3A//www.shawacademy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shawacademy.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607154145id_/http%3A//www.shawacademy.com/privacy.html) for the most accurate reproduction.*
 
 # Shaw Academy for Financial Trading | Terms and Conditions
 
@@ -40,9 +40,9 @@ Only those the Shaw Academy employees that have a legitimate business purpose fo
 
 ## Notification of Changes
 
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. Continued use of the service will signify that you agree to any such changes. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to privacy@Shaw Academy.com. 
+We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. Continued use of the service will signify that you agree to any such changes. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to privacy@shawacademy.com. 
 
-If you have any questions regarding this Privacy Policy, please contact privacy@Shaw Academy.com
+If you have any questions regarding this Privacy Policy, please contact privacy@shawacademy.com
 
 ## Definitions
 
