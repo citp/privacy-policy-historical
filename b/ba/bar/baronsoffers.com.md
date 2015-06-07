@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baronsoffers.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224184007id_/http%3A//www.baronsoffers.com/index/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baronsoffers.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607070732id_/http%3A//baronsoffers.com/index/privacy-policy) for the most accurate reproduction.*
 
 # BaronsOffers.com | Offer Network | Privacy Policy
 
