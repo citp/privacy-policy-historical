@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newnfldraft.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222213357id_/http%3A//newnfldraft.com/newnfldraft-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newnfldraft.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607161739id_/http%3A//newnfldraft.com/newnfldraft-privacy-policy) for the most accurate reproduction.*
 
-# Newnfldraft Privacy Policy | 2015 NFL Mock Draft | New NFL Draft
+# Newnfldraft Privacy Policy | 2016 NFL Mock Draft | New NFL Draft
 
 Privacy Policy
 
