@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serversmtp.com privacy policy that was archived on 2014-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140803043549id_/http%3A//www.serversmtp.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serversmtp.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022542id_/http%3A//www.serversmtp.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | smtp mail server
 
@@ -6,7 +6,7 @@
 
  **(a) Application of this Privacy Statement**
 
-This Privacy Statement applies to the website http://www.turbo-smtp.com, https://turbo-smtp.com (the "Site"), which is owned and operated by turboSMTP Corp., carrying on business as turboSMTP ("turboSMTP").
+This Privacy Statement applies to the website https://serversmtp.com﻿ (the "Site"), which is owned and operated by turboSMTP Corp., carrying on business as turboSMTP ("turboSMTP").
 
  **(b) Your Consent**
 
@@ -89,7 +89,7 @@ Information that you provide to turboSMTP must be true, accurate and complete. W
 turboSMTP uses physical, administrative and technical safeguards to protect your personal information against loss or theft, as well as unauthorized access and disclosure.  For example, we use SSL (Secure Socket Layer) encryption when transmitting certain kinds of information, such as credit card payment information.
 
 Your credit card information is stored only in encrypted form on computers that are not connected to the Internet. We test our security systems regularly and also contract with outside companies to audit our security systems and processes.  
-If you believe someone else has obtained access to your password, please change it immediately by logging in to your account at https://turbo-smtp.com and contact us right away as described below.
+If you believe someone else has obtained access to your password, please change it immediately by logging in to your account at https://serversmtp.com﻿ and contact us right away as described below.
 
  **Access to Information**
 
@@ -107,7 +107,7 @@ turboSMTP will investigate all complaints and will respond within 30 days of rec
 
 If you have any questions, comments or complaints about this Policy or our handling of your personal information, or if you wish to withdraw your consent to our use of your personal information or to request access to or update any information we have on file, please contact our Privacy Officer using the contact information below:
 
-TURBO SMTP CORP.  
-545 East 14 St. #mf  
-New York, NY 10009  
-Email to: privacy@turbo-smtp.com
+ **Delivery Tech Corp.**   
+5190 Governor Dr. Ste 105   
+San Diego, CA 92122 ﻿   
+marketing@serversmtp.com﻿
