@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screenpresso.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122022801id_/http%3A//www.screenpresso.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenpresso.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607030648id_/http%3A//www.screenpresso.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Screenpresso
 
@@ -40,13 +40,13 @@ We do not collect any data when the customer uses third party sharing features (
 ### Performing the services requested
 
 Learnpulse uses customer data to perform the services requested including:  
-\- To communicate practical informations (Newsletters for example)  
-\- To improve customer service  
-\- To personalize user experience  
-\- To improve our Site  
-\- To process payments  
-\- To run a promotion, contest, survey or other Site feature  
-\- To provide content sharing features (Screenpresso cloud)
+– To communicate practical informations (Newsletters for example)  
+– To improve customer service  
+– To personalize user experience  
+– To improve our Site  
+– To process payments  
+– To run a promotion, contest, survey or other Site feature  
+– To provide content sharing features (Screenpresso cloud)
 
 ### Sharing your personal information
 
