@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tikilive.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204143901id_/http%3A//www.tikilive.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tikilive.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607232327id_/http%3A//www.tikilive.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
