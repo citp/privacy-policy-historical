@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cengagebrain.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220003831id_/http%3A//www.cengage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cengagebrain.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607231940id_/http%3A//www.cengage.com/privacy) for the most accurate reproduction.*
 
 # Cengage Learning - Learning solutions, training and educational publishing - Privacy Statement
 
@@ -101,12 +101,11 @@ This privacy notice is effective as of May 13, 2013. From time to time, we may u
 If you have any questions about this privacy statement or our use of your personal information, please contact us at: 
 
 Cengage Learning, Inc.   
-200 First Stamford Place  
-Suite 400  
-Stamford, CT 06902  
+20 Channel Center Street  
+Boston, MA 02210  
 
 
-or email us at: [corporatecommunications@cengage.com](mailto:corporatecommunications@cengage.com).
+or email us at: [privacy@cengage.com](mailto:privacy@cengage.com).
 
 * * *
 
@@ -119,5 +118,4 @@ Cengage Learning and its United States and Canadian affiliates (collectively, "C
 
 
 
-If you have any questions, please contact us at [Robert.Hotaling@cengage.com](mailto:Robert.hotaling@cengage.com) or   
-+1 443.676.8808. 
+If you have any questions, please contact us at [privacy@cengage.com.](mailto:privacy@cengage.com)
