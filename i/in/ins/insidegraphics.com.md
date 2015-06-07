@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the insidegraphics.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122211458id_/http%3A//www.insidegraphics.com/site/inside_graphics_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidegraphics.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608002154id_/http%3A//insidegraphics.com/site/inside_graphics_privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Inside graphics Privacy Policy
+
+  | 
 
 Privacy Policy
 
