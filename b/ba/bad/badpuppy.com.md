@@ -1,66 +1,50 @@
-> *The following text is extracted and transformed from the badpuppy.com privacy policy that was archived on 2009-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090722051059id_/http%3A//www.badpuppy.com/copyright/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badpuppy.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608015115id_/http%3A//badpuppy.com/tour/pages.php%3Fid%3Dbadpuppy-privacy-policy) for the most accurate reproduction.*
 
-# Badpuppy
+# Badpuppy | Massive Gay Porn Supersite | Free Gay Porn Movie Previews.
 
-## Privacy Statement for www.badpuppy.com
+  
 
-Badpuppy Enterprises, Inc has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.badpuppy.com. 
 
-We use your IP address to help diagnose problems with our server, maintain proper security information for the credit card corporations and to administer our Web site. Your IP address is used to help identify you and your shopping cart. 
+###  Privacy Policy for Users of Badpuppy.com 
 
-Our site uses cookies to keep track of your shopping cart. We use cookies to deliver content specific to your interests and for other purposes. 
+**Overview**
 
-Our site's registration form requires users to give us contact information (like their name and email address), financial information (like their checking account or credit card numbers), and demographic information (like their zip code, age, or income level). We use customer contact information from the registration form to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
+Your privacy is very important to us. We do not sell or rent your personal information to third parties for any reason without your explicit consent. Please read this privacy policy to learn about the ways in which we use and protect your personal information. The privacy practices of this statement apply to our services available under the domain and subdomains of www.Badpuppy.com (the "Site"). By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree, do not use or access our Site. 
 
-This site contains links to other sites. **www.badpuppy.com** is not responsible for the privacy practices or the content of such Web sites. 
-
-Our site uses a request form for customers to request information on products, and services. We collect visitor's contact information (like their email address), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). Contact information from the order form is used to send orders to our customers. The customer's contact information is used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
-
-Our online surveys ask visitors for contact information (like their email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
-
-We run contests on our site in which we ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
-
-## Public Forums
-
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
-
-## Security
-
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We know immediately when a users access to Badpuppy.com has been compromised. Access is immediately terminated thereby protecting the users account. 
-
-## Children's Guidelines
-
-According to the answers that you have chosen, your Web site meets the guidelines of TRUSTe's Children's program. 
-
-  1. NOT collect online contact information
-  2. NOT collect personally identifiable offline contact information
-  3. NOT distribute to third parties any personally identifiable information
-  4. NOT give the ability to publicly post or otherwise distribute personally identifiable contact information
-  5. NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity
+  1. **A Special Note About Children.** Children (persons under the age of 18, and in some cases 21, where applicable) are not eligible to use our Site and we require that children do not submit any personal information to us. 
+  2. **Information We Collect.** Our primary goal in collecting personal information is to provide you with a smooth, efficient, and customized experience. This allows us to provide services and features that most likely meet your needs, and to customize our service to make your experience easier. We only collect personal information about you that we consider necessary to achieve that purpose. 
 
 
 
-## Choice/Opt-Out
+You can browse the Site without providing us with any personal information. If you choose to use our services, we may require you to provide personal information as indicated on the registration form and other areas of the Site. Where possible, we indicate those fields which are required and which are optional. You always have the option not to provide information by choosing not to use a particular service or feature. 
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
+If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Site, we may collect such information into a file specific to you. 
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
-
-  1. You can send email to [support@badpuppy.com](mailto:support@badpuppy.com)
-  2. You can send mail to the following postal address:  Security - ETrust c/o BEI 414 High Point Drive Cocoa, FL 32926 
-  3. You can call the following telephone number: 321.631.9500
+  3. **Our Use of Your Information.** We use information in the file we maintain about you, and other information we obtain from your current and past activities on the Site, to resolve disputes, and troubleshoot problems. At times, we may look across multiple users to identify problems or resolve disputes, and in particular we may examine your information to identify users using multiple User IDs or aliases. 
 
 
 
-## Correct/Update
+You agree that we may use your information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as, administrative notices, product offerings, and communications relevant to your use of the Site. You expressly agree to receive this information. If you do not wish to receive these communications, we encourage you to opt out of the receipt of certain communications by clicking on the link at the bottom of emails we send. 
 
-This site gives users the following options for changing and modifying information previously provided. 
-
-  1. email [support@badpuppy.com](mailto:support@badpuppy.com)
-  2. send mail to the following postal address:  Security - ETrust c/o BEI 414 High Point Drive Cocoa, FL 32926 
+  4. **Our Disclosure of Your Information.** Due to the existing regulatory environment, we cannot ensure that all of your communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your information that they collect from our Site. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personally identifiable information or private communications will always remain private. 
 
 
 
-## Contacting the Web Site
+As a matter of policy, we **do not** sell or rent any personally identifiable information about you to any third party. However, the following describes some of the ways that your personally identifiable information may be disclosed. You may select to disclose your email address and/or phone number to an advertiser. As a result, advertisers or third parties might send you unsolicited email and be able to personally identify all of your public activities on the Site. Others may illegally attempt to automatically collect your email address from our site. Your User ID can be used to identify you and your activities throughout the Site. Other people can see your your feedback ratings or any associated comments and so on. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact William G Pinyon Badpuppy Enterprises, Inc 414 High Point Drive Cocoa, FL 32926 [rivers@badpuppy.com](mailto:rivers@badpuppy.com)
+**Legal Requests.** Badpuppy.com cooperates with law enforcement inquiries, as well as other third parties to enforce laws. We will disclose any information about you to law enforcement or other government officials if we receive a verified subpoena. 
+
+  5. **Control of Your Password.** You are responsible for all actions taken with your User ID and password. Therefore we do not recommend that you disclose your Badpuppy.com password to any third parties. If you choose to share your User ID and password or your information with third parties, you are still responsible for all actions taken with your User ID and password. If you lose control of your password, you may lose substantial control over your personally identifiable information. Therefore, if your password has been compromised for any reason, you should immediately change your password 
+  6. **Reviewing and Changing Your Personally Identifiable Information.** Following registration, you can review and change the information you submitted during registration. You must promptly update your information if it changes. Once posted, you cannot change or remove any public postings made in the feedback areas. 
+
+
+
+Upon your request, we will deactivate your account and contact information from our active databases. To make this request, email support@Badpuppy.com. Such information will be deactivated as soon as reasonably possible in accordance with our deactivation policy and applicable law. 
+
+We will retain in our files information you have requested to remove in some circumstances, such as to resolve disputes, and troubleshooting problems. Further, such prior information is never completely removed from our databases due to technical and legal constraints, including stored "back up" systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests. 
+
+  7. **Other Information Collectors.** Except as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, including information requests from advertisers, we are unable to control that information. To the extent that we use third party advertisers, they adhere to their own privacy policies. Since Badpuppy.com does not control the privacy policies of third parties, you are subject to the privacy policies of those third parties. We encourage you to ask questions before you disclose your personal information to others. 
+  8. **Security.** Badpuppy.com uses industry standard practices to safeguard the confidentiality of your personal identifiable information. Badpuppy.com treats data as an asset that must be safeguarded against loss and unauthorized access. We employ several different security techniques to protect such data from unauthorized access by users inside and outside the company. However, "perfect security" does not exist on the Internet. 
+  9. **Notice.** We may change this Privacy Policy from time to time based on your comments and our need to accurately reflect our data collection and disclosure practices. All changes to this policy are effective after we post the changes on our Site. 
+
+
