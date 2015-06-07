@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the exeideas.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625221743id_/http%3A//www.exeideas.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exeideas.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607215025id_/http%3A//www.exeideas.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | EXEIdeas - Let's Your Mind Rock
-
-## Privacy Policy
+# Privacy Policy - EXEIdeas – Let's Your Mind Rock
 
 The privacy of my visitors to [www.exeideas.com](http://www.exeideas.com/ "EXEIdeas - Let's Your Mind Rock") is important to me. At [www.exeideas.com](http://www.exeideas.com/ "EXEIdeas - Let's Your Mind Rock"), I recognize that privacy of your personal information is important. Here is information on what types of personal information I receive and collect when you use visit [www.exeideas.com](http://www.exeideas.com/ "EXEIdeas - Let's Your Mind Rock"), and how I safeguard your information.I never sell any kind of personal information to third parties or use this data for any illegal activities.
 
