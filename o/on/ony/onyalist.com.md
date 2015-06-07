@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onyalist.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094259id_/http%3A//onyalist.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onyalist.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175748id_/http%3A//onyalist.com/privacy.html) for the most accurate reproduction.*
 
 # Onyalist - Privacy
 
