@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtglax.net privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123203618id_/http%3A//www.gtglax.net/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtglax.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607154317id_/http%3A//www.gtglax.net/ppolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Home, Art, Business, Pharmacy etc.
 
@@ -12,13 +12,15 @@ Best links:
 
 Featured 
 
-[San Diego Real Estate](http://www.sandiegorealestategroup.com/)
+[London Locksmith](http://london.able-locksmith.co.uk/)
 
 [International calling cards](http://www.shop-calling-card.com/)
 
-[London Locksmith](http://london.able-locksmith.co.uk/)
-
 [Commercial Real Estate](http://commercial--realestate.com/)
+
+[100% Cotton Fabrics](http://www.polycottonfabrics.com/)
+
+[San Diego Real Estate](http://www.sandiegorealestategroup.com/)
 
 Sponsored 
 
