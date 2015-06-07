@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guardian.com.sg privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229062800id_/http%3A//www.guardian.com.sg/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guardian.com.sg privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607215036id_/http%3A//www.guardian.com.sg/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Guardian Health & Beauty | Guardian
 
@@ -79,11 +79,23 @@ We take your privacy seriously and we will only collect and use personal data as
 
 ### _5\. Access request; Withdrawal of consent; Updating of personal data_
 
-5.1 You may by contact us via email ([GDDPO@guardian.com.sg](mailto:GDDPO@guardian.com.sg)) or by telephone (1800 891 8100)to (a) request for access to your personal data, (b) withdraw your consent to our use or disclosure of your personal data, or (c) terminate your online account with us.
+5.1 You may contact us via email ([GDDPO@guardian.com.sg](mailto:GDDPO@guardian.com.sg)) or by telephone (1800 891 8100)to (a) request for access to your personal data, (b) withdraw your consent to our use or disclosure of your personal data, or (c) terminate your online account with us.
 
 5.2 Requests to withdraw your consent to use or disclose your personal data may result in delays or failure to provide you with the products or services purchased from us.
 
 5.3 You may also update or correct your personal data by accessing your online account with us.
+
+5.4 Every email we send via our sending infrastructure will contain an unsubscribe link which is both clearly visible and easy to use. The unsubscribe functionality will not require you to send an unsubscribe request via email or to log in to your user account first.
+
+5.5 The unsubscribe form will comply to all five of the following:
+
+  * The form will not use persuasive language to entice you to remain subscribed.
+  * The form will not contain advertising.
+  * The unsubscribe process will not lead to additional forms, pages or links, or involve any additional unsubscribe processes.
+  * Unsubscribing will be cost-free.
+  * The unsubscribe process will not be hidden behind a login and/or password process.
+
+
 
 ### _6\. Security of personal data_
 
@@ -96,3 +108,5 @@ We take your privacy seriously and we will only collect and use personal data as
 ### _8\. Contact Us_
 
 8.1 If you have any questions about our data protection policy or practices, you may contact our Data Protection Officer via email ([GDDPO@guardian.com.sg](mailto:GDDPO@guardian.com.sg)) or by telephone (1800 891 8100).
+
+8.2 All our emails will contain a link to this privacy policy and the physical, summonable address of our company: 21, Tampines North Drive 2 #03-01 Singapore 528765
