@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tractorbynet.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121021806id_/http%3A//www.tractorbynet.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tractorbynet.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607193236id_/http%3A//www.tractorbynet.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TractorByNet.com
-
-## Privacy Policy
+# Privacy Policy | Compact tractor discussions, news, reviews, and photos. Kubota, John Deere, New Holland, Kioti, Mahindra, Massey Ferguson, and more.
 
 **What information do we collect?**
 
