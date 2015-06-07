@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the penn-station.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612020515id_/http%3A//www.penn-station.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penn-station.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140415id_/http%3A//www.penn-station.com/privacy.php) for the most accurate reproduction.*
 
 # Penn Station East Coast Subs
 
