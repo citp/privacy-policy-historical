@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wphypershift.com privacy policy that was archived on 2014-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140827172826id_/http%3A//paramountprofits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wphypershift.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607111828id_/http%3A//paramountprofits.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
