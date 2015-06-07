@@ -1,22 +1,14 @@
-> *The following text is extracted and transformed from the propertyguys.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105628id_/http%3A//propertyguys.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyguys.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607195913id_/http%3A//propertyguys.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PropertyGuys.com
 
 ### Privacy Policy
 
-This privacy policy was last updated on **June 30, 2014**.
+This privacy policy was last updated on **June 2, 2010**.
 
 **NOTE** : Throughout this page, the terms "we," "us," and "our" are meant to include **PropertyGuys.com** staff, franchisees and their team members.
 
 We have the utmost respect for your privacy. We've prepared this document to make it easy to understand what we do, and do not do, with the information that we collect from you when you visit this site. Accurately informing our visitors of how we collect, protect, use and share information is incredibly important to us.
-
-### Policy Update
-
-#### Consent
-
-BY SUBMITTING PERSONAL INFORMATION TO PROPERTYGUYS.COM OR ITS SERVICE PROVIDERS, YOU AGREE THAT PROPERTYGUYS.COM MAY COLLECT YOUR PERSONAL INFORMATION AND YOU CONSENT TO THE USE, DISCLOSURE AND TRANSFER OF YOUR PERSONAL INFORMATION IN ACCORDANCE WITH THIS PRIVACY POLICY AND AS PERMITTED OR REQUIRED BY LAW.
-
-Subject to legal and contractual requirements, you may refuse or withdraw your consent to certain of the purposes identified herein at any time by contacting PropertyGuys.com at the address provided below. If you refuse or withdraw your consent, you acknowledge that PropertyGuys.com may not be able to provide you or continue to provide you with certain services or information which may be of value to you.
 
 ### Information We Collect About You
 
@@ -119,6 +111,8 @@ If a data sample is so small that disclosure thereof might potentially allow for
 #### Personally Identifiable Information
 
 To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information, we have put in place physical, electronic, and managerial procedures to protect the information we collect online. 
+
+### Who May Access Your Information
 
 #### Advertisers
 
