@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the pective.com privacy policy that was archived on 2014-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141125020729id_/http%3A//pective.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pective.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607232930id_/http%3A//pective.com/static/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-		<title>Privacy</title>
+		<title>Pective - privacy</title>
 
 		<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 		<link rel="alternate" type="application/rss+xml" title="Pective - Featured Images" href="http://feeds.feedburner.com/Pective">
 		<link rel="alternate" type="application/rss+xml" title="Pective - Recent Images" href="http://feeds.feedburner.com/PectiveRecent">
 
 		<meta content="text/html; charset=utf-8" http-equiv="content-type">
-		<meta name="Description" content="Privacy Policy">
+		<meta name="Description" content="Pective - privacy">
 		<meta name="Keywords" content="actual size,life size,real size,size,image">
 		<meta name="verify-v1" content="k7XEJU30ZYAspkevkEoj42ipFnltEpgjqIo9QqYRnEE=">
 		<meta name="y_key" content="c87d53552f2b6bcc">
@@ -17,12 +17,11 @@
 		<meta http-equiv="Cache-Control" content="no-cache">
 		<meta http-equiv="Pragma" content="no-cache">
 
-		
-
 		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/jquery-ui.min.js"></script>
 		<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/themes/base/jquery-ui.css" type="text/css" media="all"> 
 
+		
 		
 
 		<link rel="stylesheet" type="text/css" href="/style.css?c=12">
@@ -30,19 +29,29 @@
 	</head>
 	<body>
 
+	<!--
 	
 	<div id="dialog" title="Set size" class="hide" style="font-size:14px; text-align:center">
 		<form id="selectsize" name="selectsize" action="/size" method="post" onsubmit="return resize_validate ();">
-			Please set your monitor size (inches) <input type="text" id="size" name="size" size="2" maxlength="5"> <input type="submit" value="Save"><br>
+			Please set your monitor size (inches) <input type="text" id="size" name="size" size=2 maxlength=5> <input type="submit" value="Save"><br>
 			<p style="font-size:0.9em; margin:7px 0 0 0"><a href="/help/what-is-my-monitor-size?from=">Not sure what your monitor size is ?</a></p>
-			<input type="hidden" name="url" value="/privacy">
+			<input type="hidden" name="url" value="/static/privacy">
         </form>
 	</div>
 	
+	-->
+
+
+	<div id="dialog" title="Set size" class="hide" style="font-size:14px; text-align:center">
+		<form id="selectsize" name="selectsize" action="/action/size" method="post" onsubmit="return resize_validate ($(this).children('input:first').val());">
+			Please set your monitor size (inches) <input type="text" id="size" name="size" size="2" maxlength="5"> <input type="submit" value="Save"><br>
+			<p style="font-size:0.9em; margin:7px 0 0 0"><a href="/help/what-is-my-monitor-size?from=">Not sure what your monitor size is ?</a></p>
+			<input type="hidden" name="url" value="/static/privacy">
+        	</form>
+	</div>
 
 
 		<div id="main">
-			
 				<div id="nav">
 					<div id="uppernav">
 
@@ -64,44 +73,23 @@
 					<form id="searchform" method="get" action="/search" onsubmit="return search ()">
 						<span class="right"><input name="q" id="q" value=""> <input type="submit" id="button" value="→"></span>
 
-						<!--<a href="/" >Home</a>-->
 						<a href="/browse">Browse</a>
 						<a href="/alltags">Tags</a>
 						<a href="/compare">Compare</a> 
-						<!-- <a href="/sandbox" >Sandbox</a>-->
-						<a href="/about">About</a>
-						<!--<a href="/contact" >Contact</a>-->
-						<a href="/privacy" class="current">Privacy</a>
+						<a href="/static/about">About</a>
+						<a href="/static/privacy">Privacy</a>
 						<a href="http://blog.pective.com/">Blog</a> ——
-						<a href="/add" style="background:#ffa">Submit Image</a>
+						<a href="/add">Submit Image</a>
 					</form>
 
 				</div>
-			
 
 			<div id="content">
-
 				
+<h2> Privacy Policy </h2> 
 
-
-				
-
-				
-
-
-				
-
-
-
-				
-
-				
-					<h2>
-						Privacy Policy
-					</h2>
-
-					<div class="narrow">
-					<p>
+<div class="narrow">
+<p>
 It is Pective's policy to respect your privacy regarding any information we may collect while operating our website.
 </p>
 
@@ -146,35 +134,9 @@ Although most changes are likely to be minor, Pective may change its Privacy Pol
 
 <p><i>This privacy policy is shared under a Creative Commons Sharealike license courtesy <a href="http://www.wordpress.com/">Wordpress</a>.</i></p>
 
-					</div>
-				
-
-				
+</div>
 
 
-				
-
-				
-
-
-				
-
-
-				
-
-
-				
-
-				
-
-				
-
-
-
-				
-
-
-				
 			</div>
 		</div>
 
@@ -182,13 +144,6 @@ Although most changes are likely to be minor, Pective may change its Privacy Pol
 
 		<script type="text/javascript">
 		<!--
-			
-
-
-
-			
-
-
 			// screen size
 			var ppi = function () {
 				var x,y;
@@ -205,11 +160,6 @@ Although most changes are likely to be minor, Pective may change its Privacy Pol
 				return ppi;
 			};
 
-			
-
-			
-
-			
 
 
 			// generic section starts now.
@@ -226,19 +176,10 @@ Although most changes are likely to be minor, Pective may change its Privacy Pol
 			var resize = function () {
 				$('#dialog').dialog({modal:true,autoOpen:false,width:380,height:110,resizable:false});
 				$('#dialog').dialog('open');
-
-				// document.getElementById ('subnav').innerHTML = '<form action="/size" method="post" name="selectresize" onsubmit="return resize_validate ()"><img src="/monitor.gif" alt="monitor"> Enter Monitor Size: <input type="text" id="size" name="size" size=5 maxlength=5> "<input type="hidden" name="width" id="width" value=""> <input type="hidden" name="height" id="height" value=""> <input type="hidden" name="url" value="/privacy"><'+'/form>';
-
-				// document.selectresize.size.focus ();
-				// document.getElementById ('width').value = screen.width;
-				// document.getElementById ('height').value = screen.height;
-
 				return false;
 			};
 
-			var resize_validate = function () {
-				var value = document.getElementById ('size').value;
-
+			var resize_validate = function (value) {
 				if (! value.match (/^[1-9][0-9.]*$/)) {
 					alert ('Please enter a valid screen size !');
 					return false;
@@ -258,12 +199,13 @@ Although most changes are likely to be minor, Pective may change its Privacy Pol
 				return true;
 			};
 
-			// set the browser hidden value
-			
 		-->
 		</script>
 
+
 		
+		
+
 
 		<script type="text/javascript">
 		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -273,7 +215,6 @@ Although most changes are likely to be minor, Pective may change its Privacy Pol
 		var pageTracker = _gat._getTracker("UA-4027364-2");
 		pageTracker._trackPageview();
 		</script>
-		
 
 	
 
