@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camstreams.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923071156id_/http%3A//www.camstreams.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camstreams.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144451id_/http%3A//www.camstreams.com/privacy.asp) for the most accurate reproduction.*
 
 # Camstreams Privacy Policy
 
