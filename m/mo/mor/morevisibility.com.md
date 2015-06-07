@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morevisibility.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110032id_/http%3A//www.morevisibility.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morevisibility.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607193242id_/http%3A//www.morevisibility.com/privacy-policy) for the most accurate reproduction.*
 
 # MoreVisibility's Privacy Policy
 
@@ -52,6 +52,8 @@ Upon request we offer visitors the ability to have inaccuracies corrected in con
 With respect to security: When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+
+Read Less »
 
   
 
