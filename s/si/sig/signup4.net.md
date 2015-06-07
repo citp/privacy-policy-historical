@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the signup4.net privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216112959id_/http%3A//www.signup4.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signup4.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607165919id_/http%3A//www.signup4.com/privacy-policy) for the most accurate reproduction.*
 
 # Event Management Software | SignUp4 | Privacy Policy
 
