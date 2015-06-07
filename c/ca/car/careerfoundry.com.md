@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the careerfoundry.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020112326id_/http%3A//careerfoundry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerfoundry.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607051426id_/http%3A//careerfoundry.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | CareerFoundry
+# Privacy Policy
 
 At CareerFoundry GmbH, Marienburgerstrasse 10, 10405 Berlin, Germany (hereinafter referred to as “CareerFoundry” or “we/us”) we are fully aware of the importance of your privacy. We would, therefore, like to take this opportunity to give you a quick overview about our security measures and how we protect your personal data. 
 
-This Privacy Policy explains how information about you is collected, used and disclosed by CareerFoundry and our subsidiaries when you use our website www.careerfoundry.com (the “Website” or the "Service") or when you otherwise interact with us. You can find out more about us on [www.careerfoundry.com](http://www.careerfoundry.com/). Regarding the Service, CareerFoundry complies with the applicable laws and regulations, in particular with the German Federal Data Protection Act and the German Telemedia Act. 
+This Privacy Policy explains how information about you is collected, used and disclosed by CareerFoundry and our subsidiaries when you use our website www.careerfoundry.com (the “Website” or the "Service") or when you otherwise interact with us. You can find out more about us on [careerfoundry.com](http://careerfoundry.com/). Regarding the Service, CareerFoundry complies with the applicable laws and regulations, in particular with the German Federal Data Protection Act and the German Telemedia Act. 
 
 CareerFoundry has established a career accelerator for vocational tech skills. 
 
@@ -31,7 +31,7 @@ We collect data you directly provide us with when submitting any kind of informa
 
 #### 2.1 Information you submit to CareerFoundry
 
-The use of our Website and Service requires you to create an account on www.careerfoundry.com. When you create an account we will ask you for your Personal Data, in particular for your name, postal address and email address.
+The use of our Website and Service requires you to create an account on careerfoundry.com. When you create an account we will ask you for your Personal Data, in particular for your name, postal address and email address.
 
   
 
