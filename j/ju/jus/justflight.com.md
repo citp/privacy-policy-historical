@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justflight.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121193334id_/http%3A//www.justflight.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justflight.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142848id_/http%3A//www.justflight.com/privacy) for the most accurate reproduction.*
 
 # Just Flight - Privacy and Cookies
 
@@ -12,7 +12,7 @@ We use Facebook, Twitter, YouTube and other similar services to provide you with
 
 We have taken all reasonable steps to ensure that our website is secure and that all sensitive information transmitted through it is sent securely and held confidentially. Any third parties or agents that we may use to process this sensitive information on our behalf have also taken all reasonable security steps. The only exceptions to the above are where we may take appropriate and reasonable steps in the prevention of criminal and fraudulent activity.
 
-### Cookies
+###  Cookies
 
 Our website uses Internet technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie", which is a small piece of information sent by a Web server to a Web browser, which enables the server to collect information back from the browser. We use cookies for a number of reasons, such as to keep track of your purchases and basket contents so as you can move between pages; those are created by our website and contain no identifiable information, either financial or personal. If you disable cookies, you may find that our website will not function correctly and you will not be able to purchase products from our website. You can find details of how to disable cookies in your web browser’s help section.
 
@@ -36,10 +36,8 @@ If you have any questions regarding our privacy or security policies, we will be
 
 **Data Protection Officer  
 Mastertronic Group Ltd  
-2 Stonehill  
-Stukeley Meadows  
-Huntingdon  
-Cambs  
-PE29 6ED**
+1 Benjamin Street  
+London  
+EC1M 5QG**
 
 Please ensure that you have read and understand our [Terms and Conditions](http://www.justflight.com/terms-and-conditions).
