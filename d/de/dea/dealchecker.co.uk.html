@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dealchecker.co.uk privacy policy that was archived on 2014-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141204221146id_/http%3A//www.dealchecker.co.uk/site/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dealchecker.co.uk privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607174757id_/http%3A//www.dealchecker.co.uk/site/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 <meta charset="utf-8">
@@ -14,8 +14,8 @@
 
 <meta name="description" content="Privacy">
 <meta name="keywords" content="Privacy">
-<link rel="icon" href="http://static2.dealchecker.co.uk/6.80-1/images/common/favicon.png" type="image/png">
-<link rel="shortcut icon" href="http://static2.dealchecker.co.uk/6.80-1/images/common/favicon.png" type="image/png">
+<link rel="icon" href="http://static2.dealchecker.co.uk/7.5-4/images/common/favicon.png" type="image/png">
+<link rel="shortcut icon" href="http://static2.dealchecker.co.uk/7.5-4/images/common/favicon.png" type="image/png">
 <meta name="viewport" content="width=device-width, initial-scale = 1.0, maximum-scale=1.0, user-scalable=no">
 
 
@@ -30,16 +30,16 @@
 
 	
 	
-		<link href="http://static2.dealchecker.co.uk/6.80-1/c/styles/bootstrap/bootstrap.min-2.3.2.css" rel="stylesheet">
+		<link href="http://static2.dealchecker.co.uk/7.5-4/c/styles/bootstrap/bootstrap.min-2.3.2.css" rel="stylesheet">
 	
 
 <link href="//fonts.googleapis.com/css?family=Roboto:400,400italic,100,300,700" rel="stylesheet" type="text/css">
-<link href="http://static2.dealchecker.co.uk/6.80-1/c/styles/responsive/screen-480px-to-768px.css" rel="stylesheet">
-<link href="http://static2.dealchecker.co.uk/6.80-1/c/styles/responsive/admin-style.css" rel="stylesheet">
+<link href="http://static2.dealchecker.co.uk/7.5-4/c/styles/responsive/screen-480px-to-768px.css" rel="stylesheet">
+<link href="http://static2.dealchecker.co.uk/7.5-4/c/styles/responsive/admin-style.css" rel="stylesheet">
 
 <!-- new menu and footer -->
-<link href="http://static2.dealchecker.co.uk/6.80-1/c/styles/responsive/responsive-menu-style.css" rel="stylesheet">
-<link href="http://static2.dealchecker.co.uk/6.80-1/c/styles/responsive/footer.css" rel="stylesheet">
+<link href="http://static2.dealchecker.co.uk/7.5-4/c/styles/responsive/responsive-menu-style.css" rel="stylesheet">
+<link href="http://static2.dealchecker.co.uk/7.5-4/c/styles/responsive/footer.css" rel="stylesheet">
 <!-- end of new menu and footer -->
 
 
@@ -53,7 +53,7 @@
 <!-- REMINDER: this function must be pasted inside the website pages. -->
 
 
-<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
+<script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
 /* sas_renderMode parameter
    use it to specify the rendering mode
    0 -> render ads during page loading (default mode)
@@ -91,108 +91,124 @@ sas_scriptDomain = 'http://www.smartadserver.com';
 				
 		var DCBuildSmartAd = (function() {
 			
-			 function callSmartAdFunctions( DCsasformatIds ) {
+			 function callSmartAdFunctions( DCsasformatIds, devices) {
 				function readCookie(b){var e=b+"=",a=document.cookie.split(";");for(var d=0;d<a.length;d++){var f=a[d];while(f.charAt(0)==" "){f=f.substring(1,f.length)}if(f.indexOf(e)==0){return f.substring(e.length,f.length)}}return null}; 
 	        	var sas_pageid = '30572/444574';
 				try {
-	      			// device is mobile and we got mobile format specified:  use mobile function  		
-	        		if( readCookie('DeviceType') == 'MOBILE' && DCsasformatIds.mobileSasFormatId ) {
-	        			sasmobile(sas_pageid,  DCsasformatIds.mobileSasFormatId, sas_target);
-	        		} else {   // otherwise use default/desktop format
-	        			SmartAdServerAjax(sas_pageid, DCsasformatIds.desktopSasFormatId , sas_target);
-	        		}
+					if (!devices || devices.indexOf(readCookie('DeviceType')) >= 0) {
+		      			// device is mobile and we got mobile format specified:  use mobile function  		
+		        		if( readCookie('DeviceType') == 'MOBILE' && DCsasformatIds.mobileSasFormatId ) {
+		        			sasmobile(sas_pageid,  DCsasformatIds.mobileSasFormatId, sas_target);
+		        		} else {   // otherwise use default/desktop format
+		        			SmartAdServerAjax(sas_pageid, DCsasformatIds.desktopSasFormatId , sas_target);
+		        		}
+					}
 	        	} catch(e) {
 	        		window.console && window.console.log && window.console.log( 'DCBuildSmartAd: '+e); 
 	        	} 
 			}
 		
 			return {
-				DCLeaderboard : function() {
+				DCLeaderboard : function(devices) {
 					var DCsasformatIds  = {
 						desktopSasFormatId: 13090,
 						mobileSasFormatId: 24806
 					};
-					callSmartAdFunctions( DCsasformatIds );						
+					callSmartAdFunctions( DCsasformatIds, devices);						
 				},
 			
-				DCMPU : function() {
+				DCMPU : function(devices) {
 					var DCsasformatIds = {
-							desktopSasFormatId: 13092,
-							mobileSasFormatId: null
-						};
-						callSmartAdFunctions( DCsasformatIds );			
-					},
-
-				DCSKY : function() {
-					var DCsasformatIds = {
-							desktopSasFormatId: 13091,
-							mobileSasFormatId: null
-						};
-						callSmartAdFunctions( DCsasformatIds );			
-					},
-					
-				DC530X60 : function() {
-					var DCsasformatIds = {
-							desktopSasFormatId: 25340,
-							mobileSasFormatId: null
-						};
-							callSmartAdFunctions( DCsasformatIds );			
-					},
-					
-				DCBanner : function() {
-					var DCsasformatIds = {
-							desktopSasFormatId: 25562,
-							mobileSasFormatId: null
-						};
-							callSmartAdFunctions( DCsasformatIds );			
-					},
-						
-				DCBannerLower : function() {
-					var DCsasformatIds = {
-						desktopSasFormatId: 25563,
+						desktopSasFormatId: 13092,
 						mobileSasFormatId: null
 					};
-					callSmartAdFunctions( DCsasformatIds );			
-				},				
-				
-				DCHalfPage : function() {
-					var DCsasformatIds = {
-						desktopSasFormatId: 24203,
-						mobileSasFormatId: null
-					};
-					callSmartAdFunctions( DCsasformatIds );			
-			  },
-			
-				DCMPULarge : function() {
-					var DCsasformatIds = {
-						desktopSasFormatId: 24177,
-						mobileSasFormatId: null
-					};
-					callSmartAdFunctions( DCsasformatIds );			
-			  },
-			  
-			  DCMPULower : function() {
+					callSmartAdFunctions( DCsasformatIds, devices);
+				},
+				DCMPU1 : function(devices) {
 					var DCsasformatIds = {
 						desktopSasFormatId: 13093,
 						mobileSasFormatId: null
 					};
-					callSmartAdFunctions( DCsasformatIds );			
+					callSmartAdFunctions( DCsasformatIds, devices);
+				},
+				DCMPU2 : function(devices) {
+					var DCsasformatIds = {
+						desktopSasFormatId: 32043,
+						mobileSasFormatId: null
+					};
+					callSmartAdFunctions( DCsasformatIds, devices);
+				},
+				DCSKY : function(devices) {
+					var DCsasformatIds = {
+							desktopSasFormatId: 13091,
+							mobileSasFormatId: null
+						};
+						callSmartAdFunctions( DCsasformatIds, devices);			
+					},
+					
+				DC530X60 : function(devices) {
+					var DCsasformatIds = {
+							desktopSasFormatId: 25340,
+							mobileSasFormatId: null
+						};
+							callSmartAdFunctions( DCsasformatIds, devices);			
+					},
+					
+				DCBanner : function(devices) {
+					var DCsasformatIds = {
+							desktopSasFormatId: 25562,
+							mobileSasFormatId: null
+						};
+						callSmartAdFunctions( DCsasformatIds, devices);			
+					}
+					,
+						
+				DCBannerLower : function(devices) {
+					var DCsasformatIds = {
+						desktopSasFormatId: 25563,
+						mobileSasFormatId: null
+					};
+					callSmartAdFunctions( DCsasformatIds, devices);			
+				},				
+				
+				DCHalfPage : function(devices) {
+					var DCsasformatIds = {
+						desktopSasFormatId: 24203,
+						mobileSasFormatId: null
+					};
+					callSmartAdFunctions( DCsasformatIds, devices);			
+			  },
+			
+				DCMPULarge : function(devices) {
+					var DCsasformatIds = {
+						desktopSasFormatId: 24177,
+						mobileSasFormatId: null
+					};
+					callSmartAdFunctions( DCsasformatIds, devices);			
 			  },
 			  
-			  DCSkin : function() {
+			  DCMPULower : function(devices) {
+					var DCsasformatIds = {
+						desktopSasFormatId: 13093,
+						mobileSasFormatId: null
+					};
+					callSmartAdFunctions( DCsasformatIds, devices);			
+			  },
+			  
+			  DCSkin : function(devices) {
 					var DCsasformatIds = {
 						desktopSasFormatId: 19971,
 						mobileSasFormatId: null
 					};
-					callSmartAdFunctions( DCsasformatIds );			
+					callSmartAdFunctions( DCsasformatIds, devices);			
 			  },
 			  
-			  DCHolResults : function() {
+			  DCHolResults : function(devices) {
 					var DCsasformatIds = {
 						desktopSasFormatId: 26194,
 						mobileSasFormatId: null
 					};
-					callSmartAdFunctions( DCsasformatIds );			
+					callSmartAdFunctions( DCsasformatIds, devices);			
 			  }
 				
 		}
@@ -225,6 +241,23 @@ sas_scriptDomain = 'http://www.smartadserver.com';
 
 <!-- Start Head Dynamic Tracking Tags -->
 
+       	<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '1386736894920599']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1386736894920599&amp;ev=PixelInitialized" /></noscript>
+        
 <!-- End Head Dynamic Tracking Tags -->
 
 </head>
@@ -270,22 +303,28 @@ sas_scriptDomain = 'http://www.smartadserver.com';
 <div class="dc-navbar navbar navbar-fixed-top">
   <div class="navbar-inner">
   	 <div class="banner-header visible-tablet">
-  	 	 <a class="brand visible-tablet" href="/"> <img src="http://static2.dealchecker.co.uk/6.80-1/images/common-responsive/menu/dealchecker.png" data-src-lazy="http://static2.dealchecker.co.uk/6.80-1/images/common-responsive/menu/dealchecker.png" alt="dealchecker - Go to the Homepage" title="dealchecker - Go to the Homepage"></a> 
+  	 	 <a class="brand visible-tablet" href="/"> <img src="http://static2.dealchecker.co.uk/7.5-4/images/common-responsive/menu/dealchecker.png" data-src-lazy="http://static2.dealchecker.co.uk/7.5-4/images/common-responsive/menu/dealchecker.png" alt="dealchecker - Go to the Homepage" title="dealchecker - Go to the Homepage"></a> 
           	  		<script type="text/javascript">
-							DCBuildSmartAd.DCBanner();
+		        			DCBuildSmartAd.DCBanner('TABLET');
 					</script>
 	 </div> 
+	 
     <div class="container logoSection">
     	<div class="row">
 			      
-			     <a class="brand visible-desktop" href="/"> <img src="http://static2.dealchecker.co.uk/6.80-1/images/common-responsive/menu/dealchecker.png" alt="dealchecker - Go to the Homepage" title="dealchecker - Go to the Homepage"></a>
-			     <a class="brand visible-phone" href="/"> <img src="http://static2.dealchecker.co.uk/6.80-1/images/common-responsive/menu/dealchecker-mobile.png" alt="dealchecker - Go to the Homepage" title="dealchecker - Go to the Homepage"></a>
+			     <a class="brand visible-desktop" href="/"> <img src="http://static2.dealchecker.co.uk/7.5-4/images/common-responsive/menu/dealchecker.png" alt="dealchecker 2015 | Cheap Holidays | Flight Comparison" title="dealchecker 2015 | Cheap Holidays | Flight Comparison"></a>
+			     <a class="brand visible-phone" href="/"> <img src="http://static2.dealchecker.co.uk/7.5-4/images/common-responsive/menu/dealchecker-mobile.png" alt="dealchecker 2015 | Cheap Holidays | Flight Comparison" title="dealchecker 2015 | Cheap Holidays | Flight Comparison"></a>
 					
 			     <div class="adHolderMenu">
 			     	<!-- this needs to load only on desktop use some dealchecker utils methods for it not to load on anything that is not desktop --> 
 					<div class="banner-header visible-desktop">
     						<script type="text/javascript">
-								DCBuildSmartAd.DCLeaderboard();
+    		          	  	
+    		        		
+    		        		
+    		        			DCBuildSmartAd.DCLeaderboard('DESKTOP');
+    		        		
+    		        			
 							</script>
 					</div>
 			     </div>
@@ -419,7 +458,7 @@ sas_scriptDomain = 'http://www.smartadserver.com';
 										<li><a href="/cruise/dubai-emirates.html">Dubai</a></li>
 										<li><a href="/cruise/mediterranean.html">Mediterranean </a></li>
 										<li><a href="/cruise/repositioning.html">Respositioning</a></li>
-										<li><a href="/cruise/river-cruises.html">River Cruises</a></li>
+										<li><a href="/cruise/cruise-plotter/">Cruise Plotter</a></li>
 										<li><a href="/cruise/transatlantic.html">Transatlantic </a></li>
 				            		</ul>
 				            		
@@ -508,7 +547,7 @@ sas_scriptDomain = 'http://www.smartadserver.com';
 				        	<textarea style="display:none;" id="socialMediaTextArea">															
 				            &lt;ul id="socialMediaBox"&gt;
 					            &lt;div class="SM_top"&gt;
-					            	&lt;img src="http://static2.dealchecker.co.uk/6.80-1/images/common/pop-up-SM-top-arrow.gif" /&gt;
+					            	&lt;img src="http://static2.dealchecker.co.uk/7.5-4/images/common/pop-up-SM-top-arrow.gif" /&gt;
 					            &lt;/div&gt;
 					            &lt;div class="SM_holder"&gt;
 						            &lt;div class="left_holder"&gt;		
@@ -530,7 +569,7 @@ sas_scriptDomain = 'http://www.smartadserver.com';
 						            		
 						            		&lt;h2&gt;Find Us on Google +1&lt;/h2&gt;
 						            		&lt;!--[if IE 7]&gt;
-											&lt;a href="https://plus.google.com/112580218554782851048/" target="_blank" rel="publisher"&gt; &lt;img src="http://static2.dealchecker.co.uk/6.80-1/images/common/google-plus-button.jpg"/&gt; &lt;/a&gt;
+											&lt;a href="https://plus.google.com/112580218554782851048/" target="_blank" rel="publisher"&gt; &lt;img src="http://static2.dealchecker.co.uk/7.5-4/images/common/google-plus-button.jpg"/&gt; &lt;/a&gt;
 											&lt;![endif]--&gt;
 						            		&lt;g:plus href="https://plus.google.com/112580218554782851048" rel="publisher" width="300" height="131" theme="light"&gt;&lt;/g:plus&gt; 
 						            	&lt;/div&gt;
@@ -541,7 +580,7 @@ sas_scriptDomain = 'http://www.smartadserver.com';
 						            &lt;/div&gt;
 								&lt;/div&gt;
 								&lt;div style="margin-top:-10px"&gt;
-									&lt;img src="http://static2.dealchecker.co.uk/6.80-1/images/common/pop-up-SM-bottom.png"/&gt;
+									&lt;img src="http://static2.dealchecker.co.uk/7.5-4/images/common/pop-up-SM-bottom.png"/&gt;
 								&lt;/div&gt;
 				            &lt;/ul&gt;
 				            &lt;script type="text/javascript"&gt;
@@ -552,7 +591,7 @@ sas_scriptDomain = 'http://www.smartadserver.com';
 				            </textarea>
 				        </dd>
 			    	</dl>
-	    		</li>				          <li class="hidden-phone"><a href="/meet-the-dealcheckers.html"><img alt="Meet the team" src="http://static2.dealchecker.co.uk/6.80-1/images/common-responsive/menu/meet-the-dealcheckers.jpg" class="meetTheDealCheckersMenu"></a></li>
+	    		</li>				          <li class="hidden-phone"><a href="/meet-the-dealcheckers.html"><img alt="Meet the team" src="http://static2.dealchecker.co.uk/7.5-4/images/common-responsive/menu/meet-the-dealcheckers.jpg" class="meetTheDealCheckersMenu"></a></li>
 			        </ul>
 			      </div> 
       <!--/.nav-collapse -->
@@ -606,8 +645,8 @@ sas_scriptDomain = 'http://www.smartadserver.com';
 	
 
 	
-	<link href="http://static2.dealchecker.co.uk/6.80-1/c/styles/site/site-pages.css" type="text/css" rel="stylesheet">
-<link href="http://static2.dealchecker.co.uk/6.80-1/c/styles/common/global.css" rel="stylesheet">
+	<link href="http://static2.dealchecker.co.uk/7.5-4/c/styles/site/site-pages.css" type="text/css" rel="stylesheet">
+<link href="http://static2.dealchecker.co.uk/7.5-4/c/styles/common/global.css" rel="stylesheet">
 
 
 
@@ -650,52 +689,7 @@ sas_scriptDomain = 'http://www.smartadserver.com';
       				</div> <!-- /row -->
 					
 					<div class="box_text">
-						<dc-content content-id="150606"> 
- <h3>Privacy and Cookies</h3> 
- <p>DMC Digital Ltd is a UK registered company that wholly owns and operates the website dealchecker.co.uk. DMC Digital Ltd is part of the Easyvoyage Group. This privacy policy refers to your use of the dealchecker website and the information that we may collect from you as you do so.</p> 
- <br> 
- <h3>Information we may collect from you</h3> 
- <p> As you use our website we may ask you to provide contact information such as an email address in certain circumstances. You are free to choose whether or not you provide this information, however, some services may not be accessible to you if you do not. </p> 
- <p> We ask you to submit your email address and post code when you subscribe to our newsletter service. We may also ask you to submit contact information if you enter a competition, if you provide feedback to us or if you apply for a job with us. </p> 
- <p> In addition to personal information that you choose to give us we may also collect information about your computer, this may include you IP address, operating system, web browser software, screen resolution and referring web site. </p> 
- <p> We use Google Analytics to collect data on the demographics of our users. This data is anonymised and not personally identifiable. It helps us understand our audience and how it breaks down by age, gender and interests. You can opt out of this kind of data collection through Google's ad settings. </p> 
- <br> 
- <h3>How we use this information</h3> 
- <p> Any personal information such as email address or postcode is held by us for the sole purpose of communicating with you as you have requested. </p> 
- <p> Where you have supplied details in order to subscribe to our newsletter this means sending you our weekly newsletter and other travel offers by email. We will only use your post code to improve our mailings by sending you more relevant content. </p> 
- <p> We may also reply to you if you give us feedback or apply for a job with us. </p> 
- <p> We will not share this information with any third parties unless specifically stated in any special terms and conditions as is sometimes the case with competition entries. </p> 
- <p> The information that may be collected from your computer is not linked by us in any way to any personal information that you may have submitted to us. This information is used solely for the purpose of helping us to understand how we can improve our website for our customers. </p> 
- <br> 
- <h3>Third Party Companies</h3> 
- <p> dealchecker will not rent or sell your personal information to third parties. We may share your details with other members of the Easyvoyage Group. We may also contact you with offers from third party companies that we think may be of interest to you, where we have permission to do so. </p> 
- <br> 
- <h3>Access and removal of Information</h3> 
- <p> You have the right to access, change and delete personal data that you provide dealchecker part of your subscription. </p> 
- <p> You can exercise this right at any time by:<br> Following the links in dealchecker mailings to our preference centre Emailing us at <a href="mailto:enquiries@dealchecker.co.uk">enquiries@dealchecker.co.uk</a> </p> 
- <p> Where you request changes to your dealchecker subscription it can take up to five days for changes to take effect. </p> 
- <br> 
- <h3>Cookies</h3> 
- <p>dealchecker aims to be open and clear about the use of cookies on our website. </p> 
- <p>We use cookies to recognise users and devices using the dealchecker website. These cookies cannot identify individuals and contain no personal data. </p> 
- <p>If you do not have cookies enabled on your web browser you may find that some sections of dealchecker do not work as well as they should. For example our search tools rely on cookies to ensure we return users’ individual search results. </p> 
- <p>dealchecker also uses cookies to analyse our users’ behaviour on our site so that we can continue to improve the website experience. </p> 
- <p>Some cookies are permanently stored by your browser, whilst others are deleted as soon as you leave the site.</p> 
- <p>If you’d like to learn more <a href="cookies.html">click here to see our Cookie Policy</a> which includes a complete list of all the cookies dealchecker uses. </p> 
- <p>If you’re worried about cookies you can choose to clear your browser’s cookies history or even to disable cookies entirely - <a href="cookies.html#clearing">click here</a> to learn how.</p> 
- <br> 
- <h3>Banner Advertising</h3> 
- <p> Our advertising is served for us by a variety of third party companies. They may also use cookie data to help serve more relevant advertising to you and to ensure that you do not see ads too repetitively. No personal data is collected by these companies. </p> 
- <br> 
- <h3>Validity</h3> 
- <p> DMC Digital Ltd has the right to alter this privacy policy for any reason without prior notice. </p> 
- <p> Any updates to our privacy policy will be displayed on this page </p> 
- <p> If you have any questions about this privacy policy please write to us at:DMC Digital Limited, Dunstan House, 2nd Floor, 14a St Cross Street, London, EC1N 8XA </p> 
- <p> Or email us at <a href="mailto:enquiries@dealchecker.co.uk">enquiries@dealchecker.co.uk</a> </p> 
- <br> 
- <h3>Spam</h3> 
- <p> dealchecker is against spam mailings. We will only send mailings to email addresses who have requested we do so directly or through our partner organisations. We will not send unsolicited mailings. <br>If you have received a mailing which you did not request please contact us on <a href="mailto:enquiries@dealchecker.co.uk">enquiries@dealchecker.co.uk</a>. </p> 
-</dc-content>
+						<dc-content content-id="150606"> <h3>Privacy and Cookies</h3> <p>DMC Digital Ltd is a UK registered company that wholly owns and operates the website dealchecker.co.uk. DMC Digital Ltd is part of the Easyvoyage Group. This privacy policy refers to your use of the dealchecker website and the information that we may collect from you as you do so.</p> <br> <h3>Information we may collect from you</h3> <p> As you use our website we may ask you to provide contact information such as an email address in certain circumstances. You are free to choose whether or not you provide this information, however, some services may not be accessible to you if you do not. </p> <p> We ask you to submit your email address and post code when you subscribe to our newsletter service. We may also ask you to submit contact information if you enter a competition, if you provide feedback to us or if you apply for a job with us. </p> <p> In addition to personal information that you choose to give us we may also collect information about your computer, this may include you IP address, operating system, web browser software, screen resolution and referring web site. </p> <p> We use Google Analytics to collect data on the demographics of our users. This data is anonymised and not personally identifiable. It helps us understand our audience and how it breaks down by age, gender and interests. You can opt out of this kind of data collection through Google's ad settings. </p> <br> <h3>How we use this information</h3> <p> Any personal information such as email address or postcode is held by us for the sole purpose of communicating with you as you have requested. </p> <p> Where you have supplied details in order to subscribe to our newsletter this means sending you our weekly newsletter and other travel offers by email. We will only use your post code to improve our mailings by sending you more relevant content. </p> <p> We may also reply to you if you give us feedback or apply for a job with us. </p> <p> We will not share this information with any third parties unless specifically stated in any special terms and conditions as is sometimes the case with competition entries. </p> <p> The information that may be collected from your computer is not linked by us in any way to any personal information that you may have submitted to us. This information is used solely for the purpose of helping us to understand how we can improve our website for our customers. </p> <br> <h3>Third Party Companies</h3> <p> dealchecker will not rent or sell your personal information to third parties. We may share your details with other members of the Easyvoyage Group. We may also contact you with offers from third party companies that we think may be of interest to you, where we have permission to do so. </p> <br> <h3>Access and removal of Information</h3> <p> You have the right to access, change and delete personal data that you provide dealchecker part of your subscription. </p> <p> You can exercise this right at any time by:<br> Following the links in dealchecker mailings to our preference centre Emailing us at <a href="mailto:enquiries@dealchecker.co.uk">enquiries@dealchecker.co.uk</a> </p> <p> Where you request changes to your dealchecker subscription it can take up to five days for changes to take effect. </p> <br> <h3>Cookies</h3> <p>dealchecker aims to be open and clear about the use of cookies on our website. </p> <p>We use cookies to recognise users and devices using the dealchecker website. These cookies cannot identify individuals and contain no personal data. </p> <p>If you do not have cookies enabled on your web browser you may find that some sections of dealchecker do not work as well as they should. For example our search tools rely on cookies to ensure we return users’ individual search results. </p> <p>dealchecker also uses cookies to analyse our users’ behaviour on our site so that we can continue to improve the website experience. </p> <p>Some cookies are permanently stored by your browser, whilst others are deleted as soon as you leave the site.</p> <p>If you’d like to learn more <a href="cookies.html">click here to see our Cookie Policy</a> which includes a complete list of all the cookies dealchecker uses. </p> <p>If you’re worried about cookies you can choose to clear your browser’s cookies history or even to disable cookies entirely - <a href="cookies.html#clearing">click here</a> to learn how.</p> <br> <h3>Banner Advertising</h3> <p> Our advertising is served for us by a variety of third party companies. They may also use cookie data to help serve more relevant advertising to you and to ensure that you do not see ads too repetitively. No personal data is collected by these companies. </p> <br> <h3>Validity</h3> <p> DMC Digital Ltd has the right to alter this privacy policy for any reason without prior notice. </p> <p> Any updates to our privacy policy will be displayed on this page </p> <p> If you have any questions about this privacy policy please write to us at:DMC Digital Limited, Dunstan House, 2nd Floor, 14a St Cross Street, London, EC1N 8XA </p> <p> Or email us at <a href="mailto:enquiries@dealchecker.co.uk">enquiries@dealchecker.co.uk</a> </p> <br> <h3>Spam</h3> <p> dealchecker is against spam mailings. We will only send mailings to email addresses who have requested we do so directly or through our partner organisations. We will not send unsolicited mailings. <br>If you have received a mailing which you did not request please contact us on <a href="mailto:enquiries@dealchecker.co.uk">enquiries@dealchecker.co.uk</a>. </p> </dc-content>
 					
 					</div>
 
@@ -756,9 +750,6 @@ sas_scriptDomain = 'http://www.smartadserver.com';
 <div class="clear"></div>
 <div id="footer">
     
-    
-    
-    
     <div class="footer">
       <div class="container">
      	<div class="span3">
@@ -774,15 +765,15 @@ sas_scriptDomain = 'http://www.smartadserver.com';
 	     </div>
 		      
 	      <div class="span3">
-	      	<img alt="Search and save money" src="http://static2.dealchecker.co.uk/6.80-1/images/common-responsive/menu/search.png">
+	      	<img alt="Search and save money" src="http://static2.dealchecker.co.uk/7.5-4/images/common-responsive/menu/search.png">
 	      	<p>Search and compare prices</p>
 	      </div>	
 	      <div class="span3">
-	      	<img alt="Our experts pick the deals" src="http://static2.dealchecker.co.uk/6.80-1/images/common-responsive/menu/expert-tips.png">
+	      	<img alt="Our experts pick the deals" src="http://static2.dealchecker.co.uk/7.5-4/images/common-responsive/menu/expert-tips.png">
 	      	<p>Expert picked deals</p>
 	      </div>
 	      <div class="span3 last">	
-	      	<img alt="Saving you money on your travel" src="http://static2.dealchecker.co.uk/6.80-1/images/common-responsive/menu/saving-you-money.png">
+	      	<img alt="Saving you money on your travel" src="http://static2.dealchecker.co.uk/7.5-4/images/common-responsive/menu/saving-you-money.png">
 	      	<p>Saving tips from the experts</p>
 	      </div>
 	      
@@ -793,9 +784,9 @@ sas_scriptDomain = 'http://www.smartadserver.com';
 	  <div class="container">	      	
     	<ul class="footer-links otherLinks">
           <li>Follow dealchecker on</li>
-		  <li><a href="http://www.facebook.com/dealchecker" target="_blank"><img alt="Like us on Facebook" src="http://static2.dealchecker.co.uk/6.80-1/images/common-responsive/menu/facebook-icon.jpg"></a></li>
-		  <li><a href="https://twitter.com/dealchecker" target="_blank"><img alt="Follow us on Twitter" src="http://static2.dealchecker.co.uk/6.80-1/images/common-responsive/menu/twitter-icon.jpg"></a></li>
-		  <li><a href="https://plus.google.com/+dealchecker/posts" target="_blank"><img alt="Plus 1 us" src="http://static2.dealchecker.co.uk/6.80-1/images/common-responsive/menu/google-plus-icon.jpg"></a></li>
+		  <li><a href="http://www.facebook.com/dealchecker" target="_blank"><img alt="Like us on Facebook" src="http://static2.dealchecker.co.uk/7.5-4/images/common-responsive/menu/facebook-icon.jpg"></a></li>
+		  <li><a href="https://twitter.com/dealchecker" target="_blank"><img alt="Follow us on Twitter" src="http://static2.dealchecker.co.uk/7.5-4/images/common-responsive/menu/twitter-icon.jpg"></a></li>
+		  <li><a href="https://plus.google.com/+dealchecker/posts" target="_blank"><img alt="Plus 1 us" src="http://static2.dealchecker.co.uk/7.5-4/images/common-responsive/menu/google-plus-icon.jpg"></a></li>
 		</ul>  
    	  </div>
 	  
@@ -806,7 +797,7 @@ sas_scriptDomain = 'http://www.smartadserver.com';
        		
 	       	
 <!--        	End of real deals rating on footer -->
-	        © Copyright 2014 dealchecker.co.uk. All rights reserved.
+	        © Copyright 2015 dealchecker.co.uk. All rights reserved.
     	</div> 
     </div>
     
@@ -897,12 +888,14 @@ sas_scriptDomain = 'http://www.smartadserver.com';
 			<script type="text/javascript">
 var __stormJs = 't1.stormiq.com/dcv4/jslib/sid0285_4.003.js';
 </script>
-<script type="text/javascript" src="http://static2.dealchecker.co.uk/6.20/c/scripts/dc-storm-track.js"></script>
+<script type="text/javascript" src="http://static2.dealchecker.co.uk/6.85-15/c/scripts/dc-storm-track.js"></script>
+		
+			<img src="http://fsitrk.com/p.ashx?o=692&amp;f=img&amp;t=" width="1" height="1" border="0"> 
 		
 	</div>
 	
 	
-	<script type="text/javascript" src="http://static2.dealchecker.co.uk/6.80-1/c/scripts/responsive-menu.js"></script>
+	<script type="text/javascript" src="http://static2.dealchecker.co.uk/7.5-4/c/scripts/responsive-menu.js"></script>
 
 	
 	<script type="text/javascript">
