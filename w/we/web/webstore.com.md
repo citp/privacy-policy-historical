@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webstore.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701220941id_/http%3A//www.webstore.com/privacy%2Cpage%2Ccontent_pages) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webstore.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607170437id_/http%3A//www.webstore.com/privacy%2Cpage%2Ccontent_pages) for the most accurate reproduction.*
 
 # Webstore.com News
 
@@ -24,21 +24,11 @@ We may collect and store the following personal information such as:
 
 email address, physical contact information such as mailing address and phone; transactional information based on your activities on the sites (such as bidding, buying, selling, item and content you generate or that relates to your account); shipping, billing and other information you provide to purchase or ship an item; dispute resolution, correspondence through our website, and correspondence sent to us; other information from your interaction with our website, services, content and advertising, including computer and connection information, statistics on page views, traffic to and from the sites, ad data, IP address and standard web log information; additional information we ask you to submit to authenticate yourself or if we believe you are violating site policies (for example, we may ask you to send us an ID or bill to verify your address, or to answer additional questions online to help verify your identity or ownership of an item you list); information from other companies, such as demographic and navigation data; and other supplemental information from third parties (for example, if you incur a debt to Webstore, we will generally conduct a credit check by obtaining additional information about you from a credit bureau, as permitted by law).
 
-Marketing
-
-We don't sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies and use it to improve and personalize our services, content and advertising. If you don't wish to receive marketing communications from us or participate in our ad-customization programs, simply indicate your preference in your Webstore Members Area or by following the unsubscribe directions provided with the communication or advertisement.
-
-Use
-
-Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. You agree that we may use your personal information to: provide the services and customer support you request;
-
-resolve disputes, collect fees, and troubleshoot problems;
-
-prevent potentially prohibited or illegal activities, and enforce our User Agreement;
-
-customize, measure and improve our services, content and advertising;
-
-tell you about our services and those of our corporate family, targeted marketing, service updates, and promotional offers based on your communication preferences; and compare information for accuracy, and verify it with third parties.
+We allow third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use non-personally identifiable information ( _e.g._ , hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at www.aboutads.info and Networking Advertising Initiative at www.networkadvertising.org/choices/.  
+Marketing  
+We don't sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies and use it to improve and personalize our services, content and advertising. If you don't wish to receive marketing communications from us or participate in our ad-customization programs, simply indicate your preference in your Webstore Members Area or by following the unsubscribe directions provided with the communication or advertisement.  
+Use  
+Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. You agree that we may use your personal information to: provide the services and customer support you request; resolve disputes, collect fees, and troubleshoot problems; prevent potentially prohibited or illegal activities, and enforce our User Agreement; customize, measure and improve our services, content and advertising; tell you about our services and those of our corporate family, targeted marketing, service updates, and promotional offers based on your communication preferences; and compare information for accuracy, and verify it with third parties.
 
 Our Disclosure of Your Information
 
@@ -111,6 +101,6 @@ We may amend this Privacy Policy at any time by posting a prominent notice of ma
   
 ---|---|---  
   
-Copyright ©1996-2014 **[Webstore.com](http://www.webstore.com/)**. All Rights Reserved. Designated trademarks and brands are the property of their respective owners. Use of this Web site constitutes acceptance of the **Webstore** [TERMS & CONDITIONS](http://www.webstore.com/terms,page,content_pages) and [PRIVACY POLICY](http://www.webstore.com/privacy,page,content_pages)
+Copyright ©1996-2015 **[Webstore.com](http://www.webstore.com/)**. All Rights Reserved. Designated trademarks and brands are the property of their respective owners. Use of this Web site constitutes acceptance of the **Webstore** [TERMS & CONDITIONS](http://www.webstore.com/terms,page,content_pages) and [PRIVACY POLICY](http://www.webstore.com/privacy,page,content_pages)
 
-Page generated in 0.062503 seconds
+Page generated in 0.057733 seconds
