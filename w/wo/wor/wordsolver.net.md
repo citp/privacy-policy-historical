@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordsolver.net privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229073421id_/http%3A//wordsolver.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordsolver.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607064327id_/http%3A//wordsolver.net/privacypolicy) for the most accurate reproduction.*
 
 # WordSolver.net | Turn Letters into Words with our scrabble solver!
 
