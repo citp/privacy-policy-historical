@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the criticker.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223194205id_/http%3A//www.criticker.com/index.php%3Fpv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the criticker.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607205435id_/http%3A//www.criticker.com/index.php%3Fpv) for the most accurate reproduction.*
 
 # Criticker - Privacy Policy
 
@@ -16,7 +16,7 @@ If you choose not to receive emails from Criticker about movie recommendations a
 
 ## Cookies
 
-Criticker.com may set and update cookies on your computer, which allow us to remember your username and preferences which you set. Criticker will not set cookies with the intent of marketing./p>
+Criticker.com may set and update cookies on your computer, which allow us to remember your username and preferences which you set. Criticker will not set cookies with the intent of marketing.
 
 Criticker.com uses a tool which collects requests for pages and passes elements of them to search engines to assist them in indexing this site. We control the configuration of the tool and are responsible for any information sent to the search engines.
 
