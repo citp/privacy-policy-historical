@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the talentsprint.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131947id_/http%3A//www.talentsprint.com/privacy-policy.dpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talentsprint.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607150515id_/http%3A//www.talentsprint.com/privacy-policy.dpl) for the most accurate reproduction.*
 
-# Privacy Policy | TalentSprint
+# Privacy Policy - We like safeguard your information | TalentSprint
 
 ## Privacy Policy
 
