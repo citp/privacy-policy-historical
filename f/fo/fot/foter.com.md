@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foter.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203070707id_/http%3A//foter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foter.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607215537id_/http%3A//foter.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Foter
 
