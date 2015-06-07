@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zalora.com.ph privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109034820id_/http%3A//www.zalora.com.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zalora.com.ph privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142726id_/http%3A//www.zalora.com.ph/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
