@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titanmen.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209123659id_/http%3A//www.titanmen.com/pages.php%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titanmen.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607184151id_/http%3A//www.titanmen.com/pages.php%3Fid%3Dprivacy) for the most accurate reproduction.*
 
 # TitanMen
 
@@ -10,7 +10,7 @@ Io Group, Inc. dba Titan Media is the owner and operator of TitanMedia.com. We c
 
 **Your Personal Information**
 
-When you make a purchase, we ask for your name, address, email address, and credit card information. We do this in order to complete your transaction and deliver the products you order.
+When you make a purchase, we ask for your name, address, email address.  We do this in order to complete your transaction and deliver the products you order.
 
 We maintain a record of your account, including your prior purchases in order to serve you better.
 
