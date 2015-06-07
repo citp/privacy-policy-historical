@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insight.org privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122120223id_/http%3A//www.insight.org/inform/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insight.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607072722id_/http%3A//daily.insight.org/site/PageServer%3Fpagename%3Dprivacypolicy%26printer_friendly%3D1) for the most accurate reproduction.*
 
-# Privacy Policy - Insight for Living Ministries
+# Privacy Policy - Insight for Living Ministries : Chuck Swindoll's Bible-teaching via articles, books, videos, streaming, and audio products
 
 Insight for Living Ministries has created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our Web site. The following discloses our information gathering and dissemination practices for the Web site located at the URL daily.insight.org.
 
