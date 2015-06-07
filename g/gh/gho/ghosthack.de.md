@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ghosthack.de privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130085537id_/http%3A//www.ghosthack.de/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghosthack.de privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142550id_/http%3A//www.ghosthack.de/privacy-policy) for the most accurate reproduction.*
 
-# Dubstep Samples Mixes Mp3 Download - Ghosthack
+# Privacy policy
 
 ﻿
 
