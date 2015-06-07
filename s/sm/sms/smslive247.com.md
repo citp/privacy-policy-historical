@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smslive247.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616153623id_/http%3A//new.smslive247.com/public/legal/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smslive247.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022715id_/http%3A//portal.smslive247.com/public/legal/privacy.txt) for the most accurate reproduction.*
 
 # 
 
