@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onesimcard.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121043346id_/http%3A//www.onesimcard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onesimcard.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200457id_/http%3A//www.onesimcard.com/privacy-policy) for the most accurate reproduction.*
 
 # OneSimCard - Privacy Policy
 
@@ -54,4 +54,4 @@ On rare occasions we send out important information regarding changes to product
 
 On a regular basis in order to provide support service we may respond to customer requests by phone, email or other way specified by the client. 
 
-© 2006-2014 Belmont Telecom Inc., DBA OneSimCard.com. All rights reserved
+© 2006-2015 Belmont Telecom Inc., DBA OneSimCard.com. All rights reserved
