@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schengenvisainfo.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921083102id_/http%3A//www.schengenvisainfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schengenvisainfo.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608014139id_/http%3A//www.schengenvisainfo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Schengen VISA Information
 
@@ -23,7 +23,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 schengenvisainfo.com may collect and use Users personal information for the following purposes:
 
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
 
 
