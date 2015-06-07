@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hulkusaa.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120135258id_/http%3A//www.hulkusaa.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hulkusaa.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607143815id_/http%3A//www.hulkuss.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | Hulk USA Home of News
+# Privacy Policy | Hulk USS
 
 What information do we collect?  
 hulkusa.com is use different tracking tools to track visitors information. We are using Google Analytics and Ice Rocket Tracker to track visitors information including IP address, Operating System and Web browser etc. We guaranteed you that we do not sharing this sensitive information with any third party. We collect this data just to increase our sites performance so that we can serve you in a better way.  
