@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpaonline.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114123008id_/http%3A//findaccountingsoftware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpaonline.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142509id_/http%3A//findaccountingsoftware.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Find Accounting Software
 
