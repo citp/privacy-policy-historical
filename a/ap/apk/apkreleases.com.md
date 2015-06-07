@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apkreleases.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204200835id_/http%3A//www.apkreleases.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apkreleases.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608002007id_/http%3A//www.apkreleases.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - APK Releases
 
@@ -8,7 +8,7 @@ At APK Releases, your privacy is our number one concern. This privacy policy doc
 
 ## Personal Information
 
-APKReleases.com does not require any information which can be traced back to, and identify a unique user. Certain features of the site however (like comments for example) , do require a valid email address to verify legitimate users. We guarantee that the information provided to The Site would never be used for any other purpose.
+APKReleases.com does not require any information which can be traced back to, and identify a unique user. Certain features of the site however (like comments for example) , do require a valid [email](http://www.apkreleases.com/tag/email/) address to verify legitimate users. We guarantee that the information provided to The Site would never be used for any other purpose.
 
 ## Log Files
 
