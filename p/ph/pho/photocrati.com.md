@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photocrati.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217041617id_/http%3A//www.photocrati.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photocrati.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607215155id_/http%3A//www.photocrati.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -84,4 +84,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using our Contact page.
 
 **Update**  
-This Privacy Policy was last updated on: Monday, March 25th, 2013. 
+This Privacy Policy was last updated on: Monday, March 25th, 2013.
