@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the truckviewtv.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223074827id_/http%3A//www.truckviewtv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truckviewtv.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607195916id_/http%3A//truckviewtv.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | TruckViewTV
 
-Privacy Policy
+[vc_row][vc_column width=”1/1″][vc_column_text]Privacy Policy
 
 Protecting your private information is our priority. This Statement of Privacy applies to the www.truckviewtv.com and truckviewtv and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to truckviewtv include www.truckviewtv.com and truckviewtv. The truckviewtv website is a News and information site. By using the truckviewtv website, you consent to the data practices described in this statement.
 
@@ -41,8 +41,8 @@ You will be able to connect your truckviewtv account to third party accounts. BY
 
 Opt-Out & Unsubscribe  
 We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from truckviewtv by contacting us here:  
-\- Web page: truckviewtv.com  
-\- Email: fb@truckviewtv.com
+– Web page: truckviewtv.com  
+– Email: fb@truckviewtv.com
 
 Changes to this Statement  
 truckviewtv will occasionally update this Statement of Privacy to reflect company and customer feedback. truckviewtv encourages you to periodically review this Statement to be informed of how truckviewtv is protecting your information.
@@ -55,4 +55,4 @@ truckviewtv
 Email Address:  
 fb@truckviewtv.com
 
-Effective as of May 01, 2014
+Effective as of May 01, 2014[/vc_column_text][/vc_column][/vc_row]
