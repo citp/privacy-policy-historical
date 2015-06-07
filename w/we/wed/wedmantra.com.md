@@ -1,19 +1,16 @@
-> *The following text is extracted and transformed from the wedmantra.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925175134id_/http%3A//wedmantra.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedmantra.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074815id_/http%3A//wedmantra.com/privacy) for the most accurate reproduction.*
 
-# WedMantra
+# wedmantra.com -Privacy Policy
 
 ##  privacy policy
 
 This Privacy policy sets out how Wedmantra uses & protects any information that you give to us when you visit the Website.
 
-Wedmantra is committed to ensureuserprivacy is protected. We ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+Wedmantra is committed to ensure user privacy is protected. We ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
 Wedmantra may change its privacy policy from time to time by updating this page. You should check this page from time to time to ensure that you are satisfied with the privacy policy. This policy is effective from 31st July 2014.
 
-**What information we collect?**  
-
-
-We collect the following information: 
+**What information we collect?**
 
   1. Name
   2. Contact information including email address and postal code
@@ -44,15 +41,17 @@ Our website may contain links to other websites of interest. However, once you h
 **Controlling your personal information**
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties, which we think you may find interesting if you tell us that you wish this to happen.  
-You may request details of personal information, which we hold about you under the Information Technology Act 2000. If you would like to getdetails of your information held by us, please write to Wedmantra, 5th Floor, "Jubilee Square," Road No. 36, Jubilee Hills, Hyderabad- 500033  
+You may request details of personal information, which we hold about you under the Information Technology Act 2000.   
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below:  
+If there are any questions regarding this privacy policy you may contact us at :  
 Company Name: Wedmantra,  
 5th Floor, "Jubilee Square," Road No. 36, Jubilee Hills, Hyderabad, Andhra Pradesh 500033  
-Phone nos.  
-— Dialing from India: (0) 088 86 677733  
-— Dialing from outside India: (00) 91 088 86 677733  
-E-Mail ID:[contact@wedmantra.com](mailto:contact@wedmantra.com)
+Phone Nos :  
+Dialling from India : 1860-200-4444  
+Dialling from outside India : (00) 91 088 86 677733  
+E-Mail ID :   
+For Technnical Support : [support@wedmantra.com](mailto:support@wedmantra.com)  
+For Customer Support : [enquiries@wedmantra.com](mailto:enquiries@wedmantra.com), [info@wedmantra.com](mailto:info@wedmantra.com)
