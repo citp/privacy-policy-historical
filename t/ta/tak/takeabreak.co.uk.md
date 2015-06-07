@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the takeabreak.co.uk privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208112825id_/http%3A//www.takeabreak.co.uk/bauer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takeabreak.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607180229id_/http%3A//www.takeabreak.co.uk/bauer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Take a Break Magazine
 
@@ -37,7 +37,7 @@ You can control whether you send your personal data to us. You have a right to r
 
 The Data Protection Act 1998 applies to our use of your data. You can find out more about the Data Protection Act 1998 here [This is a link to the relevant pages of the Web Site of the Information Commissioner's Office]. Click here for more information.
 
-### [2\. FULL POLICY](https://web.archive.org/web/20141208112825id_/http%3A//www.takeabreak.co.uk/bauer/full)
+### [2\. FULL POLICY](https://web.archive.org/web/20150607180229id_/http%3A//www.takeabreak.co.uk/bauer/full)
 
 ##### a) This Policy
 
