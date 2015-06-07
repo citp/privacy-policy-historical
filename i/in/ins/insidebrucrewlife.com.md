@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insidebrucrewlife.com privacy policy that was archived on 2014-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140817091438id_/http%3A//insidebrucrewlife.com/advertisingdisclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidebrucrewlife.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022322id_/http%3A//insidebrucrewlife.com/workwithme) for the most accurate reproduction.*
 
-# Advertising/Disclosure - Inside BruCrew Life
+# Work With Me - Inside BruCrew Life
 
 ***Recipe Development, Brand Ambassadorship, and Food Writing:**
 
