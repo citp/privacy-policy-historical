@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatgifs.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220052936id_/http%3A//whatgifs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatgifs.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607054454id_/http%3A//whatgifs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Best Funny Animated Gifs Updated Every Day – WhatGifs
 
