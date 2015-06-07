@@ -1,248 +1,384 @@
-<!--The following is the downloaded HTML source of the toon10.com privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120005401id_/http%3A//www.toon10.com/page/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the toon10.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607184624id_/http%3A//www.toon10.com/page/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <title>Privacy Policy | Toon 10</title>
     <meta name="description" content="Please read Privacy Policy ">
-    <meta name="keywords" content="Ben 10 games, spiderman games, Mario games, Sonic games, spongebob games, hulk games, iron man games.">        <link href="http://www.toon10.com/css/swipebox.css" rel="stylesheet">
+    <meta name="keywords" content="Ben 10 games, spiderman games, Mario games, Sonic games, spongebob games, hulk games, iron man games.">        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="description" content="Play hundreds of toon games at Toon10,you can choose your favorite categories like Ben 10 games, spiderman games, Mario games, Sonic games etc.">
+        <meta name="keywords" content="Ben 10 games, spiderman games, Mario games, Sonic games, spongebob games, hulk games, iron man games.">
+
         <link href="http://www.toon10.com/css/style.css" rel="stylesheet">
-        <script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="http://www.toon10.com/js/swfobject.js"></script>
+        
         <link rel="shortcut icon" href="http://www.toon10.com/images/favicon.ico" type="image/x-icon">
          <!-- JavaScript Includes -->
-        <script type="text/javascript" src="http://www.toon10.com/js/jquery.min.js"></script>
-        <script type="text/javascript" src="http://www.toon10.com/js/jquery.swipebox.min.js"></script>
-        <script type="text/javascript" src="http://www.toon10.com/js/jquery.loadImage.js"></script>
-        <script type="text/javascript" src="http://www.toon10.com/js/script.js"></script>
-        <script type="text/javascript" src="http://www.toon10.com/js/jquery-ui.min.js"></script>
+        <script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="http://www.toon10.com/js/jquery-1.9.0.min.js"></script>
+        <script type="text/javascript" src="http://www.toon10.com/js/swfobject.js"></script>
         <script type="text/javascript" src="http://www.toon10.com/js/script_starRating.js"></script>
-        <!--[if lt IE 9]>
-        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-		<![endif]-->
-   <!--     <script type="text/javascript">
-            function showdiv() {
-                document.getElementById("adbox").style.display = 'block';
-            }
+        <script type="text/javascript" src="http://www.toon10.com/js/loadingmore.js"></script>
+       <!--[if gte IE 9]>
+    <style type="text/css">
+    .gradient {
+    filter: none;
+    }
+    </style>
+    <![endif]-->
+    <script>
+		function toggle5(showHideDiv, switchImgTag) {
+			var ele = document.getElementById(showHideDiv);
+			var imageEle = document.getElementById(switchImgTag);
+			if (ele.style.display == "block") {
+				ele.style.display = "none";
+				imageEle.innerHTML = '<img src="http://www.toon10.com/images/plus.png">';
+			} else {
+				ele.style.display = "block";
+				imageEle.innerHTML = '<img src="http://www.toon10.com/images/minus.png">';
+			}
 
-            setTimeout('showdiv()', 2000);
-            function cloasethisdiv() {
-                document.getElementById("adbox").style.display = 'none';
-            }
+		}
 
-            function showdiv2() {
-                document.getElementById("adbox2").style.display = 'block';
-            }
+    </script>
+<script type="text/javascript">
+/* Start Infinite loading */
+$(document).ready(function() {
+	$('#allgames').scrollPagination({
+		nop     : 20, // The number of posts per scroll to be loaded
+		offset  : 44, // Initial offset, begins at 0 in this case
+		error   : 'No More Games', // When the user reaches the end this is the message that is
+		                            // displayed. You can change this if you want.
+		delay   : 1500, // When you scroll down the posts will load after a delayed amount of time.
+		               // This is mainly for usability concerns. You can alter this as you see fit
+		scroll  : true // The main bit, if set to false posts will not load as the user scrolls.
+		               // but will still load if the user clicks.
+	});
 
-            setTimeout('showdiv2()', 2000);
-            function cloasethisdiv2() {
-                document.getElementById("adbox2").style.display = 'none';
-            }
-        </script> -->
+$('#allgamescats').scrollPagination_Cat({
+		nop     : 20, // The number of posts per scroll to be loaded
+		offset  : 36, // Initial offset, begins at 0 in this case
+		error   : 'No More Games', // When the user reaches the end this is the message that is
+		                            // displayed. You can change this if you want.
+		delay   : 1500, // When you scroll down the posts will load after a delayed amount of time.
+		               // This is mainly for usability concerns. You can alter this as you see fit
+		scroll  : true // The main bit, if set to false posts will not load as the user scrolls.
+		               // but will still load if the user clicks.
+	});
+});
+/* End Infinite loading  */
+</script>  
+<script type="text/javascript">
+function clos() {
+document.getElementById("footer").style.display="none";
+}
+</script>       
     <script async="" src="http://widgets.amung.us/small.js"></script></head>
-    <body onload="logojump();" style="overflow-y: scroll;overflow-x: hidden">
-        <!-- timeout popup ad -->
-                <!-- end timeout popu ad -->
-        <div id="bodycontainer">
-            <input type="hidden" name="HOME_PAGE" id="HOME_PAGE" value="http://www.toon10.com/">
+    <body style="overflow-y: scroll;overflow-x: hidden;">
+       <!-- Start header_wrap -->
+       
+    <input type="hidden" name="HOME_PAGE" id="HOME_PAGE" value="http://www.toon10.com/">
 <input type="hidden" name="GAMES_PATH" id="GAMES_PATH" value="http://www.toon10.com/games/images/">
 
-<div class="font_style_logo"><a href="http://www.toon10.com/"><img src="http://www.toon10.com/images/toon10logo.png" alt="Toon10 Logo"></a></div><div class="jquery-bar">
-    <div class="notification">
-       <!-- <div class="font_style"><a href="http://www.toon10.com/"><img src="http://www.toon10.com/images/toon10logo.png"></a>
-        </div> -->
-        <div class="home_btn">
-            <a href="http://www.toon10.com/"><img src="http://www.toon10.com/images/homeicon.png" alt="home icon"></a>
+<div id="header_wrap">
+    <div class="header">
+        <div class="logo_app">
+            <div class="logo"><a href="http://www.toon10.com/"><img src="http://www.toon10.com/images/toon10-logo.png" alt="toon10 logo"></a>
+            </div>
+            <div class="clear"></div>
+            <div class="appstore_playstore_wrap">
+                <div class="playstore">
+                    <a href="https://play.google.com/store/apps/developer?id=Start+Android" target="_blank"><img src="http://www.toon10.com/images/play-store-icon.png" alt="Start Android play store Games"></a>
+                </div>
+                <div class="appstore">
+                    <a href="https://itunes.apple.com/us/artist/syed-dilawez/id948576027" target="_blank"><img src="http://www.toon10.com/images/app-store-icon.png" alt="OxeyeStudios play store Games"></a>
+                </div>
+                <div class="clear"></div>
+            </div>
         </div>
+        <div id="search_topad_wrap">
+            <div class="social">
+                <div style="width:135px;float:left;" class="fb-like" data-href="https://www.facebook.com/toon10games" data-width="450" data-height="35" data-layout="button_count" data-show-faces="false" data-send="true"></div>
+                <div style="width:97px;float:left" class="g-follow" data-annotation="bubble" data-height="15" data-href="https://plus.google.com/u/0/b/109153505673625997724" data-rel="publisher"></div>    
+            </div>
+            <div class="clear"></div>
+            <div class="searchbar_menu">
+                <div id="topmenu">
+                    <ul>
+                        <li>
+                            <a href="http://www.toon10.com/download.php/">Download Games</a>
+                        </li>
+                        <li>
+                            <a href="http://www.toon10.com/topgames/">Top Games</a>
+                        </li>
+                        <li>
+                            <a href="http://www.toon10.com/mostplayedgames/">Most Played</a>
+                        </li>
+                    </ul>
+                </div>
 
-        <div class="social_networks">
-            <div style="width:135px;float:left;" class="fb-like" data-href="https://www.facebook.com/toon10games" data-width="450" data-height="35" data-layout="button_count" data-show-faces="false" data-send="true"></div>
-            <div style="width:97px;float:left" class="g-follow" data-annotation="bubble" data-height="15" data-href="https://plus.google.com/u/0/b/109153505673625997724" data-rel="publisher"></div>
-        </div> 
-        <form class="form-wrapper cf" action="http://www.toon10.com/search" method="post">
-            <input type="text" name="val" id="val" value="" placeholder="Search here..." required="">
-            <button type="submit">Search</button>
-        </form>	
-        <div class="top_ad">
-            <section class="main">
-                <div class="wrapper-demo">
-                    <div id="dd" class="wrapper-dropdown-3" tabindex="1">
-    <span>Select Categories</span>
-    <div class="dropdown">
+                <div class="search_box">
+                    <form name="searchFrm" action="http://www.toon10.com/search/" method="post">  
+                        <input type="text" required="" placeholder="Search here..." value="" id="val" name="val" class="textbox">
+                        <button type="submit" class="searchbtn"></button>
+                    </form>
+                </div>
+            </div>
+            <div class="clear"></div>
+
+            <div class="topad_wrap">
+                <div class="topad_strip">
+                    <img src="http://www.toon10.com/images/728x90-advertise-strip.png" alt="728x90 advertise strip">
+                </div>
+                <div class="topad">
+                    <script type="text/javascript">document.write("<iframe src='http://www.epicgameads.com/ads/banneriframe.php?id=yeA5z58737&t=728x90&channel=11&cb=" + (Math.floor(Math.random() * 99999) + new Date().getTime()) + "' style='width:728px;height:90px;' frameborder='0' scrolling='no'></iframe>");</script><iframe src="http://www.epicgameads.com/ads/banneriframe.php?id=yeA5z58737&amp;t=728x90&amp;channel=11&amp;cb=1580520494818" style="width:728px;height:90px;" frameborder="0" scrolling="no"></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><!-- End header_wrap -->
+<!-- Start Body warp -->
+<div id="body_wrap">
+<div class="main_menu">
         <ul>
-            <li>
-                <a href="http://www.toon10.com/spiderman/">Spiderman</a>
-            </li>
-            <li>
-                <a href="http://www.toon10.com/ben-10/">Ben10</a>
-            </li>
-            <li>
-                <a href="http://www.toon10.com/mario/">Mario</a>
-            </li>
-            <li>
-                <a href="http://www.toon10.com/sonic/">Sonic</a>
-            </li>
-            <li>
-                <a href="http://www.toon10.com/spongebob/">Spongebob</a>
-            </li>
-            <li>
-                <a href="http://www.toon10.com/batman/">Batman</a>
-            </li>
-            <li>
-                <a href="http://www.toon10.com/scooby-doo/">Scooby Doo</a>
-            </li>
-            <li>
-                <a href="http://www.toon10.com/looney-tunes/">Looney Tunes</a>
-            </li>
-            <li>
-                <a href="http://www.toon10.com/transformers/">Transformers</a>
-            </li>
-            <li>
-                <a href="http://www.toon10.com/pokemon/">Pokemon</a>
-            </li>
-            <li>
-                <a href="http://www.toon10.com/power-rangers/">Power Rangers</a>
-            </li>
-            <li>
-                <a href="http://www.toon10.com/tom-and-jerry/">Tom and Jerry</a>
-            </li>
-            <li>
-                <a href="http://www.toon10.com/billy-mandy/">Billy and Mandy</a>
-            </li>
-            <li>
-                <a href="http://www.toon10.com/avatar/">Avatar</a>
-            </li>
-            <li>
-                <a href="http://www.toon10.com/ninja/">Ninja</a>
-            </li>
-            <li>
-                <a href="http://www.toon10.com/toy-story/">Toy Story</a>
-            </li>
-            <li>
-                <a href="http://www.toon10.com/simpsons/">The Simpsons</a>
-            </li>
-            <li>
-                <a href="http://www.toon10.com/flintstones/">Flinstones</a>
-            </li>
-            <li>
-                <a href="http://www.toon10.com/naruto/">Naruto</a>
-            </li>
-            <li>
-                <a href="http://www.toon10.com/other-games/">Other Games</a>
-            </li>
+          <li>
+            <a href="http://www.toon10.com/spiderman/" style="0">Spiderman</a>
+          </li>
+          <li>
+            <a href="http://www.toon10.com/ben-10/" style="0">Ben10</a>
+          </li>
+          <li>
+            <a href="http://www.toon10.com/mario/" style="0">Mario</a>
+          </li>
+          <li>
+            <a href="http://www.toon10.com/sonic/" style="0">Sonic</a>
+          </li>
+          <li>
+            <a href="http://www.toon10.com/spongebob/" style="0">Spongebob</a>
+          </li>
+          <li>
+            <a href="http://www.toon10.com/batman/" style="0">Batman</a>
+          </li>
+          <li>
+            <a href="http://www.toon10.com/scooby-doo/" style="0">Scooby Doo</a>
+          </li>
+          <li>
+            <a href="http://www.toon10.com/looney-tunes/" style="0">Looney Tunes</a>
+          </li>
+          <li>
+            <a href="http://www.toon10.com/transformers/" style="0">Transformers</a>
+          </li>
+          <li>
+            <a href="http://www.toon10.com/power-rangers/" style="0">Power Rangers</a>
+          </li>
+          <li>
+            <!-- <a href="#contact" class="more"
+            style="border-right:none;font-weight: bold;">More<span
+            class="plus">+</span><span class="minus">-</span></a> -->
+            <a id="imageDivLink" href="javascript:toggle5('contentDivImg', 'imageDivLink');" style="padding:6px 4px 3px 4px!important;margin-top:-3px;border-right:none;font-weight: bold;"><img src="http://www.toon10.com/images/plus.png"></a>
+          </li>
+          <div class="clear"></div>
         </ul>
-    </div>
-</div>                </div>
-            </section>
-        </div>        
-        <p class="jquery-arrow down"><img src="http://www.toon10.com/images/down-arrow.png" alt="Click to Hide Notification" style="cursor:pointer;">
-        </p>
-    </div>
+        <div id="contentDivImg" style="display: none;">
+          <ul>
+            <li>
+              <a href="http://www.toon10.com/pokemon/" style="0">Pokemon</a>
+            </li>
+            <li>
+              <a href="http://www.toon10.com/tom-and-jerry/" style="0">Tom and Jerry</a>
+            </li>
+            <li>
+              <a href="http://www.toon10.com/billy-mandy/" style="0">Billy and Mandy</a>
+            </li>
+            <li>
+              <a href="http://www.toon10.com/avatar/" style="0">Avatar</a>
+            </li>
+            <li>
+              <a href="http://www.toon10.com/ninja/" style="0">Ninja</a>
+            </li>
+            <li>
+              <a href="http://www.toon10.com/toy-story/" style="0">Toy Story</a>
+            </li>
+            <li>
+              <a href="http://www.toon10.com/simpsons/" style="0">The Simpsons</a>
+            </li>
+            <li>
+              <a href="http://www.toon10.com/flintstones/" style="0">Flinstones</a>
+            </li>
+            <li>
+              <a href="http://www.toon10.com/naruto/" style="0">Naruto</a>
+            </li>
+            <li>
+              <a href="http://www.toon10.com/other-games/" style="border-right:none;0">Other Games</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="clear"></div>    <div id="games_wrap">
+     <div class="clear"></div>
+
+<div class="main_title">
+    <h1>Privacy Policy</h1>
 </div>
-<div class="downbar jquery-arrow">
-    <div style="margin-top:5px;float:left;"><img src="http://www.toon10.com/images/logo_1.png">
+
+<p>
+    Toon10 is committed to providing an entertaining, fun and educational service.
+</p>
+<p>
+    Toon10.com is a property of Toon10 Limited "Toon10".
+</p>
+
+<p>
+    Toon10 respects the privacy concerns of visitors to Toon10.com.
+</p>
+<p>
+    Toon10 does not target its website or services to under 13 year olds, but does take measures to help protect those that happen to be under 13.
+</p>
+
+<p>
+    We take measures to help children protect their privacy while online.
+</p>
+<p>
+    For example, we do not ask children to disclose more personal information than is necessary for them to participate in a particular activity.
+</p>
+
+<p>
+    Information we collect We may log IP addresses and/or drop cookies to prevent abuse of our website and/or to enhance services.
+</p>
+
+<p>
+    Email addresses of under 13 year olds are not stored. They are encrypted into an unrecoverable format using a one way hash.
+</p>
+
+<p>
+    How we use the information We have an internal notification system to communicate with under 13 players and do not send them emails.
+</p>
+
+<p>
+    We do not retain any personal information beyond the time it is needed.
+</p>
+<p>
+    We may use information to ensure that users are compliance with our terms.
+</p>
+<p>
+    Over 13's may authorize and receive email notifications related to Toon10 services.
+</p>
+<p>
+    Toon10 Limited may disclose information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with Toon10's property, visitors, or anyone else that could be harmed by such activities. We may sometimes use non-personally identifiable information that we collect to improve the design and content of our site, to personalize our visitors' experience or to offer products, programs, and services.
+</p>
+<p>
+    We may also use this information in the aggregate to analyze site usage, as well as to offer products, programs, or services.
+</p>
+<p>
+    Collection of Information and Third-Party Sites and Sponsors Our site may place a small file, called a cookie, on your hard drive to provide you with a better website.
+</p>
+<p>
+    A cookie does not, in any way, give us access to your computer or to any personally identifiable information about you, other than the data you choose to share with us.
+</p>
+<p>
+    It only helps us analyze web traffic or lets web applications respond to you as an individual.
+</p>
+<p>
+    Our authorized third-party advertisers in the course of serving ads to you, may also place cookies on your browser or use tracking technology to collect information.
+</p>
+<p>
+    You can choose not to accept cookies by modifying your browser settings.
+</p>
+<p>
+    At any time, you may remove any cookie stored on your hard drive by deleting them in your browser's settings section.
+</p>
+
+<p>
+    Google, one of our third-party advertisers, may add a DART cookie to determine targeted advertisements based on your preferences and your visit to our site and other sites on the internet.
+</p>
+<p>
+    You can choose to opt out of Google's use of cookies by visiting the Google ad and content network privacy policy.
+</p>
+<p>
+    Information that is reasonably necessary PToon10 does not require under 13's to disclose more information than is reasonably necessary to participate in the activity as a condition of participation.
+</p>
+<p>
+    Security We have implemented appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
+</p>
+<p>
+    Parental Review To protect your child's privacy and security, we will take reasonable steps to help verify your identity before granting you access to the personal information that we collect and maintain about your child.
+</p>
+<p>
+    Changes to this Privacy Policy This Privacy Policy is part of the Toon10 main Terms and Conditions which you agree to by accessing the Toon10.com webstie and/or services.
+</p>
+<p>
+    You agree that Toon10 Limited may change this Privacy Policy and the main Toon10 Terms and Conditions at any time.
+</p>
+<p>
+    Internet Safety Toon10 recommends that Parents take time to communicate and educate their children about Internet Safety.
+</p>
+
+<div class="clear"></div>
     </div>
-    <img src="http://www.toon10.com/images/up-arrow.png" alt="Click to Show Notification" style="cursor:pointer;">
-</div>            <div class="clear"></div>
+<div style="margin-top:8px;"></div>
+<div class="clear"></div>
+<div class="btm_ad">
 
-<div class="search_container">
-    <div class="content_wrap">
-        <h1 class="ctg_tle">Privacy Policy <hr></h1>
+        <div class="mid_ad_strop"><img src="http://www.toon10.com/images/mid-ad-strip.png" alt="mid ad strip">
+        </div>
+        <div class="mid_ad"><script type="text/javascript">document.write("<iframe src='http://www.epicgameads.com/ads/banneriframe.php?id=yeA5z58737&t=728x90&channel=11&cb=" + (Math.floor(Math.random()*99999) + new Date().getTime()) + "' style='width:728px;height:90px;' frameborder='0' scrolling='no'></iframe>");</script><iframe src="http://www.epicgameads.com/ads/banneriframe.php?id=yeA5z58737&amp;t=728x90&amp;channel=11&amp;cb=1580520501831" style="width:728px;height:90px;" frameborder="0" scrolling="no"></iframe>
+        </div>
+        <div class="clear"></div>
+      </div>
+      <div class="clear"></div></div>
+<!-- End Body warp -->
+<!-- Start footer -->
 
-        <p>
-						Toon10 is committed to providing an entertaining, fun and educational service.
-        </p>
-        <p>
-						Toon10.com is a property of Toon10 Limited "Toon10".
-        </p>
-
-        <p>
-						Toon10 respects the privacy concerns of visitors to Toon10.com.
-        </p>
-        <p>
-						Toon10 does not target its website or services to under 13 year olds, but does take measures to help protect those that happen to be under 13.
-        </p>
-
-        <p>
-						We take measures to help children protect their privacy while online.
-        </p>
-        <p>
-						For example, we do not ask children to disclose more personal information than is necessary for them to participate in a particular activity.
-        </p>
-
-        <p>
-						Information we collect We may log IP addresses and/or drop cookies to prevent abuse of our website and/or to enhance services.
-        </p>
-
-        <p>
-						Email addresses of under 13 year olds are not stored. They are encrypted into an unrecoverable format using a one way hash.
-        </p>
-
-        <p>
-						How we use the information We have an internal notification system to communicate with under 13 players and do not send them emails.
-        </p>
-
-        <p>
-						We do not retain any personal information beyond the time it is needed.
-        </p>
-        <p>
-						We may use information to ensure that users are compliance with our terms.
-        </p>
-        <p>
-						Over 13's may authorize and receive email notifications related to Toon10 services.
-        </p>
-        <p>
-						Toon10 Limited may disclose information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with Toon10's property, visitors, or anyone else that could be harmed by such activities. We may sometimes use non-personally identifiable information that we collect to improve the design and content of our site, to personalize our visitors' experience or to offer products, programs, and services.
-        </p>
-        <p>
-						We may also use this information in the aggregate to analyze site usage, as well as to offer products, programs, or services.
-        </p>
-        <p>
-						Collection of Information and Third-Party Sites and Sponsors Our site may place a small file, called a cookie, on your hard drive to provide you with a better website.
-        </p>
-        <p>
-						A cookie does not, in any way, give us access to your computer or to any personally identifiable information about you, other than the data you choose to share with us.
-        </p>
-        <p>
-						It only helps us analyze web traffic or lets web applications respond to you as an individual.
-        </p>
-        <p>
-						Our authorized third-party advertisers in the course of serving ads to you, may also place cookies on your browser or use tracking technology to collect information.
-        </p>
-        <p>
-						You can choose not to accept cookies by modifying your browser settings.
-        </p>
-        <p>
-						At any time, you may remove any cookie stored on your hard drive by deleting them in your browser's settings section.
-        </p>
-
-        <p>
-						Google, one of our third-party advertisers, may add a DART cookie to determine targeted advertisements based on your preferences and your visit to our site and other sites on the internet.
-        </p>
-        <p>
-						You can choose to opt out of Google's use of cookies by visiting the Google ad and content network privacy policy.
-        </p>
-        <p>
-						Information that is reasonably necessary PToon10 does not require under 13's to disclose more information than is reasonably necessary to participate in the activity as a condition of participation.
-        </p>
-        <p>
-						Security We have implemented appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
-        </p>
-        <p>
-						Parental Review To protect your child's privacy and security, we will take reasonable steps to help verify your identity before granting you access to the personal information that we collect and maintain about your child.
-        </p>
-        <p>
-						Changes to this Privacy Policy This Privacy Policy is part of the Toon10 main Terms and Conditions which you agree to by accessing the Toon10.com webstie and/or services.
-        </p>
-        <p>
-						You agree that Toon10 Limited may change this Privacy Policy and the main Toon10 Terms and Conditions at any time.
-        </p>
-        <p>
-						Internet Safety Toon10 recommends that Parents take time to communicate and educate their children about Internet Safety.
-        </p>
-
-    </div>
-    <div class="clear"></div>
-</div>
-            <!-- Start Social Sites -->
+<div id="footer_wrap">
+      <div class="footer">
+        <div class="footer_menu">
+          <ul>
+            <li>
+              <a href="http://www.toon10.com/mostplayedgames/">Popular Games </a>
+            </li>
+            <li>
+              <a href="http://www.toon10.com/topgames/">Top Games </a>
+            </li>
+            <li>
+              <a href="http://www.toon10.com/mostplayedgames/">Most Played Games </a>
+            </li>
+            <li>
+              <a href="http://www.toon10.com/">New Games </a>
+            </li>
+            <li>
+              <a href="http://www.toon10.com/spiderman/">Spiderman </a>
+            </li>
+            <li>
+              <a href="http://www.toon10.com/avatar/">Avatar </a>
+            </li>
+            <li>
+              <a href="http://www.toon10.com/batman/">Batman </a>
+            </li>
+            <li>
+              <a href="http://www.toon10.com/transformers/"> Transformers </a>
+            </li>
+            <li>
+              <a href="http://www.toon10.com/mario/"> Mario </a>
+            </li>
+            <li>
+              <a href="http://www.toon10.com/sonic/"> Sonic </a>
+            </li>
+            <li>
+              <a href="http://www.toon10.com/ben-10/"> Ben10 </a>
+            </li>
+            <li>
+              <a href="http://www.toon10.com/ninja/" style="border-right:none;"> Ninja </a>
+            </li>
+          </ul>
+        </div>
+        <div class="copyrght_links">
+          <a href="http://www.toon10.com/page/about-us/">About Us</a> - <a href="http://www.toon10.com/page/terms-and-conditions/">Terms &amp; Conditions</a> - <a href="http://www.toon10.com/page/privacy-policy/">Privacy Policy</a> - <a href="http://www.toon10.com/page/contact-us/">Contact Us</a> - <a href="http://www.toon10.com/download.php/">Download Games</a>
+          <p>
+            © 2015 Toon10 All Rights Reserved.
+          </p>
+        </div>
+      </div>
+    </div><!-- End footer -->
+<!-- Start Social-->
+<!-- Start Social Sites -->
 <script type="text/javascript">
   (function() {
     var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
@@ -261,7 +397,7 @@
 <!-- End Social Sites --->
 
 <!-- Start Epic POP under -->
-<script type="text/javascript">document.write("<scr" + "ipt type='text/javascript' src='http://www.epicgameads.com/ads/popjs.php?id=yeA5z58737&channel=11&cb=" + new Date().getTime() + "'></scri" + "pt>");</script><script type="text/javascript" src="http://www.epicgameads.com/ads/popjs.php?id=yeA5z58737&amp;channel=11&amp;cb=1580520401217"></script>
+<script type="text/javascript">document.write("<scr" + "ipt type='text/javascript' src='http://www.epicgameads.com/ads/popjs.php?id=yeA5z58737&channel=11&cb=" + new Date().getTime() + "'></scri" + "pt>");</script><script type="text/javascript" src="http://www.epicgameads.com/ads/popjs.php?id=yeA5z58737&amp;channel=11&amp;cb=1580520402331"></script>
 <!-- End Epic POP under -->
 
 <!-- Start Google Analyatic -->
@@ -306,12 +442,16 @@ document.getElementsByTagName("head")[0].appendChild(s);
 })();</script>
 </center>
 </div>
-<!-- End Who's amoung us --><!-- Start Epic Site Skin Ads -->
+<!-- End Who's amoung us -->
+
+<script type="text/javascript" src="http://www.toon10.com/js/jquery.index.js"></script><!-- End Social-->
+
+<!-- Start Epic Side ADS -->
 <div style="top: 100px;">
 <script type="text/javascript">
     /* Edit these values to fit your site */
-    var ega_siteWidth = 1105; /* Number of pixels wide between the two SS images */
-    var ega_offsetTop = 55; /* Number of pixels from the top of the SS to the top of the site */
+    var ega_siteWidth = 1056; /* Number of pixels wide between the two SS images */
+    var ega_offsetTop = 165; /* Number of pixels from the top of the SS to the top of the site */
     var ega_offsetLeft = 0; /* Number of pixels to adjust the left image horizontally */
     var ega_offsetRight = 0; /* Number of pixesl to adjust the right image horizontally */
     var ega_fixedPosition = 0; /* 0 if image is scrollable.  If set to 1, you must specify a <!DOCTYPE> on your page */
@@ -319,123 +459,17 @@ document.getElementsByTagName("head")[0].appendChild(s);
     var ega_hideRight = 0; /* Set to 1 to hide the right image */
     /* Do not edit below this line */
     document.write("<scr" + "ipt type='text/javascript' src='http://www.epicgameads.com/ads/bannerjs.php?id=yeA5z58737&channel=11&t=ss&sitewidth=" + ega_siteWidth +"&offsettop=" + ega_offsetTop +"&offsetleft=" + ega_offsetLeft + "&offsetright=" + ega_offsetRight + "&fixedposition=" + ega_fixedPosition + "&hideleft=" + ega_hideLeft + "&hideright=" + ega_hideRight + "&cb=" + new Date().getTime() + "'></scri" + "pt>");
-</script><script type="text/javascript" src="http://www.epicgameads.com/ads/bannerjs.php?id=yeA5z58737&amp;channel=11&amp;t=ss&amp;sitewidth=1105&amp;offsettop=55&amp;offsetleft=0&amp;offsetright=0&amp;fixedposition=0&amp;hideleft=0&amp;hideright=0&amp;cb=1580520401258"></script>
+</script><script type="text/javascript" src="http://www.epicgameads.com/ads/bannerjs.php?id=yeA5z58737&amp;channel=11&amp;t=ss&amp;sitewidth=1056&amp;offsettop=165&amp;offsetleft=0&amp;offsetright=0&amp;fixedposition=0&amp;hideleft=0&amp;hideright=0&amp;cb=1580520402336"></script>
     </div>
-<!-- End Epic Site Skin Ads -->
-<div class="clear"></div>
-<footer id="footer">
-    <a href="#">© 2014 Toon10 All Rights Reserved.</a>
-    <div id="tzine-actions"><a href="http://www.toon10.com/page/about-us/">About Us</a> - <a href="http://www.toon10.com/page/terms-and-conditions/">Terms &amp; Conditions</a> - <a href="http://www.toon10.com/page/privacy-policy/">Privacy Policy</a> - <a href="http://www.toon10.com/page/contact-us/">Contact Us</a> - <a href="http://www.toon10.com/download.php/">Download Games</a>
-    </div>
-    <span class="close" onclick="clos();"></span>
-</footer>        </div>
-       
-        <script type="text/javascript">
-            
-            $(document).ready(function() {
-                // jBar Script by Todd Motto
-                $('.downbar').delay(1000).fadeIn(400).addClass('up');
-                $('.jquery-bar').hide().delay(2500).slideDown(400);
-                
-                $('.jquery-arrow').click(function() {
-                    $('.downbar').toggleClass('up', 400);
-                    $('.jquery-bar').slideToggle();
-                });
-            });
-            //$.noConflict();
-        </script>
-        <script type="text/javascript">
-            function clos() {
-                document.getElementById("footer").style.display = "none";
-            }
-        </script>
-        <script type="text/javascript">
-            function logojump() {
-                var logoMoved = false;
-                var _k = 0;
-                $("#logo").on("mouseenter", function() {
-                    var tmp = [{
-                            left : 10,
-                            top : 10
-                        }, {
-                            left : 10,
-                            top : $("#bodycontainer").height() - 300
-                        }, {
-                            left : $("#bodycontainer").width() - 300,
-                            top : $("#bodycontainer").height() - 300
-                        }, {
-                            left : $("#bodycontainer").width() / 2,
-                            top : $("#bodycontainer").height() / 2
-                        }, {
-                            left : $("#bodycontainer").width() - 300,
-                            top : 20
-                        }];
-                    if (logoMoved)
-                        return;
-                    logoMoved = true;
-                    var rNumber = function() {
-                        return Math.floor(Math.random() * tmp.length);
-                    }
-                    var _n = rNumber();
-                    while (_k == _n) {
-                        _n = rNumber();
-                    }
-                    _k = _n;
-                    console.log(_k);
-                    $(this).animate({
-                        left : tmp[_k].left,
-                        top : tmp[_k].top
-                    }, 400, function() {
-                        logoMoved = false;
-                    });
-                });
-            }
-        </script>
-        <script type="text/javascript">
-			function DropDown(el) {
-				this.dd = el;
-				this.placeholder = this.dd.children('span');
-				this.opts = this.dd.find('ul.dropdown > li');
-				this.initEvents();
-			}
-			DropDown.prototype = {
-				initEvents : function() {
-					var obj = this;
-					obj.dd.on('click', function(event) {
-						$(this).toggleClass('active');
-						//return false;
-					});
-				},
-			}
-			$(function() {
-				var dd = new DropDown($('#dd'));
-				$(document).click(function() {
-					// all dropdowns
-					$('.wrapper-dropdown-3');
-				});
-			});
-		</script>
-        		<script type="text/javascript">
-			$(function() {// document ready
-				if (!!$('.sticky').offset()) {// make sure ".sticky" element exists
-					var stickyTop = $('.sticky').offset().top;
-					// returns number
-					$(window).scroll(function() {// scroll event
-						var windowTop = $(window).scrollTop();
-						// returns number
-						if (stickyTop < windowTop) {
-							$('.sticky').css({
-								position : 'fixed',
-								top : 0
-							});
-						} else {
-							$('.sticky').css('position', 'static');
-						}
-					});
-				}
-			});
-		</script>
-
+    
+<!-- End Epic Side ADS -->
+<div class="android_popupnew" id="footer">
+<!-- <div class="header"><img src="http://www.toon10.com/images/AG_Img.png"></div> -->
+<div class="android_3">
+    <a href="http://www.startonlinegames.com/game/Tom-Taser" target="_blank"><img src="http://www.toon10.com/images/Tom_Taser_PopUp.gif" alt="Tom Taser"></a>
+</div>
+<span onclick="clos();" class="close"></span>
+</div>
         		
     
 </body></html>
