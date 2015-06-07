@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aragon-advertising.com privacy policy that was archived on 2014-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140821235715id_/http%3A//aragon-advertising.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aragon-advertising.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607223145id_/http%3A//aragon-advertising.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Aragon Advertising
 
@@ -43,7 +43,7 @@ We reserve the right to disclose your personally identifiable information as req
 If you have any questions or concerns regarding this privacy policy, or you wish to contact us by phone or postal mail, our contact information is as follows:  
 [support@aragon-advertising.com](mailto:support@aragon-advertising.com)
 
-116 W 23rd St.  
-Suite 500  
-New York, NY, 10011  
-This privacy policy was last updated on May 9th, 2014.
+1115 Broadway  
+10th Floor  
+New York, NY, 10010  
+This privacy policy was last updated on Dec 11th, 2014.
