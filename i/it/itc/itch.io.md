@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itch.io privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231182212id_/http%3A//itch.io/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itch.io privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144531id_/http%3A//itch.io/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - itch.io
 
