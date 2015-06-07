@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nigerianfinder.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123022856id_/http%3A//nigerianfinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigerianfinder.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608005923id_/http%3A//nigerianfinder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nigerian Finder
 
@@ -76,4 +76,4 @@ basicfreelance@gmail.com
 
 This document was last updated on December 31, 2013
 
-[](http://nigerianfinder.com/how-to-get-your-dream-job-in-nigeria-ebook/)
+#### Follow Us on Facebook & Twitter
