@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cholainsurance.com privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924135215id_/http%3A//www.cholainsurance.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cholainsurance.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607213107id_/http%3A//www.cholainsurance.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Cholamandalam MS General Insurance Company Limited
 
