@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retirementhomes.com privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924061228id_/http%3A//www.retirementhomes.com/homes/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retirementhomes.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022111id_/http%3A//www.retirementhomes.com/homes/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Retirement Homes, Retirement Communities & Senior Housing - RetirementHomes.com
 
