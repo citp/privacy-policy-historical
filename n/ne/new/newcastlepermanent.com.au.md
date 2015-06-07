@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newcastlepermanent.com.au privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122022741id_/http%3A//www.newcastlepermanent.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newcastlepermanent.com.au privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607135217id_/http%3A//www.newcastlepermanent.com.au/privacy) for the most accurate reproduction.*
 
 # Newcastle Permanent - Privacy Policy
 
@@ -201,10 +201,11 @@ You can raise your concerns or complaint through any of our branches, by contact
 
 If you are dissatisfied with the response of our complaints officer you may make a complaint to the Privacy Commissioner who can be contacted at [www.oaic.gov.au ](http://www.oaic.gov.au/)or by phoning 1300 363 992. Alternately, you can contact our External Dispute Resolution Scheme at:
 
-Credit Ombudsman Service Limited  
-PO Box A252, South Sydney NSW 1235   
-Telephone: 1800 138 422   
-[www.cosl.com.au](http://www.cosl.com.au/)
+Credit and Investments Ombudsman Ltd  
+PO Box A252  
+South Sydney NSW 1235   
+Complaints: 1800 138 422   
+[www.cio.org.au](http://www.cio.org.au/)
 
 ## 4\. Changes to this Privacy Policy
 
