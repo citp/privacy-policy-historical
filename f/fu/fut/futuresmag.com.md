@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the futuresmag.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009110851id_/http%3A//www.futuresmag.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futuresmag.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608002419id_/http%3A//www.futuresmag.com/page/privacy-policy) for the most accurate reproduction.*
 
-# FuturesMag
+# Privacy Policy | Futures Magazine
 
 This privacy statement explains the procedures followed by The Alpha Pages LLC and all its products in collecting and using information regarding visitors to this Web site and advises you what information might be shared with third parties. The type of information collected will vary depending upon the portions of the site which you visit and, in certain instances, which you voluntarily disclose.
 
@@ -24,7 +24,7 @@ the operating system of the computer running the Web browser.
 
 In addition to using this information to send the requested site pages to your computer, we use this information (i) to monitor the performance of our Web server and diagnose system problems and to otherwise administer our system and (ii) to provide collective demographic and user profile data on visitors to our site.
 
-Any usage of on-line chat or newsgroup sessions is considered a public usage and you assume responsibility for any information or content which you submit. 
+Any usage of on-line chat or newsgroup sessions is considered a public usage and you assume responsibility for any information or content which you submit.
 
 ### Users Who Register
 
@@ -91,7 +91,7 @@ The Alpha Pages is committed to taking commercially reasonable steps to protect 
 If you have any questions about the accuracy of information on The Alpha Pages's system or need to modify any information previously provided, you may contact us to confirm or correct any individual identifying information as follows:
 
 By e-mail: [info@futuresmag.com](mailto:info@futuresmag.com)  
-By regular mail:   
+By regular mail:  
 The Alpha Pages, LLC  
 217 N. Jefferson Street  
 Suite 601  
