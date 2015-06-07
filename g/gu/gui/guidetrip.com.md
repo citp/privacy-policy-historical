@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guidetrip.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205172456id_/http%3A//www.guidetrip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidetrip.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607134924id_/http%3A//www.guidetrip.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GuideTrip
 
@@ -10,7 +10,7 @@ GuideTrip will always maintain your privacy. GuideTrip gathers certain types of 
 
 Back to top
 
-2\. Information used for statistical and related purposes 
+2\. Information used for statistical and related purposes' 
 
 When you use the Site, we collect certain data (including your IP address, browser type and operating system, the number of sites you visit, the duration of your visits, if you are a returning visitor or not, from where you came to the Site, and other similar information). We use this information for statistical purposes, to improve your experience on the Site, to make it easier to use, to better tailor it to your interests and needs, or to speed up your future activities and experience on the Site. We use this information anonymously and in the aggregate. If you transfer additional information to us, for example when you carry out booking queries or fill data into forms, we may evaluate such information anonymously and in the aggregate for statistical purposes, even without prior registration and even if no booking takes place. 
 
@@ -18,13 +18,13 @@ Back to top
 
 3\. Personal Information 
 
-Personal information is collected when you voluntarily purchase GuideTrip's services or register as a traveler. Personal information may include e-mail address, passwords, telephone numbers, address and other information & data needed to provide our services to you. We only require minimum personal information and use this information only to provide our services as requested by you. All information submitted to us is restricted in our offices. Employees who need the information for safety purpose are granted access to personal information, including, but not limited to messages, experiences and other information. We DO NOT transfer your Personal Information to GuideTrip's third-party service providers. We DO NOT share, sell or distribute your Personal Information with unrelated third parties, except under these limited circumstances: 
+Personal information is collected when you voluntarily purchase GuideTrip's services or register as a traveler. Personal information may include e-mail address, passwords, telephone numbers, address and other information & data needed to provide our services to you. We only require minimum personal information and use this information only to provide our services as requested by you.' All information submitted to us is restricted in our offices. Employees who need the information for safety purpose are granted access to personal information, including, but not limited to messages, experiences and other information. We DO NOT transfer your Personal Information to GuideTrip's third-party service providers. We DO NOT share, sell or distribute your Personal Information with unrelated third parties, except under these limited circumstances: 
 
 Back to top
 
 4.Internal Messages Through GuideTrip's System 
 
-GuideTrip's provides a method for communicating with Local Experts on our system. We monitor all messages with the intention of ensuring that your Local Expert is helping you and to ensure compliance with the Terms of Use of GuideTrip. 
+GuideTrip provides a method for communicating with Local Experts on our system. We monitor all messages with the intention of ensuring that your Local Expert is helping you and to ensure compliance with the Terms of Use of GuideTrip. 
 
 Back to top
 
