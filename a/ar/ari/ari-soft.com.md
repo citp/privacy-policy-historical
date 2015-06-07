@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the ari-soft.com privacy policy that was archived on 2014-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140911173640id_/http%3A//www.ari-soft.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ari-soft.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607124211id_/http%3A//www.ari-soft.com/privacy_policy.html) for the most accurate reproduction.*
 
 # ARI Soft - Privacy Policy
 
 You currently have **0 items** in your cart.
 
-  * 05/09/2014 "Back to school" promotion
+  * 15/04/2015 "ARI Quiz" v. 3.7.4
 
-Don't miss the change to get the popular Joomla! educational extension [ARI Quiz](http://www.ari-soft.com/Joomla-Components/ARI-Quiz/Detailed-product-flyer.html) at lower price than ever before. Use **BACKTOSCHOOL** coupon code to get 33% discount for the extension.
+New version supports ability to share quiz results via popular social networks (Facebook, Google+, Twitter).
 
-  * 29/08/2014 "ARI Smart Content" v. 2.0.0
+  * 11/02/2015 Valentine SALE
 
-Popular Joomla! extension [ARI Smart Content](http://www.ari-soft.com/Joomla-Components/ARI-Smart-Content/Detailed-product-flyer.html) has been upgraded to version 2.0. It was totally re-worked and has become more powerful and user-friendly.
+We want to thank our customers for their LOVE to our extensions and present 20% discount till 15 February. Use **SV2015** coupon code
 
 
   
