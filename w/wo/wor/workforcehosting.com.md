@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workforcehosting.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127150120id_/http%3A//www.workforcesoftware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workforcehosting.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607040714id_/http%3A//www.workforcesoftware.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WorkForce Software
 
@@ -50,9 +50,9 @@ Cookies are collected on this site via the marketing automation system [Marketo]
 
 A description of each of these cookies and how to opt out of these cookies is below.
 
-  * ”Performance
-  * ”Functionality
-  * ”Analytics
+  * Performance cookies
+  * Functionality cookies
+  * Analytics and Retargeting cookies
 
 
 
