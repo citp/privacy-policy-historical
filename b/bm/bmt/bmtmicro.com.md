@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmtmicro.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121021021id_/http%3A//www.bmtmicro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmtmicro.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607184558id_/http%3A//www.bmtmicro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
@@ -37,5 +37,3 @@ BMT Micro is reviewed quarterly by Security Metrics to ensure that high security
 What about cookies?
 
 “Cookies” are small pieces of information that are stored by your browser on your computer’s hard drive. BMT Micro, Inc.’s cookies are used only to aid in purchasing and do not store any specific customer traits. These cookies do not store sensitive data. Cookies are P3P enabled to ensure security.
-
- 
