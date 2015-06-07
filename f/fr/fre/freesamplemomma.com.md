@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freesamplemomma.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120045121id_/http%3A//www.freesamplemomma.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesamplemomma.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608003539id_/http%3A//www.freesamplemomma.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Free Sample Momma
+# Privacy Policy Free Sample Momma
 
   **Privacy Policy for Free Sample Momma**
 
@@ -42,4 +42,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 For any other information email [webmaster](mailto:momma@freesamplemomma.com)
 
-[](http://www.hupso.com/share/)
+It's only fair to share...
