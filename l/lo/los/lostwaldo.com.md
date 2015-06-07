@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lostwaldo.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219235123id_/http%3A//lostwaldo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lostwaldo.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607071944id_/http%3A//lostwaldo.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - Lost Waldo
 
 Distinct Online Investments LTD (“DOI LTD”), has created this privacy statement to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for DOI LTD.
 
