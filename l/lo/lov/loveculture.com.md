@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the loveculture.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217002159id_/http%3A//loveculture.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveculture.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607172612id_/http%3A//loveculture.com/privacy-policy.html) for the most accurate reproduction.*
 
 # eCommerce Solutions On-Demand | Demandware Privacy Policy
 
-Love Culture Inc. (“Love Culture”) values our customers and respects your privacy. We collect information about you in our stores and through our Website in an effort to improve your shopping experience and to communicate with you about our products, services, contests, and promotions. As described in this policy, we may share your information among our brands, as may be applicable, and, under certain circumstances, with third parties that provide services on our behalf or with whom we have partnered to offer a particular product or service. We may also share your information when we are legally required to do so.
+Softree, Inc. (“Love Culture”) values our customers and respects your privacy. We collect information about you in our stores and through our Website in an effort to improve your shopping experience and to communicate with you about our products, services, contests, and promotions. As described in this policy, we may share your information among our brands, as may be applicable, and, under certain circumstances, with third parties that provide services on our behalf or with whom we have partnered to offer a particular product or service. We may also share your information when we are legally required to do so.
 
 This privacy policy describes the personal information we collect about you, why we collect it, how we use and protect it, and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. By providing your personal information to Love Culture, you are consenting to the manner in which we collect, use, disclose, protect, and otherwise manage that information. If our information practices change, we will post an updated version of the policy on our Website. You can tell if the policy has changed by checking the revision date that appears above the date on which the new policy becomes effective. The new policy will apply to all current and past users of our website and will replace any prior policies that are inconsistent. Your continued use of our Website constitutes your consent to be bound by the revised policy. You may exercise your choices about how we collect and use your information consistent with this policy at any time.
 
@@ -104,8 +104,8 @@ For your convenience and information, our Website may contain links to other sit
 For questions about our privacy policy, to make choices about receiving promotional communications, or to update your personal information, you can contact Love Culture by email, telephone, or postal mail:
 
 Love Culture Customer Service  
-2423 E. 23rd Street  
-Los Angeles, CA 90058  
+3232 E Washington Blvd  
+Vernon, CA 90058  
 support@loveculture.com  
 888-764-0314  
  
@@ -133,5 +133,4 @@ When you view our Website, we may store some information on your computer's hard
 
 This Website makes every effort to protect your online order information by using Secure Sockets Layer (SSL) technology. SSL encrypts your order information to ensure it remains private and secure. To check the security of your connection, check by looking at the URL line of your browser. When accessing a secure server, the first characters of the Website will change from "http" to "https". You may also see a closed lock or unbroken key image. This also indicates that your session on our website is secure using SSL.
 
-Some browsers and firewalls do not permit communication through secure servers. In that case, you will be unable to connect to our server so you will not have to worry about mistakenly placing an order through an unsecured connection.  
- 
+Some browsers and firewalls do not permit communication through secure servers. In that case, you will be unable to connect to our server so you will not have to worry about mistakenly placing an order through an unsecured connection.
