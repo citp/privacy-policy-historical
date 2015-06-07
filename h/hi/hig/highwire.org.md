@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highwire.org privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117154512id_/http%3A//home.highwire.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highwire.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145740id_/http%3A//home.highwire.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HighWire
 
@@ -6,7 +6,7 @@
 
 HighWire Press  is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, you can be assured that it will only be used in accordance with this privacy statement. This Privacy Policy provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you. We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from May 23, 2012.
 
-HighWire Press complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  HighWire Press has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view [Your organization’s name]’s certification, please visit <http://www.export.gov/safeharbor/>
+HighWire Press complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  HighWire Press has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view HighWire’s certification, please visit <http://www.export.gov/safeharbor/>
 
 **Information We Collect**
 
