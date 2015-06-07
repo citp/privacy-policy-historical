@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovehoney.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227113642id_/http%3A//www.lovehoney.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovehoney.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152238id_/http%3A//www.lovehoney.com/help/privacy) for the most accurate reproduction.*
 
 # What is your privacy policy?
 
@@ -23,6 +23,8 @@ No personally identifiable information is stored in these cookies.
 For the full technical explanation, read more about [cookies used on our site](http://www.lovehoney.co.uk/help/cookies/).
 
 If you wish to remove these cookies, you can do so by following [these instructions](http://www.aboutcookies.org/Default.aspx?page=2).
+
+We hate junk mail too!
 
 We will email you to process your order and afterwards to introduce you to the benefits of our loyalty programme. Only Lovehoney will use your email address. We will never pass on your email address or personal information to a third party.
 
