@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the voicebunny.com privacy policy that was archived on 2014-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140805184339id_/http%3A//voicebunny.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voicebunny.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144455id_/http%3A//voicebunny.com/pages/privacy) for the most accurate reproduction.*
 
 # Bunny Inc privacy policy | VoiceBunny by Bunny Inc.
+
+This browser is no longer supported by Mr. Bunny. Please upgrade or get [Chrome](http://www.google.com/chrome/) or [Firefox](http://www.mozilla.org/en-US/firefox/new/). 
 
 Last updated: Oct 16, 2012
 
@@ -66,7 +68,7 @@ If your name, e-mail or postal address, telephone number or other Personal Infor
 
   8. **Contact Information.**
 
-If you have any questions or concerns about this Privacy Policy, please e-mail us at [support@voicebunny.com](mailto:support@voicebunny.com), send a letter to: **6 Mint Plaza Suite 602. San Francisco, CA. 94103, USA** or call us at **+1 (415) 749-9221**.
+If you have any questions or concerns about this Privacy Policy, please e-mail us at [support@voicebunny.com](mailto:support@voicebunny.com), send a letter to: **1355 Market St. Suite #488, San Francisco, CA. 94103, USA** or call us at **+1 (415) 749-9221**.
 
   9. **Your California Privacy Rights.**
 
