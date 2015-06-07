@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getgamesgo.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014140531id_/http%3A//www.getgamesgo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getgamesgo.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145439id_/http%3A//www.getgamesgo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Get Games - official online digital download retailer
 
@@ -38,10 +38,9 @@ If you have any questions regarding our privacy or security policies, we will be
 
 **Data Protection Officer  
 Get Games  
-c/o 2 Stonehill  
-Stukeley Meadows  
-Huntingdon  
-Cambs  
-PE29 6ED**
+c/o 1st Floor  
+1 Benjamin Street  
+London  
+EC1M 5QG**
 
 Please ensure that you have read and understand our [Terms and Conditions](http://www.getgamesgo.com/terms).
