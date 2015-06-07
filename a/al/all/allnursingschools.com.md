@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allnursingschools.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214030052id_/http%3A//www.allnursingschools.com/nursing-careers/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allnursingschools.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607135521id_/http%3A//www.allnursingschools.com/nursing-careers/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ All Star Directories may share your Contact Information with our service provide
 
 ###  Opt-out 
 
-If you receive communications from us or our partners and would like to opt-out of such communications, or would like to opt-out of having your Contact Information shared with a third party business partner, please send us an email at Unsubscribe@allstardirectories.com. Please note that use of your Contact Information by a school or third party is governed by such school's or third party's privacy policy and you will need to separately opt out from that third party's use of such information.
+Please note that use of your Contact Information by a school or third party is governed by such school's or third party's privacy policy and you will need to separately opt out from that third party's use of such information.
 
 ###  Cookies 
 
@@ -36,11 +36,11 @@ From time to time, All Star Directories may update this Privacy Policy. You agre
 
 Finally, if you provide us with your contact information, All Star Directories reserves the right to contact you in the future to help improve our operations, to introduce new services, or provide our partners with customer insights.
 
-We invite you to contact us if you have questions about our Privacy Policy. You may call us at (888) 404-8043 or contact us by mail at the following address:
+We invite you to contact us if you have questions about our Privacy Policy. You may call us at (206) 436-7500 or contact us by mail at the following address:
 
-All Star Directories, Inc.   
-2200 Alaskan Way   
-Suite 200   
-Seattle, WA 98121
+All Star Directories, Inc.  
+101 Stewart Street  
+Suite 500  
+Seattle, WA 98101
 
-Last Modified: September 3, 2008
+Last Modified: May 28, 2015
