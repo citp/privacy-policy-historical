@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reformjudaism.org privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207225453id_/http%3A//urj.org/about/union/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reformjudaism.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607075419id_/http%3A//urj.org/about/union/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - URJ
 
