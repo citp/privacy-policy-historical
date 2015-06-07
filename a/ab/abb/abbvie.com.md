@@ -1,136 +1,164 @@
-> *The following text is extracted and transformed from the abbvie.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204014345id_/http%3A//www.abbvie.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abbvie.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607151404id_/http%3A//www.abbvie.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | AbbVie
 
-This Privacy Policy explains how we handle the personal information that you provide to us on websites controlled by AbbVie (including its subsidiaries and affiliates) which link to this Privacy Policy (referred to as "AbbVie websites"). This Privacy Policy also describes the collection of certain other types of technical and web browsing information through cookies and similar technologies on AbbVie websites.
+Our AbbVie Online Privacy Policy has changed, effective May 8, 2015. Because we care about your privacy, please take the time to read our updated policy. Your continued use of the site means you consent to our data collection, use, disclosure and storage practices.   
+---  
+  
+We know that you may have concerns about sharing your information with us. AbbVie Inc. (“AbbVie”) is committed to respecting your privacy. This Online Privacy Policy (“Privacy Policy”) will address your concerns about sharing your information with us by explaining how we handle the personal information provided to us on Websites controlled by AbbVie in the United States of America that link to this Privacy Policy (“AbbVie Web sites”).
 
-This Privacy Policy does not apply to personal information collected from you offline, to AbbVie websites that do not link to this Privacy Policy, or to third-party websites to which AbbVie websites may link. Your use of AbbVie websites, which link to this Privacy Policy, is subject to this Privacy Policy and the [Terms of Use](https://web.archive.org/termsofuse.html).
+This Privacy Policy does not apply to personal information collected from you offline, to AbbVie Web sites that do not link to this Privacy Policy, or to third-party Web sites to which AbbVie Web sites may link. Your use of AbbVie Web sites that link to this Privacy Policy is subject to this Privacy Policy and the [Terms of Use](https://web.archive.org/termsofuse.html).
 
-Please read this Privacy Policy before using AbbVie Web sites or submitting personal information to us.
+Please read this Privacy Policy before using AbbVie Web sites or submitting information to us. This Privacy Policy is designed to help you better understand how AbbVie uses and shares your information and protects your privacy when you use AbbVie Web sites.
 
-##### Contents:
+## TYPES OF INFORMATION WE COLLECT ONLINE
 
-##### Types of Information Collected
+The types of personal information that we may collect while you use the AbbVie Web sites are described in this section. Only some of these categories of information identify you directly, but each category offers some information about your interests and activities that could be used to make inferences about you.  
 
-##### Collection of Personal Information
 
-##### Use of Cookies and Other Tracking Technologies
+##### Information You Voluntarily Provide
 
-##### Contact Information and Policy Updates
+Some of the information that we may obtain will only be collected if you voluntarily provide it to us, such as information provided during registration for a product or service, in response to questionnaires, or during other interactions with us.  
 
-## TYPES OF INFORMATION COLLECTED
 
-##### How does this Privacy Policy define "personal information"?
+**Personal Identifying Information You Submit During Registration or in Response to Questionnaires**
 
-"Personal information" means information that identifies you or could reasonably be used to identify you, and which is submitted to and/or collected by AbbVie websites and maintained by AbbVie in an accessible form. Examples of personal information include your name, your postal address, your email address, and your telephone number.
+AbbVie collects Personal Identifying Information that you voluntarily provide on AbbVie Web sites, for example, in order to register for AbbVie programs and services, register to receive marketing products and information, contact AbbVie customer service, or respond to AbbVie questionnaires or surveys. “Personal Identifying Information” means information that identifies you or that could reasonably be used to identify you. Examples of Personal Identifying Information include name, address, telephone number, and email address. When this information is combined with any information on health or medical status, we refer to the resulting information as “health-related information.”
 
-##### What types of information does AbbVie collect online?
+If you choose to register for a program or service or to participate in our interactive services such as questionnaires and surveys, you may disclose health-related information as well as personal facts that could be used to identify you. To protect your privacy, you should not provide AbbVie with any information that is not specifically requested.  
 
-  * **Personal Information You Submit:** AbbVie collects personal information that you enter into data fields on AbbVie websites. For example, you may submit your name, postal address, email address, and/or other information in order to receive information about various subjects, register for AbbVie programs, contact AbbVie customer service, or respond to AbbVie surveys. To protect your privacy, you should not provide AbbVie with any information that is not specifically requested.
-  * **Passive Collection of Certain Other Technical and Web Browsing Information:** AbbVie websites may collect information about your visits to AbbVie websites without you actively submitting such information. This information may include, for example, your browser type and language, your operating system, your Internet Protocol (IP) address, the URLs of sites you visited before and after visiting the AbbVie website, the web search that landed you on the AbbVie website, and web pages and advertisements you view, and links you click on within the AbbVie website. This information may be collected using various technologies, such as cookies, Internet tags, and web beacons. Your Internet browser also automatically transmits to AbbVie websites some of this information, such as the URL of the website you just visited and the browser version your computer is operating.
 
+**Personal Identifying Information You Submit During Other Interactions with AbbVie**
 
+You may contact AbbVie to ask questions, discuss your concerns, or report problems regarding our products. If you communicate with or request information from AbbVie personnel, they will have your email address as well as whatever health-related and/or personal facts that you choose to include in your communication.
 
-## Collection of Personal Information
+If you are reporting a product experience, we may ask you for specific facts, including patient initials, age, gender, and prescribing physician. US regulations require us to collect this information in order to file reports with the US Food and Drug Administration regarding the safety of our products.  
 
-##### Does AbbVie collect "sensitive" Personal Information?
 
-AbbVie collects via some AbbVie websites personal information, such as health related information, that may be designated as "sensitive" under data privacy laws in some jurisdiction only where you consent to this. AbbVie shall adopt additional measures as required by local law for the processing of such information. In addition, individual AbbVie subsidiaries or affiliates may adopt measures to address local custom or social expectation about such information. By providing us with sensitive personal information, you consent to AbbVie collecting, transferring, storing, and processing it.
+##### Information That May Be Collected by AbbVie Site Technology  
 
-##### How does AbbVie use personal information that I have provided?
 
-AbbVie will use the personal information you provide through AbbVie websites to respond to your questions and to provide you with efficient customer service. We may also use this personal information for other business purposes, such as to offer you the opportunity to receive notices regarding AbbVie's products or services, to invite you to participate in surveys about our products, or to notify you about special promotions.
+Other types of personal information will be automatically collected by us through our Web site technology.
 
-##### Will AbbVie combine personal information I provide on an AbbVie website with other personal information about me?
+**IP Address**
 
-  * AbbVie may combine the personal information that a customer provides on one AbbVie website with the personal information provided by that customer on other AbbVie websites.
-  * AbbVie may combine personal information that you provide to us online with our offline records.
-  * AbbVie may combine personal information that you have provided to us directly with records provided by third parties.
+We may record the Internet Protocol (“IP”) address of your computer when you visit our site. An IP address identifies your computer, which allows us to maintain communication with your computer as you move about AbbVie Web sites.
 
+**Cookies and Other Tracking Technologies**
 
+We also collect nonidentifying information about your use of AbbVie Web sites through technology such as cookies and Web beacons. A “cookie” is a unique numeric code that is transferred to your computer to track your interests and preferences and to recognize you as a return visitor. A “Web beacon” is a transparent graphic image placed on a Web site that enables the monitoring of things such as user activity and site traffic. These technologies help remember your preferences on a site and allow us to bring you the content and features that are likely to be of greatest interest to you, on the basis of your previous activities on our Web sites. They also allow us to collect “clickstream” data, which is not Personal Identifying Information, but which reflects activities on AbbVie Web sites, including your interest in certain healthcare conditions or AbbVie services or products. To learn more about cookies and other tracking technologies, please visit http://www.allaboutcookies.org/.  
 
-We use this consolidated information to help us better design AbbVie websites and AbbVie products, to communicate information to you, to enhance our marketing and research activities, and to facilitate other business functions.
 
-##### What choices do I have about how AbbVie collects and uses personal information about me?
+## HOW WE USE YOUR INFORMATION  
 
-You may always limit the amount and type of personal information that AbbVie receives about you by choosing not to enter any personal information into forms or data fields on AbbVie websites. Some of our online services can only be provided to you if you provide us with appropriate personal information. Other parts of AbbVie websites may ask whether you wish to opt into or opt out of our contact lists for offers, promotions and additional services that may be of interest to you.
 
-##### Does AbbVie share personal information with third parties?
+We may combine information about you from a visit to one AbbVie Web site with information about you from visits to other AbbVie Web sites. We may also combine information about you that is collected online with information that we have collected offline, as well as with information provided to us by third parties. We may use this information for the following purposes.  
 
-AbbVie will not sell or license your personal information to third parties except in connection with the sale or transfer of a product line or division, or in connection with a joint marketing program.
 
-AbbVie may share your personal information with third parties with whom AbbVie is jointly marketing a product or service or jointly conducting a program or activity. It is AbbVie's practice to notify you if you are registering for a program which is conducted in conjunction with another company that may require access to your personal information. AbbVie may also share your personal information with vendors with whom AbbVie contracts to carry out business activities for AbbVie. If AbbVie provides your personal information to vendors to assist us with our business activities, it is AbbVie's practice to require those vendors to keep your personal information confidential and to use your personal information only to perform functions for AbbVie. Additionally, AbbVie may share your personal information with a third party in connection with the sale or transfer of one of its product lines or divisions so that the buyer can continue to provide you with information and services.
+**Marketing, Programs, and Services**
 
-AbbVie reserves the right to disclose your personal information to respond to authorized information requests from government authorities, to address national security situations, or when otherwise required by law.
+You do not have to register for a service or a program to use most of the information available on AbbVie Web sites. If you choose to register, we may use the Personal Identifying Information that you provide through AbbVie Web sites to respond to your questions and to provide you with efficient customer service. We may also use your Personal Identifying Information for other business purposes, such as to offer you the opportunity to receive notices regarding AbbVie’s products or services, to invite you to participate in surveys about our products, or to notify you about special promotions.
 
-##### Who within AbbVie will have access to personal information about me?
+**Customized User Experiences**
 
-Personal information can be accessed by a restricted number of AbbVie employees. We train our employees about the importance of privacy and how to handle and manage customer data appropriately and securely.
+The Personal Identifying Information that you provide may be used to create customized offers, information, or services tailored to your interests and preferences. Also, we may use your IP address and the nonidentifying data that we obtain through the use of cookies to make our sites easier to use and navigate as well as to personalize the content provided on AbbVie Web sites by anticipating the information and services that may be of interest to you.
 
-##### How does AbbVie secure personal information?
+**Product Improvement**  
 
-It is AbbVie's practice to secure each web page that collects personal information; however, the confidentiality of personal information transmitted over the Internet cannot be guaranteed. We urge you to exercise caution when transmitting personal information over the Internet, especially personal information related to your health. AbbVie cannot guarantee that unauthorized third parties will not gain access to your personal information; therefore, when submitting personal information to AbbVie websites, you must weigh both the benefits and the risks.
 
-In addition, AbbVie websites covered by this Privacy Policy will display a warning whenever you link to a website that is not controlled by AbbVie or subject to an AbbVie Privacy Policy; you should check the privacy policies of such third-party websites before submitting personal information.
+If you choose to participate in our interactive services such as questionnaires or surveys or to register for an AbbVie program or service, we will collect the information that you disclose and analyze the data to discover new facts that could help us better understand our products. We may use this information for our internal business purposes, such as research to improve our products and analyses that may help us better market our products.
 
-##### Does AbbVie transfer personal information to different jurisdictions?
+**Service and Web Site Improvement**
 
-AbbVie stores data on secured servers in several countries around the world. Please be aware that information you provide to us or we obtain as a result of your use of the AbbVie websites may be processed and transferred to countries other than the country in which you are resident, including the United States. The privacy and data protection laws in such countries may not be equivalent to the laws in your country of residence. By using and participating in any AbbVie websites or providing us with your information, you consent to this collection, transfer, storage, and processing of information to and in such countries.
+We may use the information about your use of the services and activities on AbbVie Web sites to monitor user traffic patterns and to try to analyze what our users prefer, so that we can design better services. We may analyze the information that is collected with cookie and other tracking technology to help us improve the function of AbbVie Web sites and to modify the services and information that we provide.  
 
-##### How does AbbVie protect the privacy of children?
 
-AbbVie does not knowingly collect or use any personal information from children (we define "children" as minors younger than 13) on AbbVie websites. We do not knowingly allow children to order our products, communicate with us, or use any of our online services. If you are a parent and become aware that your child has provided us with information, please contact us using one of the methods specified below, and we will work with you to address this issue.
+## HOW WE SHARE YOUR INFORMATION WITH THIRD PARTIES
 
-##### How may I correct personal information or delete it from current customer records?
+We may use third parties to provide services and information on our sites and to assist with online marketing and advertising, and we may provide some cobranded services in partnership with others. We also may use third parties to analyze data collected on AbbVie Web sites. If we allow a third party to have access to your Personal Identifying Information, we will not authorize them to use it for any purpose that is not consistent with this Privacy Policy. Additionally, AbbVie may share your Personal Identifying Information with a third party in connection with the sale or transfer of one of its product lines or divisions, so that the buyer can continue to provide you with information and services. Except as otherwise explained in this Privacy Policy, we will not sell or disclose any Personal Identifying Information that you provide on AbbVie Web sites to an unrelated third party without your express permission.  
 
-In accordance with local legal law, you may request that we remove your personal information from our current customer records or that we amend your personal information. Please notify us of your wishes by contacting us in one of the ways specified below. For our record keeping purposes, we will retain certain personal information you submit in conjunction with commercial transactions.
 
-## Use of Cookies and Other Tracking Technologies
+_Third-Party Web Site Advertising and Online Behavioral Advertising; Ad Choices Opt-Out_
 
-##### Why do AbbVie websites use "cookies" and other tracking technologies?
+You may be provided with online advertisements on third-party Web sites that are tailored to you, for example, on the basis of information that is provided by you but that does not identify you (nonidentifying information),or of your Web browsing activity, purchases, or interests. These types of tailored online advertisements may come through several sources, such as the following:
 
-A "cookie" is a file that our webserver may send to your computer when you access an AbbVie website. This file is then stored on your computer. After you have entered personal information into a form or data field on an AbbVie website, AbbVie may use cookies and certain other technologies to allow that website to "remember" your personal preferences, such as sections of that website that you visit frequently and, if you choose, your user ID.
+  * We may share with our advertising companies your nonidentifying information, including nonidentifying personal information and other data that we have obtained from cookies and other tracking technologies.
+  * We may use online behavioral advertising practices (this is also sometimes called retarget advertising or interest-based advertising). Our advertising network partners may place and use cookies on AbbVie Web sites and on other third-party Web sites to collect information about your activities in order to provide you with online advertisements that are based on your interests.
 
-Passive information collection technologies can make your use of AbbVie websites easier by allowing AbbVie to provide better service, customize sites based on consumer preferences, compile statistics, analyze trends, and otherwise administer and improve AbbVie websites. Certain features of AbbVie websites may not work without use of passive information collection technologies.
 
-You can also learn more about cookies by visiting www.allaboutcookies.org.
 
-##### What types of cookies and other tracking technologies do AbbVie websites use?  
+  
+When an AbbVie online behavioral advertisement is delivered to you, you will see an “Ad Choices” icon. Clicking on the icon will take you to a Web site where you can manage or opt out of the use of data about your browsing history that is used for the delivery of online behavioral advertisements. If you opt out, you may still see advertisements online, including advertisements from AbbVie that are based on other information (e.g., based on the content of the page being viewed). In some cases, data may still be collected about your browsing activity by these third-party advertisers, but they will not use this data to deliver advertisements that are based on your past online browsing behavior. 
 
+**Vendors and Suppliers**
 
-  * **AbbVie websites use "session" cookies:** Session cookies are temporary bits of information that are erased once you exit your web browser window or otherwise turn your computer off. Session cookies are used, for example, to improve navigation on our websites, block visitors from providing information where inappropriate (the site "remembers" previous entries of age or country of origin that were outside the specified parameters and blocks subsequent changes), and to collect aggregated statistical information.
-  * **AbbVie websites may use "persistent" cookies:** Persistent cookies are more permanent bits of information that are placed on the hard drive of your computer and stay there unless you delete the cookie. Persistent cookies store information on your computer for a number of purposes, such as retrieving certain information you have previously provided (e.g., passwords), helping to determine what areas of the web site visitors find most valuable, and customizing the web site based on your preferences on an ongoing basis. Persistent cookies placed by this site on your computer may hold personally identifiable information, but only if you have registered or have otherwise consented to the retention of personally identifiable information you have provided at the site. Otherwise, our site's server only knows that an unidentified visitor with your cookies has returned to the site.
-  * **AbbVie websites may use "web beacons" (also known as internet tags, single-pixel GIFs, clear GIFs, and invisible GIFs):** A web beacon is a tiny graphic on a web page or in an email message that is used to track pages viewed or messages opened. Web beacons tell the website server information such as the IP address and browser type related to the visitor's computer. Web beacons may be placed on online advertisements that bring people to our site and on different pages of our site. Web beacons provide us with information on how many times a page is opened and which information is consulted.
+We have relationships with various vendors and suppliers who help us operate our business. We will not authorize our vendors and suppliers to use your information for any purpose that is not related to AbbVie’s business operation.
 
+**Co-branded Sites**
 
+We may partner with other companies to provide you with content or services on a joint or “co-branded” basis. At a co branded site, you will see both the AbbVie logo and the logo of the co-branding partner displayed on your screen. To access the services available on a co-branded site, you may have to complete a new online registration form, and this registration information may be shared with AbbVie’s co-branding partners. You should read the individual privacy policies of our co-branding partners, as they may differ in some respects from ours. Reading these policies will help you to make an informed decision about whether to provide your information to a given site. 
 
-##### What choices do I have about AbbVie's use of cookies and other tracking technologies?
+**Social Media Plug-ins**
 
-You can choose to enable or disable the use of cookies and other tracking technologies on AbbVie websites. Exactly how these choices are presented to you and the process for making such choices may vary by website.
+AbbVie Web sites may use social media plug-ins (e.g., the Facebook “Like” button, “Share to Twitter” button) to enable you to easily share information with others. When you visit our Web site, the operator of the social plug-in can place a cookie on your computer that enables that operator to recognize individuals who have previously visited our site. If you are logged into the social media Web site (e.g., Facebook, Twitter) while browsing on our Web site, the social media plug-in allows that social media Web site to receive information that you have visited our Web site. The social media plug-in also allows the social media Web site to share information about your activities on our Web site with other users of their social media Web site.  
 
-On some AbbVie websites, you may be asked to explicitly consent to the use of cookies and/or other tracking technologies on that web site. Cookies that are necessary to the operation of the site and to the provision of the services you have requested will continue to function regardless of whether you have provided consent. Other types of cookies and tracking technologies will be turned off until you provide explicit consent. As a result, the functionality of the site may be reduced until you choose to provide explicit consent.
 
-On some AbbVie websites, you may be provided with preference questions or boxes allowing you to indicate that you do not want that website to use cookies or other tracking technologies that are not necessary to the operation of the site. If you choose to exercise this opt-out option, the functionality of the site may be reduced as a result.
+_Product Reports_
 
-Some Internet browsers allow you to limit or disable the use of cookies and other tracking technologies. Please refer to the information provided by your Internet browser for instructions on how to do so (generally found under a "Help" menu).
+If you contact AbbVie regarding your experience in using one of our products, we may use the information that you provide in submitting reports to the US Food and Drug Administration and as otherwise required of us by law. We also may use the information to contact the prescribing physician to follow up regarding an unexpected event involving the use of our product.
 
-## Contact Information and Policy Updates
+**Law Enforcement**
 
-##### How can I contact AbbVie?
+In certain limited circumstances, AbbVie may be called upon to release your Personal Identifying Information in response to a court order, subpoena, search warrant, law, or regulation. We plan to cooperate in responding to such requests while taking appropriate measures to ensure that the requester understands the sensitive nature of the health-related personal information that they may receive. We also reserve the right to cooperate with law enforcement authorities in investigating and prosecuting users who violate our rules or who engage in behavior that is illegal or harmful to others or to others’ property.  
 
-If you have questions about the use, amendment, or deletion of personal information that you have provided to us, or if you would like to opt out of future communications from an AbbVie business or a particular AbbVie program, please contact us by clicking on the "Contact Us" link on the website you are visiting or by emailing us at [webmaster@abbvie.com](mailto:webmaster@AbbVie.com). Alternatively, you may send a letter to the following address:
 
-AbbVie  
-Attention: Public Affairs  
-1 N Waukegan Rd  
-North Chicago IL 60064  
-United States
+## PRIVACY OF CHILDREN
 
-In all communications to AbbVie, please include the email address used for registration (if applicable), the website address or the specific AbbVie program to which you provided personal information (e.g. AbbVie.com, etc.), and a detailed explanation of your request. If you would like to delete, amend or correct your personal information and are contacting us by email, please put "Deletion Request" or "Amendment/Correction Request," as applicable in the subject line of the email. We will do our best to respond to all reasonable requests in a timely manner.
+AbbVie does not knowingly collect or use any personal information from children (we define “children” as minors younger than 13) on AbbVie Web sites. We do not knowingly allow children to order our products, to communicate with us, or to use any of our online services. If you are a parent and become aware that your child has provided us with information, please contact us using one of the methods specified below, and we will work with you to address this issue.  
 
-##### How will I know whether AbbVie has updated this policy?
 
-Without prejudice to your rights under applicable law, AbbVie reserves the right to amend this Privacy Policy without prior notice to reflect technological advancements, legal and regulatory changes, and good business practices. If AbbVie changes its privacy practices, an updated version of this Privacy Policy will reflect those changes and we will notify you of such changes by updating the effective date at the top of this Privacy Policy.  
- 
+## YOUR PRIVACY CHOICES
 
-* * *
+The section below will provide you with background information and options on how you can control the use of Personal Identifying Information on our Web sites.
+
+_Requesting a Change to How We May Use (or Not Use) Your Personal Identifying Information_
+
+If you have questions about the use, amendment, or deletion of Personal Identifying Information that you have provided to us, or if you would like to opt out of future communications from an AbbVie business or from a particular AbbVie program, please contact us by clicking on the “Contact Us” link on the Web site that you are visiting or by emailing us at [webmaster@abbvie.com](mailto:webmaster@abbvie.com). Alternatively, you may send a letter to the following address:
+
+AbbVie Customer Service  
+Department 36M  
+1 N Waukegan Road  
+North Chicago, IL 60064-6163
+
+In all communications to AbbVie, please include the email address used for registration (if applicable), the Web site address or the specific AbbVie program to which you provided personal information (e.g., AbbVie.com), and a detailed explanation of your request. If you would like to delete, amend, or correct your personal information and are contacting us by email, please put “Deletion Request” or “Amendment/Correction Request” in the subject line of the email. We will respond to all reasonable requests in a timely manner.  
+
+
+_Voluntary Disclosures_
+
+When you access any interactive tool, program, or service on an AbbVie Web site, you will be asked to affirmatively choose to provide the requested information. You may always choose to not provide the requested information.
+
+**Accept Cookies**
+
+Your browser software can be set to reject all cookies, but if you reject our cookies, certain of the functions and conveniences of our site may not work properly. Cookies and similar technologies are how we ensure that we can promptly retrieve and deliver information to you when you use our site.
+
+**Do-Not-Track Signals and Similar Mechanisms**
+
+Some Web browsers may transmit “do-not-track” signals to Web sites with which the browser communicates. As of the Effective Date of this Privacy Policy, an industry standard has not yet been established on how to respond to these signals. Therefore, AbbVie does not currently respond to these signals.
+
+**Communications with AbbVie by Email**
+
+Consumers and providers may communicate with our staff to learn more about our products and services on AbbVie Web sites. We also offer interactive tools that provide consumers and healthcare professionals with the ability to submit customized email requests for information about diseases and therapies. Please be aware that email transmissions may be vulnerable to unauthorized interception. In addition, we remind you that email sent or received through an employer’s computer or computer system is not confidential and may be the legal property of the employer.  
+
+
+## DATA SECURITY
+
+AbbVie’s practice is to secure each Web page that collects your information. Although we will make reasonable efforts to protect Personal Identifiable Information from loss, misuse, or alteration by third parties, you should be aware that there is always some risk that an unauthorized third party could intercept an Internet transmission, or that someone will find a way to thwart our security systems. We urge you to exercise caution when transmitting personal information over the Internet, especially personal information related to your health. AbbVie cannot guarantee that unauthorized third parties will not gain access to your personal information; therefore, when submitting personal information to AbbVie Web sites, you must weigh both the benefits and the risks.
+
+## CONSENT TO PROCESSING IN THE UNITED STATES AND ELSEWHERE
+
+This site is owned and operated by AbbVie in the United States, but the information you provide will be accessible to our affiliates, vendors, and suppliers in other countries. Furthermore, if you are visiting this site from a country other than the United States, your communication with us will necessarily result in the transfer of information across international boundaries. The level of legal protection for personal information is not the same in all countries; however, we will take the security measures described in this Privacy Policy in an effort to keep your information secure. By using this site, you consent to the collection, storage, and processing of your information in the United States and in any country to which we may transfer your information in the course of our business operations. AbbVie participates in the US Department of Commerce Safe Harbor program. You can find our Safe Harbor Policy Statement here. For more information about the Safe Harbor program, visit www.export.gov/safeharbor.
+
+## CHANGES TO OUR PRIVACY POLICY
+
+We will only use personal information in the manner described in the Privacy Policy in effect when the information was collected from you. However, we reserve the right to change the terms of this Privacy Policy at any time. Any such changes to this Privacy Policy will be promptly reflected on this page. AbbVie encourages you to review this Privacy Policy regularly for any changes. Your continued use of AbbVie Web sites will be subject to the then-current Privacy Policy.  
+
