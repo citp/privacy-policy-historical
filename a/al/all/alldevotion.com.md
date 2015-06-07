@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alldevotion.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630193913id_/http%3A//www.alldevotion.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alldevotion.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074105id_/http%3A//www.alldevotion.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Official Human, LLC
 
