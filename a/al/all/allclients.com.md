@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the allclients.com privacy policy that was archived on 2009-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090508153458id_/http%3A//www.allclients.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allclients.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607184630id_/http%3A//www.allclients.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Privacy Policy 
 
 AllClients.com has a simple privacy policy.
 
@@ -20,4 +18,4 @@ This Privacy Policy is effective as of January 1, 2005. We may change this Priva
 
 **Comments and Questions**
 
-If you have any questions, comments or concerns about our Privacy Policy, you may [click here](mailto:support@allclients.com) to contact us with our feedback form. 
+If you have any questions, comments or concerns about our Privacy Policy, you may [click here](mailto:cases@allclients.com) to contact us with our feedback form. 
