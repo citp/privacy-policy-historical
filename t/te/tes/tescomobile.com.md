@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tescomobile.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226093905id_/http%3A//www.tescomobile.com/about-us/terms-and-conditions/general/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tescomobile.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142926id_/http%3A//www.tescomobile.com/about-us/terms-and-conditions/general/privacy-and-cookies-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy | General | Terms and Conditions | About us | Tesco Mobile
-
-You are here: [About us](http://www.tescomobile.com/about-us/) | [Terms and Conditions](http://www.tescomobile.com/about-us/terms-and-conditions/) | [General](http://www.tescomobile.com/about-us/terms-and-conditions/general/) | Privacy and Cookies Policy
 
 Tesco Mobile (“the Website”) is owned and operated by Tesco Mobile Limited, part of the Tesco Group. This policy, together with our [Terms and Conditions](https://web.archive.org/about-us/terms-and-conditions), explain how Tesco may use information we collect about you, as well as your rights over any personal information we hold about you. Please read this policy and our [Terms and Conditions](https://web.archive.org/about-us/terms-and-conditions) carefully; by accessing the Website you confirm to have understood and agreed to them.
 
