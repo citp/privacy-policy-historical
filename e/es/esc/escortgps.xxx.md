@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the escortgps.xxx privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701090932id_/http%3A//www.escortgps.xxx/information/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escortgps.xxx privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607201115id_/http%3A//www.escortgps.xxx/information/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Escort GPS Your free Escort Global Directory Search Engine!
 
-Escort GPS is owned and operated by EGPSXXX LTD., a United Kingdom company committed to respecting your privacy and complying with all applicable data protection and privacy laws. This privacy statement explains the data collection and use practices of the Escort  GPS website.
+Escort GPS is owned and operated by EGPSX, a company committed to respecting your privacy and complying with all applicable data protection and privacy laws. This privacy statement explains the data collection and use practices of the Escort  GPS website.
 
 **Anonymous Access**
 
@@ -10,7 +10,7 @@ You can visit our website without disclosing any personally identifiable informa
 
 **Personal Information Collection**
 
-We endeavour to collect your personal information only with your knowledge and consent. The type of personal information we may collect could include, for example, your name, email address or telephone number, and situations where we may collect personal information could include, for example, when you register to use specific website services provided by us or contact us. If you choose to provide us with personal information it will be used in support of the intended purposes stated at the time at which it was collected and subject to any preferences indicated by you.
+We endeavor to collect your personal information only with your knowledge and consent. The type of personal information we may collect could include, for example, your name, email address or telephone number, and situations where we may collect personal information could include, for example, when you register to use specific website services provided by us or contact us. If you choose to provide us with personal information it will be used in support of the intended purposes stated at the time at which it was collected and subject to any preferences indicated by you.
 
 **Non-Personally Identifying Information**
 
@@ -18,7 +18,7 @@ We may also collect non-personally identifying information about your visit to o
 
 **How Will We Use Your Information?**
 
-We may use your information for a number of purposes which could include providing website services to you, responding to your enquiries and helping us manage and develop our website.
+We may use your information for a number of purposes which could include providing website services to you, responding to your inquiries and helping us manage and develop our website.
 
 **When Will We Disclose Your Information To Others?**
 
@@ -30,7 +30,7 @@ We may use cookies for two reasons; to help us track usage patterns in order to 
 
 **Access To Personal Information We May Hold About You**
 
-You can ask us at any time whether we are keeping any personal information about you and we will endeavour to respond to you promptly and provide you with a readable copy of any personal information which we are keeping about you. We will also allow you to challenge any personal information that we may hold about you and, where appropriate, you may have the information erased or amended. We will need proof of identity before we can discuss with you any personal information that we may hold about you and we may charge an administration fee.
+You can ask us at any time whether we are keeping any personal information about you and we will endeavor to respond to you promptly and provide you with a readable copy of any personal information which we are keeping about you. We will also allow you to challenge any personal information that we may hold about you and, where appropriate, you may have the information erased or amended. We will need proof of identity before we can discuss with you any personal information that we may hold about you and we may charge an administration fee.
 
 **Information Security**
 
