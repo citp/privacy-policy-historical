@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smythson.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121035931id_/http%3A//www.smythson.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smythson.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607141936id_/http%3A//www.smythson.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy and Security
 
@@ -30,6 +30,7 @@ The information we collect from is dependent on the activities you are carrying 
 
 • Your contact information, e.g name, address, telephone number and email address,  
 • Information about the products you have purchased,  
+• Information about your recent online activity, related to transactions even if they have not been completed,  
 • Your purchase information, such as credit card details,  
 • Navigation and click–stream data, time and duration of your visit, products viewed or searched for, items in your basket, basket abandonment, information from cookies or web beacons.
 
@@ -89,16 +90,16 @@ enquiries@smythson.com
 
 Hours of Business:  
 ---  
-Monday – Friday | 9am – 10pm GMT  
-Saturday | 9am – 5pm GMT  
+Monday – Friday | 9am – 8pm GMT  
+Saturday | 9:30am – 3pm GMT  
 Sunday | Closed  
   
 Or write to:
 
-Smythson Customer Services  
-2 Oaktree Business Centre  
-Hunt’s Rise  
-South Marston  
-SN3 4TX, UK
+Frank Smythson Limited  
+Good In, Units 1,2 Birch  
+Kembrey Park  
+Swindon  
+SN2 8UU, UK
 
 Last updated 17th July 2012
