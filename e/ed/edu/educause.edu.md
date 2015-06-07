@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educause.edu privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103021958id_/http%3A//www.educause.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educause.edu privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607112243id_/http%3A//www.educause.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EDUCAUSE.edu
 
@@ -127,10 +127,10 @@ If you would like to change any information listed above but do not wish to crea
 
 ## How Does EDUCAUSE Handle Legally Issued Subpoenas and Law Enforcement Agency Requests?
 
-EDUCAUSE may disclose personal information if we are required to do so to comply with the law or with legal process.
+EDUCAUSE and its service providers release institutionally identifiable information to third parties only in conjunction with valid subpoenas or other valid, legal requests and in compliance with other applicable laws. EDUCAUSE will not provide any institutionally identifiable information other than that information which is publicly available without a legal obligation to do so.
 
 ## What Other Exceptions Are There?
 
 EDUCAUSE reserves the right to use personal information in its database to identify the source of any inappropriate use of information resources managed by the association, including but not limited to offensive or illegal postings to online discussion lists, collaboration sites, and other communication vehicles; denial of service actions; unauthorized use of online services and network infrastructure; misuse or unauthorized use of the EDUCAUSE name, logo, or other representations of the association; and to protect the personal safety and privacy of our members, online users, and the public under the policies and practices described above.
 
-Effective date: 5/2010
+Effective date: 02/2015
