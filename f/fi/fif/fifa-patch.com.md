@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fifa-patch.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231183146id_/http%3A//www.fifa-patch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fifa-patch.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608002758id_/http%3A//www.fifa-patch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FIFA Patch
 
-This Privacy Policy governs the manner in which FIFA Patch collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.fifa-patch.com](https://web.archive.org/web/20141231183146id_/http%3A//www.fifa-patch.com/www.fifa-patch.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by FIFA Patch.  
+This Privacy Policy governs the manner in which FIFA Patch collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.fifa-patch.com](https://web.archive.org/web/20150608002758id_/http%3A//www.fifa-patch.com/www.fifa-patch.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by FIFA Patch.  
 ****
 
 **Personal identification information**
@@ -64,7 +64,7 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-[www.fifa-patch.com](https://web.archive.org/web/20141231183146id_/http%3A//www.fifa-patch.com/www.fifa-patch.com)
+[www.fifa-patch.com](https://web.archive.org/web/20150608002758id_/http%3A//www.fifa-patch.com/www.fifa-patch.com)
 
 contact.AT.fifa-patch.DOT.com
 
