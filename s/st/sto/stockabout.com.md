@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockabout.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017045650id_/http%3A//www.stockabout.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockabout.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607154523id_/http%3A//www.stockabout.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
