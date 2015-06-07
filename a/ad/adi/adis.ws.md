@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adis.ws privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204222731id_/http%3A//www.amplience.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adis.ws privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607134053id_/http%3A//www.amplience.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Amplience – Content Marketing Platform
+# Privacy | Amplience – The Big Content Platform
 
   
 
