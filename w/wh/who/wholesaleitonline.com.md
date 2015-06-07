@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wholesaleitonline.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920210522id_/http%3A//www.wholesaleitonline.com/privacy-policy-a91.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesaleitonline.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608003535id_/http%3A//www.rotita.com/privacy-policy-a91.html) for the most accurate reproduction.*
 
-# Privacy Policy | wholesaleitonline.com
+# Privacy Policy | rotita.com
 
-**Wholesaleitonline.com** respect the privacy of our visitors/customers, which is extremely important to us. We take your online safety seriously. 
+**Rotita.com**  respect the privacy of our visitors/customers, which is extremely important to us. We take your online safety seriously. 
 
 To better serve you and to make you understand how your information is used on our site, we have explained our privacy policy below.  
   
@@ -61,5 +61,5 @@ You can unsubscribe by using the link from any email newsletter or y
 Should you need any help please don't hestiate to contact us.  
 Our phone number:001-718-3959508 
 
-email address:service@wholesaleitonline.com  
+Support Center:<http://www.rotita.com/support.php>  
 Address:#17 Apartment,1248 Lane,Jingang Road,PuDong District,ShangHai,China
