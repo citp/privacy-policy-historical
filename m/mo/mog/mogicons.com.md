@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mogicons.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229170731id_/http%3A//www.mogicons.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mogicons.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608013517id_/http%3A//www.mogicons.com/en/privacy) for the most accurate reproduction.*
 
-# Facebook emoticons and chat stickers
+# Privacy Policy
 
   
 
