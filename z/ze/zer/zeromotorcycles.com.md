@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeromotorcycles.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225154115id_/http%3A//www.zeromotorcycles.com/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeromotorcycles.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607150846id_/http%3A//www.zeromotorcycles.com/legal/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy || ZERO MOTORCYCLES
 
@@ -95,5 +95,5 @@ Back to top
 
 ## Changes to Zero Motorcycle’s Privacy Policy
 
-Last revised: November, 2014   
+Last revised: February, 2015   
 This page describes the most recent updates to our Privacy Policy. We will update our privacy policy from time to time and encourage you to review it periodically. 
