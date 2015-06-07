@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the quickstopmedia.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131803id_/http%3A//www.quickstopmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickstopmedia.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607150349id_/http%3A//www.quickstopmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Quick Stop Media | PRIVACY POLICY
 
 Quickstopmedia believes that respecting your privacy is important. This Privacy Policy describes how Quickstopmedia treats personal information that Quickstopmedia collects and receives from you through this Website and other online locations such as Facebook and Twitter. Please read this Privacy Policy carefully. The Privacy Policy is incorporated into the Terms of Use for the quickstopmedia.com website ( “Website”), so the Terms of Use also apply.
+
+NAI Opt Out: <http://www.networkadvertising.org/optout_nonppii.asp.>
 
 1\. Agreement to Privacy Policy and Updates: Quickstopmedia may revise the Privacy Policy at any time by posting the revised Privacy Policy on the Website. We display the “Last Revised” date under the title of the Privacy Policy so that you will know when there has been a change. You should check the Privacy Policy on a regular basis for the most current Privacy Policy. Each time you access, use or browse the Website, you signify your acceptance of the then-current Privacy Policy applying to your personal information collected by us on and from the effective date of such changes.
 
