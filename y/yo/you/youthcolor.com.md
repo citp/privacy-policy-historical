@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youthcolor.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120164313id_/http%3A//www.youthcolor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youthcolor.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174057id_/http%3A//www.youthcolor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | www.youthcolor.com
 
@@ -57,3 +57,9 @@ If you have any questions regarding this privacy policy, the practices of this w
 **http://www.youthcolor.com**  
 Delhi  
 India
+
+#### Incoming search terms:
+
+  * [bate a kavi na tu vul na mp3](http://www.youthcolor.com/privacy-policy/ "bate a kavi na tu vul na mp3")
+
+
