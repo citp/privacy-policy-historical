@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the howtosavemoney.ca privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120181400id_/http%3A//www.howtosavemoney.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtosavemoney.ca privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175036id_/http%3A//www.howtosavemoney.ca/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | HowToSaveMoney.ca
 
 Everything you're about to read below is just the long way of saying we care about your privacy and we won't share your personal information with anyone without your consent. Any personal information you give us, like your email address, will only be used to keep in touch with you or to carry out the exact thing you gave it us for, like participating in a contest for instance.
 
