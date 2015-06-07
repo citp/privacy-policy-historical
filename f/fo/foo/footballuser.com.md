@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footballuser.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121095817id_/http%3A//www.footballuser.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballuser.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607134627id_/http%3A//www.footballuser.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - footballuser.com
 
@@ -12,6 +12,10 @@ At footballuser.com, the privacy of our visitors is of extreme importance to us.
 
 **Cookies and Web Beacons**   
 footballuser.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+
+**Google Analytics**   
+Like many other websites, footballuser.com makes use of log files via Google Analytics. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to help us analyse trends, administer the site, track movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.   
+We are committed to ensuring that our website contains content that is valuable and useful to our readers. To help us with this we have implemented the Google analytics demographics and interest reporting features on our website. These tools allow us to review anonymous data regarding the gender, age and interests of website visitors and adapt our website content to better reflect their needs. Although this information is collected through your Google ad settings, it is not provided to us in a personally-identifiable format. This means we cannot identify what information is about you, and we will not try to figure it out. You can opt-out of Google Analytics for Display Advertising and customise Google Display Network ads using the [Google Ad settings](https://www.google.com/settings/ads) or through the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/). 
 
 **DoubleClick DART Cookie**   
 .:: Google, as a third party vendor, uses cookies to serve ads on footballuser.com.   
