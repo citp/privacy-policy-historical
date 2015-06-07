@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the energysage.com privacy policy that was archived on 2014-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141129034038id_/http%3A//www.energysage.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the energysage.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607141049id_/http%3A//www.energysage.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-        <title>Privacy Policy | EnergySage News | EnergySage</title>
-        <meta charset="utf-8">
+        <title>Privacy Policy | EnergySage</title>
+        <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580462400000/479905.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQcDVFJbGwsBUVJSAAA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"8b3389c739","agent":"js-agent.newrelic.com/nr-632.min.js","transactionName":"MlBTNxFRD0JQBxFaDAsadxYNUxVYXgpKVwkEW1YMTUYIVEYXS1QGC1BDCgAeA1BCAV9nBghFXQIXVTdYVBM=","applicationID":"8153071","errorBeacon":"bam.nr-data.net","applicationTime":30}</script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
         
 
         
-
-        
+    
             <link rel="alternate" type="application/rss+xml" title="EnergySage » Feed" href="http://blog.energysage.com/feed/">
             <link rel="shortcut icon" href="//es-static-prod.s3.amazonaws.com/static/img/favicon.png">
             <link href="//fonts.googleapis.com/css?family=Arvo:400,700|Muli" rel="stylesheet" type="text/css">
@@ -17,17 +17,22 @@
                 <link href="//fonts.googleapis.com/css?family=Arvo" rel="stylesheet" type="text/css">
                 <link href="//fonts.googleapis.com/css?family=Arvo:700" rel="stylesheet" type="text/css">
             <![endif]-->
-            <link href="https://es-static-prod.s3.amazonaws.com/static/css/es.pipeline.1731476936a5.css" rel="stylesheet" type="text/css">
-            <link href="https://es-static-prod.s3.amazonaws.com/static/css/global.min.f081955c4389.css" rel="stylesheet" type="text/css">
+            <link href="https://es-static-prod.s3.amazonaws.com/static/css/mqes.pipeline.7878aea04940.css" rel="stylesheet" type="text/css">
+            <link href="https://es-static-prod.s3.amazonaws.com/static/css/global.mq.min.79627990678b.css" rel="stylesheet" type="text/css">
         
+    <link href="https://es-static-prod.s3.amazonaws.com/static/css/general.mq.min.c5565e6458d1.css" rel="stylesheet" type="text/css">
+
 
         
-            <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//es-static-prod.s3.amazonaws.com/static/lib/modernizr-2.6.1.min.js"></script>
+            <script src="//es-static-prod.s3.amazonaws.com/static/lib/modernizr-2.6.1.min.js"></script>
+            <!--[if lt IE 9]>
+                <script src="//es-static-prod.s3.amazonaws.com/static/lib/css3-mediaqueries-1.0/css3-mediaqueries.js"></script>
+                <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/es5-shim/4.0.5/es5-shim.min.js"></script>
+            <![endif]-->
         
     </head>
 
     <body>
-         
         
 
 <div id="navbar" class="navbar navbar-static-top">
@@ -53,18 +58,18 @@
                                 </div>
 
                                 <ul class="dropnav-menu list-plain">
-                                    <li class="dropnav-item"><a class="dropnav-link" href="/solar">About Solar</a></li>
+    <li class="dropnav-item"><a class="dropnav-link" href="/solar">About Solar</a></li>
 
-                                    <li class="dropnav-item"><a class="dropnav-link" href="/project-search">Case Studies</a></li>
+    <li class="dropnav-item"><a class="dropnav-link" href="/project-search">Case Studies</a></li>
 
-                                    <li class="dropnav-item"><a class="dropnav-link" href="http://blog.energysage.com/">Blog</a></li>
+    <li class="dropnav-item"><a class="dropnav-link" href="http://blog.energysage.com/">Blog</a></li>
 
-                                    <li class="dropnav-item"><a class="dropnav-link" href="http://answers.energysage.com/">Q &amp; A Forum</a></li>
+    <li class="dropnav-item"><a class="dropnav-link" href="http://answers.energysage.com/">Q &amp; A Forum</a></li>
 
-                                    <li class="dropnav-item"><a class="dropnav-link" href="/supplier/search">Research Companies</a></li>
+    <li class="dropnav-item"><a class="dropnav-link" href="/supplier/search">Research Companies</a></li>
 
-                                    <li class="dropnav-item"><a class="dropnav-link" href="/about-clean-energy">Other Technologies</a></li>
-                                </ul>
+    <li class="dropnav-item"><a class="dropnav-link" href="/about-clean-energy">Other Technologies</a></li>
+</ul>
                             </li>
                         </ul> 
 
@@ -76,12 +81,14 @@
                                 </div>
 
                                 <ul class="dropnav-menu list-plain">
-                                    <li class="dropnav-item"><a class="dropnav-link" href="/share-your-experience">Share Your Experience</a></li>
+    <li class="dropnav-item"><a class="dropnav-link" href="/share-your-experience">Share Your Experience</a></li>
 
-                                    <li class="dropnav-item"><a class="dropnav-link" href="/write-a-review">Write a Review</a></li>
+    <li class="dropnav-item"><a class="dropnav-link" href="/write-a-review">Write a Review</a></li>
 
-                                    <li class="dropnav-item"><a class="dropnav-link" href="/rewards/">Rewards Program</a></li>
-                                </ul>
+    <li class="dropnav-item"><a class="dropnav-link" href="/welcome-partners/">Partner With Us</a></li>
+
+    <li class="dropnav-item"><a class="dropnav-link" href="/rewards/">Rewards Program</a></li>
+</ul>
                             </li>
                         </ul> 
                     </div> 
@@ -106,18 +113,18 @@
 
                         <div class="dropnav-wrap">
                             <ul class="dropnav-menu list-plain">
-                                <li class="dropnav-item"><a class="dropnav-link" href="/solar">About Solar</a></li>
+    <li class="dropnav-item"><a class="dropnav-link" href="/solar">About Solar</a></li>
 
-                                <li class="dropnav-item"><a class="dropnav-link" href="/project-search">Case Studies</a></li>
+    <li class="dropnav-item"><a class="dropnav-link" href="/project-search">Case Studies</a></li>
 
-                                <li class="dropnav-item"><a class="dropnav-link" href="http://blog.energysage.com/">Blog</a></li>
+    <li class="dropnav-item"><a class="dropnav-link" href="http://blog.energysage.com/">Blog</a></li>
 
-                                <li class="dropnav-item"><a class="dropnav-link" href="http://answers.energysage.com/">Q &amp; A Forum</a></li>
+    <li class="dropnav-item"><a class="dropnav-link" href="http://answers.energysage.com/">Q &amp; A Forum</a></li>
 
-                                <li class="dropnav-item"><a class="dropnav-link" href="/supplier/search">Research Companies</a></li>
+    <li class="dropnav-item"><a class="dropnav-link" href="/supplier/search">Research Companies</a></li>
 
-                                <li class="dropnav-item"><a class="dropnav-link" href="/about-clean-energy">Other Technologies</a></li>
-                            </ul>
+    <li class="dropnav-item"><a class="dropnav-link" href="/about-clean-energy">Other Technologies</a></li>
+</ul>
                         </div>
                     </li> 
 
@@ -129,12 +136,14 @@
 
                         <div class="dropnav-wrap">
                             <ul class="dropnav-menu list-plain">
-                                <li class="dropnav-item"><a class="dropnav-link" href="/share-your-experience">Share Your Experience</a></li>
+    <li class="dropnav-item"><a class="dropnav-link" href="/share-your-experience">Share Your Experience</a></li>
 
-                                <li class="dropnav-item"><a class="dropnav-link" href="/write-a-review">Write a Review</a></li>
+    <li class="dropnav-item"><a class="dropnav-link" href="/write-a-review">Write a Review</a></li>
 
-                                <li class="dropnav-item"><a class="dropnav-link" href="/rewards/">Rewards Program</a></li>
-                            </ul>
+    <li class="dropnav-item"><a class="dropnav-link" href="/welcome-partners/">Partner With Us</a></li>
+
+    <li class="dropnav-item"><a class="dropnav-link" href="/rewards/">Rewards Program</a></li>
+</ul>
                         </div>
                     </li> 
                 </ul>
@@ -153,17 +162,9 @@
     </div>
 </div> 
 
-        <div class="container">
-            
-            
+        
 
-            
-            <div id="old_learn">
-            
-            
-            </div>
- 
-            
+        <div class="container">
             
             
 
@@ -173,9 +174,179 @@
             
 
             
-<h1>Privacy Policy</h1>
+<div id="terms-privacy">
+	<h1>Privacy Policy</h1>
 
-<div id="legal"><p>EnergySage is committed to protecting the privacy of its     customers and third-party vendors (“Users”). The purpose of this Privacy Policy     is to describe how we meet that commitment to our Users in practice. This     Privacy Policy describes the types of information we may collect, how we may     use that information, the steps we take to protect it, the circumstances under     which we may disclose or transfer it, and the choices you have regarding submitting     and maintaining your information.</p> <p>By visiting EnergySage.com (the “Site”), Users are     consenting to the practices described in this Privacy Policy. This Privacy Policy     is subject to change. If you are a returning User or a regular User of the     Site, EnergySage recommends that you review the Privacy Policy to be sure you     are familiar with its current terms.</p> <p>We encourage you to contact us if you have any questions or     concerns about the privacy or security of your information.</p> <h2>I. non-personal     Information</h2> <p>Certain non-personal information is collected from Users automatically     when they access the Site. This non-personal information includes your Internet     Protocol (“IP”) address — a numeric label that your Internet service     provider assigns to your computer each time you connect to the Internet. Your     IP address does not contain any personal information (such as your name, your     mailing address, or your email address). Your IP address facilitates     communication between your computer and the Site, and helps us to administer     the Site.</p> <p>Additional non-personal information is collected from Users     through the use of “cookies.” A cookie is an alphanumeric file that is     delivered by a web site to your computer, and is stored by your web browser. Cookies     can be used to verify the identity of a source of information, to store web     site preferences, to store certain items of information so that they can be     accessed later on (“shopping cart” contents, for example), or for any other     purpose that depends on retrieving stored data. We use cookies to identify your     computer whenever you access the Site. This facilitates and enhances your use     of the content, resources and services provided to you at the Site. We also use     cookies to gather information about the number of Users who visit the Site, how     frequently they visit, and the pages that Users access. This information helps     us to improve the appearance and content of the Site, and improve the functionality     of Site resources. These cookies do not gather information that identifies you personally.</p> <p>Cookies may remain on your hard drive after you leave the     Site. You may modify the settings of your web browser to prevent cookies from     being installed on your computer. If you decline to have your web browser     accept cookies, however, you may not be able to access or utilize certain resources     or services that are available at the Site.</p> <p>EnergySage may also use other technology that is standard to     the Internet, such as web beacons and other similar technologies, to track User visits to the Site. These     technologies also help us to gather information about the number of Users who     visit the Site, whether and how they arrived at the Site as the result of a web     search, the pages that Users access, etc. This information also helps us to     improve the appearance and content of the Site, and enhance the functionality     of Site resources.</p> <p>Certain resources at the Site, if you opt to use them, will     require you to provide information about the physical attributes of your home     or business, including its location (by zip code), the systems that are used to     heat and cool it, the fuels that those systems consume (oil, gas, propane, etc.),     the quantities of those fuels that are consumed, the amount of electricity you     use, and so on. This information, while it is detailed and specific, cannot be used     to identify you personally and does not constitute Personal Information. If you     wish to utilize these Site resources, however, you will be required to enroll     as a Registered User and to provide EnergySage with certain Personal     Information, as described in Section II below, under the caption “Personal     Information.” EnergySage will not require you to provide us with the identifying     numbers of your utility accounts, or any other identifying numbers that may be     associated with them, such as your meter number(s).</p> <p>Whenever a User’s non-personal information is used or is     stored together with the User’s Personal Information, it will be treated as     Personal Information.</p> <h2>II. personal     Information</h2> <p>Personal Information is data that can be used to identify     individual Users. It is not necessary for you to provide EnergySage with any Personal     Information in order to read content that is publicly available at the Site. If     you wish to use the resources and services that are available at the Site (calculators,     dashboards, user forums and web logs (“blogs”), reviews of installers and other     third-party vendors, hosted applications, etc.) you must, however, enroll as a     Registered User and select a user name (a “User ID”) and password. When you     become a Registered User at the Site you will be asked to provide EnergySage     with certain Personal Information that is necessary to complete your     registration. That Personal Information includes your name and your email     address.</p> <p>If you decide to purchase a renewable or clean energy system     for your home or business, and wish to be contacted by one of the installers or     third-party vendors who are affiliated with EnergySage, you will be required to     provide your name, your address and your telephone number so that you may be     contacted. This Personal Information will be shared only with the third-party     vendor(s) or installer(s) that you yourself have selected, and only at your     request. Moreover, if you opt to provide Personal Information in order to be     contacted by one or more third-party vendors or installers, those vendors and installers     may only use that Personal Information for the sole purpose of contacting you     in response to your request, and are prohibited from using it for any other     purpose.</p> <p>EnergySage employs payment intermediary services such as     PayPal™ and Google Checkout™, and does not request or store any of your     financial information, such as your bank, debit or credit card accounts.</p> <p>You may be asked to provide Personal Information if and when     you contact EnergySage by telephone or by mail, depending on your reason for     contacting us.</p> <h2>III. Use     of Your Information</h2> <p>As a Registered User of the Site you will be able to use the     resources and services that are available at the Site (calculators, dashboards,     user forums and web logs (“blogs”), reviews of installers and other third-party     vendors, hosted applications, etc.), The information that you provide when you     register will be used to identify you as the source of content that you post to     the Site, whether in a forum of blog, or any other area of the Site that is     accessible to Registered Users.</p> <p>If you are a Registered User and own a renewable or clean     energy system, you may opt to allow other Registered Users to contact you with     questions regarding your experience selecting, installing, and maintaining it.     If you do opt to be contacted by other EnergySage users—it is not     required—EnergySage will not divulge your email address to other Users.     Instead, EnergySage will allow such Registered Users to post their question in     an online forum, and to direct their question to you using an “alias” email     address that will be forwarded to the email address you provided to EnergySage.     The email that you receive will contain a link to the forum where you can     publicly post your reply to the Registered User—avoiding the need for you     to reply directly to the Registered User via email and disclosing your email     address.</p> <p>EnergySage may also use your Personal Information to send     you notices regarding changes to our Terms of Use, this Privacy Policy, and     other policies relating to the Site. You may not opt out of receiving these     communications when you become a Registered User. You may opt out of receiving     other emails from EnergySage that may contain notices about content and     features that become available at the Site.</p> <p>In the future EnergySage may also offer home- and     business-owners that own renewable or clean energy systems the opportunity to     monitor both the efficiency of their systems and the financial savings that     those systems accrue. Should this functionality become available, home- and     business-owners that own renewable or clean energy systems may wish to become     Registered Users in order to use EnergySage dashboards to monitor their     renewable or clean energy systems. All renewable and clean energy systems that     are monitored by EnergySage will be mapped by zip code. The specific addresses where     monitored renewable and clean energy systems are located will not mapped. The     purpose of mapping monitored systems by zip code is to provide Users with     information concerning the types of renewable and clean energy systems that     have been successfully installed by their neighbors. Information about each     mapped renewable or clean energy system will include the type of system     installed (for example, whether it is a solar photovoltaic or a combined heat     and power system), the size and capacity of the system, the manufacturer(s) of     the equipment that was installed, the name of the contractor(s) who installed     the system, and whether the system was installed in a home or business.</p> <p>If you own a renewable or clean energy system that is     monitored in the future by EnergySage, you will be asked to allow EnergySage to     aggregate data regarding the output of your system with data received from all     other monitored systems for display at the Site. The purpose of aggregating this     data will be to track at the Site the total amount of energy that has been     generated, the total amount of money that has been saved, and the total amount     of carbon emissions that have been avoided, collectively, by the EnergySage     community.</p> <h2>IV. DISCLOSURES     of your information</h2> <p>As stated in Section II above, captioned “Personal     Information,” you may ask to be contacted by one of the installers or     third-party vendors who are affiliated with EnergySage. Your Personal     Information will be shared only with the third-party vendor(s) or installer(s)     that you yourself have selected, and only at your request. EnergySage will not     make any other disclosures of your Personal Information to third parties unless     we are required to do so by law, or to enforce our Terms of Use or another     legal agreement, or upon your written request.</p> <p>From time to time EnergySage may create, purchase or sell     business subsidiaries. EnergySage may disclose your Personal Information to any     subsidiary that it creates or purchases. In addition, Personal Information     constitutes a business asset that is transferrable in any sales transaction     involving business subsidiaries. Whether EnergySage creates, acquires or sells     a business subsidiary, any Personal Information that is shared or sold will     remain subject to the promises made in the Privacy Policy then current, unless     Users consent otherwise.</p> <h2>V. correcting     your personal information — updating communication options</h2> <p>Registered Users may correct or update their personal     information:</p> <p><span>1.<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp; </span></span>by logging in and clicking on the link     captioned&nbsp; “My Account”;</p> <p><span>2.<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp; </span></span>via email sent to <a href="mailto:admin@energysage.com">admin@energysage.com</a>; or</p> <p><span>3.<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp; </span></span>by telephoning 617-398-0045.</p> <p>When Users register at the Site they must “opt in” to     receive communications from EnergySage regarding new content and features     offered at the Site, promotions, etc. Registered Users may “opt out” in order     to stop receiving such communications at any time:</p> <p><span>1.<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp; </span></span>by logging in and clicking on the link     captioned&nbsp; “My Account”;</p> <p><span>2.<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp; </span></span>via email sent to <a href="mailto:admin@energysage.com">admin@energysage.com</a>;</p> <p><span>4.<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp; </span></span>by telephoning 617-398-0045.</p> <h2>VI. protection     of personal information</h2> <p>EnergySage has developed and implemented a comprehensive     information security program that contains administrative, technical, and     physical safeguards that are intended to protect Users’ Private Information from     disclosure (the “Security Program”). One or more EnergySage employees have been     designated to maintain the Security Program. Among other things, the Security     Program has been implemented to identify and assess reasonably foreseeable     internal and external risks to the security, confidentiality, and/or integrity     of any electronic, paper or other record that contains Personal Information.     The Security Program also represents an ongoing effort to evaluate and improve,     where necessary, the effectiveness of the current safeguards for limiting such     risks, and provides for the development of security policies for employees to     follow when storing, accessing and transporting records that contain Personal     Information. EnergySage reviews the scope of the measures contained in the     Security Program at least annually, and whenever there is a material change in     business practices that may reasonably implicate the security or integrity of     records containing Personal Information.</p> <p>The Site includes User forums and blogs where you can post     information and comments, and pose and answer questions. When you post content     in a forum or to a blog, any Personal Information that you include in your post     is visible to and shared with other Users, and will be disclosed to them. You     are solely responsible for any Personal Information that you choose to post in     a forum or blog that is visible to other Users. Please be mindful of the     information that you post in forums or blogs in order to avoid disclosing your     own Personal Information, including your EnergySage User ID and password.</p> <h2>VII. CHILDREN</h2> <p>If you are not yet 18 years old, you may only use the Site     with the consent and involvement of a parent or guardian. If EnergySage becomes     aware that it has obtained Personal Information from a child we know to be     under 13 years of age, we will delete that information as soon as possible.</p> <h2>VIII. third-party sites</h2> <p>The Site may contain links to third-party websites promoting     products, and services. Information collected by such third parties at websites     hosted by them, including Personal Information, is governed by and subject to their     privacy practices, and not by this Privacy Policy. You are encouraged to learn     about the privacy practices of those third parties.</p><h2>IX. privacy     questions</h2> <p>We encourage you to contact us if you have any questions or     concerns about the privacy or security of your information. You may submit your     questions or concerns about this Privacy Policy, or any other privacy matter,     via email sent to <a href="mailto:privacy@energysage.com">privacy@energysage.com</a>.</p> <p>EFFECTIVE DATE: May 10, 2011</p></div>
+    <div class="section-copy">
+		<p>
+			EnergySage is committed to protecting the privacy of its customers and third-party vendors (“users”). The purpose of this privacy policy is to describe how we meet that commitment to our users in practice. This privacy policy describes the types of information we may collect, how we may use that information, the steps we take to protect it, the circumstances under which we may disclose or transfer it, and the choices you have regarding submitting and maintaining your information.
+		</p>
+
+		<p>
+			By visiting energysage.com (the “site”), users are consenting to the practices described in this privacy policy. This privacy policy is subject to change. If you are a returning user or a regular user of the site, EnergySage recommends that you review the privacy policy to be sure you are familiar with its current terms. We encourage you to contact us if you have any questions or concerns about the privacy or security of your information.
+		</p>
+	</div>
+
+    <div class="section-copy">
+		<h2>I. Non-Personal Information</h2>
+
+		<p>
+			Certain non-personal information is collected from users automatically when they access the site. This non-personal information includes your Internet Protocol (“IP”) address — a numeric label that your internet service provider assigns to your computer each time you connect to the Internet. Your IP address does not contain any personal information (such as your name, your mailing address, or your email address). Your IP address facilitates communication between your computer and the site, and helps us to administer the site.
+		</p>
+
+		<p>
+			Additional non-personal information is collected from users through the use of “cookies.” A cookie is an alphanumeric file that is delivered by a website to your computer, and is stored by your web browser. Cookies can be used to verify the identity of a source of information, to store website preferences, to store certain items of information so that they can be accessed later on (“shopping cart” contents, for example), or for any other purpose that depends on retrieving stored data.
+		</p>
+
+		<p>
+			We use cookies to identify your computer whenever you access the site. This facilitates and enhances your use of the content, resources and services provided to you at the site. We also use cookies to gather information about the number of users who visit the site, how frequently they visit, and the pages that users access. This information helps us to improve the appearance and content of the site, and improve the functionality of site resources. These cookies do not gather information that identifies you personally.
+		</p>
+
+		<p>
+			Cookies may remain on your hard drive after you leave the site. You may modify the settings of your web browser to prevent cookies from being installed on your computer. If you decline to have your web browser accept cookies, however, you may not be able to access or utilize certain resources or services that are available at the site.
+		</p>
+
+		<p>
+			EnergySage may also use other technology that is standard to the internet, such as web beacons and other similar technologies, to track user visits to the site. These technologies also help us to gather information about the number of users who visit the site, whether and how they arrived at the site as the result of a web search, the pages that users access, etc. This information also helps us to improve the appearance and content of the site, and enhance the functionality of site resources.
+		</p>
+
+		<p>
+			Certain resources at the site, if you opt to use them, will require you to provide information about the physical attributes of your home or business, including its location (by zip code), the systems that are used to heat and cool it, the fuels that those systems consume (oil, gas, propane, etc.), the quantities of those fuels that are consumed, the amount of electricity you use, and so on. This information, while it is detailed and specific, cannot be used to identify you personally and does not constitute personal information. If you wish to utilize these site resources, however, you will be required to enroll as a registered user and to provide EnergySage with certain personal information, as described in Section II below, under the caption “Personal Information.” EnergySage will not require you to provide us with the identifying numbers of your utility accounts, or any other identifying numbers that may be associated with them, such as your meter number(s).
+		</p>
+
+		<p>
+			Whenever a user’s non-personal information is used or is stored together with the user’s personal information, it will be treated as personal information.
+		</p>
+	</div>
+
+    <div class="section-copy">
+		<h2>II. Personal Information</h2>
+
+		<p>
+			Personal information is data that can be used to identify individual users. It is not necessary for you to provide EnergySage with any personal information in order to read content that is publicly available at the site. If you wish to use the resources and services that are available at the site (calculators, dashboards, user forums and weblogs (“blogs”), reviews of installers and other third-party vendors, hosted applications, etc.) you must, however, enroll as a registered user and select a user name (a “User ID”) and password. When you become a registered user at the site you will be asked to provide EnergySage with certain personal information that is necessary to complete your registration. That personal information includes your name and your email address.
+		</p>
+
+		<p>
+			If you decide to purchase a renewable or clean energy system for your home or business, and wish to be contacted by one of the installers or third-party vendors who are affiliated with EnergySage, you will be required to provide your name, your address and your telephone number so that you may be contacted. This personal information will be shared only with the third-party vendor(s) or installer(s) that you yourself have selected, and only at your request. Moreover, if you opt to provide personal information in order to be contacted by one or more third-party vendors or installers, those vendors and installers may only use that personal information for the sole purpose of contacting you in response to your request, and are prohibited from using it for any other purpose.
+		</p>
+
+		<p>
+			EnergySage employs payment intermediary services such as PayPal™ and Google Checkout™, and does not request or store any of your financial information, such as your bank, debit or credit card accounts.
+		</p>
+
+		<p>
+			You may be asked to provide personal information if and when you contact EnergySage by telephone or by mail, depending on your reason for contacting us.
+		</p>
+	</div>
+
+    <div class="section-copy">
+		<h2>III. Use of Your Information</h2>
+
+		<p>
+			As a registered user of the site you will be able to use the resources and services that are available at the site (calculators, dashboards, user forums and weblogs (“blogs”), reviews of installers and other third-party vendors, hosted applications, etc.), The information that you provide when you register will be used to identify you as the source of content that you post to the site, whether in a forum of blog, or any other area of the site that is accessible to registered users.
+		</p>
+
+		<p>
+			If you are a registered user and own a renewable or clean energy system, you may opt to allow other registered users to contact you with questions regarding your experience selecting, installing, and maintaining it. If you do opt to be contacted by other EnergySage users – it is not required – EnergySage will not divulge your email address to other users. Instead, EnergySage will allow such registered users to post their question in an online forum, and to direct their question to you using an “alias” email address that will be forwarded to the email address you provided to EnergySage. The email that you receive will contain a link to the forum where you can publicly post your reply to the registered user – avoiding the need for you to reply directly to the registered user via email and disclosing your email address.
+		</p>
+
+		<p>
+			EnergySage may also use your personal information to send you notices regarding changes to our Terms of Use, this privacy policy, and other policies relating to the site. You may not opt out of receiving these communications when you become a registered user. You may opt out of receiving other emails from EnergySage that may contain notices about content and features that become available at the site.
+		</p>
+
+		<p>
+			In the future EnergySage may also offer home and business owners that own renewable or clean energy systems the opportunity to monitor both the efficiency of their systems and the financial savings that those systems accrue. Should this functionality become available, home and business owners that own renewable or clean energy systems may wish to become registered users in order to use EnergySage dashboards to monitor their renewable or clean energy systems.
+		</p>
+
+		<p>
+			All renewable and clean energy systems that are monitored by EnergySage will be mapped by zip code. The specific addresses where monitored renewable and clean energy systems are located will not mapped. The purpose of mapping monitored systems by zip code is to provide users with information concerning the types of renewable and clean energy systems that have been successfully installed by their neighbors. Information about each mapped renewable or clean energy system will include the type of system installed (for example, whether it is a solar photovoltaic or a combined heat and power system), the size and capacity of the system, the manufacturer(s) of the equipment that was installed, the name of the contractor(s) who installed the system, and whether the system was installed in a home or business.
+		</p>
+
+		<p>
+			If you own a renewable or clean energy system that is monitored in the future by EnergySage, you will be asked to allow EnergySage to aggregate data regarding the output of your system with data received from all other monitored systems for display at the site. The purpose of aggregating this data will be to track at the site the total amount of energy that has been generated, the total amount of money that has been saved, and the total amount of carbon emissions that have been avoided, collectively, by the EnergySage community.
+		</p>
+	</div>
+
+    <div class="section-copy">
+		<h2>IV. Disclosures of Your Information</h2>
+
+		<p>
+			As stated in Section II above, captioned “Personal Information,” you may ask to be contacted by one of the installers or third-party vendors who are affiliated with EnergySage. Your personal information will be shared only with the third-party vendor(s) or installer(s) that you yourself have selected, and only at your request. EnergySage will not make any other disclosures of your personal information to third parties unless we are required to do so by law, or to enforce our Terms of Use or another legal agreement, or upon your written request.
+		</p>
+
+		<p>
+			From time to time EnergySage may create, purchase or sell business subsidiaries. EnergySage may disclose your personal information to any subsidiary that it creates or purchases. In addition, personal information constitutes a business asset that is transferable in any sales transaction involving business subsidiaries. Whether EnergySage creates, acquires or sells a business subsidiary, any personal information that is shared or sold will remain subject to the promises made in the privacy policy then current, unless users consent otherwise.
+		</p>
+	</div>
+
+    <div class="section-copy">
+		<h2>V. Correcting Your Personal Information</h2>
+
+		<p>
+			When users register at the site they must “opt in” to receive communications from EnergySage regarding new content and features offered at the site, promotions, etc. Registered users may correct or update their personal information or “opt out” in order to stop receiving such communications at any time:
+		</p>
+
+		<ol>
+			<li>
+				By logging in and clicking on the link captioned&nbsp; “My Account”;
+			</li>
+
+			<li>
+				Via email sent to <a href="mailto:admin@energysage.com">admin@energysage.com</a>;
+			</li>
+
+			<li>
+				By telephoning 617-398-0045.
+			</li>
+		</ol>
+	</div>
+
+    <div class="section-copy">
+		<h2>VI. Protection of Personal Information</h2>
+
+		<p>
+			EnergySage has developed and implemented a comprehensive information security program that contains administrative, technical, and physical safeguards that are intended to protect users’ private information from disclosure (the “Security Program”). One or more EnergySage employees have been designated to maintain the security program.
+		</p>
+
+		<p>
+			Among other things, the security program has been implemented to identify and assess reasonably foreseeable internal and external risks to the security, confidentiality, and/or integrity of any electronic, paper or other record that contains personal information. The security program also represents an ongoing effort to evaluate and improve, where necessary, the effectiveness of the current safeguards for limiting such risks, and provides for the development of security policies for employees to follow when storing, accessing and transporting records that contain personal information. EnergySage reviews the scope of the measures contained in the security program at least annually, and whenever there is a material change in business practices that may reasonably implicate the security or integrity of records containing personal information.
+		</p>
+
+		<p>
+			The site includes user forums and blogs where you can post information and comments, and pose and answer questions. When you post content in a forum or to a blog, any personal information that you include in your post is visible to and shared with other users, and will be disclosed to them. You are solely responsible for any personal information that you choose to post in a forum or blog that is visible to other users. Please be mindful of the information that you post in forums or blogs in order to avoid disclosing your own personal information, including your EnergySage user ID and password.
+		</p>
+	</div>
+
+    <div class="section-copy">
+		<h2>VII. Children</h2>
+
+		<p>
+			If you are not yet 18 years old, you may only use the site with the consent and involvement of a parent or guardian. If EnergySage becomes aware that it has obtained personal information from a child we know to be under 13 years of age, we will delete that information as soon as possible.
+		</p>
+	</div>
+
+    <div class="section-copy">
+		<h2>VIII. Third-Party Sites</h2>
+
+		<p>
+			The site may contain links to third-party websites promoting products, and services. Information collected by such third parties at websites hosted by them, including personal information, is governed by and subject to their privacy practices, and not by this privacy policy. You are encouraged to learn about the privacy practices of those third parties.
+		</p>
+	</div>
+
+    <div class="section-copy">
+		<h2>IX. Privacy Questions</h2>
+
+		<p>
+			We encourage you to contact us if you have any questions or concerns about the privacy or security of your information. You may submit your questions or concerns about this privacy policy, or any other privacy matter, via email sent to <a href="mailto:privacy@energysage.com">privacy@energysage.com</a>.
+		</p>
+	</div>
+
+	<p class="note">
+		Effective Date: May 10, 2011
+	</p>
+</div> 
+
+
 
 
 
@@ -183,80 +354,169 @@
 
         
         <div style="clear: both"></div>
-        <div class="container">
-            <div class="footer ">
-                <div class="footer-panel1">
-                    <a href="/"><img src="//es-static-prod.s3.amazonaws.com/static/img/es-logo-footer.png" width="163" height="50" alt="EnergySage"></a>
-                </div> 
 
-                <div class="footer-panel2">
-                    <div class="section-links">
-                        <p>
-                            <a href="/about/">About</a>
-                            <a href="/news">News / Press</a>
-                            <a href="/partners/">Partners</a>
-                            <a href="/welcome-installers">Installers</a>
-                            <a class="link-last" href="http://blog.energysage.com/">Blog</a>
-                        </p>
+        <div class="container ">
+            <div id="footer">
+                <div class="section-footer-panel1">
+                    <div class="section-logo">
+                        <a href="/"><img src="//es-static-prod.s3.amazonaws.com/static/img/es-logo-footer.png" width="163" height="50" alt="EnergySage"></a>
                     </div> 
 
-                    <div class="section-legal-social">
-                        <div class="section-legal">
-                            <div class="legal-links"><a href="/terms-of-use">Terms of Use</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="/privacy-policy">Privacy Policy</a></div>
-                            <p>All Rights Reserved</p>
-                            <p>Copyright © 2009 – 2014 EnergySage, Inc.</p>
-                        </div>
+                    <span class="section-footer-panel1A">
+                        <div class="section-contact">
+                            <p class="link-email"><a href="mailto:hello@energysage.com">Hello@EnergySage.com</a></p>
 
-                        <div class="section-social">
-                            <a class="social-image social-facebook" href="https://www.facebook.com/EnergySage" title="EnergySage on Facebook"></a>
+                            <p class="link-phone"><a href="tel:617-936-8512" rel="nofollow">617-936-8512</a></p>
+                        </div> 
 
-                            <a class="social-image social-twitter" href="https://twitter.com/energysage" title="EnergySage on Twitter"></a>
-
-                            <a class="social-image social-google-plus" href="https://plus.google.com/111661642791347191772" title="EnergySage on Google+"></a>
-                        </div>
-                    </div> 
+                        <div class="section-links">
+                            <ul class="list-plain">
+                                <li class="link1"><a href="/about/">About</a></li>
+                                <li class="link2"><a href="/careers">Careers</a></li>
+                                <li class="link3"><a href="/partners/">Partners</a></li>
+                                <li class="link4"><a href="/welcome-installers">Installers</a></li>
+                                <li class="link5"><a href="/news">News</a></li>
+                            </ul>
+                        </div> 
+                    </span>  
                 </div> 
 
-                <div class="footer-panel3">
-                    <div class="section-contact">
-                        <p><a href="mailto:hello@energysage.com">Hello@EnergySage.com</a></p>
+                <div class="section-footer-panel2">
+                    <div class="section-contact2">
+                        <p class="link-email"><a href="mailto:hello@energysage.com">Hello@EnergySage.com</a></p>
 
-                        <p><a rel="nofollow" href="tel:617-936-8512">617-936-8512</a></p>
-                    </div>
+                        <p class="link-phone"><a href="tel:617-936-8512" rel="nofollow">617-936-8512</a></p>
+                    </div> 
 
-                    <div class="section-badge">
-                        <a href="http://www1.eere.energy.gov/solar/sunshot/incubator.html"><img src="//es-static-prod.s3.amazonaws.com/static/img/footer-doe-sunshot.png" width="163" height="59" alt="Sunshot: Department of Energy"></a>
-                    </div>
+                    <div class="block-legal">
+                        <p><a href="/terms-of-use">Terms of Use</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="/privacy-policy">Privacy Policy</a></p>
+
+                        <p>All Rights Reserved. Copyright © 2009 - 2015</p>
+                        <p>EnergySage, Inc.</p>
+                    </div> 
+
+                    <div class="section-social">
+                        <ul class="list-plain">
+                            <li class="social-image social-facebook"><a href="https://www.facebook.com/EnergySage" title="EnergySage on Facebook"></a></li>
+                            <li class="social-image social-twitter"><a href="https://twitter.com/energysage" title="EnergySage on Twitter"></a></li>
+                            <li class="social-image social-google-plus"><a href="https://plus.google.com/111661642791347191772" title="EnergySage on Google+"></a></li>
+                        </ul>
+                    </div> 
+
+                    <div class="section-about">
+                        <div class="block-sunshot">
+                            <a href="http://www1.eere.energy.gov/solar/sunshot/incubator.html"><img src="//es-static-prod.s3.amazonaws.com/static/img/footer-doe-sunshot.png" width="163" height="59" alt="Sunshot: Department of Energy"></a>
+                        </div> 
+
+                        <div class="block-legal2">
+                            <p><a href="/terms-of-use">Terms of Use</a> /</p>
+                            <p><a href="/privacy-policy">Privacy Policy</a></p>
+                            <p>© 2009 - 2015</p>
+                        </div> 
+                    </div> 
                 </div> 
             </div> 
         </div> 
         
 
         
+
             <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="//es-static-prod.s3.amazonaws.com/static/lib/jquery.min.js"><\/script>')</script><script src="//es-static-prod.s3.amazonaws.com/static/lib/jquery.min.js"></script>
+            <script>
+$(function() {
+    var vr = String(ESUtil.getCookie('vr'));
+
+    if (vr === 'null' && document.referrer) {
+        // Only set the cookie for external referrals
+        if (document.referrer.indexOf('www.energysage.com') < 0) {
+            ESUtil.setCookie({
+                name: 'vr',
+                value: document.referrer,
+                expires_delta_days: 365
+            });
+        }
+    }
+});
+</script>
+
             <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.1.1/js/bootstrap.min.js"></script>
 <script> $.fn.modal || document.write('<script src="//es-static-prod.s3.amazonaws.com/static/lib/bootstrap-2.1.1/js/bootstrap.min.js"><\/script>')</script>
 
-            <script type="text/javascript">
+            
 
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-19699642-2']);
-    _gaq.push(['_setDomainName', 'energysage.com']);
-    _gaq.push(['_setPageGroup', '1', 'Anonymous']);  // setPageGroup
-    _gaq.push(['_trackPageview']);
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+    // Disable tracking if the opt-out cookie exists.
+    var gaProperty = 'UA-19699642-2';
+    var disableStr = 'ga-disable-' + gaProperty;
 
+    if (document.cookie.indexOf(disableStr + '=true') > -1) {
+      window[disableStr] = true;
+    }
+
+    // Opt-out function
+    function gaOptout() {
+      document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+      window[disableStr] = true;
+    }
+
+
+    function gaCanTrack() {
+        var _cookieVal = window[disableStr];
+        if (_cookieVal === true) {
+            return false;
+        }
+        if (String(_cookieVal) === 'undefined') {
+            return true;
+        }
+        if (_cookieVal === false) {
+            return true;
+        }
+    }
+
+    
+    //if(gaCanTrack()) {
+
+        
+
+        ga('create', window.gaProperty, 'auto'); 
+        ga('require', 'linkid', 'linkid.js');
+
+        var dimensionValue1 = 'Anonymous';
+
+        ga('set', 'dimension1', dimensionValue1);
+        ga('send', 'pageview');
+
+    //}
 </script>
 
 
-            <script type="application/javascript" src="https://es-static-prod.s3.amazonaws.com/static/js/base.pipeline.2dfc79d70b86.js" charset="utf-8"></script>
+            
+<!-- Start of Async HubSpot Analytics Code -->
+<script type="text/javascript">
+    
+    (function(d,s,i,r) {
+      if (d.getElementById(i)){return;}
+      var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+      n.id=i;n.src='//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/479905.js';
+      e.parentNode.insertBefore(n, e);
+    })(document,"script","hs-analytics",300000);
+</script>
+<!-- End of Async HubSpot Analytics Code -->
+
+
+            <script type="text/javascript" src="https://es-static-prod.s3.amazonaws.com/static/js/base.pipeline.58fe992322cb.js" charset="utf-8"></script>
         
+
+
+
+
+
     
 
 </body></html>
