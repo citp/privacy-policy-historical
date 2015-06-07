@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptpa.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215230511id_/http%3A//ptpa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptpa.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608001926id_/http%3A//ptpa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PTPA
 
@@ -176,3 +176,5 @@ PTPA Media Inc.
 
 Concord, Ontario L4C5S8  
 Effective Date: June 28, 2011
+
+[](http://www.printfriendly.com/print?url=http%3A%2F%2Fptpa.com%2Fprivacy-policy%2F)
