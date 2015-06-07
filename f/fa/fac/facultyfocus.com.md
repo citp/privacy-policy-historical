@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the facultyfocus.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124121424id_/http%3A//www.facultyfocus.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facultyfocus.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142645id_/http%3A//www.facultyfocus.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Faculty Focus | Faculty Focus
+# Privacy Policy - Faculty Focus
 
 This document outlines the Privacy Policy adhered to by _Faculty Focus._
 
