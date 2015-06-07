@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freegamesinc.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203134756id_/http%3A//www.idealinternet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegamesinc.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607154734id_/http%3A//idealinternet.com/privacy.html) for the most accurate reproduction.*
 
 # Ideal Internet
 
@@ -23,6 +23,8 @@ If in the future this Privacy Policy is amended or updated, you will be subject 
 
 **copyright 2008/2010 Ideal Internet, Inc. All Rights Reserved.**
 
-**Warning** : include(../sidebar.php): failed to open stream: No such file or directory in **/var/www/html/idealinternet.com/idealinternet.com/page/privacy.php** on line **31**
+  
+**Warning** : include(../sidebar.php): failed to open stream: No such file or directory in **/var/www/html/sites/idealinternet.com/idealinternet.com/page/privacy.php** on line **31**  
+  
+**Warning** : include(): Failed opening '../sidebar.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in **/var/www/html/sites/idealinternet.com/idealinternet.com/page/privacy.php** on line **31**  
 
-**Warning** : include(): Failed opening '../sidebar.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in **/var/www/html/idealinternet.com/idealinternet.com/page/privacy.php** on line **31**
