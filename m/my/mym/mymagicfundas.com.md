@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymagicfundas.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216134233id_/http%3A//www.mymagicfundas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymagicfundas.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607183115id_/http%3A//www.mymagicfundas.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,7 +20,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Mymagicfundas may collect and use Users personal information for the following purposes:
 
-\- To improve our Site  
+– To improve our Site  
 We may use feedback you provide to improve our products and services.  
 – To send periodic emails  
 We may use the email address to respond to their inquiries, questions, and/or other requests.
