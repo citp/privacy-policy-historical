@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uvapoint.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110155022id_/http%3A//uvapoint.com/site/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uvapoint.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074826id_/http%3A//uvapoint.com/site/privacy_policy.html) for the most accurate reproduction.*
 
 # Recharge,Online Recharge,Prepaid Mobile Recharge,DTH Recharge,Easy Online Mobile Recharge,Mobile Bill Payment. Easy Bill Payment,Quick Heal
 
