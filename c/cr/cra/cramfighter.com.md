@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cramfighter.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210133957id_/http%3A//cramfighter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cramfighter.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607070454id_/http%3A//cramfighter.com/privacy) for the most accurate reproduction.*
 
 # Cram Fighter Privacy Policy
 
-Cram Fighter LLC (“ **Cram Fighter** ”) operates several websites including [CramFighter.com](http://www.cramfighter.com/), [usmlestudyschedule.com](http://www.usmlestudyschedule.com/), and [usmleschedule.com](http://www.usmleschedule.com/). It is Cram Fighter’s policy to respect your privacy regarding any information we may collect while operating our websites.
+Cram Fighter Inc. (" **Cram Fighter** ") operates several websites including [CramFighter.com](http://www.cramfighter.com/), [usmlestudyschedule.com](http://www.usmlestudyschedule.com/), and [usmleschedule.com](http://www.usmleschedule.com/). It is Cram Fighter’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
   
 
