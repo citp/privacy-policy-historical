@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thedigitalfix.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220051230id_/http%3A//thedigitalfix.com/content/id/25/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedigitalfix.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608000810id_/http%3A//www.thedigitalfix.com/content/id/25/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Misc Content | The Digital Fix
+# The Digital Fix - Privacy Policy
 
 This privacy policy sets out how The Digital Fix, and by extension Poisonous Monkey Ltd, uses and protects any information that you supply when you use this website.
 
@@ -24,9 +24,9 @@ We also store the IP addresses you use to access the site. These are for our own
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-• Internal record keeping.   
-• We may use the information to improve our products and services.   
-• We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
+•Internal record keeping.   
+•We may use the information to improve our products and services.   
+•We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
 
 **Security**
 
@@ -58,8 +58,8 @@ We also run third party banner advertisements that are governed by the 'AdChoice
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-• whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
-• if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by [Contacting Us](https://web.archive.org/sendmail.php).
+•whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
+•if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by [Contacting Us](https://web.archive.org/sendmail.php).
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
