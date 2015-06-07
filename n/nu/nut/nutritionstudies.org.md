@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutritionstudies.org privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123131126id_/http%3A//nutritionstudies.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutritionstudies.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144221id_/http%3A//nutritionstudies.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Center for Nutrition Studies
 
@@ -56,7 +56,7 @@ Our Site uses several cookies. By using our Site, you agree that we may place th
 
 If you want to delete these cookies or any other cookies that are already on your computer, please refer to the help and support areas on your internet browser for instructions on how to locate the file or directory that stores cookies.
 
-Information on cookies, including deleting or controlling them, can be found at: [http//www.AboutCookies.org](https://web.archive.org/web/20141123131126id_/http://nutritionstudies.org/privacy/http//www.AboutCookies.org "website") or at [http://www.allaboutcookies.org](http://www.allaboutcookies.org/ "website"). Please note that, by deleting our cookies or disabling future cookies, you may not be able to access certain areas or features of our Site and the Site may not function properly.
+Information on cookies, including deleting or controlling them, can be found at: [aboutcookies.org](http://www.aboutcookies.org/ "website") or at [allaboutcookies.org](http://www.allaboutcookies.org/ "website"). Please note that, by deleting our cookies or disabling future cookies, you may not be able to access certain areas or features of our Site and the Site may not function properly.
 
 ## Enforcement
 
