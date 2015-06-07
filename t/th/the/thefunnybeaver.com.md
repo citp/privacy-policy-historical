@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thefunnybeaver.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111010631id_/http%3A//thefunnybeaver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefunnybeaver.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144831id_/http%3A//thefunnybeaver.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# TheFunnyBeaver – Privacy Policy
+
+## Privacy Policy
 
 The Funny Beaver recognizes that its customers, visitors, users, and others who use www.TheFunnyBeaver.com or other web Website owned or operated by TheFunnyBeaver (the “TheFunnyBeaver Website”) (collectively or individually “Users”) value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the TheFunnyBeaver Website. TheFunnyBeaver provides this Privacy Notice to help you make an informed decision about whether to use or continue using the TheFunnyBeaver Website.
 
