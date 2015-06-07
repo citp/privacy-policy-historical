@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the ottolenghi.co.uk privacy policy that was archived on 2014-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121022129id_/http%3A//www.ottolenghi.co.uk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ottolenghi.co.uk privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607193946id_/http%3A//www.ottolenghi.co.uk/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml" version="XHTML+RDFa 1.0" xml:lang="en"><head>
-<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="//np.lexity.com/1ecc1862"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug4EWFBRGwcDXFZbBAY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8">
 <title>Privacy Policy</title>
 <meta name="description" content="Buy delicious freshly made Ottolenghi products, hard to find pantry ingredients and signed books from our online store, delivered worldwide.">
 <meta name="keywords" content="Restaurants, Cafes, Recipes, Catering, Cooks Ingredients">
@@ -17,19 +17,19 @@
 //]]>
 </script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://www.ottolenghi.co.uk/media/css/3e03d78008f0653e41c939bbe54d765d.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.ottolenghi.co.uk/media/css/c5b039ad43fe2160c678c8c03cb1c0cd.css" media="print">
-<script type="text/javascript" src="http://www.ottolenghi.co.uk/media/js/181c211a0261f6dde862b262f6046a84.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.ottolenghi.co.uk/media/css/2142f89e78727d0f020da1c7687ffb9d-1-1432129883.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.ottolenghi.co.uk/media/css/fe725b9799b1bb7a45aa1464c24b1b56-1-1372248714.css" media="print">
+<script src="https://script.crazyegg.com/pages/scripts/0032/7204.js?439014" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.ottolenghi.co.uk/media/js/e0faa6f24f67fdfae6c753d958ac94d5-1425982660.js"></script>
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Montserrat:400,700">
 <!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="http://www.ottolenghi.co.uk/media/css/85cb8a901e3cb9d761971568ea2c188c.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ottolenghi.co.uk/media/css/888b4db29eb94598c997ac1f3927ca2f-1-1341485397.css" media="all" />
 <![endif]-->
 <!--[if lt IE 7]>
-<script type="text/javascript" src="http://www.ottolenghi.co.uk/media/js/fc775860c20d22345f0704b19471def1.js"></script>
+<script type="text/javascript" src="http://www.ottolenghi.co.uk/media/js/54f90dfcca07d4e926f39993a657ebdc-1341485397.js"></script>
 <![endif]-->
 <!--[if lt IE 9]>
-<link rel="stylesheet" type="text/css" href="http://www.ottolenghi.co.uk/media/css/e747046d0b96cb6d4f2efcdc038feb75.css" media="all" />
-<script type="text/javascript" src="http://www.ottolenghi.co.uk/media/js/a231af1e2739a40b15fe3563b01d8503.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.ottolenghi.co.uk/media/css/6d75152e2d8ba9c4a39eafb7e5b520f3-1-1372248714.css" media="all" />
+<script type="text/javascript" src="http://www.ottolenghi.co.uk/media/js/feae891cb733f8ccf9256efe74ec39b4-1372248912.js"></script>
 <![endif]-->
 
 <script type="text/javascript">
@@ -48,28 +48,13 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 		<meta property="og:title" content="Privacy Policy">
 		<script type="text/javascript">//<![CDATA[
         var Translator = new Translate([]);
-        //]]></script><!-- Added by Lexity. DO NOT REMOVE/EDIT -->
-<meta name="google-site-verification" content="IK3jgncq2oJ2mm3dkeF7CrjRyK83zPWcLodVMiA0M44">
-<script type="text/javascript">
-(function(d, w) {
-  var x = d.getElementsByTagName('SCRIPT')[0];
-  var g = d.createElement('SCRIPT');
-  g.type = 'text/javascript';
-  g.async = true;
-  g.src = ('https:' == d.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-  x.parentNode.insertBefore(g, x);
-  var f = function () {
-    var s = d.createElement('SCRIPT');
-    s.type = 'text/javascript';
-    s.async = true;
-    s.src = "//np.lexity.com/1ecc1862";
-    x.parentNode.insertBefore(s, x);
-  };
-  w.attachEvent ? w.attachEvent('onload', f) : w.addEventListener('load', f, false);
-}(document, window));
-</script>
-<!-- End of addition by Lexity. DO NOT REMOVE/EDIT -->
-<meta name="p:domain_verify" content="6633fb3ab008e3e1c7e665ae06110880"></head>
+        //]]></script><meta name="google-site-verification" content="IK3jgncq2oJ2mm3dkeF7CrjRyK83zPWcLodVMiA0M44">
+<meta name="p:domain_verify" content="6633fb3ab008e3e1c7e665ae06110880">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//fonts.gstatic.com">
+<link rel="dns-prefetch" href="//www.google-analytics.com">
+<link rel="dns-prefetch" href="//connect.facebook.net">
+<link rel="dns-prefetch" href="//platform.twitter.com"></head>
 <body class=" cms-page-view desktop cms-privacy-policy">
 <!-- BEGIN GOOGLE ANALYTICS CODEs -->
 <script type="text/javascript">
@@ -276,8 +261,7 @@ $j(document).ready(function(){
                                     <li class="first"><a href="http://www.ottolenghi.co.uk/blog/category/from-yotam/" title="">Blog</a></li>
                                 <li><a href="http://www.ottolenghi.co.uk/locations/" title="">Restaurants &amp; Delis</a></li>
                                 <li><a href="http://www.ottolenghi.co.uk/catering/" title="">Catering</a></li>
-                                <li><a href="http://www.ottolenghi.co.uk/about-us/" title="">Philosophy</a></li>
-                                <li class=" last"><a href="http://www.ottolenghi.co.uk/ottolenghi-rewards/" title="">Rewards</a></li>
+                                <li class=" last"><a href="http://www.ottolenghi.co.uk/about-us/" title="">Philosophy</a></li>
             				            <li id="dropdown-container">
 	                <a href="http://www.ottolenghi.co.uk/checkout/cart/" class="checkout-link">
 						Basket						<span class="basket cart-count">0</span>
@@ -291,9 +275,9 @@ $j(document).ready(function(){
             
 
 <ul id="nav">
-      <li class="level0 menuitem parent" id="id206">
-    <a href="http://www.ottolenghi.co.uk/christmas">
-      <span>Christmas</span>
+      <li class="level0 menuitem parent" id="id54">
+    <a href="http://www.ottolenghi.co.uk/recipes">
+      <span>Recipes</span>
     </a>
   </li>
       <li class="level0 menuitem parent" id="id125">
@@ -321,22 +305,62 @@ $j(document).ready(function(){
       <span>Wine</span>
     </a>
   </li>
-      <li class="level0 menuitem parent" id="id54">
-    <a href="http://www.ottolenghi.co.uk/recipes">
-      <span>Recipes</span>
-    </a>
-  </li>
   </ul>
 
 <div id="dropdown-wrapper">
-                <div class="submenu-container" id="sub-id206">
-      <div class="submenu-title">Christmas</div>     
+                <div class="submenu-container" id="sub-id54">
+      <div class="submenu-title">Recipes</div>     
                 <div class="items-container">            <div class="item">
-              <a href="http://www.ottolenghi.co.uk/christmas/hampers">
-                <span>Hampers</span>
+              <a href="http://www.ottolenghi.co.uk/recipes/starters-and-snacks">
+                <span>Starters and snacks</span>
               </a>
             </div>
-                          </div>        <div class="menu-block menublock_206"><p>&nbsp;&nbsp;<a href="http://www.ottolenghi.co.uk/the-ottolenghi-christmas-hamper-champagne-shop"><img title="The Ottolenghi Christmas Hamper w Champagne" src="http://www.ottolenghi.co.uk/media/wysiwyg/Christmas-hamper_drop.jpg" alt="The Ottolenghi Christmas Hamper w Champagne"></a>&nbsp;&nbsp;<a href="http://www.ottolenghi.co.uk/christmas/the-sweet-treats-hamper-prosecco-shop"><img title="The Sweet Treats Hamper w Prosecco" src="http://www.ottolenghi.co.uk/media/wysiwyg/sweet-treats-hamper_drop.jpg" alt="The Sweet Treats Hamper w Prosecco"></a>&nbsp;<a href="http://www.ottolenghi.co.uk/christmas/the-ottolenghi-christmas-wine-hamper-shop"><img title="The Ottolenghi Christmas Wine Hamper" src="http://www.ottolenghi.co.uk/media/wysiwyg/Christmas-wine-hamper_drop.jpg" alt="The Ottolenghi Christmas Wine Hamper"></a></p></div>    </div>
+                                        <div class="item">
+              <a href="http://www.ottolenghi.co.uk/recipes/baked-99">
+                <span>Baked</span>
+              </a>
+            </div>
+                                        <div class="item">
+              <a href="http://www.ottolenghi.co.uk/recipes/vegetarian">
+                <span>Vegetarian</span>
+              </a>
+            </div>
+                                        <div class="item">
+              <a href="http://www.ottolenghi.co.uk/recipes/salads">
+                <span>Salads</span>
+              </a>
+            </div>
+                                        <div class="item">
+              <a href="http://www.ottolenghi.co.uk/recipes/soups">
+                <span>Soups</span>
+              </a>
+            </div>
+                                        <div class="item">
+              <a href="http://www.ottolenghi.co.uk/recipes/poultry">
+                <span>Poultry</span>
+              </a>
+            </div>
+          </div>                  <div class="items-container">            <div class="item">
+              <a href="http://www.ottolenghi.co.uk/recipes/meat">
+                <span>Meat </span>
+              </a>
+            </div>
+                                        <div class="item">
+              <a href="http://www.ottolenghi.co.uk/recipes/baked">
+                <span>Sweets &amp; Desserts</span>
+              </a>
+            </div>
+                                        <div class="item">
+              <a href="http://www.ottolenghi.co.uk/recipes/seafood">
+                <span>Seafood</span>
+              </a>
+            </div>
+                                        <div class="item">
+              <a href="http://www.ottolenghi.co.uk/recipes/mediterranean-feast">
+                <span>Mediterranean Feast</span>
+              </a>
+            </div>
+                          </div>        <div class="menu-block menublock_54"><p>&nbsp;.</p></div>    </div>
                   <div class="submenu-container" id="sub-id125">
       <div class="submenu-title">Hampers &amp; Vouchers</div>     
                 <div class="items-container">            <div class="item">
@@ -354,7 +378,7 @@ $j(document).ready(function(){
                 <span>Linen</span>
               </a>
             </div>
-                          </div>        <div class="menu-block menublock_125"><p><a href="http://www.ottolenghi.co.uk/shop/linen/the-plenty-more-apron-shop"><img src="http://www.ottolenghi.co.uk/media/wysiwyg/plenty-more-apron_drop.jpg" alt=""></a>&nbsp; &nbsp;<a href="http://www.ottolenghi.co.uk/the-plenty-more-hamper-book-shop"><img src="http://www.ottolenghi.co.uk/media/wysiwyg/plenty_more_hamper_book_drop_2.jpg" alt=""></a>&nbsp;<a href="http://www.ottolenghi.co.uk/hampers-gifts/vouchers/nopi-voucher-shop"><img src="http://www.ottolenghi.co.uk/media/wysiwyg/nopi-voucher_drop_1.jpg" alt=""></a></p></div>    </div>
+                          </div>        <div class="menu-block menublock_125"><p>.</p></div>    </div>
                   <div class="submenu-container" id="sub-id64">
       <div class="submenu-title">Pantry</div>     
                 <div class="items-container">            <div class="item">
@@ -393,11 +417,21 @@ $j(document).ready(function(){
               </a>
             </div>
                                         <div class="item">
+              <a href="http://www.ottolenghi.co.uk/pantry/seaweed">
+                <span>Seaweed</span>
+              </a>
+            </div>
+                                        <div class="item">
               <a href="http://www.ottolenghi.co.uk/pantry/other-ingredients">
                 <span>Other Ingredients</span>
               </a>
             </div>
-                          </div>        <div class="menu-block menublock_64"><p>&nbsp;&nbsp;<a href="http://www.ottolenghi.co.uk/pantry/dakos-shop"><img src="http://www.ottolenghi.co.uk/media/wysiwyg/dakos_drop_1.jpg" alt=""></a><a href="http://www.ottolenghi.co.uk/pantry/black-garlic-shop"><img src="http://www.ottolenghi.co.uk/media/wysiwyg/black_garlic_drop.jpg" alt=""></a><a href="http://www.ottolenghi.co.uk/shop/deli/deli/tahini-despr003008-shop"><img src="http://www.ottolenghi.co.uk/media/wysiwyg/tahiani_drop_4.jpg" alt=""></a></p></div>    </div>
+                                        <div class="item">
+              <a href="http://www.ottolenghi.co.uk/pantry/pasta">
+                <span>Pasta</span>
+              </a>
+            </div>
+                          </div>        <div class="menu-block menublock_64"><p>&nbsp;&nbsp;</p></div>    </div>
                   <div class="submenu-container" id="sub-id139">
       <div class="submenu-title">Fresh</div>     
                 <div class="items-container">            <div class="item">
@@ -415,7 +449,7 @@ $j(document).ready(function(){
                 <span>Granola</span>
               </a>
             </div>
-                          </div>        <div class="menu-block menublock_139"><p><a href="http://www.ottolenghi.co.uk/ottolenghi-granola-shop"><img src="http://www.ottolenghi.co.uk/media/wysiwyg/granola_drop.jpg" alt=""></a>&nbsp;&nbsp;<a href="http://www.ottolenghi.co.uk/ottolenghi-nougat-shop"><img src="http://www.ottolenghi.co.uk/media/wysiwyg/nougat_drop_1.jpg" alt=""></a>&nbsp;&nbsp;<a href="http://www.ottolenghi.co.uk/garibaldi-biscuits-shop"><img src="http://www.ottolenghi.co.uk/media/wysiwyg/Garibaldi-biscuits_drop_1.jpg" alt=""></a></p></div>    </div>
+                          </div>        <div class="menu-block menublock_139">.</div>    </div>
                   <div class="submenu-container" id="sub-id78">
       <div class="submenu-title">Books &amp; DVD</div>     
                 <div class="items-container">            <div class="item">
@@ -432,6 +466,11 @@ $j(document).ready(function(){
                   <div class="submenu-container" id="sub-id128">
       <div class="submenu-title">Wine</div>     
                 <div class="items-container">            <div class="item">
+              <a href="http://www.ottolenghi.co.uk/wine-store/orange-wines">
+                <span>Orange wines</span>
+              </a>
+            </div>
+                                        <div class="item">
               <a href="http://www.ottolenghi.co.uk/wine-store/recommendations">
                 <span>Wine &amp; Food Pairings</span>
               </a>
@@ -456,55 +495,7 @@ $j(document).ready(function(){
                 <span>Collections</span>
               </a>
             </div>
-                                        <div class="item">
-              <a href="http://www.ottolenghi.co.uk/wine-store/autumn-wines">
-                <span>Autumn Wines</span>
-              </a>
-            </div>
-          </div>                  <div class="items-container">            <div class="item">
-              <a href="http://www.ottolenghi.co.uk/wine-store/new-wines-offers">
-                <span>New wines &amp; Offers</span>
-              </a>
-            </div>
-                          </div>        <div class="menu-block menublock_128"><p>&nbsp;&nbsp;<a href="http://www.ottolenghi.co.uk/wine-store/sparkling-sweet"><img src="http://www.ottolenghi.co.uk/media/wysiwyg/20-off-parkling-wines.jpg" alt=""></a></p></div>    </div>
-                  <div class="submenu-container" id="sub-id54">
-      <div class="submenu-title">Recipes</div>     
-                <div class="items-container">            <div class="item">
-              <a href="http://www.ottolenghi.co.uk/recipes/cooked-vegetables">
-                <span>Cooked vegetables</span>
-              </a>
-            </div>
-                                        <div class="item">
-              <a href="http://www.ottolenghi.co.uk/recipes/salads">
-                <span>Salads</span>
-              </a>
-            </div>
-                                        <div class="item">
-              <a href="http://www.ottolenghi.co.uk/recipes/soups">
-                <span>Soups</span>
-              </a>
-            </div>
-                                        <div class="item">
-              <a href="http://www.ottolenghi.co.uk/recipes/fish">
-                <span>Fish</span>
-              </a>
-            </div>
-                                        <div class="item">
-              <a href="http://www.ottolenghi.co.uk/recipes/meat">
-                <span>Meat </span>
-              </a>
-            </div>
-                                        <div class="item">
-              <a href="http://www.ottolenghi.co.uk/recipes/baked-sweets">
-                <span>Baked &amp; Sweets</span>
-              </a>
-            </div>
-          </div>                  <div class="items-container">            <div class="item">
-              <a href="http://www.ottolenghi.co.uk/recipes/mediterranean-feast">
-                <span>Mediterranean Feast</span>
-              </a>
-            </div>
-                          </div>        <div class="menu-block menublock_54"><p><a href="http://www.ottolenghi.co.uk/ingredients/plenty/roots/poached-baby-vegetables-with-caper-mayonnaise-shop"><img src="http://www.ottolenghi.co.uk/media/wysiwyg/Poached-baby-vegetables-with-caper-mayonnaise_drop.jpg" alt=""></a>&nbsp; &nbsp;<a href="http://www.ottolenghi.co.uk/ingredients/plenty/roots/sweet-potato-cakes-shop"><img src="http://www.ottolenghi.co.uk/media/wysiwyg/Sweet-potato-cakes_drop.jpg" alt=""></a></p></div>    </div>
+          </div>                        <div class="menu-block menublock_128"><p>&nbsp;&nbsp;</p></div>    </div>
         </div>
 
 <script type="text/javascript">
@@ -589,8 +580,7 @@ $j(document).ready(function(){
     <div id="welcome-container">
         <span class="welcome-msg">Welcome to Ottolenghi</span>
         <span class="promo-msg">
-            <p>Free UK delivery for online orders over £50</p>
-        </span>
+            <p>Free UK delivery for online orders over £50</p>        </span>
     </div>
     <span class="close" title="Close">×</span>
 </div>
@@ -732,7 +722,6 @@ $j(document).ready(function(){
 </div><div id="footer-block-centre">
 <h5>About</h5>
 <ul>
-<li><a href="http://www.ottolenghi.co.uk/ottolenghi-rewards">Ottolenghi Rewards</a></li>
 <li><a href="http://www.ottolenghi.co.uk/faqs">Frequently Asked Questions</a></li>
 <li><a href="http://www.ottolenghi.co.uk/delivery-and-returns">Delivery &amp; Returns</a></li>
 <li><a href="http://www.ottolenghi.co.uk/terms-and-conditions">Terms &amp; Conditions</a></li>
@@ -744,16 +733,26 @@ $j(document).ready(function(){
 <li class="facebook-link"><a href="http://en-gb.facebook.com/pages/Ottolenghi/243885972297958">Facebook</a></li>
 <li class="twitter-link"><a href="https://twitter.com/ottolenghi">Twitter</a></li>
 <li class="pinterest-link"><a href="https://pinterest.com/ottolenghi">Pinterest</a></li>
+<li class="instagram-link">
+<a href="https://instagram.com/ottolenghi">Instagram</a>
+</li>
 </ul>
 <h5>Blog</h5>
 <ul>
 <li><a href="http://www.ottolenghi.co.uk/blog/category/from-yotam/">From Yotam</a></li>
 </ul>
 </div>	        <p class="bugs">Help Us to Keep Magento Healthy - <a href="http://www.magentocommerce.com/bug-tracking" onclick="this.target='_blank'"><strong>Report All Bugs</strong></a> (ver. 1.7.0.2)</p>
-	        <address>Copyright © 2014 Ottolenghi &nbsp;&nbsp;|&nbsp;&nbsp; Site by <a href="http://www.lewisecommerce.com" class="lewis">Lewis</a></address>
+	        <address>Copyright © 2015 Ottolenghi</address>
 	    </div>
     </div>
 </div>
+
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0032/7204.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
         
 <!-- Using the JavaScript SDK -->
 <div id="fb-root"></div>
@@ -807,7 +806,7 @@ Event.observe(document, 'dom:loaded', function() {
         window.oldFbAsyncInit();
 
         var notification_elem = $('facebook-like-rewards-notification');
-        var flr = new FacebookLikeReward('http://www.ottolenghi.co.uk/rewardssocial/facebook_like/onLike/', $('facebook-like-rewards-notification-content'), 'AbvhgB3JjXbXrxTUm9/Q5xiSi87CMF+w', $('facebook-like-rewards-ajax-loading'));
+        var flr = new FacebookLikeReward('http://www.ottolenghi.co.uk/rewardssocial/facebook_like/onLike/', $('facebook-like-rewards-notification-content'), '0QQxVyJJr03iAwGfSbonKUkSxZbd9IC6', $('facebook-like-rewards-ajax-loading'));
 
         var _0x6f6e=["\x31\x2E\x34\x2E\x32\x28\x27\x67\x2E\x6D\x27\x2C\x33\x28\x62\x29\x7B\x31\x2E\x34\x2E\x32\x28\x27\x36\x2E\x69\x27\x2C\x33\x28\x61\x29\x7B\x37\x2E\x64\x28\x29\x7D\x29\x3B\x31\x2E\x34\x2E\x32\x28\x27\x36\x2E\x6F\x27\x2C\x33\x28\x61\x29\x7B\x37\x2E\x65\x28\x29\x7D\x29\x3B\x66\x28\x35\x29\x7B\x68\x20\x63\x3D\x6A\x2E\x6B\x28\x27\x6C\x27\x29\x5B\x30\x5D\x2E\x38\x3B\x63\x2E\x38\x2E\x6E\x28\x35\x2C\x63\x29\x3B\x35\x2E\x39\x28\x29\x7D\x7D\x29\x3B","\x7C","\x73\x70\x6C\x69\x74","\x7C\x46\x42\x7C\x73\x75\x62\x73\x63\x72\x69\x62\x65\x7C\x66\x75\x6E\x63\x74\x69\x6F\x6E\x7C\x45\x76\x65\x6E\x74\x7C\x6E\x6F\x74\x69\x66\x69\x63\x61\x74\x69\x6F\x6E\x5F\x65\x6C\x65\x6D\x7C\x65\x64\x67\x65\x7C\x66\x6C\x72\x7C\x70\x61\x72\x65\x6E\x74\x4E\x6F\x64\x65\x7C\x73\x68\x6F\x77\x7C\x7C\x7C\x7C\x6F\x6E\x4C\x69\x6B\x65\x7C\x6F\x6E\x55\x6E\x4C\x69\x6B\x65\x7C\x69\x66\x7C\x78\x66\x62\x6D\x6C\x7C\x76\x61\x72\x7C\x63\x72\x65\x61\x74\x65\x7C\x64\x6F\x63\x75\x6D\x65\x6E\x74\x7C\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x73\x42\x79\x43\x6C\x61\x73\x73\x4E\x61\x6D\x65\x7C\x66\x62\x5F\x69\x66\x72\x61\x6D\x65\x5F\x77\x69\x64\x67\x65\x74\x7C\x72\x65\x6E\x64\x65\x72\x7C\x69\x6E\x73\x65\x72\x74\x42\x65\x66\x6F\x72\x65\x7C\x72\x65\x6D\x6F\x76\x65","\x72\x65\x70\x6C\x61\x63\x65","","\x5C\x77\x2B","\x5C\x62","\x67"];eval(function (_0xcd5cx1,_0xcd5cx2,_0xcd5cx3,_0xcd5cx4,_0xcd5cx5,_0xcd5cx6){_0xcd5cx5=function (_0xcd5cx3){return _0xcd5cx3.toString(_0xcd5cx2);} ;if(!_0x6f6e[5][_0x6f6e[4]](/^/,String)){while(_0xcd5cx3--){_0xcd5cx6[_0xcd5cx5(_0xcd5cx3)]=_0xcd5cx4[_0xcd5cx3]||_0xcd5cx5(_0xcd5cx3);} ;_0xcd5cx4=[function (_0xcd5cx5){return _0xcd5cx6[_0xcd5cx5];} ];_0xcd5cx5=function (){return _0x6f6e[6];} ;_0xcd5cx3=1;} ;while(_0xcd5cx3--){if(_0xcd5cx4[_0xcd5cx3]){_0xcd5cx1=_0xcd5cx1[_0x6f6e[4]]( new RegExp(_0x6f6e[7]+_0xcd5cx5(_0xcd5cx3)+_0x6f6e[7],_0x6f6e[8]),_0xcd5cx4[_0xcd5cx3]);} ;} ;return _0xcd5cx1;} (_0x6f6e[0],25,25,_0x6f6e[3][_0x6f6e[2]](_0x6f6e[1]),0,{}));
     };
@@ -854,6 +853,6 @@ var _0x468a=["\x68\x2E\x6A\x28\x6B\x2C\x27\x71\x3A\x72\x27\x2C\x34\x28\x29\x7B\x
 </script>
     </div>
 </div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"e8fb59ff1a","applicationID":"4387937","transactionName":"M1FbYERTXkpXUxJfVwobeFdCW19XGVMLRRcUVV5RGURZXEE=","queueTime":0,"applicationTime":300,"atts":"HxZYFgxJTUQ=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+
+</body></html>
