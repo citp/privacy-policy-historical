@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monsterleech.eu privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215141909id_/http%3A//www.premiumgenerator.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monsterleech.eu privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607180059id_/http%3A//www.premiumgenerator.info/privacy.php) for the most accurate reproduction.*
 
 # Premium link generator - PremiumGenerator.info
 
