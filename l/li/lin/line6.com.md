@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the line6.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201232437id_/http%3A//line6.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the line6.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608000922id_/http%3A//line6.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Line 6 - Privacy Policy
 
@@ -49,7 +49,7 @@ Any and all information, including personal and non-personal information, that y
 
  _Automated Data Capture_
 
-We may automatically track certain information about your use of the Website. Line 6 tracks and logs individual log-in times, IP addresses, connection speeds, and browser types for system administration purposes. This information will be used to prepare statistical data, analyzed to improve troubleshooting techniques and responses, and used to improve the value of the materials and services available through the Website.
+We may automatically track certain information about your use of the Website. Line 6 tracks and logs individual log-in times, IP addresses, connection speeds, and other data provided by the web browser for system administration and development purposes. This information will be used to prepare statistical data, analyzed to improve troubleshooting techniques and responses, and used to improve the value of the materials and services available through the Website.
 
  _Cookies_
 
@@ -122,4 +122,4 @@ If we decide to change this Privacy Policy, we will post those changes here so t
 [](http://www.etrust.org/cert/875564.html)
 
 COPYRIGHT © 2012 LINE 6, INC. ALL RIGHTS RESERVED.  
-LAST DATE OF MODIFICATION: March 28, 2014. 
+LAST DATE OF MODIFICATION: March 20, 2015. 
