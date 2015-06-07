@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatebloggerpro.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230110520id_/http%3A//affiliatebloggerpro.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatebloggerpro.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607130556id_/http%3A//affiliatebloggerpro.com/privacy-statement) for the most accurate reproduction.*
 
 # Rosalind Gardner's Academy » Privacy Statement
 
