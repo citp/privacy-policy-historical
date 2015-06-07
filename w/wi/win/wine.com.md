@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wine.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120132629id_/http%3A//www.wine.com/content/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wine.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152545id_/http%3A//www.wine.com/content/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Wine.com - Privacy Policy
 
@@ -84,6 +84,10 @@ We will not sell, share, or rent this information to others in any way that vari
 
 Wine.com will share aggregated demographic information with its partners and advertisers. This is not linked to any personally identifiable that can identify any individual person.
 
+We may also share your physical address with carefully selected business partners. These businesses may use the information we share to mail you valuable opportunities and offers. You can opt out of future postal mailings from our business partners by sending an email to [privacy@wine.com](mailto:privacy@wine.com).
+
+You may access the personally identifiable information you have submitted to Wine.com and your contact preferences by selecting "Your Account" and editing the information as it exists in our system currently. You are also able to access your information in order to update or delete it by sending us an email at [privacy@wine.com](mailto:privacy@wine.com).
+
 We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
 
 We value your privacy at Wine.com, and will never release any account information to anyone outside of the necessary core groups that help our business function unless our customers give us the authority to do so.
@@ -137,4 +141,4 @@ Wine.com, Inc.
 114 Sansome Street, 3rd Floor  
 San Francisco, CA 94104
 
-The Privacy Notice posted on this site was updated on November 1, 2014.
+The Privacy Notice posted on this site was updated on January 7, 2015.
