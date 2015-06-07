@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joomlatemplates.me privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029185315id_/http%3A//joomlatemplates.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlatemplates.me privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607072551id_/http%3A//joomlatemplates.me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | JoomlaTemplates.me
 
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
