@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qmul.ac.uk privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228061704id_/http%3A//www.qmul.ac.uk/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qmul.ac.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607072308id_/http%3A//www.qmul.ac.uk/site/privacy) for the most accurate reproduction.*
 
 # Privacy and cookies
 
@@ -27,7 +27,7 @@ When someone visits our websites we collect standard internet log information an
 
 ### Submitting personal information
 
-While using this website to request a prospectus, send an enquiry or apply online, you may have to submit personal information. Queen Mary, University of London is committed to protecting your privacy and the information that you give us will be treated in accordance with our [Data Protection Policy](http://www.arcs.qmul.ac.uk/policy_zone/data_protection_policy.pdf) [PDF] and this statement. It will be used only for the purpose which is stated at the point of collection.
+While using this website to request a prospectus, send an enquiry or apply online, you may have to submit personal information. Queen Mary, University of London is committed to protecting your privacy and the information that you give us will be treated in accordance with our [Data Protection Policy](http://www.qmul.ac.uk/102302.pdf) [PDF] and this statement. It will be used only for the purpose which is stated at the point of collection.
 
 ## Use of cookies by Queen Mary
 
