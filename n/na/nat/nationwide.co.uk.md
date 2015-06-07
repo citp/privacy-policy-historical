@@ -1,31 +1,51 @@
-> *The following text is extracted and transformed from the nationwide.co.uk privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230043433id_/http%3A//www.nationwide.co.uk/about/corporate-information/cookies-and-privacy/introduction) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationwide.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185815id_/http%3A//www.nunwood.com/sitemap/our-privacy-policy) for the most accurate reproduction.*
 
-# Cookies & Privacy Policy - Introduction | Nationwide
+# Our privacy policy - Nunwood
 
-##  Introduction
+### KPMG Nunwood is committed to protecting the privacy of all information we collect from our clients and from research participants.
 
-We collect personal information about you when you apply for products or carry out transactions with us on our websites. If you use our secure services we'll ask you to provide some information about yourself for security, identification and verification purposes. When completing any online forms, we'll tell you how your information will be used in relation to the product or service you are applying for within the form.
+##### This policy applies to all client and personal information that we collect or use in the course of conducting our business.
 
-We will only collect information that is relevant to providing our online services. We will keep your information as long as permitted for our legitimate business purposes and for any retention period that we are legally required to meet. We may sometimes need to transfer your information to third parties who provide services to us, on the understanding that they keep the information confidential and use it only for our agreed purposes.
+This policy covers all client information and research participant data housed at any KPMG Nunwood facility or stored on the KPMG Nunwood network. Anyone at KPMG Nunwood who has access to such information or data must follow this policy.
 
-When you use our secure services, all information, including messages, are protected by encryption while in transit across the Internet. If you use standard email for communications with Nationwide, information will not be protected in the same way and you should be aware that we cannot guarantee that it remains confidential whilst in transit. All email sent to Nationwide will be monitored and checked to ensure our systems operate effectively.
+The information you give us will be treated with the strictest confidence and in accordance with the Market Research Society Code of Conduct. It will not be passed on to any other person or persons and any personal details you provide will not be used in any sales or marketing activity & no personally identifiable information will be passed onto any third parties unless your consent is given.
 
-### Security
+#### Client Information
 
-Find out how we keep your information secure and how you can protect your own information online.
+We treat all information we receive from clients as confidential and do not use the information for any purpose other than to fulfil our obligations to clients. We keep client information secure at all times, and prevent the use and disclosure of it by our employees or any third parties.
 
-[Visit our Security centre](https://web.archive.org/support/security-centre)
+#### Research Participant Information
 
-## You may also be interested in...
+All responses to our research are completely confidential. We collect data in our studies for research purposes only, and our use of that information will be limited to that purpose. Research participant answers will not be used by any entity as an aid for sales.
 
-#### [Recent improvements to our Internet Bank](https://web.archive.org/support/ways-to-bank/internet-banking/recent-improvements)
+Calls made for the purpose of research are exempt from TPS (Telephone Preference Service) which only applies to sales and marketing calls. Therefore we are entitled to call ex-directory numbers, however, we will not release your personal information to any third party without your consent.
 
-See why Nationwide won Best Overall Online Provider of the year at the 2014 Your Money Direct Awards
+Research participation is voluntary and sample members always have the opportunity to decline involvement or to ‘opt out’ of the research after agreeing to participate. We do not collect personal information without research participant consent.
 
-#### [Your Nationwide](http://your.nationwide.co.uk/Pages/your-nationwide-home.aspx)
+We do not rent, sell or give personal information to any third party for the purpose of directly marketing any products or services. In some cases we may need to share personal information with third parties that provide research services in support of the research project. Any third party that receives personal information is obligated to follow all of the same privacy protection regulations as followed by KPMG Nunwood.
 
-Your needs are at the heart of Your Nationwide. Find out how we're doing, read about our community initiatives, and get the latest news
+At their request, we give research participants access to the personal information we have collected about them. We correct any information that is inaccurate or incomplete, change their consent status, or have their personal information deleted.
 
-##  [How we use your information](https://web.archive.org/about/corporate-information/cookies-and-privacy/how-we-use-your-information#tab:sectionHowweuseyourinformation "How we use your information")
+#### Children
 
-##  [Cookie details](https://web.archive.org/about/corporate-information/cookies-and-privacy/cookie-details#tab:sectionCookiedetails "Cookie details")
+We do not contact children under the age of 18 without consent from a parent or guardian.
+
+#### Information Security
+
+We maintain all necessary physical, electronic and procedural security measures to help safeguard client data and personal information. Third parties that provide us with support or services may also receive client data or personal information, and we require them to maintain security measures similar to ours with respect to such information.
+
+#### Data Integrity
+
+KPMG Nunwood will take reasonable steps to ensure the personal data is accurate, complete, current and relevant, being used only for the intended purposes.
+
+#### Legal Obligations
+
+Under certain circumstances permitted or required by law (for example, in connection with law enforcement investigations), we may be required to disclose client data or personal information without giving notice.
+
+#### Compliance
+
+The information you give us will be treated with the strictest confidence and in accordance with the Market Research Society Code of Conduct. It will not be passed on to any other person or persons and any personal details you provide will not be used in any sales or marketing activity & no personally identifiable information will be passed onto any third parties unless your consent is given.
+
+#### Changes in the Privacy Statement
+
+We may update this Privacy Statement from time to time by posting an amended version of the statement on the KPMG Nunwood website. Please refer to this policy regularly. If at any time we decide to use personally identifiable information in a different manner then was stated at the time it was collected, we will notify you directly via email for your consent.
