@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the visitorlando.com privacy policy that was archived on 2014-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141228181944id_/http%3A//www.visitorlando.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the visitorlando.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607074451id_/http%3A//www.visitorlando.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb##" class=" js "><head>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb##" class=" js no-touch draganddrop localstorage sessionstorage" style=""><head>
                         
 			<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -9,20 +9,20 @@
             
             <meta property="og:image" content="http://www.visitorlando.com/includes/images/assets/logo_small.png">
 			
-                    <title>Visit Orlando - Official Florida Vacation Information</title>
+                    <title>Visit Orlando Privacy Policy | VisitOrlando.com</title>
                     <meta property="vo" content="A7">
-                    <meta name="keywords" content="visit orlando privacy policy">
+                    <meta name="keywords" content="">
                     
                         <meta name="robots" content="noodp">
                     
-                    <meta name="description" content="View the complete VisitOrlando.com privacy policy and learn about what kinds of information we collect to further our mission of promoting Orlando as a tourist destination.
+                    <meta name="description" content="View the complete VisitOrlando.com privacy policy and learn about what information we collect and how it's used to promote Orlando as tourist destination.
 ">
-                    <meta name="og:description" content="View the complete VisitOrlando.com privacy policy and learn about what kinds of information we collect to further our mission of promoting Orlando as a tourist destination.
+                    <meta name="og:description" content="View the complete VisitOrlando.com privacy policy and learn about what information we collect and how it's used to promote Orlando as tourist destination.
 ">
-                    <meta property="og:title" content="Visit Orlando - Official Florida Vacation Information">
+                    <meta property="og:title" content="Visit Orlando Privacy Policy | VisitOrlando.com">
                     <meta property="og:type" content="article">
                     <meta property="og:url" content="http://www.visitorlando.com/privacy-policy">
-                    <meta property="og:ref" content="View the complete VisitOrlando.com privacy policy and learn about what kinds of information we collect to further our mission of promoting Orlando as a tourist destination.
+                    <meta property="og:ref" content="View the complete VisitOrlando.com privacy policy and learn about what information we collect and how it's used to promote Orlando as tourist destination.
 ">
 
 					
@@ -51,7 +51,7 @@
             <link media="screen" rel="stylesheet" href="/includes/css/jqueryUI/colorbox.css">
 
 		
-			<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#appId=248508068520682&amp;xfbml=1"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">
+			<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K6WV8W"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#appId=248508068520682&amp;xfbml=1"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">
 				var siteURL		= 'http://www.visitorlando.com/';
 				var siteRoot	= '/';
 				var imgRoot		= '/includes/content/images/';
@@ -215,12 +215,59 @@
                     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
                     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-                    ga('create', 'UA-17195128-5', 'auto');
-                    ga('create', 'UA-17195128-1', 'auto', {'name': 'consumerTracker'});
+                    /* This is the NEW tracking code, with cross-domain tracking and all dimensions set */
+                    ga('create', 'UA-17195128-5', 'auto', {
+                        'allowLinker': true
+                    });
+                    // DC.js
+                    ga('require', 'displayfeatures');
+                    // In-Page analytics
+                    ga('require', 'linkid', 'linkid.js');
+                    // Load linker plugin - Cross Domain Tracking.
+                    ga('require', 'linker');
+                    // Define which domains to autoLink - Cross Domain Tracking.
+                    ga('linker:autoLink', ['nitrosell.com','magicaldining.mobi'], true, true); //visitorlando domain version
+
+                    //Create and set dimensions
+                    ga(function(tracker) {
+                        //get clientid from the ga cookie for data-stitching purposes
+                        var clientId = tracker.get('clientId');
+                        //create a unique session id based on the clientid for data-stitching purposes
+                        var t=(new Date()).getTime();
+                        var cName = 'ga_s_id=';
+                        var cookies = document.cookie.split(';');
+                        for(var i=0; i < cookies.length; i++) {
+                            var c = cookies[i];
+                            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+                            if(c.indexOf(cName) === 0) {
+                                ga_s_id = c.substring(cName.length, c.length);
+                            break;
+                            }
+                        }
+
+                        if(ga_s_id === null) {
+                            ga_s_id = clientId + '.' + t;
+                            document.cookie = name + ga_s_id + '; path=/';
+                        }
+
+                        ga('set', {
+                            'dimension2': clientId, //set to user scope in GA Admin
+                            'dimension3': ga_s_id //set to session scope in GA Admin
+                        });
+
+                    });
+                    // Content Group Settings
+                    ga('set', 'contentGroup1', location.hostname);
+                    ga('send', {
+                        'hitType': 'pageview',
+                        'hitCallback': function() {
+                            console.log('analytics.js done sending data for test property');
+                        }
+
+                    });
+                //end of new tracker
+
                     
-                            ga('send', 'pageview');
-                            ga('consumerTracker.send', 'pageview'); // Send page view for new tracker.
-                        
                 } catch(err) {
                     if (typeof console === 'undefined' || console === null) {
                         var console = { log: function() {} };
@@ -359,17 +406,6 @@
                                     </ul>
 
                                     
-                                        <a href="http://www.visitorlando.com/plan-your-trip/weather/" target="_self">
-                                            <div class="weatherbox">
-                                                
-                                                    <div class="weatherboxsun"></div>
-                                                
-                                                <div class="weatherboxtemp">
-                                                    77°
-                                                </div>
-                                            </div>
-                                        </a>
-                                    
 
                                 </div><!--/.nav-collapse -->
                             </div>
@@ -377,7 +413,7 @@
 <div class="container">
 
 <div id="leftCol" class="col-md-12">
-	<h1>Privacy Policy</h1><p>For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name. </p><p>We collect information about users who register for programs on our site, fill out surveys, request visitor information, enter contests, communicate with us by e-mail, and make purchases on our site. We also track page views and usage patterns. We track e-mail open rates in order to monitor the effectiveness and relevance of our newsletter content. </p><p>Aggregated Information (information that does not personally identify you) may be combined with similar information obtained from other users to help improve our site and services (for example, to learn which pages are visited most or what features are most attractive), and to further our mission of promoting Orlando as a tourist destination. Aggregated Information may occasionally be shared with our advertisers and business partners. </p><p>We may use Personally Identifiable Information collected on VisitOrlando.com to communicate with you about your registration and customization preferences; our Terms of Service&nbsp;and privacy policy; services and products offered by VisitOrlando.com, and our partners; information about travel to Orlando and other topics we think you might find of interest. We reserve the right to share this information with our advertisers and business partners. We do not partner with or have special relationships with any ad server companies. </p><p>Personally Identifiable Information may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. We will use your information only as permitted by law. </p><p>Upon request, we send out free vacation information packages to postal addresses. You will receive only the information, which you requested when you provided us your postal address. </p><h3>Cookies</h3><p>A "cookie" is a small data file transferred by a Web site to your computer's hard drive. When you surf our site, make purchases, request or personalize information, or register yourself for certain services, a cookie may be placed on to your computer. By accepting the cookie(s), it does not give us access to your personal information, but we may use it to identify your computer. This information helps us in tracking user activity and our Web site's useability. There are 2 cookies, "session" cookies and "permanent" cookies. </p><p>"Session" cookies do not stay on your computer after you leave our Web site or close your browser. The information collected permits us to analyze traffic patterns on our site. This can enable us over time to provide a better experience on our site by improving content or personalization and making our site easier to use. </p><p>"Permanent" cookies are those that remain on your computer. They are used to facilitate shopping, personalization and registration services. For example, cookies can keep track of what you have selected to purchase as you continue to shop and allow you to enter your password only once on Web pages where a login is required. You can remove these "permanent" cookies at any time. </p><p>Most browsers automatically accept cookies by default, but you can usually refuse cookies or selectively accept certain cookies by adjusting the preferences in your browser. If you turn off cookies, there may be some features of our site that will not be available to you and some Web pages may not display properly. You can find information on popular browsers and how to adjust your cookie preferences at the following websites: </p><p>Microsoft Internet Explorer: <a href="http://www.microsoft.com/info/cookies.mspx">http://www.microsoft.com/info/cookies.mspx</a> </p><p>Mozilla Firefox: <a href="http://www.mozilla.org/support/firefox/options#privacy">http://www.mozilla.org/support/firefox/options#privacy</a> </p><h3>Web beacons</h3><p>Some of our Web pages and HTML-formatted e-mail newsletters use Web beacons in conjunction with cookies to compile aggregate statistics about Web site usage. A Web beacon is an electronic image, called a single-pixel (1x1) or clear GIF. Web beacons can recognize certain types of information on a visitor's computer, such as a visitor's cookie number, time and date of a page view, and a description of the page where the Web beacon is placed. You may render some Web beacons unusable by rejecting their associated cookies. </p><h3>Your choice to opt out</h3><p>Each time we collect information, the user is given the opportunity to opt out of any e-mail communication from our site. E-mail will not be sent to anyone who has indicated that they do not wish to receive our newsletters. </p><h3>Children</h3><p>VisitOrlando.com does not knowingly collect Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe that VisitOrlando.com has Personally Identifiable Information about anyone under the age of 13, please contact us at <a href="mailto:info@VisitOrlando.com">info@VisitOrlando.com</a>. </p><h3>Changes to Our Privacy Policy</h3><p>From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our privacy policy changes at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. You may prevent your information from being used for any new purposes by e-mailing us at <a href="mailto:info@VisitOrlando.com">info@VisitOrlando.com</a>. </p><p>This policy and the use of this Site are subject to the laws and regulations of the State of Florida. Any claim related to the Site or this policy shall be brought in a federal or state court in Orlando, Florida, within one year after the claim arises. Users of VisitOrlando.com consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. </p><h3>Contact Us</h3><p>Should you have any question regarding the privacy policy or our Web site, or if you feel that this site is not following its stated information policy, you may contact us at: </p><p>VisitOrlando.com<br>6277 Sea Harbor Drive, Ste 400<br>Orlando FL 32821<br>407-363-5823 </p><p><a href="mailto:info@VisitOrlando.com">info@VisitOrlando.com</a>&nbsp; </p><p>We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. </p><p>Updated 3/9/05 </p>
+	<h1>Privacy Policy</h1><p>For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name. </p><p>We collect information about users who register for programs on our site, fill out surveys, request visitor information, enter contests, communicate with us by e-mail, and make purchases on our site. We also track page views and usage patterns. We track e-mail open rates in order to monitor the effectiveness and relevance of our newsletter content. </p><p>Aggregated Information (information that does not personally identify you) may be combined with similar information obtained from other users to help improve our site and services (for example, to learn which pages are visited most or what features are most attractive), and to further our mission of promoting Orlando as a tourist destination. Aggregated Information may occasionally be shared with our advertisers and business partners. </p><p>We may use Personally Identifiable Information collected on VisitOrlando.com to communicate with you about your registration and customization preferences; our Terms of Service&nbsp;and privacy policy; services and products offered by VisitOrlando.com, and our partners; information about travel to Orlando and other topics we think you might find of interest. We reserve the right to share this information with our advertisers and business partners. We do not partner with or have special relationships with any ad server companies. </p><p>Personally Identifiable Information may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. We will use your information only as permitted by law. </p><p>Upon request, we send out free vacation information packages to postal addresses. You will receive only the information, which you requested when you provided us your postal address. </p><h3>Cookies</h3><p>A "cookie" is a small data file transferred by a Web site to your computer's hard drive. When you surf our site, make purchases, request or personalize information, or register yourself for certain services, a cookie may be placed on to your computer. By accepting the cookie(s), it does not give us access to your personal information, but we may use it to identify your computer. This information helps us in tracking user activity and our Web site's useability. There are 2 cookies, "session" cookies and "permanent" cookies. </p><p>"Session" cookies do not stay on your computer after you leave our Web site or close your browser. The information collected permits us to analyze traffic patterns on our site. This can enable us over time to provide a better experience on our site by improving content or personalization and making our site easier to use. </p><p>"Permanent" cookies are those that remain on your computer. They are used to facilitate shopping, personalization and registration services. For example, cookies can keep track of what you have selected to purchase as you continue to shop and allow you to enter your password only once on Web pages where a login is required. You can remove these "permanent" cookies at any time. </p><p>Most browsers automatically accept cookies by default, but you can usually refuse cookies or selectively accept certain cookies by adjusting the preferences in your browser. If you turn off cookies, there may be some features of our site that will not be available to you and some Web pages may not display properly. You can find information on popular browsers and how to adjust your cookie preferences at the following websites: </p><p>Microsoft Internet Explorer: <a href="http://www.microsoft.com/info/cookies.mspx">http://www.microsoft.com/info/cookies.mspx</a> </p><p>Mozilla Firefox: <a href="http://www.mozilla.org/support/firefox/options#privacy">http://www.mozilla.org/support/firefox/options#privacy</a> </p><h3>Web beacons</h3><p>Some of our Web pages and HTML-formatted e-mail newsletters use Web beacons in conjunction with cookies to compile aggregate statistics about Web site usage. A Web beacon is an electronic image, called a single-pixel (1x1) or clear GIF. Web beacons can recognize certain types of information on a visitor's computer, such as a visitor's cookie number, time and date of a page view, and a description of the page where the Web beacon is placed. You may render some Web beacons unusable by rejecting their associated cookies. </p><h3>Your choice to opt out</h3><p>Each time we collect information, the user is given the opportunity to opt out of any e-mail communication from our site. E-mail will not be sent to anyone who has indicated that they do not wish to receive our newsletters. </p><h3>Children</h3><p>VisitOrlando.com does not knowingly collect Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe that VisitOrlando.com has Personally Identifiable Information about anyone under the age of 13, please contact us at <a href="mailto:info@VisitOrlando.com">info@VisitOrlando.com</a>. </p><h3>Changes to Our Privacy Policy</h3><p>From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our privacy policy changes at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. You may prevent your information from being used for any new purposes by e-mailing us at <a href="mailto:info@VisitOrlando.com">info@VisitOrlando.com</a>. </p><p>This policy and the use of this Site are subject to the laws and regulations of the State of Florida. Any claim related to the Site or this policy shall be brought in a federal or state court in Orlando, Florida, within one year after the claim arises. Users of VisitOrlando.com consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. </p><h3>Contact Us</h3><p>Should you have any question regarding the privacy policy or our Web site, or if you feel that this site is not following its stated information policy, you may contact us at: </p><p>VisitOrlando.com<br>6277 Sea Harbor Drive, Ste 400<br>Orlando FL 32821<br>407-541-4301 </p><p><a href="mailto:info@VisitOrlando.com">info@VisitOrlando.com</a>&nbsp; </p><p>We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. </p><p>Updated 3/9/05 </p>
 </div>
 
 </div>
@@ -434,7 +470,7 @@
                                     <div class="languageselect">
                                         <a href="/change-language/" title="Change Language" data-toggle="tooltip" data-placement="bottom">
                                             
-                                                        <img src="http://www.visitorlando.com/includes/images/assets/flags/us_eng.gif">
+                                                        Change Language
                                                 
                                         </a>
                                     </div>
@@ -467,7 +503,7 @@
                             <li><a target="_blank" href="http://www.instagram.com/visitorlando" title="Instagram"><img src="/includes/images/assets/Instagram.gif" class="socialFollowIcon"> </a></li>
                         </ul>
                     </div>
-                            <div class="legal">© 2014 Visit Orlando. &nbsp; All rights reserved.</div>
+                            <div class="legal">© 2015 Visit Orlando. &nbsp; All rights reserved.</div>
                         <!--footer-->
 						
             
@@ -486,6 +522,7 @@
                         'eventLabel': linkName,
                         'eventValue': eventValue // Exit Link
                     });
+
                 }
 
                 // Custom Event / Exit Link Tracking
@@ -521,6 +558,7 @@
                                     'eventLabel': linkName,
                                     'eventValue': eventValue // Exit Link
                                 });
+
                             }
 
                             //Handle Exit Link Events
@@ -547,6 +585,7 @@
                                     'eventValue': eventValue // Exit Link
                                 });
 
+
                             }else{
 
                                 //Handle Print Offer
@@ -572,6 +611,7 @@
                                         'eventLabel': linkInfo,
                                         'eventValue': eventValue // Exit Link
                                     });
+
                                 }
 
                                 if (/(\.exe|\.zip|\.wav|\.mp3|\.mov|\.mpg|\.avi|\.wmv|\.docx?|\.pdf|\.xlsx?)$/i.test($obj.href)) {
@@ -599,6 +639,7 @@
                                         'eventLabel': linkInfo,
                                         'eventValue': eventValue // Exit Link
                                     });
+
                                 }
 
                                 if ($obj.attr("ilid") == "contacts_and_media requests | header_menu"){
@@ -614,6 +655,7 @@
                                         'eventLabel': linkName,
                                         'eventValue': eventValue // Exit Link
                                     });
+
 
                                 }else if ($obj.attr("ilid") == "contact_us_widget | left_col_widget") {
 
@@ -638,8 +680,17 @@
 
                 });
             </script>
+            <!-- Google Tag Manager -->
+            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-K6WV8W"
+                              height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-K6WV8W');</script>
+            <!-- End Google Tag Manager -->
 
-        <script type="text/javascript" language="javascript">
+            <script type="text/javascript" language="javascript">
 	<!-- 
 	 //-->
 	</script>
