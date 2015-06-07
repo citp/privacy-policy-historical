@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the njm.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227014919id_/http%3A//www.njm.com/Information/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the njm.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200906id_/http%3A//www.njm.com/Information/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # New Jersey Manufacturers Insurance Company - Your Privacy Rights
 
-NJM Insurance Group
+##  NJM Insurance Group
 
   * New Jersey Manufacturers Insurance Company
 
@@ -27,7 +27,7 @@ This page consists of two separate sections:
 
 We hope that the information in this page adequately addresses your concerns about NJM's privacy policy. Please let us know if you have any questions or comments.
 
-Customer Privacy Policy Statement
+## Customer Privacy Policy Statement
 
 NJM Insurance Group (made up of New Jersey Manufacturers Insurance Company, New Jersey Re-Insurance Company, New Jersey Indemnity Insurance Company and New Jersey Casualty Insurance Company) recognizes that a fundamental component of the insurer/insured relationship is a customer's trust that the insurer will respect the privacy and confidentiality of the customer's financial information and all aspects of the customer's insurance relationship. NJM Insurance Group is committed to keeping your information secure and confidential.  
 
@@ -50,7 +50,7 @@ With respect to cookies: While logged into an NJM Insurance Group secured site, 
 The goal of this privacy policy is to promote and maintain a commitment to privacy by NJM Insurance Group in its use of customer information. NJM Insurance Group reserves the right to update and modify this statement at any time and will post changes on its website. NJM Insurance Group will continue to monitor itself for compliance of its procedures to protect customer privacy.  
 
 
-Notice of Information Practices
+## Notice of Information Practices
 
 Pursuant to 15 U.S.C. § 1681 et seq. (1982) and N.J.S.A. 17:23A-1 et seq.
 
