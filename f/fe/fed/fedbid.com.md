@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fedbid.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204105128id_/http%3A//www.fedbid.com/tools/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fedbid.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607170107id_/http%3A//www.fedbid.com/tools/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | FedBid
+# Privacy Policy - FedBid
 
 If you have questions or concerns regarding this statement, you should first contact FedBid Client Services by email at [ClientServices@FedBid.com](mailto:clientservices@fedbid.com "Link: mailto:clientservices@fedbid.com"). All capitalized terms are specifically defined terms set forth in FedBid’s Terms of Use.
 
