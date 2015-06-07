@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vividceleb.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130082648id_/http%3A//www.vividceleb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vividceleb.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607172927id_/http%3A//www.vividceleb.com/privacy) for the most accurate reproduction.*
 
 # VIVID CELEB | Terms & Conditions
 
