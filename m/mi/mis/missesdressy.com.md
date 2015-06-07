@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the missesdressy.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701193523id_/http%3A//www.missesdressy.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missesdressy.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607150919id_/http%3A//www.missesdressy.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MissesDressy.com
 
