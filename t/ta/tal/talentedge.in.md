@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the talentedge.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133903id_/http%3A//www.talentedge.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talentedge.in privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607130309id_/http%3A//www.talentedge.in/privacy-policy.php) for the most accurate reproduction.*
 
-# Executive mba distance education | MBA in information technology | Executive mba in material management
+# 
 
 At TALENTEDGE, we are committed to protect the privacy of all those who visit our Website. For Us, your visit is the beginning of our relationship. It is our keenest intent to ensure that you feel confident that the information we collect, and that you choose to share, will be treated with care. We want our customers and potential customers to feel comfortable when visiting our Website and when contacting us through Internet based media.
 
@@ -16,15 +16,18 @@ There are some locations on this Website where the Company has made special prov
 
 From time to time, TALENTEDGE Website may provide links to other websites, not owned or controlled by the Company, that it thinks might be useful or of interest to You. The Company cannot, however, be responsible for the privacy practices used by other website owners or the content or accuracy of those other websites. Links to various other websites do not constitute or imply endorsement by TALENTEDGE of these websites, any products or services described on these sites, or of any other material contained in them.
 
-TALENTEDGE has adopted and adheres to stringent security standards designed to protect non-public personal information at this Website against accidental or unauthorized access or disclosure. Among the safeguards that TALENTEDGE has developed for this Website are administrative, physical and technical barriers that together form a protective firewall around the information stored at this site. 
+TALENTEDGE has adopted and adheres to stringent security standards designed to protect non-public personal information at this Website against accidental or unauthorized access or disclosure. Among the safeguards that TALENTEDGE has developed for this Website are administrative, physical and technical barriers that together form a protective firewall around the information stored at this site.
 
-**Copyright Notice**  
+**Copyright Notice**
+
 All text, images, and other materials, thus communicable via both digital, print or any other media, on this Website are subject to the copyrights and other intellectual property rights of TALENTEDGE. Ownership of the copyrights in the selection, coordination and arrangement of the materials on this Website rests with the Company. These materials thus shall not be copied for commercial use or distribution, nor these materials shall be modified or reposted to other sites.
 
-**Trademark Notice**  
-All trademarks displayed on this Website are subject to the trademark rights of the Company. The unauthorized use of any trademark displayed on this Website is strictly prohibited. 
+**Trademark Notice**
 
-**Disclaimer**  
+All trademarks displayed on this Website are subject to the trademark rights of the Company. The unauthorized use of any trademark displayed on this Website is strictly prohibited.
+
+**Disclaimer**
+
 Any information given by us on a specific training programme or franchisee model or on such other information pertaining to Company's training business are given on as is basis without any warranty or representation of any kind. The Company does not represent or warrant that they are accurate, complete or correct. The fees or other expenses indicated are subject to change without any notice. The Company is also not responsible for any loss or damage resulting from misuse of your personally identifiable information. Unauthorized medication of any information on this Website shall result in criminal prosecution.
 
-TALENTEDGE may change this Policy from time to time. The Company encourages You to periodically reread this Policy to see if there have been any changes that may affect you. This Statement is not intended to and does not create any contractual or other legal rights in or on behalf of any party. 
+TALENTEDGE may change this Policy from time to time. The Company encourages You to periodically reread this Policy to see if there have been any changes that may affect you. This Statement is not intended to and does not create any contractual or other legal rights in or on behalf of any party.  
