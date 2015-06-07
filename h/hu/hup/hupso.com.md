@@ -1,20 +1,24 @@
-> *The following text is extracted and transformed from the hupso.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626023253id_/http%3A//www.hupso.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hupso.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607215303id_/http%3A//www.hupso.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hupso.com
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
+### Your Consent
+
+By using this website, widgets (share buttons), and tools, you consent to our privacy policy. 
+
 ### Log Files
 
-Like many other Web sites, Hupso.com makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Like many other Web sites, Hupso.com makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. We may disclose certain information and share log data with third parties for behavioral advertising, industry analysis, demographic profiling, and other purposes.
 
 ### Cookies and Web Beacons
 
-Hupso.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser including, but not limited to, IP address, web browser version, operating sistem, time of visit.
+Hupso.com, widgets and tools may use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser including, but not limited to, IP address, web browser version, operating sistem, time of visit. By using our widgets (share buttons) on other websites, you may be required (in certain countries) to obtain explicit permissions from your visitors for using third-party cookies.
 
 ### Third Party Cookies
 
-Some of our partners may use cookies and web beacons on our site. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see or to gather other statistics.
+Some of our partners may use cookies and web beacons on our site or inside our widgets (share buttons). They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see or to gather other statistics.
 
 Hupso.com has no access to or control over these cookies that are used by third-party advertisers.
 
