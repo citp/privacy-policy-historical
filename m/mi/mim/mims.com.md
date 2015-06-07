@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mims.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115005018id_/http%3A//imaging.cmpmedica.com/all/UBMMedica_Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mims.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607075418id_/http%3A//imaging.cmpmedica.com/all/UBMMedica_Privacy_Statement.html) for the most accurate reproduction.*
 
 # PRIVACY STATEMENT UBM MEDICA LLC
 
