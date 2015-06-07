@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mheducation.ca privacy policy that was archived on 2014-11-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141104193158id_/http%3A//www.mheducation.ca/privacy/index.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mheducation.ca privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607140626id_/http%3A//www.mheducation.ca/privacy/index.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 <meta charset="UTF-8">
@@ -11,7 +11,7 @@
 <!--Use default IE version-->
 <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE">
 <!--Shared SCRIPTS for all divisions--->
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://qbaka.r.worldssl.net/reporting.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <!--script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script-->
 
 <script type="text/javascript" src="http://www.mheducation.ca/web_scripts/global.js"></script>
@@ -43,26 +43,31 @@
 
     
     </script>
+
+
+<script>
+/*Qbaka JS check*/
+window.qbaka||function(e,t){var n=[];var r=e.qbaka=function(){n.push(arguments)};e.__qbaka_eh=e.onerror;e.onerror=function(){r("onerror",arguments);if(e.__qbaka_eh)try{e.__qbaka_eh.apply(e,arguments)}catch(t){}};e.onerror.qbaka=1;r.sv=2;r._=n;r.log=function(){r("log",arguments)};r.report=function(){r("report",arguments,new Error)};var i=t.createElement("script"),s=t.getElementsByTagName("script")[0],o=function(){s.parentNode.insertBefore(i,s)};i.type="text/javascript";i.async=!0;i.src=("https:"==t.location.protocol?"https:":"http:")+"//qbaka.r.worldssl.net/reporting.js";typeof i.async=="undefined"&&t.addEventListener?t.addEventListener("DOMContentLoaded",o):o();r.key="d81e03a2940325a4b70b2b0bf370c178"}(window,document);qbaka.options={autoStacktrace:1,trackEvents:1};
+</script>
+
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 
 
 
 <link rel="alternate" type="application/rss+xml" title="McGraw-Hill Ryerson » Feed" href="http://www.mheducation.ca/feed/">
 <link rel="alternate" type="application/rss+xml" title="McGraw-Hill Ryerson » Comments Feed" href="http://www.mheducation.ca/comments/feed/">
-<link rel="stylesheet" id="form-manager-css-css" href="http://www.mheducation.ca/wp-content/plugins/wordpress-form-manager/css/style.css?ver=3.8.3" type="text/css" media="all">
-<link rel="stylesheet" id="ffg_style-css" href="http://www.mheducation.ca/wp-content/plugins/facebook-feed-grabber/style.css?ver=3.8.3" type="text/css" media="all">
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js?ver=3.8.3"></script>
+<link rel="stylesheet" id="form-manager-css-css" href="http://www.mheducation.ca/wp-content/plugins/wordpress-form-manager/css/style.css?ver=4.1" type="text/css" media="all">
+<link rel="stylesheet" id="ffg_style-css" href="http://www.mheducation.ca/wp-content/plugins/facebook-feed-grabber/style.css?ver=4.1" type="text/css" media="all">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js?ver=4.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var fm_user_I18n = {"ajaxurl":"http:\/\/www.mheducation.ca\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.mheducation.ca/wp-content/plugins/wordpress-form-manager/js/userscripts.js?ver=3.8.3"></script>
+<script type="text/javascript" src="http://www.mheducation.ca/wp-content/plugins/wordpress-form-manager/js/userscripts.js?ver=4.1"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.mheducation.ca/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.mheducation.ca/wp-includes/wlwmanifest.xml"> 
-<link rel="prev" title="Vision, Mission, Culture &amp; Values" href="http://www.mheducation.ca/about-us/vision-mission-culture-values/">
-<link rel="next" title="Accessibility" href="http://www.mheducation.ca/customer-care/accessibility/">
-<meta name="generator" content="WordPress 3.8.3">
+<meta name="generator" content="WordPress 4.1">
 <link rel="canonical" href="http://www.mheducation.ca/privacy/">
 <link rel="shortlink" href="http://www.mheducation.ca/?p=2369">
 
@@ -229,7 +234,7 @@ $j(document).ready(function() {
 	$j('body').on('click', '.product_buy_now', function (e) {
 		e.preventDefault();
 
-		if (shop_status == "m") {
+				if (shop_status == "m") {
 			alert("Service is not available at this moment.  Please try again later.");
 		} else {
 
@@ -253,14 +258,15 @@ $j(document).ready(function() {
 			if (repeat_check <= 1) {				
 				$j(".shp_wrapper").slideDown(function() {
 										
-					shopping_cart.addItem(clickedItemValue, false);			
-		
-					//Display subsitute dialog if there's a need
-					if (shopping_cart.callback_checker.type == "sub") {								
-						sub_isbn(shopping_cart.callback_checker);
-					}
+						shopping_cart.addItem(clickedItemValue, false);			
+			
+						//Display subsitute dialog if there's a need
+						if (shopping_cart.callback_checker.type == "sub") {								
+							sub_isbn(shopping_cart.callback_checker);
 
-											
+						}
+
+												
 				});
 			}
 		});
@@ -399,14 +405,14 @@ $j(function() {
         <div id="couponlist"></div>
       		<a href="https://estore.mheducation.ca/cart"><div class="shp_checkout">checkout</div></a>
         <form id="checkoutForm" method="post" action="https://estore.mheducation.ca/cart" title="Go to the cart page to prepare for checkout.">
-        	<input type="hidden" name="shp_session" value="146c5a848da65a3e1ae3f068d96e939e">
+        	<input type="hidden" name="shp_session" value="4a21ecc1a436134837716140b8520b3a">
         </form>
   	</div>
 
 	<div class="shp_close">close X</div>
     
 </div>    
-<div id="sid" style="display:none;">Q_VURi2Ej7gNGrNWtd3XpeQkjXg_1vHMF50FI4H25nk</div>
+<div id="sid" style="display:none;">VAMPQDvQaCHBCuA7su9uDR5ju4p0QgnASvYC3ODhGyI</div>
 
             </div>
             <div id="header_logo"><a href="/"><img src="/web_images/mhe_logos/MHE-RYERSON-red-rgb_bolded_185.png" alt="McGraw-Hill Ryerson" width="185" height="52" border="0"></a></div>
@@ -527,7 +533,7 @@ ______I do not want to be contacted by other parts of McGraw-Hill Education thro
 
 <div class="footer_copy"> <a href="/customer-care/accessibility/" title="Accessibility">Accessibility</a>  |  <a href="http://www.mheducation.com/" title="McGraw-Hill Education" target="_blank">McGraw-Hill Education</a> | <a href="http://www.mheducation.ca" title="McGraw-Hill Ryerson" target="_blank">McGraw-Hill Ryerson</a> | <a href="http://www.mheducation.com/terms-use" title="Terms of Use" target="_blank">Terms of Use</a> | <a href="http://www.mheducation.ca/privacy/index.php" title="Privacy and Cookie Notice" target="_blank">Privacy and Cookie Notice</a>  |  <a href="https://adobeformscentral.com/?f=mRuWctcLn0NNXb7F3TS4pg" target="_blank">Report Piracy</a><br>
 <br>
-<span class="footer_copyright">Copyright © 2014 McGraw-Hill Ryerson Ltd. All rights reserved.</span>
+<span class="footer_copyright">Copyright © 2015 McGraw-Hill Ryerson Ltd. All rights reserved.</span>
 </div>
 
 
