@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the we-energies.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227142248id_/http%3A//www.we-energies.com/home/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the we-energies.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607040015id_/http%3A//www.we-energies.com/home/privacy_policy.htm) for the most accurate reproduction.*
 
 # We Energies | Website Privacy and Security
 
