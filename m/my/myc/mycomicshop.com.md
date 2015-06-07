@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycomicshop.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203102759id_/http%3A//www.mycomicshop.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycomicshop.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074130id_/https%3A//www.mycomicshop.com/help/privacy) for the most accurate reproduction.*
 
 # Comic Books - Privacy and Security
 
@@ -45,5 +45,5 @@ If you choose to allow us to reuse your credit card information, your informatio
 If you have a problem or a question about anything not sufficiently covered by this document, you may call us at (817)860-7827, email [customerservice@mycomicshop.com](mailto:customerservice@mycomicshop.com), or write to:
 
 Lone Star Comics  
-511 E. Abram  
+1800 Timberlake Dr.  
 Arlington, TX 76010
