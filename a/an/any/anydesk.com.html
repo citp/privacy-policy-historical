@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the anydesk.com privacy policy that was archived on 2014-08-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140829020422id_/http%3A//anydesk.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the anydesk.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607200231id_/http%3A//anydesk.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 		<title>AnyDesk - Privacy Statement</title>
 		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 		<meta http-equiv="content-language" content="en">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
 		
 		
 
@@ -37,6 +38,8 @@
 		<script type="text/javascript" src="/_static/scripts/jquery-2.1.0.min.js"></script>
 		<script type="text/javascript" src="/_static/scripts/jquery.selectric.min.js"></script>
 		<script type="text/javascript" src="/_static/scripts/jquery.sharre.min.js"></script>
+		<script type="text/javascript" src="/_static/scripts/jquery.slicknav.min.js"></script>
+		<script type="text/javascript" src="/_static/scripts/hyphenator.js"></script>
 		
 		
 		
@@ -70,9 +73,13 @@
 				$( "#footer-share-facebook" ).sharrre( { share : { facebook   : true }, click : onShareClick.curry( "facebook"   ), enableHover : false } );
 				$( "#footer-share-twitter"  ).sharrre( { share : { twitter    : true }, click : onShareClick.curry( "twitter"    ), enableHover : false } );
 				$( "#footer-share-plusone"  ).sharrre( { share : { googlePlus : true }, click : onShareClick.curry( "googlePlus" ), enableHover : false, urlCurl : "/sharrre.php" } );
+				$( "#menu" ).slicknav( { prependTo : "#menu", label : "" } );
+				Hyphenator.run();
 			} );
 		</script>
 		<link rel="stylesheet" href="/_static/style/main.css" type="text/css">
+		<link rel="stylesheet" href="/_static/style/rwdgrid.css" type="text/css">
+		<link rel="stylesheet" href="/_static/style/lang/en.css" type="text/css">
 		
 		<style type="text/css">
 			h3
@@ -86,6 +93,7 @@
 				text-align: justify;
 			}
 		</style>
+		<!--[if lte IE 9]><link rel="stylesheet" href="/_static/style/main-ie8.css" type="text/css" /><![endif]-->
 		
 	</head>
 	<body>
@@ -94,9 +102,9 @@
 
 
 
-			<div id="head">
+			<div id="head" class="">
 				<div id="head-content">
-					<div id="logo">
+					<div id="logo" class="grid-m-3">
 						<h1>
 							<a href="./remote-desktop"><img src="/_static/img/anydesk.png" alt="AnyDesk"></a>
 						</h1>
@@ -276,7 +284,7 @@
 
 
 			<div style="clear: both"></div>
-			<div id="footer">
+			<div id="footer" class="grid-12">
 				<div id="footer-content">
 					<ul id="footer-pages">
 						<li><a href="./remote-desktop#content">Overview</a></li>
@@ -286,10 +294,12 @@
 						<li><a href="./order" class="buy">Order</a></li>
 					</ul>
 					<ul id="footer-contact">
+						<li><a href="https://my.anydesk.com/">my AnyDesk</a></li>
 						<li><a href="http://support.anydesk.com/">Help &amp; Support</a></li>
 						
 						<li><a href="./press">Press</a></li>
 						<li><a href="./contact">Contact</a></li>
+						<li><a href="./terms">Terms / EULA</a></li>
 						<li><a href="./privacy">Privacy Statement</a></li>
 					</ul>
 					<form id="footer-languages" action="">
@@ -342,7 +352,7 @@
 					<div class="clearline"></div>
 					<div id="copyright">
 						Made with passion in Stuttgart, Germany 〜
-						Copyright © 2014 AnyDesk Software GmbH 〜
+						Copyright © 2015 AnyDesk Software GmbH 〜
 						<a href="./contact#imprint">Imprint</a>
 					</div>
 				</div>
