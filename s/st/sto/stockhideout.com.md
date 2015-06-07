@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stockhideout.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127180520id_/http%3A//www.stockhideout.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockhideout.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607195524id_/http%3A//www.stockhideout.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Stockhideout
+# Privacy Policy - Stockhideout
 
 At StockHideout.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by StockHideout.com and how it is used.
 
@@ -12,11 +12,11 @@ StockHideout.com does use cookies to store information about visitors preference
 
 **DoubleClick DART Cookie:**
 
-\- Google, as a third party vendor, uses cookies to serve ads on StockHideout.com.
+– Google, as a third party vendor, uses cookies to serve ads on StockHideout.com.
 
-\- Google’s use of the DART cookie enables it to serve ads to users based on their visit to StockHideout.com and other sites on the Internet.
+– Google’s use of the DART cookie enables it to serve ads to users based on their visit to StockHideout.com and other sites on the Internet.
 
-\- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+– Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
 **Some of our advertising partners may use cookies on our site. Our advertising partners include but are not limited to:**
 
