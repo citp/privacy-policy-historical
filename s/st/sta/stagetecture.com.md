@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stagetecture.com privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924224147id_/http%3A//stagetecture.com/contact/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stagetecture.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152008id_/http%3A//stagetecture.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
@@ -12,7 +12,8 @@ Stagetecture, LLC is a home decor, organization, DIY lifestyle blog website. It 
 
 Your privacy is important to Stagetecture.com.  This privacy statement provides information about the personal information that Stagetecture.com. under management of Stagetecture.com. collects, and the ways in which Http//stagetecture.com under management of Stagetecture.com. uses that personal information.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).  To  
+opt-out of this type of advertising, you can visit [AboutAds.info](http://www.aboutads.info/choices.)
 
 ### **Personal information collection**
 
