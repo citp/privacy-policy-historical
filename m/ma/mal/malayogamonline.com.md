@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the malayogamonline.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051020id_/http%3A//www.malayogamonline.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malayogamonline.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607130352id_/http%3A//www.malayogamonline.com/privacy_policy) for the most accurate reproduction.*
 
 # Malayogamonline.com : malayalee matrimonials
 
@@ -28,7 +28,23 @@ If you wish to make a payment towards a paid registration plan, some additional 
 
   * How do we use the information we collect/track?
 
-Malayogam collects information from you to ensure that we are able to fulfill your requirements and deliver a Personalised experience. Your profile details may also be published in our matrimonial magazine "My Matrimonials" to ensure enhanced response for your profile.
+Malayogam collects information from you to ensure that we are able to fulfill your requirements and deliver a Personalised experience. Your profile details may also be published in our matrimonial magazine "My Matrimonials" to ensure enhanced response for your profile. 
+
+We use one or more of these features to advertise online:
+
+    * Remarketing
+    * Interest Categories
+    * Similar Audiences
+    * Other Types of Interest-Based Advertising
+    * Demographic And Location Targeting
+  
+Third-party vendors, including Google, may show our ads on sites across the Internet.
+
+We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to our website.
+
+If you want to opt out of Google's use of cookies, visit Google's [Ads Settings](http://www.google.com/settings/ads).  
+If you want to opt out of DoubleClick's use of cookies, visit the [DoubleClick opt-out page](https://www.google.com/settings/ads/onweb#display_optout).  
+If you want to opt out of a third-party vendor's use of cookies, visit the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp). 
 
   * With whom do we share the information we collect/track?
 
