@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the upsight.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118182711id_/http%3A//www.upsight.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upsight.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144124id_/http%3A//www.upsight.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Upsight
+# Privacy Policy - Upsight
 
 **Effective Date: March 17, 2014**  
 This privacy policy (“Policy“) explains how personal information is collected, used, and disclosed by Upsight, Inc., a Delaware corporation (“Upsight“, “we” or “us“), when you access the Upsight web site at www.Upsight.com (the “Site“) or interact with the Upsight analytics and marketing platform (the “Upsight Platform“). The Upsight Platform provides tools to application providers (“Publishers”) to enable them to better understand and communicate with the users of their mobile applications (“Applications”) and to serve advertisements (“Ads“) through their Applications from advertisers that are part of the Upsight ad network or other third-party ad networks (“Advertisers“). The Site, Upsight Platform, and the serving of Ads are collectively referred to as the “Services.” If you do not agree to the terms of this Policy, you must terminate your use of the Services.
