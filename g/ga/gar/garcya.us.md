@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the garcya.us privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121094548id_/http%3A//garcya.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garcya.us privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607153418id_/http%3A//garcya.us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Web Design Blog Web Design Blog
+# Privacy Policy - Web Design Blog
 
 Privacy Policy for [Garcya.us/blog](http://garcya.us/blog)
 
