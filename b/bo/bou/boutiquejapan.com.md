@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boutiquejapan.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126132126id_/http%3A//boutiquejapan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boutiquejapan.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608000310id_/http%3A//boutiquejapan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Boutique Japan
 
