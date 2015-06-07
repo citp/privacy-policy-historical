@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tourfactory.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702073630id_/http%3A//tourfactory.com/company/realtyprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tourfactory.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074254id_/http%3A//www.tourfactory.com/company/realtyprivacy.asp) for the most accurate reproduction.*
 
 # TourFactory :: Realty Privacy
 
@@ -69,7 +69,7 @@ From time-to-time our site requests information from users via surveys or contes
 
 ### Tell-A-Friend
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. Home Debut, Inc. will automatically send the friend a one-time email inviting them to visit the site. Home Debut, Inc. stores this information for the sole purpose of sending this one-time email. The friend may contact Home Debut, Inc. at [www.homedebut.com ](http://www.homedebut.com/) or [www.tourfactory.com](http://www.tourfactory.com/)to request the removal of this information from their database. 
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. Home Debut, Inc. will automatically send the friend a one-time email inviting them to visit the site. Home Debut, Inc. stores this information for the sole purpose of sending this one-time email. The friend may contact Home Debut, Inc. at [www.homedebut.com ](http://www.homedebut.com/) or [www.tourfactory.com](http://www.tourfactory.com/) to request the removal of this information from their database. 
 
 ### Security
 
