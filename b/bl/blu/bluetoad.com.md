@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluetoad.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125014909id_/http%3A//bluetoadpublishing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluetoad.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607160144id_/http%3A//bluetoadpublishing.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BlueToad
 
