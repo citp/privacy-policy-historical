@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inderscience.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222144033id_/http%3A//www.inderscience.com/info/ingeneral/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inderscience.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607081151id_/http%3A//www.inderscience.com/info/ingeneral/privacy.php) for the most accurate reproduction.*
 
-# Inderscience Publishers: publishers of distinguished academic, scientific and professional journals
+# Inderscience Publishers - linking academia, business and industry through research
 
 [Home](http://www.inderscience.com/index.php) > Privacy and cookies statement
 
@@ -61,6 +61,7 @@ Username and userid (expires two hours after login)
 
   * Full-text access and authentication - This cookie is essential for reading full-text articles   
 Username and userid (expires two hours after login)
+  * Atypon, who provide access to Inderscience articles at [www.inderscienceonline.com](http://www.inderscienceonline.com/), also use session cookies on that website to provide customised features whilst you navigate the website. These session cookies will be deleted from your computer when you close your browser.
 
   
  | 
@@ -82,4 +83,4 @@ In many cases these cookies are used to generate identical information to Google
 
 The above information may be subject to change, so we recommend that you return periodically to review our latest privacy and cookie statement.
 
-_Last updated: 6 February 2014_
+_Last updated: 9 May 2015_
