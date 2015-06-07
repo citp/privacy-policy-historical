@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giphy.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227131030id_/http%3A//giphy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giphy.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607122753id_/http%3A//giphy.com/privacy) for the most accurate reproduction.*
 
 # Search Animated GIFs on the Web - Giphy
 
