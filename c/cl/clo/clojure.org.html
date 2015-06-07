@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the clojure.org privacy policy that was archived on 2014-11-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141117161837id_/http%3A//clojure.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clojure.org privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607141007id_/http%3A//clojure.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -11,16 +11,16 @@
 <link rel="alternate" title="clojure : privacy - Edits" href="http://clojure.org/page/xml/privacy?v=rss_2_0" type="application/rss+xml">
 <link rel="microsummary" href="/page/microsummary/privacy/edits">
 <link rel="microsummary" href="/page/microsummary/privacy/messages">
-<script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript">
+<script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script type="text/javascript">
   
 if (typeof ws === 'undefined') ws = {};
-if (typeof ws.context === 'undefined') ws.context = {};
 ws.context = {
   instance: {
     id: '1',
     url: 'wikispaces.com',
     isMain: true,
-    supportsGoogleDocs: false
+    supportsGoogleDocs: false,
+    isTesClassroom: false,
   },
   user: {
     id: '',
@@ -28,7 +28,8 @@ ws.context = {
     status: '',
     locale: 'en',
     imageUrlPrefix: 'http://www.wikispaces.com/i/user_none_',
-    pagesVisited: null,
+    isTeacher: false,
+    canAdministerWiki: false,
   },
   wiki: {
     id: '763913',
@@ -38,6 +39,7 @@ ws.context = {
     isClassroom: false,
     isTesClassroom: false
     ,defaultSpaceId: 763913
+    ,isWwwWiki: false
   },
   project: {
     id: '763913',
@@ -46,11 +48,11 @@ ws.context = {
   space: {
     id: '763913',
     name: 'clojure',
-    isDefaultSpace: true
+    isDefaultSpace: true,
+    isDefaultTemplate: false
   },
 
   environment_name: 'prod',
-  userCanAdministerWiki: false,
 
   path: {
     object: 'page',
@@ -61,6 +63,7 @@ ws.context = {
 
   settings: {
     main_domain: 'wikispaces.com',
+    session_url: 'https://session.wikispaces.com/1/',
     asset_url_prefix: 'http://www.wikispaces.com',
     beta_features: false,
     isMobileSite: false,
@@ -70,7 +73,7 @@ ws.context = {
     isDialog: false,
     pwin: ''
   },
-  clockSkewMillis: 1416241117883 - ((window.performance && window.performance.timing.responseStart > 0) ? window.performance.timing.responseStart : (new Date()).getTime())
+  clockSkewMillis: 1433686207389 - ((window.performance && window.performance.timing.responseStart > 0) ? window.performance.timing.responseStart : (new Date()).getTime())
 }
 
 
@@ -97,24 +100,7 @@ var wikispaces_isUploadCapable = ws.context.settings.isUploadCapable;
 var wikispaces_can_discuss = ws.context.settings.can_discuss;
 var wikispaces_has_gdocs = ws.context.settings.has_gdocs;
 
-</script>
-<script type="text/template" id="dialog-template">
-<div class="modal fade" role="dialog" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-        <h4 class="modal-title"><%= header %></h4>
-      </div>
-      <div class="modal-body">
-        <%= body %>
-      </div>
-    </div>
-  </div>
-</div>
-</script>
-
-	<title>Clojure - privacy</title>
+</script>	<title>Clojure - privacy</title>
 	<link rel="icon" href="/space/showimage/favicon.png">
 	<link rel="shortcut icon" href="/space/showimage/favicon.png">
 	<!--<link rel="stylesheet" href="http://www.wikispaces.com/s/nogz/1v8qv98z-theme_common.css" type="text/css" />-->
@@ -126,12 +112,10 @@ var wikispaces_has_gdocs = ws.context.settings.has_gdocs;
 		#wsMainEditor_external {position: fixed !important; top: 0 !important;}
 	</style>
 <link rel="stylesheet" href="http://clojure.org/stylesheet/view/221886338-217420326D.css" type="text/css">
-<link rel="stylesheet" href="http://www.wikispaces.com/s/nogz/6zx423j5-internal-bootstrap.css" type="text/css">
-<link rel="stylesheet" href="http://www.wikispaces.com/s/nogz/k2j5qjx7-internal.css" type="text/css">
-<script src="http://www.wikispaces.com/s/nogz/v9z75x0v-common.min.js" type="text/javascript"></script>
-<!-- start Mixpanel --><script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
-for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
-mixpanel.init("4befd1d5600e4becd938beae1be02db5");</script><!-- end Mixpanel -->
+<link rel="stylesheet" href="http://www.wikispaces.com/s/nogz/9q897620-internal-bootstrap.css" type="text/css">
+<link rel="stylesheet" href="http://www.wikispaces.com/s/nogz/vz033906-internal.css" type="text/css">
+<script src="http://www.wikispaces.com/s/nogz/j91xzz3x-top.min.js" type="text/javascript"></script>
+
 <script type="text/javascript">
   var _gaq = _gaq || [];
 
@@ -144,11 +128,10 @@ mixpanel.init("4befd1d5600e4becd938beae1be02db5");</script><!-- end Mixpanel -->
   _gaq.push(['_gat._anonymizeIp']);
   _gaq.push(['_setDomainName', 'wikispaces.com']);
   _gaq.push(['_setAllowLinker', true]);
-  _gaq.push(['_trackPageview']);
-
   _gaq.push(['_setCustomVar', 2, 'Authenticated', 'Guest', 2]);
+  _gaq.push(['_trackPageview']);
 </script></head>
-<body id="privacy"><a href="#WikiContent" class="hidden sr-only sr-only-focusable">Skip to main content</a><div id="js-fixed-header-holder"><div class="WikispacesContent WikispacesBs3" role="banner">
+<body id="privacy"><a href="#WikiContent" class="hidden sr-only sr-only-focusable">Skip to main content</a><div id="js-fixed-header-holder" class="fixed"><div class="WikispacesContent WikispacesBs3" role="banner">
       
     <div class="ws-main-top-nav visible-xs">
     <div class="navbar navbar-static-top" style="margin-bottom: 0;">
@@ -172,7 +155,7 @@ mixpanel.init("4befd1d5600e4becd938beae1be02db5");</script><!-- end Mixpanel -->
 
           <span class="divider">|</span>
         
-        <span class="WikiInternalHeaderNavMenuArea"><a class="js-help-trigger" rel="nofollow" href="http://help.wikispaces.com/">Help</a></span>
+        <span class="WikiInternalHeaderNavMenuArea"><a class="js-help-trigger" rel="nofollow" href="http://helpcenter.wikispaces.com/">Help</a></span>
 
         <span class="divider">|</span>
       
@@ -203,7 +186,7 @@ mixpanel.init("4befd1d5600e4becd938beae1be02db5");</script><!-- end Mixpanel -->
 
           <span class="divider">|</span>
         
-        <span class="WikiInternalHeaderNavMenuArea"><a class="js-help-trigger" rel="nofollow" href="http://help.wikispaces.com/">Help</a></span>
+        <span class="WikiInternalHeaderNavMenuArea"><a class="js-help-trigger" rel="nofollow" href="http://helpcenter.wikispaces.com/">Help</a></span>
 
         <span class="divider">|</span>
       
@@ -259,7 +242,7 @@ mixpanel.init("4befd1d5600e4becd938beae1be02db5");</script><!-- end Mixpanel -->
     <button type="button" class="btn btn-default btn-sm previous"><i class="fa fa-arrow-left"></i></button>
     <button type="button" class="btn btn-default btn-sm next"><i class="fa fa-arrow-right"></i></button>
   </div>
-  <% if (ws.context.userCanAdministerWiki && !ws.comments.Manager.readOnly) { %>
+  <% if (ws.context.user.canAdministerWiki && !ws.comments.Manager.readOnly) { %>
   <div class="pull-right">
     <button type="button" class="btn btn-default btn-sm remove">Remove</button>
   </div>
@@ -271,7 +254,7 @@ mixpanel.init("4befd1d5600e4becd938beae1be02db5");</script><!-- end Mixpanel -->
 <script type="text/template" id="comment-content-template">
 <div class="ws-box commentView">
   <div class="comment-close">
-    <button type="button" class="closeme close" aria-hidden="true">&times;</button>
+    <button type="button" class="closeme close" aria-hidden="true"><i class="fa fa-times"></i></button>
   </div>
   <div class="commentHeader">
     <p class="ws-stream-meta command-context">
@@ -284,7 +267,7 @@ mixpanel.init("4befd1d5600e4becd938beae1be02db5");</script><!-- end Mixpanel -->
       <% } else { %>
         <%- smartDate %>
       <% } %>
-      <% if (ws.context.userCanAdministerWiki) { %>
+      <% if (ws.context.user.canAdministerWiki && ws.comments.Manager.readOnly) { %>
         <i class="fa fa-trash-o contextual-command delete ws-tip" title="Delete Comment"></i>
       <% } %>
     </p>
@@ -308,7 +291,7 @@ mixpanel.init("4befd1d5600e4becd938beae1be02db5");</script><!-- end Mixpanel -->
           <% } else { %>
             <%- smartDate %>
           <% } %>
-          <% if (ws.context.userCanAdministerWiki) { %>
+          <% if (ws.context.user.canAdministerWiki) { %>
           <i class="fa fa-trash-o contextual-command delete-reply ws-tip" title="Delete Reply"></i>
           <% } %>
           </p>
@@ -331,7 +314,7 @@ mixpanel.init("4befd1d5600e4becd938beae1be02db5");</script><!-- end Mixpanel -->
             <button type="button" class="btn btn-default btn-sm pull-right toggle-monitor ws-tip" title="You are not monitoring replies."><i class="fa fa-eye"></i></button>
             <% } %>
           <% } %>
-          <% if (ws.context.userCanAdministerWiki) { %>
+          <% if (ws.context.user.canAdministerWiki) { %>
             <% if (locked) { %>
             <button type="button" class="btn btn-default btn-sm pull-right toggle-lock ws-tip active" title="Replies are not allowed."><i class="fa fa-lock"></i></button>
             <% } else { %>
@@ -350,7 +333,7 @@ mixpanel.init("4befd1d5600e4becd938beae1be02db5");</script><!-- end Mixpanel -->
     <button type="button" class="btn btn-default btn-sm previous"><i class="fa fa-arrow-left"></i></button>
     <button type="button" class="btn btn-default btn-sm next"><i class="fa fa-arrow-right"></i></button>
   </div>
-  <% if (ws.context.userCanAdministerWiki && !ws.comments.Manager.readOnly) { %>
+  <% if (ws.context.user.canAdministerWiki && !ws.comments.Manager.readOnly) { %>
   <div class="pull-right">
     <button type="button" class="btn btn-default btn-sm remove">Remove</button>
   </div>
@@ -364,7 +347,7 @@ mixpanel.init("4befd1d5600e4becd938beae1be02db5");</script><!-- end Mixpanel -->
 <div class="ws-box commentView">
   <div class="commentComposer">
     <div class="comment-close">
-      &nbsp;<button type="button" class="close closeme" aria-hidden="true">&times;</button>
+      &nbsp;<button type="button" class="close closeme" aria-hidden="true"><i class="fa fa-times"></i></button>
     </div>
     <div class="commentHeader">
       <p class="ws-stream-meta command-context">
@@ -388,7 +371,7 @@ mixpanel.init("4befd1d5600e4becd938beae1be02db5");</script><!-- end Mixpanel -->
     <button type="button" class="btn btn-default btn-sm previous"><i class="fa fa-arrow-left"></i></button>
     <button type="button" class="btn btn-default btn-sm next"><i class="fa fa-arrow-right"></i></button>
   </div>
-  <% if (ws.context.userCanAdministerWiki && !ws.comments.Manager.readOnly) { %>
+  <% if (ws.context.user.canAdministerWiki && !ws.comments.Manager.readOnly) { %>
   <div class="pull-right">
     <button type="button" class="btn btn-default btn-sm remove">Remove</button>
   </div>
@@ -415,7 +398,7 @@ mixpanel.init("4befd1d5600e4becd938beae1be02db5");</script><!-- end Mixpanel -->
   
     <h1 class="pageTitle"><a href="/privacy">privacy</a></h1>
       <div class="btn-group pull-right">
-          <span class="btn btn-default disabled tipme" title="you do not have permission to edit this page"><i class="fa fa-pencil fa-fw"></i> Edit</span>          <a class="btn btn-default tipme" title="no discussion posts" href="/page/messages/privacy"><i class="fa fa-comments fa-fw"></i> 0</a>          <a class="btn btn-default tipme" title="view 1 revision" href="/page/history/privacy"><i class="fa fa-clock-o fa-fw"></i> 1</a>          <a class="btn btn-default ws-btn-more dropdown-toggle tipme" title="more options" href="/page/menu/privacy"><i class="icon-height-only fa-fw"></i>…</a>        <ul class="ws-more-menu dropdown-menu dropdown-menu-right">
+          <span class="btn btn-default disabled tipme" title="you do not have permission to edit this page"><i class="fa fa-pencil fa-fw"></i> Edit</span>          <a class="btn btn-default tipme" title="no discussion posts" href="/privacy#discussion"><i class="fa fa-comments fa-fw"></i> 0</a>          <a class="btn btn-default tipme" title="view 1 revision" href="/page/history/privacy"><i class="fa fa-clock-o fa-fw"></i> 1</a>          <a class="btn btn-default ws-btn-more dropdown-toggle tipme" title="more options" href="/page/menu/privacy"><i class="icon-height-only fa-fw"></i>…</a>        <ul class="ws-more-menu dropdown-menu dropdown-menu-right">
               <li class=" dropdown"><a class=" ws-tag-dropdown-toggle" href="/page/tags/privacy"><span class="pull-right">0</span> <i class="fa fa-tag fa-fw"></i> Tags</a>
           <div class="dropdown-menu dropdown-menu-right ws-tag-dropdown-menu">
           
@@ -535,7 +518,221 @@ We may update this privacy policy when appropriate by posting a new version on o
   <div class="commentColumn WikispacesStream"><div class="WikispacesContent WikispacesBs3"><div class="commentList"></div></div></div>
 </div>
 
-</div></div><div id="sentinel" style="clear:both"></div>									</div>
+  
+
+
+
+
+<script type="text/template" id="js-event-template">
+  <small>
+    <%- startDateShortFormat %>
+    <a href="<%- ws.common.pathFor('event', 'view', id) %>" class="WikispacesDialogLink">
+      <%- ws.common.truncate(title, 15) %>
+    </a>
+  </small>
+</script>
+
+<script type="text/template" id="js-reply-template">
+  <div class="tc-timeline-comment media">
+
+    <a class="pull-left userLink" href="<%- userCreated.url %>">
+      <img src="<%- userCreated.imageUrl %>" width="30" height="30" class="author-avatar" alt="" />
+    </a>
+    <div class="media-body" data-id="<%= id %>">
+      <% if (ws.context.user.canAdministerWiki) { %>
+        <i class="tc-delete-comment fa fa-trash-o contextual-command destroy-message ws-tip" title="Delete reply"></i>
+      <% } %>
+      <div class="tc-box-name-date">
+        <span class="tc-commenter"><a href="<%- userCreated.url %>"><%- userCreated.username %></a></span>
+        <% if (smartDate == '__live__') { %>
+        <abbr style="border-bottom-style: none;" class="timeago tc-comment-date" title="<%- (new Date(parseInt(dateCreated) * 1000)).toISOString() %>">
+          <%- (new Date(parseInt(dateCreated) * 1000)).toDateString() %>
+        </abbr>
+        <% } else { %>
+          <abbr style="border-bottom-style: none;" class="tc-comment-date"><%- smartDate %></abbr>
+        <% } %>
+      </div>
+      <% if (body) { %>
+      <p>
+        <%= body %>
+      </p>
+      <% } %>
+    </div>
+  </div>
+</script>
+
+<script type="text/template" id="js-share-template">
+  <div class="tc-timeline-block tc-<%= ws.stream.typeToBlockType(sharedType) %>-block" <%= (ws.stream.hideTimeline ? 'style="padding-left: 0px;"' : '') %>>
+
+    <% if (!ws.stream.hideTimeline) { %>
+      <div class="tc-timeline-icon">
+        <i class="fa fa-<%= ws.stream.typeToIcon(sharedType) %>"></i>
+      </div>
+      <div class="tc-timeline-triangle-man"></div>
+    <% } %>
+
+    <div class="tc-timeline-box" data-id="<%= id %>">
+      <div class="media">
+        <a class="pull-left userLink" href="<%- userCreated.url %>">
+          <img src="<%- userCreated.imageUrl %>" width="48" height="48" class="author-avatar media-object" alt="" />
+        </a>
+
+        <div class="media-body">
+
+          <div class="tc-stream-dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+              <i class="fa fa-chevron-down"></i>
+            </a>
+            <ul class="dropdown-menu dropdown-menu-right" role="menu">
+              <% if (ws.context.user.id) { %>
+              <li>
+                <a class="js-toggle-monitor" tabindex="-1" href="#">
+                  <i class="fa-fw fa fa-eye"></i>
+                  <span><%= monitored ? 'Start Monitoring' : 'Stop Monitoring' %></span>
+                </a>
+              </li>
+              <% } %>
+
+              <% if (ws.context.user.canAdministerWiki) { %>
+              <li>
+                <a class="js-toggle-lock" tabindex="-1" href="#">
+                  <i class="fa-fw fa fa-lock"></i>
+                  <span><%= locked ? 'Unlock Replies' : 'Lock Replies' %></span>
+                </a>
+              </li>
+              <% if (sharedType == 'discussion' || sharedType == 'comment' || sharedType == 'event') { %>
+              <li>
+                <a class="js-destroy-share" tabindex="-1" href="#">
+                  <i class="fa-fw fa fa-trash-o"></i>
+                  Delete <%= ws.stream.typeToName(sharedType) %>
+                </a>
+              </li>
+              <% } %>
+              <% } %>
+            </ul>
+          </div>
+
+          <div class="tc-timeline-box-header ws-reveal media-heading">
+              <h3 class="tc-box-title">
+              <% if (typeof adminLink !== 'undefined' && adminLink && ws.context.user.canAdministerWiki) { %>
+                <a href="<%- adminLink %>"><%- title %></a>
+              <% } else { %>
+                <%- title %>
+              <% } %>
+              <% if (typeof startDate !== 'undefined' && startDate) { %> - <%= startDateShortFormat %> <%= ws.stream.getYearFromStartDate(startDate) %><% } %>
+              </h3>
+              <div class="tc-box-name-date">
+                <% if (ws.context.instance.isTesClassroom) { %>
+                  <%- userCreated.username %>
+                <% } else { %>
+                  <a class="author-name" href="<%- userCreated.url %>"><%- userCreated.username %></a>
+                <% } %>
+                <% if (typeof recipients !== 'undefined' && recipients) { %>
+                  <i class="fa fa-angle-right"></i>
+                  <% if (typeof recipientsLink !== 'undefined') { %>
+                    <a href="<%- recipientsLink %>"><%- recipients %></a>
+                  <% } else { %>
+                    <span class="recipients"><%- recipients %></span>
+                  <% } %>
+                <% } %>
+                <% if (smartDate == '__live__') { %>
+                  <abbr style="border-bottom-style: none;" class="timeago tc-block-date" title="<%= (new Date(parseInt(dateCreated) * 1000)).toISOString() %>">
+                    <%= (new Date(parseInt(dateCreated) * 1000)).toDateString() %>
+                  </abbr>
+                <% } else { %>
+                  <abbr style="border-bottom-style: none;" class="tc-block-date"><%- smartDate %></abbr>
+                <% } %>
+              </div>
+          </div>
+
+          <div class="<%= sharedType == 'comment' && !orphaned && !ws.stream.noCollapse ? 'hidden ' : '' %>tc-block-content">
+            <div class="clearfix">
+              <% if (typeof rangeActions !== 'undefined') { %>
+                <div class="tc-range-actions">
+                  <% for(var i = 0; i < rangeActions.length; i++) { %>
+                  <%= ws.stream.rangeActionTemplate(rangeActions[i]) %>
+                  <% } %>
+                </div>
+              <% } %>
+              <% if (description) { %>
+                <p><%= description %></p>
+              <% } %>
+            </div>
+          </div>
+
+          <% if (replyPages.length > 0 && !(replyPages.length === 1 && replyPages[0].digests.length === 0)) { %>
+            <div class="tc-timeline-comments">
+            <% for (var i = 0; i < replyPages.length; i++) { %>
+              <% if (i == 0 && replyPages[i].more) { %>
+                <a href="#" class="tc-show-more" onclick="ws.stream.pageReplies(<%= id %>, <%= replyPages[i].page + 1 %>); return false">Show more replies (<%= replyPages[i].more %> hidden) </a>
+              <% } else { %>
+                <div></div>
+              <% } %>
+              <% for (var j = 0; j < replyPages[i].digests.length; j++) { %>
+                <%= ws.stream.replyTemplate(replyPages[i].digests[j]) %>
+              <% } %>
+            <% } %>
+            </div>
+          <% } %>
+
+          <% if ((ws.stream.userCanPostMessage && !locked) || ws.context.user.canAdministerWiki) { %>
+          <div class="tc-add-comment media <%= ws.stream.noCollapse ? 'add-active' : ''%>">
+            <img src="<%- ws.context.user.imageUrlPrefix %>lg.jpg" width="30" height="30" class="pull-left author-avatar" alt="" />
+            <div class="media-body">
+              <textarea name="reply" placeholder="Comment" class="form-control form-control-tc ws-reveal <%= !ws.stream.noCollapse ? 'ws-unrevealed' : ''%> reply" /></textarea>
+              <button type="button" class="btn-tc btn-info-tc btn-sm-tc add-reply">Post</button>
+            </div>
+          </div>
+          <% } %>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</script>
+
+<script type="text/template" id="js-range-action-template">
+  <div>
+    <strong><%- name %></strong>
+    <% if (typeof(diffUrl) !== 'undefined') { %>
+      <a href="<%- diffUrl %>">
+    <% } %>
+    <%= new Date(dateCreated * 1000).toLocaleString() %>
+    <% if (typeof(diffUrl) !== 'undefined') { %>
+      </a>
+    <% } %>
+    <% if (typeof(rangeText) !== 'undefined') { %>
+      <div>
+        <span class="commentExtent">
+        <% if (typeof(diffUrl) !== 'undefined') { %>
+          <a href="<%- diffUrl %>">
+        <% } %>
+        <%= rangeText %>
+        <% if (typeof(diffUrl) !== 'undefined') { %>
+          </a>
+        <% } %>
+        </span>
+      </div>
+    <% } %>
+  </div>
+</script>
+
+<script type="text/template" id="js-stream-end-template">
+  <div class="tc-timeline-block tc-end-block">
+    <div class="tc-timeline-icon" style="margin-top: -10px;" />
+    <div class="tc-timeline-box" style="visibility: hidden;">
+      <p class="tc-box-title"></p>
+    </div>
+  </div>
+</script>
+
+<a name="discussion"></a>
+<div class="timeline WikispacesBs3 tc-timeline-embedded show-border">
+  <div class="timeline-line"></div>
+    <div id="js-share-list">
+    <div class="spinner hidden"><i class="fa fa-spinner fa-spin"></i></div>
+  </div>
+</div></div></div><div id="sentinel" style="clear:both"></div>									</div>
 				<div id="foot">
 					<div style="text-align: center;">Copyright 2008-2014 Rich Hickey | <a href="/privacy">Privacy Policy</a></div>
 									</div>
@@ -558,14 +755,35 @@ if(window.attachEvent) { window.attachEvent('onload', async_load); }
 else { window.addEventListener('load', async_load, false); }
 })();
 </script>
+<script type="text/javascript">
+vtid = 109092;
+document.write(unescape("%3Cscript src='" + document.location.protocol + "//code.visitor-track.com/VisitorTrack.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://code.visitor-track.com/VisitorTrack.js" type="text/javascript"></script>
 	
+<script type="text/template" id="dialog-template">
+<div class="modal fade" role="dialog" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="fa fa-times"></i></button>
+        <h4 class="modal-title"><%= header %></h4>
+      </div>
+      <div class="modal-body">
+        <%= body %>
+      </div>
+    </div>
+  </div>
+</div>
+</script>
+
+
 <div id="js-help-template" class="hidden">
   <div class="ws-help">
     <div class="js-help-controls WikispacesContent WikispacesBs3">
       <a href="http://www.wikispaces.com/site/gettingstarted/off" class="btn btn-default hidden js-getting-started-off pull-right">Turn off "Getting Started"</a>
       <ol class="breadcrumb">
         <li class="js-special-breadcrumb active">
-          <a href="http://help.wikispaces.com/" data-breadcrumb="0">Home</a>
+          <a href="http://helpcenter.wikispaces.com/" data-breadcrumb="0">Home</a>
         </li>
         <li class="js-ellipsis hidden js-special-breadcrumb">
           ...
@@ -577,11 +795,17 @@ else { window.addEventListener('load', async_load, false); }
   </div>
 </div>
 </div>
-<script src="http://www.wikispaces.com/s/nogz/3q4qjv75-editorc.min.js" type="text/javascript"></script>
+<script src="http://www.wikispaces.com/s/nogz/1j69q370-common.min.js" type="text/javascript"></script>
+<script src="http://www.wikispaces.com/s/nogz/vkz515xz-editorc.min.js" type="text/javascript"></script>
+<script src="http://www.wikispaces.com/s/nogz/85k7018k-stream.min.js" type="text/javascript"></script>
+<script src="http://www.wikispaces.com/s/nogz/91k8z207-contentbar.min.js" type="text/javascript"></script>
+<script src="http://www.wikispaces.com/s/nogz/395j1vq7-component.stream-vo.min.js" type="text/javascript"></script>
 <script type="text/javascript">
 <!--
 ws.namespace('ws.attributes');
 ws.namespace('ws.stream');
+ws.attributes.DISCUSSION_COUNT = 0;
+ws.attributes.pageId = 199892542;
 ws.attributes.version = 515953602;
 ws.attributes.showEditor = true;
 ws.attributes.editUrl = "http:\/\/clojure.org\/page\/edit\/privacy?goto=http%3A%2F%2Fclojure.org%2Fprivacy";
@@ -665,7 +889,7 @@ jQuery(document).ready(function() {
 
 
 jQuery(document).ready(function() {
-  ws.editor.loadEditorLibs('http://www.wikispaces.com/site/editorlibs/en/j562054q.js');
+  ws.editor.loadEditorLibs('http://www.wikispaces.com/site/editorlibs/en/07z93j80.js');
 });
 
 
@@ -700,7 +924,7 @@ ws.editor.startEditor = function (moreCoreOptions, moreMainOptions) {
 
 
 
---></script><!-- w1 142 mem:6:43(28) wki:1:2(2) tot:142:142(1) -->
+--></script><!-- w5 122 mem:2:31(29) wki:2:2(2) tot:122:122(1) -->
 
 
 	</body></html>
