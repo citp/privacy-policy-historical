@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mojostreet.com privacy policy that was archived on 2014-07-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140701062125id_/http%3A//www.mojostreet.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mojostreet.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607073902id_/http%3A//www.mojostreet.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><!--<head prefix="og: http://ogp.me/ns# mymojostreet:http://ogp.me/ns/apps/mymojostreet#">--><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# mymojostreet: http://ogp.me/ns/fb/mymojostreet#">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -12,14 +12,15 @@
 <meta property="og:description" content="This Privacy Policy explains what information of yours will be collected by Mojostreet when you use the Mojostreet.com and how Mojostreet.com will use the information.">
 <meta name="description" content="This Privacy Policy explains what information of yours will be collected by Mojostreet when you use the Mojostreet.com and how Mojostreet.com will use the information.">
 <meta name="keywords" content="Mojostreet, Privacy Policy">
-<link href="http://www.mojostreet.com/css/mojo_v2.css" rel="stylesheet" type="text/css"><!--<link href="http://www.mojostreet.com/css/slideshow.css?1404195686" rel="stylesheet" type="text/css" />-->
+<link href="http://www.mojostreet.com/css/mojo_v2.css" rel="stylesheet" type="text/css"><!--<link href="http://www.mojostreet.com/css/slideshow.css?1433662742" rel="stylesheet" type="text/css" />-->
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
 var sitePageType = 'privacy';
 var signupPagetype = '';
+BASEURL = 'http://www.mojostreet.com/';
 </script>
 <script type="text/javascript" src="http://www.mojostreet.com/js/iframe/jquery.js"></script>
-<script type="text/javascript" src="http://www.mojostreet.com/js/common.js"></script>
+<script type="text/javascript" src="http://www.mojostreet.com/js/common.js?t=1433662742"></script>
 <link rel="icon" type="image/png" href="http://www.mojostreet.com/images/favicon.png">
 <link rel="shortcut icon" href="http://www.mojostreet.com/images/favicon.png">
 <script type="text/javascript">
@@ -183,7 +184,7 @@ var infolinks_wsid = 0;
 				}
 				$.post(BASEURL+'ajax/places/search_new/',$('#search_frm').serialize(), function(data)
 				{		
-					window.location = BASEURL+'explore/San-Francisco/California/'+data;
+					window.location = BASEURL+'explore/Ashburn/Virginia/'+data;
 					//window.location = BASEURL+'explore/search/'+data;
 				})
 				
@@ -300,11 +301,12 @@ var infolinks_wsid = 0;
 
       Mojostreet may amend this Privacy Policy periodically. Use  of  information we collect now is subject to the Privacy Policy in effect  at the  time such information is used. If we make material changes in  the way we use  Personal Information, we will notify you by posting an  announcement on our <u>Service</u> or by sending you an email. Users are  bound by any changes to the Privacy  Policy when they use the Service  after such changes have been first posted.</p>
 
-    <p><strong>What If I Have Questions Or Concerns?</strong>&nbsp;If you have any questions or concerns  regarding your privacy while using the Service, please send a detailed message  to:&nbsp;<strong><a href="mailto:privacy@mojostreet.com">privacy@mojostreet.com</a></strong>. We will make every effort to resolve your  concerns. </p>
+    <p><strong>What If I Have Questions Or Concerns?</strong>&nbsp;If you have any questions or concerns  regarding your privacy while using the Service, please send a detailed message  to:&nbsp;<strong><a href="mailto:support@mojostreet.com">support@mojostreet.com</a></strong>. We will make every effort to resolve your  concerns. </p>
 
   <!--End privacyHold-->
 
-  </div>		<iframe src="http://www.mojostreet.com/wck_page.php?time=1404195686" rel="nofollow" style="display:none;"></iframe>
+  </div>
+		<iframe src="http://www.mojostreet.com/wck_page.php?time=1433662742" rel="nofollow" style="display:none;"></iframe>
 	<script type="text/javascript">
 function nothanks()
 {
@@ -832,6 +834,7 @@ $(document).ready(function() {
 		{
 			$.post( BASEURL+'ajax/social/fbsess/'+fbId+'/'+fbToken, {email:fbEmail}, function(data) 
 			{
+				
 				if(data == 0)
 				{
 					if(fbStatus != 'unknown')
@@ -891,6 +894,7 @@ $(document).ready(function() {
 								
 								setFbSess(response.id,response.email,aResoponseObj.accessToken,fbStatus);
 								document.location.reload();
+								
 							});	
 						}
 						else if(merchantPage == 1 || merchantTipsPage == 1 || merchantOffersPage == 1 || merchantAnnouncementPage == 1 || merchantEditLocation == 1 || (invitesFBFriendsBusiness == 1 && $('#facebook_id').val() == ''))
