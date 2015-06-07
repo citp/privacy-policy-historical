@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the disruptorbeam.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203141350id_/http%3A//www.disruptorbeam.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disruptorbeam.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607035725id_/http%3A//www.disruptorbeam.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Disruptor Beam
 
 ## Privacy Policy
 
-### Last updated: May 11, 2014
+### Last updated: February 16, 2015
 
 **YOUR USE OF DISRUPTOR BEAM’S SITES AND SERVICES IS SUBJECT TO YOUR AGREEMENT TO THE TERMS OF THIS PRIVACY POLICY.**
 
-Disruptor Beam Inc, (“Disruptor Beam,” “Us” or “We”) may provide games, applications, products and services (individually, a “Service”, and collectively, the "Services") via websites owned by Disruptor Beam (without limitation, http://DisruptorBeam.com) or through third-party services or networks (including, without limitation, Facebook and Kongregate), or distributed through third-party application stores such as the Apple App Store or Google Play, or other web sites and applications owned, operated, licensed or controlled by Disruptor Beam (the "Disruptor Beam Sites" or the “Sites”). This Privacy Policy applies to your use of the Disruptor Beam Sites and Services, unless a particular Service contains or links to a separate Privacy Policy.
+Disruptor Beam Inc., (“Disruptor Beam,” “Us” or “We”) may provide games, applications, products and services (individually, a “Service”, and collectively, the "Services") via websites owned by Disruptor Beam (without limitation, http://DisruptorBeam.com) or through third-party services or networks (including, without limitation, Facebook and Kongregate), or distributed through third-party application stores such as the Apple App Store or Google Play, or other web sites and applications owned, operated, licensed or controlled by Disruptor Beam (the "Disruptor Beam Sites" or the “Sites”). This Privacy Policy applies to your use of the Disruptor Beam Sites and Services, unless a particular Service contains or links to a separate Privacy Policy.
 
-Disruptor Beam respects the privacy of its online visitors and users of the Disruptor Beam Sites and Services. Disruptor Beam recognizes the importance of protecting certain information collected from users and has adopted this Privacy Policy that guides how Disruptor Beam gathers, stores, and uses information provided from users through the Disruptor Beam Sites and Services as described below. This policy is current as of its last revision date indicated above. However, please note that this policy may be amended from time to time to reflect changes and additions to the Privacy Policy. Please check back for the most current version before relying on any of the provisions in this Privacy Policy.
+Disruptor Beam respects the privacy of its online visitors and users of the Disruptor Beam Sites and Services. Disruptor Beam recognizes the importance of protecting certain information collected from users and has adopted this Privacy Policy that guides how Disruptor Beam gathers, stores, and uses information provided from users through the Disruptor Beam Sites and Services as described below. This policy is current as of its last revision date indicated above.
 
 #### Acceptance of Privacy Policy
 
-If you use the Disruptor Beam Sites and Services, you are accepting the terms and conditions of this Privacy Policy, and We will have the right to collect and use your information as described in this Privacy Policy. If you do not agree to have your information collected and used in any of the ways described in this Privacy Policy, you must discontinue use of the Disruptor Beam Sites and Services. We reserve the right to modify this Privacy Policy at any time. Your continued use of the Disruptor Beam Sites and Services after We either personally notify you or generally post such changes on the Disruptor Beam Sites will constitute your acceptance of those changes.
+If you use the Disruptor Beam Sites and Services, you are accepting the terms and conditions of this Privacy Policy, and We will have the right to collect, use and disclose your information as described in this Privacy Policy. If you do not agree to have your information collected, used and/or disclosed in any of the ways described in this Privacy Policy, you must discontinue use of the Disruptor Beam Sites and Services. We reserve the right to modify this Privacy Policy at any time. Your continued use of the Disruptor Beam Sites and Services after We either notify you of the changes or generally post such changes on the Disruptor Beam Sites will constitute your acceptance of those changes.  Accordingly, please check back for the most current version before relying on any provisions in this Privacy Policy.
 
-#### Collection and Use of Information
+#### Collection, Use and Disclosure of Information
 
-When you use any Service through a Social Networking Service such as Facebook or Google+ (an “SNS”), you allow Disruptor Beam to access certain information from your profile for that site. The information you allow Disruptor Beam to access varies by Service and SNS, and it is affected by the privacy settings you and your friends establish at the SNS. You can control and find out more about these settings at the SNS where you play our games. For example, Disruptor Beam may access and store some or all of the following information, as allowed by you, the SNS and your preferences:
+When you use any Service through a third party Social networking service such as Facebook, Kongregate, Apple GameCenter or Google Play (each, an “SNS”), you allow Disruptor Beam to access certain information from your profile for that SNS. The information you allow Disruptor Beam to access varies by Service and SNS, and it is affected by the privacy settings you and your friends establish at the SNS. You can control and find out more about these settings at the SNS where you play our games. For example, Disruptor Beam may access and store some or all of the following information, as allowed by you, the SNS and your preferences:
 
   * your first and last name
   * your profile picture or its URL
@@ -71,23 +71,29 @@ The Services support and may encourage interaction among players. In some Disrup
 
 #### Resumes
 
-Disruptor Beam allows for the online submission of resumes via the Disruptor Beam corporate website. Please note that the information (including personal information) collected from a resume is not subject to this Privacy Policy. The information obtained from your resume will be used for the purpose of evaluating your submission for a job with Disruptor Beam.
+Disruptor Beam allows for the online submission of resumes via the Disruptor Beam corporate website. Please note that the information (including personal information) collected from a resume is not subject to this Privacy Policy. The information obtained from your resume will be used for the purpose of evaluating your application for a job with Disruptor Beam.
 
 #### Choice/Opt-out
 
 Except as otherwise provided in this Privacy Policy, Disruptor Beam provides users the opportunity to opt-out of receiving communications from Disruptor Beam when you are asked to provide information and the option of discontinuing receipt of communications from Disruptor Beam by removing your information from Disruptor Beam's databases. Instructions for discontinuing receipt of communications from Disruptor Beam will be made available with the communication or on the related Disruptor Beam Site.
 
-#### Corrections, Updates and Removal of Information 
+Storage and Transfer of Information
 
-If you are concerned about the accuracy of personally identifiable information maintained by Disruptor Beam or would like your personally identifiable information removed from Disruptor Beam's records, you may use the tools, if any, made available with the particular Disruptor Beam Site or Service to update or remove such information, or you may contact Us by e-mail or mail at the address set forth below. If you choose to delete your personally identifiable information, you may not be able to access some areas of the Disruptor Beam Sites or Services to which you have subscribed. For your protection, you may be required to provide proof of your identity to obtain a copy of your personally identifiable information. We will not provide a refund for any prepaid service which is inaccessible to you because of your deletion of personally identifiable information. We may still retain your information in our files, however, to resolve disputes, enforce our user agreements, and due to technical and legal requirements and constraints related to the security, integrity and operation of our web sites. To update or remove any information that is available to Disruptor Beam through a third-party service or SNS, you will need to follow that service’s instructions for updating your information.
+Personally identifiable information may be stored and processed in the United States, and by using the Disruptor Beam Sites and Services, you consent to any such  transfer of information outside of your country. By using Disruptor Beam Sites or Services, you  agree your personally identifiable information may be transferred to, stored and processed in the United States in connection with the purposes stated in this Privacy Policy. You further acknowledge that privacy and data protection laws in the United States may not be as comprehensive and/or protective as those of the country in which you reside. Please be assured, however, that We take steps to ensure that your information is protected as described in this policy.
 
-#### No Absolute Safeguards
+Security of Information
 
-Although We will use reasonable efforts to safeguard the privacy of your information, transmissions on the Internet cannot be made absolutely secure. Accordingly, We cannot guarantee that unauthorized access, hacking or data loss will not occur, and We assume no responsibility or liability for disclosure of any of your information due to errors in transmission, unauthorized third-party access or other causes beyond our reasonable control.
+Disruptor Beam has in place what We believe to be appropriate physical, electronic, and managerial procedures to safeguard and secure will take reasonable steps to protect the information users share with Us. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure.
+
+Although We will use reasonable efforts to safeguard the privacy and security of your information, transmissions on the Internet cannot be made absolutely secure. Accordingly, We cannot guarantee that unauthorized access, hacking or data loss will not occur, and We assume no responsibility or liability for disclosure of any of your information due to errors in transmission, unauthorized third-party access or other causes beyond our reasonable control. Accordingly, please use care when determining what information you elect to share with Us through the Disruptor Beam Sites or Services.
 
 #### Your Role in Protecting Your Privacy
 
-Please remember that protection of your privacy begins with you. You are solely responsible for maintaining the secrecy of any account ID or password you use to register, and you should always be careful and responsible whenever disclosing information online. We caution you against giving out personally identifiable information to others online or in-game, as this information may be used for illegal or harmful purposes.
+Please remember that protection of your privacy and the security of your information begins with you. You are solely responsible for maintaining the secrecy of any account ID or password you use to register, and you should always be careful and responsible whenever disclosing information online. We caution you against giving out personally identifiable information to others online or in-game, as this information may be used for illegal or harmful purposes.  We cannot control and shall not be responsible for how third parties may use the information that you elect to disclose publicly.
+
+Corrections, Updates and Removal of Information 
+
+If you are concerned about the accuracy of personally identifiable information maintained by Disruptor Beam or would like your personally identifiable information removed from Disruptor Beam's records, you may use the tools, if any, made available with the particular Disruptor Beam Site or Service to update or remove such information, or you may contact Us by e-mail or mail at the address set forth below. If you choose to delete your personally identifiable information, you may not be able to access some areas of the Disruptor Beam Sites or Services to which you have subscribed. For your protection, you may be required to provide proof of your identity to obtain a copy of your personally identifiable information. We will not provide a refund for any prepaid service which is inaccessible to you because of your deletion of personally identifiable information. We may still retain your information in our files, however, to resolve disputes, enforce our user agreements, and due to technical and legal requirements and constraints related to the security, integrity and operation of our web sites. To update or remove any information that is available to Disruptor Beam through a third-party service or SNS, you will need to follow that service’s instructions for updating your information.
 
 #### Acceptance of Privacy Policy
 
@@ -101,21 +107,15 @@ In addition to this Privacy Policy, your rights and obligations concerning the D
 
 The parties hereto have requested that this Privacy Policy, and all correspondence and all documentation relating to this policy, be written in the English language. By consenting to this Privacy Policy, you confirm that your command and knowledge of English is sufficient to understand the terms and conditions set forth herein.
 
-#### Local Laws
-
-For persons in European Union countries, as used herein, terms such as "personal information" refer to "personal data" as defined by the Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data ("Directive"). Disruptor Beam will not collect any personal data from you unless you provide it voluntarily by providing Disruptor Beam with your freely given specific and informed consent. By using Disruptor Beam Sites or Services, you agree that Disruptor Beam may transfer your personal information outside the European Union in connection with the purposes stated in this Privacy Policy. Your personal data may be transferred to the United States (and/or other non-EU jurisdictions, as applicable).
-
-In certain jurisdictions in which local law may be required to apply, some of the information collected by Disruptor Beam (or its designees) may be personal information and entitle you to the right to object to its collection and to the right to access and correct the collected information pertaining to you.
-
 #### Contacting Disruptor Beam
 
 If you have any questions or comments about this Privacy Policy, please contact us by postal mail or email to: Disruptor Beam Inc.
 
 Disruptor Beam, Inc.
 
-Attn: Privacy Officer
+ATTN: Privacy Officer
 
-161 Worcester Rd., Suite 206
+161 Worcester Rd., Suite 210
 
 Framingham, MA 01701
 
