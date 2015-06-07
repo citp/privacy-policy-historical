@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ri.gov privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127123610id_/http%3A//www.ri.gov/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ri.gov privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607075057id_/http%3A//www.ri.gov/policies/privacy) for the most accurate reproduction.*
 
 # RI.gov: Privacy Policy
 
-### Privacy Policy 
+#### Privacy Policy 
 
 All State of Rhode Island computer systems are subject to monitoring at all times to assure proper functioning of the systems, to provide security for the computer systems' operations and the information contained therein, to prevent unauthorized use, and to deter and investigate violations of the law. There is no reasonable expectation of privacy in the use of this public computer system, save in areas designated and labeled as being presented by our secure server.
 
