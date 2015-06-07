@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the voscreen.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217002753id_/http%3A//www.voscreen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voscreen.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607034857id_/http%3A//www.voscreen.com/privacy) for the most accurate reproduction.*
 
 # Voscreen - life itself
+
+#### Privacy
 
 This privacy policy sets out how Voscreen uses and protects any information that you provide to us when you use this website.
 
