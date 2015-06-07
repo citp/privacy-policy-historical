@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingwindow.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108203902id_/http%3A//www.weddingwindow.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingwindow.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607045133id_/http%3A//www.weddingwindow.com/privacy.cfm) for the most accurate reproduction.*
 
 # Wedding Window - Privacy Policy
 
@@ -84,8 +84,8 @@ With or without cookies, our web site keeps track of usage data, such as the sou
 **For Questions or Concerns:** If you have questions or concerns regarding this statement, you should first contact admin@weddingwindow.com. Wedding Window corporate headquarters are located at:
 
 Wedding Window, Inc.  
-26 Bessom Street  
-Marblehead, MA 01945
+P.O. Box 6342  
+Metairie, LA 70009
 
  **Changes to the Wedding Window Privacy Statement:** Wedding Window reserves the right to change this policy from time to time. If we do make changes, the revised Privacy Policy will be posted on this site.
 
