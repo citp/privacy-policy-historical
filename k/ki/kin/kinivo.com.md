@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kinivo.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228161833id_/http%3A//www.kinivo.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinivo.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607201352id_/http%3A//www.kinivo.com/info/privacy) for the most accurate reproduction.*
 
 # Kinivo: Help > Privacy, Security & Accessibility
 
