@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aragon-advertising.com privacy policy that was archived on 2014-08-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140821235715id_/http%3A//aragon-advertising.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aragon-advertising.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607223145id_/http%3A//aragon-advertising.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -53,7 +53,7 @@
 
 </head>
 
-<body id="inner" style="">
+<body id="inner">
 
 <div id="white-out" style="display:none;">
 	<div class="modal" style="display:none;">
@@ -64,28 +64,40 @@
         
         <div id="advertiser">
         <span class="icon"><i class="fa fa-bullhorn"></i></span>
-        <a href="mailto:advertisers@aragon-advertising.com"><div class="button">Advertisers Start Here</div></a>
+        <a href="mailto:advertisers@aragon-advertising.com" id="track-advertisers" target="_blank"><div class="button">Advertisers Start Here</div></a>
+        <div class="result"></div>
         </div>
+        
+        <script>
+			$(document).ready(function(){
+			 	$('#track-advertisers').click(function() {
+					$.get( "http://aragon-advertising.com/includes/track-advertisers.html", function( data ) {
+					  $( ".result" ).html( data );
+					});
+				});
+			 });
+		 </script>
         
         <div id="publisher">
         <span class="icon"><i class="fa fa-book"></i></span>
-        <div id="affiliate-start" class="button">Affiliates Start Here</div>
+        <div id="affiliate-start" class="button">Publishers Start Here</div>
         </div>
         </div><!--END WELCOME-->
         
         <div id="affiliates" style="display:none;">
-        <h2>Affiliates</h2>
+        <h2>Publishers</h2>
         <p>Aragon Advertising has a first class sales team focused on bringing new and reputable campaigns onto our network. Our relationships with direct advertisers and agencies provide us with many exclusive and unique campaigns for all types of traffic.</p>
-<p>At Aragon we seek to build long-term relationships with affiliates based on trust and quality of traffic. If you’d like to work with a proactive manager who actively communicates with you and our sales team to find you the best new offers for your traffic, then you’re in the right place.</p>
-<p>Aragon Advertising: We Make It Easy</p>
+<p>At Aragon we seek to build long-term relationships with publishers based on trust and quality of traffic. If you’d like to work with a proactive manager who actively communicates with you and our sales team to find you the best new offers for your traffic, then you’re in the right place.</p>
+<p>Aragon Advertising: Intelligent Performance Marketing</p>
         <a href="http://publishers.aragon-advertising.com/signup" target="_blank"><div class="button">Join Our Network</div></a>
         </div><!--END AFFILIATES-->
         
         <div id="games" style="display:none;">
-        <h2>Game Developers</h2>
+        <h2>Advertise Your Game</h2>
         <p>Find high quality players for your game, no matter where they are. Aragon’s fully managed performance marketing network ensures your game gets significant exposure. With over 1000 game publishers and growing, our reach is extensive and encompasses the entire digital landscape.</p>
         <p>Contact us today to discuss your game and how we can help you meet your goals.</p>
-        <p><a href="mailto:developers@aragon-advertising.com" style="color:#FFF; text-decoration:none;"></a></p><div class="button"><a href="mailto:developers@aragon-advertising.com" style="color:#FFF; text-decoration:none;">Game Developers</a></div> <a href="http://publishers.aragon-advertising.com/signup" style="color:#FFF; text-decoration:none;"><div class="button float-right">Game Publishers</div></a><p></p>
+        <p><a href="mailto:advertisers@aragon-advertising.com" id="track-advertisers" target="_blank" style="color:#FFF; text-decoration:none;"></a></p><div class="button"><a href="mailto:advertisers@aragon-advertising.com" id="track-advertisers" target="_blank" style="color:#FFF; text-decoration:none;">Advertisers</a></div> <a href="http://publishers.aragon-advertising.com/signup" style="color:#FFF; text-decoration:none;"><div class="button float-right">Publishers</div></a><p></p>
+        <div class="result"></div>
         </div>
         
         <div class="clear-fix"></div>
@@ -144,21 +156,20 @@ $(document).ready(function(){
 	<div class="wrapper">
     <div id="login-buttons">
      <a href="http://publishers.aragon-advertising.com/" target="_blank"><div class="login-button">Client Login</div></a>
-    <a href="tel:+1646741-8846"><div class="login-button">Call us today: 1 (646) 741-8846</div></a>
+    <a href="tel:+1646741-8846"><div class="login-button">Call us today: (646) 741-8846</div></a>
     </div><!--END LOGIN BUTTONS-->
-    <a href="../"><div id="logo"><img src="../images/aragon-logo.jpg" width="80"></div></a><!--END LOGO-->
+    <a href="../"><div id="logo"><img src="../images/aragon-advertising-logo-horizontal.png" width="230"></div></a><!--END LOGO-->
     </div><!--END WRAPPER-->
     
     <div id="navigation">
     	<div class="wrapper">
             <ul>
             <a href="../"><li>Home</li></a>
-            <a href="../performance/"><li>Performance</li></a>
-            <!--<a href="../branded-display/"><li>Branded Display</li></a>-->
-            <a href="../creative-solutions/"><li>Creative Solutions</li></a>
-            <a href="../mobile/"><li>Mobile</li></a>
+            <a href="../advertisers/"><li>Advertisers</li></a>
+            <a href="../publishers/"><li>Publishers</li></a>
             <a href="../gaming/"><li>Gaming</li></a>
             <a href="../about/"><li>About</li></a>
+            <!--<a href="../careers/"><li>Careers</li></a>-->
             <a href="../contact/"><li>Contact</li></a>
             </ul>
             <div class="clear-fix"></div>
@@ -198,10 +209,10 @@ $(document).ready(function(){
   <h5>Contact Details</h5>
   <p>If you have any questions or concerns regarding this privacy policy, or you wish to contact us by phone or postal mail, our contact information is as follows:<br>
   <a href="mailto:support@aragon-advertising.com">support@aragon-advertising.com</a></p>
-          <p>116 W 23rd St.<br>
-          Suite 500<br>
-          New York, NY, 10011<br>
-          This privacy policy was last updated on May 9th, 2014.</p>
+          <p>1115 Broadway<br>
+			10th Floor<br>
+          New York, NY, 10010<br>
+          This privacy policy was last updated on Dec 11th, 2014.</p>
 </div><!--END CONTENT-->
         
         
@@ -211,27 +222,11 @@ $(document).ready(function(){
    <!--END WRAPPER--></div>
 <!--END PAGE--></div>
 
-  <div id="logos">
-    <div class="wrapper">
-    <script type="text/javascript" src="../js/jquery.cycle.lite.js"></script>
-<script type="text/javascript">
-$(document).ready(function() {
-    $('.clients').cycle({
-		fx: 'fade' // choose your transition type, ex: fade, scrollUp, shuffle, etc...
-	});
-});
-</script>
-    	
-        <h4>Clients We Have Worked With</h4><br>
-     	<ul class="clients" style="list-style: none; height: 50px; width: 910px; margin: auto; position: relative;">
-        <li style="position: absolute; top: 0px; z-index: 5; opacity: 1;"><img src="../images/logos/1.jpg"></li>
-        <li style="position: absolute; top: 0px; z-index: 4; display: none;"><img src="../images/logos/2.jpg"></li>
-		<li style="position: absolute; top: 0px; z-index: 3; display: none;"><img src="../images/logos/3.jpg"></li>
-        <li style="position: absolute; top: 0px; z-index: 2; display: none;"><img src="../images/logos/4.jpg"></li>
-        <li style="position: absolute; top: 0px; z-index: 1; display: none;"><img src="../images/logos/5.jpg"></li>
-        </ul> 
-       </div>
-    </div><!--END LOGOS-->
+ <div id="globe">
+<div class="wrapper">
+<img src="../images/globe-tagline.png" height="60">
+</div>
+</div>
 
 <div class="clear-fix"></div>
        
@@ -240,7 +235,7 @@ $(document).ready(function() {
     
     <div class="column-third">
     <h2>ARAGON ADVERTISING</h2>
-	<p>We ensure brands connect with consumers where it matters most.</p>
+	<p>Connecting Brands &amp; Consumers, Easily.</p>
     </div>
    
     
@@ -250,19 +245,19 @@ $(document).ready(function() {
             <a href="../contact/"><li>Contact</li></a>
             <a href="../about/"><li>About</li></a>
             <!--<a href="../terms/"><li>Terms &amp; Conditions</li></a>-->
-            <!--<a href="../events/"><li>Events</li></a>-->
+            <a href="../about/?section=events"><li>Events</li></a>
             <a href="../privacy/"><li>Privacy Policy</li></a>
-            <!--<a href="../careers/"><li>Careers</li></a>-->
+            <a href="../about/?section=careers"><li>Careers</li></a>
             <div class="clear-fix"></div>
             </ul>
            
            
            
            <p><strong>Aragon Advertising</strong>
-           </p><p>116 W 23rd St<br>
-			Suite 500<br>
-			New York, NY 10011<br>
-            (646) 375-2047 x2140
+           </p><p>1115 Broadway<br>
+			10th Floor<br>
+			New York, NY 10010<br>
+            (646) 741-8846
 			</p>
            
     </div><!--END NAVIGATION-->
