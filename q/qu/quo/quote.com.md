@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the quote.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921022331id_/http%3A//www.quote.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quote.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607210018id_/http%3A//quote.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Quote.com ®
+# Privacy Policy | Quote.com®
+
+## _“The more you know about the past, the better prepared you are for the future.”_
+
+\- Theodore Roosevelt
 
 ## Privacy Policy
 
