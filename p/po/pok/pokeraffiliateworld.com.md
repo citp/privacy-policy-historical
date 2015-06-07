@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pokeraffiliateworld.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205050713id_/http%3A//www.pokeraffiliateworld.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokeraffiliateworld.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607182959id_/http%3A//www.pokeraffiliateworld.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | PokerAffiliateWorld.com
-
-[Poker Affiliate World](https://web.archive.org/) / [About Us](https://web.archive.org/about-us.htm) / [Privacy Policy](https://web.archive.org/privacy-policy.htm)
 
 Your privacy is very important to iBus Media Limited. (referred to herein as **“Poker Affiliate World”** , **“PAW”** , **“we”** or **“us”** ), the owner and operator of the website located at [www.pokeraffiliateworld.com](http://www.pokeraffiliateworld.com/) and [ru.pokeraffiliateworld.com](http://ru.pokeraffiliateworld.com/) (collectively, the **“Site”** ). We are committed to maintaining the confidentiality of the personal information collected by us in order to allow you to enjoy your use of the Site by safeguarding it and utilizing appropriate software and hardware architecture, techniques, methods and procedures as customary in the industry.
 
