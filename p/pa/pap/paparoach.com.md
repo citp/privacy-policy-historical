@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paparoach.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205043939id_/http%3A//paparoach.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paparoach.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144912id_/http%3A//www.paparoach.com/privacy) for the most accurate reproduction.*
 
-# Home : Papa Roach
+# Papa Roach
 
 This policy is effective as of **November 29, 2011** , and reflects only non-material changes and clarifications from the previous version.
 
