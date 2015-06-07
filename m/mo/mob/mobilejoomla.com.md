@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the mobilejoomla.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120055555id_/http%3A//www.mobilejoomla.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilejoomla.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144455id_/http%3A//www.mobilejoomla.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last Updated on Sunday, 23 January 2011 23:12 
+Last Updated on Monday, 15 December 2014 22:20 
 
 On our site you will be asked to provide an email address when registering for an account.
 
 Whe you register you can choose whether to allow other forum members to contact you by email or private messaging and the type of personal information that is available using your user profile. You can also opt to subscribe to specific forums or threads which means your email address will be used to send information when new posts are made. All email from the forum site includes a link that allows you to opt out from continued subscription to that thread or forum. Forum administrators may use your email address to contact you if necessary.
 
-Rarely, we may use your email address to inform you about major new updates to Mobile Joomla!. You may always opt-out from this communication.
+Occasionally, we may use your email address to inform you about major new updates to Mobile Joomla!. You may always opt-out from this communication.
 
 Your IP address may be used to identify duplicate user accounts (which are forbidden under the forum rules).
 
@@ -31,6 +31,23 @@ Your information may be disclosed when we are legally required to by a Finnish c
 ## Children's Privacy
 
 Protecting the privacy of the very young is especially important. None of of our websites are structured specifically to attract anyone under 13. However, we recognize that there are Joomla! users and developers under age 13 who may register at one or more of our sites. The privacy policies that apply to all site users also apply to those users under 13.
+
+## Email Marketing
+
+You may also explicitly opt-in to receive information and marketing communication emails from us.
+
+How Can You Stop Receiving Email From Us?
+
+You may opt-out of receiving promotional emails by clicking an unsubscribe link included in each promotional email that we send, or opt-out of all direct marketing by notifying us in writing. If you opt-out, but have registered an account, we may still send you non-promotional customer information, such as important emails regarding our ongoing business relations. 
+
+Collection And Use Of Your Information 
+
+When you opt-in to receive our communication messages, we collect personally identifiable information from you that includes your email address. We will never sell, share, or rent individual personal information with any external parties without your advance written permission or unless ordered by a court of law. Information submitted to us is only available to our employees managing this information for the purposes of contacting you, or sending you emails based on your request for information, and to contracted service providers for purposes of providing services related to our communications with you. 
+
+How Do We Protect Your Privacy And The Security Of Your Information? 
+
+We use the latest and generally approved security measures to protect against the loss, misuse and alteration of information collected from you.   
+Our email and data storage services comply with the EU Safe Harbor privacy requirements. 
 
 ## Future changes
 
