@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nethouseprices.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063305id_/http%3A//www.nethouseprices.com/index.php%3Fcon%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nethouseprices.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174042id_/http%3A//nethouseprices.com/index.php%3Fcon%3Dprivacy) for the most accurate reproduction.*
 
 # Nethouseprices.com - Privacy
 
@@ -33,7 +33,7 @@ Please note that where we provide links to third party websites that are not aff
 
 6\. Advertisements 
 
-Our Web site uses ad services (such as Crimtan) to serve the advertisements that you see on pages of our Web site. That partner uses cookies to help target ads to you. To find out more about the use of cookies and the information-gathering practices and the opt-out procedures of Crimtan generally, please visit the information on URL <http://www.crimtan.com/optout.html>. Furthermore, the Company agrees that at all times during the term of this Agreement that it will comply with all applicable privacy and data protection laws including, but not limited to European Directive 95/46/EC.
+Our Web site uses ad services (such as Yellowhammer) to serve the advertisements that you see on pages of the Nethouseprices website and other external websites. That partner uses cookies to help target ads to you. To find out more about the use of cookies and the information-gathering practices and the opt-out procedures of Yellowhammer generally, please visit the information on URL http://www.yhmg.com. Furthermore, the Company agrees that at all times during the term of this Agreement that it will comply with all applicable privacy and data protection laws including, but not limited to European Directive 95/46/EC.
 
 7\. Cookies 
 
