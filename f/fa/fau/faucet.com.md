@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faucet.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127001603id_/http%3A//www.faucet.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faucet.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607234259id_/http%3A//www.faucet.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
 
 # Faucets, Kitchen Faucets, Bathroom Faucets, Sinks and Plumbing Fixtures at Faucet.com - Faucet.com
 
