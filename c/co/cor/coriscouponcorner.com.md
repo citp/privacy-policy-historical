@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coriscouponcorner.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928173443id_/http%3A//www.coriscouponcorner.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coriscouponcorner.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607071729id_/http%3A//www.coriscouponcorner.com/disclosure) for the most accurate reproduction.*
 
 # Disclosure/Privacy Policy - Coupon Corner Cori
 
