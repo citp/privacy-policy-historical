@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the machinefinder.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230075810id_/http%3A//www.machinefinder.com/ww/en-US/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machinefinder.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144837id_/http%3A//www.machinefinder.com/ww/en-US/privacy) for the most accurate reproduction.*
 
 # John Deere Privacy and Data US Policies
 
@@ -9,7 +9,7 @@
 
 
 
-[Policies and Statements ](https://web.archive.org/privacy_and_data/policies_statements/en_US/data_principles/business_data_commitment.page)
+[Policies and Statements](https://web.archive.org/privacy_and_data/policies_statements/en_US/data_principles/business_data_commitment.page)
 
 / Privacy and Data
 
@@ -207,6 +207,8 @@ In some cases, we do associate the information we collect using cookies and othe
 
 John Deere has relationships with third party advertising companies to perform tracking and reporting functions for our web processing. These third party advertising companies may place cookies on your computer so that they can display targeted advertisements to you. These third party advertising companies should not collect Personal Information in this process, and we do not give Personal Information to them as part of this process.
 
+For more information or to modify cookie settings please visit our [cookie policy webpage](http://www.deere.com/privacy_and_data/cookie_policy/cookie_policy_en_us.page?locale_name=en_US).
+
 ### 6\. Tell-A-Friend Functions 
 
 John Deere offers "tell-a-friend" functionality on our websites. If you choose to use this function, we will automatically send your friend a one-time email with the information you specified and invite him or her to visit the website. John Deere uses this information for the sole purpose of sending this one-time email and does not retain the information.
@@ -286,10 +288,9 @@ Alternatively, you may visit the "Contact Information" tab for the contact infor
     * [English](https://web.archive.org/privacy_and_data/privacy_and_data_us_canadianprivacystatement.page)
     * [French  
 ](https://web.archive.org/privacy_and_data/privacy_and_data_us_frenchcanadianprivacystatement.page)
-  3. [John Deere Insurance Company Privacy Statement](https://web.archive.org/privacy_and_data/privacy_and_data_us_jdfinancialriskprotectionprivacystatement.page)
-  4. [John Deere Data Services & Subcriptions Data Policy Statement for the United States, Canada, Australia, New Zealand and the Republic of South Africa](http://www.deere.com/privacy_and_data/privacy_and_data_services_subcriptions_policy_us_canada_republic_of_africa.page)
-  5. [John Deere Asia (Singaore) Private Limited Statement](https://web.archive.org/privacy_and_data/john_deere_asia_singapore_private_limited.page)
-  6. [MyJohnDeere Data Privacy Statement for Europe & Russia](https://web.archive.org/privacy_and_data/privacy_and_data_services_subscriptions_data_policy_cis_int.page)
+  3. [John Deere Data Services & Subscriptions Data Policy Statement for the United States, Canada, Australia, New Zealand and the Republic of South Africa](http://www.deere.com/privacy_and_data/privacy_and_data_services_subcriptions_policy_us_canada_republic_of_africa.page)
+  4. [John Deere Asia (Singapore) Private Limited Statement](https://web.archive.org/privacy_and_data/john_deere_asia_singapore_private_limited.page)
+  5. [MyJohnDeere Data Privacy Statement for Europe & Russia](https://web.archive.org/privacy_and_data/privacy_and_data_services_subscriptions_data_policy_cis_int.page)
 
 
 
@@ -432,4 +433,4 @@ Free call: 1800 800 981 / Phone: +61 7 3802 3222
  **New Zealand** :  
 Free call: 0800 303 100  
   
-**Last Updated: 18 November 2014**
+**Last Updated: 9 June 2015**
