@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gyanunlimited.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213113247id_/http%3A//www.gyanunlimited.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gyanunlimited.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607220557id_/http%3A//www.gyanunlimited.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ We may collect non-personal identification information about Users whenever they
 
 Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-\- Google, as a third party vendor, uses cookies to serve ads on www.gyanunlimited.com.  
+– Google, as a third party vendor, uses cookies to serve ads on www.gyanunlimited.com.  
 – Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.gyanunlimited.com and other sites on the Internet.  
 – Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
@@ -32,9 +32,9 @@ You should consult the respective privacy policies of these third-party ad serve
 
 Gyanunlimited may collect and use Users personal information for the following purposes:
 
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
@@ -62,5 +62,7 @@ If you have any questions about this Privacy Policy, the practices of this site,
 <http://www.gyanunlimited.com/>
 
 This document was last updated on May 26, 2013
+
+Looking for more health info? Follow these links...
 
 Privacy Policy
