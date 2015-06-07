@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thisblogrules.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019231725id_/http%3A//www.thisblogrules.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisblogrules.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607084710id_/http%3A//www.thisblogrules.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | This Blog Rules | Why go elsewhere?
 
