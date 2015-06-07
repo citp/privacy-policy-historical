@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lipower.org privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006072541id_/http%3A//lipower.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lipower.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022612id_/http%3A//www.lipower.org/privacy.html) for the most accurate reproduction.*
 
-# LIPA | Privacy Policy
+# LIPA | Privacy
 
 Thank you for visiting the LIPA Web site. We hope your visit is helpful and informative.
 
@@ -48,17 +48,3 @@ The information contained in this policy should not be construed in any way as g
 
 **Links Disclaimer  
 **In order to provide visitors with certain information, this Web site provides links to local, State and federal government agencies, and Web sites of other entities. A link does not constitute an endorsement of the content, viewpoint, accuracy, opinions, policy, products, services, or accessibility of that Web site. Once you link to another Web site from this Web site, including one maintained by the State, you are subject to the terms and conditions of that Web site, including, but not limited to, its privacy policy. 
-
-**Podcasts**  
-LIPA’s podcasting service (the "Podcast Service") consists of news and information audio files (the "Podcast Content") that may be downloaded from LIPA’s web site (“Site”) to your computer and/or transferred to your portable MP3 player. 
-
-These Terms of Use and LIPA’s Privacy Policy govern your use of the Podcasting Service. Any uses of the Podcasting Service not granted herein are strictly prohibited. Prohibited uses include, but are not limited to, the incorporation of advertising or the placement of advertising associated with or targeted at the Podcast Content, redistribution of the Podcast Content and the use of the Podcast Content in a manner which suggests or implies that LIPA endorses any products, services or causes of a third party. You may not edit or modify the Podcast Content or links in any manner whatsoever.
-
-You may only use the Podcasting Service with platforms which provide a functional link that, when accessed, takes the user directly to the podcast feed on the Site. The Podcast Content may be used only in a manner which allows linking or redirection to or delivery of the applicable page on the Site. You may not display the Podcast Content in a manner that does not permit successful linking to, redirection to or delivery of the applicable LIPA Site web page. You may not insert any intermediate page, splash page or any other content between the podcast link and the applicable page on the Site. LIPA retains all ownership and other rights in the Podcast Content and in any and all LIPA logos and trademarks used in connection with the Podcasting Service. If applicable, you must provide attribution to the appropriate page on the Site in connection with your use of the Podcasting Service, and, if you use a graphic in the attribution, you must use the appropriate LIPA logo incorporated into the Podcast Content.
-
-Any suggestions, comments or other feedback ("Feedback") offered to LIPA with respect to the Podcast Service is and will be given entirely voluntarily. LIPA shall be free to use, disclose, reproduce, license or otherwise distribute and exploit Feedback provided to it as it sees fit. 
-
-LIPA reserves the right to cease offering any or all of the Podcasting Service or Podcast Content at any time or to require you to cease any and all use of the Podcasting Service or Podcast Content at any time for any reason. LIPA assumes no liability for your activities in connection with the Podcasting Service or for your use of the Podcast Content in connection with your website, computer or MP3 player.
-
-**Contact Information  
-**For questions regarding the Privacy Policy or the ability to review and correct personal information you submitted to LIPA, please e-mail LIPA at [lipacustomerservice@liaccount.com](mailto:lipacustomerservice@liaccount.com).
