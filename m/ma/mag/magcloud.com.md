@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magcloud.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116022312id_/http%3A//www.magcloud.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magcloud.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022530id_/http%3A//www.magcloud.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy. Book publishing services | Blurb Books
 
