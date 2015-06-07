@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luckysmarket.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121055834id_/http%3A//www.luckysmarket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckysmarket.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607193329id_/http%3A//www.luckysmarket.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Luckys Market
 
@@ -28,7 +28,7 @@ Lucky’s Market may collect and use Users personal information for the followin
 
 ### How we protect your information
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site. In other words, we protect your information as fervently as we would our own kids (not the goat kind, though we’d protect their privacy, too). 
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site. In other words, we protect your information as fervently as we would our own kids (not the goat kind, though we’d protect their privacy, too).
 
 ### Sharing your personal information
 
@@ -49,6 +49,6 @@ Do you have any questions about this Privacy Policy, the practices of this site,
 ### Lucky’s Market
 
 [www.luckysmarket.com](http://www.luckysmarket.com/ "Lucky's Market")  
-Lucky’s Market, LLC 5303 Spine Road, Suite 101 Boulder, CO 80301  
+Lucky’s Market, LLC 6328 Monarch Park Place, Suite 100 Niwot, CO 80503  
 [contact@luckysmarket.com](mailto:contact@luckysmarket.com)  
 This document was last updated on April 2, 2014
