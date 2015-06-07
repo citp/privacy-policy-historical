@@ -1,52 +1,50 @@
-<!--The following is the downloaded HTML source of the fwd.us privacy policy that was archived on 2014-07-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140701213743id_/http%3A//www.fwd.us/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fwd.us privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607152640id_/http%3A//www.fwd.us/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#" xml:lang="en" lang="en"><head>
-<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KRRTVS"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="//apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"b908402cd3","applicationID":"1237919","transactionName":"clhXTRQOW10BQBsRWVZSShYVCVhG","queueTime":16,"applicationTime":47,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgYGUVVACQEDU1hTDg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="google-site-verification" content="nXX-Cvwt0MtFbBSFo6KjG6G9ZzXwCL14YTRsKw8d9dY">
-        <meta property="fb:app_id" content="317481115044638">
-
-        <title>Privacy Policy - FWD.us</title>
-
-        <script>
-            window['optimizely'] = window['optimizely'] || [];
-
-            
-                window['optimizely'].push(["customTag", "prefill_location", "false"]);
-            
-        </script>
-
-        <script src="//cdn.optimizely.com/js/230605045.js"></script>
-
-        <link rel="stylesheet" href="https://code.jquery.com/ui/1.10.2/themes/smoothness/jquery-ui.css">
-        <link rel="shortcut icon" type="image/x-icon" href="http://d3n8a8pro7vhmx.cloudfront.net/themes/5321de5cebad645a84000001/attachments/original/1365598174/favicon_(2).ico?1365598174">
-
-        <!--[if lt IE 9]>
-            <script src="html5shiv.js"></script>
+<!DOCTYPE html><html lang="en" class="js"><head>
+ 
+<meta charset="utf-8">
+<script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KRRTVS"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="//apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"b908402cd3","applicationID":"1237919,13960630","transactionName":"clhXTRQOW10BQBsRWVZSShYVCVhG","queueTime":2,"applicationTime":59,"agent":"js-agent.newrelic.com/nr-632.min.js","userAttributes":"ShVXWBIIWF87QVgUXxMNG18RBRUdRkBREkheWUpQBA1SbhBXVQwaCxVaVggVRV4IbUQAVlRbZk0DAFoTGQ=="}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+<title>Privacy Policy - FWD.us</title>
+ 
+<meta name="google-site-verification" content="nXX-Cvwt0MtFbBSFo6KjG6G9ZzXwCL14YTRsKw8d9dY">
+<meta property="fb:app_id" content="317481115044638">
+<link rel="shortcut icon" type="image/x-icon" href="http://d3n8a8pro7vhmx.cloudfront.net/themes/541088dbebad6402f2000001/attachments/original/1410815524/favicon_(2).ico?1410815524">
+ 
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+ 
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Droid+Serif|Open+Sans:400,700|Open+Sans+Condensed:700">
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.css">
+ 
+<!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
         <![endif]-->
+<script type="text/javascript">
+        // Detect JS
+        document.getElementsByTagName('html')[0].className='js';
 
-        <!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>-->
-
-        <!-- current user:  -->
-        
-            <link rel="stylesheet" href="http://fwd.nationbuilder.com/themes/1/5321de5cebad645a84000001/0/attachments/14035466051403725331/default/nationbuilder.css" type="text/css">
-
-            <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+        // Detect IE 10+
+        if (Object.hasOwnProperty.call(window, "ActiveXObject") && !window.ActiveXObject) {
+          document.getElementsByTagName('html')[0].className='js ie10';
+        }
+        </script>
+<link rel="stylesheet" href="http://fwd.nationbuilder.com/themes/1/541088dbebad6402f2000001/0/attachments/14108120111433522325/default/fwd.css" type="text/css">
+ 
+<script src="//cdn.optimizely.com/js/230605045.js"></script>
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 <meta content="authenticity_token" name="csrf-param">
-<meta content="XI6Sdg1nYnjDY7Av8nF/47rzqFHKjcrOARtIGMQZ62M=" name="csrf-token">
-
-	<link rel="canonical" href="http://www.fwd.us/privacy_policy">
-		<meta name="Title" content="Privacy Policy">
-		<meta property="og:title" content="Privacy Policy">
-  <meta property="og:url" content="http://www.fwd.us/privacy_policy">
-    <meta property="og:type" content="article">
-  		<link rel="image_src" href="http://d3n8a8pro7vhmx.cloudfront.net/fwd/sites/1/meta_images/original/new-fwd-general-og-img.png?1378933666">
-			<meta property="og:image" content="http://d3n8a8pro7vhmx.cloudfront.net/fwd/sites/1/meta_images/original/new-fwd-general-og-img.png?1378933666">
-  <meta property="og:site_name" content="FWD.us">
-
+<meta content="0bdzPzfUqNZAxXPN+VXGP87SmveiXK2Cnn9k7dQciOo=" name="csrf-token">
+<link rel="canonical" href="http://www.fwd.us/privacy_policy">
+<meta name="Title" content="Privacy Policy">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:url" content="http://www.fwd.us/privacy_policy">
+<meta property="og:type" content="article">
+<link rel="image_src" href="http://d3n8a8pro7vhmx.cloudfront.net/fwd/sites/1/meta_images/original/fb-og.png?1427135946">
+<meta property="og:image" content="http://d3n8a8pro7vhmx.cloudfront.net/fwd/sites/1/meta_images/original/fb-og.png?1427135946">
+<meta property="og:site_name" content="FWD.us">
 <script type="text/javascript">
   var NB = NB || {};
 
@@ -54,23 +52,14 @@
   NB.pageId = "43";
   NB.Liquid = NB.Liquid || {};
 </script>
-
 <script type="text/javascript">
 		//<![CDATA[
 			window._auth_token_name = "authenticity_token";
-			window._auth_token = "XI6Sdg1nYnjDY7Av8nF/47rzqFHKjcrOARtIGMQZ62M=";
+			window._auth_token = "0bdzPzfUqNZAxXPN+VXGP87SmveiXK2Cnn9k7dQciOo=";
 		//]]>
 </script>
-
-  <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/themes/cupertino/jquery-ui.css" type="text/css" media="all">
-
-
-<!--[if lt IE 7.]>
-<script type="text/javascript" src="/javascripts/jquery.supersleight.js"></script>
-<![endif]-->
-
-<script src="//d3n8a8pro7vhmx.cloudfront.net/assets/liquid_basic-5d39777ead0fceeeea02c892b2b16483.js" type="text/javascript"></script>
-
+<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/themes/cupertino/jquery-ui.css" type="text/css" media="all">
+<script src="//d3n8a8pro7vhmx.cloudfront.net/assets/liquid/main-d8a7e2e8fa2d1a64dd8aabea23a61478.js" type="text/javascript"></script>
 <script type="text/javascript">
   window.twttr = (function (d,s,id) {
     var t, js, fjs = d.getElementsByTagName(s)[0];
@@ -79,7 +68,6 @@
     return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
   }(document, "script", "twitter-wjs"));
 </script>
-
 <script type="text/javascript">
   NB.FBAppId = '126739610711965';
 </script>
@@ -90,10 +78,7 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
   })();
 </script>
-
-
-
-  <script type="text/javascript">
+<script type="text/javascript">
     var _qevents = _qevents || [];
 
     (function() {
@@ -106,164 +91,110 @@
      scpt.parentNode.insertBefore(elem, scpt);
     })();
   </script>
-
-
-            <script src="http://fwd.nationbuilder.com/themes/1/5321de5cebad645a84000001/0/attachments/14035466051403725331/default/analytics.min.js"></script>
-            <script src="http://fwd.nationbuilder.com/themes/1/5321de5cebad645a84000001/0/attachments/14035466051403725331/default/all.js"></script>
-            <script src="http://fwd.nationbuilder.com/themes/1/5321de5cebad645a84000001/0/attachments/14035466051403725331/default/main.js"></script>
+</head>
+ 
+<body id="top" class="
+        page-slug-privacy_policy
+        page-type-basic
         
-
-        <!--[if IE]><script src="http://fwd.nationbuilder.com/themes/1/5321de5cebad645a84000001/0/attachments/14035466051403725331/default/excanvas.js"></script><![endif]-->
-
-        <script>
-            var domain = window.location.hostname.indexOf("nationbuilder.com") !== -1 ? 'fwd.nationbuilder.com' : 'fwd.us';
-
-            analytics.initialize({
-                'Mixpanel': {
-                    token: 'e9737fb1d1e696797e748834d536ad3c'
-                },
-                'Google Analytics': {
-                    trackingId: 'UA-40064420-1',
-                    classic: true,
-                    domain: domain,
-                    siteSpeedSampleRate: 75
-                }
-            });
-
-            analytics.page();
-        </script>
-
         
-    </head>
-
-    
-        <body class="slug_privacy_policy" data-slug="privacy_policy">
-    
-
-        <!-- Google Tag Manager -->
-        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KRRTVS" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    " data-slug="privacy_policy ">
+<div style="display:none;"></div>
+ 
+<div id="fb-root"></div>
+ 
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KRRTVS" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
         new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
         j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
         })(window,document,'script','dataLayer','GTM-KRRTVS');</script>
-        <!-- End Google Tag Manager -->
-
-        <script>NB.FBAppId = '317481115044638';</script>
-
-        
-            <div class="header-wrapper">
-                <header>
-                    <div class="container">
-                        <div class="logo">
-                            <a href="/">
-                                <img src="http://d3n8a8pro7vhmx.cloudfront.net/themes/5321de5cebad645a84000001/attachments/original/1393515082/logo-fwd.png?1393515082" alt="FWD.us">
-                            </a>
-                        </div>
-                        <div class="menus">
-                            <ul>
-                                <li>
-                                    <a href="/immigration_reform">Immigration Reform</a>
-
-                                    <ul>
-    <li><strong><a href="/immigration_reform">Immigration Reform</a></strong></li>
-    <li><a href="http://app.fwd.us/stories">Stories</a></li>
-    <li><a href="http://www.fwd.us/video">Videos</a></li>
-    <li><a href="http://www.fwd.us/tell_your_story">Tell Your Story</a></li>
-</ul>
-                                </li>
-                                <li>
-                                    <a href="http://app.fwd.us/action">Take Action</a>
-
-                                    <ul>
-    <li><strong><a href="http://app.fwd.us/action">Take Action</a></strong></li>
-    <li class="hide-top"><a href="http://www.fwd.us/call">Call Congress</a></li>
-    <li class="hide-top"><a href="http://www.fwd.us/tweet">Tweet Congress</a></li>
-    <li class="hide-top"><a href="http://www.fwd.us/fb">Facebook Congress</a></li>
-    <li><a href="http://app.fwd.us/legislators">Push4Reform</a></li>
-    <li><a href="http://app.fwd.us/stories">#BuiltByImmigrants</a></li>
-    <li><a href="https://fwd.nationbuilder.com/donate">Donate</a></li>
-    <li><a href="http://fwd.us/members/">Become a Member</a></li>
-    <li><a href="http://app.fwd.us/selfies">Selfies</a></li>
-</ul>
-                                </li>
-                                <li>
-                                    <a href="/movement">The Movement</a>
-
-                                    <ul>
-    <li><strong><a href="http://www.fwd.us/movement">The Movement</a></strong></li>
-    <li><a href="http://www.fwd.us/calendar">Event Calendar</a></li>
-    <li><a href="http://www.fwd.us/in_the_news">In The News</a></li>
-    <li><a href="http://www.fwd.us/blog">Blog</a></li>
-    <li><a href="http://www.fwd.us/chapters">Our Chapters</a></li>
-</ul>
-                                </li>
-                                <li>
-                                    <a href="/about_us">About Us</a>
-
-                                    <ul>
-    <li><strong><a href="http://www.fwd.us/about_us">About Us</a></strong></li>
-    <li class="hide-top"><a href="http://www.fwd.us/contact">Contact</a></li>
-    <li><a href="http://www.fwd.us/our_team">Our Team</a></li>
-    <li><a href="http://www.fwd.us/our_supporters">Our Supporters</a></li>
-    <li><a href="http://www.fwd.us/jobs">Jobs</a></li>
-</ul>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="social">
-                            <a href="#social" class="active"><span class="icon icon-facebook"></span></a>
-                            <a href="#social"><span class="icon icon-twitter"></span></a>
-                            <a href="#social"><span class="icon icon-envelope"></span></a>
-                        </div>
-                    </div>
-                    <div class="container meta">
-                        <div class="appLogInOut">
-                            <a href="http://app.fwd.us/login?url=http://www.fwd.us/">Login</a>
-                        </div>
-                    </div>
-                </header>
-            </div>
-            <div class="mobile-slidedown" name="mobile-nav">
-                <a href="#" class="close">x</a>
-                <ul>
-    <li><strong><a href="http://app.fwd.us/action">Take Action</a></strong></li>
-    <li class="hide-top"><a href="http://www.fwd.us/call">Call Congress</a></li>
-    <li class="hide-top"><a href="http://www.fwd.us/tweet">Tweet Congress</a></li>
-    <li class="hide-top"><a href="http://www.fwd.us/fb">Facebook Congress</a></li>
-    <li><a href="http://app.fwd.us/legislators">Push4Reform</a></li>
-    <li><a href="http://app.fwd.us/stories">#BuiltByImmigrants</a></li>
-    <li><a href="https://fwd.nationbuilder.com/donate">Donate</a></li>
-    <li><a href="http://fwd.us/members/">Become a Member</a></li>
-    <li><a href="http://app.fwd.us/selfies">Selfies</a></li>
-</ul>
-            </div>
-
-            
-
-            <!--<section class="page-notification">
-                <div class="row">
-                    <div id="flash_container">
-
-
-
+ 
+<script>NB.FBAppId = '317481115044638';</script>
+<div id="all" class="wrapper nb">
+<header>
+<nav class="navbar navbar-static-top" role="navigation" id="menu" data-railsbaseurl="http://app.fwd.us">
+<div class="container">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#nav-collapse"><i class="fa fa-fw fa-bars"></i></button>
+<a href="/" class="header-logo"></a>
 </div>
-
-                </div>
-            </section>-->
-
-            <!-- Template: pages_show_basic_wide -->
-            
-    <section class="page-headline row">
-        <div class="large-9 columns large-centered">
-            <h2>Privacy Policy</h2>
-        </div>
-    </section>
-
-
-<section class="page-content row">
-    <div class="large-9 columns large-centered">
-        <div class="w940">
+<div class="collapse navbar-collapse" id="nav-collapse">
+<ul class="nav navbar-nav navbar-right">
+<li class="dropdown">
+<a href="/about_reform" class="dropdown-toggle" data-toggle="dropdown">
+<span class="visible-lg">Immigration Reform</span>
+<span class="hidden-lg">Reform</span>
+</a>
+<ul class="dropdown-menu">
+<li class="visible-lg"><a href="/about_reform">What we're fighting for</a></li>
+<li><a href="http://app.fwd.us/press">News Center</a></li>
+<li class="hidden-lg"><a href="/about_reform">Our Cause</a></li>
+<li><a href="/video">Videos</a></li>
+<li><a href="http://app.fwd.us/stories">Discover stories</a></li>
+<li><a href="/pathways">Entrepreneur Visa</a></li>
+<li><a href="http://app.fwd.us/letters">Letters to Congress</a></li>
+<li><a href="http://app.fwd.us/resources">Resource Center</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="http://app.fwd.us/legislators" class="dropdown-toggle" data-toggle="dropdown">Take action</a>
+<ul class="dropdown-menu">
+<li><a href="http://app.fwd.us/legislators">Contact your rep</a></li>
+<li><a href="http://app.fwd.us/stories/new">Share your story</a></li>
+<li><a href="http://app.fwd.us/selfies">Send a postcard</a></li>
+<li><a href="/donate">Donate</a></li>
+<li><a href="/calendar">Attend an event</a></li>
+<li><a href="/chapters#projects">Volunteer</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="/chapters" class="dropdown-toggle" data-toggle="dropdown"><span class="hidden-sm">Our </span>Chapters</a>
+<ul class="dropdown-menu">
+<li><a href="/chapters">All Chapters</a></li>
+<li><a href="/chapter_aus">Austin</a></li>
+<li><a href="/chapter_bos">Boston</a></li>
+<li><a href="/chapter_chi">Chicago</a></li>
+<li><a href="/chapter_la">Los Angeles</a></li>
+<li><a href="/chapter_mia">Miami</a></li>
+<li><a href="/chapter_nyc">New York</a></li>
+<li><a href="/chapter_sf">San Francisco</a></li>
+<li><a href="/chapter_sv">Silicon Valley</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="/about_us" class="dropdown-toggle" data-toggle="dropdown">About<span class="hidden-sm"> Us</span></a>
+<ul class="dropdown-menu">
+<li><a href="/about_us">Our Story</a></li>
+<li><a href="/supporters">Founders &amp; Supporters</a></li>
+<li><a href="/staff">Staff</a></li>
+<li><a href="/contact">Contact</a></li>
+<li><a href="/careers">Careers</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="http://blog.fwd.us/" class="dropdown-toggle" data-toggle="dropdown">Blog</a>
+</li>
+<li class="divider visible-xs"></li>
+<li class="login">
+<a href="http://app.fwd.us/login" class="btn btn-default">Login</a>
+</li>
+<li class="signup">
+<a href="/join" class="btn btn-primary btn-orange">Join the Fight</a>
+</li>
+</ul>
+</div> 
+</div>
+</nav> 
+</header>
+ 
+<div class="page-wrapper ">
+<section class="pod article gray">
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+<h2>Privacy Policy</h2>
+<div class="w940">
 <p>Privacy Policy</p>
 <p>Effective Date: Thursday April 11, 2013</p>
 <p>FWD.us values your support and is committed to protecting your privacy. This statement (the “Privacy Policy”) sets forth our policies and practices for handling your information on the FWD.us website and any other website or online service that we operate and that links to this Privacy Policy (the “Services”).&nbsp;</p>
@@ -320,223 +251,235 @@
 <p><strong>IX.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>STILL HAVE QUESTIONS?</strong></p>
 <p>If you have any questions about this Privacy Policy or our practices, please contact Kate Hansen, <a href="mailto:info@fwd.us">info@fwd.us</a>, 1201 Pennsylvania, Ave NW Washington DC 20004</p>
 </div>
-    </div>
-</section>
+</div>
+</div>
+</div>
+</section></div>
 
+</div> 
+ 
+<section id="more" class="pod darkblue">
+<div class="container">
+<div class="row">
+<div class="col-sm-12 text-center">
+<h2>
+<small>Join the Movement</small>
+Fight for Immigration Reform Today
+</h2>
+<div class="row">
+<form class="ajaxForm signup_form" method="POST" action="/forms/signups" enctype="multipart/form-data"><input name="authenticity_token" type="hidden" value="0bdzPzfUqNZAxXPN+VXGP87SmveiXK2Cnn9k7dQciOo="><input name="page_id" type="hidden" value="43"><input name="return_to" type="hidden" value="http://www.fwd.us/privacy_policy"><div class="email_address_form" style="display:none;"><p><label for="" "email_address"="">Optional email code</label><br><input name="email_address" type="text" class="text" id="email_address" autocomplete="off"></p></div>
+                                        
+                                            <input id="page_id" name="page_id" type="hidden" value="49">
+                                        
+                                        <div class="form-inline well col-sm-8 col-sm-offset-2">
+                                            <div class="form-group">
+                                                <label class="sr-only" for="field-email">Email address</label>
+                                                <input class="form-control" id="signup_email" name="signup[email]" placeholder="Email address" type="email">
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="sr-only" for="field-zip">Zip code</label>
+                                                
+                                                    
+                                                
+                                                <input class="form-control" id="signup_submitted_address" name="signup[submitted_address]" placeholder="Zip code" size="10" type="text">
+                                            </div>
 
+                                            <input type="submit" class="btn btn-primary" value="Get Started">
 
-            <section class="footer-social" id="social">
+                                            <div class="errors"></div>
+
+                                            <div class="form_submit"></div>
+                                        </div>
+                                    </form>
+                                </div>
+
+                                <p class="muted"><i class="fa fa-lock"></i> Your information is secure and will not be shared</p>
+                            </div>
+                        </div><!-- .row -->
+                    </div><!-- .container -->
+                </section><!-- #more -->
+            
+
+            <footer id="footer">
                 <div class="container">
-                    <div class="social-nav">
-                        <span class="active"><span class="icon icon-facebook"></span></span>
-                        <span><span class="icon icon-twitter"></span></span>
-                        <span><span class="icon icon-envelope"></span></span>
+                    <div class="row">
+                        <div id="seopod" class="col-xs-12">
+                            <div class="row">
+                                <div class="col-xs-3">
+                                    <a href="/"><img src="http://d3n8a8pro7vhmx.cloudfront.net/themes/541088dbebad6402f2000001/attachments/original/1410815582/fwd-logo-inverse.svg?1410815582" class="img-responsive" style="margin: 15px 0; max-height: 3em; display: block;" width="262" height="42"></a>
+                                </div>
+                                <div class="col-xs-9">
+                                    <p class="seo">
+                                        FWD.us is an organization started by key leaders in the tech community to promote policies to keep the United States and its citizens competitive in a global economy—including comprehensive immigration reform and education reform.
+                                    </p>
+                                </div>
+                            </div>
+                        </div><!-- #seopod -->
+                    </div><!-- .row -->
+
+                    <hr>
+
+                    <div class="row">
+                        <div class="col-md-2 col-sm-3 col-xs-6">
+                            <h5><a href="/about_reform">Immigration Reform</a></h5>
+
+                            <ul class="unstyled">
+                                <li><a href="/about_reform">What we're fighting for</a></li>
+                                <li><a href="http://app.fwd.us/press">News Center</a></li>
+                                <li><a href="/video">Video</a></li>
+                                <li><a href="/stories">Discover stories</a></li>
+                                <li><a href="/pathways">Entrepreneur Visa</a></li>
+                                <li><a href="http://app.fwd.us/letters">Letters to Congress</a></li>
+                            </ul>
+                        </div>
+
+
+                        <div class="col-md-2 col-sm-3 col-xs-6">
+                            <h5><a href="http://app.fwd.us/legislators">Take action</a></h5>
+
+                            <ul class="unstyled">
+                                <li><a href="http://app.fwd.us/legislators">Contact your rep</a></li>
+                                <li><a href="http://app.fwd.us/stories/new">Share your story</a></li>
+                                <li><a href="http://app.fwd.us/selfies">Send a Postcard</a></li>
+                                <li><a href="/donate">Donate</a></li>
+                                <li><a href="/calendar">Attend an event</a></li>
+                                <li><a href="/chapters#projects">Volunteer</a></li>
+                            </ul>
+                        </div>
+
+
+                        <div class="col-md-2 col-sm-3 col-xs-6">
+                            <h5><a href="/chapters">Our Chapters</a></h5>
+
+                            <ul class="unstyled">
+                                <li><a href="/chapters">All Chapters</a></li>
+                                <li><a href="/chapter_aus">Austin</a></li>
+                                <li><a href="/chapter_bos">Boston</a></li>
+                                <li><a href="/chapter_chi">Chicago</a></li>
+                                <li><a href="/chapter_la">Los Angeles</a></li>
+                                <li><a href="/chapter_mia">Miami</a></li>
+                                <li><a href="/chapter_nyc">New York</a></li>
+                                <li><a href="/chapter_sf">San Francisco</a></li>
+                                <li><a href="/chapter_sv">Silicon Valley</a></li>
+                            </ul>
+                        </div>
+
+                        <div class="col-md-2 col-sm-3 col-xs-6">
+                            <h5><a href="/about_us">About Us</a></h5>
+
+                            <ul class="unstyled">
+                                <li><a href="/about_us">Our Story</a></li>
+                                <li><a href="/supporters">Founders &amp; Supporters</a></li>
+                                <li><a href="/staff">Staff</a></li>
+                                <li><a href="http://blog.fwd.us/">Blog</a></li>
+                                <li><a href="/contact">Contact</a></li>
+                                <li><a href="/careers">Careers</a></li>
+                                <!--<li><a href="/brand">Brand</a></li>-->
+                            </ul>
+                        </div>
+
+                        <div class="clearfix visible-xs"><hr></div>
+
+                        <div class="col-md-4 col-sm-6 col-xs-12 hidden-sm hidden-xs">
+                            <div id="twitter_widget">
+                                <a class="twitter-timeline" href="https://twitter.com/FWD_us" height="120" data-widget-id="469198332078723072" data-link-color="#fff" data-chrome="noheader nofooter noborders noscrollbar transparent" data-tweet-limit="1" data-theme="dark">Tweets by @FWD_us</a>
+                            </div>
+
+                            <div class="row social" id="social-twitter">
+                                <div class="col-xs-6">
+                                    <a href="https://twitter.com/FWD_us" class="twitter-follow-button" data-show-count="false">Follow @FWD_us</a>
+                                </div>
+                                <div class="col-xs-6 text-right">
+                                    <a href="https://twitter.com/FWD_us" target="_blank">Follow us on <b class="title">Twitter</b></a>
+                                </div>
+                            </div>
+
+                            <div class="row social" id="social-facebook">
+                                <div class="col-xs-6">
+                                    <div class="fb-like" data-href="http://www.facebook.com/fwdus" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div>
+                                </div>
+
+                                <div class="col-xs-6 text-right">
+                                    <a href="http://facebook.com/fwdus" target="_blank">Like us on <b class="title">Facebook</b></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- .row -->
+
+                    <hr>
+
+                    <div class="row cc">
+                        <div class="col-xs-12">
+                            <a href="#egg" id="easteregg" class="btn btn-link animated pull-right hidden-xs"><i class="fa fa-flag fa-2x muted"></i></a>
+
+                            <p class="copyright">
+                                © 2013–2014 FWD.us
+                                <br><a href="/privacy_policy">Privacy Policy</a>, <a href="/terms_of_use">Terms of Service</a>
+                            </p>
+                        </div>
                     </div>
-                    <div class="social-actions">
-                        <div id="social-facebook" class="social-facebook widget">
-                            <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Ffwdus&amp;width=300&amp;height=30&amp;colorscheme=dark&amp;layout=standard&amp;action=like&amp;show_faces=false&amp;send=false&amp;appId=502999229790190" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:30px;" allowtransparency="true"></iframe>
-                        </div>
-                        <div id="social-twitter" class="social-twitter widget">
-                            <a href="https://twitter.com/fwd_us" class="twitter-follow-button" data-show-screen-name="true" data-show-count="true" data-size="large" data-dnt="true">Follow @fwdus</a>
-                            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-                        </div>
-                        <div id="social-envelope" class="social-email widget text-center">
-                            
-                            
-                            
+                </div><!-- .container -->
+            </footer><!-- #footer -->
+        <!-- #all -->
 
-                            
+        <!-- JS -->
+        <!--<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js" type="text/javascript"></script>-->
+        <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js" type="text/javascript"></script>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="signup-wrapper layout-rotator">
-    
-
-    
         
-    <form class="ajaxForm signup_form" method="POST" action="/forms/signups"><input name="authenticity_token" type="hidden" value="XI6Sdg1nYnjDY7Av8nF/47rzqFHKjcrOARtIGMQZ62M="><input name="page_id" type="hidden" value="43"><input name="return_to" type="hidden" value="http://www.fwd.us/privacy_policy"><div class="email_address_form" style="display:none;"><p><label for="" "email_address"="">Optional email code</label><br><input name="email_address" type="text" class="text" id="email_address" autocomplete="off"></p></div>
-        
-            <input id="page_id" name="page_id" type="hidden" value="920">
-        
-
-            <div class="row collapse">
-                <div class="large-6 medium-6 columns">
-                    <input class="email" id="signup_email" name="signup[email]" placeholder="Email Address" type="email">
-                </div>
-                <div class="large-3 medium-3 small-6 columns">
-                    <input class="zip" id="signup_submitted_address" name="signup[submitted_address]" placeholder="Zip Code" type="text">
-                </div>
-                <div class="large-3 medium-3 small-6 columns">
-                    
-                        
-                                <input class="button button-blue" type="submit" name="commit" value="Join Us">
-                            
-                    
-                </div>
-
-                <div class="hidden">
-                    <div class="form_submit"></div><!-- Won't work w/o -->
-                    <div class="form_errors"></div>
-                </div>
-            </div>
-        </form>
-
-    
-</div><!-- /.signup_wrapper -->
-
-
-<script>// Move me to Production JS when possible
-    jQuery("document").ready(function() {
-        if ( jQuery(".js-hidenav").length ) {
-            jQuery(".topfooterShadow, #header-nav, .push").hide();
-            jQuery("#header").addClass('no-nav');
-            jQuery(".floater").css("position", "static");
-        }
-
-        jQuery("#signup_phone_number, #signup_mobile_number").DefaultValue("Phone Number");
-        jQuery("#signup_phone_number, #signup_mobile_number").attr("placeholder", "Phone Number");
-
-        jQuery(".ajaxForm.signup_form").submit(function( event ) {
-            if ( !LIGHTBOX_OPEN ) {
-                analytics.track("Signed Up", {
-                    category: "Activities",
-                    label: "privacy_policy",
-                });
-            }
-        });
-    });
-</script>
-
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <footer>
-                <div class="container">
-                    <div class="logo">
-                        <a href="/">
-                            <img src="http://d3n8a8pro7vhmx.cloudfront.net/themes/5321de5cebad645a84000001/attachments/original/1393515082/logo-fwd.png?1393515082" alt="FWD.us">
-                            Moving the Knowlege Economy forward.
-                        </a>
-                    </div>
-                    <div class="nav"><!-- Avoid conflicting with foundation/bootstrap -->
-                        <div class="nav-items">
-                            <ul>
-                                
-    <li><strong><a href="/immigration_reform">Immigration Reform</a></strong></li>
-    <li><a href="http://app.fwd.us/stories">Stories</a></li>
-    <li><a href="http://www.fwd.us/video">Videos</a></li>
-    <li><a href="http://www.fwd.us/tell_your_story">Tell Your Story</a></li>
-
-                            </ul>
-                        </div>
-                        <div class="nav-items">
-                            <ul>
-                                
-    <li><strong><a href="http://app.fwd.us/action">Take Action</a></strong></li>
-    <li class="hide-top"><a href="http://www.fwd.us/call">Call Congress</a></li>
-    <li class="hide-top"><a href="http://www.fwd.us/tweet">Tweet Congress</a></li>
-    <li class="hide-top"><a href="http://www.fwd.us/fb">Facebook Congress</a></li>
-    <li><a href="http://app.fwd.us/legislators">Push4Reform</a></li>
-    <li><a href="http://app.fwd.us/stories">#BuiltByImmigrants</a></li>
-    <li><a href="https://fwd.nationbuilder.com/donate">Donate</a></li>
-    <li><a href="http://fwd.us/members/">Become a Member</a></li>
-    <li><a href="http://app.fwd.us/selfies">Selfies</a></li>
-
-                            </ul>
-                        </div>
-                        <div class="nav-items">
-                            <ul>
-                                
-    <li><strong><a href="http://www.fwd.us/movement">The Movement</a></strong></li>
-    <li><a href="http://www.fwd.us/calendar">Event Calendar</a></li>
-    <li><a href="http://www.fwd.us/in_the_news">In The News</a></li>
-    <li><a href="http://www.fwd.us/blog">Blog</a></li>
-    <li><a href="http://www.fwd.us/chapters">Our Chapters</a></li>
-
-                            </ul>
-                        </div>
-                        <div class="nav-items">
-                            <ul>
-                                
-    <li><strong><a href="http://www.fwd.us/about_us">About Us</a></strong></li>
-    <li class="hide-top"><a href="http://www.fwd.us/contact">Contact</a></li>
-    <li><a href="http://www.fwd.us/our_team">Our Team</a></li>
-    <li><a href="http://www.fwd.us/our_supporters">Our Supporters</a></li>
-    <li><a href="http://www.fwd.us/jobs">Jobs</a></li>
-
-                            </ul>
-                        </div>
-                        <div class="nav-items">
-                            <ul>
-                                <li><strong>Social</strong></li>
-                                <li class="icon icon-facebook"><a href="http://facebook.com/fwdus">Facebook</a></li>
-                                <li class="icon icon-twitter"><a href="http://twitter.com/fwd_us">Twitter</a></li>
-                                <li class="icon icon-instagram"><a href="http://instagram.com/fwdus">Instagram</a></li>
-                                <li class="icon icon-vimeo"><a href="https://vimeo.com/user17632048">Vimeo</a></li>
-                                <li class="icon icon-tumblr"><a href="http://fwdus.tumblr.com/">Tumblr</a></li>
-                                <li class="icon icon-google-plus"><a href="https://plus.google.com/b/111391386827887415857/">Google Plus</a></li>
-                                <li class="icon icon-feed"><a href="/blog">Blog</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="copyright">
-                        <span>© 2013-2014</span>
-                        <span><a href="/privacy_policy">Privacy Policy</a>.</span>
-                        <span><a href="/terms_of_use">Terms of Service</a></span>
-                        <span><a href="http://nationbuilder.com/" target="_blank">Created with NationBuilder</a></span>
-                    </div>
-                </div>
-            </footer>
+            <script src="http://fwd.nationbuilder.com/themes/1/541088dbebad6402f2000001/0/attachments/14108120111433522325/default/fwd.js"></script>
         
 
-        <!-- lb -->
+        <script>
+            var domain = window.location.hostname.indexOf("nationbuilder.com") !== -1 ? 'fwd.nationbuilder.com' : 'fwd.us';
 
+            analytics.initialize({
+                'Mixpanel': {
+                    token: 'e9737fb1d1e696797e748834d536ad3c'
+                },
+                'Google Analytics': {
+                    trackingId: 'UA-40064420-1',
+                    classic: true,
+                    domain: domain,
+                    siteSpeedSampleRate: 75
+                }
+            });
+
+            analytics.page();
+        </script>
+
+        <!-- Nationbuilder Footer -->
         
             <div id="fb-root"></div>
+
 <script>
   window.fbAsyncInit = function() {
     FB.init({
-      appId  : 126739610711965,
+      appId      : 126739610711965,
       channelUrl : "//fwd.nationbuilder.com/channel.html",
       status     : true,
+      version    : 'v2.2',
       cookie     : true,
       xfbml      : true
     });
   };
-  (function(d, debug){
-     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement('script'); js.id = id; js.async = true;
-     js.src = "//connect.facebook.net/en_US/all" + (debug ? "/debug" : "") + ".js";
-     ref.parentNode.insertBefore(js, ref);
-   }(document, false));
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); 
+    js.id = id;
+    js.async = true;
+    js.src = "//connect.facebook.net/en_US/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
 </script>
 
 
-<script src="//d3n8a8pro7vhmx.cloudfront.net/assets/liquid-eb6290b7c89f0d9a88595f96f29f8423.js" type="text/javascript"></script>
-<script src="//d3n8a8pro7vhmx.cloudfront.net/assets/tinymce-jquery-3394f9df7e6f3ccb696cb4c0eaedfe27.js" type="text/javascript"></script>
 
-	<iframe src="https://fwd.nationbuilder.com/utils/sessions?session=753cf05630c40191befea1e49ecbc0ab" width="1" height="1" style="display: none;"></iframe>
+<script src="//d3n8a8pro7vhmx.cloudfront.net/assets/liquid-acf8fe97acdb7af585c6f45e6ee28bd1.js" type="text/javascript"></script>
+<script src="//d3n8a8pro7vhmx.cloudfront.net/assets/tinymce-jquery-b16bb09336f0e7f04e5e1d9228b0b6e8.js" type="text/javascript"></script>
+
+	<iframe src="http://www.fwd.us/session_pair_phase_1?iframe=1" width="1" height="1" style="display: none;"></iframe>
 
 
   <script type="text/javascript">
@@ -552,8 +495,9 @@
 
         
 
-        
+        <!-- Twitter -->
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
     
 
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+</body></html>
