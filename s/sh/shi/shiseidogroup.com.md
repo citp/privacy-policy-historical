@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shiseidogroup.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116135219id_/http%3A//www.shiseidogroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiseidogroup.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142432id_/http%3A//www.shiseidogroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice | Shiseido group website
 
@@ -49,7 +49,7 @@ Shiseido appoints the “Chief Privacy Officer” and establishes and maintains 
 
 Shiseido will continuously make maximum efforts to improve our Personal Information Protection Management Systems. For this purpose, we routinely conduct audits to check the state of personal information handling, confirm their results, and when necessary, review this Policy and internal rules concerning personal information protection.
 
-#### For any question regarding this Personal Information Protection Policy, please refer to:Shiseido Customer Service
+####  For any question regarding this Personal Information Protection Policy, please refer to:Shiseido Customer Service
 
 Phone
     0120-81-4710
@@ -348,7 +348,7 @@ Personal information will not be disclosed in each of the following cases. Decis
 For any complaint about our handling of personal information, please contact us by any of the following methods.  
 As to matters concerning watashi+ and Beauty & Co., please use the dedicated links below.
 
-### < Contact >
+###  < Contact >
 
 Shiseido Customer Service  
 1-6-2 Higashi-Shimbashi, Minato-ku, Tokyo 105-8310  
@@ -361,9 +361,9 @@ Phone: 0120-31-4710 (9:00-21:00; not available during the year-end and New Year 
 
 Beauty & Co.  
 Beauty & Co. Customer Service  
-[Click here for inquiries(Japanese Only)](http://www.beauty-co.jp/about/inquiry/inquiry_entry/)
+[Click here for inquiries(Japanese Only)](https://www.beauty-co.jp/form/inquiry/inquiry_entry/)
 
-< Name of authorized personal information protection organization and complaint resolution service >  
+< Name of authorized personal information protection organization and complaint resolution service >   
 Shiseido is one of the target entities of the following authorized personal information protection organization.
 
 Name | Japan Institute for Promotion of Digital Economy and Community (JIPDEC)  
@@ -375,14 +375,14 @@ Roppongi First Bldg.
 1-9-9 Roppongi, Minato-ku, Tokyo 106-0032  
 Phone: 03-5860-7565 / 0120-700-779   
   
-< Notice >  
+< Notice >   
 Please note that we do not accept any direct request by visiting our company.  
 Also note that your inquiries to our toll-free number will be recorded for improvement of our customer service.  
 We appreciate your understanding and cooperation in this matter.
 
 Shiseido Company, Limited has been certified to use the Privacy Mark by the Japan Information Processing Development Corporation (JIPDEC).
 
-[](http://privacymark.org/)
+[ ](http://privacymark.org/)
 
 This Privacy Notice shall be governed by and construed in accordance with the laws of Japan.
 
