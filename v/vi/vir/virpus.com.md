@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virpus.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218055841id_/http%3A//virpus.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virpus.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607141457id_/http%3A//virpus.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Virpus.com
 
