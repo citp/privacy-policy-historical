@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chef2chef.net privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124191446id_/http%3A//www.chef2chef.net/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chef2chef.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607133823id_/http%3A//www.chef2chef.net/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Chef 2 Chef | Chef2Chef.net
 
