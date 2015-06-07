@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the moxtra.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107120119id_/http%3A//www.moxtra.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moxtra.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142801id_/http%3A//www.moxtra.com/privacy.html) for the most accurate reproduction.*
 
 # Moxtra Privacy Policy
 
-January 22, 2013
+April 8, 2015
 
 Moxtra, Inc. (“Moxtra”) is committed to protecting your privacy and ensuring you have a positive experience on our website and in using our products and services (collectively “Products”). This policy covers the Moxtra website and is applicable worldwide. This policy outlines our personal information handling practices for both online and offline data. If you give us personal information, we will treat it according to this policy. This policy may be updated from time to time and our website will indicate when the policy has been updated. You may access the current version at any time by clicking on the “Privacy Policy” link at the footer on our website.
 
@@ -96,6 +96,17 @@ When we transfer credit card information over the Internet, we protect it using 
 While we strive to protect your Personal Information, we cannot ensure the security of the information you transmit.
 
 We recommend you to take every precaution in protecting your Personal Information when you are on the Internet. For example, change your passwords often, use a combination of letters and numbers when creating passwords, and make sure you use a secure browser.
+
+#### Safe Harbor
+
+[We Self-Certify Compliance with:](http://safeharbor.export.gov/list.aspx)   
+[](http://www.export.gov/safeharbor/)
+
+Moxtra complies with the U.S.–E.U. Safe Harbor Framework and the U.S.–Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the from European Union member countries and Switzerland. Moxtra has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Moxtra's certification, please visit <http://www.export.gov/safeharbor/>.
+
+Moxtra has registered with the [International Centre for Dispute Resolution](http://go.adr.org/safeharbor) to serve as the independent recourse mechanism to resolve disputes related to our Safe Harbor compliance.
+
+If you have any questions about this Privacy Policy, you should first contact us at privacy@moxtra.com.
 
 #### Cookies
 
