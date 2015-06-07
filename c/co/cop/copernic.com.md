@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the copernic.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118195534id_/http%3A//www.copernic.com/en/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copernic.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607031612id_/http%3A//www.copernic.com/en/company/privacy) for the most accurate reproduction.*
 
-# Copernic - Privacy Policy
+# Privacy Policy
 
 ## Copernic - Web Site Privacy Policy
 
@@ -14,7 +14,7 @@ This policy applies to the collection, use, storage and disclosure of informatio
 **Links to Other Sites**  
 You will find various links on our sites. The sites these all link to are owned and maintained by independent companies, over which Copernic has no control, and who are not covered by this privacy policy. Copernic is not responsible or liable for the content of these sites, or their collection of information and its use. If you have any concerns about your privacy at one of these sites, please review their sites' policies or contact them directly. 
 
-**Cookies   **  
+**Cookies  **  
 Cookies are small files that are downloaded to your computer, and that allow Copernic to collect aggregate statistical information. They are not in any way harmful to your computer, nor are they capable of personally identifying you. Rather, they are only capable of collecting anonymous information, and letting us know basic information about your visit. 
 
 COOKIES: A cookie is a small piece of data that is delivered to your computers' hard drive when you visit a site run by Copernic, or that includes advertisements or search results served by us on another site. No personal information is stored within the cookie. It is an anonymous piece of data that simply identifies your computers' IP address by assigning it a unique number. It does not identify you, personally, but rather it identifies your computer as a "unique user." 
