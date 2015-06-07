@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macquarie.com.au privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121115202id_/http%3A//www.macquarie.com.au/mgl/au/sitewide/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macquarie.com.au privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608013617id_/https%3A//www.macquarie.com.au/mgl/au/sitewide/privacy-policy) for the most accurate reproduction.*
 
 # None
 
@@ -42,7 +42,7 @@ We collect health information where we offer products with an insurance componen
 
 We may collect information about your affiliation with certain organisations such as professional associations. 
 
-We also collect personal information from people who submit applications or register interest for employment with Macquarie Group. Please read the [Career Privacy Policy](https://web.archive.org/mgl/au/about-macquarie-group/careers/working/privacy) for more information. 
+We also collect personal information from people who submit applications or register interest for employment with Macquarie Group. Please read the [Careers Privacy Policy](http://www.macquarie.com/au/about/careers#?scroll=privacy) for more information. 
 
 We also have a [Credit Information Policy](https://web.archive.org/mgl/au/sitewide/credit-information-policy) which sets out details of our handling of personal information obtained from credit reporting bodies. This applies primarily in connection with our Australian credit products such as credit cards and loans. 
 
