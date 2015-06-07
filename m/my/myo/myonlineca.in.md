@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myonlineca.in privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228221618id_/http%3A//www.myonlineca.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myonlineca.in privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607071935id_/http%3A//www.myonlineca.in/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - MyOnlineCA : Now Chartered Accountants Online
+# Privacy Policy - MyOnlineCA.in
 
 Privacy Policy This privacy policy sets out how MyOnlineCA.in uses and protects any information that you give MyOnlineCA.in when you use this website.   
   
@@ -60,6 +60,9 @@ You may choose to restrict the collection or use of your personal information in
   
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.   
   
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.   
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.   
+  
+  
+MyOnlineCA.in maintains strict customer confidentiality and will not share the information with any third party sources.  
   
 
