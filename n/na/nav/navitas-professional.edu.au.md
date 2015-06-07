@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the navitas-professional.edu.au privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219092152id_/http%3A//www.navitas-professional.edu.au/privacy-policy/Navitas-Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navitas-professional.edu.au privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607040523id_/http%3A//www.navitas-professional.edu.au/privacy-policy/Navitas-Privacy-Policy.htm) for the most accurate reproduction.*
 
 # Navitas Privacy Policy » Navitas Professional
 
