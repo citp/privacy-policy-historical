@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collagevideo.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127123557id_/http%3A//www.collagevideo.com/pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collagevideo.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607134105id_/http%3A//www.collagevideo.com/pages/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement – Collage Video
 
