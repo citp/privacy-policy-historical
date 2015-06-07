@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krkboxoffice.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029185034id_/http%3A//krkboxoffice.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krkboxoffice.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607232046id_/http%3A//www.krkboxoffice.com/privacy-policy) for the most accurate reproduction.*
 
 # Krkboxoffice
 
