@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the curriki.org privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216131508id_/http%3A//www.curriki.org/xwiki/bin/view/Main/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curriki.org privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608005729id_/http%3A//www.curriki.org/xwiki/bin/view/Main/PrivacyPolicy) for the most accurate reproduction.*
 
 # Curriki - Privacy Policy
 
 Updated: September 16, 2011
 
-[Download a PDF of the Curriki Privacy Policy](https://web.archive.org/xwiki/bin/download/Main/PrivacyPolicy/CurrikiPrivacyPolicyv2.1.pdf)
+[Download a PDF of the Curriki Privacy Policy](http://attachments-cdn-www.curriki.org//xwiki/bin/download/Main/PrivacyPolicy/CurrikiPrivacyPolicyv2.1.pdf?v=20.1)
 
 ### Information Collection & Use
 
