@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneymanifesto.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123060204id_/http%3A//www.moneymanifesto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymanifesto.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145032id_/http%3A//www.moneymanifesto.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -23,4 +23,4 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20141123060204id_/http://www.moneymanifesto.com/privacy/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
+AdSense Privacy Policy Provided by JenSense
