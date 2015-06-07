@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashadee.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029044728id_/http%3A//www.ashadee.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashadee.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607235331id_/http%3A//www.ashadee.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Ashadee
 
@@ -37,7 +37,7 @@ We use this information for billing purposes and to fill your orders. If we have
 
 **Updating Personally Identifiable Information**
 
-If your personally identifiable information changes you may request the information be corrected, updated, amended, or deleted through our [Contact Us page](http://support.jomniaga.com/) or by contacting us at the contact information listed below. We will respond to your request within 30 days.
+If your personally identifiable information changes you may request the information be corrected, updated, amended, or deleted through our [Contact Us page](https://kreydle.zendesk.com/hc/en-us/requests/new) or by contacting us at the contact information listed below. We will respond to your request within 30 days.
 
 **Information Collection**
 
@@ -91,13 +91,13 @@ We reserve the right to modify this Privacy Policy at any time, so please review
 
 **Comments and Questions**
 
-If you have any questions, comments or concerns about our Privacy Policy, you may contact us by submitting your inquiry to our [Customer Service Department](http://support.jomniaga.com/) or:
+If you have any questions, comments or concerns about our Privacy Policy, you may contact us by submitting your inquiry to our [Customer Service Department](https://kreydle.zendesk.com/hc/en-us) or:
 
 To reach us by fax, please dial: +603-7954-5277.
 
 To reach us by mail, please use the following address:
 
 Ashadee Sdn Bhd,  
-No3B, Second Floor, Jalan 14/20,   
-Seksyen 14, 46200 Petaling Jaya,   
+18A-4, Third Floor, Jalan 14/20,  
+Seksyen 14, 46100 Petaling Jaya,  
 Selangor, Malaysia.
