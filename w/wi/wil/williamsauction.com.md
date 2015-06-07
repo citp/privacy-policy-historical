@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the williamsauction.com privacy policy that was archived on 2014-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140408000317id_/http%3A//www.williamsauction.com/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the williamsauction.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607035639id_/http%3A//www.williamsauction.com/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -64,7 +64,7 @@ We have physical, electronic, and procedural safeguards that comply with federal
 Further, the only means to participate in an auction is through the Williams & Williams website registration and access process, which should include a password for each transmission. Williams & Williams strongly recommends that all private transmissions be protected by passwords.
 
 **Privacy Contact**  
-If you have any questions about this Privacy Policy or about our information-collection practices, please contact us at legal@williamsauction.com Alternatively, you can contact us at Williams & Williams Marketing Services, Inc., 7120 South Lewis, Suite 200, Tulsa, Oklahoma 74136, USA.
+If you have any questions about this Privacy Policy or about our information-collection practices, please contact us at legal@williamsauction.com Alternatively, you can contact us at Williams & Williams Marketing Services, Inc., 7140 South Lewis, Suite 200, Tulsa, Oklahoma 74136, USA.
 
 Copyright 2011 Williams & Williams Marketing Services, Inc. * All rights reserved
 
