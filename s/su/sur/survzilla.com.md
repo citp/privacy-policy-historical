@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the survzilla.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208135529id_/http%3A//survzilla.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the survzilla.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607032717id_/http%3A//survzilla.com/pages/privacy) for the most accurate reproduction.*
 
 # theZilla - Test Yourself Today! Your destination for daily fun tests and personality quizzes!
 
-**PRIVACY POLICY — IMPORTANT — PLEASE READ**
+PRIVACY POLICY — IMPORTANT — PLEASE READ
 
 This privacy policy (the "Privacy Policy") discloses the information gathering and dissemination practices for this website. We will notify you of changes to our Privacy Policy by posting the new policy on this website. Review our Privacy Policy regularly so that you can stay informed of our practices, as they may change in the future.
 
@@ -22,5 +22,12 @@ This website is directed at teenagers and adults and not to children under the a
 
 Contact us at the address below if you want us to change or delete any information that we have about you. We will respond to your request to access, update, or delete your information within ten (10) business days. Before we are able to provide you with any information, correct any inaccuracies, or delete any information, however, we may ask you to verify your identity.
 
-To reach the owner of this website, [contact@survzilla.com](mailto:contact@survzilla.com)   
+ We also use retamarketing pixels from Google Adwords.
+
+AdWords Remarketing is a Remarketing and Behavioral Targeting service provided by Google. It connects the activity of www.example.com with the Adwords advertising network and the Doubleclick Cookie. You can opt out of the cookie tracking here:
+
+http://google.com/settings/ads/onweb/optout?hl=en
+
+  
+To reach the owner of this website, contact@theZilla.com   
 This privacy policy is effective as of May 28th, 2014.
