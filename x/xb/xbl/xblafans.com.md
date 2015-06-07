@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the xblafans.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229172327id_/http%3A//www.xblafans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xblafans.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607154309id_/http%3A//www.xblafans.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | xblafans.com
 
 ## Here at XBLAFans.com we pride ourselves on user service, and part of that is looking after your privacy. This Privacy Policy outlines the types of personal information we gather when you visit our site.
 
-The following principles apply to the personally identifying information we ask for and that you provide. “Personally identifying information” is information that individually identifies you, such as your name, physical address or email address
+The following principles apply to the personally identifying information we ask for and that you provide. "Personally identifying information" is information that individually identifies you, such as your name, physical address or email address
 
 ## Cookies
 
-On some pages of  XBLAFans.com  a cookie is sent to your computer that uniquely identifies the user when they log in. A “cookie” is a small file containing a string of characters that is sent to your computer when you visit a website. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some features may not function properly without cookies.
+On some pages of  XBLAFans.com  a cookie is sent to your computer that uniquely identifies the user when they log in. A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some features may not function properly without cookies.
 
 ## Data collection
 
