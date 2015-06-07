@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the terraserver.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118001422id_/http%3A//www.terraserver.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terraserver.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607072300id_/http%3A//www.terraserver.com/privacy.asp) for the most accurate reproduction.*
 
 # TerraServer - Privacy Policy
 
-| 
-
-|  |    
+|    
 ---  
 Privacy Policy  
    
@@ -49,6 +47,4 @@ Using the following information, you can contact us if you have questions about 
 TerraServer   
 5995 Chapel Hill Rd #109   
 Raleigh, NC 27607   
-USA   
-  
- 
+USA 
