@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topicnow.info privacy policy that was archived on 2014-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141005145026id_/http%3A//topicnow.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topicnow.info privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607203558id_/http%3A//topicnow.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TopicNow.info
 
