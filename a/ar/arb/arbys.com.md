@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the arbys.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105455id_/http%3A//arbys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arbys.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174742id_/http%3A//arbys.com/privacy-policy) for the most accurate reproduction.*
 
 # Arby's | Privacy Policy
-
-[ Back to About Us](https://web.archive.org/about)
 
 Welcome
 
@@ -10,7 +8,7 @@ This Privacy Policy is designed to explain Arby’s Restaurant Group, Inc. (“A
 
 The Internet presents an opportunity for us to reach our audience in new and exciting ways with product information, company information, and activities such as sweepstakes, contests and other promotions. We are committed to offering that opportunity in a safe and secure environment for our visitors.
 
-Types of Information We Collect and How It Is Used
+## Types of Information We Collect and How It Is Used
 
 Personally Identifying Information (“PII”)
 
@@ -58,7 +56,7 @@ Safety and Security
 
 Arby’s takes steps to help ensure that all information provided by you, whether PII or non-PII, is treated securely. No data transmission over the Internet, however, can be guaranteed to be totally secure. While we try to protect your PII, we cannot guarantee the security of any information you transmit to us. You use the Site, and provide us with PII, at your own risk.
 
-Gathering Information Electronically
+## Gathering Information Electronically
 
 Use of Cookies
 
