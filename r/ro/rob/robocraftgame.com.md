@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the robocraftgame.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626192751id_/http%3A//robocraftgame.com/download/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robocraftgame.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607193901id_/http%3A//robocraftgame.com/download/privacy-policy) for the most accurate reproduction.*
 
 # ROBOCRAFT | Privacy Policy
 
-2 April 2013
+11 November 2014
 
 Freejam – the independent developer of Robocraft –  maintains this Privacy Policy (“Policy”) that summarizes our policies and processes for protecting the privacy of all personal information gathered from customers, prospective customers, and visitors to our website(s) or who download Freejam’s products and services, and when and how such information is collected, used, transferred, disclosed and safeguarded. This policy also explains how anyone can review, update, correct, or delete their personal information and specify what information, if any, they would like to receive from Freejam on an ongoing basis.
 
@@ -10,7 +10,7 @@ THE USER OF OUR SERVICES, GAMES, AND WEB SITES ARE SUBJECT TO AGREEMENT TO THE T
 
 1\. COMMITMENT
 
-Freejam is committed to ensuring your privacy and protecting the security of your personal information. This policy covers the public Freejam website – [www.robocraftgame.com](http://robocraftgame.com/) – and all online forms, internal forms and means of communication on the Website and computer game client Robocraft (hereinafter – “Game”) through which Freejam collects personal information.
+Freejam is committed to ensuring your privacy and protecting the security of your personal information. This policy covers the public Freejam website – [www.robocraftgame.com](http://robocraftgame.com/) – and all online forms, internal forms and means of communication on the Website and in the computer game client Robocraft (hereinafter – “Game”) through which Freejam collects personal information.
 
 If you do not agree with any terms of conditions described in this Policy or the Terms of Service, you may not use the Website or the Game.
 
@@ -57,6 +57,10 @@ You may refuse to accept cookies by activating the setting on your browser which
 Like most internet services, we may also use log files on the server side. The data held in log files includes your IP (Internet Protocol) address, browser type, e-mail application, Internet service provider, referring/exit Web pages, computer platform type, date/time stamp, and user activity (e.g., feature usage, user rankings, game statistics). Freejam uses server log data to analyze trends, administer the services offered through the Website and in the Game.
 
 The software enabling the Website and the Game has associated log and temporary files that are stored on Freejam’s servers. These files store your account information, preference settings, system notifications as well as other data necessary to enable you to participate on the Website and in the Game. Your information may also exist within regularly performed server backups. The foregoing information is collected on an aggregated and anonymous basis for providing the Website and Game functioning.
+
+## 2.4 EAC and Anti-Cheat (Roboshield)
+
+The Robocraft game integrates the software EasyAntiCheat to protect against attempts to cheat in Robocraft. The EasyAntiCheat software captures, stores and shares information used for the sole purpose of protecting Robocraft from cheating. EAC does not target nor store any data identifying individual users outside of their Robocraft user ID, HardwareID, and IP address. For full details on how EAC captures, stores and shares information please read [Roboshield and EAC Privacy Details](http://robocraftgame.com/roboshield-and-eac-privacy-details/ "Reply To: \[POSSIBLE TEMP FIX\] Could not Enable the Roboshield. Reason: Timed out.").
 
 When you play any of the games offered and/or services by Freejam, or use any of the communication features on the Websites and in the Game, your IP address (the Internet protocol address from which you access any of the above) may be stored in our records. When any Game is updated or “patched”, our patch routine may check your computer to see that you have the most recent version of the game-specific files; when you communicate on the Website, within the Game or any other communication feature on the Website or within the Game (e.g. live chat, instant message services and the like), ever “privately” to another person, you do so with the understanding that those communications go through our servers, can be monitored by us, you have no expectation of privacy in any of those communications and, accordingly, you expressly consent to monitoring of communications that you send and receive.
 
