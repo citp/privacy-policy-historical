@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fafsa.gov privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625075008id_/http%3A//fafsa.gov/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fafsa.gov privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607034719id_/http%3A//fafsa.gov/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -19,12 +19,12 @@
 <script type="text/javascript" src="/js/help.js"></script>
 <script type="text/javascript" src="/js/index/agenindex.js"></script>
 <script type="text/javascript" src="/js/webdemo.js"></script>
-<script type="text/javascript" src="/js/jQuery/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="/js/jQuery/jquery-1.8.3.min.js"></script>
 <script type="text/javascript" src="/js/jQuery/jquery.namespace.js"></script>
-
+<script type="text/javascript" src="/js/externalLinks.js"></script>
 <script type="text/javascript" src="/js/analytics/jquery.analytics.js"></script>
 <script type="text/javascript" src="/js/analytics/jquery.webtrends.js"></script>
-
+<script type="text/javascript" src="/js/index/pageAnchorFocus.js"></script>
 <script type="text/javascript" src="/js/jQuery/jquery.help.js"></script>
 <script type="text/javascript" src="/js/help.js"></script>
 
@@ -83,17 +83,6 @@
 	jQuery.noConflict();
 	jQuery(document).ready(function($) {
 		hideCategoryDetails();
-		
-		//fix nav links in IE - not de-highlighting after they are clicked
-    	navLinkBlur();
-		
-		// Handle the ENTER key in the Search box
-    	jQuery("#query").keypress(function(event) {
-			if (event.keyCode == 13) {
-				JavaScript:Search(); 
-				return false;
-			}
-    	});
 
 		bindCategoryLink("genQuestionsLink", "genQuestions");
 		bindCategoryLink("getStartedLink", "getStarted");
@@ -105,11 +94,6 @@
 		bindCategoryLink("yourReportLink", "yourReport");
 		bindCategoryLink("helpGovLink", "helpGov");
 		bindCategoryLink("privacyLink", "privacy");
-		
-		jQuery("#searchRef").webtrends.assignSearchButton();
-       	jQuery("#query").webtrends.assignSearchInputBox();
-       	
-       	jQuery("#query").help.addHelpSearchInputBehaviors();
 
 	}); // end jQuery(document).ready
 
@@ -155,44 +139,92 @@
 				<input type="hidden" name="numresults" value="10">
 	<input type="hidden" name="requiredfields" value="searchType:STUDENT">
 
+			<script type="text/javascript">
+//<![CDATA[
 
-			<div id="menuContainer">
+	jQuery.noConflict();
+	jQuery(document).ready(function($) {
+		
+		// Handle the ENTER key in the Search box
+    	jQuery("#navQuery").keypress(function(event) {
+			if (event.keyCode == 13) {
+				JavaScript:Search('nav'); 
+				return false;
+			}
+    	});
+    	
+    	// Handle clicking the Search button
+    	jQuery("#navSearchRef").click(function() {
+    		JavaScript:Search('nav');
+    		return false;
+    	});
+    	
+    	// Add Webtrends functionality on Search box and button
+       	jQuery("#navQuery").webtrends.assignSearchInputBox();
+       	jQuery("#navSearchRef").webtrends.assignSearchButton();
+    	
+       	jQuery("#navQuery").help.addHelpSearchInputBehaviors();
+       	
+       	//takes focus off of topnav icons after being clicked in IE8
+    	navLinkBlur();
 
-				<div class="leftSide_top"></div>
-				<div class="rightSide_top"></div>
-				<div class="leftSide_mid">
-					<div class="rightSide_mid">
-						<div class="botGrad">
-							<ul class="topGrad">
-								<li><a href="index.htm"> <span><img src="images/icon_home.gif" alt="Home">
-									</span><strong>Home</strong> </a></li>
-								<li><a href="http://studentaid.ed.gov/about" target="_blank"> <span><img src="images/icon_about_us.gif" alt="About Us">
-									</span><strong>About Us</strong> </a></li>
-								<li><a href="http://www.pin.ed.gov/PINWebApp/pinindex.jsp" target="_blank"> <span><img src="images/icon_pin_site.gif" alt="PIN Site">
-									</span><strong>PIN Site</strong> </a></li>
-								<li><a href="http://studentaid.ed.gov" target="_blank">
-										<span><img src="images/icon_student_aid.gif" alt="StudentAid.gov">
-									</span><strong>StudentAid.gov </strong> </a></li>
-								<li><a href="help.htm"> <span><img src="images/icon_browse_help.gif" alt="Help">
-									</span><strong>Help</strong> </a></li>
-								<li id="search">
-									<div id="searchInputs">
-										<input type="text" name="q" maxlength="100" size="55" id="query" title="Enter search term">
-										<label for="query">
-                                        	<input type="image" id="searchRef" alt="Search" src="images/btn_search_wh.gif" onclick="JavaScript:Search('nav');" onmouseout="imgOut(this, 'off');" onmouseover="imgIn(this, 'off');">
-                                        </label>
-									</div></li>
-							</ul>
+	}); // end jQuery(document).ready
+	//]]>
+</script>
+
+<div id="menuContainer">
+    <div class="leftSide_top"></div>
+    <div class="rightSide_top"></div>
+    <div class="leftSide_mid">
+        <div class="rightSide_mid">
+            <div class="botGrad">
+                <ul class="topGrad">
+                    <li>
+                        <a href="index.htm" title="Home">
+                        	<span><img src="images/icon_home.gif" alt="Home"></span><strong>Home</strong>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="Javascript:externalLinks.openExtURL(externalLinks.aboutUs_EN);" title="About Us">
+                            <span><img src="images/icon_about_us.gif" alt="About Us"></span><strong>About Us</strong>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://StudentAid.gov/fsaid" target="_blank" title="FSA ID">
+                        	<span><img src="images/icon_FSA_ID.gif" alt="FSA ID"></span><strong>FSA ID</strong>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="Javascript:externalLinks.openExtURL(externalLinks.studentAid_EN);" title="StudentAid.gov">
+                        	<span><img src="images/icon_student_aid.gif" alt="StudentAid.gov"></span><strong>StudentAid.gov </strong>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="help.htm" title="Help">
+                        	<span><img src="images/icon_browse_help.gif" alt="Help"></span><strong>Help</strong>
+                        </a>
+                    </li>
+                    <li id="search">
+                        <div id="searchInputs">
+                            <input type="text" name="q" maxlength="100" size="55" id="navQuery" title="Enter search term">
+                            <label for="navQuery">
+                            	<input type="image" id="navSearchRef" alt="Search" src="images/btn_search_wh.gif" onmouseout="imgOut(this, 'off');" onmouseover="imgIn(this, 'off');">
+                        	</label>
+                        </div>
+                        <div id="language" style="display: none;">
+							<a id="englishLink" class="active" href="index.htm">English</a><a id="spanishLink" href="es_ES/index.htm" class="noBorder">Español</a>
 						</div>
-					</div>
-				</div>
-				<div class="leftSide_bot"></div>
-				<div class="rightSide_bot"></div>
-
+					</li>
+				</ul>
 			</div>
+		</div>
+	</div>
+	<div class="leftSide_bot"></div>
+	<div class="rightSide_bot"></div>
+</div>
 
 			<div id="mainContent">
-				<a name="skiplinks"></a> <span class="formhead_left"></span> <span class="formhead_right"></span> <span class="formhead_mid">
+				<a name="skiplinks" tabindex="-1"></a> <span class="formhead_left"></span> <span class="formhead_right"></span> <span class="formhead_mid">
 					<h3>Privacy &amp; Security Information</h3> </span>
 
 				<div class="copyBox">
@@ -202,64 +234,59 @@
 
 
 						<!-- BEGIN CONTENT AREA -->
-						<blockquote>
+						<blockquote id="pageAnchorLinks">
 							<p>
-								<a href="#1">Privacy Act</a>
+								<a href="#1" class="anchorLink">Privacy Act</a>
 							</p>
 							<p>
-								<a href="#2">Non-personal information we record</a>
+								<a href="#2" class="anchorLink">Non-personal information we record</a>
 							</p>
 							<p>
-								<a href="#3">Security and Intrusion Detection</a>
+								<a href="#3" class="anchorLink">Security and Intrusion Detection</a>
 							</p>
 							<p>
-								<a href="#4">Information from e-mail you send us</a>
+								<a href="#4" class="anchorLink">Information from e-mail you send us</a>
 							</p>
 							<p>
-								<a href="#5">Information collected if you complete a form on
+								<a href="#5" class="anchorLink">Information collected if you complete a form on
 									our Web sites</a>
 							</p>
 							<p>
-								<a href="#6">State Certification</a>
+								<a href="#6" class="anchorLink">State Certification</a>
 							</p>
 							<p>
-								<a href="#7">Your rights under the Paperwork Reduction Act</a>
+								<a href="#7" class="anchorLink">Your rights under the Paperwork Reduction Act</a>
 							</p>
 							<p>
-								<a href="#8">More about privacy and your student aid records</a>
+								<a href="#8" class="anchorLink">More about privacy and your student aid records</a>
 							</p>
 							<p>
-								<a href="privacynotice.htm" target="_blank">Privacy Notice</a>
+								<a href="privacynotice.htm" target="_blank" tabindex="0">Privacy Notice</a>
 							</p>
 							<p>
-								<a href="http://www2.ed.gov/notices/pia/index.html" target="_blank">Privacy Impact Assessment</a>
+								<a href="Javascript:externalLinks.openExtURL(externalLinks.privacy);" tabindex="0">Privacy Impact Assessment</a>
 							</p>
 						</blockquote>
+						<div id="pageAnchorContent">
 						<a name="1"></a><br>
 						<p>&nbsp;</p>
-						<p>
-							<strong>Privacy Act</strong><br> <br> Thank you for
-									visiting our Web site. Our privacy policy is simple: We collect
-									no personal information about you unless you choose to provide
-									that information to us. 
-						</p>
-						<p>Below you will find information explaining how your
-							information will be safeguarded.</p>
+						
+						<h4>Privacy Act</h4>
+						<p>Thank you for visiting our Web site. Our privacy policy is simple: We collect no personal information about you unless you choose to provide that information to us.</p>
+						<p>Below you will find information explaining how your information will be safeguarded.</p>
 						<p align="right">
-							<a href="#container">Return to top</a>
+							<a href="#container" class="anchorToTopLink">Return to top</a>
 						</p>
 
 						<a name="2"></a>
-						<p>
-							<strong>Non-personal information we record </strong>
-						</p>
+						<h4>Non-personal information we record </h4>
 						<p>
 							If you do nothing during your visit but browse through the Web
 							site, read pages, or download information, our Web site's
 							operating system will automatically record some general
-							information about your visit.
+							information about your visit.</p>
 
-							</p><p>During your visit, our Web operating system will record:</p>
+							<p>During your visit, our Web operating system will record:</p>
 
 							1. The<strong> Internet domain</strong> for your Internet
 							service, such as "xcompany.com" or "xcompany.net" if you use a
@@ -276,12 +303,12 @@
 								us make our site more useful to visitors. This tracking system
 								does not record information about individuals.</p>
 							<p align="right">
-								<a href="#container">Return to top</a>
+								<a href="#container" class="anchorToTopLink">Return to top</a>
 							</p>
 
 							<a name="3"></a>
-							<p>
-								<strong>Security and Intrusion Detection</strong><br> <br>
+							<h4>Security and Intrusion Detection</h4>
+							<p>	
 								For security purposes and to make sure this service remains
 								available to all users, we use special software programs for
 								monitoring network traffic to identify unauthorized attempts to
@@ -297,11 +324,11 @@
 								determining trends in usage patterns and in diagnosing system
 								problems.</p>
 							<p align="right">
-								<a href="#container">Return to top</a>
+								<a href="#container" class="anchorToTopLink">Return to top</a>
 							</p>
 							<a name="4"></a>
-							<p>
-								<strong>Information from e-mail you send us </strong><br><br>
+							<h4>Information from e-mail you send us </h4>
+							<p>			
 										If you decide to send us an electronic mail message (e-mail,
 										which includes information you send to Customer Service
 										regarding a problem or feedback you provide on a Customer
@@ -325,12 +352,12 @@
 										Washington, D.C. 20044 
 							</p>
 							<p align="right">
-								<a href="#container">Return to top</a>
+								<a href="#container" class="anchorToTopLink">Return to top</a>
 							</p>
 							<a name="5"></a>
-							<p>
-								<strong>Information collected if you complete a form on
-									our Web sites </strong><br><br> On this Web site, we offer
+							<h4>Information collected if you complete a form on our Web sites</h4>
+									
+							<p>			On this Web site, we offer
 										interactive forms that allow you to apply for financial aid.
 										When you apply for federal student aid using one of these
 										forms, the Office of Federal Student Aid is authorized to
@@ -352,12 +379,11 @@
 									Privacy Act Rights</a>
 							</p>
 							<p align="right">
-								<a href="#container">Return to top</a>
+								<a href="#container" class="anchorToTopLink">Return to top</a>
 							</p>
 							<a name="6"></a>
-							<p>
-								<strong>State Certification </strong><br><br> When you
-										submit this application, you are automatically applying for
+							<h4>State Certification</h4>
+							<p>			When you submit this application, you are automatically applying for
 										financial aid from your state of legal residence and, in some
 										cases, the state in which your school is located. You are
 										giving your state financial aid agency permission to verify
@@ -366,44 +392,35 @@
 								
 							</p>
 							<p align="right">
-								<a href="#container">Return to top</a>
+								<a href="#container" class="anchorToTopLink">Return to top</a>
 							</p>
 
 							<a name="7"></a>
-							<p>
-								<strong>Your rights under the Paperwork Reduction Act </strong><br><br>
-										According to the Paperwork Reduction Act of 1995, no persons
-										are required to respond to a collection of information unless
-										such collection displays a valid OMB control number, which for
-										this form is 1845-0001. Public reporting burden for this
-										collection of information is estimated to average 55 minutes
-										for applicants who use <i>FAFSA on the Web</i> to complete and
-										submit the application, an average of 45 minutes for an
-										applicant who has previously used 
-								<i>FAFSA on the Web</i> and completes a renewal FAFSA, and an
-								average of 10 minutes to make FAFSA corrections; these averages
-								include time for reviewing instructions, searching existing data
-								sources, gathering and maintaining the data needed, and
-								completing and reviewing the collection of information. The
-								obligation to respond to this collection is voluntary. Send
-								comments regarding the burden estimate or any other aspect of
-								this collection of information, including suggestions for
-								reducing this burden, to the Federal Student Aid Information
-								Center, P.O. Box 84, Washington, D.C. 20044.<br><br>
-
-										We may request additional information from you to process your
-										application more efficiently. We will collect this additional
-										information only as needed and on a voluntary basis.
+							<h4>Your rights under the Paperwork Reduction Act</h4>
+							<p>	According to the Paperwork Reduction Act of 1995, no persons are required to 
+								respond to a collection of information unless such collection displays a valid 
+								OMB control number. The valid OMB control number for this information collection 
+								is 1845-0001. Public reporting burden for this collection of information is estimated 
+								to average 50 to 55 minutes for applicants who use <i>FAFSA on the Web</i>
+								to complete and submit the application, an average of 40 to 45 minutes for an applicant
+								who has previously used <i>FAFSA on the Web</i> and completes a renewal FAFSA, and an 
+								average of 5 to 10 minutes to make FAFSA corrections; these averages include time for 
+								reviewing instructions, searching existing data sources, gathering and maintaining the 
+								data needed, and completing and reviewing the collection of information. The obligation 
+								to respond to this collection is voluntary. If you have comments or concerns regarding 
+								the status of your individual submission of this form, please contact the Federal Student 
+								Aid Information Center, P.O. Box 84, Washington, D.C. 20044 directly.
+								<br><br>We may request additional information from you to process your application more efficiently. 
+								We will collect this additional information only as needed and on a voluntary basis.
 							</p>
 
 						<p></p>
 						<p align="right">
-							<a href="#container">Return to top</a>
+							<a href="#container" class="anchorToTopLink">Return to top</a>
 						</p>
 						<a name="8"></a>
-						<p>
-							<strong>More about privacy and your student aid records
-							</strong><br> <br> When you apply for federal student aid, the
+						<h4>More about privacy and your student aid records</h4>
+						<p>			When you apply for federal student aid, the
 									Office of Federal Student Aid Programs is authorized to
 									maintain a record of the transactions related to your
 									application. 
@@ -412,7 +429,8 @@
 							<a target="_blank" href="/pdf/cps_sorn.pdf">Click
 								this link to review the System of Records notices</a>, which list
 							the authorized disclosures and the safeguards for the Office of
-							Federal Student Aid Program systems under the <a target="_blank" href="http://www.justice.gov/opcl/privstat.htm"> Privacy Act
+							Federal Student Aid Program systems under the
+							<a href="Javascript:externalLinks.openExtURL(externalLinks.privacyAct);">Privacy Act
 								of 1974, as amended</a>.
 						</p>
 						<p>
@@ -422,13 +440,14 @@
 							electronic form). State agencies and schools also collect other
 							information relating to financial aid payments, admission,
 							enrollment, etc. The privacy of these records is protected by the
-							<a target="_blank" href="http://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html">
+							<a href="Javascript:externalLinks.openExtURL(externalLinks.FERPA);">
 								Family Educational Rights and Privacy Act</a>.
 						</p>
 						<p align="right">
-							<a href="#container">Return to top</a>
+							<a href="#container" class="anchorToTopLink">Return to top</a>
 						</p>
-						<br> <!-- END CONTENT AREA -->
+						<br>
+						</div><!-- END #glossaryContent -->
 					</div>
 
 				</div>
@@ -441,25 +460,25 @@
 				</div>
 			</div>
 			<div class="smallGreyText" id="datestamp">
-				Site Last Updated: Sunday, April 13, 2014
+				Site Last Updated: Sunday, May 10, 2015
 
-				<span id="dateStampLinks">Download <a href="http://www.adobe.com/products/reader.html" target="_blank">Adobe Reader</a></span>
+				<span id="dateStampLinks">Download <a href="Javascript:externalLinks.openExtURL(externalLinks.adobe);">Adobe Reader</a></span>
 			</div>
 
 			<div id="footer">
 				<ul class="foot_left">
-					<li><a href="http://www.ed.gov/policy/gen/leg/foia/foiatoc.html" target="_blank">FOIA</a>|</li>
+					<li><a href="Javascript:externalLinks.openExtURL(externalLinks.FOIA);">FOIA</a>|</li>
 					<li><a href="privacy.htm" target="_blank">Privacy</a>|</li>
 					<li><a href="security.htm" target="_blank">Security</a>|</li>
 					<li><a href="security.htm" target="_blank">Notices</a></li>
 				</ul>
 
 				<ul class="foot_right">
-					<li><a href="http://www.whitehouse.gov" target="_blank">WhiteHouse.gov</a>|
+					<li><a href="Javascript:externalLinks.openExtURL(externalLinks.whiteHouse_EN);">WhiteHouse.gov</a>|
 					</li>
-					<li><a href="http://www.usa.gov" target="_blank">USA.gov</a>|
+					<li><a href="Javascript:externalLinks.openExtURL(externalLinks.usaGov_EN);">USA.gov</a>|
 					</li>
-					<li><a href="http://www.ed.gov" target="_blank">ED.gov</a></li>
+					<li><a href="Javascript:externalLinks.openExtURL(externalLinks.edGov_EN);">ED.gov</a></li>
 				</ul>
 			</div>
 	</form></div>
