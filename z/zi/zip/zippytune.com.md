@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zippytune.com privacy policy that was archived on 2013-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130210205131id_/https%3A//www.zippytune.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zippytune.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607034956id_/http%3A//www.zippytune.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - ZippyTune - Share Your Tracks.
 
@@ -40,7 +40,8 @@ These cookies allow our websites to remember choices you make while browsing, li
 
 **Advertising Cookies**
 
-These cookies are used to deliver targeted advertising as may be relevant to you and your interests. They are also used to limit the number of times you see an advertisement and help measure the effectiveness of the campaign. They remember you have visited a website and is shared with other sites such as advertisers. They may be linked to functionality provided by the other sites. You can choose whether to allow these cookies by changing your cookie settings in your browser. 
+These cookies are used to deliver targeted advertising as may be relevant to you and your interests. They are also used to limit the number of times you see an advertisement and help measure the effectiveness of the campaign. They remember you have visited a website and is shared with other sites such as advertisers. They may be linked to functionality provided by the other sites. You can choose whether to allow these cookies by changing your cookie settings in your browser.   
+You can [opt-out here.](http://www.networkadvertising.org/choices/)
 
 **What do we do with the information we collect?**
 
