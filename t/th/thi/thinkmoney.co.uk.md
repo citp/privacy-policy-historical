@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkmoney.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060028id_/http%3A//www.thinkmoney.co.uk/about-thinkmoney/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkmoney.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144637id_/http%3A//www.thinkmoney.co.uk/about-thinkmoney/privacy-policy) for the most accurate reproduction.*
 
 # Thinkmoney privacy policy
 
@@ -77,11 +77,17 @@ Trafford Park
 Manchester  
 M17 1FQ
 
+### Other types of advertising
+
+When you visit our website or similar websites our advertisements may be used by Google for the purposes of remarketing, and they may appear on other third party websites you visit across the internet for remarketing purposes. Google and other third parties will use cookies to tailor advertisements for website users based on their previous visit to our website. More information about cookies can be found below.
+
+We do not have any control over the advertisements you see on other third party websites however you can request to opt out or customise these advertisements by using the [Google Ads Preferences Manager](https://www.google.com/settings/ads).
+
 ### Cookies
 
 When using this website, some information may be collected automatically using ‘cookies’. These are small text files which facilitate the processing of your data and enable us to analyse how the website is being used. Cookies can be temporary or permanent.
 
-TTemporary cookies form part of the security process while you are using the website; permanent cookies identify the link you used to find our website, check your browser so that we can make sure that our website and services work well with your computer and to help us monitor traffic on our website.
+Temporary cookies form part of the security process while you are using the website; permanent cookies identify the link you used to find our website, check your browser so that we can make sure that our website and services work well with your computer and to help us monitor traffic on our website.
 
 #### Why are cookies used?
 
