@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the senacases.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226230212id_/http%3A//www.senacases.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the senacases.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200808id_/http%3A//www.senacases.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sena Cases
 
