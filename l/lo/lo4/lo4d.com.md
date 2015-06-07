@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the lo4d.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230202624id_/http%3A//www.lo4d.com/corp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lo4d.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607203025id_/http%3A//www.lo4d.com/corp/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at LO4D.com
 
 Your privacy is very important
 
-The following is a description of what information is collected while you're using our web site. **In a word:** We use statistical analytics software and a third-party ad-serving system on some pages. We don't collect e-mail addresses for marketing purposes and we don't sell or otherwise provide any of your data to third parties. 
+The following is a description of what information is collected while you're using our web site. 
+
+**In a word:** We use statistical analytics software and a third-party ad-serving system on some pages. We don't collect e-mail addresses for marketing purposes and we don't sell or otherwise provide any of your data to third parties. 
 
 Updated August 28, 2013
 
