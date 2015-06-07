@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the ontrack.com privacy policy that was archived on 2014-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141221162307id_/http%3A//www.krollontrack.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ontrack.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607123508id_/http%3A//www.krollontrack.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head runat="server"><script src="https://archive.org/includes/analytics.js?v=cf34f82"></script><!-- PageID 3867 - published by RedDot 9 - 9.0.0.27 - 32630 -->
-<!-- Foundation last modified : Friday, October 01, 2010 14:33 -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head runat="server"><script src="https://archive.org/includes/analytics.js?v=cf34f82"></script><script type="text/javascript" async="" src="//img.en25.com/i/elqCfg.min.js"></script><script src="http://www.ediscovery.com/ajax/GeoLocationSwitch/GetGeoLocationForIndependiendSites/?callback=jsonp1580425974650&amp;url=web.archive.org"></script><!-- PageID 3867 - published by Open Text Web Solutions 9 - 9.0.1.95 - 32630 -->
+<!-- Foundation last modified : Friday, October 01, 2010 2:33 PM -->
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="copyright" content="Copyright© Kroll Ontrack Inc. All Rights Reserved.">
 <!--  These are conditional in cases like press releases that MAY supply these meta elements -->
@@ -47,8 +47,10 @@
 <link href="/styles/util_styles.css" rel="stylesheet" type="text/css" media="all">
 
 
-<script type="text/javascript" async="" src="//img.en25.com/i/elqCfg.min.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20111014013439/https://ssl.google-analytics.com/ga.js"></script><script src="/scripts/jquery-1.4.2.min.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript" async="" src="https://web.archive.org/web/20111014013439/https://ssl.google-analytics.com/ga.js"></script><script src="/scripts/jquery-1.4.2.min.js" type="text/javascript" charset="utf-8"></script>
 <script src="/scripts/jquery.hoverIntent.minified.js" type="text/javascript" charset="utf-8"></script>
+<script src="/scripts/kroll.mobile.js" type="text/javascript" charset="utf-8"></script>
+
 <!-- Shared script for common functions, this gets published using replication -->
 <script src="/scripts/shared.js" language="javascript" type="text/javascript"></script>
 <script src="/scripts/GAKroll2010.js" language="javascript" type="text/javascript"></script>
@@ -154,8 +156,86 @@ if (window.addEventListener) window.addEventListener('DOMContentLoaded', async_l
 else if (window.attachEvent) window.attachEvent('onload', async_load);
 })();
 </script>
-<script type="text/javascript" charset="iso-8859-1" src="https://sales.liveperson.net/hcp/html/mTag.js?site=81015885"></script></head>
+
+<!-- Country Popup -->
+
+    <link href="/styles/ko_country_popup.css" rel="stylesheet" type="text/css" media="all">
+
+    <script src="/scripts/knockout-min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/scripts/knockout.kroll.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/scripts/jquery.cookie.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/scripts/kroll.countryPopup.js" type="text/javascript" charset="utf-8"></script>
+
+
+<script type="text/javascript">
+    
+   $(document).ready(function () {    
+        var params = {
+            ajaxContentCallUrl: 'http://www.ediscovery.com/ajax/GeoLocationSwitch/GetGeoLocationForIndependiendSites/',
+            ajaxDialogCallUrl: 'http://www.ediscovery.com/ajax/GeoLocationSwitch/GetDialogIndependientSitesTranslation/',
+            cookieName: 'koCountryPopup'
+        };
+
+        // Bind to hide, show events
+        (function($) {
+            $.each(['show','hide'], function(i, val) {
+                var _org = $.fn[val];
+                $.fn[val] = function() {
+                    this.trigger(val);
+                    return _org.apply(this, arguments);
+                };
+            });
+        })(jQuery);
+
+        // Initialize module
+        popupModule.init(params, $('#popup'));   
+     
+        // Close popup
+        $('#closePopup').click(
+            function(){
+                $('#popup').hide();
+            });
+        $('#popupBackground').click(
+            function () {
+                $('#popup').hide();
+            });        
+    })
+</script>
+
+<!-- End Country Popup -->
+
+<script type="text/javascript" defer="" src="https://connect.ekomi.de/integration_1430492785/05263822E5CA506.js"></script><script type="text/javascript" charset="iso-8859-1" src="https://sales.liveperson.net/hcp/html/mTag.js?site=81015885"></script></head>
 <body>
+    <!-- ko stopBinding: true -->
+    <div id="popup" style="display: none">
+        <div class="ko-modal" id="popupForm">
+            <div class="ko-modal-header">
+                <button id="closePopup" class="close" aria-hidden="true" type="button" data-dismiss="modal">×</button>
+            </div>
+            <div class="ko-modal-body">
+                <h1 class="header-txt" data-bind="html: content.header"></h1>
+                <p class="lead" align="center" data-bind="html: content.question"></p>
+                <div class="country-item-row">
+                    <div class="country-item">
+                        <button class="btn btn-success country-btn" data-bind="click: onCancelRedirection">
+                            <span class="btn-message" data-bind="html: content.btnOkHeader"></span><br>
+                            <span data-bind="html: content.btnOkText"></span>
+                        </button>
+                    </div>
+                    <div class="country-item">
+                        <button class="btn btn-primary  country-btn" data-bind="click: onRegionRedirection">
+                            <span class="btn-message" data-bind="html: content.btnRedirectHeader"></span><br>
+                            <span data-bind="html: content.btnRedirectText"></span>
+                        </button>
+                    </div>
+                </div>
+                <div class="ko-modal-flags" data-bind="foreach: sites"></div>
+            </div>
+        </div>
+        <div class="ko-modal-backdrop fade in" id="popupBackground"></div>
+    </div>
+    <!-- /ko -->
+
 
 <div align="center">
   <div id="Container">
@@ -312,17 +392,15 @@ playback timings (ms):
     <!-- Begin of Top Navigation  -->
 <div class="TopNav">
   <ul id="topnav">
-    <!-- Data Recovery -->
+   
         <li class="navfirst">
           <a href="/data-recovery/" class="nav1">Data Recovery</a>
             <div class="sub greendrop " style="opacity: 0;">
               <div class="row">
                           <ul style="width:225px">
-                  <li><div class="navtitle"><a href="/data-recovery/data-recovery-services/">Data Recovery Services</a></div></li>
-                  <li><div class="navtitle"><a href="/data-recovery/data-recovery-process/">Data Recovery Process</a></div></li>
-                  <li><div class="navtitle"><a href="/data-recovery/recovery-software/">Data Recovery Software</a></div></li>
-                  <li><div class="navtitle"><a href="/data-recovery/e-mail-recovery-software/">Email Recovery Software</a></div></li>
-                  <li><div class="navtitle"><a href="/data-recovery/content-management/">Content Recovery Software</a></div></li>
+                  <li><div class="navtitle"><a href="/data-recovery/data-recovery-services/">Services</a></div></li>
+                  <li><div class="navtitle"><a href="/data-recovery/data-recovery-process/">Process</a></div></li>
+                  <li><div class="navtitle"><a href="/data-recovery/recovery-software/">Software</a></div></li>
             </ul>
                         <ul class="sub-fma" style="width: 225px !important">
     <li style="height: 104px; width: 225px; background: url(http://www.krollontrack.com/images/snfma_odrgethelp.png) no-repeat right bottom">
@@ -336,7 +414,7 @@ playback timings (ms):
                     </div>
                 </div>
              </li>
-    <!-- Information Management -->
+   
             <li class="nav3">
                 <a href="/information-management/" class="nav3">Information Management</a>
                 <div class="sub orangedrop" style="opacity: 0;">
@@ -361,20 +439,20 @@ playback timings (ms):
                     </div>
                 </div>
              </li>
-    <!-- E-Discovery -->
+
             <li class="nav5">
-                <a href="http://www.ediscovery.com" class="nav5">Ediscovery</a>
+                <a href="/e-discovery/" class="nav5">Ediscovery</a>
                 <div class="sub navydrop" style="left: -48px; opacity: 0;">
                     <div class="row">
                           <ul style="width:225px">        
             </ul>
                         <ul class="sub-fma" style="width: 225px !important">
-    <li style="height: 155px; width: 225px"><img alt="" border="0" src="http://www.krollontrack.com/images/ediscovery_supernav.jpg"></li>
+    <li style="height: 155px; width: 225px"><img alt="" border="0" src="http://www.krollontrack.com/images/ediscovery_supernav.jpg"> </li>
 </ul>
                     </div>
                 </div>
              </li>
-    <!-- Computer Forensics -->
+
             <li class="nav4">
                 <a href="/software/" class="nav4">Products</a>
                 <div class="sub" style="left: -211px; opacity: 0;">
@@ -383,7 +461,7 @@ playback timings (ms):
                   <li><div class="navtitle"><a href="/data-recovery/recovery-software/" target="_self"> Ontrack® EasyRecovery™ </a></div></li>
                   <li><div class="navtitle"><a href="/software/powercontrols/">Ontrack® PowerControls™</a></div></li>
                   <li><div class="navtitle"><a href="/information-management/data-erasure-solutions/" target="_self"> Data Erasure</a></div></li>
-                  <li><div class="navtitle"><a href="http://www.ediscovery.com/solutions/" target="_self"> Ediscovery.com Solutions</a></div></li>
+                  <li><div class="navtitle"><a href="http://www.krollontrack.com/e-discovery/" target="_self"> Ediscovery.com Solutions</a></div></li>
                   <li><div class="navtitle"><a href="/software/free-downloads/">Free Downloads</a></div></li>
                   <li><div class="navtitle"><a href="/software/product-demos/">Product Demos</a></div></li>
                   <li><div class="navtitle"><a href="/software/licensing-options/">Licensing Options</a></div></li>
@@ -401,7 +479,7 @@ playback timings (ms):
                     </div>
                 </div>
              </li>
-<!-- Partners -->
+
             <li class="nav6">
                 <a href="/partners/" class="nav6">Partners</a>
                 <div class="sub" style="opacity: 0;">
@@ -424,7 +502,7 @@ playback timings (ms):
                     </div>
                 </div>
              </li>
-    <!-- Customer Portal Login -->
+
             <li class="blueright">
                 <a href="/customer-login/" class="nav7">Customer Login</a>
              </li>
@@ -451,7 +529,7 @@ playback timings (ms):
 <!-- END breadcrumb div -->
             <rde-dm:query searchable="true">
             <div id="ContentInside">
-                <!-- Body last modified : Monday, April 30, 2012 19:41 -->
+                <!-- Body last modified : Monday, April 30, 2012 7:41 PM -->
 
 <!--
 <rde-dm:import>
@@ -470,6 +548,10 @@ playback timings (ms):
         
         
                 
+
+                 
+                
+
         <!--  MAIN BODY  --> 
 
 
@@ -478,10 +560,6 @@ playback timings (ms):
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzEwMjA0MDY1ZGSjErgLvusXB2WuaRV6NYFLQot0Jg==">
 </div>
 
-<div>
-
-	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="3989C74E">
-</div>
              
                   <!-- START SEARCHABLE SECTION -->
                 <h1><asp:literal id="litContentTitle" runat="server">Privacy Policy</asp:literal></h1>
@@ -539,28 +617,44 @@ playback timings (ms):
 <br class="left">
             </div>
             </rde-dm:query>
-                <div style="display:none">
-                    Privacy for you and your information - Kroll Ontrack
-                    Kroll Ontrack privacy policy - protecting our clients' information. Kroll Ontrack is committed to maintaining the privacy of the information you share with us. We will not sell, distribute, or rent information about you.
-                    Kroll Ontrack privacy policy, privacy policy, client privacy, Kroll Ontrack Safe Harbor, Safe Harbor, Kroll Ontrack information collection, Kroll Ontrack opt-out, opt-out information, Kroll ontrack data protection, data protection
-                </div>
         <div class="Footer" style="margin:36px 0;">
         
     
     
     
-    <div id="Footer-rightbox">
-<div class="footer-rightinnerbox"><span>Follow us...</span> <br>
-<a href="/rss/"><img border="0" alt="RSS Feed" src="/images/icon_rss.gif"></a> <a href="http://www.linkedin.com/company/krollontrack"><img border="0" alt="LinkedIn" src="/images/icon_linkedin.gif"></a> <a href="http://www.facebook.com/krollontrack/"><img border="0" alt="Facebook" src="/images/icon_facebook.gif"></a> <a href="http://twitter.com/krollontrack/"><img border="0" alt="Twitter" src="/images/icon_twitter.gif"></a></div>
+    <div id="Footer-leftbox">
+	<div class="footer-leftinnerbox">
+		<div id="eKomiSeal_default"></div>
+		<script type="text/javascript"> 
+			(function(){
+				eKomiIntegrationConfig = new Array(
+					{certId:'05263822E5CA506'}
+				);
+				if(typeof eKomiIntegrationConfig != "undefined"){for(var eKomiIntegrationLoop=0;eKomiIntegrationLoop<eKomiIntegrationConfig.length;eKomiIntegrationLoop++){
+					var eKomiIntegrationContainer = document.createElement('script');
+					eKomiIntegrationContainer.type = 'text/javascript'; eKomiIntegrationContainer.defer = true;
+					eKomiIntegrationContainer.src = (document.location.protocol=='https:'?'https:':'http:') +"//connect.ekomi.de/integration_1430492785/" + eKomiIntegrationConfig[eKomiIntegrationLoop].certId + ".js";
+					document.getElementsByTagName("head")[0].appendChild(eKomiIntegrationContainer);
+				}}else{if('console' in window){ console.error('connectEkomiIntegration - Cannot read eKomiIntegrationConfig'); }}
+			})();
+		</script> 
+	</div>
 </div>
-<div id="Footer-copyright"><a title="Contact Us" href="/company/contact-us/">Contact Us</a> <a title="Careers" href="/company/careers/">Careers</a> <a title="Legal Notices" href="/legal-notices/">Legal Notices</a> <a title="Privacy Policy" href="/privacy/">Privacy Policy</a> <a title="Web Site Terms of Use Agreement" href="/terms/">Terms of Use</a> <a class="right" href="/site-map/">Site Map</a> <br>
-<script language="javascript" type="text/javascript">
+<div id="Footer-rightbox">
+	<div class="footer-rightinnerbox"><span>Follow us...</span> <br>
+		<a href="/rss/"><img border="0" alt="RSS Feed" src="/images/icon_rss.gif"></a> <a href="http://www.linkedin.com/company/krollontrack"><img border="0" alt="LinkedIn" src="/images/icon_linkedin.gif"></a> <a href="http://www.facebook.com/krollontrack/"><img border="0" alt="Facebook" src="/images/icon_facebook.gif"></a> <a href="http://twitter.com/krollontrack/"><img border="0" alt="Twitter" src="/images/icon_twitter.gif"></a>
+	</div>
+</div>
+<div id="Footer-copyright">
+	<a title="Contact Us" href="/company/contact-us/">Contact Us</a> <a title="Careers" href="/company/careers/">Careers</a> <a title="Legal Notices" href="/legal-notices/">Legal Notices</a> <a title="Privacy Policy" href="/privacy/">Privacy Policy</a> <a title="Web Site Terms of Use Agreement" href="/terms/">Terms of Use</a> <a class="right" href="/site-map/">Site Map</a> <br>
+	<script language="javascript" type="text/javascript">
         var d;
         d = new Date();
         document.write("Copyright&#0169; " + d.getFullYear() + " Kroll Ontrack Inc.  All Rights Reserved.");
-      </script>Copyright© 2020 Kroll Ontrack Inc.  All Rights Reserved.
+      </script>Copyright© 2020 Kroll Ontrack Inc.  All Rights Reserved. 
 </div>
-<br class="both"> 
+<br class="both">
+ 
 </div>  <!-- End Footer -->
    </div> 
 <!-- End container -->
@@ -582,6 +676,19 @@ playback timings (ms):
 //]]>
 </script>
 
+                 
+                
+
+
+<!--
+$(document).ready(function () { 
+if (typeof kroll == undefined || kroll.mobile === undefined) 
+return; 
+if(kroll.mobile.redirect !== undefined){ 
+ kroll.mobile.redirect.initialize('mobile_detect', 'http://m.krollontrack.com') 
+} 
+});
+-->
 
 
 
