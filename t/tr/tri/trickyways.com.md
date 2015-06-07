@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trickyways.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220141451id_/http%3A//www.trickyways.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trickyways.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607135331id_/http%3A//www.trickyways.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – TrickyWays
+# Privacy Policy - TrickyWays
 
 **Cookies**  
 We allow third party advertisement companies (Google Adesense for example) to serve Ads when you visit out website.
