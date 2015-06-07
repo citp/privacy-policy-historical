@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prepaidmeters.co.za privacy policy that was archived on 2014-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140823142016id_/http%3A//www.prepaidmeters.co.za/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D12%26Itemid%3D128) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prepaidmeters.co.za privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608001451id_/http%3A//www.prepaidmeters.co.za/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D12%26Itemid%3D128) for the most accurate reproduction.*
 
-# Privacy Policy
+# Prepaid Meters
 
 PrepaidMeters.co.za recognizes the importance of protecting your personal information and as such subscribes to the principles, outlined in Section 51 of the Electronic Communications and Transactions Act 2002 that governs your right to having your personal information kept private.
 
