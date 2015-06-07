@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbcounty.gov privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506231159id_/https%3A//www.sbcounty.gov/main/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbcounty.gov privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145451id_/https%3A//www.sbcounty.gov/main/policy.asp) for the most accurate reproduction.*
 
 # County of San Bernardino, California - Official Web Site
 
@@ -11,13 +11,11 @@ This policy describes the County's privacy practices regarding information colle
 **Information Collected When You Visit this Website**  
 When visiting this website the County automatically collects and stores the following information about your visit: 
 
-  * The Internet Protocol address and domain name of your Internet service provider. The Internet Protocol address is a numerical identifier assigned either to your Internet service provider or directly to your computer, which can be used to direct internet traffic to you; 
-  * The type of browser and operating system you used; 
-  * The date and time you visited this site; 
-  * The web pages or services you accessed at this site; and 
+  * The Internet Protocol address and domain name of your Internet service provider. The Internet Protocol address is a numerical identifier assigned either to your Internet service provider or directly to your computer, which can be used to direct internet traffic to you;
+  * The type of browser and operating system you used;
+  * The date and time you visited this site;
+  * The web pages or services you accessed at this site; and
   * The URL or web site address of the web site you visited prior to coming to this website and from which any web page on this site was linked.
-
-
 
 This information is used to improve this website's content and to help the County understand how people are using this website. This information is collected for statistical analysis, to determine what information is of most and of least interest to our visitors, and to identify system performance or problem areas. The information is not collected for commercial marketing purposes and the County does not sell or distribute the information collected from the portal for commercial marketing purposes. 
 
@@ -52,5 +50,4 @@ Information provided on this website is intended to allow the public immediate a
 **Contact Information**  
 For questions regarding this Privacy Policy please contact **[webmaster@sbcounty.gov](mailto:webmaster@sbcounty.gov)**
 
-[County Home Page](https://web.archive.org/)  
- 
+[County Home Page](https://web.archive.org/)
