@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponsherpa.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214112501id_/http%3A//www.couponsherpa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponsherpa.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608003521id_/http%3A//www.couponsherpa.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for CouponSherpa.com
 
