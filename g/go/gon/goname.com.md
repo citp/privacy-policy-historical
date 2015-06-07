@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goname.com privacy policy that was archived on 2014-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140906010551id_/http%3A//goname.com/help/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goname.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607160118id_/http%3A//www.goname.com/help/privacyPolicy) for the most accurate reproduction.*
 
 # Go Name ::
 
