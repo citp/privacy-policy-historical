@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homemadebetter.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231022930id_/http%3A//www.homemadebetter.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemadebetter.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142854id_/http%3A//www.homemadebetter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
