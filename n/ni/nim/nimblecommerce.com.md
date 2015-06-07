@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nimblecommerce.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114120429id_/http%3A//www.nimblecommerce.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimblecommerce.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144413id_/http%3A//www.nimblecommerce.com/privacyPolicy) for the most accurate reproduction.*
 
 # NimbleCommerce - Group Buying and Local Commerce Platform
 
