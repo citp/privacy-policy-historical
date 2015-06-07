@@ -1,173 +1,100 @@
-> *The following text is extracted and transformed from the azalead.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224072513id_/http%3A//azalead.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azalead.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607222729id_/http%3A//azalead.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Azalead - Sales Acceleration Software
 
-## **Privacy Statement**
+### Collection of Information
 
-### **Effective as of 27 January, 2014**
+When you visit our Sites, we gather non-personally identifiable information such as your browser version, your operating system version, your IP address, cookie information, time stamps (time the page was accessed as well as time spent per page), and clickstream information (for example, which pages you viewed and for how long). Azalead automatically receives and records such information on our server logs from your browser.
 
-Azalead Software SAS. (“Azalead” or the “Company”) is committed to protecting the privacy of individuals who visit the Company’s Web sites (“Visitors”), individuals who register to use the Services as defined below (“Customers”). This Privacy Statement describes Azalead’s privacy practices in relation to the use of the Company’s Web sites and the related applications and services offered by Azalead (the “Services”).
+In certain sections of our Sites, Azalead may invite you to contact us to pose questions, request information, or complete a registration form. We may ask you to supply Personally Identifiable Information in order to register before allowing you to access certain parts of our Sites. We may also collect Personally Identifiable Information when you use certain Azalead services, through the use of our Sites, or when you enter promotions or contests offered by Azalead.
 
-### **1\. Information collected**
+“Personally Identifiable Information” means any information that identifies you personally, including your name, e-mail address, password, login ID, and other contact information that you voluntarily submit to us.
 
-When expressing an interest in obtaining additional information about the Services or registering to use the Services, Azalead requires you to provide the Company with personal contact information, such as name, company name, address, phone number, and email address (“Required Contact Information”). When purchasing the Services, Azalead may require you to provide the Company with financial qualification and billing information, such as billing name and address, credit card number, and the number of employees within the organization that will be using the Services (“Billing Information”). Azalead may also ask you to provide additional information, such as company annual revenues, number of employees, or industry (“Optional Information”). Required Contact Information, Billing Information, and Optional Information about Customers are referred to collectively as “Data About Azalead Customers”.
+### Cookies and Web Beacons
 
-As you navigate the Company’s Web sites, Azalead may also collect information through the use of commonly-used information-gathering tools, such as cookies and Web beacons (“Web Site Navigational Information”). Web Site Navigational Information includes standard information from your Web browser (such as browser type and browser language), your Internet Protocol (“IP”) address, and the actions you take on the Company’s Web sites (such as the Web pages viewed and the links clicked).
+We employ cookies on our Sites in order for our server to recognize a return visitor as a unique user. Cookies are small text files that your browser stores on your hard disk that allow us to remember you; cookies cannot access, read, or modify any other data on a computer. The cookies we place are readable only by us. All Web browsers offer the option to refuse any cookie. If you refuse Azalead cookies, you may need to re-enter certain information each time you visit our Sites and we may not be able to customize our Sites’ features according to your preferences. You may also delete cookies manually from your hard drive.
 
-### **2\. Use of information collected**
+The cookies we place do not contain any personal information; however, they do contain identifiers that may be linked to certain non-personally identifiable information described in this privacy policy, as well as certain non-personally identifiable advertising IDs from third parties.
 
-The Company uses Data About Azalead Customers to perform the services requested. For example, if you fill out a “Contact Me” Web form, the Company will use the information provided to contact you about your interest in the Services.
+We also use the Azalead Platform on our Sites and our Email Campaigns, which utilizes cookies and web beacons, such as invisible tracking pixels, to help us better serve you and to provide targeted advertising we place on third party websites. More information regarding our collection and use of information through the Azalead Platform is provided separately, below.
 
-The Company may also use Data About Azalead Customerfor marketing purposes. For example, the Company may use information you provide to contact you to further discuss your interest in the Services and to send you information regarding the Company, its affiliates, and its partners, such as information about promotions or events.
+### Marketing
 
-Azalead uses credit card information solely to check the financial qualifications and collect payment from prospective Customers.
+We do not sell or rent the personal information we collect from your use of our Sites to third parties for their marketing purposes. We may combine your information with information we collect from other companies (such as demographic data) to improve and personalize the services provided to you. If you don’t wish to receive marketing communications from us, simply “unsubscribe” from email communication using the link located at the end of all marketing communications.
 
-Azalead uses Web Site Navigational Information to operate and improve the Company’s Web sites. The Company may also use Web Site Navigational Information alone or in combination with Data About Azalead Customers to provide personalized information about the Company.
+### Account Protection
 
-### **3\. Web Site Navigational Information**
+Your password is the key to your account. We recommend the use of unique numbers, letters, and special characters in combination and that you not disclose your Azalead password to anyone. If you do share your password or your personal information with others, remember that you are responsible for all actions taken in the name of your account. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately notify us and change your password.
 
-**Cookies, Web Beacons and IP Addresses**
+### Phishing
 
-Azalead uses commonly-used information-gathering tools, such as cookies and Web beacons, to collect information as you navigate the Company’s Web sites (“Web Site Navigational Information”). This section describes the types of Web Site Navigational Information used on the Company’s Web sites and how this information may be used.
+In order to protect yourself from third parties unlawfully seeking your personal information through email that appears to be from Azalead, you should never provide any personal information directly in response to an email you believe you have received from us. Rather, you should always close any such email, open your browser, log directly into the Azalead Site and change, update, or modify any such personal information via the Site. In the event that you believe that you have received a request for personal information in an email message that is made to appear that it was sent by us, please inform us immediately at support@Azalead.com.
 
-**Cookies**
+###### Azalead PLATFORM
 
-Azalead uses cookies to make interactions with the Company’s Web sites easy and meaningful. When you visit one of the Company’s Web sites, Azalead’s servers send a cookie to your computer. Standing alone, cookies do not personally identify you; they merely recognize your Web browser. Unless you choose to identify yourself to Azalead, either by responding to a promotional offer, opening an account, or filling out a Web form (such as a “Contact Me” or a “Free Trial” Web form), you remain anonymous to the Company.
+Use of the Azalead Platform on our clients’ websites is subject to those clients’ privacy policies, which govern our clients’ use of your information, including Personally Identifiable Information. Please consult with our clients’ privacy policies if you have questions about our clients’ use of the Azalead Platform or your information within their Site.
 
-Azalead uses cookies that are session-based and persistent-based. Session cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you close your browser or turn off your computer. Please note that if you disable your Web browser’s ability to accept cookies, you will be able to navigate the Company’s Web sites, but you will not be able to successfully use the Services.
+### Collection of Information
 
-The following sets out how Azalead uses different categories of cookies and your options for managing cookies’ settings:
+The Azalead Platform is primarily IP address-driven (in other words, we typically infer basic information about your organization based on your IP address). However, we also use cookies and web beacons, such as invisible tracking pixels, to enhance our services and help optimize and attribute the advertising we place on third party websites. When you visit a third party website that uses the Azalead Platform, we may gather non-personally identifiable information such as your IP address, cookie information (including advertising IDs and associated information), time stamps (time a page was accessed as well as time spent per web page), and clickstream information (for example, which websites and web pages you viewed and for how long). Information we collect via web beacons is associated with the existing Azalead cookie already placed on your computer.
 
-**Type of Cookies**
+### Opting Out of Cookie-Based Advertising
 
-| 
+We try hard to make our advertising more relevant to you, but if you would rather opt out of seeing personalized ads from Azalead and Azalead clients, please click [here](http://www.aboutads.info/choices/). If you opt out, you will still see ads from us and our clients, but they will not be tailored based on information that may have otherwise been associated with a Azalead cookie stored on your computer.
 
-**Description**
+Azalead also displays the Digital Advertising Alliance’s (“DAA”) Advertising Option Icon on advertising you see from us that has been targeted to your interests. This icon generally appears as in one of the corners of the ad and may be accompanied by text such as “AdChoices.” You can click on the icon to learn more about the ad and to opt out of seeing future personalized ads from us and our clients utilizing Azalead cookies. This is the same opt-out as the one provided above. To learn more about the DAA and the Advertising Option Icon, and to opt out of personalized advertising delivered by other participating companies, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices).
 
-| 
+Please note that our opt-out requires that we be able to set an opt-out cookie in your browser.
 
-**Managing Settings**  
-  
----|---|---  
-  
-Required cookies
+### Browser-Based “Do Not Track”
 
-| 
+Some browsers have incorporated “Do Not Track” (DNT) features. Because there is not yet a common understanding of how to interpret the DNT signal, we do not currently respond to browser DNT signals on our Sites or on third party sites that use the Azalead Platform.
 
-Required cookies enable you to navigate the Company’s Web sites and use its features, such as accessing secure areas of the Web sites and using Azalead Services.
+###### APPLICABLE TO BOTH
 
-If you have chosen to identify yourself to Azalead, the Company uses cookies containing encrypted information to allow the Company to uniquely identify you. Each time you log into the Services, a cookie containing an encrypted, unique identifier that is tied to your account is placed on your browser. These cookies allow the Company to uniquely identify you when you are logged into the Services and to process your online transactions and requests.
+### Use of Information
 
-| 
+Our primary purposes in collecting your information are to provide you with an efficient and customized experience and to deliver advertising that may be of interest to you. You agree that we may use your information to:
 
-Because required cookies are essential to operate the Company’s Web sites and the Services, there is no option to opt out of these cookies.  
-  
-Performance cookies
+  * provide the services and customer support you request;
+  * resolve disputes, collect fees, and troubleshoot problems;
+  * prevent prohibited or illegal activities, and enforce our Terms of Use;
+  * customize, measure, and improve our services and our Sites’ content and layout;
+  * share service updates, and promotional offers based on your communication preferences;
+  * make inferences about your interests for advertising or service-related purposes;
+  * provide you with offers or promotions that may interest you, or otherwise deliver you advertising, including on other websites.
 
-| 
 
-These cookies collect information about how Visitors use our Web site, including which pages visitors go to most often and if they receive error messages from certain pages. These cookies do not collect information that individually identifies a Visitor. All information these cookies collect is aggregated and anonymous. It is only used to improve how the Company’s Web site functions and performs.
 
-From time-to-time, Azalead engages third parties to track and analyze usage and volume statistical information from individuals who visit the Company’s Web sites. Azalead may also utilize Flash cookies for these purposes.
+### Our Disclosure of Your Information
 
-| 
+We may disclose your information:
 
-To learn how to opt out of performance cookies using your browser settings [click here](http://www.aboutcookies.org/).
+  * as required to respond to legal matters, enforce our policies, or protect individual rights, property, or safety;
+  * to employees and agents of Azalead in order to help detect and prevent prohibited or illegal acts;
+  * to service providers under contract who help with our business operations;
+  * to other third parties to whom you explicitly ask us to send your information;
+  * to those serving apparently valid subpoenas;
+  * to other business entities, should we plan to merge with, or be acquired by, that business entity.
 
-To learn how to manage privacy and storage settings for Flash cookies [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).  
-  
-Functionality cookies
 
-| 
 
-Functionality cookies allow the Company’s Web sites to remember information you have entered or choices you make (such as your username, language, or your region) and provide enhanced, more personal features.  These cookies also enable you to optimize your use of Azalead’s Services after logging in. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customize.
+We also use certain third party analytics, advertising, widget, and other plugins to provide certain services on our Sites and to deliver you targeted advertisements on third party websites. The third parties operating these plugins may use cookies, web beacons, or other technologies to collect personal information about your online activities over time and across different websites when you use our Sites.
 
-Azalead uses local shared objects, also known as Flash cookies, to store your preferences or display content based upon what you view on our Web sites to personalize your visit.
+Without limiting the above, in an effort to respect your privacy we will not otherwise disclose your personal information except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity.
 
-| 
+### Security
 
-To learn how to opt out of functionality cookies using your browser settings [click here](http://www.aboutcookies.org/). Note that opting out may impact the functionality you receive when visiting azalead.com.
+Your information is stored on our servers located in the United States. We treat data as an asset that must be protected and use certain tools (including but not limited to encryption, passwords, and physical security) to protect your personal information against unauthorized access and disclosure. However, third parties may unlawfully intercept or access transmissions or private communications. Therefore, although we take reasonable steps to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
 
-To learn how to manage privacy and storage settings for Flash cookies [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).  
-  
-Targeting or Advertising cookies
+### Anti-Abuse
 
-| 
+If you suspect a client of abusing our services, please contact us at abuse@azalead.com. All complaints are investigated, and you will receive a response on the action we will take to resolve the issue.
 
-From time-to-time, Azalead engages third parties to track and analyze usage and volume statistical information from individuals who visit the Company’s Web sites.  Azalead sometimes uses cookies delivered by third parties to track the performance of Company advertisements.  For example, these cookies remember which browsers have visited the Company’s Web sites. The information provided to third parties does not include personal information, but this information may be re-associated with personal information after the Company receives it.
+### Partners
 
-Azalead also contracts with third-party advertising networks that collect IP addresses and other information from Web beacons (see below) on the Company’s Web sites, from emails, and on third-party Web sites. Ad networks follow your online activities over time by collecting Web Site Navigational Information through automated means, including through the use of cookies. They use this information to provide advertisements about products and services tailored to your interests. You may see these advertisements on other Web sites. This process also helps us manage and track the effectiveness of our marketing efforts.
+Azalead has aligned with recognized leaders in the digital and direct marketing industry and hopes to influence how practices are shaped in the future. Please contact us at support@azalead.com to learn more.
 
-Third parties, with whom the Company partners to provide certain features on our Web sites or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.  Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored.
+### Changes
 
-| 
-
-To learn more about these and other advertising networks and their opt out instructions, click [here](http://www.networkadvertising.org/choices/) and [here](http://www.aboutads.info/choices/).
-
-To learn how to manage privacy and storage settings for Flash cookies [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).  
-  
-**Web Beacons**
-
-Azalead uses Web beacons alone or in conjunction with cookies to compile information about Customers and Visitors’ usage of the Company’s Web sites and interaction with emails from the Company. Web beacons are clear electronic images that can recognize certain types of information on your computer, such as cookies, when you viewed a particular Web site tied to the Web beacon, and a description of a Web site tied to the Web beacon. For example, Azalead may place Web beacons in marketing emails that notify the Company when you click on a link in the email that directs you to one of the Company’s Web sites. Azalead uses Web beacons to operate and improve the Company’s Web sites and email communications.
-
-**IP Addresses**
-
-When you visit Azalead’s Web sites, the Company collects your Internet Protocol (“IP”) addresses to track and aggregate non-personal information. For example, Azalead uses IP addresses to monitor the regions from which Customers and Visitors navigate the Company’s Web sites.
-
-Azlaead also collects IP addresses from Customers when they log into the Services as part of the Company’s “Identity Confirmation” and “IP Range Restrictions” security features.
-
-### **4\. Public forums, refer a friend, and customer testimonials**
-
-Azalead may provide bulletin boards, blogs, or chat rooms on the Company’s Web sites. Any personal information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. Azalead is not responsible for the personal information you choose to submit in these forums.
-
-Customers and Visitors may elect to use the Company’s referral program to inform friends about the Company’s Web sites. When using the referral program, the Company requests the friend’s name and email address. Azalead will automatically send the friend a one-time email inviting him or her to visit the Company’s Web sites. Azalead does not store this information.
-
-Azalead posts a list of Customers and testimonials on the Company’s Web sites that contain information such as Customer names and titles. Azalead obtains the consent of each Customer prior to posting any information on such a list or posting testimonials.
-
-### **5\. Sharing of information collected**
-
-Service Providers
-
-Azalead may share Data About Azalead Customers with the Company’s contracted service providers so that these service providers can provide services on our behalf. Azalead may also share Data About Azalead Customers with the Company’s service providers to ensure the quality of information provided. Unless described in this Privacy Statement, Azalead does not share, sell, rent, or trade any information with third parties for their promotional purposes.
-
-Business Partners
-
-From time to time, Azalead may partner with other companies to jointly offer products or services. If you purchase or specifically express interest in a jointly-offered product or service from Azalead, the Company may share Data About Azalead Customers collected in connection with your purchase or expression of interest with our joint promotion partner(s). Azalead does not control our business partners’ use of the Data About Azalead Customers we collect, and their use of the information will be in accordance with their own privacy policies. If you do not wish for your information to be shared in this manner, you may opt not to purchase or specifically express interest in a jointly offered product or service.
-
-Billing
-
-Azalead uses a third-party service provider to manage credit card processing. This service provider is not permitted to store, retain, or use Billing Information except for the sole purpose of credit card processing on the Company’s behalf.
-
-Compelled Disclosure
-
-Azalead reserves the right to use or disclose information provided if required by law or if the Company reasonably believes that use or disclosure is necessary to protect the Company’s rights and/or to comply with a judicial proceeding, court order, or legal process.
-
-### **6\. International transfer of information collected**
-
-To facilitate Azalead’s global operations, the Company may transfer and access Data About Azalead Customers from around the world, including the United States. This Privacy Statement shall apply even if Azalead transfers Data About Azalead Customers to other countries.
-
-### **7\. Communications preferences**
-
-Azalead offers Visitors and Customers who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may send a request specifying your communications preferences to support@azalead.com Customers cannot opt out of receiving transactional emails related to their account with Azalead or the Services.
-
-### **8\. Correcting and updating your information**
-
-Customers may update or change their registration information by editing their user or organization record. To update a user profile, please login to http://azalead.com with your Azalead username and password and click “Setup.”. To update Billing Information or have your registration information deleted, please email support@azalead.com. To discontinue your account and to have information you maintained in the Services returned to you, please email support@azalead.com.  Requests to access, change, or delete your information will be handled within 30 days.
-
-### **9\. Customer Data**
-
-Azalead Customers may electronically submit data or information to the Services for hosting and processing purposes (“Customer Data”). Azalead will not review, share, distribute, or reference any such Customer Data except as provided in the Azalead Subscription Agreement, or as may be required by law. In accordance with the Azalead Subscription Agreement, .Azalead may access Customer Data only for the purpose of providing the Services, preventing or addressing service or technical problems, at a Customer’s request in connection with customer support matters, or as may be required by law.
-
-### **10\. Security**
-
-Azalead uses robust security measures to protect Customer Data from unauthorized access, maintain data accuracy, and help ensure the appropriate use of Customer Data. When the Services are accessed using Internet Explorer version 7.0 or later, Firefox version 2.0 or later, or Safari version 3.0 or later, Secure Socket Layer (.SSL.) technology protects Customer Data using both server authentication and data encryption. These technologies help ensure that Customer Data is safe, secure, and only available to the Customer to whom the information belongs and those to whom the Customer has granted access. The Company hosts its Websites in a secure server environment that uses firewalls, intrusion detection systems, and other advanced technology to prevent interference or access from outside intruders. Customers are responsible for maintaining the security and confidentiality of their Azalead usernames and passwords.
-
-Because the Company uses the Services to maintain Data About Azalead Customers, this information, which is stored in the Services, is secured in the same manner as described above for Customer Data.
-
-### **11\. Changes to this Privacy Statement**
-
-Azalead reserves the right to change this Privacy Statement. Azalead will provide notification of the material changes to this Privacy Statement through the Company’s Web sites at least thirty (30) business days prior to the change taking effect.
-
-### **12\. Contacting us**
-
-Questions regarding this Privacy Statement or the information practices of the Company’s Web sites should be directed to Azalead Privacy by mailing Azalead Privacy, 38 rue Jean Mermoz, 75008, Paris, France.
+We may amend this Privacy Policy from time-to-time by posting the amended terms on our Sites. All amended terms automatically take effect 30 days after they are initially posted on our Sites.
