@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freestylephoto.biz privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120231158id_/http%3A//www.freestylephoto.biz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestylephoto.biz privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142703id_/http%3A//www.freestylephoto.biz/privacy-policy) for the most accurate reproduction.*
 
 # Freestyle Privacy Policy | Freestyle Photographic Supplies
 
@@ -8,8 +8,8 @@ Freestyle Photographic Supplies Corporate Headquarters: 
 
 5124 Sunset Boulevard  
 Hollywood, CA 90027  
-Ph: 323.660.3460  
-Fax: 323.660.4885   
+Ph: (323) 660-3460  
+Fax: (323) 284-0050   
 Contact: [info@freestylephoto.biz](mailto:info@freestylephoto.biz)
 
 If you have any concerns about our privacy notice, please contact us at the above corporate address, email address, phone or fax numbers. 
