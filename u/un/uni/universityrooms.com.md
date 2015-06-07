@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universityrooms.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225030145id_/http%3A//www.speedybooker.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universityrooms.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607115216id_/http%3A//www.speedybooker.com/privacy.aspx) for the most accurate reproduction.*
 
 # SpeedyBooker.com: bookings for everyone
 
