@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kentessa.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122034445id_/http%3A//www.kentessa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kentessa.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608002258id_/http%3A//www.kentessa.com/privacy.php) for the most accurate reproduction.*
 
 # Kentessa.com - Privacy Policy
 
@@ -50,17 +50,17 @@ We have adopted security measures in an effort to protect personal information f
 
 We collect, process and maintain payment information, including credit card information, in compliance with the data security rules adopted by credit card companies such as Visa, MasterCard and American Express. This means that we do not retain debit card PINs or credit card security codes, and that any time we maintain a credit card number, such as when you create an online account, we use access controls and strong encryption to protect it. Further, when you enter personal information online, that information is encrypted using a security protocol called SSL (Secure Sockets Layer), which encrypts all information prior to transmitting it over the Internet. We also use SSL to allow you to securely view your online account and registration information.
 
-Online account information is accessible only by using a password. To protect the confidentiality of personal information in your online account, you must keep your password confidential. You are responsible for all uses of [www.kentessa.com](http://www.kentessa.com/) by anyone using your password. If others have access to your computer or email, they may be able to find your password and obtain information about you (such as your address or phone number), or change information in your user profile. You should not use an email account operated by an employer because many employers have the legal right to view your email or online accounts. Please advise us immediately at [customerservice@kentessa.com](mailto:customerservice@kentessa.com) if you believe your password has been misused.
+Online account information is accessible only by using a password. To protect the confidentiality of personal information in your online account, you must keep your password confidential. You are responsible for all uses of [www.kentessa.com](http://www.kentessa.com/) by anyone using your password. If others have access to your computer or email, they may be able to find your password and obtain information about you (such as your address or phone number), or change information in your user profile. You should not use an email account operated by an employer because many employers have the legal right to view your email or online accounts. Please advise us immediately at [Email US](http://www.kentessa.com/email_us.php) if you believe your password has been misused.
 
 ## G. Choice
 
 We give you the opportunity to opt-out of receiving certain information or to request that certain information not be shared with third parties, by giving you numerous methods to inform us of your decision. Your choice to opt-out will not apply to your spouse and any add-on members.
 
-1\. If you do not want us to share information with third parties, you can: (a) call our customer service representatives at (04) 259 1261; (b) email us at customerservice@kentessa.com;
+1\. If you do not want us to share information with third parties, you can: (a) call our customer service representatives at (04) 259 1261; (b) email us at [Email US](http://www.kentessa.com/email_us.php);
 
-2\. If you do not want to receive Promotional Information (see Use of Personal Information by Kentessa.com) or information about related services, you can: (a) call our customer service representatives at (04) 259 1261; (b) email us at customerservice@kentessa.com;
+2\. If you do not want to receive Promotional Information (see Use of Personal Information by Kentessa.com) or information about related services, you can: (a) call our customer service representatives at (04) 259 1261; (b) email us at [Email US](http://www.kentessa.com/email_us.php);
 
-3\. If you do not want to receive promotional emails, you can: (a) call our customer service representatives at (04) 259 1261; (b) email us at customerservice@kentessa.com;
+3\. If you do not want to receive promotional emails, you can: (a) call our customer service representatives at (04) 259 1261; (b) email us at [Email US](http://www.kentessa.com/email_us.php);
 
 ## H. Online Specifics
 
@@ -80,7 +80,7 @@ Through selected portions of our website, you can link to other websites of thir
 
 ### 4\. Updating, Reviewing or Correcting Online Personal Information
 
-You may update, review or correct your online account information at any time online by accessing your password-protected registration page via the "My Account" area of the Web site. You also may email us at customerservice@Kentessa.com or call us at (04) 259 1261.
+You may update, review or correct your online account information at any time online by accessing your password-protected registration page via the "My Account" area of the Web site. You also may email us at [Email US](http://www.kentessa.com/email_us.php) or call us at (04) 259 1261.
 
 ### 5\. Retention of Information we Collect Online
 
@@ -91,7 +91,7 @@ Information we automatically collect as a result of your online activity is gene
 If you have any questions or concerns about this privacy statement or would like to contact us for any reason, you can do the following:
 
 1\. Call our Customer Service representatives at (04) 259 1261;  
-2\. Email us at customerservice@Kentessa.com; or
+2\. Email us at [Email US](http://www.kentessa.com/email_us.php); or
 
 ## J. Changes to this Statement
 
