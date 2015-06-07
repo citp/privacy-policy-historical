@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the x-rates.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224164218id_/http%3A//www.x-rates.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the x-rates.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607153048id_/http%3A//www.x-rates.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - X-Rates
 
@@ -14,7 +14,7 @@ Our Site uses cookies to make sure you don't see the same ad repeatedly. We also
 
 #### Advertisers
 
-x-rates works with a third party that serves ads to this site. To find out more about how Exponential manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.exponential.com/about-us/privacy.html>.
+x-rates works with a third party that serves ads to this site. To find out more about how Exponential manages the privacy of information in conjunction with serving ads on this site, please go to [Exponential Interactive Privacy Policy](http://exponential.com/our-company/privacy).
 
 Some broad customer data is shared with the advertising companies (number of visitors, countries of origin, average customer profile).
 
