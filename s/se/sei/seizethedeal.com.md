@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seizethedeal.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205090510id_/http%3A//www.seizethedeal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seizethedeal.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074840id_/http%3A//www.seizethedeal.com/privacy) for the most accurate reproduction.*
 
-# Seize the Deal | South Jersey, NJ | Savings, Coupons on Local Restaurants, Entertainment, Retail, Spas and More!
+# Seize the Deal | Value Vault, TX | Savings, Coupons on Local Restaurants, Entertainment, Retail, Spas and More!
 
 **READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE.**
 
