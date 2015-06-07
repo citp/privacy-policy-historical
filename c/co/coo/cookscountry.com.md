@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookscountry.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231102848id_/http%3A//www.cookscountry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookscountry.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607133728id_/http%3A//www.cookscountry.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Cook's Country
 
