@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cruisemapper.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704073741id_/http%3A//www.cruisemapper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisemapper.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074314id_/http%3A//www.cruisemapper.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Cruise Mapper
+# About | CruiseMapper
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at  _[info@cruisemapper.com](mailto:info@cruisemapper.com)_. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at  _[info@cruisemapper.com](mailto:info@cruisemapper.com)_ or use our [customized contact form](http://www.cruisemapper.com/contact). 
 
 At  _www.cruisemapper.com_ , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by  _www.cruisemapper.com_  and how it is used. 
 
@@ -10,7 +10,7 @@ At  _www.cruisemapper.com_ , the privacy of our visitors is of extreme importan
 Like many other Web sites,  _www.cruisemapper.com_  makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
 **Cookies and Web Beacons**  
-_www.cruisemapper.com_  does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+ _www.cruisemapper.com_  does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
 **DoubleClick DART Cookie**  
 .:: Google, as a third party vendor, uses cookies to serve ads on  _www.cruisemapper.com_.  
