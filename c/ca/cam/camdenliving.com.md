@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camdenliving.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926152922id_/http%3A//www.camdenliving.com/privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camdenliving.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152933id_/http%3A//www.camdenliving.com/privacy-policy/index.htm) for the most accurate reproduction.*
 
 # Camden | Privacy Policy Page
 
