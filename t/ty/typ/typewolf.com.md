@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the typewolf.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120175249id_/http%3A//www.typewolf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typewolf.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185552id_/http%3A//www.typewolf.com/privacy) for the most accurate reproduction.*
 
-# Typewolf → Privacy
+# Privacy → Typewolf
 
 ### Privacy Policy
 
@@ -36,12 +36,12 @@ Although most changes are likely to be minor, Typewolf may change its privacy po
 
 ##### How to Contact Us
 
-Should you have other questions or concerns about this privacy policy, please email us at hello@typewolf.com.
+Should you have other questions or concerns about this privacy policy, please email us at jeremiah@typewolf.com.
 
 Our mailing address is:  
 Jeremiah Shoaf Design LLC  
 PO Box 746524  
-Arvada, CO 80006-6524  
+Arvada, CO 80006  
 
 
 ### Disclosure
