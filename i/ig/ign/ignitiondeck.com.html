@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the ignitiondeck.com privacy policy that was archived on 2014-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141216035247id_/http%3A//ignitiondeck.com/id/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ignitiondeck.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607151245id_/http%3A//ignitiondeck.com/id/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-	
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0012/5262.js?439003" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgQAUF5VGwECXFJaDwg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+	<meta name="viewport" content="width=1024">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0012/5262.js?439003" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=u(e),f=c.length,s=i(a,o,r),p=0;f>p;p++)c[p].apply(s,n);return s}function a(t,e){f[t]=u(t).concat(e)}function u(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:u,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=l.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),u=window,c=u.document,f="addEventListener",s="attachEvent",p=(""+location).split("?")[0],l=e.exports={offset:i(),origin:p,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),u[f]("load",n,!1)):(c[s]("onreadystatechange",r),u[s]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}]},{},["G9z0Bl"]);</script>
 	<meta name="google-site-verification" content="yrbvBdLbu2-Tg13H9iiHA9R1uA95cSGxJ6b5Tl1RQtA">
 	<meta property="twitter:account_id" content="4503599627389614">
 	
@@ -17,27 +17,76 @@
 	<link rel="pingback" href="http://ignitiondeck.com/id/xmlrpc.php">
 
 	
-	
-<!-- This site is optimized with the Yoast WordPress SEO plugin v1.6.3 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta property="fb:app_id" content="238807482810727"><meta property="og:type" content="article"><meta property="og:image" content="http://ignitiondeck.com/id/wp-content/uploads/2014/06/anewfuture-1.jpg"><meta property="og:title" content="Privacy Policy"><meta property="og:url" content="http://ignitiondeck.com/id/privacy-policy/"><meta property="og:site_name" content="IgnitionDeck"><meta property="og:description" content="Your privacy is critically important to us. At Virtuous Giant we have a few fundamental principles: We don’t ask you for personal information unless we truly need it. We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights. We don’t store personal information on…">
+<!-- This site is optimized with the Yoast WordPress SEO plugin v2.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="description" content="Our privacy policy.">
 <link rel="canonical" href="http://ignitiondeck.com/id/privacy-policy/">
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/ignitiondeck.com\/id\/","name":"IgnitionDeck"}</script>
 <!-- / Yoast WordPress SEO plugin. -->
 
 <link rel="alternate" type="application/rss+xml" title="IgnitionDeck » Feed" href="http://ignitiondeck.com/id/feed/">
 <link rel="alternate" type="application/rss+xml" title="IgnitionDeck » Comments Feed" href="http://ignitiondeck.com/id/comments/feed/">
-<link rel="alternate" type="application/rss+xml" title="IgnitionDeck » Privacy Policy Comments Feed" href="http://ignitiondeck.com/id/privacy-policy/feed/">
-<link rel="stylesheet" id="bbp_5o1_post_toolbar_style-css" href="http://ignitiondeck.com/id/?bbp_5o1_toolbar_css&amp;ver=4.0.1" type="text/css" media="all">
-<link rel="stylesheet" id="tfg_style-css" href="http://ignitiondeck.com/id/wp-content/plugins/twitter-facebook-google-plusone-share/tfg_style.css?ver=4.0.1" type="text/css" media="all">
+<link rel="alternate" type="application/rss+xml" title="IgnitionDeck » Privacy&nbsp;Policy Comments Feed" href="http://ignitiondeck.com/id/privacy-policy/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/ignitiondeck.com\/id\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://ignitiondeck.com/id/wp-includes/js/wp-emoji-release.min.js?ver=4.2.2" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="bbp_5o1_post_toolbar_style-css" href="http://ignitiondeck.com/id/?bbp_5o1_toolbar_css&amp;ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="tfg_style-css" href="http://ignitiondeck.com/id/wp-content/plugins/twitter-facebook-google-plusone-share/tfg_style.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="idsocial-style-css" href="http://ignitiondeck.com/id/wp-content/plugins/idsocial/css/style.css?ver=4.2.2" type="text/css" media="all">
 <link rel="stylesheet" id="bbp-default-css" href="http://ignitiondeck.com/id/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.5.4-5380" type="text/css" media="screen">
 <link rel="stylesheet" id="contact-form-7-css" href="http://ignitiondeck.com/id/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.9.3" type="text/css" media="all">
-<link rel="stylesheet" id="font-awesome-css" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css?ver=4.0.1" type="text/css" media="all">
-<link rel="stylesheet" id="idcommerce-css" href="http://ignitiondeck.com/id/wp-content/plugins/idcommerce/css/style.css?ver=4.0.1" type="text/css" media="all">
-<link rel="stylesheet" id="ignitiondeck-base-css" href="http://ignitiondeck.com/id/wp-content/plugins/ignitiondeck/ignitiondeck-base.css?ver=4.0.1" type="text/css" media="all">
-<link rel="stylesheet" id="ignitiondeck-style-css" href="http://ignitiondeck.com/id/wp-content/plugins/ignitiondeck/skins/ignitiondeck-style.css?ver=4.0.1" type="text/css" media="all">
-<link rel="stylesheet" id="support-tools-css" href="http://ignitiondeck.com/id/wp-content/plugins/support-tools/support-tools.css?ver=4.0.1" type="text/css" media="all">
-<script type="text/javascript" src="http://ignitiondeck.com/id/wp-content/plugins/bbpress-post-toolbar/includes/toolbar.js?ver=4.0.1"></script>
-<script type="text/javascript" src="http://ignitiondeck.com/id/wp-includes/js/jquery/jquery.js?ver=1.11.1"></script>
+<link rel="stylesheet" id="magnific-css" href="http://ignitiondeck.com/id/wp-content/plugins/ignitiondeck/lib/magnific/magnific.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="idf-css" href="http://ignitiondeck.com/id/wp-content/plugins/ignitiondeck/css/idf.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="ignitiondeck-base-css" href="http://ignitiondeck.com/id/wp-content/plugins/ignitiondeck-crowdfunding/ignitiondeck-base.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="ignitiondeck-style-css" href="http://ignitiondeck.com/id/wp-content/plugins/ignitiondeck-crowdfunding/skins/ignitiondeck-style.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="idcommerce-css" href="http://ignitiondeck.com/id/wp-content/plugins/idcommerce/css/style.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="support-tools-css" href="http://ignitiondeck.com/id/wp-content/plugins/support-tools/support-tools.css?ver=4.2.2" type="text/css" media="all">
+<script type="text/javascript" src="http://ignitiondeck.com/id/wp-content/plugins/bbpress-post-toolbar/includes/toolbar.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://ignitiondeck.com/id/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script>
 <script type="text/javascript" src="http://ignitiondeck.com/id/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var idsocial_fb_app_id = "238807482810727";
+var idsocial_logged_in = "0";
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://ignitiondeck.com/id/wp-content/plugins/idsocial/js/facebook.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://ignitiondeck.com/id/wp-content/plugins/idsocial/js/idsocial-fb.js?ver=4.2.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var idf_platform = "idc";
+var idf_siteurl = "http:\/\/ignitiondeck.com\/id";
+var idf_ajaxurl = "http:\/\/ignitiondeck.com\/id\/wp-admin\/admin-ajax.php";
+var idf_checkout_url = [""];
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://ignitiondeck.com/id/wp-content/plugins/ignitiondeck/js/idf.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://ignitiondeck.com/id/wp-content/plugins/ignitiondeck/lib/magnific/magnific.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://ignitiondeck.com/id/wp-content/plugins/ignitiondeck-crowdfunding/js/jquery.ddslick.min.js?ver=4.2.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var id_ajaxurl = "\/id\/wp-admin\/admin-ajax.php";
+var id_siteurl = "http:\/\/ignitiondeck.com\/id\/";
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://ignitiondeck.com/id/wp-content/plugins/ignitiondeck-crowdfunding/js/ignitiondeck.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://ignitiondeck.com/id/wp-content/plugins/ignitiondeck-crowdfunding/js/idlightbox.js?ver=4.2.2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var memberdeck_mc = "0";
@@ -46,35 +95,32 @@ var memberdeck_pk = "pk_live_myWiDdyYarVRRt26cRrKwYc5";
 var memberdeck_epp = "1";
 var memberdeck_pp = "info@virtuousgiant.com";
 var memberdeck_paypal = "https:\/\/www.paypal.com\/cgi-bin\/webscr";
+var memberdeck_returnurl = "http:\/\/ignitiondeck.com\/id\/dashboard";
+var memberdeck_eppadap = "0";
 var memberdeck_eb = "0";
+var memberdeck_ecb = "1";
+var memberdeck_eauthnet = "0";
 var memberdeck_testmode = "0";
 var memberdeck_ajaxurl = "http:\/\/ignitiondeck.com\/id\/wp-admin\/admin-ajax.php";
-var memberdeck_siteurl = "http:\/\/ignitiondeck.com\/id";
+var memberdeck_siteurl = "http:\/\/ignitiondeck.com\/id\/";
 var memberdeck_pluginsurl = "http:\/\/ignitiondeck.com\/id\/wp-content\/plugins\/idcommerce";
-var memberdeck_durl = "http:\/\/ignitiondeck.com\/id\/dashboard";
+var memberdeck_durl = "http:\/\/ignitiondeck.com\/id\/dashboard\/";
+var idc_localization_strings = {"virtual_currency":"Virtual Currency","purchase_form_shortcode":"Purchase form shortcode","continue":"Continue","complete_checkout":"Complete Checkout","use_idcf_settings":"Use IDCF Setting","continue_checkout":"Continue Checkout","choose_product":"Choose Product","choose_download":"Choose Download","choose_credit":"Choose Credit","no_payment_options":"No Payment Options"};
+var permalink_prefix = "?";
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://ignitiondeck.com/id/wp-content/plugins/idcommerce/js/idcommerce.js?ver=4.0.1"></script>
-<script type="text/javascript" src="http://ignitiondeck.com/id/wp-content/plugins/ignitiondeck/js/jquery.ddslick.min.js?ver=4.0.1"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var id_ajaxurl = "http:\/\/ignitiondeck.com\/id\/wp-admin\/admin-ajax.php";
-var id_siteurl = "http:\/\/ignitiondeck.com\/id\/";
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://ignitiondeck.com/id/wp-content/plugins/ignitiondeck/js/ignitiondeck.js?ver=4.0.1"></script>
-<script type="text/javascript" src="http://ignitiondeck.com/id/wp-content/plugins/ignitiondeck/js/facebook.js?ver=4.0.1"></script>
+<script type="text/javascript" src="http://ignitiondeck.com/id/wp-content/plugins/idcommerce/js/idcommerce.js?ver=4.2.2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var mmdjs = {"mmd_token":"83b4f5aa722bae9a1f4236ed5ffde743","ajax_url":"http:\/\/ignitiondeck.com\/id\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://ignitiondeck.com/id/wp-content/plugins/mixpanel-md/js/mixpanel.js?ver=4.0.1"></script>
-<script type="text/javascript" src="http://ignitiondeck.com/id/wp-content/plugins/mixpanel-md/js/mmd.js?ver=4.0.1"></script>
-<script type="text/javascript" src="http://ignitiondeck.com/id/wp-content/themes/idthree/js/script.js?ver=4.0.1"></script>
+<script type="text/javascript" src="http://ignitiondeck.com/id/wp-content/plugins/mixpanel-md/js/mixpanel.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://ignitiondeck.com/id/wp-content/plugins/mixpanel-md/js/mmd.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://ignitiondeck.com/id/wp-content/themes/idthree/js/script.js?ver=4.2.2"></script>
 <link rel="shortlink" href="http://ignitiondeck.com/id/?p=963">
 <meta property="twitter:site" content="ignitiondeck">
-<script src="//dev.visualwebsiteoptimizer.com/j.php?a=46281&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20141216035247id_%2Fhttp%253A%2F%2Fignitiondeck.com%2Fid%2Fprivacy-policy&amp;r=0.9763694564648753" type="text/javascript"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<script async="" type="text/javascript" src="//ignitiondeck.disqus.com/count.js"></script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=46281&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150607151245id_%2Fhttp%3A%2F%2Fignitiondeck.com%2Fid%2Fprivacy-policy%2F&amp;r=0.1281181747593818" type="text/javascript"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 <body class="page page-id-963 page-template-default">
 	<script type="text/javascript">
@@ -103,43 +149,9 @@ _vis_opt_queue.push(function() {
     catch(err) {};
 });
 </script>
-	<!-- Begin FB SDK -->
-	<!-- <div id="fb-root"></div>
-	<script>
-	  window.fbAsyncInit = function() {
-	    // init the FB JS SDK
-	    FB.init({
-	      appId      : '238807482810727', // App ID from the App Dashboard
-	      //channelUrl : '//WWW.IgnitionDeck.COM/channel.html', // Channel File for x-domain communication
-	      status     : true, // check the login status upon init?
-	      cookie     : true, // set sessions cookies to allow your server to access the session?
-	      xfbml      : true  // parse XFBML tags on this page?
-	    });
-
-	    // Additional initialization code such as adding Event Listeners goes here
-
-	  };
-
-	  // Load the SDK's source Asynchronously
-	  // Note that the debug version is being actively developed and might 
-	  // contain some type checks that are overly strict. 
-	  // Please report such bugs using the bugs tool.
-	  (function(d, debug){
-	     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
-	     if (d.getElementById(id)) {return;}
-	     js = d.createElement('script'); js.id = id; js.async = true;
-	     js.src = "//connect.facebook.net/en_US/all" + (debug ? "/debug" : "") + ".js";
-	     ref.parentNode.insertBefore(js, ref);
-	   }(document, /*debug*/ false));
-	</script> -->
-<!-- <style>
-		body {
-			margin: 50px 0 0 0;	
-		}
-	</style>
-<div class="ignitiondeck-bar">
-		<p></p>
-	</div> -->
+	<!--<div class="ignitiondeck-bar">
+		<p><strong>Please Note:</strong> Our offices will be closed May 25th in observance of Memorial Day. We will resume operations on Tuesday, May 26.</p>
+	</div>-->
 	<div id="container">
 	<header id="branding">
 				     <div id="memberzone"> 
@@ -148,21 +160,21 @@ _vis_opt_queue.push(function() {
 				<nav id="main-nav">
 			<div class="menu-header"><ul id="menu-main-nav" class="menu"><li id="menu-item-3005" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3005"><a href="http://ignitiondeck.com/id/ignitiondeck-pricing/">Pricing</a></li>
 <li id="menu-item-4830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4830"><a href="http://ignitiondeck.com/id/themes/">Themes</a></li>
-<li id="menu-item-4831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4831"><a href="http://ignitiondeck.com/id/extend/">Extensions</a></li>
+<li id="menu-item-27672" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27672"><a href="http://ignitiondeck.com/commerce">Commerce</a></li>
 <li id="menu-item-4832" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4832"><a href="http://ignitiondeck.com/id/blog/">Blog</a>
 <ul class="sub-menu">
 	<li id="menu-item-7290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7290"><a title="Newest Crowdfunding Posts" href="http://ignitiondeck.com/id/blog/">Newest</a></li>
-	<li id="menu-item-7288" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7288"><a title="IgnitionDeck Crowdfunding Success Stories" href="http://ignitiondeck.com/id/category/success-stories/">Success Stories</a></li>
+	<li id="menu-item-7288" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7288"><a title="IgnitionDeck Crowdfunding Success Stories" href="http://ignitiondeck.com/id/category/success-stories/">Success&nbsp;Stories</a></li>
 	<li id="menu-item-7289" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7289"><a href="http://ignitiondeck.com/id/category/crowdfunding-2/">Crowdfunding</a></li>
 </ul>
 </li>
-<li id="menu-item-4833" class="extra menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4833"><a href="#">-</a>
+<li id="menu-item-4833" class="extra menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4833"><a href="#">–</a>
 <ul class="sub-menu">
-	<li id="menu-item-6331" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6331"><a href="http://ignitiondeck.com/id/ignitiondeck-skins/">IgnitionDeck Skins</a></li>
-	<li id="menu-item-4835" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4835"><a href="http://ignitiondeck.com/id/get-started-with-wordpress/">Get Started with WordPress</a></li>
+	<li id="menu-item-4835" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4835"><a href="http://ignitiondeck.com/id/get-started-with-wordpress/">Get Started with&nbsp;WordPress</a></li>
 	<li id="menu-item-5079" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5079"><a href="http://ignitiondeck.com/id/ignitiondeck-pricing/#bigfaq">FAQ</a></li>
 	<li id="menu-item-3770" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3770"><a href="http://ignitiondeck.com/id/resources/">Resources</a></li>
-	<li id="menu-item-4190" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4190"><a href="http://ignitiondeck.com/id/crowdfunding-consulting/">Crowdfunding Consulting</a></li>
+	<li id="menu-item-29244" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29244"><a href="http://ignitiondeck.com/id/team/">Team&nbsp;IgnitionDeck</a></li>
+	<li id="menu-item-4190" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4190"><a href="http://ignitiondeck.com/id/crowdfunding-consulting/">Crowdfunding&nbsp;Consulting</a></li>
 	<li id="menu-item-4969" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4969"><a title="Contact IgnitionDeck" href="http://ignitiondeck.com/id/contact-ignitiondeck/">Contact</a></li>
 </ul>
 </li>
@@ -177,7 +189,7 @@ _vis_opt_queue.push(function() {
 				
 		<div class="post" id="post-963">
 
-			<h2 class="post-title">Privacy Policy</h2>
+			<h2 class="post-title">Privacy&nbsp;Policy</h2>
 
 
 			<div class="entry">
@@ -306,15 +318,15 @@ _vis_opt_queue.push(function() {
 	</div>
 	<div id="footerwrap2">
 		<div id="footermore">
-			<div class="menu-footer"><ul id="menu-footer-menu" class="menu"><li id="menu-item-966" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-963 current_page_item menu-item-966"><a href="http://ignitiondeck.com/id/privacy-policy/">Privacy Policy</a></li>
-<li id="menu-item-230" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-230"><a href="http://ignitiondeck.com/id/terms-and-conditions/">Terms and Conditions</a></li>
+			<div class="menu-footer"><ul id="menu-footer-menu" class="menu"><li id="menu-item-966" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-963 current_page_item menu-item-966"><a href="http://ignitiondeck.com/id/privacy-policy/">Privacy&nbsp;Policy</a></li>
+<li id="menu-item-230" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-230"><a href="http://ignitiondeck.com/id/terms-and-conditions/">Terms and&nbsp;Conditions</a></li>
 <li id="menu-item-3726" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3726"><a href="http://www.shareasale.com/shareasale.cfm?merchantID=46545">Affiliates</a></li>
-<li id="menu-item-236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-236"><a href="http://ignitiondeck.com/id/get-started-with-wordpress/">Get Started with WordPress</a></li>
-<li id="menu-item-10173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10173"><a href="http://ignitiondeck.com/id/contact-ignitiondeck/">Contact IgnitionDeck</a></li>
+<li id="menu-item-236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-236"><a href="http://ignitiondeck.com/id/get-started-with-wordpress/">Get Started with&nbsp;WordPress</a></li>
+<li id="menu-item-10173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10173"><a href="http://ignitiondeck.com/id/contact-ignitiondeck/">Contact&nbsp;IgnitionDeck</a></li>
 <li id="menu-item-8551" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8551"><a href="http://ignitiondeck.com/id/ignitiondeck-pricing/#bigfaq">FAQ</a></li>
 <li id="menu-item-189" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-189"><a href="http://ignitiondeck.com/id/wp-login.php">Login</a></li>
 <li id="menu-item-554" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-554"><a href="http://ignitiondeck.com/id/">Home</a></li>
-</ul></div>			©2014 <a href="http://virtuousgiant.com" title="Amazing Web Apps">Virtuous Giant LLC.</a><br>
+</ul></div>			©2015 <a href="http://virtuousgiant.com" title="Amazing Web Apps">Virtuous Giant LLC.</a><br>
 			<a href="https://mixpanel.com/f/partner"><img src="//cdn.mxpnl.com/site_media/images/partner/badge_blue.png" alt="Mobile Analytics"></a>
 		</div>
 	</div>
@@ -322,10 +334,32 @@ _vis_opt_queue.push(function() {
 			<script type="text/javascript"><!--
 			addCloseTagsToSubmit();
 					//--></script>
-		<script type="text/javascript" src="http://platform.twitter.com/widgets.js?ver=4.0.1"></script>
-<script type="text/javascript" src="http://apis.google.com/js/plusone.js?ver=4.0.1"></script>
-<script type="text/javascript" src="http://platform.linkedin.com/in.js?ver=4.0.1"></script>
-<script type="text/javascript" src="http://ignitiondeck.com/id/wp-includes/js/comment-reply.min.js?ver=4.0.1"></script>
+		        <script type="text/javascript">
+        // <![CDATA[
+        var disqus_shortname = 'ignitiondeck';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) { url = url[0]; }
+                    else { url = url[1]; }
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script'); 
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+        // ]]>
+        </script>
+        <script type="text/javascript" src="http://platform.twitter.com/widgets.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://apis.google.com/js/plusone.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://platform.linkedin.com/in.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://ignitiondeck.com/id/wp-includes/js/comment-reply.min.js?ver=4.2.2"></script>
 <script type="text/javascript" src="http://ignitiondeck.com/id/wp-content/plugins/bbpress/templates/default/js/editor.js?ver=2.5.4-5380"></script>
 <script type="text/javascript" src="http://ignitiondeck.com/id/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
 <script type="text/javascript">
@@ -375,6 +409,6 @@ var _wpcf7 = {"loaderUrl":"http:\/\/ignitiondeck.com\/id\/wp-content\/plugins\/c
 	<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l4fil&p_id=Twitter" />
 	</noscript>
 	<!-- End Twitter Tags -->
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"31bfa3d0d4","applicationID":"2283889","transactionName":"YVABYxNVCkZUURENV1gaIlQVXQtbGkIEA10=","queueTime":0,"applicationTime":822,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"31bfa3d0d4","applicationID":"1529200","transactionName":"YVABYxNVCkZUURENV1gaIlQVXQtbGkIEA10=","queueTime":0,"applicationTime":579,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
 <script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
