@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the upics.ru privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229105253id_/http%3A//upics.ru/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upics.ru privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607194819id_/http%3A//upics.ru/page/privacy) for the most accurate reproduction.*
 
-# Example page - Fast, Free Image Hosting
+# Example page - Upics.ru
 
 ## Information we collect; how we use it
 
