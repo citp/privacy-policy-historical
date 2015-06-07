@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the atoall.com privacy policy that was archived on 2011-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110904155401id_/http%3A//www.atoall.com/asp/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atoall.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608010959id_/http%3A//www.atoall.com/asp/privacypolicy.asp) for the most accurate reproduction.*
 
-# Privacy Policy Atoall.com investment opportunity keyboard shortcuts
+# Privacy Policy
 
-## Privacy Policy 
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.  
+Google's use of the DoubleClick cookie enables it and its partners to serve ads users based on their visit to your sites and/or other sites on the Internet.  
+Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting http://www.google.com/ads/preferences/. (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest based advertising by visiting http://www.aboutads.info)  
+Notify your site visitors of the third-party vendors and ad networks serving ads on your site.  
+Provide links to the appropriate vendor and ad network websites.  
+Inform your users that they may visit those websites to opt out of the use of cookies for interest-based advertising (if the vendor or ad network offers this capability). Alternatively, you can direct users to opt out of some third-party vendor's use of cookies for interest-based advertising by visiting www.aboutads.info   
+
 
 ### Information we collect and how we use it
 
@@ -89,8 +95,8 @@ When you use Atoall services, we make good faith efforts to provide you with acc
 Atoall regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Atoall’s treatment of personal information by contacting us through this web site or by writing to us at 
 
 Privacy Matters  
-c/o Atoall.com Cyber Research Company Limited.  
-27, Kamla Nehru Nagar, Bathinda, Punjab  INDIA
+c/o Atoall.com.  
+Near 26 No Street, Main Ajit Road, Bathinda, Punjab, INDIA.  INDIA
 
 When we receive formal written complaints at this address, it is Google’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Google and an individual. 
 
@@ -100,4 +106,4 @@ Please note that this Privacy Policy may change from time to time. We will not r
 
 If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this web site.
 
- 
+Because laws across countries vary, we're unable to suggest specific privacy policy language. However, you may wish to review resources such as the Network Advertising Initiative (www.networkadvertising.org) for guidance on drafting a privacy policy. 
