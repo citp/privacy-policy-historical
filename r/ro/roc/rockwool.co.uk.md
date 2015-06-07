@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rockwool.co.uk privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218112556id_/http%3A//www.rockwool.co.uk/legal/privacy%2Bstatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockwool.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144252id_/http%3A//www.rockwool.co.uk/legal/privacy%2Bstatement) for the most accurate reproduction.*
 
-# Privacy statement | ROCKWOOL® Ltd.
+# Privacy statement
 
 ROCKWOOL Limited is committed to safeguard your privacy on-line. Any and all processing of personal information generated via this website will be in full compliance with the rules set out in the national legislation on processing of personal data as adopted by ROCKWOOL Limited in the following Privacy Statement. 
 
