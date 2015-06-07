@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govhs.org privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207071611id_/http%3A//thevhscollaborative.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govhs.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144020id_/http%3A//thevhscollaborative.org/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | The Virtual High School
 
@@ -12,7 +12,7 @@ Our site has security measures to protect against loss, misuse, and unauthorized
 
 We understand that our student users who are under 13 years of age need special safeguards and privacy protection, and it is our intent to fully comply with the Children's Online Privacy Protection Act (COPPA). VHS does not collect personal information from children online at any point. You can review certain personal information that VHS has regarding your child by making such a request in writing to privacy@TheVHS.org. Please be aware that some personal information relating to your children’s educational records may not be able to be disclosed by VHS due to state and/or federal law.
 
-_You can request that your children’s personal information not be used by VHS, and any affiliates and/or vendors acting on behalf of VHS, by making a request in writing to VHS._
+ _You can request that your children’s personal information not be used by VHS, and any affiliates and/or vendors acting on behalf of VHS, by making a request in writing to VHS._
 
 For information on COPPA and the use of children’s personal information, please contact:
 
