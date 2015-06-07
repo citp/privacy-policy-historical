@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redbullmediahouse.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121180428id_/http%3A//www.redbullmediahouse.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbullmediahouse.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607040523id_/http%3A//www.redbullmediahouse.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Red Bull Media House
 
