@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the khmeravenue.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201102949id_/http%3A//www.khmeravenue.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khmeravenue.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175825id_/http%3A//www.khmeravenue.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Khmer Avenue
 
