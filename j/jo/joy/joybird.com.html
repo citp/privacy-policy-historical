@@ -1,40 +1,41 @@
-<!--The following is the downloaded HTML source of the joybird.com privacy policy that was archived on 2014-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141220210819id_/http%3A//joybird.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the joybird.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607184321id_/http%3A//joybird.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="//commondatastorage.googleapis.com/code.snapengage.com/js/d784abe4-b4ad-4884-a8f0-f8cdbbb399e5.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwAGU1FSGwAHUVJWAwc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy Policy - Joybird.com</title>
 <meta name="keywords" content="">
 <meta name="description" content="">
 
-<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+<!--<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />-->
 <meta name="viewport" content="width=device-width">
 
-<meta name="magento" content="version 1.8">
+<!--<meta name="magento" content="version 1.8" />-->
 
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
-<!--<link href="/public/styles/main-OLD.css?m=201411040814" rel="stylesheet" type="text/css" />-->
-<link href="/public/styles/main.css?m=201412180014" rel="stylesheet" type="text/css">
-<link href="/public/styles/font-awesome.min.css?m=201411040814" rel="stylesheet" type="text/css">
+<link href="/public/styles/main.css?m=201506020036" rel="stylesheet" type="text/css">
+<link href="/public/styles/font-awesome.min.css" rel="stylesheet" type="text/css">
 <!--[if lt IE 10]>		
 	<link rel="stylesheet" type="text/css" href="/public/styles/ie8.css?m=201411040814" />
 <![endif]-->
 <!--[if lt IE 8]>		
 	<link rel="stylesheet" type="text/css" href="/public/styles/ie7.css?m=201411040814" />
-<![endif]--><link href="/public/styles/secondary.css?m=201412172321" rel="stylesheet">
-<script src="/public/scripts/libs/jquery.js" type="text/javascript"></script>
-<script src="/public/scripts/libs/pinimages.min.js" type="text/javascript"></script>
-<script src="/public/scripts/main.js?m=201411270035" type="text/javascript"></script><script src="/public/scripts/secondary.js?m=201411130437" type="text/javascript"></script>
+<![endif]--><link href="/public/styles/secondary.css?m=201505271949" rel="stylesheet">
+<script id="ltkSDK" src="https://cdn.listrakbi.com/scripts/script.js?m=gnLuYK4JolAR&amp;v=1"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/uFA9qr7o7LHpqpKDgDZnLEMDh3in5eF6/analytics.min.js"></script><script type="text/javascript" async="" src="//commondatastorage.googleapis.com/code.snapengage.com/js/d784abe4-b4ad-4884-a8f0-f8cdbbb399e5.js"></script><script src="/public/scripts/libs/jquery.js" type="text/javascript"></script>
+<!--<script src="/public/scripts/libs/pinimages.min.js" type="text/javascript"></script>-->
+<script src="/public/scripts/main.js?m=201505280425" type="text/javascript"></script><script src="/public/scripts/secondary.js?m=201505260650" type="text/javascript"></script>
+<!-- Optimizely -->
+<script src="//cdn.optimizely.com/js/2496950486.js"></script>
 
-
-
+<!-- Google Experiments -->
 <script type="text/javascript">
 	var experimentDebug = false;
 	var trackingDebug = false;
 	var googleExperimentVars = [];
 </script>
+
 
 
 		<script src="//www.google-analytics.com/cx/api.js?experiment=tmflZqe0RT-otYY6WwZykQ"></script>
@@ -43,13 +44,17 @@
 		$(document).ready(function() {
 			//if( googleExperimentVars.ReqSwLightbox==1 ){
 				$('.request_swatch_trigger').each(function(){
-					var lightboxLayout = googleExperimentVars.ReqSwLightbox + 1;
-					
-										
-					var oldUrl = $(this).attr('href');
-					var newUrl = oldUrl + 'layout/' + lightboxLayout + '/';
-					$(this).attr('href',newUrl);
-					$(this).attr('data-style','free_samples_'+lightboxLayout);
+						var lightboxLayout = googleExperimentVars.ReqSwLightbox + 1;
+						
+												
+						lightboxLayout =3;
+						
+						var oldUrl = $(this).attr('href');
+						var newUrl = oldUrl + 'layout/' + lightboxLayout + '/';
+						$(this).attr('href',newUrl);
+						$(this).attr('data-style','free_samples_'+lightboxLayout);
+						
+						$(this).attr('data-pos','no_center');
 				});
 			//}
 			if(experimentDebug) console.log('Swatch Request Lightbox | var:'+googleExperimentVars.ReqSwLightbox);
@@ -58,50 +63,13 @@
 
 
 
+
+
  
-<!-- Google Analytics Tracking Code -->
-<script type="text/javascript">
-	var _gaq = _gaq || [];
-	_gaq.push(['_setAccount', 'UA-39716936-1']);
-	
-	/* - Custom Vars -start - */
-		_gaq.push(['_setCustomVar',1,'User Type','Visitor',2]);
-	
-				
-		
-				/* - Custom Vars -end - */
-	
-	_gaq.push(['_trackPageview']);
-
-	(function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	})();
-</script>
 
 
-<!-- Google Universal Analytics Tracking Code -->
-<script type="text/javascript">
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-	ga('create', 'UA-39716936-2', 'joybird.com');
-	ga('require', 'displayfeatures');
-	/* - Custom Vars -start - */
-		ga('set', 'dimension1', 'Visitor');
-	
-				
-			
-			
-	
-		
-	/* - Custom Vars -end - */
-	
-	ga('send', 'pageview');
-</script>
+
 
 
 
@@ -109,14 +77,18 @@
 
 
 
+
+
  
 <script type="text/javascript">
-		var clickyEnabled = true;
+		var clickyEnabled = false;
 	</script>
 
 
 
+
  
+
 
 
 
@@ -125,50 +97,12 @@
 
 
 
+
+
+
+
+
  
-<!-- Facebook Track Init -->
-<script>(function() {
-  var _fbq = window._fbq || (window._fbq = []);
-  if (!_fbq.loaded) {
-    var fbds = document.createElement('script');
-    fbds.async = true;
-    fbds.src = '//connect.facebook.net/en_US/fbds.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(fbds, s);
-    _fbq.loaded = true;
-  }
-  _fbq.push(['addPixelId', "731057016916566"]);
-})();
-window._fbq = window._fbq || [];
-window._fbq.push(["track", "PixelInitialized", {}]);
-</script>
-<noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=731057016916566&amp;ev=NoScript" /></noscript>
-
-
-<!-- Facebook Conversion Code for Swatch Request -->
-<!--<script type="text/javascript"> 
-function facebookConversionPixel(fb_pixel, fb_value){
-    var image = new Image(1,1); 
-    image.src = "//www.facebook.com/offsite_event.php?id=" + fb_pixel + "&amp;value=" + fb_value + "&amp;currency=USD";
-}
-</script>-->
-
-
-<!--<script>(function() {
-  var _fbq = window._fbq || (window._fbq = []);
-  if (!_fbq.loaded) {
-    var fbds = document.createElement('script');
-    fbds.async = true;
-    fbds.src = '//connect.facebook.net/en_US/fbds.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(fbds, s);
-    _fbq.loaded = true;
-  }
-})();
-window._fbq = window._fbq || [];
-window._fbq.push(['track', '6021894296463', {'value':'0.00','currency':'USD'}]);
-</script>
-<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6021894296463&amp;cd[value]=0.00&amp;cd[currency]=USD&amp;noscript=1" /></noscript>-->
 
 
 
@@ -182,6 +116,13 @@ window._fbq.push(['track', '6021894296463', {'value':'0.00','currency':'USD'}]);
 	<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l4lwa&p_id=Twitter" />
 	<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l4lwa&p_id=Twitter" />
 </noscript>
+
+
+ 
+<!-- Pinterest Tracking Pixel -->
+<script type="text/javascript">
+	var pinterestPixelEnabled = true;
+</script>
 
 
 
@@ -200,27 +141,6 @@ if(!navigator.userAgent.match(/(iPhone|iPod|iPad|BlackBerry|Android|IEMobile)/))
 		//SnapABug.openProactiveChat(true, true); // Example: open the proactive chat on load
 		
 				
-				var seAgent;
-		SnapABug.setCallback('OpenProactive', function(agent, msg) {
-			seAgent = agent;
-			//_gaq.push(['_trackEvent', 'SnapEngage', 'proactivePrompt', agent]);
-		});
-		
-		
-		SnapABug.setCallback('StartChat', function(email, msg, type) {
-			if (type == 'proactive') {
-								_gaq.push(['_trackEvent','Feedback','Submission','Live Chat']);
-												ga('send', 'event', 'Feedback','Submission','Live Chat');
-												//_gaq.push(['_trackEvent', 'SnapEngage', 'proactiveEngaged', seAgent]);
-				
-			}
-		});
-		
-		SnapABug.getAgentStatusAsync(function (online) {
-			if (!online) {
-			   $('.chat_act').hide();
-			}
-		});
 				
 	  }
 	};
@@ -229,229 +149,353 @@ if(!navigator.userAgent.match(/(iPhone|iPod|iPad|BlackBerry|Android|IEMobile)/))
 })();
 </script>
 
+
+
+
+<!-- Segment Analytics -->
+<script type="text/javascript">
+	var segmentTrackingEnabled = true;
+	var segmentKey = "uFA9qr7o7LHpqpKDgDZnLEMDh3in5eF6";
+	var segmentIntegrations = ["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","group","track","ready","alias","page","once","off","on","mixpanel"/*,"user"*/];
+	
+		var segmentSettings = {"userIdentify":{"label":"Identify","enabled":true,"integrations":{"All":false,"Mixpanel":true,"Quantcast":true}},"viewedCategorypage":{"label":"Viewed Category Page","enabled":true,"integrations":{"All":false,"Mixpanel":true,"Quantcast":true}},"viewedProductpage":{"label":"Viewed Product","enabled":true,"integrations":{"All":false,"Mixpanel":true,"Quantcast":true,"Facebook Custom Audiences":true,"Google Analytics":true}},"searchedProducts":{"label":"Searched Products","enabled":true,"integrations":{"All":false,"Mixpanel":true,"Google Analytics":true}},"viewedKeypage":{"label":"Viewed Key Page","enabled":true,"integrations":{"All":false,"Mixpanel":true,"Quantcast":true,"Google Analytics":true}},"addToWishlist":{"label":"Wishlisted Product","enabled":true,"integrations":{"All":false,"Mixpanel":true,"Clicky":true,"Google Analytics":true}},"addToCart":{"label":"Added Product","enabled":true,"integrations":{"All":false,"Mixpanel":true,"Clicky":true,"Quantcast":true,"Google Analytics":true,"Facebook Custom Audiences":true}},"removeFromCart":{"label":"Removed Product from Cart","enabled":true,"integrations":{"All":false,"Mixpanel":true,"Google Analytics":true,"Facebook Custom Audiences":true}},"applyCouponCode":{"label":"Applied Coupon Code","enabled":true,"integrations":{"All":false,"Mixpanel":true,"Google Analytics":true}},"completedOrder":{"label":"Completed Order","enabled":true,"integrations":{"All":false,"Mixpanel":true,"Facebook Conversion Tracking":true,"Clicky":true,"Quantcast":true,"Twitter Ads":true,"Bing Ads":true,"AdRoll":true,"ShareASale":true,"Google Analytics":true,"Facebook Custom Audiences":true}},"appliedGiftCard":{"label":"Applied Gift Card","enabled":true,"integrations":{"All":false,"Mixpanel":true,"Google Analytics":true}},"orderFeedback":{"label":"Order Feedback Submitted","enabled":true,"integrations":{"All":false,"Mixpanel":true,"Clicky":true,"Google Analytics":true}},"contactForm":{"label":"Contact Form Submitted","enabled":true,"integrations":{"All":false,"Mixpanel":true,"Google Analytics":true}},"bestPricePopup":{"label":"Saw Best Price Alert","enabled":true,"integrations":{"All":false,"Mixpanel":true,"Google Analytics":true}},"loginFailed":{"label":"Login Failed","enabled":true,"integrations":{"All":false,"Mixpanel":true,"Google Analytics":true}},"requestedSwatches":{"label":"Requested Swatches","enabled":true,"integrations":{"All":false,"Mixpanel":true,"Facebook Conversion Tracking":true,"Clicky":true,"Quantcast":true,"Twitter Ads":true,"Bing Ads":true,"AdRoll":true,"Optimizely":true,"Google Analytics":true}},"submittedPhoto":{"label":"Photo Submitted","enabled":true,"integrations":{"All":false,"Mixpanel":true,"Clicky":true,"Google Analytics":true}},"tradeSignup":{"label":"Applied for Trade","enabled":true,"integrations":{"All":false,"Mixpanel":true,"Facebook Conversion Tracking":true,"Clicky":true,"Google Analytics":true,"MailChimp":true}},"newsletterSignup":{"label":"Subscribed to Newsletter","enabled":true,"integrations":{"All":false,"Mixpanel":true,"Facebook Conversion Tracking":true,"Clicky":true,"Quantcast":true,"Twitter Ads":true,"Bing Ads":true,"AdRoll":true,"Optimizely":true,"Google Analytics":true,"MailChimp":true}},"reviewedProduct":{"label":"Reviewed Product","enabled":true,"integrations":{"All":false,"Mixpanel":true,"Clicky":true,"Google Analytics":true}},"loginSuccess":{"label":"Logging into Account","enabled":true,"integrations":{"All":false,"Mixpanel":true,"Google Analytics":true}},"signupAccount":{"label":"Signed Up","enabled":true,"integrations":{"All":false,"Mixpanel":true,"Clicky":true,"Google Analytics":true,"MailChimp":true}},"viewedHomepage":{"label":"Viewed Home Page","enabled":true,"integrations":{"All":false,"Mixpanel":true,"Quantcast":true}},"youTube":{"label":"Watched YouTube Video","enabled":true,"integrations":{"All":false,"Mixpanel":true,"Clicky":true,"Google Analytics":true}},"favoritedProduct":{"label":"Favorited Product","enabled":true,"integrations":{"All":false,"Mixpanel":true,"Clicky":true,"Google Analytics":true}},"downloadTearsheet":{"label":"Downloaded Tearsheet","enabled":true,"integrations":{"All":false,"Mixpanel":true,"Clicky":true,"Google Analytics":true}},"viewedCheckout":{"label":"Viewed Checkout Step","enabled":true,"integrations":{"All":false,"Mixpanel":true,"Google Analytics":true}},"completedCheckout":{"label":"Completed Checkout Step","enabled":true,"integrations":{"All":false,"Mixpanel":true,"Clicky":true,"Google Analytics":true}},"sharedFavorite":{"label":"Shared Favorites","enabled":true,"integrations":{"All":false,"Mixpanel":true,"Clicky":true,"Google Analytics":true}},"viewedAffirm":{"label":"Viewed Affirm Lightbox","enabled":true,"integrations":{"All":false,"Mixpanel":true,"Clicky":true,"Google Analytics":true}},"viewedPhotobook":{"label":"Viewed Photobook","enabled":true,"integrations":{"All":false,"Mixpanel":true,"Clicky":true,"Google Analytics":true}}}
+	!function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=segmentIntegrations;analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.0.1";
+	analytics.load(segmentKey);
+	analytics.page()
+	}}();
+
+	//-- get url query params
+	function getQueryParam(url, param) {
+		param = param.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
+		var regexS = "[\\?&]" + param + "=([^&#]*)",
+		regex = new RegExp( regexS ),
+		results = regex.exec(url);
+		if (results === null || (results && typeof(results[1]) !== 'string' && results[1].length)) {
+			return '';
+		} else {
+			return decodeURIComponent(results[1]).replace(/\+/g, ' ');
+		}
+	};
+	
+	//-- track mixpanel utm campaign
+	function campaignParams() {
+		var campaign_keywords = 'utm_source utm_medium utm_campaign utm_content utm_term'.split(' ');
+		var kw = '';
+		var params = {};
+		var first_params = {};
+		
+		var index;
+		for (index = 0; index < campaign_keywords.length; ++index) {
+			kw = getQueryParam(document.URL, campaign_keywords[index]);
+			if (kw.length) {
+				params[campaign_keywords[index] + ' [last touch]'] = kw;
+			}
+		}
+		for (index = 0; index < campaign_keywords.length; ++index) {
+			kw = getQueryParam(document.URL, campaign_keywords[index]);
+			if (kw.length) {
+				first_params[campaign_keywords[index] + ' [first touch]'] = kw;
+			}
+		}
+		
+		//console.log(first_params);
+		//analytics.identify('xxxx', params);
+		mixpanel.people.set_once(first_params);
+	}
+	
+	
+	
+		if( segmentSettings.userIdentify.enabled  ) {
+				//analytics.identify('qj81ndm0od88drolug1mdadle7');
+		//createCookie('segment_ann', analytics.user().anonymousId(), 1);
+		
+		analytics.ready(function(){
+			var anonId = mixpanel.get_distinct_id(); //var userId = analytics.user().anonymousId();
+			createCookie('segment_ann', anonId, 1);
+		});
+				
+		
+				//- utm tracking for Mixpanel People
+		analytics.ready(function(){
+			campaignParams();
+		});
+			}
+	
+	
+		analytics.ready(function(){
+		$('[data-act="socialShare"]').live('click',function(event){
+			event.preventDefault();	
+			var socialNetwork = $(this).attr('data-network');
+			var socialTarget = $(this).attr('data-url');
+			ga('send', 'social', socialNetwork, 'share', socialTarget);
+		});
+	});
+	
+	
+	
+			
+	
+			
+
+			
+	
+			
+	
+			
+	
+	
+	
+			
+	
+	
+		
+
+</script>
+
+
+
+<!-- DoubleCLick Int -->
+<script type="text/javascript">
+		var doubleClickEnabled = true;
+	var doubleClickId = 4796729;
+	
+	</script>
 <meta property="og:site_name" content="Joybird Furniture">
-<meta property="og:url" content="http://joybird.com/privacy-policy">
-<meta property="fb:app_id" content="550430414992526"><script type="text/javascript" async="" src="//static.getclicky.com/js"></script></head>
+<meta property="og:url" content="http://joybird.com/privacy-policy/">
+<meta property="fb:app_id" content="550430414992526"></head>
 
 <body>
+
 
 <div id="wrapper">
 	<!-- ============= HEADER -start ================ -->
 	
-<div id="superheader">
-	<div class="pagewidth clearfix">
-		<ul class="sup_nav_1 fl_left clearfix">
-			<!--<li class="first"><a href="/invite-friend/"><span class="icon20x20 ico_invite"></span><span class="c_text">Invite Friends, Share $100</span></a></li>-->
-			<li class="first"><a class="modal_act" href="/lightbox/customer-care/" data-pos="no_center" data-style="cust_care" title=""><span class="icon20x20 ico_cc"></span><span class="c_text">Customer Care</span></a></li>
-			<li>888-282-0842</li>
-			<li><a href="/trade-program/">Trade &amp; Business</a></li><a href="/trade-program/">
-		</a></ul><a href="/trade-program/">
-		</a><ul class="sup_nav_2 fl_right clearfix"><a href="/trade-program/">
-						
-						</a><li><a href="/trade-program/"></a><a href="/customer/login/r/1"><span class="icon20x20 ico_login"></span>Sign in</a></li>
-						
-			<li><a href="/wishlist/my-wishlist/">
-				<span class="icon20x20 ico_wl"></span><span class="c_text">Wishlist</span> 			</a></li>
-			<li id="cart_menu" class="last"><a href="/cart/">
-				<span class="icon25x25 ico_cart"></span><span class="c_text">Cart</span> 			</a></li>
-		</ul>
-	</div>
-</div>
 
 
 <div id="header">
 	<div class="pagewidth clearfix">
-		<!-- Logo -->
-		<div id="logo">
-			<h1><a href="/"><img src="/public/images/jb_logo.png" width="290" alt="Joybird - Designer Furniture"></a></h1>
-		</div>
+	
+		<h1><a href="/"><img src="/public/images/jb_logoc.png" width="290" alt="Joybird - Designer Furniture"></a></h1>
 		
-		<!-- Secondary Navigation -->
-		<ul id="top_nav">
-			<li><a href="/customer-photos/">Photo Gallery</a></li>
-			<li><a href="/material-swatches/">Shop by Color</a></li>					
-			<li><a class="modal_act request_swatch_trigger" href="/material-swatches/request-swatches-lightbox/page_refer/header/" data-style="" data-pos="center" title="">Free Samples</a></li>
-			
-			<!-- 			<li><a href="/trade-program/">Trade Program</a></li> -->
-			
-			<li>
-				<form name="search_form" id="search_form" method="get" action="/search/">
-					<label class="line_label" for="search_field">Search</label>
-					<input id="search_field" name="q" type="text" value="">
-					<input id="search_submit" name="" type="submit" disabled="disabled">
-				</form>
-			</li>
-		</ul>
-		
-		<!-- Main Navigation -->
 		<div id="main_nav_wrap">
 			<div id="switcher"></div>
-			<ul id="main_nav">
-				<li><a href="/all-sofas/#!material=fabric">Sofas</a>
+			<ul id="main_nav" class="clearfix">
+				<li class="col-4"><a href="/all/"><span>Shop</span></a>
 					<div>
-						<ul class="pop_collection">
-							<li><span>POPULAR COLLECTIONS</span>
-								<ul>
-									<li><a href="/collections/hughes/">Hughes Collection</a></li>
-									<li><a href="/collections/raine/">Raine Collection</a></li>
-									<li><a href="/collections/franklin/">Franklin Collection</a></li>
-									<li><a href="/collections/hopson/">Hopson Collection</a></li>
-									<li><a href="/collections/korver/">Korver Collection</a></li>
-								</ul>
-							</li>
-						</ul>
 						<ul>
-							<li>
-								<span>SHOP BY TYPE</span>
+							<li><span>Sofas &amp; sectionals</span>
 								<ul>
 									<li><a href="/sofas/#!material=fabric">Sofas</a></li>
 									<li><a href="/sectionals/#!material=fabric">Sectionals</a></li>
-									<li><a href="/l-and-u-shaped-sectionals/#!material=fabric">L &amp; U-Shaped Sectionals</a></li>
-									
-									<li><a href="/sleeper-sofas/#!material=fabric">Sleeper Sofas</a></li>
 									<li><a href="/loveseats/#!material=fabric">Loveseats</a></li>
-									
-									<li><a href="/daybeds-chaises/#!material=fabric">Daybeds, Chaises</a></li>
-									
-									
+									<li><a href="/sleeper-sofas/#!material=fabric">Sleeper Sofas</a></li>
+									<li><a href="/daybeds-chaises/#!material=fabric">Chaises &amp; Daybeds</a></li>
+									<li class="view_all_lnk"><a href="/all-sofas/#!material=fabric">view all sofas <i class="fa fa-long-arrow-right"></i></a></li>
 								</ul>
 							</li>
-							
-
-						</ul>
-						<a href="/sofas/"><img class="tablet_size" src="/public/images//drop_down_sofas.jpg" width="430" alt="Sofas"></a>
-					</div>
-				</li>
-				<li><a href="/all-chairs/#!material=fabric">Chairs</a>
-					<div>
-						<ul class="pop_collection">
-							<li><span>POPULAR COLLECTIONS</span>
-								<ul>
-									<li><a href="/chairs/soto-chair/">Soto Chair</a></li>
-									<li><a href="/chairs/hughes-chair/">Hughes Chair</a></li>
-									<li><a href="/chairs/fitzgerald-chair/">Fitzgerald Chair</a></li>
-									<li><a href="/chairs/hopson-chair/">Hopson Chair</a></li>
-									<li><a href="/chairs/eliot-chair/">Eliot Chair</a></li>
-								</ul>
-							</li>
-						</ul> 
-						<ul>
-							<li>
-								<span>SHOP BY TYPE</span>
+							<li><span>Chairs</span>
 								<ul>
 									<li><a href="/chairs/#!material=fabric">Chairs</a></li>
 									<li><a href="/dining-chairs/#!material=fabric">Dining Chairs</a></li>
-									<li><a href="/occasional-chairs/#!material=fabric">Occasional Chairs</a></li>
-									<li><a href="/ottomans/#!material=fabric">Ottomans</a></li>
-									<li><a href="/benches/#!material=fabric">Benches</a></li>
-									
-								</ul>
-							</li>	
-	
-						</ul>
-						<a href="/chairs/"><img class="tablet_size" src="/public/images/temp/drop_down_img_chairs.jpg" width="430" alt="Chairs"></a>
-					</div>
-				</li>
-<li class="last"><a href="#">Fabrics</a>
-					<div>
-						<ul>
-							<li><span>OUR FABRICS</span>
-								<ul>
-									<li><a class="modal_act request_swatch_trigger" href="/material-swatches/request-swatches-lightbox/page_refer/header/" data-style="" data-pos="center" title="">Free Swatch Kit</a></li>
-									<li><a href="/material-swatches/">View Furniture by Fabric</a></li>
-									<li><a href="/pets/">Pet Friendly Fabrics</a></li>
-									<li><a href="/fabrics/">Fabric by the Yard</a></li>
-			
+									<li><a href="/swivel-chairs/#!material=fabric">Swivel Chairs</a></li>
+									<li><a href="/rocking-chairs/#!material=fabric">Rocking Chairs</a></li>
+									<!-- <li><a href="/counter-stools/#!material=fabric">Stools</a></li> -->
+									<li class="view_all_lnk"><a href="/all-chairs/#!material=fabric">view all chairs <i class="fa fa-long-arrow-right"></i></a></li>
 								</ul>
 							</li>
-					
-						</ul>
-						<a class="modal_act request_swatch_trigger" href="/material-swatches/request-swatches-lightbox/page_refer/header/" data-style="" data-pos="center" title=""><img src="/public/images//drop_down_fabrics.jpg" width="575" alt="Free Swatch Kit!"></a>
-											</div>
-				</li> 				
-				<li><a href="/all-tables/">Tables</a>
-					<div>
-						<ul>
-							<li>
-								<span>SHOP BY TYPE</span>
+							<li><span>Collections</span>
+								<ul>
+								<li><a href="/collections/">Our Collections</a></li>
+									
+								</ul>
+							</li>
+							<li><span>Ottomans &amp; Benches</span>
+								<ul>
+									<li><a href="/ottomans/#!material=fabric">Ottomans</a></li>
+									<li><a href="/benches/#!material=fabric">Benches</a></li>
+								</ul>
+							</li>
+							<li><span>Media &amp; Storage</span>
+								<ul>
+									<li><a href="/credenzas/">Credenzas</a></li>
+									<li><a href="/bookcases-wall-units/">Bookcase &amp; Wall Units</a></li>
+									<li class="view_all_lnk"><a href="/all-storage/">view all storage <i class="fa fa-long-arrow-right"></i></a></li>
+								</ul>
+							</li>
+							<li><span>Tables &amp; Desks</span>
 								<ul>
 									<li><a href="/dining-tables/">Dining Tables</a></li>
 									<li><a href="/coffee-tables/">Coffee Tables</a></li>
 									<li><a href="/end-tables/">End Tables</a></li>
-									
-								</ul>
-							</li>	
-
-						</ul>
-						<a href="/desks/"><img src="/public/images//drop_down_desks.jpg" width="430" alt="Desks"></a>
-					</div>
-				</li>
-				<li><a href="/all-storage/">Storage</a>
-					<div>
-						<ul>
-							<li>
-								<span>SHOP BY TYPE</span>
-								<ul>
-									<li><a href="/credenzas/">Credenzas</a></li>
-									<li><a href="/bookcases-wall-units/">Bookcases, Wall Units</a></li>
 									<li><a href="/desks/">Desks</a></li>
-									
-								</ul>
-							</li>	
-
-						</ul>
-						<a href="/credenzas/"><img src="/public/images//drop_down_credenzas.jpg" width="430" alt="Credenzas"></a>
-					</div>
-				</li>	
-
-				<li class="last"><a href="/decoration-accessories/">Accessories</a>					<div>
-						<ul>
-								<li><span>DECOR &amp; PILLOWS</span>
+									<li class="view_all_lnk"><a href="/all-tables/">view all tables <i class="fa fa-long-arrow-right"></i></a></li>
+								</ul> 
+							</li>
+							<li><span>Bedroom</span>
 								<ul>
-									<li><a href="/clocks/">Clocks</a></li>
-									<li><a href="/rugs/">Rugs</a></li>
-									<li><a href="/mirrors/">Mirrors</a></li>
-									<li><a href="/pillows/">Pillows</a></li>
-									<li><a href="/throws/">Throws</a></li>
-									<li><a href="/wall-art/">Wall Art</a></li>									
-									<li><a href="/fabrics/">Fabric by the Yard</a></li>
-									
-							
+									<li><a href="/beds/#!material=fabric">Beds</a></li>
 								</ul>
 							</li>
-<li>
-								<span>LIGHTING</span>
+							<li><span>Lighting</span>
 								<ul>
 									<li><a href="/table-lamps/">Table Lamps</a></li>
 									<li><a href="/floor-lamps/">Floor Lamps</a></li>
 									<li><a href="/ceiling-lamps/">Ceiling Lamps</a></li>
+									<li class="view_all_lnk"><a href="/all-lighting/">view all lighting <i class="fa fa-long-arrow-right"></i></a></li>
 								</ul>
-							</li>								
+							</li>
+							<li><span>Pillows &amp; Throws</span>
+								<ul>
+									<li><a href="/pillows/">Pillows</a></li>
+									<li><a href="/throws/">Throws</a></li>
+									<!-- <li><a href="/pouches/">Pouches</a></li> -->
+									<!-- <li class="view_all_lnk"><a href="#">view all <i class="fa fa-long-arrow-right"></i></a></li> -->
+								</ul>
+							</li>
+							<li><span>Rugs</span>
+								<ul>
+								<li><a href="/rugs/">Rugs</a></li>
+									<!-- <li class="view_all_lnk"><a href="/rugs/">view all <i class="fa fa-long-arrow-right"></i></a></li> -->
+								</ul>
+							</li>
+							<li><span>For the Wall</span>
+								<ul>
+									<li><a href="/clocks/">Clocks</a></li>
+									<li><a href="/mirrors/">Mirrors</a></li>
+									<li><a href="/wall-art/">Wall Art</a></li>
+									<!-- <li class="view_all_lnk"><a href="#">view all <i class="fa fa-long-arrow-right"></i></a></li> -->
+								</ul>
+							</li>
+						<li><span>Fabrics</span>
+								<ul>
+									<li><a class="modal_act request_swatch_trigger" href="/material-swatches/request-swatches-lightbox/page_refer/header/" data-style="" data-pos="center" title="">Free Sample Kit</a></li>
+									<li><a href="/fabrics/">Fabric by the Yard</a></li>
+								</ul>
+							</li>
 						</ul>
-						<a href="/decoration-accessories/"><img src="/public/images//drop_down_acc.jpg" width="430" alt="Accessories"></a>
+						<div class="dropdown_foot clearfix">
+							<label>Buying Resources:</label>
+							<a href="/material-swatches/"><i class="about_ico ico_swatch"></i> Shop by Color</a>
+							<a href="/pets/"><i class="about_ico ico_pets"></i> Pet &amp; Kid Friendly</a>
+							<a href="/fabric-guide/"><i class="about_ico ico_fabric_roll"></i> Fabric Guide</a>
+						</div>
 					</div>
+			
+				</li>
+				
+				<li>
+					<a href="/about-us/">About</a>
+					<!--<span id="aboutSwitch">About</span>
+					<ul>
+						<li><a href="/about-us/"><i class="about_ico ico_story"></i>Our Story</a></li>
+						<li><a href="/the-factory/"><i class="about_ico ico_factory"></i>The Factory</a></li>						
+						<li><a href="/team/"><i class="about_ico ico_team"></i>The Team</a></li>
+						<li><a href="/reviews/"><i class="about_ico ico_review"></i>Customer Reviews</a></li>
+						<li><a href="/press/"><i class="about_ico ico_press"></i>In The Press</a></li>
+					</ul>-->
+				</li>
+				
+				<li><a class="modal_act request_swatch_trigger" href="/material-swatches/request-swatches-lightbox/page_refer/header/" data-style="" data-pos="center" title="">Sample Kit</a></li>
+				<li><a href="/customer-photos/">Gallery</a></li>
+				<!-- <li><a href="/reviews/">Reviews</a></li> -->
+				
+				<li id="help_drop"><a class="modal_act" href="/lightbox/customer-care/" data-pos="no_center" data-style="cust_care" title="">Help</a>
+					<div>
+						<ul>
+							<li>
+								<i class="fa fa-comment-o"></i>
+								<span class="title">Live Chat</span>
+								Connect with live help
+								<a class="inp_btn btnBlue chat_act" href="#">Chat with Us</a>
+							</li>
+							<li>
+								<i class="fa fa-envelope-o"></i>
+								<span class="title">Email Us</span>
+								Send us a message
+								<a class="inp_btn btnBlue" href="/contact-us/">Send a Message</a>
+							</li>
+							<li>
+								<i class="fa fa-phone"></i>
+								<span class="title">Call or Text Us</span>
+								<p>Call: <strong>888-282-0842</strong></p>
+								<p>Text: <strong>619-780-2499</strong></p>
+							</li>
+						</ul>
+					</div>
+				</li>
+				
+								<li><a href="/customer/login/r/1">Login</a></li>
+								
+				<li id="favs_menu">
+										<a href="/my-favorites/">
+						<i class="fa fa-heart-o"></i>
+						<!--Faves-->
+						<span class="c_numb" style="display:none">0</span>
+					</a>
+				</li>
+				
+				<li id="cart_menu">
+					<a href="/cart/">
+						Cart					</a>
+				</li>
+				
+				<li id="search_wrap"><span><i class="fa fa-search"></i> Search</span>
+					<form name="search_form" id="search_form" method="get" action="/search/">
+						<fieldset class="pagewidth">
+							<label class="label" for="search_field">Search</label>
+							<input id="search_field" name="q" type="text" value="" placeholder="start your search here...">
+							<input id="search_submit" name="" type="submit" disabled="disabled">
+							<a href="#" id="searchClose"></a>
+						</fieldset>
+						
+					</form>
 				</li>
 				
 	
 			</ul>
 		</div>
-		
+	
 	</div>
+	
+	
+	
 </div>
+<!-- <div id="superheader">
+	<span>Fully Custom</span> +
+	<span>Free Shipping</span> + 
+	<span>Free Returns</span> + 
+	<span>Fanatical Service</span>
+</div> -->
 
-<div id="sub_header">
-	<div class="pagewidth">
-		Enjoy <strong>free shipping</strong> and <strong>free returns</strong> on all our <strong>fully customizable</strong> furniture. <strong class="underline">Fanatical Service</strong>, too.
-	</div>
-	<!--<ul class="pagewidth clearfix">
-		<li><span class="icon10x10 ico_check"></span>Free Shipping - Both Ways</li>
-		<li><span class="icon10x10 ico_check"></span>365-Day Returns</li>
-		<li><span class="icon10x10 ico_check"></span>No Sales Tax</li>
-		<li><span class="icon10x10 ico_check"></span>Lifetime Warranty</li>
-		<li><span class="icon10x10 ico_check"></span>Fully Customizable</li>
-		<li><span class="icon10x10 ico_check"></span>24/7 Customer Care</li>
-	</ul>-->
-</div>
+<script type="text/javascript">
+$(document).ready(function() {
+	/* - dev header - */
+	$('#search_wrap > span').click(function(event){
+		event.preventDefault();
+		$(this).siblings('form').slideDown(50);
+		$(this).siblings('form').find('#search_field').focus();
+	});
+	
+	$('#searchClose').click(function(event){
+		event.preventDefault();
+		$(this).parents('form').slideUp(20);
+	});
+	
+	$('#secondary_nav > li').hoverIntent({
+		sensitivity: 7,
+        interval: 70,
+		timeout:200,
+		over: function(){ 
+			$(this).children('ul').stop().slideDown(50);
+		},
+		out: function(){ 
+			$(this).children('ul').stop().slideUp(20);
+		}
+	});
+
+});
+</script>
+
 
 
 
@@ -465,15 +509,18 @@ if(!navigator.userAgent.match(/(iPhone|iPod|iPad|BlackBerry|Android|IEMobile)/))
 
 	<!-- Subscibe Popup-->
 	<div id="newsletter_popup_overlay"></div>
+	<input type="hidden" id="newsletter_popup_variation" name="newsletter_popup_variation" value="1">
+	
 	<script type="text/javascript">
 	if( testCookie() ){
-		_gaq.push(['_trackEvent', 'Newsletter', 'Newsletter Impression', 'http://joybird.com/privacy-policy',0,true]); ga('send', 'event','Newsletter','Newsletter Impression','http://joybird.com/privacy-policy',0,{'nonInteraction':1}); if(trackingDebug) console.log("_gaq.push(['_trackEvent', 'Newsletter', 'Newsletter Impression', 'http://joybird.com/privacy-policy',0,true]); ga('send', 'event','Newsletter','Newsletter Impression','http://joybird.com/privacy-policy',0,{'nonInteraction':1}); ")	}
+		if(trackingDebug) console.log("")	}
 	$(document).ready(function() {
 		if( testCookie() ){
-			if( !window.popupNewsVariant ) popupNewsVariant = 0;
+			var popupNewsVariant = $('#newsletter_popup_variation').val();
+			if( !popupNewsVariant ) popupNewsVariant = 1; 
 			$.post(
 				'/subscribe/popup-form/',
-				{variation:window.popupNewsVariant},
+				{variation:popupNewsVariant},
 				function(formCont){
 					$('#newsletter_popup_overlay').html(formCont);
 					
@@ -502,6 +549,7 @@ if(!navigator.userAgent.match(/(iPhone|iPod|iPad|BlackBerry|Android|IEMobile)/))
 
 
 
+
 	<!-- ============= HEADER -end ================ -->
 	
 	
@@ -514,17 +562,13 @@ if(!navigator.userAgent.match(/(iPhone|iPod|iPad|BlackBerry|Android|IEMobile)/))
 				<a href="/">Home</a> › <span>Privacy Policy</span>
 			</div>
 			
-			<div id="top_share" class="fl_right" data-ga="1" data-gu="1" data-kism="0" data-page="http://joybird.com/privacy-policy">
-	<a id="facebook" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fjoybird.com%2Fprivacy-policy" target="_blank" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=620,width=600');">Facebook</a>
-	<a id="twitter" href="http://twitter.com/home?status=I just checked http%3A%2F%2Fjoybird.com%2Fprivacy-policy" target="_blank" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=220,width=660');">Twitter</a>	
+			<div id="top_share" class="fl_right" data-ga="0" data-gu="0" data-kism="0" data-page="http://joybird.com/privacy-policy/">
+	<a id="facebook" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fjoybird.com%2Fprivacy-policy%2F" data-act="socialShare" data-network="facebook" data-url="http://joybird.com/privacy-policy/" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=620,width=600');" target="_blank">Facebook</a>	
+	<a id="twitter" href="http://twitter.com/home?status=I just checked http%3A%2F%2Fjoybird.com%2Fprivacy-policy%2F" data-act="socialShare" data-network="twitter" data-url="http://joybird.com/privacy-policy/" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=220,width=660');" target="_blank">Twitter</a>
+	<a id="pinterest" class="pinAct" href="#" data-container="page" data-act="socialShare" data-network="pinterest" data-url="http://joybird.com/privacy-policy/" target="_blank">Pinterest</a>
 	<!--<a id="pinterest" 
-		href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fjoybird.com%2Fprivacy-policy&media=&description=" 
-		target="_blank" 
-		onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=540,width=660');"
-		>Pinterest</a>-->
-	
-	<a id="pinterest" class="pinAct" href="#" data-container="page">Pinterest</a>
-	
+		href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fjoybird.com%2Fprivacy-policy%2F&media=&description=" 
+		data-act="socialShare" data-network="pinterest" data-url="http://joybird.com/privacy-policy/" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=540,width=660');" target="_blank" 		>Pinterest</a>-->
 	<a class="modal_act" id="sendemail" href="/email-friend/index/" data-style="share_email" data-pos="center" title="">Email</a>
 </div>
 		
@@ -594,49 +638,31 @@ if(!navigator.userAgent.match(/(iPhone|iPod|iPad|BlackBerry|Android|IEMobile)/))
 
 	<!-- ============= FOOTER -start ================ -->
 	<div id="footer">
-<!-- Footer Newsletter -->
-<div id="foot_top" class="tCent"></div>
-<script type="text/javascript">
 
-$(document).ready(function() {
-	if( !window.footNewsVariant ) footNewsVariant = 0;
-	$.post(
-		'/subscribe/footer-form/',
-		{variation:window.footNewsVariant},
-		function(formCont){
-			$('#foot_top').html(formCont);
-		}
-	);
-});
-</script>
 
 <!-- Footer Menues -->
 <div id="foot_main">
 	<div class="pagewidth clearfix">
 		<div class="footer_logo fl_left">
-			<img src="/public/images/footer_logo.png" width="100%" alt="Joybird.com">
-						<div id="mylikebox">
-				<div id="fb-root"></div>
-				<script>(function(d, s, id) {
-				  var js, fjs = d.getElementsByTagName(s)[0];
-				  if (d.getElementById(id)) return;
-				  js = d.createElement(s); js.id = id;
-				  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-				  fjs.parentNode.insertBefore(js, fjs);
-				}(document, 'script', 'facebook-jssdk'));</script>
-			
-				<div class="fb-like" data-href="https://www.facebook.com/wearejoybird" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
-			</div>
-					</div>
+			<img src="/public/images/footer_logo_2.png" width="100%" alt="Joybird.com">
+			<ul>
+				<li><span>Customer Care</span></li>
+				<li><a href="#" class="chat_act"><i class="fa fa-comment-o"></i> Chat with us</a></li>
+				<li><i class="fa fa-phone"></i> 888-282-0842</li>
+			</ul>
+		</div>
 		<ul id="foot_nav" class="fl_right clearfix">
 			<li><span>About</span>
 				<ul>
 					<li><a href="/about-us/">Our Story</a></li>
 					<li><a href="/experience-joy/">Experience Joy</a></li>
-					<li><a href="/build-updates/">Build Updates</a></li>					
+					<li><a href="/build-updates/">Build Updates</a></li>
+					<li><a href="/team/">The Team</a></li>					
 					<li><a href="/reviews/">Reviews</a></li>
 					<li><a href="/customer-photos/">Photo Gallery</a></li>
+					<li><a href="/press/">Press</a></li>					
 					<li><a href="http://blog.joybird.com" target="_blank">Blog</a></li>
+
 
 						
 				</ul>
@@ -649,43 +675,58 @@ $(document).ready(function() {
 					<li><a href="/customer/login/r/1">My Account</a></li>					
 					<li><a href="/order-tracking/">Order Tracking</a></li>					
 					<li><a href="/returns-and-exchanges/">Return Policy</a></li>
-
+					<li><a href="/product-financing/">Financing</a></li>
 
 				</ul>
 			</li>
 			<li><span>Resources</span>
 				<ul>
 					<li><a href="/resource-center/">Resource Center</a></li>
-					<li><a href="/idea-gallery/">Idea Gallery</a></li>
 					<li><a href="/material-swatches/">Shop by Color</a></li>
 					<li><a href="/collections/">Collections</a></li>
-					<li><a href="/custom-furniture/">Custom Furniture</a></li>
-
-
+					<li><a href="/go-custom/">Custom Furniture</a></li>
+					<li><a href="/submit-photo/">Submit Your Photo</a></li>
+					<li><a href="/gift-card/">Gift Cards</a></li>
+					<li><a href="http://business.joybird.com">Trade &amp; Wholesale</a></li>
+					<li><a href="/affiliates/">Affiliates</a></li>
+					<li><a href="/retailers/">Store Locator</a></li>
 				</ul>
 			</li>
-			<li><span>Join Us</span>
-				<ul>
-					<li><a href="/trade-program/">Trade Program</a></li>
-					<li><a href="/gift-card/">Gift Cards</a></li>	
-					<!--<li><a href="/invite-friend/">Invite Friends</a></li>-->
-					<li><a href="/submit-photo/">Submit Photos</a></li>
-				</ul>
+			<li id="joinUs">
+				<!-- Footer Newsletter -->
+								<div id="newsletter_block" class="tCent"></div>
+				<script type="text/javascript">
+				
+				$(document).ready(function() {
+					if( !window.footNewsVariant ) footNewsVariant = 3;
+					$.post(
+						'/subscribe/footer-form/',
+						{variation:window.footNewsVariant},
+						function(formCont){
+							$('#newsletter_block').html(formCont);
+						}
+					);
+				});
+				</script>
+								<div id="getSocial">
+					<h3>Follow us on Social Media</h3>
+					
+										<a href="http://www.facebook.com/wearejoybird" target="_blank"><i class="fa fa-facebook"></i></a>
+										
+										<a href="http://www.twitter.com/wearejoybird" target="_blank"><i class="fa fa-twitter"></i></a>
+										
+										<a href="http://www.pinterest.com/wearejoybird/" target="_blank"><i class="fa fa-pinterest"></i></a>
+										
+										<a href="https://plus.google.com/111540973675874134772/posts" target="_blank"><i class="fa fa-google-plus"></i></a>
+										
+										<a href="http://instagram.com/wearejoybird" target="_blank"><i class="fa fa-instagram"></i></a>
+										
+					                    
+                    					<a href="https://www.youtube.com/channel/UCT2oOf3bobQAQGfsxyDuBAw/videos" target="_blank"><i class="fa fa-youtube"></i></a>
+										
+				</div>
 			</li>
-			<li><span>Get Social</span>
-				<ul>
-
-										<li id="ico_fb"><a href="http://www.facebook.com/wearejoybird" target="_blank"><span class="soc_ico ico_fb"></span>Facebook</a></li>
-										
-										<li id="ico_tw"><a href="http://www.twitter.com/wearejoybird" target="_blank"><span class="soc_ico ico_tw"></span>Twitter</a></li>
-										
-										<li id="ico_pin"><a href="http://www.pinterest.com/wearejoybird/" target="_blank"><span class="soc_ico ico_pin"></span>Pinterest</a></li>
-										
-										
-										<li id="ico_instagram"><a href="http://instagram.com/wearejoybird" target="_blank"><span class="soc_ico ico_instagram"></span>Instagram</a></li>
-										
-									</ul>
-			</li>
+			
 		</ul>
 	</div>
 </div>
@@ -693,13 +734,13 @@ $(document).ready(function() {
 <!-- Footer Bottom -->
 <div id="foot_bottom">
 	<div class="pagewidth clearfix">
-		<div class="f_copy">Copyright © 2014 Joybird. Visit our sister brand: <a href="http://springandstitch.com">Spring &amp; Stitch</a></div>
+		<div class="f_copy">Copyright © 2015 Joybird®</div>
 		<div class="f_terms">
 		    
 			<a href="/terms-of-use/">Terms of Use</a>
 			<a href="/privacy-policy/">Privacy Policy</a>
 			<a href="/sitemap/">Sitemap</a>
-			<a href="/index/site-ver/ver/2">View Mobile Site</a>
+			<!-- <a href="/index/site-ver/ver/2">View Mobile Site</a> -->
 		</div>
 		
 	</div>
@@ -735,18 +776,7 @@ $(document).ready(function() {
 
 
 
-<!-- Get Clicky Tracking Code -->
-<script type="text/javascript">
-var clicky_site_ids = clicky_site_ids || [];
-clicky_site_ids.push(100685735);
-(function() {
-  var s = document.createElement('script');
-  s.type = 'text/javascript';
-  s.async = true;
-  s.src = '//static.getclicky.com/js';
-  ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
-})();
-</script>
+
 
 
 
@@ -769,22 +799,63 @@ clicky_site_ids.push(100685735);
 	var google_remarketing_only = true;
 	/* ]]> */
 </script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
 <noscript>
 	<div style="display:inline;">
 		<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/977101768/?value=0&amp;guid=ON&amp;script=0"/>
 	</div>
 </noscript>
 
+<!-- Listrak Analytics � Step 6: Collect Browsing Activity -->
+	<script type="text/javascript">
+		(function(d) { if (document.addEventListener) document.addEventListener('ltkAsyncListener', d);
+			else {e = document.documentElement; e.ltkAsyncProperty = 0; e.attachEvent('onpropertychange', 
+			function (e) {
+			if (e.propertyName == 'ltkAsyncProperty'){d();}});}})(function() {
+				/********** Begin Custom Code **********/
+				_ltk.Activity.AddPageBrowse();
+				_ltk.Activity.Submit();
+				/********** End Custom Code **********/
+			});
+	</script>
 
+<!-- Listrak Analytics � Step 5: Capture Email Addresses -->
+<script type="text/javascript">
+	(function(d) { if (document.addEventListener) document.addEventListener('ltkAsyncListener', d);
+        else {e = document.documentElement; e.ltkAsyncProperty = 0; e.attachEvent('onpropertychange', 
+		function (e) {
+        if (e.propertyName == 'ltkAsyncProperty'){d();}});}})(function() {
+            /********** Begin Custom Code **********/ 
+			_ltk.SCA.CaptureEmail('e-mail'); 
+			_ltk.SCA.CaptureEmail('fnews_email'); 
+			_ltk.SCA.CaptureEmail('shipping_email');
+			_ltk.SCA.CaptureEmail('pnews_email');
+            /********** End Custom Code **********/
+        });
+</script>
 
+<!-- Listrak Analytics � Step 3: Apply Conversion Tracking -->
+<script type="text/javascript"> 
+    (function(d) { if (document.addEventListener) document.addEventListener('ltkAsyncListener', d);
+        else {e = document.documentElement; e.ltkAsyncProperty = 0; e.attachEvent('onpropertychange', 
+	function (e) {
+        if (e.propertyName == 'ltkAsyncProperty'){d();}});}})(function() {
+             _ltk.Click.Submit();
+        });
+</script>
 
-
-<!-- Ping Blog -->
-<!--<img src="http://joybird.com/blog/jb-shared.php?sess_id=uqof5m69k04golo0j6oshmr511" style="display:none" />-->
+<!-- Listrak Analytics � Javascript Framework -->
+<script type="text/javascript">
+        var biJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+        (function (d, s, id, tid, vid) {
+            var js, ljs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return; js = d.createElement(s); js.id = id;
+            js.src = biJsHost + "cdn.listrakbi.com/scripts/script.js?m=" + tid + "&v=" + vid;
+            ljs.parentNode.insertBefore(js, ljs);
+        })(document, 'script', 'ltkSDK', 'gnLuYK4JolAR', '1');
+</script>
 
 <!-- layout 1 -->
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"7172f1b2fb","applicationID":"3753446","transactionName":"NlVRYRZUXkEFBhJbWg8fclYQXF9cSysJf1oFRV9QS0ZEUxBKEFtQFg==","queueTime":0,"applicationTime":33,"ttGuid":"","agentToken":"","atts":"GhJSF15OTU8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+
+</body></html>
