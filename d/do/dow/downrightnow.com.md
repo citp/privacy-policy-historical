@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downrightnow.com privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002115446id_/http%3A//downrightnow.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downrightnow.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608014937id_/http%3A//downrightnow.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - downrightnow
 
