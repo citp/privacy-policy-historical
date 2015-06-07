@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webtraffictoolkit.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301081202id_/http%3A//webtraffictoolkit.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtraffictoolkit.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607081944id_/http%3A//webtraffictoolkit.com/privacy-policy.html) for the most accurate reproduction.*
 
 # None
 
@@ -66,7 +66,7 @@ In the alternative, you can opt out of the use of cookies by third-party vendors
 
 _Dynamic Ad Serving_
 
-Our website may use Google’s Dynamic Ad Serving feature. To opt out of interest-based ads by Google, follow Google’s opt-out instructions located at [ https://support.google.com/ads/answer/2662922?hl=en ](https://web.archive.org/web/20140301081202id_/http%3A//webtraffictoolkit.com/%20https://support.google.com/ads/answer/2662922?hl=en%20). 
+Our website may use Google’s Dynamic Ad Serving feature. To opt out of interest-based ads by Google, follow Google’s opt-out instructions located at [ https://support.google.com/ads/answer/2662922?hl=en ](https://web.archive.org/web/20150607081944id_/http%3A//webtraffictoolkit.com/%20https://support.google.com/ads/answer/2662922?hl=en%20). 
 
 _DoubleClick Remarketing Pixels_
 
