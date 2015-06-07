@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kveller.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227164252id_/http%3A//kveller.com/aboutus/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kveller.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607234531id_/http%3A//www.kveller.com/article/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy- Kveller
+# Privacy Policy – Kveller
 
 Kveller.com (“the Site”) respects the privacy of our users and members. This privacy policy describes the types of personal information that we collect and the uses that we make of that information.
 
@@ -34,7 +34,7 @@ We may use user information that is either provided by you or gathered with the 
 
 HOW WE USE COOKIES
 
-In order to improve our ability to predict which ads We, our third party service providers, advertisers or our partners may use "cookies" or similar technologies, to monitor our visitors surfing patterns and preferences and collect other data about the visitors using our site. 
+In order to improve our ability to predict which ads We, our third party service providers, advertisers or our partners may use “cookies” or similar technologies, to monitor our visitors surfing patterns and preferences and collect other data about the visitors using our site. 
 
 We may use cookies or similar technologies to monitor and measure traffic and o customize the content. We also may use cookies to collect information about you and your preferences which helps us offer you products, promotions, or services that may be of interest to you and to deliver relevant advertising tailored to you.
 
@@ -46,7 +46,7 @@ You can change your privacy preferences regarding the use of cookies and similar
 
 If you wish to disable cookies you may do so through your web browser options. Instructions for doing so and for other cookie-related management can be found on the specific web browsers websites. Alternatively, you may use the resources located [here](http://www.networkadvertising.org/choices) to opt out.
 
-Many 3rd-party advertising networks are members of the Network Advertising Initiative ("NAI"). To opt out of having information collected by NAI member companies used for behavioral advertising, please visit [here](http://%20www.networkadvertising.org/optout_nonppii.asp).
+Many 3rd-party advertising networks are members of the Network Advertising Initiative (“NAI”). To opt out of having information collected by NAI member companies used for behavioral advertising, please visit [here](http://%20www.networkadvertising.org/optout_nonppii.asp).
 
 You may also opt out of cookies by opting out of a particular 3rd provider. For example, to opt out of cookies placed by the Zedo Ad server , go to the [Zedo opt out page](http://www.zedo.com/about-zedo/opt-out/) and click the “Opt Out Now.” For Google Analytics, see [here](https://tools.google.com/dlpage/gaoptout/).
 
@@ -57,3 +57,12 @@ Using the e-mail addresses provided during registrations, surveys, and contests,
 SECURITY
 
 Although we take precautions against security breaches, hackers pose a threat to any internet user. We will make commercially reasonable efforts to see that your information is treated in compliance with this privacy policy.
+
+  * Posted In:
+  * [About Us](http://www.kveller.com/tag/about-us/)
+
+
+
+[ ](http://www.kveller.com/author/kveller-staff/)
+
+[Kveller Staff](http://www.kveller.com/author/kveller-staff/)The Kveller staff is made up of the hard-working folks behind your favorite Jewish parenting website, Kveller, of course.
