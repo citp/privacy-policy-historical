@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getrevising.co.uk privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124040136id_/http%3A//getrevising.co.uk/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getrevising.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607141525id_/http%3A//getrevising.co.uk/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Get Revising
 
@@ -26,7 +26,8 @@ We are absolutely committed to protecting your privacy. Our policy can be summar
 3) Further Use of Information  
 (a) GetRevising may occasionally send you communications about products and services that it feels may be of interest to you unless you indicate that you are not interested in receiving such offers or information from us.  
 (b) GetRevising does not sell, trade or rent user information to others unless you have given us permission. With your permission GetRevising will only share your information with carefully chosen, reputable and trustworthy third parties.  
-(c) GetRevising will not pass on your personal information unless you have given your prior consent. Otherwise, GetRevising will only share aggregate statistics about sales and traffic patterns with our advertisers, but these statistics will not include any personally identifiable information.
+(c) GetRevising will not pass on your personal information unless you have given your prior consent. Otherwise, GetRevising will only share aggregate statistics about sales and traffic patterns with our advertisers, but these statistics will not include any personally identifiable information.  
+​(d) If at any point you would like to opt-out of receiving communications from us by email, you can amend your preferences in the [My Account](https://getrevising.co.uk/profile/email-preferences) section.
 
 4) Cookies  
 In addition to the information which you supply when you register with us, information and data may be automatically collected through the use of cookies. Cookies are small text files a web site can use to recognise repeat users and allow GetRevising to observe behaviour and compile aggregate data in order to improve the Site. Cookies make it possible for GetRevising to identify registered users without needing to ask for registration details every time you access the Site. Using cookies also means that accessing the Site is more convenient for you as you do not need to remember your username and password each time you enter the Site.  
