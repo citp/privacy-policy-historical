@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the howmanysyllables.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129032743id_/http%3A//www.howmanysyllables.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howmanysyllables.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607141103id_/http%3A//www.howmanysyllables.com/privacy) for the most accurate reproduction.*
 
-# Our Privacy Policy
+# Privacy Policy
 
-Last Updated On: **11/21/2013**
+Last Updated On: **01/29/2015**
 
-HowManySyllables.com is privately owned and operated by _**How  Many Syllables**_.
+**Welcome to HowManySyllables.com!** We are best known as _How  Many Syllables_™ or as the _Syllable  Dictionary_™. We are owned and operated by **_How  Many Syllables_**, a corporation organized under the laws of the State of New York, of the United States of America.
 
 _How  Many Syllables_ respects your privacy. This Privacy Policy is specific to HowManySyllables.com, its subdomains, its co-sponsored websites (such as PoemWorkshop.com), our social media pages, and any other website or application, owned or operated by _How  Many Syllables_.
 
@@ -86,6 +86,18 @@ _For Example_
 
 
 We may choose to publicly disclose aggregate (non-personally identifiable) information about our users. This information may include, but is not limited to, the total number of visitors we get on a daily basis, what the most looked up words of the day are, how our users engaged with interactive activities on our site (such as games), and aggregate responses to polling questions found on our site or social media pages.
+
+We may choose to publicly disclose any communication which we receive from you, or send to you, through email, private message(s) on our social media pages, or through the [contact us](https://web.archive.org/contactus) page. We will always remove your personal information from all such disclosures, unless we receive your consent to include it.
+
+ _For Example_
+
+:
+
+  * We may publicly disclose that Amy (no last name) contacted us and asked why the word "orange" is 2 syllables.
+  * We will _NEVER_ publicly disclose that John Q. Smith (JSmith@fakeEmail.com) contacted us and asked why the word "motion" has 2 syllables.
+  * If we receive your permission, we may publicly disclose that Amy Smith, a teacher in New York City, won one of our contests.
+
+
 
 We may disclose your personal information when we believe release is appropriate to comply with the law, defend against claims, enforce our site policies, investigate or report illegal activity, or protect/enforce the rights, property, or safety for us or our users.
 
