@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lyrics.com privacy policy that was archived on 2013-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130610015148id_/http%3A//www.lyrics.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lyrics.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607154006id_/http%3A//www.lyrics.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:lyricscom="http://www.lyrics.com/ns#"><head>
 		  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -15,22 +15,19 @@
 		  		  <meta name="keywords" content="lyric, lyrics, song, music, song lyrics, music lyrics">
 		  <meta name="description" content="Lyrics.com is a music community with the largest searchable lyrics database.">
 		  <meta name="robots" content="all">
-		  <meta name="server" content="10.1.10.2">
+		  <meta name="server" content="127.0.0.1">
 		  <title>Lyrics.com - your music community with the largest searchable lyrics database.</title>
 		  
 		  
 		            
-		  <script type="text/javascript" src="http://www.lyrics.com/js/prototype.js?20110910"></script>
+		            <script type="text/javascript" src="/js/mini/header.20150205.js?combined=prototype,overlay,common,lyrics,users,scriptaculous"></script>
+          <script type="text/javascript" src="/js/jquery-1.11.2.min.js"></script>
+          <script type="text/javascript" src="/js/jquery-migrate-1.2.1.min.js"></script>
+          <script type="text/javascript">var $j = jQuery.noConflict();</script>
           
-
-		  <script type="text/javascript" src="http://www.lyrics.com/js/overlay.js"></script>
-		  <script type="text/javascript" src="http://www.lyrics.com/js/common.js?v=20100714"></script>
-		  <script type="text/javascript" src="http://www.lyrics.com/js/lyrics.js"></script>
-		  
-		  <script type="text/javascript" src="http://www.lyrics.com/js/users.js?20120116"></script>
-		  <script type="text/javascript" src="http://www.lyrics.com/js/scriptaculous.js"></script>
+		 
 		  		  
-		  <link href="/stylesheets/main.v2.1005.css?20110228" rel="stylesheet" type="text/css">
+		  <link href="/css/mini/main.v2.1005.css?20131003-3" rel="stylesheet" type="text/css">
 		  
 		  <!--[if IE 7]>
 			  <link href="/stylesheets/ie7.css" type="text/css" rel="stylesheet" />
@@ -46,49 +43,23 @@
 		  <!-- about privacy -->		  
 		 
 		  <!-- END OF PRESENCE BAR CSS -->
-		            
-		  <script type="text/javascript">
-		  function init_start()
-		  {
-			  try
-			  {
-				  init();
-			  } catch (err) {}
-		  }
-		  </script>
-          <style type="text/css">
-		  #lyric_space { line-height:1.8em; }
-		  </style>
+		  
 		  </head>
 		  
-		  		  <body onload=";init_start(); " id="bodytag" class="bodyContent  userbg" oncontextmenu=""> 		 		  		  		  
-		  <div id="overlay" class="hide" style="border:3px solid #aaa;">
-			  <div style="text-align:right;"><a href="javascript:void(0);" onclick="ol_close();">close</a></div>
+		  		  <body id="bodytag" class="bodyContent  userbg"> 		 		  		  		  
+		  <div id="overlay" class="hide">
+			  <div class="close"><a href="javascript:void(0);" onclick="ol_close();">close</a></div>
 			  <div id="overlay_content"></div>
 		  </div>
 		  
 			
           <div id="mainwrappercontent">
-          	  <style type="text/css">
-			  .hide {display:none;}
-			  #browse_bar { z-index:1; }
-			  table.maintable{width:920px;}
-			  </style>
-                            <div id="topnav" style="padding-top:12px;z-index:1000;position:relative;top:0;left:0;">
-                  <div class="topnavleft" style="position:relative;">
+                            <div id="topnav">
+                  <div class="topnavleft">
                   	  
-                      <div style="float: left; margin-top: -11px; margin-right: 20px; margin-left: 5px;"><a href="/" class="none"><img src="/images/new/logo_sm.png" class="logo" alt="Lyrics.com" border="0"></a></div>
-                      <div style="float:left">
-                      <script type="text/javascript">
-					  function submit_search_form()
-					  {
-						  $('search_form').setAttribute('action','http://www.lyrics.com/search.php?what=all&keyword='+encodeURIComponent($('googlecseinput').value));
-						  return true;
-					  }
-					  </script>
-                      <form action="http://www.lyrics.com/search.php" method="post" id="search_form" onsubmit="return submit_search_form();">                      	<input id="googlecseinput" autocomplete="off" type="text" name="keyword" maxlength="60" value="" class="gray fields" style="border:0; margin-left:5px; width:400px; margin-right:0;" onfocus="this.className='fields';if(this.value=='') this.value='';"><input type="hidden" name="what" id="what" value="all"><input type="submit" name="search_btn" id="search_btn" value="Search" style="margin-left:0;">
-                        <!-- (1) Attach autocomplete to the search box --> 
-                    
+                      <div class="logo_div"><a href="/" class="none"><img src="/images/new/logo_sm.png" class="logo" alt="Lyrics.com" border="0"></a></div>
+                      <div class="search_bar_div">
+                      <form action="/search.php" method="post" id="search_form" onsubmit="return submit_search_form();">                      	<input id="googlecseinput" autocomplete="off" type="text" name="keyword" maxlength="60" value="" class="gray fields" onfocus="this.className='fields';if(this.value=='') this.value='';"><input type="hidden" name="what" id="what" value="all"><input type="submit" name="search_btn" id="search_btn" value="Search">                    
 <script type="text/javascript" src="//www.google.com/jsapi"></script>
 <script type="text/javascript"> 
 google.load('search', '1', {language : 'en', style : google.loader.themes.V2_DEFAULT});google.setOnLoadCallback(function() { 
@@ -100,21 +71,21 @@ document.getElementById('googlecseinput'),
 </script> 
 <!-- End of autocomplete -->   
 					</form>                      </div>
-                                            <!-- SEARCH -->
-                      <div style="float: right; padding-top:5px;">
+                      
+                      <!-- SEARCH -->
+                      <div class="search_box_div">
                       
                       
-                      <form action="http://www.lyrics.com/search.php" method="get" onsubmit="return searchAjax();">                      
+                      <form action="/search.php" method="get" onsubmit="return searchAjax();">                      
                       
                         <table cellpadding="0" cellspacing="0" border="0">
                             <tbody><tr>
                             	<td>
 																
 								<a href="/">Home</a>
-<a href="http://www.lyrics.com/artists/start/num">Browse</a>
+<a href="/artists/start/num">Browse</a>
 
-<a href="http://www.lyrics.com/submit">Submit</a>
-<a href="http://www.lyrics.com/login">Login</a>                                
+<a href="/login">Login</a>                                
                             </td></tr>
 							
                         </tbody></table>		
@@ -122,15 +93,16 @@ document.getElementById('googlecseinput'),
                       
                       </form>
                       </div> 
-                                            <br style="clear:both;">
+                      
+                      <br style="clear:both;">
                   </div>
                 
                 
                 
               </div>
               
-              					  <div style="margin:10px 0;text-align:center;" id="top_ads_space">
-					  <script type="text/javascript"><!--
+              							<div id="top_ads_space">
+							<script type="text/javascript"><!--
 			google_ad_client = "pub-3044889097204573";
 			/* 728x90, created 1/16/08 */
 			google_ad_slot = "5211954746";
@@ -139,8 +111,8 @@ document.getElementById('googlecseinput'),
 			//-->
 			</script>
 			<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-			</script>					  </div>
-					                
+			</script>							</div>
+							              
               <div id="wrappercontent">
               <div id="wrapper_bg">
               <div id="wrapper">
@@ -186,7 +158,7 @@ document.getElementById('googlecseinput'),
 </div>
 		  <br class="clear">
           </div><!-- #content -->
-		  </div><!-- #inner -->
+          		  </div><!-- #inner -->
           
 		  </div><!-- #wrapper --> 
 				  
@@ -196,23 +168,21 @@ document.getElementById('googlecseinput'),
       
       
       
-          <div style="margin-top:15px; text-align:center; width:920px; margin:15px auto;">	 
-          	  <div style="margin:0 auto 15px; width:728px;">
+          <div class="bottom_wrapper">	 
+          	  <div class="bottom_container">
                   <!-- ValueClick Media 468x60 and 728x90 Banner CODE for Lyrics.com -->
 				  <script src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js"></script><script type="text/javascript">document.write('<scr' + 'ipt type="text/javascript">(function () {try{VCM.media.render({sid:25384,media_id:1,media_type:5,version:"1.1"});} catch(e){document.write(\'<scr\' + \'ipt type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=25384&m=1&tp=5&d=j&t=n&exc=1"></scr\' + \'ipt>\');}}());</scr' + 'ipt>');</script><script type="text/javascript">(function () {try{VCM.media.render({sid:25384,media_id:1,media_type:5,version:"1.1"});} catch(e){document.write('<scr' + 'ipt type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=25384&m=1&tp=5&d=j&t=n&exc=1"></scr' + 'ipt>');}}());</script><script type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=25384&amp;m=1&amp;tp=5&amp;d=j&amp;t=n&amp;exc=1"></script><noscript><a href="http://media.fastclick.net/w/click.here?sid=25384&m=1&c=1" target="_blank"><img src="http://media.fastclick.net/w/get.media?sid=25384&m=1&tp=5&d=s&c=1&vcm_acv=1.1" width=728 height=90 border=1></a></noscript>
 				  <!-- ValueClick Media 468x60 and 728x90 Banner CODE for Lyrics.com -->
 
               </div>
-              <style type="text/css">
-              table.footer tr td a,table.footer tr td  {color:#999;}
-              </style>
+              
               <table cellspacing="0" cellpadding="0" width="920" class="footer" align="center" style="margin-top:15px;"> 
                   <tbody><tr>
                       <td width="450" align="left"> 
-                          <a href="http://www.lyrics.com/about/contact">Contact Us</a> | <a href="http://www.lyrics.com/about/terms_of_use">Terms of Use</a> | <a href="http://www.lyrics.com/about/privacy">Privacy Policy</a> | <a href="http://www.lyrics.com/user/api/docs/">Developers</a>
+                          <a href="/about/contact">Contact Us</a> | <a href="/about/terms_of_use">Terms of Use</a> | <a href="/about/privacy">Privacy Policy</a> | <a href="/user/api/docs/">Developers</a>
                       </td>
                       <td style="text-align:right;">
-                          © 2008 Lyrics.com | All rights reserved. | 0.0080(US)<!--  -->                      </td>
+                          © 2008 Lyrics.com | All rights reserved. | 0.0046()<!--  -->                      </td>
                   </tr>
               </tbody></table>
           </div>
@@ -230,10 +200,7 @@ document.getElementById('googlecseinput'),
 	  pageTracker._trackPageview();
 	  </script>
 	  
-	  	  <!-- start Vibrant Media IntelliTXT script section -->
-<script type="text/javascript" src="http://lyrics.us.intellitxt.com/intellitxt/front.asp?ipid=22892"></script>
-<!-- end Vibrant Media IntelliTXT script section -->
-      
+	            
 	  	  <!-- Begin comScore Tag -->
 	  <script type="text/javascript">
           document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js'%3E%3C/script%3E"));
@@ -253,8 +220,7 @@ document.getElementById('googlecseinput'),
           <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035055&c3=&c4=&c5=&c6=&c15=&cj=1" />
       </noscript>
       <!-- End comScore Tag -->
-	  
-	  
+	  	  
 	  
 	  	  
 	</body></html>
