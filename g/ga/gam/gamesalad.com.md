@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesalad.com privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031140152id_/http%3A//gamesalad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesalad.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607223138id_/http%3A//gamesalad.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GameSalad
 
