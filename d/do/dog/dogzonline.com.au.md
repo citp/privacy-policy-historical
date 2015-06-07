@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogzonline.com.au privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505003808id_/http%3A//www.dogzonline.com.au/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogzonline.com.au privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607135853id_/http%3A//www.dogzonline.com.au/privacy-policy.asp) for the most accurate reproduction.*
 
 # Dogz Online - The Pure Breed Dog Community of Australia
 
@@ -60,6 +60,6 @@ For all e-commerce transactions, we use industry-standard commercial encryption 
 **Changes to this Privacy Policy**  
 Due to changing technological and marketing demands, we reserve the right to change our policies regarding the privacy of your personally identifiable information in the future. If that happens, we will endeavor to promptly update this Privacy Policy. We may also attempt to provide a message to our members whose e-mail addresses we have, in conformity with this Privacy Policy, advising of any such change(s). Your continued use of the web site following changes to this policy will indicate that you accept the changes. 
 
-All content copyright Dogz Online Pty Ltd © 2014  
+All content copyright Dogz Online Pty Ltd © 2015  
 [Privacy Policy](https://web.archive.org/privacy-policy.asp) | [Web Site Terms and Conditions](https://web.archive.org/disclaimer.asp)  
  
