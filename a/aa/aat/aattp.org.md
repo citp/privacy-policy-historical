@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aattp.org privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204200449id_/http%3A//aattp.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aattp.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200200id_/http%3A//aattp.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Americans Against the Tea Party
 
