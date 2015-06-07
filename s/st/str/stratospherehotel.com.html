@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the stratospherehotel.com privacy policy that was archived on 2014-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141221144929id_/http%3A//www.stratospherehotel.com/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stratospherehotel.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607033517id_/http%3A//www.stratospherehotel.com/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB" lang="en-GB"><!-- <html> --><head>
-<meta http-equiv="X-UA-Compatible" content="IE=edge">    		 
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">    		 
 
 	 
 		                                                                                        <title>Las Vegas NV - Stratosphere Casino, Hotel &amp; Tower</title>
@@ -139,10 +139,21 @@
   </div>
 </div>
 
+
 <script type="text/javascript">
-$('#ifram').css('width','100px')
+
+function readCookie(cookieName) {
+ var re = new RegExp('[; ]'+cookieName+'=([^\\s;]*)');
+ var sMatch = (' '+document.cookie).match(re);
+ if (cookieName && sMatch) return unescape(sMatch[1]);
+ return '';
+}
+
+
+$('#ifram').css('width','100px');
 var ztpl = '380';
 var glock = '';
+$gkey = readCookie('Gatekey');
 
 if(glock != ''){ 
 	if(glock != $gkey){
@@ -213,13 +224,12 @@ if(glock != ''){
         	  <!-- Top menu area: START -->
 	  		  <div id="topmenu-position">
   <div id="topmenu" class="float-break">
-    <div class="topmenu-ls"></div>
+    <link type="text/css" rel="stylesheet" href="/var/ezwebin_site/storage/original/text/6e4e4e122d08a1f387f5c71906c84490.css"><div class="topmenu-ls"></div>
 <div class="topmenu-design">
-
 	<div id="logo">    <a href="/" title="Stratosphere"><img src="/var/ezwebin_site/storage/images/design/stratosphere/172-81-eng-GB/Stratosphere.png" alt="" width="170" height="44"></a></div>    <!-- Top menu content: START -->
     <ul id="topmenu-firstlevel">
-        					                                                                            
-               <li class="firstli">
+        					            						                                                                
+               <li class="Casino firstli">
 					
 					<div class="menu-c">
 						<div class="menu-leftshadow"></div>
@@ -233,14 +243,13 @@ if(glock != ''){
 																<div class="sub_menu" style="display: none;">
 								<!-- <span class="path" >Casino</span> -->
 								<ul class="sub">
-						
-						            																																																			<li class="firstli"><a href="/Casino/ace-PLAY"><span class="without_uppercase"><span class="bold">ace</span> | PLAY<span class="special-tm-menu">TM</span></span></a>
+						            																																																										<li class="Casino/ace-PLAY firstli"><a href="/Casino/ace-PLAY"><span class="without_uppercase"><span class="bold">ace</span> | PLAY<span class="special-tm-menu">TM</span></span></a>
 													
 																							</li>
-              						            																																				<li><a href="/Casino/ace-PLAY-Benefits">ace | PLAY Benefits</a>
+              						            																																											<li class="Casino/ace-PLAY-Benefits"><a href="/Casino/ace-PLAY-Benefits">ace | PLAY Benefits</a>
 													
 																							</li>
-              						            																																				<li><a href="/Casino/Gaming">Gaming</a>
+              						            																																											<li class="Casino/Gaming"><a href="/Casino/Gaming">Gaming</a>
 													
 																									<div class="sub_menu_2" style="display: none;">
 										<div class="transparent"></div>
@@ -282,14 +291,28 @@ if(glock != ''){
 										
 									</div>
 															</li>
-              						            																																				<li><a href="/Casino/Special-Events">Special Events</a>
+              						            																																																										<li class="Casino/Special-Events lastli"><a href="/Casino/Special-Events">Special Events</a>
 													
-																							</li>
-              						            													</ul>
+																									<div class="sub_menu_2" style="display: none;">
+										<div class="transparent"></div>
+										<span class="path">Casino <span class="arrow"></span>Special Events</span>
+										
+										<ul class="sub_2">
+																																																																																	<li class="firstli">
+												<a href="/Casino/Special-Events/Dale-Earnhardt-Camaro">Dale Earnhardt Camaro</a>
+																																															</li>
+																																																																																	<li class="lastli">
+												<a href="/Casino/Special-Events/Pool-8-Summer-Concert-Series">Pool 8 Summer Concert Series</a>
+																																															</li>
+																			</ul>
+										
+									</div>
+															</li>
+              												</ul>
 							</div>
 									</li>
-          			                                                
-               <li>
+          			            						                                    
+               <li class="Hotel">
 					
 					<div class="menu-c">
 						<div class="menu-leftshadow"></div>
@@ -303,8 +326,7 @@ if(glock != ''){
 																<div class="sub_menu" style="display: none;">
 								<!-- <span class="path" >Hotel</span> -->
 								<ul class="sub">
-						
-						            																																																			<li class="firstli"><a href="/Hotel/Accommodations">Accommodations</a>
+						            																																																										<li class="Hotel/Accommodations firstli"><a href="/Hotel/Accommodations">Accommodations</a>
 													
 																									<div class="sub_menu_2" style="display: none;">
 										<div class="transparent"></div>
@@ -327,7 +349,7 @@ if(glock != ''){
 										
 									</div>
 															</li>
-              						            																																				<li><a href="/Hotel/Amenities">Amenities</a>
+              						            																																											<li class="Hotel/Amenities"><a href="/Hotel/Amenities">Amenities</a>
 													
 																									<div class="sub_menu_2" style="display: none;">
 										<div class="transparent"></div>
@@ -340,24 +362,27 @@ if(glock != ''){
 																																																												<li>
 												<a href="/Hotel/Amenities/Fitness-center">Fitness center</a>
 																																															</li>
-																																																																																	<li class="lastli">
+																																																												<li>
 												<a href="/Hotel/Amenities/Resort-Swimming-Pool">Resort Swimming Pool</a>
+																																															</li>
+																																																																																	<li class="lastli">
+												<a href="/Hotel/Amenities/Radius">Radius</a>
 																																															</li>
 																			</ul>
 										
 									</div>
 															</li>
-              						            																																				<li><a href="/Hotel/Special-Offers2">Special Offers</a>
+              						            																																											<li class="Hotel/Special-Offers2"><a href="/Hotel/Special-Offers2">Special Offers</a>
 													
 																							</li>
-              						            																																																			<li class="lastli"><a href="/Hotel/Locals-Offers">Locals Offers</a>
+              						            																																																										<li class="Hotel/Locals-Offers lastli"><a href="/Hotel/Locals-Offers">Locals Offers</a>
 													
 																							</li>
               												</ul>
 							</div>
 									</li>
-          			                                                
-               <li>
+          			            						                                    
+               <li class="Food-Drink">
 					
 					<div class="menu-c">
 						<div class="menu-leftshadow"></div>
@@ -371,8 +396,7 @@ if(glock != ''){
 																<div class="sub_menu" style="display: none;">
 								<!-- <span class="path" >Food &amp; Drink</span> -->
 								<ul class="sub">
-						
-						            																																																			<li class="firstli"><a href="/Food-Drink/Dining">Dining</a>
+						            																																																										<li class="Food-Drink/Dining firstli"><a href="/Food-Drink/Dining">Dining</a>
 													
 																									<div class="sub_menu_2" style="display: none;">
 										<div class="transparent"></div>
@@ -418,7 +442,7 @@ if(glock != ''){
 										
 									</div>
 															</li>
-              						            																																																			<li class="lastli"><a href="/Food-Drink/Drinks">Drinks</a>
+              						            																																																										<li class="Food-Drink/Drinks lastli"><a href="/Food-Drink/Drinks">Drinks</a>
 													
 																									<div class="sub_menu_2" style="display: none;">
 										<div class="transparent"></div>
@@ -426,10 +450,13 @@ if(glock != ''){
 										
 										<ul class="sub_2">
 																																																																																	<li class="firstli">
-												<a href="/Food-Drink/Drinks/McCalls-Bar2">McCalls Bar</a>
+												<a href="/Food-Drink/Drinks/McCalls-Bar">McCalls Bar</a>
 																																															</li>
 																																																												<li>
-												<a href="/Food-Drink/Drinks/C-Bar">C Bar</a>
+												<a href="/Food-Drink/Drinks/Radius">Radius</a>
+																																															</li>
+																																																												<li>
+												<a href="/Food-Drink/Drinks/CBar">CBar</a>
 																																															</li>
 																																																												<li>
 												<a href="/Food-Drink/Drinks/Images">Images</a>
@@ -453,8 +480,8 @@ if(glock != ''){
               												</ul>
 							</div>
 									</li>
-          			                                                
-               <li>
+          			            						                                    
+               <li class="Shows">
 					
 					<div class="menu-c">
 						<div class="menu-leftshadow"></div>
@@ -468,11 +495,10 @@ if(glock != ''){
 																<div class="sub_menu" style="display: none;">
 								<!-- <span class="path" >Shows</span> -->
 								<ul class="sub">
-						
-						            																																																			<li class="firstli"><a href="/Shows/Live-entertainment">Live entertainment</a>
+						            																																																										<li class="Shows/Live-entertainment firstli"><a href="/Shows/Live-entertainment">Live entertainment</a>
 													
 																							</li>
-              						            																																																			<li class="lastli"><a href="/Shows/Stage-Shows">Stage Shows</a>
+              						            																																																										<li class="Shows/Stage-Shows lastli"><a href="/Shows/Stage-Shows">Stage Shows</a>
 													
 																									<div class="sub_menu_2" style="display: none;">
 										<div class="transparent"></div>
@@ -480,10 +506,10 @@ if(glock != ''){
 										
 										<ul class="sub_2">
 																																																																																	<li class="firstli">
-												<a href="/Shows/Stage-Shows/PIN-UP">PIN UP</a>
+												<a href="/Shows/Stage-Shows/MJ-Live">MJ Live</a>
 																																															</li>
 																																																																																	<li class="lastli">
-												<a href="/Shows/Stage-Shows/Frankie-Moreno">Frankie Moreno</a>
+												<a href="/Shows/Stage-Shows/PIN-UP">PIN UP</a>
 																																															</li>
 																			</ul>
 										
@@ -492,8 +518,8 @@ if(glock != ''){
               												</ul>
 							</div>
 									</li>
-          			                                                
-               <li>
+          			            						                                    
+               <li class="Activities">
 					
 					<div class="menu-c">
 						<div class="menu-leftshadow"></div>
@@ -507,8 +533,7 @@ if(glock != ''){
 																<div class="sub_menu" style="display: none;">
 								<!-- <span class="path" >Activities</span> -->
 								<ul class="sub">
-						
-						            																																																			<li class="firstli"><a href="/Activities/Thrill-Rides">Thrill Rides</a>
+						            																																																										<li class="Activities/Thrill-Rides firstli"><a href="/Activities/Thrill-Rides">Thrill Rides</a>
 													
 																									<div class="sub_menu_2" style="display: none;">
 										<div class="transparent"></div>
@@ -531,7 +556,7 @@ if(glock != ''){
 										
 									</div>
 															</li>
-              						            																																				<li><a href="/Activities/Observation-deck">Observation deck</a>
+              						            																																											<li class="Activities/Observation-deck"><a href="/Activities/Observation-deck">Observation deck</a>
 													
 																									<div class="sub_menu_2" style="display: none;">
 										<div class="transparent"></div>
@@ -548,14 +573,14 @@ if(glock != ''){
 										
 									</div>
 															</li>
-              						            																																																			<li class="lastli"><a href="/Activities/Tower-Shops">Tower Shops</a>
+              						            																																																										<li class="Activities/Tower-Shops lastli"><a href="/Activities/Tower-Shops">Tower Shops</a>
 													
 																							</li>
               												</ul>
 							</div>
 									</li>
-          			                                                
-               <li>
+          			            						                                    
+               <li class="Meetings-Events">
 					
 					<div class="menu-c">
 						<div class="menu-leftshadow"></div>
@@ -569,21 +594,20 @@ if(glock != ''){
 																<div class="sub_menu" style="display: none;">
 								<!-- <span class="path" >Meetings &amp; Events</span> -->
 								<ul class="sub">
-						
-						            																																																			<li class="firstli"><a href="/Meetings-Events/Meetings">Meetings</a>
+						            																																																										<li class="Meetings-Events/Meetings firstli"><a href="/Meetings-Events/Meetings">Meetings</a>
 													
 																							</li>
-              						            																																				<li><a href="/Meetings-Events/Events">Events</a>
+              						            																																											<li class="Meetings-Events/Events"><a href="/Meetings-Events/Events">Events</a>
 													
 																							</li>
-              						            																																																			<li class="lastli"><a href="/Meetings-Events/PRIVATE-DINING-WITH-A-VIEW">PRIVATE DINING WITH A VIEW </a>
+              						            																																																										<li class="Meetings-Events/PRIVATE-DINING-WITH-A-VIEW lastli"><a href="/Meetings-Events/PRIVATE-DINING-WITH-A-VIEW">PRIVATE DINING WITH A VIEW </a>
 													
 																							</li>
               												</ul>
 							</div>
 									</li>
-          			                                                                            
-               <li class="lastli">
+          			            						                                    
+               <li class="Wedding-Chapel">
 					
 					<div class="menu-c">
 						<div class="menu-leftshadow"></div>
@@ -597,16 +621,28 @@ if(glock != ''){
 																<div class="sub_menu" style="display: none;">
 								<!-- <span class="path" >Wedding Chapel</span> -->
 								<ul class="sub">
-						
-						            																																																			<li class="firstli"><a href="/Wedding-Chapel/CHAPEL-IN-THE-CLOUDS">CHAPEL IN THE CLOUDS </a>
+						            																																																										<li class="Wedding-Chapel/CHAPEL-IN-THE-CLOUDS firstli"><a href="/Wedding-Chapel/CHAPEL-IN-THE-CLOUDS">CHAPEL IN THE CLOUDS </a>
 													
 																							</li>
-              						            																																																			<li class="lastli"><a href="/Wedding-Chapel/RECEPTIONS">RECEPTIONS</a>
+              						            																																																										<li class="Wedding-Chapel/RECEPTIONS lastli"><a href="/Wedding-Chapel/RECEPTIONS">RECEPTIONS</a>
 													
 																							</li>
               												</ul>
 							</div>
 									</li>
+          			            						                                                                
+               <li class="Take-Vegas-Back lastli">
+					
+					<div class="menu-c">
+						<div class="menu-leftshadow"></div>
+						<span class="item-name"><a href="/Take-Vegas-Back">Take Vegas Back</a></span>
+						<div class="menu-rightshadow"></div>
+						<div class="clear"></div>
+					</div>
+				
+					
+										
+														</li>
                       </ul>
 	
 	
@@ -776,63 +812,7 @@ if(glock != ''){
                     
       <div class="attribute-long">
             
-<p> 
-This Privacy Policy is effective as of March 1, 2012.<br>
-&nbsp; &nbsp;<br>
-I. &nbsp;Application of this Privacy Policy.<br>
-&nbsp; &nbsp;<br>
-This Privacy Policy applies to web sites owned or operated by American Casino &amp; Entertainment Properties, LLC and its subsidiaries (collectively, "ACEP" or “we”) for the Stratosphere Casino, Hotel &amp; Tower and accessible through the "<a href="http://StratosphereHotel.com/" target="_self">http://StratosphereHotel.com</a>”, "<a href="http://stratospherecasino.com/" target="_self">stratospherecasino.com</a>", "<a href="http://stratospheretower.com/" target="_self">stratospheretower.com</a>", “<a href="http://stratospherenewyears.com/" target="_self">StratosphereNewYears.com</a>”, “<a href="http://LasVegasUnder100.com/" target="_self">LasVegasUnder100.com</a>”, "<a href="http://ChapelintheClouds.com/" target="_self">ChapelintheClouds.com</a>”, “<a href="http://TopoftheWorldLV.com/" target="_self">TopoftheWorldLV.com</a>”, and “<a href="http://SkyJumpLasVegas.com/" target="_self">SkyJumpLasVegas.com</a>” domain names (collectively, "Stratosphere Casino, Hotel &amp; Tower Web Sites"). Stratosphere Casino, Hotel &amp; Tower Web Sites may be accessed through domain names in addition to the domain names listed above. This Privacy Policy does not apply to information collected by us by means other than through Stratosphere Casino, Hotel &amp; Tower Web Sites.<br>
-&nbsp; &nbsp;<br>
-Certain transactions and services offered while visiting Stratosphere Casino, Hotel &amp; Tower Web Sites may be processed or provided by us or strategic partners under contract with us, even though it appears that you may not have left the Stratosphere Casino, Hotel &amp; Tower Web sites, including reservations. This Privacy Policy does not apply to information collected by strategic partners, except that we will treat information we receive about you from strategic partners under the terms of this Privacy Policy. We do not have any control over how strategic partners use information they collect about you.<br>
-&nbsp; &nbsp;<br>
-II. Information we collect about you.<br>
-&nbsp; &nbsp;<br>
-General Information<br>
-&nbsp; &nbsp;<br>
-When you use the Internet, your web browser or client software may transmit certain information to the servers that host the web sites you visit. The information may include the unique number assigned to your server or Internet connection, the capabilities and features of your computer, your geographic location, and your movement within and interaction with the web site, including what pages you look at and what information you download. When you visit Stratosphere Casino, Hotel &amp; Tower Web Sites, our servers collect such information. We use this information to generate aggregate statistics about visitors to Stratosphere Casino, Hotel &amp; Tower Web Sites.<br>
-&nbsp; &nbsp;<br>
-Personally Identifying Information<br>
-&nbsp; &nbsp;<br>
-We only collect personal information that you voluntarily provide to us. "Personal Information" is information through which you can be identified. The Personal Information that we collect through Stratosphere Casino, Hotel &amp; Tower Web Sites or we obtain from our strategic partners depends on the nature of your online activity, such as whether you make reservations, participate in a contest, apply for employment, seek information on weddings or meetings, register as a meeting planner, or provide customer feedback or suggestions. For example, Personal Information that we collect from you when you make a reservation may include your name, company, address, home telephone number, work telephone number, e-mail address, fax number, credit card information, purchase and reservation information, and other information that you voluntarily provide. When you complete an employment application, we may also collect your Social Security number, previous addresses, previous names, convictions for felonies, whether you can provide proof of eligibility to work in the United States, present and past employment, military service, education and training, skills, languages, family members who work for us, and other information listed in the online application form.<br>
-&nbsp; &nbsp;<br>
-The Personal Information is collected by e-mail, through online forms, and through your activities on Stratosphere Casino, Hotel &amp; Tower Web Sites. The Stratosphere Casino, Hotel &amp; Tower Web Sites utilize Secure Sockets Layer (“SSL”), which provides several layers of security for users of the Stratosphere Casino, Hotel &amp; Tower Web Sites. All data sent to and received from the Stratosphere Casino, Hotel &amp; Tower Web Sites in SSL mode is encrypted. This ensures that anyone who may be able to intercept and review the data transmitted will not be able to understand the data. SSL also enables you to verify the certificate of the Stratosphere Casino, Hotel &amp; Tower Web Sites so that you can ensure that the web site is the authentic.<br>
-&nbsp; &nbsp;<br>
-Browser Cookies<br>
-&nbsp; &nbsp;<br>
-A browser cookie is a small file saved on your hard drive when you visit certain web sites. Browser cookies store information that a web site may use for a variety of purposes such as to personalize your experience and to gather web site statistical data, such as which pages you visit, what material you download, your Internet provider's domain name and country, and the addresses of web sites you visited immediately before, and after, visiting a particular web site. You can configure your browser to accept or reject browser cookies or to notify you when you are offered a cookie so you can accept or reject it.<br>
-&nbsp; &nbsp;<br>
-When you visit Stratosphere Casino, Hotel &amp; Tower Web Sites, we will place browser cookies on your hard drive to collect and store your preferences for viewing the Stratosphere Casino, Hotel &amp; Tower Web Sites, such as whether you disable Flash so that you will not have to do so for subsequent visits. In addition, Stratosphere Casino, Hotel &amp; Tower Web Sites use cookies to provide a unique identifier to your computer so that we can generate statistics regarding usage of Stratosphere Casino, Hotel &amp; Tower Web Sites, such as the percentage of repeat visitors and other general statistics, determining the effectiveness of advertisements, and sales generated through advertisements. Cookies are also used to assist your log-in to Stratosphere Casino, Hotel &amp; Tower Web Sites. You may not be able to conduct some transactions or use some services on Stratosphere Casino, Hotel &amp; Tower Web Sites if you disable your browser from accepting cookies. When you visit Stratosphere Casino, Hotel &amp; Tower Web Sites, our strategic partners may also place browser cookies on your hard drive as well as Flash cookies, which contain more complex data than browser cookies and which cannot be controlled through browser settings. While the purpose of Flash cookies is to control settings for playing Flash content when you visit a web site, some companies use Flash cookies to regenerate deleted browser cookies or to track and collect information regarding web users’ activities on the Internet. Flash cookies can be controlled and deleted through commercially available software. We do not control our strategic partners’ use of cookies, such as the information that they collect using cookies, how they use the information, or the privacy policies that apply to such information.<br>
-&nbsp; &nbsp;<br>
-III. How we use the information we collect.<br>
-&nbsp; &nbsp;<br>
-We may use the information collected by us or strategic partners: (1) for marketing purposes, including, but not limited to, notifying you of special promotions, offers and events via e-mail, mail, fax and other means; (2) to process and fulfill reservations and make a record of reservations; (3) to enable us to contact you for confirmation or customer service or after you sign up for or participate in certain activities; (4) to respond to inquiries, complaints and other communications; and (5) for profiling or demographic purposes.<br>
-&nbsp; &nbsp;<br>
-IV. Disclosure of information we collect.<br>
-&nbsp; &nbsp;<br>
-Except as provided below, we will not sell, trade, or disclose to third parties any Personal Information obtained through Stratosphere Casino, Hotel &amp; Tower Web Sites or obtained from strategic partners, without your consent. We may disclose Personal Information: (1) to comply with a court order, subpoena, search warrant or other legal process; (2) to comply with legal, regulatory or administrative requirements of any governmental authorities; (3) to protect and defend ACEP, and all of its officers, directors, employees, attorneys, agents, contractors, and partners, in connection with any legal action, claim or dispute; (4) to enforce the terms of use of Stratosphere Casino, Hotel &amp; Tower Web Sites; (5) to prevent imminent physical harm; (6) to businesses that we may use for purposes of performing functions on behalf of us, such as companies that process credit card transactions; and (7) in connection with the sale, assignment, or transfer of any of our property or Stratosphere Casino, Hotel &amp; Tower Web Sites.<br>
-&nbsp; &nbsp;<br>
-V. Choice regarding providing information.<br>
-&nbsp; &nbsp;<br>
-General information is collected whenever you browse Stratosphere Casino, Hotel &amp; Tower Web Sites. The Stratosphere Casino, Hotel &amp; Tower Web Sites do not provide any means for opting out of providing general information when you browse Stratosphere Casino, Hotel &amp; Tower Web Sites. However, privacy software that prevents the disclosure of general information is commercially available.<br>
-&nbsp; &nbsp;<br>
-You can browse Stratosphere Casino, Hotel &amp; Tower Web Sites without providing any Personal Information. However, providing Personal Information is required to use some of the services offered through the Stratosphere Casino, Hotel &amp; Tower Web Sites, including, but not limited to, making hotel reservations, participating in contests, applying for employment, registering as a planner, obtaining information, and participating in the player rewards program. If you can opt out of receiving certain communications, opt out options will be indicated when they are available.<br>
-&nbsp; &nbsp;<br>
-VI. Access<br>
-&nbsp; &nbsp;<br>
-The general or Personal Information collected through Stratosphere Casino, Hotel &amp; Tower Web Sites or provided by strategic partners is not currently accessible to you, except that confirmation is provided for some transactions, such as reservations. If you believe that any information collected by us about you is not correct or has changed, please send an e-mail message to&nbsp;<a href="mailto:master.web@acepllc.com" target="_self">master.web@acepllc.com</a>&nbsp;explaining the correction or change, addition or deletion, and provide any relevant confirmation or reference number.<br>
-&nbsp; &nbsp;<br>
-VII. Security<br>
-&nbsp; &nbsp;<br>
-General information and Personal Information collected by Stratosphere Casino, Hotel &amp; Tower Web Sites is stored on secure servers. The secure servers are protected by firewalls and other standard security procedures. The secure servers are not generally accessible by unauthorized third parties, but could become accessible in the event of a security breach.<br>
-&nbsp; &nbsp;<br>
-VIII. The Children's Online Privacy Protection Act<br>
-&nbsp; &nbsp;<br>
-Stratosphere Casino, Hotel &amp; Tower Web Sites are general audience sites intended for persons 21 years of age or older. Accordingly, the provisions of the Children's Online Privacy Protection Act do not apply to Stratosphere Casino, Hotel &amp; Tower Web Sites.<br>
-&nbsp; &nbsp;<br>
-IX. Changes<br>
-&nbsp; &nbsp; &nbsp;<br>
-This Privacy Policy is dated March 1, 2012. We reserve the right to change, modify or amend this Privacy Policy at any time. When the Privacy Policy is changed, modified and/or amended, the revised Privacy Policy will be posted on Stratosphere Casino, Hotel &amp; Tower Web Sites. Any revised Privacy Policy will only apply prospectively to Personal Information collected or modified after the effective date of the revised policy. Customers are responsible for periodically checking the Privacy Policy posted on Stratosphere Casino, Hotel &amp; Tower Web Sites for changes.<br>
-&nbsp; &nbsp;<br>If you have any questions regarding this Privacy Policy, please contact&nbsp;<a href="mailto:master.web@acepllc.com" target="_self">master.web@acepllc.com</a>.</p>
+<p> <b>Privacy Policy</b></p><p> This Privacy Policy is effective as of March 1, 2012.</p><p> I. &nbsp;Application of this Privacy Policy.</p><p> This Privacy Policy applies to web sites owned or operated by American Casino &amp; Entertainment Properties, LLC and its subsidiaries (collectively, "ACEP" or “we”) for the Stratosphere Casino, Hotel &amp; Tower and accessible through the “<a href="http://StratosphereHotel.com/" target="_self">http://StratosphereHotel.com</a>”, "<a href="http://stratospherecasino.com/" target="_self">stratospherecasino.com</a>", "<a href="http://stratospheretower.com/" target="_self">stratospheretower.com</a>", “<a href="http://stratospherenewyears.com/" target="_self">StratosphereNewYears.com</a>”, “<a href="http://LasVegasUnder100.com/" target="_self">LasVegasUnder100.com</a>”, "<a href="http://ChapelintheClouds.com/" target="_self">ChapelintheClouds.com</a>”, “<a href="http://TopoftheWorldLV.com/" target="_self">TopoftheWorldLV.com</a>”, “<a href="http://SkyJumpLasVegas.com/" target="_self">SkyJumpLasVegas.com</a>” and “TakeVegasBack.com” domain names (collectively, "Stratosphere Casino, Hotel &amp; Tower Web Sites"). Stratosphere Casino, Hotel &amp; Tower Web Sites may be accessed through domain names in addition to the domain names listed above. This Privacy Policy does not apply to information collected by us by means other than through Stratosphere Casino, Hotel &amp; Tower Web Sites.</p><p> Certain transactions and services offered while visiting Stratosphere Casino, Hotel &amp; Tower Web Sites may be processed or provided by us or strategic partners under contract with us, even though it appears that you may not have left the Stratosphere Casino, Hotel &amp; Tower Web sites, including reservations. This Privacy Policy does not apply to information collected by strategic partners, except that we will treat information we receive about you from strategic partners under the terms of this Privacy Policy. We do not have any control over how strategic partners use information they collect about you.</p><p> II. Information we collect about you.</p><p> General Information</p><p> When you use the Internet, your web browser or client software may transmit certain information to the servers that host the web sites you visit. The information may include the unique number assigned to your server or Internet connection, the capabilities and features of your computer, your geographic location, and your movement within and interaction with the web site, including what pages you look at and what information you download. When you visit Stratosphere Casino, Hotel &amp; Tower Web Sites, our servers collect such information. We use this information to generate aggregate statistics about visitors to Stratosphere Casino, Hotel &amp; Tower Web Sites.</p><p> Personally Identifying Information &nbsp; &nbsp;</p><p> We only collect personal information that you voluntarily provide to us. "Personal Information" is information through which you can be identified. The Personal Information that we collect through Stratosphere Casino, Hotel &amp; Tower Web Sites or we obtain from our strategic partners depends on the nature of your online activity, such as whether you make reservations, participate in a contest, apply for employment, seek information on weddings or meetings, register as a meeting planner, or provide customer feedback or suggestions. For example, Personal Information that we collect from you when you make a reservation may include your name, company, address, home telephone number, work telephone number, e-mail address, fax number, credit card information, purchase and reservation information, and other information that you voluntarily provide. When you complete an employment application, we may also collect your Social Security number, previous addresses, previous names, convictions for felonies, whether you can provide proof of eligibility to work in the United States, present and past employment, military service, education and training, skills, languages, family members who work for us, and other information listed in the online application form.</p><p> The Personal Information is collected by e-mail, through online forms, and through your activities on Stratosphere Casino, Hotel &amp; Tower Web Sites. The Stratosphere Casino, Hotel &amp; Tower Web Sites utilize Secure Sockets Layer (“SSL”), which provides several layers of security for users of the Stratosphere Casino, Hotel &amp; Tower Web Sites. All data sent to and received from the Stratosphere Casino, Hotel &amp; Tower Web Sites in SSL mode is encrypted. This ensures that anyone who may be able to intercept and review the data transmitted will not be able to understand the data. SSL also enables you to verify the certificate of the Stratosphere Casino, Hotel &amp; Tower Web Sites so that you can ensure that the web site is the authentic. &nbsp; &nbsp;</p><p> Browser Cookies &nbsp; &nbsp;</p><p> A browser cookie is a small file saved on your hard drive when you visit certain web sites. Browser cookies store information that a web site may use for a variety of purposes such as to personalize your experience and to gather web site statistical data, such as which pages you visit, what material you download, your Internet provider's domain name and country, and the addresses of web sites you visited immediately before, and after, visiting a particular web site. You can configure your browser to accept or reject browser cookies or to notify you when you are offered a cookie so you can accept or reject it. &nbsp; &nbsp;</p><p> When you visit Stratosphere Casino, Hotel &amp; Tower Web Sites, we will place browser cookies on your hard drive to collect and store your preferences for viewing the Stratosphere Casino, Hotel &amp; Tower Web Sites, such as whether you disable Flash so that you will not have to do so for subsequent visits. In addition, Stratosphere Casino, Hotel &amp; Tower Web Sites use cookies to provide a unique identifier to your computer so that we can generate statistics regarding usage of Stratosphere Casino, Hotel &amp; Tower Web Sites, such as the percentage of repeat visitors and other general statistics, determining the effectiveness of advertisements, and sales generated through advertisements. Cookies are also used to assist your log-in to Stratosphere Casino, Hotel &amp; Tower Web Sites. You may not be able to conduct some transactions or use some services on Stratosphere Casino, Hotel &amp; Tower Web Sites if you disable your browser from accepting cookies. When you visit Stratosphere Casino, Hotel &amp; Tower Web Sites, our strategic partners may also place browser cookies on your hard drive as well as Flash cookies, which contain more complex data than browser cookies and which cannot be controlled through browser settings. While the purpose of Flash cookies is to control settings for playing Flash content when you visit a web site, some companies use Flash cookies to regenerate deleted browser cookies or to track and collect information regarding web users’ activities on the Internet. Flash cookies can be controlled and deleted through commercially available software. We do not control our strategic partners’ use of cookies, such as the information that they collect using cookies, how they use the information, or the privacy policies that apply to such information. &nbsp; &nbsp;</p><p> III. How we use the information we collect. &nbsp; &nbsp;</p><p> We may use the information collected by us or strategic partners: (1) for marketing purposes, including, but not limited to, notifying you of special promotions, offers and events via e-mail, mail, fax and other means; (2) to process and fulfill reservations and make a record of reservations; (3) to enable us to contact you for confirmation or customer service or after you sign up for or participate in certain activities; (4) to respond to inquiries, complaints and other communications; and (5) for profiling or demographic purposes. &nbsp; &nbsp;</p><p> IV. Disclosure of information we collect. &nbsp; &nbsp;</p><p> Except as provided below, we will not sell, trade, or disclose to third parties any Personal Information obtained through Stratosphere Casino, Hotel &amp; Tower Web Sites or obtained from strategic partners, without your consent. We may disclose Personal Information: (1) to comply with a court order, subpoena, search warrant or other legal process; (2) to comply with legal, regulatory or administrative requirements of any governmental authorities; (3) to protect and defend ACEP, and all of its officers, directors, employees, attorneys, agents, contractors, and partners, in connection with any legal action, claim or dispute; (4) to enforce the terms of use of Stratosphere Casino, Hotel &amp; Tower Web Sites; (5) to prevent imminent physical harm; (6) to businesses that we may use for purposes of performing functions on behalf of us, such as companies that process credit card transactions; and (7) in connection with the sale, assignment, or transfer of any of our property or Stratosphere Casino, Hotel &amp; Tower Web Sites. &nbsp; &nbsp;</p><p> V. Choice regarding providing information. &nbsp; &nbsp;</p><p> General information is collected whenever you browse Stratosphere Casino, Hotel &amp; Tower Web Sites. The Stratosphere Casino, Hotel &amp; Tower Web Sites do not provide any means for opting out of providing general information when you browse Stratosphere Casino, Hotel &amp; Tower Web Sites. However, privacy software that prevents the disclosure of general information is commercially available. &nbsp; &nbsp;</p><p> You can browse Stratosphere Casino, Hotel &amp; Tower Web Sites without providing any Personal Information. However, providing Personal Information is required to use some of the services offered through the Stratosphere Casino, Hotel &amp; Tower Web Sites, including, but not limited to, making hotel reservations, participating in contests, applying for employment, registering as a planner, obtaining information, and participating in the player rewards program. If you can opt out of receiving certain communications, opt out options will be indicated when they are available. &nbsp; &nbsp;</p><p> VI. Access &nbsp; &nbsp;</p><p> The general or Personal Information collected through Stratosphere Casino, Hotel &amp; Tower Web Sites or provided by strategic partners is not currently accessible to you, except that confirmation is provided for some transactions, such as reservations. If you believe that any information collected by us about you is not correct or has changed, please send an e-mail message to&nbsp;<a href="mailto:master.web@acepllc.com" target="_self">master.web@acepllc.com</a>&nbsp;explaining the correction or change, addition or deletion, and provide any relevant confirmation or reference number. &nbsp; &nbsp;</p><p> VII. Security &nbsp; &nbsp;</p><p> General information and Personal Information collected by Stratosphere Casino, Hotel &amp; Tower Web Sites is stored on secure servers. The secure servers are protected by firewalls and other standard security procedures. The secure servers are not generally accessible by unauthorized third parties, but could become accessible in the event of a security breach. &nbsp; &nbsp;</p><p> VIII. The Children's Online Privacy Protection Act &nbsp; &nbsp;</p><p> Stratosphere Casino, Hotel &amp; Tower Web Sites are general audience sites intended for persons 21 years of age or older. Accordingly, the provisions of the Children's Online Privacy Protection Act do not apply to Stratosphere Casino, Hotel &amp; Tower Web Sites. &nbsp; &nbsp;</p><p> IX. Changes &nbsp; &nbsp; &nbsp;</p><p> This Privacy Policy is dated March 1, 2012. We reserve the right to change, modify or amend this Privacy Policy at any time. When the Privacy Policy is changed, modified and/or amended, the revised Privacy Policy will be posted on Stratosphere Casino, Hotel &amp; Tower Web Sites. Any revised Privacy Policy will only apply prospectively to Personal Information collected or modified after the effective date of the revised policy. Customers are responsible for periodically checking the Privacy Policy posted on Stratosphere Casino, Hotel &amp; Tower Web Sites for changes. &nbsp; &nbsp;</p><p> If you have any questions regarding this Privacy Policy, please contact&nbsp;<a href="mailto:master.web@acepllc.com" target="_self">master.web@acepllc.com</a>.</p><p> <b>Responsible</b>&nbsp;Gaming&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Gamble <b>RESPONSIBLY</b></p><p> <b>We want you to have fun in our Vegas casino.</b></p><p> American Casino &amp; Entertainment Properties LLC urges those who gamble to do so responsibly. Problem gambling is an illness that strikes people from all walks of life, but it can be treated. If you think you may have a gambling problem, or know of someone who does, please contact the Problem Gamblers Helpline at 800-522-4700. Counselors are available 24 hours a day, seven days a week to provide information on available treatment and support groups in your area for both the gambler and those affected by the gambler's problem. All calls are completely confidential.</p><p> Copyright © 2015 American Casino &amp; Entertainment Properties. All rights reserved.</p>
                    
             </div>
 
@@ -867,7 +847,7 @@ This Privacy Policy is dated March 1, 2012. We reserve the right to change, modi
 		<div class="fp-c">
 				<div class="fp-left" style="padding-right:20px;">
 					
-<p> Copyright ©&nbsp;2014&nbsp;American Casino &amp; Entertainment Properties. All rights reserved.</p>
+<p> Copyright ©&nbsp;2015&nbsp;American Casino &amp; Entertainment Properties. All rights reserved.</p>
 				</div>
 				<div class="fp-right" style="padding-right:206px;">
 					Get Connected
