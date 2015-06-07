@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebark.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228065752id_/http%3A//thebark.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebark.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607193624id_/http%3A//www.thebark.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Bark
 
@@ -25,7 +25,7 @@ At Bark, we always want to provide you with the best possible service experience
 • Provide the services you request  
 • Contact you about the status of a product or subscription order  
 • Send you promotional offers or information we believe will be of interest to you  
-• Send you our e-nNewsletters and other relevant mailings  
+• Send you our e-Newsletters and other relevant mailings  
 • Customize our communications to you  
 • Improve our customer service
 
@@ -60,6 +60,9 @@ We may need to disclose information collected from or about you as required by l
 
 • Non-Personal Aggregate Information  
 We may share aggregated demographic information with third parties such as foundations providing funding, charitable donors, or third parties with whom we have marketing alliances.
+
+• Sponsored Content  
+We may share email information with advertisers for sponsored content on giveaways and contests.
 
 • Service Providers  
 We share personally identifiable information on an as-needed basis with companies that provide services for us. For example, the companies that operate our website, maintain our computers, and prepare our Postal mailings need access to the information necessary to perform their tasks. Likewise, the companies that administer features on our website, or provide professional or logistics services to us may receive information about visitors in order to perform their work for us.
