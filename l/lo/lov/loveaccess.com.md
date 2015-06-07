@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveaccess.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114195428id_/http%3A//www.loveaccess.com/privacy.htm%3Fbrief%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveaccess.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607085414id_/http%3A//www.loveaccess.com/privacy.htm%3Fbrief%3D1) for the most accurate reproduction.*
 
 # Privacy Policy | LoveAccess.com
 
