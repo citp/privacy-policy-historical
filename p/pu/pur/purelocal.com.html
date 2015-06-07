@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the purelocal.com privacy policy that was archived on 2014-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141227000428id_/http%3A//purelocal.com/Privacy.aspx%3Fvx%3D0) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the purelocal.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607040918id_/http%3A//www.purelocal.com/Privacy.aspx%3Fvx%3D0) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_HeadTag"><title>
 	PureLocal - PureLocal
@@ -7,15 +7,90 @@
     <meta name="description" content="PureLocal">
     <meta name="keywords" content="PureLocal">
     
-    <link href="/Skins/BuyerPricer/Css/Styles.css?ver=2.4" rel="stylesheet" type="text/css"><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"><link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link href="/Skins/BuyerPricer/Css/Styles.css?ver=2.7" rel="stylesheet" type="text/css"><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"><link rel="icon" href="/favicon.ico" type="image/x-icon">
     
     <script type="text/javascript" src="//code.jquery.com/jquery-1.10.1.min.js"></script>
-    <script type="text/javascript" src="/Js/analyticsManager.js?ver=1.0"></script>
+    <script type="text/javascript" src="/Js/analyticsManager.js?ver=1.1"></script>
     <script type="text/javascript" src="/Js/jquery.cookie.1.0.js"></script>
     <script type="text/javascript" src="/Js/ImageAds.js"></script>
+
+    <script type="text/javascript">
+        
+        //Ensures there will be no 'console is undefined' errors
+        window.console = window.console || (function () {
+            var c = {}; c.log = c.warn = c.debug = c.info = c.error = c.time = c.dir = c.profile = c.clear = c.exception = c.trace = c.assert = function () { };
+            return c;
+        })();
+
+        var isWowOn = false;
+        var isWow = false;
+
+    </script>
+
+
+    
+    
+    <script type="text/javascript">
+
+        isWowOn = true;
+
+        function getCookiesEnabled() {
+
+            var cookieEnabled = (navigator.cookieEnabled) ? true : false;
+
+            if (typeof navigator.cookieEnabled == "undefined" && !cookieEnabled) {
+                document.cookie = "tck";
+                cookieEnabled = (document.cookie.indexOf("tck") != -1) ? true : false;
+            }
+            return (cookieEnabled);
+        }
+        
+        function getIsWow() {
+            
+            if (!getCookiesEnabled()) {
+                console.log("wow = false : cookies disabled");
+                return false;
+            }
+
+            if (screen.height >= 800) {
+                console.log("wow = true : screen.height > 800");
+                return true;
+            }
+
+            if (!(document.referrer)) {
+                console.log("wow = false : no referrer");
+                return false;
+            }
+
+            if ($.cookie("beenHere")) {
+                console.log("wow = false : been here before");
+                return false;
+            }
+
+            $.cookie("beenHere", true);
+
+            console.log("wow = true");
+            return true;
+        }
+
+        isWow = getIsWow();
+
+    </script>
+
+    
+    
+    
+    <script type="text/javascript">
+        
+        console.log('isWowOn : ' + isWowOn);
+        console.log('isWow : ' + isWow);
+
+    </script>
+    
     
 
-    </head>
+
+</head>
 
 <body>
     
@@ -38,6 +113,10 @@
     </div>
     
     <div id="MainContentBlock" style="width:980px;height:auto;margin:0 auto;padding:0;overflow:hidden;">
+        
+        <div id="topFullWidth">
+            
+        </div>
         
         <!-- begin right column -->
         <div id="rightColumn">
@@ -68,9 +147,10 @@
     
     
         <!-- begin left/main column -->
-        <div style="width:auto;overflow:hidden;">
-        
+        <div id="leftColumn" style="width:auto;overflow:hidden;">
+        <div>
             
+            </div>
 
         </div>
         <!-- end left/main column -->
@@ -163,7 +243,7 @@ We welcome any questions or comments you have about our privacy practices. Pleas
  
  <br><br>
 
- © 2014 PureLocal
+ © 2015 PureLocal
 
  <br><br>
 
@@ -225,8 +305,8 @@ We welcome any questions or comments you have about our privacy practices. Pleas
                     </a>
                 
                     <br>
-                    <span class="localLogo">Local results powered by CityGrid; data from Infogroup ©2014</span>
-                    <span class="yelpLogo">Local results powered by Yelp.com ©2014</span>
+                    <span class="localLogo">Local results powered by CityGrid; data from Infogroup ©2015</span>
+                    <span class="yelpLogo">Local results powered by Yelp.com ©2015</span>
                 
                 </div>
 
@@ -242,9 +322,6 @@ We welcome any questions or comments you have about our privacy practices. Pleas
         </div>
 
     </div>
-
-
-
 
 <script src="/Js/anylinkmenu.js" type="text/javascript"></script>
 
