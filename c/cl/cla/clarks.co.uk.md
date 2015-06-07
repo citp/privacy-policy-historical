@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarks.co.uk privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229053617id_/http%3A//www.clarks.co.uk/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarks.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607155646id_/http%3A//www.clarks.co.uk/PrivacyPolicy) for the most accurate reproduction.*
 
 # Clarks Online - Clarks Privacy Policy - How We Use Your Data
 
@@ -116,8 +116,52 @@ BA16 0EQ
 
 * * *
 
-## First Shoes Experience Back to top
+## Clarks First Shoes Experience app Back to top
 
 * * *
 
-The photographs taken as part of the First Shoes Experience in Clarks stores and Clarks stockists are for use as part of the "First Shoes Experience" only and are not stored or passed on for any other use. Images are deleted from the First Shoes Experience camera once it has been printed for the customer.
+Your personal data and your baby's Digital Image will be captured using the App, or where appropriate using the In-Store App.
+
+We will not process any information you provide us for the purpose of direct marketing unless you give us your permission. However to enable you to participate in the First Shoes Experience we will require you to provide us with the information set out in this privacy notice.
+
+The Information We Collect:
+
+When you register on the App we will collect the following information:
+
+Your email address;
+
+Your name;
+
+Your postal address;
+
+Your baby's date of birth;
+
+Your baby's first name;
+
+Your baby's gender;
+
+Your baby's shoe size.
+
+What We Do With Your Personal Information.
+
+The information we collect will only be used by Clarks and our third parties for the purpose of your participation in the First Shoes Experience. Where you have given us permission we will also send you marketing and service emails promoting our children's shoes and other Clarks products and services. The information we collect will not be supplied to any other third party without first obtaining your consent, unless we are obliged or permitted by law to disclose it.
+
+We may also aggregate anonymous information about individuals who have engaged with our App (for example, the number of people who have used the App or In-Store App). We may retain this anonymous aggregate information to learn about how to make our future Clarks experiences even more successful.
+
+To improve the range of products and services we offer to our youngest customers we may also aggregate anonymous information about your baby which may include; your baby’s date of birth, shoe size and gender. We may do this, for example, to learn about any changes in average shoe sizes in childhood development.
+
+Where we store your personal data
+
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (EEA). By submitting your personal data, you agree to this transfer, storing and processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+Your Rights
+
+You have the right at any time to ask us to stop your participation in the First Shoes Experience and to stop any further processing of your personal data for marketing purposes. This can be requested using the contact details shown below or by using the automated unsubscribe facility shown at the end of each marketing email.
+
+Changes to this Privacy Policy
+
+Any changes we may make to our privacy policy in the future will be posted on this page.
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to C & J Clark International Limited of 40 High Street Somerset BA16 0EQ or contact us on [customercare@clarks.com](mailto:customercare@clarks.com).
