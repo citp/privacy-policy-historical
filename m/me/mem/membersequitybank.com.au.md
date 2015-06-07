@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the membersequitybank.com.au privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217140247id_/http%3A//mebank.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the membersequitybank.com.au privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607141713id_/http%3A//www.mebank.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-Members Equity Bank Ltd and its subsidiary ME Portfolio Management Limited (referred to as ME Bank, we us or our) has implemented this Privacy and Credit Reporting Policy to provide you with information about how we collect, hold and use the personal information and credit-related personal information that you provide to us. 
+Members Equity Bank Ltd and its subsidiary ME Portfolio Management Limited (referred to as ME, we us or our) has implemented this Privacy and Credit Reporting Policy to provide you with information about how we collect, hold and use the personal information and credit-related personal information that you provide to us. 
 
 We appreciate that the protection of your personal information, which has been provided in the course of business, is of the utmost importance to you and to us, as is the need to base our relationship on mutual trust. Our management and staff are aware of the need, and are trained, to exercise the utmost discretion in handling your personal information and credit-related personal information.
 
 We will apply our privacy compliance procedures in relation to any personal information and credit-related personal information which we gather in the course of carrying on our business. These are based on privacy legislation including until 12 March 2014, the National Privacy Principles for the Fair Handling of Personal Information (NPPs), and after 12 March 2014 the Australian Privacy Principles (APPs). In addition, our procedures for handling credit-related personal information are based on the requirements for credit reporting set out in Part IIIA of the Privacy Act. We regard all the personal information we have collected from and about you as being equally sensitive and undertake to treat it all in accordance with the principles set out in this Privacy and Credit Reporting Policy.
 
-**1\. Contacting us**
+**1\. contacting us**
 
 If you have any general privacy or credit reporting enquiries, access and correction requests and complaints please contact us:
 
   * in writing to:  
-The Privacy Officer - ME Bank  
+The Privacy Officer - ME  
 GPO 1345, Melbourne 3001; or
   * by calling us on 13 15 63; or
   * email us at [privacy@mebank.com.au](mailto:privacy@mebank.com.au).
@@ -22,7 +22,7 @@ GPO 1345, Melbourne 3001; or
 
 A copy of this Privacy and Credit Reporting Policy is available at www.mebank.com.au or on request at the contact details set out above.
 
-**2\. Collection of Information**
+**2\. collection of Information**
 
 **2.1** We only collect personal information which is relevant to and necessary for a legitimate function or activity of our business or for related purposes.
 
@@ -123,11 +123,11 @@ The terms credit information, credit reporting information and credit eligibilit
 
 
 
-**3\. Use and Disclosure**
+**3\. use and disclosure**
 
  **3.1** We may use your personal information for:
 
-  * assessing your application for an ME Bank product;
+  * assessing your application for an ME product;
   * verifying your identity;
   * consideration of any other application you make to us for financial products or services;
   * customer relations including management of our relationship with you and market or customer satisfaction research and product development. If you are a member of or have a product with an alliance partner (including a superannuation fund, union, insurer, the Co-op or other third party that we have arrangements with), we may also use your information for the purpose of providing benefits to you or to obtain aggregate information for statistical or research purposes;
@@ -203,19 +203,19 @@ The terms credit information, credit reporting information and credit eligibilit
 
 
 
-**4\. Cross border disclosure of information**
+**4\. cross border disclosure of information**
 
 **4.1  **We will not send your personal information outside Australia unless we are satisfied that the overseas recipient of the information has adequate data protection arrangements in place, or you have consented to the transfer of the information.
 
 **4.2** We may disclose your personal information to our third party services providers for them to help us provide banking services to you. Our third party service providers may store or access your personal information overseas, including in Canada, USA, United Kingdom, Philippines, Singapore, New Zealand and Hong Kong.
 
-**5\. Marketing**
+**5\. marketing**
 
 **5.1** We may use your personal information to keep you up to date with our products and services. If you do not want us to do this, please contact us. If we previously obtained your consent, we may disclose your personal information to an alliance partner with which we have arrangements. We may do this so that our alliance partners may contact you about other products or services that you may be interested in.
 
 **5.2** We may use information we receive about you from our alliance partners, such as insurers, to assist our staff in better identifying the products and services that may be relevant to you and for marketing and administrative purposes.
 
-**6\. Storage and Data Security**
+**6\. storage and data security**
 
 **6.1** We aim to keep your personal information and credit-related personal information secure. This includes any information that is collected via our website or which is held in either hard copy files or electronically on our computer systems either on our premises or offsite with our trusted third party service providers.
 
@@ -228,9 +228,9 @@ The terms credit information, credit reporting information and credit eligibilit
 
 Where we no longer require your personal information or credit-related personal information, we will take reasonable steps to destroy or permanently de-identify that information and to ensure that we are not able to use or disclose digital records of the information.
 
-**6.3** We have stringent procedures which require our staff and third party service providers to ensure the safe handling and storage of all private and confidential information including procedures for safe custody and transit of information both inside and outside ME Bank, including the security of electronic submission and storage of credit-related personal information.
+**6.3** We have stringent procedures which require our staff and third party service providers to ensure the safe handling and storage of all private and confidential information including procedures for safe custody and transit of information both inside and outside ME, including the security of electronic submission and storage of credit-related personal information.
 
-**7\. Access and Correction**
+**7\. access and correction**
 
 **7.1** You are entitled to access the personal information and credit-related personal information that we hold about you. We are committed to keeping up-to-date records of your personal information and credit-related personal information. You may request at any time that we grant you access to or correct your personal information or credit-related personal information by contacting our Privacy Officer (see Contact Us section).
 
@@ -258,11 +258,11 @@ Where we no longer require your personal information or credit-related personal 
 
 
 
-**8\. If you have a privacy question, problem or complaint about our use of your information**
+**8\. if you have a privacy question, problem or complaint about our use of your information**
 
 **8.1** If you feel that your privacy has not been respected or that we have conducted ourselves inconsistently with this Privacy and Credit Reporting Policy, or for any other queries in relation to this Policy, please contact our Privacy Officer (see Contact Us section).
 
-**8.2** You should address any complaint in writing to ME Bank in the first instance. We will investigate your queries and complaints. If your complaint relates to:
+**8.2** You should address any complaint in writing to ME in the first instance. We will investigate your queries and complaints. If your complaint relates to:
 
   * personal information, we will notify you of the outcome of our investigation within a reasonable period after the complaint is made;
   * credit-related personal information, we will notify you of the outcome of our investigation within 30 days after the complaint is made or such longer period you have agreed in writing.
@@ -271,7 +271,7 @@ Where we no longer require your personal information or credit-related personal 
 
 **8.3** We are a member of the Financial Services Ombudsman (FOS). If you are not satisfied with the outcome of our investigation in relation to our handling of consumer credit-related personal information or an access or correction request you may take your complaint to FOS. A complaint relating to your personal information may ultimately be addressed to the Office of the Australian Information Commissioner.
 
-**9\. ME Bank's Employee Personal Information**
+**9\. ME's employee personal information**
 
 We also collect personal information about our current, past and prospective management, employees and contractors. The general personal information collected from these people includes:
 
@@ -371,3 +371,5 @@ If you choose to send us an e-mail message, we may retain the content of the e-m
 **13\. Changes**
 
 We may update this Privacy and Credit Reporting Policy from time to time for any reason and to ensure it continues to meet the requirements of the Privacy Act, new laws, regulations and technology. We will also post any changes to our Online Consumer Information Practices on our website, so we encourage you to check this page from time to time.
+
+Last updated 6 October 2014
