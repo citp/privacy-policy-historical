@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kayaclinic.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123044817id_/http%3A//www.kayaclinic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kayaclinic.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144420id_/http%3A//www.kayaclinic.com/privacy-policy) for the most accurate reproduction.*
 
-# Kaya Privacy Policy | Kaya Skin Clinic
+# Kaya Privacy Policy | Kaya Skin Clinic™
 
 Kaya Limited recognizes its obligation to adhere to the highest standards of integrity for its online visitors. We have developed certain privacy practices in order to maintain these standards and also to comply with the Children’s Online Privacy Practices Act.
 
