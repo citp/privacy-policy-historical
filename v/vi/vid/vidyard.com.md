@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidyard.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226103245id_/http%3A//www.vidyard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidyard.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607132121id_/http%3A//www.vidyard.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vidyard
 
@@ -144,3 +144,11 @@ Buildscale Inc.
 119 King St. West, Suite 400   
 Kitchener, ON, Canada   
 N2G 1A7 
+
+## Google Remarketing Policy
+
+Third party vendors, including Google, show your ads on sites on the internet.
+
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
+
+Users may opt out of Google's use of cookies by visiting http://www.google.com/privacy_ads.html.
