@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crunchsports.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210160401id_/http%3A//www.crunchsports.com/Information/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crunchsports.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608003152id_/http%3A//www.crunchsports.com/information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
