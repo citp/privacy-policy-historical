@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mygym.com privacy policy that was archived on 2014-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140908162833id_/http%3A//www.mygym.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygym.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607072727id_/http%3A//www.mygym.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | My Gym
 
@@ -35,7 +35,7 @@ You should not provide any personally identifiable information, register for an 
 
 **4.Children's Privacy.**
 
-This Site is not intended for use by children under the age of 13 years old. MY GYM recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children's online activities and interests. MY GYM does not target or solicits our services or this Site to children under 13 years of age but rather targets our services and this Site to parents. MY GYM does not knowingly collect or solicit personally identifiable information from children under the age of 13 or knowingly permit any children under the age of 13 years old to register with or use the Site. If a user indicates that he or she is under age 13 years old, the user will not be permitted to register with or enter the Site or submit personally identifiable information that would be transmitted to us via the Site. In the event we learn that we have collected personal information from a child under the age of 13 years of age via the Site, we will delete the information as soon as possible. If you believe we have information from or about a child under the age of 13 years old, please contact us immediately by email at: [mperez@mygym.com](mailto:mperez@mygym.com?subject=Privacy). 
+This Site is not intended for use by children under the age of 13 years old. MY GYM recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children's online activities and interests. MY GYM does not target or solicits our services or this Site to children under 13 years of age but rather targets our services and this Site to parents. MY GYM does not knowingly collect or solicit personally identifiable information from children under the age of 13 or knowingly permit any children under the age of 13 years old to register with or use the Site. If a user indicates that he or she is under age 13 years old, the user will not be permitted to register with or enter the Site or submit personally identifiable information that would be transmitted to us via the Site. In the event we learn that we have collected personal information from a child under the age of 13 years of age via the Site, we will delete the information as soon as possible. If you believe we have information from or about a child under the age of 13 years old, please contact us immediately by email at: [info@mygym.com](mailto:info@mygym.com?subject=Privacy). 
 
 * * *
 
@@ -81,9 +81,9 @@ Your use including, without limitation, to your provision of personally identifi
 
 **11\. Correction/Updating Personally Identifiable Information.**
 
-MY GYM provides you with the ability to review, correct and delete any of the personally identifiable information that you have provided to us. If you wish to review or correct any information you have provided to us, you may contact us by email at: mperez@mygym.com. 
+MY GYM provides you with the ability to review, correct and delete any of the personally identifiable information that you have provided to us. If you wish to review or correct any information you have provided to us, you may contact us by email at: info@mygym.com. 
 
-If you have any questions regarding this Privacy Policy please contact us via email at: [mperez@mygym.com](mailto:mperez@mygym.com?subject=Privacy). 
+If you have any questions regarding this Privacy Policy please contact us via email at: [info@mygym.com](mailto:info@mygym.com?subject=Privacy). 
 
 Your California Privacy Rights 
 
