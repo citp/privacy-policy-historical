@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the teachtci.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218005857id_/http%3A//www.teachtci.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachtci.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607030740id_/http%3A//www.teachtci.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | TCI
 
-_(Effective February 8, 2010)_
+_(Effective February 1, 2015)_
 
 Teachers' Curriculum Institute knows that you care how information about you is used and shared. Accordingly, we want you to know and understand our privacy practices with regard to this website (this "Website"). Specifically, this Privacy Policy ("Policy" or "Privacy Policy") discloses the privacy practices of Teachers' Curriculum Institute including:
 
@@ -16,9 +16,15 @@ Teachers' Curriculum Institute knows that you care how information about you is 
 
 This Privacy Policy applies to personally identifiable information collected online via this Website. When this Policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as the individual's name, postal address, e-mail address, telephone number and credit card number. When other information is directly associated with personally identifiable information, this other information also becomes personally identifiable information for purposes of this Policy. Teachers' Curriculum Institute is sometimes referred to herein as "we," "us," or "our." The term "you," "your" or "yourself" shall refer to the user who is browsing this Website.
 
+  
+
+
 ## Your Consent
 
 Please be sure to read this entire Privacy Policy before using or submitting information to this Website. When you access or use this Website, you consent to the collection, use and disclosure of your information in accordance with this Privacy Policy. By providing personal information to the Website, all users fully understand and consent to the collection and processing of such information by Teachers' Curriculum Institute.
+
+  
+
 
 ## Information Collected
 
@@ -34,21 +40,38 @@ Further, most websites use "cookies" and we may as well. A cookie is a bit of in
 
 You have the ability to accept or decline cookies. If you prefer not to accept cookies, you can set your web browser to reject them or to alert you before one is placed. The "help" segment of the toolbar on most browsers explains how to configure a browser to not accept new cookies, how to have the browser inform a user when they receive a new cookie and how to erase cookies from a computer's hard drive.
 
+  
+
+
 ## Third Party Vendors
 
 Teachers' Curriculum Institute may engage third-party vendors to provide various services relating to the Website, including, without limitation, development, marketing and research services, and Teachers' Curriculum Institute may disclose to such vendors information about individual users that is necessary for performing the services. To protect your privacy, we require our vendors to maintain the confidentiality of any personal information and do not authorize our vendors to retain, use or disclose any personal information for any purpose other than the performance of the services that they provide to Teachers' Curriculum Institute.
+
+  
+
 
 ## Children's Privacy
 
 Teachers' Curriculum Institute complies with the Children's Online Privacy Protection Act ("COPPA"). COPPA requires that website operators never knowingly collect personally identifiable information from anyone under the age of 13 without prior verifiable parental consent. We do not knowingly solicit or collect personal information from or about children. If we discover personal data from a child under the age of 13, we will eliminate that data. Under the 2013 revisions to COPPA, persistent identifiers like cookies may be considered personal information if they can trace users across sites and over time. TCI cookies are encrypted and cannot be recognized by any other website. TCI only uses cookies to support the internal operations of its website.
 
+  
+
+
 ## Notice to School Districts, Teachers, other Purchasers and Parents
 
-Teachers' Curriculum Institute collects limited information from students accessing its websites, including students' first initials, last names, usernames and passwords. We offer access to children under 13 to this Website based upon the presumption that you, or any other party facilitating access to this Website by students, have obtained authorization for the storage and use by Teachers' Curriculum Institute of such students' information necessary to offer this Website, including, without limitation, parental consent to the collection of such information by Teachers' Curriculum Institute.
+Teachers' Curriculum Institute collects limited information from students accessing its websites, including students' first initials, last names, usernames and passwords. Teachers' Curriculum Institute does not use this student information for any purpose other than to enable usage of its subscriptions. It will not sell, rent, or transfer any student information to any third party. It will not grant access to student information to any third party vendor other than to support the internal operations of Teachers' Curriculum Institute's website. It will protect student information subject to FERPA, per FERPA requirements. Teachers' Curriculum Institute does not use student information for any marketing or advertising purpose. All student user information is deleted on an annual basis.
+
+Teachers' Curriculum Institute offers access to children under 13 to this Website based upon the presumption that you, or any other party facilitating access to this Website by students, have obtained authorization for the storage and use by Teachers' Curriculum Institute of such students' information necessary to offer this Website, including, without limitation, parental consent to the collection of such information by Teachers' Curriculum Institute.
+
+  
+
 
 ## Special Notice to Children
 
 Ask your parent or guardian for permission before you send any personal information over the Internet.
+
+  
+
 
 ## Use of Collected Information
 
@@ -64,6 +87,9 @@ You should be aware that any personal information that is voluntarily posted by 
 
 Information that we collect from you regarding your browser type, operating system, ISP, IP address, web sites visited and the domain name from which you accessed this Website is not used by us to personally identify you. Instead, this information may be compiled and analyzed internally on an aggregated basis to measure our users' habits for the sole purpose of supporting the operations of TCI's website. This information helps Teachers' Curriculum Institute measure the use of our Website, improve the content of our Website and to better understand and serve our users.
 
+  
+
+
 ## Disclosure Exceptions
 
 Notwithstanding the above policies, we reserve the right to disclose your personal information to appropriate third parties if we are required to do so by law or we believe that such action is necessary:
@@ -76,29 +102,45 @@ Notwithstanding the above policies, we reserve the right to disclose your person
   * To protect against misuse or unauthorized use of this Website; or 
   * During emergencies, such as when we believe someone's physical safety is at risk.
 
+  
 
 
 ## Links to Other Websites
 
 This Website may contain links to other third-party websites. While we try to link only to third-party websites that share our respect for privacy, our Policy and privacy practices do not extend to and may differ from third-party websites that can be accessed through links on this Website. We are not responsible for the content, security or privacy practices employed by other third-party websites. If you are concerned, please consider the privacy policies on the third-party website before registering with or navigating those sites. 
 
+  
+
+
 ## Security of Collected Information
 
 To protect the privacy of personal information provided by you, Teachers' Curriculum Institute employs controls, including, without limitation, physical access controls and Internet firewalls. 
 
-Unfortunately, no electronic communication over the Internet can be guaranteed to be 100% secure. While we strive to take great care to protect your personal information, Teachers' Curriculum Institute cannot warrant the security of any information that you submit to us, and you do so at your own risk. Remember to close your browser window when you are finished using this Website. This is to ensure that others cannot pose as you online. 
+Unfortunately, no electronic communication over the Internet can be guaranteed to be 100% secure. While we strive to take great care to protect your personal information, Teachers' Curriculum Institute cannot warrant the security of any information that you submit to us, and you do so at your own risk. Remember to sign out and close your browser window when you are finished using this Website. This is to ensure that others cannot pose as you online. 
+
+  
+
 
 ## Access to Collected Information
 
 You may review, update and delete any personal information that you provide to us through this Website by contacting us as described below under "Contacting Us."
 
+  
+
+
 ## Optional Communications
 
 This Website gives users the opportunity to opt-in to receive communications from us. Users also have the option at anytime to remove their information from our database in order to stop receiving communications or our services. 
 
+  
+
+
 ## Contacting Us
 
 If you have any questions or concerns about this Policy or if you would like to review, update and delete any personal information that you have provided to us through this Website, please contact us via email at [privacy@teachtci.com](mailto:privacy@teachtci.com). We welcome your questions and suggestions about our Policy.
+
+  
+
 
 ## Changes to this Privacy Policy
 
