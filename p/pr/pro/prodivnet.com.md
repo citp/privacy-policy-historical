@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prodivnet.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220043350id_/http%3A//www.prodivnet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prodivnet.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607035255id_/http%3A//www.prodivnet.com/privacy-policy) for the most accurate reproduction.*
 
 # ProDivNet.com | Privacy Policy | Diversity Professional Networking and Job Search
 
