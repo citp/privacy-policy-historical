@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rti.org privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120180802id_/http%3A//www.rti.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rti.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607193413id_/http%3A//www.rti.org/privacy.cfm) for the most accurate reproduction.*
 
-# RTI International: Privacy Policy
+# RTI International - Privacy Policy
 
 This Privacy Statement (“Privacy Statement”) explains how RTI International (“RTI,” “us,” “our,” and “we”) uses your information and applies to all who use our website, mobile applications, electronic services, or social networking sites (collectively referred to as the “Site”).
 
