@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metastock.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120180843id_/http%3A//www.metastock.com/company/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metastock.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607193255id_/http%3A//www.metastock.com/company/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -75,7 +75,7 @@ We take reasonable steps to maintain the security of the personally identifiable
 
 ####  Consent to Share Information 
 
-When you provide information to MetaStock we do not sell, rent, or share this information with third parties without your express consent. The only exception to this is defined in the Thomson Reuters, Exchanges, and Third Party Add-ons section(s) of the privacy policy. Third parties may from time to time offer deals or training on products that require that we share information, however, we will not share this information unless you give your express consent through an opt in process. Once you have shared your information with a third party, we cannot be held responsible for their privacy policies. 
+When you provide information to MetaStock we do not sell or share this information with third parties without your express consent. The only exception to this is defined in the Thomson Reuters, Exchanges, and Third Party Add-ons section(s) of the privacy policy. Third parties may from time to time offer deals or training on products that require that we share information, however, we will not share this information unless you give your express consent through an opt in process. Once you have shared your information with a third party, we cannot be held responsible for their privacy policies. 
 
 ####  Consent to Transfer
 
@@ -106,4 +106,4 @@ MetaStock
 Suite 200  
 Salt Lake City, UT 84123
 
-© MetaStock 2014 
+© MetaStock 2015 
