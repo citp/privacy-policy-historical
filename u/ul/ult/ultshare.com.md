@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultshare.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107211602id_/http%3A//ultshare.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultshare.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607210915id_/http%3A//ultshare.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - ULTSHARE
 
