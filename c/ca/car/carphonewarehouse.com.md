@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the carphonewarehouse.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617032554id_/http%3A//selfhelp.carphonewarehouse.com/SelfHelp/request.do%3Fview%28%29%3Dc%7B9dca8690-e4b6-11de-e56d-000000000000%7D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carphonewarehouse.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607193804id_/http%3A//selfhelp.carphonewarehouse.com/SelfHelp/request.do%3Fview%28%29%3Dc%7B514b29f0-4307-11e4-4e28-f20203001e3d%7D) for the most accurate reproduction.*
 
 # How we use your personal information - Carphone Warehouse Help and Support
 
 **Privacy Policy Summary**  
-The Carphone Warehouse Limited (" **we** ", '' **us** '', '' **our** '') are committed to protecting and respecting your privacy. 
+Dixons Carphone PLC (" **we** ", '' **us** '', '' **our** '') are committed to protecting and respecting your privacy. 
 
 This summary, together with our full privacy policy and terms of use (which can be found at <http://www.carphonewarehouse.com/help/termsandconditions>) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
 
-For the purpose of the Data Protection Act 1998 (the ''Act''), the data controller is The Carphone Warehouse Limited (company number 0214673) of 1 Portal Way, London, W3 6RS. 
+For the purpose of the Data Protection Act 1998 (the ''Act''), the data controller is Dixons Carphone PLC (company number 0214673) of 1 Portal Way, London, W3 6RS. 
 
 **Information we may collect from you**  
 We may collect and process the following data about you: 
@@ -81,16 +81,16 @@ We use information held about you in the following ways:
 
 
 
-In addition, CPW may use your Personal Information for research and statistical analysis to develop and improve our products and services. 
+In addition, CPW may use your Personal Information for research and statistical analysis to develop and improve our products and services.
 
-You will also have the opportunity to consent to us contacting you by post, e-mail, phone, SMS or MMS from time to time occasionally about products and services which the Carphone Warehouse Group of companies and carefully selected third parties believe may be of interest to you.   The Carphone Warehouse Group consists of The Carphone Warehouse Limited, together with its subsidiary and holding companies and any subsidiaries of such holding companies whether direct or indirect from time to time, including Best Buy Co. Inc. and its affiliates and subsidiary companies from time to time.
+You will also have the opportunity to consent to us contacting you by post, e-mail, phone, SMS or MMS from time to time occasionally about products and services which the Dixons Carphone PLC group of companies and carefully selected third parties believe may be of interest to you.   The Dixons Carphone PLC consists of The Carphone Warehouse Limited, together with its subsidiary and holding companies and any subsidiaries of such holding companies whether direct or indirect from time to time, including Best Buy Co. Inc. and its affiliates and subsidiary companies from time to time.
 
 If you are an existing customer, we may also contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
 
-If you do not want us to use your data in this way please call us on 0870 111 6565. Alternatively, you can write to us at us c/o The Data Protection Office, The Carphone Warehouse Limited at PO Box 375, Southampton, SO30 2PU. Please note that it may take up to 28 days for such changes to take effect.
+If you do not want us to use your data in this way please call us on 0370 111 6565. Alternatively, you can write to us at us c/o The Data Protection Office, The Carphone Warehouse Limited at PO Box 375, Southampton, SO30 2PU. Please note that it may take up to 28 days for such changes to take effect.
 
  **Disclosure of your information**  
-We may disclose your personal information to any member of the Carphone Warehouse Group of Companies.  
+We may disclose your personal information to any member of the Dixons Carphone PLC group of Companies.  
 We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets; and 
@@ -101,7 +101,7 @@ We may disclose your personal information to third parties:
 We may also provide information about our dealings with you to credit reference and fraud prevention agencies.  For full details about the third parties to which your data may be disclosed and how they may process this data, please see our privacy policy and terms of use at [http://www.carphonewarehouse.com/help/termsandconditions ](http://www.carphonewarehouse.com/help/termsandconditions)
 
 **Access to information  
-** The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. Details of how to request a copy of your information can be found at [How can I see a copy of the information you hold about me? ](http://selfhelp.carphonewarehouse.com/SelfHelp/request.do?view\(\)=c%7b4fb25d20-d5c0-11de-e56d-000000000000%7d)
+** The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. Details of how to request a copy of your information can be found at [How can I see a copy of the information you hold about me? ](http://selfhelp.carphonewarehouse.com/SelfHelp/request.do?view\(\)=c{5c17dcd0-4306-11e4-4e28-f20203001e3d})
 
 **Changes to our privacy policy**  
 Any changes we may make to our privacy policy in the future will be posted on this page and/or in our privacy policy and terms of use at [http://www.carphonewarehouse.com/help/termsandconditions ](http://www.carphonewarehouse.com/help/termsandconditions)and, where appropriate, notified to you by e-mail.
