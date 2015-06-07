@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allindiadaily.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104065812id_/http%3A//www.allindiadaily.com/pages/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allindiadaily.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608010148id_/http%3A//www.allindiadaily.com/pages/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy for www.allindiadaily.com
 
