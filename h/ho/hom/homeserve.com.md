@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeserve.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702135812id_/http%3A//www.homeserve.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeserve.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140958id_/http%3A//www.homeserve.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | About | HomeServe
 
@@ -31,8 +31,7 @@ To enable us to effectively deliver our products and services we need to collect
 • Payment details. (Direct Debit, credit/debit card number)   
 • Property type.   
 • Boiler details. (make and model – only applicable to heating policies)  
-• Email address.  
-
+• Email address.
 
 (Please note that this is not an exhaustive list).
 
@@ -81,7 +80,7 @@ Cable Drive Walsall
 WS2 7BN.
 
 We will require a small fee of £10 to cover the cost of collating and providing this information, we may also require proof of your identity. On receipt of such proof we will provide you with a readable copy of the personal data that we hold within 40 days. We reserve the right to refuse to provide copies of personal data but will give reasons for our refusal.  
-You may also ask us to correct or remove any Personal Information that we hold about you by writing to the same address and providing us with details of the inaccuracy or the information you wish to be removed from our systems. How we protect your information We do our best to maintain the highest standards of security, encrypting your Personal information using Secure Sockets Layer SSL, 128 bit encryption services, however even with this the transmission of information via the internet is not completely secure. For this reason, we request that you do not send Personal information to us by email. If you choose to use email, we cannot be responsible for loss or interception of it that is beyond our control; any transmission is at your own risk. Once we have received your information we will use strict procedures and security features to prevent unauthorised access.
+You may also ask us to correct or remove any Personal Information that we hold about you by writing to the same address and providing us with details of the inaccuracy or the information you wish to be removed from our systems.
 
 ## How we protect your information
 
