@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openwebware.com privacy policy that was archived on 2014-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140312012439id_/http%3A//www.openwebware.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openwebware.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074557id_/http%3A//www.openwebware.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # Open Source Cross-Browser WYSIWYG Editor
 
