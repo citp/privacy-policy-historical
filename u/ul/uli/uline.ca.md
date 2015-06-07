@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uline.ca privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627201444id_/http%3A//www.uline.ca/CustomerService/PolicyPrivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uline.ca privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145142id_/http%3A//www.uline.ca/CustomerService/PolicyPrivacy.htm) for the most accurate reproduction.*
 
 # Uline: Privacy Policy
 
@@ -9,7 +9,7 @@
   
 Uline’s web servers automatically recognize and collect information only for internal review and then discard it. Email addresses are not automatically collected. 
 
-Uline uses this information it collects to improve functionality, like search and site navigation, not for external marketing purposes. Uline does not share any information with third parties. Telephone numbers provided on-line will be called only if Uline has questions specific to your request.
+Uline uses this information it collects to improve functionality, like search and site navigation. Uline does not share any information with third parties. Telephone numbers provided on-line will be called only if Uline has questions specific to your request.
 
 If users provide their email or mailing address, Uline will send notifications, such as order confirmations, via email. Users may also receive occasional offers from Uline or Uline’s special partners. Users may opt out at any time.
 
@@ -17,4 +17,4 @@ If users provide their email or mailing address, Uline will send notifications, 
 
 In the future, Uline may update this privacy policy to reflect unanticipated practices not outlined in this policy. These changes will be posted to the website, and users are invited to occasionally review the privacy policy.  
   
-6/27/2014 3:14:44 PM- \- CNWEB2\- 0\- 0/0.00\- 
+06/07/2015 09:51:43 AM- \- CNWEB1\- 0\- 0/0.0\- 
