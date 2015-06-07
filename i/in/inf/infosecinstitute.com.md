@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infosecinstitute.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121081336id_/http%3A//www.infosecinstitute.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infosecinstitute.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607131646id_/http%3A//www.infosecinstitute.com/privacy-policy.html) for the most accurate reproduction.*
 
 # InfoSec Institute Privacy Policy
 
@@ -34,5 +34,7 @@ We take precautions to protect your information. When you submit sensitive infor
 Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page 
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. 
+
+InfoSec Institute complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  InfoSec Institute has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view InfoSec Institute’s certification, please visit <http://www.export.gov/safeharbor/>
 
 **If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at _708-689-0131_ or _via email: privacy [at] infosecinstitute.com_.**
