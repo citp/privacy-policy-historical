@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinesean.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120052409id_/http%3A//www.chinesean.com/affiliate/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinesean.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140509id_/http%3A//chinesean.com/affiliate/privacy.do) for the most accurate reproduction.*
 
 # Global Chinese Affiliate Network - China, Hong Kong, Taiwan, Asia
 
