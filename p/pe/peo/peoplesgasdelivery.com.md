@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peoplesgasdelivery.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113244id_/http%3A//www.peoplesgasdelivery.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplesgasdelivery.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607075424id_/http%3A//www.peoplesgasdelivery.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy (Peoples Gas)
 
@@ -6,7 +6,7 @@
 
 _(Revised August 9, 2012)_
 
-Peoples Gas (also referred to as "we" or "us") is concerned about preventing unauthorized disclosure of customer information. We understand the importance you place on the privacy and security of information that personally identifies you or your account information. We refer to this information as "personal information." We want you to know what personal information we collect and how we use it. We have therefore adopted the following Privacy Policy to explain our commitment to your privacy. If you have any questions about our policy after reading it, please [contact us](https://accel.peoplesgasdelivery.com/secure/ssl/contact.aspx "Contact Us").
+Peoples Gas (also referred to as "we" or "us") is concerned about preventing unauthorized disclosure of customer information. We understand the importance you place on the privacy and security of information that personally identifies you or your account information. We refer to this information as "personal information." We want you to know what personal information we collect and how we use it. We have therefore adopted the following Privacy Policy to explain our commitment to your privacy. If you have any questions about our policy after reading it, please [contact us](https://accel.peoplesgasdelivery.com/secure/ssl/contact.aspx).
 
 By using the website, you agree to be bound by this Privacy Policy. Please check this policy frequently, as we may amend it from time to time to reflect changes in our services and our policies relating to customer information. Amendments will become effective at the time they are posted on our website. We will not provide notice of changes in this Privacy Policy.
 
@@ -67,7 +67,7 @@ While browsing the website, you may encounter hypertext links to other websites 
 
 **We do not control and are not responsible for what third parties do in connection with their websites, or how they handle your personal information. Please exercise caution and consult the privacy policies posted on such websites for further information.**
 
-If you have any questions about this policy, please [contact us](https://accel.peoplesgasdelivery.com/secure/ssl/contact.aspx "Contact Us").
+If you have any questions about this policy, please [contact us](https://accel.peoplesgasdelivery.com/secure/ssl/contact.aspx).
 
 Back to Top
 
