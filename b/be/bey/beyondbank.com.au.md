@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the beyondbank.com.au privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117224933id_/http%3A//www.beyondbank.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondbank.com.au privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607231825id_/http%3A//www.beyondbank.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Your privacy is important to us | Beyond Bank
-
-## Privacy Policy - current as at 1 July 2014
 
 We are bound by the Australian Privacy Principles under the Privacy Act 1988 (Cth) (Privacy Act). We are also bound by Division 3 of Part IIIA of the Privacy Act, which regulates the handling of credit information, credit eligibility information and related information by credit providers.
 
@@ -180,7 +178,7 @@ Instances where we will retain your personal details:-
 **Email**  
 When we receive emails, we will retain the content of the email and our response to you where we consider it necessary to do so. 
 
-Your email address will only be used or disclosed for the purpose for which is was provided. It will not be added to any mailing lists or used for any other purpose without your consent. 
+Your email address will only be used or disclosed for the purpose for which it was provided. It will not be added to any mailing lists or used for any other purpose without your consent. 
 
 Email itself is an unsecure medium, therefore when emailing Beyond Bank direct, you should be aware that when in transmission, the data may visible while in transit. When advising Beyond Bank of sensitive information, secure options should be used such as Internet Banking, Secure Inbox & our website.
 
