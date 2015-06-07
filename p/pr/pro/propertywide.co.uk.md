@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertywide.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105440id_/http%3A//www.propertywide.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertywide.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185824id_/http%3A//www.propertywide.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Propertywide.co.uk
 
