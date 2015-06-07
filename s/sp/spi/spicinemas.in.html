@@ -1,15 +1,19 @@
-<!--The following is the downloaded HTML source of the spicinemas.in privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120110039id_/http%3A//www.spicinemas.in/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spicinemas.in privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607195133id_/http%3A//www.spicinemas.in/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-	<link rel="stylesheet" type="text/css" href="/resources/styles/app.css?build=v3.7.19">
-	<link rel="stylesheet" type="text/css" href="/resources/styles/normalize.css?build=v3.7.19">
-	<link rel="stylesheet" type="text/css" href="/resources/styles/font-awesome.css?build=v3.7.19">
+	<link rel="stylesheet" type="text/css" href="/resources/styles/app.css?build=v3.9.8">
+	<link rel="stylesheet" type="text/css" href="/resources/styles/normalize.css?build=v3.9.8">
+	<link rel="stylesheet" type="text/css" href="/resources/styles/font-awesome.css?build=v3.9.8">
   <link rel="shortcut icon" href="/resources/images/favicon.ico">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+  <meta content="utf-8" http-equiv="encoding">
+
   <title>Privacy</title>
 
-<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="static.page" src="/resources/js/static.page.js?build=v3.7.19"></script></head>
+<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="/resources/js/mainConfig.js" src="/resources/js/mainConfig.js?build=v3.9.8"></script></head>
 <body>
 
   <div class="page__body page-name" data-page-name="home">
@@ -24,6 +28,7 @@
 		<div class="circle eight"></div>
 	</div>
 	<div class="busy" id="pageBusyIndicator">
+		<div class="page-busy-message">This may take up to a minute. Please wait.</div>
 	</div>
     <article class="row page__content">
 <header class="hide-for-small">
@@ -32,27 +37,29 @@
     <nav class="top-bar user" data-topbar="" data-options="is_hover: false">
       <section class="top-bar-section">
         <ul>
-          <li id="login-topbar" class="users__login current__user ">
-              <a class="sign-in" data-reveal-id="loginModal">Log In / Sign Up</a>
-          </li>
-          <li class="city-dropdown has-dropdown">
-            <a class="selected-city city allow-click" data-city-name="chennai">
-              <span class="app-icon current-city"></span><span>chennai</span>
-            </a>
-            <ul class="dropdown">
-  <input type="hidden" class="restrictedMode" id="isRestrictedMode" value="no">
+              
+<li id="login-topbar" class="users__login current__user ">
+    <a class="sign-in" data-reveal-id="loginModal">Log In / Sign Up</a>
+</li>
+<li class="city-dropdown has-dropdown">
+    <a class="selected-city city allow-click" data-city-name="chennai">
+        <span class="app-icon current-city"></span><span>chennai</span>
+    </a>
+    <ul class="dropdown">
+<input type="hidden" class="restrictedMode" id="isRestrictedMode" value="no">
     <li class="active">
-        <a class="city" href="/" data-city-name="chennai">
-          <span class="app-icon selected-city"></span><span>chennai</span>
-        </a>
+            <a class="city" href="/" data-city-name="chennai">
+                <span class="app-icon selected-city"></span><span>chennai</span>
+            </a>
     </li>
     <li class="">
-        <a class="city" href="/" data-city-name="coimbatore">
-          <span class="app-icon selected-city"></span><span>coimbatore</span>
-        </a>
+            <a class="city" href="/" data-city-name="coimbatore">
+                <span class="app-icon selected-city"></span><span>coimbatore</span>
+            </a>
     </li>
-            </ul>
-          </li>
+    </ul>
+</li>
+
         </ul>
       </section>
     </nav>
@@ -214,6 +221,13 @@
       <h2>CONTRACTORS</h2>
 
       <p>SPI Cinemas may from time to time employ subcontractors to provide services to it. In these situations, Personal Information may be collected about those subcontractors. This Privacy Policy applies equally to those subcontractors. </p>
+      
+      <h2>GOOGLE ANALYTICS COOKIES</h2>
+      
+      <p>We track the Internet address of the domains from which people visit us and analyze this data for trends and statistics.</p>
+      <p>Our web pages use "cookies" such as but not limited to the Google Analytics or Google advertising cookies to understand and serve you better.</p>
+      <p>A user can set on their browser to notify when you are sent a cookie, giving you the option to decide whether or not to accept it. The information we collect and analyze is used to improve our service</p>
+      <p>To opt out of the Google Analytics please visit <a href="https://tools.google.com/dlpage/gaoptout/">https://tools.google.com/dlpage/gaoptout</a></p>
 
       <h2>MODIFICATIONS TO THIS DOCUMENT</h2>
       <p>SPI Cinemas may modify this Privacy Policy and the way it handles Personal Information at any time in its sole discretion. </p>
@@ -244,7 +258,7 @@
     </form>
   </div>
 
-    <div id="loginModal" class="user__login reveal-modal small" data-dialog-name="loginFormModal">
+  <div id="loginModal" class="user__login reveal-modal small" data-dialog-name="loginFormModal">
       <ul>
         <li class="login__form">
           <div id="loginForm">
@@ -316,7 +330,25 @@
     <div class="retrieve-booking indicate-busy image__source" data-src="http://img1.spicinemas.in/resources/images"></div>
     <a class="close-reveal-modal allow-click" data-dialog-action="cancel">×</a>
   </div>
-   
+
+  <div id="noSeatsAvailableDialog" class="reveal-modal tiny" data-dialog-name="noSeatsAvailable">
+      <h6>Attention!</h6>
+      <p class="message">Sorry, there are no seats available for this show right now. Please try again after a few minutes.</p>
+      <div class="action">
+          <a class="button" data-dialog-action="ok">Ok</a>
+      </div>
+  </div>
+
+    <div id="activeOrders" class="reveal-modal tiny" data-dialog-name="activeOrders">
+        <h6>Active Orders</h6>
+        <p class="message">You cannot open more than three sessions. Please click on one of the active orders to continue.</p>
+        <div class="summary">
+        </div>
+        <div class="action">
+            <a class="button" id="cancel" data-dialog-action="cancelAll">Cancel All and Start Afresh</a>
+        </div>
+    </div>
+
 </div>
     </article>
   <footer class="page__footer">
@@ -401,12 +433,17 @@
   </footer>
   </div>
 
-  <script type="text/javascript">
-    var require = {
-      urlArgs : "build=v3.7.19"
-    };
-  </script>
-  <script type="text/javascript" data-main="/resources/js/static.page.js" src="/resources/js/lib/require.js"></script>
+    <script type="text/javascript">
+        var require = {
+            urlArgs : "build=v3.9.8"
+        };
+    </script>
+    <script src="/resources/js/lib/require.js"></script>
+    <script>
+        require(['/resources/js/mainConfig.js'], function(){
+            require(['/resources/js/static.page.js']);
+        });
+    </script>
 
 
 
