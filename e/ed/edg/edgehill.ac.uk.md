@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edgehill.ac.uk privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121155437id_/http%3A//www.edgehill.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edgehill.ac.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174306id_/http%3A//www.edgehill.ac.uk/privacy) for the most accurate reproduction.*
 
-# Privacy | Edge Hill University
+# Privacy - About Edge Hill University
 
 This Web site is run by Edge Hill University. We regard your privacy as important and comply with the Data Protection Act 1998. We will only use any personal information you send us for purposes for which you provide it. We will only hold your information for as long as necessary for these purposes and will not pass it on to any other parties. All employees who have access to your data and are associated with the handling of that data are obliged to respect the confidentiality of your personal data. All your communications to us are protected against unauthorized access by third parties.
 
