@@ -1,37 +1,135 @@
-> *The following text is extracted and transformed from the coolquotes.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502073449id_/http%3A//www.coolquotes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolquotes.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608013029id_/http%3A//www.coolquotes.com/privacy.html) for the most accurate reproduction.*
 
-# Cool Quotes-Links
+# coolquotes.com | Privacy Policy
 
-Cool Quotes is very respectful about the privacy concerns of the visitors to its web sites. Cool Quotes also recognizes the valuable potential of technology to help people communicate with the companies whose web sites they visit, particularly through customer databases. Responsible use of the information you share with Cool Quotes is paramount. In order to help you understand the role technology plays in the collection and use of information you provide Cool Quotes, the following guidelines have been created.
+**What information do we collect?**
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org
+We collect information from you when you register on our site or subscribe to our newsletter. 
 
-**Non-Personally Identifiable Information**
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-In general, you can visit the Cool Quotes site while remaining anonymous by not providing any personal information.
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-**Personally Identifiable Information**
+ **DoubleClick DART Cookie**
 
-Cool Quotes will not collect any personally identifiable information about you (e.g., your name, address, telephone number, or email address) unless you provide it to us voluntarily (e.g., when entering contests or sweepstakes).
+.:: Google, as a third party vendor, uses cookies to serve ads on coolquotes.com.  
+.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to coolquotes.com and other sites on the Internet.   
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://google.com/privacy_ads.html 
 
-Cool Quote's purpose for gathering such information is to enhance your online experience by understanding you better and also to make you aware of new programs or offers in which you may be interested. When you do provide us with personally identifiable information, we will take appropriate steps to protect the information you share with us. In this regard, we will not give, sell or otherwise transfer your personal information to anyone outside the Cool Quotes organization unless we first disclose it to you at the time of collection.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
+Google Adsense   
+Commission Junction   
+Widget Bucks   
+Adbrite   
+Clickbank   
+Epic / Azoogle   
+Chitika   
+Linkshare   
+Amazon   
+Kontera   
+Advertising.com   
+CPAStorm   
+Burst   
+Valueclick   
+InfoLinks   
+Vibrant Media   
+24/7 Real Media   
+Tribal Fusion   
+Casale   
+Tremor Media   
+Adify   
 
-**Children under 18 Years of Age**
 
-Cool Quotes has no intention of collecting any personally identifiable information (e.g., name, address, telephone number, or email address) from individuals under eighteen (18) years of age. Unless otherwise disclosed during collection, Cool Quotes will not provide any personally identifying information it knowingly receives from individuals under 18 to any third party for any purposes whatsoever. Where appropriate, Cool Quotes will specifically instruct individuals under 18 not to submit such information on our web sites or advertisements without the consent of a parent or guardian.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on coolquotes.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-If a child has provided us with personally identifiable information, a parent or guardian of that child should contact us at coolquotes@earthlink.net if they would like this information deleted from our records. We will use all reasonable efforts to delete the child's information from our existing files. Parents are also encouraged to spend time online with their children to become familiar with the types of editorial content and interactive functionality available on the site. Control tools are available from online services and software manufacturers to create a safe environment for kids.
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
-**Use of Cookies**
+coolquotes.com has no access to or control over these cookies that are used by third-party advertisers. 
 
-When you view our web site or advertisements, we may store some information on your computer. This information is stored in the form of a "Cookie" or similar standard file and will help us in many ways. For example, cookies let us tailor our web site or advertisements to better match your interests and preferences. With most internet browsers, you have the option to erase cookie files from your computer's hard drive, and can also set preferences that allow you to block all cookies, or request your permission before creating a cookie. Please refer to your browser's instructions or help screen to learn more about these functions on your browser.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. coolquotes.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
-**Other Sensitive Information**
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp
 
-Cool Quotes will take appropriate steps to protect all information you share with us. Whenever you give Cool Quotes sensitive information (credit card numbers, for instance), Cool Quotes will take commercially reasonable steps to establish a secure connection with your web browser. Credit card numbers are used only for payment processing and are never retained for marketing purposes.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-**How to Update or Delete Your Personal Information**
+**What do we use your information for?**
 
-You can help Cool Quotes to maintain the accuracy of your information by notifying us of any change to your address, phone number or email address. If at any time you wish to stop receiving communication from Cool Quotes or if you would like us to remove your personal information from our files, you can contact us by email at coolquotes@earthlink.net. Please include your name, address and email address in the message.
+Any of the information we collect from you may be used in one of the following ways: 
 
-Cool Quotes is dedicated to protecting your personal information and welcomes comments and questions on this policy. Cool Quotes reserves the right to change this policy at any time by notifying guests of the existence of a new privacy policy.
+\- To personalize your experience  
+(your information helps us to better respond to your individual needs)
+
+\- To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+
+\- To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
+
+\- To process transactions
+
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+
+\- To administer a contest, promotion, survey or other site feature
+
+\- To share with our third party marketing partners so they may send you offers for goods and services which you may find of interest
+
+\- To send periodic emails
+
+> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, advertisements etc. The email address you provide to subscribe to a newsletter, receive information or enter to win a prize may be used to send you information and updates, relevant content and advertisements.
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+ **How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
+
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
+
+ **Do we disclose any information to outside parties?**
+
+Other than described in this privacy policy, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, third party marketers, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+ **California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+ **Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+ **Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page. 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy or you wish to unsubscribe from our site and services you may contact us using the information below or by writing to us at:
+
+2885 Sanford Ave  
+SW #19781  
+Grandville, MI 49418  
+USA 
+
+coolquotes.com 
+
+Email:  
+contact@coolquotes.com  
+
