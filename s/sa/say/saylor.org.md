@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saylor.org privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110019id_/http%3A//www.saylor.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saylor.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607194746id_/http%3A//www.saylor.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Saylor Academy
 
@@ -90,6 +90,13 @@ YOUR CALIFORNIA PRIVACY RIGHTS
 California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding our disclosure of personally identifiable information to third parties for their direct marketing purposes.
 
 How to Contact Us  
-If you have any questions or comments about this Privacy Policy, please contact us by email atcontact@saylor.org or telephone at 202-333-4005. You also may write to us at The Saylor Foundation, 2200 Wilson Blvd., Suite 850, Arlington, Virginia 22201. Questions or comments submitted through other means, such as social media posts, may not be received or addressed.
+If you have any questions or comments about this Privacy Policy, please contact us by email atcontact@saylor.org or telephone at 202-333-4005. You also may write to us at:
+
+The Saylor Foundation  
+1875 Connecticut Ave NW  
+10th Floor  
+Washington, DC 20009
+
+Questions or comments submitted through other means, such as social media posts, may not be received or addressed.
 
 This Privacy Policy is Effective as of August 22, 2014.
