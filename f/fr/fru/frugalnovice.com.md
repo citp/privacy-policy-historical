@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the frugalnovice.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119161351id_/http%3A//frugalnovice.com/about/privacy-policy-disclosure-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugalnovice.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608012430id_/http%3A//frugalnovice.com/about/privacy-policy-disclosure-statement) for the most accurate reproduction.*
 
-# Privacy Policy & Disclosure Statement
+# Privacy Policy & Disclosure Statement – Frugal Novice
 
 **Privacy Policy**
 
