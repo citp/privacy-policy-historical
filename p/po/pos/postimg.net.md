@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postimg.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120005308id_/http%3A//postimg.net/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postimg.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607183357id_/http%3A//www.postimg.net/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # PostImg.net » More Information » Privacy Policy
 
