@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shemrock.com privacy policy that was archived on 2014-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141124185416id_/http%3A//www.shemrock.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shemrock.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607232920id_/http%3A//www.shemrock.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class="no-js" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr"><head>
 	<meta name="viewport" content="width=device-width">
@@ -26,6 +26,8 @@
 <!--	  <script type="text/javascript" src="http://www.shemrock.com/templates/shemrock/js/jquery.noconflict.js"></script>-->
 	  
 	  <script type="text/javascript" src="http://www.shemrock.com/templates/shemrock/js/scroll.js"></script>
+          <!--Start of Zopim Live Chat Script-->
+<!--End of Zopim Live Chat Script-->
      <!--[if lte IE 7]>
 <style>
 #leftbar-w{float:left;}
@@ -51,7 +53,120 @@
 <![endif]-->
  <style>
 .item-page-title{text-align:center;}
-	 </style>	
+	 </style>
+ <style type="text/css">
+
+#dropinboxv2cover{
+width: 100%; /*change width to desired */
+position:absolute; /*Don't change below 4 rules*/
+z-index: 100;
+overflow:hidden;
+visibility: hidden;
+top:70px !important;
+background-color:rgba(0,0,0,0.5);
+}
+
+#dropinboxv2{
+width: 50%; /*change width to above width-20. */
+border: 0px solid black; /*Customize box appearance*/
+background-color: transparent;
+padding: 0px;
+position:absolute; /*Don't change below 3 rules */
+left: 25% !important;
+top: 0;
+}
+
+#dropinboxv2 img{border:5px solid #fff;}
+
+</style>
+<script type="text/javascript">
+
+
+
+var dropboxleft=0 //set left position of box (in px)
+var dropboxtop=70 //set top position of box (in px)
+var dropspeed=15 //set speed of drop animation (larger=faster)
+var dropboxheight=900//set height of box (in px)
+//Specify display mode. 3 possible values are:
+//1) "always"- This makes the fade-in box load each time the page is displayed
+//2) "oncepersession"- This uses cookies to display the fade-in box only once per browser session
+//3) integer (ie: 5)- Finally, you can specify an integer to display the box randomly via a frequency of 1/integer...
+// For example, 2 would display the box about (1/2) 50% of the time the page loads.
+
+var displaymode="oncepersession"
+
+///Don't edit beyond here///////////
+
+if (parseInt(displaymode)!=NaN)
+var random_num=Math.floor(Math.random()*displaymode)
+var ie=document.all
+var dom=document.getElementById
+
+function initboxv2(){
+if (!dom&&!ie)
+return
+crossboxcover=(dom)?document.getElementById("dropinboxv2cover") : document.all.dropinboxv2cover
+crossbox=(dom)?document.getElementById("dropinboxv2"): document.all.dropinboxv2
+scroll_top=(ie)? truebody().scrollTop : window.pageYOffset
+crossbox.height=crossbox.offsetHeight
+crossboxcover.style.height=parseInt(crossbox.height)+"px"
+crossbox.style.top=crossbox.height*(-1)+"px"
+crossboxcover.style.left=dropboxleft+"px"
+crossboxcover.style.top=dropboxtop+"px"
+crossboxcover.style.height=dropboxheight+"px"
+crossboxcover.style.visibility=(dom||ie)? "visible" : "show"
+dropstart=setInterval("dropinv2()",50)
+}
+
+function dropinv2(){
+scroll_top=(ie)? truebody().scrollTop : window.pageYOffset
+if (parseInt(crossbox.style.top)<0){
+crossboxcover.style.top=scroll_top+dropboxtop+"px"
+crossbox.style.top=parseInt(crossbox.style.top)+dropspeed+"px"
+}
+else{
+clearInterval(dropstart)
+crossbox.style.top=0
+}
+}
+
+function dismissboxv2(){
+if (window.dropstart) clearInterval(dropstart)
+crossboxcover.style.visibility="hidden"
+}
+
+function truebody(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function get_cookie(Name) {
+var search = Name + "="
+var returnvalue = ""
+if (document.cookie.length > 0) {
+offset = document.cookie.indexOf(search)
+if (offset != -1) {
+offset += search.length
+end = document.cookie.indexOf(";", offset)
+if (end == -1)
+end = document.cookie.length;
+returnvalue=unescape(document.cookie.substring(offset, end))
+}
+}
+return returnvalue;
+}
+
+if (displaymode=="oncepersession" && get_cookie("droppedinv2")=="" || displaymode=="always" || parseInt(displaymode)!=NaN && random_num==0){
+if (window.addEventListener)
+window.addEventListener("load", initboxv2, false)
+else if (window.attachEvent)
+window.attachEvent("onload", initboxv2)
+else if (document.getElementById || document.all)
+window.onload=initboxv2
+if (displaymode=="oncepersession")
+document.cookie="droppedinv2=yes"
+}
+
+</script>	
   </head>
  
      
@@ -70,7 +185,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   	<div class="module-body">
 	  <div id="inews">
 	<ul id="webticker">
-<li>SHEMROCK opens new branch SHEMROCK Primary School in Purnea, Bihar; SHEMROCK Droplets in Burdwan,West Bengal; SHEMROCK Country Kids in Jaipur, Rajasthan; SHEMROCK Little Krishna in Haridwar, Uttarakhand; SHEMROCK Ariyan in Bangalore, Karnataka; SHEMROCK Global Wisdom in Kolkata, West Bengal</li>
+<li>SHEMROCK opens new branch SHEMROCK Poppins in Vellore,Tamil Nadu; SHEMROCK Balkrishna in Berhampur, Odisha, SHEMROCK Primary School in Purnea, Bihar; SHEMROCK Droplets in Burdwan,West Bengal; SHEMROCK Country Kids in Jaipur, Rajasthan; SHEMROCK Little Krishna in Haridwar, Uttarakhand; SHEMROCK Ariyan in Bangalore, Karnataka; SHEMROCK Global Wisdom in Kolkata, West Bengal</li>
 </ul>
 	  </div>
 	</div>
@@ -160,6 +275,22 @@ j(document).ready(function() {
 <div class="g-follow" data-annotation="bubble" data-height="20" data-href="https://plus.google.com/117630973588113372190" data-rel="publisher"></div>
 
 	  </li>
+<li>
+      <div class="social_twitter">Follow us on Twitter</div>
+<!--<a href="https://twitter.com/Shemrock" class="twitter-follow-button" data-show-count="true" data-size="large">Follow @Shemrock</a>-->
+<iframe src="http://www.shemrock.com/twitter.htm" width="200" height="100" frameborder="0">
+</iframe>
+
+
+
+
+
+
+
+
+	  </li>
+
+
 	</ul>
   </div>
 </div>
@@ -270,8 +401,9 @@ j(document).ready(function() {
 				  								  				  					<option value="33">Uttarakhand</option>				
 				  								  				  					<option value="34">UP</option>				
 				  								  				  					<option value="35">West Bengal</option>				
-				  								  				  					<option value="37">Other2</option>				
+				  								  				  					<option value="37">Other</option>				
 				  								  				  					<option value="38">UP(Noida, Gaziabad)</option>				
+				  								  				  					<option value="39">Telengana</option>				
 				  							  </select>
 			</div>
 		  </div>
@@ -323,7 +455,7 @@ j(document).ready(function() {
 		  <div class="controls">
 			<div class="input-prepend input-append">
 			  <span class="add-on">
-				<label for="antispam" class="element-invisible">Type Below<span class="star">&nbsp;*</span><img src="http://www.shemrock.com/thumbs/spam1416855255.png"></label>
+				<label for="antispam" class="element-invisible">Type Below<span class="star">&nbsp;*</span><img src="http://www.shemrock.com/thumbs/spam1433719759.png"></label>
 			  </span>
 			  <input id="antispam" type="text" name="antispam" class="input-small required" tabindex="0" placeholder="Above Text">
 			</div>
@@ -339,7 +471,8 @@ j(document).ready(function() {
         <input type="hidden" name="view" value="saveFenquiry">
 
 		<input type="hidden" id="stateval" name="stateval" value="">
-		<input type="hidden" id="cityval" name="cityval" value="">		
+		<input type="hidden" id="cityval" name="cityval" value="">
+                <input type="hidden" name="ProspectId" id="ProspectId" value="">
 	  </div>
 	</form>
   </div>
@@ -381,6 +514,22 @@ j(document).ready(function() {
 		});
 	  });
   
+</script>
+<!--LeadSquared Tracking Code Start-->
+<script type="text/javascript" src="http://web.mxradon.com/t/Tracker.js"></script>
+<script type="text/javascript">
+      pidTracker('4955');
+</script>
+<!--LeadSquared Tracking Code End-->
+<script>
+    jQuery(document).ready(function() {
+function SetProspectID(){
+           //  alert(MXCProspectId);
+		if (typeof(MXCProspectId) !== "undefined")                    
+                       jQuery('#ProspectId').val(MXCProspectId);
+	}
+	 	 setTimeout(SetProspectID , 2000);
+    });
 </script> 
 
   			  </div>
@@ -392,14 +541,14 @@ j(document).ready(function() {
     <div class="social_icon">
 	      <div class="module   span_12 col clr">
         <div class="module-body">
-  <p><a href="https://www.facebook.com/shemrockschools" target="_blank"> <img src="http://www.shemrock.com/images/facebook.png" alt="Facebook Media"></a>&nbsp; <a href="https://twitter.com/ShemrockGroup" target="_blank"> <img src="http://www.shemrock.com/images/twitter.png" alt="Twitter Media"></a>&nbsp; <a href="http://www.youtube.com/user/shemrocknurseryrhyme" target="_blank"> <img src="http://www.shemrock.com/images/youtube.png" alt="YouTube Media"></a>&nbsp; <a href="https://plus.google.com/+Shemrock/posts" target="_blank"> <img src="http://www.shemrock.com/images/google_plus.png" alt="Google Media"></a>&nbsp; <a href="http://shemrock.com/blogs/" target="_blank"><img src="http://www.shemrock.com/images/blog.png" alt="Shemrock Blog"></a></p>      </div>
+  <p><a href="https://www.facebook.com/shemrockschools" target="_blank"> <img src="http://www.shemrock.com/images/facebook.png" alt="Facebook Media"></a>&nbsp; <a href="https://twitter.com/Shemrock" target="_blank"> <img src="http://www.shemrock.com/images/twitter.png" alt="Twitter Media"></a>&nbsp; <a href="http://www.youtube.com/user/shemrocknurseryrhyme" target="_blank"> <img src="http://www.shemrock.com/images/youtube.png" alt="YouTube Media"></a>&nbsp; <a href="https://plus.google.com/+Shemrock/posts" target="_blank"> <img src="http://www.shemrock.com/images/google_plus.png" alt="Google Media"></a>&nbsp; <a href="http://shemrock.com/blogs/" target="_blank"><img src="http://www.shemrock.com/images/blog.png" alt="Shemrock Blog"></a></p>      </div>
   </div>
    
 
 </div>
 <div class="footer_text">
 <div class="copyright">
-		<div class="custom"><p>Copyright © 2014 by <a href="http://shemrock.com">shemrock.com</a>. All Rights Reserved.</p></div> 
+		<div class="custom"><p>Copyright © 2015 by <a href="http://shemrock.com">shemrock.com</a>. All Rights Reserved.</p></div> 
 
   	  </div>
       <div class="clearfix"></div>
@@ -444,6 +593,35 @@ src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/959666887/?va
 lue=0&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
+
+<!--<div id="dropinboxv2cover">
+<div id="dropinboxv2">
+<p align="center"><a class="gen16" href="#" onClick="dismissboxv2();return false"><img src="http://www.shemrock.com/images/close_btn.png" style="border:none !important;" /></a></p>
+<a href="#" target="_blank"><img src="http://www.shemrock.com/images/christmas_popup.jpg" width="100%" ></a><br>
+
+
+</div>
+</div>-->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1437417-2");
+pageTracker._trackPageview();
+} catch(err) {}
+      </script>
+<script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bQnHuQxYir3RR2ab7jrHcU&amp;s=70"></script>
+
+
+<!--LeadSquared Tracking Code Start-->
+<script type="text/javascript" src="http://web.mxradon.com/t/Tracker.js"></script>
+<script type="text/javascript">
+      pidTracker('4955');
+</script>
+<!--LeadSquared Tracking Code End-->
 	        
   
 </body></html>
