@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filesisland.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709020237id_/http%3A//filesisland.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filesisland.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152745id_/http%3A//filesisland.com/privacy.html) for the most accurate reproduction.*
 
 # FilesIsland - Make Money Sharing Files
 
