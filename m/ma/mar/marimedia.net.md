@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marimedia.net privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920205404id_/http%3A//www.marimedia.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marimedia.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074306id_/http%3A//www.marimedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Marimedia
 
@@ -18,7 +18,7 @@ Marimedia Ltd. has the discretion to update this privacy policy at any time. Whe
 
 #### Your acceptance of these terms
 
-By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20140920205404id_/http://www.marimedia.net/terms-of-service).
+By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20150607074306id_/http://www.marimedia.com/terms-of-service).
 
 #### Contacting us
 
