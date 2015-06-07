@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hdwallpaperup.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208071412id_/http%3A//www.hdwallpaperup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwallpaperup.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607141005id_/http%3A//www.hdwallpaperup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy • HDwallpaperUP
 
 * * *
 
-### Privacy Policy:
+## Privacy Policy:
 
 HDwallpaperUP Inc (" **HDwallpaperUP** ") operates HDwallpaperUP.com and may operate other websites. It is HDwallpaperUP's policy to respect your privacy regarding any information we may collect while operating our websites.
 
