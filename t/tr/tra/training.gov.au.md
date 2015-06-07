@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the training.gov.au privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120050252id_/http%3A//training.gov.au/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the training.gov.au privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607040533id_/http%3A//training.gov.au/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # training.gov.au - Privacy policy
 
@@ -6,7 +6,7 @@ Privacy Policy for the training.gov.au website (the website)
 
 © Commonwealth of Australia 2013
 
-All personal information collected by the Department of Industry, Innovation (the Department) is protected by the _Privacy Act 1988 (Privacy Act)_. A copy of the Privacy Act can be obtained on [ComLaw](http://www.comlaw.gov.au/) and further information on the _Privacy Act_ can be found on the [Office of the Australian Information Commissioner’s website](http://www.oaic.gov.au/privacy-portal/index.html) _._
+All personal information collected by the Department of Education and Training (the Department) is protected by the _Privacy Act 1988 (Privacy Act)_. A copy of the Privacy Act can be obtained on [ComLaw](http://www.comlaw.gov.au/) and further information on the _Privacy Act_ can be found on the [Office of the Australian Information Commissioner’s website](http://www.oaic.gov.au/privacy-portal/index.html) _._
 
 Information we collect and how we use it
 
@@ -91,12 +91,11 @@ Privacy Contact Officer
 
 Legal Services Branch
 
-Department of Industry
+Department of Education and Training
 
-GPO Box 9839  
-CANBERRA ACT 2601
+GPO Box 9880 Canberra ACT 2601
 
-Alternatively, you may email your correspondence to [privacy@inndustry.gov.au](mailto:privacy@innovation.gov.au).
+Alternatively, you may email your correspondence to [privacy@education.gov.au](mailto:privacy@education.gov.au)
 
 You may also contact the Office of the Australian Information Commissioner directly, via telephone on 1300 363 992 or email to: [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au). Visit [http://www.oaic.gov.au](http://www.oaic.gov.au/) for more information.
 
