@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quotelab.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120170720id_/http%3A//www.quotelab.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotelab.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608011954id_/http%3A//www.quotelab.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - QuoteLab.com
 
@@ -42,41 +42,55 @@ All Service Providers in our network have entered into agreements with us which 
 Here's the full list of Service Providers currently in our network: 
 
   * 21st Century
+  * AIG Direct
   * AIS
   * All Web Leads
   * Allstate
   * American Family
-  * American Insurance Agencies Direct
   * Answer Financial
+  * Auto Insurance Guide
+  * Benepath
+  * CompareInsuranceQuotes
   * Datalot
   * Direct General
+  * efinancial
   * Encharter Insurance
-  * Esurance
-  * firstquotehealth.com
   * Fortegra
   * Freeway Insurance Services
   * GEICO
-  * Goji
-  * healthmarkets.com
+  * Get Seen Media
+  * GoHealthInsurance
+  * Good2Go
   * HealthPlanOne
   * Home Insurance King
+  * Inside Response
+  * InsuraMatch
+  * Insurance Care Direct
+  * Insurance Quotes Now
   * Liberty Mutual
-  * Moss Affiliate Marketing
+  * MassNexus
+  * MatchMedia
+  * Mercury
+  * Moss
+  * Nations Health Insurance
   * Nationwide
+  * NetQuote
   * Pay Per Call Market
   * PEMCO
   * Ping Leads
   * Plymouth Rock
-  * Plymouth Rock (Teachers)
-  * Precise Leads
-  * Progressive
+  * Precursor Media
   * Quote Engine
   * QuoteWizard
+  * RevPoint
   * SelectQuote
-  * The Hartford
-  * Titan
+  * State Farm
+  * The Insurance Center
+  * Torchlight Technology Group
+  * Torchmark
   * Tranzact
-  * Vern Fonk Insurance
+  * Travelers
+  * Underground Elephant
 
 
 
