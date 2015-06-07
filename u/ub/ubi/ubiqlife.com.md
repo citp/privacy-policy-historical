@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ubiqlife.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215110328id_/http%3A//www.ubiqlife.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubiqlife.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022947id_/http%3A//www.ubiqlife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This [Privacy Policy](http://www.ubiqlife.com/privacy-policy-cookie-restriction-mode) will explain how UBIQlife collects, uses, maintains and discloses information collected from users (i.e. YOU or anyone else who enters this site) of [http://www.UBIQlife.com](http://www.ubiqlife.com/). This [privacy policy](http://www.ubiqlife.com/privacy-policy) applies to the Site and all products and services offered by UBIQlife.
+This Privacy Policy will explain how UBIQlife collects, uses, maintains and discloses information collected from users (i.e. YOU or anyone else who enters this site) of [http://www.ubiqlife.com](http://www.ubiqlife.com/). This privacy policy applies to the Site and all products and services offered by UBIQlife.
 
 **Personal identification information (AKA How we get your info)**
 
@@ -18,7 +18,7 @@ Our Site may use "cookies" to enhance your experience. Your web browser places c
 
 We might collect and use your personal information for a variety of reason:
 
-  * **_To improve[customer service](http://www.ubiqlife.com/customer-service)_**Information you provide helps us make UBIQlife bettter for YOU, like responding to [customer service](http://www.ubiqlife.com/customer-service) requests and helping you out with whatever UBIQlife problem you have.
+  * **_To improve customer service_** Information you provide helps us make UBIQlife bettter for YOU, like responding to customer service requests and helping you out with whatever UBIQlife problem you have.
   * **_To personalize your experience_** The info we collect from everyone who visits this site helps us find ways to make it better, whether more user friendly or getting the product you (“you” collectively) might want
   * **_To improve our Site_** We may use feedback you provide to improve our products and services.
   * **_To process payments_** We can use this info to place your orders and on the orders you told us you wanted. We won’t share this information with any third party.
@@ -41,7 +41,7 @@ We do not sell, trade, or rent your personal identification information to anybo
 
 You may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. Also, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
-**Changes to this[privacy policy](http://www.ubiqlife.com/privacy-policy)**
+**Changes to this privacy policy**
 
 UBIQlife has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We advice that you check this page frequently for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
@@ -53,6 +53,6 @@ By using this Site, you are agreeing to this policy. If you do not agree to this
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-UBIQlife http://www.UBIQlife.com 2030 Byberry Road Philadelphia, PA 19116 info@UBIQlife.com
+UBIQlifehttp://www.UBIQlife.com 2030 Byberry Road Philadelphia, PA 19116 kinfo@UBIQlife.com
 
 This document was last updated March 2013
