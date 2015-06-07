@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spellzone.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120194539id_/http%3A//www.spellzone.com/pages/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spellzone.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607201209id_/http%3A//www.spellzone.com/pages/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Spellzone, Privacy Policy
 
@@ -6,13 +6,13 @@
 
 This document outlines the Privacy Policy for Spellzone. Effective from 15 July 2013.
 
-**ATTENTION: This privacy policy applies to the entire contents of this website under the domain name[www.spellzone.com](http://www.spellzone.com/) and other Spellzone domains (“Website”). Please read this policy carefully before using this Website. If you do not accept these terms of this policy, please do not use this Website.   
+**ATTENTION: This privacy policy applies to the entire contents of this website under the domain name[www.spellzone.com](http://www.spellzone.com/) and other Spellzone domains ("Website"). Please read this policy carefully before using this Website. If you do not accept these terms of this policy, please do not use this Website.   
 This notice is issued by Spellzone Limited.**  
 
 
 ### Introduction
 
-This privacy policy is specific to the Spellzone website ("Website"). Spellzone Limited ("Spellzone", "we", "us" or "our") is committed to protecting your privacy online while providing a personalised and valuable service. Our policy explains how we will do this. We will review this policy in the light of comments we receive so please check the latest version. If you have any questions about our privacy policy, please [contact us](https://web.archive.org/web/20141120194539id_/http%3A//www.spellzone.com/pages/contact.cfm).
+This privacy policy is specific to the Spellzone website ("Website"). Spellzone Limited ("Spellzone", "we", "us" or "our") is committed to protecting your privacy online while providing a personalised and valuable service. Our policy explains how we will do this. We will review this policy in the light of comments we receive so please check the latest version. If you have any questions about our privacy policy, please [contact us](https://web.archive.org/web/20150607201209id_/http%3A//www.spellzone.com/pages/contact.cfm).
 
 By using the Website, you are accepting the practices described in this statement.
 
@@ -30,7 +30,7 @@ By using the Website, you are accepting the practices described in this statemen
 
 
 
-1.2 Personal information submitted in this way is added to our access control database, hosted by a third party hosting company, and to our customer databases at Spellzone’s premises. This information will be updated if you inform us of any changes. 
+1.2 Personal information submitted in this way is added to our access control database, hosted by a third party hosting company, and to our customer databases at Spellzone's premises. This information will be updated if you inform us of any changes. 
 
 1.3. Payment details such as credit card information are handled by third party providers such as WorldPay and PayPal and as such, Spellzone do not hold this information on our databases.
 
@@ -38,7 +38,7 @@ By using the Website, you are accepting the practices described in this statemen
 
 1.5. We request personal information (such as your name, email address and other contact details) from you when you contact us with subscription management queries, technical problems, to comment on the Website , or when you ask for information about how to use the service.
 
-1.6. Personal information submitted by you via ‘contact us’ email will not be added to our customer database and we request it simply so that we can respond to you about your query. Statistics regarding the types of queries submitted to us may be collated by us in aggregate form so that we can effectively monitor the site and improve levels of service.
+1.6. Personal information submitted by you via 'contact us' email will not be added to our customer database and we request it simply so that we can respond to you about your query. Statistics regarding the types of queries submitted to us may be collated by us in aggregate form so that we can effectively monitor the site and improve levels of service.
 
 1.7. If you have asked for information or subscribed to the Website in the past and no longer use the service and do not wish us to store information about you, please contact us and we will remove your details from our customer database. We need to store information about current subscribers in order to fulfil our contractual requirements to you and in order to deliver the Website to you.
 
@@ -67,7 +67,7 @@ By using the Website, you are accepting the practices described in this statemen
 
 ### 4\. Security
 
-4.1. Spellzone has appropriate measures in place to help ensure that our users’ Data is protected against unauthorised access or use, alteration, unlawful or accidental destruction and accidental loss. Although we make all reasonable efforts to protect your Personal Information from loss, misuse, or alteration by third parties, you should be aware that there is always some risk involved in transmitting information over the Internet.
+4.1. Spellzone has appropriate measures in place to help ensure that our users' Data is protected against unauthorised access or use, alteration, unlawful or accidental destruction and accidental loss. Although we make all reasonable efforts to protect your Personal Information from loss, misuse, or alteration by third parties, you should be aware that there is always some risk involved in transmitting information over the Internet.
 
 4.2. Your personal information is stored at a data centre managed by our third party hosting company. The data centre managed by our third party hosting company is specifically designed to be physically secure and to admit authorised personnel only, who are contractually bound to keep all of our data confidential.
 
@@ -83,7 +83,7 @@ By using the Website, you are accepting the practices described in this statemen
 
 ### 6\. Updating Your Details
 
-6.1. If any of the information that you have provided to Spellzone changes e.g. if you change your e-mail address, this can be up-dated via your Spellzone login. If in doubt, please [let us know](https://web.archive.org/web/20141120194539id_/http%3A//www.spellzone.com/pages/contact.cfm) the correct details.
+6.1. If any of the information that you have provided to Spellzone changes e.g. if you change your e-mail address, this can be up-dated via your Spellzone login. If in doubt, please [let us know](https://web.archive.org/web/20150607201209id_/http%3A//www.spellzone.com/pages/contact.cfm) the correct details.
 
 ### 7\. Governing Law
 
@@ -97,7 +97,7 @@ By using the Website, you are accepting the practices described in this statemen
 
 9.1. You may request a copy of the personal information we hold about you. Please contact: 
 
-[Email](https://web.archive.org/web/20141120194539id_/http%3A//www.spellzone.com/pages/contact.cfm)  
+[Email](https://web.archive.org/web/20150607201209id_/http%3A//www.spellzone.com/pages/contact.cfm)  
 Tel: +44 (0) 333 990 0132
 
 Or in writing to:
