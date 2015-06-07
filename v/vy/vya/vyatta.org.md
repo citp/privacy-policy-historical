@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vyatta.org privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111070008id_/http%3A//www.brocade.com/privacy/index.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vyatta.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607234914id_/http%3A//www.brocade.com/privacy/index.page) for the most accurate reproduction.*
 
 # Company
 
