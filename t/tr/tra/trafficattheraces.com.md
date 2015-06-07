@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficattheraces.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703170757id_/http%3A//www.trafficattheraces.com/privacy.php%3Frid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficattheraces.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607091439id_/http%3A//www.trafficattheraces.com/privacy.php%3Frid%3D) for the most accurate reproduction.*
 
 # Traffic at the Races
 
