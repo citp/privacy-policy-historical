@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the splashdata.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107172834id_/http%3A//www.splashdata.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splashdata.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152255id_/http%3A//www.splashdata.com/about/privacy.htm) for the most accurate reproduction.*
 
-# SplashData - Privacy Statement
+# Privacy Statement | SplashData
 
 SplashData never rents or exchanges our electronic mailing lists with any third parties. SplashData will not disclose any of your electronic contact information except when we have your explicit permission.
 
