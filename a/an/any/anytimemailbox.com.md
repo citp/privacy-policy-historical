@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anytimemailbox.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024174747id_/http%3A//www.anytimemailbox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anytimemailbox.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607153301id_/http%3A//www.anytimemailbox.com/privacy) for the most accurate reproduction.*
 
 # Anytime Mailbox Privacy Policy
 
