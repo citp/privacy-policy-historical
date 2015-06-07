@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tfltruck.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206004355id_/http%3A//www.tfltruck.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tfltruck.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142828id_/http%3A//www.tfltruck.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TFLTruck.com: Truck News, Views & Reviews | The Fast Lane TruckTFLTruck.com: Truck News, Views & Reviews | The Fast Lane Truck
+# Privacy Policy - Truck News, Views and Real World Reviews
 
 **What information do we collect?**
 
@@ -12,12 +12,12 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 Any of the information we collect from you may be used in one of the following ways:
 
-\- To improve our website  
+– To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-\- To administer a contest, promotion, survey or other site feature
+– To administer a contest, promotion, survey or other site feature
 
-\- To send periodic emails
+– To send periodic emails
 
 When subscribing to a newsletter, the email address you provide may be used to send you periodic updates on new content on our site.
 
