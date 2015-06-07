@@ -1,44 +1,77 @@
-> *The following text is extracted and transformed from the singleplatform.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213134902id_/http%3A//www.singleplatform.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singleplatform.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022654id_/http%3A//www.singleplatform.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement - Constant Contact ®
+# Privacy Statement - Constant Contact
 
-Effective September 9, 2013
+## Constant Contact® Privacy Statement
+
+**Effective September 9, 2013**
 
 At Constant Contact, Inc. (including its wholly-owned subsidiary, SinglePlatform, LLC), we respect and protect the privacy of our customers and those who use our websites, products and services. This privacy statement provides details about how your personal information is collected and used. Personal information is any information that identifies you or would enable someone to contact you, such as your name, email address, phone number and other non-public information that is associated with such information. This privacy statement applies to the Constant Contact website, the Single Platform website, products and services that are located in the roving.com, constantcontact.com and singleplatform.com domains and any other sites owned or operated by Constant Contact (the "Sites"). Constant Contact, Inc. is located at 1601 Trapelo Road, Waltham, MA 02451.
 
-The summary below provides the key concepts of the full Constant Contact Privacy Statement. If you have questions, please click on the headers in the summary or refer to the full text below.
+#### Statement Summary
 
-  * Information Collection and Use by Us - 
-    * We obtain any information that you provide to us on the Sites, including activity on our Sites that we collect by means of log files.
-    * We may also obtain information about you that we collect from other sources (such as at seminars and, with your consent, third party social networking sites).
-    * We may generally use this information to provide you with requested information or products and services, to tailor the presentation of the Sites or products and services to you, to facilitate your movement through the Sites or your use of our products and services, to improve our products and services and do a better job of marketing them, or to communicate with you.
-    * We may monitor or record any of your telephone conversations with us for quality control purposes, for purposes of training our employees and for our own protection.
-    * We acknowledge your ownership rights in your contact lists, content and phone numbers. We will never sell or rent this information without your permission, and will never use it for any purpose other than providing you with and improving our products and services or as described in this privacy statement.
-  * Security and Privacy \- We employ reasonable technical, administrative and physical safeguards to protect the confidentiality and security of your personal information.
-  * Sharing of Information \- We will never sell or rent your personal information to third parties for their use without your consent. We may share your contact and other information with our partners for limited purposes, with certain third parties (who may only use the information for the purpose for which it was provided), with courts, law enforcement and other relevant third parties, or with our acquirer if we are ever acquired.
-  * Cookies and Web Beacons \- We use cookies and other technology to keep track of your online interaction with our Sites. Information gathered through usage of a cookie is not linked to any personal identifying information, unless you become a trial or paying customer.
-  * Online Advertising \- We use pixels, or transparent GIF files, to help manage online advertising with certain partners.
-  * Choice/Opt-out \- You always have the opportunity to opt-out or change preferences in our non-transactional email messages to you by following a link in the footer of all non-transactional email messages sent by us or by emailing us at [support@constantcontact.com](mailto:support@constantcontact.com).
-  * Access to Personal Information \- 
-    * You can update your Constant Contact account information by logging in to your account. If you would like to suspend or cancel your Constant Contact account or obtain further information about or access to your personal information, you can do so by contacting Constant Contact customer support.
-    * You can update your SinglePlatform account information, suspend or cancel your account or obtain further information about or access to your personal information, by contacting the SinglePlatform account management team at (877) 564-8728.
-    * We will retain and use your information for as long as your account is active or as needed to provide you services, as necessary to comply with our legal obligations, resolve disputes and enforce our agreements. Notwithstanding the foregoing, we may continue to disclose your storefront information to third parties in a manner that does not reveal personal information after you suspend or cancel your SinglePlatform account unless you request otherwise.
-  * Refer a Friend \- If you choose to use our referral service to tell a friend about our Sites or our products and services, we will automatically send your friend a one-time email inviting him or her to visit our website.
-  * Third Party Links and Information Collection and Use by Our Customers \- Some of our Sites provide links to third-party websites. We are not responsible for the privacy practices of any third parties or our customers.
-  * Children \- Our Sites and our products and services are not directed to persons under 13. We do not knowingly collect personally identifiable information from children under 13.
-  * International Use \- We are headquartered in the United States of America and you explicitly acknowledge and consent to the fact that personal information stored or processed in the United States will be subject to the laws of the United States.
-  * Accountability \- 
-    * Questions and inquiries concerning your privacy may be directed by email to [privacy@constantcontact.com](mailto:privacy@constantcontact.com) or write us:  
+The summary below provides the key concepts of the full Constant Contact Privacy Statement. If you have questions, please click the links to view the complete text below.
+
+Information Collection and Use by Us
+
+  * We obtain any information that you provide to us on the Sites, including activity on our Sites that we collect by means of log files.
+  * We may also obtain information about you that we collect from other sources (such as at seminars and, with your consent, third party social networking sites).
+  * We may generally use this information to provide you with requested information or products and services, to tailor the presentation of the Sites or products and services to you, to facilitate your movement through the Sites or your use of our products and services, to improve our products and services and do a better job of marketing them, or to communicate with you.
+  * We may monitor or record any of your telephone conversations with us for quality control purposes, for purposes of training our employees and for our own protection.
+  * We acknowledge your ownership rights in your contact lists, content and phone numbers. We will never sell or rent this information without your permission, and will never use it for any purpose other than providing you with and improving our products and services or as described in this privacy statement.
+
+
+
+Security and Privacy  
+We employ reasonable technical, administrative and physical safeguards to protect the confidentiality and security of your personal information.
+
+Sharing of Information  
+We will never sell or rent your personal information to third parties for their use without your consent. We may share your contact and other information with our partners for limited purposes, with certain third parties (who may only use the information for the purpose for which it was provided), with courts, law enforcement and other relevant third parties, or with our acquirer if we are ever acquired.
+
+Cookies and Web Beacons  
+We use cookies and other technology to keep track of your online interaction with our Sites. Information gathered through usage of a cookie is not linked to any personal identifying information, unless you become a trial or paying customer.
+
+Online Advertising  
+We use pixels, or transparent GIF files, to help manage online advertising with certain partners.
+
+Choice/Opt-out  
+You always have the opportunity to opt-out or change preferences in our non-transactional email messages to you by following a link in the footer of all non-transactional email messages sent by us or by emailing us at [support@constantcontact.com](mailto:support@constantcontact.com).
+
+Access to Personal Information
+
+  * You can update your Constant Contact account information by logging in to your account. If you would like to suspend or cancel your Constant Contact account or obtain further information about or access to your personal information, you can do so by contacting Constant Contact customer support.
+  * You can update your SinglePlatform account information, suspend or cancel your account or obtain further information about or access to your personal information, by contacting the SinglePlatform account management team at (866) 289-2087.
+  * We will retain and use your information for as long as your account is active or as needed to provide you services, as necessary to comply with our legal obligations, resolve disputes and enforce our agreements. Notwithstanding the foregoing, we may continue to disclose your storefront information to third parties in a manner that does not reveal personal information after you suspend or cancel your SinglePlatform account unless you request otherwise.
+
+
+
+Refer a Friend  
+If you choose to use our referral service to tell a friend about our Sites or our products and services, we will automatically send your friend a one-time email inviting him or her to visit our website.
+
+Third Party Links and Information Collection and Use by Our Customers  
+Some of our Sites provide links to third-party websites. We are not responsible for the privacy practices of any third parties or our customers.
+
+Children  
+Our Sites and our products and services are not directed to persons under 13. We do not knowingly collect personally identifiable information from children under 13.
+
+International Use  
+We are headquartered in the United States of America and you explicitly acknowledge and consent to the fact that personal information stored or processed in the United States will be subject to the laws of the United States.
+
+Accountability
+
+  * Questions and inquiries concerning your privacy may be directed by email to [privacy@constantcontact.com](mailto:privacy@constantcontact.com) or write us:  
 Constant Contact, Inc.  
 1601 Trapelo Road  
 Waltham, MA 02451  
-Attention: Privacy Manager 
-    * We are a licensee of the TRUSTe privacy program. If we do not promptly answer your question, you can contact [TRUSTe](https://feedback-form.truste.com/watchdog/request).
-  * Notification of Changes \- If we decide to change this privacy statement in any material way, we will notify you here, by email, or by means of a notice on the Constant Contact website. For major changes in how we use personally identifying data, we will provide advance notice. In all cases, your continued use of any Site or our products and services constitutes consideration and your binding acceptance to any such changes.
+Attention: Privacy Manager
+  * We are a licensee of the TRUSTe privacy program. If we do not promptly answer your question, you can contact [TRUSTe](https://feedback-form.truste.com/watchdog/request).
 
 
 
-## Information Collection and Use by Us
+Notification of Changes  
+If we decide to change this privacy statement in any material way, we will notify you here, by email, or by means of a notice on the Constant Contact website. For major changes in how we use personally identifying data, we will provide advance notice. In all cases, your continued use of any Site or our products and services constitutes consideration and your binding acceptance to any such changes.
+
+#### Information Collection and Use by Us
 
 We are the sole owner of information collected on the Sites, except for contact lists and content that you provide to us in connection with your use of our products and services (such as your logo or storefront information). We collect information only as necessary to fulfill the purposes set forth in this privacy statement and we will not sell, share, or rent this information to others in ways different from what is disclosed here.
 
@@ -60,13 +93,13 @@ We obtain information that is provided by you on our public forums, including th
 
 Back to Top
 
-## Security and Privacy
+#### Security and Privacy
 
 We employ reasonable technical, administrative and physical safeguards to protect the confidentiality and security of your personal information. We use industry-recognized technical safeguards, such as firewalls, and have adopted and implemented security procedures to protect your information from loss, misuse or unauthorized alteration. When we collect financial account information, such as credit card numbers, we protect its transmission through the use of encryption such as the Secure Socket Layer (SSL) protocol. Notwithstanding our efforts, we cannot guarantee absolute or unqualified protection of this information given the open nature and resulting instability of the Internet and World Wide Web, and we make no representations or warranties as to the effectiveness of our security and assume no liability for security breaches or any failure in the security of your computer equipment, your internet service provider or other networks and communications providers.
 
 Back to Top
 
-## Sharing of Information
+#### Sharing of Information
 
 We will never sell or rent your personal information to third parties for their use without your consent. 
 
@@ -86,7 +119,7 @@ Lastly, we may disclose your personal information to courts, law enforcement aut
 
 Back to Top
 
-## Cookies and Web Beacons
+#### Cookies and Web Beacons
 
 We use a variety of technologies on our Sites. Among these are cookies: a text-only string of information that a website transfers to the cookie file of the browser on your computer so that the website can remember your browser in the future. A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a unique number. When you visit our Sites, open our email, encounter our services online (including on one of our customer's websites), or click on one of our banner ads or videos, we or an authorized third party may send you a cookie.
 
@@ -102,7 +135,7 @@ We may share non-personally identifying information with third parties, such as 
 
 Back to Top
 
-## Online Advertising
+#### Online Advertising
 
 We also use pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partners and enable our partners to recognize a unique ad impression cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our Sites. With both cookies and web beacons, the information that we collect and share is anonymous and not personally identifiable. We give all Internet users the choice to opt-out of receiving our ad impression cookie. If you opt out, your web browser will be associated with a generic "opt-out" cookie, which will prevent us from associating any non-personally identifying information with your browser. Our "opt-out" cookie has no expiration date. Keep in mind that participating in our opt-out program does not prevent you from seeing our online ads; instead, information about the online ads we serve to you will not be recorded. If you wish to opt-out of receiving this cookie, see <http://www.constantcontact.com/opt-out-info.jsp>.
 
@@ -110,33 +143,33 @@ Our ad management partners include Adobe Systems Inc. (AdLens™), Facebook, Inc
 
 Back to Top
 
-## Choice/Opt-out
+#### Choice/Opt-out
 
-Our Anti-Spam Policy tolerates only permission-based email, see <http://www.constantcontact.com/uidocs/CCSpamPolicy.jsp>. You may choose to opt-out or select your email preferences when you sign-up for our email lists. You always have the opportunity to opt-out or change preferences by following a link in the footer of all non-transactional email messages sent by us or by emailing us at [support@constantcontact.com](mailto:support@constantcontact.com). In addition, anyone receiving emails from us on behalf of our customers always has the opportunity to opt-out of email messages from such customer by using the opt-out link included in the link in the footer of the message. If you believe that you have received an unsolicited commercial email from us on behalf of any of our customers, you may report it to us at [abuse@constantcontact.com](mailto:abuse@constantcontact.com).
+Our Anti-Spam Policy tolerates only permission-based email, see <http://www.constantcontact.com/anti-spam>. You may choose to opt-out or select your email preferences when you sign-up for our email lists. You always have the opportunity to opt-out or change preferences by following a link in the footer of all non-transactional email messages sent by us or by emailing us at [support@constantcontact.com](mailto:support@constantcontact.com). In addition, anyone receiving emails from us on behalf of our customers always has the opportunity to opt-out of email messages from such customer by using the opt-out link included in the link in the footer of the message. If you believe that you have received an unsolicited commercial email from us on behalf of any of our customers, you may report it to us at [abuse@constantcontact.com](mailto:abuse@constantcontact.com).
 
-Some communications (for example, important account notifications and billing information) are considered transactional and are necessary for all of our customers. You must cancel your Constant Contact or SinglePlatform account, as applicable, to unsubscribe from these communications. To cancel your Constant Contact account, please email us at [support@constantcontact.com](mailto:support@constantcontact.com). To cancel your SinglePlatform account, please call us at (877) 564-8728.
+Some communications (for example, important account notifications and billing information) are considered transactional and are necessary for all of our customers. You must cancel your Constant Contact or SinglePlatform account, as applicable, to unsubscribe from these communications. To cancel your Constant Contact account, please email us at [support@constantcontact.com](mailto:support@constantcontact.com). To cancel your SinglePlatform account, please call us at (866) 289-2087.
 
 To manage the information we receive about you from an SNS or any other third party, you will need to follow the instructions from that party for updating your information and changing your privacy settings. The information we collect is covered by this privacy statement and the information the third party collects is subject to such third party's privacy practices. Privacy choices you have made on any third party site will not apply to our use of the information we have collected directly through our applications.
 
 Back to Top
 
-## Access to Personal Information
+#### Access to Personal Information
 
 You can update your Constant Contact account information, including your organizational information and email address, by logging in and then clicking on the My Settings tab. Account information, such as your username and password, can be changed by logging in and then clicking on the My Account link at the top of page. The My Account page is also where you can manage product subscriptions and billing information, such as your credit card number. If you would like to suspend or cancel your account or obtain further information about or access to your personal information, you can do so by contacting customer support by email at [support@constantcontact.com](mailto:support@constantcontact.com) or by telephone at (866) 289-2101 if you are located in the U.S. or (781) 472-8140 if you are located outside of the U.S.
 
-You can update your SinglePlatform account information by contacting the SinglePlatform account management team directly at (877) 564-8728. If you would like to suspend or cancel your account or obtain further information about or access to your personal information, you can do so by contacting the account management team at (877) 564-8728.
+You can update your SinglePlatform account information by contacting the SinglePlatform account management team directly at (866) 289-2087. If you would like to suspend or cancel your account or obtain further information about or access to your personal information, you can do so by contacting the account management team at (866) 289-2087.
 
-We will retain and use your information for as long as your account is active or as needed to provide you services, as necessary to comply with our legal obligations, resolve disputes, enforce our agreements and for backup purposes. Notwithstanding the foregoing, we may continue to disclose your storefront information to third parties in a manner that does not reveal personal information after you suspend or cancel your SinglePlatform account unless you request otherwise by calling the SinglePlatform account management team at (877) 564-8728.
+We will retain and use your information for as long as your account is active or as needed to provide you services, as necessary to comply with our legal obligations, resolve disputes, enforce our agreements and for backup purposes. Notwithstanding the foregoing, we may continue to disclose your storefront information to third parties in a manner that does not reveal personal information after you suspend or cancel your SinglePlatform account unless you request otherwise by calling the SinglePlatform account management team at (866) 289-2087.
 
 Back to Top
 
-## Refer a Friend
+#### Refer a Friend
 
 If you choose to use our referral service to tell a friend about our Sites or our products and services, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit our website. We retain this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Such referrals may not be permissible in all situations or in all jurisdictions. You acknowledge and agree that you are solely responsible for compliance with any applicable laws in this regard. Your friend may contact us at [support@constantcontact.com](mailto:support@constantcontact.com) to request that we remove this information from our database.
 
 Back to Top
 
-## Third Party Links and Information Collection and Use by Our Customers
+#### Third Party Links and Information Collection and Use by Our Customers
 
 Some of our Sites provide links to third-party websites, such as those of our business partners, online advertising partners, SNSs and payment processors. While on these sites, we or these third parties may collect information about you. In addition, you may be asked to provide certain personal information or credit card information to our customers in connection with their use of our products and services, such as when you respond to a survey or register or pay for an event, or otherwise.
 
@@ -144,13 +177,13 @@ Because we do not control the information policies or practices of these third p
 
 Back to Top
 
-## Children
+#### Children
 
 Our Sites and our products and services are not directed to persons under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with personal information without such parent or guardian's consent, he or she should contact us. If we become aware that a child under 13 has provided us with personal information, we will delete such information from our files.
 
 Back to Top
 
-## International Use
+#### International Use
 
 We are headquartered in the United States of America. Personal information may be accessed by us or transferred to us in the United States or to our affiliates, partners, merchants, or service providers elsewhere in the world. By providing us with personal information, you consent to this transfer. We will protect the privacy and security of personal information according to this privacy statement, regardless of where it is processed or stored, however you explicitly acknowledge and consent to the fact that personal information stored or processed in the United States will be subject to the laws of the United States, including the ability of governments, courts or law enforcement or regulatory agencies of the United States to obtain disclosure of your personal information.
 
@@ -158,7 +191,7 @@ For the purposes of European Directive 95/46/EC and applicable national implemen
 
 Back to Top
 
-## Accountability
+#### Accountability
 
 We have been awarded TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/program-requirements) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through the website: www.constantcontact.com and does not cover personal information we process on behalf of our customers or collect via mobile devices.
 
@@ -175,7 +208,7 @@ Attention: Privacy Manager
 
 Back to Top
 
-## Notification of Changes
+#### Notification of Changes
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we decide to change this privacy statement in any material way, we will notify you here, by email, or by means of a notice on www.constantcontact.com and www.singleplatform.com so our users are always aware of what information we collect, how we use it and under what circumstances, if any, we disclose it. For major changes in how we use personally identifying data, we will provide advance notice. In all cases, your continued use of any Site or our products and services or constitutes consideration and your binding acceptance to any such changes.
 
