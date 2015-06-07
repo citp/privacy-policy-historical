@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fun-with-pictures.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906195130id_/http%3A//www.fun-with-pictures.com/privacy-policy-fwp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fun-with-pictures.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074756id_/http%3A//www.fun-with-pictures.com/privacy-policy-fwp.html) for the most accurate reproduction.*
 
 # Privacy Policy of Fun with Pictures
 
