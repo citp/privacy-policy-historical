@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the weneedavacation.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127012524id_/http%3A//www.weneedavacation.com/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weneedavacation.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152352id_/http%3A//www.weneedavacation.com/Help/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy of WeNeedaVacation.com, LLC
 
-##  Privacy, Use of Information 
+## Privacy, Use of Information
 
 WeNeedaVacation.com collects contact information from vacation property homeowners for the sole use of promoting the vacation rentals on our website. We do not share personal contact information. We publish on the site only the phone numbers given to us by the homeowners so that vacationers can contact them. 
 
