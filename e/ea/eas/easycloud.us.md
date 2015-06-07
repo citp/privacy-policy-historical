@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easycloud.us privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120084633id_/http%3A//www.easycloud.us/data/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easycloud.us privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174416id_/http%3A//www.easycloud.us/data/pages/privacy_policy) for the most accurate reproduction.*
 
 # EasyCloud - Easy PHP Cloud Hosting » Pages » Privacy Policy
 
