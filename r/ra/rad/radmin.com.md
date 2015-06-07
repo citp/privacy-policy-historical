@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radmin.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124000533id_/http%3A//www.radmin.com/about/legal/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radmin.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608001652id_/http%3A//www.radmin.com/about/legal/pp.php) for the most accurate reproduction.*
 
 # Radmin - PC Remote Control Software - Privacy Policy
 
@@ -14,6 +14,9 @@
 [Privacy Policy](https://web.archive.org/about/legal/pp.php)  
 [News](https://web.archive.org/about/news/)  
 [Press About Us](https://web.archive.org/about/press_about_us.php)  
+[Testimonials](https://web.archive.org/about/testimonials.php)  
+[Reviews](https://web.archive.org/about/reviews.php)  
+[Awards](https://web.archive.org/about/awards.php)  
 [Social program](https://web.archive.org/about/social_program.php)  
   
 Thank you for visiting Famatech’s website located at [www.radmin.com](http://www.radmin.com/). We are firmly committed to respecting and protecting your privacy. To that end, we are pleased to provide this Privacy Policy to describe our information gathering and use.
