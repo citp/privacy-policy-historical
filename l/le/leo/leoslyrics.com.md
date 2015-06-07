@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leoslyrics.com privacy policy that was archived on 2014-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140805134721id_/http%3A//www.leoslyrics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leoslyrics.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607223154id_/http%3A//www.leoslyrics.com/privacy.php) for the most accurate reproduction.*
 
-# 
+# Privacy | Leo's Lyrics
 
 LeosLyrics.com is committed to respecting and protecting your privacy. Should you choose to provide your Email address or any other personal information on any of the forms found on our site, you can be assured that it will only be used to support your relationship with LeosLyrics.com. This privacy policy is intended for all users of LeosLyrics.com. 
 
