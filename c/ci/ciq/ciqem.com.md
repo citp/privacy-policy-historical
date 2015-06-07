@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ciqem.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127000918id_/http%3A//www.ciqem.com/about/copyright.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ciqem.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607194250id_/http%3A//www.ciqem.com/about/copyright.html) for the most accurate reproduction.*
 
 # Privacy Policy_Ciqem
 
