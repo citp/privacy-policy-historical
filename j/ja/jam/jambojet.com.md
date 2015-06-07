@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jambojet.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626063202id_/http%3A//www.jambojet.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jambojet.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142519id_/http%3A//www.jambojet.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Jambojet.com - Privacy Policy
 
@@ -18,7 +18,7 @@
 
 1.5 We may amend this privacy policy at any time. If we do this we will post the revised version on this page of the website. Unless we inform you otherwise, a change will take effect seven (7) days after the date that we post it on this page. Your use of the site and our services after the date a change takes effect will be subject to this policy as amended by the change. We will take your continued use as your acceptance of the change; if an amendment is not acceptable to you then you should stop using the site.
 
-1.6 The validity construction and performance of this document shall be governed by Kenyan law.
+1.6 The validity construction and performance of this document shall be governed by Kenyan law.
 
 **YOUR INFORMATION**
 
