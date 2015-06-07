@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the guitarforbeginners.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127102026id_/http%3A//www.guitarforbeginners.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarforbeginners.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185443id_/http%3A//www.guitarforbeginners.com/privacy_statement.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy statement for Guitar for Beginners and Beyond
 
-****  
+  |   
 **What information do we collect?**  
 We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form.   
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or mailing address. You may, however, visit our site anonymously.  
@@ -39,3 +39,5 @@ www.guitarforbeginners.com
 PO Box 186 Nth Tamborine,   
 QLD 4272 Australia  
 info@guitarforbeginners.com
+
+|  
