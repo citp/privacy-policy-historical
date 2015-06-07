@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the godiva.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227143812id_/http%3A//www.godiva.com/privacy-policy/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godiva.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175053id_/http%3A//www.godiva.com/privacy-policy/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | GODIVA
 
 **Privacy Policy**
 
-This website ("Godiva.com") is owned and operated by Godiva Chocolatier, Inc. Godiva recognizes the importance of maintaining the privacy of our customers ("Customers"), registered account holders and loyalty club members ("Members") and other website users (collectively "Users"). We have posted this privacy policy ("Policy") to describe our practices regarding the collection and use of information from Users. 
+This website ("Godiva.com") is owned and operated by Godiva Chocolatier, Inc. Godiva recognizes the importance of maintaining the privacy of our customers ("Customers"), registered account holders and loyalty club members ("Members") and other website users (collectively "Users"). We have posted this privacy policy ("Policy") to describe our practices regarding the collection and use of information from Users.
 
 This Policy was last amended on 7/1/13. We may update this Policy from time to time, so we invite you to review this page periodically. When we make changes, we may send an e-mail to you or notify you the next time you log-in, and we will post the updated Policy on this web page. All changes will go into effect on the date that is listed in our Policy. The new Policy will apply to all past and current users of Godiva.com and will replace any prior Policies. By using this website, you consent to the terms of this Policy.
 
@@ -22,7 +22,7 @@ We collect the following information about you in various ways, including when y
 
   * We also collect any information you submit to us when you participate in our promotions, contests, and sweepstakes.
 
-  * We also collect information automatically using technology when you visit our website or social media pages or when you open one of our e-mails.   
+  * We also collect information automatically using technology when you visit our website or social media pages or when you open one of our e-mails.  
       
 
 
@@ -42,9 +42,9 @@ In certain instances we may disclose your personally identifiable information wh
 
 **3\. COOKIES, WEB BEACONS AND JAVASCRIPT**
 
-Godiva uses automatic tracking technologies, including "cookies" and clear gifs (or “web beacons”). These small files are sent to your browser from a web server and stored on your computer's hard drive. Godiva, and service providers acting on our behalf, may place cookies and web beacons on your computer for the purpose of understanding how Users utilize Godiva.com, to track purchases and other website information, and to help measure the effectiveness of our marketing and promotional campaigns. Web beacons may be used to provide data to third parties for tracking purposes. Cookies also allow Members to save time during checkout in return visits. We may also use our own cookies to provide you with enhanced online display advertising tailored to your interests. To opt out of advertising provided by Godiva, 
+Godiva uses automatic tracking technologies, including "cookies" and clear gifs (or “web beacons”). These small files are sent to your browser from a web server and stored on your computer's hard drive. Godiva, and service providers acting on our behalf, may place cookies and web beacons on your computer for the purpose of understanding how Users utilize Godiva.com, to track purchases and other website information, and to help measure the effectiveness of our marketing and promotional campaigns. Web beacons may be used to provide data to third parties for tracking purposes. Cookies also allow Members to save time during checkout in return visits. We may also use our own cookies to provide you with enhanced online display advertising tailored to your interests. To opt out of these ads 
 
-_[click here](http://www.networkadvertising.org/managing/opt_out.asp)_
+ _[click here](http://dtmc.godiva.com/adinfo/choice/prod/?type=fpc&cid=2311&cname=Godiva&cmagic=046ddf&clogo=godiva.png&loc=us&lang=en-us%27,%27_blank%27,%27status=0,toolbar=0,location=0,menubar=0,directories=0,scrollbars=1,width=921,height=758%27)_
 
 . Most web browsers automatically accept cookies, but they should also allow you to instruct your browser to prevent the use of cookies. You may use the Help feature on your browser to find information on how to manage, restrict, or prevent the use of cookies. Please note that if you disable cookies certain aspects of Godiva.com will not function properly, such as the shopping bag. We also use "web beacons" in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to track the effectiveness of certain communications as well as the effectiveness of our marketing campaigns. If you would like to opt-out of these emails you can do so via our 
 
@@ -76,13 +76,13 @@ and accessing the My Profile section.
 
 _[letters@godiva.com](mailto:letters@godiva.com)_
 
-. Please include your name, the email address associated with the account and the following message: “I would like to disable my GODIVA.com website account.” 
+. Please include your name, the email address associated with the account and the following message: “I would like to disable my GODIVA.com website account.”
 
 • You may unsubscribe from marketing emails from us by visiting the 
 
 _[Communication Preferences](http://www.godiva.com/on/demandware.store/Sites-Godiva-Site/default/Account-GuestPreferences)_
 
-page. 
+page.
 
 • You may unsubscribe from our mail order catalog or other Godiva mailings to your postal address by visiting the 
 
