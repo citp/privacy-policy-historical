@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustcobank.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121100026id_/http%3A//www.trustcobank.com/page/privacy-policy-49.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustcobank.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140010id_/http%3A//www.trustcobank.com/page/privacy-policy-49.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,7 +21,7 @@ Personal Information and Choice "Personal information" is information about an i
 
 Personal information is not collected through this website unless you send an email to Trustco Bank through this website. If you do not communicate with this website it does not affect your ability to use any other features of this website.
 
-Currently, Trustco Bank does not knowingly collect personal information from children or create profiles of children through this website. People are cautioned that the collection of personal information provided by any individual in an email will be treated the same as information given by an adult, and may, if not protected by federal or City law, be subject to public access. Trustco Bank encourages parents and teachers to be involved in children's Internet activities and guide the children whenever children are asked to provide personal information on-line.
+Currently, Trustco Bank does not knowingly collect personal information from children or create profiles of children through this website. People are cautioned that the collection of personal information provided by any individual in an email will be treated the same as information given by an adult, and may, if not protected by Federal or State law, be subject to public access. Trustco Bank encourages parents and teachers to be involved in children's Internet activities and guide the children whenever children are asked to provide personal information on-line.
 
 Disclosure of Information Collected Through This Website Information collected through this website, personal or otherwise, may, if not protected by federal or City law, be subject to disclosure pursuant to law, such as the Freedom of Information Law (FOIL), or court order.
 
