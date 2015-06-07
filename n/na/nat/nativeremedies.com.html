@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the nativeremedies.com privacy policy that was archived on 2014-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121034311id_/http%3A//www.nativeremedies.com/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nativeremedies.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607064603id_/http%3A//www.nativeremedies.com/privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#"><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0013/1041.js?438997" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;status=0"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NG5KGN"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgEGV1NaGwIJVFJWAgk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Native Remedies Privacy Policy</title>
 <meta name="description" content="Native Remedies Privacy Policy - Herbal Remedies Information">
 <meta name="keywords" content="herbal nutrition supplement, herbal life products, old home remedies, natural remedies for arthritis, hypertension remedies, heartburn remedies, herbal life international, herbal life distributor, herbal remedies for depression, home health remedies, holistic healing school, holistic psychotherapy, herbal remedies for anxiety, definition of holistic, herbal remedies information, herbal suppliments, anxiety and herbal remedies, ginkgo biloba herbal remedy, herbal health care, homeopathic supplements, liquid herbal remedies, quality herbal supplements, natural remedy products, holistic psychology, holistic health control, safe herbal supplements, natural medicine for adhd, natural health medicine, herbal nutritional supplement, on line herbal products, alternative health remedy, herbal life vitamins, medical home remedies, natural herbal healing, herbal life supplements, holistic medicine programs, types of herbal medicine, herbal treatments for depression, natural holistic medicine, alternative holistic healing systems, holistic healing systems, natural cures they do not want you to know about, natural medicine associates, natural medicine and herbs, list of natural medicines">
@@ -10,6 +10,9 @@
 <meta name="google-translate-customization" content="b7dd486ad92aa54b-09f3bef62a2c8f39-g14823538e64cd6e3-1a">
 <link rel="icon" href="http://cdn.nativeremedies.com/skin/frontend/nr/main/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="http://cdn.nativeremedies.com/skin/frontend/nr/main/favicon.ico" type="image/x-icon">
+
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0013/1041.js?438997" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;status=0"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NG5KGN"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//assets.adobedtm.com/b41ddd92674d0d09b92c1e6dc24950ce73b63c40/satelliteLib-ed4660910806e1840846ae8fd3a2c2aecb371bfc.js"></script>
+
 <!--[if lt IE 7]>
 <script type="text/javascript">
 //<![CDATA[
@@ -18,8 +21,9 @@
 //]]>
 </script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://cdn.nativeremedies.com/media/css/3612d619b9444a702921349762c33a9c_24081ebdb740355b031ff5b1c82fa625.css" media="print">
-<link rel="stylesheet" type="text/css" href="http://cdn.nativeremedies.com/media/css/f66aa49217f03c905af5ca766203a2b5_bf6b3a06b3a06b8c39aaaaed083ff39a.css" media="all">
+
+<link rel="stylesheet" type="text/css" href="http://cdn.nativeremedies.com/media/css/df7f5e2150b6a579fc381cd221775a1b_1346853556.css" media="print">
+<link rel="stylesheet" type="text/css" href="http://cdn.nativeremedies.com/media/css/338969437b2a0e43c7c073d687a68752_1427347186.css" media="all">
 <script type="text/javascript" src="http://cdn.nativeremedies.com/js/prototype/prototype.js"></script>
 <script type="text/javascript" src="http://cdn.nativeremedies.com/js/lib/ccard.js"></script>
 <script type="text/javascript" src="http://cdn.nativeremedies.com/js/prototype/validation.js"></script>
@@ -34,7 +38,6 @@
 <script type="text/javascript" src="http://cdn.nativeremedies.com/js/mage/translate.js"></script>
 <script type="text/javascript" src="http://cdn.nativeremedies.com/js/mage/cookies.js"></script>
 <script type="text/javascript" src="http://cdn.nativeremedies.com/js/php.js"></script>
-<script type="text/javascript" src="http://cdn.nativeremedies.com/js/affiliates/affiliate-tracking.js"></script>
 <script type="text/javascript" src="http://cdn.nativeremedies.com/js/mage-service.js"></script>
 <script type="text/javascript" src="http://cdn.nativeremedies.com/skin/frontend/base/default/js/scripts.js"></script>
 <script type="text/javascript" src="http://cdn.nativeremedies.com/skin/frontend/base/default/js/enterprise/catalogevent.js"></script>
@@ -49,19 +52,20 @@
 <script type="text/javascript" src="http://cdn.nativeremedies.com/skin/frontend/nr/main/js/slider.js"></script>
 <script type="text/javascript" src="http://cdn.nativeremedies.com/skin/frontend/nr/main/js/supplement-panel.js"></script>
 <!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="http://cdn.nativeremedies.com/media/css/8943b2c44ddddce5fe2807246bc2c70b_a41fd428e9f6f5f79cca8747fa3a74ff.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://cdn.nativeremedies.com/media/css/c60526ec04ad0d2fc01f2142008a32c9_1346853553.css" media="all" />
 <![endif]-->
 <!--[if lt IE 7]>
 <script type="text/javascript" src="http://cdn.nativeremedies.com/js/lib/ds-sleight.js"></script>
 <script type="text/javascript" src="http://cdn.nativeremedies.com/skin/frontend/base/default/js/iehover-fix.js"></script>
 <![endif]-->
 <!--[if lt IE 9]>
-<link rel="stylesheet" type="text/css" href="http://cdn.nativeremedies.com/media/css/8fa93655170dbc4d886206510fee7adc_61f02150e9f12051d44c03d0405ff54b.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://cdn.nativeremedies.com/media/css/48c2adf3fa2dbd8ff9f15132b0aa9eba_1352133051.css" media="all" />
 <script type="text/javascript" src="http://cdn.nativeremedies.com/skin/frontend/nr/main/js/html5shiv.js"></script>
 <![endif]-->
 <!--[if IE 6]>
-<link rel="stylesheet" type="text/css" href="http://cdn.nativeremedies.com/media/css/efd5a6d2b234fbc816df87acfc3df4f0_1bdc355ab1ade9bc87402fcdd290d98f.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://cdn.nativeremedies.com/media/css/0d20d2e34c6ddc368dbd5ecc33a7fe34_1366307245.css" media="all" />
 <![endif]-->
+
 <link rel="canonical" href="http://www.nativeremedies.com/privacy.shtml">
 <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.nativeremedies.com/privacy.shtml">
 
@@ -78,7 +82,7 @@ Mage.Cookies.domain   = '.nativeremedies.com';
 optionalZipCountries = [];
 //]]>
 </script>
-	<meta property="og:image" content="http://cdn.nativeremedies.com/skin/frontend/nr/main/images/logo_fb.jpg">
+<script type="text/javascript" src="//d3cxv97fi8q177.cloudfront.net/mediasource-A83662-da80-4395-baea-a42f746acf9a1-c-3345.js"></script><script type="text/javascript" src="//static.criteo.net/js/ld/ld.js" async="true"></script>	<meta property="og:image" content="http://cdn.nativeremedies.com/skin/frontend/nr/main/images/logo_fb.jpg">
 	<meta property="og:title" content="Native Remedies Privacy Policy">
 	<meta property="og:site_name" content="NativeRemedies">
 <!-- optimizely production -->
@@ -154,7 +158,8 @@ window.optimizely.push(['activateUniversalAnalytics']);
 
 
 ga('nr.send', 'pageview');
-</script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
+</script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
 <body class=" cms-page-view cms-privacy-shtml">
 
 <!-- BEGIN GOOGLE ANALYTICS CODE -->
@@ -210,7 +215,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             location.hash = "#ysmtac=ss&ysmchn=affiliate&ysmcpn=ss&ysmgrp="+gup('ss');
             
             _gaq.push(['_setAllowAnchor', true]); 
-            
+
             var AffTrue="SS:"+gup('ss');
         }
         if(gup('cj')!=""){
@@ -220,7 +225,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             var AffTrue="CJ:"+gup('cj');
         }
         if(gup('gan')!=""){
-            location.hash = "#ysmtac=gan&ysmchn=affiliate&ysmcpn=gan&ysmgrp="+gup('gan');
+            location.hash = "#utm_medium=gan&utm_source=affiliate&utm_campaign=gan&utm_content="+gup('gan');
             
             _gaq.push(['_setAllowAnchor', true]); 
             
@@ -230,22 +235,27 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         //checking for a gclid parameter, and if one exists customizing the campaign tracking keys
         if(gup('gclid')==""){
             //setting using traditional method the campaign keys
-            if (gup('utm_campaign')=="")
+            if (gup('utm_campaign')==""){
                 _gaq.push(['_setCampNameKey', 'ysmcpn']);
-                ga('nr.set','campaignName', 'ysmcpn');
-            if (gup('utm_source')=="")
+                //ga('nr.set','campaignName', "ysmcpn");
+            }
+            if (gup('utm_source')==""){
                 _gaq.push(['_setCampSourceKey', 'ysmchn']);
-                ga('nr.set','campaignSource', 'ysmchn');
-            if (gup('utm_medium')=="")
+               //ga('nr.set','campaignSource', 'ysmchn');
+            }
+            if (gup('utm_medium')==""){
                 _gaq.push(['_setCampMediumKey', 'ysmtac']);
-                ga('nr.set','campaignMedium', 'ysmtac');
-            if (gup('utm_term')=="")
+                //ga('nr.set','campaignMedium', 'ysmtac');
+            }
+            if (gup('utm_term')==""){
                 _gaq.push(['_setCampTermKey', 'ysmtrm']);
-                ga('nr.set','campaignKeyword', 'ysmtrm');
-            if (gup('utm_content')=="")
+                //ga('nr.set','campaignKeyword', 'ysmtrm');
+            }
+            if (gup('utm_content')==""){
                 _gaq.push(['_setCampContentKey', 'ysmgrp']);
-                ga('nr.set','campaignContent', 'ysmgrp');
-            
+                //ga('nr.set','campaignContent', 'ysmgrp');
+            }
+
         }
 
         //if the variable AffTrue has been set
@@ -381,10 +391,10 @@ jQuery(document).ready(function() {
 		<!-- logo -->
 		<a class="fn n url logo" rel="index" href="http://www.nativeremedies.com/">Native Remedies the natural choice</a>
 		<!-- text-block -->
-		<strong class="text-block">Order TOLL FREE 24/7&nbsp;&nbsp; <strong class="phone-number">1.800.683.1235</strong><br>
-International Customers&nbsp;&nbsp;<strong class="phone-number">1.561.999.8857</strong>
+		<strong class="text-block">Order TOLL FREE&nbsp;&nbsp;<strong class="phone-number">1.800.683.1235</strong><br>
+International Customers&nbsp;&nbsp;<strong class="phone-number">1.920.232.3075</strong>
 <span>One Year 100% Money Back Guarantee</span></strong>
-<div class="affiliate"></div>	</div>
+<div class="affiliate"></div>		<!--{AFFILIATE_VIEW_991ac2d4fd7cd88db49ae4d08a54ce88}--><!--/{AFFILIATE_VIEW_991ac2d4fd7cd88db49ae4d08a54ce88}-->		<!--{AFFILIATE_CREATION_318e6c8b38a8cf80b5d483a311e36771}--><!--/{AFFILIATE_CREATION_318e6c8b38a8cf80b5d483a311e36771}-->	</div>
 	<!-- JS disabled message -->
 	<noscript>
 		<div style="width: 95%; margin: 0 auto; background-color: yellow; color: red; font-size: 13px; font-weight: bold; border: 1px solid #000; height: 30px; line-height: 30px; text-align: center; margin-top: 5px; margin-bottom: 10px;">
@@ -451,6 +461,7 @@ International Customers&nbsp;&nbsp;<strong class="phone-number">1.561.999.8857</
 						<ul class="links-list">
 														<li id="shop-nav"><div class="shop-nav"><a href="http://www.nativeremedies.com/browse.html" style="color: #fff;">See All Products</a></div></li>
 
+														<li id="newp-nav"><div class="shop-nav"><a href="http://www.nativeremedies.com/newproducts.html" style="color: #fff;">New Products</a></div></li>
 							
 														<li><a href="http://www.nativeremedies.com/combopacks.html">ComboPacks</a></li>
 														<li><a href="http://www.nativeremedies.com/natural-remedies-bargains-discounts-and-specials.html">Top Bargains</a></li>
@@ -513,7 +524,7 @@ International Customers&nbsp;&nbsp;<strong class="phone-number">1.561.999.8857</
 </form>		<!-- header banner -->
 		<!--{WIDGET_ENTERPRISE_BANNER_dd141bc7e3fae2259272c30830f67857}--><div class="widget widget-banner-inline">
         <ul>
-            <li><a href="/newsletter.php"><img src="http://cdn.nativeremedies.com/media/wysiwyg/promobar/10-14_november-email-signup.jpg" alt="Email Signup"></a></li>
+            <li><a href="/browse.html"><img src="http://cdn.nativeremedies.com/media/wysiwyg/promobar/freeshipping-promobar-nr_1.jpg" alt=""></a>  </li>
             <li><script>
 	function trackPPCEvent(action, elem)
 	{
@@ -633,8 +644,164 @@ function isPPC() {
 </script></li>
         </ul>
 </div>
-<!--/{WIDGET_ENTERPRISE_BANNER_dd141bc7e3fae2259272c30830f67857}--><!--{WIDGET_ENTERPRISE_BANNER_186b02d05dd3fe1af19f0ece91631b12}--><div class="widget widget-banner-inline">
+<!--/{WIDGET_ENTERPRISE_BANNER_dd141bc7e3fae2259272c30830f67857}--><!--{WIDGET_ENTERPRISE_BANNER_8658cce1f943a3cd7109d31ff57f4b16}--><div class="widget widget-banner-inline">
         <ul>
+            <li><!-- BEGIN STYLESHEET FOR WEEKEND MODAL -->
+<style type="text/css">
+    .promotional-modal-container {
+        background: url(http://cdn.nativeremedies.com/media/wysiwyg/promotions/weekly-modal/weekend-modal-freeship-nr_1.jpg) no-repeat center !important;
+        cursor: pointer;
+        overflow: hidden !important;
+    }
+
+    .promotional-modal-close-container {
+        width: 75px;
+        height: 35px;
+        position: absolute;
+        right: 11px;
+        padding: 5px;
+        cursor: pointer;
+        z-index: 100;
+       margin-top: -4px;
+    }
+
+    .promotional-modal-button1 {
+        position:absolute;
+        width: 150px;
+        height: 33px;
+        margin-left: 358px;
+        margin-top: 217px;
+        cursor: pointer;
+    }
+
+    .promotional-modal-close-text {
+        float: right;
+        color: #000;
+        margin-right: 5px;
+    }
+
+    .promotional-modal-close-icon {
+        float: right;
+        color: #000;
+        margin-right: 10px;
+    }
+</style>
+<!-- END STYLESHEET FOR WEEKEND MODAL -->
+
+<!-- BEGIN WEEKEND MODAL JAVASCRIPT -->
+<script type="text/javascript">
+    //Variable section for Weekend Modal
+    var closeOnClickOutside = true;
+    var closeOnEscape = true;
+    var closingDialog = false;
+    var isMobile = (/iPhone|iPod|Android|BlackBerry/).test(navigator.userAgent);
+    var isCartPage = (window.location.pathname == '/checkout/cart/') || (window.location.pathname == '/petalive/checkout/cart/');
+    var isSuccessPage = ((window.location.pathname.indexOf('checkout/onepage/success') !== -1) || (window.location.pathname.indexOf('petalive/checkout/onepage/success') !== -1) || ((window.location.pathname.indexOf('checkout/success') !== -1) || (window.location.pathname.indexOf('petalive/checkout/success') !== -1)));
+    var isPa = window.location.pathname.indexOf('petalive');
+    var canDisplay = (
+        window.location.pathname.indexOf('ailment/') === -1 
+        && window.location.pathname.indexOf('articles/') === -1 
+        && window.location.pathname.indexOf('chantix-side-effects-quitting-smoking') === -1 
+        && window.location.pathname.indexOf('merck-singulair-allergy-suicide') === -1 
+        && window.location.pathname.indexOf('ingredients') === -1 
+        && window.location.pathname.indexOf('ailment-disease-list') === -1
+        && window.location.pathname.indexOf('newsletter') === -1
+    );
+
+    jQuery(document).ready(function()
+    {
+        if (jQuery.cookie('weekendModalUsed') !== '1' && jQuery.cookie('email_cap_used') !== '1' && isMobile == false && isCartPage == false && canDisplay === true)
+        {
+            //Select modal container and initiate Dialog
+            jQuery('.promotional-modal-container').dialog({
+                minHeight: 330,
+                maxHeight: 330,
+                minWidth: 620,
+                modal: true,
+                resizable: false,
+                draggable: false,
+                closeOnEscape: closeOnEscape,
+                open: function(event, ui)
+                {
+                    _gaq.push(['_trackEvent', 'WeekendModal', 'Shown', '', 0, true]); // Event tracking
+                    dataLayer.push({
+                        'eventCategory': 'WeekendModal',
+                        'eventAction': 'Shown',
+                        'eventLabel': '',
+                        'event': 'weekendModal'
+                    });
+                    jQuery('.promotional-modal-container').parent().children('.ui-dialog-titlebar').hide();
+                    jQuery('.promotional-modal-container').append(
+                        jQuery("<div />").addClass("promotional-modal-close-container").append(
+                            //jQuery("<div />").addClass("promotional-modal-close-icon").html('X'),
+                            //jQuery("<span />").addClass("promotional-modal-close-text").html('Close')
+                        ).click(function(e)
+                        {
+                            e.preventDefault();
+                            closingDialog = true;
+                            jQuery('.promotional-modal-container').dialog('close');
+                        })/*,
+                        jQuery("<div />").addClass("promotional-modal-button1").click(function()
+                        {
+                            jQuery('.promotional-modal-container').dialog('close');
+                            window.location.href="/browse.html";
+                        })*/
+                        /* UPDATE THE LINK IF THEY WANT IT TO GO ANYWHERE */
+                    ).click(function()
+                    {
+                        if (closingDialog == false){
+                            jQuery('.promotional-modal-container').dialog('close');
+                            window.location.href="/browse.html";
+                        }
+                    });
+                },
+                close: function(event, ui)
+                {
+                    jQuery.cookie('weekendModalUsed', 1, { expires: 4, path: '/' });
+                }
+            });
+
+            //yay, extra special javascript to detect clicks outside of modal!!!!!!
+            //So exciting!
+            jQuery(document).click(function(e) {
+                //We can monitor these right?
+                
+                //Get current X,Y of Dialog window
+                var modalPosition = jQuery('.promotional-modal-container').offset();
+                modalPosition.right = modalPosition.left + jQuery('.promotional-modal-container').outerWidth();
+                modalPosition.bottom = modalPosition.top + jQuery('.promotional-modal-container').outerHeight();
+
+                //e.clientX
+                //e.clientY
+
+                if (e.clientX <= modalPosition.right && e.clientX >= modalPosition.left
+                    && e.clientY <= modalPosition.bottom && e.clientY >= modalPosition.top)
+                {
+                    //Click was made INSIDE of Modal!
+                } else if (closeOnClickOutside == true) {
+                    //Click was NOT made inside of Modal!
+                    //We should close the modal then!!
+                    _gaq.push(['_trackEvent', 'WeekendModal', 'Closed', '', 0, true]); // Event tracking
+                    dataLayer.push({
+                        'eventCategory': 'WeekendModal',
+                        'eventAction': 'Closed',
+                        'eventLabel': '',
+                        'event': 'weekendModal'                        
+                    });
+                    jQuery('.promotional-modal-container').dialog('close');
+                }
+            });
+        }
+jQuery('.promotional-modal-close-container').click(function()
+{
+    jQuery(this).data('clicked', true);
+});
+    });
+</script>
+<!-- END WEEKEND MODAL JAVASCRIPT -->
+
+<div class="promotional-modal-container" style="display: none;">
+</div></li>
             <li><!-- BEGIN STYLESHEET FOR Coupon MODAL -->
 <style type="text/css">
     .promotional-modal-container2 {
@@ -792,7 +959,7 @@ jQuery('.promotional-modal-close-container2').click(function()
 </div></li>
         </ul>
 </div>
-<!--/{WIDGET_ENTERPRISE_BANNER_186b02d05dd3fe1af19f0ece91631b12}-->	</div>
+<!--/{WIDGET_ENTERPRISE_BANNER_8658cce1f943a3cd7109d31ff57f4b16}-->	</div>
 </header>		    <noscript>
         <div class="noscript">
             <div class="noscript-inner">
@@ -845,7 +1012,7 @@ jQuery('.promotional-modal-close-container2').click(function()
       <p>You can access all your personally identifiable   information that we collect online and maintain by accessing Your Account on any   page. You can correct factual errors in your personally identifiable information   by editing it online. To protect your privacy and security, we require that you   select a password, and then log on using that password to access or change your   information. </p>
       <h3>How To Contact Us  </h3>
     
-   <p> If you have any questions about our privacy policy, please contact us using <a href="/contact-us-form.html"><strong>email</strong></a> or  call customer service at +1.561.544.6006 Option 1.</p></div>									</div>
+   <p> If you have any questions about our privacy policy, please contact us using <a href="/contact-us-form.html"><strong>email</strong></a> or  call customer service at +1.800.683.1235 Option 1.</p></div>									</div>
 				<!-- sidebar -->
 				<aside id="sidebar">
 					<!--{RECENTLYCOMPARED_SIDEBAR_faac7af2834f76f49f47a5f7335f443d}--><!--/{RECENTLYCOMPARED_SIDEBAR_faac7af2834f76f49f47a5f7335f443d}--><!--{WISHLIST_d2f2eb87f3a9331472b2567cc4f92bd1}--><!--/{WISHLIST_d2f2eb87f3a9331472b2567cc4f92bd1}-->						<div class="box">
@@ -862,36 +1029,36 @@ jQuery('.promotional-modal-close-container2').click(function()
 	<!-- products-list -->
 	<ul class="products-list">
 		<li>
-			<a class="img-holder" href="http://www.nativeremedies.com/products/insulate-plus-maintain-normal-blood-sugar-levels.html">
-			<span><img src="http://cdn.nativeremedies.com/media/catalog/product/cache/1/small_image/20x52/9df78eab33525d08d6e5fb8d27136e95/i/n/ins001.jpg" width="20" height="52" alt="Insulate Plus™"></span>
+			<a class="img-holder" href="http://www.nativeremedies.com/products/allergiclear-supports-healthy-nasal-sinuses.html">
+			<span><img src="http://cdn.nativeremedies.com/media/catalog/product/cache/1/small_image/20x52/9df78eab33525d08d6e5fb8d27136e95/a/l/alc001_1.jpg" width="20" height="52" alt="AllergiClear™"></span>
 			</a>
 			<div class="description">
-			<strong class="title"><a href="http://www.nativeremedies.com/products/insulate-plus-maintain-normal-blood-sugar-levels.html">Insulate Plus™</a></strong>
-						<p>for Normal Blood Sugar Support</p>
-						<strong class="price">$32.95</strong>
-			<a href="http://www.nativeremedies.com/products/insulate-plus-maintain-normal-blood-sugar-levels.html" class="link">Learn More</a>
+			<strong class="title"><a href="http://www.nativeremedies.com/products/allergiclear-supports-healthy-nasal-sinuses.html">AllergiClear™</a></strong>
+						<p>Normal Histamine Levels</p>
+						<strong class="price">$25.95</strong>
+			<a href="http://www.nativeremedies.com/products/allergiclear-supports-healthy-nasal-sinuses.html" class="link">Learn More</a>
 			</div>
 		</li>
 		<li>
-			<a class="img-holder" href="http://www.nativeremedies.com/products/triple-complex-glucose-control-relieve-sugar-imbalances.html">
-			<span><img src="http://cdn.nativeremedies.com/media/catalog/product/cache/1/small_image/20x52/9df78eab33525d08d6e5fb8d27136e95/d/i/dia201_copy.jpg" width="20" height="52" alt="Triple Complex Glucose Control™"></span>
+			<a class="img-holder" href="http://www.nativeremedies.com/products/detox-drops-natural-liver-function-support.html">
+			<span><img src="http://cdn.nativeremedies.com/media/catalog/product/cache/1/small_image/20x52/9df78eab33525d08d6e5fb8d27136e95/d/e/det001_2.jpg" width="20" height="52" alt="Detox Drops™"></span>
 			</a>
 			<div class="description">
-			<strong class="title"><a href="http://www.nativeremedies.com/products/triple-complex-glucose-control-relieve-sugar-imbalances.html">Triple Complex Glucose Control™</a></strong>
-						<p>(previousy called Triple Complex Diabetonic) for Sugar Imbalances</p>
-						<strong class="price">$20.95</strong>
-			<a href="http://www.nativeremedies.com/products/triple-complex-glucose-control-relieve-sugar-imbalances.html" class="link">Learn More</a>
-			</div>
-		</li>
-		<li>
-			<a class="img-holder" href="http://www.nativeremedies.com/products/kiddie-florish-supports-healthy-childrens-appetites.html">
-			<span><img src="http://cdn.nativeremedies.com/media/catalog/product/cache/1/small_image/20x52/9df78eab33525d08d6e5fb8d27136e95/k/f/kfl001_copy.jpg" width="20" height="52" alt="Kiddie Florish™"></span>
-			</a>
-			<div class="description">
-			<strong class="title"><a href="http://www.nativeremedies.com/products/kiddie-florish-supports-healthy-childrens-appetites.html">Kiddie Florish™</a></strong>
-						<p>for Improved Appetite in Children</p>
+			<strong class="title"><a href="http://www.nativeremedies.com/products/detox-drops-natural-liver-function-support.html">Detox Drops™</a></strong>
+						<p>for Cleansing Support</p>
 						<strong class="price">$27.95</strong>
-			<a href="http://www.nativeremedies.com/products/kiddie-florish-supports-healthy-childrens-appetites.html" class="link">Learn More</a>
+			<a href="http://www.nativeremedies.com/products/detox-drops-natural-liver-function-support.html" class="link">Learn More</a>
+			</div>
+		</li>
+		<li>
+			<a class="img-holder" href="http://www.nativeremedies.com/products/triple-complex-digestion-tonic-gas-relief.html">
+			<span><img src="http://cdn.nativeremedies.com/media/catalog/product/cache/1/small_image/20x52/9df78eab33525d08d6e5fb8d27136e95/d/i/dig202.jpg" width="20" height="52" alt="Triple Complex Digestion Tonic™"></span>
+			</a>
+			<div class="description">
+			<strong class="title"><a href="http://www.nativeremedies.com/products/triple-complex-digestion-tonic-gas-relief.html">Triple Complex Digestion Tonic™</a></strong>
+						<p>for Digestive Support</p>
+						<strong class="price">$20.95</strong>
+			<a href="http://www.nativeremedies.com/products/triple-complex-digestion-tonic-gas-relief.html" class="link">Learn More</a>
 			</div>
 		</li>
 		<li>
@@ -899,29 +1066,9 @@ jQuery('.promotional-modal-close-container2').click(function()
 		</li>
 	</ul>
 </div>
-<!--{VIEWED_PRODUCTS_c386fec9ebc2ae388f64279d7a5573c6}--><div class="box">
-  <h3>Recently Viewed</h3>
-  <!-- products-list -->
-  <ul id="recently-viewed-items" class="products-list">
-            <li class="item">
-      <a class="img-holder" href="http://www.nativeremedies.com/products/queasex-anti-nausea-drops-for-upset-stomachs.html">
-        <span>
-          <img src="http://cdn.nativeremedies.com/media/catalog/product/cache/1/small_image/58x/9df78eab33525d08d6e5fb8d27136e95/q/a/qan001_copy.jpg" width="58" height="58" alt="QueaseX Anti Nausea Drops™">
-        </span>
-      </a>    
-      <div class="description">
-        <strong class="title"><a href="http://www.nativeremedies.com/products/queasex-anti-nausea-drops-for-upset-stomachs.html">QueaseX Anti Nausea Drops™</a></strong>
-                  <p>for Nausea, Vomiting &amp; Stomach Cramps</p>
-                <div class="price"><span class="price">$12.95</span></div>
-        <a href="http://www.nativeremedies.com/products/queasex-anti-nausea-drops-for-upset-stomachs.html" class="link">Learn More</a>
-      </div>
-    </li>
-      </ul>
-</div>  
-<script type="text/javascript">decorateList('recently-viewed-items');</script>
-<!--/{VIEWED_PRODUCTS_c386fec9ebc2ae388f64279d7a5573c6}--><div class="box">
+<!--{VIEWED_PRODUCTS_c386fec9ebc2ae388f64279d7a5573c6}--><!--/{VIEWED_PRODUCTS_c386fec9ebc2ae388f64279d7a5573c6}--><div class="box">
   <h3 class="form-heading">Sign Up &amp; Save!</h3>
-  <p>Get $5 OFF your order when you sign up for our email list!</p>
+  <p>Get $10 OFF your order when you sign up for our email list!</p>
   <!-- signup-form -->
   <form action="/cart/services/forms/newsletter" method="post" class="signup-form captcha-form" id="newsletter-sidebar-validate-detail">
     <fieldset>
@@ -1117,23 +1264,48 @@ jQuery(document).ready(function(){
 </div>
 </div><!-- footer banners -->
 <ul class="ad-list">
-  <li><img src="http://cdn.nativeremedies.com/skin/frontend/nr/main/images/banner2.gif" alt="image description" width="146" height="62"></li>
-  <li>
-    <!-- Start Shopping Rating -->
-    <a href="http://www.shopping.com/xMR-Native Remedies~MRD-307492~S-1" target="_blank"><img src="/images/sdc_rating_trusted_45.gif" alt="Read Our Store Reviews" width="150" border="0"></a>
-    <!-- End Shopping Rating -->
-  </li>
-  <li><a href="http://www.bbb.org/south-east-florida/business-reviews/information-bureaus/native-remedies-in-boca-raton-fl-31002086#sealclick" title="Click for the Business Review of Native Remedies LLC, an Information Bureaus in Boca Raton FL" target="_blank"><img alt="Click for the BBB Business Review of this Information Bureaus in Boca Raton FL" style="border: 0;" src="https://seal-Seflorida.bbb.org/seals/blue-seal-120-61-nativeremediesllc-31002086.png"></a></li>
-  <li><a href="http://www.safeshoppingnetwork.com/detail.cfm?lstid=11355" target="_blank"><img src="/images/design/ssn2.gif" alt="Tested for Safety"></a></li>
-  <li>
-    <!-- GeoTrust Smart Icon tag. Do not edit. -->
-    <script type="text/javascript" src="https://smarticon.geotrust.com/si.js"></script>
-    <!-- end GeoTrust Smart Icon tag -->
-  </li>
-</ul>
-<!-- footer text block -->
+    <!-- BBB -->
+    <li><a id="bbb-report-link" title="Click to verify BBB accreditation and to see a BBB report for Silver Star Brands, Inc." lang="31002086" href="http://www.bbb.org/wisconsin/business-reviews/internet-shopping/miles-kimball-company-in-oshkosh-wi-23001162/#bbbonlineclick" target="_blank"><img title="Click to verify BBB accreditation and to see a BBB report for Silver Star Brands, Inc." src="/images/design/bbb.jpg" border="0" alt="Click to verify BBB accreditation and to see a BBB report for Silver Star Brands, Inc." width="150" height="57"></a></li>
+    <!-- End BBB -->
+    <li>
+        <script type="text/javascript">
+            // <![CDATA[
+            function showPopup(url) {
+                newwindow = window.open(url, 'name', 'height=630,width=600,top=200,left=300,resizable');
+                if (window.focus) { newwindow.focus() }
+            }
+            // ]]></script>
+        <!-- McAfee Secure Trustmark for www.nativeremedies.com --> <a onclick="showPopup(this.href);return(false);" href="https://www2.mcafeesecure.com/verify?host=www.nativeremedies.com" target="_blank"><img class="mfes-trustmark" title="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" src="//cdn.ywxi.net/meter/www.nativeremedies.com/101.gif" border="0" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" width="125" height="55"></a> <!-- End McAfee Secure Trustmark -->
+    </li>
+    <li>
+        <!-- Begin DigiCert site seal HTML and JavaScript -->
+        <div id="DigiCertClickID_7LdTAp5c"><a href="https://www.digicert.com/ev-ssl-certificate.htm"></a></div>
+        <script type="text/javascript">
+            // <![CDATA[
+            var __dcid = __dcid || []; __dcid.push(["DigiCertClickID_7LdTAp5c", "10", "m", "black", "7LdTAp5c"]); (function () { var cid = document.createElement("script"); cid.async = true; cid.src = "//seal.digicert.com/seals/cascade/seal.min.js"; var s = document.getElementsByTagName("script"); var ls = s[(s.length - 1)]; ls.parentNode.insertBefore(cid, ls.nextSibling); }());
+            // ]]></script><script async="" src="//seal.digicert.com/seals/cascade/seal.min.js"></script>
+        <!-- End DigiCert site seal HTML and JavaScript -->
+    </li>
+    <li><img src="http://cdn.nativeremedies.com/skin/frontend/nr/main/images/banner2.gif" alt="We accept Visa, Mastercard, American Express, Discover and PayPal" width="146" height="62"></li>
+    <li><img class="guarantee-link" src="/skin/frontend/nr/petalive/images/img-12.jpg" alt="One year money back guarantee"></li>
+    <li>
+        <!-- BEGIN: Bizrate Medal (112x37 pixels) -->
+        <script type="text/javascript">
+            // <![CDATA[
+            var bizrate = { small: "true" };
+            // ]]></script>
+        <script src="//medals.bizrate.com/medals/js/87131_medal.js" type="text/javascript"></script>
+        <div style="position: relative; z-index: 1; width: 112px; height: 37px;"><a style="bottom: 0; right: 0; display: block; position: absolute; width: 50px; height: 16px; z-index: 2; text-decoration: none; background: #fff; filter: alpha(opacity=0); opacity: 0;" title="Bizrate" href="//www.bizrate.com/?rf=sur" target="_blank"></a> <a class="br-button" title="See Native Remedies Reviews at Bizrate.com" href="//www.bizrate.com/ratings_guide/merchant_detail__mid--87131.html?rf=sur" target="_blank"> <img src="//medals.bizrate.com/medals/dynamic/small/87131_medal.gif" border="0" alt="See Native Remedies Reviews at Bizrate.com" width="112" height="37"> </a></div>
+        <!-- END: Bizrate Medal (112x37 pixels) -->
+    </li>
+</ul><!-- footer text block -->
 <div class="block">
-<p>All images on this site are property of Native Remedies LLC and/or the original image licensors. The content of these images is not meant to suggest that the person depicted uses or endorses our products or services. Informational material and representations have been provided by the manufacturers of the listed products. Copyright © 1997-2014 <a href="#">Native Remedies</a>, LLC. All rights reserved.</p>
+<p>All images on this site are property of
+Silver Star Brands, Inc. and/or the original image licensors. The content of
+these images is not meant to suggest that the person depicted uses or
+endorses our products or services. Informational material and
+representations have been provided by the manufacturers of the listed
+products. All rights reserved. Copyright © 1997-2015  Silver Star Brands, Inc.</p>
 </div><!-- Removed codes - put in criteo.phtml -->
 <!-- CrazyEgg -->
 	<script type="text/javascript">
@@ -1174,7 +1346,8 @@ jQuery(document).ready(function(){
 </footer>
 <div id="loading-mask" style="display:none">
     <p class="loader" id="loading_mask_loader"><img src="http://cdn.nativeremedies.com/skin/frontend/nr/main/images/ajax-loader-tr.gif" alt="Loading..."><br>Please wait...</p>
-</div>	</div>
+</div>
+<script type="text/javascript">_satellite.pageBottom();</script>	</div>
 </div>
 <script>
 	window.fbAsyncInit = function() {
@@ -1202,8 +1375,23 @@ jQuery(document).ready(function(){
 _gaq.push(['_trackPageview']);
 
 
+</script><!-- BEGIN MERCENT TRACKING CODE -->
+<script type="text/javascript">
+//<![CDATA[
+var maJsHost = (("https:" == document.location.protocol) ? "https://cdn." : "http://cdn.");
+document.write(unescape("%3Cscript src='" + maJsHost + "mercent.com/js/tracker.js' type='text/javascript'%3E%3C/script%3E"));
+//]]>
+</script><script src="https://cdn.mercent.com/js/tracker.js" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+<!--
+mr_merchantID  = "NativeRemedies";
+mr_cookieDomain  = ".nativeremedies.com";
+mr_Track();
+// -->
 </script>
-<!--{WIDGET_ENTERPRISE_BANNER_30903de9e29f5409398de873a0ab4195}--><div class="widget widget-banner-inline">
+		<!-- END MERCENT TRACKING CODE --><!--{WIDGET_ENTERPRISE_BANNER_30903de9e29f5409398de873a0ab4195}--><div class="widget widget-banner-inline">
         <ul>
             <li><script type="text/javascript">
 	jQuery(document).ready(function()
@@ -1243,16 +1431,16 @@ _gaq.push(['_trackPageview']);
 }
 </style>
 <div id="tower-ad" style="display: none !important;" class="nrTowerBanner">
-<a href="http://www.nativeremedies.com/browse.html?form=197" onclick="_gaq.push(['_trackEvent', 'tower-banner-click', 'first-time-visitor']);">
-<img src="http://cdn.nativeremedies.com/media/wysiwyg/banners/tower/10-14-october-tower-tea-v3.jpg" alt="Teas" width="100" height="440">
+<a href="/weight-management-1.html" onclick="_gaq.push(['_trackEvent', 'tower-banner-click', 'first-time-visitor']);">
+<img src="http://cdn.nativeremedies.com/media/wysiwyg/banners/tower/ShapeUpTowerBannerNR.gif" alt="Shape Up" width="100" height="440">
 </a>
 </div>
 <div id="tower-ad-repeat" style="display: none !important;" class="nrTowerBanner">
-<a href="http://www.nativeremedies.com/browse.html?form=197" onclick="_gaq.push(['_trackEvent', 'tower-banner-click', 'repeat-visitor']);">
-<img src="http://cdn.nativeremedies.com/media/wysiwyg/banners/tower/10-14-october-tower-tea-v3.jpg" alt="Teas" width="100" height="440">
+<a href="/weight-management-1.html" onclick="_gaq.push(['_trackEvent', 'tower-banner-click', 'repeat-visitor']);">
+<img src="http://cdn.nativeremedies.com/media/wysiwyg/banners/tower/ShapeUpTowerBannerNR.gif" alt="Shape Up" width="100" height="440">
 </a>
 </div></li>
         </ul>
 </div>
-<!--/{WIDGET_ENTERPRISE_BANNER_30903de9e29f5409398de873a0ab4195}--><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"12a205cbf9","applicationID":"1903458","transactionName":"M1wGY0UDXBdVV0IIDQoWJVRDC10KG1dbEk0UWANSGBRbAUM=","queueTime":0,"applicationTime":932,"atts":"HxsFFQ0ZTxk=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+<!--/{WIDGET_ENTERPRISE_BANNER_30903de9e29f5409398de873a0ab4195}-->
+</body></html>
