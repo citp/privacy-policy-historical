@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelaw.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120180651id_/http%3A//www.thelaw.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelaw.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185713id_/http%3A//www.thelaw.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TheLaw.com
 
@@ -44,4 +44,4 @@ We may make changes to this Policy from time to time. Please make sure that you 
 
 ### 7\. Contact Information
 
-If you have any questions about this Policy or our web site, please feel free to contact us as provided on this web site and our Support Center.
+If you have any questions about this Policy or our web site, please feel free to contact us as provided on this web site and our Support Center. 
