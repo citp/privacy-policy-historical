@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the govx.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122161045id_/http%3A//www.govx.com/t/privacyinfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govx.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607143443id_/http%3A//www.govx.com/t/privacyinfo) for the most accurate reproduction.*
 
-# Government & Military Discount | GovX | GovX | PrivacyPage-GovxResponsive
+# GovX - Privacy Notice
 
 #### Last Revised: January 16, 2014
 
