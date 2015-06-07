@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdspring.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221210105id_/http%3A//www.crowdspring.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdspring.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607194015id_/http%3A//www.crowdspring.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | crowdSPRING | crowdSPRING
 
@@ -135,7 +135,7 @@ We may amend this Privacy Policy at any time by posting the amended terms on thi
 
 crowdSPRING, LLC.  
 Attn: Legal Department – Privacy Policy  
-1200 W. Lake Street  
+805 W. Randolph Street  
 Chicago Illinois 60607 
 
 or email us: [http://www.crowdspring.com/contact-us](https://web.archive.org/contact-us). 
