@@ -1,12 +1,13 @@
-<!--The following is the downloaded HTML source of the nintendo.com.au privacy policy that was archived on 2014-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141123092130id_/http%3A//www.nintendo.com.au/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nintendo.com.au privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607080705id_/http%3A//www.nintendo.com.au/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="cufon-active cufon-ready"><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NL5F57"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcCVV5RGwIIUVRQBgM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
-	<meta http-equiv="imagetoolbar" content="false">
-	<meta name="copyright" content="Copyright © 2013 Nintendo Australia">
-	<meta name="location" content="Australia">
-		
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NL5F57"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcCVV5RGwIIUVRQBgM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+		<meta http-equiv="imagetoolbar" content="false">
+		<meta name="copyright" content="Copyright © 2015 Nintendo Australia">
+		<meta name="location" content="Australia">
+
+
 	<title>
 		Privacy - 
 	 
@@ -20,7 +21,17 @@
 
 	
 	<link rel="shortcut icon" href="/template_images/favicon.ico" type="image/x-icon">
+
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.nintendo.com.au/apple-touch-icon-144x144.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://www.nintendo.com.au/apple-touch-icon-152x152.png">
+	<meta name="application-name" content="Nintendo">
+	<meta name="msapplication-TileColor" content="#FFFFFF">
+	<meta name="msapplication-TileImage" content="http://www.nintendo.com.au/mstile-144x144.png">
+
+
 	<link href="/templates/css/nintendo.css?20140815" media="screen" rel="stylesheet" type="text/css">
+
+
 		<!--[if IE 7]> 
 	<link href="/templates/nintendo-ie7.css" media="screen" rel="stylesheet" type="text/css" />
 	<![endif]-->
@@ -31,30 +42,20 @@
 	    window.jQuery || document.write('<script type="text/javascript" src="/templates/script/jquery-1.9.1.min.js"><\/script>');
 	    // ]]>
 	</script><script type="text/javascript" src="/templates/script/jquery-1.9.1.min.js"></script>
-		<script type="text/javascript" src="/templates/scripts/jquery-migrate-1.1.1.min.js"></script>
 	
-	
-	
-	
-							
+	<script type="text/javascript" src="/templates/scripts/jquery-migrate-1.1.1.min.js"></script>
 
 	
 	
+	<!--Gamepages with custom tabs-->
+											
+
+	
+	
+	
+
 	
 		
-
-	
-	<script src="/templates/cufon-yui.js" type="text/javascript"></script><style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style>
-	<script src="/templates/Arial-Rounded_400.font.js" type="text/javascript"></script>
-
-	<script type="text/javascript">
-        Cufon.replace('#wifi-connection h1, #wifi-connection h3, #wifi-connection  .wii-cta p, .popup-menu li a, .popup-content .popup-right h2');
-        Cufon.replace('#global_nav a',{hover: {color: '#27BCEC'}});
-        Cufon.replace('h2.cufon');
-        Cufon.replace('h1.cufon');
-        Cufon.replace('.cufon-font',{hover:true});
-        Cufon.replace('.page_main_column h2.comp_title');   
-	</script>
 
 		
 	
@@ -77,8 +78,6 @@
 	
 	
 	    
-	
-		    <!--  sub page takeover code -->
 	
 	<link rel="stylesheet" type="text/css" href="/templates/css/carousel-skin.css?20121114">
 	<script type="text/javascript">
@@ -130,30 +129,18 @@
 		'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 		})(window,document,'script','dataLayer','GTM-NL5F57');</script>
 		<!-- End Google Tag Manager -->
-		<!-- index.html: end header -->
-            <!-- index.html: start menu --><div id="outerwrapper" class=""> 
+		
+
+<!-- index.html: end header -->
+            <!-- index.html: start menu --><div id="outerwrapper"> 
     <div id="innerwrapper">    <a name="top"></a>
 
         <div class="navwrapper">
             <div id="nav-toolbar">
-                <ul>
-                   
+                <ul>                 
                                             <li><a href="/login#reg-member-register">Sign up</a></li>
                         <li><a href="/login#reg-member-login">Members Log in</a></li>
-                                        <li class="tb-search"><a href="#">Search</a></li>
-                </ul>
-                <div class="search-div-wrapper">
-                    <div class="search-box-wrapper">
-                        <div class="search-box">
-                            <form action="/index.php" method="get" name="search">
-                                <input type="hidden" name="action" value="sitesearch">
-                                <input type="hidden" name="si" value="2">
-                                <input class="search-input" type="text" name="q" size="20" value="I'm looking for...">
-                                <input class="search-submit" type="submit" value="GO">
-                            </form>
-                        </div>
-                    </div>
-                </div>
+                                    </ul>            
             </div>
             <div id="nav-main">
                 <ul class="sf-menu">
@@ -165,45 +152,21 @@
                                 <li class=""><a href="/wii-u-hardware-features">Hardware Features</a></li>
                                 <li class=""><a href="/wii-u-system-software">System Software</a></li>
                                 <li class=""><a href="/wii-u-featured-games">Games</a></li>
-                                <li class=""><a href="/wii-u-download-content">Download Content</a></li>
-                                
+                                <li class=""><a href="/wii-u-download-content">Download Content</a></li> 
                                 <li class=""><a href="/wii-u-buy-now">Buy Now</a></li>
                                 <li class=""><a href="/wii-u-try-it-now">Try It Now</a></li>
                             </ul>
                         </div>
                     </li>
-                    <li class=""><a href="/wii">Wii</a>
+                    <li class=""><a href="/nintendo-3ds-new">Nintendo 3DS</a>
                         <div class="sf-sub">
                             <ul>
-                                <li class="wii-home"><a href="/wii">Wii</a></li>
-                                <li class=""><a href="/wii-system">Console</a></li>
-                                <li><a href="/catalogue/wii-games/">Games</a></li>
-                                <li><a href="/support/help/wii-setup/">Setup</a></li>
-                                <li><a href="/hardware-warranty">Service</a></li>
-                            </ul>
-                        </div>
-                    </li>
-                    <li class=""><a href="/nintendo-3ds">Nintendo 3DS</a>
-                        <div class="sf-sub">
-                            <ul>
-                                <li class="n3ds-home"><a href="/nintendo-3ds">Nintendo 3DS</a></li>
-                                <li class=""><a href="/nintendo-2ds">Nintendo 2DS</a></li>
-                                <li class=""><a href="/nintendo-3ds-guided-tour">Guided Tour</a></li>
-                                <li class=""><a href="/nintendo-3ds-featured-games">Games</a></li>
-                                <li class=""><a href="/nintendo-3ds-features">Features</a></li>
-                                <li class=""><a href="/nintendo-3ds-instant-software">Instant Software</a></li>
-                                <li class=""><a href="/nintendo-3ds-download-content">Download Content</a></li>
-                                <li class=""><a href="/nintendo-3ds-try-it-now">Try It Now</a></li>
-                            </ul>
-                        </div>
-                    </li>
-                    <li class=""><a href="/nintendo-ds">Nintendo DS</a>
-                        <div class="sf-sub">
-                            <ul>
-                                <li class="nds-home"><a href="/nintendo-ds">Nintendo DS</a></li>
-                                <li class=""><a href="/nintendo-ds-system">System</a></li>
-                                <li><a href="/catalogue/nintendo-ds-games/">Games</a></li>
-                                <li><a href="/hardware-warranty">Service</a></li>
+                                <li class="n3ds-home"><a href="/nintendo-3ds-new">Nintendo 3DS</a></li>
+                                <li class=" scroll-to-content"><a href="/main">Main</a></li>
+                                <li class=""><a href="/features">Features</a></li>
+                                <li class=""><a href="/new-nintendo-3ds-games">Games</a></li>   
+                                <li class=""><a href="/eshop">eshop</a></li>
+                                <li class=""><a href="/try-it-now">Try It Now</a></li>
                             </ul>
                         </div>
                     </li>
@@ -212,9 +175,7 @@
                             <ul>
                                 <li class="games-home"><a href="#"></a></li>
                                 <li class=""><a href="/catalogue/wii-u-games/">Wii U</a></li>
-                                <li class=""><a href="/catalogue/wii-games/">Wii</a></li>
                                 <li class=""><a href="/catalogue/nintendo-3ds-games/">Nintendo 3DS</a></li>
-                                <li class=""><a href="/catalogue/nintendo-ds-games/">Nintendo DS</a></li>
                                 <li class=""><a href="/catalogue/eshop/">Nintendo eShop</a></li>
                                 <li class=""><a href="/catalogue/wiiware/">WiiWare</a></li>
                                 <li class=""><a href="/catalogue/virtual-console/">Virtual Console</a></li>
@@ -236,8 +197,19 @@
                             </ul>
                         </div>
                     </li>
-                    <li class="sf-nintendo-eshop"><a href="/nintendo-3ds-eshop">eShop</a></li>
                 </ul>
+                <div class="search-div-wrapper search-on">
+                    <div class="search-box-wrapper" style="display:block;">
+                        <div class="search-box">
+                            <form action="/index.php" method="get" name="search">
+                                <input type="hidden" name="action" value="sitesearch">
+                                <input type="hidden" name="si" value="2">
+                                <input class="search-input" type="text" name="q" size="20" value="I'm looking for...">
+                                <input class="search-submit" type="submit" value="GO">
+                            </form>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div><!-- index.html: end menu -->
              
@@ -257,18 +229,11 @@
  
 
 
-
-<!-- 
-path details 
-$path[1].id: 10
-$path|@count: 3
-$nin_banner: 10_subheader.html
-//-->
-
     <div>
     <!-- Banner starts - 10--> 
         <div class="relative">
-                                    <div class="banner_default"><img src="/template_images/29_banner.jpg" alt="Banner" width="990" height="205"></div>
+                                    
+                <div class="banner_default"><img src="/template_images/29_banner.jpg" alt="Banner" width="990" height="205"></div>
                                      
     </div>
         
@@ -282,9 +247,9 @@ $nin_banner: 10_subheader.html
                         <div class="subsection_columns_holder">
                             <div class="page_main_column">
                                 <h1 class="subsection_title">Nintendo Australia Privacy Policy - Website</h1>
-                                                                                        <!-- submenu menu items start  -->
+                                                                                            <!-- submenu menu items start  -->
                             
-                                   	        
+                                   	            
                                                                     <h1 class="subsection_title">
 	&nbsp;</h1>
 <div class="main_column_left">
@@ -420,47 +385,16 @@ $nin_banner: 10_subheader.html
                     	
                     	
                     	
+                    	
                                             <!-- submenu menu items start  -->
                                                                                                        			                    	
+                    	
                     		
                                     </div>
                                                             </div>
                
                                          
 <div class="page_sub_column">
-<div class="promo_holder">
-  <div class="promo">
-    <div class="promo_image" style="background-image: url('/web_images/promotions/34/Newsletter-1.jpg');">
-      <div class="promo_tag_news"><a href="http://www.nintendo.com.au/index.php?pageID=58&amp;action=register&amp;sectionID=7">&nbsp;</a></div>
-    </div>
-    <div class="promo_title"><a href="http://www.nintendo.com.au/index.php?pageID=58&amp;action=register&amp;sectionID=7">Nintendo Members Newsletter</a></div>
-
-    <p>Click here and sign up to our Newsletter to find out first about Nintendo news, competitions, upcoming events, releases and more! Sign up now to enter members only competitions and to recieve the latest news via newsletters.</p>
-    <p><a href="http://www.nintendo.com.au/index.php?pageID=58&amp;action=register&amp;sectionID=7">Click here to sign up to Nintendo Members newsletter...</a></p>
-  </div>
-</div>
-<div class="promo_holder">
-  <div class="promo">
-    <div class="promo_image" style="background-image: url('/web_images/promotions/16/promo_static_news_02.jpg');">
-      <div class="promo_tag_news"><a href="http://www.nintendo.com.au/index.php?pageID=6&amp;action=news&amp;sectionID=1">&nbsp;</a></div>
-    </div>
-    <div class="promo_title"><a href="http://www.nintendo.com.au/index.php?pageID=6&amp;action=news&amp;sectionID=1">Latest News From Nintendo Australia</a></div>
-
-    <p>Check out the latest news, information, events, game releases and competitions from Nintendo Australia. </p>
-    <p><a href="http://www.nintendo.com.au/index.php?pageID=6&amp;action=news&amp;sectionID=1">Click here for the latest news</a></p>
-  </div>
-</div>
-<div class="promo_holder">
-  <div class="promo">
-    <div class="promo_image" style="background-image: url('/web_images/promotions/17/Latest-Games-1.jpg');">
-      <div class="promo_tag_outnow"><a href="/catalogue/nintendo-games/">&nbsp;</a></div>
-    </div>
-    <div class="promo_title"><a href="/catalogue/nintendo-games/">Latest Games for Wii U and Nintendo 3DS!</a></div>
-
-    <p>Looking for your favourite game or new releases - search the Nintendo.com.au games section for the latest games on the Wii, Nintendo DS and Nintendo 3DS!</p>
-    <p><a href="/catalogue/nintendo-games/">Click here for the latest news</a></p>
-  </div>
-</div>
 </div>
 
                                         <div class="spacer"></div>
@@ -486,7 +420,7 @@ $nin_banner: 10_subheader.html
 
 <div class="social-link-popup modal" id="facebook-link-popup">
 	<div class="modal-wrapper">
-		<h2 class="social-link-popup-header cufon-font"><cufon class="cufon cufon-canvas" alt="Facebook" style="width: 88px; height: 18px;"><canvas width="98" height="19" style="width: 98px; height: 19px; top: 0px; left: -1px;"></canvas><cufontext>Facebook</cufontext></cufon></h2>
+		<h2 class="social-link-popup-header">Facebook</h2>
 		<img src="/template_images/footer/fb-logo.png">
 		<div class="social-link-popup-links">
 			<a href="http://www.facebook.com/NintendoAUNZ" title="Visit our Nintendo Facebook page" target="_blank" data-track-cat="Generic main site social icons" data-track-action="Click on links of social icons in footer" data-track-opt="Facebook Link">Visit our Nintendo Facebook page &gt;</a>
@@ -497,7 +431,7 @@ $nin_banner: 10_subheader.html
 </div>
 <div class="social-link-popup modal" id="twitter-link-popup">
 	<div class="modal-wrapper">
-		<h2 class="social-link-popup-header cufon-font"><cufon class="cufon cufon-canvas" alt="Twitter" style="width: 63px; height: 18px;"><canvas width="76" height="19" style="width: 76px; height: 19px; top: 0px; left: -1px;"></canvas><cufontext>Twitter</cufontext></cufon></h2>
+		<h2 class="social-link-popup-header">Twitter</h2>
 		<img src="/template_images/footer/twitter-logo.png">
 		<div class="social-link-popup-links">
 			<a href="https://twitter.com/NintendoAUNZ" title="Follow @NintendoAUNZ on Twitter" target="_blank" data-track-cat="Generic main site social icons" data-track-action="Click on links of social icons in footer" data-track-opt="Twitter Link">Follow @NintendoAUNZ on Twitter &gt;</a>
@@ -508,7 +442,7 @@ $nin_banner: 10_subheader.html
 </div>
 <div class="social-link-popup modal" id="youtube-link-popup">
 	<div class="modal-wrapper">
-		<h2 class="social-link-popup-header cufon-font"><cufon class="cufon cufon-canvas" alt="YouTube" style="width: 77px; height: 18px;"><canvas width="87" height="19" style="width: 87px; height: 19px; top: 0px; left: -1px;"></canvas><cufontext>YouTube</cufontext></cufon></h2>
+		<h2 class="social-link-popup-header">YouTube</h2>
 		<img src="/template_images/footer/youtube-logo.png">
 		<div class="social-link-popup-links">
 			<a href="http://www.youtube.com/user/NintendoAU" title="Join NintendoAU on YouTube" target="_blank" data-track-cat="Generic main site social icons" data-track-action="Click on links of social icons in footer" data-track-opt="Youtube Link">Join NintendoAU on YouTube &gt;</a>
@@ -544,6 +478,7 @@ $nin_banner: 10_subheader.html
             <ul>
                 <li><a href="/nintendo-wi-fi-connection">Wi-Fi connection</a></li>
                 <li><a href="http://www.wii.com">Wii</a></li>
+                <li><a href="http://www.nintendo.com.au/new-nintendo-3ds/index.html">New Nintendo 3DS XL</a></li>
                 <li><a href="http://www.nintendo3ds.com.au/">Nintendo 3DS</a></li>
                 <li><a href="http://gamesites.nintendo.com.au/DSi/">Nintendo DSi</a></li>
                 <li><a href="/nintendodirect/">Nintendo Direct</a></li>
@@ -554,10 +489,13 @@ $nin_banner: 10_subheader.html
             <ul>
                 <li><a href="/wiiu">Wii U</a></li>
                 <li><a href="/wii">Wii</a></li>
+                <li><a href="/hardware-new-nintendo-3ds-xl">New Nintendo 3DS XL</a></li>
+                <li><a href="/hardware-new-nintendo-3ds">New Nintendo 3DS</a></li>
+                <li><a href="/hardware-nintendo-2ds">Nintendo 2DS</a></li>
                 <li><a href="http://www.nintendo3ds.com.au">Nintendo 3DS XL</a></li>
                 <li><a href="/nintendo-3ds">Nintendo 3DS</a></li>
                 <li><a href="http://dslite.nintendo.com.au/">Nintendo DSi</a></li>
-                <li><a href="/nintendo-ds-system-system">Nintendo DS</a></li>
+                <li><a href="/nintendo-ds">Nintendo DS</a></li>
                 <li><a href="http://gamesites.nintendo.com.au/nintendo-dsi-xl/">Nintendo DSi XL </a></li>
                 <li><a href="/classic-systems">Classic systems</a></li>
             </ul>
@@ -577,9 +515,7 @@ $nin_banner: 10_subheader.html
           </div>
           <div class="footer_list_ctas">
             <ul>
-                <li class="fli_preorder">
-                
-                  
+                <li class="fli_preorder"> 
                     
                     <a rel="footer:buy-now" href="/retailers" title="Buy now" id="logo-footer-buy">
                                     Pre-order or Buy now
@@ -603,7 +539,7 @@ $nin_banner: 10_subheader.html
           <li><a href="/contact">Contact Us</a>&nbsp;&nbsp;|</li>
           <li><a href="/sitemap">Site Map</a></li>
         </ul>
-        <div class="copyright">© 2014
+        <div class="copyright">© 2015
  Nintendo Australia. Games are property of their respective owners. 
             <div class="spacer"></div>
         </div>
@@ -612,8 +548,8 @@ $nin_banner: 10_subheader.html
 
 </div></div>
 <div class="modal" id="modal-link">
-    <div class="modal-wrapper">
-        <h2 class="cufon-font"><cufon class="cufon cufon-canvas" alt="Now " style="width: 45px; height: 18px;"><canvas width="61" height="19" style="width: 61px; height: 19px; top: 0px; left: -1px;"></canvas><cufontext>Now </cufontext></cufon><cufon class="cufon cufon-canvas" alt="leaving " style="width: 69px; height: 18px;"><canvas width="85" height="19" style="width: 85px; height: 19px; top: 0px; left: -1px;"></canvas><cufontext>leaving </cufontext></cufon><cufon class="cufon cufon-canvas" alt="nintendo.com.au" style="width: 150px; height: 18px;"><canvas width="160" height="19" style="width: 160px; height: 19px; top: 0px; left: -1px;"></canvas><cufontext>nintendo.com.au</cufontext></cufon></h2>
+    <div class="modal-wrapper leaving-nintendo">
+        <h2>Now leaving nintendo.com.au</h2>
         <p id="message"></p>
         <ul>
             <li class="md-close"><a href="#">Return to Nintendo.com.au</a></li>
@@ -632,8 +568,10 @@ $nin_banner: 10_subheader.html
 
 <script type="text/javascript" src="/templates/js/jquery.ui.widget.js?v20131009"></script>
 <script type="text/javascript" src="/templates/js/plugins.js?v20131009"></script>
-<script type="text/javascript" src="/templates/js/nintendo_ui_2013.js?v20140313"></script>
+<script type="text/javascript" src="/templates/js/nintendo_ui_2013.js?1433664424"></script>
 <script type="text/javascript" src="/templates/flash/flowplayer/flowplayer-3.2.6.min.js"></script>
+
+
 
 <script type="text/javascript">
     
@@ -663,7 +601,7 @@ $nin_banner: 10_subheader.html
 
 <!--END FOOTER -->
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"24fe916fc1","applicationID":"1855212,1855213,4615264","transactionName":"NlxRNktYXBEABRBRXw8WcBdKTV0PTgULSlUFV1JNW1VdAQpJFEpfDFZHC1ZXQU0GAxBIQg5UXBZQVlwR","queueTime":0,"applicationTime":94,"atts":"GhtSQANCTx8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"24fe916fc1","applicationID":"1855212,1855213,4615264","transactionName":"NlxRNktYXBEABRBRXw8WcBdKTV0PTgULSlUFV1JNW1VdAQpJFEpfDFZHC1ZXQU0GAxBIQg5UXBZQVlwR","queueTime":0,"applicationTime":30,"atts":"GhtGQANCT05DB0YCSxxE","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
 
 
-            <script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+            </body></html>
