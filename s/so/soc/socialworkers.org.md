@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialworkers.org privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209205446id_/http%3A//socialworkers.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialworkers.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607201036id_/http%3A//www.socialworkers.org/privacy.asp) for the most accurate reproduction.*
 
 # NASW Privacy Policy
 
@@ -29,7 +29,7 @@ To maintain our quality of service, we may also gather additional data on connec
 In addition to required member information, we may conduct surveys and ask users to volunteer demographic information to be used on an aggregate basis for internal member research. We use such information to better focus and personalize our service offered to each individual user. 
 
 **COOKIES:**  
-A cookie is a piece of data stored on the user’s computer tied to information about the user. We use both session ID cookies and persistent cookies. To learn more about cookies, you can read what the US Department of Energy has to say. 
+A cookie is a piece of data stored on the user’s computer tied to information about the user. We use both session ID cookies and persistent cookies.
 
 By setting a cookie on our site, users would not have to log in a password more than once per session, thereby saving time while on our site. If users reject the cookie, they may still use our site. However, they will be limited in the use of certain areas of the website – like areas that require user logon. 
 
@@ -38,9 +38,9 @@ We also collect aggregate traffic statistics throughout our site to show the num
 
 ##### With whom does NASW share my member information?
 
-The National Office does not release information about a member other than to confirm her/ his status as a member of the Association in response to general public requests. In the context of approved Association business such as identification of members for leadership positions or public affairs or for established business partners such as the NASW Insurance Trust or affinity relations like MBNA, specific identifying information is provided in order to permit contact. 
+The National Office does not release information about a member other than to confirm her/ his status as a member of the Association in response to general public requests. In the context of approved Association business such as identification of members for leadership positions or public affairs or for established business partners such as the NASW Assurance Services, Inc. and Infocus Marketing, or affinity partners such as Commerce Bank, specific identifying information is provided in order to permit contact. 
 
-The National Office offers for rent, membership labels for one-time use to organizations promoting professional materials or training related to the field of Social Work and to individuals performing research specific to the profession of Social Work. Members have the right to have their name excluded from rental lists by contacting the Office of Membership Services at the National Office and requesting exclusion. This can be done in writing through e-mail to [membership@naswdc.org](mailto:membership@naswdc.org). 
+The National Office occasionally makes membership postal and/or email addresses available for a one-time use rental to screened and vetted third party organizations offering products and/or services promoting professional materials or training related to the field of Social Work and to individuals performing research specific to the profession of Social Work. Email addresses are not released to any third party except contracted service providers who act on behalf of NASW. Members have the right to have their name excluded from rental lists by contacting the Office of Membership Services at the National Office and requesting exclusion. This can be done in writing through e-mail to [membership@naswdc.org](mailto:membership@naswdc.org). 
 
 NASW is not able to control the practices of external websites and organizations that we may provide links to. If you have questions, about how such organizations use the information gathered when you link to their sites please read their privacy policies. 
 
