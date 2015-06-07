@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the hwdmediashare.co.uk privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625041623id_/http%3A//hwdmediashare.co.uk/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hwdmediashare.co.uk privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607071603id_/http%3A//hwdmediashare.co.uk/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
   <base href="http://hwdmediashare.co.uk/privacy">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="keywords" content="Joomla video gallery, Joomla photo gallery, video players, joomla jwplayer, audio players">
@@ -9,48 +9,82 @@
   <meta name="author" content="Dave Horsfall">
   <meta name="description" content="Joomla video gallery and Joomla photo gallery software development for media apps, including JW Player and Flow Player">
   <meta name="generator" content="Joomla! - Open Source Content Management">
-  <title>Privacy policy</title>
-  <link href="http://hwdmediashare.co.uk/privacy" rel="canonical">
-  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css">
-  <link rel="stylesheet" href="http://hwdmediashare.co.uk/modules/mod_hwdsocial/css/social.css" type="text/css">
-  <link rel="stylesheet" href="http://hwdmediashare.co.uk/modules/mod_jb_twitterfeed//css/default.css" type="text/css">
-  <link rel="stylesheet" href="http://hwdmediashare.co.uk/modules/mod_hwdmailchimp/css/hwd.css" type="text/css">
+  <title>Privacy Policy</title>
+  <link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+  <link rel="stylesheet" href="/media/com_hwdmediashare/assets/css/hwd.css" type="text/css">
+  <link rel="stylesheet" href="/media/com_hwdmediashare/assets/css/lite.css" type="text/css">
+  <link rel="stylesheet" href="/media/com_hwdmediashare/assets/css/joomla.css" type="text/css">
+  <link rel="stylesheet" href="/media/com_hwdmediashare/assets/css/aspect.css" type="text/css">
+  <link rel="stylesheet" href="http://hwdmediashare.co.uk/plugins/content/hwdflowplayer/assets/flowplayer/skin/functional.css" type="text/css">
+  <link rel="stylesheet" href="/media/jui/css/bootstrap.css" type="text/css">
+  <link rel="stylesheet" href="/media/jui/css/bootstrap-responsive.css" type="text/css">
+  <link rel="stylesheet" href="http://hwdmediashare.co.uk/modules/mod_jb_sociallinks/css/default.css" type="text/css">
+  <link rel="stylesheet" href="http://hwdmediashare.co.uk/modules/mod_jb_twitterfeed/css/default.css" type="text/css">
+  <link rel="stylesheet" href="http://hwdmediashare.co.uk/modules/mod_jb_articlecarousel/slick/slick.css" type="text/css">
+  <style type="text/css">
+.flowplayer .fp-logo {display: block;opacity: 1;}
+  </style>
   <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
   <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
   <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
-  <script src="/media/system/js/caption.js" type="text/javascript"></script>
   <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
-  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
-  <script src="/media/system/js/core.js" type="text/javascript"></script>
-  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
-  <script src="/media/system/js/modal.js" type="text/javascript"></script>
-  <script src="/media/system/js/html5fallback.js" type="text/javascript"></script>
+  <script src="/media/com_hwdmediashare/assets/javascript/hwd.min.js" type="text/javascript"></script>
+  <script src="/media/com_hwdmediashare/assets/javascript/aspect.js" type="text/javascript"></script>
+  <script src="/plugins/content/hwdjwplayer/assets/jwplayer/jwplayer.js" type="text/javascript"></script>
+  <script src="http://hwdmediashare.co.uk/plugins/content/hwdflowplayer/assets/flowplayer/commercial/flowplayer.min.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="http://hwdmediashare.co.uk/modules/mod_jb_articlecarousel/slick/slick.min.js" type="text/javascript"></script>
   <script type="text/javascript">
+var hwdms_live_site = "http://hwdmediashare.co.uk/index.php";
+var hwdms_text_subscribe = "Subscribe";
+var hwdms_text_subscribed = "Subscribed";
+var hwdms_text_error_occured = "An unknown error has occured. Please contact us for help if this problem continues.";
+jwplayer.key="bAwF3Hdn7fiSh7YpWL1YopRWDNTTd1bMHyE9Sg==";
 jQuery(window).on('load',  function() {
 				new JCaption('img.caption');
 			});
-		jQuery(function($) {
-			SqueezeBox.initialize({});
-			SqueezeBox.assign($('a.modal').get(), {
-				parse: 'rel'
-			});
-		});
-jQuery(document).ready(function(){
-	jQuery('.hasTooltip').tooltip({"html": true,"container": "body"});
-});
+
+jQuery.noConflict();
+(function($) {
+  $(function() {
+    $(document).ready(function() {
+      $('.article-carousel').slick({
+        autoplay: true,
+        arrows: false,
+        dots: true,
+        infinite: true,
+        speed: true,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        responsive: [
+          {
+            breakpoint: 768,
+            settings: {
+              arrows: false,
+              slidesToShow: 2
+            }
+          },
+          {
+            breakpoint: 480,
+            settings: {
+              arrows: false,
+              slidesToShow: 1
+            }
+          }
+        ]
+      });                                                
+    });
+  });
+})(jQuery);
+                
   </script>
 
-<link rel="shortcut icon" href="/images/favicon.ico">
-<link rel="stylesheet" href="/templates/hwd2014/css/prettify.css" type="text/css">
-<link rel="stylesheet" href="/templates/hwd2014/css/default.css" type="text/css">
-<link rel="stylesheet" href="/templates/hwd2014/css/joomla.css" type="text/css">
-<link rel="stylesheet" href="/templates/hwd2014/css/template.css" type="text/css">
-<link rel="stylesheet" href="/templates/hwd2014/css/custom.css" type="text/css">
-<!--[if IE 7]>
-<link rel="stylesheet" href="/templates/hwd2014/css/ie7.css" type="text/css" />
-<![endif]-->
-<link href="http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700" rel="stylesheet" type="text/css">
-<script src="/templates/hwd2014/js/smooth.js" type="text/javascript"></script>
+<!-- Template assets -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<!-- Template assets -->
+<link rel="stylesheet" href="/templates/hwd2015/css/template.css" type="text/css">
+<link rel="stylesheet" href="/templates/hwd2015/css/hwd.css" type="text/css">
+<script src="/templates/hwd2015/js/bootstrap_menu_fix.js"></script>
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-16457322-2']);
@@ -64,73 +98,68 @@ jQuery(document).ready(function(){
 </script>
 <meta name="google-site-verification" content="AgEcZJoq4uCE4LKneVZfiBLzzXUrRdQlGaiiMWCderw">
 </head>
-<body class="com_content article   124 ">
-<a name="pagetop"></a>
-<div class="header">
-  <div class="topbar" data-scrollspy="scrollspy">
-    <div class="topbar-inner">
-      <div class="container">
-        <div class="pull-right download">
-          
-
-<div class="custom">
-	<p><a href="/downloads" title="Downloads">Download</a></p></div>
-
-        </div>          
-        <h3><a href="http://hwdmediashare.co.uk/"> hwdMediaShare </a> </h3>
-        <ul class="nav menu">
-<li class="item-101"><a href="/">Home</a></li><li class="item-131 deeper parent"><a href="/tour">Tour</a><ul class="nav-child unstyled small"><li class="item-149"><a href="/tour/features">All features</a></li><li class="item-155"><a href="/tour/site">Frontend Tour</a></li><li class="item-156"><a href="/tour/admin">Admin Tour</a></li><li class="item-220"><a href="/tour/addons">Addon Pack</a></li></ul></li><li class="item-159 deeper parent"><a href="/products">Products</a><ul class="nav-child unstyled small"><li class="item-451"><a href="/tour">HWD MediaShare Gallery</a></li><li class="item-521"><a href="/tour/addons">HWD MediaShare Addons</a></li><li class="item-306"><a href="/media-apps">HWD Media Apps</a></li><li class="item-450"><a href="/joomla-templates">HWD Joomla Templates</a></li></ul></li><li class="item-132"><a href="/pricing">Pricing</a></li><li class="item-130"><a href="/demo">Demo</a></li><li class="item-133 deeper parent"><a href="/learn">Learn</a><ul class="nav-child unstyled small"><li class="item-163"><a href="/learn/docs">Documentation</a></li><li class="item-232"><a href="/learn/tutorials">Tutorials</a></li><li class="item-119"><a href="/forum/recent">Forum</a></li><li class="item-219"><a href="/learn/api">API v1.0</a></li></ul></li><li class="item-134"><a href="/blog">Blog</a></li><li class="item-160"><a href="/account-summary">Account</a></li></ul>
-
-      </div>
-    </div>
-  </div>
-  </div>
-<div class="mainbody">
-  <div class="container">
-    <div id="content" class="row">
-            <div id="maincolumn" class="span12">
-      	<div id="system-message-container">
-	</div>
-
-        		<div class="moduletable">
-					
-<ul class="breadcrumb">
-	<li class="active"><span class="divider icon-location"></span></li><li><a href="/" class="pathway">Home</a><span class="divider">/</span></li><li class="active"><span>Privacy policy</span></li></ul>
+<body id="privacy">
+<div id="wrapper">
+    <div id="container">
+    <!-- Beginning of Menu and Logo Section -->
+    <nav class="navbar navbar-static-top">
+        <div class="navbar-inner">
+            <div class="container">
+                <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+                <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </a>
+                <!-- Be sure to leave the brand out there if you want it shown -->
+                <a class="brand" href="/">HWD</a>
+                <!-- Everything you want hidden at 940px or less, place within here -->
+                <div class="nav-collapse collapse">
+                    		<div class="moduletable_menu">
+						<ul class="nav menu pull-right">
+<li class="item-101"><a href="/">Home</a></li><li class="item-131 deeper parent"><a href="/tour">Tour</a><ul class="nav-child unstyled small"><li class="item-149"><a href="/tour/features">All Features</a></li><li class="item-155"><a href="/tour/site">Frontend Tour</a></li><li class="item-156"><a href="/tour/admin">Admin Tour</a></li><li class="item-220"><a href="/tour/addons">Addon Pack</a></li></ul></li><li class="item-159 deeper parent"><a href="/products">Products</a><ul class="nav-child unstyled small"><li class="item-451"><a href="/tour">HWD MediaShare Gallery</a></li><li class="item-521"><a href="/tour/addons">HWD MediaShare Addons</a></li><li class="item-306"><a href="/downloads/joomla-3/media-apps">HWD Media Apps</a></li><li class="item-450"><a href="/downloads/joomla-3/templates">HWD Joomla Templates</a></li></ul></li><li class="item-132"><a href="/pricing">Pricing</a></li><li class="item-130"><a href="/demo">Demo</a></li><li class="item-133 deeper parent"><a href="/learn">Support</a><ul class="nav-child unstyled small"><li class="item-163"><a href="/learn/docs">Documentation</a></li><li class="item-232"><a href="/learn/tutorials">Tutorials</a></li><li class="item-119"><a href="/forum/recent">Forum</a></li><li class="item-219"><a href="/learn/api">API v1.0</a></li></ul></li><li class="item-134"><a href="/blog">Blog</a></li><li class="item-160"><a href="/account-summary">Account</a></li><li class="item-834"><a class=" download" href="/downloads">Download</a></li></ul>
 		</div>
 	
-                
-        <div class="item-page" itemscope="" itemtype="http://schema.org/Article">
+                    
+                </div>
+            </div>
+        </div>
+    </nav>
+            <!-- Beginning of Body Section -->
+    <section class="main">
+        <div class="container">
+            <div class="row">
+                                <article class="bodytext span12">
+                    
+                    <div id="system-message-container">
+	</div>
+
+                    <div class="item-page" itemscope="" itemtype="http://schema.org/Article">
 	<meta itemprop="inLanguage" content="en-GB">
-				<div class="page-header">
-		<h2 itemprop="name">
-												<a href="/privacy" itemprop="url"> Privacy Policy</a>
-									</h2>
-							</div>
-				
-<div class="icons">
 	
 		
-	</div>
-	
+			<div class="page-header">
+		<h2 itemprop="name">
+							Privacy Policy					</h2>
+							</div>
+					
 	
 	
 		
 								<div itemprop="articleBody">
 		<p>Highwood Design Limited ("hwdMediaShare", "we" or "us") provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of our software service and this website (collectively, the "Services" or the "Website") collected via the Website, email, SMS, telephone, WAP or other means. This Privacy Policy may be updated from time to time for any reason, at our sole discretion. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Website. You are advised to consult this Privacy Policy regularly for any changes. By using or accessing the Website or the Services, you are accepting the practices described in this Privacy Policy, and you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us.</p>
 <p>This Privacy Policy applies only to the Website and the Services operated by hwdMediaShare, and does not apply to the practices of companies that hwdMediaShare does not own or control, or to individuals that hwdMediaShare does not employ or manage. The Website may contain links to other sites. hwdMediaShare is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site.</p>
-<p>If you have any questions or comments about this Privacy Policy or our use of your personally identifiable information, please contact us at <script type="text/javascript">
- <!--
+<p>If you have any questions or comments about this Privacy Policy or our use of your personally identifiable information, please contact us at <span id="cloak48450"><a href="mailto:info@hwdmediashare.co.uk">info@hwdmediashare.co.uk</a></span><script type="text/javascript">
+ //<!--
+ document.getElementById('cloak48450').innerHTML = '';
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy58330 = '&#105;nf&#111;' + '&#64;';
- addy58330 = addy58330 + 'hwdm&#101;d&#105;&#97;sh&#97;r&#101;' + '&#46;' + 'c&#111;' + '&#46;' + '&#117;k';
- var addy_text58330 = '&#105;nf&#111;' + '&#64;' + 'hwdm&#101;d&#105;&#97;sh&#97;r&#101;' + '&#46;' + 'c&#111;' + '&#46;' + '&#117;k';
- document.write('<a ' + path + '\'' + prefix + ':' + addy58330 + '\'>'+ addy_text58330+ '<\/a>');
- //-->\n </script><a href="mailto:info@hwdmediashare.co.uk">info@hwdmediashare.co.uk</a><script type="text/javascript">
- <!--
- document.write('<span style=\'display: none;\'>'+ 'This email address is being protected from spambots. You need JavaScript enabled to view it.'+ '</'+ 'span>');
+ var addy48450 = '&#105;nf&#111;' + '&#64;';
+ addy48450 = addy48450 + 'hwdm&#101;d&#105;&#97;sh&#97;r&#101;' + '&#46;' + 'c&#111;' + '&#46;' + '&#117;k';
+ var addy_text48450 = '&#105;nf&#111;' + '&#64;' + 'hwdm&#101;d&#105;&#97;sh&#97;r&#101;' + '&#46;' + 'c&#111;' + '&#46;' + '&#117;k';
+ document.getElementById('cloak48450').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy48450 + '\'>'+addy_text48450+'<\/a>';
  //-->
- </script><span style="display: none;">This email address is being protected from spambots. You need JavaScript enabled to view it.</span>.</p>
+ </script>.</p>
 <p><strong>Who is hwdMediaShare?</strong> hwdMediaShare provides software and other services to businesses ("hwdMediaShare Clients"). You may be visiting our site because you have registered to receive products or services from a hwdMediaShare Client. In connection with your registration, that hwdMediaShare Client may collect certain personally identifiable information from you, which they pass on to us so that we can provide the Services.</p>
 <p><strong>Personal Data:</strong> We collect personally identifiable information ("Personal Data") from you when you voluntarily choose to provide Personal Data to a hwdMediaShare Client who uses the Services. We use the Personal Data that we collect in order to provide and improve our services, and as otherwise set forth in this Privacy Policy and in our <a href="#">Terms of Service</a>. Examples of Personal Data we collect include first name, last name, address, email address, telephone number, billing and credit card information, and information regarding your subscription with the applicable hwdMediaShare Client.</p>
 <p><strong>Use of Personal Data:</strong> hwdMediaShare uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, we will use the Personal Data you provide to a hwdMediaShare Client (and that is provided to us) to allow that hwdMediaShare Client to bill you for their products or services on a recurring or subscription basis. In addition, when we receive your Personal Data from a hwdMediaShare Client with whom you have registered, we may use that Personal Data in order to contact you on behalf of that hwdMediaShare Client (via email or otherwise). hwdMediaShare and its affiliates also use your Personal Data and other non-personally-identifiable information collected through the Website to help us improve the content and functionality of the Website, to better understand the users of our Website, and to improve our services.</p>
@@ -151,165 +180,155 @@ jQuery(document).ready(function(){
 <li>In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.</li>
 </ul>
 </ul>
-<p>Children: The Website and Services are not intended for children under 13, and we do not knowingly collect information from children under the age of 13. Children aged 13 or older should not submit any personal information without the permission of their parents or guardians. By using the Website and Services, you are representing that you are at least 18, or that you are at least 13 years old and have your parents' or guardians’ permission to use Website and our related services. In the event that we learn that we have collected personal information from a child under age 13 we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at <a href="#"><script type="text/javascript">
- <!--
+<p>Children: The Website and Services are not intended for children under 13, and we do not knowingly collect information from children under the age of 13. Children aged 13 or older should not submit any personal information without the permission of their parents or guardians. By using the Website and Services, you are representing that you are at least 18, or that you are at least 13 years old and have your parents' or guardians’ permission to use Website and our related services. In the event that we learn that we have collected personal information from a child under age 13 we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at <a href="#"><span id="cloak94876"><a href="mailto:info@hwdmediashare.co.uk">info@hwdmediashare.co.uk</a></span><script type="text/javascript">
+ //<!--
+ document.getElementById('cloak94876').innerHTML = '';
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy43493 = '&#105;nf&#111;' + '&#64;';
- addy43493 = addy43493 + 'hwdm&#101;d&#105;&#97;sh&#97;r&#101;' + '&#46;' + 'c&#111;' + '&#46;' + '&#117;k';
- document.write('<a ' + path + '\'' + prefix + ':' + addy43493 + '\'>'+ addy43493+ '<\/a>');
- //-->\n </script></a><a href="mailto:info@hwdmediashare.co.uk">info@hwdmediashare.co.uk</a><script type="text/javascript">
- <!--
- document.write('<span style=\'display: none;\'>'+ 'This email address is being protected from spambots. You need JavaScript enabled to view it.'+ '</'+ 'span>');
+ var addy94876 = '&#105;nf&#111;' + '&#64;';
+ addy94876 = addy94876 + 'hwdm&#101;d&#105;&#97;sh&#97;r&#101;' + '&#46;' + 'c&#111;' + '&#46;' + '&#117;k';
+ document.getElementById('cloak94876').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy94876 + '\'>' +addy94876+'<\/a>';
  //-->
- </script><span style="display: none;">This email address is being protected from spambots. You need JavaScript enabled to view it.</span>.</p>
+ </script></a>.</p>
 <p>Security: We take precautions to ensure the security of your Personal Data. However, we cannot guarantee that hackers or unauthorized personnel will not gain access to your Personal Data despite our efforts. You should note that in using the Website and Services, your information will travel through third party infrastructures which are not under our control.</p>
 <p>We cannot protect, nor does this Privacy Policy apply to, any information that you transmit to other users of the Website. You should never transmit personal or identifying information to other users.</p>
-<p><strong>Opt-Out Policy:</strong> If, at any time after registering, (i) you change your mind about receiving information from us or about the use of information volunteered by you, (ii) you need to update or modify any Personal Data, or (iii) you have any other questions or concerns regarding privacy at the Website, please send us a request specifying your new choice at <a href="#"><script type="text/javascript">
- <!--
+<p><strong>Opt-Out Policy:</strong> If, at any time after registering, (i) you change your mind about receiving information from us or about the use of information volunteered by you, (ii) you need to update or modify any Personal Data, or (iii) you have any other questions or concerns regarding privacy at the Website, please send us a request specifying your new choice at <a href="#"><span id="cloak19255"><a href="mailto:info@hwdmediashare.co.uk">info@hwdmediashare.co.uk</a></span><script type="text/javascript">
+ //<!--
+ document.getElementById('cloak19255').innerHTML = '';
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy32049 = '&#105;nf&#111;' + '&#64;';
- addy32049 = addy32049 + 'hwdm&#101;d&#105;&#97;sh&#97;r&#101;' + '&#46;' + 'c&#111;' + '&#46;' + '&#117;k';
- document.write('<a ' + path + '\'' + prefix + ':' + addy32049 + '\'>'+ addy32049+ '<\/a>');
- //-->\n </script></a><a href="mailto:info@hwdmediashare.co.uk">info@hwdmediashare.co.uk</a><script type="text/javascript">
- <!--
- document.write('<span style=\'display: none;\'>'+ 'This email address is being protected from spambots. You need JavaScript enabled to view it.'+ '</'+ 'span>');
+ var addy19255 = '&#105;nf&#111;' + '&#64;';
+ addy19255 = addy19255 + 'hwdm&#101;d&#105;&#97;sh&#97;r&#101;' + '&#46;' + 'c&#111;' + '&#46;' + '&#117;k';
+ document.getElementById('cloak19255').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy19255 + '\'>' +addy19255+'<\/a>';
  //-->
- </script><span style="display: none;">This email address is being protected from spambots. You need JavaScript enabled to view it.</span>. We will make every effort to resolve your concerns.</p>
-<p><strong></strong><strong>Communication:</strong> Any inquiry to hwdMediaShare regarding practices outlined in this Privacy Policy or data related matters may be directed to <a href="#"><script type="text/javascript">
- <!--
+ </script></a>. We will make every effort to resolve your concerns.</p>
+<p><strong></strong><strong>Communication:</strong> Any inquiry to hwdMediaShare regarding practices outlined in this Privacy Policy or data related matters may be directed to <a href="#"><span id="cloak95731"><a href="mailto:info@hwdmediashare.co.uk">info@hwdmediashare.co.uk</a></span><script type="text/javascript">
+ //<!--
+ document.getElementById('cloak95731').innerHTML = '';
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy24950 = '&#105;nf&#111;' + '&#64;';
- addy24950 = addy24950 + 'hwdm&#101;d&#105;&#97;sh&#97;r&#101;' + '&#46;' + 'c&#111;' + '&#46;' + '&#117;k';
- document.write('<a ' + path + '\'' + prefix + ':' + addy24950 + '\'>'+ addy24950+ '<\/a>');
- //-->\n </script></a><a href="mailto:info@hwdmediashare.co.uk">info@hwdmediashare.co.uk</a><script type="text/javascript">
- <!--
- document.write('<span style=\'display: none;\'>'+ 'This email address is being protected from spambots. You need JavaScript enabled to view it.'+ '</'+ 'span>');
+ var addy95731 = '&#105;nf&#111;' + '&#64;';
+ addy95731 = addy95731 + 'hwdm&#101;d&#105;&#97;sh&#97;r&#101;' + '&#46;' + 'c&#111;' + '&#46;' + '&#117;k';
+ document.getElementById('cloak95731').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy95731 + '\'>' +addy95731+'<\/a>';
  //-->
- </script><span style="display: none;">This email address is being protected from spambots. You need JavaScript enabled to view it.</span>.</p>
+ </script></a>.</p>
 <p><em>Effective Date: December, 2011</em></p> 	</div>
 
 	
-						 </div>
+						</div>
 
-        <div class="bottom row">
-          
+
+                    
+                </article>
+                            </div>
         </div>
-      </div>
-          </div>
-  </div>
-</div>
-<div class="modules-2">
-  <div class="arrow"></div>
-  <div class="container">
-    <div class="row">
-      <div class="span6">
-        		<div class="moduletable news">
-					<h3>Let's keep in touch</h3>
-<h4>Sign up and get a free hug!</h4>
-<div id="mc_embed_signup">
-<form action="/component/hwdmailchimp/" method="post" name="adminForm" id="adminForm" class="form-validate">
-        <p>Enter your name and email address if you want to receive our newsletter. We send one newsletter a month, and we will never sell your details, period.</p>
-        <fieldset>
-                <div class="tab-content">
-                        <div class="tab-pane active" id="editor">
-                                <div class="control-group">
-                                        <div class="control-label">
-                                                <label id="jform_email-lbl" for="jform_email" class="hasTooltip required" title="<strong>COM_HWDMAILCHIMP_EMAIL_LABEL</strong><br />COM_HWDMAILCHIMP_EMAIL_DESC">COM_HWDMAILCHIMP_EMAIL_LABEL<span class="star">&nbsp;*</span></label>                                        </div>
-                                        <div class="controls">
-                                                <input type="text" name="jform[email]" id="jform_email" value="" class="inputbox email" size="40" placeholder="Email address" required="" aria-required="true">                                        </div>
-                                </div>
-                                <div class="control-group">
-                                        <div class="control-label">
-                                                <label id="jform_fname-lbl" for="jform_fname" class="hasTooltip" title="<strong>COM_HWDMAILCHIMP_FNAME_LABEL</strong><br />COM_HWDMAILCHIMP_FNAME_DESC">COM_HWDMAILCHIMP_FNAME_LABEL</label>                                        </div>
-                                        <div class="controls">
-                                                <input type="text" name="jform[fname]" id="jform_fname" value="" class="inputbox fname" size="40" placeholder="First Name">                                        </div>
-                                </div>
-                                <div class="tab-pane" id="metadata">
-                                        <input type="hidden" name="task" value="">
-                                        <input type="hidden" name="return" value="aHR0cDovL2h3ZG1lZGlhc2hhcmUuY28udWsvcHJpdmFjeQ==">
-                                </div>
-                        </div>                            
-                </div>
-                <input type="hidden" name="ec13991ad42162ffa79ec88bb2d75df0" value="1">        </fieldset>
-        <div class="btn-toolbar">
-                <div class="btn-group">
-                        <button type="button" class="btn btn-info" onclick="Joomla.submitbutton('newsletter.save')">
-                                <span class="icon-ok"></span>&nbsp;Subscribe                        </button>
-                </div>
+    </section>
+            <!-- Beginning of Footer -->
+    <footer>
+                <div class="upper-footer">
+            <div class="container">
+                <div class="row">
+                    		<div class="moduletable span6">
+						                    <div class="twitter-text">
+            Cool new apps for <a href="http://twitter.com/search?src=typd&amp;q=EasySocial" target="_blank">#EasySocial</a>, plus updates on EasySocial’s apps store, and a 20% discount <a href="http://t.co/MVRTS9APKg" target="_blank">http://t.co/MVRTS9APKg</a> <a href="http://twitter.com/search?src=typd&amp;q=joomla" target="_blank">#joomla</a> via <a href="http://www.twitter.com/stackideas" target="_blank">@stackideas</a>        </div>
+            <hr>        <div class="twitter-text">
+            Exciting <a href="http://twitter.com/search?src=typd&amp;q=Joomla" target="_blank">#Joomla</a>! events are coming very near! Check them all out so you don't miss anything! <a href="http://t.co/9Rzy0TkFJX" target="_blank">http://t.co/9Rzy0TkFJX</a> via <a href="http://www.twitter.com/joomlashine" target="_blank">@joomlashine</a>        </div>
+            <hr>        <div class="twitter-text">
+            RT <a href="http://www.twitter.com/compojoom" target="_blank">@compojoom</a>: Want to earn a 20% commission on all sales made by your referrals for life? Join our <a href="http://twitter.com/search?src=typd&amp;q=affiliate" target="_blank">#affiliate</a> program! https://t.co/UVdpYG…        </div>
+    <a target="_blank" href="https://twitter.com/hwdMediaShare" class="btn">Follow Us</a>
+
+		</div>
+			<div class="moduletable span6">
+						<div id="article-carousel" class="article-carousel">
+            <div class="article-item">
+            <h2>Powerful Media Sharing Framework - Excellent Support - Great People ★★★★★</h2>
+            <p>We have been using Hwd products for over a year and are just now migrating to the new HwdMediaShare. The development keeps improving making the component more and more complete. Dave, the lead...</p>
         </div>
-</form>
-</div>		</div>
+            <div class="article-item">
+            <h2>Brilliant Extension ★★★★★</h2>
+            <p>Completely recommend this component. We utilise it to manage a large array of media and have found it to be totally supportive and powerful, it meets our needs completely and in a very professional...</p>
+        </div>
+            <div class="article-item">
+            <h2>Video Access Control ★★★★★</h2>
+            <p>I am developing a site to display videos to users with different Joomla access levels. This product allows me to do that and keeps those videos separate from those uploaded by members in the...</p>
+        </div>
+            <div class="article-item">
+            <h2>Blows other components out of the water ★★★★★</h2>
+            <p>This component is amazing, it can do so many things and the support in the is top-notch!! The support is quick, thoughtful and very helpful. I continue to be impressed with the sheer amount of...</p>
+        </div>
+    </div>
+<a href="/testimonials" class="btn">More Testimonials</a>
+		</div>
 	
-      </div>
-      <div class="span6">
-        		<div class="moduletable">
-					<div class="twitter-feed">
-    <a target="_blank" href="https://twitter.com/hwdMediaShare">
-        <img width="64" height="64" alt="MOD_HWDTWITTER_FOLLOW_US" class="twitter-icon" src="http://hwdmediashare.co.uk/modules/mod_jb_twitterfeed/images/twitter.png">
-    </a>
-                                    <div class="twitter-text">
-                Video will drive net traffic to <a href="http:///twitter.com/search?src=typd&amp;q=zettabyte" target="_blank">#zettabyte</a> high by 2018! Do you share media on your <a href="http:///twitter.com/search?src=typd&amp;q=Joomla" target="_blank">#Joomla</a> website? <a href="http://t.co/7av8ZG0eRb" target="_blank">http://t.co/7av8ZG0eRb</a>            </div>
-                    <hr>            <div class="twitter-text">
-                Introducing Shortcode generator for Helix V2 based templates <a href="http:///twitter.com/search?src=typd&amp;q=helixframework" target="_blank">#helixframework</a> <a href="http:///twitter.com/search?src=typd&amp;q=joomla" target="_blank">#joomla</a> <a href="http://t.co/1gpZXTKGaP" target="_blank">http://t.co/1gpZXTKGaP</a> via <a href="http:///www.twitter.com/JoomShaper" target="_blank">@JoomShaper</a>            </div>
-                    <hr>            <div class="twitter-text">
-                Deciding when to use a Content Construction Kit - Part 1 by Dennis Kmetz <a href="http:///www.twitter.com/CMSConnection" target="_blank">@CMSConnection</a>  <a href="http://t.co/Gj98OwZ3xw" target="_blank">http://t.co/Gj98OwZ3xw</a>            </div>
+                </div>
             </div>
+        </div>
+                        <div class="middle-footer">
+            <div class="container">
+                <div class="row">
+                    		<div class="moduletable span3">
+							<h3>About Us</h3>
+						<ul class="nav menu-footer">
+<li class="item-120"><a href="/about-us">About HWD</a></li><li class="item-121"><a href="/the-team">The Team</a></li><li class="item-126"><a href="/our-responsibility">Our Responsibility</a></li><li class="item-127"><a href="/resources">Resources</a></li><li class="item-282"><a href="/contact-us">Contact Us</a></li><li class="item-288"><a href="/business-hours">Business Hours</a></li></ul>
+		</div>
+			<div class="moduletable span3">
+							<h3>Useful Stuff</h3>
+						<ul class="nav menu-footer">
+<li class="item-123"><a href="/terms-of-service">Terms of Service</a></li><li class="item-124 current active"><a href="/privacy">Privacy Policy</a></li><li class="item-162"><a href="/refund-policy">Refund Policy</a></li><li class="item-200"><a href="/vat-rates">VAT Rates</a></li><li class="item-143"><a href="/partners">Partners</a></li><li class="item-122"><a href="/license-agreement">License Agreement</a></li></ul>
+		</div>
+			<div class="moduletable span3">
+							<h3>Joomla Products</h3>
+						<ul class="nav menu-footer">
+<li class="item-128"><a href="/tour">Media Component</a></li><li class="item-148"><a href="/?Itemid=158">Media Templates</a></li><li class="item-146"><a href="/tour/addons">Media Plugins</a></li><li class="item-147"><a href="/tour/addons">Media Modules</a></li><li class="item-144"><a href="/hwdvideoshare">hwdVideoShare</a></li><li class="item-145"><a href="/hwdphotoshare">hwdPhotoShare</a></li></ul>
+		</div>
+			<div class="moduletable span3">
+							<h3>Members</h3>
+						<ul class="nav menu-footer">
+<li class="item-151"><a href="/account-summary">Account Summary</a></li><li class="item-642"><a href="/downloads">Downloads</a></li><li class="item-153"><a href="/downloads-legacy">Downloads</a></li><li class="item-161"><a href="/edit-profile">Edit Profile</a></li><li class="item-316"><a href="/api-tools">API Tools</a></li></ul>
 		</div>
 	
-      </div>
+                </div>
+            </div>
+        </div>
+                        <div class="lower-footer">
+            <div class="container">
+                <div class="row">
+                    		<div class="moduletable span12">
+						<div class="jb-social-links">
+            
+                        <div class="social-link facebook">
+                <a href="http://www.facebook.com/hwdMediaShare" target="_blank"><img src="http://hwdmediashare.co.uk/modules/mod_jb_sociallinks/images/default/facebook-logo-128.png" width="48" height="48" alt="Join us on Facebook"></a>
+        </div>
+                        <div class="social-link google">
+                <a href="https://www.google.com/+HWDMediaShareCoUk" target="_blank"><img src="http://hwdmediashare.co.uk/modules/mod_jb_sociallinks/images/default/google-logo-128.png" width="48" height="48" alt="Add circles on GooglePlus"></a>
+        </div>
+                                    <div class="social-link rss">
+                <a href="http://hwdmediashare.co.uk/blog?format=feed&amp;type=rss" target="_blank"><img src="http://hwdmediashare.co.uk/modules/mod_jb_sociallinks/images/default/rss-logo-128.png" width="48" height="48" alt="Subscribe to our Feed"></a>
+        </div>
+                                    <div class="social-link twitter">
+                <a href="https://twitter.com/hwdMediaShare" target="_blank"><img src="http://hwdmediashare.co.uk/modules/mod_jb_sociallinks/images/default/twitter-logo-128.png" width="48" height="48" alt="Follow us on Twitter"></a>
+        </div>
+                            <div class="social-link youtube">
+                <a href="http://www.youtube.com/user/hwdmediashare" target="_blank"><img src="http://hwdmediashare.co.uk/modules/mod_jb_sociallinks/images/default/youtube-logo-128.png" width="48" height="48" alt="Watch us on Youtube"></a>
+        </div>
     </div>
-  </div>
-</div>
-<div class="footer">
-  <div class="container">
-    <div class="row">
-      		<div class="moduletable span6">
-					<p><img src="/templates/hwd2014/images/footer_logo.png" width="160" height="50" alt="HWD Media Share"></p>
-<p>Copyright © 2014 hwdMediaShare. All Rights Reserved.</p> 
-<p>Highwood Design Limited, Design Works<br>William Street, Felling, NE10 0JP, United Kingdom</p>
-<p>Community-led, <a href="http://www.gnu.org/licenses/gpl.html">open source</a> media sharing software apps for the <a href="http://www.joomla.org/">Joomla!</a> CMS.</p>
-		</div>
-			<div class="moduletable span2">
-					<h3>About Us</h3>
-					<ul class="nav menu">
-<li class="item-120"><a href="/about-us">About HWD</a></li><li class="item-121"><a href="/the-team">The team</a></li><li class="item-126"><a href="/our-responsibility">Our responsibility</a></li><li class="item-127"><a href="/resources">Resources</a></li><li class="item-282"><a href="/contact-us">Contact us</a></li><li class="item-288"><a href="/business-hours">Business hours</a></li></ul>
-		</div>
-			<div class="moduletable span2">
-					<h3>Joomla Products</h3>
-					<ul class="nav menu">
-<li class="item-128"><a href="/tour">Media component</a></li><li class="item-148"><a href="/joomla-templates">Media templates</a></li><li class="item-146"><a href="/tour/addons">Media plugins</a></li><li class="item-147"><a href="/tour/addons">Media modules</a></li><li class="item-144"><a href="/hwdvideoshare">hwdVideoShare</a></li><li class="item-145"><a href="/hwdphotoshare">hwdPhotoShare</a></li></ul>
-		</div>
-			<div class="moduletable span2">
-					<h3>Useful Stuff</h3>
-					<ul class="nav menu">
-<li class="item-122"><a href="/license-agreement">License agreement</a></li><li class="item-123"><a href="/terms-of-service">Terms of service</a></li><li class="item-124 current active"><a href="/privacy">Privacy policy</a></li><li class="item-162"><a href="/refund-policy">Refund policy</a></li><li class="item-200"><a href="/vat-rates">VAT rates</a></li><li class="item-143"><a href="/partners">Partners</a></li><li class="item-304"><a href="/installation">Installation services</a></li></ul>
-		</div>
-			<div class="moduletable span12">
-					<div class="social-button-facebook">
-	<a href="http://www.facebook.com/hwdMediaShare" target="_blank"><img src="http://hwdmediashare.co.uk/modules/mod_hwdsocial//images/facebook-32.png" width="32" height="32" alt="Join us on Facebook"></a>
-</div>
-<div class="social-button-twitter">
-	<a href="https://twitter.com/hwdMediaShare" target="_blank"><img src="http://hwdmediashare.co.uk/modules/mod_hwdsocial//images/twitter-32.png" width="32" height="32" alt="Follow us on Twitter"></a>
-</div>
-<div class="social-button-google">
-	<a href="https://plus.google.com/u/1/b/106705170012580956052/106705170012580956052/posts" target="_blank"><img src="http://hwdmediashare.co.uk/modules/mod_hwdsocial//images/google-32.png" width="32" height="32" alt="Add circles on GooglePlus"></a>
-</div>
-<div class="social-button-youtube">
-	<a href="http://www.youtube.com/user/hwdmediashare" target="_blank"><img src="http://hwdmediashare.co.uk/modules/mod_hwdsocial//images/youtube-32.png" width="32" height="32" alt="Watch us on Youtube"></a>
-</div>
-<div class="social-button-rss">
-	<a href="http://hwdmediashare.co.uk/blog?format=feed&amp;type=rss" target="_blank"><img src="http://hwdmediashare.co.uk/modules/mod_hwdsocial//images/rss-32.png" width="32" height="32" alt="Subscribe to our feed"></a>
-</div>
-<div class="clear"></div>
+<div class="clearfix"></div>		</div>
+			<div class="moduletable">
+						
 
+<div class="custom">
+	<p>HWD MediaShare is a community-led, <a href="http://www.gnu.org/licenses/gpl.html">open source</a> media sharing software for the <a href="http://www.joomla.org/">Joomla!</a> CMS.</p>
+<p class="footer-logo"><img src="/images/site/2015/footer_logo.png" alt="HWD Media Share" width="160" height="50"></p>
+<p class="footer-address">Copyright © 2014 All Rights Reserved. Highwood Design Limited, Design Works, William Street, Felling, NE10 0JP, United Kingdom.</p>
+<p>HWDMediaShare.com is not affiliated with or endorsed by the&nbsp;<a href="http://www.joomla.org/">Joomla! Project</a> or <a href="http://opensourcematters.org/">Open Source Matters</a>.</p></div>
 		</div>
 	
-      <div class="moduletable span12"><center><p><small>HWDMediaShare.com is not affiliated with or endorsed by the Joomla! Project or Open Source Matters.</small></p></center></div>
-    </div>
-  </div>
+                </div>
+            </div>
+        </div>
+        	
+    </footer>
+        </div>
 </div>
 
 
