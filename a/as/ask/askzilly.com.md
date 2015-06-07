@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askzilly.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715054927id_/http%3A//askzilly.com/privacy.html%3FKeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D400%26width%3D800) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askzilly.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607035038id_/http%3A//askzilly.com/privacy.html%3FKeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D400%26width%3D800) for the most accurate reproduction.*
 
 # 
 
