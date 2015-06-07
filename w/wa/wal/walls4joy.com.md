@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the walls4joy.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129035513id_/http%3A//walls4joy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walls4joy.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152757id_/http%3A//walls4joy.com/privacy-policy) for the most accurate reproduction.*
 
 # Website privacy policy
 
-## Join our growing community!
+## Find us more conveniently!
 
 ## Image copyright
 
-Please do not ask for permissions to use these images in your projects, as we do not own the copyrights for them. All the images are copyrighted by their respective owners. If you are a copyright holder of a specific image and wish your image to be removed, please [contact us](https://web.archive.org/contact-us/). 
+Please don't ask us for rights to use these images in your own projects because we do not own the copyrights for them. All the wallpapers are copyrighted by their respective owners (uploaders). If you are a copyright holder of a specific image and wish it to be removed, please [contact us](https://web.archive.org/contact-us/). 
 
 ## Third-Party Advertisers
 
