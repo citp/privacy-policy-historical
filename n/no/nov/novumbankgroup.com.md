@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the novumbankgroup.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126232303id_/http%3A//www.novumbankgroup.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novumbankgroup.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607232919id_/http%3A//www.novumbankgroup.com/en/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Novum Bank Ltd.
 
 To enable Novum Bank Ltd. (hereafter “we”) to provide the services offered on our websites, we collect certain information from you and process it as required. This Data Protection Policy explains in detail the information we collect, process and use, and for what purposes. This Data Protection Policy also specifies your rights and our obligations under the relevant data protection regulations. One of our main priorities is to protect your personal data within the scope of our services throughout the entire business process, and we want you to feel secure when you visit our websites. 
 
@@ -10,14 +10,14 @@ Your Data is collected, processed (this includes storage and transmission) and u
 
   
 2\. Principal   
-The principal who is responsible for processing the data within the meaning of the BDSG and the Directive is Novum Bank Ltd., with its head office at 160, Triq ix-Xatt, Ta' Xbiex, Gzira GZR 1020, Malta, registered in the company registry of the Malta Financial Services Authority under C 46997. 
+The principal who is responsible for processing the data within the meaning of the BDSG and the Directive is Novum Bank Ltd., with its head office at 4th Floor, Global Capital Building, Testaferrata Street, Ta’Xbiex XBX 1403, Malta, registered in the company registry of the Malta Financial Services Authority under C 46997. 
 
   
 3\. We use Your Data for the following purposes   
 We use Your Data in compliance with the applicable legislation insofar as it is required to process a money transaction, e.g. for authorisation of transactions, and to enable us to identify you when you are using our services. In case of a money remittance it is necessary that we transfer parts of your data to the recipient bank. Furthermore we will store the remittee’s data at least as part of your transaction history at Novum Bank Ltd. You must ensure that you have obtained all necessary consents for the use of the recipient`s data before the transaction.   
 We also use Your Data to verify a user’s identity where we are bound to do so in accordance with the applicable anti money laundering and prevention of terrorism legislation and/or if we suspect that a crime has actually been committed (e.g. fraud or other fiscal offences). In order to be compliant with legal requirements concerning the prevention of money laundering and fraud, we are obliged to observe certain transfer limits. In case your transactions exceed these transfer limits and you are located in Germany, we will carry out an identity check through the German post office (PostIdent) to verify your identity. Concerning all other countries, please send us a certified copy of your passport for verification.   
 If you contact our Customer Services department, we may store any written correspondence between you and us. We use this information to carry out our services. Moreover, we may also record any telephone calls you have with us for the same purposes; however, in this case we will inform you that we are about to do so, and will obtain your consent at the start of each call.   
-We store information about your use of our services, e.g. information about your transactions. If you log on to https://www.mytransfer.voicecash.com , you will see an overview of your previous transactions. We use this payment information exclusively for the purposes of carrying out transactions and in compliance with the applicable legislation to make our services as secure as possible, e.g. by combating fraud.   
+We store information about your use of our services in line with the Laws of Malta, particularly, the Banking, data Protection and Fiscal Laws in Malta.   
 When you visit our websites, we automatically receive information about which of our websites you are visiting and the browser you are using. This information will be stored anonymously, and we will use it for statistical purposes to manage the data load on our servers, to improve our services and to make our websites more user-friendly. 
 
   
