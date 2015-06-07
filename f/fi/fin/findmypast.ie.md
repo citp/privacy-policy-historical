@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findmypast.ie privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230081828id_/http%3A//www.findmypast.ie/articles/using-the-site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmypast.ie privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140431id_/http%3A//www.findmypast.ie/articles/using-the-site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | findmypast.ie
 
@@ -6,7 +6,7 @@ This Privacy Policy explains how we use information that you provide us with whe
 
 This Privacy Policy is part of the [Terms & Conditions](https://web.archive.org/articles/using-the-site/terms-and-conditions) of using this website, so please read it carefully. We take your privacy extremely seriously, and will store all your personal information securely. 
 
-**The laws you’re protected by:** As we are an Irish company, you are protected by Irish and European data protection laws. We are registered as a Data Controller with the Irish Data Protection Commissioner's Office and we store your data in accordance with the Data Protection Acts 1998 – 2003 (our registration number is 12447/A and [you can use it to check our registration online if you want to](http://www.dataprotection.ie/ViewDoc.asp?fn=/documents/register/display.asp?ID=12447%2FA)). If you’d like to know more about data protection generally, there is information available from the [Irish Data Protection Commissioner](https://www.dataprotection.ie/ViewDoc.asp?fn=%2Fdocuments%2Frights%2FRightsHome%2Ehtm&CatID=2&m=r)
+**The laws you’re protected by:** As we are an Irish company, you are protected by Irish and European data protection laws. We are registered as a Data Controller with the Irish Data Protection Commissioner's Office and we store your data in accordance with the Data Protection Acts 1998 – 2003. If you’d like to know more about data protection generally, there is information available from the [Irish Data Protection Commissioner](https://www.dataprotection.ie/ViewDoc.asp?fn=%2Fdocuments%2Frights%2FRightsHome%2Ehtm&CatID=2&m=r)
 
  **Information we gather about you:** Whenever you visit the website, we gather information about what you do during your visit, including the searches that you perform and the records you view. We also gather some statistics about your computer, such as the browser you use and how big your screen is. We gather personal information (e.g. name, address, phone number, email address, postal address) about you when you register, pay for a service or [get in contact with us](https://web.archive.org/articles/using-the-site/contact-us), or sometimes if you reply to a survey. 
 
@@ -27,7 +27,7 @@ send you emails (more details below)
 
 **We won’t sell your information to third parties:** We won’t ever sell your information to third parties, full stop. If we run a promotion or competition where your information would be shared with a third party for marketing purposes, we will make that very clear and will ask your permission first. 
 
-**Who in our company sees your information:** Only specific people within our Group Companies (meaning brightsolid online publishing (Ireland) Limited, and any subsidiary and/or parent company of brightsolid online publishing (Ireland) Limited that might exist in the future) have access to your information, and we restrict this as much as we can. In general, we try to make sure that people only have as much access to your information as they need to carry out their job in providing you with services and records. 
+**Who in our company sees your information:** Only specific people within our Group Companies (meaning Findmypast Ireland Limited, and any subsidiary and/or parent company of Findmypast Ireland Limited that might exist in the future) have access to your information, and we restrict this as much as we can. In general, we try to make sure that people only have as much access to your information as they need to carry out their job in providing you with services and records. 
 
 **Using third parties to process your information:** We occasionally use third party companies to manage information that you provide us with. When we do, we keep the amount of personal information they hold to an absolute minimum, have contracts in place to stop them using your information except on our behalf and obviously use reasonable efforts to make sure they are as careful with your information as we are. 
 
