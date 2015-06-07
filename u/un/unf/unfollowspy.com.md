@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unfollowspy.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225142735id_/http%3A//www.unfollowspy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unfollowspy.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200629id_/http%3A//unfollowspy.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,9 +13,9 @@ Your details are not passed on to any third parties.
 
 **Email Newsletter**
 
-This website operates an email newsletter program, used to inform subscribers about products and services supplied by this website. Users can subscribe through an online automated process should they wish to do so but do so at their own discretion. Some subscriptions may be manually processed through prior written agreement with the user. 
+This website operates an email newsletter program, used to inform subscribers about products and services supplied by this website. Users can subscribe through an Online automated process should they wish to do so but do so at their own discretion. Some subscriptions may be manually processed through prior written agreement with the user. 
 
-Subscriptions are taken in compliance with UK Spam Laws detailed in the Privacy and Electronic Communications Regulations 2003. All personal details relating to subscriptions are held securely and in accordance with the Data Protection Act 1998. No personal details are passed on to third parties nor shared with companies / people outside of the company that operates this website. Under the Data Protection Act 1998 you may request a copy of personal information held about you by this website's email newsletter program. A small fee will be payable. If you would like a copy of the information held on you please email us.
+Subscriptions are taken in compliance with UK Spam Laws detailed in the Privacy and Electronic Communications Regulations 2003. All personal details relating to subscriptions are held securely and in accordance with the Data Protection Act 1998. No personal details are passed on to third parties nor shared with companies / people outside of the company that operates this website. Under the Data Protection Act 1998 you may request a copy of personal information held about you by this websites email newsletter program. A small fee will be payable. If you would like a copy of the information held on you please email us.
 
   
 Email marketing campaigns published by this website or it's owners may contain tracking facilities within the actual email. Subscriber activity is tracked and stored in a database for future analysis and evaluation. Such tracked activity may include; the opening of emails, forwarding of emails, the clicking of links within the email content, times, dates and frequency of activity [this is by no far a comprehensive list].  
@@ -50,6 +50,10 @@ This website and it's owners through their social media platform accounts may sh
 
 
 Users are advised to take caution and good judgment before clicking any shortened url's published on social media platforms by this website and it's owners. Despite the best efforts to ensure only genuine url's are published many social media platforms are prone to spam and hacking and therefore this website and it's owners cannot be held liable for any damages or implications caused by visiting any shortened links.
+
+**Children's Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older, many of our supported social networks enforce their own age limits of 18+ to join.
 
 **Trademarks, Logos and Copyright**
 
