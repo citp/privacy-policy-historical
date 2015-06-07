@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mypivots.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117014746id_/http%3A//www.mypivots.com/page/details/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypivots.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022654id_/http%3A//www.mypivots.com/page/details/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy
 
   * [MyPivots Site Map](https://web.archive.org/page)
   * Privacy
