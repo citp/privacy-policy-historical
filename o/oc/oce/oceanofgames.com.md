@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oceanofgames.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230211928id_/http%3A//oceanofgames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oceanofgames.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144302id_/http%3A//oceanofgames.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,11 +20,11 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Ocean of Games may collect and use Users personal information for the following purposes:
 
-  * _\- To improve customer service_  
+  * _– To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To personalize user experience_  
+  * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
 
 
