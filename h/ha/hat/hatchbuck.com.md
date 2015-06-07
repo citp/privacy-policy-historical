@@ -1,24 +1,30 @@
-> *The following text is extracted and transformed from the hatchbuck.com privacy policy that was archived on 2014-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140824075935id_/http%3A//www.hatchbuck.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hatchbuck.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607210641id_/http%3A//www.hatchbuck.com/privacy) for the most accurate reproduction.*
 
 # Read and Understand the Hatchbuck Privacy Policy
 
-This Privacy Policy governs the manner in which hatchbuck collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://hatchbuck.com](http://hatchbuck.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by hatchbuck.
+## **Privacy**
 
-### Personal identification information
+This Privacy Policy governs the manner in which Hatchbuck (or “we” or “our” or “us”) collects, uses, maintains and discloses information collected from users (a “User” defined as any past, current or prospective customer of Hatchbuck) of the [http://hatchbuck.com](http://hatchbuck.com/) website (“Site” or “Platform”). This privacy policy applies to the Site and all products and services offered by Hatchbuck.
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+Hatchbuck complies with the U.S.-E.U. Safe Harbor Framework and U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Economic Area member countries and Switzerland. Hatchbuck has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the Hatchbuck certifications, please visit <http://www.export.gov/safeharbor/>.
 
-### Non-personal identification information
+## **Personal identification information**
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously.
 
-### Web browser cookies
+We will collect personal identification information from Users only if they voluntarily submit such information to us including, but not limited to, the instances described above. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+
+## **Non-personal identification information**
+
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service provider utilized and other similar information.
+
+## **Web browser cookies**
 
 Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-### How we use collected information
+## **How we use collected information**
 
-hatchbuck collects and uses Users personal information for the following purposes:
+Hatchbuck collects and uses Users personal information for the following purposes:
 
   * _To personalize user experience_ – We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
   * _To improve our Site_ – We continually strive to improve our website offerings based on the information and feedback we receive from you.
@@ -28,32 +34,48 @@ hatchbuck collects and uses Users personal information for the following purpose
 
 
 
-### How we protect your information
+## **How we protect your information**
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
 Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
 
-### Sharing your personal information
+## **Accessing your personal information**
+
+A User may (i) access any of their personal information that we collect and maintain, or (ii) correct, update, or delete their personal information, in both cases by contacting us by telephone or mail using the contact information provided in our website footer. Response time to such inquiries will be handled promptly within 30 days.
+
+We reserve the right to take reasonable steps to verify a customer’s identity prior to granting access to, or processing changes, or corrections to such information in order to protect customer privacy and security. We will retain a User’s personal information for so long as its account is active or as reasonably needed by us to provide our Services. We may also retain and use such information as necessary to comply with our legal obligations, resolve disputes, and enforce agreements.
+
+## **Sharing your personal information**
 
 We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-### Third party websites
+## **Third party websites**
 
 Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
-### Changes to this privacy policy
+## **Changes to this privacy policy**
 
-hatchbuck has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Hatchbuck has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-### Your acceptance of these terms
+## **Your acceptance of these terms**
 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-### Contacting us
+## **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-**hatchbuck**  
+**Hatchbuck**  
 webmaster@hatchbuck.com  
 [http://hatchbuck.com](http://hatchbuck.com/)
+
+## **Effective Date of Policy**
+
+This Policy was last updated as of the last date set forth below.
+
+**Revised: March 12, 2015**
+
+Any rights not expressly granted herein are reserved by Hatchbuck.
+
+© 2015 Hatchbuck
