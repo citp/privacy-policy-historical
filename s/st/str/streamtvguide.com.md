@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamtvguide.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124175336id_/http%3A//www.streamtvguide.com/shop_content.php/coID/1/content/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamtvguide.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608000501id_/http%3A//www.streamtvguide.com/shop_content.php/coID/1/content/Privacy-policy) for the most accurate reproduction.*
 
 # StreamTVguide - Privacy policy
 
