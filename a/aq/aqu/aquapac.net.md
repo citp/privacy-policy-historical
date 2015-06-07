@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aquapac.net privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708084224id_/http%3A//store.aquapac.net/customer-service/about-us/security-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquapac.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140304id_/http%3A//store.aquapac.net/customer-service/about-us/security-privacy.html) for the most accurate reproduction.*
 
 # Security & Privacy - AQUAPAC Waterproof Cases | Waterproof cases for camera, iphone, ipod, ipad; Waterproof backpack, drybags
 
