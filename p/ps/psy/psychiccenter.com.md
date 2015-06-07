@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychiccenter.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123195528id_/http%3A//www.psychiccenter.com/TelephonyUS/Phone/UserGuide.aspx%3FDes%3DPRI%26Af%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychiccenter.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607044647id_/http%3A//www.psychiccenter.com/TelephonyUS/Phone/UserGuide.aspx%3FDes%3DPRI%26Af%3D0) for the most accurate reproduction.*
 
 # Free Psychic Reading & Tarot Reading: Privacy Policy | Psychic center.com
 
