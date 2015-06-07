@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the navitas.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222090723id_/http%3A//navitas.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navitas.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607033457id_/http%3A//www.navitas.com/privacy_policy) for the most accurate reproduction.*
 
 # Navitas Privacy Policy
 
