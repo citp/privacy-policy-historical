@@ -1,367 +1,931 @@
-<!--The following is the downloaded HTML source of the blinkfitness.com privacy policy that was archived on 2014-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230194614id_/http%3A//www.blinkfitness.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blinkfitness.com privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608013227id_/http%3A//www.blinkfitness.com/Privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head><script type="text/javascript" async="async" src="https://www.adobetag.com/d1/equinox/live/BLKW201212.js"></script>
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-5.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"325801c55a","applicationID":"4888287","transactionName":"ZVNbZhQFD0EHAhFcV1wZfV0SKgRGJQ4LQUpdWlVXFEsxRwQNDFYXYkRQRAcHGGIJDQxWQQ==","queueTime":0,"applicationTime":17,"ttGuid":"6885CBF713BE98AE","agent":"js-agent.newrelic.com/nr-476.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug4CVFFXGwcIXFlQDwY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
-		<meta name="google-site-verification" content="D1z3lenS_O-IEUXUS67UQokbGz4OhMM-b3i9RjweiyI">
-		<meta id="viewport" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-		<title>Blink Fitness: A new, modern, affordable gym and workout experience | Privacy Policy</title>
-		
-		
-	
+<!DOCTYPE html><html lang="en"><head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"325801c55a","applicationID":"4888287","transactionName":"ZVNbZhQFD0EHAhFcV1wZfV0SKgRGJQ4LQUpdWlVXFEsxUwEEFhpoU1Fc","queueTime":0,"applicationTime":19,"ttGuid":"4FACDB36B04D0428","agent":"js-agent.newrelic.com/nr-632.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug4CVFFXGwcIXFlQDwY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+        <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+        <title>Privacy policy</title>
+        <meta name="description" content="">
+        <meta name="keywords" content="">
+        <meta name="author" content="Blinkfitness.com">
+        
 
+        <link href="http://media2.blinkfitness.com/assets/css/style.css?101a22ddd05a00" rel="stylesheet" type="text/css">
+        
+        
 
-		
-		
-	
-	
-
-
-		<link href="/DynamicContent/123289f235024510bcdd1119b5356484/combined.css" rel="stylesheet" type="text/css">
-
-		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/Content/img/apple-touch-icon-144-precomposed.png?f4f4c262b4aa0">
-		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/Content/img/apple-touch-icon-114-precomposed.png?f4f4c2626b6c0">
-		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/Content/img/apple-touch-icon-72-precomposed.png?f4f4c2632ebc0">
-		<link rel="apple-touch-icon-precomposed" href="/Content/img/apple-touch-icon-57-precomposed.png?f4f4c2634e790">
-		<link rel="shortcut icon" href="/Content/img/favicon.ico?f4f4c2633af10" type="image/x-icon">	
-		<!--[if lt IE 9]>
-			<script src="/Scripts/html5shiv.js?f4f4c316e7090"></script>
-			<link href="/StyleSheets/_Shared/print.css?f4f4c286953c0" media="print" rel="stylesheet" type="text/css" />
-		<![endif]-->
-		<script>
-		    (function () {
-		        if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
-		            var msViewportStyle = document.createElement("style");
-		            msViewportStyle.appendChild(
-		                document.createTextNode("@-ms-viewport{width:auto!important}")
-		            );
-		            document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
-		        }
-		    })();
-		</script>
-		<script src="//assets.adobedtm.com/622415e8d5fc8897871fbd8b8d7ac9505137a57b/satelliteLib-dec9f6161aa51f0abad5355f67b64a7478e527fa.js">
-		</script>
-			
-	</head>
-	<body>
-		
-<style>
-	/* IMPERSONATE BANNER */
-
-	.siteBanner {
-		height: 23px;
-		width: 100%;
-		background-color: #ffebb7;
-		font-weight: bold;
-		text-align: center;
-		/*z-index:1001;*/
-		z-index: 900;
-		padding-top: 10px;
-		color: #000;
-		overflow: hidden;
-		position: relative;
-	}
-</style>
-
-
-
-			<!-- ClickTale Top part -->
-	<script type="text/javascript">
-		var WRInitTime = (new Date()).getTime();
-	</script>
-	<!-- ClickTale end of Top part -->
-
-		<div class="container">
-			<div id="header">
-				
-		
-<div class="hidden-phone">
-	<div class="row-fluid">
-		<a class="brand" href="/"></a>
-		<ul class="nav tool-bar pull-right">
-				<li><a href="https://www.blinkfitness.com/iBlink/Login">login</a></li>
-				<li class="divider"></li>
-				<li><a href="https://www.blinkfitness.com/iBlink/Register">register</a></li>
-		</ul>
-	</div>
-	   		   	   
-	<div class="navbar">
-		<div class="navbar-inner">
-			<div class="nav-collapse collapse">
-				<ul class="nav">
-					<li class="dropdown locationLink">
-						<a href="/locations">locations <b class="caret"></b></a>
-						<ul id="locationMenu" class="dropdown-menu"></ul>
-					</li>
-					<li class="divider"></li>
-					<li class="whyBlinkLink"><a href="/whyblink">why blink</a></li>
-					<li class="divider"></li>
-					<li class="joinNowLink"><a href="https://www.blinkfitness.com/join">join now</a></li>
-					<li class="divider"></li>
-					<li class="freeTrialLink"><a href="https://www.blinkfitness.com/trial">free trial</a></li>
-					<li class="divider"></li>
-					<li class="tipsLink"><a href="/tips">tips</a></li>
-				</ul>
-			</div>
-		</div>
-	</div>
-</div>
-
-
-<div class="visible-phone">
-<div class="navbar">
-	<div class="navbar-inner">
-		<a class="brand" href="/"></a>
-		<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-			<i class="icon-reorder"></i>
-		</button>
-		<div class="nav-collapse collapse">
-			<ul class="nav">
-				<li><a href="/locations">locations</a></li>
-				<li class="divider"></li>
-				<li><a href="/whyblink">why blink</a></li>
-				<li class="divider"></li>
-				<li><a href="https://www.blinkfitness.com/join">join now</a></li>
-				<li class="divider"></li>
-				<li><a href="https://www.blinkfitness.com/trial">free trial</a></li>
-
-
-			</ul>
-	
-
-			
-		</div>
-	</div>
-</div>
-</div>
-			</div>
-			<div id="main">
-				
+        
+        
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://media2.blinkfitness.com/Content/images/apple-touch-icon-144-precomposed.png?fc0d70e3d3124">
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://media2.blinkfitness.com/Content/images/apple-touch-icon-114-precomposed.png?fc0d70e3d3124">
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://media2.blinkfitness.com/Content/images/apple-touch-icon-72-precomposed.png?fc0d70e3f927d">
+        <link rel="apple-touch-icon-precomposed" href="http://media2.blinkfitness.com/Content/images/apple-touch-icon-57-precomposed.png?fc0d70e3f927d">
+        <link rel="shortcut icon" href="http://media2.blinkfitness.com/Content/images/favicon.ico?fc0d70e5c22eb" type="image/x-icon">
+        
+        <script src="//assets.adobedtm.com/622415e8d5fc8897871fbd8b8d7ac9505137a57b/satelliteLib-abb31248ca3da1fe3dd705c5f0b6bdc793184f60.js"></script>
+        <script>
+         var tagData = {};
+        </script>
+        
 
 
 
 
-
-
-
-
-
-
-
-<h1 class="text-header">Privacy Policy</h1>
-<div>
-	
-<p>At Blink Fitness Clubs we respect your concerns about privacy. This policy is intended to ensure your information is handled in a safe and responsible manner. As we continue to evolve our Web site and incorporate new technologies to improve communication, our policies may change. We encourage you to refer to this policy on an ongoing basis to stay abreast of our most current Privacy Policy practices.</p>
-
-<h4>What information do we collect?</h4>
-<p>Currently, blinkfitness.com gathers information (such as name, e-mail address and zip code) strictly for contact purposes when users opt to fill out an e-mail submission form to inquire about our company and about membership. In some cases we ask for other optional information including additional contact information and certain demographic information (such as phone number and gender).</p>
-
-<h4>How do we use your information?</h4>
-<p>We may use your information to communicate special offers, promotions and information about our company to you via email. If you do not wish to receive these emails you will have the option to opt out of future mailings (see the section below). We may also use your information to compile usage statistics and other data regarding the use of the Web site services.</p>
-<p>We will not share your personally identifiable information with third parties, outside of the limited circumstances referenced in the paragraph immediately below. We may, however, share with partners aggregated statistical data that includes users' demographic information but does not identify them. We reserve the right to provide any and all such aggregated and non-individually identifiable data to third parties.</p> 
-
-<h4>How do we use your email information?</h4>
-<p>At Blink Fitness Clubs we respect your concerns about privacy. We collect email information to provide a more personalized and relevant experience. If you give us your email address on the home page, when you inquire about membership or sign up, we will send you emails about exclusive offers, news at Blink and new club openings. If you have previously opted out of receiving emails from us, providing updated information will act as an 'opt back-in'.</p>
-<p>If you want to opt-out of receiving promotional emails, simply click on the unsubscribe link located on the bottom of all of our emails. Although we strive to update our email list as frequently as possible, you might receive another contact before we are able to remove you.</p>
-<p>Please note that you will continue to receive Member Services related communications as it pertains to your member account.  Blink may use any of your contact information held on file (including Email, Mailing, Phone &amp; Fax) to communicate with you in relation to day to day administrative activities, such as membership information and important service alerts.</p> 
-<p>Blink Fitness Clubs never sells or rents your name, e-mail address, or any other personally identifiable information to third-parties.</p>
-<p>We only share user information in the ways described below:</p>
-<p>Agents: We employ other companies and individuals to perform functions on our behalf. Examples include creating and maintaining our Web site, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.</p> 
-<p>Protection of Blink Holdings, Inc. and Blink Fitness Clubs: We release account and other personal information when we believe release is necessary to comply with law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of Blink Holdings, Inc., our users, or others. This includes exchanging information with other companies and organizations for fraud protection.</p>
-
-<h4>Do we use cookies?</h4>
-<p>We use cookies to enhance your experience on our web site. For example a cookie enables us to remember the region or specific club page you have visited so the next time you return to our site you do not have to select that club or region again.</p>
-<p>You can set your Internet browser (like Internet Explorer) to warn you every time a cookie is sent, or to turn off all cookies. See your browser's Help menu for these instructions. By disabling your cookies you will not have access to some of the features that enhance your user experience on our site.</p>
-
-<h4>How do we protect children on our web site?</h4>
-<p>We are committed to making a safe environment for children on our site. When we collect information for membership inquiry purposes, users are informed they must be at least 18 years of age or have parental consent to provide personally identifying information to us. We encourage parents to monitor children's Internet use to keep them safe while navigating blinkfitness.com and all other areas of the Internet.</p>
-
-<h4>Does this Privacy Policy apply to external links found on this Web site?</h4>
-<p>While this site may contain links to other sites, please note that when you click on one of these links, you are 'clicking' away from blinkfitness.com to another Web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. We are not responsible for the privacy practices or the content of such Web sites.</p>
-
-<h4>How can you contact Blink Fitness Clubs?</h4>
-<p>If you have questions regarding our Privacy Policy, other areas of our Web site or our clubs, please contact us. Your feedback is always welcome and appreciated.</p>
-
-</div>
-
-
-
-
-
-	
-
-
-
-
-			</div>
-			<div id="footer" class="row-fluid">
-				
-
-<div class="visible-desktop">
-	<div class="copyright">© 2014 Blink Fitness</div>
-	<div class="navbar">
-		<ul class="nav">
-			<li><a href="/Content/Downloadables/BLINK_Seeking_Sites.pdf?f4f4c28000aa0" target="_blank">landlords and brokers</a></li>	
-			<li><a href="/privacy-policy">privacy policy</a></li>
-			<li><a href="/faqs">FAQs</a></li>
-			<li><a href="/terms-of-use">terms of use</a></li>
-			<li><a href="/careers">careers in blink</a></li>	
-			<li><a href="/site-map">site map</a></li>	
-			
-		</ul>
-		<div class="social-links">
-			<a href="http://www.facebook.com/blinkfitness" target="_blank" class="facebook" title="facebook"><i class="icon-footer-facebook"></i></a>
-			<a href="http://www.twitter.com/blinkfitness" target="_blank" class="twitter" title="twitter"><i class="icon-footer-twitter"></i></a>
-		</div>
-	</div>
-</div>
-
-
-
-
-<div class="hidden-desktop">
-	<div class="navbar">
-		<ul class="nav">
-			<li><a href="/Content/Downloadables/BLINK_Seeking_Sites.pdf?f4f4c28000aa0" target="_blank">landlords and brokers</a></li>	
-			<li><a href="/privacy-policy">privacy policy</a></li>
-		</ul>
-		<ul class="nav">
-			<li><a href="/faqs">FAQs</a></li>
-			<li><a href="/terms-of-use">terms of use</a></li>
-			<li><a href="/careers">careers in blink</a></li>	
-			<li><a href="/site-map">site map</a></li>	
-			
-		</ul>
-		<div class="social-links">
-			<a href="http://www.facebook.com/blinkfitness" target="_blank" class="facebook" title="facebook"><i class="icon-footer-facebook"></i></a>
-			<a href="http://www.twitter.com/blinkfitness" target="_blank" class="twitter" title="twitter"><i class="icon-footer-twitter"></i></a>
-		</div>
-	</div>
-	<div class="copyright hidden-desktop">© 2014 Blink Fitness</div>
-</div>
-
-
-			</div>
-		</div>
-		<!-- ClickTale Bottom part -->
-<div id="ClickTaleDiv" style="display: none;"></div>
-<script type="text/javascript">
-document.write(unescape("%3Cscript%20src='"+
- (document.location.protocol=='https:'?
-  'https://clicktale.pantherssl.com/':
-  'http://s.clicktale.net/')+
- "WRc9.js'%20type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://clicktale.pantherssl.com/WRc9.js" type="text/javascript"></script>
-<script type="text/javascript">
-var ClickTaleSSL=1;
-if(typeof ClickTale=='function') ClickTale(7729,0.25,"www09");
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-57785202-1', 'auto');
+    ga('send', 'pageview');
 </script>
-<!-- ClickTale end of Bottom part -->
-	
-
-<!-- Adobe Marketing Cloud Tag Management code
-Copyright 1996-2012 Adobe, Inc. All Rights Reserved
-More info available at http://www.adobe.com -->
-<script language="JavaScript" type="text/javascript">s_account = "eqblinkprod";</script>
-<script src="/Scripts/omniture/s_code.js?f4f4c31772320" type="text/javascript"></script>
-<script src="/Scripts/omniture/OmnitureHelper.js?f4f4c3173a0b0" type="text/javascript"></script>
 
 
 
-<script language="JavaScript" type="text/javascript"> <!--
-/* You may give each page an identifying name, server, and channel on the next lines. */
-var s = (function(omnitureContainer) {
-	var s = new omnitureContainer("live", "equinox", "BLKW201212");
 
-		 s.pageName = "BFW:pub:utilities:privacypolicy";
-		 s.server = "www.blinkfitness.com";
-		 s.channel = "BFW:pub:utilities";
-		 s.pageType = "";
-				 s.prop10 = ""
-				 s.prop23 = "out"
-				 s.prop22 = s.prop23+":"+s.pageName
-		 s.campaign = "";
-		 s.state = "";
-		 s.zip = "";
-		 s.events = "";
-		 s.products = "";
-		 s.purchaseID = "";
-				 s.eVar1 = "BFW";
-				 s.eVar2 = "BFW:pub";
-				 s.eVar10 = "";
-				 s.eVar23 = "out";
-	
-		return s;
-	})(BLKW.OMNITURE.container);
-//-->
-</script><div id="mboxScriptContainer" style="display:none;visibility:hidden;"></div><style>.mboxDefault{visibility:hidden;}</style>
-<script type="text/javascript"><!--
-	/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-	if (s) s.t(); //--></script>
-<!-- End Adobe Marketing Cloud Tag Management code -->
+    </head>
 
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-
-		
-		
-		
-
-		
-
-		<script src="/DynamicContent/2f3e8d875d6a405390972e01e327ef3b/combined.js" type="text/javascript"></script>
-
-		
-	
-	
+    <body class="body">
+        
 
 
-		<script src="/DynamicContent/94808af2ec80400b8194a37a604d9b50/combined.js" type="text/javascript"></script>
-
-		<script>
-		    jQuery(document).ready(function () {
-		        Blink.Web.Interface.Layout.Setup();
-		    });
-		</script>
-		
-	
-	<script type="text/javascript">
-	  jQuery(document).ready(function (jQuery) {
-	    Blink.Web.Interface.Public.PrivacyPolicy.Setup();
-	  });
-	</script>
 
 
-		
-		<!-- Version: Blink.Web.Interface: 5.7.4.0 -->
-		<!-- Version: Equinox.NetFrameworkExtensions: 3.1.35.0 -->
-		<!-- Version: Equinox.API: 3.1.52.0 -->
-		<!-- Version: Equinox.Content.Web: 1.1.4.0 -->
-		
-		<script type="text/javascript">_satellite.pageBottom();</script>
-	
 
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+        <div id="page-container" data-page="global-layout" data-annotation="global-layout">  
+                
+<aside class="side-bar-left">
+    <nav id="nav" class="nav">
+        <div class="nav-list">
+     
+            
+
+
+<a href="/join?icmp=hp_module_join-now" class="btn join"><div class="btn-wrapper"><span data-hover="Join">Join</span></div></a>
+
+<a href="/locations" class="btn locations"><div class="btn-wrapper"><span data-hover="Locations">Locations</span></div></a>
+
+<a href="/whyblink" class="btn whyblink"><div class="btn-wrapper"><span data-hover="Why Blink">Why Blink</span></div></a>
+
+
+<a href="#" class="btn circle sm blue highlight freetriallink" data-toggle="modal" data-target="#blinkModal" data-modal="freeTrialModal">  
+    <div class="btn-wrapper">
+        <p>Free<span>Trial</span></p>
+        <p class="hover">Free<span>Trial</span></p>
+    </div>
+</a>
+<a href="/join" class="btn circle sm red highlight joinlink" data-toggle="" data-target="" data-modal="">  
+    <div class="btn-wrapper">
+        <p>Join<span>Now</span></p>
+        <p class="hover">Join<span>Now</span></p>
+    </div>
+</a>
+        </div>
+    </nav><!--end .nav-->
+    <!-- Begin Footer -->
+    <footer class="footer" role="contentinfo" style="height: 909px;">
+        <div>
+
+<section class="tout">
+    <h5><a href="/Faq">FAQs</a></h5>
+    <p>Got questions? We have the answers!</p>
+        <a class="read-more" href="/Faq">READ MORE</a>
+</section>	
+<section class="tout">
+    <h5><a href="/Careers">Careers at Blink</a></h5>
+    <p>Calling all fitness fanatics and workout gurus: The best job ever awaits.</p>
+        <a class="read-more" href="/Careers">See Positions</a>
+</section>	
+<section class="tout">
+    <h5><a href=""></a></h5>
+    <p></p>
+        <a class="read-more" href=""></a>
+</section>	            <aside>
+                <ul class="nav-footer">
+
+<li><a href="/Landlord" class="">Landlord &amp; Brokers</a></li>
+<li><a href="/Privacy" class="">Privacy Policy</a></li>
+<li><a href="/Terms" class="">Terms Of Use</a></li>                </ul>			
+
+ 
+
+<ul class="social-icons">
+    <li><a href="https://www.facebook.com/BlinkFitness" target="_blank"><span class="icon-facebook"></span></a></li>
+    <li><a href="https://twitter.com/blinkfitness" target="_blank"><span class="icon-twitter"></span></a></li>
+    <li><a href="http://instagram.com/blink_fitness" target="_blank"><span class="icon-instagram"></span></a></li>
+</ul>
+            </aside>
+
+            <hr>
+            <div class="lc">
+                <p class="copyright">© 2014 Blink Fitness. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+    <!-- End Footer -->
+</aside><header class="header cf" role="banner">
+    <nav class="mobile-menu closed">
+        <a href="#" class="mobile-menu-open"><span class="icon-list"></span></a>
+        <a href="#" class="mobile-menu-close"><span class="icon-close"></span></a>
+    </nav>
+
+    <a href="/" class="logo">
+        <img src="/assets/images/svg/logoNew.svg" alt="Blink Fitness">
+    </a>
+    <!--account header-->
+
+
+
+<div class="account-button">
+    <a href="#">
+        <div class="avatar"><img src="http://media2.blinkfitness.com/cms/images/71f9fb8d-df45-42d7-b3d4-fb88ed00d9ad/en-us/avatar.png"></div>
+        <p class="account-nav">Log in <span class="spacer">|</span> Register</p>
+        <!-- <div class="close"><span class="icon-close"></span></div> -->
+    </a>
+</div>
+
+
+    <!--Navigation Header-->
+    <nav id="nav" class="nav">
+        <div class="nav-list">
+
+
+<a href="/join?icmp=hp_module_join-now" class="btn join"><div class="btn-wrapper"><span data-hover="Join">Join</span></div></a>
+
+<a href="/locations" class="btn locations"><div class="btn-wrapper"><span data-hover="Locations">Locations</span></div></a>
+
+<a href="/whyblink" class="btn whyblink"><div class="btn-wrapper"><span data-hover="Why Blink">Why Blink</span></div></a>
+
+
+<a href="#" class="btn circle sm blue highlight freetriallink" data-toggle="modal" data-target="#blinkModal" data-modal="freeTrialModal">  
+    <div class="btn-wrapper">
+        <p>Free<span>Trial</span></p>
+        <p class="hover">Free<span>Trial</span></p>
+    </div>
+</a>
+<a href="/join" class="btn circle sm red highlight joinlink" data-toggle="" data-target="" data-modal="">  
+    <div class="btn-wrapper">
+        <p>Join<span>Now</span></p>
+        <p class="hover">Join<span>Now</span></p>
+    </div>
+</a>
+        </div>
+    </nav>
+    <!--end .nav-->
+</header>
+                    <aside class="side-bar-right">
+                        <a href="#" class="close"><span class="icon-close"></span></a>
+                        <div class="login-form">
+                            <header>
+                                <h5>MEMBER LOG IN</h5>
+                            </header>
+                            <form action="/v1/users/login" method="post">
+                                
+                                <div class="email">
+                                    <div class="field-container">
+                                        <label for="email">Email <abbr title="Required">*</abbr></label>
+                                        <input id="email" type="text" placeholder="name@example.com">
+                                    </div>
+                                    <div class="error-set">
+                                        <p class="invalid">invalid email</p>
+                                    </div>
+                                </div>
+                                <div class="password">
+                                    <div class="field-container">
+                                        <label for="password">Password</label>
+                                        <input id="password" type="password" placeholder="Type your Password">
+                                    </div>
+                                    <div class="error-set">
+                                        <p class="invalid">Passwords must be at least 5 characters</p>
+                                    </div>
+                                </div>
+                                <a href="#" class="btn login-btn round orange">Log In</a>
+                            </form>
+                            <div class="whoops">
+                                <a href="#" class="btn forgot-email-btn">Forgot Email</a>
+                                |
+                                <a href="#" class="btn forgot-pw-btn">Forgot Password</a>
+                            </div>
+                            <div class="divider">
+                                <p>or</p>
+                                <hr>
+                            </div>
+                            <a href="#" class="btn register-btn round orange">Register</a>
+                        </div>
+                        <div class="register-form">
+                            <header>
+                                <h5>REGISTER</h5>
+                            </header>
+                            <form action="/iBlink/Registration" method="post">
+                                <div class="lastName">
+                                    <div class="field-container">
+                                        <label for="lastName">Last Name <abbr title="Required">*</abbr></label>
+                                        <input id="lastName" type="text" placeholder="Type your Last Name">
+                                    </div>
+
+                                    <div class="error-set">
+                                        <p class="invalid">invalid last name</p>
+                                    </div>
+                                </div>
+
+                                <div class="email">
+                                    <div class="field-container">
+                                        <label for="emailAddress">Email <abbr title="Required">*</abbr></label>
+                                        <input id="emailAddress" type="text" placeholder="name@example.com">
+                                    </div>
+
+                                    <div class="error-set">
+                                        <p class="invalid">invalid email</p>
+                                    </div>
+                                </div>
+
+                                <div class="email">
+                                    <div class="field-container">
+                                        <label for="emailAddressConfirm">Confirm Email <abbr title="Required">*</abbr></label>
+                                        <input id="emailAddressConfirm" type="text" placeholder="name@example.com">
+                                    </div>
+
+                                    <div class="error-set">
+                                        <p class="invalid">invalid email</p>
+                                        <p class="match">Emails must match</p>
+                                    </div>
+                                </div>
+
+                                <div class="password">
+                                    <div class="field-container">
+                                        <label for="password">Password</label>
+                                        <input id="password" type="password" placeholder="Type your Password">
+                                    </div>
+
+                                    <div class="error-set">
+                                        <p class="invalid">Passwords must be at least 5 characters</p>
+                                    </div>
+                                </div>
+
+                                <div class="password">
+                                    <div class="field-container">
+                                        <label for="password2">Confirm Password</label>
+                                        <input id="password2" type="password" placeholder="Retype your Password">
+                                    </div>
+
+                                    <div class="error-set">
+                                        <p class="invalid">Passwords must be at least 5 characters</p>
+                                        <p class="match">Passwords must match</p>
+                                    </div>
+                                </div>
+
+                                <div class="barcode-container">
+                                    <div class="field-container">
+                                        <label for="barcode">Member Barcode</label>
+                                        <input id="barcode" type="text" placeholder="Enter a Number" pattern="[0-9]*">
+
+                                    </div>
+                                    <a href="#" class="popover-btn" data-toggle="popover" data-placement="left" data-content="Enter the number printed above the barcode on your Blink membership card you use to check into the gym." data-original-title="" title=""><p>?</p></a>
+                                    <div class="error-set">
+                                        <p class="invalid">Invalid member barcode.</p>
+                                    </div>
+                                </div>
+                                <div id="messages" class="error-set"></div>
+
+                                <a href="#" class="btn register-btn round orange">Register</a>
+                            </form>
+
+                            <div class="form-submitted">
+                                <h4>Thanks! Your account has successfully been created.</h4>
+
+                                <a href="#" class="btn ok-btn round orange">Lets blink</a>
+                            </div>
+                        </div>
+                        <div class="forgot-email-form">
+                            <header>
+                                <h5>Forgot email</h5>
+                            </header>
+                            <form action="/iBlink/ForgotEmail" method="post">
+                                <div class="barcode-container">
+                                    <div class="field-container">
+                                        <label for="barcode">Member Barcode</label>
+                                        <input id="barcode" type="text" placeholder="Enter a Number" pattern="[0-9]*">
+
+                                    </div>
+                                    <a href="#" class="popover-btn" data-toggle="popover" data-placement="left" data-content="Enter the number printed above the barcode on your Blink membership card you use to check into the gym." data-original-title="" title=""><p>?</p></a>
+                                    <div class="error-set">
+                                        <p class="invalid">Invalid member barcode.</p>
+                                    </div>
+                                </div>
+
+                                <a href="#" class="btn submit-btn round orange">Submit</a>
+                            </form>
+                            <div class="form-submitted">
+                                <p class="message"></p>
+                            </div>
+                        </div>
+                        <div class="forgot-password-form">
+                            <header>
+                                <h5>Forgot Password</h5>
+                            </header>
+                            <form action="/iblink/ForgotPassword">
+                                <div class="email">
+                                    <div class="field-container">
+                                        <label for="email">Email <abbr title="Required">*</abbr></label>
+                                        <input id="email" type="text" placeholder="name@example.com">
+                                    </div>
+
+                                    <div class="error-set">
+                                        <p class="invalid">invalid email</p>
+                                    </div>
+                                </div>
+
+                                <a href="#" class="btn submit-btn round orange">Submit</a>
+
+                                <div class="whoops">
+                                    <a href="#" class="btn forgot-email-btn">Forgot Email</a>
+                                </div>
+                            </form>
+                            <div class="form-submitted">
+                                <h4 style="color:white;">Check your email and follow the instructions to reset your password.</h4>
+
+                                <a href="#" class="btn ok-btn round orange">Lets blink</a>
+                            </div>
+                        </div>
+                    </aside>
+
+               
+                <div class="page" id="page">
+
+                    <div id="main" role="main">
+                        
+
+<header class="page-content-header orange fill center">
+    <h2>PRIVACY POLICY</h2>
+    <h4></h4>
+</header>
+
+<div class="page home">
+            <div class="module tpl-panelcontainer dtm-privacyitems" data-title="privacyitems">
+                
+                    
+<div class="module-row pad">
+    <div class="panel-group collapse-group" id="accordion" role="tablist" aria-multiselectable="true">
+        
+<div class="panel" data-panel-id="one">
+    <div class="panel-heading" role="tab" id="heading0">
+        <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent="#accordion" href="#privacypolicy" aria-expanded="true" aria-controls="collapse0" class="collapsed">
+                What’s a privacy policy?
+            </a>
+        </h4>
+    </div>
+    <div id="privacypolicy" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading0" style="height: 0px;">
+        <div class="panel-body">
+            <p>At Blink Fitness Clubs we respect your concerns about privacy. This policy is&nbsp;intended to ensure your information is handled in a safe and responsible manner.&nbsp;As we continue to evolve our Web site and incorporate new technologies to&nbsp;improve communication, our policies may change. We encourage you to refer to&nbsp;this policy on an ongoing basis to stay abreast of our most current Privacy Policy&nbsp;practices.</p>
+        </div>
+    </div>
+</div><div class="panel" data-panel-id="one">
+    <div class="panel-heading" role="tab" id="heading0">
+        <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent="#accordion" href="#informationcollect" aria-expanded="true" aria-controls="collapse0" class="collapsed">
+                What information do we collect?
+            </a>
+        </h4>
+    </div>
+    <div id="informationcollect" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading0" style="height: 0px;">
+        <div class="panel-body">
+            <p>Currently, blinkfitness.com gathers information (such as name, e-mail address and&nbsp;zip code) strictly for contact purposes when users opt to fill out an e-mail&nbsp;submission form to inquire about our company and about membership. In some&nbsp;cases we ask for other optional information including additional contact information&nbsp;and certain demographic information (such as phone number and gender).</p>
+        </div>
+    </div>
+</div><div class="panel" data-panel-id="one">
+    <div class="panel-heading" role="tab" id="heading0">
+        <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent="#accordion" href="#submissions" aria-expanded="true" aria-controls="collapse0" class="collapsed">
+                How do we use your email information?
+            </a>
+        </h4>
+    </div>
+    <div id="submissions" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading0" style="height: 0px;">
+        <div class="panel-body">
+            At Blink Fitness Clubs we respect your concerns about privacy. We collect email information to provide a more personalized and relevant experience. If you give us your email address on the home page, when you inquire about membership or sign up, we will send you emails about exclusive offers, news at Blink and new club openings. If you have previously opted out of receiving emails from us, providing updated information will act as an ‘opt-back-in’.<br>
+<br>
+If you want to opt-out of receiving promotional emails, simply click on the unsubscribe link located on the bottom of all of our emails. Although we strive to update our email list as frequently as possible, you might receive another contact before we are able to remove you.
+<br>
+<br>
+<p>
+Please note that you will continue to receive Member Services related communications as it pertains to your member account. Blink may use any of your contact information held on file (including Email, Mailing, Phone &amp; Fax) to communicate with you in relation to day to day administrative activities, such as membership information and important service alerts.</p>
+<br>
+Blink Fitness Clubs never sells or rents your name, e-mail address, or any other personally identifiable information to third-parties. <br>
+<br>
+We only share user information in the ways described below: <br>
+<br>
+Agents: We employ other companies and individuals to perform functions on our behalf. Examples include creating and maintaining our Web site, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. <br>
+<br>
+Protection of Blink Holdings, Inc. and Blink Fitness Clubs: We release account and other personal information when we believe release is necessary to comply with law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of Blink Holdings, Inc., our users, or others. This includes exchanging information with other companies and organizations for fraud protection.
+        </div>
+    </div>
+</div><div class="panel" data-panel-id="one">
+    <div class="panel-heading" role="tab" id="heading0">
+        <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent="#accordion" href="#disclaimer" aria-expanded="true" aria-controls="collapse0" class="collapsed">
+                How do we protect children on our website?
+            </a>
+        </h4>
+    </div>
+    <div id="disclaimer" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading0" style="height: 0px;">
+        <div class="panel-body">
+            We are committed to making a safe environment for children on our site. When we collect information for membership inquiry purposes, users are informed they must&nbsp;be at least 18 years of age or have parental consent to provide personally&nbsp;identifying information to us. We encourage parents to monitor children’s Internet&nbsp;use to keep them safe while navigating blinkfitness.com and all other areas of the&nbsp;Internet.
+        </div>
+    </div>
+</div><div class="panel" data-panel-id="one">
+    <div class="panel-heading" role="tab" id="heading0">
+        <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent="#accordion" href="#indem" aria-expanded="true" aria-controls="collapse0" class="collapsed">
+                Do we use cookies?
+            </a>
+        </h4>
+    </div>
+    <div id="indem" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading0" style="height: 0px;">
+        <div class="panel-body">
+            We use cookies to enhance your experience on our web site. For example acookie enables us to remember the region or specific club page you have visited&nbsp;so the next time you return to our site you do not have to select that club or region&nbsp;again.<br>
+<br>
+You can set your Internet browser (like Internet Explorer) to warn you every time a&nbsp;cookie is sent, or to turn off all cookies. See your browser’s Help menu for these &nbsp;instructions. By disabling your cookies you will not have access to some of the&nbsp;features that enhance your user experience on our site.
+        </div>
+    </div>
+</div><div class="panel" data-panel-id="one">
+    <div class="panel-heading" role="tab" id="heading0">
+        <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent="#accordion" href="#indem" aria-expanded="true" aria-controls="collapse0" class="collapsed">
+                Does this privacy policy apply to external links found on this web site?
+            </a>
+        </h4>
+    </div>
+    <div id="indem" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading0" style="height: 0px;">
+        <div class="panel-body">
+            While this site may contain links to other sites, please note that when you click onone of these links, you are ‘clicking’ away from blinkfitness.com to another Web site. We encourage you to read the privacy statements of these linked sites as  their privacy policies may differ from ours. We are not responsible for the privacy practices or the content of such Web sites.
+        </div>
+    </div>
+</div><div class="panel" data-panel-id="one">
+    <div class="panel-heading" role="tab" id="heading0">
+        <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent="#accordion" href="#indem" aria-expanded="true" aria-controls="collapse0" class="collapsed">
+                How can you contact Blink Fitness Clubs?
+            </a>
+        </h4>
+    </div>
+    <div id="indem" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading0" style="height: 0px;">
+        <div class="panel-body">
+            If you have questions regarding our Privacy Policy, other areas of our Web site or our clubs, please contact us. Your feedback is always welcome and appreciated.
+        </div>
+    </div>
+</div>    </div>
+</div>
+                
+               </div>
+
+</div>
+
+                        <!-- share modal !-->
+
+                    </div>
+
+<div id="emailModal" class="content-for-modal">
+    <div id="modal-share-email">
+        <div class="mail-header">
+            <img src="http://media2.blinkfitness.com/assets/images/svg/mail-letter.svg">
+            <h3>Share Blink</h3>
+        </div>
+
+        <h4>Good vibes should be shared. <br>Tell your friends about Blink.</h4>
+
+<form action="/Share" id="form" method="post">            <fieldset>
+                <div class="field-container email">
+                    <label for="emailaddress">Email*</label>
+                    <input id="emailaddress" type="email" placeholder="name@email.com">
+                </div>
+                <div class="field-container">
+                    <label for="email-textarea">Message</label>
+                    <textarea id="email-textarea" rows="8" cols="48" maxlength="5000" placeholder="Hey there, Join me at Blink! It’ll lift your mood and make you feel good. Plus, $15 a month for unlimited gym access is a no-brainer. Check it out:&nbsp;http://www.blinkfitness.com.">Hey there, Join me at Blink! It’ll lift your mood and make you feel good. Plus, $15 a month for unlimited gym access is a no-brainer. Check it out:&nbsp;http://www.blinkfitness.com.</textarea>
+                </div>
+                <a href="#" class="btn block orange sm submit">Submit</a>
+            </fieldset>
+</form>    </div>
+</div>
+<!-- end share modal !-->
+<!-- contact us modal !-->
+<div id="contactModal" class="content-for-modal">
+    <div id="modal-contact-email">
+        <div class="mail-header">
+            <img src="http://media2.blinkfitness.com/assets/images/svg/mail-letter.svg">
+            <h3>Contact Us</h3>
+        </div>
+
+        <h4>Have a problem? Have a compliment?<br>Shoot us a word and we'll get right back to you.</h4>
+<form action="/Contact" id="contactform" method="post">            <fieldset>
+                <div class="field-container">
+                    <label for="name">Your name*</label>
+                    <input id="from-name" placeholder="Name" maxlength="100">
+                </div>
+                <div class="field-container email">
+                    <label for="emailaddress">Email*</label>
+                    <input id="emailaddress" type="email" placeholder="name@email.com" maxlength="100">
+                </div>
+                <div class="field-container">
+                    <label for="subjecttext">Subject*</label>
+                    <input id="subject" placeholder="Subject" maxlength="100">
+                </div>
+                <div class="field-container">
+                    <label for="email-textarea">Message*</label>
+                    <textarea id="email-textarea" rows="8" cols="48" maxlength="5000"></textarea>
+                </div>
+                <a href="#" class="btn block orange sm submit">Submit</a>
+            </fieldset>
+</form>    </div>
+</div>
+<!--end contact us modal !-->
+<footer class="footer" role="contentinfo">
+<script data-main="http://media2.blinkfitness.com/assets/js/app.min.js?101a22e58ffe80" src="http://media2.blinkfitness.com/assets/libs/requirejs/require.js?fc0d70a104580" type="text/javascript"></script>
+   
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.13.2/TweenMax.min.js" type="text/javascript"></script>;
+   
+    <div>
+
+
+<section class="tout">
+    <h5><a href="/Faq">FAQs</a></h5>
+    <p>Got questions? We have the answers!</p>
+        <a class="read-more" href="/Faq">READ MORE</a>
+</section>	
+<section class="tout">
+    <h5><a href="/Careers">Careers at Blink</a></h5>
+    <p>Calling all fitness fanatics and workout gurus: The best job ever awaits.</p>
+        <a class="read-more" href="/Careers">See Positions</a>
+</section>	
+<section class="tout">
+    <h5><a href=""></a></h5>
+    <p></p>
+        <a class="read-more" href=""></a>
+</section>	
+
+        <aside>
+
+
+            <ul class="nav-footer">
+
+<li><a href="/Landlord" class="">Landlord &amp; Brokers</a></li>
+<li><a href="/Privacy" class="">Privacy Policy</a></li>
+<li><a href="/Terms" class="">Terms Of Use</a></li>
+            </ul>
+
+
+ 
+
+<ul class="social-icons">
+    <li><a href="https://www.facebook.com/BlinkFitness" target="_blank"><span class="icon-facebook"></span></a></li>
+    <li><a href="https://twitter.com/blinkfitness" target="_blank"><span class="icon-twitter"></span></a></li>
+    <li><a href="http://instagram.com/blink_fitness" target="_blank"><span class="icon-instagram"></span></a></li>
+</ul>
+        </aside>
+
+        <hr>
+        <div class="lc">
+            <p class="copyright">© 2014 Blink Fitness. All rights reserved.</p>
+        </div>
+    </div>
+</footer>
+
+
+<!-- Version : Blink.Web.Interface: 6.5.9 -->
+                </div><!-- end #page !-->
+                <!-- GLOBAL MODAL WRAPPER !-->
+                <div class="modal fade" id="blinkModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+                            </div>
+                            <div class="modal-body">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- END GLOBAL MODAL WRAPPER !-->
+            </div><!-- END PAGE CONTAINER -->
+       
+
+<div id="freeTrialModal" class="content-for-modal">
+    <div id="modal-free-trial">
+        <h3>Free feels good</h3>         
+<form action="/trial/submit" id="form" method="post">          <h6 class="required">*Required</h6>
+          <div class="first-name">
+                <div class="field-container">
+                    <label for="firstName">First Name <abbr title="Required">*</abbr></label>                    
+					<input class="" data-val="true" data-val-length="The First Name cannot be more than 50 characters" data-val-length-max="50" data-val-regex="Please enter a valid First Name" data-val-regex-pattern="^[a-zA-Z ]+$" data-val-required="Please enter a First Name" id="firstName" maxlength="50" name="TrialPass.FirstName" type="text" value="">
+					<span class="field-validation-valid" data-valmsg-for="TrialPass.FirstName" data-valmsg-replace="true"></span>
+                </div>
+
+                <div class="error-set">
+                    <p class="invalid">Please enter a First Name</p>
+                </div>
+            </div>
+            <div class="last-name">
+                <div class="field-container">
+                    <label for="lastName">Last Name <abbr title="Required">*</abbr></label>
+                    <input class="" data-val="true" data-val-length="The Last Name cannot be more than 50 characters" data-val-length-max="50" data-val-regex="Please enter a valid Last Name" data-val-regex-pattern="^[a-zA-Z ]+$" data-val-required="Please enter a Last Name" id="lastName" maxlength="50" name="TrialPass.LastName" type="text" value="">
+				    <span class="field-validation-valid" data-valmsg-for="TrialPass.LastName" data-valmsg-replace="true"></span>
+                </div>
+
+                <div class="error-set">
+                    <p class="invalid">Please enter a Last Name</p>
+                </div>
+            </div>
+            <div class="email">
+                <div class="field-container">
+                    <label for="email1">Email <abbr title="Required">*</abbr></label>
+                    <input class="span12" data-val="true" data-val-length="The Email cannot be more than 100 characters" data-val-length-max="100" data-val-regex="Please enter a valid Email" data-val-regex-pattern="^([a-zA-Z0-9_\-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([a-zA-Z0-9\-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$" data-val-required="Please enter an Email" id="emailAddress" maxlength="100" name="TrialPass.EmailAddress" placeholder="name@example.com" type="email" value="">
+				    <span class="field-validation-valid" data-valmsg-for="TrialPass.EmailAddress" data-valmsg-replace="true"></span>
+                </div>
+
+                <div class="error-set">
+                    <p class="invalid">Please enter an Email</p>
+                </div>
+            </div>
+            <div class="email">
+                <div class="field-container">
+                    <label for="email2">Confirm Email <abbr title="Required">*</abbr></label>                    
+                    <input class="span12" data-val="true" data-val-equalto="Email doesn't match." data-val-equalto-other="*.EmailAddress" data-val-length="The Email cannot be more than 100 characters" data-val-length-max="100" data-val-regex="Please enter a valid Email" data-val-regex-pattern="^([a-zA-Z0-9_\-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([a-zA-Z0-9\-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$" data-val-required="Please confirm Email" id="emailAddressConfirm" maxlength="100" name="TrialPass.EmailAddressConfirm" placeholder="name@example.com" type="email" value="">
+				    <span class="field-validation-valid" data-valmsg-for="TrialPass.EmailAddressConfirm" data-valmsg-replace="true"></span>
+                </div>
+
+                <div class="error-set">
+                    <p class="invalid">Please confirm Email</p>
+                    <p class="match">Email doesn't match.</p>
+                </div>
+            </div>
+            <div class="dropdown select">
+                <button id="dLabel" type="button" data-toggle="dropdown" aria-haspopup="true" role="button" aria-expanded="false">
+                    <span class="label">Location*</span>
+                    <span class="selected-value">Select a location</span>
+                    <span class="icon-arrow-down"></span>                    
+                </button>
+                <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">                                        
+                            <li data-value="619">
+                                Blink 116th
+                            </li>
+                            <li data-value="610">
+                                Blink 125th Street
+                            </li>
+                            <li data-value="624">
+                                Blink Astoria
+                            </li>
+                            <li data-value="631">
+                                Blink Baldwin
+                            </li>
+                            <li data-value="616">
+                                Blink Brentwood
+                            </li>
+                            <li data-value="634">
+                                Blink Bryant Park
+                            </li>
+                            <li data-value="622">
+                                Blink Chelsea
+                            </li>
+                            <li data-value="639">
+                                Blink Clifton
+                            </li>
+                            <li data-value="618">
+                                Blink Concourse Village
+                            </li>
+                            <li data-value="613">
+                                Blink Flatbush
+                            </li>
+                            <li data-value="621">
+                                Blink Grand Concourse
+                            </li>
+                            <li data-value="612">
+                                Blink Islandia
+                            </li>
+                            <li data-value="609">
+                                Blink Jamaica
+                            </li>
+                            <li data-value="625">
+                                Blink Journal Square
+                            </li>
+                            <li data-value="640">
+                                Blink Linden
+                            </li>
+                            <li data-value="623">
+                                Blink Lodi
+                            </li>
+                            <li data-value="607">
+                                Blink Melville
+                            </li>
+                            <li data-value="611">
+                                Blink Murray Hill
+                            </li>
+                            <li data-value="642">
+                                Blink Nassau
+                            </li>
+                            <li data-value="601">
+                                Blink NoHo
+                            </li>
+                            <li data-value="606">
+                                Blink Nostrand
+                            </li>
+                            <li data-value="628">
+                                Blink On Gates
+                            </li>
+                            <li data-value="603">
+                                Blink Paramus
+                            </li>
+                            <li data-value="605">
+                                Blink Parkchester
+                            </li>
+                            <li data-value="626">
+                                Blink Parsippany
+                            </li>
+                            <li data-value="630">
+                                Blink Penn Plaza
+                            </li>
+                            <li data-value="629">
+                                Blink Roosevelt
+                            </li>
+                            <li data-value="615">
+                                Blink Selden
+                            </li>
+                            <li data-value="627">
+                                Blink Sheepshead Bay
+                            </li>
+                            <li data-value="608">
+                                Blink St Anns
+                            </li>
+                            <li data-value="637">
+                                Blink Union
+                            </li>
+                            <li data-value="620">
+                                Blink Utica
+                            </li>
+                            <li data-value="614">
+                                Blink West Islip
+                            </li>
+                            <li data-value="617">
+                                Blink White Plains
+                            </li>
+                            <li data-value="602">
+                                Blink Yonkers
+                            </li>
+                </ul>
+               
+                <div class="error-set">
+                    <p class="invalid">Please choose a club</p>
+                </div>
+            </div>
+            <div class="btns">
+                <a href="javascript:void(0);" class="btn block thin submit orange">
+                    SUBMIT
+                </a>
+            </div>
+</form>       </div>
+</div>
+       
+       
+
+<div id="signupModal" class="content-for-modal">
+    <div id="modal-free-trial">
+        <h3>Sign Up Now </h3>
+<form action="/trial/submit" id="trialform" method="post">            <h6 class="required">*Required</h6>
+            <div class="first-name">
+                <div class="field-container">
+                    <label for="firstName">First Name <abbr title="Required">*</abbr></label>
+                    <input class="" data-val="true" data-val-length="The First Name cannot be more than 50 characters" data-val-length-max="50" data-val-regex="Please enter a valid First Name" data-val-regex-pattern="^[a-zA-Z ]+$" data-val-required="Please enter a First Name" id="firstName" maxlength="50" name="TrialPass.FirstName" type="text" value="">
+                    <span class="field-validation-valid" data-valmsg-for="TrialPass.FirstName" data-valmsg-replace="true"></span>
+
+                </div>
+
+                <div class="error-set">
+                    <p class="invalid">invalid name</p>
+                </div>
+            </div>
+            <div class="last-name">
+                <div class="field-container">
+                    <label for="lastName">Last Name <abbr title="Required">*</abbr></label>
+                    <input class="" data-val="true" data-val-length="The Last Name cannot be more than 50 characters" data-val-length-max="50" data-val-regex="Please enter a valid Last Name" data-val-regex-pattern="^[a-zA-Z ]+$" data-val-required="Please enter a Last Name" id="lastName" maxlength="50" name="TrialPass.LastName" type="text" value="">
+                    <span class="field-validation-valid" data-valmsg-for="TrialPass.LastName" data-valmsg-replace="true"></span>
+                </div>
+
+                <div class="error-set">
+                    <p class="invalid">invalid name</p>
+                </div>
+            </div>
+            <div class="email">
+                <div class="field-container">
+                    <label for="email1">Email <abbr title="Required">*</abbr></label>
+                    <input class="span12" data-val="true" data-val-length="The Email cannot be more than 100 characters" data-val-length-max="100" data-val-regex="Please enter a valid Email" data-val-regex-pattern="^([a-zA-Z0-9_\-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([a-zA-Z0-9\-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$" data-val-required="Please enter an Email" id="emailAddress" maxlength="100" name="TrialPass.EmailAddress" type="email" value="">
+                    <span class="field-validation-valid" data-valmsg-for="TrialPass.EmailAddress" data-valmsg-replace="true"></span>
+                </div>
+
+                <div class="error-set">
+                    <p class="invalid">invalid email</p>
+                </div>
+            </div>
+            <div class="email">
+                <div class="field-container">
+                    <label for="email2">Confirm Email <abbr title="Required">*</abbr></label>
+                    <input class="span12" data-val="true" data-val-equalto="Email doesn't match." data-val-equalto-other="*.EmailAddress" data-val-length="The Email cannot be more than 100 characters" data-val-length-max="100" data-val-regex="Please enter a valid Email" data-val-regex-pattern="^([a-zA-Z0-9_\-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([a-zA-Z0-9\-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$" data-val-required="Please confirm Email" id="emailAddressConfirm" maxlength="100" name="TrialPass.EmailAddressConfirm" type="email" value="">
+                    <span class="field-validation-valid" data-valmsg-for="TrialPass.EmailAddressConfirm" data-valmsg-replace="true"></span>
+                </div>
+
+                <div class="error-set">
+                    <p class="invalid">invalid email</p>
+                    <p class="match">Emails must match</p>
+                </div>
+            </div>
+            <div class="dropdown select">
+                <button id="dLabel" type="button" data-toggle="dropdown" aria-haspopup="true" role="button" aria-expanded="false">
+                    <span class="label">locations*</span>
+                    
+                    <label for="TrialPass_FacilityID">Select a location</label>
+                    <select class="span12" data-val="true" data-val-required="Please choose a club" id="TrialPass_FacilityID" name="TrialPass.FacilityID"><option value=""> Choose One</option>
+<option value="619">Blink 116th</option>
+<option value="610">Blink 125th Street</option>
+<option value="624">Blink Astoria</option>
+<option value="631">Blink Baldwin</option>
+<option value="616">Blink Brentwood</option>
+<option value="634">Blink Bryant Park</option>
+<option value="622">Blink Chelsea</option>
+<option value="639">Blink Clifton</option>
+<option value="618">Blink Concourse Village</option>
+<option value="613">Blink Flatbush</option>
+<option value="621">Blink Grand Concourse</option>
+<option value="612">Blink Islandia</option>
+<option value="609">Blink Jamaica</option>
+<option value="625">Blink Journal Square</option>
+<option value="640">Blink Linden</option>
+<option value="623">Blink Lodi</option>
+<option value="607">Blink Melville</option>
+<option value="611">Blink Murray Hill</option>
+<option value="642">Blink Nassau</option>
+<option value="601">Blink NoHo</option>
+<option value="606">Blink Nostrand</option>
+<option value="628">Blink On Gates</option>
+<option value="603">Blink Paramus</option>
+<option value="605">Blink Parkchester</option>
+<option value="626">Blink Parsippany</option>
+<option value="630">Blink Penn Plaza</option>
+<option value="629">Blink Roosevelt</option>
+<option value="615">Blink Selden</option>
+<option value="627">Blink Sheepshead Bay</option>
+<option value="608">Blink St Anns</option>
+<option value="637">Blink Union</option>
+<option value="620">Blink Utica</option>
+<option value="614">Blink West Islip</option>
+<option value="617">Blink White Plains</option>
+<option value="602">Blink Yonkers</option>
+</select>
+                    <span class="field-validation-valid" data-valmsg-for="TrialPass.FacilityID" data-valmsg-replace="true"></span>
+                </button>
+             
+                <div class="error-set">
+                    <p class="invalid">Please select a location</p>
+                </div>
+            </div>
+            <div class="btns">
+                <a href="/" class="btn block thin submit orange">
+                    SignUp
+                </a>
+            </div>
+</form>    </div>
+</div>
+        
+       
+       
+
+        
+
+        
+
+
+
+<script>
+
+		tagData.global = {"pageArea":"pub","pageSection":"utilities","pageSubsection":"","pageItem":"privacypolicy","serverName":"BLKAWSVWPWBE1A","loginStatus":"out"};
+    
+    
+</script>
+
+
+
+
+        <script type="text/javascript">_satellite.pageBottom();</script>
+        
+        
+        
+        
+    
+
+</body></html>
