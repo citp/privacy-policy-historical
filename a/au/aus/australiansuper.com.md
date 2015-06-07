@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the australiansuper.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109012040id_/http%3A//www.australiansuper.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australiansuper.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607234925id_/http%3A//www.australiansuper.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # AustralianSuper - Privacy Policy
 
@@ -96,12 +96,12 @@ For employment candidates, AustralianSuper may disclose your personal informatio
 
 ## 7\. Is AustralianSuper likely to disclose personal information to overseas recipients?
 
-Our Fund administrator may use overseas service providers located in countries including the USA, India, Philippines, Singapore, Canada, Malaysia, New Zealand and the UK for aspects of fund administration (a current list of countries can be found in Superpartners’ privacy policy at [www.superpartners.com.au](http://www.superpartners.com.au/ "Opens in new window")). Your personal information may be accessed by those service providers.
+Our Fund administrator may use overseas service providers located in countries including the USA, India, Philippines, Singapore, Canada, Malaysia, New Zealand and the UK for aspects of fund administration (a current list of countries can be found in Superpartners’ privacy policy at [www.superpartners.com.au/privacy](http://www.superpartners.com.au/privacy "Opens in new window")). Your personal information may be accessed by those service providers.
 
 Other instances where your personal information may be accessed by an Australian service provider that sub-contracts certain services overseas, or by an overseas service provider include:
 
-  * to deliver some emails and manage our educational events – only required details will be shared with service providers in the USA 
-  * to administer the Member Direct investment option. These services are provided on behalf of UBS Securities Australia Limited (UBS) out of New Zealand 
+  * to deliver some emails, provide a "click to chat" service on our website, and manage our educational events – only required details will be shared with service providers in the USA 
+  * to administer the Member Direct investment option. Some of these services are provided on behalf of UBS Securities Australia Limited (UBS) out of New Zealand and the Czech Republic 
   * where you request financial planning advice from Mercer Financial Advice (Australia) Pty Ltd –certain services are provided by Mercer’s related entity on behalf of Mercer out of overseas countries. A list of countries can be found in Mercer’s privacy policy at [www.mercer.com.au](http://www.mercer.com.au/ "Opens in new window")
   * where you join our AustralianSuper online member panel to provide us with feedback, this service is hosted in Canada 
   * our auditors KPMG, PwC and EY may disclose limited personal information to their overseas related entities. A list of countries can be found in their respective privacy policies: 
@@ -185,4 +185,4 @@ We will review your complaint and respond within a reasonable period of time aft
 
 If you are not satisfied with the resolution of your complaint, you can refer your complaint to the Office of the Australian Information Commissioner at [www.oaic.gov.au](http://www.oaic.gov.au/ "Opens in new window").
 
-Document last updated on:  27 October 2014
+Document last updated on: 30 March 2015
