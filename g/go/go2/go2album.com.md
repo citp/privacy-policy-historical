@@ -1,46 +1,41 @@
-> *The following text is extracted and transformed from the go2album.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021093513id_/http%3A//www.go2album.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go2album.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607195013id_/http%3A//www.photo-flash-maker.com/privacy.html) for the most accurate reproduction.*
 
-# - Web Album Created with Flash Slideshow Software
+# Privacy Policy - Photo Flash Maker values your privacy
 
-**Go2Albums Commitment to Privacy**    
+We value your privacy. 
 
+Our goal in handling information provided to us in connection with the processing of transactions on our Website is to comply with applicable data privacy laws and to offer users of our Website notice, choice, consent, security, data integrity, access and enforcement with regard to personal information provided to us by individuals in conjunction with those transactions.
 
-Go2Album.Com respects your privacy. This policy governs websites owned and operated by Go2Album and discloses the information gathering and dissemination practices of our corporate website. 
+We are committed to protecting your privacy. We have created this Privacy Policy to demonstrate our firm commitment to your privacy and the protection of your information.
 
-This Privacy Notice details important information regarding the use and disclosure of User information collected on the Go2Album Sites. Go2Album provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Go2Album Sites.   
+We will only collect your personal information for defined purposes. We do not distribute or share your personal information beyond what is strictly necessary to fulfill our obligations to you. We may share your information only with partners who adhere to our commitment to protecting your privacy. We will not sell your personal information in any manner whatsoever.
 
+## What information do we collect? What do we use it for?
 
-Please note that any slideshow, or other content posted at the direction of Users onto the Go2Album Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice.   
+We partner with Avangate, PayPal, RegNow and SWREG to provide you safe and fast e-commerce services. When you place an order on our website, your full name, email address, mailing address, phone number, credit card number, and credit card expiration date will be required. The information is used to complete the transaction and help us provide better support and services to you.
 
+Actually, We does not deal with the transaction and will not get your credit card information. We only keep your user name, email address and the info of the product you purchase. This information is kept for customer services purpose only.
 
-**Information Collection and Use**    
+## How do 3rd party credit card processors protect your information?
 
+The e-commerce partners we select are the leading companies in software distribution and online payment. 
 
-Go2Album collects personal information including name, address and email when you choose to participate in various activities on the Go2Album Sites such as uploading Go2Album, posting messages in the album comments section, taking advantage of promotions, responding to surveys, or other mailing lists.   
+#### Avangate 
 
+Avangate is a secure ordering platform for software distribution channels. It's a member of GECAD Group , creator of RAV antivirus technology, delivering top IT solutions worldwide since 1992. Avangate was launched in 2005, Headquartered in Amsterdam, The Netherlands. [Read the Privacy Policy of Avangate](http://www.avangate.com/online-payment-solutions/privacy.php)
 
-If you submit personally identifiable information to us through the Go2Album Sites, then we use your personal information to operate, maintain, and provide to you the features and functionality of the Go2Album Sites.
+#### PayPal
 
-Any personal information or Go2Album content that you voluntarily disclose online becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other Users when you upload Go2Album or send messages through the Go2Album Sites and other Users can contact you through messages and comments. Any Go2Album that you submit to the Go2Album Sites may be redistributed through the internet and other media channels, and may be viewed by the general public.    
+PayPal is the safer, easier way to pay and get paid online that has been in operation since 1998. It has become a global leader in online payment solutions with more than 164 million accounts worldwide. We use Pal pay to provide you with very secure and fast online purchase. [Read the Privacy Policy of PayPal ](https://www.paypal.com/us/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside)
 
+#### RegNow
 
-We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Go2Album Site changes or for customer service purposes).    
+RegNow is an industry leader in providing e-commerce processing services and online credit card processing for vendors and authors of PC and Macintosh software, freeware, shareware, electronic art, shopping cart, ecommerce provider and other data. We used RegNow to provide you with very secure and fast online purchase. [Read the Privacy Policy of RegNow](http://www.regnow.com/privacy.html)
 
+#### SWREG
 
-We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, click stream data, etc.) to improve the quality and design of the Go2Album Sites and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends. 
+SWREG offers merchant accounts, a paypal alternative, affordable ecommerce, payment processing, ecommerce solution, and an online software store with the ability to sell shareware. SWREG offers numerous customer payment options including: Visa, MasterCard, American Express, Discover, JCB, Switch, Solo, Paypal, US Check, UK Cheque, International Money Order, EFT, ACH, BACS, Wire Transfer, Credit Card by Phone or Fax with 16 toll-free international numbers. [Read the Privacy Policy of SWREG](http://www.swreg.org/privacy.htm)
 
-We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Go2Album Sites; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions.    
+## About cookies
 
-
-**Opt-out Policy**    
-
-
-Go2Album subscribers who have opted-in to receive email communications from us have the ability to opt-out by following the opt-out instructions on the bottom of emails sent. You may also opt-out by contacting [_unsubscribe@anvsoft.com_](mailto:unsubscribe@anvsoft.com)   
-
-
-**Changes and updates to this Privacy Notice**    
-
-
-This Privacy Notice may be revised periodically. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received the personal information you provided. Your continued use of the Go2Album Sites constitutes your agreement to this Privacy Notice and any future revisions.
-
-For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
+In order to better understand what services are valuable to our customers, "cookies" will be used. A cookie is a small text file that a Website writes to your hard drive. Cookies work as your identification card and may record passwords, preferences and purchases. Cookies let the web page server know that you have returned to this site. Cookies also can determine other information, such as the daily visitors to our web site and the pages of the site most frequently visited. Cookies are unique and can only be read by the server that assigns them. They cannot be executed as code or deliver viruses.
