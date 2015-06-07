@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the rgraph.net privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209192539id_/http%3A//www.rgraph.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rgraph.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200424id_/http%3A//www.rgraph.net/privacy) for the most accurate reproduction.*
 
 # The RGraph privacy policy
 
-[
-
-](http://www.rgraph.net/)
-
-[ ](https://twitter.com/intent/tweet?source=webclient&text=RGraph+-+HTML5%2FJavascript+charts+and+graphs+http%3A%2F%2Fwww.rgraph.net+%40_rgraph) [ ](https://plus.google.com/b/106209632170546599952/106209632170546599952) [ ](http://www.facebook.com/rgraph)
+[Home](https://web.archive.org/) > Privacy policy
 
 This privacy policy sets out how RGraph Licensing uses and protects any information that you give RGraph Licensing when you use this website. 
 
@@ -14,7 +10,7 @@ RGraph Licensing is committed to ensuring that your privacy is protected. Should
 
 RGraph Licensing may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from May 2012. 
 
-### How we use cookies
+## How we use cookies
 
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
 
@@ -24,21 +20,19 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
 
-### Links to other websites
+## Links to other websites
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
 
-### Controlling your personal information
+## Controlling your personal information
 
 You may choose to restrict the collection or use of your personal information in the following ways: 
 
   * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
-  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing [RGraph support](https://web.archive.org/support.html). 
+  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing [RGraph support](https://web.archive.org/support). 
 
 
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.. 
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
-
-© Copyright 2008 RGraph licensing All rights reserved. [Privacy policy](http://www.rgraph.net/privacy), [Terms and conditions](http://www.rgraph.net/terms)
+If you believe that any information we are holding on you is incorrect or incomplete, please contact us as soon as possible. We will promptly correct any information found to be incorrect. 
