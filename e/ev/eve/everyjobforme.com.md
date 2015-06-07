@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the everyjobforme.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121021026id_/http%3A//everyjobforme.com/education/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyjobforme.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607184611id_/http%3A//www.everyjobforme.com/education/privacy_policy) for the most accurate reproduction.*
 
-# JobsRadar.com - Find Jobs. Showcase Your Resume. Get Hired.
+# EveryJobForMe - Find Jobs. Showcase Your Resume. Get Hired.
 
 ### EveryJobForMe.com PRIVACY POLICY Effective Date: April 16, 2010
 
 This privacy policy (this "Policy") covers the web site www.EveryJobForMe.com and the other web sites operated under the domain name EveryJobForMe.com (the "Site") and is applicable to all information about you ("you" or "your") collected through the Site. 
 
 This Policy describes the types of information that EveryJobForMe.com ("EveryJobForMe", "we", "us" or "our") gathers from you and the other people who visit the Site (the "Users"), how we may use that information and how you can contact us regarding this Policy and your personal information. 
+
+EveryJobForMe.com is powered by [Jobcase.com](http://jobcase.com/). When you register with EveryJobForMe.com, you are automatically registered with Jobcase and are also bound by the Jobcase [terms of use](https://jobcase.com/terms_of_use) and Jobcase [privacy policy](https://jobcase.com/privacy_policy). After you register with EveryJobForMe.com, [click here](http://jobcase.com/) to access full functionality from your Jobcase account. 
 
 **Your Consent**
 
@@ -22,9 +24,9 @@ To cancel or correct your personal information: send an email with your User Nam
 To express or ask questions regarding privacy concerns: send an email to info@everyjobforme.com 
 
 Address:  
-201 Broadway Street  
-Suite 7  
-Cambridge, MA 02139  
+40 Warren Street  
+3rd Floor  
+Charlestown, MA 02129  
 
 
 **Registration**
