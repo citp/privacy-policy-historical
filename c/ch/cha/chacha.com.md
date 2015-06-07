@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chacha.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229003217id_/http%3A//about.chacha.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chacha.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607035835id_/http%3A//about.chacha.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | | About ChaChaAbout ChaCha
+# Privacy Policy - About ChaCha | About ChaCha
 
 **Privacy Policy**
 
@@ -12,7 +12,7 @@ This Privacy Policy summarizes ChaCha’s privacy practices and the uses of the 
 
 In connection with your access to or use of the Site or the Services, ChaCha may request and/or collect from you personal information that may include: first and last name, address, phone number, email address, location or other information (”Personal Information”). By accessing or using the Site or the Services you are accepting the terms of ChaCha’s Privacy Policy.
 
-Some of the Personal Information (for example your name and username) is listed publicly on chachee.heroku.com, me.chacha.com and ChaCha.me (collectively, the "ChaCha.me Service"), including on your profile page and in search results. The ChaCha.me Service is designed to help you receive answers and comments. Because most of the information you provide to the ChaCha.me Service is information you want made public, your questions and comments may be broadly and instantly disseminated. You should be careful about all information that may be made public by the ChaCha.me Service. When you submit information, you are transferring such information into the World Wide Web and you hereby consent to such transfer. Likewise, your replies to questions submitted via the ChaCha.me Service may be published to other websites. You are responsible for what gets published. Whatever you enter into the ChaCha.me Service text boxes may be published and could be publicly viewable immediately upon your clicking the submit button.
+Some of the Personal Information (for example your name and username) is listed publicly on chachee.heroku.com, me.chacha.com and ChaCha.me (collectively, the “ChaCha.me Service”), including on your profile page and in search results. The ChaCha.me Service is designed to help you receive answers and comments. Because most of the information you provide to the ChaCha.me Service is information you want made public, your questions and comments may be broadly and instantly disseminated. You should be careful about all information that may be made public by the ChaCha.me Service. When you submit information, you are transferring such information into the World Wide Web and you hereby consent to such transfer. Likewise, your replies to questions submitted via the ChaCha.me Service may be published to other websites. You are responsible for what gets published. Whatever you enter into the ChaCha.me Service text boxes may be published and could be publicly viewable immediately upon your clicking the submit button.
 
 IF YOU DO NOT AGREE TO THE PRIVACY PRACTICES DESCRIBED IN THIS PRIVACY POLICY, PLEASE DO NOT USE THE CHACHA SITE OR SERVICES.
 
