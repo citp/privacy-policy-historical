@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ouac.on.ca privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220122815id_/http%3A//www.ouac.on.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ouac.on.ca privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607035822id_/http%3A//www.ouac.on.ca/privacy) for the most accurate reproduction.*
 
 # Privacy | Ontario Universities' Application Centre
 
@@ -6,12 +6,12 @@ The Ontario Universities’ Application Centre (OUAC) is committed to protecting
 
 ## Declaration and Notice of Collection, Use, Disclosure and Treatment of Your Personal Information (Division-specific)
 
-  * [101](https://web.archive.org/web/20141220122815id_/http%3A//www.ouac.on.ca/101-declaration) (Current Ontario High School Students [101])
-  * [105](https://web.archive.org/web/20141220122815id_/http%3A//www.ouac.on.ca/105-declaration) (All Other Undergraduate Applicants [105])
-  * [OLSAS](https://web.archive.org/web/20141220122815id_/http%3A//www.ouac.on.ca/olsas-declaration) (Ontario Law School Application Service)
-  * [OMSAS](https://web.archive.org/web/20141220122815id_/http%3A//www.ouac.on.ca/omsas-declaration) (Ontario Medical School Application Service)
-  * [ORPAS](https://web.archive.org/web/20141220122815id_/http%3A//www.ouac.on.ca/orpas-declaration) (Ontario Rehabilitation Sciences Programs Application Service)
-  * [TEAS](https://web.archive.org/web/20141220122815id_/http%3A//www.ouac.on.ca/teas-declaration) (Teacher Education Application Service)
+  * [101](https://web.archive.org/web/20150607035822id_/http://www.ouac.on.ca/privacy/101-declaration) (Current Ontario High School Students [101])
+  * [105](https://web.archive.org/web/20150607035822id_/http://www.ouac.on.ca/privacy/105-declaration) (All Other Undergraduate Applicants [105])
+  * [OLSAS](https://web.archive.org/web/20150607035822id_/http://www.ouac.on.ca/privacy/olsas-declaration) (Ontario Law School Application Service)
+  * [OMSAS](https://web.archive.org/web/20150607035822id_/http://www.ouac.on.ca/privacy/omsas-declaration) (Ontario Medical School Application Service)
+  * [ORPAS](https://web.archive.org/web/20150607035822id_/http://www.ouac.on.ca/privacy/orpas-declaration) (Ontario Rehabilitation Sciences Programs Application Service)
+  * [TEAS](https://web.archive.org/web/20150607035822id_/http://www.ouac.on.ca/privacy/teas-declaration) (Teacher Education Application Service)
 
 
 
