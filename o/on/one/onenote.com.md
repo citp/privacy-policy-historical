@@ -1,141 +1,174 @@
-> *The following text is extracted and transformed from the onenote.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616221015id_/http%3A//office.microsoft.com/en-us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onenote.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607030716id_/https%3A//go.microsoft.com/fwlink/p/%3FLinkId%3D316968) for the most accurate reproduction.*
 
-# Microsoft Office Online Privacy Statement
+# Office Privacy Statement
 
-This document was last updated April 14, 2005.
+Office Privacy Statement
 
-At Microsoft ® we understand that purchasing services online involves a great deal of trust on your part. We take this trust very seriously and make it a priority to protect the confidentiality of the personally identifiable information ("PII") you provide to us. (PII includes information that can be linked to you as a specific individual, such as your name, address, phone number, or e-mail address.) Sometimes we need information to provide services that you request, and this Privacy Statement explains what information we will collect and how we will use it. By using this site, you consent to the information practices described in this Privacy Statement.
+This Privacy Statement governs any Microsoft Office products and services that link to and indicate they are governed by this Privacy Statement including but not limited to the following Microsoft Office products: Excel, OneDrive, OneNote, Outlook, PowerPoint, Sway, Word, and O365 consumer subscriptions. The information we collect depends on the specific product or feature you use.  For descriptions of privacy practices specific to a given Office product, please refer to the same-titled sections below.  In some scenarios, a product may create and store certain data, including hidden metadata, which remains within the document or on the local device but is not sent to or collected by Microsoft.  For example, your Microsoft Word documents may contain the name of the author, company, last saved date, and document editors.  For more information about this kind of data and about your options related to this data, please see <http://www.microsoft.com/security/online-privacy/office.aspx>.
 
-Microsoft is a participant in the [Safe Harbor](http://www.export.gov/safeharbor/SHPRINCIPLESFINAL.htm) Agreement between the United States and the European Union, and complies with the Safe Harbor principles published by the U.S. Department of Commerce.
+Information We CollectCollecting Your Information
 
-This Privacy Statement applies to the Microsoft Office  Online Web site. It does not apply to other online or offline Microsoft sites, products or services.
+Microsoft collects many kinds of information in order to operate effectively and provide you the best products, services and experiences we can.
 
-### Information collected about you
+We collect information when you register, sign in and use our sites and services. We also may get information from other companies.
 
-Microsoft Office 2003 collects personally identifiable information ("PII") about you that you specifically and voluntarily provide. PII includes information that can identify you as a specific individual, such as your name, phone number, or e-mail address. On all Office 2003 pages that collect PII, we specifically describe what information is required in order to provide you with the product or service that you have requested.
+We collect this information in a variety of ways, including from web forms, technologies like [cookies](http://www.microsoft.com/privacystatement/EN-US/Core/default.aspx?componentid=pspCookiesModule&view=Description "cookies"), web logging and software on your computer or other device. 
 
-Office 2003 collects PII when you:
+How We Use Your Personal InformationUsing Your Information
 
-  * Post to one of the Office 2003 communities
-  * Submit a rating
-  * Use one of the Office 2003 self-paced interactive courses
-  * Sign up for the Office Marketplace
-  * Contact Office 2003
+Microsoft uses the information we collect to operate, improve and personalize the products and services we offer.
 
+We also may use the information to communicate with you, for example, informing you about your account and security updates.
 
+And we may use the information to help make the ads you see on our ad-supported services more relevant.
 
-### Post to one of the Office 2003 Communities
+Reasons We Share Your Personal InformationSharing Your Information
 
-Office 2003 provides online communities where you can get answers to your questions about Office or post answers to other users' questions. When you first post to an Office community, Office will ask you to provide a screen name and e-mail address. All community users can see anything you post, including your screen name and IP address. Office also records the communities that you belong to and a score based on the number of users that you have helped. You have the option of publishing your e-mail address and community membership information to others on the system, although you are not required to do so.
+We will share your personal information with your consent.  We may also share or disclose information with Microsoft affiliates and vendors; when required by law or to respond to legal process; to protect our customers; to protect lives; to maintain the security of our services; and to protect the rights or property of Microsoft.
 
-### Submit a Rating
+Accessing Your Personal InformationAccessing Your Information
 
-You have the opportunity to rate some content in Office  2003, such as posts to a community, online courses, or design templates provided by Office. When you rate content, Office will collect your rating as well as a uniquely identifying number used to match you with the rating that you have provided. Your rating will always be anonymous. The uniquely identifying number is used only to allow you to change your rating at a later time.
+Some Microsoft services give you the ability to view or edit your personal information online. To help prevent others from viewing your personal information, you first will be required to sign in. How you can access your personal information will depend on which sites or services you have used.
 
-### Use one of the Office 2003 self-paced interactive courses
+Cookies & Similar TechnologiesCookies
 
-While you are taking one of the Office 2003  self-paced training courses, Office creates a file for you that keeps track of the lessons that you have completed. This allows Office to show you which lessons you have already completed. This information is not made available to other Office customers or to any third parties.
+Most Microsoft websites use "cookies," which are small text files stored on your device, to help operate the sites and collect information about online activity. For instance, we use cookies to store your preferences and settings; help with sign-in; provide targeted ads; combat fraud; and analyze site operations. 
 
-### Sign up for the Office Marketplace (US Only)
+We also use web beacons to help deliver cookies and compile analytics. These may include web beacons from third-party service providers.
 
-If you own a business or a service, you have the option of signing up to place your business information in the Office Marketplace section of Office 2003. The information that you enter will be exposed to other Office users. Office Marketplace collects only the information that you choose to give to us.
+You have a variety of tools to control cookies and similar technologies, including:
 
-### Contacting Office 2003
+  * Browser controls to block and delete cookies; 
+  * Advertising controls, including Microsoft's controls at <http://choice.live.com/advertisementchoice/>, to opt out of receiving behaviorally targeted ads; and 
+  * Controls from some analytics service providers to opt out of data collection through web beacons. 
 
-Office 2003 collects information such as your full name, e-mail address, and/or contact information whenever you submit a question or suggestion. This information is used only to track your question and contact you with a response if necessary.
 
-### Computer Information
 
-Office 2003 collects certain technical information from your computer each time you request a page during a visit to Office. This information is collected from your computer's Web browser and may include your IP address, operating system, Web browser software (e.g. Netscape Navigator or Internet Explorer), screen resolution, and referrer Web site. Wireless users: Please check with your wireless company if you are using your cellular phone to access the Internet to understand whether PII may be used to identify you.
+Microsoft accountMicrosoft account
 
-### Office 2003 and Microsoft .Net Passport
+Microsoft account is a service that lets you sign in to Microsoft products, web sites and services, as well as those of select Microsoft partners. When you create a Microsoft account, we ask you to provide certain information. When you sign in to a site or service using your Microsoft account, we collect certain information in order to verify your identity on behalf of the site or service, to protect you from malicious account usage and to protect the efficiency and security of the Microsoft account service.  We also send some of this information to sites and services that you sign in to with your Microsoft account.
 
-Microsoft Office 2003 uses the .NET Passport service to provide certain registration and sign-in services. In order to sign in to this site using .NET Passport, you will be asked to type your e-mail address and a password. This same Passport sign-in allows you to access many other Passport participating sites and services. If you create a .NET Passport from Office, you are simultaneously registering with Office and opening a .NET Passport account. All of the registration information that you provide will be stored by Office, and some or all of that information will also be stored by .NET Passport in your Passport profile.
+We use demographic information – gender, country, age and postal code but not your name or contact information – from your Microsoft account to provide personalized ads to you. **You may opt out of receiving targeted ads from Microsoft Advertising by visiting our** **[ **opt-out page**](https://choice.live.com/AdvertisementChoice/). **
 
-To learn more about the Passport service and how Passport uses and protects your personal information, please read the [Passport Privacy Statement](http://www.passport.net/Consumer/PrivacyPolicy.asp).
+To view additional details about Microsoft account, including how to create and use a Microsoft account, how to edit account information, and how we collect and use information relating to a Microsoft account, please click on Learn More.
 
-### Cookies and Other Web Technologies
+Communication PreferencesCommunications
 
-A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and cookies set by Office can only be read by Office.
+You can stop the delivery of future promotional email from Microsoft sites and services by following the specific instructions in the email you receive. Depending on the respective service, you may also have the option of proactively making choices about the receipt of promotional email, telephone calls, and postal mail for particular Microsoft sites or services.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, one of the cookies described below saves your language preference, so that Office will always provide you with the language you've selected when you return.
+Support DataSupport Data
 
-You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you will not be able to fully experience the interactive features of this or other web sites that you visit.
+Support Data is the information we collect when you submit a support request or run an automated troubleshooter, including information about hardware, software, and other details related to the support incident, such as: contact or authentication information, chat session personalization, information about the condition of the machine and the application from when the fault occurred and during diagnostics, system and registry data about software installations and hardware configurations, and error-tracking files. We use Support Data as described in this privacy statement, and additionally use it to resolve your support incident and for training purposes.
 
-Office will serve you cookies to personalize your site experience, authenticate your identity to the site, and store your language and site settings.
+Payment DataPayment Data
 
-### Use of Your Information
+Payment Data is the information that you provide when you make online purchases. This may include your payment instrument number ( _e.g.,_ credit card, PayPal), your name and billing address, and the security code associated with your payment instrument ( _e.g.,_ the CSV or CVV). This section provides additional information regarding the collection and use of your payment information.
 
-Microsoft Office 2003 will use your information for one of four purposes:
+Display of AdvertisingAdvertising
 
-  1. To store your information for you and deliver it to you when you request it.
-  2. To help you quickly find software, services or information on the Microsoft Office 2003 Web services.
-  3. To help us create and deliver content most relevant to you.
-  4. To learn about how our products fail and fix such problems.
+Most of the online advertisements on Microsoft sites and services are displayed by Microsoft Advertising. When we display online advertisements to you, we will place one or more [cookies](http://www.microsoft.com/privacystatement/EN-US/Core/default.aspx?componentid=pspCookiesModule&view=Description) in order to recognize your computer when we display an ad to you. Over time, we may gather information from the sites where we serve ads and use the information to help provide more relevant ads. 
 
+**You may opt out of receiving targeted ads from Microsoft Advertising by visiting our**[ **opt-out page**](http://go.microsoft.com/fwlink/?LinkID=286759) **.**
 
+ChildrenChildren
 
-You have the option of receiving alerts of product upgrades, special offers, updated information, and other new services from Microsoft. You can choose to sign up for or remove yourself from these alerts at any time. Please see the section on Deciding What Communications You Receive for more information.
+When a Microsoft site or service collects age information, it will block users under 13 or obtain consent from a parent or guardian before their child can use it. 
 
-Personally identifiable information collected on this site may be stored and processed in the United States or any other country in which Microsoft or its affiliates, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country.
+When consent is granted, the child's account is treated much like any other account, including letting the account holder communicate with other users.
 
-### Sharing Your Information
+Parents can change or revoke consent as described in this privacy statement.
 
-Microsoft Office 2003 does not sell or rent your personal information (PII) to anyone.
+Location Based ServicesLocation Based Services
 
-Except as otherwise described in this Privacy Statement, personal information you provide on this site will not be shared outside of Microsoft and its controlled subsidiaries and affiliates without your permission. We occasionally hire other companies to provide limited services on our behalf, including answering customer questions about products or services, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
+Certain services or features can use information about your location to provide services you request or personalize your experience.  Location information may include data identifying nearby cell towers and Wi-Fi hotspots, as wells as Global Position System (GPS) data.  For more information about location based services, please click on “Learn More.”
 
-### Our Legal Obligations
+Voice Enabled ServicesVoice-Enabled Services
 
-Microsoft may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Microsoft or the site; (b) protect and defend the rights or property of Microsoft and its family of Web sites, or (c) act in urgent circumstances to protect the personal safety of users of Microsoft, its Web sites, or the public.
+If you use voice-enabled services, your voice input and performance data associated with the speech functionality will be sent to Microsoft.  We use the voice input to provide the services to you and improve Microsoft products and services. We will not use your voice input for any other purpose.
 
-### Other Web Sites
+When voice commands are sent to Microsoft, Microsoft generates unique IDs to distinguish speech requests and responses. The IDs are randomly generated and do not contain any personal information.
 
-There are several places throughout Office that may link you to other Web sites that do not operate under Office 2003's information privacy practices. We encourage you to review the privacy statements of Web sites you choose to link to so that you can understand how those Web sites collect, use, and share information. Microsoft is not responsible for the privacy statements or other content on Web sites outside of the Microsoft.com domain.
+Connections to Other ServicesConnections to Other Services
 
-### Use of Web Beacons
+By default certain features in Office may use other Microsoft or third-party online services to give you the latest online content whenever you are connected to the Internet such as Help articles, templates and fonts. For example, when you click Help in some applications, Office shows online Help articles from Office.com. If you search online content such as Help, Office sends your search words to Office.com. Data that you send to these third-party online services is governed by the separate privacy statements of Microsoft and/or applicable third party. Click “Learn More” to learn about the data collection and use scenarios specific to this application.
 
-Office 2003 Web pages may contain electronic images known as Web beacons - sometimes called single-pixel gifs - that allow Office to count users who have visited those pages. Office may include web beacons in e-mail messages in order to count how many messages have been opened and acted upon. Web beacons are not used to access your personal information on Office; they are a technique we use to compile aggregated statistics about Office Web site usage.
+Office Roaming ServiceOffice Roaming Service
 
-Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides.
+The Office Roaming Service helps keep your Office settings up to date across devices running Office. When you sign into Office with your Microsoft account or with the user ID you use to access Office 365, the Office Roaming Service is turned on and syncs some of your customized Office settings to Microsoft servers. When you sign into Office on another device with the same Microsoft account or user ID you use to access Office 365, the Office Roaming Service downloads your settings from Microsoft servers and applies them to the additional device. The Office Roaming Service also applies some of your customized Office settings when you sign into Office.com.
 
-### Office Update
+When you sign into Office for iPad with a Microsoft account or with the user ID you use to access Office 365, the Office Roaming Service syncs the following Office settings with Microsoft servers. 
 
-Office Update allows you to scan your computer for the Office updates you need, and then download and install the necessary updates.
+  * List of most recently used documents
+  * Last location viewed within a document
 
-When you choose to scan your computer, Office sends a catalog to your computer containing a list of the potential updates that you may need, as well as an ActiveX control to run the scan. The ActiveX control compares the contents of your computer with the update list and shows you the updates that you should install. Office Update then allows you to download and install the updates using the site.
 
-Office Update maintains a log of successful and failed update installations. This log is anonymized and used to ensure the quality of the Office Update service.
 
-Office Update does not maintain a record of the specific files on your machine and does not collect any personal information.
+We use this data to provide the Office Roaming Service.
 
-### Control Over and Access to Your Information
+For more information about your privacy and Microsoft account, see the Microsoft account Privacy Statement. If you work in an organization, your administrator can turn off the Office Roaming Service via Group Policy. When you sign out of Office, the Office Roaming Service removes your Office settings from the device. Any changes you made to your customized Office settings are sent to Microsoft servers.
 
-When you give us personal information, Microsoft Office will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated above.
+Office 365 Education for Students ProgramO365 Students Program
 
-You can access the information that you provide to us by going to the page in which you entered your personal information. For instance, you can access your posts in the Communities by going to the Communities home page.
+The Office 365 Education for Students program uses your educational institution account (e.g. your student email). When managed directly by Microsoft, this privacy statement applies. Since this is an educational institution account, the owner of the educational institute domain (e.g., your school) may subsequently be able to assume control of your account and obtain access to your data and prior network activities. If this happens, this privacy statement will no longer apply to you, and you should direct any privacy-related inquiries to your school's network administrator.
 
-Please be aware that this Privacy Statement and the privacy choices you make on this site will not necessarily apply to personal information you may have provided to Microsoft in the context of other, separately operated, Microsoft products or services.
+OneDriveOneDrive
 
-### Deciding What Communications You Receive
+Some versions of this application enables users to access both their OneDrive for Business on their organization’s SharePoint tenancy and their OneDrive on their Microsoft Account storage. 
 
-Microsoft Office may send out periodic e-mails informing you of technical service issues related to a product or service you requested. You can stop receiving these e-mails and delete personal information about you by following the instructions included with each e-mail.
+**OneDrive:** OneDrive lets you store and access your files on virtually any device. You can also share and collaborate on your files with others.
 
-### Protecting Your Information
+When you store content in OneDrive, that content will inherit the sharing permissions of the folder in which you store it. For example, if you store content in a public folder, the content will be public and available to anyone on the Internet who can find the folder. If you store content in a private folder, the content will be private. By default, content stored in OneDrive is private unless you share it or store it in a public folder. 
 
-We want you to feel confident about using Microsoft Office  2003 to store and share your information. Office helps to protect the security of personal information and honors your choices for its intended use. Our goal is to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. For example, we store the personal information you provide on computer servers with limited access, which are located in controlled facilities.
+**OneDrive for Business:**
 
-### Changes to this Privacy Statement
+The OneDrive for Business functionality is designed to enable users to access their OneDrive for Business on their organization’s Microsoft SharePoint tenancy. When you store content in OneDrive for Business, that content will inherit the sharing permissions of the folder in which you store it. The OneDrive for Business application collects and transmits personally identifiable information, such as the user’s email and password, for authentication purposes only, as described in the app documentation. If you use SharePoint Online, Microsoft processes personally identifiable information as a data processor. Please contact your organization’s administrator for more detail.
 
-We may occasionally update this Privacy Statement. When we do, we will also revise the "last updated" date at the top of the Privacy Statement. For material changes to this Privacy Statement or how Microsoft Office  2003 will use your PII, we will notify you either by placing a prominent notice on the home page of our Web site or by directly sending you a notification. We encourage you to periodically review this Privacy Statement to stay informed about how we are protecting the personal information we collect. Your continued use of the service constitutes your agreement to this Privacy Statement and any updates.
+Click “Learn More” to learn about the data collection and use scenarios specific to this functionality.
 
-If you have questions about our Privacy Statement, please [contact us](http://go.microsoft.com/?linkid=2352271).
+Excel for WindowsExcel (Windows)
 
-### Contact information
+When you use Excel for Windows, the information we collect depends, in part, on the specific feature you use. Click “Learn More” to learn about the data collection and use scenarios specific to Excel.
 
-Microsoft welcomes your comments regarding this Privacy Statement. If you believe that Microsoft has not adhered to this Privacy Statement, please [contact us](http://go.microsoft.com/?linkid=2352271) via the Internet or postal mail and we will use commercially reasonable efforts to promptly determine and remedy the problem.
+Outlook for WindowsOutlook (Windows)
 
-Microsoft Office 2003 Privacy  
-One Microsoft Way  
-Redmond, WA 98052  
-USA
+You can use multiple accounts with Outlook by clicking “Add Account” from the File tab.  By default, these accounts store their data separately, but they share some configuration information, such as the settings stored in **Options**.  You can stop Outlook from sharing any information among accounts by configuring an Outlook profile for each account you use.
+
+OneNote from Windows StoreOneNote (Store)
+
+Windows 8 provides users with the ability to sign into Windows 8 using a Microsoft account in order to sync certain settings and have personalized experiences across devices that are also running Windows 8. Signing into Windows 8 with a Microsoft account automatically signs you into OneNote using the same Microsoft account. This allows you to store and access OneNote files in OneDrive without being asked to reenter your Windows 8 username and password.
+
+Outlook for MacOutlook (Mac)
+
+When you use Outlook for Mac, the information we collect depends, in part, on the specific feature you use.  Click “Learn More” to learn about the data collection and use scenarios specific to Outlook.
+
+PowerPoint for MacPowerPoint (Mac)
+
+The Broadcast Slide Show feature enables users to share their PowerPoint presentation with users who may view the slide show live in their Web browser. When you broadcast a slide show, Microsoft PowerPoint for Mac sends a copy of your full presentation to the server that you choose, along with information about the account that you use to connect to the server. PowerPoint provides you a URL through which other users can view the slide show. Although the broadcast feature only shows the slide show you present, it is possible for anyone with access to the URL to access your full presentation content, including hidden slides.
+
+Other Important Privacy InformationOther Information
+
+ **Learn more about**
+
+  * Protecting the security of personal information 
+  * Where we store and process information 
+  * Changes to our privacy statements 
+
+
+
+**How to Contact Us**
+
+  * If you have a technical or general support question, please visit <http://support.microsoft.com/> to learn more about Microsoft Support offerings. 
+  * If you have a Microsoft account password question, please visit [Microsoft account support.](http://go.microsoft.com/FWLink/p/?LinkID=320207)
+  * If you have a general privacy question or a question for the Chief Privacy Officer of Microsoft or want to request access to your personal information, please contact us by using our [Web form](http://go.microsoft.com/fwlink/?LinkId=321116 "Web form"). 
+    * By mail: Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052 USA 
+    * By Phone: 425-882-8080
+  * Microsoft Ireland Operations Limited is our data protection representative for the European Economic Area and Switzerland. The data protection officer of Microsoft Ireland Operations Limited can be reached at the following address:
+
+> Microsoft Ireland Operations, Ltd.  
+>  Attn: Data Protection  
+>  Carmenhall Road  
+>  Sandyford, Dublin 18, Ireland
+
+  * To find the Microsoft subsidiary in your country or region, see <http://www.microsoft.com/worldwide/>. 
+
+
