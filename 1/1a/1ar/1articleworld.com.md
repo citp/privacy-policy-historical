@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1articleworld.com privacy policy that was archived on 2014-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140826050004id_/http%3A//www.1articleworld.com/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1articleworld.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607202843id_/http%3A//www.1articleworld.com/terms.php) for the most accurate reproduction.*
 
 # Site Terms | www.1ArticleWorld.com
 
