@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearcarrental.com privacy policy that was archived on 2014-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140824084823id_/http%3A//www.clearcarrental.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearcarrental.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607212125id_/http%3A//www.clearcarrental.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Car Rental Services India.
 
