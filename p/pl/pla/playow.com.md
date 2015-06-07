@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playow.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218000646id_/http%3A//www.playow.com/%3Fpage_id%3D1347) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playow.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074454id_/http%3A//www.playow.com/%3Fpage_id%3D1347) for the most accurate reproduction.*
 
 # Privacy Policy | Playow.com
 
