@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationwidevehiclecontracts.co.uk privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217003839id_/http%3A//www.nationwidevehiclecontracts.co.uk/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationwidevehiclecontracts.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175206id_/http%3A//www.nationwidevehiclecontracts.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
 # Nationwides Privacy And Cookie Policy
 
@@ -121,7 +121,7 @@ For these purposes we or they may make further searches. Although these searches
 
 We and the credit reference agencies will also use the records for statistical analysis about credit.
 
-Please telephone us on 0844 482 9595 if you want to have details of those credit reference and fraud prevention agencies from whom we obtain and to whom we pass information about you. You have a legal right to these details.
+Please telephone us on 0800 091 9595 if you want to have details of those credit reference and fraud prevention agencies from whom we obtain and to whom we pass information about you. You have a legal right to these details.
 
 **Sharing your information with others**
 
