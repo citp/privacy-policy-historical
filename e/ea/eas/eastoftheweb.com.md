@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eastoftheweb.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210092256id_/http%3A//www.eastoftheweb.com/short-stories/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastoftheweb.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200529id_/http%3A//www.eastoftheweb.com/short-stories/privacy.shtml) for the most accurate reproduction.*
 
-# short story privacy policy
+# Short Story Privacy Policy
 
 Personal Data collected through this website is controlled by Hyperfiction, a privately owned UK business in compliance with the Data Protection Act 1998.
 
