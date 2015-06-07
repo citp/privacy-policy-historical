@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evolvingpf.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616073611id_/http%3A//www.evolvingpf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evolvingpf.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607153028id_/http%3A//evolvingpf.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Evolving Personal Finance | Evolving Personal Finance
 
