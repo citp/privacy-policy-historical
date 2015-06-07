@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filesflash.net privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219015403id_/http%3A//filesflash.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filesflash.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607035012id_/http%3A//filesflash.net/privacypolicy.php) for the most accurate reproduction.*
 
 # FilesFlash
 
