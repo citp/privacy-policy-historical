@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-job-interview.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121042902id_/http%3A//www.best-job-interview.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-job-interview.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142614id_/http%3A//www.best-job-interview.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -65,7 +65,7 @@ www.best-job-interview.com reserves the right to make changes in this policy. If
 
 If you do not agree to www.best-job-interview.com's Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.  Your use of this site indicates acceptance of this privacy policy.
 
-[Best Job Interview](http://www.best-job-interview.com/index.html) > Privacy Policy
+[Best Job Interview](http://www.best-job-interview.com/) > Privacy Policy
 
 To Top of Page  
 
