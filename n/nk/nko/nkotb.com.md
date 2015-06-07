@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nkotb.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205050340id_/http%3A//nkotb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nkotb.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140126id_/http%3A//www.nkotb.com/privacy) for the most accurate reproduction.*
 
 # Home : New Kids On The Block
 
