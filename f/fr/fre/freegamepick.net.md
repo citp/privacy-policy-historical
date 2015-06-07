@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the freegamepick.net privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114202231id_/http%3A//freegamepick.net/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegamepick.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607194055id_/http%3A//freegamepick.net/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at FreeGamePick
 
 **Overview of Our Privacy Policy**
 
-We supply free entertainment and utility software including games software, web search software, and other additional offers via following installers InnoSetup, DownloadAdmin. Our Products may include Toolbars. Our Toolbars add search functionality to your browser. They also allow one click access to news and our offers. (We refer to our software and Products throughout this agreement as our "Services").
+We supply free entertainment and utility software including games software. (We refer to our software and Products throughout this agreement as our "Services").
 
-We offer our Services to you in exchange for your agreement to view promotions, advertisements, or participate in other offers. We also offer you the opportunity to download third-party software.
+We offer our Services to you in exchange for your agreement to view promotions, advertisements, or participate in other offers. 
 
 Please read this Privacy Policy carefully so that you understand our online privacy practices regarding:
 
@@ -65,50 +65,6 @@ We currently do not send messages to or collect data from users. If at any time 
 
 If you would like to be removed from our system, you can reach us via email at contactus@freegamepick.net.
 
-**How Do Toolbars Affect Your Browser And Operating System?**
-
-Toolbars install into your Internet browser and allow you to search the Internet. If you consent to make a toolbar your default search, your Internet browser default search feature will be set and you will access search services (i) by entering queries in your browser search box; (ii) by entering queries in your browser address bar, and/or (iii) in response to misspelled, incorrectly formatted or unresolved DNS submissions in your browser address bar.
-
-Toolbars do not affect your operating system. Toolbars can be removed at any time. For more information regarding toolbars, please view our Terms of Service. If you would like to reset your browser, follow the General Uninstall Instructions below.
-
-**General Uninstall Instructions:**
-
-We're sorry to see you go! If, for any reason at all, you decide you no longer want the downloaded software or offers on your computer, you can easily uninstall them at any time. The following are general instructions regarding the software uninstallation process:
-
-**For Firefox Users**  
-Go to the orange "Firefox" menu located at the top left of your Firefox browser window  
-Select "Add-ons" to open the Add-ons Manager  
-Under "Extensions" click the name of the add-on that you would like to disable or remove  
-Select "Disable" or "Remove"  
-Select the "Restart Now" link to restart Firefox  
-That's it! You will now have successfully uninstalled the software.
-
-**For Windows 7 & Vista Users**  
-Go to the "Start Menu" located at the bottom right of your screen  
-Select "Control Panel"  
-Under "Programs" click "Uninstall a Program"  
-Right click on the program you wish to remove, then click "Uninstall/Change"  
-Follow the uninstallation steps  
-That's it! You will now have successfully uninstalled the software.
-
-**For Windows XP Users**  
-Go to the "Start Menu" located at the bottom right of your screen  
-Select "Control Panel"  
-Click "Add or Remove Programs"  
-Click the program you wish to remove, then click "Remove" or "Change/Remove"  
-Follow the uninstallation steps  
-That's it! You will now have successfully uninstalled the software.
-
-**For Windows 95, 98, Me, NT, 2000, and XP Users In Classic View**  
-From the "Start Menu," select "Settings," and then "Control Panel"  
-Double-click the "Add/Remove Programs" icon  
-Select the program you wish to remove and click on the "Remove" or "Change/Remove" button  
-Follow the prompts to finish the uninstallation of the software  
-That's it! You will now have successfully uninstalled the software.
-
-*Note: After you have uninstalled the software, certain data such as folders, files, registry keys, and cookies, may remain on your computer. We recommend that you clear your cookies after uninstalling.   
-**If for any reason you are having difficulties uninstalling your software, please reach us via email at contactus@freegamepick.net.
-
 **California Online Privacy Protection Act Compliance**
 
 Because we value your privacy, we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their account via the "Sign In" link on the top right of the home page. Then click on 'Page Settings' and then go to the 'Account' section. 
@@ -131,7 +87,7 @@ By using our site, you consent to our privacy policy.
 
 **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page. This policy was last modified June 1, 2014.
+If we decide to change our privacy policy, we will post those changes on this page. This policy was last modified February 9, 2015.
 
 **Contact Us**
 
