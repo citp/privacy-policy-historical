@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the youtubebyclick.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022161937id_/http%3A//www.youtubebyclick.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youtubebyclick.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607172921id_/http%3A//www.youtubebyclick.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - YouTube by click
 
 By using "YTByClick" toolbar, using Youtube by click video downloader or visiting www.youtubebyclick.com you signify your agreement to follow all the privacy policy set forth on this page: 
 
   1. What information do we collect? 
-We are not collect any personal information. 
+We are not collecting any personal information. 
   2. Do we use cookies? 
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information). We use cookies to understand and save your preferences language for future visits. 
   3. Do we disclose any information to outside parties? 
