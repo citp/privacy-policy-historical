@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the huge-it.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224060922id_/http%3A//huge-it.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huge-it.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607143752id_/http%3A//huge-it.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Website Development, Website Promotion, Website design
+# Privacy Policy
 
 ## Information we collect from you
 
