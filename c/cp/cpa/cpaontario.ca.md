@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cpaontario.ca privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117060600id_/http%3A//www.cpaontario.ca/Help/1010page1364.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpaontario.ca privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607131000id_/http%3A//www.cpaontario.ca/Help/1011page1364.aspx) for the most accurate reproduction.*
 
 # Privacy
 
-[ ](http://www.cpaontario.ca/help/emailPage/emailPage.aspx?pageURL=http://www.cpaontario.ca/Help/1010page1364.aspx) [ ](http://www.cpaontario.ca/Help/print_1010page1364.aspx)
+[ ](http://www.cpaontario.ca/help/emailPage/emailPage.aspx?pageURL=http://www.cpaontario.ca/Help/1011page1364.aspx) [ ](http://www.cpaontario.ca/Help/print_1011page1364.aspx)
 
 ## **_Our Commitment_**
 
