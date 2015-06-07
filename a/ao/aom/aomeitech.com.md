@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aomeitech.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122001209id_/http%3A//www.aomeitech.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aomeitech.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174754id_/http%3A//www.aomeitech.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
