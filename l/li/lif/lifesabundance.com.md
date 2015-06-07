@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifesabundance.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121094708id_/http%3A//www.lifesabundance.com/General/Privacy.aspx%3Frealname%3D%26cat%3D0%26hdr%3D%26Ath%3DFalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifesabundance.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607030747id_/http%3A//www.lifesabundance.com/General/Privacy.aspx%3Frealname%3D%26cat%3D0%26hdr%3D%26Ath%3DFalse) for the most accurate reproduction.*
 
 # Life's Abundance Privacy Policy
 
