@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spamfighter.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221071159id_/http%3A//www.spamfighter.com/Info_Privacy_Statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spamfighter.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607075351id_/http%3A//www.spamfighter.com/Info_Privacy_Statement.asp) for the most accurate reproduction.*
 
-# SPAMfighter Privacy Statement - FIGHTERtools
+# SPAMfighter Privacy Statement
 
 SPAMfighter ApS has created this privacy statement in order to demonstrate our sincere commitment to privacy. The following statement discloses the information gathering and dissemination practices for this web site.
 
