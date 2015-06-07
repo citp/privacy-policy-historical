@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodiesnetwork.tv privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119204641id_/http%3A//foodiesnetwork.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodiesnetwork.tv privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607201202id_/http%3A//foodiesnetwork.tv/privacy-policy) for the most accurate reproduction.*
 
 # Foodies Network » Privacy Policy
 
