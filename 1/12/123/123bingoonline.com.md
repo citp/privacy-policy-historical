@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 123bingoonline.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629174214id_/http%3A//www.123bingoonline.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123bingoonline.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607130654id_/http%3A//www.123bingoonline.com/privacy-policy.php) for the most accurate reproduction.*
 
 # 123 Bingo Online Privacy Policy
 
 ## Collection and Use of Information.
 
-123Bingoonline is the exclusive and sole owner of all the information collected through various points of the site. We don’t sell, share or divulge this information to others under any circumstances. 123Bingoonline and its employees adhere strictly to this policy.
+123Bingoonline is the exclusive and sole owner of all the information collected through various points of the site. We don't sell, share or divulge this information to others under any circumstances. 123Bingoonline and its employees adhere strictly to this policy.
 
 ## Registration
 
@@ -30,7 +30,7 @@ All users have the ability to opt-in via email for important information regardi
 
 ## Security.
 
-We have taken every precaution to protect our user’s information on our website. When users submit sensitive information via our website, that information is protected both online and off-line. The information that you fill in the registration/order form, such as your credit card number and/or social security number, is protected with the best encryption software in the industry – SSL.
+We have taken every precaution to protect our user's information on our website. When users submit sensitive information via our website, that information is protected both online and off-line. The information that you fill in the registration/order form, such as your credit card number and/or social security number, is protected with the best encryption software in the industry - SSL.
 
 Only the employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices.
 
