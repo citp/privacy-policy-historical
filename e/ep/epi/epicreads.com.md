@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epicreads.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015060804id_/http%3A//www.epicreads.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epicreads.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608002530id_/http%3A//www.epicreads.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Epic Reads
 
@@ -97,5 +97,5 @@ If you have questions about this Privacy Policy, please contact us at:
 **Mail:**  
 Legal Department / Privacy Policy  
 HarperCollins Publishers  
-10 East 53rd Street  
-New York, NY 10022
+195 Broadway  
+New York, NY 10007
