@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orojackson.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127202446id_/http%3A//orojackson.com/pages/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orojackson.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607133453id_/http%3A//orojackson.com/pages/legal) for the most accurate reproduction.*
 
 # Privacy Policy | Oro Jackson
 
@@ -30,11 +30,11 @@ Additionally, after registration you have the capability of sharing other inform
   * referral source
   * length of visit, page views, website navigation and any other related browsing activity
 
-We use the above information we are provided with to further improve your experience on Oro Jackson. We also make use of **Google Analytics** to learn about visitors and their behavior on Oro Jackson. No personally identifying data is included in this type of reporting. Such information is never made public or shared with others.
-
-You can opt out of sharing data with Google Analytics, to learn more [click here](https://tools.google.com/dlpage/gaoptout?hl=en).
+We use the above information we are provided with to further improve your experience on Oro Jackson. We also make use of **Google Analytics** to learn about visitors and their behavior on Oro Jackson. No personally identifying data is included in this type of reporting. Such information is never made public or shared with others. You can opt out of sharing data with Google Analytics, to learn more [click here](https://tools.google.com/dlpage/gaoptout?hl=en).
 
 IP addresses of computers used to visit Oro Jackson are stored in our database. This includes when first registering for an account, managing your account details, writing a private or public message or performing any other transaction which results in data being transferred to or from your computer and the website in question. **Your IP address is not visible to the public at any time and is not shared with anyone**. 
+
+It's also important to be aware that when you voluntarily provide personal information (e.g., last name, address, phone number) by posting on the publicly visible parts of the community (such as threads, profile pages etc.), that information is publicly available and may be used by someone in a manner unintended by you. For that reason, we discourage the sharing of any personally identifying information on the publicly visible parts of the community. 
 
 ### INFORMATION YOU SHARE WITH ORO JACKSON ADMINISTRATION
 
@@ -56,6 +56,7 @@ This site uses cookies for numerous things, including:
   * Registration and maintaining your preferences. This includes ensuring that you can stay logged in and keeping the site in the language or appearance that you requested.
   * Analytics. This allows us to get determine how people are using the site and improve it.
   * Other third-party cookies for things like Facebook or Twitter sharing. These cookies will generally be set by the third-party independently, so this site will have no ability to access them.
+  * Advertising cookies (third-party). Cookies may be set by the advertisers to determine who has viewed an ad or similar things. These cookies are set by third parties, in which case this site has no ability to read or write these cookies. For further information kindly read "Advertising Partners" section below.
 
 Controlling cookies and cookie preferences must be handled within your browser. Here is a list of guides on how to do this for popular browser software: 
   * [Internet Explorer](http://support.microsoft.com/kb/196955)
@@ -65,9 +66,15 @@ Controlling cookies and cookie preferences must be handled within your browser. 
 
 
 
+### ADVERTISING PARTNERS
+
+http://orojackson.com may display advertisements from Google AdSense, an advertising service provided by Google. It makes use of the [DoubleClick](https://support.google.com/adsense/answer/2839090) cookie, when users visit http://orojackson.com and either view or click on an ad, a cookie may be dropped on that end user's browser. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our site and/or other sites on the Internet.
+
+Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Google Ads Settings](http://www.google.com/ads/preferences/). To learn more about Google Adsense, [click here](https://support.google.com/adsense/troubleshooter/1631343?hl=en). You may also opt out of third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/). 
+
 Published:
     Jul 12, 2011
 Page Views:
-    2,915
+    4,679
 
 [ ](http://orojackson.com/)
