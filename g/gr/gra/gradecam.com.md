@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gradecam.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230010036id_/http%3A//www.gradecam.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gradecam.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140836id_/http%3A//www.gradecam.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GradeCam
 
@@ -10,8 +10,6 @@
 >  Thank you,  
 >  Rich Porter  
 >  CSO & Cofounder of GradeCam
-
-_-updated November 30th, 2012-_
 
 **We are committed to protecting your privacy and the privacy of student information while allowing you to use GradeCam. We do not sell, rent or lease any information to third parties. We do not send spam, maintain spam mailing lists, or support the activities of spammers. In fact, we rarely email you ourselves.**
 
@@ -52,8 +50,8 @@ GradeCam will occasionally update this Statement of Privacy to reflect company a
 GradeCam welcomes your questions or comments regarding this Statement of Privacy.
 
 > GradeCam  
->  6601 Owens Drive Suite 230  
->  Pleasanton, California 94110
+>  P.O. Box 151  
+>  Livermore, California 94550
 > 
 > Email Address: info@gradecam.com  
 >  Telephone number: 866 – 472 – 3339
