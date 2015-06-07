@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the myweddingfavors.com privacy policy that was archived on 2014-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140804135704id_/http%3A//www.myweddingfavors.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myweddingfavors.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607070625id_/http%3A//www.myweddingfavors.com/privacypolicy.html) for the most accurate reproduction.*
 
 # My Wedding Favors - Privacy Policy
 
-[Home](https://web.archive.org/) > My Wedding Favors - Privacy Policy|   
----|---  
-  
 Back to our [Customer Care Guide](http://www.myweddingfavors.com/customerservice.html)
 
 **My Wedding Favors Privacy Policy**
