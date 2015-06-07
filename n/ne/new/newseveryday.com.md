@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newseveryday.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215071138id_/http%3A//www.newseveryday.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newseveryday.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608010402id_/http%3A//www.newseveryday.com/privacypolicy) for the most accurate reproduction.*
 
 # News Every Day
 
@@ -238,4 +238,4 @@ This Privacy Policy was last modified on the date indicated above and is effecti
 
 #### Sign Up for Our Newsletter
 
-#### Most Popular
+#### Editor's pick 
