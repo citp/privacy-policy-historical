@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reservationcounter.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229063044id_/http%3A//www.reservationcounter.com/privacy/%3Fadobe_prop1%3Dft) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reservationcounter.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074701id_/http%3A//www.reservationcounter.com/privacy/%3Fadobe_prop1%3Dft) for the most accurate reproduction.*
 
 # Privacy Policy - ReservationCounter.com
 
