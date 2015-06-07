@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehealthme.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121032138id_/http%3A//www.ehealthme.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehealthme.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144458id_/http%3A//www.ehealthme.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy of eHealthMe - real world drug outcomes
 
