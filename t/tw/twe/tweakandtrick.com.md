@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweakandtrick.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709184416id_/http%3A//www.tweakandtrick.com/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweakandtrick.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607063817id_/http%3A//www.tweakandtrick.com/p/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use
 
