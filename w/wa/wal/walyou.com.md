@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walyou.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113104709id_/http%3A//walyou.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walyou.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607141013id_/http%3A//walyou.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Walyou
 
@@ -33,7 +33,7 @@ Various advertisers we employ are Google Adsense, Technorati Media, etc. Since w
 
 ### **Contests/Giveaways**
 
-**** Walyou runs occasional Giveaways and/or Contests collaborating with various Worldwide companies. Walyou acts only as a publisher in a new Giveaway and/or Contest by the method of a post/article on the site [www.walyou.com](http://www.walyou.com/) and contacting selected winners to inform about their prize/s.
+Walyou runs occasional Giveaways and/or Contests collaborating with various Worldwide companies. Walyou acts only as a publisher in a new Giveaway and/or Contest by the method of a post/article on the site [www.walyou.com](http://www.walyou.com/) and contacting selected winners to inform about their prize/s.
 
 Terms and conditions are always present on every such Giveaway, where participants must follow the rules in order to enter and become eligible. Winners are selected in random from eligible participants and emailed directly. Walyou is not responsible for lost emails, those not received and communication problems incurred by ISP and/or Network provider. Unless we hear back based on terms stated in the Giveaway, additional winner/s will be selected without a need to provide prize/s to previous participants.
 
@@ -52,4 +52,4 @@ Walyou provides content that is informational and opinion based content for Ente
 
 This policy may be updated at anytime, and may be found within the site. We encourage your feedback, opinions, and suggestions, these may be forwarded to contact@walyou.com
 
-**Updated February 15, 2011**
+**Updated February 15,  2015**
