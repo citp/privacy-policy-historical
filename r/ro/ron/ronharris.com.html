@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ronharris.com privacy policy that was archived on 2014-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141123085954id_/http%3A//www.ronharris.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ronharris.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607084920id_/http%3A//www.ronharris.com/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>Privacy Policy</title>
@@ -11,7 +11,9 @@
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 
-<link rel="stylesheet" href="style/HTML5/text_page_core.css" type="text/css">
+<link rel="stylesheet" href="style/HTML5/text_page_core.css" type="text/css"><script type="text/javascript" src="scripts/js/pop-login.js"></script>
+<link rel="stylesheet" type="text/css" href="style/HTML5/login-members.css">
+<script type="text/javascript" src="scripts/jquery-1.8.3.min.js"></script>
 
 <script type="text/javascript" src="scripts/navbar.js"></script>
 
@@ -41,6 +43,31 @@
 </div>
 
 <!-------------- end newsletter subscription tab ---------------------->
+
+<!-- pop up form-->
+<div class="login-bg">
+</div>
+  <div class="login">
+    <form action="/auth.form" method="post" enctype="application/x-www-form-urlencoded">
+    <input type="hidden" name="rlm" value="Password Required"><input type="hidden" name="for" value="http%3a%2f%2fwww%2eronharris%2ecom%2fmembers%2f">
+      <table>
+        <tbody><tr><td class="label"><label>User name</label></td></tr>
+        <tr><td><input type="text" name="uid" placeholder="Username"></td></tr>
+        <tr><td class="label"><label>Password</label></td></tr>
+        <tr><td><input type="password" name="pwd" placeholder="Password"></td></tr>
+        <tr><td><input class="submit" type="submit" name="submit" value="Sign In"></td></tr>
+        <tr><td><div class="captcha_code"><span class="captcha_label">Enter the Code Shown</span><img style="" src="/cptcha.jpg"><input class="captcha" type="text" name="img" maxlength="6" size="6" value="">
+                <div class="clear"></div></div></td>
+        </tr>
+        <tr><td><div class="captcha_code"><span class="captcha_label_checkbox">Remember my username and password:</span> <input class="captcha-checkbox" type="checkbox" value="y" name="rmb">
+                <div class="clear"></div></div></td>
+        </tr>
+        <tr><td class="link"><a href="#">Not yet a member?</a></td></tr>
+      </tbody></table>
+    </form>
+  </div>
+  <!-- pop up form-->
+
 
 <div class="container">
 
@@ -80,8 +107,7 @@
       <li><img src="images/HTML5/main_menu/breaker.jpg" width="1" height="35" alt=""></li>
       <li><a href="girl_girl.html" onclick="MM_nbGroup('down','group1','girlgirllight','images/HTML5/main_menu/menu_gay_girls.jpg',1)" onmouseover="MM_nbGroup('over','girlgirllight','images/HTML5/main_menu/menu_gay_girls_hover.jpg','',1)" onmouseout="MM_nbGroup('out')"><img src="images/HTML5/main_menu/menu_gay_girls.jpg" width="135" height="35" id="girlgirllight" alt="Gay Girls"></a></li>
       <li><img src="images/HTML5/main_menu/breaker.jpg" width="1" height="35" alt=""></li>
-      <li><a href="http://ronharriscams.com" target="_blank" onclick="MM_nbGroup('down','group1','memberslight','images/HTML5/main_menu/menu_livecams.jpg',1)" onmouseover="MM_nbGroup('over','memberslight','images/HTML5/main_menu/menu_livecams_hover.jpg','',1)" onmouseout="MM_nbGroup('out')"><img src="images/HTML5/main_menu/menu_livecams.jpg" width="135" height="35" id="memberslight" alt="Live Cams"></a></li>
-      <li><img src="images/HTML5/main_menu/breaker.jpg" width="1" height="35" alt=""></li>
+      <li><a href="http://ronharriscams.com" target="_blank" onclick="MM_nbGroup('down','group1’,’livecams’,’images/HTML5/main_menu/menu_livecams.jpg',1)" onmouseover="MM_nbGroup('over','livecams','images/HTML5/main_menu/menu_livecams_hover.jpg','',1)" onmouseout="MM_nbGroup('out')"><img src="images/HTML5/main_menu/menu_livecams.jpg" width="135" height="35" id="livecams" alt="Live Cams"></a></li>
       <li><a href="joinronharris.html" onclick="MM_nbGroup('down','group1','joinlight','images/HTML5/main_menu/menu_join.jpg',1)" onmouseover="MM_nbGroup('over','joinlight','images/HTML5/main_menu/menu_join_hover.jpg','',1)" onmouseout="MM_nbGroup('out')"><img src="images/HTML5/main_menu/menu_join.jpg" width="135" height="35" id="joinlight" alt="Join Now"></a></li>
       <li><img src="images/HTML5/main_menu/right.jpg" width="13" height="35" alt=""></li>
     </ul>
