@@ -1,92 +1,122 @@
-> *The following text is extracted and transformed from the bebrainfit.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008005058id_/http%3A//bebrainfit.com/privacy-disclosure-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bebrainfit.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142802id_/http%3A//bebrainfit.com/privacy-disclosure-terms) for the most accurate reproduction.*
 
 # Privacy Policy - Disclosure Policy - Terms of Use | Be Brain Fit
 
 ## Privacy Policy
 
-[BeBrainFit.com](http://bebrainfit.com/) (“website”, “we”, “us”) is a website engaged in providing information about brain health and fitness. In the course of business, we may receive personally identifiable information, such as email address and name, from users of our website (“you”). To secure and maintain your trust and confidence, we have taken measures to protect the privacy of personal information you give us.
+BeBrainFit.com (“website,” “we,” “us”) is a website engaged in providing information about maintaining and improving cognitive and mental health.
 
-This privacy policy describes the personal information we obtain from you, what we do with your personal information, the safeguards we have in place to protect it and to what extent you can control our use of such personal information. By using our website, you agree, without limitation or qualification, to be bound by this privacy policy.
+In the course of business, we may receive personally identifiable information, such as email address and name, from users of our website (“you”).
 
-**Passive Collection of Personal Information**
+To secure and maintain your trust and confidence, we have taken measures to protect the privacy of personal information you give us.
 
-We reserve the right to passively collect information related to usage of our website, such as time spent on the website, areas visited, and websites linked to and from our website. Our website may collect additional information and may install cookies on your computer. The use of cookies allows us to improve our website based on your preferences and is a widely used industry practice of online businesses. The cookies are stored on your computer, not on our website. If you do not wish to allow cookies, or would like to be notified when they are placed on your computer, you may set your web browser accordingly, if permitted.
+This privacy policy describes the personal information we obtain from you, what we do with your personal information, the safeguards we have in place to protect it and to what extent you can control our use of such personal information.
 
-****Third-Party Ad Vendors****
+By using our website, you agree, without limitation or qualification, to be bound by this privacy policy.
+
+### Passive Collection of Personal Information
+
+We reserve the right to passively collect information related to usage of our website, such as time spent on the website, areas visited, and websites linked to and from our website.
+
+Our website may collect additional information and may install cookies on your computer. The use of cookies allows us to improve our website based on your preferences and is a widely used industry practice of online businesses.
+
+The cookies are stored on your computer, not on our website. If you do not wish to allow cookies, or would like to be notified when they are placed on your computer, you may set your web browser accordingly.
+
+### Third-Party Ad Vendors
 
 Third-party vendors, including Google, use cookies to serve ads based on your prior visits to our website. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visit to our website and/or other sites on the internet.
 
 You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting  <http://www.google.com/privacy_ads.html> or, to opt out of another third-party vendor’s use of cookies for interest-based advertising, visit the website of that third-party vendor or visit [aboutads.info](http://www.aboutads.info/).
 
-**Security of Personal Information**
+### Security of Personal Information
 
-We maintain administrative, technical and physical safeguards to protect you against unauthorized access, use, modification and disclosure of your personal information in our custody and control. We ask any third parties to whom we may transfer such information to take comparable steps to protect your security. We are committed to employing reasonable technology in order to protect the security of our website.
+We maintain administrative, technical and physical safeguards to protect you against unauthorized access, use, modification and disclosure of your personal information in our custody and control.
 
-**Usage of Personal Information**
+We ask any third parties to whom we may transfer such information to take comparable steps to protect your security. We are committed to employing reasonable technology in order to protect the security of our website.
 
-Your use of our website constitutes your acceptance of the terms and conditions of this privacy policy. In accordance with this privacy policy, your personal information may be used for record keeping, to improve the content of our website, to customize the website to your preferences, to communicate information to you (if you have requested it), and for marketing and research purposes (if you have consented to it).
+### Usage of Personal Information
 
-**Disclosure of Personal Information to Third Parties**
+Your use of our website constitutes your acceptance of the terms and conditions of this privacy policy.
 
-We will not disclose your personal information to third parties, except to companies we use to support our business, such as technical support and information delivery services. We work only with third party businesses that have privacy policies we believe are substantially similar to our own.
+In accordance with this privacy policy, your personal information may be used for record keeping, to improve the content of our website, to customize the website to your preferences, to communicate information to you (if you have requested it), and for marketing and research purposes (if you have consented to it).
 
-**Promotional Information and Marketing Materials**
+### Disclosure of Personal Information to Third Parties
 
-We would like the opportunity to inform you of products, services, and special offers that might benefit you. You will be given the option to opt-in to our email database to receive emails about these products, services, and special offers. If at any time you wish to discontinue receiving such promotional information from our website, you may use a link we provide at the bottom of our email correspondence, allowing you to opt-out of our email database.
+We will not disclose your personal information to third parties, except to companies we use to support our business, such as technical support and information delivery services.
 
-**Disclosures of Personal Information in Legal Proceedings**
+We work only with third party businesses that have privacy policies we believe are substantially similar to our own.
+
+### Promotional Information and Marketing Materials
+
+We would like the opportunity to inform you of products, services, and special offers that might benefit you. You will be given the option to opt-in to our email database to receive emails that may contain information about these products, services, and special offers.
+
+If at any time you wish to discontinue receiving such promotional information from our website, you may use a link we provide at the bottom of our email correspondence, allowing you to opt-out of our email database.
+
+### Disclosures of Personal Information in Legal Proceedings
 
 If we or our service providers are requested by law enforcement officials or judicial authorities to provide personal information of individual users, we or our service providers may, without your consent, provide such information.
 
-**Application of United States Law**
+### Application of United States Law
 
-Our website and users of our website are bound by application of United States law. Do not submit your personal information, such as your name and email address, unless you consent to the application of U.S. law and to the use and disclosure of your information as stated in this privacy policy.
+Our website and users of our website are bound by application of United States law.
 
-**Our Privacy Policy and Outside Links**
+Do not submit your personal information, such as your name and email address, unless you consent to the application of U.S. law and to the use and disclosure of your information as stated in this privacy policy.
 
-This privacy policy applies only to this website. Any links on our website to the websites of business partners, vendors and advertisers are outside our control. Be aware that these websites may collect information about you, and operate according to their own privacy practices which may differ from those contained in our privacy policy. Once you leave our website, any information you submit is no longer within our control and we are not responsible for it. You are advised to carefully read that website’s own privacy policy.
+### Our Privacy Policy and Outside Links
 
-**Changes to This Privacy Policy**
+This privacy policy applies only to this website.
 
-If this privacy policy is modified, the revised policy will be posted on this website within a reasonable time. This privacy policy was last updated on December 28, 2012.
+Any links on our website to the websites of business partners, vendors and advertisers are outside our control. Be aware that these websites may collect information about you, and operate according to their own privacy practices which may differ from those contained in our privacy policy.
 
-## Disclosure Policy Regarding Vendor Relationships **  
+Once you leave our website, any information you submit is no longer within our control and we are not responsible for it. You are advised to carefully read that website’s own privacy policy.
+
+### Changes to This Privacy Policy
+
+If this privacy policy is modified, the revised policy will be posted on this website within a reasonable time. This privacy policy was last updated on November 26, 2014.
+
+## Disclosure Policy Regarding Vendor Sales **  
 **
 
-It is a wise practice for you, as a consumer, to carefully consider a product recommendation or endorsement made by a third-party website. However, it is also **not** in your best interest to assume that the information provided there is invalid just because the vendor and that website have some kind of financial relationship.
+BeBrainFit.com (“website,” “we,” “us”) is a website engaged in providing information  about maintaining and improving cognitive and mental health.
 
-So, here are some thoughts to consider:
+In providing this information, we also routinely provide convenient access to products that we think may be helpful to you. We do this through links to vendor websites where you can purchase these products.
 
-Though we always provide our most honest and accurate assessment, much of the information we provide is readily verifiable. We suggest that you always do your own due diligence.
+If you purchase a product on a vendor’s website after clicking a link on our website to that vendor’s website, we will be paid a commission by the vendor for your purchase. 
 
-In the process of evaluating a product, it is necessary for us to give you our subjective judgment. With our extensive product research experience and our background in this field, we believe we are qualified to make a considered judgment about any of the products on this website. That said, predicting the satisfaction of potential customers is impossible. There are simply too many unknowns.
+Whenever we do explicitly mention or recommend a product, we give you our honest assessment of it. Our recommendation is based on either our assessment of the vendor and its product or our prior experience with the vendor and similar products made or sold by that company.
 
-We always provide links to the product maker’s website to make available to you additional information that is not on our website. This information may include customer testimonials, certain product details, sales information, free newsletters and even samples. Once again, we encourage you to add your research to ours and make the best decision FOR YOU.
+Note that the cost of any product you buy on a vendor’s website through a link on our website is no higher than if you bypassed our link and bought the product on the vendor’s website directly.
 
-We, the owners of this website, ARE compensated for your purchase of SOME of the products mentioned on this website ONLY if the following steps are taken. If you click a link on our website that takes you to a page on a vendor’s website, and then you purchase a product there, we will be compensated in the form of a commission on the product IF we are an affiliate for that product.
+Regardless of any mention or recommendation we make of a product on our website, we urge you to always do your own due diligence so that you make the best decision for you and your circumstances. 
 
-We are affiliates ONLY for products that we recommend. Conversely, we research and discuss many products that we do NOT recommend and for which we do NOT have an affiliate relationship. We are NOT compensated by ANY product maker prior to a sale and are not given ANY kind of inducement by the vendor for our recommendation of its product(s). Sometimes, however, a vendor will allow us to try its product for free in order for us to evaluate it.
+### Changes to This Disclosure Policy
 
-In short, we do recommend or endorse certain products. Our recommendations are ALWAYS based on our belief that the product maker is trustworthy and that its product provides excellent value. This belief is based on either our assessment of the maker and its product or our prior experience with the maker and similar products made by that company.
-
-We also ask that you keep in mind that this website is our livelihood and, as such, exists only through compensation arrangements such as this. We hope that you receive the benefits you desire from the work we do through this website. In addition, the cost of the product to you is NO HIGHER whether you buy directly from the maker’s website, through another independent website, or through our website. In some cases, the product will cost you LESS because of discounts we arrange with the vendor for you, our audience.
-
-We hope that you will support our efforts by purchasing products you feel are right for you through the links on our website. Thank you for the trust you place in us for helping you find the right product to help you in improving your brain health and fitness.
+If this disclosure policy is modified, the revised document will be posted on this website within a reasonable time. This disclosure policy was last updated on November 26, 2014.
 
 ## Terms of Use
 
-BeBrainFit.com (“website”, “we”, “us”) is a website engaged in providing information about brain health and fitness. These terms of use describe the nature of our relationship with the users of our website (“you”) and the responsibilities of both parties. By using our website, you agree, without limitation or qualification, to be bound by these terms of use.
+BeBrainFit.com (“website,” “we,” “us”) is a website engaged in providing information about maintaining and improving cognitive and mental health.
 
-**Liability and Results Disclaimer**
+These terms of use describe the nature of our relationship with the users of our website (“you”) and the responsibilities of both parties. By using our website, you agree, without limitation or qualification, to be bound by these terms of use.
+
+### Liability and Results Disclaimer
 
 The products and the claims made about specific products on or through this website have not been evaluated by the United States Food and Drug Administration and are not approved to diagnose, treat, cure or prevent disease.
 
-The information provided on this website is for informational purposes only and is not intended as a substitute for advice from your physician or other health care professional or any information contained on or in any product label or packaging. You should not use the information on this website for diagnosis or treatment of any health problem or for prescription of any medication or other treatment. You should consult with your chosen health care professional before starting any supplementation program, or if you have or suspect you might have a health problem.
+The information provided on this website is for informational purposes only and is not intended as a substitute for advice from your physician or other health care professional or any information contained on or in any product label or packaging.
 
-Though we try to provide accurate information, we make no representation and assume no responsibility for the accuracy of information on or available through our website, and this information is subject to change without notice. We urge you to confirm any information found on or through our website by other means, including consulting with health care providers of your choice.
+You should not use the information on this website for diagnosis or treatment of any health problem or for prescription of any medication or other treatment.
 
-Further, we make absolutely no guarantee, expressed or implied, that by purchasing any of the products we present on our website, or by taking any of the actions recommended by the vendors of those products, that you will achieve the results you wish. You acknowledge that you are solely responsible for your actions regarding the use of these products and that we are not responsible in any way for the success or failure of your actions.
+You should consult with your chosen health care professional before starting any supplementation program, or if you have or suspect you might have a health problem.
 
-**Changes to These Terms of Use**
+Though we try to provide accurate information, we make no representation and assume no responsibility for the accuracy of information on or available through our website, and this information is subject to change without notice.
 
-If these terms of use are modified, the revised document will be posted on this website within a reasonable time. These terms of use were last updated on October 6, 2012.
+We urge you to confirm any information found on or through our website by other means, including consulting with health care providers of your choice.
+
+Further, we make absolutely no guarantee, expressed or implied, that by purchasing any of the products we present on our website, or by taking any of the actions recommended by the vendors of those products, that you will achieve the results you wish.
+
+You acknowledge that you are solely responsible for your actions regarding the use of these products and that we are not responsible in any way for the success or failure of your actions.
+
+### Changes to These Terms of Use
+
+If these terms of use are modified, the revised document will be posted on this website within a reasonable time. These terms of use were last updated on November 26, 2014.
