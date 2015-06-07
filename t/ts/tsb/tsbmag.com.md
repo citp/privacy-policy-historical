@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tsbmag.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123071448id_/http%3A//www.tsbmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsbmag.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607141938id_/http%3A//www.tsbmag.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy
 
 ## TSBMag.com – PRIVACY POLICY and STATEMENT
 
@@ -69,7 +69,7 @@ By using this site, you consent to the collection and use of this information by
 Sincerely,
 
 Bobby Rio  
-TSB Magazine 
+TSB Magazine
 
-[](http://www.tsbmag.com/wp-content/plugins/max-banner-ads-pro/max-banner-ads-lib/include/redirect.php?id=142)  
+[](http://www.tsbmag.com/wp-content/plugins/max-banner-ads-pro/max-banner-ads-lib/include/redirect.php?id=180)  
 
