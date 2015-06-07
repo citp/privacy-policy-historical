@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the earlytorise.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224230819id_/http%3A//www.earlytorise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earlytorise.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200520id_/http%3A//www.earlytorise.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Early To Rise
 
 **Early To Rise Privacy Statement**
 
@@ -31,5 +31,3 @@ You must submit a name to submit a message to the Discussion Board, but it does 
 We reserve the right to remove any messages from the Board which are advertisements to buy or sell securities, are unrelated ads for other products, which contain profanity or are otherwise illegal. But ultimately we cannot be held responsible for any claims made on our Discussion Board.
 
 If you have any questions or comments [contact us here.](http://www.earlytorise.com/contact-us)
-
-Privacy Policy, 2.8 out of 5 based on 2 ratings 
