@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viralmirror.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121073638id_/http%3A//www.viralmirror.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralmirror.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607150530id_/http%3A//www.viralmirror.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Viral Mirror | Trending News and Viral Stories | Online Viral Media Site
+# Privacy Policy - Viral Mirror
 
 Viral Mirror takes the private nature of your personal information very seriously.
 
