@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the descriptionari.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222115842id_/http%3A//www.descriptionari.com/our/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the descriptionari.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140651id_/http%3A//www.descriptionari.com/our/privacypolicy) for the most accurate reproduction.*
 
 # Descriptionari
-
-## Our Privacy Policy
 
 The following Privacy Policy summarizes the various ways that Everything Stops For Tea. ("Service Provider", "we" or "our") treats the information you provide while using www.descriptionari.com ("Website"). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
 
