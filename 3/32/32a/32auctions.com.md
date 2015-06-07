@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 32auctions.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223050117id_/http%3A//www.32auctions.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 32auctions.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142643id_/http%3A//www.32auctions.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | 32auctions
 
