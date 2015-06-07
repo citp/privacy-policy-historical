@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cgcareers.org privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123133341id_/http%3A//commongoodcareers.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgcareers.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607211112id_/http%3A//commongoodcareers.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy › About Us › Commongood Careers
 
@@ -26,6 +26,7 @@ Commongood Careers does not disclose personal information to any third parties, 
 
   * To the employer that is hiring for a specified position, when you apply for that position via the Job Board
   * To government agencies and law enforcement officials, when we are required to do so to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims, or when Commongood Careers in its sole discretion, believes it is required or appropriate in order to comply with the law
+  * To strategic partners to evaluate trends in the marketplace on an aggregated basis, with the certainty that individual personal information will not be disclosed.
 
 
 
@@ -63,4 +64,4 @@ We also request (but do not require) that you disclose to us your gender, race a
 
 By using the Website, you agree to the terms and conditions contained in this Policy and/or any other agreement that we might have with you. If you do not agree to any of these terms and conditions, you should not use the Website or any of our services. You agree that any dispute over privacy or the terms contained in this Policy, or any other agreement we have with you, will be governed by the laws of the Commonwealth of Massachusetts, and you agree that any such dispute will be adjudicated by the courts in the Commonwealth of Massachusetts, and you agree to abide by any limitation on damages contained in any agreement we may have with you.
 
-This Policy was last updated in April 2014.
+This Policy was last updated in May 2015.
