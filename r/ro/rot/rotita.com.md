@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rotita.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129131647id_/http%3A//www.rotita.com/privacy-policy-a91.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotita.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608003535id_/http%3A//www.rotita.com/privacy-policy-a91.html) for the most accurate reproduction.*
 
 # Privacy Policy | rotita.com
 
