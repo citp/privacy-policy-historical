@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brilliant.org privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227065543id_/http%3A//brilliant.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brilliant.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607131022id_/http%3A//brilliant.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Brilliant
 
