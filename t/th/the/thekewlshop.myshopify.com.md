@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thekewlshop.myshopify.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207065523id_/http%3A//www.thekewlshop.com/pages/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekewlshop.myshopify.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074237id_/http%3A//www.thekewlshop.com/pages/security-privacy) for the most accurate reproduction.*
 
-# Security & Privacy - The Kewl Shop
+# Security & Privacy | The Kewl Shop
 
 This policy sets out how The Kewl Shop uses and protects any information that you give The Kewl Shop when you use this website.
 
@@ -46,7 +46,7 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
           * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-          * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [us@thekewlshop.com](https://thekewlshop.myshopify.com/admin/pages/us@thekewlshop.com)
+          * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at us@thekewlshop.com
 
 
 
