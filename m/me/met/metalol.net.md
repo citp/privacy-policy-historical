@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the metalol.net privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106122257id_/http%3A//metalol.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metalol.net privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608002836id_/http%3A//www.metalol.net/privacy-policy) for the most accurate reproduction.*
 
-# MetaLoL - League of Legends Tier Lists, Champion Rankings, and More!
+# Privacy Policy | MetaLoL
 
 #### Types of Information
 
@@ -36,4 +36,9 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on August 1st, 2013.
+This policy was last modified on January 15th, 2015.
+
+Images and graphics are property of their respective owners. MetaLoL © 2015. All rights reserved. League of Legends and Riot Games Inc. are registered trademarks of Riot Games, Inc. 
+
+  
+
