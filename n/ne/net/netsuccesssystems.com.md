@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the netsuccesssystems.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208230325id_/http%3A//netsuccesssystems.com/legal-notices/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netsuccesssystems.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607161652id_/http%3A//netsuccesssystems.com/legal-notices/privacy-policies) for the most accurate reproduction.*
 
-# Privacy Policies | Net Success Systems
+# Privacy | Net Success Systems
 
 **General Privacy Policies**
 
@@ -47,6 +47,12 @@ We also use personal information in an aggregate form (i.e., not individually at
 Cookies may be used to keep track of referred affiliate commissions and to monitor access to our website. You consent to any future use of cookies for testing purposes and the use of cookies for publicly available data to gather statistics for the purpose of determining which search engines, referring sites, key words, etc., bring visitors to our website, which pages visitors are most interested in, what web browsers are used, etc. Various providers may be used for this purpose. The purpose is obtain information that will help promote the website, make the website more interesting and useful to visitors, and to identify areas where improvement is needed.
 
 Additionally, various third party information suppliers and other entities that provide information for this website, or for use by us, may use cookies. Examples include, but are not necessarily limited to billing providers, third party advertisers, and third party resources we promote.
+
+**Remarketing**
+
+We also uses 3rd party vendor re-marketing tracking cookies, including Facebook tracking pixels.This means we will continue to show ads to you on Facebook. As always we respect your privacy and are not collecting any identifiable information through the use of Facebook’s or any other 3rd party remarketing system.
+
+The third-party vendors, including Facebook whose services we use – will place cookies on web browsers in order to serve ads based on past visits to our website. – Third party vendors, including Facebook, use cookies to serve ads based on a user’s prior visits to your website. This allows us to make special offers and continue to market our services to those who have shown interest in our service.
 
 **Disclosure by Necessity**
 
