@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the hendrickboards.com privacy policy that was archived on 2014-11-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141111234521id_/http%3A//hendrickboards.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hendrickboards.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607152747id_/http%3A//hendrickboards.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en" xmlns:fb="https://www.facebook.com/2008/fbml"><head>
- 
+<link href="//fonts.googleapis.com/css?family=Oxygen:700,400" rel="stylesheet" type="text/css">
 <title>Privacy Policy</title>
 <base href="http://hendrickboards.com/">
 <link href="http://hendrickboards.com/image/data/favicon.png" rel="icon">
@@ -61,6 +61,45 @@ ga('require', 'displayfeatures');
             }
         </script>
  
+<script type="text/javascript">
+					function getURLVar(key) {
+						var value 	= [],
+							url		= String(document.location),
+							query;
+						
+						if( url.indexOf( '?' ) > -1 ) {
+							query = url.split('?');
+						} else {
+							query = url.split('/');
+							query.shift();
+							query.shift();
+							query.shift();
+							query = query.join('/');
+							
+							query = query.indexOf( '&' ) > -1 ? [ query.substring( 0, query.indexOf('&') ), query.substring( query.indexOf('&')+1 ) ] : [ query, '' ];
+							
+							value['route'] = query[0];
+						}
+						
+						if (typeof query[1] != 'undefined') {
+							var part = query[1].split('&');
+
+							for (i = 0; i < part.length; i++) {
+								var data = part[i].split('=');
+								
+								if (data[0] && data[1]) {
+									value[data[0]] = data[1];
+								}
+							}
+							
+							if (value[key]) {
+								return value[key];
+							} else {
+								return '';
+							}
+						}
+					}
+				</script>
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body>
 <div id="header-top">
@@ -79,14 +118,12 @@ ga('require', 'displayfeatures');
 </div>
 </div>
 <div style="position:relative;float:right;width:500px;margin-right:17px;height:35px;">
-<div class="links"><a href="http://hendrickboards.com/index.php?route=common/home">Home</a><a href="http://hendrickboards.com/index.php?route=account/wishlist" id="wishlist_total">Wish List (0)</a><a href="https://hendrickboards.com/index.php?route=account/account">My Account</a><a href="http://hendrickboards.com/index.php?route=checkout/cart">Shopping Cart</a><a href="https://hendrickboards.com/index.php?route=checkout/checkout">Checkout</a>
+<div class="links"><a href="https://hendrickboards.com/account/account">My Account</a><a href="http://hendrickboards.com/index.php?route=checkout/cart">Shopping Cart</a><a href="https://hendrickboards.com/index.php?route=checkout/checkout">Checkout</a>
 </div>
 </div>
 </div>
 <div id="header">
 <div id="logo"><a href="//www.hendrickboards.com/"><img src="http://hendrickboards.com/image/data/logo.png" title="Hendrick Boards" alt="Hendrick Boards"></a></div>
- 
- 
  
  
 <div id="cart">
@@ -100,19 +137,24 @@ ga('require', 'displayfeatures');
 <div id="affiliate_link">
 </div>  
 <ul>
-<li><a href="//hendrickboards.com/index.php?route=product/special">SALE</a></li>
 <li><a href="http://hendrickboards.com/about-us">ABOUT US</a></li>
 <li><a href="http://hendrickboards.com/shop/square-it">SQUARE IT</a></li>
 <li><a href="http://hendrickboards.com/shop">SHOP</a>
 <div>
 <ul>
+<li><a href="http://hendrickboards.com/shop/fleece-outerwear">Fleece Outerwear</a></li>
 <li><a href="http://hendrickboards.com/shop/kids">KIDS</a></li>
-<li><a href="http://hendrickboards.com/shop/pet-collection">PETS</a></li>
+<li><a href="http://hendrickboards.com/shop/gifts-for-moms">Mother's Day</a></li>
+<li><a href="http://hendrickboards.com/shop/natural-stone-bracelets">Natural Stone Bracelets</a></li>
+<li><a href="http://hendrickboards.com/shop/gifts-for-pets">PETS</a></li>
+<li><a href="http://hendrickboards.com/shop/gifts-that-save-animals">HOLIDAY GIFTS</a></li>
 <li><a href="http://hendrickboards.com/shop/men">MEN'S</a></li>
 <li><a href="http://hendrickboards.com/shop/women">WOMEN'S</a></li>
 <li><a href="http://hendrickboards.com/shop/accessories">ACCESSORIES</a></li>
 </ul>
 </div>
+</li>
+<li><a href="http://hendrickboards.com/sale">SALE</a>
 </li>
 <li><a href="http://hendrickboards.com/">HOME</a></li>
 </ul>
@@ -121,7 +163,8 @@ ga('require', 'displayfeatures');
 <div id="notification"></div>
 <div id="container"></div>
 <div class="banner-information">
-<div><div id="banner0" class="banner">
+<div>
+<div id="banner0" class="banner">
 <div><img src="http://hendrickboards.com/image/cache/data/slider1/about-us-oliver-1600x900.jpg" alt="About Us - Rescue tees, animal apparel, gifts for pet lovers" title="About Us - Rescue tees, animal apparel, gifts for pet lovers"></div>
 </div>
 <script type="text/javascript"><!--
@@ -134,7 +177,16 @@ var banner = function() {
 }
 
 setTimeout(banner, 2000);
-//--></script></div>
+//--></script>
+<span xmlns:v="http://rdf.data-vocabulary.org/#">
+<span typeof="v:Breadcrumb">
+<a href="http://hendrickboards.com/" rel="v:url" property="v:title" title="Home" alt="Home"></a>
+</span>
+<span typeof="v:Breadcrumb">
+<a href="http://hendrickboards.com/privacy-policy" rel="v:url" property="v:title" title="Privacy Policy" alt="Privacy Policy"></a>
+</span>
+</span>
+</div>
 <div class="information-title">
 <h1>Privacy Policy</h1>
 </div>
@@ -142,7 +194,7 @@ setTimeout(banner, 2000);
 <div id="container">
 <div id="content-information2">
 <div class="breadcrumb">
-<a href="http://hendrickboards.com/index.php?route=common/home">Home</a>
+<a href="http://hendrickboards.com/">Home</a>
 » <a href="http://hendrickboards.com/privacy-policy">Privacy Policy</a>
 </div>
 <div id="share" style="height:25px;">
@@ -193,11 +245,8 @@ setTimeout(banner, 2000);
 <span class="auto-style2">This website contains links to other websites. Hendrick Boards is not responsible for the privacy policies or practices of any third party.</span><br class="auto-style2">
 <br>
 <span class="auto-style2"><em>Contact Hendrick Boards</em></span><br class="auto-style2">
-<em><span class="auto-style2">If you have any questions about this privacy policy or Hendrick Boards treatment of your personal information, please email: </span><span class="auto-style2" style="color: #FFFFFF"> <a href="mailto:customerservice@hendrickboards.com">customerservice@hendrickboards.com<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script></a></span></em></div>
+<em><span class="auto-style2">If you have any questions about this privacy policy or Hendrick Boards treatment of your personal information, please email: </span><span class="auto-style2" style="color: #FFFFFF"> <a href="mailto:customerservice@hendrickboards.com">customerservice@hendrickboards.com<script cf-hash="f9e31" type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></span></em></div>
 <div style="padding: 0 50px 0 50px; width:800px; height:inherit">
 &nbsp;</div>
 <div style="padding: 0 50px 0 50px; width:800px; height:inherit">
@@ -213,19 +262,20 @@ setTimeout(banner, 2000);
 <div class="column">
 <h3>Information</h3>
 <ul>
+<li><a href="http://hendrickboards.com/animal-charities-we-support">Charities We Support</a></li>
 <li><a href="http://hendrickboards.com/about-us">Our Story</a></li>
 <li><a href="http://hendrickboards.com/giving">How We Give</a></li>
 <li><a href="http://hendrickboards.com/privacy-policy">Privacy Policy</a></li>
-<li><a href="http://hendrickboards.com/FAQ">FAQs</a></li>
+<li><a href="http://hendrickboards.com/faq">FAQs</a></li>
 </ul>
 </div>
 <div class="column">
 <h3>Customer Service</h3>
 <ul>
-<li><a href="http://hendrickboards.com/index.php?route=information/contact">Contact Us</a></li>
+<li><a href="http://hendrickboards.com/information/contact">Contact Us</a></li>
 <li><a href="http://hendrickboards.com/sizing">Sizing</a></li>
  
-<li><a href="https://hendrickboards.com/index.php?route=affiliate/account">Partnership Program</a></li>
+<li><a href="https://hendrickboards.com/affiliate/account">Partnership Program</a></li>
 <li><a href="https://hendrickboards.com/index.php?route=checkout/voucher">Gift Cards</a></li>
  
 </ul>
@@ -237,16 +287,16 @@ setTimeout(banner, 2000);
 <li><a target="_blank" href="http://www.facebook.com/hendrickboards">Facebook</a></li>
 <li><a target="_blank" href="http://www.twitter.com/hendrickandco">Twitter</a></li>
 <li><a target="_blank" href="http://www.pinterest.com/hendrickboards">Pinterest</a></li>
-<li><a href="http://blog.hendrickboards.com">Blog</a></li>
+<li><a href="http://hendrickboards.com/blog">Blog</a></li>
 </ul>
 </div>
 <div class="column">
 <h3>My Account</h3>
 <ul>
-<li><a href="https://hendrickboards.com/index.php?route=account/account">My Account</a></li>
-<li><a href="https://hendrickboards.com/index.php?route=account/order">Order History</a></li>
-<li><a href="https://hendrickboards.com/index.php?route=account/wishlist">Wish List</a></li>
-<li><a href="https://hendrickboards.com/index.php?route=account/newsletter">Newsletter</a></li>
+<li><a href="https://hendrickboards.com/account/account">My Account</a></li>
+<li><a href="https://hendrickboards.com/account/order">Order History</a></li>
+<li><a href="https://hendrickboards.com/account/wishlist">Wish List</a></li>
+<li><a href="https://hendrickboards.com/account/newsletter">Newsletter</a></li>
 </ul>
 </div>
 <div class="column">
@@ -259,7 +309,7 @@ setTimeout(banner, 2000);
 </div>
 <div id="creditcards"><img src="catalog/view/theme/hb/image/creditcards.png" width="116px" height="50px" alt="credit cards to save animals in need"></div>
 <br>
-<div id="powered">Hendrick Boards © 2014</div>
+<div id="powered">Hendrick Boards © 2015</div>
 </div>
 </div>
 </div>
@@ -285,7 +335,8 @@ window.onload = function(){
  
 <script type="text/javascript">
 /* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&"/cdn-cgi/l/email-protection"==a.substr(0 ,27)){s='';j=28;r=parseInt(a.substr(j,2),16);for(j+=2;a.length-j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
 /* ]]> */
 </script>
+
 </body></html>
