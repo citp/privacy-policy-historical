@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the math-salamanders.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121123018id_/http%3A//www.math-salamanders.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the math-salamanders.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607173009id_/http%3A//www.math-salamanders.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Math Salamanders Privacy Policy
 
@@ -93,14 +93,3 @@ The Math Salamanders hope you enjoy using these free printable Math worksheets a
 We welcome any comments about our site on the Facebook comments box at the bottom of every page. 
 
 comments received about this page so far! 
-
-**Share this page:  **  
-
-
-What's This?
-
-| | | |   
----|---|---|---|---  
-| | |   
-  
-Enjoy this page? Please pay it forward. Here's how...
