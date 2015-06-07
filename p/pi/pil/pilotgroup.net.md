@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pilotgroup.net privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230171727id_/http%3A//www.pilotgroup.net/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pilotgroup.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145338id_/http%3A//www.pilotgroup.net/about/privacy.php) for the most accurate reproduction.*
 
-# Pilot Group - Privacy and Security
+# Pilot Group - Solutions for Business
 
 **Information Collection & Use** _Registration_  
 In order to use this Web site, you must first complete the registration form and create user name and password. During registration you are required to give contact information such as name and email address. We use this information to contact you on site services you have expressed interest in.
