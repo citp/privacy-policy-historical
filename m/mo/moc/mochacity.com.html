@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mochacity.com privacy policy that was archived on 2014-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141218211226id_/http%3A//www.mochacity.com/support/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mochacity.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607064024id_/http%3A//www.mochacity.com/support/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-us" class="csstransforms no-csstransforms3d csstransitions"><head>
     <title>Your Privacy on MochaCity</title>
@@ -10,14 +10,14 @@
     <link rel="apple-touch-icon" href="/custom/images/mochacity-icon-57x57.jpg">
     <link rel="apple-touch-icon" sizes="72x72" href="/custom/images/mochacity-icon-72x72.jpg">
     <link rel="apple-touch-icon" sizes="114x114" href="/custom/images/mochacity-icon-114x114.jpg">
-    <link href="/themes/default-en/css/animate.css" rel="stylesheet" type="text/css">
+    <link href="http://www.mochacity.com/themes/default-en/css/animate.css" rel="stylesheet" type="text/css">
     <link href="/themes/default-en/css/bootstrap.min.css" rel="stylesheet" type="text/css">
     <link href="/themes/default-en/css/custom.css" rel="stylesheet" type="text/css">
     <link href="/themes/default-en/css/font-awesome.css" rel="stylesheet" type="text/css">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/themes/default-en/js/jquery-1.11.0.min.js" type="text/javascript"></script>
-    <script src="/themes/default-en/js/jquery.slimscroll.min.js" type="text/javascript"></script>
-    <script src="/themes/default-en/js/bootstrap.min.js" type="text/javascript"></script>
-    <script src="/themes/default-en/js/jquery.ui.touch-punch.min.js" type="text/javascript"></script>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://www.mochacity.com/themes/default-en/js/jquery-1.11.0.min.js" type="text/javascript"></script>
+    <script src="http://www.mochacity.com/themes/default-en/js/jquery.slimscroll.min.js" type="text/javascript"></script>
+    <script src="http://www.mochacity.com/themes/default-en/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="http://www.mochacity.com/themes/default-en/js/jquery.ui.touch-punch.min.js" type="text/javascript"></script>
     <script src="/themes/default-en/js/xx.js" type="text/javascript"></script>
     <link rel="icon" href="/favicon.png" type="image/x-icon">
 </head>
@@ -25,14 +25,14 @@
 <section id="AppNavBar">
     <header>
         <div id="AppMobileToggleContainer" class="">
-            <a class="xx-clickable" onclick="XX.DomTools.toggleMobileDrawer();"><img src="/themes/default-en/images/mobileMenuToggleBtn.png"></a>
+            <a class="xx-clickable" onclick="XX.DomTools.toggleMobileDrawer();"><img src="http://www.mochacity.com/themes/default-en/images/mobileMenuToggleBtn.png"></a>
         </div>
         <div id="AppLogoIconContainer">
-            <a href="/" class=""><img class="xx-app-nav-icon" src="/themes/default-en/images/mcLogoWhiteOnWhite-sm.png" style=""></a>
+            <a href="/" class=""><img class="xx-app-nav-icon" src="http://www.mochacity.com/themes/default-en/images/mcLogoWhiteOnWhite-sm.png" style=""></a>
         </div>
         <div id="AppLogoTextContainer">
             <div class="xx-section-table">
-                <a class="hidden-xs xx-section-table-column" href="/" style="width:230px; max-width:230px; overflow:hidden; height:65px; max-height:65px;"><img src="/themes/default-en/images/mochacityLogoText.png" style="margin-top:-6px; height:65px; width:auto;"></a>
+                <a class="hidden-xs xx-section-table-column" href="/" style="width:230px; max-width:230px; overflow:hidden; height:65px; max-height:65px;"><img src="http://www.mochacity.com/themes/default-en/images/mochacityLogoText.png" style="margin-top:-6px; height:65px; width:auto;"></a>
                 <nav class="xx-section-table-column hidden-xs" style="width:240px; min-width:240px;"><ul class="xx-hor-list" style="height:65px; font-family:'walkway_black'; letter-spacing:1pt; font-size:1em; line-height:50px;">
                         <li><a href="/posts/index" class="">Posts</a></li>
                         <li><a href="/members/online" class="">People</a></li>
@@ -79,10 +79,19 @@
          text-shadow: none!important;" class="btn btn-block xx-mocha-btn" href="/post/create">
             &nbsp; <em class="fa fa-pencil"></em> Post Something</a>
     </li>
-    <li class="hidden-lg hidden-sm hidden-md" style="text-align:center;">
-        <a id="AppPostSomething" href="/post/create">
-            <em class="fa fa-pencil" style="line-height:2em;"></em>
-        </a>
+    <li class="hidden-lg hidden-sm hidden-md">
+        <div class="xx-clickable" data-xx-control="dropdown-menu" data-xx-control-events="[{&quot;event&quot;:&quot;click&quot;},{&quot;event&quot;:&quot;mouseleave&quot;}]">
+            <div style="text-align:center;">
+            <a id="AppPostSomething">
+                <em class="fa fa-pencil" style="line-height:2em;"></em>
+            </a>
+            </div>
+            <ul class="xx-dropdown-menu animated animated-fast fadeIn" style="margin-left: -50%">
+                <li role="presentation"><a role="menuitem" tabindex="-1" class="" onclick="XX.VurboseUser.Content.setupContentCreate('status-update');">Post Status to Profile</a></li>
+                <li role="presentation"><a role="menuitem" tabindex="-1" class="" onclick="XX.VurboseUser.Content.setupContentCreate('photo');">Upload Photos to Profile</a></li>
+                <li role="presentation"><a role="menuitem" tabindex="-1" class="" href="/post/create">Create MochaCity Discussion</a></li>
+            </ul>
+        </div>
     </li>
 </ul></section><section class="xx-container">
     <section class="xx-section-body">
@@ -173,7 +182,7 @@
                 </div>
             </div>
             <aside class="col-lg-3 col-md-6 col-sm-6 hidden-xs">
-               <a href=""><img src="/themes/default-en/images/mcFooterLogo.png" class="img-responsive" style="width:100%; height:auto;  max-width:300px; margin-left:auto; margin-right:auto;"></a>
+               <a href=""><img src="http://www.mochacity.com/themes/default-en/images/mcFooterLogo.png" class="img-responsive" style="width:100%; height:auto;  max-width:300px; margin-left:auto; margin-right:auto;"></a>
             </aside>
         </div>
     </div>
