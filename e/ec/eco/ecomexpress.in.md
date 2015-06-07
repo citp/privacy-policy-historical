@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecomexpress.in privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228153825id_/http%3A//www.ecomexpress.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecomexpress.in privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607203112id_/http%3A//ecomexpress.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Ecom-Express
 
