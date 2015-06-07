@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startupgrind.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217062558id_/http%3A//startupgrind.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupgrind.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607153923id_/http%3A//startupgrind.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Startup Grind
 
@@ -69,12 +69,11 @@ By using our site, you consent to our [privacy policy](http://www.freeprivacypol
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 03/01/2012
+This policy was last modified on 03/01/2014
 
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-Vaporware Labs LLC  
-465 Fairchild Dr, Suite #229  
-Mountain View, California 94043
+customerservice at startupgrind.com  
+1491 Edgewood Dr, Palo Alto, CA 94301
