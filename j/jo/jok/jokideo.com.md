@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the jokideo.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103164937id_/http%3A//jokideo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jokideo.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608001829id_/http%3A//www.jokideo.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy - Funny Pictures, Funny jokes and so much more | Jokideo | Funny Pictures, Funny jokes and so much more | Jokideo
+# Privacy Policy | Funny Dirty Adult Jokes, Memes & Pictures |
 
 Your Privacy  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-**Any pictures, videos or text jokes posted on Jokideo will not be edited or added to in anyway, if the picture has a credit link or logo on it, it will not be removed or edited. We share our own stuff and other peoples, if we have shared anything that you own and are not happy with it, then don’t hesitate to contact us via our Facebook page or email us at mac789@hotmail.co.uk and we will remove it asap, thank you.**
+ **Any pictures, videos or text jokes posted on Jokideo will not be edited or added to in anyway, if the picture has a credit link or logo on it, it will not be removed or edited. We share our own stuff and other peoples, if we have shared anything that you own and are not happy with it, then don’t hesitate to contact us via our Facebook page or email us at mac789@hotmail.co.uk and we will remove it asap, thank you.**
 
 Google Adsense and the DoubleClick DART Cookie  
 Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
@@ -30,3 +30,8 @@ Changes to this Privacy Statement
 The contents of this statement may be altered at any time, at our discretion.
 
 If you have any questions regarding the privacy policy of jokideo, then you may contact us via Facebook or mac789@hotmail.co.uk
+
+  
+
+
+### Feel Free To Leave A Comment Below:
