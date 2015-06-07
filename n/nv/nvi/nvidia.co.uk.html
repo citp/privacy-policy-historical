@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nvidia.co.uk privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120122450id_/http%3A//www.nvidia.co.uk/object/privacy_policy_uk.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nvidia.co.uk privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607203621id_/http%3A//www.nvidia.co.uk/object/privacy_policy_uk.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:comem3="xalan://com.em3" xmlns:em3="http://www.em3.com/2002/widget" xmlns:og="http://ogp.me/ns#" lang="en-uk" xml:lang="en"><head>
 <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
@@ -33,10 +33,10 @@
 <![endif]-->
 <script type="text/javascript">var pageRegion = "en_uk";var nvGlobals = {pageRegion : "en_uk",CIcode : "2003",regionCode : "1078"};</script>
 <script src="/content/websidestory/gtm/nv-gtm.js" type="text/javascript">/* Google Tag Manager Helper Function */</script>
-<script src="//international.download.nvidia.com/includes/nvFrame/1.0/p/js/_libs/jquery-1.10.1-migrate.js" charset="UTF-8">/* jQuery */</script>
-<script src="//international.download.nvidia.com/includes/nvFrame/1.0/p/js/_libs/require.js" data-main="//international.download.nvidia.com/includes/nvFrame/1.0/p/config_nvidia.js?v=201409101722" charset="UTF-8">/* Require.js */</script>
+<script src="//images.nvidia.com/nvFrame/1.0/p/js/_libs/jquery-1.10.1-migrate.js" charset="UTF-8">/* jQuery */</script>
+<script src="//images.nvidia.com/nvFrame/1.0/p/js/_libs/require.js" data-main="//images.nvidia.com/nvFrame/1.0/p/config_nvidia.js?v=201409101722" charset="UTF-8">/* Require.js */</script>
 <noscript>
-<link rel="stylesheet" type="text/css" href="//international.download.nvidia.com/includes/nvFrame/1.0/p/styles/nvidia/main.no-js.css?v=201409101722"/>
+<link rel="stylesheet" type="text/css" href="//images.nvidia.com/nvFrame/1.0/p/styles/nvidia/main.no-js.css?v=201409101722"/>
 </noscript>
 <script type="text/javascript" src="/content/includes/redesign2010/js/jquery.json-2.3.min.js">/* jQuery json */</script>
 <link media="screen" href="/content/includes/redesign2010/css/content-page.css?v=20131018" type="text/css" rel="stylesheet">
@@ -70,58 +70,6 @@ function showHide(id)
 }
 //-->
 
-var clicked = 0;
-var clicked2 = 0;
-setInterval(function(){
-$(".hidding").click(function()
-{
-clicked++;
-if(clicked == 1)
-{
-	
-$(".BoxProperties1").hide();
-$("#expand").attr("style","overflow:hidden;");
-
-}});}, 1000);
-
-setInterval(function(){
-$(".hidding2").click(function()
-{
-clicked2++;
-if(clicked2 == 1)
-{
-	//alert(clicked);
-$(".BoxProperties2").hide();
-$("#expand2").attr("style","overflow:hidden;");
-}});}, 1000);
-
-
-$( document ).ready(function() {
-
-$("a#clickhere").toggle(function()
-{
-$(".BoxProperties1").show();
-$("#expand").attr("style","height:930px; overflow:hidden;");
-}, function() {
-
-$(".BoxProperties1").hide();
-$("#expand").attr("style","overflow:hidden; height:230px");
-
-});
-
-
-$("a#clickhere2").toggle(function()
-{
-$(".BoxProperties2").show();
-$("#expand2").attr("style","height:520px; overflow:hidden;");
-}, function() {
-
-$(".BoxProperties2").hide();
-$("#expand2").attr("style","overflow:hidden;  height:100px");
-
-});
-
-});
 
 </script>
 
@@ -145,7 +93,7 @@ a.leftNavLink:hover { font-size:11px; color:#76b900; text-decoration:underline; 
    <script type="text/javascript"> 
 $(document).on('nvFrame-ready', function() {
  require(['Template','Cookie'], function(Template, Cookie) {
- function getUrlParameter(sParam){
+function getUrlParameter(sParam){
     var sPageURL = window.location.search.substring(1);
     var sURLVariables = sPageURL.split('&');
     for (var i = 0; i < sURLVariables.length; i++) {
@@ -155,9 +103,28 @@ $(document).on('nvFrame-ready', function() {
         }
     }
 }
-
-    var cid = getUrlParameter('cid');
-    if(cid !=undefined){
+function getUrlHash(sHash){
+  var sPageURL = location.hash.replace('#','');
+  var sURLHash = sPageURL.split('&');
+  for (var i = 0; i < sURLHash.length; i++) 
+  {
+      var sHashName = sURLHash[i].split('=');
+      if (sHashName[0] == sHash) 
+      {
+          return sHashName[1];
+      }
+  }
+}
+var cid = getUrlHash('cid')
+if(cid==undefined){
+  cid = getUrlHash('CID');
+}
+if(cid==undefined){
+  cid = getUrlParameter('cid');
+}
+if(cid==undefined){
+  cid = getUrlParameter('CID');
+}    if(cid !=undefined){
         Cookie.set('icl_cid', cid, 30);
     }
 });
@@ -247,19 +214,28 @@ $(document).on('nvFrame-ready', function() {
 <div class="title">Technologies</div><div class="arrow"></div></a>
 <ul class="nav sub">
 <li>
-<a href="/object/maxwell-gpu-architecture-uk.html">Maxwell GPU Architecture</a>
-</li>
-<li>
 <a href="/object/advanced-rendering-uk.html">Advanced Rendering</a>
 </li>
 <li>
 <a href="/object/cuda-parallel-computing-uk.html">CUDA</a>
 </li>
 <li>
+<a href="https://developer.nvidia.com/deep-learning">Deep Learning</a>
+</li>
+<li>
 <a href="http://www.geforce.co.uk/hardware/technology/g-sync">G-SYNC</a>
 </li>
 <li>
+<a href="/object/tesla-gpu-machine-learning-uk.html">Machine Learning</a>
+</li>
+<li>
+<a href="/object/maxwell-gpu-architecture-uk.html">Maxwell GPU Architecture</a>
+</li>
+<li>
 <a href="/object/multi-gpu-technology-uk.html">Multi-GPU Technology</a>
+</li>
+<li>
+<a href="/object/nvlink-uk.html">NVLink</a>
 </li>
 <li>
 <a href="/object/optimus_technology_uk.html">Optimus</a>
@@ -272,12 +248,6 @@ $(document).on('nvFrame-ready', function() {
 </li>
 <li>
 <a href="/object/sli_technology_overview_uk.html">SLI</a>
-</li>
-<li>
-<a href="/object/visionworks-cv-toolkit-uk.html">VisionWorks</a>
-</li>
-<li>
-<a href="/object/windows-8-uk.html">Windows 8</a>
 </li>
 <li>
 <a href="/page/technologies.html">All Technologies</a>
@@ -360,8 +330,8 @@ $(document).on('nvFrame-ready', function() {
 </a>
 </li>
 <li>
-<a href="/object/partnerforce-uk.html" id="">
-<div class="title">NVIDIA Partner Program</div>
+<a href="/object/nvidia-partner-network-uk.html" id="">
+<div class="title">NVIDIA Partner Network</div>
 </a>
 </li>
 <li>
@@ -446,8 +416,8 @@ $(document).on('nvFrame-ready', function() {
 </a>
 </li>
 <li>
-<a href="/page/partnerforce.html" id="">
-<div class="title">NVIDIA Partner Program</div>
+<a href="http://careers.nvidia.com/" id="">
+<div class="title">Careers</div>
 </a>
 </li>
 </ul>
@@ -548,7 +518,7 @@ If NVIDIA or its assets are acquired by another company, NVIDIA will request tha
 <div class="FAQ_content"><p>NVIDIA respects your choices about how your Personal Information is used when you register with us, elect to receive our newsletters, or provide us with Personal Information for other purposes.</p>
 <p>If you choose not to provide any Personal Information when requested on the website, you can still enjoy most areas on the website. However, you may be unable to access certain areas and services that require our interaction with you.</p>
 <p><strong>Marketing communications.</strong><br>
-You can opt-out of receiving communications from NVIDIA at any time by unsubscribing at <a href="http://www.nvidia.com/nvregister/frmOptOut.asp">http://www.nvidia.com/nvregister/frmOptOut.asp</a>, or by following the unsubscribe instructions at the bottom of any e-mail you receive. However, we may still send you updates to our Legal Notices, Online Privacy Policy, or regarding any account you have created with us.</p>
+You can opt-out of receiving communications from NVIDIA at any time by unsubscribing at <a href="https://profile.nvidia.com/en-gb/login">https://profile.nvidia.com/en-gb/login</a>, or by following the unsubscribe instructions at the bottom of any e-mail you receive. However, we may still send you updates to our Legal Notices, Online Privacy Policy, or regarding any account you have created with us.</p>
 <p><strong>Online advertising and other tracking.</strong><br>
 As discussed above, NVIDIA collects certain information about you when you visit our websites or services through technology like cookies, web beacons and similar tools.  Because we use this information only for internal and analytic purposes, your selection of the "Do Not Track" option provided by your browser will not have any effect on our collection of cookie information for these purposes.  The only way to completely "opt out" of the collection of any information through cookies or other tracking technology is to actively manage the settings on your browser or mobile device.  To learn more about cookies, clear gifs/web beacons and related technologies, you may wish to visit <a href="http://www.allaboutcookies.org/" target="_blank" rel="nofollow">http://www.allaboutcookies.org</a>. Depending on your mobile device, you may not be able to control tracking technologies through browser settings.</p>
 <p>We permit third party ad networks and social media companies to use cookies, plug-ins and other technology to collect information about your browsing activities over time and across different websites when you visit our Site.  For example, we use advertising services provided by third party ad partners to employ cookies and other tracking technology to market our services to you on other websites. We do not control the opt-out mechanisms of these third party ad partners.  To avoid tracking by these third party ad partners, you can change your browser settings to reject cookies or to notify you when cookies are set and you could select the Do Not Track option on your browser, though we have no control over and cannot confirm whether these third parties honor the Do Not Track browser signal.  Additionally, many advertising companies are members of the Network Advertising Initiative (NAI) or the Digital Advertising Alliance (DAA) which provide opt-outs for member companies at <a href="http://www.networkadvertising.org/choices" target="_blank" rel="nofollow">www.networkadvertising.org/choices</a> or  <a href="http://www.aboutads.info/choices" target="_blank" rel="nofollow">www.aboutads.info/choices</a>. </p>
@@ -604,7 +574,7 @@ Santa Clara, CA 95050</p>
 <a class="leftNavLink" href="/object/who-are-nvidia-uk.html">Visual Computing</a><br>
 <a class="leftNavLink" href="/object/corporate-timeline-uk.html">History of NVIDIA</a><br>
 <a class="leftNavLink" href="/page/executive_profiles.html">Executive Bios</a><br>
-<a class="leftNavLink" href="http://careers.nvidia.com/pljb/nvidia/nvidiaemployment/applicant/index.jsp">NVIDIA Careers</a><br>
+<a class="leftNavLink" href="http://careers.nvidia.com">NVIDIA Careers</a><br>
 <a class="leftNavLink" href="/object/contact-information-europe-uk.html">NVIDIA Locations</a><br>
 <a class="leftNavLink" href="/object/company-policies-uk.html ">NVIDIA Policies</a></p>
 </div>
@@ -671,7 +641,7 @@ Copyright
             
             ©
             
-            2014 NVIDIA Corporation
+            2015 NVIDIA Corporation
             
              | <a href="http://www.nvidia.co.uk/object/legal-info-uk.html">Legal Info</a> | <a href="http://www.nvidia.co.uk/object/privacy_policy_uk.html">Privacy Policy</a> | <a href="http://www.nvidia.co.uk/object/cookie-policy-uk.html">Cookie Policy</a> | <a href="http://www.nvidia.co.uk/object/rss_home_uk.html">RSS Feeds</a> | <a href="http://www.nvidia.co.uk/object/newsletter-uk.html">Newsletter</a> | <a href="http://twitter.com/NVIDIA_UK">NVIDIA Twitter</a>
 </p>
