@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldstaramateurs.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121041856id_/http%3A//www.worldstaramateurs.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldstaramateurs.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142147id_/http%3A//www.worldstaramateurs.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -61,40 +61,3 @@ Unfortunately, the transmission of information via the Internet is not completel
 YOUR RIGHTS
 
 You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section.
-
-### Porn Videos From Our Friends
-
-  * [ ](http://www.worldstarxxx.com/2991/free-black-porn-myfreeblack/ "free black porn")
-
-##### free black porn
-
-  * [ ](http://www.worldstarxxx.com/843/worldstar-fights-uncut-this-bitch-is-a-beast-damn/ "worldstar fights uncut This bitch is a beast DAMN")
-
-##### worldstar fights uncut This bitch is a beast DAMN
-
-  * [ ](http://www.worldstarxxx.com/6987/shegotass-me-and-the-ex/ "Me and the Ex")
-
-##### Me and the Ex
-
-  * [ ](http://www.worldstarxxx.com/1361/deep-in-her-make-her-moan-cuz-shesfreaky-like-that/ "deep in her make her moan")
-
-##### deep in her make her moan
-
-  * [ ](http://www.worldstarxxx.com/457/free-big-dick-videos-pussy-can-bring-world-peace/ "Free big dick videos")
-
-##### Free big dick videos
-
-  * [ ](http://www.worldstarxxx.com/34/free-interracial-blowjob-videos-of-white-hoe-making-love-on-that-black-dick/ "free interracial blowjob")
-
-##### free interracial blowjob
-
-  * [ ](http://www.worldstarxxx.com/312/sloppy-head-myfreeblack-videos/ "Sloppy head videos")
-
-##### Sloppy head videos
-
-  * [ ](http://www.worldstarxxx.com/3287/best-hoodamateurs-black-porn/ "Best hood black porn")
-
-##### Best hood black porn
-
-
-
