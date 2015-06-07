@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostbaby.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709024755id_/http%3A//hostbaby.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostbaby.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607151902id_/http%3A//www.hostbaby.com/privacy) for the most accurate reproduction.*
 
 # HostBaby Privacy Policy
 
@@ -9,7 +9,7 @@ Please upgrade to one of these other modern browsers for a better web experience
 
 Call us: 1-888-448-6369 
 
-[ ](https://web.archive.org/ "Build a Website in Minutes!") Websites for Musicians and Authors
+[ ](https://web.archive.org/ "Build a Website in Minutes!") Websites for Musicians
 
   * [ Features ](https://web.archive.org/features/)
   * [ Pricing ](https://web.archive.org/pricing/)
