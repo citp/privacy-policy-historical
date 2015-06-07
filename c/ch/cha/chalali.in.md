@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chalali.in privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117071746id_/http%3A//www.chalali.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chalali.in privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607212846id_/http%3A//www.chalali.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy « Chalali
 
-Chalali.in (the "Site") respects your privacy. Here's our privacy policy for this Site:
+Chalali.in (the “Site”) respects your privacy. Here’s our privacy policy for this Site:
 
 ### Personally Identifiable Information
 
@@ -16,15 +16,15 @@ Please note that if you post any of your personal information on the Site, such 
 
 ### Cookies
 
-"Cookies" are small text files that allow Web sites to store and retrieve information about you from your computer system. The Site does serve cookies to track individual site usage for later aggregation. But we do not use cookies in order to retrieve any information from your computer other than information originally sent in a Site cookie, such as a user code. We have no control over whether and how our advertisers use cookies that originate from their website.
+“Cookies” are small text files that allow Web sites to store and retrieve information about you from your computer system. The Site does serve cookies to track individual site usage for later aggregation. But we do not use cookies in order to retrieve any information from your computer other than information originally sent in a Site cookie, such as a user code. We have no control over whether and how our advertisers use cookies that originate from their website.
 
 ### Communication from the Site
 
-From time to time, we may send you information with announcements and updates about the Site and your account. You may elect to opt-out of ongoing e-mail communication from us, such as newsletters, subscriptions, account information, promotional materials, contest results, survey inquiries, etc. by using a simple "opt out" procedure. You need only reply to the communication with the word "unsubscribe" (without the quotation marks) in the body of your e-mail response and your name will be removed from that mailing list. However, if you opt-out of receiving our announcements and updates about your account, you may no longer have access to areas restricted to account members.
+From time to time, we may send you information with announcements and updates about the Site and your account. You may elect to opt-out of ongoing e-mail communication from us, such as newsletters, subscriptions, account information, promotional materials, contest results, survey inquiries, etc. by using a simple “opt out” procedure. You need only reply to the communication with the word “unsubscribe” (without the quotation marks) in the body of your e-mail response and your name will be removed from that mailing list. However, if you opt-out of receiving our announcements and updates about your account, you may no longer have access to areas restricted to account members.
 
 ### Children
 
-The Site is not intended for children under the age of 13 nor does the Site knowingly collect personal information from children under 13. The Site does not orient this Site toward children or target them as an audience, nor does it screen them from using the Site. Some of the material on this Site is for mature audiences, and parents and guardians should take responsibility for monitoring their children's use. The Site does not collect or distribute information indicating whether a user is a child.
+The Site is not intended for children under the age of 13 nor does the Site knowingly collect personal information from children under 13. The Site does not orient this Site toward children or target them as an audience, nor does it screen them from using the Site. Some of the material on this Site is for mature audiences, and parents and guardians should take responsibility for monitoring their children’s use. The Site does not collect or distribute information indicating whether a user is a child.
 
 ### Links to Other sites
 
@@ -37,5 +37,3 @@ All commerce transactions that take place on this site are processed through our
 ### Policy Changes and Acceptance
 
 This privacy policy is effective as of January 13, 2010. By using our Site and its services, you signify your acceptance of this Privacy Policy. If you do not agree or are not comfortable with any policy described in this Privacy Policy, you may discontinue use of our Site. We reserve the right to modify this Privacy Policy at any time. Your continued use of any portion of our Site following notification or posting of such changes will constitute your acceptance of these changes.
-
-[Back to Home Page](http://www.chalali.in/)
