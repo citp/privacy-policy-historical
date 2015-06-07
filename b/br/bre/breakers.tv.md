@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the breakers.tv privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133120id_/http%3A//breakers.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakers.tv privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174253id_/http%3A//breakers.tv/privacy) for the most accurate reproduction.*
 
-# Privacy - [ Breakers.TV ] - Live Streaming Platform For Case & Box Breakers
+# Privacy - [ Breakers.TV ] http://breakers.tv - It's Breaking LIVE Right Now! Live box breaks, Live group breaks, Sports Cards, Collectibles
 
 Privacy 
 
-_(Updated September 5, 2011)_
+_(Updated October 5, 2014)_
 
 **Your Privacy**
 
@@ -12,7 +12,7 @@ VaughnSoft (each, a "VaughnSoft Web Service," "Vaughn," "VaughnSoft," "[vn]," "[
 
 **Cookies**
 
-VaughnSoft stores cookies in your browser to handle authentication. 
+VaughnSoft utilizes cookies to store information about your browsing session, browser and to identify your browser for authentication (Example: cookies stored to remember you are signed in) 
 
 **IP Address**
 
@@ -40,7 +40,7 @@ VaughnSoft does what it can to provide the best security for your VaughnSoft acc
 
 **Children's Privacy**
 
-If you are under 18 years of age, then please do not use or access VaughnSoft at any time or in any manner. Protecting the privacy of children is especially important. For that reason, VaughnSoft does not knowingly collect or maintain personally identifiable information from persons under 18 years-of-age. If VaughnSoft learns that personally-identifiable information of persons less than 18 years-of-age has been collected on or through VaughnSoft, then VaughnSoft will take the appropriate steps to delete this information. If you are the parent or legal guardian of a child under 18 who has/is using VaughnSoft service(s), please contact VaughnSoft at: contact [AT] vaughnsoft [DOT] com (replace [AT] and [DOT] with @ and .) to have that child's account terminated and information deleted. 
+If you are under 13 years of age, then please do not use or access VaughnSoft at any time or in any manner. Protecting the privacy of children is especially important. For that reason, VaughnSoft does not knowingly collect or maintain personally identifiable information from persons under 18 years-of-age. If VaughnSoft learns that personally-identifiable information of persons less than 18 years-of-age has been collected on or through VaughnSoft, then VaughnSoft will take the appropriate steps to delete this information. If you are the parent or legal guardian of a child under 18 who has/is using VaughnSoft service(s), please contact VaughnSoft at: contact [AT] vaughnsoft [DOT] com (replace [AT] and [DOT] with @ and .) to have that child's account terminated and information deleted. 
 
 **Privacy Policy Terms**
 
