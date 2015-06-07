@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the srds.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702065519id_/http%3A//next.srds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srds.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074849id_/http%3A//next.srds.com/privacy) for the most accurate reproduction.*
 
 # Kantar Media SRDS Privacy Policy
 
@@ -89,7 +89,7 @@ If you have any questions about this privacy policy, please contact us through t
 
   * _E-Mail:_ [contact@srds.com](mailto:contact@srds.com)
   * _Phone:_ 800.851.7737 
-  * _Fax:_ 847.375.5001 
-  * _Write:_ SRDS, 1700 Higgins Road, Des Plaines, IL 60018
+  * _Fax:_ 847.268.1180
+  * _Write:_ SRDS, 5600 N. River Road, Rosemont, IL 60018
 
 
