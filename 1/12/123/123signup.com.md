@@ -1,51 +1,104 @@
-> *The following text is extracted and transformed from the 123signup.com privacy policy that was archived on 2014-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140819125130id_/http%3A//www.123signup.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123signup.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607071722id_/http%3A//www.123signup.com/privacy-policy.asp) for the most accurate reproduction.*
 
-# 123Signup - Privacy Policy
+# Privacy Policy
 
-123Signup is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the 123Signup Website and governs data collection and usage. By using the 123Signup Website, you consent to the data practices described in this statement.
+#### Privacy Policy
 
-## Collection of your Personal Information
+123Signup and its worldwide subsidiaries and affiliates that comprise the 123Signup Family of Companies (“123Signup,” “we,” “us,” ”our”) are committed to protecting your privacy. There are various ways that you might interact with 123Signup, and the information you provide when doing so allows us to improve our services. By using this website and our related websites (collectively, the “Site”) and by supplying your details to 123Signup, you consent to 123Signup collecting and processing your information.
 
-123Signup collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. 123Signup also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+Our privacy policy explains:
 
-There is also information about your computer hardware and software that is automatically collected by 123Signup. This information can include: your IP address, browser type, domain names, access times and referring Website addresses. This information is used by 123Signup for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the 123Signup Website. Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through 123Signup public message boards, this information may be collected and used by others. Note: 123Signup does not read any of your private online communications. 123Signup encourages you to review the privacy statements of Websites you choose to link to from 123Signup so that you can understand how those Websites collect, use and share your information. 123Signup is not responsible for the privacy statements or other content on Websites outside of the 123Signup and 123Signup family of Websites.
+  * What information we collect, and why we collect it;
+  * How we use that information;
+  * How we protect that information;
+  * How you can control your information, including accessing, updating and deleting what we store; and
+  * How we share information collected.
 
-123Signup uses the Google AdWords remarketing service to advertise on third party websites, including Google, to previous visitors to the 123Signup Website. It could mean that 123Signup advertises to previous visitors who haven’t completed a task on the 123Signup Website. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. 
 
-You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), and if you want to you can [opt out of interest-based advertising entirely by cookie settings](http://www.google.com/settings/ads/onweb/) or [permanently using a browser plugin](http://www.google.com/ads/preferences/html/intl/en/plugin/).
 
-## Use of your Personal Information
+#### Compliance
 
-123Signup collects and uses your personal information to operate the 123Signup Website and deliver the services you have requested. 123Signup also uses your personally identifiable information to inform you of other products or services available from 123Signup and its affiliates. 123Signup may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+123Signup adheres to Canadian and international statutes and regulations which govern the protection of personal information. In Canada 123Signup adheres to the Personal Information and Protection of Electronic Documents Act (“PIPEDA”). In the United States, 123Signup adheres to statutes of general application and statutes of specific application such as the Health Insurance Portability and Accountability Act (“HIPPA”) where applicable In Australia, 123Signup complies with the Privacy Act, 1988, a federal statute as well as with State and Territory laws pertaining to protection of personal information, including the Health Records Act 2001(VIC) where applicable. In New Zealand, 123Signup follows the Privacy Act, 1993. In Europe, 123Signup adheres to the Data Protection Act, 1998, the European Union ("EU") Data Protection (95/46/EC) and ePrivacy (2002/58/ED) Directives (as transposed into national law), the EU Privacy Directive dated May 26, 2012 (regarding cookies and other matters) and registers annually with the Information Commissioner’s Office. 
 
-123Signup does not sell, rent or lease its customer lists to third parties. 123Signup may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, 123Signup may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to 123Signup, and they are required to maintain the confidentiality of your information.
+#### Information We Collect & Share
 
-123Signup does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+We may collect or record basic personal information (e.g., name, e-mail address, mailing address, phone number) which you voluntarily provide through forms on our Site, through electronic mail you send to us, or through other means of communication between you and us.
 
-123Signup keeps track of the websites and pages that our customers visit within 123Signup, in order to determine what 123Signup services are the most popular. This data is used to deliver customized content and advertising within 123Signup to customers whose behavior indicates that they are interested in a particular subject area.
+We only collect personal information of a more sensitive nature (e.g. social security or other governmental ID numbers, credit card details and account numbers) where it is appropriate or necessary for conducting business. This information will be collected, stored, accessed and processed in a secure manner. We may also collect general non-personal information pertaining to users of our sites, including IP addresses, source domain names, specific web pages, length of time spent, and pages accessed. This information is collected, among other things, to aggregate statistical information, facilitate system administration and improve the Site. We recognize and have controls in place to ensure that the privacy of personal information about an identifiable individual used in the course of commercial activity is protected and managed.
 
-The 123Signup Website will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on 123Signup or the site; (b) protect and defend the rights or property of 123Signup; and, (c) act under exigent circumstances to protect the personal safety of users of 123Signup, or the public.
+We also collects use, and disclose identifiable information about individual contacts for our customers (“Business Contact Information”) in the ordinary course of our business for managing and maintaining customer relationships. In particular, we may obtain the following types of Business Contact Information: name, address, invoice information including bank account information, and order information. Unless otherwise specified or prohibited, we may share information with affiliates, business partners, service providers, subsidiaries or contractors who are required to provide you with services which you have requested from us.
 
-In addition, as mentioned above, the 123Signup website uses the Google AdWords remarketing service to advertise on third party websites, including Google, to previous visitors to the 123Signup website.
+We may also post links to third party websites as a service to you. These third party websites are operated by companies that are outside of our control, and your activities at those third party websites will be governed by the policies and practices of those third parties. We encourage you to review the privacy policies of these third parties before disclosing any information, as we are not responsible for the privacy policies of those websites.
 
-## Use of Cookies
+#### How We Use Information 
 
-The 123Signup Website use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+We use the information we collect to provide you with services which you request and to improve our existing services and the content of our Site. When you contact us, we may keep a record of your communication to help solve any issues that you might be facing. Your information may be retained for a reasonable time for use in future contact with you, or for future improvements to our services. You have the option to opt-out or opt-in for furher communications from us.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize 123Signup pages, or register with 123Signup site or services, a cookie helps 123Signup to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same 123Signup Website, the information you previously provided can be retrieved, so you can easily use the 123Signup features that you customized.
+We may also use or disclose your personal information when we believe, in good faith, that such use or disclosure is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any of our user agreements, or (iii) protect our rights, property or safety,, or the rights, property or safety of our users, or others. We reserve the right to transfer and disclose your information if we become involved in a business divestiture, change of control, sale, merger, or acquisition of all or a part of our business.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the 123Signup services or websites you visit.
+In certain cases, we also operate as an information processor for our business customers. Our business customers remain the information controllers with respect to any customer information that they provide to us for our provision of services. We therefore act in accordance with the instructions of such customers regarding the collection, processing, storage, deletion and transfer of customer information, as well as other matters such as the provision of access to and rectification of customer information.
 
-Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the 123Signup Website. Of course, any data collected will be used in accordance with 123Signup’s privacy policy and Google’s privacy policy. You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), and if you want to you can [opt out of interest-based advertising entirely by cookie settings](http://www.google.com/settings/ads/onweb/) or [permanently using a browser plugin](http://www.google.com/ads/preferences/html/intl/en/plugin/).
+We do not sell our services to children. As such, our Sites are designed for adult user interaction. We do not intentionally collect personally identifiable information from children under the age of 13.
 
-## Security of your Personal Information
+#### Web User Tracking – Use of Cookies, IP Addresses and Aggregate Information
 
-123Signup secures your personal information from unauthorized access, use or disclosure. 123Signup secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+Cookies are a technology that can be used to help personalize your use of a website. A cookie is an element of information that a website can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it or decline at any time. To enable us to assess the effectiveness and usefulness of this Site, and to give you the best user experience, we collect and store information such as pages viewed by you, your domain names and similar information. Our Site makes use of anonymous cookies for the purposes of:
 
-## Changes to this Statement
+  * Completion and support of Site activity;
+  * Site and system administration;
+  * Research and development; and
+  * Anonymous user analysis, user profiling, and decision-making.
 
-123Signup will occasionally update this Statement of Privacy to reflect company and customer feedback. 123Signup encourages you to periodically review this Statement to be informed of how 123Signup is protecting your information.
 
-## Contact Information
 
-123Signup welcomes your comments regarding this Statement of Privacy. If you believe that 123Signup has not adhered to this Statement, please contact 123Signup at [info@123Signup.com](mailto:info@123Signup.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+An Internet Protocol (“IP”) address is associated with your computer’s connection to the internet. We may use your IP address to help diagnose problems with our server, to administer the Site and to maintain contact with you as you navigate through the Site. Your computer’s IP address also may be used to provide you with information based upon your navigation through the Site.
+
+Aggregate information is used to measure the visitors’ interest in, and use of, various areas of the Site and the various programs that we administer. We will rely upon aggregate information, which is information that does not identify you, such as statistical and navigational information. With this aggregate information, we may undertake statistical and other summary analyses of the visitors’ behaviors and characteristics. Although we may share this aggregate information with third parties, none of this information will allow anyone to identify you, or to determine anything else personal about you.
+
+#### Collection and Use of Employee Personal Information
+
+We also collect personal information from our employees and from job applicants (human resource data) in connection with administration of our human resources programs and functions. These programs and functions include, but are not limited to: job applications and hiring programs, compensation and benefit programs, performance appraisals, training, access to our facilities and computer networks, employee profiles, employee directories, human resource recordkeeping, and other employment related purposes. It is our policy to keep all past and present employee information private from disclosure to third parties. There are certain business related exceptions and they are:
+
+  * To comply with municipal, regional, provincial or federal agency requests;
+  * Inquiries from third parties with a signed authorization from the employee to release the information, except in situations where limited verbal verifications are acceptable (see below);
+  * Third parties with which we have contractual agreements to assist in administration of company sponsored benefits.
+
+
+
+Prospective employers, government agencies, financial institutions, and residential property managers routinely contact us requesting information on a former or current employee’s work history and salary. All such requests of this type shall be referred to and completed on a confidential basis by the human resources department or payroll department. For written verification of employment requests, information will be provided on the form only when it is accompanied by an employee’s signed authorization to release information. The form will be returned directly to the requesting party and filed as part of the human resources or payroll department’s confidential records.
+
+#### Security
+
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.
+
+We use reasonable measures to safeguard personally identifiable information, which measures are appropriate to the type of information maintained, and follows applicable laws regarding the safeguarding of any such information under our control. In addition, in some areas of our Sites, we may use encryption technology to enhance information privacy and help prevent loss, misuse, or alteration of the information under our control. We also employ industry-standard measures and processes for detecting and responding to inappropriate attempts to breach our systems.
+
+No method of transmission over the Internet, or method of electronic storage, can be 100% secure. Therefore, we cannot guarantee the absolute security of your information. The Internet by its nature is a public forum, and we encourage you to use caution when disclosing information online. Often, you are in the best situation to protect yourself online. You are responsible for protecting your username and password from third party access, and for selecting passwords that are secure.
+
+#### Monitoring and Enforcement
+
+We regularly review our compliance with our privacy policy. We also adhere to several self-regulatory frameworks in addition to complying with applicable law. If we receive formal written complaints, we will follow up with the person making the complaint. We work with the appropriate regulatory authorities to resolve any complaints that cannot be resolved directly.
+
+#### Accessing and Updating Your Personal Information
+
+If you have provided us with your personal information, you may have the right to inspect the information stored by us for accuracy, or may request that the information be removed from our files. We will make a reasonable effort to comply with such requests except where it would require a disproportionate effort (for example developing a new system or changing an existing practice). We may require that you verify your identity before we act on a request to edit or remove your information. Please direct any questions about your information to the Privacy Contact identified below to review any personal information held about you.
+
+#### Social Media and Online Engagement
+
+We occasionally use a variety of new technologies and social media options to communicate and interact with customers, potential customers, employees and potential employees. These sites and applications include popular social networking and media sites, open source software communities and more. To better engage the public in ongoing dialog, certain of our businesses use certain third-party platforms including, but not limited to, Facebook, Twitter and LinkedIn. Third-Party Websites and Applications (TPWA) are Web-based technologies that are not exclusively operated or controlled by us. When interacting on those websites, you may reveal certain personal information to us or to third parties. Other than when used by our employees for the purpose of responding to a specific message or request, we will not use, share, or retain your personal information.
+
+  * The Facebook privacy policy is available at: http://www.facebook.com/policy.php.
+  * The Twitter privacy policy is available at: http://twitter.com/privacy.
+  * The LinkedIn privacy policy is available at: http://www.linkedin.com/static?key=privacy_policy.
+
+
+
+#### Changes to this Privacy Policy
+
+We may change this privacy policy from time to time. If this privacy policy changes, the revised privacy policy will be posted at the "Privacy Policy” link on the Site’s home page. In the event that the change is significant or material, we will notify you of such a change by revising the link on the home page to read "Newly Revised Privacy Policy." Please check the privacy policy frequently. Your continued use of the Site constitutes acceptance of such changes in the privacy policy, except where further steps are required by applicable law. This privacy policy was last updated on the date set out at the end of the policy.
+
+#### Contacting Us
+
+Questions regarding this privacy policy should be directed to Ann Murphy at San Jose, CA 95131; telephone 408.382.1400; e-mail info@123signup.com.
+
+LAST UPDATED: March, 2015
