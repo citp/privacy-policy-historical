@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roboforex.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511004138id_/http%3A//www.roboforex.com/about/security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roboforex.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074209id_/http%3A//www.roboforex.com/about/security-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,7 +21,13 @@ This data is necessary to protect you and our reputation, and prevent the money 
 
 ##  Cookies
 
-Cookies are files that contain information used by the web site to account the traffic (the number of visitors). RoboForex can access its site cookies located on your PC to determine which ads and resources are most demanded in terms of attracting potential clients, assessing your interest in various services and tracking your activity on the site. All information is strictly confidential and is not associated with any particular client.
+Cookies are files containing the information that websites use to register traffic (number of visitors). This information from the website server is temporarily saved on the hard disk of your computer or mobile device when you visit the website for the first time and, subsequently, allows the website to recognize your browser.
+
+Cookies usually contain some anonymous information such as the Unique Identification Number that is generated at random. Cookies also remember the country and language preferences you selected. All the information received is confidential and not directly associated with a certain client.
+
+RoboForex uses cookies to define what services are the most interesting services for its clients and to measure visitors’ activity on the Company’s website. Using cookies, we also identify the most requested advertisements and estimate the popularity of resources related to the potential clients attracting.
+
+Using services of our website, you agree to our use of cookies. All the Internet browsers allow to change cookies settings. You can disable or block cookie files, however, some of them are necessary for the proper functioning of our website.
 
 ##  Security Technologies
 
