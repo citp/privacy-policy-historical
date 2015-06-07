@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the m2host.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226055018id_/http%3A//m2host.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the m2host.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607030455id_/http%3A//m2host.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Welcome M2Host.com: We provide the perfect web hosting you would need. | Cheap Hosting | Cheap Reseller Hosting | Cheap CPanel Hosting
 
