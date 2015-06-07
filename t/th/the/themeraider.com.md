@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themeraider.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211040751id_/http%3A//www.themeraider.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themeraider.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074148id_/http%3A//www.themeraider.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Themes for Windows 7 & Windows 8: Privacy Policy
 
