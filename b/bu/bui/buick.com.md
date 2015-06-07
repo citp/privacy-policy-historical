@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buick.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230110349id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buick.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074308id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
 
 # General Motors | Privacy Statement | GM.com
 
@@ -173,11 +173,11 @@ If you have a question or concern about the privacy practices of the BuyPower Ca
 
 For GM Family First participants, you may correct your information by contacting your Human Resources representative or updating your information via Socrates. For Vehicle Purchase Plan (“VPP”) participants, you may correct your personal information by visiting the following VPP websites.
 
-  * [_GM Supplier Discount_](https://www.gmsupplierdiscount.com/ip-vpp/)
-  * [_GM Dealership Employee Discount_](https://www.gmded.com/ip-vpp/)
-  * [_GM College Discount_](https://www.gmcollegediscount.com/ip-vpp/)
-  * [_GM Military Discount_](https://www.gmmilitarydiscount.com/ip-vpp/)
-  * [](https://www.gmmilitarydiscount.com/ip-vpp/)[_Credit Union Discount from GM_](https://www.mygmdiscount.com/ip-vpp/)
+  * [GM Supplier Discount](https://www.gmsupplierdiscount.com/?eVar25=GM_COM_PRIV_PG_TXT_0415)
+  * [GM Dealership Employee Discount](https://www.gmded.com/?eVar25=GM_COM_PRIV_PG_TXT_0415)
+  * [GM College Discount](https://www.gmcollegediscount.com/?eVar25=GM_COM_PRIV_PG_TXT_0415)
+  * [GM Military Discount](https://www.gmmilitarydiscount.com/?eVar25=GM_COM_PRIV_PG_TXT_0415)
+  * [GM Educator Discount](https://www.exclusivegmoffer.com/ip-vpp/?ac=gmed&eVar25=GM_COM_PRIV_PG_TXT_0415)
 
 
 
