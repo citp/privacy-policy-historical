@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gametz.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117071857id_/http%3A//gametz.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gametz.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608002018id_/http%3A//gametz.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
