@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the spanish.cl privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229234302id_/http%3A//www.spanish.cl/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanish.cl privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607150824id_/http%3A//www.spanish.cl/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Spanish.cl
+
+[](http://www.spanish.cl/ "Woodward Spanish")
 
 ## www.spanish.cl
 
@@ -31,3 +33,21 @@ Spanish.cl is in no way responsible for websites that are linked from Spanish.cl
 Changes may be made at any time according to our privacy policy. Changes will become effective immediately upon changes to this website. Viewers may check this website at anytime to be up to date on the privacy policies of Spanish.cl.
 
 Effective Date: 01 December 2007
+
+  
+  
+
+
+### Spanish Reading Passages
+
+Improve your Spanish with our reading passages. There are different topics for beginner to advanced level students. There is also a special section for Spanish teachers.
+
+[SEE OUR SPANISH READING TEXTS](https://web.archive.org/web/20150607150824id_/http%3A//www.spanish.cl/reading.htm "Spanish Reading Passages")
+
+### Spanish Verb Lists
+
+A list of common verbs in Spanish with their conjugation in different tenses and example sentences. There are also interactive games to practice each verb.
+
+[SEE OUR LIST OF SPANISH VERBS](https://web.archive.org/web/20150607150824id_/http%3A//www.spanish.cl/VerbsList.htm "List of Spanish Verbs and their conjugation with example sentences")
+
+[GRAMMAR RULES](https://web.archive.org/web/20150607150824id_/http%3A//www.spanish.cl/Grammar/Notes.htm "Spanish Grammar Rules") [GRAMMAR GAMES](https://web.archive.org/web/20150607150824id_/http%3A//www.spanish.cl/Grammar/Games.htm "Spanish Grammar Games") [VOCABULARY LISTS](https://web.archive.org/web/20150607150824id_/http%3A//www.spanish.cl/Vocabulary/Notes.htm "Spanish Vocabulary Lists") [VOCABULARY GAMES](https://web.archive.org/web/20150607150824id_/http%3A//www.spanish.cl/Vocabulary/Games.htm "Spanish Vocabulary Games")
