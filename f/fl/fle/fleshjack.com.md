@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fleshjack.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118033802id_/http%3A//www.fleshjack.com/faq-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fleshjack.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144931id_/http%3A//www.fleshjack.com/faq-privacy-policy) for the most accurate reproduction.*
 
-# Fleshjack - Sex Toys and Adult Toys for Gay Men
+# Fleshjack® #1 Gay Adult Toys in the World
 
 This website (the “Site”) is the property of Interactive Life Forms, LLC, a Texas Limited Liability Company, whose primary offices are located at 7000 Burleson Road, Building C, Austin, TX 78744 and Fleshlight Canada Distribution, ULC, whose primary offices are located at 2525 Dunwin Drive, Unit 2, Mississauga, Ontario L5L 1R9, as applicable, (collectively, “ILF”, “we”, or “us”). ILF respects the privacy of those who access and/or use the Site (“You”, “Your”, “User”, or collectively “Users”) and is committed to protecting the privacy of the personally identifiable information we collect from You as You access and/or use the Site via the internet, the world wide web, mobile networks, or any other communication methods now known or in the future developed.
 
