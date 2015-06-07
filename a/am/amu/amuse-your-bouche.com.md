@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amuse-your-bouche.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119225218id_/http%3A//www.amuse-your-bouche.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amuse-your-bouche.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607212112id_/http%3A//www.amuse-your-bouche.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Amuse Your Bouche
 
