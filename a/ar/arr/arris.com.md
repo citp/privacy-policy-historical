@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arris.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216015830id_/http%3A//arris.com/privacy_policy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arris.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607194139id_/http%3A//www.arris.com/privacy_policy/index.asp) for the most accurate reproduction.*
 
 # ARRIS Privacy Policy
 
@@ -36,9 +36,9 @@ ARRIS will send PII about you to other companies or people only when:
 
 
 
-You have the ability to edit, correct or erase your PII, at any time. To request such account maintenance send your email request to [marketing@arrisi.com](mailto:marketing@arrisi.com). You may also indicate that you do not wish to receive messages from ARRIS regarding our products or services or update your information relating to such messages at [marketing@arrisi.com](mailto:marketing@arrisi.com) . You may also write to ARRIS Marketing, 3871 Lakefield Drive, Suwanee, GA 30024, USA. Following your request for either type of data editing, your information will be changed in ARRIS databases after we receive the information necessary to process your request.
+You have the ability to edit, correct or erase your PII, at any time. To request such account maintenance send your email request to [marketing@arris.com](mailto:marketing@arris.com). You may also indicate that you do not wish to receive messages from ARRIS regarding our products or services or update your information relating to such messages at [marketing@arris.com](mailto:marketing@arris.com) . You may also write to ARRIS Marketing, 3871 Lakefield Drive, Suwanee, GA 30024, USA. Following your request for either type of data editing, your information will be changed in ARRIS databases after we receive the information necessary to process your request.
 
-We welcome comments and questions on this Privacy Policy. As stated above, we are dedicated to protecting your privacy, and we will make every reasonable effort to keep your information secure. Questions regarding our Privacy Policy should be directed via e-mail to [marketing@arrisi.com](mailto:marketing@arrisi.com) or by contacting the ARRIS Marketing Department at 1-800-469-6569. Additionally you may contact us by writing to ARRIS Marketing, 3871 Lakefield Drive, Suwanee, GA 30024, USA. 
+We welcome comments and questions on this Privacy Policy. As stated above, we are dedicated to protecting your privacy, and we will make every reasonable effort to keep your information secure. Questions regarding our Privacy Policy should be directed via e-mail to [marketing@arris.com](mailto:marketing@arris.com) or by contacting the ARRIS Marketing Department at 1-800-469-6569. Additionally you may contact us by writing to ARRIS Marketing, 3871 Lakefield Drive, Suwanee, GA 30024, USA. 
 
 ##  Disclaimer
 
