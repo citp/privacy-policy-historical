@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremeladyboys.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921205030id_/http%3A//www.extremeladyboys.com/static.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremeladyboys.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607065210id_/http%3A//www.extremeladyboys.com/static.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # 
 
