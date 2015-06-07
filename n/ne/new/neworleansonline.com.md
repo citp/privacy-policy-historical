@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neworleansonline.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121045711id_/http%3A//www.neworleansonline.com/notmc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neworleansonline.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142920id_/http%3A//www.neworleansonline.com/notmc/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -137,5 +137,5 @@ This English-language Privacy Policy is NOTMC's official statement of our privac
 If you have any questions regarding our NOTMC's privacy practices, please do not hesitate to contact us as follows:
 
 E-mail: [online@notmc.com](mailto:online@notmc.com)  
-Telephone: (504) 5244-4784  
-U.S. Mail: 2020 St. Charles Ave., 2nd Floor, New Orleans 70130
+Telephone: (504) 524-4784  
+U.S. Mail: 2020 St. Charles Ave., 4th Floor, New Orleans 70130
