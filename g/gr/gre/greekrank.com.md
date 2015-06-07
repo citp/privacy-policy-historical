@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greekrank.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228215855id_/http%3A//www.greekrank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greekrank.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607133832id_/http%3A//www.greekrank.com/privacy) for the most accurate reproduction.*
 
-# Report a rating, review, shoutout, or discussion post - GreekRank.com
+# Report a rating, review, shoutout, or discussion post - Greekrank
 
 LAST REVISED: JANUARY 23, 2012
 
