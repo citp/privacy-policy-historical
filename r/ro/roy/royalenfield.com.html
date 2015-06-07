@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the royalenfield.com privacy policy that was archived on 2014-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141217193631id_/http%3A//royalenfield.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the royalenfield.com privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607153056id_/http%3A//royalenfield.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head><link id="seoDynamicLink" rel="alternate" hreflang="x-default" href="http://royalenfield.com/privacy/"><link id="seoUSA" rel="alternate" href="http://royalenfield.com/usa/" hreflang="en-us"><link id="seoCo" rel="alternate" href="http://royalenfield.com/co/" hreflang="es-co"><link id="seoUk" rel="alternate" href="http://royalenfield.com/uk/" hreflang="en-gb"><link id="seoIndia" rel="alternate" href="http://royalenfield.com/privacy/" hreflang="en-in"><title>
 	Privacy - Royal Enfield
 </title><meta id="metaTitle" name="title" content="Royal Enfield – Official Website"><meta name="description" content="Royal Enfield - We have been creating modern classics since 1901. Manufacturers of the Bullet, Electra, Classic and Thunderbird series"><meta id="ogTitle" property="og:title" content="Royal Enfield – Official Website"><meta id="ogDescription" property="og:description" content="Royal Enfield - We have been creating modern classics since 1901. Manufacturers of the Bullet, Electra, Classic and Thunderbird series"><meta id="ogImage" property="og:image" content="http://royalenfield.com/images/fb.jpg?v=5"><meta http-equiv="X-UA-Compatible" content="IE=10"><link id="fav" rel="shortcut icon" href="http://royalenfield.com/images/favicon.png?v=5">
     <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=511966368815414"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
@@ -26,7 +26,7 @@
     <link rel="stylesheet" type="text/css" href="http://royalenfield.com/css/events.css?v=5">
     <link rel="stylesheet" type="text/css" href="http://royalenfield.com/css/privacy.css?v=5">
 </head>
-<body oncontextmenu="return false">
+<body>
     <!-- main div -->
     <div class="main-div">
         <!-- main container -->
@@ -121,21 +121,10 @@
                                 Ride</a></li>
                         </ul>
                     </li>
-                    <li id="ids4" class="navcontainer"><a href="http://royalenfield.com/accessories/">
+                    <li id="ids4" class="navcontainer"><a target="_blank" href="http://store.royalenfield.com/">
                         <span class="nav_bg_left"><span class="nav_tile_repeat"><span class="nav_center_arow">
-                            Accessories</span> </span></span></a><span class="arrow_top"></span>
-                        <ul class="open_subnav">
-                            <hr class="black-line">
-                            <li><a href="http://royalenfield.com/accessories/jackets/">Jackets</a></li>
-                            <li><a href="http://royalenfield.com/accessories/trousers/">Trousers</a></li>
-                            <li><a href="http://royalenfield.com/accessories/boots/">Boots</a></li>
-                            <li><a href="http://royalenfield.com/accessories/helmets/">Helmets</a></li>
-                            <li><a href="http://royalenfield.com/accessories/eyewear/">Eyewear</a></li>
-                            <li><a href="http://royalenfield.com/accessories/tshirts/">T - Shirts</a></li>
-                            <li><a href="http://royalenfield.com/accessories/gloves/">Gloves</a></li>
-                            <li><a href="http://royalenfield.com/accessories/buffs/">Buffs</a></li>
-                            <li><a href="http://royalenfield.com/accessories/lapel-pins/">Lapel Pins</a></li>
-                        </ul>
+                            Gear</span> </span></span></a><span class="arrow_top"></span>
+                        
                     </li>
                     <li id="ids5" class="navcontainer"><a href="http://royalenfield.com/support/">
                         <span class="nav_bg_left"><span class="nav_tile_repeat"><span class="nav_center_arow">
@@ -752,35 +741,65 @@
                 }
                 else {
                     $.ajax({
-                        url: "http://royalenfield.com/search/search_ajax.aspx",
+                        url: "http://royalenfield.com/search_ajax.aspx",
                         type: "POST",
                         dataType: 'json',
                         data: { keyword: searchWord },
                     }).done(function (response) {
                         var activeLink = response.link;
                         switch (activeLink) {
-                            case "motorcycles": window.location.href = 'http://royalenfield.com/search-motorcycles/?term=' + searchWord;
-                                break;
-                            case "rides": window.location.href = 'http://royalenfield.com/search-rides-calendar/?term=' + searchWord;
-                                break;
-                            case "events": window.location.href = 'http://royalenfield.com/search-events/?term=' + searchWord;
-                                break;
-                            case "forum": window.location.href = 'http://royalenfield.com/search-forum/?term=' + searchWord;
-                                break;
-                            case "news": window.location.href = 'http://royalenfield.com/search-news/?term=' + searchWord;
-                                break;
-                            case "dealers": window.location.href = 'http://royalenfield.com/search-dealers/?term=' + searchWord;
-                                break;
-                            case "services": window.location.href = 'http://royalenfield.com/search-service-centers/?term=' + searchWord;
-                                break;
-                            case "rides": window.location.href = 'http://royalenfield.com/search-rides-calendar/?term=' + searchWord;
-                                break;
+                            default: window.location.href = 'http://royalenfield.com/search/?term=' + searchWord;
+                                //case "motorcycles": window.location.href = 'http://royalenfield.com/search-motorcycles/?term=' + searchWord;
+                                //break;
+                                //case "rides": window.location.href = 'http://royalenfield.com/search-rides-calendar/?term=' + searchWord;
+                                //break;
+                                //case "events": window.location.href = 'http://royalenfield.com/search-events/?term=' + searchWord;
+                                //break;
+                                //case "forum": window.location.href = 'http://royalenfield.com/search-forum/?term=' + searchWord;
+                                //break;
+                                //case "news": window.location.href = 'http://royalenfield.com/search-news/?term=' + searchWord;
+                                //break;
+                                //case "dealers": window.location.href = 'http://royalenfield.com/search-dealers/?term=' + searchWord;
+                                //break;
+                                //case "services": window.location.href = 'http://royalenfield.com/search-service-centers/?term=' + searchWord;
+                                //break;
+                                //case "rides": window.location.href = 'http://royalenfield.com/search-rides-calendar/?term=' + searchWord;
+                                //break;
                         }
                     });
                 }
             });
 
-            $(".search_box").live("keydown", function (e) {
+            //enter click in search page
+            $(".classtxtsearch").live("keydown", function (e) {
+                //console.log("TEST");
+                if (e.which == 13) {
+                    //alert('T');
+                    var searchWord = $(this).val();
+                    console.log(searchWord);
+                    if (searchWord.length == 0) {
+                        alert("Please enter the search keyword!");
+                        window.location.href = 'http://royalenfield.com/search/?term=' + searchWord;
+                }
+                else {
+                    $.ajax({
+                        url: "http://royalenfield.com/search_ajax.aspx",
+                        type: "POST",
+                        dataType: 'json',
+                        data: { keyword: searchWord },
+                    }).done(function (response) {
+                        var activeLink = response.link;
+                        switch (activeLink) {
+                            default: window.location.href = 'http://royalenfield.com/search/?term=' + searchWord;
+                                //+ "&totcont=" + response.total;
+                        }
+                    });
+                }
+            }
+        });
+
+
+            $("#txtSearch").live("keydown", function (e) {
                 //console.log("TEST");
                 if (e.which == 13) {
                     //alert('T');
@@ -791,29 +810,30 @@
                     }
                     else {
                         $.ajax({
-                            url: "http://royalenfield.com/search/search_ajax.aspx",
+                            url: "http://royalenfield.com/search_ajax.aspx",
                             type: "POST",
                             dataType: 'json',
                             data: { keyword: searchWord },
                         }).done(function (response) {
                             var activeLink = response.link;
                             switch (activeLink) {
-                                case "motorcycles": window.location.href = 'http://royalenfield.com/search-motorcycles/?term=' + searchWord;
-                                    break;
-                                case "rides": window.location.href = 'http://royalenfield.com/search-rides-calendar/?term=' + searchWord;
-                                    break;
-                                case "events": window.location.href = 'http://royalenfield.com/search-events/?term=' + searchWord;
-                                    break;
-                                case "forum": window.location.href = 'http://royalenfield.com/search-forum/?term=' + searchWord;
-                                    break;
-                                case "news": window.location.href = 'http://royalenfield.com/search-news/?term=' + searchWord;
-                                    break;
-                                case "dealers": window.location.href = 'http://royalenfield.com/search-dealers/?term=' + searchWord;
-                                    break;
-                                case "services": window.location.href = 'http://royalenfield.com/search-service-centers/?term=' + searchWord;
-                                    break;
-                                case "rides": window.location.href = 'http://royalenfield.com/search-rides-calendar/?term=' + searchWord;
-                                    break;
+                                default: window.location.href = 'http://royalenfield.com/search/?term=' + searchWord;
+                                    //case "motorcycles": window.location.href = 'http://royalenfield.com/search-motorcycles/?term=' + searchWord;
+                                    //break;
+                                    //case "rides": window.location.href = 'http://royalenfield.com/search-rides-calendar/?term=' + searchWord;
+                                    //break;
+                                    //case "events": window.location.href = 'http://royalenfield.com/search-events/?term=' + searchWord;
+                                    //break;
+                                    //case "forum": window.location.href = 'http://royalenfield.com/search-forum/?term=' + searchWord;
+                                    //break;
+                                    //case "news": window.location.href = 'http://royalenfield.com/search-news/?term=' + searchWord;
+                                    //break;
+                                    //case "dealers": window.location.href = 'http://royalenfield.com/search-dealers/?term=' + searchWord;
+                                    //break;
+                                    //case "services": window.location.href = 'http://royalenfield.com/search-service-centers/?term=' + searchWord;
+                                    //break;
+                                    //case "rides": window.location.href = 'http://royalenfield.com/search-rides-calendar/?term=' + searchWord;
+                                    //break;
                             }
                         });
                     }
