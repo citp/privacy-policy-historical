@@ -1,22 +1,11 @@
-> *The following text is extracted and transformed from the subhub.com privacy policy that was archived on 2014-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140318215109id_/http%3A//www.subhub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subhub.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607203248id_/http%3A//www.subhub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SubHub
+# Privacy Policy | SubHub - Membership Sites Made Easy
 
-**[](http://www.subhub.com/)**
+END USER PRIVACY AND COOKIE POLICY  
+Welcome to our Privacy Policy.
 
-  * [](https://twitter.com/subhub "Twitter")
-  * [](https://www.facebook.com/subhub "Facebook")
-  * [](http://www.linkedin.com/company/subhub "Linkedin")
-  * [](https://plus.google.com/103812419050466071878 "Gplus")
-  * [](http://www.subhub.com/contact-us/ "Mail")
-
-
-
-You are here: [Home](http://www.subhub.com/ "SubHub") / Privacy Policy
-
-_**Welcome to our Privacy Policy.**_
-
-This document explains what we do with the personal information that you give us. If you have not already done so, please read our [User Agreemen](http://www.subhub.com/web-services-agreement/ "Web Services Agreement")t before reading this Privacy Policy. In general, we use the personal information that we collect from you to allow you to use the services offered by our website including Paid-For Content (the “Service”). This Privacy Policy applies only to our Service and not to any other company, individual, organisation or website that you may reach via a link from our website, except for those companies we mention below. If at any time you have a question about anything contained in this Privacy Policy or a general query on privacy, please [contact us](http://subhubcms.live.subhub.com/contactus).
+This document explains what we do with the personal information that you give us. If you have not already done so, please read our User Agreement before reading this Privacy Policy. In general, we use the personal information that we collect from you to allow you to use the services offered by our website including Paid-For Content (the “Service”). This Privacy Policy applies only to our Service and not to any other company, individual, organisation or website that you may reach via a link from our website, except for those companies we mention below. If at any time you have a question about anything contained in this Privacy Policy or a general query on privacy, please contact us.
 
 • Consent  
 • Registration  
@@ -26,39 +15,39 @@ This document explains what we do with the personal information that you give us
 • When do we give information that you provide us with to other people?  
 • How to get in contact with us
 
-**Consent**
+Consent
 
 Your use of our Service signifies your consent to us collecting and using personal information about you in accordance with this Privacy Policy. Should we choose to change our Privacy Policy for any reason, the changes will be posted here, so that you are always kept informed of how we collect and use your personal information, and when we may disclose it.
 
-**Registration Information**
+Registration Information
 
 Although certain areas of our website are made available to all visitors, before you can use the Service, you will need to register your details with us in accordance with the registration details. If you have not already done so, please register your details. Should you not register your details, you will not be allowed to use the Service.  
 We reserve the right to ask for your date of birth to verify your age. Please note we will not collect the personal information of any individual who tells us he or she is under the age of 18.
 
-**Cookies**
+Cookies
 
 Cookies are small files of information which are stored on your computer. Web sites you visit ask your computer to store this information and retrieve the information from your computer so that they can keep track of things like other web sites you visit or how you navigate our website or other files which provide you with the Site. For more information about what cookies are and how they work, visit www.allaboutcookies.org.
 
 On revisiting our website or in using the files, our computer server will recognise the cookie and give us information about your use of the Site. Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance. If you choose not to receive cookies, you may still use the Site but you may find that the Site may not function properly or is slower than when you allow a cookie to be installed on your machine.
 
 Cookies are small text files held on your computer. They allow us to give you the best browsing experience possible and mean we can understand how you use our site. Some cookies have already been set. You can delete and block cookies but parts of our site won’t work without them. By using our website you accept our use of cookies.  
-**How we look after your information**
+How we look after your information
 
 We make sure that all the information we hold on you is as safe as possible. In addition, we have strict security procedures covering the storage and disclosure of your information in order to prevent unauthorised access and to comply with the UK Data Protection Act 1998. This means that sometimes we may ask you for proof of identity before disclosing any personal information to you.
 
 SubHub does not store any customer credit card or debit card information on their servers.
 
-**What do we do with your information?**
+What do we do with your information?
 
 We use your information to process orders you make from our Site. We may contact you from time to time to let you know about our services which may include sending you newsletters and news on events that you may be interested in. You can elect not to receive such marketing material at any time by writing to info@subhub.com
 
-**When do we give information that you provide us with to other people?**
+When do we give information that you provide us with to other people?
 
 Apart from entities that are involved in helping us to run our Site, we never give your information to any third parties. The entities that help us run our site are Internap, which provides hosting and SubHub, which provides design services to us, and Stripe [or other payment provider], which provides credit card payment processing services to us.
 
 SubHub provides the technology on which our Site runs and holds and maintains the databases in which data about our users is contained. SubHub will only use data you provide to the extent necessary to enable us to operate the Site.  
 We reserve the right to access and disclose individually identifiable information (i) to comply with applicable laws and government requests, (ii) to be able to operate our systems properly or (iii) to protect ourselves or our users.
 
-**How to contact us**
+How to contact us
 
-If you ever want to change any information you have provided to us please [contact us](http://subhubcms.live.subhub.com/categories/20060516). You can always get in contact with us via email, the address above, send a fax or phone us.
+If you ever want to change any information you have provided to us please contact us. You can always get in contact with us via email, the address above, send a fax or phone us.
