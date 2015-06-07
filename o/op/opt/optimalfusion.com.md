@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optimalfusion.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207060018id_/http%3A//optimalfusion.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimalfusion.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022054id_/http%3A//optimalfusion.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy | Optimal Fusion - Advertisers + Consumers
 
@@ -61,4 +61,4 @@ By using our website, you consent to the collection and use of information by Op
 
 This notice details the privacy policies of OptimalFusion™ for all of its users of its website with regard to information collected through this website. If you have questions regarding this policy or the practices of OptimalFusion™, contact us at OptimalFusion™, Privacy Division, located at 7162 Beverly Blvd, #580, Los Angeles, CA 90036.
 
-Copyright © 2014 Optimal Fusion - All Rights Reserved
+Copyright © 2015 Optimal Fusion - All Rights Reserved
