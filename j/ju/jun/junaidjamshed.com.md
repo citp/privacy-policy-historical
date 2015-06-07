@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the junaidjamshed.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227064039id_/http%3A//junaidjamshed.com/SecurityPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the junaidjamshed.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607184442id_/http%3A//junaidjamshed.com/SecurityPrivacy.aspx) for the most accurate reproduction.*
 
 # Welcome to Junaid Jamshed
 
