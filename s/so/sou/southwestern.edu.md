@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the southwestern.edu privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123064434id_/http%3A//southwestern.edu/policy/policy.php%3Fid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southwestern.edu privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607033618id_/http%3A//southwestern.edu/policy/policy.php%3Fid%3D2) for the most accurate reproduction.*
 
-# Web Privacy
+# 
 
 This Website domain, southwestern.edu, is owned by and is the responsibility of Southwestern University. The following policies apply to southwestern.edu and all other Websites/pages owned and operated by Southwestern University. 
 
