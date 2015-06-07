@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the safecaller.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220140905id_/http%3A//www.safecaller.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safecaller.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607033702id_/http%3A//safecaller.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | SafeCaller.com
+# Privacy Policy | OkCaller.com
 
 **What information do we collect?**
 
@@ -62,5 +62,5 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-SafeCaller.com  
+OkCaller.com  
 Washington 215-488-7711
