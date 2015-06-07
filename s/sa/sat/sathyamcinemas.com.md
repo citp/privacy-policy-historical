@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sathyamcinemas.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110039id_/http%3A//www.spicinemas.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sathyamcinemas.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607195133id_/http%3A//www.spicinemas.in/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -64,6 +64,16 @@ Personal information gathered during competitions run by SPI Cinemas will be gov
 ## CONTRACTORS
 
 SPI Cinemas may from time to time employ subcontractors to provide services to it. In these situations, Personal Information may be collected about those subcontractors. This Privacy Policy applies equally to those subcontractors. 
+
+## GOOGLE ANALYTICS COOKIES
+
+We track the Internet address of the domains from which people visit us and analyze this data for trends and statistics.
+
+Our web pages use "cookies" such as but not limited to the Google Analytics or Google advertising cookies to understand and serve you better.
+
+A user can set on their browser to notify when you are sent a cookie, giving you the option to decide whether or not to accept it. The information we collect and analyze is used to improve our service
+
+To opt out of the Google Analytics please visit [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout/)
 
 ## MODIFICATIONS TO THIS DOCUMENT
 
