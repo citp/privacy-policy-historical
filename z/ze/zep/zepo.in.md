@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zepo.in privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920205722id_/http%3A//www.zepo.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zepo.in privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607234225id_/http%3A//www.zepo.in/privacy.html) for the most accurate reproduction.*
 
 # Zepo Privacy Policy
 
@@ -129,4 +129,4 @@ Please let us know if the personal information which we hold about you needs to 
 
 ### Contact
 
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to support@zepo.in or by post to 1602, C-4, Lok Everest Towers, Mulund (west), Mumbai - 400080. 
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to support@zepo.in or by post to 8, AGFA Building, 3rd Floor,Near Ambaji Dham Mandir, Bhakti Marg, Off LBS Road, Mulund (west), Mumbai - 400080. 
