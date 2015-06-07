@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goeuro.co.uk privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121041548id_/http%3A//www.goeuro.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goeuro.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607141907id_/http%3A//www.goeuro.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | GoEuro
 
