@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the superkingmarkets.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125190054id_/http%3A//superkingmarkets.com/pages/super-king-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superkingmarkets.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607030408id_/http%3A//superkingmarkets.com/pages/super-king-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Super King Markets
+# Privacy Policy | Super King Markets, More International for a lot less
 
 **Collecting Personal Information**
 
