@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the routenote.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228080515id_/http%3A//routenote.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the routenote.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607202947id_/http%3A//routenote.com/privacypolicy) for the most accurate reproduction.*
 
 # RouteNote Privacy Policy | RouteNote: Sell Your Music Online - Digital Music Distribution - Promotion - Publishing
 
