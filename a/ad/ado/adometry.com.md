@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the adometry.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215193444id_/http%3A//www.adometry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adometry.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608013148id_/http%3A//www.adometry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Adometry by Google
+
+### **Notice: Effective June 1, 2015, this policy will be updated to the[Google Privacy Policy](http://www.google.com/policies/privacy/ "Google Privacy Policy")**
 
 ## Adometry Products and Services Privacy Policy
 
@@ -62,4 +64,4 @@ Every email you receive from us will have instructions on how to unsubscribe, us
 
 ## Updates
 
-In the event that Adometry ever updates its Privacy Policy, the new information will be posted here. This Privacy Policy was last updated October [], 2014. Questions? Concerns? Feel free to contact us at [info@adometry.com](mailto:info@adometry.com).  This e-mail address is being protected from spambots. You need JavaScript enabled to view it.
+In the event that Adometry ever updates its Privacy Policy, the new information will be posted here. This Privacy Policy was last updated October 2, 2014. Questions? Concerns? Feel free to contact us at [info@adometry.com](mailto:info@adometry.com).  This e-mail address is being protected from spambots. You need JavaScript enabled to view it.
