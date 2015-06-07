@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zimmermannwear.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223103136id_/http%3A//us.zimmermannwear.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zimmermannwear.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607062549id_/http%3A//www.zimmermannwear.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
