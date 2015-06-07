@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmafrenzy.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120201202id_/http%3A//mmafrenzy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmafrenzy.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607222923id_/http%3A//mmafrenzy.com/privacy-policy) for the most accurate reproduction.*
 
 # MMAFrenzy.com Privacy Policy - MMAFrenzy.com
 
