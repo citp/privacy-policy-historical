@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ivvy.com privacy policy that was archived on 2014-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140722145335id_/http%3A//www.ivvy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivvy.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607162339id_/http%3A//www.ivvy.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
-iVvy (“iVvy” “us” or “we”) manage Personal Information in accordance with the Privacy Act 1988 (Cth) (“Privacy Act”) and the Australian Privacy Principles (“APP”) contained therein. This Privacy Policy outlines the types of Personal Information that we may collect, how that Personal Information will be used, disclosed, transferred and stored and sets out the measures that we take to comply with the Privacy Act.
+iVvy ("iVvy" "us" or "we") manage Personal Information in accordance with the Privacy Act 1988 (Cth) ("Privacy Act") and the Australian Privacy Principles ("APP") contained therein. This Privacy Policy outlines the types of Personal Information that we may collect, how that Personal Information will be used, disclosed, transferred and stored and sets out the measures that we take to comply with the Privacy Act.
 
 ##  Collection
 
@@ -14,11 +14,11 @@ iVvy collects Personal Data from you when you voluntarily provide it to us, such
 
 ###  Event Attendees
 
-Your Personal Data may be collected by iVvy if you voluntarily register for an event through one an Event Organiser’s account or if you request a booking or a proposal for a service through the iVvy systems, or your data is uploaded into the system by one of our Event Organisers. This data may include your name, email address, and phone number and other personally identifiable information. Event Organisers can also create event registration websites to collect virtually any information from you. If an Event Attendee voluntarily provides that information in connection with registration for an event or otherwise, it will be available to iVvy and will be held by us in accordance with this Privacy Policy
+Your Personal Data may be collected by iVvy if you voluntarily register for an event through one an Event Organiser's account or if you request a booking or a proposal for a service through the iVvy systems, or your data is uploaded into the system by one of our Event Organisers. This data may include your name, email address, and phone number and other personally identifiable information. Event Organisers can also create event registration websites to collect virtually any information from you. If an Event Attendee voluntarily provides that information in connection with registration for an event or otherwise, it will be available to iVvy and will be held by us in accordance with this Privacy Policy
 
 ###  Internet users
 
-If you access our websites or any mobile applications (“apps”), we may collect additional Personal Information about you including:
+If you access our websites or any mobile applications ("apps"), we may collect additional Personal Information about you including:
 
   * server address / IP address;
   * date and time of visit;
@@ -35,6 +35,8 @@ If you access our websites or any mobile applications (“apps”), we may colle
 In addition, our website uses cookies.  The main purpose of cookies is to monitor usage of our websites and apps to prepare customised web pages so that we may serve you more effectively. You may wish to configure your browser so that it does not accept cookies, however you may not be able to access some functions on our websites or apps if these are disabled.
 
 ##  Dealing with Personal Data
+
+iVvy agrees to comply with all applicable legislation governing privacy and data protection including but not limiting to those contained in the Australian Privacy Principles contained in the Privacy Act 1988 (Cth), with respect to any act done or practice engaged in for the purposes of its performances of the agreement, and to ensure that any subcontractors who may have access to client data also comply with those laws.
 
 ###  How is Client information used?
 
