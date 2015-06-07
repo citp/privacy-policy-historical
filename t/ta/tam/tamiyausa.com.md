@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamiyausa.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226195938id_/http%3A//www.tamiyausa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamiyausa.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145724id_/http%3A//www.tamiyausa.com/privacy.php) for the most accurate reproduction.*
 
 # TamiyaUSA.com - Privacy Statement
 
@@ -8,7 +8,7 @@ Tamiya America, Inc. (TamiyaUSA.com) recognizes privacy and security as being a 
 
 ### How can you correct any inaccuracies in your information?
 
-If you would like to correct, change or view any information you have provided, or remove your name from any of our mailings, [please contact us.](https://web.archive.org/contact/email.php)
+If you would like to correct, change or view any information you have provided, or remove your name from any of our mailings, [please contact us.](https://web.archive.org/contact/)
 
 * * *
 
