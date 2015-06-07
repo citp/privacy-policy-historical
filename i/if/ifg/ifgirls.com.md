@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the ifgirls.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107124119id_/http%3A//tour.sapphicerotica.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifgirls.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185352id_/http%3A//tour.sapphicerotica.com/privacy.php) for the most accurate reproduction.*
 
 # Sapphic Erotica
 
 1\. ACKNOWLEDGEMENT AND ACCEPTANCE OF TERMS
 
-Pulsar Media B.V. is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing sapphicerotica.com, you acknowledge and fully understand Pulsar Media B.V.'s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+AXS Charge Ltd is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing sapphicerotica.com, you acknowledge and fully understand AXS Charge Ltd's Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
 2\. PARTICIPATING MERCHANT POLICIES
 
-Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in Pulsar Media B.V. services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
+Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in AXS Charge Ltd services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
 
 3\. INFORMATION WE COLLECT AND HOW WE USE IT
 
-Pulsar Media B.V. collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
+AXS Charge Ltd collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
 
 3.1. Web Server Logs.
 
@@ -31,7 +31,7 @@ When you visit our Website, we may track information to administer the site and 
 
 3.2. Use of Cookies
 
-Pulsar Media B.V. may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality.. Pulsar Media B.V. reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
+AXS Charge Ltd may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality.. AXS Charge Ltd reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
 
 3.4. Personal Information Users
 
@@ -45,7 +45,7 @@ Visitors to our website can register to purchase services. When you register, we
 
 4\. USE OF WEB BEACONS OR GIF FILES
 
-Pulsar Media B.V. web pages may contain electronic images known as Web beacons - sometimes also called single-pixel gifs - that allow Pulsar Media B.V. to count users who have visited those pages and to deliver co-branded services. Pulsar Media B.V. may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon. Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. Pulsar Media B.V. prohibits Web beacons from being used to collect or access your personal information.
+AXS Charge Ltd web pages may contain electronic images known as Web beacons - sometimes also called single-pixel gifs - that allow AXS Charge Ltd to count users who have visited those pages and to deliver co-branded services. AXS Charge Ltd may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon. Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. AXS Charge Ltd prohibits Web beacons from being used to collect or access your personal information.
 
 5\. ACCESSING WEB ACCOUNT INFORMATION
 
@@ -53,17 +53,17 @@ We will provide you with the means to ensure that personally identifiable inform
 
 8\. CHANGES TO THIS STATEMENT
 
-Pulsar Media B.V. has the discretion to occasionally update this privacy statement. When we do, we will also revise the "updated" date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
+AXS Charge Ltd has the discretion to occasionally update this privacy statement. When we do, we will also revise the "updated" date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
 
 7\. CONTACTING US
 
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us. Pulsar Media B.V.  
-Dokweg 27 B  
-The Netherlands  
-tel. +31255788100  
-fax. +31255788101  
-By Email: [info@pulsarbv.com](mailto:info@pulsarbv.com)  
-Pulsar Media B.V. will use commercially reasonable efforts to promptly respond and resolve any problem or question.
+If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us. AXS Charge Ltd  
+15 Themistocles Dervis, Margarita House, 4th Floor Office 401  
+Nicosia  
+Cyprus  
+tel. +1.8016840735  
+By Email: [billing@axscharge.com](mailto:billing@axscharge.com)  
+AXS Charge Ltd will use commercially reasonable efforts to promptly respond and resolve any problem or question.
 
 About this site
 
