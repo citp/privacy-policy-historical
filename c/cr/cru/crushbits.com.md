@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crushbits.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024023351id_/http%3A//crushbits.com/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crushbits.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607072854id_/http%3A//www.crushbits.com/terms.php) for the most accurate reproduction.*
 
-# Crush Bits - Love Calculator
+# CrushBits - Love Calculator
 
 Terms of Use   
 Welcome to CrushBits.com. We hope you enjoy our site. 
