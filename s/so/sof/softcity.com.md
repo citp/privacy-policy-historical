@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softcity.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024003429id_/http%3A//www.softcity.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softcity.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144423id_/http%3A//www.softcity.com/index/privacy) for the most accurate reproduction.*
 
 # 
 
