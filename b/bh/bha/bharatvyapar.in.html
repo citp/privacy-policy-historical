@@ -1,0 +1,984 @@
+<!--The following is the downloaded HTML source of the bharatvyapar.in privacy policy that was archived on 2015-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607140755id_/http%3A//www.bharatvyapar.in/Policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="SHORTCUT ICON" href="http://admin.bharatvyapar.in/Themes/images/favicon.ico" type="image/x-icon">
+    <meta name="keywords" content="Indian manufacturers, suppliers, Indian exporters directory, b2b portal, b2b business directory India exporter, manufacturer, supplier, Indian exporters directory, exporters yellow pages, business services, Indian service providers, business to business portal, b2b directory, manufacturer, importers, traders, dealers, buyers, e-commerce, electronic trade &amp; commerce, Indian b2b portal, b2b marketplace India, ContactUs Bharatvyapar">
+    <meta name="description" content="Bharat Vyapar will help you develop a Business related website anywhere Local, National and Global Prospects can see and know about your product and services online.">
+    <title>Policy | Bharat Vyapar</title>
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-55644853-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+    <link href="/AppNew_Themes/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/AppNew_Themes/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/AppNew_Themes/css/prettyPhoto.css" rel="stylesheet">
+    <link href="/AppNew_Themes/css/price-range.css" rel="stylesheet">
+    <link href="/AppNew_Themes/css/animate.css" rel="stylesheet">
+    <link href="/AppNew_Themes/css/main.css" rel="stylesheet">
+    <link href="/AppNew_Themes/css/responsive.css" rel="stylesheet">
+
+    <script src="/Scripts/jquery-1.9.1.js"></script>
+    <script src="/Scripts/Jquery1.10.3.js"></script>
+
+    <link rel="shortcut icon" href="/AppNew_Themes/images/ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/AppNew_Themes/images/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/AppNew_Themes/images/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/AppNew_Themes/images/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="/AppNew_Themes/images/ico/apple-touch-icon-57-precomposed.png">
+    <style>
+        #myModalLabel {
+            color: rgb(254, 152, 15);
+            margin-bottom: 5px;
+            margin-left: 0;
+            margin-right: 0;
+            margin-top: 5px;
+        }
+    </style>
+<script>
+        jQuery(document).ready(function ($) {
+            $("#inqbtnnew").click(function ($) {
+                a();
+            });
+        });
+        function a() {
+            $('#myModal').modal('show');
+        }
+    </script>
+</head>
+<!--/head-->
+
+<body>
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                    <h1 class="modal-title" id="myModalLabel">Post Your Requirement</h1>
+                </div>
+                 
+<style>
+    .requirements .form-group {
+        margin-bottom: 5px;
+    }
+
+    #ui-id-1.ui-autocomplete {
+        z-index: 9999;
+    }
+</style>
+<script>
+    jQuery(document).ready(function ($) {
+        $("#Product").autocomplete({
+            source: function (request, response) {
+                $.ajax({
+                    url: '/Requirement/GetAutosuggestByProductName/', type: "POST", dataType: "json",
+                    data: { ProductName: request.term },
+                    success: function (json) {
+                        response($.map(json, function (data, id) {
+                            return { label: data.Name, value: data.Name, id: data.ID, searchTerm: request.term }
+                        }))
+                    }
+                })
+            }, error: function (xmlHttpRequest, textStatus, errorThrown) {
+                console.log('some error occured', textStatus, errorThrown);
+            },
+            minLength: 1,
+            maxRows: 5,
+            select: function (event, ui) {
+                //alert("You picked '" + ui.item.label + "' with an ID of " + ui.item.id +" "+this.Value);
+                $('#Productid').val(ui.item.id);
+            },
+            open: function () {
+                $(this).addClass("loading");
+            },
+            close: function () {
+                $(this).removeClass("loading");
+            }
+        });
+
+        function ValidateInquiry() {
+
+            if ($("#Requirementdetail").val() == '') {
+                $("#validateMessage").show();
+                $("#sendbtn").attr("enable", "enable");
+                return false;
+            }
+            else {
+                $("#validateMessage").hide();
+
+            }
+            if ($("#UserName").val() == '') {
+                $("#validateName").show();
+                $("#sendbtn").attr("enable", "enable");
+                return false;
+            }
+            else {
+                $("#validateName").hide();
+            }
+            if ($("#EmailAddress").val() == '') {
+                $("#validateEmail").show();
+                $("#sendbtn").attr("enable", "enable");
+                return false;
+            }
+            else {
+                $("#validateEmail").hide();
+            }
+
+            if ($("#Mobile").val() == '') {
+                $("#validateMobile").show();
+                $("#sendbtn").attr("enable", "enable");
+                return false;
+            }
+            else {
+                $("#validateMobile").hide();
+            }
+
+            var pattern = new RegExp(/^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/);
+            if (!pattern.test($("#EmailAddress").val())) {
+                $("#validateEmail").show();
+                $("#sendbtn").attr("enable", "enable");
+                return false;
+            }
+            else {
+
+                $("#validateEmail").hide();
+            }
+            return true;
+        }
+
+        $("#sendbtn").click(function (e) {
+            if (ValidateInquiry()) {
+                //alert($("#Product").val() + +$("#AppUserID").val() + +$("#Productid").val() + +$("#Requirementdetail").val() + +$("#UserName").val() + +$("#Mobile").val() + +$("#EmailAddress").val());
+                $("#updtImgsend").show();
+                $("#sendbtn").attr("disabled", "disabled");
+                var InquiryDetails = {
+                    Product: $('#Product').val(),
+                    Productid: $('#Productid').val(),
+                    Requirementdetail: $('#Requirementdetail').val(),
+                    //Quantity: $('#Quantity').val(),
+                    //QuantityType: $('#QuantityType').val(),
+                    //WantToPurchase: $('#WantToPurchase').val(),
+                    //SaluteType: $('#SaluteType').val(),
+                    UserName: $('#UserName').val(),
+                    AppUserID: $('#AppUserID').val(),
+                    Mobile: $('#Mobile').val(),
+                    EmailAddress: $('#EmailAddress').val()
+                };
+
+                e.preventDefault();
+                $.ajax({
+                    url: '/Requirement/Requirements',
+                    type: 'POST',
+                    data: JSON.stringify(InquiryDetails),
+                    contentType: 'application/json; charset=utf-8',
+                    success: function (data) {
+                        $("#getInquiry-" + InquiryDetails.ProductId).removeClass('inquiry-btn').addClass("SendInqbtn");
+                        $("#Message").val('');
+                        $("#updtImgsend").hide();
+                        var loading_dialog = $('#myModal');
+                        loading_dialog.modal('hide');
+                        $("#sendbtn").attr("enable", "enable");
+
+                        $("#sendbtn").removeAttr('disabled');
+                        $("#Product").val('');
+                        $("#Requirementdetail").val('');
+
+                        $("#Submit_details").addClass(" in");
+                        document.getElementById('Submit_details').style.display = 'block';
+                    }
+                });
+            }
+        });
+
+
+
+    });
+
+
+</script>
+<div class="modal-body requirements">
+<form action="/Requirement/Requirements" method="post">        <div class="form-group input-group">
+            <span class="input-group-addon">I want </span>
+            
+            <span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input type="text" name="Product" id="Product" placeholder="Enter your require product / service" required="required" class="form-control typeahead ui-autocomplete-input" autocomplete="off">
+            
+            <input type="hidden" id="AppUserID" name="AppUserID" value="">
+            <input type="hidden" id="Productid" name="Productid" aria-required="false" value="0">
+
+        </div>
+        <div class="form-group">
+            <h4>Requirement in detail</h4>
+            <textarea name="Requirementdetail" id="Requirementdetail" class="form-control" placeholder="Enter Product Specification / Usage" rows="3"></textarea>
+            
+        </div>
+        <label id="validateMessage" style="display: none; color: red;" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">Please enter your requirement</label>
+        <h4>Your Contact Details :</h4>
+        <div class="form-group input-group">
+            <span class="input-group-addon"><i class="fa fa-user"></i></span>
+            <input type="text" name="UserName" id="UserName" class="form-control" required="required" placeholder="Enter Your Name" value="">
+            
+        </div>
+        <label id="validateName" style="display: none; color: red;" class="label col-xs-12 col-sm-12 col-md-12 col-lg-12">Please enter your Name</label>
+        <div class="form-group input-group">
+            <span class="input-group-addon"><i class="fa fa-phone"></i></span>
+            <input type="text" name="Mobile" id="Mobile" class="form-control" placeholder="Enter Your Mobile Number" value="" required="required">
+            
+
+        </div>
+        <label id="validateMobile" style="display: none; color: red;">Please enter your Mobile</label>
+        <label id="validateMobileVal" style="display: none; color: red;">Please enter valid mobile number</label>
+        <div class="form-group input-group">
+            <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+            <input type="text" name="Mobile" id="EmailAddress" required="required" placeholder="Enter Your Email-id" value="" onblue="Getdetialbyemail" class="form-control">
+            
+        </div>
+        <label id="validateEmail" style="display: none; color: red;">Please enter your valid Email-Address</label>
+</form></div>
+<div class="modal-footer">
+    <button type="button" class="btn btn-info" data-dismiss="modal">Close</button>
+    <button type="button" id="sendbtn" class="btn btn-info">Send</button>
+</div>
+
+
+
+<script>
+    jQuery(document).ready(function ($) {
+        $('#EmailAddress').blur(function () {
+            if ($('#EmailAddress').val() == null || $('#EmailAddress').val() == '') {
+            }
+            else {
+                $.getJSON("../../../Requirement/GetDetailsByEmail/", { 'EmailAddress': $('#EmailAddress').val() }, function (data) {
+                    $.each(data, function (key, val) {
+                        $("#UserName").val(val.UserName);
+                        $("#Mobile").val(val.Mobile);
+                        $("#AppUserID").val(val.AppUserID);
+                    });
+
+                });
+            }
+        });
+        $('#Mobile').blur(function () {
+            if ($('#EmailAddress').val() == null || $('#EmailAddress').val() == '') {
+            }
+            else {
+                $.getJSON("../../../Requirement/GetDetailsByEmail/", { 'EmailAddress': $('#EmailAddress').val() }, function (data) {
+                    $.each(data, function (key, val) {
+                        $("#UserName").val(val.UserName);
+                        $("#Mobile").val(val.Mobile);
+                        $("#AppUserID").val(val.AppUserID);
+                    });
+
+                });
+            }
+        });
+        $('#UserName').blur(function () {
+            if ($('#EmailAddress').val() == null || $('#EmailAddress').val() == '') {
+            }
+            else {
+                $.getJSON("../../../Requirement/GetDetailsByEmail/", { 'EmailAddress': $('#EmailAddress').val() }, function (data) {
+                    $.each(data, function (key, val) {
+                        $("#UserName").val(val.UserName);
+                        $("#Mobile").val(val.Mobile);
+                        $("#AppUserID").val(val.AppUserID);
+                    });
+
+                });
+            }
+        });
+
+    });
+</script>
+
+            </div>
+        </div>
+    </div>
+    <header id="header">
+        <!--header-->
+        <div class="header_top">
+            <!--header_top-->
+            <script>
+    function deletecook() {
+        var cookies = document.cookie.split(";");
+        for (var i = 0; i < cookies.length; i++) {
+            var cookie = cookies[i];
+            var eqPos = cookie.indexOf("=");
+            var name = eqPos > -1 ? cookie.substr(0, eqPos) : cookie;
+            document.cookie = name + "=;expires=Thu, 01 Jan 1970 00:00:00 GMT";
+            window.location = "http://admin.bharatvyapar.in/Login/LogOff";
+        }
+    }
+</script>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="contactinfo">
+                <ul class="nav nav-pills">
+                        <li><a href="#"><i class="fa fa-user"></i>Guest,</a></li>
+                        <li><a href="#"><i class="fa fa-phone"></i>+91 79 4005 8925</a></li>
+                        <li><a href="mailto:info@bharatvyapar.in"><i class="fa fa-envelope"></i>info@bharatvyapar.in</a></li>
+
+                </ul>
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <div class="social-icons pull-right">
+                <ul class="nav navbar-nav">
+                    <li><a href="https://www.facebook.com/pages/Bharat-Vyapar/704490466307279" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                    <li><a href="https://twitter.com/bharatvyapar" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="https://www.pinterest.com/bharatvyapar/" target="_blank"><i class="fa fa-pinterest"></i></a></li>
+                    <li><a href="https://www.youtube.com/channel/UCD2N9l1XrNFx_MuMkrehBsw/" target="_blank"><i class="fa fa-youtube-square"></i></a></li>
+                    <li><a href="https://plus.google.com/u/0/+BharatvyaparIn/posts" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<!--/col-md-10 col-lg-10 -->
+
+<!--/col-md-6 col-lg-6-->
+
+        </div>
+        <!--/header_top-->
+
+        <div class="header-middle">
+            <!--header-middle-->
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-4">
+                        <div class="logo pull-left">
+                            <a href="http://www.bharatvyapar.in">
+                                <img src="/AppNew_Themes/images/home/logo.png" alt="" style="height: 60px;"></a>
+                        </div>
+                        <div class="btn-group pull-right">
+                        </div>
+                    </div>
+                    <div class="col-sm-8">
+                        <div class="shop-menu pull-right">
+                             <ul class="nav navbar-nav">
+                                    <li><a href="http://admin.bharatvyapar.in/signup"><i class="fa fa-crosshairs"></i>Registration</a></li>
+                                    <li><a href="http://admin.bharatvyapar.in/login"><i class="fa fa-lock"></i>Login</a></li>
+                                    <li><a id="inqbtnnew" style="color: red; cursor: pointer;"><i class="fa fa-anchor"></i>Post Buy Requirement</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--/header-middle-->
+
+        
+
+<style type="text/css">
+    #bootstrapSelectForm .selectContainer .form-control-feedback {
+        /* Adjust feedback icon position */
+        /*right: -15px;*/
+    }
+
+    .selectContainer {
+        border-radius: 0px;
+    }
+
+    .nav-tabs {
+        border-bottom: none;
+    }
+
+    .bgcolor {
+        background-color: #eee;
+    }
+
+    .form-control {
+        height: 35px;
+    }
+
+    .nav-tabs li a {
+        border-radius: 0;
+        line-height: 1;
+    }
+</style>
+
+
+<div class="header-bottom">
+    <!--header-bottom-->
+    <div class="container">
+        <div class="row" style="padding: 10px;">
+            
+            <form id="bootstrapSelectForm" onsubmit="return redirect();" method="post" class="form-horizontal">
+                <div class="col-md-12 col-lg-12 ">
+                    <!-- Custom Tabs -->
+                    <div class="col-sm-0 col-lg-1"></div>
+                    <div class="nav-tabs-custom">
+                        <ul class="nav nav-tabs">
+                            <li class="active" id="liProducts" onclick="ChangeSearchDropdownBox('Products')"><a id="aProduct" href="#tab_1" data-toggle="tab" aria-expanded="true">Products</a></li>
+                            <li class="" id="liSuppliers" onclick="ChangeSearchDropdownBox('Suppliers')"><a id="aSupplier" href="#tab_2" data-toggle="tab" aria-expanded="false" class="bgcolor">Suppliers</a></li>
+                        </ul>
+                        <div class="tab-content">
+                            <div class="tab-pane active" id="tab_1">
+                                <div class="col-sm-0 col-lg-1"></div>
+                                <div class="input-group boxshedow col-xs-12 col-sm-12 col-lg-10">
+                                    <span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input type="text" placeholder="Find Products" id="SearchProductArea" name="Search" class="form-control ui-autocomplete-input" autocomplete="off">
+                                    <span class="input-group-btn">
+                                        <button class="btn btn-default" type="submit" style="color: white; background-color: #499d3c; border-color: #499d3c; line-height: 1.5;">
+                                            <i class="fa fa-search">&nbsp;Search</i>
+                                        </button>
+                                    </span>
+                                </div>
+                                <div class="col-sm-0 col-lg-1"></div>
+                                <div class="clear"></div>
+                            </div>
+                            <!-- /.tab-pane -->
+                            <div class="tab-pane" id="tab_2">
+                                <div class="col-sm-0 col-lg-1"></div>
+                                <div class="input-group boxshedow col-xs-12 col-sm-12 col-lg-10">
+                                    <span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input type="text" placeholder="Find Companies" id="SearchSupplierArea" name="Search" class="form-control ui-autocomplete-input" autocomplete="off">
+                                    <span class="input-group-btn">
+                                        <button class="btn btn-default" type="submit" style="color: white; background-color: #499d3c; border-color: #499d3c;line-height: 1.5;">
+                                            <i class="fa fa-search">&nbsp;Search</i>
+                                        </button>
+                                    </span>
+                                </div>
+                                <div class="col-sm-0 col-lg-1"></div>
+                                <div class="clear"></div>
+                            </div>
+                            <!-- /.tab-pane -->
+                        </div>
+                        <!-- /.tab-content -->
+                    </div>
+                    
+                    <!-- nav-tabs-custom -->
+                </div>
+            </form>
+            
+        </div>
+    </div>
+</div>
+
+<input type="hidden" id="ActionUrl" value="/Requirement/GetAutosuggestByProductName/" style="width: 350px;">
+
+<script type="text/javascript">
+    $("#aSupplier").addClass("bgcolor");
+
+    function ChangeSearchDropdownBox(tabval) {
+        var SValue = tabval.toLowerCase();//$("#searchDropdownBox option:selected").text();
+        //alert(SValue);
+        if (SValue == 'suppliers') {
+            $("#ActionUrl").val('/Requirement/GetAutosuggestBySupplierName/');
+            $("#SearchSupplierArea").attr("placeholder", "Find Companies");
+            $("#SearchProductArea").val('');
+            $("#aProduct").addClass("bgcolor");
+            $("#aSupplier").removeClass("bgcolor");
+        }
+        else {
+            $("#aProduct").removeClass("bgcolor");
+            $("#aSupplier").addClass("bgcolor");
+            $("#ActionUrl").val('/Requirement/GetAutosuggestByProductName/');
+            $("#SearchProductArea").attr("placeholder", "Find Products");
+            $("#SearchSupplierArea").val('');
+        }
+    }
+
+    jQuery(function ($) {
+        $("#SearchProductArea").autocomplete({
+            source: function (request, response) {
+                $.ajax({
+                    //url: '/Requirement/GetAutosuggestByProductName/', type: "POST", dataType: "json",
+                    url: $("#ActionUrl").val(), type: "POST", dataType: "json",
+                    data: { ProductName: request.term },
+                    success: function (json) {
+                        response($.map(json, function (data, id) {
+                            return { label: data.Name, value: data.Name, id: data.ID, searchTerm: request.term }
+                        }))
+                    }
+                })
+            }, error: function (xmlHttpRequest, textStatus, errorThrown) {
+
+                console.log('some error occured', textStatus, errorThrown);
+            },
+            minLength: 1,
+            maxRows: 5,
+            select: function (event, ui) {
+                $('#SearchProductArea').val(ui.item.id);
+                var cinm = getCookie('cinm');
+                if (cinm != '') {
+                    window.location.replace('http://dir.bharatvyapar.in/Suppliers/' + ui.item.value.trim().replace(/ /g, "-") + "/" + cinm + "/1");
+                }
+                else {
+                    window.location.replace('http://dir.bharatvyapar.in/Suppliers/' + ui.item.value.trim().replace(/ /g, "-") + '/1');
+                }
+            },
+            open: function () {
+                $(this).addClass("loading");
+            },
+            close: function () {
+                $(this).removeClass("loading");
+            }
+        });
+
+        $("#SearchSupplierArea").autocomplete({
+            source: function (request, response) {
+                $.ajax({
+                    //url: '/Requirement/GetAutosuggestByProductName/', type: "POST", dataType: "json",
+                    url: $("#ActionUrl").val(), type: "POST", dataType: "json",
+                    data: { ProductName: request.term },
+                    success: function (json) {
+                        response($.map(json, function (data, id) {
+                            return { label: data.Name, value: data.Name, id: data.ID, searchTerm: request.term }
+                        }))
+                    }
+                })
+            }, error: function (xmlHttpRequest, textStatus, errorThrown) {
+
+                console.log('some error occured', textStatus, errorThrown);
+            },
+            minLength: 1,
+            maxRows: 5,
+            select: function (event, ui) {
+                $('#SearchSupplierArea').val(ui.item.id);
+                window.location.replace('http://dir.bharatvyapar.in/Company/' + ui.item.value.trim().replace(/ /g, "-") + '/1');
+            },
+            open: function () {
+                $(this).addClass("loading");
+            },
+            close: function () {
+                $(this).removeClass("loading");
+            }
+        });
+
+    });
+
+    function getCookie(cname) {
+        var name = cname + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1);
+            if (c.indexOf(name) == 0) {
+                return c.substring(name.length, c.length);
+            }
+        }
+        return "";
+    }
+
+    function redirect() {
+        //look for text inside the NEW textbox
+        var ActiveProductFlag = $('#liProducts').hasClass('active');
+        var ActiveSupplierFlag = $('#liSuppliers').hasClass('active');
+        //var input2 = document.getElementById('searchDropdownBox').value.toLowerCase();
+        var cinm = getCookie('cinm');
+        //alert(cinm);
+
+        if (ActiveProductFlag == false && ActiveSupplierFlag == true) {
+            var SearchSupplierArea = document.getElementById('SearchSupplierArea').value.toLowerCase();
+            if (SearchSupplierArea == '') {
+                alert('Please Enter Supplier Name.');
+            }
+            else {
+                window.location.replace('http://dir.bharatvyapar.in/Company/' + SearchSupplierArea.trim().replace(/ /g, "-") + '/1');
+            }
+        }
+        else {
+            var input = document.getElementById('SearchProductArea').value.toLowerCase();
+            if (input == '') {
+                alert('Please Enter Product Name.');
+            }
+            else {
+
+                if (cinm != '') {
+                    window.location.replace('http://dir.bharatvyapar.in/Suppliers/' + input.trim().replace(/ /g, "-") + "/" + cinm + "/1");
+                }
+                else {
+                    window.location.replace('http://dir.bharatvyapar.in/Suppliers/' + input.trim().replace(/ /g, "-") + '/1');
+                }
+            }
+        }
+        
+        return false;//don't let the form submit
+    }
+
+
+</script>
+<script>
+    jQuery(function ($) {
+        $('#bootstrapSelectForm')
+            .find('[name="SearchType"]')
+                .selectpicker()
+                .change(function (e) {
+                    // revalidate the language when it is changed
+                    //$('#bootstrapSelectForm').formValidation('revalidateField', 'SearchType');
+                })
+                .end()
+    });
+</script>
+<link rel="stylesheet" href="/AppNew_Themes/css/bootstrap-select.min.css">
+<script src="/AppNew_Themes/css/bootstrap-select.min.js">
+</script>
+
+
+        <!--/header-bottom-->
+    </header>
+    <!--/header-->
+
+    <hr style="margin: 0px; padding: 0px; margin-bottom: 15px;">
+
+
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    
+<link href="../../Themes/css/terms.css" rel="stylesheet">
+
+<div class=" col-xs-12 col-sm-12 col-md-12 col-lg-12">
+    <div class="details_">
+        <h1><i class="fa fa-pencil"></i>Privacy Policy</h1>
+        <hr>
+        <p>
+            The issue of online privacy is extremely crucial for Bharatvyapar.in which is committed to safeguarding the information provided by its members (registered users) and other visitors (unregistered users) logging on to its Web site. Bharatvyapar.in is dedicated to create a secure environment for internet.<br>
+            <br>
+            Respecting the privacy of its online visitors while providing top-of-the-line services to its users have remained the core of Bharatvyapar.in’s strategy. Our Privacy Policy gives visitors a view of the Privacy Practices followed by Bharatvyapar.in and assures them of safe passage through the website.<br>
+            <br>
+            At the same time, Bharatvyapar.in would like to make it clear that its site provides links to other Web sites that are governed by their own Privacy Policies and does not take responsibility for the security and privacy practices provided by these sites. Visitors to the Bharatvyapar.in site are urged to familiarize themselves with its Privacy Policy as well the policies of the sites that collect personally identifiable information.<br>
+            <br>
+            When you provide us with your personal data, you are agreeing to the rules and regulations stipulated under our Privacy Policy and are bound by it. If you do not agree to our Policy please do not use the Site.
+        </p>
+        <br>
+        <h4>The Privacy Policy covers the following areas :</h4>
+        <ul>
+            <li class="aa">Type of information collected through the Web site</li>
+            <li class="aa">Use and Disclosure of personal information</li>
+            <li class="aa">Choice or Opt out</li>
+            <li class="aa">Security</li>
+        </ul>
+        <h2>1. Type of information collected through the Web site</h2>
+        <h4>Personal Information </h4>
+        <p>Users registering at the Bharatvyapar.in site are requested to provide some personally identifiable information which becomes the property of Bharatvyapar.in and can be shared, disclosed or distributed to third parties only in accordance with the Privacy Policy.<strong> It must be clarified here that registration is not required for visitors to the site who do not require any specific services.</strong></p>
+
+        <h2>2. Use and Disclosure of personal information</h2>
+        <p>
+            Bharatvyapar.in will not sell or rent such personally identifiable information collected. The personally identifiable information is supplied voluntarily for some of the following purposes:
+        </p>
+        <h4>Registration Data &amp; Other Optional Information : </h4>
+        <p>
+            •	If you are merely a visitor to our site then Bharatvyapar.in does not collect any personal information about you, except to the limited extent through the use of cookies, as described below. If you decide to use certain services offered on the site, you will be asked to register on registration link. During registration you will be requested to complete a registration form setting out basic online contact information about yourself. Such information includes Company Name, Contact Person Name, City, state, country, Email id, Password, Gender, Age, Location Data, IP address, device information and navigation history
+        </p>
+        <h4>E-mail information : </h4>
+        <p>•	When we receive e-mails from you, we may retain the content of any e-mail messages sent to us, as well as details of your e-mail address.</p>
+        <h4>Use of web-based tracking mechanisms such as Cookies : </h4>
+        <p>
+            •	Cookies, which enable us to store small amounts of information contained in your Web site browser, may be used on some areas of our Website. Cookies, that help us track your navigation, enable us to tailor our offerings to your needs. The kind of information that may be stored on a cookie includes registration data so that a user does not need to re-enter the information every time he/she visits a particular area, user IP address, user ISP details, user search track/log details and user browser details.<br>
+            <strong>•	Third party Websites which are accessible from our Site via links, click-through or banner advertising may use Cookies. However, it is important for us to inform you that we have no access or control over such Cookies and do not accept responsibility with regards to them.</strong>
+        </p>
+
+
+        <h2>3. Choice OR opt out </h2>
+        <p>
+            Bharatvyapar.in gives you the choice regarding the collection and usage of your personally identifiable information. During registration for “joining our mailing list,” we request for contact information in order to send bulletins and for advertising purposes. Again, it is not necessary for you to register in order to access and use our Site. <strong>You may therefore choose to opt out of providing such information.</strong>
+            Further, once you are registered at the Bharatvyapar.in site, you will have the option at any stage to inform us that you no longer wish to receive future e-mails and you may “unsubscribe” by contacting on <a href="mailto:unsubscribe@Bharatvyapar.in">unsubscribe@Bharatvyapar.in</a>
+        </p>
+
+        <h2>4. Security Practices As per I.T.Act, 2000 and Rules of I.T.Act, 2000 (Upgraded as per Amendment in I.T.Act, 2008 and its rules)</h2>
+        <p>
+            Bharatvyapar.in has implemented stringent, internationally acceptable standards of technology and operational security in order to protect personally identifiable information from loss, misuse, alteration or destruction. The data resides behind a firewall, with access restricted to authorized Bharatvyapar.in personnel.<br>
+            <br>
+            Bharatvyapar.in has implemented “Reasonable Security Practices” as required by the Information Technology Act, 2000 rules including any amendment in the said Act and rules. By complying with such provisions, Bharatvyapar.in assures proper care, control and diligence over its I.T. and Security operations under sections 43, 43A, 45, 66, 72A &amp; Section 85 of I.T.Act, 2000 including related rules.<br>
+            <br>
+            By using this site you agree that Bharatvyapar.in shall not be held responsible for any uncontrollable security attack and in such cases you agree that Bharatvyapar.in shall not be held responsible for any type of financial, opportunity, legal, business and reputation losses that may occur to you under the Provisions of Section 43, 43A and 45 of Information Technology Act, 2000 and including any amendments in the said Act.<br>
+            <br>
+            You further agree that Bharatvyapar.in management shall not be held responsible directly or indirectly for any cyber crime related criminal liabilities under I.T.Act,2000 relating to your information as you agree and acknowledge that management of Bharatvyapar.in complies with due diligence requirements of I.T.Act,2000 including its rules and amendments.<br>
+        </p>
+        <h3>Our Security controls include: </h3>
+        <ul>
+
+            <li>-	SSL (Secured Socket Layer)</li>
+            <li>-	Software firewalls</li>
+            <li>-	Hash algorithms SHA, SHA2 &amp; MD5</li>
+            <li>-	IDS (Intrusion Detection Systems)</li>
+            <li>-	IPS (Intrusion Prevention Systems)</li>
+            <li>-	Closing of server’s unused ports</li>
+            <li>-	IP lock control against brute force attackers</li>
+            <li>-	Removal of default password and use of strong password on server</li>
+            <li>-	Anonymous login disabled</li>
+            <li>-	Log files</li>
+            <li>-	Controls against SQL injection</li>
+            <li>-	Controls against XSS</li>
+            <li>-	Input security controls</li>
+            <li>-	Access token controls</li>
+        </ul>
+        <h3>Contacting the web site</h3>
+        <p>
+            For questions regarding the privacy statement, practices of the site, or any other transaction issue, please contact <a href="mailto:support@Bharatvyapar.in">support@Bharatvyapar.in</a><br>
+            <br>
+            We are very sensitive to the children privacy. If you come to know that your child has given wrong age information on Bharatvyapar.in then please contact <a href="mailto:support@Bharatvyapar.in">support@Bharatvyapar.in</a> to remove such data.
+        </p>
+
+    </div>
+</div>
+
+                    <!--features_items-->
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer id="footer">
+        <!--Footer-->
+        <div class="footer-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-3">
+                        <div class="companyinfo">
+                            <h2><span>Bharat</span> Vyapar</h2>
+                            <p>Bharat Vyapar is India's leading online B2B directory for Indian Manufacturers, Indian Suppliers, Exporters, Wholesalers and for Small &amp; Medium.</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <br>
+                        <br>
+                        <div>
+                            <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                            <!-- 250x250 BV -->
+                            <ins class="adsbygoogle" style="display: block" data-ad-client="ca-pub-2045160752872789" data-ad-slot="9020180424" data-ad-format="auto"></ins>
+                            <script>
+                                (adsbygoogle = window.adsbygoogle || []).push({});
+                            </script>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="address">
+                            <img src="/AppNew_Themes/images/home/map.png" alt="">
+                            <p>205, Ashirwad Paras - 1, Near Jaguar Showroom, Sarkhej - Gandhinagar High Way, Makarba, Ahmedabad - 51. Gujarat, India.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-widget">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-2">
+                        <div class="single-widget">
+                            <h2>CUSTOMER SERVICES</h2>
+                            <ul class="nav nav-pills nav-stacked">
+                                <li><a href="http://www.bharatvyapar.in/Services">Services</a></li>
+                                <li><a href="http://admin.bharatvyapar.in/Home">Add Your Listing</a></li>
+                                <li><a href="http://www.bharatvyapar.in/feedback">Feedback</a></li>
+                                <li><a href="http://www.bharatvyapar.in/help">Help</a></li>
+                                <li><a href="http://admin.bharatvyapar.in/SignUp">FAQ’s</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-sm-2">
+                        <div class="single-widget">
+                            <h2>ABOUT US</h2>
+                            <ul class="nav nav-pills nav-stacked">
+                                <li><a href="http://www.bharatvyapar.in/aboutus">About BharatVyapar</a></li>
+                                <li><a href="http://www.bharatvyapar.in/contactus">Contact Us</a></li>
+                                <li><a href="http://www.bharatvyapar.in/Policy">Privacy Policy</a></li>
+                                <li><a href="http://www.bharatvyapar.in/Terms">Terms &amp; condition</a></li>
+                                <li><a href="http://www.bharatvyapar.in/sitemap">Sitemap</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-sm-2">
+                        <div class="single-widget">
+                            <h2>BUY ON BHARAT VYAPAR</h2>
+                            <ul class="nav nav-pills nav-stacked">
+                                <li><a href="http://www.bharatvyapar.in/feedback">Get quotations</a></li>
+                                <li><a href="http://www.bharatvyapar.in/feedback">Find local sellers</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-sm-2">
+                        <div class="single-widget">
+                            <h2>SELL ON BHARAT VYAPAR</h2>
+                            <ul class="nav nav-pills nav-stacked">
+                                <li><a href="http://admin.bharatvyapar.in/SignUp">Create FREE Website</a></li>
+                                <li><a href="http://admin.bharatvyapar.in/Login">Profile Update</a></li>
+                                <li><a href="http://admin.bharatvyapar.in/Product/addnewproduct">Add Free Product</a></li>
+                                <li><a href="#">Copyright</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-sm-3 col-sm-offset-1">
+                        <div class="single-widget">
+                            <h2>About BharatVyapar.in</h2>
+                            
+
+                            <script type="text/javascript">
+
+    function Check(evt) {
+        if (evt.keyCode == 32) {
+            var EmailID = $("#SubScriptEmailId").val();
+            EmailID = EmailID.replace(" ", "");
+            return false;
+        }
+        return true;
+    }
+
+    jQuery(document).ready(function ($) {
+        $("#btnSubmitSubScription").click(function (e) {
+            var EmailID = $("#SubScriptEmailId").val();
+            EmailID = EmailID.replace(".", "#").replace(".", "#").replace(".", "#");
+            if (EmailID != '') {
+                $.ajax({
+                    url: '/Home/Subscriptionnew/' + encodeURIComponent(EmailID),
+                    type: 'POST',
+                    contentType: 'application/json; charset=utf-8',
+                    success: function (data) {
+                        //$("#divResult").html("Subscription Send Successfully.");
+                        alert("Subscription Send Successfully.");
+                        $("#SubScriptEmailId").val("");
+                        //$('#SendDialog').dialog('close');
+                    }
+                });
+            }
+            else {
+                alert('Email Address is Required');
+            }
+        });
+
+        $('#SubScriptEmailId').blur(function () {
+            var EmailAddress = $('#SubScriptEmailId').val();
+            if (EmailAddress != '') {
+                var reg = /^\w+@[a-zA-Z_]+?\.[a-zA-Z]{2,3}$/
+                if (reg.test(EmailAddress)) {
+                }
+                else {
+                    $('#SubScriptEmailId').val('');
+                    alert('Please Enter Valid Email Address!');
+                }
+            }
+            else {
+                alert('Email Address is Required');
+            }
+        });
+    });
+
+</script>
+<style>
+    .searchform input[type="email"] {
+        font-family: "Roboto",sans-serif;
+        font-size: 14px;
+        height: 38px;
+        outline: medium none;
+        padding: 7px;
+        width: 183px;
+    }
+</style>
+
+<div class="searchform">
+
+    <div id="divResult"></div>
+    <input type="email" style="color: #666663;" placeholder="Your email address" onblur="isValidEmailAddress(this.value);" id="SubScriptEmailId" onkeydown="return Check(event)">
+    <button type="submit" id="btnSubmitSubScription" class="btn btn-default" name="submit"><i class="fa fa-arrow-circle-o-right"></i></button>
+    <p>
+        Get the most recent updates from<br>
+        our site and be updated your self...
+    </p>
+</div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="footer-bottom">
+            <div class="container">
+                <div class="row">
+                    <p class="pull-left">Copyright © 2014-2015 BharatVyapar, Pushp.net All rights reserved.</p>
+                    <p class="pull-right">
+                        <span><a href="http://www.bharatvyapar.in/Policy">Privacy Policy</a></span> |  
+        <span><a href="http://www.bharatvyapar.in/Terms">Terms of Use</a></span>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div style="display: none;"><style>
+    .Requirement-btn {
+        text-align: center;
+        margin: 0px 0px 15px 0px;
+        border-radius: 0px;
+        display: block;
+        padding: 5px;
+        background-color: rgb(254,152,15);
+        color: #fff;
+    }
+
+        .Requirement-btn h3 {
+            margin: 0px;
+            padding: 0px;
+        }
+
+    .ui-dialog-titlebar, .ui-widget-header, .ui-corner-all, .ui-helper-clearfix, .ui-draggable-handle {
+        display: none;
+    }
+
+    .ui-dialog .ui-widget .ui-widget-content .ui-corner-all .ui-front .ui-draggable {
+        top: 0 !important;
+    }
+</style>
+
+
+<a href="/Requirement/buyrequirement" class="InquiryButton Requirement-btn" style="text-decoration: none;">
+    
+    <h3>Post Your Requirement</h3>
+    <tag>Get quotes from verified suppliers</tag>
+</a>
+
+<div id="commonMessage"></div>
+
+
+<script type="text/javascript">
+    var linkObj;
+    jQuery(document).ready(function ($) {
+        $(".InquiryButton").button();
+        $('#SendDialog').dialog({
+            autoOpen: false,
+            width: 485,
+            resizable: false,
+            modal: true
+        });
+
+        $(".InquiryButton").click(function () {
+            //change the title of the dialog
+            linkObj = $(this);
+            var dialogDiv = $('#SendDialog');
+            var viewUrl = linkObj.attr('href');
+            $.get(viewUrl, function (data) {
+                dialogDiv.html(data);
+                dialogDiv.dialog('open');
+            });
+            return false;
+        });
+
+    });
+
+</script>
+
+
+
+</div>
+    </footer>
+    <!--/Footer-->
+    <script src="/AppNew_Themes/js/bootstrap.min.js"></script>
+
+
+
+<ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="display: none;"></ul><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-2" tabindex="0" style="display: none;"></ul><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-3" tabindex="0" style="display: none;"></ul><div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-front ui-draggable" tabindex="-1" role="dialog" aria-describedby="SendDialog" aria-labelledby="ui-id-4" style="display: none; position: relative;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span id="ui-id-4" class="ui-dialog-title">&nbsp;</span><button class="ui-dialog-titlebar-close"></button></div><div id="SendDialog" style="background-color: #f8f8f8; top: 0px;" class="ui-dialog-content ui-widget-content"></div></div></body></html>
