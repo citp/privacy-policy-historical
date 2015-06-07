@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plough.com privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716212039id_/http%3A//www.plough.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plough.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022536id_/http%3A//www.plough.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Plough Privacy Policy
 
