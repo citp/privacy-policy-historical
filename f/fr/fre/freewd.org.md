@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewd.org privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227065543id_/http%3A//freewd.org/page/privacy-policy-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewd.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022117id_/http%3A//freewd.org/page/privacy-policy-1) for the most accurate reproduction.*
 
 # Privacy Policy
 
