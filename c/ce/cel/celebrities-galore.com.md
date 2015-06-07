@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebrities-galore.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129090158id_/http%3A//www.celebrities-galore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrities-galore.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144435id_/http%3A//www.celebrities-galore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,9 +30,6 @@ Please note that your personally identifiable information will be stored and pro
 
 We automatically track certain information based upon your behavior on our Websites using cookies and other devices. We use this information for internal research on our members' demographics, interests, and behavior to better understand and serve you and our community. This information may include the URL that you just came from (whether this URL is on our site or not). Which URL you next go to (whether this URL is on our site or not), what browser you are using, and your IP address.
 
-  
-
-
 We use data collection devices such as "cookies" on certain pages of our Websites. "Cookies" are small files placed on your hard drive that assist us in providing customized services. We also offer certain features that are only available through the use of a "cookie". Cookies can also help us provide information that is targeted to your interests. Most cookies are "session cookies", meaning that they are automatically deleted from your hard drive at the end of a session. You are always free to decline our cookies if your browser permits.
 
 We use a third party advertising company, to serve ads on our behalf across the Internet. The third party may also collect anonymous information about your visits to our Web site. This is primarily accomplished through the use of a technology device, commonly referred to as a Web beacon or an action tag, which we place on various Web pages within our Web site or in an html e-mail that allows Atlas DMT to collect anonymous information. Atlas DMT may use information about your visits to this and other Web sites in order to provide ads about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by the third party, [click here](http://www.atlasdmt.com/privacy/).
@@ -43,7 +40,7 @@ We use a third party advertising company, to serve ads on our behalf across the 
 
 We use information in the files we maintain about you, and the other information we obtain from your current and past activities on the Websites to resolve disputes, troubleshoot problems and enforce our Terms and Conditions. At times, we may look across multiple members to identify problems or resolve disputes, and in particular we may examine your information to identify members multiple Member IDs or aliases.
 
-You agree that we may use personally identifiable information about you to improve our marketing and promotional efforts, to analyze site usage, improve our content and product offerings, and customize our Site's content, layout, and services. These uses improve our site and better tailor it to meet your needs.
+You agree that we may use personally identifiable information about you to improve our marketing and promotional efforts, to analyse site usage, improve our content and product offerings, and customize our Site's content, layout, and services. These uses improve our site and better tailor it to meet your needs.
 
 You agree that we may use your information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use on the Websites. By accepting this Privacy Policy, you expressly agree to receive this information. If you do not wish to receive these communications, we encourage you to opt out of the receipt of certain communications by visiting the Membership Services section of our website or send us an email at [Contact Us](http://www.celebrities-galore.com/contact-us).
 
@@ -102,3 +99,7 @@ Celebrities Galore uses industry standard practices to safeguard the confidentia
 ## Notice
 
 We may change this Privacy Policy from time to time based on your comments and our need to accurately reflect our data collection and disclosure practices. All changes to this policy are effective after we provide you with at least (30) days' notice of changes by sending email to members. We provide you with (30) days' notice to allow you the opportunity to notify Celebrities Galore if you do not agree to such changes.
+
+* * *
+
+Make sure to SHARE and subscribe (LIKE) to our Facebook page for future announcements.
