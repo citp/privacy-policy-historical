@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the he-man.org privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202085513id_/http%3A//www.he-man.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the he-man.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152619id_/http%3A//www.he-man.org/privacy.php) for the most accurate reproduction.*
 
 # He-Man.org > Privacy
 
@@ -68,4 +68,4 @@ Columbus, OH 43220, USA
 [webmaster@mvcreations.com](mailto:webmaster@mvcreations.com)
 
 Use of this site signifies your acceptance of the terms and conditions.  
-© 2013 MV Creations, LLC. All Rights Reserved.
+© 2015 MV Creations, LLC. All Rights Reserved.
