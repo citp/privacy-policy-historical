@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agilone.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109062414id_/http%3A//www.agilone.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agilone.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607093344id_/http%3A//www.agilone.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | AgilOne | Predictive Marketing Platform
+# Privacy Policy | AgilOne | Predictive Marketing Cloud
 
 ### Privacy Policy
 
@@ -45,6 +45,10 @@ AgilOne is not responsible for its client’s own privacy policies and makes no 
 AgilOne respects and protects the individual privacy and confidence of our clients, stakeholders, employees, business partners, and others who may use our Services. Protecting consumer privacy is important to AgilOne. AgilOne complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. AgilOne adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement (the “Principles”). To learn more about the Safe Harbor program, please visit <http://www.export.gov/safeharbor/>.
 
 If there is any conflict between the provisions of this Policy and the Principles, the Principles shall govern. This Policy outlines our general policy and practices for implementing the Principles, including the types of information we gather, how we use it and the notice and choice affected individuals have regarding our use of and their ability to correct that information
+
+### Payment Card Industry (PCI) Privacy Statement
+
+AgilOne does not accept, store, process or transmit cardholder data, but as part of our platform and services we receive and store personally identifiable information. We acknowledge responsibility for the security of data that we store, process or transmit on behalf of our customers or to the extent that we could impact the security of our customers’ personally identifiable information.
 
 ### Data Security
 
