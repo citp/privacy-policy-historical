@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batterystuff.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123023011id_/http%3A//www.batterystuff.com/kb/policies-and-procedures/privacy-and-security-guarantee.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batterystuff.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607181439id_/http%3A//www.batterystuff.com/kb/policies-and-procedures/privacy-and-security-guarantee.html) for the most accurate reproduction.*
 
 # BatteryStuff Articles | Privacy and Security Policy
 
@@ -7,7 +7,7 @@
 ### BatteryStuff.com is a ShopSafeZone
 
 **Website**  
-We at BatteryStuff.com feel that your personal privacy is of the utmost importance. BatteryStuff.com uses Secure Socket Layer (SSL) with 2048 bit encryption certified by GoDaddy.com, which is the leader in website security and encryption. BatteryStuff.com website is hosted by [Servint](http://www.servint.net/) which is certified secure by Equifax Secure Global eBusiness SSL 3.0, RC4 with 128 bit encryption (High); RSA with 1024 bit exchange.
+We at BatteryStuff.com feel that your personal privacy is of the utmost importance. BatteryStuff.com uses Secure Socket Layer (SSL) with 2048 bit encryption certified by GoDaddy.com, which is the leader in website security and encryption. BatteryStuff.com website is hosted by [Servint](https://www.servint.net/) which is certified secure by Equifax Secure Global eBusiness SSL 3.0, RC4 with 128 bit encryption (High); RSA with 1024 bit exchange.
 
 **Credit Card**  
 All credit card and personal info collected by BatteryStuff.com is used only to aid in processing orders and customer service. BatteryStuff.com does not compile Credit Card information on our computers and any hard copies of sales documents and credit data is confetti shredded on a regular basis. BatteryStuff.com began doing business on the Internet in 1997 and we have never had a breach of our customer’s personal security.
@@ -38,4 +38,9 @@ Here are the basic principles behind how Batterystuff.com manages the resolution
 
 
 
-Written on March 30, 2012 a 2:03 pm 
+#### Was this information helpful?
+
+  
+
+
+Written on February 11, 2015 a 8:25 pm 
