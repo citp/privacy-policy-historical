@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pwedeh.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220085958id_/http%3A//pwedeh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pwedeh.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142416id_/http%3A//pwedeh.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PHILIPPINE PCSO LOTTO RESULTS PCSO
+# PRIVACY POLICY | PHILIPPINE PCSO LOTTO RESULTS PCSO
 
 **Pwedeh.com respects your privacy.**
 
@@ -24,4 +24,16 @@ While we do our best to protect your personal information, we cannot guarantee t
 
 Please contact those vendors and others directly if you have any questions about their privacy policies.
 
-For any other information email at: pwedeh1@yahoo.com
+For any other information email at: enterjasper@yahoo.com
+
+**SITE REMINDERS:**
+
+Posting of phone numbers and other contact information is currently restricted on this site. This is due to reports of scams resulting from such monetary schemes to lure unsuspecting readers in exchange of some trivial and often malicious services. 
+
+Offending and disrespectful remarks are also prohibited on the merits of maintaining the site from cyberbullying and any form of profanity, as well as to promote positive and healthy interaction among our readers and followers alike. 
+
+Use original username/codename (not fullname). Username/Codename must not be the same as your e-mail address. 
+
+Content post must be in a horizontal form. 
+
+Deletion/Banned will be imposed at any time without prior notice.
