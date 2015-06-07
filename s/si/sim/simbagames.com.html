@@ -1,9 +1,7 @@
-<!--The following is the downloaded HTML source of the simbagames.com privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120111535id_/http%3A//www.simbagames.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the simbagames.com privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608001520id_/http%3A//www.simbagames.com/Privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head id="head1"><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><title>
-	Privacy Policy
-</title><meta name="keywords" content="casino, online, one-armed, bandits, slot games, games, Internet"><meta name="description" content="Play online in the internet casino and slot games of SimbaGames. Have fun with our games in the internet casino and online slot machines."><link rel="stylesheet" type="text/css" href="/css/style-m.css">
+<!DOCTYPE html><html><head id="head1"><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><link rel="stylesheet" type="text/css" href="/css/style-m.css">
      <!--[if IE 8]>
         <style type="text/css">/* css for IE 8 */
 
@@ -14,17 +12,113 @@
             .header .header_menu UL {
                 padding-left:64px;
             }
+            
+         #btn_inner {            
+            top: 233px;
+        }
+        #btn_inner .download_button{
+            width: 48%;
+            height: 52px;            
+        }
+        #btn_inner .play_button{
+            width: 48%;
+            height: 52px;           
+        }
         </style>
- <![endif]-->
-    <script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=4"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/jquery-1.11.1.js"></script>
+    <![endif]-->
+    <script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=3"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.primeapi.com/primeservices/TrackingService/Tracking.1.1.min.js?v=1.3"></script><script src="/js/jquery-1.11.1.js"></script>
     <script src="/min/site.js"></script>
+    <script src="/js/jquery.bpopup.min.js"></script>
     
     
     
-<link href="../css/style_EN.css" rel="stylesheet" type="text/css"><link href="../css/style_US.css" rel="stylesheet" type="text/css"></head>
+
+<script type="text/javascript">
+    var InstantLink = '/instant-play.html?m_Lang=1';
+    var downloadlink;
+    var FlashCookieLink;
+    var doDownload = false;
+    var isMobile = (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent));
+    var isAndroid = false;
+    if (isMobile)
+    {
+        var ua = navigator.userAgent.toLowerCase();
+        isAndroid = ua.indexOf("android") > -1;
+    }
+    //if (isAndroid) {
+    //    $(".andorid").show();
+    //    $(".other").hide();
+    //}
+
+    function setArCode(args) {            
+        if (isMobile) {
+            var linkData = "?aname=" + args.Response.AR + "&zone_id=1&ref=http://www.simbagames.com/&dyn_id=" + args.Response.USGUID + "&skid=simbagames"
+            InstantLink = "http://mcasino.skillonnet.com/Mobile/SimbaGames/" + linkData;
+            if (isAndroid) {
+                DownloadLink = "http://mcasino.skillonnet.com/Mobile/SimbaGames/downloadApk/" + linkData;
+            }
+            else
+            {
+                DownloadLink = "";
+            }
+        }
+        else {
+            var FlashCookieLink = ("/fcookie.html?aname=" + args.Response.AR + "&zoneid=1&dynid=" + args.Response.USGUID + "&skin=simbagames");
+            if (document.getElementById("mycookie2") != null) {
+                document.getElementById("mycookie2").src = FlashCookieLink;
+                logAction(1, escape(FlashCookieLink));
+            }
+            DownloadLink = "http://www.primedw.com/PrimeServices/Platform.SkillOnNet/DownloadService.svc/FileSignature/"+ args.Response.AR +"/SG";
+        }
+        
+        if (doDownload) {
+            logAction(97, "", startDownload);
+        }
+    }
+
+    // LocationInfo
+    var pr_location_brand_code = 'SG';
+    var pr_location_site_code = '1';
+    var pr_location_page_code = document.title;
+    var pr_location_page_version = '1.1';
+    var pr_location_page_culture = 'en-IE';
+    var pr_location_page_prc = '';
+    var pr_ready_callback = setArCode;
+    var pr_tracking_base_url = 'www.primeapi.com/primeservices';
+
+    // UserInfo
+    var pr_user_device = '1';
+    
+    (function () {
+        var pg = document.createElement('script');
+        pg.type = 'text/javascript';
+        pg.async = true;
+        pg.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.primeapi.com/primeservices/TrackingService/Tracking.1.1.min.js?v=1.3'; // Get from local config
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pg, s);
+    })();
+
+    function logAction(action, id, callback) {
+        // actionType, actionValuelist, actionElementCode
+        _pr.logClientAction({ "Type": action, "HTMLElementID": id, "Value": "", "Reference": "", "Callback": callback });
+    }
+</script>
+
+<script type="text/javascript">
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-53234875-1', 'auto');
+    ga('send', 'pageview');
+</script>
+<link href="../css/style_EN.css" rel="stylesheet" type="text/css"><link href="../css/style_US.css" rel="stylesheet" type="text/css"><title>
+	Privacy Policy
+</title></head>
 <body>
     <form method="post" action="Privacy.aspx" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE4MDc0NDU2NzJkZIuZqs7at6kvApGsRLjIlWESzE8sfzHNX/ByLqzQfjSD">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE4MDc0NDU2NzJkZHGI2iHG1IExbYqILp2NUdMe6dgYbHLcfG029iitJ9Ut">
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="EAA40B43">
         <div class="aspNetHidden">
@@ -46,6 +140,9 @@
                 }
             }
             //]]>
+
+
+
         </script>
 
         <div class="wrapper">      
@@ -53,10 +150,7 @@
               
 
 <script src="/js/PG_Clicks.js"></script>
-<script>
-    var InstantLink = '/instant-play.html?m_Lang=1';
-    var DownloadLink = 'http://download.skillonnet.com/download?aname=9000000&prod_id=3&skid=simbagames&zone_id=1';
-    var FlashCookieLink = '/fcookie.html?aname=9000000&zoneid=1&dynid=25c485a3-d1b6-4fb2-b07c-0c3768ff522f&skin=simbagames';
+<script type="text/javascript">
 
     $(document).ready(function () {
         $(".header_menu li").hover(
@@ -68,13 +162,13 @@
         );
 
         $(".gameIMG").mouseenter(
-                      function () {
-                          $(".ActiveLink").hide();
-                          $(".gameIMG").show();
+           function () {
+               $(".ActiveLink").hide();
+               $(".gameIMG").show();
 
-                          $(this).hide();
-                          $(this).next().show();
-                      });
+               $(this).hide();
+               $(this).next().show();
+           });
 
         $(".ActiveLink").mouseleave(
           function () {
@@ -83,38 +177,44 @@
           });
     });
 
-        </script>
+</script>
 
 <div class="header_menu">
-		<ul>
-			<li class="small_menu"><a href="javascript:void(0)">Menu</a></li>
-                    <li id="ucHeader_liDownload" class="expanded_menu"><a href="/download.aspx"><span id="ucHeader_Label6">Download</span></a></li>
-                    <li id="ucHeader_liPromotions" class="expanded_menu"><a href="/promotions-index.aspx"><span id="ucHeader_Label5">Promotions</span></a></li>
-                    <li id="ucHeader_liCalendar" class="expanded_menu"><a href="/promotions.aspx#calendar-promotions"><span id="ucHeader_Label4">Calendar</span></a></li>
-                    <li id="ucHeader_liGames" class="expanded_menu"><a href="/games.aspx"><span id="ucHeader_Label3">Our Games</span></a></li>
-                    <li id="ucHeader_liVIP" class="expanded_menu"><a href="/vip-lounge.aspx"><span id="ucHeader_Label2">VIP</span></a></li>
-                    <li id="ucHeader_liWinners" class="expanded_menu"><a href="/ourwinners.aspx"><span id="ucHeader_Label1">Winners</span></a></li>
-                    <li id="ucHeader_liAbout" class="expanded_menu"><a href="/aboutus.aspx"><span id="ucHeader_lbHead">About</span></a></li>
+    <ul>
+        <li class="small_menu"><a href="javascript:void(0)">Menu</a></li>
+        <li id="ucHeader_liDownload" class="expanded_menu"><a href="/download.aspx">
+            <span id="ucHeader_Label6">Download</span></a></li>
+        <li id="ucHeader_liPromotions" class="expanded_menu"><a href="/promotions-index.aspx">
+            <span id="ucHeader_Label5">Promotions</span></a></li>
+        <li id="ucHeader_liCalendar" class="expanded_menu"><a href="/promotions.aspx#calendar-promotions">
+            <span id="ucHeader_Label4">Calendar</span></a></li>
+        <li id="ucHeader_liGames" class="expanded_menu"><a href="/games.aspx">
+            <span id="ucHeader_Label3">Our Games</span></a></li>
+        <li id="ucHeader_liVIP" class="expanded_menu"><a href="/vip-lounge.aspx">
+            <span id="ucHeader_Label2">VIP</span></a></li>
+        <li id="ucHeader_liWinners" class="expanded_menu"><a href="/ourwinners.aspx">
+            <span id="ucHeader_Label1">Winners</span></a></li>
+        <li id="ucHeader_liAbout" class="expanded_menu"><a href="/aboutus.aspx">
+            <span id="ucHeader_lbHead">About</span></a></li>
 
-			
+
         <li id="ucHeader_landDropDown" class="right"><a href="javascript:void(0)" id="ucHeader_selectedLang" class="language_option">English</a>
-                <ul id="ucHeader_selectLangUnselected" class="language_list language_list_home">
-                    
-                <li class="langoption"><a id="lang_Deutsch" href="#" onclick="javascript:__doPostBack('selectLangUnselected', 'Deutsch')">Deutsch</a></li><li class="langoption"><a id="lang_Norsk" href="#" onclick="javascript:__doPostBack('selectLangUnselected', 'Norsk')">Norsk</a></li><li class="langoption"><a id="lang_Svenska" href="#" onclick="javascript:__doPostBack('selectLangUnselected', 'Svenska')">Svenska</a></li><li class="langoption"><a id="lang_Suomi" href="#" onclick="javascript:__doPostBack('selectLangUnselected', 'Suomi')">Suomi</a></li></ul>
-            </li>
+            <ul id="ucHeader_selectLangUnselected" class="language_list language_list_home">
+            <li class="langoption"><a id="lang_Deutsch" href="#" onclick="javascript:__doPostBack('selectLangUnselected', 'Deutsch')">Deutsch</a></li><li class="langoption"><a id="lang_Norsk" href="#" onclick="javascript:__doPostBack('selectLangUnselected', 'Norsk')">Norsk</a></li><li class="langoption"><a id="lang_Svenska" href="#" onclick="javascript:__doPostBack('selectLangUnselected', 'Svenska')">Svenska</a></li><li class="langoption"><a id="lang_Suomi" href="#" onclick="javascript:__doPostBack('selectLangUnselected', 'Suomi')">Suomi</a></li></ul>
+        </li>
 
-		</ul>
-	</div>
+    </ul>
+</div>
 <a class="logo logo_home" href="/">
-    <img src="/images/icons/sign-logo.png" alt=""></a>
+    <img src="/images/icons/sign-logo.png" alt="SimbaGames"></a>
                 <a class="logo" href="/">
-                 <img src="/images/icons/sign-logo.png" alt="">
+                 <img src="/images/icons/sign-logo.png" alt="SimbaGames">
                 </a>
             </div>
             <div class="slide_holder"></div>
             <div class="button_holder" id="btn_inner">
-                 <a href="javascript:download();" class="left download_button"></a>
-                 <a class="right play_button" href="javascript:openInstantPlay();"></a>
+                 <a href="javascript:download();" id="downInner" class="left download_button"></a>
+                 <a class="right play_button" id="playInner" href="javascript:openInstantPlay();"></a>
             </div>
 
             
@@ -148,8 +248,8 @@
     <div id="sidebar-calendar-top"></div>
     <div id="sidebar-calendar-middle">
         <div class="icon-calendar left">
-            <p id="day">19</p>
-            <p id="month">Feb</p>   
+            <p id="day">30</p>
+            <p id="month">Jan</p>   
         </div>
         <div class="calendar-promotions-text left">
             <p><span id="ContentPlaceHolder1_SideCalendar_lbContent">Great Promotions every day</span></p>
@@ -200,6 +300,33 @@
     <img src="/images/icons/footer_image.png" id="ucFooter1_imgFooterBG" class="footer_image">
 
     <div class="footer_content">
+        
+
+        <div class="footer_text_holder" style="margin-top: -18px !important">
+            <span id="ucFooter1_Label7"><p class="big_title">
+		<b>Play Online at Simba Games and Turn Fantasy into Reality</b>
+	</p>
+
+	<p>
+		If you want to win big while travelling the solar system as a Starfleet Captain, or raid lost tombs with Indian Jones, you’re in the right place. Through Simba Games’ selection of online casino games, you can lose yourself in a world of 24 hour entertainment and a gambling experience where risk can bring lavish rewards.
+	</p>
+
+	<p>
+		At our no deposit casino you can spin to win on our US &amp; European roulette tables. Stare down snake eyes to strike it rich at our interactive craps table. Hit a winning streak like James Bond with our immersive video poker. Beat the banker to score huge on the baccarat table. Or double down and prosper at blackjack.
+	</p>
+
+	<p>
+		If you're a fan of slot machines, then Simba Games has a selection of thrilling games to play. With adrenaline-fuelled gameplay on offer, you can choose to lock horns with an Arthurian legend, exchange one-inch punches with Bruce Lee, and much more. Plus, you can hit the jackpot with one of our leading online scratch cards.
+	</p>
+
+	<p>
+		You can elect to play and win on any of these games directly via your internet browser. Or you can download software that will allow you to access our games quicker via your desktop. Playing is not only easy, but rewarding to new players with our great <a href="/promotions.aspx#welcome-package-simba">welcome bonuses</a>.
+	</p>
+
+	<p>
+		So join Simba Games today and practice for free or play to win on one of our many online casino games.
+	</p></span> 
+        </div>
         <div class="footer_header">
             <ul>
                 <li><a href="/Affiliates.aspx">
@@ -207,7 +334,7 @@
                 <li><a href="/Privacy.aspx">
                     <span id="ucFooter1_Label1">Privacy Policy</span></a></li>
                 <li><a href="/Terms.aspx">
-                    <span id="ucFooter1_Label2">Terms and condition</span></a></li>
+                    <span id="ucFooter1_Label2">Terms and conditions</span></a></li>
                 <li><a href="/Responsible.aspx">
                     <span id="ucFooter1_Label3">Responsible Gaming</span></a></li>
                 <li><a href="/support.aspx">
@@ -220,65 +347,26 @@
 
         </div>
         
-
-
-        <div class="content_info">
+        
+        
+        
+        
+        <span id="ucFooter1_lbFooterIMG_rest"><img src="/images/icons/footer_com_3.png" id="ucFooter1_img2" class="foot_cont_img" alt="logos" usemap="#footerImageMap2">
+            <map name="footerImageMap2" id="footerImageMap2">
+                <area alt="primeGaming" title="primeGaming" href="http://www.primegaming.com" shape="rect" coords="228,4,461,46" style="outline: none;" target="_self">
+                <area alt="iTechLabs" title="iTechLabs" href="/RNG_Certificate_SkillOnNet_040313.pdf" shape="rect" coords="473,0,525,46" style="outline: none;" target="_self">
+                <area alt="18" title="18" href="/Terms.aspx" shape="rect" coords="537,0,568,46" style="outline: none;" target="_self">
+                <area alt="mga" title="mga" href="https://www.authorisation.mga.org.mt/verification.aspx?lang=en&amp;company=c17b577e-3a83-4c7d-87c6-2adb8933aeec" shape="rect" coords="581,0,683,46" style="outline: none;" target="_self">
+            </map>
+        </span>
+        
+        <div class="footer_text_holder pb10">
             <p>
-                <span id="ucFooter1_lbLegal1">This site is owned and operated by SK Processing, Agiou Andreou 332, Partician Chambers, CY3035 Limassol, Cyprus, using the gaming license issued by the Lotteries and Gaming Authority of Malta to Skill On Net Ltd, Level 5, Quantum House, 75, Abate Rigord Street, Ta’ Xbiex, XBX 1120, Malta (license number LGA/CL1/563/2009) issued on 17th June 2011</span>
+                
                 <br>
-                <span id="ucFooter1_Label9">Clicking on the download button will lead to the installation of Windows compatible casino software on your PC of around 120 MB, which will enable you to register and play on platform. The application can be uninstalled completely cleanly using the normal remove programs options in Windows platform. No functions of the software will remain after an uninstallation.</span>
+                <span id="ucFooter1_Label9">Clicking on the download button will lead to the installation of Windows compatible casino software on your PC of around 120 MB, which will enable you to register and play on platform. The application can be uninstalled completely cleanly using the normal remove programs options in Windows platform. No functions of the software will remain after an uninstallation.</span>  
             </p>
-
         </div>
-        <img src="/images/icons/footer_content_img.jpg" id="ucFooter1_imgLogos" class="foot_cont_img" alt="logos" usemap="#footerImageMap">
-        <map name="footerImageMap" id="footerImageMap">
-            <area id="imPrimeGaming" alt="primeGaming" title="primeGaming" href="http://www.primegaming.com" shape="rect" coords="45,25,279,75" style="outline:none;" target="_self">
-            <area id="imSkillOnNet" alt="skillOnNet" title="skillOnNet" href="http://www.skillonnet.com/" shape="rect" coords="289,24,440,74" style="outline:none;" target="_self">
-            <area id="imGameCare" alt="gameCare" title="gameCare" href="http://www.gamcare.org.uk/" shape="rect" coords="450,27,494,78" style="outline:none;" target="_self">
-            <area id="imITechLabs" alt="iTechlabs" title="iTechLabs" href="http://www.megacasino.com/RNG_Certificate_SkillOnNet_040313.pdf" shape="rect" coords="509,26,559,71" style="outline:none;" target="_self">
-            <area id="imLGA" alt="lga" title="LGA" href="http://www.lga.org.mt/" shape="rect" coords="752,16,913,83" style="outline:none;" target="_self">
-        </map>
-
-        <div class="footer_text_holder">
-            <span id="ucFooter1_Label7"><p class="big_title">
-		Play online at SimbaGames and win the greatest prize
-	</p>
-
-	<p>
-		If you are one of the many people who love to play casino or embark on a game with the one-armed
-		bandits or slot machines, then you have come to the right place. The games of Simba combine
-		everything in one place and now you have the opportunity to play online casino, as well as to play
-		on slot machines on the Internet. In other words, here is the place where you will find
-		twenty-four-hour entertainment. With us the chances to win the great prize by playing in the
-		internet casino are great and you can choose whether you want to play with real money or not on our
-		single-handed bandits, slot machines and in the online casino.
-	</p>
-
-	<p>
-		As with our internet casino games, slot machines and one-armed bandits you play online, you can play
-		many different games in the day and night and that is why we are always online when you feel lucky
-		and want to play on slot machines, casino or something totally different.
-	</p>
-
-	<p>
-		Internet casino, one-armed bandits and slot machines – play online.
-	</p>
-
-	<p>
-		SimbaGames always offers something new you can try when it comes to our broad range of online casino
-		games, one-armed bandits and slot machines. You’d better keep track of our newest promotions and
-		offers – you may take advantage of them. The only thing you need in order to play online casino,
-		one-armed bandits and slot machines is an access to the Internet and then you head for the winning
-		of the great prize.
-	</p>
-
-	<p>
-		So, find your desire to play and let good luck be with you – maybe you are the person who will win
-		the great prize. Increase your chances to win and play internet casino, try your luck on our
-		one-armed bandits and have fun with our online slot machines. Register now and start today.
-	</p></span>
-        </div>
-
     </div>
 </div>
 
@@ -287,27 +375,16 @@
 
 
         </div>
-        <iframe src="/fcookie.html?aname=9000000&amp;zoneid=1&amp;dynid=25c485a3-d1b6-4fb2-b07c-0c3768ff522f&amp;skin=simbagames" id="mycookie2" width="1" height="1" frameborder="0" scrolling="no"></iframe>
+        <iframe src="undefined" id="mycookie2" width="1" height="1" frameborder="0" scrolling="no"></iframe>
         
-<script type="text/javascript">
-    (function () {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
 
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-53234875-1']);
-    _gaq.push(['_trackPageview']);
-</script>
-
-
+        <div id="frameContainer" style="overflow:hidden;"></div>
     </form>
 <script type="text/javascript">
 //<![CDATA[
 (function() {
 var _analytics_scr = document.createElement('script');
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=4';
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=3';
 var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
 })();
 // ]]>
