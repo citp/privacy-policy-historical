@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the sopcast.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093420id_/http%3A//www.sopcast.org/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sopcast.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022612id_/http%3A//www.sopcast.org/info/privacy.html) for the most accurate reproduction.*
 
 # Disclaimer
 
-What information do we collect?
+What information do we collect when viewing website?
 
-We collect information from you when you register on our web site for viewing or broadcasting live channels.
-
+We collect information from you when you register on our web site for broadcasting live channels.  
 When registering on our site, as appropriate, you may be asked to enter your name or email address. You may, however, visit our site or use our software anonymously.
+
+What information do we collect when using SopCast client for Windows?
+
+We do not collect any information from you when you use SopCast client to view channels. If you need to broadcast channels from SopCast client, please register yourself on SopCast website first.
 
 What do we use your information for?
 
