@@ -1,30 +1,27 @@
-> *The following text is extracted and transformed from the musicloversgroup.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925182040id_/http%3A//www.musicloversgroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicloversgroup.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144255id_/http%3A//muzikum.eu/en/22/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy
 
-At **Music Lovers Group** , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by MusicLoversGroup.com and how it is used.
+Ip-Addres
 
-**Log Files**  
-Like many other Web sites, Music Lovers Group makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Everytime you visit our website your IP adress will be registered. This is necessary to keep static information about our visitors and to guarantee the proper working of our site.
 
-**Cookies and Web Beacons**  
-Music Lovers Group does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+Cookies
 
-Some of our advertising partners like Google Adsense may use cookies and web beacons on our site.
+We use cookies (a cookie is a small file that is sent by a webserver and is saved at the hard disk of your computer). This file contains information about your session (for example your username and password)
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on Music Lovers Group send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+Personal information
 
-Music Lovers Group has no access to or control over these cookies that are used by third-party advertisers. You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices.
+Al personal data you fill in (in your profile or in forms), will be saved in our database and will only be used to contact you. Your name can be shown by al your entries (for example: your name is shown next to every text you’ve added or corrected). When you mark the checkbox in your profile which states that other, signed in members, may contact you, they can send you messages through the contactform. Your e-mail address will not be shown. Personal contact information will never be released, sold or used for commercial means.
 
-Music Lovers Group’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+Links
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+On this site you`ll find links to external websites. These are chosen with great care and should not include illegal (music)files nor promote illegal activities. Muzikum is not liable for the content or consequences when any of these sites do not obey local legislation. In case you find a link on our site to such content you can notify us through the [contactform](https://web.archive.org/web/20150607144255id_/http%3A//muzikum.eu/en/22/5/contact.html) so we can remove the url from our site.
 
-Specifics on Google’s [DoubleClick DART Cookie](http://www.doubleclick.com/privacy/faq.aspx):  
-* Google, as a third party vendor, uses cookies to serve ads on your site.  
-* Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-* Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+To make your surfing experience as pleasant as possible and in order to protect your privacy as best as we can we`ve decided to place as little advertisement as possible. We`ll also never give our sell your contact information to other parties unless we`re legally obliged to do so
 
-You can find additional information in Appendix A of the [NAI Self-Regulatory principles for publishers](http://www.networkadvertising.org/pdfs/NAI_principles.pdf) (PDF). Please note that the NAI may change this sample language at any time.
+You may always ask to have your personal information removed or corrected.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us trough our [contact form](http://www.musicloversgroup.com/contact/).
+For other questions or remarks feel free to [contact](https://web.archive.org/web/20150607144255id_/http%3A//muzikum.eu/en/22/5/contact.html) us.
+
+Check out our [disclaimer](https://web.archive.org/web/20150607144255id_/http%3A//muzikum.eu/en/22/21/disclaimer.html) for all information about copyrights.
