@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the connectamericas.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209002156id_/http%3A//connectamericas.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectamericas.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607193444id_/https%3A//connectamericas.com/privacy_policy.html) for the most accurate reproduction.*
 
 # None
 
 ## Introduction
 
-This Privacy Policy sets forth the data protection policies and practices of the ConnectAmericas Web Site (the "Site"), an interactive online source of information established and supported by the Inter-American Development Bank ("IDB" or "us"). As explained in the ConnectAmericas [Terms of Use](https://web.archive.org/web/20141209002156id_/http%3A//connectamericas.com/terms_of_use.html), into which this Privacy Policy is incorporated by reference, the IDB is an international organization established by its member countries pursuant to the Agreement Establishing the Inter-American Development Bank.
+This Privacy Policy sets forth the data protection policies and practices of the ConnectAmericas Web Site (the "Site"), an interactive online source of information established and supported by the Inter-American Development Bank ("IDB" or "us"). As explained in the ConnectAmericas [Terms of Use](https://web.archive.org/web/20150607193444id_/https%3A//connectamericas.com/terms_of_use.html), into which this Privacy Policy is incorporated by reference, the IDB is an international organization established by its member countries pursuant to the Agreement Establishing the Inter-American Development Bank.
 
 By using the Site, either as a visitor ("User") or a registered user ("Registered User"), you are agreeing to the terms of this Privacy Policy, including as they may be amended from time to time. Your use of the Site therefore constitutes your consent to our collection, use and disclosure of personal information we collect from you through the Site, as described herein. Please be sure to read this entire Privacy Policy before using the Site. 
 
