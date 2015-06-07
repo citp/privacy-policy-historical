@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horoscopes-love.eu privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102123547id_/http%3A//www.horoscopes-love.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horoscopes-love.eu privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142854id_/http%3A//www.horoscopes-love.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,18 +67,10 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 www.horoscopes-love.eu            [info@horoscopes-love.eu](mailto:info@horoscopes-love.eu) 
 
-#### Share this post:
+Share this post:
 
-#### Need help?
+Need answers?
 
-Love, relationship, family, career and health problems? Visit portal with free chat that connects you with the world's most renowned Psychics. [Click here ](http://www.oranum.com/randomchat.php?s=1&p=6&w=100393&t=36&c=5961)
+[](http://www.oranum.com/randomchat.php?s=1&amp;p=6&amp;w=100393&amp;t=36&amp;c=5961)
 
-#### Horoscope 2015 iOS App
-
-Download latest horoscope apps for iPhone/iPad [here](http://apps.horoscopes-love.eu/).
-
-#### Related Articles
-
-[](http://www.horoscopes-love.eu/our-partners "Our Partners")[Our Partners...](http://www.horoscopes-love.eu/our-partners "Our Partners")  
-Live Astrology Readings from Astro*Live*Link Consult expert professional astrologers for a reading over the telephone from anywhere in the world. Advice on your horoscope, future, love, compatibility or money. Astrodir.com - the cream of astrology websites . Top 100 H...  
-
+Love, relationship, finance, family, career and health problems? Visit portal with free chat that connects you with the world's most renowned Psychics. [Click here ](http://www.oranum.com/randomchat.php?s=1&p=6&w=100393&t=36&c=5961)
