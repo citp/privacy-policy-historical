@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emthemes.com privacy policy that was archived on 2014-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140824011250id_/http%3A//www.emthemes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emthemes.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200546id_/http%3A//www.emthemes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - EMThemes
 
