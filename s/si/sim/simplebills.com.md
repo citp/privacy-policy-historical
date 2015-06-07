@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simplebills.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108040655id_/http%3A//www.simplebills.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplebills.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152609id_/http%3A//www.simplebills.com/privacy-policy) for the most accurate reproduction.*
 
-# SimpleBills Corporation | Privacy Policy
+# Privacy Policy | SimpleBills
 
 ## Our Commitment to Privacy
 
@@ -8,7 +8,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 ## The Information We Collect:
 
-This notice applies to all information collected or submitted simplebills.com or any of it's affiliated websites. On our website, you are able to apply for service through SimpleBills. The types of personal information we collect during the application process are: 
+This notice applies to all information collected or submitted simplebills.com or any of it’s affiliated websites. On our website, you are able to apply for service through SimpleBills. The types of personal information we collect during the application process are:
 
 Name  
 Email address  
@@ -42,10 +42,10 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 We take your security very seriously. To show our commitment, we have taken several steps to ensure our business and our website use the latest data security techniques. We use SSL technology to secure our website. We have been accredited by the Better Business Bureau. Finally, we use a secure payment processor for all of our online transactions which meets or exceeds all industry standards for information security, including PCI DSS and PA-DSS.
 
-## Our Commitment To Children's Privacy:
+## Our Commitment To Children’s Privacy:
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.
 
 ## How To Contact Us:
 
-Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/web/20141108040655id_/http%3A//www.simplebills.com/contact).
+Should you have other questions or concerns about these privacy policies, please [contact us](http://simplebills.com/contact).
