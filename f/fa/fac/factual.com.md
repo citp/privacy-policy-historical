@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factual.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216160611id_/http%3A//www.factual.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factual.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607183340id_/http%3A//www.factual.com/privacy) for the most accurate reproduction.*
 
 # Factual | Privacy Policy
 
@@ -26,7 +26,7 @@ The information that we receive from such partners is combined with additional i
 
 Factual uses the information that you provide or that we collect and receive to operate, maintain, enhance, and provide the features and services found on the Site and in our other Services as well as to track user-generated content and Users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act. 
 
-If you have provided us with your email address, we will use your email address, without further consent, for administrative communications such as notifying you of major Site and Services updates, for customer service purposes, to address copyright infringement or defamation issues, to contact you regarding any content that you have posted to or downloaded from the Site or Services, and/or to provide you with additional information and service offers (e.g., our newsletter). If you do not want to receive promotional emails, please [notify us](https://web.archive.org/contact?subject=other), or follow the unsubscribe instructions within the email. 
+If you have provided us with your email address, we will use your email address, without further consent, for administrative communications such as notifying you of major Site and Services updates, for customer service purposes, to address copyright infringement or defamation issues, to contact you regarding any content that you have posted to or downloaded from the Site or Services, and/or to provide you with additional information and service offers (e.g., our newsletter). If you do not want to receive promotional emails, please [notify us](https://web.archive.org/contact#other), or follow the unsubscribe instructions within the email. 
 
 Factual uses all of the information that we collect to understand the usage trends and preferences of our Users, to improve the way the Site or Services works and looks, and to create new features and functionality. 
 
@@ -66,7 +66,7 @@ Factual uses commercially reasonable physical, managerial, and technical safegua
 
 * ## Our Commitment to Children's Privacy
 
-You may not create a Factual account unless you are legally old enough to form a binding contract and in any case are 13 years of age or older. Factual does not knowingly collect or maintain personally identifiable information from persons under 13 years of age. If Factual learns that personally identifiable information of persons less than 13 years of age has been collected on or through the Site or Services, then Factual will take the appropriate steps to delete this information. If you are the parent or legal guardian of a child under 13 who has registered with the Site or Services, then please [contact Factual](https://web.archive.org/contact?subject=other) to have that child's information deleted. 
+You may not create a Factual account unless you are legally old enough to form a binding contract and in any case are 13 years of age or older. Factual does not knowingly collect or maintain personally identifiable information from persons under 13 years of age. If Factual learns that personally identifiable information of persons less than 13 years of age has been collected on or through the Site or Services, then Factual will take the appropriate steps to delete this information. If you are the parent or legal guardian of a child under 13 who has registered with the Site or Services, then please [contact Factual](https://web.archive.org/contact#other) to have that child's information deleted. 
 
 * ## International Visitors
 
@@ -90,4 +90,4 @@ Under California Civil Code sections 1798.83-1798.84, users who are California r
 
 * ## Factual Contact Information
 
-Please contact Factual Inc. with any questions or comments about this Privacy Notice, your personal information, and our third-party disclosure practices or your consent choices at: Factual Inc., 1999 Avenue of the Stars, 35th Floor, Los Angeles, CA 90067 or by [email](https://web.archive.org/contact?subject=other). We will respond to your inquiry within 30 days of its receipt. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
+Please contact Factual Inc. with any questions or comments about this Privacy Notice, your personal information, and our third-party disclosure practices or your consent choices at: Factual Inc., 1999 Avenue of the Stars, 35th Floor, Los Angeles, CA 90067 or by [email](https://web.archive.org/contact#other). We will respond to your inquiry within 30 days of its receipt. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
