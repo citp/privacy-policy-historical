@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crhideas.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121022120id_/http%3A//www.crhideas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crhideas.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607195811id_/http%3A//www.crhideas.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Creative Home Ideas
+# Privacy Policy - Creative Home Ideas
 
 **What information do we collect?**
 
