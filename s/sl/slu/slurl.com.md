@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the slurl.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121022019id_/http%3A//secondlife.com/corporate/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slurl.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607195655id_/http%3A//secondlife.com/corporate/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Linden Lab
+
+### ** **
 
 ### **Linden Lab Privacy Policy**
 
@@ -10,24 +12,15 @@ Linden Research, Inc. and Linden Research UK, Ltd. (collectively **“Linden Lab
 
 By using our online sites, products, and services (collectively, the **“Service”** ), you agree that we may collect personally identifiable information (as defined below). We will not share your personally identifiable information except as described herein.
 
-  1. Types of Information We Collect  
-
-  2. How We Collect Your Information  
-
-  3. Use of Your Information by Linden Lab  
-
-  4. Sharing Your Information with Other Companies  
-
-  5. Your Controls and Choices  
-
-  6. Children's Privacy  
-
-  7. Data Transfers, Storage and Processing Globally  
-
-  8. Changes to this Privacy Policy  
-
-  9. Comments and Questions  
-
+  1. Types of Information We Collect
+  2. How We Collect Your Information
+  3. Use of Your Information by Linden Lab
+  4. Sharing Your Information with Other Companies
+  5. Your Controls and Choices
+  6. Children's Privacy
+  7. Data Transfers, Storage and Processing Globally
+  8. Changes to this Privacy Policy
+  9. Comments and Questions
 
 
 
@@ -49,10 +42,10 @@ We collect the following categories of information:
 
 Additionally there are a few special circumstances to note:
 
-  *  **Intellectual Property Claim Notices:** If you notify us of an intellectual property claim, the information in your claim notice may be shared with other parties to the disagreement or third parties in our discretion and as required by law.
-  *  **Beta Service User:** If you volunteer to serve as a beta participant for our pre-commercial content, we may track bug reports and individual system performance in an effort to test our technology rigorously before it is deployed. 
-  *  **Former Customer:** If you discontinue your use of our Service, we may keep your registration file in our database for use in the event that you elect to renew your use of our Service, as well as for anti-fraud and other such protective measures. 
-  *  **Job Postings or Unsolicited Communications:  ** Please note that information we receive in reference to a job posting or by unsolicited communications does not fall within the terms outlined in this Privacy Policy, however information from your resume will be used solely for the purpose of evaluating your candidacy for employment.
+  * **Intellectual Property Claim Notices:** If you notify us of an intellectual property claim, the information in your claim notice may be shared with other parties to the disagreement or third parties in our discretion and as required by law.
+  * **Beta Service User:** If you volunteer to serve as a beta participant for our pre-commercial content, we may track bug reports and individual system performance in an effort to test our technology rigorously before it is deployed. 
+  * **Former Customer:** If you discontinue your use of our Service, we may keep your registration file in our database for use in the event that you elect to renew your use of our Service, as well as for anti-fraud and other such protective measures. 
+  * **Job Postings or Unsolicited Communications:  ** Please note that information we receive in reference to a job posting or by unsolicited communications does not fall within the terms outlined in this Privacy Policy, however information from your resume will be used solely for the purpose of evaluating your candidacy for employment.
 
 
 
@@ -114,13 +107,12 @@ We provide you with the ability to exercise certain controls and choices regardi
   * You may change your choices for subscriptions, newsletters and alerts
   * You may choose whether to receive offers and promotions from us for our products and services, or products and services that we think may be of interest to you
   * You may choose whether to share your Personal Information with other companies so they can send you offers and promotions about their products and services
-  * You may choose whether to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers by following the directions set forth above in Section 2   
-
+  * You may choose whether to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers by following the directions set forth above in Section 2 
   * You may request access to the Personal Information we hold about you and that we amend or delete it and we request third parties with whom we have shared such information to do the same
 
 
 
-You may exercise your controls and choices, or request access to your Personal Information, by modifying your selections at <http://lindenmktg.p0.com/resubscribe.jsp>, following instructions provided in communications we send to you, or sending correspondence regarding the publications or services you no longer wish to receive from us to the following address:
+You may exercise your controls and choices, or request access to your Personal Information, by modifying your selections at <https://accounts.secondlife.com/subscription_preference>, following instructions provided in communications we send to you, or sending correspondence regarding the publications or services you no longer wish to receive from us to the following address:
 
 Linden Lab Privacy Policy  
 Attention: Opt-Out Administrator  
