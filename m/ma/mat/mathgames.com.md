@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mathgames.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122161215id_/http%3A//www.mathgames.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathgames.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175709id_/http%3A//www.mathgames.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Math Games - Privacy Policy
 
-TeachMe, Inc. (TeachMe) feels strongly about protecting your privacy and not contributing to the endless volumes of spam on the Internet.
+MathGames.com (TeachMe) feels strongly about protecting your privacy and not contributing to the endless volumes of spam on the Internet.
 
 **TeachMe will not sell, trade, or assign any non-aggregated, personally identifiable personal information that it collects to third parties.**
 
