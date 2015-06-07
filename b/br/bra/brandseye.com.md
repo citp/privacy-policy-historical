@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brandseye.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217064215id_/http%3A//www.brandseye.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandseye.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607131351id_/http%3A//www.brandseye.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BrandsEye
+# Privacy Policy - BrandsEye
 
 BrandsEye respects your privacy and cares how information about you is used and shared. We appreciate your trust in this regard and assure you that we will make every reasonable effort to manage your personal information carefully, securely and sensibly. When visiting and/or interacting with the BrandsEye Site and using the Services (as defined in the BrandsEye Terms and Conditions [BrandsEye Terms and Conditions](http://www.brandseye.com/terms-and-conditions)) you are expressly consenting to the collection, collation, processing or disclosure of your personal information for the purposes and in the manner described in this Privacy Policy without qualification, so please read it carefully.
 
