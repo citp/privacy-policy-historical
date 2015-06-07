@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamhost.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231165312id_/http%3A//www.dreamhost.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamhost.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174428id_/http%3A//www.dreamhost.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – DreamHost
 
@@ -30,7 +30,7 @@ DreamHost may utilize third party platforms to provide web-based and email-based
 
 #### Whois Privacy Services
 
-Please note that the contact information that you provide to us is used to register your domain name and is, by the very nature of the domain registration system, available for public viewing in many places on the Internet via the use of the ‘whois’ tool.
+Please note that the contact information that you provide to us is used to [register your domain name](https://web.archive.org/domains) and is, by the very nature of the domain registration system, available for public viewing in many places on the Internet via the use of the ‘whois’ tool.
 
 Whois Privacy, which masks your whois contact information via proxy, as offered by DreamHost does not act as a shield from legal liability in conjunction with Domain Registration. In order to preserve neutrality in disputes between 3rd parties and domain registrants, DreamHost will act in accordance with ICANN Registrar Accreditation agreement section 3.7.7.3 upon receipt of actionable evidence of illegal activity. This means that identifying information will be provided to law enforcement and officials of the court including attorneys as situations require in order to preserve DreamHost’s neutrality in any litigation.
 
