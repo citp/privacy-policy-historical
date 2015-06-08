@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the divanaija.com.ng privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112081025id_/http%3A//www.divanaija.com.ng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divanaija.com.ng privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608175024id_/http%3A//www.divanaija.com.ng/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-**[Diva Naija](http://www.divanaija.com.ng/divorced-actress-ini-edo-never-bought-n38million-benz/) Privacy Policy for all user of this Webpage**
+**[Diva Naija](http://www.divanaija.com.ng/pdp-accuses-apc-bringing-ebola-lagos/) Privacy Policy for all user of this Webpage**
+
+Updated: 21st November, 2014
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+
+[We Use cookies, check out our Cookie Policy Pages ](http://www.divanaija.com.ng/cookie-policy/)
 
 **What information do we collect?**
 
@@ -33,10 +37,12 @@ We do not use an SSL certificate
 
 Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
+[Need more understanding about cookies, Click here](http://www.google.com/intl/en/policies/technologies/cookies/)
+
 We use cookies to:  
 • Understand and save user’s preferences for future visits.  
 • Keep track of advertisements.  
-• Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
+• Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third [party](http://www.divanaija.com.ng/we-party-too-much-in-nigeria/) services that track this information on our behalf.
 
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
 
@@ -114,8 +120,8 @@ We also agree to the individual redress principle, which requires that individua
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 divanaija.com.ng  
-[Lagos](http://www.divanaija.com.ng/man-lures-rpes-girl-charge-phone-lagos/)  
-[Nigeria](http://www.divanaija.com.ng/naija-past-future-can-center-hold-michael/)  
+[Lagos](http://www.divanaija.com.ng/akinwunmi-ambode-wins-apc-governorship-primary-lagos/)  
+[Nigeria](http://www.divanaija.com.ng/nationwide-ban-okada-goodluck-jonathan/)  
 No 16 Ademofe Ayodele Street, Lagos  
 Lagos  
 info @ divanaija.com.ng or divanaijang @ [gmail](http://www.divanaija.com.ng/www-gmail-com-gmail-registration-gmail-signup-account/).com
