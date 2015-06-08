@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marketingzen.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121093744id_/http%3A//marketingzen.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingzen.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608080725id_/http%3A//marketingzen.com/privacy-statement) for the most accurate reproduction.*
 
-# Marketing Zen – Privacy Statement
+# Privacy Statement
 
 #### This privacy notice discloses the privacy practices for www.MarketingZen.com.
 
@@ -38,4 +38,4 @@ We take precautions to protect your information. When you submit sensitive infor
 
  **While we use encryption to protect sensitive information transmitted online, we also protect your information offline.** Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
- **If you feel that we are not abiding by this privacy policy,** you should contact us immediately via telephone at 469-774-8000 or via the contact form on the site.
+ **If you feel that we are not abiding by this privacy policy,** you should contact us immediately via telephone at [1.888.460.6008](tel:1.888.460.6008) or via the contact form on the site.
