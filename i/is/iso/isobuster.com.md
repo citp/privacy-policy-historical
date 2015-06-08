@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isobuster.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120065426id_/http%3A//www.isobuster.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isobuster.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041547id_/http%3A//www.isobuster.com/privacy.php) for the most accurate reproduction.*
 
 # IsoBuster Privacy Policy - CD, DVD, Hard Disk Data Recovery Software
 
