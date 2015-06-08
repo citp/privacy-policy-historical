@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the menshealth.com.sg privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202075719id_/http%3A//www.sphmagazines.com.sg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menshealth.com.sg privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609011649id_/http%3A//www.sphmagazines.com.sg/privacy) for the most accurate reproduction.*
 
 # SPH Privacy Policy - Singapore Press Holdings
 
