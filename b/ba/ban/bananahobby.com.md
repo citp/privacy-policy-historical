@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bananahobby.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704072921id_/http%3A//www.bananahobby.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bananahobby.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608094225id_/http%3A//www.bananahobby.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Banana Hobby
 
@@ -17,22 +17,22 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google'
 
 Any of the information we collect from you may be used in one of the following ways: 
 
-; To personalize your experience   
+To personalize your experience   
 (your information helps us to better respond to your individual needs) 
 
-; To improve our website   
+To improve our website   
 (we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-; To improve customer service   
+To improve customer service   
 (your information helps us to more effectively respond to your customer service requests and support needs) 
 
-; To process transactions 
+To process transactions 
 
 Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. 
 
-; To administer a contest, promotion, survey or other site feature 
+To administer a contest, promotion, survey or other site feature 
 
-; To send periodic emails 
+To send periodic emails 
 
 The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc. 
 
@@ -64,7 +64,7 @@ As part of the California Online Privacy Protection Act, all users of our site m
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.bananahobby.com/terms_and_conditions.htm](https://web.archive.org/web/20140704072921id_/http%3A//www.bananahobby.com/terms_and_conditions.htm)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.bananahobby.com/terms_and_conditions.htm](https://web.archive.org/web/20150608094225id_/http%3A//www.bananahobby.com/terms_and_conditions.htm)
 
 **Your Consent**
 
