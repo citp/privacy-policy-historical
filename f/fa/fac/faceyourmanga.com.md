@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faceyourmanga.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117074521id_/http%3A//www.faceyourmanga.com/page.php%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faceyourmanga.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608161541id_/http%3A//www.faceyourmanga.com/page.php%3Fid%3Dprivacy) for the most accurate reproduction.*
 
 # FaceYourManga
 
