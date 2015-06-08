@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the national-accident-helpline.co.uk privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227084935id_/http%3A//www.national-accident-helpline.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the national-accident-helpline.co.uk privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608025611id_/http%3A//www.national-accident-helpline.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | National Accident Helpline
+# National Accident Helpline | Privacy Policy
 
-National Accident Helpline Limited ("NAH" or "we" or "us" or "our") are committed to protecting and respecting your privacy.
+### National Accident Helpline Limited ("NAH" or "we" or "us" or "our") are committed to protecting and respecting your privacy.
 
-This policy (together with our [terms and conditions](https://web.archive.org/terms-conditions.html "Terms & Conditions") and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting our website or using our services you are accepting and consenting to the practices described in this policy.
+This policy (together with our [terms and conditions](https://web.archive.org/terms-conditions.html "Terms & Conditions") and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting our website or using our services you are accepting and consenting to the practices described in this policy.
 
 For the purpose of the Data Protection Act 1998 (the "Act"), the data controller is NAH whose registered office is 1430 Montagu Court, Kettering Parkway, Kettering, NN15 6XR. Our registration number with the Information Commissioner's Office is Z4979903.
 
 Our nominated representative for the purpose of the Act is Jonathan White.
 
-### 1\. INFORMATION WE MAY COLLECT FROM YOU
+### 1\. Information we may collect from you
 
 1.1 You may give us information about you:
 
@@ -34,17 +34,17 @@ Our nominated representative for the purpose of the Act is Jonathan White.
 
 1.4.2 from any person, firm or corporate entity relating to your claim; and
 
-1.4.3 from other third parties who may help us to process your enquiries.
+1.4.3 from other third parties who may help us to process your enquiries
 
-### 2\. WHAT WE DO WITH YOUR INFORMATION
+### 2\. What we do with your information
 
-2.1 Provided you have given the necessary consent with National Accident Helpline, we will use your information:
+2.1 Provided you have given the necessary consent to National Accident Helpline, we will use your information:
 
-2.1.1 to provide you with the information, products and services that you request from us. In particular, we may pass on your information to one of our panel solicitor firms so they can commence work on your claim. Both we and the panel solicitor will continue to exchange information about you in order to update one another with further details about your claim (for example, any compensation you have received). We will use information provided by our panel solicitors to measure the quality of the service you receive and communicate with you. The solicitor's firm will use information about you provided by us to manage your claim and measure the quality of the service you receive;
+2.1.1 to provide you with the information, products and services that you request from us. In particular, we may pass on your information to one of our panel solicitor firms so they can commence work on your claim if you have given them the consent to access the data given to National Accident Helpline. The data that we collect about you will be stored on our database and can only be accessed by our nominated panel solicitor firm if you give them access to that database.  Both we and the panel solicitor will continue to exchange information about you in order to update one another with further details about your claim (for example, any compensation you have received). We will use information provided by our panel solicitors to measure the quality of the service you receive and communicate with you. The solicitor's firm will use information about you provided by us to manage your claim and measure the quality of the service you receive;
 
 2.1.2 to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;
 
-2.1.3 to provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you.;
+2.1.3 to provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you;
 
 2.1.4 to notify you about changes to our services;
 
@@ -54,27 +54,27 @@ Our nominated representative for the purpose of the Act is Jonathan White.
 
 2.1.7 to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you.
 
-2.2 We may share your personal information with any member of our Group.
+2.1.8 We may share your personal information with any member of our Group.
 
-2.3 We may share your information with selected third parties including:
+2.2 Provided you have given us your fully informed consent in compliance with Data Protection Act 1998, Privacy and Electronic Communications Regulations 2003 (“PECR”) and ICO guidance on Direct Marketing, we may share your information with selected third parties including:
 
-2.3.1 Our panel solicitor firms who deal with your claim, business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you;
+2.2.1 Our panel solicitor firms who deal with your claim, business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you;
 
-2.3.2 Financial institutions, banks, credit and lending companies, debt management companies, marketing agencies and any other provider of goods and services that we think may be of use to you;
+2.2.2 Financial institutions, banks, credit and lending companies, debt management companies, marketing agencies and any other provider of goods and services that we think may be of use to you;
 
-2.3.3 Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others. We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users ). We may also use such information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience].
+2.2.3 Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others. We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users ). We may also use such information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience].
 
-2.3.4 Analytics and search engine providers that assist us in the improvement and optimisation of our site; and
+2.2.4 Analytics and search engine providers that assist us in the improvement and optimisation of our site; and
 
-2.4 We may disclose your personal information:
+2.3 We may disclose your personal information:
 
-2.4.1 In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
+2.3.1 In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
 
-2.4.2 If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use [www.national-accident-helpline.co.uk/terms-conditions](https://web.archive.org/terms-conditions "Home") and other agreements; or to protect the rights, property or safety of National Accident Helpline, our Group, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection.
+2.3.2 If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use [www.national-accident-helpline.co.uk/terms-conditions](https://web.archive.org/terms-conditions "Home") and other agreements; or to protect the rights, property or safety of National Accident Helpline, our Group, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection.
 
-2.5 We will keep your information for a period of 6 years (or such longer period as we deem reasonably necessary) after which we will take reasonable steps to remove and delete your information from our records and IT systems.
+2.4 We will keep your information for a period of 6 years (or such longer period as we deem reasonably necessary) after which we will take reasonable steps to remove and delete your information from our records and IT systems.
 
-### 3\. WHERE WE STORE YOUR INFORMATION
+### 3\. Where we store your information
 
 3.1 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
@@ -82,7 +82,13 @@ Our nominated representative for the purpose of the Act is Jonathan White.
 
 3.3 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-### 4\. YOUR RIGHTS
+3.1 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+3.2 All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+
+3.3 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+### 4\. Your rights
 
 4.1 You have the right to ask us not to process your personal data for marketing purposes. We will inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by informing our contact centre staff or by clicking the unsubscribe link at the bottom of all of our marketing emails You can also exercise the right at any time by contacting us at 1430 Montagu Court, Kettering Parkway, Kettering, Northants, NN15 6XR OR email us feedback@nahl.co.uk.
 
@@ -90,29 +96,29 @@ Our nominated representative for the purpose of the Act is Jonathan White.
 
 4.3 The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
-### 5\. CHANGES TO OUR PRIVACY POLICY
+### 5\. Changes to our privacy policy
 
 Any changes we may make to our privacy policy in the future will be posted on this page Please check back frequently to see any updates or changes to our privacy policy.
 
-### 6\. CONTACT
+### 6\. Contact
 
 Questions, comments and requests regarding this privacy and cookie policy are welcomed and should be addressed to National Accident Helpline Limited of 1430 Montagu Court, Kettering
 
-Parkway, Kettering, NN15 6XR or emailed through to [feedback@nahl.co.uk](mailto:feedback@nahl.co.uk).
+Parkway, Kettering, NN15 6XR or emailed through to [feedback@nahl.co.uk](mailto:feedback@nahl.co.uk).
 
-## COOKIE POLICY
+## Cookie policy
 
-### 1\. INFORMATION ABOUT OUR USE OF COOKIES
+### 1\. Information about our use of cookies
 
 1.1 Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. By continuing to browse the site, you are agreeing to our use of cookies.
 
-1.2 A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. You block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access or use all or part of our site. For more information on cookies, their use and blocking them you may want to visit [www.aboutcookies.org](http://www.aboutcookies.org/). This link is provided for convenience only and we do not have any control over its content. We therefore make no warranties or representations as to the accuracy or completeness of any of the information appearing on that site or as to the suitability or quality of any of their products or services.
+1.2 A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. You block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access or use all or part of our site. For more information on cookies, their use and blocking them you may want to visit [www.aboutcookies.org](http://www.aboutcookies.org/). This link is provided for convenience only and we do not have any control over its content. We therefore make no warranties or representations as to the accuracy or completeness of any of the information appearing on that site or as to the suitability or quality of any of their products or services.
 
 1.3 Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon as you visit our site.
 
 1.4 We need consent from you to receive cookies. When you first visit our website, you will be notified that if you continue to browse this site without changing your settings, we will assume that you have agreed to receive all cookies from our website
 
-### 2\. LIST OF COOKIES USED ON OUR SITE
+### 2\. List of cookies used on our site
 
 Cookie Name
 
@@ -162,7 +168,7 @@ csrftoken
 
 | 
 
-1st party
+1st party
 
 | 
 
@@ -414,7 +420,7 @@ mobile_detection
 
 | 
 
-1st party
+1st party
 
 | 
 
@@ -428,7 +434,7 @@ nah_medtel
 
 | 
 
-1st party
+1st party
 
 | 
 
@@ -442,7 +448,7 @@ ysm_CK181QB1G7NDD4158K7AIH3OKVNUG
 
 | 
 
-3rd party
+3rd party
 
 | 
 
@@ -456,7 +462,7 @@ fpc10001487011762
 
 | 
 
-3rd party
+3rd party
 
 | 
 
@@ -470,7 +476,7 @@ ywadp10001487011762
 
 | 
 
-3rd party
+3rd party
 
 | 
 
@@ -484,7 +490,7 @@ SYSTEM_USER_ID
 
 | 
 
-3rd party
+3rd party
 
 | 
 
@@ -498,7 +504,7 @@ itsessionid10001487011762
 
 | 
 
-3rd party
+3rd party
 
 | 
 
@@ -512,7 +518,7 @@ itvisitorid10001487011762
 
 | 
 
-3rd party
+3rd party
 
 | 
 
@@ -526,7 +532,7 @@ _t
 
 | 
 
-3rd party
+3rd party
 
 | 
 
@@ -540,7 +546,7 @@ _rocket fuel
 
 | 
 
-3rd party
+3rd party
 
 | 
 
@@ -554,7 +560,7 @@ _adroll
 
 | 
 
-3rd party
+3rd party
 
 | 
 
@@ -564,11 +570,11 @@ _adroll
 
 Ad Roll  
   
-### 3\. COOKIES EXPLAINED
+### 3\. Cookies explained
 
 ### First party cookies
 
-3.1 These cookies are set by the website itself and allows us to link the cookie with the website user. Where we refer to "Website cookie"in the table above, these cookies areused for essential website functionality.
+3.1 These cookies are set by the website itself and allows us to link the cookie with the website user. Where we refer to "Website cookie"in the table above, these cookies are used for essential website functionality.
 
 ### Third party cookies
 
@@ -580,7 +586,7 @@ Ad Roll
 
 3.3.2 "Liveperson"- Liveperson provides the live chat software. The cookies are set so the customers can use the live chat functionality.
 
-3.3.3 "Mobile detection" - This cookie detects if the user is on a mobile device and then redirect them to a mobile friendly site.
+3.3.3 "Mobile detection" - This cookie detects if the user is on a mobile device and then redirects them to a mobile friendly site.
 
 3.3.4 "Yahoo tracking" - cookies set by Yahoo to track and analyse visitor activity
 
@@ -601,4 +607,4 @@ Alternatively, when you visit a page on a website that’s part of Rocket Fuel�
 
 ### How to disable Flash Cookies
 
-3.5 The Adobe website provides comprehensive information on how to delete or disable Flash cookies for all websites - see <http://www.adobe.com/products/flashplayer/security> for details. Please be aware that restricting the use of Flash Cookies may affect the features available to you for Flash based applications.
+3.5 The Adobe website provides comprehensive information on how to delete or disable Flash cookies for all websites - see <http://www.adobe.com/products/flashplayer/security> for details. Please be aware that restricting the use of Flash Cookies may affect the features available to you for Flash based applications.
