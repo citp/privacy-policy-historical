@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the generac.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230034650id_/http%3A//www.generac.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the generac.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608161559id_/http%3A//www.generac.com/privacy-policy) for the most accurate reproduction.*
 
 # Generac Power Systems | Privacy Policy | Generac Power Systems
 
@@ -28,15 +28,15 @@ This Statement is subject to change at the sole discretion of Generac. If we cha
 
 ## Generac Stock Ticker
 
-  * NYSE
+  * NYQ
   * GNRC
-  * $48.00
-  * 12/29/2014 4:05 PM EST
+  * $40.84
+  * 6/8/2015 11:56 AM EST
 
 
 
 ##  Copyright
 
-© 2014 Generac Power Systems, Inc. All rights reserved.
+© 2015 Generac Power Systems, Inc. All rights reserved.
 
 [](http://www.bbb.org/wisconsin/business-reviews/generators-electric/generac-power-systems-inc-in-waukesha-wi-15012025/#bbbonlineclick "Generac Power Systems, Inc. BBB Business Review")
