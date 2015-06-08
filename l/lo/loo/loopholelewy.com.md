@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loopholelewy.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201130345id_/http%3A//www.loopholelewy.com/loopholelewy/main-nav/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopholelewy.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608070156id_/http%3A//loopholelewy.com/loopholelewy/main-nav/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
