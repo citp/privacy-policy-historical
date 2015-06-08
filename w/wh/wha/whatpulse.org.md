@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatpulse.org privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124164701id_/http%3A//www.whatpulse.org/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatpulse.org privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608135334id_/http%3A//whatpulse.org/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WhatPulse
 
@@ -15,13 +15,15 @@ WhatPulse only collects information (be it via a website form or the software cl
 
 The software client collects statistics from your computer(s) as you direct it too. The types of statistics can vary and you have the ability to turn off each individual type of statistic. When you 'pulse' to our website, the software client will only send the data you have allowed it to send.
 
+The information collected with the WhatPulse client is only used for analytics as shown on the website. Information linked to your account will never be sold or handed over to a third party. Only aggregated, anonymized data may be used for global analytics by third parties, on-site advertisements or marketing purposes.
+
 _In summary,_
 
-We collect relevant information so you can participate in our website. You have complete control what statistics are gathered.
+We collect relevant information so you can participate in our website. You have complete control what statistics are gathered. We don't sell your personal information and stats.
 
 ##### Keeping Information Safe
 
-You WhatPulse account is protected by a password for your privacy and security. This password is stored encrypted. Protect against unauthorized access to your account by logging off the website once you have finished using a shared computer.
+Your WhatPulse account is protected by a password for your privacy and security. This password is stored encrypted. Protect against unauthorized access to your account by logging off the website once you have finished using a shared computer.
 
 Only WhatPulse staff who need personal information to perform a specific task (upon your request) are granted access to it. All of our employees are kept up to date on our privacy and security policies.
 
@@ -43,4 +45,4 @@ This privacy policy is effective as of 22 December, 2012.
 
 _In summary,_
 
-Effective as of December 22, 2012.
+Effective as of December 10, 2014.
