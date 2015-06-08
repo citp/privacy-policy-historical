@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarkdiary.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103173224id_/http%3A//www.bookmarkdiary.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkdiary.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609002315id_/http%3A//www.bookmarkdiary.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy › BookmarkDiary.com : Most popular website for social bookmarking | Free social bookmark submission | Generate traffic with social media marketing | Best way to increase your site backlinks and pagerank
 
