@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the caltrain.com privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120111737id_/http%3A//www.caltrain.com/about/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the caltrain.com privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608052833id_/http%3A//www.caltrain.com/about/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -124,7 +124,6 @@ ipjSubmitIronPointForm('PageletSubmission');
 	<li id="pageid14" data-pageid="14" class="ipf-parent" data-level="1"><div><a href="/riderinfo.html">Rider Information</a></div>
 	<ul>
 		<li id="pageid2096" data-pageid="2096" data-level="2"><a href="/riderinfo/howtoride.html">How to Ride</a></li>
-		<li id="pageid970" data-pageid="970" data-level="2"><a href="/riderinfo/informationguide.html">Information Guide</a></li>
 		<li id="pageid15" data-pageid="15" data-level="2"><a href="/riderinfo/Accessibility.html">Accessibility</a></li>
 		<li id="pageid31" data-pageid="31" data-level="2"><a href="/riderinfo/destinations.html">Destinations</a></li>
 		<li id="pageid32" data-pageid="32" data-level="2"><a href="/riderinfo/connections.html">Transit Connections</a></li>
@@ -154,10 +153,11 @@ ipjSubmitIronPointForm('PageletSubmission');
 		<li id="pageid255" data-pageid="255" data-level="2"><a href="/about/News_Archive.html">News Archive</a></li>
 		<li id="pageid83" data-pageid="83" data-level="2"><a href="/about/Government_Affairs.html">Government Affairs</a></li>
 		<li id="pageid3125" data-pageid="3125" data-level="2"><a href="/about/SocialMedia.html">Social Media</a></li>
+		<li id="pageid82" data-pageid="82" data-level="2"><a href="/about/doingbusiness.html">Doing Business</a></li>
+		<li id="pageid3836" data-pageid="3836" data-level="2"><a href="/about/Sustainability.html">Sustainability</a></li>
 		<li id="pageid84" data-pageid="84" data-level="2"><a href="/about/statsandreports.html">Statistics &amp; Reports</a></li>
 		<li id="pageid124" data-pageid="124" data-level="2"><a href="/about/History.html">History</a></li>
 		<li id="pageid776" data-pageid="776" data-level="2"><a href="/about/fiscalcrisis.html">Caltrain's Fiscal Crisis</a></li>
-		<li id="pageid82" data-pageid="82" data-level="2"><a href="/about/doingbusiness.html">Doing Business</a></li>
 		<li id="pageid191" data-pageid="191" data-level="2"><a href="/about/Jobs.html">Jobs</a></li>
 		<li id="pageid2802" data-pageid="2802" data-level="2"><a href="/about/PRA.html">Public Records Requests</a></li>
 		<li id="pageid181" data-pageid="181" data-level="2"><a href="/about/contact.html">Contact Us</a></li>
@@ -179,7 +179,95 @@ ipjInitUnorderedListMenuItemsActive("sectionMenuElementID_0");
     <!-- content -->
     <div id="content" class="clear">
     
-    	<div id="ticker-wrap"></div>
+    	<div id="ticker-wrap"><div id="ticker">
+<script language="JavaScript1.2">
+
+/*
+Cross browser Marquee script- © Dynamic Drive (www.dynamicdrive.com)
+For full source code, 100's more DHTML scripts, and Terms Of Use, visit http://www.dynamicdrive.com
+Credit MUST stay intact
+*/
+
+//Specify the marquee's width (in pixels)
+var marqueewidth="866px"
+//Specify the marquee's height
+var marqueeheight="12px"
+//Specify the marquee's marquee speed (larger is faster 1-10)
+var marqueespeed=2
+//configure background color:
+var marqueebgcolor="#FFFFFF"
+//Pause marquee onMousever (0=no. 1=yes)?
+var pauseit=1
+
+//Specify the marquee's content (don't delete <nobr> tag)
+//Keep all content on ONE line, and backslash any single quotations (ie: that\'s great):
+
+var marqueecontent='<nobr> Effective June 6 & 7: Caltrain will run a Bus Bridge between San Francisco, 22nd St. and Bayshore Stations. Click <a href="http://www.caltrain.com/BusBridge">HERE</a> for more info. </nobr>'
+
+
+////NO NEED TO EDIT BELOW THIS LINE////////////
+marqueespeed=(document.all)? marqueespeed : Math.max(1, marqueespeed-1) //slow speed down by 1 for NS
+var copyspeed=marqueespeed
+var pausespeed=(pauseit==0)? copyspeed: 0
+var iedom=document.all||document.getElementById
+if (iedom)
+document.write('<span id="temp" style="visibility:hidden;position:absolute;top:-100px;left:-9000px">'+marqueecontent+'</span>')
+var actualwidth=''
+var cross_marquee, ns_marquee
+
+function populate(){
+if (iedom){
+cross_marquee=document.getElementById? document.getElementById("iemarquee") : document.all.iemarquee
+cross_marquee.style.left=parseInt(marqueewidth)+8+"px"
+cross_marquee.innerHTML=marqueecontent
+actualwidth=document.all? temp.offsetWidth : document.getElementById("temp").offsetWidth
+}
+else if (document.layers){
+ns_marquee=document.ns_marquee.document.ns_marquee2
+ns_marquee.left=parseInt(marqueewidth)+8
+ns_marquee.document.write(marqueecontent)
+ns_marquee.document.close()
+actualwidth=ns_marquee.document.width
+}
+lefttime=setInterval("scrollmarquee()",20)
+}
+window.onload=populate
+
+function scrollmarquee(){
+if (iedom){
+if (parseInt(cross_marquee.style.left)>(actualwidth*(-1)+8))
+cross_marquee.style.left=parseInt(cross_marquee.style.left)-copyspeed+"px"
+else
+cross_marquee.style.left=parseInt(marqueewidth)+8+"px"
+
+}
+else if (document.layers){
+if (ns_marquee.left>(actualwidth*(-1)+8))
+ns_marquee.left-=copyspeed
+else
+ns_marquee.left=parseInt(marqueewidth)+8
+}
+}
+
+if (iedom||document.layers){
+with (document){
+document.write('<table border="0" cellspacing="0" cellpadding="0"><td>')
+if (iedom){
+write('<div style="position:relative;width:'+marqueewidth+';height:'+marqueeheight+';overflow:hidden">')
+write('<div style="position:absolute;width:'+marqueewidth+';height:'+marqueeheight+';background-color:'+marqueebgcolor+'" onMouseover="copyspeed=pausespeed" onMouseout="copyspeed=marqueespeed">')
+write('<div id="iemarquee" style="position:absolute;left:0px;top:0px"></div>')
+write('</div></div>')
+}
+else if (document.layers){
+write('<ilayer width='+marqueewidth+' height='+marqueeheight+' name="ns_marquee" bgColor='+marqueebgcolor+'>')
+write('<layer name="ns_marquee2" left=0 top=0 onMouseover="copyspeed=pausespeed" onMouseout="copyspeed=marqueespeed"></layer>')
+write('</ilayer>')
+}
+document.write('</td></table>')
+}
+}
+</script><span id="temp" style="visibility:hidden;position:absolute;top:-100px;left:-9000px"><nobr> Effective June 6 &amp; 7: Caltrain will run a Bus Bridge between San Francisco, 22nd St. and Bayshore Stations. Click <a href="http://www.caltrain.com/BusBridge">HERE</a> for more info. </nobr></span><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><div style="position:relative;width:866px;height:12px;overflow:hidden"><div style="position:absolute;width:866px;height:12px;background-color:#FFFFFF" onmouseover="copyspeed=pausespeed" onmouseout="copyspeed=marqueespeed"><div id="iemarquee" style="position: absolute; left: 847px; top: 0px;"><nobr> Effective June 6 &amp; 7: Caltrain will run a Bus Bridge between San Francisco, 22nd St. and Bayshore Stations. Click <a href="http://www.caltrain.com/BusBridge">HERE</a> for more info. </nobr></div></div></div></td></tr></tbody></table>
+</div></div>
         
         <div id="mian_content" class="clear">
     
@@ -217,7 +305,6 @@ ipjInitUnorderedListMenuItemsActive("sectionMenuElementID_0");
 	<li id="pageid14" data-pageid="14" class="ipf-parent" data-level="1"><div><a href="/riderinfo.html">Rider Information</a></div>
 	<ul>
 		<li id="pageid2096" data-pageid="2096" data-level="2"><a href="/riderinfo/howtoride.html">How to Ride</a></li>
-		<li id="pageid970" data-pageid="970" data-level="2"><a href="/riderinfo/informationguide.html">Information Guide</a></li>
 		<li id="pageid15" data-pageid="15" data-level="2"><a href="/riderinfo/Accessibility.html">Accessibility</a></li>
 		<li id="pageid31" data-pageid="31" data-level="2"><a href="/riderinfo/destinations.html">Destinations</a></li>
 		<li id="pageid32" data-pageid="32" data-level="2"><a href="/riderinfo/connections.html">Transit Connections</a></li>
@@ -247,10 +334,11 @@ ipjInitUnorderedListMenuItemsActive("sectionMenuElementID_0");
 		<li id="pageid255" data-pageid="255" data-level="2"><a href="/about/News_Archive.html">News Archive</a></li>
 		<li id="pageid83" data-pageid="83" data-level="2"><a href="/about/Government_Affairs.html">Government Affairs</a></li>
 		<li id="pageid3125" data-pageid="3125" data-level="2"><a href="/about/SocialMedia.html">Social Media</a></li>
+		<li id="pageid82" data-pageid="82" data-level="2"><a href="/about/doingbusiness.html">Doing Business</a></li>
+		<li id="pageid3836" data-pageid="3836" data-level="2"><a href="/about/Sustainability.html">Sustainability</a></li>
 		<li id="pageid84" data-pageid="84" data-level="2"><a href="/about/statsandreports.html">Statistics &amp; Reports</a></li>
 		<li id="pageid124" data-pageid="124" data-level="2"><a href="/about/History.html">History</a></li>
 		<li id="pageid776" data-pageid="776" data-level="2"><a href="/about/fiscalcrisis.html">Caltrain's Fiscal Crisis</a></li>
-		<li id="pageid82" data-pageid="82" data-level="2"><a href="/about/doingbusiness.html">Doing Business</a></li>
 		<li id="pageid191" data-pageid="191" data-level="2"><a href="/about/Jobs.html">Jobs</a></li>
 		<li id="pageid2802" data-pageid="2802" data-level="2"><a href="/about/PRA.html">Public Records Requests</a></li>
 		<li id="pageid181" data-pageid="181" data-level="2"><a href="/about/contact.html">Contact Us</a></li>
@@ -356,10 +444,14 @@ function googleTranslateElementInit() {
 </script>
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 <span style="font-size: 7pt;"><a href="/riderinfo/Translations.html">Translation Info</a></span></div>
-      	<div id="seo">Copyright ©2014 caltrain.com&nbsp; •&nbsp; <a href="/about/privacypolicy.html" title="Privacy Policy">Privacy Policy</a> &nbsp; •&nbsp; <a href="http://www.smctd.com/" title="San Mateo County Transit District" target="_blank">San Mateo County Transit District</a>&nbsp; •&nbsp; <a href="http://www.caltrain.com/SocialMedia">Social Media</a></div>
+      	<div id="seo">Copyright ©2015 caltrain.com&nbsp; •&nbsp; <a href="/about/privacypolicy.html" title="Privacy Policy">Privacy Policy</a> &nbsp; •&nbsp; <a href="http://www.smctd.com/" title="San Mateo County Transit District" target="_blank">San Mateo County Transit District</a>&nbsp; •&nbsp; <a href="http://www.caltrain.com/SocialMedia">Social Media</a></div>
   	</div>
 	<!-- /footer -->
 
+</div>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A76F0AA8">
 </div>
 <script type="text/javascript">
 <!--
@@ -368,6 +460,6 @@ ipjInitIronPointFormHandling();
 //-->
 </script>
 
-<form name="IronPointForm_Footer" method="Post" id="IronPointForm_Footer" onsubmit="ipjSubmitIronPointForm(); return false;"><input type="hidden" name="__VIEWSTATEFOOTER" id="__VIEWSTATEFOOTER" value="/wEPDwUENTM4MQ8WJB4SaXBJbmFjdGl2ZUZvbGxvd1VwZx4ERTNSNmceBTM5ODRMZx4WVklFV1NUQVRFX0xPQ0FUSU9OTElORQWdAjxzcGFuIGNsYXNzPSJpcGItbG9jYXRpb25saW5lLXNlcGFyYXRvciI+Jm5ic3A7Jmd0OyZuYnNwOzwvc3Bhbj48YSBocmVmPSIvUGFnZTQuYXNweCI+Y2FsdHJhaW4uY29tPC9hPjxzcGFuIGNsYXNzPSJpcGItbG9jYXRpb25saW5lLXNlcGFyYXRvciI+Jm5ic3A7Jmd0OyZuYnNwOzwvc3Bhbj48YSBocmVmPSIvUGFnZTc5LmFzcHgiPkFib3V0IENhbHRyYWluPC9hPjxzcGFuIGNsYXNzPSJpcGItbG9jYXRpb25saW5lLXNlcGFyYXRvciI+Jm5ic3A7Jmd0OyZuYnNwOzwvc3Bhbj5Qcml2YWN5IFBvbGljeR4OaXBBbGxvd1ByZXZpZXdnHhBpcFJldmlld0ZvbGxvd1VwZx4TVmFsaWRhdGVSZXF1ZXN0TW9kZQIBHgxpcENoaWxkTGlua3NoHglpcFBhZ2VsZXRnHghpcE1vYmlsZWgeBTNPSVJOZx4NaXBUcmFuc2xhdGlvbmgeEWlwQXJjaGl2ZUZvbGxvd1VwZx4OaXBOb25lRm9sbG93VXBnHg5pcEZvbGxvd3VwVGFza2geD2lwVW50aWxGb2xsb3dVcAK0AR4LX19JUF9QRENfSUQCSR4LX19JUF9QVkNfSUQCBBYCAgEPZBYCAhgPDxYCHhJJbml0aWFsQ29udHJvbExvYWRoZBYCZg8PFgIfEmhkZGRuyq+8SIbtr+cIq1V4l7aStjY9Yg=="></form><script type="text/javascript">ipjMoveViewstateFromFooter()</script>
+<form name="IronPointForm_Footer" method="Post" id="IronPointForm_Footer" onsubmit="ipjSubmitIronPointForm(); return false;"><input type="hidden" name="__VIEWSTATEFOOTER" id="__VIEWSTATEFOOTER" value="/wEPDwUENTM4MQ8WJB4SaXBJbmFjdGl2ZUZvbGxvd1VwZx4ERTNSNmceBTM5ODRMZx4WVklFV1NUQVRFX0xPQ0FUSU9OTElORQWdAjxzcGFuIGNsYXNzPSJpcGItbG9jYXRpb25saW5lLXNlcGFyYXRvciI+Jm5ic3A7Jmd0OyZuYnNwOzwvc3Bhbj48YSBocmVmPSIvUGFnZTQuYXNweCI+Y2FsdHJhaW4uY29tPC9hPjxzcGFuIGNsYXNzPSJpcGItbG9jYXRpb25saW5lLXNlcGFyYXRvciI+Jm5ic3A7Jmd0OyZuYnNwOzwvc3Bhbj48YSBocmVmPSIvUGFnZTc5LmFzcHgiPkFib3V0IENhbHRyYWluPC9hPjxzcGFuIGNsYXNzPSJpcGItbG9jYXRpb25saW5lLXNlcGFyYXRvciI+Jm5ic3A7Jmd0OyZuYnNwOzwvc3Bhbj5Qcml2YWN5IFBvbGljeR4OaXBBbGxvd1ByZXZpZXdnHhBpcFJldmlld0ZvbGxvd1VwZx4TVmFsaWRhdGVSZXF1ZXN0TW9kZQIBHgxpcENoaWxkTGlua3NoHglpcFBhZ2VsZXRnHghpcE1vYmlsZWgeBTNPSVJOZx4NaXBUcmFuc2xhdGlvbmgeEWlwQXJjaGl2ZUZvbGxvd1VwZx4OaXBOb25lRm9sbG93VXBnHg5pcEZvbGxvd3VwVGFza2geD2lwVW50aWxGb2xsb3dVcAK0AR4LX19JUF9QRENfSUQCTB4LX19JUF9QVkNfSUQCBBYCAgEPZBYCAhgPDxYCHhJJbml0aWFsQ29udHJvbExvYWRoZBYCZg8PFgIfEmhkZGRhuG5Frf6XOgLkW26ETmjGiqPmCg=="></form><script type="text/javascript">ipjMoveViewstateFromFooter()</script>
 
 </body></html>
