@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bcit.ca privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123163300id_/http%3A//www.bcit.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcit.ca privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608050848id_/http%3A//www.bcit.ca/privacy) for the most accurate reproduction.*
 
 # BCIT : : Privacy : : Important Privacy Information
 
 ## **BCIT and Protection of Personal Information**
 
-As a public body, BCIT complies with privacy provisions of BC's [_Freedom of Information and Protection of Privacy Act_](http://www.bclaws.ca/EPLibraries/bclaws_new/document/ID/freeside/96165_01) (RSBC 1996 ch. 165): 
+As a public body, BCIT complies with privacy provisions of BC's [_Freedom of Information and Protection of Privacy Act_ 1](http://www.bclaws.ca/EPLibraries/bclaws_new/document/ID/freeside/96165_01) (RSBC 1996 ch. 165): 
 
   * Personal information is collected directly from the individual about whom it relates 
   * Personal information is collected, used, and disclosed for purposes consistent with BCIT's program and service offerings 
@@ -15,7 +15,7 @@ As a public body, BCIT complies with privacy provisions of BC's [_Freedom of Inf
 
 
 
-You may refer to BCIT's policy [6700 Freedom of Information and Protection of Privacy](https://web.archive.org/files/pdf/policies/6700.pdf) [PDF, 168 KB], for more information.
+You may refer to BCIT's policy [6700 Freedom of Information and Protection of Privacy2](https://web.archive.org/files/pdf/policies/6700.pdf) [PDF, 168 KB], for more information.
 
 For more information about BCIT's privacy procedures you may contact:
 
@@ -46,18 +46,5 @@ Some portions of the BCIT Web site may distribute small pieces of information (c
 
 When you voluntarily send electronic mail to BCIT or complete an electronic form that includes identifying information about you, BCIT will keep a record of this information so that we can respond to you.
 
-## Update on previously reported security issue
+  
 
-(Dec. 31 2012)
-
-In June of 2012, BCIT reported a security incident that could have potentially resulted in an unauthorized third party accessing personal information of certain students, staff and faculty through a computer server associated with the Student Health Services Medical Clinic at the BCIT Burnaby Campus. To date, and to the best of our knowledge, we have not had any indication that any personal information has been compromised.
-
-To ensure the preservation of privacy standards, BCIT notified and began working with the Office of the Information and Privacy Commissioner of BC (OIPC) regarding this matter.
-
-The OIPC recently released a report which confirms the actions taken by BCIT were adequate and fulfilled the obligation to protect personal information under the Freedom of Information and Protection of Privacy Act. The following is an excerpt from the summary of the report’s findings and conclusions: 
-
-> _". . .BCIT took quick and appropriate action to contain the breach. It correctly assessed the harms that might take place if this type of information were disclosed, it notified affected individuals quickly and provided them with information required to mitigate the potential threats from this disclosure. BCIT has taken the proper steps to prevent a similar breach from occurring in the future."_
-
-For more background and detailed information on this incident please read [here.](https://web.archive.org/privacy/faq.shtml)
-
-A summary of the report from the [Office of the Information and Privacy Commissioner for B.C. ](http://www.oipc.bc.ca/)(Mediation Summary F12-01-MS) is available [here](http://www.oipc.bc.ca/report/mediation-summaries.aspx).
