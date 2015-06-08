@@ -1,67 +1,48 @@
-> *The following text is extracted and transformed from the skyneel.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109061123id_/http%3A//www.skyneel.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyneel.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608144921id_/http%3A//www.skyneel.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Knowledge always help us
 
-We are very serious about our valuable user’s privacy. We ensure that user’s personal information is not disclosed to other website or companies. On this privacy policy you see that how could we collect and use your personal information on [www.skyneel.com](http://www.skyneel.com/).  
-  
-
+We are very serious about our valuable user’s privacy. We ensure that user’s personal information is not disclosed to other website or companies. On this privacy policy you see that how could we collect and use your personal information on [www.skyneel.com](http://www.skyneel.com/).
 
 ####  Personal identification information
 
-  
-We may gather personal information of our valuable users by different sources like clicking on the contact us page, or click on our newsletters page and fill his information only your name and valid email id. We take these information to giving reply of your queries. Users may also visit skyneel.com anonymously.  
-  
-Our newsletters comes via Feedburner so, you can check Feebburner policy by clicking on this [link](http://www.google.com/privacy.html). We assure you that your personal identification information are not disclosed by us.  
-  
+We may gather personal information of our valuable users by different sources like clicking on the contact us page, or click on our newsletters page and fill his information only your name and valid email id. We take these information to giving reply of your queries. Users may also visit skyneel.com anonymously.
 
+Our newsletters comes via Feedburner so, you can check Feebburner policy by clicking on this [link](http://www.google.com/privacy.html). We assure you that your personal identification information are not disclosed by us.
 
 ####  Non-Personal identification information
 
-  
-We may gather non personal information of our valuable users when they try to connect with us by opening our page. We may collect browsing software, operating system, name of your computer and other technical information.     
-  
-
+We may gather non personal information of our valuable users when they try to connect with us by opening our page. We may collect browsing software, operating system, name of your computer and other technical information.
 
 ####  Web browser cookies
 
-  
-Skyneel.com uses browser cookies to store visitor’s information and keep track of record of visitor during visiting on our website pages. These cookies are used for improving our website and make better user experience. These cookies are used by the third party and advertising partners for displaying useful information and advertisement, but user also able to refuse these cookies by clicking on the disable cookies option in his browser.  
-  
-
+Skyneel.com uses browser cookies to store visitor’s information and keep track of record of visitor during visiting on our website pages. These cookies are used for improving our website and make better user experience. These cookies are used by the third party and advertising partners for displaying useful information and advertisement, but user also able to refuse these cookies by clicking on the disable cookies option in his browser.
 
 ####  How we use collected information
 
-  
-Skyneel.com may collect and uses our valuable user’s personal information for the following purposes:  
-  
+Skyneel.com may collect and uses our valuable user’s personal information for the following purposes:
+
 • To solving different queries of our valuable users or visitors.  
 • To make better user experience how they effetely uses these information.  
 • To improve our website, we always ready to accept your valuable suggestions.  
-• To send newsletters email via feed burner for those users who subscribe us, it include new posts and updates. If you want then you can easily un-subscribe theses newsletters by clicking on the Un-Subscribe link which is placed on the bottom of page.   
-  
-
+• To send newsletters email via feed burner for those users who subscribe us, it include new posts and updates. If you want then you can easily un-subscribe theses newsletters by clicking on the Un-Subscribe link which is placed on the bottom of page. 
 
 ####  Third party websites
 
-  
-When visitors or users are surfing on Skyneel.com they get links of others website of our advertisers, sponsors and third parties. These sites have its own terms and policies for the users and if any visitors browsing on these websites by clicking on the links then it is subjected to third party website policies. Skyneel.com don’t have any kind of control on these website policies.  
-  
-
+When visitors or users are surfing on Skyneel.com they get links of others website of our advertisers, sponsors and third parties. These sites have its own terms and policies for the users and if any visitors browsing on these websites by clicking on the links then it is subjected to third party website policies. Skyneel.com don’t have any kind of control on these website policies.
 
 ####  Google Adsense
 
-  
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>  
-  
-
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
 ####  Changes to this privacy policy
 
-  
 Skyneel has the discretion to update this privacy policy at any time without any notice. When we do this job, we will revise the updated date at the bottom of this page.
 
-If you have any query regarding our privacy policy then you can directly deal with us on our website [www.skyneel.com](http://www.skyneel.com/) or write us on admin@skyneel.com for any clarification.
+####  Contacting us
 
-This document was last updated on October 5, 2014  
-  
-© 2012-2014 by skyneel.com. All rights reserved
+If you have any query regarding our privacy policy then you can directly deal with us on our website [www.skyneel.com](http://www.skyneel.com/) or write us on admin@skyneel.com for any clarification.
+
+This document was last updated on Jan 8, 2015
+
+© 2012-2015 by skyneel.com. All rights reserved
