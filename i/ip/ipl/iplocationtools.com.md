@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iplocationtools.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121012043id_/http%3A//www.iplocationtools.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iplocationtools.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608121411id_/http%3A//www.iplocationtools.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | IPLocationTools.com
 
@@ -158,3 +158,5 @@
     
 
 | 
+
+[](http://www.ip2location.com/?utm_source=hexasoft&utm_medium=banner&utm_term=iplocationtools&utm_content=skyscraper&utm_campaign=hexasoft%20banner)
