@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icanbuildablog.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207203012id_/http%3A//icanbuildablog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icanbuildablog.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608095009id_/http%3A//icanbuildablog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | I Can Build a Blog | Free Tips and Tutorials for Blogger and Wordpress
+# Privacy Policy - I Can Build a Blog
 
 **Privacy Policy for www.icanbuildablog.com**
 
