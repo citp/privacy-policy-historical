@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the photos.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120044955id_/http%3A//www.photos.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photos.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609000233id_/http%3A//www.photos.com/privacy.html) for the most accurate reproduction.*
 
-# Photos.com: Posters, Art Prints, Framed Art and Wall Art
+# Privacy Policy - Photos.com
 
 ## PHOTOS.COM PRIVACY POLICY
 
