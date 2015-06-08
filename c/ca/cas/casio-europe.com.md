@@ -1,34 +1,39 @@
-> *The following text is extracted and transformed from the casio-europe.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620132043id_/http%3A//world.casio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casio-europe.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041526id_/http%3A//www.casio-europe.com/euro/corporate/imprint/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - CASIO
+# Privacy Policy - Imprint - Corporate - CASIO
 
-## CASIO COMPUTER CO., LTD. Personal Data Protection Policy
+## Privacy Policy
 
-We at CASIO COMPUTER CO., LTD. ("CASIO") are firmly committed to respecting the online privacy of the visitors to our Website ("Users"), and to do our utmost to provide adequate protection and management of Personal Information.  
-CASIO does not collect Personal Information on Users who simply access the CASIO Website, and most services of the CASIO website can be accessed without divulging any Personal Information. However, certain services provided from the CASIO Website require that Users provide certain Personal Information before they can be accessed.  
-The following defines that CASIO Online Privacy Policy, which is strictly enforced for all CASIO officials and employees who handle Personal Information on our Web servers.
+### Data protection declaration
 
-### CASIO Online Privacy Policy
+#### 1\. Dealing with personal information
 
-  * 1.
-    CASIO employs a department chief-level manager whose job it is to take responsibility for the proper handling of Personal Information.
-  * 2.
-    CASIO maintains corporate regulations and implements reasonable security measures to protect against the risk of unauthorized access, loss, or alteration, of personal information, or leaking of Personal Information to third parties.
-  * 3.
-    Except in the following cases, CASIO pledges not to divulge Personal Information to third parties.
-    
-    * When permission to divulge Personal Information is granted by the User.
-    * When revelation of Personal Information is required by law.
-    * When the User requires a service whose subcontracted provider requires Personal Information about the User.  
-In this case, CASIO shall establish a contractual obligation with the subcontracted provider in order to ensure an adequate level of Personal Information security that conforms to this CASIO Online Privacy Policy.
-    * When processing statistical information (such as gender, age, etc.), that does not divulge any particular Personal Information about individual Users.
-  * 4.
-    Users have the right to access and modify Personal Information maintained by CASIO at any time. To do so, a User should use one of the forms provided at the CASIO Website, or contact the applicable CASIO customer service representative.
-  * 5.
-    CASIO constantly reviews and revises its existing Online Privacy Policy in order to ensure compliance with laws and other regulations that cover the protection of Personal Information, and to ensure the highest level of security possible.
+CASIO Europe GmbH will only collect and process statistically-anonymous access figures from the web space provider, and this will not include any personal user information. The statistical access figures include, for example, the web sites that are accessed most frequently, as well as the previous page used to access the web site (e.g. via a search engine). 
 
+CASIO uses pixels and transparent GIF files to support online advertising. These files enable CASIO to track which adverts are used to access the particular Internet pages. The information which is produced and used in this way cannot be used to identify any specific individual - it does not contain any details of names, e-mail addresses, residential addresses or telephone numbers. 
 
+This statistical data is not related back to individual people, and is processed on a purely anonymous basis. It should be noted, however, that all Internet users leave traces when visiting web sites, and that these traces could be used at a later date for identification purposes, for instance by using the IP address. 
 
-Use of Cookies
+No other personal information will be stored without your permission. You alone decide whether you wish to disclose your personal information to CASIO, for instance as part of a survey or whilst entering a competition. All information that is collected in this manner is handled in complete confidence, and is not disclosed to any third party without permission. It will only be stored while it is being used to carry out specific services that are provided, and will then be fully erased. This information will not be passed to third parties for advertising purposes unless you have given specific permission for this to be done. Permission can be withdrawn, and can be given electronically at any time, as long as this is a clear and conscious act on your part. Your compliance will be recorded by us, and you can access the contents of this compliance at any time. 
 
-Some of the services offered by the CASIO Website use "cookies" to track visits. A "cookie" is data that identifies a User computer to CASIO. The CASIO web server will not be able to identify you unless you provide us with your Personal Information. Agreement by you to accept the cookies used by our site will enable our web server to identify your computer by reading the cookie we store on your computer. Cookies that are place on your computer when you visit our site cannot be used by another site to obtain your Personal Information. Users can configure their browser settings to disable the use of cookies, but doing so can restrict the use of certain services that are available through the CASIO Website.
+All information given during product registration is evaluated on an anonymous basis, as this relates solely to improving products and their characteristics. 
+
+Personal data relating to company employees will only be published with the explicit permission of those affected. 
+
+#### 2\. Cookies
+
+Some web services provided by CASIO use cookies to measure the number of visitors. 
+
+A cookie is a small file that is placed on the user's hard drive. It stores information about a visit to a particular website so that it can identify repeated visits. The information can only be read by the website that created the cookie. In the case of www.casio-europe.com, this also includes CASIO Europe GmbH. Personal information about the user is not stored. 
+
+You can configure your browser settings so that cookies are not accepted - this will affect technical programming, however, and may mean that you are unable to use certain offers and web services on Internet sites provided by CASIO. You can also delete cookies yourself at any time by following the relevant instructions provided by your browser software. 
+
+Personal information is also collected from competition entries and when orders are placed etc. CASIO Europe GmbH will also handle this information in accordance with the legal regulations for data protection. Information will only be processed for advertising purposes in compliance with the legal regulations. Details can be found in the relevant conditions of entry or purchase. 
+
+#### 3\. Right of disclosure
+
+In accordance with the current law, if requested to do so, CASIO will notify you in writing and free of charge whether we are storing any personal information about you, and what this information consists of. 
+
+#### 4\. Google Analytics
+
+This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. In case of activation of the IP anonymization, Google will truncate/anonymize the last octet of the IP address for Member States of the European Union as well as for other parties to the Agreement on the European Economic Area. Only in exceptional cases, the full IP address is sent to and shortened by Google servers in the USA. On behalf of the website provider Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage to the website provider. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser. However, please note that if you do this, you may not be able to use the full functionality of this website. Furthermore you can prevent Google’s collection and use of data (cookies and IP address) by downloading and installing the browser plug-in available under [https://tools.google.com/dlpage/gaoptout?hl=en-GB.](https://tools.google.com/dlpage/gaoptout?hl=en-GB)
