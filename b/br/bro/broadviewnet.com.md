@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadviewnet.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223213125id_/http%3A//corporate.broadviewnet.com/Terms_conditions/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadviewnet.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609004928id_/http%3A//corporate.broadviewnet.com/Terms_conditions/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Broadview Networks Privacy Policy
 
