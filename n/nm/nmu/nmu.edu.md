@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nmu.edu privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525060259id_/http%3A//www.nmu.edu/communicationsandmarketing/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmu.edu privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041307id_/http%3A//www.nmu.edu/communicationsandmarketing/PrivacyStatement) for the most accurate reproduction.*
 
-# Web Site Privacy Statement | NMU Communications and Marketing
+# Web Site Privacy Statement | NMU Identity, Brand and Marketing Department
 
 ## Web Site Privacy Statement
 
