@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vapingcheap.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124040140id_/http%3A//vapingcheap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vapingcheap.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608114712id_/http%3A//vapingcheap.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Best Vape Deals - E-Cig deals, Vaping Supplies, & Discount Coupons
+# Privacy Policy - Daily Deals & Coupons for Vape Mods, e-Juice, & Vaping Supplies
 
 If you have any questions about our Vaping Cheap’s privacy policy feel free to [contact us](http://vapingcheap.com/contact/ "Contact").
 
