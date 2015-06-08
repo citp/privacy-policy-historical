@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punjabiportal.com privacy policy that was archived on 2014-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140726031226id_/http%3A//www.punjabiportal.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punjabiportal.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608023638id_/http%3A//www.punjabiportal.com/privacy_policy.html) for the most accurate reproduction.*
 
 # www.punjabiportal.com Google Search Results Page
 
