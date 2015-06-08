@@ -1,31 +1,23 @@
-> *The following text is extracted and transformed from the patriotmemory.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122194351id_/http%3A//www.patriotmemory.com/company/index.jsp%3Floc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patriotmemory.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608121336id_/http%3A//www.patriotmemory.com/company/index.jsp%3Floc%3Dprivacy) for the most accurate reproduction.*
 
 # 
 
-To be the vendor of choice for the computer and consumer electronic industries with a commitment to service and quality. Commitment, focus on innovation in technology, product quality, and customer satisfaction are the key enablers of our future success. Established in 1985, Patriot Memory builds a full range of memory module and flash memory products, offering a perfect blend of quality and value. Patriot products include Extreme Performance (EP), Signature Lines (SL) and Flash Memory solutions (FM). 
+To be the brand of choice for the computer and consumer electronic industries with a commitment to quality and customer service. Commitment, focus on innovation in technology, product quality, and customer satisfaction are the key enablers of our future success. Founded in 1985, Patriot designs, manufactures and markets high performance, enthusiast memory modules, flash memory, and mobile accessory products with the objective of offering a perfect blend of quality and value for consumers. 
 
 47027 Benicia Street  
 Fremont, CA 94538  
 Phone: (510) 979-1021  
 Fax: (510) 979-1564.
 
-Patriot has sales offices located throughout the U.S. and Asia.  Patriot sells through the distribution channels throughout North America, Europe, Asia Pacific, Middle East, Africa, and Latin America. 
+Patriot has sales offices located throughout the U.S. and Asia. Patriot sells through the distribution channels throughout North America, Europe, Asia Pacific, Middle East, Africa, and Latin America. 
 
-We understand the value of designing and responding quickly and intelligently to the rapid changes inherent in the memory module industry.  This commitment to R&D enables us to deliver the best quality memory modules powered by the latest innovative technology. 
-
-To meet the growing global demand for its products, Patriot manufactures its Extreme Performance (EP), Dual Channel (DC) and Signature Line (SL) products in it own state-of-the-art manufacturing facility with highly skilled staff in Fremont, California USA and Taipei, Taiwan.
-
-Patriot is a member of JEDEC.  You can feel confident that your Patriot modules are of the highest quality available. 
-
-Patriot's development and manufacturing facility are located in Fremont, California USA and Taipei, Taiwan.  Our manufacturing segment is composed of a highly skilled production staff and multiple production lines optimized for modules, giving Patriot the ability and resources necessary to provide a full line of memory module solutions. 
-
-Patriot Memory ensures that every module meets or exceeds industry standards.  The manufacturing process begins with high-quality components and ends with rigorous functional testing to ensure each module's reliability and compatibility.
-
-Patriot Memory modules are approved by leading motherboard and system manufacturers such Intel, Tyan, Supermicro and Iwill. Patriot Memory is a member of Apple Developer Connection. Awards from such leading product review sites as XBit Labs, Anandtech, Tom's Hardware and Hot Hardware.com demonstrate Patriot EP and DC+XBLK memory modules set the standard for performance and reliability.
+Patriot prides itself on developing new products that offers a style that's sleek, modern and functional. This holds true for our high-performance memory modules, USB Flash memory and mobile accessories line. 
 
 Patriot's goal is to be your memory solutions provider with high quality products and services that are value priced. With our courteous and knowledgeable sales and technical support staff, industry leading warranty terms, and customizable logistic services; we feel there is no requirement we can not satisfy.
 
 For customer support information, please click on [Contact Us](https://web.archive.org/support/indexp.jsp). 
+
+We ensure that every product meets or exceeds our highest level of standards. For memory that process begins with using high-quality components and ends with rigorous functional testing to ensure each module's reliable and compatible. This also applies to our Flash memory line and mobile accessories, where stringent tests are conducted to ensure the quality of the product is not compromised. These tests include real world stress tests, drop tests and over charge test 
 
 Patriot Memory  
 47027 Benicia Street  
@@ -64,18 +56,6 @@ We do not currently have any open positions at Patriot Memory. Please check back
 If you have any questions regarding employment with Patriot Memory, please e-mail [careers@patriotmem.com](mailto:careers@patriotmem.com).
 
 Patriot Memory is an equal opportunity employer.
-
-Patriot's FUEL+ Mobile Rechargeable Battery to power re-charging station at O.co Coliseum for Oakland A's fans in need of charge
-
-Fremont, California, USA, August 20, 2013 – Patriot Memory, a global pioneer in high-performance memory, NAND flash, storage, accessories and enthusiast computer products today announces a new marketing partnership with the Oakland Athletics. As smartphones and tablets have become an essential part of everyday life—as well as fan favorites for checking sports stats and fantasy teams at the ball field—keeping devices powered up has become more and more of a challenge. For A's fans looking to power up their favorite mobile devices to stay on top of their game, Patriot will feature their new faster charging 2.5A FUEL+ mobile rechargeable batteries at a charging station at the O.co Coliseum during select games during the remainder of the season. Provided as a free service, fans are invited to come plug in at the charging station to grab some extra juice for their mobile phone or tablet using Patriot’s FUEL+ batteries. In addition, Patriot will be providing FUEL+ units for guests on the A's pre- and post-game radio shows to fuel up everyone’s favorite Oakland A's sports players and personalities.
-
-"We're thrilled to be partnering with the Oakland A's and to be providing a service to their great fans," said JR Wakabayashi, Global Marketing Manager for Patriot.  "The Fuel+ offers the perfect solution for people on the go in need of power and we can’t think of a better place to demonstrate the speed, portability, ease of use and performance of the FUEL + than at the ballgame when you need and want it most."
-
-"The A's are committed to providing the best possible in-stadium experience for our fans, and this partnership is another example of that commitment," said Ken Pries, vice president of communications and broadcasting for the A's. "We understand our fans' desire to stay connected, and the FUEL + will ensure our fans maintain those connections without missing any of the action on the field."
-
-About FUEL +
-
-Take it, Charge it, Fuel Up. Perfect for anyone on-the-go, Patriot’s FUEL+ mobile rechargeable batteries are the best and most reliable solutions to ensure you will always have power for your mobile devices when you need it. Ranging in size from 1500mAh up-to 9000mAh, The FUEL+ product family features a full line of battery sizes to fit the needs of any mobile user. To safeguard against under-discharge, over-charge, and short-circuit, FUEL+ comes with built-in protection to ensure efficient and safe charging cycles. The FUEL+ also features power pass through technology that enables the battery to be charged when plugged in to a USB or wall outlet, while charging devices. Always have peace of mind when you are mobile, stay charged with FUEL+.
 
 Environmental conservation has always been at the forefront of Patriot Memory's intrinsic values, and we pride ourselves in our commitment to reduce our carbon footprint. Being recognized as a Bay Area Green Business further validates that the green initiatives we've implemented are accomplishing that goal.
 
@@ -145,4 +125,4 @@ In no way will Patriot Memory change your personal information. You are the only
 
 Patriot Memory reserves the right to update this Privacy Policy at any time. In the event the Privacy Policy is amended, updated or materially changed, we will give notice of this fact in a manner which is easily accessible and clearly apparent to both visitors and members. We will implement our Privacy Policy in such a way so as to never compromise your trust or your privacy. However, we must reserve the right to make changes which address issues that may arise in the future.
 
-For questions or concerns please send an email to (list an e-mail address you want) 
+For questions or concerns please send an email [here](mailto:support@patriotmem.com?Subject=Patriot%20Support). 
