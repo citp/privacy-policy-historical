@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awareness-time.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230185238id_/http%3A//awareness-time.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awareness-time.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608193617id_/http%3A//awareness-time.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Awareness
 
