@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutrition-and-you.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230031138id_/http%3A//www.nutrition-and-you.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutrition-and-you.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608022036id_/http%3A//www.nutrition-and-you.com/privacy-policy.html) for the most accurate reproduction.*
 
 # www.nutrition-and-you.com Privacy Policy
 
@@ -93,13 +93,4 @@ Your use of this site indicates acceptance of this privacy policy. We recognize 
 [Nutrition-and-you.com](http://www.nutrition-and-you.com/index.html) strives to maintain the highest standards of decency, fairness, and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website.
 
   
-**Share this page:  **  
 
-
-What's This?
-
-| | | |   
----|---|---|---|---  
-| | |   
-  
-Enjoy this page? Please pay it forward. Here's how...
