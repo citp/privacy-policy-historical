@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mountainsidebride.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119225658id_/http%3A//mountainsidebride.com/privacy-policy-3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountainsidebride.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608071257id_/http%3A//mountainsidebride.com/privacy-policy-3) for the most accurate reproduction.*
 
 # Privacy Policy
 
