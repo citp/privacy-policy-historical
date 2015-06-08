@@ -1,52 +1,6 @@
-> *The following text is extracted and transformed from the artfido.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121044459id_/http%3A//www.artfido.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artfido.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609004515id_/http%3A//www.artfido.com/privacy-policy.php) for the most accurate reproduction.*
 
 # artFido | fetching art | Privacy Policy
-
-## search art listings by...
-
-  * [Popular](http://www.artfido.com/popular-art)
-  * [All](http://www.artfido.com/listing-search.php?submit=Submit+Query&sortByType=timeListed&page=1)
-  * Subject 
-  * Style 
-  * Medium 
-    * [Acrylic](http://www.artfido.com/listing-search.php?medium=Acrylic "Acrylic")
-    * [Ceramics](http://www.artfido.com/listing-search.php?medium=Ceramics "Ceramics")
-    * [Charcoal](http://www.artfido.com/listing-search.php?medium=Charcoal "Charcoal")
-    * [Drawing](http://www.artfido.com/listing-search.php?medium=Drawing "Drawing")
-    * [Lithographs, Etchings](http://www.artfido.com/listing-search.php?medium=Lithographs%2C+Etchings "Lithographs, Etchings")
-    * [Mixed Media](http://www.artfido.com/listing-search.php?medium=Mixed+Media "Mixed Media")
-    * [Ochre](http://www.artfido.com/listing-search.php?medium=Ochre "Ochre")
-    * [Oil](http://www.artfido.com/listing-search.php?medium=Oil "Oil")
-    * [Other](http://www.artfido.com/listing-search.php?medium=Other "Other")
-    * [Pencil, Pen, Ink](http://www.artfido.com/listing-search.php?medium=Pencil%2C+Pen%2C+Ink "Pencil, Pen, Ink")
-    * [Photography](http://www.artfido.com/listing-search.php?medium=Photography "Photography")
-    * [Prints, Posters](http://www.artfido.com/listing-search.php?medium=Prints%2C+Posters "Prints, Posters")
-    * [Sculpture, Installation](http://www.artfido.com/listing-search.php?medium=Sculpture%2C+Installation "Sculpture, Installation")
-    * [Textile](http://www.artfido.com/listing-search.php?medium=Textile "Textile")
-    * [Time-Based Art (Film, Video, Digital)](http://www.artfido.com/listing-search.php?medium=Time-Based+Art+%28Film%2C+Video%2C+Digital%29 "Time-Based Art \(Film, Video, Digital\)")
-    * [Water Colour](http://www.artfido.com/listing-search.php?medium=Water+Colour "Water Colour")
-  * Size 
-    * [Under 2 feet (Under 60cm)](http://www.artfido.com/listing-search.php?size=Under+60cm+%28Under+2+feet%29 "Under 60cm \(Under 2 feet\)")
-    * [2 to 3 feet (60cm to 90cm)](http://www.artfido.com/listing-search.php?size=60cm+to+90cm+%282+to+3+feet%29 "60cm to 90cm \(2 to 3 feet\)")
-    * [3 to 4 feet (90cm to 120cm)](http://www.artfido.com/listing-search.php?size=90cm+to+120cm+%283+to+4+feet%29 "90cm to 120cm \(3 to 4 feet\)")
-    * [4 to 5 feet (120cm to 150cm)](http://www.artfido.com/listing-search.php?size=120cm+to+150cm+%284+to+5+feet%29 "120cm to 150cm \(4 to 5 feet\)")
-    * [Over 5 feet (over 150cm)](http://www.artfido.com/listing-search.php?size=Over+150cm+%28over+5+feet%29 "Over 150cm \(over 5 feet\)")
-  * Color 
-  * Price 
-    * [ Art under $250 ](http://www.artfido.com/listing-search.php?price_low=0&price_high=250 "priceDetails")
-    * [ $250 to $500 ](http://www.artfido.com/listing-search.php?price_low=251&price_high=500 "priceDetails")
-    * [ $500 to $1000 ](http://www.artfido.com/listing-search.php?price_low=501&price_high=1000 "priceDetails")
-    * [ $1,000 to $2,000 ](http://www.artfido.com/listing-search.php?price_low=1001&price_high=2000 "priceDetails")
-    * [ $2,000 to $4,000 ](http://www.artfido.com/listing-search.php?price_low=2001&price_high=4000 "priceDetails")
-    * [ $4,000 to $7,500 ](http://www.artfido.com/listing-search.php?price_low=4001&price_high=7500 "priceDetails")
-    * [ $7,500 to $15,000 ](http://www.artfido.com/listing-search.php?price_low=7501&price_high=15000 "priceDetails")
-    * [ $15,000 to $30,000 ](http://www.artfido.com/listing-search.php?price_low=15001&price_high=30000 "priceDetails")
-    * [ $30,000 to $50,000 ](http://www.artfido.com/listing-search.php?price_low=30001&price_high=50001 "priceDetails")
-    * [ $50,000+ ](http://www.artfido.com/listing-search.php?price_low=50001&price_high=999999999 "priceDetails")
-  * [Artist](http://www.artfido.com/artist-list.php?view=country)
-  * [Gallery](http://www.artfido.com/gallery-list.php)
-
-
 
 A | 
 
@@ -113,7 +67,7 @@ B |
     * the National Privacy Principles.
   * However, given artFido's size and business, the National Privacy Principles didn't cover us.
   * But that wasn't good enough for Us. To show how committed We are to protecting Your privacy rights, We successfully applied to 'opt-in' to the National Privacy Principles scheme. We didn't have to, but We wanted to, because Your privacy is just as important to Us as it is to You. 
-    * You can access the Assistant Privacy Commissioner's acceptance letter addressed to artFido [here](https://web.archive.org/web/20141121044459id_/http%3A//www.artfido.com/privacy%20letter.jpg).
+    * You can access the Assistant Privacy Commissioner's acceptance letter addressed to artFido [here](https://web.archive.org/web/20150609004515id_/http%3A//www.artfido.com/privacy%20letter.jpg).
   * The 'opt-in' register includes a list of all the businesses like Us who have willingly chosen to be covered by the National Privacy Principles. 
     * You can access the register here [www.oaic.gov.au/privacy-portal/resources_privacy/optin-register.html#a](http://www.oaic.gov.au/privacy-portal/resources_privacy/optin-register.html#a).
 
