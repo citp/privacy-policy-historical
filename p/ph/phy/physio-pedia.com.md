@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the physio-pedia.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204030618id_/http%3A//www.physio-pedia.com/Physiopedia%3APrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physio-pedia.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608051237id_/http%3A//www.physio-pedia.com/Physiopedia%3APrivacy_Policy) for the most accurate reproduction.*
 
 # Physiopedia:Privacy Policy - Physiopedia, universal access to physiotherapy knowledge.
 
@@ -202,8 +202,8 @@ Physiopedia complies with the same laws and processes that all lawful companies 
 
 Physiopedia does not provide medical advice, diagnosis or treatment. 
 
-## The Movement System
+## Evidence Based Practice
 
-Learn about the movement system with Shirley Sarhmann & Mark Comerford in this month's members learn topic.
+Learn about Evidence Based Practice in this month's members learn topic with book chapters from Practical Evidence-Based Physiotherapy 2012 & Evidence-Based Practice Across the Health Professions 2013
 
 [Become a member](http://bit.ly/1lk5jHE)
