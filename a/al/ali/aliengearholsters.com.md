@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aliengearholsters.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227101352id_/http%3A//aliengearholsters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aliengearholsters.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608045516id_/http%3A//aliengearholsters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,4 +20,4 @@ You can set preferences for how Google advertises to you using the [Google Ad P
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
-[ ](http://aliengearholsters.com/alien-gear-gift-card.html/)
+[ ](http://aliengearholsters.com/holsters/alien-gear-products.html/)
