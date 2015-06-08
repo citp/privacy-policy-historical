@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dukandiet.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122221025id_/http%3A//www.dukandiet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dukandiet.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608114613id_/http%3A//www.dukandiet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -142,4 +142,4 @@ We urge all parents or guardians to participate in their children's exploration 
 
 You should also be aware that when Personally Identifiable Information is voluntarily disclosed (i.e. your name, e-mail address, etc.) in the discussion forums or other public areas on this site, that information, along with any information disclosed in your communication, can be collected and used by third parties and may result in unsolicited messages from third parties. Such activities are beyond our control and this Policy does not apply to such information. Any submissions to chat rooms or other public areas on this site are accepted with the understanding that they are accessible to all third parties. If you do not want your comments to be viewed by third parties, you are advised not to make any submissions. Ultimately, you are solely responsible for maintaining the secrecy of your password and/or account information. Please be careful and responsible whenever you are online.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us by sending a letter to: Diet Coaching Inc., 915 Broadway, Suite 1001, New York, NY 10010.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us by sending a letter to: Diet Coaching Inc., 920 Broadway, Suite 1001, New York, NY 10010.
