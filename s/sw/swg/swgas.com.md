@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swgas.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227072943id_/http%3A//www.swgas.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swgas.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608160604id_/http%3A//www.swgas.com/about/privacy.php) for the most accurate reproduction.*
 
 # Southwest Gas -
 
