@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mattamyhomes.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209141631id_/http%3A//www.mattamyhomes.com/Privacy-Policy%3FCountry%3DUS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mattamyhomes.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608223331id_/http%3A//www.mattamyhomes.com/Privacy-Policy%3FCountry%3DCA) for the most accurate reproduction.*
 
 # Mattamy Homes Privacy Policy
 
@@ -123,7 +123,7 @@ Controls on Releasing Employee Personal Information
 Mattamy has a strict policy of not releasing personal information about its employees without their consent other than:
 
   * Information necessary for authorized service providers to perform employment-related tasks (such as payroll and benefits administration).
-  * Information the company is required to disclose by law (e.g. subpoena or court order).
+  * Information the company is required to disclose by law (e.g. a subpoena or court order).
 
 
 
@@ -134,16 +134,6 @@ Employees’ personal information is secure within the Payroll and Human Resourc
 Options Available to Employees Regarding Their Personal Information 
 
 Employees’ may choose not to provide the company with some or all of their personal information. Employees may also withdraw their consent to the company’s use of their personal information. Where legal requirements permit, the company will cease the use or disclosure of employee personal information. However, depending on the circumstances this may lead to an inability to provide the employee with an employment-related service or to continue with the employment relationship.
-
-Equal Housing Opportunity 
-
-All information provided by Mattamy Homes is subject to the Federal Fair Housing Act, which makes it illegal to advertise:
-
-“any preference, limitation, or discrimination because of race or color, national origin, religion, gender, familial status or handicap, or an intention to make any such preference, limitation, or discrimination.”
-
-Please note your state or local jurisdiction may impose additional requirements that may add prohibitions against discrimination based on age, parental status, sexual orientation, political ideology, financial status, and the like.
-
-Furthermore, Mattamy Homes is pledged to the letter and spirit of the United States policy for the achievement of equal housing opportunity throughout the nation.
 
 In Summary 
 
