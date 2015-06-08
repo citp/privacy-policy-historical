@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the yogajournal.com privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120133313id_/http%3A//www.yogajournal.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yogajournal.com privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608121702id_/http%3A//www.yogajournal.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
-	<meta charset="UTF-8"><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQIBUVZaGwcAV1hVBgU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+<!DOCTYPE html><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><!--<![endif]--><head>
+	<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="//cdn.yldbt.com/js/yieldbot.intent.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQIBUVZaGwcAV1hVBgU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
 
 	<title>Privacy Policy | Yoga Journal</title>
 
@@ -14,20 +14,20 @@
 	<link rel="alternate" type="application/rss+xml" title="Yoga Journal Feed" href="http://www.yogajournal.com/feed/">
 
 	<!--  iPhone Web App Home Screen Icon -->
-	<link rel="apple-touch-icon" sizes="72x72" href="http://d3v7xustcq7358.cloudfront.net/wp-content/themes/reverie-master/img/devices/reverie-icon-ipad.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="http://d3v7xustcq7358.cloudfront.net/wp-content/themes/reverie-master/img/devices/reverie-icon-retina.png">
-	<link rel="apple-touch-icon" href="http://d3v7xustcq7358.cloudfront.net/wp-content/themes/reverie-master/img/devices/reverie-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="http://media.yogajournal.com/wp-content/themes/reverie-master/img/devices/reverie-icon-ipad.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="http://media.yogajournal.com/wp-content/themes/reverie-master/img/devices/reverie-icon-retina.png">
+	<link rel="apple-touch-icon" href="http://media.yogajournal.com/wp-content/themes/reverie-master/img/devices/reverie-icon.png">
 
 	<!-- Enable Startup Image for iOS Home Screen Web App -->
 	<meta name="apple-mobile-web-app-capable" content="yes">
-	<link rel="apple-touch-startup-image" href="http://d3v7xustcq7358.cloudfront.net/wp-content/themes/reverie-master/mobile-load.png">
+	<link rel="apple-touch-startup-image" href="http://media.yogajournal.com/wp-content/themes/reverie-master/mobile-load.png">
 
 	<!-- Startup Image iPad Landscape (748x1024) -->
-	<link rel="apple-touch-startup-image" href="http://d3v7xustcq7358.cloudfront.net/wp-content/themes/reverie-master/img/devices/reverie-load-ipad-landscape.png" media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape)">
+	<link rel="apple-touch-startup-image" href="http://media.yogajournal.com/wp-content/themes/reverie-master/img/devices/reverie-load-ipad-landscape.png" media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape)">
 	<!-- Startup Image iPad Portrait (768x1004) -->
-	<link rel="apple-touch-startup-image" href="http://d3v7xustcq7358.cloudfront.net/wp-content/themes/reverie-master/img/devices/reverie-load-ipad-portrait.png" media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)">
+	<link rel="apple-touch-startup-image" href="http://media.yogajournal.com/wp-content/themes/reverie-master/img/devices/reverie-load-ipad-portrait.png" media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)">
 	<!-- Startup Image iPhone (320x460) -->
-	<link rel="apple-touch-startup-image" href="http://d3v7xustcq7358.cloudfront.net/wp-content/themes/reverie-master/img/devices/reverie-load.png" media="screen and (max-device-width: 320px)">
+	<link rel="apple-touch-startup-image" href="http://media.yogajournal.com/wp-content/themes/reverie-master/img/devices/reverie-load.png" media="screen and (max-device-width: 320px)">
 
 	
 
@@ -40,6 +40,7 @@
 <meta property="og:url" content="http://www.yogajournal.com/privacy-policy/">
 <meta property="og:site_name" content="Yoga Journal">
 <meta property="article:published_time" content="2014-05-28T19:12:32+00:00">
+<meta property="fb:app_id" content="843375295713910">
 <!-- / Yoast WordPress SEO plugin. -->
 
 <link rel="alternate" type="application/rss+xml" title="Yoga Journal » Feed" href="http://www.yogajournal.com/feed/">
@@ -62,20 +63,78 @@
             //]]></script>
 			<link rel="alternate" type="application/rss+xml" title="Yoga Journal » Privacy Policy Comments Feed" href="http://www.yogajournal.com/privacy-policy/feed/">
 <link rel="stylesheet" id="foundation-iconfont-css" href="http://www.yogajournal.com/wp-content/themes/yogajournal/icon_font/foundation-icons.css" type="text/css" media="all">
-<link rel="stylesheet" id="wordpress-popular-posts-css" href="http://d3v7xustcq7358.cloudfront.net/wp-content/plugins/wordpress-popular-posts/style/wpp.css" type="text/css" media="all">
-<link rel="stylesheet" id="aim_featured_content_css-css" href="http://d3v7xustcq7358.cloudfront.net/wp-content/plugins/aim-featured-content/css/slider.css" type="text/css" media="all">
+<link rel="stylesheet" id="aim_featured_content_css-css" href="http://media.yogajournal.com/wp-content/plugins/aim-featured-content/css/slider.css" type="text/css" media="all">
 <link rel="stylesheet" id="reverie-foundation-stylesheet-css" href="http://www.yogajournal.com/wp-content/themes/yogajournal/css/app.css" type="text/css" media="all">
 <link rel="stylesheet" id="reverie-stylesheet-css" href="http://www.yogajournal.com/wp-content/themes/yogajournal/css/style.css" type="text/css" media="all">
-<link rel="stylesheet" id="dashicons-css" href="http://d3v7xustcq7358.cloudfront.net/wp-includes/css/dashicons.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="http://media.yogajournal.com/wp-includes/css/dashicons.min.css" type="text/css" media="all">
 <link rel="stylesheet" id="google-font-css" href="http://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%7CLora%3A400%2C700%7CDroid+Sans+Mono" type="text/css" media="all">
 <!--[if lt IE 9]>
-<link rel='stylesheet' id='reverie-ie-only-css'  href='http://d3v7xustcq7358.cloudfront.net/wp-content/themes/reverie-master/css/ie.css' type='text/css' media='all' />
+<link rel='stylesheet' id='reverie-ie-only-css'  href='http://media.yogajournal.com/wp-content/themes/reverie-master/css/ie.css' type='text/css' media='all' />
 <![endif]-->
-<script type="text/javascript" src="http://d3v7xustcq7358.cloudfront.net/wp-includes/js/jquery/jquery.js"></script>
-<script type="text/javascript" src="http://d3v7xustcq7358.cloudfront.net/wp-includes/js/jquery/jquery-migrate.min.js"></script>
-<script type="text/javascript" src="http://d3v7xustcq7358.cloudfront.net/wp-content/plugins/aim-featured-content/js/slider.js"></script>
-<script type="text/javascript" src="http://d3v7xustcq7358.cloudfront.net/wp-content/themes/reverie-master/js/modernizr.js"></script>
+<script type="text/javascript" src="http://media.yogajournal.com/wp-includes/js/jquery/jquery.js"></script>
+<script type="text/javascript" src="http://media.yogajournal.com/wp-includes/js/jquery/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="http://media.yogajournal.com/wp-content/plugins/aim-featured-content/js/slider.js"></script>
+<script type="text/javascript" src="http://media.yogajournal.com/wp-content/themes/reverie-master/js/modernizr.js"></script>
 <link rel="shortlink" href="http://www.yogajournal.com/?p=62744">
+<script>(function() {
+    var _fbq = window._fbq || (window._fbq = []);
+    if (!_fbq.loaded) {
+      var fbds = document.createElement('script');
+      fbds.async = true;
+      fbds.src = '//connect.facebook.net/en_US/fbds.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(fbds, s);
+      _fbq.loaded = true;
+    }
+    _fbq.push(['addPixelId', '1397247997268188']);
+  })();
+  window._fbq = window._fbq || [];
+  window._fbq.push(['track', 'PixelInitialized', {}]);
+  </script>
+  <noscript><img height='1' width='1' alt='' style='display:none' src='https://www.facebook.com/tr?id=1397247997268188&amp;ev=PixelInitialized' /></noscript>
+<!-- Yieldbot.com Intent Tag LOADING -->
+<script type="text/javascript">
+    var ybotq = ybotq || [];
+    (function() {
+    var js = document.createElement('script');
+    js.src = '//cdn.yldbt.com/js/yieldbot.intent.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(js, node);
+    })();
+</script>
+ 
+<script type="text/javascript">
+
+function ybWidth(){
+    var w = window,
+    d = document,
+    e = d.documentElement,
+    x = Math.max(e.scrollWidth,e.offsetWidth,e.clientWidth);
+    return x;
+}
+
+ybotq.push(function () {
+    if (ybWidth() <= 728) {
+
+        //mobile
+        yieldbot.pub('02c0');
+
+    } else {
+        //desktop
+        yieldbot.pub('894b');
+
+    }
+    yieldbot.defineSlot('acm-ad-tag-970x90-header');
+    yieldbot.defineSlot('acm-ad-tag-300x250-sidebar', {sizes: [ [300, 250], [300, 600] ]});
+    yieldbot.enableAsync();
+    yieldbot.go();
+
+});
+
+</script>
+
+
+
 	<!-- Include google_services.js -->
 <script type="text/javascript">
 var googletag = googletag || {};
@@ -92,18 +151,26 @@ node.parentNode.insertBefore(gads, node);
 })();
 </script>
 <script type="text/javascript">
+var yb_slot_lookup = {};
+ybotq.push(function () {
 googletag.cmd.push(function() {
 googletag.defineSlot('/7222/YogaJournal/general', [[970,90],[728,90],[320,50]], "acm-ad-tag-970x90/728x90/320x50-header").addService(googletag.pubads()).setTargeting('unitid', '1').defineSizeMapping(googletag.sizeMapping().addSize([1024,200], [[970,90],[728,90]]).addSize([980,200], [728,90]).addSize([0,0], [320,50]).build());
 googletag.defineSlot('/7222/YogaJournal/general', [[970,90],[728,90],[320,50]], "acm-ad-tag-970x90/728x90/320x50-footer").addService(googletag.pubads()).setTargeting('unitid', '2').defineSizeMapping(googletag.sizeMapping().addSize([1024,200], [[970,90],[728,90]]).addSize([980,200], [728,90]).addSize([0,0], [320,50]).build());
 googletag.defineSlot('/7222/YogaJournal/general', [300,100], "acm-ad-tag-300x100-sidebar").addService(googletag.pubads()).setTargeting('unitid', '3');
-googletag.defineSlot('/7222/YogaJournal/general', [[300,250],[300,600]], "acm-ad-tag-320x250-sidebar").addService(googletag.pubads()).setTargeting('unitid', '4');
+googletag.defineSlot('/7222/YogaJournal/general', [[300,250],[300,600]], "acm-ad-tag-300x250-sidebar").addService(googletag.pubads()).setTargeting('unitid', '4');
 googletag.defineSlot('/7222/Yogajournal/general', [[300,250],[300,600]], "acm-ad-tag-300x250-network").addService(googletag.pubads()).setTargeting('unitid', '5');
 googletag.defineSlot('/7222/Yogajournal/Circ/general', [300,125], "acm-ad-tag-300x125-header-circ").addService(googletag.pubads()).setTargeting('unitid', '6');
-googletag.defineSlot('/7222/Yogajournal/Circ/general', [490,590], "acm-ad-tag-490x590-circ-floater").addService(googletag.pubads()).setTargeting('unitid', '7');
-googletag.defineSlot('/7222/Yogajournal/Circ/general', [1150,400], "acm-ad-tag-1150x400-embed").addService(googletag.pubads()).setTargeting('unitid', '8');
+googletag.defineSlot('/7222/Yogajournal/Circ/general', [[490,590],[550,480],[300,300]], "acm-ad-tag-490x590-circ-floater").addService(googletag.pubads()).setTargeting('unitid', '7').defineSizeMapping(googletag.sizeMapping().addSize([1024,200], [[490,590],[550,480]]).addSize([640,200], [550,480]).addSize([0,0], [300,300]).build());
+googletag.defineSlot('/7222/Yogajournal/Circ/general', [[1150,400],[640,400],[320,400]], "acm-ad-tag-1150x400-embed").addService(googletag.pubads()).setTargeting('unitid', '8').defineSizeMapping(googletag.sizeMapping().addSize([1024,200], [1150,400]).addSize([640,200], [640,400]).addSize([0,0], [330,400]).build());
+googletag.defineSlot('/7222/Yogajournal/YJ_iPad/general', [1024,675], "acm-ad-tag-1024x675-ipad").addService(googletag.pubads()).setTargeting('unitid', '9');
 googletag.pubads().collapseEmptyDivs();
+
+yieldbot.setSlotTargeting('acm-ad-tag-970x90-header', yb_slot_lookup['acm-ad-tag-970x90-header']);
+yieldbot.setSlotTargeting('acm-ad-tag-300x250-sidebar', yb_slot_lookup['acm-ad-tag-300x250-sidebar']);
+
 googletag.enableServices();
 googletag.pubads().setTargeting('pageid', '6b797c518fb89e541cad4a7ebe8dba37').setTargeting('post-type', ["page"]);
+}); 
 });
 </script>
 
@@ -129,14 +196,16 @@ googletag.pubads().setTargeting('pageid', '6b797c518fb89e541cad4a7ebe8dba37').se
 	<nav class="top-bar  hide-for-small-only" data-topbar="">
 	    <ul class="left my-yj header"><li style="display: none;">My YJ:</li></ul><ul class="left my-yj logged-out"><li class="divider"></li><li id="menu-item-67737" class="menu-item menu-item-main-menu menu-item-insurance"><a href="http://www.yogajournal.com/benefitsplus">Insurance</a></li>
 <li class="divider"></li><li id="menu-item-32670" class="menu-item menu-item-main-menu menu-item-yj-directory"><a href="http://www.yogajournal.com/directory/">YJ Directory</a></li>
-<li class="divider"></li><li id="menu-item-62018" class="menu-item menu-item-main-menu menu-item-take-a-class"><a target="_blank" href="http://www.yogavibes.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://www.yogavibes.com']);">Take a Class</a></li>
+<li class="divider"></li><li id="menu-item-62018" class="menu-item menu-item-main-menu menu-item-online-education"><a target="_blank" href="http://www.aimhealthyu.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://www.aimhealthyu.com']);">Online Education</a></li>
+<li class="divider"></li><li id="menu-item-83835" class="menu-item menu-item-main-menu menu-item-free-stuff"><a href="http://www.yogajournal.com/freestuff/">Free Stuff</a></li>
+<li class="divider"></li><li id="menu-item-92341" class="menu-item menu-item-main-menu menu-item-store"><a href="http://yogajournal.yogaoutlet.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://yogajournal.yogaoutlet.com']);">Store</a></li>
 <li class="divider"></li><li id="menu-item-61838" class="menu-item menu-item-main-menu menu-item-subscribe"><a data-dropdown="menu-item-1-flyout" data-options="is_hover:true" onmouseout="jQuery(&quot;.f-dropdown&quot;).css(&quot;left&quot;, -99999).removeClass(&quot;open&quot;)" href="#">Subscribe</a>
 	<ul data-dropdown-content="" class="f-dropdown" id="menu-item-1-flyout">
 	<li id="menu-item-61839" class="menu-item menu-item-main-menu menu-item-subscribe-to-yoga-journal"><a href="https://secure.palmcoastd.com/pcd/!dynredirect.main?iID=0011351" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://secure.palmcoastd.com']);">Subscribe to Yoga Journal</a></li>
 	<li id="menu-item-77003" class="menu-item menu-item-main-menu menu-item-renew-subscription"><a href="/renew">Renew Subscription</a></li>
 	<li id="menu-item-77006" class="menu-item menu-item-main-menu menu-item-give-a-gift"><a href="https://www.neodata.com/ITPS2.cgi?OrderType=Reply+Only&amp;ItemCode=YOGA&amp;Promo=trial&amp;GiftKey=GFM&amp;iResponse=YOGA.GIFT&amp;NewKey=W2M&amp;RenKey=RNM&amp;BonusKey=W2M" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://www.neodata.com']);">Give a Gift</a></li>
 	<li id="menu-item-77007" class="menu-item menu-item-main-menu menu-item-pay-bill"><a href="/paybill">Pay Bill</a></li>
-	<li id="menu-item-77009" class="menu-item menu-item-main-menu menu-item-magazine-customer-service"><a href="http://www.yogajournal.com/magazine-customer-service/">Magazine Customer Service</a></li>
+	<li id="menu-item-77009" class="menu-item menu-item-main-menu menu-item-subscription-customer-service"><a title="Questions about your magazine subscription?" href="http://www.yogajournal.com/magazine-customer-service/">Subscription Customer Service</a></li>
 	<li id="menu-item-63423" class="menu-item menu-item-main-menu menu-item-digital"><a href="http://www.yogajournal.com/digital/">Digital</a></li>
 	<li id="menu-item-63420" class="menu-item menu-item-main-menu menu-item-newsletters"><a href="http://media.aimmedia.com/healthyliving/yogajournal/newslettersignup.html" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://media.aimmedia.com']);">Newsletters</a></li>
 </ul>
@@ -180,9 +249,11 @@ googletag.pubads().setTargeting('pageid', '6b797c518fb89e541cad4a7ebe8dba37').se
 
 		<section class="header top ads">
 		    	<div class="large-11 centered columns widget bottom-half-em bottom-extra-10 top-half-em upper-header-ad acm_ad_zones" id="acm_ad_zones-10">
+
+
 		<div id="acm-ad-tag-970x90/728x90/320x50-header" style="width:Arraypx; height:Arraypx;">
 <script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('acm-ad-tag-970x90/728x90/320x50-header'); });
+ybotq.push(function() {googletag.cmd.push(function() { googletag.display('acm-ad-tag-970x90/728x90/320x50-header'); });});
 </script>
 		</div>
 		</div>		</section>
@@ -201,6 +272,7 @@ googletag.cmd.push(function() { googletag.display('acm-ad-tag-970x90/728x90/320x
 	<li id="menu-item-61752" class="menu-item menu-item-main-menu menu-item-beginner"><a href="http://www.yogajournal.com/category/beginners/">Beginner</a></li>
 	<li id="menu-item-61753" class="menu-item menu-item-main-menu menu-item-intermediate"><a href="http://www.yogajournal.com/category/intermediate-section/">Intermediate</a></li>
 	<li id="menu-item-61754" class="menu-item menu-item-main-menu menu-item-advanced-yoga"><a href="http://www.yogajournal.com/category/advanced/">Advanced Yoga</a></li>
+	<li id="menu-item-85482" class="menu-item menu-item-main-menu menu-item-yogapedia"><a href="/category/yogapedia">Yogapedia</a></li>
 	<li id="menu-item-76422" class="menu-item menu-item-main-menu menu-item-sequence-builder"><a href="http://www.yogajournal.com/poses/sequence_builder">Sequence Builder</a></li>
 </ul>
 
@@ -214,20 +286,22 @@ googletag.cmd.push(function() { googletag.display('acm-ad-tag-970x90/728x90/320x
 </ul>
 
 <a id="menu-item-72487" class="menu-item menu-item-main-menu menu-item-people"></a><a href="/people/?key=last">People</a>
+<a id="menu-item-86051" class="menu-item menu-item-main-menu menu-item-blog"></a><a href="/page/2/">Blog</a>
 <a id="menu-item-61764" class="menu-item menu-item-main-menu menu-item-yoga-videos"></a><a href="http://www.yogajournal.com/category/video/">Yoga Videos</a>
 <a id="menu-item-61765" class="menu-item menu-item-main-menu menu-item-teach"></a><a href="http://www.yogajournal.com/category/teach/">Teach</a>
-<a id="menu-item-61767" class="menu-item menu-item-main-menu menu-item-shop"></a><a href="http://store.yogajournal.com">Shop</a>
 <a id="menu-item-61768" class="menu-item menu-item-main-menu menu-item-yoga-events"></a><a href="http://www.yjevents.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://www.yjevents.com']);">Yoga Events</a>
 </div>	    <ul class="left my-yj logged-out"><li class="divider"></li><li id="menu-item-67737" class="menu-item menu-item-main-menu menu-item-insurance"><a href="http://www.yogajournal.com/benefitsplus">Insurance</a></li>
 <li class="divider"></li><li id="menu-item-32670" class="menu-item menu-item-main-menu menu-item-yj-directory"><a href="http://www.yogajournal.com/directory/">YJ Directory</a></li>
-<li class="divider"></li><li id="menu-item-62018" class="menu-item menu-item-main-menu menu-item-take-a-class"><a target="_blank" href="http://www.yogavibes.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://www.yogavibes.com']);">Take a Class</a></li>
+<li class="divider"></li><li id="menu-item-62018" class="menu-item menu-item-main-menu menu-item-online-education"><a target="_blank" href="http://www.aimhealthyu.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://www.aimhealthyu.com']);">Online Education</a></li>
+<li class="divider"></li><li id="menu-item-83835" class="menu-item menu-item-main-menu menu-item-free-stuff"><a href="http://www.yogajournal.com/freestuff/">Free Stuff</a></li>
+<li class="divider"></li><li id="menu-item-92341" class="menu-item menu-item-main-menu menu-item-store"><a href="http://yogajournal.yogaoutlet.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://yogajournal.yogaoutlet.com']);">Store</a></li>
 <li class="divider"></li><li id="menu-item-61838" class="menu-item menu-item-main-menu menu-item-subscribe"><a data-dropdown="menu-item-2-flyout" data-options="is_hover:true" onmouseout="jQuery(&quot;.f-dropdown&quot;).css(&quot;left&quot;, -99999).removeClass(&quot;open&quot;)" href="#">Subscribe</a>
 	<ul data-dropdown-content="" class="f-dropdown" id="menu-item-2-flyout">
 	<li id="menu-item-61839" class="menu-item menu-item-main-menu menu-item-subscribe-to-yoga-journal"><a href="https://secure.palmcoastd.com/pcd/!dynredirect.main?iID=0011351" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://secure.palmcoastd.com']);">Subscribe to Yoga Journal</a></li>
 	<li id="menu-item-77003" class="menu-item menu-item-main-menu menu-item-renew-subscription"><a href="/renew">Renew Subscription</a></li>
 	<li id="menu-item-77006" class="menu-item menu-item-main-menu menu-item-give-a-gift"><a href="https://www.neodata.com/ITPS2.cgi?OrderType=Reply+Only&amp;ItemCode=YOGA&amp;Promo=trial&amp;GiftKey=GFM&amp;iResponse=YOGA.GIFT&amp;NewKey=W2M&amp;RenKey=RNM&amp;BonusKey=W2M" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://www.neodata.com']);">Give a Gift</a></li>
 	<li id="menu-item-77007" class="menu-item menu-item-main-menu menu-item-pay-bill"><a href="/paybill">Pay Bill</a></li>
-	<li id="menu-item-77009" class="menu-item menu-item-main-menu menu-item-magazine-customer-service"><a href="http://www.yogajournal.com/magazine-customer-service/">Magazine Customer Service</a></li>
+	<li id="menu-item-77009" class="menu-item menu-item-main-menu menu-item-subscription-customer-service"><a title="Questions about your magazine subscription?" href="http://www.yogajournal.com/magazine-customer-service/">Subscription Customer Service</a></li>
 	<li id="menu-item-63423" class="menu-item menu-item-main-menu menu-item-digital"><a href="http://www.yogajournal.com/digital/">Digital</a></li>
 	<li id="menu-item-63420" class="menu-item menu-item-main-menu menu-item-newsletters"><a href="http://media.aimmedia.com/healthyliving/yogajournal/newslettersignup.html" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://media.aimmedia.com']);">Newsletters</a></li>
 </ul>
@@ -237,12 +311,13 @@ googletag.cmd.push(function() { googletag.display('acm-ad-tag-970x90/728x90/320x
      <div class="small-2 columns small-menu hide-for-medium-up"><a href="#top" class="mtoggle"><div class="dashicons dashicons-menu">&nbsp;</div></a></div>
      
      <div class="medium-9 columns show-for-medium-up">
-	    <ul class="right inline-list uppercase main-menu"><li id="menu-item-61756" class="menu-item menu-item-secondary-menu menu-item-poses"><a data-dropdown="menu-item-3-flyout" data-options="is_hover:true" onmouseout="jQuery(&quot;.f-dropdown&quot;).css(&quot;left&quot;, -99999).removeClass(&quot;open&quot;)" class="level-0  children5" href="#">Poses</a>
+	    <ul class="right inline-list uppercase main-menu"><li id="menu-item-61756" class="menu-item menu-item-secondary-menu menu-item-poses"><a data-dropdown="menu-item-3-flyout" data-options="is_hover:true" onmouseout="jQuery(&quot;.f-dropdown&quot;).css(&quot;left&quot;, -99999).removeClass(&quot;open&quot;)" class="level-0  children6" href="#">Poses</a>
 	<ul data-dropdown-content="" class="f-dropdown" id="menu-item-3-flyout">
 	<li id="menu-item-61813" class="menu-item menu-item-secondary-menu menu-item-poses"><a href="/pose/">Poses</a></li>
 	<li id="menu-item-61752" class="menu-item menu-item-secondary-menu menu-item-beginner"><a href="http://www.yogajournal.com/category/beginners/">Beginner</a></li>
 	<li id="menu-item-61753" class="menu-item menu-item-secondary-menu menu-item-intermediate"><a href="http://www.yogajournal.com/category/intermediate-section/">Intermediate</a></li>
 	<li id="menu-item-61754" class="menu-item menu-item-secondary-menu menu-item-advanced-yoga"><a href="http://www.yogajournal.com/category/advanced/">Advanced Yoga</a></li>
+	<li id="menu-item-85482" class="menu-item menu-item-secondary-menu menu-item-yogapedia"><a href="/category/yogapedia">Yogapedia</a></li>
 	<li id="menu-item-76422" class="menu-item menu-item-secondary-menu menu-item-sequence-builder"><a href="http://www.yogajournal.com/poses/sequence_builder">Sequence Builder</a></li>
 </ul>
 </li>
@@ -256,27 +331,15 @@ googletag.cmd.push(function() { googletag.display('acm-ad-tag-970x90/728x90/320x
 </ul>
 </li>
 <li id="menu-item-72487" class="menu-item menu-item-secondary-menu menu-item-people"><a href="/people/?key=last">People</a></li>
+<li id="menu-item-86051" class="menu-item menu-item-secondary-menu menu-item-blog"><a href="/page/2/">Blog</a></li>
 <li id="menu-item-61764" class="menu-item menu-item-secondary-menu menu-item-yoga-videos"><a href="http://www.yogajournal.com/category/video/">Yoga Videos</a></li>
 <li id="menu-item-61765" class="menu-item menu-item-secondary-menu menu-item-teach"><a href="http://www.yogajournal.com/category/teach/">Teach</a></li>
-<li id="menu-item-61767" class="menu-item menu-item-secondary-menu menu-item-shop"><a href="http://store.yogajournal.com">Shop</a></li>
 <li id="menu-item-61768" class="menu-item menu-item-secondary-menu menu-item-yoga-events"><a href="http://www.yjevents.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://www.yjevents.com']);">Yoga Events</a></li>
 </ul>	      
 	</div>
 <hr>
 </div>   
-<div class="row">
-	<div id="myModal" class="reveal-modal hide-for-small-only" data-reveal="">
-		   <div class="popup_top">
-	        <a class="close-reveal-modal" id="floater-link"><img src="http://www.yogajournal.com/wp-content/themes/yogajournal/images/floater/test_close_button.png" alt="" border="0"></a>
-	      </div>
-		<div id="acm-ad-tag-490x590-circ-floater" style="width:490px; height:590px;">
-			<script type="text/javascript">
-			googletag.cmd.push(function() { googletag.display('acm-ad-tag-490x590-circ-floater'); });
-			</script>
-		</div>	
-	
-		</div>	
-</div>
+<!-- move popup code to footer -->
 <div class="row">
     	</div>
 
@@ -315,9 +378,11 @@ We will not facilitate the merging of personally-identifiable information with n
 	</div>
 <aside id="sidebar" class="small-12 large-4 columns">
 	<article id="acm_ad_zones-27" class="panel widget acm_ad_zones">
-		<div id="acm-ad-tag-320x250-sidebar" style="width:Arraypx; height:Arraypx;">
+
+
+		<div id="acm-ad-tag-300x250-sidebar" style="width:Arraypx; height:Arraypx;">
 <script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('acm-ad-tag-320x250-sidebar'); });
+ybotq.push(function() {googletag.cmd.push(function() { googletag.display('acm-ad-tag-300x250-sidebar'); });});
 </script>
 		</div>
 		</article><article id="text-18" class="panel widget widget_text"><h4>Connect</h4>			<div class="textwidget">	    <a href="http://www.facebook.com/pages/Yoga-Journal/107118720945" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://www.facebook.com']);" class="one-seventh columns block"><i class="fi-social-facebook icon large"></i></a>
@@ -329,15 +394,19 @@ googletag.cmd.push(function() { googletag.display('acm-ad-tag-320x250-sidebar');
 	    <a href="http://www.youtube.com/user/yogajournal" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://www.youtube.com']);" class="one-seventh columns block"><i class="fi-social-youtube icon large"></i></a>
 			</div>
 		</article><article id="acm_ad_zones-28" class="panel widget acm_ad_zones">
+
+
 		<div id="acm-ad-tag-300x100-sidebar" style="width:300px; height:100px;">
 <script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('acm-ad-tag-300x100-sidebar'); });
+ybotq.push(function() {googletag.cmd.push(function() { googletag.display('acm-ad-tag-300x100-sidebar'); });});
 </script>
 		</div>
 		</article><article id="acm_ad_zones-29" class="panel widget acm_ad_zones">
+
+
 		<div id="acm-ad-tag-300x125-header-circ" style="width:300px; height:125px;">
 <script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('acm-ad-tag-300x125-header-circ'); });
+ybotq.push(function() {googletag.cmd.push(function() { googletag.display('acm-ad-tag-300x125-header-circ'); });});
 </script>
 		</div>
 		</article></aside><!-- /#sidebar -->
@@ -351,15 +420,15 @@ googletag.cmd.push(function() { googletag.display('acm-ad-tag-300x125-header-cir
 
 <footer class="full-width" role="contentinfo">
 	<div class="row" id="circulation-footer">
-		<div class="medium-12 columns mobile-hide"><div class="medium-12" id="acm_ad_zones-19">
-		<div id="acm-ad-tag-1150x400-embed" style="width:1150px; height:400px;">
+		<div class="medium-12 columns"><div class="medium-12" id="acm_ad_zones-19">
+
+
+		<div id="acm-ad-tag-1150x400-embed" style="width:Arraypx; height:Arraypx;">
 <script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('acm-ad-tag-1150x400-embed'); });
+ybotq.push(function() {googletag.cmd.push(function() { googletag.display('acm-ad-tag-1150x400-embed'); });});
 </script>
 		</div>
 		</div></div>
-		<!-- <div class="medium-12 columns">
-		   		</div> -->
 	</div>
     <div class="row footer magazines top-two-em bottom-two-em">
         <div class="medium-10 medium-centered columns bottom-two-em">
@@ -407,30 +476,52 @@ googletag.cmd.push(function() { googletag.display('acm-ad-tag-1150x400-embed'); 
 		<div class="medium-4 columns last">
 		    <p class="uppercase centered tracked">Learn More</p>
 		    <div class="footer links"><h5 id="menu-item-58" class="menu-item menu-item-footer-menu menu-item-about-us"><a title="About Us" href="/about_us/">About Us</a></h5>
+<h5 id="menu-item-86424" class="ppr-rewrite menu-item menu-item-footer-menu menu-item-advertise"><a href="/advertise/media_kit">Advertise</a></h5>
 <h5 id="menu-item-59" class="menu-item menu-item-footer-menu menu-item-customer-service"><a title="Customer Service" href="/customer-service/">Customer Service</a></h5>
 <h5 id="menu-item-60" class="menu-item menu-item-footer-menu menu-item-privacy-policy active"><a title="Privacy Policy" href="/privacy-policy/">Privacy Policy</a></h5>
 <h5 id="menu-item-61" class="menu-item menu-item-footer-menu menu-item-international-editions"><a title="International Editions" href="/yoga-journal-international-editions/">International Editions</a></h5>
 <h5 id="menu-item-62" class="menu-item menu-item-footer-menu menu-item-employment"><a title="Employment" href="/employment/">Employment</a></h5>
-<h5 id="menu-item-63" class="menu-item menu-item-footer-menu menu-item-magazine-customer-service"><a title="Magazine Customer Service" href="/magazine-customer-service/">Magazine Customer Service</a></h5>
+<h5 id="menu-item-63" class="menu-item menu-item-footer-menu menu-item-subscription-services"><a title="Subscription Customer Service" href="/magazine-customer-service/">Subscription Services</a></h5>
 </div>		</div>
 	</div>
+
+
 <div id="ipadadcontainer">
 <!-- yogajournal/YJ_iPad -->
 <div id="acm-ad-tag-1024x675-ipad">
 <script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('acm-ad-tag-1024x675-ipad')});
+	ybotq.push(function () { googletag.cmd.push(function() { googletag.display('acm-ad-tag-1024x675-ipad')}); });
 </script>
 </div>
-</div>	
+	
+</div>
 </footer>
-<script type="text/javascript" src="http://d3v7xustcq7358.cloudfront.net/wp-content/plugins/yogajournal-instagram-widget/js/instafeed.js"></script>
-<script type="text/javascript" src="http://d3v7xustcq7358.cloudfront.net/wp-includes/js/comment-reply.min.js"></script>
-<script type="text/javascript" src="http://d3v7xustcq7358.cloudfront.net/wp-content/themes/reverie-master/js/foundation.min.js"></script>
+<!-- modal for popup -->
+<div class="row">
+	<div id="myModal" class="reveal-modal hide-for-small-only" data-reveal="">
+		   <div class="popup_top">
+	        <a class="close-reveal-modal" id="floater-link"><span style="font-size: 10px;">[close window]</span> <img src="http://media.yogajournal.com/wp-content/uploads/close_button.png" alt="" border="0"></a>
+	      </div>
+		<div id="acm-ad-tag-490x590-circ-floater" style="width:550px; height:480px;">
+			<script type="text/javascript">
+			ybotq.push(function () { googletag.cmd.push(function() { googletag.display('acm-ad-tag-490x590-circ-floater'); }); });
+			</script>
+		</div>
+	</div>	
+</div>
+
+
+<script type="text/javascript" src="http://media.yogajournal.com/wp-content/plugins/yogajournal-instagram-widget/js/instafeed.js"></script>
+<script type="text/javascript" src="http://media.yogajournal.com/wp-includes/js/comment-reply.min.js"></script>
+<script type="text/javascript" src="http://media.yogajournal.com/wp-content/themes/reverie-master/js/foundation.min.js"></script>
 
 <script>
 	(function($) {
 		$(document).foundation();
-
+		if (navigator.userAgent.indexOf('iPad') != -1){
+			document.getElementById("ipadadcontainer").style.display = "block";
+			document.getElementById("ipadadcontainer").style.top = "5px";
+		}
 
 
 /* from float.js */
@@ -534,11 +625,12 @@ createCookie('pages', pages+1);
 </script>
 
 	
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"7140894ca4","applicationID":"4039714","transactionName":"YABbNUEFDEcDUEEKVllKeAJHDQ1aTUNUBFw=","queueTime":0,"applicationTime":408,"ttGuid":"","agentToken":"","atts":"TEdYQwkfH0k=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"7140894ca4","applicationID":"4039714","transactionName":"YABbNUEFDEcDUEEKVllKeAJHDQ1aTUNUBFw=","queueTime":0,"applicationTime":930,"atts":"TEdYQwkfH0k=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
-Object Caching 3118/3414 objects using memcached
-Content Delivery Network via Amazon Web Services: CloudFront: d3v7xustcq7358.cloudfront.net
+Object Caching 3285/3597 objects using memcached
+Content Delivery Network via Amazon Web Services: CloudFront: media.yogajournal.com
 
- Served from: www.yogajournal.com @ 2014-11-20 13:33:14 by W3 Total Cache --><script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+ Served from: www.yogajournal.com @ 2015-06-08 12:17:02 by W3 Total Cache --></body></html>
