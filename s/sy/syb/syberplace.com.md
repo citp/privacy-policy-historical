@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syberplace.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120054827id_/http%3A//www.syberplace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syberplace.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608212820id_/http%3A//www.syberplace.com/privacy) for the most accurate reproduction.*
 
 # SyberPlace.com | Privacy Policy
 
