@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msishopper.net privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106100818id_/http%3A//www.trendsource.com/msi/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msishopper.net privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608071908id_/http%3A//www.trendsource.com/msi/policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | MSI Services
 
