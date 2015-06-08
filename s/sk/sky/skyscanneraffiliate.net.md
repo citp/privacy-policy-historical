@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyscanneraffiliate.net privacy policy that was archived on 2014-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140310073723id_/http%3A//business.skyscanner.net/portal/en-GB/Home/PrivacyAndCookiePolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscanneraffiliate.net privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608094808id_/http%3A//business.skyscanner.net/portal/en-GB/Home/PrivacyAndCookiePolicy) for the most accurate reproduction.*
 
 # Privacy policy | Skyscanner for business
 
@@ -133,9 +133,9 @@ Email addresses are collected via our websites (including via our Facebook and o
 
 We use email addresses to send our weekly newsletter, and occasional special offers and deals. We sometimes run promotions with partners and competition entries may require you to provide an email address. These email addresses may be shared with the partner running the competition. In such cases, this is clearly stated in the terms of the promotion. We have no responsibility for subsequent use or distribution of email addresses by our partners.
 
-If you have any questions about this policy, please contact us by [email](https://web.archive.org/portal/en-GB/Home/Contact).
+## Contact
 
-Or by post via the following address:
+If you have any questions about this policy, please contact us by [email](https://web.archive.org/portal/en-GB/Home/Contact) or by post via the following address:
 
   * Skyscanner Limited
   * Quartermile One
@@ -143,5 +143,3 @@ Or by post via the following address:
   * Edinburgh EH3 9EN
 
 
-
-Please note: We do not take bookings or hold any details of bookings or payments. If you have an enquiry regarding a booking, you must contact the airline or travel agent as we cannot assist you.
