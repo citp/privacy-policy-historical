@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bloggertemplateplace.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073852id_/http%3A//blogtemplate4u.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggertemplateplace.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609014609id_/http%3A//blogtemplate4u.com/privacy-policy) for the most accurate reproduction.*
 
-# blogtemplate 4 u Privacy Policy » BlogTemplate4u.com
+# Blogtemplate4U Privacy Policy » BlogTemplate4u.com
 
 Privacy Policy for [Blog Template 4 U](http://blogtemplate4u.com/) If you require any more information or have any questions about our privacy policy, please feel free to contact us. At www.blogtemplate4u.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.blogtemplate4u.com and how it is used.
 
@@ -22,4 +22,4 @@ These third-party ad servers or ad networks use technology to the advertisements
 
 ### Contact Us
 
- **Email :** info@blogtemplate4u.com
+**Email :** info@blogtemplate4u.com
