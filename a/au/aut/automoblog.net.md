@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automoblog.net privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130184220id_/http%3A//www.automoblog.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automoblog.net privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608033629id_/http%3A//www.automoblog.net/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,8 +22,7 @@ With respect to cookies: We use cookies to store visitors preferences.
 
 We use a third party to handle our Email Newsletters and RSS feed subscriptions. Feedburner is owned by Google, which will respect your privacy in full. Please reference Feedburner’s privacy policy here: http://www.feedburner.com/fb/a/privacy
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
-
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
 http://www.google.com/privacy_ads.html
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
