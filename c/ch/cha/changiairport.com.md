@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the changiairport.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115010638id_/http%3A//www.changiairport.com/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the changiairport.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608095054id_/http%3A//www.changiairport.com/general/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Changi Airport
 
