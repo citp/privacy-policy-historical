@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs.nhs.uk privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708104409id_/http%3A//www.jobs.nhs.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs.nhs.uk privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608212426id_/http%3A//www.jobs.nhs.uk/privacy.html) for the most accurate reproduction.*
 
 # NHS Jobs - Privacy Statement
 
