@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ellucian.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221051731id_/http%3A//www.ellucian.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellucian.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608045458id_/http%3A//www.ellucian.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Ellucian
 
