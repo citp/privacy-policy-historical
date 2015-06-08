@@ -1,16 +1,17 @@
-> *The following text is extracted and transformed from the javaworld.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625222541id_/http%3A//www.javaworld.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javaworld.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608094106id_/http%3A//www.javaworld.com/about/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policies | JavaWorld
 
 This website ("Website") and associated websites are maintained by:
 
 **JavaWorld  
 5 Speen Street   
-Framingham, MA 01701-9192**
+Framingham, MA 01701-9192  
+U.S.A.**
 
 The publisher of this Website ("Publisher") collects personally identifying information and data about individuals, their company, and their company's demographics (personally identifying information and data) including (i) when you provide information to us, such as when you register or sign up for any of our products such as publications, subscriptions, e-mails, contests, newsletters, memberships, RSS Feeds, webcasts, White Papers, online seminars, conferences and other communications with the Publisher, (ii) when you register or sign up on one of our Websites, or when you register for any other IDG Publishing Network products individually or through auto register, your information will be known to the Publisher and (iii) from time to time we may add other information that we collect from third party sources to enhance the information that you provided to the Publisher.
 
-Below is the current policy regarding the usage of personally identifying information and data collected by the Publisher. We reevaluate this policy on an ongoing basis based on feedback from readers. The Publisher reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifiying information and data that is different from that stated at the time of collection, we will notify you by posting a notice on our Website.
+Below is the current policy regarding the usage of personally identifying information and data collected by the Publisher. We reevaluate this policy on an ongoing basis based on feedback from readers. The Publisher reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifying information and data that is different from that stated at the time of collection, we will notify you by posting a notice on our Website.
 
 The Publisher or one of our IDG affiliated companies, or third party partners or advertisers may place online tracking technology such as a "cookie" in the browser files of a user's computer. The cookie itself does not contain any personally identifying information, except when such information has been supplied by a subscriber or registered user. In addition, cookies placed in the browser files of a user's computer by a third party advertiser, may be used by the advertiser to collect web viewing data to serve further online interest-based advertising, also known as online behavioral advertising. 
 
@@ -50,6 +51,8 @@ Users who later decide they want to change any of their preferences may do so at
 (Online users who are also print subscribers should refer to the print subscriber section of this policy which contains information on how to remove your name from our promotion list). 
 
 Our Website makes available a large library of content provided to us from third parties. In return for access to this content, we may ask you to provide us with personally identifying information. Once you have submitted your information, you will have access to the full library of third party content and will not be asked to provide that information again (unless you disable or otherwise modify your cookies). When accessing content contributed by a third party, your personally identifying information may be shared with those third parties, and the information will be governed by those parties' privacy policies as well as ours. The Publisher, nor its parent company, or any of its subsidiaries or affiliates, does not bear any responsibility for any actions or policies of such third parties. If you do not wish to have your information shared with a third party, please do not access third party content on our site.
+
+Our Website, or portions of our Website, may be sponsored by third party sponsors. Any personally identifying information you share on our Website when registering to receive access to any offer, including but not limited to premium access or newsletter content, may be shared with such sponsors for marketing purposes.
 
 Our Website users should be aware that when they disclose personally identifying information (e.g., user name, address, company name, telephone number, demographic information, buying information, other data and E-mail address) in discussion forums, chat rooms or other areas that are publicly accessible by others, that information can be collected and used by others and may result in unsolicited messages from other posters or parties. Neither the Publisher, nor its parent company or any of its subsidiaries or affiliates are responsible for any information that you provide in the above areas. 
 
@@ -96,7 +99,7 @@ Print subscribers or applicants who do not want their names used in any of the a
 Circulation Department  
 PO Box 9208  
 Framingham, MA 01701  
-**
+U.S.A.**
 
 (Print subscribers who are also online users should refer to the online section of this policy which contains information on changing your online preferences). 
 
@@ -116,9 +119,11 @@ The IDG Publishing Network is intended for individuals over the age of 13 years 
 
 If you have any questions or comments regarding the IDG Publishing Network or its use of information please send email to [postmasterhelp@idgcommunications.com](mailto:postmasterhelp@idgcommunications.com) or write to us at:
 
-**IDG Communications, Inc.  
-Customer Service, TSG Department   
-5 Speen St., Framingham MA 01701  
-**
+**IDG Communications  
+Customer Service, TSG Department  
+492 Old Connecticut Path  
+P.O. Box 9208  
+Framingham, MA 01701-9208  
+U.S.A.**
 
-**Last updated:** January 11, 2011
+**Last updated:** May 13, 2015
