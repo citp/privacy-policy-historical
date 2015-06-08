@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the crutchfield.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107032151id_/http%3A//www.crutchfield.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crutchfield.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609003517id_/http%3A//www.crutchfield.com/ISEO-ralscspd/privacy.aspx) for the most accurate reproduction.*
 
 # Crutchfield.com - Privacy Policy
 
-For more than 40 years, Crutchfield has developed relationships with our customers based on respect and integrity. We're aware of the trust and confidence you demonstrate when you visit our website and provide us with information. The Privacy Notice below is posted to demonstrate our adherence to the practices you'll find common to the best websites online. We promise that we will treat your information with the same honesty and sensitivity that we have displayed throughout our company's history.
+For more than 41 years, Crutchfield has developed relationships with our customers based on respect and integrity. We're aware of the trust and confidence you demonstrate when you visit our website and provide us with information. The Privacy Notice below is posted to demonstrate our adherence to the practices you'll find common to the best websites online. We promise that we will treat your information with the same honesty and sensitivity that we have displayed throughout our company's history.
 
 If you have any questions or concerns about our Privacy Notice, please call us toll-free at: 1.888.955.6000; e-mail us at [ webmaster@crutchfield.com](mailto:webmaster@crutchfield.com); or send a letter to:
 
@@ -60,6 +60,8 @@ Third Party Checkout Links: If you use a third party checkout link on our site s
 
 We contract with an outside service called Omniture to help us better understand your use of Crutchfield.com. Omniture places cookies on your computer to collect various kinds of information for us related to the use of our websites, so that we may continue to refine and improve the sites and better serve you. Omniture is not allowed to collect any credit card, user name or password information, nor are they allowed to use data that they collect for us for any other purpose. Additionally, Omniture is contractually required to maintain all the information collected for us in strict confidence. You may opt out of the Omniture information collection by [clicking here](http://www.omniture.com/privacy/2o7#optout).
 
+We contract with an outside service called Pippio to help us better understand your use of Crutchfield.com across multiple devices such as phones, desktop computers and tablets. Cookies are placed on your devices so that we can better understand how you use your various devices to contact our website so that we may continue to refine and improve the site and better service to you. Pippio is not allowed to collect any credit card, user name or password information, nor are they allowed to use data that they collect for us for any other purpose. You may opt out of the placement of Pippio cookies by clicking on <https://pippio.com/optout>. 
+
 We may share limited web browsing information of site visitors that have a prior relationship with PayPal and/or other Payors. This information will allow the Payor to enhance the Payor’s targeted marketing to the site visitor. The Payor may combine the information provided by us with information held by the Payor subject to the Payor’s privacy policy.
 
 ###  Law Enforcement and Protection of Users
@@ -80,7 +82,7 @@ We support several options for limiting the amount and type of information you s
 
   * You can choose to browse our Web site without accepting cookies. Please know that cookies allow us to recognize you from page to page, and they support your transactions with us. Without cookies enabled, you will still be able to browse our website, but will not be able to take advantage of certain website features. We do not currently monitor or honor any "Do Not Track" browser settings.
   * You may opt out of Omniture information collection by clicking [here](http://www.omniture.com/privacy/2o7#optout).
-  * You may opt out of select third party action-based advertising by visiting the Network Advertising Initiative's consumer opt out page located at [www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20141107032151id_/http%3A//www.crutchfield.com/www.networkadvertising.org/managing/opt_out.asp)
+  * You may opt out of select third party action-based advertising by visiting the Network Advertising Initiative's consumer opt out page located at [www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20150609003517id_/http%3A//www.crutchfield.com/ISEO-ralscspd/www.networkadvertising.org/managing/opt_out.asp)
   * You may opt out of Social Q&A powered by TurnTo by unsubscribing from all Crutchfield emails [here](https://www.crutchfield.com/ISEO-ralscspd/secure/Subscriptions.aspx) or by calling 1.800.319.8264 toll-free.
   * You may opt out of email marketing communications by clicking [here](https://www.crutchfield.com/ISEO-ralscspd/secure/Subscriptions.aspx) or by calling 1.800.319.8264 toll-free.
 
