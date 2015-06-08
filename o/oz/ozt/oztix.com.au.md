@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the oztix.com.au privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225104524id_/http%3A//www.oztix.com.au/OzTix/PrivacyStatement/tabid/746/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oztix.com.au privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608115620id_/http%3A//www.oztix.com.au/OzTix/PrivacyStatement/tabid/746/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
 **The Merchant Privacy Policy Highlights**
 
-This statement and the Privacy Policy [here](https://web.archive.org/OzTix/privacypolicyfull.aspx) applies to **Ticket Solutions Pty Ltd (ABN 94 106 907 206) trading as The Merchant and our related bodies corporate** (herein referred to as " **the Merchant, our, us, we** ") in relation to personal information collected by The Merchant, and contains some of the highlights of our Privacy Policy. 
+This statement and the Privacy Policy [here](https://web.archive.org/OzTix/privacy-policy-full.aspx) applies to **Ticket Solutions Pty Ltd (ABN 94 106 907 206) trading as The Merchant and our related bodies corporate** (herein referred to as " **the Merchant, our, us, we** ") in relation to personal information collected by The Merchant, and contains some of the highlights of our Privacy Policy. 
 
-To find out more about our privacy practices, see our online Privacy Policy [here](https://web.archive.org/OzTix/privacypolicyfull.aspx). Please read the summary below and click on the link for more details on a particular topic. 
+To find out more about our privacy practices, see our online Privacy Policy [here](https://web.archive.org/OzTix/privacy-policy-full.aspx). Please read the summary below and click on the link for more details on a particular topic. 
 
 The Merchant supports the importance that the community places on the maintenance of informational privacy of individuals' personal and sensitive information. This extends to the collection and management of information held in its records regarding individuals. 
 
@@ -22,27 +22,27 @@ The Merchant's Privacy Policy is to inform people of:
 
 **Collection**
 
-It is The Merchant's usual practice to collect personal information directly from the individual that personal information concerns. The types of information we collect are listed [here](https://web.archive.org/OzTix/privacypolicyfull.aspx#3-1). Sometimes, if you are an employee or potential employee of The Merchant, we may request personal information from you which consists of sensitive personal information. The types of sensitive information we collect are listed [here](https://web.archive.org/OzTix/privacypolicyfull.aspx#2-2). 
+It is The Merchant's usual practice to collect personal information directly from the individual that personal information concerns. The types of information we collect are listed [here](https://web.archive.org/OzTix/privacy-policy-full.aspx#3-1). Sometimes, if you are an employee or potential employee of The Merchant, we may request personal information from you which consists of sensitive personal information. The types of sensitive information we collect are listed [here](https://web.archive.org/OzTix/privacy-policy-full.aspx#2-2). 
 
 However, sometimes The Merchant may collect personal information from a third party. If we have collected personal information from a third party we will, whenever reasonably possible, make you aware that we have done this and why. 
 
 **Use and Disclosure**
 
-The Merchant only uses and discloses personal information for the purposes for which it was collected, which are directly related to one of our functions or activities [here](https://web.archive.org/OzTix/privacypolicyfull.aspx#4-2). The Merchant only discloses your personal information to those parties external to The Merchant where those third parties assist The Merchant in carrying out its services or are a related party to The Merchant. Examples of those organisations are listed [here](https://web.archive.org/OzTix/privacypolicyfull.aspx#5-1) and includes venues and event promoters, bands and industry partners. 
+The Merchant only uses and discloses personal information for the purposes for which it was collected, which are directly related to one of our functions or activities [here](https://web.archive.org/OzTix/privacy-policy-full.aspx#4-2). The Merchant only discloses your personal information to those parties external to The Merchant where those third parties assist The Merchant in carrying out its services or are a related party to The Merchant. Examples of those organisations are listed [here](https://web.archive.org/OzTix/privacy-policy-full.aspx#5-1) and includes venues and event promoters, bands and industry partners. 
 
 You may unsubscribe from receiving any further communication from us at any time. If you do not wish to receive direct marketing communications from The Merchant or our industry partners, please contact us via the details provided below, or follow the unsubscribe links in any email communication you may receive from us or our industry partners. 
 
 **Cross Border Disclosure**
 
-It is possible that some of the information collected by The Merchant may be disclosed to our related bodies corporate, contractors, agents and service providers outside of Australia. You consent to your information being disclosed to a destination outside Australia for this purpose, including but not limited to New Zealand and you understand and acknowledge that Australian Privacy Principle 8.1 will not apply to such disclosures of your personal information. Please see paragraph [7.1](https://web.archive.org/OzTix/privacypolicyfull.aspx#7-1) of our Privacy Policy for more details in relation to any cross border disclosure made of your personal information [here](https://web.archive.org/OzTix/privacypolicyfull.aspx#7). 
+It is possible that some of the information collected by The Merchant may be disclosed to our related bodies corporate, contractors, agents and service providers outside of Australia. You consent to your information being disclosed to a destination outside Australia for this purpose, including but not limited to New Zealand and you understand and acknowledge that Australian Privacy Principle 8.1 will not apply to such disclosures of your personal information. Please see paragraph [7.1](https://web.archive.org/OzTix/privacy-policy-full.aspx#7-1) of our Privacy Policy for more details in relation to any cross border disclosure made of your personal information [here](https://web.archive.org/OzTix/privacy-policy-full.aspx#7). 
 
 **Security and Access**
 
-The Merchant takes steps to protect the personal information we hold against unauthorised access, loss, use, modification or disclosure. Please see [here](https://web.archive.org/OzTix/privacypolicyfull.aspx#8) as we may require you to provide us with further information should the personal information we collect from you need updating. 
+The Merchant takes steps to protect the personal information we hold against unauthorised access, loss, use, modification or disclosure. Please see [here](https://web.archive.org/OzTix/privacy-policy-full.aspx#8) as we may require you to provide us with further information should the personal information we collect from you need updating. 
 
 **The Merchant's Obligations**
 
-The Merchant is bound by the Privacy Act 1988 (Cth). For more information, please see our complete Privacy Policy [here](https://web.archive.org/OzTix/privacypolicyfull.aspx). 
+The Merchant is bound by the Privacy Act 1988 (Cth). For more information, please see our complete Privacy Policy [here](https://web.archive.org/OzTix/privacy-policy-full.aspx). 
 
 **How to contact us**
 
@@ -94,6 +94,6 @@ You understand that:
 
 **6.** It is possible that some of the information collected via this application may be disclosed to The Merchant's related body corporate outside of Australia. You consent to your information being disclosed to a destination outside Australia for this purpose, including but not limited to New Zealand and you understand and acknowledge that Australian Privacy Principle 8.1 will not apply to such disclosures of your personal information. 
 
-**7.** The Merchant's Privacy Policy sets out the process as to how you can access and correct any of your personal information collected under this form as well as to how you can make a complaint if The Merchant has breached the Privacy Act in the handling of your personal information. The Merchant's Privacy Policy is available [here](https://web.archive.org/OzTix/privacypolicyfull.aspx) or can be otherwise provided by requesting a copy from The Merchant. 
+**7.** The Merchant's Privacy Policy sets out the process as to how you can access and correct any of your personal information collected under this form as well as to how you can make a complaint if The Merchant has breached the Privacy Act in the handling of your personal information. The Merchant's Privacy Policy is available [here](https://web.archive.org/OzTix/privacy-policy-full.aspx) or can be otherwise provided by requesting a copy from The Merchant. 
 
 By continuing with your purchase of tickets to an event, performance or venue via this website, indicates that you have read this collection notification and acknowledge that your personal information will be collected, used and disclosed in accordance with this collection notice and as otherwise detailed in The Merchant's Privacy Policy and, to the extent it is necessary, that you give your voluntary express consent to The Merchant collecting, using, storing, disclosing and disposing of your personal information in this manner.
