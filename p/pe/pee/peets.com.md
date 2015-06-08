@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the peets.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019140042id_/http%3A//www.peets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peets.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608023624id_/http%3A//www.peets.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Effective Date: January 1, 2013
 
-Peet's understands that you care about privacy, so we are committed to helping you understand your privacy rights and how we use information about our site visitors. This Policy describes the types of personal information we collect, how we may use that information, and how we protect it. We also tell you how to update your information or contact us with questions about our privacy practices. This Policy applies only to this website ([www.peets.com](https://web.archive.org/web/20141019140042id_/http%3A//www.peets.com/www.peets.com)), our mobile site ([m.peets.com](https://web.archive.org/web/20141019140042id_/http%3A//www.peets.com/m.peets.com)), and the online activities described herein, such as our use of social media sites.
+Peet's understands that you care about privacy, so we are committed to helping you understand your privacy rights and how we use information about our site visitors. This Policy describes the types of personal information we collect, how we may use that information, and how we protect it. We also tell you how to update your information or contact us with questions about our privacy practices. This Policy applies only to this website ([www.peets.com](https://web.archive.org/web/20150608023624id_/http%3A//www.peets.com/www.peets.com)), our mobile site ([m.peets.com](https://web.archive.org/web/20150608023624id_/http%3A//www.peets.com/m.peets.com)), and the online activities described herein, such as our use of social media sites.
 
 Information We Collect and How We Use It
 
