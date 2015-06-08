@@ -1,0 +1,1149 @@
+<!--The following is the downloaded HTML source of the nlyman.com privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608125927id_/http%3A//nlyman.com/ww/cookies) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang=""><head>
+    
+    <script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P2LS"></script><script src="//cdn.optimizely.com/js/2102300310.js"></script>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"0c02f89b4b","applicationID":"6247876","transactionName":"ZFZRYUECXkdUVhZfCl0cd1pHLVVAdloMQhdcX19QQUxzQUZBDVsAQWBWR0UKU1Eadg1ZDlpWQA==","queueTime":0,"applicationTime":43,"ttGuid":"C724B71E578C6068","agent":"js-agent.newrelic.com/nr-632.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwcEU1BSGwUCUFZaAAc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<meta name="description" content="NLYMAN.COM offers men's clothing, shoes, jackets and trousers from leading brands. At NLYMAN.COM you will find the latest fashion online.">
+    <link rel="canonical" href="http://nlyman.com/ww/about-nelly/">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="format-detection" content="telephone=no">
+<title>Menswear Clothes And Designer Brands Online - NlyMan.com</title>
+
+<!--
+<link rel="apple-touch-icon" sizes="57x57" href="/Content/Images/touch/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/Content/Images/touch/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/Content/Images/touch/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/Content/Images/touch/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/Content/Images/touch/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/Content/Images/touch/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/Content/Images/touch/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/Content/Images/touch/apple-touch-icon-152x152.png">-->
+<link rel="apple-touch-icon" sizes="180x180" href="/Content/Images/touch/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/Content/Images/favicon-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/Content/Images/favicon-160x160.png" sizes="160x160">
+<link rel="icon" type="image/png" href="/Content/Images/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/Content/Images/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/Content/Images/favicon-32x32.png" sizes="32x32">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/Content/Images/mstile-144x144.png">
+
+
+<!-- Google Fonts -->
+
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Playfair+Display:700italic|Montserrat:400,700|Open+Sans:400italic,400,300,600,700">
+
+
+<meta name="google-site-verification" content="pzz-oHEQpPox0R0JblkH7sFLya4XvWdbzK332HxXWn8">
+<meta name="google-site-verification" content="2IAn3DaWVctndqOqvSzlHFWPyvmMWbzYwS172ueortM">
+
+<link href="//c.nelly.com/statics/0.0.436/main_man.min.css" rel="stylesheet">  
+
+    <script src="/Content/Scripts/head_main.js"></script>
+    <script src="/Content/Scripts/jquery-2.1.1.min.js"></script>
+<script src="/Content/Scripts/countdown.min.js"></script>
+  
+
+    
+    
+</head>
+<body>
+    <input type="hidden" id="nlysynced" value="0" data-url="http://nelly.com/route/se/cart/getkey">
+    <input type="hidden" id="nlyversion" value="2648 -  Build: Tue 06/02/2015 11:35:23.83">
+    <input type="hidden" id="frontpageUrl" value="http://nlyman.com/ww/mens-fashion/">
+    <input type="hidden" id="cookieBalkText" value="<h5 style='text-align: center'> Both Nelly.com and NLYMAN.com use cookies. In order to further progress on either site, you must allow the use of cookies. <a style='color:#5791b7;' href='#' onclick='nellyCookieAccept()'>I accept</a></h5>">
+    <input type="hidden" id="nelly_languageId" value="16">
+    <input type="hidden" id="nelly_channelId" value="16">
+    <input type="hidden" id="nelly_getAliasPath" value="http://nlyman.com/route/ww/Home/GetAlias">
+    <input type="hidden" id="ChristmasNewsLetterUrl" value="http://nlyman.com/route/ww/NewsLetter/RegisterChristmas">
+    <input type="hidden" id="esalesclick" data-url="http://nlyman.com/route/ww/Esales/click" data-active="True">
+
+
+    <input type="hidden" id="GenericUrl" value="kretesspolicy-cookies/">
+    <input type="hidden" id="Currency" value="USD">
+
+
+<div class="modal fade" id="delivery-modal" role="dialog" aria-hidden="true">
+    <span class="hidden" id="languages" data-se="({1:&quot;Svenska&quot;})" data-dk="({2:&quot;Dansk&quot;})" data-no="({3:&quot;Norsk&quot;})" data-fi="({4:&quot;Suomi&quot;})" data-de="({5:&quot;Deutsch&quot;})" data-nl="({6:&quot;Nederlands&quot;})" data-at="({7:&quot;Deutsch&quot;})" data-eu="({8:&quot;English&quot;,28:&quot;Français&quot;,30:&quot;Español&quot;})" data-ww="({16:&quot;English&quot;,29:&quot;Français&quot;,31:&quot;Español&quot;})" data-gb="({20:&quot;English&quot;})" data-fr="({23:&quot;Français&quot;})" data-be="({24:&quot;Français&quot;,26:&quot;Nederlands&quot;})" data-pl="({27:&quot;Polski&quot;})"></span>
+    <span class="hidden" id="defaultCurrency" data-se="SEK" data-dk="DKK" data-no="NOK" data-fi="EUR" data-de="EUR" data-nl="EUR" data-at="EUR" data-eu="EUR" data-ww="USD" data-gb="GBP" data-fr="EUR" data-be="EUR" data-pl="PLN"></span>
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+                <h2>Nelly now delivers all over the world!</h2>
+                <h3>We've tried to guess your location. Did we get it wrong?</h3>
+            </div>
+            <div class="modal-body">
+                <p>Please be aware that displayed prices are exclusive of all tax which may be payable in relation to your order. To keep things simple, we'll calculate local taxes and charges at checkout so there are no surprises when your parcel arrives. The currency selector is to be used as a guide only and in all cases you will still be charged in USD.</p>
+
+                <div class="form-horizontal delivery-selection-selects">
+                    <div class="control-group">
+                        <label class="control-label" for="shippingDestination">Choose your shipping destination:
+</label>
+                        <div class="controls">
+                            <select id="delivery-country">
+
+                                    <option value="AO" data-ch="WW">Angola</option>
+                                    <option value="AR" data-ch="WW">Argentina</option>
+                                    <option value="AM" data-ch="WW">Armenia</option>
+                                    <option value="AW" data-ch="WW">Aruba</option>
+                                    <option value="AU" data-ch="WW">Australia</option>
+                                    <option value="AT" data-ch="AT">Austria</option>
+                                    <option value="AZ" data-ch="WW">Azerbaijan</option>
+                                    <option value="BS" data-ch="WW">Bahamas</option>
+                                    <option value="BH" data-ch="WW">Bahrain</option>
+                                    <option value="BD" data-ch="WW">Bangladesh</option>
+                                    <option value="BB" data-ch="WW">Barbados</option>
+                                    <option value="BY" data-ch="WW">Belarus</option>
+                                    <option value="BE" data-ch="BE">Belgium</option>
+                                    <option value="BZ" data-ch="WW">Belize</option>
+                                    <option value="BJ" data-ch="WW">Benin</option>
+                                    <option value="BM" data-ch="WW">Bermuda</option>
+                                    <option value="BT" data-ch="WW">Bhutan</option>
+                                    <option value="BO" data-ch="WW">Bolivia</option>
+                                    <option value="BA" data-ch="WW">Bosnia And Herzegovina</option>
+                                    <option value="BW" data-ch="WW">Botswana</option>
+                                    <option value="BR" data-ch="WW">Brazil</option>
+                                    <option value="BN" data-ch="WW">Brunei</option>
+                                    <option value="BF" data-ch="WW">Burkina Faso</option>
+                                    <option value="BI" data-ch="WW">Burundi</option>
+                                    <option value="KH" data-ch="WW">Cambodia</option>
+                                    <option value="CM" data-ch="WW">Cameroon</option>
+                                    <option value="CA" data-ch="WW">Canada</option>
+                                    <option value="CF" data-ch="WW">Central African Republic</option>
+                                    <option value="TD" data-ch="WW">Chad</option>
+                                    <option value="CN" data-ch="WW">China</option>
+                                    <option value="CO" data-ch="WW">Colombia</option>
+                                    <option value="CG" data-ch="WW">Congo</option>
+                                    <option value="CR" data-ch="WW">Costa Rica</option>
+                                    <option value="CI" data-ch="WW">Côte D'ivoire</option>
+                                    <option value="HR" data-ch="EU">Croatia</option>
+                                    <option value="CZ" data-ch="EU">Czech Republic</option>
+                                    <option value="DK" data-ch="DK">Denmark</option>
+                                    <option value="DJ" data-ch="WW">Djibouti</option>
+                                    <option value="DM" data-ch="WW">Dominica</option>
+                                    <option value="DO" data-ch="WW">Dominican Republic</option>
+                                    <option value="CD" data-ch="WW">Dr Congo</option>
+                                    <option value="EC" data-ch="WW">Ecuador</option>
+                                    <option value="EG" data-ch="WW">Egypt</option>
+                                    <option value="SV" data-ch="WW">El Salvador</option>
+                                    <option value="GQ" data-ch="WW">Equatorial Guinea</option>
+                                    <option value="ER" data-ch="WW">Eritrea</option>
+                                    <option value="EE" data-ch="EU">Estonia</option>
+                                    <option value="ET" data-ch="WW">Ethiopia</option>
+                                    <option value="FI" data-ch="FI">Finland</option>
+                                    <option value="FR" data-ch="FR">France</option>
+                                    <option value="GF" data-ch="WW">French Guiana</option>
+                                    <option value="PF" data-ch="WW">French Polynesia</option>
+                                    <option value="GA" data-ch="WW">Gabon</option>
+                                    <option value="GM" data-ch="WW">Gambia</option>
+                                    <option value="GE" data-ch="WW">Georgia</option>
+                                    <option value="DE" data-ch="DE">Germany</option>
+                                    <option value="GR" data-ch="EU">Greece</option>
+                                    <option value="GD" data-ch="WW">Grenada</option>
+                                    <option value="GP" data-ch="WW">Guadeloupe</option>
+                                    <option value="GU" data-ch="WW">Guam</option>
+                                    <option value="GT" data-ch="WW">Guatemala</option>
+                                    <option value="GN" data-ch="WW">Guinea</option>
+                                    <option value="GW" data-ch="WW">Guinea-Bissau</option>
+                                    <option value="GY" data-ch="WW">Guyana</option>
+                                    <option value="HT" data-ch="WW">Haiti</option>
+                                    <option value="HN" data-ch="WW">Honduras</option>
+                                    <option value="HK" data-ch="WW">Hong Kong</option>
+                                    <option value="HU" data-ch="EU">Hungary</option>
+                                    <option value="IN" data-ch="WW">India</option>
+                                    <option value="IE" data-ch="EU">Ireland</option>
+                                    <option value="IT" data-ch="EU">Italy</option>
+                                    <option value="JM" data-ch="WW">Jamaica</option>
+                                    <option value="JP" data-ch="WW">Japan</option>
+                                    <option value="JO" data-ch="WW">Jordan</option>
+                                    <option value="KZ" data-ch="WW">Kazakhstan</option>
+                                    <option value="KE" data-ch="WW">Kenya</option>
+                                    <option value="KW" data-ch="WW">Kuwait</option>
+                                    <option value="KG" data-ch="WW">Kyrgyzstan</option>
+                                    <option value="LA" data-ch="WW">Laos</option>
+                                    <option value="LV" data-ch="EU">Latvia</option>
+                                    <option value="LS" data-ch="WW">Lesotho</option>
+                                    <option value="LR" data-ch="WW">Liberia</option>
+                                    <option value="LY" data-ch="WW">Libya</option>
+                                    <option value="LT" data-ch="EU">Lithuania</option>
+                                    <option value="LU" data-ch="EU">Luxembourg</option>
+                                    <option value="MO" data-ch="WW">Macau</option>
+                                    <option value="MK" data-ch="WW">Macedonia</option>
+                                    <option value="MG" data-ch="WW">Madagascar</option>
+                                    <option value="MW" data-ch="WW">Malawi</option>
+                                    <option value="MV" data-ch="WW">Maldives</option>
+                                    <option value="ML" data-ch="WW">Mali</option>
+                                    <option value="MQ" data-ch="WW">Martinique</option>
+                                    <option value="MR" data-ch="WW">Mauritania</option>
+                                    <option value="MU" data-ch="WW">Mauritius</option>
+                                    <option value="YT" data-ch="WW">Mayotte</option>
+                                    <option value="MX" data-ch="WW">Mexico</option>
+                                    <option value="MD" data-ch="WW">Moldova</option>
+                                    <option value="ME" data-ch="WW">Montenegro</option>
+                                    <option value="MS" data-ch="WW">Montserrat</option>
+                                    <option value="MZ" data-ch="WW">Mozambique</option>
+                                    <option value="NA" data-ch="WW">Namibia</option>
+                                    <option value="NP" data-ch="WW">Nepal</option>
+                                    <option value="NL" data-ch="NL">Netherlands</option>
+                                    <option value="AN" data-ch="WW">Netherlands Antilles</option>
+                                    <option value="NC" data-ch="WW">New Caledonia</option>
+                                    <option value="NZ" data-ch="WW">New Zealand</option>
+                                    <option value="NI" data-ch="WW">Nicaragua</option>
+                                    <option value="NG" data-ch="WW">Nigeria</option>
+                                    <option value="NO" data-ch="NO">Norway</option>
+                                    <option value="OM" data-ch="WW">Oman</option>
+                                    <option value="PA" data-ch="WW">Panama</option>
+                                    <option value="PG" data-ch="WW">Papua New Guinea</option>
+                                    <option value="PY" data-ch="WW">Paraguay</option>
+                                    <option value="PL" data-ch="PL">Poland</option>
+                                    <option value="PT" data-ch="EU">Portugal</option>
+                                    <option value="PR" data-ch="WW">Puerto Rico</option>
+                                    <option value="QA" data-ch="WW">Qatar</option>
+                                    <option value="RE" data-ch="WW">Réunion</option>
+                                    <option value="RU" data-ch="WW">Russia</option>
+                                    <option value="RW" data-ch="WW">Rwanda</option>
+                                    <option value="LC" data-ch="WW">Saint Lucia</option>
+                                    <option value="VC" data-ch="WW">Saint Vincent And The Grenadines</option>
+                                    <option value="SA" data-ch="WW">Saudi Arabia</option>
+                                    <option value="SN" data-ch="WW">Senegal</option>
+                                    <option value="RS" data-ch="WW">Serbia</option>
+                                    <option value="SC" data-ch="WW">Seychelles</option>
+                                    <option value="SL" data-ch="WW">Sierra Leone</option>
+                                    <option value="SG" data-ch="WW">Singapore</option>
+                                    <option value="SK" data-ch="EU">Slovakia</option>
+                                    <option value="SI" data-ch="EU">Slovenia</option>
+                                    <option value="SO" data-ch="WW">Somalia</option>
+                                    <option value="ZA" data-ch="WW">South Africa</option>
+                                    <option value="KR" data-ch="WW">South Korea</option>
+                                    <option value="ES" data-ch="EU">Spain</option>
+                                    <option value="LK" data-ch="WW">Sri Lanka</option>
+                                    <option value="SR" data-ch="WW">Suriname</option>
+                                    <option value="SZ" data-ch="WW">Swaziland</option>
+                                    <option value="SE" data-ch="SE">Sweden</option>
+                                    <option value="CH" data-ch="WW">Switzerland</option>
+                                    <option value="TW" data-ch="WW">Taiwan</option>
+                                    <option value="TJ" data-ch="WW">Tajikistan</option>
+                                    <option value="TZ" data-ch="WW">Tanzania</option>
+                                    <option value="TG" data-ch="WW">Togo</option>
+                                    <option value="TT" data-ch="WW">Trinidad And Tobago</option>
+                                    <option value="TR" data-ch="WW">Turkey</option>
+                                    <option value="TM" data-ch="WW">Turkmenistan</option>
+                                    <option value="TC" data-ch="WW">Turks And Caicos Islands</option>
+                                    <option value="UG" data-ch="WW">Uganda</option>
+                                    <option value="AE" data-ch="WW">United Arab Emirates</option>
+                                    <option value="GB" data-ch="UK">United Kingdom</option>
+                                    <option value="US" selected="" data-ch="WW">United States</option>
+                                    <option value="UY" data-ch="WW">Uruguay</option>
+                                    <option value="UZ" data-ch="WW">Uzbekistan</option>
+                                    <option value="VE" data-ch="WW">Venezuela</option>
+                                    <option value="VN" data-ch="WW">Vietnam</option>
+                                    <option value="VG" data-ch="WW">Virgin Islands, British</option>
+                                    <option value="VI" data-ch="WW">Virgin Islands, U.S.</option>
+                                    <option value="YE" data-ch="WW">Yemen</option>
+                                    <option value="ZW" data-ch="WW">Zimbabwe</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="control-group">
+                        <label class="control-label" for="currency">Choose your preffered currency:</label>
+                        <div class="controls">
+                            <select id="delivery-currency">
+                                    <option>AUD</option>
+                                    <option>BGN</option>
+                                    <option>BRL</option>
+                                    <option>CAD</option>
+                                    <option>CHF</option>
+                                    <option>CNY</option>
+                                    <option>CZK</option>
+                                    <option>DKK</option>
+                                    <option>EUR</option>
+                                    <option>GBP</option>
+                                    <option>HKD</option>
+                                    <option>HRK</option>
+                                    <option>HUF</option>
+                                    <option>IDR</option>
+                                    <option>ILS</option>
+                                    <option>INR</option>
+                                    <option>JPY</option>
+                                    <option>KRW</option>
+                                    <option>MXN</option>
+                                    <option>MYR</option>
+                                    <option>NOK</option>
+                                    <option>NZD</option>
+                                    <option>PHP</option>
+                                    <option>PLN</option>
+                                    <option>RON</option>
+                                    <option>RUB</option>
+                                    <option>SEK</option>
+                                    <option>SGD</option>
+                                    <option>THB</option>
+                                    <option>TRY</option>
+                                    <option selected="">USD</option>
+                                    <option>ZAR</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="control-group">
+                        <label class="control-label" for="language">Choose your preffered language:
+</label>
+                        <div class="controls">
+                            <select id="delivery-language">
+                                            <option value="16">English</option>
+                                            <option value="29">Français</option>
+                                            <option value="31">Español</option>
+
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="modal-footer">
+                <p><a class="btn btn-primary delivery-selection-enter" data-url="http://nlyman.com/route/ww/Home/SetCountryDetails" data-returnurl="http://nlyman.com/ww/cookies/" href="#">ENTER NLYMAN.COM</a></p>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+
+    
+<div class="navbar navbar-fixed-top navbar-actionbar hidden-xs">
+
+
+    <div class="header-top">
+        <div class="container">
+            <ul class="sites pull-left">
+                <li><a href="http://nelly.com/ww/womens-fashion/">nelly.com</a></li>
+                <li><a href="http://nlyman.com/ww/mens-fashion/">nlyman.com</a></li>
+            </ul>
+            <ul class="locale pull-right" id="ChannelCountryCurrencyLink">
+                <li class="header-callout">INTERNATIONAL SHIPPING</li>
+                
+
+<li class="dropdown-country">
+    <a href="#" class="header-toggle-currency dropdown-toggle" data-toggle="dropdown"><i class="flag-united-states"></i> USD<b class="caret"></b></a>
+    <ul class="dropdown-menu dropdown-menu-right dropdown-locale">
+        <li>
+            <div class="locale-module">
+                <div class="locale-info">
+                    <input type="hidden" id="GetChannelLanguagesUrl" value="http://nlyman.com/route/ww/ChangeCountry/GetLanugageAndCurrencyOnChannel">
+                    <h5>Delivery</h5>
+
+                    <h6>Delivery time:</h6>
+                    <p id="HeaderShippingTime">0 to 0 days</p>
+
+                    <h6>Delivery cost:</h6>
+                    <p id="HeaderShippingCostText">$10 (USD)</p>
+
+                    <h6>Taxes and charges:</h6>
+                    <p id="HeaderCalculatedAtCheckout">Will be calculated at checkout</p>
+                </div>
+                <div class="locale-settings">
+                    <h5>Delivery</h5>
+
+                    
+                    <div class="select select-block">
+                        <select id="headerCountrySelect">
+                                <option value="SE" data-region="SE">Sweden</option>
+                                <option value="DK" data-region="DK">Denmark</option>
+                                <option value="NO" data-region="NO">Norway</option>
+                                <option value="FI" data-region="FI">Finland</option>
+                                <option value="DE" data-region="DE">Germany</option>
+                                <option value="NL" data-region="NL">Netherlands</option>
+                                <option value="AT" data-region="AT">Austria</option>
+                                <option value="GB" data-region="GB">UK</option>
+                                <option value="FR" data-region="FR">France</option>
+                                <option value="BE" data-region="BE">Belgium</option>
+                                <option value="PL" data-region="PL">Poland</option>
+                                <option data-region="">-------</option>
+                                <option value="AO" data-region="WW">Angola</option>
+                                <option value="AR" data-region="WW">Argentina</option>
+                                <option value="AM" data-region="WW">Armenia</option>
+                                <option value="AW" data-region="WW">Aruba</option>
+                                <option value="AU" data-region="WW">Australia</option>
+                                <option value="AZ" data-region="WW">Azerbaijan</option>
+                                <option value="BS" data-region="WW">Bahamas</option>
+                                <option value="BH" data-region="WW">Bahrain</option>
+                                <option value="BD" data-region="WW">Bangladesh</option>
+                                <option value="BB" data-region="WW">Barbados</option>
+                                <option value="BY" data-region="WW">Belarus</option>
+                                <option value="BZ" data-region="WW">Belize</option>
+                                <option value="BJ" data-region="WW">Benin</option>
+                                <option value="BM" data-region="WW">Bermuda</option>
+                                <option value="BT" data-region="WW">Bhutan</option>
+                                <option value="BO" data-region="WW">Bolivia</option>
+                                <option value="BA" data-region="WW">Bosnia And Herzegovina</option>
+                                <option value="BW" data-region="WW">Botswana</option>
+                                <option value="BR" data-region="WW">Brazil</option>
+                                <option value="BN" data-region="WW">Brunei</option>
+                                <option value="BF" data-region="WW">Burkina Faso</option>
+                                <option value="BI" data-region="WW">Burundi</option>
+                                <option value="KH" data-region="WW">Cambodia</option>
+                                <option value="CM" data-region="WW">Cameroon</option>
+                                <option value="CA" data-region="WW">Canada</option>
+                                <option value="CF" data-region="WW">Central African Republic</option>
+                                <option value="TD" data-region="WW">Chad</option>
+                                <option value="CN" data-region="WW">China</option>
+                                <option value="CO" data-region="WW">Colombia</option>
+                                <option value="CG" data-region="WW">Congo</option>
+                                <option value="CR" data-region="WW">Costa Rica</option>
+                                <option value="CI" data-region="WW">Côte D'ivoire</option>
+                                <option value="HR" data-region="EU">Croatia</option>
+                                <option value="CZ" data-region="EU">Czech Republic</option>
+                                <option value="DJ" data-region="WW">Djibouti</option>
+                                <option value="DM" data-region="WW">Dominica</option>
+                                <option value="DO" data-region="WW">Dominican Republic</option>
+                                <option value="CD" data-region="WW">Dr Congo</option>
+                                <option value="EC" data-region="WW">Ecuador</option>
+                                <option value="EG" data-region="WW">Egypt</option>
+                                <option value="SV" data-region="WW">El Salvador</option>
+                                <option value="GQ" data-region="WW">Equatorial Guinea</option>
+                                <option value="ER" data-region="WW">Eritrea</option>
+                                <option value="EE" data-region="EU">Estonia</option>
+                                <option value="ET" data-region="WW">Ethiopia</option>
+                                <option value="GF" data-region="WW">French Guiana</option>
+                                <option value="PF" data-region="WW">French Polynesia</option>
+                                <option value="GA" data-region="WW">Gabon</option>
+                                <option value="GM" data-region="WW">Gambia</option>
+                                <option value="GE" data-region="WW">Georgia</option>
+                                <option value="GR" data-region="EU">Greece</option>
+                                <option value="GD" data-region="WW">Grenada</option>
+                                <option value="GP" data-region="WW">Guadeloupe</option>
+                                <option value="GU" data-region="WW">Guam</option>
+                                <option value="GT" data-region="WW">Guatemala</option>
+                                <option value="GN" data-region="WW">Guinea</option>
+                                <option value="GW" data-region="WW">Guinea-Bissau</option>
+                                <option value="GY" data-region="WW">Guyana</option>
+                                <option value="HT" data-region="WW">Haiti</option>
+                                <option value="HN" data-region="WW">Honduras</option>
+                                <option value="HK" data-region="WW">Hong Kong</option>
+                                <option value="HU" data-region="EU">Hungary</option>
+                                <option value="IN" data-region="WW">India</option>
+                                <option value="IE" data-region="EU">Ireland</option>
+                                <option value="IT" data-region="EU">Italy</option>
+                                <option value="JM" data-region="WW">Jamaica</option>
+                                <option value="JP" data-region="WW">Japan</option>
+                                <option value="JO" data-region="WW">Jordan</option>
+                                <option value="KZ" data-region="WW">Kazakhstan</option>
+                                <option value="KE" data-region="WW">Kenya</option>
+                                <option value="KW" data-region="WW">Kuwait</option>
+                                <option value="KG" data-region="WW">Kyrgyzstan</option>
+                                <option value="LA" data-region="WW">Laos</option>
+                                <option value="LV" data-region="EU">Latvia</option>
+                                <option value="LS" data-region="WW">Lesotho</option>
+                                <option value="LR" data-region="WW">Liberia</option>
+                                <option value="LY" data-region="WW">Libya</option>
+                                <option value="LT" data-region="EU">Lithuania</option>
+                                <option value="LU" data-region="EU">Luxembourg</option>
+                                <option value="MO" data-region="WW">Macau</option>
+                                <option value="MK" data-region="WW">Macedonia</option>
+                                <option value="MG" data-region="WW">Madagascar</option>
+                                <option value="MW" data-region="WW">Malawi</option>
+                                <option value="MV" data-region="WW">Maldives</option>
+                                <option value="ML" data-region="WW">Mali</option>
+                                <option value="MQ" data-region="WW">Martinique</option>
+                                <option value="MR" data-region="WW">Mauritania</option>
+                                <option value="MU" data-region="WW">Mauritius</option>
+                                <option value="YT" data-region="WW">Mayotte</option>
+                                <option value="MX" data-region="WW">Mexico</option>
+                                <option value="MD" data-region="WW">Moldova</option>
+                                <option value="ME" data-region="WW">Montenegro</option>
+                                <option value="MS" data-region="WW">Montserrat</option>
+                                <option value="MZ" data-region="WW">Mozambique</option>
+                                <option value="NA" data-region="WW">Namibia</option>
+                                <option value="NP" data-region="WW">Nepal</option>
+                                <option value="AN" data-region="WW">Netherlands Antilles</option>
+                                <option value="NC" data-region="WW">New Caledonia</option>
+                                <option value="NZ" data-region="WW">New Zealand</option>
+                                <option value="NI" data-region="WW">Nicaragua</option>
+                                <option value="NG" data-region="WW">Nigeria</option>
+                                <option value="OM" data-region="WW">Oman</option>
+                                <option value="PA" data-region="WW">Panama</option>
+                                <option value="PG" data-region="WW">Papua New Guinea</option>
+                                <option value="PY" data-region="WW">Paraguay</option>
+                                <option value="PT" data-region="EU">Portugal</option>
+                                <option value="PR" data-region="WW">Puerto Rico</option>
+                                <option value="QA" data-region="WW">Qatar</option>
+                                <option value="RE" data-region="WW">Réunion</option>
+                                <option value="RU" data-region="WW">Russia</option>
+                                <option value="RW" data-region="WW">Rwanda</option>
+                                <option value="LC" data-region="WW">Saint Lucia</option>
+                                <option value="VC" data-region="WW">Saint Vincent And The Grenadines</option>
+                                <option value="SA" data-region="WW">Saudi Arabia</option>
+                                <option value="SN" data-region="WW">Senegal</option>
+                                <option value="RS" data-region="WW">Serbia</option>
+                                <option value="SC" data-region="WW">Seychelles</option>
+                                <option value="SL" data-region="WW">Sierra Leone</option>
+                                <option value="SG" data-region="WW">Singapore</option>
+                                <option value="SK" data-region="EU">Slovakia</option>
+                                <option value="SI" data-region="EU">Slovenia</option>
+                                <option value="SO" data-region="WW">Somalia</option>
+                                <option value="ZA" data-region="WW">South Africa</option>
+                                <option value="KR" data-region="WW">South Korea</option>
+                                <option value="ES" data-region="EU">Spain</option>
+                                <option value="LK" data-region="WW">Sri Lanka</option>
+                                <option value="SR" data-region="WW">Suriname</option>
+                                <option value="SZ" data-region="WW">Swaziland</option>
+                                <option value="CH" data-region="WW">Switzerland</option>
+                                <option value="TW" data-region="WW">Taiwan</option>
+                                <option value="TJ" data-region="WW">Tajikistan</option>
+                                <option value="TZ" data-region="WW">Tanzania</option>
+                                <option value="TG" data-region="WW">Togo</option>
+                                <option value="TT" data-region="WW">Trinidad And Tobago</option>
+                                <option value="TR" data-region="WW">Turkey</option>
+                                <option value="TM" data-region="WW">Turkmenistan</option>
+                                <option value="TC" data-region="WW">Turks And Caicos Islands</option>
+                                <option value="UG" data-region="WW">Uganda</option>
+                                <option value="AE" data-region="WW">United Arab Emirates</option>
+                                <option value="US" data-region="WW">United States</option>
+                                <option value="UY" data-region="WW">Uruguay</option>
+                                <option value="UZ" data-region="WW">Uzbekistan</option>
+                                <option value="VE" data-region="WW">Venezuela</option>
+                                <option value="VN" data-region="WW">Vietnam</option>
+                                <option value="VG" data-region="WW">Virgin Islands, British</option>
+                                <option value="VI" data-region="WW">Virgin Islands, U.S.</option>
+                                <option value="YE" data-region="WW">Yemen</option>
+                                <option value="ZW" data-region="WW">Zimbabwe</option>
+                        </select>
+                    </div>
+
+                    <a href="http://nlyman.com/ww/change-country/" class="help-block">Wrong Country?</a>
+
+                    <div class="form-group">
+                        <label for="languageSelect">Choose language</label>
+                        <div class="select select-block">
+                            <select class="js-ChangeCountrySelectContainer" id="languageSelect">
+                                            <option data-languageid="16" data-channelid="16" selected="">English</option>
+                                            <option data-languageid="29" data-channelid="16">Français</option>
+                                            <option data-languageid="31" data-channelid="16">Español</option>
+
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="currencySelect">Choose currency</label>
+                        <div class="select select-block">
+    <select id="currencySelect" name="CurrencySelect">
+
+
+
+            <option value="USD" data-name="USD">USD</option>
+                        <option value="EUR" data-name="EUR">EUR</option>
+                <option value="AUD" data-name="AUD">AUD</option>
+                <option value="CNY" data-name="CNY">CNY</option>
+
+        <option disabled="disabled">---</option>
+
+                <option value="BGN" data-name="BGN">BGN</option>
+                <option value="BRL" data-name="BRL">BRL</option>
+                <option value="CAD" data-name="CAD">CAD</option>
+                <option value="CHF" data-name="CHF">CHF</option>
+                <option value="CZK" data-name="CZK">CZK</option>
+                <option value="DKK" data-name="DKK">DKK</option>
+                <option value="GBP" data-name="GBP">GBP</option>
+                <option value="HKD" data-name="HKD">HKD</option>
+                <option value="HRK" data-name="HRK">HRK</option>
+                <option value="HUF" data-name="HUF">HUF</option>
+                <option value="IDR" data-name="IDR">IDR</option>
+                <option value="ILS" data-name="ILS">ILS</option>
+                <option value="INR" data-name="INR">INR</option>
+                <option value="JPY" data-name="JPY">JPY</option>
+                <option value="KRW" data-name="KRW">KRW</option>
+                <option value="MXN" data-name="MXN">MXN</option>
+                <option value="MYR" data-name="MYR">MYR</option>
+                <option value="NOK" data-name="NOK">NOK</option>
+                <option value="NZD" data-name="NZD">NZD</option>
+                <option value="PHP" data-name="PHP">PHP</option>
+                <option value="PLN" data-name="PLN">PLN</option>
+                <option value="RON" data-name="RON">RON</option>
+                <option value="RUB" data-name="RUB">RUB</option>
+                <option value="SEK" data-name="SEK">SEK</option>
+                <option value="SGD" data-name="SGD">SGD</option>
+                <option value="THB" data-name="THB">THB</option>
+                <option value="TRY" data-name="TRY">TRY</option>
+                <option value="ZAR" data-name="ZAR">ZAR</option>
+    </select>
+</div>
+                    </div>
+                    <button class="btn btn-locale" id="CurrencyChannelButton" data-url="http://nlyman.com/route/ww/Home/SwitchCountryLanguageCurrency" onclick="ChangeCurrencyLanguage();">Save</button>
+                </div>
+            </div>
+        </li>
+    </ul>
+</li>
+
+            </ul>
+        </div>
+    </div>
+    <div class="container">
+        <a href="http://nlyman.com/ww/mens-fashion/" class="logo"></a>
+        
+<!--
+     <div id="search-not-mobile" class="navbar-collapse collapse right">
+       <button data-target="#search" data-toggle="collapse" class="btn navbar-btn btn-primary" type="button">
+         <span class="sr-only">Toggle search</span>
+         <i class="fa glyphicon glyphicon-search"></i>
+       </button>
+     </div>
+     -->
+    <form id="search-form" class="navbar-form navbar-left form-search" method="POST" action="/ww/search/" data-autocomplete="http://nlyman.com/route/ww/Search/Search" role="search">
+        <input type="text" name="SearchString" id="search-value" class="form-control navbar-search-input" placeholder="Search by name, brand, etc " autocomplete="off" tabindex="1">
+        <input type="hidden" name="group">
+        <input type="hidden" name="gender">
+        <input type="hidden" name="colors">
+        <input type="hidden" name="brands">
+        <input type="hidden" name="sizes">
+        <input type="hidden" name="page">
+        <input type="hidden" name="campaigns">
+        <input type="hidden" name="priceFrom">
+        <input type="hidden" name="priceTo">
+        <button class="btn navbar-search-btn" type="submit"><i class="icon-header-search"></i></button>
+    </form>
+    <input type="hidden" id="FeatureSearchAutoComplete" value="value">
+
+        <p class="navbar-user">
+        <a class="btn-signup" href="https://nlyman.com/ww/membership/">Join</a><span class="or">or</span><a class="btn-signin" href="https://nlyman.com/ww/Login/">Sign in</a>
+</p>
+    </div>
+</div>
+
+<div class="navbar navbar-fixed-top navbar-menu yamm" id="adds_height" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <a href="http://nlyman.com/ww/mens-fashion/" class="logo-mobile visible-xs"></a>
+            <div class="navbar-buttons pull-left">
+                <button data-target="#search" data-toggle="collapse" class="navbar-toggle btn-primary" type="button">
+                    <i class="fubar-search"></i>
+                </button>
+
+                <button data-target="#navigation" data-toggle="collapse" class="navbar-toggle btn-primary collapsed" type="button">
+                    <i class="fubar-hamburger"></i>
+                </button>
+            </div>
+
+            <div class="navbar-buttons">
+
+                
+    <input type="hidden" id="CartAndFavoritesCountUrl" data-url="http://nlyman.com/route/ww/Cart/GetCartAndFavoritesCount">
+    <a href="https://nlyman.com/ww/checkout/" class="btn btn-primary navbar-toggle">
+        <i class="fubar-bag"></i> <span class="notification-badge" id="shopping-cart-count-mobile">0</span>
+    </a>
+
+              
+                    <input type="hidden" id="favoriteUrl" data-addurl="http://nlyman.com/route/ww/Product/SaveFavorite" data-removeurl="http://nlyman.com/route/ww/Product/RemoveFavoriteItemUnknownSource">
+
+    <a href="/ww/my-favourites/" class="btn btn-primary navbar-toggle">
+        <i class="fubar-heart"></i> <span class="hidden-xs"></span><span class="notification-badge"><span class="favoriteCounter">0</span></span>
+    </a>
+
+                
+            </div>
+        </div>
+        
+<div id="navigation" class="navbar-collapse collapse">
+    <div class="clearfix visible-xs-block">
+            <a class="btn btn-customerservice" style="margin:15px 0 0 0;" href="https://nlyman.com/ww/Login/">Sign in</a>
+    </div>
+    <ul class="nav navbar-nav navbar-left navbar-main">
+            <li class="dropdown yamm-fw">
+
+                    <a data-toggle="dropdown" class="dropdown-toggle" href="#">New In<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <div class="yamm-content">
+                                <div class="row">
+
+                                    
+
+                                            <div class="col-sm-3 col-md-2">
+
+                                                <ul class="list-unstyled">
+                                                            <li><a href="/ww/mens-fashion/news/" class="dropdown-heading m-t-0">New In</a></li>
+                                                            <li><a href="/ww/mens-fashion/news/">New In</a></li>
+                                                            <li><a href="/ww/bestsellers-campaign-100/">Most wanted</a></li>
+                                                </ul>
+                                            </div>
+                                                                            <div class="col-md-10 hidden-xs hidden-sm">
+                                            <a href="http://nlyman.com/ww/midsummer-campaign-11173/"><img src="//c.nelly.com/img-v11/menu/man/150603/news.jpg" alt="Midsommar" width="920" height="180" class="img-responsive" style="float:right;"></a>
+                                            <ul class="list-unstyled"></ul>
+                                        </div>
+
+                                </div>
+
+                            </div>
+                        </li>
+                    </ul>
+            </li>
+            <li class="dropdown yamm-fw">
+
+                    <a data-toggle="dropdown" class="dropdown-toggle" href="#">Category<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <div class="yamm-content">
+                                <div class="row">
+
+                                    
+
+                                            <div class="col-sm-3 col-md-2">
+
+                                                <ul class="list-unstyled">
+                                                            <li><a href="/ww/mens-fashion/clothing/" class="dropdown-heading m-t-0">Clothes</a></li>
+                                                            <li><a href="/ww/mens-fashion/news/">New In</a></li>
+                                                            <li><a href="/ww/mens-fashion/swimwear/">Swimwear</a></li>
+                                                            <li><a href="/ww/mens-fashion/clothing/trousers-shorts/">Pants &amp; Shorts</a></li>
+                                                            <li><a href="/ww/mens-fashion/clothing/jackets-and-coats/">Jackets</a></li>
+                                                            <li><a href="/ww/mens-fashion/clothing/jeans/">Jeans</a></li>
+                                                            <li><a href="/ww/mens-fashion/clothing/suit-jackets-blazers/">Blazers</a></li>
+                                                            <li><a href="/ww/mens-fashion/clothing/suits/">Suits</a></li>
+                                                            <li><a href="/ww/mens-fashion/clothing/shirts-men/">Shirts</a></li>
+                                                            <li><a href="/ww/mens-fashion/clothing/jumpers-cardigans/">Jumpers &amp; Cardigans</a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="col-sm-3 col-md-2">
+
+                                                <ul class="list-unstyled">
+                                                            <li><a href="/ww/mens-fashion/clothing/t-shirts/">T-shirts &amp; Polo shirts</a></li>
+                                                            <li><a href="/ww/mens-fashion/underwear/">Underwear</a></li>
+                                                            <li><a href="/ww/mens-fashion/accessories/bags/">Bags</a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="col-sm-3 col-md-2">
+
+                                                <ul class="list-unstyled">
+                                                            <li><a href="/ww/mens-fashion/accessories/" class="dropdown-heading m-t-0">Accessories</a></li>
+                                                            <li><a href="/ww/mens-fashion/shoes/" class="dropdown-heading ">Shoes</a></li>
+                                                            <li><a href="/ww/mens-fashion/beauty/" class="dropdown-heading ">Grooming</a></li>
+                                                            <li><a href="/ww/mens-fashion/sports-fashion/" class="dropdown-heading ">Sport</a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="col-sm-3 col-md-2">
+
+                                                <ul class="list-unstyled">
+                                                            <li><a href="/ww/womens-fashion/" class="dropdown-heading m-t-0">Nelly.com</a></li>
+                                                            <li><a href="/ww/mens-fashion/sale/" class="dropdown-heading ">Sale</a></li>
+                                                            <li><a href="/ww/bestsellers-campaign-100/" class="dropdown-heading ">Most Wanted</a></li>
+                                                </ul>
+                                            </div>
+                                                                            <div class="col-md-4 hidden-xs hidden-sm">
+                                            <a href="http://nlyman.com/ww/mens-fashion/shoes/trainers/"><img src="//c.nelly.com/img-v11/menu/man/150603/shoppa.jpg" alt="Sneakers" width="350" height="235" class="img-responsive" style="float:right;"></a>
+                                            <ul class="list-unstyled"></ul>
+                                        </div>
+
+                                </div>
+
+                            </div>
+                        </li>
+                    </ul>
+            </li>
+            <li class="dropdown yamm-fw">
+
+                    <a data-toggle="dropdown" class="dropdown-toggle" href="#">Brands<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <div class="yamm-content">
+                                <div class="row">
+
+                                    
+
+                                            <div class="col-sm-3 col-md-2">
+
+                                                <ul class="list-unstyled">
+                                                            <li><a href="/ww/mens-fashion/brands/" class="dropdown-heading m-t-0">Brands</a></li>
+                                                            <li><a href="/ww/mens-fashion/brands/">All brands A-Z</a></li>
+                                                            <li><a href="/ww/mens-fashion/brands/ruffle-bow-588/">Ruffle &amp; Bow</a></li>
+                                                            <li><a href="/ww/mens-fashion/brands/rw-est1984-11022/">RW Est.1984</a></li>
+                                                            <li><a href="/ww/mens-fashion/brands/predicted-110017/">Predicted</a></li>
+                                                            <li><a href="/ww/mens-fashion/brands/river-island-2715/">River Island</a></li>
+                                                            <li><a href="/ww/mens-fashion/brands/selected-homme-602/">River Island</a></li>
+                                                            <li><a href="/ww/mens-fashion/brands/jack-jones-633/">Jack &amp; Jones</a></li>
+                                                            <li><a href="/ww/mens-fashion/brands/g-star-745/">G-Star</a></li>
+                                                            <li><a href="/ww/mens-fashion/brands/nike-1013/">Nike</a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="col-sm-3 col-md-2">
+
+                                                <ul class="list-unstyled">
+                                                            <li><a href="/ww/designers-men-campaign-1154/" class="dropdown-heading m-t-0">Designers</a></li>
+                                                            <li><a href="/ww/designers-men-campaign-1154/">All designers A-Z</a></li>
+                                                            <li><a href="/ww/mens-fashion/brands/morris-268/">Morris</a></li>
+                                                            <li><a href="/ww/mens-fashion/brands/tiger-of-sweden-1004/">Tiger of Sweden</a></li>
+                                                            <li><a href="/ww/mens-fashion/brands/nn07-437/">NN.07</a></li>
+                                                            <li><a href="/ww/mens-fashion/brands/j-lindeberg-2184/">J.Lindeberg</a></li>
+                                                            <li><a href="/ww/mens-fashion/brands/tommy-hilfiger-1017/">Tommy Hilfiger</a></li>
+                                                            <li><a href="/ww/mens-fashion/brands/filippa-k-676/">Filippa K</a></li>
+                                                            <li><a href="/ww/mens-fashion/brands/gant-rugger-2328/">GANT Rugger</a></li>
+                                                            <li><a href="/ww/mens-fashion/brands/blk-dnm-2192/">BLK DNM</a></li>
+                                                </ul>
+                                            </div>
+                                                                            <div class="col-md-8 hidden-xs hidden-sm">
+                                            <a href="http://nlyman.com/ww/mens-fashion/brands/gant-343/"><img src="//c.nelly.com/img-v11/menu/man/150603/marken.jpg" alt="Gant" width="540" height="236" class="img-responsive" style="float:right;"></a>
+                                            <ul class="list-unstyled"></ul>
+                                        </div>
+
+                                </div>
+
+                            </div>
+                        </li>
+                    </ul>
+            </li>
+            <li class="">
+
+                    <a href="/ww/bestsellers-campaign-100/">Most wanted</a>
+            </li>
+            <li class="">
+
+                    <a href="/ww/mens-fashion/sale/">Sale</a>
+            </li>
+
+            <li class="visible-xs"><a href="http://nelly.com/ww/womens-fashion/">Nelly Women</a></li>
+
+
+    </ul>
+</div><!--/.nav-collapse -->
+
+
+
+
+
+        <div class="navbar-collapse collapse right fav-cart-container">
+            
+    <a class="" href="/ww/my-favourites/"><i class="navbar-heart"></i><span class="favoriteCounter">0</span></a>
+
+
+            
+    <a class="dropdown-toggle" id="ShoppingBagToggel" data-toggle="dropdown" href="#"><i class="navbar-bag"></i> <span id="shopping-cart-count">0</span></a>
+    <ul class="dropdown-menu cart-dropdown" id="mini-cart-content" data-urladditem="http://nlyman.com/route/ww/Cart/AddProductQuickCart" data-urladditems="http://nlyman.com/route/ww/Cart/AddProductsQuickCart" data-url="http://nlyman.com/route/ww/Cart/GetCartForHeader"></ul>
+    <a class="navbar-checkout hidden" id="HeaderGoToCart" href="https://nlyman.com/ww/checkout/"><span class="hidden-sm">Go to checkout:&nbsp;</span><span id="mini-cart-price">0</span></a>
+
+        </div>
+        
+<!--
+     <div id="search-not-mobile" class="navbar-collapse collapse right">
+       <button data-target="#search" data-toggle="collapse" class="btn navbar-btn btn-primary" type="button">
+         <span class="sr-only">Toggle search</span>
+         <i class="fa glyphicon glyphicon-search"></i>
+       </button>
+     </div>
+     -->
+    <div id="search" class="collapse clearfix">
+        <form role="search" method="POST" action="/ww/search/" data-autocomplete="http://nlyman.com/route/ww/Search/Search" class="navbar-form">
+            <input name="SearchString" type="search" placeholder="Sök" class="form-control" autocomplete="off">
+        </form>
+    </div>
+
+    </div>
+    <div class="pace-container"></div>
+</div>
+<div class="hidden" id="ScrollToMe"></div>
+
+
+
+     
+
+    
+
+
+
+
+
+
+
+<input type="hidden" id="nelly_getAliasPath" value="http://nlyman.com/route/ww/Home/GetAlias">
+
+<div class="container cs-wrapper">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="cs-main-img hidden-xs"></div>
+            <div class="cs-main__header">
+
+                        <div class="col-md-2 cs-main__nopadding">
+                            <a href="http://nlyman.com/ww/customer-service/order/" class="cs-main__buttons ">Order<b class="cs-main__caret"></b></a>
+                        </div>
+                        <div class="col-md-2 cs-main__nopadding">
+                            <a href="http://nlyman.com/ww/customerservice/payment/" class="cs-main__buttons ">Payment<b class="cs-main__caret"></b></a>
+                        </div>
+                        <div class="col-md-2 cs-main__nopadding">
+                            <a href="http://nlyman.com/ww/customerservice/deliveryinformation/" class="cs-main__buttons ">Delivery<b class="cs-main__caret"></b></a>
+                        </div>
+                        <div class="col-md-2 cs-main__nopadding">
+                            <a href="http://nlyman.com/ww/customerservice/returns/" class="cs-main__buttons ">Returns &amp; Refunds<b class="cs-main__caret"></b></a>
+                        </div>
+                        <div class="col-md-2 cs-main__nopadding">
+                            <a href="http://nlyman.com/ww/customerservice/discountcode/" class="cs-main__buttons ">Discount codes<b class="cs-main__caret"></b></a>
+                        </div>
+                        <div class="col-md-2 cs-main__nopadding">
+                            <a href="http://nlyman.com/ww/customerservice/contact/" class="cs-main__buttons ">Contact us<b class="cs-main__caret"></b></a>
+                        </div>
+         
+            </div>
+
+            
+
+<h3>PRIVACY POLICY </h3>
+<h4>Personal data</h4>
+<p>NLY cares about your privacy and strives to at all times protect your personal data in the best possible way. NLY’s aim is to comply with all applicable laws and regulations for the protection of personal data. This policy will, among other things, help you understand what kind of personal data that NLY collects and how it is used. By approving this privacy policy on the Website in connection with a purchase or the provision of personal data, you agree to the processing of your personal data as described below.   </p>
+<p>NLY Scandinavia AB, (”NLY”/”we”), SE556653882201, Box 690, SE-501 13 Borås is responsible as data controller for the processing of your personal data. </p>
+
+<h4>Which personal data will we process? </h4>
+<p>We will process the personal data that you provide or have provided us with or that we have collected at our Website by way of cookies for the purposes of administering your purchases and fulfilling our obligations to you as our customer. The personal data that NLY processes include your personal identity number, name, gender, e-mail address, purchase-, payment- and order history, credit card number, delivery address, IP-address and phone number.</p>
+<p>NLY uses Google’s advertising services. For more information about Google's collection, sharing and use of data, please see Google’s “Privacy &amp; Terms” which you can find <u><a href=" http://www.google.com/intl/en-GB/policies/privacy/partners/ ">here</a></u>.</p>
+
+<h4>How will we use your personal data?  </h4>
+<p>The data may be used for identification, direct marketing, customer surveys, newsletters and statistics. The data may also be used for sending post, SMS and e-mail to you and for marketing and information via the telephone, unless you have opted out from such communication. You may at any time contact us to opt out against any marketing towards you as customer.</p>
+<p>The data may also be used to analyse purchase habits with the purpose of supplying you with relevant information and marketing and to improve the Website, payment methods and payment processes. Processing for the purpose of improving payment methods and payment processes may include processing where your personal data, inter alia your personal identity number, is transferred to other companies within NLY’s group and to third party providers to be included in the basis for the analysis. The personal data may therefore be processed together with data in other registers, e.g. registers for credit reports. </p>
+<p>Your personal identity number will also be processed in connection with a purchase on behalf of (or due to requirements from) third party providers of payment and credit card services that need it for the purpose of obtaining third party credit reports.   </p>
+<p>The use of your personal data may result in data being processed together with data in other registers, both within and outside of the EU, and that your personal data is transferred to, and processed by, other companies within NLY’s group for the purposes described above in accordance with applicable laws and regulations. The data may also be processed with data from, or shared with, authorities or our partners e.g. for printing and distribution and third party providers of payment or credit card services. NLY always observes the utmost care for such use.</p>
+<p>By approving the policy on the Website in connection with purchases or the provision of personal data, you agree to the transfer of your personal data to countries outside of the EEA.  </p>
+<p>If the whole or part of the NLY’s business is sold or integrated with another business, your personal data may be provided to our advisors, any potential buyer or the buyer’s advisor and furthermore be provided to the new owner of the business.</p>
+<p>NLY uses Google’s advertising services. For more information about Google's collection, sharing and use of data, please see Google’s “Privacy &amp; Terms” which you can find <u><a href=" http://www.google.com/intl/en-GB/policies/privacy/partners/ ">here</a></u>.</p>
+
+<h4>How will we protect your personal data? </h4>
+<p>In order to protect the personal data that we process, we have implemented several security measures. We have implemented security procedures and technical and organisational measures to protect your personal data e.g. certification procedures for web browsers. We furthermore have sufficient firewalls and anti-virus programs in order to protect and prevent unauthorized access to the network. Physical access to the premises where the data is stored is limited and employees are required to be identified in order to gain access.    </p>
+<p>NLY furthermore uses e.g. SLL (Secure Socket Layer) which is a protocol for the safe transfer of data over the Internet (or other networks). As a customer, you need to check that SLL is not turned off in the settings of the web browser. With the purpose of preventing any unauthorized access upon processing you credit card number, one-way codes will be used. </p>
+
+<h4>How long will my personal data be kept by NLY?</h4>
+<p>If you provide your consent to being a registered customer/member with NLY, your data will be kept until you deregister. You may at any time deregister from being a customer. If you do not register as a customer/member, your personal data will be kept only for as long as it is necessary to comply with law or in order for NLY to fulfil its obligations towards you, e.g. to complete delivery or warranty obligations.</p>
+<p>No matter what, your personal data will never be kept for a period longer than what is permitted in compliance with applicable personal data legislation.   </p>
+
+<h4>Access to, updating and correction of your personal data </h4>
+<p>In accordance with the applicable personal data legislation, you are entitled, once every calendar year, free of charge, to receive information on which of your personal data is processed by us, regardless of how it has been collected. If you wish to receive such information, you can arrange to do so by making a written request to us. According to the applicable personal data legislation, your request shall be duly signed by you and sent by regular mail, see address given on the Website. Thus, it cannot be sent by e-mail. </p>
+<p>NLY wants to ensure that your personal data is correct and updated. If any of the data you provide to NLY is changed, e.g. if you change your e-mail address, name or payment information or if you want to change your user account, please provide NLY with correct details by by sending an e-mail to NLY. You are, at all times, entitled to request that your personal data is corrected, blocked or erased.</p>
+<p>Your personal data will not be processed for purposes related to direct marketing if you op-pose such processing. You are, at any time, entitled to withdraw any given consent for the processing of personal data. Such withdrawal may be limited to include only part of the processing, for example that which is connected to direct marketing.</p>
+<h4>Links</h4>
+
+<p>The Website may contain links to other websites. This Privacy Policy applies only to the Website. When you are being linked to another website, you should read the privacy policy which applies to that website. Please note that NLY is not responsible for the processing of your personal data by or on other websites.</p>
+<h4>Amendments to the Privacy Policy</h4>
+<p>NLY reserves the right, at any time, to make amendments to this Privacy Policy to the extent necessary to remedy disturbances or to comply with new legislative or technical requirements. Any amendments to this Privacy Policy will be posted on the Website. </p>
+<h4>Cookies</h4>
+<p>We use so called cookies on the NLY’s Website. Cookies are small text files that are saved on your computer and that our web server uses to provide you with access to some of the functions available on the Website. </p>
+<p>There are two main types of cookies: 1) a saved cookie (permanent cookie) which remains on your computer for an indeterminate period of time, 2) a temporary cookie (session cookie) which is stored temporarily in the computer’s memory during the time that you are visiting a website. Session cookies disappear when you close your web browser.</p>
+<p>NLY uses cookies to improve the Website for customers e.g. by adapting the Website with regards to the customers’ wishes, choices and interests, help you keep track of which products have been put into your shopping cart and to handle you purchase, make sure that the visitor has logged into the Website so that the customer does not have to log in every time he/she browses a different page, to adjust our services to make sure that you receive advertising which is relevant for you and in order for us to fulfill our obligations in relation to a purchase. </p>
+<p>Permanent cookies are being used, among other things, to store any personal settings at NLY e.g. to make sure that you do not need to redo certain choices made every time you visit the Website and to adapt and make information and marketing as relevant for you as possible. Temporary cookies are being used, among other things, for the purpose of registering statistics for the use of the Website.</p>
+<p>By accepting NLY’s general conditions and/or this privacy policy and by using NLY’s Web-site, you agree to the processing of cookies as described above. If you do not accept cookies being used, you can turn off cookies in the security settings of your web browser. You can also set your web browser to ask you each time NLY’s Website tries to place a cookie on your computer. You can also use your web browser to delete previously stored cookies. See your web browser’s help pages for more information. Furthermore, you can at any time delete cookies manually from your hard drive.</p>
+<p>Please note that if you choose not to accept cookies, functionality may be limited for some parts of the website and the website may not work as intended, e.g. you will not be able to make a purchase online.  </p><hr>
+<p>PLEASE NOTE! Nothing in the General Conditions affects a Customer’s mandatory statutory rights under applicable local laws, to the extent that such rights apply to such Customer and cannot be limited or excluded.
+        </p></div>
+        
+    </div>
+    
+</div>
+
+
+    <footer class="footer" role="contentinfo">
+    <div class="commitments">
+        <div class="container">
+    <div class="row">
+            <div class="col-xs-6 col-sm-3 commitment">
+                <p>
+<i class="icon icon-earth"></i>
+	<span>International<br> shipping</span>
+</p>
+            </div>
+            <div class="col-xs-6 col-sm-3 commitment">
+                <p>
+<i class="icon icon-truck"></i>
+	<span>Express delivery within 2-6<br> working days</span>
+</p>
+            </div>
+            <div class="col-xs-6 col-sm-3 commitment">
+                <p>
+<i class="icon icon-locker"></i>
+	<span>Secure<br> payment</span>
+</p>
+            </div>
+            <div class="col-xs-6 col-sm-3 commitment">
+                <p>
+<i class="icon icon-star"></i>
+	<span>Scandinavia's no 1<br> fashion destination</span>
+</p>
+            </div>
+    </div>
+</div>
+    </div>
+
+    <div class="container">
+        <div class="row footer__navs">
+            
+
+    <nav class="col-xs-6 col-sm-4 col-md-2">
+        <h4 class="footer__title">Help</h4>
+        <ul class="footer__list">
+                <li><a href="/ww/customer-service/">Customer service</a></li>
+                <li><a href="/ww/terms-and-conditions/">Terms and conditions</a></li>
+                <li><a href="/ww/cookies/">Privacy policy &amp; Cookies</a></li>
+                <li><a href="/ww/customerservice/returns/">Cancellations, returns &amp; refunds</a></li>
+        </ul>
+    </nav>
+    <nav class="col-xs-6 col-sm-4 col-md-2">
+        <h4 class="footer__title">Information</h4>
+        <ul class="footer__list">
+                <li><a href="/ww/affiliate/">Affiliate</a></li>
+                <li><a href="http://career.qlirogroup.com/nelly/">Careers with NLYman</a></li>
+                <li><a href="/ww/about-nelly/">About Nelly</a></li>
+                <li><a href="http://www.cdongroup.com/">Investor Relations</a></li>
+                <li><a href="/ww/international-shipping/">International Shipping</a></li>
+        </ul>
+    </nav>
+    <nav class="col-xs-6 col-sm-4 col-md-2">
+        <h4 class="footer__title">Nly man</h4>
+        <ul class="footer__list">
+                <li><a href="/ww/womens-fashion/">Women</a></li>
+                <li><a href="/ww/mens-fashion/">Men</a></li>
+                <li><a href="/ww/mens-fashion/brands/">Brands A-Z</a></li>
+                <li><a href="/ww/mens-fashion/news/">New arrivals</a></li>
+                <li><a href="/ww/gift-cards/">Buy gift card</a></li>
+        </ul>
+    </nav>
+        <div class="clearfix visible-sm-block m-b-15"></div>
+    <nav class="col-xs-6 col-sm-4 col-md-2">
+        <h4 class="footer__title">Follow us</h4>
+        <ul class="footer__list">
+                <li><a href="https://www.facebook.com/nellycom">Facebook</a></li>
+                <li><a href="http://instagram.com/nellycom">Instagram</a></li>
+                <li><a href="https://twitter.com/nellycom">Twitter</a></li>
+                <li><a href="http://www.youtube.com/nellycom">YouTube</a></li>
+                <li><a href="http://vimeo.com/nellycom">Vimeo</a></li>
+                <li><a href="https://plus.google.com/118409024676965371399">Google+</a></li>
+        </ul>
+    </nav>
+<nav class="col-xs-6 col-sm-4 col-md-2">
+    <ul class="footer__list">
+        <li>
+            <a href="/ww/gift-cards/">
+                <h4 class="footer__title">Gift vouchers </h4>
+                <i class="icon icon-giftcard"></i>
+                <p>Give someone a nelly.com gift card</p>
+            </a>
+        </li>
+    </ul>
+</nav>
+        </div>
+        <div class="row disclaimer">
+            <div class="col-md-4 col-md-push-8">
+                
+<h4 class="footer__title">Newsletter </h4>
+<form role="form" class="form-newsletter" data-url="http://nlyman.com/route/ww/NewsLetter/Register" novalidate="novalidate">
+    <div class="form-group">
+        <label class="sr-only" for="NewsLetterEmail">Email address</label>
+        <input type="email" id="NewsLetterEmail" class="form-control form-newsletter__input required-input" placeholder="email@adress.com" required="">
+        <button class="btn form-newsletter__btn" type="submit"></button>
+        <p class="help-block small">Be the first with the latest news and take advantage of some great offers</p>
+    </div>
+</form>
+            </div>
+            <div class="col-md-7 col-md-pull-4">
+                <a href="http://nlyman.com/ww/change-country/" class="btn btn-customerservice visible-xs-block">Wrong Country?</a>
+
+                    <a href="http://nelly.com/ww/womens-fashion/" class="btn btn-changecountry visible-xs-block">Nelly Women</a>
+
+                <p class="disclaimer__about">Nlyman.com - Nelly.com´s new venture, with clothing and grooming for fashion and style conscious men. Nlyman.com inspires with new fashion every day. Our men’s clothing range covers over 350 brands at affordable prices and with fast delivery. Whatever the occasion, we have the perfect outfit for you from brands like <a href="http://nelly.com/ww/mens-fashion/brands/filippa-k-676/">Filippa K</a>, <a href="http://nelly.com/ww/mens-fashion/brands/jack-jones-633/ ">Jack &amp; Jones</a>, <a href="http://nelly.com/ww/mens-fashion/brands/tiger-of-sweden-1004/">Tiger of Sweden</a>, <a href="http://nelly.com/ww/mens-fashion/brands/selected-homme-602/">Selected Home</a>, <a href="http://nelly.com/ww/mens-fashion/brands/nudie-jeans-100307/">Nudie Jeans</a>, and <a href="http://nelly.com/ww/mens-fashion/brands/cheap-monday-433/">Cheap Monday</a>. 
+</p>
+            </div>
+        </div>
+
+        <div class="row visible-md visible-lg">
+            <nav class="col-xs-6 col-sm-4 col-md-2">
+                <h4 class="footer__title title-payments-icons">Payment options</h4>
+                <div class="payments-icons-1" style="background-image: url(//c.nelly.com/img-v11/footer/logos/footer/loggos_footer_ww.png);"></div>
+            </nav>
+
+            <nav class="col-xs-6 col-sm-4 col-md-2">
+                <h4 class="footer__title title-payments-icons">Secure shopping</h4>
+                <div class="payments-icons-2" style="background-image: url(//c.nelly.com/img-v11/footer/logos/footer/loggos_footer_ww.png);"></div>
+            </nav>
+
+            <nav class="col-xs-6 col-sm-4 col-md-2">
+                <h4 class="footer__title title-payments-icons">We ship with</h4>
+                <div class="payments-icons-3" style="background-image: url(//c.nelly.com/img-v11/footer/logos/footer/loggos_footer_ww.png);"></div>
+            </nav>
+
+            <nav class="col-xs-6 col-sm-4 col-md-2">
+                <h4 class="footer__title title-payments-icons">Partners</h4>
+                <div class="payments-icons-4" style="background-image: url(//c.nelly.com/img-v11/footer/logos/footer/loggos_footer_ww.png);"></div>
+            </nav>
+
+            <nav class="col-xs-6 col-sm-4 col-md-2">
+                <h4 class="footer__title title-payments-icons">A part of</h4>
+                <div class="payments-icons-5" style="background-image: url(//c.nelly.com/img-v11/footer/logos/footer/loggos_footer_ww.png);"></div>
+            </nav>
+        </div>
+
+        <ul class="cdongroup-list">
+	<li>
+		<a href="http://www.qlirogroup.com/en/" target="_blank">QliroGroup</a></li>
+	<li>
+		<a href="http://www.cdon.eu/" target="_blank">CDON.COM</a></li>
+	<li>
+		<a href="http://www.gymsector.com/" target="_blank">Gymsector.com</a></li>
+     
+</ul>
+ 
+    </div>
+    <a href="#" style="display: none" onclick="window.open('http://nelly.cust.cention.se/external/nelly-se/chat','chat windows','directories=no,titlebar=no,toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=no,width=510,height=610')" target="_blank" class="hidden-xs chatLinkButton">Chatt</a>
+
+
+</footer>
+<input type="hidden" id="validation-message-required" value="You must fill in this field">
+<input type="hidden" id="validation-message-remote" value="Change this field">
+<input type="hidden" id="validation-message-email" value="Enter a valid email">
+<input type="hidden" id="validation-message-url" value="Enter a valid URL">
+<input type="hidden" id="validation-message-date" value="Enter a valid date">
+<input type="hidden" id="validation-message-dateiso" value="Enter a valid date (ISO)">
+<input type="hidden" id="validation-message-number" value="Use only numbers">
+<input type="hidden" id="validation-message-digits" value="Use only numbers">
+<input type="hidden" id="validation-message-equalto" value="The fields do not match.">
+<script src="//c.nelly.com/statics/0.0.436/scriptsv2.min.js" type="text/javascript"></script>
+
+<script src="//c.nelly.com/statics/0.0.436/onsite.js" type="text/javascript"></script>
+
+
+    
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P2LS" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>
+        function  chosePayment(payment) {
+            var updatepaymentType = payment.paymentType;
+            var updateActionName = payment.actionName;
+            var updateCustid = payment.custid;
+
+            if (payment.custid != undefined) {
+                dataLayer.push({ 'cust_id':  updateCustid  , 'payment_type':  updatepaymentType ,  'event':  updateActionName });
+            }
+            else if (payment.paymentType == undefined) {
+                dataLayer.push({ 'event':  updateActionName });
+            } else {
+                dataLayer.push({ 'payment_type':  updatepaymentType ,  'event':  updateActionName});
+            }
+        }
+        
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-P2LS');
+
+        dataLayer = [{
+            'gMarket': 'WW',
+            'pageTitle': 'Herrkl&#228;der &amp; M&#228;rkeskl&#228;der Online – NlyMan.com',
+            'pageType': 'ViewPage',
+            'pageCategory': 'kl%C3%A4der-f%C3%B6r-m%C3%A4n/kl%C3%A4der',
+            'pageSubCategory': '',
+            'pageCampaign': '',
+            'device': 'd',
+            'visitorId': '0',	
+            'visitorLogin': '0'
+                                                    , 'transactionProducts': ''
+                    }];
+    </script>
+
+
+    
+    <script src="//c.nelly.com/statics/0.0.436/CustomerServicev2.min.js" type="text/javascript"></script>
+
+
+
+
+
+
+
+</body></html>
