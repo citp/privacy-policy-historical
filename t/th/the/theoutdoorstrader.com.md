@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theoutdoorstrader.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206223155id_/http%3A//www.theoutdoorstrader.com/faq.php%3Ffaq%3Dprivacy%23faq_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theoutdoorstrader.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608071350id_/http%3A//www.theoutdoorstrader.com/help/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | The Outdoors Trader
 
 The Outdoors Trader has established this privacy policy to explain how your information is protected, collected and used. This policy may be updated or otherwise modified, check it often.
 
@@ -41,3 +41,5 @@ The Outdoors Trader may disclose information about its users if required to do s
 The Outdoors Trader may also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms of Use; respond to claims that any posting or other content violates the rights of third-parties; or to protect the rights, property, or personal safety of The Outdoors Trader, its users or the general public.
 
 Cookies & 3rd Party Advertisements Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org/managing/opt_out.asp.
+
+[ ](http://www.theoutdoorstrader.com/)
