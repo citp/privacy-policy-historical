@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adattract.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030161035id_/http%3A//www.adattract.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adattract.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608065121id_/http%3A//www.adattract.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Adattract
+# Privacy Policy - AdattractAdattract
 
 ### What information do we collect?
 
@@ -32,7 +32,7 @@ This online privacy policy applies only to information collected through our web
 
 ### Terms and Conditions
 
-Please also visit our [Affiliate](http://www.adattract.com/publisher-terms-conditions/) and [Advertiser](http://www.adattract.com/advertisers-terms-and-conditions/) Terms and Conditions pages establishing the use, disclaimers, and limitations of liability governing the use of our website at www.ADAttract.com.
+Please also visit our [Affiliate](http://web.archive.org/web/20141030161035/http://www.adattract.com/publisher-terms-conditions/) and [Advertiser](http://web.archive.org/web/20141030161035/http://www.adattract.com/advertisers-terms-and-conditions/) Terms and Conditions pages establishing the use, disclaimers, and limitations of liability governing the use of our website at www.ADAttract.com.
 
 ### Your Consent
 
@@ -44,4 +44,4 @@ If we decide to change our privacy policy, we will update the Privacy Policy mod
 
 This policy was last modified on August 7, 2014
 
-If there are any questions regarding this privacy policy, please [contact us](http://www.adattract.com/contact/).
+If there are any questions regarding this privacy policy, please [contact us](http://web.archive.org/web/20141030161035/http://www.adattract.com/contact/).
