@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vestedbb.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123130526id_/http%3A//www.vestedbb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vestedbb.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608215716id_/http%3A//www.vestedbb.com/privacy-policy) for the most accurate reproduction.*
 
 # Business for Sale-Buy a Business-Privacy Policy-VESTED BUSINESS BROKERS
 
