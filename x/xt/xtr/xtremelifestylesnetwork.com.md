@@ -1,0 +1,59 @@
+> *The following text is extracted and transformed from the xtremelifestylesnetwork.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608020440id_/http%3A//xtremelifestylesnetwork.com/privacypolicy.php) for the most accurate reproduction.*
+
+# Privacy Policy
+
+Privacy POLICY
+
+Company/Seller (herein referred to as "this Site") strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this Privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party.
+
+WE HATE SPAM! We will NEVER sell, rent, barter or share your EMAIL ADDRESS with anyone!
+
+How we gather information from users
+
+How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site, where applicable. Like most Web sites, this Site may collect information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site's features according to your preferences.
+
+What we do with the Information we Collect
+
+Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising..
+
+Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). We may occasionally provide limited personal information to trustworthy third parties for direct mail offers and to make our future marketing efforts more efficient, but you can tell us not to. Such information includes your name and mailing address or other information where. This information may be combined with demographic information and past purchase information. We will never include your email address or credit card information.
+
+We may use Personally Identifiable Information collected on this Site to communicate with you about your registration and customization preferences; our Terms of Service and Privacy policy; services and products offered by this Site and other topics we think you might find of interest.
+
+Personally Identifiable Information collected by this Site may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
+
+The use of information as described herein may or may not be how information that is collected is customarily used by this site. While actual use of any information collected may be used quite conservatively, you must assume that it is not. You must assume that information collected is shared with other persons or entities for commercial purposes. While this may or may not occur, you must assume that it is as you make your decision whether or not to view or interact with this website. This type of shared information may include your name, address, phone number, email address and buying habits, as well as other information. This information may be used for general commercial solicitation by this website or other persons it is sold to, rented to, or shared with.
+
+Affiliated Sites, Linked Sites and Advertisements
+
+This Site expects its partners, advertisers and affiliates to respect the Privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own Privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a page on this Site, certain content that is actually created or hosted by a third party.Also, through this Site you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. This Site is not responsible for the actions or policies of such third parties.You should check the applicable Privacy policies of those third parties when providing information on a feature or page operated by a third party.
+
+While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. This Site does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
+
+You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of this Site and this policy.
+
+A NOTE TO CALIFORNIA RESIDENTS (ONLINE Privacy PROTECTION ACT OF 2003 ñOPPA)
+
+It is the intent of the Privacy Policy to comply with the California Act. Provisions throughout this Privacy Policy address requirements of the act. In summary, you must presume that we collect electronic information from all visitors. This is not usually personally identifiable. If you purchase a product or service via this website (and thereby become covered by the Act), the purchase agreement you electronically sign prior to purchase allows the website to collect and archive all the personal information you provide and to transmit and/or transfer that personal information to third parties. There is no way you can modify this information and you have no right to do so. Under the terms of the purchase agreement, you have no right to view or receive any information about our database. In the event that the website, under advice of counsel agrees to divulge information, the requesting party must submit whatever information is demanded by the website in insure that the website is releasing information to the correct party. Other provisions of the OPPA may exempt this website from complying. While we take measures to ensure that outside parties do not have access to any information we have about you, we do not warranty that outside parties will not breach our system and thus have access to your information. (You should know that merchant service providers do not allow us access to your credit card information.) This Privacy Policy also is subject to change without notice. You are required to read it prior to using the website. By interacting with the website you agree to the terms and conditions of the Privacy Policy. By using the website or purchasing a product through this website, you waive the right to use state or federal court systems to address complaints and, instead, agree to use the American Arbitration Association located in a city and county specified herein.
+
+Children
+
+This Site does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe this Site has any information from or about anyone under 13, please contact us at the address listed below.
+
+Contacting Us
+
+We can be reached by using the support information listed at the bottom of every page in the site.
+
+Click Here To Contact Support
+
+Changes to this Policy 
+
+This Site reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+
+Governing Law
+
+This policy and the use of this Site are governed by NJ law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in Rutherford, NJ. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
+
+If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following Rutherford, NJ, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
+
+This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.                                                         
