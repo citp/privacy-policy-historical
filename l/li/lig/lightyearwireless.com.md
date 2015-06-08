@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lightyearwireless.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011002406id_/http%3A//lightyearwireless.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightyearwireless.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608074803id_/http%3A//www.tempowireless.com/privacy.html) for the most accurate reproduction.*
 
-# Lightyear Wireless
+# Tempo Wireless Privacy
 
 At Tempo Wireless we are committed to honoring the privacy of our on-line customers and visitors to our Web sites. We recognize the importance to you of maintaining an appropriate level of privacy and security for the personal information we collect from you over the Internet. The following discloses our Web site information gathering and use practices and is limited to the protection and use of personal information collected by us in the online environment. Your access to and use of our site are subject to this policy and any other terms of use or policies posted by us. Please note that this privacy statement applies only to this site and not to the web sites of our advertisers or of other companies or organizations to which we link. All references to "Tempo Wireless" or TW throughout this policy statement include, unless otherwise stated, all affiliate companies, successors and assigns. 
 
