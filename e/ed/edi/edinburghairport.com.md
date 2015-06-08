@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edinburghairport.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216155855id_/http%3A//www.edinburghairport.com/help/policies/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edinburghairport.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608050730id_/http%3A//www.edinburghairport.com/help/policies/privacy-notice) for the most accurate reproduction.*
 
 # Privacy notice | Edinburgh Airport
 
@@ -99,11 +99,11 @@ This privacy notice does not cover the links within this site to other websites.
 
 We keep our privacy notice under regular review and we will place any updates on this webpage. At the start of this privacy notice we will tell you when it was last updated.
 
-Jake Reddington   
-Security Compliance Manager   
-Airport Control Centre   
-Edinburgh Airport Limited   
-Edinburgh   
+Jake Reddington  
+Security Compliance Manager  
+Airport Control Centre  
+Edinburgh Airport Limited  
+Edinburgh  
 EH12 9DN
 
 This privacy notice does not provide exhaustive detail of all aspects of EAL's collection and use of personal information. However, we are happy to provide any additional information or explanation needed. Any requests for this should be sent to the contact address above.
