@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipes-pro.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121144923id_/http%3A//www.recipes-pro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipes-pro.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608042934id_/http%3A//www.recipes-pro.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Recipes Pro
 
