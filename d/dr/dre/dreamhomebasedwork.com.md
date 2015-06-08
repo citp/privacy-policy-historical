@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the dreamhomebasedwork.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121072652id_/http%3A//www.dreamhomebasedwork.com/privacy-policy_1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamhomebasedwork.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608121133id_/http%3A//www.dreamhomebasedwork.com/privacy-policy_1.html) for the most accurate reproduction.*
 
-# Privacy Policy | Dream Home Based Work
+# Privacy Policy
 
-**Your Privacy**
+### PrivacyPolicy
 
-This privacy notice discloses the privacy practices for www.dreamhomebasedwork.com. Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+This privacy policy discloses the privacy practices for www.dreamhomebasedwork.com. Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
 **Google AdSense and the Double Click DART Cookie**  
 Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the Internet.
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following URL [http://www.google.com/privacy_ads.html ](http://www.google.com/privacy_ads.html%20)Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following URL [http://www.google.com/privacy_ads.html ](http://www.google.com/policies/technologies/ads/)Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
 Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, has no access or control over these cookies that may be used by third party advertisers.
 
@@ -29,7 +29,6 @@ We may also offer you the opportunity to subscribe to email newsletters that we 
 
 When you use the social networking features on our Service, you may be asked to log in to a social network using your social network credentials (for example, your Facebook user ID). When you log in, we may collect information about you (including personal information) from that social network. In addition, when you use one of the social network sharing tools available on our Service, the social network operating the tool may collect information about you based on such use. The social network’s use of that information will be subject to its own privacy policy, which may be different from ours.
 
-  
 **Changes to this Privacy Statement**  
 This privacy policy is subject to change without notice and was last updated on November 15, 2014.
 
