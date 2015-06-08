@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rep-am.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131027id_/http%3A//www.rep-am.com/about/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rep-am.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609005508id_/http%3A//www.rep-am.com/about/privacy_statement) for the most accurate reproduction.*
 
 # About Republican American
 
@@ -86,48 +86,22 @@ The Republican American reserves the right to change the guidelines in this Priv
 
 The following contact information should be used if you have questions and/or comments regarding this Privacy Statement. 
 
-**Jason Leonard  **  
-**Advertising Support**  
+**[Advertising Support](mailto:DigitalAdvertisingSupport@rep-am.com)**  
 Republican American   
 389 Meadow Street   
 Waterbury, CT 06723  
 (203) 574-3636
-
-* * *
-
-Contact Us
-
-### Contact the Republican American
-
-## How to reach us: 
 
 Republican-American  
 389 Meadow St.  
 P.O. Box 2090  
 Waterbury CT 06722-2090 
 
-Phone: (203) 574-3636  
-Toll-free: (800) 992-3232  
-Fax: (203) 596-9277 
-
-## Subscriber services:
-
 To report a delivery problem, call (203) 574-3636 or toll-free (800) 992-3232, and press 3. Operators are available Monday through Friday, 5 a.m. to 5 p.m. Saturday - 5 a.m. - 11 a.m. Sunday - 5:30 a.m. - 11 a.m.
 
 Subscriber Services can also be contacted via email at [subscribe@rep-am.com](mailto:subscribe@rep-am.com) (email). 
 
-## Advertising:
-
-To view advertising rate cards: [http://www.rep-am.com/about_us/ratecards/](https://web.archive.org/about_us/ratecards/ "../ratecards/")
-
 To place a display advertisement, call (203) 574-3636, ext. 1100.
-
-For classified advertising, call (203) 574-3616 or place your ad online at [www.rep-am.com/classified](https://web.archive.org/classifieds).
-
-For birthday ads, please contact the Retail Advertising Dept. (203)-574-3636 for information and rates.   
-Advertising Fax: (203) 573-9411 
-
-## Submitting news items:
 
 To submit events call or visit the newsroom's Yes Desk at 203-574-3636 ext. 1400 or e-mail [releases@rep-am.com](mailto:releases@rep-am.com)
 
@@ -137,43 +111,4 @@ To submit achievers, community news, deans, graduates, honors, salutes and reuni
 
 To submit obituaries call or visit the newsroom’s Yes Desk at 203-574-3636 ext. 1400 or e-mail [obituaries@rep-am.com](mailto:obituaries@rep-am.com "mailto:obituaries@rep-am.com").
 
-  
-
-
-## To reach an editor:
-
 Call (203) 574-3636 for fax (203) 596-9277 with questions or comments. Extensions and e-mail addresses are listed below. All e-mails are in the form [jdoe@rep-am.com](mailto:jdoe@rep-am.com "mailto:jdoe@rep-am.com"), although the extension is not listed here to prevent spam attacks.
-
-Editor and Publisher | William J. Pape II | ext. 1900 | E-mail: wjpape  
----|---|---|---  
-Executive Editor | Jonathan Kellogg | ext. 1492 | E-mail: jkellogg  
-Managing Editor | Anne Karolyi | ext. 1443 | E-mail: akarolyi  
-City Editor | Tom Ferriter | ext. 1436 | E-mail: tferriter  
-Litchfield County Editor | John Cullen | ext. 1438 | E-mail: jcullen  
-Night Editor | Martin Begnal | ext. 1435 | E-mail: mbegnal  
-  
-## Newsroom:
-
-Business Editor: | David Krechevsky | ext. 1416 | E-mail: dkrechevsky  
----|---|---|---  
-Executive Sports Editor | Lee Lewis | ext. 1401 | E-mail: llewis  
-Features Editor | Rich Gray | ext. 1481 | E-mail: [rgray@rep-am.com](mailto:rgray@rep-am.com)  
-Associate Features Editor | Tracey O’Shaughnessy | ext. 1483 | E-mail: tosh  
-  
-## Photo department:
-
-General |   | Ext. 1471 |    
----|---|---|---  
-Photo reprints |   | Ext. 1462 | [Site: http://photos.rep-am.com](http://photos.rep-am.com/)  
-Assistant Managing Editor | Bob Falcetti | ext. 1471 | E-mail: falcetti  
-  
-## News bureaus:
-
-Torrington | Alec Johnson | (860) 489-4615 | E-mail: ajohnson@rep-am.com  
----|---|---|---  
-Southbury | Chris Gardner | (203) 264-5554 | E-mail: cgardner  
-Hartford | Paul Hughes | (860) 727-0460 | E-mail: phughes  
-  
-## Letters to the Editor:
-
-## Internet Department:
