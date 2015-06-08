@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xamarin.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128035002id_/http%3A//xamarin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xamarin.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609004856id_/http%3A//xamarin.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use - Xamarin
 
