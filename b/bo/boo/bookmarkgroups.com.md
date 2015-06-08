@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarkgroups.com privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223022808id_/http%3A//www.bookmarkgroups.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkgroups.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608211141id_/http%3A//www.bookmarkgroups.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy › BookmarkGroups.com : Submit Favorite Links & Share Your Content With The World | Submit Story, SEO Bookmarks & Bookmarking Site Lists Community | Free Bookmarker of World News, Videos & Images
 
