@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the imazing.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921141954id_/http%3A//imazing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imazing.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608192710id_/http%3A//digidna.ch/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - iMazing (formerly DiskAid)
+# DigiDNA - Company
 
 [
 
-iMazing
+DigiDNA
 
-](http://imazing.com/ "iMazing \(formerly DiskAid\)")
+](http://digidna.ch/ "DigiDNA - Company")
 
 DIGIDNA SARL (hereafter DIGIDNA) is aware that you may wish to be informed about the way in which the data and the information likely to personally identify you, such as your name, address, fax and telephone numbers or e-mail addresses, etc (Personal data), which you forward via Internet to the Web sites of DIGIDNA. As a consequence, we have established the current Policy of Confidentiality to explain you the way in which we use your Personal Data as well as all the precautions that we take to maintain confidentiality and security. When accessing to our Websites and using our services, you agree with the collection of your Personal Data and the practices described in this Policy of Confidentiality, in which we sometimes bring modifications. If we decide to modify our Policy of Confidentiality, we upload the new version on our Web sites, by updating the date contained in its last paragraph. You are invited to consult the present Policy of Confidentiality from time to time in order to be informed about possible modifications. The terms of this Policy of Confidentiality do not include any damage to the provisions of a possible contract which you could have concluded with us and which prevails upon the terms of this Policy of Confidentiality.
 
