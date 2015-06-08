@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the films.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127125706id_/http%3A//films.com/ecPrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the films.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608061217id_/http%3A//www.films.com/ecPrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Films Media Group - Privacy Policy
 
