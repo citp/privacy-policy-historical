@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astronomy.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010023204id_/http%3A//www.kalmbach.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astronomy.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609003118id_/http%3A//www.kalmbach.com/privacy.aspx) for the most accurate reproduction.*
 
 # Kalmbach Publishing Co. - Privacy Policy updated 052014
 
@@ -72,14 +72,8 @@ How does Kalmbach notify consumers of changes to our privacy policies?**
 If Kalmbach decides to make any material changes to our privacy policy, we will notify you by posting the new privacy policy on the websites.  You are responsible for consulting this policy regularly to determine Kalmbach's current privacy policy, as well as to determine if there are any changes to the prior version(s) of Kalmbach's privacy policy.
 
 **  
-How does Kalmbach respond to web browser “do not track” signals or other mechanisms?**
-
-[insert language describing how Kalmbach's systems treat this.  Do you treat consumers whose browsers send a DNT signal differently from those without one? Do you collect personally identifiable information about a consumer’s browsing  activities over time and across third-party web sites or online services if you  receive a DNT signal?  If you do continue to collect personally identifiable information about consumers with a DNT signal as they move across other sites or services, describe your uses of the information.]
-
 **  
-Surveys and Sweepstakes**
-
-With regard to surveys in which you elect to participate, we may request demographic information (age, family income level, etc.) along with basic information regarding your reading or hobby interests and how Kalmbach may better serve those needs. Finally, name, address and other contact information may be collected so that we can respond to any customer service issue, request for information or other general inquiry, along with information about the nature of your inquiry.
+Surveys and Sweepstakes**** With regard to surveys in which you elect to participate, we may request demographic information (age, family income level, etc.) along with basic information regarding your reading or hobby interests and how Kalmbach may better serve those needs. Finally, name, address and other contact information may be collected so that we can respond to any customer service issue, request for information or other general inquiry, along with information about the nature of your inquiry.
 
 Demographic and other information volunteered in connection with surveys is used primarily for internal purposes to improve the company's responsiveness to customers' wants, needs, interests, opinions and suggestions. On occasion, the aggregate findings and results of such surveys may be published as a matter of interest to the hobbyists/respondents who provided the information, or for the benefit of trade associations or others who may occasionally sponsor such surveys
 
