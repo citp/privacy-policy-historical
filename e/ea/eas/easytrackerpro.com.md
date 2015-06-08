@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easytrackerpro.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207140936id_/http%3A//www.easytrackerpro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easytrackerpro.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608030351id_/http%3A//www.easytrackerpro.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Easy Tracker Pro
 
