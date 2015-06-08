@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qyuki.com privacy policy that was archived on 2014-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140910094504id_/http%3A//www.qyuki.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qyuki.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608033505id_/http%3A//www.qyuki.com/privacy) for the most accurate reproduction.*
 
 # Qyuki - Privacy
 
@@ -8,13 +8,13 @@ Qyuki Digital Media Private Limited (" **Qyuki** ") is concerned about the priva
 
 BY USING THE WEBSITE, YOU AGREE TO THE TERMS AND CONDITIONS OF THIS POLICY. IF YOU DO NOT AGREE WITH THE TERMS AND CONDITIONS OF THIS POLICY, PLEASE DO NOT USE THIS WEBSITE. 
 
-**1\. Scope of the Policy**
+## 1\. Scope of the Policy
 
 1.1 
 
 When You register with the Website or use the Website or the services available thereon, Qyuki may seek and collect certain personal and non-personal information, classified as mandatory or voluntary (collectively "Information"). Accordingly, whenever You use or register with the Website, You consent to the collection, use, and disclosure of the Information in accordance with this Policy. Therefore, please read the entire Policy before submitting Your Information on the Website. 
 
-**2\. Collection and Use of Personal Information**
+## 2\. Collection and Use of Personal Information 
 
 2.1 
 
@@ -100,7 +100,7 @@ to respond to judicial process and provide information to law enforcement agenci
 
 You acknowledge that apart from Your Personal Information, if You upload any Content on the Website, such Content may contain Information including Personal Information and the same may be available to the other users of the Website. Qyuki will not be liable for the disclosure and dissemination of such Personal Information to third parties. 
 
-**3\. Disclosure of Personal Information**
+## 3\. Disclosure of Personal Information
 
 3.1 
 
@@ -142,7 +142,7 @@ as Qyuki may believe to be necessary or appropriate: (i) under applicable law, i
 
 The above does not include selling, renting, sharing or otherwise disclosing Personal Information for commercial purposes in violation of the commitments set forth in this Policy. 
 
-**4\. Collection and Use of Non-Personal Information**
+## 4\. Collection and Use of Non-Personal Information
 
 4.1 
 
@@ -160,7 +160,7 @@ The Website may also collect certain Non-Personal Information through cookies wh
 
 As Non-Personal Information does not personally identify You, Qyuki may use and disclose Non-Personal Information for any purpose. In some instances, Qyuki may combine Non-Personal Information with Personal Information (such as combining Your name with Your geographical location). If Qyuki combines any Non-Personal Information with Personal Information, the combined information will be treated by Qyuki as Personal Information as long as it is combined. 
 
-**5\. Links to other Websites and Third Party Advertisers**
+## 5\. Links to other Websites and Third Party Advertisers 
 
 5.1 
 
@@ -174,7 +174,7 @@ The links to other websites on the Website are operated by third parties and are
 
 These third-party websites and advertisers may use technology to send the advertisements that appear on the Website directly to Your browser. In such cases, the third party websites or advertisers automatically receive Your IP address. They may also use cookies, JavaScript, web beacons and other technologies to measure the effectiveness of their advertisements and to personalize advertising content. Qyuki does not have access to or control over cookies or other features that such third party websites and advertisers may use, and the information practices of these third-party websites and advertisers are not covered by this Policy. Please contact them directly for more information about their privacy practices. 
 
-**6\. Security**
+## 6\. Security
 
 6.1 
 
@@ -186,7 +186,7 @@ Notwithstanding anything contained in this Policy or elsewhere, Qyuki shall not 
 
 A " **Force Majeure Event** " shall mean any event that is beyond the reasonable control of Qyuki and shall include, without limitation, sabotage, fire, flood, explosion, acts of God, civil commotion, strikes or industrial action of any kind, riots, insurrection, war, acts of government, computer hacking, unauthorised access to computer data and storage device, computer crashes, breach of security and encryption, etc. 
 
-**7\. Access to Information**
+## 7\. Access to Information
 
 7.1 
 
@@ -196,7 +196,7 @@ When You use the Website and the services provided by Qyuki on the Website, Qyuk
 
 Qyuki gives You access to a broad range of Information about Your account and Your interactions with Qyuki for the limited purpose of viewing and, in certain cases, updating that information. Such information includes, up-to-date information regarding recent Content downloaded or uploaded by You; Personal Information, payment settings (including credit card information); e-mail notification settings (including Alerts, Recommended for You, and newsletters); recommendations (including recent Content view history, and Favorites); shopping lists; and Your Profile (including Your Content Reviews, Requests, and Recommendations, guides, etc.) 
 
-**8\. User Discretion**
+## 8\. User Discretion
 
 8.1 
 
@@ -222,7 +222,7 @@ If You do not want Qyuki to use Personal Information that Qyuki gathers to allow
 
 The 'Help' portion of the toolbar on most browsers will tell You how to prevent Your browser from accepting new cookies, how to have the browser notify You when You receive a new cookie, or how to disable cookies altogether. Further, You can also disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Website of its manufacturer. However, as cookies allow You to take advantage of some of the Website's features, some of the Website's features and services may not function properly if Your cookies are disabled. It is therefore, recommended that You leave the cookies turned on. For instance, if You block or otherwise reject Qyuki's cookies, You will not be able to add items to Your shopping cart, proceed to checkout, or download any of Qyuki's Content or avail of Qyuki's services that require You to log in. 
 
-**9\. General Provisions**
+## 9\. General Provisions
 
 9.1 
 
