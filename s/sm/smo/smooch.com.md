@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smooch.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626160725id_/http%3A//www.smooch.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smooch.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608073731id_/http%3A//www.smooch.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Smooch.com, 100% Free Online Dating Site for Singles and Personals
+# Smooch, Start a conversation for free today
 
 Last updated on Friday 21 June 2013
 
@@ -44,7 +44,7 @@ The Service is offered through and accessible through a number of other web site
 Woowise makes an effort to ensure that members of the Service are not connected with other members that may be inappropriate and therefore apply various classifications to the various web sites that provide access to the Service. By registering with the site you acknowledge and accept that Woowise may apply certain classifications to your profile due to your accessing the Service via the Website and may use such classifications to restrict:
 
   * the availability of communication between yourself and other members of the Service;
-  * the availability of the details of other members of the Service to yourself; and
+  * the availability of the details of other members of the Service to yourself;
   * the availability of your details to other members of the Service.
 
 
@@ -67,7 +67,7 @@ Cookies enable us:
 
   * To estimate our audience size and usage pattern;
   * To store information about your preferences, and so allow us to customise our site according to your individual interests;
-  * To speed up your searches; and
+  * To speed up your searches;
   * To recognise you when you return to our site.
 
 
@@ -111,10 +111,10 @@ It is both in our interest and yours to store and process accurate personal data
 
 Please contact us to update any of your personal data or to request access to your personal data by addressing the "Information Officer" via:
 
-[Our Contact Form](https://support.smooch.com/anonymous_requests/new)  
+[Our Contact Form](https://support.smooch.com/anonymous_requests/new/)  
 We reserve the right to refuse to provide you with a copy of your personal data based on the exemptions set out in the Data Protection Act 1998, but if we do refuse we will give full reasons for our refusal and allow you to challenge our decision.
 
-If you have any questions or comments about privacy or the Website privacy policy, or if you already have submitted information that you do not wish us to have or if you think that the Website has cookies or data about you that you don't want us to use or that is incorrect please [Contact Us](https://support.smooch.com/anonymous_requests/new) and the information will be corrected as soon as possible or removed from the database as you request.
+If you have any questions or comments about privacy or the Website privacy policy, or if you already have submitted information that you do not wish us to have or if you think that the Website has cookies or data about you that you don't want us to use or that is incorrect please [Contact Us](https://support.smooch.com/anonymous_requests/new/) and the information will be corrected as soon as possible or removed from the database as you request.
 
 ## Changes to this Privacy Policy and Transfers of Ownership
 
