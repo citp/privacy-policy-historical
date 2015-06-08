@@ -1,41 +1,38 @@
-> *The following text is extracted and transformed from the picturesongold.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227092503id_/http%3A//www.picturesongold.com/service/PrivacyPolicy_p21.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picturesongold.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608153948id_/http%3A//www.picturesongold.com/service/PrivacyPolicy_p21.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
   * #### Jewelry by Specialty
 
-    * [Holiday Sale Items](http://www.picturesongold.com/shop/holiday-savings.html)
     * [Lockets](http://www.picturesongold.com/shop/locket-jewelry.html)
     * [Photo Engraved Jewelry](http://www.picturesongold.com/shop/photo-jewelry.html)
     * [Religious Jewelry](http://www.picturesongold.com/shop/religious-jewelry.html)
     * [Sports Numbers & Charms](http://www.picturesongold.com/shop/sports-numbers-and-charms.html)
     * [Medical Id Jewelry](http://www.picturesongold.com/shop/medical-jewelry.html)
     * [Engravable Jewelry](http://www.picturesongold.com/shop/engraveable-jewelry.html)
-    * [Id Bracelets](http://www.picturesongold.com/shop/id-bracelets.html)
-    * [Charms & Charm Bracelets](http://www.picturesongold.com/shop/charms-c646.html)
     * [Thumbprint / Fingerprint Jewelry](http://www.picturesongold.com/shop/thumbprint-fingerprint-jewelry.html)
-    * [Signet Rings](http://www.picturesongold.com/shop/signet-rings.html)
-    * [Family Jewelry](http://www.picturesongold.com/shop/family-jewelry.html)
-    * [Chains](http://www.picturesongold.com/shop/chains.html)
-    * [Police & Firefighter Jewelry](http://www.picturesongold.com/shop/fraternal-jewelry.html)
-    * [Name Jewelry](http://www.picturesongold.com/shop/name-jewelry.html)
-    * [Monogram Jewelry](http://www.picturesongold.com/shop/monogram-jewelry.html)
-    * [Personalized Watches](http://www.picturesongold.com/shop/watches.html)
+    * [Id Bracelets](http://www.picturesongold.com/shop/id-bracelets.html)
     * [Graduation Jewelry](http://www.picturesongold.com/shop/graduation-jewelry.html)
-    * [School Rings](http://www.picturesongold.com/shop/class-ring-designer.html)
+    * [Police & Firefighter Jewelry](http://www.picturesongold.com/shop/fraternal-jewelry.html)
+    * [Chains](http://www.picturesongold.com/shop/chains.html)
+    * [Signet Rings](http://www.picturesongold.com/shop/signet-rings.html)
+    * [Name Jewelry](http://www.picturesongold.com/shop/name-jewelry.html)
+    * [Family Jewelry](http://www.picturesongold.com/shop/family-jewelry.html)
+    * [Monogram Jewelry](http://www.picturesongold.com/shop/monogram-jewelry.html)
+    * [Charms & Charm Bracelets](http://www.picturesongold.com/shop/charms-c646.html)
+    * [Personalized Watches](http://www.picturesongold.com/shop/watches.html)
     * [Wind & Fire Bracelets](http://www.picturesongold.com/shop/wind-fire-expandable-bracelets.html)
+    * [School Rings](http://www.picturesongold.com/shop/class-ring-designer.html)
     * [US State Pendants](http://www.picturesongold.com/shop/us-states-pendants.html)
     * [Children's Jewelry](http://www.picturesongold.com/shop/childrens-jewelry.html)
     * [Wedding Bands](http://www.picturesongold.com/shop/wedding-bands.html)
-    * [Logo & Corporate Jewelry](http://www.picturesongold.com/shop/logo-jewelry.html)
-    * [Anklets](http://www.picturesongold.com/shop/anklets.html)
     * [Initial Jewelry](http://www.picturesongold.com/shop/initial-jewelry.html)
     * [Design Your Own Ring](http://www.picturesongold.com/shop/design-own-ring.html)
-    * [Promise Rings](http://www.picturesongold.com/shop/promise-rings.html)
-    * [Horse & Equestrian Jewelry](http://www.picturesongold.com/shop/horse-equestrian-jewelry.html)
     * [Specialty Jewelry](http://www.picturesongold.com/shop/specialty-jewelry.html)
-    * [Christmas Ornaments](http://www.picturesongold.com/shop/christmas-ornaments-c1456.html)
+    * [Made By Me Jewelry](http://www.picturesongold.com/shop/childrens-drawings-pendants.html)
+    * [The Talk - Home](http://www.picturesongold.com/shop/the-talk--direct.html)
     * [Mother's Jewelry](http://www.picturesongold.com/shop/mothers-jewelry.html)
+    * [The Talk - Direct](http://www.picturesongold.com/shop/the-talk.html)
 
 
 
@@ -44,8 +41,7 @@
 Have a question or need help? Talk to one of our live agents now.
 
   * ****(877) 703-1143
-  * [****Live Chat](http://livechat.boldchat.com/aid/5791308127857039268/bc.chat)
-  * [**** Email ](mailto:info@picturesongold.com)
+  *   * [**** Email ](mailto:info@picturesongold.com)
   * [ **** FAQ ](https://web.archive.org/faqs.html)
 
 
