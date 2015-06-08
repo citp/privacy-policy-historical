@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the studentdoctor.net privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217014517id_/http%3A//www.studentdoctor.net/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentdoctor.net privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608160136id_/http%3A//www.studentdoctor.net/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Student Doctor Network
 
 [](https://privacy.truste.com/privacy-seal/Coastal-Research-Group/validation?rid=8c36aa89-d7af-400a-8984-7fcf618d7e97 "TRUSTe online privacy certification")
 
-**Last Updated 10 February 2014**
+**Last Updated  16 February 2015**
 
-Coastal Research Group (“The Student Doctor Network” or “SDN”) has been awarded TRUSTe’s Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personally identifiable information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, http://www.studentdoctor.net. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy statement or practices, [please contact the SDN Director](https://web.archive.org/about-sdn/contact-us/ "Contact Us"), Lee Burnett at <http://www.studentdoctor.net/about-sdn/contact-us/>. If you are not satisfied with our response you can [contact TRUSTe here](http://privacy.truste.com/privacy-seal/Coastal-Research-Group/validation?rid=8c36aa89-d7af-400a-8984-7fcf618d7e97).
+Coastal Research Group (publisher of “The Student Doctor Network” or “SDN”) has been awarded TRUSTe’s Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personally identifiable information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, http://www.studentdoctor.net. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy statement or practices, [please contact the SDN Technolgoy Director](https://web.archive.org/about-sdn/contact-us/ "Contact Us"), Lee Burnett at <http://www.studentdoctor.net/about-sdn/contact-us/>. If you are not satisfied with our response you can [contact TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 The Coastal Research Group is the sole owner of the information collected on The Student Doctor Network. This privacy statement describes how Coastal Research Group collects and uses the personally identifiable information you provide on our web site: http://www.studentdoctor.net. The Student Doctor Network collects personally identifiable information from our users at several different points on our Web site.
 
@@ -27,10 +27,6 @@ When you choose to purchase products or view our SDN Bookstore, you will be take
 
 When you choose to visit or search for positions on the SDN Career Center, you will be taken to www.careerbuilder.com. We are a member of their affiliate program. All information collected on this site is governed by CareerBuilder.com’s privacy statement:  
 <http://www.careerbuilder.com/JobSeeker/Info/Privacy.aspx>
-
-**Tell-A-Friend**
-
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. The Student Doctor Network does not store this information.
 
 **Uses of Information**
 
@@ -83,11 +79,11 @@ You have the option to opt-in to receive email from SDN partners or affiliates. 
 
 **Personally identifiable information**
 
-We DO NOT Share Personally Identifiable Information with Third Parties who are not agents or service providers.
+We DO NOT Share Personally Identifiable Information with Third Parties who are not agents or service providers. We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties.
 
 **Service Providers**
 
-We use an outside shipping company to fulfill orders (for example SDN T-Shirts). We use PayPal who will bill you for goods purchased on their site and when donating to SDN. You will be directed to the PayPal.com Web site in these cases, and PayPal’s privacy statement will govern the collection and use of personally identifiable information during this process. These companies do not retain, share, store or use personally identifiable information for any other purposes except order fulfillment. They may not use it for their own marketing purposes.
+We use PayPal who will bill you when donating to SDN. You will be directed to the PayPal.com Web site in these cases, and PayPal’s privacy statement will govern the collection and use of personally identifiable information during this process. PayPal companies does not retain, share, store or use personally identifiable information for any other purposes except order fulfillment. They may not use it for their own marketing purposes.
 
 **Legal Disclaimer**
 
@@ -101,27 +97,20 @@ We use this information, which does not identify individual users, to analyze tr
 
 We do link this automatically-collected data to personally identifiable information. IP addresses are tied to personally identifiable information to allow us to ban guests that repeatedly violate our terms of service and/or usage policies.
 
-**Cookies**
+**Tracking technologies**
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do link the information we store in cookies to personally identifiable information you submit while on our site. We do this to allow you to remain logged-in while using the SDN Forums and other areas of the SDN site.
+Technologies such as: cookies, beacons, tags and scripts are used by SDN and our marketing partners, affiliates, or analytics or service providers and online customer support provider. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
+We use cookies for authentication and to remember users’ settings _._ Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
-Cookies are used to enhance your experience at the SDN Forums. We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
+Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information.
 
-If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as the SDN Forums, will be limited.
+Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
-Some advertisers use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by this site only and does not cover the use of cookies by any advertisers. See the “Third Party Advertisers” section.
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here:  
+<http://preferences-mgr.truste.com/>
 
-**Clear Gifs (Web Beacons/Web Bugs)**
-
-We employ, and/or our third party advertising partner, Google, may employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
-
-To learn more about Google’s use of clear gifs, please go to [www.google.com](https://www.google.com/?gws_rd=ssl).
-
-**Third Party Advertisers**
-
-Some of the ads appearing on this Web site are delivered to users by Google, our advertising partner. Google may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://preferences-mgr.truste.com/) or you may also [opt-out by clicking here](http://preferences-mgr.truste.com/).
+Please note this does not opt you out of being served ads.  You will continue to receive generic ads.
 
 **Links to Other Sites**
 
@@ -133,9 +122,13 @@ Links from this site are monetized through [skimlinks.com](http://skimlinks.com
 
 This privacy statement applies only to information collected by this Web site.
 
+**Single Sign-On**
+
+You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.  Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+
 **Forums and Chat Rooms**
 
-If you use the SDN Forums or SDN chat room on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. However, use of information for these purposes is a violation of our SDN Forums Usage Policies.
+If you use the SDN Forums or SDN chat room on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. However, use of information for these purposes is a violation of our SDN Forums Usage Policies. [ _To request removal of your personal information from our community forum, contact us here._](http://www.studentdoctor.net/about-sdn/contact-us/ "Contact Us")
 
 **Access to Personally Identifiable Information**
 
