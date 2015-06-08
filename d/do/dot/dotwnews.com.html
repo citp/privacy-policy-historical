@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dotwnews.com privacy policy that was archived on 2014-11-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141109211400id_/http%3A//www.dotwnews.com/page/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dotwnews.com privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608050648id_/http%3A//www.dotwnews.com/page/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -15,7 +15,7 @@
     <link rel="icon" href="http://www.dotwnews.com/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="http://www.dotwnews.com/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="http://www.dotwnews.com/favicon.ico" type="image/vnd.microsoft.icon">
-    <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=651768338251441&amp;version=v2.0"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js" type="text/javascript"></script>
+    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=651768338251441&amp;version=v2.0"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="http://cloud.github.com/downloads/malsup/cycle/jquery.cycle.all.latest.js"></script>
 
 
@@ -131,7 +131,46 @@
     
     
     		
-          </head>
+            
+  <link href="http://fonts.googleapis.com/css?family=Sintony:400,700" rel="stylesheet" type="text/css">
+  
+ <script type="text/javascript" src="http://www.dotwnews.com//js/fancybox/source/jquery.fancybox.js?v=2.0.6"></script>
+
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.dotwnews.com//js/fancybox/source/jquery.fancybox.css">
+  
+  <script type="text/javascript">
+    
+	
+	
+	
+	$(document).ready(function()
+{
+	
+// pop up form codes
+
+
+$(".modalbox").fancybox({
+	
+	
+'width'         :   660	
+	
+	
+});
+
+
+
+ setTimeout( function() {
+$.fancybox({
+            'autoScale': true,
+            'transitionIn': 'fade',
+            'transitionOut': 'fade',
+            'href' : '#newsletter_box'
+        });
+},5000);
+
+
+});
+</script></head>
 
 <body>
 
@@ -155,10 +194,9 @@
   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=651768338251441&version=v2.0";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
+<div id="top_bar_sub" class="default" style="visibility:hidden; display:none;">
 
-<div id="top_bar_sub" class="default">
-
-<div class="subscribe_bar"><div class="close_btn"><a href="#close_subscription" onclick="closetop();"><img src="http://www.dotwnews.com/images/top_bar_close_btn.png" width="17" height="17" border="0"></a></div>
+<div class="subscribe_bar"><div class="close_btn"><a href="#close_subscription" onclick="closetop2();"><img src="http://www.dotwnews.com/images/top_bar_close_btn.png" width="17" height="17" border="0"></a></div>
 <div class="top_bar_text"><h1>Immerse yourself in the world of luxury travel</h1><h2> sign up now to receive our newsletters</h2></div>
 <div class="top_subscribe_form">Your e-mail addess<form action="" method="post" enctype="multipart/form-data" name="form2" target="_self" id="form2">
       <span id="sprytextfield1">
@@ -170,6 +208,25 @@
     </form></div>
 </div>
 </div>
+
+
+<div id="newsletter_box" style="display:none;">
+<div class="close_btn2"><a href="#close_subscription" onclick="closetop();"><img src="http://www.dotwnews.com/images/newsbox_close.png" width="13" height="12" border="0"></a></div>
+
+<div class="title"><img src="http://www.dotwnews.com/images/travel_with_us_w.png" alt="Travel With Us" width="389" height="36"></div>
+<div class="copy">Get the top news on luxury travel, premier <br>destinations, and inspiring stories all from DOTWNews.com</div>
+<div class="newsletterform"><form action="" method="post" enctype="multipart/form-data" name="form2" target="_self" id="form2">
+      <span id="sprytextfield1">
+      <input type="text" class="newsletter_textfield2" placeholder="enter your email address here ..." name="newsletter_email" id="newsletter_email">
+      <input name="button2" type="submit" id="button2" class="newsletter_btn" value="sign up" src="http://www.dotwnews.com/images/newsletter_submit_btn.jpg">
+      
+      <span class="textfieldRequiredMsg"><br><br><font color="#000000">Email Address is required</font></span><span class="textfieldInvalidFormatMsg"><br><br><font color="#000000">Invalid email format</font></span></span>
+      
+    </form></div>
+   
+</div>
+
+
 <div id="session_loader" style="display:none;"></div>
 <script type="text/javascript" charset="utf-8">
 var foo = (function() {
@@ -208,11 +265,12 @@ $(function(){
 
 function dis_chan(){
 	 $("#session_loader").load("http://www.dotwnews.com/session.php");
-	  $("#newsletter_box").css({'visibility' : 'visible'}).css({'display' : 'block'});
+	  //$("#newsletter_box").css({'visibility' : 'visible'}).css({'display' : 'block'});
 	
 }
 function closetop(){
 	foo.changeVar();
+	$.fancybox.close()
 //alert(foo.getA());
 	$('#top_bar_sub').slideUp('fast');
 	
@@ -221,13 +279,29 @@ function closetop(){
 	 dis_chan();
 	
 }
+
+
+function closetop2(){
+	//foo.changeVar();
+//alert(foo.getA());
+	$('#top_bar_sub').slideUp('fast');
+	
+	//  $("#session_loader").load("http://www.dotwnews.com/pagination_data_ezine.php?page=" + pageNum, Hide_Load());
+
+	 //dis_chan();
+	
+}
+
+
+
+
 </script>
 
 
 
 
 <div id="v_header">
-<div class="v_top_stripe"><div class="v_date">Sunday, November 9, 2014</div>
+<div class="v_top_stripe"><div class="v_date">Monday, June 8, 2015 4:55 am GMT</div>
 <div class="v_social_media"><a href="http://twitter.com/dotw_news" target="_blank"><img src="http://www.dotwnews.com/images/v_twitter.png" alt="twitter"></a> <a href="https://www.facebook.com/DOTWNewsmagazine" target="_blank"><img src="http://www.dotwnews.com/images/v_facebook.png" alt="facebook"></a> <a href="http://www.linkedin.com/groups?gid=2946058" target="_blank"><img src="http://www.dotwnews.com/images/v_linkedin.png" alt="linkedin"></a></div>
 
 </div>
@@ -258,7 +332,7 @@ function closetop(){
                                 
       <li style="border-left:none;"><a href="http://www.dotwnews.com/region/europe">
                     <div class="menu_news">
-                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/eurostar-1.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="Europe">
+                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/paw_seasons_hotel-1.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="Europe">
                     <h2>Europe</h2>
                     
                     </div>
@@ -268,7 +342,7 @@ function closetop(){
                                     
       <li><a href="http://www.dotwnews.com/region/asia">
                     <div class="menu_news">
-                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/Yamazaki_Barrels1-1.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="Asia">
+                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/kuala_lumpur-1.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="Asia">
                     <h2>Asia</h2>
                     
                     </div>
@@ -278,7 +352,7 @@ function closetop(){
                                     
       <li><a href="http://www.dotwnews.com/region/middle-east">
                     <div class="menu_news">
-                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/dubai_marina-1.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="Middle East">
+                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/Goldgenie-1.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="Middle East">
                     <h2>Middle East</h2>
                     
                     </div>
@@ -288,7 +362,7 @@ function closetop(){
                                     
       <li><a href="http://www.dotwnews.com/region/americas">
                     <div class="menu_news">
-                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/tom_cruise3-1.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="Americas">
+                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/Curio_Diplomat_Resort-1.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="Americas">
                     <h2>Americas</h2>
                     
                     </div>
@@ -298,7 +372,7 @@ function closetop(){
                                     
       <li style="border-right:none;"><a href="http://www.dotwnews.com/region/africa">
                     <div class="menu_news">
-                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/six_senses_maldives_yoga1-1.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="Africa">
+                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/cheval_blanc_yacht-1.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="Africa">
                     <h2>Africa</h2>
                     
                     </div>
@@ -322,7 +396,7 @@ function closetop(){
                                    
       <li style="border-left:none;"><a href="http://www.dotwnews.com/subcategory/escape">
                     <div class="menu_news">
-                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/ cheval_blanc-1.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="Escape">
+                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/172498122-1.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="Escape">
                     <h2>Escape</h2>
              
                     </div>
@@ -332,7 +406,7 @@ function closetop(){
                                     
       <li><a href="http://www.dotwnews.com/subcategory/city">
                     <div class="menu_news">
-                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/ISTANBUL_sofia1-1.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="City">
+                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/shutterstock_127632269-1.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="City">
                     <h2>City</h2>
              
                     </div>
@@ -342,7 +416,7 @@ function closetop(){
                                     
       <li><a href="http://www.dotwnews.com/subcategory/suite-dreams">
                     <div class="menu_news">
-                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/Raffles_Istanbul_Suite_Bedroom-1.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="Suite dreams">
+                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/BEI_555-1.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="Suite dreams">
                     <h2>Suite dreams</h2>
              
                     </div>
@@ -352,7 +426,7 @@ function closetop(){
                                     
       <li><a href="http://www.dotwnews.com/subcategory/spa">
                     <div class="menu_news">
-                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/conrad_maldives_small.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="Spa">
+                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/The-Pool-1.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="Spa">
                     <h2>Spa</h2>
              
                     </div>
@@ -372,7 +446,7 @@ function closetop(){
                                     
       <li><a href="http://www.dotwnews.com/subcategory/explore">
                     <div class="menu_news">
-                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/fourseaons_small.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="Explore">
+                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/530230337-1-1.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="Explore">
                     <h2>Explore</h2>
              
                     </div>
@@ -382,7 +456,7 @@ function closetop(){
                                     
       <li style="border-right:none;"><a href="http://www.dotwnews.com/subcategory/fine-dine">
                     <div class="menu_news">
-                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/athens1-1.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="Fine dine">
+                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/Jose-in-the-kitchen-1.gif&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="Fine dine">
                     <h2>Fine dine</h2>
              
                     </div>
@@ -401,7 +475,7 @@ function closetop(){
                                        
       <li style="border-left:none;"><a href="http://www.dotwnews.com/subcategory/icons">
                     <div class="menu_news">
-                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/oscar_de_la_renta-1.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="Icons">
+                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/IvankaTrumpedit(1)-1.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="Icons">
                     <h2>Icons</h2>
                 
                     </div>
@@ -411,7 +485,7 @@ function closetop(){
                                     
       <li><a href="http://www.dotwnews.com/subcategory/insider">
                     <div class="menu_news">
-                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/vienna_vip_small.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="Insider">
+                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/AB-headshot3-1.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="Insider">
                     <h2>Insider</h2>
                 
                     </div>
@@ -431,7 +505,7 @@ function closetop(){
                                     
       <li style="border-right:none;"><a href="http://www.dotwnews.com/subcategory/focus">
                     <div class="menu_news">
-                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/christy_walton-1.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="Focus">
+                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/bridwell_park1-1.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="Focus">
                     <h2>Focus</h2>
                 
                     </div>
@@ -446,7 +520,7 @@ function closetop(){
                                        
       <li style="border-left:none;"><a href="http://www.dotwnews.com/subcategory/motoring">
                     <div class="menu_news">
-                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/audi_review_small.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="Motoring">
+                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/AY46--Sailing-004hr-1.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="Motoring">
                     <h2>Motoring</h2>
                     
                     </div>
@@ -456,7 +530,7 @@ function closetop(){
                                     
       <li><a href="http://www.dotwnews.com/subcategory/on-trend">
                     <div class="menu_news">
-                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/432_park_ave_small.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="On trend">
+                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/24188066753eb398930b3d-1-1.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="On trend">
                     <h2>On trend</h2>
                     
                     </div>
@@ -466,7 +540,7 @@ function closetop(){
                                     
       <li style="border-right:none;"><a href="http://www.dotwnews.com/subcategory/debut">
                     <div class="menu_news">
-                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/Cape_W_Sri_Lanka-1.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="Debut">
+                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/3522-57-1.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="Debut">
                     <h2>Debut</h2>
                     
                     </div>
@@ -484,7 +558,7 @@ function closetop(){
                                       
       <li style="border-left:none;"><a href="http://www.dotwnews.com/subcategory/the-arts">
                     <div class="menu_news">
-                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/interview_paquette_ballet_thumb.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="The arts">
+                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/42-58288629-1.gif&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="The arts">
                     <h2>The arts</h2>
                     
                     </div>
@@ -504,7 +578,7 @@ function closetop(){
                                     
       <li style="border-right:none;"><a href="http://www.dotwnews.com/subcategory/events">
                     <div class="menu_news">
-                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/elephant_polo1-1.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="Events">
+                    <img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=/uploads/posts/Cunard3Queens-pj-0986-1.jpg&amp;width=103&amp;height=73&amp;cropratio=103:73" width="103" height="73" alt="Events">
                     <h2>Events</h2>
                     
                     </div>
@@ -540,7 +614,9 @@ function closetop(){
 <div class="spacer"> </div>
 
 </div>
-<div class="spacer"> </div><div id="side_banners" style="position: relative; width: 1000px; height: 0px; line-height: 0; margin: 0 auto; padding: 0;">
+<div class="spacer"> </div>
+
+<div id="side_banners" style="position: relative; width: 1000px; height: 0px; line-height: 0; margin: 0 auto; padding: 0;">
     <div id="side_banner_left" style="z-index: 100;  position: absolute; left: -160px; top:20px; width: 160px; height: 600px;">
 <script type="text/javascript"><!--// <![CDATA[
     /* [id24] Side Left */
@@ -605,7 +681,7 @@ function closetop(){
 <div class="right_contaner">
 
  
-  <div id="newsletter_box" class="newsletter_box">
+  <div id="newsletter_box" class="newsletter_box" style="visibility:hidden; display:none;">
     <p style="margin-bottom:10px;">Sign up For our online newsletter</p>
     <form action="" method="post" enctype="multipart/form-data" name="form2" target="_self" id="form2">
       <span id="sprytextfield2">
@@ -643,16 +719,15 @@ function closetop(){
         <div class="TabbedPanelsContent">
         
                 
-        <div class="headlines"><h3><a href="http://www.dotwnews.com/focus/burj-al-arab-approaches-15th-birthday-celebrations">Burj Al Arab approaches 15th birthday celebrations
-</a></h3>		</div>
+        <div class="headlines"><h3><a href="http://www.dotwnews.com/focus/video-interview-travel-tips-from-malaysia-s-tourism-minister">Video interview: Travel tips from Malaysia’s tourism minister</a></h3>		</div>
                 
-        <div class="headlines"><h3><a href="http://www.dotwnews.com/debut/debut-november-s-hot-hotel-openings">DEBUT: November’s hot hotel openings</a></h3>		</div>
+        <div class="headlines"><h3><a href="http://www.dotwnews.com/suite-dreams/the-most-luxurious-hotel-suites-in-london">The most luxurious hotel suites in London</a></h3>		</div>
                 
-        <div class="headlines"><h3><a href="http://www.dotwnews.com/escape/courchevel-shop-ski-and-be-seen">Courchevel: shop, ski and be seen</a></h3>		</div>
+        <div class="headlines"><h3><a href="http://www.dotwnews.com/fine-dine/how-to-dine-like-a-local-in-copenhagen">How to dine like a local in Copenhagen</a></h3>		</div>
                 
-        <div class="headlines"><h3><a href="http://www.dotwnews.com/focus/gwyneth-paltrow-promotes-ba-s-new-a380-singapore-service">Gwyneth Paltrow promotes BA’s new A380 Singapore service</a></h3>		</div>
+        <div class="headlines"><h3><a href="http://www.dotwnews.com/suite-dreams/life-is-suite-at-the-four-seasons-hotel-beirut">Life is suite at the Four Seasons Hotel, Beirut </a></h3>		</div>
                 
-        <div class="headlines"><h3><a href="http://www.dotwnews.com/focus/rolls-royce-plans-exhibition-at-london-s-saatchi-gallery">Rolls-Royce plans exhibition at London’s Saatchi Gallery</a></h3>		</div>
+        <div class="headlines"><h3><a href="http://www.dotwnews.com/focus/this-british-sea-fort-has-just-opened-as-a-boutique-hotel">This British sea fort has just opened as a boutique hotel</a></h3>		</div>
                 
         
         </div>
@@ -677,10 +752,7 @@ function closetop(){
   
   
   
-  <div class="content_feat">
-<a class="twitter-timeline" href="https://twitter.com/DOTW_News" data-widget-id="366832629481349121"><img src="images/follow_twitter.png" width="300" height="50" border="0"></a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-</div>
+  
 <div class="top_mpu_btn_holder">
  
  
@@ -698,13 +770,13 @@ function closetop(){
   
     
   
-<img src="http://www.dotwnews.com/uploads/ezine/NOV14_163.jpg" width="100" alt="November 2014" style="margin:0px; padding:0px; border:none; float:left;">
+<img src="http://www.dotwnews.com/uploads/ezine/june15-cover-163.jpg" width="100" alt="June 2015" style="margin:0px; padding:0px; border:none; float:left;">
   
   
-<img src="http://www.dotwnews.com/uploads/ezine/oct14_163.jpg" width="100" alt="October 2014" style="margin:0px; padding:0px; border:none; float:left;">
+<img src="http://www.dotwnews.com/uploads/ezine/family-travel-2015.jpg" width="100" alt="Luxury Family Travel 2015" style="margin:0px; padding:0px; border:none; float:left;">
   
   
-<img src="http://www.dotwnews.com/uploads/ezine/sept-web.jpg" width="100" alt="September 2014" style="margin:0px; padding:0px; border:none; float:left;">
+<img src="http://www.dotwnews.com/uploads/ezine/may15-163.jpg" width="100" alt="May 2015" style="margin:0px; padding:0px; border:none; float:left;">
 <br class="clear">
 </a></div>
 
@@ -714,15 +786,10 @@ function closetop(){
   <a href="http://www.dotwnews.com/page/competition"><h2>Competition</h2>
   
     
-<img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=//images/cappadocia.jpg&amp;width=300&amp;height=145&amp;cropratio=300:145" alt="Competition" width="300" height="145"></a></div>
+<img src="http://www.dotwnews.com/modules/image_resize/image_resize.php?image=//Screen_shot_2015-06-02_at_1.14.23_AM.png&amp;width=300&amp;height=145&amp;cropratio=300:145" alt="Competition" width="300" height="145"></a></div>
 
 
- <div class="content_feat">
- <h2>instagram</h2>
-<!-- SnapWidget -->
-
-<iframe src="http://snapwidget.com/in/?u=ZG90d19uZXdzfGlufDEzNXwyfDJ8fHllc3w1fG5vbmV8b25TdGFydHx5ZXM=&amp;v=10614" title="Instagram Widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:300px; margin-top:5px; height:300px"></iframe>
-</div>
+ 
 </div><br class="clear">
 
 </div>
@@ -743,7 +810,7 @@ function closetop(){
 <div class="sitemap" style="border-left:none; padding-left:0px; width:219px;">
 <h3><a href="http://www.dotwnews.com/">Home</a></h3>
 <h3><a href="http://www.dotwnews.com/page/about-us">About Us</a></h3>
-<h3><a href="http://www.dotwnews.com/DOTWNEWS_RATECARD_2014.pdf" target="_blank">Advertise</a></h3>
+<h3><a href="http://www.dotwnews.com/DOTWNEWS_RATECARD_2015.pdf" target="_blank">Advertise</a></h3>
 <h3><a href="http://www.dotwnews.com/page/subscribe">Subscribe</a></h3>
 
 <h3><a href="http://www.dotwnews.com/page/contact-us">Contact us</a></h3>
@@ -780,7 +847,7 @@ function closetop(){
 </div>
 <br class="clear">
 </div>
-<div class="copyright"> © Copyright 2014 Destinations of the World News Terms Of Use <a href="http://www.dotwnews.com/page/privacy-statement">Privacy Statement</a><br>
+<div class="copyright"> © Copyright 2015 Destinations of the World News Terms Of Use <a href="http://www.dotwnews.com/page/privacy-statement">Privacy Statement</a><br>
   Destinations of the World News and DOTWNEWS.COM are products of and registered trademarks of <a href="http://www.wnnlimited.com/" target="_blank">WNN Limited</a> </div>
 </div>
 <script type="text/javascript">
@@ -821,7 +888,7 @@ var sprytextfield2 = new Spry.Widget.ValidationTextField("sprytextfield2", "emai
 
     OneStat_Pageview();
     //-->
-    </script><img id="ONESTAT_TAG" border="0" width="1" height="1" src="https://stat.onestat.com/stat.aspx?tagver=2&amp;sid=547545&amp;url=https%3A//web.archive.org/web/20141109211400id_/http%253A//www.dotwnews.com/page/privacy-statement&amp;ti=Privacy%20statement%20-%20DOTWNews.com%20-%20Destinations%20of%20the%20World%20News&amp;section=&amp;rf=&amp;tz=0&amp;ch=10&amp;js=1&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No">
+    </script><img id="ONESTAT_TAG" border="0" width="1" height="1" src="https://stat.onestat.com/stat.aspx?tagver=2&amp;sid=547545&amp;url=https%3A//web.archive.org/web/20150608050648id_/http%253A//www.dotwnews.com/page/privacy-statement&amp;ti=Privacy%20statement%20-%20DOTWNews.com%20-%20Destinations%20of%20the%20World%20News&amp;section=&amp;rf=&amp;tz=0&amp;ch=10&amp;js=1&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No">
     <script type="text/javascript" src="http://www.dotwnews.com/js/avgrund.js"></script>
 
 
