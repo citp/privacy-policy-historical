@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cockyboys.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029023655id_/http%3A//cockyboys.com/fancyPage/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cockyboys.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608091208id_/http%3A//cockyboys.com/fancyPage/privacy.php) for the most accurate reproduction.*
 
 # CockyBoys Privacy Notice
 
