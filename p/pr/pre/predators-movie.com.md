@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the predators-movie.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202045749id_/http%3A//www.foxmovies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the predators-movie.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608060413id_/http%3A//www.foxmovies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 20th Century Fox
-
-Effective October 29, 2014
 
 ## INTRODUCTION
 
 Fox Filmed Entertainment Group (“Fox FE” or “we”), which includes Twentieth Century Fox Film Corporation, Fox Searchlight Pictures, Inc. and Twentieth Century Fox Home Entertainment LLC, wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications (“apps”), and widgets (collectively, the “Fox FE Services”). By using Fox FE Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies (“Company Affiliates”) is available at [www.21cf.com](http://www.21cf.com/). 
 
-As set forth in our [Terms of Use](https://web.archive.org/web/20141202045749id_/http%3A//www.foxmovies.com/terms.html), the Fox FE Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age. 
+As set forth in our [Terms of Use](http://www.foxprivacy.com/us/terms.html), the Fox FE Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age. 
 
 This Privacy Policy applies to all users, including both those who use the Fox FE Services without being registered with or subscribing to a Fox FE Service and those who have registered with [or subscribed to] a Fox FE Service. This Privacy Policy applies to Fox FE’s collection and use of your personal information (i.e., information that identifies a specific person, such as full name or email address). It also describes generally Fox FE’s practices for handling non-personal information (for example, interests, demographics and services usage). 
 
@@ -67,6 +65,8 @@ Fox FE uses commercially reasonable administrative, technical, personnel and phy
 If you would like to access, review, correct, update, suppress, or otherwise limit our use of your personal information you have previously provided directly to us, you may contact us as outlined in Section 7. In your request, please include your email address, name, address, and telephone number and specify clearly what information you would like to access, change, update, or suppress. We will try to comply with your request as soon as reasonably practicable. 
 
 You may request that we not share your personal information on a going-forward basis with Company Affiliates or unaffiliated third parties for their direct marketing purposes by sending an email to [californiaprivacy@foxcustomercare.com](mailto:californiaprivacy@foxcustomercare.com), with “Fox: Disclosure Opt-out” in the subject line. Please include your full name, email address, postal address and the relevant Fox FE Service in the body of the email. We will try to comply with your request(s) as soon as reasonably practicable. 
+
+**Deletion Rights of Minors.** If you are an eligible registered user under 18, you may ask us to remove content or information that you have posted to the Fox Services by writing to [privacypolicy@foxhome.com.](mailto:privacypolicy@foxhome.com) Please note that your request does not ensure complete or comprehensive removal of the content or information, as, for example, some of your content may have been reposted by another user.
 
 ## OTHER IMPORTANT INFORMATION 
 
