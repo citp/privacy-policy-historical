@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recoverysong.info privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121003153id_/http%3A//recoverysong.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recoverysong.info privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608135311id_/http%3A//recoverysong.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy PolicyRecovery Song | Recovery Song
 
