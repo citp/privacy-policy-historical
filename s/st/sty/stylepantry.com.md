@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stylepantry.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220065753id_/http%3A//www.stylepantry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylepantry.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608064700id_/http%3A//stylepantry.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Style Pantry
+# Style Pantry | Privacy Policy
 
 ## Our Commitment to Your Privacy
 
-This site is owned and operated by Style Pantry Publishing. Your privacy on the Internet is of the utmost importance to us. At Style Pantry, we want to make your experience online satisfying and safe.
+This site is owned and operated by Style Pantry, LLC. Your privacy on the Internet is of the utmost importance to us. At Style Pantry, we want to make your experience online satisfying and safe.
 
 Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
@@ -37,6 +37,8 @@ Consistent with the Federal Children’s Online Privacy Protection Act of 1998 (
 We use cookies on our website to help you in your online surfing and to help tailor your experience at our website. Cookies are little bits of electronic information that a website can store on your computer to help make surfing online easier and to help personalize your visit to Style Pantry website. The cookie itself does not contain personal information, although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. The only personal information a cookie can contain is information you supply yourself. A cookie can’t read data off your hard drive or read cookie files created by other sites. Style Pantry uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates.
 
 You can refuse cookies by turning them off in your browser. If you’ve set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you may be unable to shop online or participate actively in message boards, forums, polling, and surveys.
+
+Third party vendors, including Google, use cookies to serve ads based on your prior visits to this website.  Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.  _Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting  [Ads Settings](http://www.google.com/ads/preferences/). (Alternatively, you can learn how to opt out of a third-party vendor’s use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)_
 
 ### Sharing of the Information
 
