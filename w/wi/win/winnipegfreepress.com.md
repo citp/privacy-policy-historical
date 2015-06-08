@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the winnipegfreepress.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006191353id_/http%3A//www.winnipegfreepress.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winnipegfreepress.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608060342id_/http%3A//www.winnipegfreepress.com/privacy.html) for the most accurate reproduction.*
 
 # Winnipeg Free Press - Breaking News, Sports, Manitoba, Canada
-
-Privacy Policy
 
 #### What is the Winnipeg Free Press’ (FP Canadian Newspapers Limited Partnership, or FPLP) privacy policy?
 
