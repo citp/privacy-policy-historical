@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeibiz.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122233434id_/http%3A//www.zeibiz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeibiz.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609003950id_/http%3A//www.zeibiz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,7 +9,3 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 Advertising platform is hosted by Google Adsense. Google Adsense is a third party advertisement vendor, it uses cookies to serve related content advertisements on this site.
 
 We used social sharing plugins to syndicate our online contents, it includes  Twitter, Facebook Google+, LinkIn and more. Interacting on these plugin will collect your log-in account in each social network.
-
-Media (Photos and Videos) Disclaimer
-
-Photos and Videos in this website belongs to their respective owners. Photos are taken from available sources on the internet and mostly tagged with credentials. Videos on this website are mostly embedded from YouTube.
