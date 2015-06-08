@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the armaholic.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229103352id_/http%3A//www.armaholic.com/page.php%3Fid%3D37) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armaholic.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608212852id_/http%3A//www.armaholic.com/page.php%3Fid%3D37) for the most accurate reproduction.*
 
 # Privacy Policy - Armaholic
 
@@ -19,10 +19,12 @@ Like many other Web sites, [www.armaholic.com](http://www.armaholic.com/) makes 
 .:: Google's use of the DART cookie enables it to serve ads to users based on their visit to [www.armaholic.com](http://www.armaholic.com/) and other sites on the Internet.   
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....  
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include (but may not be limitted to):  
 Google Adsense  
 Intergi entertainment  
-BuySellAds.com Inc.
+BuySellAds.com Inc.  
+App Nexus  
+Adk2
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on [www.armaholic.com](http://www.armaholic.com/) send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
