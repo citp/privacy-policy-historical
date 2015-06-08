@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sandraandwoo.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218194037id_/http%3A//www.sandraandwoo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandraandwoo.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608100823id_/http%3A//www.sandraandwoo.com/privacy-policy) for the most accurate reproduction.*
 
-# Sandra and Woo » Privacy Policy | Webcomic Online Comic Strip
+# Sandra and Woo » Privacy Policy | The comedy webcomic
 
 **What information do we collect?**
 
@@ -54,7 +54,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.sandraandwoo.com/woode/impressum/>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.sandraandwoo.com/woode/impressum/](https://web.archive.org/woode/impressum/)
 
 **Your Consent**
 
