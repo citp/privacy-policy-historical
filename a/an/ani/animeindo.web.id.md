@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animeindo.web.id privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225092115id_/http%3A//animeindo.web.id/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeindo.web.id privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608024527id_/http%3A//animeindo.web.id/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Animeindo
 
