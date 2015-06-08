@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the thebaseballcube.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108173320id_/http%3A//www.thebaseballcube.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebaseballcube.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608045137id_/http%3A//www.thebaseballcube.com/about/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy - The Baseball Cube
+# About The Baseball Cube - The Cube
+
+More than 14,500 hours have been dedicated to The Baseball Cube by 1 man over 12 years. If you're a frequent visitor, please consider a small [donation](http://www.thebaseballcube.com/about/tipjar.asp) to say thanks. 
 
 [TBC Player Tracker](http://www.thebaseballcube.com/players/tracker.asp):   Daily emails with YOUR custom list of players delivered before your first cup of coffee. Change players whenever you like! 
+
+\+ About The Baseball Cube
 
 The Baseball Cube understands that when you submit information about yourself to us that you wish for it to remain private and thus, we are committed to insuring that any information sent to us remains confidential. Any time we request specific information from you via a web form, we intend to use the data precisely for its intended outlined purpose. This document will further clarify our intentions. 
 
@@ -12,7 +16,7 @@ The Baseball Cube has signed up with different affiliate programs on the Interne
 
 #### Disclosure:
 
-The Baseball Cube promises to keep all personal information confidential. Submitters email address, name, address and any other personal information will not visibly appear on the site. The exception is when you deliberately submit information with the intention of it being used on the site such as the "Add Yourself to DB" feature and the "Edit Profile" feature. You will not receive unsolicited junk mail from any other company nor will you receive unsolicted random emails from us, unless to publicize a policy change on the site for those who hold a stake. At times, we may provide aggregate demographic information about our site to potential advertisers but under no circumstances, will we provide them with anything more.
+The Baseball Cube promises to keep all personal information confidential. Submitters email address, name, address and any other personal information will not visibly appear on the site. The exception is when you deliberately submit information with the intention of it being used on the site such as the "Add Yourself to DB" feature and the "Edit Profile" feature. You will not receive unsolicited junk mail from any other company nor will you receive unsolicted random emails from us, unless to publicize a policy change on the site for those who hold a stake. At times, we may provide aggregate anonymized demographic information about our site to potential advertisers but under no circumstances, will we provide them with anything more.
 
 #### Third Party Advertising:
 
@@ -22,4 +26,4 @@ In addition to affiliate product advertisements on the site, we also include net
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
 
-For questions about our privacy policy, please [Contact Us](https://web.archive.org/web/20141108173320id_/http%3A//www.thebaseballcube.com/about/contact.asp)
+For questions about our privacy policy, please [Contact Us](https://web.archive.org/web/20150608045137id_/http%3A//www.thebaseballcube.com/about/contact.asp)
