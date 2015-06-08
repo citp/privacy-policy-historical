@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wantedwants.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120061000id_/http%3A//wantedwants.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wantedwants.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608120158id_/http%3A//wantedwants.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
 # 
 
@@ -51,6 +51,6 @@ If you have any questions about this privacy policy, e-mail them to wantedwants
 
 Need assistance? Have a question that isn't answered in our [help](http://wantedwants.com/index.php?a=28&b=141) sections? You can contact support by visiting our [contact us](http://wantedwants.com/index.php?a=28&b=136) page.
 
-#### Copyright © 2014 WantedWants.com. All Rights Reserved. Established in 2007.
+#### Copyright © 2015 WantedWants.com. All Rights Reserved. Established in 2007.
 
 Use of this Web site constitutes acceptance of the [User Agreement](http://wantedwants.com/index.php?a=28&b=140) and [Privacy Policy](http://wantedwants.com/index.php?a=28&b=145). Designated trademarks and brands are the property of their respective owners.
