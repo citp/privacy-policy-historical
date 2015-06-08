@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compucom.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101073217id_/http%3A//www.compucom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compucom.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608110045id_/http%3A//compucom.com/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | CompuCom
 
