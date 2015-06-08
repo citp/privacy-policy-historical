@@ -1,0 +1,193 @@
+<!--The following is the downloaded HTML source of the sharedcount.com privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608085825id_/http%3A//www.sharedcount.com/admin/docs/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
+<meta charset="utf-8">
+<title>SharedCount: Social URL Analytics</title>
+<meta name="description" content="Track URL shares, likes, tweets, and more.">
+<meta name="author" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+<meta name="msapplication-square70x70logo" content="/smalltile.png">
+<meta name="msapplication-square150x150logo" content="/mediumtile.png">
+<meta name="msapplication-wide310x150logo" content="/widetile.png">
+<meta name="msapplication-square310x310logo" content="/largetile.png">
+<meta name="google-site-verification" content="3tNgTpoX37-FIc7VT3QcnbS61DKyapZ81aP1XZDz8yo">
+<link rel="stylesheet" href="/css/style.css?v=20150224">
+ 
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
+ 
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap-theme.min.css">
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W8WDX9"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+ 
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+<script>
+window.SharedCount = { 
+		settings : {
+			host : "free.sharedcount.com",
+			apikey : "479dfb502221d2b4c4a0433c600e16ba5dc0df4e",
+			login : null
+		},
+		trackEvent: function(category, action, label, value){
+			if(SharedCount.settings.authenticated){
+				$.post("/admin/user/event.php", {category: category, action:action, label:label, value:value}, function(){});
+			}
+		}
+};
+</script>
+<script>
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-19686383-1']);
+_gaq.push(['_addIgnoredRef', 'sharedcount.com']);
+_gaq.push(['_setDomainName', 'sharedcount.com']);
+_gaq.push(['_setSiteSpeedSampleRate', 100]);
+_gaq.push( ['_trackPageview', location.pathname + location.search + location.hash]);
+
+(function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script>
+<script src="/js/script.js?v=20150224"></script>
+<script>
+var domain = location.hostname === "www.sharedcount.com" ? "https://sharedcount-www.appspot.com" : "";
+$.get(domain + "/admin/user/info.php", function(data){
+	if(data.host && data.apikey){
+		SharedCount.settings = data;
+	}
+	$(document).trigger("authcheck");
+	$(function(){
+		if(SharedCount.settings.apikey){
+			$(".personalized-apikey").text(SharedCount.settings.apikey); 
+			$(".personalized-host").text(SharedCount.settings.host)	
+		}
+		$(".loggedout-controls span,.loggedin-controls span").removeClass("hidden");
+		if(SharedCount.settings.authenticated){
+			$(".loggedout-controls").hide();
+			$(".loggedin-controls").show();
+			var plan = data.host.split(".")[0];
+			(new Image()).src="https://docs.sharedcount.com/?app[plan]=" + plan + "&app[key]=" + data.apikey;
+		}
+		else{
+			$(".loggedout-controls").show();
+			$(".loggedin-controls").hide();
+		}
+		
+		
+	});
+	
+})
+</script>
+</head>
+<body>
+<div id="container" style="">
+<header>
+<a href="/"><img src="/logo.png" alt="Shared Count" style="
+		    width: 500px;
+		"></a>
+<h2>Track URL shares, likes, tweets, and more.</h2>
+</header>
+<div class="navbar navbar-fixed-top navbar-inverse" style="border: 0;">
+<button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div class="navbar-inner">
+<div class="container" style="	padding-left: 0;	margin-left: 0;">
+<a class="navbar-brand" href="/"><img style="margin-top: -2px;width:inherit; height:19px" src="/APpd7.png" alt="Shared Count"></a>
+<div class="nav-collapse collapse navbar-collapse bs-navbar-collapse">
+<ul class="nav navbar-nav">
+<li class=""><a href="/">Home</a></li>
+<li><a href="/dashboard.php" title="Multi-URL Dashboard">URL Dashboard</a></li>
+<li><a href="/faq.php" title="Frequently Asked Questions">FAQ</a></li>
+<li><a href="http://docs.sharedcount.com/">API Docs</a></li>
+<li><a href="/pricing.php">Pricing</a></li>
+<li><a href="mailto:info@sharedcount.com">Contact</a></li>
+</ul>
+<ul class="nav navbar-nav navbar-right">
+<li class="loggedin-controls"><a href="/admin/user/home.php"><span class="hidden">Account</span></a></li>
+<li class="loggedin-controls"><a href="/admin/logout.php"><span class="hidden">Logout</span></a></li>
+<li class="loggedout-controls"><a href="/admin/login.php"><span class="hidden">Login</span></a></li>
+<li class="loggedout-controls"><a href="/admin/signup.php"><span class="hidden">Sign Up</span></a></li>
+</ul>
+</div> 
+</div>
+</div>
+</div>
+<div id="content" class="tier">
+<h2>Privacy&nbsp;Policy</h2>
+<p><em>Adapted from <a href="http://automattic.com/privacy/">Automattic Privacy Policy</a>, under <a href="http://creativecommons.org/licenses/by-sa/2.5/">Creative Commons Sharealike</a></em></p>
+<h3>Website Visitors</h3>
+<p>Like most website operators, SharedCount collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. SharedCount’s purpose in collecting non-personally identifying information is to better understand how SharedCount’s visitors use its website. From time to time, SharedCount may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.</p>
+<p>SharedCount also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users. SharedCount only discloses logged in user IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below.</p>
+<h3>Gathering of Personally-Identifying Information</h3>
+<p>Certain visitors to SharedCount’s websites choose to interact with SharedCount in ways that require SharedCount to gather personally-identifying information. The amount and type of information that SharedCount gathers depends on the nature of the interaction. Those who engage in transactions with SharedCount – by purchasing paid quota levels to the SharedCount API, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, SharedCount collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with SharedCount. SharedCount does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.</p>
+<h3>Aggregated Statistics</h3>
+<p>SharedCount may collect statistics about the behavior of visitors to its websites. SharedCount may display this information publicly or provide it to others. However, SharedCount does not disclose personally-identifying information other than as described below.</p>
+<h3>Protection of Certain Personally-Identifying Information</h3>
+<p>SharedCount discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on SharedCount’s behalf or to provide services available at SharedCount’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using SharedCount’s websites, you consent to the transfer of such information to them. SharedCount will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, SharedCount discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when SharedCount believes in good faith that disclosure is reasonably necessary to protect the property or rights of SharedCount, third parties or the public at large. If you are a registered user of an SharedCount website and have supplied your email address, SharedCount may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with SharedCount and our products. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. SharedCount takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.</p>
+<h3>Cookies</h3>
+<p>A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. SharedCount uses cookies to help SharedCount identify and track visitors, their usage of SharedCount website, and their website access preferences. SharedCount visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using SharedCount’s websites, with the drawback that certain features of SharedCount’s websites may not function properly without the aid of cookies.</p>
+<h3>Business Transfers</h3>
+<p>If SharedCount, or substantially all of its assets, were acquired, or in the unlikely event that SharedCount goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of SharedCount may continue to use your personal information as set forth in this policy.</p>
+<h3>Privacy Policy Changes</h3>
+<p>Although most changes are likely to be minor, SharedCount may change its Privacy Policy from time to time, and in SharedCount’s sole discretion. SharedCount encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.</p>
+</div>  
+</div>
+ 
+<footer class="footer">
+<div class="">
+<p>
+</p><p class="twitter-button"><a href="http://twitter.com/sharedcount" class="twitter-follow-button" data-width="160px" data-show-count="false" data-align="bottom">Follow @sharedcount</a></p>
+<p>&nbsp;</p>
+<p class="">
+</p><p class="">SharedCount, Inc.</p>
+<p><small><a href="/admin/docs/privacy.php">Privacy Policy</a> | <a href="/admin/docs/terms.php">Terms of Service</a></small></p>
+<p></p>
+
+<script>
+if(!location.pathname.match(/^\/admin/)){
+	$(window).load(function(){		
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+
+	});
+	
+}
+else{
+	$(function(){
+		$(".twitter-button").remove();
+		
+	});
+	
+}
+	</script>
+</div>
+</footer>
+ 
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W8WDX9" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-W8WDX9');</script>
+ 
+
+
+</body></html>
