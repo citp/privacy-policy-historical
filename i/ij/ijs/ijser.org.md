@@ -1,9 +1,17 @@
-> *The following text is extracted and transformed from the ijser.org privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702073045id_/http%3A//www.ijser.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ijser.org privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608085711id_/http%3A//www.ijser.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - International Journal of Scientific and Engineering Research
 
   
 
+
+* * *
+
+By means of IJSER journal Open Access Policy, authors grant the IJSER PUBLICATION a nonexclusive, irrevocable right to distribute their scholarly articles for any non-commercial purpose. All articles published in IJSER open access journals are peer reviewed and upon acceptance will be immediately and permanently free for everyone to read and download. 
+
+Scholarly articles provided to the journal are stored, preserved, and made freely accessible in digital form from journal repository. 
+
+**Copyright:** Submission of a manuscript implies: that the work described has not been published before (except in the form of an abstract or as part of a published lecture, or thesis) that it is not under consideration for publication elsewhere; that if and when the manuscript is accepted for publication, the authors agree to automatic transfer of the copyright to the publisher. Author can archive publisher's version/PDF.
 
 * * *
 
