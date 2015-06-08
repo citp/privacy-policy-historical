@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiantlifecatalog.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702063325id_/http%3A//www.radiantlifecatalog.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiantlifecatalog.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608033651id_/http%3A//www.radiantlifecatalog.com/privacy_policy) for the most accurate reproduction.*
 
 # Radiant Life | Nourishing Traditions | Weston Price | Nutrient Dense Food
 
@@ -7,9 +7,8 @@ Protecting your privacy is important to us and we recognize that your informatio
 Our mailing/shipping address is: 
 
      Radiant Life   
-     3721 Santa Rosa Avenue  
-     Ste B4  
-     Santa Rosa, CA  95407
+     5277 Aero Drive  
+     Santa Rosa, CA  95403
 
 We can be reached by telephone at: 888-593-9595
 
