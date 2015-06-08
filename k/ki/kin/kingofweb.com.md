@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingofweb.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065703id_/http%3A//creatorrepublic.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingofweb.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608094206id_/http%3A//creatorrepublic.com/pages/privacy) for the most accurate reproduction.*
 
 # Creator Republic - Privacy
 
@@ -88,11 +88,3 @@ Creator Republic may change this Policy from time to time. If we make any change
 **CONTACT US**
 
 If you have any questions about this Policy, please contact us at [support@creatorrepublic.com](mailto:support@creatorrepublic.com?subject=Privacy%20Policy).
-
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, Creator Republic commits to resolve complaints about privacy. European Union and Swiss citizens with inquiries or complaints regarding this Policy should first contact us by email. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by King of the Web, you can refer your complaint to the Council of Better Business Bureaus. You may contact the BBB EU Safe Harbor program at: Council of Better Business Bureaus, Inc.
-
-BBB EU Safe Harbor   
-3033 Wilson Boulevard, Suite 600   
-Arlington, VA 22201   
-(703) 276-0100   
-[www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints)
