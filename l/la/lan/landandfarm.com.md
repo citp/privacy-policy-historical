@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landandfarm.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217020331id_/http%3A//www.landandfarm.com/about/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landandfarm.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608050812id_/http%3A//www.landandfarm.com/about/Privacy) for the most accurate reproduction.*
 
 # LandAndFarm.com - Privacy Statement
 
@@ -16,7 +16,7 @@ LandAndFarm has been awarded TRUSTe's Privacy Seal signifying that this privacy 
 
 
 
-Questions regarding this statement should be directed to [privacy@loopnet.com](mailto:privacy@loopnet.com). Alternatively, please contact us by mail at LandAndFarm Administration -- Privacy Statement, 2100 E. Route 66, Suite 200, Glendora, CA 91740, or by telephone at (626) 803-5000.
+Questions regarding this statement should be directed to [privacy@loopnet.com](mailto:privacy@loopnet.com). Alternatively, please contact us by mail at LandAndFarm Administration -- Privacy Statement, 1331 L St. NW, Washington, DC. 20005, or by telephone at (626) 803-5000.
 
 If the web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint) . For more information on TRUSTe, please go to [http://www.truste.com](http://www.truste.com/).
 
@@ -74,7 +74,11 @@ We use cookies for our shopping cart, to remember users' settings (e.g. language
 
 **Log Files**
 
-As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you. Or We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you. 
+
+**Local Storage**
+
+We use Local Storage (LS) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LS such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LS.
 
 **Behavioral Advertising**
 
