@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellothemes.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131549id_/http%3A//www.hellothemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellothemes.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608065453id_/https%3A//www.hellothemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Premium Magento Themes | HelloThemes | Templates
 
@@ -6,4 +6,4 @@ We take your private information extremely seriously and we take all measures to
 
 Our Support Team will often ask you to provide FTP/Admin-panel details in order to provide you with a quick fix to any bug that your theme may have. If this is your case, we ask you to trust in our security systems and our professional service. We have more than 5 years in customer service experience with 0% of error in this matters.-
 
-This post is also available in: [Spanish](http://www.hellothemes.com/es/politica-de-privacidad/), [Brazil](http://www.hellothemes.com/pt-br/politica-de-privacidade/)
+This post is also available in: [Spanish](http://www.hellothemes.com/es/politica-de-privacidad/)
