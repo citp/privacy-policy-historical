@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libgig.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010184753id_/http%3A//www.libgig.com/%3Fpage_id%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libgig.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608103730id_/http%3A//www.libgig.com/%3Fpage_id%3D6) for the most accurate reproduction.*
 
 # Privacy - LIBGIG
 
@@ -17,7 +17,7 @@ We take the utmost care to ensure that the personal information we obtain from y
 
 Information collected on the site may be used to:
 
-\- Register you as a job applicant  
+– Register you as a job applicant  
 – Enter your email in our promotions or sweepstakes  
 – Send marketing communications or surveys to you  
 – Respond to your questions or suggestions  
