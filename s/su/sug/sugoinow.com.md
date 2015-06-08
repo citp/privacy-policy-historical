@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sugoinow.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214004632id_/http%3A//sugoinow.com/sugoinow-privacy-policy-g) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugoinow.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608222852id_/http%3A//sugoinow.com/sugoinow-privacy-policy-g) for the most accurate reproduction.*
 
 # Privacy Policy - Sugoinow.com - Taiwan Entertainment - Taiwanese Idol Dramas 台灣偶像劇
 
