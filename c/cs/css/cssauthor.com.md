@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cssauthor.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113110856id_/http%3A//www.cssauthor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cssauthor.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608050531id_/http%3A//www.cssauthor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » CSS Author
 
@@ -54,5 +54,3 @@ Google
 Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
 
 We have not enabled Google AdSense on our site but we may do so in the future.
-
-__Thursday, September 18, 2014
