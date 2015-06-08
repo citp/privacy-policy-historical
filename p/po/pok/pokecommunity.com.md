@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokecommunity.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103192938id_/http%3A//www.pokecommunity.com/misc.php%3Fdo%3Dpage%26template%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokecommunity.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609000800id_/http%3A//www.pokecommunity.com/misc.php%3Fdo%3Dpage%26template%3Dpolicy) for the most accurate reproduction.*
 
 # The PokéCommunity Forums - policy
 
@@ -48,7 +48,7 @@ If you would like more information about this practice and to know your choices 
      _Here's how to contact us_   
 You may contact us by 
 
-  * [eMail Contact Us Form](https://web.archive.org/web/20141103192938id_/http%3A//www.pokecommunity.com/sendmessage.php)
+  * [eMail Contact Us Form](https://web.archive.org/web/20150609000800id_/http%3A//www.pokecommunity.com/sendmessage.php)
   * **Postal mail** : PokeCommunity.com  
 C/O 
     * One GigaByte Network
