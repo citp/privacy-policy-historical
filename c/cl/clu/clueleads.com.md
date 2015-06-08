@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the clueleads.com privacy policy that was archived on 2014-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140912140524id_/http%3A//clueleads.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clueleads.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608045300id_/http%3A//www.clueleads.com/Privacy.aspx) for the most accurate reproduction.*
 
 # mlm,India mlm news,mlm classifieds,India mlm companies,networker views,mlm articles,mlm directory,mlm software,Network marketing in Andhrapradesh,India
 
 |  |   
 ---  
-[](https://web.archive.org/web/20140912140524id_/http%3A//clueleads.com/get10000.aspx)  
-  
-[](http://www.apextelecom.net/)  
   
 |  |  |    
 ---|---  
@@ -30,16 +27,6 @@ Users of this Site may contact [clueleads.com](http://www.clueleads.com/) to mod
 |   
 ---  
   
-[](https://web.archive.org/web/20140912140524id_/http%3A//clueleads.com/get10000.aspx)  
+[](http://www.apextelecom.net/apextelecom_plan_video.html)  
   
-[](http://www.mygreenstar.com/)  
-  
-[](http://www.website.ws/sonabiz)  
-  
-[](https://web.archive.org/web/20140912140524id_/http%3A//clueleads.com/get10000.aspx)  
-  
-   
-   
-   
-   
- 
+[](http://www.rechargeplus.biz/)
