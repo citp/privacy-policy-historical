@@ -1,11 +1,16 @@
-<!--The following is the downloaded HTML source of the physio-pedia.com privacy policy that was archived on 2014-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141204030618id_/http%3A//www.physio-pedia.com/Physiopedia%3APrivacy_Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the physio-pedia.com privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608051237id_/http%3A//www.physio-pedia.com/Physiopedia%3APrivacy_Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
 	<title>Physiopedia:Privacy Policy - Physiopedia, universal access to physiotherapy knowledge.</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="description" content="Physiopedia Privacy Policy  This Privacy Policy is effective as of Sept 1, 2008, and outlines the types of information collected by Physiopedia as well as steps taken to keep your private information private. This policy’s goal is to help you make an educated decision when choosing to ...">
 	<meta name="google-site-verification" content="Os4aBxEWjkJ5Yf6B7SMWTFOI_JP1LGK8utBzZG9c2nk">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- FB related -->
+	<meta property="og:image" content="http://www.physio-pedia.com/images/logos/physiopedia_advert.jpg">
+
 	<meta name="generator" content="MediaWiki 1.16.0">
 <link rel="shortcut icon" href="/favicon.ico">
 <link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Physiopedia (en)">
@@ -214,6 +219,18 @@ $(document).ready(function()
 	{
 		$("#mw-htmlform-description").append('<tr id="licensing-error"><td colspan="2"><div class="errorbox"><strong>NOTE</strong> - Please select the appropriate licencing option for this file.</div></td></tr>');
 	}
+
+	/* mobile menu */
+	$("#pp_mobile_menu_btn").click(function(event){
+		event.preventDefault();
+		$("#pp_mobile_menu_wrap").slideToggle();
+	});
+
+	//remove width attributes
+	$("#mainContent table").attr("width","");
+	$("#mainContent img").attr("width","");
+	$("#mainContent img").attr("height","");
+	$("#mainContent div.thumbinner").attr("style","");
 	
 });
 </script>
@@ -331,7 +348,18 @@ $(document).ready(function()
 		</form>
 	</div>
 	<div id="header_bottom"></div>
-
+	<div id="pp_mobile_menu_btn_wrap" style="display: none;"><a href="#" id="pp_mobile_menu_btn">Menu</a></div>
+	<div id="pp_mobile_menu_wrap" style="display: none;">
+		<ul id="pp_mobile_menu">
+			<li><a href="http://www.physio-pedia.com/Search_result?q=&amp;fulltext=Search">Search</a></li>
+			<li><a href="http://www.physio-pedia.com/Articles">Articles</a></li>
+			<li><a href="http://www.physio-pedia.com/Special:Categories">Categories</a></li>
+			<li><a href="http://www.physio-pedia.com/Open_Online_Courses">Courses</a></li>
+			<li><a href="http://www.physio-pedia.com/Projects">Projects</a></li>
+			<li><a href="http://www.physiospot.com/">Physiospot</a></li>
+			<li><a href="https://members.physio-pedia.com/">Physiopedia Members</a></li>
+		</ul>
+	</div>
 	<div id="mBody">
 	
 		<div id="side">
@@ -378,7 +406,7 @@ $(document).ready(function()
 										
 										
 										<li id="n-Presentations"><a href="/Lectures_and_Presentations">Presentations</a></li>
-                                        <li id="n-Courses"><a href="/Online_Courses">Courses</a></li>
+                                        <li id="n-Courses"><a href="/Open_Online_Courses">Courses</a></li>
 										<li id="n-Projects"><a href="/Projects">Projects</a></li>
                                         <li id="n-Physiospot"><a href="http://www.physiospot.com/">Physiospot</a></li>
 										
@@ -480,19 +508,19 @@ $(document).ready(function()
 </div>-->
 
 <div class="pp_sidebar_wrap pp_members_sidebar_wrap">
-	<a href="http://bit.ly/11Os4uP" target="_blank"><img src="http://www.physio-pedia.com/skins/cavendish/physiopedia-sidebar-members.png" alt="Join Physiopedia Members for your professional development"></a>
+	<a href="http://bit.ly/11Os4uP" target="_blank" title="Join Physiopedia Members for your professional development" style="display: block; width: 164px; height: 194px; background: url(http://www.physio-pedia.com/skins/cavendish/physiopedia-sidebar-members.png) no-repeat top left"><!--<img src="http://www.physio-pedia.com/skins/cavendish/physiopedia-sidebar-members.png" alt="Join Physiopedia Members for your professional development" />--></a>
 </div>
             
 <div>&nbsp;</div>   
 
 <div class="pp_sidebar_wrap pp_physiospot_sidebar_wrap">
-	<a href="http://bit.ly/1uRxhy8" target="_blank"><img src="http://www.physio-pedia.com/skins/cavendish/physiopedia-sidebar-physiospot.png" alt="All the latest professional news"></a>
+	<a href="http://bit.ly/1uRxhy8" target="_blank" title="JAll the latest professional news" style="display: block; width: 164px; height: 194px; background: url(http://www.physio-pedia.com/skins/cavendish/physiopedia-sidebar-physiospot.png) no-repeat top left"><!--<img src="http://www.physio-pedia.com/skins/cavendish/physiopedia-sidebar-physiospot.png" alt="All the latest professional news" />--></a>
 </div>
             
 <div>&nbsp;</div>   
 
 <div class="pp_sidebar_wrap pp_mailchimp_sidebar_wrap">
-	<a href="http://eepurl.com/8IFTD" target="_blank"><img src="http://www.physio-pedia.com/skins/cavendish/physiopedia-enews-signup.png" alt="Sign up for FREE updates from Physiopedia"></a>
+	<a href="http://eepurl.com/8IFTD" target="_blank" title="Sign up for FREE updates from Physiopedia" style="display: block; width: 164px; height: 100px; background: url(http://www.physio-pedia.com/skins/cavendish/physiopedia-enews-signup.png) no-repeat top left"><!--<img src="http://www.physio-pedia.com/skins/cavendish/physiopedia-enews-signup.png" alt="Sign up for FREE updates from Physiopedia" />--></a>
 </div>       
             
 			
@@ -716,18 +744,18 @@ Template argument size: 0/2097152 bytes
 Expensive parser function count: 0/100
 -->
 
-<!-- Saved in parser cache with key physiopedia:pcache:idhash:180-0!1!0!!en!2!edit=0 and timestamp 20141204030618 -->
+<!-- Saved in parser cache with key physiopedia:pcache:idhash:180-0!1!0!!en!2!edit=0 and timestamp 20150608030902 -->
 <div class="printfooter">
 Retrieved from "<a href="http://www.physio-pedia.com/Physiopedia:Privacy_Policy">http://www.physio-pedia.com/Physiopedia:Privacy_Policy</a>"</div>
 			<div id="catlinks" class="catlinks catlinks-allhidden"></div>			<!-- end content -->
 
 
 			           
-			<div class="call_to_action call_to_action_pp_all_pages call_to_action_pp_movement">
+			<div class="call_to_action call_to_action_pp_all_pages call_to_action_pp_knee">
 				<div class="call_to_action_inner">
-					<h2>The Movement System</h2>			
+					<h2>Evidence Based Practice</h2>			
 					<div class="textwidget">
-						<p>Learn about the movement system with Shirley Sarhmann &amp; Mark Comerford in this month's members learn topic.</p>
+						<p>Learn about Evidence Based Practice in this month's members learn topic with book chapters from Practical Evidence-Based Physiotherapy 2012 &amp; Evidence-Based Practice Across the Health Professions 2013</p>
 						<p class="action_button"><a href="http://bit.ly/1lk5jHE">Become a member</a></p>
 					</div>
 				</div>
@@ -747,7 +775,7 @@ Retrieved from "<a href="http://www.physio-pedia.com/Physiopedia:Privacy_Policy"
     <!-- END: Disclaimer -->	
     
     <!-- BEGIN: Sponsors -->
-    <div class="sponsor-logos"><a href="http://bit.ly/1eaB2WG"><img src="http://www.physio-pedia.com/images/sponsors/footer/elsevier-logo-footer-narrow.png" alt="Elsevier" border="0" width="62" height="50"></a> <a href="http://www.djoglobal.com/"><img src="http://www.physio-pedia.com/images/sponsors/footer/djo-global-logo.png" alt="DJO Global" border="0" width="100" height="50"></a> <a href="http://www.webpt.com/"><img src="http://www.physio-pedia.com/images/sponsors/footer/webpt.jpg" alt="WebPT" border="0" width="100" height="50"></a> <a href="http://www.physiotools.com/"><img src="http://www.physio-pedia.com/images/sponsors/footer/physiotools-narrow.jpg" alt="PhysioTools" border="0" width="80" height="50"></a> <a href="http://www.clinicserver.com/"><img src="http://www.physio-pedia.com/images/sponsors/footer/clinicserver.jpg" alt="ClinicServer" border="0" width="100" height="50"></a> <a href="http://www.themanualtherapist.com/"><img src="http://www.physio-pedia.com/images/sponsors/footer/the-manual-therapist-narrow.jpg" alt="The Manual Therapist" border="0" width="60" height="50"></a> <a href="http://www.nottingham.ac.uk/physiotherapy/index.aspx"><img src="http://www.physio-pedia.com/images/sponsors/footer/university-of-nottingham.jpg" alt="University of Nottingham" border="0" width="100" height="50"></a> <a href="http://www.kineticcontrol.com/"><img src="http://www.physio-pedia.com/images/sponsors/footer/kinetic-control-logo.jpg" alt="Kinetic Control" border="0" width="100" height="50"></a><a href="http://insidetm2.com/"><img src="http://www.physio-pedia.com/images/sponsors/footer/TM2-logo.png" alt="TM2" border="0" width="100" height="50"></a> </div>
+    <div class="sponsor-logos"><a href="http://bit.ly/1eaB2WG"><img src="http://www.physio-pedia.com/images/sponsors/footer/elsevier-logo-footer-narrow.png" alt="Elsevier" border="0" width="62" height="50"></a> <a href="http://www.webpt.com/"><img src="http://www.physio-pedia.com/images/sponsors/footer/webpt.jpg" alt="WebPT" border="0" width="100" height="50"></a> <a href="http://www.physiotools.com/"><img src="http://www.physio-pedia.com/images/sponsors/footer/physiotools-narrow.jpg" alt="PhysioTools" border="0" width="80" height="50"></a> <a href="http://www.themanualtherapist.com/"><img src="http://www.physio-pedia.com/images/sponsors/footer/the-manual-therapist-narrow.jpg" alt="The Manual Therapist" border="0" width="60" height="50"></a> <a href="http://www.nottingham.ac.uk/physiotherapy/index.aspx"><img src="http://www.physio-pedia.com/images/sponsors/footer/university-of-nottingham.jpg" alt="University of Nottingham" border="0" width="100" height="50"></a> <a href="http://www.kineticcontrol.com/"><img src="http://www.physio-pedia.com/images/sponsors/footer/kinetic-control-logo-narrow.jpg" alt="Kinetic Control" border="0" width="90" height="50"></a><a href="http://insidetm2.com/"><img src="http://www.physio-pedia.com/images/sponsors/footer/TM2-logo.png" alt="TM2" border="0" width="100" height="50"></a><a href="http://www.connectphysiotherapy.co.uk/"><img src="http://www.physio-pedia.com/images/sponsors/footer/connect-logo.png" alt="Connect - Keep Moving" width="82" height="50"></a> </div>
     <!-- END: Sponsors -->
 	
 	<table width="100%"><tbody><tr>
@@ -758,7 +786,7 @@ Retrieved from "<a href="http://www.physio-pedia.com/Physiopedia:Privacy_Policy"
 		</td>-->
 		
 	<td align="center" valign="bottom">
-		<!--<span id="f-lastmod"> This page was last modified on 6 September 2008, at 14:14.</span>		<span id="f-viewcount">This page has been accessed 7,322 times. </span>-->
+		<!--<span id="f-lastmod"> This page was last modified on 6 September 2008, at 14:14.</span>		<span id="f-viewcount">This page has been accessed 8,594 times. </span>-->
 		<ul id="f-list">
 									<li id="f-about"><a href="/Physiopedia:About" title="Physiopedia:About">About Physiopedia</a></li>			<li id="f-disclaimer"><a href="/Physiopedia:General_disclaimer" title="Physiopedia:General disclaimer">Disclaimers</a></li>            
 			
@@ -774,11 +802,11 @@ Retrieved from "<a href="http://www.physio-pedia.com/Physiopedia:Privacy_Policy"
         
         <p style="margin-top:-10px">Physiopedia is a registered non-profit company in the UK, no. 08530802</p>
         
-        <!--<div id="f-viewcount">This page has been accessed 7,322 times.</div>-->		
+        <!--<div id="f-viewcount">This page has been accessed 8,594 times.</div>-->		
 	</div><!-- end of the FOOTER div -->
 </div><!-- end of the CONTAINER div -->
 
-<!-- Served in 12.631 secs. -->
+<!-- Served in 0.204 secs. -->
 <script>if (window.runOnloadHook) runOnloadHook();</script>
 
 <!-- pp menu -->
@@ -847,6 +875,9 @@ Retrieved from "<a href="http://www.physio-pedia.com/Physiopedia:Privacy_Policy"
 	
 	
 	
+<!-- sign up form -->
+<script type="text/javascript" charset="utf-8" src="//s3.amazonaws.com/manycontacts-bars/54c6134e88b1209827c85cca.js"></script>
+
 <!-- Start of Google Analytics Code -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
