@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendingpost.net privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217033401id_/http%3A//trendingpost.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendingpost.net privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608020159id_/http%3A//trendingpost.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Trending Post
 
@@ -45,10 +45,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-Trending Post
-
-http://TrendingPost.net
-
+Trending Post  
+http://TrendingPost.net  
 contact@TrendingPost.net
 
 _This document was last updated on August 9, 2014_
