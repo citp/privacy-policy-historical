@@ -1,15 +1,11 @@
-> *The following text is extracted and transformed from the picasion.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060920id_/http%3A//www.picasion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picasion.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608031221id_/http%3A//picasion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Picasion - Create GIF animations online - Make an Animated GIF
-
-| 
 
 **_Picasion: Animated GIF maker_**  
 Create Animated GIF online for free! [Upload](https://web.archive.org/upload-pictures/) your pictures or grab them from [Flickr](https://web.archive.org/import-flickr/) or [Picasa Web](https://web.archive.org/import-picasa/), make avatars or funny animations and post them to MySpace, Hi5, Facebook, eBay, Orkut, Bebo, Digg, QQ, Friendster, etc. No need for Flash. 
 
 Create animated avatar or MySpace avatar at Picasion (animated gif generator/tool/maker/animator)! 
-
-| 
 
 This Privacy Policy sets out the data processing practices carried out through the web by the PICASION website. If you have any requests concerning your personal information or any queries with regard to these practices please [contact us](https://web.archive.org/feedback/). 
 
@@ -42,5 +38,4 @@ We may revise our privacy policy from time to time without notice.
 _Last updated: Dec 3, 2012._
 
   
-  
----|---
+
