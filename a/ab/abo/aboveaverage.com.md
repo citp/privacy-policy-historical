@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aboveaverage.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231213510id_/http%3A//aboveaverage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboveaverage.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608115936id_/http%3A//aboveaverage.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Above Average | Above Average
+# Privacy Policy | Above Average
 
 Welcome to Aboveaverage.com, brought to you by [Above Average Productions, Inc.](http://www.aboveaverage.com/), the digital comedy network from the [Broadway Video](http://www.broadwayvideo.com/) family (makers of Saturday Night Live, The Tonight Show Starring Jimmy Fallon, Late Night with Seth Meyers, Portlandia, and 30 Rock.)
 
