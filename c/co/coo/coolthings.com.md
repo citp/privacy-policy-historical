@@ -1,23 +1,43 @@
-> *The following text is extracted and transformed from the coolthings.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120205001id_/http%3A//www.coolthings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolthings.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609004841id_/http%3A//www.coolthings.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy |
 
-At CoolThings.com, we absolutely recognize privacy is important. Here is the information on what types of personal information we receive and collect when you use or visit CoolThings.com, and how we safeguard your information. We never sell your personal information to third parties.
+At CoolThings.com (owned and operated by AdFamous LLC) we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by CoolThings.com and how we use it. We never sell your personal information to third parties. If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at privacy@coolthings.com
 
-Log Files  
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+**Log Files**  
+Like many other Web sites, CoolThings.com makes use of log files. These files merely logs visitors to the site - usually a standard procedure for hosting companies and a part of hosting services's analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-Cookies and Web Beacons  
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a page that is tailor-made according to your preferences or any features that will be implemented in our website/blog in the future.
+**Cookies and Web Beacons**  
+CoolThings.com uses cookies to store information about visitors' preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors' browser type or other information that the visitor sends via their browser.
 
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings. However, this can affect how you are able to interact with our site as well as other websites.
+**DoubleClick DART Cookie**  
+→ Google, as a third party vendor, uses cookies to serve ads on CoolThings.com.  
+→ Google's use of the DART cookie enables it to serve ads to our site's visitors based upon their visit to CoolThings.com and other sites on the Internet.  
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
 
-We also use third-party advertising companies to serve ads when you visit our website. These companies (e.g Google through the Google AdSense program) may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+**Our Advertising Partners**  
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......  
+Google  
+Commission Junction  
+Amazon  
+Linkshare  
+Yahoo! Publisher Network  
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on CoolThings.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site's third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.  
+CoolThings.com has no access to or control over these cookies that are used by third-party advertisers.
 
-The followings are the more specific information about Google’s cookie, which may be served by the Google AdSense advertisement on our website, and information on how you can have choices to opt out.
+**Third Party Privacy Policies**  
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. CoolThings.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: Privacy Policy Links.  
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-\- Google, as a third party vendor, uses cookies to serve ads on your site.
+**Children's Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. CoolThings.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that CoolThings.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
 
-\- Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and -other sites on the Internet.
+**Online Privacy Policy Only**  
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
 
-\- Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
+**Consent**  
+By using our website, you hereby consent to our privacy policy and agree to its terms.
+
+**Update**  
+This Privacy Policy was last updated on: Friday, December 19th, 2014.  
+Should we update, amend or make any changes to our privacy policy, those changes will be posted here.
