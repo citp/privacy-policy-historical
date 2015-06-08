@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthebd24.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217123242id_/http%3A//healthebd24.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthebd24.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608095431id_/http%3A//healthebd24.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Page of healthebd24.com | HealthEbd 24
 
@@ -123,8 +123,3 @@ Bangladesh
 shohan201092@gmail.com
 
 8801675418893
-
-### You have come here for
-
-visit health ebd24 com contuct us;
-
