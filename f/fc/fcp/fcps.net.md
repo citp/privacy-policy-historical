@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fcps.net privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218022706id_/http%3A//www.fcps.net/about-fcps/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcps.net privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608235424id_/http%3A//www.fcps.net/about-fcps/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -40,6 +40,6 @@ If you feel that this website is not following its stated information policy, yo
 
   * For questions: **[Pete Koutoulas](http://www.fcps.net/administration/staff-directory/k/koutoulas-pete)**
   * To report a broken link or other website issues: [Tammy Lane](https://web.archive.org/administration/staff-directory/l/lane-tammy)
-  * Updated: **November 6, 2014**
+  * Updated: **May 22, 2015**
 
 
