@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the play.vg privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124000245id_/http%3A//www.play.vg/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the play.vg privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608125017id_/http%3A//www.play.vg/privacy.php) for the most accurate reproduction.*
 
 # play.vg Privacy Policy
 
@@ -8,7 +8,7 @@
 
 play.vg Privacy Policy
 
-Special note to game authors: If your game is being used on this site and you want it removed please [contact me](https://web.archive.org/web/20141124000245id_/http%3A//www.play.vg/contact.php) and it will be removed immediately! I apologise for any inconvenience this may have caused you.
+Special note to game authors: If your game is being used on this site and you want it removed please [contact me](https://web.archive.org/web/20150608125017id_/http%3A//www.play.vg/contact.php) and it will be removed immediately! I apologise for any inconvenience this may have caused you.
 
 Visitors: Your privacy is important to us. That is why no personal information is collected about you by vgstores.com. No information about specific visitors is ever tracked or stored. However, general, non-personal data (such as the type of web browser you are using for example) may be logged for aggregate statistics data. This information is used to ensure that the site is compatible with the majority of visitors.
 
@@ -25,7 +25,7 @@ Play.vg Partner Sites
 [Arcade Town](http://www.arcadetown.com/index.asp?aid=697136) | [The Free Site](http://www.thefreesite.com/) | [Arcade Nut](http://www.arcadenut.com/) | [Game Sloth](http://www.gamesloth.com/)  
 [Freebie List](http://www.freebielist.com/) | [Triple Play Games](http://www.tripleplaygames.com/) | [MoFunZone](http://www.mofunzone.com/) | [Half-Time Games](http://www.halftimegames.com/)  
 [Insane Games](http://www.insane-games.com/) | [Tornado Games](http://www.tornadogames.com/) | [DOS Games](http://www.dosgames.com/) | [Why Faith? Blog](http://www.whyfaith.com/)  
-[Windows Games](http://www.play.vg/windowsgames/) | [Your site?](http://www.play.vg/link_to_us.php) | [Your site?](http://www.play.vg/link_to_us.php) | _!!![More links](http://www.play.vg/links.php) !!!_  
+[Windows Games](http://www.play.vg/windowsgames/) | [Truck Games](http://www.crazygames.com/t/monster-truck) | [Your site?](http://www.play.vg/link_to_us.php) | _!!![More links](http://www.play.vg/links.php) !!!_  
   
 [Home](http://www.play.vg/)  |  [About](http://www.play.vg/about.php)  |  [Links](http://www.play.vg/links.php)  |  [Link to us](http://www.play.vg/link_to_us.php)  |  [Shop](http://www.play.vg/classic_games.php)  |  [RSS Feed:](http://www.play.vg/rss.xml)  
 
