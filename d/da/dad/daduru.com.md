@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daduru.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018232207id_/http%3A//www.daduru.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daduru.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608075046id_/http%3A//www.daduru.com/privacy.php) for the most accurate reproduction.*
 
 # Daduru.com | A leading web directory since 2007
 
