@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the iheartpublix.com privacy policy that was archived on 2014-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140909014342id_/http%3A//www.iheartpublix.com/index.php/2010/05/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iheartpublix.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608100658id_/http%3A//www.iheartpublix.com/index.php/2010/05/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : I Heart Publix
-
-May 11, 2010 
+# Privacy Policy
 
 **Privacy Policy applies for all sites under the company The I Heart Sites Group, LLC:**
 
@@ -72,5 +70,3 @@ If we decide to change our privacy policy, we will update the Privacy Policy mod
 This policy was last modified on 6/11/13
 
 http://www.iheartpublix.com/
-
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.iheartpublix.com%2Findex.php%2F2010%2F05%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
