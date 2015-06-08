@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pedigree.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207112554id_/http%3A//www.mars.com/global/policies/privacy/pp_english.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pedigree.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608175103id_/http%3A//www.mars.com/global/policies/privacy/pp_english.asp) for the most accurate reproduction.*
 
 # Mars Privacy Policy | Mars
 
@@ -189,13 +189,13 @@ Back to the Top
 
  **How can you contact us?**
 
-To contact us, [privacy@mars.com](mailto:privacy@mars.com)  
+To contact us, [privacy@effem.com](mailto:privacy@effem.com)  
 Our Mailing Address is: Global Privacy Team, Dundee Road, Slough, Berkshire  
 SL1 4LG. 
 
 Back to Top
 
-We are committed to working with you to resolve any complaints you may have regarding this Privacy Statement or the treatment of your personal information. If you have a concern, please contact [privacy@mars.com](mailto:privacy@mars.com) and your communication will be promptly addressed. 
+We are committed to working with you to resolve any complaints you may have regarding this Privacy Statement or the treatment of your personal information. If you have a concern, please contact [privacy@effem.com](mailto:privacy@effem.com) and your communication will be promptly addressed. 
 
 We comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit <http://www.export.gov/safeharbor/>
 
@@ -203,7 +203,7 @@ If you are a resident of the EEA or Switzerland and you feel that we have not re
 
 **What are your California Privacy Rights?**
 
-California law permits residents of California to opt-out of Mars’ disclosure of personal information to third parties for their direct marketing purposes. You may choose to opt-out of the sharing of your personal information with third parties for marketing purposes at any time by submitting a request in writing to our contact address above or by e-mailing us at [privacy@mars.com](mailto:privacy@mars.com). Please note that this opt-out does not prohibit disclosure made for non-marketing purposes. California law also permits residents of California to request and obtain from us once per year, free of charge, a list of the third parties (if any) to whom we have disclosed personal information for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an e-mail to: [privacy@mars.com](mailto:privacy@mars.com) or by writing to our contact address above. Requests via telephone or facsimile will not be accepted. The e-mail subject line or mailing envelope and the content of your request must include the phrase “Your California Privacy Rights,” and include your name, e-mail address (if you wish to receive a response via e-mail) or street address, city, state, zip code (if you wish to receive a response via postal mail). 
+California law permits residents of California to opt-out of Mars’ disclosure of personal information to third parties for their direct marketing purposes. You may choose to opt-out of the sharing of your personal information with third parties for marketing purposes at any time by submitting a request in writing to our contact address above or by e-mailing us at [privacy@effem.com](mailto:privacy@effem.com). Please note that this opt-out does not prohibit disclosure made for non-marketing purposes. California law also permits residents of California to request and obtain from us once per year, free of charge, a list of the third parties (if any) to whom we have disclosed personal information for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an e-mail to: [privacy@effem.com](mailto:privacy@effem.com) or by writing to our contact address above. Requests via telephone or facsimile will not be accepted. The e-mail subject line or mailing envelope and the content of your request must include the phrase “Your California Privacy Rights,” and include your name, e-mail address (if you wish to receive a response via e-mail) or street address, city, state, zip code (if you wish to receive a response via postal mail). 
 
 Last Updated: March, 2014
 
