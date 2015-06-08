@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coupondipity.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218095327id_/http%3A//coupondipity.com/contact/privacy-policy-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupondipity.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609001901id_/http%3A//coupondipity.com/contact/privacy-policy-disclosure) for the most accurate reproduction.*
 
 # Privacy Policy & Disclosure
 
