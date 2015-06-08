@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tooft.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127120213id_/http%3A//www.tooft.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tooft.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608022359id_/http%3A//www.tooft.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Photo Collection - Graphics Arts, Amazing Designs and more
 
@@ -19,4 +19,4 @@ We do not request any personal information or collect any information that perso
 This site contains links to other sites. Tooft.com is not responsible for the privacy practices or the content of such Web sites.
 
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact ](http://www.tooft.com/contact/ "contact ")us.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact](http://www.tooft.com/contact/) us.
