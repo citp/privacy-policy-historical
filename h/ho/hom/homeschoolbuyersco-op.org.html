@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the homeschoolbuyersco-op.org privacy policy that was archived on 2014-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141224061040id_/http%3A//www.homeschoolbuyersco-op.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the homeschoolbuyersco-op.org privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608200118id_/http%3A//www.homeschoolbuyersco-op.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy of the Homeschool Buyers Co-op - Homeschool Buyers Co-op</title>
@@ -10,15 +10,67 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 	<link href="http://s3.amazonaws.com/hsbc_image/templates/hsbc/images/favicon.jpg" rel="shortcut icon" type="image/x-icon">
 	<link rel="P3Pv1" href="/w3c/p3p.xml">
-	<link href="http://s3.amazonaws.com/hsbc_image/templates/hsbc_new/css/styles.s3.1.4.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://cdn.ywxi.net/js/1.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/platform.js"></script><script src="//shopsocially.com/js/all.js" type="text/javascript" async=""></script><script src="http://s3.amazonaws.com/hsbc_image/templates/hsbc/hsbc.js" type="text/javascript"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js" type="text/javascript"></script>
-<script type="text/javascript" src="/templates/hsbc_new/js/member.min.1.1.js"></script>
+	<link href="http://s3.amazonaws.com/hsbc_image/templates/hsbc_new/css/styles.s3.1.5.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/platform.js"></script><script src="//shopsocially.com/js/all.js" type="text/javascript" async=""></script><script src="http://s3.amazonaws.com/hsbc_image/templates/hsbc/hsbc.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 
+<link href="http://s3.amazonaws.com/hsbc_image/templates/hsbc_new/css/responsive_menu.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://s3.amazonaws.com/hsbc_image/templates/hsbc_new/js/member.1.1.js"></script>
+<script type="text/javascript" src="http://s3.amazonaws.com/hsbc_image/templates/hsbc_new/js/member.mobile.js"></script>
 
 <script type="text/javascript">
-	var _gaq = _gaq || [];
-	_gaq.push(['_setAccount', 'UA-291883-1']);
+$(document).ready(function() {
+	$('a.join-link').click(function (e) {
+		if ($( ".level-1" ).is( ":visible" )) {
+  			$('.level-1').toggle();
+		}
+		if (signUpMobile.init()) {
+			signUpMobile.loadContent();
+		}
+	});
+	$('a.sign-in-link').click(function (e) {
+		if ($( ".level-1" ).is( ":visible" )) {
+  			$('.level-1').toggle();
+		}
+		if (signUpMobile.initSignIn()) {
+			signUpMobile.loadContentSignIn();
+		}
+	});
+	$('.menu-link').click(function(e) {
+		if (!$( ".level-1" ).is( ":visible" )) {
+  			$('.level-1').show();
+		}
+	});
+	$('body').addClass('js');
+	var $menu = $('#menu'),
+	  	$menulink = $('.menu-link'),
+	  	$menuTrigger = $('.has-subnav > a');
+	  	
+	$menulink.click(function(e) {
+		e.preventDefault();
+		$menulink.toggleClass('active');
+		$menu.toggleClass('active');
+	});
+	$menuTrigger.click(function(e) {
+		e.preventDefault();
+		var $this = $(this);
+		$this.toggleClass('active').next('ul').toggleClass('active');
+	});
+	$('.menu-trigger').click(function (e) {
+		if ($('nav#nav-tabs', this).is(':visible')) {
+		} else {
+		}
+		$(this).next('nav#nav-tabs').toggle();
+	});
+});
+	
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link rel="stylesheet" href="http://s3.amazonaws.com/hsbc_image/templates/hsbc_new/css/responsive.css" media="screen and (max-width: 1010px)">
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-291883-1']);
 </script>
 <script type="text/javascript">
     SSConfig = {
@@ -32,19 +84,18 @@
          var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ss, s);
     })();
 
-
 </script>
-	<script type="text/javascript" async="" id="AddShoppers" src="https://shop.pe/widget/widget_async.js#53bec64da38764631640c12a"></script></head>
+	</head>
 	<body>
 		<div class="containerPageLeft">
 			<div class="containerPageRight">
 				<div class="containerPageCenter">
 					<!-- HEADER -->
-					<div>
+					<div class="containerHeader">
 						<a href="/">
 							<div class="logo floatLeft">
 								<div class="logoText">
-									130,657 families helping each other!
+									144,190 families helping each other!
 								</div>
 							</div>
 						</a>
@@ -68,81 +119,93 @@
 			<input type="hidden" name="siteurl" value="www.homeschoolbuyersco-op.org/">
 			<input type="hidden" name="ref">
 			<input type="hidden" name="ss">
-			<input class="floatRight" type="image" src="/templates/hsbc_new/images/button-search.png" width="82" height="24" value="Search" name="sa">
+			<input class="floatRight" type="image" src="http://s3.amazonaws.com/hsbc_image/templates/hsbc_new/images/button-search.png" width="82" height="24" value="Search" name="sa">
 			<input class="inputSearchField floatRight" type="text" size="10" name="q">
 		</form>
 	</div>
 						<div class="clearBoth"></div>
-					 	<div class="containerTopNavLinks floatLeft">
-							<ul>
-								<li><a class="navTopLinksWhite" href="/">Home</a></li>
-		   						<li><a class="navTopLinksWhite" href="/news/">What's New</a></li>
-		   						<li><a class="navTopLinksWhite" href="/testimonials/">Testimonials</a></li>
-	   							<li><a class="navTopLinksWhite" href="/homeschool-curriculum/">About Us</a></li>
-	   							<li><a class="navTopLinksWhite" href="/contact-us/">Contact Us</a></li>
-								<li><a class="navTopLinksYellow" href="/home-school-curriculum/">GroupBuys</a>
-<div class="subMenu">
-<a href="/home-school-curriculum/">INDEX - <b>ALL</b></a>
-<a href="/groupbuy-calendar/">GroupBuy Calendar</a>
-<a href="/discount-homeschool-curriculums/"><i>NEW!</i>&nbsp;&nbsp;&nbsp;</a>
-<a href="/featured-group-buys/"><i>December Specials</i></a>
-<a href="/homeschool-last-call-curriculum/"><i>LAST CALL!</i>&nbsp;&nbsp;&nbsp;</a>
-<a href="/homeschool-multi-subject-curriculum/">All-In-One / Multi</a>
-<a href="/homeschool-art-music-curriculum/">Art &amp; Music</a>
-<a href="/early-learning/">Early Learning</a>
-<a href="/homeschool-electives-curriculum/">Electives</a>
-<a href="/homeschool-foreign-languages-curriculum/">Foreign Languages</a>
-<a href="/homeschool-history-geography-curriculum/">History &amp; Geography</a>
-<a href="/homeschool-language-arts-curriculum/">Language Arts&nbsp;&nbsp;</a>
-<a href="/homeschool-math-curriculum/">Math&nbsp;&nbsp;&nbsp;</a>
-<a href="/homeschool-science-health-curriculum/">Science &amp; Technology</a>
-<a href="/homeschool-special-needs-curriculum/">Special Needs</a>
-<a href="/homeschool-social-science-curriculum/">Social Studies</a>
-<a href="/home-school-curriculum-resources/">Teaching Resources&nbsp;</a>
-<a href="/homeschool-test-assessment-curriculum/">Test Prep/Assessment</a>
-<a href="/homeschool-thinking-skills-curriculum/">Thinking &amp; Other Skills&nbsp;&nbsp;&nbsp;</a>
-<a href="/homeschool-freebies-curriculum/"><i>FREEBIES!</i>&nbsp;&nbsp;&nbsp;</a>
-</div></li>
-<li><a class="navTopLinksYellow" href="/deals-of-the-week/">Deals of the Week</a>
-<div class="subMenu">
-<a href="/deals-of-the-week/?a=cicero-history">CICERO History</a>
-<a href="/deals-of-the-week/?a=the-classical-historian">The Classical Historian</a>
-<a href="/deals-of-the-week/?a=mystery-of-history">Mystery of History</a>
-<a href="/deals-of-the-week/?a=the-american-heritage-series">The American Heritage Series</a>
-</div></li>
-<li><a class="navTopLinksYellow" href="/smartpoints-get-them/">SmartPoints</a>
-<div class="subMenu">
-<a href="/smartpoints-get-them/">Get 'em!</a>
-<a href="/smartpoints-spend-them/">Spend 'em!</a>
-<a href="http://www.homeschoolbuyersco-op.org/shopping-mall/">SmartPoints Shopping Mall</a>
-<a href="/smartpoints-claim-form/">Shopping Mall Claim Form</a>
-<a href="http://www.homeschoolbuyersco-op.org/smartpoints-vendor-hall/">SmartPoints Vendor Hall</a>
-</div></li>
-<li><a class="navTopLinksYellow" href="/">Free Resources</a>
-<div class="subMenu">
-<a href="/contests-amp-scholarships/">Contests &amp; Scholarships</a>
-<a href="/field-trips/">Field Trips</a>
-<a href="/homeschool-classifieds/">Free Homeschool Classifieds</a>
-<a href="/homeschool-id/">Free Homeschool ID</a>
-<a href="/free-curriculum/">Free Homeschool Curriculum</a>
-<a href="/webinars/">Free Webinars</a>
-<a href="/homeschool-conferences/">Homeschool Conferences</a>
-<a href="/learning-styles-overview/">Learning Styles Overview</a>
-<a href="/homeschool-money-tips/">Money Tips</a>
-<a href="/reading-champions/">Reading Champions</a>
-<a href="/writing-tips/">Writing Tips</a>
-<a href="/faq-index/">FAQ Index</a>
-</div></li>
-							</ul>
-			   			</div>
-				   	</div>
-					<div class="containerSocialMedia floatLeft">
-				   		<a href="http://www.facebook.com/homeschoolbuyers"><img src="http://s3.amazonaws.com/hsbc_image/templates/hsbc_new/images/icon-facebook.png" border="0" width="23" height="24"></a>
-						<a href="http://www.youtube.com/homeschoolbuyers"><img src="http://s3.amazonaws.com/hsbc_image/templates/hsbc_new/images/icon-youtube.png" border="0" width="23" height="24"></a>	
-						<a href="https://twitter.com/hsbuyerscoop/"><img src="http://s3.amazonaws.com/hsbc_image/templates/hsbc_new/images/icon-twitter.png" border="0" height="24"></a>	
-						<div class="g-plusone" data-annotation="none"></div>
-				   	</div>
+					  	<div class="pattern">
+					    <!--Begin Pattern HTML-->
+							<a href="#menu" class="menu-link"><img src="http://s3.amazonaws.com/hsbc_image/templates/hsbc_new/images/browse.png" height="30" border="0"></a>
+															<a href="#" class="join-link" border="0"><img src="http://s3.amazonaws.com/hsbc_image/templates/hsbc_new/images/join-now.png" border="0" height="30"></a>
+								<a href="#" class="sign-in-link" border="0"><img src="http://s3.amazonaws.com/hsbc_image/templates/hsbc_new/images/sign-in.png" border="0" height="30"></a>
+														<nav id="menu" class="menu" role="navigation">
+								<ul class="level-1">
+									<li><a href="/">Home</a></li>
+			   						<li><a href="/news/">What's New</a></li>
+			   						<li><a href="/testimonials/">Testimonials</a></li>
+		   							<li><a href="/homeschool-curriculum/">About Us</a></li>
+		   							<li><a href="/contact-us/">Contact Us</a></li>
+									<li class="has-subnav">
+<a href="/home-school-curriculum/">GroupBuys</a>
+<ul class="level-2">
+<li><a href="/home-school-curriculum/">INDEX - <b>ALL</b></a></li>
+<li><a href="/groupbuy-calendar/">GroupBuy Calendar</a></li>
+<li><a href="/discount-homeschool-curriculums/"><i>NEW!</i>&nbsp;&nbsp;&nbsp;</a></li>
+<li><a href="/featured-group-buys/"><i>June Specials</i></a></li>
+<li><a href="/homeschool-last-call-curriculum/"><i>LAST CALL!</i>&nbsp;&nbsp;&nbsp;</a></li>
+<li><a href="/homeschool-multi-subject-curriculum/">All-In-One / Multi</a></li>
+<li><a href="/homeschool-art-music-curriculum/">Art &amp; Music</a></li>
+<li><a href="/cathy-duffys-top-picks/">Cathy Duffy Top Picks</a></li>
+<li><a href="/early-learning/">Early Learning</a></li>
+<li><a href="/homeschool-electives-curriculum/">Electives</a></li>
+<li><a href="/homeschool-foreign-languages-curriculum/">Foreign Languages</a></li>
+<li><a href="/homeschool-history-geography-curriculum/">History &amp; Geography</a></li>
+<li><a href="/homeschool-language-arts-curriculum/">Language Arts&nbsp;&nbsp;</a></li>
+<li><a href="/homeschool-math-curriculum/">Math&nbsp;&nbsp;&nbsp;</a></li>
+<li><a href="/homeschool-science-health-curriculum/">Science &amp; Technology</a></li>
+<li><a href="/homeschool-special-needs-curriculum/">Special Needs</a></li>
+<li><a href="/homeschool-social-science-curriculum/">Social Studies</a></li>
+<li><a href="/home-school-curriculum-resources/">Teaching Resources&nbsp;</a></li>
+<li><a href="/homeschool-test-assessment-curriculum/">Test Prep/Assessment</a></li>
+<li><a href="/homeschool-thinking-skills-curriculum/">Thinking &amp; Other Skills&nbsp;&nbsp;&nbsp;</a></li>
+<li><a href="/homeschool-freebies-curriculum/"><i>FREEBIES!</i>&nbsp;&nbsp;&nbsp;</a></li>
+<li><a href="/free/">FREE for the Summer</a></li>
+</ul></li>
+<li class="has-subnav">
+<a href="/deals-of-the-week/">Deals of the Week</a>
+<ul class="level-2">
+<a href="/deals-of-the-week/?a=ocean-classrooms">Ocean Classrooms</a>
+<a href="/deals-of-the-week/?a=creativity-express">Creativity Express</a>
+<a href="/deals-of-the-week/?a=kaplan-sat/act">Kaplan SAT/ACT</a>
+<a href="/deals-of-the-week/?a=the-happy-scientist">The Happy Scientist</a>
+</ul></li>
+<li class="has-subnav">
+<a href="/smartpoints-get-them/">SmartPoints</a>
+<ul class="level-2">
+<li><a href="/smartpoints-get-them/">Get 'em!</a></li>
+<li><a href="/smartpoints-spend-them/">Spend 'em!</a></li>
+<li><a href="http://www.homeschoolbuyersco-op.org/shopping-mall/">SmartPoints Shopping Mall</a></li>
+<li><a href="/smartpoints-claim-form/">Shopping Mall Claim Form</a></li>
+<li><a href="http://www.homeschoolbuyersco-op.org/smartpoints-vendor-hall/">SmartPoints Vendor Hall</a></li>
+</ul></li>
+<li class="has-subnav">
+<a href="/">Free Resources</a>
+<ul class="level-2">
+<li><a href="/contests-amp-scholarships/">Contests &amp; Scholarships</a></li>
+<li><a href="/field-trips/">Field Trips</a></li>
+<li><a href="/homeschool-classifieds/">Free Homeschool Classifieds</a></li>
+<li><a href="/homeschool-id/">Free Homeschool ID</a></li>
+<li><a href="/free-curriculum/">Free Homeschool Curriculum</a></li>
+<li><a href="/webinars/">Free Webinars</a></li>
+<li><a href="/homeschool-conferences/">Homeschool Conferences</a></li>
+<li><a href="/learning-styles-overview/">Learning Styles Overview</a></li>
+<li><a href="/homeschool-money-tips/">Money Tips</a></li>
+<li><a href="/reading-champions/">Reading Champions</a></li>
+<li><a href="/writing-tips/">Writing Tips</a></li>
+<li><a href="/faq-index/">FAQ Index</a></li>
+</ul></li>
+								</ul>
+							</nav>
+						</div>
+						<div class="containerSocialMedia floatLeft">
+					   		<a href="http://www.facebook.com/homeschoolbuyers"><img src="http://s3.amazonaws.com/hsbc_image/templates/hsbc_new/images/icon-facebook.png" border="0" width="23" height="24"></a>
+							<a href="http://www.youtube.com/homeschoolbuyers"><img src="http://s3.amazonaws.com/hsbc_image/templates/hsbc_new/images/icon-youtube.png" border="0" width="23" height="24"></a>	
+							<a href="https://twitter.com/hsbuyerscoop/"><img src="http://s3.amazonaws.com/hsbc_image/templates/hsbc_new/images/icon-twitter.png" border="0" height="24"></a>	
+							<div class="g-plusone" data-annotation="none"></div>
+					   	</div>
 					<div class="clearBoth"></div>
+				   	</div>
 					<div class="visibilityHidden height1"></div>					
 					<div id="columnLeft" class="floatLeft">
         				<div class="tablet width170"><div class="containerLeftNav"><div class="containerLeftNavTitle">
@@ -150,10 +213,11 @@
 <a class="leftNavLink" href="/home-school-curriculum/">INDEX - <b>ALL</b></a>
 <a class="leftNavLink" href="/groupbuy-calendar/">GroupBuy Calendar</a>
 <a class="leftNavLink" href="/discount-homeschool-curriculums/"><i>NEW!</i>&nbsp;&nbsp;&nbsp;</a>
-<a class="leftNavLink" href="/featured-group-buys/"><i>December Specials</i></a>
+<a class="leftNavLink" href="/featured-group-buys/"><i>June Specials</i></a>
 <a class="leftNavLink" href="/homeschool-last-call-curriculum/"><i>LAST CALL!</i>&nbsp;&nbsp;&nbsp;</a>
 <a class="leftNavLink" href="/homeschool-multi-subject-curriculum/">All-In-One / Multi</a>
 <a class="leftNavLink" href="/homeschool-art-music-curriculum/">Art &amp; Music</a>
+<a class="leftNavLink" href="/cathy-duffys-top-picks/">Cathy Duffy Top Picks</a>
 <a class="leftNavLink" href="/early-learning/">Early Learning</a>
 <a class="leftNavLink" href="/homeschool-electives-curriculum/">Electives</a>
 <a class="leftNavLink" href="/homeschool-foreign-languages-curriculum/">Foreign Languages</a>
@@ -167,12 +231,13 @@
 <a class="leftNavLink" href="/homeschool-test-assessment-curriculum/">Test Prep/Assessment</a>
 <a class="leftNavLink" href="/homeschool-thinking-skills-curriculum/">Thinking &amp; Other Skills&nbsp;&nbsp;&nbsp;</a>
 <a class="leftNavLink" href="/homeschool-freebies-curriculum/"><i>FREEBIES!</i>&nbsp;&nbsp;&nbsp;</a>
+<a class="leftNavLink" href="/free/">FREE for the Summer</a>
 </div></div><div class="tablet width170"><div class="containerLeftNav"><div class="containerLeftNavTitle">
 <a style="text-decoration: none;color:rgb(187, 47, 94);" href="/deals-of-the-week/"><center>Deals of the Week</center></a></div>
-<a class="leftNavLink" href="/deals-of-the-week/?a=the-american-heritage-series">The American Heritage Series</a>
-<a class="leftNavLink" href="/deals-of-the-week/?a=mystery-of-history">Mystery of History</a>
-<a class="leftNavLink" href="/deals-of-the-week/?a=cicero-history">CICERO History</a>
-<a class="leftNavLink" href="/deals-of-the-week/?a=the-classical-historian">The Classical Historian</a>
+<a class="leftNavLink" href="/deals-of-the-week/?a=kaplan-sat/act">Kaplan SAT/ACT</a>
+<a class="leftNavLink" href="/deals-of-the-week/?a=ocean-classrooms">Ocean Classrooms</a>
+<a class="leftNavLink" href="/deals-of-the-week/?a=the-happy-scientist">The Happy Scientist</a>
+<a class="leftNavLink" href="/deals-of-the-week/?a=creativity-express">Creativity Express</a>
 </div></div><div class="tablet width170"><div class="containerLeftNav"><div class="containerLeftNavTitle">
 <center>SmartPoints</center></div>
 <a class="leftNavLink" href="/smartpoints-get-them/">Get 'em!</a>
@@ -197,9 +262,11 @@
 </div></div>						
 					</div>
 					<div id="columnCenter" class="floatLeft">   
-					   	<div class="tablet width616">
-							<div class="interiorMainContent width550">
-								<div style="padding-top:10px;font-family:Verdana,Helvetica,Arial;font-weight:bold;color:rgb(204,51,102);font-size:22px;padding-bottom:6px;"></div><table border="0" cellpadding="0" cellspacing="0" style="border-bottom:3px solid rgb(25,122,181)"><tbody><tr><td id="hsbc_product_tab" style="width:90px"><a href="/homeschool-curriculum/">About</a></td><td id="hsbc_product_tab" style="width:90px"><a href="/facebook/">Connect</a></td><td id="hsbc_product_tab" style="width:100px"><a href="/testimonials/">Testimonials</a></td><td id="hsbc_product_tab" style="width:130px"><a href="/terms-of-use/">Terms of Service</a></td><td id="hsbc_product_tab" style="width:110px"><a class="selected" href="/privacy-policy/">Privacy Policy</a></td></tr></tbody></table><p>        </p><table cellpadding="0" cellspacing="0" class="intro">
+					   	<div class="tablet tabletWidth">
+							<div class="interiorMainContent interiorWidth signUpMobile" id="sign-up-mobile"></div>
+							<div class="interiorMainContent interiorWidth signInMobile" id="sign-in-mobile"></div>
+							<div class="interiorMainContent interiorWidth">
+								<div class="nav-product"></div><span class="menu-trigger">Privacy Policy ▼</span><nav id="nav-tabs"><ul><li><a href="/homeschool-curriculum/">About</a></li><li><a href="/facebook/">Connect</a></li><li><a href="/testimonials/">Testimonials</a></li><li><a href="/terms-of-use/">Terms of Service</a></li><li class="selected"><a href="/privacy-policy/">Privacy Policy</a></li></ul></nav><p class="clearBoth">        </p><table cellpadding="0" cellspacing="0" class="intro">
                     <tbody><tr><td class="header" valign="top"><h1>Privacy Policy</h1></td></tr>
             <tr><td valign="top">&nbsp;</td></tr>
                 <tr><td class="content" valign="top"> Last Updated:  June 26, 2013<p>The Homeschool Buyers Co-op (the "Co-op") will not sell, rent, or otherwise make your personal information available to other people or organizations without your permission, except as may be required by law, and except in conjunction with the sale or transfer of the Co-op and its assets to another business.  In the event that the Co-op or substantially all of its assets are acquired, member information will be transferred.<br>
@@ -274,7 +341,7 @@ google_ad_type = "text"; google_color_border = "FFFFFF"; google_color_bg = "FFFF
 		</div>
 <style type="text/css">
 <!--
-table.intro {width: 590px;}
+table.intro {width: 100%;}
 table.intro h1{margin:0px;padding:0px;font-size:22px;}
 table.intro td.header{font-weight:bold;color:rgb(204,51,102);font-family:Verdana, Helvetica, Arial;text-align:Left;font-size:22px;}
 table.intro td.content{color:rgb(51,51,51);font-family:Verdana, Helvetica, Arial;text-align:Left;font-size:12px;}
@@ -304,18 +371,7 @@ _qoptions={qacct:"p-93YbyywXVc18g"};
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-<script type="text/javascript">
-  (function() {
-    var sa = document.createElement('script'); sa.type = 'text/javascript'; sa.async = true;
-    sa.src = ('https:' == document.location.protocol ? 'https://cdn' : 'http://cdn') + '.ywxi.net/js/1.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sa, s);
-  })();
-</script>
-<script type="text/javascript">
-	var js = document.createElement('script'); js.type = 'text/javascript'; js.async = true; js.id = 'AddShoppers';
-	js.src = ('https:' == document.location.protocol ? 'https://shop.pe/widget/' : 'http://cdn.shop.pe/widget/') + 'widget_async.js#53bec64da38764631640c12a';
-	document.getElementsByTagName("head")[0].appendChild(js);
-</script>
-<div style="margin-left:150px;"><span style="color:white">0.1624 HSBC 137</span></div>	
+
+<div style="margin-left:25%;"><span style="color:white">0.1658 HSBC 137</span></div>	
 
 </body></html>
