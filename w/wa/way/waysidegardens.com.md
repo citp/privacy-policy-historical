@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waysidegardens.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111053826id_/http%3A//www.waysidegardens.com/privacy-statement/a/322) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waysidegardens.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608061813id_/http%3A//www.waysidegardens.com/privacy-statement/a/322) for the most accurate reproduction.*
 
 # Privacy Policy | Wayside Gardens
 
@@ -60,8 +60,6 @@ You can always choose not to provide information, to opt-out of receiving commun
 We work hard to protect the security of your information by using Secure Socket Layer (SSL) technology, the current standard for secure transactions over the Internet. There are some simple measures that you can take to promote protection of your information. First, to help protect the security of your account, do not share your password with others. Also, remember to "log-off" after using any of our on-line services when you have finished using the website. While Wayside Gardens strives to protect your information by using SSL and through measures to protect our system, such security cannot be ensured. Consequently, Wayside Gardens does not ensure or warrant the security of information you transmit, and you do so at your own risk. 
 
 ## 
-
-Encryption
 
 **What is Encryption?**
 
