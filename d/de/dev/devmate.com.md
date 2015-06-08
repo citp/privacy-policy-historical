@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the devmate.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211021620id_/http%3A//devmate.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devmate.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608170404id_/http%3A//devmate.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy | DevMate
-
-DevMate is founded on the principle of helping people focus on app development, not on tools to manage them. We know that you care about how your information is used and shared, so we take your privacy very seriously. By using the DevMate service you accept terms of use and privacy policy provided below.
 
 This Privacy Policy ("Policy") is adopted by DevMate, Inc. ("we", or "us") and provides you with the information about what type of information is gathered by www.devmate.com ("Site") and how we collect, use, protect, share, and disclose such information.
 
