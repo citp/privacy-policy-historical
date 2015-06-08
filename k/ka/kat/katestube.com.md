@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the katestube.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030122416id_/http%3A//www.katestube.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the katestube.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608183805id_/http%3A//www.katestube.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Free Teen Porn | Teen Tube | XXX Teen Movies
 
