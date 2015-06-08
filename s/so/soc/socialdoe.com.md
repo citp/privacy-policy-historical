@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the socialdoe.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715134208id_/https%3A//socialdoe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialdoe.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608132655id_/https%3A//socialdoe.com/privacy-policy) for the most accurate reproduction.*
 
-# Create an Online Microblog Website - Socialdoe
+# Privacy policy - Online Portfolio for Creative Professionals | Socialdoe.com
 
-Socialdoe is founded on the principle of giving the best blogging platform. We know that you care about how your personal information is used and shared, and we take your privacy very seriously. By visiting the Socialdoe website, you are accepting the practices outlined in this policy.
+Socialdoe is founded on the principle of giving the best portfolio platform. We know that you care about how your personal information is used and shared, and we take your privacy very seriously. By visiting the Socialdoe website, you are accepting the practices outlined in this policy.
 
 Your privacy is our top concern, thus we adhere to the following principles to protect your privacy: 
 
@@ -148,7 +148,7 @@ The Provider may retain your personal data and account information as long as th
 
 Statement
 
-In accordance with the Polish Act of 29 August 1997 on the protection of personal data (consolidated text: Journal of Laws of 2002 No 101, item 926 as amended), the data controller of your personal data is the Provider, that is Red Sky Sp. z o.o., a company duly incorporated under the laws of Poland, with its registered office in Szczecin, at Aleja Piastów 22, Szczecin, 71-064, Poland, entered into the register of entrepreneurs of the National Court Register maintained by the District Court Szczecin-Centrum in Szczecin - the Commercial Court, XIII Commercial Department of the National Court Register, with KRS number 0000209107, NIP (tax identification number): 6422683651, and REGON (national business registry number) number 276822679.
+In accordance with the Polish Act of 29 August 1997 on the protection of personal data (consolidated text: Journal of Laws of 2002 No 101, item 926 as amended), the data controller of your personal data is the Provider, that is Social Blogs Sp. z o.o. (KRS: 0000517955, NIP: 9662093318, REGON: 200874030), a company duly incorporated under the laws of Poland, with its registered office in Białystok, at Generała Władysława Andersa 38/401, Białystok 15-113, Poland, entered into the register of District Court in Białystok, XII Commercial Division of the National Register Court. Amount of the share capital of PLN 23,000.00 covered in whole.
 
 The Owner hereby declares as follows: 
 
