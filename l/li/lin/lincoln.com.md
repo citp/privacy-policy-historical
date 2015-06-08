@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lincoln.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120133203id_/http%3A//www.lincoln.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lincoln.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608042934id_/http%3A//www.lincoln.com/help/privacy) for the most accurate reproduction.*
 
 # Lincoln Privacy Policy | The Official Site of Lincoln Luxury Vehicles | Lincoln.com
 
@@ -8,13 +8,21 @@ We respect your privacy and are committed to protecting it. This privacy stateme
 
 ### 2\. Information About Our Organization and Website and General Data Collection Practices:
 
-This Privacy Statement applies to www.lincoln.com and its related mobile website m.lincoln.com and to SYNC related website pages on www.Support.Lincoln.com (collectively referenced herein as Lincoln.com). Lincoln.com is owned by Ford Motor Company, Marketing, Sales and Service Division, 16800 Executive Plaza Drive, Dearborn, MI 48126.
+This Privacy Statement applies to www.Lincoln.com and its related mobile website m.Lincoln.com and to Owner.Lincoln.com (collectively referenced herein as “site” or “website”) which are owned by Ford Motor Company, Marketing, Sales and Service Division, 16800 Executive Plaza Drive, Dearborn, MI 48126.
 
-The business purpose of this website is to provide visitors: (1) with knowledge of the features and benefits of the complete line of cars, crossovers, and SUVs; (2) with purchasing-related information such as available incentives, services, product inventory and dealership contacts; (3) the ability to save and share certain content that is of interest to you such as your favorite vehicles, technologies, and photos and videos; (4) SYNC product information, including SYNC software and support documentation, and the ability to manage your SYNC and Vehicle Health Report accounts including setting various preferences; and (5) the ability to access the Concierge service which allows members to submit questions and schedule chats with Lincoln representatives.
+### Lincoln.com
+
+The business purpose of Lincoln.com website is to provide visitors: (1) with knowledge of the features and benefits of the complete line of cars, crossovers, and SUVs; (2) with purchasing-related information such as available incentives, services, product inventory and dealership contacts; (3) the ability to save and share certain content that is of interest to you such as your favorite vehicles, technologies, and photos and videos; (and (4) the ability to access the Concierge service which allows members to submit questions and schedule chats with Lincoln representatives.
 
 On certain portions of this website, you may have the opportunity to request information or a contact from your local dealer through various shopping tools. These shopping tools include Build and Price, Search Dealer Inventory, Incentives and Offers, Request a Local Quote, and Trade-in Value. When you provide your personally identifiable information in those instances, it is collected by FordDirect, an independent company that assists our dealers. If you choose to provide your personally identifiable information to FordDirect, please note that it will be subject to the FordDirect Privacy Policy located at <http://www.forddirectprivacy.com/> .
 
 Certain features that are available on www.lincoln.com may not be available on the related mobile site and vice versa.
+
+### Owner.Lincoln.com
+
+The business purpose of Owner.Lincoln.com is to provide Lincoln vehicle owners a web destination that aggregates resources for convenience, savings, and vehicle maintenance. Owner.Lincoln.com provides access to vehicle and dealer information, discounts, coupons, service rebates, service history tracking, and SYNC product information, including SYNC software and support documentation. Also, where applicable, this site provides owners the ability to manage your SYNC Services and Vehicle Health Report accounts including setting various preferences, track Owner Advantage Rewards account(s), and access Lincoln Extended Service Plan information and purchase processing.
+
+For added convenience, a select set of site features are accessible from web-enabled mobile devices as a mobile-optimized web experience. These site features may be limited in functionality.
 
 ### Online Tracking Information
 
@@ -28,21 +36,27 @@ Certain features that are available on www.lincoln.com may not be available on t
 
 ### 3\. Personally Identifiable Information We Collect From You:
 
-When you visit Lincoln.com we will not collect any personally identifiable information about you unless you provide it to us voluntarily. For purposes of this Privacy Statement ”personally identifiable information” is information that identifies you as an individual, for example your name, street address, telephone number, and email address. If you opt not to provide us with personally identifiable information you can still access our website, however you may be unable to participate in certain promotions, activate or use a service, have a purchase order fulfilled, receive product information, or use the Concierge service.
+When you visit this site we will not collect any personally identifiable information about you unless you provide it to us voluntarily. For purposes of this Privacy Statement “personally identifiable information” is information that identifies you as an individual, for example your name, street address, telephone number, email address and credit card number. If you opt not to provide us with personally identifiable information you can still access our website, however you will be unable to participate in certain promotions, activate or use a service, have a purchase order fulfilled, receive product information, use the Concierge service, or on the Owner.Lincoln.com site initiate a text message containing the name, address and telephone number of a dealer.
 
-#### Saving Content
+#### Lincoln.com - Saving Content
 
 Some functionality and services we provide you offer the opportunity to save certain content two ways. You can save it anonymously (in that instance, content will be associated with your computer by placing a session or persistent cookie on it), or by creating login credentials described in the next paragraph.
 
-#### Creating Login Credentials
+#### Lincoln.com - Creating Login Credentials
 
 Certain pages of this website may allow you to create login credentials by typing in your user name/ID or email address and password and other information, or by using one of the available social media authentication methods such as Facebook, Google +, and Yahoo. If you choose to create login credentials using your account with one of the available social media authentication tools, you allow us to access your information that is publicly available or that you have made publicly available (e.g., name, user ID, profile picture), and information you “Allow” the website to access. By authenticating through one of the social media options, you allow us to receive your information that is accessible. We encourage you to review the privacy policy and any terms and conditions, for the method you choose to utilize for authentication.
 
-This site may use session and persistent “cookies” to collect personally identifiable information in order to verify login credentials, and it may use a third party to deliver site functionality. An explanation for each of these items and how they work is included in Section 7 – Methods to Collect Information.
+### Owner.Lincoln.com
 
 **VEHICLE HEALTH REPORT PRIVACY NOTICE (if equipped, U.S. only): When you run a Vehicle Health Report, Ford Motor Company may collect your cell phone number (to process your report request) and diagnostic information about your vehicle. Certain versions or updates to Vehicle Health Report may also collect additional vehicle information. Ford may use the vehicle information it collects, as well as information regarding individual access to Vehicle Health Reports on this site, for any purpose. If you do not want to disclose your cell phone number or vehicle information, do not run the feature or set up your Vehicle Health Report profile on this site. Refer to the[ **Vehicle Health Report Terms and Conditions** ](http://www.support.lincoln.com/tools/account/sync-terms) for more information.**
 
-Our primary goal in collecting personally identifiable information from you when you visit Lincoln.com is to provide you the functionality and services that you need to have a meaningful and customized experience while using the site features. We need to collect personally identifiable information in order to fulfill a site user request to utilize certain on-line features, and for requests such as mailing a brochure, lead generation, and sending marketing or promotional materials including e-mails or other information.
+Our primary goal in collecting personally identifiable information from you when you visit this site is to provide you the functionality and services that you need to have a meaningful and customized experience while using the site features.
+
+This site may use session and persistent “cookies” to collect personally identifiable information in order to verify login credentials, and it may use a third party to deliver site functionality. An explanation for each of these items and how they work is included in Section 7 – Methods to Collect Information.
+
+If you are linked to this site upon requesting information by text message and you later reply “STOP,” you agree to receive a confirmation text message to your STOP.
+
+Our primary goal in collecting personally identifiable information from you when you visit this site is to provide you the functionality and services that you need to have a meaningful and customized experience while using the site features.
 
 Email addresses collected at the point of the Tell-a-Friend email tools will be used solely for the purpose of forwarding to your intended recipient.
 
@@ -50,10 +64,10 @@ Please keep in mind that if you disclose personally identifiable information or 
 
 ### 4\. How We Use the Personally Identifiable Information We Collect:
 
-_Personally identifiable information_ collected on Lincoln.com may be used to:
+_Personally identifiable information collected on this site may be used to:_
 
-  * Fulfill a site user request (e.g., brochure fulfillment, lead generation, send marketing or promotional materials including emails or other information, save or share content, for a chat with a Lincoln representative)
-  * Fulfill and deliver an order for goods or services such as, if equipped, a Vehicle Health Report, SYNC Services, or software downloads 
+  * Fulfill a site user request (e.g., create log in credentials, brochure fulfillment, , send marketing or promotional materials including emails or other information, service rebates, price quotes, save or share content, for a chat with a Lincoln representative)
+  * Fulfill and deliver an order for goods or services such as, if equipped, a Vehicle Health Report, SYNC Services, or software downloads , or Lincoln Extended Service Plan
   * Respond to your comments or requests for information
   * Meet a request for or to develop new products or services
   * Make the user experience more customer friendly
@@ -67,7 +81,7 @@ _Personally identifiable information_ collected on Lincoln.com may be used to:
 
 ### 5\. Other (Non-Personally Identifiable) Information We Collect From Site Visitors:
 
-Lincoln.com collects other “non-personally identifiable information” from site visitors. This means that we do not track these items on an individual basis that identifies the site visitor, but rather gather and collect this information on an aggregate [or anonymous] basis that includes all site visitors. Non-personally identifiable information includes tracking the site pages that are visited or the amount of time spent on our site. 
+This site collects other “non-personally identifiable information” from site visitors. This means that we do not track these items on an individual basis that identifies the site visitor, but rather gather and collect this information on an aggregate [or anonymous] basis that includes all site visitors. Non-personally identifiable information includes tracking the site pages that are visited or the amount of time spent on our site. This includes aggregate data provided by a third-party that surveys site visitors on our behalf.
 
 If you visit a related mobile site or are directed to this site via a QR Code that you scanned, we collect additional non-personally identifiable information which may include the type/model of the mobile device viewing the site and the mobile device’s service provider and operating system. 
 
@@ -75,11 +89,11 @@ If your mobile phone has the capability and the GPS feature on the mobile phone 
 
 Our primary goal in collecting non-personally identifiable information from you is to be able to perform site metrics that allow us to improve the functionality of the website.
 
-We may use session and persistent “cookies,” session logs, spotlight ads/web beacons/GIF/pixel tags, banner ads or links, a third party that serves user-requested emails (e.g., a third-party email service provider for share with a friend user-customized emails) and third-party click tracking analytics tools (such as Adobe, DoubleClick, Efficient Frontier and Google Analytics; these companies may also use such tools) to collect aggregate or other non-personally identifiable information about site visitors. An explanation on collection methods and how they work is included in Section 7 - Methods to Collect Information, below. 
+We may use session and persistent “cookies,” session logs, spotlight ads/web beacons/GIF/pixel tags, banner ads or links, a third party that serves user-requested emails (e.g., a third-party email service provider for share with a friend user-customized emails) and third-party click tracking analytics tools (such as Adobe, DoubleClick, Efficient Frontier, Keynote and Google Analytics; these companies may also use such tools) to collect aggregate or other non-personally identifiable information about site visitors. An explanation on collection methods and how they work is included in Section 7 - Methods to Collect Information, below.
 
 ### 6\. How We Use the Aggregate or Non-Personally Identifiable Information We Collect:
 
-Non-Personally identifiable information collected on Lincoln.com may be used to:
+Non-Personally identifiable information collected on this site may be used to:
 
   * Compile aggregate and statistical data to help in website design and to identify popular features
   * Measure site activity to allow us to update our site to better meet user wants and needs
@@ -87,10 +101,10 @@ Non-Personally identifiable information collected on Lincoln.com may be used to:
 
 
 
-Lincoln.com utilizes non-personal data for the purpose of performing analytics on the user’s experience while visiting this site. This analysis:
+This site utilizes non-personally identifiable information for the purpose of performing analytics on the user’s experience while visiting this site. This analysis:
 
   * Is performed on an aggregate level and does not identify you or your information personally
-  * May involve the use of a third-party vendor acting on behalf of Lincoln.com
+  * May involve the use of a third-party vendor acting on behalf of this site
   * Is performed in order to improve our website and the user experience
   * May include the use of session and/or persistent cookies to track user movement across this and other Ford Motor Company websites or to track other events within or across this and other Ford Motor Company websites 
   * Third-party vendors with which Ford has entered into contracts to perform site analytics and which are provided aggregate information covered by this privacy statement are to use that information only to perform those services, and they may not share or resell this information
@@ -107,31 +121,31 @@ A “persistent” cookie is stored on your computer’s hard drive until a spec
 
 This site may use a third party to activate and/or deliver a service, or deliver site functionality such as fulfilling your request to purchase a product or service, including items from our online store. In performing this function the third party may place a persistent cookie on your computer or have to gather personally identifiable information from you in order to activate and deliver the service, or facilitate the processing of your purchase.
 
-This site may use third-party click tracking analytics tools (such as Adobe, and Google Analytics) to capture clickthrough statistics.
+This site may use third-party click tracking analytics tools (such as Adobe, DoubleClick, Efficient Frontier, Keynote and Google Analytics) to capture clickthrough statistics.
 
-Lincoln.com may use spotlight ads/web beacons/GIF/pixel tags which are site instrumentation tools that help us to determine, for instance, whether a page has been viewed or not and, if so, how many times. Emails or electronic newsletters we send may use tools (e.g., pixel tags or web beacons) to gather email metrics and information to improve the reader’s experience such as how many of the emails are opened, if they were printed or forwarded, the type of device (e.g., mobile or PC) from which they were opened, and the city, state, and county associated with the applicable IP address. In general, any electronic image viewed as part of a webpage, including an ad banner, can act as a web beacon.
+This site may use spotlight ads/web beacons/GIF/pixel tags which are site instrumentation tools that help us to determine, for instance, whether a page has been viewed or not and, if so, how many times. Emails or electronic newsletters we send may use tools (e.g., pixel tags or web beacons) to gather email metrics and information to improve the reader’s experience such as how many of the emails are opened, if they were printed or forwarded, the type of device (e.g., mobile or PC) from which they were opened, and the city, state, and county associated with the applicable IP address. In general, any electronic image viewed as part of a webpage, including an ad banner, can act as a web beacon.
 
-When you visit our website and log-in, the server housing the pages automatically generates a “session log.” We use session logs to help us determine how people travel through our site. In this way, we can structure our pages so that the information most frequently visited is easier to find. By tracking page visits, we can also determine if the information we’re providing is being used. The only data gathered is the Internet Protocol (IP) address from which you came (which contains no personal information), the website that referred you, the pages you visited and the date and time of those visits.
+This website may generate a “session log” when you visit our site. We use session logs to help us determine how people travel through our site. In this way, we can structure our pages so that the information most frequently visited is easier to find. By tracking page visits, we can also determine if the information we’re providing is being used. The only data gathered is the Internet Protocol (IP) address from which you came (which contains no personal information), the website that referred you, the pages you visited and the date and time of those visits.
 
-Users may be directed to Lincoln.com via banner ads, site links or QR Codes. Ads, site links or QR Codes may use tools such as cookies or web beacons to deliver metrics on the effectiveness of the ads or links. They do not collect personally identifiable information from the user. 
+Users may be directed to this site via banner ads, site links or QR Codes. Ads, site links or QR Codes may use tools such as cookies or web beacons to deliver metrics on the effectiveness of the ads or links. They do not collect personally identifiable information from the user.
 
-If you visit this site with an open ID, you may integrate with third-party social media sites, and Lincoln.com may track on an aggregate level the number of visits to this site with an open ID, the number of items “liked” on this site, or items on this site that you choose to share with a third-party social media site.
+Users you may be provided the opportunity integrate with third-party social media sites, and this site may track on an aggregate level the number of items “liked” on this site, or items on this site that you choose to share with a third-party social media site.
 
 #### Interest-Based/Online Behavioral Advertising
 
-_Interest-Based/Online Behavioral Advertising._ On some pages of our site we may allow third-party advertising partners to set web tracking tools (e.g., cookies and web beacons) to collect anonymous, non-personally identifiable information regarding your activities on those pages (e.g., your IP address, page(s) visited, time of day). We may also share such information we have collected with third-party advertising partners. These advertising partners may use this information (and similar information collected from other websites) for purposes of delivering future targeted advertisements to you when you visit other (non-Ford) sites within their networks. This practice is commonly referred to as "interest-based advertising" or "online behavioral advertising." 
+_Interest-Based/Online Behavioral Advertising._ On some pages of our site we may allow third-party advertising partners to set web tracking tools (e.g., cookies and web beacons) to collect anonymous, non-personally identifiable information regarding your activities on those pages (e.g., your IP address, page(s) visited, time of day). We may also share such information we have collected with third-party advertising partners. These advertising partners may use this information (and similar information collected from other websites) for purposes of delivering future targeted advertisements to you when you visit other (non-Ford) sites within their networks. This practice is commonly referred to as “interest-based advertising” or “online behavioral advertising.”
 
 Pages of our website that collect information that may be used by such advertising partners for interest-based advertising purposes are identified by a link to AdChoices on the page.
 
 _Opting out (site pages)._ If you do not want your browsing while on such pages to be used for interest-based advertising purposes, you may click on the AdChoices link to opt-out of such uses by the listed advertising partner(s). Even if you opt-out through this service, we may still collect non-personally identifiable information regarding your site activities and use it for non-interest-based advertising purposes as described in this privacy statement.
 
-_Opting out (advertisements)._ ). Advertisements on third-party sites that contain the AdChoices link and that link to this privacy statement may have been directed to you based on anonymous, non-personally identifiable information collected by advertising partners over time and across websites. These advertisements provide a mechanism to opt-out of the advertising partners' use of this information for interest-based advertising purposes. Even if you opt-out through this service, we may still collect and use information from the advertisements for non-interest based advertising purposes, such as to determine the effectiveness of the advertisements.
+_Opting out (advertisements)._ Advertisements on third-party sites that contain the AdChoices link and that link to this privacy statement may have been directed to you based on anonymous, non-personally identifiable information collected by advertising partners over time and across websites. These advertisements provide a mechanism to opt-out of the advertising partners' use of this information for interest-based advertising purposes. Even if you opt-out through this service, we may still collect and use information from the advertisements for non-interest based advertising purposes, such as to determine the effectiveness of the advertisements.
 
 _Opt-out Compliance Service._ This site and advertisements on third-party sites that link to this privacy statement use the Evidon assurance service to comply with the cross-industry Self-Regulatory Program for Online Behavioral Advertising managed by the Digital Advertising Alliance (DAA) ( [http://www.aboutads.info](http://www.aboutads.info/) ). When you opt-out on site pages or through such advertisements, Evidon conveys your opt-out election(s) to the applicable advertising partner(s), which then know to place a cookie on your specific computer and browser (and only the specific computer and browser from which you opt out) indicating that you have opted out. If you clear your browser cookies and wish to remain opted out of interest-based advertising, you must opt-out again. The list of our advertising partners may be updated from time to time. To opt-out of internet-based advertising by all DAA-participating companies, visit <http://www.aboutads.info/choices/> .
 
 ### 8\. Sharing Your Information:
 
-Lincoln.com does not share, sell, or rent personally identifiable information with independent companies for their own use without providing you a choice.
+This site does not share, sell, or rent personally identifiable information with independent companies for their own use without providing you a choice.
 
 If you create account credentials, you may be provided the opportunity to use the same account identification (email address) for one or more Ford Motor Company or its affiliates’ websites (including SYNC) or you may choose to create a new account. To facilitate this for you, when you provide your email address to us on registration on certain portions of this website, we may check whether there is already an existing account with this email address and advise you. When you register with another Ford Motor Company or affiliate website, we share with such website whether an account exists for the email address you have entered so that you can be advised whether you may use an existing account.
 
@@ -139,19 +153,21 @@ Personally identifiable information that you provide to us in the course of usin
 
 We may share personally identifiable information that we collect about you with other companies within the Ford Motor Company family of companies or subsidiaries. Our “family of companies” is the group of companies related to us by common control or ownership. We share information within this “family” as a normal part of conducting business and offering products and services to our customers.
 
-Personally identifiable information that you provide to Lincoln.com, except for mobile numbers provided when requesting text messages and mobile alerts, may be shared with our authorized dealers. This is necessary, such as, if you choose to set up an online service appointment through Vehicle Health Report (if equipped, U.S. only), to honor your request for a price quote on a vehicle or in order to provide a dealer with information for purposes of contacting you in their regular course of business. In addition, for VHR account holders, if you choose to set up an online appointment, in most cases your VHR data will automatically be sent to your preferred dealer in your SYNC profile. The dealer is not restricted by Lincoln.com in their use of your data. 
+Personally identifiable information that you provide to this site, except for mobile numbers provided when requesting text messages and mobile alerts, may be shared with our authorized dealers. This is necessary, such as, if you choose to set up an online service appointment through Vehicle Health Report (if equipped, U.S. only), to honor your request for a price quote on a vehicle or in order to provide a dealer with information for purposes of contacting you in their regular course of business. In addition, for VHR account holders, if you choose to set up an online appointment, in most cases your VHR data will automatically be sent to your preferred dealer in your SYNC profile. The dealer is not restricted by Lincoln Motor Company in their use of your data.
 
-Vendors, contractors or partners of Lincoln.com who have access to your personally identifiable information in connection with providing services for Lincoln.com are required to keep the information confidential and are not permitted to use this information for any other purpose than to carry out the services they are performing for Lincoln.com. 
+Vendors, contractors or partners of this site who have access to your personally identifiable information in connection with providing services for this site are required to keep the information confidential and are not permitted to use this information for any other purpose than to carry out the services they are performing for this site.
 
-Site metrics for Lincoln.com may be shared with other Ford Motor Company websites or subsidiaries or affiliates. The information shared will be aggregate data and will not include any of your personally identifiable information.
+This site may share personally identifiable information with subcontractors. Subcontractors are restricted from using this data in any other way other than to provide these services to Ford Motor Company and they may not share or resell this data.
 
-Lincoln.com will disclose your personally identifiable information, without notice, if (1) in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Ford Motor Company, its affiliates or the site; (b) protect and defend the rights or property of Ford Motor Company, its affiliates or this site; or (c) act under exigent circumstances to protect the personal safety of Ford Motor Company or affiliate personnel, users of their websites, or the public; or (2) if required to do so by law.
+Site metrics for this site may be shared with other Ford Motor Company websites or subsidiaries or affiliates. The information shared will be aggregate data and will not include any of your personally identifiable information.
+
+This site will disclose your personally identifiable information, without notice, if (1) in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Ford Motor Company, its affiliates or the site; (b) protect and defend the rights or property of Ford Motor Company, its affiliates or this site; or (c) act under exigent circumstances to protect the personal safety of Ford Motor Company or affiliate personnel, users of their websites, or the public; or (2) if required to do so by law.
 
 Contest or sweepstakes entrants only: If you are providing personally identifiable information in connection with a contest or sweepstakes through this website, and if you are selected as a winner, we may include your personally identifiable information in a publicly available winner’s list. See the applicable contest or sweepstakes rules.
 
 ### 9\. Access To and Control Over the Use of Your Personally Identifiable Information:
 
-To correct or update your personal information contact us at: 
+To correct or update your personally identifiable information contact us at:
 
     Telephone 
 
@@ -171,19 +187,19 @@ P.O. Box 6248
 
 Dearborn, MI 48126 
 
-You will be asked for name and address so that we may be able to process your changes. Lincoln.com will use reasonable efforts to correct any factual inaccuracies in your information.
+You will be asked for name and address so that we may be able to process your changes. We will use reasonable efforts to correct any factual inaccuracies in your information.
 
 If you have created a SYNC account you can access this information by logging in to your SYNC account. To correct or update your personally identifiable information, you will be asked for your password or the answer to your security question so that we may be able to process your changes. 
 
-The scope of access available for this request is for information stored in the database that holds the data for Lincoln.com. Any personally identifiable information that has been collected from you on other Company websites will not be accessible or changeable through the processing of this request.
+The scope of access available for this request is for information stored in the database that holds the data for this site. Any personally identifiable information that has been collected from you on other Company websites will not be accessible or changeable through the processing of this request.
 
 ### 10\. Security of Your Information:
 
 Safeguarding information of visitors to our website is important to us. We use systems, policies and procedures to maintain accuracy of information and to protect information from loss, misuse or alteration.
 
-When you send personally identifiable information, such as email address or telephone numbers, to Lincoln.com we use “Secure Socket Layers” or SSL to protect your data. SSL is encryption technology that helps safeguard your personally identifiable information against misuse by unauthorized individuals.
+When you send personally identifiable information, such as email address or telephone numbers, to this site we use “Secure Socket Layers” or SSL to protect your data. SSL is encryption technology that helps safeguard your personally identifiable information against misuse by unauthorized individuals.
 
-Vendors, contractors or partners of Lincoln.com who have access to your personally identifiable information in connection with providing services for Lincoln.com are required to keep the information confidential.
+Vendors, contractors or partners of this site who have access to your personally identifiable information in connection with providing services for this site are required to keep the information confidential.
 
 ### 11\. Processing of Personal Data:
 
@@ -191,7 +207,7 @@ By visiting this site and by providing your personally identifiable information 
 
 ### 12\. Links to Other Sites:
 
-Lincoln.com provides links to other websites. We encourage you to review the privacy statements of all sites that you visit, including those whose links are provided so that you can understand how those sites collect, use and share your information. Lincoln.com is not responsible for the privacy statements, content or data handling practices on other websites. 
+This site provides links to other websites. We encourage you to review the privacy statements of all sites that you visit, including those whose links are provided so that you can understand how those sites collect, use and share your information. This site is not responsible for the privacy statements, content or data handling practices on other websites.
 
 Parts of this site may provide dealer and vehicle locator services which are provided by a third-party vendor. In order to provide you with the closest dealers, we may need to collect your IP address to determine your general location, or we may ask you to provide location information such as zip code or City and State. In instances where we use a third-party vendor to provide dealer locator services, we will provide them a zip code. 
 
@@ -199,13 +215,13 @@ If you use available mapping functionality on this website, you agree to be boun
 
 ### 13\. Children’s Privacy:
 
-Lincoln.com does not knowingly intend to collect personally identifiable information from children under 13 years of age. 
+This site does not knowingly intend to collect personally identifiable information from children under 13 years of age.
 
-If a child has provided us with personally identifiable information a parent or guardian of that child may contact us at the phone number or mailing address listed in section 14 if they want this information deleted from our records. We will then make reasonable efforts to delete the child’s information from the database that stores information for Lincoln.com. 
+If a child has provided us with personally identifiable information a parent or guardian of that child may contact us at the phone number or mailing address listed in section 14 if they want this information deleted from our records. We will then make reasonable efforts to delete the child’s information from the database that stores information for this site. 
 
 ### 14\. Contacting Us:
 
-If you have any questions, comments or concerns about this online privacy statement for Lincoln.com, Lincoln.com privacy practices, or have any questions regarding the contents of this website please contact us at:
+If you have any questions, comments or concerns about this online privacy statement for this site, this site’s privacy practices, or have any questions regarding the contents of this website please contact us at:
 
     Telephone 
 
@@ -225,10 +241,10 @@ P.O. Box 6248
 
 Dearborn, MI 48126 
 
-Lincoln.com is committed to working with consumers to obtain a fair and rapid resolution of any complaints or disputes about privacy and the handling of your data. Lincoln.com will be happy to respond to your questions and comments. 
+We are committed to working with consumers to obtain a fair and rapid resolution of any complaints or disputes about privacy and the handling of your data. We will be happy to respond to your questions and comments.
 
 ### 15\. Privacy Statement Effective Date and Revision Days:
 
-Occasionally we may update the privacy statement for Lincoln.com in order to reflect any changes to the website or our privacy practices. If we update this statement, the new statement will be posted to the website ten (10) days prior to the changes taking effect.
+Occasionally we may update the privacy statement for this site in order to reflect any changes to the website or our privacy practices. If we update this statement, including any updates reflecting material changes to our Online Behavioral/Interest-Based Advertising practices, the new statement will be posted to the website ten (10) days prior to the changes taking effect.
 
-The effective date of this privacy statement is September 21, 2014
+The effective date of this privacy statement is March 3, 2015.
