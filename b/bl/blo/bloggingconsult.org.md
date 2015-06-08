@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bloggingconsult.org privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206152319id_/http%3A//bloggingconsult.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingconsult.org privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608130735id_/http%3A//bloggingconsult.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - BloggingConsult
+# Privacy Policy - BLOG|SEO
 
 This Privacy Policy governs the manner in which Bloggingconsult collects, uses, maintains and discloses information collected from users (each, a “User”) of the bloggingconsult.org website (“Site”). This privacy policy applies to the Site and all products and services offered by Blogging Consult.
 
@@ -57,4 +57,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 kazeem_james007@yahoo.com or bloggingconsult@gmail.com
 
-This document was last updated on August 07, 2014
+This document was last updated on March 10th, 2015
