@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efile.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130043511id_/http%3A//www.efile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efile.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608022107id_/http%3A//www.efile.com/privacy-policy) for the most accurate reproduction.*
 
 # efile.com Privacy Policy, Tax Information Security, Tax Law
 
@@ -16,11 +16,11 @@ This Privacy Policy covers all the online information practices of www.efile.com
 
 ## Spam Policy
 
-We at efile.com respect the privacy of your email inbox. We don't like spam and we don't want you to get email from efile.com that you have not anticipated. If you wish to stop receiving email from efile.com, just [tell us directly](https://web.archive.org/tax-service/contact/efile-contact/) and we will stop emailing you. It's that simple.
+We at efile.com respect the privacy of your email inbox. We don't like spam and we don't want you to get email from efile.com that you have not anticipated. If you wish to stop receiving email from efile.com, just [contact efile.com](https://web.archive.org/tax-service/contact/efile-contact/) directly and we will stop emailing you. It's that simple.
 
-There's no need to mark the unwanted email as spam, set up a blacklist, or inform your internet service provider. The fastest and easiest way to stop unwanted emails is to [contact us directly](https://web.archive.org/tax-service/contact/efile-contact/). You can also simply click "Unsubscribe" on the emails themselves.
+There's no need to mark the unwanted email as spam, set up a blacklist, or inform your internet service provider. The fastest and easiest way to stop unwanted emails is to [contact efile.com support](https://web.archive.org/tax-service/contact/efile-contact/). You can also simply click "Unsubscribe" on the emails themselves.
 
-Please [contact us](https://web.archive.org/tax-service/contact/efile-contact/) if you have any questions regarding our spam policy, or about any email you received from us.
+Please [contact efile.com](https://web.archive.org/tax-service/contact/efile-contact/) if you have any questions regarding our spam policy, or about any email you received from us.
 
 ## Internal Controls
 
@@ -131,6 +131,6 @@ Should you have other questions or concerns about this Privacy Policy, please su
 
 eFile LLC
 
-Email: support@efile.com 
+Email: [support@efile.com](mailto:support@efile.com) 
 
 Web site: [http://www.efile.com/contact/](http://www.efile.com/tax-service/contact/efile-contact/)
