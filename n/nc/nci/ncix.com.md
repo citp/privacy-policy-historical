@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ncix.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215102425id_/http%3A//www.ncix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncix.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608223345id_/http%3A//www.ncix.com/privacy) for the most accurate reproduction.*
 
-# NCIX.com - Canada's Premier Computer Store - Online PC Discount Store, Buy Computer Accessories
+# NCIX.com - Canada's Premier Computer Store
 
 **NCIX.com is committed to protecting your privacy.** This privacy policy describes our practices regarding personal and account information collected through our Web site. In this policy, “personal and account information” means your name, company name, account number, address, telephone number, and e-mail address plus other information that identifies you, including your industry, the number of employees at your company, and purchase history, and “we” and “us” means NCIX.com as well as its affiliated companies. 
 
