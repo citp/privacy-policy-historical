@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the emis.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328055423id_/http%3A//www.emis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emis.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608020744id_/http%3A//www.securities.com/emis/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Emerging Markets Information Service (EMIS)
+# Privacy Policy
 
   
 PRIVACY STATEMENT 
