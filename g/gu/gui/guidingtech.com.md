@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guidingtech.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120133212id_/http%3A//www.guidingtech.com/terms-of-use/%23Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidingtech.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041850id_/http%3A//www.guidingtech.com/terms-of-use/%23Privacypolicy) for the most accurate reproduction.*
 
 # Terms Of Use - Guiding Tech
 
@@ -7,7 +7,8 @@ The following page lists the various policies/terms of use for Guiding Tech. Cli
   1. Copyright Policy
   2. Privacy Policy
   3. Comment Policy
-  4. Disclaimer and Disclosure
+  4. Affiliate Links Disclosure
+  5. Disclaimer and Disclosure
 
 
 
@@ -72,6 +73,10 @@ In order to make our comments useful and interesting, the following guidelines h
 
 
 Guiding Tech will not accept responsibility for information posted in the comments. Guiding Tech also reserves the right to delete any comment if it finds it to be inappropriate or if it is not following the comment policy.
+
+**Affiliate Links Disclosure**
+
+Although we primarily talk about free apps and tools, we write about useful paid apps too. And sometimes we use affiliate links for these products. It helps us make a small commission out of the sales if our readers were to buy them. This does not affect our editorial integrity though, and we tend to write about only the apps and products that we know will benefit our readers. After all, if the apps are not great, why would a reader want to buy it anyway? Our allegiance and loyalty is only to our readers and we only write about stuff that’s of top quality and useful, paid or not.
 
 **Disclaimer& Disclosure**
 
