@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the digidna.net privacy policy that was archived on 2014-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140905230003id_/http%3A//www.digidna.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digidna.net privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608192710id_/http%3A//digidna.ch/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# DigiDNA - Company
+
+[
+
+DigiDNA
+
+](http://digidna.ch/ "DigiDNA - Company")
 
 DIGIDNA SARL (hereafter DIGIDNA) is aware that you may wish to be informed about the way in which the data and the information likely to personally identify you, such as your name, address, fax and telephone numbers or e-mail addresses, etc (Personal data), which you forward via Internet to the Web sites of DIGIDNA. As a consequence, we have established the current Policy of Confidentiality to explain you the way in which we use your Personal Data as well as all the precautions that we take to maintain confidentiality and security. When accessing to our Websites and using our services, you agree with the collection of your Personal Data and the practices described in this Policy of Confidentiality, in which we sometimes bring modifications. If we decide to modify our Policy of Confidentiality, we upload the new version on our Web sites, by updating the date contained in its last paragraph. You are invited to consult the present Policy of Confidentiality from time to time in order to be informed about possible modifications. The terms of this Policy of Confidentiality do not include any damage to the provisions of a possible contract which you could have concluded with us and which prevails upon the terms of this Policy of Confidentiality.
 
@@ -11,7 +17,7 @@ DIGIDNA does not collect and does not process any Personal Data that you did not
 #### 2\. Purpose of using Personal Data
 
 The majority of our services do not require any suscription, which enables you to visit our Websites without telling us who you are. However, certain services may require a suscription. When you subscribe, you may be asked to fill-in certain fields in forms (some of them are mandatory, other are optional), and to choose a user name and a password. In these conditions, if you decide to refuse to provide us with the Personal Data that we request from you, the access to certain parts of our Websites may be denied and it may be impossible for us to answer your request.  
-DIGIDNA only collects and process your Personal Data for specific and limited needs, about which we inform you when you wish to use certain services offered on our Websites. For example, we must collect and use your Personal Data to provide you with our services, to invoice those which you request, to market other ones that we believe are likely to interest you, to send you newsletters or to communicate with you for any other purpose. In addition, we can use your Personal Data for assessing the efficiency of our services and improving them, for the benefit of our visitors and our customers, for our internal statistics or other requirements of our business, for assessing the interest of our customers, just as to study the purchase behaviors and the trends of our customers, and for better defining the development of our services. By forwarding us your Personal Data, you grant this use explicitly. DIGIDNA only keeps your Personal Data during the time required for the achievement of these purposes and in accordance with the legal or ethics requirements in relation with the obligations of information and the storage of the documents.
+DIGIDNA only collects and process your Personal Data for specific and limited needs, about which we inform you when you wish to use certain services offered on our Websites. For example, we must collect and use your Personal Data to provide you with our services, to invoice those which you request, to market other ones that we believe are likely to interest you, to send you newsletters or to communicate with you for any other purpose. In addition, we can use your Personal Data for assessing the efficiency of our services and improving them, for the benefit of our visitors and our customers, for our internal statistics or other requirements of our business, for assessing the interest of our customers, just as to study the purchase behavior and the trends of our customers, and for better defining the development of our services. By forwarding us your Personal Data, you grant this use explicitly. DIGIDNA only keeps your Personal Data during the time required for the achievement of these purposes and in accordance with the legal or ethics requirements in relation with the obligations of information and the storage of the documents.
 
 #### 3\. Nondisclosure of information
 
@@ -35,7 +41,7 @@ Most of the information we collect on our websites are anonymous. When you visit
 
 #### 8\. Spamming
 
-DIGIDNA does not practice any Spamming. Spamming is defined as sending not requested e-mails, generally with advertising content, in large numbers and in a repeated way, to people with whom the sender did not have any preliminary contact or which had precised that they didn’t want to receive such messages. Nevertheless, when we consider that one of our products or information may have a certain importance for you, we send you a notification by e-mail and let you decide whether you want to maintain this service.
+DIGIDNA does not practice any Spamming. Spamming is defined as sending not requested e-mails, generally with advertising content, in large numbers and in a repeated way, to people with whom the sender did not have any preliminary contact or which had specified that they didn’t want to receive such messages. Nevertheless, when we consider that one of our products or information may have a certain importance for you, we send you a notification by e-mail and let you decide whether you want to maintain this service.
 
 #### 9\. Links Towards Other Websites
 
