@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mayura4ever.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701233241id_/http%3A//www.mayura4ever.com/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mayura4ever.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608105056id_/http%3A//www.mayura4ever.com/p/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,9 +17,13 @@ iii. By sharing personal information when you post comments / support requests
   
 
 
-In addition to your basic information, web analytic trackers, third-party services and advertising partners (if available) may collect other information such as country origin, your internet browser and operating system used to surf Mayura4Ever.
+In addition to your basic information, web analytic trackers, third-party services and advertising partners may collect other information such as country origin, your internet browser and operating system used to surf Mayura4Ever.
 
-They will use cookies to improve quality of their service and if you wish to disable cookies, you may go through your web browser options. "Mayura4Ever" itself has no access or control over any of those cookies.
+The advertisements appears on Mayura4Ever, served by third party vendors, including Google, use cookies to serve ads based on a user's prior visits to this weblog. Google's use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visit to this blog and / or other sites on the Internet.
+
+You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Google's [Ads Settings](http://www.google.com/ads/preferences/). Alternatively, you can opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://aboutads.info/) too.
+
+Apart from advertisers, other trackers and services will use cookies to improve quality of their service too. If you wish to disable cookies, you may go through your web browser options. "Mayura4Ever" itself has no access or control over any of those cookies.
 
 ###  HOW: I Use Your Personal Information
 
@@ -42,4 +46,4 @@ Disqus Privacy Policy: <http://help.disqus.com/customer/portal/articles/466259-p
 
 If you have any inquiries about this Privacy Policy, please [contact me](http://www.mayura4ever.com/p/contact.html) with your inquiry detailing relevant information. I appreciate any of your considerations.
 
-**Last Updated** : 2014 January 31 
+**Last Updated** : 2014 November 27 
