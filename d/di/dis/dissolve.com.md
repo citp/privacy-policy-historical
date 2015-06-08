@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dissolve.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121065950id_/http%3A//www.dissolve.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dissolve.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608120129id_/http%3A//www.dissolve.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Stock footage, stock video - Dissolve
 
