@@ -1,35 +1,36 @@
-> *The following text is extracted and transformed from the djawir.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530150724id_/http%3A//www.djawir.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djawir.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608043910id_/http%3A//djawir.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy | djawir Mobile Phone News
+# Privacy Policy | djawir Community
 
-**[Privacy](http://www.djawir.com/privacy/ "Privacy") Policy**
+* djawir Community recognizes that you care about the personal information that is held about you and how that is used.
+  
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email webmaster[at]djawir.com.
+* This privacy policy applies to all personal data, submitted by you, to the djawir Community web site.
+  
 
-At djawir.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by djawir.com and how it is used.
+* By registering to djawir Community you need to submit a chosen name and contact information, more specifically an e-mail address. No extremely personal information, such as Social Security or Credit Card numbers are stored by us.
+  
 
-**Log Files**
+* djawir Community also stores and reads cookies to and from your computer. Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our forums and general website features to recognize your browser for when you return to this web site. By using this website, you agree that both the webserver, and any trusted 3rd party we choose, such as advertising networks, may place a tracking cookie on your machine and access it at any time during your session. In general, cookies are safe and are not a security issue when being used from 'trusted' internet sites, such as djawir Community. For information on how to manage cookies in your browser, please visit [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=2)
+  
 
-Like many other Web sites, djawir.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+* Some of our advertising partners use tracking cookies to serve the most relevant ads to you based on your browsing habits. You may opt out of these tracking cookies by visiting [this link.](http://www.google.com/privacy_ads.html)
+  
 
-**Cookies and Web Beacons**
+* djawir Community will not sell, transmit or distribute any data held without your prior permission or consent, unless required to do so under relevant Indonesia legislation.
+  
 
-djawir.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+* All other information provided by you goes into a "public profile" and is entirely optional, all information held in that profile is held there at your own risk. This info is edited via your [Account Panel](https://web.archive.org/account/personal-details) in the forums.
+  
 
-**DoubleClick DART Cookie**
+* You have a legal right for the personal information held at djawir Community to be updated if it is incorrect or deleted if you choose. Most of this can be done through your [Account Panel](https://web.archive.org/account/personal-details) in the forums. If you are having issues with this, please [Contact Us](https://web.archive.org/misc/contact) if you need help.
+  
 
-.:: Google, as a third party vendor, uses cookies to serve ads on djawir.com.
+* djawir Community will take all reasonable effort to ensure that all personal information about you submitted is maintained secure on our server. However, we make no warranty to this.
+  
 
-.:: Google’s use of the DART cookie enables it to serve ads to your users based on their visit to djawir.com and other sites on the Internet
+* This Privacy Policy may be modified at any time without notice. It is your responsibility to check this page for updates or changes. If you have any questions regarding your privacy, then [Contact Us](https://web.archive.org/misc/contact)
+  
 
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
-
-Google Adsense
-
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on djawir.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
-
-djawir.com has no access to or control over these cookies that are used by third-party advertisers.
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. djawir.com privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+[ ](http://djawir.com/)
