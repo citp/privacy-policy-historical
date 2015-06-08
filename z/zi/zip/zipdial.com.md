@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zipdial.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204055202id_/http%3A//www.zipdial.com/corp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipdial.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609010146id_/http%3A//zipdial.com/corp/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | ZipDial
 
