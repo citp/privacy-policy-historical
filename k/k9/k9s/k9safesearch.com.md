@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the k9safesearch.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127114537id_/http%3A//www1.k9webprotection.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k9safesearch.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608195448id_/http%3A//www1.k9webprotection.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Statement | K9 Web Protection - Free Internet Filter and Parental Control Software
 
