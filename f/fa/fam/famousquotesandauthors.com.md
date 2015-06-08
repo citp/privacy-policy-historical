@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the famousquotesandauthors.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709110312id_/http%3A//www.famousquotesandauthors.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famousquotesandauthors.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608160321id_/http%3A//www.famousquotesandauthors.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -35,7 +35,7 @@ If you have any comments or questions on the above privacy statement, please fee
 
 |  | Quote of the Day  
 ---  
-My words fly up, my thoughts remain below; Words without thoughts never to heaven go.   
+The magic of first love is our ignorance that it can ever end.   
   
 Top 10 Authors  
 ---  
