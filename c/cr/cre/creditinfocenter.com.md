@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the creditinfocenter.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703171313id_/http%3A//www.creditinfocenter.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditinfocenter.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608160036id_/http%3A//www.creditinfocenter.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy and Acceptable Use Policy For Credit Info Center
-
-  
-
 
 ## Credit Info, LLC Takes Your Privacy Seriously
 
@@ -21,22 +18,19 @@ To fulfill your requests for certain products and services; and to contact you a
 
 ### Information Sharing and Disclosure
 
-Credit Info, LLC will not sell or rent your personally identifiable information to anyone unless: 
+Credit Info, LLC will not sell or rent your personally identifiable information to anyone unless:
 
-  * We have your consent to share the information. 
-  * We need to share your information to provide the product or service you have requested. 
-  * We respond to subpoenas, court orders or legal process. 
-  * We find that your actions on our websites violate the Credit Info, LLC terms of service, or any of our usage guidelines for specific products or services. 
+  * We have your consent to share the information.
+  * We need to share your information to provide the product or service you have requested.
+  * We respond to subpoenas, court orders or legal process.
+  * We find that your actions on our websites violate the Credit Info, LLC terms of service, or any of our usage guidelines for specific products or services.
 
 
 
 Google and the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx):
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 ### Changes to This Privacy Policy
 
 Credit Info, LLC may edit this policy from time to time. If we make any substantial changes we will notify you by posting a prominent announcement on our pages.
-
-**Do you have a credit repair or debt question?**  
-Get a FREE [initial credit or debt consultation](http://www.creditinfocenter.com/misc/ConsultWithTheExpert.php) or buy our book "[Good Credit is Sexy](http://www.credit-book-store.com/pd-good-credit-is-sexy-paperback.cfm)".
