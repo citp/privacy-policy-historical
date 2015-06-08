@@ -1,98 +1,72 @@
-> *The following text is extracted and transformed from the yoganonymous.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022080707id_/http%3A//yoganonymous.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoganonymous.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608071853id_/http%3A//yoganonymous.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - YOGANONYMOUS
+# YOGANONYMOUS
 
-## Privacy Policy
+**Purpose and Scope of this Policy**
 
-**Privacy Statement**
+The following privacy policy (“Privacy Policy”) describes how Yoganonymous, Inc. and Yoganonymous.com (collectively referred to as “YOGANONYMOUS”) and its affiliates treat the personally identifiable information that is collected about you when you visit YOGANONYMOUS, mobile-optimized versions of the site, and digital applications to which this policy is linked (collectively referred to as “Covered Sites”). For the purposes of this policy, “Personally Identifiable Information” is information that we can use to identify or contact you as an individual, and includes your name, email address, address, telephone number and any other information that we associate with any of the foregoing. By submitting Personally Identifiable Information through any of our Covered Sites, you agree to the terms of this Privacy Policy and you expressly consent to the collection, use and disclosure of your Personally Identifiable Information in accordance with this Privacy Policy.
 
-Your privacy is important to Yoganonymous. This privacy statement provides information about the personal information that Yoganonymous collects, and the ways in which Yoganonymous uses that personal information.
+This Privacy Policy does not apply to information collected about you by anyone except YOGANONYMOUS and only applies to the Covered Sites.
 
-**Personal information collection**
+Except as specified herein, this Privacy Policy also does not apply to information you may provide to us offline.
 
-Yoganonymous may collect and use the following kinds of personal information:
+**Collection of Information**
 
-  * Information collected by Google Analytics used and analyzed for the purpose of improving the functionality of our website.
+**Information You Provide.** YOGANONYMOUS generally collects Personally Identifiable Information that you voluntarily provide. For instance, when you enter a sweepstakes or a contest, complete a survey, participate in a reader panel, participate in our social networking features, subscribe to receive newsletters, promotional correspondence, or other electronic services, or send us an email or feedback, you may be asked to provide information such as your e-mail address, name, phone number, shipping address, and billing information, and we will collect such information as well as any other content you provide us in engaging in any of the above activities. Information such as your age, gender, hobbies or interests may also be requested. If you elect to post material to any blogs, forums, participate in our social networking features or other community boards that may be offered on our Covered Sites, then such materials will be collected and may be publicly available for others to view.
 
+**Cookies**
 
-
-**Using personal information**
-
-Yoganonymous may use your personal information to:
-
-  * Administer this website
-  * Personalize the website for the end user
-  * Enable your access to and use of the website services
-  * Supply to you services that you request
-  * Send you statements
-  * Send you marketing communications
+  1. YOGANONYMOUS may set and access cookies and similar technologies on your computer. A cookie is a small amount of data (often including a unique identifier), that is sent to your browser from a web site’s computers and stored on your computer’s hard drive. Some of our cookies may be local shared objects, also known as Flash cookies. Cookies may be session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer until you delete them). YOGANONYMOUS uses cookies to understand site usage and to improve the content and offerings on our Covered Sites and in other media. We may use cookies to control the display of ads, to track usage patterns on the sites, to deliver editorial content, to record requests for subscriptions and to personalize information. Our cookies may contain Personally Identifiable Information and such cookies may be shared with others. YOGANONYMOUS may also use cookies to collect aggregate information about web site users on an anonymous basis (“Anonymous Information”). We may share aggregate demographic and usage information with our prospective and actual business partners, advertisers and other third parties for any business purpose.
+  2. If you don’t want cookies, most web browsers include an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of our Covered Sites may not function efficiently. Flash cookies may regenerate HTTP cookies that you have affirmatively deleted. Deleting, rejecting, disabling or turning off HTTP cookies as described above will not remove flash cookies. We use flash cookies as an alternative method to HTTP cookies for storing information about your web browsing history across unaffiliated domains, unrelated to the delivery of content through the Flash Player or the performance of the Flash Player in delivering such content.
 
 
 
-Where Yoganonymous discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement.
+**IP Address.** You Internet Protocol (“IP”) address is usually associated with the place from which you enter the internet, like your internet service provider, your company or your university. Our server may also record the referring page that linked you to us (e.g., another web site or a search engine); the pages you visit on our Covered Sites, the web sites you visit after this web site; the ads you see; the ads you click on; other information about the type of web browser, computer, platform, related software and settings you are using; any search terms you have entered on this web site or a referral site; and other web usage activity and data logged by our web servers. We may use your IP address to help diagnose problems with our servers, gather broad demographic information, and administer our Covered Sites. We may also link this information with your Personally Identifiable Information when we feel that it is necessary to enforce compliance with our rules and policies or Terms and Conditions or to protect our Covered Sites, customers or others.
 
-In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, Yoganonymous may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.
+**Location Information.** We may, and may enable our advertisers to, collect your location via certain services we provide through digital applications, wireless access protocol services (“WAP Services”) or mobile phone service (“Mobile Services”). We, or the service provider, will inform you of such collection at the time you use the service. By using such service, you hereby consent to our collection, use and disclosure of your location information as described.
 
-**Securing of your data**
+**Use of Information**
 
-Yoganonymous will take reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information.
+YOGANONYMOUS uses information we collect from you in part to provide you with the service you have requested. Similarly, if you enter online sweepstakes, we will also use this information to notify you if you are a winner. We also use information to register you, identify you as a user, improve our Covered Sites and services, send you administrative notifications, and respond to your inquiries. We might also send out e-mails to users and sweepstakes/contest entrants to announce special offers, services and announcements from our Covered Sites, our partners and/or our advertisers. We also use information in connection with advertising and to serve other content as described below. We may combine and use any and all information we collect on you online for marketing purposes.
 
-**Updating this statement**
+In addition, we may use information you provide us through emails, Q&A, blogs, forums, in response to polls, or through any other user generated submission for editorial purposes, and may use your name and any stories you provide us in articles published online. If you provide us with personal anecdotes, they may be attributed to you. YOGANONYMOUS can edit, rewrite, use, and reuse the content, including your name, likeness, photograph, and biographical information you provide, with or without attribution, including publication in trade media and advertising.
 
-Yoganonymous may update this privacy policy by posting a new version on this website.
+We may create Anonymous Information from Personally Identifiable Information by excluding information (such as your name) that make the data personally identifiable to you. We use this Anonymous Information for any purpose and disclose Anonymous Information to third parties in our sole discretion.
 
-You should check this page occasionally to ensure you are familiar with any changes.
+**Disclosure of Your Information**
 
-**Other websites**
+In addition to the other disclosures described in this policy, YOGANONYMOUS may (and you authorize us to) share or disclose Personally Identifiable Information about you to other companies or individuals in the following situations:
 
-This website contains links to other websites.
-
-Yoganonymous is not responsible for the privacy policies or practices of any third party.
-
-**Contact Yoganonymous**
-
-If you have any questions about this privacy policy or Yoganonymous treatment of your personal information, please write to:
-
-  * by email to info@yoganonymous.org
+  1. You have entered a contest or sweepstakes sponsored by a third party, in which case the information you provide via the contest or sweepstakes may be shared by us with that third party for their use in their discretion, including direct marketing. Some of our contests and sweepstakes will ask you at the time of entry whether you would like to have your personal information shared with the sponsor, in which case we will honor your selection. Other contests will not give you that option and in that event, if you do not want your information to be shared, you should not enter the contest. The privacy policies of such third party companies apply to their use and disclosure of your information that we collect and disclose to such third party companies.
+  2. In accordance with your indicated preferences (e.g., you indicated you wanted to receive promotional material directly from a third party partner).
+  3. The entity is a third party who wants to promote goods and services we think would be of interest to you.
+  4. You have furnished us Personally Identifiable Information with the intent that it be forwarded to a third party for use in connection with a specified service you are electing to participate in.
+  5. We need to protect our legal rights (for example, if we are trying to collect money you owe us); we must comply with applicable laws, regulations, or legal or regulatory process, or comply with subpoenas or warrants served on us, or in connection with a legal investigation; or we have reason to believe that someone may be causing injury to someone or interfering with our rights or the rights of our users, or general public, or using our services in violation of a legal or personal right, including our terms of use (collectively, the “Legal Exceptions”).
 
 
 
-**Google Analytics**
+**Social Networks**. If you use your login credentials from a social networking site (“SNS”) on a Covered Site, we may receive information from such SNS in accordance with the terms and conditions of the SNS (“SNS Terms”). If you elect to share your information with these SNS, we will share information with them in accordance with your election. The SNS Terms of these SNS will apply to the information we disclose to them.
 
-_This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States . Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above._
+**Third Party Partners.** Some of our Covered Sites may from time to time partner with a retailer or other third party to offer online shopping opportunities, games, services, subscriptions and other applications on a co-branded or cross-promotional basis. Those transactions may take place on a Covered Site, or the site of the third party. In either case, Personally Identifiable Information you provide in connection with the transaction may be collected directly by, or shared by YOGANONYMOUS with, the third party, as well as with any participating sponsors or advertisers of such opportunities and features. Some of our Covered Sites may offer you the ability to access a third party site with whom we have a relationship to access both sites through a co-branded registration or password; in that event, your applicable registration information may be collected directly by, or shared by YOGANONYMOUS with, the third party partner. We will notify you at the applicable point of sign up if any such co-branded registration or password practices will be in effect. These third parties will use your information in accordance with their own privacy policy.
 
-Google’s privacy policy is available at: <http://www.google.com/privacypolicy.html>.
+**Delivery of Advertising and Other Content**
 
-**About cookies**
+In addition to ads and content that we serve you directly, we use third party advertising companies to serve ads and other content when you visit our Covered Sites and elsewhere on the internet and in other media. Both we and these companies may use information about your visits to this Covered Site and elsewhere to serve ads and other content to you. In the course of doing so, a unique third party cookie may be placed or recognized on your browser by such companies. Both YOGANONYMOUS and these companies may use information obtained from your visits to the Covered Sites, other websites, and information received from you offline in order to provide advertisements about goods and services and other content of interest to you across the internet and in other media.
 
-Cookies are information packets sent by web servers to web browsers, and stored by the web browsers.
+In addition, we may provide Personally Identifiable Information and Anonymous Information to marketing services companies. This may include information we received from you offline or online. These companies may combine information we provide (including Personally Identifiable Information and Anonymous Information) with personal and anonymous information they may have about you, using cookies they place or that we place on their behalf. We require these companies to delete the Personally Identifiable Information we provide them. These companies may use the resulting non-personal information and such cookies for their own marketing purposes, and they may provide the same to their customers for their customer’s marketing purposes.
 
-The information is then sent back to the server each time the browser requests a page from the server. This enables web servers to identify and track web browsers.
+**Right to Opt-Out**
 
-There are two main kinds of cookies: session cookies and persistent cookies. Session cookies are deleted from your computer when you close your browser, whereas persistent cookies remain stored on your computer until deleted, or until they reach their expiry date.
+**Marketing Provided by YOGANONYMOUS**. From time to time we may send you promotional materials on behalf of YOGANONYMOUS and/or third parties. If you want us to stop sending you promotional materials to your email, you may follow the unsubscribe instructions in the email or email us at info@yoganonymous.org.
 
-**Cookies on our website**
+**Exceptions**. If you have opted-out as described above, and thereafter you elect to use a service or promotion that requires us to contact you or share your information with a third party (e.g., you enter into a contest or sweepstakes or use an ecommerce service after opting-out), then your previous opt-out preferences will not apply to such service. Despite your indicated preferences, we may send you service related communications, including notices about your subscription, and we may continue disclosing your information to third parties under the Service Provider Exception, Legal Exceptions, and Acquisition Exception described above.
 
-Yoganonymous uses the following cookies on this website, for the following purposes:
+**Security of Your Personally Identifiable Information.** We use a variety of industry-standard security technologies and procedures to help protect your Personally Identifiable Information from unauthorized access, use, or disclosure. No method of transmission over the internet, or method of electronic storage, is 100% secure, however. Therefore, while YOGANONYMOUS uses reasonable efforts to protect your Personally Identifiable Information, YOGANONYMOUS cannot guarantee its absolute security.
 
-  * Google Analytics
+**Kids and Parents.** The Covered Sites are not intended for use by children, especially those under age 13. If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so. There are also commercially available tools to help you limit your children’s exposure to material online.
 
+**Non-U.S. Users.** If you are located outside of the United States, please note that the information you provide to us will be transferred to and processed in the United States, where laws regarding processing of your Personally Identifiable Information may be less stringent than the laws in your country. By using this Covered Site, you consent to this transfer and processing. You also consent to the adjudication of any disputes arising in connection with this Covered Site in the federal and state courts.
 
+**Changes to Our Privacy Policy.** We will occasionally update this Privacy Policy as necessary to protect our users and to comply with best practices employed by other publishers and regulatory organizations across the industry. We recommend that you check the Privacy Policy when you visit our web site to be sure that you are aware of and understand our current policy. If we make material changes to this policy, or in how we use or collect your Personally Identifiable Information, we will prominently post such changes prior to implementing the change. We will not make any retroactive material changes in how we handle previously collected personal information unless you allow us to do so, or unless we are legally required to do so, and in such a case we will e-mail registered web site visitors information on material changes to this Privacy Policy.
 
-**Third party cookies**
-
-When you use Yoganonymous website, you may also be sent the following third party cookies, which may be used for the following purposes:
-
-  * Google Analytics
-
-
-
-**Refusing cookies**
-
-Most browsers allow you to refuse to accept cookies.
-
-In Internet Explorer, you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector.
-
-In Firefox, you can adjust your cookies settings by clicking “Tools”, “Options” and “Privacy”.
-
-Blocking cookies will have a negative impact upon the usability of some websites.
+**Compliance With Legal Process.** We may disclose personal information (1) if we believe such sharing is appropriate to comply with the law or with the legal process; (2) to protect and defend our rights, services or property; (3) to protect against misuse or unauthorized use of the web site; or (4) to protect the safety or property of our users or any member of the public (among other things, this means that if we believe you have provided false information or attempted to pose as someone else, information about you may be disclosed as part of any investigation into your actions).
