@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transitionsabroad.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120132936id_/http%3A//www.transitionsabroad.com/information/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transitionsabroad.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041657id_/http%3A//www.transitionsabroad.com/information/privacy.shtml) for the most accurate reproduction.*
 
 # www.TransitionsAbroad.com Privacy Policy
 
