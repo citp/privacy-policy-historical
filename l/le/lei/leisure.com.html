@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the leisure.com privacy policy that was archived on 2014-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141220131426id_/http%3A//leisure.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the leisure.com privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608160206id_/http%3A//leisure.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -14,8 +14,14 @@
 
 
 
-	<script type="text/javascript" src="http://player.admedia.com/?site=8539&amp;widget300=1&amp;cat_id=17"></script>
+	<!--<script type="text/javascript" src="http://player.admedia.com/?site=8539&widget300=1&cat_id=4"></script>-->
 
+		<script type="text/javascript">
+			 function run() {
+				var search = document.forms["websearch"]["search"].value;
+				document.location.href= 'http://www.trovi.com/Results.aspx?GD=SY1000094&SearchSource=55&UM=8&q='+search;
+			}
+		</script>   
 </head>
 
 <body>	
@@ -37,11 +43,11 @@
         	
             <div id="creative-header-728">
        	    	<!-- Banner 728x90 -->
-				<iframe src="javascript:(function () {var goto = 'http://ib.msaex.com/?id=LD04LA&amp;size=728x90&amp;page_url=%5bencoded_page_url%5d&amp;r='+encodeURIComponent(parent.window.document.referrer)+'&amp;l='+encodeURIComponent(parent.window.document.location); this.location=goto; })()" width="728" height="90" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" allowtransparency="true"></iframe>
+				<iframe src="http://g.admedia.com/banner.php?type=graphical-iframe&amp;pid=2995784&amp;size=728x90&amp;page_url=[encoded_page_url]" width="728" height="90" frameborder="0" scrolling="no" allowtransparency="yes"></iframe>
 				<!-- Banner 728x90 -->
             </div>
             <div id="creative-header-300">
-       	    	<iframe src="javascript:(function () {var goto = 'http://ib.msaex.com/?id=LD04LA&amp;size=320x50&amp;page_url=%5bencoded_page_url%5d&amp;r='+encodeURIComponent(parent.window.document.referrer)+'&amp;l='+encodeURIComponent(parent.window.document.location); this.location=goto; })()" width="320" height="50" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" allowtransparency="true"></iframe>
+       	    	<iframe src="http://g.admedia.com/banner.php?type=graphical-iframe&amp;pid=2995784&amp;size=320x50&amp;page_url=[encoded_page_url]" width="320" height="50" frameborder="0" scrolling="no" allowtransparency="yes"></iframe>
             </div>
             
             <div id="navigation" class="clearfix">
@@ -64,6 +70,7 @@
                 <!-- --> 
                              
                 <div id="search-wrapper" class="retina">
+                <div class="web-search-tabs"><div id="site-search" class="on">Site Search</div><div id="web-search" class="off">Web Search</div></div>
                 	<form id="search-form" name="searchForm" action="http://leisure.com/search" method="get">
                         <div class="field-wrapper mr-10">
                         	<div class="search-title">find:</div>
@@ -76,6 +83,14 @@
                         	<a href="javascript: void();" onclick="document.searchForm.submit();" id="search-submit"><span class="ls-search"></span></a>
 							<input type="submit" name="sub" value="" style="display: none;">
                    </form>
+                	<form id="search-form-2" name="websearch" class="hide" onsubmit="run()" action="javascript:run();">
+                        <div class="field-wrapper mr-10">
+                        	<div class="search-title">web:</div>
+                    		<input type="text" name="search" id="search" class="leisure_field right" value="" onkeypress="return entsub(event,this.form)">
+                        </div>                    
+                        	<a href="javascript: run();" onclick="run()" id="search-submit"><span class="ls-search"></span></a>
+							<input type="submit" name="sub" value="" style="display: none;">
+                   </form> 
                 </div>
                 <div class="clear"></div>
             </div>
@@ -83,7 +98,8 @@
                 <div id="search-bar" class="search-bar-hide">
                 
                 <div id="search-wrapper" class="mobile">
-                	<form id="search-form-mobile" name="searchFormMobile" action="http://leisure.com/search" method="get">
+                <div class="web-search-tabs-m"><div id="site-search-m" class="on">Site Search</div><div id="web-search-m" class="off">Web Search</div></div>
+                	<form id="search-form-mobile" name="searchFormMobile" action="http://www.trovi.com/Results.aspx?GD=SY1000094&amp;SearchSource=55&amp;UM=8&amp;q=" method="get">
                         <div class="field-wrapper mr-10">
                         	<div class="search-title">find:</div>
                     		<input type="text" name="search" id="search" class="leisure_field right" value="" onkeypress="return entsub(event,this.form)">
@@ -95,6 +111,45 @@
                         	<a href="javascript: void();" onclick="document.searchFormMobile.submit();" id="search-submit-mobile"><span class="ls-search"></span></a>
 							<input type="submit" name="" value="" style="display: none;">
                    </form>
+                	<form id="search-form-mobile-2" name="searchFormMobile" action="http://www.trovi.com/Results.aspx?GD=SY1000094&amp;SearchSource=55&amp;UM=8&amp;q=" method="get" class="hide">
+                        <div class="field-wrapper mr-10">
+                        	<div class="search-title">web:</div>
+                    		<input type="text" name="search" id="search" class="leisure_field right" value="" onkeypress="return entsub(event,this.form)">
+                        </div>                    
+                    	<!--<div class="field-wrapper">
+                        	<div class="location-title">location:</div>
+                    		<input type="text" name="place" id="place" class="leisure_field left" value="Ashburn, VA" onkeypress="return entsub(event,this.form)">
+                        </div>-->
+                        	<a href="javascript: void();" onclick="document.searchFormMobile.submit();" id="search-submit-mobile"><span class="ls-search"></span></a>
+							<input type="submit" name="" value="" style="display: none;">
+                   </form>                   
+					<script>
+                        $("#site-search").click(function(){
+                            $("#site-search").removeClass("off").addClass("on");
+                            $("#web-search").removeClass("on").addClass("off");
+                            $("#search-form").removeClass("hide");
+                            $("#search-form-2").addClass("hide");
+                        });
+                        $("#web-search.off").click(function(){
+                            $("#web-search").removeClass("off").addClass("on");
+                            $("#site-search").removeClass("on").addClass("off");
+                            $("#search-form").addClass("hide");
+                            $("#search-form-2").removeClass("hide");
+                        });
+                        $("#site-search-m").click(function(){
+                            $("#site-search-m").removeClass("off").addClass("on");
+                            $("#web-search-m").removeClass("on").addClass("off");
+                            $("#search-form-mobile").removeClass("hide");
+                            $("#search-form-mobile-2").addClass("hide");
+                        });
+                        $("#web-search-m.off").click(function(){
+                            $("#web-search-m").removeClass("off").addClass("on");
+                            $("#site-search-m").removeClass("on").addClass("off");
+                            $("#search-form-mobile").addClass("hide");
+                            $("#search-form-mobile-2").removeClass("hide");
+                        });						
+						
+                    </script>
                    <div class="clear"></div>
                 </div>                
                 </div>
@@ -126,6 +181,7 @@
 
        	  <h2 class="header dark-grey">Leisure Privacy Policy</h2>
         	<p><strong>THE FOLLOWING PRIVACY STATEMENT DETAILS THE Leisure.COM PLEDGE TO KEEP YOUR INFORMATION PRIVATE.</strong>&nbsp;Any questions in regards to Leisure.com privacy practices should be sent via email to&nbsp;<a href="mailto:info@leisure.com">info@Leisure.com</a>.</p>
+            <p>Some of the web search services provided herein are provided by Trovi Search and powered by Trovi search partners. For information on the web search services data collection, please visit <a href="http://info.trovi.com/Privacy">http://info.trovi.com/Privacy</a>, and the search provider's privacy policy, as applicable.</p>
         	<h3>What type of information does Leisure.com collect?</h3>
         	<p>Leisure.com utilizes the cookie feature of your browser. Cookies, on their own, can't be used to identify you. The cookie feature of your browser can be turned off; simply locate your browser preference options. Keep in mind that disabling the cookie feature will prevent you from participating in certain activities.</p>
         	<p>Your IP address helps Leisure.com diagnose server problems and helps us administer website functions. IP addresses provide us with geographical information and aggregated information on how visitors utilize Leisure.com. By monitoring search queries, access times, and traffic patterns we can determine how to market users and make their experience more enjoyable.</p>
@@ -330,11 +386,11 @@
     <div class="footer-ads"> 
         <div id="creative-header-728">
             <!-- Banner 728x90 -->
-            <iframe src="javascript:(function () {var goto = 'http://ib.msaex.com/?id=LD04LA&amp;size=728x90&amp;page_url=%5bencoded_page_url%5d&amp;r='+encodeURIComponent(parent.window.document.referrer)+'&amp;l='+encodeURIComponent(parent.window.document.location); this.location=goto; })()" width="728" height="90" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" allowtransparency="true"></iframe>
+            <iframe src="http://g.admedia.com/banner.php?type=graphical-iframe&amp;pid=2995784&amp;size=728x90&amp;page_url=[encoded_page_url]" width="728" height="90" frameborder="0" scrolling="no" allowtransparency="yes"></iframe>
             <!-- Banner 728x90 -->
         </div>
         <div id="creative-header-300">
-            <iframe src="javascript:(function () {var goto = 'http://ib.msaex.com/?id=LD04LA&amp;size=320x50&amp;page_url=%5bencoded_page_url%5d&amp;r='+encodeURIComponent(parent.window.document.referrer)+'&amp;l='+encodeURIComponent(parent.window.document.location); this.location=goto; })()" width="320" height="50" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" allowtransparency="true"></iframe>
+            <iframe src="http://g.admedia.com/banner.php?type=graphical-iframe&amp;pid=2995784&amp;size=320x50&amp;page_url=[encoded_page_url]" width="320" height="50" frameborder="0" scrolling="no" allowtransparency="yes"></iframe>
         </div>
     </div>
 </div> 
@@ -371,8 +427,9 @@
            	  	  	<li><a href="http://leisure.com/privacy">Privacy Policy</a></li>
                 </ul> 
                 <ul class="mr-0 mb-0">
-                	<li class="hide-sm"><h4>&nbsp;</h4></li>
+                	
            	  	  	<li><a href="http://leisure.com/terms">Terms &amp; Conditions</a></li>
+                    <li><a href="http://leisure.com/contact">Contact Us</a></li>
                 </ul>                                                                      
             
             	<div class="clear"></div>
@@ -496,7 +553,7 @@
             
             	<div class="clear"></div>
                 
-                <span class="legal">© 2014 Leisure.com</span>
+                <span class="legal">© 2015 Leisure.com</span>
                 
             </div>
             
@@ -706,5 +763,8 @@
 		});
 	});*/	
 </script>
+    <script type="text/javascript" src="http://inline.admedia.com/?id=Mz4rOg&amp;vslider=0"></script>
+    <script type="text/javascript" src="http://of.admedia.com/?id=Mz4rOg"></script>
+    <script type="text/javascript" src="http://exitmonetization.com/js/?id=Mz4rOg"></script>
 
 </body></html>
