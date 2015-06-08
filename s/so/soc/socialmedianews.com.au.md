@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialmedianews.com.au privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229041430id_/http%3A//www.socialmedianews.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmedianews.com.au privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608213012id_/http%3A//www.socialmedianews.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,7 +60,6 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may [contact us](http://www.socialmedianews.com.au/contact)
 
-http://www.socialmedianews.com.au
-
+http://www.socialmedianews.com.au  
 Sydney  
 Australia
