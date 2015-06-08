@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the socialfresh.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202045722id_/http%3A//socialfresh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialfresh.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608121346id_/http%3A//www.socialfresh.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Social Fresh
+# Privacy Policy
 
 **Last Updated: December 15, 2011**
 
