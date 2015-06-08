@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the redflagdeals.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203214629id_/http%3A//www.redflagdeals.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redflagdeals.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608121542id_/http%3A//www.redflagdeals.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RedFlagDeals.com
 
-  * [Home](https://web.archive.org/)
-  * Privacy Policy
-
-
-
-Yellow Pages Group Co. and its affiliated companies (the **"Companies"** or **"we"** ) is firmly committed to the protection of your privacy. This policy outlines the Companies' practices with regards to the collection, use and disclosure of your personal information and the efforts we take to ensure that such information is properly protected. This Privacy Policy applies to our users and customers of our Companies, as applicable, and is also supplemented by the _Privacy Policy for use of the Yellow Pages Account_ which applies to the use of the Yellow Pages™ Account site. 
+Yellow Pages Digital & Media Solutions Limited and its affiliated companies (the **"Companies"** or **"we"** ) is firmly committed to the protection of your privacy. This policy outlines the Companies' practices with regards to the collection, use and disclosure of your personal information and the efforts we take to ensure that such information is properly protected. This Privacy Policy applies to our users and customers of our Companies, as applicable, and is also supplemented by the _Privacy Policy for use of the Yellow Pages Account_ which applies to the use of the Yellow Pages™ Account site. 
 
 ### Information Collection
 
@@ -84,7 +79,7 @@ Employee access to your personal information is strictly limited to those who ha
 
 **Storage of Personal Information**
 
- _Paper Files_
+_Paper Files_
 
 The Companies collect certain information in paper files, such as: name, street address, postal code, phone number, email address, credit card number, credit card expiry date, banking information and credit record. In order to protect these files, the Companies place them in a locked cabinet or a restricted area. 
 
@@ -153,7 +148,7 @@ Toll Free: 1-888-878-4044
 Email: [generalinfo@oipc.ab.ca](mailto:generalinfo@oipc.ab.ca)  
 Website: [http://www.oipc.ab.ca](http://www.oipc.ab.ca/)
 
- **British Colombia**
+**British Colombia**
 
 Information and Privacy Commissioner of British Columbia   
 756, Fort Road, 3rd Floor  
@@ -194,7 +189,7 @@ Telephone: (867) 669-0976
 Fax: (867) 920-2511  
 Email: [atippcomm@theedge.ca](mailto:atippcomm@theedge.ca)
 
- **Nova Scotia**
+**Nova Scotia**
 
 Nova Scotia Freedom of Information and Privacy Review Office  
 P.O. Box 181  
@@ -231,9 +226,9 @@ P.O. Box 2000
 Charlottetown, Prince Edward Island C1A 7N8  
 Telephone: (902) 368-4099  
 Email: [mlsmith@gov.pe.ca](mailto:mlsmith@gov.pe.ca)  
-Website: [www.oipc.pe.ca](https://web.archive.org/web/20141203214629id_/http%3A//www.redflagdeals.com/info/www.oipc.pe.ca)
+Website: [www.oipc.pe.ca](https://web.archive.org/web/20150608121542id_/http://www.redflagdeals.com/info/privacy/www.oipc.pe.ca)
 
- **Québec**
+**Québec**
 
 Commission d'accès à l'information du Québec  
 575 St. Amable Street  
@@ -244,7 +239,7 @@ Toll-free: 1 (888) 528-7741 (free within Québec)
 Email: [Cai.Communications@cai.gouv.qc.ca](mailto:Cai.Communications@cai.gouv.qc.ca)   
 Website:<http://www.cai.gouv.qc.ca/index-en.html>
 
- **Saskatchewan**
+**Saskatchewan**
 
 Office of the Information and Privacy Commissioner of Saskatchewan  
 503-1801 Hamilton Street  
@@ -253,7 +248,7 @@ Telephone: (306) 787-8350
 Email: [gdickson@oipc.sk.ca](mailto:gdickson@oipc.sk.ca)  
 Website: [http://www.oipc.sk.ca](http://www.oipc.sk.ca/)
 
- **Yukon**
+**Yukon**
 
 Office of the Yukon Ombudsman and Information and Privacy Commissioner   
 211 Hawkins Street, Suite 201  
