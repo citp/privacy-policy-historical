@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshmonk.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925193303id_/http%3A//www.freshmonk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshmonk.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608054030id_/http%3A//www.freshmonk.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FreshMonk
 
@@ -101,7 +101,7 @@ You can log in to our site using sign-in services such as Facebook Connect or an
 
 #### **Testimonials**
 
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [support@freshmonk.com](mailto:support@freshmonk.com)
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [hello@freshmonk.com](mailto:hello@freshmonk.com)
 
   
 
@@ -116,20 +116,14 @@ We may update this privacy policy to reflect changes to our information practice
 #### **Contact Information:**
 
 FreshMonk  
-91 Design Labs Private Limited.  
-Email: [support@freshmonk.com](mailto:support@freshmonk.com)  
-Telephone: +91 9910777684, +91 9899102353  
-
+91 Design Labs Pte Ltd.  
+Email: [hello@freshmonk.com](mailto:hello@freshmonk.com)  
+Telephone: 011 4132 2805br>
 
 _Corporate Address:_   
-FF-23, Ansal's Fortune Arcade  
-Sector 18, Noida  
-201301, U.P.   
-|  _Registered Address:_   
-P-75, First Floor  
-South Extension - II  
-New Delhi 110049  
-  
----|---  
-  
-_Updated March 1st, 2014_
+10 Anson Road  
+#26-04, International Plaza  
+Singapore 079903  
+
+
+_Updated January 1st, 2015_
