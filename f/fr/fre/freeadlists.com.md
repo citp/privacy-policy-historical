@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeadlists.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030063523id_/http%3A//www.freeadlists.com/free-classified-ads-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeadlists.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608050559id_/http%3A//www.freeadlists.com/free-classified-ads-policy) for the most accurate reproduction.*
 
 # American classifieds - Post free classified ads - Classifieds all over the world
 
