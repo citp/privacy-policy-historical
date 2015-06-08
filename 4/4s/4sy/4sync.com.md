@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4sync.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922200600id_/https%3A//en.4sync.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4sync.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608055627id_/https%3A//en.4sync.com/privacy.jsp) for the most accurate reproduction.*
 
 # 4Sync - Privacy
 
@@ -9,7 +9,7 @@ This privacy policy (" **Policy** ") explains how personally identifiable inform
 
 We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on this Policy the date it was last updated. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to review this Policy from time-to-time to make sure that you understand how any personally identifiable information you provide to us or collected about you will be used.
 
-4Sync Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@4sync.com](mailto:support@4sync.com) or 2670 Leavenworth, San Francisco, California. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe certification does not cover information that may be collected through software downloaded from the site.
+4Sync Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact our [support](https://web.archive.org/web/helpCenter) or contact us at 2670 Leavenworth, San Francisco, California. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe certification does not cover information that may be collected through software downloaded from the site.
 
 ## What Is Personal Information?
 
@@ -65,9 +65,9 @@ We are not responsible for the actions of Service Providers or other third-parti
 
 ## Access to Personally Identifiable Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update or delete it by making the change on our member information page or by emailing our Customer Support at [support@4sync.com](mailto:support@4sync.com). We will respond to your request to access within 30 days.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update or delete it by making the change on our member information page or [contact](https://web.archive.org/web/helpCenter) our support. We will respond to your request to access within 30 days.
 
-If you wish to request the deletion of an unauthorized profile you may contact us at [support@4sync.com](mailto:support@4sync.com).
+If you wish to request the deletion of an unauthorized profile you may [contact](https://web.archive.org/web/helpCenter) our support.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -77,7 +77,7 @@ If you choose to send a link through the "Share" function to a friend who is not
 
 ## Open Blogs
 
-We may offer publicly accessible blogs our Service. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [support@4sync.com](mailto:support@4sync.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+We may offer publicly accessible blogs our Service. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, please [contact](https://web.archive.org/web/helpCenter) us. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ## Links to Other Websites
 
@@ -85,7 +85,7 @@ The Service may contain links to other websites. Any personally identifiable inf
 
 ## What Steps Do We Take To Protect Your Information Online?
 
-We take reasonable measures to protect your personally identifiable information in an effort to prevent loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can guarantee against any interception or any other type of misuse. To assist with the protection of personally identifiable information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of the Service and Apps by any person using your password. Please advise us immediately if you believe your password has been misused. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [support@4sync.com](mailto:support@4sync.com).
+We take reasonable measures to protect your personally identifiable information in an effort to prevent loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can guarantee against any interception or any other type of misuse. To assist with the protection of personally identifiable information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of the Service and Apps by any person using your password. Please advise us immediately if you believe your password has been misused. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can [contact](https://web.archive.org/web/helpCenter) us.
 
 ## Advertising
 
@@ -101,10 +101,10 @@ Our Service includes Social Media Features, such as the Facebook Like button and
 
 ## What Choices Do You Have Regarding the Use of Your Information?
 
-You may "opt out" of receiving marketing or promotional emails from us by following the instructions in those emails. You may also opt out of such marketing emails by following the instructions within such emails or emailing us at [support@4sync.com](mailto:support@4sync.com). You may also log into your account and make the appropriate selections in the "communications" tab in the "settings" menu. If you opt out, we may still send you non-promotional emails, such as emails about your account or our ongoing business relations.
+You may "opt out" of receiving marketing or promotional emails from us by following the instructions in those emails. You may also opt out of such marketing emails by following the instructions within such emails or [contact](https://web.archive.org/web/helpCenter) our support. You may also log into your account and make the appropriate selections in the "communications" tab in the "settings" menu. If you opt out, we may still send you non-promotional emails, such as emails about your account or our ongoing business relations.
 
 ## Questions?
 
-If you have any questions about this Policy, please contact us at [support@4sync.com](mailto:support@4sync.com) or via postal mail at or via postal mail at [4sync.com](http://www.4sync.com/), 2670 Leavenworth St., Ste. #E, San Francisco, CA 94109.
+If you have any questions about this Policy, please contact our [support](https://web.archive.org/web/helpCenter) or contact us via postal mail at [4sync.com](http://www.4sync.com/), 2670 Leavenworth St., Ste. #E, San Francisco, CA 94109.
 
 [ ](https://privacy.truste.com/privacy-seal/New-It-Solutions-LTD-/validation?rid=02b5d674-662b-4fff-8284-cb08d1345af4 "TRUSTe online privacy certification")
