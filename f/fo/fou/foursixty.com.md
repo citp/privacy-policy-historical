@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foursixty.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106131247id_/http%3A//foursixty.com/460/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foursixty.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608084249id_/http%3A//foursixty.com/460/privacy) for the most accurate reproduction.*
 
 # Foursixty >> Privacy Policy
 
