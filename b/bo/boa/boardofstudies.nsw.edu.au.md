@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boardofstudies.nsw.edu.au privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121011654id_/http%3A//www.boardofstudies.nsw.edu.au/administration/privacy_plan.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boardofstudies.nsw.edu.au privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608031338id_/http%3A//www.boardofstudies.nsw.edu.au/administration/privacy_plan.html) for the most accurate reproduction.*
 
 # Privacy Management Plan - Board of Studies Teaching and Educational Standards NSW
 
@@ -75,7 +75,7 @@ The **Office of the Board of Studies** (OBOS) is a department under the _Public 
 
 The Board of Studies and the Office of the Board of Studies are portfolio responsibilities of the Minister for Education.
 
-The branches of the OBOS and their key functions are described in the Board’s Annual Reports. The latest [Annual Report](https://web.archive.org/administration/annual-report.html) is available on the Board’s website (www.boardofstudies.nsw.edu.au/administration/annual-report.html).
+The branches of the OBOS and their key functions are described in the Board’s Annual Reports. The latest [Annual Report](https://web.archive.org/about/annual-report.html) is available on the Board’s website (www.boardofstudies.nsw.edu.au/about/annual-report.html).
 
 ## Why we have a Privacy Management Plan
 
