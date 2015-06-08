@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the luluguinness.com privacy policy that was archived on 2014-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141221004958id_/http%3A//www.luluguinness.com/security/privacy-cookie-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the luluguinness.com privacy policy that was archived on 2015-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150609002641id_/http%3A//www.luluguinness.com/security/privacy-cookie-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">	
@@ -19,9 +19,9 @@
 //]]>
 </script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://www.luluguinness.com/media/css/e0f5f4a49945f596ccc3528392899831.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.luluguinness.com/media/css/9cf45ec4bfe8eb6e703ff37c490ecb5f.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.luluguinness.com/media/css/542049bba8b0a7b43aaf53a5866a0c84.css" media="print">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.luluguinness.com/media/js/a344ad79d02cc3d590f18d7d58469cdc.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.luluguinness.com/media/js/c9db318f7eebb115408a5e7bc1fd640b.js"></script>
 <script type="text/javascript" src="//use.typekit.net/biz3vaq.js"></script>
 <!--[if lt IE 8]>
 <link rel="stylesheet" type="text/css" href="http://www.luluguinness.com/media/css/46e7e3b425977699720b135caa517a36.css" media="all" />
@@ -48,19 +48,78 @@ Mage.Cookies.domain   = '.luluguinness.com';
 optionalZipCountries = ["HK","IE","MO","PA","QA","LC","SA","SC","ZA","AE"];
 //]]>
 </script>
-<link rel="alternate" type="application/rss+xml" title="Lulu Loves - RSS Feed" href="http://www.luluguinness.com/world//feed">
+            <!-- BEGIN GOOGLE ANALYTICS CODE -->
+        <script type="text/javascript">
+        //<![CDATA[
+            var _gaq = _gaq || [];
+            
+_gaq.push(['_setAccount', 'UA-2007159-1']);
+
+_gaq.push(['_trackPageview']);
+            
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+        //]]>
+        </script>
+        <!-- END GOOGLE ANALYTICS CODE -->
+    
+
+<script type="text/javascript">
+    //Email Capture For Quote
+
+    var emailCapture = Class.create();
+    emailCapture.prototype = {
+        initialize: function(options) {
+            this.options = Object.extend({
+                elements: "input[name='billing[email]']"
+            }, options || {} );
+
+            // Observe blur on email field
+            $$(this.options.elements).each(function(email) {
+                Event.observe(email,'blur',this.captureEmail.bindAsEventListener(this));
+            }.bind(this));
+        },
+
+        //capture email
+        captureEmail: function(event) {
+            var el = $(Event.element(event));
+            //validate email
+            if(el.value && this.validateEmail(el.value)){
+                //ajax call
+                new Ajax.Request('https://www.luluguinness.com/' + 'connector/ajax/emailcapture', {
+                    method: 'post',
+                    parameters:{
+                        email:el.value
+                    }
+                });
+            }
+        },
+
+        //email validation
+        validateEmail: function (email) {
+            var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+            return re.test(email);
+        }
+    };
+</script><link rel="alternate" type="application/rss+xml" title="Lulu Loves - RSS Feed" href="http://www.luluguinness.com/world//feed">
 			
 			<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 			
 					<script type="text/javascript">//<![CDATA[
-        var Translator = new Translate({"Please enter a valid email address. For example johndoe@domain.com.":"Please enter a valid email address."});
-        //]]></script><script type="text/javascript">
+        var Translator = new Translate({"Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.":"Please enter a valid phone number, e.g. 0207 123 4567","Please enter a valid email address. For example johndoe@domain.com.":"Please enter a valid email address.","Please enter a valid URL. For example http:\/\/www.example.com or www.example.com":"Please enter a valid URL. For example http:\/\/www.example.co.uk or www.example.co.uk","Please enter a valid zip code. For example 90602 or 90602-1234.":"Please enter a valid postcode. e.g. W1N 4DJ","Please enter a valid zip code.":"Please enter a valid postcode.","Please use this date format: dd\/mm\/yyyy. For example 17\/03\/2006 for the 17th of March, 2006.":"Please use this date format: dd\/mm\/yyyy.","Please select State\/Province.":"Please select county\/region.","Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.":"Your order cannot be completed as there is no delivery method available for it. Please make necessary changes in your delivery address.","Add to Cart":"Add to Bag","Add to Wishlist":"Add to Love List"});
+        //]]></script><!--
+<script type="text/javascript">
 jQuery(document).ready(function(){
     jQuery(".mobile #homepage-megamenu-category-4 a, #header-mobile-menu #header-mobile-menu-category-4 a").attr('href', function() { 
         return this.href + "-mobile"; 
     }); 
 });
-</script><link rel="stylesheet" type="text/css" href="//fast.fonts.com/cssapi/3ef6a473-86e0-4c21-8abc-dbb9cdc1f6cc.css">
+</script>
+--><link rel="stylesheet" type="text/css" href="//fast.fonts.com/cssapi/3ef6a473-86e0-4c21-8abc-dbb9cdc1f6cc.css">
 <!-- Start of Yieldify Code -->
 <script>
 (function(d) {
@@ -69,31 +128,11 @@ e.src = d.location.protocol + '//app.yieldify.com/yieldify/code.js?yieldify_id=1
 e.async = true;
 d.getElementsByTagName("head")[0].appendChild(e);
 }(document));
-</script><script src="https://app.yieldify.com/yieldify/code.js?yieldify_id=1636&amp;loca=https://web.archive.org/web/20141221004958id_/http%3A//www.luluguinness.com/security/privacy-cookie-policy" async=""></script>
+</script><script src="https://app.yieldify.com/yieldify/code.js?yieldify_id=1636&amp;loca=https://web.archive.org/web/20150609002641id_/http://www.luluguinness.com/security/privacy-cookie-policy/" async=""></script>
 <!-- End of Yieldify Code --></head>
 
 <body class=" cms-page-view cms-privacy-cookie-policy">
-	<!-- BEGIN GOOGLE ANALYTICS CODEs -->
-<script type="text/javascript">
-//<![CDATA[
-
-	var _gaq = _gaq || [];
-
-
-	
-_gaq.push(['_setAccount', 'UA-15139609-1']);
-_gaq.push(['_trackPageview']);
-	
-	(function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	})();
-
-//]]>
-</script>
-<!-- END GOOGLE ANALYTICS CODE -->
-	<div class="wrapper">
+		<div class="wrapper">
 		    <noscript>
         <div class="global-site-notice noscript">
             <div class="notice-inner">
@@ -109,8 +148,8 @@ _gaq.push(['_trackPageview']);
 		<div class="left mobile mobile-link mobile-menu-toggle"><a href="http://www.luluguinness.com/">Menu</a></div>
 		<div class="left website-select desktop"><div class="website-selector">
 	<ul>
-		<li><a href="#" class="current">USA</a></li>
-		<li><a href="http://www.luluguinness.com/redirect/visitor/to/website/uk/">UK</a></li>
+		<li><a href="#" class="current">UK</a></li>
+		<li><a href="http://www.luluguinness.com/redirect/visitor/to/website/usa/">USA</a></li>
 	</ul>
 </div>
 </div>
@@ -129,7 +168,7 @@ _gaq.push(['_trackPageview']);
 				<a href="http://www.luluguinness.com/checkout/cart/">My Bag <span>0</span></a>
 	</div>
 	<div class="cart-items">
-				<p class="cart-empty">You have no items in your shopping bag.</p>
+				<p class="cart-empty">You have no items in your bag.</p>
 	</div>
 </div>
 <script type="text/javascript">
@@ -205,9 +244,6 @@ jQuery(document).ready(function()
 <div class="mobile header-mobile-nav of-hidden">
 	<div class="content nav-container mobile" id="header-mobile-menu">
 	<ul class="nav nav-first">
-		<li id="header-mobile-menu-category-74" class="top has-arrow">
-			<a href="http://www.luluguinness.com/gift-guide">Gift Guide<span class="arrow"></span></a>
-		</li>
 		<li id="header-mobile-menu-category-112" class="top has-arrow">
 			<a href="http://www.luluguinness.com/handbags">Handbags<span class="arrow"></span></a>
 		</li>
@@ -226,9 +262,6 @@ jQuery(document).ready(function()
 		<li id="header-mobile-menu-category-5" class="top has-arrow">
 			<a href="http://www.luluguinness.com/collections">Collections<span class="arrow"></span></a>
 		</li>
-		<li id="header-mobile-menu-category-148" class="top">
-			<a href="http://www.luluguinness.com/archive">Archive<span class="arrow"></span></a>
-		</li>
 		<li class="lulus-world" id="header-mobile-menu-lulus-world">
 			<a href="http://www.luluguinness.com/world/" class="acta-display">Lulu Loves</a>
 		</li>
@@ -240,9 +273,9 @@ jQuery(document).ready(function()
 <div class="website-selector">
 	<ul>
 		<!--
-		<li>On USA website</li>
+		<li>On UK website</li>
 		-->
-		<li><a href="http://www.luluguinness.com/redirect/visitor/to/website/uk/">Change to UK website</a></li>
+		<li><a href="http://www.luluguinness.com/redirect/visitor/to/website/usa/">Change to USA website</a></li>
 	</ul>
 </div>
 </div>
@@ -260,9 +293,6 @@ jQuery(document).ready(function()
 <div class="header-nav of-hidden">
 	<div class="content nav-container desktop" id="header-nav">
 	<ul class="nav nav-first">
-		<li id="header-nav-category-74" class="top has-arrow">
-			<a href="http://www.luluguinness.com/gift-guide">Gift Guide<span class="arrow"></span></a>
-		</li>
 		<li id="header-nav-category-112" class="top has-arrow">
 			<a href="http://www.luluguinness.com/handbags">Handbags<span class="arrow"></span></a>
 		</li>
@@ -281,37 +311,25 @@ jQuery(document).ready(function()
 		<li id="header-nav-category-5" class="top has-arrow">
 			<a href="http://www.luluguinness.com/collections">Collections<span class="arrow"></span></a>
 		</li>
-		<li id="header-nav-category-148" class="top">
-			<a href="http://www.luluguinness.com/archive">Archive<span class="arrow"></span></a>
-		</li>
 		<li class="lulus-world" id="header-nav-lulus-world">
 			<a href="http://www.luluguinness.com/world/" class="acta-display">Lulu Loves</a>
 		</li>
 	</ul>
-	<ul class="nav nav-second" id="header-nav-parent-category-74">
-		<li class="nav-arrow"></li>
-		<li id="header-nav-category-161"><a href="http://www.luluguinness.com/gift-guide/stocking-stuffers-us">Stocking Stuffers</a></li>
-		<li id="header-nav-category-162"><a href="http://www.luluguinness.com/gift-guide/gifts-under-150-us">Gifts under $150</a></li>
-		<li id="header-nav-category-163"><a href="http://www.luluguinness.com/gift-guide/gifts-under-300-us-219">Gifts under $300</a></li>
-		<li id="header-nav-category-166"><a href="http://www.luluguinness.com/gift-guide/most-desired-us">Most Desired</a></li>
-		<li id="header-nav-category-167"><a href="http://www.luluguinness.com/gift-guide/lulus-edit-us">Lulu's Edit</a></li>
-	</ul>
 	<ul class="nav nav-second" id="header-nav-parent-category-112">
 		<li class="nav-arrow"></li>
 		<li id="header-nav-category-113"><a href="http://www.luluguinness.com/handbags/all-bags">All Bags</a></li>
-		<li id="header-nav-category-132"><a href="http://www.luluguinness.com/handbags/backpacks">Backpacks</a></li>
 		<li id="header-nav-category-114"><a href="http://www.luluguinness.com/handbags/shoulder">Shoulder</a></li>
+		<li id="header-nav-category-132"><a href="http://www.luluguinness.com/handbags/backpacks">Backpacks</a></li>
 		<li id="header-nav-category-115"><a href="http://www.luluguinness.com/handbags/cross-body">Cross Body</a></li>
 		<li id="header-nav-category-116"><a href="http://www.luluguinness.com/handbags/handheld">Handheld</a></li>
-		<li id="header-nav-category-117"><a href="http://www.luluguinness.com/handbags/totes">Totes</a></li>
+		<li id="header-nav-category-117"><a href="http://www.luluguinness.com/handbags/shoppers">Shoppers</a></li>
 	</ul>
 	<ul class="nav nav-second" id="header-nav-parent-category-7">
 		<li class="nav-arrow"></li>
 		<li id="header-nav-category-41"><a href="http://www.luluguinness.com/clutches/all-clutches">All Clutches</a></li>
-		<li id="header-nav-category-30"><a href="http://www.luluguinness.com/clutches/lips-clutches">Lips Clutches</a></li>
 		<li id="header-nav-category-31"><a href="http://www.luluguinness.com/clutches/novelty-clutches">Novelty Clutches</a></li>
+		<li id="header-nav-category-30"><a href="http://www.luluguinness.com/clutches/lips-clutches">Lips Clutches</a></li>
 		<li id="header-nav-category-29"><a href="http://www.luluguinness.com/clutches/box-clutches">Box Clutches</a></li>
-		<li id="header-nav-category-69"><a href="http://www.luluguinness.com/clutches/oversized-clutches">Oversized Clutches</a></li>
 	</ul>
 	<ul class="nav nav-second" id="header-nav-parent-category-8">
 		<li class="nav-arrow"></li>
@@ -331,21 +349,20 @@ jQuery(document).ready(function()
 	<ul class="nav nav-second" id="header-nav-parent-category-10">
 		<li class="nav-arrow"></li>
 		<li id="header-nav-category-45"><a href="http://www.luluguinness.com/accessories/all-accessories">All Accessories</a></li>
+		<li id="header-nav-category-23"><a href="http://www.luluguinness.com/accessories/keyrings">Keyrings</a></li>
 		<li id="header-nav-category-21"><a href="http://www.luluguinness.com/accessories/umbrellas">Umbrellas</a></li>
 		<li id="header-nav-category-46"><a href="http://www.luluguinness.com/accessories/cosmetic-bags">Cosmetic Bags</a></li>
 		<li id="header-nav-category-47"><a href="http://www.luluguinness.com/accessories/technology">Technology</a></li>
 	</ul>
 	<ul class="nav nav-second" id="header-nav-parent-category-5">
 		<li class="nav-arrow"></li>
-		<li id="header-nav-category-168"><a href="http://www.luluguinness.com/collections/a-touch-of-sparkle">A Touch of Sparkle</a></li>
-		<li id="header-nav-category-150"><a href="http://www.luluguinness.com/collections/an-eye-for-an-eye">An Eye For An Eye</a></li>
-		<li id="header-nav-category-118"><a href="http://www.luluguinness.com/collections/abstract-lip">Abstract Lip</a></li>
+		<li id="header-nav-category-176"><a href="http://www.luluguinness.com/collections/fiesta">Fiesta</a></li>
+		<li id="header-nav-category-180"><a href="http://www.luluguinness.com/collections/disco-brights">Disco Brights</a></li>
+		<li id="header-nav-category-174"><a href="http://www.luluguinness.com/collections/milan-weave">Milan Weave</a></li>
+		<li id="header-nav-category-175"><a href="http://www.luluguinness.com/collections/the-new-classics">The New Classics</a></li>
+		<li id="header-nav-category-173"><a href="http://www.luluguinness.com/collections/new-face">New Face</a></li>
 		<li id="header-nav-category-126"><a href="http://www.luluguinness.com/collections/perfectly-polished">Perfectly Polished</a></li>
-		<li id="header-nav-category-152"><a href="http://www.luluguinness.com/collections/all-abstract">All Abstract</a></li>
-		<li id="header-nav-category-146"><a href="http://www.luluguinness.com/collections/surreal-deal">Surreal Deal</a></li>
-		<li id="header-nav-category-134"><a href="http://www.luluguinness.com/collections/return-of-the-70s">Return of the 70's</a></li>
-		<li id="header-nav-category-133"><a href="http://www.luluguinness.com/collections/cut-it-out">Cut It Out</a></li>
-		<li id="header-nav-category-131"><a href="http://www.luluguinness.com/collections/cobalt-crazy">Cobalt Crazy</a></li>
+		<li id="header-nav-category-118"><a href="http://www.luluguinness.com/collections/abstract-lip">Abstract Lip</a></li>
 	</ul>
 </div>
 </div>
@@ -506,7 +523,7 @@ jQuery(document).ready(function()
 //]]>
 </script>
 </div>
-				<div class="w20pc left content sidebar invert-underline">    <ul class="cms-menu"><li class="parent"><a href="http://www.luluguinness.com/security"><span>Security</span></a><ul><li><span class="current">Privacy &amp; Cookie Policy</span></li><li><a href="http://www.luluguinness.com/security/terms-us-ca"><span>Terms &amp; Conditions</span></a></li><li><a href="http://www.luluguinness.com/security/secure-shopping"><span>Secure Shopping</span></a></li></ul></li></ul></div>
+				<div class="w20pc left content sidebar invert-underline">    <ul class="cms-menu"><li class="parent"><a href="http://www.luluguinness.com/security"><span>Security</span></a><ul><li><span class="current">Privacy &amp; Cookie Policy</span></li><li><a href="http://www.luluguinness.com/security/terms-uk-europe-world"><span>Terms &amp; Conditions </span></a></li><li><a href="http://www.luluguinness.com/security/secure-shopping"><span>Secure Shopping</span></a></li></ul></li></ul></div>
 			</div>
 		</div>
 				<div class="footer cb">
@@ -542,9 +559,6 @@ $('newsletter-validate-detail').observe('click', function(event) {
 //]]>
 </script>	<div class="content nav-container desktop" id="footer-nav">
 	<ul class="nav nav-first">
-		<li id="footer-nav-category-74" class="top has-arrow">
-			<a href="http://www.luluguinness.com/gift-guide">Gift Guide<span class="arrow"></span></a>
-		</li>
 		<li id="footer-nav-category-112" class="top has-arrow">
 			<a href="http://www.luluguinness.com/handbags">Handbags<span class="arrow"></span></a>
 		</li>
@@ -562,9 +576,6 @@ $('newsletter-validate-detail').observe('click', function(event) {
 		</li>
 		<li id="footer-nav-category-5" class="top has-arrow">
 			<a href="http://www.luluguinness.com/collections">Collections<span class="arrow"></span></a>
-		</li>
-		<li id="footer-nav-category-148" class="top">
-			<a href="http://www.luluguinness.com/archive">Archive<span class="arrow"></span></a>
 		</li>
 		<li class="lulus-world" id="footer-nav-lulus-world">
 			<a href="http://www.luluguinness.com/world/" class="acta-display">Lulu Loves</a>
@@ -598,16 +609,17 @@ $('newsletter-validate-detail').observe('click', function(event) {
 </ul>
 <ul>
 <li>About Us</li>
-<li><a href="http://www.luluguinness.com/stores/new-york/">Stores</a></li>
+<li><a href="http://www.luluguinness.com/stores/london/">Stores</a></li>
 <li><a href="http://www.luluguinness.com/about-us/company-history/">Company History</a></li>
 <li><a href="http://www.luluguinness.com/about-us/affiliates/">Affiliates</a></li>
 <li><a href="http://www.luluguinness.com/world/press/">Press</a></li>
 <li><a href="http://www.luluguinness.com/about-us/trade-enquiries/">Trade Enquiries</a></li>
+<li><a href="http://www.luluguinness.com/about-us/careers/">Careers</a></li>
 </ul>
 <ul>
 <li>Security</li>
 <li><a href="http://www.luluguinness.com/security/privacy-cookie-policy/">Privacy &amp; Cookie Policy</a></li>
-<li><a href="http://www.luluguinness.com/security/terms-us-ca/">Terms &amp; Conditions</a></li>
+<li><a href="http://www.luluguinness.com/security/terms-uk-europe-world/">Terms &amp; Conditions</a></li>
 <li><a href="http://www.luluguinness.com/security/secure-shopping" target="_self">Secure Shopping</a></li>
 </ul>			</div>
 			<div class="footer-follow of-hidden">
@@ -627,7 +639,9 @@ $('newsletter-validate-detail').observe('click', function(event) {
 	</div>
 </div>
 <!-- &copy; 2012 Lulu Guiness -->
-		<script type="text/javascript">
+		
+
+<script type="text/javascript">
 //<![CDATA[
 
 function dismissCookiepop( cookiename, expiry, a )
@@ -708,12 +722,12 @@ var cookieExpiryLength = '365';
 			<h2>Please choose your location</h2>
 		</div>
 										<p>
-				<button type="button" class="button dark-button" onclick="dismissCookiepopAndRedirectToStore('http://www.luluguinness.com/redirect/visitor/to/website/uk/')">
+				<button type="button" class="button dark-button close">
 					UK &amp; REST OF WORLD					<span class="sub">(GBP)</span>
 				</button>
 			</p>
 										<p>
-				<button type="button" class="button dark-button close">
+				<button type="button" class="button dark-button" onclick="dismissCookiepopAndRedirectToStore('http://www.luluguinness.com/redirect/visitor/to/website/usa/')">
 					US &amp; CANADA					<span class="sub">(USD)</span>
 				</button>
 			</p>
@@ -743,9 +757,10 @@ jQuery(document).ready(function() {
 
 //]]>
 </script>
+
 <script type="text/javascript">
 //<![CDATA[
-	var google_conversion_id = 1021585665;
+	var google_conversion_id = 1061197431;
 	var google_custom_params = {"ecomm_prodid":"","ecomm_pagetype":"other","ecomm_totalvalue":""};
 	var google_remarketing_only = true;
 //]]>
@@ -753,9 +768,18 @@ jQuery(document).ready(function() {
 <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
 <noscript>
 <div style="display:inline;">
-	<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1021585665/?guid=ON&amp;script=0&amp;value=0" />
+	<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1061197431/?guid=ON&amp;script=0&amp;value=0" />
 </div>
 </noscript>
+
+
+
+<!-- Locayta Click Tracking -->
+<script type="text/javascript">
+    LocaytaTracking.initialiseClickTracking();
+</script>
+<!-- End of Locayta Click Tracking -->
+
 <script src="//config1.veinteractive.com/tags/96652E4B/6B26/4AED/8FEE/456E0E3E6AA1/tag.js" type="text/javascript" async=""></script>
 <script type="text/javascript">
 //<![CDATA[
