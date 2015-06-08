@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smcvt.edu privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220182310id_/http%3A//www.smcvt.edu/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smcvt.edu privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608023615id_/http%3A//www.smcvt.edu/pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Saint Michael's College
 
@@ -14,7 +14,7 @@ In the course of ensuring network security and consistent service for all users,
 
 ### Web Visit Logs
 
-College websites routinely collect and store information from online visitors to help manage those sites and improve service. This information includes the pages visited on the site, the date and time of the visit, the Internet address (URL or IP address) of the referring site, the domain name and IP address from which the access occurred, the version of browser used and the capabilities of the browser, and Google Analytics Demographics and Interest Reporting. We may be notified if you reach this site via advertising campaign. This site makes no attempt to identify individual visitors from this information. Using the [Ads Settings](https://www.google.com/settings/ads), visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
+College websites routinely collect and store information from online visitors to help manage those sites and improve service. This information includes the pages visited on the site, the date and time of the visit, the Internet address (URL or IP address) of the referring site, the domain name and IP address from which the access occurred, the version of browser used and the capabilities of the browser, and Google Analytics Demographics and Interest Reporting, Remarketing, GDN Impression Reporting, and DoubleClick Campaign Manager integration. We may be notified if you reach this site via advertising campaign. This site makes no attempt to identify individual visitors from this information. Using the [Ads Settings](https://www.google.com/settings/ads), visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
 
 ### Cookies
 
