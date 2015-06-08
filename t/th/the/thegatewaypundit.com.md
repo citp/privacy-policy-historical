@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thegatewaypundit.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214093913id_/http%3A//www.thegatewaypundit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegatewaypundit.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608095921id_/http%3A//www.thegatewaypundit.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Gateway Pundit
+# Privacy Policy - The Gateway Pundit
 
 To help you understand how information submitted will be treated when you log on to and use our web site, The Gateway Pundit Online (www.TheGatewayPundit.com) offers this Privacy Policy. Use of the TheGatewayPundit.com web site, and disclosure to us of your personal information, is optional and voluntary. By visiting TheGatewayPundit.com, you are accepting and agreeing to the practices described in this Policy. The following paragraphs describe the type of information TheGatewayPundit.com collects, the reasons why such information is collected, how such information is used and who has access to it.
 
