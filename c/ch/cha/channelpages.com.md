@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the channelpages.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117020912id_/http%3A//channelpages.com/meta/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelpages.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609001810id_/http%3A//channelpages.com/meta/privacy) for the most accurate reproduction.*
 
 # Channel Pages Privacy Policy
+
+## Channel Pages Privacy Policy
 
 ### What information do we collect?
 
@@ -52,9 +54,9 @@ Because we value your privacy we have taken the necessary precautions to be in c
 
 As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their account and updating the previously collected information. 
 
-### Childrens Online Privacy Protection Act Compliance
+### Children's Online Privacy Protection Act Compliance
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
+We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
 
 ### Terms and Conditions
 
@@ -79,3 +81,15 @@ http://www.ChannelPages.com
 New York, New York 10001  
 USA  
 hello@channelpages.com 
+
+Close
+
+## Connect Your YouTube Channel
+
+To securely verify your info, please sync your channel’s YouTube account with Channel Pages. 
+
+**Why do we ask for the “Manage Account” permission?**
+
+As a **YouTube Certified Partner** , we are held to the highest security standard required by YouTube, and ask for this permission so that actions you (and only you) take are easy and secure. 
+
+Sync Now 
