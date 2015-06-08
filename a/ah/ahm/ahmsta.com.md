@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahmsta.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022115126id_/http%3A//www.ahmsta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahmsta.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608033909id_/http%3A//www.ahmsta.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ahmsta – Technology News, HowTo, Blogging, Review, Online Business
 
@@ -37,3 +37,5 @@ If you wish to disable cookies, you may do so through your individual browser op
 Thank you.
 
 Ahmsta D’great
+
+## Tell us how can we improve this post? 
