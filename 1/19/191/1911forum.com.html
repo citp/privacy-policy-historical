@@ -1,64 +1,624 @@
-<!--The following is the downloaded HTML source of the 1911forum.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625045749id_/http%3A//www.1911forum.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 1911forum.com privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608114513id_/http%3A//forums.1911forum.com/faq.php%3Ffaq%3Dprivacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>1911Forum.com - 1911 community, news, reviews, and more!</title>
-<meta http-equiv="Content-type" content="text/html;charset=ISO-8859-1"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgEOVlNVGwAGXVhUBAk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-<meta name="description" content="Model 1911 Pistol Discussion Forum. News, reviews, and information for M1911 owners and enthusiasts.">
-<meta name="keywords" content="1911,1911forum,pistol,Colt,Kimber,Para Ordnance,Springfield Armory,John Browning,guns,firearms,military,shooting,.45,acp">
-<link href="stylesheet.css" rel="stylesheet" type="text/css">
-</head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><script type="text/javascript" async="" src="//api.viglink.com/api/vglnk.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgEOVlNVGwAGXVhUBAk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+<meta name="generator" content="vBulletin 3.8.8">
+<meta name="keywords" content="1911,forum,1911forum,pistol,Colt,Kimber,Para Ordnance,Springfield Armory,John Browning,guns,firearms,military,shooting,.45,acp">
+<meta name="description" content="Model 1911 Pistol Discussion Forum. News, reviews, and information for M1911 owners and enthusiasts">
+ 
+<style type="text/css" id="vbulletin_css">@import url("clientscript/vbulletin_css/style-e9701ff1-00006.css");</style>
+<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_important.css?v=388">
+   
+<script type="text/javascript">
+
+            <!--
+            folder="./highslide/";
+            //-->
+            </script>
+<script type="text/javascript" language="javascript1.2" src="highslide/highslide-with-gallery.js"></script>
+<link rel="stylesheet" type="text/css" href="highslide/highslide.css">
+<script type="text/javascript">
+	hs.graphicsDir = 'highslide/graphics/';
+	hs.align = 'center';
+	hs.transitions = ['expand', 'crossfade'];
+	hs.outlineType = 'glossy-dark';
+	hs.wrapperClassName = 'dark';
+	hs.fadeInOut = true;
+	hs.numberPosition = 'caption';
+	hs.dimmingOpacity = 0.75;
+
+	// Add the controlbar
+	if (hs.addSlideshow) hs.addSlideshow({
+		//slideshowGroup: 'group1',
+		interval: 5000,
+		repeat: false,
+		useControls: true,
+		fixedControls: 'fit',
+		overlayOptions: {
+			opacity: .75,
+			position: 'bottom center',
+			hideOnMouseOut: true
+		}
+	});
+</script>
+<script type="text/javascript">
+<!--
+HSImageResizer.MAXWIDTH = 800;
+HSImageResizer.MAXHEIGHT = 600;
+
+//-->
+</script>
+ 
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/yahoo-dom-event/yahoo-dom-event.js?v=388"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/connection/connection-min.js?v=388"></script>
+<script type="text/javascript">
+<!--
+var SESSIONURL = "s=6ae188405be6b58b7625a5d42a900481&";
+var SECURITYTOKEN = "guest";
+var IMGDIR_MISC = "images/misc";
+var vb_disable_ajax = parseInt("0", 10);
+// -->
+</script>
+<script type="text/javascript" src="clientscript/vbulletin_global.js?v=388"></script>
+<link rel="alternate" type="application/rss+xml" title="1911Forum RSS Feed" href="external.php?type=RSS2">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-25326154-1']);
+  _gaq.push(['_setDomainName', '.1911forum.com']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
+
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<title>1911Forum - FAQ: Privacy</title>
+<style type="text/css">.highslide img {cursor: url(highslide/graphics/zoomin.cur), pointer !important;}</style></head>
 <body>
-<div class="container">
-<div class="header"><a class="header_menu" href="/"><img src="images/top_logo.png" width="330" height="90" border="0" alt="1911Forum Logo"></a></div>
-<div class="header_menu"><a class="header_menu" href="http://forums.1911forum.com">Forum</a>&nbsp;&nbsp;&nbsp;<a class="header_menu" href="reviews.php">Reviews</a>&nbsp;&nbsp;&nbsp;<a class="header_menu" href="rules.php">Rules</a>&nbsp;&nbsp;&nbsp;<a class="header_menu" href="legal.php">Legal</a></div>
-<div class="pagetitle"><img src="images/page_privacy.png" width="240" height="40" border="0" alt="Privacy Policy"></div>
-<div class="content">
-<div><h3>What information do we collect?</h3><br>
-Our servers automatically collect information from your browser whenever you visit the site. These server logs may include your Internet Protocol address, cookie information, software and hardware attributes, and the page you request.<br><br>
-We collect information from you when you register on our site. When registering, you may be asked to enter your user name, password, e-mail address, date of birth, location, occupation, as well as any other information that you decide to provide. In an effort to reduce unwanted posts on our site, your user name, email address, and Internet Protocol address is submitted to a third-party service at the time of registration to check for abuse. <a href="http://www.stopforumspam.com" target="_blank">Stop Forum Spam</a>'s privacy policy can be viewed <a href="http://www.stopforumspam.com/privacy" target="_blank">here</a>.<br><br>
-We may collect personal information if you post it on the interactive forum, in your account profile, or if you contact us directly. Please do not post any personal information on the forums or in your account profile that you expect to keep private.<br><br><br>
-<h3>What do we use your information for?</h3><br>
-Any of the information we collect from you may be used in one of the following ways:<br><br>
+ 
+<script type="text/javascript">if (typeof(tapatalkDetect) == "function") tapatalkDetect()</script>
+ 
+<img src="http://bcp.crwdcntrl.net/5/c=3471/pv=y/b=12912229" width="1" height="1">
+<div class="header"><span style="float: left;"><a class="header_menu" href="/"><img src="images/1911custom/top_logo.png" width="330" height="90" border="0" alt="1911Forum" title="1911Forum"></a></span>
+<span style="float:right;margin-right:100px;margin-top:20px;">
+
+<script type="text/javascript">
+if (!window.OX_ads) { OX_ads = []; }
+OX_ads.push({ "auid" : "537147353" });
+</script>
+<script type="text/javascript">
+document.write('<scr'+'ipt src="http://delivery.tacticalrepublic.com/w/1.0/jstag"><\/scr'+'ipt>');
+</script><script src="http://delivery.tacticalrepublic.com/w/1.0/jstag"></script>
+<noscript><iframe id="c190a12612" name="c190a12612" src="http://delivery.tacticalrepublic.com/w/1.0/afr?auid=537147353&cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no" width="468" height="60"><a href="http://delivery.tacticalrepublic.com/w/1.0/rc?cs=c190a12612&cb=INSERT_RANDOM_NUMBER_HERE" ><img src="http://delivery.tacticalrepublic.com/w/1.0/ai?auid=537147353&cs=c190a12612&cb=INSERT_RANDOM_NUMBER_HERE" border="0" alt=""></a></iframe></noscript>
+
+</span></div><div class="header_menu"><a class="header_menu" href="index.php?s=6ae188405be6b58b7625a5d42a900481">Forum</a>&nbsp;&nbsp;&nbsp;<a class="header_menu" href="http://www.1911forum.com/reviews.php">Reviews</a>&nbsp;&nbsp;&nbsp;<a class="header_menu" href="http://www.1911forum.com/rules.php">Rules</a>&nbsp;&nbsp;&nbsp;<a class="header_menu" href="http://www.1911forum.com/legal.php">Legal</a>&nbsp;&nbsp;&nbsp;<a class="header_menu" href="http://forums.1911forum.com/payments.php">Site Supporters &amp; Donations</a>&nbsp;&nbsp;&nbsp;<a class="header_menu" href="mailto:admin001@1911forum.com">Advertise</a>
+</div><table width="100%><tr><td width=" 100%"="">
+<!-- 1911 header -->
+
+
+
+
+
+
+</table>
+<br><!-- /1911 header -->
+<!-- logo -->
+<a name="top"></a>
+<!-- /logo -->
+
+<!-- content table -->
+<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 15px 0px 15px" align="left">
+
+
+
+
+
+<!-- Sorky03 - vvvvv -->
+<script type="text/javascript">
+function Sorky03_MoreOrLess( n )
+{
+  Less_body = fetch_object("Sorky03_MoreOrLess_Less_body_" + n);
+  More_body = fetch_object("Sorky03_MoreOrLess_More_body_" + n);
+
+  if (Less_body.style.display == "none")
+  {
+    Less_body.style.display = "";
+    More_body.style.display = "none";
+  }
+  else
+  {
+    Less_body.style.display = "none";
+    More_body.style.display = "";
+  }
+
+  return false;
+}
+
+function Sorky03_ShowOrHide( n, mode, dflt )
+{
+  div = fetch_object("Sorky03_ShowOrHide_div_" + n);
+  showa = fetch_object("Sorky03_ShowOrHide_showa_" + n);
+  hidea = fetch_object("Sorky03_ShowOrHide_hidea_" + n);
+
+  if (mode == 3)
+  {
+    mode = 1 - fetch_cookie("Sorky03_ShowOrHide_" + n);
+  }
+  if (mode == 2)
+  {
+    mode = fetch_cookie("Sorky03_ShowOrHide_" + n);
+    if (mode == null) mode = dflt;
+  }
+  if (mode == 1)
+  {
+    div.style.display = "none";
+    showa.style.display = "";
+    hidea.style.display = "none";
+    set_cookie("Sorky03_ShowOrHide_" + n, 1);
+  }
+  else
+  {
+    div.style.display = "";
+    showa.style.display = "none";
+    hidea.style.display = "";
+    set_cookie("Sorky03_ShowOrHide_" + n, 0);
+  }
+
+  return false;
+}
+</script>
+<!-- Sorky03 - ^^^^^ -->
+
+
+<br>
+
+<!-- breadcrumb, login, pm info -->
+<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tbody><tr>
+	<td class="alt1" width="100%">
+		
+			<table cellpadding="0" cellspacing="0" border="0">
+			<tbody><tr valign="bottom">
+				<td><a href="#" onclick="history.back(1); return false;"><img src="images/misc/navbits_start.gif" alt="Go Back" border="0" title="Go Back"></a></td>
+				<td>&nbsp;</td>
+				<td width="100%"><span class="navbar"><a href="index.php?s=6ae188405be6b58b7625a5d42a900481" accesskey="1">1911Forum</a></span> 
+	<span class="navbar">&gt; <a href="faq.php?s=6ae188405be6b58b7625a5d42a900481">FAQ</a></span>
+
+
+	<span class="navbar">&gt; <a href="faq.php?s=6ae188405be6b58b7625a5d42a900481&amp;faq=vb3_board_faq">Board FAQ</a></span>
+
+</td>
+			</tr>
+			<tr>
+				<td class="navbar" style="font-size:10pt; padding-top:1px" colspan="3"><a href="/faq.php?faq=privacy"><img class="inlineimg" src="images/misc/navbits_finallink_ltr.gif" alt="Reload this Page" border="0" title="Reload this Page"></a> <strong>
+	Privacy
+
+</strong></td>
+			</tr>
+			</tbody></table>
+		
+	</td>
+
+	<td class="alt2" nowrap="nowrap" style="padding:0px">
+		<!-- login form -->
+		<form action="login.php?do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+		<script type="text/javascript" src="clientscript/vbulletin_md5.js?v=388"></script>
+		<table cellpadding="0" cellspacing="3" border="0">
+		<tbody><tr>
+			<td class="smallfont" style="white-space: nowrap;"><label for="navbar_username">User Name</label></td>
+			<td><input type="text" class="bginput" style="font-size: 11px" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="User Name" onfocus="if (this.value == 'User Name') this.value = '';"></td>
+			<td class="smallfont" nowrap="nowrap"><label for="cb_cookieuser_navbar"><input type="checkbox" name="cookieuser" value="1" tabindex="103" id="cb_cookieuser_navbar" accesskey="c">Remember Me?</label></td>
+		</tr>
+		<tr>
+			<td class="smallfont"><label for="navbar_password">Password</label></td>
+			<td><input type="password" class="bginput" style="font-size: 11px" name="vb_login_password" id="navbar_password" size="10" tabindex="102"></td>
+			<td><input type="submit" class="button" value="Log in" tabindex="104" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s"></td>
+		</tr>
+		</tbody></table>
+		<input type="hidden" name="s" value="6ae188405be6b58b7625a5d42a900481">
+		<input type="hidden" name="securitytoken" value="guest">
+		<input type="hidden" name="do" value="login">
+		<input type="hidden" name="vb_login_md5password">
+		<input type="hidden" name="vb_login_md5password_utf">
+		</form>
+		<!-- / login form -->
+	</td>
+
+</tr>
+</tbody></table>
+<!-- / breadcrumb, login, pm info -->
+
+<!-- nav buttons bar -->
+<div class="tborder" style="padding:1px; border-top-width:0px">
+	<table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
+	<tbody><tr align="center">
+		
+		
+			<td class="vbmenu_control"><a href="register.php?s=6ae188405be6b58b7625a5d42a900481" rel="nofollow">Register</a></td>
+		
+		
+		<td class="vbmenu_control"><a rel="help" href="faq.php?s=6ae188405be6b58b7625a5d42a900481" accesskey="5">FAQ</a></td>
+		
+			
+			
+		
+		<td class="vbmenu_control"><a href="http://www.nrahq.org/education/guide.asp" target="_blank">Gun Safety</a></td>
+		
+			
+				<td class="vbmenu_control"><a href="search.php?s=6ae188405be6b58b7625a5d42a900481" accesskey="4">Search</a></td>
+				
+				<td class="vbmenu_control"><a href="search.php?s=6ae188405be6b58b7625a5d42a900481&amp;do=getdaily" accesskey="2">Today's Posts</a></td>
+				
+			
+			<td class="vbmenu_control"><a href="forumdisplay.php?s=6ae188405be6b58b7625a5d42a900481&amp;do=markread&amp;markreadhash=guest" rel="nofollow">Mark Forums Read</a></td>
+			
+		
+		
+		
+		</tr>
+	</tbody></table>
+</div>
+<!-- / nav buttons bar -->
+
+<br>
+
+
+
+
+
+
+
+
+
+
+<!-- Top 728x90 Advertisement -->
+	<div class="ad_top">
+
+<script type="text/javascript">
+document.write('<scr'+'ipt src="http://delivery.tacticalrepublic.com/w/1.0/jstag"><\/scr'+'ipt>');
+</script><script src="http://delivery.tacticalrepublic.com/w/1.0/jstag"></script>
+<script type="text/javascript">
+OX.requestAd({"auid":"33233"});
+</script><noscript><iframe id="4e38c880d3ac6" name="4e38c880d3ac6" src="http://delivery.tacticalrepublic.com/w/1.0/afr?auid=33233&cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no" width="728" height="90"><a href="http://delivery.tacticalrepublic.com/w/1.0/rc?cs=4e38c880d3ac6&cb=INSERT_RANDOM_NUMBER_HERE" ><img src="http://delivery.tacticalrepublic.com/w/1.0/ai?auid=33233&cs=4e38c880d3ac6&cb=INSERT_RANDOM_NUMBER_HERE" border="0" alt=""></a></iframe></noscript>
+	</div>
+	<br>
+
+
+
+
+<form action="faq.php" method="get">
+<input type="hidden" name="s" value="6ae188405be6b58b7625a5d42a900481">
+<input type="hidden" name="do" value="search">
+
+<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<thead>
+	<tr>
+		<td class="tcat">
+			<a style="float:right" href="#top" onclick="return toggle_collapse('searchfaq')"><img id="collapseimg_searchfaq" src="images/buttons/collapse_tcat.gif" alt="Search FAQ" border="0" title="Search FAQ"></a>
+			Search FAQ
+		</td>
+	</tr>
+</thead>
+<tbody id="collapseobj_searchfaq" style="">
+	<tr>
+		<td class="panelsurround" align="center">
+		<div class="panel">
+			<div style="width:640px">
+
+				<table class="fieldset" cellpadding="0" cellspacing="3" border="0">
+				<tbody><tr align="left">
+					<td>
+						Search Word(s):<br>
+						<input type="text" class="bginput" name="q" value="" size="25">
+					</td>
+					<td>
+						Matching Options:<br>
+						<select name="match">
+							<option value="any">Match Any Words</option>
+							<option value="all" selected="selected">Match All Words</option>
+							<option value="phr">Match Complete Phrase</option>
+						</select>
+					</td>
+					<td>
+						Search in:<br>
+						<select name="titlesonly">
+							<option value="1">Search Titles Only</option>
+							<option value="0" selected="selected">Search Titles &amp; Text</option>
+						</select>
+					</td>
+				</tr>
+				</tbody></table>
+
+			</div>
+		</div>
+
+		<div style="margin-top:6px">
+			<input type="submit" value="Search FAQ" class="button" accesskey="s">
+			<input type="reset" value="Reset Fields" class="button" accesskey="r">
+		</div>
+		</td>
+	</tr>
+</tbody>
+</table>
+
+</form>
+
+<br>
+
+<a name="faq_privacy_statement"></a>
+
+<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tbody><tr>
+	<td class="tcat">Privacy Statement</td>
+</tr>
+
+<tr>
+	<td class="alt1">
+
+
+<meta charset="utf-8">
+<title>Untitled Document</title>
+
+
+
+<h3>What information do we collect?</h3>
+<br>
+Our servers automatically collect information from your browser whenever you visit the site. These server logs may include your Internet Protocol address, cookie information, software and hardware attributes, and the page you request.<br>
+<br>
+We collect information from you when you register on our site. When registering, you may be asked to enter your user name, password, e-mail address, date of birth, location, occupation, as well as any other information that you decide to provide. In an effort to reduce unwanted posts on our site, your user name, email address, and Internet Protocol address is submitted to a third-party service at the time of registration to check for abuse.&nbsp;<a href="http://www.stopforumspam.com/" target="_blank">Stop Forum Spam</a>'s privacy policy can be viewed&nbsp;<a href="http://www.stopforumspam.com/privacy" target="_blank">here</a>.<br>
+<br>
+We may collect personal information if you post it on the interactive forum, in your account profile, or if you contact us directly. Please do not post any personal information on the forums or in your account profile that you expect to keep private.<br>
+<br>
+<br>
+<h3>What do we use your information for?</h3>
+<br>
+Any of the information we collect from you may be used in one of the following ways:<br>
+<br>
 <ul>
-<li>To personalize your experience. Your information helps us to better respond to your individual needs.</li>
-<li>To improve our website. We continually strive to improve our website offerings based on the information and feedback we receive from you.</li>
-<li>To improve customer service. Your information helps us to more effectively respond to your customer service requests and support needs.</li>
-<li>To administer a contest, promotion, survey or other site feature.</li>
-<li>To send periodic emails. The email address you provide may be used to send you occasional company news, updates, related product or service information, etc. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.</li>
-</ul><br><br>
-<h3>Do we use cookies?</h3><br>
-Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.<br><br> We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.<br><br><br>
-<h3>Do we disclose any information to outside parties?</h3><br>
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.<br><br><br>
-<h3>Third party links</h3><br>
-We may include or offer third party products or services on our website. In addition, visitors may post links to third party sites on the interactive forum. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.<br><br><br>
-<h3>Childrens Online Privacy Protection Act Compliance</h3><br>
-In compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.<br><br><br>
-<h3>Online Privacy Policy Only</h3><br>
-This online privacy policy applies only to information collected through our website and not to information collected offline.<br><br><br>
-<h3>Terms and Conditions</h3><br>
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <a href="http://www.1911forum.com/legal.php">http://www.1911forum.com/legal.php</a><br><br><br>
-<h3>Your Consent</h3><br>
-By using our site, you consent to our web site privacy policy.<br><br><br>
-<h3>Changes to our Privacy Policy</h3><br>
-If we decide to change our privacy policy, we will update the Privacy Policy modification date below.<br><br>This policy was last modified on 4/1/2011<br><br><br>
-<h3>Contacting Us</h3><br>
-If there are any questions regarding this privacy policy you may contact us using the information below:<br><br>
-By email: <a href="mailto:webmaster@1911forum.com">webmaster@1911forum.com<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script></a><br></div>
+  <li>To personalize your experience. Your information helps us to better respond to your individual needs.</li>
+  <li>To improve our website. We continually strive to improve our website offerings based on the information and feedback we receive from you.</li>
+  <li>To improve customer service. Your information helps us to more effectively respond to your customer service requests and support needs.</li>
+  <li>To administer a contest, promotion, survey or other site feature.</li>
+  <li>To send periodic emails. The email address you provide may be used to send you occasional company news, updates, related product or service information, etc. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.</li>
+</ul>
+<br>
+<br>
+<h3>Do we use cookies?</h3>
+<br>
+Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.<br>
+<br>
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.<br>
+<br>
+<br>
+<h3>Do we disclose any information to outside parties?</h3>
+<br>
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.<br>
+<br>
+<br>
+<h3>Third party links</h3>
+<br>
+We may include or offer third party products or services on our website. In addition, visitors may post links to third party sites on the interactive forum. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.<br>
+<br>
+<br>
+<h3>Childrens Online Privacy Protection Act Compliance</h3>
+<br>
+In compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.<br>
+<br>
+<br>
+<h3>Online Privacy Policy Only</h3>
+<br>
+This online privacy policy applies only to information collected through our website and not to information collected offline.<br>
+<br>
+<br>
+<h3>Terms and Conditions</h3>
+<br>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at&nbsp;<a href="http://www.1911forum.com/legal.php">http://www.1911forum.com/legal.php</a><br>
+<br>
+<br>
+<h3>Your Consent</h3>
+<br>
+By using our site, you consent to our web site privacy policy.<br>
+<br>
+<br>
+<h3>Changes to our Privacy Policy</h3>
+<br>
+If we decide to change our privacy policy, we will update the Privacy Policy modification date below.<br>
+<br>
+This policy was last modified on 4/1/2011<br>
+<br>
+<br>
+<h3>Contacting Us</h3>
+<br>
+If there are any questions regarding this privacy policy you may contact us using the information below:<br>
+<br>
+By email:&nbsp;<a href="mailto:webmaster@1911forum.com">webmaster@1911forum.com<script cf-hash="f9e31" type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></td>
+</tr>
+
+
+</tbody></table>
+
+<br>
+<a name="faq_dmca_notice"></a>
+
+<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tbody><tr>
+	<td class="tcat">DMCA Notice</td>
+</tr>
+
+<tr>
+	<td class="alt1"><p><b>DMCA Notice</b></p>
+  <p>If you believe that your copyrighted work has been copied in a way that constitutes copyright infringement and is accessible via the Service, please notify Company's copyright agent, as set forth in the Digital Millennium Copyright Act of 1998 ("DMCA"). For your complaint to be valid under the DMCA, you must provide the following information in writing:</p>
+  <ol>
+    <li>An electronic or physical signature of a person authorized to act on behalf of the copyright owner;</li>
+    <li>Identification of the copyrighted work that you claim has been infringed;</li>
+    <li>Identification of the material that is claimed to be infringing and where it is located on the Service;</li>
+    <li>Information reasonably sufficient to permit Company to contact you, such as your address, telephone number, and, e-mail address;</li>
+    <li>A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or law; and</li>
+    <li>A statement, made under penalty of perjury, that the above information is accurate, and that you are the copyright owner or are authorized to act on behalf of the owner.</li>
+  </ol>
+  <p>The above information must be submitted to the following DMCA Agent:</p>
+  <p>Second Media, Inc.<br>
+    2960 Van Ness Ave. STE C<br>
+    San Francisco, CA 94109<br>
+    Attn:&nbsp; General Counsel</p>
+  <p>Email:
+    &nbsp;legal[at]secondmedia.com</p>
+  <p>Facsimile:
+    (415)-366-0166</p>
+  <p>UNDER FEDERAL LAW, IF YOU KNOWINGLY MISREPRESENT THAT ONLINE MATERIAL IS INFRINGING, YOU MAY BE SUBJECT TO CRIMINAL PROSECUTION FOR PERJURY AND CIVIL PENALTIES, INCLUDING MONETARY DAMAGES, COURT COSTS, AND ATTORNEYS' FEES.</p>
+  <p>Please note that this procedure is exclusively for notifying Company and its affiliates that your copyrighted material has been infringed. The preceding requirements are intended to comply with Company's rights and obligations under the DMCA, including 17 U.S.C. §512(c), but do not constitute legal advice. It may be advisable to contact an attorney regarding your rights and obligations under the DMCA and other applicable laws.</p>
+  <p>In accordance with the DMCA and other applicable law, Company has adopted a policy of terminating, in appropriate circumstances and at Company's sole discretion, members who are deemed to be repeat infringers. Company may also at its sole discretion limit access to the Service and/or terminate the accounts or profiles of any Users who infringe any intellectual property rights of others, whether or not there is any repeat infringement.</p></td>
+</tr>
+
+
+</tbody></table>
+
+<br>
+
+
+
+<!-- Bottom 728x90 Advertisement -->
+	<div class="ad_btm">
+	<iframe id="4e60faefd2ec3" name="4e60faefd2ec3" src="http://delivery.tacticalrepublic.com/w/1.0/afr?auid=76670&amp;cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" framespacing="0" scrolling="no" width="728" height="90"><a href="http://delivery.tacticalrepublic.com/w/1.0/rc?cs=4e60faefd2ec3&cb=INSERT_RANDOM_NUMBER_HERE" ><img src="http://delivery.tacticalrepublic.com/w/1.0/ai?auid=76670&cs=4e60faefd2ec3&cb=INSERT_RANDOM_NUMBER_HERE" border="0" alt=""></a></iframe>
+
+	</div>
+
+<script type="text/javascript">
+if (!window.OX_ads) { OX_ads = []; }
+OX_ads.push({ "auid" : "537964840" });
+</script>
+<script type="text/javascript">
+document.write('<scr'+'ipt src="http://delivery.tacticalrepublic.com/w/1.0/jstag"><\/scr'+'ipt>');
+</script><script src="http://delivery.tacticalrepublic.com/w/1.0/jstag"></script>
+<noscript><iframe id="f543394b65" name="f543394b65" src="http://delivery.tacticalrepublic.com/w/1.0/afr?auid=537964840&cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no" width="1" height="1"><a href="http://delivery.tacticalrepublic.com/w/1.0/rc?cs=f543394b65&cb=INSERT_RANDOM_NUMBER_HERE" ><img src="http://delivery.tacticalrepublic.com/w/1.0/ai?auid=537964840&cs=f543394b65&cb=INSERT_RANDOM_NUMBER_HERE" border="0" alt=""></a></iframe></noscript>
+
+
+
+
+<br>
+<div class="smallfont" align="center">All times are GMT -5. The time now is <span class="time">06:45 AM</span>.</div>
+<br>
+
+
+		</div>
+	</div>
 </div>
-<div class="footerpad" style="clear:both;"></div>
+
+<!-- / close content container -->
+<!-- /content area table -->
+
+<form action="index.php" method="get" style="clear:left">
+
+<table cellpadding="6" cellspacing="0" border="0" width="100%" class="page" align="center">
+<tbody><tr>
+	
+		<td class="tfoot">
+			<select name="styleid" onchange="switch_id(this, 'style')">
+				<optgroup label="Quick Style Chooser">
+					<option value="7" class="">-- Mobile</option>
+<option value="6" class="" selected="selected">-- 1911Forum</option>
+
+				</optgroup>
+			</select>
+		</td>
+	
+	
+	<td class="tfoot" align="right" width="100%">
+		<div class="smallfont">
+			<strong>
+<a href="mailto:admin001@1911forum.com?subject=Advertising Info">Advertising Info</a> - 
+				<a href="sendmessage.php?s=6ae188405be6b58b7625a5d42a900481" rel="nofollow" accesskey="9">Contact Us</a> -
+				<a href="http://forums.1911forum.com/">1911Forum</a> -
+				
+				
+				
+				
+				<a href="http://forums.1911forum.com/faq.php?faq=privacy">Privacy Statement</a> -
+				<a href="http://www.1911forum.com/legal.php">Terms of Service</a> -
+				<a href="#top" onclick="self.scrollTo(0, 0); return false;">Top</a>
+			</strong>
+		</div>
+	</td>
+</tr>
+</tbody></table>
+
+<br>
+
+<!-- 1911 Disclaimer footer -->
+<table align="center" width="100%" bgcolor="#F4F4EC">
+	<tbody><tr>
+		<td class="smallfont"><b>NOTICE TO USERS OF THIS SITE:</b> By continuing to use this site, you certify that you have read and agree to abide by the <a href="http://www.1911forum.com/legal.php">Legal Terms of Use</a>. All information, data, text or other materials ("Content") posted to this site by any users are the sole responsibility of those users. 1911Forum does not guarantee the accuracy, integrity, or quality of such Content.</td>
+	</tr>
+</tbody></table>
+<!-- /1911 Disclaimer footer -->
+<br>
+
+<div align="center">
+	<div class="smallfont" align="center">
+	<!-- Do not remove this copyright notice -->
+	Powered by vBulletin® Version 3.8.8<br>Copyright ©2000 - 2015, vBulletin Solutions, Inc.
+	<!-- Do not remove this copyright notice -->
+	</div>
+
+	<div class="smallfont" align="center">
+	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+	
+	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+
+	Copyright 2015 1911Forum.com, LLC. All Rights Reserved
+	</div>
 </div>
-<div class="footer">Copyright 2011 1911Forum.com, LLC. All Rights Reserved</div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"818f174956","applicationID":"3699638","transactionName":"YARRbEFXWUdTWk1dXFlOZkpaGUdGW09YV0oZEVtI","queueTime":0,"applicationTime":0,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script><script type="text/javascript">
+
+</form>
+
+
+
+
+<script type="text/javascript">
+<!--
+	// Main vBulletin Javascript Initialization
+	vBulletin_init();
+//-->
+</script>
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-afZeISFb-Spzg"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-afZeISFb-Spzg.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+<script src="http://tags.crwdcntrl.net/c/3471/cc.js?ns=_cc3471" id="LOTCC_3471"></script><script>_cc3471.bcp();</script>      <!-- VigLink vBulletin Plugin v2.0.6: http://viglink.com -->
+      <script type="text/javascript">
+        var vglnk = { api_url: '//api.viglink.com/api',
+                      key: '55b8ed92c8ba000727297c3558412060' };
+
+        (function(d, t) {
+          var s = d.createElement(t); s.type = 'text/javascript'; s.async = true;
+          s.src = ('https:' == document.location.protocol ? vglnk.api_url :
+                   '//cdn.viglink.com/api') + '/vglnk.js';
+          var r = d.getElementsByTagName(t)[0]; r.parentNode.insertBefore(s, r);
+        }(document, 'script'));
+      </script>
+      <!-- end VigLink -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"818f174956","applicationID":"3699638","transactionName":"YARRbEFXWUdTWk1dXFlOZkpaGVFVQxdJXEM=","queueTime":0,"applicationTime":40,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script><script type="text/javascript">
 /* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&"www.cloudflare.com/email-protection"==a.substr(7 ,35)){s='';j=43;r=parseInt(a.substr(j,2),16);for(j+=2;a.length-j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
 /* ]]> */
 </script>
 
-
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script><div class="highslide-container" style="padding: 0px; border: none; margin: 0px; position: absolute; left: 0px; top: 0px; width: 100%; z-index: 1001; direction: ltr;"><a class="highslide-loading" title="Click to cancel" href="javascript:;" style="position: absolute; top: -9999px; opacity: 0.75; z-index: 1;">Loading...</a><div style="display: none;"></div><table cellspacing="0" style="padding: 0px; border: none; margin: 0px; visibility: hidden; position: absolute; border-collapse: collapse; width: 0px;"><tbody style="padding: 0px; border: none; margin: 0px;"><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td class="glossy-dark highslide-outline" style="padding: 0px; border: none; margin: 0px; position: relative;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr></tbody></table><img src="highslide/graphics/outlines/glossy-dark.png" style="padding: 0px; border: none; margin: 0px; position: absolute; top: -9999px;"></div></body></html>
