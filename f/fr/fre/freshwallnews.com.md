@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshwallnews.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227165511id_/http%3A//www.freshwallnews.com/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshwallnews.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609014921id_/http%3A//www.freshwallnews.com/privacy-terms) for the most accurate reproduction.*
 
 # Privacy and Policy
 
@@ -110,7 +110,3 @@ Some apps on iOS 6 devices use Apple’s Advertising Identifier; to learn more a
 Open the Google Search app on your device  
 Press the Settings icon  
 Go to Ads Preferences
-
-Join us on Facebook
-
-Get all updates via Facebook Just Press LIKE button ! 
