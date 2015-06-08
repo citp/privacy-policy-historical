@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biz2credit.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214171602id_/https%3A//www.biz2credit.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biz2credit.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608040654id_/http%3A//www.biz2credit.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Biz2credit
 
@@ -161,5 +161,3 @@ New York, NY 10001
 
 
 
-
-[](https://www.mcafeesecure.com/RatingVerify?ref=www.biz2credit.com)
