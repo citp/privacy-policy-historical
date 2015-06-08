@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chubbyparade.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004080246id_/http%3A//chubbyparade.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chubbyparade.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608095026id_/http%3A//chubbyparade.com/privacy-policy.php) for the most accurate reproduction.*
 
 # DMCA Policy - Chubby Parade
 
