@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the waytonikah.com privacy policy that was archived on 2014-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141130154456id_/http%3A//www.waytonikah.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the waytonikah.com privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608045209id_/http%3A//www.waytonikah.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -121,8 +121,73 @@ return false;
 <body>
 <div id="container">
 <div id="content-wrapper">
+<style>#account-wrapper .quotes { width:470px;} 
+.newcount{color:#FFFFFF; width:auto; margin-top:6px; height:15px;   margin-left:12px;  position:relative; z-index:999;  font-weight:bold; line-height:15px; font-size:11px; border-radius:4px; border-radius:3px;}
+.note_box{width:240px; height:auto; background:#d5ffce ;border:1px solid #9adf8f;-webkit-border-radius: 4px;margin-top:2px;-moz-border-radius: 4px;border-radius: 4px; padding-bottom:10px;}
+.note_box img{margin-left:4px; margin-top:2px;}
+.add{width:160px; font-family:Tahoma; margin-top:6px; margin-left:10px; font-size:12px; float:left;}
+.com_im{float: left;width: 80%; margin-top: 3px; margin-left: 7px;}
+.time{color:#7f7f7f; margin-left:30px;margin-top:-20px;}
+.close{float:right; margin-right:2px; width:10px; height:10px;}
+.notes_id{position:fixed;margin-left:15px;bottom: 2em;}
+.pro{float:left; margin-top:10px !important;margin-left:10px !important;}
+#notification_new{
+width:319px;
+height:auto;
+float:left;
 
 
+
+	}
+#notification_box{ width:296px; height:auto;   padding:5px; padding-left:0px; padding-right:0px; float:left; background-color:#FFF; border:solid 1px #d6d6d6; border-top-style:none; box-shadow: 0px 3px 3px #888888;}
+#notification_title{ width:100%; height:20px;  background-color:#FFF;  float:left; border-bottom:solid 1px #d6d6d6;}
+#notification_content{ width:100%; height:auto; min-height:30px; max-height:242px; float:left; margin-left:0px; border-bottom:solid 1px #d6d6d6; overflow-x: hidden;  overflow-y:scroll;   }
+#notification_title h4{  font-size:13px; margin-top:-3px; margin-left:10px; color:#9C0013; font-family:Geneva, Arial, Helvetica, sans-serif;}
+
+
+
+
+
+</style>
+
+
+<div style="width:319px; height:auto;  position:absolute; z-index:99999;  margin-left:480px; float:left; margin-top:26px; display:none;" id="notificate">
+
+<div id="notification_new">
+<img src="images/notification_arrow.png" style="float:left; width:298px; height:15px;">
+<div id="notification_box">
+<div id="notification_title" aria-hidden="true"><h4>Notification </h4></div>
+
+<div id="notification_content">
+
+<div class="listBox-content" style="width:100%; padding:0px; ">
+            <ul class="latestUpdates-container" style="width: 100%; height:auto; max-height:240px; float: left; ">
+            
+            
+            
+             <div id="testnewdiv"></div>
+             <div id="testnewdiv2">
+             <img src="images/notification_loader.gif" style="margin-left: 126px; margin-top: 8px; width: 18px; display: none;" id="noti_loader"></div>
+             
+
+
+
+
+
+ </ul>
+          </div></div>
+
+
+
+</div>
+</div>
+
+
+
+
+
+
+</div>
 
 	<div id="account-wrapper">
 
@@ -361,7 +426,273 @@ return false;
   
 
     </div>
+<script src="jquery-1.9.0.min.js"></script>
+<script src="//js.pusher.com/2.2/pusher.min.js" type="text/javascript"></script>
+ 
+ 
+ 
+ 
+ 
+ 
+ <script type="text/javascript">
 
+
+$(document).ready(function(){
+  $('#notificate').hide();
+ //alert('welcome');
+ //$('#note_box').show();
+ $('<audio  id="sound" ><source src="sound/notify.ogg" type="audio/ogg"><source src="sound/notify.mp3" type="audio/mpeg"><source src="sound/notify.wav" type="audio/wav"></audio>').appendTo('body');
+ 
+  
+var blah = "";
+
+
+Pusher.log = function(message) {
+      if (window.console && window.console.log) {
+        window.console.log(message);
+      }
+    };
+
+    var pusher = new Pusher('49343b2bcde0042617f6');
+    var channel = pusher.subscribe(blah);
+    channel.bind('notification', function(data) {
+	
+	if(data.newevent=='EXPRESS_INTEREST_RECEIVE' || data.newevent=='EXPRESS_INTEREST_SEND_1'){
+	   var msg   = 'Express interest received';
+	   var msg1  = 'Express interest message from '+data.frommatriid;
+	   var title = 'Interest Recieved';
+	   var link1 = 'view_profile.php?mid='+data.frommatriid; }
+	
+    else if(data.newevent=='EXPRESS_INTEREST_ACCEPT'){
+  	   var msg   = 'Express interest accepted';
+	   var msg1  = 'Your express interest is accepted by '+data.frommatriid;
+	   var title = 'Interest Accepted';
+	   var link1 = 'view_profile.php?mid='+data.frommatriid; }
+	
+	else if(data.newevent=='EXPRESS_INTEREST_DECLINE'){
+  	   var msg   = 'Express interest declined';
+	   var msg1  = 'Your express interest is declined by '+data.frommatriid;
+	   var title = 'Interest Declined'; 
+	   var link1 = 'view_profile.php?mid='+data.frommatriid; } 
+ 
+ 	else if(data.newevent=='PERSONAL_MESSAGE_RECEIVE'){
+	   var msg   = 'Personal message received';
+	   var msg1  = 'Received a personal message from '+data.frommatriid;
+	   var title = 'Message Recieved'; 
+ 	   var link1 = 'view_profile.php?mid='+data.frommatriid+'&msg=1'; }
+  
+  	else if(data.newevent=='PHOTO_REQUEST'){
+	   var msg   = 'Photo request received';
+	   var msg1  = 'Photo request from '+data.frommatriid+' Please add your Photos';
+	   var title = 'Photo Request'; 
+  	   var link1 = 'view_profile.php?mid='+data.frommatriid; }
+	
+	else if(data.newevent=='PHOTO_PASSWORD_REQUEST_RECEIVE'){
+	   var msg   = 'Photo Password request received';
+	   var msg1  = 'Photo Password request from '+data.frommatriid;
+	   var title = 'Photo Password Request'; 
+  	   var link1 = 'view_profile.php?mid='+data.frommatriid; } 
+	
+	else if(data.newevent=='PHOTO_PASSWORD_REQUEST_ACCEPT'){
+	   var msg   = 'Photo password request accepted';
+	   var msg1   = 'Your photo password request is accepted by '+data.frommatriid;
+	   var title = 'Photo Password Request Accept'; 
+  	   var link1 = 'view_profile.php?mid='+data.frommatriid;}      
+  
+  	else if(data.newevent=='PHOTO_PASSWORD_REQUEST_DECLINE' ){
+		 var msg   = 'Photo password request declined';
+		 var msg1  = 'Your photo password request is declined by '+data.frommatriid;
+		 var title = 'Photo Password Request Declined'; 
+ 		 var link1 = 'view_profile.php?mid='+data.frommatriid; }
+  
+  	else if(data.newevent=='HOROSCOPE_REQUEST'){
+		 var msg   = 'Horoscope request received';
+		 var msg1  = 'Horoscope request from '+data.frommatriid;
+		 var title = 'Horoscope request received'; 
+ 		 var link1 = 'view_profile.php?mid='+data.frommatriid; }
+		 
+	else if(data.newevent=='WELCOME_MAIL'){
+		 var msg   = 'Profile is created';
+		 var msg1  = 'Your profile is created.Your Matri Id is:';
+		 var title = 'Profile Created'; 
+ 		 var link1 = '#'; }	
+	
+	else if(data.newevent=='PROFILE_APPROVED'){
+		 var msg   = 'Profile is approved';
+		 var msg1  = 'Your profile is approved by Admin';
+		 var title = 'Profile Approved'; 
+ 		 var link1 = '#'; }	
+	
+	else if(data.newevent=='PROFILE_ACTIVATE'){
+		 var msg   = 'Profile is activated';
+		 var msg1  = 'Your profile is activated by Admin';
+		 var title = 'Your Profile Activated'; 
+ 		 var link1 = '#'; }	
+	
+	else if(data.newevent=='PROFILE_PHOTO1_APPROVAL'){
+		 var msg   = 'First photo is approved';
+		 var msg1  = 'Your first photo is approved by Admin';
+		 var title = 'Photo-1 Approved'; 
+ 		 var link1 = '#'; }
+		 
+	else if(data.newevent=='PROFILE_PHOTO2_APPROVAL'){
+		 var msg   = 'Second photo is approved';
+		 var msg1  = 'Your second photo is approved by Admin';
+		 var title = 'Photo-2 Approved';  
+ 		 var link1 = '#'; }
+	
+	else if(data.newevent=='PROFILE_PHOTO3_APPROVAL'){
+		 var msg   = 'Third photo is approved';
+		 var msg1  = 'Your third photo is approved by Admin';
+		 var title = 'Photo-3 Approved';  
+ 		 var link1 = '#'; }
+		 
+	else if(data.newevent=='PROFILE_PHOTO1_DECLINE'){
+		 var msg   = 'First photo is declined';
+		 var msg1  = 'Your first photo is declined by Admin';
+		 var title = 'Photo-1 Declined';  
+ 		 var link1 = '#'; }	
+	
+	else if(data.newevent=='PROFILE_PHOTO2_DECLINE'){
+		 var msg   = 'Second photo is declined';
+		 var msg1  = 'Your second photo is declined by Admin';
+		 var title = 'Photo-2 Declined';  
+ 		 var link1 = '#'; }
+	
+	else if(data.newevent=='PROFILE_PHOTO3_DECLINE'){
+		 var msg   = 'Third photo is declined';
+		 var msg1  = 'Your third photo is declined by Admin';
+		 var title = 'Photo-3 Declined';  
+ 		 var link1 = '#'; }
+		 
+	else if(data.newevent=='PROFILE_DESC_APPROVAL'){
+		 var msg   = 'Profile description is approved';
+		 var msg1  = 'Your profile description is approved by Admin';
+		 var title = 'Profile Description Approved';  
+ 		 var link1 = '#'; }	
+	
+	else if(data.newevent=='PROFILE_DESC_DECLINE'){
+		 var msg   = 'Profile description is declined';
+		 var msg1  = 'Your profile description is declined by Admin';
+		 var title = 'Profile Description declined';  
+ 		 var link1 = '#'; }	
+	
+	else if(data.newevent=='PAID_PROFILE'){
+		 var msg   = 'Your paid membership is activated';
+		 var msg1  = 'Your paid membership is activated by Admin';
+		 var title = 'Paid Mebership Activated';  
+ 		 var link1 = '#'; }	
+	
+	else if(data.newevent=='CONTACTADDED_1'){
+		 var msg   = 'One contacts added to your account';
+		 var msg1  = 'One contacts added to your account';
+		 var title = 'Contacts Added';  
+ 		 var link1 = '#'; }	
+	
+	else if(data.newevent=='CONTACTADDED_20'){
+		 var msg   = 'Twenty contacts added to your account';
+		 var msg1  = 'Twenty contacts added to your account';
+		 var title = 'Contacts Added';  
+ 		 var link1 = '#'; }		 	 	 	  
+		 
+	else if(data.newevent=='EXPRESS_INTEREST_ACCEPT_2'){
+		 var msg   = 'Express interest is accepted by  '+data.name;
+		 var msg1  = 'Your express interest is accepted by'+data.frommatriid+'(previously they declined your interest)';
+		 var title = 'Interest Accepted'; 
+ 		 var link1 = 'view_profile.php?mid='+data.frommatriid; }
+		
+	else if(data.newevent=='EXPRESS_INTEREST_DECLINE_2'){
+		 var msg   = 'Express interest is decliend by '+data.name;
+		 var msg1  = 'Your express interest is decliend by '+data.frommatriid+' (previously they accepted your interest)';
+		 var title = 'Interest Declined'; 
+ 		 var link1 = 'view_profile.php?mid='+data.frommatriid; }
+		
+	else if(data.newevent=='EXPRESS_INTEREST_DECLINE_3'){
+		 var msg   = data.name+' declined your interest acceptance';
+		 var msg1  = data.frommatriid+' declined your express interest acceptance.';
+		 var title = 'Interest Declined';  
+ 		 var link1 = 'view_profile.php?mid='+data.frommatriid; }
+	
+	else if(data.newevent=='EXPRESS_INTEREST_CANCEL'){
+		 var msg   = data.name+' has cancelled the Express Interest';
+		 var msg1  = data.frommatriid+' has cancelled the express interest to you';
+		 var title = 'Interest Cancelled';  
+ 		 var link1 = 'view_profile.php?mid='+data.frommatriid; }
+		
+									 
+		 	
+		 	 		 	 	 	   
+  
+  
+ 
+  
+  
+     $(".notes_id").prepend('<a href='+link1+' style="color: inherit;">'+'<div class="note_box">'+
+'<img src='+data.image+' width="40" height="40" class="pro" align="middle">'+
+'<img src="sound/close.png" width="17" height="17" align="middle" class="close">'+
+'<div class="add"><b style="#c00">'+data.frommatriid+'</b> - <b style="#c00">'+data.name+'</b> <span style="color:#3b5998;float: left;">'+msg+'<span>'+
+'</div>'+
+'<div class="com_im"><img src="sound/nW-U1RPGDdA.png" width="20" height="20" align="middle">'+
+'<div class="time">a few seconds ago</div></div>'+'<div style="clear:both"></div>'+
+'</div>'+'</a>');
+ 
+ 
+   $('#sound')[0].play(); 
+   $('.note_box').delay(5000).fadeOut('slow');
+   $('#imgnew').show();
+   $('#imgold').hide();
+   $('#count').text(data.totalcount).show();
+   $('#testnewdiv').prepend('<li style=" background-color:#FCF5F5; height:auto; border-left:1px solid #dfdfdf; font-size: 11px;line-height: 19px;">'+'<span style="margin-left:10px; float:left; width: 95%;">'+'<div class="details" style="width: 100%;">'+'<div class="heading" style="margin-left:50px; margin-top:8px;">'+title+'</div>'+'<img src='+data.image+' width="77" height="77" style="margin-top:-16px;">'+msg+'</div>'+'</span>'+'<div style="clear:both"></div>'+'</li>').show();
+   
+   $('#latestupdate').prepend('<a href='+link1+' style="color: inherit;">'+'<li>'+'<div class="heading" >'+title+'</div>'+'<div class="details" style="color:#FF0000; font-size: 11px;">'+'<img src='+data.image+' width="77" height="77" >'+msg1+'</div>'+'<div style="clear:both"></div>'+'</li>'+'</a>').show();
+   document.title = '('+data.totalcount+') - '+msg;
+   
+    });
+
+
+});
+$('#noti_loader').hide();
+$('#notificate_icon').click(function (e) {
+$('#noti_loader').show();
+$('#testnewdiv').html('');
+$('#count').hide();
+document.title = 'Waytonikah.com';
+$('#imgnew').show();
+$('#imgold').hide();
+$('#notificate').toggle(); e.stopPropagation();
+$.ajax({
+ 		 		type: "POST",
+  		 		url: "includes/notification.php",
+ 				data: { Noti_click: "1" },
+		 		success:function(data) {
+     			$('#testnewdiv2').html(data);
+				notifi().stop();
+				$('#noti_loader').hide();
+    },});
+
+
+
+
+});
+
+$(document).ready(function(){
+    	$(document).bind('keydown', function(e) { 
+        	if (e.which == 27) {  $('#notificate').hide(); }
+    	}); 
+	});
+	
+	$(document).click(function (e) {
+        	var $target = $(e.target);
+       		if ($target.closest('#notificate').length == 0) {
+            $("#notificate").stop(true, true).hide();
+       		 }
+   		});
+
+
+
+
+
+</script> 
    
 
 
@@ -370,8 +701,12 @@ return false;
 <div class="rightcolumn alignLeft">
 
 
+
  
+
+
  
+
 <script>
 function getXMLHTTP()
 {
@@ -1050,7 +1385,7 @@ www.waytonikah.com does not claim any responsibility for any errors or inconsist
 
 	<li><a href="muslim-matrimonials/kerala-muslim-matrimony.php">Kerala Muslim Matrimonial</a></li>
 
-	   <li><a href="blog/index.php">Blog</a></li>
+	   <li><a href="http://mob.waytonikah.com/muslim-matrimonials/">Online Users</a></li>
 
          <li><a href="https://plus.google.com/104807687985099339063" rel="publisher">Google+</a></li>
 
@@ -1108,7 +1443,7 @@ www.waytonikah.com does not claim any responsibility for any errors or inconsist
 
 <div class="footerLinksArea-content">
 
-<div class="copy-right"><p>Copyright © 2014 waytonikah.com. All Rights Reserved.</p></div>
+<div class="copy-right"><p>Copyright © 2015 waytonikah.com. All Rights Reserved.</p></div>
 
 <div class="poweredBy"><p>Powered by <a href="http://waytonikah.com/" target="_blank">Waytonikah.com</a></p></div>
 
@@ -1191,11 +1526,13 @@ function loadOnlineUsers()
 }
 
 </script>
+ <div class="notes_id">
 
+</div>
 <!--footer ends-->
 
 <script src="js/edit-profile/edit-profile.js" type="text/javascript"></script>
 
 
 
-</body></html>
+<audio id="sound"><source src="sound/notify.ogg" type="audio/ogg"><source src="sound/notify.mp3" type="audio/mpeg"><source src="sound/notify.wav" type="audio/wav"></audio></body></html>
