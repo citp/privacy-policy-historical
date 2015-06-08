@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponingfor4.net privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118033509id_/http%3A//www.couponingfor4.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponingfor4.net privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608095009id_/http%3A//www.couponingfor4.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,8 +14,7 @@ This website utilizes industry standard analytics packages which gathers limited
 
 With respect to Ad Servers
 
-To try and bring you offers that are of interest to you, I have relationships with other companies like PubAccess (www.Advertising.com ) that I allow to place ads on my Web page. As a result of your visit to my site, ad server companies may collect information such as your domain type, your IP address, browser used, interest categories based on information collected from web surfing habits, or if you have Flash installed and clickstream information. For further information, consult the privacy policy of:
-
+To try and bring you offers that are of interest to you, I have relationships with other companies like PubAccess (www.Advertising.com ) that I allow to place ads on my Web page. As a result of your visit to my site, ad server companies may collect information such as your domain type, your IP address, browser used, interest categories based on information collected from web surfing habits, or if you have Flash installed and clickstream information. For further information, consult the privacy policy of:  
 http://www.google.com/privacy.html
 
 I use third-party companies to serve ads and collect non-personally identifiable information ( _e.g.,_ the pages you visit, and which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit our web site. These companies may use the information outlined above (which does not include your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp) (link to the NAI universal user opt-out).
