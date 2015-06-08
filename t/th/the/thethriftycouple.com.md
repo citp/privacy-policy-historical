@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thethriftycouple.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115131245id_/http%3A//thethriftycouple.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thethriftycouple.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608094913id_/http%3A//thethriftycouple.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
