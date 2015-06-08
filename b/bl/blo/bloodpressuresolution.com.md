@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bloodpressuresolution.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213091746id_/http%3A//bloodpressuresolution.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloodpressuresolution.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608043056id_/http%3A//bloodpressuresolution.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Blood Pressure Solution : Blood Pressure Solution
-
-[](https://privacy.truste.com/privacy-seal/Primal-Health,-LP/validation?rid=4fd32190-9173-475b-a9a4-72beda36cf85 "TRUSTe online privacy certification")
 
 ## Privacy Policy
 
@@ -144,7 +142,7 @@ BloodPressureSolution.com/support
 
 McKinney, TX 75070
 
-[Support@BloodPressureSolution.com](mailto:Support@BloodPressureSolution.com).877-755-4904
+[Support@BloodPressureSolution.com](mailto:Support@BloodPressureSolution.com).877-300-7849
 
 Privacy Policy Customer Pledge
 
@@ -167,6 +165,6 @@ If at any time you have a cause that needs to be disputed please fill out the [T
 
 Respectfully,
 
-Ken Burge
+Primal Health, LP
 
 BloodPressureSolution.com
