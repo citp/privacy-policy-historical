@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irobot.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202034007id_/http%3A//store.irobot.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irobot.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608043857id_/http%3A//store.irobot.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # iRobot: Help Desk
 
@@ -34,6 +34,8 @@ We may release personal information if we believe in good faith that: the law or
 
 We may share non-personal information with our marketing partners, advertisers and others from time to time. Examples of such non-personal information include the number of users who visited this Web Site during a specific time period or purchased a specific product through this Web Site. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please [click here.](http://www.networkadvertising.org/managing/opt_out.asp) This information generally is shared in an aggregated form.
 
+We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising, [click here.](http://dtmc.irobot.com/adinfo/adchoices_fpc.html?cid=2350&cname=iRobot&cmagic=326a8c&clogo=irobot.png)
+
 As with any business, it is possible that as our business develops, we might sell or buy online stores or other assets. In such transactions, information about customers often is among the transferred assets. Accordingly, in the unlikely event that iRobot, or substantially all of its assets related to this Web Site, is acquired by a third party, such information may be one of the transferred assets. Under such circumstances iRobot would to the extent possible require the acquiring party to follow the practices described in this Privacy Policy, as it may be amended from time to time.
 
 **_What Steps Are Taken To Keep Personal Information Secure?_**
@@ -60,7 +62,7 @@ When we run a contest or sweepstakes relating to this Web Site, it will be accom
 
 We reserve the right to modify this Privacy Policy at any time. If we modify this Privacy Policy, we will post the revised Privacy Policy on this Web Site. We also may post a notice on this Web Site or send an email describing the changes. You should check this Web Site regularly to see if any recent changes to this Privacy Policy have occurred.
 
-Effective: 2/17/2006
+Effective: 7/22/2014
 
   
 
