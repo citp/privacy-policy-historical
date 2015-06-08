@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the intheplayroom.co.uk privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124055711id_/http%3A//intheplayroom.co.uk/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intheplayroom.co.uk privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608024617id_/http%3A//intheplayroom.co.uk/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - In The Playroom
 
 **Privacy Policy for intheplayroom.co.uk**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at anna@marikar.net.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at anna@marikar.net. 
 
 At intheplayroom.co.uk, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by intheplayroom.co.uk and how it is used.
 
@@ -19,9 +19,14 @@ intheplayroom.co.uk does use cookies to store information about visitors prefere
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to intheplayroom.co.uk and other sites on the Internet.  
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-Google Adsense  
-Amazon
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
+
+  * Google Adsense
+  * The Blogger Network
+  * Padsquad
+  * Nuffnang
+
+
 
 In The Playroom is a participant in the Amazon EU Associates Programme, an affiliate advertising programme designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.co.uk
 
