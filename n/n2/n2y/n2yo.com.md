@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the n2yo.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120055704id_/http%3A//www.n2yo.com/about/%3Fa%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the n2yo.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608120136id_/http%3A//www.n2yo.com/about/%3Fa%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy policy
-
-`
 
 ##### Privacy Policy
 
@@ -24,8 +22,4 @@ n2yo.com does not share the User information collected with any other third part
 
 Information about Users that is maintained on our systems is protected using industry standard security measures. However, we cannot guarantee that the information submitted to, maintained on, or transmitted from our systems will be completely secure. 
 
-For further questions, please [contact us](http://www.n2yo.com/feedback.php)
-
-`
-
-` January 29, 2008 `
+For further questions, please [contact us](https://web.archive.org/about/?a=feedback)
