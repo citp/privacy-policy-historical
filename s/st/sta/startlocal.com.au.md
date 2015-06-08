@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startlocal.com.au privacy policy that was archived on 2014-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140726185204id_/http%3A//www.startlocal.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startlocal.com.au privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608095415id_/http%3A//www.startlocal.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy: StartLocal® - Australian Business Directory & Business Search Engine
 
@@ -11,11 +11,7 @@ _16/03/2011 Changes - #9, #11 updated._
 
 This Privacy Policy forms part of the Terms of Use and governs the collection, storage, use and dissemination by Start Local Pty Ltd of any Personal Information (as defined in the Privacy Act 1988 (Cth)) that you provide on our site: www.StartLocal.com.au.
 
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.startlocal.com.au/seal_m "Validate TRUSTe privacy certification")
-
 We are bound by the National Privacy Principles contained in the Privacy Act 1988 (Cth) in relation to the handling of Personal Information.
-
-Start Local Pty Ltd has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at Start Local Pty Ltd on 1300 785 706. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
 **2\. What Personal Information we collect**
 
@@ -82,13 +78,13 @@ The Personal Information we hold about you (such as your name and email address)
 
 You can update this Personal Information at anytime by logging onto the Site. Alternatively, upon your request, we will correct or delete inaccurate or incomplete Personal Information we hold about you by [contacting us through this form](http://www.startlocal.com.au/contact.html).
 
-You have a right to get a copy of the Personal Information we hold about you. To request access, please use the [contact form provided](http://www.startlocal.com.au/contact.html). 
+You have a right to get a copy of the Personal Information we hold about you. To request access, please use the [contact form provided](http://www.startlocal.com.au/contact.html). 
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 **12\. Cookies** ****
 
-Cookies are pieces of information that a website transfers to your computer's memory or hard disk for record-keeping. We use cookies only to the limited extent of recognising you when you visit the Site, to track usage patterns and deliver customised content to you.  However, this information is not linked to any Personal Information that you may provide and cannot be used to identify you.
+Cookies are pieces of information that a website transfers to your computer's memory or hard disk for record-keeping. We use cookies only to the limited extent of recognising you when you visit the Site, to track usage patterns and deliver customised content to you. However, this information is not linked to any Personal Information that you may provide and cannot be used to identify you.
 
 If you do not want information collected through Cookies, most internet browsers allow you to deny or accept Cookies. 
 
