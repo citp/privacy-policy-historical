@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discoverychannel.co.uk privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121144328id_/http%3A//www.discoveryuk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverychannel.co.uk privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041249id_/http%3A//www.discoveryuk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -235,8 +235,6 @@ A browser is the software that is used to access the internet. The most common b
 Back to top
 
 * * *
-
-## One to Watch
 
 ## 
 
