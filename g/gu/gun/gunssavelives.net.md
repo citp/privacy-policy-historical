@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gunssavelives.net privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205071909id_/http%3A//gunssavelives.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunssavelives.net privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608043016id_/http%3A//gunssavelives.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use | Guns Save Lives
 
