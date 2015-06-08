@@ -1,57 +1,37 @@
-> *The following text is extracted and transformed from the besttimepass.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923161941id_/http%3A//besttimepass.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the besttimepass.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041321id_/http%3A//besttimepass.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | Best Time Pass
+# Privacy Policy
 
-We are dedicated to protecting the privacy rights of our online users (“users” or “you”). This Online Privacy Policy (“Privacy Policy”) has been crafted to inform you as to the ways we collect, store, use, and manage the information you provide in connection with Besttimepass. Please note that the scope of this Privacy Policy is limited to only information collected from Besttimepass through use of the Service.
+At [BestTimePass.Com](http://besttimepass.com/) , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by BestTimePass.Com and how it is used.
 
-By using the Service, you are agreeing to the use of your personal information as outlined in this Privacy Policy. We may amend the Privacy Policy from time to time, and we encourage you to consult the Privacy Policy regularly for changes.
+**Log Files**
 
-#### INFORMATION COLLECTED AND USED
+Like many other Web sites, BestTimePass.Com makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-Besttimepass does not Collect any kind of your personal information information
+**Cookies and Web Beacons**
 
-When you install Besttimepass facebook app, we just got access to your public information like your user id, gender etc. through www.facebook.com (“Facebook”) in accordance with the policies and terms of Facebook.
+BestTimePass.Com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-We do not save any of these information
+**Adsense  Cookie**
 
-#### PUBLISHING ON FACEBOOK
+  * Google, as a third party vendor, uses cookies to serve ads on BestTimePass.Com
+  * Google’s use of the DART cookie enables it to serve ads to users based on their visit to BestTimePass.Com and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL -<http://www.google.com/privacy_ads.html>.
 
-When you add Besttimepass facebook application We may opt for publish_stream permission which is optional. You can decide whether to give it or not. We use this permission to give a wall post to your profile to let your friends know  Your related browsing experience on Besttimepass . We publish just once on your profile only once per session. We do not publish on any of your friends on your behalf without let you know.
 
-COOKIES
 
-A cookie is a small data file that we transfer to your computer’s hard disk, generally to quickly identify a user’s computer and to “remember” things about the user’s visit, such as your preferences
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on [BestTimePass.Com](http://besttimepass.com/) send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-A cookie will typically contain the name of the domain from which the cookie has come, the ‘lifetime’ of the cookie, and a value, usually a randomly generated unique number.
+BestTimePass.Com has no access to or control over these cookies that are used by third-party advertisers.
 
-We may use cookies to store some user(you) related data to provide you personalized experience of browsing.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices.BestTimePass.Com privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-For more information about how cookies work and how to disable them, go to http://www.allaboutcookies.org/manage-cookies/   . However, if you choose to disable cookies, you will not be able to enjoy a significant portion of the website and software functionality.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browser’s respective websites.
 
-#### LINKS
+**What information do we collect?**
 
-The Service doesnot contain any external site link But it may contain some Advertisement which can be links to other sites. On those sites we have no control and we do not take any responsibility for these site’s policy/offer or anything. We are not responsible for privacy policies or practices of other websites to which you choose to link from this site. We encourage you to review the privacy policies of those other web sites so that you can understand how they  
-collect, use and share your information.
+We collect information (EmailID) from you when you subscribe to a newsletter that is powered by Google Feed burner. If at any time you would like to unsubscribe from receiving future emails, you can follow the instructions at the bottom of each email.
 
-#### SECURITY
+**Contacting Us**
 
-We have implemented reasonable technical and organisational measures designed to secure your personal information  from accidental loss and from unauthorised access, use, alteration or disclosure. However, the Internet is an open system and we cannot guarantee that unauthorised third parties will never be able to defeat those measures or use your personal information for improper purposes.
-
-#### SALE OF THE BUSINESS
-
-In the event that the business is sold or integrated with another business, your details will be disclosed to our advisers and any prospective purchaser’s adviser and will be passed to the new owners of the business.  
-**YOUR RIGHT TO ACCESS INFORMATION**  
-You are entitled to see the information held about you. If you wish to do this, please contact us via our online contact form . We may require you to provide verification of your identity to provide a copy of the information we hold. We will respond to any request in accordance with the current data protection legislation. Please note that in certain circumstances we may withhold access to your information where we have the right to do so under current data protection legislation.
-
-#### UPDATING YOUR INFORMATION
-
-You may review, correct, update or change your personal information at any time by changing the relevant setting in your account or by contacting  us via our online contact form .
-
-#### CHANGES TO THIS PRIVACY POLICY
-
-If our privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures that you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties. This policy is last update on April 1, 2014
-
-#### CONTACTING US
-
-If you have any questions about this statement or your personal information,  
-please contact us via our online contact form or by emailing us at admin@Besttimepass.com
+If there are any questions regarding this privacy policy you may contact us at besttimepass.com@gmail.com
