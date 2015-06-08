@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adminschoice.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222005213id_/http%3A//adminschoice.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adminschoice.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608124152id_/http%3A//adminschoice.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Admin's Choice - Choice of Unix and Linux administrators
 
