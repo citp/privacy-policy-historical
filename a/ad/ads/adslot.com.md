@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adslot.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131442id_/http%3A//www.adslot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adslot.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608024204id_/http%3A//www.adslot.com/privacy-policy) for the most accurate reproduction.*
 
-# Adslot's Privacy Policy | Adslot
+# Privacy Policy | Adslot
 
 _Adslot Technologies Pty Ltd ACN 123 931 804_ (We, us, our) understands the importance of protecting the privacy of an individual’s personal information.
 
