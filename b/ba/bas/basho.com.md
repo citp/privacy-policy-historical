@@ -1,0 +1,101 @@
+> *The following text is extracted and transformed from the basho.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608122547id_/http%3A//basho.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy | Basho
+
+Welcome to the Basho Technologies (“Basho”) web site ([www.basho.com](http://www.basho.com/)) (“Basho Website”).  Basho values the privacy of visitors to the Basho Website (collectively or individually, “you” or “Users”).  This Privacy Policy explains how Basho collects and uses information gathered through the Basho Website.
+
+Some Users may purchase Basho products or services, or license Basho software, through separate commercial agreements executed between the User (or his/her company or employer) and Basho (“Commercial Agreement”).  The Commercial Agreement may contain different or additional terms and conditions pertaining to the collection, use and disclosure of information.  In the case of any conflicts between the terms of this Privacy Policy and the terms of a separate Commercial Agreement(s), the terms of the Commercial Agreement will control.
+
+By using the Basho Website, you expressly consent to the processing of information as described in this Privacy Policy.  If you do not agree with this Privacy Policy, please do not use the Basho Website.
+
+## 1\. The Information Basho Collects:
+
+User–provided Information: You may provide to Basho what is generally called “personally identifiable” information (such as your name, email address, postal mailing address, and telephone number(s)) to communicate with Basho or request information, or enter contests or other promotions Basho may sponsor, and to use the features and functionality of the Basho Website. You may also provide to Basho demographic information; information related to your web site such as the name, description and primary language of the site; and company name, telephone number, e–mail address, mailing address, and personal contacts within your company.
+
+Basho also provides an area for people looking for a job at Basho. In applying for a job or asking for information about a job we may require personal information from you such as your address or e–mail address.
+
+“Cookies” Information: When you access the Basho Website, we may send one or more cookies – small text files containing a string of alphanumeric characters – to your computer. Basho may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Basho Website. Persistent cookies can be removed. Please review your web browser “Help” file to learn the proper way to modify your cookie settings. Our cookies are linked to personal information. Some of our business partners (e.g. advertisers) use cookies and other tracking technologies on our site. We have no access to or control over these cookies. This Privacy Policy covers the use of cookies by Basho only and does not cover the use of cookies by any advertisers.
+
+“Flash Cookies” Defined: Flash cookies are similar to cookies described above, and are created when you use your video player. Flash cookies are stored in your video player’s cache memory. Flash cookies may or may not be removed the same way that cookies are removed. Please review your video player’s “Help”, “Tools” and or “Options” files to learn more about the proper way to modify your flash cookie settings. Our flash cookies are linked to personal information. Some of our business partners (e.g. advertisers) use flash cookies and other tracking technologies on our site. We have no access to or control over these flash cookies. This Privacy Policy covers the use of flash cookies by Basho only and does not cover the use of flash cookies by any advertisers.
+
+More information about flash cookies is available on the Adobe website at:<http://www.adobe.com/special/products/flashplayer/security/index.html>
+
+“Automatically Collected” Information: When you access the Basho Website or open one of our HTML emails, we may automatically record certain information from your system by using different types of tracking technology. This “automatically collected” information may include Internet Protocol address (“IP Address”), a unique user ID, version of software installed, system type, screen resolutions, color capabilities, plug–ins, language settings, cookie preferences, search engine keywords, JavaScript enablement, the content and pages that you access on the Basho Website, and the dates and times that you visit the Basho Website, paths taken, and time spent on sites and pages.
+
+## 2\. The Way Basho Uses Information
+
+Basho uses the information that you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on the Basho Website, to respond to your requests and/or communications, and to comply with our legal obligations (e.g. the Digital Millennium Copyright Act).
+
+We will use your email address, without further consent, for transactional or administrative communications such as notifying you of major Basho Website updates, new releases or product/service information, or to respond to your questions or communications.
+
+If you opt in to receive promotional communications or newsletters from us, you will be able to opt out of receiving these by clicking on the “unsubscribe” link in the promotional email or newsletter received from us.  Basho uses all of the information that we collect to understand the usage trends and preferences of our Users, to improve the way the Basho Website works and looks, and to create new features and functionality.
+
+Basho may use “Automatically Collected” information and “Cookies” information to: (a) automatically update the Basho application on your system; (b) remember your information so that you will not have to re–enter it during your visit or the next time you access the Basho Website; (c) monitor aggregate site usage metrics such as total number of visitors and pages accessed; and (d) track your entries, submissions, and status in any promotions or other activities.
+
+Information submitted to Basho as part of applications for employment or for partner candidates is used by Basho to evaluate your qualifications for the positions sought.
+
+Basho also supplements personal information collected with information from marketing databases.
+
+## 3\. When Basho Discloses Information:
+
+Basho does not share your personally identifiable information with other organizations for their marketing or promotional uses without your prior express consent. Please be aware, however, that any personally identifiable information that you voluntarily choose to display on any publicly available portion of the Basho Website becomes publicly available and may be read, collected and used by others without restriction. We are not responsible for the personally identifiable information you choose to submit in these forums.
+
+We also have testimonials on our site. Any user that has provided a testimonial on our site allows us to post their testimonial and personal information on the site.
+
+We may disclose some limited User information to affiliated companies or other businesses or persons to: provide web site hosting, maintenance, and security services; job board services; or to fulfill orders, conduct data analysis and create reports; offer certain functionality; and assist Basho in improving the Basho Website and creating new services features. We require that these parties process such information in compliance with this Privacy Policy, we authorize only a limited use of such information, and we require these parties to use reasonable confidentiality measures.
+
+Basho may share aggregate statistical information gathered from you and other Users with advertisers, business partners, sponsor or other third parties. For example, we may tell an advertiser that X number of visitors visited a certain area on a web site or that Y number of men and Z number of women filled out registration forms. We share such information only on an aggregate and anonymous basis.
+
+Basho may disclose User information if required to do so by law or in the good–faith belief that such action is necessary to comply with state and federal laws or respond to a court order, judicial or other government subpoena warrant, or legal process in the manner required by the requesting entity.
+
+Basho also reserves the right to disclose User information that we believe, in good faith, is appropriate or necessary to take precautions against liability; protect Basho from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against third–party claims or allegations; to assist government enforcement agencies as allowed by law; to protect the security or integrity of the Basho Website; or to protect the rights, property, or personal safety of Basho, our Users, or others.
+
+## 4\. Your Choices:
+
+You may, of course, decline to share your personally–identifiable information with Basho, in which case Basho may not be able to provide to you some of the features and functionality found on the Basho Website. You may update, correct, or delete your user information and preferences by sending us a request at: [info@basho.com](mailto:info@basho.com "info@basho.com"). We will respond to your request within 30 days.
+
+You do not need to set up a user id and password to use our web sites because we do not require you to establish your identity when you visit our sites.
+
+## 5\. Web Beacons
+
+Our web pages contain electronic image requests (called a “single–pixel gif” or “web beacon” request) that allow us to count page views and to access cookies. Any electronic image viewed as part of a web page, including an ad banner, can act as a web beacon. Web beacons are typically 1–by–1 pixel files, but their presence can usually be seen within a browser by clicking on “View” and then on “Source.” We also include web beacons in HTML–formatted newsletters that we send to opt–in subscribers in order to count how many newsletters have been read. Basho web beacons do not collect, gather, monitor or share any personally identifiable information about our web site visitors, they are just the technique we use to compile anonymous information about web site usage.
+
+## 6\. Our Commitment to Data Security:
+
+Basho uses commercially reasonable physical, administrative, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Basho, and you do so at your own risk. Once we receive your transmission of information, Basho exercises commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or administrative safeguards.
+
+If Basho learns of a security systems breach, then we may attempt to notify you directly and/or Basho may post a notice on the Basho Website if a security breach occurs.
+
+## 7\. Our Commitment to Children’s Privacy:
+
+IF YOU ARE UNDER 13 YEARS OF AGE, THEN PLEASE DO NOT USE OR ACCESS THE BASHO WEBSITE AT ANY TIME OR IN ANY MANNER.
+
+Basho does not knowingly collect or maintain personally identifiable information from persons under 13 years–of–age. If Basho learns that personally–identifiable information of persons less than 13–years–of–age has been collected on or through the Basho Website, then Basho will take the appropriate steps to delete this information.
+
+If you are the parent or legal guardian of a child under 13 who uses the Basho Website, then please contact Basho at[info@basho.com](mailto:info@basho.com "info@basho.com") (or the physical address listed in Section 13 below) to have that child’s information deleted.
+
+## 8\. International Visitors:
+
+For Users visiting the Basho Website from the European Economic Area or other non–U.S. territories, please note that any data you enter into the Basho Website will be transferred outside the European Economic Area or such other non–U.S. territory for use by Basho and its affiliates for any of the purposes described herein. In addition, because Basho operates globally, we may make information we gather available to worldwide business units and affiliates. By providing any data on the Basho Website, you hereby expressly consent to such transfers of your data to the United States or other countries.
+
+## 9\. In the Event of Merger or Sale:
+
+In the event that Basho is acquired by or merged with a third–party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from Users as part of that merger, acquisition, sale, or other change of Control.
+
+## 10\. Changes and Updates to this Privacy Policy:
+
+This Privacy Policy may be revised periodically without further notice to you and this will be reflected by a “last modified” date below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received that personal information. Your continued use of the Basho Website constitutes your agreement to this Privacy Policy and any future revisions.
+
+For revisions to this Privacy Policy that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will make reasonable efforts to notify you (e.g. by email or by means of a notice on our homepage) and obtain your consent before implementing revisions with respect to such information.
+
+## 11\. Effective Date, Date Last Modified:
+
+Privacy Policy effective as of August 29, 2014.
+
+## 12\. Unsolicited E–mails:
+
+Basho does not send unsolicited e–mails to non–public addresses or to anyone who has asked us not to contact him or her. Any newsletters that we send are only sent to those who have subscribed to them. To stop receiving e–mails or newsletters from Basho, either click on an unsubscribe link on the e–mail or newsletter itself or send a request to be unsubscribed to[info@basho.com](mailto:info@basho.com).
+
+## 13\. Basho Contact Information:
+
+Please contact Basho with any questions or comments about this Privacy Policy, your personal information, and our third–party disclosure practices or your consent choices at: Basho Technologies, Inc., 10900 NE 8th Street, Suite 1580, Bellevue WA 98004 T: 617.714.1700 or by email to [info@basho.com](mailto:info@basho.com) . We will respond to your inquiry within 30 days of its receipt.
