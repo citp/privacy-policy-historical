@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturalsociety.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120065018id_/http%3A//naturalsociety.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalsociety.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608121118id_/http%3A//naturalsociety.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Natural Society
 
@@ -29,5 +29,10 @@ Natural Society has no access to or control over these cookies that are used by 
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Natural Society’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.  
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
+* * *
+
+Stock up on the ONLY 100% [USDA organic storable food](https://web.archive.org/product/usda-organic-40-days-storeable-food/) available through the [Natural Society Store](https://web.archive.org/shop/). 30 days of super high quality organic food for the lowest prices.
+
+* * *
