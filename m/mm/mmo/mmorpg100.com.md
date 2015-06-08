@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmorpg100.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113133323id_/http%3A//www.mmorpg100.com/index.php%3Fa%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmorpg100.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609013059id_/http%3A//www.mmorpg100.com/index.php%3Fa%3Dprivacy) for the most accurate reproduction.*
 
 # MMORPG ONLINE 100 chart
 
