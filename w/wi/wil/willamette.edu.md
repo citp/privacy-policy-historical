@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the willamette.edu privacy policy that was archived on 2014-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140907032637id_/http%3A//willamette.edu/dept/policies/tech/web_privacy_policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the willamette.edu privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608033656id_/http%3A//www.willamette.edu/dept/policies/tech/web_privacy_policy/index.html) for the most accurate reproduction.*
 
 # Willamette University Technology Policies: Web Policy | Willamette University
 
