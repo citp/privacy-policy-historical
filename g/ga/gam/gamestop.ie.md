@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamestop.ie privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125140839id_/http%3A//www.gamestop.ie/Help/Index/%3Fsection%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamestop.ie privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608055609id_/http%3A//www.gamestop.ie/Help/Index/%3Fsection%3DPrivacy) for the most accurate reproduction.*
 
 # 
 
