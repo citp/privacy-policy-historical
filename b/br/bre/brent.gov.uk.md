@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brent.gov.uk privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117071640id_/http%3A//brent.gov.uk/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brent.gov.uk privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608044346id_/http%3A//brent.gov.uk/privacy-cookie-policy) for the most accurate reproduction.*
 
-# Privacy & cookie policy
+# Privacy and cookie policy | Brent Council
 
 ## Privacy statement
 
