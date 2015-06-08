@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailynewsdig.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123210238id_/http%3A//dailynewsdig.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailynewsdig.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608025609id_/http%3A//dailynewsdig.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Daily News Dig
 
