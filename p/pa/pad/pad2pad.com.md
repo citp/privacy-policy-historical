@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pad2pad.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209182353id_/http%3A//www.pad2pad.com/footer/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pad2pad.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608125215id_/http%3A//www.pad2pad.com/footer/privacy-policy.htm) for the most accurate reproduction.*
 
 # Pad2Pad Privacy policy | Footer | Main
 
