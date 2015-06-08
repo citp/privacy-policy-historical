@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the csuglobal.edu privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216152005id_/http%3A//csuglobal.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csuglobal.edu privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608133849id_/https%3A//csuglobal.edu/privacy-policy) for the most accurate reproduction.*
 
-# csuglobal.edu :: Privacy Policy
+# csuglobal.edu :: Web Privacy Policy
 
 ## Commitment to Individual Privacy
 
