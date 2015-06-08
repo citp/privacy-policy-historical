@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commonfloor.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125053627id_/http%3A//www.commonfloor.com/public/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commonfloor.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608214633id_/http%3A//www.commonfloor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@
 
 We value the trust you place in maxHeap Technologies Pvt. Ltd. That's why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices. Note: Our privacy policy is subject to change at any time. To make sure you are aware of any changes, please review this policy periodically. 
 
-[www.commonfloor.com](http://www.commonfloor.com/) (“Website”) is owned and operated by maxHeap Technologies Pvt. Ltd.; all references to "CommonFloor", "CF", "we", or "us", include maxHeapTechnologoes Pvt. Ltd. 
+[www.commonfloor.com](https://web.archive.org/) ("Website") is owned and operated by maxHeap Technologies Pvt. Ltd.; all references to "CommonFloor", "CF", "we", or "us", include maxHeapTechnologoes Pvt. Ltd. 
 
 **1\. Creation of Account**
 
@@ -45,8 +45,8 @@ We value the trust you place in maxHeap Technologies Pvt. Ltd. That's why we ins
   * We will never sell, rent, or share your personally identifiable information to any third parties for marketing purposes. CF will have a right to use this information for its business purposes by itself or with its business associates. 
   * CF will have a right to use the information to provide personalised advertisements and offers, or to include that information in compilations developed by CF, or to develop derivative works based on that information. 
   * You agree that CF may use personal information about you to improve its marketing and promotional efforts, to analyze site usage, improve the Site's content and product offerings and for its business purposes. 
-  * CF may be required from time to time to disclose users’ personal information to Governmental or law enforcing agencies or our regulators. 
-  * We may also disclose personal information to enforce our policies, respond to claims that a posting or other content violates other’s rights, or protects anyone’s rights, property or safety. 
+  * CF may be required from time to time to disclose users' personal information to Governmental or law enforcing agencies or our regulators. 
+  * We may also disclose personal information to enforce our policies, respond to claims that a posting or other content violates other's rights, or protects anyone's rights, property or safety. 
   * Do other things for users as described when we collect the information. 
 
   
@@ -54,7 +54,7 @@ We value the trust you place in maxHeap Technologies Pvt. Ltd. That's why we ins
 
 **5\. COLLECTION OF INFORMATION BY THIRD PARTY SITES**
 
-  * The Website may contain links to other sites whose information practices may be different than ours. You should consult the other sites’ privacy notices as we have no control over information that is submitted to, or collected by, these third parties. 
+  * The Website may contain links to other sites whose information practices may be different than ours. You should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties. 
 
   
 
@@ -86,7 +86,7 @@ We value the trust you place in maxHeap Technologies Pvt. Ltd. That's why we ins
 
   * Your account is password protected. We use industry standard measures to protect the personal information that is stored in our database. We limit the access to your personal information to those employees and contractors who need access to perform their job function, such as our customer service personnel. If you have any questions about the security on Website, please contact us. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that your personal information will never be disclosed in a manner that is inconsistent with this Privacy Policy. 
   * _You hereby acknowledge that Website is not responsible for any intercepted information sent via the internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner._
-  * Website will not be responsible for any loss of data / information resulting due to unauthorizedaccess to Website’s servers. 
+  * Website will not be responsible for any loss of data / information resulting due to unauthorizedaccess to Website's servers. 
 
   
 
