@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailysuperheroes.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228070214id_/http%3A//dailysuperheroes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailysuperheroes.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609001940id_/http%3A//dailysuperheroes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Daily Superheroes
 
@@ -48,6 +48,10 @@ This privacy policy applies only to our online activities and is valid for visit
 **Consent**  
 By using our website, you hereby consent to our privacy policy and agree to its terms.
 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
+
+Burst Media requires you to upload an up to date W9 or W8BEN directly into your Account Center. If you need us to send an electronic copy of either form, please contact us directly.
+
 **Update**  
-This Privacy Policy was last updated on: Thursday, September 4th, 2014.  
+This Privacy Policy was last updated on: Tuesday, February 24th, 2015.  
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
