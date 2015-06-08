@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thepointsguy.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223133228id_/http%3A//thepointsguy.com/credit-cards/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepointsguy.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609003321id_/http%3A//thepointsguy.com/credit-cards/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy / Your California Privacy Rights | The Points Guy
-
-This post contains references to products from one or more of our advertisers. We may receive compensation when you click on links to those products. For an explanation of our Advertising Policy, [visit this page](http://thepointsguy.com/tpg-advertising-policy/).
+# Privacy Policy / Your California Privacy Rights
 
 PRIVACY POLICY / YOUR CALIFORNIA PRIVACY RIGHTS
 
@@ -117,22 +115,22 @@ How We Use Information
 We may make Use of Your Information for various lawful business purposes. Among others, these  
 purposes may include using Your Information to:
 
-\- Engage in customer support. For example, we might confirm and complete transactions  
+– Engage in customer support. For example, we might confirm and complete transactions  
 requested by you, verify information you provide to us and provide you with administrative  
 notices.
 
-\- Contact you and provide you with information. For example, we might provide or contact you  
+– Contact you and provide you with information. For example, we might provide or contact you  
 through telephone, email, postal or other communications with Service updates, promotional  
 materials, surveys, offers, quotes, personalized information and other information from us or our  
 business partners.
 
-\- Analyze, improve and manage our Services and operations. For example, we might obtain  
+– Analyze, improve and manage our Services and operations. For example, we might obtain  
 feedback regarding our Services, understand and anticipate your needs and preferences, better  
 understand your use of our Services, customize and tailor Service content and advertising,  
 improve our marketing and promotional efforts, engage in statistical analysis and provide  
 feedback to our vendors, advertisers and other third parties.
 
-\- Resolve problems and disputes, and engage in other legal and security matters. For example,  
+– Resolve problems and disputes, and engage in other legal and security matters. For example,  
 we may use Your Information to comply with, monitor compliance with and enforce this Privacy  
 Policy, our Terms of Use and any other applicable agreements and policies, meet other legal and  
 regulatory requirements, and to protect the security and integrity of our Services.
@@ -143,22 +141,22 @@ General Disclosure of Your Information
 
 We may disclose Your Information:
 
-\- To any person who, in our reasonable judgment, is authorized to receive Your Information as  
+– To any person who, in our reasonable judgment, is authorized to receive Your Information as  
 your agent, including as a result of your business dealings with that person (for example, your  
 attorney);
 
-\- To our third-party vendors so that they may provide support for our internal and business  
+– To our third-party vendors so that they may provide support for our internal and business  
 operations, including for the handling of data processing, data verification, data storage, surveys,  
 research, internal marketing, delivery of promotional, marketing and transaction materials,  
 and our Services’ maintenance and security. These companies are authorized to Use Your  
 Information only as necessary to provide these services to us and are contractually obligated to  
 keep Your Information confidential;
 
-\- To third parties such as insurance providers when you use our Services to request a quote,  
+– To third parties such as insurance providers when you use our Services to request a quote,  
 services, or information from one or more of those third parties (“Requested Service Providers”),  
 such as by clicking “get your quotes” or other similar buttons at the end of a form;
 
-\- To third parties when you engage in certain activities through our Services that are sponsored  
+– To third parties when you engage in certain activities through our Services that are sponsored  
 by them, such as purchasing products or services offered by a third party, electing to receive  
 information or communications from a third party, or electing to participate in contests,  
 sweepstakes, games or other programs sponsored, in whole or in part, by a third party. When  
@@ -166,26 +164,26 @@ we disclose Your Information to these third parties, Your Information will becom
 information use and sharing practices of the third party, and the third party will not be restricted by  
 this Privacy Policy with respect to its use and further sharing of Your Information;
 
-\- To third parties that are interested in contacting you or providing offers to you that may be related  
+– To third parties that are interested in contacting you or providing offers to you that may be related  
 to our Services or about products or services you may find of interest;
 
-\- As required by law or ordered by a court, regulatory, or administrative agency;
+– As required by law or ordered by a court, regulatory, or administrative agency;
 
-\- As we deem necessary, in our sole discretion, if we believe that you are violating any applicable  
+– As we deem necessary, in our sole discretion, if we believe that you are violating any applicable  
 law, rule or regulation, or are otherwise interfering with another’s rights or property, including,  
 without limitation, our rights or property;
 
-\- If requested by authorities in the event of any act of terrorism or instance of local, regional or  
+– If requested by authorities in the event of any act of terrorism or instance of local, regional or  
 national emergency;
 
-\- To enforce our Terms of Use, this Privacy Policy, and any other applicable agreements and  
+– To enforce our Terms of Use, this Privacy Policy, and any other applicable agreements and  
 policies;
 
-\- To enforce or protect our rights;
+– To enforce or protect our rights;
 
-\- In connection with a Business Transfer, as defined below (see Business Transfers below); and
+– In connection with a Business Transfer, as defined below (see Business Transfers below); and
 
-\- To our affiliated companies (i.e., companies under common control or management with us).
+– To our affiliated companies (i.e., companies under common control or management with us).
 
 If you do not want Your Information shared as described above, then you should not  
 provide us with Your Information.
@@ -325,17 +323,17 @@ Choices About How We Use and Disclose Your Information
 We strive to provide you with choices regarding the personal information you provide to us. Below are  
 some mechanisms that provide you with control over certain information:
 
-\- Cookies. If you do not wish us to collect cookies, you may set your browser to refuse cookies,  
+– Cookies. If you do not wish us to collect cookies, you may set your browser to refuse cookies,  
 or to alert you when cookies are being sent. If you do so, please note that some parts of our  
 Services may then be inaccessible or may not function properly.
 
-\- Email Offers from Us. If you do not wish to receive email offers or newsletters from us, you can  
+– Email Offers from Us. If you do not wish to receive email offers or newsletters from us, you can  
 opt out of receiving email information from us (other than emails related to the completion of  
 your registration, correction of user data, change of password and other similar communications  
 essential to your transactions through our Services) by using the unsubscribe process at the  
 bottom of the email.
 
-\- Online Behavioral Advertising. Certain third-party advertising networks that deliver behavioral  
+– Online Behavioral Advertising. Certain third-party advertising networks that deliver behavioral  
 advertising are members of the Network Advertising Initiative (“NAI”). You can prevent NAI  
 member companies from collecting preference data about you by clicking here and following  
 the NAI’s directions. Note that if you opt out through the NAI, you will still receive advertising. In  
@@ -412,5 +410,3 @@ on the subject line and in the body of the message and must include the email ad
 address, as applicable, for us to send our response. This request may be made no more than once  
 per calendar year. We reserve the right not to respond to requests submitted other than to the address  
 specified above.
-
-Disclaimer: The responses below are not provided or commissioned by the bank advertiser. Responses have not been reviewed, approved or otherwise endorsed by the bank advertiser. It is not the bank advertiser's responsibility to ensure all posts and/or questions are answered.
