@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadid.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203022746id_/http%3A//www.roadid.com/Common/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadid.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608121431id_/http%3A//www.roadid.com/Common/privacy.aspx) for the most accurate reproduction.*
 
 # Road ID® - Privacy Policy
 
