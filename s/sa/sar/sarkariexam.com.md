@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sarkariexam.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921030719id_/http%3A//www.sarkariexam.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarkariexam.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608222836id_/http%3A//www.sarkariexaam.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SarkariExam
 
