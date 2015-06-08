@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sprayground.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224210839id_/http%3A//www.sprayground.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sprayground.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041433id_/http%3A//www.sprayground.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sprayground Backpacks, Bags, and Accessories
 
