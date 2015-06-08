@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nr-apps.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123042432id_/http%3A//nr-apps.com/store/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nr-apps.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608083331id_/http%3A//www.nr-apps.com/store/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | nr-apps.com Magento modules & extensions
 
