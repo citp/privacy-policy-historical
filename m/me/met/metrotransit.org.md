@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrotransit.org privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201130307id_/http%3A//www.metrocouncil.org/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrotransit.org privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608025454id_/http%3A//www.metrocouncil.org/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Metropolitan Council - Privacy Policy
 
@@ -63,5 +63,5 @@ Attn: Office of Communications 
 390 N. Robert Street   
 St. Paul, MN 55101   
 [public.info@metc.state.mn.us](mailto:public.info@metc.state.mn.us)  
-651-602-1310 (voice)  
+651-602-1500 (voice)  
 651-602-1550 (fax)
