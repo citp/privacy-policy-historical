@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fooplugins.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216162055id_/http%3A//fooplugins.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fooplugins.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608020816id_/https%3A//fooplugins.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FooPlugins
 
@@ -67,9 +67,7 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-FooPlugins LLC.
-
-http://fooplugins.com
-
+FooPlugins LLC.  
+http://fooplugins.com  
 4411 Bee Ridge Road #617 Sarasota, FL 34233  
 info@fooplugins.com
