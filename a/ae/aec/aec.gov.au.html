@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aec.gov.au privacy policy that was archived on 2014-10-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141015180510id_/http%3A//www.aec.gov.au/footer/Privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aec.gov.au privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608041712id_/http%3A//www.aec.gov.au/footer/Privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!-- InstanceBegin template="/Templates/aecgovau-content.dwt" codeOutsideHTMLIsLocked="false" --><head>
 	<meta charset="utf-8">
@@ -27,7 +27,7 @@
 <!-- InstanceEndEditable -->
 	<link rel="shortcut icon" href="/favicon.ico">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" type="text/css" href="/_template/css/aec-styles.min.css">
+<link rel="stylesheet" type="text/css" href="/_template/css/aec-styles.min.css?v=5.2">
 <link rel="stylesheet" type="text/css" href="/_template/css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="/_template/css/print.css" media="print">
 <!-- IE6-8 support of HTML5 elements -->
@@ -46,7 +46,6 @@
 			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 			})();
 </script>
-
     <!-- InstanceBeginEditable name="override" -->
 <!-- override page styles -->
 <!-- InstanceEndEditable -->
@@ -69,15 +68,16 @@
             </div>
             <div class="span6 visible-desktop">
 				<script type="text/javascript">
-					function validateSearch(frm) {
-					if ((frm.query.value == "") || (frm.query.value == " ")) {
-						frm.query.focus();
+				function validateSearch(frm) {
+					var searchQuery = $("input[id=query]").val();
+					if ((!searchQuery)) {
+						$("input[id=query]").focus();
 						return false;
 					}
 					return true;
-					}
+				}
 				</script>
-                <form class="search-form" action="http://agencysearch.australia.gov.au/s/search.html" method="get" onsubmit="javascript: return validateSearch(this);">
+                <form class="search-form" action="http://agencysearch.australia.gov.au/s/search.html" method="get" onsubmit="return validateSearch();">
                     <input type="hidden" class="hiddens" name="collection" value="agencies">
                     <input type="hidden" class="hiddens" name="form" value="simple">
                     <input type="hidden" class="hiddens" name="profile" value="aec">
@@ -100,15 +100,16 @@
         	<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"><span class="icon-menu"></span></a>
             <div class="hidden-desktop search-collapse">
             	<script type="text/javascript">
-					function validateSearch(frm) {
-					if ((frm.queries.value == "") || (frm.queries.value == " ")) {
-						frm.queries.focus();
+				function validateMobSearch(frm) {
+					var searchMobQuery = $("input[id=queries]").val();
+					if ((!searchMobQuery)) {
+						$("input[id=queries]").focus();
 						return false;
 					}
 					return true;
-					}
+				}
 				</script>
-                <form class="search-form" action="http://agencysearch.australia.gov.au/s/search.html" method="get" onsubmit="javascript: return validateSearch(this);">
+                <form class="search-form" action="http://agencysearch.australia.gov.au/s/search.html" method="get" onsubmit="return validateMobSearch();">
                     <input type="hidden" class="hiddens" name="collection" value="agencies">
                     <input type="hidden" class="hiddens" name="form" value="simple">
                     <input type="hidden" class="hiddens" name="profile" value="aec">
@@ -118,7 +119,7 @@
                 </form>
 
             </div>
-            <div class="nav-collapse">
+            <div class="nav-collapse collapse">
                 <ul class="nav">
                     <li class="dropdown"> 
                     	<a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="/enrol">Enrol to vote <b class="caret"></b></a>
@@ -128,101 +129,101 @@
                             <li><a href="/enrol/change-name.htm">Change name</a></li>
                             <li><a href="/check">Check enrolment</a></li>
                             <li class="divider"></li>
-                            <li><a href="/FAQs/Enrolment.htm" title="Enrolment FAQs">Enrolment FAQs</a></li>
-                            <li><a href="/Enrolling_to_vote/Special_Category/index.htm" title="Special category enrolment">Special category enrolment</a></li>
-                            <li><a href="/Enrolling_to_vote/overseas/index.htm" title="I'm going overseas">I'm going overseas</a></li>
-                            <li><a href="/Enrolling_to_vote/Enrolment_stats/index.htm" title="Enrolment statistics">Enrolment statistics</a></li>
+                            <li><a href="/FAQs/Enrolment.htm">Enrolment FAQs</a></li>
+                            <li><a href="/Enrolling_to_vote/Special_Category/index.htm">Special category enrolment</a></li>
+                            <li><a href="/Enrolling_to_vote/overseas/index.htm">I'm going overseas</a></li>
+                            <li><a href="/Enrolling_to_vote/Enrolment_stats/index.htm">Enrolment statistics</a></li>
                             <li class="divider"></li>
-                            <li><a href="/Enrolling_to_vote/About_Electoral_Roll/" title="About the electoral roll">About the electoral roll</a></li>
+                            <li><a href="/Enrolling_to_vote/About_Electoral_Roll/">About the electoral roll</a></li>
                         </ul>
                     </li>
                     <li class="dropdown"> 
                     	<a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="/voting/">Voting <b class="caret"></b></a>
                         <ul class="dropdown-menu">
-                            <li><a href="/Voting/index.htm" title="Voting overview">Voting overview</a></li>
+                            <li><a href="/Voting/index.htm">Voting overview</a></li>
                             <li class="divider"></li>
-                            <li><a href="/Voting/your_vote.htm" title="Your vote">Make sure you count</a></li>
-                            <li><a href="/Voting/ways_to_vote/" title="Ways to vote">Ways to vote</a></li>
-                            <li><a href="/Voting/How_to_Vote/" title="How to vote">How to vote</a></li>
-                            <li><a href="/Voting/polling.htm" title="At a polling place">At a polling place</a></li>
-                            <li><a href="/Voting/Informal_Voting/" title="Informal voting">Informal voting</a></li>
-                            <li><a href="/Voting/counting/index.htm" title="Counting the votes">Counting the votes</a></li>
-                            <li><a href="/Voting/How_to_vote/voting_practice.htm" title="Practise voting">Practise voting</a></li>
+                            <li><a href="/Voting/your_vote.htm">Make sure you count</a></li>
+                            <li><a href="/Voting/ways_to_vote/">Ways to vote</a></li>
+                            <li><a href="/Voting/How_to_Vote/">How to vote</a></li>
+                            <li><a href="/Voting/polling.htm">At a polling place</a></li>
+                            <li><a href="/Voting/Informal_Voting/">Informal voting</a></li>
+                            <li><a href="/Voting/counting/index.htm">Counting the votes</a></li>
+                            <li><a href="/Voting/How_to_vote/voting_practice.htm">Practise voting</a></li>
                             <li class="divider"></li>
-                            <li><a href="/Voting/indigenous_vote/index.htm" title="Indigenous Australians">Indigenous Australians</a></li>
+                            <li><a href="/Voting/indigenous_vote/index.htm">Indigenous Australians</a></li>
                         </ul>
                     </li>
                     <li class="dropdown"> 
                     	<a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="/Electorates/">Electorates <b class="caret"></b></a>
                         <ul class="dropdown-menu">
-                            <li><a href="/electorate" title="Find my electorate">Find my electoral division</a></li>
+                            <li><a href="/electorate">Find my electoral division</a></li>
                             <li class="divider"></li>
-                            <li><a href="/profiles/index.htm" title="Profiles of divisions">Current federal electoral divisions</a></li>
-                            <li><a href="/Electorates/maps.htm" title="Maps and data">Maps and spatial data</a></li>                            
-                            <li><a href="/Electorates/Redistributions/index.htm" title="Redistributions">Redistributions</a></li>
+                            <li><a href="/profiles/index.htm">Current federal electoral divisions</a></li>
+                            <li><a href="/Electorates/maps.htm">Maps and spatial data</a></li>                            
+                            <li><a href="/Electorates/Redistributions/index.htm">Redistributions</a></li>
                         </ul>
                     </li>
                     <li class="dropdown"> 
                     	<a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="/Parties_and_Representatives/">Funding, disclosure and Political parties<b class="caret"></b></a>
                         <ul class="dropdown-menu">
-                            <li><a href="/Parties_and_Representatives/index.htm" title="Funding, Disclosure &amp; Political Parties overview">Overview</a></li>
+                            <li><a href="/Parties_and_Representatives/index.htm">Overview</a></li>
                             <li class="divider"></li>
-                            <li><a href="/Parties_and_Representatives/financial_disclosure/index.htm" title="Financial Disclosure">Financial Disclosure</a></li>
-                            <li><a href="/Parties_and_Representatives/public_funding/index.htm" title="Election Funding">Election Funding</a></li>
-                            <li><a href="/Parties_and_Representatives/party_registration/index.htm" title="Political Party Registration">Political Party Registration</a></li>
-                            <li><a href="/Parties_and_Representatives/Political_Representation/index.htm" title="Political Representation">Political Representation</a></li>
-                            <li><a href="/Parties_and_Representatives/compliance/index.htm" title="Compliance Reviews and Investigations">Compliance Reviews and Investigations</a></li>
+                            <li><a href="/Parties_and_Representatives/financial_disclosure/index.htm">Financial Disclosure</a></li>
+                            <li><a href="/Parties_and_Representatives/public_funding/index.htm">Election Funding</a></li>
+                            <li><a href="/Parties_and_Representatives/party_registration/index.htm">Political Party Registration</a></li>
+                            <li><a href="/Parties_and_Representatives/Political_Representation/index.htm">Political Representation</a></li>
+                            <li><a href="/Parties_and_Representatives/compliance/index.htm">Compliance Reviews and Investigations</a></li>
                         </ul>
                     </li>
                     <li class="dropdown"> 
                     	<a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="/Elections/">Elections <b class="caret"></b></a>
                         <ul class="dropdown-menu">
-                            <li><a href="/Elections/index.htm" title="Elections overview">Elections overview</a></li>
-                            <li><a href="/Elections/Australian_Electoral_History/" title="Australian electoral history">Australian electoral history</a></li>
-                            <li><a href="/Elections/australian_electoral_system/" title="Parliamentary Committees">Parliamentary Committees</a></li>                            
+                            <li><a href="/Elections/index.htm">Elections overview</a></li>
+                            <li><a href="/Elections/Australian_Electoral_History/">Australian electoral history</a></li>
+                            <li><a href="/Elections/australian_electoral_system/">Parliamentary Committees</a></li>                            
                             <li class="divider"></li>
-                            <li><a href="/Elections/Federal_Elections/" title="Federal Elections">Federal elections</a></li>
-                            <li><a href="/Elections/candidates/index.htm" title="Information for Candidates and Scrutineers">Information for candidates &amp; scrutineers</a></li>
-                            <li><a href="/Elections/supplementary_by_elections/index.htm" title="By-elections and supplementary elections">By-elections and supplementary elections</a></li>
-                            <li><a href="/Elections/referendums/index.htm" title="Referendums">Referendums</a></li>
+                            <li><a href="/Elections/Federal_Elections/">Federal elections</a></li>
+                            <li><a href="/Elections/candidates/index.htm">Information for candidates &amp; scrutineers</a></li>
+                            <li><a href="/Elections/supplementary_by_elections/index.htm">By-elections and supplementary elections</a></li>
+                            <li><a href="/Elections/referendums/index.htm">Referendums</a></li>
                             <li class="divider"></li>
-                            <li><a href="/About_AEC/AEC_Services/Industrial_Elections/index.htm" title="Industrial Elections">Industrial Elections</a></li>
-                            <li><a href="/Elections/pab/" title="Protected Action Ballots">Protected Action Ballots</a></li>
-                            <li><a href="/About_AEC/AEC_Services/Fee_for_service.htm" title="Fee For Service Elections">Fee For Service Elections</a></li>
+                            <li><a href="/About_AEC/AEC_Services/Industrial_Elections/index.htm">Industrial Elections</a></li>
+                            <li><a href="/Elections/pab/">Protected Action Ballots</a></li>
+                            <li><a href="/About_AEC/AEC_Services/Fee_for_service.htm">Fee For Service Elections</a></li>
                             <li class="divider"></li>
-                            <li><a href="/Elections/tsra/index.htm" title="Torres Strait Regional Authority Elections">Torres Strait Regional Authority Elections</a></li>
+                            <li><a href="/Elections/tsra/index.htm">Torres Strait Regional Authority Elections</a></li>
                         </ul>
                     </li>
                     <li class="dropdown"> 
                     	<a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="/education/">Education <b class="caret"></b></a>
                         <ul class="dropdown-menu  pull-right">
-                            <li><a href="/Education/index.htm" title="Education Overview">Education Overview</a></li>
+                            <li><a href="/Education/index.htm">Education Overview</a></li>
                             <li class="divider"></li>
-                            <li><a href="/Education/services/eec_canberra.htm" title="National Electoral Education Centre">National Electoral Education Centre</a></li>
-                            <li><a href="http://education.aec.gov.au/getvoting" title="Get Voting">Get Voting</a></li>
+                            <li><a href="/Education/services/eec_canberra.htm">National Electoral Education Centre</a></li>
+                            <li><a href="http://education.aec.gov.au/getvoting">Get Voting</a></li>
                             <li><a href="http://education.aec.gov.au/making-a-nation/default.html">'Making a Nation'</a></li>
-                            <li><a href="/Education/Democracy_Rules/index.htm" title="Democracy Rules">'Democracy Rules'</a></li>
-                            <li><a href="/Education/classroom-resources.htm" title="Classroom Resources">Classroom Resources</a></li>
-                            <li><a href="/Education/Publications.htm" title="Publications">Publications</a></li>
-                            <li><a href="/Education/Video.htm" title="DVDs and Videos">DVDs and Videos</a></li>
+                            <li><a href="/Education/Democracy_Rules/index.htm">'Democracy Rules'</a></li>
+                            <li><a href="/Education/classroom-resources.htm">Classroom Resources</a></li>
+                            <li><a href="/Education/Publications.htm">Publications</a></li>
+                            <li><a href="/Education/Video.htm">DVDs and Videos</a></li>
                         </ul>
                     </li>
                     <li class="dropdown"> 
                     	<a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="/About_AEC/">About AEC<b class="caret"></b></a>
                         <ul class="dropdown-menu pull-right">
-                            <li><a href="/About_AEC/index.htm" title="Overview of the Australian Electoral Commission (AEC)">Overview of the AEC</a></li>
+                            <li><a href="/About_AEC/index.htm">Overview of the AEC</a></li>
                             <li class="divider"></li>
-                            <li><a href="/About_AEC/AEC_Services/" title="AEC Services">AEC Services</a></li>
-                            <li><a href="/About_AEC/cea-notices/" title="Notices">Notices</a></li>
-                            <li><a href="/media" title="Media Centre">Media Centre</a></li>
-                            <li><a href="http://annualreport.aec.gov.au/annual-reports.html" title="Annual Reports">Annual Reports</a></li>
-                            <li><a href="/About_AEC/Publications/" title="Publications">Publications</a></li>
-                            <li><a href="/About_AEC/research/" title="Research">Research</a></li>
-                            <li><a href="/About_AEC/business-with-us.htm" title="Business with us">Business with us</a></li>
-                            <li><a href="/Employment/" title="Employment">Employment</a></li>
-                            <li><a href="/About_AEC/Translated_information/" title="Translated Information">Translated Information</a></li>
+                            <li><a href="/About_AEC/AEC_Services/">Functions of the AEC</a></li>
+                            <li><a href="/About_AEC/cea-notices/">Notices</a></li>
+                            <li><a href="/media">Media Centre</a></li>
+                            <li><a href="http://annualreport.aec.gov.au/annual-reports.html">Annual Reports</a></li>
+                            <li><a href="/About_AEC/Publications/">Publications</a></li>
+                            <li><a href="/About_AEC/research/">Research</a></li>
+                            <li><a href="/About_AEC/business-with-us.htm">Business with us</a></li>
+                            <li><a href="/Employment/">Employment</a></li>
+                            <li><a href="/About_AEC/Translated_information/">Translated Information</a></li>
                             <li class="divider"></li>
-                            <li><a href="/About_AEC/Contact_the_AEC/index.htm" title="Contact AEC">Contact AEC</a></li>
+                            <li><a href="/About_AEC/Contact_the_AEC/index.htm">Contact AEC</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -483,32 +484,6 @@
             <div id="sidebar">   
                  <h3><i class="sidebar-lg-icon-enrolment"></i>My electoral enrolment</h3>
                  <div class="sidebar-box">
-                      <!--    <a href="/change-address" class="change" onclick="_gaq.push(['_trackEvent', 'change-address', 'click', 'sidebar']);">
-                          	<div class="feature-button">
-                        		<h2><i class="sidebar-icon-address"></i>Change address</h2>
-                        	</div>
-                          </a>
-                          <a href="/enrol" class="enrol" onclick="_gaq.push(['_trackEvent', 'enrol', 'click', 'sidebar']);">
-                          	<div class="feature-button">
-                        		<h2><i class="sidebar-icon-enrol"></i>Enrol to vote</h2>
-                        	</div>
-                          </a>
-                          <a href="/check" class="check" onclick="_gaq.push(['_trackEvent', 'check', 'click', 'sidebar']);">
-                          	<div class="feature-button">
-                        		<h2><i class="sidebar-icon-check"></i>Check enrolment</h2>
-                        	</div>
-                          </a>
-                          <a href="/change-name" class="name" onclick="_gaq.push(['_trackEvent', 'change-name', 'click', 'sidebar']);">
-                          	<div class="feature-button">
-                        		<h2><i class="sidebar-icon-name"></i>Change name</h2>
-                        	</div>
-                          </a>
-                          <a href="http://apps.aec.gov.au/esearch/" class="find" onclick="_gaq.push(['_trackEvent', 'find', 'click', 'sidebar']);">
-                          	<div class="feature-button sidebar-last">
-                        		<h2><i class="sidebar-icon-find"></i>Find my electorate</h2>
-                        	</div>
-                          </a>
-                      <div class="clearer"></div>-->
                       <ul>
                         <li class="change"><a href="/change-address" title="Change address" onclick="_gaq.push(['_trackEvent', 'change-address', 'click', 'sidebar']);">Change address</a></li>
                         <li class="enrol"><a href="/enrol" title="Enrol to vote" onclick="_gaq.push(['_trackEvent', 'enrol', 'click', 'sidebar']);">Enrol to vote</a></li>
@@ -521,12 +496,12 @@
                   <h3><i class="sidebar-lg-icon-faq"></i>FAQs</h3>
                   <div class="sidebar-box">
                       <ul>
-    <li><a href="/FAQs/Voting_Australia.htm#compulsory" title="Is voting compulsory">Is voting compulsory?</a></li>
+    <li><a href="/FAQs/Voting_Australia.htm#compulsory">Is voting compulsory?</a></li>
     <li><a href="/FAQs/Voting_Australia.htm#not-vote">Why have I received an apparent failure to vote notice?</a></li>
-    <li><a href="/FAQs/Electoral_Roll.htm#relative" title="A relative has died. How do I remove their name from the roll?">A relative has died. How do I remove their name from the roll?</a></li>
+    <li><a href="/FAQs/Electoral_Roll.htm#relative">A relative has died. How do I remove their name from the roll?</a></li>
        
-    <li><a href="/enrol/send-form.htm" title="How to return forms to the AEC">How do I return my form to the AEC?</a></li>
-    <li class="last"><a href="/employment/aec.htm#pn" title="Can members of political parties be polling officials?">Can members of political parties be polling officials?</a></li>    
+    <li><a href="/enrol/send-form.htm">How do I return my form to the AEC?</a></li>
+    <li class="last"><a href="/employment/aec.htm#pn">Can members of political parties be polling officials?</a></li>    
     <!--<li class="last"><a href="/Enrolling_to_vote/About_Electoral_Roll/" title="Where can I view the electoral roll?">Where can I view the electoral roll?</a></li>-->
     
 </ul>
@@ -605,10 +580,10 @@
     	<div class="container">
             <div class="row-fluid">
                 <div class="span4">
-                    <p>© Australian Electoral Commission 2014</p>
+                    <p>© Australian Electoral Commission 2015</p>
                 </div>
                 <div class="span8">
-                    <p class="pull-right">Authorised by Kathy Mitchell, West Block, Queen Victoria Terrace, Parkes ACT 2600</p>
+                    <p class="pull-right">Authorised by the Deputy Electoral Commissioner, 50 Marcus Clarke Street, Canberra ACT</p>
                 </div>
             </div>
         </div>
