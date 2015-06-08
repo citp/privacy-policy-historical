@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the connectingthreads.com privacy policy that was archived on 2014-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141124155207id_/http%3A//www.connectingthreads.com/cfhelp/Index.cfm%3Ftype%3Dct%26CSCatID%3D85%26CSItemID%3D205) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the connectingthreads.com privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608091725id_/http%3A//www.connectingthreads.com/cfhelp/Index.cfm%3Ftype%3Dct%26CSCatID%3D85%26CSItemID%3D205) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta http-equiv="Content-Type" content="text/html" charset="utf-8">
 		
-		<link rel="icon" type="image/png" href="/favicon.1392196679.png">
+		<link rel="icon" type="image/png" href="/favicon.1429105623.png">
 		
 		
 		<title>Connecting Threads Customer Service Help Index</title>
@@ -20,14 +20,14 @@
 		<meta name="msvalidate.01" content="1A2ACC3FCB6A3EC78DAB7CAFF0E9ADD0">
 
 		
-		<link href="/cfCSS/reset.1407250573.css" rel="stylesheet" type="text/css">
-		<link href="/cfCSS/siteMaster.1414664396.css" rel="stylesheet" type="text/css">
-		<link href="/cfCSS/homePage.1413891874.css" rel="stylesheet" type="text/css">
+		<link href="/cfCSS/reset.1423821411.css" rel="stylesheet" type="text/css">
+		<link href="/cfCSS/siteMaster.1432297981.css" rel="stylesheet" type="text/css">
+		<link href="/cfCSS/homePage.1425308962.css" rel="stylesheet" type="text/css">
 		<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/themes/smoothness/jquery-ui.css">
 		<link href="https://fonts.googleapis.com/css?family=Lato:300,400,400italic,700,900" rel="stylesheet" type="text/css">
 		<link href="https://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic" rel="stylesheet" type="text/css">
 		<link href="http://fonts.googleapis.com/css?family=Oswald:300,400" rel="stylesheet" type="text/css">
-		<link href="/cfCSS/listPages.1415206083.css" rel="stylesheet" type="text/css">
+		<link href="/cfCSS/listPages.1430816479.css" rel="stylesheet" type="text/css">
 
 		
 		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
@@ -37,6 +37,9 @@
 		<script src="/cfJScript/rotator.1407250573.js" type="text/javascript"></script>
 		<!-- Please call pinit.js only once per page -->
 		<script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script>
+		<script type="text/javascript" src="/cfJScript/jquery.cookie.1425308962.js"></script>
+		
+		<script type="text/javascript" src="/cfJScript/emailBox.1425482895.js"></script>
 		
 		
 		<script type="text/javascript" language="javascript">
@@ -54,8 +57,8 @@
 				$("#footer_email_signup").submit(function(){
 					$.post("/cfEmail/EmailSignup_Footer.cfm",$("form#footer_email_signup").serialize(),function(data){
 						$("#email_signup_success").dialog({width:400,height:250,modal:true,title:'Thank you for signing up!'});
-						_gaq.push(['_trackPageview','/CurrentBEM/Start']);
-						_gaq.push(['_trackPageview','/CurrentBEM/Complete']);
+						_gaq.push(['_trackPageview','/CurrentBEM_Footer/Start']);
+						_gaq.push(['_trackPageview','/CurrentBEM_Footer/Complete']);
 					});
 					return false;
 				});
@@ -233,12 +236,15 @@
 					<div id="cartInfoContainer">
 						<div id="cartTotal">
 							
-							    
+							
     
-    <div id="cartBlockTxt">
+		
+  	<div id="cartBlockTxt">
       0 Items : $0.00
+      
     </div>
-
+    
+    
 						</div>
 						<div id="YourCart">
 							
@@ -250,6 +256,37 @@
 <div id="cartQuickView" style="display:none;">
   <div id="itemsContainer">
   
+  
+    <h3>View Cart Contents</h3>
+    <table id="cartContents" style="width:100%;">
+      <tbody><tr style="text-align:center;">
+        <th align="left" style="text-transform:uppercase;font-weight:bold;">Item</th>
+        <th align="left">Price</th>
+        <th align="left">Qty.</th>
+        <th align="left">Total</th>
+      </tr>
+    
+      <tr style="text-align:left;">
+        <td><i>There are no items in your Cart</i></td>
+        <td> $0.00 </td>
+        <td style="text-align:center;"> 0 </td>
+        <td> $0.00 </td>
+      </tr>
+    
+    </tbody></table>
+  
+	   
+    
+    <div id="cartQuickViewSubTotal">
+    
+    <b>Subtotal: $0.00</b><br>
+    <i>(Does not include shipping or taxes)</i><br>
+    
+      <b class="FreeShipNotice"><font color="#89171A">($50.00 left until Free Shipping!)</font></b><br>
+    
+
+    
+    </div>
   
   
   </div>
@@ -286,15 +323,9 @@
 				
 					
 					
-						
-						<img src="/CTImages/internalGraphics/header/sitelogo_new_ALT.png" alt="Quilting Fabrics, direct from the mill, starting at $5.96 per yard. Quilting Kits and Fabric Samplers with no charge for cutting. 100% cotton Quilting Thread, plus Quilt Books, Free Patterns and more." id="siteLogo" usemap="#logoMap">
-						<map name="logoMap">
-							<area shape="rect" coords="0,0,413,73" href="/" alt="Quilting Fabrics, direct from the mill, starting at $5.96 per yard. Quilting Kits and Fabric Samplers with no charge for cutting. 100% cotton Quilting Thread, plus Quilt Books, Free Patterns and more." title="Quilting Fabrics, direct from the mill, starting at $5.96 per yard. Quilting Kits and Fabric Samplers with no charge for cutting. 100% cotton Quilting Thread, plus Quilt Books, Free Patterns and more.">
-							<area shape="rect" coords="422,0,804,73" href="/cfpromo/Satisfaction_Guaranteed.cfm?intmedid=HolidayShippingDeadlinesNV4" alt="Holiday Shipping Deadlines" title="Holiday Shipping Deadlines">
-						</map>
-					
-					
-					
+						<a href="/" alt="Connecting Threads Home" title="Connecting Threads Home">
+							<img src="/CTImages/structure2010/header/logo.png" alt="Quilting Fabrics, direct from the mill, starting at $5.96 per yard. Quilting Kits and Fabric Samplers with no charge for cutting. 100% cotton Quilting Thread, plus Quilt Books, Free Patterns and more." id="siteLogo">
+						</a>
 					
 					<ul id="nav">
 						<li id="navFabric" class="navDiv 
@@ -359,7 +390,7 @@
 						</li>
 						<li id="navFreebies" class="navDiv 
 							" onmouseover="showDropDownNav('freebiesDropDownNav')" onmouseout="hideDropDownNav('freebiesDropDownNav')">
-							<a href="http://www.connectingthreads.com/freebies/freebies.cfm" title="Quilting Freebies" class="siteNav" target="_blank" style="padding: none;" onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Freebies', 'Freebies']);">
+							<a href="http://www.connectingthreads.com/freebies/freebies.cfm" title="Quilting Freebies" class="siteNav" style="padding: none;" onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Freebies', 'Freebies']);">
 								FREEBIES
 							</a>
 							<div style="visibility:hidden;opacity:1 !important;" id="freebiesDropDownNav" class="dropDownNav">
@@ -395,7 +426,7 @@
 						</li>
 						<li id="navGifts" class="navDiv 
 							">
-							<a href="http://www.connectingthreads.com/gifts/gifts.cfm" title="Gifts" class="siteNav" onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Gifts', 'Gifts']);">
+							<a href="http://www.connectingthreads.com/cfHoliday/Holiday_Home.cfm" title="Gifts" class="siteNav" onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Gifts', 'Gifts']);">
 								GIFTS
 							</a>
 						</li>
@@ -496,8 +527,6 @@
           <div class="CollapsiblePanelContent">
             
                   <a href="Index.cfm?type=ct&amp;CSCatID=85&amp;CSItemID=208" class="sideNavLink"><span class="sideNavSubCat">- Copyright</span></a><br>
-									
-                  <a href="Index.cfm?type=ct&amp;CSCatID=85&amp;CSItemID=548" class="sideNavLink"><span class="sideNavSubCat">- Customer Review Contest Rules</span></a><br>
 									
                   <a href="Index.cfm?type=ct&amp;CSCatID=85&amp;CSItemID=215" class="sideNavLink"><span class="sideNavSubCat">- Disclaimer</span></a><br>
 									
@@ -750,21 +779,21 @@
 	
 	
 		<div id="siteFooter">
-			<img class="bottomBoxesHR" src="/CTImages/internalGraphics/homepage/bottomBoxHR.png">
-			<img id="testimonialsBanner" src="/CTImages/internalGraphics/homepage/whatCustomersSay.png">
+			<img class="bottomBoxesHR" src="/CTImages/internalGraphics/homepage/structure/bottomBoxHR.png">
+			<img id="testimonialsBanner" src="/CTImages/internalGraphics/homepage/structure/whatCustomersSay.png">
 			<div id="testimonials" class="alignLeft">
 			</div>
 			<div id="emailSoMe" class="homeBoxShadow">
 				<div id="mainBar">
 					
 					<a href="/cfPromo/About_Us.cfm?intmedid=footer-why_shop_with_us">
-						<img src="/CTImages/internalGraphics/homepage/whyShopWithUs.png">
+						<img src="/CTImages/internalGraphics/homepage/structure/whyShopWithUs.png">
 					</a>
-					<img id="mainBarHR" src="/CTImages/internalGraphics/homepage/textLongHR.png">
+					<img id="mainBarHR" src="/CTImages/internalGraphics/homepage/structure/textLongHR.png">
 				</div>
 				
 				<div id="emailSignup">
-					<img src="/CTImages/internalGraphics/homepage/envelope.png" id="email-icon">
+					<img src="/CTImages/internalGraphics/homepage/structure/envelope.png" id="email-icon">
 					<form id="footer_email_signup" name="footer_email_signup" method="post" action="/cfEmail/EmailSignup_Footer.cfm">
 						<span id="form-title">Sign up for our weekly emails</span>
 						<input type="text" id="email_address" name="email_address" value="EMAIL ADDRESS">
@@ -886,15 +915,15 @@
 			<div id="aboutUs" class="homeBoxShadow">
 				
 				<h1 id="aboutUsHeader" class="aboutUsTextBox">
-					WE WERE VOTED BEST ONLINE QUILT SHOP OF 2013!
+					YOUR SATISFACTION IS OUR PRIORITY!
 				</h1>
 				<h2 id="aboutUsBody" class="aboutUsTextBox">
-					Established in 1994, Connecting Threads is a family-owned and operated online quilt store that exists to inspire, support, and supply quilters with everything they need for this wonderful craft. Our company originated as a quilting catalog business, and over the years, has grown to be one of the largest quilting sites and catalog retailers of quilting fabric, kits, thread, books, and quilting notions in the United States and Canada.
+					Established in 1994, Connecting Threads is a family-owned and operated online quilt store that exists to inspire, support, and supply quilters with everything they need for this wonderful craft. Our company originated as a quilting catalog business, and over the years, has grown to be one of the largest quilting sites and catalog retailers of quilting fabric, kits, thread, books, and quilting notions in the United States and Canada. If you're not 100% satisfied with your order, call our wonderful customer service and we will do everything we can to make it right: <a id="CSPhoneNum" href="tel:(800)574-6454"> (800) 574-6454</a>.
 				</h2>
 				<div id="aboutUsRule">
 				</div>
 				<div id="aboutUsImage">
-					<img src="/CTImages/internalGraphics/homepage/GroupPhotoforWeb.jpg">
+					<img src="/CTImages/internalGraphics/homepage/structure/GroupPhoto.jpg">
 				</div>
 			</div>
 
@@ -902,7 +931,7 @@
 				
 				<div id="TMCopyright">
 					Connecting Threads® and ConnectingThreads.com are registered<br>trademarks of Crafts Americana Group, Inc.<br>
-					© 1999-2014 Crafts Americana Group, Inc. All rights reserved.<br><br>
+					© 1999-2015 Crafts Americana Group, Inc. All rights reserved.<br><br>
 					FREE SHIPPING on web orders over $50! *Sorry, contiguous US only
 				</div>
 				
@@ -925,8 +954,27 @@
 					</noscript>
 				</div>
 			</div>
+		</div>
 	
-
+	<div id="emailBoxContainer">
+		<img src="/CTImages/internalGraphics/homepage/emailBox/background.jpg">
+		<img id="emailClose" src="/CTImages/internalGraphics/homepage/emailBox/close.jpg">
+		<div id="emailMessage">
+			<div id="emailInfo">
+				<span>Get exclusive deals and first access to new products when you sign up for our emails!</span>
+			</div>
+			<div id="emailSuccess">
+				<span>You're signed up! We will email you shortly to confirm your subscription.</span>
+			</div>
+			<div id="emailFailure">
+				<span>ERROR: There is a problem with your email address. Please try again.</span>
+			</div>
+		</div>
+		<div id="emailInput">
+			<input id="emailBoxAddress" type="text" size="23" placeholder="EMAIL ADDRESS">
+			<input id="emailBoxButton" type="image" src="/CTImages/internalGraphics/homepage/emailBox/submit.png">
+		</div>
+	</div>
 </div>
   
 
@@ -992,7 +1040,7 @@
   </noscript>
   
   
-<script type="text/javascript" src="https://dx.steelhousemedia.com/spx?dxver=4.0.0&amp;shaid=10605&amp;tdr=&amp;plh=https%3A%2F%2Fweb.archive.org%2Fweb%2F20141124155207id_%2Fhttp%253A%2F%2Fwww.connectingthreads.com%2Fcfhelp%2FIndex.cfm%253Ftype%253Dct%2526CSCatID%253D85%2526CSItemID%253D205&amp;cb=36165523423982910"></script><script type="text/javascript">
+<script type="text/javascript" src="https://dx.steelhousemedia.com/spx?dxver=4.0.0&amp;shaid=10605&amp;tdr=&amp;plh=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150608091725id_%2Fhttp%253A%2F%2Fwww.connectingthreads.com%2Fcfhelp%2FIndex.cfm%253Ftype%253Dct%2526CSCatID%253D85%2526CSItemID%253D205&amp;cb=97272242418654980"></script><script type="text/javascript">
 (function(){"use strict";var e=null,b="4.0.0",
 n="10605",
 additional="",
@@ -1005,4 +1053,4 @@ t,r,i;try{t=top.document.referer!==""?encodeURIComponent(top.document.referrer.s
 
 
 
-</div></body></html>
+</body></html>
