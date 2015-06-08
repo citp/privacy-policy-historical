@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the job-hunt.org privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121073324id_/http%3A//www.job-hunt.org/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job-hunt.org privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608025522id_/http%3A//www.job-hunt.org/privacypolicy.shtml) for the most accurate reproduction.*
 
 # The Privacy Policy for Job-Hunt.Org
 
@@ -45,7 +45,7 @@ This web site contains links to other sites. Please be aware that Job-Hunt.Org i
 
 We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. Job-Hunt.Org is not responsible for the privacy practices or the content of such Web sites. Before adding those sites to Job-Hunt's categorized lists of links, each site is evaluated to see if they protect the privacy of their visitors and, particularly, their job applicants. We do not knowingly add sites that treat applicant information casually. However, a site _may change_ its policies and practices after being added to Job-Hunt. 
 
-Please read [Protecting Your Privacy](https://web.archive.org/web/20141121073324id_/http%3A//www.job-hunt.org/privacy.shtml), [ Choosing a Job Site](https://web.archive.org/web/20141121073324id_/http%3A//www.job-hunt.org/choosing.shtml), and our [Disclaimer](https://web.archive.org/web/20141121073324id_/http%3A//www.job-hunt.org/disclaimer.html) regarding these sites.
+Please read [Protecting Your Privacy](https://web.archive.org/web/20150608025522id_/http%3A//www.job-hunt.org/privacy.shtml), [ Choosing a Job Site](https://web.archive.org/web/20150608025522id_/http%3A//www.job-hunt.org/choosing.shtml), and our [Disclaimer](https://web.archive.org/web/20150608025522id_/http%3A//www.job-hunt.org/disclaimer.html) regarding these sites.
 
 **Cookies:**
 
