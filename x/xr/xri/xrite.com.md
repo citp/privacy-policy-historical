@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xrite.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009040524id_/http%3A//www.xrite.com/company_privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xrite.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608061816id_/http%3A//www.xrite.com/company_privacy_policy.aspx) for the most accurate reproduction.*
 
 # X-Rite: Privacy Policy
 
@@ -17,7 +17,7 @@
   
 
 
-  * X-Rite's on-line shopping cart ([store.xrite.com](http://store.xrite.com/)) is hosted within the X-Rite network and is designed to help protect credit card information and the privacy of our customers. Should you desire information about the Secure Sockets Layer (SSL) protocol and any other aspects of information security, including VeriSign credit card processing; please e-mail [webmaster@xrite.com](mailto:webmaster@xrite.com) or visit <http://www.xrite.com/contact_us.aspx>.
+  * X-Rite's on-line shopping cart ([store.xrite.com](http://store.xrite.com/)) is hosted within the X-Rite network and is designed to help protect credit card information and the privacy of our customers. Should you desire information about the Secure Sockets Layer (SSL) protocol and any other aspects of information security, including VeriSign credit card processing; please e-mail [webmaster@xrite.com](mailto:webmaster@xrite.com) or visit [http://www.xrite.com/contact_us.aspx](https://web.archive.org/contact-us).
 
   
 
@@ -30,6 +30,6 @@
   
 
 
-  * If you have any questions about this privacy policy, please contact X-Rite. You can contact X-Rite via our website at <http://www.xrite.com/contact_us.aspx>.
+  * If you have any questions about this privacy policy, please contact X-Rite. You can contact X-Rite via our website at [http://www.xrite.com/contact_us.aspx](https://web.archive.org/contact-us).
 
 
