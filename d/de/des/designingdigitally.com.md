@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designingdigitally.com privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420153759id_/http%3A//www.designingdigitally.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designingdigitally.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608023521id_/http%3A//www.designingdigitally.com/privacy-policy) for the most accurate reproduction.*
 
 # E-Learning Development | Designing Digitally, Inc. Privacy Policy
 
