@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minecraftyard.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006034055id_/http%3A//www.minecraftyard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraftyard.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609005447id_/http%3A//www.minecraftyard.com/privacy-policy) for the most accurate reproduction.*
 
 # User Privacy Policy of MinecraftYard
 
@@ -20,11 +20,11 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 MinecraftYard may collect and use Users personal information for the following purposes:
 
-  * _\- To personalize user experience_  
+  * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 We may use the email address to respond to their inquiries, questions, and/or other requests.
 
 
