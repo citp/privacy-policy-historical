@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the easyfundraising.org.uk privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121052341id_/http%3A//www.easyfundraising.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyfundraising.org.uk privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608045742id_/http%3A//www.easyfundraising.org.uk/privacy) for the most accurate reproduction.*
 
 # privacy | Easy Fundraising Ideas | easyfundraising.org.uk | easyfundraising
 
-We are Easyfundraising Limited (the data controller) company number: 04764164 whose principle place of business is Easyfundraising, St Chads House, Cross Keys, Lichfield, WS13 6DN and whose telephone number is 01543 442316 (hereafter "we" or "Easyfundraising"). This Privacy Policy describes the way in which we collect information on our website at [www.easyfundraising.org.uk](http://www.easyfundraising.org.uk/) (the "Website").
+We are Easyfundraising Limited (the data controller) company number: 04764164 whose principle place of business is Easyfundraising, St Chads House, Cross Keys, Lichfield, WS13 6DN and whose telephone number is 01543 442316 (hereafter "we" or "Easyfundraising"). Registered address: 34 High Street, Aldridge, Walsall, WS9 8LZ. This Privacy Policy describes the way in which we collect information on our website at [www.easyfundraising.org.uk](http://www.easyfundraising.org.uk/) (the "Website"). 
 
 This Privacy policy applies to all users of the Website whether you are a visitor to the Website (a 'Visitor'), whether you have registered an account with the Website as a 'Supporter' (in which case these Website Terms form part of our [Supporter Terms](https://web.archive.org/terms/supporter/)) or if you have registered an account as a 'Good Cause' (in which case these Website Terms form part of our [Good Cause Terms](https://web.archive.org/terms/cause/)). This Privacy Policy applies whether you are visiting our Website through a browser, via a mobile device or tablet, or through an app. In this Privacy policy we refer to Visitors, Supporters and Good Causes as 'you'. 
 
@@ -33,7 +33,7 @@ We store all of the information described above against your user identification
 
 We will also collect information which is provided about you by our retailers (and affiliate networks) in respect of the actions you perform on their websites and within their network. Supporters are able to raise monies for Good Causes as Easyfundraising has arrangements with certain retailers either directly or through affiliate networks under which if Supporters do certain things such retailers (and affiliate networks) pay monies to Easyfundraising which are held by Easyfundraising (as agent) before being paid to Good Causes. The collection of such information by third parties is governed by their privacy and cookies policies.
 
-We do not collect or store your financial information unless you are a Good Cause Administrator and you have asked for Donations you have raised to be paid by BACS, in which case we shall retain the relevant account details.
+We do not collect or store your financial information unless you are a Good Cause Administrator and you have asked for Donations you have raised to be paid by BACS, in which case we shall retain the relevant account details. Our partner Reward may request your credit or debit card details as part of the Reward Card Linking Scheme described below.
 
 * * *
 
@@ -43,7 +43,9 @@ We want to give our users the best possible service and need key information to 
 
 Information collected will also be used to improve the Website, monitor how the Website is being used, including detecting problems in its functioning, and to provide a more personalised service to you to enhance your fundraising efforts.
 
-We may use the data gathered to contact you by telephone, e-mail or other means, to update you of new products, services, or changes to our service or your account. We will only advise you of products that we believe will be of interest to you and help raise funds for your selected organisation or charity. You can tell us to stop sending you communications information about you at any time by sending an e-mail to [support@easyfundraising.org.uk](mailto:suport@easyfundraising.org.uk) or clicking the 'unsubscribe' link within any of our marketing emails.
+We may use the data gathered to contact you by telephone, e-mail, SMS or other means, to update you of new products, services, or changes to our service or your account. We will only advise you of products that we believe will be of interest to you and help raise funds for your selected organisation or charity. You can tell us to stop sending you communications information about you at any time by sending an e-mail to [support@easyfundraising.org.uk](mailto:suport@easyfundraising.org.uk) or clicking the 'unsubscribe' link within any of our marketing emails.
+
+We may contact you by SMS in relation to the use of your account. However, if you no longer wish to be contacted by SMS, please reply to any texts we have sent by texting "STOP" to the number included within the text we originally sent you
 
 Any personal information you provide to us will only be used by us, our agents and service providers, and will not be disclosed unless we are obliged or permitted to do so by law.
 
@@ -65,6 +67,14 @@ We may share your information with third parties in the following circumstances:
   * with law enforcement agencies in compliance with law enforcement (if required to do so by a court order or for the purposes of prevention of fraud or other crime). 
 
 
+
+* * *
+
+#### Reward Card Linking Scheme
+
+Our partner 'Reward' (the trading name of Sports Loyalty Card Limited a company registered in England whose registered number is 4158111 and whose registered office is at Lion House, Red Lion Street, London, W1D 4NS) operates a Card Linking Scheme which is available on the Website <http://www.rewardinsight.com/>. Reward is a trusted partner of Easyfundraising and is Tier 1 PCI DSS compliant organisation which is the highest standard available in relation to the data security.
+
+If you decide to participate in the Card Linking Scheme, Reward shall collect certain information from you in relation to your debit or credit card to facilitate your participation in this scheme. Reward is responsible for the management and security of all information which you provide in relation to the Card Linking Scheme. This information is processed in accordance with Reward's privacy policy. Easyfundraising has no liability in respect of Reward's use of your data.
 
 * * *
 
