@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pointstreak.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225152444id_/http%3A//www.pointstreak.com/aboutus/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointstreak.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608095428id_/http%3A//pointstreak.com/aboutus/privacypolicy.html) for the most accurate reproduction.*
 
-# privacy policy | Pointstreak Sports Technologies
+# | Pointstreak Sports Technologies
 
 Pointstreak Sports Technologies Inc. strongly believes in keeping the trust of our leagues, players, partners and employees. We believe that by protecting the personal information of our customers and maintaining a high level of integrity, we will help accelerate the rate at which people are comfortable with using our innovative service. This privacy policy is designed to inform you, the user, about what information Pointstreak gathers about you, how this information is used and how it is protected.
 
