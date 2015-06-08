@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kavoir.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626003135id_/http%3A//www.kavoir.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kavoir.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608021202id_/http%3A//www.kavoir.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Kavoir LLC
 
 This privacy policy sets out how Kavoir (sites by Kavoir) uses and protects any information that you give Kavoir when you use this website (these websites).
 
@@ -39,7 +39,7 @@ We require this information to understand your needs and provide you with a bett
 
 #### Mailing list subscription
 
-You may opt in our mailing list to receive email messages regarding our products and services. Your information will by no means be shared with any third party. You are completely free to opt out any time you want and your information (email, name) will be immediately wiped out from our system. Read more about how [we respect your choices and email privacy](http://www.aweber.com/permission.htm).
+You may opt in our mailing list to receive email messages regarding our products and services. Your information will by no means be shared with any third party. You are completely free to opt out any time you want and your information (email, name) will be immediately wiped out from our system. Read more about how we respect your choices and email privacy.
 
 #### Security
 
