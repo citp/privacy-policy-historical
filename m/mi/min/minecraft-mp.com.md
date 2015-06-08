@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the minecraft-mp.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120130823id_/http%3A//minecraft-mp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraft-mp.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608115503id_/http%3A//minecraft-mp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Politique de Confidentialité
+
+[
+
+**Put your server at the top!** Subscriptions to "Premium Option" are open.
+
+](https://web.archive.org/servers/premium/)
 
 __Lire la Version Française
 
@@ -30,9 +36,7 @@ Like many other websites, we make use of log files. The information inside the l
 
 ### Cookies
 
-" **Minecraft-mp.com** " use cookies to store session information of your account. This allow us to logged you in automatically. You can remove and disable cookies by modifying the settings in your browser. However, keep in mind that this may cause you to be unable to login on " **Minecraft-mp.com** ".
-
-" **Minecraft-mp.com** " use cookies to detect and fight vote cheating. You can remove and disable cookies by modifying the settings in your browser. However, keep in mind that this may cause you to be unable to vote on " **Minecraft-mp.com** ". 
+Our Cookie policy is available here: [Cookie Policy](https://web.archive.org/cookie/)
 
 ## Links to other websites
 
@@ -74,9 +78,7 @@ Comme beaucoup de sites Internet, nous utilisons des fichiers d'historique. Les 
 
 ### Cookies
 
-" **Minecraft-mp.com** " utilise les cookies pour stocker les informations de session de votre compte. Vous pouvez supprimer et désactiver les cookies dans les réglages de votre navigateur. Cependant, cela pourrait vous empêcher de vous connecter sur " **Minecraft-mp.com** ".
-
-" **Minecraft-mp.com** " utilise les cookies pour détecter et combattre la triche au sein de notre système de vote. Vous pouvez supprimer et désactiver les cookies dans les réglages de votre navigateur. Cependant, cela pourrait vous empêcher de voter sur " **Minecraft-mp.com** ".
+Politique liée aux cookies est consultable ici : [Politique Liée aux Cookies](https://web.archive.org/cookie/)
 
 ## Liens vers d'autres sites
 
