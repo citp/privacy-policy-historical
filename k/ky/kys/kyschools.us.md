@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kyschools.us privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225060249id_/http%3A//education.ky.gov/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kyschools.us privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608123555id_/http%3A//education.ky.gov/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Kentucky Department of Education : Privacy
 
