@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the befunky.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228215833id_/http%3A//www.befunky.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the befunky.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608094239id_/http%3A//www.befunky.com/privacy) for the most accurate reproduction.*
 
 # Photo Effects and Photo Editing with One Click - BeFunky.com
 
