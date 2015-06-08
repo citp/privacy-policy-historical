@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the livelinkcafe.com privacy policy that was archived on 2014-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231110453id_/http%3A//livelinkcafe.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the livelinkcafe.com privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608095059id_/http%3A//livelinkcafe.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -19,7 +19,7 @@
 <meta name="classification" content="Advertising and Marketing">
 
 <link href="stylesheets/main.css" rel="stylesheet" type="text/css">
-
+<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
 <style type="text/css">
 
 <!--
@@ -27,12 +27,22 @@
 -->
 
 </style>
-
 <script type="text/javascript">
 
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+function load_banner(location, element)
+{
+	$.ajax({
+        	url: "/includes/prc_banner_ws.php?location=" + location
+    	}).then(function(data) {
+				document.getElementById(element).innerHTML = '<a target="_blank" href="http://pagerankcafe.com/bannerPosts/view_banner/' + data.banner.BannerPost.view_key + '"> <img border="0" src="' + data.banner.Banner.url + '" style="max-width:100%; height:auto"></a><p align="center" style="font-family: Verdana, Arial, Helvetica, sans-serif"><a href="http://pagerankcafe.com/banners/add" target="_new"><small>Advertise</small></a></p>';			
+				
+			
+       	});
+}
 
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 
@@ -191,7 +201,7 @@ alt="hit counter joomla" ></a></div></noscript>
 
                                           <strong> 
 
-                                          5468
+                                          6682
                                           </strong> ]</font></p>
 
                                       </div></td>
@@ -422,8 +432,15 @@ alt="hit counter joomla" ></a></div></noscript>
 <div align="center" class="footertext"> 
 
         <p><br>
-          <a target="_blank" href="http://www.clixsense.com/?2966256"><img border="0" src="http://csstatic.com/banners/clixsense_gpt728x90a.png"></a></p>
+           </p><div align="center" id="TOP_BOTTOM_BANNER">
+            
+            <script type="text/javascript">
+  				load_banner('TOP_BOTTOM', 'TOP_BOTTOM_BANNER');
+			</script>
+			</div><p></p>
+            <!--
         <p><a target="_blank" href="http://www.easyhits4u.com/?ref=dublife"><img border="0" src="http://static.easyhits4u.com/img/banners/728x90_2.gif"></a></p>
+        -->
         <table width="596" border="0" cellspacing="0" cellpadding="0">
 
           <tbody><tr> 
