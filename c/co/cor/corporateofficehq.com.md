@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corporateofficehq.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123074927id_/http%3A//www.corporateofficehq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corporateofficehq.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608120002id_/http%3A//corporateofficehq.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Corporate Offices & Headquarters
 
@@ -21,7 +21,7 @@ COO:
 
 ###  History
 
-**Privacy Policy for CorporateOfficeHQ.com**
+ **Privacy Policy for CorporateOfficeHQ.com**
 
 The privacy of visitors to CorporateOfficeHQ.com is important to us.
 
