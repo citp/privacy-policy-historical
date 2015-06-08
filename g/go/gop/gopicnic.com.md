@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gopicnic.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207154034id_/http%3A//www.gopicnic.com/c.3374347/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopicnic.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608091324id_/http%3A//www.gopicnic.com/c.3374347/site/privacy.html) for the most accurate reproduction.*
 
-# 
+# Go Picnic
 
 Thank you for visiting GoPicnic. Your privacy is very important to us. This statement applies solely to information collected at the GoPicnic website [www.gopicnic.com](https://web.archive.org/). This privacy policy was last revised on February 1, 2011.
 
