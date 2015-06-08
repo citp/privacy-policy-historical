@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the japanese-escort-girls.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127104952id_/http%3A//japanese-escort-girls.com/company/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japanese-escort-girls.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608215512id_/http%3A//japanese-escort-girls.com/company/privacypolicy.php) for the most accurate reproduction.*
 
-# Privacy Policy|company|Japanese Escort Girls Club
+# Privacy Policy | Japanese Escort Girls Club
 
 **Privacy Policy**
 
@@ -70,5 +70,3 @@ The change of Privacy Policy
   * Privacy policy is changed, unless specified otherwise by us and shall become effective when posted on the website.
 
 
-
-                         
