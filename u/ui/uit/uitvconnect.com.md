@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uitvconnect.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702193904id_/http%3A//www.uitvconnect.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uitvconnect.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608223217id_/http%3A//www.uitvconnect.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -18,7 +18,7 @@ Any personal information and video content that you voluntarily disclose online 
 
 If you download the UiTV Uploader, your copy includes a unique application number. This number and information about your installation of the Uploader (version number, language) will be sent to UiTV when the Uploader automatically checks for updates and will be used to update your version of the Uploader.
 
-**Users**
+ **Users**
 
 If you submit personal information to UiTV, we may use that information to operate, maintain and improve the features and functionality of UiTV, and to process any flagging activity or other communication that you send to us.
 
@@ -28,7 +28,7 @@ We may use your email address without further consent for non-marketing or admin
 
 You can also choose how often UiTV sends you email updates in your UiTV Account settings page.
 
-**Information**
+ **Information**
 
 This is publicly available when you create a UiTV Account, some information about your UiTV account and your account activity will be provided to other users of UiTV. This may include the date that you opened your UiTV Account, the date that you last logged in to your UiTV Account, your age (if you choose to make it public), the country and the number of videos that you have watched.
 
@@ -40,7 +40,7 @@ Any videos that you submit to UiTV may be redistributed through the Internet and
 
 You may also choose to add personal information which may include your name, gender, profile picture or other details, that will be visible to other users on your UiTV Account profile page. If you choose to add certain features to your UiTV Account channel page, then these features and your activity associated with these features will be displayed to other users and may be aggregated and shared with your friends or other users. Such shared activity may include your favourite videos, videos that you rated and videos that you have uploaded.
 
-**Your Choices**
+ **Your Choices**
 
 If you have a UiTV Account, you may update and correct your personal profile information, email preferences and privacy settings at any time by visiting your UiTV account profile page.
 
@@ -58,7 +58,7 @@ Advertisers may serve ads based on interests associated with non-personally iden
 
 Advertisers may also serve ads to you based on previous activity on that advertiser's website. This non-personally identifiable information is held separately from your UITV Account data or other personally identifying information in our possession. You may also choose to opt out of the cookies at any time.
 
-**Cookies**
+ **Cookies**
 
 The UiTV Connect website (the "Website") uses cookies to deliver a better and more personalised service to users.
 
@@ -66,7 +66,7 @@ The UiTV Connect website (the "Website") uses cookies to deliver a better and mo
 This Cookies Policy explains what cookies are, how they are used on the Website and how to manage their use.
 
   
-_**What is a Cookie**_ **?**
+ _ **What is a Cookie**_ **?**
 
 Cookies are small text files containing small amounts of information which are sent to and stored on your computer, smartphone or other device when you access a website. Cookies are then sent back to the originating website on each subsequent visit or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user's device.  
  
@@ -93,16 +93,16 @@ Cookies are generally used to improve and enhance the user experience. Some of t
 UiTV  use of cookies on the Website falls into the following categories:  
  
 
-**Session Management** \- These cookies are essential to enable use of the Website, they manage session information and enable users to navigate through the website.  
+ **Session Management** \- These cookies are essential to enable use of the Website, they manage session information and enable users to navigate through the website.  
  
 
-**Functionality** \- These cookies store information which enables us to remember user preferences e.g. preferred language, sort types, media settings. They are also used to improve user's experience by, for example, stopping users from being shown the same message twice.  
+ **Functionality** \- These cookies store information which enables us to remember user preferences e.g. preferred language, sort types, media settings. They are also used to improve user's experience by, for example, stopping users from being shown the same message twice.  
  
 
-**Fraud Prevention** \- These cookies store information which help us stop fraudulent use of the website.  
+ **Fraud Prevention** \- These cookies store information which help us stop fraudulent use of the website.  
  
 
-**Tracking** \- These cookies enable us to store information about how users landed on the website. We need to record this so that we can appropriately pay our affiliates.  
+ **Tracking** \- These cookies enable us to store information about how users landed on the website. We need to record this so that we can appropriately pay our affiliates.  
  
 
 Where links are provided on the website to third party websites it is important to remember that those websites will have their own cookies and privacy policies which will govern any information you may submit. If you decide to use any linked third party websites please read their cookies and privacy policies before doing so.  
