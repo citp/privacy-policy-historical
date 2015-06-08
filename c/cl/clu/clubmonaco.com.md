@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the clubmonaco.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214232714id_/http%3A//www.clubmonaco.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%26ab%3Dfooter_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubmonaco.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608072947id_/http%3A//www.clubmonaco.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%26ab%3Dfooter_privacypolicy) for the most accurate reproduction.*
 
 # Customer Assistance
 
-Effective Date: January 6, 2014
+Modified Date: March 6, 2015
 
 Club Monaco respects your privacy. Our Privacy Notice describes the types of information we obtain through ClubMonaco.com and our mobile website (the “Site”), in our Club Monaco stores (the “Stores”) and in connection with other activities and features. We also describe how we use, disclose and otherwise manage this information. This Privacy Notice may be updated from time to time. Accordingly, you should check the date of this Notice (which appears at the top of this page) and review any changes since the last version. Your continued use of the Site following any modifications demonstrates your agreement to such changes. If at any time you do not agree to the terms of this Privacy Notice, please do not use this Site or provide us with personal information when shopping in our Stores.
 
@@ -72,84 +72,8 @@ Please be sure to include in any email or postal mail your full name, email addr
 
 Club Monaco may transfer the personal information we collect about you to countries other than the country in which you originally provided it. These countries may not have the same data protection laws as the country in which you provided the information. When we transfer your information to other countries, we will protect that information as described in this Privacy Notice. 
 
-Club Monaco is certified under the Safe Harbor privacy framework set forth by the U.S. Department of Commerce regarding the collection, storage, transfer, use and other processing of personal information transferred from the European Economic Area or Switzerland to the United States. Click here to view our Safe Harbor Privacy Policy.
+Ralph Lauren Corporation and its U.S. affiliate, Club Monaco US, LLC, are certified under the Safe Harbor privacy framework set forth by the U.S. Department of Commerce regarding the collection, storage, transfer, use and other processing of personal information transferred from the European Economic Area or Switzerland to the United States. [Click here](http://www.ralphlauren.com/helpdesk/index.jsp?display=safety&subdisplay=restrictions&ab=footer_privacypolicy#policies) to view our Safe Harbor Privacy Policy.
 
 * * *
 
 This Site may contain links to third-party websites, which may have privacy policies that differ from our own. These links are provided solely for the convenience of our Site visitors. We are not responsible for the content or privacy practices of such websites. We encourage you to review the privacy policies and terms of use of any third-party websites or services. 
-
-* * *
-
-Club Monaco US, LLC (“Club Monaco”) respects your concerns about privacy. Club Monaco has certified that it abides by the Safe Harbor privacy principles as set forth by the U.S. Department of Commerce regarding the collection, storage, use, transfer and other processing of Personal Data transferred from the European Economic Area (“EEA”) or Switzerland to the United States. This Policy outlines Club Monaco’s general policy and practices for implementing the Safe Harbor privacy principles for Consumer Personal Data.
-
-For purposes of this policy:
-
-“Consumer” means any natural person located in the EEA or Switzerland who provides Personal Data to Club Monaco on or through the Site. 
-
-“Personal Data” means any information that (i) is transferred to Club Monaco in the U.S. from the EEA or Switzerland, (ii) is recorded in any form, (iii) relates to an identified or identifiable Consumer, and (iv) can be linked to that individual. 
-
-“Site” means www.clubmonaco.com. 
-
-Club Monaco's Safe Harbor certification can be found at <https://safeharbor.export.gov/list.aspx>. For more information about the Safe Harbor principles, please visit <http://www.export.gov/safeharbor>. For more information about Club Monaco’s processing of Personal Data collected from Consumers on www.clubmonaco.com, please visit Club Monaco's U.S. Privacy Notice.
-
-## How Club Monaco Obtains Personal Data
-
-Club Monaco collects Personal Data from Consumers who visit Club Monaco’s Site and provide Personal Data on or through the Site. Consumers may provide Club Monaco with payment card and other information related to purchases made on or through the Site. In addition, to subscribe for Club Monaco email updates, Consumers may supply Personal Data such as name, email address, mailing address, telephone number, gender and date of birth.
-
-Club Monaco uses this Personal Data to (1) fulfill orders, provide services and communicate with Consumers; (2) improve Consumers’ shopping experience and communicate with them about Club Monaco’s products and services; (3) respond to Consumers’ inquiries; (4) make promotional and marketing offers to Consumers, and help target specific products and services to Consumers; and (5) help develop and improve the Site and tailor the Site to Consumers’ interests.
-
-Club Monaco also may collect Personal Data about Consumers through automated technologies (such as cookies) used in connection with the Site. Club Monaco uses information collected through automated technologies as described in the U.S. Privacy Notice.
-
-Club Monaco’s practices regarding the collection, storage, use, transfer, and other processing of Personal Data comply, as appropriate, with the Safe Harbor principles of notice, choice, onward transfer, access, security, data integrity, and enforcement and oversight. 
-
-## Notice
-
-Club Monaco provides information in its U.S. Privacy Notice available at [http://www.ClubMonaco.com/helpdesk/index.jsp?display=safety&subdisplay=restrictions#restrictions](http://www.clubmonaco.com/helpdesk/index.jsp?display=safety&subdisplay=restrictions#restrictions) and in this Policy regarding its practices related to Personal Data collected on the Site, including the purposes for which Club Monaco collects and uses such information. Relevant details also may be found in privacy notices pertaining to specific data processing activities. 
-
-## Choice
-
-Club Monaco offers Consumers the opportunity to choose whether Club Monaco may (i) disclose their Personal Data to certain third parties or (ii) use their Personal Data for purposes incompatible with the purposes for which the information was originally collected or subsequently authorized by the individual. Consumers may contact Club Monaco as indicated below regarding the company’s use or disclosure of their Personal Data. 
-
-Club Monaco may disclose Personal Data without offering an opportunity to opt out (i) to service providers the company has retained to perform services on its behalf, (ii) if it is required to do so by law or legal process, (iii) to law enforcement or other government authorities, or (iv) when Club Monaco believes disclosure is necessary to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual illegal activity. Club Monaco also reserves the right to transfer Personal Data in the event it sells or transfers all or a portion of its business or assets (including in the event of a reorganization, dissolution or liquidation). Should such a sale or transfer occur, Club Monaco will use reasonable efforts to direct the transferee to use the Personal Data in a manner that is consistent with Club Monaco’s privacy policies. Club Monaco uses Personal Data only for the purposes indicated in its U.S. Privacy Notice or this Policy unless it has a legal basis, such as consent, to use it for other purposes. To the extent required by law, Club Monaco obtains prior opt-in consent at the time of collection for the processing of Personal Data for marketing purposes. 
-
-## Onward Transfer of Personal Data
-
-Club Monaco may share Consumer Personal Data with third parties as indicated in the “Choice” section above. Except as permitted or required by applicable law, Club Monaco requires third parties to whom it discloses Personal Data and who are not subject to the European Union Data Protection Directive 95/46 or an adequacy finding to either (i) subscribe to the relevant Safe Harbor principles or (ii) contractually agree to provide at least the same level of protection for Personal Data as is required by the relevant Safe Harbor principles. 
-
-## Access
-
-Where appropriate, Club Monaco provides Consumers with reasonable access to the Personal Data Club Monaco maintains about them. Club Monaco also provides a reasonable opportunity for Consumers to correct, amend or delete that information where it is inaccurate, as appropriate. Club Monaco may limit or deny access to Personal Data where providing such access is unreasonably burdensome or expensive under the circumstances, or as otherwise permitted by the Safe Harbor principles. The right to access Personal Data also may be limited in some circumstances by local law requirements. Consumers may request access to their Personal Data by contacting Club Monaco as indicated below. 
-
-## Security
-
-Club Monaco takes reasonable precautions to protect Personal Data from loss, misuse and unauthorized access, disclosure, alteration and destruction. 
-
-## Data Integrity
-
-Club Monaco takes reasonable steps to ensure that the Personal Data the company processes are (i) relevant for the purposes for which they are to be used, (ii) reliable for their intended use, and (iii) accurate, complete and current. In this regard, Club Monaco depends on its Consumers to update and correct Personal Data to the extent necessary for the purposes for which the information was collected or subsequently authorized by the individuals. Consumers may contact Club Monaco as indicated below to request that Club Monaco update or correct relevant Personal Data. 
-
-## Enforcement and Oversight
-
-Club Monaco has established procedures for periodically verifying implementation of and compliance with the Safe Harbor principles. Club Monaco conducts an annual self-assessment of its Personal Data practices to verify that the attestations and assertions the company makes about its privacy practices are true and that the company’s privacy practices have been implemented as represented. 
-
-Consumers may file a complaint with Club Monaco in connection with the processing of their Personal Information under the Safe Harbor principles. Club Monaco will cooperate with JAMS in accordance with the JAMS Safe Harbor Program, which is described on the JAMS website at <http://www.jamsadr.com/safeharbor/>, to address individuals' complaints regarding privacy issues. Club Monaco will take steps to remedy any issues arising out of a failure to comply with the Safe Harbor principles. Please contact Club Monaco as specified below to address any complaints regarding the company’s Personal Data practices. 
-
-## How to Contact Club Monaco
-
-To contact Club Monaco about questions or concerns about this Safe Harbor Privacy Policy or Club Monaco’s practices concerning Personal Data, please write to:
-
-Club Monaco US, LLC  
-c/o Ralph Lauren Corporation   
-Attention: Chief Privacy Officer  
-625 Madison Avenue  
-7th Floor  
-New York, New York 10022
-
-or
-
-Club Monaco US, LLC  
-c/o Ralph Lauren Europe SARL  
-Attention: Marco Kerschen  
-8 Chemin de Blandonnet  
-1214 Vernier  
-Switzerland
