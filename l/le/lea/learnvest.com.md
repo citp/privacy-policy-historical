@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnvest.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228180525id_/https%3A//www.learnvest.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnvest.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608064747id_/https%3A//www.learnvest.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LearnVest
 
