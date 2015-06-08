@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rootupdate.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203124524id_/http%3A//www.rootupdate.com/p/privacy-policy_13.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rootupdate.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608024511id_/http%3A//www.rootupdate.com/p/privacy-policy_13.html) for the most accurate reproduction.*
 
 # Privacy Policy - Root Update
 
