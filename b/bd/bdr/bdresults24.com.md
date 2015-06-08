@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bdresults24.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222115924id_/http%3A//bdresults24.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdresults24.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608094140id_/http%3A//bdresults24.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BD RESULTS 24
+# Privacy Policy
 
 Welcome and thank to you for visiting our website ([ **BD Results 24**](http://bdresults24.com/)). The protection of your privacy when you use our website and it is very important to us. All of you have to follow and read our Privacy Policy before to use. The publisher takes the protection of your personal data and information very sincerely. Your data or information will be protected under the law.
 
