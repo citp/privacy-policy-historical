@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landofnod.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222200123id_/http%3A//www.landofnod.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landofnod.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608223703id_/http%3A//www.landofnod.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # The Land of Nod
 
@@ -90,7 +90,7 @@ We take our customers’ personal information seriously and take steps to protec
 
 ### ABOUT SSL CERTIFICATES
 
-When you make a purchase online, either a solid key or a locked padlock icon will appear in the lower right of your browser window. This icon indicates that your transaction session is secured through Secure Sockets Layer (SSL). If one of these icons does not appear, please contact Land of Nod at 800.967.6696 to complete your purchase.
+When you make a purchase online, either a solid key or a locked padlock icon will appear in the lower right of your browser window. This icon indicates that your transaction session is secured through Secure Sockets Layer (SSL). If one of these icons does not appear, please contact Land of Nod at (800) 967-6696 to complete your purchase.
 
 ## Your Responsibilities
 
@@ -116,7 +116,7 @@ If you have any questions regarding our Privacy Policy, we will do our best to a
 
 **Phone:**  
 Customer Service Department  
-800.933.9904  
+(800) 933-9904  
 Monday - Sunday, 7 days a week 
 
 **Email:**  
