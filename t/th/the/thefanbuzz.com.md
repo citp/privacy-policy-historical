@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefanbuzz.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921060136id_/http%3A//thefanbuzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefanbuzz.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608032703id_/http%3A//fanbuzz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fan Buzz
 
