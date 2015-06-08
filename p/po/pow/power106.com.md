@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the power106.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231213754id_/http%3A//www.power106.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the power106.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609005226id_/http%3A//www.power106.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Power 106 | Where Hip Hop Lives
 
