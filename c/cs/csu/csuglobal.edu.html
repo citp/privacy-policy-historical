@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the csuglobal.edu privacy policy that was archived on 2014-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141216152005id_/http%3A//csuglobal.edu/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the csuglobal.edu privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608133849id_/https%3A//csuglobal.edu/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" class=""><head>
         <meta charset="utf-8">
@@ -24,7 +24,7 @@
         <!-- common script files -->
         
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-<title>csuglobal.edu :: Privacy Policy</title>
+<title>csuglobal.edu :: Web Privacy Policy</title>
 <meta name="description" content="Colorado State University-Global Campus (CSU-Global) is committed to protecting the privacy and accuracy of confidential information submitted by employees, students, and visitors to our website.">
 <meta name="generator" content="concrete5 - 5.6.3.1">
 <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
@@ -34,7 +34,7 @@ var CCM_EDIT_MODE = false;
 var CCM_ARRANGE_MODE = false;
 var CCM_IMAGE_PATH = "/concrete/images";
 var CCM_TOOLS_PATH = "/index.php/tools/required";
-var CCM_BASE_URL = "http://csuglobal.edu";
+var CCM_BASE_URL = "https://csuglobal.edu";
 var CCM_REL = "";
 
 </script>
@@ -64,31 +64,54 @@ var CCM_REL = "";
         <script type="text/javascript" src="/themes/csug/js/jquery.validate.min.js"></script>
         <script type="text/javascript" src="/themes/csug/js/global.js"></script>
         <script type="text/javascript" src="/themes/csug/widgets/cta/scripts.js"></script>
+        <script type="text/javascript" src="/themes/csug/js/jquery.form.min.js"></script>
+        <script type="text/javascript" src="/concrete/themes/csug/elements/rfi/additional-info-request-form/view.js"></script>
         
         <!-- template specific sections -->
+        <link rel="stylesheet" type="text/css" href="/concrete/themes/csug/elements/rfi/additional-info-request-form/view.css">
         <script type="text/javascript">
             g.path = /themes/csug;
+            g.utm_source = "";
         </script>
     <style type="text/css">.fancybox-margin{margin-right:0px;}</style></head>
     <body>
 
         <div id="ctabox" class="" onmouseover="ctabox.on()" onmouseout="ctabox.off()">
-	<a href="https://application.csuglobal.edu/" id="btn_start" onclick="_gaq.push(['_trackEvent', 'CTABOX', 'Click', 'Classes Start']);">
-		<span class="start">CLASSES START IN</span>
-		<span class="days">20 DAYS</span>
-	</a>
-	<a href="https://home-c9.incontact.com/inContact/ChatClient/ChatClient.aspx?poc=9fd79d46-6ae5-457d-bfa5-5e8cdd434a3c&amp;bu=4593732" id="btn_chat" onclick="centeredPopup(this.href,'myWindow','460','650','yes'); return false; _gaq.push(['_trackEvent', 'CTABOX', 'Click', 'Live Chat']);">
-		<span class="lg">Live Chat</span>
-		<span class="sm">Chat with an adviser now</span>
-	</a>
-	<a href="tel:+18009206723" id="btn_call" onclick="_gaq.push(['_trackEvent', 'CTABOX', 'Click', 'Call to Enroll']);">
-		<span class="lg">(800) 920-6723</span>
-		<span class="sm">Call to enroll</span>
-	</a>
-	<a href="/request-information" id="btn_info" class="single" onclick="_gaq.push(['_trackEvent', 'CTABOX', 'Click', 'Request Information']);">
-		<span class="lg">Request Information</span>
-	</a>
+    <a href="https://application.csuglobal.edu/" id="btn_start" onclick="_gaq.push(['_trackEvent', 'CTABOX', 'Click', 'Classes Start']);">
+        <span class="start">CLASSES START IN</span>
+        <span class="days"></span>
+    </a>
+    <a href="javascript:centeredPopup('https://webchat.csuglobal.edu/enrollment','myWindow','665','665','yes'); _gaq.push(['_trackEvent', 'CTABOX', 'Click', 'Live Chat']);" id="btn_chat">
+        <span class="lg">Live Chat</span>
+        <span class="sm">Chat with an adviser now</span>
+    </a>
+    <!-- Prelude to Chat 2.0 -->
+    <div id="liveChatArea" style="display: none; width: 100%; height: 300px">
+        <iframe id="liveChatFrame"></iframe>
+    </div>
+    <a href="tel:+18009206723" id="btn_call" onclick="_gaq.push(['_trackEvent', 'CTABOX', 'Click', 'Call to Enroll']);">
+        <span class="lg">(800) 920-6723</span>
+        <span class="sm">Call to enroll</span>
+    </a>
+    <a href="/request-information" id="btn_info" class="single" onclick="_gaq.push(['_trackEvent', 'CTABOX', 'Click', 'Request Information']);">
+        <span class="lg">Request Information</span>
+    </a>
 </div>
+<!-- Prelude to Chat 2.0 -->
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('#LiveChatButton').click(function() {
+            /*_gaq.push(['_trackEvent', 'CTABOX', 'Click', 'Live Chat']);*/
+            $('#liveChatArea').slideToggle("slow");
+            if (ChatLiveAvaiable) {
+                $('iframe#liveChatFrame').attr('src', 'https://home-c9.incontact.com/inContact/ChatClient/ChatClient.aspx?poc=9fd79d46-6ae5-457d-bfa5-5e8cdd434a3c&bu=4593732');
+            } else {
+                $('iframe#liveChatFrame').attr('src', '')
+            }
+        });
+    });
+</script>
         
 <div id="header-mobile">
 	<div id="header-mobile-menu">
@@ -174,7 +197,7 @@ var CCM_REL = "";
 					<ul class="nav"><li class=""><a href="/undergraduate/programs/bachelors-degrees/" target="_self" class="">Bachelor's Degrees</a></li><li class=""><a href="/undergraduate/programs/specializations/" target="_self" class="">Specializations</a></li><li class=""><a href="/undergraduate/programs/successready/" target="_self" class="">SuccessReady</a></li><li class=""><a href="/undergraduate/programs/alternative-credit-options/" target="_self" class="">Alternative Credit Options</a></li><li class=""><a href="/undergraduate/programs/certificates-completion/" target="_self" class="">Certificates of Completion</a></li><li class=""><a href="/undergraduate/programs/academic-catalog/" target="_self" class="">Academic Catalog</a></li></ul>				</div>
 				<div class="col2">
 					<h3>Admissions</h3>
-					<ul class="nav"><li class=""><a href="https://application.csuglobal.edu/" target="_self" class="">Apply Now</a></li><li class=""><a href="/undergraduate/admissions/tuition-rates/" target="_self" class="">Tuition Rates</a></li><li class=""><a href="/undergraduate/admissions/admission-process/" target="_self" class="">Admission Process</a></li><li class=""><a href="/undergraduate/admissions/transfer-info/" target="_self" class="">Transfer Info</a></li><li class=""><a href="/undergraduate/admissions/military-admissions/" target="_self" class="">Military Admissions</a></li></ul>				</div>
+					<ul class="nav"><li class=""><a href="https://application.csuglobal.edu/" target="_self" class="">Apply Now</a></li><li class=""><a href="/undergraduate/admissions/ug-tuition-rates/" target="_self" class="">Tuition Rates</a></li><li class=""><a href="/undergraduate/admissions/admission-process/" target="_self" class="">Admission Process</a></li><li class=""><a href="/undergraduate/admissions/transfer-info/" target="_self" class="">Transfer Info</a></li><li class=""><a href="/undergraduate/admissions/military-admissions/" target="_self" class="">Military Admissions</a></li><li class=""><a href="/undergraduate/admissions/refer-friend/" target="_self" class="">Refer-A-Friend</a></li></ul>				</div>
 				<div class="col3">
 					<h3>Areas of Study</h3>
 					<ul class="nav"><li class=""><a href="/undergraduate/areas-study/business/" target="_self" class="">Business</a></li><li class=""><a href="/undergraduate/areas-study/management-leadership/" target="_self" class="">Management &amp;  Leadership</a></li><li class=""><a href="/undergraduate/areas-study/healthcare/" target="_self" class="">Healthcare</a></li><li class=""><a href="/undergraduate/areas-study/communication/" target="_self" class="">Communication</a></li><li class=""><a href="/undergraduate/areas-study/finance/" target="_self" class="">Finance</a></li><li class=""><a href="/undergraduate/areas-study/technology/" target="_self" class="">Technology</a></li><li class=""><a href="/undergraduate/areas-study/criminal-justice-law/" target="_self" class="">Criminal Justice &amp; Law</a></li></ul>				</div>
@@ -187,7 +210,7 @@ var CCM_REL = "";
 					<ul class="nav"><li class=""><a href="/graduate/programs/masters-degrees/" target="_self" class="">Master's Degrees</a></li><li class=""><a href="/graduate/programs/specializations/" target="_self" class="">Specializations</a></li><li class=""><a href="/graduate/programs/licensure/" target="_self" class="">Licensure</a></li><li class=""><a href="/graduate/programs/certificates-completion/" target="_self" class="">Certificates of Completion</a></li><li class=""><a href="/graduate/programs/academic-catalog/" target="_self" class="">Academic Catalog</a></li></ul>				</div>
 				<div class="col2">
 					<h3>Admissions</h3>
-					<ul class="nav"><li class=""><a href="https://application.csuglobal.edu/" target="_self" class="">Apply Now</a></li><li class=""><a href="/graduate/admissions/tuition-rates/" target="_self" class="">Tuition Rates</a></li><li class=""><a href="/graduate/admissions/admissions-process/" target="_self" class="">Admissions Process</a></li><li class=""><a href="/graduate/admissions/transfer-info/" target="_self" class="">Transfer Info</a></li><li class=""><a href="/graduate/admissions/military-admissions/" target="_self" class="">Military Admissions</a></li></ul>				</div>
+					<ul class="nav"><li class=""><a href="https://application.csuglobal.edu/" target="_self" class="">Apply Now</a></li><li class=""><a href="/graduate/admissions/grad-tuition-rates/" target="_self" class="">Tuition Rates</a></li><li class=""><a href="/graduate/admissions/admissions-process/" target="_self" class="">Admissions Process</a></li><li class=""><a href="/graduate/admissions/transfer-info/" target="_self" class="">Transfer Info</a></li><li class=""><a href="/graduate/admissions/military-admissions/" target="_self" class="">Military Admissions</a></li><li class=""><a href="/graduate/admissions/refer-friend/" target="_self" class="">Refer-A-Friend</a></li></ul>				</div>
 				<div class="col3">
 					<h3>Areas of Study</h3>
 					<ul class="nav"><li class=""><a href="/graduate/areas-study/business-management/" target="_self" class="">Business &amp; Management</a></li><li class=""><a href="/graduate/areas-study/healthcare/" target="_self" class="">Healthcare</a></li><li class=""><a href="/graduate/areas-study/human-resources/" target="_self" class="">Human Resources</a></li><li class=""><a href="/graduate/areas-study/finance/" target="_self" class="">Finance</a></li><li class=""><a href="/graduate/areas-study/technology/" target="_self" class="">Technology</a></li><li class=""><a href="/graduate/areas-study/criminal-justice-law/" target="_self" class="">Criminal Justice &amp; Law</a></li><li class=""><a href="/graduate/areas-study/education/" target="_self" class="">Education</a></li></ul>				</div>
@@ -207,36 +230,36 @@ var CCM_REL = "";
 			<div id="nav_studentlife" class="section">
 				<div class="col1-2-3">
 					<div class="tile">
-						<a href="/index.php?cID=913" id="tile1" class="icon"></a>
-						<a href="/index.php?cID=913" class="text">Is Online Right For Me</a>
+						<a href="/student-life/online-right-me/" id="tile1" class="icon"></a>
+						<a href="/student-life/online-right-me/" class="text">Is Online Right For Me</a>
 					</div>
 					<div class="tile">
-						<a href="/index.php?cID=264" id="tile2" class="icon"></a>
-						<a href="/index.php?cID=264" class="text">Fit For Your Schedule</a>
+						<a href="/student-life/your-schedule/" id="tile2" class="icon"></a>
+						<a href="/student-life/your-schedule/" class="text">Fit For Your Schedule</a>
 					</div>
 					<div class="tile">
-						<a href="/index.php?cID=265" id="tile3" class="icon"></a>
-						<a href="/index.php?cID=265" class="text">Student Success</a>
+						<a href="/student-life/student-success/" id="tile3" class="icon"></a>
+						<a href="/student-life/student-success/" class="text">Student Success</a>
 					</div>
 					<div class="tile">
-						<a href="/index.php?cID=270" id="tile4" class="icon"></a>
-						<a href="/index.php?cID=270" class="text">Sample Coursework</a>
+						<a href="/student-life/sample-coursework/" id="tile4" class="icon"></a>
+						<a href="/student-life/sample-coursework/" class="text">Sample Coursework</a>
 					</div>
 					<div class="tile">
-						<a href="/index.php?cID=271" id="tile5" class="icon"></a>
-						<a href="/index.php?cID=271" class="text">Our Faculty</a>
+						<a href="/student-life/our-faculty/" id="tile5" class="icon"></a>
+						<a href="/student-life/our-faculty/" class="text">Our Faculty</a>
 					</div>
 					<div class="tile">
-						<a href="/index.php?cID=273" id="tile6" class="icon"></a>
-						<a href="/index.php?cID=273" class="text">Commencement</a>
+						<a href="/student-life/commencement/" id="tile6" class="icon"></a>
+						<a href="/student-life/commencement/" class="text">Commencement</a>
 					</div>
 					<div class="tile">
 						<a href="http://store.csuglobal.edu/" target="_blank" id="tile7" class="icon"></a>
 						<a href="http://store.csuglobal.edu/" target="_blank" class="text">School Store</a>
 					</div>
 					<div class="tile">
-						<a href="/index.php?cID=906" id="tile8" class="icon"></a>
-						<a href="/index.php?cID=906" class="text">Military</a>
+						<a href="/student-life/military/" id="tile8" class="icon"></a>
+						<a href="/student-life/military/" class="text">Military</a>
 					</div>
 									</div>
 				<div class="sectionttl">
@@ -245,10 +268,10 @@ var CCM_REL = "";
 			<div id="nav_aboutus" class="section">
 				<div class="col1">
 					<h3>About Us</h3>
-					<ul class="nav"><li class=""><a href="/about/who-we-are/our-mission/" target="_self" class="">Our Mission</a></li><li class=""><a href="/about/who-we-are/accreditation/" target="_self" class="">Accreditation</a></li><li class=""><a href="/about/who-we-are/advisory-council/" target="_self" class="">Advisory Council</a></li><li class=""><a href="/about/who-we-are/news/" target="_self" class="">News</a></li><li class=""><a href="/about/who-we-are/university-data/" target="_self" class="">University Data</a></li><li class=""><a href="/about/who-we-are/contact-us/" target="_self" class="">Contact Us</a></li></ul>				</div>
+					<ul class="nav"><li class=""><a href="/about/who-we-are/our-mission/" target="_self" class="">Our Mission</a></li><li class=""><a href="/about/who-we-are/accreditation/" target="_self" class="">Accreditation</a></li><li class=""><a href="/about/who-we-are/university-data/" target="_self" class="">University Data</a></li><li class=""><a href="/about/who-we-are/news/" target="_self" class="">News</a></li><li class=""><a href="https://csuglobal.edu/blog" target="_blank" class="">Blog</a></li><li class=""><a href="/about/who-we-are/events/" target="_self" class="">Events</a></li><li class=""><a href="/about/who-we-are/contact-us/" target="_self" class="">Contact Us</a></li></ul>				</div>
 				<div class="col2">
 					<h3>CSU-Global Difference</h3>
-					<ul class="nav"><li class=""><a href="/about/csu-global-difference/csu-system/" target="_self" class="">CSU System</a></li><li class=""><a href="/about/csu-global-difference/public-not-profit/" target="_self" class="">Public, Not For Profit</a></li><li class=""><a href="/about/csu-global-difference/flexible-and-convenient/" target="_self" class="">Flexible and Convenient</a></li><li class=""><a href="/about/csu-global-difference/affordable/" target="_self" class="">Affordable</a></li></ul>				</div>
+					<ul class="nav"><li class=""><a href="/about/csu-global-difference/csu-system/" target="_self" class="">CSU System</a></li><li class=""><a href="/about/csu-global-difference/public-not-profit/" target="_self" class="">Public, Not For Profit</a></li><li class=""><a href="/about/csu-global-difference/flexible-and-convenient/" target="_self" class="">Flexible and Convenient</a></li><li class=""><a href="/about/csu-global-difference/affordable/" target="_self" class="">Affordable</a></li><li class=""><a href="/about/csu-global-difference/advisory-council/" target="_self" class="">Advisory Council</a></li><li class=""><a href="/about/csu-global-difference/association-memberships/" target="_self" class="">Association Memberships</a></li></ul>				</div>
 				<div class="col3">
 					<h3>Services</h3>
 					<ul class="nav"><li class=""><a href="/about/services/school-professional-studies/" target="_self" class="">School of Professional Studies</a></li><li class=""><a href="/about/services/school-management-innovation/" target="_self" class="">School of Management and Innovation</a></li><li class=""><a href="/about/services/education-academy/" target="_self" class="">Education Academy</a></li><li class=""><a href="/about/services/organizational-training/" target="_self" class="">Affiliate Employers</a></li><li class=""><a href="/about/services/institutional-resources/" target="_self" class="">Institutional Resources</a></li></ul>				</div>
@@ -269,17 +292,18 @@ var CCM_REL = "";
 			<input type="text" name="query" value="" class="tblr3">
 			<input type="submit" value="" src="">
 		</form>
-						<div id="ctanames"><a href="https://home-c9.incontact.com/inContact/ChatClient/ChatClient.aspx?poc=9fd79d46-6ae5-457d-bfa5-5e8cdd434a3c&amp;bu=4593732" id="icon_chat" onclick="centeredPopup(this.href,\'myWindow\',\'460\',\'650\',\'yes\');return false">Live Chat</a></div>
+						<!-- <div id="ctanames"><a href="https://home-c9.incontact.com/inContact/ChatClient/ChatClient.aspx?poc=9fd79d46-6ae5-457d-bfa5-5e8cdd434a3c&bu=4593732" id="icon_chat" onclick="centeredPopup(this.href,\'myWindow\',\'460\',\'650\',\'yes\');return false">Live Chat</a></div> -->
+		<div id="ctanames"><a href="javascript:centeredPopup('https://webchat.csuglobal.edu/enrollment','myWindow','665','665','yes');" id="icon_chat">Live Chat</a></div>
 				<ul id="mainnav">
 			<li><a href="javascript:mnav.open('nav_undergraduate')" class="mnav">UNDERGRADUATE</a></li>
 				<li><a href="javascript:mnav.open('nav_graduate')" class="mnav">GRADUATE</a></li>
 				<li><a href="javascript:mnav.open('nav_cost')" class="mnav">COST</a></li>
 				<li><a href="javascript:mnav.open('nav_studentlife')" class="mnav">STUDENT LIFE</a></li>
-				<li><a href="javascript:mnav.open('nav_aboutus')" class="mnav gap">ABOUT</a></li>			<li class="cta" id="apply"><a href="https://application.csuglobal.edu/" onclick="_gaq.push(['_trackEvent', 'Apply Now', 'Clicked Apply Now']);" target="_blank">APPLY NOW! <span style="font-weight:400;">»</span></a></li>
+				<li><a href="javascript:mnav.open('nav_aboutus')" class="mnav gap">ABOUT</a></li>			<li class="cta" id="apply"><a href="https://application.csuglobal.edu/enrollment" onclick="_gaq.push(['_trackEvent', 'Apply Now', 'Clicked Apply Now']);" target="_blank">APPLY NOW! <span style="font-weight:400;">»</span></a></li>
 				<li class="cta" id="icons">
 					<a href="/request-information" id="icon_rfi"></a>
 					<a href="tel:+18009206723" id="icon_call"></a>
-					<a href="https://home-c9.incontact.com/inContact/ChatClient/ChatClient.aspx?poc=9fd79d46-6ae5-457d-bfa5-5e8cdd434a3c&amp;bu=4593732" id="icon_chat" onclick="centeredPopup(this.href,'myWindow','460','650','yes');return false"></a>
+					<a href="javascript:centeredPopup('https://webchat.csuglobal.edu/enrollment','myWindow','665','665','yes');" id="icon_chat"></a>
 				</li>
 						</ul>
 		<a href="https://portal.csuglobal.edu/" id="login">+ LOGIN</a>	</div>
@@ -288,7 +312,7 @@ var CCM_REL = "";
             <div id="graybar">
                                     <div id="breadcrumbs">
                         <a href="/" id="home"></a><span class="arrows">»</span>
-                        Privacy Policy                    </div>
+                        Web Privacy Policy                    </div>
                             </div>
         </div>
 
@@ -309,19 +333,19 @@ var CCM_REL = "";
                                     </a>
                                 </span>
                                 <span class="fa-stack fa-lg">
-                                    <a href="http://www.facebook.com/sharer.php?u=http://csuglobal.edu/privacy-policy/&amp;t=Privacy Policy" title="Share on Facebook.">
+                                    <a href="http://www.facebook.com/sharer.php?u=https://csuglobal.edu/privacy-policy/&amp;t=Web Privacy Policy" title="Share on Facebook.">
                                         <i class="fa fa-circle fa-stack-2x"></i>
                                         <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
                                     </a>
                                 </span>
                                 <span class="fa-stack fa-lg">
-                                    <a href="http://www.linkedin.com/shareArticle?mini=true&amp;title=Privacy Policy&amp;url=http://csuglobal.edu/privacy-policy/" title="Share on LinkedIn">
+                                    <a href="http://www.linkedin.com/shareArticle?mini=true&amp;title=Web Privacy Policy&amp;url=https://csuglobal.edu/privacy-policy/" title="Share on LinkedIn">
                                         <i class="fa fa-circle fa-stack-2x"></i>
                                         <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
                                     </a>
                                 </span>
                                 <span class="fa-stack fa-lg">
-                                    <a href="mailto:?subject=Learn more about CSU-Global - Privacy Policy&amp;Body=%0D%0AClick the link below to visit a page I thought you might be interested in.%0D%0A%0D%0Ahttp://csuglobal.edu/privacy-policy/" title="Email this Page">
+                                    <a href="mailto:?subject=Learn more about CSU-Global - Web Privacy Policy&amp;Body=%0D%0AClick the link below to visit a page I thought you might be interested in.%0D%0A%0D%0Ahttps://csuglobal.edu/privacy-policy/" title="Email this Page">
                                         <i class="fa fa-circle fa-stack-2x"></i>
                                         <i class="fa fa-envelope-o fa-stack-1x fa-inverse"></i>
                                     </a>
@@ -369,7 +393,7 @@ var CCM_REL = "";
 	</form>
 </div>                </div>
                 <div class="bodycontent">
-                    <h1>Privacy Policy</h1><h2>Commitment to Individual Privacy</h2>
+                    <h1>Web Privacy Policy</h1><h2>Commitment to Individual Privacy</h2>
 <p>Colorado State University-Global Campus (CSU-Global) is committed to protecting the privacy and accuracy of confidential information submitted by employees, students, and visitors to our website. We do not actively share personal information gathered. However, because CSU-Global is a public institution, some information collected from our website and other sources may be subject to the Colorado Public (Open) Records Act. Thus, in some cases we may be compelled by law to release information gathered from our web servers. This may include server log information, e-mail messages sent to an individual identified on the website, and information collected from web-based forms.</p>
 <h2>Colorado Public (Open) Records Act <br>(C.R.S. 24-72 201 et seq.)</h2>
 <p>It is the declared public policy of the State of Colorado that all public records shall be open for inspection by any person at reasonable times, except as otherwise provided by law. Public Records are defined by this law as all writings made or maintained by a state institution, such as CSU-Global, regardless of the format or medium of the records.</p>
@@ -392,57 +416,32 @@ var CCM_REL = "";
                 </div>
                 <div id="rightside">
                     <div id="rfiright" class="bl5 br5">
-	<h3>REQUEST INFORMATION</h3>
-	<p>Fill out the form below and we'll contact you and answer all of your questions.</p>
-	<script type="text/javascript">
-		$(document).ready(function() {
-			$("#rfiformright").validate({
-				errorClass: "invalid",
-				rules: {
-					first_name: "required",
-					last_name: "required",
-					email: {
-						required: true,
-						email: true
-					},
-					phone: "required"
-				},
-				submitHandler: function(form) {
-					$('form#rfiformright').attr('action', 'https://salesforce.ringlead.com/cgi-bin/3148/1/dedup.pl');
-					_gaq.push(['_trackEvent', 'RFI Submission', 'Click', 'RFI - Bottom Bar']);
-					form.submit(); 
-					$('#rfiformright').fadeOut('fast');
-					var text = "<h2>Thank You!</h2><p>Your information has been submitted and we will contact you shortly.";
-					$('#wrapper_rfiformright').html(text).addClass('thankyou');
-				},
-				errorPlacement: function(error, element) {
-				    $('#rfiformright-message').html('<strong>Please fill in all required fields.</strong>');
-				}		
-			});
-		});
-	</script>
-	<div id="wrapper_rfiformright" class="tblr5">
-		<form id="rfiformright" action="" method="POST" novalidate="novalidate">
-		<p id="rfiformright-message" class="clr msg">* Required Fields</p>
-		<input type="hidden" name="oid" value="00DA0000000Jdty">
-		<input type="hidden" name="retURL" value="http://csuglobal.edu/thankyou/"> 
-		<input type="hidden" name="form_action_rfiformright" id="form_action_rfiformright" value="//salesforce.ringlead.com/cgi-bin/3148/1/dedup.pl"> 
-		<input type="hidden" name="lead_source" value="web_rfiright"> 
-		<input type="hidden" name="00NF0000008WZsI" value="web_rfiright"><!-- how did you hear about us? -->
-		<input type="hidden" name="Campaign_ID" value="701F00000003o6n"> 
-		<input type="hidden" name="member_status" value="Requested Information"> 
-		<input type="hidden" name="recordType" value="012F0000000jCoo"> 
-		<input type="hidden" name="00NF0000008XM9P" value="1"> 
-		<input id="first_name" name="first_name" class="tblr3 placeholder" type="text" placeholder="First Name *"> 
-		<input id="last_name" name="last_name" class="tblr3 placeholder" type="text" placeholder="Last Name *"> 				
-		<input id="email" name="email" class="tblr3 placeholder" type="text" placeholder="Email *">
-		<input id="phone" name="phone" class="tblr3	 placeholder" type="text" placeholder="Phone *"> 
-		<input id="submit" name="submit" class="btn rfi-submit" type="submit" value="SUBMIT">
-		</form>
-	</div>
+    <h3>REQUEST INFORMATION</h3>
+    <p>Fill out the form below and we'll contact you and answer all of your questions.</p>
 
-	<p>By submitting this form I agree that I can be contacted using the email or phone number that I provided.</p>
-</div>                    <a href="/lp/giftofeducation"><img src="/themes/csug/imgs/banner_rt_giftofeducation.png" alt="Gift of Education" style="margin-top:20px;"></a><br><br>
+    <div id="wrapper_rfiformright" class="tblr5">
+        <form id="rfiformright" class="rfiquickform" action="" method="POST" novalidate="novalidate">
+            <p id="rfiformright-message" class="clr msg">* Required Fields</p>
+            <input type="hidden" name="oid" value="00DA0000000Jdty">
+            <input type="hidden" name="retURL" value="http://csuglobal.edu/thankyou/">
+            <input type="hidden" name="form_action_rfiformright" id="form_action_rfiformright" value="//salesforce.ringlead.com/cgi-bin/3148/1/dedup.pl">
+            <input type="hidden" name="lead_source" value="web_rfiright">
+            <input type="hidden" name="00NF0000008WZsI" value="web_rfiright"><!-- how did you hear about us? -->
+            <input type="hidden" name="Campaign_ID" value="701F00000003o6n">
+            <input type="hidden" name="member_status" value="Requested Information">
+            <input type="hidden" name="recordType" value="012F0000000jCoo">
+            <input type="hidden" name="00NF0000008XM9P" value="1">
+            <input type="hidden" name="00NF000000C1j2D" value="CSU-Global">
+            <input id="first_name" name="first_name" class="tblr3 placeholder" type="text" placeholder="First Name *">
+            <input id="last_name" name="last_name" class="tblr3 placeholder" type="text" placeholder="Last Name *">
+            <input id="email" name="email" class="tblr3 placeholder" type="text" placeholder="Email *">
+            <input id="phone" name="phone" class="tblr3	 placeholder" type="text" placeholder="Phone *">
+            <input id="submit" name="submit" class="btn rfi-submit" type="submit" value="SUBMIT">
+        </form>
+    </div>
+
+    <p>By submitting this form I agree that I can be contacted using the email or phone number that I provided.</p>
+</div>                    <!--<a href="/lp/giftofeducation"><img src="/themes/csug/imgs/banner_rt_giftofeducation.png" alt="Gift of Education" style="margin-top:20px;" /></a><br /><br />-->
                                         <div class="clr">&nbsp;</div>
 
                 </div>
@@ -470,86 +469,233 @@ var CCM_REL = "";
         </div>
         <p>&nbsp;</p>
         <p>&nbsp;</p>
-        <div id="bottomrficontainer" class="hidden-md">
-	<div id="bottomrfi">
-		<img src="/themes/csug/imgs/icon_rfi_info.png" alt="request inforamtion" id="icon" class="fl20">
-		<h3>Request Information</h3>
-		<p class="fr20">* All Fields Required</p>
-		<p>Let us help you jump-start your career.<br><a href="/request-information">Click here</a> to provide us with more information to better serve you.</p>
-		<script type="text/javascript">
-			$(document).ready(function() {
-				$("#rfiformbottom").validate({
-					errorClass: "invalid",
-					rules: {
-						first_name: "required",
-						last_name: "required",
-						email: {
-							required: true,
-							email: true
-						},
-						phone: "required"
-					},
-					submitHandler: function(form) {
-						$('form#rfiformbottom').attr('action', 'https://salesforce.ringlead.com/cgi-bin/3148/1/dedup.pl');
-						_gaq.push(['_trackEvent', 'RFI Submission', 'Click', 'RFI - Bottom Bar']);
-						form.submit(); 
-						$('#rfiformbottom').fadeOut('fast');
-						var text = "<h2>Thank You!</h2><p>Your information has been submitted and we will contact you shortly.";
-						$('#wrapper_rfiformbottom').html(text).addClass('thankyou');
-					},
-					errorPlacement: function(error, element) {
-					    $('#rfiformbottom-message').html('Please fill in all required fields.');
-					}		
-				});
-			});
-		</script>
-		<div id="wrapper_rfiformbottom" class="tblr5">
-			<form id="rfiformbottom" action="" method="POST" novalidate="novalidate">
-			<input type="hidden" name="oid" value="00DA0000000Jdty">
-			<input type="hidden" name="form_action_rfiformbottom" id="form_action_rfiformbottom" value="//salesforce.ringlead.com/cgi-bin/3148/1/dedup.pl"> 
-			<input type="hidden" name="retURL" value="http://csuglobal.edu/thankyou/"> 
-			<input type="hidden" name="lead_source" value="web_rfibottom"> 
-			<input type="hidden" name="00NF0000008WZsI" value="web_rfibottom"><!-- how did you hear about us? -->
-			<input type="hidden" name="Campaign_ID" value="701F00000003o6n"> 
-			<input type="hidden" name="member_status" value="Requested Information"> 
-			<input type="hidden" name="recordType" value="012F0000000jCoo"> 
-			<input type="hidden" name="00NF0000008XM9P" value="1"> 
-			<input id="first_name" name="first_name" class="input tblr3 placeholder" type="text" placeholder="First Name *"> 
-			<input id="last_name" name="last_name" class="input tblr3 placeholder" type="text" placeholder="Last Name *"> 			
-			<input id="email" name="email" class="input tblr3 placeholder" type="text" placeholder="Email *">
-			<input id="phone" name="phone" class="input tblr3 placeholder" type="text" placeholder="Phone *"> 
-			<input id="submit" name="submit" class="btn_lblue_xlgreen rfi-submit" type="submit" value="Submit">
-			</form>		
-		</div>	
-	</div>
-</div>        <div id="footercontainer">
+        <!--------------------------------- yp tracking pixel -->
+        <img border="0" src="//r.turn.com/r/beacon?b2=RJw6kruIvDSXw6hYOjKHLGa-aKNWq1rPnmkh0DElcR-PMmt3OkIHd8-sU8EfG45qKcJE9lOuY7vssoDRLY_-bg&amp;cid=">
+        <!--------------------------------- -->
+        <div id="bottomrficontainer">
+    <div id="bottomrfi">
+        <img src="/themes/csug/imgs/icon_rfi_info.png" alt="request inforamtion" id="icon" class="fl20">
+        <h3>Request Information</h3>
+        <p class="fr20">* All Fields Required</p>
+        <p>Let us help you jump-start your career.<br><a href="/request-information">Click here</a> to provide us with more information to better serve you.</p>
+        <div id="wrapper_rfiformbottom" class="tblr5">
+            <form id="rfiformbottom" class="rfiquickform" action="" method="POST" novalidate="novalidate">
+                <input type="hidden" name="oid" value="00DA0000000Jdty">
+                <input type="hidden" name="form_action_rfiformbottom" id="form_action_rfiformbottom" value="//salesforce.ringlead.com/cgi-bin/3148/1/dedup.pl">
+                <input type="hidden" name="retURL" value="http://csuglobal.edu/thankyou/">
+                <input type="hidden" name="lead_source" value="web_rfibottom">
+                <input type="hidden" name="00NF0000008WZsI" value="web_rfibottom"><!-- how did you hear about us? -->
+                <input type="hidden" name="Campaign_ID" value="701F00000003o6n">
+                <input type="hidden" name="member_status" value="Requested Information">
+                <input type="hidden" name="recordType" value="012F0000000jCoo">
+                <input type="hidden" name="00NF0000008XM9P" value="1">
+                <input type="hidden" name="00NF000000C1j2D" value="CSU-Global">
+                <input id="first_name" name="first_name" class="input tblr3 placeholder" type="text" placeholder="First Name *">
+                <input id="last_name" name="last_name" class="input tblr3 placeholder" type="text" placeholder="Last Name *">
+                <input id="email" name="email" class="input tblr3 placeholder" type="text" placeholder="Email *">
+                <input id="phone" name="phone" class="input tblr3 placeholder" type="text" placeholder="Phone *">
+                <input id="submit" name="submit" class="btn_lblue_xlgreen rfi-submit" type="submit" value="Submit">
+            </form>
+        </div>
+    </div>
+</div><div class="wrapper" style="display: none;">
+    <div id="wrapper_additional-rfi-data">
+        <section class="wrapper-rfi-contact-soon-msg">
+            <h2>We'll Contact You Soon</h2>
+            <p>Congratulations on taking the first step in continuing your education with CSU-Global. An Enrollment Counselor will be reaching out to you soon to discuss your goals and answer any questions. Please complete the information to the right so we can better address your specific needs.</p>
+        </section>
+        <section class="wrapper-rfi-additional-info-request">
+            <h3>MORE ABOUT YOU</h3>
+            <form name="RFI-additional-info-form" id="RFI-additional-info-form" method="POST" novalidate="novalidate">
+                <input type="hidden" name="RFIid" id="RFIid" value="-1">
+                <fieldset>
+                    <p>
+                        <input id="city" class="input textBased placeholder" type="text" name="city" placeholder="City">
+                    </p>
+                    <p>
+                        <select id="state" title="State" name="state">
+                            <option value="">-- State --</option>
+                            <option value="">Outside of the US</option>
+                            <option value="ALASKA">ALASKA</option>
+                            <option value="AL">ALABAMA</option>
+                            <option value="AR">ARKANSAS</option>
+                            <option value="American Samoa">AMERICAN SAMOA</option>
+                            <option value="AZ">ARIZONA</option>
+                            <option value="CA">CALIFORNIA</option>
+                            <option value="CO">COLORADO</option>
+                            <option value="CT">CONNECTICUT</option>
+                            <option value="DC">DISTRICT OF COLUMBIA</option>
+                            <option value="DE">DELAWARE</option>
+                            <option value="FL">FLORIDA</option>
+                            <option value="Federated States of Micronesia">FEDERATED STATES OF MICRONESIA</option>
+                            <option value="GA">GEORGIA</option>
+                            <option value="Guam">GUAM</option>
+                            <option value="HI">HAWAII</option>
+                            <option value="IO">IOWA</option>
+                            <option value="ID">IDAHO</option>
+                            <option value="IL">ILLINOIS</option>
+                            <option value="IN">INDIANA</option>
+                            <option value="KS">KANSAS</option>
+                            <option value="KY">KENTUCKY</option>
+                            <option value="LA">LOUISIANA</option>
+                            <option value="MA">MASSACHUSETTS</option>
+                            <option value="MD">MARYLAND</option>
+                            <option value="ME">MAINE</option>
+                            <option value="Marshall Islands">MARSHALL ISLANDS</option>
+                            <option value="MI">MICHIGAN</option>
+                            <option value="MN">MINNESOTA</option>
+                            <option value="MO">MISSOURI</option>
+                            <option value="Northern Mariana Islanda">NORTHERN MARIANA ISLANDS</option>
+                            <option value="MS">MISSISSIPPI</option>
+                            <option value="MT">MONTANA</option>
+                            <option value="NC">NORTH CAROLINA</option>
+                            <option value="ND">NORTH DAKOTA</option>
+                            <option value="NE">NEBRASKA</option>
+                            <option value="NH">NEW HAMPSHIRE</option>
+                            <option value="NJ">NEW JERSEY</option>
+                            <option value="NM">NEW MEXICO</option>
+                            <option value="NV">NEVADA</option>
+                            <option value="NY">NEW YORK</option>
+                            <option value="OH">OHIO</option>
+                            <option value="OK">OKLAHOMA</option>
+                            <option value="OR">OREGON</option>
+                            <option value="PA">PENNSYLVANIA</option>
+                            <option value="PR">PUERTO RICO</option>
+                            <option value="PALAU">PALAU</option>
+                            <option value="RI">RHODE ISLAND</option>
+                            <option value="SC">SOUTH CAROLINA</option>
+                            <option value="SD">SOUTH DAKOTA</option>
+                            <option value="TN">TENNESSEE</option>
+                            <option value="TX">TEXAS</option>
+                            <option value="UT">UTAH</option>
+                            <option value="VA">VIRGINIA</option>
+                            <option value="Virgin Islands">VIRGIN ISLANDS</option>
+                            <option value="VT">VERMONT</option>
+                            <option value="WA">WASHINGTON</option>
+                            <option value="WI">WISCONSIN</option>
+                            <option value="WV">WEST VIRGINIA</option>
+                            <option value="WY">WYOMING</option>
+
+                        </select>
+                        <input id="zip" class="input placeholder" type="text" name="zip" placeholder="Zip Code">
+                    </p>
+                    <p>
+                        <!--p>What program are you interested in?</p-->
+                        <select id="00NF0000008tqYS" title="Program Picklist" name="00NF0000008tqYS"> <option value="">-- Program of Interest --</option>
+                            <option value="BS - Accounting">Bachelors - Accounting</option>
+                            <option value="BS - Applied Social Sciences">Bachelors - Applied Social Sciences</option>
+                            <option value="BS - Business Management">Bachelors - Business Management</option>
+                            <option value="BS - Communication">Bachelors - Communication</option>
+                            <option value="BS - Criminal Justice and Law Enforcement Administration">Bachelors - Criminal Justice and Law Enforcement Administration</option>
+                            <option value="BS - Healthcare Administration and Management">Bachelors - Healthcare Administration and Management</option>
+                            <option value="BS - Human Resource Management">Bachelors - Human Resource Management</option>
+                            <option value="BS - Human Services">Bachelors - Human Services</option>
+                            <option value="BS - Information Technology">Bachelors - Information Technology</option>
+                            <option value="BS - Management Information Systems and Business Analytics">Bachelors - Management Information Systems and Business Analytics</option>
+                            <option value="BS - Marketing">Bachelors - Marketing</option>
+                            <option value="BS - Organizational Leadership">Bachelors - Organizational Leadership</option>
+                            <option value="BS - Project Management">Bachelors - Project Management</option>
+                            <option value="BS - Public Management">Bachelors - Public Management</option>
+                            <option value="Master - Criminal Justice and Law Enforcement Administration">Master - Criminal Justice and Law Enforcement Administration</option>
+                            <option value="Master - Finance">Master - Finance</option>
+                            <option value="Master - Healthcare Administration and Management">Master - Healthcare Administration and Management</option>
+                            <option value="Master - Human Resource Management">Master - Human Resource Management</option>
+                            <option value="Master - Information Technology Management">Master - Information Technology Management</option>
+                            <option value="Master - International Management">Master - International Management</option>
+                            <option value="Master - Professional Accounting">Master - Professional Accounting</option>
+                            <option value="Master - Project Management">Master - Project Management</option>
+                            <option value="MS - Management">M.S. - Management</option>
+                            <option value="MS - Organizational Leadership">M.S. - Organizational Leadership</option>
+                            <option value="MS - Teaching and Learning">M.S. - Teaching and Learning</option>
+                            <option value="NDS - Non-Degree Seeking">Non-Degree Seeking</option>
+                            <option value="NDS - SuccessReady">SuccessReady</option>
+                            <option value="Undergraduate Certificate of Completion">Undergraduate Certificate of Completion</option>
+                            <option value="CTU - Graduate Certificate Programs">Graduate Certificate of Completion</option>
+                            <option value="EXT - Extended Studies">Extended Studies</option>
+                        </select>
+                    </p>
+                    <p>
+                        <!--p>Highest Level of Education Completed</p-->
+                        <select id="00NF0000008XFgb" title="Highest Level Completed" name="00NF0000008XFgb"> <option value="">-- Highest Level of Education Completed --</option>
+                            <option value="High School or GED">High School or GED</option>
+                            <option value="0-30 credits completed (Freshman)">0-30 credits completed (Freshman)</option>
+                            <option value="31-60 credits completed (Sophomore)">31-60 credits completed (Sophomore)</option>
+                            <option value="61-90 cedits completed (Junior)">61-90 cedits completed (Junior)</option>
+                            <option value="91+ credit completed (Senior)">91+ credit completed (Senior)</option>
+                            <option value="Associate of Applied Science">Associate of Applied Science</option>
+                            <option value="Associate of Arts or Science">Associate of Arts or Science</option>
+                            <option value="Associate of General Studies">Associate of General Studies</option>
+                            <option value="Bachelor's Degree">Bachelor's Degree</option>
+                            <option value="Master's Degree">Master's Degree</option>
+                            <option value="Doctoral Degree">Doctoral Degree</option>
+                        </select>
+                    </p>
+                    <p>
+                        <!--p>What company do you work for? Employer:</p-->
+                        <!---select name="00NF0000008XBQW" id="00NF0000008XBQW">
+                            <option>-- Employer --</option>
+                            <option value="Other">Other</option>
+                    </select -->
+                        <input id="00NF0000008XBQW" class="input textBased placeholder" type="text" placeholder="Employer" name="00NF0000008XBQW" maxlength="255">
+
+                    </p>
+                </fieldset>
+
+                <div>
+                    <h3>Military Affiliation</h3>
+                    <input id="00NF0000008uksu" class="input" title="Military Affiliation" name="00NF0000008uksu" type="checkbox" value="Military Related"> I am active duty, reserve or retired U.S. military or I am the spouse or dependent of a U.S. military service member,
+                    <p id="MilitaryDetails">
+                        <select id="00NF0000008vU8U" name="00NF0000008vU8U" title="Military Branch">
+                            <option value="">-- Military Branch --</option>
+                            <option value="Army">U.S. Army</option>
+                            <option value="Navy">U.S. Navy</option>
+                            <option value="Marines">U.S. Marines</option>
+                            <option value="Air Force">U.S. Air Force</option>
+                            <option value="Coast Guard">U.S. Coast Guard</option>
+                            <option value="Spouse">U.S. Military Spouse</option>
+                            <option value="Dependent">U.S. Military Dependent</option>
+                        </select>
+                    </p>
+                </div>
+
+                <h3>Permission to Text</h3>
+                <p>
+                    <input type="checkbox" value="1" id="00NF0000008XBTL" class="input" title="Ok to Text Me" name="00NF0000008XBTL"> CSU-Global can use this number to contact me via text to discuss educational opportunities. I understand that any charges incurred are my responsibility and I am able to opt out at any time.
+                </p>
+
+                <input id="submit" class="btn_lblue_mblue" type="submit" name="submit" value="SUBMIT">
+            </form>
+        </section>
+
+    </div>
+
+    <div id="wrapper_rfi-confirmation">
+        <h2>Thanks!</h2>
+        <p></p>
+
+    </div>
+
+</div>
+
+<a href="#wrapper_additional-rfi-data" class="rfifancybox"></a>
+<a href="#wrapper_rfi-confirmation" class="rficonfirmfancybox"></a>        <div id="footercontainer">
 		<div class="hidden-md" id="footer">
 		<div class="col">
 			<p><a title="Undergraduate" href="/undergraduate/">UNDERGRADUATE</a></p>
 <div id="HTMLBlock5272" class="HTMLBlock">
 <ul class="nav"><li class=""><a href="/undergraduate/programs/bachelors-degrees/" target="_self" class="">Bachelor's Degrees</a><ul><li class=""><a href="/undergraduate/programs/bachelors-degrees/accounting/" target="_self" class="">Accounting</a></li><li class=""><a href="/undergraduate/programs/bachelors-degrees/applied-social-sciences/" target="_self" class="">Applied Social Sciences</a></li><li class=""><a href="/undergraduate/programs/bachelors-degrees/business-management/" target="_self" class="">Business Management</a></li><li class=""><a href="/undergraduate/programs/bachelors-degrees/communication/" target="_self" class="">Communication</a></li><li class=""><a href="/undergraduate/programs/bachelors-degrees/criminal-justice-and-law-enforcement-management/" target="_self" class="">Criminal Justice and Law Enforcement Management</a></li><li class=""><a href="/undergraduate/programs/bachelors-degrees/healthcare-administration-and-management/" target="_self" class="">Healthcare Administration and Management</a></li><li class=""><a href="/undergraduate/programs/bachelors-degrees/human-resource-management/" target="_self" class="">Human Resource Management</a></li><li class=""><a href="/undergraduate/programs/bachelors-degrees/human-services/" target="_self" class="">Human Services</a></li><li class=""><a href="/undergraduate/programs/bachelors-degrees/information-technology/" target="_self" class="">Information Technology</a></li><li class=""><a href="/undergraduate/programs/bachelors-degrees/management-information-systems-and-business-analytics/" target="_self" class="">Management Information Systems and Business Analytics</a></li><li class=""><a href="/undergraduate/programs/bachelors-degrees/marketing/" target="_self" class="">Marketing</a></li><li class=""><a href="/undergraduate/programs/bachelors-degrees/organizational-leadership/" target="_self" class="">Organizational Leadership</a></li><li class=""><a href="/undergraduate/programs/bachelors-degrees/project-management/" target="_self" class="">Project Management</a></li><li class=""><a href="/undergraduate/programs/bachelors-degrees/public-management/" target="_self" class="">Public Management</a></li></ul></li><li class=""><a href="/undergraduate/programs/specializations/" target="_self" class="">Specializations</a></li><li class=""><a href="/undergraduate/programs/successready/" target="_self" class="">SuccessReady</a></li><li class=""><a href="/undergraduate/programs/alternative-credit-options/" target="_self" class="">Alternative Credit Options</a><ul><li class=""><a href="/undergraduate/programs/alternative-credit-options/cbes/" target="_self" class="">CBEs</a></li><li class=""><a href="/undergraduate/programs/alternative-credit-options/pla/" target="_self" class="">PLA</a></li></ul></li><li class=""><a href="/undergraduate/programs/certificates-completion/" target="_self" class="">Certificates of Completion</a></li>
-<li class=""><a href="/undergraduate/programs/academic-catalog/" target="_self" class="">Academic Catalog</a></li></ul></div><ul class="nav"><li class=""><a href="https://application.csuglobal.edu/" target="_self" class="">Apply Now</a></li><li class=""><a href="/undergraduate/admissions/tuition-rates/" target="_self" class="">Tuition Rates</a></li><li class=""><a href="/undergraduate/admissions/admission-process/" target="_self" class="">Admission Process</a><ul><li class=""><a href="/undergraduate/admissions/admission-process/undergraduate-admissions-requirements/" target="_self" class="">Undergraduate Admissions Requirements</a></li><li class=""><a href="/undergraduate/admissions/admission-process/submitting-your-transcripts/" target="_self" class="">Submitting Your Transcripts</a></li><li class=""><a href="/undergraduate/admissions/admission-process/summary-credit-evaluation/" target="_self" class="">Summary Credit Evaluation</a></li><li class=""><a href="/undergraduate/admissions/admission-process/technology-requirements/" target="_self" class="">Technology Requirements</a></li></ul></li><li class=""><a href="/undergraduate/admissions/transfer-info/" target="_self" class="">Transfer Info</a><ul><li class=""><a href="/undergraduate/admissions/transfer-info/community-college-transfer/" target="_self" class="">Community College Transfer</a></li><li class=""><a href="/undergraduate/admissions/transfer-info/outside-credit-sources/" target="_self" class="">Outside Credit Sources</a></li><li class=""><a href="/undergraduate/admissions/transfer-info/guaranteed-transfer-information/" target="_self" class="">Guaranteed Transfer Information</a></li></ul></li><li class=""><a href="/undergraduate/admissions/military-admissions/" target="_self" class="">Military Admissions</a></li></ul><ul class="nav"><li class=""><a href="/undergraduate/areas-study/business/" target="_self" class="">Business</a></li><li class=""><a href="/undergraduate/areas-study/management-leadership/" target="_self" class="">Management &amp;  Leadership</a></li><li class=""><a href="/undergraduate/areas-study/healthcare/" target="_self" class="">Healthcare</a></li><li class=""><a href="/undergraduate/areas-study/communication/" target="_self" class="">Communication</a></li><li class=""><a href="/undergraduate/areas-study/finance/" target="_self" class="">Finance</a></li><li class=""><a href="/undergraduate/areas-study/technology/" target="_self" class="">Technology</a></li><li class=""><a href="/undergraduate/areas-study/criminal-justice-law/" target="_self" class="">Criminal Justice &amp; Law</a></li></ul>		</div>
+<li class=""><a href="/undergraduate/programs/academic-catalog/" target="_self" class="">Academic Catalog</a></li></ul></div><ul class="nav"><li class=""><a href="https://application.csuglobal.edu/" target="_self" class="">Apply Now</a></li><li class=""><a href="/undergraduate/admissions/ug-tuition-rates/" target="_self" class="">Tuition Rates</a></li><li class=""><a href="/undergraduate/admissions/admission-process/" target="_self" class="">Admission Process</a><ul><li class=""><a href="/undergraduate/admissions/admission-process/undergraduate-admissions-requirements/" target="_self" class="">Undergraduate Admissions Requirements</a></li><li class=""><a href="/undergraduate/admissions/admission-process/submitting-your-transcripts/" target="_self" class="">Submitting Your Transcripts</a></li><li class=""><a href="/undergraduate/admissions/admission-process/summary-credit-evaluation/" target="_self" class="">Summary Credit Evaluation</a></li><li class=""><a href="/undergraduate/admissions/admission-process/technology-requirements/" target="_self" class="">Technology Requirements</a></li></ul></li><li class=""><a href="/undergraduate/admissions/transfer-info/" target="_self" class="">Transfer Info</a><ul><li class=""><a href="/undergraduate/admissions/transfer-info/community-college-transfer/" target="_self" class="">Community College Transfer</a></li><li class=""><a href="/undergraduate/admissions/transfer-info/outside-credit-sources/" target="_self" class="">Outside Credit Sources</a></li><li class=""><a href="/undergraduate/admissions/transfer-info/guaranteed-transfer-information/" target="_self" class="">Guaranteed Transfer Information</a></li></ul></li><li class=""><a href="/undergraduate/admissions/military-admissions/" target="_self" class="">Military Admissions</a></li><li class=""><a href="/undergraduate/admissions/refer-friend/" target="_self" class="">Refer-A-Friend</a></li></ul><ul class="nav"><li class=""><a href="/undergraduate/areas-study/business/" target="_self" class="">Business</a></li><li class=""><a href="/undergraduate/areas-study/management-leadership/" target="_self" class="">Management &amp;  Leadership</a></li><li class=""><a href="/undergraduate/areas-study/healthcare/" target="_self" class="">Healthcare</a></li><li class=""><a href="/undergraduate/areas-study/communication/" target="_self" class="">Communication</a></li><li class=""><a href="/undergraduate/areas-study/finance/" target="_self" class="">Finance</a></li><li class=""><a href="/undergraduate/areas-study/technology/" target="_self" class="">Technology</a></li><li class=""><a href="/undergraduate/areas-study/criminal-justice-law/" target="_self" class="">Criminal Justice &amp; Law</a></li></ul>		</div>
 		<div class="col">
 			<p><a title="Graduate" href="/graduate/">GRADUATE</a></p>
 <div id="HTMLBlock4641" class="HTMLBlock">
-<ul class="nav"><li class=""><a href="/graduate/programs/masters-degrees/" target="_self" class="">Master's Degrees</a><ul><li class=""><a href="/graduate/programs/masters-degrees/management/" target="_self" class="">Management</a></li><li class=""><a href="/graduate/programs/masters-degrees/organizational-leadership/" target="_self" class="">Organizational Leadership</a></li><li class=""><a href="/graduate/programs/masters-degrees/teaching-learning/" target="_self" class="">Teaching &amp; Learning</a></li><li class=""><a href="/graduate/programs/masters-degrees/teaching-learning-education-leadership-concentration/" target="_self" class="">Teaching &amp; Learning - Education Leadership Concentration</a></li><li class=""><a href="/graduate/programs/masters-degrees/criminal-justice-and-law-enforcement-administration/" target="_self" class="">Criminal Justice and Law Enforcement Administration</a></li><li class=""><a href="/graduate/programs/masters-degrees/finance/" target="_self" class="">Finance</a></li><li class=""><a href="/graduate/programs/masters-degrees/healthcare-administration-and-management/" target="_self" class="">Healthcare Administration and Management</a></li><li class=""><a href="/graduate/programs/masters-degrees/human-resource-management/" target="_self" class="">Human Resource Management</a></li><li class=""><a href="/graduate/programs/masters-degrees/information-technology-management/" target="_self" class="">Information Technology Management</a></li><li class=""><a href="/graduate/programs/masters-degrees/international-management/" target="_self" class="">International Management</a></li><li class=""><a href="/graduate/programs/masters-degrees/project-management/" target="_self" class="">Project Management</a></li></ul></li><li class=""><a href="/graduate/programs/specializations/" target="_self" class="">Specializations</a></li><li class=""><a href="/graduate/programs/licensure/" target="_self" class="">Licensure</a><ul><li class=""><a href="/graduate/programs/licensure/teacher-ready/" target="_self" class="">Teacher Ready</a></li><li class=""><a href="/graduate/programs/licensure/principal-licensure/" target="_self" class="">Principal Licensure</a></li></ul></li><li class=""><a href="/graduate/programs/certificates-completion/" target="_self" class="">Certificates of Completion</a></li><li class=""><a href="/graduate/programs/academic-catalog/" target="_self" class="">Academic Catalog</a></li></ul></div><ul class="nav"><li class=""><a href="https://application.csuglobal.edu/" target="_self" class="">Apply Now</a></li><li class=""><a href="/graduate/admissions/tuition-rates/" target="_self" class="">Tuition Rates</a></li><li class=""><a href="/graduate/admissions/admissions-process/" target="_self" class="">Admissions Process</a><ul><li class=""><a href="/graduate/admissions/admissions-process/graduate-admissions-requirements/" target="_self" class="">Graduate Admissions Requirements</a></li><li class=""><a href="/graduate/admissions/admissions-process/technology-requirements/" target="_self" class="">Technology Requirements</a></li></ul></li><li class=""><a href="/graduate/admissions/transfer-info/" target="_self" class="">Transfer Info</a></li><li class=""><a href="/graduate/admissions/military-admissions/" target="_self" class="">Military Admissions</a></li></ul><ul class="nav"><li class=""><a href="/graduate/areas-study/business-management/" target="_self" class="">Business &amp; Management</a></li><li class=""><a href="/graduate/areas-study/healthcare/" target="_self" class="">Healthcare</a></li><li class=""><a href="/graduate/areas-study/human-resources/" target="_self" class="">Human Resources</a></li><li class=""><a href="/graduate/areas-study/finance/" target="_self" class="">Finance</a></li><li class=""><a href="/graduate/areas-study/technology/" target="_self" class="">Technology</a></li><li class=""><a href="/graduate/areas-study/criminal-justice-law/" target="_self" class="">Criminal Justice &amp; Law</a></li><li class=""><a href="/graduate/areas-study/education/" target="_self" class="">Education</a></li></ul>		</div>
+<ul class="nav"><li class=""><a href="/graduate/programs/masters-degrees/" target="_self" class="">Master's Degrees</a><ul><li class=""><a href="/graduate/programs/masters-degrees/management/" target="_self" class="">Management</a></li><li class=""><a href="/graduate/programs/masters-degrees/organizational-leadership/" target="_self" class="">Organizational Leadership</a></li><li class=""><a href="/graduate/programs/masters-degrees/teaching-learning/" target="_self" class="">Teaching &amp; Learning</a></li><li class=""><a href="/graduate/programs/masters-degrees/teaching-learning-education-leadership-concentration/" target="_self" class="">Teaching &amp; Learning - Education Leadership Concentration</a></li><li class=""><a href="/graduate/programs/masters-degrees/criminal-justice-and-law-enforcement-administration/" target="_self" class="">Criminal Justice and Law Enforcement Administration</a></li><li class=""><a href="/graduate/programs/masters-degrees/finance/" target="_self" class="">Finance</a></li><li class=""><a href="/graduate/programs/masters-degrees/healthcare-administration-and-management/" target="_self" class="">Healthcare Administration and Management</a></li><li class=""><a href="/graduate/programs/masters-degrees/human-resource-management/" target="_self" class="">Human Resource Management</a></li><li class=""><a href="/graduate/programs/masters-degrees/information-technology-management/" target="_self" class="">Information Technology Management</a></li><li class=""><a href="/graduate/programs/masters-degrees/international-management/" target="_self" class="">International Management</a></li><li class=""><a href="/graduate/programs/masters-degrees/project-management/" target="_self" class="">Project Management</a></li></ul></li><li class=""><a href="/graduate/programs/specializations/" target="_self" class="">Specializations</a></li><li class=""><a href="/graduate/programs/licensure/" target="_self" class="">Licensure</a><ul><li class=""><a href="/graduate/programs/licensure/teacher-ready/" target="_self" class="">Teacher Ready</a></li><li class=""><a href="/graduate/programs/licensure/principal-licensure/" target="_self" class="">Principal Licensure</a></li></ul></li><li class=""><a href="/graduate/programs/certificates-completion/" target="_self" class="">Certificates of Completion</a></li><li class=""><a href="/graduate/programs/academic-catalog/" target="_self" class="">Academic Catalog</a></li></ul></div><ul class="nav"><li class=""><a href="https://application.csuglobal.edu/" target="_self" class="">Apply Now</a></li><li class=""><a href="/graduate/admissions/grad-tuition-rates/" target="_self" class="">Tuition Rates</a></li><li class=""><a href="/graduate/admissions/admissions-process/" target="_self" class="">Admissions Process</a><ul><li class=""><a href="/graduate/admissions/admissions-process/graduate-admissions-requirements/" target="_self" class="">Graduate Admissions Requirements</a></li><li class=""><a href="/graduate/admissions/admissions-process/technology-requirements/" target="_self" class="">Technology Requirements</a></li></ul></li><li class=""><a href="/graduate/admissions/transfer-info/" target="_self" class="">Transfer Info</a></li><li class=""><a href="/graduate/admissions/military-admissions/" target="_self" class="">Military Admissions</a></li><li class=""><a href="/graduate/admissions/refer-friend/" target="_self" class="">Refer-A-Friend</a></li></ul><ul class="nav"><li class=""><a href="/graduate/areas-study/business-management/" target="_self" class="">Business &amp; Management</a></li><li class=""><a href="/graduate/areas-study/healthcare/" target="_self" class="">Healthcare</a></li><li class=""><a href="/graduate/areas-study/human-resources/" target="_self" class="">Human Resources</a></li><li class=""><a href="/graduate/areas-study/finance/" target="_self" class="">Finance</a></li><li class=""><a href="/graduate/areas-study/technology/" target="_self" class="">Technology</a></li><li class=""><a href="/graduate/areas-study/criminal-justice-law/" target="_self" class="">Criminal Justice &amp; Law</a></li><li class=""><a href="/graduate/areas-study/education/" target="_self" class="">Education</a></li></ul>		</div>
 		<div class="col">
 			<p><a title="Cost" href="/cost/">COST</a></p><ul class="nav"><li class=""><a href="/cost/tuition/" target="_self" class="">Tuition</a><ul><li class=""><a href="/cost/tuition/tuition-rates/" target="_self" class="">Tuition Rates</a></li><li class=""><a href="/cost/tuition/calculator/" target="_self" class="">Net Price Calculator</a></li><li class=""><a href="/cost/tuition/tuition-guarantee/" target="_self" class="">Tuition Guarantee</a></li><li class=""><a href="/cost/tuition/tuition-planning/" target="_self" class="">Tuition Planning</a></li></ul></li><li class=""><a href="/cost/financial-options/" target="_self" class="">Financial Options</a><ul><li class=""><a href="/cost/financial-options/financial-aid/" target="_self" class="">Financial Aid</a></li><li class=""><a href="/cost/financial-options/scholarships/" target="_self" class="">Scholarships</a></li><li class=""><a href="/cost/financial-options/military-tuition-and-benefits/" target="_self" class="">Military Tuition and Benefits</a></li><li class=""><a href="/cost/financial-options/employer-reimbursement/" target="_self" class="">Employer Reimbursement</a></li><li class=""><a href="/cost/financial-options/paying-your-own/" target="_self" class="">Paying On Your Own</a></li></ul></li></ul>			<p>&nbsp;</p>
 			<p>&nbsp;</p>
 			<p>&nbsp;</p>
-			<p><a title="Student Life" href="/student-life/">STUDENT LIFE</a></p><ul class="nav"><li class=""><a href="/student-life/online-right-me/" target="_self" class="">Is Online Right For Me</a></li><li class=""><a href="/student-life/your-schedule/" target="_self" class="">Fit For Your Schedule</a></li><li class=""><a href="/student-life/student-success/" target="_self" class="">Student Success</a><ul><li class=""><a href="/student-life/student-success/tutoring/" target="_self" class="">Tutoring</a></li><li class=""><a href="/student-life/student-success/library/" target="_self" class="">Library</a></li><li class=""><a href="/student-life/student-success/careers/" target="_self" class="">Careers</a></li><li class=""><a href="/student-life/student-success/mentorship-program/" target="_self" class="">Technical Support</a></li></ul></li><li class=""><a href="/student-life/sample-coursework/" target="_self" class="">Sample Coursework</a></li><li class=""><a href="/student-life/our-faculty/" target="_self" class="">Our Faculty</a></li><li class=""><a href="/student-life/commencement/" target="_self" class="">Commencement</a></li><li class=""><a href="http://store.csuglobal.edu/" target="_blank" class="">School Store</a></li><li class=""><a href="/student-life/military/" target="_self" class="">Military</a><ul><li class=""><a href="/student-life/military/military-admissions/" target="_self" class="">Military Admissions</a></li><li class=""><a href="/student-life/military/military-tuition-and-benefits/" target="_self" class="">Military Tuition and Benefits</a></li><li class=""><a href="/student-life/military/military-faq/" target="_self" class="">Military FAQ</a></li></ul></li></ul>		</div>
+			<p><a title="Student Life" href="/student-life/">STUDENT LIFE</a></p><ul class="nav"><li class=""><a href="/student-life/online-right-me/" target="_self" class="">Is Online Right For Me</a></li><li class=""><a href="/student-life/your-schedule/" target="_self" class="">Fit For Your Schedule</a></li><li class=""><a href="/student-life/student-success/" target="_self" class="">Student Success</a><ul><li class=""><a href="/student-life/student-success/tutoring/" target="_self" class="">Tutoring</a></li><li class=""><a href="/student-life/student-success/library/" target="_self" class="">Library</a></li><li class=""><a href="/student-life/student-success/career-services/" target="_self" class="">Careers</a></li><li class=""><a href="/student-life/student-success/technical-support/" target="_self" class="">Technical Support</a></li></ul></li><li class=""><a href="/student-life/sample-coursework/" target="_self" class="">Sample Coursework</a></li><li class=""><a href="/student-life/our-faculty/" target="_self" class="">Our Faculty</a></li><li class=""><a href="/student-life/commencement/" target="_self" class="">Commencement</a></li><li class=""><a href="http://store.csuglobal.edu/" target="_blank" class="">School Store</a></li><li class=""><a href="/student-life/military/" target="_self" class="">Military</a><ul><li class=""><a href="/student-life/military/military-admissions/" target="_self" class="">Military Admissions</a></li><li class=""><a href="/student-life/military/military-tuition-and-benefits/" target="_self" class="">Military Tuition and Benefits</a></li><li class=""><a href="/student-life/military/military-faq/" target="_self" class="">Military FAQ</a></li></ul></li></ul>		</div>
 		<div class="col">
-			<p><a title="About" href="/about/">ABOUT</a></p><ul class="nav"><li class=""><a href="/about/csu-global-difference/csu-system/" target="_self" class="">CSU System</a></li><li class=""><a href="/about/csu-global-difference/public-not-profit/" target="_self" class="">Public, Not For Profit</a></li><li class=""><a href="/about/csu-global-difference/flexible-and-convenient/" target="_self" class="">Flexible and Convenient</a></li><li class=""><a href="/about/csu-global-difference/affordable/" target="_self" class="">Affordable</a></li></ul><ul class="nav"><li class=""><a href="/about/services/school-professional-studies/" target="_self" class="">School of Professional Studies</a><ul><li class=""><a href="/about/services/school-professional-studies/sops-dean-message/" target="_self" class="">Message from the Dean of SPS</a></li></ul></li><li class=""><a href="/about/services/school-management-innovation/" target="_self" class="">School of Management and Innovation</a><ul><li class=""><a href="/about/services/school-management-innovation/smi-dean-message/" target="_self" class="">Message from the Dean of SMI</a></li></ul></li><li class=""><a href="/about/services/education-academy/" target="_self" class="">Education Academy</a><ul><li class=""><a href="/about/services/education-academy/engage/" target="_self" class="">Engage!</a></li></ul></li><li class=""><a href="/about/services/organizational-training/" target="_self" class="">Affiliate Employers</a><ul><li class=""><a href="/about/services/organizational-training/list-affiliate-organizations/" target="_self" class="">List of Affiliates</a></li><li class=""><a href="/about/services/organizational-training/refer-your-employer/" target="_self" class="">Refer Your Employer</a></li><li class=""><a href="http://training.csuglobal.edu" target="_blank" class="">Custom Training Solutions</a></li></ul></li><li class=""><a href="/about/services/institutional-resources/" target="_self" class="">Institutional Resources</a><ul><li class=""><a href="/about/services/institutional-resources/become-affiliate-college/" target="_self" class="">Become An Affiliate College</a></li><li class=""><a href="https://solutions.csuglobal.edu/" target="_self" class="">Institutional Development Solutions</a></li></ul></li></ul>
-<div id="HTMLBlock4060" class="HTMLBlock">
-<ul class="nav">
-<li class=""><a href="/about/who-we-are/our-mission/" target="_self" class="">Our Mission</a></li>
-<li class=""><a href="/about/who-we-are/accreditation/" target="_self" class="">Accreditation</a>
-</li><li class=""><a href="/about/who-we-are/accreditation/reaffirmation-accreditation/" target="_self" class="">Reaffirmation of Accreditation</a></li>
-<li class=""><a href="/about/who-we-are/accreditation/state-specific-authorizations/" target="_self" class="">State Specific Authorizations</a></li>
-<li class=""><a href="/about/who-we-are/advisory-council/" target="_self" class="">Advisory Council</a></li>
-<li class=""><a href="/about/who-we-are/news/" target="_self" class="">News</a></li>
-<li class=""><a href="/about/who-we-are/contact-us/" target="_self" class="">Contact Us</a></li>
-</ul></div>		</div>
+			<p><a title="About" href="/about/">ABOUT</a></p><ul class="nav"><li class=""><a href="/about/who-we-are/" target="_self" class="">Who We Are</a><ul><li class=""><a href="/about/who-we-are/our-mission/" target="_self" class="">Our Mission</a></li><li class=""><a href="/about/who-we-are/accreditation/" target="_self" class="">Accreditation</a></li><li class=""><a href="/about/who-we-are/university-data/" target="_self" class="">University Data</a></li><li class=""><a href="/about/who-we-are/news/" target="_self" class="">News</a></li><li class=""><a href="https://csuglobal.edu/blog" target="_blank" class="">Blog</a></li><li class=""><a href="/about/who-we-are/events/" target="_self" class="">Events</a></li><li class=""><a href="/about/who-we-are/contact-us/" target="_self" class="">Contact Us</a></li></ul></li><li class=""><a href="/about/csu-global-difference/" target="_self" class="">CSU-Global Difference</a><ul><li class=""><a href="/about/csu-global-difference/csu-system/" target="_self" class="">CSU System</a></li><li class=""><a href="/about/csu-global-difference/public-not-profit/" target="_self" class="">Public, Not For Profit</a></li><li class=""><a href="/about/csu-global-difference/flexible-and-convenient/" target="_self" class="">Flexible and Convenient</a></li><li class=""><a href="/about/csu-global-difference/affordable/" target="_self" class="">Affordable</a></li><li class=""><a href="/about/csu-global-difference/advisory-council/" target="_self" class="">Advisory Council</a></li><li class=""><a href="/about/csu-global-difference/association-memberships/" target="_self" class="">Association Memberships</a></li></ul></li><li class=""><a href="/about/services/" target="_self" class="">Services</a><ul><li class=""><a href="/about/services/school-professional-studies/" target="_self" class="">School of Professional Studies</a></li><li class=""><a href="/about/services/school-management-innovation/" target="_self" class="">School of Management and Innovation</a></li><li class=""><a href="/about/services/education-academy/" target="_self" class="">Education Academy</a></li><li class=""><a href="/about/services/organizational-training/" target="_self" class="">Affiliate Employers</a></li><li class=""><a href="/about/services/institutional-resources/" target="_self" class="">Institutional Resources</a></li></ul></li></ul>		</div>
 		<div class="col" style="border:none; margin-right:0px">
 			<p><a title="Other Info">OTHER INFO</a></p>
 <ul>
@@ -564,11 +710,12 @@ var CCM_REL = "";
 </li>
 <li><a title="Disclaimer" href="/disclaimertester/">Disclaimer</a></li>
 <li><a title="Consumer Information" href="/consumer-information/">Consumer Information</a></li>
-<li><a title="Privacy Policy" href="/privacy-policy/">Privacy Policy</a></li>
+<li><a href="http://www.csuglobal.edu/policy">Student Policies</a></li>
+<li><a title="Privacy Policy" href="/privacy-policy/">Web Privacy Policy</a></li>
 <li><a title="Site Map" href="/site-map/">Site Map</a></li>
 <li><a href="http://www.csusystem.edu/" target="_blank">Colorado State University System</a></li>
 <li><a href="http://www.colostate.edu/" target="_blank">Colorado State University</a></li>
-<li><a href="http://www.colostate-pueblo.edu/" target="_blank">Colorado State University-Pueblo</a></li>
+<li><a href="http://www.csupueblo.edu/" target="_blank">Colorado State University-Pueblo</a></li>
 </ul>			<div id="footer-social">
 				<p>
 				<span class="fa-stack fa-lg">
