@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resume-resource.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204214955id_/http%3A//www.resume-resource.com/legal-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resume-resource.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041741id_/http%3A//www.resume-resource.com/legal-privacy-policy) for the most accurate reproduction.*
 
 # Resume-Resource.com Privacy Policy
 
