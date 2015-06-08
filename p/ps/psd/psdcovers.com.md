@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the psdcovers.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927000731id_/http%3A//www.psdcovers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psdcovers.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608121041id_/http%3A//www.psdcovers.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
-Nov 12, 2011
-
-Your privacy is very important to us. This [privacy policy](http://www.psdcovers.com/tag/privacy-policy/ "Posts tagged with privacy policy") applies to your information that we collect and receive; it does not apply to practices of businesses that we do not own or control or people we do not employ. At no time will we sell your information or release your personally-identifiable data without your permission. You can visit PSDCovers.com without revealing who you are or providing any personal information about yourself.
+Your privacy is very important to us. This privacy policy applies to your information that we collect and receive; it does not apply to practices of businesses that we do not own or control or people we do not employ. At no time will we sell your information or release your personally-identifiable data without your permission. You can visit PSDCovers.com without revealing who you are or providing any personal information about yourself.
 
 By using PSDCovers.com, you agree to the terms of this privacy policy. Please read the following policy to understand how your personal information will be treated as you use our services. The following discloses our information gathering and dissemination practices.
 
