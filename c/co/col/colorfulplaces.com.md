@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colorfulplaces.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216212325id_/http%3A//www.colorfulplaces.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorfulplaces.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608024429id_/http%3A//www.colorfulplaces.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Colorful Places|Colorful Places
 
