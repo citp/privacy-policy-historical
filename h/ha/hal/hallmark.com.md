@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hallmark.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130004803id_/http%3A//www.hallmark.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hallmark.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608121541id_/http%3A//www.hallmark.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Security | Hallmark
 
@@ -105,11 +105,11 @@ To learn more about AOL, MSN, DART, Yahoo! and Google, including your ability to
 
 When you make a Hallmark.com account, your contact preferences automatically shows that you want to get promotional information from Hallmark about news on Hallmark products, services, and events. It also indicates that you would like to be told about special offers, products and free samples from Hallmark partners.
 
-If you do not want to be contacted by Hallmark for promotional purposes, you may change your preferences at any time. Be sure you are signed in to your Hallmark.com account and click My Hallmark located at the top of any page on Hallmark.com. Click Contact Preferences. Uncheck the boxes next to any of the topics and uncheck the box next to the statement "Hallmark and its companies can contact me about special offers and promotions."
+If you do not want to be contacted by Hallmark for promotional purposes, you may change your preferences at anytime. Be sure you are signed in to your Hallmark.com account. Hover on the Hi statement in the purple bar. Select Profile and click on the Settings link at right of the page. A Communication Preferences box will appear. Uncheck the box next to the statement "Hallmark and its companies can contact me about special offers and promotions."
 
 ## How do I access and change my personal information?
 
-You can change or delete your personal information anytime. Click My Hallmark located at the top of any page on Hallmark.com. You can update any of your personal information by choosing what information you would like to update. For example, your address book or reminder service can be updated if you choose to do so. You will then be taken to where you can change or submit new information.
+You can change or delete your personal information anytime. Sign in to your Hallmark.com account. Hover on the Hi statement in the purple bar. Select Profile and click on the Edit button at right of the page. You can update any of your personal information by choosing what information you would like to update. For example, your address book or reminder service can be updated if you choose to do so. You will then be taken to where you can change or submit new information.
 
 ## How secure is the information that I give to Hallmark?
 
