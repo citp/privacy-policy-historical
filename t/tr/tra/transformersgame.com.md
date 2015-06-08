@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transformersgame.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120205118id_/http%3A//www.activision.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transformersgame.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608054305id_/http%3A//www.activision.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Activision | Privacy Policy
 
@@ -69,9 +69,9 @@ If you believe that we have not responded to your inquiry or your inquiry has no
 _http://www.esrb.org/privacy/contact.jsp_
 
 ESRB  
-Attn:Privacy Online Program  
-317 Madison Avenue , 22nd Floor  
-New York , NY 10017  
+Attn: Privacy Certified Program  
+420 Lexington Ave, Suite 2024  
+New York , NY 10170  
 _privacy@esrb.org_
 
 **Information We Collect and How We Use It** : we collect Information from you and other sources, and we use that Information to operate, personalize, and improve our Activision Properties, and to send you marketing messages or personalize advertising.
