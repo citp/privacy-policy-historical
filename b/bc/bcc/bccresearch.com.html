@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bccresearch.com privacy policy that was archived on 2014-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141123132423id_/http%3A//www.bccresearch.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bccresearch.com privacy policy that was archived on 2015-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150609013445id_/http%3A//www.bccresearch.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="js"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -7,10 +7,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="description" content="Privacy Policy">
 <meta name="keywords" content="Privacy Policy">
+<meta name="robots" content="noarchive">
 <meta name="msvalidate.01" content="AAC06D3803665495FE8F94ABFF18AAEE">
 <title>Privacy Policy</title>
 <link rel="shortcut icon" href="/public/images/logo.ico" type="image/x-icon">
-<link href="/public/css/navigation-style.css?d=09-10" rel="stylesheet" type="text/css">
+<link href="/public/css/navigation-style.css?d=06-01" rel="stylesheet" type="text/css">
 <!--[if IE 9]>
 <link rel="stylesheet" type="text/css" href="/public/css/IE9.css" />
 <![endif]-->
@@ -25,10 +26,46 @@
     .gradient{filter: none;}
   </style>
 <![endif]-->
-<script id="hs-analytics" src="//js.hubspot.com/analytics/1582538100000/308401.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="/public/js/jquery-1.2.3.pack.js" type="text/javascript"></script><link href="/public/css/style.css" rel="stylesheet" type="text/css">
-					<script src="/public/js/common.js" type="text/javascript"></script><script type="text/javascript">
 
-  var _gaq = _gaq || [];
+<script type="text/javascript" async="" defer="" src="//piwikana.bccresearch.com/piwik.js"></script><script id="hs-analytics" src="//js.hubspot.com/analytics/1582538100000/308401.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="/public/js/jquery-1.4.min.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="/public/js/multiselect/jquery-ui.css">
+<script type="text/javascript" src="/public/js/multiselect/jquery-ui.min.js"></script>
+<link href="/public/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+<script src="/public/js/jquery.autocomplete.js" type="text/javascript"></script>
+<script>
+
+	$(document).ready(function() {
+		// for home page intutive search
+	$("#search_keyword_header").autocomplete("/index/autosuggest", {
+		matchContains: true,
+		minChars: 1
+	});
+	$("#search_keyword_header").result(function(event, data, formatted) {
+		if (data)
+			$(this).parent().next().find("input").val(data[1]);
+			//$("#main_header_search").submit();
+			$("#hrd_search_frm").submit();
+			
+			
+	});
+	$("#clear").click(function() {;
+		$(":input").unautocomplete();
+	});
+	$("#id_ccard").attr('checked', 'checked');
+	$("#sel_opt1").addClass("active-1");
+	$("#scope_pp").hide();
+	$("#scope_wire").hide();
+	$("#scope_check").hide();
+	$("#sel_opt2").removeClass("active-2");
+	$("#sel_opt3").removeClass("active-2");
+	$("#sel_opt4").removeClass("active-3");
+	$("#paymt_sel").val('cc');
+    });
+</script>
+
+<script src="/public/js/jquery-1.2.3.pack.js" type="text/javascript"></script><link href="/public/css/style.css" rel="stylesheet" type="text/css">
+					<script src="/public/js/common.js" type="text/javascript"></script><script type="text/javascript">
+	var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-1570823-1']);
   _gaq.push(['_setDomainName', 'bccresearch.com']);
   _gaq.push(['_trackPageview']);
@@ -41,8 +78,8 @@
 
 </script>
 
-<script src="https://archive.org/includes/analytics.js?v=cf34f82&amp;_=1582537978202"></script></head>
-<body onload="">
+<script src="https://archive.org/includes/analytics.js?v=cf34f82&amp;_=1582537973117"></script></head>
+<body onload=""><div id="WzTtDiV" style="visibility: hidden; position: absolute; overflow: hidden; padding: 0px; width: auto; left: 0px; top: 0px;"></div>
 <noscript><div style="height:30px; width:100%; padding-top:0px; margin-top:0px; border: 1px solid #000000; background-color: #FFFF66;">This page uses JavaScript. Your browser either
 doesn't support JavaScript or you have it turned off.
 To see this page as it is meant to appear, please use
@@ -72,11 +109,12 @@ a JavaScript enabled browser.</div></noscript>
 				<input type="checkbox" name="remember" value="on"><span id="rememberMe">Remember Me</span>
 
 				<div style="clear: both; width: 100%; margin-bottom: 0px;">
-				<input type="submit" class="imgbtn_txt" value="Login" title="Login" style="float: left; clear: left; margin: 10px 0px 0px 103px; line-height: 22px;">
-				<input type="reset" class="imgbtn_txt" value="Reset" title="Reset" style="float: left; margin: 10px 0px 0px 10px; line-height: 22px;">
+					<input type="submit" class="imgbtn_txt" value="Login" title="Login" style="float: left; clear: left; margin: 10px 0px 0px 32px; line-height: 22px;">
+					<input type="reset" class="imgbtn_txt" value="Reset" title="Reset" style="float: left; margin: 10px 0px 0px 10px; line-height: 22px;">
+					<input type="button" class="css-btn-green" onclick="getmynav()" value="IP Authenticate" title="IP Authenticate" style="float: left; margin: 10px 0px 0px 10px;">
 				</div>
 
-				<a href="#" style="float: left; margin-left: 103px;" onclick="alert('Please call sales or customer service at 866-285-7215');">
+				<a href="#" style="float: left; margin-left: 103px; padding-top:5px" onclick="alert('Please call sales or customer service at 866-285-7215');">
 					Forgot password/Login issues?
 				</a>
 			</form>
@@ -86,7 +124,13 @@ a JavaScript enabled browser.</div></noscript>
 			<img src="/public/images/ajax-loader.gif" alt="loading animation for AJAX calls" style="margin: 95px 0px 0px 180px;">
 		</div>
     </div>
-	<div id="loginModalMask" class="bcc_modal_mask"></div><!-- Javascript to enable launching for the Advanced Search Modal Windows -->
+	<div id="loginModalMask" class="bcc_modal_mask"></div>
+	<script>
+	function getmynav()
+	{
+		window.location.href="http://www.bccresearch.com/epublish/index/loginip";
+	}
+	</script><!-- Javascript to enable launching for the Advanced Search Modal Windows -->
 <script type="text/javascript">
 
     //Search Modal Code
@@ -376,7 +420,7 @@ playback timings (ms):
         			<div class="rt_div">
 				<ul>
 										<li class="download_pc"><a title="Download Product Catalog" href="/product-catalog">Download Product Catalog</a></li>
-					<li class="signup_email"><a title="Signup for Email Updates" href="/subs/index" class="pdleft">Signup for Email Updates</a></li>
+										<li class="signup_email"><a title="Signup for Email Updates" href="/subs/index" class="pdleft">Signup for Email Updates</a></li>
 				</ul>
 				
 			</div>
@@ -387,15 +431,15 @@ playback timings (ms):
                 <!--STARTS: Header Container -->
         <div id="top_hdr_container">
             <div class="left">
-                <a href="/" title="BCC Research">
-                <img src="/public/images/bcc research logo.jpg" alt="BCC Research" title="BCC Research" class="hdr_logo" width="187" height="68"></a>
+			                <a href="/" title="BCC Research">
+                <img src="http://a78e936e0e2a47bec8bd-7f79f2e07a186103446da9abc695e761.r97.cf5.rackcdn.com/bcc%20research%20logo.jpg" alt="BCC Research" title="BCC Research" class="hdr_logo" width="187" height="68"></a>
             </div>
 			<div class="right">
                 <div class="callnow">Direct (781) 489-7301,&nbsp;&nbsp;Toll Free (866) 285-7215</div>
 				<div class="clboth"></div>
                 <div class="help_email">
-                    <a href="mailto:information@bccresearch.com">information@bccresearch.com</a>
-                </div>
+											<a href="mailto:information@bccresearch.com">information@bccresearch.com</a>
+					                </div>
             </div>
         </div>
         <!--END: Header Container -->
@@ -411,32 +455,35 @@ playback timings (ms):
 						<ul id="menu_block_1">
 							<li class="report_catg1"><a href="/market-research/advanced-materials" title="Advanced Materials Research">Advanced Materials</a></li>
 							<li class="report_catg1"><a href="/market-research/advanced-transportation-technologies" title="Advanced Transportation Technologies Industry">Advanced Transportation Technologies</a></li>
-							<li class="report_catg1"><a href="/market-research/biotechnology" title="Biotechnology Industry">Biotechnology</a></li>
 							<li class="report_catg1"><a href="/market-research/chemicals" title="Chemical Market Research">Chemicals</a></li>
 							<li class="report_catg1"><a href="/market-research/energy-and-resources" title="Energy And Resources Market">Energy And Resources</a></li>
 							<li class="report_catg1"><a href="/market-research/engineering" title="Engineering Market Research">Engineering</a></li>
 							<li class="report_catg1"><a href="/market-research/environment" title="Environment Friendly Technologies">Environment</a></li>
+							<li class="report_catg3"><a href="/market-research/food-and-beverage" title="Food And Beverage Industry">Food And Beverage</a></li>
+						     <li class="report_catg3"><a href="/market-research/forecast-models" title="Forecast Models">Forecast Models</a></li>
 						</ul>
 						<ul id="menu_block_2">
-							<li class="report_catg3"><a href="/market-research/food-and-beverage" title="Food And Beverage Industry">Food And Beverage</a></li>
-						     <li class="report_catg3"><a href="/market-research/forecast-models" title="Forecast Models"><b style="color:green;"><u>Forecast Models</u></b></a><img src="/public/images/new.gif" alt="Forecast Models" style="position:relative;top:-20px;left:114px;"></li>
-							<li class="report_catg3" style="margin-top:-18px;"><a href="/market-research/fuel-cell-and-battery-technologies" title="Fuel Cell And Battery Market"> Fuel Cell And Battery
+							<li class="report_catg3"><a href="/market-research/fuel-cell-and-battery-technologies" title="Fuel Cell And Battery Market"> Fuel Cell And Battery
 							Technologies</a></li>
-							<li class="report_catg3"><a href="/market-research/healthcare" title="Healthcare Market">Healthcare</a></li>
 							<li class="report_catg3"><a href="/market-research/information-technology" title="Information Technology Market">Information Technology</a></li>
 							<li class="report_catg3"><a href="/market-research/instrumentation-and-sensors" title="Instrumentation And Sensors Industry">Instrumentation And Sensors</a></li>
 							<li class="report_catg3"><a href="/market-research/membrane-and-separation-technology" title="Membrane And Separation Market"> Membrane And Separation
 							Technology</a></li>
-							
-						</ul>
-						<ul id="menu_block_3">
 							<li class="report_catg2"><a href="/market-research/manufacturing" title="Manufacturing Industry">Manufacturing</a></li>
 							<li class="report_catg2"><a href="/market-research/nanotechnology" title="Nanotechnology Industry">Nanotechnology</a></li>
-							<li class="report_catg2"><a href="/market-research/pharmaceuticals" title="Pharmaceutical Market">Pharmaceuticals</a></li>
 							<li class="report_catg2"><a href="/market-research/photonics" title="Photonics">Photonics</a><!--<img src="/public/images/new.gif" alt="Photonics" style="position:relative;top:-20px;left:77px;"> style="margin-top:-18px;" --></li>
 							<li class="report_catg2"><a href="/market-research/plastics" title="Plastics Market">Plastics</a></li>
+						</ul>
+						<ul id="menu_block_3">
 							<li class="report_catg2"><a href="/market-research/safety-and-security" title="Safety Security  Market">Safety And Security</a></li>
 							<li class="report_catg2"><a href="/market-research/semiconductor-manufacturing" title="Semiconductor Industry">Semiconductor Manufacturing</a></li>
+							<li class="report_catg1"><a role="lifescience" href="/lifesciences" title="Life Sciences"><b>Life Sciences</b></a>
+								<ol style="padding-left:20px;">
+									<li class="report_catg1"><a href="/market-research/biotechnology" title="Biotechnology Industry">Biotechnology</a></li>
+									<li class="report_catg3"><a href="/market-research/healthcare" title="Healthcare Market">Healthcare</a></li>
+									<li class="report_catg2"><a href="/market-research/pharmaceuticals" title="Pharmaceutical Market">Pharmaceuticals</a></li>
+								</ol>
+							</li>
 						</ul>
 					</li>
 					<li class="">
@@ -449,14 +496,12 @@ playback timings (ms):
 						<a title="Press Room" href="/pressroom">Press Room</a>
 					</li>
 					<li class="">
-						<a title="Events" href="/conference/flame">Events</a>
-					</li>
+						<a title="Flame Conference" href="/conference/flame">Flame Conference</a></li>
+					
+					
 										<li class="">
-						<a target="_blank" title="Blog" href="http://blog.bccresearch.com">Blog</a></li>
-					
-					<li class="">
-						<a class="active-offer" title="Offers" href="/offers">Offers</a><img src="/public/images/new.gif" alt="Offers" class="offer-new-image"></li>
-					
+						<a title="Offers" href="/offers">Offers</a>
+					</li>
 					<li class="">
 						<a href="/aboutus/contactus" title="Contact Us">Contact Us</a>
 					</li>
@@ -467,18 +512,29 @@ playback timings (ms):
 		        <div class="body_container_div">
             <!--middle container start-->
             <div id="middle_container">
-			 <div class="search_div">
+			 <script type="text/javascript" src="/public/js/wz_tooltip.js"></script>
+<div class="search_div">
 	<div class="lt_img"></div>
 	<div class="main_srch">
 		<h4>Search</h4>
         <form name="search" method="post" action="/index/advancedsearch" id="hrd_search_frm">
 			<div class="srch_box_txt">
 				<div class="lt_srch"><img src="/public/images/srch_lt.jpg" width="5" height="27" alt=""></div>
-				<input type="text" value="Type your search query here...." class="srch_txt" id="search_keyword_header" name="search_keyword" onfocus="blank(this)" onblur="unblank(this)">
+								
+				<input type="text" name="search_keyword" class="srch_txt inputfld2" id="search_keyword_header" value="" autocomplete="off" placeholder="Enter your text here and search....">
+				<div class="floatlt radio-bdr">
+					<input type="radio" value="0" name="archive_yes" class="radio-btn floatlt marginlt5" checked="" alt="2011 To Present" title="2011 To Present">
+					<div class="floatlt pdleft5 pdtop2"><a href="javascript:;" onmouseout="UnTip()" onmouseover="Tip('2011 To Present')">Latest Reports</a></div>
+				</div>
+				<div class="floatlt radio-bdr">
+					<input type="radio" value="1" name="archive_yes" class="radio-btn floatlt marginlt5" alt="2010 And Before" title="2010 And Before">
+					<div class="floatlt pdleft5 pdtop2"><a href="javascript:;" onmouseout="UnTip()" onmouseover="Tip('2010 And Before');">Archived Reports</a></div>
+				</div>
+				
 				<div class="floatlt"><a title="Search" href="javascript:searchText();"><img src="/public/images/srch_btn.jpg" alt="Search" width="53" height="27"></a></div>
 			</div>
-			 				<a href="javascript:advsearch_formpopup();" class="btn_img" title="Advance Search">
-					<img src="/public/images/btn_search.gif" alt="BCC Advance Search" width="132" height="27">
+			 			 				<a href="javascript:advsearch_formpopup();" class="btn_img" title="Advance Search">
+					<img src="http://a78e936e0e2a47bec8bd-7f79f2e07a186103446da9abc695e761.r97.cf5.rackcdn.com/clients_logo/btn_search.gif" alt="BCC Advance Search" width="132" height="27">
 				</a>
 								        
         </form>   
@@ -702,7 +758,9 @@ function removethisoption(){
 			</ul>
 			<ul>
 				<!--li><a title="Blog" href="/blog.html">Blog</a></li-->
-				<li><a title="Conferences" href="/conference/flame">Conferences</a>
+				<!--<li><a title="Conferences" href="/conference/flame">Conferences</a>
+				</li> -->
+				<li><a title="Blog" target="_blank" href="http://blog.bccresearch.com/">Blog</a>
 				</li>
 				<li><a href="/report/reportsubscription">Library Subscription</a></li>
 				<li><a href="/pressroom" title="Press Room">Press Room</a></li>
@@ -714,8 +772,8 @@ function removethisoption(){
 				</script></span>
 			</div>
 			<div class="rt">
-				<div class="paypal"><img src="/public/images/paypal-logo.png" alt="" width="70" height="65"></div>
-				All transactions on our web site are PayPal verified. All major cards accepted. No PayPal account needed.
+								<div class="paypal"><img src="http://a78e936e0e2a47bec8bd-7f79f2e07a186103446da9abc695e761.r97.cf5.rackcdn.com/paypal-logo.png" alt="PayPal Verified" title="PayPal Verified" width="70" height="65"></div>
+				Payment options: credit card (through our secured payment gateway that accepts all major credit cards), PayPal , wire transfer and check.
 				<div class="ftr_social">
 					<div class="icontxt">Connect with BCC</div>
 					<a class="linkedin" rel="nofollow" href="http://www.linkedin.com/company/62171?trk=tyah" title="Linkedin" target="_blank"></a>
@@ -757,6 +815,23 @@ function removethisoption(){
     </script>
 <!-- End of Async HubSpot Analytics Code -->
 
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//piwikana.bccresearch.com/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//piwikana.bccresearch.com/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
 
+<link href="/public/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+<script src="/public/js/jquery.autocomplete.js" type="text/javascript"></script>
 
 </body></html>
