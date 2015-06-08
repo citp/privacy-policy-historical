@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the davidjeremiah.org privacy policy that was archived on 2014-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141124060317id_/http%3A//www.davidjeremiah.org/site/content.aspx%3Fid%3D82) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the davidjeremiah.org privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608041207id_/http%3A//www.davidjeremiah.org/site/content.aspx%3Fid%3D82) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xml:lang="en" lang="en"><head id="ctl00_ctl00_Head1"><meta http-equiv="X-UA-Compatible" content="IE=edge; IE=8;"><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0010/4982.js?439596" async="" type="text/javascript"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="EktronRegisteredJs" type="text/javascript" src="/site/workarea/java/ektronJs.ashx?id=EktronWebToolBarJS"></script><link id="EktronRegisteredCss" rel="stylesheet" type="text/css" href="/site/workarea/csslib/ektronCss.ashx?id=EktronModalCss+EktronCss_site__assets_css_nothingcss"><link rel="Stylesheet" type="text/css" href="/site/_assets/css/common_v2.css?d=20140914">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xml:lang="en" lang="en"><head id="ctl00_ctl00_Head1"><meta http-equiv="X-UA-Compatible" content="IE=edge; IE=8;"><meta name="google-site-verification" content="MdQQJe-d1vu5JaEjaQlDiBU1VYP3YXVmnx6s48BJW7I"><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0010/4982.js?439590" async="" type="text/javascript"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="EktronRegisteredJs" type="text/javascript" src="/site/workarea/java/ektronJs.ashx?id=EktronWebToolBarJS"></script><link id="EktronRegisteredCss" rel="stylesheet" type="text/css" href="/site/workarea/csslib/ektronCss.ashx?id=EktronModalCss+EktronCss_site__assets_css_nothingcss"><link rel="Stylesheet" type="text/css" href="/site/_assets/css/common_v2.css?d=2015042701">
 	<!--[if IE]><link rel="Stylesheet" type="text/css" href="/site/_assets/css/common_v2_ie.css" /><![endif]-->   
 	
-	<link rel="Stylesheet" type="text/css" href="/site/_assets/jquery/jquery-ui-1.8.13.custom.css" media="screen"><link rel="Stylesheet" type="text/css" href="/site/_assets/jquery/jquery.alerts.css" media="screen"><link rel="shortcut icon" href="/site/favicon.ico" type="image/x-icon"><link rel="icon" href="/site/favicon.ico" type="image/ico">
-	<script language="javascript" type="text/javascript" src="/site/_assets/javascript/common.js?d=20140914160300"></script>
+	<link rel="Stylesheet" type="text/css" href="/site/_assets/jquery/jquery-ui-1.8.13.custom.css" media="screen"><link rel="Stylesheet" type="text/css" href="/site/_assets/jquery/jquery.alerts.css" media="screen"><link rel="shortcut icon" href="/site/favicon.ico" type="image/x-icon"><link rel="icon" href="/site/favicon.ico" type="image/ico"><link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+	<script language="javascript" type="text/javascript" src="/site/_assets/javascript/common.js?d=2015042701"></script>
 	<script type="text/javascript" src="/site/SessionTracker/config.js"></script>
 	<script type="text/javascript" src="/site/SessionTracker/st_include.js?d=201212180939"></script>
 	<script type="text/javascript" src="/site/SessionTracker/st_replay_include.js"></script>   
@@ -16,7 +16,8 @@
 	<script type="text/javascript" src="/site/_assets/jquery/jquery.alerts.js"></script> 
 	<script src="/site/_assets/javascript/jquery.easing.compatibility.js" type="text/javascript"></script>
 	<script src="/site/_assets/javascript/jQueryRotateCompressed.2.2.js" type="text/javascript"></script>
-    <script src="/site/_assets/javascript/jquery.hashchange.event.min.js" type="text/javascript"></script>
+    
+    <script src="/site/_assets/javascript/jquery.watermark.min.js" type="text/javascript"></script>
 	<script type="text/javascript" src="/site/WidgetForms/wf_include.js?d=201303221741"></script>
     
 <script src="//cdn.optimizely.com/js/1513468482.js"></script><link rel="Stylesheet" type="text/css" href="/site/WidgetForms/wf_include.css"><script type="text/javascript" src="/site/WidgetForms/Forms/media_player/javascript.aspx?overlay_video="></script>
@@ -125,10 +126,12 @@ $(document).ready(function () {
     if ($(".nav-menu").length > 0) {
         $(".nav-menu-item-text").each(function () {
             var t = ($(this).find("img").length > 0) ? $(this).find("img").attr("alt").toLowerCase() : $(this).text().toLowerCase();
-            if (t.trim() == selectedMenuText.toLowerCase().trim()) {
-                $(this).next(".nav-menu-item-fill").addClass("nav-menu-item-fill-selected");
+            if (t.trim() == selectedMenuText.toLowerCase().trim() || (t.toLowerCase().indexOf("bible strong")!=-1 && selectedMenuText.toLowerCase().indexOf("bible strong")!=-1)) {
+                $(this).next(".nav-menu-item-fill").addClass("nav-menu-item-fill-selected").parents(".nav-menu-item").addClass("selected");
             }
-            else { $(this).next(".nav-menu-item-fill").removeClass("nav-menu-item-fill-selected"); }
+            else { 
+                $(this).next(".nav-menu-item-fill").removeClass("nav-menu-item-fill-selected").parents(".nav-menu-item").removeClass("selected");
+			}
         });
         $(".nav-menu a").hover(function () {
             $(this).find(".nav-menu-item-fill").addClass("nav-menu-item-fill-highlighted");
@@ -163,7 +166,7 @@ $(document).ready(function () {
             if (event.type == "keydown" && event.which == 13) {
                 return submitSearch("searchBox1");
             }
-        });
+        }).watermark('Search...', { useNative: true });
     }
 
     if (isHeaderSticky) {
@@ -181,11 +184,14 @@ $(document).ready(function () {
             scrollToHash(target);
         });
     }
-
+	
 	//Tabbed Banner fields - added 9/14/14 for Agents of the Apocalypse
 	if ( $("#ata_edevo1_input_wrapper").length > 0 ) setInputDefault('#ata_edevo1_input_wrapper', 'your email address');
 	if ( $("#ata_edevo2_input_wrapper").length > 0 ) setInputDefault('#ata_edevo2_input_wrapper', 'your email address');
 	if ( $("#ata_edevo3_input_wrapper").length > 0 ) setInputDefault('#ata_edevo3_input_wrapper', 'your email address');
+	
+	//Tabbed Banner fields - added 11/24/14 for Christ of Christmas Past Digital Guidebook
+	if ( $("#dgtb_email").length > 0 ) setInputDefault('#dgtb_email_wrapper', 'your email address');
 
 });
 	</script>
@@ -243,7 +249,7 @@ $(document).ready(function () {
 <body>  
 <form name="aspnetForm" method="post" action="/site/content.aspx?id=82" id="aspnetForm">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEzNzY2MjMwMTgPZBYCZg9kFgJmD2QWBGYPZBYGAhAPFgIeBFRleHQFcjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii9zaXRlL1dpZGdldEZvcm1zL0Zvcm1zL21lZGlhX3BsYXllci9qYXZhc2NyaXB0LmFzcHg/b3ZlcmxheV92aWRlbz0iPjwvc2NyaXB0PmQCEg8WAh8ABTl2YXIgdGlkID0gJyc7CnZhciB0aGlzUGFnZSA9ICcvc2l0ZS9jb250ZW50LmFzcHg/aWQ9ODInOwpkAhQPZBYCAgMPZBYCAgEPZBYCZg8WAh8ABQ5Qcml2YWN5IFBvbGljeWQCARBkZBYKAgEPDxYEHgZIZWlnaHQbAAAAAADAXEABAAAAHgRfIVNCAoABZBYEAgEPZBYCAgEPZBYCAgEPZBYGAgEPDxYCHghJbWFnZVVybAVZaHR0cDovL3MzLXVzLXdlc3QtMi5hbWF6b25hd3MuY29tL2RhdmlkamVyZW1pYWgub3JnL3NpdGUvX2ltYWdlcy9jb21tb24vYmFubmVyNS5wbmc/MTIxM2FkZAICDw8WAh8DBVlodHRwOi8vczMtdXMtd2VzdC0yLmFtYXpvbmF3cy5jb20vZGF2aWRqZXJlbWlhaC5vcmcvc2l0ZS9faW1hZ2VzL2NvbW1vbi9ob21lLXJvLnBuZz8xMjEzYWRkAgQPDxYCHwMFYGh0dHA6Ly9zMy11cy13ZXN0LTIuYW1hem9uYXdzLmNvbS9kYXZpZGplcmVtaWFoLm9yZy9zaXRlL19pbWFnZXMvY29tbW9uL3RwX2xvZ29faGVhZGVyLnBuZz8xMjEzYWRkAgsPDxYCHgdWaXNpYmxlaGRkAgUPDxYEHwEbAAAAAADAXEABAAAAHwICgAFkZAIHDxYCHwRoZAIPD2QWDgICD2QWAmYPFgIfAAW5AzxoMSBhbGlnbj0iY2VudGVyIj48c3BhbiBzdHlsZT0iZm9udC1zdHlsZTogaXRhbGljOyI+QmlibGUgU3Ryb25nIFBhcnRuZXJzPC9zcGFuPjwvaDE+DQo8cCBhbGlnbj0iY2VudGVyIj48YSBocmVmPSIvc2l0ZS9ic3AvZGVmYXVsdC5hc3B4Ij48aW1nIHRpdGxlPSJCaWJsZSBTdHJvbmcgUGFydG5lcnMiIGFsdD0iQmlibGUgU3Ryb25nIFBhcnRuZXJzIiBzcmM9Ii9zaXRlL3VwbG9hZGVkSW1hZ2VzL3NtYWxsZ3JvdXAucG5nIiBib3JkZXI9IjAiIC8+PC9hPjwvcD4NCjxwIGFsaWduPSJjZW50ZXIiPjxhIGhyZWY9Ii9zaXRlL2JzcC9kZWZhdWx0LmFzcHgiPjxpbWcgdGl0bGU9IkJpYmxlIFN0cm9uZyBQYXJ0bmVycyIgYWx0PSJCaWJsZSBTdHJvbmcgUGFydG5lcnMiIHNyYz0iL3NpdGUvdXBsb2FkZWRJbWFnZXMvSk9JTmJ0bi5wbmciIGJvcmRlcj0iMCIgLz48L2E+PC9wPmQCAw9kFgJmDxYCHwAFzQE8YSBocmVmPSIvc2l0ZS9hZ2VudHNvZnRoZWFwb2NhbHlwc2UvZGVmYXVsdC5hc3B4P3RpZD1kal9zaXRlX2Ntcy1zaWRlYmFyIiA+PGltZyBib3JkZXI9IjAiIHNyYz0iL3NpdGUvdXBsb2FkZWRJbWFnZXMvQW9mQV9vbnNhbGUucG5nIiBhbHQ9IkFnZW50cyBvZiB0aGUgQXBvY2FseXBzZSIgdGl0bGU9IkFnZW50cyBvZiB0aGUgQXBvY2FseXBzZSIgLz48L2E+ZAIED2QWAmYPFgIfAAUJPGgyPjwvaDI+ZAIFD2QWAmYPFgIfAAV4PGEgaHJlZj0iL3NpdGUvY29udGVudC5hc3B4P2lkPTMyMCIgPjxpbWcgYm9yZGVyPSIwIiBzcmM9Ii9zaXRlLyIgYWx0PSJDYXJpYmJlYW4gQ3J1aXNlIiB0aXRsZT0iQ2FyaWJiZWFuIENydWlzZSIgLz48L2E+ZAIGD2QWAmYPFgIfAAXQAjxwIGFsaWduPSJsZWZ0Ij5Kb2luIERhdmlkIGFuZCBEb25uYSBKZXJlbWlhaCBvbiBhIHNldmVuLWRheSBjcnVpc2UgdG8gdGhlIENhcmliYmVhbiHCoDwvcD4NCjxwIGFsaWduPSJsZWZ0Ij48YSB0aXRsZT0iUmVhZCBtb3JlIGFib3V0IHRoaXMgZXhjaXRpbmcgY3J1aXNlIHZhY2F0aW9uLiIgaHJlZj0iaHR0cDovL3d3dy5pbnNwaXJhdGlvbmNydWlzZXMuY29tL2NocmlzdGlhbi1jcnVpc2VzL3R1cm5pbmctcG9pbnQtbWluaXN0cmllcy1jYXJpYmJlYW4tMjAxMiIgdGFyZ2V0PSJfYmxhbmsiPlJlYWQgbW9yZSBhYm91dCB0aGlzIGV4Y2l0aW5nIGNydWlzZSB2YWNhdGlvbi48L2E+PC9wPmQCBw9kFgJmDxYCHwBlZAIID2QWBAIBD2QWAmYPFgIfAAUOUHJpdmFjeSBQb2xpY3lkAgMPZBYCZg8WAh8ABbk6PHA+wqA8L3A+DQo8cD7CoDwvcD4NCjxwPldlYnNpdGVzIDxhIGhyZWY9Imh0dHA6Ly93d3cuZGF2aWRqZXJlbWlhaC5vcmcvIj53d3cuZGF2aWRqZXJlbWlhaC5vcmc8L2E+wqBhbmQgPGEgaHJlZj0iLyI+d3d3LnR1cm5pbmdwb2ludG9ubGluZS5vcmc8L2E+wqDCoGFyZSBwcm92aWRlZCBieSBUdXJuaW5nIFBvaW50IHdpdGggRHIuIERhdmlkIEplcmVtaWFoLiBZb3VyIHVzZSBvZiBvdXIgd2Vic2l0ZSBpcyBnb3Zlcm5lZCBieSB0aGXCoDxhIHRpdGxlPSJUZXJtcyBhbmQgQ29uZGl0aW9ucyIgaHJlZj0iaHR0cDovL3d3dy5kYXZpZGplcmVtaWFoLm9yZy9zaXRlL2NvbnRlbnQuYXNweD9pZD04NCI+VGVybXMgYW5kIENvbmRpdGlvbnM8L2E+LCBhbmQgYnkgeW91ciB1c2Ugb2Ygb3VyIHdlYnNpdGUgeW91IGFjY2VwdCBhbmQgYWNrbm93bGVkZ2UgdGhpcyBwcml2YWN5IHBvbGljeS48L3A+DQo8cD48YnIgLz4NCsKgPC9wPg0KPHAgY2xhc3M9InN1YmhlYWQiPjxzdHJvbmc+PGZvbnQgY29sb3I9IiM4MDgwODAiIHNpemU9IjMiPkEgTk9URSBBQk9VVCBUSEUgUFJJVkFDWSBPRiBDSElMRFJFTiBVTkRFUiAxMzwvZm9udD48L3N0cm9uZz48L3A+DQo8cD48YnIgLz4NCk91ciB3ZWJzaXRlIGlzIG5vdCBkaXJlY3RlZCB0byBvciBvdGhlcndpc2UgcHJvbW90ZWQgZm9yIHVzZSBieSBjaGlsZHJlbiB1bmRlciB0aGUgYWdlIG9mIHRoaXJ0ZWVuICgxMykuIFdlIG9yIHRoaXJkLXBhcnRpZXMgYWN0aW5nIG9uIG91ciBiZWhhbGYgZG8gbm90IGtub3dpbmdseSBjb2xsZWN0IG9yIHVzZSBhbnkgcGVyc29uYWwgaW5mb3JtYXRpb24gb2YgYW55b25lIHVuZGVyIHRoZSBhZ2Ugb2YgdGhpcnRlZW4gKDEzKS48L3A+DQo8cD7CoDwvcD4NCjxwIGNsYXNzPSJzdWJoZWFkIj48c3Ryb25nPjxmb250IGNvbG9yPSIjODA4MDgwIiBzaXplPSIzIj4xLiBXSEFUIFBFUlNPTkFMIElORk9STUFUSU9OIFdFIENPTExFQ1Q8L2ZvbnQ+PC9zdHJvbmc+PC9wPg0KPHAgY2xhc3M9InN1YmhlYWQiPsKgPC9wPg0KPHA+PC9wPg0KPHA+WW91IG1heSBiZSBhc2tlZCB0byBwcm92aWRlIGluZm9ybWF0aW9uIHRoYXQgY2FuIGJlIHVzZWQgdG8gaWRlbnRpZnkgeW91ICh5b3VyICJQZXJzb25hbCBJbmZvcm1hdGlvbiIpIHdoZW4geW91IHJlc3BvbmQgdG8gY2VydGFpbiBpbnF1aXJpZXMgb3IgY2hvb3NlIHRvIHVzZSBjZXJ0YWluIHNlY3Rpb25zIG9mIG91ciB3ZWJzaXRlLiBUaGlzIGluZm9ybWF0aW9uIG1heSBpbmNsdWRlLCBidXQgaXMgbm90IGxpbWl0ZWQgdG8sIHlvdXIgbmFtZSwgYWRkcmVzcywgdGVsZXBob25lIG51bWJlciwgZS1tYWlsIGFkZHJlc3MsIGFuZCwgd2hlcmUgYXBwcm9wcmlhdGUsIGNyZWRpdCBjYXJkIG51bWJlci4gQWxzbywgd2hlbiB5b3UgdmlzaXQgb3VyIHdlYnNpdGUsIHdlIG9yIHRoaXJkLXBhcnRpZXMgYWN0aW5nIG9uIG91ciBiZWhhbGYgd2lsbCBwbGFjZSBhICJjb29raWUiIC0gYSB0ZXh0IGZpbGUgY29udGFpbmluZyBhIHJhbmRvbWx5IGFzc2lnbmVkIG51bWJlciBvbiB5b3VyIGNvbXB1dGVyIC0gc28gdGhhdCB3ZSBoYXZlIHRoZSBhYmlsaXR5IHRvIGN1c3RvbWl6ZSB0aGUgbG9vayBhbmQgZmVlbCBvZiBvdXIgd2Vic2l0ZSBmb3IgeW91LiBZb3UgYXJlIGFsd2F5cyBmcmVlIHRvIGRlY2xpbmUgb3VyIGNvb2tpZXMgaWYgeW91ciBicm93c2VyIHBlcm1pdHMsIGFsdGhvdWdoIGRvaW5nIHNvIG1heSBpbXBlZGUgeW91ciB1c2Ugb2YgY2VydGFpbiBvZiBvdXIgd2Vic2l0ZSdzIGZlYXR1cmVzLsKgIFVzaW5nIGVtYmVkZGVkIHRyYWNraW5nIHRlY2hub2xvZ3ksIHdlIG9yIHRoaXJkLXBhcnRpZXMgYWN0aW5nIG9uIG91ciBiZWhhbGYgd2lsbCBhbHNvIGNvbGxlY3QgYSB2YXJpZXR5IG9mIG90aGVyIGluZm9ybWF0aW9uIHJlZ2FyZGluZyB5b3VyIHVzYWdlIG9mIG91ciB3ZWJzaXRlLCBpbmNsdWRpbmcgeW91ciBJUCBhZGRyZXNzLCB5b3VyIHVzZXJuYW1lLCB5b3VyIHNlc3Npb24gSUQsIHRoZSBuYW1lIG9mIHRoZSBicm93c2VyIHlvdSBhcmUgdXNpbmcsIGluZm9ybWF0aW9uIHJlZ2FyZGluZyB3ZWIgcGFnZXMgeW91IHZpZXcsIGFuZCBpbmZvcm1hdGlvbiByZWdhcmRpbmcgcmVmZXJyaW5nIHdlYiBwYWdlcywgd2hlbiB5b3UgYWNjZXNzIG91ciB3ZWJzaXRlLjwvcD4NCjxwPsKgPC9wPg0KPHAgY2xhc3M9InN1YmhlYWQiPjxmb250IGNvbG9yPSIjODA4MDgwIiBzaXplPSIzIj48c3Ryb25nPjIuIEhPVyBXRSBVU0UgUEVSU09OQUwgSU5GT1JNQVRJT048L3N0cm9uZz48L2ZvbnQ+PC9wPg0KPHAgY2xhc3M9InN1YmhlYWQiPsKgPC9wPg0KPHA+Tm90IHN1cnByaXNpbmdseSwgbXVjaCBvZiB0aGUgdmFsdWUgdGhhdCB3ZSBwcm92aWRlIHRocm91Z2ggb3VyIHdlYnNpdGUgcmVxdWlyZXMgdGhlIHVzZSBvZiB5b3VyIFBlcnNvbmFsIEluZm9ybWF0aW9uLiBUbyBiZSBzcGVjaWZpYywgd2Ugb3IgdGhpcmQtcGFydGllcyBhY3Rpbmcgb24gb3VyIGJlaGFsZiB1c2UgeW91ciBQZXJzb25hbCBJbmZvcm1hdGlvbiBpbiB0aGUgZm9sbG93aW5nIHdheXM6PC9wPg0KPG9sPg0KPGxpPlRvIGN1c3RvbWl6ZSB0aGUgbG9vayBhbmQgZmVlbCBvZiBvdXIgd2Vic2l0ZSBmb3IgeW91OzwvbGk+DQo8bGk+VG8gaW50ZXJuYWxseSBtb25pdG9yIG91ciBjdXN0b21lcnMnIHVzYWdlIG9mIHRoZSB2YXJpb3VzIGFzcGVjdHMgb2Ygb3VyIHdlYnNpdGUgaW4gb3JkZXIgdG8gZW5oYW5jZSB0aGUgcHJvZHVjdHMgYW5kIHNlcnZpY2VzIHRoYXQgd2UgY3VycmVudGx5IG9yIHdpbGwgb2ZmZXIgaW4gdGhlIGZ1dHVyZTs8L2xpPg0KPGxpPlRvIHNlbmQgeW91IG1hdGVyaWFsIGFib3V0IHRvcGljcyBvbiB3aGljaCB5b3UgaGF2ZSByZXF1ZXN0ZWQgbW9yZSBpbmZvcm1hdGlvbjsgYW5kPC9saT4NCjxsaT5UbyBwcm92aWRlIHlvdSB3aXRoIHRlY2huaWNhbCBhbmQgb3RoZXIgc3VwcG9ydC48L2xpPg0KPC9vbD4NCjxwPldoaWxlIHdlIG9yIHRoaXJkLXBhcnRpZXMgYWN0aW5nIG9uIG91ciBiZWhhbGYgdXNlIGluZm9ybWF0aW9uIGFib3V0IG91ciB1c2VycyBvbiBhbiBhZ2dyZWdhdGVkIGJhc2lzIGFuZCB3aWxsIG9mdGVuIHNoYXJlIHN1Y2ggZGF0YSB3aXRoIHVuYWZmaWxpYXRlZCB0aGlyZCBwYXJ0aWVzLCB0aGlzIGluZm9ybWF0aW9uLCBieSBpdHMgYWdncmVnYXRlIG5hdHVyZSwgY29udGFpbnMgbm9uZSBvZiB5b3VyIFBlcnNvbmFsIEluZm9ybWF0aW9uLiBXaGVuIHdlIHJlZmVyIHRvIGFuICJ1bmFmZmlsaWF0ZWQiIHRoaXJkIHBhcnR5LCB3ZSBtZWFuIG9uZSB0aGF0IChpKSBpcyBub3QgY29udHJvbGxlZCBieSB1cywgKGlpKSBkb2VzIG5vdCBjb250cm9sIHVzLCBhbmQgKGlpaSkgaXMgbm90IGNvbnRyb2xsZWQgYnkgdGhlIHNhbWUgcGFydHkgY29udHJvbGxpbmcgdXMuPC9wPg0KPHA+wqA8L3A+DQo8cCBjbGFzcz0ic3ViaGVhZCI+PGZvbnQgY29sb3I9IiMwMDAwZmYiIHNpemU9IjMiPjxzdHJvbmc+PGZvbnQgY29sb3I9IiM4MDgwODAiPjMuIFdIRU4gV0UgRElTQ0xPU0UgWU9VUiBQRVJTT05BTCBJTkZPUk1BVElPTjwvZm9udD7CoDwvc3Ryb25nPjwvZm9udD48L3A+DQo8cCBjbGFzcz0ic3ViaGVhZCI+wqA8L3A+DQo8cD5FeGNlcHQgYXMgZXhwbGljaXRseSBzdGF0ZWQgaW4gdGhpcyBwcml2YWN5IHBvbGljeSwgd2Ugb3IgdGhpcmQtcGFydGllcyBhY3Rpbmcgb24gb3VyIGJlaGFsZiB3aWxsIG5vdCBkaXNjbG9zZSB0byB1bmFmZmlsaWF0ZWQgdGhpcmQgcGFydGllcyBhbnkgb2YgeW91ciBQZXJzb25hbCBJbmZvcm1hdGlvbiB3aXRob3V0IGZpcnN0IG9idGFpbmluZyB5b3VyIGNvbnNlbnQuIFdlIG9yIHRoaXJkLXBhcnRpZXMgYWN0aW5nIG9uIG91ciBiZWhhbGYgZG8gYW5kIHdpbGwgY29udGludWUgdG8gZGlzY2xvc2UgeW91ciBQZXJzb25hbCBJbmZvcm1hdGlvbiB0byB1bmFmZmlsaWF0ZWQgdGhpcmQgcGFydGllcyBpbiB0aGUgZm9sbG93aW5nIGNpcmN1bXN0YW5jZXM6PC9wPg0KPG9sPg0KPGxpPklmIHJlcXVpcmVkIGJ5IGxhdywgcmVndWxhdG9yeSBvciBjb3VydCBvcmRlciwgb3IgbGVnYWwgcHJvY2Vzczs8L2xpPg0KPGxpPklmIHdlIGRldGVybWluZSB0aGF0IGRvaW5nIHNvIHdvdWxkIGJlIGluIHRoZSBwdWJsaWMgaW50ZXJlc3QgKGkuZS4sIGlmIHdlIHdlcmUgdG8gc3VzcGVjdCB0aGF0IHlvdSB3ZXJlIHVzaW5nIG91ciB3ZWJzaXRlIGluIGNvbm5lY3Rpb24gd2l0aCB0aGUgY29tbWlzc2lvbiBvZiBhIGNyaW1lKTs8L2xpPg0KPGxpPkluIGNvbm5lY3Rpb24gd2l0aCBhIHNhbGUsIG1lcmdlciwgY29uc29saWRhdGlvbiwgY2hhbmdlIGluIGNvbnRyb2wsIHRyYW5zZmVyIG9mIHN1YnN0YW50aWFsIGFzc2V0cywgcmVvcmdhbml6YXRpb24sIG9yIGxpcXVpZGF0aW9uIG9mIG91ciBjb21wYW55OzwvbGk+DQo8bGk+SWYgeW91IHByb3ZpZGUgc3VjaCBpbmZvcm1hdGlvbiB0byB1cyBpbiBjb25uZWN0aW9uIHdpdGggYSBwcm9tb3Rpb24gb2YgYSBnb29kIG9yIHNlcnZpY2Ugb2ZmZXJlZCBieSBhIHRoaXJkIHBhcnR5LCBmb3IgcHVycG9zZXMgb2Ygc3VjaCBwcm9tb3Rpb24sIGluY2x1ZGluZywgd2l0aG91dCBsaW1pdGF0aW9uLCBzaGFyaW5nIHN1Y2ggaW5mb3JtYXRpb24gd2l0aCB0aGF0IHRoaXJkIHBhcnR5OzwvbGk+DQo8bGk+VG8gcHJvdmlkZSB5b3Ugd2l0aCBjZXJ0YWluIHNlcnZpY2VzIG9uIG91ciB3ZWJzaXRlIHRoYXQgYXJlIHByb3ZpZGVkIGJ5IHN1Y2ggcGFydGllcywgYXMgcmVhc29uYWJseSByZXF1aXJlZCB0byBwcm92aWRlIHN1Y2ggc2VydmljZXMgYW5kOzwvbGk+DQo8bGk+SW4gdGhlIGNvbnRleHQgb2Ygd29ya2luZyB3aXRoIHRoaXJkLXBhcnR5IGNvbnRyYWN0b3JzIGVuZ2FnZWQgYnkgdXMgaW4gdGhlIHByb3Zpc2lvbiBvZiBvdXIgd2Vic2l0ZSBvciByZWxhdGVkIG1hdHRlcnMuPC9saT4NCjwvb2w+DQo8cD5BZnRlciB3ZSBvciB0aGlyZC1wYXJ0aWVzIGFjdGluZyBvbiBvdXIgYmVoYWxmIGRpc2Nsb3NlIHlvdXIgUGVyc29uYWwgSW5mb3JtYXRpb24gdG8gdW5hZmZpbGlhdGVkIHRoaXJkIHBhcnRpZXMgaW4gc3VjaCBpbnN0YW5jZXMsIHdlIGNhbiBubyBsb25nZXIgY29udHJvbCB0aGUgdXNlIG9yIGZ1cnRoZXIgZGlzY2xvc3VyZSBvZiB5b3VyIFBlcnNvbmFsIEluZm9ybWF0aW9uLiBDb25zZXF1ZW50bHksIHdlIG9yIHRoaXJkLXBhcnRpZXMgYWN0aW5nIG9uIG91ciBiZWhhbGYgd2lsbCBub3QgYmUgcmVzcG9uc2libGUgdG8geW91IGZvciBzdWNoIHVzZSBvciBmdXJ0aGVyIGRpc2Nsb3N1cmUuPC9wPg0KPHA+wqA8L3A+DQo8cCBjbGFzcz0ic3ViaGVhZCI+PGZvbnQgY29sb3I9IiM4MDgwODAiIHNpemU9IjMiPjxzdHJvbmc+NC4gQ09SUkVDVElORyBZT1VSIElORk9STUFUSU9OPC9zdHJvbmc+PC9mb250PjwvcD4NCjxwIGNsYXNzPSJzdWJoZWFkIj7CoDwvcD4NCjxwPllvdSBjYW4gZW5zdXJlIHRoYXQgeW91ciBhY2NvdW50IGluZm9ybWF0aW9uIGlzIGNvcnJlY3QgYW5kIGN1cnJlbnQgYnkgcmV2aWV3aW5nIGFuZCB1cGRhdGluZyBpdCBhdCBhbnkgdGltZS4gWW91IG1heSBkbyBzbyBhcyBvZnRlbiBhcyBuZWNlc3NhcnkgYnkgc2VuZGluZyB1cyBhbiBlLW1haWwsIGFuZCB3ZSB3aWxsIGFzc2lzdCB5b3UgaW4gdXBkYXRpbmcgeW91ciBpbmZvcm1hdGlvbi48L3A+DQo8cD7CoDwvcD4NCjxwIGNsYXNzPSJzdWJoZWFkIj48c3Ryb25nPjxmb250IGNvbG9yPSIjODA4MDgwIiBzaXplPSIzIj41LiBTRUNVUklUWTwvZm9udD48L3N0cm9uZz48L3A+DQo8cCBjbGFzcz0ic3ViaGVhZCI+wqA8L3A+DQo8cD5XZSBhbmQgdGhpcmQtcGFydGllcyBhY3Rpbmcgb24gb3VyIGJlaGFsZiB0YWtlIHByZWNhdXRpb25zIGludm9sdmluZyBwaHlzaWNhbCwgZWxlY3Ryb25pYywgYW5kIG1hbmFnZXJpYWwgY29udHJvbHMgdG8gcHJvdGVjdCBmcm9tIGxvc3MsIG1pc3VzZSwgdW5hdXRob3JpemVkIGFjY2VzcyBvciBkaXNjbG9zdXJlLCBhbmQgYWx0ZXJhdGlvbiBhbnkgb2YgeW91ciBQZXJzb25hbCBJbmZvcm1hdGlvbiBpbiBvdXIgcG9zc2Vzc2lvbi4gV2Ugb3IgdGhpcmQtcGFydGllcyBhY3Rpbmcgb24gb3VyIGJlaGFsZiBtYXkgZW1wbG95IGluZHVzdHJ5LXN0YW5kYXJkIFNlY3VyZSBTb2NrZXRzIExheWVyIGVuY3J5cHRpb24gd2hlbiByZXF1ZXN0aW5nIGNlcnRhaW4gZmluYW5jaWFsIFBlcnNvbmFsIEluZm9ybWF0aW9uIGZyb20geW91LiBXZSBvciB0aGlyZC1wYXJ0aWVzIGFjdGluZyBvbiBvdXIgYmVoYWxmIGRvIG5vdCwgaG93ZXZlciwgdXNlIHN1Y2ggZW5jcnlwdGlvbiBkdXJpbmcgeW91ciBkYXktdG8tZGF5IHVzZSBvZiBvdXIgd2Vic2l0ZS4gWW91IHNob3VsZCBub3RlIHRoYXQgdGhlIGNvbmZpZGVudGlhbGl0eSBvZiBhbnkgaW5mb3JtYXRpb24gdHJhbnNtaXR0ZWQgb3ZlciB0aGUgSW50ZXJuZXQgY2Fubm90IGJlIGd1YXJhbnRlZWQuPC9wPg0KPHA+wqA8L3A+DQo8cCBjbGFzcz0ic3ViaGVhZCI+PGZvbnQgY29sb3I9IiM4MDgwODAiIHNpemU9IjMiPjxzdHJvbmc+Ni4gTElOS1MgVE8gT1RIRVIgU0lURVM8L3N0cm9uZz48L2ZvbnQ+PC9wPg0KPHAgY2xhc3M9InN1YmhlYWQiPsKgPC9wPg0KPHA+WW91IHNob3VsZCBiZSBhd2FyZSB0aGF0IHRoaXMgcHJpdmFjeSBwb2xpY3kgYXBwbGllcyBvbmx5IHRvIG91ciB3ZWJzaXRlcy4gSW1wb3J0YW50bHksIGl0IGRvZXMgbm90IGFwcGx5IHRvIGFueSBvdGhlciB3ZWIgb3Igb3RoZXIgc2l0ZXMgdG8gd2hpY2ggYSBsaW5rIG1heSBiZSBwcm92aWRlZCBhcyBwYXJ0IG9mIG91ciB3ZWJzaXRlLiBXZSBjYW5ub3QgY29udHJvbCBhbmQgYXJlIG5vdCByZXNwb25zaWJsZSBmb3IgdGhlIGFjdGlvbnMgb2YgdGhpcmQgcGFydGllcyBvcGVyYXRpbmcgc3VjaCBzaXRlcy4gWW91IHNob3VsZCBub3QgdGFrZSB0aGUgZXhpc3RlbmNlIG9mIGFuIGFmZmlsaWF0aW9uIHdpdGgsIG9yIGEgbGluayBmcm9tLCBvdXIgd2Vic2l0ZSB0byBhbnkgc3VjaCBvdGhlciBzaXRlIHRvIG1lYW4gdGhhdCBpdCBoYXMgYSBwcml2YWN5IHBvbGljeSBzaW1pbGFyIHRvIHRoaXMgb25lLiBZb3Ugc2hvdWxkIHJldmlldyB0aGUgcHJpdmFjeSBwb2xpY3kgb2YgYW55IHN1Y2ggc2l0ZS48L3A+DQo8cD7CoDwvcD4NCjxwIGNsYXNzPSJzdWJoZWFkIj48Zm9udCBjb2xvcj0iIzgwODA4MCIgc2l6ZT0iMyI+PHN0cm9uZz43LiBDSEFOR0VTIFRPIFRISVMgUE9MSUNZPC9zdHJvbmc+PC9mb250PjwvcD4NCjxwIGNsYXNzPSJzdWJoZWFkIj7CoDwvcD4NCjxwPkFzIG91ciBidXNpbmVzcyBpcyBhIHZlcnkgZHluYW1pYyBvbmUsIHdlIG5lZWQgdG8gYmUgYWJsZSB0byBtYWtlIHJldmlzaW9ucyB0byB0aGlzIHByaXZhY3kgcG9saWN5LiBDb25zZXF1ZW50bHksIHdlIHJlc2VydmUgdGhlIHJpZ2h0IHRvIGNoYW5nZSB0aGlzIHByaXZhY3kgcG9saWN5IGF0IGFueSB0aW1lLiBZb3Ugc2hvdWxkIGNoZWNrIHRoaXMgbG9jYXRpb24gZm9yIGFueSB1cGRhdGVzIGFuZCBvdGhlciBjaGFuZ2VzLjwvcD5kAhMPZBYGZg9kFgJmDxYCHwAFQjxhIGhyZWY9Ii9zaXRlL21vbnRobHkvMTExNF8xNUNBTC5hc3B4IiA+VGhpcyBNb250aCdzIFJlc291cmNlPC9hPmQCAQ9kFgJmDxYCHwAFWzxhIGhyZWY9Ii9zaXRlL2FnZW50c29mdGhlYXBvY2FseXBzZS9kZWZhdWx0LmFzcHg/dGlkPWRqX3R2LW5hdiIgPlRoaXMgTW9udGgncyBSZXNvdXJjZTwvYT5kAgIPZBYCZg8WAh8ABUI8YSBocmVmPSIvc2l0ZS9tb250aGx5LzExMTRfMTVDQUwuYXNweCIgPlRoaXMgTW9udGgncyBSZXNvdXJjZTwvYT5kZKFAOCGXnyEgHFhe9TysGeqn/6Fi">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEzNzY2MjMwMTgPZBYCZg9kFgJmD2QWBGYPZBYGAhIPFgIeBFRleHQFcjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii9zaXRlL1dpZGdldEZvcm1zL0Zvcm1zL21lZGlhX3BsYXllci9qYXZhc2NyaXB0LmFzcHg/b3ZlcmxheV92aWRlbz0iPjwvc2NyaXB0PmQCFA8WAh8ABTl2YXIgdGlkID0gJyc7CnZhciB0aGlzUGFnZSA9ICcvc2l0ZS9jb250ZW50LmFzcHg/aWQ9ODInOwpkAhYPZBYCAgMPZBYCAgEPZBYCZg8WAh8ABQ5Qcml2YWN5IFBvbGljeWQCARBkZBYKZg8PFgQeBkhlaWdodBsAAAAAAMBcQAEAAAAeBF8hU0ICgAFkFgQCAQ9kFgICAQ9kFgICAQ9kFgZmDw8WAh4ISW1hZ2VVcmwFU2h0dHA6Ly9zMy11cy13ZXN0LTIuYW1hem9uYXdzLmNvbS9kYXZpZGplcmVtaWFoLm9yZy9zaXRlL19pbWFnZXMvY29tbW9uL2Jhbm5lcjUucG5nZGQCAQ8PFgIfAwVTaHR0cDovL3MzLXVzLXdlc3QtMi5hbWF6b25hd3MuY29tL2RhdmlkamVyZW1pYWgub3JnL3NpdGUvX2ltYWdlcy9jb21tb24vaG9tZS1yby5wbmdkZAICDw8WAh8DBVpodHRwOi8vczMtdXMtd2VzdC0yLmFtYXpvbmF3cy5jb20vZGF2aWRqZXJlbWlhaC5vcmcvc2l0ZS9faW1hZ2VzL2NvbW1vbi90cF9sb2dvX2hlYWRlci5wbmdkZAILDw8WAh4HVmlzaWJsZWhkZAICDw8WBB8BGwAAAAAAwFxAAQAAAB8CAoABZGQCAw8WAh8EaGQCBg9kFg4CAw9kFgJmDxYCHwAFuQM8aDEgYWxpZ249ImNlbnRlciI+PHNwYW4gc3R5bGU9ImZvbnQtc3R5bGU6IGl0YWxpYzsiPkJpYmxlIFN0cm9uZyBQYXJ0bmVyczwvc3Bhbj48L2gxPg0KPHAgYWxpZ249ImNlbnRlciI+PGEgaHJlZj0iL3NpdGUvYnNwL2RlZmF1bHQuYXNweCI+PGltZyB0aXRsZT0iQmlibGUgU3Ryb25nIFBhcnRuZXJzIiBhbHQ9IkJpYmxlIFN0cm9uZyBQYXJ0bmVycyIgc3JjPSIvc2l0ZS91cGxvYWRlZEltYWdlcy9zbWFsbGdyb3VwLnBuZyIgYm9yZGVyPSIwIiAvPjwvYT48L3A+DQo8cCBhbGlnbj0iY2VudGVyIj48YSBocmVmPSIvc2l0ZS9ic3AvZGVmYXVsdC5hc3B4Ij48aW1nIHRpdGxlPSJCaWJsZSBTdHJvbmcgUGFydG5lcnMiIGFsdD0iQmlibGUgU3Ryb25nIFBhcnRuZXJzIiBzcmM9Ii9zaXRlL3VwbG9hZGVkSW1hZ2VzL0pPSU5idG4ucG5nIiBib3JkZXI9IjAiIC8+PC9hPjwvcD5kAgQPZBYCZg8WAh8ABc0BPGEgaHJlZj0iL3NpdGUvYWdlbnRzb2Z0aGVhcG9jYWx5cHNlL2RlZmF1bHQuYXNweD90aWQ9ZGpfc2l0ZV9jbXMtc2lkZWJhciIgPjxpbWcgYm9yZGVyPSIwIiBzcmM9Ii9zaXRlL3VwbG9hZGVkSW1hZ2VzL0FvZkFfb25zYWxlLnBuZyIgYWx0PSJBZ2VudHMgb2YgdGhlIEFwb2NhbHlwc2UiIHRpdGxlPSJBZ2VudHMgb2YgdGhlIEFwb2NhbHlwc2UiIC8+PC9hPmQCBQ9kFgJmDxYCHwAFCTxoMj48L2gyPmQCBg9kFgJmDxYCHwAFeDxhIGhyZWY9Ii9zaXRlL2NvbnRlbnQuYXNweD9pZD0zMjAiID48aW1nIGJvcmRlcj0iMCIgc3JjPSIvc2l0ZS8iIGFsdD0iQ2FyaWJiZWFuIENydWlzZSIgdGl0bGU9IkNhcmliYmVhbiBDcnVpc2UiIC8+PC9hPmQCBw9kFgJmDxYCHwAF0AI8cCBhbGlnbj0ibGVmdCI+Sm9pbiBEYXZpZCBhbmQgRG9ubmEgSmVyZW1pYWggb24gYSBzZXZlbi1kYXkgY3J1aXNlIHRvIHRoZSBDYXJpYmJlYW4hwqA8L3A+DQo8cCBhbGlnbj0ibGVmdCI+PGEgdGl0bGU9IlJlYWQgbW9yZSBhYm91dCB0aGlzIGV4Y2l0aW5nIGNydWlzZSB2YWNhdGlvbi4iIGhyZWY9Imh0dHA6Ly93d3cuaW5zcGlyYXRpb25jcnVpc2VzLmNvbS9jaHJpc3RpYW4tY3J1aXNlcy90dXJuaW5nLXBvaW50LW1pbmlzdHJpZXMtY2FyaWJiZWFuLTIwMTIiIHRhcmdldD0iX2JsYW5rIj5SZWFkIG1vcmUgYWJvdXQgdGhpcyBleGNpdGluZyBjcnVpc2UgdmFjYXRpb24uPC9hPjwvcD5kAggPZBYCZg8WAh8AZWQCCQ9kFgQCAQ9kFgJmDxYCHwAFDlByaXZhY3kgUG9saWN5ZAIDD2QWAmYPFgIfAAW5OjxwPsKgPC9wPg0KPHA+wqA8L3A+DQo8cD5XZWJzaXRlcyA8YSBocmVmPSJodHRwOi8vd3d3LmRhdmlkamVyZW1pYWgub3JnLyI+d3d3LmRhdmlkamVyZW1pYWgub3JnPC9hPsKgYW5kIDxhIGhyZWY9Ii8iPnd3dy50dXJuaW5ncG9pbnRvbmxpbmUub3JnPC9hPsKgwqBhcmUgcHJvdmlkZWQgYnkgVHVybmluZyBQb2ludCB3aXRoIERyLiBEYXZpZCBKZXJlbWlhaC4gWW91ciB1c2Ugb2Ygb3VyIHdlYnNpdGUgaXMgZ292ZXJuZWQgYnkgdGhlwqA8YSB0aXRsZT0iVGVybXMgYW5kIENvbmRpdGlvbnMiIGhyZWY9Imh0dHA6Ly93d3cuZGF2aWRqZXJlbWlhaC5vcmcvc2l0ZS9jb250ZW50LmFzcHg/aWQ9ODQiPlRlcm1zIGFuZCBDb25kaXRpb25zPC9hPiwgYW5kIGJ5IHlvdXIgdXNlIG9mIG91ciB3ZWJzaXRlIHlvdSBhY2NlcHQgYW5kIGFja25vd2xlZGdlIHRoaXMgcHJpdmFjeSBwb2xpY3kuPC9wPg0KPHA+PGJyIC8+DQrCoDwvcD4NCjxwIGNsYXNzPSJzdWJoZWFkIj48c3Ryb25nPjxmb250IGNvbG9yPSIjODA4MDgwIiBzaXplPSIzIj5BIE5PVEUgQUJPVVQgVEhFIFBSSVZBQ1kgT0YgQ0hJTERSRU4gVU5ERVIgMTM8L2ZvbnQ+PC9zdHJvbmc+PC9wPg0KPHA+PGJyIC8+DQpPdXIgd2Vic2l0ZSBpcyBub3QgZGlyZWN0ZWQgdG8gb3Igb3RoZXJ3aXNlIHByb21vdGVkIGZvciB1c2UgYnkgY2hpbGRyZW4gdW5kZXIgdGhlIGFnZSBvZiB0aGlydGVlbiAoMTMpLiBXZSBvciB0aGlyZC1wYXJ0aWVzIGFjdGluZyBvbiBvdXIgYmVoYWxmIGRvIG5vdCBrbm93aW5nbHkgY29sbGVjdCBvciB1c2UgYW55IHBlcnNvbmFsIGluZm9ybWF0aW9uIG9mIGFueW9uZSB1bmRlciB0aGUgYWdlIG9mIHRoaXJ0ZWVuICgxMykuPC9wPg0KPHA+wqA8L3A+DQo8cCBjbGFzcz0ic3ViaGVhZCI+PHN0cm9uZz48Zm9udCBjb2xvcj0iIzgwODA4MCIgc2l6ZT0iMyI+MS4gV0hBVCBQRVJTT05BTCBJTkZPUk1BVElPTiBXRSBDT0xMRUNUPC9mb250Pjwvc3Ryb25nPjwvcD4NCjxwIGNsYXNzPSJzdWJoZWFkIj7CoDwvcD4NCjxwPjwvcD4NCjxwPllvdSBtYXkgYmUgYXNrZWQgdG8gcHJvdmlkZSBpbmZvcm1hdGlvbiB0aGF0IGNhbiBiZSB1c2VkIHRvIGlkZW50aWZ5IHlvdSAoeW91ciAiUGVyc29uYWwgSW5mb3JtYXRpb24iKSB3aGVuIHlvdSByZXNwb25kIHRvIGNlcnRhaW4gaW5xdWlyaWVzIG9yIGNob29zZSB0byB1c2UgY2VydGFpbiBzZWN0aW9ucyBvZiBvdXIgd2Vic2l0ZS4gVGhpcyBpbmZvcm1hdGlvbiBtYXkgaW5jbHVkZSwgYnV0IGlzIG5vdCBsaW1pdGVkIHRvLCB5b3VyIG5hbWUsIGFkZHJlc3MsIHRlbGVwaG9uZSBudW1iZXIsIGUtbWFpbCBhZGRyZXNzLCBhbmQsIHdoZXJlIGFwcHJvcHJpYXRlLCBjcmVkaXQgY2FyZCBudW1iZXIuIEFsc28sIHdoZW4geW91IHZpc2l0IG91ciB3ZWJzaXRlLCB3ZSBvciB0aGlyZC1wYXJ0aWVzIGFjdGluZyBvbiBvdXIgYmVoYWxmIHdpbGwgcGxhY2UgYSAiY29va2llIiAtIGEgdGV4dCBmaWxlIGNvbnRhaW5pbmcgYSByYW5kb21seSBhc3NpZ25lZCBudW1iZXIgb24geW91ciBjb21wdXRlciAtIHNvIHRoYXQgd2UgaGF2ZSB0aGUgYWJpbGl0eSB0byBjdXN0b21pemUgdGhlIGxvb2sgYW5kIGZlZWwgb2Ygb3VyIHdlYnNpdGUgZm9yIHlvdS4gWW91IGFyZSBhbHdheXMgZnJlZSB0byBkZWNsaW5lIG91ciBjb29raWVzIGlmIHlvdXIgYnJvd3NlciBwZXJtaXRzLCBhbHRob3VnaCBkb2luZyBzbyBtYXkgaW1wZWRlIHlvdXIgdXNlIG9mIGNlcnRhaW4gb2Ygb3VyIHdlYnNpdGUncyBmZWF0dXJlcy7CoCBVc2luZyBlbWJlZGRlZCB0cmFja2luZyB0ZWNobm9sb2d5LCB3ZSBvciB0aGlyZC1wYXJ0aWVzIGFjdGluZyBvbiBvdXIgYmVoYWxmIHdpbGwgYWxzbyBjb2xsZWN0IGEgdmFyaWV0eSBvZiBvdGhlciBpbmZvcm1hdGlvbiByZWdhcmRpbmcgeW91ciB1c2FnZSBvZiBvdXIgd2Vic2l0ZSwgaW5jbHVkaW5nIHlvdXIgSVAgYWRkcmVzcywgeW91ciB1c2VybmFtZSwgeW91ciBzZXNzaW9uIElELCB0aGUgbmFtZSBvZiB0aGUgYnJvd3NlciB5b3UgYXJlIHVzaW5nLCBpbmZvcm1hdGlvbiByZWdhcmRpbmcgd2ViIHBhZ2VzIHlvdSB2aWV3LCBhbmQgaW5mb3JtYXRpb24gcmVnYXJkaW5nIHJlZmVycmluZyB3ZWIgcGFnZXMsIHdoZW4geW91IGFjY2VzcyBvdXIgd2Vic2l0ZS48L3A+DQo8cD7CoDwvcD4NCjxwIGNsYXNzPSJzdWJoZWFkIj48Zm9udCBjb2xvcj0iIzgwODA4MCIgc2l6ZT0iMyI+PHN0cm9uZz4yLiBIT1cgV0UgVVNFIFBFUlNPTkFMIElORk9STUFUSU9OPC9zdHJvbmc+PC9mb250PjwvcD4NCjxwIGNsYXNzPSJzdWJoZWFkIj7CoDwvcD4NCjxwPk5vdCBzdXJwcmlzaW5nbHksIG11Y2ggb2YgdGhlIHZhbHVlIHRoYXQgd2UgcHJvdmlkZSB0aHJvdWdoIG91ciB3ZWJzaXRlIHJlcXVpcmVzIHRoZSB1c2Ugb2YgeW91ciBQZXJzb25hbCBJbmZvcm1hdGlvbi4gVG8gYmUgc3BlY2lmaWMsIHdlIG9yIHRoaXJkLXBhcnRpZXMgYWN0aW5nIG9uIG91ciBiZWhhbGYgdXNlIHlvdXIgUGVyc29uYWwgSW5mb3JtYXRpb24gaW4gdGhlIGZvbGxvd2luZyB3YXlzOjwvcD4NCjxvbD4NCjxsaT5UbyBjdXN0b21pemUgdGhlIGxvb2sgYW5kIGZlZWwgb2Ygb3VyIHdlYnNpdGUgZm9yIHlvdTs8L2xpPg0KPGxpPlRvIGludGVybmFsbHkgbW9uaXRvciBvdXIgY3VzdG9tZXJzJyB1c2FnZSBvZiB0aGUgdmFyaW91cyBhc3BlY3RzIG9mIG91ciB3ZWJzaXRlIGluIG9yZGVyIHRvIGVuaGFuY2UgdGhlIHByb2R1Y3RzIGFuZCBzZXJ2aWNlcyB0aGF0IHdlIGN1cnJlbnRseSBvciB3aWxsIG9mZmVyIGluIHRoZSBmdXR1cmU7PC9saT4NCjxsaT5UbyBzZW5kIHlvdSBtYXRlcmlhbCBhYm91dCB0b3BpY3Mgb24gd2hpY2ggeW91IGhhdmUgcmVxdWVzdGVkIG1vcmUgaW5mb3JtYXRpb247IGFuZDwvbGk+DQo8bGk+VG8gcHJvdmlkZSB5b3Ugd2l0aCB0ZWNobmljYWwgYW5kIG90aGVyIHN1cHBvcnQuPC9saT4NCjwvb2w+DQo8cD5XaGlsZSB3ZSBvciB0aGlyZC1wYXJ0aWVzIGFjdGluZyBvbiBvdXIgYmVoYWxmIHVzZSBpbmZvcm1hdGlvbiBhYm91dCBvdXIgdXNlcnMgb24gYW4gYWdncmVnYXRlZCBiYXNpcyBhbmQgd2lsbCBvZnRlbiBzaGFyZSBzdWNoIGRhdGEgd2l0aCB1bmFmZmlsaWF0ZWQgdGhpcmQgcGFydGllcywgdGhpcyBpbmZvcm1hdGlvbiwgYnkgaXRzIGFnZ3JlZ2F0ZSBuYXR1cmUsIGNvbnRhaW5zIG5vbmUgb2YgeW91ciBQZXJzb25hbCBJbmZvcm1hdGlvbi4gV2hlbiB3ZSByZWZlciB0byBhbiAidW5hZmZpbGlhdGVkIiB0aGlyZCBwYXJ0eSwgd2UgbWVhbiBvbmUgdGhhdCAoaSkgaXMgbm90IGNvbnRyb2xsZWQgYnkgdXMsIChpaSkgZG9lcyBub3QgY29udHJvbCB1cywgYW5kIChpaWkpIGlzIG5vdCBjb250cm9sbGVkIGJ5IHRoZSBzYW1lIHBhcnR5IGNvbnRyb2xsaW5nIHVzLjwvcD4NCjxwPsKgPC9wPg0KPHAgY2xhc3M9InN1YmhlYWQiPjxmb250IGNvbG9yPSIjMDAwMGZmIiBzaXplPSIzIj48c3Ryb25nPjxmb250IGNvbG9yPSIjODA4MDgwIj4zLiBXSEVOIFdFIERJU0NMT1NFIFlPVVIgUEVSU09OQUwgSU5GT1JNQVRJT048L2ZvbnQ+wqA8L3N0cm9uZz48L2ZvbnQ+PC9wPg0KPHAgY2xhc3M9InN1YmhlYWQiPsKgPC9wPg0KPHA+RXhjZXB0IGFzIGV4cGxpY2l0bHkgc3RhdGVkIGluIHRoaXMgcHJpdmFjeSBwb2xpY3ksIHdlIG9yIHRoaXJkLXBhcnRpZXMgYWN0aW5nIG9uIG91ciBiZWhhbGYgd2lsbCBub3QgZGlzY2xvc2UgdG8gdW5hZmZpbGlhdGVkIHRoaXJkIHBhcnRpZXMgYW55IG9mIHlvdXIgUGVyc29uYWwgSW5mb3JtYXRpb24gd2l0aG91dCBmaXJzdCBvYnRhaW5pbmcgeW91ciBjb25zZW50LiBXZSBvciB0aGlyZC1wYXJ0aWVzIGFjdGluZyBvbiBvdXIgYmVoYWxmIGRvIGFuZCB3aWxsIGNvbnRpbnVlIHRvIGRpc2Nsb3NlIHlvdXIgUGVyc29uYWwgSW5mb3JtYXRpb24gdG8gdW5hZmZpbGlhdGVkIHRoaXJkIHBhcnRpZXMgaW4gdGhlIGZvbGxvd2luZyBjaXJjdW1zdGFuY2VzOjwvcD4NCjxvbD4NCjxsaT5JZiByZXF1aXJlZCBieSBsYXcsIHJlZ3VsYXRvcnkgb3IgY291cnQgb3JkZXIsIG9yIGxlZ2FsIHByb2Nlc3M7PC9saT4NCjxsaT5JZiB3ZSBkZXRlcm1pbmUgdGhhdCBkb2luZyBzbyB3b3VsZCBiZSBpbiB0aGUgcHVibGljIGludGVyZXN0IChpLmUuLCBpZiB3ZSB3ZXJlIHRvIHN1c3BlY3QgdGhhdCB5b3Ugd2VyZSB1c2luZyBvdXIgd2Vic2l0ZSBpbiBjb25uZWN0aW9uIHdpdGggdGhlIGNvbW1pc3Npb24gb2YgYSBjcmltZSk7PC9saT4NCjxsaT5JbiBjb25uZWN0aW9uIHdpdGggYSBzYWxlLCBtZXJnZXIsIGNvbnNvbGlkYXRpb24sIGNoYW5nZSBpbiBjb250cm9sLCB0cmFuc2ZlciBvZiBzdWJzdGFudGlhbCBhc3NldHMsIHJlb3JnYW5pemF0aW9uLCBvciBsaXF1aWRhdGlvbiBvZiBvdXIgY29tcGFueTs8L2xpPg0KPGxpPklmIHlvdSBwcm92aWRlIHN1Y2ggaW5mb3JtYXRpb24gdG8gdXMgaW4gY29ubmVjdGlvbiB3aXRoIGEgcHJvbW90aW9uIG9mIGEgZ29vZCBvciBzZXJ2aWNlIG9mZmVyZWQgYnkgYSB0aGlyZCBwYXJ0eSwgZm9yIHB1cnBvc2VzIG9mIHN1Y2ggcHJvbW90aW9uLCBpbmNsdWRpbmcsIHdpdGhvdXQgbGltaXRhdGlvbiwgc2hhcmluZyBzdWNoIGluZm9ybWF0aW9uIHdpdGggdGhhdCB0aGlyZCBwYXJ0eTs8L2xpPg0KPGxpPlRvIHByb3ZpZGUgeW91IHdpdGggY2VydGFpbiBzZXJ2aWNlcyBvbiBvdXIgd2Vic2l0ZSB0aGF0IGFyZSBwcm92aWRlZCBieSBzdWNoIHBhcnRpZXMsIGFzIHJlYXNvbmFibHkgcmVxdWlyZWQgdG8gcHJvdmlkZSBzdWNoIHNlcnZpY2VzIGFuZDs8L2xpPg0KPGxpPkluIHRoZSBjb250ZXh0IG9mIHdvcmtpbmcgd2l0aCB0aGlyZC1wYXJ0eSBjb250cmFjdG9ycyBlbmdhZ2VkIGJ5IHVzIGluIHRoZSBwcm92aXNpb24gb2Ygb3VyIHdlYnNpdGUgb3IgcmVsYXRlZCBtYXR0ZXJzLjwvbGk+DQo8L29sPg0KPHA+QWZ0ZXIgd2Ugb3IgdGhpcmQtcGFydGllcyBhY3Rpbmcgb24gb3VyIGJlaGFsZiBkaXNjbG9zZSB5b3VyIFBlcnNvbmFsIEluZm9ybWF0aW9uIHRvIHVuYWZmaWxpYXRlZCB0aGlyZCBwYXJ0aWVzIGluIHN1Y2ggaW5zdGFuY2VzLCB3ZSBjYW4gbm8gbG9uZ2VyIGNvbnRyb2wgdGhlIHVzZSBvciBmdXJ0aGVyIGRpc2Nsb3N1cmUgb2YgeW91ciBQZXJzb25hbCBJbmZvcm1hdGlvbi4gQ29uc2VxdWVudGx5LCB3ZSBvciB0aGlyZC1wYXJ0aWVzIGFjdGluZyBvbiBvdXIgYmVoYWxmIHdpbGwgbm90IGJlIHJlc3BvbnNpYmxlIHRvIHlvdSBmb3Igc3VjaCB1c2Ugb3IgZnVydGhlciBkaXNjbG9zdXJlLjwvcD4NCjxwPsKgPC9wPg0KPHAgY2xhc3M9InN1YmhlYWQiPjxmb250IGNvbG9yPSIjODA4MDgwIiBzaXplPSIzIj48c3Ryb25nPjQuIENPUlJFQ1RJTkcgWU9VUiBJTkZPUk1BVElPTjwvc3Ryb25nPjwvZm9udD48L3A+DQo8cCBjbGFzcz0ic3ViaGVhZCI+wqA8L3A+DQo8cD5Zb3UgY2FuIGVuc3VyZSB0aGF0IHlvdXIgYWNjb3VudCBpbmZvcm1hdGlvbiBpcyBjb3JyZWN0IGFuZCBjdXJyZW50IGJ5IHJldmlld2luZyBhbmQgdXBkYXRpbmcgaXQgYXQgYW55IHRpbWUuIFlvdSBtYXkgZG8gc28gYXMgb2Z0ZW4gYXMgbmVjZXNzYXJ5IGJ5IHNlbmRpbmcgdXMgYW4gZS1tYWlsLCBhbmQgd2Ugd2lsbCBhc3Npc3QgeW91IGluIHVwZGF0aW5nIHlvdXIgaW5mb3JtYXRpb24uPC9wPg0KPHA+wqA8L3A+DQo8cCBjbGFzcz0ic3ViaGVhZCI+PHN0cm9uZz48Zm9udCBjb2xvcj0iIzgwODA4MCIgc2l6ZT0iMyI+NS4gU0VDVVJJVFk8L2ZvbnQ+PC9zdHJvbmc+PC9wPg0KPHAgY2xhc3M9InN1YmhlYWQiPsKgPC9wPg0KPHA+V2UgYW5kIHRoaXJkLXBhcnRpZXMgYWN0aW5nIG9uIG91ciBiZWhhbGYgdGFrZSBwcmVjYXV0aW9ucyBpbnZvbHZpbmcgcGh5c2ljYWwsIGVsZWN0cm9uaWMsIGFuZCBtYW5hZ2VyaWFsIGNvbnRyb2xzIHRvIHByb3RlY3QgZnJvbSBsb3NzLCBtaXN1c2UsIHVuYXV0aG9yaXplZCBhY2Nlc3Mgb3IgZGlzY2xvc3VyZSwgYW5kIGFsdGVyYXRpb24gYW55IG9mIHlvdXIgUGVyc29uYWwgSW5mb3JtYXRpb24gaW4gb3VyIHBvc3Nlc3Npb24uIFdlIG9yIHRoaXJkLXBhcnRpZXMgYWN0aW5nIG9uIG91ciBiZWhhbGYgbWF5IGVtcGxveSBpbmR1c3RyeS1zdGFuZGFyZCBTZWN1cmUgU29ja2V0cyBMYXllciBlbmNyeXB0aW9uIHdoZW4gcmVxdWVzdGluZyBjZXJ0YWluIGZpbmFuY2lhbCBQZXJzb25hbCBJbmZvcm1hdGlvbiBmcm9tIHlvdS4gV2Ugb3IgdGhpcmQtcGFydGllcyBhY3Rpbmcgb24gb3VyIGJlaGFsZiBkbyBub3QsIGhvd2V2ZXIsIHVzZSBzdWNoIGVuY3J5cHRpb24gZHVyaW5nIHlvdXIgZGF5LXRvLWRheSB1c2Ugb2Ygb3VyIHdlYnNpdGUuIFlvdSBzaG91bGQgbm90ZSB0aGF0IHRoZSBjb25maWRlbnRpYWxpdHkgb2YgYW55IGluZm9ybWF0aW9uIHRyYW5zbWl0dGVkIG92ZXIgdGhlIEludGVybmV0IGNhbm5vdCBiZSBndWFyYW50ZWVkLjwvcD4NCjxwPsKgPC9wPg0KPHAgY2xhc3M9InN1YmhlYWQiPjxmb250IGNvbG9yPSIjODA4MDgwIiBzaXplPSIzIj48c3Ryb25nPjYuIExJTktTIFRPIE9USEVSIFNJVEVTPC9zdHJvbmc+PC9mb250PjwvcD4NCjxwIGNsYXNzPSJzdWJoZWFkIj7CoDwvcD4NCjxwPllvdSBzaG91bGQgYmUgYXdhcmUgdGhhdCB0aGlzIHByaXZhY3kgcG9saWN5IGFwcGxpZXMgb25seSB0byBvdXIgd2Vic2l0ZXMuIEltcG9ydGFudGx5LCBpdCBkb2VzIG5vdCBhcHBseSB0byBhbnkgb3RoZXIgd2ViIG9yIG90aGVyIHNpdGVzIHRvIHdoaWNoIGEgbGluayBtYXkgYmUgcHJvdmlkZWQgYXMgcGFydCBvZiBvdXIgd2Vic2l0ZS4gV2UgY2Fubm90IGNvbnRyb2wgYW5kIGFyZSBub3QgcmVzcG9uc2libGUgZm9yIHRoZSBhY3Rpb25zIG9mIHRoaXJkIHBhcnRpZXMgb3BlcmF0aW5nIHN1Y2ggc2l0ZXMuIFlvdSBzaG91bGQgbm90IHRha2UgdGhlIGV4aXN0ZW5jZSBvZiBhbiBhZmZpbGlhdGlvbiB3aXRoLCBvciBhIGxpbmsgZnJvbSwgb3VyIHdlYnNpdGUgdG8gYW55IHN1Y2ggb3RoZXIgc2l0ZSB0byBtZWFuIHRoYXQgaXQgaGFzIGEgcHJpdmFjeSBwb2xpY3kgc2ltaWxhciB0byB0aGlzIG9uZS4gWW91IHNob3VsZCByZXZpZXcgdGhlIHByaXZhY3kgcG9saWN5IG9mIGFueSBzdWNoIHNpdGUuPC9wPg0KPHA+wqA8L3A+DQo8cCBjbGFzcz0ic3ViaGVhZCI+PGZvbnQgY29sb3I9IiM4MDgwODAiIHNpemU9IjMiPjxzdHJvbmc+Ny4gQ0hBTkdFUyBUTyBUSElTIFBPTElDWTwvc3Ryb25nPjwvZm9udD48L3A+DQo8cCBjbGFzcz0ic3ViaGVhZCI+wqA8L3A+DQo8cD5BcyBvdXIgYnVzaW5lc3MgaXMgYSB2ZXJ5IGR5bmFtaWMgb25lLCB3ZSBuZWVkIHRvIGJlIGFibGUgdG8gbWFrZSByZXZpc2lvbnMgdG8gdGhpcyBwcml2YWN5IHBvbGljeS4gQ29uc2VxdWVudGx5LCB3ZSByZXNlcnZlIHRoZSByaWdodCB0byBjaGFuZ2UgdGhpcyBwcml2YWN5IHBvbGljeSBhdCBhbnkgdGltZS4gWW91IHNob3VsZCBjaGVjayB0aGlzIGxvY2F0aW9uIGZvciBhbnkgdXBkYXRlcyBhbmQgb3RoZXIgY2hhbmdlcy48L3A+ZAIID2QWBmYPZBYCZg8WAh8ABVY8YSBocmVmPSIvc2l0ZS9tb250aGx5LzA2MTVfVFFDSEJLX1RRQ0NEUEtHX1VBQ1NFVF92MS5hc3B4IiA+VGhpcyBNb250aCdzIFJlc291cmNlPC9hPmQCAQ9kFgJmDxYCHwAFTTxhIGhyZWY9Ii9zaXRlL21vbnRobHkvMDQxNV9BREhCS19BREJLU0VUX3YxLmFzcHgiID5UaGlzIE1vbnRoJ3MgUmVzb3VyY2U8L2E+ZAICD2QWAmYPFgIfAAVWPGEgaHJlZj0iL3NpdGUvbW9udGhseS8wNjE1X1RRQ0hCS19UUUNDRFBLR19VQUNTRVRfdjEuYXNweCIgPlRoaXMgTW9udGgncyBSZXNvdXJjZTwvYT5kZAX+jaX6lvWPfRholCBSFAzyJMCi">
 </div>
 
 
@@ -252,6 +258,197 @@ $(document).ready(function () {
 magOverlayIsMobile = false;//]]>
 </script>
 
+    
+	
+    <style>
+        .site-header-top
+        {
+            background: #505050;
+        }
+
+        .menu-topper
+        {
+            height: 1px;
+            background: #666666;
+            zoom: normal;
+            filter: none;
+            opacity: 1;
+        }
+
+        .menu-container
+        {
+            margin-top: 1px; 
+            background: #424242;
+            position: relative;
+            z-index: 6;
+        }
+
+        .nav-menu-item
+        {
+            font-size: 15px;
+            margin-left: 6px;
+            padding: 0 6px 0 6px;
+        }
+
+        a:hover .nav-menu-item .nav-menu-item-text,
+        .nav-menu-item.selected .nav-menu-item-text {
+            color: #f4e57d;
+            -moz-transition: color 0.3s ease;
+            -o-transition: color 0.3s ease;
+            -webkit-transition: color 0.3s ease;
+            transition: color 0.3s ease;
+        }
+
+        .nav-menu-item-fill-highlighted,
+        .nav-menu-item-fill-selected 
+        {
+            background-color: transparent;
+            border: 0;
+            transition: none;
+        }
+
+        #header_watch,
+        #header_listen,
+        #header_facebook,
+        #header_twitter
+        {
+            background: none;
+            width: auto;
+            height: auto;
+            margin: 0;
+        }
+
+        #header_watch_listen,
+        #header_social
+        {
+            border: 0;
+            width: auto;
+            height: auto;
+            margin: 0;
+        }
+
+        #header_watch_listen_social
+        {
+            margin-top: 4px;
+        }
+        #header_watch_listen_social a
+        {
+            color: inherit;
+            text-decoration: none;
+            display: inline-block;
+            margin: 6px 2px 8px 2px;
+        }
+
+        #header_watch_listen_social
+        {
+            color: white;
+            font-size: 15px;
+            text-transform: uppercase;
+            font-weight: bold;
+            margin: 0;
+        }
+
+        #header_social
+        {
+            background: transparent url('/site/_images/common/social_icon-sep.png') no-repeat left 50%;
+            padding-left: 6px;
+        }
+
+        #header_watch_listen_social a:hover
+        {
+            color: #f4e57d;
+        }
+
+        #header_search
+        {
+            margin-top: 3px;
+        }
+
+        #searchBox1
+        {
+            width: 157px;
+            height: 23px;
+            font-family: "Open Sans";
+            font-weight: bold;
+            text-transform: uppercase;
+            font-size: 15px;
+            border-radius: 2px;
+            border: transparent 1px solid;
+            vertical-align: top;
+            color: black;
+            padding:0 0 0 5px;
+            margin: 0;
+            outline: none;
+            line-height: 23px;
+            font-size: 15px;
+        }
+
+        input#searchBox1::-webkit-input-placeholder{ font-size: 15px; text-transform: uppercase; color: #999; opacity: 1;}
+        input#searchBox1:-moz-placeholder{ font-size: 15px; text-transform: uppercase; color: #999; opacity: 1;}
+        input#searchBox1::-moz-placeholder{ font-size: 15px; text-transform: uppercase; color: #999; opacity: 1;}
+        input#searchBox1:-ms-input-placeholder{ font-size: 15px; text-transform: uppercase; color: #999; opacity: 1;}
+
+        #header_search_btn
+        {
+            vertical-align: top;
+            width: 39px;
+            height: 25px;
+            border: 1px solid #6c6c6c;
+            border-radius: 2px;
+            text-align: center;
+            display: inline-block;
+            line-height: 27px;
+            font-weight: bold;
+            font-size: 16px;
+            font-family: "Open Sans";
+            margin-left: -4px;
+            margin-top: -1px;
+            letter-spacing: -0.5px;
+            color: #1e1e1e;
+            text-transform: uppercase;
+            text-decoration: none;
+            background: rgb(170,170,170); /* Old browsers */
+            /* IE9 SVG, needs conditional override of 'filter' to 'none' */
+            background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2FhYWFhYSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM4Nzg3ODciIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+            background: -moz-linear-gradient(top,  rgba(170,170,170,1) 0%, rgba(135,135,135,1) 100%); /* FF3.6+ */
+            background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(170,170,170,1)), color-stop(100%,rgba(135,135,135,1))); /* Chrome,Safari4+ */
+            background: -webkit-linear-gradient(top,  rgba(170,170,170,1) 0%,rgba(135,135,135,1) 100%); /* Chrome10+,Safari5.1+ */
+            background: -o-linear-gradient(top,  rgba(170,170,170,1) 0%,rgba(135,135,135,1) 100%); /* Opera 11.10+ */
+            background: -ms-linear-gradient(top,  rgba(170,170,170,1) 0%,rgba(135,135,135,1) 100%); /* IE10+ */
+            background: linear-gradient(to bottom,  rgba(170,170,170,1) 0%,rgba(135,135,135,1) 100%); /* W3C */
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aaaaaa', endColorstr='#878787',GradientType=0 ); /* IE6-8 */
+        }
+
+        #header_search_btn:hover
+        {
+            background: rgb(135,135,135); /* Old browsers */
+        /* IE9 SVG, needs conditional override of 'filter' to 'none' */
+        background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzg3ODc4NyIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNhYWFhYWEiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+        background: -moz-linear-gradient(top,  rgba(135,135,135,1) 0%, rgba(170,170,170,1) 100%); /* FF3.6+ */
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(135,135,135,1)), color-stop(100%,rgba(170,170,170,1))); /* Chrome,Safari4+ */
+        background: -webkit-linear-gradient(top,  rgba(135,135,135,1) 0%,rgba(170,170,170,1) 100%); /* Chrome10+,Safari5.1+ */
+        background: -o-linear-gradient(top,  rgba(135,135,135,1) 0%,rgba(170,170,170,1) 100%); /* Opera 11.10+ */
+        background: -ms-linear-gradient(top,  rgba(135,135,135,1) 0%,rgba(170,170,170,1) 100%); /* IE10+ */
+        background: linear-gradient(to bottom,  rgba(135,135,135,1) 0%,rgba(170,170,170,1) 100%); /* W3C */
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#878787', endColorstr='#aaaaaa',GradientType=0 ); /* IE6-8 */
+
+        }
+
+        #he_is_risen
+        {
+            position: absolute;
+            top: 0;
+            left: 50%;
+        }
+		
+		#header_military {
+			position: absolute;
+			top: 0;
+			left: 50%;
+		}		
+    </style>
+
+    
 <div class="header-container" style="position: fixed; top: 0; width: 100%; background: white; z-index: 2000;">
 <div id="ctl00_ctl00_pnlHeader" class="site-header" style="height:115px;">
 	
@@ -263,37 +460,42 @@ magOverlayIsMobile = false;//]]>
         <div id="ctl00_ctl00_pnlHeaderLogos" class="site-header-top-logos" style="float: left; margin-top: 9px;">
 				
             <!-- Site Logo -->
-            <div id="divTpLogo" class="inline-block" style="position: relative; vertical-align: top;"><a href="/"><img id="ctl00_ctl00_imgDjOrgLogo" title="DavidJeremiah.org" src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/common/banner5.png?1213a" alt="DavidJeremiah.org" style="border-width:0px;border: 0; vertical-align: top; margin-top: 10px; margin-right: 3px;"><img id="ctl00_ctl00_imgHomeRollover" title="DavidJeremiah.org Home" class="logo-ro" src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/common/home-ro.png?1213a" alt="DavidJeremiah.org Home" style="border-width:0px;border:0; display:none; position: absolute; top: 30px; left: 113px;"></a></div>
-            <a href="/"><img id="ctl00_ctl00_imgTpLogo" title="TurningPoint" src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/common/tp_logo_header.png?1213a" alt="Turning Point" style="border-width:0px;border: 0; vertical-align: top; margin-top: 7px;"></a>
+            
+            <div id="divTpLogo" class="inline-block" style="position: relative; vertical-align: top;"><a href="/"><img id="ctl00_ctl00_imgDjOrgLogo" title="DavidJeremiah.org" src="/site/_images/common/banner-white.png" alt="DavidJeremiah.org" style="border-width:0px;border: 0; vertical-align: top; margin-top: 10px; margin-right: 3px;"><img id="ctl00_ctl00_imgHomeRollover" title="DavidJeremiah.org Home" class="logo-ro" src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/common/home-ro.png" alt="DavidJeremiah.org Home" style="border-width:0px;border:0; display:none; position: absolute; top: 30px; left: 113px;"></a></div>
+            <a href="/"><img id="ctl00_ctl00_imgTpLogo" title="TurningPoint" src="/site/_images/common/tp_logo_header-white.png" alt="Turning Point" style="border-width:0px;border: 0; vertical-align: top; margin-top: 7px;"></a>
             
         
 			</div>
         <div id="ctl00_ctl00_pnlHeaderButtons" class="site-header-buttons" style="float: right;">
 				
-            
-			
-			
-			
-				<!-- Jeremiah Study Bible -->
-				<div id="header_jsb">
-					<a href="/site/jeremiahstudybible/store.aspx?tid=dj_top-header"><img src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/1by1_trans.png?1213a" alt="The Jeremiah Study Bible - Now Available!" title="The Jeremiah Study Bible - Now Available!"></a>
-				</div>
+		
+			<!-- Military Outreach -->
+			<div id="header_military">
+				
+			</div>		
+
 			
 			
 			<div id="header_watch_listen_social">
 				<div id="header_watch_listen" class="inline-block">
-					<a href="javascript:openTVPlayer('')" id="header_watch" class="inline-block"><img src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/1by1_trans.png?1213a" alt="Watch" title="Watch"></a>
-					<a href="javascript:openRadioPlayer('')" id="header_listen" class="inline-block"><img src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/1by1_trans.png?1213a" alt="Listen" title="Listen"></a>
+					
+                    <a href="javascript:openRadioPlayer('')" id="header_listen" class="inline-block"><i class="fa fa-volume-up"></i> Listen</a>
+                    <a href="javascript:openTVPlayer('')" id="header_watch" class="inline-block"><i class="fa fa-play-circle"></i> Watch</a>
+                    
 				</div>
 				
 				<div id="header_social" class="inline-block">
-					<a target="_blank" href="http://www.davidjeremiah.org/facebook" id="header_facebook" class="inline-block"><img src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/1by1_trans.png?1213a" alt="Visit Turning Point on Facebook" title="Visit Turning Point on Facebook"></a>
-					<a target="_blank" href="http://www.davidjeremiah.org/twitter" id="header_twitter" class="inline-block"><img src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/1by1_trans.png?1213a" alt="Visit Turning Point on Twitter" title="Visit Turning Point on Twitter"></a>
+                    
+					<a target="_blank" href="http://www.davidjeremiah.org/facebook" id="header_facebook" class="inline-block"><i class="fa fa-facebook-square"></i></a>
+					<a target="_blank" href="http://www.davidjeremiah.org/twitter" id="header_twitter" class="inline-block"><i class="fa fa-twitter-square"></i></a>
+                     
 				</div>
 			</div>			
 			<div id="header_search">
-				<input id="searchBox1" class="inline-block" type="text" autocomplete="off" style="width:174px; height:23px; font-size:17px; line-height:23px; border:1px solid #e2e2e2; color:#333; padding:0 0 0 5px; margin:0; outline:none;">
-				<a href="javascript:void(0);" onclick="submitSearch('searchBox1');" id="header_search_btn" class="inline-block"><img src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/1by1_trans.png?1213a" alt="Search" title="Search"></a>
+                
+				<input id="searchBox1" class="inline-block" type="text" autocomplete="off">
+				<a href="javascript:void(0);" onclick="submitSearch('searchBox1');" id="header_search_btn" class="inline-block">Go</a>
+                
 			</div>
 			
         
@@ -319,15 +521,15 @@ magOverlayIsMobile = false;//]]>
             <a href="/site/default.aspx"><div class="nav-menu-item"><div class="nav-menu-item-text">HOME</div><div class="nav-menu-item-fill">&nbsp;</div></div></a>
             <a href="/site/radio.aspx"><div class="nav-menu-item"><div class="nav-menu-item-text">RADIO</div><div class="nav-menu-item-fill">&nbsp;</div></div></a>
             <a href="/site/television.aspx"><div class="nav-menu-item"><div class="nav-menu-item-text">TELEVISION</div><div class="nav-menu-item-fill">&nbsp;</div></div></a>
-            <a href="/site/magazine.aspx"><div class="nav-menu-item"><div class="nav-menu-item-text">Magazine</div><div class="nav-menu-item-fill">&nbsp;</div></div></a>
-            <a href="/site/bsp/default.aspx"><div class="nav-menu-item"><div class="nav-menu-item-text" title="Bible Strong Partners"><p style="font-size: 8px; font-weight: normal; line-height: 0px; margin-top: 6px; text-align: center;">Bible Strong</p><p style="line-height: 22px; text-align: center;">Partners</p></div><div class="nav-menu-item-fill">&nbsp;</div></div></a>
-			
-			
+            <a href="/site/magazine/default.aspx"><div class="nav-menu-item"><div class="nav-menu-item-text">Magazine</div><div class="nav-menu-item-fill">&nbsp;</div></div></a>
+            
+            <a href="/site/bsp/default.aspx"><div class="nav-menu-item"><div class="nav-menu-item-text" title="Bible Strong Partners">Bible Strong Partners</div><div class="nav-menu-item-fill">&nbsp;</div></div></a>
+            
 			
             <a href="/shop/"><div class="nav-menu-item"><div class="nav-menu-item-text">shop</div><div class="nav-menu-item-fill">&nbsp;</div></div></a>
-            <a href="/site/content.aspx?id=242"><div class="nav-menu-item"><div class="nav-menu-item-text">about us</div><div class="nav-menu-item-fill">&nbsp;</div></div></a>
-
-            <a href="/shop/donate.aspx?premium=none"><div class="nav-menu-item" style="float: right; "><div class="nav-menu-item-text"><img alt="Donate" title="Donate" src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/common/menu_donate.png?1213a" style="border: 0; margin-top: 3px;"></div><div class="nav-menu-item-fill">&nbsp;</div></div></a>
+            
+            <a href="/site/donate/pure-gift/default.aspx"><div class="nav-menu-item" style="float: right; padding: 0 26px; "><div class="nav-menu-item-text">Donate</div><div style="background-color: #e90101; line-height: 24px; margin-top: 2px;" class="nav-menu-item-fill nav-menu-item-fill-donate">&nbsp;</div></div></a>
+            
         </div>
     
 	</div>
@@ -346,7 +548,7 @@ magOverlayIsMobile = false;//]]>
 <div id="container">    
 
 	
-
+	
 	
 	
     <div id="hopVideoOverlay" style="display:none;">
@@ -375,7 +577,7 @@ magOverlayIsMobile = false;//]]>
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: url('http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/monthly/0914/overlay_hop/ffffff_90.png?1213a') top left repeat;
+	background: url('http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/monthly/0914/overlay_hop/ffffff_90.png') top left repeat;
 	z-index: 19999;
 }
 #overlay_hop .btn_close {
@@ -581,10 +783,10 @@ function hop_isValidEmailAddress(emailAddress) {
 
 </script>
 <div id="overlay_hop">
-	<a href="#" class="btn_close" onclick="hop_hideOverlay(); return false;"><img src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/monthly/0914/overlay_hop/btn_close.png?1213a" alt="Close" title="Close"></a>
+	<a href="#" class="btn_close" onclick="hop_hideOverlay(); return false;"><img src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/monthly/0914/overlay_hop/btn_close.png" alt="Close" title="Close"></a>
 	<div class="inner">
 		<div id="overlay_hop_top_container" style="text-align:center;">
-			<a href="#" onclick="hop_showVideo(); return false;"><img src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/monthly/0914/overlay_hop/top_images.jpg?1213a" id="overlay_hop_top_images" alt="Watch Now" title="Watch Now"></a>
+			<a href="#" onclick="hop_showVideo(); return false;"><img src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/monthly/0914/overlay_hop/top_images.jpg" id="overlay_hop_top_images" alt="Watch Now" title="Watch Now"></a>
 			<div id="overlay_hop_video"></div>
 			<a href="#" onclick="hop_hideVideo(); return false;" id="overlay_hop_video_close">Close Video</a>
 		</div>
@@ -615,105 +817,7 @@ function hop_isValidEmailAddress(emailAddress) {
 </div>
 	
 	
-    <div id="aofaEdevoOverlay" style="display:none;">
 	
-<style>
-#overlay_aofa {
-	position: absolute;
-	top: 50px;
-	left: 50%;
-	margin-left: -383px;
-	width: 766px;
-	height: 478px;
-	border: 1px solid #999;
-	background: #fff;
-	-webkit-box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.5);
-	-moz-box-shadow:    0px 0px 15px 0px rgba(0, 0, 0, 0.5);
-	box-shadow:         0px 0px 15px 0px rgba(0, 0, 0, 0.5);	
-	z-index: 20000;
-}
-#overlay_aofa_bg {
-	position: fixed;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-	background: url('http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/monthly/0914/overlay_aofa/ffffff_90.png?1213a') top left repeat;
-	z-index: 19999;
-}
-#overlay_aofa .btn_close {
-	display: block;
-	position: absolute;
-	top: -22px;
-	left: -18px;
-}
-#overlay_aofa .inner {
-	padding: 40px;
-	padding-bottom: 0;
-}
-#overlay_aofa h1 {
-	font-size: 40px;
-	line-height: 40px;
-	color: #333;
-	letter-spacing: -0.03em;
-}
-#overlay_aofa .btn_yellow {
-	display: block;
-	width: 202px;
-	height: 47px;
-	line-height: 47px;
-	border: 2px solid #b79803;
-	border-radius: 5px;
-	background: #e7c900;
-	text-decoration: none;
-	text-align: center;
-	color: #000;
-	font-family: arial, helvetica, sans-serif;
-	font-size: 26px;
-	font-weight: bold;
-	margin: 0 auto;
-	-webkit-box-shadow: 2px 2px 7px 0px rgba(0, 0, 0, 0.5);
-	-moz-box-shadow:    2px 2px 7px 0px rgba(0, 0, 0, 0.5);
-	box-shadow:         2px 2px 7px 0px rgba(0, 0, 0, 0.5);
-}
-#overlay_aofa .btn_yellow span {
-	display: block;
-	font-size: 12px;
-	font-weight: normal;
-	text-transform: uppercase;
-}
-#overlay_aofa .btn_yellow:hover {
-	background: #efd41e;
-}
-</style>
-
-<script type="text/javascript">
-function aofa_showOverlay() {
-	$("#overlay_aofa, #overlay_aofa_bg").fadeIn("slow");
-}
-function aofa_hideOverlay() {
-	$("#overlay_aofa, #overlay_aofa_bg").fadeOut("slow");
-}
-</script>
-
-<div id="overlay_aofa">
-	<a href="#" class="btn_close" onclick="aofa_hideOverlay(); return false;"><img src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/monthly/0914/overlay_aofa/btn_close.png?1213a" alt="Close" title="Close"></a>
-	<div class="inner">
-		
-		<div class="inline-block" style="vertical-align:top; width:280px;">
-			<a href="/site/agentsoftheapocalypse/default.aspx"><img src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/monthly/0914/overlay_aofa/book.jpg?1213a" alt="Agents of the Apocalypse PLUS Answers to the Unsolved Mysteries of Prophecy" title="Agents of the Apocalypse PLUS Answers to the Unsolved Mysteries of Prophecy"></a>
-		</div>
-		<div class="inline-block" style="vertical-align:top; width:385px;">
-			<h1 style="margin:0 0 15px 0;">Are we living in<br>the end times?</h1>
-			<p style="margin:0 0 15px 0;">Is it possible that the players depicted in the book of Revelation could be out in force today?</p>
-			<p style="margin:0 0 15px 0;">And if they are, would you know how to recognize them?</p>
-			<p style="margin:0 0 15px 0;">In <em><a href="/site/agentsoftheapocalypse/default.aspx">Agents of the Apocalypse</a></em>, David Jeremiah does what no prophecy expert has done before. He explores the book of Revelation through the lens of its major players divided into chapters: The Martyrs, The Dragon, The Beast from the Sea, The Two Witnesses, and more...</p>
-			<a href="/site/agentsoftheapocalypse/default.aspx" class="btn_yellow">Learn More</a>
-		</div>
-		
-	</div>
-</div>
-<div id="overlay_aofa_bg"></div></div>
 	
 	
 	
@@ -721,6 +825,9 @@ function aofa_hideOverlay() {
 	<div id="main_body">
 		
 
+	
+	
+	
 	
 	
 
@@ -865,8 +972,9 @@ Our website is not directed to or otherwise promoted for use by children under t
 					</p> 
 					<h2 style="margin-top: 10px">United Kingdom</h2>
 					<p>
-					ADM BOX 3974<br>
-					London SW1A 1YL<br>
+					P.O. Box 1532<br>
+					Hemel Hempstead<br>
+                    HP1 9QX<br>
 					0800-058-2856
 					</p>                                        
 				</td>
@@ -876,7 +984,7 @@ Our website is not directed to or otherwise promoted for use by children under t
 						<table cellpadding="0" cellspacing="0">
 							<tbody><tr>
 								<td rowspan="2" style="padding-right: 30px">
-									<a href="/site"><img border="0" src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/footer/tp.jpg?1213a" alt="Turning Point" title="Turning Point" onmouseover="this.src='http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/footer/tp_rollover.jpg?1213a'" onmouseout="this.src='http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/footer/tp.jpg?1213a'"></a>
+									<a href="/site"><img border="0" src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/footer/tp.jpg" alt="Turning Point" title="Turning Point" onmouseover="this.src='http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/footer/tp_rollover.jpg'" onmouseout="this.src='http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/footer/tp.jpg'"></a>
 									<img border="0" src="/site/_images/footer/tp_rollover.jpg" style="display: none">
 								</td>
 								<td colspan="3"><h1 style="text-transform: uppercase">Dr. David Jeremiah</h1></td>
@@ -894,7 +1002,7 @@ Our website is not directed to or otherwise promoted for use by children under t
 									<p>
 										<a href="/site/radio.aspx">Listen Now!</a><br>
 										<a href="/site/radio_archives.aspx">Archives &amp; Schedule</a><br>
-										<a href="/site/monthly/1114_15CAL.aspx">This Month's Resource</a><br>
+										<a href="/site/monthly/0615_TQCHBK_TQCCDPKG_UACSET_v1.aspx">This Month's Resource</a><br>
 										<a href="/shop/donate.aspx?premium=radio">Donate</a>
 									</p>
 								</td>
@@ -903,25 +1011,27 @@ Our website is not directed to or otherwise promoted for use by children under t
 									<p>
 										<a href="/site/television.aspx">Watch Now!</a><br>
 										<a href="/site/television_archives.aspx">Archives &amp; Schedule</a><br>
-										<a href="/site/agentsoftheapocalypse/default.aspx?tid=dj_tv-nav">This Month's Resource</a><br>
+										<a href="/site/monthly/0415_ADHBK_ADBKSET_v1.aspx">This Month's Resource</a><br>
 										<a href="/shop/donate.aspx?premium=television">Donate</a>
 									</p>                                   
 								</td>
 								<td>
 									<h1>Magazine</h1>
 									<p>
-										<a href="javascript:showMagazineOverlay();">Subscribe</a><br>
-										<a href="/site/magazine.aspx">Daily Devotional</a><br>
-										<a href="/site/monthly/1114_15CAL.aspx">This Month's Resource</a><br>
+										<a href="/site/magazine/subscribe.aspx">Subscribe</a><br>
+										<a href="/site/magazine/daily_devotional.aspx">Daily Devotional</a><br>
+										<a href="/site/monthly/0615_TQCHBK_TQCCDPKG_UACSET_v1.aspx">This Month's Resource</a><br>
 										<a href="/shop/donate.aspx?premium=magazine">Donate</a>
 									</p>                                      
 								</td>
 							</tr>
 						</tbody></table>
-					</div>
-                    <div style="margin-left: 35px;">
-                        <a href="/site/about/mobile_app.aspx" style="text-decoration: none; color: inherit;"><img style="border: 0; vertical-align: middle;" src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/common/mobil-app-footer.png?1213a" alt="Mobile App" title="Mobile App">&nbsp;&nbsp;&nbsp;<span style="text-decoration: underline;">Mobile App</span></a>
-                    </div>
+					</div>					
+                    <div style="margin-left:35px; font-size:12px;">
+                        <a href="/site/about/mobile_app.aspx" style="display:inline-block; margin:0 11px 0 0; text-decoration: none; color: inherit;"><img style="border: 0; vertical-align: middle;" src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/common/mobil-app-footer.png" alt="Mobile App" title="Mobile App">&nbsp;&nbsp;&nbsp;<span style="text-decoration: underline;">Mobile App</span></a>
+						|<a href="/site/content.aspx?id=242" style="display:inline-block; margin:0 11px 0 11px;">About Us</a>
+						|<a href="/shop/t-help.aspx" style="display:inline-block; margin:0 0 0 11px;">Return Policy</a>
+                    </div>					
 					<table cellpadding="0" cellspacing="0" style="width: 100%; margin-bottom: 15px; margin-top: 20px">
 						<tbody><tr>
 							<td style="font-size: 7pt; vertical-align: bottom; padding-left: 35px;">
@@ -933,7 +1043,7 @@ Our website is not directed to or otherwise promoted for use by children under t
 									<a href="/site/content.aspx?id=636" style="text-transform: uppercase">Employment &amp; Volunteer Opportunities</a>
 								</div>
 								<div style="text-transform: uppercase">
-									Copyright 2000 - 2014 Dr. David Jeremiah
+									Copyright 2000 - 2015 Dr. David Jeremiah
 									<span class="footer_div">|</span>
 									Turning Point for God. All Rights Reserved.
 								</div>
@@ -961,36 +1071,36 @@ Our website is not directed to or otherwise promoted for use by children under t
 				<tbody><tr>
 					<td style="padding-left: 20px; padding-right: 30px; width: 80px"><h1>Related Websites</h1></td>
 					<td>                        
-						<a target="_blank" href="http://www.shadowmountain.org/"><img class="rollover_image" src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/common/SMCC.jpg?1213a" alt="Shadow Mountain Community Church" title="Shadow Mountain Community Church"></a>
-						<img src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/common/SMCC_ro.jpg?1213a" style="display: none" alt="Shadow Mountain Community Church" title="Shadow Mountain Community Church">
+						<a target="_blank" href="http://www.shadowmountain.org/"><img class="rollover_image" src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/common/SMCC.jpg" alt="Shadow Mountain Community Church" title="Shadow Mountain Community Church"></a>
+						<img src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/common/SMCC_ro.jpg" style="display: none" alt="Shadow Mountain Community Church" title="Shadow Mountain Community Church">
 					</td>
 					<td style="padding-left: 30px">                        
-						<a target="_blank" href="http://www.momentodecisivo.org/"><img class="rollover_image" src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/footer/md.jpg?1213a" alt="Momento Decisivo" title="Momento Decisivo"></a>
-						<img src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/footer/md_ro.jpg?1213a" style="display: none">
+						<a target="_blank" href="http://www.momentodecisivo.org/"><img class="rollover_image" src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/footer/md.jpg" alt="Momento Decisivo" title="Momento Decisivo"></a>
+						<img src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/footer/md_ro.jpg" style="display: none">
 					</td>
+					
 					<td style="padding-left: 30px">
-						<a href="/site/global"><img class="rollover_image" src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/monthly/0411/GoingGlobal.gif?1213a" alt="Going Global" title="Going Global"></a>
-						<img src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/monthly/0411/GoingGlobal_ro.gif?1213a" style="display: none">
+						<a href="/site/global"><img class="rollover_image" src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/monthly/0411/GoingGlobal.gif" alt="Going Global" title="Going Global"></a>
+						<img src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/monthly/0411/GoingGlobal_ro.gif" style="display: none">
 					</td>
-                    
-                    
+					
 					<td style="padding-left: 30px">
                         <a target="_blank" href="/site/r66/default.aspx">
-                            <img class="rollover_image" src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/monthly/0513/r66-footer.jpg?1213a" alt="Route 66" title="Route 66"></a>
-                        <img src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/monthly/0513/r66-footer_ro.jpg?1213a" style="display: none" alt="Route 66" title="Route 66">
+                            <img class="rollover_image" src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/monthly/0513/r66-footer.jpg" alt="Route 66" title="Route 66"></a>
+                        <img src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/monthly/0513/r66-footer_ro.jpg" style="display: none" alt="Route 66" title="Route 66">
                     </td>
 					
                     <td style="padding-left: 30px">
                         <a href="/site/jeremiahstudybible/store.aspx?tid=dj_footer-relatedweb">
-                            <img class="rollover_image" src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/monthly/1113/JSB-footer.gif?1213a" alt="The Jeremiah Study Bible" title="The Jeremiah Study Bible"></a>
-                        <img src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/monthly/1113/JSB-footer_ro.gif?1213a" style="display: none" alt="The Jeremiah Study Bible" title="The Jeremiah Study Bible">
+                            <img class="rollover_image" src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/monthly/1113/JSB-footer.gif" alt="The Jeremiah Study Bible" title="The Jeremiah Study Bible"></a>
+                        <img src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/monthly/1113/JSB-footer_ro.gif" style="display: none" alt="The Jeremiah Study Bible" title="The Jeremiah Study Bible">
                     </td>	
 					
 					<td style="padding-left: 30px;">
-						<a href="/site/hallofprophecy/default.aspx?tid=dj_footer-relatedweb" target="_blank">
-                            <img class="rollover_image" src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/monthly/0914/hop-footer.gif?1213a" alt="Hall of Prophecy" title="Hall of Prophecy"></a>
-                        <img src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/monthly/0914/hop-footer_ro.gif?1213a" style="display: none" alt="Hall of Prophecy" title="Hall of Prophecy">						
-					</td>
+						<a href="/site/therevolution/default.aspx?tid=dj_footer-relatedweb" target="_blank">
+							<img class="rollover_image" src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/monthly/0415/relatedweb_therevolution.jpg" alt="A.D. The Revolution That Changed the World" title="A.D. The Revolution That Changed the World"></a>
+							<img src="http://s3-us-west-2.amazonaws.com/davidjeremiah.org/site/_images/monthly/0415/relatedweb_therevolution_ro.jpg" style="display: none" alt="A.D. The Revolution That Changed the World" title="A.D. The Revolution That Changed the World">
+					</td>										
 					
                     
                                    
