@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polarprofilters.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121235223id_/http%3A//www.polarprofilters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polarprofilters.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608021246id_/http%3A//polarprofilters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Polar Pro Filters
 
@@ -36,8 +36,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**  
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Polar Pro Filters](https://web.archive.org/web/20141121235223id_/http://polarprofilters.com/privacy-policy/www.polarprofilters.com)  
-[ www.polarprofilters.com](https://web.archive.org/web/20141121235223id_/http://polarprofilters.com/privacy-policy/www.polarprofilters.com)  
+[Polar Pro Filters](https://web.archive.org/web/20150608021246id_/http://polarprofilters.com/privacy-policy/www.polarprofilters.com)  
+[ www.polarprofilters.com](https://web.archive.org/web/20150608021246id_/http://polarprofilters.com/privacy-policy/www.polarprofilters.com)  
 20422 Beach Blvd Suite 405 Huntington Beach, CA, 92648  
 [austen.butler@polarprofilters.com](mailto:%20austen.butler@polarprofilters.com)  
 This document was last updated on February 28, 2013
