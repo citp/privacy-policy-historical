@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the soundsonline.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220200818id_/http%3A//www.soundsonline.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundsonline.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608224604id_/http%3A//www.soundsonline.com/Privacy-Policy) for the most accurate reproduction.*
 
-# EastWest Privacy Policy - 2014
+# EastWest Privacy Policy - 2015
 
 We at SOUNDS ONLINE understand that making purchases online involves a great deal of trust on your part; we take that trust seriously, and make it our highest priority to ensure the security and confidentiality of the information you provide us, such as name, address, phone number, or e-mail address. As a visitor to our web site, you have the right to understand our privacy practices prior to providing us with any of your information. 
 
 ### **What Information We Collect**
 
-SOUNDS ONLINE only collects information that you voluntarily provide to us. 
+SOUNDS ONLINE only collects information that you voluntarily provide to us. We use collected information for marketing and advertising products and services. 
 
 ### **How We Use Your Information**
 
@@ -14,7 +14,7 @@ SOUNDS ONLINE uses your information only for the purpose of responding to and fu
 
 ### **Who We Share Your Information With**
 
-No one. We NEVER share, sell or rent the information you supply to ANYONE.
+No one. We NEVER share, sell or rent the information you supply to ANYONE. 
 
 ### **How We Protect Your Information**
 
