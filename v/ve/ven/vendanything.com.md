@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vendanything.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060159id_/http%3A//www.vendanything.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vendanything.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608120114id_/http%3A//www.vendanything.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
 # 
 
@@ -15,3 +15,11 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+
+### Contact Us
+
+Need assistance? Have a question that isn't answered in our [help](http://www.vendanything.com/index.php?a=28&b=141) sections? You can contact support by visiting our [contact us](http://www.vendanything.com/index.php?a=28&b=136) page.
+
+#### Copyright © 2015 VendAnything.com. All Rights Reserved.
+
+Use of this Web site constitutes acceptance of the [User Agreement](http://www.vendanything.com/index.php?a=28&b=140) and [Privacy Policy](http://www.vendanything.com/index.php?a=28&b=145). Designated trademarks and brands are the property of their respective owners.
