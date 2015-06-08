@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rolls-roycemotorcars.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224190200id_/http%3A//www.rolls-roycemotorcars.com/legal/%23privacy-intro) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rolls-roycemotorcars.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608211134id_/http%3A//www.rolls-roycemotorcars.com/legal/%23privacy-intro) for the most accurate reproduction.*
 
 # Rolls-Royce Motor Cars Legal
 
@@ -56,6 +56,22 @@ Nothing in these terms shall exclude or limit our liability for death or persona
 These terms shall be governed by and construed in accordance English law. Disputes arising in relation to them shall, unless expressly agreed otherwise, be subject to the exclusive jurisdiction of the English courts.
 
 Telephone calls and e-mail correspondence with Rolls-Royce Motor Cars at the email addresses accessible through, or obtained from, this website may be recorded or monitored. By using these communication methods you are consenting to the recording or monitoring of your calls and e-mails.
+
+* * *
+
+Rolls-Royce Motor Cars Limited is committed to protecting and respecting your privacy. We will only collect and use your personal information to deliver the Services and in accordance with the current data protection law in the UK. For the purpose of the Data Protection Act 1988, the data controller is Rolls-Royce Motor Cars Limited of The Drive, Westhampnett, West Sussex, PO18 0SH.
+
+Information collected and processed in the delivery of the Services includes but it not limited to your vehicle's: identification number (VIN), description, location, direction of travel, service data or incidents involving your vehicle, information about anyone making a Services call from your vehicle or under your account, the date, time and duration of your calls, (all calls may be recorded). Your Rolls-Royce vehicle may also be equipped with one or more sensing or diagnostic modules capable of automatically retrieving, recording, transmitting, or storing certain vehicle data, such as battery voltage, coolant temperature, mileage, air temperature, oil levels and other data relating to servicing requirements.
+
+We may record or monitor your vehicle's location or other information when a) you or other occupants in your vehicle request the Services, b) your airbag deploys or a severe impact occurs, c) your vehicle is equipped to provide vehicle location services and you report your vehicle as stolen or d) as required by law.
+
+We will use the information we collect from you to deliver the Services to you, manage your Services account, improve occupant and vehicle safety, for analysis and research purposes, improve your service experience at approved Rolls-Royce dealers and enhance your overall ownership experience.
+
+We will share the information we collect with our service providers such as: roadside assistance and information service providers, emergency service dispatchers and providers, approved Rolls-Royce dealers, mobile communication service providers and any other entity that assists in delivering the Services solely for the purpose of providing the Services to you; we may also share information as necessary with third parties for analysis and research purposes in order to enhance the quality of the Services. All service providers or third parties are contractually obligated to keep your information confidential and use the information only as we specify. We may also disclose information to individuals designated by you to be contacted in an emergency. When required, we may release information, including location data, to comply with the law, in legal proceedings, to respond to subpoenas or court orders, in cooperation with law enforcement agencies, and to enforce the terms of our Agreement.
+
+The Services employ wireless telephone networks that use radio channels to transmit voice and data. All data transmitted during the provision of the Services is automatically encrypted (using SSL), as is the industry standard for the transfer of confidential data via the internet. However, neither the privacy nor security of conversations or data over the wireless telephone networks can be guaranteed. Data may be transferred to countries outside of European Economic Area in order to ensure the effective delivery of the Services.
+
+We may amend this privacy notice at any time. Comments or inquiries about our Privacy Policy should be directed to Rolls-Royce Customer Relations at +44 (0) 1243 384300.
 
 * * *
 
