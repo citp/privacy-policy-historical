@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the latestays.com privacy policy that was archived on 2014-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141207052121id_/http%3A//www.latestays.com/policies/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the latestays.com privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608074004id_/http%3A//www.latestays.com/policies/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en_US"><head>
     <title>Asia Web Direct.com: Privacy</title>    
@@ -7,9 +7,10 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <link rel="shortcut icon" href="/favicon.ico">
         <link rel="canonical" href="http://www.latestays.com/policies/privacy.htm">
-        <link rel="stylesheet" type="text/css" href="/min/f=css/latestays.css&amp;140806">    	<!--[if IE 7]>  <link rel="stylesheet" type="text/css" media="screen" href="/css/ie7styles.css" /> <![endif]-->
+        <link rel="stylesheet" type="text/css" href="/min/f=css/latestays.css&amp;150428">    	<!--[if IE 7]>  <link rel="stylesheet" type="text/css" media="screen" href="/css/ie7styles.css" /> <![endif]-->
 	<!--[if lte IE 6]>  <link rel="stylesheet" type="text/css" media="screen" href="/css/ie6styles.css" /> <![endif]-->
-          </head>
+    <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/min/f=js/lib/jquery-1.7.1.js,js/lib/jquery-ui-1.8.13.custom.min.js,js/lib/jquery.ui.datepicker-i18n.js,js/fastclick.js,js/latestays.js,js/style.js,js/ie_placeholder.js&amp;150428"></script>
+      </head>
   <body text="#000000" style="background-color: #B5D334;">
     <div class="simple_header_wrapper">
 	<img src="/images/logo.jpg" alt="Latestays" width="275" height="96" border="0" longdesc="http://www.latestays.com">
@@ -146,23 +147,246 @@ infringe your copyright, you (or your agent) may send us a written notice that i
 </td></tr></tbody></table>
 <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
   <tbody><tr> 
-    <td height="50" align="CENTER" valign="middle"><input type="button" value="CLOSE WINDOW" onclick="window.close()"></td>
+    <td height="50" align="CENTER" valign="middle"><input id="btncloseaboutuse" type="button" value="CLOSE WINDOW" onclick="window.close()"></td>
   </tr>
 </tbody></table>
-	
-<!-- GTA Nov 2013 -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script type="text/javascript">
+if($("btncloseaboutuse")!=null)
+{
+	if(window.opener==null) $("#btncloseaboutuse").hide();
+}
+</script>
+	<script type="text/javascript">
+
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-111621-9']);
   _gaq.push(['_trackPageview']);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
+
+
+(function() {
+	window._hcom_ref = function(url, hotelId, anchor) {
+	    var rffrid_prefix = 'mdp.hcom.TH.375.000.16.000.';
+	    var ch = 'DTI';
+	    var kw = hotelId;
+	    var rch = getCookie('a_rch');
+	    if (rch != null && rch.indexOf(':') != -1) {
+	        var details = rch.split(':');
+	        ch = details[0];
+	        kw = details[1];
+	    }
+
+	    var rps = getCookie('a_rps');
+	    if (rps == null) {
+	        rps = '';
+	    } else {
+	        rps = '.a_rps:' + rps + ':';
+	    }
+
+	    if(url.indexOf('?')>-1) url = url + "&";
+	    else url = url + "?";
+	    url = url + 'PSRC=AFF01&rffrid=' + encodeURIComponent(rffrid_prefix + ch + '.000.' + 'kwrd=' + kw + rps);
+
+	    /* put anchor link after url */
+	    if (typeof anchor != 'undefined' &&  anchor != null && anchor != '')
+	    {
+	    	if (anchor.indexOf('#')>-1) url = url + anchor;
+	    	else url = url + "#" + anchor;
+	    }
+
+	    if ($('#frm-middlepage').length > 0) {
+	    	$('#redirect-url').val(url);
+	    	$('#frm-middlepage').submit();
+	    }
+	}
+
+	window._lscom_ref = function(url) {
+		var rch = getCookie('a_rch');
+	    var checkInDate = getCookie('_mtxCheckIn');
+	    var checkOutDate = getCookie('_mtxCheckOut');
+	    var hasSelectedDate = 0;
+	    if (checkInDate != null && checkOutDate != null) {
+	    	hasSelectedDate = 1;
+	    }
+
+	    if ((rch != null && rch.indexOf(':') != -1) || (hasSelectedDate == 1)) {
+			if(url.slice(-1)!="/") url = url + "/";
+	    	//var some_uri = new URL(url);
+			//var h = some_uri.origin;
+			var l = getLocation(url);
+			h = l.hostname;
+			if (h.indexOf('http') == -1) h = "http://" + h;
+			if(h == document.location.origin) window.location.href = url;
+			else
+			{
+				downloadUrl = h + "/setcookie.php?url=" + encodeURIComponent(url);
+
+				if (rch != null && rch.indexOf(':') != -1) {
+					downloadUrl = downloadUrl + "&data=" + encodeURIComponent(rch);
+				}
+
+				if (hasSelectedDate == 1) {
+					downloadUrl = downloadUrl + "&checkInDate="+ checkInDate + "&checkOutDate=" + checkOutDate;
+				}
+
+				var downloadFrame = document.createElement("script");
+				downloadFrame.setAttribute('src',downloadUrl);
+				document.body.appendChild(downloadFrame);
+			}
+	    }
+	    else window.location.href = url;
+	}
+
+	var getLocation = function(href) {
+	    var l = document.createElement("a");
+	    l.href = href;
+	    return l;
+	};
+
+	function getCookie(name){
+		var dcookie=document.cookie;
+		var cname=name+"=";
+		var clen=dcookie.length;
+		var cbegin=0;
+		while(cbegin<clen){
+			var vbegin=cbegin+cname.length;
+			if(dcookie.substring(cbegin,vbegin)==cname)
+			{
+				var vend=dcookie.indexOf(";",vbegin);
+				if(vend==-1) vend=clen;
+				return unescape(dcookie.substring(vbegin,vend));
+			}
+			cbegin=dcookie.indexOf(" ",cbegin)+1;
+			if(cbegin==0) break;
+		}
+		return null;
+	}
+	window.getCookie = getCookie;
+
+	function queryParam(name){
+		name=name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+		var regexS="[\\?&]"+name+"=([^&#]*)";
+		var regex=new RegExp(regexS);
+		var results=regex.exec(window.location.href);
+		if(results==null) return"";
+		else return results[1];
+	}
+
+    function hostContains(val) {
+        return document.location.hostname.toLowerCase().indexOf(val) != -1;
+    }
+    function pathContains(val) {
+        return document.location.pathname.toLowerCase().indexOf(val) != -1;
+    }
+    function queryContains(val) {
+        return document.location.search.toLowerCase().indexOf(val) != -1;
+    }
+    function referrerContains(val) {
+        return document.referrer.toLowerCase().indexOf(val) != -1;
+    }
+
+    channels = [
+        {
+            'name' : 'SEM',
+            'predicate' : function(ref, loc) {
+                var isSEM = referrerContains('/aclk') && queryContains('cid=sem');
+                if (isSEM) {
+                    return [true, queryParam('s_kwcid')];
+                } else {
+                    return [false, ''];
+                }
+            }
+        },
+        {
+            'name' : 'EDM',
+            'predicate' : function(ref, loc) {
+                return [queryContains('cid=edm'), queryParam('cid')];
+            }
+        },
+        {
+            'name' : 'TRP',
+            'predicate' : function(ref, loc) {
+                return [queryContains('cid=trpadv'), queryParam('cid')];
+            }
+        },
+        {
+            'name' : 'SEO',
+            'predicate' : function(ref, loc) {
+                bots = [['google', ['q']], ['yahoo', []], ['bing', ['q']], ['ask.com', ['q']], ['aol.com', ['q','query']], ['wow.com', []], ['webcrawler', []], ['duckduckgo', []], ['info.com', []], ['yandex', ['text']], ['baidu', ['wd']]];
+                for (var i = 0; i < bots.length; i++) {
+                    var bot = bots[i];
+                    if (referrerContains(bot[0])) {
+                        if (bot[1].length == 0) return [true, bot[0]]
+                        for (var j = 0; j < bot[1].length; j++) {
+                            if (referrerContains(bot[1][j] + '=')) return [true, bot[0]];
+                        }
+                    }
+                }
+                return [false, ''];
+            }
+        }
+    ]
+
+    var ref = document.referrer.toLowerCase();
+    var loc = document.location.href.toLowerCase();
+    for (var i = 0; i < channels.length; i++) {
+        var channel = channels[i];
+        var matched = channel.predicate(ref, loc);
+        if (matched[0]) {
+            var value = channel.name + ':' + matched[1];
+            var expires = new Date();
+            expires.setTime(expires.getTime() + 30 * 86400000);
+            document.cookie = "a_rch=" + value + '; expires=' + expires + '; domain=; path=/';
+            break;
+        }
+    }
+
+})();
+
+jQuery(document).ready(function () {
+    var tpix = window.tpix || {};
+    var ch   = 'DTI';
+    var kw   = '';
+    var rch  = getCookie('a_rch');
+
+    if (rch != null && rch.indexOf(':') != -1) {
+        var details = rch.split(':');
+        ch = details[0];
+        kw = details.slice(1).join(":");
+    }
+
+    var exPxDomains = [['latestays.com', 'APLSUS'],['latestays.com.my', 'APLSMY'],['latestays.co.th', 'APLSTH'],['latestays.ru', 'APLSRU'],['latestays.co.id', 'APLSID'],['latestays.co.kr', 'APLSKR']];
+    var pxDomain = 'www.asiawebdirect.com';
+    var pId  = 'APAW1';
+    var host = document.location.hostname;
+    for (var i = 0; i < exPxDomains.length; i++) {
+        var domain = exPxDomains[i];
+        if (host.indexOf(domain[0])!=-1)
+        {
+	        if ((host.length - host.indexOf(domain[0])==domain[0].length))
+	        {
+	            pxDomain = 'awd.' + domain[0];
+	            pId = domain[1];
+	        }
+        }
+    }
+
+    var aRef = encodeURIComponent('awd.001.' + ch + '.kwrd=' + kw);
+    var hId  = encodeURIComponent(tpix.hId || '');
+    var lcat = encodeURIComponent(tpix.lcat || '5');
+    var qs   = 'pId=' + pId + '&aRef=' + aRef + '&hId=' + hId + '&lcat=' + lcat;
+    (new Image()).src = '//' + pxDomain + '/partner/rt/b.gif?' + qs;
+});
 </script>
-<!-- /GTA Nov 2013 -->
+
+<form id="frm-middlepage" action="/redirect-hcom/" method="post" target="_blank" style="display:none">
+	<input type="hidden" name="redirect-url" id="redirect-url">
+</form>
 	<script language="JavaScript" type="text/javascript"><!--
 var awddomain = 'asiawebdirect.com';
 analytics = window.analytics || {};
