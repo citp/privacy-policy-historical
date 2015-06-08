@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rit.edu privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118185149id_/http%3A//www.rit.edu/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rit.edu privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608163640id_/http%3A//www.rit.edu/privacystatement.html) for the most accurate reproduction.*
 
 # RIT - Privacy Statement
 
 Rochester Institute of Technology (RIT) is committed to providing Web users with information about privacy protection. Information gathering and dissemination practices are described below. This privacy statement is subject to change and any changes will be posted on this page.
 
-Questions or concerns may be directed to [webdev@rit.edu](https://web.archive.org/web/20141118185149id_/http%3A//www.rit.edu/webdev@rit.edu).
+Questions or concerns may be directed to [webdev@rit.edu](https://web.archive.org/web/20150608163640id_/http%3A//www.rit.edu/webdev@rit.edu).
 
 ## Information Collected
 
