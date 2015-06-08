@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magnushealthportal.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109020835id_/http%3A//magnushealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magnushealthportal.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608020441id_/http%3A//magnushealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Magnus Health | Privacy Policy
 
@@ -10,7 +10,7 @@ Magnus Health collects personal information when you register with Magnus Health
 
 When you register, we ask for information such as your name, email address, birth date, gender, and zip code. We may also ask for your address, and other important health related information. Once you register with Magnus Health and sign in to our services, you are not anonymous to us.
 
-Magnus Health automatically receives and records information on our server logs from your browser, including your IP address, Magnus Health cookie information, and the page you request.
+Magnus Health automatically receives and records information on our server logs from your browser, including your IP address, Magnus Health cookie information, and the page you request. Magnus Health uses information for the following general purposes: to fulfill your requests for services, improve our services, to deliver targeted educational information, and to contact you.
 
 Magnus Health uses information for the following general purposes: to fulfill your requests for services, improve our services, and to contact you.
 
@@ -36,18 +36,19 @@ Magnus Health has no direct relationship with the individuals whose personal dat
 
 Children under age 18 may not register with Magnus Health. We ask that patients who are minors be registered under a parent or guardian’s Magnus Health account.
 
-Magnus Health will not contact children under age 18 about our services without a parent’s permission.
+Magnus Health will not contact children under age 18 about our services.
 
 Magnus Health does not ask a child under age 18 for more personal information.
 
 ### **Information Sharing and Disclosure**
 
-Magnus Health does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide services you’ve requested, when we have your permission, or under the following circumstances:
+Magnus Health will share your personal information with third parties only in the ways that are described in this privacy policy. Magnus Health does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide services you’ve requested, when we have your permission, or under the following circumstances:
 
   * We provide the information to emergency personnel and other healthcare professionals under HIPAA confidentiality agreements. These professionals may use your personal information to help Magnus Health communicate with you.
   * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
   * We believe it necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Magnus terms of use, or as otherwise required by law.
   * We transfer information about you if Magnus Health is acquired by or merged with another company. In this event, Magnus Health will notify you before information about you is transferred and becomes subject to a different privacy policy.
+  * We may deliver educational information or product information from companies that provide relevant information, products or services for our customers. These companies do not receive your personal information.
   * We may provide your personal information to companies that provide services to help us with our business activities such as hosting provider or customer service provider. These companies are authorized to use your personal information only as necessary to provide these services.
 
 
@@ -56,15 +57,21 @@ Magnus Health works with partners and other service providers in the healthcare 
 
 [Integrations](https://web.archive.org/integrations) [Partners](https://web.archive.org/partners)
 
-#####  **Cookies**
+#####  **Tracking Technologies**
 
-Magnus Health may set and access Magnus Health cookies on your computer. A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personal information you submit while on our site.
+Technologies such as: cookies, beacons, tags and scripts are used by Magnus Health and our partners, analytics, or online customer support provider. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. We use a session cookie to keep you signed into our service. A persistent cookie remains on your hard drive for an extended period of time. A persistent cookie will help remember your username. You can remove persistent cookies by following directions provided in your Internet browser’s “help” directory. If you reject cookies, you may still use our site.
+We use cookies to remember users’ settings and authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited
 
-The use of cookies by our partners, affiliates, tracking utility company, and service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, and service providers use session ID cookies to make it easier for you to navigate our site.
+##### **Behavioral Targeting / Re-Targeting**
 
-Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our customers’ or users’ personal information.
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+
+##### **Local Storage Object (Flash/HTML5)**
+
+Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information.
+
+Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html
 
 As is true of most websites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and click-stream data.
 
@@ -90,7 +97,7 @@ If a parent chooses not to allow us to further collect or use a child’s inform
 
 The security of your personal information and our clients’ information is important to us. We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide services to you or in order to do their jobs.
 
-We have physical, electronic, and procedural safeguards that comply with HIPAA and federal regulations to protect personal information about you. When you enter sensitive information, such as a credit card number or health information on our forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+We have physical, electronic, and procedural safeguards that comply with HIPAA and federal regulations to protect personal information about you. When you enter sensitive information, such as log in credentials and a credit card number or health information on our forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
 We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, please contact us at [helpdesk@magnushealth.com](mailto:helpdesk@magnushealth.com).
 
@@ -122,4 +129,4 @@ Raleigh, NC 27601
 (877) 461-6831  
 [Help Desk](http://helpdesk.magnushealth.com/customer/portal/emails/new "http://helpdesk.magnushealth.com/customer/portal/emails/new")
 
-Effective Date: November 15, 2013
+Effective Date: March 31, 2015
