@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alsearsmd.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224050846id_/http%3A//www.alsearsmd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alsearsmd.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608044641id_/http%3A//alsearsmd.com/%3Fpage_id%3D8498) for the most accurate reproduction.*
 
-# Privacy Policy | Dr. Al Sears
+# Privacy Policy
 
 Dr. Sears recognizes the importance of protecting your personal information and your trust in us. Therefore, we take the responsibility of handling your personal information extremely seriously.
 
@@ -35,10 +35,10 @@ If you contact us to inquire about an order, our customer service staff will ask
 When you give us your mailing address, we will use this information to fulfill your order and to send you information on other products you might find interesting. If you don’t want us to send you this other information, please contact our customer service department:
 
 Customer Service  
-11903 Southern Blvd. Ste. 208  
+11905 Southern Blvd. Ste. 102  
 Royal Palm Beach, FL 33411
 
-Or you can email us using our [online contact form](http://www.alsearsmd.com/contact-us/#form "Online contact form") or call us toll-free at 1.866.792.1035.
+Or you can email us at [ alsearsmd@alsearmd.com](mailto:alsearsmd@alsearmd.com) or call us toll-free at 1.866.792.1035.
 
 ## Cookies
 
