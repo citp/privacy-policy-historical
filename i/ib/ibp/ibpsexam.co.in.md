@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibpsexam.co.in privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224174810id_/http%3A//www.ibpsexam.co.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibpsexam.co.in privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608171630id_/http%3A//www.ibpsexam.co.in/privacy) for the most accurate reproduction.*
 
 # Privacy | IBPS Exam : Entrance and Govt. Exams Tips and Guides
 
