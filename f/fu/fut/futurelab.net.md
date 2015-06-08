@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futurelab.net privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217113853id_/http%3A//www.futurelab.net/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futurelab.net privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609015144id_/http%3A//www.futurelab.net/service/privacy) for the most accurate reproduction.*
 
 # Privacy | Futurelab
 
