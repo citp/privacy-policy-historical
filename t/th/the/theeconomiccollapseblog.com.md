@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theeconomiccollapseblog.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131143id_/http%3A//theeconomiccollapseblog.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeconomiccollapseblog.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609004517id_/http%3A//theeconomiccollapseblog.com/website-privacy-policy) for the most accurate reproduction.*
 
-# Website Privacy Policy
+# Privacy Policy
 
 **Site Terms and Privacy Policy**
 
