@@ -1,17 +1,18 @@
-<!--The following is the downloaded HTML source of the lww.com privacy policy that was archived on 2014-10-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141017033633id_/http%3A//www.lww.com/webapp/wcs/stores/servlet/content_privacy_default_11851_-1_12551) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lww.com privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608040805id_/http%3A//www.lww.com/home/opencms%3Fid%3Dprivacy_default) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
-    <meta charset="utf-8"><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-3.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"1b51cedc77","applicationID":"3572719","transactionName":"YwMBZhNQWRAEU0NdDlpJJ10Vf1IXJl9ZQBNbCg9XEx5kChFVVFsTUUkqXAVUTw==","queueTime":0,"applicationTime":30,"ttGuid":"B595474A1D4B6184","agent":"js-agent.newrelic.com/nr-476.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwIHVlVbGwAFU1NVBgg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"1b51cedc77","applicationID":"3572719","transactionName":"YwMBZhNQWRAEU0NdDlpJJ10Vf1IXJl9ZQBNbCg9XEx5kChFVVFsTUUkqXAVUTw==","queueTime":0,"applicationTime":21,"ttGuid":"28F61C69A7855922","agent":"js-agent.newrelic.com/nr-632.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwIHVlVbGwAFU1NVBgg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    
 
     <!--For Site Icon-->
     <link rel="shortcut icon" href="/_static/img/favicon.ico" type="image/x-icon">
 
-    <link rel="stylesheet" href="//f.fontdeck.com/s/css/o/sF/zvh4e8RydIT6zHyUUITnFE/www.lww.com/48831.css" type="text/css">
-    <link href="/_static/store/css/lww.css?v=LnUbqXPGm_xOUo6R3tNRPmZl0yQLe7DUrQKbYGdIl0M1" rel="stylesheet">
+    <script src="/_static/store/js/fontdeck.js"></script>
+
+    
+
+    <link href="/_static/store/css/lww.css?v=wJmKHNwobNeRVtaWK4DVezKqZ7dBB0KvyifnW14hdnY1" rel="stylesheet">
 
 
     <!--[if lt IE 9]>
@@ -25,7 +26,7 @@
 
         <script src="/_static/store/js/plugin.js?v=-M7ViHX2W6VNhsycHzlYThNPjtojerYrDevZ58HQCv01"></script>
 
-        <script src="/_static/store/js/app.js?v=6H-gQTfPm4Rd8ZIeKIiekw6tkAuXbjj6ofJUeXVvrzk1"></script>
+        <script src="/_static/store/js/app.js?v=bnLeUrGMMgHW0gga68Zpq74_teI-ehIOiuPthrJotzA1"></script>
 
     
         <noscript>
@@ -39,32 +40,6 @@
         <article class="page-wraper">        
             
 
-
-
-<nav style="display: none;" class="navigation-side-menu" role="navigation">
-    <ul>
-        <li><a href="#">Home</a></li>
-        <li class="divider-line"></li>
-        <li><a href="#">Medicine</a></li>
-        <li><a href="#">Nursing</a></li>
-        <li><a href="#">Allied Health</a></li>
-        <li><a href="#">Access Content</a></li>
-        <li class="divider-line"></li>
-        <li><a href="#">Products &amp; Solutions</a></li>
-        <li><a href="#">Partner Sites</a></li>
-        <li><a href="#">Anatomical Chart Company</a></li>
-        <li><a href="#">Stedman's</a></li>
-        <li><a href="#">Other Products</a></li>
-        <li class="divider-line"></li>
-        <li><a href="#">My account</a></li>
-        <li><a href="#">Order History</a></li>
-        <li><a href="#">Reading List</a></li>
-        <li class="divider-line"></li>
-        <li><a href="#">Live Chat</a></li>
-        <li><a href="#">Help</a></li>
-        <li><a href="#">Privacy Policy</a></li>
-    </ul>
-</nav>
 
 <header class="site-header hide-mobile">
     <ul class="aside-container">
@@ -80,7 +55,20 @@
                     <li><a href="/home/opencms?id=shipping">Shipping Rates</a></li>
                     <li><a href="/home/opencms?id=Merchandise">Merchandise Return</a></li>
                     <li><a href="/home/opencms?id=termsandconditions">LWW.com Discount Policy</a></li>
-                    <li><h4>Contact us:</h4> <span>1.800.638.3030</span> <span>1.301.223.2300</span> <span>8:30am-7pm ET (M-F)</span></li>
+                    <li><h4>Contact us:</h4>
+                        <span>Customer Service:</span>
+                        <span>1.800.638.3030</span>
+                        <span>1.301.223.2300</span>
+                        <span>8:30am-7pm ET (M-F)</span>
+                        <span></span>
+                        <span>Online Product Support:</span>
+                        <span>1.800.468.1128</span>
+                        <span>1.301.223.2344</span>
+                        <span><a href="mailto:techsupp@lww.com">techsupp@lww.com</a></span>
+                        <span>4pm-12am ET (Su)</span>
+                        <span>8am-12am ET (M-Th)</span>
+                        <span>8am-7pm ET (F)</span>
+                    </li>
                 </ul>
             </div>
         </li>
@@ -94,7 +82,6 @@
                     <li><a href="http://www.wkadcenter.com/" target="_blank">Advertising Center</a></li>
                     <li><a href="http://www.aclandanatomy.com" target="_blank">Acland's Anatomy</a></li>
                     <li><a href="http://ceconnection.com" target="_blank">CE Connection</a></li>
-
                 </ul>
             </div>
         </li>
@@ -143,10 +130,8 @@
 
     </ul>
 </header>
-<br>
-<br>
 
-<section class="header-group-actions aside-container" style="height: 90px">
+<section class="header-group-actions aside-container" style="height: 53px">
     <div class="s-container">
         <div class="s-element logo">
             <a href="/">
@@ -185,7 +170,7 @@
             </ul>
 
             <span id="spnHeaderCartCnt" class="cart-count hide-mobile" data-ux="cart-count">0</span>
-            <a class="shopping-cart-button" href="/Cart">Cart</a>
+            <a class="shopping-cart-button" href="/Cart" title="Cart has 0 items">Cart</a>
 
             <button type="button" class="navigation-right-button"></button>
         </div>
@@ -253,13 +238,11 @@
                         </p>
                     </li>
                     <li style="float:right;height:306px;">
-                        <p style="margin-bottom:0px;" data-value="Orthopaedics Network" class="selected"><a href="http://networks.lww.com/orthopaedics"> Orthopaedics Network</a></p>
-                        <p style="margin-bottom:0px;" data-value="Pathology Network"><a href="http://networks.lww.com/pathology">Pathology Network</a></p>
                         <p style="margin-bottom:0px;" data-value="Read Your Journal Content"><a href="http://journals.lww.com">Read Your Journal Content</a></p>
                         <p style="margin-bottom:0px;" data-value="Stedman's Online"><a href="http://www.stedmansonline.com">Stedman's Online</a></p>
                         <p style="margin-bottom:0px;" data-value="thePoint"><a href="http://thepoint.lww.com">thePoint</a></p>
                         <p style="margin-bottom:0px;" data-value="Lippincott CoursePoint"><a href="http://thepoint.lww.com/coursepoint"> Lippincott CoursePoint</a></p>
-                        <p style="margin-bottom:0px;" data-value="Lippincott Docucare"><a href="http://thepoint.lww.com/docucare"> Lippincott Docucare</a></p>
+                        <p style="margin-bottom:0px;" data-value="Lippincott DocuCare"><a href="http://thepoint.lww.com/docucare"> Lippincott Docucare</a></p>
                         <p style="margin-bottom:0px;" data-value="Journals@Ovid (Institutions)"><a href="http://www.ovid.com"> Journals@Ovid (Institutions)</a></p>
                         <p style="margin-bottom:0px;" data-value="Lippincott Nursing Solutions"><a href="http://lippincottsolutions.com">Lippincott Nursing Solutions</a></p>
                         <p style="margin-bottom:0px;" data-value="Lippincott PassPoint"><a href="http://thepoint.lww.com/passpoint"> Lippincott PassPoint</a></p>
@@ -279,259 +262,277 @@
 
 
 
+
             <div class="aside-container table clearfix">
                 
-<!-- SiteCatalyst code version: H.26.2.
-    Copyright 1996-2014 Adobe, Inc. All Rights Reserved
-    More info available at http://www.omniture.com -->
-<script type="text/javascript">
-    var s_account = s_account || 'wkhlwwprod';
-</script>
-
-<script language="JavaScript" type="text/javascript" src="/Content/js/Adobe/s_code.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-    /* You may give each page an identifying name, server, and channel on
-    the next lines. */
-    s.pageName = '/Home/opencms?id=privacy_default';
-    s.server = 'PROD-ECOMM2'//'lwwtest.com';
-    s.channel = 'opencms';
     
-    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-    var s_code = s.t(); if (s_code) document.write(s_code)//--></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-    if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-')
-    //--></script><noscript>
-    <img src="//wolterskluwermedical.d1.sc.omtrdc.net/b/ss/wkmedlwwdev/1/H.26.2--NS/0"
-         height="1" width="1" border="0" alt="" />
-</noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.26.2. -->
-
 <br>
 <!--?xml version="1.0" encoding="UTF-8"?-->
-
-<contenttypes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nonamespaceschemalocation="opencms://system/modules/com.opencms.crossview.content.module/schemas/content.xsd">
-  <contenttype language="en">
-    <contentsource><!--[CDATA[<p-->LWW.com does not sell or rent any individual's e-mail address, financial information, or unique identifiers to any advertiser or unaffiliated third party. On occasion, we may provide the information we gather, including name, address, and e-mail address, to our sister companies and other partners.<p></p>
-<p>When you supply your e-mail address, we use it to confirm your order, provide requested information, and otherwise respond to your communication.</p>
-<h2>Privacy Policy for LWW</h2>
-<p>Lippincott Williams &amp; Wilkins has created this privacy statement in order to demonstrate our firm commitment to the privacy of our customers. The following discloses our practices on gathering and disseminating information for this web site (LWW.com).</p>
+<h2>Privacy Policy for Wolters Kluwer</h2>
+<p>Wolters Kluwer has created this privacy statement in order to demonstrate our firm commitment to the privacy of our customers. The following discloses our practices on gathering and disseminating information for this web site (LWW.com).</p>
 <p>We will update this Privacy Policy statement if elements of our policy change. If you are concerned about how your personal information is used, please visit our Web site often for this and other important announcements from LWW.com.</p>
 <h3>What type of information does LWW.com collect online?</h3>
 <p>LWW.com monitors several aspects of <b>general browsing</b>, including traffic to specific pages, length of visit, and shopping behavior. <a href="#LWWuses">Click here</a> to find out how LWW uses this information.</p>
 <p>LWW.com gathers <b>personal information</b> from customers in two places: registration and checkout. LWW.com registration is completely optional and if you choose to register, we will ask you for your name, e-mail address, mailing address, phone number (if you wish to provide it), primary specialty you are currently working or studying in, profession (if you wish to provide it), and workplace setting (if you wish to provide it). <a href="#LWWuses">Click here</a> to find out how LWW uses this information.</p>
-<p>If you register on LWW.com, you will also be prompted to sign up for <strong>LWW.com News, Coupons and Product Updates</strong>. If you sign up for LWW.com News, Coupons and Product Updates, you will be able to select the specialties in which you wish to receive Updates that best fit your profession or work setting.</p>
-<p>LWW.com News, Coupons and Product Updates are sent from "Lippincott Williams &amp; Wilkins" [<strong>orders@lww.com</strong>, <strong>orders@lww.lww.com</strong>, and <strong>orders@optin.lww.com</strong>] and "LWW Alerts" [<strong>alerts@LWW-Alerts.com</strong>]. This information may help you in your efforts to filter out spam while allowing legitimate e-mail to get through.</p>
-<p>This information may help you in your efforts to filter out spam while allowing legitimate e-mail to get through.</p>
+<p>If you register on LWW.com, you will also be prompted to sign up for <strong>LWW.com Content, Offers, Updates and News</strong>. If you sign up for LWW.com Content, Offers, Updates and News, you will be able to select the specialty in which you wish to receive Updates that best fit your profession or work setting.</p>
+<p>LWW.com Content, Offers, Updates and News are sent from "Lippincott Williams &amp; Wilkins" [<strong>email@reply.lww.com</strong>]. This information may help you in your efforts to filter out spam while allowing legitimate e-mail to get through.</p>
+
 <p>LWW.com gives you options for removing your information from our database in order to discontinue receiving future communications or service. To do this:</p>
 <ul>
-    <li>Go to the <a href="/webapp/wcs/stores/servlet/content_unsubscribe_unsubscribe_11851_-1_12551">Opt-out form</a></li>
+    <li>Go to the <a href="http://pages.reply.lww.com/page.aspx?QS=3935619f7de112effdd99861e58693d2bb5d41d7c657914cb823f832dcbd774d">Opt-out form</a></li>
     <li>Enter your email address (if it isn't already there)</li>
-    <li>Click on the unsubscribe button</li>
+    <li>Click on the submit button</li>
 </ul>
 <p>Once you become a registered user, we may also collect additional personal information from you if you elect to participate in certain features and activities that we may offer on LWW.com. For example, we may from time to time post optional <b>quizzes, polls or surveys</b> that may ask for additional information from you (i.e., additional demographic information, product preferences, etc.). We may also collect personal information from you if you enter the online contests that may be offered on LWW.com. This information may include your name, mailing address, telephone number and e-mail address.</p>
 <p>To ensure compliance with federal law, LWW.com does not knowingly maintain information provided by children under the age of 13.</p>
+<p>LWW.com does not sell or rent any individual's e-mail address, financial information, or unique identifiers to any advertiser or unaffiliated third party. On occasion, we may provide the information we gather, including name, address, and e-mail address, to our sister companies and other partners.</p>
+<p>When you supply your e-mail address, we use it to confirm your order, provide requested information, and otherwise respond to your communication.</p>
 <p>LWW.com uses a browser feature known as <strong>cookies</strong>, which assigns a unique identification to your computer. Cookies are typically stored on your computer's hard drive and are used by LWW to keep track of your shopping cart, to deliver content specific to your interests and to save your account information so you don't have to re-enter it during the check-out/purchase process.</p>
 <h3><a name="LWWuses">How does LWW use the information I provide online?</a></h3>
 <p>The information we collect from <strong>general browsing</strong> allows us to see which areas of our web site are most visited and helps us better understand our visitors' experiences at LWW.com. With this information, we are also able to provide you with product recommendations based upon prior selections of customers. In the process of gathering navigational information, non-personally identifiable information (for example, domain type, browser version, service provider and IP address) may be collected.</p>
-<p>The <strong>personal information</strong> we collect will allow us to present you with a more customized experience on LWW.com, including offers that relate to the specialty you select, search results presented first by your designated specialty, and faster checkout. The information is also used to send you order confirmations and information about Lippincott Williams &amp; Wilkins. Unique identifiers (such as e-mail address and password) are collected to verify the user's identity, for use as account numbers in our record system, and for other purposes. When you supply your e-mail address, we use it to confirm your order, provide requested information, and otherwise respond to your communication.</p>
+<p>The <strong>personal information</strong> we collect will allow us to present you with a more customized experience on LWW.com, including offers that relate to the specialty you select, search results presented first by your designated specialty, and faster checkout. The information is also used to send you order confirmations and information about Wolters Kluwer. Unique identifiers (such as e-mail address and password) are collected to verify the user's identity, for use as account numbers in our record system, and for other purposes. When you supply your e-mail address, we use it to confirm your order, provide requested information, and otherwise respond to your communication.</p>
 <h3>Does LWW.com share or sell my information with third parties?</h3>
 <p>LWW.com does not sell personal information that we collect to third parties. The information we collect is used to acknowledge and deliver items that customers order, to improve the content of our website, to notify visitors who request specific information about updates to our website (i.e. new products in a specific category), and to contact visitors (with permission) for our own marketing purposes. We work with reputable third parties to assist us in delivering services to you. In these instances, we will provide your personal information to third parties so that they can perform these services. Third parties are required to hold the information in confidence and use it only for the purpose of delivering the service for which they were hired.</p>
 <h3><a name="#contact">What else should I know about regarding LWW.com's privacy statement?</a></h3>
-<p>LWW.com often contains <strong>links</strong> to other web sites. Lippincott Williams &amp; Wilkins is <b>not responsible</b> for the privacy practices or the content of those web sites.</p>
+<p>LWW.com often contains <strong>links</strong> to other web sites. Wolters Kluwer is <b>not responsible</b> for the privacy practices or the content of those web sites.</p>
 <p>LWW.com has <strong>security</strong> measures in place to protect the loss, misuse and alteration of the information under our control.</p>
 <p>If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact:</p>
-<p><em>Privacy Policy - Internet Marketing Group</em><br>
-Lippincott Williams &amp; Wilkins<br>
-351 West Camden Street<br>
-Baltimore, MD 21201</p>]]&gt;</contentsource>
-  </contenttype>
-</contenttypes>
+<p><em>Privacy Policy - Digital Marketing Group</em><br>
+Wolters Kluwer<br>
+Two Commerce Square<br>
+2001 Market Street<br>
+Philadelphia, PA 19103</p>
 
 
+    <!-- SiteCatalyst code version: H.26.2.
+        Copyright 1996-2014 Adobe, Inc. All Rights Reserved
+        More info available at http://www.omniture.com -->
+    <script>
+        var s_account = s_account || 'wkhlwwprod';
+    </script>
+    <script src="/Content/js/Adobe/s_code.js"></script>
+    <script>
+    <!--
+        /* You may give each page an identifying name, server, and channel on
+        the next lines. */
+    
+        s.server = window.location.host;
+
+        
+    s.pageName = '/Home/opencms?id=privacy_default';
+    s.channel = 'opencms';
 
 
+        var loginSuccessful = false;
+        if (loginSuccessful) {
+            if (s.events === undefined) {
+                s.events = 'event1';
+            } else {
+                s.events += ',event1';
+            }
+        }
 
+        var registrationSuccessful = false;
+        if (registrationSuccessful) {
+            if (s.events === undefined) {
+                s.events = 'event2';
+            } else {
+                s.events += ',event2';
+            }
+        }        
 
+    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+    var s_code = s.t(); if (s_code) document.write(s_code)//--></script>
+    <script>
+    <!--
+        if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-')
+        //--></script><noscript>
+        <img src="//wolterskluwermedical.d1.sc.omtrdc.net/b/ss/wkmedlwwdev/1/H.26.2--NS/0" height="1" width="1" border="0" alt="" />
+    </noscript><!--/DO NOT REMOVE/-->
+    <!-- End SiteCatalyst code version: H.26.2. -->
 
             </div>
         </article>
 
         <div class="site-footer shadow-effect-conteiner">
-            <ul class="aside-container shadow-effect-box shadow-effect">
-                <li class="footer-logo-container">
+    <ul class="aside-container shadow-effect-box shadow-effect">
+        <li class="footer-logo-container">
+            <div class="s-element logo">
+                <a href="/">
                     <img src="/_static/store/img/logo.png" class="img-responsive footer-logo" alt="Wolters Kluwer">
-                    <a href="https://www.facebook.com/LippincottWilliamsWilkins" target="_blank" class="footer-social-button facebook-button"></a>
-                    <a href="https://twitter.com/lippincott" target="_blank" class="footer-social-button twiter-button"></a>
-                    <a href="http://www.youtube.com/user/LippincottPublishing" target="_blank" class="footer-social-button youtube-button"></a>
-                </li>
-                <li class="footer-item show-mobile"><a href="#">View full version of site</a><div class="triangle-right-arrow"></div></li>
-                <li class="footer-item show-mobile"><a href="#">My Account</a><div class="triangle-right-arrow"></div></li>
-                <li class="footer-item"><a target="_blank" href="http://lww.custhelp.com/app/answers/list">Customer Service</a><div class="triangle-right-arrow"></div></li>
-                <li class="footer-item"><a target="_blank" href="/home/opencms?id=privacy_default">Privacy Policy</a><div class="triangle-right-arrow"></div></li>
-                <li class="footer-item"><a target="_blank" href="/home/opencms?id=sitemap_default">Site Map</a><div class="triangle-right-arrow"></div></li>
-            </ul>
+                </a>
+            </div>
+            <a href="https://www.facebook.com/LippincottWilliamsWilkins" target="_blank" class="footer-social-button facebook-button"></a>
+            <a href="https://twitter.com/lippincott" target="_blank" class="footer-social-button twiter-button"></a>
+            <a href="http://www.youtube.com/user/LippincottPublishing" target="_blank" class="footer-social-button youtube-button"></a>
 
-            <section class="mobile-social-buttons-container">
-                <button type="button" class="" onclick="window.open('https://www.facebook.com/LippincottWilliamsWilkins', '_blank')"></button>
-                <button type="button" class="" onclick="window.open('https://twitter.com/lippincott', '_blank')"></button>
-                <button type="button" class="" onclick="window.open('http://www.youtube.com/user/LippincottPublishing', '_blank')"></button>
-                <a href="https://www.facebook.com/LippincottWilliamsWilkins" class="mobile-social-button mob-facebook-button"></a>
-                <a href="https://twitter.com/lippincott" class="mobile-social-button mob-twiter-button"></a>
-                <a href="http://www.youtube.com/user/LippincottPublishing" class="mobile-social-button mob-video-button"></a>
-            </section>
-        </div>
+        </li>
+        <li class="footer-item show-mobile"><a href="#">View full version of site</a><div class="triangle-right-arrow"></div></li>
+        <li class="footer-item show-mobile"><a href="#">My Account</a><div class="triangle-right-arrow"></div></li>
+        <li class="footer-item"><a target="_blank" href="http://lww.custhelp.com/app/answers/list">Customer Service</a><div class="triangle-right-arrow"></div></li>
+        <li class="footer-item"><a target="_blank" href="/home/opencms?id=privacy_default">Privacy Policy</a><div class="triangle-right-arrow"></div></li>
+        <li class="footer-item"><a target="_blank" href="/home/opencms?id=sitemap_default">Site Map</a><div class="triangle-right-arrow"></div></li>
+        <li class="footer-item copyright">© Copyright. Wolters Kluwer. 2015. All rights reserved.<div class="triangle-right-arrow"></div></li>
+    </ul>
 
-
-<div style="color:white;font-size: 12px">Server : PROD-ECOMM2  | Session : 0hrfgaiujt4mmks4a2f1qd0h  |  Client IP : 204.236.226.210  |  Build : 1.3.0.401</div>
-
-<!-- Google Code for Remarketing Tag -->
-<!--------------------------------------------------
-Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
---------------------------------------------------->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 979578605;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/979578605/?value=0&amp;guid=ON&amp;script=0"/>
+    <section class="mobile-social-buttons-container">
+        <button type="button" class="" onclick="window.open('https://www.facebook.com/LippincottWilliamsWilkins', '_blank')"></button>
+        <button type="button" class="" onclick="window.open('https://twitter.com/lippincott', '_blank')"></button>
+        <button type="button" class="" onclick="window.open('http://www.youtube.com/user/LippincottPublishing', '_blank')"></button>
+        <a href="https://www.facebook.com/LippincottWilliamsWilkins" class="mobile-social-button mob-facebook-button"></a>
+        <a href="https://twitter.com/lippincott" class="mobile-social-button mob-twiter-button"></a>
+        <a href="http://www.youtube.com/user/LippincottPublishing" class="mobile-social-button mob-video-button"></a>
+    </section>
 </div>
-</noscript>
-<!-- Google Code for Remarketing Tag -->
-<!--------------------------------------------------
-Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
---------------------------------------------------->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1000462042;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1000462042/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-<!-- Google Code for Remarketing Tag -->
-<!--------------------------------------------------
-Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
---------------------------------------------------->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 980032417;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/980032417/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-<!-- Google Code for Remarketing Tag -->
-<!--------------------------------------------------
-Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
---------------------------------------------------->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 958813386;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/958813386/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-<!-- Google Code for Remarketing Tag -->
-<!--------------------------------------------------
-Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
---------------------------------------------------->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 996993616;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/996993616/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-<!-- Google Code for Remarketing Tag -->
-<!--------------------------------------------------
-Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
---------------------------------------------------->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 974101932;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/974101932/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-<!-- Google Code for Remarketing Tag -->
-<!--------------------------------------------------
-Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
---------------------------------------------------->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1069186509;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1069186509/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-<!-- Google Code for Remarketing Tag -->
-<!--------------------------------------------------
-Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
---------------------------------------------------->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1032761726;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1032761726/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
 
 
+<div style="color:white;font-size: 12px">Server : PROD-ECOMM1  | Session : 1ituoqgiguk40nhipg343kqs  |  Client IP : 204.236.226.210  |  Build : 1.14.0.835</div>
+
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 979578605;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/979578605/?value=0&amp;guid=ON&amp;script=0" />
+    </div>
+</noscript>
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1000462042;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1000462042/?value=0&amp;guid=ON&amp;script=0" />
+    </div>
+</noscript>
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 980032417;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/980032417/?value=0&amp;guid=ON&amp;script=0" />
+    </div>
+</noscript>
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 958813386;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/958813386/?value=0&amp;guid=ON&amp;script=0" />
+    </div>
+</noscript>
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 996993616;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/996993616/?value=0&amp;guid=ON&amp;script=0" />
+    </div>
+</noscript>
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 974101932;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/974101932/?value=0&amp;guid=ON&amp;script=0" />
+    </div>
+</noscript>
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1069186509;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1069186509/?value=0&amp;guid=ON&amp;script=0" />
+    </div>
+</noscript>
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1032761726;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1032761726/?value=0&amp;guid=ON&amp;script=0" />
+    </div>
+</noscript>
+        
         <script>
             $(document).ready(function () {
                 $.ajax({
@@ -544,119 +545,6 @@ var google_remarketing_only = true;
                     error: function (result) {
                     }
                 });
-            });
-
-            $('html').click(function (e) {
-                var divFlagshipClass = $("#divFlagship").attr("class");
-                //if clicked element is not your element and parents aren't your div
-                if (e.target.id != 'divFlagship' && $(e.target).parents('#divFlagship').length == 0) {
-                    if (divFlagshipClass == "trigger open") {
-                        document.getElementById("divFlagship").setAttribute("class", "trigger");
-                        document.getElementById("ulFlagshipOpen").setAttribute("class", "options");
-                        return true;
-                    }
-                }
-
-                var divCustomerSupportClass = $("#divCustomerSupport").attr("class");
-                if (e.target.id != 'divCustomerSupport' && $(e.target).parents('#divCustomerSupport').length == 0) {
-                    if (divCustomerSupportClass == "trigger open") {
-                        document.getElementById("divCustomerSupport").setAttribute("class", "trigger");
-                        document.getElementById("ulCustomerSupportOpen").setAttribute("class", "options");
-                        return true;
-                    }
-                }
-
-                var divOtherSitesClass = $("#divOtherSites").attr("class");
-                if (e.target.id != 'divOtherSites' && $(e.target).parents('#divOtherSites').length == 0) {
-                    if (divOtherSitesClass == "trigger open") {
-                        document.getElementById("divOtherSites").setAttribute("class", "trigger");
-                        document.getElementById("ulOtherSitesOpen").setAttribute("class", "options");
-                        return true;
-                    }
-                }
-
-                var divOtherSitesClass = $("#divAboutUs").attr("class");
-                if (e.target.id != 'divAboutUs' && $(e.target).parents('#divAboutUs').length == 0) {
-                    if (divOtherSitesClass == "trigger open") {
-                        document.getElementById("divAboutUs").setAttribute("class", "trigger");
-                        document.getElementById("ulAboutUsOpen").setAttribute("class", "options");
-                        return true;
-                    }
-                }
-
-                var divOtherSitesClass = $("#divAccessAccount").attr("class");
-                if (e.target.id != 'divAccessAccount' && $(e.target).parents('#divAccessAccount').length == 0) {
-                    if (divOtherSitesClass == "trigger open") {
-                        document.getElementById("divAccessAccount").setAttribute("class", "trigger");
-                        document.getElementById("ulAccessAccountOpen").setAttribute("class", "options");
-                        return true;
-                    }
-                }
-            });
-
-            $("#divAccessAccount").click(function () {
-                //e.stopPropagation();
-                var divFlagshipClass = $("#divAccessAccount").attr("class");
-                if (divFlagshipClass == "trigger") {
-                    document.getElementById("divAccessAccount").setAttribute("class", "trigger open");
-                    document.getElementById("ulAccessAccountOpen").setAttribute("class", "options open");
-                }
-                else {
-                    document.getElementById("divAccessAccount").setAttribute("class", "trigger");
-                    document.getElementById("ulAccessAccountOpen").setAttribute("class", "options");
-                }
-            });
-
-            $("#divAboutUs").click(function () {
-                //e.stopPropagation();
-                var divFlagshipClass = $("#divAboutUs").attr("class");
-                if (divFlagshipClass == "trigger") {
-                    document.getElementById("divAboutUs").setAttribute("class", "trigger open");
-                    document.getElementById("ulAboutUsOpen").setAttribute("class", "options open");
-                }
-                else {
-                    document.getElementById("divAboutUs").setAttribute("class", "trigger");
-                    document.getElementById("ulAboutUsOpen").setAttribute("class", "options");
-                }
-            });
-
-            $("#divOtherSites").click(function () {
-                //e.stopPropagation();
-                var divFlagshipClass = $("#divOtherSites").attr("class");
-                if (divFlagshipClass == "trigger") {
-                    document.getElementById("divOtherSites").setAttribute("class", "trigger open");
-                    document.getElementById("ulOtherSitesOpen").setAttribute("class", "options open");
-                }
-                else {
-                    document.getElementById("divOtherSites").setAttribute("class", "trigger");
-                    document.getElementById("ulOtherSitesOpen").setAttribute("class", "options");
-                }
-            });
-
-            $("#divCustomerSupport").click(function () {
-                //e.stopPropagation();
-                var divFlagshipClass = $("#divCustomerSupport").attr("class");
-                if (divFlagshipClass == "trigger") {
-                    document.getElementById("divCustomerSupport").setAttribute("class", "trigger open");
-                    document.getElementById("ulCustomerSupportOpen").setAttribute("class", "options open");
-                }
-                else {
-                    document.getElementById("divCustomerSupport").setAttribute("class", "trigger");
-                    document.getElementById("ulCustomerSupportOpen").setAttribute("class", "options");
-                }
-            });
-
-            $("#divFlagship").click(function () {
-                //e.stopPropagation();
-                var divFlagshipClass = $("#divFlagship").attr("class");
-                if (divFlagshipClass == "trigger") {
-                    document.getElementById("divFlagship").setAttribute("class", "trigger open");
-                    document.getElementById("ulFlagshipOpen").setAttribute("class", "options open");
-                }
-                else {
-                    document.getElementById("divFlagship").setAttribute("class", "trigger");
-                    document.getElementById("ulFlagshipOpen").setAttribute("class", "options");
-                }
             });
 
         </script>
@@ -693,4 +581,4 @@ var google_remarketing_only = true;
             </div>
         </noscript>
     
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+</body></html>
