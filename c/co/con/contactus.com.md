@@ -1,6 +1,18 @@
-> *The following text is extracted and transformed from the contactus.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120231443id_/http%3A//www.contactus.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactus.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608062337id_/http%3A//www.contactus.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security | ContactUs.com
+
+  * [ ____ ](http://www.facebook.com/sharer.php?u=http://www.contactus.com/?p=77&t=Privacy%20%26amp%3B%20Security "Facebook")
+  * [ ____ ](http://twitter.com/home?status=Privacy%20%26amp%3B%20Security%20http://www.contactus.com/?p=77 "Twitter")
+  * [ ____ ](https://plus.google.com/share?url=http://www.contactus.com/?p=77 "Google Plus")
+  * [ ____ ](http://pinterest.com/pin/create/button/?url=http://www.contactus.com/?p=77&description=Privacy%20%26amp%3B%20Security&media= "Pinterest")
+  * [ ____ ](http://linkedin.com/shareArticle?mini=true&url=http://www.contactus.com/?p=77&title=Privacy%20%26amp%3B%20Security "Linked In")
+  * [ ____ ](http://www.tumblr.com/share/link?url=http://www.contactus.com/?p=77&name=Privacy%20%26amp%3B%20Security&description=Last%20Updated%20December%2020%2C%202013%20ContactUs.com%20is%20a%20suite%20of%20online%20contact%20management%20solutions%20for%20small%20business%20websites%20%28%E2%80%9CContactUs.com%E2%80%9D%20or%20%E2%80%9CServices%E2%80%9D%29.%20Your%20privacy%20and%20protection%20of%20information%20you%20share%20with%20us%20while%20using%20our%20Services%20is%20very%20important%20to%20us.%20This%20%26quot%3BPrivacy%20Policy%26quot%3B%20explains%20what%20information%20we%20gather%20from%20our%20users%20and%20how%20we%20use "Tumblr")
+  * [ ____ ](http://www.stumbleupon.com/submit?url=http://www.contactus.com/?p=77 "Stumble Upon")
+  * [ ____ ](http://digg.com/submit?url=http://www.contactus.com/?p=77&title=Privacy%20%26amp%3B%20Security "Digg")
+  * [ ____ ](http://www.reddit.com/submit?url=http://www.contactus.com/?p=77 "Reddit")
+
+
 
 Last Updated December 20, 2013
 
