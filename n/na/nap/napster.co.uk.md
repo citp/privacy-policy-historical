@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the napster.co.uk privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002002017id_/http%3A//www.napster.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the napster.co.uk privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608045403id_/http%3A//www.napster.co.uk/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Napster
+# Napster - Subscription Music Service - Listen All You Want: Millions of Songs
 
 Last Update: June 2014 
 
@@ -8,11 +8,11 @@ This Privacy Policy explains how Napster Luxembourg S.à r.l. ( “Napster”) c
 
 Napster will act as a data controller in respect of your Personal Information. 
 
-**Napster Luxembourg S.à r.l.**  
-60, Route de Luxembourg, L-5408 Bous, Luxemburg  
-Registration Number: B 110203  
-E-mail: legal@napster.com  
-Phone: +352 (2) 6005-233  
+**Napster Luxembourg S.à r.l.**   
+60, Route de Luxembourg, L-5408 Bous, Luxemburg   
+Registration Number: B 110203   
+E-mail: legal@napster.com   
+Phone: +352 (2) 6005-233   
 
 
 ##  WHAT PERSONAL INFORMATION DOES NAPSTER COLLECT? 
@@ -73,7 +73,7 @@ Also, Napster may disclose your Personal Information if required or permitted to
 
 ###  Obligatory or Optional Nature of the Requested Information 
 
-In connection with the registration process we ask you to explicitly consent to the Napster Privacy Policy. Some of the Personal Information collected by Napster is necessary to provide you with the Napster product or service you choose or for billing purposes. Except to the extent the use of personal information is necessary for such contractual purposes or another lawful reason under applicable law permits our processing without your consent, you may revoke any consent(s) to process your personal data that you have given to us in respect of future processing by [Email](mailto:privacy-opt-out@rhapsody.com). This may impair or prevent due functioning of the Napster Service. 
+In connection with the registration process we ask you to explicitly consent to the Napster Privacy Policy. Some of the Personal Information collected by Napster is necessary to provide you with the Napster product or service you choose or for billing purposes. Except to the extent the use of personal information is necessary for such contractual purposes or another lawful reason under applicable law permits our processing without your consent, you may revoke any consent(s) to process your personal data that you have given to us in respect of future processing by [Email](mailto:privacy-opt-out@rhapsody.com). 
 
 In certain instances, we provide you with the option to object to a specific use of Personal Information, e.g. you may object to a use of Personal information for purposes of advertising or market or opinion research by [Email](mailto:privacy-opt-out@rhapsody.com). 
 
@@ -83,7 +83,7 @@ You may choose to provide us with personal information if, for example, you: con
 
 Napster provides you with access to a joint social network of Napster and Rhapsody International Inc ("Social Network"). The Social Network allows you to discover music by making social connections with other Social Network members, sharing your playlists and listening preferences, and locating your friends' Social Network profiles via integration with other third party services such as Gmail and Facebook. Upon registration for any of the Napster Services you automatically become a member of the Social Network. 
 
-You may choose whether to use the Social Network feature by making your profile public and creating social connections with other users. To customize your profile, you must log in to <https://secure-www.napster.de/authentication/login> select the "My Music" menu, then select "Profile." 
+You may choose whether to use the Social Network feature by making your profile public and creating social connections with other users. To customize your profile, you must log in to <https://secure-www.napster.co.uk/authentication/login> select the "My Music" menu, then select "Profile." 
 
 Your profile settings give you the ability to display a photo, write a short bio, and make your playlists, library and listening history public within the Social Network. Your Social Network profile settings also give you the option to share your listening preferences on Facebook. By choosing to connect your Social Network profile to your Facebook account, you understand that your Napster listening selections will automatically be displayed within your Facebook profile and linked to your name within the Facebook newsfeed. 
 
