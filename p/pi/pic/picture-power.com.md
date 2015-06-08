@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picture-power.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120122925id_/http%3A//www.picture-power.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picture-power.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608172854id_/http%3A//www.picture-power.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Picture Power Website
 
@@ -79,4 +79,4 @@ If you do not agree to Picture-Power.com's Privacy Policy as posted here on this
 Your use of this site indicates acceptance of this privacy policy.
 
 [  
-Return **Home** from **Privacy Policy**](http://www.picture-power.com/index.html)
+Return **Home** from **Privacy Policy**](http://www.picture-power.com/)
