@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coppercolorado.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101110702id_/http%3A//www.coppercolorado.com/winter/footer_menus/footer-nav-links-1415/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coppercolorado.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608222908id_/http%3A//www.coppercolorado.com/winter/footer_menus/footer-nav-links-1415/about/privacy) for the most accurate reproduction.*
 
 # Copper Mountain - Privacy Policy
 
