@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allresultbd.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227064608id_/http%3A//allresultbd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allresultbd.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609001715id_/http%3A//allresultbd.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & Policy - All Result BDAll Result BD
+# Privacy & Policy - All Result BD
 
 Thank you for visiting our website. The protection of your privacy when you use is very important to us. The publisher takes the protection of your personal data very seriously. Your data will be protected under the law.
 
