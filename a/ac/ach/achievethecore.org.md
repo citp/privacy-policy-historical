@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the achievethecore.org privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231093416id_/http%3A//achievethecore.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the achievethecore.org privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608050836id_/http%3A//achievethecore.org/privacy-policy) for the most accurate reproduction.*
 
 # Achievethecore.org :: Privacy Policy
 
