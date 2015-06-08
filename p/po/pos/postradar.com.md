@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postradar.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016030752id_/http%3A//www.postradar.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postradar.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608093411id_/http%3A//www.postradar.com/site/privacy) for the most accurate reproduction.*
 
 # PostRadar - Privacy Site
 
