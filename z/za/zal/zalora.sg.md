@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zalora.sg privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209232944id_/http%3A//www.zalora.sg/pdp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zalora.sg privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608072859id_/http%3A//www.zalora.sg/pdp) for the most accurate reproduction.*
 
 # Zalora Personal Data Protection Policy
 
