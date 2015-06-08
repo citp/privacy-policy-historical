@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the fmscout.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021082406id_/http%3A//www.fmscout.com/a-privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fmscout.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608061815id_/http%3A//www.fmscout.com/a-privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | FM Scout
+
+Written by   Updated on September 15, 2010 Published on November 7, 2009   63783 views  
 
 Privacy Policy for fmscout.com
 
@@ -21,4 +23,4 @@ We also may use DART cookies for ad serving through Google’s DoubleClick, whic
 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added. 
