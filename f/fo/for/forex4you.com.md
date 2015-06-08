@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forex4you.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122190549id_/http%3A//www.forex4you.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forex4you.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608121033id_/http%3A//www.forex4you.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Forex4you: Privacy Policy
 
@@ -24,6 +24,10 @@ Your personal data is archived and secured in accordance with the legislation on
 #### COOKIES
 
 Forex4you websites contain cookies that ensure wider usage possibilities for the websites. Cookies can be rejected using the technological features of your browser; however, this is not advisable, as doing so will interfere with your use of Forex4you websites.
+
+#### DOUBLECLICK
+
+DoubleClick: We use Google Analytics remarketing codes to log when users view specific pages or take specific actions on a website. This allows us to provide targeted advertising in the future. If you do not wish to receive this type of advertising from us in the future you can opt out using the [DoubleClick opt-out page](https://www.google.com/settings/ads/onweb#display_optout) or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 #### USE OF INFORMATION
 
