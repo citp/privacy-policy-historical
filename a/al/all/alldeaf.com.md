@@ -1,7 +1,11 @@
-> *The following text is extracted and transformed from the alldeaf.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702003656id_/http%3A//www.alldeaf.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alldeaf.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608224811id_/http%3A//www.alldeaf.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - AllDeaf.com
 
+Advertisement  
+|  |  Advertisement  
+  
+---|---|---  
 Privacy Policy  
 ---  
   
@@ -15,11 +19,11 @@ Privacy Policy
   * AllDeaf will take all reasonable effort to ensure that all personal information about you submitted is maintained secure on our server. However, we make no warranty to this.
   * This site is intended for individuals over the age of 13. Any information collected is intended to be of individuals over the age of 13. According to [COPPA](http://www.ftc.gov/coppa/index.html), our site does NOT cater to children. "Operators of commercial websites or online services directed to children under 13 that collect personal information from children" require a COPPA agreement and privacy policy. Since we do not cater to this age group, no COPPA exists on AllDeaf
   * From time to time, AllDeaf may send you emails on behalf of our sponsors and advertisers. However, your email address will never be sold, shared or distributed.
-  * This Privacy Policy may be modified at any time without notice. It is your responsibility to check this page for updates or changes. If you have any questions regarding your privacy, then [Contact Us](https://web.archive.org/web/20140702003656id_/http%3A//www.alldeaf.com/sendmessage.php)
+  * This Privacy Policy may be modified at any time without notice. It is your responsibility to check this page for updates or changes. If you have any questions regarding your privacy, then [Contact Us](https://web.archive.org/web/20150608224811id_/http%3A//www.alldeaf.com/sendmessage.php)
 
   
   
-All times are GMT -5. The time now is 07:36 PM.
+All times are GMT -5. The time now is 05:48 PM.
 
   
 
