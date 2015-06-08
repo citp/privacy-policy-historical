@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapsofindia.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220110422id_/http%3A//www.mapsofindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapsofindia.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609002345id_/http%3A//www.mapsofindia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MapsofIndia.com
 
@@ -9,7 +9,7 @@ MapsOfIndia.com may ask you for personal information at times, including, but no
 **2\. What are cookies and how MapsOfIndia.com uses them?**  
 As combined part of offering and providing customised and personalised services, MapsOfIndia.com may use cookies to store and track your information. A cookie is a miniscule amount of data that is sent to your browser from a Web server that may be stored on your computer's hard drive. 
 
-Maps of India never stores your access credentials (User-Name and Password) of your social media accounts like Facebook, Twitter etc. on its servers. Maps of India authenticates your requests using Oauth, under which you pass your access credentials directly on the respective social media sites � Facebook, Twitter etc. thus limiting the possibility of any unauthorized use of your access credentials.
+Maps of India never stores your access credentials (User-Name and Password) of your social media accounts like Facebook, Twitter etc. on its servers. Maps of India authenticates your requests using Oauth, under which you pass your access credentials directly on the respective social media sites - Facebook, Twitter etc. thus limiting the possibility of any unauthorized use of your access credentials.
 
 **3\. Who is collecting information?**  
 When you are visiting a MapsOfIndia.com site and are asked for personal information, you are sharing that information for use by MapsOfIndia.com alone, unless it is specifically stated otherwise. Some MapsOfIndia.com services may be offered in conjunction with a third partner. In order to provide this service to you, it may be necessary for us to share your personal information with our partner company. In such cases you will be notified prior to the time of the data collection or transfer. Where as if you do not want your data to be shared, you can choose not to allow the transfer of such data by not using that particular service at all. 
@@ -27,7 +27,7 @@ During many promotions offers you may be requested for additional information fr
 
 Third Party Data & Data Comparisons: Under confidentiality agreements, MapsOfIndia.com may match user information with third party data. Also, MapsOfIndia.com discloses patterned user statistics in order to describe our services to prospective partners, advertisers, and or other third parties, and for other lawful purposes. 
 
-**Miscellaneous:** MapsOfIndia.com may also disclose user information in such cases where we have reason to believe that disclosure of this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) Compare Infobase Limited's or MapsOfIndia.com�s rights or property, other MapsOfIndia.com users, or anyone else that could be harmed by such activities. MapsOfIndia.com may disclose user information when we believe in good faith that the law or law-enforcing agency requires it. 
+**Miscellaneous:** MapsOfIndia.com may also disclose user information in such cases where we have reason to believe that disclosure of this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) Compare Infobase Limited's or MapsOfIndia.com's rights or property, other MapsOfIndia.com users, or anyone else that could be harmed by such activities. MapsOfIndia.com may disclose user information when we believe in good faith that the law or law-enforcing agency requires it. 
 
 **5\. Do I have choices or controls regarding collection, use, and distribution of my identifiable information?**
 
@@ -58,6 +58,6 @@ Finally, you are solely responsible for maintaining the secrecy of your password
 Yes, the safety of children is very important to us. Children should always ask a parent for permission before sending personal information to MapsOfIndia.com or to anyone online for that matter. MapsOfIndia.com does not share personal information about users under the age of 13 with third parties under any circumstances unless there is a special situation and such information is requested by law enforcing agency and we do not sell or rent personal information about any of our users, regardless of their age. In addition, MapsOfIndia.com will not send any direct email offers to users who indicate they are under the age of 13 without first obtaining their parents' permission. MapsOfIndia.com is an information site and we encourage the children to use the same and as a policy we never display by way of direct or any third party agreement, any pornographic material. 
 
 **10\. Additional Information**   
-For any clarification regarding this Privacy Policy, you may contact Maps of India by sending an e � mail to 
+For any clarification regarding this Privacy Policy, you may contact Maps of India by sending an e - mail to 
 
 [operations@MapsOfIndia.com](mailto:operations@MapsOfIndia.com) with "Regarding Privacy Policy" in the subject line. 
