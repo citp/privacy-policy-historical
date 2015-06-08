@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dotmed.com privacy policy that was archived on 2014-10-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141017100939id_/http%3A//www.dotmed.com/legal/privacynotice.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dotmed.com privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608121711id_/http%3A//www.dotmed.com/legal/privacynotice.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -7,7 +7,6 @@
 
 	<link rel="stylesheet" href="http://dotmed-images.s3.amazonaws.com/style/style.css" type="text/css">
 	<link rel="stylesheet" href="http://dotmed-images.s3.amazonaws.com/style/index.css" type="text/css">
-	<link rel="stylesheet" href="http://dotmed-images.s3.amazonaws.com/style/news_style.css" type="text/css">
 	<link rel="stylesheet" href="http://dotmed-images.s3.amazonaws.com/style/listings_table.css" type="text/css">
 
 
@@ -84,10 +83,10 @@ Welcome!  <a href="https://secure.dotmed.com/login.html?backfromssl=1">Sign In</
 	</div>
 	<div id="myMenuTop_left">
 		<ul>
-			<li><a href="http://www.dotmed.com/features/buyersgohere.html">buy&nbsp;<img src="http://cdn.dotmed.com/images/cart.gif" alt="dotmed" border="0" align="top"></a></li>
-			<li><a href="http://www.dotmed.com/features/sellersgohere.html">sell&nbsp;$</a></li>
-			<li><a href="http://www.dotmed.com/features/about.html">about</a></li>
-			<li class="border_none"><a href="http://www.dotmed.com/features/">My&nbsp;DOTmed&nbsp;</a><img src="http://cdn.dotmed.com/images/redball.gif" alt="dotmed" border="0" align="top"></li>
+			<li><a href="http://www.dotmed.com/features/buyersgohere.html">Buy <img src="http://cdn.dotmed.com/images/homepage/shoppingCart.png" alt="Buy on DOTmed" border="0" align="top"></a></li>
+			<li><a href="http://www.dotmed.com/features/sellersgohere.html">Sell</a></li>
+			<li><a href="http://www.dotmed.com/features/about.html">About</a></li>
+			<li><a href="http://www.dotmed.com/features/">My DOTmed <img src="http://cdn.dotmed.com/images/redball.gif" alt="My DOTmed" border="0" align="top"></a></li>
 		</ul>
 	</div>
 	<div id="myMenuTop_right"><a href="https://secure.dotmed.com/login.html?backfromssl=1">Login</a></div>
@@ -173,12 +172,18 @@ Welcome!  <a href="https://secure.dotmed.com/login.html?backfromssl=1">Sign In</
 <!-- end Menu -->
 </ul>
 </li>
-		<li><a href="http://www.dotmed.com/auctions/featured/">Auctions</a></li>
-		<li><a href="http://www.dotmed.com/virtual-trade-show/">Virtual Trade Show</a></li>
-		<li><a href="http://www.dotmed.com/news/">Daily News</a></li>
-		<li><a href="http://www.dotmed.com/virtual-trade-show/category/forums/">Forums</a></li>
-		<li><a href="http://www.dotmed.com/virtual-trade-show/">Find Service</a></li>
-		<li><a href="http://www.dotmed.com/careers/">Careers</a></li>
+    <li><a onclick="ga('send', 'event', 'Tab', 'find_service_tab', 'Service Tab');
+" href="http://www.dotmed.com/virtual-trade-show/">Service</a></li>
+
+        <li><a onclick="ga('send', 'event', 'Tab', 'auction_tab', 'Auction Tab');
+" href="http://www.dotmed.com/auctions/featured/">Auctions</a></li>
+        <li><a onclick="ga('send', 'event', 'Tab', 'news_tab', 'News Tab');
+" href="http://www.dotmed.com/news/">Daily News</a></li>
+        <li><a onclick="ga('send', 'event', 'Tab', 'forum_tab', 'Forum Tab');
+" href="http://www.dotmed.com/virtual-trade-show/category/forums/">Forums</a></li>
+        <li><a onclick="ga('send', 'event', 'Tab', 'career_tab', 'Careers Tab');
+" href="http://www.dotmed.com/careers/">Careers/Training</a></li>
+
 	</ul>
 </div>  
 
@@ -222,11 +227,12 @@ Welcome!  <a href="https://secure.dotmed.com/login.html?backfromssl=1">Sign In</
 <div itemscope="" itemtype="http://schema.org/WebSite" id="searchTop">
 <meta itemprop="url" content="http://www.dotmed.com/">
 <form itemprop="potentialAction" itemscope="" itemtype="http://schema.org/SearchAction" action="http://www.dotmed.com/listings/search_equipment.html" method="GET" name="dotmedSearch" style="display:inline;margin-right:50px" onsubmit="choose_search()">
-	 <meta itemprop="target" content="http://www.dotmed.com/listings/search/equipment.html?key={query}">
+	 <meta itemprop="target" content="http://www.dotmed.com/listings/search/equipment.html?key={key}">
 
-	<div style="display:inline;background-color:white;border:1px solid #CCCCCC;float:left;">
-		<a href="#" onclick="choose_search();return false"><img src="http://cdn.dotmed.com/images/search-icon.png" style="float:left;margin-top:5px;"></a>
-		<input itemprop="query-input" id="searchbox" title="Equipment type, model or mfg" type="text" onfocus="if (this.value == 'Equipment type, model or mfg') { this.value=''; }" value="Equipment type, model or mfg" name="key">
+
+	<div style="display:inline;background-color:white;float:left;">
+		<a href="#" onclick="choose_search();return false"><img src="http://cdn.dotmed.com/images/homepage/magnifyingGlass.png" style="float:left;"></a>
+		<input itemprop="query-input" id="searchbox" title="Equipment type, model or mfg" type="text" placeholder="Equipment type, model or mfg" value="" name="key" required="">
 	</div>
 		<ul id="searchDropdown">
 			<li id="search_selected_box"><a id="search_selected" href="#">Equipment</a><br>
@@ -234,7 +240,7 @@ Welcome!  <a href="https://secure.dotmed.com/login.html?backfromssl=1">Sign In</
 <li id="search_Equipment" onclick="choose_search_ul($(this).id);"><a href="#" onclick="return false">Equipment</a></li><li id="search_Parts" onclick="choose_search_ul($(this).id);"><a href="#" onclick="return false">Parts</a></li><li id="search_People" onclick="choose_search_ul($(this).id);"><a href="#" onclick="return false">People</a></li><li id="search_Companies" onclick="choose_search_ul($(this).id);"><a href="#" onclick="return false">Companies</a></li><li id="search_Services" onclick="choose_search_ul($(this).id);"><a href="#" onclick="return false">Services</a></li><li id="search_Equipment_Guide" onclick="choose_search_ul($(this).id);"><a href="#" onclick="return false">Equipment Guide</a></li><li id="search_Forums" onclick="choose_search_ul($(this).id);"><a href="#" onclick="return false">Forums</a></li><li id="search_News" onclick="choose_search_ul($(this).id);"><a href="#" onclick="return false">News</a></li><li id="search_Training" onclick="choose_search_ul($(this).id);"><a href="#" onclick="return false">Training</a></li>				</ul>
 			</li>
 		</ul>
-	<a href="#" onclick="choose_search();return false;" style="float:left;padding:8px 20px;margin:0px;border-radius:0px;" class="myButton">SEARCH</a>
+	<a href="#" onclick="choose_search();return false;" style="float:left;margin-left:10px" id="mySearchButton">SEARCH</a>
 </form>
 	<div id="searchRightLinks">
 		<a style="color:#000000" href="/equipment/newest">New Listings</a>
@@ -399,30 +405,57 @@ new Ajax.Autocompleter("searchbox", "autocomplete_choices", "/ajax/requests/sear
 </p>
 <p>Last updated July, 2014</p>	<!-- end div contents -->
 	</div>
-<div id="footer" style="padding-left: 120px; width: 851px; clear:both;"> 
-	<ul>
-		<li><a href="http://www.dotmed.com/legal/legalnotice.html">Legal</a></li>
-		<li><a href="http://www.dotmed.com/legal/privacynotice.html">Privacy</a></li>
-		<li><a href="http://www.dotmed.com/">Home</a></li>
-		<li><a href="http://www.dotmed.com/features/stats.html">Stats</a></li>
-		<li><a href="http://www.dotmed.com/features/advertise.html">Advertise</a></li>
-		<li><a href="http://www.dotmed.com/content/unsubscribe.html">Unsubscribe</a></li>
-		<li><a href="http://www.dotmed.com/certified/users.html">Directory</a></li>
-		<li><a href="http://www.dotmed.com/ph/">Parts Hunter</a></li>
-		<li><a href="http://www.dotmed.com/help/">Help</a></li>
-		<li class="border_none"><a href="http://www.dotmed.com/contactus.html">Contact Us</a></li>
-	</ul>
-<!-- end div footer -->
-</div>
-<div style="clear: left; text-align: center; padding-top: 2em; margin: 0 auto; line-height: 1.5em; font-size: 8pt">
+
+<div id="newfooter">
+	<div>
+		<table>
+			<tbody><tr>
+				<td><a href="http://www.dotmed.com/features/advertise.html">Advertise<br><span class="navFooterText">Increase Your<br>Brand Awareness</span></a></td>
+				<td><a href="http://www.dotmed.com/features/healthcare-providers.html">Auctions + Private Sales<br><span class="navFooterText">Get The<br>Best Price</span></a></td>
+				<td><a href="http://www.dotmed.com/features/buyersgohere.html">Buy Equipment/Parts<br><span class="navFooterText">Find The<br>Lowest Price</span></a></td>
+				<td><a href="http://www.dotmed.com/news/">Daily News<br><span class="navFooterText">Read The<br>Latest News</span></a></td>
+				<td><a href="http://www.dotmed.com/certified/users.html">Directory<br><span class="navFooterText">Browse All<br>DOTmed Users</span></a></td>
+				<td><a href="http://www.dotmed.com/certified/">Ethics on DOTmed<br><span class="navFooterText">View Our<br>Ethics Program</span></a></td>
+			</tr>
+			<tr>
+				<td><a href="http://www.dotmed.com/features/certified-parts/">Gold Parts Vendor Program<br><span class="navFooterText">Receive PH<br>Requests</span></a></td>
+				<td><a href="http://www.dotmed.com/features/auctions/gsd_info.html">Gold Service Dealer Program<br><span class="navFooterText">Receive RFP/PS<br>Requests</span></a></td>
+				<td><a href="http://www.dotmed.com/features/productivity-tools.html">Healthcare Providers<br><span class="navFooterText">See all<br>HCP Tools</span></a></td>
+				<td><a href="http://www.dotmed.com/careers/">Jobs/Training<br><span class="navFooterText">Find/Fill<br>A Job</span></a></td>
+				<td><a href="http://www.dotmed.com/features/partshunter.html">Parts Hunter +EasyPay<br><span class="navFooterText">Get Parts<br>Quotes</span></a></td>
+				<td><a href="http://www.dotmed.com/certified/">Recently Certified<br><span class="navFooterText">View Recently<br>Certified Users</span></a></td>
+			</tr>
+			<tr>
+				<td><a href="http://www.dotmed.com/certified/">Recently Rated<br><span class="navFooterText">View Recently<br>Certified Users</span></a></td>
+				<td><a href="http://www.dotmed.com/rental/">Rental Central<br><span class="navFooterText">Rent Equipment<br>For Less</span></a></td>
+				<td><a href="http://www.dotmed.com/features/sellersgohere.html">Sell Equipment/Parts<br><span class="navFooterText">Get The<br>Most Money</span></a></td>
+				<td><a href="http://www.dotmed.com/forums/?forum=3">Service Technicians Forum<br><span class="navFooterText">Find Help<br>And Advice</span></a></td>
+				<td><a href="http://www.dotmed.com/features/rfp.html">Simple RFP<br><span class="navFooterText">Get Equipment<br>Quotes</span></a></td>
+				<td><a href="http://www.dotmed.com/virtual-trade-show/">Virtual Trade Show<br><span class="navFooterText">Find Service<br>For Equipment</span></a></td>
+			</tr>
+		</tbody></table>
+	</div>
+	<div class="navFooterLinkLine">
+		<ul>
+			<li><a href="http://www.dotmed.com/legal/legalnotice.html">Legal</a></li>
+			<li><a href="http://www.dotmed.com/legal/privacynotice.html">Privacy</a></li>
+			<li><a href="http://www.dotmed.com/">Home</a></li>
+			<li><a href="http://www.dotmed.com/features/stats.html">Stats</a></li>
+			<li><a href="http://www.dotmed.com/content/unsubscribe.html">Unsubscribe</a></li>
+			<li><a href="http://www.dotmed.com/help/">Help</a></li>
+			<li class="border_none"><a href="http://www.dotmed.com/contactus.html">Contact Us</a></li>
+		</ul>
+	</div>
+
+</div><!-- end of footer -->
+<div id="belowFooter" '="">
 			Access and use of this site is subject to the terms and conditions of our <a href="/legal/legalnotice.html">LEGAL NOTICE</a> &amp; <a href="/legal/privacynotice.html">PRIVACY NOTICE</a><br>
 			Property of and Proprietary to DOTmed.com, Inc.
-			<a href="/copyright.html">Copyright ©2001-2014
+			<a href="/copyright.html">Copyright ©2001-2015
  DOTmed.com, Inc.</a><br>
 		ALL RIGHTS RESERVED<br>
 	<!-- end div above copyright notice -->
 	</div>
-
 
 
 <!-- end div wrap -->
