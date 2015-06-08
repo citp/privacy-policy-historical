@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the skyscape.com privacy policy that was archived on 2014-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141130133830id_/http%3A//www.skyscape.com/index/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the skyscape.com privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608172941id_/http%3A//www.skyscape.com/index/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <!--- TODO:  Insert Title Below -->
@@ -14,7 +14,7 @@
    <!-- <meta name="Robots" content="NOINDEX">-->
     <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE11">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="/css/SSO/formstyles.css" rel="stylesheet" type="text/css">
+	<link href="/css/SSO/formstyles.css" rel="stylesheet" type="text/css">
     <link href="/css/colorbox.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" media="all" type="text/css" href="/css/styles.css">
     <link rel="stylesheet" media="all" type="text/css" href="/css/ssstyle.css">
@@ -36,10 +36,10 @@
     <link rel="stylesheet" id="isotope-style-css" href="/css/medpresso/isotope.css?ver=1.0" type="text/css" media="all">
     <link rel="stylesheet" id="mqueries-style-css" href="/css/medpresso/mqueries.css?ver=1.0" type="text/css" media="all">
     <!--script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script-->
-
+	
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript" charset="utf-8"></script>
     <script src="//code.jquery.com/jquery-migrate-1.2.1.js" type="text/javascript" charset="utf-8"></script>
-
+	<script src="/js/jquery-ui-1.8.12.custom.min.js" type="text/javascript"></script>
     <script type="text/javascript" src="/js/medpresso/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
     
     <script type="text/javascript" src="/css/medpresso/rs-plugin/js/jquery.themepunch.plugins.min.js?rev=4.1.4&amp;ver=3.8.3"></script>
@@ -58,7 +58,7 @@
     <meta name="msApplication-ID" content="App">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="stylesheet" href="/js/medpresso/smartbanner/jquery.smartbanner.css" type="text/css" media="screen">
+    
     <meta name="TileImage" content="/images/medpresso/App/appicon.png">
     <!--- SmartBanner End --->
 
@@ -116,16 +116,6 @@
         return returnVar;
     }
 
-  (function (i, s, o, g, r, a, m) {
-        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-            (i[r].q = i[r].q || []).push(arguments)
-        }, i[r].l = 1 * new Date(); a = s.createElement(o),
-  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-
-    ga('create', 'UA-51649641-1', 'auto');
-    ga('send', 'pageview');
-	
     $('#search-text').live("keypress", function (e) {
         if (e.keyCode == 13) {
             searchProducts();
@@ -136,10 +126,15 @@
     function searchProducts() {
         var searchVal = document.getElementById('search-text').value;
         if (searchVal != '') {
-            window.location = '/estore/FullProductListing.aspx?sortby=ProductName&searchtxt=' + searchVal;
+            window.location = '/estore/FullProductListing.aspx?sortby=ProductName&searchtxt=' + searchVal + '&searchinresults=false';
         }
     }
+
+  
+
 </script>
+
+   
 
 <!-- PAGELOADER -->
 <div id="page-loader">
@@ -198,7 +193,7 @@
                             <img src="/images/icons/hp_Icon_TopHeader_MyAccount.jpg" /></a></div>
                     <div style="height: 22px; margin: auto;">
                         <a href="/secure/myaccount.aspx" title="My Account">My Account</a> -
-                        <a id="HeaderControl_AccountAction" title="Sign in to your account" class="HandCursor" href="/register/Login.aspx">Sign In</a>
+                        <a id="HeaderControl_AccountAction"></a>
                         &nbsp;</div>
                 </span>
                 <div style="height: 22px;">
@@ -251,44 +246,45 @@
         <div id="page-content" class="fixed-header">
             <!-- HEADER -->
      <header class="light-header">        
-		<div class="header-inner wrapper clearfix">
+		<div class="header-inner wrapper clearfix" style="position:relative;">
                             
-			<div id="logo" class="left-float">
-					<a id="overlay-logo" class="logotype" href="/index/home.aspx"><img src="/images/medpresso/logo/SkyscapeHeaderLogo_220x60.png" alt="Logo"></a>
-					<!--a id="defaut-logo" class="logotype" href="/index/home.aspx"><img src="/images/logo/SkyscapeHeaderLogo_150x36.png" alt="Logo"/></a-->
+			<div id="logo" class="left-float" style="position:relative;z-index:100000000;">
+					<a id="overlay-logo" class="logotype" href="/index/home.aspx" style="position:relative"><img src="/images/medpresso/logo/SkyscapeHeaderLogo_220x60.png" alt="Logo"></a>
 			</div>    
 			 
             <div id="search-box">
-  <form id="search-form" class="search" style="text-align:left;">
+    <form id="search-form" class="search" style="text-align:left;">
     <input id="search-text" name="q" placeholder="search" type="text" style="width: 68%;margin-left: -15px;margin-top: 0px;">
                                     <input type="hidden" name="cx" value="013022550384838677848:l_7jtjuokoe" id="Hidden1">
                                     <input type="hidden" name="cof" value="FORID:11;NB:1" id="Hidden2">
     <div id="search-button" style="width: 32%;" onclick="searchProducts();"><span>Go</span></div>
   </form>
+
             </div>
 			
 						<!-- MENU -->
      		<div class="menu clearfix">
    <nav id="main-nav" class="menu-main-menu-container">
       <ul id="primary" class="">
-        <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-192 current_page_item"><a href="/index/home.aspx" class="scroll-to"><img src="/images/medpresso/Skyscape-Cloud-line-32x32.png" width="32" height="32"></a></li>
+        
         <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/sml" class="scroll-to">APP</a></li>
-        <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/estore/FullProductListing.aspx?sortby=ProductName" class="scroll-to">PRODUCTS</a></li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/estore/fullproductlisting.aspx?sortby=ProductName" class="scroll-to">PRODUCTS</a></li>
         <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/group/grouphome.aspx" class="scroll-to">SCHOOLS/GROUPS</a></li>
         <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/support/supporthome.aspx" class="scroll-to">SUPPORT</a></li>
         <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/secure/myaccount.aspx" class="scroll-to">MY ACCOUNT</a></li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/aboutus.aspx" class="scroll-to">ABOUT US</a></li>
         <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/estore/shoppingcart.aspx" class="scroll-to">CART (0)</a></li>
-
         </ul>
     </nav>			
     <nav id="menu-controls" class="menu-main-menu-container right-float">
-		<ul id="menu-main-menu" class="">
-			<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-192 current_page_item"><a href="/index/home.aspx" class="scroll-to"><span class="c-dot"></span><span class="c-name">HOME</span></a></li>
+		<ul id="menu-main-menu" class="">                                                                                                               <!---->
+			
 			<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/sml" class="scroll-to"><span class="c-dot"></span><span class="c-name">APP</span></a></li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/estore/FullProductListing.aspx?sortby=ProductName" class="scroll-to"><span class="c-dot"></span><span class="c-name">PRODUCTS</span></a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/estore/fullproductlisting.aspx?sortby=ProductName" class="scroll-to"><span class="c-dot"></span><span class="c-name">PRODUCTS</span></a></li>
             <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/group/grouphome.aspx" class="scroll-to"><span class="c-dot"></span><span class="c-name">SCHOOLS/GROUPS</span></a></li>
             <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/support/supporthome.aspx" class="scroll-to"><span class="c-dot"></span><span class="c-name">SUPPORT</span></a></li>
             <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/secure/myaccount.aspx" class="scroll-to"><span class="c-dot"></span><span class="c-name">MY ACCOUNT</span></a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/aboutus.aspx" class="scroll-to"><span class="c-dot"></span><span class="c-name">ABOUT US</span></a></li>
             <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/estore/shoppingcart.aspx" class="scroll-to"><span class="c-dot"></span><span class="c-name">CART</span></a></li>
     </ul>
     </nav>			
@@ -479,12 +475,12 @@
 			</div>
     </section>
     
-    
+
     <!-- BEGIN Google Analytics -->
-    <script type="text/javascript">
+    <!--<script type="text/javascript">
         var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
         document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+    </script>
     <script type="text/javascript">
         try {
                 var pageTracker = _gat._getTracker("UA-161913-1");
@@ -492,7 +488,7 @@
             pageTracker._setLocalRemoteServerMode();
             pageTracker._trackPageview();
         } catch (err) { }
-    </script>
+    </script>-->
     <!-- END Google Analytics -->
 
 <!-- BEGIN Analytics Engine 
@@ -534,10 +530,10 @@
 </noscript>
 <!-- Quantcast END -->
 
-   <!-- NEW FOOTER -->
-   
+
+<!-- NEW FOOTER -->
 <div id="footerDiv">
-<section>
+    <section>
 <div class="section-inner">
 <div class="wrapper">
 <div class="column-section ">
@@ -558,39 +554,28 @@
     	<p><span><a href="http://www.facebook.com/skyscapeinc"><img src="/images/medpresso/FB_circle.png" width="25" height="25"></a>&nbsp;</span>
             <span><a href="http://twitter.com/skyscapeinc"><img src="/images/medpresso/TW_circle.png" width="25" height="25"></a>&nbsp;</span>
             <span><a href="http://www.linkedin.com/company/skyscape"><img src="/images/medpresso/LI_circle.png" width="25" height="25"></a>&nbsp;</span>
-            <span><a href="https://www.youtube.com/user/SkyscapeInc"><img src="/images/medpresso/YT_circle.png" width="25" height="25"></a></span>
+            <span><a href="https://www.youtube.com/c/skyscape"><img src="/images/medpresso/YT_circle.png" width="25" height="25"></a></span>
         </p>
     </div>
 </div>
 </div>
 </div>
 </section>
-<br>
-	<div id="copyText" class="text">Copyright © 2014. All rights reserved. Skyscape<sup>®</sup> is the registered trademark of Skyscape Medpresso, Inc.<br>All other trademarks, service marks and registrations are the intellectual properties of their respective owners.
+    <br>
+    <div id="copyText" class="text">
+        Copyright © 2015. All rights reserved. Skyscape<sup>®</sup> is the registered
+        trademark of Skyscape Medpresso, Inc.<br>
+        All other trademarks, service marks and registrations are the intellectual properties
+        of their respective owners.
     </div>
-    <div id="copyLinks"><a href="/index/privacy.aspx">Privacy Policy</a><span style="margin:0 10px 0 10px;"></span></div>
-    <div class="clear"></div>
-     
+    <div id="copyLinks">
+        <a href="/index/privacy.aspx">Privacy Policy</a><span style="margin: 0 10px 0 10px;"></span></div>
+    <div class="clear">
+    </div>
     
-    </div>
-
-  <!-- NEW FOOTER --> 
-  <!-- Google Code for Remarketing tag -->
-<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
-<!-- Google Code for Order Conversion Page -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 969362473;
-var google_conversion_language = "en";
-var google_conversion_format = "2";
-var google_conversion_color = "ffffff";
-var google_conversion_label = "IDEyCIeSzgcQqZidzgM";
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
+</div>
+<!-- NEW FOOTER -->
+<script src="/js/jquery.tools.min.js"></script>
 <script type="text/javascript" src="/js/medpresso/jquery.easing.1.3.js?ver=1.0"></script>
 <script type="text/javascript" src="/js/medpresso/jquery.easing.compatibility.js?ver=1.0"></script>
 <script type="text/javascript" src="/js/medpresso/jquery.visible.min.js?ver=1.0"></script>
@@ -606,28 +591,30 @@ var google_remarketing_only = true;
 <script type="text/javascript" src="/js/medpresso/jquery.scroll.min.js?ver=1.0"></script>
 <script type="text/javascript" src="/js/medpresso/jplayer/jquery.jplayer.min.js?ver=2.1.0"></script>
 <script type="text/javascript" src="/js/medpresso/jquery.isotope.min.js?ver=1.5.25"></script>
-<script type="text/javascript" src="/js/medpresso/xone/xone-form.js?ver=1.0"></script>    
-   <script src="/js/colorbox/jquery.colorbox.js" type="text/javascript"></script>
-   <script src="/js/sso/SSO.js" type="text/javascript"></script>
-
- <!--script src="/js/medpresso/smartbanner/jquery.smartbanner.js"></script>
-
-    <script type="text/javascript">
-        $(function() { $.smartbanner({ daysHidden: 0, daysReminder: 0, title: 'Skyscape' }) })
-    </script---->
-    
-    <!-- LAST SCRIPT -->
+<script type="text/javascript" src="/js/medpresso/xone/xone-form.js?ver=1.0"></script>
+<script src="/js/colorbox/jquery.colorbox.js" type="text/javascript"></script>
+<script src="/js/sso/SSO.js" type="text/javascript"></script>
+<script src="/js/scripts.js" type="text/javascript"></script>
+<!-- LAST SCRIPT -->
 <script type="text/javascript" src="/js/medpresso/xone/script.js?ver=1.0"></script>
-    
-    
+
+    <!-- Google Code for Remarketing Tag -->
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 969362473;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+    <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/969362473/?value=0&amp;guid=ON&amp;script=0"/>
+    </div>
+    </noscript>
 
 
-
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/969362473/?label=IDEyCIeSzgcQqZidzgM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
 
 
 </div></body></html>
