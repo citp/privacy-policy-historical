@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingstoncommunications.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207123237id_/http%3A//www.kc.co.uk/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingstoncommunications.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608020327id_/http%3A//www.kc.co.uk/legal/privacy-policy) for the most accurate reproduction.*
 
 # KC | Privacy Policy
 
