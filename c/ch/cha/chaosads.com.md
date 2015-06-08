@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chaosads.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204200631id_/http%3A//www.chaosads.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chaosads.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608160336id_/http%3A//www.chaosads.com/privacy_policy) for the most accurate reproduction.*
 
 # Free classifieds ads in USA - Chaos Ads - free classifieds in USA
 
