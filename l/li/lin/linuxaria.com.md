@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linuxaria.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227085009id_/http%3A//linuxaria.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linuxaria.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608035145id_/http%3A//linuxaria.com/privacy-policy) for the most accurate reproduction.*
 
 # » Linuxaria – Everything about GNU/Linux and Open source Privacy Policy
 
@@ -14,7 +14,7 @@ Like many other Web sites, [www.linuxaria.com](http://www.linuxaria.com/) makes
 
   * Google, as a third party vendor, uses cookies to serve ads on[www.linuxaria.com](http://www.linuxaria.com/).
   * Google’s use of the DART cookie enables it to serve ads to users based on their visit to [www.linuxaria.com](http://www.linuxaria.com/) and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL -<http://www.google.com/privacy_ads.html>.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL –<http://www.google.com/privacy_ads.html>.
 
 
 
