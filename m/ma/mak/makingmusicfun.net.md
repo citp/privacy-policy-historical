@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makingmusicfun.net privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122234130id_/http%3A//www.makingmusicfun.net/htm/tos.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makingmusicfun.net privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041210id_/http%3A//www.makingmusicfun.net/htm/tos.htm) for the most accurate reproduction.*
 
 # Terms Of Use/Privacy Policy | MakingMusicFun.net
 
@@ -58,4 +58,4 @@ From time to time objectionable ads are served to our site. If you come across o
   
 
 
-[Sign up](https://web.archive.org/web/20141122234130id_/http%3A//www.makingmusicfun.net/signup.htm) to receive the MakingMusicFun.net Newsletter so you don't miss a thing!
+[Sign up](https://web.archive.org/web/20150608041210id_/http%3A//www.makingmusicfun.net/signup.htm) to receive the MakingMusicFun.net Newsletter so you don't miss a thing!
