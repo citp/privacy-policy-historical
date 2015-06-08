@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budgettravel.ie privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013045344id_/http%3A//www.budgettravel.ie/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgettravel.ie privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608020741id_/http%3A//www.budgettravel.ie/info/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Budget Travel
 
@@ -16,5 +16,6 @@ Laws in force in the USA require Budget Travel to collect certain information fr
 
 In addition, under U.S. Law, U.S. Customs and Border Protection (CBP) will receive certain travel and reservation information, known as Passenger Name Record or PNR data, about passengers flying between the European Union and the U.S. CBP has undertaken that it uses this PNR data for the purposes of preventing and combating terrorism and other transnational serious crimes. The PNR may include information provided during the booking process or held by airlines or travel agents. The information will be retained for at least three years and six months and may be shared with other authorities.
 
-Further information about these arrangements, including measures to safeguard your personal data, can be obtained on www.dhs.gov and ec.europa.eu.  
- 
+Further information about these arrangements, including measures to safeguard your personal data, can be obtained on www.dhs.gov and ec.europa.eu.
+
+We´ve implemented the Google Analytics display advertising feature. We and third-party vendors use first-party cookies (such as the Google Analytics cookie) or other first-party identifiers, and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together. You can opt out of the Google Analytics Advertising Features that we use here: <https://tools.google.com/dlpage/gaoptout/>
