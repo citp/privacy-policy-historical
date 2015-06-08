@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spizoo.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216221151id_/http%3A//spizoo.com/pages.php%3Fid%3Dprivacy-policy%26nats%3DMC4wLjEyLjI4LjAuMC4wLjAuMA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spizoo.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608031422id_/http%3A//www.spizoo.com/pages.php%3Fid%3Dprivacy-policy%26nats%3DMC4wLjEyLjI4LjAuMC4wLjAuMA) for the most accurate reproduction.*
 
 # Privacy Policy - Spizoo: World Class Adult Entertainment
 
@@ -24,7 +24,7 @@ Financial Data will only be shared with third party processors as necessary to i
 
 ### Disclosures of Information
 
-Your name, physical address, phone number and password are considered confidential. However, all information you provide to us may be shared with other third parties as necessary to comply with applicable law, to cooperate with law enforcement and the court system.
+Your name, physical address, phone number and password are considered confidential. However, all information you provide to us may be shared with other third parties as necessary fulfill technical requirement or to comply with applicable law, to cooperate with law enforcement and the court system.
 
 ### Financial Information
 
@@ -47,6 +47,14 @@ We utilize the services of outside advertising agencies to advertise our service
 "Opt-In" offers may be presented to the subscriber with the option to express the subscriber's preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes", the subscriber indicates that the subscriber "Opts-In" to that offer and thereby agrees and assents that the subscriber's personal information and data may be disclosed to third-parties.
 
 "Opt-Out" offers may be presented with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "Opt-Out" of the offer) then the site may transfer the subscriber's personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
+
+### "Opt‐In Email Offers 
+
+By accepting membership to this site, the subscriber expressly and specifically acknowledges and agrees that it may receive from time to time, email communications from this site or from third‐party services. These communications shall be deemed to be opt‐in email communications by virtue of the subscriber joining this site. Thru this process, the subscriber’s personal information and data may be disclosed to third‐party services.
+
+### Email Opt‐In And User Communication
+
+The subscriber's e‐mail address may be used by the site to communicate special offers and other relevant information such as new services, subscription information, etc. In addition, there may be occasions when a subscriber will be presented with special offers either from the operators of the site or from third‐party service, which may include consent to receive e‐mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials. These communications shall be deemed to be opt‐in email communications by virtue of the subscriber joining this site. The subscriber may opt‐out of a mailing list by clicking on the removal link located at the bottom of the promotional email or by visiting the site www.mailgo2.com
 
 ### Disclaimer 
 
