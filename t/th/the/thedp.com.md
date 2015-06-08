@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thedp.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108203154id_/http%3A//www.thedp.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedp.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609013146id_/http%3A//www.thedp.com/page/privacy) for the most accurate reproduction.*
 
-# The Daily Pennsylvanian ::
+# The Daily Pennsylvanian - Privacy Policy
 
 Effective Date of This Online Privacy Policy  
 This Online Privacy Policy is effective as of February 23, 2009.
