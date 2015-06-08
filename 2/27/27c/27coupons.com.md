@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 27coupons.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112031637id_/http%3A//www.27coupons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 27coupons.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608115941id_/http%3A//www.27coupons.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
