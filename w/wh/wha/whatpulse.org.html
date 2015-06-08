@@ -1,405 +1,288 @@
-<!--The following is the downloaded HTML source of the whatpulse.org privacy policy that was archived on 2014-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141124164701id_/http%3A//www.whatpulse.org/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the whatpulse.org privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608135334id_/http%3A//whatpulse.org/pages/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head> 
-	<meta http-equiv="content-type" content="text/html; charset=utf-8"> 
-	<meta name="robots" content="index, follow, noarchive"> 
-	<title>Privacy Policy | WhatPulse</title> 
-
-	<meta property="og:image" content="http://amcdn.whatpulse.org/images/whatpulse-w.png">
-	<meta property="og:title" content="Privacy Policy | WhatPulse">
-	<meta property="og:site_name" content="WhatPulse">
-	<meta property="og:description" content="Get to know your time with your computer">
-
-	<link rel="stylesheet" href="http://amcdn.whatpulse.org/min/g=css" type="text/css">
- 
-
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://amcdn.whatpulse.org/min/g=js&amp;jsopt="></script>
-
-	<script type="text/javascript"> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="robots" content="index, follow, noarchive">
+<title>Privacy Policy | WhatPulse</title>
+<meta property="og:image" content="http://whatpulse.org/images/whatpulse-w.png">
+<meta property="og:title" content="Privacy Policy | WhatPulse">
+<meta property="og:site_name" content="WhatPulse">
+<meta property="og:description" content="Get to know your time with your computer">
+<link rel="stylesheet" href="http://whatpulse.org/min/g=css" type="text/css">
+<link rel="stylesheet" href="/css/font-awesome.css" type="text/css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://whatpulse.org/min/g=js&amp;jsopt="></script>
+<script type="text/javascript"> 
 	
 	jQuery.noConflict();
 	
-	// function for lazy loading the slider images
-	var loadImg = function(slider, page) {
-		jQuery("#wp-front-slide").find('#slider-' + page).each(function() {
-		    if (jQuery(this).attr('src') === '') {
-		        var newsrc = jQuery(this).attr('data-src');
-		        jQuery(this).attr('src', newsrc);
-			jQuery(this).css('background-image', 'url(' + newsrc + ')');
-		    }
-		});
-	};
+	
 	
 	// jQuery loading
 	jQuery(document).ready(function() {
-		jQuery(".colorbox_login").colorbox({width:"600px", height:"300px", opacity:"0.5"});
-
-		jQuery("#wp-menu ul ").css({display: "none"}); // Opera Fix
-		jQuery("#wp-menu li").hover(function(){
-			jQuery(this).find('ul:first').css({visibility: "visible",display: "none"}).slideDown(200);
-		},function(){
-			jQuery(this).find('ul:first').slideUp(200);
-		});
-		
-		// scroll to top link
-		jQuery("#wp-totop").click(function(event){
-			jQuery('html, body').animate({scrollTop: 0}, 'slow');
-			event.preventDefault();
-			return false;
-		});
-		
-		jQuery('#twitterfeed').twitterSearch({ 
-			// no fade 
-			animOut: { opacity: 1 }, 
-			colorExterior: '#ddd', 
-			colorInterior: '#2d323e', 
-			title: ''
-		});
-		
-		var playingTweets = true;
-		var cookieDisableTwitter = wpGetCookie("WPTWITTERFEEDDISABLE");
-		if (cookieDisableTwitter == "true") {
-			playingTweets = false;
-			jQuery('#twitterfeed').hide();
-			jQuery('#pausetweets').text(" Play");
-			jQuery('#pausetweets').removeClass("fa-pause");
-			jQuery('#pausetweets').addClass("fa-play");
-			jQuery('#twitterfeed').twitterSearch.pauseFeed(true);
-		}
-
-		jQuery('#pausetweets').click(function(event) {
-			if (playingTweets == true) {
-				jQuery('#twitterfeed').hide("slow");
-				jQuery('#pausetweets').text(" Play");
-				jQuery('#pausetweets').removeClass("fa-pause");
-				jQuery('#pausetweets').addClass("fa-play");
-				jQuery('#twitterfeed').twitterSearch.pauseFeed(true);
-				wpSetCookie("WPTWITTERFEEDDISABLE", "true", 100);
-				playingTweets = false;
-			}
-			else {
-				jQuery('#twitterfeed').show("slow");
-				jQuery('#pausetweets').text(" Pause");
-				jQuery('#pausetweets').removeClass("fa-play");
-				jQuery('#pausetweets').addClass("fa-pause");
-				jQuery('#twitterfeed').twitterSearch.pauseFeed(false);
-				wpSetCookie("WPTWITTERFEEDDISABLE", "false", 100);
-				playingTweets = true;
-			}
-			
-			event.preventDefault();
-		});
-		
-		// lazy image loading
-		jQuery("img.lazy").lazyload({effect: 'fadeIn', placeholder: ''});
-		// forum posts ticker
-		jQuery("#latest_forum_posts").forumTicker({number_of_posts: 5});
 		
 	
 		
 	});
 
-  </script> 
-</head> 
-	<body class="backgroundlevel-low cssstyle-style6 readonstyle-button font-family-reflex font-size-is-default typography-style-light col12 option-com-content view-article"> 
-
-		<div id="rt-page-surround"> 
-			<div class="rt-container"> 
-				<div class="rt-container-bg"> 
-					
-					
-					<div id="rt-header">
-
-						<div style="top: 0px; z-index: 1; background-image: url(http://amcdn.whatpulse.org/images/headerback-new.jpg); width: 100%; height: 110px;"></div>
-						
-						<div class="rt-grid-4" style="position: absolute; top: -17px; left: 10px; z-index: 2;">
-							<div class="rt-block logo-block">
-								<div class="centered" style="padding-left: 50px;"> <a href="/" id="rt-logo"><img class="lazy" src="http://amcdn.whatpulse.org/images/whatpulse-header-logo-4.png" style="height: 80px;"></a> </div>
-							</div>
-						</div>
-						
-												
-											<div class="rt-grid-2 rt-omega rt-block" style="position: absolute; top: 30px; right: 65px; z-index: 2;">
-
-							<p align="right">
-								</p><form action="/search/" method="get">
-									<input id="whatpulse_search_str" name="str" type="text" class="inputbox" placeholder=" Search...">
-								</form>
-							<p></p>
-
-						</div>
-						
-																		<div class="rt-grid-12 rt-omega rt-block flushbottom nomarginbottom" style="position: absolute; top: -35px; left: 795px; z-index: 2;">
-							<p align="right">
-								</p><div><a href="#" class="fb_button fb_button_large" onclick="fbLogin('https://www.facebook.com/dialog/oauth?client_id=280865548660110&amp;redirect_uri=http%3A%2F%2Fwhatpulse.org%2Ffacebook%2Flogin%2F&amp;state=b1f93ee1c737c170170a048912a69947&amp;scope=email%2C+user_birthday%2C+user_location&amp;display=popup'); return false;"><span class="fb_button_text">Login with Facebook</span></a></div>
-							<p></p>
-						</div>
-																					<div class="clear"></div>
-					</div>
-				
-						
-					
-									<div id="rt-navigation">
-						<div class="rt-grid-12 rt-alpha"> 
-							<div class="rt-fusionmenu"> 
-								<ul class="menutop level1 sf-menu" id="wp-menu">
+  </script>
+</head>
+<body class="backgroundlevel-low cssstyle-style6 readonstyle-button font-family-reflex font-size-is-default typography-style-light col12 option-com-content view-article">
+<div id="rt-page-surround">
+<div class="rt-container">
+<div class="rt-container-bg">
+<div id="rt-header">
+<div style="top: 0px; z-index: 1; background-image: url(http://whatpulse.org/images/headerback-new.png); width: 100%; height: 110px;"></div>
+<div class="rt-grid-4" style="position: absolute; top: -17px; left: 10px; z-index: 2;">
+<div class="rt-block logo-block">
+<div class="centered" style="padding-left: 50px;"> <a href="/" id="rt-logo"><img class="lazy" src="http://whatpulse.org/images/whatpulse-header-logo-4.png" style="height: 80px;"></a> </div>
+</div>
+</div>
+<div class="rt-grid-2 rt-omega rt-block" style="position: absolute; top: 30px; right: 65px; z-index: 2;">
+<p align="right">
+</p><form id="searchform" class="" action="/search/" method="get">
+<input id="whatpulse_search_str" name="str" class="inputbox sb_input" type="text" placeholder=" Search..." autocomplete="off">
+<ul class="sb_dropdown" style="display:none;">
+<li class="sb_filter">LOOK FOR</li>
+<li><input type="radio" name="typesearch" id="users" value="users" checked="checked"><label for="users"><strong>Username</strong></label></li>
+<li><input type="radio" name="typesearch" id="applications" value="applications"><label for="applications">Application</label></li>
+<li><input type="radio" name="typesearch" id="teams" value="teams"><label for="teams">Team</label></li>
+<li><input type="radio" name="typesearch" id="countries" value="countries"><label for="countries">Country</label></li>
+</ul>
+</form>
+<p></p>
+</div>
+<div class="rt-grid-12 rt-omega rt-block flushbottom nomarginbottom" style="position: absolute; top: -35px; left: 795px; z-index: 2;">
+<p align="right">
+</p><div><a href="#" class="fb_button fb_button_large" onclick="fbLogin('https://www.facebook.com/dialog/oauth?client_id=280865548660110&amp;redirect_uri=http%3A%2F%2Fwhatpulse.org%2Ffacebook%2Flogin%2F&amp;state=d1dbe852a434e9af045ba87cc0892961&amp;scope=email%2C+user_birthday%2C+user_location&amp;display=popup'); return false;"><span class="fb_button_text">Login with Facebook</span></a></div>
+<p></p>
+</div>
+<div class="clear"></div>
+</div>
+<div id="rt-navigation">
+<div class="rt-grid-12 rt-alpha">
+<div class="rt-fusionmenu">
+<ul class="menutop level1 sf-menu" id="wp-menu">
 <li class="root " style="width: 110px"><a class="item bullet orphan" href="/"><span>Home</span></a></li>
 <li class="root " style="width: 151px"><a class="item bullet orphan" href="/downloads/"><span>Downloads</span></a></li>
 <li class="root parent " style="width: 151px"><a class="item bullet daddy" href="/stats/"><span>Statistics<span class="daddyicon"></span></span></a>
-  <div class="fusion-submenu-wrapper level2" style="width:180px;"> 
-    <ul class="level2" style="width:180px;">
+<div class="fusion-submenu-wrapper level2" style="width:180px;">
+<ul class="level2" style="width:180px;">
 <li class=""><a class="item bullet orphan " href="/stats/apps/"><span>Applications</span></a></li>
 <li class=""><a class="item bullet orphan " href="/stats/input/"><span>Keyboard/mouse</span></a></li>
 <li class=""><a class="item bullet orphan " href="/stats/bandwidth/"><span>Bandwidth</span></a></li>
 <li class=""><a class="item bullet orphan " href="/stats/uptime/"><span>Uptime</span></a></li>
 <li class=""><a class="item bullet orphan " href="/stats/referrals/"><span>Referrals</span></a></li>
 <li class=""><a class="item bullet daddy " href="/stats/teams/"><span>Teams<span class="daddyicon"></span></span></a>
-  <div class="fusion-submenu-wrapper level3" style="width:180px;"> 
-    <ul class="level3" style="width:180px;">
+<div class="fusion-submenu-wrapper level3" style="width:180px;">
+<ul class="level3" style="width:180px;">
 <li class=""><a class="item bullet orphan " href="/stats/teams/input/"><span>Keyboard/mouse</span></a></li>
 <li class=""><a class="item bullet orphan " href="/stats/teams/bandwidth/"><span>Bandwidth</span></a></li>
 <li class=""><a class="item bullet orphan " href="/stats/teams/uptime/"><span>Uptime</span></a></li>
-</ul>   <div class="drop-bot"></div>
-  </div>
- </li>
+</ul> <div class="drop-bot"></div>
+</div>
+</li>
 <li class=""><a class="item bullet daddy " href="/stats/countries/"><span>Countries<span class="daddyicon"></span></span></a>
-  <div class="fusion-submenu-wrapper level3" style="width:180px;"> 
-    <ul class="level3" style="width:180px;">
+<div class="fusion-submenu-wrapper level3" style="width:180px;">
+<ul class="level3" style="width:180px;">
 <li class=""><a class="item bullet orphan " href="/stats/countries/input/"><span>Keyboard/mouse</span></a></li>
 <li class=""><a class="item bullet orphan " href="/stats/countries/bandwidth/"><span>Bandwidth</span></a></li>
 <li class=""><a class="item bullet orphan " href="/stats/countries/uptime/"><span>Uptime</span></a></li>
-</ul>   <div class="drop-bot"></div>
-  </div>
- </li>
+</ul> <div class="drop-bot"></div>
+</div>
+</li>
 <li class=""><a class="item bullet daddy " href="/stats/overall/"><span>Overall<span class="daddyicon"></span></span></a>
-  <div class="fusion-submenu-wrapper level3" style="width:180px;"> 
-    <ul class="level3" style="width:180px;">
+<div class="fusion-submenu-wrapper level3" style="width:180px;">
+<ul class="level3" style="width:180px;">
+<li class=""><a class="item bullet orphan " href="/stats/overall/computers/"><span>Global Computer Info</span></a></li>
 <li class=""><a class="item bullet orphan " href="/stats/overall/numbers/"><span>Project Numbers</span></a></li>
 <li class=""><a class="item bullet orphan " href="/stats/overall/signups/"><span>Signups</span></a></li>
 <li class=""><a class="item bullet orphan " href="/stats/overall/map/"><span>Map Overlay</span></a></li>
-</ul>   <div class="drop-bot"></div>
-  </div>
- </li>
-</ul>   <div class="drop-bot"></div>
-  </div>
- </li>
+</ul> <div class="drop-bot"></div>
+</div>
+</li>
+</ul> <div class="drop-bot"></div>
+</div>
+</li>
 <li class="root parent " style="width: 151px"><a class="item bullet daddy" href="/support/"><span>Support<span class="daddyicon"></span></span></a>
-  <div class="fusion-submenu-wrapper level2" style="width:180px;"> 
-    <ul class="level2" style="width:180px;">
+<div class="fusion-submenu-wrapper level2" style="width:180px;">
+<ul class="level2" style="width:180px;">
 <li class=""><a class="item bullet orphan " href="/kb/"><span>Help Center</span></a></li>
 <li class=""><a class="item bullet orphan " href="/forums/"><span>Forums</span></a></li>
 <li class=""><a class="item bullet orphan " href="/pages/contact/"><span>Contact Us</span></a></li>
 <li class=""><a class="item bullet orphan " href="/pages/computers/"><span>Computers</span></a></li>
 <li class=""><a class="item bullet orphan " href="/pages/webapi/"><span>Web API</span></a></li>
-</ul>   <div class="drop-bot"></div>
-  </div>
- </li>
+</ul> <div class="drop-bot"></div>
+</div>
+</li>
 <li class="root parent " style="width: 151px"><a class="item bullet daddy" href="/my/premium"><span>Premium<span class="daddyicon"></span></span></a>
-  <div class="fusion-submenu-wrapper level2" style="width:180px;"> 
-    <ul class="level2" style="width:180px;">
+<div class="fusion-submenu-wrapper level2" style="width:180px;">
+<ul class="level2" style="width:180px;">
 <li class=""><a class="item bullet orphan " href="/premium/"><span>What is Premium?</span></a></li>
-</ul>   <div class="drop-bot"></div>
-  </div>
- </li>
+</ul> <div class="drop-bot"></div>
+</div>
+</li>
 <li class="root " style="width: 123px"><a class="item bullet orphan colorbox_login" href="/my/login-mini/"><span>Login</span></a></li>
 <li class="root " style="width: 123px"><a class="item bullet orphan" href="/register/"><span>Register</span></a></li>
 </ul>
-							</div>
-							<div class="clear"></div>
-						</div> <!-- end rt-grid-12 rt-alpha -->
-						<div class="clear"></div> 
-					</div>  <!-- end rt-navigation -->
-								
-								
-				
-				<div id="rt-container-content" class="rt-hidden"> 
-
-<div id="rt-body-surround"> 
-			<div id="rt-breadcrumbs">
-	<div class="rt-breadcrumb-surround">
-			<span class="breadcrumbs pathway">
-											<a href="/" class="pathway">Home</a> <img src="http://amcdn.whatpulse.org/images/arrow.png" alt="">
-															<span class="no-link">Privacy Policy</span>
-										</span>
-	</div>
-
-	<div class="clear"></div>
-</div>	
-	<div id="rt-main" class="mb12">
-		<div class="rt-container">
-		
-			<div class="rt-grid-12"> 
-				<div class="rt-block component-block" style="padding-top: 0px; padding-bottom: 0px"> 
-					<div class="component-content rt-joomla"> 
-						<div class="blog-wrapper">
-							<div class="rt-article ">
-								<div class="rt-article-inner">
-																					
-										<div class="rt-article-right-col">
-											<div class="rt-articletitle"> 
-												<div class="module-title">
-													<h1 class="title">Privacy Policy</h1>
-													
-												</div>
-											</div>
-																						<div class="module-content">
-												<p>
-																									</p><p></p><div style="font-size: 13pt">The following page outlines how WhatPulse uses and protects any information that you give WhatPulse when using this website or the software client.</div>
-	
-
+</div>
+<div class="clear"></div>
+</div>  
+<div class="clear"></div>
+</div>  
+<div id="rt-container-content" class="rt-hidden">
+<div id="rt-body-surround">
+<div id="rt-breadcrumbs">
+<div class="rt-breadcrumb-surround">
+<span class="breadcrumbs pathway">
+<a href="/" class="pathway">Home</a> <img src="http://whatpulse.org/images/arrow.png" alt="">
+<span class="no-link">Privacy Policy</span>
+</span>
+</div>
+<div class="clear"></div>
+</div>
+<div id="rt-main" class="mb12">
+<div class="rt-container">
+<div class="rt-grid-12">
+<div class="rt-block component-block" style="padding-top: 0px; padding-bottom: 0px">
+<div class="component-content rt-joomla">
+<div class="blog-wrapper">
+<div class="rt-article ">
+<div class="rt-article-inner">
+<div class="rt-article-right-col">
+<div class="rt-articletitle">
+<div class="module-title">
+<h1 class="title">Privacy Policy</h1>
+</div>
+</div>
+<div class="module-content">
+<p>
+</p><p></p><div style="font-size: 13pt">The following page outlines how WhatPulse uses and protects any information that you give WhatPulse when using this website or the software client.</div>
 <small>WhatPulse is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. WhatPulse may change this policy from time to time by updating this page. By using any services of WhatPulse you agree to this privacy policy.</small><p></p>
-
 <br>
-
 <div style="font-size: 8pt">
-	
 <div class="rt-grid-7">
-	<h5>Information Collected</h5>
-	<p>WhatPulse only collects information (be it via a website form or the software client) that is relevant to the purpose of our website. When you register for a WhatPulse account, we will ask you for your name (as provided) and valid e-mail address. </p>
-
-	<p>The software client collects statistics from your computer(s) as you direct it too. The types of statistics can vary and you have the ability to turn off each individual type of statistic. When you 'pulse' to our website, the software client will only send the data you have allowed it to send.</p>
+<h5>Information Collected</h5>
+<p>WhatPulse only collects information (be it via a website form or the software client) that is relevant to the purpose of our website. When you register for a WhatPulse account, we will ask you for your name (as provided) and valid e-mail address. </p>
+<p>The software client collects statistics from your computer(s) as you direct it too. The types of statistics can vary and you have the ability to turn off each individual type of statistic. When you 'pulse' to our website, the software client will only send the data you have allowed it to send.</p>
+<p>The information collected with the WhatPulse client is only used for analytics as shown on the website. Information linked to your account will never be sold or handed over to a third party. Only aggregated, anonymized data may be used for global analytics by third parties, on-site advertisements or marketing purposes.</p>
 </div>
 <div class="rt-grid-3">
-	<em class="highlight white" style="font-size: 11pt">In summary,</em><br>
-	<div style="font-size: 11pt">We collect relevant information so you can participate in our website. You have complete control what statistics are gathered.</div>
+<em class="highlight white" style="font-size: 11pt">In summary,</em><br>
+<div style="font-size: 11pt">We collect relevant information so you can participate in our website. You have complete control what statistics are gathered. We don't sell your personal information and stats.</div>
 </div>
-
 <div class="rt-grid-7">
-	<h5>Keeping Information Safe</h5>
-	<p>You WhatPulse account is protected by a password for your privacy and security. This password is stored encrypted. Protect against unauthorized access to your account by logging off the website once you have finished using a shared computer.</p>
-
-	<p>Only WhatPulse staff who need personal information to perform a specific task (upon your request) are granted access to it. All of our employees are kept up to date on our privacy and security policies.</p>
+<h5>Keeping Information Safe</h5>
+<p>Your WhatPulse account is protected by a password for your privacy and security. This password is stored encrypted. Protect against unauthorized access to your account by logging off the website once you have finished using a shared computer.</p>
+<p>Only WhatPulse staff who need personal information to perform a specific task (upon your request) are granted access to it. All of our employees are kept up to date on our privacy and security policies.</p>
 </div>
 <div class="rt-grid-3">
-	<em class="highlight white" style="font-size: 11pt">In summary,</em><br>
-	<div style="font-size: 11pt">Your account is protected by a password. We encrypt it, you must also keep it secure. Our staff may access your account only to do a specific (requested) task.</div>
+<em class="highlight white" style="font-size: 11pt">In summary,</em><br>
+<div style="font-size: 11pt">Your account is protected by a password. We encrypt it, you must also keep it secure. Our staff may access your account only to do a specific (requested) task.</div>
 </div>
-
 <div class="rt-grid-7">
-	<h5>Policy Towards Children</h5>
-	<p>
-		You must be 13 or older to register a WhatPulse account. If you become aware that your child has provided WhatPulse with personal information without your consent, please contact us at <a href="mailto:privacy@whatpulse.org">privacy@whatpulse.org</a>.
-		If we become aware that a child under 13 has provided us with personal information without parental consent, we will take steps to remove such information.
-	</p>
+<h5>Policy Towards Children</h5>
+<p>
+You must be 13 or older to register a WhatPulse account. If you become aware that your child has provided WhatPulse with personal information without your consent, please contact us at <a href="mailto:privacy@whatpulse.org">privacy@whatpulse.org</a>.
+If we become aware that a child under 13 has provided us with personal information without parental consent, we will take steps to remove such information.
+</p>
 </div>
 <div class="rt-grid-3">
-	<em class="highlight white" style="font-size: 11pt">In summary,</em><br>
-	<div style="font-size: 11pt">We allow 13 years and older. If you are younger than 18 years of age, please ask your parent for consent.</div>
+<em class="highlight white" style="font-size: 11pt">In summary,</em><br>
+<div style="font-size: 11pt">We allow 13 years and older. If you are younger than 18 years of age, please ask your parent for consent.</div>
 </div>
-
 <div class="rt-grid-7">
-	<h5>Effective Date of this Privacy Policy</h5>
-	<p>This privacy policy is effective as of 22 December, 2012.</p>
+<h5>Effective Date of this Privacy Policy</h5>
+<p>This privacy policy is effective as of 22 December, 2012.</p>
 </div>
 <div class="rt-grid-3">
-	<em class="highlight white" style="font-size: 11pt">In summary,</em><br>
-	<div style="font-size: 11pt">Effective as of December 22, 2012.</div>
+<em class="highlight white" style="font-size: 11pt">In summary,</em><br>
+<div style="font-size: 11pt">Effective as of December 10, 2014.</div>
+</div>
+</div>
+<p></p>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>  
+</div>  
+</div>  
+<div class="clear"></div>
+</div>  
+</div>  
+<div class="clear"></div>
+</div>  
+</div>  
+<div class="clear"></div>
+</div>  
+<div class="clear"></div>
+</div>  
+</div>   </div>  
+<div id="rt-footer-surround">
+<div id="rt-footer">
+<div class="rt-grid-4 rt-alpha rt-block" style="padding-left: 25px">
+<div class="module-title"><h2 class="title">Latest forum posts</h2></div>
+<div class="module-content">
+<div id="latest_forum_posts">
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="rt-grid-4 rt-block">
+<div class="module-title"><h2 class="title">People Tweeting</h2></div>
+<div class="module-content">
+<div id="twitterfeed" class="twitter" title="Mouse away to resume scrolling tweets" style="height: 250px; width: 200px"></div>
+<div style="padding: 5px"><a href="#" class="fa fa-pause" id="pausetweets" onclick="return false"> Pause</a></div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="rt-grid-4 rt-omega rt-block">
+<div class="module-title"><h2 class="title">Get Social!</h2></div>
+<div class="module-content">
+<p>
+<a href="http://twitter.com/whatpulse" target="_blank">
+<img data-original="http://whatpulse.org/images/icons/twitter.png" width="45px" class="lazy" alt="Follow us on twitter!" border="0">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/whatpulseofficial" target="_blank">
+<img data-original="http://whatpulse.org/images/icons/facebook.png" width="45px" class="lazy" alt="Facebook me" border="0">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="http://www.youtube.com/OfficialWhatPulse" target="_blank">
+<img data-original="http://whatpulse.org/images/icons/youtube.png" width="45px" class="lazy" alt="YouTube channel" border="0">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://google.com/+WhatpulseOrg" target="_blank">
+<img data-original="http://whatpulse.org/images/icons/googleplus.png" class="lazy" width="45px" alt="Google Plus" border="0">
+</a>
+</p>
+<div class="clear"></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="rt-copyright">
+<div class="rt-grid-4 rt-alpha rt-block">
+<span class="copytext">Designed by <a href="http://www.rockettheme.com/" target="_blank">RocketTheme</a> - © 2003-2015 WhatPulse</span>
+</div>
+<div class="rt-grid-4 rt-block totop-block">
+<a href="#" id="wp-totop"><span class="totop-desc">Back to Top</span></a>
+</div>
+<div class="rt-grid-4 rt-omega rt-block">
+<span class="copytext">
+<a href="/pages/about/">About</a> - <a href="/pages/privacy/">Privacy</a> -
+<a href="/pages/tos/">Terms</a> - <a href="/kb/">Help Center</a> -
+<a href="http://www.zazzle.com/whatpulse" target="_blank">Shop</a>
+</span>
+<span class="copytext">All times are in <span id="disptz">2015-06-08</span>. Click <a href="/pages/change/timezone">here</a> to change.</span>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
 </div>
 
-</div>
-
-
-																								<p></p>
-												<div class="clear"></div>	
-	
-																							</div>
-											<div class="clear"></div>
-											
-										</div> <!-- end rt-article-right-col -->
-																	</div> <!-- end rt-article-inner -->
-							</div> <!-- end rt-article -->
-							<div class="clear"></div>
-						</div> <!-- end blog-wrapper -->
-					</div> <!-- end component-content rt-joomla -->
-					<div class="clear"></div> 
-				</div> <!-- end rt-block component-block -->
-			</div> <!-- end rt-grid-12 -->
-			<div class="clear"></div> 
-			
-		</div> <!-- end rt-container -->
-		<div class="clear"></div> 
-	</div> <!-- end rt-main -->
-</div> <!-- end rt-body-surround -->		</div> <!-- end rt-container-content -->
-
-		<div id="rt-footer-surround"> 
-			<div id="rt-footer">
-				
-				<div class="rt-grid-4 rt-alpha rt-block" style="padding-left: 25px"> 
-
-					<div class="module-title"><h2 class="title">Latest forum posts</h2></div> 
-					<div class="module-content"> 
-	
-						<div id="latest_forum_posts">
-						</div>
-								
-						<div class="clear"></div> 
-					</div> 
-				</div>
-				
-				<div class="rt-grid-4 rt-block"> 
-					<div class="module-title"><h2 class="title">People Tweeting</h2></div> 
-					<div class="module-content"> 
-
-						<div id="twitterfeed" class="twitter" title="Mouse away to resume scrolling tweets" style="height: 250px; width: 200px"></div>
-						<div style="padding: 5px"><a href="#" class="fa fa-pause" id="pausetweets" onclick="return false"> Pause</a></div>
-						<div class="clear"></div> 
-					</div> 
-				</div>
-				
-				<div class="rt-grid-4 rt-omega rt-block"> 
-				
-					<div class="module-title"><h2 class="title">Get Social!</h2></div> 
-					<div class="module-content"> 
-						<p>
-							<a href="http://twitter.com/whatpulse" target="_blank">
-								<img data-original="http://amcdn.whatpulse.org/images/icons/twitter.png" width="45px" class="lazy" alt="Follow us on twitter!" border="0">
-							</a>
-							&nbsp;&nbsp;&nbsp;
-							<a href="https://www.facebook.com/whatpulseofficial" target="_blank">
-								<img data-original="http://amcdn.whatpulse.org/images/icons/facebook.png" width="45px" class="lazy" alt="Facebook me" border="0">
-							</a>
-							&nbsp;&nbsp;&nbsp;
-							<a href="http://www.youtube.com/OfficialWhatPulse" target="_blank">
-								<img data-original="http://amcdn.whatpulse.org/images/icons/youtube.png" width="45px" class="lazy" alt="YouTube channel" border="0">
-							</a>
-									
-							&nbsp;&nbsp;&nbsp;
-							<a href="https://google.com/+WhatpulseOrg" target="_blank">
-								<img data-original="http://amcdn.whatpulse.org/images/icons/googleplus.png" class="lazy" width="45px" alt="Google Plus" border="0">
-							</a>
-									
-						</p>
-						<div class="clear"></div> 
-					</div> 
-					
-				</div> 
-				<div class="clear"></div> 
-			</div>
-			
-			<div id="rt-copyright"> 
-				<div class="rt-grid-4 rt-alpha rt-block"> 
-					<span class="copytext">Designed by <a href="http://www.rockettheme.com/" target="_blank">RocketTheme</a> - © 2003-2014 WhatPulse</span> 
-				</div>	 
-				<div class="rt-grid-4 rt-block totop-block"> 
-					<a href="#" id="wp-totop"><span class="totop-desc">Back to Top</span></a>
-				</div> 
-				<div class="rt-grid-4 rt-omega rt-block"> 
-					<span class="copytext">
-						<a href="/pages/about/">About Us</a> - <a href="/pages/privacy/">Privacy</a> - 
-						<a href="/pages/tos/">Terms</a> - <a href="/kb/">Help Center</a>
-					</span>
-					<span class="copytext">All times are in <span id="disptz">2014-11-24</span>. Click <a href="/pages/change/timezone">here</a> to change.</span>
-					
-				</div> 
-				<div class="clear"></div> 
-			</div> 
-
-		</div> 
-	</div> 
-</div> 
-</div> 
- 
 <script type="text/javascript">
 
 var _gaq = _gaq || [];
@@ -422,15 +305,7 @@ jQuery('#disptz').timezone({
 });
 
 </script>
-<!--
-	SQL queries: 0
-	Memory: 4.50MB
-	
-	SQL time: 0.0000008
-	PHP time: 0.2363888
-	total time: 0.2363888
-	
--->
  
+
 
 </body></html>
