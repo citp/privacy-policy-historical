@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doseofcolors.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121044254id_/http%3A//doseofcolors.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doseofcolors.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608053735id_/http%3A//www.doseofcolors.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,6 +67,6 @@ DOSE OF COLORS is not responsible for the privacy policies or practices of any t
 
 If you have any questions about this privacy policy or DOSE OF COLORS'S treatment of your personal information, please write:
 
-  * by email to privacy@doseofcolors.com;
+  * by email to info@doseofcolors.com;
 
 
