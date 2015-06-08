@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the co-optimus.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007150053id_/http%3A//www.co-optimus.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the co-optimus.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608161227id_/http%3A//www.co-optimus.com/privacy.php) for the most accurate reproduction.*
 
 # Co-Optimus - Your Prime Source for Co-Op Gaming - Privacy Policy Page
 
