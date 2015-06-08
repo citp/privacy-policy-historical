@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdwallpapersfactory.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227033455id_/http%3A//hdwallpapersfactory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwallpapersfactory.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608040911id_/http%3A//hdwallpapersfactory.com/privacy-policy) for the most accurate reproduction.*
 
 # Pricacy Policy - HD Wallpapers
 
@@ -27,4 +27,4 @@ This policy is effective from June 25th 2011.
 
 Our **HD Wallpapers** website performance
 
-Website Loaded in 0.186 seconds (1MB)
+Website Loaded in 0.1897 seconds (1MB)
