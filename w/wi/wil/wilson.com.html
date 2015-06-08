@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wilson.com privacy policy that was archived on 2014-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141227093105id_/http%3A//www.wilson.com/en-us/legal) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wilson.com privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608121034id_/http%3A//www.wilson.com/en-us/legal) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class=" js "><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -30,6 +30,7 @@
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=405966065256"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NNM3BJ"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
         // <![CDATA[
+        
         // bgImageURL is the path to the background image of the current page.
         var bgImageURL = '/en-us/globalcontent/images/13623/w_bg-white-diag2.jpg';
         //video player
@@ -54,6 +55,129 @@
         <!-- alias jQuery 1.8.3 into $j - all supporting files are in v2 directory -->
 		<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 		<script src="/v2/js/jquery.plugins.js" type="text/javascript" charset="utf-8"></script>
+		
+           <script type="text/javascript" charset="utf-8" src="/furniture/js/fancybox/latest/jquery.fancybox.js"> </script>
+  			<link rel="stylesheet" href="/furniture/js/fancybox/latest/jquery.fancybox-violator.css" type="text/css" media="screen">
+  			<link rel="stylesheet" href="/furniture/js/fancybox/latest/helpers/jquery.fancybox-thumbs.css" type="text/css" media="screen">
+		<script type="text/javascript" src="/furniture/js/fancybox/latest/helpers/jquery.fancybox-thumbs.js"></script>
+  <script>
+
+  jQuery( document ).ready(function( $ ) {
+	 
+	  
+	  var visited = $.cookie('visited'); // create the cookie
+	    if (visited == 'yes') {
+	        return false; // second page load, cookie is active so do nothing
+	    } else {
+	        openFancybox(); // first page load, launch fancybox
+	    };
+	    // assign cookie's value and expiration time
+	    $.cookie('visited', 'yes', {
+	        expires: 1 // the number of days the cookie will be effective
+	    });
+	  
+	 
+	  $("#sportLink").fancybox({
+			'padding': '0', 
+			'autoScale' : true,
+			'fitToView' : true,
+			'height' : '500',
+			'width' : '500',
+			'type': 'iframe',
+			'scrolling'   : 'no',
+			'href' : 'https://www.wilson.com/dyn/team/ecomm/violator/baseball/wcg.html'
+			
+		
+		}); 	  
+		});
+
+  	function openFancybox() {
+	    // launches fancybox after half second when called
+	    setTimeout(function () {
+	        $('#sportLink').trigger('click');
+	    }, 500);
+	};
+	
+	  jQuery( document ).ready(function( $ ) {
+			//Shipping Popup
+			//alert('check1');
+			
+			$('#shipBtn').click( function() {
+				 
+				//alert('WORKS');
+			
+				 $.fancybox.open({
+						'padding': '0', 
+						'autoScale' : true,
+						'fitToView' : true,
+						'height' : '500',
+						'width' : '500',
+						'type': 'iframe',
+						'scrolling'   : 'no',
+						'href' : 'https://www.wilson.com/dyn/team/ecomm/violator/gen/shipping.html'
+						
+					
+					}); 	  
+			
+			});
+		
+		});
+  
+  	</script>
+  	
+  	<script>
+
+		 jQuery( document ).ready(function( $ ) {
+				//Larger Image Gallery
+	
+					$('#viewGallery').click(function(e) {
+						   e.preventDefault();
+						    $('.fancybox:eq(0)').click();    
+						});
+				
+					$('.fancybox')
+					 .attr('rel', 'gallery')
+					 .fancybox({
+						 
+						 padding: 0,
+						 autoSize: false,
+						 aspectRatio: true,
+						 fitToView: true, 
+						 autoScale: false,// stop resize
+						type : 'image',
+						prevEffect	: 'none',
+						nextEffect	: 'none',
+						beforeShow: function() {
+						    $('.fancybox-image')
+						        .width($(window).width())
+						        .height($(window).height());
+						},
+						onUpdate: function() {
+						    $('.fancybox-image')
+					        .width($(window).width())
+					        .height($(window).height());
+						},
+						helpers	: {
+							title	: {
+								type: 'outside',
+								locked : false //if true, causes background to jump
+							},
+							thumbs	: {
+								width	: 72,
+								height	: 72,
+								source  : function(current) {
+				                    return $(current.element).data('thumbnail');
+				                }
+							}
+						}
+					});
+					
+					$.fancybox.helpers.thumbs.onUpdate = function() {};
+						
+				});
+	
+		</script>
+		
 		<!-- revert global jQuery and $ variables and store jQuery in a new variable -->
 	    <script type="text/javascript">
     	    //var $j = $.noConflict(true);  
@@ -88,6 +212,8 @@
         <script src="/v2/js/global.js" type="text/javascript" charset="utf-8"></script>
         <script src="/v2/js/Cart.js" type="text/javascript"></script>  
         <script>
+        Wilson.ProductPages.PageVariables.FreeShippingEligableMessage = 'This Item Ships for Free';
+        
         
         		Wilson.ProductPages.PageVariables.IsGolfProduct = false;
         	</script>      
@@ -155,7 +281,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						<div id="commerce"> <!-- ADD CLASS "noCommerce" to show header w/o ecommerce items -->
 							<div class="red_callout_container promo">
 								<div class="red_callout">
-									<p id="red_message" class="no-show">Free Shipping on Orders over $50!</p>
+									<div id="shpInfo">
+
+										<p id="red_message" class="no-show"><span><img src="http://www.wilson.com/v2/images/shipmark.png" alt="freeshipping" height="14" width="14"></span><a href="#" id="shipBtn">Free Shipping on Orders over $50! *</a></p>
+										
+										</div>
 									</div>
 								<div class="arrow_right"></div>
 							</div>
@@ -239,10 +369,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 													<ul>
 														<li><a href="http://www.wilson.com/en-us/tennis/strings/">Strings</a></li><li><a href="http://www.wilson.com/en-us/tennis/grips/">Grips</a></li><li><a href="http://www.wilson.com/en-us/tennis/accessories/">Accessories</a></li></ul>
 													<ul>
-														<li><a href="http://www.wilson.com/en-us/tennis/apparel/">Apparel</a></li><li><a href="http://www.wilson.com/en-us/tennis/shoes/">Shoes</a></li><li><a href="http://www.wilson.com/en-us/holiday-gift-shop/">Holiday Gift Shop</a></li><li><a href="http://www.wilson.com/en-us/tennis/usopen/">2014 US Open Shop</a></li></ul>
+														<li><a href="http://www.wilson.com/en-us/tennis/apparel/">Apparel</a></li><li><a href="http://www.wilson.com/en-us/tennis/shoes/">Shoes</a></li><li><a href="http://www.wilson.com/en-us/tennis/usopen/">2014 US Open Shop</a></li></ul>
 													<div class="submenu_sub">
 														<ul>
-															<li><a href="http://www.wilson.com/en-us/tennis/players/">Players</a></li><li><a href="http://www.wilson.com/en-us/tennis/video/">Videos</a></li><li><a href="http://www.wilson.com/en-us/tennis/catalogs/">Catalogs</a></li><li><a href="http://www.wilson.com/en-us/customer-service/racket-warranty/">Racket Warranty</a></li></ul>
+															<li><a href="http://www.wilson.com/en-us/tennis/players/">Players</a></li><li><a href="http://www.wilson.com/en-us/tennis/video/">Videos</a></li><li><a href="http://www.wilson.com/en-us/tennis/catalogs/">Catalogs</a></li></ul>
 													</div>
 												</div>
 
@@ -254,11 +384,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 												<a class="headerLink" href="http://www.wilson.com/en-us/baseball/">Baseball</a>
 												<div class="submenu_content">
 													<ul>
-														<li><a href="http://www.wilson.com/en-us/baseball/gloves/">Gloves</a></li><li><a href="http://www.wilsoncustomgloves.com/" target="_new">Custom Glove Shop</a></li><li><a href="http://www.wilson.com/en-us/baseball/gloves/gloveselector/">Glove Selector</a></li><li><a href="http://www.wilson.com/en-us/baseball/glovecarecenter/">Glove Care Center</a></li></ul>
+														<li><a href="http://www.wilson.com/en-us/baseball/gloves/">Gloves</a></li><li><a href="http://www.wilson.com/custom/gloves/" target="_new">Custom Glove Shop</a></li><li><a href="http://www.wilson.com/en-us/baseball/gloves/gloveselector/">Glove Selector</a></li><li><a href="http://www.wilson.com/en-us/baseball/glovecarecenter/">Glove Care Center</a></li></ul>
 													<ul>
 														<li><a href="http://www.wilson.com/en-us/baseball/balls/">Baseballs</a></li><li><a href="http://www.wilson.com/en-us/baseball/protective-gear/">Protective Gear</a></li><li><a href="http://www.wilson.com/en-us/baseball/gear-bags/">Gear Bags</a></li><li><a href="http://www.wilson.com/en-us/baseball/accessories/">Accessories</a></li></ul>
 													<ul>
-														<li><a href="http://www.wilson.com/en-us/baseball/stock-uniforms/">Stock Uniforms</a></li><li><a href="http://customworks.wilson.com/" target="_new">Baseball Uniforms</a></li><li><a href="http://www.demarini.com/en-us/">DeMarini Bats</a></li><li><a href="http://www.atecsports.com">ATEC Training</a></li><li><a href="http://www.wilson.com/en-us/holiday-gift-shop/">Holiday Gift Shop</a></li></ul>
+														<li><a href="http://www.wilson.com/en-us/baseball/stock-uniforms/">Stock Uniforms</a></li><li><a href="http://www.wilson.com/custom/uniforms/index.html" target="_new">Custom Uniforms</a></li><li><a href="http://www.demarini.com/en-us/">DeMarini Bats</a></li><li><a href="http://www.atecsports.com">ATEC Training</a></li></ul>
 													<div class="submenu_sub">
 														<ul>
 															<li><a href="http://www.wilson.com/en-us/baseball/players/">Players</a></li><li><a href="http://www.wilson.com/en-us/baseball/news/">News</a></li><li><a href="http://www.wilson.com/en-us/baseball/videos/">Videos</a></li><li><a href="http://www.wilson.com/en-us/baseball/catalogs/">Catalogs</a></li></ul>
@@ -277,7 +407,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 													<ul>
 														<li><a href="http://www.wilson.com/en-us/golf/balls/">Balls</a></li><li><a href="http://www.wilson.com/en-us/golf/bags/">Bags</a></li><li><a href="http://www.wilson.com/en-us/golf/accessories/">Accessories</a></li><li><a href="http://www.wilson.com/en-us/golf/gloves/">Gloves</a></li></ul>
 													<ul>
-														<li><a href="http://www.wilson.com/en-us/golf/get-fit/">Get Fit</a></li><li><a href="http://www.wilson.com/en-us/forms/finddealers/?prod_cat=0A0W0G080119">Locate a Fit Cart</a></li><li><a href="http://www.wilson.com/en-us/holiday-gift-shop/">Holiday Gift Shop</a></li></ul>
+														<li><a href="http://www.wilson.com/en-us/golf/get-fit/">Get Fit</a></li><li><a href="http://www.wilson.com/en-us/forms/finddealers/?prod_cat=0A0W0G080119">Locate a Fit Cart</a></li></ul>
 													<div class="submenu_sub">
 														<ul>
 															<li><a href="http://www.wilson.com/en-us/golf/players/">Players</a></li><li><a href="http://www.wilson.com/en-us/golf/video/">Videos</a></li><li><a href="http://www.wilson.com/en-us/golf/news/">News</a></li><li><a href="http://www.wilson.com/en-us/golf/events/">Events &amp; Demo Days</a></li><li><a href="http://www.wilson.com/en-us/golf/catalogs/">Catalog</a></li></ul>
@@ -292,14 +422,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 												<a class="headerLink" href="http://www.wilson.com/en-us/football/">Football</a>
 												<div class="submenu_content">
 													<ul>
-														<li><a href="http://www.wilson.com/en-us/football/footballs/">Footballs</a></li><li><a href="http://customworks.wilson.com/balls/football/">Custom Footballs</a></li></ul>
+														<li><a href="http://www.wilson.com/en-us/football/footballs/">Footballs</a></li><li><a href="http://www.wilson.com/custom/balls/football/fathers-day/index.html">Custom Footballs</a></li><li><a href="http://www.wilson.com/en-us/football/footballs/pro/super-bowl-xlix-footballs/">Super Bowl XLIX</a></li></ul>
 													<ul>
 														<li><a href="http://www.wilson.com/en-us/football/protective-gear/">Protective Gear</a></li><li><a href="http://www.wilson.com/en-us/football/gloves/">Gloves</a></li><li><a href="http://www.wilson.com/en-us/football/mouth-guards/">Mouth Guards</a></li><li><a href="http://www.wilson.com/en-us/football/accessories/">Accessories</a></li></ul>
 													<ul>
-														<li><a href="http://www.wilson.com/en-us/football/nfl-shop/">NFL Shop</a></li><li><a href="http://www.wilson.com/en-us/football/stock-uniforms/">Stock Uniforms</a></li><li><a href="http://www.wilson.com/en-us/football/uniforms/">Football Uniforms</a></li><li><a href="http://www.wilson.com/en-us/holiday-gift-shop/">Holiday Gift Shop</a></li></ul>
+														<li><a href="http://www.wilson.com/en-us/football/footballs/college-high-school/college-football-playoffs/">College Football Playoff</a></li><li><a href="http://www.wilson.com/en-us/football/nfl-shop/">NFL Shop</a></li><li><a href="http://www.wilson.com/en-us/football/stock-uniforms/">Stock Football Pants</a></li><li><a href="http://www.wilson.com/en-us/football/uniforms/">Custom Uniforms</a></li></ul>
 													<div class="submenu_sub">
 														<ul>
-															<li><a href="http://www.wilson.com/en-us/football/nfl/">Wilson in the NFL</a></li><li><a href="http://www.wilson.com/en-us/football/players/">Players and Coaches</a></li><li><a href="http://www.wilson.com/en-us/football/video/">Video</a></li><li><a href="http://www.wilson.com/en-us/football/news/">News</a></li><li><a href="http://www.wilson.com/en-us/football/catalogs/">Catalog</a></li></ul>
+															<li><a href="http://www.wilson.com/en-us/football/nfl/">The Official Football of the NFL</a></li><li><a href="http://www.wilson.com/en-us/football/players/">Players and Coaches</a></li><li><a href="http://www.wilson.com/en-us/football/video/">Video</a></li><li><a href="http://www.wilson.com/en-us/football/news/">News</a></li><li><a href="http://www.wilson.com/en-us/football/catalogs/">Catalog</a></li></ul>
 													</div>
 												</div>
 
@@ -311,14 +441,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 												<a class="headerLink" href="http://www.wilson.com/en-us/basketball/">Basketball</a>
 												<div class="submenu_content">
 													<ul>
-														<li><a href="http://www.wilson.com/en-us/basketball/balls/">Basketballs</a></li><li><a href="http://customworks.wilson.com/balls/basketball/">Custom Basketballs</a></li></ul>
+														<li><a href="http://www.wilson.com/en-us/basketball/balls/">Basketballs</a></li><li><a href="http://www.wilson.com/custom/balls/basketball/index.html#/storefront">Custom Basketballs</a></li></ul>
 													<ul>
 														<li><a href="http://www.wilson.com/en-us/basketball/accessories/">Accessories</a></li></ul>
 													<ul>
-														<li><a href="http://basketball.customworks.wilson.com/" target="_new">Basketball Uniforms</a></li><li><a href="http://www.wilson.com/en-us/holiday-gift-shop/">Holiday Gift Shop</a></li></ul>
+														<li><a href="http://www.wilson.com/custom/uniforms/index.html" target="_new">Custom Basketball Uniforms</a></li></ul>
 													<div class="submenu_sub">
 														<ul>
-															<li><a href="http://www.wilson.com/en-us/basketball/ncaa/">NCAA Championships</a></li><li><a href="http://www.wilson.com/en-us/basketball/players/">Players and Coaches</a></li><li><a href="http://www.wilson.com/en-us/basketball/video/">Videos</a></li><li><a href="http://www.wilson.com/en-us/basketball/news/">News</a></li><li><a href="http://www.wilson.com/en-us/basketball/catalogs/">Catalogs</a></li></ul>
+															<li><a href="http://www.wilson.com/final-four/">NCAA Championships</a></li><li><a href="http://www.wilson.com/en-us/basketball/news/">News</a></li><li><a href="http://www.wilson.com/en-us/basketball/catalogs/">Catalogs</a></li></ul>
 													</div>
 												</div>
 
@@ -330,7 +460,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                         <h2>MORE&nbsp;SPORTS</h2>
                                         <div class="submenu_content">
                                             <ul>
-                                            	<li><a href="http://www.wilson.com/en-us/soccer/">Soccer</a></li><li><a href="http://www.wilson.com/en-us/volleyball/">Volleyball</a></li><li><a href="http://www.wilson.com/en-us/badminton/">Badminton</a></li><li><a href="http://www.wilson.com/en-us/fastpitch/">Fastpitch</a></li><li><a href="http://www.wilson.com/en-us/platform-tennis/">Platform Tennis</a></li><li><a href="http://www.wilson.com/en-us/racquetball/">Racquetball</a></li><li><a href="http://www.wilson.com/en-us/squash/">Squash</a></li><li><a href="http://www.wilson.com/en-us/100/">Shop 100</a></li><li><a href="http://www.wilson.com/en-us/pickleball/">Pickleball</a></li></ul>
+                                            	<li><a href="http://www.wilson.com/en-us/soccer/">Soccer</a></li><li><a href="http://www.wilson.com/en-us/volleyball/">Volleyball</a></li><li><a href="http://www.wilson.com/en-us/badminton/">Badminton</a></li><li><a href="http://www.wilson.com/en-us/fastpitch/">Fastpitch</a></li><li><a href="http://www.wilson.com/en-us/platform-tennis/">Platform Tennis</a></li><li><a href="http://www.wilson.com/en-us/racquetball/">Racquetball</a></li><li><a href="http://www.wilson.com/en-us/squash/">Squash</a></li><li><a href="http://www.wilson.com/en-us/pickleball/">Pickleball</a></li></ul>
                                         </div>
                                     </div>
                                 </li>
@@ -338,12 +468,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						</div>
 						<!-- CKS 100 -->									
 							<!-- CKS 100 | added this div. todo, update links  -->
+							<!-- 
 							
-							<div id="timelineLink" style="width:168px; right: 30px; position: absolute; bottom: 10px; z-index: 9999;">
-									<a href="http://www.wilson.com/en-us/holiday-gift-shop/">
-												<img src="http://ns.wilson.com/ecomm/img/btns/Holiday_WilsonSite_Button_168x57.png" width="168" height="57" alt="">
-											</a>
-	                                	</div>
+							-->
+
+							<div id="timelineLink" style="width:200px; height:70px; right: 10px; position: absolute; bottom: 10px; z-index: 9999;">
+									<a href="http://www.wilson.com/custom/gloves/">
+														<img src="https://www.wilson.com/dyn/team/ecomm/img/btn/shopcustomgloves_fn.gif" width="200" height="70" alt="Shop Now">
+													</a>
+		                                		</div>
 							<!-- CKS 100 -->
 						</div>
 				</div>
@@ -477,37 +610,7 @@ Wilson may from time to time change this Privacy Policy or change, modify or wit
 				</div>
 			</div>
 		</div>
-	<script src="https://wsprt.netmng.com/?aid=2141" type="text/javascript" defer="defer"></script>
-
-<!--
-Start of DoubleClick Floodlight Tag: Please do not remove
-Activity name of this tag: Visits
-URL of the webpage where the tag is expected to be placed:
-This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
-Creation Date: 01/09/2012
--->
-<iframe src="http://3477156.fls.doubleclick.net/activityi;src=3477156;type=vtmet974;cat=visit507;ord=[SessionID]?" width="1" height="1" frameborder="0" style="display:none"></iframe>
-
-<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
-
-<!-- Google Code for Remarketing tag -->
-<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 991484793;
-var google_conversion_label = "OS7uCK_b8gMQ-bbj2AM";
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/991484793/?value=0&amp;label=OS7uCK_b8gMQ-bbj2AM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-</div>
+	</div>
 
 
 
@@ -552,8 +655,8 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 <!-- End SiteCatalyst code version: H.19.4. -->
 <!-- End Omniture-->
 <!--  
-Friday, December 26 2014, 21:41:04 - 206 - Last-Modified Fri 2014.12.26 at 09:41:04 PM CST
+Monday, June 08 2015, 07:10:34 - 206 - Last-Modified Mon 2015.06.08 at 07:10:34 AM CDT
 Cache-Control max-age private=24 hours, max-age public=24 hours
-Expires Sat 2014.12.27 at 09:41:04 PM CST
+Expires Tue 2015.06.09 at 07:10:34 AM CDT
 
 --></body></html>
