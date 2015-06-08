@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exportpages.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209091148id_/http%3A//exportpages.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exportpages.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609001900id_/http%3A//www.exportpages.com/privacy.aspx) for the most accurate reproduction.*
 
 # 
 
