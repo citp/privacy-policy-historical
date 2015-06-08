@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pragmaticmarketing.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121070321id_/http%3A//www.pragmaticmarketing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pragmaticmarketing.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608065434id_/https%3A//pragmaticmarketing.com/privacy) for the most accurate reproduction.*
 
 # Pragmatic Marketing - Visit our site and still respect yourself in the morning
 
