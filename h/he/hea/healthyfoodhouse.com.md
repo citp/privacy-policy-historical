@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthyfoodhouse.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223024542id_/http%3A//www.healthyfoodhouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyfoodhouse.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608095159id_/http%3A//www.healthyfoodhouse.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Healthy Food House
+# Privacy policy - Healthy Food House
 
 Privacy Policy for [Healthy Food House](http://www.healthyfoodhouse.com/ "Healthy Food House").
 
