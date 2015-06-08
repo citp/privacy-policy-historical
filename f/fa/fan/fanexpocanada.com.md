@@ -1,35 +1,68 @@
-> *The following text is extracted and transformed from the fanexpocanada.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224215151id_/http%3A//fanexpocanada.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanexpocanada.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608161154id_/http%3A//fanexpocanada.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fan Expo Canada
 
-This is the web site of www.fanexpocanada.com – The Home of Fan Expo Canada.
+This Privacy Policy governs the manner in which Informa Canada collects, uses, maintains and discloses information collected from users (each, a "User") of the [informacanada.com](http://www.informacanada.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Informa Canada. It is designed to give Users information which will allow them to make an informed choice about using the Site.
 
-We can be reached via e-mail at [info@fanexpohq.com](mailto:info@fanexpohq.com)
+**Personal identification information**
 
-For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-We collect the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+**Non-personal identification information**
 
-The information we collect is used for internal review and is never shared with any outside party, used to improve the content of our Web page, used to notify consumers about updates to our Web site, , disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website, to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting the Website.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, and ensure that visitors are not repeatedly sent the same banner ads.
+**Web browser cookies**
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+Our Site may use "cookies" to enhance User experience. A cookie is a small text file written to an individual’s hard drive that contains the user ID. The cookies do not contain any personal information about Users and in themselves only record those areas of the Website that have been visited by the computer in question, and for how long. The use of cookies is now widespread by websites in order to track traffic flows. From time to time we may use cookies to enable us to offer certain time-saving features to our Users. These may be used to administer the Website, track Users’ movements and actions, and gather broad demographic information for aggregate use. The information gathered would then be used to improve the Website and the User experience.
 
-If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
+You can find out more about the use of cookies and how you can remove them by going to the Interactive Advertising Bureau website [http://allaboutcookies.org](http://allaboutcookies.org/) or [http://www.cookiecentral.com](http://www.cookiecentral.com/). Users may choose to set their web browser to refuse cookies, or to alert when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
+**Hyperlinks**
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+This Website contains links to other websites, including without limitation those websites of other companies within Informa Canada and wider Informa Plc. Their inclusion cannot be taken to imply any endorsement or validation by Informa Canada of the content of the said websites. Informa Canada is not responsible for the privacy practices, nor do we accept any liability in connection with the content of such websites including those of our group companies which have their own privacy policies tailored for the particular business practices and sectors in which they operate.
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
+**How we use collected information**
 
-Upon request we provide site visitors with access to a description of information that we maintain about them.
+Any Personal Data that you give us will be treated with the utmost care and security. It will not be used in ways to which you have not consented. Informa Canada may collect and use Users personal information for the following purposes:
 
-Consumers can access this information by e-mail us at the above address.
+  * To improve customer service
+  * Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * To run a promotion, contest, survey or other Site feature
+  * To send Users information they agreed to receive about topics we think will be of interest to them. 
+  * To send periodic emails 
 
-Consumers can have this information corrected by sending us e-mail at the above address.
 
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses.
+We may use the email address to respond to their inquiries, questions, and/or other requests. If Users decide to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time Users would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+The information collected from this Website could be stored for as long as is required for the uses stated above.
+
+**How we protect your information**
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+**Sharing your personal information**
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. For example, we use certain third party service providers to assist us in providing these services to you, for example, email alerting, web casting and hosting.
+
+**Changes to this privacy policy**
+
+Informa Canada has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+**Your acceptance of these terms**
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+**Contacting us**
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
+**Informa Canada**
+
+[informacanada.com](http://www.informacanada.com/)  
+10 Alcorn Ave Suite 100 Toronto, ON, M4V 3A9  
+416-960-9030  
+[info@informacanada.com](mailto:info@informacanada.com)
+
+This document was last updated on March 11, 2015
