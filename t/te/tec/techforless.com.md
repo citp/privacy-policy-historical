@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techforless.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122233555id_/http%3A//www.techforless.com/cgi-bin/tech4less/privacy_new) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techforless.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609005038id_/http%3A//www.techforless.com/cgi-bin/tech4less/privacy_new) for the most accurate reproduction.*
 
 # Our Policy in Summary - Tech for Less
 
@@ -71,7 +71,7 @@ With Visa's Zero Liability policy*, your liability for unauthorized transactions
 
 ### Confirmation, Pricing and Availability Information:
 
-Tech for Less, Inc. makes every effort to get your order to you as soon as possible. All advertised products are in stock. Most orders ship the same business day when you place your order before 5pm MST. If there is a problem with your order you will receive an email providing more details about the problem within one business day. Special and Custom orders may take longer to process. 
+Tech for Less, Inc. makes every effort to get your order to you as soon as possible. All advertised products are in stock. Most orders ship the same business day when you place your order before 4pm MST. If there is a problem with your order you will receive an email providing more details about the problem within one business day. Special and Custom orders may take longer to process. 
 
 ### Payment information:
 
