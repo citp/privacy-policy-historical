@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the thegunnysack.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121110736id_/http%3A//www.thegunnysack.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegunnysack.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608175543id_/http%3A//www.thegunnysack.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Gunny Sack
 
-**What information do we collect?**
-
-We collect information from you when you register on our site, fill out a form or join the link party. 
+**What information do we collect?** We collect information from you when you register on our site, fill out a form or join the link party.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
 **What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways:
 
 ; To personalize your experience  
 (your information helps us to better respond to your individual needs)
@@ -33,7 +31,7 @@ Any of the information we collect from you may be used in one of the following w
 
 **How do we protect your information?**
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
 
 **Do we use cookies?**
 
@@ -71,11 +69,15 @@ By using our site, you consent to our [privacy policy](http://www.freeprivacypol
 
 **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page. 
+If we decide to change our privacy policy, we will post those changes on this page.
+
+**Opt Out**
+
+For information about opting out of Gourmet Ads and ad serving partners please visit<http://www.gourmetads.com/about/privacy-policy>“.
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
 http://www.thegunnysack.com  
 thegunnysack@aol.com
