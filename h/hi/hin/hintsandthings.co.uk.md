@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hintsandthings.co.uk privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201125956id_/http%3A//www.hintsandthings.co.uk/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hintsandthings.co.uk privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608113954id_/http%3A//www.hintsandthings.co.uk/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy for www.hintsandthings.com
 
@@ -53,7 +53,7 @@ Some of our advertising partners or service suppliers may use cookies and web be
 
 > Google Adsense 
 > 
-> Book Depository - see [ http://www.bookdepository.co.uk/help/topic/HelpId/20/Our-privacy-policy#helpContent](http://www.bookdepository.co.uk/help/topic/HelpId/20/Our-privacy-policy#helpContent)
+> Book Depository - see [ http://www.bookdepository.com/help/topic/HelpId/20/Our-privacy-policy#helpContent](http://www.bookdepository.com/help/topic/HelpId/20/Our-privacy-policy#helpContent)
 > 
 > Findmeplants.co.uk
 
