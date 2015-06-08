@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vbdotnetforums.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127221101id_/http%3A//www.nc-software.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbdotnetforums.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041215id_/http%3A//www.nc-software.com/privacy.aspx) for the most accurate reproduction.*
 
 # NC Software Privacy Statement
 
@@ -94,6 +94,6 @@ Material Modifications since January 1, 2011: none.
   
 Subscribe to our Newsletter:
 
-© 2014 NC Software, Inc. All rights reserved.  
+© 2015 NC Software, Inc. All rights reserved.  
 Logbook Pro® and APDL® are registered trademarks of NC Software, Inc.  
 All other trademarks or registered trademarks are property of their respective owners
