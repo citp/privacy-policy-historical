@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aso.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020090743id_/http%3A//www.aso.com/Learn/AboutASO/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aso.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609011343id_/http%3A//aso.com/Learn/AboutASO/Privacy.aspx) for the most accurate reproduction.*
 
 # ASO Privacy Policy: ASO.com
 
