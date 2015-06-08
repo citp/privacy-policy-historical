@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 30minutelist.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120132642id_/http%3A//30minutelist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 30minutelist.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041421id_/http%3A//30minutelist.com/privacy.php) for the most accurate reproduction.*
 
 # 30MinuteList.com
 
-[](http://30minutelist.com/bannerclick.php?id=15612&code=eNyRaQEV)  
+[](http://30minutelist.com/bannerclick.php?id=15358&code=eHebYPUN)  
 
 
 30MinuteList.com Privacy Policy
@@ -20,13 +20,13 @@ How does the Site use Personally Identifiable Information? We use Personally Ide
 
 How is Personally Identifiable Information stored? Personally Identifiable Information collected by 30MinuteList.com is securely stored and is not accessible to third parties. 
 
-What choices are available to Visitors regarding collection, use and distribution of the information? Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at admin@30minutelist.com 
+What choices are available to Visitors regarding collection, use and distribution of the information? Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at admin@30minutelist.com
 
 Are Cookies Used on the Site? Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. 
 
 How does 30MinuteList.com use login information? 30MinuteList.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information. 
 
-How can Visitors correct any inaccuracies in Personally Identifiable Information? Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at admin@30minutelist.com 
+How can Visitors correct any inaccuracies in Personally Identifiable Information? Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at admin@30minutelist.com
 
 Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site? We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting admin@30minutelist.com. However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
 
