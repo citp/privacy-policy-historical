@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopbop.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231170942id_/http%3A//www.shopbop.com/ci/aboutShopBop/privacypolicy.html%23cs%3Dov%3D3528430532%2Cos%3D7%2Clink%3DfooterPrivacyPolicyEN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopbop.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608182356id_/http%3A//www.shopbop.com/ci/aboutShopBop/privacypolicy.html%23cs%3Dov%3D4266761857%2Cos%3D1%2Clink%3DfooterPrivacyPolicyEN) for the most accurate reproduction.*
 
 # Shopbop privacy policy
 
