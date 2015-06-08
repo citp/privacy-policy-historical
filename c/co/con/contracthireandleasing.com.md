@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contracthireandleasing.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121064855id_/http%3A//www.contracthireandleasing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contracthireandleasing.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608115913id_/http%3A//www.contracthireandleasing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy And Data Policy | Contract Hire And Leasing
 
@@ -45,7 +45,7 @@ By completing any of our online forms, you are consenting to the collection, pro
 
 ## Third Party Advertising
 
-We use third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name,address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you If you would like more information about this practise and to know your choices about not having this information used by these companies [contact us](http://www.reallygooddomains.com/contact/default.asp).
+We use third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name,address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practise and to know your choices about not having this information used by these companies [contact us](http://www.reallygooddomains.com/).
 
 ## Cookies and Your Privacy
 
