@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oony.com privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027151042id_/http%3A//oony.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oony.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608091722id_/http%3A//oony.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Oony
 
