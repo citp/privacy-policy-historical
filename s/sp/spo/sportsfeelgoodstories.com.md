@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsfeelgoodstories.com privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112085855id_/http%3A//www.sportsfeelgoodstories.com/our-quest/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsfeelgoodstories.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608090439id_/http%3A//www.sportsfeelgoodstories.com/our-quest/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sports Feel Good Stories
 
@@ -58,6 +58,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 Michael & Gabriel, Inc.  
 www.SportsFeelGoodStories.com  
 4146 Barrow Court Eagan, MN 55123  
-editor@sportsfeelgoodstories.com
+editor(use at symbol)sportsfeelgoodstories.com
 
 This document was last updated on February 08, 2014
