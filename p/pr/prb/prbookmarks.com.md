@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prbookmarks.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101202424id_/http%3A//www.prbookmarks.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prbookmarks.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608085748id_/http%3A//www.prbookmarks.com/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies › PRBookmarks.com : Easily Create Your Own Social Network By Submitting Links & Bookmarklet Submission | Best Social Bookmarking Site To Submit Web Pages & Internet Contents
 
