@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cotid.org privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121213217id_/http%3A//www.cotid.org/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cotid.org privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608121023id_/http%3A//www.cotid.org/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy of Coolest of the Internet Directory (cotid.org)
 
