@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dc-storm.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219013056id_/http%3A//dc-storm.com/en-uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dc-storm.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608095636id_/http%3A//dc-storm.com/en-uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DC Storm Measured Success
+# Privacy Policy | Rakuten Attribution Measured Success
 
 DCS collects and uses certain types of information about visitors to its web site in order to operate flexibly and provide a high level of service.
 
