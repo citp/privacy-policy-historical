@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drumeo.com privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002174238id_/http%3A//drumeo.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drumeo.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608031407id_/http%3A//www.drumeo.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Drumeo - Privacy Policy
 
@@ -13,8 +13,6 @@ The Drumeo.com website logs all website visitors and transactions. We collect th
 Our website offers users the option to subscribe for periodical updates. This is done with a name and e-mail address for registration. As with our server logs – all information that is collected will never be shared with any 3rd party.
 
 In addition, all outgoing e-mail contains our mailing address and a simple unsubscribe link that can be used by the recipient to remove themselves from our mailing list. Once removed – you will no longer get any e-mail from us. These features are in place to improve our user experience.
-
-All subscribers are required to double opt-in. This is done for the security and integrity of our mailing list. This procedure is done to ensure every subscriber added themselves to the list. Essentially, double opting-in requires a user to not only submit their e-mail address, but to also open an e-mail sent to that address to confirm their interest in receiving additional e-mails.
 
 ## IP Logging
 
