@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craftsetc.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221064326id_/http%3A//shop.hobbylobby.com/service/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftsetc.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608100625id_/http%3A//shop.hobbylobby.com/service/terms) for the most accurate reproduction.*
 
 # Terms Of Use | Shop Hobby Lobby
 
