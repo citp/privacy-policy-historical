@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialchorus.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121161041id_/http%3A//www.socialchorus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialchorus.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608094133id_/http%3A//www.socialchorus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SocialChorus
 
@@ -59,9 +59,9 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 www.socialchorus.com
 
-703 Market St, Suite 470
+123 Mission St, 12th Floor
 
-San Francisco, California 94103
+San Francisco, California 94105
 
 United States
 
