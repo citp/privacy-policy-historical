@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thevillablog.co.uk privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123133027id_/http%3A//www.thevillablog.co.uk/villa-blog/park/privacy-policy-for-thevillablogcouk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thevillablog.co.uk privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608131141id_/http%3A//www.thevillablog.co.uk/villa-blog/park/privacy-policy-for-thevillablogcouk) for the most accurate reproduction.*
 
-# Aston Villa Blog - Privacy Policy
+# Aston Villa Blog - Privacy Policy | Aston Villa Blog
 
 We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you visit thevillablog.co.uk, and how we safeguard your information. We never sell your personal information to third parties. 
 
@@ -13,3 +13,10 @@ We also use third party advertisements on thevillablog.co.uk to support our site
 This is generally used for geotargeting purposes (showing London real estate ads to someone in London) or showing certain ads based on specific sites visited (such as showing film ads to someone who frequents film sites). 
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
+
+Damian started The Villa Blog a long time ago. Today he is a manager in the second tier of the Bundesliga. In his spare time he works with disruptive innovation. The bit in the middle wasn't true.
+
+Latest Posts
+
+  
+
