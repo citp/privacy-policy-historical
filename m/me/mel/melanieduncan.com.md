@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the melanieduncan.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203162825id_/http%3A//www.melanieduncan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melanieduncan.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041000id_/http%3A//www.melanieduncan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Melanie Duncan - Melanie Duncan
-
-Get FREE Tips to Make More Money  
-& Spend Less Time Working
 
 MelanieDuncan.com is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
 
