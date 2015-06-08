@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the stateofflorida.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124120103id_/http%3A//www.stateofflorida.com/privin1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stateofflorida.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608215721id_/http%3A//www.stateofflorida.com/privin1.html) for the most accurate reproduction.*
 
-# State of Florida.com - Privacy Policy
+# State of Florida.com | Privacy Policy
+
+StateofFlorida.com is not affiliated with, owned, or operated by the State of Florida and is not endorsed or approved by the State of Florida. [Visit MyFlorida.com](http://www.myflorida.com/)
 
 We at State of Florida.com recognize the importance of protecting your personal information.
 
@@ -10,7 +12,9 @@ We at State of Florida.com recognize the importance of protecting your personal 
   2. This website does not collect personally identifying information about you except when you specifically and knowingly provide it.
   3. We take reasonable precautions to protect your personal information.
   4. When we do collect personal information, we use this to help us better serve your needs, such as through the provision of services or information that may be of interest to you.
-  5. This website is not primarily aimed at children. In addition, in order to protect our children, this website does not knowingly collect or display the individually identifying information of users who are under the age of 13. 
+  5. This website is not primarily aimed at children. In addition, in order to protect our children, this website does not knowingly collect or display the individually identifying information of users who are under the age of 13.
+
+
 
 State of Florida.com contains links to other websites. State of Florida.com is not responsible for the privacy practices of other websites.
 
