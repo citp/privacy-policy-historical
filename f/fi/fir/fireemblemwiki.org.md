@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fireemblemwiki.org privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102031929id_/http%3A//fireemblemwiki.org/wiki/Fire_Emblem_Wiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fireemblemwiki.org privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608223538id_/http%3A//fireemblemwiki.org/wiki/Fire_Emblem_Wiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # Fire Emblem Wiki:Privacy policy - Fire Emblem Wiki
 
