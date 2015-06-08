@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the k-bid.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227170104id_/http%3A//www.k-bid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k-bid.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608093935id_/http%3A//www.k-bid.com/privacy) for the most accurate reproduction.*
 
-# K-BID
+# Privacy Policy | K-BID
 
-## Privacy Policy
-
-xxxx   
-This Privacy Policy governs the manner in which K-BID Online, Inc. collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.k-bid.com](http://k-bid.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by K-BID Online, Inc..
+This Privacy Policy governs the manner in which K-BID Online, Inc. collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.k-bid.com](http://web.archive.org/web/20140823005614/http:/k-bid.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by K-BID Online, Inc..
 
 **Personal identification information**
 
@@ -22,21 +19,6 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 **How we use collected information**
 
 K-BID Online, Inc. may collect and use Users personal information for the following purposes:
-
-  * _\- To improve customer service_  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
-We may use feedback you provide to improve our products and services.
-  * _\- To process payments_  
-We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  * _\- To run a promotion, contest, survey or other Site feature_  
-To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _\- To send periodic emails_  
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
-
-
 
 **How we protect your information**
 
@@ -56,15 +38,15 @@ K-BID Online, Inc. has the discretion to update this privacy policy at any time.
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://k-bid.com/terms). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](http://web.archive.org/web/20140823005614/http:/k-bid.com/terms). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[K-BID Online, Inc.](http://k-bid.com/)  
-[www.k-bid.com](http://k-bid.com/)  
-5030 Highway 12, Maple Plain, MN 55359   
+[K-BID Online, Inc.](http://web.archive.org/web/20140823005614/http:/k-bid.com/)  
+[www.k-bid.com](http://web.archive.org/web/20140823005614/http:/k-bid.com/)  
+5030 Highway 12, Maple Plain, MN 55359  
 763-479-3000  
-info@k-bid.com
+[info@k-bid.com](mailto:info@k-bid.com)
 
 This document was last updated on April 23, 2014
