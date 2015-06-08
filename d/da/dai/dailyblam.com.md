@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyblam.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216034931id_/http%3A//gotham-news.com/node/2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyblam.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608024635id_/http%3A//www.gotham-news.com/node/2) for the most accurate reproduction.*
 
 # Privacy Policy | Gotham News
 
