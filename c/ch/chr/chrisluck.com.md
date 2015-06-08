@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the chrisluck.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009085934id_/http%3A//chrisluck.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chrisluck.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608034539id_/http%3A//chrisluck.com/privacy) for the most accurate reproduction.*
 
-# Chris Luck's Privacy Policy
+# Privacy Policy
 
 YOUR PRIVACY RIGHTS  
-Effective Date: June 1, 2014
+Effective Date: January 1, 2015
 
 1\. INTRODUCTION  
 1.1. PURPOSE OF POLICY.  
-Chris Luck Enterprises, Inc. (“us”, “we,” “Company”) is committed to respecting the privacy rights of visitors and other users of smartpassiveincome.com (the “Site”). We created this Privacy Policy (this “Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
+Chris Luck Enterprises, Inc. (“us”, “we,” “Company”) is committed to respecting the privacy rights of visitors and other users of chrisluck.com (the “Site”). We created this Privacy Policy (this “Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
 
 1.2. NOTICE CONCERNING CHILDREN  
 PLEASE NOTE: We are a general audience site, and do not direct any of our content specifically at children under 13 years of age pursuant to the Children’s Online Privacy Protection Act of 1998.
