@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adgrx.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207124210id_/http%3A//adgear.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adgrx.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608165145id_/http%3A//adgear.com/privacy) for the most accurate reproduction.*
 
 # AdGear Real-Time Ad Platform
 
@@ -24,4 +24,4 @@ On occasion, an advertiser may request that AdGear Technologies, Inc. provides o
 
 AdGear Technologies, Inc. reserves the right to change, modify, add or remove portions of this policy at any time and without notice. We will make every effort to post any changes to this policy in this area so that you are aware of the information we collect, how it is used, and under what circumstances is disclosed. 
 
-Questions, comments, or concerns related to our privacy policy may be directed to our Customer Support at 1-866-611-9428 or [privacy@adgear.com](https://web.archive.org/web/20141207124210id_/http://adgear.com/privacy/privacy@adgear.com)
+Questions, comments, or concerns related to our privacy policy may be directed to our Customer Support at 1-866-611-9428 or [privacy@adgear.com](mailto:privacy@adgear.com)
