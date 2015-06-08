@@ -1,272 +1,93 @@
-<!--The following is the downloaded HTML source of the vladtv.com privacy policy that was archived on 2014-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231025951id_/http%3A//www.vladtv.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vladtv.com privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608053512id_/http%3A//vladtv.com/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-		<meta charset="utf-8"> 
-   										<meta http-equiv="X-UA-Compatible" content="IE=edge"><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=126470887435515"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=u(e),f=c.length,s=i(a,o,r),p=0;f>p;p++)c[p].apply(s,n);return s}function a(t,e){f[t]=u(t).concat(e)}function u(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:u,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=l.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),u=window,c=u.document,f="addEventListener",s="attachEvent",p=(""+location).split("?")[0],l=e.exports={offset:i(),origin:p,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),u[f]("load",n,!1)):(c[s]("onreadystatechange",r),u[s]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}]},{},["G9z0Bl"]);</script>
-										<meta name="viewport" content="width=1046, maximum-scale=1.0">
-										<title>Privacy Policy</title>
-										<meta name="description" content="">
-										<link rel="shortcut icon" href="http://www.vladtv.com/favicon.ico">
-										<link rel="stylesheet" type="text/css" href="/includes/css/site.css">    	<script>
-		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-	
-		ga('create', 'UA-6141937-1', 'auto');
-		ga('send', 'pageview');
-	</script>
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-	<script>
-		
-		/* -- MENU VARIABLES ------------------------ */
-		var show 		= false;
-		var prev_id 	= '';
-		var current 	= '';
-		var _counter 	= 0;
-		var _seconds 	= 0;
-			
-		function openMenu() {
-
-			_seconds++;
-
-			if(_seconds == 2) { 
-				showMenu();
-				clearInterval(_counter);
-			}
-		
-		}
-		
-		function showMenu() {
-							
-			var id = '#'+ current.attr('rel');
-			var li = current.parent();
-			var pr = $('.menu-current');
-				
-			pr.removeClass('menu-current');
-			li.addClass('menu-current');
-				
-			if (!show) {
-				$(id).slideDown(500);
-				show = true;
-				prev_id = id;
-			} else {
-				$(prev_id).hide();
-				$(id).show();
-				prev_id = id;	
-			}
-
-		}
-
-		$(document).ready(function() {
-			
-			// CHECK FOR ANALYTICS EVENT DETECTION --------------------------------------- //
-			$("a[data-event]").click(function(e) {
-				var ev = $(this).attr('data-event');
-				ga('send', 'event', 'linksource', ev);
-				return true;
-			});
-			
-			if (screen.width <= 768) {
-				
-				$('.menu-link').click(function(e) { 
-					current = $(this);
-					var id 	= '#' + current.attr('rel');
-					if (id != prev_id) {
-						e.preventDefault();
-						showMenu();
-					}
-				});
-
-			} else {
-			
-				$(".menu-link").hover(function(){
-					
-					current = $(this);
-					
-					if (!show) {
-						 _counter = setInterval(openMenu, 250);
-					} else {
-						showMenu()
-					}
-		
-				}, function() {
-					clearInterval(_counter);
-				});
-			
-			}
-			
-			/* -- FACEBOOK RENDER FOR HIDDEN DIV ------- */	
-			var subscribe	= document.getElementsByClassName("social-media-icon-h")[0];
-			var fb_wrap		= document.getElementsByClassName("fb-wrap")[0]; 
-    		var rendered 	= false;
-
-			window.fbAsyncInit = function () {
-    			subscribe.onmouseover = function () {
-        			if (!rendered) {
-            			FB.XFBML.parse(fb_wrap);
-           				rendered = true;
-        			}
-    			};
-			};
-			
-			$(".social-media-icon-h").hover(function(e) {
-				var $em = $(this).find(".social-media-badge");
-				$em.css("z-index", '101');
-				$em.hide();
-				$em.slideDown(250);
-			}, function(e) {
-				$(this).find(".social-media-badge").slideUp(250);
-			});
-						
-		});
-	</script>
-    <script>
-		!function(d,s,id){
-			var js,fjs=d.getElementsByTagName(s)[0];
-			if(!d.getElementById(id)){
-				js=d.createElement(s);
-				js.id=id;
-				js.src="//platform.twitter.com/widgets.js";
-				fjs.parentNode.insertBefore(js,fjs);
-			}
-		}(document,"script","twitter-wjs");
-	</script>
-	<script>
-		cmnunt_site 		= 'cmn_vladtv';
-		cmnunt_silo 		= 's_mus';		
-		cmnunt_subsilo 		= '';	
-		cmnunt_tier 		= 't2,internal';				
-		cmnunt_zone			= 'system';					
-		cmnunt_kw 			= '';						
-		cmnunt_exclude		= '';						
-	</script>
-	<script src="http://cdn.complexmedianetwork.com/js/cmnUNT.js"></script></head>
+	<meta charset="utf-8"> 
+   	<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+    <meta name="viewport" content="width=1046, maximum-scale=1.0">
+	<title>VladTV // Privacy Policy</title><meta name="description" content="">
+	<link rel="icon" href="/images/site/favicon.ico">
+	<link rel="stylesheet" type="text/css" href="/includes/css/desktop.css">
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Roboto:400,700|Roboto+Condensed:400,700">
+	<script>var cmnunt_site = 'cmn_vladtv'; var cmnunt_silo = 's_mus'; var cmnunt_subsilo = ''; var cmnunt_tier = 't2,internal'; var cmnunt_zone = 'internal'; var cmnunt_kw = ''; var cmnunt_exclude = ''; </script><script src="http://cdn.complexmedianetwork.com/js/cmnUNT.js"></script>
+<script async="" type="text/javascript" src="http://vladtv.disqus.com/count.js"></script></head>
 
 <body><script type="text/javascript">
 //<![CDATA[
 try{(function(a){var b="http://",c="www.vladtv.com",d="/cdn-cgi/cl/",e="img.gif",f=new a;f.src=[b,c,d,e].join("")})(Image)}catch(e){}
 //]]>
 </script>
-
-		<div id="fb-root"></div>
-	<div id="cmn_ad_tag_head" class="fw_vladtv clearfix"><script>cmnUNT('3x3', tile_num++, 1);</script></div>
-	<div id="cmn_wrap">
-
-    <div id="container">
-    	
-        <div id="header" class="clearfix">
-           	<a href="/"><img src="/images/site/logo-vladtv-v2.png" alt="Logo: VladTV" width="454" height="90" id="header-logo"></a>
-                        <div id="header-right">
-            	<div id="social-media-icons-h" class="clearfix">
-                    <div class="social-media-icon-h" style="width:63px;">
-                    	<span class="social-media-icon" id="icons-facebook"></span>
-                    	<span class="social-media-count">42k</span>
-                        <div class="social-media-badge fb-wrap">
-                            <div class="fb-like" data-href="http://www.facebook.com/vladtv" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
-						</div>
-                    </div>
-                    <div class="social-media-icon-h">
-                    	<span class="social-media-icon" id="icons-twitter"></span>
-                    	<span class="social-media-count">112k</span>
-                    	<div class="social-media-badge tw-wrap">
-                        	<a href="https://twitter.com/djvlad" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @djvlad</a>
-						</div>
-                   	</div>
-                    <div class="social-media-icon-h">
-                    	<span class="social-media-icon" id="icons-instagram"></span>
-                    	<span class="social-media-count">39k</span>
-                    	<div class="social-media-badge">
-							<a href="http://instagram.com/vladtv?ref=badge" class="instagram-follow-button" target="_blank"><img src="//badges.instagram.com/static/images/ig-badge-16.png" alt="Image: Instagram Icon">Follow</a>		
-						</div>
-                   	</div>
-                    <div class="social-media-icon-h">
-                    	<span class="social-media-icon" id="icons-youtube"></span>
-                    	<span class="social-media-count">713k</span>
-                    	<div class="social-media-badge yt-wrap">
-							<script src="https://apis.google.com/js/platform.js"></script>
-							<div class="g-ytsubscribe" data-channel="djvlad" data-layout="default" data-count="hidden"></div>
-						</div>
-                   	</div>
-                    <div class="social-media-icon-h" style="width:30px;">
-                    	<a href="/page/contact/" class="social-media-icon" id="icons-contact"></a>
-                   	</div>
-                </div>
-                <div id="login">Guest User | <a href="/user-login.php">Login</a> | <a href="/user-register.php">Register</a></div>
-                <div id="search">
-                    <form action="/search.php" method="get">
-                        <input type="text" name="title" value="SEARCH" onfocus="this.value='';"><input type="image" name="submit" src="/images/site/button-search.png">
+    <div id="cmn_wrap">
+        <div class="header">
+            <div class="container clearfix">
+                <a href="/" data-event="logo"><img src="/images/site/logo-vladtv.png" alt="Logo: VladTV" width="151" height="30"></a>
+                <ul class="nav"><li id="menu-item-exclusives"><a href="/channel/exclusives" data-event="menu-exclusives"><span>Exclusives</span></a></li><li id="menu-item-new-music"><a href="/channel/new-music" data-event="menu-new-music"><span>New Music</span></a></li><li id="menu-item-news"><a href="/channel/news" data-event="menu-news"><span>News</span></a></li></ul>
+                <div class="search">
+                    <form action="/" method="get" id="form-search">
+                        <input type="text" name="search" value="SEARCH" id="ff_search" onfocus="this.value='';"><button type="submit"><span class="icon-search"></span></button>
                     </form>
                 </div>
+                <div class="social-media">
+                    <a href="https://youtube.com/VladTV" target="_blank" data-event="menu-sm-youtube" class="social-media-icon icon-youtube"></a>
+                    <a href="https://twitter.com/DJVlad" target="_blank" data-event="menu-sm-twitter" class="social-media-icon icon-twitter"></a>
+                    <a href="https://facebook.com/VladTV" target="_blank" data-event="menu-sm-facebook" class="social-media-icon icon-facebook"></a>
+                    <a href="https://instagram.com/VladTV" target="_blank" data-event="menu-sm-instagram" class="social-media-icon icon-instagram"></a>
+                    <a href="/page/contact" data-event="menu-contact" class="social-media-icon icon-mail"></a>
+                </div>
             </div>
         </div>
-
-        <div id="body">
-        
-        	<div id="menu" class="clearfix">
-				<ul><li><a href="/" title="Front Page" rel="menu-front-page" data-event="menu-main" class="menu-link">Front Page</a><img src="/images/site/arrow.png" alt="Icon: Menu Arrow" class="menu-arrow"></li><li><a href="/channel/exclusives/" rel="menu-exclusives" data-event="menu-main" class="menu-link">Exclusives</a><img src="/images/site/arrow.png" alt="Icon: Menu Arrow" class="menu-arrow"></li><li><a href="/channel/lists/" rel="menu-lists" data-event="menu-main" class="menu-link">Lists</a><img src="/images/site/arrow.png" alt="Icon: Menu Arrow" class="menu-arrow"></li><li><a href="/channel/beef/" rel="menu-beef" data-event="menu-main" class="menu-link">Beef</a><img src="/images/site/arrow.png" alt="Icon: Menu Arrow" class="menu-arrow"></li><li><a href="/channel/drama/" rel="menu-drama" data-event="menu-main" class="menu-link">Drama</a><img src="/images/site/arrow.png" alt="Icon: Menu Arrow" class="menu-arrow"></li><li><a href="/channel/mc-battles/" rel="menu-mc-battles" data-event="menu-main" class="menu-link">MC Battles</a><img src="/images/site/arrow.png" alt="Icon: Menu Arrow" class="menu-arrow"></li><li><a href="/channel/music/" rel="menu-music" data-event="menu-main" class="menu-link">Music</a><img src="/images/site/arrow.png" alt="Icon: Menu Arrow" class="menu-arrow"></li><li><a href="/channel/lmao-twitpics/" rel="menu-lmao-twitpics" data-event="menu-main" class="menu-link">LMAO Twitpics</a><img src="/images/site/arrow.png" alt="Icon: Menu Arrow" class="menu-arrow"></li><li><a href="/channel/breaking-news/" rel="menu-breaking-news" data-event="menu-main" class="menu-link">Breaking News</a><img src="/images/site/arrow.png" alt="Icon: Menu Arrow" class="menu-arrow"></li></ul><div id="menu-front-page" class="menu-top-entries clearfix"><div class="menu-highlight-entry"><a href="/blog/203609/nicki-minaj-confirms-whether-or-not-she-is-dating-meek-mill/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-203609.jpg" alt="Nicki Minaj Confirms Whether or Not She Is Dating Meek Mill"><p>Nicki Minaj Confirms Whether or Not She Is Dating Meek..</p></a></div><div class="menu-highlight-entry"><a href="/blog/203595/daylyt-lupe-fiasco-have-full-blown-rap-battle-on-twitter/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-203595.jpg" alt="Daylyt &amp; Lupe Fiasco Have Full-Blown Rap Battle on Twitter"><p>Daylyt &amp; Lupe Fiasco Have Full-Blown Rap Battle on..</p></a></div><div class="menu-highlight-entry"><a href="/blog/203579/nicki-minaj-responds-to-fans-clowning-her-acting-slim-frame/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-203579.jpg" alt="Nicki Minaj Responds to Fans Clowning Her Acting &amp; Slim Frame"><p>Nicki Minaj Responds to Fans Clowning Her Acting &amp; Slim..</p></a></div><div class="menu-highlight-text"><p><a href="/blog/203580/russell-simmons-spotted-trying-to-bag-model-chick-on-instagram/?menu" data-event="menu-article-text">Russell Simmons Spotted Trying to Bag..</a></p><p><a href="/blog/203513/ygs-girlfriend-claims-rapper-gave-her-herpes-in-ig-rant/?menu" data-event="menu-article-text">YG's Girlfriend Claims Rapper Gave Her..</a></p><p><a href="/blog/203519/kat-stacks-on-jhonni-blaze-shed-only-make-250-for-her-pimp/?menu" data-event="menu-article-text">Kat Stacks on Jhonni Blaze: She'd Only..</a></p><p><a href="/blog/203514/amber-rose-french-montana-get-close-rocking-major-wrist-bling/?menu" data-event="menu-article-text">Amber Rose &amp; French Montana Get Close..</a></p></div></div><div id="menu-exclusives" class="menu-top-entries clearfix"><div class="menu-highlight-entry"><a href="/blog/203564/tony-rock-comments-on-chris-divorce-i-want-him-to-be-happy/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-203564.jpg" alt="Tony Rock Comments on Chris' Divorce: I Want Him to Be Happy"><p>Tony Rock Comments on Chris' Divorce: I Want Him to Be..</p></a></div><div class="menu-highlight-entry"><a href="/video/203590/lisa-ann-the-porn-industry-is-very-racist-no-doubt-about-it/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-203590.jpg" alt="Lisa Ann: The Porn Industry Is Very Racist, No Doubt About It"><p>Lisa Ann: The Porn Industry Is Very Racist, No Doubt..</p></a></div><div class="menu-highlight-entry"><a href="/video/203533/jacquees-young-thug-is-a-real-nia-hes-not-funny-style/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-203533.jpg" alt="Jacquees: Young Thug Is a Real Ni**a, He's Not Funny Style"><p>Jacquees: Young Thug Is a Real Ni**a, He's Not Funny..</p></a></div><div class="menu-highlight-text"><p><a href="/video/203524/logic-on-j-cole-calling-out-white-rappers-on-fire-squad/?menu" data-event="menu-article-text">Logic on J. Cole Calling Out White..</a></p><p><a href="/video/203527/lord-jamar-iggy-azalea-will-win-best-rap-grammy-thats-racist/?menu" data-event="menu-article-text">Lord Jamar: Iggy Azalea Will Win Best..</a></p><p><a href="/video/203596/lord-jamar-eminem-is-no-different-than-macklemore/?menu" data-event="menu-article-text">Lord Jamar: Eminem Is No Different Than..</a></p><p><a href="/video/203530/amina-on-joe-budden-clowning-her-relationship-with-peter-gunz/?menu" data-event="menu-article-text">Amina on Joe Budden Clowning Her..</a></p></div></div><div id="menu-lists" class="menu-top-entries clearfix"><div class="menu-highlight-entry"><a href="/blog/203420/vladtvs-vixen-of-the-week-the-gigantic-cheeks-of-raychiel/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-203420.jpg" alt="VladTV's Vixen of the Week: The Gigantic Cheeks of Raychiel"><p>VladTV's Vixen of the Week: The Gigantic Cheeks of..</p></a></div><div class="menu-highlight-entry"><a href="/blog/202487/vladtvs-top-100-exclusives-of-2014/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-202487.jpg" alt="VladTV's Top 100 Exclusives of 2014"><p>VladTV's Top 100 Exclusives of 2014</p></a></div><div class="menu-highlight-entry"><a href="/blog/202957/vladtvs-top-50-scandals-of-2014/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-202957.jpg" alt="VladTV's Top 50 Scandals of 2014"><p>VladTV's Top 50 Scandals of 2014</p></a></div><div class="menu-highlight-text"><p><a href="/blog/203112/vladtvs-top-30-lord-jamar-exclusives-of-2014/?menu" data-event="menu-article-text">VladTV's Top 30 Lord Jamar Exclusives..</a></p><p><a href="/blog/202810/vladtvs-top-50-charlamagne-exclusives-of-2014/?menu" data-event="menu-article-text">VladTV's Top 50 Charlamagne Exclusives..</a></p><p><a href="/blog/202753/vladtvs-top-30-twitter-instagram-beefs-of-2014/?menu" data-event="menu-article-text">VladTV's Top 30 Twitter &amp; Instagram..</a></p><p><a href="/blog/202409/vladtvs-vixen-of-the-week-caked-out-dime-jhonni-blaze/?menu" data-event="menu-article-text">VladTV's Vixen of the Week: Caked Out..</a></p></div></div><div id="menu-beef" class="menu-top-entries clearfix"><div class="menu-highlight-entry"><a href="/blog/203540/dj-mustard-yg-beef-on-instagram-promise-to-meet-up-fight/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-203540.jpg" alt="DJ Mustard &amp; YG Beef on Instagram, Promise to Meet Up &amp; Fight"><p>DJ Mustard &amp; YG Beef on Instagram, Promise to Meet Up &amp;..</p></a></div><div class="menu-highlight-entry"><a href="/blog/203312/azealia-banks-comes-for-iggys-neck-over-her-response-to-q-tip/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-203312.jpg" alt="Azealia Banks Comes for Iggy's Neck Over Her Response to Q-Tip"><p>Azealia Banks Comes for Iggy's Neck Over Her Response to..</p></a></div><div class="menu-highlight-entry"><a href="/video/203399/dej-loaf-female-emcees-dont-have-to-beef-to-prove-greatness/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-203399.jpg" alt="Dej Loaf: Female Emcees Don't Have to Beef to Prove Greatness"><p>Dej Loaf: Female Emcees Don't Have to Beef to Prove..</p></a></div><div class="menu-highlight-text"><p><a href="/blog/203145/solange-q-tip-action-bronson-beef-over-azealia-interview/?menu" data-event="menu-article-text">Solange, Q-Tip &amp; Action Bronson Beef..</a></p><p><a href="/blog/203099/iggy-azalea-azealia-banks-get-in-most-heated-twitter-war-yet/?menu" data-event="menu-article-text">Iggy Azalea &amp; Azealia Banks Get in Most..</a></p><p><a href="/blog/202567/gangsters-unite-migos-chief-keef-officially-squash-beef/?menu" data-event="menu-article-text">Gangsters Unite: Migos &amp; Chief Keef..</a></p><p><a href="/blog/202696/beef-burned-chief-keef-makes-amends-with-king-louie/?menu" data-event="menu-article-text">Beef Burned: Chief Keef Makes Amends..</a></p></div></div><div id="menu-drama" class="menu-top-entries clearfix"><div class="menu-highlight-entry"><a href="/blog/203434/alleged-usher-tameka-sex-tape-photos-leak-spark-uproar/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-203434.jpg" alt="Alleged Usher &amp; Tameka Sex Tape Photos Leak &amp; Spark Uproar"><p>Alleged Usher &amp; Tameka Sex Tape Photos Leak &amp; Spark..</p></a></div><div class="menu-highlight-entry"><a href="/blog/203513/ygs-girlfriend-claims-rapper-gave-her-herpes-in-ig-rant/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-203513.jpg" alt="YG's Girlfriend Claims Rapper Gave Her Herpes in IG Rant"><p>YG's Girlfriend Claims Rapper Gave Her Herpes in IG..</p></a></div><div class="menu-highlight-entry"><a href="/blog/203472/dame-dash-pokes-fun-at-kevin-harts-footwear-during-reunion/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-203472.jpg" alt="Dame Dash Pokes Fun at Kevin Hart's Footwear During Reunion"><p>Dame Dash Pokes Fun at Kevin Hart's Footwear During..</p></a></div><div class="menu-highlight-text"><p><a href="/blog/203442/ti-challenges-fan-to-fight-for-talking-slick-on-instagram/?menu" data-event="menu-article-text">T.I. Challenges Fan to Fight for..</a></p><p><a href="/blog/203519/kat-stacks-on-jhonni-blaze-shed-only-make-250-for-her-pimp/?menu" data-event="menu-article-text">Kat Stacks on Jhonni Blaze: She'd Only..</a></p><p><a href="/blog/203500/50-cent-accuses-fox-of-stealing-power-concept-for-empire/?menu" data-event="menu-article-text">50 Cent Accuses Fox of Stealing 'Power'..</a></p><p><a href="/blog/203428/lil-wayne-to-sue-cash-money-if-birdman-doesnt-release-him/?menu" data-event="menu-article-text">Lil Wayne to Sue Cash Money if Birdman..</a></p></div></div><div id="menu-mc-battles" class="menu-top-entries clearfix"><div class="menu-highlight-entry"><a href="/blog/203595/daylyt-lupe-fiasco-have-full-blown-rap-battle-on-twitter/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-203595.jpg" alt="Daylyt &amp; Lupe Fiasco Have Full-Blown Rap Battle on Twitter"><p>Daylyt &amp; Lupe Fiasco Have Full-Blown Rap Battle on..</p></a></div><div class="menu-highlight-entry"><a href="/video/203600/go-rilla-warfare-the-blueprint-battle-daylyt-vs-aye-verb/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-203600.jpg" alt="Go-Rilla Warfare &quot;The Blueprint&quot; Battle: Daylyt vs. Aye Verb"><p>Go-Rilla Warfare "The Blueprint" Battle: Daylyt vs. Aye..</p></a></div><div class="menu-highlight-entry"><a href="/video/203599/smack-url-summer-madness-4-battle-tay-roc-vs-dna/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-203599.jpg" alt="Smack/URL Summer Madness 4 Battle: Tay Roc vs. DNA"><p>Smack/URL Summer Madness 4 Battle: Tay Roc vs. DNA</p></a></div><div class="menu-highlight-text"><p><a href="/video/203593/charlie-clips-regardless-if-rex-prepared-i-whooped-his-as/?menu" data-event="menu-article-text">Charlie Clips: Regardless If Rex..</a></p><p><a href="/video/203581/hollow-da-don-vs-charlie-clips-announced-for-nome-5/?menu" data-event="menu-article-text">Hollow Da Don vs. Charlie Clips..</a></p><p><a href="/video/203584/kotd-announces-arsonal-vs-mistah-fab-to-headline-botb7-event/?menu" data-event="menu-article-text">KOTD Announces Arsonal vs. Mistah Fab..</a></p><p><a href="/video/203620/dont-flop-usa-battle-john-john-da-don-vs-eurgh/?menu" data-event="menu-article-text">Don't Flop USA Battle: John John Da Don..</a></p></div></div><div id="menu-music" class="menu-top-entries clearfix"><div class="menu-highlight-entry"><a href="/video/203533/jacquees-young-thug-is-a-real-nia-hes-not-funny-style/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-203533.jpg" alt="Jacquees: Young Thug Is a Real Ni**a, He's Not Funny Style"><p>Jacquees: Young Thug Is a Real Ni**a, He's Not Funny..</p></a></div><div class="menu-highlight-entry"><a href="/video/203524/logic-on-j-cole-calling-out-white-rappers-on-fire-squad/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-203524.jpg" alt="Logic on J. Cole Calling Out White Rappers on &quot;Fire Squad&quot;"><p>Logic on J. Cole Calling Out White Rappers on "Fire..</p></a></div><div class="menu-highlight-entry"><a href="/video/203539/donnell-ashy-larry-rawlings-spoofs-coco-w-new-song-lotion/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-203539.jpg" alt="Donnell &quot;Ashy Larry&quot; Rawlings Spoofs &quot;CoCo&quot; w/ New Song &quot;Lotion&quot;"><p>Donnell "Ashy Larry" Rawlings Spoofs "CoCo" w/ New Song..</p></a></div><div class="menu-highlight-text"><p><a href="/video/203574/e-a-ski-ft-codany-holiday-they-know-music-video/?menu" data-event="menu-article-text">E-A-SKI ft. Codany Holiday- "They Know"..</a></p><p><a href="/blog/203497/lil-b-frank-ocean-hit-the-studio-together/?menu" data-event="menu-article-text">Lil B &amp; Frank Ocean Hit the Studio..</a></p><p><a href="/video/203484/hopsin-reveals-retirement-announcement-was-a-hoax/?menu" data-event="menu-article-text">Hopsin Reveals Retirement Announcement..</a></p><p><a href="/video/203458/chris-rock-explains-why-he-left-eminem-off-his-top-five-list/?menu" data-event="menu-article-text">Chris Rock Explains Why He Left Eminem..</a></p></div></div><div id="menu-lmao-twitpics" class="menu-top-entries clearfix"><div class="menu-highlight-entry"><a href="/blog/42584/its-that-serious-huh/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-042584.jpg" alt="It's That Serious Huh?"><p>It's That Serious Huh?</p></a></div><div class="menu-highlight-entry"><a href="/blog/42098/thug-fail/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-042098.jpg" alt="Thug Fail"><p>Thug Fail</p></a></div><div class="menu-highlight-entry"><a href="/blog/42251/where-is-this/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-042251.jpg" alt="Where Is This?"><p>Where Is This?</p></a></div><div class="menu-highlight-text"><p><a href="/blog/43167/barbie-fail/?menu" data-event="menu-article-text">Barbie Fail</a></p><p><a href="/blog/44111/explain-this-image/?menu" data-event="menu-article-text">Explain This Image</a></p><p><a href="/blog/43077/stop-it/?menu" data-event="menu-article-text">Stop It!</a></p><p><a href="/blog/43917/probably-true/?menu" data-event="menu-article-text">Probably True</a></p></div></div><div id="menu-breaking-news" class="menu-top-entries clearfix"><div class="menu-highlight-entry"><a href="/blog/203383/beyonce-shares-intimate-photos-from-jay-zs-iceland-birthday/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-203383.jpg" alt="Beyonce Shares Intimate Photos From Jay Z's Iceland Birthday"><p>Beyonce Shares Intimate Photos From Jay Z's Iceland..</p></a></div><div class="menu-highlight-entry"><a href="/blog/203380/game-goes-last-minute-shopping-in-a-slick-lamborghini-huracan/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-203380.jpg" alt="Game Goes Last Minute Shopping in a Slick Lamborghini Huracan"><p>Game Goes Last Minute Shopping in a Slick Lamborghini..</p></a></div><div class="menu-highlight-entry"><a href="/blog/203514/amber-rose-french-montana-get-close-rocking-major-wrist-bling/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-203514.jpg" alt="Amber Rose &amp; French Montana Get Close Rocking Major Wrist Bling"><p>Amber Rose &amp; French Montana Get Close Rocking Major Wrist..</p></a></div><div class="menu-highlight-text"><p><a href="/blog/203460/chelsea-handler-flashes-topless-photo-during-ski-trip/?menu" data-event="menu-article-text">Chelsea Handler Flashes Topless Photo..</a></p><p><a href="/blog/203579/nicki-minaj-responds-to-fans-clowning-her-acting-slim-frame/?menu" data-event="menu-article-text">Nicki Minaj Responds to Fans Clowning..</a></p><p><a href="/blog/203522/tyga-hangs-with-rumored-boo-kylie-jenner-after-attending-protest/?menu" data-event="menu-article-text">Tyga Hangs With Rumored Boo Kylie..</a></p><p><a href="/blog/203444/lebron-james-shows-brotherly-love-to-dwyane-wade-amid-defeat/?menu" data-event="menu-article-text">Lebron James Shows Brotherly Love to..</a></p></div></div>        	</div>
-			
-            <div id="notification"></div>            
-        <div id="area-featured">
-        	<h2><span>Privacy Policy</span></h2>
-			<div id="page-info">
-				<p><strong>Third Party Advertising / Third Party Cookies </strong><br> In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. Security measures. We protect the personal information you share with us. Authorized third party agents may also need access to some of your personal information. For example, if we need to ship something to you, we must share your name and address with a shipping company. We only provide third party agents with the minimum amount of information needed to complete the requested service or transaction. We do not otherwise share your personal information with third parties, unless you have granted us permission to do so. <br> <br> <strong>Data Retention </strong><br> Vladtv.com will not retain your personal information longer than is necessary for the purposes for which it was collected. <br> <br> <strong>Linked web sites</strong><br> We provide links to third party sites. Since we do not control these Web sites, we encourage you to review the privacy policies posted on these (and all) third party sites. Children's privacy We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems. Vladtv.com encourages parents to go online with their kids. <br> <br> <strong>Here are a few tips to help make a child's online experience safer: </strong><br> Teach kids never to give personal information, unless supervised by a parent or responsible adult. Includes name, address, phone, school, etc. <br> <br> Know the sites your kids are visiting and which sites are appropriate. Look for Web site privacy policies. <br> <br> Know how your child's information is treated. Check out the FTC's site(1) for more tips on protecting children's privacy online. <br> <br> We may display advertisements from third parties. Third party ad-serving companies control which ads are shown. These ad-serving companies may use cookies to collect non-personally identifiable information from you. Advertisers use this information to target the ads and measure their impact. Third Party Advertising These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here. Third Party Cookies. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.</p>
-<p>It is our strict policy to never knowingly work in association with any infringing entity's unlawful use of a lawful trademark or lawful copyright. Remember, VladTV is simply a site that provides its readers with reporting of urban media &amp; hip hop news and opinions.</p>            </div>
-                    </div>
-        
-        <div id="area-featured-right">
-            <div id="ad-300">
-                <script type="text/javascript">cmnUNT('300x250,300x600', tile_num++);</script> 
-            </div>
-        </div>
-
-        <div class="clear"></div>
-        
-	        <div id="footer">
-            Copyright © 2008-2014 Hot In Here, Inc. All Rights Reserved. <a href="/page/terms/">Terms of Service</a> | <a href="/page/privacy/">Privacy</a> | <a href="/page/jobs/">Jobs</a> | <a href="/page/contact/">Contact</a><br>
-        </div>
-    
-    </div>
-    
-</div>
-
-<!-- Begin comScore Tag --> 
-<script>
-	document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
-</script><script src="https://sb.scorecardresearch.com/beacon.js"></script> 
-<script>   
-	COMSCORE.beacon({     
-	c1: 2,     
-	c2: 6685975,     
-	c3: "",     
-	c4: "www.vladtv.com/page/privacy/'",     
-	c5: "",     
-	c6: "",     
-	c15: ""   
-	}); 
-</script> 
-<noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6685975&c3=&c4=&c5=&c6=&c15=&cj=1" /></noscript> 
-<!-- End comScore Tag -->   
-
-<script>			
-    cmnTB();
-    cmnUNT('tover', tile_num++, 1);
-</script>
-
-<script>
-	(function(d, s, id) {
-		var js, fjs = d.getElementsByTagName(s)[0];
-		if (d.getElementById(id)) return;
-		js = d.createElement(s); js.id = id;
-		js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=126470887435515";
-		fjs.parentNode.insertBefore(js, fjs);
-	}(document, 'script', 'facebook-jssdk'));
-</script>
-
- 
-
- 
-    
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"5a103dc51c","applicationID":"1482965","transactionName":"MwBTNxAFX0EEBkxcCwpKZBELS0FTAgAWRQwU","queueTime":0,"applicationTime":33,"atts":"H0dQQVgfTE8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
-</div><script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+        <div id="notification"></div>
+    	<div class="container">    
+            <div id="cmn_ad_tag_head" class="fw_vladtv clearfix"><script>cmnUNT('3x3', tile_num++);</script></div>
+        	<div class="body clearfix">
+            	<div id="gallery-overlay"><img id="gallery-overlay-image"></div>
+            	<div id="arrow-overlay-u"><span class="icon-up-big"></span></div>
+        		<div id="content" class="column-full clearfix"><div class="column-main"><h1>Privacy Policy</h1><p><strong>Third Party Advertising / Third Party Cookies </strong><br> In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. Security measures. We protect the personal information you share with us. Authorized third party agents may also need access to some of your personal information. For example, if we need to ship something to you, we must share your name and address with a shipping company. We only provide third party agents with the minimum amount of information needed to complete the requested service or transaction. We do not otherwise share your personal information with third parties, unless you have granted us permission to do so. <br> <br> <strong>Data Retention </strong><br> Vladtv.com will not retain your personal information longer than is necessary for the purposes for which it was collected. <br> <br> <strong>Linked web sites</strong><br> We provide links to third party sites. Since we do not control these Web sites, we encourage you to review the privacy policies posted on these (and all) third party sites. Children's privacy We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems. Vladtv.com encourages parents to go online with their kids. <br> <br> <strong>Here are a few tips to help make a child's online experience safer: </strong><br> Teach kids never to give personal information, unless supervised by a parent or responsible adult. Includes name, address, phone, school, etc. <br> <br> Know the sites your kids are visiting and which sites are appropriate. Look for Web site privacy policies. <br> <br> Know how your child's information is treated. Check out the FTC's site(1) for more tips on protecting children's privacy online. <br> <br> We may display advertisements from third parties. Third party ad-serving companies control which ads are shown. These ad-serving companies may use cookies to collect non-personally identifiable information from you. Advertisers use this information to target the ads and measure their impact. Third Party Advertising These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here. Third Party Cookies. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.</p>
+<p>It is our strict policy to never knowingly work in association with any infringing entity's unlawful use of a lawful trademark or lawful copyright. Remember, VladTV is simply a site that provides its readers with reporting of urban media &amp; hip hop news and opinions.</p></div><div class="column-side"><div class="ad-300"><script>cmnUNT("300x250", tile_num++, 1);</script></div><div class="nav-pages"><h2>Other Pages</h2><ul><li><a href="/page/contact" data-event="additional-page">Contact</a></li><li><a href="/page/jobs" data-event="additional-page">Jobs</a></li><li><a href="/page/terms" data-event="additional-page">Terms of Service</a></li></ul></div></div></div>
+    		</div>
+    	</div>
+	</div>
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-6141937-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+   	<script src="/includes/template/js/lib-desktop.js"></script>
+    <link rel="stylesheet" type="text/css" href="/includes/css/lib-desktop.css">
+	<script>
+		var n = 1433741711;
+	</script>
+    <script src="/includes/template/js/page.js"></script>
+	<script>
+        var disqus_shortname = 'vladtv';
+        (function () {
+            var s = document.createElement('script'); s.async = true;
+            s.type = 'text/javascript';
+            s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    </script> 
+    <script>
+        document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+    </script><script src="https://sb.scorecardresearch.com/beacon.js"></script> 
+    <script>   
+        COMSCORE.beacon({     
+        c1: 2,     
+        c2: 6685975,     
+        c3: "",     
+        c4: "'",     
+        c5: "",     
+        c6: "",     
+        c15: ""   
+        }); 
+    </script> 
+    <noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6685975&c3=&c4=&c5=&c6=&c15=&cj=1" /></noscript> 
+	<script>			
+        cmnTB();
+        cmnUNT('tover', tile_num++, 1);
+    </script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"5a103dc51c","applicationID":"1482965","transactionName":"MwBTNxAFX0EEBkxcCwpKZBELS1hcAQBAGxQMFQ==","queueTime":0,"applicationTime":26,"atts":"H0dQQVgfTE8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+</body></html>
