@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 4pics1wordanswer.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230075857id_/http%3A//4pics1wordanswer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4pics1wordanswer.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608032837id_/http%3A//4pics1wordanswer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | 4 Pics 1 Word Answer What's The Word Emoji
+# Privacy Policy | 4 Pics 1 Word Game Answers What's The Word Emoji
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@4pics1wordanswer.com.
 
