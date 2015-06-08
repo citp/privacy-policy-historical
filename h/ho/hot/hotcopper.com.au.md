@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotcopper.com.au privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214112435id_/http%3A//hotcopper.com.au/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotcopper.com.au privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609002111id_/http%3A//hotcopper.com.au/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HotCopper - ASX, Share Prices, Stock Trading, Stock Market, Share Trading Forum
 
