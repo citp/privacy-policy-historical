@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehorse.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225180821id_/http%3A//www.thehorse.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehorse.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608061808id_/http%3A//www.thehorse.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TheHorse.com
 
@@ -6,7 +6,7 @@
 
 **PLEASE NOTE:** Our Privacy Policy has changed effective February 1, 2014. If you submitted personally identifiable information to this date, and wish to opt-out of having that previously submitted information from being treated under this new policy, please contact us at [admin@TheHorse.com](mailto:admin@TheHorse.com).
 
-Welcome to TheHorse.com (“Website”), an interactive online service operated by Blood-Horse Publications (“us”, “we”, or “our”).
+Welcome to TheHorse.com (“Website”), an interactive online service operated by The Horse Media Group LLC (“us”, “we”, or “our”).
 
 We respect your privacy and are committed to protecting personally identifiable information you may provide us through our Website. We have adopted this Privacy Policy (“Privacy Policy”) to explain what information may be collected based on your interaction with our Website, how we and others use this information, under what circumstances we may disclose the information to third parties, and the instances in which we may allow third parties to collect information directly. This Privacy Policy applies only to information we collect through our Website and does not apply to our collection of information from other sources.
 
