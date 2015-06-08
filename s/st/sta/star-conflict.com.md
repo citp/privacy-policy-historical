@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the star-conflict.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125160958id_/http%3A//star-conflict.com/en/b/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the star-conflict.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608021057id_/http%3A//star-conflict.com/en/b/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# STAR CONFLICT — MMO SPACE ACTION - Privacy Policy
 
-PLEASE READ THIS DOCUMENT CAREFULLY.  IT CONTAINS IMPORTANT INFORMATION THAT YOU SHOULD KNOW BEFORE CONTINUING TO USE THIS WEBSITE AND RELATED SERVICES.  ALSO NOTE THAT BY CONTINUING TO USE GAIJIN’S WEBSITE AND/OR RELATED SERVICES (As such term defined in the Terms of Services <http://online.gaijinent.com/page.php?page=terms>) YOU WILL BE DEEMED TO HAVE ACCEPTED THIS PRIVACY POLICY.  Your use of the Gaijin’s websites, Services provided therein and related products, is subject to this privacy statement (“ _Privacy Policy_ ”) and Gaijin’s Terms of Services located at: <http://online.gaijinent.com/page.php?page=terms>.
+## Gaijin Online
+
+PLEASE READ THIS DOCUMENT CAREFULLY.  IT CONTAINS IMPORTANT INFORMATION THAT YOU SHOULD KNOW BEFORE CONTINUING TO USE THIS WEBSITE AND RELATED SERVICES.  ALSO NOTE THAT BY CONTINUING TO USE GAIJIN’S WEBSITE AND/OR RELATED SERVICES (As such term defined in the Terms of Services <http://online.gaijinent.com/terms.php>) YOU WILL BE DEEMED TO HAVE ACCEPTED THIS PRIVACY POLICY.  Your use of the Gaijin’s websites, Services provided therein and related products, is subject to this privacy statement (“ _Privacy Policy_ ”) and Gaijin’s Terms of Services located at: <http://online.gaijinent.com/terms.php>.
 
 Gaijin has a strong commitment to providing superior service to all of our Website customers and visitors, and particularly Gaijin respects your concerns about your privacy.  As you use our Website and our products and Services, we may gather certain personal and other information from you.  We have created this Privacy Policy to inform you of the type of information we gather, what we do with that information, and the circumstances under which we may disclose your information.  We ask that you please read this Privacy Policy carefully prior to using our Website or our products and Services.
 
@@ -12,9 +14,9 @@ This Privacy Policy contains numerous general and technical details describing t
 
 If after reviewing this Privacy Policy you still have questions or privacy concerns please contact us at: [legals@gaijinent.com](mailto:legals@gaijinent.com).
 
-###  Summary
+### Summary
 
-This privacy statement was last updated on January 21, 2013. Gaijin Entertainment LLP (collectively, “ _Gaijin_ ”) has created this privacy statement in order to disclose our information gathering and dissemination practices for warthunder.ru, warthunder.com, starconflict.ru starconflictgame.com, online.gaijin.ru, and online.gaijinent.com (collectively, “ _Website_ ”).
+This privacy statement was last updated on December 13, 2012. Gaijin Entertainment Corporation (collectively, “ _Gaijin_ ”) has created this privacy statement in order to disclose our information gathering and dissemination practices for warthunder.ru, warthunder.com, starconflict.ru starconflictgame.com, online.gaijin.ru, and online.gaijinent.com (collectively, “ _Website_ ”).
 
 This Privacy Policy will inform you of the following: (1) the type of personally identifiable information we collect through our Website as well as our products and Services; (2) how your information is used; (3) with whom your information may be shared; (4) what choices are available to you regarding the collection, use, and distribution of your information; (5) the security procedures in place to protect your information; and  (6) how you can access and correct any inaccuracies in the information collected about you.
 
@@ -22,19 +24,19 @@ Although we do our best to make sure that all our agreements with users are mutu
 
 A note about the Website:  because some of our Services, data centers, service providers, affiliates or operating partners and servers may be located in a variety of countries, our products and Services may be subject to the laws of numerous countries and jurisdictions, some of which may require us to disclose certain information about our users.  We are committed to keeping your information private, while still following all applicable laws.
 
-###  Changes in the Privacy Policy
+### Changes in the Privacy Policy
 
 We want you to always be aware of what personal and other information we collect, how we use it, and under what circumstances we may disclose it.  All personal information that we collect will be handled according to the Privacy Policy in effect at the time the information is collected.  If the Privacy Policy changes in any significant respect, we will not use your personal data in a manner that is inconsistent with the Privacy Policy in effect at the time your information was collected without your permission. 
 
 From time to time, we may find the need to make changes to this Privacy Policy.  This Privacy Policy may be amended by Gaijin upon notice given by one or more of the following means: through the Website at or after you login to your account, by the email communication to the address provided by you when you setup your account, or by written mail communication to the address on record for your account.  Failure to provide or maintain accurate or current contact information by you will not avail you from responsibility to comply with Privacy Policy as amended.  Please check the Privacy Policy published on this Website regularly to ensure that you are aware of all terms governing your use of this Website.
 
-##  A. COLLECTEDINFORMATION
+## A. COLLECTEDINFORMATION
 
-###  Browsing
+### Browsing
 
 We do not collect personally identifiable information from your computer when you browse our Website.  This means that, unless you voluntarily provide us with your personally identifiable information, we will not know your name, your e-mail address, or any other personally identifiable information.  However, when you request a page from our Website or use our Service,our servers log the information provided in the HTTP request header, JavaScript or similar technical tools, including the IP number, the name on the registered account from which the request was sent, the time and duration of the request or use of our Service, the URL of your request and other information related to the Website or Service. Such information can be made available to Gaijin, our affiliates, operating partners, some trusted third parties and game moderators and game masters.We collect this information in order to make the Website function correctly and provide you with the content that you see on the Website.  We also use this information to better understand how visitors use the Website and how we can better tune the Website, its contents, and functionality to meet your needs.
 
-###  Third Party Websites/Application
+### Third Party Websites/Application
 
 Not all content on the Website is owned and controlled by us.  The Website may contain links to websites owned and/or operated by third parties.These third partiesmay drop cookies and/or use web beacons on your system, which may be used to identify your preferences or to recognize if you have previously had contact with these third parties.  Wedonotcontrolthesewebsites, their content, or their information collection practicesandare not responsible for their privacy policies or practices.  Please direct all concerns regarding any third party website to that site’s administrator or webmaster. 
 
@@ -42,7 +44,7 @@ We may use third party advertising companies to display advertisements when you 
 
 We may also make third party applications available through our Website or our products and Services.  Please note that when you enable a third party application, any the information collected by us is processed under this Privacy Policy while any information collected by the third parties is governed by their respective privacy policy.
 
-###  Information We Collect
+### Information We Collect
 
 As a visitor to the Website, you can engage in many activities on the Website without providing any personal information.  However, if you engage in some activities, such as using certain Services (e.g. playing **War Thunder-MMO** combat game), a personal account may be required.  Using the Services may also require you to provide your email address and create a nickname associated with your account.  Your first and last name and other information may be also required for processing an online payment by online payment services provider as described in the preceding paragraphs.  In setting up your personal account, we may ask you to voluntarily provide us with certain information about yourself, such as your first and last name, mailing address (including ZIP code), e-mail address and/or other personal information.  It is completely optional for you to engage in these activities and therefore to provide us with your personal information.
 
@@ -58,17 +60,17 @@ Theinformation you submit to us may be transferred across national boundaries an
 
 We may establish relationships with certain third party service providers.  Typically, these providers would offer services that our users may find useful.  In order to use these services, you may be required to provide personal information to these providers.  Generally, personal information that you provide while visiting a provider’s website will be subject to a privacy policy posted on that site.  You should be aware, however, that our agreements with these service providers may provide that they will share with us certain personal information collected from you.  In such instances, we will only use your information in a manner consistent with this Privacy Policy.
 
-###  Personal Account
+### Personal Account
 
 You may be given an opportunity to create a personal account, which may be required for receiving Services offered or to be offered on the Website.  Once the personal account is created, you will be able to access, review and update your personal account information via the Website.
 
 If you wish to deactivate your personal account, you can contact us at [legals@gaijinent.com](mailto:legals@gaijinent.com).  When you deactivate your personal account, all information stored and maintained as part of your account may be retained for archival, backup and record purposes.  You may change your personal information and privacy preferences at any time by logging into your personal account. You may also access and change your personal information and privacy preferences by contacting us at [legals@gaijinent.com](mailto:legals@gaijinent.com).
 
-###  Information Relating to Children
+### Information Relating to Children
 
-Our Website and any products or Services available on our Website are **_not_** directed to children under 13 years of age.  However, despite our intent, we recognize that children under the age of 13 may access this Website and subscribe to the newsletter or purchase products and Services. Parents and Legal Guardians may request for us to review, delete, or stop the collection of their child’s personally identifiable information by contacting us at [legals@gaijinent.com](mailto:atlegals@gaijinent.com).  For additional information and resources regarding child online privacy, please visit the Federal Trade Commission Web site at <http://www.ftc.gov/>.
+Our Website and any products or Services available on our Website are **_not_** directed to children under 13 years of age.  However, despite our intent, we recognize that children under the age of 13 may access this Website and subscribe to the newsletter or purchase products and Services. Parents and Legal Guardians may request for us to review, delete, or stop the collection of their child’s personally identifiable information by contacting us [atlegals@gaijinent.com](mailto:atlegals@gaijinent.com).  For additional information and resources regarding child online privacy, please visit the Federal Trade Commission Web site at <http://www.ftc.gov/>.
 
-###  Securing the Transmission and Storage of Information
+### Securing the Transmission and Storage of Information
 
 We are committed to protecting the security of your personal information.To protect that information, we use a variety of security technologies and procedures.  Our data networks are protected by industry standard firewall and password protection systems and our security policies are periodically reviewed and enhanced as necessary.  Furthermore, only authorized individuals have access to the information provided by you (other than certain publicly-available information you provide such as, for example, your in-game nickname and game statistics).  However, you should be aware that no data transmission over the Internet can be guaranteed secure.  As a result, while we strive to protect your personal information, we cannot guarantee the security of any information you transmit to us and you use our content, products, and Services at your own risk.
 
@@ -76,19 +78,19 @@ We treat the information you provide to us as confidential information. You pers
 
 If you use a password protect your accounts and personal information, it is your responsibility to keep your password confidential. Do not share this information with anyone. If you are sharing a computer, you should always log out before leaving any site or Service to protect access to your information from subsequent users.
 
-##  B. USE ANDDISCLOSURE OF INFORMATION
+## B. USE ANDDISCLOSURE OF INFORMATION
 
-###  How Your Personal Information Is Used
+### How Your Personal Information Is Used
 
 We collect your information in order to record and support your participation in the activities you select.  We may use your e-mail address to send a confirmation e-mail and, if necessary, may use other information you provide to us to contact you to assist us in processing purchases and Services you select.  If you use the Services some of your information, including, without limitation, game statistics, game profile associated with your personal account (e.g. kill/death ratio) may be made available to other users.  Unless you opt-out, your personal information also may be used to keep you informed about our new products, product upgrades, patches, special offers, and other products and Services of selected third parties.
 
 We may collect information about the use of the Website, such as the types of Services used and how many users we receive daily.  This information is collected in aggregate form, without identifying any user individually. We may use this aggregate, non-identifying statistical data for statistical analysis, marketing, or similar promotional purposes.
 
-###  Legal Issues
+### Legal Issues
 
 Although we will always strive to guard your identity, we may disclose your personally identifiable information without your permission in limited circumstances.  We will only do so if we have a good-faith belief that disclosure is reasonably necessary to (1) comply with laws, regulations, or government requests or (2) to investigate or protect against harmful activities to our guests, visitors, associates, or property (including the Website), or to others.  If we are required by law enforcement or judicial authorities to provide your personally identifiable information, we will only do so upon receipt of appropriate documentation.  We may also disclose your information to investigate violation of and enforce our Terms of Services.  Please know that we do not take this responsibility lightly.  Your privacy is of paramount importance to us.
 
-###  Choices Available to You
+### Choices Available to You
 
 You can always choose whether or not to disclose personally identifiable information and that choice will not prevent you from using the Website.  However, as previously discussed, withholding certain requested information may prevent us from providing you with certain Services (e.g. participating in a forum or playing the game).
 
@@ -104,7 +106,7 @@ If you wish to opt out of receiving emails, the sharing or retention of any pers
 
 To ensure that your request is honored, provide information sufficient for us to accurately identify and access your records, such as your full name, address and the email address you provided to us when you requested Services or products.   We reserve the right to contact you to verify that we have accurately identified record.
 
-###  Cookiesand Web Beacons
+### Cookiesand Web Beacons
 
 Our website uses “cookie” and “web beacon” technology.  “Cookies” are short pieces of data generated by a web server that a website stores on a user’s computer.  Certain pages on our Website may require the use of a cookie for purposes of keeping information you enter on multiple pages together.  Cookies also enable us to customize our Website and offerings to your needs and provide you with a better online experience with us.  In addition, cookies are used to:
 
@@ -122,7 +124,7 @@ You may set your browser to block cookies (consult the instructions for your par
 
 Web beacons are used in combination with cookies to help website operators understand how visitors interact with their websites. A web beacon is typically a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a site. In contrast to cookies, which are stored on a user’s computer hard drive, web beacons are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. These web beacons are not tied to personally identifiable information. The use of a web beacons allows the site to measure the actions of the visitor opening the page that contains the web beacon. It makes it easier to follow and record the activities of a recognized browser, such as the path of pages visited at a website.  We use the information provided by web beacons to develop a better understanding of how the Website’s visitors use the Website, and to facilitate those visitors' interactions with the Website. We may make the aggregate data obtained from web analytics (including from our third party analytics providers, if applicable) publicly available. If this data is made available, none of the information will be personally identifying information or potentially-personally identifying information.
 
-##  C.  PRIVACY-RELATED INQUIRIES ANDCOMPLAINTS
+## C.  PRIVACY-RELATED INQUIRIES ANDCOMPLAINTS
 
 We take our users’ privacy concerns with utmost respect and attention.  If you believe that there was an instance of non-compliance with this Privacy Policy with regard to your personal information or you have other related inquiries or concerns, you may write or contact us at [legals@gaijinent.com](mailto:legals@gaijinent.com).
 
@@ -132,4 +134,4 @@ Please also note that in the event of merger or acquisition of Gaijin, your pers
 
 * * *
 
-Copyright © 2014 Gaijin Entertainment and it's licensors.  All rights reserved.  This Website and accompanying products and documentation are the copyrighted property of Gaijin Entertainment and/or its licensors and protected by copyright laws and international intellectual property treaties.  Gaijin and related logo, and all related product and service names, design marks and slogans are the trademarks and/or registered trademarks of Gaijin Entertainment or its affiliates.  All other product and service marks contained herein are the trademarks of their respective owners.  Any use of the Gaijin or third party trademarks or logos without the prior written consent of Gaijin or the applicable trademark owner is strictly prohibited.
+Copyright © 2012 Gaijin Entertainment Corporation.  All rights reserved.  This Website and accompanying products and documentation are the copyrighted property of Gaijin Entertainment Corporation and/or its licensors and protected by copyright laws and international intellectual property treaties.  Gaijin and related logo, and all related product and service names, design marks and slogans are the trademarks and/or registered trademarks of Entertainment Corporation or its affiliates.  All other product and service marks contained herein are the trademarks of their respective owners.  Any use of the Gaijin or third party trademarks or logos without the prior written consent of Gaijin or the applicable trademark owner is strictly prohibited.
