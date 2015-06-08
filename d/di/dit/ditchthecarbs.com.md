@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ditchthecarbs.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217083203id_/http%3A//www.ditchthecarbs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ditchthecarbs.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608040413id_/http%3A//www.ditchthecarbs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ditch The Carbs
 
