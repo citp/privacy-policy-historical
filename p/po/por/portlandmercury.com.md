@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the portlandmercury.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121153124id_/http%3A//www.portlandmercury.com/portland/PrivacyPolicy/Page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portlandmercury.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608195612id_/http%3A//www.portlandmercury.com/portland/PrivacyPolicy/Page) for the most accurate reproduction.*
 
 # Privacy Policy | Portland Mercury
 
 When you register on this website or use services on the site, we collect some personal information directly from you, typically just your e-mail address. If you purchase merchandise, a classified ad or sign up for a Portland Mercury Personals membership, we may also ask for your payment information (processed through industry leader VeriSign), your physical address, phone number, date of birth, and/or gender. The privacy policy below explains how we deal with your information. 
 
-**The Mercury Ticketing Service does provide some information about you (including but not limited to your email address, name, & zip code) to the venues and/or promoters for the events to which you have purchased tickets.
+This website uses Google Analytics for traffic analysis, and has enabled that service's "Demographics and Interest" reports, which enables Google Analytics to collect data about our traffic via Google advertising cookies and **anonymous identifiers** , in addition to data collected through a standard Google Analytics implementation. This data does not contain personally identifiable information about our visitors and the information collected is never merged with registered users' information in our system. There are various publicly available ways to opt-out of this kind of tracking, including [Google's analytics opt-out tool](https://tools.google.com/dlpage/gaoptout/).
 
-We won't provide your information to other third parties without your consent, unless...
+We may use other anonymous traffic analysis services as well.
 
-**
+### **We won't provide your information to other third parties without your consent, unless...**
 
   * We are required to do so by law, court order, or subpoena; or
   * There's an emergency involving the risk of serious personal harm.
