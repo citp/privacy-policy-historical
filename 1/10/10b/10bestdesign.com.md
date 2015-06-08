@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 10bestdesign.com privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714174740id_/http%3A//www.10bestdesign.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10bestdesign.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608080339id_/http%3A//www.10bestdesign.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | 10 Best Designs | 10BD
 
@@ -68,7 +68,7 @@ By using our site, you consent to our [privacy policy](http://www.freeprivacypol
 
 If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
 
-This policy was last modified on 07/20/2012
+This policy was last modified on 09/09/2014
 
 http://www.10bestdesign.com/contact/
 
