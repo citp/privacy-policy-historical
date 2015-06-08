@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the cpap.com privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718163135id_/http%3A//www.cpap.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpap.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608161954id_/http%3A//www.cpap.com/privacy.php) for the most accurate reproduction.*
 
 # CPAP.com - Privacy Policy
+
+#### Terms & Conditions
+
+  * [User Agreement](https://web.archive.org/user-agreement.php)
+  * [Privacy Policy](https://web.archive.org/privacy.php)
+  * [PHI Policy](https://web.archive.org/phi-privacy-policy.php)
+
+
 
 This Privacy Policy explains how US Expediters, Inc. (CPAP.com) handles your personal information for the services we provide. It applies to the CPAP.com website and other related websites where a link to this policy appears at the bottom of the page. Some CPAP.com related websites (the "Sites") or websites we operate may be bound by a different privacy policy. The applicable policy on any of our domains will invariably be the policy that appears in the link at the bottom of each web page. With acceptance of our Privacy Policy and User Agreement and by using the CPAP.com website, you are specifically consenting to allow CPAP.com to collect, store, use, and disclose your personal information as described in this Privacy Policy.
 
