@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mallofamerica.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110170051id_/http%3A//www.mallofamerica.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mallofamerica.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041533id_/http%3A//www.mallofamerica.com/privacy) for the most accurate reproduction.*
 
 # Terms & Privacy - Mall of America
 
@@ -54,7 +54,7 @@ We reserve the right to disclose your personally identifiable information when w
 
 We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing materials from us, you can indicate your preference on our order form.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [newsletter@mallofamerica.com](mailto:newsletter@mallofamerica.com) or you may contact us at 952-883-8810 or write us to opt-out:
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [newsletter@mallofamerica.com](mailto:newsletter@mallofamerica.com) or you may contact us at 952.883.8810 or write us to opt-out:
 
 Mall of America  
 Attn: Interactive Marketing  
@@ -139,4 +139,4 @@ By using our websites, you signify your assent to our current Privacy Policy. If
 
 ### Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please contact us by email at [privacy@mallofamerica.com](mailto:privacy@mallofamerica.com) or by phone at 952-883-8810.
+If you have any questions or suggestions regarding our privacy policy, please contact us by email at [privacy@mallofamerica.com](mailto:privacy@mallofamerica.com) or by phone at 952.883.8810.
