@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purewow.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607045124id_/http%3A//www.purewow.com/entry_name/national/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purewow.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608163051id_/http%3A//www.purewow.com/footer/national/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | PureWow
 
