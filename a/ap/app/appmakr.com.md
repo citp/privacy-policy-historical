@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appmakr.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120055832id_/http%3A//www.appmakr.com/privacy_policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appmakr.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608120019id_/http%3A//www.appmakr.com/privacy_policy) for the most accurate reproduction.*
 
 # Free Mobile App Maker Privacy Policy | AppMakr
 
