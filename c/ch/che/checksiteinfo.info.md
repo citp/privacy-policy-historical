@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the checksiteinfo.info privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218022518id_/http%3A//www.checksiteinfo.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checksiteinfo.info privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608095429id_/http%3A//www.checksiteinfo.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-#### Privacy Policy
+### Privacy Policy
 
 Please Read Carefully Prior To Using This Website
 
