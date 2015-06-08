@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkzb.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702213250id_/http%3A//www.linkzb.com/country/eng/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkzb.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608175222id_/http%3A//www.linkzb.com/country/eng/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Terms
 
@@ -20,3 +20,7 @@ We provide links to other internet sites or resources which were scanned by mult
 
 The content on the site and its design, structure, and compilation are protected by copyrights, trademarks, service marks, patents, trade secrets, and other proprietary rights and laws. Do not post, distribute, or modify the site's content or remove any copyright, trademark, or other proprietary notices.  
 
+
+**Web search services**
+
+The web search services provided herein are provided by Trovi Search and powered by Trovi search partners. For information on the web search services data collection, please visit <http://info.trovi.com/Privacy>, and the search provider's privacy policy, as applicable.
