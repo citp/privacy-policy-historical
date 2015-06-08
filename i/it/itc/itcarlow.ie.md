@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itcarlow.ie privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120120241id_/http%3A//itcarlow.ie/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itcarlow.ie privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608224932id_/https%3A//www.itcarlow.ie/privacy.htm) for the most accurate reproduction.*
 
 # ITCarlow - The website of the Institute of Technology Carlow, based in the southeast of Ireland
 
