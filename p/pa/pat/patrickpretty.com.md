@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the patrickpretty.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103072743id_/http%3A//patrickpretty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patrickpretty.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608051250id_/http%3A//patrickpretty.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy - PatrickPretty.com
 
 **PRIVACY POLICY: UPDATED May 7, 2011:** This website includes a [form](http://patrickpretty.com/contact-patrickprettycom/) to bring information to our attention. We welcome you to use it to contact us and to submit ideas for consideration. We occasionally publish articles by guest columnists. If you’d like us to consider an article for publication, please contact us through the form. Although we cannot guarantee publication, we read all submissions received through the contact form.
 
