@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the trueceleblife.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125194441id_/http%3A//www.trueceleblife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trueceleblife.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041334id_/http%3A//www.trueceleblife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TrueCelebLife
 
 Evest Group, Inc. knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
-This Privacy Policy covers TrueCelebLife’s treatment of personal information that TrueCelebLife gathers when you are on the TrueCelebLife website and when you use TrueCelebLife services. This policy does not apply to the practices of third parties that TrueCelebLife does not own or control, or to individuals that RantLifestyle does not employ or manage.
+This Privacy Policy covers TrueCelebLife’s treatment of personal information that TrueCelebLife gathers when you are on the TrueCelebLife website and when you use TrueCelebLife services. This policy does not apply to the practices of third parties that TrueCelebLife does not own or control, or to individuals that TrueCelebLife does not employ or manage.
 
 Information Collected by TrueCelebLife
 
@@ -52,7 +52,7 @@ You must be 13 years and older to register to use the TrueCelebLife website. As
 
 Changes to this Privacy Policy
 
-TrueCelebLife may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the RantLifestyle website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
+TrueCelebLife may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the TrueCelebLife website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
 
 Conditions of Use
 
