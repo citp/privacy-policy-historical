@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the consumerbase.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122173540id_/http%3A//www.consumerbase.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerbase.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608034545id_/http%3A//www.consumerbase.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The Privacy Policy was created in 2003 and most recently updated in November, 2010, and again in June, 2012.
+The Privacy Policy was created in 2003 and updated in November, 2010, and June, 2012 and most recently in April, 2015.
 
-Organ Worldwide, LLC, Exact Data LLC, ListFinder.com, NetPostmaster.com, FastCount.com as well as affiliates, divisions, contractors and all data sources and suppliers, all of which are referred to herein as "The Company” have a deep commitment to the privacy of every individual about whom it holds information. Since we gather individual consumer data, we want users to fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather, how we use it, and how we correct or change it.
+Organ Worldwide, LLC, ConsumerBase, LLC (dba Exact Data), ListFinder.com, NetPostmaster.com, FastCount.com, ePostmaster.com, Mailing-List-Quote.com as well as affiliates, divisions, contractors and all data sources and suppliers, all of which are referred to herein as "The Company” have a deep commitment to the privacy of every individual about whom it holds information. Since we gather individual consumer data, we want users to fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather, how we use it, and how we correct or change it.
 
 Company asserts that protecting consumer privacy is our greatest concern. We pledge to conduct our business according to the following principles:
 
@@ -34,7 +34,7 @@ The Company offers services and data products that provide benefit to both consu
 
 Information Gathering and Tracking
 
-The Company captures consumer data from sources including, but not limited to its own websites and/or through opt-in co-registration from our vendors. This data is typically obtained through our own, or our vendors' websites in connection with a user's registration on that website.
+The Company captures consumer data from sources including, but not limited to its own websites and/or through co-registration from our vendors. This data is typically obtained through our own, or our vendors' websites in connection with a user's registration on that website. The Company audits a portion of the data captured to make certain the referral URL, if available, contains an opt-in mechanism.
 
 Use of Information
 
