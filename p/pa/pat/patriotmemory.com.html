@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the patriotmemory.com privacy policy that was archived on 2014-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122194351id_/http%3A//www.patriotmemory.com/company/index.jsp%3Floc%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the patriotmemory.com privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608121336id_/http%3A//www.patriotmemory.com/company/index.jsp%3Floc%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -135,6 +135,35 @@ qacct:"p-2dQMipq9G9ggs"
 
 <!--jQuery Rotating Banner--> 	<script>		$(window).load(function() {			    $('#top_menu li').hover(    			   function () {   		         //show its submenu    	        $('div', this).fadeIn(300);         		},       				 function () {           		 //hide its submenu           		 $('div', this).fadeOut(300);             		   	}   			  );			  		$(function() {			$('ul.hover_block li').hover(function(){				$(this).find('img').animate({top:'152px'},{queue:false,duration:500});			}, function(){				$(this).find('img').animate({top:'0px'},{queue:false,duration:500});			});		});					$(function() {					$("#slideshow > div:gt(0)").hide();				setInterval(function() { 			  $('#slideshow > div:first')			    .fadeOut(1000)			    .next()			    .fadeIn(1000)			    .end()			    .appendTo('#slideshow');			},  3000);					});		});				function search() {		//document.s5_search_form.keywords.value = 		document.s5_search_form.action = "/search/index.jsp";		document.s5_search_form.method = "post";		document.s5_search_form.submit();	}	var limit = '5';	var ordering = 'newest';	var searchPhrase = 'any';							function closeResultDiv() {		var outerWrap = document.getElementById('s5_ls_outer_wrap');		outerWrap.innerHTML = '';				outerWrap.style.display = "none";	} 	function openResultDiv() {		document.getElementById("s5_ls_outer_wrap").style.display = "block";		s5_ls_Effects.s5_ls_fade('s5_ls_outer_wrap', 0, 100, 300, 's5_ls_Effects.s5_ls_onFaded()');	} 	function s5AjaxSearch() {		var curtime = new Date();		var jx = { http : false, getHTTPObject : function() {  var xmlhttp = false;  if(typeof ActiveXObject != 'undefined') {   try {xmlhttp = new ActiveXObject("Msxml2.XMLHTTP");}   catch (e) {    try {xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");}    catch (E) {xmlhttp = false;}   }  } else if (XMLHttpRequest) {   xmlhttp = new XMLHttpRequest();  }  return xmlhttp; }, getData : function(url,callback,type) {  if(!this.http) {   this.init();   if(!this.http) return;  }  if(!type) var type = "text";  this.http.open("GET", url, true);  this.http.onreadystatechange = function () {   if (jx.http.readyState == 4) {    var result = "";    if(jx.http.responseText) result = jx.http.responseText;    type = type.toLowerCase();    if(type == "json" || type == "j") result = eval(result);    if(callback) callback(result);   }  }  this.http.send(null); }, init : function() {  this.http = this.getHTTPObject(); }}		var url = 'index2.php';		if(document.getElementById('mod_search_searchword').value == ''){										closeResultDiv();		}		else{			var inputTag = document.getElementById('mod_search_searchword');			if (inputTag.value.length < 3) {				return ;			}						closeResultDiv();			//Show the loading icon								var loadingImgTag = document.getElementById('loading_img') ;			loadingImgTag.style.display = '';			//Build the url						var url = 'http://clients.musetheory.com/patriot/' + 'index.php?option=com_search' ;									url =  url + '&view=search';			url =  url + '&layout=s5_live_search';			url = url + '&searchphrase=' + searchPhrase;			url = url + '&ordering=' + ordering;			url = url + '&limit=' + limit;			url = url + '&searchword=' + document.getElementById('mod_search_searchword').value ;			//url = url + '&limit=' + limit;			//url = url + '&results_text=' + 'Search Results - Click Here For Full Results';			//url = url + '&no_results_text=' + 'No results found';						url = url + '&r=' + curtime.getTime();			//alert(url);			jx.load(url, function (data) {										document.getElementById('loading_img').style.display = 'none' ;					document.getElementById('search_tmpdiv').innerHTML = data ;																																														document.getElementById('s5_ls_outer_wrap').innerHTML = document.getElementById('s5_search_results').innerHTML;;					openResultDiv();				}			) ; 											}		}									</script>    </head><body><div id="page"><div id="top">	    <div id="logo" onclick="window.document.location.href='http://patriotmemory.com/'">    	<a href="#" title="Patriot Memory Home"><img src="/images/logo.png" alt="Patriot Memory Home"></a>    </div>               <div id="search">    	                     <div id="search_box">                <!--Language Selector-->		<div id="language">           <!-- <a href="javascript:stCookie('en');">English</a> | <a href="javascript:stCookie('de');">German</a> | <a href="javascript:stCookie('fr');">French</a> | <a href="javascript:stCookie('zh');">繁體中文</a> //-->      
 
+
+<script type="text/javascript">
+$( document ).ready( function(){
+	var country="";
+	//country = geoip_country_name();
+	country = "United States";
+	if (country == "United States" || country == "Canada"){
+		$("#pthideshow").css("display", "block");
+    }
+});
+</script>
+
+
+<!--
+<script type="text/javascript">
+jQuery.ajax( { 
+  url: '//freegeoip.net/json/', 
+  type: 'POST', 
+  dataType: 'jsonp',
+  success: function(location) {
+    // If the visitor is browsing from Canada.
+    if (location.country_name == "United States" || location.country_name == "Canada"){
+		$("#pthideshow").css("display", "block");
+    }
+  }
+} );
+</script>
+-->
+<!--
 <script src="//js.maxmind.com/js/country.js" charset="ISO-8859-1" type="text/javascript"></script>
 <script type="text/javascript">
     var country="";
@@ -148,8 +177,8 @@ qacct:"p-2dQMipq9G9ggs"
 	  }
 	});
 </script>
-
-<div id="pthideshow" style="display:none">
+-->
+<div id="pthideshow" style="display: block;">
 <a href="https://www.patriotmemory.com/shop/shopcart.jsp" style="background: url('/shop/images/carticon.png') no-repeat scroll 0 0 rgba(0, 0, 0, 0);font-weight: bold;margin-left: 142px;padding-left: 17px;"> Cart :&nbsp; 0</a>   
 </div>
 
@@ -161,16 +190,17 @@ qacct:"p-2dQMipq9G9ggs"
 
 
 
-<script src="http://js.maxmind.com/js/country.js" charset="ISO-8859-1" type="text/javascript"></script>
-		<script type="text/javascript">
-		$( document ).ready( function(){
-			var country="";
-			country = geoip_country_name();
-			if(country=="United States"){
-				$('ul.navigation li:eq(0)').after('<li><a href="/shopland/index.jsp"><p>Shop</p></a></li>');
-				$("ul.navigation").children("li").css('width', '160px');
-			}
-		});
+
+<script type="text/javascript">
+$( document ).ready( function(){
+	var country="";
+	//country = geoip_country_name();
+	country = "United States";
+	if(country=="United States"){
+		$('ul.navigation li:eq(0)').after('<li><a href="/shopland/index.jsp"><p>Shop</p></a></li>');
+		$("ul.navigation").children("li").css('width', '160px');
+	}
+});
 </script>
 
 
@@ -179,7 +209,7 @@ qacct:"p-2dQMipq9G9ggs"
 
 
 <ul class="navigation">
-    	<li><a href="/product/indexp.jsp?source=0"><p>Products</p></a>
+    	<li style="width: 160px;"><a href="/product/indexp.jsp?source=0"><p>Products</p></a>
         	<!-- product sub-->
             <ul class="submenu">
                	<div class="subhidder">
@@ -190,7 +220,8 @@ qacct:"p-2dQMipq9G9ggs"
                                 <ul class="col">
                                    <h3>DDR4</h3>
                                    <div class="productsection">
-                                   	<li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=297&amp;prodline=5&amp;group=DDR4 Viper Xtreme Edition&amp;catid=113">Viper Xtreme Edition</a></h3></li>
+                                   	<li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=303&amp;prodline=5&amp;group=Viper 4&amp;catid=113">Viper 4</a></h3></li>
+                                    <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=297&amp;prodline=5&amp;group=DDR4 Viper Xtreme Edition&amp;catid=113">Viper Xtreme Edition</a></h3></li>
                                     <li><h3><a href="/product/detail.jsp?prodline=3&amp;catid=113&amp;prodgroupid=203&amp;id=8293&amp;type=1">Signature Line</a></h3></li>
                                    </div>
                                 </ul>
@@ -231,6 +262,8 @@ qacct:"p-2dQMipq9G9ggs"
                                 <ul class="col">
                                     <h3>2.5" Form Factor</h3>
                                     <div class="productsection">
+                                    <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=302&amp;prodline=8&amp;group=Ignite Solid State Drive&amp;catid=85">Ignite</a></h3></li>
+                                    <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=301&amp;prodline=8&amp;group=Torch Solid State Drive&amp;catid=85">Torch</a></h3></li>
                                     <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=296&amp;prodline=8&amp;group=Blaze Solid State Drive&amp;catid=85">Blaze</a></h3></li>
                                     <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=217&amp;prodline=8&amp;group=Pyro SE Solid State Drive&amp;catid=85">Pyro</a></h3></li>
                                     </div>
@@ -264,8 +297,9 @@ qacct:"p-2dQMipq9G9ggs"
                                         <li>
                                           <h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=208&amp;prodline=7&amp;group=Supersonic Magnum&amp;catid=92&amp;src=4,7">Supersonic Magnum</a></h3></li>
                                         <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=240&amp;prodline=7&amp;catid=92&amp;src=4,7">Supersonic Rage XT</a></h3></li>
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=304&amp;prodline=7&amp;group=Supersonic Rage 2&amp;catid=92">Supersonic Rage 2</a></h3></li>
                                         <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=229&amp;prodline=7&amp;group=Supersonic Boost XT&amp;catid=92&amp;src=4,7">Supersonic Boost XT</a></h3></li>
-                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=214&amp;prodline=7&amp;group=Supersonic Xpress&amp;catid=92&amp;src=4,7">Supersonic Xpress</a></h3></li>
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=298&amp;prodline=7&amp;group=Supersonic%20Bolt&amp;catid=92">Supersonic Bolt XT</a></h3></li>
                                         <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=220&amp;prodline=7&amp;group=Supersonic Pulse&amp;catid=92&amp;src=4,7">Supersonic Pulse</a></h3></li>
                                         <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=251&amp;prodline=7&amp;group=Supersonic mini&amp;catid=92&amp;src=4,7">Supersonic Mini</a></h3></li>
                                     </div>
@@ -274,7 +308,7 @@ qacct:"p-2dQMipq9G9ggs"
                                    <h3>Xporter USB 2.0 Drives</h3>
                                    	<div class="productsection">
                                         <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=181&amp;prodline=7&amp;group=Extreme Performance Xporter Rage USB Flash Drive&amp;catid=86&amp;src=4,7">Xporter Rage</a></h3></li>
-                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=100&amp;prodline=7&amp;group=Signature Line Xporter Mini USB Flash Drives&amp;catid=86&amp;src=4,7">Xporter Mini</a></h3></li>
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=242&amp;prodline=7&amp;group=Xporter Xpress&amp;catid=86">Xporter Xpress</a></h3></li>
                                         <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=243&amp;prodline=7&amp;group=Xporter Pulse&amp;catid=86&amp;src=4,7">Xporter Pulse</a></h3></li>
                                     </div>
                                     <h3>Mobility OTG</h3>
@@ -283,6 +317,7 @@ qacct:"p-2dQMipq9G9ggs"
                                         <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=270&amp;prodline=7&amp;catid=101&amp;src=4,7">Stellar</a></h3></li>
                                         <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=283&amp;prodline=7&amp;catid=101&amp;src=4,7">Stellar Lite</a></h3></li>
                                         <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=269&amp;prodline=7&amp;catid=101&amp;src=4,7">Cosmos</a></h3></li>
+                                        <li><h3><a href="/product/detail.jsp?prodline=7&amp;catid=101&amp;prodgroupid=294&amp;id=8290&amp;type=27">Cosmos Lite</a></h3></li>
                                     </div>
                                     <h3>Mobile Flash Drive</h3>
                                     <div class="productsection">
@@ -297,9 +332,9 @@ qacct:"p-2dQMipq9G9ggs"
                                         <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=213&amp;prodline=7&amp;group=Axle&amp;catid=91&amp;src=4,7">Axle</a></h3></li>
                                         <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=276&amp;prodline=7&amp;group=Blitz&amp;catid=99&amp;src=4,7">Blitz</a></h3></li>
                                         <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=249&amp;prodline=7&amp;group=Element&amp;catid=99&amp;src=4,7">Element</a></h3></li>
-                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=212&amp;prodline=7&amp;group=Flex&amp;catid=91&amp;src=4,7">Flex</a></h3></li>
-                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=266&amp;prodline=7&amp;group=slate&amp;catid=91&amp;src=4,7">Slate</a></h3></li>
-                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=218&amp;prodline=7&amp;group=Snip&amp;catid=91&amp;src=4,7">Snip</a></h3></li>
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=293&amp;prodline=7&amp;group=Slate 3.0&amp;catid=99">Slate 3.0</a></h3></li>
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=265&amp;prodline=7&amp;group=Spark&amp;catid=99">Spark</a></h3></li>
+                                        <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=216&amp;prodline=7&amp;group=Swing&amp;catid=91">Swing</a></h3></li>
                                         <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=252&amp;prodline=7&amp;group=Tab&amp;catid=99&amp;src=4,7">Tab</a></h3></li>
                                     </div>
                                 </ul>
@@ -318,7 +353,10 @@ qacct:"p-2dQMipq9G9ggs"
                                         <li><h3>Phone Cases</h3>
                                             <ul class="subproducts">
                                                 <li><a href="/product/detail.jsp?prodline=6&amp;catid=100&amp;prodgroupid=291&amp;id=8252&amp;type=37">FUEL iON for iPhone 5/5S</a></li>
-                                                <li><a href="/product/detail.jsp?prodline=6&amp;catid=100&amp;prodgroupid=291&amp;id=8253&amp;type=37">FUEL iON for Samsung Galaxy<br>S4</a></li>
+                                                <li><a href="/product/detail.jsp?prodline=6&amp;catid=100&amp;prodgroupid=291&amp;id=8344&amp;type=37">FUEL iON for iPhone 6</a></li>
+                                                <li><a href="/product/detail.jsp?prodline=6&amp;catid=100&amp;prodgroupid=291&amp;id=8253&amp;type=37">FUEL iON for Samsung<br>Galaxy S4</a></li>
+                                                <li><a href="/product/detail.jsp?prodline=6&amp;catid=100&amp;prodgroupid=291&amp;id=8307&amp;type=37">FUEL iON for Samsung<br> Galaxy S5</a></li>
+                                                <li><a href="/product/detail.jsp?prodline=6&amp;catid=100&amp;prodgroupid=291&amp;id=8299&amp;type=37">FUEL iON for Samsung<br> Note 3</a></li>
                                             </ul>
                                         </li>
                                         <li><h3>Charge Bases</h3>
@@ -332,9 +370,26 @@ qacct:"p-2dQMipq9G9ggs"
                                             	<li><a href="/product/detail.jsp?prodline=6&amp;catid=100&amp;prodgroupid=291&amp;id=8255&amp;type=37">FUEL iON Car Charger</a></li>
                                             </ul>
                                         </li>
+                                        <li><h3>Accessories</h3>
+                                            <ul class="subproducts">
+                                            	<li><a href="/product/detail.jsp?prodline=6&amp;catid=116&amp;prodgroupid=291&amp;id=8329&amp;type=37">FUEL iON Portable Battery</a></li>
+                                                <li><a href="/product/detail.jsp?prodline=6&amp;catid=116&amp;prodgroupid=291&amp;id=8337&amp;type=37">FUEL iON Charging Cable</a></li>
+                                            </ul>
+                                        </li>
                                   	</div>
-                                    
-                                    <h3>Storage</h3>
+                                    <h3>Smartphone &amp; Tablet Cables</h3>
+                                   <div class="productsection">
+                                        <li>
+                                        	<h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=278&amp;prodline=6&amp;group=iPhone Cable&amp;catid=108">iPhone/iPad/iPod Lightning<br>Charge &amp; Sync Cable</a></h3>
+                                        </li>
+                                 	</div>
+                                    <h3>Bluetooth Speakers</h3>
+                                    <div class="productsection">
+                                            <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=308&amp;prodline=6&amp;group=BeatStreet&amp;catid=114">BeatStreet</a></h3></li>
+                                    </div>
+                            </ul>
+                                <ul class="col">
+                                	<h3>Storage</h3>
                                     <div class="productsection">
                                         <li><h3>Wirelss Mobile Drives</h3>
                                             <ul class="subproducts">
@@ -350,11 +405,6 @@ qacct:"p-2dQMipq9G9ggs"
                                         </ul>
                                     </li>
                                     </div>
-                                    <h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=163&amp;prodline=6&amp;group=Wi-Fi USB Adapter&amp;catid=97">Wireless USB Adapters</a></h3>
-                                    <div class="productsection">
-                                    </div>
-                                </ul>
-                                <ul class="col">
                                     <h3>Portable Chargers</h3>
                                     <div class="productsection">
                                         <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=264&amp;prodline=6&amp;group=FUEL&amp;catid=100&amp;src=6">FUEL+</a></h3></li>
@@ -369,12 +419,8 @@ qacct:"p-2dQMipq9G9ggs"
                                     <div class="productsection">
                                         <li><h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=277&amp;prodline=6&amp;group=HUBS&amp;catid=101&amp;src=6">4-Port USB 3.0 Hub</a></h3></li>
                                    	</div>
-                                    <h3>Smartphone &amp; Tablet Cables</h3>
-                                   <div class="productsection">
-                                        <li>
-                                        	<h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=278&amp;prodline=6&amp;group=iPhone Cable&amp;catid=108">iPhone/iPad/iPod Lightning<br>Charge &amp; Sync Cable</a></h3>
-                                        </li>
-                                 	</div>
+                                    <h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=163&amp;prodline=6&amp;group=Wi-Fi USB Adapter&amp;catid=97">Wireless USB Adapters</a></h3>
+                                    <div class="productsection"></div>
                                 </ul>
                                 <ul class="col">
                                    <h3>Tablet Accessories</h3>
@@ -399,12 +445,23 @@ qacct:"p-2dQMipq9G9ggs"
                                             </ul>
                                         </li>
                                   	</div>
-                                    <h3>Phone Cases</h3>
+                                    <h3>Phone Accessories</h3>
                                    <div class="productsection">
-                                        <li>
-                                        	<h3><a href="/product/indexp.jsp?source=0&amp;prodgroupid=285&amp;prodline=6&amp;group=SlimShell&amp;catid=112">SlimShell for iPhone 5/5s</a></h3>
+                                        <li><h3>Cases</h3>
+                                            <ul class="subproducts">
+                                                <li><a href="/product/indexp.jsp?source=0&amp;prodgroupid=300&amp;prodline=6&amp;group=Slimshell for iPhone® 6 Plus&amp;catid=112">SlimShell for iPhone 6 Plus</a></li>
+                                                <li><a href="/product/indexp.jsp?source=0&amp;prodgroupid=299&amp;prodline=6&amp;group=Slimshell for iPhone® 6&amp;catid=112">SlimShell for iPhone 6</a></li>
+                                                <li><a href="/product/indexp.jsp?source=0&amp;prodgroupid=285&amp;prodline=6&amp;group=SlimShell&amp;catid=112">SlimShell for iPhone 5/5s</a></li>
+                                            </ul>
                                         </li>
-                                 	</div>
+                                        <li><h3>Screen Protectors</h3>
+                                            <ul class="subproducts">
+                                            	<li><a href="/product/indexp.jsp?source=0&amp;prodgroupid=305&amp;prodline=6&amp;group=Tempered Glass Screen Protector&amp;catid=115">Tempered Glass</a></li>
+                                                <li><a href="/product/indexp.jsp?source=0&amp;prodgroupid=306&amp;prodline=6&amp;group=Crystal Clear Screen Protector&amp;catid=115">Crystal Clear</a></li>
+                                                <li><a href="/product/indexp.jsp?source=0&amp;prodgroupid=307&amp;prodline=6&amp;group=Anti-Glare Matte Screen Protector&amp;catid=115">Anti-Glare Matte</a></li>
+                                            </ul>
+                                        </li>
+                                 	</div>                                    
                                 </ul>
                             </div>
                             <div class="blueborder"></div>
@@ -414,8 +471,8 @@ qacct:"p-2dQMipq9G9ggs"
                  </div>
              </ul>
             <!--close product sub-->
-        </li>
-        <li><a href="/support/indexp.jsp"><p>Support</p></a>
+        </li><li style="width: 160px;"><a href="/shopland/index.jsp"><p>Shop</p></a></li>
+        <li style="width: 160px;"><a href="/support/indexp.jsp"><p>Support</p></a>
         	<ul class="submenu" style="height: 0px; overflow: hidden;">
                 <div class="subhidder">
                     <li>
@@ -451,7 +508,7 @@ qacct:"p-2dQMipq9G9ggs"
                 </div>
             </ul>
         </li>
-        <li><a href="javascript:;"><p>community</p></a>
+        <li style="width: 160px;"><a href="javascript:;"><p>community</p></a>
         	<ul class="submenu" style="height: 0px; overflow: hidden;">
                 <div class="subhidder">
                     <li>
@@ -477,7 +534,7 @@ qacct:"p-2dQMipq9G9ggs"
                 </div>
             </ul>
         </li>
-        <li><a href="/company/index.jsp?loc=locations"><p>con<span style="letter-spacing:1.5px">t</span>act</p></a>
+        <li style="width: 160px;"><a href="/company/index.jsp?loc=locations"><p>con<span style="letter-spacing:1.5px">t</span>act</p></a>
         	<ul class="submenu" style="height: 0px; overflow: hidden;">
                 <div class="subhidder">
                     <li>
@@ -493,7 +550,7 @@ qacct:"p-2dQMipq9G9ggs"
                 </div>
             </ul>
         </li>
-        <li><a href="/product/buyp.jsp"><p>where to buy</p></a></li>
+        <li style="width: 160px;"><a href="/product/buyp.jsp"><p>where to buy</p></a></li>
     </ul>
     <script type="text/javascript">
     	$("ul.navigation li").hover(
@@ -764,13 +821,13 @@ var split = urlQuery.split('=');
 <div class="about_content" id="about">
 	<div id="about_col1">
 	<span class="about_header">Mission Statement <div id="mission_line"></div></span>
-	To be the vendor of choice for the computer and consumer electronic industries with a commitment to service and quality. 
+	To be the brand of choice for the computer and consumer electronic industries with a commitment to quality and customer service. 
      
          <span class="about_header">Vision <div id="vision_line"></div></span>
 	Commitment, focus on innovation in technology, product quality, and customer satisfaction are the key enablers of our future success. 
 
 	<span class="about_header">Company Profile<div id="company_profile_line"></div></span>
-	Established in 1985, Patriot Memory builds a full range of memory module and flash memory products, offering a perfect blend of quality and value.  Patriot products include Extreme Performance (EP), Signature Lines (SL) and Flash Memory solutions (FM).
+	Founded in 1985, Patriot designs, manufactures and markets high performance, enthusiast memory modules, flash memory, and mobile accessory products with the objective of offering a perfect blend of quality and value for consumers.
     </div>
     
     <div id="about_col2">
@@ -780,49 +837,37 @@ var split = urlQuery.split('=');
 		Fax: (510) 979-1564.<br>
         
         <h1>SALES &amp; DISTRIBUTION</h1>
-       Patriot has sales offices located throughout the U.S. and Asia.&nbsp;&nbsp;Patriot sells through the distribution channels throughout North America, Europe, Asia Pacific, Middle East, Africa, and Latin America.  
+       Patriot has sales offices located throughout the U.S. and Asia. Patriot sells through the distribution channels throughout North America, Europe, Asia Pacific, Middle East, Africa, and Latin America.  
     </div>
     
     <div id="about_col3">
     	<div>
         <h1>Product Design</h1>
         <p>
-        We understand the value of designing and responding quickly and intelligently to the rapid changes inherent in the memory module industry.&nbsp;&nbsp;This commitment to R&amp;D enables us to deliver the best quality memory modules powered by the latest innovative technology.  
+        Patriot prides itself on developing new products that offers a style that's sleek, modern and functional. This holds true for our high-performance memory modules, USB Flash memory and mobile accessories line.  
         </p>
         </div>
         
         <div>
-        <h1>Manufacturing Process</h1>
-
-       To meet the growing global demand for its products, Patriot manufactures its Extreme Performance (EP), Dual Channel (DC) and Signature Line (SL) products in it own state-of-the-art manufacturing facility with highly skilled staff in Fremont, California USA and Taipei, Taiwan.<br><br> Patriot is a member of JEDEC.&nbsp;&nbsp;You can feel confident that your Patriot modules are of the highest quality available.  	<br> 
-		</div>
-        
+        <h1>Product Support                        </h1>
+        <p>
+       Patriot's goal is to be your memory solutions provider with high quality products and services that are value priced. With our courteous and knowledgeable sales and technical support staff, industry leading warranty terms, and customizable logistic services; we feel there is no requirement we can not satisfy.<br><br>For customer support information, please click on <a href="/support/indexp.jsp">Contact Us</a>.
+		</p>
+        </div>
     </div>
     
-    <div id="about_col4">
-    	<div>
-        <h1>Manufacturing and Operations</h1>
-        <p>
-       Patriot's development and manufacturing facility are located in Fremont, California USA and Taipei, Taiwan.&nbsp;&nbsp;Our manufacturing segment is composed of a highly skilled production staff and multiple production lines optimized for modules, giving Patriot the ability and resources necessary to provide a full line of memory module solutions.
-        </p>
-        </div>
-        
+    <div id="about_col4">        
         <div>
         <h1>QA/QC Testing</h1>
 
-        Patriot Memory ensures that every module meets or exceeds industry standards.&nbsp;&nbsp;The manufacturing process begins with high-quality components and ends with rigorous functional testing to ensure each module's reliability and compatibility.<br><br>Patriot Memory modules are approved by leading motherboard and system manufacturers such Intel, Tyan, Supermicro and Iwill.  Patriot Memory is a member of Apple Developer Connection.  Awards from such leading product review sites as XBit Labs, Anandtech, Tom's Hardware and Hot Hardware.com demonstrate Patriot EP and DC+XBLK memory modules set the standard for performance and reliability.<br>
+        We ensure that every product meets or exceeds our highest level of standards. For memory that process begins with using high-quality components and ends with rigorous functional testing to ensure each module's reliable and compatible. This also applies to our Flash memory line and mobile accessories, where stringent tests are conducted to ensure the quality of the product is not compromised. These tests include real world stress tests, drop tests and over charge test
 		</div>
         
     </div>
     
    
     <div id="about_col5">
-    	<div>
-        <h1>Product Support                        </h1>
-        <p>
-       Patriot's goal is to be your memory solutions provider with high quality products and services that are value priced. With our courteous and knowledgeable sales and technical support staff, industry leading warranty terms, and customizable logistic services; we feel there is no requirement we can not satisfy.<br><br>For customer support information, please click on <a href="/support/indexp.jsp">Contact Us</a>.
-		</p>
-        </div>
+    	
     </div>
 
 </div>
@@ -951,6 +996,49 @@ var split = urlQuery.split('=');
 									 
 										   
 									     
+                 					       <h1>Patriot Announces Taron Chang as General Manager of Their Taiwan Headquarters</h1><br><br>
+									  	   <p></p><div>FOR IMMEDIATE RELEASE</div>
+<div><img src="http://www.rehwolution.it/wordpress/wp-content/uploads/2014/03/patriot-logo.jpg" alt="" width="500" height="100"></div>
+<div>
+<p align="center"><strong>Patriot Announces Taron Chang as General Manager of Their Taiwan Headquarters</strong></p>
+<p align="center"><em>An experienced veteran in the industry, Taron comes to Patriot after 25 years of executive experience</em></p>
+<strong>FREMONT, CALIF., - JUNE 2, 2015</strong>– Patriot, a leading manufacturer of mobile accessories, computer memory, USB flash and SSDs, today announced the appointment of Taron Chang as the General Manager of their Taiwan Headquarters. A veteran in the industry, Mr. Chang will manage, support and help to further develop business initiatives in Asian-Pacific region (APAC).
+<p>As the General Manager of Patriot’s Taiwan Headquarters, Mr. Chang will help to further sales efforts and customer relations for the APAC region as well as expand Patriot’s global reach, brand presence and market diversity. Mr. Chang comes to Patriot with 25 years of corporate executive experience and has specialized in establishing several well-known brands. His experience in international sales, business strategy, product development as well as the founding of his own company, made him the ideal addition to Patriot’s executive team.</p>
+<p>“Taron is a valuable asset to the Patriot team and we look forward to seeing tremendous growth in our Taiwan office” said Paul Jones, Patriot’s CEO. &nbsp;“He is a dedicated member of our management team and we believe that with his guidance, our Taiwan office will make great strides.”</p>
+<p>“I’m excited to join a well-known and globally recognized company such as Patriot” said Taron Chang. “For Patriot to be in business for 30 years is a great accomplishment and I’m honored to be a part of such an organization and contribute to its future successes.”</p>
+<p><strong>About Patriot</strong><strong></strong></p>
+<p>Patriot designs, manufactures and markets high performance, enthusiast memory modules, flash memory, and mobile accessory products. Patriot products have become world renown for their extreme performance, reliability and innovation. Patriot sells its products through original equipment manufacturers, retailers, e-tailers and distributors throughout the world with operations in North America, Asia and Europe. Patriot Memory LLC was founded in 1985 and is headquartered in Fremont, California, USA.</p>
+<p>All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice. All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice.</p>
+<p>Media Contacts:</p>
+<p>North America</p>
+<p>Stacey Pinheiro</p>
+<p>Marketing Assistant, Americas</p>
+<p>Patriot Memory</p>
+<p><a href="mailto:spinheiro@patriotmem.com">spinheiro@patriotmem.com</a></p>
+<p>&nbsp;</p>
+<p>EMEA</p>
+<p>Bethany DeGraff</p>
+<p>Marketing Specialist, EU</p>
+<p>Patriot Memory</p>
+<p><a href="mailto:bdegraff@patriotmem.com">bdegraff@patriotmem.com</a></p>
+<p>&nbsp;</p>
+<p>APAC</p>
+<p>Fei Lee</p>
+<p>Regional Sales Manager, APAC</p>
+<p>Patriot Memory</p>
+<p><a href="mailto:flee@patriotmemory.com">flee@patriotmemory.com</a>.tw</p>
+</div><p></p>
+									  	  
+									  	   
+									  	 
+                         	             </div>	
+							   
+							   
+                                 
+                         			  	   <div style="display:none" class="news_posting_1">
+										   
+										   
+									     
                  					       <h1>PATRIOT FUELS UP BASEBALL FANS THIS SUMMER</h1><br><br>
 									  	   <p></p><div>Patriot's FUEL+ Mobile Rechargeable Battery to power re-charging station at O.co Coliseum for Oakland A's fans in need of charge</div>
 <p>Fremont, California, USA, August 20, 2013 – Patriot Memory, a global pioneer in high-performance memory, NAND flash, storage, accessories and enthusiast computer products today announces a new marketing partnership with the Oakland Athletics. As smartphones and tablets have become an essential part of everyday life—as well as fan favorites for checking sports stats and fantasy teams at the ball field—keeping devices powered up has become more and more of a challenge. For A's fans looking to power up their favorite mobile devices to stay on top of their game, Patriot will feature their new faster charging 2.5A FUEL+ mobile rechargeable batteries at a charging station at the O.co Coliseum during select games during the remainder of the season. Provided as a free service, fans are invited to come plug in at the charging station to grab some extra juice for their mobile phone or tablet using Patriot’s FUEL+ batteries. In addition, Patriot will be providing FUEL+ units for guests on the A's pre- and post-game radio shows to fuel up everyone’s favorite Oakland A's sports players and personalities.</p>
@@ -965,42 +1053,24 @@ var split = urlQuery.split('=');
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_posting_1">
+                         			  	   <div style="display:none" class="news_posting_2">
 										   
 										   
 									     
                  					       <h1>Patriot Memory Launches New Exclusive Intel® Extreme Masters Limited Edition Memory</h1><br><br>
-									  	   <p>	<strong>Fremont, California, USA, July 12th, 2012</strong> - Patriot Memory, a global pioneer in high-performance memory, NAND flash, storage and enthusiast computer products today announces the launch of the new Intel® Extreme Masters Limited Edition DDR3 Memory. Built exclusively for gamers, the Intel® Extreme Masters Limited Edition will provide the rock solid performance and stability needed for today’s most extreme gaming systems.</p>
-<p>
-	Designed specifically to take full advantage of the performance capabilities of the newest 2<sup>nd</sup> and 3<sup>rd</sup> generation Intel® Core™ processor family, the Intel® Extreme Masters Limited Edition is fully certified for Intel® XMP 1.3 delivering frequencies of 1600MHz, 1866MHz, and 2133MHz*. Featuring the same great custom high performance heat shield as the Viper III, the Intel® Extreme Masters Limited Edition will provide superior thermal protection when used during long and demanding gaming sessions. The new Intel® Extreme Masters Limited Edition modules will be available in dual and quad-channel kits and offered in 8GB, 16GB, and 32GB capacities.</p>
-<p>
-	“With our global support of Intel® Extreme Masters as the exclusive memory sponsor, it’s with great excitement that we bring to market the Intel® Extreme Masters Limited Edition Memory, said Johnny Neang, Patriot Memory’s Marketing Director. “We’ve designed these kits so gamers can unlock the full potential of Intel’s® 2<sup>nd</sup> or 3<sup>rd</sup> generation Core™ processors for incredible in game performance.”</p>
-<p>
-	<img align="left" alt="" src="http://www.patriotmemory.com/blasts/696x288-viper-IEM.jpg" style=" border-width: 0px; border-style: solid; margin: 5px 0px;" width="500" height="207"></p>
-
-<p>
-	<u>Features</u></p>
-<p>
-	-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Available in 8GB, 16GB, &amp; 32GB kits<br>
-	-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DIMM Type 240-Pin NON-ECC UDIMM<br>
-	-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Voltage 1.5V<br>
-	-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Available Frequencies: 1600MHz, 1866MHz, 2133MHz<br>
-	-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Compatible with Intel® 6 &amp; 7 series platforms<br>
-	-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; XMP 1.3 certified</p>
-<p>
-	“The Limited Edition Intel® Extreme Masters memory modules from Patriot Memory symbolizes our collective commitment to the Enthusiast PC market segment, as well as the continued focus and dedication to the world of eSports”, said Steve R. Peterson, Intel’s® Channel Client Marketing Director.&nbsp; “These high-performance memory modules are an excellent enhancement to any Intel® 2nd or 3rd Generation, fully unlocked Core™ i5 or Core™ i7 “K” Sku or Intel® Core™ i7 Extreme Edition system...&nbsp; If you haven’t yet had the opportunity to experience the benefits that state of the art new technology can deliver, we invite you to participate live at one of our Season 7 Intel® Extreme Masters worldwide tournaments or participate with us live on-line…&nbsp; You can get the latest schedule and list of fabulous events, from <a href="http://www.Intelextrememasters.com" target="_blank">www.Intelextrememasters.com</a>”, said Peterson.</p>
-<p>
-	"This is the first time that we’ve created a limited Edition series of tournament grade gaming hardware with a partner;" says Michal Blicharz, Director of Pro Gaming at Turtle Entertainment GmbH. " Intel® Extreme Masters branded memory takes our cooperation with Patriot Memory to the next level."</p>
-<p>
-	About Patriot Memory</p>
-<p>
-	Patriot Memory designs, manufactures and markets high performance, enthusiast memory modules, flash products, and computing technologies. Patriot products have become world renown for their extreme performance, reliability and innovation. Patriot Memory sells its products through original equipment manufacturers, retailers, e-tailers and distributors throughout the world with operations in North America, Asia and Europe. Patriot Memory LLC was founded in 1985 and is headquartered in Fremont, California, USA.</p>
-<p>
-	All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice.</p>
-<p>
-	&nbsp;</p>
-
-	*Speeds are guaranteed based on module specification with BIOS enabled XMP profiles.<p></p><p></p>
+									  	   <p></p><div><strong>Fremont, California, USA, July 12th, 2012</strong>- Patriot Memory, a global pioneer in high-performance memory, NAND flash, storage and enthusiast computer products today announces the launch of the new Intel® Extreme Masters Limited Edition DDR3 Memory. Built exclusively for gamers, the Intel® Extreme Masters Limited Edition will provide the rock solid performance and stability needed for today’s most extreme gaming systems.</div>
+<p>Designed specifically to take full advantage of the performance capabilities of the newest 2<sup>nd</sup> and 3<sup>rd</sup> generation Intel® Core™ processor family, the Intel® Extreme Masters Limited Edition is fully certified for Intel® XMP 1.3 delivering frequencies of 1600MHz, 1866MHz, and 2133MHz*. Featuring the same great custom high performance heat shield as the Viper III, the Intel® Extreme Masters Limited Edition will provide superior thermal protection when used during long and demanding gaming sessions. The new Intel® Extreme Masters Limited Edition modules will be available in dual and quad-channel kits and offered in 8GB, 16GB, and 32GB capacities.</p>
+<p>“With our global support of Intel® Extreme Masters as the exclusive memory sponsor, it’s with great excitement that we bring to market the Intel® Extreme Masters Limited Edition Memory, said Johnny Neang, Patriot Memory’s Marketing Director. “We’ve designed these kits so gamers can unlock the full potential of Intel’s® 2<sup>nd</sup> or 3<sup>rd</sup> generation Core™ processors for incredible in game performance.”</p>
+<p><img style="border-width: 0px; border-style: solid; margin: 5px 0px;" src="http://www.patriotmemory.com/blasts/696x288-viper-IEM.jpg" alt="" width="500" height="207" align="left"></p>
+<p><span style="text-decoration: underline;">Features</span></p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Available in 8GB, 16GB, &amp; 32GB kits<br> -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DIMM Type 240-Pin NON-ECC UDIMM<br> -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Voltage 1.5V<br> -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Available Frequencies: 1600MHz, 1866MHz, 2133MHz<br> -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Compatible with Intel® 6 &amp; 7 series platforms<br> -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; XMP 1.3 certified</p>
+<p>“The Limited Edition Intel® Extreme Masters memory modules from Patriot Memory symbolizes our collective commitment to the Enthusiast PC market segment, as well as the continued focus and dedication to the world of eSports”, said Steve R. Peterson, Intel’s® Channel Client Marketing Director.&nbsp; “These high-performance memory modules are an excellent enhancement to any Intel® 2nd or 3rd Generation, fully unlocked Core™ i5 or Core™ i7 “K” Sku or Intel® Core™ i7 Extreme Edition system...&nbsp; If you haven’t yet had the opportunity to experience the benefits that state of the art new technology can deliver, we invite you to participate live at one of our Season 7 Intel® Extreme Masters worldwide tournaments or participate with us live on-line…&nbsp; You can get the latest schedule and list of fabulous events, from <a href="http://www.Intelextrememasters.com" target="_blank">www.Intelextrememasters.com</a>”, said Peterson.</p>
+<p>"This is the first time that we’ve created a limited Edition series of tournament grade gaming hardware with a partner;" says Michal Blicharz, Director of Pro Gaming at Turtle Entertainment GmbH. " Intel® Extreme Masters branded memory takes our cooperation with Patriot Memory to the next level."</p>
+<p>About Patriot Memory</p>
+<p>Patriot Memory designs, manufactures and markets high performance, enthusiast memory modules, flash products, and computing technologies. Patriot products have become world renown for their extreme performance, reliability and innovation. Patriot Memory sells its products through original equipment manufacturers, retailers, e-tailers and distributors throughout the world with operations in North America, Asia and Europe. Patriot Memory LLC was founded in 1985 and is headquartered in Fremont, California, USA.</p>
+<p>All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice.</p>
+<p>&nbsp;</p>
+<div>*Speeds are guaranteed based on module specification with BIOS enabled XMP profiles.</div><p></p>
 									  	  
 									  	   
 									  	 
@@ -1008,7 +1078,7 @@ var split = urlQuery.split('=');
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_posting_2">
+                         			  	   <div style="display:none" class="news_posting_3">
 										   
 										   
 									     
@@ -1033,7 +1103,7 @@ Ms. Kosla brings over 20 years of corporate sales experience within Patriot Memo
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_posting_3">
+                         			  	   <div style="display:none" class="news_posting_4">
 										   
 										   
 									     
@@ -1081,7 +1151,7 @@ sschulz@patriotmem.com</p>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_posting_4">
+                         			  	   <div style="display:none" class="news_posting_5">
 										   
 										   
 									     
@@ -1105,7 +1175,7 @@ All company and/or product names may be trade names, trademarks and/or registere
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_posting_5">
+                         			  	   <div style="display:none" class="news_posting_6">
 										   
 										   
 									     
@@ -1132,7 +1202,7 @@ Allplus Computer distributes direct from the world leading computer manufacturer
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_posting_6">
+                         			  	   <div style="display:none" class="news_posting_7">
 										   
 										   
 									     
@@ -1152,7 +1222,7 @@ Fremont, California, USA, November 3, 2010 - Patriot Memory, a global pioneer in
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_posting_7">
+                         			  	   <div style="display:none" class="news_posting_8">
 										   
 										   
 									     
@@ -1168,7 +1238,7 @@ Read the full interview here <a href="http://channel.hexus.net/content/item.php?
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_posting_8">
+                         			  	   <div style="display:none" class="news_posting_9">
 										   
 										   
 									     
@@ -1189,7 +1259,7 @@ As a total memory provider and manufacturer, Patriot Memory is presenting their 
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_posting_9">
+                         			  	   <div style="display:none" class="news_posting_10">
 										   
 										   
 									     
@@ -1209,7 +1279,7 @@ As a total memory provider and manufacturer, Patriot Memory is presenting their 
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_posting_10">
+                         			  	   <div style="display:none" class="news_posting_11">
 										   
 										   
 									     
@@ -1247,7 +1317,7 @@ Patriot's Project Artemis 10TB SSD based Full ATX Workstation with over 150,000 
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_posting_11">
+                         			  	   <div style="display:none" class="news_posting_12">
 										   
 										   
 									     
@@ -1260,7 +1330,7 @@ Patriot's Project Artemis 10TB SSD based Full ATX Workstation with over 150,000 
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_posting_12">
+                         			  	   <div style="display:none" class="news_posting_13">
 										   
 										   
 									     
@@ -1277,7 +1347,7 @@ To read the full article please <a href="http://sanjose.bizjournals.com/sanjose/
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_posting_13">
+                         			  	   <div style="display:none" class="news_posting_14">
 										   
 										   
 									     
@@ -1330,8 +1400,711 @@ Today, Patriot is one the oldest branded memory companies in the USA and continu
 									 
                  					       
 										   
+                 					       <h1>Patriot Arms Gamers with Viper Line of Gaming Accessories </h1><br><br>
+									  	   <p></p><div>FOR IMMEDIATE RELEASE</div>
+<div><img style="display: block; margin-left: auto; margin-right: auto;" src="http://www.rehwolution.it/wordpress/wp-content/uploads/2014/03/patriot-logo.jpg" alt="" width="500" height="100"></div>
+<div>
+<p align="center"><strong>Patriot Arms Gamers with Viper Line of Gaming Accessories </strong></p>
+<p align="center"><em>Line-up of accessories include keyboard, mice and headset on display during Computex from June 2<sup>nd</sup> - 6<sup>th</sup></em></p>
+<strong>FREMONT, CALIF., USA – June 2, 2015</strong>– Patriot, a leading manufacturer of mobile accessories, computer and USB memory, announces their Viper line of gaming accessories.&nbsp; Designed for the most fervent gamers, the Viper collection includes a mechanical keyboard, headset, and two mice to maximize gaming performance.&nbsp;
+<p>“Gamers already use Patriot’s Viper Memory for superior performance in gaming and we wanted to provide them with a full ecosystem of accessories that speak to their needs with exceptional tactical advantages and a true gaming experience,” says Saeed Arash Far, Global Director of Engineering at Patriot.&nbsp; “The Viper line of accessories blasts itself into the competition with four products that not only have key differentiators, but also provides a huge value proposition to all gamers.”</p>
+<p><strong>Total Customization - V760 Viper Keyboard</strong></p>
+<p>With anti-ghosting and full spectrum LED with a 16.8 million color rate, the V760 mechanical keyboard provides ultimate customization for each user.&nbsp; &nbsp;With countless hours of gaming, sometimes into the early hours of the morning, the removable magnetic palm rest is ergonomic for comfort and support.&nbsp; With twelve multi-media keys and 6 programmable macro keys, these can be customized to illuminate to fit your style whether RPG or FPS.&nbsp;&nbsp;</p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="http://imagescdn.tweaktown.com/pr/9/4/9413_05_patriot-arms-gamers-viper-line-gaming-accessories.jpg" alt="" width="500" height="250"></p>
+<p><strong>Precision and Performance – V560 and V530 Viper Mice</strong></p>
+<p>Both styles offer peak performance with slight variations for the gamer.&nbsp; The V560 launches itself to the higher-range with an extreme precision laser lens and up to 8200 DPI.&nbsp; A weighted mouse with ceramic foot pads ensures easy gliding on all surfaces and mouse pads also eliminating wear and tear that won’t affect gaming performance.&nbsp; The V560 is pictured on the right in the below image.</p>
+<p>The V530 offers gamers a mid-range mouse without compromising on performance.&nbsp; With up to 5000 DPI and an optical lens, the V530 is an entry-level choice with advanced features for someone looking for a reliable back-up.&nbsp; The V530 is pictured on the left in the below image.&nbsp;</p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="http://ww1.prweb.com/prfiles/2015/05/29/12760005/Mice%20both%20V530-V560-500x1310.jpg" alt="" width="500" height="190"></p>
+<p><strong>Hear in High Def – V360 Viper Headset</strong></p>
+<p>Hearing the creek of a door opening or a bullet shell hit the floor is what makes the gaming experience immersive.&nbsp; The V360 headset boasts a 7.1 virtual surround sound that transports gamers into the most lifelike scenarios.&nbsp; The ergonomic ear cup design provides comfort while the controls are placed on the ear cup and not on the cord, allowing for even weight distribution.&nbsp;&nbsp;</p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="http://ww1.prweb.com/prfiles/2015/05/29/12760005/V360%20500x708.jpg" alt="" width="400" height="282"></p>
+<p>Patriot Memory’s Viper line-up of gaming accessories will be on display during Computex Taipei from June 2<sup>nd</sup> to June 6<sup>th</sup>.&nbsp; For more information, visit <a href="http://www.patriotmemory.com/">http://www.patriotmemory.com/</a>&nbsp;&nbsp;</p>
+<p><strong>About Patriot</strong><strong><br> </strong>Patriot designs, manufactures and markets high performance, enthusiast memory modules, flash memory, and mobile accessory products. Patriot products have become world renown for their extreme performance, reliability and innovation. Patriot sells its products through original equipment manufacturers, retailers, e-tailers and distributors throughout the world with operations in North America, Asia and Europe. Patriot Memory LLC was founded in 1985 and is headquartered in Fremont, California, USA.<strong></strong></p>
+<p>All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice. All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice.</p>
+<p>&nbsp;</p>
+<p>Media Contacts:</p>
+<p>&nbsp;</p>
+<p>North America</p>
+<p>Stacey Pinheiro</p>
+<p>Marketing Assistant, Americas</p>
+<p>Patriot Memory</p>
+<p><a href="mailto:spinheiro@patriotmem.com">spinheiro@patriotmem.com</a></p>
+<p>&nbsp;</p>
+<p>Nicole Cornella</p>
+<p>Max Borges Agency</p>
+<p><a href="mailto:Nicolecornella@maxborgesagency.com">Nicolecornella@maxborgesagency.com</a></p>
+<p>&nbsp;</p>
+<p>APAC</p>
+<p>Fei Lee</p>
+<p>Regional Sales Manager, APAC</p>
+<p>Patriot Memory</p>
+<p><a href="mailto:flee@patriotmemory.com.tw">flee@patriotmemory.com.tw</a></p>
+<p>&nbsp;</p>
+<p>EMEA</p>
+<p>Bethany DeGraff</p>
+<p>Marketing Specialist, EU</p>
+<p>Patriot Memory</p>
+<p><a href="mailto:bdegraff@patriotmem.com">bdegraff@patriotmem.com</a></p>
+</div><p></p>
+									  	 
+									  	   
+									  	 
+                         	             </div>	
+							   
+							   
+                                 
+                         			  	   <div style="display:none" class="news_postingP_1">
+										   
+                 					       
+										   
+                 					       <h1>Patriot Releases EP Pro microSDHC/SDXC 4K Capable Card</h1><br><br>
+									  	   <p></p><div>FOR IMMEDIATE RELEASE&nbsp;</div>
+<div><img src="http://www.rehwolution.it/wordpress/wp-content/uploads/2014/03/patriot-logo.jpg" alt="" width="500" height="100"></div>
+<div>
+<p align="center"><strong>Patriot Releases EP Pro microSDHC/SDXC 4K Capable Card</strong></p>
+<p align="center"><em>The Next Step in 4K Digital Image Capturing</em></p>
+<strong>FREMONT, CALIF., - JUNE 2, 2015</strong>- Patriot, a leading manufacturer of USB Flash, mobile accessories, computer memory and SSDs, announced the release of the latest addition to its 4K capable cards, the EP Pro micorSDXC Class 10, UHS-I U3 card.
+<p>Compliant with the latest SD Association specifications for Class 10 UHS-I U3 cards, it is perfect for 4K recording. The Patriot EP Pro microSDXC Card reaches speeds of up to 95MB/s read and 80MB/s write. Capable of capturing a range of video and still images the EP Pro microSDXC can shoot video in Full HD, Ultra HD and 4K2K as well as capture continuous still image shooting in HD. Ideal for the extreme sports enthusiast, outdoorsmen and professional photographers the EP Pro microSDXC Card is the ideal choice for the latest action camera, android smartphone or tablet.</p>
+<p>“The EP Pro microSDXC Card will provide customers with the fastest in the industry performance for the abundance of 4K capable, UHD enabled multimedia devices available on the market” Said Meng J. Choo, Product Manager at Patriot. “Customers will now be able to unlock the potential of their top-shelf devices.”</p>
+<img style="display: block; margin-left: auto; margin-right: auto;" src="http://ww1.prweb.com/prfiles/2015/06/01/12760449/gI_85555_EP%20Pro%20micro.png" alt="" width="250" height="180">
+<p>&nbsp;</p>
+<p>4K capable devices are becoming more readily available on the market and consumer demand continues to rise, the EP Pro microSDXC card offers users a viable, cost efficient solution for all of their outdoor, action packed adventures. Available in both 32GB (SDHC) and 64GB (SDXC) capacities, every moment will be captured in the blink of an eye and stored within seconds due to the EP Pro’s record response time. Users can share their images and videos without delay by transferring stored data to their desktop, tablet or 4K TV and experience the record write speeds of the EP Pro microSDXC.</p>
+<p><strong>Availability</strong></p>
+<p>The EP Pro microSDXC card will be available in July of 2015.</p>
+<p><strong>About Patriot</strong><strong></strong></p>
+<p>Patriot designs, manufactures and markets high performance, enthusiast memory modules, flash memory, and mobile accessory products. Patriot products have become world renown for their extreme performance, reliability and innovation. Patriot sells its products through original equipment manufacturers, retailers, e-tailers and distributors throughout the world with operations in North America, Asia and Europe. Patriot Memory LLC was founded in 1985 and is headquartered in Fremont, California, USA.</p>
+<p>All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice. All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice.</p>
+<p>Media Contacts:</p>
+<p>North America</p>
+<p>Stacey Pinheiro</p>
+<p>Marketing Assistant, Americas</p>
+<p>Patriot Memory</p>
+<p><a href="mailto:spinheiro@patriotmem.com">spinheiro@patriotmem.com</a></p>
+<p>&nbsp;</p>
+<p>EMEA</p>
+<p>Bethany DeGraff</p>
+<p>Marketing Specialist, EU</p>
+<p>Patriot Memory</p>
+<p><a href="mailto:bdegraff@patriotmem.com">bdegraff@patriotmem.com</a></p>
+<p>&nbsp;</p>
+<p>APAC</p>
+<p>Fei Lee</p>
+<p>Regional Sales Manager, APAC</p>
+<p>Patriot Memory</p>
+<p><a href="mailto:flee@patriotmemory.com.tw">flee@patriotmemory.com.tw</a></p>
+</div><p></p>
+									  	 
+									  	   
+									  	 
+                         	             </div>	
+							   
+							   
+                                 
+                         			  	   <div style="display:none" class="news_postingP_2">
+										   
+                 					       
+										   
+                 					       <h1>Patriot Expands Viper 4 DDR4 Series to Include 128GB Kit</h1><br><br>
+									  	   <p></p><div>FOR IMMEDIATE RELEASE</div>
+<div><img src="http://www.rehwolution.it/wordpress/wp-content/uploads/2014/03/patriot-logo.jpg" alt="" width="500" height="100"></div>
+<div>
+<p align="center"><strong>Patriot Expands Viper 4 DDR4 Series to Include 128GB Kit</strong></p>
+<p align="center"><em>Amp up your game and let the Viper 4 take your PC to the next level</em></p>
+<strong>FREMONT, CALIF., USA – JUNE 2, 2015</strong>– Patriot, a leading manufacturer of computer memory, USB/flash memory, SSDs, and mobile accessories, today extended their Viper 4 series of DDR4 memory to include new 64GB and 128GB quad kits designed for the latest Intel® X99 DDR4 platform and Haswell-E processor.
+<p>Patriot’s latest addition to their Viper 4 DDR4 line of extreme performance memory built for the most demanding environments will include a 64GB (4 x 16GB) and a 128GB (8 X 16GB) kits for the ultimate PC build. Testing in at 14-16-16-31 the Viper 4 64GB and 128GB will start at 2400MHz 1.2V with higher speeds to be announced at a later date. Designed for the PC enthusiast builder or content creator the latest capacity of Viper 4 DDR4 will take any build to the ultimate level of speed.</p>
+<p>“The addition of the 64GB and 128GB DRAM to the Viper 4 line will help to propel our already well established catalog of gaming memory” said Les Henry, Patriot’s VP of Engineering. “Patriot is committed to further developing its gaming line of memory in order to meet the ever growing demand of today’s high-end PCs.”</p>
+<p>To ensure rock solid performance, the Patriot Viper 4 is built with a new custom heat shield to ensure your system runs cool and stable. Compatible with XMP 2.0, the Viper 4 gives users the capability to easily overclock their system by using the predetermined memory profile while still having the option to manually edit the SPD in the PC BIOS. Backed by a lifetime warranty and Patriot’s superior customer service, the Viper 4 is hand tested for quality assurance and validated for system compatibility.</p>
+<p align="center"><img src="http://www.patriotmemory.com/emails/blasts/images/prs/VIPER4.png" alt="" width="500" height="245">&nbsp;</p>
+<p>The Patriot Viper 4 DDR4 quad kits were originally launched in January 2015 in 16GB and 32GB capacities with speeds ranging from 2400MHz to 3000MHz starting at 1.2V – 1.35V. Both capacities are available for purchase worldwide online and at select retail outlets.</p>
+<p><strong>Availability</strong></p>
+<p>The Patriot Viper 4 64GB and 128GB memory kits will be available in Q3 of 2015.</p>
+<p><strong>About Patriot</strong><strong></strong></p>
+<p>Patriot designs, manufactures and markets high performance, enthusiast memory modules, flash memory, and mobile accessory products. Patriot products have become world renown for their extreme performance, reliability and innovation. Patriot sells its products through original equipment manufacturers, retailers, e-tailers and distributors throughout the world with operations in North America, Asia and Europe. Patriot Memory LLC was founded in 1985 and is headquartered in Fremont, California, USA.</p>
+<p>All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice. All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice.</p>
+<p>Media Contacts:</p>
+<p>North America</p>
+<p>Stacey Pinheiro</p>
+<p>Marketing Assistant, Americas</p>
+<p>Patriot Memory</p>
+<p><a href="mailto:spinheiro@patriotmem.com">spinheiro@patriotmem.com</a></p>
+<p>&nbsp;</p>
+<p>EMEA</p>
+<p>Bethany DeGraff</p>
+<p>Marketing Specialist, EU</p>
+<p>Patriot Memory</p>
+<p><a href="mailto:bdegraff@patriotmem.com">bdegraff@patriotmem.com</a></p>
+<p>&nbsp;</p>
+<p>APAC</p>
+<p>Fei Lee</p>
+<p>Regional Sales Manager, APAC</p>
+<p>Patriot Memory</p>
+<p><a href="mailto:flee@patriotmemory.com">flee@patriotmemory.com</a>.tw</p>
+</div><p></p>
+									  	 
+									  	   
+									  	 
+                         	             </div>	
+							   
+							   
+                                 
+                         			  	   <div style="display:none" class="news_postingP_3">
+										   
+                 					       
+										   
+                 					       <h1>Patriot Wins Prestigious 2015 COMPUTEX Design &amp; Innovation Award</h1><br><br>
+									  	   <p></p><div><strong>FOR IMMEDIATE RELEASE</strong></div>
+<div><img src="http://www.rehwolution.it/wordpress/wp-content/uploads/2014/03/patriot-logo.jpg" alt="" width="500" height="100"></div>
+<div>
+<p style="text-align: center;" align="center"><strong>Patriot Wins Prestigious 2015 COMPUTEX Design &amp; Innovation Award</strong></p>
+<p style="text-align: center;" align="center">Patriot’s Fuel iON for the iPhone® 6 has been recognized for its innovative and excellent design quality</p>
+<p style="text-align: left;" align="center"><strong><img style="float: left;" src="http://ww1.prweb.com/prfiles/2015/05/11/12716043/gI_85479_COMPUTEX%20d%20and%20i%20awards%202015%20logo.png" alt="" width="250" height="216">FREMONT, CALIF., USA – June 2, 2015</strong>– Patriot, a leading manufacturer of mobile accessories, computer memory, USB flash and SSDs, has won the 2015 COMPUTEX Design &amp; Innovation award (COMPUTEX d&amp;i award) in the Peripherals and Accessories category for its robust Fuel iON magnetic charging ecosystem for the iPhone 6.</p>
+<p style="text-align: left;">The COMPUTEX d&amp;i awards were selected by a panel of six distinguished experts on April 9,2015 in Taipei, Taiwan. After careful examination and assessment of 271 entries, 72 were selected to receive this distinguished honor, including Patriot’s Fuel iON. Degree of innovation, functionality, quality of design and brand value was some of the criteria used to evaluate the entries.</p>
+<p style="text-align: left;">The awards will be presented on June 2, 2015 at the world’s second largest ICT trade show, COMPUTEX TAIPEI 2015. The award-winning product, including the FUEL iON, will be on display at COMPUTEX 2015 until June 6, 2015 and will also be part of the award winners’ exhibition at other ICT trade shows such as: IFA 2015 in Berlin, Germany, 2016 International CES in Las Vegas, USA, MWC 2016 in Barcelona, Spain and CeBit 2016 in Hanover, Germany.</p>
+<p style="text-align: left;">“Patriot is honored to receive this recognition for innovation in technology for its Fuel iON ecosystem for the iPhone 6.&nbsp; We feel the Fuel iON will change the way people charge and use their smartphones, offering convenient charging and protection in daily use,” said Taron Chang, Patriot’s General Manager of APAC Headquarters.&nbsp;“We are excited to showcase our products at Computex 2015 and continue to develop new and innovative accessories for technology enthusiasts.”</p>
+<p style="text-align: left;">The Fuel iON ecosystem offers consumers a simple, viable and efficient solution to charge their smartphone and increase the longevity of the device by eliminating the need for a plug-in cord and reducing wear and tear on external ports. Patriot has developed a way to conductively charge a smartphone using neodymium magnets. The incredibly strong magnetic fields on both the Fuel iON phone cases and charging bases creates a direct connection between the two devices and snaps the phone into place; this allows for a charge that is comparable to plugging into a wall outlet.&nbsp;</p>
+<center><img style="vertical-align: middle;" src="http://ww1.prweb.com/prfiles/2015/05/11/12716043/i6%20fuel%20ion%20family.jpg" alt="" width="300" height="181"></center>
+<p style="text-align: left;">In addition to the iPhone 6, the Fuel iON currently supports the iPhone 5/5s, Samsung Galaxy S4/5 and Note 3. These can be paired with any of the three different charging bases: FUEL iON Charging Stand, FUEL iON Charging Pad or the FUEL iON Car Charger.&nbsp; Designed for versatility and convenience whether you are at home, work or on the road, all three provide solutions for charging anytime, anywhere in a functional way offering 360 degree rotational views.</p>
+<p style="text-align: left;">For those who are constantly on-the-go Patriot also offers a 2100mAh magnetic portable battery that connects to the back of the case and provides an extra boost of power without the restrictions of connecting to a cord. In addition to the magnetic portable battery patriot offers a magnetic charging cord that can easily be packed in a bag and taken on vacation.</p>
+<p style="text-align: left;"><strong>About Patriot</strong><strong></strong></p>
+<p style="text-align: left;">Patriot designs, manufactures and markets high performance, enthusiast memory modules, flash memory, and mobile accessory products. Patriot products have become world renown for their extreme performance, reliability and innovation. Patriot sells its products through original equipment manufacturers, retailers, e-tailers and distributors throughout the world with operations in North America, Asia and Europe. Patriot Memory LLC was founded in 1985 and is headquartered in Fremont, California, USA.</p>
+<p style="text-align: left;">All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice. All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice.</p>
+<p style="text-align: left;">Media Contacts:</p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;">APAC</p>
+<p style="text-align: left;">Fei Lee</p>
+<p style="text-align: left;">Regional Sales Manager, APAC</p>
+<p style="text-align: left;">Patriot Memory</p>
+<p style="text-align: left;">flee@patriotmem.com</p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;">North America</p>
+<p style="text-align: left;">Stacey Pinheiro</p>
+<p style="text-align: left;">Marketing Assistant, Americas</p>
+<p style="text-align: left;">Patriot Memory</p>
+<p style="text-align: left;"><a href="mailto:spinheiro@patriotmem.com">spinheiro@patriotmem.com</a></p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;">EMEA</p>
+<p style="text-align: left;">Bethany DeGraff</p>
+<p style="text-align: left;">Marketing Specialist, EU</p>
+<p style="text-align: left;">Patriot Memory</p>
+<p style="text-align: left;"><a href="mailto:bdegraff@patriotmem.com">bdegraff@patriotmem.com</a></p>
+</div><p></p>
+									  	 
+									  	   
+									  	 
+                         	             </div>	
+							   
+							   
+                                 
+                         			  	   <div style="display:none" class="news_postingP_4">
+										   
+                 					       
+										   
+                 					       <h1>Patriot Develops Type-C USB Flash Drive for New MacBook Users</h1><br><br>
+									  	   <p></p><div><strong><img style="vertical-align: middle;" src="http://www.rehwolution.it/wordpress/wp-content/uploads/2014/03/patriot-logo.jpg" alt="Patriot logo" width="300" height="60"></strong></div>
+<div><strong><br></strong></div>
+<div><strong>FREMONT, CALIF., USA – April 28, 2015</strong>&nbsp;– Patriot, a leading manufacturer of mobile accessories, computer and USB memory, announces the development of a Type-C USB Flash Drive for the new MacBook, Google Chromebook Pixel™ and other Type-C equipped notebooks and systems available on the market. With the recent release of the latest MacBook, which has been upgraded with the new Type-C port, consumers will now be able to use the Type-C USB Flash Drive to transfer data from any other form factor using a single robust and small solution.</div>
+<div>
+<p><img style="float: left;" src="http://ww1.prweb.com/prfiles/2015/04/27/12684562/gI_85435_Type-C%20final%202.png" alt="Patriot Type-C" width="250" height="250">&nbsp;</p>
+<p>Outfitted with a polished metal exterior, the dual-sided Type-C / Type A USB Flash Drive will feature both a small Type-C at one end and a standard USB 3.0 connector at the other end allowing seamless data transfer from traditional devices to the new Type C based device. Patriot solves the problem of compatibility, providing a solution that is compatible with all devices.</p>
+<p>&nbsp;“As many MacBook users rely heavily on external storage options, we wanted to be at the forefront with a product that will cater to these consumers,” said Meng J. Choo, Patriot’s Product Manager.&nbsp; “As a leading manufacturer of USB and flash memory, we want to offer solutions for our customers that are easy-to-use and provide seamless experiences across all their devices.”</p>
+<p>The new Type-C USB Flash Drive will be available to consumers starting in June and will be offered in both 32GB and 64GB capacities.</p>
+</div><p></p>
+									  	 
+									  	   
+									  	 
+                         	             </div>	
+							   
+							   
+                                 
+                         			  	   <div style="display:none" class="news_postingP_5">
+										   
+                 					       
+										   
+                 					       <h1>Patriot Announces Ignite Series M2 SATA Solid-State Drive</h1><br><br>
+									  	   <p></p><div><strong>FOR IMMEDIATE RELEASE</strong></div>
+<p style="text-align: center;"><img src="http://www.rehwolution.it/wordpress/wp-content/uploads/2014/03/patriot-logo.jpg" alt="Patriot Logo" width="500" height="100">&nbsp;&nbsp;</p>
+<p align="center"><strong>Patriot Announces Ignite Series M2 SATA Solid-State Drive</strong></p>
+<p align="center"><em>Ignite the performance of your Notebook or Ultra Compact PC with the new Patriot M2 Ignite SSD</em></p>
+<p><strong>FREMONT, CALIF., USA – April 20, 2015</strong> – Patriot, a leading manufacturer of computer memory, USB/flash, SSDs and mobile accessories, today announced the launch of its new M.2 Ignite solid-state drive (SSD). Its compact form factor is optimal for use in portable devices such as ultrabooks, notebooks and ultra-compact PC’s providing impeccable start up times, instant access to data and installed programs.</p>
+<p>The Patriot Ignite M2’s Next-Generation-Form-Factor (NGFF) &nbsp;case free design and small structure of 22mm wide by 80mm long (2280) packs a punch, testing in with sequential read and write speeds of up to 560/320MB/s and 4KB random read and write speeds of up to 90/70K IOP’s.&nbsp; It provides the ultimate upgrade solution for those with mobile computing devices looking to increase storage capacities.</p>
+<p>“We are happy to announce the Ignite M2 addition to our family of SSD products,” Said Les Henry, VP of Engineering at Patriot. “With the Ignite M2, Patriot now offers a full range of SSDs, from 2.5“ SATA 3, to mSATA and now M.2.&nbsp; The Ignite M2 drives are the perfect storage solution for those looking to build/upgrade their small form factor PCs.”</p>
+<p>Powered by the new Phison S10 controller the M2 Ignite connects via M.2 SATA 6Gb/s interface to deliver rock solid performance and supports Windows® 7, 8, 8.1, Vista, and Linux. The Ignite M2 is backed by Patriot’s award winning customer service and a three year warranty. To ensure the consistency and performance of the drive over its life time, it comes with advanced features such as end-to-end data protection (ETEP), advanced wear-leveling, advanced Garbage collection, smartECC and Smart Refresh. The Ignite M2 is compatible with most notebooks.</p>
+<p><strong>Specifications</strong></p>
+<ul>
+<li>240GB &amp; 480GB capacities</li>
+<li>Phison S10 Controller</li>
+<li>M.2 2280 Form Factor</li>
+<li>SATA III 6Gb/s Interface</li>
+<li>MLC NAND</li>
+<li>Up to 560MB/s Sequential Read Speed</li>
+<li>Up to 320MB/s Sequential Write Speed</li>
+</ul>
+<p align="center"><img src="http://www.legitreviews.com/wp-content/uploads/2015/04/patriot-ignite-m2-645x234.jpg" alt="Patriot Ignite M2 SSD" width="500" height="181">&nbsp;</p>
+<p><strong>Availability </strong></p>
+<p>The Ignite M2 SSD will be available at the beginning of May at select online and in-store retailers such as Fry’s Electronics, Amazon and Newegg for a starting MSRP of $109.99 240GB and $209.99 480GB.</p>
+<p><strong>About Patriot</strong><strong></strong></p>
+<p>Patriot designs, manufactures and markets high performance, enthusiast memory modules, flash memory, and mobile accessory products. Patriot products have become world renown for their extreme performance, reliability and innovation. Patriot sells its products through original equipment manufacturers, retailers, e-tailers and distributors throughout the world with operations in North America, Asia and Europe. Patriot Memory LLC was founded in 1985 and is headquartered in Fremont, California, USA.</p>
+<p>All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice. All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice.</p>
+<p><strong>Media Contacts:</strong></p>
+<p>North America</p>
+<p>Stacey Pinheiro</p>
+<p>Marketing Assistant, Americas</p>
+<p>Patriot Memory</p>
+<p><a href="mailto:spinheiro@patriotmem.com">spinheiro@patriotmem.com</a></p>
+<p>Bethany DeGraff</p>
+<p>Marketing Specialist, EU</p>
+<p>Patriot Memory</p>
+<p><a href="mailto:bdegraff@patriotmem.com">bdegraff@patriotmem.com</a></p><p></p>
+									  	 
+									  	   
+									  	 
+                         	             </div>	
+							   
+							   
+                                 
+                         			  	   <div style="display:none" class="news_postingP_6">
+										   
+                 					       
+										   
+                 					       <h1>Patriot Releases New Bluetooth Portable Speaker</h1><br><br>
+									  	   <p></p><p align="center"><strong><img style="vertical-align: middle;" src="http://www.rehwolution.it/wordpress/wp-content/uploads/2014/03/patriot-logo.jpg" alt="" width="500" height="100"></strong></p>
+<p align="center"><strong>Patriot Releases New Bluetooth™ Portable Speaker</strong></p>
+<p align="center"><em>Take your music with you and never miss a beat with Patriot’s new BeatStreet portable speaker</em></p>
+<div><strong><br></strong></div>
+<div><strong><img style="float: left;" src="http://patriotmemory.com/emails/blasts/images/prs/Beatstreet%20Spkr%20Hero%20Shot-Black.jpg" alt="" width="300" height="245">FREMONT, CALIF., USA – January 6, 2015</strong>– Patriot, a leading manufacturer of computer memory, USB/flash, SSDs and mobile accessories, today introduced its new Bluetooth™ portable speaker, The BeatStreet.</div>
+<p>&nbsp;Designed with ease of use in mind, the Patriot BeatStreet Bluetooth Speaker can effortlessly be turned on, taken on-the-go and recharged. With built in Bluetooth and near field communication (NFC) capabilities, devices are easily detected and paired to the speaker in a matter of seconds. The Patriot BeatStreet also comes equipped with a 3.5mm auxiliary port to connect to other devices, such as a desktop or laptop.</p>
+<p>The perfect mobile music solution for a picnic in the park or a day at the beach, the Patriot BeatStreet has an integrated rechargeable battery that provides the user with three to four hours of playback time. To revitalize the battery, a micoUSB port at the rear of the speaker allows users to recharge via USB cable. Pair your Patriot BeatStreet with the refreshed FUEL + 6000mAh or 12000mAh portable battery to increase play time while on-the-go.</p>
+<p>“With the integration of NFC technology, the BeatStreet offers a convenient, mobile solution for listening to music while engaging in everyday activities,” said Mike Chang Product Manager at Patriot. “Music plays a role in the majority of consumer’s lives, whether it’s listening at work or just relaxing at home, the BeatStreet fulfills that need to remain musically connected.”</p>
+<p>&nbsp;The volume and track control button on top allows users to scroll through their music library without having to access their device. The Play/Pause button and microphone, also located at the top of the speaker, allow users to answer and take phone calls.</p>
+<p>Not just a speaker, the Patriot BeatStreet also doubles as a clock. A white light display at the top exhibits the time, battery life and song choice. Never lose track of time again while getting lost in the music with the Patriot BeatStreet portable speaker.&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p><strong>Availability</strong></p>
+<p>The BeatStreet Bluetooth Speaker will be available in January of 2015 in the United States only for a starting MSRP of $34.99.</p>
+<p><strong>About Patriot</strong><strong></strong></p>
+<p>Patriot designs, manufactures and markets high performance, enthusiast memory modules, flash memory, and mobile accessory products. Patriot products have become world renown for their extreme performance, reliability and innovation. Patriot sells its products through original equipment manufacturers, retailers, e-tailers and distributors throughout the world with operations in North America, Asia and Europe. Patriot Memory LLC was founded in 1985 and is headquartered in Fremont, California, USA.</p>
+<p>All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice. All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice.</p>
+<p>&nbsp;</p>
+<p>Media Contacts:</p>
+<p>North America</p>
+<p>Stacey Pinheiro</p>
+<p>Marketing Assistant, Americas</p>
+<p>Patriot Memory</p>
+<p><a href="mailto:spinheiro@patriotmem.com">spinheiro@patriotmem.com</a></p>
+<p>&nbsp;</p>
+<p>APAC</p>
+<p>Jensen Wang</p>
+<p>Marketing Manager, APAC</p>
+<p>Patriot Memory</p>
+<p><a href="mailto:jwang@patriotmemory.com.tw">jwang@patriotmemory.com.tw</a></p>
+<p>Bethany DeGraff</p>
+<p>Marketing Specialist, EU</p>
+<p>Patriot Memory</p>
+<p><a href="mailto:bdegraff@patriotmem.com">bdegraff@patriotmem.com</a></p><p></p>
+									  	 
+									  	   
+									  	 
+                         	             </div>	
+							   
+							   
+                                 
+                         			  	   <div style="display:none" class="news_postingP_7">
+										   
+                 					       
+										   
+                 					       <h1>Patriot Launches Second Generation of Supersonic Magnum and Rage USB Flash Drives</h1><br><br>
+									  	   <p></p><p align="center"><strong><img style="vertical-align: middle;" src="http://www.rehwolution.it/wordpress/wp-content/uploads/2014/03/patriot-logo.jpg" alt="" width="500" height="100"></strong></p>
+<p align="center"><strong>Patriot Launches Second Generation of Supersonic Magnum and Rage USB Flash Drives</strong><strong></strong></p>
+<p align="center"><em>Patriot releases new and improved USB Flash Drives to their Supersonic line with record fast speeds</em></p>
+<div><strong>FREMONT, CALIF., USA – January 6, 2015</strong>– Patriot, a leading manufacturer in mobile accessories, computer and USB/flash memory, today released the Supersonic Magnum 2 and Supersonic Rage 2, 3.0 USB Flash Drive. Leading the industry in capacity and speed, Patriot has set the new standard in the flash memory world boasting record speeds of up to 400MB/s and 300MB/s read and write times.</div>
+<p><strong>Supersonic Magnum 2, 3.0 USB Flash Drive</strong></p>
+<p>Living up to its name sake, the Patriot Supersonic Magnum 2 will be available in extreme capacities of 256GB and 512GB making the frustration of not having enough room to store data virtually non-existent. With impressive maximum read and write speeds reaching 400MB/s and 300MB/s it’s the fastest high capacity/high performance USB flash drive on the market.</p>
+<p>Designed with a sturdy matte black, industrial grade metal housing that enables shock resistance up to 15Gs to protect stored data and laser etched, the Magnum 2 doesn’t compromise appearance and class for safety. A detachable cap covers the USB connector to prevent damage and debris from entering the port.&nbsp;</p>
+<p><img style="float: left;" src="http://patriotmemory.com/emails/blasts/images/prs/magnum2.jpg" alt="" width="500" height="311"></p>
+<p><strong>Supersonic Rage 2, 3.0 USB Flash Drive</strong></p>
+<p>The Supersonic Rage 2 is Patriot’s highest performing, ultra-portable and high capacity USB 3.0. Its rugged, rubberized casing is designed to withstand the wear and tear of everyday use and the all-in-one slide to connect feature protects the port from damage it might encounter while traveling at the bottom of a pocket or bag.</p>
+<p>With lightning fast maximum read and write speeds of up to 400MB/s and 300MB/s the Supersonic Rage 2 is Patriot’s fastest high performance retractable USB.&nbsp; Available in capacities of 128GB and 256GB, the Rage 2 is the perfect USB for performance enthusiasts and content creators. It’s compact form factor and impressive speeds make it the obvious choice for quick access to large projects and presentations during important meetings.</p>
+<p align="center"><img src="http://patriotmemory.com/emails/blasts/images/prs/rage.jpg" alt="" width="500" height="311">&nbsp;</p>
+<p>“Patriot has revamped its Supersonic USB line with two great new additions, both with exceedingly fast speeds,” said Meng Jay Choo, Product Manager at Patriot. “There are no comparable USB drives on the market, at the moment, and we hope to continue to deliver impressive performance speeds to our customers as technology advances.”</p>
+<p><strong>Availability</strong></p>
+<p>Both the Supersonic Magnum 2 and Supersonic Rage 2 will be available for purchase in February of 2015 at select in-store and online retailers such as Amazon, Newegg and Fry’s Electronics. <strong></strong></p>
+<p><strong>About Patriot</strong><strong></strong></p>
+<p>Patriot designs, manufactures and markets high performance, enthusiast memory modules, flash memory, and mobile accessory products. Patriot products have become world renown for their extreme performance, reliability and innovation. Patriot sells its products through original equipment manufacturers, retailers, e-tailers and distributors throughout the world with operations in North America, Asia and Europe. Patriot Memory LLC was founded in 1985 and is headquartered in Fremont, California, USA.</p>
+<p>All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice. All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice.</p>
+<p>Media Contacts:</p>
+<p>North America</p>
+<p>Stacey Pinheiro</p>
+<p>Marketing Assistant, Americas</p>
+<p>Patriot Memory</p>
+<p><a href="mailto:spinheiro@patriotmem.com">spinheiro@patriotmem.com</a></p>
+<p>&nbsp;</p>
+<p>APAC</p>
+<p>Jensen Wang</p>
+<p>Marketing Manager, APAC</p>
+<p>Patriot Memory</p>
+<p><a href="mailto:jwang@patriotmemory.com.tw">jwang@patriotmemory.com.tw</a></p>
+<p>&nbsp;</p>
+<p>Bethany DeGraff</p>
+<p>Marketing Specialist, EU</p>
+<p>Patriot Memory</p>
+<p><a href="mailto:bdegraff@patriotmem.com">bdegraff@patriotmem.com</a></p>
+<p>&nbsp;</p><p></p>
+									  	 
+									  	   
+									  	 
+                         	             </div>	
+							   
+							   
+                                 
+                         			  	   <div style="display:none" class="news_postingP_8">
+										   
+                 					       
+										   
+                 					       <h1>Patriot Launches New High Performing/High Capacity Ignite SSD</h1><br><br>
+									  	   <p></p><p align="center"><img style="vertical-align: middle;" src="http://www.rehwolution.it/wordpress/wp-content/uploads/2014/03/patriot-logo.jpg" alt="" width="500" height="100"></p>
+<p align="center"><strong>Patriot Launches New High Performing/High Capacity Ignite SSD</strong></p>
+<p align="center"><em>Ignite your PC’s performance with the new Patriot Ignite SSD</em></p>
+<p style="text-align: left;" align="center"><strong><img style="float: left;" src="http://patriotmemory.com/product/specs/IGNITE_960GB_front.jpg" alt="" width="300" height="300">FREMONT, CALIF., USA – January 6, 2015</strong>– Patriot, a leading manufacturer of computer memory, USB/flash, SSDs and mobile accessories, today launched its latest addition to the solid-state drive (SSD) market, the Patriot Ignite SATA III SSD. One of the fastest drives available, the Ignite has record shattering speeds and impressive capacities to boost PC performance at a cost efficient value.</p>
+<p>Boasting Patriot’s largest capacity SSD yet, the Ignite will be available to consumers in capacities of 480GB and 960GB meeting an ever-growing demand for larger and faster storage solutions. The Patriot Ignite is a first-rate option for content creators, gamers and performance enthusiasts looking to upgrade their system response time without spending thousands of dollars on a new computer.</p>
+<p>The perfect addition to increase the performance of any PC or notebook, the Patriot Ignite utilizes the new Phison S10 controller to reach a maximum sequential read and write speeds of up to 560MB/s and 545MB/s respectively and backed by a SATA III 6.0 Gb/s interface.</p>
+<p>“These are some of the fastest drives that we have had in our lab,” Said Les Henry, VP of Engineering at Patriot. “As you can see we are able to advertise some of the fastest sequential speeds in the market for these capacities.&nbsp; We were able to hit scores above 1000 using the AS SSD benchmark test with these drives.”</p>
+<p>Supporting operating systems such as Win 7, Win 8, Vista, Mac OS and more, the Ignite is backed by Patriot’s award winning customer service and a three year warranty. In addition, it comes with advanced features such as end-to-end data protection, advanced wear-leveling, smartECC and Smart Refresh, designed with a standard 2.5 inch form factor, the Ignite is compatible with most desktops and notebooks.</p>
+<p>Specifications</p>
+<ul>
+<li>480GB &amp; 960GB capacities</li>
+<li>Phison S10 Controller</li>
+<li>SATA III 6Gb/s Interface</li>
+<li>MLC NAND</li>
+<li>Up to 560MB/s Sequential Read Speed</li>
+<li>Up to 545MB/s Sequential Write Speed</li>
+</ul>
+<p><strong>Availability </strong></p>
+<p>The Ignite SSD will be available for purchase in January, 2015 at online and in-store retailers such as Fry’s, Amazon and Newegg.</p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="128">
+<p>Part Number&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td valign="top" width="213">
+<p>Description</p>
+</td>
+<td valign="top" width="80">
+<p>MSRP</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="128">
+<p>PI480GS25SSDR</p>
+</td>
+<td valign="top" width="213">
+<p>Ignite 480GB 2.5” SSD</p>
+</td>
+<td valign="top" width="80">
+<p>$214.99</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="128">
+<p>PI960GS25SSDR</p>
+</td>
+<td valign="top" width="213">
+<p>Ignite 960GB 2.5” SSD</p>
+</td>
+<td valign="top" width="80">
+<p>$404.99</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p align="center">&nbsp;</p>
+<p><strong>About Patriot</strong><strong></strong></p>
+<p>Patriot designs, manufactures and markets high performance, enthusiast memory modules, flash memory, and mobile accessory products. Patriot products have become world renown for their extreme performance, reliability and innovation. Patriot sells its products through original equipment manufacturers, retailers, e-tailers and distributors throughout the world with operations in North America, Asia and Europe. Patriot Memory LLC was founded in 1985 and is headquartered in Fremont, California, USA.</p>
+<p>All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice. All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice.</p>
+<p>Media Contacts:</p>
+<p>North America</p>
+<p>Stacey Pinheiro</p>
+<p>Marketing Assistant, Americas</p>
+<p>Patriot Memory</p>
+<p><a href="mailto:spinheiro@patriotmem.com">spinheiro@patriotmem.com</a></p>
+<p>&nbsp;</p>
+<p>APAC</p>
+<p>Jensen Wang</p>
+<p>Marketing Manager, APAC</p>
+<p>Patriot Memory</p>
+<p><a href="mailto:jwang@patriotmemory.com.tw">jwang@patriotmemory.com.tw</a></p>
+<p>Bethany DeGraff</p>
+<p>Marketing Specialist, EU</p>
+<p>Patriot Memory</p>
+<p><a href="mailto:bdegraff@patriotmem.com">bdegraff@patriotmem.com</a></p><p></p>
+									  	 
+									  	   
+									  	 
+                         	             </div>	
+							   
+							   
+                                 
+                         			  	   <div style="display:none" class="news_postingP_9">
+										   
+                 					       
+										   
+                 					       <h1>Patriot Announces New UHS-II EP PRO-II SDXC Card</h1><br><br>
+									  	   <p></p><p align="center"><strong><img style="vertical-align: middle;" src="http://www.rehwolution.it/wordpress/wp-content/uploads/2014/03/patriot-logo.jpg" alt="" width="500" height="100"></strong></p>
+<p align="center"><strong>Patriot Announces New UHS-II EP PRO-II SDXC Card</strong></p>
+<p align="center"><em>Never miss the moment and eliminate slow transfer speeds with Patriot’s EP PRO-II SDXC</em></p>
+<p style="text-align: left;" align="center"><strong><br></strong></p>
+<p style="text-align: left;" align="center"><strong>FREMONT, CALIF., USA – January 6, 2015</strong>– Patriot, a leading manufacturer in mobile accessories, computer and USB/flash memory, today announced the release of its new EP PRO-II SDXC card, becoming one of few companies supporting UHS-II capable devices and adding to its robust line up of flash memory.&nbsp;</p>
+<p>The new EP PRO-II SDXC is designed to support the latest generation of high-performing devices with high definition and ultra-high definition (UHD) capabilities. With a capacity ranging from 16GB to 64GB and a read/ write speed of up to 280MB/s and 250MB/s it can fulfill the need for storage and speed without delay. Capable of recoding video in 4K UHD and capturing pictures in the blink of an eye, the EP PRO-II SDXC meets consumer and professional requirements for high resolution needs.</p>
+<p>“The new EP PRO-II SDXC is the latest, highest-performing SD card available today, meeting the new SD 4.0 specifications and a growing demand for higher performance with faster speeds,” said Meng Jay Choo, Patriot’s Flash Product manager. “With its impressive transfer speeds and high definition capabilities, users never have to worry about missing that perfect moment or running low on storage space.”</p>
+<p>Backed by Patriot’s leading customer service and a five year warranty, the EP PRO-II SDXC is designed for UHS-II devices, but is still backwards compatible with mainstream SD 3.0 and SD 2.0 capable devices allowing consumers to continue to use their current products with the latest SD card improvement.</p>
+<p align="center"><img style="vertical-align: text-bottom;" src="http://patriotmemory.com/emails/blasts/images/prs/EPPro2.png" alt="" width="300" height="300">&nbsp;</p>
+<p><strong>Availability </strong></p>
+<p>The EP PRO-II SDXC card will be available for purchase in the first quarter of 2015 with a starting MSRP of $119.99 - $199.99 respectively.</p>
+<p><strong>About Patriot</strong><strong></strong></p>
+<p>Patriot designs, manufactures and markets high performance, enthusiast memory modules, flash memory, and mobile accessory products. Patriot products have become world renown for their extreme performance, reliability and innovation. Patriot sells its products through original equipment manufacturers, retailers, e-tailers and distributors throughout the world with operations in North America, Asia and Europe. Patriot Memory LLC was founded in 1985 and is headquartered in Fremont, California, USA.</p>
+<p>All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice. All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice.</p>
+<p>Media Contacts:</p>
+<p>North America</p>
+<p>Stacey Pinheiro</p>
+<p>Marketing Assistant, Americas</p>
+<p>Patriot Memory</p>
+<p><a href="mailto:spinheiro@patriotmem.com">spinheiro@patriotmem.com</a></p>
+<p>&nbsp;</p>
+<p>APAC</p>
+<p>Jensen Wang</p>
+<p>Marketing Manager, APAC</p>
+<p>Patriot Memory</p>
+<p><a href="mailto:jwang@patriotmemory.com.tw">jwang@patriotmemory.com.tw</a></p>
+<p>&nbsp;</p>
+<p>Bethany DeGraff</p>
+<p>Marketing Specialist, EU</p>
+<p>Patriot Memory</p>
+<p><a href="mailto:bdegraff@patriotmem.com">bdegraff@patriotmem.com</a></p><p></p>
+									  	 
+									  	   
+									  	 
+                         	             </div>	
+							   
+							   
+                                 
+                         			  	   <div style="display:none" class="news_postingP_10">
+										   
+                 					       
+										   
+                 					       <h1>Patriot Launches New Extension of Viper DRAM Series</h1><br><br>
+									  	   <p></p><p align="center"><strong><img src="http://www.rehwolution.it/wordpress/wp-content/uploads/2014/03/patriot-logo.jpg" alt="" width="500" height="100"></strong></p>
+<p align="center"><strong>Patriot Launches New Extension of Viper DRAM Series</strong></p>
+<p align="center"><em>Amp up your game and let the Viper 4 take your PC to the next level</em></p>
+<div><strong>FREMONT, CALIF., USA – January 5, 2015</strong>– Patriot, a leading manufacturer of computer memory, USB/flash memory, SSDs, and mobile accessories, today extended their Viper series of memory with the new Viper 4 built for the latest Intel® X99 DDR4 platform and Haswell-E processor.</div>
+<p>The Viper 4 series is Patriot’s latest addition to their Viper line of extreme performance memory built for the most demanding environments. Designed with enthusiast system builders, content creators, overclockers and hardcore gamers in mind, the Viper 4 will be offered in quad channel kits of 16GB and 32GB running at speeds ranging from 2400MHz to 3000MHz starting at 1.2 – 1.35 volts.</p>
+<p>“We are really excited about this new addition to our Viper Line,” said Les Henry, Patriot’s VP of Engineering. “The new Viper 4 line benchmarks are crushing the older DDR3 scores from just about every hardware benchmark: memory bandwidth, SSD and USB just to name a few.”</p>
+<p>To ensure rock solid performance, the Patriot Viper 4 is built with a new custom heat shield to ensure your system runs cool and stable. Compatible with XMP 2.0, the Viper 4 gives users the capability to easily overclock their system by using the predetermined memory profile while still having the option to manually edit the SPD in the PC bios. Backed by a lifetime warranty and Patriot’s superior customer service, the Viper 4 is hand tested for quality assurance and validated for system compatibility.</p>
+<p align="center"><img src="http://www.patriotmemory.com/emails/blasts/images/prs/VIPER4.png" alt="" width="500" height="245">&nbsp;</p>
+<p><strong>Availability</strong></p>
+<p>The Patriot Viper 4 series will be available in the first quarter of 2015 at select in store and online retailers such as Fry’s Electronics, Newegg and Amazon for a starting MSRP of $250.00-$700.00 respectively.&nbsp;</p>
+<p><strong>About Patriot</strong><strong></strong></p>
+<p>Patriot designs, manufactures and markets high performance, enthusiast memory modules, flash memory, and mobile accessory products. Patriot products have become world renown for their extreme performance, reliability and innovation. Patriot sells its products through original equipment manufacturers, retailers, e-tailers and distributors throughout the world with operations in North America, Asia and Europe. Patriot Memory LLC was founded in 1985 and is headquartered in Fremont, California, USA.</p>
+<p>All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice. All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice.</p>
+<p>Media Contacts:</p>
+<p>North America</p>
+<p>Stacey Pinheiro</p>
+<p>Marketing Assistant, Americas</p>
+<p>Patriot Memory</p>
+<p><a href="mailto:spinheiro@patriotmem.com">spinheiro@patriotmem.com</a></p>
+<p>&nbsp;</p>
+<p>APAC</p>
+<p>Jensen Wang</p>
+<p>Marketing Manager, APAC</p>
+<p>Patriot Memory</p>
+<p><a href="mailto:jwang@patriotmemory.com.tw">jwang@patriotmemory.com.tw</a></p>
+<p>EMEA</p>
+<p>&nbsp;</p>
+<p>Bethany DeGraff</p>
+<p>Marketing Specialist, EU</p>
+<p>Patriot Memory</p>
+<p><a href="mailto:bdegraff@patriotmem.com">bdegraff@patriotmem.com</a></p><p></p>
+									  	 
+									  	   
+									  	 
+                         	             </div>	
+							   
+							   
+                                 
+                         			  	   <div style="display:none" class="news_postingP_11">
+										   
+                 					       
+										   
+                 					       <h1>Patriot Launches Apple® MFi Certified FUEL iON Charging Case for the iPhone® 6</h1><br><br>
+									  	   <p></p><p align="center"><img style="vertical-align: middle;" src="http://www.rehwolution.it/wordpress/wp-content/uploads/2014/03/patriot-logo.jpg" alt="" width="500" height="100">&nbsp;</p>
+<p align="center"><strong>Patriot Launches Apple® MFi Certified FUEL iON Charging Case for the iPhone® 6</strong></p>
+<p style="text-align: center;" align="center"><em>Slim, stylish and fully protective case makes charging effortless with magnetic power</em></p>
+<div><strong><img style="float: left;" src="http://patriotmemory.com/product/specs/i6_Plus_B.jpg" alt="" width="300" height="300"></strong></div>
+<p><strong>FREMONT, CALIF., USA – January 5, 2015</strong> – Patriot, a leading manufacturer of mobile accessories, computer and USB/flash memory, today released the <a href="http://www.patriotmemory.com/fuelion/">FUEL iON Charging Case for the iPhone® 6</a>, a MFi certified case to make charging for the iPhone 6 unconsciously addicting and easy.&nbsp;</p>
+<p>The FUEL iON Charging Case for the iPhone 6 offers consumers a simple charging solution that uses patent-pending magnetic connectors to charge the phone without the use of a plug-in cord, eliminating the need to search for ports while minimizing the wear and tear on the Lighting™ connector and increasing the longevity of the device.&nbsp; Designed with an elevated bezel to prevent scratches, the FUEL iON charging case for the iPhone 6 is fully protective to keep your phone safe during everyday activities.</p>
+<p>Setting themselves apart from other competing charging technologies, Patriot has developed a way to conductively charge a smartphone using neodymium magnets. The incredibly strong magnetic pad on both the FUEL iON phone cases and the charging bases create a direct connection between the two devices and snaps the phone into place; this allows for charging that is comparable to directly plugging into a wall outlet.</p>
+<p>Consumers can choose from three different charging bases: FUEL iON Charging Stand, FUEL iON Charging Pad or the FUEL iON Car Charger.&nbsp; Designed for versatility and convenience whether you are at home, work or on the road, all three provide solutions for charging anytime, anywhere in a functional way offering 360 degree rotational views.</p>
+<p><img style="float: left;" src="http://www.patriotmemory.com/product/specs/Ion%20Iso%20Right.jpg" alt="" width="165" height="165"><img style="vertical-align: middle;" src="http://www.patriotmemory.com/product/specs/PCGCM.jpg" alt="" width="165" height="165"><img style="float: right;" src="http://www.patriotmemory.com/product/specs/PCGDP.jpg" alt="" width="165" height="165"></p>
+<ul>
+<li><strong>FUEL iON Charging Stand:</strong> Ideal for the office with an ergonomic angle for viewing your phone while charging and the snap to position rotational access allows the user to manipulate the phone from vertical to horizontal positions.</li>
+<li><strong>FUEL iON Car Charger:</strong> Simply installs on any windshield and can mount and rotate your phone, optimal for GPS use.</li>
+<li><strong>FUEL iON Charging Pad:</strong> Simply lay your phone at any angle that is perfect for nightstand charging.</li>
+</ul>
+<p>&nbsp;“With the increased consumer dependency on mobile devices for both work and personal use, everyone is looking for fast and functional charging solutions,” says Mike Chang, Product Manager at Patriot. “It was important for us to create the FUEL iON for to the ever-increasing high number of iPhone 6 users.”</p>
+<p>In addition to the iPhone 6 Charging Case, Patriot offers FUEL iON cases for the iPhone 5/5s, Samsung Galaxy S4/5 and Samsung Note 3. Pair these with any of the three different bases available for charging convenience whether it’s at home, the car or in the office. For those who are constantly on-the-go, Patriot also has a 2100mAh magnetic portable battery that connects to the back of the phone and provides a full charge without the restrictions of connecting to a cord.</p>
+<p>The FUEL iON case for the iPhone 6 is available now for an MSRP of $49.99 and can be found at retailers including Fry’s Electronics, Newegg and Amazon. &nbsp;Charging stands and other FUEL iON accessories sold separately.</p>
+<p>&nbsp;</p>
+<p>For more information, visit <a href="http://www.patriotmemory.com/fuelion/">http://www.patriotmemory.com/fuelion/</a> and see our <a href="https://www.youtube.com/watch?v=PF6U3uacGh0">video</a>.&nbsp;</p>
+<p><strong>About Patriot</strong><strong></strong></p>
+<p>Patriot designs, manufactures and markets high performance, enthusiast memory modules, flash memory, and mobile accessory products. Patriot products have become world renown for their extreme performance, reliability and innovation. Patriot sells its products through original equipment manufacturers, retailers, e-tailers and distributors throughout the world with operations in North America, Asia and Europe. Patriot Memory LLC was founded in 1985 and is headquartered in Fremont, California, USA.</p>
+<p>All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice. All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice.</p>
+<p>&nbsp;</p>
+<p>Media Contacts:</p>
+<p>North America</p>
+<p>Stacey Pinheiro</p>
+<p>Marketing Assistant, Americas</p>
+<p>Patriot Memory</p>
+<p><a href="mailto:spinheiro@patriotmem.com">spinheiro@patriotmem.com</a></p>
+<p>&nbsp;</p>
+<p>Nicole Cornella</p>
+<p>Max Borges Agency</p>
+<p><a href="mailto:nicolecornella@maxborgesagency.com">nicolecornella@maxborgesagency.com</a></p>
+<p>&nbsp;</p>
+<p>APAC</p>
+<p>Jensen Wang</p>
+<p>Marketing Manager, APAC</p>
+<p>Patriot Memory</p>
+<p>jwang@patriotmemory.com.tw</p>
+<p>&nbsp;</p>
+<p>EMEA</p>
+<p>Bethany DeGraff</p>
+<p>Marketing Specialist, EU</p>
+<p>Patriot Memory</p>
+<p><a href="mailto:bdegraff@patriotmem.com">bdegraff@patriotmem.com</a></p>
+<p>&nbsp;</p><p></p>
+									  	 
+									  	   
+									  	 
+                         	             </div>	
+							   
+							   
+                                 
+                         			  	   <div style="display:none" class="news_postingP_12">
+										   
+                 					       
+										   
+                 					       <h1>Patriot pushes magnetic mobile charging even further with the new FUEL iON Charging Case for iPhone 5/5s</h1><br><br>
+									  	   <p></p><p><strong><img style="border: 0; float: left; margin: 3px;" src="http://www.patriotmemory.com/blasts/BatteryIonCase_E.jpg" alt="FUEL iON Charging Case" width="300" height="300">FREMONT, CALIF., USA – December 8, 2015</strong>– Patriot, a leading developer in mobile accessories, computer and USB/flash memory, today released the FUEL iON Charging Case for the iPhone 5/5S with an integrated battery for even more on-the-go power and unique magnetic wireless charging capabilities.</p>
+<p>&nbsp;</p>
+<p>The next generation in the iON family, the FUEL iON Charging Case for the iPhone 5/5S is equipped with a 2300mAh built in battery to prolong the life of the user’s iPhone when power has diminished without having to use an external charging source. Able to double the battery life of an iPhone 5/5S on a single charge, the FUEL iON charging case offers a solution for all those times you’ve been caught with no life left in your phone and no way to charge it.</p>
+<p>A switch at the back allows the user to turn the battery on or off and the LED indicator will show the user how much strength is left in the battery. To recharge the FUEL iON Charging Case, attach it to one of the three (3) charging bases available and both your phone and the case will simultaneously charge. The FUEL iON case also has a built in micro USB for cord charging for those times an iON charging stand isn’t available. Designed with an elevated bezel, the case also provides edge-to-edge protection to help prevent scratches.</p>
+<p>“There’s nothing else like it on the market,” Says Mike Chang, Product Manager at Patriot. “The FUEL iON Charging Case offers the smartphone user the best of both worlds, magnetic wireless charging and a portable battery all rolled into one.”</p>
+<p>Utilizing the same neodymium magnetic technology to initiate wireless charging, the FUEL iON Charging Case is compatible with the entire iON ecosystem comprised of an ergonomic base for charging at the office, a car charger, a charging pad with 360 degree rotation, magnetic portable rechargeable battery and a magnetic charging cable. The FUEL iON line also offers fully protective cases for the iPhone 5/5s, Samsung Galaxy s4/5 and Samsung Note 3.</p>
+<p><strong>Availability</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>The FUEL iON Charging Case and Charging Stand kit is available now for an MSRP of $79.99 and can be found at Fry’s Electronics, Newegg, Amazon and other select retailers.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>About Patriot</strong><strong></strong></p>
+<p>Patriot designs, manufactures and markets high performance, enthusiast memory modules, flash memory, and mobile accessory products. Patriot products have become world renown for their extreme performance, reliability and innovation. Patriot sells its products through original equipment manufacturers, retailers, e-tailers and distributors throughout the world with operations in North America, Asia and Europe. Patriot Memory LLC was founded in 1985 and is headquartered in Fremont, California, USA.</p>
+<p>All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice. All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice.</p>
+<p>&nbsp;</p>
+<p>Media Contacts:</p>
+<p>North America</p>
+<p>Stacey Pinheiro</p>
+<p>Marketing Assistant, Americas</p>
+<p>Patriot Memory</p>
+<p>spinheiro@patriotmem.com</p>
+<p>&nbsp;</p>
+<p>APAC</p>
+<p>Jensen Wang</p>
+<p>Marketing Manager, APAC</p>
+<p>Patriot Memory</p>
+<p>jwang@patriotmemory.com.tw</p><p></p>
+									  	 
+									  	   
+									  	 
+                         	             </div>	
+							   
+							   
+                                 
+                         			  	   <div style="display:none" class="news_postingP_13">
+										   
+                 					       
+										   
+                 					       <h1>Patriot Upgrades its LX Series of SDXC and microSDXC Cards to Higher Capacity </h1><br><br>
+									  	   <p></p><div><strong><img style="float: left; border: 0; margin: 3px;" src="http://patriotmemory.com/blasts/128-256-LX-SERIES.jpg" alt="" width="300" height="300">FREMONT, CALIF., USA – November 24, 2014 – </strong>Patriot, a leading manufacturer of computer memory, USB/flash and mobile accessories, added two new additions to its LX Series of SDXC and microSDXC cards reaching new capacities making it easier than ever before to capture images and record in high definition.</div>
+<p><strong>Patriot LX Series 256GB UHS-I Class 10 SDXC Flash Card</strong></p>
+<p>Compliant with the latest SD Association 3.0 specifications consumers are able to capture images and video in real time without having to worry about delay or storage. The perfect item for an aspiring photographer or a seasoned veteran using the latest equipment, it is fast enough to record in HD 1920 x 1080 and has a read speed of up to 80MB/s and a write speed of up to 20MB/s. Its write protection switch prevents users from accidentally deleting videos or images. The Patriot LX Class 10 SDXC memory cards are available in 64GB, 128GB and 256GB and are backed by a 5 year warranty.</p>
+<p><strong>Patriot LX Series 128GB UHS-I Class 10 microSDXC Flash Card</strong></p>
+<p>The fastest 128 microSDXC flash card available, the LX Series is also compliant with the latest SD Association 3.0 specifications making it fast enough to record videos in full high definition. Pair it with the latest recording devices, such as the GoPro, and capture hours of beautiful high definition videos. The LX Series 128GB microSDXC flash memory card has a read time of up to 70MB/s and a write time of up to 20MB/s. Compatible with microSDHC and microSDXC slot devices, the LX Series microsDXC flash card is available in 64GB and 128GB and is backed by Patriot’s 5 year warranty and award winning customer service.</p>
+<p><strong>Availability</strong></p>
+<p>Both the LX Series 256 GB SDXC and the 128GB microSDXC flash cards are available for an MSRP of $129.99 at retailers such as Fry’s Electronics, Newegg, Amazon and other select stores.</p>
+<p><strong>About Patriot</strong><strong></strong></p>
+<p>Patriot designs, manufactures and markets high performance, enthusiast memory modules, flash memory, and mobile accessory products. Patriot products have become world renown for their extreme performance, reliability and innovation. Patriot sells its products through original equipment manufacturers, retailers, e-tailers and distributors throughout the world with operations in North America, Asia and Europe. Patriot Memory LLC was founded in 1985 and is headquartered in Fremont, California, USA.</p>
+<p>All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice. All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice.</p>
+<p>&nbsp;</p>
+<p>Media Contacts:</p>
+<p>North America</p>
+<p>Stacey Pinheiro</p>
+<p>Marketing Assistant, Americas</p>
+<p>Patriot Memory</p>
+<p>spinheiro@patriotmem.com</p>
+<p>&nbsp;</p>
+<p>APAC</p>
+<p>Jensen Wang</p>
+<p>Marketing Manager, APAC</p>
+<p>Patriot Memory</p>
+<p>jwang@patriotmemory.com.tw</p><p></p>
+									  	 
+									  	   
+									  	 
+                         	             </div>	
+							   
+							   
+                                 
+                         			  	   <div style="display:none" class="news_postingP_14">
+										   
+                 					       
+										   
+                 					       <h1>Patriot Introduces New Magnetic Portable Battery for Smartphones Expanding the Fuel iON Family </h1><br><br>
+									  	   <p></p><p><strong><img style="float: left; border: 0; margin: 3px;" src="http://patriotmemory.com/product/specs/PCGPPB_a.jpg" alt="" width="300" height="300">FREMONT, CALIF., USA – November 18<sup>th</sup>, 2015</strong>– Patriot, a leading developer in mobile accessories, computer and USB/flash memory, today launched the latest member to its FUEL iON ecosystem. The new FUEL iON Magnetic Portable Battery offers the portable convenience of charging smartphones line with a new cordless twist.</p>
+<p>Hassling with power cords has become a thing of the past with Patriot’s new FUEL iON Magnetic Portable Battery. Simply attach it to the back of any FUEL iON phone case to power up and charge on-the-go. Its 2100mAh capacity provides enough strength to fuel any smartphone without connecting to a power cord all the while its compact and lightweight features allow it to fit perfectly into any pocket, purse or backpack for storage.</p>
+<p>Compatible with any of the FUEL iON bases, the portable battery can simultaneously charge both itself and any FUEL iON enabled smartphone at home, in the office or in the car. &nbsp;An LED indicator at the top of the battery lights up to let users know how much power is left with the touch of a button. Don’t have a FUEL iON charging base on hand? Not a problem, an included micro USB cord allows for the use of a power outlet when needed. Packed with smart circuit technology, mobile devices are protected from short circuit, over voltage, over current and leakage.</p>
+<p>“The FUEL iON magnetic portable battery is the next must have product for the smartphone user,” said Mike Chang, Patriot’s Product Manager. “We’ve taken the next step in developing the ease at which consumers can access their mobile devices without having to worry about their power supply.”</p>
+<p>The FUEL iON ecosystem is comprised of slim, stylish and fully protective cases for the iPhone 5/5s, Samsung Galaxy s4/5 and Samsung Note3, an ergonomically designed charging stand for the office, a car mount, a charging pad with 360 degree rotation and now the magnetic portable battery. At the center of the FUEL iON’s technology are incredibly strong neodymium magnets designed to secure and charge a device simply by making contact. The revolutionary design of the FUEL iON line allows for charging speeds comparable to that of a wall charger without having to deal with a cord.</p>
+<p>For more information on the operation and benefits of the FUEL iON follow the link below.</p>
+<p>http://www.patriotmemory.com/fuelion/</p>
+<p>&nbsp;</p>
+<p><strong>Availability</strong></p>
+<p>The FUEL iON Portable Battery is available now for an MSRP of $49.99 and can be found at retailers including Fry’s Electronics, Newegg, Amazon and other select retailers.</p>
+<p><strong>About Patriot</strong></p>
+<p>&nbsp;</p>
+<p>Patriot designs, manufactures and markets high performance, enthusiast memory modules, flash memory, and mobile accessory products. Patriot products have become world renown for their extreme performance, reliability and innovation. Patriot sells its products through original equipment manufacturers, retailers, e-tailers and distributors throughout the world with operations in North America, Asia and Europe. Patriot Memory LLC was founded in 1985 and is headquartered in Fremont, California, USA.</p>
+<p>All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice. All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice.</p>
+<p>&nbsp;</p>
+<p>Media Contacts:</p>
+<p>North America</p>
+<p>Stacey Pinheiro</p>
+<p>Marketing Assistant, Americas</p>
+<p>Patriot Memory</p>
+<p>spinheiro@patriotmem.com</p>
+<p>&nbsp;</p>
+<p>APAC</p>
+<p>Jensen Wang</p>
+<p>Marketing Manager, APAC</p>
+<p>Patriot Memory</p>
+<p>jwang@patriotmemory.com.tw</p><p></p>
+									  	 
+									  	   
+									  	 
+                         	             </div>	
+							   
+							   
+                                 
+                         			  	   <div style="display:none" class="news_postingP_15">
+										   
+                 					       
+										   
                  					       <h1>Patriot Revitalizes its FUEL+ Portable Chargers Line with Two New Models</h1><br><br>
-									  	   <p></p><div><strong>FREMONT, CALIF., USA – November 10<sup>th</sup>, 2015</strong>– Patriot, a leading manufacturer of computer memory, USB/flash, and mobile accessories, introduces two new models to its popular FUEL+ family. FUEL+ offers efficient charging with the easy of portability for smartphones, tablets and other USB powered devices.
+									  	   <p></p><p><strong>FREMONT, CALIF., USA – November 10<sup>th</sup>, 2015</strong>– Patriot, a leading manufacturer of computer memory, USB/flash, and mobile accessories, introduces two new models to its popular FUEL+ family. FUEL+ offers efficient charging with the easy of portability for smartphones, tablets and other USB powered devices.</p>
 <p>&nbsp;</p>
 <p>Consumers have become dependent on mobile devices and applications that drain more power than ever before.&nbsp; Patriot’s FUEL+ looks to offer a solution for low batteries, delivering both portability and performance. FUEL+’s new models provide users more solutions to fit their lifestyle.</p>
 <p><strong>FUEL+ 6000mAh and 12000mAh</strong></p>
@@ -1357,7 +2130,7 @@ Today, Patriot is one the oldest branded memory companies in the USA and continu
 <p>Jensen Wang</p>
 <p>Marketing Manager, APAC</p>
 <p>Patriot Memory</p>
-jwang@patriotmemory.com.tw</div><p></p>
+<p>jwang@patriotmemory.com.tw</p><p></p>
 									  	 
 									  	   
 									  	 
@@ -1365,12 +2138,12 @@ jwang@patriotmemory.com.tw</div><p></p>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_1">
+                         			  	   <div style="display:none" class="news_postingP_16">
 										   
                  					       
 										   
                  					       <h1>Patriot Launches Supersonic Bolt XT Offering Performance and Data Security</h1><br><br>
-									  	   <p></p><div><strong>FREMONT, CALIF., USA – November 3rd, 2014 - </strong>Patriot, a leader in computer memory, flash storage, and premium mobile accessories announces a leap forward in its Supersonic flash memory family with the launch of Supersonic Bolt XT. &nbsp;Supersonic Bolt brings high performance and hardware encrypted data security together like never before.
+									  	   <p></p><p><strong>FREMONT, CALIF., USA – November 3rd, 2014 - </strong>Patriot, a leader in computer memory, flash storage, and premium mobile accessories announces a leap forward in its Supersonic flash memory family with the launch of Supersonic Bolt XT. &nbsp;Supersonic Bolt brings high performance and hardware encrypted data security together like never before.</p>
 <p>&nbsp;</p>
 <p>In a society with an ever growing need for data security, Patriot’s Supersonic Bolt XT offers protection inside and out. Using built in FIPS 197 compliant hardware-based 256-bit AES security, the Supersonic Bolt XT is like having a personal Fort Knox in your pocket. &nbsp;The drive locks down and reformats after 10 consecutive failed password attempts. &nbsp;The security does not stop with the hardware. &nbsp;A ruggedized, rubber housing protects your data from common day drops and bumps.</p>
 <p>Lightning fast transfer speeds round out this powerhouse flash drive. &nbsp;With transfer speeds up to 150MB/s, the Supersonic Bolt XT will give you performance needed for accessing and moving large files quickly. A high speed USB 3.0 compatible connection, that is backwards compatible to USB 2.0, provides users with the performance they crave and the security they need. The Supersonic Bolt XT is available in 16GB, 32GB, and 64GB capacities to meet every user’s needs.</p>
@@ -1401,8 +2174,7 @@ jwang@patriotmemory.com.tw</div><p></p>
 <p>Jensen Wang</p>
 <p>Marketing Manager, APAC</p>
 <p>Patriot</p>
-<p>jwang@patriotmemory.com.tw</p>
-</div><p></p>
+<p>jwang@patriotmemory.com.tw</p><p></p>
 									  	 
 									  	   
 									  	 
@@ -1410,12 +2182,12 @@ jwang@patriotmemory.com.tw</div><p></p>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_2">
+                         			  	   <div style="display:none" class="news_postingP_17">
 										   
                  					       
 										   
                  					       <h1>Patriot Unveils New FUEL Active Mobile Rechargeable Batteries to Power Up Outdoor Enthusiasts</h1><br><br>
-									  	   <p></p><div>Fremont, CA&nbsp;January 21, 2014 - Patriot, a global pioneer in high-performance memory, NAND flash, storage, and mobile accessories today unveils its new FUEL Active battery brand to power up outdoor enthusiasts. Building on the award winning FUEL+ mobile battery ecosystem, Patriot specifically developed the FUEL Active series to be the best and most reliable portable power solutions for gadget loving outdoor adventurists everywhere.
+									  	   <p></p><p>Fremont, CA&nbsp;January 21, 2014 - Patriot, a global pioneer in high-performance memory, NAND flash, storage, and mobile accessories today unveils its new FUEL Active battery brand to power up outdoor enthusiasts. Building on the award winning FUEL+ mobile battery ecosystem, Patriot specifically developed the FUEL Active series to be the best and most reliable portable power solutions for gadget loving outdoor adventurists everywhere.</p>
 <p>Mobile device use has never been more popular and now with the use of mobile applications that help with trail mapping, real time weather reports, and workout tracking; the smartphone, smart watch, and tablet are the perfect companion for every outdoor adventurer. While conquering the planet, these new technologies can be extremely handy but can drain devices of power. Using Patriot’s FUEL Active mobile rechargeable batteries, outdoor enthusiasts can now take their favorite devices into the wild, wherever they may travel and never worry about running out of power again.</p>
 <p><a title="FUEL Active 6000" href="http://www.patriotmemory.com/product/detail.jsp?prodline=6&amp;catid=100&amp;prodgroupid=273&amp;id=8179&amp;type=30" rel="nofollow">FUEL Active 6000</a></p>
 <p>The FUEL Active 6000mAh offers a powerful two output design, with one dedicated 2.5A port and one integrated micro USB charge cable that provides 1A of current. With FUEL Active performance matters - the dedicated 2.5A port offers faster charging when compared to competing brands that only offer 2.1A. For protection against the elements, the FUEL Active 6000 comes in a sturdy plastic housing with integrated dust caps covering the connectors.</p>
@@ -1445,8 +2217,7 @@ jwang@patriotmemory.com.tw</div><p></p>
 </ul>
 <p>&nbsp;</p>
 <p>Availability</p>
-<p>The FUEL Active 2000 and FUEL Active 6000 are now shipping and will be available for an MSRP of $19.99 and $69.99.</p>
-</div><p></p>
+<p>The FUEL Active 2000 and FUEL Active 6000 are now shipping and will be available for an MSRP of $19.99 and $69.99.</p><p></p>
 									  	 
 									  	   
 									  	 
@@ -1454,7 +2225,7 @@ jwang@patriotmemory.com.tw</div><p></p>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_3">
+                         			  	   <div style="display:none" class="news_postingP_18">
 										   
                  					       
 										   
@@ -1477,7 +2248,7 @@ jwang@patriotmemory.com.tw</div><p></p>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_4">
+                         			  	   <div style="display:none" class="news_postingP_19">
 										   
                  					       
 										   
@@ -1493,7 +2264,7 @@ jwang@patriotmemory.com.tw</div><p></p>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_5">
+                         			  	   <div style="display:none" class="news_postingP_20">
 										   
                  					       
 										   
@@ -1520,7 +2291,7 @@ jwang@patriotmemory.com.tw</div><p></p>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_6">
+                         			  	   <div style="display:none" class="news_postingP_21">
 										   
                  					       
 										   
@@ -1534,7 +2305,7 @@ jwang@patriotmemory.com.tw</div><p></p>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_7">
+                         			  	   <div style="display:none" class="news_postingP_22">
 										   
                  					       
 										   
@@ -1547,7 +2318,7 @@ jwang@patriotmemory.com.tw</div><p></p>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_8">
+                         			  	   <div style="display:none" class="news_postingP_23">
 										   
                  					       
 										   
@@ -1560,7 +2331,7 @@ jwang@patriotmemory.com.tw</div><p></p>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_9">
+                         			  	   <div style="display:none" class="news_postingP_24">
 										   
                  					       
 										   
@@ -1615,7 +2386,7 @@ All company and/or product names may be trade names, trademarks and/or registere
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_10">
+                         			  	   <div style="display:none" class="news_postingP_25">
 										   
                  					       
 										   
@@ -1648,7 +2419,7 @@ All company and/or product names may be trade names, trademarks and/or registere
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_11">
+                         			  	   <div style="display:none" class="news_postingP_26">
 										   
                  					       
 										   
@@ -1680,7 +2451,7 @@ All company and/or product names may be trade names, trademarks and/or registere
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_12">
+                         			  	   <div style="display:none" class="news_postingP_27">
 										   
                  					       
 										   
@@ -1714,7 +2485,7 @@ All company and/or product names may be trade names, trademarks and/or registere
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_13">
+                         			  	   <div style="display:none" class="news_postingP_28">
 										   
                  					       
 										   
@@ -1765,7 +2536,7 @@ Expect the Javelin S4 to ship to customers in late February 2011. For more infor
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_14">
+                         			  	   <div style="display:none" class="news_postingP_29">
 										   
                  					       
 										   
@@ -1791,7 +2562,7 @@ General details:<br>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_15">
+                         			  	   <div style="display:none" class="news_postingP_30">
 										   
                  					       
 										   
@@ -1821,7 +2592,7 @@ General details<br>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_16">
+                         			  	   <div style="display:none" class="news_postingP_31">
 										   
                  					       
 										   
@@ -1862,7 +2633,7 @@ All company and/or product names may be trade names, trademarks and/or registere
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_17">
+                         			  	   <div style="display:none" class="news_postingP_32">
 										   
                  					       
 										   
@@ -1899,7 +2670,7 @@ All company and/or product names may be trade names, trademarks and/or registere
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_18">
+                         			  	   <div style="display:none" class="news_postingP_33">
 										   
                  					       
 										   
@@ -1944,7 +2715,7 @@ All company and/or product names may be trade names, trademarks and/or registere
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_19">
+                         			  	   <div style="display:none" class="news_postingP_34">
 										   
                  					       
 										   
@@ -1975,7 +2746,7 @@ All company and/or product names may be trade names, trademarks and/or registere
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_20">
+                         			  	   <div style="display:none" class="news_postingP_35">
 										   
                  					       
 										   
@@ -2004,7 +2775,7 @@ General details<br>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_21">
+                         			  	   <div style="display:none" class="news_postingP_36">
 										   
                  					       
 										   
@@ -2030,7 +2801,7 @@ All company and/or product names may be trade names, trademarks and/or registere
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_22">
+                         			  	   <div style="display:none" class="news_postingP_37">
 										   
                  					       
 										   
@@ -2066,7 +2837,7 @@ General details<br>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_23">
+                         			  	   <div style="display:none" class="news_postingP_38">
 										   
                  					       
 										   
@@ -2101,7 +2872,7 @@ General details<br>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_24">
+                         			  	   <div style="display:none" class="news_postingP_39">
 										   
                  					       
 										   
@@ -2134,7 +2905,7 @@ New Patriot Torqx 2 series SSDs<br>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_25">
+                         			  	   <div style="display:none" class="news_postingP_40">
 										   
                  					       
 										   
@@ -2172,7 +2943,7 @@ All company and/or product names may be trade names, trademarks and/or registere
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_26">
+                         			  	   <div style="display:none" class="news_postingP_41">
 										   
                  					       
 										   
@@ -2204,7 +2975,7 @@ Patriot Supersonic Series Magnum<br>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_27">
+                         			  	   <div style="display:none" class="news_postingP_42">
 										   
                  					       
 										   
@@ -2237,7 +3008,7 @@ General details<br><br>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_28">
+                         			  	   <div style="display:none" class="news_postingP_43">
 										   
                  					       
 										   
@@ -2288,7 +3059,7 @@ Multiple user management  <br><br></p>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_29">
+                         			  	   <div style="display:none" class="news_postingP_44">
 										   
                  					       
 										   
@@ -2323,7 +3094,7 @@ General Details
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_30">
+                         			  	   <div style="display:none" class="news_postingP_45">
 										   
                  					       
 										   
@@ -2346,7 +3117,7 @@ The PBO Core high-definition media player has been the winner of numerous awards
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_31">
+                         			  	   <div style="display:none" class="news_postingP_46">
 										   
                  					       
 										   
@@ -2441,7 +3212,7 @@ Product Information:<br>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_32">
+                         			  	   <div style="display:none" class="news_postingP_47">
 										   
                  					       
 										   
@@ -2512,7 +3283,7 @@ Product Information:<br>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_33">
+                         			  	   <div style="display:none" class="news_postingP_48">
 										   
                  					       
 										   
@@ -2534,7 +3305,7 @@ The Patriot Viper Xtreme series of products are launching today with the immedia
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_34">
+                         			  	   <div style="display:none" class="news_postingP_49">
 										   
                  					       
 										   
@@ -2559,7 +3330,7 @@ Patriot Convoy 4x4 enclosures have an industrial design featuring a rugged alumi
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_35">
+                         			  	   <div style="display:none" class="news_postingP_50">
 										   
                  					       
 										   
@@ -2644,7 +3415,7 @@ Product Information:<br>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_36">
+                         			  	   <div style="display:none" class="news_postingP_51">
 										   
                  					       
 										   
@@ -2716,7 +3487,7 @@ Product Information:<br>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_37">
+                         			  	   <div style="display:none" class="news_postingP_52">
 										   
                  					       
 										   
@@ -2777,7 +3548,7 @@ Patriot LX Series UHS-I SDXC memory cards are tested for reliability and compati
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_38">
+                         			  	   <div style="display:none" class="news_postingP_53">
 										   
                  					       
 										   
@@ -2801,7 +3572,7 @@ The Viper II Series Sector 7 Edition is built using only the highest quality pre
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_39">
+                         			  	   <div style="display:none" class="news_postingP_54">
 										   
                  					       
 										   
@@ -2876,7 +3647,7 @@ Product Information:<br>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_40">
+                         			  	   <div style="display:none" class="news_postingP_55">
 										   
                  					       
 										   
@@ -2911,7 +3682,7 @@ Product Information:<br>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_41">
+                         			  	   <div style="display:none" class="news_postingP_56">
 										   
                  					       
 										   
@@ -2980,7 +3751,7 @@ Product Information:<br>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_42">
+                         			  	   <div style="display:none" class="news_postingP_57">
 										   
                  					       
 										   
@@ -3048,7 +3819,7 @@ Product Information:<br>
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_43">
+                         			  	   <div style="display:none" class="news_postingP_58">
 										   
                  					       
 										   
@@ -3145,7 +3916,7 @@ The Zephyr family of SSDs are durable and reliable, with an aluminum housing to 
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_44">
+                         			  	   <div style="display:none" class="news_postingP_59">
 										   
                  					       
 										   
@@ -3165,7 +3936,7 @@ Designed with an extruded aircraft-grade aluminum heat spreader, Viper II 'Secto
 							   
 							   
                                  
-                         			  	   <div style="display:none" class="news_postingP_45">
+                         			  	   <div style="display:none" class="news_postingP_60">
 										   
                  					       
 										   
@@ -3241,7 +4012,7 @@ Patriot Memory understands the value of information and has a respect for your p
 <p>
 This non-personal information is utilized solely to provide us with valuable data about the amount of traffic to and from our website. It may help determine what is popular on the website and what is not, and to see where and how people find information on our website.</p><p>You will not find any malicious code, scripts, web-bugs, spyware programs or applications on our website. We use various scripts for maintaining news feeds, providing features and visitor conveniences, site security, and in our forums. None are malicious and/or inherently or realistically dangerous in any way.</p><p>From time to time, we may provide software downloads, scripts, documents, or materials for the convenience of our members and visitors.</p><p>If the content of our website is illegal in your country and/or territory, the use of this site is strictly prohibited.</p><p>Patriot Memory prohibits the posting of working direct links or any other items which would result in prohibited items being downloaded to a user's computer. It violates the User Agreement each registered member must agree as part of the registration process.</p><p>At no time will this site ever attempt to place, or allow to be placed, any "tracking" or "data mining" cookie or similar file on any member or visitor's computer.</p><p>Patriot Memory hates Spam! We hate spammers worse!! Anyone who harvests, or attempts to, member or visitor information for the purpose of spamming or otherwise sending unsolicitted email is strictly prohibited and will not be tolerated.</p><p>Patriot Memory has implemented and maintained methods to prevent information about you from being harvested from this site. Any and all legal remedies available will be used to prosecute offenders.</p><p>The following Forum information is obtained and maintained for the proper administration of registered memberships and the forums. Patriot Memory will not use or share the information you provide with any third parties except as otherwise provided for in this Privacy Policy.
 </p>
-If you choose to register at the forums your user name is maintained If you post any message to a forum your IP address and the message you posted is maintained If you provide additional information in your Profile after registering<p></p><p>You can access all the personally identifiable information we collect and maintain except your IP address for modifications by editing your user profile. IP address info cannot be changed as this data is automatically logged by the Forum's software and cannot be edited.</p><p>In no way will Patriot Memory change your personal information. You are the only one to whom the data belongs and we take it very serious to keep your information private!</p><p>Patriot Memory reserves the right to update this Privacy Policy at any time. In the event the Privacy Policy is amended, updated or materially changed, we will give notice of this fact in a manner which is easily accessible and clearly apparent to both visitors and members. We will implement our Privacy Policy in such a way so as to never compromise your trust or your privacy. However, we must reserve the right to make changes which address issues that may arise in the future.</p><p>For questions or concerns please send an email to (list an e-mail address you want)
+If you choose to register at the forums your user name is maintained If you post any message to a forum your IP address and the message you posted is maintained If you provide additional information in your Profile after registering<p></p><p>You can access all the personally identifiable information we collect and maintain except your IP address for modifications by editing your user profile. IP address info cannot be changed as this data is automatically logged by the Forum's software and cannot be edited.</p><p>In no way will Patriot Memory change your personal information. You are the only one to whom the data belongs and we take it very serious to keep your information private!</p><p>Patriot Memory reserves the right to update this Privacy Policy at any time. In the event the Privacy Policy is amended, updated or materially changed, we will give notice of this fact in a manner which is easily accessible and clearly apparent to both visitors and members. We will implement our Privacy Policy in such a way so as to never compromise your trust or your privacy. However, we must reserve the right to make changes which address issues that may arise in the future.</p><p>For questions or concerns please send an email <a href="mailto:support@patriotmem.com?Subject=Patriot%20Support">here</a>.
 </p></div>
 <!--End Privacy DIV-->
 
@@ -3306,7 +4077,7 @@ $(document).ready(function (){
 
     	<ul>
 
-        	<li><a href="http://www.patriotmemory.com/product/indexp.jsp?source=5,3">SDRAM</a></li>
+        	<li><a href="http://www.patriotmemory.com/product/indexp.jsp?source=5,3">DRAM</a></li>
 
             <li><a href="http://www.patriotmemory.com/product/indexp.jsp?source=8">SSD</a></li>
 
@@ -3328,7 +4099,7 @@ $(document).ready(function (){
 
         	<li><a href="http://www.patriotmemory.com/forums/forum.php" target="_new">Forums</a></li>
 
-            <li><a href="http://www.patriotmemory.com/community/eventsp.jsp">Custom Events</a></li>
+            <li><a href="http://www.patriotmemory.com/community/eventsp.jsp">Events</a></li>
 
             <li><a href="http://www.patriotmemory.com/community/social_networksp.jsp">Social Networks</a></li>
 			<li><a href="http://www.patriotmemory.com/reseller/indexn.jsp">Newsletter Subscription</a></li>
@@ -3395,6 +4166,8 @@ $(document).ready(function (){
         <a href="https://www.facebook.com/PATRIOTmem"><img src="/images/fb.png"></a>
 
         <a href="http://twitter.com/#!/patriotmemory"><img src="/images/twitter.png"></a>
+        <a href="http://instagram.com/patriotmobile"><img src="/images/ig.png"></a>
+       
 
     </div>
 
@@ -3404,7 +4177,7 @@ $(document).ready(function (){
 
 <div id="copyright">
 
-	<span>©1985-2014 Patriot Memory® LLC. All Rights Reserved.</span>	
+	<span>©1985-2015 Patriot Memory® LLC. All Rights Reserved.</span>	
 	
     <a href="javascript:stCookie('de');"><font color="#ffffff">.</font></a>
 
@@ -3445,7 +4218,7 @@ $(document).ready(function (){
   var aoCookieDomain = 'patriotmemory.com';
   var aoServerContext = 'http://marketing.patriotmemory.com/acton';
   /* ]]> */
-</script><img src="http://marketing.patriotmemory.com/acton/bn/10141/visitor.gif?ts=1580496936135&amp;ref=">
+</script><img src="http://marketing.patriotmemory.com/acton/bn/10141/visitor.gif?ts=1580496939675&amp;ref=">
                        
 
 </div><div id="sb-container"><div id="sb-overlay"></div><div id="sb-wrapper"><div id="sb-title"><div id="sb-title-inner"></div></div><div id="sb-wrapper-inner"><div id="sb-body"><div id="sb-body-inner"></div><div id="sb-loading"><div id="sb-loading-inner"><span>loading</span></div></div></div></div><div id="sb-info"><div id="sb-info-inner"><div id="sb-counter"></div><div id="sb-nav"><a id="sb-nav-close" title="Close" onclick="Shadowbox.close()"></a><a id="sb-nav-next" title="Next" onclick="Shadowbox.next()"></a><a id="sb-nav-play" title="Play" onclick="Shadowbox.play()"></a><a id="sb-nav-pause" title="Pause" onclick="Shadowbox.pause()"></a><a id="sb-nav-previous" title="Previous" onclick="Shadowbox.previous()"></a></div></div></div></div></div></body></html>
