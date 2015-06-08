@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihotelier.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121065211id_/http%3A//www.travelclick.com/en/privacy_policy%3Fformat%3Dsimple) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihotelier.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609004807id_/http%3A//www.travelclick.com/en/privacy_policy%3Fformat%3Dsimple) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,6 +20,10 @@ We use the information we collect to reserve hotel accommodations and to provide
 
 We may further use any information that we collect, including personal information, to administer, operate and improve our website, our Services and our business. We also use information we collect to communicate with individuals and for other marketing purposes.
 
+#### Notice to California Residents
+
+Under California law, California residents may request a list of all third parties to whom we have disclosed certain personal information (as defined by California law) during the preceding year for those third parties’ direct marketing purposes. If you are a California resident and would like to receive such a list, please contact us at 7 Times Square, NY, NY 10036. For any such request, include the statement “Your California Privacy Rights” in the body of your request, as well as your name, street address, city, state, and zip code. Please provide enough information for us to determine if this applies to you. You must also attest to the fact that you are a California resident and provide a current California address for our response. Please note that we will not accept requests via the telephone, email, or by facsimile, and we are not responsible for notices that are not labeled or sent properly or that do not have complete information.
+
 #### Security
 
 No security program is impenetrable and criminals have proven adept at circumventing widely-adopted security safeguards, so we cannot guarantee the security of personal information.  Accordingly, you acknowledge that you provide personal information to us at your own risk.
@@ -32,7 +36,7 @@ We may utilize third party service providers to help us manage our business and 
 
 TravelClick also may disclose any personal information as required by law, court order or other valid legal processes or in connection with a merger, acquisition, reorganization or sale of TravelClick, any of TravelClick’s business lines, or all or substantially all of TravelClick's assets or a TravelClick business line’s assets.
 
-####  **Choice**
+#### **Choice**
 
 Should you sign up for our email list and then change your mind and no longer wish to receive e-mail or periodic mailings from us in the future, please let us know by sending an e-mail to [Unsubscribe@travelclick.com](mailto:Unsubscribe@travelclick.com) with your email address in the subject line.
 
@@ -40,26 +44,26 @@ If you do not want your personal information to be used or transferred to third 
 
 You can also adjust your Internet browser settings to refuse cookies. However, some TravelClick features and services may not operate properly or as quickly if your cookies are disabled. To find out more about cookies, visit [www.aboutcookies.org](http://www.aboutcookies.org/).
 
-####  **Access**
+#### **Access**
 
 We will provide you with access to your personal information stored on our active servers upon request, subject to a reasonable handling charge. You may correct or update such information by sending an email to [cs@travelclick.com](mailto:cs@travelclick.com), with “privacy policy update” in the subject line. We will also delete your personal information from our active servers, upon your written request, unless we are required to retain it by law or other legal obligation. 
 
-####  **Do Not Track**
+#### **Do Not Track**
 
 Do Not Track (DNT) is a privacy preference that users can set in their web browsers. When a user turns on DNT, the browser sends a message to websites requesting that they don’t track the user. At this time, we ignore these signals.  We do not change our practices, described elsewhere in this privacy policy, in response to Do Not Track browser settings or signals. For information about DNT, visit [www.allaboutdnt.org](http://www.allaboutdnt.org/).
 
 In addition, we deploy cookies, tracking pixels, web beacons and other technologies on our websites and those of our customers.  Those tools may be used by us, our customers, and third parties to collect information about you and your internet activity, even if you have turned on DNT.
 
- **Children's Privacy**
+#### Children's Privacy
 
 We do not knowingly collect personal information from children under the age of 13.
 
-####  **Privacy Policy Updates**
+#### **Privacy Policy Updates**
 
 If we decide to change our privacy policy, we will post those changes on this site and notify you of material changes with an alert on the site or a communication to you.
 
-####  **Additional Information/Questions**
+#### **Additional Information/Questions**
 
 We will investigate all complaints promptly and diligently to address your concerns and resolve any disputes quickly. If a complaint or dispute cannot be resolved through our internal process, we agree to independent dispute resolution procedures administered by the American Arbitration Association.
 
-Privacy Policy Last Modified May 29, 2014.
+Privacy Policy Last Modified May 8, 2015.
