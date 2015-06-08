@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebby.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011005428id_/http%3A//ebby.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebby.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608044501id_/http%3A//www.ebby.com/privacy_policy) for the most accurate reproduction.*
 
 # Dallas Real Estate | Dallas Homes for Sale by Ebby Halliday Realtors
 
@@ -89,5 +89,5 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 If you have questions about the privacy procedures employed at Ebby Halliday REALTORS, please contact [privacy@ebby.com](mailto:privacy@ebby.com) or call 972-980-6600. 
 
-Back to Top | [Home](https://web.archive.org/web/20141011005428id_/http%3A//ebby.com/index.shtml)  
+Back to Top | [Home](https://web.archive.org/web/20150608044501id_/http://www.ebby.com/privacy_policy/index.shtml)  
 
