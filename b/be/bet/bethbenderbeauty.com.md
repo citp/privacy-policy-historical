@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bethbenderbeauty.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218080118id_/http%3A//bethbenderbeauty.com/legal%3F___store%3Ddefault) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bethbenderbeauty.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608051920id_/http%3A//bethbenderbeauty.com/legal%3F___store%3Ddefault) for the most accurate reproduction.*
 
 # Privacy Policy and Legal Disclaimer
 
@@ -46,7 +46,7 @@ We use this information to process your order and to make sure that it is delive
 
 We request an e-mail address during the order process so that we can send an e-mail confirmation message acknowledging the receipt of your order. This message contains your name, address, the list of items you purchased, an order reference number, a confirmation of your shipping method, and the total cost of items requested, including any shipping / delivery charges and taxes. Please note that this confirmation e-mail does NOT contain your credit card number.
 
-Beth Bender Beauty reserves the right to withhold shipping on any orders they deem as fraudulent or may infringe on their intellectual properties. If this should occur all funds will be automatically refunded to the buyer and their order cancelled. 
+Beth Bender Beauty reserves the right to withhold shipping on any orders, this includes but is not limited to: sales they deem as fraudulent or may infringe on their intellectual properties. If this should occur all funds will be refunded to the buyer and their order cancelled. 
 
 **Click-Stream Data (And Cookie Technology):**
 
@@ -66,7 +66,7 @@ In some instances, we use third-party companies to help us provide products and 
 
 Other than as stated above, bethbenderbeauty.com does not provide customer names and postal addresses, including your e-mail address or phone number, to any other company. If you want to be removed from all bethbenderbeauty.com marketing: 
 
-**[Click here](mailto:bethbenderbeauty@gmail.com)to send an e-mail and type REMOVE FROM ALL MARKETING in the subject line; **
+**[Click here](mailto:info@bethbenderbeauty.com) to send an e-mail and type REMOVE FROM ALL MARKETING in the subject line; **
 
 **Other bethbenderbeauty.com Privacy Notes:**
 
