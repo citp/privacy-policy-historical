@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the franchiseclique.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218005611id_/http%3A//www.franchiseclique.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchiseclique.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608035017id_/http%3A//www.franchiseclique.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | FranchiseClique.com
 
-Effective on February 2, 2014 
+Effective on May 2, 2015 
 
 This privacy policy describes how FranchiseClique.com owned and operated by FranchiseClique.com collects and uses the personal information you provide on our Web site: www.FranchiseClique.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
-FranchiseClique.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at info@franchiseclique.com. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
+FranchiseClique.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through these websites www.franchiseclique.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at info@franchiseclique.com. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
 
 ## Collection and Use of Personal Information
 
@@ -22,7 +22,7 @@ We also collect the following information from you
 
 
 
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system. We use this information to 
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system and store it in log files. We use this information to 
 
   * Assess the needs of your business to determine suitable products
   * Send you requested product or service information
@@ -36,6 +36,8 @@ As is true of most Web sites, we automatically gather information about your com
   * Display content based upon your interests
 
 
+
+We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality. 
 
 ### Choice/Opt-Out
 
@@ -62,17 +64,17 @@ We may also disclose your personal information
 
 We share your personal information with other companies so that they can market their products or services to you. If you do not want us to share your personal information with these companies, contact us at [info@FranchiseClique.com](mailto:info@FranchiseClique.com). 
 
-## Cookies and Other Tracking Technologies
+## Tracking Technologies
 
-We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information. 
+Technologies such as: cookies, beacons, tags and scripts are used by FranchiseClique.com and our partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
 
-We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site. 
+We use cookies for our cart, to remember users’ settings (e.g. language preference), for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
 
-### Web beacons
+We and third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. 
 
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns. 
+Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as Flash to collect and store information. To manage Flash LSOs please click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html 
 
-We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used. 
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here. Please note this does not opt you out of being served ads.  You will continue to receive generic ads. 
 
 ### Links to Other Web Sites
 
@@ -92,6 +94,8 @@ You can log in to our site using sign-in services such as Facebook Connect. Thes
 
 Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [email address]. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
 
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [info@FranchiseClique.com](mailto:info@FranchiseClique.com). 
+
 **Data Retention** : We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [info@FranchiseClique.com](mailto:info@FranchiseClique.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 ### Updating Your Personal Information
@@ -103,10 +107,10 @@ Please note that users can not update or delete previously submitted information
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
 
 **FranchiseClique.com**  
-710 Johnnie Dodds Blvd, Ste 310  
-Mount Pleasant, SC 29464  
+146 Fairchild Street, Suite 130  
+Charleston, SC 29492  
 Email: [info@franchiseclique.com](mailto:info@franchiseclique.com)  
 Phone: (877) 252-2340  
 
 
-[](https://privacy.truste.com/privacy-seal/Franchise-Clique/validation?rid=3af1b5bc-4bc8-483f-8712-5d81edb1f093 "TRUSTe online privacy certification")
+[](https://privacy.truste.com/privacy-seal/Franchise-Clique/validation?rid=8f49c6d0-aff0-4bda-96eb-4bf8423350d0 "TRUSTe online privacy certification")
