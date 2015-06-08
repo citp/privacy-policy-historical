@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dorothyperkins.com privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028035122id_/http%3A//www.dorothyperkins.com/en/dpuk/category/privacy-policy-3077345/home%3FTS%3D1403102837659%26cat2%3D1772993) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dorothyperkins.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609012913id_/http%3A//www.dorothyperkins.com/en/dpuk/category/privacy-policy-3077345/home%3FTS%3D1403102837659%26cat2%3D1772993%3Fintnav%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy - Dorothy Perkins
 
