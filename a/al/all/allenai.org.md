@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the allenai.org privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205083150id_/http%3A//www.allenai.org/TemplateGeneric.aspx%3FcontentId%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allenai.org privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608115402id_/http%3A//allenai.org/privacy-policy.html) for the most accurate reproduction.*
 
 # AI2 : Privacy Policy
-
-Privacy Policy
 
 This Privacy Policy discloses the online privacy practices for The Allen Institute for Artificial Intelligence ("AI2") and applies to the information AI2 collects through www.allenai.org (the "Site"). By accessing and/or using the Site, you, the user ("you") are consenting to the collection, storage, and disclosure of data as described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site.
 
@@ -24,7 +22,7 @@ Except as provided in this Privacy Policy, to the extent it collects Personal In
 The Site is a general audience site and is not directed to children under the age of 13. We do not intentionally or knowingly collect information from anyone under the age of 13.
 
 **Submission Information**  
-Any information you choose to send through the Site other than Personal Information, including, without limitation, submissions, ideas, inventions, comments or suggestions about the Site or any project of AI2, business proposals and feedback regarding the Site is referred to in this Privacy Policy as "Submission Information." As described in our [Terms of Use](https://web.archive.org/TemplateGeneric.aspx?contentId=6), AI2 does not accept or collect Submission Information on a confidential or proprietary basis. Consequently, AI2 is free to use Submission Information for any purpose whatsoever.
+Any information you choose to send through the Site other than Personal Information, including, without limitation, submissions, ideas, inventions, comments or suggestions about the Site or any project of AI2, business proposals and feedback regarding the Site is referred to in this Privacy Policy as "Submission Information." As described in our [Terms of Use](https://web.archive.org/web/20150608115402id_/http%3A//allenai.org/terms-of-use.html), AI2 does not accept or collect Submission Information on a confidential or proprietary basis. Consequently, AI2 is free to use Submission Information for any purpose whatsoever.
 
 **Disclosures to Third Parties**  
 Because AI2 does not accept or collect Submission Information on a confidential or proprietary basis, from time to time AI2 may disclose your Submission Information to third parties, including, without limitation, other users of the Site, other potential investors, our consultants, our representatives, our affiliated companies and others.
