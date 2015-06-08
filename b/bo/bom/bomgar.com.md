@@ -1,10 +1,15 @@
-> *The following text is extracted and transformed from the bomgar.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229040137id_/http%3A//www.bomgar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bomgar.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608053116id_/http%3A//www.bomgar.com/privacy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy | BOMGAR
+
+Effective Date: 1/15/2015  
+Bomgar™ Privacy Policy
+
+This is the web site of Bomgar Corporation.
 
 Because Bomgar Corporation (“Bomgar”) respects and is committed to protecting your privacy, we have adopted this Privacy Policy. This Privacy Policy lets you know how we process and use your personal information. The following policies are only in effect for the Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned and operated by Bomgar Corporation (the "Bomgar Network"). If you have questions or concerns regarding this statement, you should first contact Bomgar using the contact information included at the end of this statement.
 
-Bomgar has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at info@bomgar.com or you can reach us by telephone at 1-601-519-0123. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site: www.bomgar.com, and does not cover information that may be collected through software downloaded from the site.
+Bomgar has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at info@bomgar.com or you can reach us by telephone at 1-601-519-0123. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through this Web site: www.bomgar.com, and does not cover information that may be collected behind the login on our website or through software downloaded from the site.
 
 Bomgar complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union member countries and Switzerland. Bomgar has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Bomgar's certification, please visit <http://www.export.gov/safeharbor>.
 
@@ -26,13 +31,13 @@ If your personal information changes, or if you no longer desire our service, yo
 
 We will retain your information for as long as your account is active or as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-What are cookies and how do we use them?
+Cookies and Other Tracking Technologies
 
-From time to time, the Bomgar Network may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off of your computer hard disk or read cookie files created by other Web sites. We use cookies to identify which areas of the Bomgar Network you have visited or customized, so the next time you visit us, those pages may be readily accessible. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other web sites may be diminished and some features may not work as intended.
+Technologies such as: cookies, beacons, tags and scripts are used by Bomgar and our partners [specify type e.g. marketing partners], affiliates, or analytics or service providers  [specify type e.g. online customer support provider, etc]. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-What are web beacons and how do we use them?
+As is true of most web sites, we gather certain information automatically and store it in log files.  This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do link this automatically collected data to other information we collect about you.
 
-Some parts of the Bomgar Network may use Web beacons alone or in conjunction with cookies to compile information about your website usage and your interaction with email. A Web beacon is an electronic image, called a single-pixel (1x1) or clear GIF. Web beacons can recognize certain types of information on your computer such as cookies, the time and date of a page viewed, and a description of the page where the Web beacon is placed. You may be able to disable Web beacons in email messages by not downloading images contained in the message you receive (this feature varies depending on the email software used on your personal computer). However, doing this may not always disable a Web beacon or other automatic data collection tools in the email message due to specific email software capabilities. If you choose to receive marketing emails or newsletters from Bomgar may automatically collect personal information about you. For example, through Web beacons and personalized URLs embedded in these emails or newsletters, Bomgar can track whether you've opened those messages and whether you've clicked on links contained within those messages. For more information on embedded Web links, see below.
+We use Local Storage Objects (LSOs) such as HTML5 or Flash to store [content information and preferences.] Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>[ ](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
 
 What are embedded web links and how do we use them?
 
@@ -40,7 +45,7 @@ Some emails from Bomgar may use links designed to lead you to a relevant area on
 
 Behavioral Targeting/ Re-Targeting
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences.truste.com/).  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)).  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
 
 (Google AdSense/Adwords) We use Google AdSense to publish ads on this site.  When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites.   You may opt-out of the use of this cookie by visiting Google’s Advertising and Privacy page: <http://www.google.com/privacy_ads.html>.
 
@@ -49,7 +54,7 @@ Will we disclose the information we collect to outside third parties?
 Bomgar will not sell, rent or lease your personal information to others except as described in this Privacy Policy. Bomgar shares personal information in the following ways:
 
 (1) Bomgar retains service providers and suppliers to deliver complete products, services and customer solutions and to assist Bomgar with marketing and communication initiatives. These providers and suppliers include, for example, credit card processors, providers of customer support and live-help, email service providers, automated data processors, and shipping agents. Suppliers and service providers are required to keep confidential the information received on behalf of Bomgar and may not use it for any purpose other than to carry out the services they are performing for Bomgar.  
-(2) Except as described in this Privacy Policy, Bomgar will not share the personal information you provide to Bomgar with non-Bomgar third parties without your permission, unless to: (i) comply with any applicable law, regulation, subpoena, or court order, (ii) respond to authorized information requests of police and governmental authorities; (iii) protect the personal safety of Bomgar employees and third parties on Bomgar property; (iv) help prevent fraud or to enforce or protect the rights and properties of Bomgar; or as a part of a sale, merger or other reorganization of the Company; (v) or to any other third party without your prior consent to do so.
+(2) Except as described in this Privacy Policy, Bomgar will not share the personal information you provide to Bomgar with non-Bomgar third parties without your permission, unless to: (i) comply with any applicable law, regulation, subpoena, or court order, (ii) respond to authorized information requests of police and governmental authorities; (iii) protect the personal safety of Bomgar employees and third parties on Bomgar property; (iv) help prevent fraud or to enforce or protect the rights and properties of Bomgar; or as a part of a sale, merger or other reorganization of the Company, in which case you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information; (v) or to any other third party without your prior consent to do so.
 
 How do I select privacy preferences?
 
@@ -63,7 +68,7 @@ Please note that when you opt out of receiving certain communications, it may af
 
 How do we keep your personal information secure?
 
-To prevent unauthorized access or disclosure, to maintain data accuracy, and to ensure the appropriate use of the information, Bomgar utilizes appropriate physical, technical and administrative procedures to safeguard the information we collect. Bomgar uses Secure Sockets Layer (SSL) encryption when collecting or transferring sensitive information such as credit card information. Credit card numbers are used only for processing payments and are not used for other purposes.
+To prevent unauthorized access or disclosure, to maintain data accuracy, and to ensure the appropriate use of the information, Bomgar utilizes appropriate physical, technical and administrative procedures to safeguard the information we collect. Bomgar uses Secure Sockets Layer (SSL) encryption when collecting or transferring sensitive information such as credit card information. Credit card numbers are used only for processing payments and are not used for other purposes. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at info@bomgar.com.
 
 Bomgar Community
 
@@ -76,6 +81,10 @@ We would also encourage you to review your Privacy Settings.
 Tell-A-Friend
 
 If you choose to use our referral service to tell a friend [email a friend, refer a friend, send to a friend, email a page, invite a friend] about our site, we will ask you for your friend's name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site.  Bomgar stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [info@bomgar.com](mailto:info@bomgar.com) to request that we remove this information from our database.
+
+Blog
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [info@bomgar.com](mailto:info@bomgar.com).  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 Surveys or Contests
 
@@ -97,12 +106,11 @@ We may update this privacy statement to reflect changes to our information pract
 
 Contact Us
 
-If you would like to review and update your personal information, or have any questions about our Privacy Policy and/or site, please contact us via the information below. We will respond to your request to access within 30 days.
+If you have any questions about our Privacy Policy and/or site, please contact us via the information below. We will respond to your request to access within 30 days.
 
 Our postal address is  
 578 Highland Colony Parkway  
 Paragon Center, Suite 300  
 Ridgeland, Mississippi 39157
 
-We can be reached via e-mail at [info@bomgar.com](mailto:info@bomgar.com)  
-or you can reach us by telephone at 1-601-519-0123.
+We can be reached via e-mail at [info@bomgar.com](mailto:info@bomgar.com) or you can reach us by telephone at 1-601-519-0123.
