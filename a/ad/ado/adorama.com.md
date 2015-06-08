@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the adorama.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126164201id_/http%3A//www.adorama.com/catalog.tpl%3Fop%3Dprivacy_policy_popup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adorama.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609001347id_/http%3A//www.adorama.com/catalog.tpl%3Fop%3Dprivacy_policy_popup) for the most accurate reproduction.*
 
 # 
 
 Adorama’s pledge to you:
 
-Adorama respects your privacy. To better protect your privacy we provide this privacy policy explaining our online information practices and the choices you can make about the way your information is collected and used. This privacy policy applies to the Adorama web site, located at www.adorama.com.
+Adorama respects your privacy. To better protect your privacy we provide this privacy policy explaining our online information practices and the choices you can make about the way your information is collected and used. This privacy policy applies to the Adorama web site, located at [www.adorama.com](https://web.archive.org/).
 
 **Adorama will:**
 
