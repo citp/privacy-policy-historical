@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the techgleam.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120065503id_/http%3A//www.techgleam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techgleam.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041435id_/http%3A//www.techgleam.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Techgleam
 
 Privacy Policy for www.techgleam.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at techgleam14@gmail.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at techgleam2014@gmail.com.
 
 At www.techgleam.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.techgleam.com and how it is used.
 
