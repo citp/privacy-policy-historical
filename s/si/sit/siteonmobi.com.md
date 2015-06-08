@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the siteonmobi.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626160448id_/http%3A//www.siteonmobi.com/privacy-policy-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteonmobi.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608033302id_/http%3A//siteonmobi.com/privacy-policy-page) for the most accurate reproduction.*
 
 # Privacy-Policy - SiteOnMobi.com
 
-## **Privacy Policy**
+## SiteOnMobi Privacy Policy
+
+Our privacy policy is an integrated part of our Terms of Use - <http://siteonmobi.com/termsofuse>
+
+  
+**Amendments to the SiteOnMobi.com Terms of Use and End User Agreement**
 
 **SiteOnMobi** (we, us and/or our) [siteonmobi.com]
 
@@ -43,5 +48,9 @@ Cookies: Small pieces of information, stored in simple text files, placed on you
 
 
 
+This Privacy Policy is an integrated part of our Terms of Use, Policies and Rules. 
+
+Also our terms of use apply: <http://siteonmobi.com/termsofuse>
+
   
-Thank you for visiting our website.
+**Our terms of use, policies and rules are subject to change without notice.**
