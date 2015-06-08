@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teletoon.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120160144id_/http%3A//www.teletoon.com/en/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teletoon.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608095040id_/http%3A//www.teletoon.com/en/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | teletoon.com
 
@@ -54,8 +54,6 @@ Our Websites may offer you the opportunity to become a member or belong to a clu
 (b) Contests 
 
 When you enter a contest, you may be required to provide the following Personal Information: your name and province of residence, e-mail address, telephone number1 and your age range. This Personal Information is collected solely for the purposes of identifying and communicating with contest prizewinners and ensuring delivery of the prizes to the prizewinners. Personal Information from non-winners is destroyed, in accordance with applicable legal requirements. When an affidavit of eligibility and release is sent to the prizewinner or to his or her parent or legal guardian, it must be signed and returned before the prize can be awarded. If the release is not returned within the specified time period, the winner forfeits the prize and an alternative winner may be chosen.
-
-1\. In case of children, subject to the conditions set out in Section 3 of this Privacy Policy.
 
 (c) Subscriptions to newsletters and company updates 
 
