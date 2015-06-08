@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opptrends.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121012327id_/http%3A//www.opptrends.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opptrends.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041423id_/http%3A//www.opptrends.com/privacy-policy) for the most accurate reproduction.*
 
-# Opptrends.com Privacy Policy
+# Privacy Policy - Opptrends
 
 At opportunity trends this site opptrends.com, we respect your privacy and we will never sell, rent, or otherwise share your email address or any personal information to any third party. Disclosure of personal information from this site can only occur under one condition, and that is when required by law.
 
@@ -8,7 +8,7 @@ This privacy policy is made to give you comfort knowing your information is safe
 
 The basic information we collect while operating this site may include visitors’ comments, newsletters, and other forms that may ask users for their emails, names, and any other contact information.
 
-This basic information will used used solely to contact you if and when needed and we may use your comments “anonymously” to provide meaningful content to others or to share ideas that we may deem beneficial to other users of this site.
+This basic information maybe used solely to contact you if and when needed and we may use your comments “anonymously” to provide meaningful content to others or to share ideas that we may deem beneficial to other users of this site.
 
 We may use cookies in order to deliver content of specific interest to you or for other purposes and promoters and advertisers on this site may use cookies however, we have no control or access to the information collected by third party advertisers.
 
