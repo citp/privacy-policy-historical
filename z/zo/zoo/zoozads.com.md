@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoozads.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062229id_/http%3A//www.zoozads.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoozads.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608035041id_/http%3A//zoozads.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
 # 
 
@@ -21,8 +21,8 @@ We are committed to conducting our business in accordance with these principles 
 
 ### Contact Us
 
-Need assistance? Have a question that is not answered in our [help](http://zoozads.com/index.php?a=28&b=141) sections? You can contact support by visiting our [contact us](http://zoozads.com/index.php?a=28&b=136) page.
+Need assistance? Have a question that isn't answered in our [help](http://www.zoozads.com/index.php?a=28&b=141) sections? You can contact support by visiting our [contact us](http://www.zoozads.com/index.php?a=28&b=136) page.
 
-#### Copyright © 2014 Zoozads.com. All Rights Reserved.
+#### Copyright © 2015 YOUR COMPANY NAME. All Rights Reserved.
 
-Use of this Web site constitutes acceptance of the [User Agreement](http://zoozads.com/index.php?a=28&b=140) and [Privacy Policy](http://zoozads.com/index.php?a=28&b=145). Designated trademarks and brands are the property of their respective owners.
+Use of this Web site constitutes acceptance of the [User Agreement](http://www.zoozads.com/index.php?a=28&b=140) and [Privacy Policy](http://www.zoozads.com/index.php?a=28&b=145). Designated trademarks and brands are the property of their respective owners.
