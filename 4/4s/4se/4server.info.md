@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4server.info privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131420id_/http%3A//4server.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4server.info privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608024037id_/http%3A//4server.info/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | 4server.info
 
@@ -34,5 +34,5 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-[ ](http://www.4server.info/advertise/)[ ](http://www.4server.info/advertise/)[](http://goo.gl/9a1tH)   
+  
 
