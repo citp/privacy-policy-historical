@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softaculous.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120133010id_/http%3A//www.softaculous.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softaculous.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041124id_/http%3A//www.softaculous.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,5 +55,5 @@ Blogs
 
 [Softaculous News](http://www.softaculous.com/board/?fid=1) [Scripts News](http://www.softaculous.com/news) [Softaculous Blog](http://www.softaculous.com/blog) [AMPPS Blog](http://www.ampps.com/blog) [Webuzo Blog](http://www.webuzo.com/blog) [Virtualizor Blog](http://www.virtualizor.com/blog) [Virtualizor News](http://www.virtualizor.com/forums/index.php?board=1.0)  
 ---|---|---|---|---|---  
-© 2014 [Softaculous Ltd.](http://www.softaculous.com/)    All trademarks and logos are the property of their respective owners!   
+© 2015 [Softaculous Ltd.](http://www.softaculous.com/)    All trademarks and logos are the property of their respective owners!   
  
