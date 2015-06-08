@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcgroups.net privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209045805id_/http%3A//www.rcgroups.com/forums/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcgroups.net privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608121405id_/http%3A//www.rcgroups.com/forums/privacypolicy.php) for the most accurate reproduction.*
 
 # RCGroups.com Privacy Policy
 
@@ -46,7 +46,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 ### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.rcgroups.com/forums/termsofservice.php>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www..com/forums/termsofservice.php](http://www.rcgroups.com/forums/termsofservice.php)
 
 ### Your Consent
 
