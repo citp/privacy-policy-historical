@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zeald.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627152024id_/http%3A//www.zeald.com/About%2BUs/Legal/Privacy%2BPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeald.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608091652id_/http%3A//www.zeald.com/About/Legal/Privacy%2BPolicy.html) for the most accurate reproduction.*
 
 # Zeald Privacy Policy
 
-**Last Updated:  30 January 2012**
+**Last Updated:  27 June 2014**
 
 This Privacy Policy discloses the privacy practices of Zeald New Zealand Limited and its related companies (“Zeald”).  Our Privacy Policy explains:
 
@@ -14,15 +14,15 @@ This Privacy Policy discloses the privacy practices of Zeald New Zealand Limited
 
 
 
-##  1\.  Information Zeald collects
+## 1\.  Information we collect
 
-We collect the following information about you:
+We may collect the following information about you:
 
-  * **Information you give us:**  We collect personal information about you when you register for events, subscribe to our newsletters or mailing lists, enter Zeald promotions or surveys or join our supporters club.   We also collect personal information about you when you purchase our products and services and otherwise communicate with us.   This personal information may include your name, contact details, email address, credit card details, place of work, position and other details necessary for us to provide the information or services you have requested.  
+  * **Information you give us:**  We may collect personal information about you when you register for events, subscribe to our newsletters or mailing lists, enter Zeald promotions or surveys or join our supporters club.   We may also collect personal information about you when you purchase our products and services and otherwise communicate with us.   This personal information may include your name, contact details, email address, credit card details, place of work, position and other details necessary for us to provide the information or services you have requested.  
 
   * **Information you authorise others to give us:**  When you inquire about or purchase products and services from us, we may ask for your consent to collect information about you from others (for example, to undertake credit checks, obtain references or to co-operate with your other service providers or suppliers).  In these instances, we may collect information about you from the sources that you have authorised, such as credit rating agencies, service providers and referees.
 
-  * **Information from your use of our services:**  We record information about how you use and interact with our services, for example how, when, where and how often you use our products and services, login information and the internet protocol address of the device you use to access our services.   We also maintain records of your communications with our customer support team and other staff, including phone calls and e-mails.  
+  * **Information from your use of our services:**  We may record information about how you use and interact with our services, for example how, when, where and how often you use our products and services, login information and the internet protocol address of the device you use to access our services.   We may also maintain records of your communications with our customer support team and other staff, including phone calls and e-mails.  
 
   * **Information from your use of our website:**  We receive information when you interact with and use our website.  We use server logs and different Web analytic tools to help us record this information (including ‘cookies’, ‘pixel tags’ and other anonymous identifiers).  These tools may gather information such as what browser and operating system you use, the URL of the site from which you came and the site to which you are going when you leave our website, search terms, your location and what content, products and services are viewed when visiting or registering for services on our website.
 
@@ -34,9 +34,9 @@ We also use third party service providers (for example, Google) to help us track
 Our website may also contain links and advertisements which link to third party websites.  We have no control over the privacy policies of such third parties and we encourage you to review such policies prior to providing any information to or purchasing goods or services from such third parties.  
  
 
-##  2\. How Zeald uses information collected
+## 2\. How we use information collected
 
-We use the personal information collected by us for the following purposes:
+We may use the personal information collected by us for the following purposes:
 
   * providing you with information, products or services that you have requested;
 
@@ -86,7 +86,7 @@ We keep your personal information only as long as we need it for the purposes fo
 We store and process information (both personal and non-personally identifiable information) on servers in several different countries around the world, including New Zealand, Australia, the United States and the United Kingdom.  We may therefore hold or process your personal information on a server located outside the country where you live.  Information held in another country may be subject to the privacy laws of that country and may permit government and other regulatory authorities to access to such information in certain circumstances.  
  
 
-##  3\. Information Zeald shares
+## 3\. Information Zeald shares
 
 Ensuring and respecting your privacy is important to us.  We do not sell, trade, rent or otherwise share your personal information with third parties unless one of the following circumstances apply:
 
@@ -94,7 +94,7 @@ Ensuring and respecting your privacy is important to us.  We do not sell, trade
 
   * **With your employer:  **If your employer is our customer and your interactions with us or use of our services is in the course of your employment, your employer will have access to the information you have provided to us (including records of communications, login information and other data).
 
-  * **With our contractors and service providers:** We sometimes engage other trusted businesses and persons to provide services and perform functions on our behalf (for example, our e-business consultants, content specialists and credit card providers).  We may provide such persons with access to personal information needed to perform their functions, based on our instructions and in accordance with appropriate security and confidentiality measures.
+  * **With our contractors and service providers:** We sometimes engage other trusted businesses and persons to provide services and perform functions on our behalf (for example, our e-business consultants, content specialists and credit card providers).  We may provide such persons with access to personal information needed to perform their functions, based on our instructions and in accordance with appropriate security, privacy and confidentiality measures.
 
   * **Jointly provided services:  **In some cases we may provide services jointly with other businesses or organisations.  For such ‘co-branded’ offerings in which a third party is involved, we may share or jointly collect customer information with that third party.  In such cases we will make it clear at the outset who is collecting or receiving the information and whose privacy statement governs its use.
 
@@ -109,7 +109,7 @@ Occasionally we may send information or offers to you on behalf of other organis
 
 We may share aggregated, non-personally identifiable information publicly and with our contractors, service providers and other third parties such as marketing, search and research organisations, for example, Google.
 
-##  4\. Your information choices
+## 4\. Your information choices
 
 When you provide personal information, we may offer you a choice as to whether you would like to receive further communications from us or from our partners, such as communications related to updates, upgrades and special offers.  You have the right to withdraw your consent to receive such communications at any time. If you decide you no longer want to receive marketing communications or third-party promotions administered by us, you may let us know by emailing us at unsubscribe@zeald.com or by following any unsubscribe link in our emails.  Please specify which consent you are revoking in your email to us.  
 
@@ -125,7 +125,7 @@ If you would like to know more about the use of anonymous browsing information t
 
 
 
-##  5\. Accessing and correcting Personal Information
+## 5\. Accessing and correcting Personal Information
 
 You have a right to access, and ask us to correct or delete any inaccurate personal information we may hold about you.  If you would like to review or correct your personal information, please contact us using the details at the bottom of this Privacy Policy:
 
@@ -134,7 +134,7 @@ If you contact us we may, for your protection, ask you for additional informatio
 Please be aware that even after your request for a change or deletion of information is processed, we may keep a copy of the information that you originally provided to us in our archives for uses documented in this Privacy Policy and may for a time, retain residual information about you in backup and/or archival copies of our databases.  
  
 
-##  6\. Changes
+## 6\. Changes
 
 We may occasionally change our Privacy Policy.   These changes may reflect, among other things, changes in applicable laws or regulations, changes to our data collection practices, and/or changes to our business or services
 
@@ -143,7 +143,7 @@ We will post any updated policy on this page and if the changes are significant,
 Using our services or website after a notice of the changes has been published on our website shall constitute your consent to the changed terms or practices.  We therefore encourage you to review our Privacy Policy periodically for any changes.   
  
 
-##  7\. How to contact us
+## 7\. How to contact us
 
 Zeald welcomes your feedback about our Privacy Policy.  Please send your questions, concerns or comments regarding our Privacy Policy and your requests for access to your personal information:
 
