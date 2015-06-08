@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sarkarinaukriupdates.com privacy policy that was archived on 2014-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140808154439id_/http%3A//www.sarkarinaukriupdates.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarkarinaukriupdates.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608071527id_/http%3A//www.sarkarinaukriupdates.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Sarkari Naukri
+# Privacy Policy
 
 **Privacy Policy for[sarkari naukri updates](http://www.sarkarinaukriupdates.com/)**
 
