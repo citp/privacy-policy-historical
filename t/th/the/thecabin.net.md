@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecabin.net privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018204749id_/http%3A//thecabin.net/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecabin.net privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608172838id_/http%3A//thecabin.net/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TheCabin.net - Conway, Arkansas
 
