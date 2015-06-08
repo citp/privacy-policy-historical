@@ -1,18 +1,15 @@
-<!--The following is the downloaded HTML source of the scuba.com privacy policy that was archived on 2014-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141205125050id_/http%3A//www.scuba.com/resources/security_and_privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scuba.com privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608020049id_/http%3A//www.scuba.com/resources/security_and_privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     
     <title>scuba.com Security and Privacy</title>
     <meta name="viewport" content="initial-scale=1.0, width=device-width">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-4.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"c33f5c5efd","applicationID":"1895758","transactionName":"YgEEZ0EFX0sAV0ReXFtLJ2BjS0NdEltFRVBQF0lAVgdESghASWhSWwA5Q0ENR1kCTR5WQEUc","queueTime":0,"applicationTime":21,"ttGuid":"4B16333456F9BD8D","agent":"js-agent.newrelic.com/nr-476.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwEGUlRTGwIIXVRVAgk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"c33f5c5efd","applicationID":"1895758","transactionName":"YgEEZ0EFX0sAV0ReXFtLJ2BjS0NdEltFRVBQF0lAVgdESghASWhSWwA5Q0ENR1kCTR5WQEUc","queueTime":0,"applicationTime":22,"ttGuid":"4E237A5C0CC95A3E","agent":"js-agent.newrelic.com/nr-632.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwEGUlRTGwIIXVRVAgk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
 </head>
-<body>
-    <link href="/bundles/css/InsideCss?v=zS05t7GbTJO6jsgVt4WwTDk7JPqVuLVBneLEWu9Crjs1" rel="stylesheet">
+<body><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
+    <link href="/bundles/css/InsideCss?v=T9QYEKdM6h3F5FgIGFjpPcVm6CC3k0yoRN4R-s4-EOg1" rel="stylesheet">
 
-            <link href="http://www.scuba.com/_homepage2012/sitetheme/christmas.css" rel="stylesheet" type="text/css">
-
-        
 
         <script type="text/javascript" src="http://www.scuba.com/_homepage2012/bootstrap/js/jquery.min.js"></script>
     
@@ -27,10 +24,11 @@
             });
         }
         function LoadDependencies() {
-            $.reject({ reject: { msie: 7, firefox: 3.6, unknown: true }, closeCookie: true, header: "<center><img src='/_homepage2012/images/scuba-logo-header-small.png' width='200px'></center><br>We are very sorry. It appears your browser is out of date.", paragraph1: "", paragraph2: "We want to make sure you have the best experience possible at Scuba.com.<br>Please click on an icon below to download the latest version of one of these popular browsers and you will be on your way.<br><br>If you have any questions or concerns please don't hesitate to call us at: 1.800.34.SCUBA<br>", closeMessage: "", display: ["chrome", "firefox", "msie"] });
+            $.reject({ reject: { msie: 7, firefox: 3.6 }, closeCookie: true, header: "<center><img src='/_homepage2012/images/scuba-logo-header-small.png' width='200px'></center><br>We are very sorry. It appears your browser is out of date.", paragraph1: "", paragraph2: "We want to make sure you have the best experience possible at Scuba.com.<br>Please click on an icon below to download the latest version of one of these popular browsers and you will be on your way.<br><br>If you have any questions or concerns please don't hesitate to call us at: 1.800.34.SCUBA<br>", closeMessage: "", display: ["chrome", "firefox", "msie"] });
 
             $(document).ready(function () {
-                $.each(window.deferredSingleLoader, function (ind, val) { val(); });  
+                $.each(window.deferredSingleLoader, function (ind, val) { val(); });
+                $(".rslides2").responsiveSlides({ auto: true, speed: 500, timeout: 4000, pager: false, nav: false, random: true, pause: false, pauseControls: true, prevText: "", nextText: "", maxwidth: "", navContainer: "", manualControls: "", namespace: "rslides2", before: function () { }, after: function () { } });
             });
             $(document).bind("click", function () {$.sidr('close', 'respNav');});
             $('.btn-navbar').sidr({
@@ -64,14 +62,16 @@
                 deferRequestBy: 220, //miliseconds
                 noCache: false //set to true, to disable caching
             });
+
+            
         }
         </script>
     
-    <style type="text/css"> @media (min-width:767px) { body { background: #ffffff url('http://www.scuba.com/_homepage2012/images/christmas-theme-background.jpg') !important; background-position: top !important; background-repeat: no-repeat !important; background-attachment: fixed !important; margin: 0 !important; } } </style>
+    <style type="text/css"> @media (min-width:1200px) { body { background: #1b7dc6 url('http://www.scuba.com/_homepage2012/images/default-theme-background.jpg') !important; background-position: top !important; background-repeat: no-repeat !important; background-attachment: fixed !important; margin: 0 !important; } }/*BeginSlider*/.rslides2 { position: relative; list-style: none; overflow: hidden; width: 100%; padding: 0; margin: 0; }  .rslides2 li { -webkit-backface-visibility: hidden; position: absolute; display: none; width: 100%; left: 0; top: 0; }  .rslides2 li:first-child { position: relative; display: block; float: left; }  .rslides2 img { display: block; height: auto; float: left; width: 100%; border: 0; } .rslides2_nav {display:none; } </style>
 
     
         <script>
-            $.getScript('/bundles/js/MinWebsiteJs?v=jk_s04Ts341xY7Y-w4_NoR3kJ-HRoHmmi7kUjmual8k1', LoadDependencies);
+            $.getScript('/bundles/js/MinWebsiteJs?v=3qSpxGCFHFmhuurwNxFPJWaD0sKh-XSdKb-v4vcxAxc1', LoadDependencies);
             if (window.NeedsSlider == true) {
                 $.getScript('/bundles/MasterImageSlider/Js?v=NVfw85GiXcpFvDB70ubKCmMyHPQ-dCYKdRyVEGCPZDo1', LoadSlider);
             }
@@ -79,8 +79,7 @@
     
     <script type="text/javascript">
 
-        $(document).ready(function () {
-            $.get("/scubachat/als-2014.aspx", function (data) { $("#LiveChatStatus").html(data); });
+        $(document).ready(function () {         
             $("#shopbycateg,#mobile-shopcat").on('click', function (e) {
                 $.sidr('open', 'respNav');
                 $("#sidr-id-shopcat").next("ul").show();
@@ -126,12 +125,12 @@
 <!-- Static navbar -->
 
 <div class="visible-xs">
-    <div class="container" style="background-color: #eee;">
+    <div class="container" style="background-color: #357ebd">
         <div class="row" style="margin-bottom: 5px; margin-top: 5px;">
             <div class="col-xs-8 col-xs-offset-2">
 
                 <a href="http://www.scuba.com">
-                    <img src="http://www.scuba.com/_homepage2012/images/christmas-scuba-logo-header-small.png" class="img-responsive"></a>
+                    <img src="http://www.scuba.com/_homepage2012/images/scuba-logo-header-small.png" class="img-responsive"></a>
 
 
                 
@@ -170,10 +169,10 @@
         <div class="row">
             <div class="col-sm-4 hidden-xs">
                 <center><a href="http://www.scuba.com/">
-                <img id="uctopbarinclude1_imgLogo" class="resizethemelogo" src="http://www.scuba.com/_homepage2012/images/inside/christmas-scuba-logo-header-inside.png" border="0">
+                <img id="uctopbarinclude1_imgLogo" class="resizethemelogo" src="http://www.scuba.com/_homepage2012/images/inside/scuba-logo-header-inside.png" border="0">
             </a></center>
             </div>
-            <div class="col-md-5 col-sm-4 ">
+            <div class="col-md-5 col-sm-4" style="min-height:0px;">
                 <div class="row">
                     <div class="col-sm-12 nontabletpadding hidden-xs">&nbsp;</div>
                 </div>
@@ -209,7 +208,7 @@
                
 
                 <div class="btn-group">
-                    <div class="icons-down-arrow-header" style="background-image:url(http://www.scuba.com/_homepage2012/images/christmas-hm.png);position:absolute;margin-left:20px;margin-top:54px;z-index:999;"></div>
+                    <div class="icons-down-arrow-header" style="background-image:url(http://www.scuba.com/_homepage2012/images/hm.png);position:absolute;margin-left:20px;margin-top:54px;z-index:999;"></div>
                     <button type="button" onclick="location.href='http://www.scuba.com/shop/customerlogin.aspx'" class="btn btn-noformat dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
                         Hi, (<strong>Sign in</strong>)
                         
@@ -235,9 +234,9 @@
                         
                     </ul>
                 </div>
-                <div class="btn-group hidden-xs">
-                    <div class="icons-down-arrow-header" style="background-image:url(http://www.scuba.com/_homepage2012/images/christmas-hm.png);position:absolute;margin-left:5px;margin-top:56px;z-index:999;"></div>
-                    <button type="button" onclick="location.href='https://www.scuba.com/shop/order.aspx'" class="btn btn-noformat cartbtn dropdown-toggle" style="background-image:url(http://www.scuba.com/_homepage2012/images/inside/christmas-mini-cart.png);" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
+                <div class="btn-group hidden-xs" style="margin-right: 8px; margin-top: 8px;">
+                    <div class="icons-down-arrow-header" style="background-image:url(http://www.scuba.com/_homepage2012/images/hm.png);position:absolute;margin-left:5px;margin-top:49px;z-index:999;"></div>
+                    <button type="button" onclick="location.href='https://www.scuba.com/shop/order.aspx'" class="btn btn-noformat cartbtn dropdown-toggle" style="background-image:url(http://www.scuba.com/_homepage2012/images/inside/mini-cart.png);" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
 
                         0
 
@@ -264,8 +263,7 @@
                 </div>
 
                 <div class="btn-group hidden-xs" style="padding-top:10px;">
-                    <div id="LiveChatStatus"></div>
-                    <!-- <script type="text/javascript" src="https://www.scuba.com/scubachat/als-2014.aspx"></script> -->
+                    <div id="LiveChatStatus"><a href="javascript:void(0);" onclick="olark('api.box.expand')"><img id="LiveChatIcon" src="https://www.scuba.com/scubachat/files/livechat-offline.png"></a></div>
                 </div>
             </div>
         </div>
@@ -482,11 +480,11 @@
                                         <a href="#" data-link="/scuba-gear/Computers.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">Computers</a>
                                         <ul class="dropdown-menu" role="menu">
                                 
-                                    <li class="sidemenu-subsubcat gotolink"><a class="subcatLink" href="http://www.scuba.com/scuba-gear-18/Computers-Computers---Metric.html">Computers - Metric</a></li>
-                                
                                     <li class="sidemenu-subsubcat gotolink"><a class="subcatLink" href="http://www.scuba.com/scuba-gear-16/Computers-Computers---Consoles.html">Computers - Consoles</a></li>
                                 
                                     <li class="sidemenu-subsubcat gotolink"><a class="subcatLink" href="http://www.scuba.com/scuba-gear-17/Computers-Computers---Wrist--Hose-Mount---Modules.html">Computers - Wrist, Hose Mount &amp; Modules</a></li>
+                                
+                                    <li class="sidemenu-subsubcat gotolink"><a class="subcatLink" href="http://www.scuba.com/scuba-gear-18/Computers-Computers---Metric.html">Computers - Metric</a></li>
                                 
                                     <li class="sidemenu-subsubcat gotolink"><a class="subcatLink" href="http://www.scuba.com/scuba-gear-67/Computers-Gauge-Accessories.html">Gauge Accessories</a></li>
                                 
@@ -732,11 +730,11 @@
                                         <a href="#" data-link="/scuba-gear/Lights.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">Lights</a>
                                         <ul class="dropdown-menu" role="menu">
                                 
+                                    <li class="sidemenu-subsubcat gotolink"><a class="subcatLink" href="http://www.scuba.com/scuba-gear-31/Lights-Small-Lights-AA---AAA-Batteries.html">Small Dive Lights (AA &amp; AAA Batteries)</a></li>
+                                
                                     <li class="sidemenu-subsubcat gotolink"><a class="subcatLink" href="http://www.scuba.com/scuba-gear-55/Lights-Medium---Large-Lights-C---D-Batteries.html">Medium &amp; Large Dive Lights (C &amp; D Batteries)</a></li>
                                 
                                     <li class="sidemenu-subsubcat gotolink"><a class="subcatLink" href="http://www.scuba.com/scuba-gear-56/Lights-Rechargeable-Lights-.html">Rechargeable Dive Lights</a></li>
-                                
-                                    <li class="sidemenu-subsubcat gotolink"><a class="subcatLink" href="http://www.scuba.com/scuba-gear-31/Lights-Small-Lights-AA---AAA-Batteries.html">Small Dive Lights (AA &amp; AAA Batteries)</a></li>
                                 
                                     </ul>
                 </li>
@@ -952,11 +950,29 @@
                                         <a href="#" data-link="/scuba-gear/TEK-Gear.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">TEK Gear</a>
                                         <ul class="dropdown-menu" role="menu">
                                 
+                                    <li class="sidemenu-subsubcat gotolink"><a class="subcatLink" href="http://www.scuba.com/scuba-gear-80/TEK-Gear-Bags.html">Bags</a></li>
+                                
+                                    <li class="sidemenu-subsubcat gotolink"><a class="subcatLink" href="http://www.scuba.com/scuba-gear-81/TEK-Gear-Knives.html">Knives</a></li>
+                                
+                                    <li class="sidemenu-subsubcat gotolink"><a class="subcatLink" href="http://www.scuba.com/scuba-gear-84/TEK-Gear-Communication.html">Communication</a></li>
+                                
+                                    <li class="sidemenu-subsubcat gotolink"><a class="subcatLink" href="http://www.scuba.com/scuba-gear-86/TEK-Gear-Fins.html">Fins</a></li>
+                                
+                                    <li class="sidemenu-subsubcat gotolink"><a class="subcatLink" href="http://www.scuba.com/scuba-gear-87/TEK-Gear-Lights.html">Lights</a></li>
+                                
+                                    <li class="sidemenu-subsubcat gotolink"><a class="subcatLink" href="http://www.scuba.com/scuba-gear-88/TEK-Gear-Masks.html">Masks</a></li>
+                                
+                                    <li class="sidemenu-subsubcat gotolink"><a class="subcatLink" href="http://www.scuba.com/scuba-gear-66/TEK-Gear-Regulators.html">Regulators</a></li>
+                                
+                                    <li class="sidemenu-subsubcat gotolink"><a class="subcatLink" href="http://www.scuba.com/scuba-gear-69/TEK-Gear-Drysuits.html">Drysuits</a></li>
+                                
                                     <li class="sidemenu-subsubcat gotolink"><a class="subcatLink" href="http://www.scuba.com/scuba-gear-157/TEK-Gear-Rebreathers.html">Rebreathers</a></li>
                                 
                                     <li class="sidemenu-subsubcat gotolink"><a class="subcatLink" href="http://www.scuba.com/scuba-gear-89/TEK-Gear-Tanks-with-Manifolds.html">Twin Tanks and Manifolds</a></li>
                                 
                                     <li class="sidemenu-subsubcat gotolink"><a class="subcatLink" href="http://www.scuba.com/scuba-gear-100/TEK-Gear-Tek-BC.html">Tek BC</a></li>
+                                
+                                    <li class="sidemenu-subsubcat gotolink"><a class="subcatLink" href="http://www.scuba.com/scuba-gear-83/TEK-Gear-Computers.html">Computers</a></li>
                                 
                                     <li class="sidemenu-subsubcat gotolink"><a class="subcatLink" href="http://www.scuba.com/scuba-gear-79/TEK-Gear-Everything-Else.html">Everything Else</a></li>
                                 
@@ -1019,12 +1035,12 @@
                 </li>
                 <li class="dropdown hide-slide-menu">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">Packages&nbsp;<span class="caret"></span></a>
-                    <ul class="dropdown-menu" role="menu">
-                        <li><a href="http://www.scuba.com/shop/packages.aspx_Package_PGP">Personal Gear Packages</a></li>
-                        <li><a href="http://www.scuba.com/shop/divesystems.aspx">Diving Systems</a></li>
+                  <ul class="dropdown-menu" role="menu">
+                        <li><a href="http://www.scuba.com/scuba-gear-packages/Personal-Gear.html">Personal Gear Packages</a></li>
+                        <li><a href="http://www.scuba.com/scuba-gear-packages/Diving-Systems.html">Diving Systems</a></li>
                         <li><a href="http://www.scuba.com/scuba-gear/Underwater-Camera.html">Camera Packages</a></li>
-                        <li><a href="http://www.scuba.com/shop/packages.aspx_type_Snorkel_Package_Snorkel">Snorkeling Gear Packages</a></li>
-                        <li><a href="http://www.scuba.com/shop/packages.aspx_Package_Wetsuit">Wetsuit Packages</a></li>
+                        <li><a href="http://www.scuba.com/scuba-gear-packages/Snorkel.html">Snorkeling Gear Packages</a></li>
+                        <li><a href="http://www.scuba.com/scuba-gear-packages/Wetsuits.html">Wetsuit Packages</a></li>
                     </ul>
                 </li>
                 <li class="hide-slide-menu"><a href="http://www.scuba.com/shop/UsedCategories.aspx">Specials</a></li>
@@ -1075,9 +1091,17 @@
 
 
 
+
+
+
+<ul class="rslides2 visible-xs">
     
-
-
+    <li><a href="/happycustomers.aspx"><img src="/_homepage2012/images/mobile-150-price-protection.png" alt="" class="img-responsive"></a></li>
+    <li><a href="/ads/shipping.aspx#return"><img src="/_homepage2012/images/mobile-ez-returns.png" alt="" class="img-responsive"></a></li>
+    <li><a href="/flashvideos/instructors.aspx"><img src="/_homepage2012/images/mobile-instructors.png" alt="" class="img-responsive"></a></li>
+    <li id="uctopbarinclude1_plcMobileFreeShipping"><a href="/resources/freeshipping.aspx"><img src="/_homepage2012/images/mobile-free-shipping.png" alt="" class="img-responsive"></a></li>
+    
+</ul>
 
 <!-- SEARCH BAR -->
 <!-- BUTTONS WRAPPER END-->
@@ -1095,23 +1119,14 @@
     
 
 <div id="shopnavtoggle" class="shopnav shopnavbackground">
-<ul class="list-group whyscubacustom hidden-sm">
-    <li class="list-group-item">
-         <a href="http://www.scuba.com/ads/nosalestax.aspx"> <i class="fa fa-ban hidden-md hidden-sm">&nbsp;&nbsp;</i>No Sales Tax</a><br>
-        <div style="border-bottom: 1px dotted #fededd;margin:5px">
-                                                </div>
-        <a href="http://www.scuba.com/happycustomers.aspx"><i class="fa fa-lock hidden-md hidden-sm">&nbsp;&nbsp;</i>150% Price Protection</a><br>
-        <div style="border-bottom: 1px dotted #fededd;margin:5px">
-                                                </div>
-        <a href="http://www.scuba.com/resources/warranty_info.aspx"><i class="fa fa-shield hidden-md hidden-sm">&nbsp;&nbsp;</i>Full Manufacturer's Warranty</a>
-    </li>
-</ul>
 
-
+    
+         
       
-   
-
-
+    <ul class="list-group whyscubacustom hidden-sm text-center">
+        <li class="list-group-item"><a href="http://www.scuba.com/resources/warranty_info.aspx" title="Full Manufacturer's Warranty"><i class="fa fa-star hidden-md hidden-sm">&nbsp;</i>Full Manufacturer's Warranty</a>
+        </li>
+    </ul>
 
 
 
@@ -1218,19 +1233,29 @@
             <a class="list-group-item" href="http://www.scuba.com/manufacturers/quiksilver/" title="Quiksilver Wetsuits">Quiksilver</a>
             <a class="list-group-item" href="http://www.scuba.com/manufacturers/" title="View All Dive Gear Manufacturers">All Manufacturers <span class="fa fa-caret-right" style="color:#666;"></span></a>
         </div>
+
+
+   
+
 <div class="list-group hidden-sm">
     <a href="#" class="list-group-item active shopnav-texture"><span class="hidden-md hidden-sm">Scuba </span>Gear Packages</a>
-    
-            <a class="list-group-item" href="http://www.scuba.com/shop/product.aspx?category=11&amp;categoryname=Personal%2bGear%2bPackages">Personal Gear Packages</a>
+  
+     <a class="list-group-item" href="http://www.scuba.com/scuba-gear-packages/Personal-Gear.html">Personal Gear Packages</a>
         
-            <a class="list-group-item" href="http://www.scuba.com/shop/divesystems.aspx">Diving Systems</a>
+            <a class="list-group-item" href="http://www.scuba.com/scuba-gear-packages/Diving-Systems.html">Diving Systems</a>
         
             <a class="list-group-item" href="http://www.scuba.com/scuba-gear/Underwater-Camera.html">Camera Packages</a>
         
-            <a class="list-group-item" href="http://www.scuba.com/shop/packages.aspx?type=Snorkel&amp;Package=Snorkel">Snorkeling Packages</a>
+            <a class="list-group-item" href="http://www.scuba.com/scuba-gear-packages/Snorkel.html">Snorkeling Packages</a>
         
-            <a class="list-group-item" href="http://www.scuba.com/shop/packages.aspx?Package=Wetsuit">Wetsuit Packages</a>
-        
+            <a class="list-group-item" href="http://www.scuba.com/scuba-gear-packages/Wetsuits.html">Wetsuit Packages</a>
+    
+      
+
+
+
+
+
 </div>
 
     <div class="shopmfg">
@@ -1418,6 +1443,7 @@
                                     </ul>
                                     </div></div></div>
 
+
 <div class="container-fluid footersitemap" style="bottom:0px;">
     <div class="container">
         <div class="row links">
@@ -1497,19 +1523,19 @@
             <li class="choose-text hidden-xs">Choose<br>
                 Currency:</li>
             
-                    <li class="icons-flag-us-selected"><a class="fix" style="background-image:url(http://www.scuba.com/_homepage2012/images/christmas-hm.png);" href="/setcurrency.aspx?setcurrency=USD&amp;ref=%2fresources%2fsecurity_and_privacy.aspx" title="$ United States Dollar USD"></a></li>
+                    <li class="icons-flag-us-selected"><a class="fix" style="background-image:url(http://www.scuba.com/_homepage2012/images/hm.png);" href="/setcurrency.aspx?setcurrency=USD&amp;ref=%2fresources%2fsecurity_and_privacy.aspx" title="$ United States Dollar USD"></a></li>
                 
-                    <li class="icons-flag-can"><a class="" style="background-image:url(http://www.scuba.com/_homepage2012/images/christmas-hm.png);" href="/setcurrency.aspx?setcurrency=CAD&amp;ref=%2fresources%2fsecurity_and_privacy.aspx" title="$ Canadian Dollar CAD"></a></li>
+                    <li class="icons-flag-can"><a class="" style="background-image:url(http://www.scuba.com/_homepage2012/images/hm.png);" href="/setcurrency.aspx?setcurrency=CAD&amp;ref=%2fresources%2fsecurity_and_privacy.aspx" title="$ Canadian Dollar CAD"></a></li>
                 
-                    <li class="icons-flag-euro"><a class="" style="background-image:url(http://www.scuba.com/_homepage2012/images/christmas-hm.png);" href="/setcurrency.aspx?setcurrency=EUR&amp;ref=%2fresources%2fsecurity_and_privacy.aspx" title="$ € Euro EUR"></a></li>
+                    <li class="icons-flag-euro"><a class="" style="background-image:url(http://www.scuba.com/_homepage2012/images/hm.png);" href="/setcurrency.aspx?setcurrency=EUR&amp;ref=%2fresources%2fsecurity_and_privacy.aspx" title="$ € Euro EUR"></a></li>
                 
-                    <li class="icons-flag-brit"><a class="" style="background-image:url(http://www.scuba.com/_homepage2012/images/christmas-hm.png);" href="/setcurrency.aspx?setcurrency=GBP&amp;ref=%2fresources%2fsecurity_and_privacy.aspx" title="$ £ British Pound GBP"></a></li>
+                    <li class="icons-flag-brit"><a class="" style="background-image:url(http://www.scuba.com/_homepage2012/images/hm.png);" href="/setcurrency.aspx?setcurrency=GBP&amp;ref=%2fresources%2fsecurity_and_privacy.aspx" title="$ £ British Pound GBP"></a></li>
                 
-                    <li class="icons-flag-au"><a class="" style="background-image:url(http://www.scuba.com/_homepage2012/images/christmas-hm.png);" href="/setcurrency.aspx?setcurrency=AUD&amp;ref=%2fresources%2fsecurity_and_privacy.aspx" title="$ Australian Dollar AUD"></a></li>
+                    <li class="icons-flag-au"><a class="" style="background-image:url(http://www.scuba.com/_homepage2012/images/hm.png);" href="/setcurrency.aspx?setcurrency=AUD&amp;ref=%2fresources%2fsecurity_and_privacy.aspx" title="$ Australian Dollar AUD"></a></li>
                 
-                    <li class="icons-flag-jap"><a class="" style="background-image:url(http://www.scuba.com/_homepage2012/images/christmas-hm.png);" href="/setcurrency.aspx?setcurrency=JPY&amp;ref=%2fresources%2fsecurity_and_privacy.aspx" title="$ ¥ Japanese Yen JPY"></a></li>
+                    <li class="icons-flag-jap"><a class="" style="background-image:url(http://www.scuba.com/_homepage2012/images/hm.png);" href="/setcurrency.aspx?setcurrency=JPY&amp;ref=%2fresources%2fsecurity_and_privacy.aspx" title="$ ¥ Japanese Yen JPY"></a></li>
                 
-                    <li class="icons-flag-sing"><a class="" style="background-image:url(http://www.scuba.com/_homepage2012/images/christmas-hm.png);" href="/setcurrency.aspx?setcurrency=SGD&amp;ref=%2fresources%2fsecurity_and_privacy.aspx" title="$ Singapore Dollar SGD"></a></li>
+                    <li class="icons-flag-sing"><a class="" style="background-image:url(http://www.scuba.com/_homepage2012/images/hm.png);" href="/setcurrency.aspx?setcurrency=SGD&amp;ref=%2fresources%2fsecurity_and_privacy.aspx" title="$ Singapore Dollar SGD"></a></li>
                 
         </ul>
     </div>
@@ -1519,10 +1545,14 @@
             <p align="center">
                 <span class="hidden-xs">Corporate Office: </span><a href="http://www.scuba.com/">Scuba.com</a>, <a href="/resources/ioc.aspx">1752 Langley Avenue, Irvine CA 92614</a>
             </p>
-            <p align="center">
+          
+
+
                 
-            </p>
-        </div>
+     
+                
+                  </div>
+       
     </div>
 
     
@@ -1532,7 +1562,7 @@
 
         <div class="row">
             <div class="col-sm-8 col-md-9">
-                Copyright © 2000-2014
+                Copyright © 2000-2015
                 Scuba.com, INC. All Rights Reserved.
             </div>
             <div class="col-sm-4 col-md-3 rightlinks text-right hidden-xs">
@@ -1550,11 +1580,38 @@
 </div>
 
 
-<!-- Google Analytics Tracking Tag -->
+<!-- Google Analytics Tracking Tag / Bing Tracking -->
 <script>
     (function (i, s, o, g, r, a, m) { i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () { (i[r].q = i[r].q || []).push(arguments) }, i[r].l = 1 * new Date(); a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m) })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga'); ga('create', 'UA-5367063-3', 'auto'); ga('send', 'pageview');
+    (function (w, d, t, r, u) { var f, n, i; w[u] = w[u] || [], f = function () { var o = { ti: "4020487" }; o.q = w[u], w[u] = new UET(o), w[u].push("pageLoad") }, n = d.createElement(t), n.src = r, n.async = 1, n.onload = n.onreadystatechange = function () { var s = this.readyState; s && s !== "loaded" && s !== "complete" || (f(), n.onload = n.onreadystatechange = null) }, i = d.getElementsByTagName(t)[0], i.parentNode.insertBefore(n, i) })(window, document, "script", "//bat.bing.com/bat.js", "uetq");
         </script>
+
+
+
+<!-- begin olark code -->
+
+<style>#habla_conversation_div span button { color: inherit; font: inherit; margin: 2px; border-radius: 3px; background-color: #5ba0d0; padding: 3px 8px; border:0; } #habla_expanded_div {margin-bottom:-20px !important;} #habla_middle_div{margin-bottom:20px !important;} </style>
+<script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark || (function (c) {
+    var f = window, d = document, l = f.location.protocol == "https:" ? "https:" : "http:", z = c.name, r = "load"; var nt = function () { f[z] = function () { (a.s = a.s || []).push(arguments) }; var a = f[z]._ = { }, q = c.methods.length; while (q--) { (function (n) { f[z][n] = function () { f[z]("call", n, arguments) } })(c.methods[q]) } a.l = c.loader; a.i = nt; a.p = { 0: +new Date }; a.P = function (u) { a.p[u] = new Date - a.p[0] }; function s() { a.P(r); f[z](r) } f.addEventListener ? f.addEventListener(r, s, false) : f.attachEvent("on" + r, s); var ld = function () { function p(hd) { hd = "head"; return ["<", hd, "></", hd, "><", i, ' onl' + 'oad="var d=', g, ";d.getElementsByTagName('head')[0].", j, "(d.", h, "('script')).", k, "='", l, "//", a.l, "'", '"', "></", i, ">"].join("") } var i = "body", m = d[i]; if (!m) { return setTimeout(ld, 100) } a.P(1); var j = "appendChild", h = "createElement", k = "src", n = d[h]("div"), v = n[j](d[h](z)), b = d[h]("iframe"), g = "document", e = "domain", o; n.style.display = "none"; m.insertBefore(n, m.firstChild).id = z; b.frameBorder = "0"; b.id = z + "-loader"; if (/MSIE[ ]+6/.test(navigator.userAgent)) { b.src = "javascript:false" } b.allowTransparency = "true"; v[j](b); try { b.contentWindow[g].open() } catch (w) { c[e] = d[e]; o = "javascript:var d=" + g + ".open();d.domain='" + d.domain + "';"; b[k] = o + "void(0);" } try { var t = b.contentWindow[g]; t.write(p()); t.close() } catch (x) { b[k] = o + 'd.write("' + p().replace(/"/g, String.fromCharCode(92) + '"') + '");d.close();' } a.P(2) }; ld() }; nt() })({ loader: "static.olark.com/jsclient/loader0.js", name: "olark", methods: ["configure", "extend", "declare", "identify"] });
+    /* custom configuration goes here (www.olark.com/documentation) */
+    olark.identify('4393-847-10-5859');
+    olark.configure('features.prechat_survey', true);
+    olark('api.chat.onOperatorsAvailable', function () {
+        $("#LiveChatIcon").attr("src","https://www.scuba.com/scubachat/files/livechat-online.png?t=" + new Date().getTime());
+        
+        olark('api.chat.updateVisitorStatus', {
+            snippet: 'Order#:(?) | CustID:(?)'
+        });
+    });
+    olark('api.chat.onOperatorsAway', function () { $("#LiveChatIcon").attr("src","https://www.scuba.com/scubachat/files/livechat-offline.png?t=" + new Date().getTime());});
+    olark('api.chat.onBeginConversation', function(){ 
+        olark('api.box.onShrink', function() { olark('api.chat.sendNotificationToOperator', {body: "User Minimized Chat"}); });  
+        olark('api.box.onExpand', function(event) {olark('api.chat.sendNotificationToOperator', {body: "User Expanded Chat"});});
+    });
+    /*]]>*/</script>
+
+
                                   
                                
 
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+</body></html>
