@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limitedrun.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127120436id_/http%3A//limitedrun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limitedrun.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609000303id_/http%3A//limitedrun.com/privacy) for the most accurate reproduction.*
 
 # Limited Run - A platform for labels, musicians, and artists.
 
