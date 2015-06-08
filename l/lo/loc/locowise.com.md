@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the locowise.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124055601id_/http%3A//locowise.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the locowise.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608024515id_/http%3A//locowise.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Locowise
-
-01 / LOCOWISE  
-PRIVACY POLICY
-
-Updated As Of 15 September 2014
+# Locowise Privacy
 
 LocoWise Pte Ltd wants you to understand how we use, protect and share information gathered while using our website and/or applications we offer. We’re here to use data gathered for good, not evil. If you want to make sure we’re not doing something you don’t want us to do, email us at [privacy@locowise.com](mailto:privacy@locowise.com).
 
