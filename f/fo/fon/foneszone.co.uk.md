@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foneszone.co.uk privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209064331id_/http%3A//www.foneszone.co.uk/fz/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foneszone.co.uk privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608130639id_/http%3A//www.foneszone.co.uk/fz/privacy.php) for the most accurate reproduction.*
 
 # Fones Zone LTD Privacy Policy
 
