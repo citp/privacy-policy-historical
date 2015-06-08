@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the amightyriver.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220043350id_/http%3A//www.prodivnet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amightyriver.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041813id_/http%3A//www.blackcareernetwork.com/privacy-policy) for the most accurate reproduction.*
 
-# ProDivNet.com | Privacy Policy | Diversity Professional Networking and Job Search
+# AMightyRiver.com | Privacy Policy | Black Professional Networking and Job Search
 
-ProDivNet.com is owned and operated by Professional Diversity Network. Professional Diversity Network is committed to protecting the privacy of our users. In addition to providing our users numerous privacy features, Professional Diversity Network has created this Privacy Statement in order to demonstrate in writing our firm commitment to privacy. 
+BlackCareerNetwork.com is owned and operated by Professional Diversity Network. Professional Diversity Network is committed to protecting the privacy of our users. In addition to providing our users numerous privacy features, Professional Diversity Network has created this Privacy Statement in order to demonstrate in writing our firm commitment to privacy. 
 
 ## Scope of this Policy
 
