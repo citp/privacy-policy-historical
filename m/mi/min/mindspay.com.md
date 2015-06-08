@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindspay.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126101741id_/http%3A//www.mindspay.com/uc%3Fa%3Dst%26pt%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindspay.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608065442id_/http%3A//mindspay.com/uc%3Fa%3Dst%26pt%3Dprivacy) for the most accurate reproduction.*
 
 # MindsPay :: - Privacy Policy !
 
