@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualizor.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095140id_/http%3A//www.softaculous.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualizor.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041124id_/http%3A//www.softaculous.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,27 +33,27 @@ Softaculous Inc. reserves the right to update and amend this policy as it is dee
 
 Links
 
-[Home](http://www.softaculous.com/) [Client Area](https://www.softaculous.com/clients) [Compare](http://www.softaculous.com/softaculous/compare) [Forums](http://www.softaculous.com/board) [Virtualizor](http://www.virtualizor.com/) [AMPPS](http://www.ampps.com/) [Webuzo](http://www.webuzo.com/) [nuPHP](http://www.softaculous.com/nuphp) [Purchase](https://www.softaculous.com/clients?ca=buy) [NOC Partners](http://www.softaculous.com/NOC_Partners) [Partners](http://www.softaculous.com/partners) | 
+[Home](http://www.softaculous.com/) [Client Area](https://www.softaculous.com/clients) [Forums](http://www.softaculous.com/board) [Virtualizor](http://www.virtualizor.com/) [AMPPS](http://www.ampps.com/) [Webuzo](http://www.webuzo.com/) [nuPHP](http://www.softaculous.com/nuphp) [Purchase](https://www.softaculous.com/clients?ca=buy) [NOC Partners](http://www.softaculous.com/NOC_Partners) [Partners](http://www.softaculous.com/partners) [Softaculous Plugin](http://www.softaculous.com/softaculous/plugin) [Softaculous Remote](http://www.softaculous.com/softaculous/remote) [Softaculous Enterprise](http://www.softaculous.com/softaculous/enterprise) | 
 
 Experience it!
 
-[Free Trial](http://www.softaculous.com/for_hosts.php) [Softaculous Remote](http://remote.softaculous.com/) [Softaculous Demo](http://demo.softaculous.com/enduser) [Admin Demo](http://demo.softaculous.com/) [Scripts Demos](http://www.softaculous.com/demos) [Download AMPPS](http://www.ampps.com/download) [Webuzo Demo](http://demo.webuzo.com/) [Virtualizor Demo](http://demo.virtualizor.com/) | 
+[Free Trial](http://www.softaculous.com/for_hosts.php) [Softaculous Remote](http://remote.softaculous.com/) [Softaculous Demo](http://demo.softaculous.com/enduser) [Admin Demo](http://demo.softaculous.com/) [Scripts Demos](http://www.softaculous.com/demos) [Download AMPPS](http://www.ampps.com/download) [Webuzo Demo](http://demo.webuzo.com/) [Virtualizor Demo](http://demo.virtualizor.com/) [cPanel](http://www.softaculous.com/softaculous/cpanel) [DirectAdmin](http://www.softaculous.com/softaculous/directadmin) [Plesk](http://www.softaculous.com/softaculous/plesk) [Interworx](http://www.softaculous.com/softaculous/interworx) | 
 
 Tools
 
-[All Scripts](http://www.softaculous.com/softwares) [PHP Classes](http://www.softaculous.com/nuphp/classes) [Documentation](http://www.softaculous.com/docs) [Wiki](http://www.softaculous.com/wiki) [Downloads](http://www.softaculous.com/downloads) [Verify License](http://www.softaculous.com/verify) | 
+[All Scripts](http://www.softaculous.com/softwares) [Documentation](http://www.softaculous.com/docs) [Wiki](http://www.softaculous.com/wiki) [Compare](http://www.softaculous.com/softaculous/compare) [Auto Upgrade apps](http://www.softaculous.com/softaculous/auto_upgrade) [Apps Requirements](http://www.softaculous.com/softaculous/php_requirements) [PHP Classes](http://www.softaculous.com/nuphp/classes) [Scripts in Free Version](http://www.softaculous.com/scripts_in_free) [Downloads](http://www.softaculous.com/downloads) [Verify License](http://www.softaculous.com/verify) | 
 
 Information
 
-[About Us](http://www.softaculous.com/about) [Information to Buy](http://www.softaculous.com/buyinginfo) [NOC Plans](http://www.softaculous.com/NOCs) [Scripts in Free Version](http://www.softaculous.com/scripts_in_free) [Auto Upgrade apps](http://www.softaculous.com/softaculous/auto_upgrade) [Apps Requirements](http://www.softaculous.com/softaculous/php_requirements) [Terms of Use](http://www.softaculous.com/license) [Privacy Policy](http://www.softaculous.com/privacy) [Refund Policy](http://www.softaculous.com/pricing#refund) [Our Team](http://www.softaculous.com/team.php) | 
+[About Us](http://www.softaculous.com/about) [Buying Info](http://www.softaculous.com/buyinginfo) [NOC Plans](http://www.softaculous.com/NOCs) [Legal](http://www.softaculous.com/legal) [Terms of Service](http://www.softaculous.com/tos) [Privacy Policy](http://www.softaculous.com/privacy) [Refund Policy](http://www.softaculous.com/pricing#refund) [Our Team](http://www.softaculous.com/team.php) | 
 
 Get in touch
 
-[Contact Us](http://www.softaculous.com/contact) [Support Forums](http://www.softaculous.com/board) [Company Address](http://www.softaculous.com/company.php) [Sales Department](mailto:sales%40softaculous.com) [Support](mailto:support%40softaculous.com) [Demos](mailto:demos%40softaculous.com) [Submit a Testimonial](http://www.softaculous.com/submit_testimonial) [Careers](http://www.softaculous.com/careers.php) | 
+[Contact Us](http://www.softaculous.com/contact) [Support Forums](http://www.softaculous.com/board) [Mailing Address](http://www.softaculous.com/company.php) [Sales Department](mailto:sales%40softaculous.com) [Support](mailto:support%40softaculous.com) [Demos](mailto:demos%40softaculous.com) [Submit Testimonial](http://www.softaculous.com/submit_testimonial) [Careers](http://www.softaculous.com/careers.php) | 
 
 Blogs
 
 [Softaculous News](http://www.softaculous.com/board/?fid=1) [Scripts News](http://www.softaculous.com/news) [Softaculous Blog](http://www.softaculous.com/blog) [AMPPS Blog](http://www.ampps.com/blog) [Webuzo Blog](http://www.webuzo.com/blog) [Virtualizor Blog](http://www.virtualizor.com/blog) [Virtualizor News](http://www.virtualizor.com/forums/index.php?board=1.0)  
 ---|---|---|---|---|---  
-© 2014 [Softaculous Ltd.](http://www.softaculous.com/)    All trademarks and logos are the property of their respective owners!   
+© 2015 [Softaculous Ltd.](http://www.softaculous.com/)    All trademarks and logos are the property of their respective owners!   
  
