@@ -1,56 +1,56 @@
-> *The following text is extracted and transformed from the dishpromotions.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024103351id_/http%3A//www.dishpromotions.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dishpromotions.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041545id_/http%3A//www.dishpromotions.com/dish-promotions-privacy-policy) for the most accurate reproduction.*
 
-# DISH Promotions | Privacy Policy
+# Privacy Policy | DISH Promotions
 
-[Home](https://web.archive.org/) > Privacy Policy
+This Privacy Policy governs the manner in which Dish Promotions collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.dishpromotions.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Dish Promotions.
 
-Version 05/22/2013
+**Personal identification information**  
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users call us, visit our site, place an order, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. We will collect personal identification information from Users **ONLY if they voluntarily submit such information to us**. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities such as placing an order.
 
-This privacy notice discloses the privacy practices for dishpromotions.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
+**Non-personal identification information**  
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-  1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
-  2. What choices are available to you regarding the use of your data.
-  3. The security procedures in place to protect the misuse of your information.
-  4. How you can correct any inaccuracies in the information
+**Web browser cookies**  
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
+**Protecting Your Privacy**  
+Many website tools and plug-ins use cookies to enhance functionality and website user experience. We cannot eliminate all cookies from being stored on your PC from dishpromotions.com. Google does provide an opt out extension for tracking [here](https://tools.google.com/dlpage/gaoptout).
 
+To opt out of dishpromotions.com ID cookie tracking, click here. If you wish to Opt back in, you may click here. _(You must do this on every device you connect to dishpromotions.com from. If you delete your browser history and cookies, you will need to opt out again if visiting dishpromotions.com.)_
 
-**Information Collection, Use, and Sharing**  
-We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email, order form, phone call request or other direct contact from you. We will not sell or rent this information to anyone.
+**How we use collected information**  
+Dish Promotions may collect and use Users personal information for the following purposes:  
+– To improve customer service  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.  
+– To personalize user experience  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
+– To improve our Site  
+We may use feedback you provide to improve our products and services.  
+– To process payments  
+We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.  
+– To send periodic emails  
+We may use the email address to send them information and updates pertaining to their order. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.  
+How we protect your information
 
-We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to process an order. 
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy. 
+**Sharing your personal information**  
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-**Cookies**  
-We use "cookies" on this site. A cookie is a piece of data stored on a site visitor's hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site. 
+**Changes to this privacy policy**  
+Dish Promotions has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-**Orders**  
-We request information from you on our order form. To buy from us, you must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill your orders. If we have trouble processing an order, we'll use this information to contact you. 
+**Your acceptance of these terms**  
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-**Your Access to and Control Over Information**  
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
+**Contacting us**  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-  1. See what data we have about you, if any.
-  2. Change/correct any data we have about you.
-  3. Express any concern you have about our use of your data.
+**Dish Promotions**  
+N56 W13365 Silver Spring Drive  
+Menomonee Falls, WI 53051  
+1-855-629-3838  
+[Email Us](mailto:sterling@sterlingsatellite.com)  
+www.dishpromotions.com
 
-
-
-**Security**  
-We take precautions to protect your information. When you submit sensitive information via the website or phone, your information is protected both online and offline.
-
-Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a "128 BIT SSL SECURITY icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page.
-
-While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
-
-**If you feel that we are not abiding by this privacy policy, you should contact us immediately -
-
-Contact us via telephone at 1-855-629-3838 or [via email](mailto:sterling@sterlingsatellite.com).
-
-**
-
-Customer service hotline   
-1-855-299-6511
-
-[Looking for internet service? Click here](https://web.archive.org/web/20141024103351id_/http%3A//www.dishpromotions.com/dishnet.asp)
+This document was last updated on **January 29, 2015**
