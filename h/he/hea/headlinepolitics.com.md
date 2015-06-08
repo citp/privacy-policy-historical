@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the headlinepolitics.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123075346id_/http%3A//www.headlinepolitics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the headlinepolitics.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608025420id_/http%3A//www.headlinepolitics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Headline Politics
 
 **Intermarkets, Inc. Privacy Policy**
 
-Revised: February 18, 2014
+Revised: May 7, 2015
 
 Intermarkets, Inc. (“Intermarkets”, “we”, “our” or “us”) is an online advertising management services firm that offers advertisers opportunities to display their interactive ads on our website, http://stage.headlinepolitics.com.php53-18.ord1-1.websitetestlink.com (our “Website” or “Site”). Our Website delivers political news and provides opportunities to participate in polls, among other items.
 
@@ -42,6 +42,12 @@ Personally Identifiable Information and Non-Personally Identifiable Information 
 **Service Providers:**
 
 Intermarkets may share Personally Identifiable Information with its service providers that help Intermarkets provide the services that you request (“Service Providers”). For example, we may contract with Service Providers to provide certain services, such as credit card processing, advertising, analytics tools, data management services, Web hosting, and Web development. We provide our Service Providers with the information needed for them to perform these services, however, each Service Provider must agree to implement and maintain reasonable security procedures and practices appropriate to the nature of the information involved in order to protect your information from unauthorized access, destruction, use, modification or disclosure.
+
+_A Note Concerning Analytics Service Providers:  _We participate in advertising services administered by third parties, such as Google. For example, we have implemented or are in the process of implementing the following features based on Google Analytics for Display Advertising: Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, and Google Analytics Demographics and Interest Reporting.
+
+The ad services may track your online activities over time by collecting information through automated means, including through the use of the automated technologies described above, and they may use this information to show you advertisements that are tailored to your individual interests and/or based on prior visits to our Websites. We and third-party vendors, including Google, may use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together (i) to inform, optimize, and serve ads based on past visits to our website and (ii) to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our site. For example, we use Remarketing with Google Analytics to allow Google to show our ads to our visitors across the Internet. We also may use data from Google’s Interest-based advertising or third-party audience data (such as age, gender, and interests) with Google Analytics to understand our audiences and to customize the delivery of our ads.
+
+To learn more about interest-based advertising generally, including how to opt out, [click here](http://www.aboutads.info/choices/). To opt out of Google Analytics for Display Advertising or customize Google Display Network ads, you can visit the Google [Ads Settings](https://www.google.com/settings/ads) page.
 
 **Non-Personally Identifiable Information Only:**
 
