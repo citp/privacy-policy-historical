@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotgamesforgirls.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524032532id_/http%3A//www.hotgamesforgirls.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotgamesforgirls.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608064352id_/http%3A//www.hotgamesforgirls.com/privacy.html) for the most accurate reproduction.*
 
-# Play free hot girl games for girls,dress up games,girl games and girls games online - www.hotgamesforgirls.com
+# Privacy
 
 Our Privacy
 
