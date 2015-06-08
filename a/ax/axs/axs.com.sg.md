@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the axs.com.sg privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703130016id_/http%3A//axs.com.sg/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axs.com.sg privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608141513id_/http%3A//www.axs.com.sg/privacyPolicy.php) for the most accurate reproduction.*
 
 # AXS Consumer
 
-AXS Pte Ltd ("AXS") is a solution provider and operator of an Electronic Service Delivery Network (ESDN). AXS operates the AXS network ("AXS Network"), comprising of the AXS mobile application ("AXS Mobile Application"), the AXS website at 
+Privacy Policy   
 
-(the "AXS Website") and the AXS physical self-service kiosks (the "AXS Stations"). 
+
+Last modified: 5 June 2013 
+
+AXS Pte Ltd ("AXS") is a solution provider and operator of an Electronic Service Delivery Network ("ESDN"). AXS operates the AXS network ("AXS Network"), comprising of the AXS mobile application ("AXS Mobile Application"), the AXS website at (the "AXS Website") and the AXS physical self-service kiosks (the "AXS Stations"). 
 
 AXS offers you an alternate electronic channel where you can perform bill payment transactions over the Internet or using our physical AXS kiosks. With new electronic channels you will be able to make bill payments at your convenience. 
 
@@ -16,7 +19,7 @@ While AXS has put in place the necessary security practices and measures to safe
 
 We may amend this Privacy Policy at any time by posting a revised version on the AXS Website. However, an individual notice will not be sent to you. You will be deemed to have acknowledged and agreed to the amended Privacy Policy if you continue to use the AXS Network after the changes have taken effect. You are reminded to check for updates to this Privacy Policy prior to using the AXS Network. 
 
-If you have any queries, please contact our Privacy Officer at dpo@axs.com.sg. 
+If you have any queries, please contact our Data Privacy Officer at dpo@axs.com.sg. 
 
 1\. COLLECTION AND USES OF PERSONAL INFORMATION
 
@@ -38,11 +41,13 @@ If you have any queries, please contact our Privacy Officer at dpo@axs.com.sg.
   * Identification number.
 
   
-1.5 If you choose not to provide the abovementioned personal information, you are still allowed to generally access the AXS Network and access and use the services and content available on the AXS Network. 
+1.5 We collect personal information that you provide to us when you contact AXS for recruitment and related purposes. Such personal information are collected, used, and disclosed by AXS in accordance with AXS Personal Data Protection Policy for Job Applicants, a copy of which is published at [here](https://web.archive.org/web/20150608141513id_/http%3A//www.axs.com.sg/jobPrivacyPolicy.php). 
 
-1.6 If you contact AXS, we may keep a record of your communication to help to resolve any issues that you may be facing. 
+1.6 If you choose not to provide the above mentioned personal information, you are still allowed to generally access the AXS Network and access and use the services and content available on the AXS Network. 
 
-1.7 All personal information and other information collected may be used by AXS in the aggregate or individually and may be combined with other information for purposes including but not limited to the following: 
+1.7 If you contact AXS, we may keep a record of your communication to help to resolve any issues that you may be facing. 
+
+1.8 All personal information and other information collected may be used by AXS in the aggregate or individually and may be combined with other information for purposes including but not limited to the following: 
 
   * Responding to and taking follow-up action on complaints;
   * Performing office administrative matters;
@@ -53,19 +58,19 @@ If you have any queries, please contact our Privacy Officer at dpo@axs.com.sg.
   * Purposes relating to any of the above.
 
   
-1.8 AXS corporate policies stipulate that any employee with access to confidential customer information is not permitted to use or disclose such information except for business purposes. All employees are required to safeguard such information as specified in their confidentiality agreements with AXS. 
+1.9 AXS corporate policies stipulate that any employee with access to confidential customer information is not permitted to use or disclose such information except for business purposes. All employees are required to safeguard such information as specified in their confidentiality agreements with AXS. 
 
-1.9 AXS may need to provide your information to its business partners, legal advisors and service providers. In all cases, your personal information is protected by a strict confidentiality agreement. However, we do not allow any company to retain your personal information any longer than it is necessary to provide you with the product, service or information you request unless you have granted us permission to do so. 
+1.10 AXS may need to provide your information to its business partners, legal advisors and service providers. In all cases, your personal information is protected by a strict confidentiality agreement. We have arrangements in place to ensure your personal information is not retained by AXS's business partners, legal advisors and service providers for longer than is necessary for the purpose of providing you with the product, service or information you request. 
 
 2\. DISCLAIMERS
 
 2.1 Through the services and content on the AXS Network, you may be introduced to a variety of third parties. The privacy policies of these third parties are not under AXS's control and may differ from AXS's and you should read the privacy policies of these third parties carefully. The use of any information that you may provide to any third party, or the use of "cookie" technology by any third party, will be governed by the privacy policy of the operator of the third party website that you are visiting. If you have any doubts about the privacy of the information that you are providing on such third party website, you should contact the third party website directly for more information and review their privacy policy. AXS shall not be responsible for the actions of such third parties in any manner whatsoever, including but not limited to any violation of such privacy policies or otherwise. 
 
-3\. ACCESS TO AND AMENDMENT OF PERSONAL INFORMATION
+3\. ACCESS TO AND CORRECTION OF PERSONAL INFORMATION
 
-3.1 Our Privacy Officer is responsible for ensuring that requests for access to information and amendment of information are properly dealt with in accordance with the procedures described here. 
+3.1 Our Data Privacy Officer is responsible for ensuring that requests for access to information and correction of information are properly dealt with in accordance with the procedures described here. 
 
-3.2 All requests for information or requests for the amendment of information held by AXS shall be made by completing AXS's standard Request for Information form (PDF available [here](https://web.archive.org/web/20140703130016id_/http%3A//axs.com.sg/documents/AXS_ReleaseForm.pdf)), and sending a copy of the duly completed form to AXS via email at: dpo@axs.com.sg, or post or fax at: 
+3.2 All requests for information or requests for the correction of information held by AXS shall be made by completing AXS's standard Request For Information / Correction Form (PDF available [here](https://web.archive.org/web/20150608141513id_/http%3A//www.axs.com.sg/documents/AXSRequestForm.pdf) ), and sending a copy of the duly completed form to AXS via email at: dpo@axs.com.sg, or post or fax at: 
 
 AXS Pte Ltd   
 61 Mohamed Sultan Road  
@@ -74,13 +79,15 @@ Singapore 239001
 Attention: Data Privacy Officer   
 Fax: 6636 4550 Telephone: 6389 7979
 
-3.3 Please note that AXS will only accept and act on requests in the English language that comply with this Privacy Policy, and with the applicable charge(s) paid. Any request that does not comply with the above will be rejected, and AXS will not take any action in relation to such rejected requests. 
+3.3 Please note that AXS will only accept and act on requests in the English language that comply with this Privacy Policy, and with the applicable charge(s) paid. AXS shall be entitled to reject any request that does not comply with the above. 
 
 3.4 AXS may refuse to disclose or amend any information for the reasons set out in the Personal Data Protection Act 2012. 
 
-3.5 As far as reasonably possible, AXS will respond to your request within ten (10) working days from the date of receipt of the request. If that is not possible, you will be so notified within ten (10) working days from the date of receipt of the request. 
+3.5 As far as reasonably possible, AXS will respond to your request within thirty (30) days from the date of receipt of the request. If that is not possible, you will be so notified within thirty (30) days from the date of receipt of the request. 
 
-3.6 AXS is entitled to impose a fee for responding to requests for information and requests for amendment. AXS may choose not to respond to requests that are not accompanied with payment of any applicable fee(s). 
+3.6 A fee may be imposed on each request for information. This fee is payable to AXS by way of a cheque made out to AXS Pte. Ltd., and may be subject to revision by AXS from time to time. AXS is not obliged to respond to requests for information that are not accompanied with payment of any applicable fee(s). 
+
+3.7 You understand that when a request to correct information provided by you for the purpose of performing a bill payment transaction is made, AXS may in certain circumstances determine that the nature of the request is to obtain a refund from the transaction, in which case, AXS may require you to file a request for a refund of payments made instead. 
 
 4\. SAFEGUARDING YOUR ACCESS
 
