@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contagiousmagazine.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206033309id_/http%3A//www.contagious.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contagiousmagazine.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608045656id_/http%3A//www.contagious.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Contagious Communications
 
