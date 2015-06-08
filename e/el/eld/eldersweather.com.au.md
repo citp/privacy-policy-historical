@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eldersweather.com.au privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128184456id_/http%3A//elders.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eldersweather.com.au privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608115928id_/http%3A//elders.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy
 
