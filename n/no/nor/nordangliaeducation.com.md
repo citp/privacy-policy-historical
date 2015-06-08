@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nordangliaeducation.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111131640id_/http%3A//www.nordangliaeducation.com/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nordangliaeducation.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608132243id_/http%3A//www.nordangliaeducation.com/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy
 
 ## Introduction
 
-This is the Nord Anglia Education Limited website privacy policy. Please read it carefully as you should only submit information to us through this site if you agree we may use it in accordance with this policy.
+This is the Nord Anglia Education website privacy policy. Please read it carefully as you should only submit information to us through this site if you agree we may use it in accordance with this policy.
 
 We collect certain basic information about you when you visit our website. We recognise the importance both of keeping that information secure and of letting you know what we intend to do with it.
 
@@ -16,15 +16,16 @@ The policy sets out (1) who we are and describes (2) the information we collect 
 
 ### Who we are
 
-This website is provided by Nord Anglia Education Limited  , an Education Provider. More information about Nord Anglia Education Limited   may be found by [Contacting Us](https://web.archive.org/contact-us).
+This website is provided by Nord Anglia Education Limited. More information about us may be found by [Contacting Us](http://www.nordangliaeducation.com/contact-us).
 
-Nord Anglia Education Limited  is a company registered in England and Wales number 02116088 . Our registered office is located at:
+Our office is located at:
 
-6th Floor  
-18 King William Street  
-London  
-United Kingdom  
-EC4N 7BP
+St. George’s Building
+
+Level 12  
+2 Ice House Street  
+Central  
+Hong Kong
 
 ## The information we collect
 
@@ -32,51 +33,15 @@ We collect information from you:
 
   * when you complete our on-line forms
   * by means of ’cookies’ when you use our site, and
-  * in the form of ’traffic data’.
+  * in the form of ’traffic data’. 
 
 
 
 ### On-line forms
 
-In general, we will collect the information we need to provide you with the service to which the form relates. For example, if you use our enquiry form we will collect your First Name, Last Name, Email address, Date of birth and Message.
+In general, we will collect the information we need to provide you with the service to which the form relates. For example, if you use our enquiry form we will collect your First Name, Last Name, Email address and Message, etc. We use this information to process your enquiry more effectively.
 
 Where we ask for more information to help us improve our services, over and above the basic required information, your response is voluntary, and you are free not to provide us with more information if you would prefer not to do so.
-
-The personal data collected from applicants and/or their parents/guardians pursuant to this application form will be handled by our staff, kept confidential and used by Nord Anglia Education Limited (“we” or “us”) for various purposes including but not limited to:
-
-(a)   assessing the suitability of applicants’ admission to Nord Anglia Education Schools;
-
-(b)   processing applications for admission;
-
-(c)   verification of the applicant’s examination results, academic records and other information;
-
-(d)   school administration and operation after admission;
-
-(e)   statistical and research purposes;
-
-(f)    other school related purposes;
-
-(g)   alumni activities
-
-We may disclose some of the data to third parties such as agencies (including the Hong Kong government), service providers and contractors (whether within or outside Hong Kong) appointed by us to undertake some of our academic, pastoral and administrative functions. This includes transferring data between affiliates.   We will not disclose any personal data to any external bodies or organisations unless:
-
-(a)   Such disclosure is expressly provided for under this Statement;
-
-(b)   Permitted to do so by the applicant or his/her parent/guardian; and/or
-
-(c)   Permitted or required by law.
-
-Personal data may be stored in NAE database systems and online portals and where application is successful, such personal data will form part of the applicant’s official student records.  It may also be stored in online student resources such as the global classroom.
-
-Personal data will be destroyed with 24 months following rejection of the application.
-
-If a Parent Teacher Associations (PTA) is established, we may provide such personal data to the relevant PTA for inclusion in the PTA directory and other PTA activities. If an applicant or his/her parents/guardians do not wish for such data to be included in the PTA directory, please inform us.
-
-We may place student’s photo, name or school work in our website or publications.
-
-Failure to provide the requested data may result in us being unable to process the application and influence the outcome of the application.
-
-Applicants or their parents/guardians may submit a signed, written request to the Principal to access or to correct personal data held by NAE levy a charge for accessing the information.
 
 ## Cookies
 
@@ -84,18 +49,17 @@ Cookies are small text files that are stored on your computer’s hard drive by 
 
 ### The Cookies we use
 
-We use the cookies on this website to help you navigate our website efficiently, perform certain functions and to collect site statistics.  These cookies do not store any personal information that would, on its own, allow us to identify individual users of this service without your permission.
+We use the cookies on this website to help you navigate our website efficiently, perform certain functions and to collect site statistics. These cookies do not store any personal information that would, on its own, allow us to identify individual users of this service without your permission.
 
-The Nord Anglia Education Limited  use a number of suppliers (3rd Party) who also set cookies this websites on our behalf in order to deliver the services that they are providing. If you would like more information about the cookies used by these suppliers, as well as information on how to opt-out, please see the information in the tables provided below.
+We use a number of suppliers (3rd Party) who also set cookies on this website on our behalf in order to deliver the services that they are providing. If you would like more information about the cookies used by these suppliers, as well as information on how to opt-out, please see the information in the tables provided below.
 
-Please be aware that restricting cookies may impact on the functionality of the Nord Anglia Education Limited   website and could mean that key features do not work properly. We strongly recommend allowing cookies from this website so that we can provide you with a full service.
+Please be aware that restricting cookies may impact on the functionality of the Nord Anglia Education Limited website and could mean that key features do not work properly. We strongly recommend allowing cookies from this website so that we can provide you with a full service.
 
 To help you make an informed decision, we have categorised the cookies used on this site into two categories;
 
-  1. **Necessary cookies** – these cookies are fundamental to ensure the site works correctly.
-  2. **Optional cookies** – These cookies could help us track how you use the website so that we can improve the information and experience provided to you. They may also provide additional features by 3rd party providers to allow you to socially share content or comment on this website.
+1.      **Necessary cookies** – these cookies are fundamental to ensure the site works correctly.
 
-
+2.      **Optional cookies** – These cookies could help us track how you use the website so that we can improve the information and experience provided to you. They may also provide additional features by 3rd party providers to allow you to socially share content or comment on this website.
 
 The cookies used on this site are explained in the tables below.
 
@@ -117,7 +81,7 @@ The cookies used on this site are explained in the tables below.
   
 ---|---|---|---  
   
-Nord Anglia Education Limited 
+Nord Anglia Education Limited
 
 | 
 
@@ -131,7 +95,7 @@ End of session
 
 This session cookie is used to store anonymous details about the pages visited by you on this website and is required to provide this functionality to you. If you do not allow this cookie this website will not work correctly.  
   
-Nord Anglia Education Limited 
+Nord Anglia Education Limited
 
 | 
 
@@ -145,7 +109,7 @@ Never
 
 This cookie that tells us that you have accepted cookies from this site and allows us to stop showing you the same message each time you visit the site.  
   
-### Optional cookies
+### Optional cookies
 
 **Provider**
 
@@ -187,7 +151,7 @@ YouTube Privacy Policy
   
 **How to control and delete cookies**
 
-The Nord Anglia Education Limited  will not use cookies to collect personally identifiable information about you unless you willing provide it. However, if you wish to restrict or block the cookies which are set by this website, or indeed any other website, you can do this through your browser settings. The Help function within your browser should tell you how.
+We will not use cookies to collect personally identifiable information about you unless you willing provide it. However, if you wish to restrict or block the cookies which are set by this website, or indeed any other website, you can do this through your browser settings. The Help function within your browser should tell you how.
 
 Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/) which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your computer as well as more general information about cookies.
 
@@ -203,18 +167,18 @@ We keep a record of traffic data which is logged automatically by the server. Th
 
 ### How we use it
 
-We use your information to provide you with relevant support, information or other content and services that you request.
+We use your information to provide you with relevant support, information or other content and services that you request. If any of our communications constitute direct marketing we will separately seek your consent where required by law.
 
 We will keep you on our mailing lists until you ask us not to contact you further. See Finding out more below for details of how to opt-out of mailings from us.
 
-We will share your information with other members of The Nord Anglia Education Group.
+We will share your information among members of the Nord Anglia Education Group.
 
 ###  When we share it
 
-  * We may disclose your information to third parties in certain circumstances.
-  * Suppliers who process information on our behalf, such as our IT service providers. They will have incidental access to your information but will be obliged to act only on our instructions and to keep your information secure.
+  *  We may disclose your information to third parties in certain circumstances.
+  * Suppliers who process information on our behalf, such as our IT service providers, will have incidental access to your information but will be obliged to act only on our instructions and to keep your information secure.
   * We may disclose your information to law enforcement or regulatory bodies if required to do so by them.
-  * We may also disclose your information to a third party in the context of actual or threatened legal proceedings or if otherwise required to do so by law.
+  * §  We may also disclose your information to a third party in the context of actual or threatened legal proceedings or if otherwise required to do so by law.
 
 
 
@@ -230,12 +194,8 @@ We will keep your information secure by taking appropriate technical and organis
 
 Data protection legislation is harmonised throughout the European Economic Area (EEA), which comprises the EU member states, Norway, Iceland and Liechtenstein. Countries outside the EEA do not generally have the same level of protection for personal information as those within the EEA.
 
-Because of the way the Internet works, it is possible that the information you provide to us could be routed via countries outside the EEA. However,this is not considered a ‘transfer’ under data protection legislation, and unless you are from outside the EEA, we will not transfer any information we collect from you outside the EEA without your permission or as permitted by law.
-
-Further information about data protection issues including the online Register of Data Controllers can be found at <http://www.ico.org.uk/>
+Because of the way the Internet works, it is possible that the information you provide to us could be routed via countries outside the EEA. However, this is not considered a ‘transfer’ under data protection legislation, and unless you are from outside the EEA, we will not transfer any information we collect from you outside the EEA without your permission or as permitted by law.
 
 ## Finding out more
 
 You can ask us to stop sending you material at any time by writing to the address on the [Contact Us](https://web.archive.org/contact-us) page or by clicking on one of the email addresses. Please specify what you wish us to do clearly.
-
-Further information about data protection issues including the online Register of Data Controllers can be found on the Information Commissioner’s website.
