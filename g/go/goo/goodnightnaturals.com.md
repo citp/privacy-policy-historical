@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the goodnightnaturals.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222170516id_/http%3A//www.goodnightnaturals.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodnightnaturals.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041211id_/http%3A//www.goodnightnaturals.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy is a serious concern. Information is not shared and private.
 
 If you have questions or concerns regarding this statement, you should first contact Paul at [cust_serv@goodnightnaturals.com](mailto:cust_serv@goodnightnaturals.com)
-
-**What this policy covers**  
-This policy covers how Good Night Naturals treats personal information that we receive, including information related to your past use of our services, as well as non-personalized information collected from our Web site [www.goodnightnaturals.com](http://www.goodnightnaturals.com/) Personal information is information about you, which is personally identifiable, such as your name, address, phone number, etc.
 
 **Our Commitment To Your Privacy**  
 We respect our customers right to privacy. No Information given to us on this web site will be given out or sold, and will only be used for internal business purposes. All personal information, such as your name, postal, email address, payment information (i.e. credit card information etc), is private and confidential. Accordingly, the personal information which you provide is stored in a secure location, and accessible only by designated staff, and is used only for the purposes for which you provided the information (such as to process your order, reply to an email or brochure request, etc). In addition, all online orders (credit card info, etc) are additionally protected by being encrypted). 
