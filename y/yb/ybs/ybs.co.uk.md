@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ybs.co.uk privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109103409id_/http%3A//www.ybs.co.uk/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ybs.co.uk privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608085521id_/http%3A//www.ybs.co.uk/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy and Cookies - Yorkshire Building Society
 
@@ -14,7 +14,7 @@ By using this site you are consenting to the use of cookies. [Find out more](htt
   * [Financial advice](https://web.archive.org/financial-advice/index.html "Financial advice")
   * [Insurance](https://web.archive.org/insurance/index.html "Insurance")
   * Other Services
-
+  * 
 
 
 You are here: [Home](https://web.archive.org/index.html "Home") /  Privacy and Cookies
