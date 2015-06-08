@@ -1,63 +1,116 @@
-> *The following text is extracted and transformed from the sanjac.edu privacy policy that was archived on 2014-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140124083041id_/http%3A//www.sanjac.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanjac.edu privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608053428id_/http%3A//www.sanjac.edu/sites/default/files/Privacy%2520Policy.pdf) for the most accurate reproduction.*
 
-# Privacy Policy | San Jacinto College
+# Web Privacy Notice and Statement of Information Disclosure Practices
 
-San Jacinto College is committed to the highest level of integrity in dealing with the private information of our web users as part of our overall commitment to providing a quality web site and service experience for our users. This policy will continue to be assessed against new technologies, business practices and the needs of our users.
+                                             Web Privacy Notice and
+                                Statement of Information Disclosure Practices
+             The San Jacinto Community College District is committed to ensuring the privacy and accuracy of
+information shared by individuals who access the College’s website and services. This Notice describes
+the College’s website privacy procedures, web linking practices, and other practices of the College as
+they relate to the collection of electronic information. This Notice is not a contract and may be revised
+or updated at any time by the College.
+Scope
+             This Web Privacy Notice applies to websites and services under the sanjac.edu and sjcc.edu
+domains (the “Site”), unless otherwise indicated with a separate privacy notice. This Notice does not
+cover websites and services operated by third-parties or sites and services outside of the College’s
+domains, including those sites and services linked to or incorporated into the College’s Site.
+Information Gathered
+             The College gathers several types of information when you access the Site.
+            Server Logs: College web server(s) gather server log information that include: Internet Protocol
+             (IP) Address, User Agent information, date and time of access, and the URL accessed. These logs
+             are maintained by the College’s third-party server hosting company and may be used for
+             debugging and server usage statistics by the College and its agents or contractors. The College
+             also uses a content management system that may collect additional log information.
+            Google Analytics and AdWords: The College and its agents use the Google Analytics Platform in
+             the operation of the Site. Google Analytics is a service provided by the third-party company
+             Google, Inc. The College may use the full Google Analytics package and may gather demographic
+             data, IP address information, referrer information, click-through rates, traffic sessions, page
+             views, metric information, and Google Analytics Advertiser Features in furtherance of Site
+             effectiveness and performance. Google Analytics collects data about your web traffic via cookies
+             or anonymous identifiers, in addition to other mechanisms. The College also uses Google’s
+             remarketing feature in AdWords, an advertising platform, to reach Users who have been to the
+             Site before through marketing initiatives. The College uses this functionality as is necessary in its
+             marketing operations. This means that Google may use Google cookies to display our ads to you
+             across other websites or platforms based on your interactions or past visits to the College’s Site.
+             Other AdWords features the College may use in its marketing initiatives include affinity
+             audiences, custom affinity audiences, in-market audiences, similar audiences, and demographic
+             and location targeting.
+             Opting out: You may opt-out of Google Analytics or Google AdWords remarketing. To opt out of
+             Google Analytics, please visit Google’s Analytics Opt-out Browser Add-on. To opt out of Google’s
+             use of cookies for advertising and remarketing, please visit Google’s Ads Settings or alternatively
+             you can opt-out of the use of these cookies through the Network Advertising Initiative opt-out
+             page.
+            Online Forms: The College maintains several web based forms, including, but not limited, to its
+             Data Request Form and Feedback Form, which will collect any personal data that you enter on
+             the form.
+Last Updated March 2015
 
-### Information Gathering
 
-For systems administration and site statistical analysis, the San Jacinto College automatically logs IP addresses (the location of your computer on the Internet), time of visit, type of web browser being used, and operating system or platform. We do not use these logs to track your session or to identify your personal information except as specifically noted herein. We reserve the right in the future to provide personalization of content capabilities that may track a user’s session with no additional notice
+            Other tracking software: The College may use third-party tracking software in specific modules
+             or sections of its site, including San Jac Connect and social media tie-ins throughout the Site.
+            Secure, Hosted, and Third-Party Systems: The College uses several secure, hosted, and third-
+             party systems on the Site either directly or through hyperlinks to other domains. Within the
+             secure locations of the Site, there may be other third-party applications or systems. Every third-
+             party system, application, and site is bound by their own privacy policies and procedures, unless
+             otherwise indicated. Data gathered by these applications may be used and shared for their
+             respective purposes in order to carry out the College’s mission and operations. These systems
+             may use cookies, require your College username(s)/password(s), require personal information,
+             or utilize other mechanisms to function.
+Use and Sharing of Information
+             The College does not actively share information garnered from its Site, other than with the
+necessary employees or agents to maintain and carry out the Site and College’s purpose. However,
+because San Jacinto College is a public institution, some information collected from the Site, including
+summary server log information, emails, and information collected from Web-based forms, may be
+subject to the Texas Public Information Act. This means that the College may be compelled by law in
+some cases to release information gathered from its Site, servers, or properties.
+             San Jacinto College also complies with the Family Educational Rights and Privacy Act (FERPA),
+which restricts the release of education records. In general, a student’s information may not be
+released to a third party without the student’s permission. Certain exceptions apply, including an
+exception that requires the College to release information in response to a lawfully issued subpoena.
+The College also may release “directory information” about a student unless the student has informed
+the College in writing that the student wishes to protect directory information from disclosure.
+Information on FERPA can be found [here]. Students may exclude the release of public directory
+information during registration.
+Incorrect Information
+             The Texas Public Information Act, with a few exceptions, gives you the right to be informed
+about the information that the College collects about you. It also gives you the right to request a copy of
+that information and request that the College correct incorrect information. Students may request
+corrections by following the process in the College’s FERPA policy. Employees may request corrections
+by contacting the human resources department here. All others may contact the College’s Public
+Information Officer. For additional information about the Public Information Act, please visit the
+website of the Texas Attorney General.
+“Cookies”
+             Cookies are small pieces of data stored by the Web browser on your computer. Cookies are
+often used to remember information about preferences and pages you have visited. For example, when
+you visit some sites on the Web you might see a "Welcome Back" message. The first time you visited the
+site a cookie was probably set on your computer; when you return, the cookie is read again. You can
+configure your Web browser to refuse to accept cookies, to disable cookies, and to remove cookies from
+your hard drive as needed.
+Last Updated March 2015
 
-### Information Use
 
-The San Jacinto College will not provide any of your personal information from the San Jacinto College website (the "Website") to third parties without your permission, unless compelled by law or court order to do so. We will not sell any personal information to third parties for purposes of marketing, advertising, or promotion. To protect against unauthorized access to your password and to your computer, it is important that you log off when you are finished visiting the Website and that you maintain your individual password information in a secure location. We may collect, analyze, and disclose to others aggregated information (which includes your specific information but only as an unidentifiable part of the aggregate) gathered from overall use of the Website or particular features or areas of the Website.
-
-### Security
-
-We utilize https 128-bit encryption technology to safeguard personal information from unauthorized access or disclosure and accidental loss, alteration or destruction. While no system can provide guaranteed security, we take reasonable efforts to keep information you provide to us secure, including physical security at the location of the server where information is stored.
-
-### Links Outside Our Domain
-
-Our web site contains links outside of our domain. The San Jacinto College is not responsible for the content or policies of those sites. San Jacinto College does not necessarily recommend or endorse the services or goods offered by any advertiser, linked site or third-party on the Website.
-
-### Contact
-
-Questions regarding this policy should be directed to:  
-San Jacinto College  
-Address 4624 Fairmont Parkway Pasadena , Texas 77504  
-Phone: 281-998-6137  
-Email:[TechSupport@sjcd.edu](mailto:TechSupport@sjcd.edu "Email")
-
-### Incorrect Information
-
-Each individual is responsible for reviewing the accuracy of the personal information of the Website and contacting the Registrar for student information or Human Resources for employee information in the event that it is believed that information is incorrect.
-
-### Updated Privacy Statement
-
-In the event of a change, a revised Privacy Statement will promptly be posted to our Web site. You agree to accept posting of a revised Privacy Statement electronically on the Web site as actual notice to you. You should review the Privacy Statement periodically to remain informed of any changes. Any dispute over our Privacy Statement is subject to this notice and our Terms and Conditions, including arbitration of disputes and limitation of damages.
-
-### Disclosure and Use of Specific User Information
-
-We may disclose specific information (such as identity and contact information) if we believe that such disclosure is necessary or desirable to: (i) fulfill legal or regulatory requirements, (ii) protect our rights or those of others, (iii) prevent or mitigate harm or damage of any kind or nature, (iv) address abusive practices related to use of the Website, or (v) address or seek redress for a violation of the Terms of Use or other obligations to us or other users.
-
-### Contact
-
-When you sign in to the Website, you may receive automatically-generated email instructions or notifications produced to assist in your use of the Website. From time to time, we may contact you about changes to the Website that may be of interest to you.
-
-### Unauthorized Users
-
-We strive to limit access to our database to bona fide users, student and faculty. However, no verification or security system is foolproof. Therefore, we are not responsible if someone impersonates a bona fide user to circumvent our security measures and gain access to the database, including your information, nor can we be responsible for any use, reproduction, or disclosure they may make of it.
-
-### Passwords and Account Access
-
-When you complete account registration, you will be asked to specify a password. Only you will know your password. You will also select a password hint. If you lose your password, you can call San Jacinto College and ask us to reset it to a temporary password. We will verify your identity by asking you your password hint. Upon successful answer, we will provide you with a temporary password. You can use this to access your account. It is strongly recommended that you change your password again at this time.
-
-### Payments
-
-Payments can be made through the Website. Payment information is encrypted using 128-bit https encryption techniques.
-
-### Cookies
-
-To improve your experience with the Website, "cookies" may be used. "Cookies" are elements of data sent from the Website to your computer and stored on your computer's hard drive. These devices improve efficiency by permitting the Website to retain information (like log in information) that it can then access on subsequent visits so the user doesn't have to input it again. They also permit the tracking of your movements on the Website, which we can then use to further enhance your online experience with us. In light of their benefits, most browsers accept cookies automatically. However, if you don't wish to accept cookies, you can set your browser to decline cookies.
-
-Last updated: 4/19/04
+Information Security and Privacy Practices
+             Although no computer system is 100% secure, the College will use reasonable security measures
+to protect against the loss, misuse, or alteration of the information under the College’s control.
+             Information Security requires your active participation. Please keep all College usernames and
+passwords assigned to you safe and secure. If you have reason to believe that your security has been
+compromised, please contact techsupport@sjcd.edu.
+Social Media
+             Social media platforms outside the College’s domains (e.g., Facebook) are operated by third-
+parties and your interactions on and with those platforms are governed by those third-party privacy
+policies. The College may link or incorporate functionality of social media platforms into the Site or
+provide links to social media platforms from the Site. The College is not responsible for those third-party
+platforms or the privacy and security practices of those sites, including any social media presence by the
+College on those third-party platforms.
+Children Under the Age of 13
+             The Site is not intended to be accessed or used by children under the age of thirteen.
+Statement regarding Linking Practices
+             This linking notice incorporates and is intended to be consistent with the State Website Linking
+and Privacy Policy published by the Texas Department of Information Resources.
+             Links to non-Site URLs, both public and private, are provided as a service to our users and do not
+necessarily constitute an endorsement by the College. The College is not responsible for content found
+at these links and makes no representations, guarantees, or warranties.
+Questions about this Privacy Notice or the College’s Web Site
+             Please direct questions, comments, and concerns to techsupport@sjcd.edu or to ___________,
+San Jacinto College, 4624 Fairmont Parkway, Pasadena, Texas, 77504.
+Last Updated March 2015
