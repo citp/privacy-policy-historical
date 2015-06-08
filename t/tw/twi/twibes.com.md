@@ -1,23 +1,21 @@
-> *The following text is extracted and transformed from the twibes.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628182232id_/http%3A//www.twibes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twibes.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608095449id_/http%3A//www.twibes.com/privacy-policy) for the most accurate reproduction.*
 
 # Twibes Twitter Groups
 
-[](https://web.archive.org/)
-
 Privacy Statement
 
-Twibes has created this privacy statement in order to demonstrate our firm commitment to privacy.
+Twibes has created this privacy statement in order to demonstrate our firm commitmentto privacy.
 
-Twibes requires access to users' Twitter accounts solely for the following purposes: 
+Twibes requires access to users' Twitter accounts solely for the following purposes:
 
   * To allow members to view who they follow and vote for their favorites.
   * To allow members to view voting results, and verify the groups they belong to.
   * To notify those that have been voted for via either a tweet or a direct message
-  * To verify members' identities as group members
+  * To verify members’ identities as group members
 
 
 
-Please note: We will never send a direct message or tweet on your behalf without your permission. 
+Please note: We will never send a direct message or tweet on your behalf without your permission.
 
 We collect personal information in a number of ways when you visit our Site. At several places on our Site, we may collect certain information you voluntarily provide to us which may contain personal information.  Personal information may also be collected if you provide such information in connection with creating a profile, leaving comments, inviting a friend, sending an email or message to another user or participating in any interactive forums or features on the site.  In addition, from time to time we may collect demographic, contact or other personal information you provide in connection with your participation in surveys, sweepstakes, contests, games, promotional offers, and other activities on the Site.
 
@@ -27,14 +25,16 @@ We use customer contact information to send the user information about our compa
 
 This site contains links to other sites. Twibes is not responsible for the privacy practices or the content of such web sites.
 
-**Public Forums** The Site may make message boards or discussion lists available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+ **Public Forums** The Site may make message boards or discussion lists available to its users. Please remember that any informationthat is disclosed in these areas becomes public information and you should exercise cautionwhen deciding to disclose your personal information.
 
-**Security** The Site has security measures in place to protect the loss, misuse and alteration of the information under our control. Twibes will employ industry-standard security and disaster-recovery procedures to protect the data. Twibes will perform frequent backups and will store backup materials in a safe and secure environment.
+ **Security** The Site has security measures in place to protect the loss, misuse and alteration of the information under our control. Twibes will employ industry-standard security and disaster-recovery procedures to protect the data. Twibes will perform frequent backups and will store backup materials in a safe and secure environment.
 
-**Choice/Opt-Out** Our site provides users the opportunity to opt-out of receiving communications from our partners.  This option is provided during the registration sign-in form, and can be modified at any time by the user.
+ **Choice/Opt-Out** Our site provides users the opportunity to opt-out of receiving communications fromour partners.  This option is provided during the registration sign-in form,and can be modified at any time by the user.
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can send email to [ adam@twibes.com](mailto:adamloving@twibes.com)
+This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can send email to [adam@twibes.com](mailto:adamloving@twibes.com)
 
-**Contacting the Web Site**
+ **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [ adam@twibes.com](mailto:adam@twibes.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [adam@twibes.com](mailto:adam@twibes.com)
+
+Twibes is not affilliated with Twitter
