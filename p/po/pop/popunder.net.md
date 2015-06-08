@@ -1,33 +1,26 @@
-> *The following text is extracted and transformed from the popunder.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120045447id_/http%3A//popunder.net/main/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popunder.net privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609002135id_/http%3A//popunder.net/main/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Statistics (24h)**
 
-**Transitions  popunder:** | 6 210 539  
----|---  
-**Transitions  clickunder:** | 815 050  
-**Active  Websites:** | 723 368  
-**Active  advertisers:** | 498  
-**[Available traffic:](http://popunder.net/main/prognozer/)** | [63 441 293](http://popunder.net/main/prognozer/)  
-|   
-  
 [](http://popunder.net/main/rssnews/)
 
 **Latest news**
 
-**01 of October 2014**   
-Dear users,  
-already started Popunder.net New Year Promotions!  
-Feel the approach of the holiday! 
+**13 of May 2015**   
+Dear advertisers,  
+Popunder.net network has a new feature - downloading statistics in the excel ! 
 
-**30 of September 2014**   
+**02 of April 2015**   
 Dear users,   
-network Popunder.ru have a new opportunity - "Hot Keys"! 
+today advertising network Popunder.net is 8 years old!   
+Hurry up to get [gifts](http://popunder.net/main/pages/birthday/)! 
 
-**10 of September 2014**   
-Dear advertisers,   
-action "Mobile sea!" transferred on a permanent basis! 
+**27 of February 2015**   
+Dear publishers,   
+in network Popunder.net been updated system domains of your code.  
+Get it and reinstall on your site! 
 
 [Go to news archive](http://popunder.net/main/news/)
 
