@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashmylinks.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004190947id_/http%3A//www.cashmylinks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashmylinks.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608050831id_/http%3A//www.cashmylinks.com/privacy) for the most accurate reproduction.*
 
 # CashMyLinks - Privacy Policy Page
 
