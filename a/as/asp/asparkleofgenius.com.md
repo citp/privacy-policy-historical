@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asparkleofgenius.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128052811id_/http%3A//www.asparkleofgenius.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asparkleofgenius.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609001436id_/http%3A//www.asparkleofgenius.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - A Sparkle of Genius
 
