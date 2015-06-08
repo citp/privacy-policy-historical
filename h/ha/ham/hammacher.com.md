@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hammacher.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202000159id_/http%3A//www.hammacher.com/Editorial/Privacy-Policy%3Fpromo%3Dft_cs_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hammacher.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608114947id_/http%3A//www.hammacher.com/Editorial/Privacy-Policy%3Fpromo%3Dft_cs_privacy) for the most accurate reproduction.*
 
 # CS-Privacy-Policy - Hammacher Schlemmer
 
@@ -23,12 +23,11 @@ We will periodically send to your street or e-mail address product news and upda
 
 ## How to Opt Out
 
-If you do not wish to receive promotional postal and/or e-mail updates from Hammacher Schlemmer, or if you prefer that we not share your postal address with other merchants please do one of the following:  
-
+If you do not wish to receive promotional postal and/or e-mail updates from Hammacher Schlemmer, or if you prefer that we not share your postal address with other merchants please do one of the following:
 
   * **Phone:** Please call Toll-Free 1-800-321-1484 to speak to a Customer Service associate between 8AM to Midnight, Eastern time.
   * **Email:** Send us an email and we'll reply within 1 Business Hour! [customerservice@hammacher.com](mailto:customerservice@hammacher.com)
-  *  **Write:** Send us a letter to 9180 Le Saint Drive; Fairfield, Ohio 45014-5475
+  * **Write:** Send us a letter to 9180 Le Saint Drive; Fairfield, Ohio 45014-5475
 
 
 
@@ -46,4 +45,8 @@ When you e-mail a message to a friend from Hammacher.com using the Add This func
 
 When you request a Hammacher Schlemmer catalog at Hammacher.com or ask to receive e-mail updates, we request your name, address and e-mail address in order to complete your request. We will respect your privacy and use your information in the same way described above under "Placing an Order Online."
 
- _Last updated June 24, 2011_
+## Terms of Use
+
+If you use or order from our Site, you agree to our Terms of Use. The information contained in this Site, including but not limited to these Terms of Use, is subject to change without notice. Your use of the Site following any such change constitutes your agreement to follow and be bound by the rules as changed. For full details, please see [Terms of Use](http://www.hammacher.com/Editorial/TermsOfUse)
+
+_Last updated June 24, 2011_
