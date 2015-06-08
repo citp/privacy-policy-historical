@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyclosets.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227122335id_/http%3A//www.easyclosets.com/customer-service/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyclosets.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608050723id_/http%3A//www.easyclosets.com/customer-service/policies) for the most accurate reproduction.*
 
 # EasyClosets Policies | EasyClosets
 
@@ -23,7 +23,14 @@ We stand behind our quality craftsmanship and proudly offer a Limited Lifetime W
 
 ### Additional Parts Policy
 
-We are happy to sell you additional parts should you decide you want to modify an organization system purchased from our company, (ie: shelves, closet rods, drawers, baskets or hardware). Just call our team at 800-910-0129 option 5 during business hours. We can verify your previous order with your name, invoice number or email address and gladly assist you with your parts order!
+We are happy to sell you additional parts should you decide you want to modify an organization system purchased from our company, (ie: shelves, closet rods, drawers, baskets or hardware). Just call our team at 800-910-0129 option 4 during business hours. We can verify your previous order with your name, invoice number or email address and gladly assist you with your parts order!
+
+  
+
+
+### Substitution and Product Changes
+
+We do our best to keep all products in stock and ready to ship. In the event that a product is discontinued or unavailable, we reserve the right to substitute a product of similar style and equivalent value and quality (depending on availability). EasyClosets also retains the right to make changes in product specifications and materials at any time without notice.
 
   
 
