@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saptechnical.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122033651id_/http%3A//www.saptechnical.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saptechnical.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041421id_/http%3A//www.saptechnical.com/Privacy.htm) for the most accurate reproduction.*
 
 # SAPTechnical.COM - Privacy
 
