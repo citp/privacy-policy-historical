@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easywpseoplugin.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121113855id_/http%3A//easywpseoplugin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easywpseoplugin.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608113053id_/http%3A//easywpseoplugin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Easy WP SEO Plugin
 
@@ -26,6 +26,8 @@ Any of the information collected from you may be used in one of the following wa
 Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information
 
 EasyWPSEOPlugin.com uses cookies to understand and save your preferences for future visits, keep track of advertisements, and compile aggregate data about site traffic and site interaction so that better site experiences and tools can be offered in the future.
+
+Third parties may use cookies, web beacons, and similar technologies to collect or receive information from your website and elsewhere on the internet and use that information to provide measurement services and target ads. Visitors can opt out of Facebook ads via Facebook’s AdChoices link that appears with each advertisement.
 
 **Is any information disclosed to outside parties?**
 
