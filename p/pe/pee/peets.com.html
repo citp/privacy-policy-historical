@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the peets.com privacy policy that was archived on 2014-10-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141019140042id_/http%3A//www.peets.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the peets.com privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608023624id_/http%3A//www.peets.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0021/2950.js?438994" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MWSRZ5"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgAHUlBQGwEBU1VRAwM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0021/2950.js?438994" async="" type="text/javascript"></script><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MWSRZ5"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgAHUlBQGwEBU1VRAwM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
 <title>Privacy Policy</title>
 <meta name="description" content="Peet's Coffee &amp; Tea">
 <meta name="keywords" content="Peet's Coffee &amp; Tea">
@@ -18,16 +18,16 @@
 //]]>
 </script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://dy999ib17dqym.cloudfront.net/skin/frontend/peets/main/css/merged-pct-1.min.css?v=34" media="all">
-<link rel="stylesheet" type="text/css" href="http://dy999ib17dqym.cloudfront.net/skin/frontend/peets/main/css/merged-pct-2.min.css?v=34" media="all">
-<link rel="stylesheet" type="text/css" href="http://dy999ib17dqym.cloudfront.net/skin/frontend/peets/main/css/merged-pct-3.min.css?v=34" media="all">
-<link rel="stylesheet" type="text/css" href="http://dy999ib17dqym.cloudfront.net/skin/frontend/peets/default/css/print.css?v=34" media="print">
-<script type="text/javascript" src="http://d3mrtwiv4dr09z.cloudfront.net/media/js/f9d29d0c109ddc95e158d293c9d8713a.js?v=34" id="js001"></script>
+<link rel="stylesheet" type="text/css" href="http://dy999ib17dqym.cloudfront.net/skin/frontend/peets/main/css/merged-pct-1.min.css?v=47" media="all">
+<link rel="stylesheet" type="text/css" href="http://dy999ib17dqym.cloudfront.net/skin/frontend/peets/main/css/merged-pct-2.min.css?v=47" media="all">
+<link rel="stylesheet" type="text/css" href="http://dy999ib17dqym.cloudfront.net/skin/frontend/peets/main/css/merged-pct-3.min.css?v=47" media="all">
+<link rel="stylesheet" type="text/css" href="http://dy999ib17dqym.cloudfront.net/skin/frontend/peets/default/css/print.css?v=47" media="print">
+<script type="text/javascript" src="http://d3mrtwiv4dr09z.cloudfront.net/media/js/f9d29d0c109ddc95e158d293c9d8713a.js?v=47" id="js001"></script>
 <!--[if lt IE 9]>
-<link rel="stylesheet" type="text/css" href="http://dy999ib17dqym.cloudfront.net/skin/frontend/peets/main/css/styles-ie.css?v=34" media="all" />
+<link rel="stylesheet" type="text/css" href="http://dy999ib17dqym.cloudfront.net/skin/frontend/peets/main/css/styles-ie.css?v=47" media="all" />
 <![endif]-->
 <!--[if lt IE 7]>
-<script type="text/javascript" src="http://d3mrtwiv4dr09z.cloudfront.net/media/js/0e2a29ac88e049ee12a0ffbbe0b3afce.js?v=34"></script>
+<script type="text/javascript" src="http://d3mrtwiv4dr09z.cloudfront.net/media/js/0e2a29ac88e049ee12a0ffbbe0b3afce.js?v=47"></script>
 <![endif]-->
 <script type="text/javascript">
 //<![CDATA[
@@ -118,7 +118,10 @@ window.onload = function(){
    if(oldonload){oldonload()}};
 }());
 </script>
-<meta name="msvalidate.01" content="03D2C2142D68DB730C2BE12B7C458F39">    <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<meta name="msvalidate.01" content="03D2C2142D68DB730C2BE12B7C458F39">
+<style>
+body {text-rendering: auto;}
+</style>    <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
     <body class=" cms-page-view cms-privacy-policy">
         <!--
 Start of DoubleClick Floodlight Tag: Please do not remove
@@ -130,7 +133,7 @@ Creation Date: 10/23/2013
 var axel = Math.random() + "";
 var a = axel * 10000000000000;
 document.write('<iframe src="http://4214366.fls.doubleclick.net/activityi;src=4214366;type=peets878;cat=peets113;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
-</script><iframe src="http://4214366.fls.doubleclick.net/activityi;src=4214366;type=peets878;cat=peets113;ord=4874152748696.776?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</script><iframe src="http://4214366.fls.doubleclick.net/activityi;src=4214366;type=peets878;cat=peets113;ord=2054133135927.707?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 <noscript>
 <iframe src="http://4214366.fls.doubleclick.net/activityi;src=4214366;type=peets878;cat=peets113;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 </noscript>
@@ -167,8 +170,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="promobanner-popup-holder">
                 <div class="promobanner-content">
                     <div class="visual"><img src="http://dy999ib17dqym.cloudfront.net/skin/frontend/peets/main/images/popup-promo.png" alt="promo image"></div>
-<div class="promo-title"><span>NEW! FREE SHIPPING</span> on any order $59 or more*</div>
-<div class="sub-title">Now includes subscriptions.</div>
+<div class="promo-title">Free ship on any order $59 or more*</div>
+<div class="sub-title"></div>
 <div class="separator"></div>
 <div class="sub-title2">No promotion code necessary</div>
 <p>*Receive free domestic ground shipping on any order $59 or more. $59 minimum does not include taxes or shipping, per shipping address. If you select Next Day or 2nd Day Air shipping, the cost of domestic US ground shipping will be credited toward your shipping costs. Offer is not valid in stores and does not apply to Peet's Cards, Monthly Coffee Tours or previous purchases. Cannot be combined with any other offer or discount.</p>                </div>
@@ -181,29 +184,49 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div id="top-navigation">
                          <div id="logo"><a href="http://www.peets.com/"><img src="http://dy999ib17dqym.cloudfront.net/skin/frontend/peets/main/images/logo.png" alt="Peet's Coffee &amp; Tea"></a></div>
 
-            <div class="upper-navigation">
+                        <div class="upper-navigation">
                 <a href="http://www.peets.com/store-locator" class="find-peets">Find Peet's</a>.
                 <div class="usercp-wrapper user-links">
-                    <div class="welcome-wrapper">
-                        <p class="welcome-msg">
-                        <a href="#" class="user-account name"></a>
-                        <span class="user-account separator" style="padding:0 3px; display: none; color:#fff">|</span>
-                        <a href="#" class="user-account action"></a>
-                        </p>
-                    </div>
                     <div id="top-cart-container" class="top-cart">
+                                            </div>
+                    <div id="welcome-container" class="welcome-wrapper">
+                        <p class="welcome-msg">
+                            <a href="#" class="user-account name"></a>
+                            <span class="user-account separator" style="padding:0 3px; display: none; color:#fff">|</span>
+                            <a href="#" class="user-account action"></a>
+                        </p>
+                                                    <div class="mini-account">
+    <div id="mini-account-content" class="block-content" style="display:none">
+        <div class="inner-wrapper">
+            <div class="frame">
+                <a id="mini-account-login" style="display: none;" href="https://www.peets.com/customer/account/login/">Sign In</a>
+                <span id="mini-account-register" style="display: none;">
+                    <a href="https://www.peets.com/customer/account/create/">Create an Account</a>
+                </span>
+            </div>
+            <div class="holder">
+                <a href="https://www.peets.com/customer/account/">My Account Snapshot</a>
+                <a href="https://www.peets.com/sales/recurring_profile/">My Subscriptions</a>
+                <a href="https://www.peets.com/sales/order/history/">My Orders</a>
+                <a href="https://www.peets.com/peetscard/index/">My Peet's Cards</a>
+                <a href="https://www.peets.com/paymentinfo/index/list/">My Payment Methods</a>
+            </div>
+            <a id="mini-account-logout" style="display: none;" href=""></a>
+        </div>
+    </div>
+</div>
                                             </div>
                     <div class="clear"></div>
                 </div>
             </div>
             <script type="text/javascript">
     //<![CDATA[
-    Peets.Customer.status('http://www.peets.com/ajaxcontroller/customer/status/top_cart/1/', {
+        Peets.Customer.status('http://www.peets.com/ajaxcontroller/customer/status/top_cart/1/', {
         loginUrl:      'https://www.peets.com/customer/account/login/',
         logoutUrl:     'https://www.peets.com/customer/account/logout/',
         accountUrl:    'https://www.peets.com/customer/account/',
-        persistentUrl: 'http://www.peets.com/persistent/index/unsetCookie/'
-    });
+        persistentUrl: 'http://www.peets.com/persistent/index/unsetCookie/',
+        isShowMiniAccount: true    });
     //]]>
             </script>
                 <div class="global-nav-container">
@@ -225,13 +248,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <div class="top-nav-items">
 <div class="top-nav-items-inner">
-<div class="top-nav-row top-nav-row-1 top-nav-row-first"><dl class="sub-category"><dt><strong>Featured Coffee</strong></dt><dd><a href="http://www.peets.com/coffee/featured-coffee/coffee-shop-by-category-top-sellers.html">Top Sellers</a></dd>
-<dd><a href="http://www.peets.com/coffee/featured-coffee/coffee-shop-by-category-limited-editions.html">Limited Editions</a></dd>
+<div class="top-nav-row top-nav-row-1 top-nav-row-first"><dl class="sub-category"><dt><strong>Featured Coffee</strong></dt><dd><a href="http://www.peets.com/coffee/featured-coffee/coffee-shop-by-category-limited-editions.html">Limited Editions</a></dd>
 <dd><a href="http://www.peets.com/coffee/featured-coffee/coffee-shop-by-category-signature-blends.html">Signature Blends</a></dd>
+<dd><a href="http://www.peets.com/coffee/featured-coffee/coffee-shop-by-category-top-sellers.html">Top Sellers</a></dd>
 <dd><a href="http://www.peets.com/coffee/featured-coffee/coffee-shop-by-category-reserve-coffees.html">Reserve Coffees</a></dd>
-<dd><a href="http://www.peets.com/coffee/coffee-all-beans.html">All Coffees</a></dd>
-</dl><dl class="sub-category"><dt><strong>By Roast</strong></dt><dd><a href="http://www.peets.com/coffee/by-roast/coffee-shop-by-category-medium-roast.html">Medium</a></dd>
-<dd><a href="http://www.peets.com/coffee/by-roast/deep.html">Deep</a></dd>
+<dd><a href="http://www.peets.com/coffee/featured-coffee/all-coffees.html">All Coffees</a></dd>
+</dl><dl class="sub-category"><dt><strong>By Roast</strong></dt><dd><a href="http://www.peets.com/coffee/by-roast/light-roast.html">Light</a></dd>
+<dd><a href="http://www.peets.com/coffee/by-roast/coffee-shop-by-category-medium-roast.html">Medium</a></dd>
 <dd><a href="http://www.peets.com/coffee/by-roast/dark.html">Dark</a></dd>
 </dl><dl class="sub-category"><dt><strong>By Type</strong></dt><dd><a href="http://www.peets.com/coffee/by-type/coffee-shop-by-category-espresso.html">Espresso</a></dd>
 <dd><a href="http://www.peets.com/coffee/by-type/coffee-shop-by-category-iced-coffee.html">Iced Coffee</a></dd>
@@ -240,27 +263,27 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </dl><dl class="sub-category"><dt><strong>By Region</strong></dt><dd><a href="http://www.peets.com/coffee/by-region/coffee-shop-by-category-americas.html">The Americas</a></dd>
 <dd><a href="http://www.peets.com/coffee/by-region/coffee-shop-by-category-africa-arabia.html">Africa &amp; Arabia</a></dd>
 <dd><a href="http://www.peets.com/coffee/by-region/coffee-shop-by-category-indo-pacific.html">Indo-Pacific</a></dd>
-</dl></div><div class="top-nav-row top-nav-row-2 top-nav-row-last"><dl class="sub-category"><dt><strong>K-Cup® Packs</strong></dt><dd><a href="http://www.peets.com/coffee/single-cups-38/all-single-cups.html">All K-Cup® Packs</a></dd>
+</dl></div><div class="top-nav-row top-nav-row-2 top-nav-row-last"><dl class="sub-category"><dt><strong>K-Cup® Packs</strong></dt><dd><a href="http://www.peets.com/coffee/k-cup-packs/all-kcups-packs.html">All K-Cup® Packs</a></dd>
 <dd><a href="http://www.peets.com/solofill-k3-gold-reusable-single-cup.html">Reusable Single Cup</a></dd>
 <dd><a href="http://www.peets.com/keurig-2-k450-brewing-system.html">Keurig® Brewing System</a></dd>
 </dl><dl class="sub-category"><dt><strong>Gifts &amp; Samplers</strong></dt><dd><a href="http://www.peets.com/coffee/gifts-samplers/coffee-tours-16.html">Coffee Tours</a></dd>
-<dd><a href="http://www.peets.com/coffee/gifts-samplers/coffee-gifts.html">Coffee Gifts</a></dd>
 <dd><a href="http://www.peets.com/coffee/gifts-samplers/coffee-gifts-coffee-samplers.html">Coffee Samplers</a></dd>
+<dd><a href="http://www.peets.com/coffee/gifts-samplers/coffee-gifts.html">Coffee Gifts</a></dd>
 <dd><a href="http://www.peets.com/coffee/gifts-samplers/treats-and-spices.html">Treats and Spices</a></dd>
 </dl><dl class="sub-category"><dt><strong>Equipment</strong></dt><dd><a href="http://www.peets.com/coffee/coffee-equipment-41/equipment-coffee-makers.html">Coffee Makers</a></dd>
-<dd><a href="http://www.peets.com/coffee/coffee-equipment-49/brewing-essentials-kits.html">Brewing Essentials Kits</a></dd>
+<dd><a href="http://www.peets.com/coffee/coffee-equipment-41/brewing-essentials-kits.html">Brewing Essentials Kits</a></dd>
 <dd><a href="http://www.peets.com/coffee/coffee-equipment-41/equipment-press-pot-brewing.html">Press Pot Brewing</a></dd>
 <dd><a href="http://www.peets.com/coffee/coffee-equipment-41/equipment-grinders.html">Grinders</a></dd>
-<dd><a href="http://www.peets.com/coffee/coffee-equipment-41/equipment-mugs-tumblers.html">Mugs &amp; Tumblers</a></dd>
 <dd><a href="http://www.peets.com/coffee/coffee-equipment-41/brewing-equipment.html">Brewing Equipment</a></dd>
+<dd><a href="http://www.peets.com/coffee/coffee-equipment-41/equipment-mugs-tumblers.html">Mugs &amp; Tumblers</a></dd>
 <dd><a href="http://www.peets.com/equipment/equipment-storage-measuring.html">Storage </a></dd>
 </dl><dl class="sub-category"></dl></div>
 </div></div>
-<div class="top-nav-callout"><div class="top-nav-callout-content"><span>Save 50% off shipping when you set up a coffee subscription.</span></div></div>
+<div class="top-nav-callout"><div class="top-nav-callout-content"><span>Save 10% on your order when you set up a coffee subscription.</span></div></div>
 
 </div>
-<div class="top-nav-aside"><div class="top-nav-aside-content"><div class="top-nav-aside-img"><img src="http://d3mrtwiv4dr09z.cloudfront.net/media/catalog/category/TopNavRR_EthiopiaBoaBedegelo.jpg" alt="Coffee" title="Coffee"></div><div class="top-nav-aside-text"><h3>Ethiopia Boa Bedegelo</h3><p>Organically grown by the Boa Bedegelo Co-op in Sidamo. Smooth and balanced with flavors of chocolate and orange blossom.</p>
-<p><a href="/coffee/featured-coffee/coffee-shop-by-category-limited-editions/ethiopia-boa-bedegelo.html">Shop Now »</a></p></div></div></div>
+<div class="top-nav-aside"><div class="top-nav-aside-content"><div class="top-nav-aside-img"><img src="http://d3mrtwiv4dr09z.cloudfront.net/media/catalog/category/TopNavRR__YosemiteDosSierras.jpg" alt="Coffee" title="Coffee"></div><div class="top-nav-aside-text"><h3>Yosemite Dos Sierras</h3><p>Crisp, complex and full-bodied. 5% of proceeds benefit the Yosemite Conservancy in partnership with The North Face.</p>
+<p><a href="/coffee/featured-coffee/coffee-shop-by-category-limited-editions/yosemite-dos-sierras.html">Shop Now »</a></p></div></div></div>
 
 </div>
 </div></li><li class="level0 nav-3 level-top parent" data-sub-nav-toggle="sub-nav-3">
@@ -275,8 +298,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <div class="top-nav-items">
 <div class="top-nav-items-inner">
-<div class="top-nav-row top-nav-row-1 top-nav-row-first"><dl class="sub-category"><dt><strong>Featured Tea</strong></dt><dd><a href="http://www.peets.com/tea/featured-tea/tea-shop-by-category-limited-editions.html">Limited Editions</a></dd>
+<div class="top-nav-row top-nav-row-1 top-nav-row-first"><dl class="sub-category"><dt><strong>Featured Tea</strong></dt><dd><a href="http://www.peets.com/tea/featured-tea/mighty-leaf-teas.html">Mighty Leaf Teas</a></dd>
 <dd><a href="http://www.peets.com/tea/featured-tea/tea-shop-by-category-top-sellers.html">Top Sellers</a></dd>
+<dd><a href="http://www.peets.com/tea/featured-tea/tea-shop-by-category-limited-editions.html">Limited Editions</a></dd>
+<dd><a href="http://www.peets.com/tea/featured-tea/peets-legacy-teas.html">Peet's Legacy Teas</a></dd>
 <dd><a href="http://www.peets.com/tea/featured-tea/tea-shop-by-category-signature-blends.html">Signature Blends</a></dd>
 <dd><a href="http://www.peets.com/tea/featured-tea/tea-shop-by-category-rare-teas.html">Rare Teas</a></dd>
 <dd><a href="http://www.peets.com/tea/tea-all-leaves.html">All Teas</a></dd>
@@ -294,8 +319,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <dd><a href="http://www.peets.com/tea/by-category/tea-shop-by-category-oolong-teas.html">Oolong Teas</a></dd>
 <dd><a href="http://www.peets.com/tea/by-category/tea-shop-by-category-herbal-teas.html">Herbal Teas</a></dd>
 </dl><dl class="sub-category"><dt><strong>Gifts &amp; Samplers</strong></dt><dd><a href="http://www.peets.com/tea/gifts-samplers/tea-tours.html">Tea Tours</a></dd>
-<dd><a href="http://www.peets.com/tea/gifts-samplers/tea-gifts-tea-samplers.html">Tea Gifts</a></dd>
+<dd><a href="http://www.peets.com/tea/gifts-samplers/mothers-day-gifts.html">Mother's Day Gifts</a></dd>
 <dd><a href="http://www.peets.com/tea/gifts-samplers/tea-shop-by-category-tea-samplers.html">Tea Samplers</a></dd>
+<dd><a href="http://www.peets.com/tea/gifts-samplers/tea-gifts-tea-samplers.html">Tea Gifts</a></dd>
 <dd><a href="http://www.peets.com/tea/gifts-samplers/treats-and-spices.html">Treats and Spices</a></dd>
 </dl><dl class="sub-category"><dt><strong>Equipment</strong></dt><dd><a href="http://www.peets.com/tea/equipment/tea-equipment.html">Tea Equipment</a></dd>
 <dd><a href="http://www.peets.com/tea/equipment/mugs-tumblers.html">Mugs &amp; Tumblers</a></dd>
@@ -305,8 +331,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="top-nav-callout"><div class="top-nav-callout-content"><span>Save 50% off shipping when you set up a tea subscription.</span></div></div>
 
 </div>
-<div class="top-nav-aside"><div class="top-nav-aside-content"><div class="top-nav-aside-img"><img src="http://d3mrtwiv4dr09z.cloudfront.net/media/catalog/category/TopNav_RR_Green_Peony.jpg" alt="Tea" title="Tea"></div><div class="top-nav-aside-text"><h3>Green Peony</h3><p>With green tea leaves hand-tied in the shape of a flower, this rare China tea blooms as it brews.</p>
-<p><a href="/tea/featured-tea/tea-shop-by-category-limited-editions/green-peony-2-oz.html">Shop Now »</a></p></div></div></div>
+<div class="top-nav-aside"><div class="top-nav-aside-content"><div class="top-nav-aside-img"><img src="http://d3mrtwiv4dr09z.cloudfront.net/media/catalog/category/TopNavRR_MightyLeaf.jpg" alt="Tea" title="Tea"></div><div class="top-nav-aside-text"><h3>Mighty Leaf Teas</h3><p>Original hand-crafted tea pouch filled with all natural whole tea leaves, luscious fruits and aromatic herbs and spices.</p>
+<p><a href="/tea/featured-tea/mighty-leaf-teas.html">Shop Now »</a></p></div></div></div>
 
 </div>
 </div></li><li class="level0 nav-4 level-top parent" data-sub-nav-toggle="sub-nav-4">
@@ -321,12 +347,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <div class="top-nav-items">
 <div class="top-nav-items-inner">
-<div class="top-nav-row top-nav-row-1 top-nav-row-first"><dl class="sub-category"><dt><strong>Featured Gifts</strong></dt><dd><a href="http://www.peets.com/gifts-goods/featured-gifts/coffee-tea-tours.html">Coffee &amp; Tea Tours</a></dd>
+<div class="top-nav-row top-nav-row-1 top-nav-row-first"><dl class="sub-category"><dt><strong>Featured Gifts</strong></dt><dd><a href="http://www.peets.com/gifts-goods/featured-gifts/fathers-day-gifts.html">Father's Day Gifts</a></dd>
+<dd><a href="http://www.peets.com/gifts-goods/featured-gifts/brewing-gifts.html">Brewing Gifts</a></dd>
+<dd><a href="http://www.peets.com/gifts-goods/featured-gifts/coffee-tea-tours.html">Coffee &amp; Tea Tours</a></dd>
 <dd><a href="http://www.peets.com/gifts-goods/featured-gifts/gifts-goods-top-sellers.html">Top Sellers</a></dd>
 <dd><a href="http://www.peets.com/gifts-goods/featured-gifts/gifts-goods-gift-collections.html">Gift Collections</a></dd>
 </dl><dl class="sub-category"><dt><strong>By Price</strong></dt><dd><a href="http://www.peets.com/gifts-goods/by-price/gifts-goods-shop-by-price-gifts-under-25.html">Gifts under $25</a></dd>
-<dd><a href="http://www.peets.com/gifts-goods/by-price/gifts-goods-shop-by-price-gifts-25-50.html">Gifts $25 - $50</a></dd>
-<dd><a href="http://www.peets.com/gifts-goods/by-price/gifts-goods-shop-by-price-gifts-50-100.html">Gifts $50 - $100</a></dd>
+<dd><a href="http://www.peets.com/gifts-goods/by-price/gifts-goods-shop-by-price-gifts-25-50.html">Gifts $25 – $50</a></dd>
+<dd><a href="http://www.peets.com/gifts-goods/by-price/gifts-goods-shop-by-price-gifts-50-100.html">Gifts $50 – $100</a></dd>
 <dd><a href="http://www.peets.com/gifts-goods/by-price/gifts-goods-shop-by-price-gifts-over-100.html">Gifts over $100</a></dd>
 </dl><dl class="sub-category"><dt><strong>By Tea</strong></dt><dd><a href="http://www.peets.com/gifts-goods/by-tea/gifts-goods-tea-gifts.html">Tea Gifts</a></dd>
 <dd><a href="http://www.peets.com/gifts-goods/by-tea/gifts-goods-tea-samplers.html">Tea Samplers</a></dd>
@@ -344,8 +372,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="top-nav-callout"><div class="top-nav-callout-content"><span>Coffee &amp; Tea tours make great gifts. </span></div></div>
 
 </div>
-<div class="top-nav-aside"><div class="top-nav-aside-content"><div class="top-nav-aside-img"><img src="http://d3mrtwiv4dr09z.cloudfront.net/media/catalog/category/gifts-goods-center-item-gift-collections_2.jpg" alt="Gifts " title="Gifts "></div><div class="top-nav-aside-text"><h3>Peet's Gifts and Goods</h3><p><span>Share your love of all things Peet’s—or keep it all for yourself.</span></p>
-<p><a href="/gifts-goods.html"><span>Shop Now »</span></a></p></div></div></div>
+<div class="top-nav-aside"><div class="top-nav-aside-content"><div class="top-nav-aside-img"><img src="http://d3mrtwiv4dr09z.cloudfront.net/media/catalog/category/peet_s_logo_items.jpg" alt="Gifts " title="Gifts "></div><div class="top-nav-aside-text"><h3>Peet's Logo Gifts</h3><p><span>Give them a symbol of your shared affection.</span></p>
+<p><a href="/gifts-goods/other-gifts/gifts-goods-drinkware-logo-items.html"><span>Shop Now »</span></a></p></div></div></div>
 
 </div>
 </div></li><li class="level0 nav-5 level-top parent" data-sub-nav-toggle="sub-nav-5">
@@ -363,13 +391,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="top-nav-row top-nav-row-1 top-nav-row-first"><dl class="sub-category"><dt><strong>Create Subscription</strong></dt><dd><a href="http://www.peets.com/subscriptions/create-subscription/subscription-items-coffee.html">Coffee Subscriptions</a></dd>
 <dd><a href="http://www.peets.com/subscriptions/create-subscription/tea-subscriptions.html">Tea Subscriptions</a></dd>
 <dd><a href="http://www.peets.com/subscriptions/create-subscription/filters-accessories-subscriptions.html">Filters &amp; Accessories Subscriptions</a></dd>
+<dd><a href="http://www.peets.com/subscriptions/create-subscription/about-peets-subcriptions.html">About Peet's Subscriptions</a></dd>
 </dl><dl class="sub-category"><dt><strong>Manage Subscription</strong></dt><dd><a href="http://www.peets.com/subscriptions/manage-subscription/view-my-subscriptions.html">View my Subscription(s)</a></dd>
 </dl></div>
 </div></div>
-<div class="top-nav-callout"><div class="top-nav-callout-content"><span>Save 50% off shipping with your subscription.</span></div></div>
+<div class="top-nav-callout"><div class="top-nav-callout-content"><span>10% Savings on all Peet’s Coffee and Tea Subscriptions</span></div></div>
 
 </div>
-<div class="top-nav-aside"><div class="top-nav-aside-content"><div class="top-nav-aside-img"><img src="http://d3mrtwiv4dr09z.cloudfront.net/media/catalog/category/Nav_RR_Subscriptions-Short.jpg" alt="Subscriptions" title="Subscriptions"></div><div class="top-nav-aside-text"><h3>Peet's Subscriptions</h3><p>- 50% Off Shipping<br>- Ultimate Freshness<br>- Peet's Wide Variety<br>- Convenience and Flexibility</p>
+<div class="top-nav-aside"><div class="top-nav-aside-content"><div class="top-nav-aside-img"><img src="http://d3mrtwiv4dr09z.cloudfront.net/media/catalog/category/TopNavRR_SubscriberBenefits.jpg" alt="Subscriptions" title="Subscriptions"></div><div class="top-nav-aside-text"><h3>New Subscriber Benefits</h3><p>-10% off all Subscriptions<br>-Subscriber Exclusive Coffees<br>-Discounted Shipping<br>-Convenience and Flexibility</p>
 <p><a href="/subscriptions.html">Learn More »</a></p></div></div></div>
 
 </div>
@@ -386,7 +415,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="top-nav-items">
 <div class="top-nav-items-inner">
 <div class="top-nav-row top-nav-row-1 top-nav-row-first"><dl class="sub-category"><dt><strong>Menus</strong></dt><dd><a href="http://www.peets.com/stores/menus/coffee-espresso-beverages.html">Coffee &amp; Espresso Beverages</a></dd>
-<dd><a href="http://www.peets.com/stores/menus/stores-blended-freddo.html">Blended Freddo Iced Beverages</a></dd>
+<dd><a href="http://www.peets.com/stores/menus/stores-javiva-blended.html">Blended Refreshment</a></dd>
 <dd><a href="http://www.peets.com/stores/menus/tea-beverages.html">Tea Beverages</a></dd>
 <dd><a href="http://www.peets.com/catalog/category/view/s/coffee-free-beverages/id/108/">Coffee-Free Beverages</a></dd>
 <dd><a href="http://www.peets.com/stores/menus/fresh-food.html">Fresh Food</a></dd>
@@ -398,8 +427,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="top-nav-callout"><div class="top-nav-callout-content"><span>Enjoy creamy almond milk in any beverage.</span></div></div>
 
 </div>
-<div class="top-nav-aside"><div class="top-nav-aside-content"><div class="top-nav-aside-img"><img src="http://d3mrtwiv4dr09z.cloudfront.net/media/catalog/category/TopNavRR_Chai_Beverages.jpg" alt="Stores" title="Stores"></div><div class="top-nav-aside-text"><h3>Peet’s New Chai Latte Recipe</h3><p>A microbrewed blend of teas and spices, lightly sweetened, with steamed milk.</p>
-<a title="New Chai Latte Recipe" href="/stores/menus/tea-beverages/masala-chai-latte.html"><span>Learn More »</span></a></div></div></div>
+<div class="top-nav-aside"><div class="top-nav-aside-content"><div class="top-nav-aside-img"><img src="http://d3mrtwiv4dr09z.cloudfront.net/media/catalog/category/TopNavRR_ColdBrew.jpg" alt="Stores" title="Stores"></div><div class="top-nav-aside-text"><h3>The Black &amp; White</h3><p>Layered sweetened condensed milk, Cold Brew, chicory simple syrup and a float of half-and-half</p>
+<a title="Black Tie" href="/stores/menus/coffee-espresso-beverages/black-tie.html"><span>Learn More »</span></a></div></div></div>
 
 </div>
 </div></li>         </ul>
@@ -494,7 +523,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </script>
 </div>
 </form>
-        </div>
+                    </div>
 	</div>
 </div>
         <div class="wrapper">
@@ -610,7 +639,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <div id="footer">
 	<div class="main content">
-		<div class="footerPrimaryLinks footerMenu">
+        		<div class="footerPrimaryLinks footerMenu">
 			<ul>
 <li><a href="http://www.peets.com/customer/account/login">My Account</a></li>
 <li><a href="https://www.peets.com/customer-service/contact-us">Customer Service</a></li>
@@ -651,7 +680,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li><a href="http://www.peets.com/business/corporate-gifting">Corporate Gifting</a></li>
 <li><a href="http://www.peets.com/business/office-coffee">Office Coffee</a></li>
 <li><a href="http://www.peets.com/business/food-services">Food Service</a></li>
-<li><a href="http://www.peets.com/business/affiliate-program">Affiliate Program</a></li>
 </ul>		</div>
 
 		<div class="footerJoinUsMenu footerMenu">
@@ -661,21 +689,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li><a href=" http://www.facebook.com/peets" target="_blank"><img src="http://dy999ib17dqym.cloudfront.net/skin/frontend/peets/main/images/facebookicon.png" alt="">Facebook</a></li>
 <li><a href=" http://www.instagram.com/peetscoffee" target="_blank"><img src="http://dy999ib17dqym.cloudfront.net/skin/frontend/peets/main/images/instagramicon.png" alt="">Instagram</a></li>
 </ul>		</div>
-
+        
 		<div class="copyright">
-			<p><span>© 2014 PEET’S COFFEE &amp; TEA</span> <a href="/privacy-policy">PRIVACY POLICY</a> <a href="/terms-of-service">TERMS OF SERVICE</a></p>
+			<p><span>© 2015 PEET’S COFFEE &amp; TEA</span> <a href="/privacy-policy">PRIVACY POLICY</a> <a href="/terms-of-service">TERMS OF SERVICE</a></p>
 
 		</div>
 	</div>
 </div>
-<div style="display: none;"><p>2014-10-19 10:35:20</p></div>
+<div style="display: none;"><p>2015-06-08 12:26:10</p></div>
 
             <div style="display: none;"><p>Auto Coupon Caught!</p></div>        </div>
         <script type="text/javascript"> if (!window.mstag) mstag = {loadTag : function(){},time : (new Date()).getTime()};</script> <script id="mstag_tops" type="text/javascript" src="//flex.msn.com/mstag/site/e13c7edd-6972-4856-be7f-1ac9431c68c8/mstag.js"></script> <script type="text/javascript"> mstag.loadTag("analytics", {dedup:"1",domainId:"21940",type:"1",actionid:"163815"})</script> <noscript> <iframe src="//flex.msn.com/mstag/tag/e13c7edd-6972-4856-be7f-1ac9431c68c8/analytics.html?dedup=1&domainId=21940&type=1&actionid=163815" frameborder="0" scrolling="no" width="1" height="1" style="visibility:hidden;display:none"> </iframe> </noscript>
 <script type="text/javascript">
 setTimeout(function()
 {var a=document.createElement("script"); var b=document.getElementsByTagName("script")[0]; a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0021/2950.js?"+Math.floor(new Date().getTime()/3600000); a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-</script>        <script type="text/javascript" src="http://d3mrtwiv4dr09z.cloudfront.net/media/js/086cad3c5f3da54979b738f929408f99.js?v=34" id="js002"></script>
-    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"5c555fe63a","applicationID":"2174342","transactionName":"YFAENkMACxVUARdaClkaJwFFCAoIGgEOQEpHVAEHHhcMA0I=","queueTime":0,"applicationTime":310,"ttGuid":"","agentToken":"","atts":"TBcHQAsaGBs=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+</script>        <script type="text/javascript" src="http://d3mrtwiv4dr09z.cloudfront.net/media/js/086cad3c5f3da54979b738f929408f99.js?v=47" id="js002"></script>
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"5c555fe63a","applicationID":"2174342","transactionName":"YFAENkMACxVUARdaClkaJwFFCAoIGgEOQEpHVAEHHhcMA0I=","queueTime":0,"applicationTime":229,"atts":"TBcHQAsaGBs=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+</body></html>
