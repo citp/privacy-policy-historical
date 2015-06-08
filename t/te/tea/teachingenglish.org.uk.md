@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teachingenglish.org.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120045902id_/http%3A//www.britishcouncil.org/terms-conditions/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachingenglish.org.uk privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609002214id_/http%3A//www.britishcouncil.org/terms-conditions/privacy) for the most accurate reproduction.*
 
-# Privacy | British Council
+# Privacy policy | British Council
 
 The British Council creates international opportunities for the people of the UK and other countries and builds trust between them worldwide. We are committed to ensuring that personal information is protected and managed in accordance with UK law, international good practice and individuals’ rights. We collect and use personal information in order to help us offer individuals appropriate information, products and services.
 
