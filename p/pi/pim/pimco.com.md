@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pimco.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101113551id_/http%3A//www.pimco.com/EN/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pimco.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608045241id_/http%3A//www.pimco.com/EN/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # PIMCO | Privacy Policy
 
