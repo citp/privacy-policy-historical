@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 101webdesigns.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225071154id_/http%3A//101webdesigns.com/privacy-policy-use-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 101webdesigns.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608081421id_/http%3A//101webdesigns.com/privacy-policy-use-cookies) for the most accurate reproduction.*
 
 # Privacy Policy And Use of Cookies -
 
@@ -29,5 +29,6 @@ Ads and links technology is used by third party ad servers and networks to send 
 If you require more information or want to ask questions about our privacy policy, please contact us through email at: [contact@101webdesigns.com](mailto:%20contact@101webdesigns.com) **  
 **
 
+  
   
 
