@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alexarankingoptimization.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921035044id_/http%3A//alexarankingoptimization.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexarankingoptimization.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608073117id_/http%3A//alexarankingoptimization.com/index.php/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# AlexaRankingOptimization.com : Alexa Traffic Exchange Platform
 
 [](http://www.youtube.com/embed/kfoS-E6Mn90 "Alexa Ranking Optimization \(ARO\)")
 
@@ -23,16 +23,16 @@ It may be necessary, if required by law or judicial or governmental investigatio
 
 * * *
 
-**895**  
+**1096**  
 Total Websites Optimized
 
 |              | 
 
- **3874543**  
+ **5025353**  
 Total Traffic Delivered through ARO Platform  
   
 ---|---|---  
   
 * * *
 
-© 2014 Alexa Ranking Optimization (ARO). All Rights Reserved.
+© 2015 Alexa Ranking Optimization (ARO). All Rights Reserved.
