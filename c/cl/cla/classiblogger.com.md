@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the classiblogger.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117212004id_/http%3A//www.classiblogger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classiblogger.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608161709id_/http%3A//www.classiblogger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Classi Blogger
 
 If you require any information or have any questions about our privacy policy, please feel free to contact us by email at **nirmal@classiblogger.com**.
 
-At **[www.classiblogger.com](https://web.archive.org/web/20141117212004id_/http://www.classiblogger.com/privacy-policy/www.classiblogger.com)** , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.classiblogger.com/ and how it is used.
+At **[www.classiblogger.com](http://www.classiblogger.com/)** , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.classiblogger.com/ and how it is used.
 
 **Log Files**
 
