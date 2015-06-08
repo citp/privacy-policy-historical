@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iafstore.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210001102id_/http%3A//www.iafstore.com/npag.asp%3Fn%3D47%26m%3D45%26t%3DCustomer%2520Care) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iafstore.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608024652id_/http%3A//www.iafstore.com/usa/customer-care-privacy-policy) for the most accurate reproduction.*
 
 # IAFSTORE - Customer Care - Privacy Policy
 
@@ -60,6 +60,8 @@ answer all requests for cancellation, variation and integration of personal data
 ensure that data processing is conducted fairly and legally, protecting user privacy and implementing appropriate measures for security and protection of the privacy, integrity and availability of the data provided by users.
 
 **Cookies**
+
+See our cookie policy at: [/customer-care-cookie-policy](https://web.archive.org/customer-care-cookie-policy)
 
 Our site uses automatic systems to collect data that is not directly communicated by the user, such as cookies. A cookie is an application transmitted to the user’s hard disk; it does not contain any comprehensible information but associates the user with the personal information registered on the web site. Cookies are stored on our server and no one has access to the information they contain. Only IAFSTORE processes the information collected through cookies, only in anonymous and aggregate status, in order to optimize our services and our site in relation to the specific requirements and preferences of our users.  
 Internet browsers have a function that makes it possible to cancel cookies after each session. The browser provides instructions on the cancellation procedure. Familiarise yourself with it.  
