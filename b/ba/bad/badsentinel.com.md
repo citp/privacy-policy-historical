@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badsentinel.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225233426id_/http%3A//badsentinel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badsentinel.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608114938id_/http%3A//badsentinel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – badSENTINEL
 
