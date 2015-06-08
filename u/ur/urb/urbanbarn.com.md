@@ -1,30 +1,72 @@
-> *The following text is extracted and transformed from the urbanbarn.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121003345id_/http%3A//www.urbanbarn.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanbarn.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608155415id_/http%3A//www.urbanbarn.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
 # Privacy and Security
 
-Privacy Policy **PRIVACY POLICY**
+**PRIVACY POLICY**
 
-**Our commitment to Protecting your Privacy**
+**OUR COMMITMENT TO PROTECTING YOUR PRIVACY**
 
 We value you as our customer, and want to ensure you that our entire company is committed to respecting your privacy. We collect information about you in our stores and through our website in an effort to improve your shopping experience and to communicate with you about our products, services, contests and promotions. We recognize your need for the protection and fair handling of any Personal Information that you provide to us. This policy demonstrates our commitment to your privacy.
 
-   **The Fair Information Principles**
+**YOUR CONSENT**
 
-Our Privacy Policy is designed to comply with applicable privacy legislation in Canada. It incorporates the following 10 principles:  
+When you provide Urban Barn with your personal information, you consent to Urban Barn's collection, use, disclosure, and retention of your information in accordance with this Privacy Policy and as otherwise permitted by law.
 
+**PERSONAL INFORMATION**
 
-  * Collecting your personal information - Urban Barn only collects information necessary to conduct its business, including marketing and promoting its products, as well as understanding your interests and preferences to serve you better.
-  * Accountability - Urban Barn is responsible for maintaining and protecting your personal information under its control. Accountability for this function is with the Director, Sales and Store Operations and the Marketing Manager.
-  * Identifying Purpose - Urban Barn will let you know the purpose for which personal information is collected at or before the time the information is collected.
-  * Consent – Your knowledge and consent are required before Urban Barn is allowed to collect, use or disclose your personal information. Where possible, Urban Barn will obtain consent directly from you at the time of collection. After having provided consent, you have the right to withdraw consent at any time by providing reasonable notice to the Marketing Manager. If you wish to stop receiving email marketing communication from Urban Barn you can simply hit the “unsubscribe” button at the bottom of our emails at any point in time. By subscribing to our email newsletter, or otherwise indicating approval, you consent to the collection and use of your personal information for the purposes identified in this Privacy Policy.
-  * Limiting Collection - Urban Barn only collects the information that is necessary for the purposes outlined in this Privacy Policy.
-  * Accuracy of Personal Information - Personal information is kept as accurate, complete and up to date as necessary for the purposes for which it is to be used. You are encouraged to provide updates to your personal information as changes occur.
-  * Safeguarding Personal Information - Your personal information, whatever its form, will be protected by security safeguards appropriate to the sensitivity of the information. The safeguards will protect your personal information against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. The measures of protection include:
-  * Physical measures, for example, locking filing cabinets and restricted access to offices;
-  * Organizational measures, for example, security passes and limiting access to the personal information on a “need-to-know” basis; 
-  * Technological measures, for example, the use of passwords and encryption; and
-  * Procedural measures, for example, the shredding of sensitive personal information.
-  * Access to Personal Information - You may request a copy of your personal information held at Urban Barn by submitting a written request to the Marketing Manager at our head office (please refer to our website for the address). Acceptable proof of identification is required before such information is given out. The Marketing Manager will respond to your request within 30 days. If you feel the information we have about you is inaccurate, you may request that it be reviewed and, if inaccurate, changed, by contacting the Marketing Manager.
-  * Challenging Compliance - An individual can challenge compliance with the above policy by providing written details of the challenge to the Marketing Manager.
+"Personal information" means information about an identifiable individual. Personal information does not include information to enable an individual at a place of business to be contacted and includes the name, position name or title, business telephone number, business address, business email or business   
+fax number of the individual.
 
-   **Answering Your Privacy Questions**     Urban Barn encourages you to review this policy periodically. If you have any questions about how we treat your Personal Information, please contact the Marketing Manager: **Email:**[ marketing@urbanbarn.com](mailto:marketing@urbanbarn.com) **Phone:** 604-456-2200
+**Collecting Information About You:**
+
+It is always your choice to provide us with your personal information. We collect your information to provide you with products and services you have requested and to offer you information about additional products and services you may be of interest to you. You may be asked to provide your personal information to Urban Barn to verify your identity for fraud prevention purposes. In some cases, if you choose not to provide certain requested personal information, you may not be able to purchase or return products or services, or access or use certain features of Urban Barn's website.
+
+**Using Information About You:**
+
+Urban Barn uses your personal information for various purposes in connection with our relationship with you for the provision of our products and services. This may include correspondence with you regarding your transactions, to provide you with information regarding our announcements, promotions, upcoming events, new products, and store openings.
+
+Urban Barn will not require you to consent to any promotional uses as a condition of the supply of a product or service. We will always seek your express consent for such correspondence. You will always be allowed to opt-out of communications from us unless required for the provision of a product or service you have requested or in accordance with the law. We may also use your information for purposes related to your purchase of products and services, including delivery, facilitating returns, warranty coverage, rebates, and repairs. 
+
+Urban Barn may combine your personal information collected through various sources, including information collected at our retail stores and through our websites, and information obtained from other sources to develop a confidential profile for you to facilitate transactions with Urban Barn. 
+
+**COOKIES AND OTHER TECHNOLOGIES**
+
+Urban Barn's website, online services, e-mail messages, and advertisements may use "cookies" and other similar technologies, such as web beacons, pixel or gif tags, and action tags. Those technologies collect information about how you use our website and your interests that assists Urban Barn to improve products and services, advertising, customer communications and the shopping experience. 
+
+**THIRD PARTY ANALYTICS OR AD SERVING SERVICES**
+
+Urban Barn uses certain third-party analytics and/or ad serving services on its websites. The providers of these services may independently collect, use, and disclose your IP address together with information (not including your name, address, e-mail address, or telephone number) about your visits to this and other websites that they service in accordance with their own privacy policies (and not this privacy policy). These services may use their own cookies and other data collection technologies. They may use this information in order to improve your experience, to gain a view of how people are using websites that they service so that improvements can be made, and as otherwise permitted in their privacy policies.
+
+**SOCIAL NETWORKING AND SIMILAR SITUATIONS**
+
+When you use social networking aspects of Urban Barn's websites (e.g. links to Facebook, Pinterest, or Instagram), or post information to other social networking sites, the personal information that you post or share in connection with these third party sites is visible to other persons and can be read, collected, used and disclosed by other persons, including to send unsolicited messages. In this case, you will be leaving Urban Barn's website and going to the third party's website. Any information provided to such third party social networking sites and other sites is governed by their own privacy policies, which you may read on the applicable site. You are solely responsible for the personal information that you choose to post or share in those situations. Urban Barn has no control over, or responsibility or liability for, the use, disclosure, and retention of the personal information that you disclose in those situations, and the use, disclosure, and retention of the disclosed information is not subject to this Privacy Policy. Please be careful when disclosing your personal information in those situations.
+
+**RETENTION, LOCATION, AND PROTECTION OF PERSONAL INFORMATION**
+
+Urban Barn retains your personal information for the period necessary to fulfill the purposes you provided it to us, as outlined in this Privacy Policy, or such longer retention period as may be required or permitted by applicable law.
+
+Some of the service providers we use to store and collect data are located outside Canada. Therefore, we will store and process your personal information in Canada and other countries. The laws of other countries regarding the collection, use, disclosure, and retention of personal information may be different from the laws of Canada. The disclosure of your information in accordance with this Privacy Policy may result in your personal information being transferred outside of Canada,  
+or your country. 
+
+Urban Barn employs reasonable safeguards - including administrative, technical and physical measures - appropriate to the sensitivity of the personal information in its possession or under its control in order to protect that information from unauthorized access, collection, use, disclosure, disposal, or similar risks. While Urban Barn uses reasonable efforts to protect your information, no method of transmission over the Internet, or method of electronic storage, is 100% secure, and therefore, Urban Barn cannot guarantee absolute security of your personal information. 
+
+When we use service providers, we use contractual means to help ensure your personal information remains secure in a manner consistent with this policy and applicable laws. If you do not wish us to provide your personal information to a service provider you can advise us, however, we may not be able to provide you with an associated service or product. 
+
+In some cases, we may be permitted or required by law to disclose personal information. For example, we may disclose your information in certain circumstances to comply with a subpoena or warrant, in response to a law enforcement body with the lawful authority to obtain the information, pursuant to an investigation into the breach of a law, or our legal counsel. 
+
+**OTHER MATTERS**
+
+Personal Information of Children 
+
+Urban Barn does not knowingly collect personal information from children who are under 13 years of age. Please immediately contact Urban Barn's Chief Privacy Officer at one of the addresses noted below if you believe that Urban Barn has unintentionally collected personal information from a child under 13 years of age. If Urban Barn learns that it has inadvertently collected the personal information of a child under 13 years of age, Urban Barn will use reasonable efforts to delete that information from its systems (except to the extent that retention of the personal information is required or permitted by applicable law). 
+
+Policy Changes
+
+Urban Barn may change this Privacy Policy from time to time by posting a new version of this Privacy Policy on Urban Barn's website www.urbanbarn.com. Urban Barn's collection, use, disclosure, and retention of your personal information will be governed by the version of this Privacy Policy in effect at that time. Your continued dealings with Urban Barn subsequent to any changes to this Privacy Policy will signify your consent to the collection, use, disclosure, and retention of your personal information in accordance with the changed Privacy Policy. Accordingly, you should check the "Last updated" date of this Privacy Policy (at the bottom of the page) and review any changes since the last version. 
+
+Unsubscribing to Newsletters and Messages 
+
+You may unsubscribe from Urban Barn's electronic newsletters and similar messages by using the applicable self-service unsubscribe procedure (for example, by clicking an unsubscribe link in an e-mail or adjusting your website user account preferences) or by contacting Urban Barn's Customer Care contact@urbanbarn.com or 1-844-456-2200. 
+
+Our privacy officer can be contacted at: [ chiefprivacyofficer@urbanbarn.com](mailto:Our%20privacy%20officer%20can%20be%20contacted%20at:%20chiefprivacyofficer@urbanbarn.com)   
+
