@@ -1,48 +1,19 @@
-> *The following text is extracted and transformed from the probtemplates.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120194224id_/http%3A//www.probtemplates.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the probtemplates.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608081508id_/http%3A//www.probtemplates.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Blogger Templates | Probtemplates
+# Privacy Policy
 
-##  [Privacy Policy](http://www.probtemplates.com/p/privacy-policy.html)
+We respect your privacy. We won’t use your email address or name other than sending you a newsletter (if you have subscribed), or to contact you in reference to any issue which is currently open or was open in past between you and **Probtemplates.**
 
-  
+We do not have added any cookie to track you, based on your preferences and your visit to our site and other sites on the internet.
 
+We won’t share your personal data e.g. email address, contact number, or any other personal material with any third-party which is not associated to **Probtemplates** Our third-party advertisers may add a cookie to determine targeted advertisements constructed on your favorites and your visit to our site and other sites on the internet. Our newsletter will always contain a link for deciding out anytime. As soon as you opt-out, we will eliminate your email id from our record.
 
-**Cookies & 3rd Party Advertisements**
+We do not share order templates with anyone, once we will deliver you the template we delete the template from our host.
+
+We do not show anyone of your purchase on our site.
+
+**Cookies and 3rd Party Advertisements**
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
-
-**__Log Files__**
-
-Like many other Web sites,  ** _ _[www.probtemplates.com](http://www.probtemplates.com/)__**   makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
-
-**__DoubleClick DART Cookie__**  
-
-.:: Google, as a third party vendor, uses cookies to serve ads on  ** _ _[www.probtemplates.com](http://www.probtemplates.com/)__**  .
-
-.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to  ** _ _[www.probtemplates.com](http://www.probtemplates.com/)__**  and other sites on the Internet. 
-
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - _[http://www.google.com/privacy_ads.html ](http://www.google.com/policies/technologies/ads/)_
-
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
-
-**Google Adsense and the DoubleClick DART Cookie**  
-Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
-
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
-
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, probtemplates.com | Resources for Web designers and Graphic Designers has no access or control over these cookies that may be used by third party advertisers.
-
-**Collection of Personal Information**  
-When visiting probtemplates.com | Resources for Web designers and Graphic Designers, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
-
-**Links to third party Websites**  
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
-
-**Changes to this Privacy Statement**  
-The contents of this statement may be altered at any time, at our discretion.
-
-If you have any questions regarding the privacy policy of probtemplates.com | Resources for Web designers and Graphic Designers then you may [Contact us](http://www.probtemplates.com/p/contact-me.html)
