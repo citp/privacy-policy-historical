@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebseven.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227085743id_/http%3A//celebseven.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebseven.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608044511id_/http%3A//celebseven.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Celeb Seven - Your Fame Gateway
 
