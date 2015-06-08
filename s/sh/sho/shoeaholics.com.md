@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the shoeaholics.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209060714id_/http%3A//www.shoeaholics.com/cookies-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoeaholics.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608094846id_/http%3A//www.shoeaholics.com/cookies-and-privacy-policy) for the most accurate reproduction.*
 
 # Shoeaholics | Cookie & Privacy Policy
+
+Close Window
+
+ENJOY A CHEEKY 10% OFF  
+YOUR FIRST ORDER BY SIGNING UP. 
 
 Kurt Geiger Limited ("we" and "us") is committed to protecting your privacy. This Privacy Policy explains how we use the information we collect about you to process orders and to provide an improved shopping experience, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. You can visit the Website without disclosing any personally identifiable information about yourself. This notice should be read in conjunction with the terms & conditions of use for Kurt Geiger Ltd (the "Website") of which it forms part (the "Terms"). By using this Website or submitting information to us through or in connection with this Website, you signify your consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy. If you do not agree with this Privacy Policy, you must not use this Website or submit information to us through or in connection with this Website. 
 
@@ -86,5 +91,3 @@ We are not responsible for the privacy policies and practices of other websites 
 ## Further information
 
 For further information from us on data protection and privacy or any requests concerning your personal information please write to Kurt Geiger Limited, 24 Britton Street, London, EC1M 5UA or email us at customerservice@shoeaholics.com
-
-Loading ...
