@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the doctorofcredit.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116133900id_/http%3A//www.doctorofcredit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctorofcredit.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608095925id_/http%3A//www.doctorofcredit.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Doctor Of Credit
+# Privacy Policy - Doctor Of Credit
 
 **What information do we collect?**
 
@@ -35,7 +35,7 @@ We implement a variety of security measures to maintain the safety of your perso
 
 We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
-After a transaction, your private information ([credit cards](http://www.doctorofcredit.com/credit-cards/), social security numbers, financials, etc.) will not be kept on file for more than 60 days.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days.
 
 **Do we use cookies?**
 
