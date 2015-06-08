@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cellunlocker.net privacy policy that was archived on 2014-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140909052203id_/http%3A//www.cellunlocker.net/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellunlocker.net privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608224918id_/http%3A//www.cellunlocker.net/privacy-statement.php) for the most accurate reproduction.*
 
-# Cellunlocker.net - Privacy Statement
+# Privacy Statement | Cellunlocker.Net
 
 ## Privacy Statement
 
