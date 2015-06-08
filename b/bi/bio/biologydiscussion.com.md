@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biologydiscussion.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208025550id_/http%3A//www.biologydiscussion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biologydiscussion.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609000131id_/http%3A//www.biologydiscussion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Biology Discussion
 
