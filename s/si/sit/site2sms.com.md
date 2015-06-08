@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the site2sms.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701093757id_/http%3A//site2sms.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the site2sms.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608095931id_/http%3A//www.site2sms.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy Site2SMS - India's Largest Messaging Service
 
@@ -49,7 +49,7 @@ Event based services such as renewal notices, invites, email alerts , reminders 
 Promotional SMSes on behalf of our alliance partners 
 
 We use your personal information to:   
-help us provide personalized features tailor our sites to your interest to get in touch with you in the case of password retrieval and policy changes to provide the services requested by you to preserve social history as governed by existing law or policy   
+help us provide personalized features tailor our sites to our users interest to get in touch with you in the case of password retrieval and policy changes to provide the services requested by you to preserve social history as governed by existing law or policy   
 We use contact information internally to:   
 direct our efforts for product improvement contact you as a survey respondent notify you if you win any contest; and send you promotional materials from our contest sponsors or advertisers 
 
@@ -60,8 +60,9 @@ We need to share the information with certain service partners in order to respo
 We respond to requests from any Indian or foreign government, security, defence, revenue, regulatory or other authority, agency or officer;   
 We reserve the right to disclose your personally identifiable and email address information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.   
 We share your information with advertisers on an aggregate basis only.   
+We can use the contacts information you store in the Phone Book Feature in your account to help other users track the unknown caller/mobile numbers with help of our Mobile Tracker Feature.   
 Security   
-We follow generally accepted industry standards to protect the personal information and email address, Mobile Number submitted to us, both during transmission and once we receive it. Youe Site2Sms Account is password protected.No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information and email address and Mobile Number, we cannot guarantee its absolute security. 
+We follow generally accepted industry standards to protect the personal information and email address, Mobile Number submitted to us, both during transmission and once we receive it. Your Site2Sms Account is password protected.No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information and email address and Mobile Number, we cannot guarantee its absolute security. 
 
 If you have any questions about security on our Web site, you can send email us at support@Site2Sms.com   
 Your Preferences to Edit and Delete Your Account Information   
@@ -69,7 +70,7 @@ Site2Sms gives you the ability to edit your Site2Sms account information and pre
 You may request us to delete your account by emailing to support@Site2Sms.com. We send you a 4 digit unique number to your Mobile number, using this you can unsubscribe/delete your account. 
 
 Policy Updates   
-We reserve the right to change or update this policy at any time by placing a prominent notice on our site. Such changes shall be effective immediately upon posting to this site.   
+We reserve the right to change or update this policy at any time. Such changes shall be effective immediately upon posting to this site.   
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, or by means of a notice on our homepage. 
 
 If you have questions or suggestions contact us.   
