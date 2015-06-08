@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the itsbx.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228180052id_/http%3A//www.itsbx.com/faq.php%3Ffaq%3Dprivacy_statement%23faq_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsbx.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608174918id_/http%3A//www.itsbx.com/faq.php%3Ffaq%3Dprivacy_statement%23faq_privacy) for the most accurate reproduction.*
 
-# ItsBX.Com - BX's Urban Hot Topic Blog - FAQ: Privacy
+# ItsBX - #top20 list | hot topic blog - FAQ: Privacy
 
 ItsBX values your privacy. Your registration information and any other details you place on our sites are subject to our Privacy Policy. Any and all personal information you provide us will be kept strictly confidential and will not be sold, reused, rented, disclosed, or loaned to anyone outside ItsBX. 
 
