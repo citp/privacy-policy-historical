@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdnetworks.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221055634id_/http%3A//www.cdnetworks.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdnetworks.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608123941id_/http%3A//www.cdnetworks.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | CDNetworks
 
@@ -28,6 +28,30 @@ Upon request, CDNetworks will provide you with access to your personal informati
 
 **Use of Cookies  
 **A cookie is a small data file transferred by a website to your computer’s hard drive. We send cookies when you visit this Website. Accepting the cookies does not give us access to your personal information. The aggregate information collected permits us to analyze traffic patterns on this Website. This can enable us over time to provide you with a better experience on this Website by improving the content and making it easier to use. Most browsers automatically accept cookies, but you can usually refuse cookies, or selectively accept certain cookies, by adjusting the preferences in your browser. If you turn off cookies, though, there may be some features of this Website that will not be available to you and some web pages may not display properly.
+
+**Cookies**  
+A cookie is a small data file, which is stored temporarily or permanently on your device (e.g. a computer or a smartphone) within the web browser, when certain web pages are visited. Cookies are not intended to contain or collect information in isolation, but when read by a server via a web browser, they can give information to facilitate a more user friendly service by collecting information on, among other data, preferences (such as a language preference), detect errors and/or collect data for statistics. Cookies contain a unique code which allow to recognize your browser while visiting a website (so-called “session cookie”) or also during later visits or later use (so-called “permanent cookie”).
+
+CDNetworks primarily makes use of cookies to enhance your surfing experience. All data we retrieve from our cookies is only used to understand your experience as a visitor on the website with the aim to improve the performance and usability on this website.
+
+This website uses different types of cookies:
+
+  * **Functional cookies** : These cookies are strictly necessary to enable you to move around the website or to provide certain features you have requested.
+  * **Optimization cookies:** These cookies help us to measure and improve the performance of the website providing you a better visitor experience.
+  * **Personalized and Third party cookies:** When you visit the CDNetworks websites you may notice some cookies that are not related to us. If you go on to a web page that contains embedded content, for example from Facebook or YouTube, you may be sent cookies from these websites. We do not control the generation of these cookies, so we suggest that you check the individual third-party websites for more information about their cookies and how to manage them.
+
+
+
+**Opting out of cookies?**  
+There are a number of options available to decline the use of cookies. Please visit the support websites of the different browsers to learn how to block the storage of cookies.
+
+Please note that if you disable cookies, you may not be able to use all functionalities of the CDNetworks websites.
+
+**Contact**  
+Any questions or complaints relating to the collection and processing of your personal data should be sent by email to the following address: [info@cdnetworks.com](mailto:info@cdnetworks.com). At this address you can also request to change your personal data, or have your personal data deleted. CDNetworks will answer your request within a reasonable time. You can also send your requests in writing to the following address:
+
+**CDNetworks address  
+**Juxon House, 100 St Paul’s Churchyard, London. EC4M 8BU , United Kingdom
 
 **Contacting Us  
 **If you have any questions or comments about this Privacy Statement, please contact us at [privacy@cdnetworks.com](mailto:privacy@cdnetworks.com).
