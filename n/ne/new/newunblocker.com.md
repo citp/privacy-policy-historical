@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newunblocker.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703015828id_/http%3A//www.newunblocker.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newunblocker.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608044617id_/http%3A//www.newunblocker.com/privacy-policy.php) for the most accurate reproduction.*
 
 # New Unblocker - Privacy Policy
 
