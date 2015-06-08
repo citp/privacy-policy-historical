@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the applevis.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122033426id_/http%3A//www.applevis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applevis.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608034810id_/http%3A//www.applevis.com/privacy) for the most accurate reproduction.*
 
-# AppleVis Privacy Statement and Copyright Notice | AppleVis
+# AppleVis Privacy Statement | AppleVis
 
 ### **General statement**
 
@@ -13,9 +13,3 @@ Apart from information that you volunteer to AppleVis either by emailing us or b
 ### **Collection and use of technical information**
 
 The website of AppleVis does not use cookies, apart from temporary "session" cookies which enable a visitor’s web browser to remember which pages on this website have already been visited. Visitors can use this website with no loss of functionality if cookies are disabled from the web browser.
-
-### **Copyright Notice**
-
-© 2014 AppleVis, All rights reserved
-
-Material on this website is protected by copyright. Any reproduction of material from this website must be requested and authorized in writing from AppleVis. Authorized reproduction of material must include all copyright and proprietary notices in the same form and manner as the original, and must not be modified in any way. Acknowledgement of the source of the material must also be included in all references.  AppleVis reserves the right to revoke such authorization at any time, and any such use must be discontinued immediately upon notice from AppleVis.
