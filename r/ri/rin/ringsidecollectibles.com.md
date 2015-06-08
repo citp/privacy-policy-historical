@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ringsidecollectibles.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127054330id_/http%3A//www.ringsidecollectibles.com/PRPO.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringsidecollectibles.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608235828id_/http%3A//www.ringsidecollectibles.com/PRPO.html) for the most accurate reproduction.*
 
 # Privacy Policy | Ringside Collectibles
 
@@ -15,3 +15,22 @@ Ringside Collectibles Inc. and its subsidiaries respect your right to privacy. W
 \- We recognize the unique privacy concerns regarding children. Pursuant to COPPA guidelines, we do not knowingly collect personally identifiable information or accept orders online from children under the age of 18. If a parent or guardian is made aware that a child under the age of 18 has provided us with personally identifiable information or placed an order without their consent, please contact us at 1-866-993-3448, by e-mail at cs@ringsidecollectibles.net, and we will remove the information and/or cancel the order.
 
 If you have an questions regarding the Privacy Policy, please **[Contact Us](http://www.ringsidecollectibles.com/mm5/merchant.mvc?Screen=CTUS&Store_Code=rsc)**
+
+Shop Products
+
+Shop By Superstar
+
+[](https://www.facebook.com/RingsideC)
+
+[](http://www.youtube.com/wrestlingfigscom)
+
+[](http://www.twitter.com/RingsideC)
+
+[](http://instagram.com/ringsidec#)
+
+[](http://wrestlingfigs.com/)
+
+[](http://www.ringsidecollectibles.com/ringside_toy_wrestling_action_figure_video_vault.html)
+
+  
+
