@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designwall.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215150326id_/http%3A//www.designwall.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designwall.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608042120id_/http%3A//www.designwall.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DesignWall
 
@@ -32,4 +32,4 @@ f you do not wish have cookies stored in your computer, should set your browsers
 
 #### Questions?
 
-Ask us on [Questions & Answers](http://www.designwall.com/question/) section or email us directly to [help@designwall.com](mailto:help@designwall.com) for personal assistance if you need to. We ensure to get you in the loop in the earliest time possible.
+Ask us on [Questions & Answers](http://cmspioneer.com/designwall/question/) section or email us directly to [help@designwall.com](mailto:help@designwall.com) for personal assistance if you need to. We ensure to get you in the loop in the earliest time possible.
