@@ -1,30 +1,47 @@
-<!--The following is the downloaded HTML source of the sideshow.com privacy policy that was archived on 2014-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628082643id_/http%3A//www.sideshowtoy.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sideshow.com privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608121038id_/http%3A//www.sideshowtoy.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta http-equiv="Cache-control" content="public">
 	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WHRK7N"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwIDVFFSGwYCXVVQBQk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
 
 
 	
-	
-		<title>Privacy  Policy | Sideshow Collectibles</title>
+					<title>Privacy  Policy | Sideshow Collectibles</title>
 		
-		<meta property="article:author" content="https://www.facebook.com/sideshowcollectibles">
+				<meta property="article:author" content="https://www.facebook.com/sideshowcollectibles">
 		<meta property="article:publisher" content="https://www.facebook.com/sideshowcollectibles">
-			
-		<meta property="og:title" content="">
-		<meta property="og:url" content="http://www.sideshowtoy.com/privacy-policy/">
-		<meta property="og:keywords" content="">
-		<meta property="og:description" content="">
-		<meta property="og:site_name" content="Sideshow Collectibles">
-		<meta property="fb:admins" content="502598040">
-
+		
+					<meta property="og:title" content="Privacy  Policy">
 				
-					<meta property="og:type" content="website">
+		<meta property="og:url" content="http://www.sideshowtoy.com/privacy-policy/">
+		<meta property="og:keywords" content="movie television and proprietary collectible figures, film collectibles, pop culture collectibles, Comics collectibles, figurines, star wars figures, star wars collectibles, marvel collectibles, disney collectibles, lord of the rings, the hobbit, lord of the rings collectibles, hot toys, wholesale collectibles, wholesale gifts, distributor, medicom, ironman, iron man, spider man, spider-man, thor, avengers, captain america, Comic Con, San Diego Comic Con, SDCC, Con Exclusive, comiccon">
+		
+					<meta property="og:description" content="">
+				
+		
+					<meta property="og:type" content="product">
+				
+		
+		<meta property="og:site_name" content="Sideshow Collectibles">
+		<meta property="fb:app_id" content="1489014738022622">
+		
+		<meta name="twitter:url" value="http://www.sideshowtoy.com/privacy-policy/">
+		<meta name="twitter:site" value="@collectsideshow">
+		<meta name="twitter:creator" value="@collectsideshow">
+		
+					<meta name="twitter:card" value="summary_large_image">
+				
+					<meta name="twitter:title" value="Privacy  Policy">
+				
+					<meta name="twitter:description" value="">
+		
+				
+					
 
-			<meta property="og:image" content="http://www.sideshowtoy.com/_lib/img/ico/sideshow-collectibles-350x350.jpg">	
+			<meta property="og:image" content="http://www.sideshowtoy.com/_lib/img/default-social-sharing-image.jpg"><meta name="twitter:image:src" content="http://www.sideshowtoy.com/_lib/default-social-sharing-image.jpg">	
 		
 	
 		<meta name="google-site-verification" content="kapIbcwzZa42tXgGcZWRlKSW_7kbCVpYBG9Zm4GyKrc">
@@ -32,7 +49,7 @@
 	
 	<!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 	
-	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WHRK7N"></script><script type="text/javascript">document.cookie='ssc_resolution='+screen.width+'; path=/';</script>
+	<script type="text/javascript">document.cookie='ssc_resolution='+screen.width+'; path=/';</script>
 	
 	
 	<link rel="shortcut icon" href="/favicon.ico">
@@ -42,20 +59,22 @@
 	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/_lib/img/ico/sideshow-collectibles-72.png">
 	<link rel="apple-touch-icon-precomposed" href="/_lib/img/ico/sideshow-collectibles-57.png">
 
-	<link href="/wp-content/themes/sideshow-theme/_lib/css/bootstrap.css?20140430a" rel="stylesheet" type="text/css">	
+	<link href="/wp-content/themes/sideshow-theme/_lib/css/bootstrap.css?05202015" rel="stylesheet" type="text/css">	
 	<link rel="stylesheet" type="text/css" href="/wp-content/themes/sideshow-theme/_lib/css/jquery.pnotify.default.css">
 	
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-	
+	<!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script> -->
+	<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+	<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+
 	<!-- fancybox -->
 	<link rel="stylesheet" href="/wp-content/themes/sideshow-theme/_lib/css/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen">
 	
 	<!-- Newsletter Subscribe JS Files -->
-	<script src="/_lib/js/ajax.Bronto.newsSubscribe.js"></script>
+	<script src="/_lib/js/ajax.Bronto.newsSubscribe.js?04212015"></script>
 	
 	<!-- Coupon code save and use JS files -->
-	<script src="/_lib/js/ajax.CouponCode.save.js"></script>
-	<script src="/_lib/js/ajax.CouponCode.use.js"></script>
+	<script src="/_lib/js/ajax.CouponCode.save.js?04032015"></script>
+	<script src="/_lib/js/ajax.CouponCode.use.js?04032015"></script>
 	
 	<!-- This is testing for matt.  Trying to fix IE issue -->
 	<!-- JQuery History.js Fix -->
@@ -139,31 +158,70 @@
 	<script type="text/javascript">
        var bamGAID = 'UA-710469-1';
 	</script>
+	
+	<script type="text/javascript">
+		//This will check for the promo url variable, and if it's set, will write it to a cookie so we can keep it and attach it in the checkout process
+		function getParameterByName(name) {
+			name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+			var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+				results = regex.exec(location.search);
+			return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+		}
+		var code = getParameterByName('promo');
+		if(code != ''){
+			setCookie("sideshow_promo", code, 1);
+		}
+	</script>
 		
 
-	<link rel="stylesheet" id="advanced-responsive-video-embedder-plugin-styles-css" href="http://www.sideshowtoy.com/wp-content/plugins/advanced-responsive-video-embedder/public/assets/css/public.css?ver=4.8.0" type="text/css" media="all">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.sideshowtoy.com/wp-includes/wlwmanifest.xml"> 
-<link rel="prev" title="Sideshow Newsletter" href="http://www.sideshowtoy.com/why-sideshow/newsletter/">
-<link rel="next" title="Legal Info" href="http://www.sideshowtoy.com/legal/">
-<meta name="generator" content="WordPress 3.8.3">
-<link rel="shortlink" href="http://www.sideshowtoy.com/?p=70">
-
-<!--Plugin WP Missed Schedule 2013.1231.2013 Active - Tag 6707293c0218e2d8b7aa38d418ffa608-->
-
-<!-- This site is patched which an important unfixed problem since WordPress 2.5+ to 3.9+ -->
-
-<style type="text/css">.arve-thumb-wrapper { width: 300px; }.arve-normal-wrapper.alignleft, .arve-normal-wrapper.alignright, .arve-normal-wrapper.aligncenter { width: 400px; }</style>
-
-<!-- All in One SEO Pack 2.1.7 by Michael Torbert of Semper Fi Web Design[609,616] -->
-<meta name="description" content="Updated April 14th 2014. Effective April 14th 2014. Information Collection and Use Sideshow, Inc. is the sole owner of the information collected on this">
+	
+<!-- All in One SEO Pack Pro 2.3.6.2 by Michael Torbert of Semper Fi Web Design[676,698] -->
+<!-- Debug String: QKGCX+PMZF4ZRJX26OGFXECY0K8 -->
+<meta name="description" itemprop="description" content="Updated April 14th 2014. Effective April 14th 2014. Information Collection and Use Sideshow, Inc. is the sole owner of the information collected on this">
 
 <link rel="canonical" href="http://www.sideshowtoy.com/privacy-policy/">
-<!-- /all in one seo pack -->
+		<script type="text/javascript">
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'sideshow']);
+		  _gaq.push(['_trackPageview']);
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+		</script>
+<!-- /all in one seo pack pro -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.sideshowtoy.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.sideshowtoy.com/wp-includes/js/wp-emoji-release.min.js?ver=4.2.2" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="advanced-responsive-video-embedder-css" href="http://www.sideshowtoy.com/wp-content/plugins/advanced-responsive-video-embedder/public/advanced-responsive-video-embedder-public.css?ver=5.4.1" type="text/css" media="all">
+<link rel="stylesheet" id="ditty-news-ticker-font-css" href="http://www.sideshowtoy.com/wp-content/plugins/ditty-news-ticker/assets/fontastic/styles.css?ver=1.5.3" type="text/css" media="all">
+<link rel="stylesheet" id="ditty-news-ticker-css" href="http://www.sideshowtoy.com/wp-content/plugins/ditty-news-ticker/assets/css/style.css?ver=1.5.3" type="text/css" media="all">
+<link rel="stylesheet" id="ditty-twitter-ticker-css" href="http://www.sideshowtoy.com/wp-content/plugins/ditty-twitter-ticker/assets/css/style.css?ver=1.2.16" type="text/css" media="all">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.sideshowtoy.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.2.2">
+<link rel="shortlink" href="http://www.sideshowtoy.com/?p=70">
+<style type="text/css">.arve-thumb-wrapper { max-width: 300px; }.arve-normal-wrapper.alignleft, .arve-normal-wrapper.alignright, .arve-normal-wrapper.aligncenter { max-width: 400px; }</style>
 	
 		
 	
-	  <script async="" type="text/javascript" src="//sideshowtoy.disqus.com/count.js"></script><script type="text/javascript" src="https://www.upsellit.com/launch/sideshowtoy.jsp"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-  <body class="page page-id-70 page-template page-template-template-general-text-php">
+	  <script type="text/javascript" async="" id="AddShoppers" src="https://shop.pe/widget/widget_async.js#537f6ea1a387646759d37a67"></script><script type="text/javascript" src="https://www.upsellit.com/launch/sideshowtoy.jsp"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+  <body class="page page-id-70 page-template page-template-template-general-text page-template-template-general-text-php">
 	<!-- Google Tag Manager -->
 	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WHRK7N" height="0"
 	width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -175,74 +233,83 @@
 	<!-- End Google Tag Manager -->
 
   	<header id="header">
+  								
   		  		
   		<div id="ribbon">
-	<div class="row">
-		<div class="col-md-4 col-sm-5 col-xs-7 hidden-xs">
-			<p><small>Call: <strong><a href="tel://+185574337469" title="Call Sideshow" class="tel">1.855.SIDESHOW</a></strong> &nbsp; Intl: <strong><a href="tel://+18052142157" class="tel" title="Call Sideshow">1.805.214.2157</a></strong></small></p>
-		</div><!-- .col -->
-		<div class="col-md-4 col-sm-3 col-xs-5 hidden-xs">
-			<p><small><span class="hidden-inline-sm">Have a Question? &nbsp; </span>Visit our <a href="/help/" title="Visit our Help Desk" target="_blank">Help Desk</a> or <span id="SnapEngageLink"></span></small></p>
-		</div><!-- .col -->
-		
-		<div class="clearfix visible-xs"></div>
-		
-		<div class="col-md-4 col-sm-4 col-xs-12">
-			<p class="pull-right"><small><a href="/cgi-bin/Make-a-Store.cgi?ref=HZ_cart" class="plain" title="View Cart"><span id="cart-state">0 items</span> in cart &nbsp; <span class="glyphicon glyphicon-shopping-cart"></span></a></small></p>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4 col-sm-5 col-xs-7 hidden-xs" id="phone-numbers">
+				<p><small>Call: <strong><a href="tel://+185574337469" title="Call Sideshow" class="tel">1.855.SIDESHOW</a></strong> Intl: <strong><a href="tel://+18052142157" class="tel" title="Call Sideshow">1.805.214.2157</a></strong></small></p>
+			</div><!-- .col -->
+			<div class="col-md-4 col-sm-3 col-xs-5 hidden-sm hidden-xs" id="live-chat">
+				<p><small><span class="hidden-inline-sm">Have a Question? </span>Visit our <a href="/help/" title="Visit our Help Desk" target="_blank">Help Desk</a> or <span id="SnapEngageLink"></span></small></p>
+			</div><!-- .col -->
+			
+			<div class="clearfix visible-xs"></div>
+			
+			<div class="col-md-4 col-md-offset-0 col-sm-5 col-sm-offset-2 col-xs-12" id="view-cart">
+				<p class="pull-right"><small><a href="/cgi-bin/Make-a-Store.cgi?ref=HZ_cart" class="plain" title="View Cart"><span id="cart-state">0 items</span> in cart <span class="glyphicon glyphicon-shopping-cart"></span></a></small></p>
 
-			<div id="account-state">
-				<p><small><a href="/cgi-bin/myhistory.cgi?login" title="Sign in to your account" id="btn-signup">Sign-in</a> &nbsp; &nbsp; &nbsp; <a href="/cgi-bin/adduser.cgi" title="Create an account" id="btn-register">Register</a></small></p>
-			</div><!-- #account-state -->
-		</div><!-- .col -->
-	</div><!-- .row -->
+				<div id="account-state">
+					<span><small><a href="/cgi-bin/myhistory.cgi?login" title="Sign in to your account" id="btn-signup">Sign in</a> &nbsp; &nbsp; &nbsp; <a href="/cgi-bin/adduser.cgi" title="Create an account" id="btn-register">Register</a> &nbsp; &nbsp; &nbsp; <a id="btn-subscribe" title="Subscribe" data-toggle="modal" data-target="#modal-global" data-content="newsletter"><i class="fa fa-envelope"></i> Subscribe</a></small></span>
+				</div><!-- #account-state -->
+			</div><!-- .col -->
+		</div><!-- .row -->
+	</div><!-- .container -->
 </div><!-- .ribbon -->
-  		<div class="row nav-row">
-	<div class="col-md-3 col-sm-3 hidden-xs site-logo">
-		<!-- <a href="http://www.sideshowtoy.com/" title="Sideshow Collectibles"><img src="http://www.sideshowtoy.com/wp-content/themes/sideshow-theme/_lib/img/sideshow-collectibles.png" width="220" height="70" class="img-responsive" alt="Sideshow Collectibles"/></a> -->
-		<a href="/about/sideshows-20th-anniversary-celebration/?ref=HeadNav-20thLogo" title="Sideshow Collectibles" class="hidden-xs hidden-sm"><img src="http://www.sideshowtoy.com/wp-content/themes/sideshow-theme/_lib/img/sideshow-collectibles-20th-logo.png" width="109" height="80" class="img-responsive" alt="Sideshow Collectibles"></a><a href="/" title="Sideshow Collectibles"><img src="http://www.sideshowtoy.com/wp-content/themes/sideshow-theme/_lib/img/sideshow-collectibles-20th-ssc.png" width="185" height="80" class="img-responsive" alt="Sideshow Collectibles"></a>
-	</div><!-- .col -->
-	<div class="col-md-9 col-sm-9 col-xs-12">
-		<form class="head-search-form hidden-xs" action="http://search.sideshowtoy.com/search" method="get" id="nxt-ac-form" onsubmit="return submitSearch();">
-			<input type="text" id="head-input-string" class="textfield form-control col-md-7" name="keywords" placeholder="Find Products"> &nbsp; <input type="submit" value="Search" class="submit btn btn-default" onkeypress="return handleEnter(this, event);">
-		</form>
-
-		<div class="navbar navbar-default" role="navigation">
+  		<div id="navigation" class="container">
+	<div class="row nav-row">
+		<div class="navbar navbar-default col-xs-12" role="navigation">
 			<div class="navbar-header">
-				<div class="row">
-					<div class="col-sm-6 col-xs-6">
-						<span class="mobile-site-logo"><a href="/?ref=HeadNav-Mobile-HomeLogo" title="Sideshow Collectibles"><!-- <img src="http://www.sideshowtoy.com/wp-content/themes/sideshow-theme/_lib/img/sideshow-collectibles.png" width="220" height="70" class="img-responsive" alt="Sideshow Collectibles"/> --> <img src="http://www.sideshowtoy.com/wp-content/themes/sideshow-theme/_lib/img/sideshow-collectibles-20th-ssc.png" width="185" height="80" class="img-responsive" alt="Sideshow Collectibles"></a></span>
-					</div><!-- .col -->
-					<div class="col-sm-6 col-xs-6">	
-						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-							<span class="sr-only">Toggle navigation</span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-						</button>
-						<p class="menu-label">Menu</p>
-					</div><!-- .col -->
-				</div><!-- .row -->
+				<div class="site-logo">
+					<a href="http://www.sideshowtoy.com/" title="Sideshow Collectibles"><img src="http://www.sideshowtoy.com/wp-content/themes/sideshow-theme/_lib/img/sideshow-logo-2015.svg" class="img-responsive" alt="Sideshow Collectibles"></a>
+				</div>
+				<div class="mobile-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+				</div>
 			</div><!-- .navbar-header -->
-			<div class="collapse navbar-collapse navbar-ex1-collapse">				
-				<ul class="nav navbar-nav">
-					<li class="hidden-xs first home-icon"><a href="/?ref=HeadNav-HomeIcon" title="Home"><span class="glyphicon glyphicon-home"></span></a></li>
 
-					<li class="visible-xs"><a href="/about/sideshows-20th-anniversary-celebration/?ref=HeadNav-20th" title="Sideshow Celebrates 20 Years"><span class="glyphicon glyphicon-star"></span> 20th Anniversary</a></li>
+			<div class="search-bar pull-right">
+				<form class="head-search-form" action="//search.sideshowtoy.com/search" method="get" id="nxt-ac-form" onsubmit="return submitSearch();">
+					<div class="input-group">
+	          <input type="text" id="head-input-string" class="textfield form-control" name="keywords" placeholder="Search collectibles...">
+	          <span class="input-group-btn">
+	            <input type="submit" value="Search" id="head-search-submit" class="submit btn btn-primary" onkeypress="return handleEnter(this, event);">
+	          </span>
+	        </div>
+        </form>
+			</div>
+
+			<div class="collapse navbar-collapse navbar-ex1-collapse">	
+				<div class="hidden-sm hidden-md hidden-lg">
+											<form class="mobile-search-form" action="http://search.sideshowtoy.com/search" method="get">
+							<div class="input-group">
+			          <input type="text" id="head-input-string" class="textfield form-control" name="keywords" placeholder="Search collectibles...">
+			          <span class="input-group-btn">
+			            <input type="submit" value="Search" id="head-search-submit" class="submit btn btn-primary">
+			          </span>
+			        </div>
+		        </form>
+									</div>
+
+				<ul class="nav navbar-nav">
+					<!-- <li class="hidden-xs first home-icon"><a href="/?ref=HeadNav-HomeIcon" title="Home"><span class="glyphicon glyphicon-home"></span></a></li> -->
 					
 					<li class="first"><a href="/whats-new/?ref=HeadNav-WhatsNew" title="Our Newest Releases and Previews"><strong>What's New</strong></a></li>
 					<li class="shop-by-link popular"><a href="/shop/?ref=HeadNav-BestSellers" title="Browse Popular Collectibles"><strong>Best Sellers</strong></a>
 						<span class="hidden-xs" data-promotion-id="promo-2"><div class="shop-by-menu popular-menu">
-	<div class="shop-by-more"><a href="/characters/?ref=Z1Bot-ShopAllCharacters" title="Shop All Characters" class="shop-all-characters">Shop All Characters »</a> <a href="/brands/?ref=Z1Bot-ShopAllBrands" title="Shop All Brands" class="shop-all-brands">Shop All Brands »</a> <a href="/collectibles/?ref=Z1Bot-BrowseAll" title="Browse All" class="browse-all">Browse All »</a></div>
+	<div class="shop-by-more">
+		<a href="/characters/?ref=Z1Bot-ShopAllCharacters" title="Shop All Characters" class="shop-all-characters">Shop All Characters »</a> <a href="/brands/?ref=Z1Bot-ShopAllBrands" title="Shop All Brands" class="shop-all-brands">Shop All Brands »</a> <a href="/collectibles/?ref=Z1Bot-BrowseAll" title="Browse All" class="browse-all">Browse All »</a>
+	</div>
 	<div class="row">
-		<div class="col-md-3 visible-md visible-lg">
-			<!--<script>
-				$(document).ready(function() {
-					$('#popular-ad').load('/wp-content/themes/sideshow-theme/_lib/inc/ajax.header.ad.php?'+ new Date().getTime());
-				});
-			</script>-->
-			
-			<div id="popular-ad" class="visible-md visible-lg shop-by-ad">
-				<a href="/collectibles/star-wars-snowtrooper-sideshow-collectibles-300192/?ref=HZ1B" title="Snowtrooper" target="_top"><img src="//www.sideshowtoy.com/wp-content/uploads/2014/06/300192-405x270.png" width="405" height="270" style="width: 405px; height: 270px; max-width: 405px; max-height: 270px;" alt="Snowtrooper"></a>			</div><!-- #shop-by-ad -->
+		<div class="col-md-3 visible-md visible-lg">			
+			<div class="visible-md visible-lg shop-by-ad">
+				<a href="/collectibles/dc-comics-batman-sideshow-collectibles-300131/?ref=HZ1B" title="Batman" target="_top"><img src="//www.sideshowtoy.com/wp-content/uploads/2015/06/300131-405x270.png" width="405" height="270" style="width: 405px; height: 270px; max-width: 405px; max-height: 270px;" alt="Batman"></a>			</div><!-- #shop-by-ad -->
 		</div><!-- .col -->
 		<div class="col-md-9 col-sm-12">
 			<div class="row">
@@ -252,17 +319,37 @@
   								
 																
 											<ul class="list-unstyled">
+											<h5><a href="/brands/star-wars" title="Star Wars">Star Wars</a></h5>
+																				
+																																	<li><a href="/characters/darth-vader/" title="Darth Vader">Darth Vader</a></li>
+																														
+																																	<li><a href="/characters/han-solo/" title="Han Solo">Han Solo</a></li>
+																														
+																																	<li><a href="/collectibles/star-wars-r2-d2-deluxe-sideshow-collectibles-2172/?ref=Z1C3-r2d2" title="R2-D2">R2-D2</a></li>
+																														
+																																	<li><a href="/brands/star-wars/clone-wars" title="The Clone Wars">The Clone Wars</a></li>
+																														
+																																	<li><a href="/collectibles/?type=Life-Size%20Figure&amp;ref=Z1C3-lifesize" title="Life-Size Figures">Life-Size Figures</a></li>
+																														
+  										</ul>  
+  								
+  						</div>
+  					  						
+  						<div class="col-md-3 col-sm-3">
+  								
+																
+											<ul class="list-unstyled">
 											<h5><a href="/brands/marvel/?ref=Z1C2-marvel" title="Marvel">Marvel</a></h5>
 																				
-																																	<li><a href="/collectibles/marvel-dr-doom-sideshow-collectibles-3001981/" title="Dr. Doom">Dr. Doom</a></li>
-																														
-																																	<li><a href="http://search.sideshowtoy.com/search?keywords=x-men" title="X-Men">X-Men</a></li>
-																														
-																																	<li><a href="/collectibles/star-wars-wolfpack-clone-trooper-104th-battalion-sideshow-collectibles-1001951/" title="Gray Hulk">Gray Hulk</a></li>
-																														
 																																	<li><a href="/characters/iron-man/?ref=Z1C2-IronMan" title="Iron Man">Iron Man</a></li>
 																														
-																																	<li><a href="/characters/captain-america/?ref=Z1C2-captainamerica" title="Captain America">Captain America</a></li>
+																																	<li><a href="http://www.sideshowtoy.com/characters/spider-man/" title="Spider-Man">Spider-Man</a></li>
+																														
+																																	<li><a href="/hot-toys/guardians-of-the-galaxy" title="Guardians of the Galaxy">Guardians of the Galaxy</a></li>
+																														
+																																	<li><a href="/characters/deadpool/" title="Deadpool">Deadpool</a></li>
+																														
+																																	<li><a href="/characters/hulk" title="Hulk">Hulk</a></li>
 																														
   										</ul>  
   								
@@ -278,27 +365,11 @@
 																														
 																																	<li><a href="/characters/batman/?ref=Z1C1-batman" title="Batman">Batman</a></li>
 																														
-																																	<li><a href="/characters/catwoman/" title="Catwoman">Catwoman</a></li>
+																																	<li><a href="/characters/joker/?ref=Z1C1-joker" title="The Joker">The Joker</a></li>
 																														
 																																	<li><a href="/collectibles/dc-comics-wonder-woman-sideshow-collectibles-3001151/?ref=Z1C1-wonderwoman" title="Wonder Woman">Wonder Woman</a></li>
 																														
-  										</ul>  
-  								
-  						</div>
-  					  						
-  						<div class="col-md-3 col-sm-3">
-  								
-																
-											<ul class="list-unstyled">
-											<h5><a href="/star-wars" title="Star Wars">Star Wars</a></h5>
-																				
-																																	<li><a href="/collectibles/?type=Life-Size%20Figure&amp;ref=Z1C3-lifesize" title="Life-Size Han Solo, Boba Fett, Yoda">Life-Size Han Solo, Boba Fett, Yoda</a></li>
-																														
-																																	<li><a href="/collectibles/star-wars-r2-d2-deluxe-sideshow-collectibles-21721/?ref=Z1C3-r2d2" title="R2-D2">R2-D2</a></li>
-																														
-																																	<li><a href="/characters/darth-vader/" title="Darth Vader">Darth Vader</a></li>
-																														
-																																	<li><a href="/collectibles/star-wars-wolfpack-clone-trooper-104th-battalion-sideshow-collectibles-1001951/" title="Clone Trooper">Clone Trooper</a></li>
+																																	<li><a href="/characters/catwoman/" title="Catwoman">Catwoman</a></li>
 																														
   										</ul>  
   								
@@ -309,9 +380,9 @@
 																					<ul class="list-unstyled">
 											<li><a href="/brands/sideshow-collectibles?ref=Z1C4-SSGEAR" title="Sideshow Gear">Sideshow Gear</a></li>
 																			
-																																	<li><a href="/brands/court-of-the-dead/" title="Court of the Dead">Court of the Dead</a></li>
+																																	<li><a href="/types/premium-art-print/" title="Premium Art Prints">Premium Art Prints</a></li>
 																														
-																																	<li><a href="/brands/dinosauria/?ref=Z1C4-Dinosauria" title="Dinosauria">Dinosauria</a></li>
+																																	<li><a href="/brands/court-of-the-dead/" title="Court of the Dead">Court of the Dead</a></li>
 																														
 																																	<hr>
 																														
@@ -323,148 +394,186 @@
   								
   						</div>
   					  								
-				<!--<div class="col-md-3 col-sm-3">
-					<ul class="list-unstyled top">
-						<li><a href="/collectibles/?cat=Court%20of%20the%20Dead&amp;ref=Z1C4-COD" title="Court of the Dead Collectibles">Court of the Dead</a></li>
-						<li><a href="/brands/the-lord-of-the-rings/?ref=Z1C4-LOTR" title="Lord of the Rings Collectibles">The Hobbit</a></li>			
-						<li><a href="/brands/predator/?ref=Z1C4-Predator" title="Predator Collectibles">Predator</a></li>										
-					</ul>
-					<hr/>
-					<ul class="list-unstyled">
-						<li><a href="/types/sixth-scale-figure/?ref=Z1C4-SixthScale" title="Sixth Scale Figures">Sixth Scale Figures</a></li>
-						<li><a href="/types/premium-format-figure/?ref=Z1C4-PremiumFormat" title="Premium Format(TM) Figures">Premium Format&trade; Figures</a></li>
-					</ul>
-				</div> .col -->
 			</div><!-- .row -->
 		</div><!-- .col -->
 	</div><!-- .row -->
 </div><!-- #shop-by-menu --></span>
 					</li>
-											<li><a href="/whats-new/coming-soon/?ref=HeadNav-ComingSoon" title="Coming Soon">Coming Soon</a></li>
 										<li class="shop-by-link hot-toys"><a href="/hot-toys/?ref=HeadNav-HotToys" title="Hot Toys Figures">Hot Toys</a>
 						<span class="hidden-xs"><div class="shop-by-menu hot-toys-menu">
 	<div class="shop-by-more">
 		<a href="/hot-toys/?ref=Z1Bot-shopAllHotToys" title="Shop All Hot Toys" class="shop-all-hot-toys">Shop All Hot Toys »</a>
 	</div>	
-		<div class="row">
-			<div class="col-md-3 visible-md visible-lg">
-				<div class="hot-toys-ad shop-by-ad">
-					<a href="/collectibles/marvel-captain-america-stealth-s-t-r-i-k-e-suit-hot-toys-902187/?ref=HZ1B" title="Captain America" target="_top"><img src="//www.sideshowtoy.com/wp-content/uploads/2014/05/902187-405x270.png" width="405" height="270" style="width: 405px; height: 270px; max-width: 405px; max-height: 270px;" alt="Captain America"></a>				</div><!-- #shop-by-ad -->
-			</div><!-- .col -->
-			<div class="col-md-9 col-sm-12">
-				<div class="row">
+	<div class="row">
+		<div class="col-md-3 visible-md visible-lg">
+			<div class="hot-toys-ad shop-by-ad">
+				<a href="/collectibles/marvel-vision-hot-toys-902417/?ref=HZ1B" title="Vision" target="_top"><img src="//www.sideshowtoy.com/wp-content/uploads/2015/06/902417-405x270.png" width="405" height="270" style="width: 405px; height: 270px; max-width: 405px; max-height: 270px;" alt="Vision"></a>			</div><!-- #shop-by-ad -->
+		</div><!-- .col -->
+		<div class="col-md-9 col-sm-12">
+			<div class="row">
+				  						
+						<div class="col-md-3 col-sm-3">
+								
+																
+											<ul class="list-unstyled">
+											<h5><a href="http://www.sideshowtoy.com/collectibles/?order=misc13%20DESC&amp;manu=Hot%20Toys#searchFilter" title="Latest Releases">Latest Releases</a></h5>
+																				
+																																	<li><a href="/collectibles/star-wars-han-solo-and-chewbacca-hot-toys-902268/" title="Han Solo and Chewbacca">Han Solo and Chewbacca</a></li>
+																														
+																																	<li><a href="/collectibles/back-to-the-future-marty-mcfly-hot-toys-902234/" title="Marty McFly">Marty McFly</a></li>
+																														
+																																	<li><a href="/collectibles/dc-comics-batman-arkham-city-hot-toys-902249/" title="Batman: Arkham City">Batman: Arkham City</a></li>
+																														
+																																	<li><a href="/collectibles/transformers-optimus-prime-starscream-version-hot-toys-902246/" title="Optimus Prime">Optimus Prime</a></li>
+																														
+										</ul>  
+								
+						</div>
 					  						
-							<div class="col-md-3 col-sm-3">
-									
-																	
-												<ul class="list-unstyled">
-												<h5><a href="/hot-toys/" title="Just released...">Just released...</a></h5>
-																						
-																																				<li><a href="/collectibles/marvel-captain-america-hot-toys-9021821/" title="Captain America">Captain America</a></li>
-																																	
-																																				<li><a href="/collectibles/metal-gear-raiden-hot-toys-9021841/" title="Raiden">Raiden</a></li>
-																																	
-																																				<li><a href="/collectibles/marvel-black-widow-hot-toys-902181/" title="Black Widow">Black Widow</a></li>
-																																	
-																																				<li><a href="/collectibles/terminator-t-800-battle-damaged-version-hot-toys-902179/" title="T-800 ">T-800 </a></li>
-																																	
-											</ul>  
-									
-							</div>
-						  						
-							<div class="col-md-3 col-sm-3">
-									
-																	
-												<ul class="list-unstyled">
-												<h5><a href="/brands/marvel/" title="Marvel">Marvel</a></h5>
-																						
-																																				<li><a href="/hot-toys/iron-man/" title="Iron Man">Iron Man</a></li>
-																																	
-																																				<li><a href="/hot-toys/captain-america/" title="Captain America">Captain America</a></li>
-																																	
-																																				<li><a href="/hot-toys/thor/" title="Thor">Thor</a></li>
-																																	
-																																				<li><a href="/hot-toys/hulk/" title="Hulk">Hulk</a></li>
-																																	
-																																				<li><a href="/hot-toys/avengers/" title="Avengers">Avengers</a></li>
-																																	
-											</ul>  
-									
-							</div>
-						  						
-							<div class="col-md-3 col-sm-3">
-									
-																	
-												<ul class="list-unstyled">
-												<h5><a href="/brands/dc-comics/" title="DC Comics">DC Comics</a></h5>
-																						
-																																				<li><a href="/hot-toys/batman/" title="Batman">Batman</a></li>
-																																	
-																																				<li><a href="/hot-toys/superman/" title="Superman">Superman</a></li>
-																																	
-																																				<li><a href="/characters/joker/" title="Joker">Joker</a></li>
-																																	
-											</ul>  
-									
-							</div>
-						  						
-							<div class="col-md-3 col-sm-3">
-									
-																	
-												<ul class="list-unstyled">
-												<h5><a href="/hot-toys/" title="More...">More...</a></h5>
-																						
-																																				<li><a href="/hot-toys/spider-man/" title="Spider-man">Spider-man</a></li>
-																																	
-																																				<li><a href="/hot-toys/terminator/" title="Terminator">Terminator</a></li>
-																																	
-																																				<li><a href="/hot-toys/predator/" title="Predator">Predator</a></li>
-																																	
-											</ul>  
-									
-							</div>
-															</div><!-- .row -->
-			</div><!-- .col -->
-		</div><!-- .row -->
+						<div class="col-md-3 col-sm-3">
+								
+																
+											<ul class="list-unstyled">
+											<h5><a href="/brands/marvel/" title="Marvel">Marvel</a></h5>
+																				
+																																	<li><a href="/hot-toys/avengers/" title="Avengers">Avengers</a></li>
+																														
+																																	<li><a href="/hot-toys/iron-man/" title="Iron Man">Iron Man</a></li>
+																														
+																																	<li><a href="/hot-toys/hulk/" title="Hulk">Hulk</a></li>
+																														
+																																	<li><a href="/hot-toys/guardians-of-the-galaxy" title="Guardians of the Galaxy">Guardians of the Galaxy</a></li>
+																														
+																																	<li><a href="/hot-toys/captain-america/" title="Captain America">Captain America</a></li>
+																														
+										</ul>  
+								
+						</div>
+					  						
+						<div class="col-md-3 col-sm-3">
+								
+																
+											<ul class="list-unstyled">
+											<h5><a href="/brands/dc-comics/" title="DC Comics">DC Comics</a></h5>
+																				
+																																	<li><a href="/hot-toys/batman/" title="Batman">Batman</a></li>
+																														
+																																	<li><a href="/hot-toys/superman/" title="Superman">Superman</a></li>
+																														
+																																	<li><a href="/characters/joker/" title="Joker">Joker</a></li>
+																														
+										</ul>  
+								
+						</div>
+					  						
+						<div class="col-md-3 col-sm-3">
+								
+																
+											<ul class="list-unstyled">
+											<h5><a href="" title="More...">More...</a></h5>
+																				
+																																	<li><a href="/hot-toys/star-wars" title="Star Wars">Star Wars</a></li>
+																														
+																																	<li><a href="http://search.sideshowtoy.com/search?keywords=back+to+the+future" title="Back to the Future">Back to the Future</a></li>
+																														
+																																	<li><a href="/collectibles/transformers-optimus-prime-starscream-version-hot-toys-902246/" title="Transformers">Transformers</a></li>
+																														
+																																	<li><a href="/hot-toys/terminator/" title="Terminator">Terminator</a></li>
+																														
+																																	<li><a href="/hot-toys/predator/" title="Predator">Predator</a></li>
+																														
+										</ul>  
+								
+						</div>
+												</div><!-- .row -->
+		</div><!-- .col -->
+	</div><!-- .row -->
 </div><!-- #shop-by-menu --></span>
 					</li>
 					<li><a href="/blog/?ref=HeadNav-Blog" title="The Sideshow Blog">Blog</a></li>
-					<li class="dropdown"><a href="/about/?ref=HeadNav-OurStory" title="Our Story" class="dropdown-toggle" data-toggle="dropdown">Our Story</a>
+					<li class="dropdown"><a href="/about/?ref=HeadNav-OurStory" title="Our Story" class="dropdown-toggle disabled" data-toggle="dropdown">Our Story</a>
 						<ul class="dropdown-menu">
 							<li><a href="/studio-tour/?ref=HeadNav-OurStory-StudioTour" title="The Studio Tour">Studio Tour</a></li>
 							<li><a href="/about-us/studio-tour/?ref=HeadNav-OurStory-ArtistProfiles#artist-profiles" title="Artist Profiles">Artist Profiles</a></li>
 							<li><a href="/blog/?ref=HeadNav-OurStory-OurBlog" title="Our Blog">Our Blog</a></li>
 							<li><a href="/about/?ref=HeadNav-OurStory-AboutUs" title="About Sideshow Collectibles">About Us</a></li>
-							<li><a href="/about/sideshows-20th-anniversary-celebration/?ref=HeadNav-OurStory-20th" title="Celebrate Sideshow's 20th Anniversary">20th Anniversary</a></li>
+							<li><a href="/social/?ref=HeadNav-OurStory-Social" title="Connect with Sideshow">Social</a></li>
+							<li><a href="/trending/?ref=HeadNav-OurStory-Trending" title="Trending Now">Trending Now</a></li>
 						</ul>
 					</li>
-					<li class="last"><a href="/deal-of-the-day/?ref=HeadNav-TodaysDeals" title="Today's Deals" class="deals-link">Today's Deals</a></li>
+					<li class="dropdown last"><a href="/promotions/featured-deals/?ref=HeadNav-TodaysDeals" title="Today's Deals" class="dropdown-toggle deals-link disabled" data-toggle="dropdown">Today's Deals</a>
+						<ul class="dropdown-menu">
+							<li><a href="/promotions/featured-deals/?ref=HeadNav-Deals-AllDeals" title="All Deals">All Deals</a></li>
+							<li><a href="/gift-guides/?ref=HeadNav-Deals-GiftGuides" title="Holiday Gift Guides">Gift Guides</a></li>
+							<li><a href="/promotions/collectibles-on-sale/?ref=HeadNav-Deals-OnSale" title="On Sale">On Sale</a></li>
+							<li><a href="/promotions/extra-rewards/?ref=HeadNav-Deals-ExtraRewards" title="Extra Rewards">Extra Rewards</a></li>
+							<li><a href="/promotions/bundles/?ref=HeadNav-Deals-Bundles" title="Bundle Deals">Bundle Deals</a></li>
+							<li><a href="/promotions/free-shipping/?ref=HeadNav-Deals-FreeShipping" title="Free Shipping">Free Shipping</a></li>
+							<li><a href="/promotions/last-chance/?ref=HeadNav-Deals-LastChance" title="Last Chance Items">Last Chance Items</a></li>
+						</ul>
+					</li>
 					<li class="visible-xs"><a href="/exclusives/?ref=HeadNav-Mobile-Exclusives" title="Sideshow Exclusives">Exclusives</a></li>
 					<li class="visible-xs"><a href="/contests/?ref=HeadNav-Mobile-Contests" title="Contests &amp; Giveaways">Contests</a></li>
 					<li class="visible-xs"><a href="/cgi-bin/myhistory.cgi" title="Manage Your Account">Manage Account</a></li>
 					<li class="visible-xs"><a href="/help/?ref=HeadNav-Mobile-Help" title="Visit our Help Desk" target="_blank">Help Desk</a></li>
 					<li class="visible-xs"><a href="/contact/?ref=HeadNav-Mobile-ContactUs" title="Contact Us">Contact Us</a></li>
 				</ul>
-				<div class="hidden-sm hidden-md hidden-lg">
-											<form class="mobile-search-form" action="http://search.sideshowtoy.com/search" method="get">
-							<input type="text" class="textfield form-control" name="keywords" placeholder="Find Products"> &nbsp; <input type="submit" value="Search" class="btn btn-primary">
-						</form>
-									</div>
-									<hr class="visible-xs">
-							</div><!-- .navbar-collapse -->
+				
+			</div><!-- .navbar-collapse -->
 		</div><!-- .navbar -->
 		
-			</div><!-- .col-md-9 -->
-</div><!-- .row -->
-<hr class="hidden-xs">
+			</div><!-- .col -->
+	
+		
+	</div><!-- .row -->
+<!-- .container/#navigation -->
+<hr>
   		
-
-  		
-  		
-	</header>
 
 	
-			<div class="row bread hidden-xs">
+	</header>
+		<link rel="stylesheet" type="text/css" href="//www.sideshowtoy.com/wp-content/themes/sideshow-theme/_lib/css/sweet-alert.css?20141022">
+<script src="//www.sideshowtoy.com/wp-content/themes/sideshow-theme/_lib/js/sweet-alert.js?20141022"></script>
+<script src="/_lib/js/pageCouponCodeSave-Newsletter.js"></script>
+
+<script>
+/*
+ * Replace all SVG images with inline SVG
+ */
+ $( document ).ajaxComplete(function( event, xhr, settings ) {
+ 	jQuery('img.svg').each(function(){
+	    var $img = jQuery(this);
+	    var imgID = $img.attr('id');
+	    var imgClass = $img.attr('class');
+	    var imgURL = $img.attr('src');
+
+	    jQuery.get(imgURL, function(data) {
+	        // Get the SVG tag, ignore the rest
+	        var $svg = jQuery(data).find('svg');
+
+	        // Add replaced image's ID to the new SVG
+	        if(typeof imgID !== 'undefined') {
+	            $svg = $svg.attr('id', imgID);
+	        }
+	        // Add replaced image's classes to the new SVG
+	        if(typeof imgClass !== 'undefined') {
+	            $svg = $svg.attr('class', imgClass+' replaced-svg');
+	        }
+
+	        // Remove any invalid XML tags as per http://validator.w3.org
+	        $svg = $svg.removeAttr('xmlns:a');
+
+	        // Replace image with new SVG
+	        $img.replaceWith($svg);
+
+	    }, 'xml');
+	});
+});
+</script>
+
+	
+		<div class="container">
+		<div class="row bread hidden-xs">
 			<div class="col-md-12">
 		
 			<ul class="breadcrumb">
@@ -475,23 +584,24 @@
 					      	</ul>
 		  		</div><!-- .col -->
 		</div><!-- .row -->
+	</div><!-- .container -->
 		
-	
-	<div class="general" id="gen-text">
-		<div class="row">
-			<div class="col-md-3 col-sm-3 col-xs-12">
-										<h1 class="title-icon" style="background-image: url('http://www.sideshowtoy.com/wp-content/uploads/2013/04/icon-lock.png');">Privacy  Policy</h1>
-									
-							</div><!-- .col -->
+		<div class="container">
+		<div class="general" id="gen-text">
+			<div class="row">
+				<div class="col-md-3 col-sm-3 col-xs-12">
+												<h1 class="title-icon" style="background-image: url('http://www.sideshowtoy.com/wp-content/uploads/2013/04/icon-lock.png');">Privacy  Policy</h1>
+										
+									</div><!-- .col -->
 
-			<div class="col-md-9 col-sm-9 col-xs-12">
-				<p><em>Updated April 14th 2014. Effective April 14th 2014.</em></p>
+				<div class="col-md-9 col-sm-9 col-xs-12">
+					<p><em>Updated April 14th 2014. Effective April 14th 2014.</em></p>
 <h3>Information Collection and Use</h3>
 <p>Sideshow, Inc. is the sole owner of the information collected on this site. We will not sell or rent this information to any third party and we will only share this information in the processing of your order.</p>
 <h3>Sharing</h3>
 <p>We use credit card processing companies to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.</p>
 <h3>Security</h3>
-<p>This website takes every precaution to protect our users’ information. When our order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry – SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just ‘surfing’.</p>
+<p>This website takes every precaution to protect our users’ information. When our order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry – SSL. While on a secure page, such as our order form, the lock icon in the address bar of your internet browser becomes locked, as opposed to un-locked, or open, when you are just ‘surfing’.</p>
 <h3>Links</h3>
 <p>This web site contains links to other sites. Please be aware that we (Sideshow, Inc.) are not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.</p>
 <h3>Remarketing</h3>
@@ -509,13 +619,14 @@
 <p>If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.</p>
 <h3>Questions?</h3>
 <p>Please <a href="/contact/" title="Contact Us">contact us</a> with any questions about this website Privacy Policy.</p>
-			</div><!-- .col -->
-		</div><!-- .row -->
-	</div><!-- .general -->
-		
+				</div><!-- .col -->
+			</div><!-- .row -->
+		</div><!-- .general -->
+	</div><!-- .container -->
 			
 
 <footer>
+	<div class="container">
 	<div class="row">
 		<div class="col-md-3 col-sm-3 col-xs-12">
 			<div class="visible-xs">
@@ -529,9 +640,12 @@
 					<option value="/characters/">Browse Characters</option>
 					<option value="/shop/#types">Products by Type</option>
 					<option value="/shop/#prices">Products by Price</option>
-					<option value="/collectibles/?status=second">Last Chance Items</option>
-					<option value="/collectibles/?onsale=y">On Sale</option>
-					<option value="/collectibles/?free_shipping=y">Free Shipping</option>
+					<option value="/promotions/featured-deals/">Featured Deals</option>
+					<option value="/promotions/last-chance/">Last Chance Items</option>
+					<option value="/promotions/collectibles-on-sale/">On Sale</option>
+					<option value="/promotions/extra-rewards/">Extra Rewards</option>
+					<option value="/promotions/bundles/">Bundle Deals</option>
+					<option value="/promotions/free-shipping/">Free Shipping</option>
 					<option value="/contests/">Contests &amp; Giveaways</option>
 					<option value="/archive/">Search Product Archive</option>
 				</select></p>
@@ -541,7 +655,7 @@
 					<option value="/cgi-bin/myhistory.cgi?login">Sign in</option>
 					<option value="/cgi-bin/adduser.cgi">Register</option>
 					<option value="/order-tracking/">Track an Order</option>
-					<option value="/why-sideshow/gift-cards/">Redeem a Gift Card</option>
+					<option value="/why-sideshow/promo-codes/">Redeem a Promo Code</option>
 					<option value="/why-sideshow/sideshow-rewards/">Earn Rewards Points</option>
 					<option value="/why-sideshow/flexible-payment-plans/">Payment Plans</option>
 					<option value="/why-sideshow/newsletter/">Newsletter</option>
@@ -570,7 +684,7 @@
 					<!-- <option value="/about/diane-kamahele-fund/" title="Diane Kamahele Fund">Diane Kamahele Fund</option> -->
 				</select></p>
 
-				<p><select name="dropmenu-connect" class="form-control drop-nav">
+				<p><select name="dropmenu-connect" class="form-control drop-nav" id="connect">
 					<option value="">Connect with Us</option>
 					<option value="http://www.facebook.com/sideshowcollectibles">facebook</option>
 					<option value="http://twitter.com/collectsideshow">twitter</option>
@@ -584,7 +698,7 @@
 				<ul class="list-unstyled">
 					<li><a href="/cgi-bin/myhistory.cgi?login" title="Log in to your account">Sign in</a> or <a href="/cgi-bin/adduser.cgi" title="Create an Account">Register</a></li>
 					<li><a href="/order-tracking/" title="Track an Order">Track an Order</a></li>
-					<li><a href="/why-sideshow/gift-cards/" title="Redeem a Gift Card">Redeem a Gift Card</a></li>
+					<li><a href="/why-sideshow/promo-codes/" title="Redeem a Promo Code">Redeem a Promo Code</a></li>
 					<li><a href="/why-sideshow/sideshow-rewards/" title="Earn Rewards Points">Earn Rewards Points</a></li>
 					<li><a href="/why-sideshow/flexible-payment-plans/" title="Payment Plans">Payment Plans</a></li>
 					<li><a href="/why-sideshow/newsletter/" title="Newsletter">Newsletter</a></li>
@@ -608,9 +722,12 @@
 					<li><a href="/shop/#types" title="Shop by product type">Products by Type</a></li>
 					<li><a href="/shop/#prices" title="Shop by price">Products by Price</a></li>
 					<li><a href="/whats-new/coming-soon/" title="Upcoming Products">Upcoming Products</a></li>
-					<li><a href="/collectibles/?status=second" title="Last Chance Items">Last Chance Items</a></li>
-					<li><a href="/collectibles/?onsale=y" title="On Sale">On Sale</a></li>
-					<li><a href="/collectibles/?free_shipping=y" title="Free Shipping">Free Shipping</a></li>
+					<li><a href="/promotions/featured-deals/" title="Featured Deals">Featured Deals</a></li>				
+					<li><a href="/promotions/last-chance/" title="Last Chance Items">Last Chance Items</a></li>
+					<li><a href="/promotions/collectibles-on-sale/" title="On Sale">On Sale</a></li>
+					<li><a href="/promotions/extra-rewards/" title="Extra Rewards">Extra Rewards</a></li>
+					<li><a href="/promotions/bundles/" title="Bundle Deals">Bundle Deals</a></li>
+					<li><a href="/promotions/free-shipping/" title="Free Shipping">Free Shipping</a></li>
 					<li><a href="/contests/" title="Contests &amp; Giveaways">Contests &amp; Giveaways</a></li>
 					<li><a href="/archive/" title="Search Product Archive">Search Product Archive</a></li>
 				</ul>
@@ -619,7 +736,7 @@
 		<div class="col-md-3 col-sm-3 hidden-xs">			
 			<h6>About Sideshow</h6>
 			<ul class="list-unstyled">
-				<li><a href="/about/" title="About Sideshow Collectibles" target="_blank">About Us</a></li>
+				<li><a href="/about/" title="About Sideshow Collectibles">About Us</a></li>
 				<li><a href="/studio-tour/" title="The Studio Tour">Studio Tour</a></li>
 				<li><a href="/about-us/studio-tour/#artist-profiles" title="Artist Profiles">Artist Profiles</a></li>
 				<li><a href="/blog/" title="Our Blog">Our Blog</a></li>
@@ -645,27 +762,21 @@
 					<li><a href="http://instagram.com/sideshowcollectibles/" class="instagram" title="follow us on instagram" target="_blank">instagram</a></li>
 					<div class="clearfix visible-xs"></div>
 					<li><a href="http://www.youtube.com/user/SideshowCollecting" class="youtube" title="watch our videos on youtube" rel="publisher" target="_blank">youtube</a></li>
+					<li><a href="http://www.pinterest.com/collectsideshow/" class="pinterest" title="follow us on pinterest" rel="publisher" target="_blank">pinterest</a></li>
+					<div class="clearfix visible-xs"></div>
 					<li><a href="http://www.linkedin.com/company/sideshow-collectibles" class="linkedin" title="follow us on linkedin" target="_blank">linkedin</a></li>
 				</ul>
 			</div><!-- .hidden-xs -->
 			<div class="clearfix"></div>
 			
-						<form action="#" method="post" class="news-signup form-inline">
-				<div id="ajaxNewsSubscribeDivFooter">
-									<script type="text/javascript">
-					$(document).ready(function() {
-						checkOptIn("#ajaxNewsSubscribeDivFooter", "brontoSource", "","", "", "", "<h6>Join Our Newsletter</h6>", "1");
-					});
-					</script>
-				</div>
-				<div id="newsletterDisplay"></div>
-			</form><!-- .news-signup -->
+
 		</div><!-- .col -->
 	</div><!-- .row -->
-
+	</div>
 	<div class="foot-contain">
+	<div class="container">
 		<div class="row">
-			<div class="col-md-3 col-sm-3 col-xs-5"><a href="http://www.sideshowtoy.com/" title="Sideshow Collectibles" class="site-logo"><img src="http://www.sideshowtoy.com/wp-content/themes/sideshow-theme/_lib/img/sideshow-collectibles-alt.png" width="220" height="70" class="img-responsive" alt="Sideshow Collectibles"></a></div>
+			<div class="col-md-3 col-sm-3 col-xs-5"><a href="http://www.sideshowtoy.com/" title="Sideshow Collectibles" class="site-logo"><img src="http://www.sideshowtoy.com/wp-content/themes/sideshow-theme/_lib/img/sideshow-logo-2015.svg" class="img-responsive" alt="Sideshow Collectibles"></a></div>
 			<div class="col-xs-6 col-xs-offset-1 visible-xs">
 				<p><small>Need help? Visit our <a href="/help/" title="Visit our Help Desk" target="_blank">Help Desk</a> or call <strong><a href="tel://+185574337469" title="Call Sideshow" class="tel">1.855.SIDESHOW</a></strong><br>Intl: <strong><a href="tel://+18052142157" class="tel" title="Call Sideshow">1.805.214.2157</a></strong></small></p>
 			</div><!-- .col -->
@@ -693,13 +804,149 @@
 				</div> --><!-- #upfront -->
 			</div><!-- .col -->
 		</div><!-- .row -->
+		</div>
 	</div><!-- .foot-contain -->
 </footer>
 
+<!-- Global Modal (Belongs in Footer)-->
+<div class="modal fade" id="modal-global" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<!-- Modal Wrapper -->
+  <div class="modal-dialog">
+  	<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button><!-- Close button -->
+  	<!-- Modal Content -->
+    <div class="modal-content">
+		<!-- This is where the content will go once ajaxed in -->
+	
+    </div><!-- end Modal Content -->
+  </div><!-- end Modal Wrapper -->
+</div><!-- end Modal -->
+<script src="/_lib/js/jquery.parsley.js?04022015"></script>
 
+  <script tyle="text/javascript">
+	$(document).ready(function(){
+		$(document).ajaxStop(function () {
+			$('button,a[data-toggle="modal"]').click(function(ele){
+				var eventType = $(this).data('content');
+				$('#modal-global').addClass("modal-"+eventType);
+				switch(eventType){
+					case 'newsletter':
+						$.ajax({
+						  method: "POST",
+						  url: "//www.sideshowtoy.com/wp-content/themes/sideshow-theme/_lib/inc/ajax.modal.content.newsletter.php",
+						  data: { brontoSource: brontoSourceJS, brontoInterest: brontoInterestJS, feedbackNew: brontoFeedbackNew, feedbackOld: brontoFeedbackOld }
+						})
+						  .done(function( msg ) {
+							$('#modal-global .modal-content').html(msg); 
+							$('#news-signup').parsley();
+							//setupNewsletterFormSubmit();
+							$('#news-signup :submit').on('click', function(e){
+								e.preventDefault();
+								$('.validationError').removeClass('alert alert-error');
+								$('.fieldError').html('');
+								$('#news-signup').parsley().validate();
+								if($('#news-signup').parsley().isValid() === true){
+									setupNewsletterFormSubmit();
+									$('#news-signup').submit();
+									$('#news-signup :submit').attr('onclick', '');
+									$('#news-signup').unbind( "submit" );
+								}
+							});
+							
 
+						})
+						  .fail(function(msg) {
+							$('.modal-content').html("There was an error: "+msg+".  Please try again later");
+						});
+						break;
+					case 'login':
+						$.ajax({
+						  method: "POST",
+						  url: "//www.sideshowtoy.com/wp-content/themes/sideshow-theme/_lib/inc/ajax.modal.content.login.php",
+						  //data: { brontoSource: '', brontoInterest: "", feedbackNew: "", feedbackOld: "" }
+						})
+						  .done(function( msg ) {
+							$('.modal-content').html(msg);
+							//setupNewsletterFormSubmit();
+						})
+						  .fail(function(msg) {
+							$('.modal-content').html("There was an error: "+msg+".  Please try again later");
+						});
+						break;
+					case 'code.use':
+						$.ajax({
+						  method: "POST",
+						  url: "//www.sideshowtoy.com/wp-content/themes/sideshow-theme/_lib/inc/ajax.modal.content.code.use.php",
+						})
+						  .done(function( msg ) {
+							$('.modal-content').html(msg);
+						})
+						  .fail(function(msg) {
+							$('.modal-content').html("There was an error: "+msg+".  Please try again later");
+						});
+						break;
+					case 'code.save':
+						$.ajax({
+						  method: "POST",
+						  url: "//www.sideshowtoy.com/wp-content/themes/sideshow-theme/_lib/inc/ajax.modal.content.code.save.php",
+						})
+						  .done(function( msg ) {
+							$('.modal-content').html(msg);
+						})
+						  .fail(function(msg) {
+							$('.modal-content').html("There was an error: "+msg+".  Please try again later");
+						});
+						break;
+					case 'code.login':
+						$.ajax({
+						  method: "POST",
+						  url: "//www.sideshowtoy.com/wp-content/themes/sideshow-theme/_lib/inc/ajax.modal.content.code.login.php",
+						})
+						  .done(function( msg ) {
+							$('.modal-content').html(msg);
+						})
+						  .fail(function(msg) {
+							$('.modal-content').html("There was an error: "+msg+".  Please try again later");
+						});
+						break;
+					case 'invite.login':
+						$.ajax({
+						  method: "POST",
+						  url: "//www.sideshowtoy.com/wp-content/themes/sideshow-theme/_lib/inc/ajax.modal.content.invite.login.php",
+						})
+						  .done(function( msg ) {
+							$('.modal-content').html(msg);
+						})
+						  .fail(function(msg) {
+							$('.modal-content').html("There was an error: "+msg+".  Please try again later");
+						});
+						break;
 
-	<script src="/wp-content/themes/sideshow-theme/_lib/js/bootstrap.min.js"></script>
+					}
+			});
+			
+			$('a[data-toggle="modal"]').click(function(ele){
+				var eventType = $(this).data('content');
+				$('#modal-global').addClass("modal-"+eventType);
+				switch(eventType){
+					case 'code.email.friend':
+						$.ajax({
+						  method: "POST",
+						  url: "//www.sideshowtoy.com/wp-content/themes/sideshow-theme/_lib/inc/ajax.modal.content.code.email.friend.php",
+						})
+						  .done(function( msg ) {
+							$('.modal-content').html(msg);
+						})
+						  .fail(function(msg) {
+							$('.modal-content').html("There was an error: "+msg+".  Please try again later");
+						});
+						break;
+				}
+			});
+		});
+	});
+	</script>
+
+	<script src="/wp-content/themes/sideshow-theme/_lib/js/bootstrap.min.js?04022015"></script>
 	<script src="/wp-content/themes/sideshow-theme/_lib/js/bootstrap-typeahead.js"></script>
 	<script src="/wp-content/themes/sideshow-theme/_lib/js/jquery.placeholder.min.js"></script>
 
@@ -708,21 +955,41 @@
 	<script src="/wp-content/themes/sideshow-theme/_lib/js/jquery.fancybox-media.js?v=1.0.6"></script>
 
 	<!-- custom js -->
-	<script src="/wp-content/themes/sideshow-theme/_lib/js/application.js?20131016"></script>
+	<script src="/wp-content/themes/sideshow-theme/_lib/js/application.js?04022015"></script>
 	<!-- <script src="/wp-content/themes/sideshow-theme/_lib/js/bootstrap-transition.js"></script> -->
-    
+  
+  <!-- custom button effect 
+  <script src="/wp-content/themes/sideshow-theme/_lib/js/jquery.materialripple.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('.btn').materialripple();
+		});
+	</script>-->
 
     <!-- Optionally enable responsive features in IE8 -->
-	<script src="/wp-content/themes/sideshow-theme/_lib/js/respond.min.js"></script>
+	<script src="/wp-content/themes/sideshow-theme/_lib/js/respond.min.js"></script> 
 	
 	<!-- notification/cookie js -->
 	<script type="text/javascript" src="/wp-content/themes/sideshow-theme/_lib/js/jquery.pnotify.min.js"></script>
-	<script type="text/javascript" src="/wp-content/themes/sideshow-theme/_lib/js/jquery.cookie.js"></script>
+	<script type="text/javascript" src="/wp-content/themes/sideshow-theme/_lib/js/jquery.cookie.js?04022015"></script>
 
-
+	<!--Email Validation -->
+	<script src="/_lib/js/function.verimail.jquery.js"></script>
+	<script>
+			$(document).ready(function(){
+				$("[name='email']").each(function(){
+					$(this).verimail({
+						denyTempEmailDomains: true,
+						messageElement: "#"+$(this).closest('div').attr('id')+"_suggestion" 
+					});
+				});
+			});
+	</script>
+	
 <!-- START LIVE CHAT CODE -->
 <script type="text/javascript">
-	document.write(unescape("%3Cscript src='" + ((document.location.protocol=="https:")?"https:":"http:") + "//snapabug.appspot.com/snapabug-sideshowcollectibles.js' type='text/javascript'%3E%3C/script%3E"));
+	//document.write(unescape("%3Cscript src='" + ((document.location.protocol=="https:")?"https:":"http:") + "//snapabug.appspot.com/snapabug-sideshowcollectibles.js' type='text/javascript'%3E%3C/script%3E"));
+	document.write("<sc" + "ript src='" + ((document.location.protocol=="https:")?"https:":"http:") + "//snapabug.appspot.com/snapabug-sideshowcollectibles.js' type='text/javascript'></sc" + "ript>");
 </script><script src="https://snapabug.appspot.com/snapabug-sideshowcollectibles.js" type="text/javascript"></script>
 <script type="text/javascript">
 	SnapABug.init('bcae54d3-c465-4785-a396-70a9c42b9fe2');
@@ -730,7 +997,7 @@
 	SnapABug.getAgentStatusAsync(function(online) {
 		if(online) {
 			// SnapEngage
-			document.getElementById('SnapEngageLink').innerHTML = ' <a href="#" onclick="return SnapABug.startLink(); _gaq.push([\'_trackEvent\',\'live-chat\',\'initiated\']);">Live Chat</a>';
+			document.getElementById('SnapEngageLink').innerHTML = ' <a href="#" onclick="return SnapABug.startLink(); _gaq.push([\'_trackEvent\',\'live-chat\',\'initiated\']);" class="btn btn-success btn-xs">Live Chat</a>';
 			//$('#SnapEngageLink').html('<a href="#" onclick="return SnapABug.startLink(); _gaq.push([\'_trackEvent\',\'live-chat\',\'initiated\']);">Live Chat</a>');
 		} else {
 			// Help Desk link
@@ -742,47 +1009,7 @@
 <!-- END LIVE CHAT CODE -->
 					
 <!-- START NEXTOPIA -->
-<div id="nxt-ac-container"></div>
-<script type="text/javascript">
-	var nxt_ac_words=new Array();
-	var nxt_ac_searchbox_id = "head-input-string";
-	var nxt_ac_searchform_id = "nxt-ac-form";
-	var nxt_ac_container_id = "nxt-ac-container";
-	var nxt_host = (("https:" == document.location.protocol) ? "https://" : "http://"); nxt_host += "vector.nextopiasoftware.com/";
-	if ($('#nxt-ac-form').length > 0) {
-		document.write(unescape("%3C") + "link rel='stylesheet' type='text/css' href='" + nxt_host + "yui-autocomplete.css'" + unescape("%3E"));
-		document.write(unescape("%3C") + "script src='" + nxt_host + "ac_js/eb8df7917a018f748d4e2d5cb4b3fd5c.js' type='text/javascript'" + unescape("%3E%3C/script%3E"));
-		document.write(unescape("%3C") + "script src='" + nxt_host + "yui-autocomplete-min.js' type='text/javascript'" + unescape("%3E%3C/script%3E"));
-	}
-
-	// https fix for nextopia
-	
-	function handleEnter(inField, e) {
-		var charCode;
-		if(e && e.which){
-			charCode = e.which;
-		}else if(window.event){
-			e = window.event;
-			charCode = e.keyCode;
-		}
-
-		if(charCode == 13) {
-			submitSearch();
-			return false;
-		}
-	}
-
-	function submitSearch() {
-		if (document.getElementById("head-input-string").value != "") {
-			var searchUrl	= "http://search.sideshowtoy.com/search?keywords=";
-			var keyword		= document.getElementById("head-input-string").value;
-			var newUrl		= searchUrl+keyword;
-			window.location = newUrl;
-			//console.log(searchUrl+keyword);
-		}
-		return false;
-	}
-</script>
+<script type="text/javascript" src="//nxtcfm.s3.amazonaws.com/eb8df7917a018f748d4e2d5cb4b3fd5c-ac.js"></script>
 <!-- END NEXTOPIA -->
 
 <!-- START ADROLL -->
@@ -812,10 +1039,13 @@
 	if(adroll_conversion_value_in_dollars > 0){
 		adroll_segments = "conversion";
 	}
-	
-	 console.log(adroll_conversion_value_in_dollars);
-	 console.log(adroll_segments);
-	 console.log(adroll_custom_data);
+	 if(typeof console === 'undefined'){
+		 var console = { log: function (adroll_conversion_value_in_dollars) { } };
+	 }else{
+		console.log(adroll_conversion_value_in_dollars);
+		console.log(adroll_segments);
+		console.log(adroll_custom_data);
+	}
  }
 
 </script>
@@ -837,8 +1067,8 @@
 	}
 	</script>
 
-	<!-- start social sharing -->
-	<script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50b658da52d241c3"></script>
+	<!-- start addthis social sharing -->
+	<!-- <script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50b658da52d241c3"></script>
 	<script type="text/javascript">
 		var addthis_share = addthis_share || {}
 		addthis_share = {
@@ -858,57 +1088,84 @@
 	<script type="text/javascript">
 		var addthis_config = addthis_config||{};
 		addthis_config.ui_show_promo = false;
-	</script>
+	</script> -->
 	<!-- end social sharing -->
+	
+	<div class="share-buttons share-buttons-tab" data-buttons="twitter,facebook,pinterest" data-style="medium" data-counter="true" data-hover="true" data-promo-callout="true" data-float="left"></div>
+	
+	<script type="text/javascript">
+		var js = document.createElement('script'); js.type = 'text/javascript'; js.async = true; js.id = 'AddShoppers';
+		js.src = ('https:' == document.location.protocol ? 'https://shop.pe/widget/' : 'http://cdn.shop.pe/widget/') + 'widget_async.js#537f6ea1a387646759d37a67';
+		document.getElementsByTagName("head")[0].appendChild(js);
+	</script>
+	
+	<!-- incentivized sharing -->
+	<script>
+	/* ------- Trigger when sharing buttons are clicked ------- */
+		$(window).load(function() {
+			$( ".share-buttons a" ).on( "click", { }, asGetUniqueCode );
+		});
 
+		/* ------- check if there is already a unique code if not pull one ------- */
+		function asGetUniqueCode(){
+			if(checkCookie("asSideShowShareCode")){
+				var asTheCode = getCookie("asSideShowShareCode");
+				asAssignCouponCode(asTheCode);
+			} else {
+				$.get( "https://www.sideshowtoy.com/cgi-bin/gcauto-AddShoppers-IncentivizeSharing.pl?1433765438", function( data ) {
+					var asTheCode = data;
+					setCookie("asSideShowShareCode",asTheCode,1);
+					asAssignCouponCode(asTheCode);
+				});
+			}
+		}
+
+		/* ------- assign unique code to social reward value ------- */
+		function asAssignCouponCode(asTheCode){
+			console.log(asTheCode);
+			AddShoppersWidget.coupons.facebook.code = asTheCode;
+			AddShoppersWidget.coupons.twitter.code = asTheCode;
+			AddShoppersWidget.coupons.pinterest.code = asTheCode;
+			AddShoppersWidget.coupons.email.code = asTheCode;
+			AddShoppersWidget.coupons.google.code = asTheCode;
+		}
+
+		/* ------- Cookie Monster! - check/set/get cookies ------- */
+		function setCookie(cname, cvalue, exdays) {
+			var d = new Date();
+			d.setTime(d.getTime() + (exdays*24*60*60*1000));
+			var expires = "expires="+d.toGMTString();
+			document.cookie = cname + "=" + cvalue + "; " + expires + ";path=/";
+		}
+		//gets the cookie value returned
+		function getCookie(cname) {
+			var name = cname + "=";
+			var ca = document.cookie.split(';');
+			for(var i=0; i<ca.length; i++) {
+				var c = ca[i];
+				while (c.charAt(0)==' ') c = c.substring(1);
+				if (c.indexOf(name) != -1) return c.substring(name.length, c.length);
+			}
+			return "";
+		}
+		//checks if cookie exists and returns true or false
+		function checkCookie(ascscname) {
+			var ascscval = getCookie(ascscname);
+			if (ascscval != "") {
+				//cookie is present
+				return true;
+			} else {
+				ascscval = "";
+				if (ascscval != "" && ascscval != null) {
+					//setCookie(ascscname, ascscval, 30);
+				}
+				return false;
+			}
+		}
+	</script>
 	
 	  	
   		
-  	    <script type="text/javascript">
-    // <![CDATA[
-        var disqus_shortname = 'sideshowtoy';
-        (function () {
-            var nodes = document.getElementsByTagName('span');
-            for (var i = 0, url; i < nodes.length; i++) {
-                if (nodes[i].className.indexOf('dsq-postid') != -1) {
-                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('rel'));
-                    url = nodes[i].parentNode.href.split('#', 1);
-                    if (url.length == 1) url = url[0];
-                    else url = url[1]
-                    nodes[i].parentNode.href = url + '#disqus_thread';
-                }
-            }
-            var s = document.createElement('script'); s.async = true;
-            s.type = 'text/javascript';
-            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
-            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-        }());
-    //]]>
-    </script>
-
-<!--Plugin WP Missed Schedule 2013.1231.2013 Active - Tag 6707293c0218e2d8b7aa38d418ffa608-->
-
-<!-- This site is patched which an important unfixed problem since WordPress 2.5+ to 3.9+ -->
-
-<script type="text/javascript">
-
-window.onload = function() {
-
-	"use_strict";
-
-    var arve_iframe_btns = document.getElementsByClassName( "arve-iframe-btn" );
-
-    for ( var i=0; i < arve_iframe_btns.length; i++ ) {
-
-    	arve_iframe_btns[i].onclick = function() {
-
-			var target = document.getElementById( this.getAttribute( "data-target" ) );
-			target.setAttribute( "src", target.getAttribute( "data-src" ) );
-			target.className = "arve-inner";
-			this.className += " arve-hidden";
-    	};
-    };
-};
-</script>
-
+  	<script type="text/javascript" src="//platform.twitter.com/widgets.js?ver=1.2.16"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a706d3c9de","applicationID":"5294228","transactionName":"bwZRYUFWXRAFV0UPDlZMclZHXlwNS0BUCxFUAkdQHlBWDQFGUApMTAZLQQ==","queueTime":0,"applicationTime":529,"atts":"Q0FSFwlMTh4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
             </body></html>
