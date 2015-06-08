@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faucetdirect.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220213442id_/http%3A//www.faucetdirect.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faucetdirect.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608214416id_/http%3A//www.faucetdirect.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
 
 # Faucet Direct – Your Online Faucet Showroom - FaucetDirect.com
 
