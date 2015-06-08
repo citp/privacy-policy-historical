@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the gaycities.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023112217id_/http%3A//www.gaycities.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaycities.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608085756id_/http%3A//www.gaycities.com/about/privacy) for the most accurate reproduction.*
 
 # GayCities Privacy Policy - GayCities
+
+  
+
+
+Join GayCities, the fun way to discover the world
+
+See where your friends and people like you are going and what they say about places and events worldwide. 
+
+  
+
 
 Like most websites, we collect certain information about you in order to provide the service. We care about your privacy and want to make sure you know what we do with this info. We abide by a few simple privacy principles: 
 
@@ -23,12 +33,12 @@ This site allows you to connect your account to your accounts on other services 
 
   * #### We use cookies to remember you
 
-Like nearly all web sites, we use cookies to remember you. This enables us to log you in automatically when you return to the site and other features to save you time. We also use cookies to make sure you don't accidentally rate the same establishment too many times. We also may use these cookies, along with your IP address, to better understand the patterns of usage of our site and how we can make it better. We also use analytics tools (Google Analytics, Compete, Quantcast, Comscore) that track the usage of the site and may use cookies to do so. We also utilize third-party ad networks and they may use cookies to allow us to retarget ads to you and to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+Like nearly all web sites, we use cookies to remember you. This enables us to log you in automatically when you return to the site and other features to save you time. We also use cookies to make sure you don't accidentally rate the same establishment too many times. We also may use these cookies, along with your IP address, to better understand the patterns of usage of our site and how we can make it better. We also use analytics tools (Google Analytics, Compete, Quantcast, Comscore) that track the usage of the site and may use cookies to do so. We also utilize third-party ad networks and they or an advertiser may use cookies to allow us to retarget ads to you and to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see on our site or others. 
   
 
   * #### We do not sell or rent user information
 
-The personal information that you give us stays with us and will not be sold or rented. We may share aggregated information about our visitors, including things like the demographics of our users, but we will not sell or rent personally identifiable information. In the future, we may send messages or display targeted advertisements based on personal information, but in these cases, we will choose which ads/messages to display and we will not share your personal information with the advertiser. 
+The personal information that you give us stays with us and will not be sold or rented. We may share aggregated information about our visitors, including things like the demographics of our users, but we will not sell or rent personally identifiable information. We may send messages or display targeted advertisements based on personal information, but in these cases, we will choose which ads/messages to display and we will not share your personal information with the advertiser unless we explicitly indicate that we will. 
   
 
   * #### We use email to keep in touch, but you can always unsubscribe
