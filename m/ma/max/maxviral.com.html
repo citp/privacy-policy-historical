@@ -1,0 +1,929 @@
+<!--The following is the downloaded HTML source of the maxviral.com privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608161112id_/http%3A//www.maxviral.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAAOVlBXGwUEVVBaDwE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+    <title>Privacy Policy - Max Viral</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="propeller" content="5e295ca1757e946983d99a37142c277e">
+    <meta name="p:domain_verify" content="62690040920c105d6e02901988af78fd">
+    <link rel="pingback" href="http://www.maxviral.com/xmlrpc.php">
+    <link rel="icon" type="image/png" href="http://cdn01.maxviral.com/wp-content/uploads/2015/01/maxviral-favicon.png?0139f6"><link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://cdn01.maxviral.com/wp-content/uploads/2015/01/maxviral-76.png?0139f6"><link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://cdn01.maxviral.com/wp-content/uploads/2015/01/maxviral-120.png?0139f6"><link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://cdn01.maxviral.com/wp-content/uploads/2015/01/maxviral-152.png?0139f6"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://cdn01.maxviral.com/wp-content/uploads/2015/01/maxviral-114.png?0139f6"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://cdn01.maxviral.com/wp-content/uploads/2015/01/maxviral-144.png?0139f6">
+<!-- This site is optimized with the Yoast WordPress SEO plugin v2.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.maxviral.com/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - Max Viral">
+<meta property="og:description" content="MaxViral.com (hereinafter “MV”, “MaxViral”, “we”, “us”, or “our”) adopts policies and procedures on the treatment of personally identifiable information (hereinafter “Personal Information”) collected, directly or indirectly, when you are accessing or using www.maxviral.com (hereinafter “Site”) or our services, features, content or applications (collectively with the Site, the “Services”). Can I refuse to be bound by">
+<meta property="og:url" content="http://www.maxviral.com/privacy-policy/">
+<meta property="og:site_name" content="Max Viral">
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/www.maxviral.com\/","name":"Max Viral"}</script>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Max Viral » Feed" href="http://www.maxviral.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Max Viral » Comments Feed" href="http://www.maxviral.com/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.maxviral.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.maxviral.com/wp-includes/js/wp-emoji-release.min.js?ver=4.2.2" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="rs-plugin-settings-css" href="http://www.maxviral.com/wp-content/plugins/revslider/rs-plugin/css/settings.css?0139f6" type="text/css" media="all">
+<style id="rs-plugin-settings-inline-css" type="text/css">
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel="stylesheet" id="wbounce-style-css" href="http://www.maxviral.com/wp-content/plugins/wbounce/css/min/wbounce.css?0139f6" type="text/css" media="all">
+<link rel="stylesheet" id="parent-style-css" href="http://www.maxviral.com/wp-content/themes/Newsmag/style.css?0139f6" type="text/css" media="all">
+<link rel="stylesheet" id="google-font-rest-css" href="http://fonts.googleapis.com/css?family=Roboto+Condensed%3A400italic%2C700italic%2C700%2C400%7COpen+Sans%3A400italic%2C600italic%2C700italic%2C400%2C700%2C600&amp;ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="js_composer_front-css" href="http://www.maxviral.com/wp-content/plugins/js_composer/assets/css/js_composer.css?0139f6" type="text/css" media="all">
+<link rel="stylesheet" id="td-theme-css" href="http://www.maxviral.com/wp-content/themes/Newsmag-Maxviral/style.css?0139f6" type="text/css" media="all">
+<script type="text/javascript" src="http://www.maxviral.com/wp-includes/js/jquery/jquery.js?0139f6"></script>
+<script type="text/javascript" src="http://www.maxviral.com/wp-includes/js/jquery/jquery-migrate.min.js?0139f6"></script>
+<script type="text/javascript" src="http://www.maxviral.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min.js?0139f6"></script>
+<script type="text/javascript" src="http://www.maxviral.com/wp-content/themes/Newsmag-Maxviral/js/dfp.js?0139f6"></script>
+<script type="text/javascript" src="//cpanel.nativeads.com/js/pixel/pixel-103177-1f6ef3b9844e3288f11923337ef5350dfad167eb.js?0139f6"></script>
+<script type="text/javascript" src="http://widgets.kiosked.com/sniffer/get-script/sign/b4d30602a883ae75eb20307bac1e385f/albumid/10711/co/11019.js"></script>
+<script type="text/javascript" src="http://interyield.td553.com/InterYield/bindevent.do?e=click&amp;affiliate=maxviral&amp;subid=utm_source=contentad&amp;ecpm=0&amp;debug=false&amp;snoozeMinutes=3&amp;adCountIntervalHours=24&amp;maxAdCountsPerInterval=2&amp;pop=under&amp;attributionDisabled=true&amp;endpoint=http%3A%2F%2Finteryield.td553.com"></script>
+<script type="text/javascript" src="//mtrx.go.sonobi.com/morpheus.maxviral.js?0139f6"></script>
+<script type="text/javascript" src="http://www.maxviral.com/wp-content/themes/Newsmag-Maxviral/js/sonobi.js?0139f6"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.maxviral.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.maxviral.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.2.2">
+<link rel="shortlink" href="http://www.maxviral.com/?p=621">
+		<script type="text/javascript">
+			jQuery(document).ready(function() {
+				// CUSTOM AJAX CONTENT LOADING FUNCTION
+				var ajaxRevslider = function(obj) {
+				
+					// obj.type : Post Type
+					// obj.id : ID of Content to Load
+					// obj.aspectratio : The Aspect Ratio of the Container / Media
+					// obj.selector : The Container Selector where the Content of Ajax will be injected. It is done via the Essential Grid on Return of Content
+					
+					var content = "";
+
+					data = {};
+					
+					data.action = 'revslider_ajax_call_front';
+					data.client_action = 'get_slider_html';
+					data.token = '6dcc63f31a';
+					data.type = obj.type;
+					data.id = obj.id;
+					data.aspectratio = obj.aspectratio;
+					
+					// SYNC AJAX REQUEST
+					jQuery.ajax({
+						type:"post",
+						url:"http://www.maxviral.com/wp-admin/admin-ajax.php",
+						dataType: 'json',
+						data:data,
+						async:false,
+						success: function(ret, textStatus, XMLHttpRequest) {
+							if(ret.success == true)
+								content = ret.data;								
+						},
+						error: function(e) {
+							console.log(e);
+						}
+					});
+					
+					 // FIRST RETURN THE CONTENT WHEN IT IS LOADED !!
+					 return content;						 
+				};
+				
+				// CUSTOM AJAX FUNCTION TO REMOVE THE SLIDER
+				var ajaxRemoveRevslider = function(obj) {
+					return jQuery(obj.selector+" .rev_slider").revkill();
+				};
+
+				// EXTEND THE AJAX CONTENT LOADING TYPES WITH TYPE AND FUNCTION
+				var extendessential = setInterval(function() {
+					if (jQuery.fn.tpessential != undefined) {
+						clearInterval(extendessential);
+						if(typeof(jQuery.fn.tpessential.defaults) !== 'undefined') {
+							jQuery.fn.tpessential.defaults.ajaxTypes.push({type:"revslider",func:ajaxRevslider,killfunc:ajaxRemoveRevslider,openAnimationSpeed:0.3});   
+							// type:  Name of the Post to load via Ajax into the Essential Grid Ajax Container
+							// func: the Function Name which is Called once the Item with the Post Type has been clicked
+							// killfunc: function to kill in case the Ajax Window going to be removed (before Remove function !
+							// openAnimationSpeed: how quick the Ajax Content window should be animated (default is 0.3)
+						}
+					}
+				},30);
+			});
+		</script>
+		</head><body class="page page-id-621 page-template-default privacy-policy wpb-js-composer js-comp-ver-4.4.4 vc_responsive td-full-layout" itemscope="itemscope" itemtype="http://schema.org/WebPage"><div class="us_floating us_mobile_hide"><div class="us_wrapper us_share_buttons us_tac us_skin_round" data-text="Privacy Policy" data-url="http://www.maxviral.com/privacy-policy/" data-ajaxnetworks="facebook,twitter,pinterest,stumble,google,delicious"><div class="us_facebook us_no_count us_button"><a class="us_box" href="#"><div class="us_share"><i class="us-icon-facebook"></i></div></a></div><div class="us_twitter us_no_count us_button"><a class="us_box" href="#"><div class="us_share"><i class="us-icon-twitter"></i></div></a></div><div class="us_mail us_button us_no_count"><a class="us_box" href="#us-modal-umn7U"><div class="us_share"><i class="us-icon-mail"></i></div></a></div><div class="us_wrapper us_modal mfp-hide" id="us-modal-umn7U"><div class="us_heading">Share with your friends</div><div class="us_mail_response"></div><div class="us_mail_form_holder"><form role="form" id="ajaxcontactform" class="form-group contact" action="" method="post" enctype="multipart/form-data"><div class="form-group"><label class="label" for="ajaxcontactyour_name">Your Name</label><br><input type="text" id="ajaxcontactyour_name" class="border-box form-control us_mail_your_name" name="Your Name" placeholder="Your Name"><br><label class="label" for="ajaxcontactyour_email">Your Email</label><br><input type="email" id="ajaxcontactyour_email" class="border-box form-control us_mail_your_email" name="Your Email" placeholder="Your Email"><br><label class="label" for="ajaxcontactrecipient_email">Recipient Email</label><br><input type="email" id="ajaxcontactrecipient_email" class="border-box form-control us_mail_recipient_email" name="Recipient Email" placeholder="Recipient Email"><br><label class="label" for="ajaxcontactmessage">Enter a Message</label><br><textarea class="border-box form-control border-us_box us_mail_message" id="ajaxcontactmessage" name="Enter a Message" placeholder="Enter a Message">I read this article and found it very interesting, thought it might be something for you. 
+
+The article is called Privacy Policy and you can check it out at http://www.maxviral.com/privacy-policy/.</textarea><input type="email" id="ajaxcontactrecipient_url" class="border-box form-control us_mail_url" style="display:none;" name="http://www.maxviral.com/privacy-policy/" placeholder="http://www.maxviral.com/privacy-policy/"><br></div><div class="form-group"><label class="label" for="ajaxcontactcaptcha">Captcha</label><br><input type="text" id="ajaxcontactcaptcha" class="border-box form-control us_mail_captcha" name="Captcha" placeholder="What is the sum of 7 and 2?"><br></div></form><a class="btn btn-success us_mail_send">Submit</a></div></div><div class="us_reddit us_no_count us_button"><a class="us_box" href="#"><div class="us_share"><i class="us-icon-reddit"></i></div></a></div><div class="us_pinterest us_no_count us_button"><a class="us_box" href="#us-modal-TEgCa"><div class="us_share"><i class="us-icon-pinterest"></i></div></a></div><div class="us_wrapper us_modal mfp-hide" id="us-modal-TEgCa" data-url="http://www.maxviral.com/privacy-policy/" data-text="Privacy Policy"><div class="us_heading">Share on Pinterest</div><div class="us_pinterest_no_images alert alert-danger">There are no images.</div></div><div class="us_stumble us_no_count us_button"><a class="us_box" href="#"><div class="us_share"><i class="us-icon-stumble"></i></div></a></div><div class="us_google us_no_count us_button"><a class="us_box" href="#"><div class="us_share"><i class="us-icon-google"></i></div></a></div><div class="us_more us_button us_no_count"><a class="us_box" href="#us-modal-3X7uS"><div class="us_share"><i class="us-icon-plus"></i></div></a></div><div class="us_wrapper us_modal mfp-hide us_skin_round" id="us-modal-3X7uS"><div class="us_heading">More share buttons</div><div class="us_modal_button_wrapper us_tac" data-text="Privacy Policy" data-url="http://www.maxviral.com/privacy-policy/"><div class="us_digg us_after_more us_no_count us_button"><a class="us_box" href="#"><div class="us_share"><i class="us-icon-digg"></i></div></a></div><div class="us_delicious us_after_more us_no_count us_button"><a class="us_box" href="#"><div class="us_share"><i class="us-icon-delicious"></i></div></a></div><div class="us_pocket us_after_more us_no_count us_button"><a class="us_box" href="#"><div class="us_share"><i class="us-icon-pocket"></i></div></a></div><div class="us_tumblr us_after_more us_no_count us_button"><a class="us_box" href="#"><div class="us_share"><i class="us-icon-tumblr"></i></div></a></div><div class="us_flipboard us_after_more us_no_count us_button"><a class="us_box" href="#"><div class="us_share"><i class="us-icon-flipboard"></i></div></a></div></div></div></div></div><style type="text/css"></style><!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://www.maxviral.com/wp-content/plugins/js_composer/assets/css/vc-ie8.css?0139f6" media="screen"><![endif]-->
+<!-- JS generated by theme -->
+
+<script>
+    
+
+var td_blocks = []; //here we store all the items for the current page
+
+//td_block class - each ajax block uses a object of this class for requests
+function td_block() {
+    this.id = '';
+    this.block_type = 1; //block type id (1-234 etc)
+    this.atts = '';
+    this.td_column_number = '';
+    this.td_current_page = 1; //
+    this.post_count = 0; //from wp
+    this.found_posts = 0; //from wp
+    this.max_num_pages = 0; //from wp
+    this.td_filter_value = ''; //current live filter value
+    this.td_filter_ui_uid = ''; //used to select a item from the drop down filter
+    this.is_ajax_running = false;
+    this.td_user_action = ''; // load more or infinite loader (used by the animation)
+    this.header_color = '';
+    this.ajax_pagination_infinite_stop = ''; //show load more at page x
+}
+
+    
+var td_ad_background_click_link="";
+var td_ad_background_click_target="";
+var td_ajax_url="http:\/\/www.maxviral.com\/wp-admin\/admin-ajax.php?td_theme_name=Newsmag&v=1.7.1";
+var td_get_template_directory_uri="http:\/\/www.maxviral.com\/wp-content\/themes\/Newsmag";
+var tds_snap_menu="smart_snap_always";
+var tds_logo_on_sticky="show";
+var tds_header_style="5";
+var td_search_url="http:\/\/www.maxviral.com\/search\/";
+var td_please_wait="Please wait...";
+var td_email_user_pass_incorrect="User or password incorrect!";
+var td_email_user_incorrect="Email or username incorrect!";
+var td_email_incorrect="Email incorrect!";
+var tds_more_articles_on_post_enable="";
+var tds_more_articles_on_post_time_to_wait="";
+var tds_more_articles_on_post_pages_distance_from_top=600;
+var tds_theme_color_site_wide="#4db2ec";
+var tds_smart_sidebar="enabled";
+var td_magnific_popup_translation_tPrev="Previous (Left arrow key)";
+var td_magnific_popup_translation_tNext="Next (Right arrow key)";
+var td_magnific_popup_translation_tCounter="%curr% of %total%";
+var td_magnific_popup_translation_ajax_tError="The content from %url% could not be loaded.";
+var td_magnific_popup_translation_image_tError="The image #%curr% could not be loaded.";
+</script>
+
+<script>
+window.ga_debug = {trace: true};
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','gal');
+gal('create', 'UA-58311718-1', {
+  'cookieDomain': 'maxviral.com'
+});
+gal('require', 'displayfeatures');
+gal('send', 'pageview');
+</script>
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"1mROi1a8Dy00Ee", domain:"maxviral.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=1mROi1a8Dy00Ee" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->  <noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+
+
+
+
+<div id="td-outer-wrap">
+
+        <div class="td-scroll-up"><i class="td-icon-menu-up"></i></div>
+
+    <div class="td-transition-content-and-menu td-mobile-nav-wrap">
+        <div id="td-mobile-nav">
+    <!-- mobile menu close -->
+    <div class="td-mobile-close">
+        <a href="#">CLOSE</a>
+        <div class="td-nav-triangle"></div>
+    </div>
+
+    <div class="td-mobile-content">
+        <div class="menu-main-menu-container"><ul id="menu-main-menu" class=""><li id="menu-item-100" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-first menu-item-has-children menu-item-100"><a href="http://www.maxviral.com/category/celebrity/">Celeb</a>
+<ul class="sub-menu">
+	<li id="menu-item-0" class="menu-item-0"><a href="http://www.maxviral.com/category/celebrity/buzz/">Buzz</a></li>
+	<li class="menu-item-0"><a href="http://www.maxviral.com/category/celebrity/celeb-pics/">Celeb Pics</a></li>
+	<li class="menu-item-0"><a href="http://www.maxviral.com/category/celebrity/red-carpet/">Red Carpet</a></li>
+	<li class="menu-item-0"><a href="http://www.maxviral.com/category/celebrity/scandals/">Scandals</a></li>
+</ul>
+</li>
+<li id="menu-item-3085" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3085"><a href="http://www.maxviral.com/category/fun/">Funnies</a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><a href="http://www.maxviral.com/category/fun/fail/">Fail</a></li>
+	<li class="menu-item-0"><a href="http://www.maxviral.com/category/fun/for-girls/">For Girls</a></li>
+	<li class="menu-item-0"><a href="http://www.maxviral.com/category/fun/for-guys/">For Guys</a></li>
+	<li class="menu-item-0"><a href="http://www.maxviral.com/category/fun/random/">Random</a></li>
+	<li class="menu-item-0"><a href="http://www.maxviral.com/category/fun/win/">Win</a></li>
+</ul>
+</li>
+<li id="menu-item-102" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-102"><a href="http://www.maxviral.com/category/lifestyle/">Lifestyle</a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><a href="http://www.maxviral.com/category/lifestyle/diy/">DIY</a></li>
+	<li class="menu-item-0"><a href="http://www.maxviral.com/category/lifestyle/finance-lifestyle/">Finance</a></li>
+	<li class="menu-item-0"><a href="http://www.maxviral.com/category/lifestyle/food/">Food</a></li>
+	<li class="menu-item-0"><a href="http://www.maxviral.com/category/lifestyle/funnies/">Funnies</a></li>
+	<li class="menu-item-0"><a href="http://www.maxviral.com/category/lifestyle/health/">Health</a></li>
+</ul>
+</li>
+<li id="menu-item-3149" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3149"><a>More</a>
+<ul class="sub-menu">
+	<li id="menu-item-3200" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3200"><a href="http://www.maxviral.com/category/celebrity/">Celebrity</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3201" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3201"><a href="http://www.maxviral.com/category/celebrity/buzz/">Buzz</a></li>
+		<li id="menu-item-3202" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3202"><a href="http://www.maxviral.com/category/celebrity/celeb-pics/">Celeb Pics</a></li>
+		<li id="menu-item-3203" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3203"><a href="http://www.maxviral.com/category/celebrity/red-carpet/">Red Carpet</a></li>
+		<li id="menu-item-3204" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3204"><a href="http://www.maxviral.com/category/celebrity/scandals/">Scandals</a></li>
+	</ul>
+</li>
+	<li id="menu-item-346" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-346"><a href="http://www.maxviral.com/category/fashion/">Fashion</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3153" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3153"><a href="http://www.maxviral.com/category/fashion/accessories/">Accessories</a></li>
+		<li id="menu-item-3154" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3154"><a href="http://www.maxviral.com/category/fashion/beauty/">Beauty</a></li>
+		<li id="menu-item-3155" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3155"><a href="http://www.maxviral.com/category/fashion/hairstyles/">Hairstyles</a></li>
+		<li id="menu-item-3157" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3157"><a href="http://www.maxviral.com/category/fashion/ladies/">Ladies</a></li>
+		<li id="menu-item-3158" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3158"><a href="http://www.maxviral.com/category/fashion/mens/">Mens</a></li>
+		<li id="menu-item-3156" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3156"><a href="http://www.maxviral.com/category/fashion/kids/">Kids</a></li>
+	</ul>
+</li>
+	<li id="menu-item-3205" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3205"><a href="http://www.maxviral.com/category/fun/">Funnies</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3206" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3206"><a href="http://www.maxviral.com/category/fun/fail/">Fail</a></li>
+		<li id="menu-item-3210" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3210"><a href="http://www.maxviral.com/category/fun/win/">Win</a></li>
+		<li id="menu-item-3207" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3207"><a href="http://www.maxviral.com/category/fun/for-girls/">For Girls</a></li>
+		<li id="menu-item-3208" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3208"><a href="http://www.maxviral.com/category/fun/for-guys/">For Guys</a></li>
+		<li id="menu-item-3209" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3209"><a href="http://www.maxviral.com/category/fun/random/">Random</a></li>
+	</ul>
+</li>
+	<li id="menu-item-3211" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3211"><a href="http://www.maxviral.com/category/lifestyle/">Lifestyle</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3212" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3212"><a href="http://www.maxviral.com/category/lifestyle/diy/">DIY</a></li>
+		<li id="menu-item-3213" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3213"><a href="http://www.maxviral.com/category/lifestyle/finance-lifestyle/">Finance</a></li>
+		<li id="menu-item-3214" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3214"><a href="http://www.maxviral.com/category/lifestyle/food/">Food</a></li>
+		<li id="menu-item-3216" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3216"><a href="http://www.maxviral.com/category/lifestyle/health/">Health</a></li>
+		<li id="menu-item-3217" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3217"><a href="http://www.maxviral.com/category/lifestyle/home/">Home</a></li>
+		<li id="menu-item-3218" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3218"><a href="http://www.maxviral.com/category/lifestyle/parenting/">Parenting</a></li>
+		<li id="menu-item-3219" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3219"><a href="http://www.maxviral.com/category/lifestyle/relationships/">Relationships</a></li>
+		<li id="menu-item-3221" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3221"><a href="http://www.maxviral.com/category/lifestyle/travel/">Travel</a></li>
+		<li id="menu-item-3222" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3222"><a href="http://www.maxviral.com/category/lifestyle/wedding/">Wedding</a></li>
+	</ul>
+</li>
+	<li id="menu-item-101" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-101"><a href="http://www.maxviral.com/category/media/">Media</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3160" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3160"><a href="http://www.maxviral.com/category/media/at-the-movies/">At the Movies</a></li>
+		<li id="menu-item-3161" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3161"><a href="http://www.maxviral.com/category/media/books-magazines/">Books &amp; Magazines</a></li>
+		<li id="menu-item-3162" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3162"><a href="http://www.maxviral.com/category/media/gaming/">Gaming</a></li>
+		<li id="menu-item-3163" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3163"><a href="http://www.maxviral.com/category/media/music/">music</a></li>
+		<li id="menu-item-3164" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3164"><a href="http://www.maxviral.com/category/media/television/">Television</a></li>
+	</ul>
+</li>
+	<li id="menu-item-103" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-103"><a href="http://www.maxviral.com/category/nature/">Nature</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3165" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3165"><a href="http://www.maxviral.com/category/nature/animals/">Animals</a></li>
+		<li id="menu-item-3166" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3166"><a href="http://www.maxviral.com/category/nature/environment/">Environment</a></li>
+		<li id="menu-item-3167" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3167"><a href="http://www.maxviral.com/category/nature/history/">History</a></li>
+		<li id="menu-item-3168" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3168"><a href="http://www.maxviral.com/category/nature/science/">Science</a></li>
+		<li id="menu-item-3169" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3169"><a href="http://www.maxviral.com/category/nature/space/">Space</a></li>
+		<li id="menu-item-3223" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3223"><a href="http://www.maxviral.com/category/nature/wild-and-weird/">Wild &amp; Weird</a></li>
+	</ul>
+</li>
+	<li id="menu-item-104" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-104"><a href="http://www.maxviral.com/category/sport/">Sport</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3170" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3170"><a href="http://www.maxviral.com/category/sport/baseball/">Baseball</a></li>
+		<li id="menu-item-3171" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3171"><a href="http://www.maxviral.com/category/sport/golf/">Golf</a></li>
+		<li id="menu-item-3172" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3172"><a href="http://www.maxviral.com/category/sport/nascar/">Nascar</a></li>
+		<li id="menu-item-3173" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3173"><a href="http://www.maxviral.com/category/sport/nba/">NBA</a></li>
+		<li id="menu-item-3174" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3174"><a href="http://www.maxviral.com/category/sport/nfl/">NFL</a></li>
+		<li id="menu-item-3175" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3175"><a href="http://www.maxviral.com/category/sport/tennis/">Tennis</a></li>
+		<li id="menu-item-3176" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3176"><a href="http://www.maxviral.com/category/sport/ufc/">UFC</a></li>
+	</ul>
+</li>
+	<li id="menu-item-129" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-129"><a href="http://www.maxviral.com/category/tech/">Tech</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3177" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3177"><a href="http://www.maxviral.com/category/tech/business/">Business</a></li>
+		<li id="menu-item-3178" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3178"><a href="http://www.maxviral.com/category/tech/events/">Events</a></li>
+		<li id="menu-item-3179" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3179"><a href="http://www.maxviral.com/category/tech/gadgets/">Gadgets</a></li>
+		<li id="menu-item-3180" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3180"><a href="http://www.maxviral.com/category/tech/mobile/">Mobile</a></li>
+		<li id="menu-item-3181" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3181"><a href="http://www.maxviral.com/category/tech/startups/">Startups</a></li>
+	</ul>
+</li>
+	<li id="menu-item-3485" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3485"><a href="http://www.maxviral.com/sitemap/">Sitemap</a></li>
+</ul>
+</li>
+</ul></div>    </div>
+</div>    </div>
+        <div class="td-transition-content-and-menu td-content-wrap">
+
+
+
+<!--
+Header style 5
+-->
+<div class="td-header-wrap td-header-style-5">
+    <div class="td-header-menu-wrap">
+        <div class="td-header-row td-header-main-menu">
+            <div class="td-make-full">
+                <div id="td-header-menu" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+    <div id="td-top-mobile-toggle"><a href="#"><i class="td-icon-font td-icon-mobile"></i></a></div>
+    <div class="td-main-menu-logo">
+            <a itemprop="url" href="http://www.maxviral.com/">
+        <img class="td-retina-data" data-retina="http://cdn01.maxviral.com/wp-content/uploads/2015/01/maxviral-white-544-180v2offset.png?0139f6" src="http://cdn01.maxviral.com/wp-content/uploads/2015/01/maxviral-white-272-90v2offset.png?0139f6" alt="Max Viral">
+    </a>
+    <meta itemprop="name" content="Max Viral">
+    </div>
+    <div class="menu-main-menu-container"><ul id="menu-main-menu-1" class="sf-menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-first td-menu-item td-mega-menu menu-item-100"><a href="http://www.maxviral.com/category/celebrity/">Celeb</a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><script>var block_td_uid_1_5575bea19057c = new td_block();
+block_td_uid_1_5575bea19057c.id = "td_uid_1_5575bea19057c";
+block_td_uid_1_5575bea19057c.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"11","show_child_cat":5,"td_ajax_filter_type":"td_category_ids_filter","class":"td_block_id_218446277 td_uid_1_5575bea19057c_rand"}';
+block_td_uid_1_5575bea19057c.td_column_number = "3";
+block_td_uid_1_5575bea19057c.block_type = "td_block_mega_menu";
+block_td_uid_1_5575bea19057c.post_count = "5";
+block_td_uid_1_5575bea19057c.found_posts = "74";
+block_td_uid_1_5575bea19057c.max_num_pages = "15";
+block_td_uid_1_5575bea19057c.header_color = "";
+block_td_uid_1_5575bea19057c.ajax_pagination_infinite_stop = "";
+td_blocks.push(block_td_uid_1_5575bea19057c);
+</script><div class="td_block_wrap td_block_mega_menu td_block_id_218446277 td_uid_1_5575bea19057c_rand  td-pb-border-top"><div id="td_uid_1_5575bea19057c" class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/celebrity/10-hiv-positive-famous-personality-lets-raise-awareness/" rel="bookmark" title="10 HIV Positive Famous Personality: Let’s Raise Awareness"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/06/401px-Ongina_from_RuPauls_Drag_Race-180x135.jpg?0139f6" alt="Ongina from RuPaul's Drag Race" title="10 HIV Positive Famous Personality: Let’s Raise Awareness"></a></div>                            </div>
+
+            <div class="item-details">
+                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/celebrity/10-hiv-positive-famous-personality-lets-raise-awareness/" rel="bookmark" title="10 HIV Positive Famous Personality: Let’s Raise Awareness">10 HIV Positive Famous Personality: Let’s Raise Awareness</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/celebrity/20-stunning-celebrity-wedding-dresses-time/" rel="bookmark" title="20 Most Stunning Celebrity Wedding Dresses Of All Time!"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/05/ezgif.com-gif-maker-2321-180x135.jpg?0139f6" alt="beautiful wedding dress" title="20 Most Stunning Celebrity Wedding Dresses Of All Time!"></a></div>                            </div>
+
+            <div class="item-details">
+                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/celebrity/20-stunning-celebrity-wedding-dresses-time/" rel="bookmark" title="20 Most Stunning Celebrity Wedding Dresses Of All Time!">20 Most Stunning Celebrity Wedding Dresses Of All Time!</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/fashion/adorable-ultimate-guide-micro-fashion/" rel="bookmark" title="The Most Adorable Ultimate Guide To Micro Fashion"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/05/ezgif-1791990199-180x135.jpg?0139f6" alt="Suri Cruise" title="The Most Adorable Ultimate Guide To Micro Fashion"></a></div>                            </div>
+
+            <div class="item-details">
+                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/fashion/adorable-ultimate-guide-micro-fashion/" rel="bookmark" title="The Most Adorable Ultimate Guide To Micro Fashion">The Most Adorable Ultimate Guide To Micro Fashion</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/celebrity/celeb-pics/16-celebrity-suicides-that-brought-us-to-our-knees/" rel="bookmark" title="16 Celebrity Suicides That Brought Us To Our Knees"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/06/ezgif-2184580300-180x135.jpg?0139f6" alt="marilyn Monroe" title="16 Celebrity Suicides That Brought Us To Our Knees"></a></div>                            </div>
+
+            <div class="item-details">
+                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/celebrity/celeb-pics/16-celebrity-suicides-that-brought-us-to-our-knees/" rel="bookmark" title="16 Celebrity Suicides That Brought Us To Our Knees">16 Celebrity Suicides That Brought Us To Our Knees</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/celebrity/10-hot-men-originally-women/" rel="bookmark" title="10 Hot Men Who Were Originally Women"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/06/ezgif.com-resize-19-180x135.jpg?0139f6" alt="Chaz Bono" title="10 Hot Men Who Were Originally Women"></a></div>                            </div>
+
+            <div class="item-details">
+                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/celebrity/10-hot-men-originally-women/" rel="bookmark" title="10 Hot Men Who Were Originally Women">10 Hot Men Who Were Originally Women</a></h3>            </div>
+        </div>
+        </div></div></div><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="cur-sub-cat mega-menu-sub-cat-td_uid_1_5575bea19057c" id="td_uid_2_5575bea197008" data-td_block_id="td_uid_1_5575bea19057c" data-td_filter_value="" href="http://www.maxviral.com/category/celebrity/">All</a><a class="mega-menu-sub-cat-td_uid_1_5575bea19057c" id="td_uid_3_5575bea19719a" data-td_block_id="td_uid_1_5575bea19057c" data-td_filter_value="103" href="http://www.maxviral.com/category/celebrity/buzz/">Buzz</a><a class="mega-menu-sub-cat-td_uid_1_5575bea19057c" id="td_uid_4_5575bea197422" data-td_block_id="td_uid_1_5575bea19057c" data-td_filter_value="23" href="http://www.maxviral.com/category/celebrity/celeb-pics/">Celeb Pics</a><a class="mega-menu-sub-cat-td_uid_1_5575bea19057c" id="td_uid_5_5575bea1976b8" data-td_block_id="td_uid_1_5575bea19057c" data-td_filter_value="26" href="http://www.maxviral.com/category/celebrity/red-carpet/">Red Carpet</a><a class="mega-menu-sub-cat-td_uid_1_5575bea19057c" id="td_uid_6_5575bea19793d" data-td_block_id="td_uid_1_5575bea19057c" data-td_filter_value="25" href="http://www.maxviral.com/category/celebrity/scandals/">Scandals</a></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_1_5575bea19057c" data-td_block_id="td_uid_1_5575bea19057c"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#" class="td-ajax-next-page" id="next-page-td_uid_1_5575bea19057c" data-td_block_id="td_uid_1_5575bea19057c"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-mega-menu menu-item-3085"><a href="http://www.maxviral.com/category/fun/">Funnies</a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><script>var block_td_uid_7_5575bea19d4be = new td_block();
+block_td_uid_7_5575bea19d4be.id = "td_uid_7_5575bea19d4be";
+block_td_uid_7_5575bea19d4be.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"574","show_child_cat":5,"td_ajax_filter_type":"td_category_ids_filter","class":"td_block_id_2303431493 td_uid_7_5575bea19d4be_rand"}';
+block_td_uid_7_5575bea19d4be.td_column_number = "3";
+block_td_uid_7_5575bea19d4be.block_type = "td_block_mega_menu";
+block_td_uid_7_5575bea19d4be.post_count = "5";
+block_td_uid_7_5575bea19d4be.found_posts = "112";
+block_td_uid_7_5575bea19d4be.max_num_pages = "23";
+block_td_uid_7_5575bea19d4be.header_color = "";
+block_td_uid_7_5575bea19d4be.ajax_pagination_infinite_stop = "";
+td_blocks.push(block_td_uid_7_5575bea19d4be);
+</script><div class="td_block_wrap td_block_mega_menu td_block_id_2303431493 td_uid_7_5575bea19d4be_rand  td-pb-border-top"><div id="td_uid_7_5575bea19d4be" class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/fun/just-plain-weird-japanese-inventions/" rel="bookmark" title="Just Plain Weird Japanese Inventions"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/06/japan-180x135.jpg?0139f6" alt="Japan" title="Just Plain Weird Japanese Inventions"></a></div>                            </div>
+
+            <div class="item-details">
+                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/fun/just-plain-weird-japanese-inventions/" rel="bookmark" title="Just Plain Weird Japanese Inventions">Just Plain Weird Japanese Inventions</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/fun/20-sports-fails-maybe-you-should-never-have-even-tried/" rel="bookmark" title="20 Sports Fails Maybe You Should Never Have Even Tried"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/06/ezgif-4213177547-180x135.gif?0139f6" alt="sports fails" title="20 Sports Fails Maybe You Should Never Have Even Tried"></a></div>                            </div>
+
+            <div class="item-details">
+                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/fun/20-sports-fails-maybe-you-should-never-have-even-tried/" rel="bookmark" title="20 Sports Fails Maybe You Should Never Have Even Tried">20 Sports Fails Maybe You Should Never Have Even Tried</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/lifestyle/funnies/17-epic-sporting-fails-explain-youll-never-go-pro/" rel="bookmark" title="These 17 Epic Sporting Fails Explain Why You’ll Never Go Pro"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/05/3139837006_97575594a2_b-180x135.jpg?0139f6" alt="epic fail" title="These 17 Epic Sporting Fails Explain Why You’ll Never Go Pro"></a></div>                            </div>
+
+            <div class="item-details">
+                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/lifestyle/funnies/17-epic-sporting-fails-explain-youll-never-go-pro/" rel="bookmark" title="These 17 Epic Sporting Fails Explain Why You’ll Never Go Pro">These 17 Epic Sporting Fails Explain Why You’ll Never Go Pro</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/fun/13-tinder-profiles-absolutely-must-see/" rel="bookmark" title="13 Tinder Profiles You Absolutely Must See!"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/05/epic-photoshop-tinder-profile-jude-5-180x135.png?0139f6" alt="epic-photoshop-tinder-profile-jude-5" title="13 Tinder Profiles You Absolutely Must See!"></a></div>                            </div>
+
+            <div class="item-details">
+                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/fun/13-tinder-profiles-absolutely-must-see/" rel="bookmark" title="13 Tinder Profiles You Absolutely Must See!">13 Tinder Profiles You Absolutely Must See!</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/fun/19-ultimate-cheerleader-fails/" rel="bookmark" title="19 Ultimate Cheerleader Fails!"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/05/ezgif-2592871251-180x135.jpg?0139f6" alt="cheerleader fails" title="19 Ultimate Cheerleader Fails!"></a></div>                            </div>
+
+            <div class="item-details">
+                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/fun/19-ultimate-cheerleader-fails/" rel="bookmark" title="19 Ultimate Cheerleader Fails!">19 Ultimate Cheerleader Fails!</a></h3>            </div>
+        </div>
+        </div></div></div><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="cur-sub-cat mega-menu-sub-cat-td_uid_7_5575bea19d4be" id="td_uid_8_5575bea1a3a33" data-td_block_id="td_uid_7_5575bea19d4be" data-td_filter_value="" href="http://www.maxviral.com/category/fun/">All</a><a class="mega-menu-sub-cat-td_uid_7_5575bea19d4be" id="td_uid_9_5575bea1a3c1c" data-td_block_id="td_uid_7_5575bea19d4be" data-td_filter_value="596" href="http://www.maxviral.com/category/fun/fail/">Fail</a><a class="mega-menu-sub-cat-td_uid_7_5575bea19d4be" id="td_uid_10_5575bea1a3eab" data-td_block_id="td_uid_7_5575bea19d4be" data-td_filter_value="593" href="http://www.maxviral.com/category/fun/for-girls/">For Girls</a><a class="mega-menu-sub-cat-td_uid_7_5575bea19d4be" id="td_uid_11_5575bea1a4134" data-td_block_id="td_uid_7_5575bea19d4be" data-td_filter_value="594" href="http://www.maxviral.com/category/fun/for-guys/">For Guys</a><a class="mega-menu-sub-cat-td_uid_7_5575bea19d4be" id="td_uid_12_5575bea1a43bc" data-td_block_id="td_uid_7_5575bea19d4be" data-td_filter_value="597" href="http://www.maxviral.com/category/fun/random/">Random</a><a class="mega-menu-sub-cat-td_uid_7_5575bea19d4be" id="td_uid_13_5575bea1a4645" data-td_block_id="td_uid_7_5575bea19d4be" data-td_filter_value="595" href="http://www.maxviral.com/category/fun/win/">Win</a></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_7_5575bea19d4be" data-td_block_id="td_uid_7_5575bea19d4be"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#" class="td-ajax-next-page" id="next-page-td_uid_7_5575bea19d4be" data-td_block_id="td_uid_7_5575bea19d4be"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-mega-menu menu-item-102"><a href="http://www.maxviral.com/category/lifestyle/">Lifestyle</a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><script>var block_td_uid_14_5575bea1a9db1 = new td_block();
+block_td_uid_14_5575bea1a9db1.id = "td_uid_14_5575bea1a9db1";
+block_td_uid_14_5575bea1a9db1.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"15","show_child_cat":5,"td_ajax_filter_type":"td_category_ids_filter","class":"td_block_id_3832553662 td_uid_14_5575bea1a9db1_rand"}';
+block_td_uid_14_5575bea1a9db1.td_column_number = "3";
+block_td_uid_14_5575bea1a9db1.block_type = "td_block_mega_menu";
+block_td_uid_14_5575bea1a9db1.post_count = "5";
+block_td_uid_14_5575bea1a9db1.found_posts = "171";
+block_td_uid_14_5575bea1a9db1.max_num_pages = "35";
+block_td_uid_14_5575bea1a9db1.header_color = "";
+block_td_uid_14_5575bea1a9db1.ajax_pagination_infinite_stop = "";
+td_blocks.push(block_td_uid_14_5575bea1a9db1);
+</script><div class="td_block_wrap td_block_mega_menu td_block_id_3832553662 td_uid_14_5575bea1a9db1_rand  td-pb-border-top"><div id="td_uid_14_5575bea1a9db1" class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/lifestyle/10-attitudes-attract-healthy-relationship/" rel="bookmark" title="10 Attitudes That Attract A Healthy Relationship"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/06/woman-591576_6401-180x135.jpg?0139f6" alt="woman" title="10 Attitudes That Attract A Healthy Relationship"></a></div>                            </div>
+
+            <div class="item-details">
+                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/lifestyle/10-attitudes-attract-healthy-relationship/" rel="bookmark" title="10 Attitudes That Attract A Healthy Relationship">10 Attitudes That Attract A Healthy Relationship</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/lifestyle/wedding/15-weird-astonishing-bridesmaid-photos/" rel="bookmark" title="15 Weird And Astonishing Bridesmaid Photos"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/06/ezgif-1761431118-180x135.jpg?0139f6" alt="bridesmaid" title="15 Weird And Astonishing Bridesmaid Photos"></a></div>                            </div>
+
+            <div class="item-details">
+                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/lifestyle/wedding/15-weird-astonishing-bridesmaid-photos/" rel="bookmark" title="15 Weird And Astonishing Bridesmaid Photos">15 Weird And Astonishing Bridesmaid Photos</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/lifestyle/10-worst-foods-that-can-damage-your-teeth/" rel="bookmark" title="10 Worst Foods That Can Damage Your Teeth"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/06/ezgif-3790556029-180x135.jpg?0139f6" alt="candy" title="10 Worst Foods That Can Damage Your Teeth"></a></div>                            </div>
+
+            <div class="item-details">
+                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/lifestyle/10-worst-foods-that-can-damage-your-teeth/" rel="bookmark" title="10 Worst Foods That Can Damage Your Teeth">10 Worst Foods That Can Damage Your Teeth</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/lifestyle/relationships/recognizing-signs-true-love/" rel="bookmark" title="Recognizing The Signs Of True Love"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/06/ezgif-759353454-180x135.jpg?0139f6" alt="true love" title="Recognizing The Signs Of True Love"></a></div>                            </div>
+
+            <div class="item-details">
+                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/lifestyle/relationships/recognizing-signs-true-love/" rel="bookmark" title="Recognizing The Signs Of True Love">Recognizing The Signs Of True Love</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/lifestyle/travel/15-gorgeous-castles-around-world/" rel="bookmark" title="15 Gorgeous Castles From Around The World"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/06/ezgif-861354141-180x135.jpg?0139f6" alt="Most beautiful castle" title="15 Gorgeous Castles From Around The World"></a></div>                            </div>
+
+            <div class="item-details">
+                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/lifestyle/travel/15-gorgeous-castles-around-world/" rel="bookmark" title="15 Gorgeous Castles From Around The World">15 Gorgeous Castles From Around The World</a></h3>            </div>
+        </div>
+        </div></div></div><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="cur-sub-cat mega-menu-sub-cat-td_uid_14_5575bea1a9db1" id="td_uid_15_5575bea1b17bf" data-td_block_id="td_uid_14_5575bea1a9db1" data-td_filter_value="" href="http://www.maxviral.com/category/lifestyle/">All</a><a class="mega-menu-sub-cat-td_uid_14_5575bea1a9db1" id="td_uid_16_5575bea1b19b6" data-td_block_id="td_uid_14_5575bea1a9db1" data-td_filter_value="30" href="http://www.maxviral.com/category/lifestyle/diy/">DIY</a><a class="mega-menu-sub-cat-td_uid_14_5575bea1a9db1" id="td_uid_17_5575bea1b1c62" data-td_block_id="td_uid_14_5575bea1a9db1" data-td_filter_value="576" href="http://www.maxviral.com/category/lifestyle/finance-lifestyle/">Finance</a><a class="mega-menu-sub-cat-td_uid_14_5575bea1a9db1" id="td_uid_18_5575bea1b1ec4" data-td_block_id="td_uid_14_5575bea1a9db1" data-td_filter_value="575" href="http://www.maxviral.com/category/lifestyle/food/">Food</a><a class="mega-menu-sub-cat-td_uid_14_5575bea1a9db1" id="td_uid_19_5575bea1b215b" data-td_block_id="td_uid_14_5575bea1a9db1" data-td_filter_value="352" href="http://www.maxviral.com/category/lifestyle/funnies/">Funnies</a><a class="mega-menu-sub-cat-td_uid_14_5575bea1a9db1" id="td_uid_20_5575bea1b23e2" data-td_block_id="td_uid_14_5575bea1a9db1" data-td_filter_value="34" href="http://www.maxviral.com/category/lifestyle/health/">Health</a></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_14_5575bea1a9db1" data-td_block_id="td_uid_14_5575bea1a9db1"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#" class="td-ajax-next-page" id="next-page-td_uid_14_5575bea1a9db1" data-td_block_id="td_uid_14_5575bea1a9db1"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-3149"><a>More</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children td-menu-item td-normal-menu menu-item-3200"><a href="http://www.maxviral.com/category/celebrity/">Celebrity</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3201"><a href="http://www.maxviral.com/category/celebrity/buzz/">Buzz</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3202"><a href="http://www.maxviral.com/category/celebrity/celeb-pics/">Celeb Pics</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3203"><a href="http://www.maxviral.com/category/celebrity/red-carpet/">Red Carpet</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3204"><a href="http://www.maxviral.com/category/celebrity/scandals/">Scandals</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children td-menu-item td-normal-menu menu-item-346"><a href="http://www.maxviral.com/category/fashion/">Fashion</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3153"><a href="http://www.maxviral.com/category/fashion/accessories/">Accessories</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3154"><a href="http://www.maxviral.com/category/fashion/beauty/">Beauty</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3155"><a href="http://www.maxviral.com/category/fashion/hairstyles/">Hairstyles</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3157"><a href="http://www.maxviral.com/category/fashion/ladies/">Ladies</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3158"><a href="http://www.maxviral.com/category/fashion/mens/">Mens</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3156"><a href="http://www.maxviral.com/category/fashion/kids/">Kids</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children td-menu-item td-normal-menu menu-item-3205"><a href="http://www.maxviral.com/category/fun/">Funnies</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3206"><a href="http://www.maxviral.com/category/fun/fail/">Fail</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3210"><a href="http://www.maxviral.com/category/fun/win/">Win</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3207"><a href="http://www.maxviral.com/category/fun/for-girls/">For Girls</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3208"><a href="http://www.maxviral.com/category/fun/for-guys/">For Guys</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3209"><a href="http://www.maxviral.com/category/fun/random/">Random</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children td-menu-item td-normal-menu menu-item-3211"><a href="http://www.maxviral.com/category/lifestyle/">Lifestyle</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3212"><a href="http://www.maxviral.com/category/lifestyle/diy/">DIY</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3213"><a href="http://www.maxviral.com/category/lifestyle/finance-lifestyle/">Finance</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3214"><a href="http://www.maxviral.com/category/lifestyle/food/">Food</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3216"><a href="http://www.maxviral.com/category/lifestyle/health/">Health</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3217"><a href="http://www.maxviral.com/category/lifestyle/home/">Home</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3218"><a href="http://www.maxviral.com/category/lifestyle/parenting/">Parenting</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3219"><a href="http://www.maxviral.com/category/lifestyle/relationships/">Relationships</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3221"><a href="http://www.maxviral.com/category/lifestyle/travel/">Travel</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3222"><a href="http://www.maxviral.com/category/lifestyle/wedding/">Wedding</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children td-menu-item td-normal-menu menu-item-101"><a href="http://www.maxviral.com/category/media/">Media</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3160"><a href="http://www.maxviral.com/category/media/at-the-movies/">At the Movies</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3161"><a href="http://www.maxviral.com/category/media/books-magazines/">Books &amp; Magazines</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3162"><a href="http://www.maxviral.com/category/media/gaming/">Gaming</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3163"><a href="http://www.maxviral.com/category/media/music/">music</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3164"><a href="http://www.maxviral.com/category/media/television/">Television</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children td-menu-item td-normal-menu menu-item-103"><a href="http://www.maxviral.com/category/nature/">Nature</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3165"><a href="http://www.maxviral.com/category/nature/animals/">Animals</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3166"><a href="http://www.maxviral.com/category/nature/environment/">Environment</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3167"><a href="http://www.maxviral.com/category/nature/history/">History</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3168"><a href="http://www.maxviral.com/category/nature/science/">Science</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3169"><a href="http://www.maxviral.com/category/nature/space/">Space</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3223"><a href="http://www.maxviral.com/category/nature/wild-and-weird/">Wild &amp; Weird</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children td-menu-item td-normal-menu menu-item-104"><a href="http://www.maxviral.com/category/sport/">Sport</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3170"><a href="http://www.maxviral.com/category/sport/baseball/">Baseball</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3171"><a href="http://www.maxviral.com/category/sport/golf/">Golf</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3172"><a href="http://www.maxviral.com/category/sport/nascar/">Nascar</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3173"><a href="http://www.maxviral.com/category/sport/nba/">NBA</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3174"><a href="http://www.maxviral.com/category/sport/nfl/">NFL</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3175"><a href="http://www.maxviral.com/category/sport/tennis/">Tennis</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3176"><a href="http://www.maxviral.com/category/sport/ufc/">UFC</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children td-menu-item td-normal-menu menu-item-129"><a href="http://www.maxviral.com/category/tech/">Tech</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3177"><a href="http://www.maxviral.com/category/tech/business/">Business</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3178"><a href="http://www.maxviral.com/category/tech/events/">Events</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3179"><a href="http://www.maxviral.com/category/tech/gadgets/">Gadgets</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3180"><a href="http://www.maxviral.com/category/tech/mobile/">Mobile</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3181"><a href="http://www.maxviral.com/category/tech/startups/">Startups</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-3485"><a href="http://www.maxviral.com/sitemap/">Sitemap</a></li>
+</ul>
+</li>
+</ul></div></div>
+
+<div class="td-search-wrapper">
+    <div id="td-top-search">
+        <!-- Search -->
+        <div class="header-search-wrap">
+            <div class="dropdown header-search">
+                <a id="td-header-search-button" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="header-search-wrap">
+	<div class="dropdown header-search">
+		<div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+			<form role="search" method="get" class="td-search-form" action="http://www.maxviral.com/">
+				<div class="td-head-form-search-wrap">
+					<input class="needsclick" id="td-header-search" type="text" value="" name="s" autocomplete="off"><input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Search">
+				</div>
+			</form>
+			<div id="td-aj-search"></div>
+		</div>
+	</div>
+</div>            </div>
+        </div>
+    </div>
+
+    <div class="td-header-container">
+        <div class="td-header-row td-header-header">
+            <div class="td-header-sp-ads">
+                
+<div class="td-header-ad-wrap  td-ad-m td-ad-tp td-ad-p">
+    <div class="td-a-rec td-a-rec-id-header "><div id="div-gpt-ad-1427744226032-0" style="margin-top:10px;margin-bottom:10px">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1427744226032-0'); });
+</script>
+</div></div>
+
+</div>            </div>
+        </div>
+    </div>
+</div>    <div class="td-container">
+        <div class="td-container-border">
+            <div class="td-pb-row">
+                                            <div class="td-pb-span8 td-main-content" role="main" itemscope="itemscope" itemprop="mainContentOfPage" itemtype="http://schema.org/CreativeWork">
+                                <div class="td-ss-main-content">
+                                                                                <div class="td-page-header td-pb-padding-side">
+                                                                                                <h1 itemprop="name" class="entry-title td-page-title">
+                                                    <span>Privacy Policy</span>
+                                                </h1>
+                                            </div>
+                                            <div class="td-pb-padding-side td-page-content">
+                                            <h2 class="p1">MaxViral.com (hereinafter “MV”, “MaxViral”, “we”, “us”, or “our”) adopts policies and procedures on the treatment of personally identifiable information (hereinafter “Personal Information”) collected, directly or indirectly, when you are accessing or using www.maxviral.com (hereinafter “Site”) or our services, features, content or applications (collectively with the Site, the “Services”).</h2>
+<hr>
+<h2 class="p1">Can I refuse to be bound by this Privacy Policy?</h2>
+<p class="p1">By using the Services, you are consenting to the collection, manipulation, transfer, storage, disclosure and other uses of Personal Information, by MV or our business partners, as described in this Privacy Policy.</p>
+<h2 class="p1">Why do we collect Personal Information?</h2>
+<p class="p1">We want to offer you always the most tailored and updated service available. It may require us to collect, use, share, and/or display some of your Personal Information.</p>
+<h2 class="p1">What kind of information do we collect?</h2>
+<p class="p1">We collect the following types of information:</p>
+<p class="p1"><strong>Account Information:</strong></p>
+<p class="p1">By creating an Account on the Services you provide us with Personal Information (for instance, username, password and email address, etc.). If you access the Services through Facebook credentials, we may automatically collect certain information available through Facebook, such as your name, picture, and email address, and use them in accordance with Facebook’s policies.</p>
+<p class="p1"><strong>User Content:</strong></p>
+<p class="p1">Your comments and all content submitted by you to the Services may be retained by MV and we may continue to disclose such content to third parties, even after you terminate your Account.</p>
+<p class="p1"><strong>Information Collected Automatically:</strong></p>
+<p class="p1">in order to fight spam/malware, to facilitate collection of data concerning your interaction with the Services, and to custom, improve and keep on the Services, some information from your device or web browser such as IP addresses, online activities, cookies or others, are received and recorded automatically when you interact with the Services.</p>
+<p class="p1">To enable us and our business partners to improve our Services we need to figure out how often users access it. It means that some usage information, such as the number and frequency of visitors to the Site or mobile application, are automatically collected and may be used in aggregate form for statistical purposes.</p>
+<p class="p1">It is possible to opt-out only of data collection on the links you have shared with others. Please get in touch with us to learn more.</p>
+<p class="p1"><strong>Location Data:</strong></p>
+<p class="p1">Your geo-location data may also be collected by our Services to provide location-related functionality. You may adjust your location services settings to stop sharing your location data with us.</p>
+<p class="p1"><strong>Email Communications:</strong></p>
+<p class="p1">To improve our Services and customer service we may receive a confirmation when you open an email from us.</p>
+<h2 class="p1">Information Collected Using Cookies:</h2>
+<p class="p1">Cookies are stored by your web browser when you visit a website and associates them. We use cookies to know how and when you use and share our the Services.</p>
+<p class="p1">There are other ways we may use cookies: to identify that your web browser has accessed aspects of the Services and associate that information with your Account, the device you use, the email or social media accounts that you use to connect to our Services and to share our content.</p>
+<p class="p1">You are free to turn off the cookie feature on your browser. However we strongly recommend that you leave cookies active on your browser, because they enable you to take advantage of the best features of the Services.</p>
+<p class="p1">Please keep in mind that this Privacy Policy covers our use of cookies only and not the use by third parties.</p>
+<h2 class="p1">Information Related to Advertising and the Use of Web Beacons:</h2>
+<p class="p1">Advertisements supports and enhances our Services, they may be sometimes targeted and served to particular users who fit a certain general profile category that may be inferred from information provided to us by a user, may be based on the Services usage patterns of particular users, or may be based on your activity on Third Party Services. Advertisements may come from third party companies, such as ad servers or ad agencies. They may collect information about your online activities when you use our Services. We are not responsible for the privacy practices of these ad networks and other parties.</p>
+<h2 class="p1">Do you share my Personal Information?</h2>
+<p class="p1">The content you have posted or shared publicly through our Services, such as posts, comments, or other submissions is public by default.</p>
+<p class="p1">Please note that, by using our certain public features, you may choose to provide Personal Information publicly available. In this way you may use or disclose it to other individuals or entities without our control and without your knowledge, and search engines may index that information.</p>
+<p class="p1">User profile information may be displayed to other users to facilitate user interaction within the Services. User email addresses will not be revealed to other users of our Site.</p>
+<p class="p1">In order to provide you some of our Services we may need to share Personal Information with our service providers that, however, are not authorized to use Personal Information or other information we share with them beyond what is necessary to assist us.</p>
+<h2 class="p1">Does this Privacy Policy apply to third parties?</h2>
+<p class="p1">Please note that this Privacy Policy only governs information we collect in connection with the Services and does not apply to the practices of third parties that we do not own or control, including but not limited to any third party websites, services and applications (hereinafter “Third Party Services”).</p>
+<p class="p1">You may access other Third Party services or sites through the Services, by accessing through them to the Service or clicking on links on the Site. Therefore we encourage you to carefully review the privacy policies of any Third Party Services you access.</p>
+<h2 class="p1">Will you use my Personal Information for email marketing?</h2>
+<p class="p1">Your email address may be occasionally used by MV to send emails and other communications to you, such as those related to your Account and for purposes important to the Services, such as password recovery. We may also use your contact information to contact you for editorial and marketing purposes. You may choose to unsubscribe from commercial emails you receive from us, but not from the service-related information, such as password recovery.</p>
+<h2 class="p1">Will my information be disclosed pursuant to business transfers?</h2>
+<p class="p1">Personal Information would be one of the assets that is transferred in the case we, or substantially all of our assets, were acquired, or if we go out of business or enter bankruptcy. Following the transfer of user information in the circumstances described in this paragraph, all inquiries concerning the processing of user information should be directed to the entity to which the information is transferred.</p>
+<h2 class="p1">Are there information that may be disclosed for your protection or the protection of others?</h2>
+<p class="p1">Please note that MaxViral reserves the right al all time to access, read and disclose any information as necessary to (i) satisfy any applicable law or regulation, legal prosecution or governmental request, (ii) enforce our Terms of Service, or (iii) protect our rights, property or safety, our users and the public. This may include exchanging information with third parties for spam/ malware prevention and fraud protection.</p>
+<h2 class="p1">Is my Private Information secure?</h2>
+<p class="p1">For your privacy and security reasons your Account information will be protected by a password that is your due to keep private and protect appropriately in order to prevent unauthorized access to your Account and Personal Information.</p>
+<p class="p1">We use techniques reasonably designed to secure the information. We do not guarantee or warrant that such techniques will prevent unauthorized access to information, nor we do guarantee the security of any Account.</p>
+<p class="p1">Despite your and our cautions, hardware or software failure, unauthorized entry or use, and other causes, may compromise the security at any time.</p>
+<h2 class="p1">What information of mine can I access?</h2>
+<p class="p1">You can access and delete cookies through your web browser settings. Furthermore, registered users can access their information by logging into their Account.</p>
+<h2 class="p1">Can I delete my account?</h2>
+<p class="p1">Yes, you can delete your account by emailing hello@maxviral.com. Please note that Account termination implies that any information you provided will no longer be accessible via your Account and that any your public activity prior to deletion will remain stored by on our serves and may be publicly accessible.</p>
+<h2 class="p1">What happens if you amend this Privacy Policy?</h2>
+<p class="p1">All changes to this Privacy Policy will be notified you by posting an announcement on the Services or sending you an email. The collected information is subject to the Privacy Policy in effect at the time such information is used, what implies that a user is bound by any changes to the Privacy Policy when he or she uses the Services after such changes have been first posted on the Site.</p>
+<h2 class="p1">What If I Have Questions or Concerns?</h2>
+<p class="p1">Please feel free to send us an email to hello@maxviral.com for any questions or concerns you may have regarding this Privacy Policy.</p>
+                                    </div>
+                                                            <div class="comments" id="comments">
+                            
+                                <div class="td-comments-title-wrap td-pb-padding-side">
+                                                                        <h4><span>NO COMMENTS</span></h4>
+                                </div>
+
+                                
+                            
+	                            <p class="td-pb-padding-side">Comments are closed.</p>
+
+                            
+                                                                                </div> <!-- /.content -->
+
+
+                                </div>
+                            </div>
+                            <div class="td-pb-span4 td-main-sidebar" role="complementary">
+                                <div class="td-ss-main-sidebar">
+                                    <div class="td-a-rec td-a-rec-id-sidebar "><div id="div-gpt-ad-1427744430148-0" style="width:300px; height:250px; margin-left:auto;margin-right:auto">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1427744430148-0'); });
+</script>
+</div></div><div class="td-a-rec td-a-rec-id-custom_ad_3 "><!-- /30992800/MaxViral_AllPages_ATF_Rail_HalfPage_300x600 -->
+<div id="div-gpt-ad-1427746236406-0" style="height:600px; width:300px;">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1427746236406-0'); });
+</script>
+</div></div><aside class="widget widget_text">			<div class="textwidget"><div id="rcjsload_2b6412"><script id="rc_589" type="text/javascript" src="http://trends.revcontent.com/serve.js.php?w=101&amp;t=rc_589&amp;c=1580409353983&amp;width=800" async=""></script></div>
+<script type="text/javascript">
+(function() {
+var rcel = document.createElement("script");
+rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+rcel.type = 'text/javascript';
+rcel.src = "http://trends.revcontent.com/serve.js.php?w=101&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth);https://www.revcontent.com/widget/101
+rcel.async = true;
+var rcds = document.getElementById("rcjsload_2b6412"); rcds.appendChild(rcel);
+})();
+</script></div>
+		</aside><aside class="widget widget_text">			<div class="textwidget"><iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fmaxviralofficial&amp;width=&amp;height=400&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=true&amp;appId=521729237867418" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:400px;" allowtransparency="true"></iframe></div>
+		</aside><aside class="widget widget_text">			<div class="textwidget"><script type="text/javascript" src="http://ap.lijit.com/www/delivery/ibv.js?z=285084&amp;zalt=285085&amp;u=ecentric&amp;pcount=&amp;width=300&amp;height=250"></script></div>
+		</aside>                                </div>
+                            </div>
+                                    </div> <!-- /.td-pb-row -->
+        </div>
+    </div> <!-- /.td-container -->
+
+    <!-- Footer -->
+
+
+
+
+
+<!-- Sub Footer -->
+    <div class="td-sub-footer-container td-container td-container-border td-add-border">
+        <div class="td-pb-row">
+            <div class="td-pb-span4 td-sub-footer-copy">
+                <div class="td-pb-padding-side">
+                    © Copyright 2015 - MaxViral                </div>
+            </div>
+
+            <div class="td-pb-span8 td-sub-footer-menu">
+                <div class="td-pb-padding-side">
+                    <div class="menu-footer-menu-container"><ul id="menu-footer-menu" class=""><li id="menu-item-632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-menu-item td-normal-menu menu-item-632"><a href="http://www.maxviral.com/about-us/">About Us</a></li>
+<li id="menu-item-6321" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-6321"><a href="http://www.maxviral.com/advertise/">Advertise</a></li>
+<li id="menu-item-625" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-625"><a href="http://www.maxviral.com/faq/">FAQ</a></li>
+<li id="menu-item-3494" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-3494"><a href="http://www.maxviral.com/sitemap/">Sitemap</a></li>
+<li id="menu-item-626" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-621 current_page_item td-menu-item td-normal-menu menu-item-626"><a href="http://www.maxviral.com/privacy-policy/">Privacy</a></li>
+<li id="menu-item-628" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-628"><a href="http://www.maxviral.com/terms-conditions/">T&amp;C</a></li>
+<li id="menu-item-627" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-627"><a href="http://www.maxviral.com/copyright-policy/">Copyright Policy</a></li>
+</ul></div>                </div>
+            </div>
+        </div>
+    </div>
+    </div><!--close content div-->
+</div><!--close td-outer-wrap-->
+	<div class="td-a-rec td-a-rec-id-custom_ad_2 "><!-- /30992800/MaxViral_BTF_728x90_Footer -->
+<div id="div-gpt-ad-1425066619712-0">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1425066619712-0'); });
+</script>
+</div></div>
+
+
+		<div id="wbounce-modal" class="wbounce-modal underlay" style="display:none">
+			<div id="wbounce-modal-sub" class="wbounce-modal-sub modal">
+				<div class="modal-body">
+<div id="contentad46280" style="margin-left:50px;"><script type="text/javascript" src="http://api.content.ad/Scripts/widget.aspx?id=f82be1dc-0bf4-4572-b13d-c77577661811&amp;d=bWF4dmlyYWwuY29t&amp;wid=46280&amp;cb=1580409354273" async=""></script></div>
+<script type="text/javascript">
+    (function() {
+        var params =
+        {
+            id: "f82be1dc-0bf4-4572-b13d-c77577661811",
+            d:  "bWF4dmlyYWwuY29t",
+            wid: "46280",
+            cb: (new Date()).getTime()
+        };
+
+        var qs="";
+        for(var key in params){qs+=key+"="+params[key]+"&"}
+        qs=qs.substring(0,qs.length-1);
+        var s = document.createElement("script");
+        s.type= 'text/javascript';
+        s.src = "http://api.content.ad/Scripts/widget.aspx?" + qs;
+        s.async = true;
+        document.getElementById("contentad46280").appendChild(s);
+    })();
+</script>
+Please like us on Facebook !
+<iframe src="//www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/maxviralofficial&amp;height=60&amp;colorscheme=light&amp;show_faces=false&amp;header=true&amp;stream=false&amp;show_border=true&amp;appId=521729237867418" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:60px;" allowtransparency="true"></iframe></div><br>
+<div class="modal-footer">
+<br>
+  <p>No Thanks...</p>
+</div>			</div>
+		</div>
+			<script>
+		(function ( $ ) {
+			var fired = false;	// Set "fired" to true as soon as the popup is fired
+			var cookieName = 'wBounce';
+			var aggressive = '';
+
+			$(document).ready(function() {
+				if (typeof ouibounce !== 'undefined' && $.isFunction(ouibounce)) {
+			      var _ouibounce = ouibounce(document.getElementById('wbounce-modal'), {
+			      	sitewide:true,cookieName:cookieName,callback:function(){fired = true;}			      });
+				};
+
+		      $('body').on('click', function() {
+		        $('#wbounce-modal').hide();
+		        		      });
+
+		      $('#wbounce-modal .modal-close').on('click', function() {
+		        $('#wbounce-modal').hide();
+		        		      });
+
+		      $('#wbounce-modal .modal-footer').on('click', function() {
+		        $('#wbounce-modal').hide();
+		        		      });
+
+		      $('#wbounce-modal-sub').on('click', function(e) {
+		        e.stopPropagation();
+		      });
+
+/*
+ * AUTOFIRE JS
+ */
+var autoFire = null;
+
+function isInteger(x) {
+	return (typeof x === 'number') && (x % 1 === 0);
+}
+function handleAutoFire( delay ) {
+	if ( (_ouibounce.checkCookieValue( cookieName, 'true') && !aggressive ) || fired === true ) return;
+	setTimeout( _ouibounce._fireAndCallback, delay );
+}
+if ( isInteger(autoFire) && autoFire !== null ) {
+  handleAutoFire( autoFire );
+}
+/*** /AUTOFIRE JS ***/
+
+			});
+
+		})(jQuery);
+		</script>
+	
+
+    <!--
+
+        Theme: Newsmag by tagDiv 2015
+        Version: 1.7.1 (rara)
+        Deploy mode: deploy
+        Speed booster: v3.2
+
+        uid: 5575bea1ca465
+    -->
+
+    <link rel="stylesheet" id="us-plugin-styles-css" href="http://www.maxviral.com/wp-content/plugins/ultimate-social-deux/public/assets/css/style.css?0139f6" type="text/css" media="all">
+<style id="us-plugin-styles-inline-css" type="text/css">
+.us_sticky .us_wrapper{background-color:#ffffff;}.us_floating .us_wrapper .us_button{width:45px;-webkit-transition:width 1000ms ease-in-out,background-color 400ms ease-out;-moz-transition:width 1000ms ease-in-out,background-color 400ms ease-out;-o-transition:width 1000ms ease-in-out,background-color 400ms ease-out;transition:width 1000ms ease-in-out,background-color 400ms ease-out;}.us_floating .us_wrapper .us_button:hover{width:90px;-webkit-transition:width 1000ms ease-in-out,background-color 400ms ease-out;-moz-transition:width 1000ms ease-in-out,background-color 400ms ease-out;-o-transition:width 1000ms ease-in-out,background-color 400ms ease-out;transition:width 1000ms ease-in-out,background-color 400ms ease-out;}.us_facebook .us_share,.us_facebook{background-color:#3b5998;}.us_facebook:hover .us_share,.us_facebook:hover{background-color:#48b1f0;}.us_twitter .us_share,.us_twitter{background-color:#00ABF0;}.us_twitter:hover .us_share,.us_twitter:hover{background-color:#48b1f0;}.us_google .us_share,.us_google{background-color:#D95232;}.us_google:hover .us_share,.us_google:hover{background-color:#48b1f0;}.us_delicious .us_share,.us_delicious{background-color:#66B2FD;}.us_delicious:hover .us_share,.us_delicious:hover{background-color:#48b1f0;}.us_stumble .us_share,.us_stumble{background-color:#E94B24;}.us_stumble:hover .us_share,.us_stumble:hover{background-color:#48b1f0;}.us_linkedin .us_share,.us_linkedin{background-color:#1C86BC;}.us_linkedin:hover .us_share,.us_linkedin:hover{background-color:#48b1f0;}.us_pinterest .us_share,.us_pinterest{background-color:#AE181F;}.us_pinterest:hover .us_share,.us_pinterest:hover{background-color:#48b1f0;}.us_buffer .us_share,.us_buffer{background-color:#000000;}.us_buffer:hover .us_share,.us_buffer:hover{background-color:#48b1f0;}.us_reddit .us_share,.us_reddit{background-color:#CEE3F8;}.us_reddit:hover .us_share,.us_reddit:hover{background-color:#48b1f0;}.us_vkontakte .us_share,.us_vkontakte{background-color:#537599;}.us_vkontakte:hover .us_share,.us_vkontakte:hover{background-color:#48b1f0;}.us_mail .us_share,.us_mail{background-color:#666666;}.us_mail:hover .us_share,.us_mail:hover{background-color:#48b1f0;}.us_love .us_share,.us_love{background-color:#FF0000;}.us_love:hover .us_share,.us_love:hover{background-color:#48b1f0;}.us_pocket .us_share,.us_pocket{background-color:#ee4056;}.us_pocket:hover .us_share,.us_pocket:hover{background-color:#48b1f0;}.us_tumblr .us_share,.us_tumblr{background-color:#529ecc;}.us_tumblr:hover .us_share,.us_tumblr:hover{background-color:#48b1f0;}.us_print .us_share,.us_print{background-color:#60d0d4;}.us_print:hover .us_share,.us_print:hover{background-color:#48b1f0;}.us_flipboard .us_share,.us_flipboard{background-color:#c10000;}.us_flipboard:hover .us_share,.us_flipboard:hover{background-color:#48b1f0;}.us_comments .us_share,.us_comments{background-color:#b69823;}.us_comments:hover .us_share,.us_comments:hover{background-color:#48b1f0;}.us_feedly .us_share,.us_feedly{background-color:#414141;}.us_feedly:hover .us_share,.us_feedly:hover{background-color:#48b1f0;}.us_youtube:hover{background-color:#48b1f0;}.us_youtube{background-color:#cc181e;}.us_vimeo{background-color:#1bb6ec;}.us_vimeo:hover{background-color:#48b1f0;}.us_behance{background-color:#1769ff;}.us_behance:hover{background-color:#48b1f0;}.us_ok .us_share,.us_ok{background-color:#f2720c;}.us_ok:hover .us_share,.us_ok:hover{background-color:#48b1f0;}.us_weibo .us_share,.us_weibo{background-color:#e64141;}.us_weibo:hover .us_share,.us_weibo:hover{background-color:#48b1f0;}.us_managewp .us_share,.us_managewp{background-color:#098ae0;}.us_managewp:hover .us_share,.us_managewp:hover{background-color:#48b1f0;}.us_xing .us_share,.us_xing{background-color:#026466;}.us_xing:hover .us_share,.us_xing:hover{background-color:#48b1f0;}.us_whatsapp .us_share,.us_whatsapp{background-color:#34af23;}.us_whatsapp:hover .us_share,.us_whatsapp:hover{background-color:#48b1f0;}.us_meneame .us_share,.us_meneame{background-color:#ff6400;}.us_meneame:hover .us_share,.us_meneame:hover{background-color:#48b1f0;}.us_digg .us_share,.us_digg{background-color:#000000;}.us_digg:hover .us_share,.us_digg:hover{background-color:#48b1f0;}.us_dribbble{background-color:#f72b7f;}.us_dribbble:hover{background-color:#48b1f0;}.us_envato{background-color:#82b540;}.us_envato:hover{background-color:#48b1f0;}.us_github{background-color:#201e1f;}.us_github:hover{background-color:#48b1f0;}.us_soundcloud{background-color:#ff6f00;}.us_soundcloud:hover{background-color:#48b1f0;}.us_instagram{background-color:#48769c;}.us_instagram:hover{background-color:#48b1f0;}.us_feedpress{background-color:#ffafaf;}.us_feedpress:hover{background-color:#48b1f0;}.us_mailchimp{background-color:#6dc5dc;}.us_mailchimp:hover{background-color:#48b1f0;}.us_flickr{background-color:#0062dd;}.us_flickr:hover{background-color:#48b1f0;}.us_members{background-color:#0ab071;}.us_members:hover{background-color:#48b1f0;}.us_more,.us_more .us_share{background-color:#53B27C;}.us_more:hover,.us_more:hover .us_share{background-color:#48b1f0;}.us_posts{background-color:#924e2a;}.us_posts:hover{background-color:#48b1f0;}.us_facebook a{color:#3b5998;}.us_facebook a:hover{color:#48b1f0;}.us_twitter a{color:#00ABF0;}.us_twitter a:hover{color:#48b1f0;}.us_google a{color:#D95232;}.us_google a:hover{color:#48b1f0;}.us_delicious a{color:#66B2FD;}.us_delicious a:hover{color:#48b1f0;}.us_stumble a{color:#E94B24;}.us_stumble a:hover{color:#48b1f0;}.us_linkedin a{color:#1C86BC;}.us_linkedin a:hover{color:#48b1f0;}.us_pinterest a{color:#AE181F;}.us_pinterest a:hover{color:#48b1f0;}.us_buffer a{color:#000000;}.us_buffer a:hover{color:#48b1f0;}.us_reddit a{color:#CEE3F8;}.us_reddit a:hover{color:#48b1f0;}.us_vkontakte a{color:#537599;}.us_vkontakte a:hover{color:#48b1f0;}.us_mail a{color:#666666;}.us_mail a:hover{color:#48b1f0;}.us_love a,.us_love{color:#FF0000;}.us_love a:hover,.us_love:hover{color:#48b1f0;}.us_pocket a{color:#ee4056;}.us_pocket a:hover{color:#48b1f0;}.us_tumblr a{color:#529ecc;}.us_tumblr a:hover{color:#48b1f0;}.us_print a{color:#60d0d4;}.us_print a:hover{color:#48b1f0;}.us_flipboard a{color:#c10000;}.us_flipboard a:hover{color:#48b1f0;}.us_comments a,.us_comments{color:#b69823;}.us_comments a:hover,.us_comments:hover{color:#48b1f0;}.us_feedly a{color:#414141;}.us_feedly a:hover{color:#48b1f0;}.us_youtube a{color:#cc181e;}.us_youtube a:hover{color:#48b1f0;}.us_vimeo a{color:#1bb6ec;}.us_vimeo a:hover{color:#48b1f0;}.us_behance a{color:#1769ff;}.us_behance a:hover{color:#48b1f0;}.us_ok a{color:#f2720c;}.us_ok a:hover{color:#48b1f0;}.us_weibo a{color:#e64141;}.us_weibo a:hover{color:#48b1f0;}.us_managewp a{color:#098ae0;}.us_managewp a:hover{color:#48b1f0;}.us_xing a{color:#026466;}.us_xing a:hover{color:#48b1f0;}.us_whatsapp a{color:#34af23;}.us_whatsapp a:hover{color:#48b1f0;}.us_meneame a{color:#ff6400;}.us_meneame a:hover{color:#48b1f0;}.us_digg a{color:#000000;}.us_digg a:hover{color:#008000;}.us_dribbble a{ color:#f72b7f;}.us_dribbble a:hover{ color:#48b1f0;}.us_envato a{color:#82b540;}.us_envato a:hover{color:#48b1f0;}.us_github a{color:#201e1f;}.us_github a:hover{color:#48b1f0;}.us_soundcloud a{color:#ff6f00;}.us_soundcloud a:hover{color:#48b1f0;}.us_instagram a{color:#48769c;}.us_instagram a:hover{color:#48b1f0;}.us_feedpress{color:#ffafaf;}.us_feedpress:hover{color:#48b1f0;}.us_mailchimp{color:#6dc5dc;}.us_mailchimp:hover{color:#48b1f0;}.us_flickr a{color:#0062dd;}.us_flickr a:hover{color:#48b1f0;}.us_members{color:#0ab071;}.us_members:hover{color:#48b1f0;}.us_more a{color:#53B27C;}.us_more a:hover{color:#48b1f0;}.us_posts{color:#924e2a;}.us_posts:hover{color:#008000;}
+</style>
+<script type="text/javascript" src="http://www.maxviral.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?0139f6"></script>
+<script type="text/javascript" src="http://www.maxviral.com/wp-content/plugins/wbounce/js/min/wbounce-ck.js?0139f6"></script>
+<script type="text/javascript" src="http://www.maxviral.com/wp-content/themes/Newsmag-Maxviral/js/pixel.js?0139f6"></script>
+<script type="text/javascript" src="http://www.maxviral.com/wp-content/themes/Newsmag-Maxviral/js/facebook.js?0139f6"></script>
+<script type="text/javascript" src="http://www.maxviral.com/wp-content/themes/Newsmag/js/tagdiv_theme.min.js?0139f6"></script>
+<script type="text/javascript" src="http://www.maxviral.com/wp-includes/js/comment-reply.min.js?0139f6"></script>
+<script type="text/javascript" src="http://www.maxviral.com/wp-content/themes/Newsmag/includes/js_files/td_smooth_scroll.js?0139f6"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var us_script = {"ajaxurl":"http:\/\/www.maxviral.com\/wp-content\/themes\/Newsmag-Maxviral\/custom-ajax.php","tweet_via":"MaxViral1","sharrre_url":"http:\/\/www.maxviral.com\/wp-content\/themes\/Newsmag-Maxviral\/custom-ajax.php","success":"Wohoo! Your message was sent.","trying":"Our digital postman is stamping your mail...","total_shares_text":"Shares","facebook_height":"500","facebook_width":"900","twitter_height":"500","twitter_width":"900","googleplus_height":"500","googleplus_width":"900","delicious_height":"550","delicious_width":"550","stumble_height":"550","stumble_width":"550","linkedin_height":"550","linkedin_width":"550","pinterest_height":"320","pinterest_width":"720","buffer_height":"500","buffer_width":"900","reddit_height":"500","reddit_width":"900","vkontakte_height":"500","vkontakte_width":"900","printfriendly_height":"500","printfriendly_width":"1045","pocket_height":"500","pocket_width":"900","tumblr_height":"500","tumblr_width":"900","flipboard_height":"500","flipboard_width":"900","weibo_height":"500","weibo_width":"900","xing_height":"500","xing_width":"900","ok_height":"500","ok_width":"900","managewp_height":"500","managewp_width":"900","meneame_height":"500","meneame_width":"900","digg_height":"500","digg_width":"900","home_url":"http:\/\/www.maxviral.com","nonce":"bbc04c8e09","already_loved_message":"You have already loved this item.","error_message":"Sorry, there was a problem processing your request.","logged_in":"false","bitly":"false"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.maxviral.com/wp-content/plugins/ultimate-social-deux/public/assets/js/min/us.script-min.js?0139f6"></script>
+<script type="text/javascript" src="http://www.maxviral.com/wp-content/plugins/ultimate-social-deux/public/assets/js/min/jquery.magnific-popup-min.js?0139f6"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"maxviral"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.maxviral.com/wp-content/plugins/disqus-comment-system/media/js/count.js?0139f6"></script>
+
+<!-- JS generated by theme -->
+
+<script>
+    
+</script>
+
+<img src="http://web.adblade.com/orders_t.php?id=28146" border="0">
+<!-- NTENT page view tracking -->
+<img width="0" height="0" src="https://secure.ntent.com/Tracking/TrackPageView.ashx?aid=Max_Viral&amp;noscript=1">
+<!-- END NTENT page view tracking -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e995be752d","applicationID":"6411880","transactionName":"bl0EZxNRXUdWVU0IC1cXJ1AVWVxaGEZYBgE=","queueTime":0,"applicationTime":922,"atts":"QhoHEVtLTkk=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using apc
+Database Caching 32/45 queries in 0.303 seconds using apc
+Object Caching 5662/5710 objects using apc
+Content Delivery Network via Amazon Web Services: CloudFront: cdn01.maxviral.com
+Application Monitoring using New Relic
+
+ Served from: www1.maxviral.com @ 2015-06-08 09:11:13 by W3 Total Cache --></body></html>
