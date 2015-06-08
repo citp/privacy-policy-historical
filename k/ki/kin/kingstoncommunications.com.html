@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kingstoncommunications.com privacy policy that was archived on 2014-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141207123237id_/http%3A//www.kc.co.uk/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kingstoncommunications.com privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608020327id_/http%3A//www.kc.co.uk/legal/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths  wf-loading" style=""><!--<![endif]--><head>
     <meta charset="utf-8">
@@ -8,10 +8,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link href="/img/global/favicon.ico" rel="shortcut icon" type="image/x-icon">
-
     <link rel="stylesheet" href="/css/standalone/normalize.css">
-
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/standalone/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+    
+                <title>KC | Privacy Policy</title>
 
     <script type="text/javascript">
         (function (i, s, o, g, r, a, m) {
@@ -23,6 +23,7 @@ m.parentNode.insertBefore(a, m);
 })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 ga('create', 'UA-15888947-8', 'auto');
 ga('require', 'ec');
+ga('require', 'linkid', 'linkid.js');
 
         
         ga('send', 'pageview');
@@ -30,16 +31,15 @@ ga('require', 'ec');
 
 
 
-        <link rel="stylesheet" href="/css/kc-main.min.css?v=20141203">
-        <link rel="stylesheet" href="/css/kc-page-styles.min.css?v=20141203">
+        <link rel="stylesheet" href="/css/kc-main.min.css?v=20150216">
+        <link rel="stylesheet" href="/css/kc-page-styles.min.css?v=20150216">
 
     <link rel="stylesheet" href="/css/vendor/jquery.bxslider.css">
     <link rel="stylesheet" href="/css/standalone/print.css" type="text/css" media="print">
 
+    <link rel="stylesheet" href="/css/cms-styles.css">
     <!--[if IE 9]><link rel="stylesheet" href="/css/standalone/page-styles.min.css"><![endif]-->
-
     <!--[if lte IE 8 ]><link rel="stylesheet" href="/css/standalone/ie.css"><![endif]-->
-            <title>KC | Privacy Policy</title>
 <style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></head>
     <body>
 
@@ -60,12 +60,12 @@ ga('require', 'ec');
     <div class="top-band">
         <div class="container">
             <div class="logo-container">
-            <a href="/" class="modernizr_css_fallback">
-                <img class="logo" src="/img/global/kc-logo.svg" width="186" height="235" alt="KC">
-            </a>
+                <a href="/" id="headerLogo" class="modernizr_css_fallback">
+                    <img class="logo" src="/img/global/kc-logo.svg" width="186" height="235" alt="KC">
+                </a>
             </div>
 
-            <a href="" onclick="loadLiveChat('cs'); return false;" title="Live Chat">
+            <a href="" id="headerLiveChat" onclick="loadLiveChat('cs'); return false;" title="Live Chat">
                 <span class="mobile-livechat icon-icon-livechat"></span>
             </a>
             <object type="image/svg+xml" data="/img/global/mobile-nav-icon.svg" class="mobile-nav-icon">
@@ -83,19 +83,19 @@ ga('require', 'ec');
                     <ul class="main-nav clearfix">
                                 <!-- Render Add On products Directly in the Dropdown -->
                                     <li>
-                                        <a href="/products/tv/features/">TV</a>
+                                        <a href="/products/youview-tv/features/" id="YouViewTVHeaderNav">YouView TV</a>
                                     </li>
                                 <!-- Render Add On products Directly in the Dropdown -->
                                     <li>
-                                        <a href="/products/broadband/features/">Broadband</a>
+                                        <a href="/products/broadband/features/" id="BroadbandHeaderNav">Broadband</a>
                                     </li>
                                 <!-- Render Add On products Directly in the Dropdown -->
                                     <li>
-                                        <a href="/products/phone/features/">Phone</a>
+                                        <a href="/products/phone/features/" id="PhoneHeaderNav">Phone</a>
                                     </li>
                                 <!-- Render Add On products Directly in the Dropdown -->
                                     <li>
-                                        <a href="/products/mobile/features/">Mobile</a>
+                                        <a href="/products/mobile/features/" id="MobileHeaderNav">Mobile</a>
                                     </li>
                                 <!-- Render Add On products Directly in the Dropdown -->
                                     <li class="dropdown add-on-products">
@@ -105,16 +105,20 @@ ga('require', 'ec');
                                             <div class="mega-dropdown-list add-ons">
                                                 <ul>
                                                                 <li>
-                                                                    <h4><a href="/products/add-ons/mytech/features/"> MyTech</a></h4>
+                                                                    <h4><a href="/products/add-ons/care/features/" id="CareHeaderNavAddon"> Care</a></h4>
+                                                                    <p>Security &amp; peace of mind for your phone, broadband and Internet connected devices.</p>
+                                                                </li>
+                                                                <li>
+                                                                    <h4><a href="/products/add-ons/mytech/features/" id="MyTechHeaderNavAddon"> MyTech</a></h4>
                                                                     <p>Expert help with your technology.</p>
                                                                 </li>
                                                                 <li>
-                                                                    <h4><a href="/products/add-ons/global/features/"> Global</a></h4>
+                                                                    <h4><a href="/products/add-ons/global/features/" id="GlobalHeaderNavAddon"> Global</a></h4>
                                                                     <p>Free international landline phone calls to your 50 most popular destinations.</p>
                                                                 </li>
                                                                 <li>
-                                                                    <h4><a href="/products/add-ons/care/features/"> Care</a></h4>
-                                                                    <p>Security &amp; peace of mind for your phone, broadband and Internet connected devices.</p>
+                                                                    <h4><a href="/products/add-ons/truecall-call-blocker/features/" id="trueCallCallBlockerHeaderNavAddon"> trueCall Call Blocker</a></h4>
+                                                                    <p>Block nuisance calls with the trueCall call blocker</p>
                                                                 </li>
 
                                                 </ul>
@@ -122,29 +126,29 @@ ga('require', 'ec');
                                         </div>
                                     </li>
 
-                        <li class="live-chat"><a href="#" onclick="loadLiveChat('cs'); return false;" title="Live Chat"><span class="icon-icon-livechat"></span> Live Chat</a></li>
+                        <li class="live-chat"><a href="#" id="LiveChatHeaderNav" onclick="loadLiveChat('cs'); return false;" title="Live Chat"><span class="icon-icon-livechat"></span> Live Chat</a></li>
                     </ul>
 
                     <ul class="top-nav">
                         <!-- Static Link -->
-                        <li><a href="//www.kcbusiness.co.uk/" title="Go to the KC Business website" target="_blank">KC Business</a></li>
+                        <li><a href="http://www.kcbusiness.co.uk/" id="KcBusinessHeaderTopNav" onclick="ga('send', 'event', 'Header Nav', 'click', 'KC Business Link');" title="Go to the KC Business website" target="_blank">KC Business</a></li>
 
                         <!-- Dynamic Menu Creation -->
                                 <li>
-                                    <a href="/community/">Community</a>
+                                    <a href="/community/" id="CommunityHeaderTopNav">Community</a>
                                 </li>
                                 <li>
-                                    <a href="/news/">News</a>
+                                    <a href="/news/" id="NewsHeaderTopNav">News</a>
                                 </li>
                                 <li>
-                                    <a href="/help-and-support/">Help and Support</a>
+                                    <a href="/help-and-support/" id="HelpandSupportHeaderTopNav">Help and Support</a>
                                 </li>
                                 <li>
-                                    <a href="/about-us/">About Us</a>
+                                    <a href="/about-us/" id="AboutUsHeaderTopNav">About Us</a>
                                 </li>
 
 
-    <li><a href="/Account/Home">Login</a></li>
+    <li><a href="/Account/Home" id="LoginHeaderTopNav">Login</a></li>
 
                     </ul>
                 </div>
@@ -272,28 +276,28 @@ ga('require', 'ec');
                 <h3>At Home</h3>
                 <ul class="link-list">
                     <li>
-                        <a href="/products/tv/features/" title="TV">TV</a>
+                        <a href="/products/tv/features/" id="TvFooter" title="TV">TV</a>
                     </li>
                     <li>
-                        <a href="/products/broadband/features/" title="Broadband">Broadband</a>
+                        <a href="/products/broadband/features/" id="BroadbandFooter" title="Broadband">Broadband</a>
                     </li>
                     <li>
-                        <a href="/products/phone/features" title="Phone">Phone</a>
+                        <a href="/products/phone/features" id="PhoneFooter" title="Phone">Phone</a>
                     </li>
                     <li>
-                        <a href="/products/mobile/features" title="Mobile">Mobile</a>
+                        <a href="/products/mobile/features" id="MobileFooter" title="Mobile">Mobile</a>
                     </li>
                     <li>
-                        <a href="https://online.kc.co.uk/" title="Check your usage" target="_blank" onclick="ga('send', 'event', 'Footer Nav', 'click', 'Check Usage');">Check your usage</a>
+                        <a href="https://online.kc.co.uk/" id="CheckUsageFooter" title="Check your usage" target="_blank" onclick="ga('send', 'event', 'Footer Nav', 'click', 'Check Usage');">Check your usage</a>
                     </li>
                     <li>
-                        <a href="/help-and-support/" title="Help and Support">Help &amp; Support</a>
+                        <a href="/help-and-support/" id="HelpAndSupportFooter" title="Help and Support">Help &amp; Support</a>
                     </li>
                     <li>
-                        <a href="https://online.kc.co.uk/" title="View your bills" target="_blank" onclick="ga('send', 'event', 'Footer Nav', 'click', 'View Bills');">View your bills</a>
+                        <a href="https://online.kc.co.uk/" id="ViewBillsFooter" title="View your bills" target="_blank" onclick="ga('send', 'event', 'Footer Nav', 'click', 'View Bills');">View your bills</a>
                     </li>
                     <li>
-                        <a href="/Account/Home" title="Sign in to my Account">My Account</a>
+                        <a href="/Account/Home" id="MyAccountFooter" title="Sign in to my Account">My Account</a>
                     </li>
                 </ul>
             </section>
@@ -301,25 +305,28 @@ ga('require', 'ec');
                 <h3>KC Business</h3>
                 <ul class="link-list">
                     <li>
-                        <a href="http://www.kcbusiness.co.uk/sectors/new-business" target="_blank" title="New business" onclick="ga('send', 'event', 'Footer Nav Business', 'click', 'New business');">New business</a>
+                        <a href="http://www.kcbusiness.co.uk/sectors/new-business" id="NewBusinessFooter" target="_blank" title="New business" onclick="ga('send', 'event', 'Footer Nav Business', 'click', 'New business');">New business</a>
                     </li>
                     <li>
-                        <a href="http://www.kcbusiness.co.uk/sectors/small-medium" target="_blank" title="SME" onclick="ga('send', 'event', 'Footer Nav Business', 'click', 'SME');">SME</a>
+                        <a href="http://www.kcbusiness.co.uk/sectors/small-medium" id="SMEFooter" target="_blank" title="SME" onclick="ga('send', 'event', 'Footer Nav Business', 'click', 'SME');">SME</a>
                     </li>
                     <li>
-                        <a href="http://www.kcbusiness.co.uk/sectors/enterprise" target="_blank" title="Enterprise" onclick="ga('send', 'event', 'Footer Nav Business', 'click', 'Enterprise');">Enterprise</a>
+                        <a href="http://www.kcbusiness.co.uk/sectors/enterprise" id="EnterpriseFooter" target="_blank" title="Enterprise" onclick="ga('send', 'event', 'Footer Nav Business', 'click', 'Enterprise');">Enterprise</a>
                     </li>
                     <li>
-                        <a href="http://www.kcbusiness.co.uk/sectors/public-sector" target="_blank" title="Public Sector" onclick="ga('send', 'event', 'Footer Nav Business', 'click', 'Public Sector');">Public Sector</a>
+                        <a href="http://www.kcbusiness.co.uk/sectors/public-sector" id="PublicSectorFooter" target="_blank" title="Public Sector" onclick="ga('send', 'event', 'Footer Nav Business', 'click', 'Public Sector');">Public Sector</a>
                     </li>
                     <li>
-                        <a href="http://www.kcbusiness.co.uk/products/connect/lightstream-broadband" target="_blank" title="Business Lightstream" onclick="ga('send', 'event', 'Footer Nav Business', 'click', 'Lightstream');">Business Lightstream</a>
+                        <a href="http://www.kcbusiness.co.uk/products/connect/lightstream-broadband" id="BusinessLightstreamFooter" target="_blank" title="Business Lightstream" onclick="ga('send', 'event', 'Footer Nav Business', 'click', 'Lightstream');">Business Lightstream</a>
                     </li>
                     <li class="footer-two-lines">
-                        <a href="http://www.kcbusiness.co.uk/products/communicate/phone-and-broadband-packages" target="_blank" title="Phone and Broadband Packages" onclick="ga('send', 'event', 'Footer Nav Business', 'click', 'Phone and BB Packages');">Phone and broadband packages</a>
+                        <a href="http://www.kcbusiness.co.uk/products/communicate/phone-and-broadband-packages" id="BusinessPhoneAndBroadbandFooter" target="_blank" title="Phone and Broadband Packages" onclick="ga('send', 'event', 'Footer Nav Business', 'click', 'Phone and BB Packages');">Phone and broadband packages</a>
                     </li>
                     <li>
-                        <a href="http://www.kcbusiness.co.uk/products/control/consultancy" title="Consultancy" target="_blank" onclick="ga('send', 'event', 'Footer Nav Business', 'click', 'Consultancy');">Consultancy</a>
+                        <a href="http://www.kcbusiness.co.uk/smartcomms" id="SmartCommsFooter" title="SmartComms" target="_blank" onclick="ga('send', 'event', 'Footer Nav Business', 'click', 'SmartComms');">SmartComms</a>
+                    </li>
+                    <li>
+                        <a href="http://www.kcbusiness.co.uk/contact" id="ContactKcBusinessFooter" title="Contact KC Business" target="_blank" onclick="ga('send', 'event', 'Footer Nav Business', 'click', 'Contact KC Business');">Contact KC Business</a>
                     </li>
                 </ul>
             </section>
@@ -327,30 +334,30 @@ ga('require', 'ec');
                 <h3>KCOM Group sites</h3>
                 <ul class="link-list">
                     <li>
-                        <a href="http://www.kcomplc.com" title="Visit KCOM PLC" target="_blank" onclick="ga('send', 'event', 'Footer Nav Sites', 'click', 'kcomplc');">kcomplc.com</a>
+                        <a href="http://www.kcomplc.com" id="KcomPlcFooter" title="Visit KCOM PLC" target="_blank" onclick="ga('send', 'event', 'Footer Nav Sites', 'click', 'kcomplc');">kcomplc.com</a>
                     </li>
                     <li>
-                        <a href="http://www.kcbusiness.co.uk" title="Visit KC Business" target="_blank" onclick="ga('send', 'event', 'Footer Nav Sites', 'click', 'business');">kcbusiness.co.uk</a>
+                        <a href="http://www.kcbusiness.co.uk" id="KcBusinessFooter" title="Visit KC Business" target="_blank" onclick="ga('send', 'event', 'Footer Nav Sites', 'click', 'business');">kcbusiness.co.uk</a>
                     </li>
                     <li>
-                        <a href="http://www.kccontactcentres.co.uk" title="Visit KC Contact Centres" target="_blank" onclick="ga('send', 'event', 'Footer Nav Sites', 'click', 'kccc');">kccontactcentres.co.uk</a>
+                        <a href="http://www.kccontactcentres.co.uk" id="KcContactCentresFooter" title="Visit KC Contact Centres" target="_blank" onclick="ga('send', 'event', 'Footer Nav Sites', 'click', 'kccc');">kccontactcentres.co.uk</a>
                     </li>
                     <li>
-                        <a href="http://www.heytoday.co.uk" title="Visit Heytoday.co.uk" target="_blank" onclick="ga('send', 'event', 'Footer Nav Sites', 'click', 'heytoday');">heytoday.co.uk</a>
+                        <a href="http://www.heytoday.co.uk" id="HeyTodayFooter" title="Visit Heytoday.co.uk" target="_blank" onclick="ga('send', 'event', 'Footer Nav Sites', 'click', 'heytoday');">heytoday.co.uk</a>
                     </li>
                     <li>
-                        <a href="http://www.colourpages.com" title="Visit ColourPages.com" target="_blank" onclick="ga('send', 'event', 'Footer Nav Sites', 'click', 'colourpages');">colourpages.com</a>
+                        <a href="http://www.colourpages.com" id="ColourPagesFooter" title="Visit ColourPages.com" target="_blank" onclick="ga('send', 'event', 'Footer Nav Sites', 'click', 'colourpages');">colourpages.com</a>
                     </li>
                 </ul>
             </section>
             <section class="fat-foot-col">
                 <h3>Connect with KC</h3>
                 <ul class="link-list">
-                    <li class="icon twitter"><a href="https://twitter.com/_KCHome" title="Follow KC Consumer on Twitter" target="_blank" onclick="ga('send', 'event', 'Footer Nav SocialMedia', 'click', 'KC Twitter');">@_KCHome</a></li>
-                    <li class="icon twitter"><a href="https://twitter.com/KC_Business" title="Follow KC_Business on Twitter" target="_blank" onclick="ga('send', 'event', 'Footer Nav SocialMedia', 'click', 'Business Twitter');">@KC_Business</a></li>
-                    <li class="icon facebook"><a href="https://www.facebook.com/kchome" title="Like us on Facebook" target="_blank" onclick="ga('send', 'event', 'Footer Nav SocialMedia', 'click', 'Facebook');">Like us on Facebook</a></li>
-                    <li class="icon linkedin"><a href="https://www.linkedin.com/company/1945419" title="Join our network on LinkedIn" target="_blank" onclick="ga('send', 'event', 'Footer Nav SocialMedia', 'click', 'LinkedIn');">Add to Network</a></li>
-                    <li class="icon youtube"><a href="http://www.youtube.com/user/KCvideochannel" title="See our videos on YouTube" target="_blank" onclick="ga('send', 'event', 'Footer Nav SocialMedia', 'click', 'YouTube');">Watch our videos</a></li>
+                    <li class="icon twitter"><a href="https://twitter.com/_KCHome" id="TwitterKcHomeFooter" title="Follow KC Consumer on Twitter" target="_blank" onclick="ga('send', 'event', 'Footer Nav SocialMedia', 'click', 'KC Twitter');">@_KCHome</a></li>
+                    <li class="icon twitter"><a href="https://twitter.com/KC_Business" id="TwitterKcBusinessFooter" title="Follow KC_Business on Twitter" target="_blank" onclick="ga('send', 'event', 'Footer Nav SocialMedia', 'click', 'Business Twitter');">@KC_Business</a></li>
+                    <li class="icon facebook"><a href="https://www.facebook.com/kchome" id="FacebookKcHomeFooter" title="Like us on Facebook" target="_blank" onclick="ga('send', 'event', 'Footer Nav SocialMedia', 'click', 'Facebook');">Like us on Facebook</a></li>
+                    <li class="icon linkedin"><a href="https://www.linkedin.com/company/1945419" id="LinkedInFooter" title="Join our network on LinkedIn" target="_blank" onclick="ga('send', 'event', 'Footer Nav SocialMedia', 'click', 'LinkedIn');">Add to Network</a></li>
+                    <li class="icon youtube"><a href="http://www.youtube.com/user/KCvideochannel" id="YouTubeFooter" title="See our videos on YouTube" target="_blank" onclick="ga('send', 'event', 'Footer Nav SocialMedia', 'click', 'YouTube');">Watch our videos</a></li>
                 </ul>
             </section>
             <section class="fat-foot-col last">
@@ -367,35 +374,35 @@ ga('require', 'ec');
             <section class="fat-foot-base-links container corp-nav">
                 <ul>
                     <li>
-                        <a href="/sitemap/" title="Sitemap">Sitemap</a>
+                        <a href="/sitemap/" id="SiteMapFooter" title="Sitemap">Sitemap</a>
                     </li>
                     <li>
-                        <a href="/legal/cookie-use-policy" title="Cookie Use Policy">Cookies</a>
+                        <a href="/legal/cookie-use-policy" id="CookiePolicyFooter" title="Cookie Use Policy">Cookies</a>
                     </li>
                     <li>
-                        <a href="http://www.kcomplc.com/careers/" title="Careers" target="_blank">Careers</a>
+                        <a href="http://www.kcomplc.com/careers/" id="CareersFooter" title="Careers" target="_blank">Careers</a>
                     </li>
                     <li>
-                        <a href="/legal/terms-of-use" title="Terms of Use">Terms of Use</a>
+                        <a href="/legal/terms-of-use" id="TOUFooter" title="Terms of Use">Terms of Use</a>
                     </li>
                     <li>
-                        <a href="/legal/legal-and-regulatory" title="Legal &amp; Regulatory">Legal &amp; Regulatory</a>
+                        <a href="/legal/legal-and-regulatory" id="LegalFooter" title="Legal &amp; Regulatory">Legal &amp; Regulatory</a>
                     </li>
                     <li>
-                        <a href="/legal/codes-of-practice" title="Codes of Practice">Codes of Practice</a>
+                        <a href="/legal/codes-of-practice" id="CodesOfPracticeFooter" title="Codes of Practice">Codes of Practice</a>
                     </li>
                     <li>
-                        <a href="/legal/privacy-policy" title="Privacy Policy">Privacy Policy</a>
+                        <a href="/legal/privacy-policy" id="PrivacyPolicyFooter" title="Privacy Policy">Privacy Policy</a>
                     </li>
                     <li class="last">
-                        <a href="/news/" title="Press Centre">Media Centre</a>
+                        <a href="/news/" title="Press Centre" id="MediaCentreFooter">Media Centre</a>
                     </li>
                 </ul>
 
-                <p>KC is a <a href="http://www.kcomplc.com" title="KCOM PLC" target="_blank">KCOM Group PLC</a> business © KCOM Group PLC 2014</p>
+                <p>KC is a <a href="http://www.kcomplc.com" id="KcomPlcCopyrightFooter" title="KCOM PLC" target="_blank">KCOM Group PLC</a> business © KCOM Group PLC 2015</p>
 
                 <div class="footer-logo-container">
-                    <a href="/" class="modernizr_css_fallback">
+                    <a href="/" id="LogoFooter" class="modernizr_css_fallback">
                         <img class="logo" src="/img/global/kc-logo.svg" width="186" height="235" alt="KC">
                     </a>
                 </div>
@@ -412,7 +419,7 @@ ga('require', 'ec');
 
 
 
-    <script src="/js/kc-bundle.min.js?v=20141202"></script>
+    <script src="/js/kc-bundle.min.js?v=20150203"></script>
 
 
 <script src="/DependencyHandler.axd?s=L2pzL3N0YW5kYWxvbmUvanF1ZXJ5LnVub2J0cnVzaXZlLWFqYXgubWluLmpzOy9qcy9zdGFuZGFsb25lL2pxdWVyeS52YWxpZGF0ZS5taW4uanM7L2pzL3N0YW5kYWxvbmUvanF1ZXJ5LnZhbGlkYXRlLnVub2J0cnVzaXZlLm1pbi5qczsvanMvc3RhbmRhbG9uZS9qcXVlcnkuY29va2llLmpzOy9qcy9zdGFuZGFsb25lL2pxdWVyeS11aS5taW4uanM7&amp;t=Javascript&amp;cdv=1318447784" type="text/javascript"></script>
