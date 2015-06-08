@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workbooks.com privacy policy that was archived on 2014-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140726225858id_/http%3A//www.workbooks.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workbooks.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608162605id_/http%3A//www.workbooks.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -96,13 +96,29 @@ We provide the capacity for users to post information in blogs and forums and fo
 
 ####  Do we disclose any information to outside parties?
 
-We do not sell your personally identifiable information to outside parties. We may release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.  
+We do not sell your personally identifiable information to outside parties. We may release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. We may also share or disclose personal information with Workbooks authorised partners.  
  
 
 ####  Children's Online Privacy Protection Act Compliance
 
 We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.  
  
+
+####  Telephone Recording Policy
+
+Workbooks Online Limited (“Workbooks”) uses a VOIP telephone system in the Company (“Company”) that is capable of recording conversations. Like many other organisations, this is a standard practice that allows the recording of telephone calls for quality monitoring, training, compliance and security purposes.
+
+Both inbound and outbound calls maybe recorded by Workbooks and will be retained for a period not exceeding twelve months. These recordings will only be used for the purposes specified in this policy.
+
+We shall ensure that the use of these recordings is fair and that we comply with the requirements of the relevant legislation. This includes:
+
+  * The Regulation of Investigatory Powers Act 2000;
+  * The Telecommunications (Lawful Business Practice) (Interception of Communications Regulations) 2000;
+  * The Telecommunications (Data Protection and Privacy) Regulations 1999;
+  * The Data Protection Act 1998;
+  * The Human Rights Act 1998.
+
+
 
 ####  Online Privacy Policy Only
 
@@ -141,3 +157,11 @@ If there are any questions regarding this privacy policy you may contact us usin
 [www.workbooks.com ](http://www.workbooks.com/)
 
 [webmaster@workbooks.com](mailto:webmaster@workbooks.com)
+
+  * The Regulation of Investigatory Powers Act 2000;
+  * The Telecommunications (Lawful Business Practice) (Interception of Communications Regulations) 2000;
+  * The Telecommunications (Data Protection and Privacy) Regulations 1999;
+  * The Data Protection Act 1998;
+  * The Human Rights Act 1998.
+
+
