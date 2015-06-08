@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betshoot.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231184226id_/http%3A//www.betshoot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betshoot.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608120056id_/http%3A//www.betshoot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy of Betshoot.com
 
@@ -34,7 +34,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 ## Betting previews
 
-When a tipster posts a betting tip on Betshoot.com, it will remain on our website as part of it’s content, even the tipster decides to close his account. 
+When a tipster posts a betting tip on Betshoot.com, it will remain on our website as part of it's content, even the tipster decides to close his account. 
 
 ## Childrens Online Privacy Protection Act Compliance
 
@@ -56,6 +56,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[Contact us](http://www.betshoot.com/contact/)
-
-Last updated: 27/02/2013
+Last updated: 11/05/2015
