@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plirt.ru privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928103442id_/http%3A//plirt.ru/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plirt.ru privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608042958id_/http%3A//plirt.ru/privacypolicy) for the most accurate reproduction.*
 
-# plirt.ru – meetings website! Communication without limits
+# plirt.ru – website for meetings! Communication without limits
 
 ### Privacy Policy
 
