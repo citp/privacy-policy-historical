@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codewars.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018055402id_/http%3A//www.codewars.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codewars.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608064624id_/http%3A//www.codewars.com/about/privacy) for the most accurate reproduction.*
 
 # Codewars
 
