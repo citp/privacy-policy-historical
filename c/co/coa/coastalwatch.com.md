@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the coastalwatch.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207153909id_/http%3A//www.coastalwatch.com/surfing/12300/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coastalwatch.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608212654id_/http%3A//www.coastalwatch.com/surfing/12300/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Disclaimer | Coastalwatch.com
 
-25 Oct 2013 4,848 VIEWS
+25 Oct 2013 6,908 VIEWS
 
-Coastalwatch.com Pty Ltd have created this privacy statement in order to demonstrate our firm commitment to our information gathering and dissemination practices for this website Coastalwatch.com and our mobile applications.
+Coastalwatch Pty Ltd have created this privacy statement in order to demonstrate our firm commitment to our information gathering and dissemination practices for this website Coastalwatch.com and our mobile applications.
+
+Coastalwatch Pty Ltd includes the following: Surfing World Magazine www.surfingworld.com.au, Transmoto Dirt Bike Magazine http://transmoto.com.au and crm.coastalwatch.com.  
+
 
 We may use your IP address to help diagnose problems with our server, and to administer our website. Your IP address is used to gather broad demographic information. We occasionally use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes.
 
@@ -30,7 +33,8 @@ We use an outside ad company to display ads on our site. These ads may contain c
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  * ·You can send email to [Customerservice@coastalwatch.com](mailto:Customerservice@coastalwatch.com)
+  * ·You can send email to [Customerservice@coastalwatch.com](mailto:Customerservice@coastalwatch.com)  
+
   * ·You can call Customer Service within Australia on: 1800 20 75 02
   * ·You can send mail to the following postal address: PO Box 603 , Avalon , NSW 2107.  ** **
 
@@ -41,7 +45,8 @@ This site gives users the following options for removing their information from 
 
  ****This site gives users the following options for changing and modifying information previously provided.  
 
-  * ·You can send email to [Customerservice@coastalwatch.com](mailto:Customerservice@coastalwatch.com)
+  * ·You can send email to [Customerservice@coastalwatch.com](mailto:Customerservice@coastalwatch.com)  
+
   * ·You can call Customer Service within Australia on: 1800 20 75 02
   * ·You can send mail to the following postal address: PO Box 603 , Avalon , NSW 2107. 
 
@@ -54,7 +59,8 @@ Coastalwatch Pty Ltd
 
 Avalon  
 NSW 2107  
-[Customerservice@coastalwatch.com](mailto:Customerservice@coastalwatch.com)
+[Customerservice@coastalwatch.com](mailto:Customerservice@coastalwatch.com)  
+
 
 **Disclaimer**
 
@@ -94,7 +100,5 @@ connections transmitted to and from this site being intercepted and modified by 
  ****The Bureau of Meteorology has no direct control over the content of any linked sites, or the changes that may occur to the content on those sites. It is the responsibility of the user to make their own decisions about the accuracy, currency, reliability and correctness of information contained in linked external web sites.
 
 Links to external web sites do not constitute an endorsement or a recommendation of any material on those sites or of any third party products or services offered by, from or through those sites. Users of links provided by this web site are responsible for being aware of which organisation is hosting the web site they visit.
-
-**Tags:** (create Alert from these tags) 
 
 [blog comments powered by ](http://disqus.com/)
