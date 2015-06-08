@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the become.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227122359id_/http%3A//www.become.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the become.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608110653id_/http%3A//www.become.com/about/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy for Become.com Become.com About
+# Privacy Policy for Become.com
 
 _Updated: May 26, 2009_
 
@@ -30,19 +30,21 @@ Our Privacy Statement explains what information we obtain on the Site and how we
 
 The information that we collect includes personal information about you that we or certain of our Third Party Partners consider necessary for performing a preliminary evaluation of your qualifications to receive applicable products and/or services. Depending on the extent that you access/use our service(s), the type of personally identifiable information that may be collected may include (without limitation): name; address; e-mail address; telephone number; fax number; credit card information; information about your interests in and use of various products, programs, and services; education level; educational interests; home owner status; income; debt level and the like. To the extent that you are requested and you do submit information about other people, such information will be limited recipient’s name, address, e-mail address, and telephone number. On some of the Sites you may be able to become a registered user. When you decide to become a registered user, we ask for some basic contact information which we use to enable use of certain features of the Site (e.g., avatar, creation, community participation, submission of product/merchant reviews and creation of lists etc.) and to send you information about our company, services and products, and to communicate occasional offers from our partners and advertisers.
 
-_Cookies_
+Cookies
 
 In addition to the personal information you provide to us, we collect certain information online and offline arising out of your use of our Site, including but not limited to the number and type of offers you have responded to and completed. When you visit our Site, we automatically track certain non-personally identifiable information with respect to your behavior on the Site through the cookie we place in your browser. This non-personally identifiable information may include the Internet address or URL that you just came from and the URL to which you go next; your computer browser information; and your IP address. We use this non-personally identifiable information in conjunction with some of the information that you provided to conduct internal research on users’ demographics and behavior and to better understand how to serve users of the Site. The aforementioned information cannot, by itself, be used to gather any personally identifiable information about you, but it will allow us to track the overall effectiveness of our online advertising campaigns. Third parties may also set cookies on or through the service to track Site usage and to track the overall effectiveness of our online advertising campaigns.
 
 We use both session cookies, which terminate when a user closes his/her browser, and persistent cookies, which remain on the user’s computer until manually deleted. You may decline our cookies if your Web browser software permits, although this may prevent you from accessing certain features of the Site(s).
 
-_Log Files_
+Log Files
 
 We track certain non-personally identifiable information through server log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp and number of clicks to analyze trends and administer the Site, track user’s movement in the aggregate and gather broad demographic information for aggregate use. We use your IP address at times to help identify you as you browse and to gather broad technical and demographic information on who uses the Site. We do not presently tie server log files to personally identifiable information.
 
-_Web Beacons_
+Web Beacons
 
 We may employ and certain Third Party Partners may employ a software technology called clear gifs (also known as Web Beacons or Web Bugs). Clear gifs help us better manage content through the service by informing us what content and which campaigns are effective. Clear gifs are tiny graphics, about the size of a period at the end of a sentence, with a unique identifier. Clear gifs are similar in function to cookies and are used to track the online movements of Web users. In addition, we and certain Third Party Partners may use clear gifs in HTML-based emails. This allows us and the Third Party Partner to gauge the effectiveness of certain communications and the effectiveness of marketing campaigns by showing how many emails the recipients have opened. We do not presently tie clear gifs to personally identifiable information. If you wish to opt out of the use of third party clear gifs, you may do so at <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 ###### How We Use Your Information
 
@@ -75,7 +77,7 @@ In the event we offer product and/or services where your credit card information
 
 ###### Sharing your Information
 
-_Third parties_
+Third parties
 
 **WE MAY USE INFORMATION THAT WE HAVE COLLECTED FOR ANY LEGALLY PERMISSIBLE PURPOSE, INCLUDING SELLING OR TRANSFERRING SUCH INFORMATION AT ANY TIME TO THIRD PARTIES FOR ANY LEGALLY PERMISSIBLE PURPOSE.**
 
@@ -89,11 +91,11 @@ When you complete a Third Party Partner’s offer displayed through the Site, wh
 
 We may also transfer or share non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons visiting this site.
 
-_Service Providers_
+Service Providers
 
 In order to provide the products or services you have requested, we may disclose the information we collect to companies that perform services on our behalf, such as email communications management firms or call center providers.
 
-_Other Purposes/Business Transfer_
+Other Purposes/Business Transfer
 
 We may also disclose your personally identifiable information in response to a subpoena, court order, or other legal process. We may share your information with companies that are affiliated with us, that is, are our direct or indirect subsidiaries or parent or sister companies. As we continue to develop our business we might buy or sell companies, subsidiaries, or business units. In such transactions, customer information is generally one of the transferred assets but remains subject to the promises made in any pre-existing privacy statement. Should such a combination or acquisition occur, we will require that the new combined or acquiring entity follow this Privacy Statement with respect to your personal information. If we transfer ownership of the site to another company, we will notify you by email or by general notice on our site.
 
@@ -120,8 +122,8 @@ From time to time, we may use your information for new, unanticipated uses not p
 If you have any questions or suggestions regarding our Privacy Statement, please contact us at:
 
 Become, Inc.  
-640 W California Ave, Suite 100  
-Sunnyvale, CA 94086  
+333 W. El Camino Real, Suite 330  
+Sunnyvale, CA 94087  
 Attn: Legal Affairs Department
 
 ###### Special Notification for California Residents
