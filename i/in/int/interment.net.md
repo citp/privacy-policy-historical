@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the interment.net privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124042813id_/http%3A//www.interment.net/statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interment.net privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608054151id_/http%3A//www.interment.net/statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Cemetery Records Online
-
-| 
 
 ###  Privacy Statement for Cemetery Records Online 
 
@@ -57,13 +55,3 @@ If you have any questions about this privacy statement, the practices of this si
 
 
 [ steve@cleardigitalmedia.com ](mailto:steve@cleardigitalmedia.com)
-
-#### Sponsored Genealogy Links
-
-  * [USA Death Records, 1900-Present](http://www.archives.com/?_act=deathRecords&location=US&hardCopyCert=1&cam=419&utm_medium=Advertising&utm_source=Interment.net&utm_campaign=GenealogTextLinks&utm_content=GenealogyTextLinksDR) \- Archives.com
-  * [USA Obituary Records, 1900-Present](http://www.archives.com/?_act=obituaries&location=US&hardCopyCert=1&cam=419&utm_medium=Advertising&utm_source=Interment.net&utm_campaign=GenealogTextLinks&utm_content=GenealogyTextLinksObits) \- Archives.com
-  * [USA Birth Records, 1900-Present](http://www.archives.com/?_act=birthRecords&location=US&hardCopyCert=1&cam=419&utm_medium=Advertising&utm_source=Interment.net&utm_campaign=GenealogTextLinks&utm_content=GenealogyTextLinksBR) \- Archives.com
-  * [USA Marriage Records, 1900-Present](http://www.archives.com/?_act=marriageRecords&location=US&hardCopyCert=1&cam=419&utm_medium=Advertising&utm_source=Interment.net&utm_campaign=GenealogTextLinks&utm_content=GenealogyTextLinksMR) \- Archives.com
-  * [USA Vital Records, 1900-Present](http://www.archives.com/?_act=vitalRecords&location=US&hardCopyCert=1&cam=419&utm_medium=Advertising&utm_source=Interment.net&utm_campaign=GenealogTextLinks&utm_content=GenealogyTextLinksVR) \- Archives.com
-
-
