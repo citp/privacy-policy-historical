@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetechme.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222154335id_/http%3A//thetechme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetechme.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608030219id_/http%3A//thetechme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TheTechme
 
@@ -28,8 +28,3 @@ The following two tabs change content below.
 
 
 Hunny Garg is the owner and founder of thetechme.com and he is perusing Electronics Engineering Stundents (4th ECE) from GGSIPU. In his free time, he loves to write about android tweaks, iphone jailbreak tweaks and latest technology.
-
-#### Latest posts by Hunny Garg ([see all](http://thetechme.com/author/technome/))
-
-
-
