@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freep.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206203308id_/http%3A//static.freep.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freep.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608121436id_/http%3A//static.freep.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Detroit Free Press
 
