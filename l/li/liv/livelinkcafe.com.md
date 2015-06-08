@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livelinkcafe.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231110453id_/http%3A//livelinkcafe.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livelinkcafe.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608095059id_/http%3A//livelinkcafe.com/privacy.php) for the most accurate reproduction.*
 
 # LiveLinkCafe.com - NO Email Safelist Advertising | Unique Link Surfing Safelist
 
@@ -12,7 +12,7 @@
   
 ---|---  
   
-Members: [ **5468** ]  
+Members: [ **6682** ]  
   
 * * *  
   
@@ -50,14 +50,3 @@ Cancel Your Membership / Opt Out
 
 If at any time you wish to close your account you may email your request to [helpdesk@livelinkcafe.com](mailto:helpdesk@livelinkcafe.com). Please be aware that terminating your account will cancel any and all credits due, without refund.   
 
-
-* * *
-
-  
-  
----  
-  
-  
-[](http://www.clixsense.com/?2966256)
-
-[](http://www.easyhits4u.com/?ref=dublife)
