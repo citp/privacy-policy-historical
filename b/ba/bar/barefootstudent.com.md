@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the barefootstudent.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120122357id_/http%3A//www.barefootstudent.com/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barefootstudent.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608054004id_/http%3A//www.barefootstudent.com/page/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-### Privacy Policy
-
-  
-
 
 This policy details how data about you is collected/used/disclosed when you visit our websites and services or otherwise interact with us. If we update it, we will revise the date, place notices on Barefoot Student if a change is material, and/or obtain your consent as required by law.
 
