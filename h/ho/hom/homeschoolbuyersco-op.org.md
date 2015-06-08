@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeschoolbuyersco-op.org privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224061040id_/http%3A//www.homeschoolbuyersco-op.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeschoolbuyersco-op.org privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608200118id_/http%3A//www.homeschoolbuyersco-op.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of the Homeschool Buyers Co-op - Homeschool Buyers Co-op
 
