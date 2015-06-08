@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allentate.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524063458id_/http%3A//www.allentate.com/DesktopDefault.aspx%3Fpageid%3D36%26pagealias%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allentate.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609001433id_/http%3A//www.allentate.com/DesktopDefault.aspx%3Fpageid%3D36%26pagealias%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Allen Tate Real Estate - Privacy Policy
 
@@ -10,7 +10,7 @@ This Privacy Policy details the type of information we collect, the methods whic
 
 ## Who is Allen Tate?
 
-Founded in 1957, the Allen Tate Company has grown to become the area's #1 real estate company. With locations covering North and South Carolina and over 1,800 sales associates, we work together to fulfill one objective: legendary customer service. This mission has helped us become the largest firm in the region and among the Top 10 private firms in the country.
+Founded in 1957, the Allen Tate Company has grown to become the area's #1 real estate company. With locations covering North and South Carolina and over 1,400 sales associates, we work together to fulfill one objective: legendary customer service. This mission has helped us become the largest firm in the region and among the Top 10 private firms in the country.
 
 ## What Kind of Information Does Allen Tate Collect?
 
@@ -18,25 +18,27 @@ Allen Tate gathers information in a variety of ways including loan applications,
 
 ## How Allen Tate Uses Your Information
 
-In some instances Allen Tate may share certain personal information regarding our customers. On occasion, Allen Tate may disclose some or all of your personal information to business partners or sponsors. Business partners may include but are not limited to insurance companies, home warranty partners, moving companies and other companies that provide services to home owners. In addition, some promotional offers may require that we collect and share certain personal information with outside vendors.
+In some instances Allen Tate may share certain personal information regarding our customers. On occasion, Allen Tate may disclose some or all of your personal information to business partners or sponsors. Business partners may include but are not limited to insurance companies, home warranty partners, moving companies and other companies that provide services to homeowners. In addition, some promotional offers may require that we collect and share certain personal information with outside vendors.
 
-Through our various partnerships, you may have the opportunity to receive materials or special offers from third parties. If you agree, Allen Tate will share any necessary personal information, most often name and e-mail address, with these third parties.
+Through our various partnerships, you may have the opportunity to receive materials or special offers from third parties. If you agree, Allen Tate will share any necessary personal information, most often name and e-mail address, with these third parties. 
+
+By providing a phone number you are granting permission to call you in response to your request, even if the phone number is included in the state and/or national Do Not Call Registry.
 
 ## Use of IP Address
 
-Your IP address is a unique number used to identify your specific computer on a public network. Allen Tate may collect IP addresses for the purpose of system administration, to analyze consumer behavior and trends and to audit the use and functionality of our Web site. IP addresses are not linked to personal identifying information and are normally kept anonymous. Allen Tate may utilize an IP address to identify a Web site visitor when we feel it is necessary to enforce compliance with our site terms or to protect our service, site, consumers or others.
+Your IP address is a unique number used to identify your specific computer on a public network. Allen Tate may collect IP addresses for the purpose of system administration, to analyze consumer behavior and trends and to audit the use and functionality of our Web site. IP addresses are not linked to personal identifying information and are normally kept anonymous. Allen Tate may utilize an IP address to identify a Website visitor when we feel it is necessary to enforce compliance with our site terms or to protect our service, site, consumers or others.
 
 ## Use of Cookies
 
-Allen Tate may use �cookies?to track the online behavior of our Web site visitors. Cookies are small amounts of data that the visitor retains on their computer. This process allows the visitor to go back to saved information from a previous visit. Cookies make web surfing easier for you by saving your preferences. Cookies do not tell us personal identifying information unless you have chosen to provide it to us.
+Allen Tate may use "cookies" to track the online behavior of our Website visitors. Cookies are small amounts of data that the visitor retains on their computer. This process allows the visitor to go back to saved information from a previous visit. Cookies make web surfing easier for you by saving your preferences. Cookies do not tell us personal identifying information unless you have chosen to provide it to us.
 
-In addition to creating a simplified web experience by saving your Web site preferences, Allen Tate may use cookies to track Web site usage trends and patterns. These usage patterns and trends may help us enhance the services we provide to our online consumer.
+In addition to creating a simplified web experience by saving your Website preferences, Allen Tate may use cookies to track Website usage trends and patterns. These usage patterns and trends may help us enhance the services we provide to our online consumer.
 
 You have the option of disabling your cookies via your browser preferences.
 
 ## Link to Web Sites and Services
 
-As a visitor of Allen Tate, you should be aware that when you click on links that take you to a third-party Web site, you will be subject to their respective privacy policy. Allen Tate supports the privacy of all visitors to Allentate.com but cannot be responsible for the actions of third parties. It is important to read and understand the privacy policy of any Web site you may visit.
+As a visitor of Allen Tate, you should be aware that when you click on links that take you to a third-party Website, you will be subject to their respective privacy policy. Allen Tate supports the privacy of all visitors to Allentate.com but cannot be responsible for the actions of third parties. It is important to read and understand the privacy policy of any Website you may visit.
 
 ## Modifying Account Information and Opting Out
 
@@ -50,7 +52,7 @@ To unsubscribe to e-mail correspondence simply contact our Client Care departmen
 
 You will be notified should any changes or modifications be made to this policy and will have the option to opt-out based on applicable laws. E-mail notification may also follow when required.
 
-Your acceptance of these terms: By using this site, you signify your agreement to Allen Tate�s Privacy Policy. IF YOU DO NOT AGREE WITH THIS POLICY, PLEASE DO NOT USE THIS SITE. Your continued use of Allentate.com and/or its affiliates'?sites following the posting of changes to these terms will mean you accept those changes.
+Your acceptance of these terms: By using this site, you signify your agreement to Allen Tate's Privacy Policy. IF YOU DO NOT AGREE WITH THIS POLICY, PLEASE DO NOT USE THIS SITE. Your continued use of Allentate.com and/or its affiliates' sites following the posting of changes to these terms will mean you accept those changes.
 
 If you have questions or concerns regarding the Privacy Policy, please do not hesitate to contact our Client Care department.
 
