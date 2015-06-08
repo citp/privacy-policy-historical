@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the commscope.com privacy policy that was archived on 2014-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141219214953id_/http%3A//www.commscope.com/About-Us/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the commscope.com privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608161903id_/http%3A//www.commscope.com/About-Us/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=""><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="google-translate-customization" content="ac04ca58e2cb016a-f41375ae7305f72c-g7e5972fec99be307-14">
 
@@ -17,6 +17,7 @@
     
     <title>Privacy</title>
 <meta name="Keywords" content="privacy, personal data, privacy statement, cookies">
+<meta name="Description" content="Privacy Statement">
 
 
 	    <!-- Bootstrap CSS -->
@@ -55,8 +56,8 @@
 <script type="text/javascript">
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-75011-26']);
+
 _gaq.push(['_trackPageview']);
-_gaq.push(['_setCustomVar', 3,'Member', '0', 2]); 
 
 (function() {
 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -73,7 +74,11 @@ $(document).ready(function () {
 function TrackEventsForClicks() 
 {	// add your file extension here
     TrackEventByFileExtension(".pdf"); 
-    
+	TrackEventByFileExtension(".zip"); 
+	TrackEventByFileExtension(".exe"); 
+	TrackEventByFileExtension(".xls"); 
+	TrackEventByFileExtension(".png"); 
+	TrackEventByFileExtension(".jpg");    
 }   
   
 function TrackEventByFileExtension(FileExtension) 
@@ -104,14 +109,18 @@ function TrackEventByFileExtension(FileExtension)
             $('#txtSearch').autocomplete({
                 source: function (request, response) {
                     $.ajax({
-                        url: "/templates/SiteSearch/Default.aspx/GetProducts",
+                        url: "/templates/ProductCatalog/Default.aspx/GetProducts",
                         data: "{ 'prefixText':'" + request.term + "'}",
                         dataType: "json",
                         type: "POST",
                         contentType: "application/json; charset=utf-8",
                         success: function (data) {
                             response($.map(data.d, function (item) {
-                                return { value: item }
+                                return {
+                                    label: item.name,
+									value: item.name,
+									src: item.src + '&s=search'
+                                }
                             }))
                         },
                         error: function (XMLHttpRequest, textStatus, errorThrown) {
@@ -119,9 +128,24 @@ function TrackEventByFileExtension(FileExtension)
                         }
                     });
                 },
-                select: function (a, b) {
-                    window.location.href = "/SiteSearch/?q=" + b.item.value + "&type=ProductSpecification";
-                }
+                select: function (event, b) {
+                    // prevent autocomplete from updating the textbox
+                    event.preventDefault();
+                    window.location.href = b.item.src;
+                },			
+				open: function (e, ui) {
+					var acData = $(this).data('ui-autocomplete');
+					acData
+					.menu
+					.element
+					.find('a')
+					.each(function () {
+						var me = $(this);
+						var keywords = acData.term.split(' ').join('|');
+						me.html(me.text().replace(new RegExp("(" + keywords + ")", "gi"), '<b>$1</b>'));
+					});
+				},
+				position: { collision: "fit none" } // accepts a single value or a pair for horizontal/vertical
             });
 
             //append a header to the results list
@@ -143,31 +167,41 @@ function TrackEventByFileExtension(FileExtension)
     <div id="site-header">
         <div class="container">
             <div class="user-menu">
+                
 
                 <div class="relative x-small">
                     <!-- position this to relative, so the siblings in it can be postioned absolutely within this container -->
 
-                    <ul class="myprofile">
-                        <li><a href="/Membership/MyProfile.aspx">
-                            <span id="ctl00_Header_lblWelcome"></span></a><span id="ctl00_Header_lblWelcomeBar"></span></li>
-                        <li><a href="/membership/default.aspx">
-                            <span id="ctl00_Header_lblMYC">Login</span></a> | </li>
+                    <span class="myprofile" style="margin-top: -2px; ">
+                        <a href="/Membership/MyProfile.aspx"><span id="ctl00_Header_lblWelcome"></span></a><span id="ctl00_Header_lblWelcomeBar"></span>
+                         <a href="/membership/default.aspx" class="login-out"><span id="ctl00_Header_lblMYC">Login</span></a> <!--&nbsp;&nbsp;|--> 
                         
-                       
-                      <script src="/theme/js/motionPoint.js"></script>
+                        
 
-                          <li><a mporgnav="" href="http://es.commscope.com" onclick="return switchLanguage('es'); function switchLanguage(lang) { MP.SrcUrl=decodeURIComponent('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';MP.init();
-	MP.switchLanguage(MP.UrlLang==lang?'en':lang); return false; }"> Español</a> | </li>
+                        <script src="/theme/js/motionPoint.js"></script>
+                        <script type="text/javascript">
+                            function switchLanguage(lang) {
+                                MP.SrcUrl = decodeURIComponent('mp_js_orgin_url'); MP.UrlLang = 'mp_js_current_lang'; MP.init();
+                                MP.switchLanguage(MP.UrlLang == lang ? 'en' : lang);
+                                return false;
+                            }
+                         </script>
 
-                         <li><a mporgnav="" href="http://zh.commscope.com" onclick="return switchLanguage('zs'); function switchLanguage(lang) {MP.SrcUrl=decodeURIComponent('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';MP.init();
-	MP.switchLanguage(MP.UrlLang==lang?'en':lang);	return false; }">简体中文</a> | </li>
+                    <span class="search-bg">
+                    <span>
+                        <select onchange="return switchLanguage(this.value);" class="goog-trans">
+                        <option>Please select language</option>
+                        <option value="es">Español</option>
+                        <option value="ja">日本語</option>
+                        <option value="pt">Português</option>
+                        <option value="ru">Русский</option>
+                        <option value="zs">简体中文</option>
+                        </select>
+                    </span>
 
-                        <li><a mporgnav="" href="http://ru.commscope.com" onclick="return switchLanguage('ru'); function switchLanguage(lang) {MP.SrcUrl=decodeURIComponent('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';MP.init();
-	MP.switchLanguage(MP.UrlLang==lang?'en':lang);	return false; }">Русский</a> | </li>
-
-                         <li id="google_translate_element" style="display: inline-block;"><a href="#" onclick="doTranslate()" value="Translate" title="Translate this page">Translate</a></li>
-
-                    </ul>
+                    <span id="google_translate_element" style="display: inline-block;"><a href="#" onclick="doTranslate()" value="Translate" title="Translate this page">Translate</a></span>
+                    </span>
+                 </span>
 
                 </div>
                 <!-- /relative parent box -->
@@ -176,19 +210,21 @@ function TrackEventByFileExtension(FileExtension)
             <div class="row">
                 <div class="brand">
                     <a href="/">
-                        <img src="/theme/img/logo.png" alt="CommScope" border="0"></a>
+                        <img src="/theme/img/logo.png" alt="CommScope" border="0"> <i class="fa fa-magic"></i></a>
                 </div>
 
-                <div class="search" style="margin-top: 4px;">
-                    <div class="input-prepend">
-                        <span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input type="text" class="span2 ui-autocomplete-input" name="txtSearch" id="txtSearch" autocomplete="off">
-                        <button class="btn" name="btnSearch" id="btnSearch" onclick="javascript:SubmitSearch()"><i class="icon-search"></i></button>
+                <div class="search" style="margin-top: 8px;">
+                  <div class="input-prepend">
+                      
+                      <!--Search tip -->
+                      <a href="#" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="After partial part numbers, use an asterisk. RV4PX*" class="search-tip">
+                      <img src="/theme/img/info-icon.png" width="16" alt="Search tip" style="margin-right: .8em;"></a>
 
-                    </div>
-                    <!--Search tip -->
-                    <div class="xx-small mute" style="margin: -10px 0 0 10px;">
-                        <a href="#" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="After partial part numbers, use an asterisk. RV4PX*">Search Tips for product codes</a>
-                    </div>
+                      <span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input type="text" class="span2 ui-autocomplete-input" name="txtSearch" id="txtSearch" value="" placeholder="Search..." autocomplete="off">
+                      <button class="btn btn-success" name="btnSearch" id="btnSearch" onclick="javascript:SubmitSearch()" value="Go">Go</button>
+
+                  </div>
+
                     <script type="text/javascript">
                         $(function () {
                             $("[data-toggle='tooltip']").tooltip();
@@ -198,10 +234,10 @@ function TrackEventByFileExtension(FileExtension)
 
 
 
-                    <script type="text/javascript">
-                        function SubmitSearch() {
-                            var Searchtxt = document.getElementById("txtSearch").value;
-                            window.location = "/SiteSearch/?q=" + encodeURIComponent(Searchtxt);
+           <script type="text/javascript">
+              function SubmitSearch() {
+              var Searchtxt = document.getElementById("txtSearch").value;
+              window.location = "/SiteSearch/?q=" + encodeURIComponent(Searchtxt);         
             }
 
             $("#txtSearch").keyup(function (event) {
@@ -209,7 +245,7 @@ function TrackEventByFileExtension(FileExtension)
                     $("#btnSearch").click();
                 }
             });
-                    </script>
+           </script>
 
                 </div>
                 <!-- /row -->
@@ -219,161 +255,177 @@ function TrackEventByFileExtension(FileExtension)
     </div>
 
 
-    <!-- Main navigation bar -->
+
+
+   <!-- Main navigation bar -->
     <div id="navigation" class="wrapper" style="z-index: 2;">
         <div class="navbar navbar-static-top">
             <div class="container">
                 <div class="navbar-inner">
                     <!--mobile collapse menu button-->
-                    <a class="btn btn-navbar pull-left" data-toggle="collapse" data-target=".nav-collapse" style="height: 30px;">
+                    <a class="btn btn-navbar pull-left" data-toggle="collapse" data-target=".nav-collapse" style="/*min-height: 40px;*/">
                         <!--Menu  -->
-                        <i class="icon-tasks"></i></a>
-
-                    <!--everything within this div is collapsed on mobile-->
+                       <!--<i class="icon-tasks"></i>-->
+					<img src="/theme/img/icon-hamburger-menu.png" alt="menu"></a> 
+                 <!--everything within this div is collapsed on mobile-->
                     <div class="nav-collapse collapse">
-
                         <!--main navigation-->
-                        <ul class="nav" id="main-menu">              
-    <li class="dropdown">                          
-        <a href="#" class="dropdown-toggle top-level" id="solutions-drop" data-toggle="dropdown">Solutions                                                                            
-            <img src="/theme/img/down-arrow.png" class="pad-down-arrow">        </a>                          
-        <!-- Dropdown Menu -->                          
-        <ul class="dropdown-menu mega-menu" role="menu" aria-labelledby="solutions-drop">                                      
-            <li class="mega-menu-wrapper row-fluid" role="menuitem">                                                  
-                <ul class="span4" role="menu">                                                              
-                    <li class="menu-title" role="menutitle">                                                                          
-                        <a href="/Solutions/Broadband-Solutions/">Broadband</a>                    </li>                                                              
-                    <li role="menuitem">                                                                          
-                        <a href="/Solutions/Broadband-Solutions/CATV-Headend/">CATV Headend</a>                    </li>                                                              
-                    <li role="menuitem">                                                                          
-                        <a href="/Solutions/Broadband-Solutions/Outside-Plant/">Outside Plant</a>                    </li>                                                              
-                    <li role="menuitem">                                                                          
-                        <a href="/Solutions/Broadband-Solutions/Residential-Solutions/">Residential</a>                    </li>                </ul>                                                  
-                <ul class="span4" role="menu">                                                              
-                    <li class="menu-title" role="menutitle">                                                                          
-                        <a href="/Solutions/Enterprise-Solutions/">Enterprise</a>                    </li>                                                              
-                    <li role="menuitem">                                                                          
-                        <a href="/Solutions/Enterprise-Solutions/Campus-Solutions/">Campus</a>                    </li>                                                              
-                    <li role="menuitem">                                                                          
-                        <a href="/Solutions/Enterprise-Solutions/Data-Center-Solutions/">Data Center</a>                    </li>                                                              
-                    <li role="menuitem">                                                                          
-                        <a href="/Solutions/Enterprise-Solutions/In-building-Wireless-Solutions/">In-Building Wireless</a>                    </li>                                                              
-                    <li role="menuitem">                                                                          
-                        <a href="/Solutions/Enterprise-Solutions/Intelligent-Building-Solutions/">Intelligent Building</a>                    </li>                </ul>                                                  
-                <ul class="span4" role="menu">                                                              
-                    <li class="menu-title" role="menutitle">                                                                          
-                        <a href="/Solutions/Wireless-Solutions/">Wireless</a>                    </li>                                                              
-                    <li role="menuitem">                                                                          
-                        <a href="/Solutions/Wireless-Solutions/Backhaul-Solutions/">Backhaul</a>                    </li>                                                              
-                    <li role="menuitem">                                                                          
-                        <a href="/Solutions/Wireless-Solutions/Indoor-Coverage-and-Capacity-Solutions/">Indoor Coverage and Capacity Sites </a>                    </li>                                                              
-                    <li role="menuitem">                                                                          
-                        <a href="/Solutions/Wireless-Solutions/Outdoor-Macro-Sites/">Outdoor Macro Sites</a>                    </li>                </ul>            </li>        </ul>    </li>              
-    <li class="dropdown">                          
-        <a href="#" class="dropdown-toggle top-level" id="industries-drop" data-toggle="dropdown">Industries                                                                            
-            <img src="/theme/img/down-arrow.png" class="pad-down-arrow">        </a>                          
-        <!-- Dropdown Menu -->                          
-        <ul class="dropdown-menu mega-menu" role="menu" aria-labelledby="industries-drop">                                      
-            <li class="mega-menu-wrapper row-fluid" role="menuitem">                                                  
-                <ul class="span4" role="menu">                                                              
-                    <li class="menu-title" role="menutitle">                                                                          
-                        <a href="/Industries/Education/">Education</a>                    </li>                                                              
-                    <li class="menu-title" role="menutitle">                                                                          
-                        <a href="/Industries/Energy-Solutions/">Energy</a>                    </li>                                                              
-                    <li role="menuitem">                                                                          
-                        <a href="/Industries/Energy-Solutions/Electrical-Utility-Solutions/">Electric Utilities</a>                    </li>                                                              
-                    <li role="menuitem">                                                                          
-                        <a href="/Industries/Energy-Solutions/Mobile-Operators/">Mobile Operators</a>                    </li>                                                              
-                    <li role="menuitem">                                                                          
-                        <a href="/Industries/Energy-Solutions/Oil,-Gas-and-Petroleum-Solutions/">Oil, Petroleum and Gas</a>                    </li>                                                              
-                    <li role="menuitem">                                                                          
-                        <a href="/Industries/Energy-Solutions/Wind-Farm-Solutions/">Wind Farms</a>                    </li>                                                              
-                    <li class="menu-title" role="menutitle">                                                                          
-                        <a href="/Industries/Finance/">Finance</a>                    </li>                </ul>                                                  
-                <ul class="span4" role="menu">                                                              
-                    <li class="menu-title" role="menutitle">                                                                          
-                        <a href="/Industries/Government-Solutions/">Government</a>                    </li>                                                              
-                    <li class="menuitem">                                                                          
-                        <a href="/Industries/Government-Solutions/U-S--Federal-Government-Solutions/">US Federal Government</a>                    </li>                                                              
-                    <li class="menu-title" role="menutitle">                                                                          
-                        <a href="/Industries/Healthcare-Solutions/">Healthcare</a>                    </li>                                                              
-                    <li class="menu-title" role="menutitle">                                                                          
-                        <a href="/Industries/Sports-and-Entertainment-Solutions/">Sports and Entertainment</a>                    </li>                                                              
-                    <li role="menuitem">                                                                          
-                        <a href="/Industries/Sports-and-Entertainment-Solutions/Sports-and-Entertainment-%E2%80%94-Enterprise-Solutions/">Enterprise Solutions</a>                    </li>                                                              
-                    <li role="menuitem">                                                                          
-                        <a href="/Industries/Sports-and-Entertainment-Solutions/Sports-and-Entertainment-%E2%80%94-Wireless-Solutions/">Wireless Solutions</a>                    </li>                </ul>                                                  
-                <ul class="span4" role="menu">                                                              
-                    <li class="menu-title" role="menutitle">                                                                          
-                        <a href="/Industries/Telecommunications/">Telecommunications</a>                    </li>                                                              
-                    <li role="menuitem">                                                                          
-                        <a href="/Industries/Telecommunications/Mobile-Operator-Solutions/">Mobile Operators</a>                    </li>                                                              
-                    <li role="menuitem">                                                                          
-                        <a href="/Industries/Telecommunications/Multi-Tenant-Data-Center-Solutions/">Multi-Tenant Data Centers</a>                    </li>                                                              
-                    <li role="menuitem">                                                                          
-                        <a href="/Industries/Telecommunications/Wireline-Operator-Solutions/">Wireline Operators</a>                    </li>                                                              
-                    <li role="menutitle">                                                                          
-                        <a href="/Industries/Transportation-Solutions/">Transportation</a>                    </li>                                                              
-                    <li role="menuitem">                                                                          
-                        <a href="/Industries/Transportation-Solutions/Airport-Solutions/">Airports</a>                    </li>                                                              
-                    <li role="menuitem" style="margin-left: 10px;">                                                                          
-                        <a href="/Industries/Transportation-Solutions/Airport-Solutions/Airports-%E2%80%94-Enterprise-Solutions/">Enterprise Solutions</a>                    </li>                                                              
-                    <li role="menuitem" style="margin-left: 10px;">                                                                          
-                        <a href="/Industries/Transportation-Solutions/Airport-Solutions/Airports-%E2%80%94-Wireless-Solutions/">Wireless Solutions</a>                    </li>                                                              
-                    <li role="menuitem">                                                                          
-                        <a href="/Industries/Transportation-Solutions/Railway-Solutions/">Railways</a>                    </li>                </ul>            </li>        </ul>    </li>              
-    <li class="dropdown">                          
-        <a href="#" class="dropdown-toggle top-level" id="eCatalog-drop" data-toggle="dropdown">Product Catalog                                                                        
-            <img src="/theme/img/down-arrow.png" class="pad-down-arrow">        </a>                          
-        <!-- Dropdown Menu -->                          
-        <ul class="dropdown-menu" role="menu" aria-labelledby="eCatalog-drop">                                      
-            <li role="menutitle">                                                  
-                <a href="/Product-Catalog/#market-broadband" class="menu-item">Broadband</a>            </li>                                      
-            <li role="menutitle">                                                  
-                <a href="/Product-Catalog/#market-enterprise" class="menu-item">Enterprise</a>            </li>                                      
-            <li role="menutitle">                                                  
-                <a href="/Product-Catalog/#market-wireless" class="menu-item">Wireless</a>            </li>        </ul>    </li>              
-    <li class="dropdown">                          
-        <a href="#" class="dropdown-toggle top-level" id="blog-drop" data-toggle="dropdown">Partners                                                                        
-            <img src="/theme/img/down-arrow.png" class="pad-down-arrow">        </a>                          
-        <!-- Dropdown Menu -->                          
-        <ul class="dropdown-menu pull-left" role="menu" aria-labelledby="blog-drop">                                      
-            <li role="menutitle">                                                  
-                <a href="/Partners/PartnerPRO-Network/" class="menu-item"><span style="text-transform: none;">PartnerPRO™</span> Network</a>            </li>                                      
-            <li role="menuitem">                                                  
-                <a href="/Partners/PartnerPRO%E2%84%A2-Network/For-Our-Customers/Networks-can-complicate-your-business/" class="menu-item">For Our Customers</a>            </li>                                      
-            <li role="menuitem">                                                  
-                <a href="/Partners/PartnerPRO%E2%84%A2-Network/For-Our-Partners/Your-customers-count-on-you/" class="menu-item">For Our Partners</a>            </li>                                      
-            <li role="menutitle">                                                  
-                <a href="/Partners/Partner-Locator/" class="menu-item">Partner Locator</a>            </li>                     </ul>             </li>              
-    <li class="dropdown">                          
-        <a href="#" class="dropdown-toggle top-level" id="resources-drop" data-toggle="dropdown">Resources                                                                        
-            <img src="/theme/img/down-arrow.png">        </a>                          
-        <!-- Dropdown Menu -->                          
-        <ul class="dropdown-menu pull-left" role="menu" aria-labelledby="pages-drop">                                      
-            <li role="menutitle">                                                  
-                <a href="/Resources/Apps/" class="menu-item">Apps</a></li>                                      
-            <li role="menutitle">                                                  
-                <a href="/Resources/How-To-Buy/" class="menu-item">How To Buy</a></li>                                      
-            <li role="menutitle">                                                  
-                <a href="/Resources/" class="menu-item">Resource Library</a></li>                                      
-            <li role="menutitle">                                                  
-                <a href="/Support/Training/" class="menu-item">Training</a></li> 
-            <li role="menutitle">                                                  
-                <a href="/Resources/Webinars/" class="menu-item">Webinars</a></li>
-            <li role="menutitle">                                                  
-                <a href="/WebTrak/" class="menu-item">WebTrak</a></li>        </ul>    </li>              
-    <li>                          
-        <a href="/ThinkingAhead/" class="top-level" id="thinking-drop">Thinking Ahead</a>    </li>
+                        <ul id="main-menu" class="nav">                   
+    <li class="dropdown">                                   
+        <a id="solutions-drop" class="dropdown-toggle top-level" href="#" data-toggle="dropdown">Solutions                                                                                         
+            <img class="pad-down-arrow" src="/theme/img/down-arrow.png">        </a>                                   
+        <!-- Dropdown Menu -->                                   
+        <ul class="dropdown-menu mega-menu" role="menu" aria-labelledby="solutions-drop">                                                   
+            <li class="mega-menu-wrapper row-fluid" role="menuitem">                                                                   
+                <ul class="span4" role="menu">                                                                                   
+                    <li class="menu-title" role="menutitle">                                                                                                   
+                        <a href="/Solutions/Broadband-Solutions/">Broadband</a>                    </li>                                                                                   
+                    <li role="menuitem">                                                                                                   
+                        <a href="/Solutions/Broadband-Solutions/CATV-Headend/">CATV Headend</a>                    </li>                                                                                   
+                    <li role="menuitem">                                                                                                   
+                        <a href="/Solutions/Broadband-Solutions/Outside-Plant/">Outside Plant</a>                    </li>                                                                                   
+                    <li role="menuitem">                                                                                                   
+                        <a href="/Solutions/Broadband-Solutions/Residential-Solutions/">Residential</a>                    </li>                </ul>                                                                   
+                <ul class="span4" role="menu">                                                                                   
+                    <li class="menu-title" role="menutitle">                                                                                                   
+                        <a href="/Solutions/Enterprise-Solutions/">Enterprise</a>                    </li>                                                                                   
+                    <li role="menuitem">                                                                                                   
+                        <a href="/Solutions/Enterprise-Solutions/Campus-Solutions/">Campus</a>                    </li>                                                                                   
+                    <li role="menuitem">                                                                                                   
+                        <a href="/Solutions/Enterprise-Solutions/Data-Center-Solutions/">Data Center</a>                    </li>                                                                                   
+                    <li role="menuitem">                                                                                                   
+                        <a href="/Solutions/Enterprise-Solutions/In-building-Wireless-Solutions/">In-Building Wireless</a>                    </li>                                                                                   
+                    <li role="menuitem">                                                                                                   
+                        <a href="/Solutions/Enterprise-Solutions/Intelligent-Building-Solutions/">Intelligent Building</a>                    </li>                </ul>                                                                   
+                <ul class="span4" role="menu">                                                                                   
+                    <li class="menu-title" role="menutitle">                                                                                                   
+                        <a href="/Solutions/Wireless-Solutions/">Wireless</a>                    </li>                                                                                   
+                    <li role="menuitem">                                                                                                   
+                        <a href="/Solutions/Wireless-Solutions/Backhaul-Solutions/">Backhaul</a>                    </li>                                                                                   
+                    <li role="menuitem">                                                                                                   
+                        <a href="/Solutions/Wireless-Solutions/Indoor-Coverage-and-Capacity-Solutions/">Indoor Coverage and Capacity Sites </a>                    </li>                                                                                   
+                    <li role="menuitem">                                                                                                   
+                        <a href="/Solutions/Wireless-Solutions/Outdoor-Sites/">Outdoor Sites</a></li>                </ul>            </li>        </ul>    </li>                   
+    <li class="dropdown">                                   
+        <a id="industries-drop" class="dropdown-toggle top-level" href="#" data-toggle="dropdown">Industries                                                                                         
+            <img class="pad-down-arrow" src="/theme/img/down-arrow.png">        </a>                                   
+        <!-- Dropdown Menu -->                                   
+        <ul class="dropdown-menu mega-menu" role="menu" aria-labelledby="industries-drop">                                                   
+            <li class="mega-menu-wrapper row-fluid" role="menuitem">                                                                   
+                <ul class="span4" role="menu">                                                                                   
+                    <li class="menu-title" role="menutitle">                                                                                                   
+                        <a href="/Industries/Education/">Education</a>                    </li>                                                                                   
+                    <li class="menu-title" role="menutitle">                                                                                                   
+                        <a href="/Industries/Energy-Solutions/">Energy</a>                    </li>                                                                                   
+                    <li role="menuitem">                                                                                                   
+                        <a href="/Industries/Energy-Solutions/Electrical-Utility-Solutions/">Electric Utilities</a>                    </li>                                                                                   
+                    <li role="menuitem">                                                                                                   
+                        <a href="/Industries/Energy-Solutions/Mobile-Operators/">Mobile Operators</a>                    </li>                                                                                   
+                    <li role="menuitem">                                                                                                   
+                        <a href="/Industries/Energy-Solutions/Oil,-Gas-and-Petroleum-Solutions/">Oil, Petroleum and Gas</a>                    </li>                                                                                   
+                    <li role="menuitem">                                                                                                   
+                        <a href="/Industries/Energy-Solutions/Wind-Farm-Solutions/">Wind Farms</a>                    </li>                                                                                   
+                    <li class="menu-title" role="menutitle">                                                                                                   
+                        <a href="/Industries/Finance/">Finance</a>                    </li>                </ul>                                                                   
+                <ul class="span4" role="menu">                                                                                   
+                    <li class="menu-title" role="menutitle">                                                                                                   
+                        <a href="/Industries/Government-Solutions/">Government</a>                    </li>                                                                                   
+                    <li class="menuitem">                                                                                                   
+                        <a href="/Industries/Government-Solutions/U-S--Federal-Government-Solutions/">US Federal Government</a>                    </li>                                                                                   
+                    <li class="menu-title" role="menutitle">                                                                                                   
+                        <a href="/Industries/Healthcare-Solutions/">Healthcare</a>                    </li>                                                                                   
+                    <li class="menu-title" role="menutitle">                                                                                                   
+                        <a href="/Industries/Sports-and-Entertainment-Solutions/">Sports and Entertainment</a>                    </li>                                                                                   
+                    <li role="menuitem">                                                                                                   
+                        <a href="/Industries/Sports-and-Entertainment-Solutions/Sports-and-Entertainment-%E2%80%94-Enterprise-Solutions/">Enterprise Solutions</a>                    </li>                                                                                   
+                    <li role="menuitem">                                                                                                   
+                        <a href="/Industries/Sports-and-Entertainment-Solutions/Sports-and-Entertainment-%E2%80%94-Wireless-Solutions/">Wireless Solutions</a>                    </li>                </ul>                                                                   
+                <ul class="span4" role="menu">                                                                                   
+                    <li class="menu-title" role="menutitle">                                                                                                   
+                        <a href="/Industries/Telecommunications/">Telecommunications</a>                    </li>                                                                                   
+                    <li role="menuitem">                                                                                                   
+                        <a href="/Industries/Telecommunications/Mobile-Operator-Solutions/">Mobile Operators</a>                    </li>                                                                                   
+                    <li role="menuitem">                                                                                                   
+                        <a href="/Industries/Telecommunications/Multi-Tenant-Data-Center-Solutions/">Multi-Tenant Data Centers</a>                    </li>                                                                                   
+                    <li role="menuitem">                                                                                                   
+                        <a href="/Industries/Telecommunications/Wireline-Operator-Solutions/">Wireline Operators</a>                    </li>                                                                                   
+                    <li role="menutitle">                                                                                                   
+                        <a href="/Industries/Transportation-Solutions/">Transportation</a>                    </li>                                                                                   
+                    <li role="menuitem">                                                                                                   
+                        <a href="/Industries/Transportation-Solutions/Airport-Solutions/">Airports</a>                    </li>                                                                                   
+                    <li style="margin-left: 10px;" role="menuitem">                                                                                                   
+                        <a href="/Industries/Transportation-Solutions/Airport-Solutions/Airports-%E2%80%94-Enterprise-Solutions/">Enterprise Solutions</a>                    </li>                                                                                   
+                    <li style="margin-left: 10px;" role="menuitem">                                                                                                   
+                        <a href="/Industries/Transportation-Solutions/Airport-Solutions/Airports-%E2%80%94-Wireless-Solutions/">Wireless Solutions</a>                    </li>                                                                                   
+                    <li role="menuitem">                                                                                                   
+                        <a href="/Industries/Transportation-Solutions/Railway-Solutions/">Railways</a>                    </li>                </ul>            </li>        </ul>    </li>                   
+    <li class="dropdown">                                   
+        <a id="eCatalog-drop" class="dropdown-toggle top-level" href="#" data-toggle="dropdown">Product Catalog                                                                                     
+            <img class="pad-down-arrow" src="/theme/img/down-arrow.png">        </a>                                   
+        <!-- Dropdown Menu -->                                   
+        <ul class="dropdown-menu" role="menu" aria-labelledby="eCatalog-drop">                                                   
+            <li role="menutitle">                                                                   
+                <a class="menu-item" href="/Product-Catalog/Broadband">Broadband</a>            </li>                                                   
+            <li role="menutitle">                                                                   
+                <a class="menu-item" href="/Product-Catalog/Enterprise">Enterprise</a>            </li>                                                   
+            <li role="menutitle">                                                                   
+                <a class="menu-item" href="/Product-Catalog/Wireless">Wireless</a>            </li>                </ul>                </li>                                    
+    <li class="dropdown">                                   
+        <a id="blog-drop" class="dropdown-toggle top-level" href="#" data-toggle="dropdown">Partners                                                                                     
+            <img class="pad-down-arrow" src="/theme/img/down-arrow.png">        </a>                                   
+        <!-- Dropdown Menu -->                                   
+        <ul class="dropdown-menu pull-left" role="menu" aria-labelledby="blog-drop">                                                   
+            <li role="menutitle">                                                                   
+                <a class="menu-item" href="/Partners/PartnerPRO-Network/"><span style="text-transform: none;">PartnerPRO™</span> Network</a>            </li>                                                   
+            <li role="menuitem">                                                                   
+                <a class="menu-item" href="/Partners/PartnerPRO%E2%84%A2-Network/For-Our-Customers/Networks-can-complicate-your-business/">For Our Customers</a>            </li>                                                   
+            <li role="menuitem">                                                                   
+                <a class="menu-item" href="/Partners/PartnerPRO%E2%84%A2-Network/For-Our-Partners/Your-customers-count-on-you/">For Our Partners</a>            </li>                                                   
+            <li role="menutitle">                                                                   
+                <a class="menu-item" href="/Partners/Partner-Locator/">Partner Locator</a>            </li>                     </ul>                </li>                                                      
+    <li>        
+        <a class="top-level" href="/Resources/">Resources</a>    </li>                      
+    <!-- <li class="dropdown">                 
+
+        <a href="#"  class="dropdown-toggle top-level"  id="resources-drop"  data-toggle="dropdown">Resources <img src="/theme/img/down-arrow.png" data-ektron-url="/theme/img/down-arrow.png"            /></a>
+
+                
+
+        <ul class="dropdown-menu pull-left"  role="menu"  aria-labelledby="pages-drop">   
+
+            <li role="menutitle">                                 
+
+                <a href="/Resources/Apps/"  class="menu-item">Apps</a></li>                         
+
+            <li role="menutitle">                                 
+
+                <a href="/Resources/How-To-Buy/"  class="menu-item">How To Buy</a></li>   
+
+            <li role="menutitle">                                 
+
+                <a href="/Resources/"  class="menu-item">Resource Library</a></li>                         
+
+            <li role="menutitle">                                 
+
+                <a href="/Support/Training/"  class="menu-item">Training</a></li>                         
+
+            <li role="menutitle">                                 
+
+                <a href="/WebTrak/"  class="menu-item">WebTrak</a></li>
+
+                </ul>
+
+                    
+
+                </li>   -->                
+    <li>        
+        <a class="top-level" href="/ThinkingAhead/">Thinking Ahead</a>    </li>
 </ul>
-                    </div>
-                    <!--/.nav-collapse -->
+                    </div><!--/.nav-collapse -->
                 </div>
-            </div>
-            <!--/.container -->
+            </div><!--/.container -->
         </div>
-    </div>
-    <!--/.navigation -->
+    </div><!--/.navigation -->
 
 
 
@@ -489,10 +541,10 @@ function TrackEventByFileExtension(FileExtension)
     <div class="span10">
         <h3><a href="/NewsCenter/PressReleases">Press Release</a></h3>
         <div class="date x-small">
-            December 08, 2014
+            June 08, 2015
         </div>
         <div class="small">
-            <a id="ctl00_phBody_LatestPressRelease_lnkPressRelease" href="/NewsCenter/PressReleases/CommScope-to-Participate-in-the-Raymond-James-Systems-Semiconductors-Software-and-Supply-Chain-Conference/">CommScope to Participate in the Raymond James Systems, Semiconductors, Software and Supply Chain Conference</a>
+            <a id="ctl00_phBody_LatestPressRelease_lnkPressRelease" href="/NewsCenter/PressReleases/CommScope-Positions-Global-Partner-Program-to-Better-Service-Customers-and-Partners/"> CommScope Positions Global Partner Program to Better Service Customers and Partners </a>
         </div>
     </div><!-- /span10 -->
 </div><!-- / row-fluid --> 
@@ -504,8 +556,8 @@ function TrackEventByFileExtension(FileExtension)
 
     <div class="span10">
         <h3><a href="/Blog">CommScope Blog</a></h3>
-        <div class="date x-small">Dec 19, 2014</div>
-        <div class="small"><a id="ctl00_phBody_LatestBlog_lnkBlog" href="/Blog/Network-Infrastructure-Begins-with-Cabling-Even-for-Wireless/">Network Infrastructure Begins with Cabling, Even for Wireless</a></div>
+        <div class="date x-small">Jun 5, 2015</div>
+        <div class="small"><a id="ctl00_phBody_LatestBlog_lnkBlog" href="/Blog/CommScope-Definitions-What-is-a-Prefabricated-Modular-Data-Center/">CommScope Definitions: What is a Prefabricated Modular Data Center?</a></div>
 
     </div><!-- /span10 -->
 </div><!-- / row-fluid --> 
@@ -541,7 +593,7 @@ function TrackEventByFileExtension(FileExtension)
 
         <div class="span10">
             <h4>Related Video</h4>
-            <div class="fluid-width-video-wrapper" style="padding-top: 56.5%;"><iframe src="//www.youtube.com/embed/nQeymOu7-ms?list=UUGfEherqwYi0z-GcxiiBRvA" frameborder="0" allowfullscreen="" id="fitvid899593"></iframe></div><a id="ctl00_phBody_FeaturedVideoEmbed_lnkVideo" href="https://www.youtube.com/watch?v=nQeymOu7-ms&amp;list=UUGfEherqwYi0z-GcxiiBRvA&amp;index=19">Getting an Update on the Category 8 Standards Development</a>
+            <div class="fluid-width-video-wrapper" style="padding-top: 56.5%;"><iframe src="https://www.youtube.com/embed/jiJVbfB8VeI" frameborder="0" allowfullscreen="" id="fitvid356774"></iframe></div><a id="ctl00_phBody_FeaturedVideoEmbed_lnkVideo" href="https://www.youtube.com/watch?v=jiJVbfB8VeI">Wired and wireless networks run on CommScope</a>
         </div>
         <!-- /span10 -->
 
@@ -694,7 +746,7 @@ function TrackEventByFileExtension(FileExtension)
 <div class="subfooter">
     <div class="container">
         <div class="span5">
-            <p>© 2014  <a href="http://www.commscope.com">CommScope</a> Inc.</p>
+            <p>© 2015  <a href="http://www.commscope.com">CommScope</a> Inc.</p>
             <!-- mp_trans_remove_start="ZS" -->
             <div class="muted">苏ICP备13053344号-1</div>
             <!-- mp_trans_remove_end="ZS" -->
@@ -726,7 +778,7 @@ function TrackEventByFileExtension(FileExtension)
 
     function googleTranslateElementInit() {
         document.getElementById("google_translate_element").innerHTML = "";
-        new google.translate.TranslateElement({ pageLanguage: 'en', includedLanguages: 'cs,da,de,fr,it,ja,nl,pl,pt,tr', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-75011-26' }, 'google_translate_element');
+        new google.translate.TranslateElement({ pageLanguage: 'en', includedLanguages: 'cs,da,de,fr,it,nl,pl,tr', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-75011-26' }, 'google_translate_element');
     }
 
 </script>
