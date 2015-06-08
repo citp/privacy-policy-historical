@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogmybrain.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224234615id_/http%3A//blogmybrain.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogmybrain.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608071915id_/http%3A//blogmybrain.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blog My Brain
 
@@ -60,5 +60,3 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 This Privacy Policy was last updated on: Friday, July 6th, 2012.
 
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
-
-:: Jul.06.2012 :: :: [No Comments »](http://blogmybrain.com/privacy-policy/#respond "Comment on Privacy Policy")
