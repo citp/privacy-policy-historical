@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobconsultancy.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004195305id_/http%3A//www.jobconsultancy.com/termsofuse.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobconsultancy.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609010921id_/http%3A//jobconsultancy.com/termsofuse.php) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Policy of Job Consultancy
 
