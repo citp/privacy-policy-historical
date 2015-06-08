@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the oneupweb.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112054049id_/http%3A//www.oneupweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneupweb.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609014331id_/http%3A//www.oneupweb.com/privacy-policy) for the most accurate reproduction.*
 
-# Oneupweb > Privacy Policy
+# Privacy Policy | Oneupweb
 
-**EFFECTIVE DATE: December 09, 2011**
-
-Oneupweb Respects the Privacy of Its Users
+Effective date: December 09, 2011
 
 Oneupweb ("we," "us" or "our") respects your privacy. It’s so important, we’ve developed a Privacy Policy that covers how we collect, use, and protect your information and how you can correct inaccuracies in the contact information you provide. Please take time to familiarize yourself with our privacy practices and let us know if you have questions. We’ll be happy to answer them.
 
@@ -39,11 +37,11 @@ Oneupweb
 Attn: Privacy Policy Administrator  
 13561 S. West Bayshore Drive  
 Suite 3000  
-Traverse City, MI 49684
+Traverse City, MI 49684 
 
 **How We Use Your Non-Personal Information**
 
-Non-personal data is data that does not permit direct association with any single, specific individual. Non-personal data includes, but is not limited to, language, location, occupation , zip code and area code. We may collect, use, transfer, and disclose non-personal information for any purpose, including providing aggregate non-personal information to third parties. Some examples of use include, but are not limited to, analyzing our website traffic and understanding which parts of our website or services are of most interest. 
+Non-personal data is data that does not permit direct association with any single, specific individual. Non-personal data includes, but is not limited to, language, location, occupation, zip code and area code. We may collect, use, transfer, and disclose non-personal information for any purpose, including providing aggregate non-personal information to third parties. Some examples of use include, but are not limited to, analyzing our website traffic and understanding which parts of our website or services are of most interest. 
 
 In the event that we combine non-personal information with personal information, the combined information is treated as personal information for as long as it remains combined.
 
@@ -65,7 +63,7 @@ Oneupweb
 Attn: Privacy Policy Administrator  
 13561 S. West Bayshore Drive  
 Suite 3000  
-Traverse City, MI 49684
+Traverse City, MI 49684 
 
 **What If I Have Questions?**
 
