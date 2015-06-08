@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiscox.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129125901id_/http%3A//www.hiscox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiscox.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608080531id_/http%3A//www.hiscox.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Hiscox
 
