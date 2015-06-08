@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the southernsavers.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229211255id_/http%3A//www.southernsavers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southernsavers.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608095624id_/http%3A//www.southernsavers.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Southern Savers :: Southern Savers
+# Privacy Policy | Southern Savers :: Southern Savers
 
 This document was last updated on November 27, 2009.
 
