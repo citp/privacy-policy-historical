@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the conversionmail.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108023320id_/http%3A//conversionmail.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conversionmail.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608045410id_/http%3A//conversionmail.com/privacy.php) for the most accurate reproduction.*
 
 # Conversion Mail
 
-[](http://conversionmail.com/bannerclick.php?id=3700)  
+[](http://conversionmail.com/bannerclick.php?id=7673)  
 
 
 ConversionMail Privacy Policy
