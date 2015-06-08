@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the leisure.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220131426id_/http%3A//leisure.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leisure.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608160206id_/http%3A//leisure.com/privacy) for the most accurate reproduction.*
 
 # Leisure Travel: Cheap Airline Tickets, Hotels, Car Rentals, Vacations
 
 [Home](http://leisure.com/)Privacy Policy
 
 **THE FOLLOWING PRIVACY STATEMENT DETAILS THE Leisure.COM PLEDGE TO KEEP YOUR INFORMATION PRIVATE.**  Any questions in regards to Leisure.com privacy practices should be sent via email to [info@Leisure.com](mailto:info@leisure.com).
+
+Some of the web search services provided herein are provided by Trovi Search and powered by Trovi search partners. For information on the web search services data collection, please visit <http://info.trovi.com/Privacy>, and the search provider's privacy policy, as applicable.
 
 ### What type of information does Leisure.com collect?
 
