@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the keywordrevealer.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121070319id_/http%3A//www.keywordrevealer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordrevealer.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608024509id_/http%3A//www.keywordrevealer.com/privacy.php) for the most accurate reproduction.*
 
 # Keyword Revealer: Privacy Policy
 
-This Privacy Policy governs the manner in which Keyword Revealer collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.keywordrevealer.com](http://www.google.com/url?q=http%3A%2F%2Fcontentfoundry.net%2F&sa=D&sntz=1&usg=AFQjCNFp5HM8iDYhmWL6Rv3EURr0qLNX1w) website ("Site"). This privacy policy applies to the Site and all products and services offered by Keyword Revealer.
+This Privacy Policy governs the manner in which Keyword Revealer collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.keywordrevealer.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Keyword Revealer.
 
 Personal identification information
 
