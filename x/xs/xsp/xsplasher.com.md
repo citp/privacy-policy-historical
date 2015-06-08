@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xsplasher.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121202id_/http%3A//xsplasher.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xsplasher.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608035029id_/http%3A//xsplasher.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Free Porn Videos - XSPLASHER.COM
+# Privacy Policy - Free Porn Videos & Sex Movies - Porno, YouPorn, XXX Community, Xsplasher.com
 
 Nice Marketing & Promotions L.P.  
 44 Main Street,South Lanarkshire,Scotland  
