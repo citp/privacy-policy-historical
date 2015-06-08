@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logisticsmgmt.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123072147id_/http%3A//www.logisticsmgmt.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logisticsmgmt.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608115831id_/http%3A//www.logisticsmgmt.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Article from Logistics Management
 
