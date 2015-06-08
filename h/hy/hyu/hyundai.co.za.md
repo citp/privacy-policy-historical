@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hyundai.co.za privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220112037id_/http%3A//www.hyundai.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyundai.co.za privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608044456id_/http%3A//www.hyundai.co.za/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Hyundai South Africa | New Thinking, New Possibilities.
+# Privacy Policy | Hyundai South Africa
 
 Hyundai Automotive South Africa (Proprietary) Limited, Registration Number: 1999/0159934/07 (“Hyundai”) recognizes that privacy is important. We are committed to maintaining the privacy and security of the users of our website’s personal and private information (“user information”) submitted to Hyundai via the www.hyundai.co.za website (“the/this website”). This Privacy Policy applies to all our Services, Products and our website and outlines Hyundai’s practices and commitment to the users of our website (“users”) in this regard. This policy must be read with the terms and conditions of the User Agreement that is incorporated into this policy.
 
