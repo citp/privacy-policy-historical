@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkroll.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228044301id_/http%3A//www.linkroll.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkroll.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609013321id_/http%3A//www.linkroll.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # linkroll - collaborative web bookmarks and link blogs
 
@@ -6,7 +6,7 @@ This is the web site of  **LinkRoll.com**.
 
 Our postal address is   
   
-We can be reached via e-mail [here](https://web.archive.org/web/20141228044301id_/http%3A//www.linkroll.com/index.php%3Faction%3Dprivacy?action=contact)  
+We can be reached via e-mail [here](https://web.archive.org/web/20150609013321id_/http%3A//www.linkroll.com/index.php%3Faction%3Dprivacy?action=contact)  
 
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
