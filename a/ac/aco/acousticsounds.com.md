@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acousticsounds.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217094026id_/http%3A//store.acousticsounds.com/includes/PrivacyPolicyFAQ.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acousticsounds.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608160308id_/http%3A//store.acousticsounds.com/includes/PrivacyPolicyFAQ.cfm) for the most accurate reproduction.*
 
 # None
 
