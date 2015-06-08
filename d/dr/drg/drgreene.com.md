@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drgreene.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230213356id_/http%3A//www.drgreene.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drgreene.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609002440id_/http%3A//www.drgreene.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – DrGreene.com
 
