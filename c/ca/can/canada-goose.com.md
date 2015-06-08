@@ -1,43 +1,84 @@
-> *The following text is extracted and transformed from the canada-goose.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114022041id_/http%3A//www.canada-goose.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canada-goose.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608021324id_/http%3A//www.canada-goose.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
-# Canada Goose » Privacy Policy
+# Privacy Policy | Canada Goose | Canada Goose
 
-Metro Sportswear Limited (“Metro”) is committed to protecting the privacy rights of persons who visit its website. We will take every step to maintain the confidentiality of your personal information. This Privacy Policy governs Metro’s collection, use and/or disclosure of individuals’ personal information through its website. Personal information means any information about an identifiable individual.
+## Introduction
 
-#### ACCOUNTABILTY
+The following is the privacy policy (the “Privacy Policy”) of Canada Goose Inc. and its affiliates (“Canada Goose”, “we” or “us”). Canada Goose recognizes the importance of your right to privacy and we are committed to safeguarding your personal information. “Personal Information” means any information about an identifiable individual, other than certain business contact information. This includes information such as your name, address, telephone number, birth date, payment card numbers, language preference, purchase information and e-mail address. 
 
-Metro is accountable for all personal information under its care and control. Metro’s Privacy Officer is designated as the person responsible for the Privacy Policy and for the personal information received by Metro. The Privacy Officer can be reached at 416.780.9850 ext.245 by fax at 416.780.9854 or by e-mail at privacy@canada-goose.com
+## Identifying Purposes for Collection of Personal Information 
 
-Any questions relating to Metro’s handling of personal information should be directed to our Privacy Officer.
+Canada Goose collects, uses and discloses personal information in order to provide you with goods and services and/or information on products and services you might be interested in. We also collect, use and disclose your personal information to comply with legal and regulatory requirements and as otherwise may be permitted or required by applicable laws. Canada Goose collects Personal Information for the following purposes: 
 
-#### PURPOSE
+  * To identify, contact and ship products purchased by you.
+  * To establish and maintain commercial relations with you.
+  * To provide you with ongoing service and product offers.
+  * To respond to your inquiries. 
+  * To provide you with information about our products and warranty claims. 
+  * To support Canada Goose’s core business functions such as internal business processes, marketing and advertising. 
+  * To meet legal and regulatory requirements. 
 
-Metro is required to collect and use personal information from customers and prospective customers who visit its website in order to provide information about its products and where it can be purchased, as well as to provide our on-line catalogue and email updates regarding our products to those who are interested in receiving them, to administer and process special promotions and contests, to maintain accounts, and to conduct statistical analysis in order to allow us to better understand our customers and prospective customers. The information collected may include your name and email address, your browser type and operating system, and other data which may be generated while you are on our site. We will not provide your personal information, or your email address to any third party.
 
-Metro will not use personal information for any other purpose other than identified in this Privacy Policy or as otherwise identified at or before the time of collection.
 
-#### CONSENT
+Canada Goose’s Privacy Policy will apply to all Personal Information collected, used or disclosed by Canada Goose when an individual: 
 
-In providing personal information to Metro, you agree and consent that Metro may collect, use and disclose your personal information in the manners outlined in this Privacy Policy. If you do not agree, you should not provide any personal information to Metro. This, however, may render Metro unable to provide certain services to you. If you have asked us to provide you with information about our services or if you are receiving information about our products and no longer wish to, you may ask that we cease doing so at any time.
+  * Makes an inquiry by telephone, by email or through our website.
+  * Registers or provides information by email or through the internet.
+  * Makes a purchase from Canada Goose’s Online Store.
+  * Completes a customer profile on the Online Store.
+  * Issues a complaint regarding a Canada Goose product or service.
+  * Makes a claim under Canada Goose’s warranty program. 
+  * Requests information or assistance from Canada Goose.
+  * Participates or responds to consumer survey or requests for opinions, concerns, and preferences regarding Canada Goose’s products and services.
+  * Participating in contests, sweepstakes and other promotions.
+  * Using other features of the Canada Goose Web Site that may be offered from time to time.
 
-If Metro requires personal information for a new purpose, it will seek consent for such new use.
 
-#### LIMITS FOR COLLECTING, USING, DISCLOSING, AND RETAINING PERSONAL INFORMATION
 
-Metro, unless required or permitted by law, does not collect, use or disclose personal information, except when it has obtained consent.
+## Limiting Collection of Personal Information 
 
-In all cases, Metro limits the amount and type of information collected to that which is necessary to meet the purposes described above. Metro undertakes to keep all personal information it collects strictly confidential. All information that does not have a specific purpose or that no longer fulfills its intended purpose will be destroyed in a secure fashion. Metro will only retain personal information for the duration of its intended use or as otherwise required by law.
+Canada Goose limits the collection of Personal Information to that which is necessary for the identified purposes in this Privacy Policy and will collect, use and disclose this information in accordance with this Privacy Policy. 
 
-While Metro’s website may provide links to other websites, please be aware that Metro has no knowledge or control over your personal information on these websites and assumes no responsibility with respect to these websites. Please ensure that you review the Privacy Policies of the websites that you may view or link to.
+## Use and Dislosure
 
-#### SAFEGUARDING PERSONAL INFORMATION
+Personal Information will not be used without your consent for purposes other than those for which it was collected or in accordance with applicable laws. From time to time, we may wish to use your Personal Information for new or additional purposes. We will obtain your consent to use your Personal Information for such new or additional purposes before doing so. We may also use and disclose your Personal Information to other third parties under the following limited circumstances: 
 
-Metro respects the privacy of its customers and potential customers and will protect that privacy as vigorously as possible. Metro stores personal information in electronic and physical files that are secure and to which access is restricted.
+  * with service providers or suppliers that help with our business operations, our Web Site or Online Store; or 
+  * with your consent; or 
+  * when necessary to protect the safety, property, or other rights of Canada Goose, our customers or employees, to detect and prevent fraud; or
+  * when otherwise required or permitted by law.
 
-#### ACCURACY OF PERSONAL INFORMATION
 
-Metro makes every effort to keep personal information accurate, complete, and current. Metro will update any changes to personal information when received. If Metro holds personal information about an individual which can be established by the individual to be inaccurate, Metro will take reasonable steps to correct it.
 
-#### ACCESS TO PERSONAL INFORMATION
+From time to time, we may decide to sell or transfer all or part of our business to a related company or to a third party, to merge with another entity, to insure or securitize our assets, or to engage in another form of corporate or financing transaction (including transfers made as part of insolvency or bankruptcy proceedings or as part of a corporate reorganization or stock sale or other change in corporate control). In addition, the manner in which products, services, programs, contests, promotions and events are provided to you, and the organization providing those products, services, programs, contests, promotions or events, may also change. Where your Personal Information is required in connection with any such transactions, we may use and disclose such Personal Information and will require that the parties involved, including affiliates, advisors or other service providers, agree to protect your Personal Information with policies meeting standards equivalent to those set out in the Privacy Policy both during and after completion of the transaction. 
 
-All individuals have access to their personal information when requested. Metro will respond to written requests within 30 days of receiving notice. Metro will keep records of inquiries and/or objections and will document their resolution. Metro will conduct all investigations in a timely, fair and impartial manner.
+## Exceptions
+
+This Privacy Policy does not impose any limits on the collection, use or disclosure of the following information by Canada Goose: 
+
+  * with information that is publicly available, such as a customer’s name, address and telephone number when listed in a directory or made available through directory assistance;
+  * name, title or business address or telephone number of an employee of an organization;
+  * non-personal information, which is information that does not identify you; or
+  * other information about a customer or an employee that is publicly available and is set out in Regulations made pursuant to the Personal Information Protection and Electronic Documents Act (Canada).
+
+
+
+## Placing an Order on the Canada Goose Online Store 
+
+If you place for a product with our Online Store, we request the information reasonably needed by us to complete the processing of your orders and billing. We also share our users' personal information with outside shipping companies and credit card processing companies in order to bill and ship your order, but we do not provide any more information than reasonably necessary for these purposes. We may also use the information to contact you regarding your order and to provide you with ongoing services and offers which may be of interest to you. 
+
+## Security
+
+We strive to maintain appropriate technological and administrative security safeguards to protect your Personal Information against loss, theft, and unauthorized access. Any Personal Information you provide to us is exchanged on a secure server. 
+
+## Accessing and accuracy of your personal information
+
+You may request access to your Personal Information which we may hold and we will respond within the time periods provided for under applicable laws. We will need to verify your identity before providing you with the Personal Information we hold about you. There is no cost for such access request unless you require copies of records. We may not be able to provide you with access to your Personal Information if the information cannot be separated from the Personal Information of others, cannot be disclosed for reasons of security or commercial confidentiality, or is protected by legal privilege. If we cannot provide you with access to your Personal Information, we will advise you of the reasons access is being denied, unless we are prohibited by law from doing so. We shall endeavor to correct or complete any Personal Information which you advise us is inaccurate or incomplete. 
+
+## Consent
+
+By submitting Personal Information to Canada Goose or its service providers and agents, you agree that Canada Goose may collect your Personal Information and you consent to the collection, use, disclosure and transfer of your Personal Information in accordance with this Privacy Policy and as permitted by applicable law. Subject to legal and contractual requirements, you may refuse or withdraw your consent to certain of the purposes identified herein at any time by contacting Canada Goose at 1-888-276-6297. If you refuse or withdraw your consent, you acknowledge that Canada Goose may not be able to provide you or continue to provide you with certain services or information which may be of value to you. Canada Goose reserves the right, in its discretion, to change, modify, add or remove portions of this Privacy Policy at any time and from time to time, without prior notice to you. However, we will treat your continued use of our Canada Goose Web Site following such revision as your acceptance of the revised Privacy Policy. 
+
+## Canada Goose Privacy Officer 
+
+To request a correction or to review your personal information, withdraw your consent to the use of your Personal Information or to ask questions about privacy at Canada Goose, contact the Canada Goose Chief Privacy Officer at: [Privacyofficer@CanadaGoose.com](mailto:Privacyofficer@CanadaGoose.com?Subject=Privacy%20policy)
