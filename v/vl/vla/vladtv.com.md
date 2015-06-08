@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vladtv.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231025951id_/http%3A//www.vladtv.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vladtv.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608053512id_/http%3A//vladtv.com/page/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# VladTV // Privacy Policy
 
 **Third Party Advertising / Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. Security measures. We protect the personal information you share with us. Authorized third party agents may also need access to some of your personal information. For example, if we need to ship something to you, we must share your name and address with a shipping company. We only provide third party agents with the minimum amount of information needed to complete the requested service or transaction. We do not otherwise share your personal information with third parties, unless you have granted us permission to do so. 
