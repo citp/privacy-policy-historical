@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theabsolutesound.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127001519id_/http%3A//www.theabsolutesound.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theabsolutesound.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608064327id_/http%3A//www.theabsolutesound.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Absolute Sound
 
@@ -70,7 +70,7 @@ To help protect your privacy, be sure:
 
 ###  Notice to European Union users
 
-theabsolutesound.com ‘s operations are located primarily in the United States. If you provide information to us, the information will be transferred out of the European Union (EU) to the United States. By providing personal information to us, you are consenting to its storage and use as described herein.
+theabsolutesound.com‘s operations are located primarily in the United States. If you provide information to us, the information will be transferred out of the European Union (EU) to the United States. By providing personal information to us, you are consenting to its storage and use as described herein.
 
 ###  Information collected from children
 
