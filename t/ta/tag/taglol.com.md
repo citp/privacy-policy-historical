@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the taglol.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122164447id_/http%3A//www.setkit.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taglol.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608120942id_/http%3A//www.setkit.com/privacy.php) for the most accurate reproduction.*
 
 # Setkit | Privacy Policy
 
-We have the opportunity to move not only toward the rich society and the powerful society, but upward to the Great Society.  
- **[Lyndon B. Johnson](http://www.setkit.com/literature/quotations/author/lyndon-b.-johnson/7121/)**
+An intellectual improvement arises from leisure.  
+ **[Samuel Johnson](http://www.setkit.com/literature/quotations/author/samuel-johnson/300/)**
 
 | 
 
