@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bidnessetc.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120133434id_/http%3A//www.bidnessetc.com/business/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidnessetc.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609013938id_/http%3A//www.bidnessetc.com/business/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
 Bidness Etc places a high value on the privacy of its users. This Privacy Policy (“PP”) sets out the types of information that we may collect from users of [www.bidnessetc.com](http://www.bidnessetc.com/) (the “Website”) and the purposes for which we may use such information. The PP and the Terms of Use (“TOU”) constitute a legally binding agreement between you and Bidness Etc If you do not agree to any part of the PP and/or TOU, you must not use the website. The PP may be modified from time to time and you are advised to check this page regularly.
 
