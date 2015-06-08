@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karl.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219131239id_/http%3A//www.karl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karl.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609002131id_/http%3A//www.karl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Karl Lagerfeld
 
