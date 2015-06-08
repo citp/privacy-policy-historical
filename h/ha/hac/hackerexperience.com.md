@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hackerexperience.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121230049id_/https%3A//hackerexperience.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackerexperience.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609001901id_/https%3A//hackerexperience.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
