@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thepositivemom.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113000535id_/http%3A//thepositivemom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepositivemom.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608091316id_/http%3A//thepositivemom.com/privacy) for the most accurate reproduction.*
 
-# The Positive MOM Privacy PolicyElayna Fernandez ~ The Positive MOM
+# The Positive MOM Privacy Policy ★ Elayna Fernandez ~ The Positive MOM ♥
 
 [The Positive MOM Privacy Policy](http://thepositivemom.com/ "The Positive MOM - Elayna Fernandez - mommy blogger ")
 
