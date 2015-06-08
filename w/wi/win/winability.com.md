@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winability.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121102157id_/http%3A//www.winability.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winability.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608025125id_/http%3A//www.winability.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of WinAbility Software Corporation
 
@@ -48,6 +48,3 @@ If there are changes or additions to this Privacy Policy, we will post those cha
 Last revision date: March 11, 2010
 
 Please [contact us](https://web.archive.org/support/) if you have questions regarding this Privacy Policy.
-
-  
-
