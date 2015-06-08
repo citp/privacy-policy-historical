@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wfmz.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216062311id_/http%3A//www.wfmz.com/Privacy-Policy/141168) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfmz.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608235428id_/http%3A//www.wfmz.com/Privacy-Policy/141168) for the most accurate reproduction.*
 
 # Privacy Policy | Home - Home
 
@@ -29,6 +29,8 @@ This is how we will handle information we learn about you from your visit to our
 Google Analytics employs cookies to define user sessions, which allows for the collection of data about how visitors are using the websites. Google Analytics uses only first-party cookies for data analysis.  This means that the cookies are linked to a specific website domain, and Google Analytics will only use that cookie data for statistical analysis related to your browsing behavior on that specific website.  According to Google, the data collected cannot be altered or retrieved by services from other domains.
 
 If you choose, you can opt out by turning off cookies in the preferences settings in your web browser. For more information on Google Analytics, please visit [Google Analytics](http://www.google.com/analytics/)
+
+You can also visit the Google Analytics [currently available opt outs ](https://tools.google.com/dlpage/gaoptout/)page.
 
  **Advertising (subject to the above)** We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Here is a url for more information about this practice and to know your choices about not having this information used by these companies: [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
