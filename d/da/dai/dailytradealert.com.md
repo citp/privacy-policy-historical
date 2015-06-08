@@ -1,16 +1,27 @@
-> *The following text is extracted and transformed from the dailytradealert.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223194229id_/http%3A//dailytradealert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytradealert.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608160606id_/http%3A//dailytradealert.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daily Trade Alert
 
-Last Updated: 01/01/2014
+Last Updated: 03/19/2015
 
 **What information do we collect?**
 
-We collect information from you when you subscribe to our free _Daily Trade Alert_ newsletter, fill out our “Contact Us” form or respond to an email or subscriber survey.
+We collect information from you when you visit DailyTradeAlert.com, subscribe to our free _Daily Trade Alert_ newsletter, fill out our “Contact Us” form or respond to an email or subscriber survey.
 
-When subscribing to our newsletter or submitting a message or inquiry to us through our “Contact Us” form, as appropriate, you may be asked to enter your name and email address. You may, however, visit our site anonymously.
+When subscribing to our newsletter or submitting a message or inquiry to us through our “Contact Us” form, as appropriate, you may be asked to enter your name and email address.
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Google Analytics Advertising Features allow us to enable features in Google Analytics that aren’t available through standard implementations.  We have enabled Google Analytics Advertising Features on our site, and we are required to notify our visitors by disclosing the following information. Advertiser features we use may include:
+
+  * Remarketing with Google Analytics
+  * Google Display Network Impression Reporting
+  * DoubleClick Platform integrations
+  * Google Analytics Demographics and Interest Reporting
+
+
+
+By enabling these Advertising Features, we enable Google Analytics to collect data about our traffic via [Google advertising cookies](https://www.google.com/policies/privacy/key-terms/#toc-terms-cookie) and [anonymous identifiers](https://www.google.com/policies/privacy/key-terms/#toc-terms-identifier), in addition to data collected through a standard Google Analytics implementation.
+
+You can opt-out of the Google Analytics Advertising Features we use, including through Ads Settings, Ad Settings for mobile apps, or any other available means by using Google Analytics’ [currently available opt-outs](https://tools.google.com/dlpage/gaoptout/) for the web.
 
 **What do we use your information for?**
 
@@ -78,7 +89,7 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
 
-This policy was last modified on **01/01/2014**
+This policy was last modified on **03/19/2015**
 
 **Contacting Us**
 
