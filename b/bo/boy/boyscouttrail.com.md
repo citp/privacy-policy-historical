@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boyscouttrail.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018145906id_/http%3A//www.boyscouttrail.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boyscouttrail.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608071636id_/http%3A//www.boyscouttrail.com/privacy.asp) for the most accurate reproduction.*
 
 # Boy Scout Trail Privacy Policy
 
