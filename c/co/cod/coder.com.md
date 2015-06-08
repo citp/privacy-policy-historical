@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coder.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923095408id_/http%3A//coder.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coder.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608090443id_/http%3A//www.coder.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for www.coder.com
 
