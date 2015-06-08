@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freesbmblog.info privacy policy that was archived on 2014-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140717020335id_/http%3A//www.freesbmblog.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesbmblog.info privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608095325id_/http%3A//www.freesbmblog.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy › FreeSbmBlog.info : Great site to keep your bookmarks organized and get high traffic from social bookmarking sites | Quality social bookmarking service for back link generator
 
