@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthjobsuk.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217133304id_/http%3A//www.healthjobsuk.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthjobsuk.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041315id_/http%3A//www.healthjobsuk.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -18,7 +18,7 @@ By using, registering or submitting any information on our Site you consent to t
 
 | 
 
-Simon Headington, Trac Systems Limited, PO Box 8, Bakewell, Derbyshire, DE45 1YG, info@healthjobsuk.com;  
+Simon Headington, Trac Systems Limited, PO Box 8, Bakewell, Derbyshire, DE45 1YG, info@trac.jobs;  
   
 ---|---  
   
