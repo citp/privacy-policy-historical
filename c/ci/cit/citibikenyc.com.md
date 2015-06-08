@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the citibikenyc.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123131703id_/http%3A//www.citibikenyc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citibikenyc.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608120125id_/http%3A//www.citibikenyc.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Citi Bike NYC
 
-**Citi Bike is expanding!** Find full details on Citi Bike system expansion and new Annual Membership pricing [here](http://citibikeblog.tumblr.com/post/101182979267/expansion-woo-hoo).
+**Hey Members!** Share the bike love with a friend and you'll both get a free month when they sign up for a new annual Citi Bike membership. [Refer Now!](http://refer.citibikenyc.com/header)
 
   
 **I. PURPOSE**
