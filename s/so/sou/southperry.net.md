@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southperry.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120050224id_/http%3A//www.southperry.net/page-handler.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southperry.net privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608125658id_/http%3A//www.southperry.net/page-handler.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Southperry.net - Privacy policy
 
