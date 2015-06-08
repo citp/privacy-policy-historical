@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hydraforce.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124024633id_/http%3A//hydraforce.com/privacy_policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hydraforce.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608135324id_/http%3A//www.hydraforce.com/privacy_policy/index.html) for the most accurate reproduction.*
 
 # HydraForce - Hydraulic Cartridge Valves, Custom Manifolds and Electro-Hydraulic Control Systems Warranty and Terms
 
