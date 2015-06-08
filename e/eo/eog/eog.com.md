@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eog.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204172656id_/http%3A//www.eog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eog.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608020347id_/http%3A//www.eog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,26 +6,23 @@
 
 We collect information from you when you register on our site or subscribe to our newsletter.
 
-When registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously.
+When registering on our site, as appropriate, you may be asked to submit a valid e-mail address. You may, however, visit our site anonymously.
 
 **What do we use your information for?**
 
 Any of the information we collect from you may be used in one of the following ways:
 
-; To personalize your experience  
-(your information helps us to better respond to your individual needs)
+; To personalize your experience (Your information helps us to better respond to your individual needs).
 
-; To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+; To improve our website (We continually strive to improve our website offerings based on the information and feedback we receive from you).
 
-; To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+; To improve customer service (Your information helps us to more effectively respond to your customer service requests and support needs).
 
-; To administer a contest, promotion, survey or other site feature
+; To administer a contest, promotion, survey or other site feature.
 
-; To send periodic emails
+; To send periodic emails.
 
-The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions. Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent.
+The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions. Your information, whether public or private, will not be sold, exchanged, transferred or given to any other company for any reason whatsoever, without your consent.
 
 **How do we protect your information?**
 
@@ -33,7 +30,7 @@ We implement a variety of security measures to maintain the safety of your perso
 
 **Do we use cookies?**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser with your approval) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
 We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
@@ -45,13 +42,13 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 **Third party links**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We, therefore, have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
 **California Online Privacy Protection Act Compliance**
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We, therefore, will not distribute your personal information to outside parties without your consent.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at any time by logging into their control panel and going to the ‘Edit Profile’ page.
 
 **Childrens Online Privacy Protection Act Compliance**
 
