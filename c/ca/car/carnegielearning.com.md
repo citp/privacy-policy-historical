@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the carnegielearning.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203150509id_/http%3A//www.carnegielearning.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carnegielearning.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608173513id_/http%3A//www.carnegielearning.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - Carnegie Learning
+# Carnegie Learning
 
-Last Updated: April 1, 2014
+Last Updated: January 8, 2015
 
 We will notify our members when we make any significant changes to our Privacy Policy that affect the use of any personally identifiable information we collect. We will not make use of any personally identifiable information which Carnegie Learning, Inc. gathered from individual members or visitors prior to any such significant change in our Privacy Policy without first obtaining the member's or visitor's consent for any new uses. In addition, Carnegie Learning, Inc. reserves the right to make non-significant changes to our Privacy Policy that will not affect Carnegie Learning's use of a user's personally identifiable information at any time without any notice to you other than posting any such changes in a revised Privacy Policy on the Carnegie Learning website. We encourage you to periodically review our Privacy Policy to be sure you are familiar with the most current version. The Policy will include the most recent date in which any revision has been made.
 
@@ -14,7 +14,7 @@ In order to use many of Carnegie Learning's online features, tools and services,
 
 **2\. INFORMATION GATHERED BY CARNEGIE LEARNING, INC.**
 
-When you visit Carnegie Learning's websites and interact with the services and tools that reside there, Carnegie Learning, Inc. may collect information on your actions. This type of information is generally collected from two sources. One is from the server log files and the other is from cookies. Please read more about them in section B(9).
+When you visit Carnegie Learning's websites and interact with the services and tools that reside there, Carnegie Learning, Inc. may collect information on your actions. This type of information is generally collected from three sources: server log files, cookies, and Google Analytics ID. Please read more about them in section B(8).
 
 #### **How Information is Collected and Disseminated**
 
@@ -52,7 +52,7 @@ Carnegie Learning offers the ability to forward an electronic resource to anothe
 
 The Carnegie Learning websites contain links to other websites recommended by Carnegie Learning staff and members. We cannot be responsible for the privacy practices or the content of such non-Carnegie Learning websites, and we do not control the practices of any of the websites to which we are linked. However, we generally will advise you when you are leaving a Carnegie Learning website through a link.
 
-**8.  INFORMATION COLLECTED BY CARNEGIE LEARNING THROUGH IP ADDRESS AND COOKIES**
+**8.  INFORMATION COLLECTED BY CARNEGIE LEARNING THROUGH IP ADDRESS, COOKIES, AND GOOGLE ANALYTICS**
 
 _IP Address_
 
@@ -63,6 +63,10 @@ _Cookies_
 Our site may use a feature of your browser to set a "cookie" on your computer. Cookies are small packets of information that a website stores on your computer. The Carnegie Learning websites can then read the cookies whenever you visit. We may use cookies to save your password so you don't have to re-enter it each time you visit our site, to deliver content specific to your interests, and to track the pages you've visited. These cookies allow us to use the information we collect to customize your Carnegie Learning experience so that your visit to Carnegie Learning is as relevant and as valuable to you as possible.
 
 You may modify your browser preferences to provide you with choices relating to cookies. You have the choice to accept all cookies, to be notified when a cookie is set or to reject all cookies. If you choose to reject cookies you may be unable to use those Carnegie Learning services that require you to login in order to participate or you may have to re-login each time you visit one of Carnegie Learning's websites.
+
+_Google Analytics_
+
+Our site may use a Google Analytics ID to learn more about your preferences and use of the site, also allowing us to make your Carnegie Learning experience as relevant and valuable to you as possible. In using this site, you consent to our use of Google Analytics ID for tracking purposes.
 
 **9.  INFORMATION SHARING POLICY**
 
