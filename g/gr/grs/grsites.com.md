@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grsites.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060938id_/http%3A//www.grsites.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grsites.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608025222id_/http%3A//www.grsites.com/privacy) for the most accurate reproduction.*
 
 # GRSites Privacy Policy
 
