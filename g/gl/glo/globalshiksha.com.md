@@ -1,31 +1,20 @@
-> *The following text is extracted and transformed from the globalshiksha.com privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031205855id_/http%3A//www.globalshiksha.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalshiksha.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608175352id_/http%3A//www.globalshiksha.com/policy.php) for the most accurate reproduction.*
 
 # Privacy policies of globalshiksha.com
-
-Global Shiksha Privacy Policy
 
 Note: Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically. 
 
 **1\. Collection of Personally Identifiable Information**  
 We collect personally identifiable information (email address, name, phone number, etc.) from you when you set up a free account with GlobalShiksha.com. While you can browse some sections of our site without being a registered member, certain activities (such as placing an order) do require registration. We do use your contact information to send you offers based on your previous orders and your interests. 
 
-  
-
-
 **2\. Profile and Location Data**  
 We use your personal information to resolve disputes; troubleshoot problems; help promote a safe service; collect fees owed; measure consumer interest in our products and services, inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our terms and conditions; and as otherwise described to you at the time of collection.  
-In our efforts to continually improve our product and service offerings, we collect and analyze demographic and profile data about our users' activity on our website.We identify and use your IP address to help diagnose problems with our server, and to administer our website. Your IP address is also used to help identify you and to gather broad demographic information.
-
+In our efforts to continually improve our product and service offerings, we collect and analyze demographic and profile data about our users' activity on our website.We identify and use your IP address to help diagnose problems with our server, and to administer our website. Your IP address is also used to help identify you and to gather broad demographic information.  
 A "cookie" is a small piece of information stored by a Web server on a Web browser so it can be later read back from that browser. Cookies are useful for enabling the browser to remember information specific to a given user. GlobalShiksha.com places both permanent and temporary cookies in your computer's hard drive. GlobalShiksha.com's cookies do not contain any of your personally identifiable information. 
 
-  
-
-
 **3\. Sharing of personal information**  
-We may share personal information with our other corporate entities and affiliates to: help detect and prevent identity theft, fraud and other potentially illegal acts; correlate related or multiple accounts to prevent abuse of our services; and to facilitate joint or co-branded services that you request where such services are provided by more than one corporate entity. Those entities and affiliates may not market to you as a result of such sharing unless you explicitly opt-in.
-
-We may disclose personal information if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. We may disclose personal information to law enforcement offices, third party rights owners, or others in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.
-
+We may share personal information with our other corporate entities and affiliates to: help detect and prevent identity theft, fraud and other potentially illegal acts; correlate related or multiple accounts to prevent abuse of our services; and to facilitate joint or co-branded services that you request where such services are provided by more than one corporate entity. Those entities and affiliates may not market to you as a result of such sharing unless you explicitly opt-in.  
+We may disclose personal information if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. We may disclose personal information to law enforcement offices, third party rights owners, or others in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.  
 GlobalShiksha.com and its affiliates will share some or all of your personal information with another business entity should we (or our assets) plan to merge with, or be acquired by that business entity. Should such a transaction occur, that other business entity (or the new combined entity) will be required to follow this privacy policy with respect to your personal information. 
 
 **4\. Links to Other Sites**  
