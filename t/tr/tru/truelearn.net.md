@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the truelearn.net privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126160041id_/http%3A//www.truelearn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truelearn.net privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608020727id_/http%3A//www.truelearn.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TrueLearn
-
-[](https://web.archive.org/)
 
 Privacy Policy for TrueLearn, Inc. (TrueLearn) and COMBANK Medical DBA TrueLearn. Last Updated July 2014.   
 **Information Collected**  
@@ -19,13 +17,3 @@ If your TrueLearn subscription was purchased by a 3rd party as part of an “ins
 Every marketing email from TrueLearn contains instructions on how to opt out of receiving further marketing emails from the Company.   
 **How to Contact Us**  
 Questions regarding TrueLearn’s Privacy Policy or information practices should be directed to admin@truelearn.com.
-
-Feel free to reach us with any comments, questions, or for technical support. TrueLearn is currently hiring for software engineering, marketing, and sales positions - please provide your resume to hire@truelearn.com.
-
-(866) 475-4777
-
-info@truelearn.com
-
-2 Penn Center West, Suite 220
-
-Pittsburgh, PA 15276
