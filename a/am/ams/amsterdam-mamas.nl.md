@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amsterdam-mamas.nl privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226163217id_/http%3A//www.amsterdam-mamas.nl/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amsterdam-mamas.nl privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608202208id_/http%3A//www.amsterdam-mamas.nl/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Amsterdam Mamas Privacy Policy - Amsterdam Mamas
 
