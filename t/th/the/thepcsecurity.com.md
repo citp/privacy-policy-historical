@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepcsecurity.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113060828id_/http%3A//thepcsecurity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepcsecurity.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609015349id_/http%3A//thepcsecurity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PC Security
 
@@ -17,8 +17,6 @@ Google uses the Doubleclick DART cookie to serve ads across it’s Adsense netwo
 ### RSS Feeds and Email Updates
 
 If a user wishes to subscribe to our RSS Feeds or Email Updates (powered by Feedburner), we ask for contact information such as name and email address. Users may opt-out of these communications at any time. Your personal information will never be sold or given to a third party. (You will never be spammed by us – ever).
-
-[](http://thepcsecurity.com/links.php?go=pchealth)
 
 ### Log Files and Stats
 
