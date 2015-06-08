@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etonbio.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009022513id_/http%3A//www.etonbio.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etonbio.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608061242id_/http%3A//etonbio.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy and Security Notice
 
@@ -20,7 +20,7 @@ However, please be advised that technical and legal circumstances may compromise
 
 #### We respect to your rights
 
-Feel free to [contact us](https://web.archive.org/web/20141009022513id_/http%3A//www.etonbio.com/contact.php) if you have any concerns. If you do not feel comfortable about the security of this website, please let us know immediately, and we will take all or portions of your information off this website.
+Feel free to [contact us](https://web.archive.org/web/20150608061242id_/http%3A//etonbio.com/contact.php) if you have any concerns. If you do not feel comfortable about the security of this website, please let us know immediately, and we will take all or portions of your information off this website.
 
 #### Other web sites
 
