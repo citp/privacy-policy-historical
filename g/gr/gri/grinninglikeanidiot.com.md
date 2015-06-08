@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grinninglikeanidiot.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120133134id_/http%3A//www.grinninglikeanidiot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grinninglikeanidiot.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041813id_/http%3A//www.grinninglikeanidiot.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Grinning Like An Idiot: Create your Happiness with DIY
+# Privacy Policy - Grinning Like An Idiot: Create your Happiness
 
 **What information do we collect?**
 
@@ -66,8 +66,7 @@ This policy was last modified on 11/23/2013
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.grinninglikeanidiot.com
-
+http://www.grinninglikeanidiot.com  
 stephanie@grinninglikeanidiot.com
 
 This policy is powered by Free Privacy Policy and Rhino Support. Compare Rhino Support to [Zen desk](http://www.rhinosupport.com/zendesk.htm) and save!
