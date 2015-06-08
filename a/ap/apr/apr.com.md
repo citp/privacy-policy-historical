@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apr.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218203853id_/http%3A//www.apr.com/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apr.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609012226id_/http%3A//www.apr.com/Privacy-Statement) for the most accurate reproduction.*
 
 # Privacy Statement | Alain Pinel Realtors
 
