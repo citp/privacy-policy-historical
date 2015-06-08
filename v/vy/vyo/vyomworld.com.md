@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vyomworld.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221222923id_/http%3A//www.vyomworld.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vyomworld.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609013418id_/http%3A//www.vyomworld.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
