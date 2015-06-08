@@ -1,93 +1,34 @@
-> *The following text is extracted and transformed from the bigbrother.com.au privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625041428id_/http%3A//bigbrother.com.au/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigbrother.com.au privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608035038id_/http%3A//mi9.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Big Brother Australia 2008
+# About
 
-#### Our Commitment to You 
+Personal Information[Additional Details](http://advertising.ninemsn.com.au/article.aspx?id=8363165)
 
-At Network Ten we take very seriously your privacy and our obligations under the Privacy Act 1988 (Cth). Any personal information you provide to us will be managed carefully. We have a range of procedures in place to help protect your privacy.   At Network Ten we conduct our operations in accordance with the National Privacy Principles. These are minimum standards that set out the general principles governing information handling practices for organisations like Network Ten. We are also committed to high standards of privacy protection in our journalism through our adherence to the Commercial Television Industry's Code of Practice.
+  * When you register for certain services offered on the Ninemsn Network we will ask you to provide personal information.
+  * The information we collect may be combined with information obtained from other companies, including Microsoft.
+  * We use cookies and other technologies to keep track of your interactions with our sites and services to offer a personalised experience.
 
-#### What Personal Information Does Network Ten Collect? 
+Your Choices[Additional Details](http://advertising.ninemsn.com.au/article.aspx?id=8363165)
 
-The type of personal information we collect varies according to how you interact with Network Ten. Some examples include:
+  * You can stop the delivery of promotional e-mails from Ninemsn by following the instructions in the e-mail you receive.
+  * You can subscribe or unsubscribe to ninemsn newsletter alerts (News Alerts, Entertainment Alerts, Trending Alerts and Must See Video Alerts) by sending an email to newsletters@ninemsn.com.au
+  * To opt-out of the display of personalised advertisements, go to the [Display of Advertising](http://advertising.ninemsn.com.au/article.aspx?id=8363165) section of the full Privacy Statement.
 
-\- when you complete any application forms   
-\- through telephone calls   
-\- visits to our Web Site   
-\- letters and other material sent by you to Network Ten   
-\- material submitted in competitions   
-\- feedback, comments or suggestions on programs and other activities of Network Ten   
-\- through Buy Ten Web Site   
-\- as a customer or client of Network Ten   
-\- when you provide a service or products to Network Ten   
-\- security surveillance of our premises (eg video, card access). 
+Uses of Information[Additional Details](http://advertising.ninemsn.com.au/article.aspx?id=8363165)
 
-The type of information we collect will very much depend on what you give us. It might be your name, address, telephone number, email address, work contacts, photographs, interest, hobbies and any other personal details you wish to provide. We do not try to collect sensitive information, but some people volunteer sensitive information anyway.
+  * We use the information we collect to provide the services you request. Our services may include the display of personalised content and advertising.
+  * We use your information to send you updates on new services, offers from our partners, newsletters which you have subscribed to and new competitions.
+  * In order to help provide our services we occasionally provide information to other companies who work on our behalf.
+  * We may provide the information we collect to Ninemsn's Related Bodies Corporate (such as Nine Entertainment Co. and Nine Network Australia Pty Ltd).
 
-We may collect personal information when you visit our Web Site. For example if you use our Buyten Web Site, we may record who has visited the site and other related information. We have a separate privacy policy for our Buyten Web Site, which is available on the Web Site and also from Network Ten on request. 
+Important Information[Additional Details](http://advertising.ninemsn.com.au/article.aspx?id=8363165)
 
-Network Ten reserves the right to perform statistical analysis of user activity and characteristics in order to measure interest in and use of the various areas in the Web Site and to inform others of such information, as well as the number of users who have been exposed to or have clicked on any particular areas in the Web Site. You acknowledge that when you disclose personally identifiable information on the Web Site, that information, along with any substantive information disclosed in your communication, may be collected and collated and used and disclosed by Network Ten and may result in marketing and promotional messages being sent to you from Network Ten or its associates and affiliates.
+  * A member of the Nine Entertainment Co. family, Mi9 sits within the Mi9 group of companies. Information you provide through utilising Microsoft Products that you access through the Ninemsn Network may be collected and used both by Ninemsn (an Mi9 company) (in which case this Privacy Policy will govern our collection and use of your personal information) and Microsoft Corporation and its affiliates (in which case the [MSN Privacy Statement](http://go.microsoft.com/fwlink/?LinkId=248688) will govern).
 
-Non-personal information and data may be automatically collected through the standard operation of Network Ten's Internet servers or through the use of cookies. If you do not want information collected through the use of cookies, you should use your browser's cookie disabling feature. You should note, however, that if cookies are disabled certain features may not be available. The use of cookies on the Web Site enables us to deliver and maintain customised options when you make return visits to the site.
+How to Contact UsFor more information about our privacy practices, go to the full [ Ninemsn Privacy Statement](http://advertising.ninemsn.com.au/article.aspx?id=8363165) or send an email to the [Ninemsn Privacy Officer](mailto:%20legalnotifications@ninemsn.com.au). 
 
-There may be times when we ask for personal information from you and you do not wish to provide it. We do not have a problem with that but it may mean, for example, that we cannot enter your details for a competition or provide you with a particular service that you want.
+  * If you have a technical or general support question regarding Microsoft products or service, please visit [Microsoft Support](http://support.microsoft.com/) to learn more about Microsoft Support offerings.
+  * If you suspect your Outlook.com/Windows Live account has been hacked or taken over, please visit [Live Help](http://windows.microsoft.com/en-us/windows-live/microsoft-account-help#microsoft-account=tab0).
+  * If you have an Outlook.com/Windows Live password question, please visit [Live Help](http://windows.microsoft.com/en-us/windows-live/microsoft-account-help#microsoft-account=tab0).
 
-We would appreciate it if you could let us know when personal information you have supplied to us needs to be updated or is no longer valid.
-
-  
-
-
-#### What Does Network Ten Do With the Personal Information?
-
-The purpose for which we collect the information is to give effect to the particular interaction you have with Network Ten. That might be, for example, when you participate in a competition we run, for publicity or promotion of a Network personality or for developing the business relationship between you and TEN. We may share the personal information that you have given to us with other companies within our group, our associates and affiliates.
-
-We may also use your personal information for related purposes that you would reasonably expect. We take particular care with any sensitive information.
-
-There may be circumstances where we want to use your personal information to let you know about programs or to get your feedback on our operations. If we use your personal information for direct marketing purposes, we will give you the opportunity to opt out of receiving any further marketing material. If we have contracted out a service to a third party, we may need to disclose your personal information to that third party to ensure that you get the service needed. In these circumstances, we require the third party to protect the privacy of the information that is disclosed to it. There may be circumstances where the law requires us to disclose the information, or where disclosure is required to prevent a risk to health or safety or for law enforcement purposes.
-
-  
-
-
-#### How Do We Look After Your Personal Information? 
-
-We have internal security measures in place to help protect personal information from misuse, modification, unauthorised access, or disclosure. We have a security system in place to deal with the physical security of our premises and the personal information kept at our premises. We have procedures in place to maintain a secure computer/ electronic system.
-
-We take reasonable steps to ensure that work areas are secure, and information on databases is protected by pass words and accessed only for legitimate purposes. All our staff are made aware of their obligations under the privacy principles to make your privacy a priority in dealing with personal information. 
-
-We take reasonable steps to ensure the information we collect, use and disclose is accurate, complete and up to date. When we no longer need your personal information we have procedures in place to either destroy it in a secure manner or to permanently de-identify the information. 
-
-  
-
-
-#### Can You Access or Correct Information Held by Network Ten? 
-
-We maintain records of personal information we have collected. You can gain access to the personal information held by Network Ten about you in two ways.  If you have registered with Network Ten through the Web Site, most information held by Network Ten about you can be viewed and changed directly by you by logging into the Web Site using your username and password and reviewing your preferences.
-
-Except in some limited circumstances such as where the information is commercially sensitive, any other information held by Network Ten about you is available by contacting the Network Privacy Officer. Contact details for the Network Privacy Officer can be found at [Contact Us](http://ten.com.au/ten/contact_us.html)
-
-You can submit a request for access to your personal information to the Network Privacy Officer. We will process a request for access as quickly as possible. We reserve the right to impose a reasonable charge for processing and collating personal information, where appropriate and permitted under the Privacy Act 1988.   If you inform us that the information we hold is incorrect we will, if appropriate, amend those records. 
-
-  
-
-
-#### Do You Have a Complaint?
-
-If you are concerned that there may have been some inappropriate use or disclosure or any other breach relating to your personal information, we want to know about it. The contact person for complaints is the Network Privacy Officer. All complaints will be investigated.
-
-Details about how to lodge a complaint can be found at [Contact Us](http://ten.com.au/ten/contact_us.html)
-
-  
-
-
-#### Changes to This Privacy Policy
-
-Network Ten reserves the right to change its privacy policy at any time, and you should check this policy from time to time for that reason.
-
-  
-
-
-#### Have We Answered Your Questions About Privacy?
-
-If you have other questions regarding our information handling processes, please [Contact Us](http://ten.com.au/ten/contact_us.html).
-
-This page last updated: 9 February 2007  
 
