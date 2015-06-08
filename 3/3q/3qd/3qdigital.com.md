@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 3qdigital.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121143522id_/http%3A//3qdigital.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3qdigital.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041306id_/http%3A//3qdigital.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - 3Q Digital
+# 3Q Digital | Privacy Policy
 
 ## Our Sites
 
@@ -10,7 +10,7 @@ We use the 3QDigital.com site to describe our company and offer ways to contact
 
 ## Contact Us
 
-Contact us if you have questions about this policy. You can e-mail us at [info@3QDigital.com](mailto:info@3QDigital.com), or you can call us at 650 539-4124. Our mailing address is: 3Q Digital, 1710 S. Amphlett Blvd. #320, San Mateo, CA 94402, USA.
+Contact us if you have questions about this policy. You can e-mail us at [info@3QDigital.com](mailto:info@3QDigital.com), or you can call us at 650 539-4124. Our mailing address is: 3Q Digital, 155 Bovet Rd. #480, San Mateo, CA 94402, USA.
 
 ## Disputes
 
@@ -36,7 +36,8 @@ A cookie is a piece of information sent to a browser by a web server. The browse
 
 Our sites link to and redirect to third-party websites. We’re not responsible for the privacy practices or the content on those sites.
 
-When you leave our site, it is wise to check the privacy policy of the site you reach. Those sites might place their own cookies, collect data, and use personal information in different ways than we do. The privacy policy described on this page only applies to our sites.
+When you leave our site, it is wise to check the privacy policy of the site you reach. Those sites might place their own cookies, collect data, and use personal information in different ways than we do.  
+The privacy policy described on this page only applies to our sites.
 
 ## Security
 
