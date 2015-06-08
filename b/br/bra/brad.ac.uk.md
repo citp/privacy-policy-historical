@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the brad.ac.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120212531id_/http%3A//www.bradford.ac.uk/about/legal/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brad.ac.uk privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608054604id_/http%3A//www.bradford.ac.uk/about/legal/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - University of Bradford
 
-## Revision date: 5 August 2014
+## Revision date: 9 February 2015
 
 This privacy policy sets out how University of Bradford uses and protects any information that you give the University of Bradford when you use this website.
 
 University of Bradford is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement and the Data Protection Act.
 
-University of Bradford may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 25 May 2012 to comply with the EU Cookie Law which comes into effect on 26 May 2012. See the [Information Commissioners Office website](http://www.ico.gov.uk/for_organisations/privacy_and_electronic_communications/the_guide/cookies.aspx "ICo website.") for full details (external link).
+University of Bradford may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 25 May 2012 to comply with the EU Cookie Law which comes into effect on 26 May 2012. See the [Information Commissioners Office website](https://ico.org.uk/for-organisations/guide-to-pecr/cookies/ "Information Commisioner's website.") for full details (external link).
 
 ## What we collect
 
@@ -19,6 +19,7 @@ We may collect the following information:
   * contact information including email address
   * demographic information such as postcode, preferences and interests
   * other information relevant to customer surveys and/or offers
+  * information publicly held about companies e.g. number of employees, turnover, VAT number
 
 
 
@@ -59,8 +60,6 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 For further information about deleting and controlling cookies see [AboutCookies.org](http://www.aboutcookies.org/ "About Cookies dot org link.")
 
-For details of how to control your cookies through your own browser settings visit the Information Commissioner’s Office Advice for Members of the Public web page: <http://www.ico.gov.uk/for_the_public/topic_specific_guides/online/cookies.aspx>
-
 ### The cookies we use
 
 Provider| Name| Description and further information  
@@ -95,8 +94,8 @@ Our website may contain links to other websites of interest. However, once you h
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-whenever you are asked to fill in a form on the website, or other hard copy form, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
-if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [web-team@bradford.ac.uk](mailto:web-team@bradford.ac.uk "Email the Web Team.")
+Whenever you are asked to fill in a form on the website, or other hard copy form, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes.  If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [removeme@bradford.ac.uk](mailto:removeme@bradford.ac.uk "Email removeme@bradford.ac.uk")[  
+](mailto:web-team@bradford.ac.uk "Email the Web Team.")
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
@@ -109,7 +108,7 @@ BD7 1DP
 
 ## Third-party access
 
-Your personal data may be forwarded to third parties in connection with the purposes outlined elsewhere in this statement, to be used on behalf of the University of Bradford. These organisations will only use your personal on behlalf of the University of Bradford, in accordance with their own Data Protection or Privacy policies and the terms of agreement with the University of Bradford. Organisations currently carrying out work on behalf of the University include 11Ten and Hobsons.
+Your personal data may be forwarded to third parties in connection with the purposes outlined elsewhere in this statement, to be used on behalf of the University of Bradford. These organisations will only use your personal on behalf of the University of Bradford, in accordance with their own Data Protection or Privacy policies and the terms of agreement with the University of Bradford. Organisations currently carrying out work on behalf of the University include 11Ten and Hobsons.
 
   * [11Ten Data Protection Policy (Word doc, 40KB)](https://web.archive.org/about/media/universityofbradford/allfiles/documents/11ten-DP-policy.doc)
   * [Hobsons Information Security Program (PDF, 217KB)](https://web.archive.org/about/media/universityofbradford/allfiles/documents/Hobsons-Information-Security-Program.pdf)
@@ -118,4 +117,4 @@ Your personal data may be forwarded to third parties in connection with the purp
 
 ## Bulk emails
 
-From time to time we email our alumni, and others who have signalled their willingness to hear from us, with details of new courses or forthcoming events, news about the University, and related information. Some bulk emails are sent via technologies that allow us to track which subscribers have read them. To be removed from a list of subscribers, or to stop receiving any communications from us, please email [alumni@bradford.ac.uk](mailto:alumni@bradford.ac.uk) or use the link an an email that has been sent to you
+From time to time we email our alumni, prospective students, business partners, schools and colleges and others who have signalled their willingness to hear from us, with details of new courses or forthcoming events, news about the University, and related information. Some bulk emails are sent via technologies that allow us to track which subscribers have read them. To be removed from a list of subscribers, or to stop receiving any communications from us, please email [removeme@bradford.ac.uk](mailto:removeme@bradford.ac.uk "Email address to be removed from mailing lists.") or use the link an an email that has been sent to you
