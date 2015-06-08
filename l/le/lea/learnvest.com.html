@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the learnvest.com privacy policy that was archived on 2014-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141228180525id_/https%3A//www.learnvest.com/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the learnvest.com privacy policy that was archived on 2015-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608064747id_/https%3A//www.learnvest.com/about/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" xmlns:og="http://ogp.me/ns#"><head><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/4048.js?439595" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://cn.clickable.net/js/cct.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TBZW"></script><script src="//use.typekit.com/luc1yua.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQEFU1FACgcJUFdQBg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script><script type="text/javascript" src="http://www.learnvest.com/wp-content/plugins/w3-total-cache/pub/minify.php?file=ade8e/default.include.4415f9.js"></script>
+<!DOCTYPE html><html lang="en-US" xmlns:og="http://ogp.me/ns#"><head><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/4048.js?439589" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TBZW"></script><script src="//use.typekit.com/luc1yua.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.learnvest.com/wp-content/plugins/w3-total-cache/pub/minify.php?file=ade8e/default.include.4415f9.js"></script>
 
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Privacy Policy | LearnVest</title>
 
 
@@ -27,23 +28,24 @@
 <link rel="original-source" href="">
 <!-- / Yoast WordPress SEO plugin. -->
 
-<link rel="stylesheet" id="jquery-ui-calc-styles-css" href="http://learnvest.cachefly.net/wp-content/themes/lv-2010/css/jquery-ui-calc-theme/jquery-ui-1.8.12.custom.css?ts=1419277034&amp;ver=3.8.4" type="text/css" media="all">
-<link rel="stylesheet" id="plugins-styles-css" href="http://learnvest.cachefly.net/wp-content/themes/lv-2010/plugins.css?ts=1419277034&amp;ver=3.8.4" type="text/css" media="all">
-<link rel="stylesheet" id="selectmenu-styles-css" href="http://learnvest.cachefly.net/wp-content/themes/lv-2010/css/lv-select-menu.css?ts=1419277034&amp;ver=3.8.4" type="text/css" media="all">
-<link rel="stylesheet" id="NextGEN-css" href="http://learnvest.cachefly.net/wp-content/plugins/nextcellent-gallery-nextgen-legacy/css/nggallery.css?ver=1.0.0" type="text/css" media="screen">
-<link rel="stylesheet" id="font-face-css" href="http://learnvest.cachefly.net/wp-content/themes/lv-2010/font-face.css?ver=ts=1419277034" type="text/css" media="screen">
-<link rel="stylesheet" id="lv-2010-style-css" href="http://learnvest.cachefly.net/wp-content/themes/lv-2010/style.css?ver=ts=1419277034" type="text/css" media="screen">
-<link rel="stylesheet" id="lv-header-style-css" href="http://learnvest.cachefly.net/wp-content/themes/lv-2010/css/header.css?ver=ts=1419277034" type="text/css" media="screen">
-<link rel="stylesheet" id="ipad-style-css" href="http://learnvest.cachefly.net/wp-content/themes/lv-2010//ipad.css?ver=ts=1419277034" type="text/css" media="only screen and (max-device-width: 1024px)">
-
-
-<script type="text/javascript" src="http://learnvest.cachefly.net/wp-content/themes/lv-2010/js/fancybox/jquery.fancybox-1.3.4.js?ver=3.8.4"></script>
+<link rel="stylesheet" id="jquery-ui-calc-styles-css" href="http://learnvest.global.ssl.fastly.net/wp-content/themes/lv-2010/css/jquery-ui-calc-theme/jquery-ui-1.8.12.custom.css?ts=1432936924&amp;ver=3.8.4" type="text/css" media="all">
+<link rel="stylesheet" id="plugins-styles-css" href="http://learnvest.global.ssl.fastly.net/wp-content/themes/lv-2010/plugins.css?ts=1432936924&amp;ver=3.8.4" type="text/css" media="all">
+<link rel="stylesheet" id="selectmenu-styles-css" href="http://learnvest.global.ssl.fastly.net/wp-content/themes/lv-2010/css/lv-select-menu.css?ts=1432936924&amp;ver=3.8.4" type="text/css" media="all">
+<link rel="stylesheet" id="NextGEN-css" href="http://learnvest.global.ssl.fastly.net/wp-content/plugins/nextcellent-gallery-nextgen-legacy/css/nggallery.css?ver=1.0.0" type="text/css" media="screen">
+<link rel="stylesheet" id="font-face-css" href="http://learnvest.global.ssl.fastly.net/wp-content/themes/lv-2010/font-face.css?ver=ts=1432936924" type="text/css" media="screen">
+<link rel="stylesheet" id="lv-2010-style-css" href="http://learnvest.global.ssl.fastly.net/wp-content/themes/lv-2010/style.css?ver=ts=1432936925" type="text/css" media="screen">
+<link rel="stylesheet" id="lv-header-style-css" href="http://learnvest.global.ssl.fastly.net/wp-content/themes/lv-2010/css/header.css?ver=ts=1432936924" type="text/css" media="screen">
+<link rel="stylesheet" id="ipad-style-css" href="http://learnvest.global.ssl.fastly.net/wp-content/themes/lv-2010//ipad.css?ver=ts=1432936924" type="text/css" media="only screen and (max-device-width: 1024px)">
 
 
 
-<script type="text/javascript" src="http://learnvest.cachefly.net/wp-content/themes/lv-2010/js/bad-browsers.js?ts=1395896645&amp;ver=3.8.4"></script>
+<script type="text/javascript" src="http://learnvest.global.ssl.fastly.net/wp-content/themes/lv-2010/js/bad-browsers.js?ts=1430946447&amp;ver=3.8.4"></script>
+<script type="text/javascript" src="http://learnvest.global.ssl.fastly.net/wp-content/themes/lv-2010/js/fancybox/jquery.fancybox-1.3.4.js?ver=3.8.4"></script>
 <script type="text/javascript" src="http://cdn.optimizely.com/js/21309085.js?ver=3.8.4"></script>
-<script type="text/javascript" src="http://learnvest.cachefly.net/wp-content/plugins/sailthru-widget/js/sailthru_public.js?ver=3.8.4"></script>
+
+
+
+<script type="text/javascript" src="http://learnvest.global.ssl.fastly.net/wp-content/plugins/sailthru-widget/js/sailthru_public.js?ver=3.8.4"></script>
 <meta name="generator" content="WordPress 3.8.4">
 <!-- la petite url version 2.1 -->
 <link rel="shorturl" href="http://www.learnvest.com/ifmej">
@@ -99,9 +101,9 @@
 
 		<meta name="googlebot-news" content="noindex">
 
-		<link rel="stylesheet" type="text/css" media="all" href="http://learnvest.cachefly.net/wp-content/themes/lv-2010/template-about.css">
+		<link rel="stylesheet" type="text/css" media="all" href="http://learnvest.global.ssl.fastly.net/wp-content/themes/lv-2010/template-about.css">
 
-		<script type="text/javascript" src="http://learnvest.cachefly.net/wp-content/themes/lv-2010/js/lv-about.js"></script>
+		<script type="text/javascript" src="http://learnvest.global.ssl.fastly.net/wp-content/themes/lv-2010/js/lv-about.js"></script>
 
 	
 <script type="text/javascript">
@@ -136,11 +138,11 @@
 <!-- // end wpfbogp -->
 
 <!--[if lte IE 10]>
-	<link rel="stylesheet" type="text/css" href="http://learnvest.cachefly.net/wp-content/themes/lv-2010/ie.css?ts=1419277034"  media="screen"/>
-	<link rel="stylesheet" type="text/css" href="http://learnvest.cachefly.net/wp-content/themes/lv-2010/css/lv-button.ie.css?ts=1419277034"  media="screen"/>
+	<link rel="stylesheet" type="text/css" href="http://learnvest.global.ssl.fastly.net/wp-content/themes/lv-2010/ie.css?ts=1432936924"  media="screen"/>
+	<link rel="stylesheet" type="text/css" href="http://learnvest.global.ssl.fastly.net/wp-content/themes/lv-2010/css/lv-button.ie.css?ts=1432936924"  media="screen"/>
 <![endif]-->
 <!--[if lte IE 8]>
-	<link rel="stylesheet" type="text/css" href="http://learnvest.cachefly.net/wp-content/themes/lv-2010/ie8.css?ts=1419277034"  media="screen"/>
+	<link rel="stylesheet" type="text/css" href="http://learnvest.global.ssl.fastly.net/wp-content/themes/lv-2010/ie8.css?ts=1432936924"  media="screen"/>
 <![endif]-->
 <!--[if lte IE 7]>
 	<style type="text/css">
@@ -212,18 +214,14 @@
 
 
 
-	<script type="text/javascript">
-		window.userInfo = {"signedIn":false,"username":""};
-	</script>
-
 
 
 <!--[if (gt IE 8)|(!IE)|(IEMobile)]>
-<!--><link rel="stylesheet" type="text/css" href="http://learnvest.cachefly.net/wp-content/themes/lv-2010/resources/css/header-footer.css?ts=1419277034">
+<!--><link rel="stylesheet" type="text/css" href="http://learnvest.global.ssl.fastly.net/wp-content/themes/lv-2010/resources/css/header-footer.css?ts=1432936925">
 <!--<![endif]-->
 
 <!--[if (lt IE 9)]>
-<link rel="stylesheet" type="text/css" href="http://learnvest.cachefly.net/wp-content/themes/lv-2010/resources/css/header-footer-ie8.css?ts=1419277034">
+<link rel="stylesheet" type="text/css" href="http://learnvest.global.ssl.fastly.net/wp-content/themes/lv-2010/resources/css/header-footer-ie8.css?ts=1432936925">
 <![endif]-->
 
 
@@ -249,7 +247,7 @@
 		<header class="lvHeader lvHeader-fixed">
     <div class="lvHeaderContents">
 
-        <a href="/" title="LearnVest - Financial Planning Services and Personal Finance News" class="lvLogo-taglineWhite"></a>
+        <a href="/" title="LearnVest - Financial Planning Services and Personal Finance News" class="lvLogo-inlineWhite"></a>
         
         <nav class="lvHeader-mainNav">
         	<a href="/personal-financial-planning-program/" title="Financial Planning Program" class="nav-stdLink">How It Works</a>
@@ -259,8 +257,9 @@
             <span class="nav-separator">|</span>
 
             <a href="/mylv/login" title="LearnVest Login" class="nav-stdLink nav-loggedOut ">Login</a>
-            <a href="/lp/account-creation" title="Sign Up for LearnVest" class="button-mini nav-button nav-loggedOut">Sign Up</a>
-            <a href="/mylv/money" class="button-mini nav-button nav-loggedIn ">Back to Dashboard</a>
+
+            <a href="/lp/account-creation" title="Sign Up for LearnVest" class="button-mini nav-button showViaUserState-signedOut">Sign Up</a>
+            <a href="/mylv/money" class="button-mini nav-button showViaUserState-signedIn">Go to my Dashboard</a>
         </nav>
 
         <div class="header-burgerWrapper">
@@ -337,21 +336,20 @@
 	</script>
 	<div id="main">
 	<div id="about-left-bar">
-		<div class="menu-about"><ul id="menu-about-left-nav" class="menu"><li id="menu-item-90127" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-90127"><a href="http://www.learnvest.com/about/">Our Mission<span class="arrow"></span></a></li>
-<li id="menu-item-90129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-90129"><a href="http://www.learnvest.com/about/who-we-are/">Who We Are<span class="arrow"></span></a>
+		<div class="menu-about"><ul id="menu-about-left-nav" class="menu"><li id="menu-item-90129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-90129"><a href="http://www.learnvest.com/about/who-we-are/">Who We Are<span class="arrow"></span></a>
 <ul class="sub-menu">
 	<li id="menu-item-90130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90130"><a href="http://www.learnvest.com/about/who-we-are/our-team/">Our Executive Team<span class="arrow"></span></a></li>
 	<li id="menu-item-90131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90131"><a href="http://www.learnvest.com/about/who-we-are/board-of-directors/">Our Board of Directors<span class="arrow"></span></a></li>
 	<li id="menu-item-222045" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-222045"><a href="http://www.learnvest.com/about/who-we-are/editorial-staff/">Our Editorial Staff<span class="arrow"></span></a></li>
 </ul>
 </li>
-<li id="menu-item-90132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90132"><a href="http://www.learnvest.com/we-are-hiring/">We’re Hiring<span class="arrow"></span></a></li>
+<li id="menu-item-90127" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-90127"><a href="http://www.learnvest.com/about/">Our Mission<span class="arrow"></span></a></li>
 <li id="menu-item-90133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-90133"><a href="http://www.learnvest.com/about/in-the-news/">In The News<span class="arrow"></span></a>
 <ul class="sub-menu">
 	<li id="menu-item-90134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90134"><a href="http://www.learnvest.com/about/in-the-news/press/">Press<span class="arrow"></span></a></li>
 </ul>
 </li>
-<li id="menu-item-188047" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-188047"><a href="http://www.learnvest.com/about/our-research/">Our Research<span class="arrow"></span></a></li>
+<li id="menu-item-90132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90132"><a href="http://www.learnvest.com/we-are-hiring/">We’re Hiring<span class="arrow"></span></a></li>
 <li id="menu-item-90138" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-90138"><a href="http://www.learnvest.com/about/your-security/">Safe &amp; Secure<span class="arrow"></span></a>
 <ul class="sub-menu">
 	<li id="menu-item-90139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90139"><a href="http://www.learnvest.com/about/your-security/security-legal/">Security &amp; Legal<span class="arrow"></span></a></li>
@@ -361,6 +359,7 @@
 	<li id="menu-item-90142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90142"><a href="http://www.learnvest.com/about/your-security/commenting-policy/">Commenting Policy<span class="arrow"></span></a></li>
 </ul>
 </li>
+<li id="menu-item-188047" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-188047"><a href="http://www.learnvest.com/about/our-research/">Our Research<span class="arrow"></span></a></li>
 <li id="menu-item-90143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90143"><a href="http://www.learnvest.com/about/advertising-info/">Advertise With Us<span class="arrow"></span></a></li>
 <li id="menu-item-90144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90144"><a href="http://www.learnvest.com/about/contact-us/">Contact Us<span class="arrow"></span></a></li>
 </ul></div>	
@@ -510,110 +509,6 @@ New York, NY 10003</p>
 			</div>
 		</div>
 
-<script type="text/javascript">
-//var wpnonce = 'd22f75fd5d';
-
-$j(document).ready(function() {
-	// Disable account popup for mobile users
-	if (/ipad|iphone|android/i.test(navigator.userAgent)) {
-
-		return;
-	}
-
-	init_account_popup();
-});
-</script>
-
-<script type="text/javascript">
-
-
-var redirect_url = '';
-var alt_redirect_url = '';
-
-
-
-// prevent autocomplete in Chrome
-if ($j.browser.webkit) {
-    $j('input[name="password"]').attr('autocomplete', 'off');
-}
-
-
-</script>
-
-<div id="user_account_popup" class="full">
-	<div class="left_pane">	
-		<h3 id="full_title">Become a LearnVest Member</h3>
-		<h3 id="compact_title">Welcome! Create an account or log in</h3>
-		<input type="text" name="Email" id="popup_field_email" tabindex="-1">
-		<div id="popup_error_email" class="fielderror"></div>
-		<input type="password" name="Password" id="popup_field_password" tabindex="-1">
-		<div class="linkrow">
-			<div id="popup_forgot_password">
-				<a href="https://www.learnvest.com/mylv/reset-password">I Forgot</a>
-			</div>
-			<div id="popup_error_password" class="fielderror"></div>
-		</div>
-			<input type="checkbox" id="popup_field_daily" name="Daily" checked="checked">
-			<div class="daily-signup">
-				<h4>Get The LearnVest Daily Email</h4>
-				<p>Filled with news, money-saving tips and financial how-tos<br> to live your richest life.</p>
-			</div>
-			<div class="button_popup_close">close x</div>
-	</div>
-	<div class="right_pane">
-		<h4>Member Benefits:</h4>
-		<ul>
-			<li><span class="icon mymoney"></span>
-				<span class="description">
-					<b>My Money</b>
-					Organize all your accounts in one place
-				</span>
-			</li>
-			<li><span class="icon bootcamp"></span>
-				<span class="description">
-					<b>Bootcamp</b>
-					Tackle specific financial goals
-				</span>
-			</li>
-			<li><span class="icon courses"></span>
-				<span class="description">
-					<b>Courses</b>
-					Complete online courses at your own pace
-				</span>
-			</li>
-			<li><span class="icon askanexpert"></span>
-				<span class="description">
-					<b>Free Financial Checkup</b>
-					Get a customized plan from a financial expert
-				</span>
-			</li>
-		</ul>
-	</div>
-	<div class="popup_footer" id="main_footer">
-		<input type="button" class="lv-button tall grey" value="Cancel" id="button_popup_cancel" tabindex="12">
-		<input type="button" class="lv-button tall green" value="Become A Member" id="button_popup_confirm" tabindex="13">
-	</div>
-	<div class="progress_screen">
-		<div class="progress"></div>
-		<p class="progress_text">Hold on for a sec...</p>
-	</div>
-
-	<div id="linking_screen">
-		<iframe src="/i/account-popup-content" width="760" height="320" id="linking_iframe"></iframe>
-		<div class="popup_footer" id="linking_footer">
-		<a id="linking_cancel" href="#" tabindex="12">I'm not ready to budget</a><input type="button" class="lv-button tall green" value="Get Started" id="linking_get_started" tabindex="13">
-		</div>
-		<div class="button_popup_close"></div>
-	</div>	
-	<div class="finished_screen">
-		<div class="finished"></div>
-		<div id="finished_message"></div>
-	</div>
-	<iframe id="popup_conversion_iframe"></iframe>
-	
-
-</div>
-
 
 
   <footer class="lvFooter">
@@ -685,11 +580,11 @@ if ($j.browser.webkit) {
       </div>
     </div>
     <div class="security-wrapper">
-      <div class="security-logo"><img src="https://learnvest.com/static/files/app/images/footer/verisign.png?@timpestamp@" alt="VeriSign Secured"></div>
+      <div class="security-logo"><img src="/exp-assets/img/../common-assets/img/partner-logos/verisign.png" alt="VeriSign Secured"></div>
       <a href="https://www.mcafeesecure.com/RatingVerify?ref=www.learnvest.com" target="_blank" title="McAfee Secure" class="security-logo"><img src="https://images.scanalert.com/meter/www.learnvest.com/13.gif" alt="McAfee Secure"></a>
       <div id="db454fe3-f63e-45d3-8add-a948bb330158"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/LearnVest/asc?rid=db454fe3-f63e-45d3-8add-a948bb330158"></script><a href="//privacy.truste.com/privacy-seal/LearnVest/validation?rid=d0ade6dc-5a7a-42e2-97d7-32341d3060f9" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/LearnVest/seal?rid=d0ade6dc-5a7a-42e2-97d7-32341d3060f9" alt="TRUSTe online privacy certification"></a></div>
     </div>
-    <p class="lvFooter-p">Learnvest © 2014 - Make Progress On Your Money</p>
+    <p class="lvFooter-p">Learnvest © <span class="lvFooter-year">2014</span> - Make Progress On Your Money</p>
     <p class="lvFooter-p">Your privacy matters. <a href="/about/privacy-policy/" target="_blank">Learn more.</a></p>
     <div class="marketingRow-outer">
       <div class="marketingRow-inner" id="footer-marketing">
@@ -737,13 +632,13 @@ if ($j.browser.webkit) {
 
 <!--[if !IE 8]> -->
 <script type="text/javascript"> 
-var _cctq = _cctq || []; 
-_cctq.push(['cct_log', '0820-6P0a1g2e1V0i6e3w29bb40f0a3ae97d5265cd3a2']); 
-(function() { 
-var cctjs = document.createElement('script'); cctjs.type = 'text/javascript'; cctjs.async = true; 
-cctjs.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cn.clickable.net/js/cct.js'; 
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(cctjs, s); 
-})(); 
+// var _cctq = _cctq || []; 
+// _cctq.push(['cct_log', '0820-6P0a1g2e1V0i6e3w29bb40f0a3ae97d5265cd3a2']); 
+// (function() { 
+// var cctjs = document.createElement('script'); cctjs.type = 'text/javascript'; cctjs.async = true; 
+// cctjs.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cn.clickable.net/js/cct.js'; 
+// var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(cctjs, s); 
+// })(); 
 </script>
 <!-- <![endif]-->
 
@@ -823,18 +718,16 @@ var google_remarketing_only = true;
 
 <!--Plugin WP Missed Schedule 2013.0106.1111 Active-->
 
-<script type="text/javascript" src="http://learnvest.cachefly.net/wp-content/themes/lv-2010/js/jquery.ui.selectmenu.js?ver=3.8.4"></script>
+<script type="text/javascript" src="http://learnvest.global.ssl.fastly.net/wp-content/themes/lv-2010/js/jquery.ui.selectmenu.js?ver=3.8.4"></script>
 
-<script type="text/javascript" src="http://learnvest.cachefly.net/wp-content/themes/lv-2010/js/easyXDM.min.js"></script>
-<script type="text/javascript" src="http://learnvest.cachefly.net/wp-content/themes/lv-2010/js/jquery.mylvform.js?ts=1402519869&amp;ver=3.8.4"></script>
-
-
-<script type="text/javascript" src="http://learnvest.cachefly.net/wp-content/themes/lv-2010/js/tracking-cookies.js?ts=1409333960&amp;ver=3.8.4"></script>
-<script type="text/javascript" src="http://learnvest.cachefly.net/wp-content/themes/lv-2010/js/jquery.custom-input.js?ts=1395896645&amp;ver=3.8.4"></script>
+<script type="text/javascript" src="http://learnvest.global.ssl.fastly.net/wp-content/themes/lv-2010/js/tracking-cookies.js?ts=1430946448&amp;ver=3.8.4"></script>
+<script type="text/javascript" src="http://learnvest.global.ssl.fastly.net/wp-content/themes/lv-2010/js/easyXDM.min.js"></script>
+<script type="text/javascript" src="http://learnvest.global.ssl.fastly.net/wp-content/themes/lv-2010/js/jquery.mylvform.js?ts=1430946448&amp;ver=3.8.4"></script>
+<script type="text/javascript" src="http://learnvest.global.ssl.fastly.net/wp-content/themes/lv-2010/js/jquery.custom-input.js?ts=1430946447&amp;ver=3.8.4"></script>
 
 
-<script type="text/javascript" src="http://learnvest.cachefly.net/wp-content/themes/lv-2010/resources/common-assets/js/lv/lv-user-state.js?ts=1412309009&amp;ver=3.8.4"></script>
-<script type="text/javascript" src="http://learnvest.cachefly.net/wp-content/themes/lv-2010/js/lv.UserTracker.min.js?ts=1419008194&amp;ver=23902"></script>
+<script type="text/javascript" src="http://learnvest.global.ssl.fastly.net/wp-content/themes/lv-2010/resources/common-assets/js/lv/lv-user-state.js?ts=1425936381&amp;ver=3.8.4"></script>
+<script type="text/javascript" src="http://learnvest.global.ssl.fastly.net/wp-content/themes/lv-2010/js/lv.UserTracker.min.js?ts=1430946448&amp;ver=23902"></script>
 
 	<script>
 		jQuery(document).ready(function(){
@@ -855,33 +748,32 @@ var google_remarketing_only = true;
   }(this, this.jQuery));
 </script>
 
-<script type="text/javascript" src="http://www.learnvest.com/wp-content/plugins/w3-total-cache/pub/minify.php?file=ade8e/default.include-footer.2c744b.js"></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"2309523baa","applicationID":"2494621","transactionName":"YlxTZkJQCxJUVUMPXFsWcFFEWAoPGkJSC0NZWEVXHVAHDkBC","queueTime":0,"applicationTime":830,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+<script type="text/javascript" src="http://www.learnvest.com/wp-content/plugins/w3-total-cache/pub/minify.php?file=ade8e/default.include-footer.7762d3.js"></script>
+
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Minified using memcached
-Database Caching 48/93 queries in 0.078 seconds using memcached
-Object Caching 1776/2093 objects using memcached
-Content Delivery Network via learnvest.cachefly.net
+Database Caching 48/93 queries in 0.092 seconds using memcached
+Object Caching 1774/2091 objects using memcached
+Content Delivery Network via learnvest.global.ssl.fastly.net
 Application Monitoring using New Relic
 
- Served from: www.learnvest.com @ 2014-12-28 14:05:25 by W3 Total Cache -->
+ Served from: www.learnvest.com @ 2015-06-08 02:47:46 by W3 Total Cache -->
 
 <!-- W3 Total Cache: Page cache debug info:
 Engine:             memcached
 Cache key:          23394140250d230260adcdf756acd149
 Caching:            enabled
 Status:             not cached
-Creation Time:      0.870s
+Creation Time:      0.918s
 Header info:
-Set-Cookie:          PHPSESSID=kutdfq3fmeuph7hkt4vn503i97; path=/
-Last-Modified:       Sun, 28 Dec 2014 18:05:25 GMT
-Expires:             Sun, 28 Dec 2014 19:05:25 GMT
+Last-Modified:       Mon, 08 Jun 2015 06:47:46 GMT
+Expires:             Mon, 08 Jun 2015 07:47:46 GMT
 Pragma:              public
 Cache-Control:       max-age=3600, public
-Etag:                99c075d159b0a04080aea7119d709343
+Etag:                9ab86a54d3c40450b9df40db5876cbdb
 X-Powered-By:        W3 Total Cache/0.9.4
 X-Pingback:           http://www.learnvest.com/xmlrpc.php
 Content-Type:         text/html; charset=UTF-8
---><script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+--></body></html>
