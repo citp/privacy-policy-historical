@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dilos.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231155954id_/http%3A//www.dilos.com/home/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dilos.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608220952id_/http%3A//www.dilos.com/home/privacy-policy.html) for the most accurate reproduction.*
 
 # Dilos.com Privacy Policy : Dilos Holiday World
 
