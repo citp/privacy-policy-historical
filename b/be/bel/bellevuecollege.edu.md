@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bellevuecollege.edu privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110520id_/http%3A//www.bellevuecollege.edu/website/privacy/%3Fref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellevuecollege.edu privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608044613id_/http%3A//www.bellevuecollege.edu/website/privacy/%3Fref%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy :: About this Website
 
-**Thank you for visiting the Bellevue College (BC) website and reviewing our Privacy Notice. This statement addresses collection, use and security of and access to information that may be obtained through use of Bellevue College’s website.  **
+Thank you for visiting the Bellevue College (BC) website and reviewing our Privacy Notice. This statement addresses collection, use and security of and access to information that may be obtained through use of Bellevue College’s website.
 
 **Contents:**
 
@@ -242,7 +242,7 @@ E-mail: [matt.groshong@bellevuecollege.edu](mailto:matt.groshong@bellevuecollege
 
 To offer comments about Bellevue College’s website or about the information presented in this Privacy Notice:
 
-**Information Resources**  
+**Information Technology Services**  
 Mailstop N215  
 Bellevue College  
 3000 Landerholm Circle SE  
