@@ -1,72 +1,129 @@
-> *The following text is extracted and transformed from the remax.co.th privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527091413id_/http%3A//www.remax.com/misc/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remax.co.th privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609000046id_/http%3A//www.remax.co.th/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | RE/MAX, LLC.
+# Privacy Policy of RE/MAX Thailand Website
 
-At RE/MAX, LLC. your privacy is very important to us. The purpose of this privacy policy is to provide you with a description of the types of information we collect about you when you visit the remax.com web site (the "Web Site"), and how we use that information. By visiting or using the Web Site, you agree to the provisions of this privacy policy. If you do not agree to the terms of this Policy, please do not use the Web Site.
+## **remax.co.th**
 
-This policy only applies to information collected while you are on the Web Site. For more information on how the Web Site may redirect you to other web sites, please see the Links and Redirection to Third Party Sites section below.
+This Application collects some Personal Data from its Users.
 
-### Information We Collect
+## **Data Controller and Owner**
 
-We collect and store information that you voluntarily provide to us as well as data related to your Web Site visit and usage.
+**RE/MAX Thailand and E.D Real Estate co., LTD,**  
+ **Email:[info@remax.co.th](mailto:info@remax.co.th)**
 
-We collect personally identifiable information (including, but not limited to, name, address and phone number) that is voluntarily provided to us by you. For example, you voluntarily provide personally identifiable information when you send us an email, use certain features of the Web Site such as registering for My RE/MAX or the "Contact an Agent" feature or participate in a survey or sweepstakes.
+### **Types of Data collected**
 
-In addition, during your visit we automatically collect certain aggregate information related to your Web Site visit. Aggregate information is non-personally identifiable or anonymous information about you, including the date and time of your visit, your IP address, your computer browser information, the Internet address that you visited prior to and after reaching the Web Site, the name of the domain and host you used to access the Internet, and the features of our Web Site which you accessed.
+Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Cookie, Usage Data, Email, First Name, Last Name, Phone number, Country and City.
 
-### Use of Cookies
+Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection.  
+The Personal Data may be freely provided by the User, or collected automatically when using this Application.  
+Any use of Cookies - or of other tracking tools - by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User.  
+Failure to provide certain Personal Data may make it impossible for this Application to provide its services.
 
-"Cookies" are simple text files stored on your computer for use by a browser. Certain Web Site features may only be available through the placement of a cookie. We may use "cookies" to assist in data collection and to track visitor Web Site usage and trends to help us better serve you. The use of cookies is a standard practice among Internet web sites; most Internet browsers permit a user to accept, decline or delete cookies. This Web Site works with a first party cookie that collects anonymous traffic data at the Web Site.
+The User assumes responsibility for the Personal Data of third parties published or shared through this Application and declares to have the right to communicate or broadcast them, thus relieving the Data Controller of all responsibility.
 
-### How We Use Information
+### **Mode and place of processing the Data**
 
-We use collected information to make available and to improve our high standard of reliable services. We use such information to:  
+**Methods of processing**
 
+The Data Controller processes the Data of Users in a proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.  
+The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Data Controller, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of the site (administration, sales, marketing, legal, system administration) or external parties (such as third party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Data Controller at any time.
 
-### Disclosure of Information
+**Place**
 
-When you search for a property, we will redirect you to the site of an independently owned and operated RE/MAX franchise office and provide information you have submitted to us, including the parameters of the search, and if you have registered, your contact information, to that office. Similarly, if you request to be contacted by an agent or office or otherwise request information from us, we will disclose the personally identifiable information you provide to appropriate affiliates of RE/MAX to satisfy your request.
+The Data is processed at the Data Controller's operating offices and in any other places where the parties involved with the processing are located. For further information, please contact the Data Controller.
 
-We do not sell or rent personally identifiable information to third parties who are not affiliates of the RE/MAX franchise network. We may disclose personally identifiable information to appropriate affiliates of RE/MAX, including strategic alliance affiliates and third party service providers, to respond to a request for service or to provide information about available products or services. 
+**Retention time**
 
-We may share aggregate (non-personally identifiable) information with certain third parties such as advertisers, national industry organizations, and prospective affiliates. In addition, we reserve the right to disclose aggregate information and personally identifiable information to third parties as required or permitted by law and when we believe that disclosure is necessary to protect our rights.
+The Data is kept for the time necessary to provide the service requested by the User, or stated by the purposes outlined in this document, and the User can always request that the Data Controller suspend or remove the data.
 
-### Links and Redirection to Third Party Sites
+## **The use of the collected Data**
 
-The Web Site contains links to third party web sites and may redirect you to third party web sites.("Third Party Sites") These include sites of:  
+The Data concerning the User is collected to allow the Application to provide its services, as well as for the following purposes: Displaying content from external platforms, Contacting the User and Interaction with external social networks and platforms.
 
+The Personal Data used for each purpose is outlined in the specific sections of this document.
 
-  
+## **Detailed information on the processing of Personal Data**
 
+Personal Data is collected for the following purposes and using the following services:
 
-Third Party Sites are not under the control of RE/MAX, LLC, and RE/MAX, LLC is not responsible for such Third Party Sites, including without limitation the accuracy, sufficiency, correctness, reliability, veracity, completeness, or timeliness thereof, any link contained therein, or any changes or updates thereto. The inclusion or access to Third Party Sites does not imply an endorsement thereof by RE/MAX, LLC, or of the provider of such content or services, or of any third party web site. RE/MAX, LLC reserves the right to terminate any link or linking program at any time. 
+·         **Contacting the User**
 
-Please be aware that when you enter a third party web site, any information you provide, including financial information, is subject to the terms of use and privacy policy of that site.
+**Mailing List or Newsletter (This Application)**
 
-### Childrens Privacy
+By registering to the mailing list or to the newsletter, the User’s email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning this Application. Your email address might also be added to this list as a result of signing up to this Application or after performing a purchase.
 
-This Web site is not directed toward children, and we do not knowingly collect information from children.
+Personal Data collected: City, Country, Email, First Name, Last Name and Phone number.
 
-### Effective Date; Policy Changes
+·         **Displaying content from external platforms**
 
-Each time you use the Web Site, the current version of the policy will apply. Accordingly, when you use the Web Site, you should check the date of this policy (which appears at the top of the policy) and review any changes since the last version. We reserve the right to add to, change, update or modify this Privacy Policy at any time and without notice other than simply posting such changes, update or modification on this Web Site. Any such change, modification or update will be effective immediately upon posting on the Web Site.
+These services allow you to view content hosted on external platforms directly from the pages of this Application and interact with them.  
+If a service of this kind is installed, it may still collect web traffic data for the pages where the service is installed, even when users do not use it.
 
-### Lost or Stolen Information
+### **Youtube video widget (Google)**
 
-You must promptly notify us if you become aware that any information provided by or submitted to this Web Site is lost, stolen, or used without permission.
+Youtube is a video content visualization service provided by Google Inc. that allows this Application to incorporate content of this kind on its pages.
 
-### Limitation of Liability
+Personal Data collected: Cookie and Usage Data.
 
-UNDER NO CIRCUMSTANCES SHALL RE/MAX, LLC BE LIABLE FOR ANY DAMAGES (INCLUDING, BUT NOT LIMITED TO DIRECT, INDIRECT, PUNITIVE, SPECIAL, INCIDENTAL, CONSEQUENTIAL, LOST PROFITS OR LOST REVENUE) THAT RESULT FROM THE USE OF THE INFORMATION OR MATERIALS ON THIS WEB SITE, EVEN IF RE/MAX, LLC HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+Place of processing : USA – [Privacy Policy](http://www.google.it/intl/en/policies/privacy/)
 
-### Governing Law
+### **Google Maps widget (Google)**
 
-This policy is governed by the laws of the State of Colorado without giving effect to any principles of conflict of law.
+Google Maps is a maps visualization service provided by Google Inc. that allows this Application to incorporate content of this kind on its pages.
 
-### Contact Us
+Personal Data collected: Cookie and Usage Data.
 
-To contact us with your questions or comments regarding this policy or the information collection and dissemination practices of this Web Site, please email us at [webmaster@remax.com](mailto:webmaster@remax.com).
+Place of processing : USA – [Privacy Policy](http://www.google.it/intl/en/policies/privacy/)
 
-To see the Terms of Use that apply to this Web Site, [click here](https://web.archive.org/terms_of_use/index.aspx).
+·         **Interaction with external social networks and platforms**
 
-All trademarks, service marks, and other proprietary materials herein are the property of RE/MAX, LLC. 2010. All rights reserved.
+These services allow interaction with social networks or other external platforms directly from the pages of this Application.  
+The interaction and information obtained by this Application are always subject to the User’s privacy settings for each social network.  
+If a service enabling interaction with social networks is installed it may still collect traffic data for the pages where the service is installed, even when Users do not use it.
+
+**Google+ +1 button and social widgets (Google)**
+
+The Google+ +1 button and social widgets are services allowing interaction with the Google+ social network provided by Google Inc.
+
+Personal Data collected: Cookie and Usage Data.
+
+Place of processing :Thailand – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
+
+#### **Additional information about Data collection and processing**
+
+**Legal action**
+
+The User's Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Application or the related services.  
+The User is aware of the fact that the Data Controller may be required to reveal personal data upon request of public authorities.
+
+**Additional information about User's Personal Data**
+
+In addition to the information contained in this privacy policy, this Application may provide the User with additional and contextual information concerning particular services or the collection and processing of Personal Data upon request.
+
+**System Logs and Maintenance**
+
+For operation and maintenance purposes, this Application and any third party services may collect files that record interaction with this Application (System Logs) or use for this purpose other Personal Data (such as IP Address).
+
+**Information not contained in this policy**
+
+More details concerning the collection or processing of Personal Data may be requested from the Data Controller at any time. Please see the contact information at the beginning of this document.
+
+**The rights of Users**
+
+Users have the right, at any time, to know whether their Personal Data has been stored and can consult the Data Controller to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to the Data Controller at the contact information set out above.
+
+This Application does not support “Do Not Track” requests.  
+To determine whether any of the third party services it uses honor the “Do Not Track” requests, please read their privacy policies.
+
+**Changes to this privacy policy**
+
+The Data Controller reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using this Application and can request that the Data Controller erase the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the Data Controller has about Users.
+
+**Information about this privacy policy**
+
+The Data Controller is responsible for this privacy policy, prepared starting from the modules provided by Iubenda and hosted on Iubenda's servers.
+
+**Definitions and legal references**
+
+Latest update: November 25, 2014 by RE/MAX Thailand
