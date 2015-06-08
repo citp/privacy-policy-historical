@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channels.nl privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209172302id_/http%3A//www.channels.nl/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channels.nl privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608031247id_/http%3A//www.channels.nl/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -24,7 +24,7 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 
 **Third party**
 
-The Channels works with a third party that serves ads to this site : This site uses the services of Fastclick for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Fastclick collects anonymous data about your visit to this and other Web sites, typically through the use of cookies. 
+The Channels works with a third party that serves ads to this site. 
 
 **Contacting the Web Site**
 
