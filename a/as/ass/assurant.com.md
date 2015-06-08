@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the assurant.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128160858id_/http%3A//www.assurant.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assurant.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608054240id_/http%3A//www.assurant.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Assurant
 
@@ -65,16 +65,25 @@ Certain information is collected by most browsers and/or through your device, su
 
 _Flash objects:_
 
-Certain pages on our Site may contain Adobe Flash objects (also known as “Local Shared Objects”). You can learn more about Flash objects and how to control and/or disable them by visiting the Adobe website. If you choose to disable Flash objects from our Site, then you may not be able to benefit from the information and/or services offered.  
+Certain pages on our Site may contain Adobe Flash objects (also known as “Local Shared Objects”). You can learn more about Flash objects and how to control and/or disable them by visiting the Adobe website. If you choose to disable Flash objects from our Site, then you may not be able to benefit from the information and/or services offered. 
+
+To opt-out of generic data collection services, visit the following website:  
+
+
+  * For more information and opt-out options regarding ClickTale, <http://www.clicktale.net/disable.html>[ ](http://www.clicktale.net/disable.html)
+
+
+
+**  
+Information We Share**
 
   
-**Information We Share**
+We do not sell, rent, trade or otherwise disclose your personal information submitted through our Site, except as described in this Privacy Notice. We may share your information with any of the Assurant affiliated companies. We also may share the information with service providers we have retained to perform services on our behalf. These service providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or to comply with legal requirements. In addition, we may disclose information about you (i) if we are required to do so by law or pursuant to legal process, (ii) in response to a request from law enforcement authorities or other government officials, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity.  
 
-We do not sell, rent, trade or otherwise disclose your personal information submitted through our Site, except as described in this Privacy Notice. We may share your information with any of the Assurant affiliated companies. We also may share the information with service providers we have retained to perform services on our behalf. These service providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or to comply with legal requirements. In addition, we may disclose information about you (i) if we are required to do so by law or pursuant to legal process, (ii) in response to a request from law enforcement authorities or other government officials, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity.
 
-We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personal information you have provided through this website in a manner that is consistent with this Privacy Notice.
-
- **  
+  
+We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personal information you have provided through this website in a manner that is consistent with this Privacy Notice.  
+**  
 Our Security Procedures**  
 
 
