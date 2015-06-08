@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the unixmen.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121160703id_/http%3A//www.unixmen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unixmen.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609001929id_/http%3A//www.unixmen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Unixmen
 
-Share this Article: 000000
-
+  
 All content and materials published within the Unixmen network and its associated entities is published and released under the **Creative Commons Attribution-NonCommercial-NonDerivs 3.0 Unported License (CC BY-NC-ND 3.0)**. For exact details and specifications of this license, please visit <http://creativecommons.org/licenses/by-nc-nd/3.0>
 
 In addition to the aforementioned license, content/materials published within the Unixmen network and its associated entities is published under mutual agreement with our Freelance Staff Writers, who also hold individual ownership over the content posted with their name associated and/or attached as Author or any other authoritative association to that specific content/material.  
@@ -20,6 +19,3 @@ A “cookie” is a small data text file that is placed in your browser and poss
 Third party vendors, including Google, use cookies to serve advertising components based on a user’s prior visits to Unixmen. Google’s use of the DART cookie enables Google and its partners to serve advertising to you based on your visit to Unixmen and/or other sites on the internet. If you want to opt out of the use of the DART cookie, please visit the [advertising opt-out page](http://www.google.com/privacy_ads.html).
 
 0 people like this
-
-  
-
