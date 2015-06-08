@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cenhud.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505164023id_/http%3A//www.cenhud.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cenhud.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608121447id_/http%3A//www.cenhud.com/privacy/index.aspx) for the most accurate reproduction.*
 
-# Central Hudson Gas & Electric - Privacy
-
-**_Central Hudson Gas & Electric Corporation Internet Privacy Statement_**
+# Central Hudson Gas & Electric - Privacy Policy
 
 Thank you for visiting the Central Hudson Web site and reviewing our privacy policy. Central Hudson is committed to your privacy and security.
 
@@ -31,10 +29,5 @@ Children's Privacy: While we maintain energy-related educational content directe
 
 Corrections to Your Customer Information: If you believe any of your customer information that we collect or maintain is incorrect, please write to us at: 284 South Ave. Poughkeepsie, NY 12601.
 
-Modifications to this Policy: Central Hudson may modify this policy from time to time to reflect legal, technological, or other developments. Any modifications will appear on the Privacy Policy page at www.CentralHudson.com.
-
+Modifications to this Policy: Central Hudson may modify this policy from time to time to reflect legal, technological, or other developments. Any modifications will appear on the Privacy Policy page at www.CentralHudson.com.  
 Compliance: If you have questions about this privacy policy, or if you believe that we are not following the policy as it is set forth here, you may contact us by writing to us at our mailing address: 284 South Ave, Poughkeepsie, NY 12601.
-
-  
-[](https://web.archive.org/web/20100505164023id_/http%3A//www.cenhud.com/index.html)  
-
