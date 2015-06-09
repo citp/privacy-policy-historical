@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ford.ca privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216114256id_/http%3A//www.ford.ca/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ford.ca privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610005934id_/http%3A//www.ford.ca/help/privacy) for the most accurate reproduction.*
 
 # Ford Privacy Policy | The Official Site of Ford Vehicles | Ford.com
 
