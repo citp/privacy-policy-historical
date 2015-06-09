@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addictedme.com privacy policy that was archived on 2014-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140824055445id_/http%3A//www.addictedme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addictedme.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609031201id_/http%3A//www.addictedme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,6 +21,6 @@ We have included links on this site for your use and reference. We are not respo
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of AddictedMe then you may [contact](http://www.addictedme.com/contact/ "contact") us at contact@addictedme.com
+If you have any questions regarding the privacy policy of AddictedMe then you may [contact](http://www.addictedme.com/contact/) us at contact@addictedme.com
 
 * * *
