@@ -1,102 +1,58 @@
-<!--The following is the downloaded HTML source of the namefbcovers.com privacy policy that was archived on 2014-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141201070153id_/http%3A//namefbcovers.com/policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the namefbcovers.com privacy policy that was archived on 2015-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150609234904id_/http%3A//namefbcovers.com/policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Privacy Policy - NameFbCovers.com</title>
-        <meta name="description" content="">
-        <meta name="keywords" content="">
-                <meta name="robots" content="noindex">
-        <meta property="og:title" content="Write Your Name on Facebook Covers">
-        <meta property="og:description" content="Introducing name covers for your facebook profile. The new and the easiest way to write your name on best facebook covers.">
-        <meta property="og:url" content="http://namefbcovers.com/">
-        <meta property="og:image" content="http://namefbcovers.com/images/ogimg.jpg">
-        <meta property="og:image:secure_url" content="http://namefbcovers.com/images/ogimg.jpg">
-        <link rel="image_src" href="http://namefbcovers.com/images/ogimg.jpg">
-                <link rel="stylesheet" href="http://namefbcovers.com/css/stylesheet.css" type="text/css">
-        <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://namefbcovers.com/js/jquery-1.11.1.min.js"></script>
-        <link rel="SHORTCUT ICON" href="http://namefbcovers.com/favicon.ico" type="image/x-icon">
-        <link rel="icon" href="http://namefbcovers.com/favicon.ico" type="image/x-icon">
-        
-        <script>
-           function showdatalist(){
-               $('form#frmfilter').submit();return false;
-           }
-           jQuery(document).ready(function() {
-                                $(".propic").click(function(){
-                                    $(".propic").hide();
-                                });
-			});
-                    var retina = window.devicePixelRatio > 1 ? true : false;
-                    var retina_postfix_val = 'parahide';
-                    $(function() {
-                        if (retina) {
-                            change_to_retina_gui();
-                        }
-                        else {
-                        }
-                    });
-                    function change_to_retina_gui() {
-                        $("#hompara").attr('class', '' + retina_postfix_val + '');
-                        $(".descpara").attr('class', '' + retina_postfix_val + '');
-                    }                    
-            function subscribe(){
-                $("#div_error_save").html('');
-                $("#div_error_save").hide();
-                $("#div_msg_success").html('');
-                $("#div_msg_success").hide();
-
-                $.ajax({
-                       type: "POST",
-                       url: "classes/subscribe_mailing.php",
-                       data: "sub_email="+$('#sub_email').val(),
-                        success: function(data){
-                            var obj = jQuery.parseJSON(data);
-                            if (obj.MSG == 'OK') {
-                                $('#div_msg_success').html(obj.DETAIL);
-                                $("#div_msg_success").show();
-                            }
-                            else { // Fail show error message
-                                $("#div_error_save").html(obj.DETAIL);
-                                $("#div_error_save").show();
-                            }
-
-                           },
-                       failure: function(){
-                           $("#div_error_save").html('Ajax Error, pelase try again later.');
-                           $("#div_error_save").show();
-                       }
-                     });
-            }
-        </script>
-    <script async="" src="http://widgets.amung.us/small.js"></script></head>
-    <body>
-        <div class="header_wrapper">
-            <div class="header">
-                <div class="header_left">
-                    <h1><a href="http://namefbcovers.com/"> NameFBCovers</a></h1>
-                    <p>
-                    Write names on fb covers</p>
-                </div>
-                
-            <form action="http://namefbcovers.com/covers.php" id="frmfilter" name="frmfilter" method="GET">
-                
-                <div class="header_right">
-                    <input class="main_search" id="search" name="search" value="" placeholder="Search name cover here" onkeydown="if (event.keyCode == 13) { $('#cat').val('');$('#tag').val('');$('#p').val('');showdatalist(); return false; }">
-                    <input onclick="$('#cat').val('');$('#tag').val('');$('#p').val('');showdatalist();" type="button" id="btnsubmit" name="tbsubmit" value="Search" class="main_search_btn">
-                </div>
-                <div class="header_middle">
-                    <ul>
-                        <li><a href="http://namefbcovers.com/">Home</a></li>
-                        <li><a href="http://namefbcovers.com/namefbcovers.php">Random Covers</a></li>
-                        <!--<li><a href="http://namefbcovers.com/request.php">Request Covers</a></li>-->
-                        <li><a href="http://namefbcovers.com/contact.php">Contact Us</a></li>
-                    </ul>
-                </div>
-            </form></div>
-        </div>
-        <div class="clear_top"></div>
-       
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Privacy Policy - NameFbCovers.com</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="noindex">
+<meta property="og:title" content="Write Your Name on Facebook Covers">
+<meta property="og:description" content="Introducing name covers for your facebook profile. The new and the easiest way to write your name on best facebook covers.">
+<meta property="og:url" content="http://namefbcovers.com/">
+<meta property="og:image" content="http://namefbcovers.com/images/ogimg.jpg">
+<meta property="og:image:secure_url" content="http://namefbcovers.com/images/ogimg.jpg">
+<link rel="image_src" href="http://namefbcovers.com/images/ogimg.jpg">
+<link rel="stylesheet" href="http://namefbcovers.com/css/stylesheet.css" type="text/css">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://namefbcovers.com/js/jquery-1.11.1.min.js"></script>
+<link rel="SHORTCUT ICON" href="http://namefbcovers.com/favicon.ico" type="image/x-icon">
+<link rel="icon" href="http://namefbcovers.com/favicon.ico" type="image/x-icon">
+<script>
+   function showdatalist(){
+       $('form#frmfilter').submit();return false;
+   }
+   jQuery(document).ready(function() {
+        $(".propic").click(function(){
+            $(".propic").hide();
+        });
+});   
+</script>
+<script async="" src="http://widgets.amung.us/small.js"></script></head>
+<body>
+<div class="header_wrapper">
+<div class="header">
+<div class="header_left">
+<h1><a href="http://namefbcovers.com/"> NameFBCovers</a></h1>
+<p>Write names on fb covers</p>
+</div>
+<div class="header_right">
+<form action="http://namefbcovers.com/find.php" id="frmfilter" name="frmfilter" method="GET">
+<input class="main_search" id="search" name="search" value="" placeholder="Search name cover here" onkeydown="if (event.keyCode == 13) { $('#cat').val('');$('#tag').val('');$('#p').val('');showdatalist(); return false; }">
+<input onclick="$('#cat').val('');$('#tag').val('');$('#p').val('');showdatalist();" type="button" id="btnsubmit" name="tbsubmit" value="Search" class="main_search_btn">
+</form>
+</div>
+<div class="header_middle">
+<ul>
+<li><a href="http://namefbcovers.com/">Home</a></li>
+<li><a href="http://namefbcovers.com/covers.php?cat=27">Memes<img src="http://namefbcovers.com/images/new-blink.gif" style="float:right;margin-left: 5px;"></a></li>
+<li><a href="http://namefbcovers.com/namefbcovers.php">Random Covers</a></li>
+<li><a href="http://namefbcovers.com/contact.php">Contact Us</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clear_top"></div>
+           
 
 <div class="main_wrapper" style="min-height:100%">
     <div class="main_contents" style="width: 100%">
@@ -166,60 +122,46 @@
 
             </div>
         </div>
-         
+ 
 
     </div>
-
     
 
-    <div class="main_sidebar">
         
-    </div>
-    <div class="clear"></div>
+    
+    <div class="main_sidebar">
+</div>
+<div class="clear"></div>
 </div>
 <div class="footer_wrapper">
-    <div class="footer">
-        Copyright © 2014. All Rights Reserved.<br>
-        <a href="http://namefbcovers.com/">NameFbCovers.com</a> is not affiliated with facebook.<br>
-        Disclaimer: All photos are uploaded by users. For complaints please use our <a href="http://namefbcovers.com/dmca.php">DMCA </a>
-        <div class="float_right">
-            <div class="amungh"></div>
-            <script id="_wauny6">var _wau = _wau || []; _wau.push(["small", "zuaj09smfi1g", "ny6"]);
-            (function() {var s=document.createElement("script"); s.async=true;
-            s.src="http://widgets.amung.us/small.js";
-            document.getElementsByTagName("head")[0].appendChild(s);
-            })();</script><br>
-            <a href="http://namefbcovers.com/terms.php">Terms</a>
-            <a href="http://namefbcovers.com/policy.php">Privacy Policy</a>
-            <a href="http://namefbcovers.com/about.php">About Us</a>
-            <a href="http://namefbcovers.com/contact.php">Contact Us</a>
-            
-        </div>
-    </div>
+<div class="footer">
+Copyright © 2015. All Rights Reserved.<br>
+<a href="http://namefbcovers.com/">NameFbCovers.com</a> is not affiliated with facebook.<br>
+Disclaimer: All photos are uploaded by users. For complaints please use our <a href="http://namefbcovers.com/dmca.php">DMCA </a>
+<div class="float_right">
+<div class="amungh"></div>
+<script id="_wauny6">var _wau = _wau || []; _wau.push(["small", "zuaj09smfi1g", "ny6"]);
+(function() {var s=document.createElement("script"); s.async=true;
+s.src="http://widgets.amung.us/small.js";
+document.getElementsByTagName("head")[0].appendChild(s);
+})();</script>
+<br>
+<a href="http://namefbcovers.com/terms.php">Terms</a>
+<a href="http://namefbcovers.com/policy.php">Privacy Policy</a>
+<a href="http://namefbcovers.com/about.php">About Us</a>
+<a href="http://namefbcovers.com/contact.php">Contact Us</a>
 </div>
-    
-    
+</div>
+</div>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-        <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-51240392-1', 'namefbcovers.com');
-  ga('send', 'pageview');
-
+ga('create', 'UA-51240392-1', 'namefbcovers.com');
+ga('send', 'pageview');
 </script>
-<script type="text/javascript">var switchTo5x = true;</script>
-<script async="" src="http://w.sharethis.com/button/buttons.js"></script>
-    <div id="fb-root"></div>
-    <script>(function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));</script>
-    
+
 
 </body></html>
