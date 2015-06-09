@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auctionstealer.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327024229id_/http%3A//www.auctionstealer.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionstealer.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609031132id_/http%3A//www.auctionstealer.com/privacy.cfm) for the most accurate reproduction.*
 
 # AuctionStealer - Free online ebay auction sniper software free ebay sniper esnipe ebay snipe site e snipe auctions ebay auction sniper site bid sniper
 
