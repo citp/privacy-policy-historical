@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iloveqatar.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120050538id_/http%3A//www.iloveqatar.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iloveqatar.net privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609104550id_/http%3A//www.iloveqatar.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | I Love Qatar (ILQ)
+# Privacy Policy | I Love Qatar . net (ILQ)
 
 The Site is operated by iLoveQatar.net, a website under Haroon United Group ("ILoveQatar” or the "Company"). This page sets forth the Privacy Policy (the "Policy") for the website at www.ILoveQatar.net, all other sites owned and operated by ILoveQatar that redirect to www.ILoveQatar.net, and all subdomains (collectively, the “Site”), and the service owned and operated by the Company (together with the Site, the “Service”) 
 
