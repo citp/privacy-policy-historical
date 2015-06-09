@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the senorwooly.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126174355id_/http%3A//www.senorwooly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the senorwooly.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609070758id_/http%3A//www.senorwooly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Señor Wooly
 
@@ -67,4 +67,4 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please visit our [Terms and Conditions](https://web.archive.org/web/20141126174355id_/http%3A//www.senorwooly.com/terms-and-conditions) section, which establishes use, disclaimers, and limitations of liability governing the use of our website.
+Please visit our [Terms and Conditions](https://web.archive.org/web/20150609070758id_/http%3A//www.senorwooly.com/terms-and-conditions) section, which establishes use, disclaimers, and limitations of liability governing the use of our website.
