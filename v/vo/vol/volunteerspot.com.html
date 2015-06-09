@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the volunteerspot.com privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120110004id_/http%3A//www.volunteerspot.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the volunteerspot.com privacy policy that was archived on 2015-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610015442id_/http%3A//www.volunteerspot.com/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head>
         <meta http-equiv="X-UA-Compatible" content="IE=Edge">
@@ -29,7 +29,9 @@
 <meta property="og:title" content="Check out VolunteerSpot Today">
 <meta property="og:type" content="activity">
 <meta property="og:url" content="http://www.volunteerspot.com/Privacy">
-<meta property="og:image" content="http://www.volunteerspot.com/imgs/social/VSpot-fb.png">
+
+    <meta property="og:image" content="http://www.volunteerspot.com/imgs/social/VSpot-fb.png">
+    
 <meta property="og:description" content="Save time (and stress) and say goodbye to ‘reply-all’ emails! Plan online with VolunteerSpot’s FREE, easy signups and scheduling. Great for school, nonprofits, teams, faith groups, workplace and more!">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="VolunteerSpot">
@@ -39,7 +41,20 @@
 <meta property="fb:app_id" content="385770938175078">
 
 <link href="//fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|Open+Sans:400,700|Open+Sans+Condensed:300,700|Oswald:400,300,700" rel="stylesheet" type="text/css">
-<link type="text/css" rel="stylesheet" media="all" href="/css/style.2373692930.css"><link type="text/css" rel="stylesheet" media="print" href="/css/print.css?v=902430793">
+
+            <!--[if IE 9]>
+                <link type="text/css" rel="stylesheet" media="all" href="/css/style.css?v=2183520475">
+            <![endif]-->
+            <!--[if (!IE)|(IE 8)]-->
+                <link type="text/css" rel="stylesheet" media="all" href="/css/style.4019698165.css">
+            <!--[endif]-->
+        <link type="text/css" rel="stylesheet" media="print" href="/css/print.css?v=902430793">
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-8D4Z"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script>
+    // Make sure _gaq exists before pushing to it. This is the variable that GA
+    // uses to handle events. We need to make sure it's defined in the top scope.
+    var _gaq = _gaq || [];
+</script>
+
 <!-- This is just IE 9 and below: -->
 <!--[if IE]>
 <script>
@@ -69,15 +84,15 @@
 </script>
 <![endif]-->
 
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-8D4Z"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script>
+<script src="/script/require.js"></script>
+<script>
+    // Window error error-handler
     window.onerror = function(message, url, linenumber){
         try { console && console.error("JavaScript error: " + message + " on line " + linenumber + " for " + url);  } catch (e) {}
         return true;
     };
-</script>
 
-<!-- Quantcast Tag Trying moving it here b/c of reporting issues -->
-<script type="text/javascript">
+    // Begin Quantcast Tag Trying moving it here b/c of reporting issues
     var _qevents = _qevents || [];
 
     (function() {
@@ -92,11 +107,8 @@
     _qevents.push({
         qacct:"p-vhFSUHh2EBRZ4"
     });
-</script>
-<!-- End Quantcast tag -->
+    // End Quantcast tag
 
-<script src="/script/require.js"></script>
-<script>
     // Our global object
     var Vspot = {
         load_wait_time:     500, // Milliseconds to wait
@@ -106,8 +118,15 @@
             },
             reg:            {}
         },
-        oldBrowser:         !Object.keys
+        oldBrowser:         true
     };
+    // PWD: ironic that testing for an old browser generates an error. catch that.
+    try {
+        Vspot.oldBrowser = !Object.keys;
+    } catch (err) {
+        // If the browser chokies on Object.keys, then it's old.
+        Vspot.oldBrowser = true;
+    }
 
     
 
@@ -121,7 +140,7 @@
                 exports:    'jQuery.ui'
             },
             bootstrap: {
-                deps:       ['jquery'],
+                deps:       ['jquery-ui'], // Weird JS error if jQuery UI loads after bootstrap
                 exports:    'jQuery.fn.popover' // Tricky! bootstrap doesn't export anything, so we give it a jquery function to check.
             },
             'angular-file-upload-shim' : {
@@ -133,6 +152,10 @@
             },
             'angular-file-upload': {
                 deps:       ['angular', 'angular-file-upload-shim'],
+                exports:    'angular'
+            },
+            'bootstrap-colorpicker-module': {
+                deps:       ['angular'],
                 exports:    'angular'
             },
             'angular-animate':    {
@@ -212,6 +235,10 @@
                 deps:       ['jquery'],
                 exports:    'jQuery.ph'
             },
+            // 'jquery.fixedheadertable': { -- part of the Yahoo importer
+            //     deps:       ['jquery'],
+            //     exports:    'jQuery.fn.fixedHeaderTable'
+            // },
             xdate: {
                 exports:    'XDate'
             },
@@ -235,11 +262,7 @@
             },
             'full-calendar': {
                 exports:    'jQuery.fullCalendar'
-            },
-            'ipCookie':    {
-                deps:       ['angular'],
-                exports:    'angular'
-            },
+            }
 
         },
         // Configure paths for anything not in the /script folder (base setting above)
@@ -251,55 +274,65 @@
          * just repeat the same file name 3 times.
          */
         paths: {
-            jquery:                         ['/script/jquery-1.11.1.min', '//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min', '/script/jquery-1.11.1.min'], // Fallback to local
-            'jquery-ui':                    ['//ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/jquery-ui.min', '//ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/jquery-ui.min', '/script/jquery-ui.min'], // Fallback to local
+            jquery:                         ['//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min', '//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min', '/script/jquery-2.1.3.min'], // Fallback to local
+            'jquery-ui':                    ['//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min', '//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min', '/script/jquery-ui.min'], // Fallback to local
             'jquery.validate':              ['/script/jquery.validate.min', '/script/jquery.validate.min', '/script/jquery.validate.min'],
-            angular:                        ['//ajax.googleapis.com/ajax/libs/angularjs/1.2.24/angular.min', '//ajax.googleapis.com/ajax/libs/angularjs/1.2.24/angular.min', '/script/angular'], // Fallback to local
-            'angular-animate':              ['//ajax.googleapis.com/ajax/libs/angularjs/1.2.24/angular-animate.min', '//ajax.googleapis.com/ajax/libs/angularjs/1.2.24/angular-animate.min', '/script/angular-animate'], // Fallback to local
-            'angular-cookies':              ['//ajax.googleapis.com/ajax/libs/angularjs/1.2.24/angular-cookies.min', '//ajax.googleapis.com/ajax/libs/angularjs/1.2.24/angular-cookies.min', '/script/angular-cookies'], // Fallback to local
-            'angular-resource':             ['//ajax.googleapis.com/ajax/libs/angularjs/1.2.24/angular-resource.min', '//ajax.googleapis.com/ajax/libs/angularjs/1.2.24/angular-resource.min', '/script/angular-resource'], // Fallback to local
-            'angular-route':                ['//ajax.googleapis.com/ajax/libs/angularjs/1.2.24/angular-route.min', '//ajax.googleapis.com/ajax/libs/angularjs/1.2.24/angular-route.min', '/script/angular-route'], // Fallback to local
-            'angular-sanitize':             ['//ajax.googleapis.com/ajax/libs/angularjs/1.2.24/angular-sanitize.min', '//ajax.googleapis.com/ajax/libs/angularjs/1.2.24/angular-sanitize.min', '/script/angular-sanitize'], // Fallback to local
-            'angular-touch':                ['//ajax.googleapis.com/ajax/libs/angularjs/1.2.24/angular-touch.min', '//ajax.googleapis.com/ajax/libs/angularjs/1.2.24/angular-touch.min', '/script/angular-touch'], // Fallback to local
-            loader:                         ['/script/loader.3931617272', '/script/loader.3931617272', '/script/loader.3931617272'],
+            // 'jquery.fixedHeaderTable':      ['', '', ''], -- part of the Yahoo importer
+            angular:                        ['//ajax.googleapis.com/ajax/libs/angularjs/1.2.28/angular.min', '//ajax.googleapis.com/ajax/libs/angularjs/1.2.28/angular.min', '/script/angular'], // Fallback to local
+            'angular-animate':              ['//ajax.googleapis.com/ajax/libs/angularjs/1.2.28/angular-animate.min', '//ajax.googleapis.com/ajax/libs/angularjs/1.2.28/angular-animate.min', '/script/angular-animate'], // Fallback to local
+            'angular-cookies':              ['//ajax.googleapis.com/ajax/libs/angularjs/1.2.28/angular-cookies.min', '//ajax.googleapis.com/ajax/libs/angularjs/1.2.28/angular-cookies.min', '/script/angular-cookies'], // Fallback to local
+            'angular-resource':             ['//ajax.googleapis.com/ajax/libs/angularjs/1.2.28/angular-resource.min', '//ajax.googleapis.com/ajax/libs/angularjs/1.2.28/angular-resource.min', '/script/angular-resource'], // Fallback to local
+            'angular-route':                ['//ajax.googleapis.com/ajax/libs/angularjs/1.2.28/angular-route.min', '//ajax.googleapis.com/ajax/libs/angularjs/1.2.28/angular-route.min', '/script/angular-route'], // Fallback to local
+            'angular-sanitize':             ['//ajax.googleapis.com/ajax/libs/angularjs/1.2.28/angular-sanitize.min', '//ajax.googleapis.com/ajax/libs/angularjs/1.2.28/angular-sanitize.min', '/script/angular-sanitize'], // Fallback to local
+            'angular-touch':                ['//ajax.googleapis.com/ajax/libs/angularjs/1.2.28/angular-touch.min', '//ajax.googleapis.com/ajax/libs/angularjs/1.2.28/angular-touch.min', '/script/angular-touch'], // Fallback to local
+            loader:                         ['/script/loader.3627548126', '/script/loader.3627548126', '/script/loader.3627548126'],
             modernizr:                      ['/script/modernizr.min', '/script/modernizr.min', '/script/modernizr.min'],
             'thirdparty-global':            ['thirdparty-global', 'thirdparty-global', 'thirdparty-global'], // Included in page
             page:                           ['page', 'page', 'page'], // Included in loader
             vspot:                          ['vspot', 'vspot', 'vspot'], // Included in loader
             xdate:                          ['xdate', 'xdate', 'xdate'], // Included in page
-            bootstrap:                      ['/script/bootstrap.10424', '/script/bootstrap.10424', '/script/bootstrap.10424'],
-            'client-done':                  ['/client/client-done.2484191027', '/client/client-done.2484191027', '/client/client-done.2484191027'],
-            'client-confirm':               ['/client/client-confirm.2988279309', '/client/client-confirm.2988279309', '/client/client-confirm.2988279309'],
-            'pledge-tools':                 ['/script/pledge-tools.3953852477', '/script/pledge-tools.3953852477', '/script/pledge-tools.3953852477'],
-            pledge:                         ['/pledge/pledge.2033013541', '/pledge/pledge.2033013541', '/pledge/pledge.2033013541'],
-            organizer_register:             ['/organizer_register/organizer_register.1078158274', '/organizer_register/organizer_register.1078158274', '/organizer_register/organizer_register.1078158274'],
-            swap:                           ['/swap/swap.3645916783', '/swap/swap.3645916783', '/swap/swap.3645916783'],
+            bootstrap:                      ['/script/bootstrap.13476', '/script/bootstrap.13476', '/script/bootstrap.13476'],
+            'client-done':                  ['/client/client-done.3792469551', '/client/client-done.3792469551', '/client/client-done.3792469551'],
+            'client-confirm':               ['/client/client-confirm.169299263', '/client/client-confirm.169299263', '/client/client-confirm.169299263'],
+            'pledge-tools':                 ['/script/pledge-tools.1899044160', '/script/pledge-tools.1899044160', '/script/pledge-tools.1899044160'],
+            pledge:                         ['/pledge/pledge.134392515', '/pledge/pledge.134392515', '/pledge/pledge.134392515'],
+            organizer_register:             ['/organizer_register/organizer_register.3470223469', '/organizer_register/organizer_register.3470223469', '/organizer_register/organizer_register.3470223469'],
+            swap:                           ['/swap/swap.322815509', '/swap/swap.322815509', '/swap/swap.322815509'],
             'vspot-services':               ['vspot-angular/services/services', 'vspot-angular/services/services', 'vspot-angular/services/services'], // Included in loader
             'vspot-resources':              ['vspot-angular/resources/resources', 'vspot-angular/resources/resources', 'vspot-angular/resources/resources'], // Included in loader
-            'school-search':                ['/script/vspot-angular/directives/school-search/school-search.847859654', '/script/vspot-angular/directives/school-search/school-search.847859654', '/script/vspot-angular/directives/school-search/school-search.847859654'],
-            'vspot-steps':                  ['/script/vspot-angular/directives/steps/steps.2528714422', '/script/vspot-angular/directives/steps/steps.2528714422', '/script/vspot-angular/directives/steps/steps.2528714422'],
-            'vspot-activity-nav':           ['/script/vspot-angular/directives/activity-nav/activity-nav.2364747554', '/script/vspot-angular/directives/activity-nav/activity-nav.2364747554', '/script/vspot-angular/directives/activity-nav/activity-nav.2364747554'],
-            'vspot-job-counts':             ['/script/vspot-angular/directives/job-counts/job-counts.1710859071', '/script/vspot-angular/directives/job-counts/job-counts.1710859071', '/script/vspot-angular/directives/job-counts/job-counts.1710859071'],
-            'vspot-comments':               ['/script/vspot-angular/directives/comments/comments.4166220391', '/script/vspot-angular/directives/comments/comments.4166220391', '/script/vspot-angular/directives/comments/comments.4166220391'],
-            'vspot-multi-datepicker':       ['/script/vspot-angular/directives/datepicker/multi-datepicker.1011891166', '/script/vspot-angular/directives/datepicker/multi-datepicker.1011891166', '/script/vspot-angular/directives/datepicker/multi-datepicker.1011891166'],
-            'check-user':                   ['/script/vspot-angular/directives/check-user/check-user.3406107572', '/script/vspot-angular/directives/check-user/check-user.3406107572', '/script/vspot-angular/directives/check-user/check-user.3406107572'],
+            'school-search':                ['/script/vspot-angular/directives/school-search/school-search.2430000970', '/script/vspot-angular/directives/school-search/school-search.2430000970', '/script/vspot-angular/directives/school-search/school-search.2430000970'],
+            'vspot-steps':                  ['/script/vspot-angular/directives/steps/steps.776171799', '/script/vspot-angular/directives/steps/steps.776171799', '/script/vspot-angular/directives/steps/steps.776171799'],
+            'vspot-activity-nav':           ['/script/vspot-angular/directives/activity-nav/activity-nav.804112665', '/script/vspot-angular/directives/activity-nav/activity-nav.804112665', '/script/vspot-angular/directives/activity-nav/activity-nav.804112665'],
+            'vspot-validation':             ['/script/vspot-angular/directives/validation/validation.3218395414', '/script/vspot-angular/directives/validation/validation.3218395414', '/script/vspot-angular/directives/validation/validation.3218395414'],
+            'vspot-job-counts':             ['/script/vspot-angular/directives/job-counts/job-counts.3738561772', '/script/vspot-angular/directives/job-counts/job-counts.3738561772', '/script/vspot-angular/directives/job-counts/job-counts.3738561772'],
+            'vspot-comments':               ['/script/vspot-angular/directives/comments/comments.2254280409', '/script/vspot-angular/directives/comments/comments.2254280409', '/script/vspot-angular/directives/comments/comments.2254280409'],
+            'vspot-multi-datepicker':       ['/script/vspot-angular/directives/datepicker/multi-datepicker.2544752124', '/script/vspot-angular/directives/datepicker/multi-datepicker.2544752124', '/script/vspot-angular/directives/datepicker/multi-datepicker.2544752124'],
+            'vspot-super-user-nav':         ['vspot-angular/directives/super-user-nav/super-user-nav', 'vspot-angular/directives/super-user-nav/super-user-nav', 'vspot-angular/directives/super-user-nav/super-user-nav'],
+            'vspot-arrow-steps':            ['vspot-angular/directives/arrow-steps/arrow-steps', 'vspot-angular/directives/arrow-steps/arrow-steps', 'vspot-angular/directives/arrow-steps/arrow-steps'],
+            'vspot-autocomplete':           ['/script/vspot-angular/directives/autocomplete/autocomplete.13476', '/script/vspot-angular/directives/autocomplete/autocomplete.13476', '/script/vspot-angular/directives/autocomplete/autocomplete.13476'],
+            'vspot-premium-prompt':         ['vspot-angular/directives/premium-prompt/premium-prompt', 'vspot-angular/directives/premium-prompt/premium-prompt', 'vspot-angular/directives/premium-prompt/premium-prompt'],
+            'check-user':                   ['/script/vspot-angular/directives/check-user/check-user.3957160446', '/script/vspot-angular/directives/check-user/check-user.3957160446', '/script/vspot-angular/directives/check-user/check-user.3957160446'],
             localize:                       ['vspot-angular/modules/localize', 'vspot-angular/modules/localize', 'vspot-angular/modules/localize'], // Included in loader
-            signin:                         ['/script/vspot-angular/modules/signin.2343833820', '/script/vspot-angular/modules/signin.2343833820', '/script/vspot-angular/modules/signin.2343833820'],
-            'dashboard-nav':                ['/script/vspot-angular/modules/dashboard-nav.1048428956', '/script/vspot-angular/modules/dashboard-nav.1048428956', '/script/vspot-angular/modules/dashboard-nav.1048428956'],
-            'feedback-link':                ['/script/vspot-angular/modules/feedback-link.739098358', '/script/vspot-angular/modules/feedback-link.739098358', '/script/vspot-angular/modules/feedback-link.739098358'],
-            'group-compose':                ['/script/vspot-angular/modules/group-compose.3633165270', '/script/vspot-angular/modules/group-compose.3633165270', '/script/vspot-angular/modules/group-compose.3633165270'],
-            'group-page':                   ['/script/vspot-angular/modules/group-page.3327225549', '/script/vspot-angular/modules/group-page.3327225549', '/script/vspot-angular/modules/group-page.3327225549'],
-            profile:                        ['/script/vspot-angular/modules/profile.158465757', '/script/vspot-angular/modules/profile.158465757', '/script/vspot-angular/modules/profile.158465757'],
-            dashboard:                      ['/script/vspot-angular/modules/dashboard.1134698137', '/script/vspot-angular/modules/dashboard.1134698137', '/script/vspot-angular/modules/dashboard.1134698137'],
-            activity:                       ['/script/vspot-angular/modules/activity.572391548', '/script/vspot-angular/modules/activity.572391548', '/script/vspot-angular/modules/activity.572391548'],
+            signin:                         ['/script/vspot-angular/modules/signin.1043599530', '/script/vspot-angular/modules/signin.1043599530', '/script/vspot-angular/modules/signin.1043599530'],
+            'dashboard-nav':                ['/script/vspot-angular/modules/dashboard-nav.3808827336', '/script/vspot-angular/modules/dashboard-nav.3808827336', '/script/vspot-angular/modules/dashboard-nav.3808827336'],
+            'feedback-link':                ['/script/vspot-angular/modules/feedback-link.2483136481', '/script/vspot-angular/modules/feedback-link.2483136481', '/script/vspot-angular/modules/feedback-link.2483136481'],
+            'group-compose':                ['/script/vspot-angular/modules/group-compose.3563415034', '/script/vspot-angular/modules/group-compose.3563415034', '/script/vspot-angular/modules/group-compose.3563415034'],
+            'group-page':                   ['/script/vspot-angular/modules/group-page.2370454013', '/script/vspot-angular/modules/group-page.2370454013', '/script/vspot-angular/modules/group-page.2370454013'],
+            profile:                        ['/script/vspot-angular/modules/profile.972164261', '/script/vspot-angular/modules/profile.972164261', '/script/vspot-angular/modules/profile.972164261'],
+            dashboard:                      ['/script/vspot-angular/modules/dashboard.1470201838', '/script/vspot-angular/modules/dashboard.1470201838', '/script/vspot-angular/modules/dashboard.1470201838'],
+            activity:                       ['/script/vspot-angular/modules/activity.4018022084', '/script/vspot-angular/modules/activity.4018022084', '/script/vspot-angular/modules/activity.4018022084'],
             'activity-details':             ['vspot-angular/modules/activity-details', 'vspot-angular/modules/activity-details', 'vspot-angular/modules/activity-details'], // Included in activity
-            'activity-jobs':                ['/script/vspot-angular/modules/activity-jobs.4077933069', '/script/vspot-angular/modules/activity-jobs.4077933069', '/script/vspot-angular/modules/activity-jobs.4077933069'], // Included in activity
+            'activity-jobs':                ['/script/vspot-angular/modules/activity-jobs.13476', '/script/vspot-angular/modules/activity-jobs.13476', '/script/vspot-angular/modules/activity-jobs.13476'], // Included in activity
             'activity-invites':             ['vspot-angular/modules/activity-invites', 'vspot-angular/modules/activity-invites', 'vspot-angular/modules/activity-invites'], // Included in activity
             'activity-participants':        ['vspot-angular/modules/activity-participants', 'vspot-angular/modules/activity-participants', 'vspot-angular/modules/activity-participants'], // Included in activity
             'activity-finish':              ['vspot-angular/modules/activity-finish', 'vspot-angular/modules/activity-finish', 'vspot-angular/modules/activity-finish'], // Included in activity
             'activity-messaging':           ['vspot-angular/modules/activity-messaging', 'vspot-angular/modules/activity-messaging', 'vspot-angular/modules/activity-messaging'], // Included in activity
             'activity-reports':             ['vspot-angular/modules/activity-reports', 'vspot-angular/modules/activity-reports', 'vspot-angular/modules/activity-reports'], // Included in activity
             'activity-contributions':       ['vspot-angular/modules/activity-contributions', 'vspot-angular/modules/activity-contributions', 'vspot-angular/modules/activity-contributions'], // Included in activity
+            'activity-waiver':              ['vspot-angular/modules/activity-waiver', 'vspot-angular/modules/activity-waiver', 'vspot-angular/modules/activity-waiver'], // Included in activity
+            'activity-notifications':       ['vspot-angular/modules/activity-notifications', 'vspot-angular/modules/activity-notifications', 'vspot-angular/modules/activity-notifications'], // Included in activity
+            'activity-publishing':          ['vspot-angular/modules/activity-publishing', 'vspot-angular/modules/activity-publishing', 'vspot-angular/modules/activity-publishing'], // Included in activity
+            'activity-themes':              ['vspot-angular/modules/activity-themes', 'vspot-angular/modules/activity-themes', 'vspot-angular/modules/activity-themes'], // Included in activity
             'activity-jobs-days':           ['vspot-angular/modules/activity-jobs-days', 'vspot-angular/modules/activity-jobs-days', 'vspot-angular/modules/activity-jobs-days'], // Included in activity-jobs
             'activity-jobs-compose':        ['vspot-angular/modules/activity-jobs-compose', 'vspot-angular/modules/activity-jobs-compose', 'vspot-angular/modules/activity-jobs-compose'], // Included in activity-jobs
             'activity-jobs-assign':         ['vspot-angular/modules/activity-jobs-assign', 'vspot-angular/modules/activity-jobs-assign', 'vspot-angular/modules/activity-jobs-assign'], // Included in activity-jobs, edit participants
@@ -307,38 +340,66 @@
             'activity-jobs-duplicate-day':  ['vspot-angular/modules/activity-jobs-duplicate-day', 'vspot-angular/modules/activity-jobs-duplicate-day', 'vspot-angular/modules/activity-jobs-duplicate-day'], // Included in activity-jobs
             'activity-jobs-delete-job':     ['/script/vspot-angular/modules/activity-jobs-delete-job', '/script/vspot-angular/modules/activity-jobs-delete-job', '/script/vspot-angular/modules/activity-jobs-delete-job'], // Included in activity-jobs
             'activity-jobs-delete-events':  ['/script/vspot-angular/modules/activity-jobs-delete-events', '/script/vspot-angular/modules/activity-jobs-delete-events', '/script/vspot-angular/modules/activity-jobs-delete-events'], // Included in activity-jobs
-            testimonials:                   ['/script/vspot-angular/modules/testimonials.505287397', '/script/vspot-angular/modules/testimonials.505287397', '/script/vspot-angular/modules/testimonials.505287397'],
-            entry:                          ['/script/vspot-angular/modules/entry.2620561670', '/script/vspot-angular/modules/entry.2620561670', '/script/vspot-angular/modules/entry.2620561670'],
+            testimonials:                   ['/script/vspot-angular/modules/testimonials.2405600460', '/script/vspot-angular/modules/testimonials.2405600460', '/script/vspot-angular/modules/testimonials.2405600460'],
+            entry:                          ['/script/vspot-angular/modules/entry.972301148', '/script/vspot-angular/modules/entry.972301148', '/script/vspot-angular/modules/entry.972301148'],
             'html-popover':                 ['vspot-angular/modules/html-popover', 'vspot-angular/modules/html-popover', 'vspot-angular/modules/html-popover'], // Included in activity
             'error-handler':                ['vspot-angular/modules/error-handler', 'vspot-angular/modules/error-handler' , 'vspot-angular/modules/error-handler'], // Included in loader
-            'save-confirm':                 ['vspot-angular/modules/save-confirm', 'vspot-angular/modules/save-confirm', 'vspot-angular/modules/save-confirm'], // Included in activity
+            'generic-confirm':              ['vspot-angular/modules/generic-confirm', 'vspot-angular/modules/generic-confirm', 'vspot-angular/modules/generic-confirm'], // Included in activity
             'vspot-user':                   ['vspot-user', 'vspot-user', 'vspot-user'], // a file delivered by rails; see users controller for details
             ckeditor:                       ['/tools/ckeditor/ckeditor', '/tools/ckeditor/ckeditor', '/tools/ckeditor/ckeditor'],
             tinymce:                        ['tinymce/tinymce.min', 'tinymce/tinymce.min', 'tinymce/tinymce.min'],
             'angular-ui-date':              ['/script/angular-ui/date.min', '/script/angular-ui/date.min', '/script/angular-ui/date.min'],
-            'angular-ui-tinymce':           ['/script/angular-ui/tinymce.min', '/script/angular-ui/tinymce.min', '/script/angular-ui/tinymce.min'],
+            'angular-ui-tinymce':           ['/script/angular-ui/tinymce', '/script/angular-ui/tinymce', '/script/angular-ui/tinymce'],
             'angular-ui-bootstrap':         ['/script/angular-ui/ui-bootstrap.min', '/script/angular-ui/ui-bootstrap.min', '/script/angular-ui/ui-bootstrap.min'],
             'angular-ui-utils':             ['/script/angular-ui/ui-utils.min', '/script/angular-ui/ui-utils.min', '/script/angular-ui/ui-utils.min'],
             'full-calendar':                ['/script/angular-ui/ui-calendar/fullcalendar-2.0.2/fullcalendar.min', '/script/angular-ui/ui-calendar/fullcalendar-2.0.2/fullcalendar.min', '/script/angular-ui/ui-calendar/fullcalendar-2.0.2/fullcalendar.min'],
             'angular-ui-calendar':          ['angular-ui/ui-calendar/calendar', 'angular-ui/ui-calendar/calendar', 'angular-ui/ui-calendar/calendar'],
-            'angular-file-upload-shim':     ['/script/angular-file-upload-shim.2741932946', '/script/angular-file-upload-shim.2741932946', '/script/angular-file-upload-shim.2741932946'],
-            'angular-file-upload':          ['/script/angular-file-upload.1097254482', '/script/angular-file-upload.1097254482', '/script/angular-file-upload.1097254482'],
+            'angular-file-upload-shim':     ['/script/angular-file-upload-shim.773901774', '/script/angular-file-upload-shim.773901774', '/script/angular-file-upload-shim.773901774'],
+            'angular-file-upload':          ['/script/angular-file-upload.1516296430', '/script/angular-file-upload.1516296430', '/script/angular-file-upload.1516296430'],
+            'bootstrap-colorpicker-module': ['/script/colorpicker/bootstrap-colorpicker-module.1257369618', '/script/colorpicker/bootstrap-colorpicker-module.1257369618', '/script/colorpicker/bootstrap-colorpicker-module.1257369618'],
             moment:                         ['//cdnjs.cloudflare.com/ajax/libs/moment.js/2.7.0/moment.min', '//cdnjs.cloudflare.com/ajax/libs/moment.js/2.7.0/moment.min', 'moment.min'],
             'angular-moment':               ['angular-moment.min', 'angular-moment.min', 'angular-moment.min'],
-            facebook:                       ['//connect.facebook.net/en_US/all', '//connect.facebook.net/en_US/all', '/script/all.1293043818'], // fallback to local, overwrite this in deploy to keep it up to date
+            facebook:                       ['//connect.facebook.net/en_US/sdk', '//connect.facebook.net/en_US/sdk', '/script/sdk.2284905542'], // fallback to local, overwrite this in deploy to keep it up to date
             twitter:                        ['https://platform.twitter.com/widgets', 'https://platform.twitter.com/widgets', 'https://platform.twitter.com/widgets'],
             pinterest:                      ['//assets.pinterest.com/js/pinit', '//assets.pinterest.com/js/pinit', '//assets.pinterest.com/js/pinit'],
             comscore:                       ['https://sb.scorecardresearch.com/beacon', 'https://sb.scorecardresearch.com/beacon', 'https://sb.scorecardresearch.com/beacon'],
             datronics:                      ['//ads.pro-market.net/ads/scripts/site-132961', '//ads.pro-market.net/ads/scripts/site-132961', '//ads.pro-market.net/ads/scripts/site-132961'],
             quantcast:                      ['https://secure.quantserve.com/quant', 'https://secure.quantserve.com/quant', 'https://secure.quantserve.com/quant'],
-            'autofill-event':               ['/script/autofill-event.3711874025', '/script/autofill-event.3711874025', '/script/autofill-event.3711874025'],
-            ipCookie:                       ['/script/ipCookie/angular-cookie.min', '/script/ipCookie/angular-cookie.min', '/script/ipCookie/angular-cookie.min']
+            'autofill-event':               ['/script/autofill-event.4163740346', '/script/autofill-event.4163740346', '/script/autofill-event.4163740346'],
+            'super-user':                   ['/script/vspot-angular/modules/super-user.2378226426', '/script/vspot-angular/modules/super-user.2378226426', '/script/vspot-angular/modules/super-user.2378226426'],
+            'super-user-reports':           ['vspot-angular/modules/super-user-reports', 'vspot-angular/modules/super-user-reports', 'vspot-angular/modules/super-user-reports'], // Included in super-user
+            'super-user-messaging':         ['vspot-angular/modules/super-user-messaging', 'vspot-angular/modules/super-user-messaging', 'vspot-angular/modules/super-user-messaging'], // Included in super-user
+            'super-user-contact-lists':     ['vspot-angular/modules/super-user-contact-lists', 'vspot-angular/modules/super-user-contact-lists', 'vspot-angular/modules/super-user-contact-lists'], // Included in super-user
+            'vspot-filters':                ['vspot-angular/filters/filters', 'vspot-angular/filters/filters', 'vspot-angular/filters/filters'], // Included in super-user
+            'premium-features':             ['/script/vspot-angular/modules/premium-features.897815676', '/script/vspot-angular/modules/premium-features.897815676', '/script/vspot-angular/modules/premium-features.897815676'],
+            'vspot-premium-upgrade-form':   ['vspot-angular/directives/premium-upgrade-form/premium-upgrade-form','vspot-angular/directives/premium-upgrade-form/premium-upgrade-form','vspot-angular/directives/premium-upgrade-for/premium-upgrade-form'],  // included in premium-features
+            //'vspot-yahoo-contacts-importer': ['vspot-angular/directives/yahoo-contacts-importer/yahoo-contacts-importer', 'vspot-angular/directives/yahoo-contacts-importer/yahoo-contacts-importer'],
+            'email-list-error':             ['vspot-angular/modules/email-list-error', 'vspot-angular/modules/email-list-error', 'vspot-angular/modules/email-list-error'],
+            'vspot-invites-email':          ['/script/vspot-angular/directives/activity-invites/email.13476', '/script/vspot-angular/directives/activity-invites/email.13476', '/script/vspot-angular/directives/activity-invites/email.13476'],
+            'vspot-invites-sharable-link':  ['/script/vspot-angular/directives/activity-invites/sharable-link.13476', '/script/vspot-angular/directives/activity-invites/sharable-link.13476', '/script/vspot-angular/directives/activity-invites/sharable-link.13476'],
+            'vspot-invites-social':         ['/script/vspot-angular/directives/activity-invites/social.13476', '/script/vspot-angular/directives/activity-invites/social.13476', '/script/vspot-angular/directives/activity-invites/social.13476'],
+            'vspot-invites-button':         ['/script/vspot-angular/directives/activity-invites/button.13476', '/script/vspot-angular/directives/activity-invites/button.13476', '/script/vspot-angular/directives/activity-invites/button.13476']
+
         }
     };
 </script>
 
+<!-- This is just IE 9 and below: -->
+<!--[if IE]>
+    <script>
+        Vspot.oldBrowser = true;
+    </script>
+<![endif]-->
+<!-- This is just less than or equal to IE 8: -->
+<!--[if lte IE 8 ]>
+  <script>
+        // Back to jQuery 1.x:
+        requireConfig.paths.jquery = ['//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min', '//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min', '/script/jquery-1.11.2.min']; // Fallback to local
+  </script>
+<![endif]-->
 
 <script>
+    // Handle old browsers
     if (Vspot.oldBrowser) {
         // Help out older browsers
         requireConfig.shim['jquery'] = {
@@ -360,7 +421,7 @@
 
 <!-- This is just IE 9 and below: -->
 <!--[if IE]>
-    <link href="/css/ie.css?1416020024" media="screen" rel="stylesheet" type="text/css" />
+    <link href="/css/ie.css?1433648676" media="screen" rel="stylesheet" type="text/css" />
     <script>
         require(['loader'], function() {
             require(['polyfills/fix-ie']);
@@ -370,10 +431,10 @@
 <![endif]-->
 <!--[if lte IE 8]>
     <script src="/script/polyfills/respond.js"></script>
-    <link href="/css/ie8.css?1416020024" media="screen" rel="stylesheet" type="text/css" />
+    <link href="/css/ie8.css?1433648676" media="screen" rel="stylesheet" type="text/css" />
 <![endif]-->
 
-    <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="loader" src="/script/loader.3931617272.js"></script></head>
+    <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="loader" src="/script/loader.3627548126.js"></script></head>
     <body id="page_top" class="vs1">
         <div id="fb-root"></div>
 
@@ -406,74 +467,47 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <div class="nav-spacer"></div>
                 <nav class="header clearfix">
     
-        <ul class="clearfix nav" id="main_nav" ng-controller="DashboardNavCtrl">
+        <ul class="clearfix nav" id="main_nav" ng-controller="DashboardNavController">
             
                 <li class="">
-                    
                         <a href="/index" class="">
-                    
-                    <span class="glyphicon glyphicon-home"></span>
-                    
-                        </a>
-                    
+                    <span class=""><span class="glyphicon glyphicon-home"></span>                        </span></a>
                 </li>
             
                 <li class="">
-                    
                         <a href="/Why-Use-Us" class="">
-                    
-                    What We Do
-                    
-                        </a>
-                    
+                    <span class="">What We Do                        </span></a>
                 </li>
             
                 <li class="">
-                    
                         <a href="/Organizer/Register" class="">
-                    
-                    Create a Sign Up
-                    
-                        </a>
-                    
+                    <span class="">Create a Sign-up                        </span></a>
                 </li>
             
                 <li class="">
-                    
                         <a href="/Volunteers" class="">
-                    
-                    Find My Sign Up
-                    
-                        </a>
-                    
+                    <span class="">Find My Sign-up                        </span></a>
                 </li>
             
                 <li class="">
-                    
                         <a href="/Help" class="">
-                    
-                    Help
-                    
-                        </a>
-                    
+                    <span class="">Help                        </span></a>
                 </li>
+            
             
         </ul>
     
     <div id="user_data">
-        
-            
-        
-        
+                    
             <span id="signin">
                 <span id="login" ng-controller="SigninCtrl">
-                    <a href="/login/signin/">Sign in</a>  <!-- ng-click="open($event)" -->
+                    <a href="https://www.volunteerspot.com/login/signin/">Sign in</a>
                     <span ng-view=""></span>
                 </span>
                 &nbsp;|&nbsp;
                 <!-- register AngularJS mini-app -->
                 <span id="register" ng-controller="RegisterCtrl">
-                    <a href="/Organizer/Register" ng-click="open($event)">Register</a>
+                    <a href="/Organizer/Register" ng-click="handleReg($event)">Register</a>
                     <span ng-view=""></span>
                 </span>
             </span>
@@ -484,26 +518,40 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </nav>
 
 <script>
-    require(["loader"], function() {
+    require(['loader'], function() {
         require(['jquery', 'angular', 'angular-ui-bootstrap', 'signin', 'dashboard-nav'], function ($, ng) {
             'use strict';
-            var userMenu = ng.module("userMenu", ["ui.bootstrap"]);
+            var userMenu = ng.module('userMenu', ['ui.bootstrap']);
 
-            userMenu.controller("UserMenuCtrl", ["$scope", function ($scope) {
+            userMenu.controller('UserMenuCtrl', ['$scope', '$timeout', function ($scope, $timeout) {
+                $scope.menu = {
+                    open: false
+                };
+
+                $scope.showJsmvcMyInfo = function() {
+                    // Doing this witout jQuery because JSMVC app keeps binding and
+                    // unbinding the click hanlers and messing with jQuery's ability
+                    // to click.
+                    $timeout(function() {
+                        document.getElementById('user_name').click();
+                    });
+                };
             }]);
 
-            ng.bootstrap(document.getElementById('user_menu'), ['userMenu']);
+            var dropdowns = document.querySelectorAll('#header .btn-group');
 
-            // Register AngularJS mini-app
-            // avoid conflicts with javascript mvc
-            if (window.location.pathname.indexOf('client/invitation') === -1) {
-                ng.bootstrap(document.getElementById('signin'), ['signin']);
+            for (var i = 0; i < dropdowns.length; i++) {
+                ng.bootstrap(dropdowns[i], ['userMenu']);
             }
 
+            // Register AngularJS mini-app
+            // Won't happen on client/invitation, so won't conflict with JSMVC app.
+            ng.bootstrap(document.getElementById('signin'), ['signin']);
+
             // main_nav handler
-            if( window.location.pathname.toLowerCase() === "/dashboard" || window.location.pathname.toLowerCase() === "/activities" ) {
+            if( window.location.pathname.toLowerCase() === '/dashboard' || window.location.pathname.toLowerCase() === '/activities' ) {
                 // We are in the dashboard or the activities page, so let's help manage the navigation
-                ng.bootstrap(document.getElementById('main_nav'), ['dashNav']);
+                ng.bootstrap(document.getElementById('main_nav'), ['dashNav', 'userMenu']);
             }
         });
     });
@@ -518,6 +566,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         
             <div class="content-inner">
                 <div class="left-column">
+                    
                     <h1>Your Privacy Rights — VolunteerSpot's Privacy Policy</h1>
 
 <h3>Introduction</h3>
@@ -598,6 +647,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="br"></div>
     
 
+                            
                       
                     
                 </div>
@@ -621,7 +671,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div class="left-column">
 
         <div id="copyright">
-            © 2014 VolunteerSpot, Inc. All Rights Reserved.
+            © 2015 VolunteerSpot, Inc. All Rights Reserved.
             <br>
             <a href="#page_top">Page Top</a>
             &nbsp;|&nbsp;
@@ -692,7 +742,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             
                 <a href="/Volunteers" class="">
             
-            Find My Sign Up
+            Find My Sign-up
             
                 </a>
             
@@ -1085,7 +1135,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     <div id="error_dialog" class="clearfix"> 
         <div class="error-img clearfix">
-            <img src="/imgs/resources/curious-dog.png" alt="Curious Dog">
+            <!-- Add when we show the dialog... less for the user to load, and Facebook won't find by mistake as a sharing image. -->
         </div>
         <div class="error-box clearfix" id="supported_browser_error">
             <p class="notice">Bummer! An error has occurred on this page. We have sent an error report back to the geeks.</p>
