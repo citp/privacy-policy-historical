@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giveawaybandit.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105217id_/http%3A//www.giveawaybandit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giveawaybandit.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610011642id_/http%3A//www.giveawaybandit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Giveaway Bandit
 
@@ -93,8 +93,7 @@ This policy was last modified on 02/17/2013
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.giveawaybandit.com
-
+http://www.giveawaybandit.com  
 26734 E State Hwy N  
 Blythedale, MO 64426  
 USA  
