@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthyfeetstore.com privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716093946id_/http%3A//www.healthyfeetstore.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyfeetstore.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610003417id_/http%3A//www.healthyfeetstore.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -20,7 +20,7 @@ We will use your information to respond to you, regarding the reason you contact
 Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
 **Your Access to and Control Over Information**  
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email **[cservice@healthyfeetstore.com](mailto:cservice@healthyfeetstore.com)** or call us toll free at **1.866.324.3338**. From HI or Alaska call **1.858.547.8800** : 
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email **[cservice@healthyfeetstore.com](mailto:cservice@healthyfeetstore.com)** or call us toll free at **1.866.324.3338** : 
 
   * See what data we have about you, if any. 
   * Change/correct any data we have about you. 
@@ -38,7 +38,7 @@ While we use encryption to protect sensitive information transmitted online, we 
 
 We are committed to protecting your privacy. We use the information we collect on this site to fulfill your requests and enhance your overall experience. We do not sell, trade, or rent your personal information to others. Sensitive information you provide will be processed by our secure Web server at Yahoo. 
 
-**If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at **1.866.324.3338** (from HI or Alaska call **1.858.547.8800** ) or via email at ****[cservice@healthyfeetstore.com](mailto:cservice@healthyfeetstore.com)**
+**If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at **1.866.324.3338** or via email at ****[cservice@healthyfeetstore.com](mailto:cservice@healthyfeetstore.com)**
 
 **Policies and Practices of Yahoo! and it's 3rd Party Affiliates**  
 This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the [Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information.
