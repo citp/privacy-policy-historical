@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ktvz.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208220539id_/http%3A//www.ktvz.com/news/Privacy-Policy/626954) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktvz.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610003043id_/http%3A//www.ktvz.com/news/Privacy-Policy/626954) for the most accurate reproduction.*
 
 # Privacy Policy | News - Home
 
