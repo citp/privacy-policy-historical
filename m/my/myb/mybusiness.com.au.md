@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybusiness.com.au privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125124935id_/http%3A//mybusiness.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybusiness.com.au privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610003911id_/http%3A//www.mybusiness.com.au/privacy-policy) for the most accurate reproduction.*
 
 # CommStrat Pty Ltd Privacy Policy - My Business
 
