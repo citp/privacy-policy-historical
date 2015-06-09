@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mardenkane.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128183707id_/http%3A//www.mardenkane.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mardenkane.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609075615id_/http%3A//www.mardenkane.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Marden-Kane
 
@@ -82,12 +82,11 @@ If you have any questions about this privacy policy, the practices of this site 
 
 Privacy Officer  
 Marden-Kane, Inc.  
-1055 Franklin Avenue  
-Suite 300  
-Garden City, New York 11530
+195 Froehlich Farm Blvd.  
+Woodbury, New York 11797
 
 Phone: 516.365.3999
 
 We can be reached via e-mail at: [expert@mardenkane.com](mailto:expert@mardenkane.com).
 
-Last revised on June 20, 2014
+Last revised on June 1, 2015
