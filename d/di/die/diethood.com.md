@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diethood.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120135449id_/http%3A//diethood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diethood.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609233755id_/http%3A//diethood.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Diethood
 
@@ -60,4 +60,4 @@ If you have any questions about this policy, our practices related to this site,
 
 We reserve the right, at any time, to add to, change, update, or modify this privacy policy, simply by posting such change, update, or modification on Diethood and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the site. It is your responsibility to review this privacy policy from time to time to ensure that you continue to agree with all of its terms.
 
-_This policy was last updated on May 1, 2014._
+_This policy was last updated on January 29, 2015._
