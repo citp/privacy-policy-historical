@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the crucial.com privacy policy that was archived on 2014-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231030344id_/http%3A//www.crucial.com/usa/en/company-privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crucial.com privacy policy that was archived on 2015-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150609185245id_/http%3A//www.crucial.com/usa/en/company-privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:wairole="http://www.w3.org/2005/01/wai-rdf/GUIRoleTaxonomy#" xmlns:waistate="http://www.w3.org/2005/07/aaa" lang="en" xml:lang="en"><head>
 		<meta http-equiv="x-ua-compatible" content="IE=Edge">
-	<meta charset="utf-8">	
+		<meta charset="utf-8">	
 		<title>Crucial.com - Crucial's privacy policy</title>
 		<meta name="description" content="privacy">
 		<meta name="keyword" content="">
@@ -11,9 +11,9 @@
 				
 		
 
-<link rel="stylesheet" href="http://assets.crucial.com/wcsstore/CrucialSAS/css/ext/styles.css?v=2014121801">
+<link rel="stylesheet" href="http://assets.crucial.com/wcsstore/CrucialSAS/css/ext/styles.css?v=2015051118">
 <!-- Include script files -->
-		<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-RS3G"></script><script type="text/javascript" src="http://assets.crucial.com/wcsstore/customdojo/dojo/dojo.js" djconfig="baseUrl: '/wcsstore/customdojo/dojo/', parseOnLoad: true, isDebug: false,  modulePaths: {storetext: '/wcsstore/CrucialSAS/', ext: '/wcsstore/CrucialSAS/javascript/ext'}, useCommentedJson: true,locale: 'en-us'"></script>
+		<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-RS3G"></script><script type="text/javascript" src="http://assets.crucial.com/wcsstore/customdojosmall/dojo/dojo.js" djconfig="baseUrl: '/wcsstore/dojo18/dojo/', parseOnLoad: true, isDebug: false,  modulePaths: {storetext: '/wcsstore/CrucialSAS/', ext: '/wcsstore/CrucialSAS/javascript/ext'}, useCommentedJson: true,locale: 'en-us' "></script>
 		<!-- BEGIN CommonJSToInclude.jspf -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, maximum-scale=1.0;">
 <meta name="CommerceSearch" content="storeId_10151">
@@ -42,6 +42,18 @@
 	var subsTimePeriodAttrName = "timePeriod";
 	
 	var storeNLS = null;
+	
+	/** 
+	 * This variable indicates whether a request has been submitted or not.
+	 * The value is initialized to true and resets to false on full page load.
+	 */
+	var requestSubmitted = true;
+	
+	/** 
+	 * This variable stores the id of the element (ex: button/link) which the user clicked.
+	 * This id is set when the user clicks an element which triggers an Ajax request.
+	 */
+	var currentId = "";
 	
 	//Summary: Returns the absolute URL to use for prefixing any Ajax URL call.
 	//Description: Dojo does not handle the case where the parameters in the URL are delimeted by the "/" forward slash. Therefore, in order to
@@ -80,26 +92,179 @@
 	function getStyleDirectoryPath() {
 		return styleDirectoryPath;
 	}
-</script>
-
-<!--<script type="text/javascript" src="http://assets.crucial.com/wcsstore/CrucialSAS/javascript/MessageHelper.js?v=2014121801"></script>
-<script type="text/javascript" src="http://assets.crucial.com/wcsstore/CrucialSAS/javascript/StoreCommonUtilities.js?v=2014121801"></script>-->
-<script>
+	
+	dojo.registerModulePath("wc", "../wc");
 	dojo.require("wc.service.common");
-	dojo.require("dojo.number");
+	dojo.require("wc.widget.RefreshArea");
+	dojo.require("wc.render.RefreshController");
+	dojo.require("wc.render.Context");
+	dojo.require("dojo.cookie");
+	
+	/**
+	 * Submits the form parameter.
+	 * Requires a form element to be passed in and submits form with its inputs.
+	 * Used for Non-ajax calls that requires multiple clicks handling.
+	 *
+	 * @param {element} form The form to be submitted.
+	 */
+	function submitSpecifiedForm(form) {
+		if(!submitRequest()){
+			return;
+		}
+		//console.debug("form.action == "+form.action);
+		form.submit();
+	}
+
+	/**
+	 * Parses a Dojo widget.
+	 * Pass in the id of a dojo widget or a HTML container element containing a dojo widget, such as a div,
+	 * and this method will parse that widget, or all the widgets within that HTML container element.
+	 * 
+	 * @param {string} id The id of a dojo widget or a HTML container of a dojo widget to be parsed.
+	 */
+	function parseWidget(id)
+	{
+		var node;
+		var widget = dijit.byId(id);
+		
+		if (widget == null || widget == undefined)
+		{
+			if (id == null || id == undefined)
+			{	
+				node = dojo.body();
+			}
+			else
+			{
+				node = dojo.byId(id);
+			}
+			
+			if (node != null && node != undefined)
+			{
+				if (node.getAttribute("dojoType") != null && node.getAttribute("dojoType") != undefined)
+				{
+					dojo.parser.instantiate([node]);
+				}
+				else
+				{
+					dojo.parser.parse(node);
+				}
+			}
+		}
+	}
+	
+	/**
+	 * Stores the id of the element (ex: button/link) that triggered the current submitted request.
+	 * Store the new element id only when no request is currently running.
+	 *
+	 * @param {string} id The id of element triggering the submitted request.
+	 */
+	function setCurrentId(id){
+		//If there is no request already submitted, update the id
+		if(!requestSubmitted && this.currentId == ""){
+			this.currentId = id;
+		}
+	}
+	
+	/**
+	 * This function trims the spaces from the pased in word.
+	 * Delete all pre and trailing spaces around the word.
+	 * 
+	 * @param {string} inword The word to trim.
+	 */
+	function trim(inword)
+	{
+		word = inword.toString();
+		var i=0;
+		var j=word.length-1;
+		while(word.charAt(i) == " ") i++;
+		while(word.charAt(j) == " ") j=j-1;
+		if (i > j) {
+			return word.substring(i,i);
+		} else {
+			return word.substring(i,j+1);
+		}
+	}
+	
+	/**
+	 * Hides the progress bar dialog when the submitted request has completed.
+	 * Set the visibility of the progress bar dialog to hide from the page.
+	 */
+	function cursor_clear() {
+			//Reset the flag 
+			requestSubmitted = false;
+	
+			//Hide the progress bar dialog
+			var dialog = dijit.byId('progress_bar_dialog');
+			var progressBar = document.getElementById('progress_bar');
+			if(dialog != null){
+				if(progressBar != null){
+					progressBar.style.display = 'none';
+				}
+				dialog.hide();
+				this.currentId="";
+			}
+	}
+	
+	/**
+	 * Checks whether a request can be submitted or not.
+	 * A new request may only be submitted when no request is currently running.
+	 * If a request is already running, then the new request will be rejected.
+	 *
+	 * @return {boolean} Indicates whether the new request was submitted (true) or rejected (false).
+	 */
+	function submitRequest() {
+		if(!requestSubmitted) {
+			requestSubmitted  = true;
+			return true;
+		}
+		return false;
+	}
+
+	/**
+	 * This function store a error key in the cookie. The error key will be used to retrieve error messages. 
+	 * @param {String} errorKey  The key used to retrieve error/warning messages. 
+	 */
+	function setWarningMessageCookie(errorKey) {
+		dojo.cookie("signon_warning_cookie",errorKey);
+	}
+	/**
+	* This function removes a cookie
+	* @param {String} name the name of the cookie to be removed. 
+	*/
+	function removeCookie(name) {
+		dojo.cookie(name, null, {expires: -1});
+	}
+	/**
+	* This function gets a cookie
+	* @param {String} c the name of the cookie to be get.
+	*/
+	function getCookie(c) {
+		var cookies = document.cookie.split(";");
+		for (var i = 0; i < cookies.length; i++) {
+			var index = cookies[i].indexOf("=");
+			var name = cookies[i].substr(0,index);
+			name = name.replace(/^\s+|\s+$/g,"");
+			if (name == c) {
+				return unescape(cookies[i].substr(index + 1));
+			}
+		}
+	}
+	
+	/**
+	 * checks if the store is in preview mode
+	 * @param {String} contextPathUsed The context path being used by the Store. 
+	 * @param {String} criteria criteria used to check if contextPathUsed is the preview context. 
+	 */
+	function isStorePreview(contextPathUsed,criteria) {
+		if(contextPathUsed.indexOf(criteria)>-1) {
+			return true;
+		}
+		return false;
+	}
 </script>
 
+<script type="text/javascript" src="http://assets.crucial.com/wcsstore/CrucialSAS/javascript/Common/CrucialCommonScriptContentPage.js?v=2015051118"></script>
 
-	<script type="text/javascript" src="http://assets.crucial.com/wcsstore/CrucialSAS/javascript/Common/CrucialCommonScript.js?v=2014121801"></script>
-<!--
-<script type="text/javascript" src="http://assets.crucial.com/wcsstore/CrucialSAS/javascript/ext/menu.js"></script>
-<script type="text/javascript" src="http://assets.crucial.com/wcsstore/CrucialSAS/javascript/ext/main.js?v=2014121801"></script>
-<script type="text/javascript" src="http://assets.crucial.com/wcsstore/CrucialSAS/javascript/ext/cru-main.js?v=2014121801"></script>
-<script type="text/javascript" src="http://assets.crucial.com/wcsstore/CrucialSAS/javascript/ext/crucial-main.js?v=2014121801"></script>
-<script type="text/javascript" src="http://assets.crucial.com/wcsstore/CrucialSAS/javascript/Common/GeoIpTargetedMessage.js?v=2014121801"></script>
-<script type="text/javascript" src="http://assets.crucial.com/wcsstore/CrucialSAS/javascript/Widgets/MemorySelectorTool/MemorySelectorTool.js?v=2014121801"/></script>
-<script type="text/javascript" src="http://assets.crucial.com/wcsstore/CrucialSAS/javascript/CrucialServicesDeclaration.js"></script>
--->
 
 
 <script type="text/javascript">
@@ -143,145 +308,10 @@
                                                 cmSetupNormalization("krypto-_-krypto");
                                                 cmSetClientID ("50330000|crucial.com", true, "data.coremetrics.com", "crucial.com");
                                         </script>
-                                
-<script type="text/javascript">
-  dojo.addOnLoad(function() {
-		CrucialServicesDeclarationJS.setDelayParameter('1000');
-		CrucialServicesDeclarationJS.setRetryAllowedParameter('10');
-	});
-</script>
-<!-- END CommonJSToInclude.jspf -->
-		<script type="text/javascript">
-			dojo.addOnLoad(function() { 
-				shoppingActionsJS.setCommonParameters('-1','10151','10151','G','$');
-				shoppingActionsServicesDeclarationJS.setCommonParameters('-1','10151','10151');
-				});
-		</script>
+                                <!-- END CommonJSToInclude.jspf -->
 	</head>		
 	<body id="CrucialUSA" class="Prod">		
-		<!-- BEGIN CommonJSPFToInclude.jspf --><!-- BEGIN ProgressBar.jspf -->
-<div id="progress_bar_dialog" dojotype="dijit.Dialog" style="display: none;">
-	<div id="progress_bar">
-		<div id="loading_popup">
-			<div class="top_left" id="WC_StoreCommonUtilities_div_1"><img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/colors/color1/transparent.gif" alt="No image available"></div>
-		        <div class="top_right" id="WC_StoreCommonUtilities_div_2"><img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/colors/color1/transparent.gif" alt="No image available"></div>
-		        <div class="header" id="WC_StoreCommonUtilities_div_3"></div>
-		        <div class="bodyarea" id="WC_StoreCommonUtilities_div_4">
-				<div class="bodycontent" id="WC_StoreCommonUtilities_div_5">
-					<img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/colors/color1/loading.gif" width="44" height="44" border="0" alt="Your request is being processed.">
-			        </div>
-			</div>
-			<div class="footer" id="WC_StoreCommonUtilities_div_6">
-				 <div class="bot_left" id="WC_StoreCommonUtilities_div_7"></div>
-				 <div class="bot_right" id="WC_StoreCommonUtilities_div_8"></div>
-			</div>
-		</div>
-	</div>
-</div>
-<!-- END ProgressBar.jspf --><!-- BEGIN MessageDisplay.jspf -->
-
-<span class="spanacce" id="MessageArea_ACCE_Title">Message Dialog</span>
-<div id="MessageArea" class="store_message" role="alert" aria-labelledby="MessageArea_ACCE_Title">
-	<div id="msgpopup_content_wrapper" class="content">
-		<a id="clickableErrorMessageImg" role="button" class="close right" href="JavaScript:MessageHelper.hideMessageArea();" title="Close">
-			<div class="close_text left">Close</div>
-			<div class="close_icon left"></div>
-			<div class="clear_float"></div>
-		</a>
-		
-		<div class="clear_float"></div>
-		
-		<div class="message">
-			<div class="message_icon left">
-				<img id="error_icon" style="display:none;" class="error_icon" src="http://pics.crucial.com/wcsstore/CrucialSAS/images/colors/color1/error_icon.png" alt="">
-				<img id="success_icon" style="display:none;" class="error_icon" src="http://pics.crucial.com/wcsstore/CrucialSAS/images/colors/color1/success_icon.png" alt="">
-			</div>
-			<div class="message_text left" role="region" aria-required="true" aria-labelledby="MessageArea">
-				<span id="ErrorMessageText">
-					
-				</span>
-			</div>
-			<div class="clear_float"></div>
-		</div>		
-	</div>
-</div>
-<span class="spanacce" id="ariaMessage_ACCE_Label">Display Update Message</span>
-<span class="spanacce" role="region" aria-labelledby="ariaMessage_ACCE_Label" id="ariaMessage" aria-live="assertive" aria-atomic="true" aria-relevant="additions"></span>
-<!-- END MessageDisplay.jspf -->
-
-<div id="widget_product_comparison_popup" role="dialog" dojotype="dijit.Dialog" style="display:none;">
-	The maximum number of products that can be compared is 4. Please refine your selection.
-</div><!--Start Changes for CR IP Overriding--><!--End Changes for CR IP Overriding--><!-- END CommonJSPFToInclude.jspf -->
-<div id="quickInfoPopup" role="dialog" data-dojo-type="dijit/Dialog" style="display:none;" onkeypress="QuickInfoJS.setFocus" title="quick view">
-	<div id="quickInfoRefreshArea" class="content" dojotype="wc.widget.RefreshArea" controllerid="QuickInfoDetailsController" ariamessage="Quick info content display updated" arialiveid="ariaMessage" role="region" aria-labelledby="quickInfoRefreshArea_ACCE_Label">
-	</div>
-</div>
-
-
-
-<script type="text/javascript">
-	dojo.addOnLoad(function() { 
-		CommonControllersDeclarationJS.setControllerURL('QuickInfoDetailsController', 'http://www.crucial.com/QuickInfoDetailsView?manuFacturer=&amp;isCSRUser=false&amp;catalogId=10151&amp;modelCatId=&amp;langId=-1&amp;recommendedTab=&amp;scanListPage=&amp;isCSROnBehalfOper=false&amp;storeId=10151&amp;assocType=');
-	});        
-</script>
-<div id="shoppingListItemAddedPopup" data-dojo-type="dijit/Dialog" style="display:none;" title="Message Dialog">
-	<div class="widget_site_popup">
-												
-		<!-- Top Border Styling -->
-		<div class="top">
-			<div class="left_border"></div>
-			<div class="middle"></div>
-			<div class="right_border"></div>
-		</div>
-		<div class="clear_float"></div>
-		<!-- Main Content Area -->
-		<div class="middle">
-			<div class="content_left_border">
-				<div class="content_right_border">
-					<div class="content">
-						<div class="header">
-							<span>This item has been successfully added to your list.</span>
-							<a role="button" id="shoppingListItemAddedClose" href="javascript:ShoppingListDialogJS.close();" class="close" title="Close" alt="Close"></a>
-							<div class="clear_float"></div>
-						</div>
-						
-							<div class="product">
-								<div class="product_image">
-									<img id="shoppingListItemAddedImg" alt="">
-								</div>
-								<div id="shoppingListItemAddedName" class="product_name"></div>
-								<div class="clear_float"></div>
-							</div>
-						
-						<div class="footer">
-							<div class="button_container ">
-								<a id="shoppingListItemAddedContinue" href="javascript:ShoppingListDialogJS.close();" class="button_primary" title="Continue Shopping">
-									<div class="left_border"></div>
-									<div class="button_text">Continue Shopping</div>
-									<div class="right_border"></div>
-								</a>
-								<div class="clear_float"></div>
-							</div>
-							
-						</div>
-						<div class="clear_float"></div>
-					<!-- End content Section -->
-					</div>
-				<!-- End content_right_border -->
-				</div>
-			<!-- End content_left_border -->
-			</div>
-		</div>
-		<div class="clear_float"></div>
-		<!-- Bottom Border Styling -->
-		<div class="bottom">
-			<div class="left_border"></div>
-			<div class="middle"></div>
-			<div class="right_border"></div>
-		</div>
-		<div class="clear_float"></div>
-	</div>
-</div><!-- Import Header Widget -->
+		<!-- BEGIN CommonJSPFToInclude.jspf --><!--Start Changes for CR IP Overriding--><!--End Changes for CR IP Overriding--><!-- END CommonJSPFToInclude.jspf --><!-- Import Header Widget -->
 		<div>
 			<!-- BEGIN Header.jsp -->
 
@@ -290,15 +320,9 @@
 
 	<script type="text/javascript" src="http://assets.crucial.com/wcsstore/CrucialSAS/javascript/Analytics.js"></script>
 	<script type="text/javascript">
-	require(["dijit/form/Select", "dijit/Dialog"]);
 	dojo.addOnLoad(function() {
 		analyticsJS.storeId=10151;
 		analyticsJS.catalogId=10151;
-		analyticsJS.loadShopCartHandler();
-		analyticsJS.loadPagingHandler();
-		analyticsJS.loadProductQuickInfoHandler('productIdQuickInfo');
-		analyticsJS.loadStoreLocatorPageViews();
-		analyticsJS.loadWishlistHandler();
 		dojo.require("wc.analytics.CoremetricsEventListener");		
 			(new wc.analytics.CoremetricsEventListener()).load(true);
 	});
@@ -306,9 +330,6 @@
 	
 
 <script>
-	dojo.require("dojo.cookie");
-	dojo.require("dojox.html");
-	dojo.require("dojox.html.entities");
 	var isGuest = true;
 	function updateHeaderOrderCnt() {
 		var count =  dojo.byId("ordRowCount").value;
@@ -329,9 +350,9 @@
 			
 			<li>800-336-8915</li>
 			
-			
+	
 				<li class="chat"><a href="http://www.crucial.com/usa/en/support-contact">chat</a></li>
-			
+	
 		</ul>
 		
 		
@@ -356,45 +377,11 @@
 				
 <span id="MiniShoppingCart_Label" class="spanacce">Shopping Cart</span>
 <div dojotype="wc.widget.RefreshArea" id="MiniShoppingCart" widgetid="MiniShoppingCart" controllerid="MiniShoppingCartController" ariamessage="Shopping Cart Display Updated" arialiveid="ariaMessage" role="region" aria-labelledby="MiniShoppingCart_Label">
-	
-
-<script type="text/javascript">
-  dojo.addOnLoad(function() {
-	//	alert('refresh called');
-		setMiniShopCartControllerURL(getAbsoluteURL()+'MiniShopCartDisplayView?storeId=10151&catalogId=10151&langId=-1');
-	});
-</script>
-
-<!-- Coremetrics testing for externalParts during search
--->
-
-    	<table>
-    		<tbody><tr>
-    			<td class="thumb">
-    				<div>no items in the cart</div>
-    			</td>
-    		</tr>
-    	</tbody></table>
-  	
-<script type="text/javascript">
-	function updateMiniCartTitle() 
-	{
-		var dialog = dijit.byId("cartDialog");
-		if(dojo.byId("ordRecCount") != undefined)
-		{
-			var count =  dojo.byId("ordRecCount").value;
-			var message = count + " item(s) <span>in your cart</span>";
-			dialog.set('title',message );
-		}
-	}
-	function addToCart(entitledItem)
-	{
-		shoppingActionsJS.setCommonParameters('-1','10151','10151','G','$');
-		shoppingActionsServicesDeclarationJS.setCommonParameters('-1','10151','10151');
-		shoppingActionsJS.Add2ShopCartAjax(entitledItem,'1', false);
-	}
-</script>	
-
+	<script type="text/javascript">
+		dojo.addOnLoad(function() {
+			setMiniShopCartControllerURL(getAbsoluteURL()+'MiniShopCartDisplayView?storeId=10151&catalogId=10151&langId=-1');
+		});
+	</script>
 </div>
 
 
@@ -615,7 +602,7 @@ function updateMiniWLTitle() {
 </div>
 <!-- End: Header --><!-- Main Menu as Espot-->
 <div>
-	<!-- BEGIN ContentRecommendation.jsp --><!--content us-header-menu - branded-menu - homepage  -->
+	<!-- BEGIN ContentRecommendation.jsp --><!--  us-header-menu  -->
 <div id="menuWrap" class="center">
 <ul id="menu" class="branded">
 <!-- store nav -->
@@ -623,7 +610,7 @@ function updateMiniWLTitle() {
 	<a href="/usa/en">store</a>
 	<div class="menuContent store-content">
 		<div class="tools-wide">
-			<img src="/wcsstore/CrucialSAS/images/guarantee-badge.png" class="compatible-badge">
+			<img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/guarantee-badge.png" class="compatible-badge">
 			<h1>Compatible upgrades. Guaranteed.</h1>
 			<span class="action"><a href="/usa/en/advisor" class="btnGray">advisor tool</a><a href="/usa/en/systemscanner" class="btnGray">system scanner</a></span>
 		</div>
@@ -631,7 +618,7 @@ function updateMiniWLTitle() {
             <div class="sectionThumb">
             	<a href="/usa/en/memory">
                 	<span class="menu-title">memory</span>
-                    <img src="/wcsstore/CrucialSAS/images/menu/menu-store-memory.png">
+                    <img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/menu/menu-store-memory.png">
                 </a>
             </div>
             <div class="clear"></div>
@@ -652,22 +639,22 @@ function updateMiniWLTitle() {
             <div class="sectionThumb">
             	<a href="/usa/en/ssd">
                 	<span class="menu-title">solid state drives</span>
-                    <img src="/wcsstore/CrucialSAS/images/menu/menu-store-ssd.png">
+                    <img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/menu/menu-store-ssd.png">
                 </a>
             </div>
             <div class="clear"></div>
 			<ul>
+				<li><a href="/usa/en/ssd/series/MX200">MX200 SSD</a></li>
 				<li><a href="/usa/en/ssd/series/MX100">MX100 SSD</a></li>
-				<li><a href="/usa/en/ssd/series/M550">M550 SSD</a></li>
-				<li><a href="/usa/en/ssd/series/M500">M500 SSD</a></li>
-                <li><a href="/usa/en/store-ssd-factory-recertified">factory recertified SSD</a></li>
+				<li><a href="/usa/en/ssd/series/BX100">BX100 SSD</a></li>
+				<li><a href="/usa/en/store-ssd-factory-recertified">factory recertified SSD</a></li>
 			</ul>
 		</div>
 		<div class="menuColumn">
             <div class="sectionThumb">
             	<a href="/usa/en/accessories">
                 	<span class="menu-title">accessories</span>
-                    <img src="/wcsstore/CrucialSAS/images/menu/menu-accessories.png">
+                    <img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/menu/menu-accessories.png">
                 </a>
             </div>
             <div class="clear"></div>
@@ -681,7 +668,7 @@ function updateMiniWLTitle() {
 		<div class="menuColumn">
             <div class="sectionThumb">
                 	<span class="menu-title"> shop by manufacturer</span>
-                    <img src="/wcsstore/CrucialSAS/images/menu/menu-store-manufacturer.png">
+                    <img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/menu/menu-store-manufacturer.png">
             </div>
             <div class="clear"></div>
             <ul>
@@ -706,7 +693,7 @@ function updateMiniWLTitle() {
 		<div class="menuColumn one-half">
 			<a href="/usa/en/memory"><h2 class="tools"> shop for memory</h2></a>
             <div class="tools-wide">
-                <img src="/wcsstore/CrucialSAS/images/guarantee-badge.png" class="compatible-badge">
+                <img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/guarantee-badge.png" class="compatible-badge">
                 <h3>Compatibility tools</h3>
                 <span class="action"><a href="/usa/en/advisor" class="btnGray">advisor tool</a><a href="/usa/en/systemscanner" class="btnGray">system scanner</a></span>
             </div>
@@ -750,7 +737,8 @@ function updateMiniWLTitle() {
 			</ul>
             <ul><h4>resources</h4>
 				<li><a href="/usa/en/memory-ddr4-info">DDR4 overview</a></li>            
-				<li><a href="/usa/en/memory-buying-guide">buying guide</a></li>            
+				<li><a href="/usa/en/memory-buying-guide">buying guide</a></li>
+                <li><a href="/usa/en/memory-ballistix-mod-utility">Ballistix MOD utility</a></li>            
             </ul>
 
 		</div>
@@ -763,14 +751,14 @@ function updateMiniWLTitle() {
 		<div class="menuColumn one-half">
 			<a href="/usa/en/ssd"><h2 class="tools"> shop for ssds</h2></a>
             <div class="tools-wide">
-                <img src="/wcsstore/CrucialSAS/images/guarantee-badge.png" class="compatible-badge">
+                <img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/guarantee-badge.png" class="compatible-badge">
                 <h3>Compatibility tools</h3>
                 <span class="action"><a href="/usa/en/advisor" class="btnGray">advisor tool</a><a href="/usa/en/systemscanner" class="btnGray">system scanner</a></span>
             </div>
 			<ul><a href="/usa/en/storage/ssd"><h4>solid state drives</h4></a>
+				<li><a href="/usa/en/ssd/series/MX200">MX200 SSD</a></li>
                 <li><a href="/usa/en/ssd/series/MX100">MX100 SSD</a></li>
-                <li><a href="/usa/en/ssd/series/M550">M550 SSD</a></li>
-                <li><a href="/usa/en/ssd/series/M500">M500 SSD</a></li>
+				<li><a href="/usa/en/ssd/series/BX100">BX100 SSD</a></li>
                 <li><a href="/usa/en/store-ssd-factory-recertified">factory recertified</a></li>
 			</ul>
             <ul><h4>manufacturer</h4>
@@ -787,15 +775,19 @@ function updateMiniWLTitle() {
 		<div class="menuColumn one-half">
 			<a href="/usa/en/storage-info"><h2> learn about ssds</h2></a>
 			<ul><a href="/usa/en/storage-info"><h4>solid state drives</h4></a>
-				<li><a href="/usa/en/storage-ssd-m550">Crucial M550 SSD</a></li>
+				<li><a href="/usa/en/storage-ssd-mx200">Crucial MX200 SSD</a></li>
 				<li><a href="/usa/en/storage-ssd-mx100">Crucial MX100 SSD</a></li>
-                <li><a href="/usa/en/storage-ssd-m500">Crucial M500 SSD</a></li>
+				<li><a href="/usa/en/storage-ssd-bx100">Crucial BX100 SSD</a></li>
                 <li><a href="/usa/en/storage-ssd-comparison"><strong>compare all</strong></a></li>
+				<li>&nbsp;</li>
+				<li><a href="/usa/en/storage-ssd-m550">Crucial M550 SSD</a></li>
+                <li><a href="/usa/en/storage-ssd-m500">Crucial M500 SSD</a></li>
 			</ul>
             <ul style="width: 32%;"><h4>resources</h4>
                 <li><a href="/usa/en/storage-ssd-buying-guide">SSD buying guide</a></li>
             	<li><a href="/usa/en/support-ssd">SSD support</a></li>
                 <li><a href="/usa/en/support-ssd">SSD firmware updates</a></li>
+                <li><a href="/usa/en/support-storage-executive">Crucial&nbsp;Storage&nbsp;Executive</a></li>
             </ul>
 		</div>
 	</div>
@@ -808,7 +800,7 @@ function updateMiniWLTitle() {
 			<div class="sectionThumb">
             	<a href="http://forum.crucial.com/crucial/">
                 	<span class="menu-title">community forum</span>
-                    <img src="/wcsstore/CrucialSAS/images/menu/menu-forums.png">
+                    <img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/menu/menu-forums.png">
                  </a>
             </div>
 		</div>
@@ -816,7 +808,7 @@ function updateMiniWLTitle() {
 			<div class="sectionThumb">
             	<a href="http://forum.crucial.com/t5/tkb/communitypage">
                 	<span class="menu-title">knowledge base</span>
-                    <img src="/wcsstore/CrucialSAS/images/menu/menu-kb.png">
+                    <img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/menu/menu-kb.png">
                 </a>
             </div>
 			<ul>
@@ -827,7 +819,7 @@ function updateMiniWLTitle() {
 			</ul>
 		</div>
 		<div class="menuColumn">
-			<div class="sectionThumb"><a href="https://www.facebook.com/CrucialMemory"><span class="menu-title">social</span><img src="/wcsstore/CrucialSAS/images/menu/menu-social.png"></a></div>
+			<div class="sectionThumb"><a href="https://www.facebook.com/CrucialMemory"><span class="menu-title">social</span><img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/menu/menu-social.png"></a></div>
 			<ul>
 				<li><a href="https://www.facebook.com/CrucialMemory">facebook</a></li>
 				<li><a href="https://twitter.com/CrucialMemory">twitter</a></li>
@@ -842,7 +834,7 @@ function updateMiniWLTitle() {
 	<a href="/usa/en/support">support</a>
 	<div class="menuContent">
 	<div class="menuColumn">
-			<div class="sectionThumb"><a href="/usa/en/support"><span class="menu-title">product support</span>                    <img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/menu/menu-product-support.png">
+			<div class="sectionThumb"><a href="/usa/en/support"><span class="menu-title">product support</span><img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/menu/menu-product-support.png">
 </a></div>
 			<ul>
 				<li><a href="/usa/en/support-memory">memory support</a></li>
@@ -851,7 +843,7 @@ function updateMiniWLTitle() {
 		</div>
 		<div class="menuColumn">
 
-			<div class="sectionThumb"><a href="/usa/en/support-contact"><span class="menu-title">store help</span><img src="/wcsstore/CrucialSAS/images/menu/menu-support.png"></a></div>
+			<div class="sectionThumb"><a href="/usa/en/support-contact"><span class="menu-title">store help</span><img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/menu/menu-support.png"></a></div>
 			<ul>
 			<li><a href="/webapp/wcs/stores/servlet/OrderHistoryDisplayView?catalogId=10151&amp;langId=-1&amp;storeId=10151&amp;krypto=b3HCyB87Xyx7wthwdxl0BQ%3D%3D&amp;ddkey=http:OrderHistoryDisplayView">order status</a></li>
             <li><a href="/usa/en/support-contact">customer service</a></li>
@@ -863,7 +855,7 @@ function updateMiniWLTitle() {
 			</ul>
 		</div>
 		<div class="menuColumn">
-			<div class="sectionThumb"><a href="http://forum.crucial.com/"><span class="menu-title">learn</span><img src="/wcsstore/CrucialSAS/images/menu/menu-kb.png"></a></div>
+			<div class="sectionThumb"><a href="http://forum.crucial.com/"><span class="menu-title">learn</span><img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/menu/menu-kb.png"></a></div>
 			<ul>
 			<li><a href="http://forum.crucial.com/">community forum</a></li>
             <li><a href="http://forum.crucial.com/t5/tkb/communitypage">knowledge base</a></li>
@@ -874,7 +866,7 @@ function updateMiniWLTitle() {
 			</ul>
 		</div>
 		<div class="menuColumn">
-			<div class="sectionThumb"><a href="/usa/en/support-contact"><span class="menu-title">contact us</span><img src="/wcsstore/CrucialSAS/images/menu/menu-contact.png"></a></div>
+			<div class="sectionThumb"><a href="/usa/en/support-contact"><span class="menu-title">contact us</span><img src="http://pics.crucial.com/wcsstore/CrucialSAS/images/menu/menu-contact.png"></a></div>
 			<ul>
 				<li><a href="/usa/en/support-contact">email</a></li>
             	<li><a href="/usa/en/support-contact">chat</a></li>
@@ -902,92 +894,87 @@ function updateMiniWLTitle() {
 				<!-- Left Side Specs -->
 				<div id="leftColumn720">
 					<div id="espot1">
-						<!-- BEGIN ContentRecommendation.jsp --><h1>Crucial's Privacy Policy</h1>
-  Crucial is committed to protecting  your right to privacy when visiting our websites. We recognize that when you  share your personal information with us, you expect us to treat that  information in a serious and responsible manner. This Privacy Policy discloses  what information we gather, how we use that information, and how you can  correct or change that information. In summary, you should know that:<p></p>
+						<!-- BEGIN ContentRecommendation.jsp --><h1>Micron's Privacy Policy</h1>
+<p>
+  Micron is committed to protecting  your right to privacy when visiting our websites. We recognize that when you  share your personal information with us, you expect us to treat that  information in a serious and responsible manner. This Privacy Policy discloses  what information we gather, how we use that information, and how you can  correct or change that information. In summary, you should know that:
+</p>
 <ul>
-  <li>This Privacy Policy only applies to  information gathered from Crucial’s publicly available websites. </li>
-  <li>Crucial collects personal information  to provide you products and services.</li>
-  <li>Crucial has security measures in  place to help keep your personal information secure. </li>
-  <li>Crucial will not sell your personal  information. The only exception is described in the &nbsp;Change of Control section below. </li>
+  <li>This Privacy Policy only applies to information gathered from Micron's publicly available websites.</li>
+  <li>Micron collects personal information to provide you products and services and to process job applications.</li>
+  <li>Micron has security measures in  place to help keep your personal information secure.</li>
+  <li>Micron will not sell your personal information. The only exception is described in the Change of Control section below.</li>
 </ul>
 <p>
-<strong>Security<br>
-  </strong>Crucial's websites have security  measures in place to help protect against the loss, misuse, and alteration of  the information under our control, including protecting information behind a  firewall within a perimeter network and encrypting your ordering information  during transmission.
+<strong>Security</strong><br>
+  Micron's websites have security  measures in place to help protect against the loss, misuse, and alteration of  the information under our control, including protecting information behind a  firewall within a perimeter network and encrypting your ordering information  during transmission.
   </p>
   <p>
-  <strong>Registration and order forms<br>
-  </strong>If you choose to register with Crucial or to place an order with us, we may  ask that you provide us with relevant information such as contact information  (first and last name, e-mail address and telephone number), financial  information (account or credit card numbers), demographic information (address,  age, or income level), unique identifiers (tax ID number), information about  where you learned of our products, and information about your intended use of  our products. We do not purge customer information on a regular basis, so  information you provide us will remain in our systems for an indefinite amount  of time. We may use your contact information to send you information about us  and to contact you when necessary. If you do not want to receive any mailings  from us, please see the Choice/Opt-Out section below. Financial information is  used only to bill you for products. Demographic information may be used to  tailor your experience at our websites, show you information that we think you  might be interested in and present information according to your preferences.  In addition, our sales and marketing departments may also use demographic  information, information about where you learned of our products, and  information about your intended use of our products to improve our advertising  and marketing efforts and to measure interest in our products.
-  </p>
-  <p>
-  <strong>Surveys and contests<br>
-  </strong>Crucial may invite you to participate in online surveys or contests.  Participation is never required. If you choose to participate, you may be asked  to disclose contact and demographic information as well as additional  information about you and/or your company. We may use this information to send  information to you, contact you when necessary, tailor your experience at our  site, display information according to your preferences and improve our websites,  products and advertising. If you do not want to receive any mailings from us,  please see the Choice/Opt-Out section below.
-  </p>
-  <p>
-  <strong>Public forums<br>
-  </strong>Crucial may make chat rooms, forums, message boards, and/or news groups  available to you. Because any information that is disclosed in these areas  becomes public information, you should exercise caution when deciding whether  to disclose your personal information.
-  </p>
-  <p>
-  <strong>Information requests<br>
-  </strong>You may be able to request information on our sites regarding our products  and services, including technical support and customer service, by using online  forms. We ask that you provide certain contact information to allow us to  fulfill your request and to send you information about Crucial's products and  services. If you do not want to receive any mailings from us, please see the Choice/Opt-Out  section below.
-  </p>
-  <p>
-  <strong>Children's guidelines</strong><br>
-  Crucial's websites are not generally directed to children. Crucial does maintain  a few web pages designed to provide young people educational and charitable  information, but those web pages do not collect personal information. &nbsp;If you are under 18, do not supply any  personal information to any Crucial website. If you wish to purchase a product  from a Crucial website, have your parent or guardian make the purchase for you.
-  </p>
-  <p>
-  <strong>IP addresses</strong><br>
-  We may use your IP address to help diagnose problems with our servers,  administer and improve our websites, and gather demographic information to  measure interest in our websites and products.
-  </p>
-  <p>
-  <strong>Tracking  technologies: cookies\ beacons\ do not track signals\ etc.</strong><br>
-  For information about how this website uses various tracking technologies, visit our <a href="/usa/en/company-cookie-policy">Cookie Policy page</a>.
-  </p>
-  <p>
-  <strong>Supplemental information<br>
-  </strong>We may supplement the information  that you provide with information that is received from third parties. For  example, Crucial may use information that we purchase from a database marketing  information firm to enhance our understanding of the information that you  provide.<br>
-  <br>
-  <strong>Links to other sites<br>
-  </strong>Crucial's websites contains links to other sites. Crucial is not responsible  for the privacy practices, goods and services, or the content of such websites.
-  </p>
-  <p>
-  <strong>Third-party suppliers</strong><br>
+  <strong>Information We Collect</strong><br>
+  If you choose to register with  Micron, place an order with us, participate in one of our surveys or contests, apply  for a job, or otherwise contact us, we may ask that you provide us with  relevant information such as contact information (first and last name, e-mail  address and telephone number), financial information (account or credit card  numbers), demographic information (address, age, or income level), unique  identifiers (tax ID number), information about where you learned of our  products, and information about your intended use of our products. We do not  purge customer information on a regular basis, so information you provide us  will remain in our systems for an indefinite amount of time. We may use your  contact information to send you information about us and to contact you when  necessary. If you do not want to receive any mailings from us, please see the Choice/Opt-Out  section below. Financial information is used to determine your creditworthiness  and to charge you for products you order. Demographic information may be used  to tailor your experience at our websites, show you information that we think  you might be interested in, and present information according to your  preferences. In addition, our sales and marketing departments may use  demographic information, information about where you learned of our products,  and information about your intended use of our products to improve our  advertising and marketing efforts and to measure interest in our products.
+</p>
+<p>
+  <strong>Public Forums</strong><br>
+  Micron may make chat rooms, forums, message boards, and/or news groups  available to you. Because any information that is disclosed in these areas  becomes public information, you should exercise caution when deciding whether  to disclose your personal information.
+</p>
+<p>
+  <strong>Children's Guidelines</strong><br>
+  Micron's websites are not generally directed to children. Micron does maintain  a few web pages designed to provide young people educational and charitable  information, but those web pages do not collect personal information. &nbsp;If you are under 18, do not supply any  personal information to any Micron website. If you wish to purchase a product  from a Micron website, please ask your parent or guardian to make the purchase  for you.
+</p>
+<p>
+<strong>IP Addresses</strong><br>
+  We may use your IP address to help diagnose problems with our servers,  administer and improve our websites, and gather demographic information to  measure interest in our websites and products. 
+</p>
+<p>
+<strong>Tracking Technologies: Cookies\ Beacons\ Do Not Track  Signals\ Etc.</strong><br>
+  For information about how this website uses various tracking technologies,  visit our <a href="http://www.micron.com/cookie-policy">Cookie Policy page</a>.
+</p>
+<p>
+<strong>Supplemental Information</strong><br>
+  We may supplement the information  that you provide with information that is received from third parties. For  example, Micron may use information that we purchase from a database marketing  information firm to enhance our understanding of the information that you  provide.
+</p>
+<p>
+<strong>Links to Other Sites</strong><br>
+  Micron's websites contain links to other sites. Micron is not responsible  for the privacy practices, goods and services, or content of such websites.
+</p>
+<p>
+  <strong>Third-Party Suppliers</strong><br>
   We employ many other companies and individuals to perform functions on our  behalf. Examples include fulfilling orders, delivering packages, sending postal  mail and e-mail, removing repetitive information from customer lists, analyzing  data, providing marketing assistance, providing search results and links  (including paid listings and links), processing credit card payments, and  providing customer service.
-  </p>
-  <p>
-  <strong>Anti-fraud checks&nbsp;<br>
-  </strong>We may use personal information provided to us to conduct anti-fraud checks  that may help us detect and prevent fraud. The personal information we receive  may be disclosed to a credit reference agency, fraud prevention agency or other  information provider, which may keep a record of that information.
-  </p>
-  <p>
-  <strong>Contacting the website<br>
-</strong>If you have any questions about Crucial's privacy policy or the privacy  practices of our site, you may use one of the specific choices below or you may  contact us by email at <a href="mailto:crucial.service@micron.com">crucial.service@micron.com</a>.</p>
-<ul>
-  <li><strong>Choice/opt-out</strong></li>
-</ul>
-<p>Our  sites provide you with the opportunity to opt-out of receiving communications  from us at any point where we request information. If you do not want to  receive future communications from us, please either go back to the site from  which you no longer wish to receive such communications or contact us by  sending an email to <a href="mailto:crucial.service@micron.com">crucial.service@micron.com</a>.
 </p>
-<ul>
-  <li><strong>Correct/update</strong></li>
-</ul>
 <p>
-If  you want to change or modify information you have previously provided to us,  please either go back to the site where you provided such information or  contact us by sending an email to <a href="mailto:crucial.service@micron.com">crucial.service@micron.com</a>. </p>
-<p><strong>Compliance hotline</strong><br>
-  Crucial believes in ethical business practices.&nbsp; You may review our <a href="http://www.micron.com/about/our-commitment/governance/ethics">Code  of Business Conduct and Ethics</a> and if you have any concerns, please contact us as described above or you may  contact our <a href="https://secure.ethicspoint.com/domain/media/en/gui/8715/index.html" target="_blank">Compliance Hotline</a>.<br>
-  <strong></strong><br>
-  <strong>U.S. Commerce Department Safe Harbor  Principles</strong><br>
-  Crucial adheres to the U.S. Commerce Department European Union and Switzerland  Safe Harbor Principles. Information about the U.S. Department of Commerce Safe  Harbor certification can be found at <a href="http://export.gov/safeharbor" target="_blank">http://export.gov/safeharbor</a>. <br>
-  In compliance with the European and Switzerland Safe Harbor  Principles, Crucial commits to resolve complaints about your privacy and our  collection or use of your personal information. European Union and Swiss  citizens with inquiries or complaints regarding this Privacy Policy should  first contact Crucial at <a href="mailto:crucial.service@micron.com" target="_blank">crucial.service@micron.com</a>. <br>
-  Crucial has further committed to refer unresolved privacy  complaints under the European Union and Switzerland Safe Harbor Principles to  an independent dispute resolution mechanism, the BBB SAFE HARBOR, operated by  the Council of Better Business Bureaus. If you do not receive timely  acknowledgment of your complaint, or if your complaint is not satisfactorily  addressed by Crucial, please visit the BBB SAFE HARBOR web site at&nbsp;<a href="http://www.bbb.org/us/safe-harbor-complaints" target="_blank">www.bbb.org/us/safe-harbor-complaints</a> for more information and to file a complaint.
+  <strong>Anti-Fraud Checks</strong><br>
+  We may use personal information provided to us to conduct anti-fraud checks  that may help us detect and prevent fraud. The personal information we receive  may be disclosed to a credit reference agency, fraud prevention agency or other  information provider, which may keep a record of that information.
   </p>
-  <p>
-  <strong>Change of control</strong><br>
-  In the event that another company acquires assets related to this website, or  if we experience some other change of control event such as a spin-off, merger,  insolvency, bankruptcy or receivership, we reserve the right to include any or  all user-related information among the assets transferred to the acquiring company.  We cannot guarantee that any entity receiving such information in connection  with any of these transactions will comply with all the terms of this Privacy Policy.
-  </p>
-  <p>
-  <strong>Updates/effective date<br>
-</strong>Crucial reserves the right to amend  this Privacy Policy from time to time. Changes to this Privacy Policy will  apply to information we have received and information we receive after the  revised Privacy Policy is effective. When we do amend this Privacy Policy, the  revised Policy will be posted here so please visit this Web page to view the  most current Privacy Policy.
+<p>
+  <strong>Contacting the Website</strong><br>
+If you have any questions about Micron's privacy policy or the privacy  practices of our websites, you may use one of the specific choices below or you  may contact us by email at <a href="mailto:privacy@micron.com">privacy@micron.com</a>.
 </p>
-  <p>
-  The effective date of this version of the Privacy Policy is June 11, 2014.
+<ul>
+  <li><strong>Choice/Opt-Out: </strong>&nbsp;Our sites provide you with the opportunity to  opt-out of receiving communications from us at any point where we request  information. If you do not want to receive future communications from us,  please either go back to the website from which you no longer wish to receive  such communications or contact us by sending an email to <a href="mailto:privacy@micron.com">privacy@micron.com</a>. </li>
+</ul>
+
+<ul>
+  <li><strong>Correct/Update:&nbsp; </strong>If  you want to change or modify information you have previously provided to us,  please either go back to the website where you provided such information or  contact us by sending an email to <a href="mailto:privacy@micron.com">privacy@micron.com</a>. </li>
+</ul>
+
+<p>
+<strong>Compliance Hotline</strong><br>
+  Micron believes in ethical business practices. You may review our <a href="http://www.micron.com/about/our-commitment/governance/ethics">Code of Business Conduct and Ethics</a> which can be found in the "Governance' section of the <a href="http://www.micron.com/about/our-commitment">"Our Commitment" webpage</a> (there is a link at the bottom of  this webpage).&nbsp; if you have any concerns,  please contact us as described above or you may contact our <a href="https://secure.ethicspoint.com/domain/media/en/gui/8715/index.html" target="_blank">Compliance Hotline</a>.
+</p>
+<p>
+  <strong>U.S. Commerce Department Safe Harbor  Principles</strong><br>
+  Micron complies with the US-EU Safe  Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US  Department of Commerce regarding the collection, use, and retention of personal  information from European Union member countries and Switzerland. Micron  has certified that it adheres to the Safe Harbor Privacy Principles of notice,  choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and  the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall  govern. To learn more about the Safe Harbor program, and to view our  certification page, please visit <a href="http://www.export.gov/safeharbor/" target="_blank">http://www.export.gov/safeharbor/</a>
+  </p>
+<p>
+In compliance with the European and  Switzerland Safe Harbor Principles, Micron commits to resolve complaints about  your privacy and our collection or use of your personal information. European  Union and Swiss citizens with inquiries or complaints regarding this Privacy Policy  should first contact Micron at <a href="mailto:privacy@micron.com" target="_blank">privacy@micron.com</a>.<br>
+  Micron has further committed to  refer unresolved privacy complaints under the European Union and Switzerland  Safe Harbor Principles to an independent dispute resolution mechanism, the BBB  SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not  receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily  addressed by Micron, please visit the BBB SAFE HARBOR website at <a href="http://www.bbb.org/us/safe-harbor-complaints" target="_blank">www.bbb.org/us/safe-harbor-complaints</a> for more information and to file a complaint.
+  </p>
+<p>
+<strong>Change of Control</strong><br>
+  If another company acquires assets related to this website, or if we experience  some other change of control event such as a spin-off, merger, insolvency,  bankruptcy or receivership, we reserve the right to include any or all  user-related information among the assets transferred to the acquiring company.  We cannot guarantee that any entity receiving such information in connection  with any of these transactions will comply with all the terms of this Privacy Policy.
+  </p>
+<p>
+<strong>Updates/Effective Date</strong><br>
+Micron reserves the right to amend  this Privacy Policy from time to time. Changes to this Privacy Policy will  apply to information we have received and information we receive after the  revised Privacy Policy is effective. When we do amend this Privacy Policy, the  revised Policy will be posted here so please visit this Web page to view the  most current Privacy Policy. The effective date of this version of the Privacy  Policy is May 18, 2015.
 </p>
 <!-- END ContentRecommendation.jsp -->
 					</div>
@@ -1051,11 +1038,10 @@ If  you want to change or modify information you have previously provided to us,
 	<!-- Copyright -->
 	<div class="copyright">
 		<ul>
-			<li>© 2014 Micron Technology, Inc. All rights reserved <a href="http://www.micron.com/about/our-commitment">Our Commitment</a></li>
+			<li>© 2015 Micron Technology, Inc. All rights reserved <a href="http://www.micron.com/about/our-commitment">Our Commitment</a></li>
 			<li><a href="/usa/en/company-terms-of-sale">terms</a></li>
 			<li><a href="/usa/en/company-privacy">privacy</a></li>
 			<li><a href="/usa/en/company-environmental">environmental</a></li>
-			<li><a href="/usa/en/sitemap">site map</a></li>
 		</ul>
 	</div>
 	<!-- /Copyright -->
@@ -1068,6 +1054,14 @@ If  you want to change or modify information you have previously provided to us,
 		dialogID.show();
 		document.getElementById(iframeID).src = srcID;
 	}
+
+function showVideoCM(dialogID, iframeID, srcID, cmName,cmCategory, cmAttrs) 
+{
+dialogID.show();	
+document.getElementById(iframeID).src = srcID;
+cmCreateElementTag(cmName,cmCategory,cmAttrs);	
+}	
+
 </script> 
 <!-- /script for modal videos --><!-- END ContentRecommendation.jsp -->
 	</div>
@@ -1077,29 +1071,51 @@ This jspf is container of all the JS that would be using for tracking pixel.
 These JS would be including from different JSPs based upon the country and/or some of the country's related pages 
 
 Valid Country Code: US, UK, EU, FR, IT
-Valid Page Name: PartSpecs, CartPage, OrdConf, PDPPartSpecs
+Valid Page Name: 
+		CartPage - Shopping cart page
+		OrdConf - Order confirmation page
+		PDP - Product detail page
+		PLP - Category navigation page
+		SSP - Search summary page
+		SRP - Search result page
+		AdvisoryResult - Advisory result page
+		ScanResult - Scan result page		
 -->
 
 <script type="text/javascript">
-	console.debug("Start : TrackingPixel");
-	console.debug("Current URL : "+document.location.href);
-	console.debug("Current Page Name : CategoryPage");
-	console.debug("Is CSR Flow : false");
+	//console.debug("Start : TrackingPixel");
+	//console.debug("Current URL : "+document.location.href);
+	var pageName_js = '';
+	if(("CategoryPage" == '') || ("CategoryPage" == 'CatalogEntryPage') || ("CategoryPage" == 'CategoryPage')){
+		if(document.getElementById("pageName")){
+			pageName_js = document.getElementById("pageName").value;//for caching related page this will be considered			
+		}
+	}else{
+		pageName_js = "CategoryPage";
+	}
+	//console.debug("Hosted store name : CrucialUSA");
+	//console.debug("Current Page Name : "+pageName_js);
+	//console.debug("Is CSR Flow : false");
+	
+	// This variable will be available from PDP, PLP, SSP, SRP, AdvisoryResult and ScanResult
+	var BasePartList_js = '';
+	if(document.getElementById("TP_PartNumberList")){
+		BasePartList_js = document.getElementById("TP_PartNumberList").value;		
+	}
+	//alert(pageName_js+" : "+BasePartList_js);
+	
+	var TP_CategoryIdentifier = '';
+	if(document.getElementById('TP_CategoryIdentifier')){
+		TP_CategoryIdentifier = document.getElementById('TP_CategoryIdentifier').value;
+	}
+	
+	var TP_ProductType = '';
+	if(document.getElementById('TP_ProductType')){
+		TP_ProductType = document.getElementById('TP_ProductType').value;
+	}
 </script>
-<!-- Comma separated list of part numbers --><!-- part numbers from the product detail page -->
-         <input type="hidden" name="testForGoogleTag" id="testForGoogleTag_id" val="testing">
 
-<!-- Unique Order ID --><!-- Comma separated list of different values of a order --><!-- Customer segment --><!-- Price List --><!-- Number of item in cart --><!-- Value of item in cart in USD --><!-- Value of item in cart --><!-- Transaction amount i.e. with shipping and tax  --><!-- Transaction amount i.e. without shipping and tax  --><!-- Shipping charge --><!-- Sale tax or VAT for the order --><!-- Ship to city --><!-- Ship to state --><!-- Ship to country --><!-- Foresee -->
-<script type="text/javascript">
-	console.debug("Is Foresee Service Enabled : true");
-</script>
-
-	<script type="text/javascript" src="http://assets.crucial.com/wcsstore/CrucialSAS/javascript/ext/foresee/foresee-trigger.min.js"></script>
-<!-- End Foresee --><!-- Chat Interface -->
-<script type="text/javascript">
-	console.debug("Is Chat Interface Service Enabled : true");
-</script>
-
+<!-- Unique Order ID --><!-- Comma separated list of different values of a order --><!-- Customer segment --><!-- Price List --><!-- Number of item in cart --><!-- Value of item in cart in USD --><!-- Value of item in cart --><!-- Transaction amount i.e. with shipping and tax  --><!-- Transaction amount i.e. without shipping and tax  --><!-- Shipping charge --><!-- Sale tax or VAT for the order --><!-- Ship to city --><!-- Ship to state --><!-- Ship to country --><!-- Foresee --><!-- End Foresee --><!-- Chat Interface -->
 			<script type="text/javascript">
 			    var lhnAccountN = "20810-1";
 			    var lhnButtonN = -1;
@@ -1131,48 +1147,68 @@ Valid Page Name: PartSpecs, CartPage, OrdConf, PDPPartSpecs
 				            }
 				        }
 				</script>
-         <!-- End Chat Interface --><!-- Commission Junction -->
-<script type="text/javascript">
-	console.debug("Is Commission Junction Service Enabled : true");
-</script>
-<!-- End Commission Junction --><!-- WebGainLink -->
-<script type="text/javascript">
-	console.debug("Is Web Gain Link Service Enabled : ");
-</script>
-<!-- End WebGainLink --><!-- Criteo -->
-<script type="text/javascript">
-	console.debug("Is Criteo Service Enabled : ");
-</script>
-<!-- End Criteo --><!-- SaleCycle code -->
-<script type="text/javascript">
-	console.debug("Is Sales Cycle Service Enabled : ");
-</script>
-<!-- End SaleCycle code --><!-- Channel Analytics -->
-<script type="text/javascript">
-	console.debug("Is Media Flex Service Enabled : ");
-</script>
-<!-- End Channel Analytics --><!-- SmartAdserver -->
-<script type="text/javascript">
-	console.debug("Is Smart Ad Service Enabled : ");
-</script>
-<!-- End SmartAdserver --><!-- Google Tag Manager -->
-
-<script type="text/javascript">
-	console.debug("Is Google Tag Manager Service Enabled : true");
-	console.debug("Executing Google Tag Manager Service in CategoryPage page  of CrucialUSA store");
-</script>
-
-	<script type="text/javascript">
-		console.debug("Google Tag Manager ID : GTM-RS3G");
-	</script>
-	
-				<script>
-					dataLayer = [{
-					  'transactionCurrency': 'USD'
-					}];
-				</script>
-			
+         <!-- End Chat Interface --><!-- Commission Junction --><!-- End Commission Junction --><!-- WebGainLink --><!-- End WebGainLink --><!-- Criteo --><!-- End Criteo --><!-- SaleCycle code --><!-- End SaleCycle code --><!-- Channel Analytics --><!-- End Channel Analytics --><!-- SmartAdserver --><!-- End SmartAdserver --><!-- Google Tag Manager -->
+		<script>
+			if((pageName_js == 'SSP') || (pageName_js == 'SRP')){
+				dataLayer = [{
+				  'transactionCurrency': 'USD',
+				  'productListPagePartList': ""+BasePartList_js
+				}];
+			}else if (pageName_js == 'PLP'){
+				dataLayer = [{
+				  'transactionCurrency': 'USD',
+				  'productPagePartID': ""+BasePartList_js+"",
+				  'pageType': 'product-list',
+				  'productType': ""+TP_CategoryIdentifier
+				}];
+			}else if (pageName_js == 'PDP'){
+				dataLayer = [{
+				  'transactionCurrency': 'USD',
+				  'productPagePartID': ""+BasePartList_js+"",
+				  'pageType': 'product-detail',
+			      'productType': ""+TP_ProductType
+				}];
+			}else if (pageName_js == 'AdvisoryResult'){
+				dataLayer = [{
+				  'transactionCurrency': 'USD',
+				  'productPagePartID': ""+BasePartList_js+"",
+				  'pageType': 'listparts'
+				}];
+			}else if (pageName_js == 'ScanResult'){
+				dataLayer = [{
+				  'transactionCurrency': 'USD',
+				  'productPagePartID': ""+BasePartList_js+"",
+				  'pageType': 'scan-results'
+				}];
+			}else if((pageName_js == 'OrdConf') || (pageName_js == 'CartPage')){
+				var conversionType = '';
+				if(pageName_js == 'OrdConf'){
+					conversionType = 'order';
+				}
+				dataLayer = [{						
+					'transactionId': '',
+					'transactionTotalUSD': '0',
+					
+							'Visitoremail':  '',
+							'transactionCurrency': 'USD',
+							'transactionquantity':  '0',
+							'Visitorsegment':  '',
+							'Visitorpl':  '',
+							'shipRate' : '',
+							'shipCity' : '',
+							'ShipState' : '',
+							'ShipCountry' : '',
+							'tax' : '',
+							'conversionType': ""+conversionType+"",
+							'transactionProducts': []
+				}];
+			}else{
+				dataLayer = [{
+				  'transactionCurrency': 'USD'
+				}];
+			}
 		
+		</script>
 		<noscript>
 			<iframe src='//www.googletagmanager.com/ns.html?id=GTM-RS3G' height='0' width='0' style='display:none;visibility:hidden'>
 			</iframe>
@@ -1189,11 +1225,6 @@ Valid Page Name: PartSpecs, CartPage, OrdConf, PDPPartSpecs
 			(window,document,'script','dataLayer','GTM-RS3G');
 		</script>
 	<!-- End Google Tag Manager --><!-- Search Agency -->
-<script type="text/javascript">
-	console.debug("Is Search Agency Service Enabled : true");
-	console.debug("Executing Search Agency Service in CategoryPage page  of CrucialUSA store");
-</script>
-
 			<script language="javascript"> 
 				var _maCookieDays =30; 
 				(function(){ 
@@ -1207,11 +1238,7 @@ Valid Page Name: PartSpecs, CartPage, OrdConf, PDPPartSpecs
 					} 
 				})(); 
 			</script>
-		<!-- End Search Agency -->
-<script type="text/javascript">
-	console.debug("End : TrackingPixel");
-</script>
-<script type="text/JavaScript">
+		<!-- End Search Agency --><script type="text/JavaScript">
 <!--
 cmCreatePageviewTag("US:Content:privacy", "privacy", null, null, "NO");
 //-->
