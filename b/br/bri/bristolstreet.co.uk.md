@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bristolstreet.co.uk privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123072028id_/http%3A//www.bristolstreet.co.uk/cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bristolstreet.co.uk privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609221504id_/http%3A//www.bristolstreet.co.uk/cookie-policy) for the most accurate reproduction.*
 
 # Cookie Policy | Bristol Street Motors
 
@@ -27,6 +27,13 @@ Audience Science  |  | Cookies: rsi_segs
 This is one of our online audience monitors that allow us to track customer actions on the Website and to tailor the advertisements you see on 3rd party sites. The content of these advertisements is influenced by your interactions with the Website such as the pages you view, searches you conduct and offers you show an interest in.  |   
 Google Adsense  |  | We use third-party advertising companies to serve ads when you visit our Website. These companies may also use cookies, over which we have no control. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.  |   
 Facebook  |  | We use the Facebook Customer Audience Pixel on our website to advertise goods and services which may be of interest to you. For example, we may show an advert on Facebook which relates to particular pages you visited on our site when we have an offer on. The pixel will not provide any private information on your profile or account.  |   
+Hot Jar | _hjUserId  | This cookie is set as soon as a user loads a page which contains the Hotjar code. The cookie contains a universally unique identifier (UUID) which allows Hotjar to track the same visitor across multiple pages and sessions. |   
+Hot Jar |  _hjDonePolls | This cookie is set once a visitor completes a poll using the Feedback Poll widget. It is used to ensure that the same poll does not re-appear if it has already been filled in. |   
+Hot Jar  |  _hjMinimizedPolls | This cookie is set once a visitor minimizes a Feedback Poll widget. It is used to ensure that the widget stays minimizes when the visitor navigates through your site.  |   
+Hot Jar  |  _hjDoneTestersWidgets | This cookie is set once a visitor submits their information in the Recruit User Testers widget. It is used to ensure that the same form does not re-appear if it has already been filled in. |   
+Hot Jar  | _hjMinimizedTestersWidgets  | This cookie is set once a visitor minimizes a Recruit User Testers widget. It is used to ensure that the widget stays minimizes when the visitor navigates through your site. |   
+Hot Jar  |  _hjDoneSurveys | This cookie is set once a visitor completes a survey. It is used to only load the survey content if the visitor hasn't completed the survey yet. |   
+Hot Jar  |  _hjIncludedInSample | This session cookie is set to let Hotjar know whether that visitor is included in the sample which is used to generate funnels. |   
   
 Often, your web browser will let you control all of your cookies in the browser security and privacy settings. If you'd like to learn out more about cookies as well as how to manage, and delete them, visit: [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
