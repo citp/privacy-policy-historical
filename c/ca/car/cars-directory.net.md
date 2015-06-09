@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cars-directory.net privacy policy that was archived on 2014-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140831095241id_/http%3A//www.cars-directory.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cars-directory.net privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609224353id_/http%3A//www.cars-directory.net/privacy.php) for the most accurate reproduction.*
 
 # CARS-DIRECTORY.NET Privacy Policy
 
