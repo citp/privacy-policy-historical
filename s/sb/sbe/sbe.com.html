@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the sbe.com privacy policy that was archived on 2014-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141226091839id_/http%3A//sbe.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sbe.com privacy policy that was archived on 2015-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150609225853id_/http%3A//sbe.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" class="no-js" xmlns:fb="http://ogp.me/ns/fb#" itemscope="" itemtype="http://schema.org/WebPage"><!--<![endif]--><head><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NVWND3"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgcDWFVaGwACUlRWAAE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+<!DOCTYPE html><html lang="en-US" class="no-js" xmlns:fb="http://ogp.me/ns/fb#" itemscope="" itemtype="http://schema.org/WebPage"><!--<![endif]--><head><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NVWND3"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
 <meta charset="utf-8">
 <link rel="dns-prefetch" href="//ajax.googleapis.com">
 <link rel="dns-prefetch" href="//www.google-analytics.com">
@@ -39,6 +39,7 @@
 <meta name="msapplication-wide310x150logo" content="http://sbe.com/content/themes/sbe/img/mstile-310x150.png">
 
 <link rel="pingback" href="http://sbe.com/xmlrpc.php">
+
 <link rel="canonical" href="http://sbe.com/privacy-policy/">
 <meta name="robots" content="noodp">
 <meta name="robots" content="noydir">
@@ -61,13 +62,17 @@
 <meta itemprop="description" content="">
 <meta itemprop="image" content="http://sbe.com/content/themes/sbe/img/sharefallback.png">
 <meta name="robots" content="index, follow">
+
+<meta name="referrer" content="always">
 <meta name="originaltitle" content="Privacy Policy | sbe.com" id="originaltitle">
+
 <script src="http://sbe.com/content/themes/sbe/assets/js/vendor/other/modernizr-2.6.2.min.js"></script>
 <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400" rel="stylesheet" type="text/css">
 <link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/a6074a18-1b14-4cd9-bb14-b10f3d60a588.css">
-<!-- Grunt Build -->
+
 <!-- // GRUNT BUILD -->
-<link rel="stylesheet" type="text/css" href="http://sbe.com/content/themes/sbe/assets/css/main.min.2e55c7cc.css">
+<link rel="stylesheet" type="text/css" href="http://sbe.com/content/themes/sbe/assets/css/main.min.b5b4293c.css">
+
 <script>
 // Adding ie10 class since conditionals don't work
 if (Function('/*@cc_on return document.documentMode===10@*/')()){
@@ -78,26 +83,28 @@ if (Function('-ms-scroll-limit' in document.documentElement.style && '-ms-ime-al
   document.documentElement.className+=' ie11';
 }
 if(!!navigator.userAgent.match(/firefox/i) || ( navigator.userAgent.match(/(iPad|iPhone|iPod)/g)) || (document.all && document.querySelector) || ('-ms-scroll-limit' in document.documentElement.style && '-ms-ime-align' in document.documentElement.style)){
-document.write('<style type="text/css"> @font-face { font-family: \'sbe-ico\'; src:url(\'http://sbe.com/content/themes/sbe/assets/font/sbe-ico.eot\'); src:url(\'http://sbe.com/content/themes/sbe/assets/font/sbe-ico.eot?#iefix\') format(\'embedded-opentype\'), url(\'http://sbe.com/content/themes/sbe/assets/font/sbe-ico.woff\') format(\'woff\'), url(\'http://sbe.com/content/themes/sbe/assets/font/sbe-ico.ttf\') format(\'truetype\'), url(\'http://sbe.com/content/themes/sbe/assets/font/sbe-ico.svg#sbe-ico\') format(\'svg\'); font-weight: normal; font-style: normal);}</style>');
+document.write('<style type="text/css"> @font-face { font-family: \'sbe-ico\'; src:url(\'http://sbe.com/content/themes/sbe/assets/font/fonts/sbe-ico.eot\'); src:url(\'http://sbe.com/content/themes/sbe/assets/font/fonts/sbe-ico.eot?#iefix\') format(\'embedded-opentype\'), url(\'http://sbe.com/content/themes/sbe/assets/font/fonts/sbe-ico.woff\') format(\'woff\'), url(\'http://sbe.com/content/themes/sbe/assets/font/fonts/sbe-ico.ttf\') format(\'truetype\'), url(\'http://sbe.com/content/themes/sbe/assets/font/fonts/sbe-ico.svg#sbe-ico\') format(\'svg\'); font-weight: normal; font-style: normal);}</style>');
 }
 var wp_template_directory = "http://sbe.com/content/themes/sbe";
 </script>
+
 <script type="text/javascript">
 //<![CDATA[
 ajaxurl = 'http://sbe.com/wp-admin/admin-ajax.php';
 //]]>
 </script>
-<script type="text/javascript">
-nightlifeURL = "http://play.sbe.com/";
-</script>
-<meta name="google-site-verification" content="qbHXCwz9xq0Fa1oZTVXY6EnOFQ5EgftwNBjVpeYLn2A">
+<script type="text/javascript">nightlifeURL = "http://play.sbe.com/"</script><meta name="google-site-verification" content="qbHXCwz9xq0Fa1oZTVXY6EnOFQ5EgftwNBjVpeYLn2A">
 <meta name="msvalidate.01" content="F2755313519F06188F14B44E05940408">
 <!-- enviroment production -->
 <link rel="shortlink" href="http://sbe.com/?p=5078">
 <!-- end head functions -->
+
+<meta name="google-translate-customization" content="cdbdf1a41b74ac25-566f480c359baf94-gd441eee11d8db1e7-7">
+
+
 </head>
 
-<body class="page page-id-5078 page-template-default hnews clearfix sbe.com site-id-1">
+<body class="page page-id-5078 page-template-default hnews clearfix translation-header-shown sbe.com site-id-1">
 
 <!-- borders and logo / header !-->
 
@@ -113,19 +120,23 @@ nightlifeURL = "http://play.sbe.com/";
 
 <a href="#" class="menu-trigger left-trigger hidden-desktop hidden-tablet unstyled"><i class="ico-reorder"></i><i class="close-x">×</i></a>
 
+<div class="header-buttons">
 
-<div id="plan-event" class="plan-event">
-  <a href="#rfp" title="Plan Your Event" class="btn plan-event-inner">Plan Your Event</a>
-</div>
+    <div class="header-translation">
+        <a href="#" title="Translate Site" class="google_translate_trigger">
+            <i class="ico-globe"></i>
+        </a>
+    </div>
 
-<div class="make-reservation" id="make-reservation">
-  <a href="#" title="Make A Reservation" class="btn" data-reservations-open="#reservation_form">Book Now</a>
-</div>
-<div class="header-search">
-  <a href="#" title="Search" id="toggle-search" class="btn gray-solid" data-toggle="closed"><i class="ico-search"></i><i class="close-x">×</i><span class="visuallyhidden">Search</span></a>
-</div>
-<div id="search-field-area" class="search-field-area">
-    <div class="s-form" id="s-form">
+    <div class="header-search">
+        <a href="#" title="Search" id="toggle-search" class="header-search-btn" data-toggle="closed">
+            <i class="ico-search"></i>
+            <span class="visuallyhidden">Search</span>
+        </a>
+    </div>
+
+    <div id="search-field-area" class="search-field-area">
+      <div class="s-form" id="s-form">
 	<form role="search" method="get" class="search-form" action="http://sbe.com/">
 		<label>
 			<span class="screen-reader-text">Search for:</span>
@@ -138,14 +149,524 @@ to Search">
 	</form>
 </div>
 <div id="search-results" class="search-results row"></div>
+    </div>
+    
+    <div class="make-reservation" id="make-reservation">
+        <a href="#" title="Make A Reservation" class="btn" data-reservations-open="#reservation_form">Book Now</a>
+        <div id="reservation_form" class="hide">
+
+  <label for="_venue" class="hide">Venue</label>
+  <div class="dl-menuwrapper" id="venue_wrapper" style="">
+    <input class="dl-trigger tip-plus" type="text" name="_venue" id="_venue" placeholder="Select a Venue" readonly="" autocomplete="off" data-value="" data-validate-value-presence="Please select a venue">
+    <!-- reservation form generated on Tue, 09 Jun 2015 22:45:30 +0000 by 127.0.0.1 --><ul class="dl-menu">
+<li><a href="#" data-city-name="Los Angeles">Los Angeles</a>
+<ul class="dl-submenu">
+<li><a href="#" data-type-city="Los Angeles - Hotels">Hotels</a>
+<ul class="dl-submenu">
+<li data-switch-screen="#reservations_hotels" data-value="starwood,3171" data-city="los-angeles" data-direct-id="2~291" data-tkt-mob="false"><a href="#">SLS Beverly Hills</a>
+</li>
+<li data-switch-screen="#reservations_hotels" data-value="synxis,29039,10166" data-city="los-angeles" data-direct-id="2~367" data-tkt-mob="false"><a href="#">The Redbury Hollywood</a>
+</li>
+</ul>
+</li>
+<li><a href="#" data-type-city="Los Angeles - Restaurants">Restaurants</a>
+<ul class="dl-submenu">
+<li data-switch-screen="#reservations_restaurants" data-value="48526,mindate=2015/01/01,open=6:00 PM,close=11:59 PM,maxguests=11" data-city="los-angeles" data-direct-id="3~1042" data-tkt-mob="false"><a href="#">Cleo Hollywood</a>
+</li>
+<li data-switch-screen="#reservations_restaurants" data-value="145591,mindate=2014/07/18,open=11:00 AM,close=11:00 PM,maxguests=11" data-city="los-angeles" data-direct-id="3~7759" data-tkt-mob="false"><a href="#">Hyde SUNSET Kitchen + Cocktails</a>
+</li>
+<li data-switch-screen="#reservations_restaurants" data-value="17581,mindate=2015/01/01,open=11:30 AM,close=11:59 PM,maxguests=11" data-city="los-angeles" data-direct-id="3~737" data-tkt-mob="false"><a href="#">Katsuya Brentwood</a>
+</li>
+<li data-switch-screen="#reservations_restaurants" data-value="18376,mindate=2015/01/01,open=11:30 AM,close=11:59 PM,maxguests=11" data-city="los-angeles" data-direct-id="3~733" data-tkt-mob="false"><a href="#">Katsuya Glendale</a>
+</li>
+<li data-switch-screen="#reservations_restaurants" data-value="16369,mindate=2015/01/01,open=11:30 AM,close=11:59 PM,maxguests=11" data-city="los-angeles" data-direct-id="3~729" data-tkt-mob="false"><a href="#">Katsuya Hollywood</a>
+</li>
+<li data-switch-screen="#reservations_restaurants" data-value="31348,mindate=2015/01/01,open=11:30 AM,close=11:00 PM,maxguests=11" data-city="los-angeles" data-direct-id="3~725" data-tkt-mob="false"><a href="#">Katsuya L.A. Live</a>
+</li>
+<li data-switch-screen="#reservations_restaurants" data-value="24940,mindate=2015/01/01,open=5:30 PM,close=11:59 PM,maxguests=11" data-city="los-angeles" data-direct-id="3~271" data-tkt-mob="false"><a href="#">The Bazaar by José Andrés Beverly Hills</a>
+</li>
+<li data-switch-screen="#reservations_restaurants" data-value="27535,mindate=2015/01/01,open=11:00 AM,close=11:30 PM,maxguests=11" data-city="los-angeles" data-direct-id="3~184" data-tkt-mob="false"><a href="#">Tres by José Andrés</a>
+</li>
+</ul>
+</li>
+<li><a href="#" data-type-city="Los Angeles - Nightlife">Nightlife</a>
+<ul class="dl-submenu">
+<li data-switch-screen="#reservations_nightlife" data-value="create,es_neYLZ0LWBUeb3ZB,los-angeles" data-city="los-angeles" data-direct-id="5~69" data-tkt-mob="true"><a href="#">Create Nightclub</a>
+</li>
+<li data-switch-screen="#reservations_nightlife" data-value="Greystone-Manor,es_Q9wCnRXB3MJD1zV,los-angeles" data-city="los-angeles" data-direct-id="5~236" data-tkt-mob="true"><a href="#">Greystone Manor</a>
+</li>
+<li data-switch-screen="#reservations_nightlife" data-value="hydestaples,es_aXYjw9cl1EekFTs,los-angeles" data-city="los-angeles" data-direct-id="5~144" data-tkt-mob="true"><a href="#">Hyde Lounge at Staples Center</a>
+</li>
+<li data-switch-screen="#reservations_nightlife" data-value="The-Abbey-Food-and-Bar,es_QqWc46OSUYZBmaa,los-angeles" data-city="los-angeles" data-direct-id="5~248" data-tkt-mob="true"><a href="#">The Abbey Food &amp; Bar</a>
+</li>
+<li data-switch-screen="#reservations_nightlife" data-value="Library-at-the-Redbury,es_Ceb3TH8jE0nQLun​,los-angeles" data-city="los-angeles" data-direct-id="5~242" data-tkt-mob="true"><a href="#">The Library</a>
+</li>
+<li data-switch-screen="#reservations_nightlife" data-value="The-Sayers-Club,es_P2T2Q7TsUB,los-angeles" data-city="los-angeles" data-direct-id="5~580" data-tkt-mob="true"><a href="#">The Sayers Club Hollywood</a>
+</li>
+<li data-switch-screen="#reservations_nightlife" data-value="XIV-Summer-Sessions,es_wh6kWNfMy4HNw9o,los-angeles" data-city="los-angeles" data-direct-id="5~230" data-tkt-mob="true"><a href="#">XIV Sessions</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#" data-city-name="Miami">Miami</a>
+<ul class="dl-submenu">
+<li><a href="#" data-type-city="Miami - Hotels">Hotels</a>
+<ul class="dl-submenu">
+<li data-switch-screen="#reservations_hotels" data-value="phg,MIASB" data-city="miami" data-direct-id="2~354" data-tkt-mob="false"><a href="#">SLS South Beach</a>
+</li>
+<li data-switch-screen="#reservations_hotels" data-value="synxis,26021,10237,shell=MIARM" data-city="miami" data-direct-id="2~152" data-tkt-mob="true"><a href="#">The Raleigh Miami Beach</a>
+</li>
+<li data-switch-screen="#reservations_hotels" data-value="synxis,60179,10166" data-city="miami" data-direct-id="2~377" data-tkt-mob="false"><a href="#">The Redbury South Beach</a>
+</li>
+</ul>
+</li>
+<li><a href="#" data-type-city="Miami - Restaurants">Restaurants</a>
+<ul class="dl-submenu">
+<li data-switch-screen="#reservations_restaurants" data-value="152152,mindate=2015/01/01,open=6:00 PM,close=11:59 PM,maxguests=11" data-city="miami" data-direct-id="3~8184" data-tkt-mob="false"><a href="#">Cleo South Beach</a>
+</li>
+<li data-switch-screen="#reservations_restaurants" data-value="79189,mindate=2015/01/01,open=7:00 PM,close=11:59 PM,maxguests=11" data-city="miami" data-direct-id="3~385" data-tkt-mob="false"><a href="#">Katsuya South Beach</a>
+</li>
+<li data-switch-screen="#reservations_restaurants" data-value="6243,mindate=2015/01/01,open=7:00 AM,close=11:00 PM,maxguests=11" data-city="miami" data-direct-id="3~182" data-tkt-mob="false"><a href="#">Restaurant Michael Schwartz</a>
+</li>
+<li data-switch-screen="#reservations_restaurants" data-value="79177,mindate=2015/01/01,open=6:00 PM,close=11:59 PM,maxguests=11" data-city="miami" data-direct-id="3~700" data-tkt-mob="false"><a href="#">The Bazaar by José Andrés South Beach</a>
+</li>
+</ul>
+</li>
+<li><a href="#" data-type-city="Miami - Nightlife">Nightlife</a>
+<ul class="dl-submenu">
+<li data-switch-screen="#reservations_nightlife" data-value="hydeaaa,es_mBQFzqt3BS5gt9h,miami" data-city="miami" data-direct-id="5~134" data-tkt-mob="true"><a href="#">Hyde at AmericanAirlines Arena</a>
+</li>
+<li data-switch-screen="#reservations_nightlife" data-value="hydesouthbeach,es_tdVG6L9zsDB5HNw,miami" data-city="miami" data-direct-id="5~142" data-tkt-mob="true"><a href="#">Hyde Beach</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#" data-city-name="Las Vegas">Las Vegas</a>
+<ul class="dl-submenu">
+<li><a href="#" data-type-city="Las Vegas - Hotels">Hotels</a>
+<ul class="dl-submenu">
+<li data-switch-screen="#reservations_hotels" data-value="micros,sls-lasvegas,mobile-sls-lasvegas" data-city="las-vegas" data-direct-id="2~362" data-tkt-mob="false"><a href="#">SLS Las Vegas Hotel &amp; Casino</a>
+</li>
+</ul>
+</li>
+<li><a href="#" data-type-city="Las Vegas - Restaurants">Restaurants</a>
+<ul class="dl-submenu">
+<li data-switch-screen="#reservations_restaurants" data-value="146122,mindate=2014/08/23,open=5:00 PM,close=11:59 PM,maxguests=11" data-city="las-vegas" data-direct-id="3~6207" data-tkt-mob="false"><a href="#">Bazaar Meat by José Andrés Las Vegas</a>
+</li>
+<li data-switch-screen="#reservations_restaurants" data-value="146125,mindate=2014/08/23,open=6:00 PM,close=11:30 PM,maxguests=11" data-city="las-vegas" data-direct-id="3~6199" data-tkt-mob="false"><a href="#">Cleo Las Vegas</a>
+</li>
+<li data-switch-screen="#reservations_restaurants" data-value="118309 ,mindate=2015/01/01,open=11:30 AM,close=3:00 AM,maxguests=11" data-city="las-vegas" data-direct-id="3~6939" data-tkt-mob="false"><a href="#">Double Barrel Roadhouse</a>
+</li>
+<li data-switch-screen="#reservations_restaurants" data-value="146128,mindate=2014/08/23,open=6:00 PM,close=11:59 PM,maxguests=11" data-city="las-vegas" data-direct-id="3~6191" data-tkt-mob="false"><a href="#">Katsuya Las Vegas</a>
+</li>
+<li data-switch-screen="#reservations_restaurants" data-value="146134,mindate=2014/08/23,open=12:00 PM,close=10:00 PM,maxguests=11" data-city="las-vegas" data-direct-id="3~7238" data-tkt-mob="false"><a href="#">Ku Noodle by José Andrés</a>
+</li>
+<li data-switch-screen="#reservations_restaurants" data-value="146140,mindate=2014/08/23,open=10:00 AM,close=11:59 PM,maxguests=11" data-city="las-vegas" data-direct-id="3~7243" data-tkt-mob="false"><a href="#">Northside Café</a>
+</li>
+<li data-switch-screen="#reservations_restaurants" data-value="150757,mindate=2014/08/23,open=10:00 AM,close=11:59 PM,maxguests=11" data-city="las-vegas" data-direct-id="3~186" data-tkt-mob="false"><a href="#">Umami Burger, Beer Garden &amp; Sports Book</a>
+</li>
+<li data-switch-screen="#reservations_restaurants" data-value="150757,open=10:00 AM,close=11:59 PM,maxguests=11" data-city="las-vegas" data-direct-id="3~6216" data-tkt-mob="false"><a href="#">Umami Las Vegas</a>
+</li>
+</ul>
+</li>
+<li><a href="#" data-type-city="Las Vegas - Nightlife">Nightlife</a>
+<ul class="dl-submenu">
+<li data-switch-screen="#reservations_nightlife" data-value="doublebarrel,es_5nGI3AHKMT,las-vegas" data-city="las-vegas" data-direct-id="5~234" data-tkt-mob="true"><a href="#">Double Barrel Roadhouse</a>
+</li>
+<li data-switch-screen="#reservations_nightlife" data-value="hydebellagio,es_C7LI3uC941,las-vegas" data-city="las-vegas" data-direct-id="5~136" data-tkt-mob="true"><a href="#">Hyde Bellagio</a>
+</li>
+<li data-switch-screen="#reservations_nightlife" data-value="lifenightclub,es_CEDRW091yZ,las-vegas" data-city="las-vegas" data-direct-id="5~6583" data-tkt-mob="true"><a href="#">LiFE</a>
+</li>
+<li data-switch-screen="#reservations_nightlife" data-value="sayersclub,es_TsD0CJ36EG,las-vegas" data-city="las-vegas" data-direct-id="5~6170" data-tkt-mob="true"><a href="#">The Sayers Club Las Vegas</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#" data-city-name="Bahamas">Bahamas</a>
+<ul class="dl-submenu">
+<li><a href="#" data-type-city="Bahamas - Hotels">Hotels</a>
+<ul class="dl-submenu">
+<li data-switch-screen="#reservations_hotels" data-value="synxis,64042,12211,shell=NASBA" data-city="bahamas" data-direct-id="2~6838" data-tkt-mob="false"><a href="#">SLS LUX at Baha Mar</a>
+</li>
+</ul>
+</li>
+<li><a href="#" data-type-city="Bahamas - Restaurants">Restaurants</a>
+<ul class="dl-submenu">
+<li data-switch-screen="#reservations_restaurants" data-value="166018,mindate=2015/09/01,open=7:00 AM,close=11:59 PM,maxguests=11" data-city="bahamas" data-direct-id="3~9383" data-tkt-mob="false"><a href="#">Cleo Baha Mar</a>
+</li>
+<li data-switch-screen="#reservations_restaurants" data-value="166948,mindate=2015/09/01,open=11:30 AM,close=11:59 PM,maxguests=11" data-city="bahamas" data-direct-id="3~9402" data-tkt-mob="false"><a href="#">Katsuya Baha Mar</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#" data-city-name="Hallandale">Hallandale</a>
+<ul class="dl-submenu">
+<li><a href="#" data-type-city="Hallandale - Restaurants">Restaurants</a>
+<ul class="dl-submenu">
+<li data-switch-screen="#reservations_restaurants" data-value="171472,mindate=2015/06/01,open=10:00 AM,close=11:59 PM,maxguests=11" data-city="hallandale" data-direct-id="3~9877" data-tkt-mob="false"><a href="#">Hyde Beach Kitchen + Cocktails</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<!-- reservation form cached -->  </div>
+
+  <div id="_instructions" class="small_text"></div>
+
+  
+  <div id="reset_screen" class="screen hide" data-instructions="">
+    <div id="reset_reservations" data-switch-screen="#reset_screen"></div>
+  </div>
+
+  <div id="reservations_hotels" class="screen hide" data-instructions="Select dates and enter guest info">
+
+    <label for="_date_check_in" class="hide">Check In Date</label>
+    <div class="tip_input_wrapper"><input name="_date_check_in" id="_date_check_in" type="text" class="tip-calendar" autocomplete="off" placeholder="Check In Date" readonly="" data-validate-presence="Please select a date"></div>
+
+    <label for="_date_check_out" class="hide">Check Out Date</label>
+    <div class="tip_input_wrapper"><input name="_date_check_out" id="_date_check_out" type="text" class="tip-calendar" autocomplete="off" placeholder="Check Out Date" readonly="" data-validate-presence="Please select a date"></div>
+
+    <label for="_adults" class="hide">Guests</label>
+    <div class="dl-menuwrapper">
+      <input name="_adults" id="_adults" type="text" autocomplete="off" placeholder="Adults" class="dl-trigger tip-plus" readonly="" data-validate-presence="Please choose the number of adults">
+      <ul class="dl-menu">
+        <li><a href="#">1</a></li>
+        <li><a href="#">2</a></li>
+        <li><a href="#">3</a></li>
+        <li><a href="#">4</a></li>
+        <li><a href="#">5</a></li>
+        <li><a href="#">6</a></li>
+        <li><a href="#">7</a></li>
+      </ul>
+    </div>
+
+    <label for="_promo" class="hide">Promo Code</label>
+    <div class="tip_input_wrapper"><input name="_promo" id="_promo" type="text" autocomplete="off" placeholder="Promo Code"></div>
+
+    <button class="submit">Make a Reservation</button>
+
+  </div><!--/reservations_hotels-->
+
+  <div id="reservations_restaurants" class="screen hide" data-instructions="Select date and time, and enter guest info">
+
+    <label for="_date" class="hide">Date</label>
+    <div class="tip_input_wrapper">
+        <input name="_date" id="_date" type="text" class="minputhide tip-calendar" autocomplete="off" placeholder="Date" readonly="" data-validate-presence="Please select a date">
+    </div>
+
+    <label for="_time" class="hide">Time</label>
+    <div class="dl-menuwrapper">
+      <input name="_time" id="_time" type="text" autocomplete="off" placeholder="Time" class="minputhide dl-trigger tip-plus" readonly="" data-validate-presence="Please select a time">
+      <ul class="dl-menu">
+        <li><a href="#">12:00 AM</a></li>
+        <li><a href="#">12:30 AM</a></li>
+        <li><a href="#">1:00 AM</a></li>
+        <li><a href="#">1:30 AM</a></li>
+        <li><a href="#">2:00 AM</a></li>
+        <li><a href="#">2:30 AM</a></li>
+        <li><a href="#">3:00 AM</a></li>
+        <li><a href="#">3:30 AM</a></li>
+        <li><a href="#">4:00 AM</a></li>
+        <li><a href="#">4:30 AM</a></li>
+        <li><a href="#">5:00 AM</a></li>
+        <li><a href="#">5:30 AM</a></li>
+        <li><a href="#">6:00 AM</a></li>
+        <li><a href="#">6:30 AM</a></li>
+        <li><a href="#">7:00 AM</a></li>
+        <li><a href="#">7:30 AM</a></li>
+        <li><a href="#">8:00 AM</a></li>
+        <li><a href="#">8:30 AM</a></li>
+        <li><a href="#">9:00 AM</a></li>
+        <li><a href="#">9:30 AM</a></li>
+        <li><a href="#">10:00 AM</a></li>
+        <li><a href="#">10:30 AM</a></li>
+        <li><a href="#">11:00 AM</a></li>
+        <li><a href="#">11:30 AM</a></li>
+        <li><a href="#">12:00 PM</a></li>
+        <li><a href="#">12:30 PM</a></li>
+        <li><a href="#">1:00 PM</a></li>
+        <li><a href="#">1:30 PM</a></li>
+        <li><a href="#">2:00 PM</a></li>
+        <li><a href="#">2:30 PM</a></li>
+        <li><a href="#">3:00 PM</a></li>
+        <li><a href="#">3:30 PM</a></li>
+        <li><a href="#">4:00 PM</a></li>
+        <li><a href="#">4:30 PM</a></li>
+        <li><a href="#">5:00 PM</a></li>
+        <li><a href="#">5:30 PM</a></li>
+        <li><a href="#">6:00 PM</a></li>
+        <li><a href="#">6:30 PM</a></li>
+        <li><a href="#">7:00 PM</a></li>
+        <li><a href="#">7:30 PM</a></li>
+        <li><a href="#">8:00 PM</a></li>
+        <li><a href="#">8:30 PM</a></li>
+        <li><a href="#">9:00 PM</a></li>
+        <li><a href="#">9:30 PM</a></li>
+        <li><a href="#">10:00 PM</a></li>
+        <li><a href="#">10:30 PM</a></li>
+        <li><a href="#">11:00 PM</a></li>
+        <li><a href="#">11:30 PM</a></li>
+        <li><a href="#">11:59 PM</a></li>
+      </ul>
+    </div>
+
+    <label for="_guests" class="hide">Guests</label>
+    <div class="dl-menuwrapper">
+      <input name="_guests" id="_guests" type="text" autocomplete="off" placeholder="Guests" class="minputhide dl-trigger tip-plus" readonly="" data-value="" data-validate-value-presence="Please choose your number of guests">
+      <ul class="dl-menu" id="dl-menu-guests">
+        <li data-value="1"><a href="#">1 person</a></li>
+        <li data-value="2"><a href="#">2 people</a></li>
+        <li data-value="3"><a href="#">3 people</a></li>
+        <li data-value="4"><a href="#">4 people</a></li>
+        <li data-value="5"><a href="#">5 people</a></li>
+        <li data-value="6"><a href="#">6 people</a></li>
+        <li data-value="7"><a href="#">7 people</a></li>
+        <li data-value="8"><a href="#">8 people</a></li>
+        <li data-value="9"><a href="#">9 people</a></li>
+        <li data-value="10"><a href="#">10 people</a></li>
+        <li data-value="11"><a href="#">11 people</a></li>
+        <li data-value="12"><a href="#">12 people</a></li>
+        <li data-value="13"><a href="#">13 people</a></li>
+        <li data-value="14"><a href="#">14 people</a></li>
+        <li data-value="15"><a href="#">15 people</a></li>
+        <li data-value="16"><a href="#">16 people</a></li>
+        <li data-value="17"><a href="#">17 people</a></li>
+        <li data-value="18"><a href="#">18 people</a></li>
+        <li data-value="19"><a href="#">19 people</a></li>
+        <li data-value="20"><a href="#">20 people</a></li>
+        <li data-value="21"><a href="#">21 people</a></li>
+        <li data-value="22"><a href="#">22 people</a></li>
+        <li data-value="23"><a href="#">23 people</a></li>
+        <li data-value="24"><a href="#">24 people</a></li>
+        <li data-value="25"><a href="#">25 people</a></li>
+        <li data-value="26"><a href="#">26 people</a></li>
+        <li data-value="27"><a href="#">27 people</a></li>
+        <li data-value="28"><a href="#">28 people</a></li>
+        <li data-value="29"><a href="#">29 people</a></li>
+        <li data-value="30"><a href="#">30 people</a></li>
+      </ul>
+    </div>
+
+    <div class="plan_event small_text">For parties <span id="restaurants_party_size">12</span> or larger <a href="#rfp">plan your&nbsp;event</a>.</div>
+
+    <button class="submit">Make a Reservation</button>
+
+  </div><!--/reservations_restaurants -->
+
+  <div id="reservations_nightlife" class="screen hide" data-instructions="Select a date to view events">
+
+    <div class="loadingO"></div>
+
+    <div id="no_upcoming_events" class="hide clearfix">
+      <p>Sorry, there are no upcoming events</p>
+    </div>
+
+    <div id="events_for_date"></div>
+
+  </div><!--/reservations_nightlife-->
+
+  <form id="opentable_form" action="http://www.opentable.com/opentables.aspx" method="get" class="hide" target="_blank">
+    <h4>Opentable Form</h4>
+
+    <br><label>t (hidden field)</label>
+    <input name="t" value="single" type="text" readonly="" autocomplete="off">
+
+    <br><label>rtype (hidden field)</label>
+    <input name="rtype" value="ism_mod" type="text" readonly="" autocomplete="off">
+
+    <br><label>restfed (hidden field)</label>
+    <input name="restref" type="text" autocomplete="off">
+
+    <br><label>rid (restaurant id)</label>
+    <input name="rid" type="text" autocomplete="off">
+
+    <br><label>d (date/time)</label>
+    <input name="d" type="text" autocomplete="off">
+
+    <br><label>p (number of guests)</label>
+    <input name="p" type="text" autocomplete="off">
+
+    <br><input type="submit">
+  </form>
+
+  <form id="phg_form" action="https://www.phgsecure.com/IBE/bookingRedirect.ashx" method="post" class="hide" target="_blank">
+    <h4>phg form</h4>
+
+    <input type="text" readonly="" autocomplete="off" name="utm_source" value="sbe.com">
+<input type="text" readonly="" autocomplete="off" name="utm_medium" value="reservation%20widget">
+<input type="text" readonly="" autocomplete="off" name="utm_campaign" value="website">
+    <br><label>propertyCode</label>
+    <input name="propertyCode" type="text" autocomplete="off">
+
+    <br><label>arrivalDate</label>
+    <input name="arrivalDate" type="text" autocomplete="off">
+
+    <br><label>departureDate</label>
+    <input name="departureDate" type="text" autocomplete="off">
+
+    <br><label>Rooms</label>
+    <input name="Rooms" type="text" autocomplete="off" value="1">
+
+    <br><label>numberOfAdults</label>
+    <input name="numberOfAdults" type="text" autocomplete="off">
+
+    <br><label>promo</label>
+    <input type="text" autocomplete="off" name="promo">
+
+    <br><input type="submit">
+  </form>
+
+  <form id="starwood_form" action="http://www.starwoodhotels.com/luxury/rates/room.html" method="get" class="hide" target="_blank">
+    <h4>starwood form</h4>
+
+    <br><label>propertyId</label>
+    <input type="text" autocomplete="off" name="propertyId">
+
+    <br><label>arrivalDate</label>
+    <input type="text" autocomplete="off" name="arrivalDate">
+
+    <br><label>departureDate</label>
+    <input type="text" autocomplete="off" name="departureDate">
+
+    <br><label>numberOfAdults</label>
+    <input type="text" autocomplete="off" name="numberOfAdults">
+
+    <br><label>rp (promo, starts with 'RC:')</label>
+    <input type="text" name="rp" autocomplete="off" value="RC%3A">
+
+    <br><label>ES (tracker)</label>
+    <input type="text" name="ES" autocomplete="off" value="SBE_SITE_BOOK_LC_3171_WWC">
+
+    <br><input type="submit">
+  </form>
+
+  <form id="starwood_rate_form" action="http://www.starwoodhotels.com/fourpoints/search/ratelist.html" method="post" class="hide" target="_blank">
+    <h4>starwood rate form</h4>
+
+    <br><label>stateProvince</label>
+    <input type="text" name="stateProvince" autocomplete="off">
+
+    <br><label>departureDate</label>
+    <input type="text" name="departureDate" autocomplete="off">
+
+    <br><label>ctxRateList</label>
+    <input type="text" name="ctxRateList" value="" readonly="">
+
+    <br><label>country</label>
+    <input type="text" name="country" value="US" readonly="">
+
+    <br><label>arrivalDate</label>
+    <input type="text" name="arrivalDate" autocomplete="off">
+
+    <br><label>numberOfRooms</label>
+    <input type="text" name="numberOfRooms" autocomplete="off" value="1">
+
+    <br><label>numberOfAdults</label>
+    <input type="text" name="numberOfAdults" autocomplete="off">
+
+    <br><label>propertyID</label>
+    <input type="text" name="propertyID" autocomplete="off">
+
+    <br><label>rp (promo, starts with 'RC:')</label>
+    <input type="text" name="rp" autocomplete="off" value="RC%3A">
+
+    <br><input type="submit">
+  </form>
+
+  <form id="synxis_form" action="https://gc.synxis.com/rez.aspx" method="get" class="hide" target="_blank">
+    <h4>synxis form</h4>
+
+    <br><label>start (hidden value to skip first step)</label>
+    <input type="text" autocomplete="off" name="start" readonly="" value="111">
+
+    <input type="text" readonly="" autocomplete="off" name="utm_source" value="sbe.com">
+<input type="text" readonly="" autocomplete="off" name="utm_medium" value="reservation%20widget">
+<input type="text" readonly="" autocomplete="off" name="utm_campaign" value="website">
+    <br><label>Hotel</label>
+    <input type="text" autocomplete="off" name="Hotel">
+
+    <br><label>Chain</label>
+    <input type="text" autocomplete="off" name="Chain">
+
+    <br><label>arrive</label>
+    <input type="text" autocomplete="off" name="arrive">
+
+    <br><label>depart</label>
+    <input type="text" autocomplete="off" name="depart">
+
+    <br><label>Rooms</label>
+    <input type="text" autocomplete="off" name="Rooms" value="1">
+
+    <br><label>adult</label>
+    <input type="text" autocomplete="off" name="adult">
+
+    <br><label>promo</label>
+    <input type="text" autocomplete="off" name="promo">
+
+    <br><label>shell</label>
+    <input type="text" autocomplete="off" name="shell">
+
+    <br><label>template</label>
+    <input type="text" autocomplete="off" name="template">
+
+    <br><input type="submit">
+  </form>
+
+  <form id="micros_form" action="" data-action-suffix=".webhotel.microsdc.us/bp/availStart.jsp" data-mobile-action-suffix=".webhotel.microsdc.us/" method="get" class="hide" target="_blank">
+    <h4>micros form</h4>
+
+    <input type="text" readonly="" autocomplete="off" name="utm_source" value="sbe.com">
+<input type="text" readonly="" autocomplete="off" name="utm_medium" value="reservation%20widget">
+<input type="text" readonly="" autocomplete="off" name="utm_campaign" value="website">
+    <br><label>checkinYear</label>
+    <input type="text" autocomplete="off" name="checkinYear">
+
+    <br><label>checkinMonth</label>
+    <input type="text" autocomplete="off" name="checkinMonth">
+
+    <br><label>checkinDay</label>
+    <input type="text" autocomplete="off" name="checkinDay">
+
+    <br><label>checkoutYear</label>
+    <input type="text" autocomplete="off" name="checkoutYear">
+
+    <br><label>checkoutMonth</label>
+    <input type="text" autocomplete="off" name="checkoutMonth">
+
+    <br><label>checkoutDay</label>
+    <input type="text" autocomplete="off" name="checkoutDay">
+
+    <br><label>numberOfChildren</label>
+    <input type="text" autocomplete="off" name="numberOfChildren" value="1">
+
+    <br><label>numberOfAdults</label>
+    <input type="text" autocomplete="off" name="numberOfAdults">
+
+    <br><label>promoCode</label>
+    <input type="text" autocomplete="off" name="promoCode">
+
+    <br><input type="submit">
+  </form>
+
 </div>
+    </div>
+    
+    <div id="plan-event" class="plan-event">
+        <a href="#rfp" title="Plan Your Event" class="btn plan-event-inner">Plan Your Event</a>
+    </div>
+</div>
+
 <div class="border top" id="site-border-top"></div>
 <div class="visible border left "></div>
 <div class="border right"></div>
 <!-- end borders and logo / header!-->
 
 <!-- openers !-->
-
 <div class="opener theblog">
   <a href="/blog" class="show top bottom item-click">
     <i class="ico-theblog-stkd"></i>
@@ -164,23 +685,22 @@ to Search">
 	<li class="tab l-2  menu-sls-las-vegas-hotel-casino"><a class="item-click track-event" href="/hotels/slslasvegas">SLS Las Vegas Hotel &amp; Casino</a></li>
 	<li class="tab l-2  menu-sls-south-beach"><a class="item-click track-event" href="/hotels/slssouthbeach">SLS South Beach</a></li>
 	<li class="tab pending l-2  menu-sls-lux-at-baha-mar-2015"><a class="item-click track-event" href="http://www.sbe.com/hotels/locations/sls-baha-mar-hotel-residences/">SLS LUX at Baha Mar 2015</a></li>
-	<li class="tab pending l-2  menu-sls-park-avenue-new-york-2015"><a class="item-click track-event" href="/hotels/locations/sls-park-avenue/">SLS Park Avenue New York 2015</a></li>
+	<li class="tab pending l-2  menu-sls-park-avenue-new-york-2016"><a class="item-click track-event" href="/hotels/locations/sls-park-avenue/">SLS Park Avenue New York 2016</a></li>
 	<li class="tab pending l-2  menu-sls-brickell-hotel-residences-miami-2016"><a class="item-click track-event" href="/hotels/locations/sls-brickell-hotel-residences/">SLS Brickell Hotel &amp; Residences Miami 2016</a></li>
-	<li class="tab pending l-2  menu-sls-lux-brickell-2016"><a class="item-click track-event" href="/hotels/locations/sls-lux-brickell/">SLS LUX Brickell 2016</a></li>
-	<li class="tab pending l-2  menu-sls-philadelphia-2016"><a class="item-click track-event" href="/hotels/locations/sls-hotel-and-residences-philadelphia/">SLS Philadelphia 2016</a></li>
-	<li class="tab pending l-2  menu-sls-seattle-2016"><a class="item-click track-event" href="/hotels/locations/sls-seattle/">SLS Seattle 2016</a></li>
-	<li class="tab pending l-2  menu-sls-beijing-2017"><a class="item-click track-event" href="/hotels/locations/sls-beijing/">SLS Beijing 2017</a></li>
+	<li class="tab pending l-2  menu-sls-lux-brickell-2017"><a class="item-click track-event" href="/hotels/locations/sls-lux-brickell/">SLS LUX Brickell 2017</a></li>
+	<li class="tab pending l-2  menu-sls-lux-philadelphia-2017"><a class="item-click track-event" href="/hotels/locations/sls-hotel-and-residences-philadelphia/">SLS LUX Philadelphia 2017</a></li>
+	<li class="tab pending l-2  menu-sls-seattle-2017"><a class="item-click track-event" href="/hotels/locations/sls-seattle/">SLS Seattle 2017</a></li>
+	<li class="tab pending l-2  menu-sls-mexico-2017"><a class="item-click track-event" href="http://sbe.com/hotels/brands/sls-mexico/">SLS Mexico 2017</a></li>
 	<li class="l-2  menu-the-redbury-hotels"><a class="item-click track-event" href="/hotels/theredbury">The Redbury Hotels</a></li>
 	<li class="tab l-2  menu-the-redbury-hollywood"><a class="item-click track-event" href="/hotels/theredbury-hollywood">The Redbury Hollywood</a></li>
 	<li class="tab l-2  menu-the-redbury-south-beach"><a class="item-click track-event" href="/hotels/theredbury-southbeach">The Redbury South Beach</a></li>
-	<li class="l-2  menu-the-raleigh-south-beach"><a class="item-click track-event" href="/hotels/raleighhotel">The Raleigh South Beach</a></li>
+	<li class="l-2  menu-the-raleigh-miami-beach"><a class="item-click track-event" href="/hotels/raleighhotel">The Raleigh Miami Beach</a></li>
 	<li class="l-2  menu-hyde-hotels-residences-2016"><a class="item-click track-event" href="/hotels/brands/hyde-hotel-residences-miami-2016/">Hyde Hotels &amp; Residences 2016</a></li>
 </ul>
 </div><!--end lvl 0!--></li>
 <li class="l-1 opens menu-restaurants"><a class="icon-angle-left" data-target="#" href="#">Restaurants</a><!--start lvl 0!--><div class="mp-level" data-level="2">
 <a class="mp-back icon-caret-left" href="#">back</a>
 <ul>
-	<li class="l-2  menu-new-years-eve"><a class="item-click track-event" href="http://sbe.com/restaurants/brands/new-years-eve-2014/">New Year’s Eve</a></li>
 	<li class="l-2  menu-restaurants-overview"><a class="item-click track-event" href="/restaurants">Restaurants Overview</a></li>
 	<li class="l-2  menu-katsuya-by-starck"><a class="item-click track-event" href="/restaurants/katsuya">Katsuya by Starck</a></li>
 	<li class="tab l-2  menu-katsuya-brentwood"><a class="item-click track-event" href="/restaurants/locations/katsuya-brentwood/">Katsuya Brentwood</a></li>
@@ -190,6 +710,7 @@ to Search">
 	<li class="tab l-2  menu-katsuya-las-vegas"><a class="item-click track-event" href="http://sbe.com/restaurants/locations/katsuya-las-vegas/">Katsuya Las Vegas</a></li>
 	<li class="tab l-2  menu-katsuya-south-beach"><a class="item-click track-event" href="/restaurants/locations/katsuya-southbeach/">Katsuya South Beach</a></li>
 	<li class="tab l-2  menu-katsuya-middle-east"><a class="item-click track-event" href="/restaurants/locations/katsuya-kuwait/">Katsuya Middle East</a></li>
+	<li class="tab l-2  menu-katsuya-baha-mar"><a class="item-click track-event" href="http://sbe.com/restaurants/locations/katsuya-baha-mar/">Katsuya Baha Mar</a></li>
 	<li class="l-2  menu-the-bazaar-by-jose-andres"><a class="item-click track-event" href="/restaurants/thebazaar">The Bazaar by José Andrés</a></li>
 	<li class="tab l-2  menu-bazaar-meat-las-vegas"><a class="item-click track-event" href="http://sbe.com/restaurants/locations/bazaar-meat-las-vegas/">Bazaar Meat Las Vegas</a></li>
 	<li class="tab l-2  menu-the-bazaar-beverly-hills"><a class="item-click track-event" href="/restaurants/locations/thebazaar-beverlyhills/">The Bazaar Beverly Hills</a></li>
@@ -198,38 +719,38 @@ to Search">
 	<li class="tab l-2  menu-cleo-hollywood"><a class="item-click track-event" href="/restaurants/locations/cleo-hollywood/">Cleo Hollywood</a></li>
 	<li class="tab l-2  menu-cleo-las-vegas"><a class="item-click track-event" href="http://sbe.com/restaurants/locations/cleo-las-vegas/">Cleo Las Vegas</a></li>
 	<li class="tab l-2  menu-cleo-south-beach"><a class="item-click track-event" href="http://sbe.com/restaurants/locations/cleo-south-beach/">Cleo South Beach</a></li>
+	<li class="tab l-2  menu-cleo-baha-mar"><a class="item-click track-event" href="http://sbe.com/restaurants/locations/cleo-baha-mar/">Cleo Baha Mar</a></li>
 	<li class="l-2  menu-double-barrel-roadhouse"><a class="item-click track-event" href="/nightlife/doublebarrel/">Double Barrel Roadhouse</a></li>
-	<li class="l-2  menu-the-griddle-cafe"><a class="item-click track-event" href="http://sbe.com/restaurants/locations/the-griddle-cafe/">The Griddle Cafe</a></li>
-	<li class="l-2  menu-hyde-sunset-kitchen-cocktails"><a class="item-click track-event" href="http://sbe.com/restaurants/brands/hyde-sunset-kitchen-cocktails">Hyde Sunset Kitchen + Cocktails</a></li>
-	<li class="l-2  menu-ku-noodle"><a class="item-click track-event" href="http://sbe.com/restaurants/locations/ku-noodle">Ku Noodle</a></li>
+	<li class="l-2  menu-hyde"><a class="item-click track-event" href="http://sbe.com/nightlife/hyde">HYDE</a></li>
+	<li class="tab l-2  menu-hyde-beach-kitchen-cocktails"><a class="item-click track-event" href="http://sbe.com/restaurants/locations/hyde-beach-kitchen-cocktails/">Hyde Beach Kitchen + Cocktails</a></li>
+	<li class="tab l-2  menu-hyde-sunset-kitchen-cocktails"><a class="item-click track-event" href="http://sbe.com/restaurants/brands/hyde-sunset-kitchen-cocktails">Hyde Sunset Kitchen + Cocktails</a></li>
+	<li class="l-2  menu-ku-noodle-by-jose-andres"><a class="item-click track-event" href="http://sbe.com/restaurants/locations/ku-noodle">Ku Noodle by José Andrés</a></li>
 	<li class="l-2  menu-tres-by-jose-andres"><a class="item-click track-event" href="/restaurants/tres">Tres by José Andrés</a></li>
 	<li class="l-2  menu-restaurant-michael-schwartz"><a class="item-click track-event" href="/restaurants/restaurantmichaelschwartz">Restaurant Michael Schwartz</a></li>
+	<li class="l-2  menu-bungalow-beach-bar-grill"><a class="item-click track-event" href="http://sbe.com/restaurants/brands/bungalow-beach-bar-grill/">Bungalow Beach Bar &amp; Grill</a></li>
 	<li class="l-2  menu-800-degrees"><a class="item-click track-event" href="/restaurants/800degrees">800° Degrees</a></li>
 	<li class="l-2  menu-umami-burger"><a class="item-click track-event" href="/restaurants/umamiburger">Umami Burger</a></li>
 </ul>
 </div><!--end lvl 0!--></li>
-<li class="l-1 opens menu-nightlife"><a class="icon-angle-left" data-target="#" href="#">Nightlife</a><!--start lvl 0!--><div class="mp-level" data-level="2">
+<li class="active l-1 opens menu-nightlife"><a class="icon-angle-left" data-target="#" href="#">Nightlife</a><!--start lvl 0!--><div class="mp-level" data-level="2">
 <a class="mp-back icon-caret-left" href="#">back</a>
 <ul>
 	<li class="l-2  menu-nightlife-overview"><a class="item-click track-event" href="/nightlife">Nightlife Overview</a></li>
 	<li class="l-2  menu-the-abbey-food-bar"><a class="item-click track-event" href="/nightlife/theabbeyfoodandbar">The Abbey Food &amp; Bar</a></li>
 	<li class="l-2  menu-create-nightclub"><a class="item-click track-event" href="/nightlife/createnightclub">Create Nightclub</a></li>
 	<li class="l-2  menu-double-barrel-roadhouse"><a class="item-click track-event" href="/nightlife/doublebarrel/">Double Barrel Roadhouse</a></li>
-	<li class="l-2  menu-the-emerson-theatre"><a class="item-click track-event" href="/nightlife/emersontheatre">The Emerson Theatre</a></li>
-	<li class="l-2  menu-foxtail"><a class="item-click track-event" href="http://www.sbe.com/nightlife/brands/foxtail/">Foxtail</a></li>
+	<li class="l-2  menu-foxtail-pool-club"><a class="item-click track-event" href="http://www.sbe.com/nightlife/brands/foxtail/">Foxtail Pool Club</a></li>
 	<li class="tab l-2  menu-foxtail-nightclub"><a class="item-click track-event" href="http://sbe.com/nightlife/locations/foxtail-nightclub/">Foxtail Nightclub</a></li>
-	<li class="tab l-2  menu-foxtail-pool-club"><a class="item-click track-event" href="http://sbe.com/nightlife/locations/foxtail-pool-dayclub/">Foxtail Pool Club</a></li>
 	<li class="l-2  menu-greystone-manor"><a class="item-click track-event" href="/nightlife/greystonemanor">Greystone Manor</a></li>
 	<li class="l-2  menu-hyde"><a class="item-click track-event" href="/nightlife/hyde">Hyde</a></li>
 	<li class="tab l-2  menu-hyde-at-americanairlines-arena"><a class="item-click track-event" href="/nightlife/locations/hyde-aareana/">Hyde at AmericanAirlines Arena</a></li>
 	<li class="tab l-2  menu-hyde-beach"><a class="item-click track-event" href="/nightlife/locations/hyde-beach/">Hyde Beach</a></li>
 	<li class="tab l-2  menu-hyde-bellagio"><a class="item-click track-event" href="/nightlife/locations/hyde-bellagio/">Hyde Bellagio</a></li>
+	<li class="tab l-2  menu-hyde-beach-kitchen-cocktails"><a class="item-click track-event" href="http://sbe.com/restaurants/locations/hyde-beach-kitchen-cocktails/">Hyde Beach Kitchen + Cocktails</a></li>
 	<li class="tab l-2  menu-hyde-sunset-kitchen-cocktails"><a class="item-click track-event" href="http://sbe.com/restaurants/brands/hyde-sunset-kitchen-cocktails">Hyde Sunset Kitchen + Cocktails</a></li>
 	<li class="tab l-2  menu-hyde-lounge-at-staples-center"><a class="item-click track-event" href="/nightlife/locations/hyde-staplescenter/">Hyde Lounge at Staples Center</a></li>
 	<li class="l-2  menu-the-library"><a class="item-click track-event" href="/nightlife/thelibrary">The Library</a></li>
-	<li class="l-2  menu-life"><a class="item-click track-event" href="/nightlife/brands/life">LiFE</a></li>
-	<li class="tab l-2  menu-life-nightclub"><a class="item-click track-event" href="http://sbe.com/nightlife/locations/life-nightclub/">LiFE Nightclub</a></li>
-	<li class="tab l-2  menu-beach-life"><a class="item-click track-event" href="http://sbe.com/nightlife/locations/beach-life/">Beach LiFE</a></li>
+	<li class="active l-2  menu-life"><a class="item-click track-event" href="/nightlife/brands/life">LiFE</a></li>
 	<li class="l-2  menu-the-sayers-club"><a class="item-click track-event" href="/nightlife/thesayersclub">The Sayers Club</a></li>
 	<li class="tab l-2  menu-the-sayers-club-hollywood"><a class="item-click track-event" href="/nightlife/locations/thesayersclub-hollywood/">The Sayers Club Hollywood</a></li>
 	<li class="tab l-2  menu-the-sayers-club-las-vegas"><a class="item-click track-event" href="http://sbe.com/nightlife/locations/the-sayers-club-las-vegas/">The Sayers Club Las Vegas</a></li>
@@ -243,7 +764,6 @@ to Search">
 	<li class="tab l-2  menu-weddings"><a class="item-click track-event" href="/events/weddings/">Weddings</a></li>
 	<li class="tab l-2  menu-culinary-off-site-catering"><a class="item-click track-event" href="/events/culinary-catering/">Culinary Off-Site Catering</a></li>
 	<li class="tab l-2  menu-collins-cocktail-catering"><a class="item-click track-event" href="/events/collins-cocktail-catering/">Collins Cocktail Catering</a></li>
-	<li class="tab l-2  menu-sbe-holiday"><a class="item-click track-event" href="http://sbe.com/events/holiday">sbe Holiday</a></li>
 </ul>
 </div><!--end lvl 0!--></li>
 <li class="l-1  menu-exclusives"><a class="item-click track-event" href="/exclusives">Exclusives</a></li>
@@ -255,6 +775,7 @@ to Search">
 <li class="mobilehide l-1  menu-news-press"><a class="item-click track-event" href="/news-accolades">News &amp; Press</a></li>
 <li class="l-1  menu-sbe-foundation"><a class="item-click track-event" href="/sbe-foundation/">sbe Foundation</a></li>
 <li class="mobilehide l-1  menu-awards"><a class="item-click track-event" href="/awards/">Awards</a></li>
+<li class="l-1  menu-careers"><a class="item-click track-event" href="/careers/">Careers</a></li>
 <li class="to_map l-1  menu-venue-locator"><a class="item-click track-event" href="/venuelocator/#lhn">Venue Locator</a></li>
 </ul></div></nav></div><!-- End Push Wrapper --><!-- end left menu !-->
 
@@ -262,11 +783,12 @@ to Search">
   <div class="loadingO"></div>
 </div>
 
-
 <!--start page !-->
 <div id="page">
+    
+    
+<script>
 
-  <script>
     window.reservation_pre_select_data = false;
 
     window.subscribe_form_venue = false;
@@ -290,12 +812,10 @@ to Search">
     window.copyright_override = false;
 
     
-  </script>
+</script>
 
-
-
-  <script id="first_time_markup" type="text/html">
-   <div id="first-time-wrapper">
+    <script id="first_time_markup" type="text/html">
+    <div id="first-time-wrapper">
   <section id="first-time" class="first-time addtop">
             <div class="col4">
         <ul class="unstyled relative col-0">
@@ -389,11 +909,11 @@ to Search">
     </div>
   </div>
 </div>
-  </script>
+    </script>
 
-  <div class="side-menu-push">
-    <div id="content" class="row ">
-      <div id="main" role="main" class="container  " data-blog-id="1">
+    <div class="side-menu-push">
+        <div id="content" class="row ">
+            <div id="main" role="main" class="container  " data-blog-id="1">
 <!-- Begin parallax Content-->
 
 <!-- IF bg img is present add parallax classes -->
@@ -560,7 +1080,6 @@ to Search">
   </div>
 </section>
 <!-- End Parallax -->
-			
 <!--Begin Company footer !-->
 <div class="clearfix"></div>
 <footer id="footer" class="row" role="contentinfo">
@@ -600,13 +1119,31 @@ to Search">
         </div>
       </div>
                 
-    <p class="col12 text-center text-caps sans-face text-spaced-extra text-bold source-org copyright" style="font-size:10px;">
-      <a href="http://sbe.com/terms-of-use">Terms of Use</a> |
-      <a href="http://sbe.com/privacy-policy">Privacy Policy</a> <span class="lastbar">|</span>
-      <span class="lastline">© 2014        <span id="copyright-text" data-original-copyright="SBEEG Holdings Licensing, LLC"></span>
-      </span>
-    </p>
-    
+        <p class="col12 text-center text-caps sans-face text-spaced-extra text-bold source-org copyright" style="font-size:10px;">
+            <a href="http://sbe.com/terms-of-use">Terms of Use</a> |
+            <a href="http://sbe.com/privacy-policy">Privacy Policy</a> 
+            <!--
+            | 
+            <a class="google_translate_trigger">Translate Site</a> 
+            -->
+            <span class="lastbar">|</span>       
+            <span class="lastline">© 2015                <span id="copyright-text" data-original-copyright="SBEEG Holdings Licensing, LLC"></span>
+            </span>
+        </p>
+         
+        <div id="google_translate_wrap"> 
+            <div id="google_translate">
+                <div class="popup_title">Translate Site</div> 
+            </div>
+        </div>
+        <script>
+            function googleTranslateElementInit() {
+                new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'de,es,fr,it,ja,pt,ru', autoDisplay: false}, 'google_translate');
+            }
+        </script>
+        <script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        <style> .goog-te-banner-frame { top: auto; bottom: 0; } </style>
+
     </div>
 
   </div>
@@ -618,6 +1155,8 @@ to Search">
 
    </div><!-- end Side Menu Push !-->
 
+  
+    
 </div> <!-- end #page -->
 
 
@@ -627,6 +1166,17 @@ to Search">
   		  <div id="subscribe" class="col5">
   		  	<a href="#subscribe_form" data-subscribe-open-popup="#subscribe_form" class="btn grayLight-solid open-popup-link">Subscribe for Exclusives</a>
   		  </div>
+
+        <a class="footer-join-the-code mobilehide" href="https://thecode.sbe.com/join" target="_blank">
+          <img src="http://sbe.com/content/themes/sbe/img/thecode-black.svg" alt="Join the Code" width="183" height="24">
+        </a>
+
+        <p class="mobile-show text-center padtop padbottom">
+          <a href="https://thecode.sbe.com/join" class="footer-join-the-code-mobile" target="_blank">
+            <img src="http://sbe.com/content/themes/sbe/img/thecode-black.svg" alt="Join the Code" width="200" height="26">
+          </a>
+        </p>
+
   		  <div id="footer-social" class="row col7">
           <div class="pull-right">
                           <h6 class="bottom sans-face pull-left text-right text-spaced" style="margin-top:8px;"><strong>Follow<br><span style="white-space:nowrap;">sbe</span></strong></h6>
@@ -637,7 +1187,8 @@ to Search">
 <li class="footer-pinterest"><a href="http://pinterest.com/sbeCollection" rel="nofollow" title="Visit sbe.com pinterest" target="_blank" class="url"><i class="ico-pinterest"></i><span class="network">pinterest</span><span class="path">/sbeCollection</span></a></li>
 <li class="footer-youtube"><a href="http://youtube.com/sbeCollection" rel="nofollow" title="Visit sbe.com youtube" target="_blank" class="url"><i class="ico-youtube"></i><span class="network">youtube</span><span class="path">/sbeCollection</span></a></li>
 </ul>
-                      </div>
+            <!-- ARE YOU HERE OR NOT -->
+          </div>
   		  </div>
   </div>
 </div> <!-- end footer -->
@@ -645,437 +1196,97 @@ to Search">
 <a href="#" id="scroll-up-btn" style="display: none;"><i class="ico-triangle-up"></i></a>
 
 
-<div id="reservation_form" class="hide">
 
-  <label for="_venue" class="hide">Venue</label>
-  <div class="dl-menuwrapper" id="venue_wrapper" style="">
-    <input class="dl-trigger tip-plus" type="text" name="_venue" id="_venue" placeholder="Select a Venue" readonly="" autocomplete="off" data-value="" data-validate-value-presence="Please select a venue">
-    <ul class="dl-menu">
-<li><a href="#">Los Angeles</a>
-<ul class="dl-submenu">
-<li data-switch-screen="#reservations_nightlife" data-value="create,es_neYLZ0LWBUeb3ZB,los-angeles" data-city="los-angeles" data-direct-id="5~69" data-tkt-mob="true"><a href="#">Create Nightclub</a>
-</li>
-<li data-switch-screen="#reservations_nightlife" data-value="Greystone-Manor,es_Q9wCnRXB3MJD1zV,los-angeles" data-city="los-angeles" data-direct-id="5~236" data-tkt-mob="true"><a href="#">Greystone Manor</a>
-</li>
-<li data-switch-screen="#reservations_nightlife" data-value="hydestaples,es_aXYjw9cl1EekFTs,los-angeles" data-city="los-angeles" data-direct-id="5~144" data-tkt-mob="true"><a href="#">Hyde Lounge at Staples Center</a>
-</li>
-<li data-switch-screen="#reservations_nightlife" data-value="The-Abbey-Food-and-Bar,es_QqWc46OSUYZBmaa,los-angeles" data-city="los-angeles" data-direct-id="5~248" data-tkt-mob="true"><a href="#">The Abbey Food &amp; Bar</a>
-</li>
-<li data-switch-screen="#reservations_nightlife" data-value="Emerson-Theatre,es_EX4CViO773,los-angeles" data-city="los-angeles" data-direct-id="5~238" data-tkt-mob="true"><a href="#">The Emerson Theatre</a>
-</li>
-<li data-switch-screen="#reservations_nightlife" data-value="Library-at-the-Redbury,es_Ceb3TH8jE0nQLun​,los-angeles" data-city="los-angeles" data-direct-id="5~242" data-tkt-mob="true"><a href="#">The Library</a>
-</li>
-<li data-switch-screen="#reservations_nightlife" data-value="The-Sayers-Club,es_P2T2Q7TsUB,los-angeles" data-city="los-angeles" data-direct-id="5~580" data-tkt-mob="true"><a href="#">The Sayers Club Hollywood</a>
-</li>
-<li data-switch-screen="#reservations_nightlife" data-value="XIV-Summer-Sessions,es_wh6kWNfMy4HNw9o,los-angeles" data-city="los-angeles" data-direct-id="5~230" data-tkt-mob="true"><a href="#">XIV Sessions</a>
-</li>
-</ul>
-</li>
-<li><a href="#">Miami</a>
-<ul class="dl-submenu">
-<li data-switch-screen="#reservations_hotels" data-value="synxis,26021,10166" data-city="miami" data-direct-id="2~152" data-tkt-mob="true"><a href="#">The Raleigh South Beach</a>
-</li>
-<li data-switch-screen="#reservations_nightlife" data-value="hydeaaa,es_mBQFzqt3BS5gt9h,miami" data-city="miami" data-direct-id="5~134" data-tkt-mob="true"><a href="#">Hyde at AmericanAirlines Arena</a>
-</li>
-<li data-switch-screen="#reservations_nightlife" data-value="hydesouthbeach,es_tdVG6L9zsDB5HNw,miami" data-city="miami" data-direct-id="5~142" data-tkt-mob="true"><a href="#">Hyde Beach</a>
-</li>
-</ul>
-</li>
-<li><a href="#">Las Vegas</a>
-<ul class="dl-submenu">
-<li data-switch-screen="#reservations_nightlife" data-value="doublebarrel,es_5nGI3AHKMT,las-vegas" data-city="las-vegas" data-direct-id="5~234" data-tkt-mob="true"><a href="#">Double Barrel Roadhouse</a>
-</li>
-<li data-switch-screen="#reservations_nightlife" data-value="hydebellagio,es_C7LI3uC941,las-vegas" data-city="las-vegas" data-direct-id="5~136" data-tkt-mob="true"><a href="#">Hyde Bellagio</a>
-</li>
-<li data-switch-screen="#reservations_nightlife" data-value="lifenightclub,es_CEDRW091yZ,las-vegas" data-city="las-vegas" data-direct-id="5~6583" data-tkt-mob="true"><a href="#">LiFE</a>
-</li>
-<li data-switch-screen="#reservations_nightlife" data-value="lifenightclub,es_CEDRW091yZ,las-vegas" data-city="las-vegas" data-direct-id="5~7738" data-tkt-mob="true"><a href="#">LiFE Nightclub</a>
-</li>
-<li data-switch-screen="#reservations_nightlife" data-value="sayersclub,es_TsD0CJ36EG,las-vegas" data-city="las-vegas" data-direct-id="5~6170" data-tkt-mob="true"><a href="#">The Sayers Club Las Vegas</a>
-</li>
-</ul>
-</li>
-</ul>
-<!-- cached -->  </div>
-
-  <div id="_instructions" class="small_text"></div>
-
-  
-  <div id="reset_screen" class="screen hide" data-instructions="">
-    <div id="reset_reservations" data-switch-screen="#reset_screen"></div>
-  </div>
-
-  <div id="reservations_hotels" class="screen hide" data-instructions="Select dates and enter guest info">
-
-    <label for="_date_check_in" class="hide">Check In Date</label>
-    <div class="tip_input_wrapper"><input name="_date_check_in" id="_date_check_in" type="text" class="tip-calendar" autocomplete="off" placeholder="Check In Date" readonly="" data-validate-presence="Please select a date"></div>
-
-    <label for="_date_check_out" class="hide">Check Out Date</label>
-    <div class="tip_input_wrapper"><input name="_date_check_out" id="_date_check_out" type="text" class="tip-calendar" autocomplete="off" placeholder="Check Out Date" readonly="" data-validate-presence="Please select a date"></div>
-
-    <label for="_adults" class="hide">Guests</label>
-    <div class="dl-menuwrapper">
-      <input name="_adults" id="_adults" type="text" autocomplete="off" placeholder="Adults" class="dl-trigger tip-plus" readonly="" data-validate-presence="Please choose the number of adults">
-      <ul class="dl-menu">
-        <li><a href="#">1</a></li>
-        <li><a href="#">2</a></li>
-        <li><a href="#">3</a></li>
-        <li><a href="#">4</a></li>
-      </ul>
-    </div>
-
-    <label for="_promo" class="hide">Promo Code</label>
-    <div class="tip_input_wrapper"><input name="_promo" id="_promo" type="text" autocomplete="off" placeholder="Promo Code"></div>
-
-    <button class="submit">Make a Reservation</button>
-
-  </div><!--/reservations_hotels-->
-
-  <div id="reservations_restaurants" class="screen hide" data-instructions="Select date and time, and enter guest info">
-
-    <label for="_date" class="hide">Date</label>
-    <div class="tip_input_wrapper">
-        <input name="_date" id="_date" type="text" class="minputhide tip-calendar" autocomplete="off" placeholder="Date" readonly="" data-validate-presence="Please select a date">
-    </div>
-
-    <label for="_time" class="hide">Time</label>
-    <div class="dl-menuwrapper">
-      <input name="_time" id="_time" type="text" autocomplete="off" placeholder="Time" class="minputhide dl-trigger tip-plus" readonly="" data-validate-presence="Please select a time">
-      <ul class="dl-menu">
-        <li><a href="#">10:00 AM</a></li>
-        <li><a href="#">10:30 AM</a></li>
-        <li><a href="#">11:00 AM</a></li>
-        <li><a href="#">11:30 AM</a></li>
-        <li><a href="#">12:00 PM</a></li>
-        <li><a href="#">12:30 PM</a></li>
-        <li><a href="#">1:00 PM</a></li>
-        <li><a href="#">1:30 PM</a></li>
-        <li><a href="#">2:00 PM</a></li>
-        <li><a href="#">2:30 PM</a></li>
-        <li><a href="#">3:00 PM</a></li>
-        <li><a href="#">3:30 PM</a></li>
-        <li><a href="#">4:00 PM</a></li>
-        <li><a href="#">4:30 PM</a></li>
-        <li><a href="#">5:00 PM</a></li>
-        <li><a href="#">5:30 PM</a></li>
-        <li><a href="#">6:00 PM</a></li>
-        <li><a href="#">6:30 PM</a></li>
-        <li><a href="#">7:00 PM</a></li>
-        <li><a href="#">7:30 PM</a></li>
-        <li><a href="#">8:00 PM</a></li>
-        <li><a href="#">8:30 PM</a></li>
-        <li><a href="#">9:00 PM</a></li>
-        <li><a href="#">9:30 PM</a></li>
-        <li><a href="#">10:00 PM</a></li>
-        <li><a href="#">10:30 PM</a></li>
-        <li><a href="#">11:00 PM</a></li>
-        <li><a href="#">11:30 PM</a></li>
-        <li><a href="#">11:59 PM</a></li>
-      </ul>
-    </div>
-
-    <label for="_guests" class="hide">Guests</label>
-    <div class="dl-menuwrapper">
-      <input name="_guests" id="_guests" type="text" autocomplete="off" placeholder="Guests" class="minputhide dl-trigger tip-plus" readonly="" data-value="" data-validate-value-presence="Please choose your number of guests">
-      <ul class="dl-menu">
-        <li data-value="1"><a href="#">1 person</a></li>
-        <li data-value="2"><a href="#">2 people</a></li>
-        <li data-value="3"><a href="#">3 people</a></li>
-        <li data-value="4"><a href="#">4 people</a></li>
-        <li data-value="5"><a href="#">5 people</a></li>
-        <li data-value="6"><a href="#">6 people</a></li>
-        <li data-value="7"><a href="#">7 people</a></li>
-        <li data-value="8"><a href="#">8 people</a></li>
-        <li data-value="9"><a href="#">9 people</a></li>
-        <li data-value="10"><a href="#">10 people</a></li>
-        <li data-value="11"><a href="#">11 people</a></li>
-      </ul>
-    </div>
-
-    <div class="plan_event small_text">For parties 12 or larger <a href="#rfp">plan your&nbsp;event</a>.</div>
-
-    <button class="submit">Make a Reservation</button>
-
-  </div><!--/reservations_restaurants -->
-
-  <div id="reservations_nightlife" class="screen hide" data-instructions="Select a date to view events">
-
-    <div class="loadingO"></div>
-
-    <div id="no_upcoming_events" class="hide clearfix">
-      <p>Sorry, there are no upcoming events</p>
-    </div>
-
-    <div id="events_for_date"></div>
-
-  </div><!--/reservations_nightlife-->
-
-  <form id="opentable_form" action="http://www.opentable.com/opentables.aspx" method="get" class="hide" target="_blank">
-    <h4>Opentable Form</h4>
-
-    <br><label>t (hidden field)</label>
-    <input name="t" value="single" type="text" readonly="" autocomplete="off">
-
-    <br><label>rtype (hidden field)</label>
-    <input name="rtype" value="ism_mod" type="text" readonly="" autocomplete="off">
-
-    <br><label>restfed (hidden field)</label>
-    <input name="restref" type="text" autocomplete="off">
-
-    <br><label>rid (restaurant id)</label>
-    <input name="rid" type="text" autocomplete="off">
-
-    <br><label>d (date/time)</label>
-    <input name="d" type="text" autocomplete="off">
-
-    <br><label>p (number of guests)</label>
-    <input name="p" type="text" autocomplete="off">
-
-    <br><input type="submit">
-  </form>
-
-  <form id="phg_form" action="https://www.phgsecure.com/IBE/bookingRedirect.ashx" method="post" class="hide" target="_blank">
-    <h4>phg form</h4>
-
-    <input type="text" readonly="" autocomplete="off" name="utm_source" value="sbe.com">
-<input type="text" readonly="" autocomplete="off" name="utm_medium" value="reservation%20widget">
-<input type="text" readonly="" autocomplete="off" name="utm_campaign" value="website">
-    <br><label>propertyCode</label>
-    <input name="propertyCode" type="text" autocomplete="off">
-
-    <br><label>arrivalDate</label>
-    <input name="arrivalDate" type="text" autocomplete="off">
-
-    <br><label>departureDate</label>
-    <input name="departureDate" type="text" autocomplete="off">
-
-    <br><label>Rooms</label>
-    <input name="Rooms" type="text" autocomplete="off" value="1">
-
-    <br><label>numberOfAdults</label>
-    <input name="numberOfAdults" type="text" autocomplete="off">
-
-    <br><label>promo</label>
-    <input type="text" autocomplete="off" name="promo">
-
-    <br><input type="submit">
-  </form>
-
-  <form id="starwood_form" action="http://www.starwoodhotels.com/luxury/rates/room.html" method="get" class="hide" target="_blank">
-    <h4>starwood form</h4>
-
-    <br><label>propertyId</label>
-    <input type="text" autocomplete="off" name="propertyId">
-
-    <br><label>arrivalDate</label>
-    <input type="text" autocomplete="off" name="arrivalDate">
-
-    <br><label>departureDate</label>
-    <input type="text" autocomplete="off" name="departureDate">
-
-    <br><label>numberOfAdults</label>
-    <input type="text" autocomplete="off" name="numberOfAdults">
-
-    <br><label>rp (promo, starts with 'RC:')</label>
-    <input type="text" name="rp" autocomplete="off" value="RC%3A">
-
-    <br><input type="submit">
-  </form>
-
-  <form id="starwood_rate_form" action="http://www.starwoodhotels.com/fourpoints/search/ratelist.html" method="post" class="hide" target="_blank">
-    <h4>starwood rate form</h4>
-
-    <br><label>stateProvince</label>
-    <input type="text" name="stateProvince" autocomplete="off">
-
-    <br><label>departureDate</label>
-    <input type="text" name="departureDate" autocomplete="off">
-
-    <br><label>ctxRateList</label>
-    <input type="text" name="ctxRateList" value="" readonly="">
-
-    <br><label>country</label>
-    <input type="text" name="country" value="US" readonly="">
-
-    <br><label>arrivalDate</label>
-    <input type="text" name="arrivalDate" autocomplete="off">
-
-    <br><label>numberOfRooms</label>
-    <input type="text" name="numberOfRooms" autocomplete="off" value="1">
-
-    <br><label>numberOfAdults</label>
-    <input type="text" name="numberOfAdults" autocomplete="off">
-
-    <br><label>propertyID</label>
-    <input type="text" name="propertyID" autocomplete="off">
-
-    <br><label>rp (promo, starts with 'RC:')</label>
-    <input type="text" name="rp" autocomplete="off" value="RC%3A">
-
-    <br><input type="submit">
-  </form>
-
-  <form id="synxis_form" action="https://gc.synxis.com/rez.aspx" method="get" class="hide" target="_blank">
-    <h4>synxis form</h4>
-
-    <br><label>start (hidden value to skip first step)</label>
-    <input type="text" autocomplete="off" name="start" readonly="" value="111">
-
-    <input type="text" readonly="" autocomplete="off" name="utm_source" value="sbe.com">
-<input type="text" readonly="" autocomplete="off" name="utm_medium" value="reservation%20widget">
-<input type="text" readonly="" autocomplete="off" name="utm_campaign" value="website">
-    <br><label>Hotel</label>
-    <input type="text" autocomplete="off" name="Hotel">
-
-    <br><label>Chain</label>
-    <input type="text" autocomplete="off" name="Chain">
-
-    <br><label>arrive</label>
-    <input type="text" autocomplete="off" name="arrive">
-
-    <br><label>depart</label>
-    <input type="text" autocomplete="off" name="depart">
-
-    <br><label>Rooms</label>
-    <input type="text" autocomplete="off" name="Rooms" value="1">
-
-    <br><label>adult</label>
-    <input type="text" autocomplete="off" name="adult">
-
-    <br><label>promo</label>
-    <input type="text" autocomplete="off" name="promo">
-
-    <br><input type="submit">
-  </form>
-
-  <form id="micros_form" action="" data-action-suffix=".webhotel.microsdc.us/bp/availStart.jsp" data-mobile-action-suffix=".webhotel.microsdc.us/" method="get" class="hide" target="_blank">
-    <h4>micros form</h4>
-
-    <input type="text" readonly="" autocomplete="off" name="utm_source" value="sbe.com">
-<input type="text" readonly="" autocomplete="off" name="utm_medium" value="reservation%20widget">
-<input type="text" readonly="" autocomplete="off" name="utm_campaign" value="website">
-    <br><label>checkinYear</label>
-    <input type="text" autocomplete="off" name="checkinYear">
-
-    <br><label>checkinMonth</label>
-    <input type="text" autocomplete="off" name="checkinMonth">
-
-    <br><label>checkinDay</label>
-    <input type="text" autocomplete="off" name="checkinDay">
-
-    <br><label>checkoutYear</label>
-    <input type="text" autocomplete="off" name="checkoutYear">
-
-    <br><label>checkoutMonth</label>
-    <input type="text" autocomplete="off" name="checkoutMonth">
-
-    <br><label>checkoutDay</label>
-    <input type="text" autocomplete="off" name="checkoutDay">
-
-    <br><label>numberOfChildren</label>
-    <input type="text" autocomplete="off" name="numberOfChildren" value="1">
-
-    <br><label>numberOfAdults</label>
-    <input type="text" autocomplete="off" name="numberOfAdults">
-
-    <br><label>promoCode</label>
-    <input type="text" autocomplete="off" name="promoCode">
-
-    <br><input type="submit">
-  </form>
-
-</div>
 
 <div id="subscribe_form" class="mfp-hide">
 
-  <form method="POST" data-subscribe-default-copy="Sign up for exclusives, news, &amp; highlights from the world of&nbsp;sbe." data-subscribe-copy="Get exclusive offers &amp; invites from %.
+    <form method="POST" data-subscribe-default-copy="Sign up for exclusives, news, &amp; highlights from the world of&nbsp;sbe." data-subscribe-copy="Get exclusive offers &amp; invites from %.
 <br>Plus, get a monthly dose of exclusives, news, &amp; highlights from the world of&nbsp;sbe.">
 
-    <div class="addtop addbottom text-center" id="sf_copy">Sign up for exclusives, news, &amp; highlights from the world of&nbsp;sbe.</div>
+        <div class="addtop addbottom text-center" id="sf_copy">
 
-    <script type="text/html" id="sf_interrupt_copy"><div class="container" style="background: url(http://files.sbe.com/content/uploads/2014/12/gift-card-interrupter-bg4.jpg); background-size: cover;">
-  <div class="row" style="background: #fff; margin: 25px 0; padding: 25px 0;">
-    <div class="col6 add">
-      <img src="http://files.sbe.com/content/uploads/2014/12/gift-card-interrupter-image.png" alt="Naughty or nice?">
-    </div>
-    <div class="col5">
-      <h4 style="margin-bottom: 0;">EITHER WAY, WE HAVE A</h4>
+            Sign up for exclusives, news, &amp; highlights from the world of&nbsp;sbe.        
+        </div>
 
-      <h4 style="color: #BD33AA; margin: 0 0; font-size: 28px;">$25 GIFT FOR YOU</h4>
+        <script type="text/html" id="sf_interrupt_copy">
+        </script>
 
-      <p style="font-size: 0.9em;">WHEN YOU PURCHASE $100 OR MORE<br>
-      IN <b>SBE GIFT CARDS</b> THIS HOLIDAY SEASON</p>
+        <input type="hidden" name="sf_venue" id="sf_venue" value="">
+        <input type="hidden" name="sf_lead" id="sf_lead" value="Opt-In - Website">
+        <input type="hidden" name="sf_sbe_newsletter" id="sf_sbe_newsletter" value="1">
 
-      <a href="http://sbe.com/exclusives/hotel-restaurant-nightlife-gift-card/" style="display: block; padding: 8px; background: #BD33AA; color: #fff; font-size: 24px; letter-spacing: 1px; margin-top: .8em;" class="gift-card-promo-cta">BUY NOW</a>
-    </div>
-  </div>
-</div>
-<style>
-  #subscribe_form { padding: 0; }
-  #subscribe_form .subscribe_form_fields { display: none; }
-</style></script>
+        <div class="col12 row subscribe_form_fields">
+            <div class="col6 add" style="margin-bottom: 10px;">
+                <label class="hide" for="sf_first_name">First Name</label>
+                <input class="input_gray" type="text" autocomplete="off" id="sf_first_name" name="sf_first_name" placeholder="First Name" data-validate-presence="Please enter your first name">
+            </div>
 
-    <input type="hidden" name="sf_venue" id="sf_venue" value="">
-    <input type="hidden" name="sf_lead" id="sf_lead" value="Opt-In - Website">
-    <input type="hidden" name="sf_sbe_newsletter" id="sf_sbe_newsletter" value="1">
+            <div class="col6 add" style="margin-bottom: 10px;">
+                <label class="hide" for="sf_last_name">Last Name</label>
+                <input class="input_gray" type="text" autocomplete="off" id="sf_last_name" name="sf_last_name" placeholder="Last Name" data-validate-presence="Please enter your last name">
+            </div>
 
-    <div class="col12 row subscribe_form_fields">
-      <div class="col6 add" style="margin-bottom: 10px;">
-        <label class="hide" for="sf_first_name">First Name</label>
-        <input class="input_gray" type="text" autocomplete="off" id="sf_first_name" name="sf_first_name" placeholder="First Name" data-validate-presence="Please enter your first name">
-      </div>
+            <div class="col6 add" style="margin-bottom: 10px;">
+                <label class="hide" for="sf_email">Email</label>
+                <input class="input_gray" type="text" autocomplete="off" id="sf_email" name="sf_email" placeholder="Email" data-validate-email="Valid Email required">
+            </div>
 
-      <div class="col6 add" style="margin-bottom: 10px;">
-        <label class="hide" for="sf_last_name">Last Name</label>
-        <input class="input_gray" type="text" autocomplete="off" id="sf_last_name" name="sf_last_name" placeholder="Last Name" data-validate-presence="Please enter your last name">
-      </div>
+            <div class="col6 add" style="margin-bottom: 10px;">
+                <label class="hide" for="sf_zip">Zip Code</label>
+                <input class="input_gray" type="text" autocomplete="off" id="sf_zip" name="sf_zip" placeholder="Zip Code" data-validate-presence="Please enter your ZIP code">
+            </div>
+        </div>
 
-      <div class="col6 add" style="margin-bottom: 10px;">
-        <label class="hide" for="sf_email">Email</label>
-        <input class="input_gray" type="text" autocomplete="off" id="sf_email" name="sf_email" placeholder="Email" data-validate-email="Valid Email required">
-      </div>
+        <div class="row count2 subscribe_form_fields" style="margin-bottom: 8px;">
+          <div class="cols add">&nbsp;</div>
+          <div class="cols add" style="min-height: 30px;">
+            <input type="checkbox" autocomplete="off" id="sf_age_verify" name="sf_age_verify" class="hide" value="1">
+            <div class="input_gray_faux" data-faux-checkbox="#sf_age_verify" data-validate-checked="You must be 21 or older to subscribe" data-age-copy-default="I am 21 years old or older.">
+              I am 21 years old or older.            </div>
+          </div>
+        </div>
 
-      <div class="col6 add" style="margin-bottom: 10px;">
-        <label class="hide" for="sf_zip">Zip Code</label>
-        <input class="input_gray" type="text" autocomplete="off" id="sf_zip" name="sf_zip" placeholder="Zip Code" data-validate-presence="Please enter your ZIP code">
-      </div>
+        <div class="text-center addtop subscribe_form_fields">
+          <input type="submit" autocomplete="off" class="btn short grayDark submit" value="Subscribe">
+        </div>
 
-    </div>
+    </form>
 
-    <div class="row count2 subscribe_form_fields" style="margin-bottom: 8px;">
-      <div class="cols add">&nbsp;</div>
-      <div class="cols add" style="min-height: 30px;">
-        <input type="checkbox" autocomplete="off" id="sf_age_verify" name="sf_age_verify" class="hide" value="1">
-        <div class="input_gray_faux" data-faux-checkbox="#sf_age_verify" data-validate-checked="You must be 21 or older to subscribe" data-age-copy-default="I am 21 years old or older.">
-          I am 21 years old or older.        </div>
-      </div>
+    <div id="sf_success" class="hide text-center">
+        <p>Thank you for subscribing!</p>
     </div>
 
-    <div class="text-center addtop subscribe_form_fields">
-      <input type="submit" autocomplete="off" class="btn short grayDark submit" value="Subscribe">
+    <div id="sf_failure" class="hide text-center">
+        <p>Sorry. Our system couldn't process your request. Please try again later.</p>
     </div>
-
-  </form>
-
-  <div id="sf_success" class="hide text-center">
-    <p>Thank you for subscribing!</p>
-  </div>
-
-  <div id="sf_failure" class="hide text-center">
-    <p>Sorry. Our system couldn't process your request. Please try again later.</p>
-  </div>
 
 </div>
+
+
+<div class="interrupt" style="display: none;">
+
+            <div class="interrupt_wrap_content vertical_center interrupt_1">
+             
+             
+
+            <div class="interrupt_content">
+                <a href="http://sls-lasvegas.webhotel.microsdc.us/bp/search_rooms.jsp?&amp;utm_source=Sbe.com&amp;utm_medium=SBE_Interruptor&amp;utm_campaign=SLSLV_65BAR" target="_blank">
+                    <img src="http://files.sbe.com/content/uploads/2015/05/Screen-Shot-2015-05-18-at-3.25.03-PM.png" alt=""> 
+                </a>
+                <button title="Close (Esc)" type="button" class="close">×</button>
+            </div>
+        </div>
+    </div>
+
 
 
   <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
   <script type="text/javascript"> var sharrreURL = 'http://sbe.com/content/themes/sbe/lib/sharrre.php'; </script>
 
   <!-- // GRUNT BUILD -->
-    <script src="http://sbe.com/content/themes/sbe/assets/js/scripts.min.1fac3ca1.js"></script>
+    <script src="http://sbe.com/content/themes/sbe/assets/js/scripts.min.591cb5a1.js"></script>
     
-  
-	<div id="fb-root"></div>
+    <div id="fb-root"></div>
 <script>
 		window.fbAsyncInit = function() {
 			FB.Event.subscribe('edge.create', function(targetUrl) {
@@ -1093,17 +1304,6 @@ to Search">
 		}(document));
 	 </script>
 	
-    <script>
-  // var _gaq = _gaq || [];
-  // _gaq.push(['_setAccount', '']);
-  // // _gaq.push(['_trackPageview']);
-
-  // (function() {
-  //   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-  //   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-  //   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  // })();
-  </script>
 
     <script type="text/javascript">
     /* <![CDATA[ */
@@ -1120,43 +1320,32 @@ to Search">
   </noscript>
 
   
-    <script>
-  // (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  // (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  // m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  // })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  // ga('create', '', 'sbe.com');
-  // ga('require', 'linker'); /*sbe nightflife domains */
-  // ga('linker:autoLink',['electrostub.com', 'createnightclub.com','abbeyfoodandbar.com', 'greystonemanorla.com', 'mystudiohollywood.com', 'xivsessions.com','colonybysbe.com','xivsummersessions.com','sayersclub.com', 'emersontheatre.com', 'hydeaaarena.com','hydebellagio.com','hydesunset.com','hydestaples.com','abbeyfoodandbar.com']);
-
+  <script>
   var analytics_arr = [{"name":"none","code":"empty"},{"name":"blog","code":"UA-49560855-1"},{"name":"hotels","code":"UA-49557965-1"},{"name":"restaurants","code":"UA-49566727-1"},{"name":"events","code":"UA-49571010-1"},{"name":"nightlife","code":"UA-49557191-1"}];
-  //ga('create', '', 'auto', {'name': ''});
-    </script>
+  </script>
 
 <script type="text/javascript" src="//cdn.callrail.com/companies/346507468/0508e81d70556105b81a/12/swap.js"></script>
 
-<!-- Google Tag Manager -->
-<script>
-  dataLayer = [];
-</script>
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NVWND3"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-NVWND3');</script>
-<!-- End Google Tag Manager -->
+  <!-- Google Tag Manager -->
+  <script>
+    dataLayer = [];
+  </script>
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NVWND3"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NVWND3');</script>
+  <!-- End Google Tag Manager -->
 
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"17d6851115","applicationID":"3265470","transactionName":"NFRbZBcFWhVZVkFbCw0eeFMRDVsIF1xbVgEb","queueTime":0,"applicationTime":332,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"17d6851115","applicationID":"3265470","transactionName":"NFRbZBcFWhVZVkFbCw0eeFMRDVsIF1xbVgEb","queueTime":0,"applicationTime":242,"atts":"GBNYEl8fSRs=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
 
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
-Page Caching using disk: enhanced
 Content Delivery Network via Rackspace Cloud Files: files.sbe.com
 Application Monitoring using New Relic
 
- Served from: sbe.com @ 2014-12-26 09:18:40 by W3 Total Cache --><script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+ Served from: sbe.com @ 2015-06-09 22:58:53 by W3 Total Cache --></body></html>
