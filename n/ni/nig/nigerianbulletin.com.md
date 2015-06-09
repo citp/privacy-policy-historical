@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nigerianbulletin.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224021237id_/http%3A//www.nigerianbulletin.com/threads/privacy-policy.76413) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigerianbulletin.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610002303id_/http%3A//www.nigerianbulletin.com/threads/privacy-policy.76413) for the most accurate reproduction.*
 
-# Privacy Policy | Nigerian Bulletin - Trending News & Updates
+# Privacy Policy | Nigerian Bulletin
 
   1. > At Nigerian Bulletin, we take your privacy seriously. Our privacy policy describes what personal information we collect and how we use it on our website ([www.nigerianbulletin.com](http://www.nigerianbulletin.com/))
 > 
@@ -16,9 +16,7 @@
 > 
 > You can alter your browser setting to disable cookies if you are concerned about your privacy. It is however not recommended that you disable cookies for all websites as it may negatively affect your use of some websites. The best thing to do, in these cases, is to disable and enable cookies based on the site you are visiting. Consult your browser help manual for instructions on how you can block cookies and other tracking mechanisms. 
 
-#### More Threads in same category
-
-Last edited: May 19, 2014
+Last edited by a moderator: May 19, 2014
 
 
 
