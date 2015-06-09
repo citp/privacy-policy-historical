@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emailsignaturerescue.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207222809id_/http%3A//emailsignaturerescue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailsignaturerescue.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609045929id_/http%3A//emailsignaturerescue.com/privacy) for the most accurate reproduction.*
 
 # Email Signature Rescue Privacy Policy
 
@@ -17,15 +17,3 @@ The information collected is for statistical purposes. Div Party Pty Ltd may use
 For site security purposes and to ensure that this service remains available to all users, Div Party Pty Ltd uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
 Div Party Pty Ltd will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
-
-####  Tracy Caffrey, RE/MAX Uptown 
-
-I think a professional signature that allows you to direct your clients to your website and social media pages is a wise investment for any small business owner. 
-
-__A wise investment for any small business owner.
-
-####  Chad Snider, Gateway Media Services 
-
-LOVE this service! My emails not only look more professional and friendly, but also allow easy linking to my professional social media accounts. 
-
-__A must-have for your business.
