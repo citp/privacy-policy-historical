@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ktar.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626091436id_/http%3A//ktar.com/63/1535710/PRIVACY-STATEMENT) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktar.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609044311id_/http%3A//www.ktar.com/63/1535710/PRIVACY-STATEMENT) for the most accurate reproduction.*
 
-# PRIVACY STATEMENT - ktar.com
+# PRIVACY STATEMENT
 
 (Last revised January 2, 2009) 
 
