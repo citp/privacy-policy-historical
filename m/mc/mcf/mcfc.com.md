@@ -1,134 +1,138 @@
-> *The following text is extracted and transformed from the mcfc.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094843id_/http%3A//www.mcfc.com/Common/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcfc.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610010931id_/http%3A//www.mcfc.com/Common/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Common - Manchester City FC
 
-#### What information do we collect?
+This privacy policy and cookie policy form part of our Terms of Use **<http://www.mcfc.co.uk/Common/Terms> **and sets out the way in which your personal information is handled by Manchester City Football Club Limited (referred to as "we", "us" and "Manchester City") and the City Football Group, whether collected through one of the websites operated and managed by the City Football Group, at the stadium or other collection points from time to time. 
 
-In order to provide you with our services, we may collect personal information about you from our website, telephone conversations, emails, and written and verbal communications. We may, for example, keep a record of your name, address, delivery address, email address, telephone number and credit card details. We may also record details of any disability or health needs you may have at the time of booking an event or service to help to ensure your safety.
+**MARKETING PREFERENCES AND PREFERENCE CENTRE**
 
-Information related to your visit to our website (such as which pages you visit, how often you visit and which competitions you enter) and the information you supply when becoming a registered user or when entering our competitions (such as your name and e-mail address) will be held and stored worldwide by us, and selected third parties.
+There are many exciting promotions, news, features and activities we and our commercial partners want to keep in touch with you about.  When you register with us, or provide us with your personal information, there will be two consent boxes that allow you to indicate your preferences in this respect.
 
-We may supplement the information that you provide with other information that we receive from third parties.
+If you don't want to hear from Manchester City and the City Football Group, or our Commercial Partners, you need to tick these boxes:
 
-#### How do we use your information?
+Manchester City and the City Football Group 
 
-Any personal data relating to you will be used and recorded by us in accordance with current data protection legislation and this privacy policy.
+Manchester City Commercial Partners
 
-We will primarily use your personal information to provide our services and products to you. We will also use the personal information that we hold to communicate with you, for example: in the event that the services or products you have requested are unavailable; for record keeping purposes; to recover debt and to help us to prevent fraud; to improve the quality of our service; for market research; or to track activity on our website. If you have changed the settings in your personal profile to reflect your wishes in this respect we may also create an individual profile for you so that we can inform you of services, products, events or special offers that may be of interest to you.
+If you tick these boxes it means that Manchester City and the City Football Group and our commercial partners __ will not let you know about exciting promotions, news features and activities.
 
-By supplying your information to us you confirm that you do not consider use of your information in accordance with this privacy policy to be a breach of any of your rights under the privacy and electronic communications (ec directive) regulations 2003.
+Leaving these boxes unticked means you get the following fantastic promotions, news features and more: 
 
-#### What to do if you do not want to receive marketing information
+  * From us (including the City Football Group): Blue Print Newsletter, Matchday, Post Match Videos, Ticket Alert, Hospitality & Events and Retail, as well as exclusive offers, products and services on behalf of our commercial partners
+  * From our commercial partners: occasional communications and messages on their exclusive offers, products and services.
 
-You have the right to prevent marketing information being sent direct to you. If you prefer not to receive information from us or from any other organisation to which we may disclose your personal information, you can write to us by mail or email (see the section "how to contact us" below) or by modifying the settings on your personal profile section during the registration process or at any other time. Please note, however, that if you do withhold or withdraw your consent, we and/or they will be unable to keep you informed of new services, products, events or special offers that may interest you. 
 
-####  Cookies Policy
 
-Since May 26th 2011, the law states that cookies on websites can only be used with your specific consent. This will come in to action as of May 26th 2012. MCFC is currently formulating the best way to obtain your consent without compromising your enjoyment of the site. We will update you with this information once it is finalised. MCFC uses cookies in the operation of the site in a number of areas. If you choose not to accept our cookies, some services on our site will not be available to you.
+We will usually send updates from our commercial partners to you on their behalf. But, if you didn't tick the commercial partners consent box when you submitted your personal information we have assumed you are happy for us to share your personal information with our commercial partners for the purposes listed above.
 
-**a. What is a cookie?**  
-A cookie is a small file of data, often incorporating a unique identifier, that is sent to your computer or mobile phone browser from a website's computer. This data file stores the information you provide us with and in doing so enables us to 'remember' you on repeat visit, effectively letting you move around the site without having to keep reintroducing yourself. Most browsers accept cookies automatically, but you can set your browser to prevent this. If your browser’s preferences allow it, each website or third party service provider is able to send a cookie to your browser. However, to protect your privacy, your browser only allows these websites or third party service providers to access cookies already sent to you, not the cookies sent to you by other sites or other third party service providers. 
+Just to make sure you are happy with your preferences we will get in touch once a year by email to check you are happy with what you are (or are not) receiving from us and that the information we hold about you is up to date.  If you do not want us to get in contact once a year please let us know at [](mailto:fanengagement@mcfc.com?subject=Email%20preferences)[fanengagement@mcfc.co.uk](mailto:fanengagement@mcfc.co.uk).   ****
 
-Cookies record information about your online preferences, which are then used to tailor the MCFC website to your individual preferences. You can set your devices to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time.
+You can also change your mind at any time via your preference centre ** <https://supporters.mcfc.co.uk/signin>**.  You can update your personal information if it changes by logging into your account or messaging us via <http://mcfc.force.com/help>**.**
 
-For more information please see: <http://www.ico.gov.uk/>
+Our commercial partners and the City Football Group 
 
-**b. How does MCFC use cookies?**  
-MCFC does not use cookies to collect personally identifiable information about you as a user of the site. However if you wish to restrict or block the cookies we use on MCFC you can do this within your browser settings. The Help function within your browser should tell you how to do this. 
+For a current list of our sponsors, licensees and partners please click [here](http://www.mcfc.com/The-Club/Club-Partners).  These may change from time to time, so please come and check the list regularly.
 
-For more information please see: <http://www.ico.gov.uk/>
+When we refer to the City Football Group, we are referring to the other companies that form part of our corporate group. Some of these companies may be involved in helping to provide the services and communications referred to in this privacy policy, or as requested by you from time to time.
 
-Please be aware that in disabling cookies on MCFC may affect your experience of the site where the functionality is controlled by the use of cookies. 
+**WHAT INFORMATION WE COLLECT AND WHAT WE USE IT FOR**
 
-MCFC also uses a number of independent measurement, advertising and research companies. They gather information regarding the visitors to the MCFC website using cookies, log file data and code embedded on our website. MCFC uses this type of information to help improve the services it provides to its users; however, we demand that third parties do not use any of this type of information for their own business or other purposes. 
+**When you purchase products and services** we may collect personal information from you, such as your name, address, delivery address, email, telephone number and credit card details.  We will use this information to supply you with the products and services, to recover debt, to help us to prevent fraud, and keep records about your purchases.  If necessary, we may also record details of any disability or health needs you may have at the time of booking an event or service to help to ensure your safety.
 
-MCFC does contain hyperlinks to websites owned and operated by third parties. These third party websites have their own privacy policies, including cookies, and we urge you to review them. They will govern the use of any personal information you submit or which is collected by cookies whilst visiting these websites.
+In order to provide you with the products and services, we may need to store or transfer your personal information to countries outside the European Economic Area, some of which do not protect privacy rights as extensively as in the United Kingdom.  In some instances your personal data will be transferred to our commercial partners based outside of the EEA to allow them to contact you about their products and services.  By submitting your personal information, you agree to this transfer, storing or processing. ****
+
+**When you sign up to be kept informed about exciting promotions, news, features and activities** we may collect your personal information, such as your name, email address, date of birth and country of residence.
+
+**If you log in using social media** depending on how you log in we may collect your profile name/user name, profile picture, email address and date of birth.  The social media information you consent to share with us will be combined with the other information you provide to us or that we collect about you. We will also collect information about yours comments, posts and 'likes' to allow us to administer our Cityzens membership scheme.
+
+**As you move around our site** we will collect information about your visit, such as which pages you visit, how often you visit and which competitions you enter.
+
+**From our commercial partners __ and other third parties __** we may collect information they hold about you and use it to supplement the information that you provide to us.
+
+All the personal information we collect about you is stored by us or our service providers on our behalf.  We will use this information, as well as the other information we collect about you, to improve the quality of our site and help build a profile of you so we can get to know you better.  Also, it helps us make sure we and our commercial partners are sending you news, updates and offers that will be of interest to you.
+
+We may also use the personal information we collect about you to create statistics and anonymised information to then share with third parties including ad networks, search engines and analytics providers. ****
+
+As well as sharing your personal information with our commercial partners, we may share your information with business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you.
+
+We may disclose your personal information to third parties in the following circumstances:
+
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal information to the prospective seller or buyer of such business or assets.
+  * If Manchester City or substantially all of its assets are acquired by a third party, in which case personal information held by it about its customers will be one of the transferred assets.
+  * If we are under a duty to disclose or share your personal information in order to comply with any legal obligation, court or police request, or in order to enforce or apply our terms of use **<http://www.mcfc.co.uk/Common/Terms> **or terms and conditions of sale <https://www.mcfc.co.uk/Tickets-and-Seasoncards/General-Information> and other agreements; or to protect the rights, property, or safety of Manchester City and the City Football Group, our customers, or others.  This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+
+
+**SECURITY OF INFORMATION**
+
+We take the security of your personal information seriously and take steps to ensure your personal information is treated securely and in accordance with this privacy policy.  When you submit your credit card details, we use industry standard secure sockets layer (ssl) encryption technology to guard your information.  However we cannot guarantee that any data transmission over the internet is completely secure.
+
+Where we have given you (or where you have chosen) a password which enables you to access certain parts of our websites, you are responsible for keeping this password confidential.  We ask you not to share a password with anyone.
+
+Our websites contain links to other websites.  We are only responsible for the privacy practices on our websites.  We recommend that you check the privacy and security policies and procedures of each and every other website that you visit.
+
+**YOUR RIGHTS TO ACCESS YOUR PERSONAL INFORMATION**
+
+You have the right to receive a copy of the personal information that we hold about you.  We may charge a small fee towards the cost of administering any request you make.  If you would like to make such a request please contact **<http://mcfc.force.com/help> **
+
+**CHILDREN'S PRIVACY POLICY**
+
+If you are under 16, please read this section of the privacy policy and speak to your parent or guardian if you have any questions before using any of Manchester City's websites and providing us with any of your personal information. If you continue to use our websites, we will assume that you have your parent and/or guardian's consent to do so. 
+
+You can use our websites without providing us with any of your personal information. If you do provide us with your personal information we will use it as set out on the website. For example if you sign up to get the newsletter, we will use your email address to send you the newsletter and news, updates and promotions we think you might like. 
+
+If you are under 12, and register on www.mcfc.com we will not send you any emails or sms until after your 12th birthday. After your 12th birthday we will email to let you know how we are going to get in contact with you about Manchester City and our exciting news, features and activities. We encourage you to talk with your parent/guardian about the information we send to you, and check that they are happy for you to continue to receive this information. If you do not tell us you do not want to receive this information any more, we will assume you have your parent and/or guardian's consent to continue to receive this information.
+
+You can ask us to stop sending you any emails, SMS or other communications at any time. In each message we send you there will be an 'unsubscribe' option, if you follow these instructions we will stop sending the messages. You can also send us a message to **<http://mcfc.force.com/help> **if you have any questions, want us to stop sending you messages or want to change any of the information you have given to us. 
+
+If you are a parent or guardian of a child who is using www.mcfc.com or otherwise in contact with us, we recommend that you supervise your child while they are online and check what personal information your child is providing to us. 
+
+Things work slightly differently on our Junior Cityzen's website, the same rules apply to the personal information we collect about you – we will use for the purposes we have told you about when we collect your information. But if you are under 12, when you sign up we ask you for your parent/guardian's email address so we can let them know you are registering on Junior Cityzens. If you are aged 12 to 13, we ask that you check with your parent/guardian before signing up and then let us know that they are happy for you to do so. 
+
+Manchester City makes sure that any information or marketing that we send to under 18's is always age appropriate. If you have any concerns about the information your child is receiving please contact us on **<http://mcfc.force.com/help> **
+
+**CHANGES TO THIS PRIVACY POLICY**
+
+We change our security and privacy policies at any time, so we recommend that you visit this page occasionally to check what has changed. 
+
+**COOKIES POLICY**
+
+The City Football Group's websites use cookies in their operation in a number of areas.  If you choose not to accept our cookies, some services on our websites will not be available to you.  By continuing to browse our websites, you are agreeing to our use of cookies.
+
+**a. What is a cookie?**
+
+A cookie is a small file of data, often incorporating a unique identifier, that is sent to your device browser from a website's computer.  A cookie cannot read data off a user's hard drive or read cookie files created by other websites.  The use of cookies is an industry standard that can be found on most major websites.
+
+This data file stores the information you provide us with and in doing so enables us to amongst other things 'remember' you on repeat visit and once you log in keeps you logged in as you move around the website, effectively letting you move around the website without having to keep reintroducing yourself.  This helps us to provide you with a good experience when you browse our websites and also allows us to improve our websites.
+
+We use cookies to track user trends and patterns, which enables us to understand and improve areas of our websites that fans find valuable.  These cookies are also used to provide more personalised services to you on our websites and through other media.  Cookies record information about your online preferences, which are then used to tailor our websites to your individual preferences.  You can set your devices to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time.
+
+Most browsers accept cookies automatically, but you can set your browser to prevent this.  If your browser's preferences allow it, each website or third party service provider is able to send a cookie to your browser.
+
+We reserve the right to modify or amend the use of cookies at any time and for any reason.  Any changes to the use of cookies posted on our websites apply as soon as they are posted.  By continuing to use our websites after any changes are posted, user, users acknowledge acceptance of those changes.
+
+**b. How do we use cookies?**
+
+We do not use cookies to collect personally identifiable information about you as a user of our websites.
+
+We also use a number of independent measurement, advertising and research companies.  They gather information regarding the visitors to our websites using cookies, log file data and code embedded on our websites.  We use this type of information to help improve the services it provides to its users; however, we demand that third parties do not use any of this type of information for their own business or other purposes.
 
 We do not accept any responsibility or liability for the privacy practices of such third party websites and your use of such websites is at your own risk.
 
-**c. MCFC and how to reject cookies?**  
-A comprehensive audit of the site in terms of the main cookies that MCFC sets (and what each is used for) together with ways to minimise the number of cookies you receive has been carried out. As a result of this we have compiled a list of these cookies you that may wish to opt out of. 
+We use the following types of cookies: 
 
-Cookies required to (The shop/ticketting site maybe using Analytics for marketing purposes)
+**1\. Strictly necessary cookies.**  These are cookies that are required for the operation of our websites.  They include, for example, cookies that enable you to log into secure areas of our websites, make purchases.
 
-'Targeting' cookies are linked to services provided by third parties, such as 'Like' buttons and 'Share' buttons. The third party provides these services in return for recognising that you have visited our website.
+**2\. Analytical/performance cookies.**  They allow us to recognise and count the number of visitors and to see how visitors move around our websites.  This helps us to improve the way our websites work, for example, by ensuring that users are finding what they are looking for easily.
 
-**Cookie Name** | **Description - What does it do? What is is used for?** | **Lifespan of the Cookie** | **Type**  
-ASP.Net_SessionId | Used to track user sessions on the site | 1 year | Functional  
-ContentModule  
-PersonalizationSettings | Used to store home page content module preferences | 1 year | Functional  
-Interstitial Cookies (Various names) | Used to hide interstitial popups | 1 year | Functional  
-HideMembership  
-Bannermemberships12 | Close banner | 1 year | Functional  
-mcfc_app_promo | Close IOS App Popup | 1 year | Functional  
-siteselector | Remembers site choice US or UK | 50 years | Functional  
-JSESSIONID | Twitvid embed. Session ID for Twitpic | 1 year | Functional  
-__atuvc | AddThis. The __atuvc cookie is created and read by the Add This JavaScript on the client side in order to make sure the user sees the updated count if they share a page and return to it before our share count cache is updated. No data from that cookie is sent back to AddThis and removing it when disabling cookies would cause unexpected behavior for users. | 2 years | Functional  
-newsletter10 | Homepage Module | 1 year | Performance  
-BC_BANDWIDTH | This cookie helps to significantly improve initial rendition selection. If you disable this cookie, Video Cloud will still detect bandwidth by using the Brightcove Bootloader swf. Without the cookie, this must be done on each player load, consuming more bandwidth and possibly resulting in a poorer quality initial rendition. | 1 year | Performance  
-clientLastHTimes | This cookie is used to gather Brightcove video player viewer analytics anonymously, to detect the bandwidth of a viewers device to deliver the appropriate bandwidth video and to collect information about the quality of video delivery. (Includes BC_Bandwidth and ClientLastHTimes, and ClientLastPTimes) | 1 year | Performance  
-clientLastPTimes |   |   |    
-AkamaiiAnalyticsDO_  
-bitRateBucketsCsv | Video Tracking - Collects bit rate information | 1 year | Performance  
-__utma | Tracking data for Google Analytics.  Helps work out unique visitor numbers. | 2 years | Analytics  
-__utmb | Tracking data for Google Analytics.  Helps work out visitor session length. | 1 day | Analytics  
-__utmc | Tracking data for Google Analytics.  Helps work out visitor session length and whether a session has expired. | 1 year | Analytics  
-__utmz | Tracking data for Google Analytics.  Used to work out referrals from other domains | 6 months | Analytics  
-_abid | Tracking data for Google Analytics for Twitvid.com | 1 year | Analytics  
-__qca | Tracking data for Google Analytics for Twitvid.com | 1 year | Analytics  
-sid1554 | I2A Tracking - Interest 2 Action/iCrossing | Indefinate - No end date set | Analytics  
-pid2 | I2A Tracking - Interest 2 Action/iCrossing | Indefinate - No end date set | Analytics  
-icpid | I2A Tracking - Interest 2 Action/iCrossing | Indefinate - No end date set | Analytics  
-icsid1554 | I2A Tracking - Interest 2 Action/iCrossing | Indefinate - No end date set | Analytics  
-icsid1024 | I2A Tracking - Interest 2 Action/iCrossing | Indefinate - No end date set | Analytics  
-sid1024 | I2A Tracking - Interest 2 Action/iCrossing | Indefinate - No end date set | Analytics  
-NID | Google Maps Tracking. These cookies are unique identifiers given to each computer to allow traffic analysis to Google Maps.  | 6 months | Analytics  
-PREF |   |   | Analytics  
-AkamaiiAnalyticsDO_  
-visitMetricCsv | Brightcove Video Tracking - User initiation details | 1 year | Analytics  
-AkamaiiAnalytics_  
-VisitCookie | Brightcove Video Tracking - User initiation details | 1 year | Analytics  
-AkamaiiAnalytics_  
-VisitIsPlaying | Brightcove Video Tracking - User initiation details | 1 year | Analytics  
-AkamaiiAnalytics_  
-BrowserSessionId | Brightcove Video Tracking - User initiation details | 1 year | Analytics  
-AkamaiiAnalyticsDO_  
-visitStartTime | Brightcove Video Tracking - User initiation details | 1 year | Analytics  
-AkamaiiAnalyticsDO_  
-visitLastCloseTime | Brightcove Video Tracking - User initiation details | 1 year | Analytics  
-newsletter2505 | Overlay - Do not show option | 1 year | Analytics  
-_tmid | MCFC Shop - Identifies unique viewers and new viewers | 1 year | Analytics  
-s_cc | MCFC Shop - This cookie is set for analytics by Omniture and read by the JavaScript code to determine if cookies are enabled. At end of session. | 3 Years | Analytics  
-s_lv_s | MCFC Shop - Days since last Visit by Omniture | 1 year | Analytics  
-cmp_cookie | MCFC Shop - Omniture tracking | 1 year | Analytics  
-s_lv | MCFC Shop - Days since last Visit by Omniture | 1 year | Analytics  
-s_sq | MCFC Shop - This cookie is set for analytics by Omniture and is set and read by the JavaScript code when the ClickMap functionality is enabled; it contains information about the previous link that was clicked on by the user. At end of session. | 1 year | Analytics  
-KB_121_Currency | Kitbag - Stores currency, e.g GBP | 1 year | Analytics  
-KB_121_Language | Kitbag - Users language | 1 year | Analytics  
-KB_121_BasketID | Kitbag - Basket Id | 1 year | Analytics  
-KB_121_network | Kitbag - Network Id | 1 year | Analytics  
-NSC_QH_NDGD | See Tickets ID | 1 year | Analytics  
-VISITOR_INFO1_LIVE | Embedded YouTube link | Indefinate - No end date set | Analytics  
-PREF | Embedded YouTube link | Indefinate - No end date set | Analytics  
-MCFC_Visited | Logging User Visit on Site | Indefinate - No end date set | Targeting  
-uit | AddThis. User id and login time tracking | 2 years | Targeting  
-uid | AddThis. User id and login time tracking | 2 years | Targeting  
-uvc | AddThis. View counter cookie | 2 years | Targeting  
-psc | AddThis. View counter cookie | 2 years | Targeting  
-user_segment | AddThis. View counter cookie | 2 years | Targeting  
-di | Date tracking cookies for determining expiration of other cookies | 2 years | Targeting  
-dt | Date tracking cookies for determining expiration of other cookies | 2 years | Targeting  
-locale | Facebook Homepage Content/Promo Module - info on user if logged in | Indefinate - No end date set | Targeting  
-c_user | Facebook Homepage Content/Promo Module - info on user if logged in | Indefinate - No end date set | Targeting  
-datr | Facebook Homepage Content/Promo Module - info on user if logged in | Indefinate - No end date set | Targeting  
-lu | Facebook Homepage Content/Promo Module - info on user if logged in | Indefinate - No end date set | Targeting  
-xs | Facebook Homepage Content/Promo Module - info on user if logged in | Indefinate - No end date set | Targeting  
-sub | Facebook Homepage Content/Promo Module - info on user if logged in | Indefinate - No end date set | Targeting  
-p | Facebook Homepage Content/Promo Module - info on user if logged in | Indefinate - No end date set | Targeting  
-presence | Facebook Homepage Content/Promo Module - info on user if logged in | Indefinate - No end date set | Targeting  
-  
-#### Security of information
+**3\. Functionality cookies.**  These are used to recognise you when you return to our websites.  This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
 
-We take the security of your personal information seriously. When you submit your credit card details, we use industry standard secure sockets layer (ssl) encryption technology to guard your information. In addition, we have security procedures in place to protect our customer database from loss and misuse, and only allow access to it when absolutely necessary, and then under strict guidelines as to what use may be made of the personal information contained within it. However we cannot guarantee that any data transmission over the internet is completely secure.
+**4\. Targeting cookies.**  These cookies record your visit to our websites, the pages you have visited and the links you have followed.  We will use this information to make our websites and the advertising displayed on it more relevant to your interests.  We may also share this information with third parties for this purpose.
 
-This website contains links to other websites. We are only responsible for the privacy practices on this site. We recommend that you check the privacy and security policies and procedures of each and every other website that you visit.
+You can find more information about the individual cookies we use and the purposes for which we use them on the next page.
+
+**c. How to reject cookies?**
+
+If you wish to restrict or block the cookies we use on our websites you can do this within your browser settings.  The Help function within your browser should tell you how to do this.  For more information about how to change your browser settings please see: [www.aboutcookies.org](http://www.aboutcookies.org/).
+
+Please be aware that in disabling cookies on our websites may affect your experience of our websites where the functionality is controlled by the use of cookies.
