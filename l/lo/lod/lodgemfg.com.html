@@ -1,0 +1,3086 @@
+<!--The following is the downloaded HTML source of the lodgemfg.com privacy policy that was archived on 2015-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150609044222id_/http%3A//www.lodgemfg.com/page.asp%3Fp_key%3D0A23CFF9980440FC8D283BC55A36328C) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class=" js geolocation cssanimations cssgradients csstransforms csstransforms3d csstransitions generatedcontent video audio" style=""><!--<![endif]--><head>
+
+	<meta charset="utf-8">
+	<!--<meta name="viewport" content="width=960">-->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+
+	<title>Lodge Manufacturing Company</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<link rel="canonical" href="https://www.lodgemfg.com/page.asp">
+
+	
+	<link rel="stylesheet" href="templates/css/bootstrap.css">
+	<link rel="stylesheet" href="templates/fa/css/font-awesome.min.css">
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="templates/fa/css/font-awesome-ie7.min.css">
+	<![endif]-->
+	<link rel="stylesheet" href="templates/css/products.css?v1b">
+	<link rel="stylesheet" href="templates/css/main.css?v1b">
+	<link href="https://fonts.googleapis.com/css?family=Raleway:400,500,700,800|Passion+One:400,700,900|Roboto+Condensed" rel="stylesheet" type="text/css">
+	
+	<style>
+
+	</style>
+
+
+	<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="templates/js/vendor/modernizr.min.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="templates/js/vendor/jquery-1.8.3.min.js"><\/script>')</script><script src="templates/js/vendor/jquery-1.8.3.min.js"></script>
+	<script src="templates/js/vendor/jquery-ui-1.10.1.custom.min.js"></script>
+	<script src="templates/js/vendor/jquery.tools.scrollable.min.js"></script>
+
+	
+	
+	<script src="//maps.googleapis.com/maps/api/js?sensor=false"></script>
+
+	<!-- Google Analytics: initialize early -->
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+	  ga('create', 'UA-42056502-1', 'lodgemfg.com');
+	  ga('send', 'pageview');
+	
+	</script>
+
+	
+
+</head>
+
+<body class=" t-ui-phase-4 interior loggedout" itemscope="" itemtype="http://schema.org/WebPage">
+
+  <noscript class="noscript-padding"></noscript>
+  
+	<div class="page-container">
+
+		
+			<div class="template-header full clear-after">
+				<div class="fixed">
+					<a href="https://www.lodgemfg.com" class="logo pull-left"><img src="templates/gfx/logo.png"></a>
+					<div class="template-header-right pull-right">
+						<ul class="nav user-nav pull-right">
+							<li id="cart_window_dropdown" class="dropdown">
+								<a href="#0" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-shopping-cart"></i>&nbsp;<span id="cart_window_qty">0</span>&nbsp;<b class="caret"></b></a>
+								<article id="cart_window_incl" class="dropdown-menu pull-right cart-dropdown">
+
+	<div id="cart_window" class="cart-preview">
+		
+
+				<script>
+					var cartQtyTarg = '#cart_window_qty',
+					    cartQtyTotal = 0;
+				</script>
+
+				<div class="well muted">Your shopping cart is empty.</div>
+
+				
+					<div class="controls">
+						<a href="https://www.lodgemfg.com/showcart.asp" class="btn btn-block btn-primary">
+							<i class="icon-shopping-cart"></i> View &amp; Edit Cart
+						</a>
+					</div>
+				
+
+		<script type="text/javascript">
+			
+			jQuery(function(){
+				// Set the template cart qty on initial load
+				fncUpdateTemplateQty(cartQtyTarg, cartQtyTotal);
+			});
+
+			// Function to update the template qty value
+			function fncUpdateTemplateQty(targ, total) {
+				jQuery(targ).text(total);
+			}
+
+			// Function to remove an item from the cart window
+			function fncCartWinRemove(sUnqID, sConfirmText) {
+				var okay = confirm(sConfirmText);
+				if (okay) {
+					jQuery('#li_'+sUnqID).remove();
+					try {
+						jQuery.ajax({
+							    url: 'i_i_add_to_cart.asp',
+							   data: 'type=v200remove&ajax=returnJSON&rkey='+sUnqID,
+							   type: 'GET',
+							   dataType: "json",
+							  //async: false,
+							success: function(jsonOrder) {
+							         	fncCartRefresh(jsonOrder[1].item_count, jsonOrder[1].o_total);
+							         }
+						});
+					} catch (err) {
+						//alert(err.message);
+						location.reload();
+					}
+				}
+			} //-function fncCartWinRemove(sUnqID)
+
+			// Refreshes the (#) for the cart items count
+			function fncCartRefresh(item_count, o_total) {
+				if (typeof item_count == "undefined") {
+					try {
+						jQuery.ajax({
+								   url: 'i_i_shopping_cart_window.asp',
+								  data: 'cartwindowajax=getcart',
+								  type: 'GET',
+							  dataType: 'json',
+								 error: function (jqXHR, textStatus, errorThrown) {
+											alert('Error! ' + errorThrown + ' ' + textStatus);
+										},
+							   success: function (oData) {
+											var cart = oData || {};
+											if (typeof cart != "undefined") {
+												//console.log(cart);
+												jQuery(cartQtyTarg).html(cart.items);
+												jQuery("#cart_window_subtotal").html(cart.total);
+												//return true;
+											}
+											fncReloadCartWindow();
+										}
+						});
+					} catch(err) {
+						alert(err.message);
+					}
+				} else {
+					if (jQuery(cartQtyTarg).length==1) {
+						//console.log(cart);
+						jQuery(cartQtyTarg).html(item_count);
+						jQuery("#cart_window_subtotal").html(o_total);
+						//return true;
+					}
+					fncReloadCartWindow();
+				}
+			} //- function fncCartRefresh()
+
+			// Reload the contents of the cart window
+			function fncReloadCartWindow() {
+				try {
+					jQuery.ajax({
+						       url: 'i_i_shopping_cart_window.asp',
+						      data: 'cartwindowajax=ajaxcall',
+						      type: 'get',
+						     //async: false,
+						   success: function (oData) {
+						            	jQuery("#cart_window_incl").html(oData);
+						            	fncUpdateTemplateQty(cartQtyTarg, cartQtyTotal);
+						            	return true;
+						            }
+					});
+				} catch(err) {
+					alert(err.message);
+				}
+			} //-function fncReloadCartWindow()
+
+			function fncConfirmEmptyCart() {
+				if(confirm("Are you sure you want to empty your cart?")) {
+					fncEmptyCart();
+				}
+			}
+
+			function fncEmptyCart() {
+				jQuery.ajax({
+					       url: 'shopping_cart_window.asp',
+					      data: 'pageaction=empty_cart',
+					      type: 'get',
+					   success: function (oData) { fncReloadCartWindow(); }
+				});
+			}
+
+			
+
+		</script>
+
+	</div>
+	<!-- /#cart_window -->
+	</article>
+							</li>
+						</ul>
+						<style>
+		.validinput { border: 1px solid #008000; background-color: #CCFFCC; }
+		.invalidinput { border: 1px solid #800000; background-color: #FFCCCC; color: #000; }
+		
+	</style>
+
+	<div id="pc-searchwindow1" class="pc-searchwindow">
+	<form id="pc-searchform" name="pc-searchform" method="POST" action="" onsubmit="SubmitSearchForm1();return false;">
+	
+
+		<div class="pc-searchsection" id="pc-filter4">
+			<div class="pc-searchheader"></div>
+			<div class="pc-searchwin" id="filter_4_results">
+				<input type="text" name="search_keyword" id="search_keyword" class="pc-searchinput" maxlength="255" value="" onkeyup="fncGetSuggestions(this.value);">
+
+				<input type="hidden" name="search_tip_url" id="search_tip_url" value="">
+					<div class="pc-searchindiv" style="display:none;">
+						<br><span class="pc-searchintext">in&nbsp;</span>
+						<select name="search_string" id="search_string" class="pc-searchindrop" onchange="SetResultsPage1();"><option value="search_prod_extended;https://www.lodgemfg.com/pc_combined_results.asp?tab=product" title="Search All (Quick)">Search All (Quick)</option><option value="search_prod_nm;https://www.lodgemfg.com/pc_combined_results.asp" title="Name">Name</option><option value="search_prod_ds;https://www.lodgemfg.com/pc_combined_results.asp" title="Description">Description</option><option value="search_prod_sku;https://www.lodgemfg.com/pc_combined_results.asp" title="Part # (Contains)">Part # (Contains)</option><option value="search_prod_sku_start;https://www.lodgemfg.com/pc_combined_results.asp" title="Part # (Starts With)">Part # (Starts With)</option>
+						</select>
+					</div>
+			</div>
+		</div>
+		
+
+		<div class="pc-searchsection" id="pc-searchsubmit">
+			
+				<input type="Submit" name="search_submit" id="search_submit" value="" class="pc-submitbutton">
+			
+			<input type="hidden" id="valid_input" value="0">
+			<input type="hidden" id="valid_key" value="">
+		</div>
+	</form>
+	</div>
+
+	
+	<script type="text/javascript">
+		
+		/* Object Vars */
+			var xmlHttp;
+			var xmlDoc;
+
+		/* String Vars */
+			var sSearchVar							= 'key';
+			var sDefaultKeyword						= '';
+			var sPageName							= 'page.asp';
+			var sStoreFrontURL						= 'https://www.lodgemfg.com';
+		
+			//- these are for the search tips ajax call redirect
+			var sInitPage							= '/page.asp';
+			var sSitename							= 'lodge';
+
+		/* Boolean Vars */
+			var bOldCats							= false;
+
+			/*
+			 * Create searchstring by the splitting the terms on spaces
+			 * @author	johns
+			 * @since	??
+			 * @var		bool
+			 */
+			var bGetMatchesPerTerm					= true;
+
+			/*
+			 * Apply style filters to the searchstring created
+			 * @author	??
+			 * @since	??
+			 * @var		bool
+			 */
+			var bFilterStyles						= false;
+
+			/*
+			 * Use Auto Suggestions when searching
+			 * @author	johns
+			 * @since	??
+			 * @var		bool
+			 */
+			var bUseAutoSuggest						= true;
+
+			/*
+			 * Get ASP variable to check XML option is ON/OFF for Release Date and Pre-order Date
+			 * @author	pijsuhb
+			 * @since	11/4/2011
+			 * @var		bool
+			 */
+			var bShowReleaseDate					= false;
+			var bShowPreorderDate					= false;
+			
+			var bParentRollupSkuSearch 		    	= true;
+			var bParentRollupNameSearch 		    = true;
+			var bParentRollupDescriptionSearch 	    = true;
+			var bParentRollupOpt5Search 	        = false;
+
+			/*
+			 * Use product aliases
+			 * @author	johns
+			 * @since	7/9/2010
+			 * @var		bool
+			 */
+			var bUseProductAliases					= true;
+			
+			/*
+			 * Draw Google Analytics tags on submit
+			 * @author	vinayakj
+			 * @since	5/15/2012
+			 * @var		bool
+			 */
+			var bUseGoogleAnalyticTag				= false
+
+			/*
+			 * Declare global var to see if the ajax call has been fired to only fire once
+			 * set it to false on page load
+			 * @author	johns
+			 * @since	??
+			 * @var 	bool
+			 */
+			window.bGetSuggestions = false;
+		
+		if ( '0' == '1' ) {
+			bOldCats = true;
+		}
+
+		function fncCheckValidInput1(){
+			MakeSearchAJAXRequest(drawCheckResult1, '/page.asp?searchformaction=checkvalid&search_keyword=' + escape(document.getElementById('search_keyword').value), true, [], [], "Unable to check for valid input.", xmlDoc, null, true);
+			DisableSearchForm1()
+		}
+
+		function drawCheckResult1(xmlDoc, vNull){
+			try{
+				if (getSearchNodeValue(xmlDoc, 'KeyField', 0).length==32){
+					document.getElementById('search_keyword').className = 'pc-searchinput validinput';
+					document.getElementById('valid_input').value = '1';
+					document.getElementById('valid_key').value = getSearchNodeValue(xmlDoc, 'KeyField', 0);
+					SubmitSearchForm1();
+				} else {
+					document.getElementById('search_keyword').className = 'pc-searchinput invalidinput';
+					document.getElementById('search_keyword').value = 'Invalid Style Number!';
+					document.getElementById('valid_input').value = '0';
+					document.getElementById('valid_key').value = '';
+				}
+			}
+			catch (err){
+				document.getElementById('search_keyword').className = 'pc-searchinput invalidinput';
+				document.getElementById('search_keyword').value = 'Invalid Style Number!';
+				document.getElementById('valid_input').value = '0';
+				document.getElementById('valid_key').value = '';
+				//alert(err.message);
+			}
+
+			EnableSearchForm1();
+		}
+
+		function GetSubCategories1(vField){
+			var strSearchVals = '';
+			var strLoadingTxt = 'Loading&hellip;';
+			
+			if ( bOldCats == true ) {
+
+				switch ( vField ) {
+
+					case 2:strSearchVals = escape(jQuery('#searchfield1').val());
+
+						if ( jQuery('#filter_1_2').length > 0 ) {
+							jQuery('#filter_1_2').html(strLoadingTxt);
+							jQuery('#filter_1_2').show();						
+						}
+
+						if ( jQuery('#filter_1_3').length > 0 ) {
+							jQuery('#filter_1_3').html('');
+							jQuery('#filter_1_3').hide();						
+						}
+
+						if ( jQuery('#filter_1_4').length > 0 ) {
+							jQuery('#filter_1_4').html('');
+							jQuery('#filter_1_4').hide();						
+						}
+
+						break;
+					case 3:
+						strSearchVals = escape(jQuery('#searchfield2').val());
+
+						if ( jQuery('#filter_1_3').length > 0 ) {
+							jQuery('#filter_1_3').html(strLoadingTxt);
+							jQuery('#filter_1_3').show();						
+						}
+
+						if ( jQuery('#filter_1_4').length > 0 ) {
+							jQuery('#filter_1_4').html('');
+							jQuery('#filter_1_4').hide();						
+						}
+
+						break;
+					case 4:
+						strSearchVals = escape(jQuery('#searchfield3').val());
+
+						if ( jQuery('#filter_1_4').length > 0 ) {
+							jQuery('#filter_1_4').html(strLoadingTxt);
+							jQuery('#filter_1_4').show();						
+						}
+
+						break;
+
+				} //- switch ( vField )
+
+				if ( jQuery('#searchfield1').val().replace(/\s+/, '') != '' ) {
+
+					DisableSearchForm1();
+					MakeSearchAJAXRequest(DrawSubCategories1, '/page.asp?searchformaction=ajaxcall&searchformactiontype=getoldcats&pc_key=' + strSearchVals + '&field=' + escape(vField), true, [], [], false, "", xmlDoc, vField, true);
+
+				} else {
+					
+					if ( jQuery('#filter_1_2').length > 0 ) {
+						jQuery('#filter_1_2').html('');
+						jQuery('#filter_1_2').hide();						
+					}
+
+					if ( jQuery('#filter_1_3').length > 0 ) {
+						jQuery('#filter_1_3').html('');
+						jQuery('#filter_1_3').hide();						
+					}
+
+					if ( jQuery('#filter_1_4').length > 0 ) {
+						jQuery('#filter_1_4').html('');
+						jQuery('#filter_1_4').hide();						
+					}
+
+				} //- if ( jQuery('#searchfield1').val().replace(/\s+/, '') != '' )
+
+			} else {
+
+				switch ( vField ) {
+
+					case 2:
+						strSearchVals = '&searchfield1=' + escape(jQuery('#searchfield1').val()) + '&searchfield2=' + escape(trim(getSearchQueryVariable('searchfield2')));
+
+						if ( jQuery('#filter_1_2').length > 0 ) {
+							jQuery('#filter_1_2').html(strLoadingTxt);
+							jQuery('#filter_1_2').show();						
+						}
+
+						if ( jQuery('#filter_1_3').length > 0 ) {
+							jQuery('#filter_1_3').html('');
+							jQuery('#filter_1_3').hide();						
+						}
+
+						if ( jQuery('#filter_1_4').length > 0 ) {
+							jQuery('#filter_1_4').html('');
+							jQuery('#filter_1_4').hide();						
+						}
+
+						if ( jQuery('#filter_2_1').length > 0 ) {
+							jQuery('#filter_2_1').html(strLoadingTxt);
+							jQuery('#filter_2_1').show();						
+						}
+
+						break;
+
+					case 3:
+						strSearchVals = '&searchfield1=' + escape(jQuery('#searchfield1').val()) + '&searchfield2=' + escape(jQuery('#searchfield2').val()) + '&searchfield3=' + escape(trim(getSearchQueryVariable('searchfield3')));
+
+						if ( jQuery('#filter_1_3').length > 0 ) {
+							jQuery('#filter_1_3').html(strLoadingTxt);
+							jQuery('#filter_1_3').show();						
+						}
+
+						if ( jQuery('#filter_1_4').length > 0 ) {
+							jQuery('#filter_1_4').html('');
+							jQuery('#filter_1_4').hide();						
+						}
+
+						if ( jQuery('#filter_2_1').length > 0 ) {
+							jQuery('#filter_2_1').html(strLoadingTxt);
+							jQuery('#filter_2_1').show();						
+						}
+
+						break;
+
+					case 4:
+						strSearchVals = '&searchfield1=' + escape(jQuery('#searchfield1').val()) + '&searchfield2=' + escape(jQuery('#searchfield2').val()) + '&searchfield3=' + escape(jQuery('#searchfield3').val()) + '&searchfield4=' + escape(trim(getSearchQueryVariable('searchfield4')));
+
+						if ( jQuery('#filter_1_4').length > 0 ) {
+							jQuery('#filter_1_4').html(strLoadingTxt);
+							jQuery('#filter_1_4').show();
+						}
+
+						if ( jQuery('#filter_2_1').length > 0 ) {
+							jQuery('#filter_2_1').html(strLoadingTxt);
+							jQuery('#filter_2_1').show();						
+						}
+						break;
+
+				} //- switch ( vField )
+
+				//Removed '' check to resolve bug - dand 2/1/2010
+				//if (document.getElementById('searchfield1').value.replace(/\s+/, "")!=''){ 
+					DisableSearchForm1();
+					MakeSearchAJAXRequest(DrawSubCategories1, '/page.asp?searchformaction=ajaxcall&searchformactiontype=getsubcats&usestyle=0&field=' + escape(vField) + strSearchVals, true, [], [], false, "", xmlDoc, vField, true);
+				/*} else { 
+					document.getElementById('filter_1_2').innerHTML = '';
+					document.getElementById('filter_1_2').style.display = 'none';
+					document.getElementById('filter_1_3').innerHTML = '';
+					document.getElementById('filter_1_3').style.display = 'none';
+					document.getElementById('filter_1_4').innerHTML = '';
+					document.getElementById('filter_1_4').style.display = 'none';
+				}*/
+
+			} //- if ( bOldCats == true )
+		}
+
+		function DrawSubCategories1(xmlDoc, Step){
+			var bContinue = false;
+			var bFireNext = false;
+			var bSelectedOpt = false;
+
+			var sDisplay = '';
+			var sStepPrePop = trim(getSearchQueryVariable('searchfield' + Step)).replace(new RegExp('%2520', 'g'), ' ');
+			var sPrepop = sStepPrePop.replace(new RegExp('%20', 'g'), ' ');
+			var sSel112 = '[Select Sub-Category]';
+			var sSel113 = '[Select Sub-Category]';
+			var sSel114 = '[Select Sub-Category]';
+			var sSelOne = '[Select One]';
+			var sValue = '';
+
+			if ( Step <= parseInt('4') ){
+				bContinue = true;
+			}
+
+			switch (Step){
+				case 2:
+					sSelOne = sSel112;
+					break;
+				case 3:
+					sSelOne = sSel113;
+					break;
+				case 4:
+					sSelOne = sSel114;
+					break;
+				default:
+					sSelOne = '[Select One]';
+					break;
+			}
+
+			if ((xmlDoc.childNodes.length > 0) && (bContinue==true)){
+				try{
+					if (bOldCats==true){
+						oSubCats = xmlDoc.getElementsByTagName('record');
+					} else {
+						oSubCats = xmlDoc.getElementsByTagName('searchfield' + Step);
+					}
+
+					var sSelectOneText = sSelOne.replace(/<count>/ig, oSubCats.length);
+
+					if (oSubCats.length > 0){
+						document.getElementById('filter_1_' + Step).innerHTML = '<select name="searchfield' + Step + '" id="searchfield' + Step + '" class="pc-searchdrop" onchange="GetSubCategories1(' + (Step + 1) + ');"><option value="">' + sSelectOneText + '</option></select>';
+
+						for (var iResults = 0; iResults < oSubCats.length; iResults++) {
+							try{
+								if (bOldCats==true){
+									sDisplay = oSubCats[iResults].childNodes[0].childNodes[0].nodeValue;
+									sValue = oSubCats[iResults].childNodes[2].childNodes[0].nodeValue;
+								} else {
+									sDisplay = oSubCats[iResults].childNodes[0].nodeValue;
+									sValue = oSubCats[iResults].childNodes[0].nodeValue;
+								}
+								if (sPrepop.toLowerCase()==trim(sValue).toLowerCase()){
+									bSelectedOpt = true;
+									bFireNext = true;
+								} else {
+									bSelectedOpt = false;
+								}
+
+								document.getElementById('searchfield' + Step).options[iResults + 1] = new Option(sDisplay, sValue, bSelectedOpt);
+								document.getElementById('searchfield' + Step).options[iResults + 1].title = sDisplay;
+
+								if (bSelectedOpt==true){
+									document.getElementById('searchfield' + Step).options[iResults + 1].selected = true;
+								}
+							}
+							catch (err){
+								//alert('Error in XML Loop - ' + err.message);
+							}
+						}
+					} else {
+
+						if ( jQuery('#filter_1_' + Step).length > 0 ) {
+							jQuery('#filter_1_' + Step).html('');
+							jQuery('#filter_1_' + Step).hide();					
+						}
+
+					}
+
+					EnableSearchForm1();
+				}
+				catch (err){
+					EnableSearchForm1();
+
+					if ( jQuery('#filter_1_' + Step).length > 0 ) {
+						jQuery('#filter_1_' + Step).html('');
+						jQuery('#filter_1_' + Step).hide();					
+					}
+
+					//alert('Error in XML Load - ' + err.message);
+				}
+			} else {
+				EnableSearchForm1();
+
+				if ( jQuery('#filter_1_' + Step).length > 0 ) {
+					jQuery('#filter_1_' + Step).html('');
+					jQuery('#filter_1_' + Step).hide();					
+				}
+			}
+
+			if (bFireNext==true){
+				GetSubCategories1(Step + 1);
+				if ((Step==parseInt('4'))&&(bOldCats==false)){
+					GetManu1();
+				}
+			} else {
+				if (bOldCats==false){
+					GetManu1();
+				}
+			}
+
+			HideBlankDropdowns1();
+
+		}
+
+		function GetManu1(){
+			DisableSearchForm1();
+
+			var strSearchVals = '';
+			var strCopyVal = '';
+
+			for (var iSF = 1; iSF <= 4; iSF++){
+				try{
+					if (trim(document.getElementById('searchfield' + iSF).value)!=''){
+						strCopyVal = strSearchVals;
+						strSearchVals = strCopyVal = '&searchfield' + iSF + '=' + escape(trim(document.getElementById('searchfield' + iSF).value));
+					}
+				}
+				catch (err){
+					//alert(err.message);
+				}
+			}
+
+			MakeSearchAJAXRequest(DrawManus1, '/page.asp?searchformaction=ajaxcall&searchformactiontype=getmanufacturers&usestyle=0' + strSearchVals + '&searchfield5=' + escape(trim(getSearchQueryVariable('searchfield5'))), true, [], [], false, "", xmlDoc, null, true);
+		}
+
+		function DrawManus1(xmlDoc){
+			var sStepPrePop = trim(getSearchQueryVariable('searchfield5')).replace(new RegExp('%2520', 'g'), ' ');
+			var sPrepop = sStepPrePop.replace(new RegExp('%20', 'g'), ' ');
+
+			if (xmlDoc.childNodes.length > 0){
+				try{
+					var sSelOne = '[All Manufacturers]';
+
+					var oManus = xmlDoc.getElementsByTagName('searchfield5');
+
+					var sSelectOneText = sSelOne.replace(/<count>/ig, oManus.length);
+
+					document.getElementById('filter_2_1').innerHTML = '<select name="searchfield5" id="searchfield5" class="pc-searchdrop"><option value="">' + sSelectOneText + '</option></select>';
+
+					for (var iResults = 0; iResults < oManus.length; iResults++) {
+						try{
+							if (sPrepop.toLowerCase()==trim(oManus[iResults].childNodes[0].nodeValue).toLowerCase()){
+								bSelectedOpt = true;
+								bFireNext = true;
+							} else {
+								bSelectedOpt = false;
+							}
+							document.getElementById('searchfield5').options[iResults + 1] = new Option(oManus[iResults].childNodes[0].nodeValue, oManus[iResults].childNodes[0].nodeValue, bSelectedOpt);
+							document.getElementById('searchfield5').options[iResults + 1].title = oManus[iResults].childNodes[0].nodeValue;
+
+							//- this is for IE to prepopulate searchfield5
+							if (bSelectedOpt==true){ 
+								document.getElementById('searchfield5').options[iResults + 1].selected = true; 
+							}  
+						}
+						catch (err){
+							//alert(err.message);
+						}
+					}
+
+					document.getElementById('filter_2_1').style.display = 'block';
+					EnableSearchForm1();
+				}
+				catch (err){
+					EnableSearchForm1();
+					try{
+						document.getElementById('filter_2_1').innerHTML = '';
+						document.getElementById('filter_2_1').style.display = 'none';
+					} catch (err){
+						//alert(err.message);
+					}
+					//alert(err.message);
+				}
+			} else {
+				EnableSearchForm1();
+				try{
+					document.getElementById('filter_2_1').innerHTML = '';
+					document.getElementById('filter_2_1').style.display = 'none';
+				} catch (err){
+					//alert(err.message);
+				}
+			}
+
+		}
+
+		function HideBlankDropdowns1(){
+			var bShow = true;
+
+			for (iDD = 1; iDD <= 5; iDD++){
+				bShow = true;
+
+				try{
+					if (document.getElementById('searchfield' + iDD).options.length<=1){
+						bShow = false;
+					}
+
+					if (bShow==false){
+						switch (iDD){
+							case 1:
+								document.getElementById('filter_1_1').innerHTML = '';
+								document.getElementById('filter_1_1').style.display = 'none';
+								break;
+							case 2:
+								document.getElementById('filter_1_2').innerHTML = '';
+								document.getElementById('filter_1_2').style.display = 'none';
+								break;
+							case 3:
+								document.getElementById('filter_1_3').innerHTML = '';
+								document.getElementById('filter_1_3').style.display = 'none';
+								break;
+							case 4:
+								document.getElementById('filter_1_4').innerHTML = '';
+								document.getElementById('filter_1_4').style.display = 'none';
+								break;
+							case 5:
+								document.getElementById('filter_2_1').innerHTML = '';
+								document.getElementById('filter_2_1').style.display = 'none';
+								break;
+						}
+					}
+				}
+				catch (err){
+					//alert(err.message);
+				}
+			}
+		}
+
+		function DisableSearchForm1(){
+			document.getElementById('search_submit').disabled = true;
+
+			try{
+				document.getElementById('searchfield1').disabled = true;
+			}
+			catch (err){
+				//alert(err.message);
+			}
+
+			try{
+				document.getElementById('searchfield2').disabled = true;
+			}
+			catch (err){
+				//alert(err.message);
+			}
+		
+			try{
+				document.getElementById('searchfield3').disabled = true;
+			}
+			catch (err){
+				//alert(err.message);
+			}
+
+			try{
+				document.getElementById('searchfield4').disabled = true;
+			}
+			catch (err){
+				//alert(err.message);
+			}
+
+			try{
+				document.getElementById('searchfield5').disabled = true;
+			}
+			catch (err){
+				//alert(err.message);
+			}
+
+			try{
+				for (var iCheck = 0; iCheck <= document.getElementsByName('searchfield6').length; iCheck++){
+					try{
+						document.getElementsByName('searchfield6')[iCheck].disabled = true;
+					}
+					catch (err){
+						//alert(err.message);
+					}
+				}
+			}
+			catch (err){
+				//alert(err.message);
+			}
+
+
+			try{
+				document.getElementById('search_keyword').disabled = true;
+				document.getElementById('search_string').disabled = true;
+			}
+			catch (err){
+				//alert(err.message);
+			}
+
+			try{
+				document.getElementById('search_page').disabled = true;
+			}
+			catch (err){
+				//alert(err.message);
+			}
+
+
+		}
+
+		function EnableSearchForm1(){
+			document.getElementById('search_submit').disabled = false;
+
+			try{
+				document.getElementById('searchfield1').disabled = false;
+			}
+			catch (err){
+				//alert(err.message);
+			}
+
+			try{
+				document.getElementById('searchfield2').disabled = false;
+			}
+			catch (err){
+				//alert(err.message);
+			}
+		
+			try{
+				document.getElementById('searchfield3').disabled = false;
+			}
+			catch (err){
+				//alert(err.message);
+			}
+
+			try{
+				document.getElementById('searchfield4').disabled = false;
+			}
+			catch (err){
+				//alert(err.message);
+			}
+
+			try{
+				document.getElementById('searchfield5').disabled = false;
+			}
+			catch (err){
+				//alert(err.message);
+			}
+
+			try{
+				for (var iCheck = 0; iCheck <= document.getElementsByName('searchfield6').length; iCheck++){
+					try{
+						document.getElementsByName('searchfield6')[iCheck].disabled = false;
+					}
+					catch (err){
+						//alert(err.message);
+					}
+				}
+			}
+			catch (err){
+				//alert(err.message);
+			}
+
+
+			try{
+				document.getElementById('search_keyword').disabled = false;
+				document.getElementById('search_string').disabled = false;
+			}
+			catch (err){
+				//alert(err.message);
+			}
+
+			try{
+				document.getElementById('search_page').disabled = false;
+			}
+			catch (err){
+				//alert(err.message);
+			}
+		}
+
+		function SetResultsPage1(){
+			
+			var aSearchInfo = document.getElementById('search_string').value.split(';');
+			if (aSearchInfo.length>=2){
+				try{
+					document.getElementById('search_page').value = aSearchInfo[1];
+				}
+				catch (err){
+					//alert(err.message);
+				}
+			}
+		}	
+
+		/**
+		 * Launches lightbox to select a model
+		 * @author dand
+		 * @since 9/20/2010
+		 */
+		function selectModel(){
+
+			// Finish adding code to remove image, check with chris if doing this right
+							
+			if(! jQuery('#style_searchfield1_make').val()){
+				alert('Please select a Make first.');
+				return false;
+			}
+
+			oLightbox					= new cLightbox();
+			oLightbox.windowTitle		= 'Select a Model';
+			oLightbox.windowText		= '';
+			oLightbox.sql_id			= 'Distinct_Style_Searchfield2';
+			oLightbox.sql_version		= '0';
+			oLightbox.sql_revision		= '1';
+			oLightbox.cat_id			= '';
+			oLightbox.db_extra			= 'pcs.pcs_key,(pcs.nm) as nm'
+										+ ', (\'<img src=\'\'\' + IsNull(imageurl, \'images/\') + IsNull(pcs.pic2, \'spacer.gif\') + \'\'\' width=\'\'116\'\' />\') as pic'
+										+ '' + ", 'showModel()' as selectEvent";
+			oLightbox.filter			= '(searchexactnot~searchfield2~|and|isnullnot~searchfield2)|and|(searchexact~status~1|or|isnull~status~)|and|searchexact~searchfield1~' + jQuery('#style_searchfield1_make').val();
+			oLightbox.primary_key		= 'pcs_key';
+			oLightbox.order_by			= 'pcs.nm~asc';
+			oLightbox.columns			= 'pic;Image~nm;Description';
+			oLightbox.search_columns	= 'nm;Description';
+			oLightbox.fields			= 'selectEvent;selectEvent;js~pic;pcs_pic_label;html~pcs_key;pcs_id;text~nm;pcs_id_label;html';
+			oLightbox.css				= '';
+			oLightbox.draw_styles		= '1';
+			oLightbox.classic_style		= '0';
+			oLightbox.querystring		= '&use_cb_view=1&cb_page_size=10000&cb_js_search=0';
+			oLightbox.popwidth			= '80%';
+			oLightbox.popheight			= '80%';
+			oLightbox.isMgrFront		= false;
+			oLightbox.blankload			= false;
+			oLightbox.selectpop			= '';
+			oLightbox.distinctq			= '0';
+			oLightbox.prepopvalue		= '';
+			oLightbox.radiokey			= '';
+			oLightbox.prepopradio		= '';
+			oLightbox.showActionsColumn	= '1';
+			oLightbox.countfield		= '';
+			oLightbox.bUseClassicLightbox = false;
+			oLightbox.css				= '';
+			oLightbox.bUseOverlayClose	= true;
+
+			oLightbox.build();
+
+		}//-function selectModel
+		
+		// DD - Show model, show and clear replaced toggle which was being called way too much and when not necessary
+		function showModel() {
+			jQuery('#remove_model').show();
+			jQuery('#pick_model').addClass('filter_change');
+			jQuery('#pick_model').val('Change');
+		}
+
+		/**
+		 * Clears data selected for the Model when the Make
+		 * is updated/changed.
+		 * @author dand
+		 * @since 8/23/2010
+		 */
+		function clearModel(){
+			jQuery('#pcs_id_label').html('All Models');
+			jQuery('#pcs_pic_label').html('');
+			jQuery('#pcs_id').val('');
+
+			jQuery('#remove_model').hide();
+			jQuery('#pick_model').val('Select A Model');
+			jQuery('#pick_model').removeClass('filter_change');
+		}//-function clearModel
+		
+		function SubmitSearchForm1 () {		
+			
+			/* Boolean Vars */
+			var bSearchString			= true;
+			var bAddSFUrlToSearchPage	= true;
+			var bUseSearchLogging		= true;
+
+			/* String Vars */
+			var sPrefix					= '<PREFIX>';
+			var sDefaultResultsPage		= 'pc_combined_results.asp';
+			var sSearchField1			= '';
+			var sSearchField5			= '';
+			var sSearchField6			= '';
+			var sSearchString			= '';
+			var sBreadCrumbs			= '';
+			var sTempCrumbs				= '';
+			var sMakeModelQs			= '';
+			var sPCKey					= '';
+			var sTempKeyword			= '';
+			var sTempSearchPage			= '';
+			var sTemp5					= '';		
+			var sTemp6					= '';
+			var sSearchValue6			= '';
+			var sTempBread6				= '';		
+			var sCombinedSearch			= '';
+			var sTempSearch				= '';	
+			var sCatSearch				= '';
+			var sStyleSearch			= '';
+			var sProdSearch				= '';
+			var sCombinedSS				= '';
+			var sConcat					= '';
+			var sSearchType				= '';
+			var sSearchPage 			= '';
+			
+			/* Integer Vars */
+			var iLenCombinedSS			= 0;
+
+			/* Array Vars */
+			var aSearching;
+			var aSearchInfo;
+
+			/* Strip Single Quotes */
+			stripSingleQuotes();
+
+			if ( bAddSFUrlToSearchPage ) {
+				sSearchPage	= sStoreFrontURL + '/' + sDefaultResultsPage;
+			} else {
+				sSearchPage	= sDefaultResultsPage;
+			} //- if ( bAddSFUrlToSearchPage )
+
+			if ( bOldCats ) {
+
+				for ( var iSF = 1; iSF <= 4; iSF++ ) {
+
+					try {
+						if ( jQuery('#searchfield' + iSF).val() != '' && jQuery('#searchfield' + iSF).val() != 'undefined' && typeof jQuery('#searchfield' + iSF).val() != 'undefined' ) {
+							sPCKey			= jQuery('#searchfield' + iSF).val() != '';
+							sTempCrumbs		= sBreadCrumbs;
+							sBreadCrumbs	= sTempCrumbs + '&searchfield' + iSF + '=' + escape(jQuery('#searchfield' + iSF).val() != '');
+						} //- if ( jQuery('#searchfield' + iSF).val() != '' || jQuery('#searchfield' + iSF).val() != 'undefined' || typeof jQuery('#searchfield' + iSF).val() != 'undefined' )
+					} catch ( oError ){
+						//alert(oError.message);
+					}
+
+				} //- for ( var iSF = 1; iSF <= 4; iSF++ )
+
+				if ( sPCKey != '' ) {
+
+					if ( bFilterStyles ) {
+						sSearchField1 = 'searchin~pcs.pcs_key~Product_Category_Style_Map.0.0~searchexact^pc_id^' + sPCKey;
+					} else {
+						sSearchField1 = 'searchin~p.p_key~Product_Category_Map.0.0~searchexact^pc_id^' + sPCKey;
+					} //- if ( bFilterStyles )
+
+				} //- if ( sPCKey != '' )
+
+			} else {
+
+				for ( var iSF = 1; iSF <= 4 ; iSF++ ) {
+
+					try {
+						if ( jQuery('#searchfield' + iSF).val() != '' && jQuery('#searchfield' + iSF).val() != 'undefined' && typeof jQuery('#searchfield' + iSF).val() != 'undefined' ) {
+
+							if ( jQuery.trim(sSearchField1) != '' ) {
+								sSearchField1 += '|and|'
+							} //- if ( jQuery.trim(sSearchField1) != '' )
+
+							if ( bUseProductAliases ) {
+								sSearchField1 += '(searchexact~' + sPrefix + 'searchfield' + iSF + '~' + escape(jQuery('#searchfield' + iSF).val()) + '|or|searchexact~pa.searchfield' + iSF + '_alias~' + escape(jQuery('#searchfield' + iSF).val()) + ')';
+							} else {
+								sSearchField1 += 'searchexact~' + sPrefix + 'searchfield' + iSF + '~' + escape(jQuery('#searchfield' + iSF).val());
+							} //- if ( bUseProductAliases )
+
+							sBreadCrumbs += '&searchfield' + iSF + '=' + escape(jQuery('#searchfield' + iSF).val());
+
+						} //- if ( jQuery('#searchfield' + iSF).val() != '' || jQuery('#searchfield' + iSF).val() != 'undefined' || typeof jQuery('#searchfield' + iSF).val() != 'undefined' ) {
+					} catch ( oError ){
+						//alert(oError.message);
+					}
+
+				} //- for ( var iSF = 1; iSF <= 4 ; iSF++ )
+
+			} //- if ( bOldCats )
+
+			try {
+
+				if ( jQuery('#searchfield5').val() != '' && jQuery('#searchfield5').val() != 'undefined' && typeof jQuery('#searchfield5').val() != 'undefined' ) {
+					sSearchField5	= 'searchexact~' + sPrefix + 'searchfield5~' + escape(document.getElementById('searchfield5').value);
+
+					sBreadCrumbs +='&searchfield5=' + escape(document.getElementById('searchfield5').value);
+				}
+
+			} catch ( oError ) { 
+				//alert(oError.message);
+			}
+
+			try {
+			
+				for ( var iCheck = 0, iGoTo = document.getElementsByName('searchfield6').length; iCheck <= iGoTo; iCheck++) {
+
+					try {
+
+						if ( jQuery.trim(sSearchField6) != '' ) {
+							sTemp6 = sSearchField6;
+							sSearchField6 = sTemp6 + '~' + escape(document.getElementsByName('searchfield6')[iCheck].value);			
+							sSearchValue6 = sTempV6 + '~' + escape(document.getElementsByName('searchfield6')[iCheck].value);
+						} else {
+							sSearchField6 = 'searchlist~' + sPrefix + 'searchfield6~' + escape(document.getElementsByName('searchfield6')[iCheck].value);			
+							sSearchValue6 = escape(document.getElementsByName('searchfield6')[iCheck].value);
+						} //- if ( jQuery.trim(sSearchField6) != '' )
+
+					} catch ( oError ) {
+						//alert(oError.message);
+					}
+				} //- for ( var iCheck = 0, iGoTo = document.getElementsByName('searchfield6').length; iCheck <= iGoTo; iCheck++)
+
+				if ( jQuery.trim(sSearchField6) != '' ) {
+					sBreadCrumbs += '&searchfield6=' + escape(sSearchValue6);
+				} //- if ( jQuery.trim(sSearchField6) != '' )
+
+			} catch ( oError ) {
+				//alert(oError.message);
+			}
+
+			try {
+				
+				// check for default text in keyword field
+				if ( jQuery('#search_keyword').val() == sDefaultKeyword ) {
+					document.getElementById('search_keyword').value = '';
+				} //- if ( jQuery('#search_keyword').val() == sDefaultKeyword )
+
+			} catch ( oError ){
+				//alert(oError.message);
+			}
+			
+			try {
+			
+				if ( trim(jQuery('#search_keyword').val()) != '' ) {
+
+					if ( document.getElementById('search_string') == null ) {
+						bSearchString = false;
+
+						if ( jQuery('#valid_input').val() == '0' ) {
+							sSearchString = trim( jQuery('#search_keyword').val() );
+						} else {
+							sSearchString = trim( jQuery('#valid_key').val() );
+						} //- if ( jQuery('#valid_input').val() == '0' )
+					} else {
+
+						aSearchInfo = jQuery('#search_string').val().split(';');
+						sSearchType = aSearchInfo[0];
+						
+						fncParseUserSearchTerms ( sSearchType );
+
+						try {
+							sTempSearchPage = aSearchInfo[1];
+						} catch ( oError ) {
+							sTempSearchPage = sSearchPage;
+							//alert(oError.message);
+						}
+
+					} //- if ( document.getElementById('search_string') == null )
+
+					sSearchString = window.sSearchString;
+
+					sBreadCrumbs += sTempKeyword + '&search_keyword=' + escape(trim(document.getElementById('search_keyword').value));
+
+				} //- if ( trim(jQuery('#search_keyword').val()) != '' )
+
+			} catch ( oError ) {
+				alert(oError.message);
+			}
+			
+			/*
+			 * make sure the value is set if default is blank
+			 * johns - 8/17/2011
+			 */
+			if ( jQuery.trim(sTempSearchPage) == '' ) {
+				sTempSearchPage = sSearchPage;
+			}
+
+			if ( jQuery.trim(sSearchField1) != '' ) {
+				sCombinedSearch = '(' + sSearchField1 + ')';
+			} //- if ( jQuery.trim(sSearchField1) != '' )
+
+			/*
+			 * Make & Model Search String
+			 */
+			if ( jQuery('#pcs_id').length > 0 ) {
+
+				try {
+
+					sSelectedModel	= jQuery('#pcs_id').val();
+					sSelectedMake	= jQuery('#style_searchfield1_make').val();
+					sMakeModelQs	= "&make=" + escape(sSelectedMake) + "&model=" + escape(sSelectedModel)
+
+					//Model Search
+					if ( jQuery('#pcs_id').length > 0 && jQuery('#pcs_id').val() != '' ){
+						
+						if ( jQuery.trim(sCombinedSearch) != '' ) {
+							sCombinedSearch += '|and|(searchexact~pcs.pcs_key~' + sSelectedModel + ')';
+						}else{
+							sCombinedSearch = '(searchexact~pcs.pcs_key~' + sSelectedModel + ')';
+						} //- if ( jQuery.trim(sCombinedSearch) != '' )
+
+					//Make Search
+					} else if ( jQuery('#style_searchfield1_make').length > 0 && jQuery('#style_searchfield1_make').val() != '' ) {
+
+						if ( jQuery.trim(sCombinedSearch) != '' ) {
+							sCombinedSearch += '|and|(searchexact~pcs.searchfield1~' + sSelectedMake + ')';
+						} else {
+							sCombinedSearch = '(searchexact~pcs.searchfield1~' + sSelectedMake + ')';
+						} //- if ( jQuery.trim(sCombinedSearch) != '' ) {
+
+					} //- if(jQuery('#pcs_id').length > 0 && jQuery('#pcs_id').val() != "")
+
+				} catch( oError ) {
+					//alert(oError.message);
+				}
+				
+			} //- if ( jQuery('#pcs_id').length > 1 )
+
+			if ( jQuery.trim(sSearchField5) != '' ) {
+
+				if ( jQuery.trim(sCombinedSearch) != '' ) {
+					sTempSearch		= sCombinedSearch;
+					sCombinedSearch = sTempSearch + '|and|(' + sSearchField5 + ')';
+				} else {
+					sCombinedSearch = '(' + sSearchField5 + ')';
+				} //- if ( jQuery.trim(sCombinedSearch) != '' )
+
+			} //- if ( jQuery.trim(sSearchField5) != '' )
+
+			if ( jQuery.trim(sSearchField6) != '' ) {
+
+				if ( jQuery.trim(sCombinedSearch) != '' ) {
+					sTempSearch		= sCombinedSearch;
+					sCombinedSearch = sCombinedSearch + '|and|(' + sSearchField6 + ')';
+				} else {
+					sCombinedSearch = '(' + sSearchField6 + ')';
+				} //- if ( jQuery.trim(sCombinedSearch) != '' )
+
+			} //- if ( jQuery.trim(sSearchField6) != '' )
+			
+			/*
+			 * Draw search string for release date and pre-order date based on inputs 
+			 * @author pijushb
+			 * @since 11/4/2011
+			 **/
+			if ( bShowReleaseDate ) {
+
+				if ( document.getElementsByName('releasedate_from') ) {
+
+					window.releasedate_from = jQuery("#releasedate_from").val();
+					dReleaseFrom = jQuery("#releasedate_from").val();
+					dReleaseTo = jQuery("#releasedate_to").val();
+					releaseSearch = ""
+
+					if ( jQuery.trim(dReleaseFrom) != '' && jQuery.trim(dReleaseTo) === '' ) {
+						 releaseSearch = "searchgreaterthanequal~p.release_date~"+ dReleaseFrom
+						 sBreadCrumbs = sBreadCrumbs + "&releasedate_from="+dReleaseFrom
+					} //-if ( jQuery.trim(dReleaseFrom) != '' && jQuery.trim(dReleaseTo) === '' )
+					
+					if ( jQuery.trim(dReleaseFrom) === '' && jQuery.trim(dReleaseTo) != '' ) {
+						 releaseSearch = "searchlessthanequal~p.release_date~"+ dReleaseTo
+						 sBreadCrumbs = sBreadCrumbs + "&releasedate_to="+dReleaseTo
+					} //-if ( jQuery.trim(dReleaseFrom) === '' && jQuery.trim(dReleaseTo) != '' )
+					
+					if ( jQuery.trim(dReleaseFrom) != '' && jQuery.trim(dReleaseTo) != '' ) {
+						 releaseSearch = "searchbetween~p.release_date~"+ dReleaseFrom + "~" + dReleaseTo
+						  sBreadCrumbs = sBreadCrumbs + "&releasedate_from="+dReleaseFrom + "&releasedate_to="+dReleaseTo
+					} //-if ( jQuery.trim(dReleaseFrom) === '' && jQuery.trim(dReleaseTo) != '' )
+
+					if ( jQuery.trim(sCombinedSearch) != '' ) {
+						
+						if (releaseSearch!= '')
+						{
+							sCombinedSearch = sCombinedSearch + '|and|(' + releaseSearch + ')';
+						}
+					} 
+					else
+					{
+					  if (releaseSearch!= '')
+						sCombinedSearch = '(' + releaseSearch + ')';
+					}
+
+				} //- if (document.getElementsByName('releasedate_from'))
+			
+			} //- if ( bShowReleaseDate )
+			
+			if ( bShowPreorderDate ) {
+
+				if ( document.getElementsByName('preorderdate_from') ) {
+				
+					dPreorderFrom = jQuery("#preorderdate_from").val();
+					dPreorderTo = jQuery("#preorderdate_to").val();
+					preorderSearch = "";
+
+					if ( jQuery.trim(dPreorderFrom) != '' && jQuery.trim(dPreorderTo) === '' ) {
+						 preorderSearch = "searchgreaterthanequal~p.preorder_date~"+ dPreorderFrom
+						 sBreadCrumbs = sBreadCrumbs + "&preorderdate_from="+dPreorderFrom
+					} //-if ( jQuery.trim(dReleaseFrom) != '' && jQuery.trim(dReleaseTo) === '' )
+					
+					if ( jQuery.trim(dPreorderFrom) === '' && jQuery.trim(dPreorderTo) != '' ) {
+						 preorderSearch = "searchlessthanequal~p.preorder_date~"+ dPreorderTo
+						  sBreadCrumbs = sBreadCrumbs + "&preorderdate_to="+dPreorderTo
+					} //-if ( jQuery.trim(dReleaseFrom) === '' && jQuery.trim(dReleaseTo) != '' )
+					
+					if ( jQuery.trim(dPreorderFrom) != '' && jQuery.trim(dPreorderTo) != '' ) {
+						 preorderSearch = "searchbetween~p.preorder_date~"+ dPreorderFrom + "~" + dPreorderTo
+						 sBreadCrumbs = sBreadCrumbs + "&preorderdate_from="+dPreorderFrom + "&preorderdate_to="+dPreorderTo
+					} //-if ( jQuery.trim(dReleaseFrom) === '' && jQuery.trim(dReleaseTo) != '' )
+
+					if ( jQuery.trim(sCombinedSearch) != '' ) {
+
+						if (preorderSearch != '')
+						{
+							sCombinedSearch = sCombinedSearch + '|and|(' + preorderSearch + ')';
+						}
+					} 
+					else
+					{
+					  if (preorderSearch != '')
+						sCombinedSearch = '(' + preorderSearch + ')';
+					}
+
+				} //- if (document.getElementsByName('preorderdate_from'))
+			
+			} //- if ( bShowPreorderDate )
+			
+			if ( sSearchString === '' ) {
+
+				if ( bSearchString ) {
+
+					if ( jQuery.trim(sSearchString) != '' ) {
+
+						aSearching = sSearchString.split('&');
+
+						for ( var iSS = 0, iGoTo = aSearching.length; iSS < iGoTo; iSS++ ) {
+
+							switch ( aSearching[iSS].substring(0, 10) ) {
+								case 'search_cat':
+									try {
+										sCatSearch = aSearching[iSS] + '|and|' + sCombinedSearch;
+
+										if ( jQuery.trim(sCombinedSS) != '' ) {
+											sTempSearch = sCombinedSS;
+											sCombinedSS = sTempSearch + '&' + sCatSearch;
+										} else {
+											sCombinedSS = (sCatSearch);
+										} //- if ( jQuery.trim(sCombinedSS) != '' )
+									} catch ( oError ) {
+										//alert('search_cat - ' + oError.message);
+									}
+
+									break;
+
+								case 'search_sty':
+									try {
+										sStyleSearch = aSearching[iSS] + '|and|' + sCombinedSearch.replace(new RegExp('<PREFIX>', 'gi'), 'pcs.');
+
+										if ( jQuery.trim(sCombinedSS) != '' ) {
+											sTempSearch = sCombinedSS;
+											sCombinedSS = sTempSearch + '&' + sStyleSearch;
+										} else {
+											sCombinedSS = (sStyleSearch);
+										} //- if ( jQuery.trim(sCombinedSS) != '' )
+									} catch ( oError ) {
+										//alert('search_sty - ' + oError.message);
+									}
+
+									break;
+
+								case 'search_pro':
+									try {
+										sProdSearch = aSearching[iSS] + '|and|' + sCombinedSearch.replace(new RegExp('<PREFIX>', 'gi'), 'p.');
+
+										if ( jQuery.trim(sCombinedSS) != '' ){
+											sTempSearch = sCombinedSS;
+											sCombinedSS = sTempSearch + '&' + sProdSearch;
+										} else {
+											sCombinedSS = (sProdSearch);
+										} //- if ( jQuery.trim(sCombinedSS) != '' )
+									} catch ( oError ) {
+										//alert('search_pro - ' + oError.message);
+									}
+
+									break;
+
+								default:
+									break;
+
+							} //- switch ( aSearching[iSS].substring(0, 10) )
+
+						} //- for ( var iSS = 0, iGoTo = aSearching.length; iSS < iGoTo; iSS++ )
+
+						sCombinedSearch = sCombinedSS;
+
+					} else {
+
+						sTempSearch = sCombinedSearch;
+						sCombinedSearch = 'search_style=' + (sTempSearch) + '&search_prod=' + (sTempSearch);
+						
+
+					} //- if ( jQuery.trim(sSearchString) != '' )
+
+				} else {
+
+					sCombinedSearch = sSearchVar + '=' + (sSearchString);
+
+				} //- if ( bSearchString )
+
+				if ( jQuery.trim(sCombinedSearch) != '' ) {
+					sTempSearch		= sCombinedSearch;
+					sCombinedSearch = sTempSearch.replace( new RegExp( '<PREFIX>', 'gi' ), 'p.' );
+				} //- if ( jQuery.trim(sCombinedSearch) != '' )
+			
+			} //- if ( sSearchString === '' )
+
+			try {
+				if ( jQuery('#search_page').length > 0 ) {
+					
+					if ( trim(jQuery('#search_page').val()) != '' ) {					
+						sSearchPage = trim(jQuery('#search_page').val());
+					} else {
+						sSearchPage = sTempSearchPage;
+					} //- if ( trim(jQuery('#search_page').val() ) != '')
+
+				} else {
+					sSearchPage = sTempSearchPage;
+				} //- if ( jQuery('#search_page').length > 0 )
+			} catch ( oError ) {
+				sSearchPage = sTempSearchPage;
+	//			alert(oError.message);
+			}
+			
+			try {
+				
+				/*
+				 *	check to see if the search tip url hidden input field
+				 *	has been populated
+				 */
+				if ( bUseAutoSuggest && jQuery('#search_tip_url').val() == '' ) {
+					
+					/*
+					 *	if it is blank, ge the value of term being searched
+					 *	for
+					 */
+					sSearchTerm = jQuery('#search_keyword').val();
+					sSearchTerm = sSearchTerm.toLowerCase();
+					
+					/*
+					 *	loop through the json object build by the ajax call
+					 *	to build the search tips list
+					 */
+					for ( var i = 0, goTo = window.oSearch.terms.length; i < goTo; i++ ) {
+											
+						/*
+						 *	get the term value of json object
+						 */
+						sTerm			= window.oSearch.terms[i];
+						sOriginalTerm	= sTerm;
+						sTerm			= sTerm.toLowerCase();
+						
+						/*
+						 *	see if the term matches the word being searched for
+						 */
+						if ( sTerm == sSearchTerm ) {
+							
+							/*
+							 *	get the values for the term matching the word being searched for
+							 */
+							oResult = window.oSearch[sOriginalTerm];
+
+							/*
+							 *	if the term matching the word being searched for
+							 *	has action = 'link' and the url is not blank then
+							 *	set the hidden input field for the search tip url
+							 *	to the url of the current term index
+							 */
+							if ( oResult.action == 'link' && oResult.url != '' ) {
+
+								/*
+								 *	get the length of the name of the site currently on(needed
+								 *	to see if the sitename/virtualweb needs to be 
+								 *	stripped off)
+								 */
+								iLenSitename = sSitename.length;
+								
+								/*
+								 *	if on an admin server strip off the '/sitename/virtualweb/' off the 
+								 *	current page name (pulled from the Request.ServerVariables("SCRIPT_NAME")
+								 */
+								if (sInitPage.substr(0,iLenSitename + 13) == '/' + sSitename + '/virtualweb/') {
+									sInitPage = sInitPage.substr(iLenSitename + 13);
+								}
+
+								/*
+								 *	check to see if the static page is located in
+								 *	a directory (only assuming one directory deep off the root
+								 *	since static pages are only one directory deep 
+								 *	off the root)
+								 */
+								if ( sInitPage.indexOf('/') >= 0 ) {
+									sResultUrl = '../' + oResult.url;
+								} else {
+									sResultUrl = oResult.url;
+								} //- if ( sInitPage.indexOf('/') >= 0 )
+
+								/*
+								 *	set the hidden input field to the url of the matched term
+								 */
+								jQuery('#search_tip_url').val(sResultUrl);
+								break;
+
+							} //- if ( oResult.action == 'link' && oResult.url != '' )
+
+						} //- if ( sTerm == sSearchTerm )
+
+					} //- for ( var i = 0, goTo = window.oSearch.terms.length; i < goTo; i++ )
+
+				} else if ( bUseAutoSuggest && jQuery('#search_tip_url').val() != '' ) {
+
+					sSearchPage		= jQuery('#search_tip_url').val();
+					sCombinedSearch = '';
+					sBreadCrumbs	= '';
+					sMakeModelQs	= '';
+					sConcat			= '';
+
+				} //- if ( bUseAutoSuggest && jQuery('#search_tip_url').val() == '' )
+			
+			} catch ( oError ) {
+				//alert(oError.message);
+			}
+
+			if ( sSearchString !== '' && sCombinedSearch !== '' ) {
+				sCombinedSearch = sSearchString + '|And|' + sCombinedSearch;
+			} else if ( sSearchString !== '' ) {
+				sCombinedSearch = sSearchString;
+			} //- if ( sCombinedSearch === '' )
+
+			sConcat			= '?';
+			iLenCombinedSS	= sCombinedSearch.length;
+			sCombinedSearch = jQuery.trim(sCombinedSearch);
+
+			if ( sCombinedSearch.substr(iLenCombinedSS - 5, 5) === '|and|' ) {
+				sCombinedSearch = sCombinedSearch.substr(0, iLenCombinedSS - 5)
+			} //- if ( sCombinedSearch.substr(iLenCombinedSS - 5, 5) == '|and|' )
+
+			if ( sSearchPage && sSearchPage.indexOf('?') >= 0 ) {
+				sConcat = '&';
+			} //- if ( sSearchPage && sSearchPage.indexOf('?') >= 0 )
+
+			if ( sCombinedSearch.toLowerCase().indexOf('<prefix>') > 0 ) {
+				
+				if ( bFilterStyles ) {
+
+					if ( sCombinedSearch.indexOf('search_style') < 0 ) {
+						sCombinedSearch = 'search_style=' + sCombinedSearch.toLowerCase().replace(/\<prefix>/gi, 'pcs.');
+					} else {
+						sCombinedSearch = sCombinedSearch.toLowerCase().replace(/\<prefix>/gi, 'pcs.');
+					} //- if ( sCombinedSearch.indexOf('search_style') < 1 )
+
+				} else {
+
+					if ( sCombinedSearch.indexOf('search_prod') < 0 ) {
+						sCombinedSearch = 'search_prod=' + sCombinedSearch.toLowerCase().replace(/\<prefix>/gi, 'p.');
+					} else {
+						sCombinedSearch = sCombinedSearch.toLowerCase().replace(/\<prefix>/gi, 'p.');
+					} //- if ( sCombinedSearch.indexOf('search_prod') < 1 )
+
+				} //- if ( bFilterStyles )
+
+			} //- if ( sCombinedSearch.toLowerCase().indexOf('<prefix>') > 0 )
+			
+			if ( bUseAutoSuggest && jQuery('#search_tip_url').val() != '' ) {
+				sSearchPage		= jQuery('#search_tip_url').val();
+				sCombinedSearch = '';
+				sBreadCrumbs	= '';
+				sMakeModelQs	= '';
+				sConcat			= '';
+			} //- if ( bUseAutoSuggest && jQuery('#search_tip_url').val() != '' )
+			
+			// build final url that will be redirected to
+			var finalURL = sSearchPage + sConcat + sCombinedSearch.replace(/"/gi,'%22') + sBreadCrumbs + sMakeModelQs
+
+			// log the url before redirecting to it
+			if ( bUseSearchLogging ) {
+				sKeyword = jQuery('#search_keyword').val();
+
+				fncLogKeywordSearch( sKeyword, finalURL );
+			}
+
+			window.location = finalURL;
+
+		} //- function SubmitSearchForm1 ()
+
+		/**
+		 * This function fires an ajax call to log the keyword search.
+		 *
+		 * @author	johns
+		 * @since	6/28/2012
+		 *
+		 * @param	sKeyword (string): keyword(s) searching for
+		 * @param	sUrl (string): url redirected to see the results
+		 *				of the search
+		 * 
+		 * @return	void
+		 */
+		function fncLogKeywordSearch ( sKeyword, sUrl ) {
+			
+			/* 
+			 * trim off the admin folders from the script name
+			 */
+			sAdminFolder = '/' + sSitename + '/virtualweb/'
+			
+			/* 
+			 * get the pagename to fire the ajax call on even if it is
+			 * on static page in a directory
+			 */
+			if ( sInitPage.indexOf(sSitename) > 0 ) {
+				sPageName = sInitPage.substr(sAdminFolder.length)
+			} //- if ( sInitPage.indexOf(sSitename) > 0 )
+
+			jQuery.ajax({
+				url: sPageName,
+				data: 'searchformaction=ajaxcall&searchformactiontype=logsearch&search_keyword=' + sKeyword + '&search_page=' + encodeURIComponent(sUrl) + '&r_id=' + new Date().getTime(),
+				type: 'GET',
+				async: false,
+				dataType: 'text',
+				beforeSend: '',
+				success: function () { return; }
+				
+			});
+		
+		} //- function fncLogKeywordSearch ( sType, sKeyword, sUrl )
+
+		/**
+		 * This function takes the search terms the user entered and 
+		 * builds the search string to be passed to the Search Results
+		 * page. 
+		 *
+		 * If GET_MATCHES_PER_TERM is turned on, then it will split the 
+		 * search terms on whitespace (i.e.: [space], [tab]) to create a
+		 * list of search terms. It also will search phrases if you have
+		 * them inside single or double quotes. Then once it creates the
+		 * list, it will build the search string to be passed to the
+		 * Search Results page. 
+		 *
+		 * If GET_MATCHES_PER_TERM is turned off, it will build the 
+		 * search string by taking replacing the words <Keyword> and
+		 * <Length> in the searchtype variable passed into the function.
+		 *
+		 * @author		johns
+		 * @created		11/19/2010
+		 *
+		 * @param		sSearchType string 
+		 *					if GET_MATCHES_PER_TERM is turned on, this contains a string
+		 *						like "search_prod_nm" or "search_prod_sku"
+		 *					if GET_MATCHES_PER_TERM is turned off, this contains a string
+		 *						like "search_prod=(searchlike~p.nm~<Keyword>)" or 
+		 *						"search_prod=(searchlike~p.sku~<Keyword>)"
+		 */
+		function fncParseUserSearchTerms ( sSearchType ) {
+			/*
+			 * array variables
+			 */
+				var aNewSearchTerms;
+				var aFieldsToCheck;
+			
+			/*
+			 * string variables
+			 */
+				var sSearchTerms					= encodeURIComponent(jQuery('#search_keyword').val());
+				var sFieldsToCheck					= '';
+				var sTerms							= '';
+				var sTempTerms						= '';
+				var sNewSearchTerms					= '';
+				var sResult							= '';
+				var sNewSearchString				= '';
+				var sKeywordSearch 					= '';
+				var sParentRollupSkuSearch 			= '';
+				var sParentRollupNameSearch 		= '';
+				var sParentRollupDescriptionSearch 	= '';
+				var sParentRollupOpt5Search 	    = '';
+				var sChildRollupSearch 				= '';
+				var sChildRollupSkuSearch 			= '';
+				var sChildRollupNameSearch 			= '';
+				var sChildRollupDescriptionSearch 	= '';
+				var sChildRollupSizeSearch 			= '';
+				var sChildRollupColorSearch 		= '';
+				var sSearchTermsAll					= '';
+				var sSearchField10					= '';
+				var sSearchField11					= '';
+				var sSearchField12					= '';
+				var sSearchField13					= '';
+				var sSearchField14					= '';
+				var sSearchField15					= '';
+				var sSearchFieldsTerm 				= '';
+				var sSearchStringFields 			= '';
+				var sSearchFields 					= '';
+			
+			/*
+			 * boolean variables
+			 */
+				var bFirstField							= true;
+				var bUseChildRollupSearch				= true;
+				var bUseChildRollupSkuSearch			= false;
+				var bUseChildRollupNameSearch			= false;
+				var bUseChildRollupDescriptionSearch	= false;
+				var bUseChildRollupSizeSearch			= false;
+				var bUseChildRollupColorSearch			= false;
+				var bUseSearchTermsAll					= false;
+				var bUseKeywordSearchTerms				= true;
+				var bUseSearchField10					= false;
+				var bUseSearchField11					= false;
+				var bUseSearchField12					= false;
+				var bUseSearchField13					= false;
+				var bUseSearchField14					= false;
+				var bUseSearchField15					= false;
+
+
+			/*
+			 * integer variables
+			 */
+				var iLenFieldCheck;
+
+			/*
+			 * global variables
+			 */
+				window.sSearchString = '';
+
+			if ( bGetMatchesPerTerm ) {
+
+				/*
+				 * determine which fields to check based on the type of search
+				 */
+				switch ( sSearchType.substring(0, 10) ) {
+
+					case 'search_pro':
+						sSearchPrefix = 'p.';
+						break;
+
+					case 'search_sty':
+						sSearchPrefix = 'pcs.';
+						break;
+
+					case 'search_cat':
+						sSearchPrefix = 'pc.';
+						break;
+
+				} //- switch ( sSearchType.substring(0, 10) )
+
+				/*
+				 * determine which fields to check based on the type of search
+				 */
+				switch ( sSearchType ) {
+
+					case 'search_prod_extended':
+						sFieldsToCheck = 'p.sku,p.nm,p.ds,p.search_terms';
+						if (bUseProductAliases)
+						{
+							sFieldsToCheck = sFieldsToCheck + ',pa.sku_alias,pa.nm_alias,pa.ds_alias'
+						}
+
+						break;
+
+					case 'search_prod_quick':					
+						if ( bUseChildRollupSearch ) {
+							sChildRollupSearchField = ',' + sSearchPrefix + 'child_rollup_search_terms';
+						} //- if ( bUseChildRollupSearch )
+
+						sFieldsToCheck = sSearchPrefix + 'search_terms_all' + sChildRollupSearchField;
+
+						break;
+					
+					case 'search_prod_nm':
+						if ( bUseProductAliases ) {
+							sFieldsToCheck = 'pa.nm_alias,' + sSearchPrefix + 'nm';
+						} else {
+							sFieldsToCheck = sSearchPrefix + 'nm';
+						}
+
+						break;
+					
+					case 'search_prod_ds':
+						if ( bUseProductAliases ) {
+							sFieldsToCheck = 'pa.ds_alias,' + sSearchPrefix + 'ds';
+						} else {
+							sFieldsToCheck = sSearchPrefix + 'ds';
+						}
+
+						break;
+					
+					case 'search_prod_sku':
+						if ( bUseProductAliases ) {
+							sFieldsToCheck = 'pa.sku_alias,' + sSearchPrefix + 'sku';
+						} else {
+							sFieldsToCheck = sSearchPrefix + 'sku';
+						}
+
+						break;
+					
+					case 'search_prod_sku_start':
+						if ( bUseProductAliases ) {
+							sFieldsToCheck = 'pa.sku_alias,' + sSearchPrefix + 'sku';
+						} else {
+							sFieldsToCheck = sSearchPrefix + 'sku';
+						}
+
+						iLenFieldCheck = sSearchTerms.length;
+						break;
+
+				} //- switch ( sSearchType )
+
+				/*
+				 * build an array from a list of fields to check in the extended search
+				 * by splitting the list on ','
+				 */			
+				aFieldsToCheck = sFieldsToCheck.split(',');
+				
+				/*
+				 * decode certain chars that we are using split the search terms and
+				 * look for specific phrases: double quotes and spaces
+				 */
+				sSearchTerms = sSearchTerms.replace(/\%22/gi,'"').replace(/\%20/gi,' ');
+
+				/*
+				 * search through the search terms for phrases marked by single or 
+				 * double quotes
+				 */
+				sResult = sSearchTerms.match(/('|")(.*?)('|")/g, "$1");
+
+				/*
+				 * check to see if any phrases were found and get final list of search terms
+				 */
+				if ( sResult != null ) {
+					
+					/*
+					 * build an array of search term phrase smarked by single or 
+					 * double quotes; replace the quotes with commas and remove
+					 * the quotes
+					 */
+					for ( iCounter = 0, iGoTo = sResult.length - 1; iCounter < sResult.length; iCounter++ ) {
+
+						if ( iCounter > 0 ) {
+							sTerms += ',';
+						} //- if ( iCounter > 0 )
+
+						sTempTerms += sResult[iCounter];
+
+						if ( iCounter < iGoTo ) {
+							sTempTerms += ' ';
+						} //- if ( iCounter < iGoTo )
+
+						sTerms += sResult[iCounter].replace(/^('|")|('|")$/g, "");
+
+					} //- for ( iCounter = 0, iGoTo = sResult.length - 1; iCounter < sResult.length; iCounter++ )
+					
+					/*
+					 * specific phrases to search for denoted by quote marks
+					 * (double or single)
+					 */
+					sNewSearchTerms = sTerms;
+					
+					/*
+					 * append any other search text that was not denoted as phrases
+					 */
+					if ( trim(sSearchTerms.replace(sTempTerms,'')).replace(/\s/gi,',') !== '' ) {
+						sNewSearchTerms+= ',' + trim(sSearchTerms.replace(sTempTerms,'')).replace(/\s/gi,',');
+					} //- if ( trim(sSearchTerms.replace(sTempTerms,'')).replace(/\s/,',') !== '' )
+					
+				} else {
+					sNewSearchTerms = sSearchTerms.replace(/\%20/gi,' ').replace(/\s/gi,',');
+				} //- if ( sResult != null )
+				
+				/*
+				 * split the array of search terms on commas
+				 */
+				aNewSearchTerms = sNewSearchTerms.split(',');
+
+				/*
+				 * loop through the search terms split on whitespace
+				 */					
+				for ( var iTermCounter = 0, iTermGoTo = aNewSearchTerms.length - 1; iTermCounter <= iTermGoTo; iTermCounter++ ) {
+
+					/*
+					 * loop through the fields to search list with the current search term
+					 */
+					for ( var iFieldCounter = 0, iFieldGoTo = aFieldsToCheck.length - 1; iFieldCounter <= iFieldGoTo; iFieldCounter++ ) {
+						
+						/*
+						 * check to see if we are at the first field
+						 * if so, add the opening parantheses
+						 */
+						if ( bFirstField ) {
+							sNewSearchString = sNewSearchString + '(';
+						} //- if ( bFirstField )
+
+						/*
+						 * check to see if the searchstring var has assigned to anything yet
+						 * if so, concatentate '|Or|' to the end of the string
+						 */
+						if ( sNewSearchString != '' && !bFirstField ) {
+							sNewSearchString = sNewSearchString + '|Or|';
+						} //- if ( sNewSearchString != '' && !bFirstField )
+						
+						/*
+						 * build the searchstring with the current search term and field based
+						 * on the search type
+						 */
+						 if ( sSearchType == 'search_prod_sku_start' ) {
+							sNewSearchString = sNewSearchString + 'searchleft~' + aFieldsToCheck[iFieldCounter] + '~' + iLenFieldCheck + '~' + aNewSearchTerms[iTermCounter];
+						 } else {
+							sNewSearchString = sNewSearchString + 'searchlike~' + aFieldsToCheck[iFieldCounter] + '~' + aNewSearchTerms[iTermCounter];
+						 } //-  if ( sSearchType == 'search_prod_sku_start' )
+						
+						/*
+						 * set the var to false that signals we are on the first field the next time 
+						 * through the loop
+						 */
+						bFirstField = false;
+
+					} //- for ( var iFieldCounter = 0, iFieldGoTo = aFieldsToCheck.length - 1; iFieldCounter <= iFieldGoTo; iFieldCounter++ )
+					
+					/*
+					 * after looping through the fields to search with the current search term,
+					 * reset the var that signals we are on the first field the next time we
+					 * loop through them
+					 */						
+					bFirstField = true;
+					
+					/*
+					 * after looping through the fields to search with the current search term,
+					 * check to see if we just looped through the last search term
+					 */
+					if ( iTermCounter >= iTermGoTo ) {
+						
+						/*
+						 * if we are at the last search term, add the closing parantheses to 
+						 * the current search term
+						 */
+						sNewSearchString = sNewSearchString + ')';
+
+					} else {
+						
+						/*
+						 * if we are not at the last search term, add the closing parantheses
+						 * to the current search term and concatenate '|And|' to the end of 
+						 * the searchstring
+						 */
+						sNewSearchString = sNewSearchString + ')|And|';
+
+					} //- if ( iTermCounter >= iTermGoTo )
+
+				} //- for ( var iTermCounter = 0, iTermGoTo = aNewSearchTerms.length - 1; iTermCounter <= iTermGoTo; iTermCounter++ )
+				
+				if ( sSearchType === 'search_prod_extended' || sSearchType === 'search_prod_quick' ) {
+
+					/*
+					 * strip quotes for child product rolled up data searching from denoted phrases
+					 */
+			
+					sSearchTerms = sSearchTerms.replace(/\"/gi,'');
+
+					if ( bUseChildRollupSearch ) sChildRollupSearch = '|Or|searchlike~p.child_rollup_search_terms~' + sSearchTerms;
+
+					if ( bUseKeywordSearchTerms ) sKeywordSearch = '|Or|searchlike~p.search_terms~' + sSearchTerms;
+
+					if ( bUseChildRollupSkuSearch ) sChildRollupSkuSearch = '|Or|searchlike~p.child_skus~' + sSearchTerms;
+
+					if ( bUseChildRollupNameSearch ) sChildRollupNameSearch = '|Or|searchlike~p.child_nms~' + sSearchTerms;
+
+					if ( bUseChildRollupDescriptionSearch ) sChildRollupDescriptionSearch = '|Or|searchlike~p.child_ds~' + sSearchTerms;
+
+					if ( bUseChildRollupSizeSearch ) sChildRollupSizeSearch = '|Or|searchlike~p.child_sizes~' + sSearchTerms;
+
+					if ( bUseChildRollupColorSearch ) sChildRollupColorSearch = '|Or|searchlike~p.child_colors~' + sSearchTerms;
+					
+					if ( bUseSearchTermsAll ) sSearchTermsAll = '|Or|searchlike~p.search_terms_all~' + sSearchTerms;
+
+				} //- if ( sSearchType === 'search_prod_extended' || sSearchType === 'search_prod_quick' )
+
+				window.sSearchString = 'search_prod=(' + sNewSearchString + sChildRollupSearch + sKeywordSearch + sChildRollupSkuSearch + sChildRollupNameSearch + sChildRollupDescriptionSearch + sChildRollupSizeSearch + sChildRollupColorSearch + sSearchTermsAll + ')';
+			
+			} else {
+
+				sSearchKeyword = jQuery('#search_keyword').val().replace('+','%2B')
+				sSearchKeyword = jQuery.trim(sSearchKeyword);
+
+				switch ( sSearchType ) {
+
+					case 'search_prod_quick':
+					
+						if ( bFilterStyles ) {
+
+							window.sSearchString = 'search_style=(searchlike~pcs.num~' + sSearchKeyword + '|Or|searchlike~pcs.nm~' + sSearchKeyword + '|Or|searchlike~pcs.ds~' + sSearchKeyword + ')';
+
+						} else {
+
+							if ( bUseChildRollupSearch ) 			sChildRollupSearch = '|Or|searchlike~p.child_rollup_search_terms~' + sSearchKeyword;
+							if ( bUseKeywordSearchTerms ) 			sKeywordSearch = '|Or|searchlike~p.search_terms~' + sSearchKeyword;
+							if ( bUseChildRollupSkuSearch ) 		sChildRollupSkuSearch = '|Or|searchlike~p.child_skus~' + sSearchKeyword;
+							if ( bUseChildRollupNameSearch ) 		sChildRollupNameSearch = '|Or|searchlike~p.child_nms~' + sSearchKeyword;
+							if ( bUseChildRollupDescriptionSearch ) sChildRollupDescriptionSearch = '|Or|searchlike~p.child_ds~' + sSearchKeyword;
+							if ( bUseChildRollupSizeSearch ) 		sChildRollupSizeSearch = '|Or|searchlike~p.child_sizes~' + sSearchKeyword;
+							if ( bUseChildRollupColorSearch ) 		sChildRollupColorSearch = '|Or|searchlike~p.child_colors~' + sSearchKeyword;							
+							if ( bUseSearchTermsAll ) 				sSearchTermsAll = '|Or|searchlike~p.search_terms_all~' + sSearchKeyword;
+
+							if(sSearchFields == ""){
+								if ( bUseSearchField10 ) 				sSearchField10 = '|Or|searchlike~p.searchfield10~' + sSearchKeyword;
+								if ( bUseSearchField11 ) 				sSearchField11 = '|Or|searchlike~p.searchfield11~' + sSearchKeyword;
+								if ( bUseSearchField12 ) 				sSearchField12 = '|Or|searchlike~p.searchfield12~' + sSearchKeyword;
+								if ( bUseSearchField13 ) 				sSearchField13 = '|Or|searchlike~p.searchfield13~' + sSearchKeyword;
+								if ( bUseSearchField14 ) 				sSearchField14 = '|Or|searchlike~p.searchfield14~' + sSearchKeyword;
+								if ( bUseSearchField15 ) 				sSearchField15 = '|Or|searchlike~p.searchfield15~' + sSearchKeyword;
+							}
+
+							for(iSearchCounter = 0; iSearchCounter < sSearchFields.split(",").length; iSearchCounter++){
+								sSearchFieldsTerm = jQuery.trim(sSearchFields.split(",")[iSearchCounter]);
+								if(sSearchFieldsTerm != undefined && sSearchFieldsTerm != ''){
+									sSearchStringFields = sSearchStringFields + '|Or|searchlike~' + sSearchFieldsTerm + '~' + sSearchKeyword;
+								}
+							}
+							
+							if ( bUseProductAliases ) {
+
+								if ( bParentRollupSkuSearch ) sParentRollupSkuSearch = 'searchlike~p.sku~' + sSearchKeyword + '|Or|searchlike~pa.sku_alias~' + sSearchKeyword;
+								
+								if ( bParentRollupNameSearch ) sParentRollupNameSearch = '|Or|searchlike~p.nm~' + sSearchKeyword + '|Or|searchlike~pa.nm_alias~' + sSearchKeyword;
+
+								if ( bParentRollupDescriptionSearch ) sParentRollupDescriptionSearch = '|Or|searchlike~p.ds~' + sSearchKeyword + '|Or|searchlike~pa.ds_alias~' + sSearchKeyword;
+
+								if ( bParentRollupOpt5Search ) sParentRollupOpt5Search = '|Or|searchlike~p.opt5~' + sSearchKeyword;
+
+								window.sSearchString = 'search_prod=(' + sParentRollupSkuSearch + sParentRollupNameSearch + sParentRollupDescriptionSearch +  sSearchTermsAll + sChildRollupSearch + sKeywordSearch + sChildRollupSkuSearch + sChildRollupNameSearch + sChildRollupDescriptionSearch + sChildRollupSizeSearch + sChildRollupColorSearch + sSearchField10 + sSearchField11 + sSearchField12 + sSearchField13 + sSearchField14 + sSearchField15 + sSearchStringFields + ')';
+
+							} else {
+
+								 if ( bParentRollupSkuSearch ) sParentRollupSkuSearch = 'searchlike~p.sku~' + sSearchKeyword;
+								
+								if ( bParentRollupNameSearch ) sParentRollupNameSearch = '|Or|searchlike~p.nm~' + sSearchKeyword;
+
+								if ( bParentRollupDescriptionSearch ) sParentRollupDescriptionSearch = '|Or|searchlike~p.ds~' + sSearchKeyword;
+
+								if ( bParentRollupOpt5Search ) sParentRollupOpt5Search = '|Or|searchlike~p.opt5~' + sSearchKeyword;
+
+								window.sSearchString = 'search_prod=(' + sParentRollupSkuSearch + sParentRollupNameSearch + sParentRollupDescriptionSearch + sParentRollupOpt5Search + sSearchTermsAll + sChildRollupSearch + sChildRollupSkuSearch + sChildRollupNameSearch + sChildRollupDescriptionSearch + sChildRollupSizeSearch + sChildRollupColorSearch + sKeywordSearch + sSearchField10 + sSearchField11 + sSearchField12 + sSearchField13 + sSearchField14 + sSearchField15 + sSearchStringFields + ')';
+
+							} //- if ( bUseProductAliases ) {
+
+						} //- if ( bFilterStyles )
+
+						break;
+
+					case 'search_prod_nm':
+					
+						if ( bFilterStyles ) {
+							window.sSearchString = 'search_style=(searchlike~pcs.nm~' + sSearchKeyword + ')';
+						} else if ( bUseProductAliases ) {
+							window.sSearchString = 'search_prod=(searchlike~pa.nm_alias~' + sSearchKeyword + '|Or|searchlike~p.nm~' + sSearchKeyword + ')';
+						} else {
+							window.sSearchString = 'search_prod=(searchlike~p.nm~' + sSearchKeyword + ')';
+						} //- if ( bFilterStyles )
+						break;
+
+					case 'search_prod_ds':
+					
+						if ( bFilterStyles ) {
+							window.sSearchString = 'search_style=(searchlike~pcs.ds~' + sSearchKeyword + ')';
+						} else if ( bUseProductAliases ) {
+							window.sSearchString = 'search_prod=(searchlike~pa.ds_alias~' + sSearchKeyword + '|Or|searchlike~p.ds~' + sSearchKeyword + ')';
+						} else {
+							window.sSearchString = 'search_prod=(searchlike~p.ds~' + sSearchKeyword + ')';
+						} //- if ( bFilterStyles )
+
+						break;
+
+					case 'search_prod_sku':
+					
+						if ( bFilterStyles ) {
+							window.sSearchString = 'search_style=(searchlike~pcs.num~' + sSearchKeyword + ')';
+						} else if ( bUseProductAliases ) {
+							window.sSearchString = 'search_prod=(searchlike~pa.sku_alias~' + sSearchKeyword + '|Or|searchlike~p.sku~' + sSearchKeyword + ')';
+						} else {
+							window.sSearchString = 'search_prod=(searchlike~p.sku~' + sSearchKeyword + ')';
+						} //- if ( bFilterStyles )
+
+						break;
+
+					case 'search_prod_sku_start':
+						
+						iKeywordLength = sSearchKeyword.length
+
+						if ( bFilterStyles ) {
+							window.sSearchString = 'search_style=(searchleft~pcs.num~' + iKeywordLength + '~' + sSearchKeyword + ')';
+						} else if ( bUseProductAliases ) {
+							window.sSearchString = 'search_prod=(searchleft~pa.sku_alias~' + iKeywordLength + '~' + sSearchKeyword + '|Or|searchleft~p.sku~' + iKeywordLength + '~' + sSearchKeyword + ')';
+						} else {
+							window.sSearchString = 'search_prod=(searchleft~p.sku~' + iKeywordLength + '~' + sSearchKeyword + ')';
+						} //- if ( bFilterStyles )
+
+						break;
+
+					default:
+
+						window.sSearchString = sSearchType.replace(new RegExp('<Keyword>', 'gi'), trim(document.getElementById('search_keyword').value)).replace('+','%2B');
+						var sTempSS = window.sSearchString.replace(new RegExp('<Length>', 'gi'), trim(document.getElementById('search_keyword').value).length);
+						window.sSearchString = sTempSS;
+
+						break;
+
+				} //- switch ( sSearchType )
+
+			} //- if ( bGetMatchesPerTerm ) {
+
+		} //function fncParseUserSearchTerms ( sSearchType )
+
+		function AdvEnterDisable1(myfield, e){
+			var key;
+			var keychar;
+
+			if (window.event)
+			   key = window.event.keyCode;
+			else if (e)
+			   key = e.which;
+			else
+			   return true;
+			keychar = String.fromCharCode(key);
+
+			if (key==13)
+				return false;
+
+			else
+				return true;
+		}
+
+		/************************************************************************************
+		*** START XML/AJAX FUNCTIONS ********************************************************
+		************************************************************************************/
+
+		function createSearchXMLDoc(XMLFile) {
+			// code for IE
+			if (window.ActiveXObject){
+				xmlDoc = new ActiveXObject("Microsoft.XMLDOM");
+				xmlDoc.loadXML(XMLFile);
+			// code for Mozilla, Firefox, Opera, etc.
+			} else if (document.implementation && document.implementation.createDocument){
+				var parser = new DOMParser();
+				var xmlDoc = parser.parseFromString(XMLFile, "text/xml");
+			} else {
+				alert('Your browser cannot handle this script.');
+			}
+
+			return(xmlDoc);
+		}
+
+		function loadSearchXMLDoc(XMLFile) {
+			// code for IE
+			if (window.ActiveXObject){
+				xmlDoc = new ActiveXObject("Microsoft.XMLDOM");
+				xmlDoc.async="false";
+				xmlDoc.load(XMLFile);
+			// code for Mozilla, Firefox, Opera, etc.
+			} else if (document.implementation && document.implementation.createDocument){
+				var xmlDoc = document.implementation.createDocument("","",null);
+				xmlDoc.async="false";
+				xmlDoc.load(XMLFile);
+			} else {
+				alert('Your browser cannot load "' + XMLFile + '"'); 
+			}
+
+			return(xmlDoc);
+		}
+
+		function serializeSearchXML(XMLObj){
+			var strXML = '';
+
+			// code for IE
+			if (window.ActiveXObject){
+				strXML = XMLObj.xml;
+			// code for Mozilla, Firefox, Opera, etc.
+			} else if (document.implementation && document.implementation.createDocument){
+				//xmlDoc = document.implementation.createDocument("", "", null);
+				strXML = (new XMLSerializer()).serializeToString(XMLObj);
+			} else {
+				alert('Your browser cannot serialize this script.');
+			}
+
+			return(strXML);
+		}
+
+		function getSearchXMLNodeValue(xmlDoc, tagName, index) {
+			if (xmlDoc.getElementsByTagName(tagName)[index].childNodes[0] != null)
+				return xmlDoc.getElementsByTagName(tagName)[index].childNodes[0].nodeValue;
+			else
+				return '';
+		}
+
+		// Create an XMLHttpRequest object
+		function GetSearchXMLHttpObject() {
+			var xmlHttp = null;
+			try {
+				// Firefox, Opera 8.0+, Safari
+				xmlHttp = new XMLHttpRequest();
+			} catch (e) {
+				// Internet Explorer
+				try {
+					xmlHttp = new ActiveXObject("Msxml2.XMLHTTP");
+				} catch (e) {
+					xmlHttp = new ActiveXObject("Microsoft.XMLHTTP");
+				}
+			}
+			return xmlHttp;
+		}
+
+		function MakeSearchAJAXRequest(fncHandleSearchData, strPage, bAsync, aShow, aHide, bDisable, errorMsg, xmlDoc, vID, bDebug) {
+			xmlHttp = GetSearchXMLHttpObject();
+			if (xmlHttp==null){
+				alert ("Your browser does not support AJAX.");
+				return;
+			}
+
+			if (bDisable == null){
+				bDisable = false;
+			}
+
+			var i;
+
+			try{
+				if (aShow != null){
+					for (i = 0; i < aShow.length; i++){
+						if (bDisable==true){
+							document.getElementById(aHide[i]).disabled = false;
+						} else {
+							document.getElementById(aShow[i]).style.display = 'block';
+						}
+					}
+				}		
+			}
+			catch (err){
+				//alert(err.message);
+			}
+
+			try{
+				if (aHide != null){
+					for (i = 0; i < aHide.length; i++){
+						if (bDisable==true){
+							document.getElementById(aHide[i]).disabled = true;
+						} else {
+							document.getElementById(aHide[i]).style.display = 'none';
+						}
+					}
+				}
+			}
+			catch (err){
+				//alert(err.message);
+			}
+
+
+			if (((getSearchQueryVariable('action')=='showpostfield')||(getSearchQueryVariable('showpostfield')=='1')||(getSearchQueryVariable('action')=='showsql'))&&(bDebug)){
+				window.open(strPage + '&r_id=' + genID());
+			}
+
+			xmlHttp.open('get', strPage + '&r_id=' + genID(), bAsync);
+			xmlHttp.onreadystatechange = function() { HandleSearchData(fncHandleSearchData, errorMsg, vID, true) };
+			if (xmlDoc == undefined){
+				xmlDoc = null;
+			}
+			xmlHttp.send(xmlDoc);
+		}
+
+		function HandleSearchData(fncHandleSearchData, errorMsg, vID, vReturnXML) {
+			var sError = 'An error has occured.';
+
+			try{
+				if (errorMsg != undefined && errorMsg != '' && errorMsg != null && typeof(errorMsg) != 'object'){
+					sError = errorMsg;
+				}
+			}
+			catch (err){
+				//alert(err.message);
+			}
+
+			if(xmlHttp.readyState == 4) { //Finished loading the response
+
+				if (vReturnXML==true){
+					xmlDoc = createSearchXMLDoc(xmlHttp.responseText);
+				} else {
+					var strResponse = xmlHttp.responseText;
+				}
+
+				if (xmlDoc == null && vReturnXML==true)	{
+	//				alert(sError);
+				} else {
+					if (vReturnXML==true){
+						fncHandleSearchData(xmlDoc, vID);
+					} else {
+						fncHandleSearchData(strResponse, vID);
+					}
+				}
+
+			}
+		}
+
+		function getSearchQueryVariable(vQSVar) {
+			var strReturn = '';
+			var strQuery = window.location.search.substring(1);
+			var aVars = strQuery.split('&');
+			for (var iVar = 0; iVar < aVars.length; iVar++) {
+				var aQS = aVars[iVar].split('=');
+				if (trim(aQS[0]).toLowerCase()==trim(vQSVar).toLowerCase()) {
+					strReturn = trim(aQS[1]);
+					break;
+				}
+			}
+
+			return strReturn;
+		}
+
+		// Generate 32 character hex ID
+		function genID() {
+			var id = "";
+			var i;
+			for (i = 0; i < 32; i++) {
+				id = id + dec2hex(Math.round(16*Math.random()));
+			}
+			return id;
+		}
+
+
+		// Create an XMLHttpRequest object
+		function createRequestObject(){
+			var request_o;
+			var browser = navigator.appName;
+			if(browser == "Microsoft Internet Explorer"){
+				request_o = new ActiveXObject("Microsoft.XMLHTTP");
+			}else{
+				request_o = new XMLHttpRequest();
+			}
+			return request_o;
+		}
+		
+		// Decimal to Hexadecimal
+		function dec2hex(dec) {
+			var hD="0123456789ABCDEF";
+			var hex = hD.substr(dec&15,1);
+			while (dec>15) {
+				dec >>= 4;
+				hhex = hD.substr(dec&15,1) + hex;
+			}
+			return hex;
+		}
+
+		// Hexadecimal to Decimal
+		function hex2ddec(hex) {
+			return parseInt(hex,16);
+		} 
+
+		function trim(stringToTrim) {
+			return stringToTrim.replace(/^\s+|\s+$/g,"");
+		}
+
+		function getSearchNodeValue(xmlDoc, tagName, index) {
+			try{
+				if (xmlDoc.getElementsByTagName(tagName)[index].childNodes[0] != null){
+					return xmlDoc.getElementsByTagName(tagName)[index].childNodes[0].nodeValue;
+				} else {
+					return '';
+				}
+			}
+			catch (err){
+				//alert(err.message);
+				return 'Error Loading Search Node';
+			}
+		}
+
+		/************************************************************************************
+		*** END XML/AJAX FUNCTIONS **********************************************************
+		************************************************************************************/
+
+		/**
+		 * Lightbox facade class to object-fy the  lightbox_OpenFind()
+		 * function in question builder include
+		 */
+		cLightbox = function(){
+			
+			//Declare Properties
+			this.windowTitle = '';
+			this.windowText = '';
+			this.sql_id = '';
+			this.sql_version = '';
+			this.sql_revision = '';
+			this.cat_id = '';
+			this.db_extra = '';
+			this.filter = '';
+			this.primary_key = '';
+			this.order_by = '';
+			this.columns = '';
+			this.search_columns = '';
+			this.fields = '';
+			this.closeFunction = '';
+			this.css = '';
+			this.draw_styles = '';
+			this.classic_style = '';
+			this.querystring = '';
+			this.popwidth = '';
+			this.popheight = '';
+			this.isMgrFront = false;
+			this.blankload = false;
+			this.selectpop = '';
+			this.distinctq = '';
+			this.prepopvalue = '';
+			this.radiokey = '';
+			this.prepopradio = '';
+			this.showActionsColumn = '';
+			this.countfield = '';
+			this.bUseClassicLightbox = false;
+			this.bUseOverlayClose = true;
+			
+			//Declare Methods
+			this.build = function(){
+				
+				lightbox_OpenFind(
+					this.windowTitle
+					, this.windowText
+					, this.sql_id
+					, this.sql_version
+					, this.sql_revision
+					, this.cat_id
+					, this.db_extra
+					, this.filter
+					, this.primary_key
+					, this.order_by
+					, this.columns
+					, this.search_columns
+					, this.fields
+					, this.closeFunction
+					, this.css
+					, this.draw_styles
+					, this.classic_style
+					, this.querystring
+					, this.popwidth
+					, this.popheight
+					, this.isMgrFront
+					, this.blankload
+					, this.selectpop
+					, this.distinctq
+					, this.prepopvalue
+					, this.radiokey
+					, this.prepopradio
+					, this.showActionsColumn
+					, this.countfield
+					, this.bUseClassicLightbox
+					, this.bUseOverlayClose
+				);
+			}
+		}
+
+		function fncToggleAdvSearchOpts(){
+			if (document.getElementById('show_adv_opts').checked==true){
+				document.getElementById('other_searches').style.display = 'block';
+			} else {
+				document.getElementById('other_searches').style.display = 'none';
+			}
+		}
+
+		//--------------------------------------------------------------
+		//--------------------------------------------------------------
+		// Description:	AJAX Call to get search term suggestions.
+		//				
+		// Create:		johns - 4/15/2010
+		//--------------------------------------------------------------
+		//--------------------------------------------------------------
+		function fncGetSuggestions ( text ) {
+
+			try {
+				
+				//- check to see if the ajax call should be fired again
+				//- run it again, if length of the search term = 0
+				if ( text.length < 1 ) {
+					window.bGetSuggestions = false;
+				}
+
+				if ( ! window.bGetSuggestions ) {
+
+					if ( text.length >= 1 ) {
+						
+						//- set it to true once inside the ajax call so it does not fire again
+						window.bGetSuggestions = true;
+
+						var firstchar = text.substr(0, 1);
+
+						jQuery.ajax({ 
+							url: 'i_i_pc_search_form.asp'
+							, data: ({	
+										searchformaction : 'ajaxcall'
+										, searchformactiontype : 'getsearchtips'
+										, firstchar : firstchar
+										, ajax: new Date().getTime() 
+									})
+							, cache: false
+							, dataType: 'json'
+							, success: fncLoadSuggestions
+						});
+					}
+				}
+			} catch (err) {
+				//alert(err.message);
+			}
+
+		}// function fncGetSuggestions()
+
+		function fncLoadSuggestions ( oData ) {
+
+			window.oSearch = oData;
+
+			jQuery('#search_keyword')
+				.autocomplete(oData.terms, 
+					{
+						selectFirst: false
+					})
+				.result(function(event, data, formatted) {
+				
+				/*
+				 *	get the search term selected from the auto complete list (json object)
+				 */
+				oResult = window.oSearch[data[0]];
+
+				/*
+				 *	check to see if the selected term has a link tied to it in the json object
+				 */
+				if ( oResult.action == 'link' ) {
+
+					/*
+					 *	get the length of the name of the site currently on(needed
+					 *	to see if the sitename/virtualweb needs to be 
+					 *	stripped off
+					 */
+					iLenSitename = sSitename.length;
+					
+					/*
+					 *	if on an admin server strip off the '/sitename/virtualweb/' off the 
+					 *	current page name (pulled from the Request.ServerVariables("SCRIPT_NAME")
+					 */
+					if (sInitPage.substr(0,iLenSitename + 13) == '/' + sSitename + '/virtualweb/') {
+						sInitPage = sInitPage.substr(iLenSitename + 13);
+					}
+					
+					/*
+					 *	check to see if the static page is located in
+					 *	a directory (only assuming one directory deep off the root
+					 *	since static pages are only one directory deep 
+					 *	off the root)
+					 */
+					if (sInitPage.indexOf('/') >= 0) {
+						sResultUrl = '../' + oResult.url;
+					} else {
+						sResultUrl = oResult.url;
+					}
+
+					/*
+					 *	set the hidden input field to the url of the matched term
+					 */
+					jQuery('#search_tip_url').val(sResultUrl);
+				}
+			});
+
+		}
+		//--------------------------------------------------------------
+		//--------------------------------------------------------------
+
+		//================================================================
+
+		if (bUseAutoSuggest) {		
+			jQuery(function(){			
+				jQuery('#search_keyword').autocomplete([]);
+			});
+		}
+
+		
+
+		function replaceAll(sText, sReplaceThis, sWithThis) {
+			return sText.replace(new RegExp(sReplaceThis, 'g'), sWithThis);
+		}
+
+		//On page load	
+		jQuery(function() {
+
+			/*
+			 * Event handlers
+			 */
+				jQuery('#style_searchfield1_make').change(function(){
+					clearModel();
+				});
+				
+				jQuery('#remove_model').click(function(){
+					clearModel();
+				});
+
+				jQuery('#pick_model').click(function(){
+					selectModel();
+				});
+
+			//run
+			
+
+			/*
+			 * Add function to show date picker using jquey standard datepicker..
+			 * @author	pijsuhb
+			 * @since	11/4/2011
+			 */
+			if ( bShowReleaseDate ) {
+
+				if ( document.getElementById('releasedate_from') ) {
+					
+					var releaseDate = $( "#releasedate_from, #releasedate_to" ).datepicker({
+						defaultDate: "+1w",
+						changeMonth: true,
+						changeYear: true,
+						yearRange: '2000:2021',
+						numberOfMonths: 1,
+						beforeShow: customRange,
+						onSelect: function( selectedDate ) {
+							var option = this.id == "releasedate_from" ? "minDate" : "maxDate",
+								instance = $( this ).data( "datepicker" ),
+								date = $.datepicker.parseDate(
+									instance.settings.dateFormat ||
+									$.datepicker._defaults.dateFormat,
+									selectedDate, instance.settings );
+							////getter
+							//var changeYear = $( ".selector" ).datepicker( "option", "changeYear" );
+							////setter
+							//$( ".selector" ).datepicker( "option", "changeYear", true );
+
+							releaseDate.not( this ).datepicker( "option", option, date );
+						}
+					});
+					
+				} //- if ( document.getElementById('releasedate_from') )
+
+			} //- if ( bShowReleaseDate )
+
+			if ( bShowPreorderDate ) {
+
+				if ( document.getElementById('preorderdate_from') ) {
+				
+					var preorderDate = $( "#preorderdate_from, #preorderdate_to" ).datepicker({
+						defaultDate: "+1w",
+						changeMonth: true,
+						changeYear: true,
+						yearRange: '2000:2021',
+						numberOfMonths: 1,
+						beforeShow: customRange,
+						onSelect: function( selectedDate ) {
+							var option = this.id == "preorderdate_from" ? "minDate" : "maxDate",
+								instance = $( this ).data( "datepicker" ),
+								date = $.datepicker.parseDate(
+									instance.settings.dateFormat ||
+									$.datepicker._defaults.dateFormat,
+									selectedDate, instance.settings );
+							preorderDate.not( this ).datepicker( "option", option, date );
+						}
+					});
+
+				}//- if ( document.getElementById('preorderdate_from') )
+
+			}//- if ( bShowPreorderDate )
+
+		});
+
+		function customRange( input ) {
+
+			if ( input.id == 'releasedate_to' ) { 
+				return { 
+				  minDate: jQuery('#releasedate_from').datepicker("getDate") 
+				}; 
+			} else if ( input.id == 'releasedate_from' ) { 
+				return { 
+				  maxDate: jQuery('#releasedate_to').datepicker("getDate") 
+				}; 
+			} //- if ( input.id == 'releasedate_to' )
+			 
+			if ( input.id == 'preorderdate_to' ) { 
+				return { 
+				  minDate: jQuery('#preorderdate_from').datepicker("getDate") 
+				}; 
+			} else if ( input.id == 'preorderdate_from' ) { 
+				return { 
+				  maxDate: jQuery('#preorderdate_to').datepicker("getDate") 
+				}; 
+			} //- if ( input.id == 'preorderdate_to' )
+		} //- function customRange( input )
+
+		/*
+		 * Draw Google Analytics tags on submit 
+		 * @auther - vinayakj
+		 * @since - 5/15/2012
+		 */		
+		if ( bUseGoogleAnalyticTag ) {
+			jQuery("#search_submit").click(function() {
+				
+				var keywords = jQuery("#search_keyword").val();
+
+				keywords = keywords.replace(/ /g,'+');
+
+				_gaq.push(['_trackPageview', '/site-search/?q='+ keywords]);
+
+			});
+		}
+
+		//Strips single quotes from search keyword
+		function stripSingleQuotes()
+		{
+			var searchString = jQuery("#search_keyword").val();
+			jQuery("#search_keyword").val(searchString.replace(/'/g, ""));
+		}
+
+	</script>
+<ul id="mainnav2" class="mainnav clear-both pull-right">
+	<li class="dropdown"><a href="pc_combined_results.asp?pc_id=0EA61A951E5843D5B2FF9EE9DFC36E30" class="dropdown-toggle">Products <b class="caret"></b></a>
+
+		<ul class="dropdown-menu">
+		<li><a href="prodcat/seasoned-cast-iron.asp">Seasoned Cast Iron</a></li>
+		<li><a href="prodcat/enameled-cast-iron.asp">Enameled Cast Iron</a></li>
+		<li><a href="prodcat/seasoned-steel.asp&#10;">Seasoned Steel</a></li>
+		<li><a href="prodcat/cooking-accessories.asp">Cooking Accessories</a></li>
+		<li><a href="prodcat/cookbooks-and-videos.asp">Cookbooks</a></li>
+		<li><a href="prodcat/grilling-guide.asp">Grilling</a></li>
+		</ul></li>
+
+	<li class="dropdown"><a href="content/about-us.asp" class="dropdown-toggle">About Us <b class="caret"></b></a>
+
+		<ul class="dropdown-menu">
+		<li><a href="about-us/about-us.asp">Lodge History</a></li>
+		<li><a href="about-us/eco-responsibility.asp">Eco-Responsibility</a></li>
+		<li><a href="about-us/lodge-factory-stores.asp">Factory Stores</a></li>
+		<li><a href="about-us/memberships.asp">Memberships</a></li>
+		</ul></li>
+
+	<li class="dropdown"><a href="page.asp?p_key=E7B58F8DBD9C49F19482AFCBB2CAFA97" class="dropdown-toggle">Cooking <b class="caret"></b></a>
+
+		<ul class="dropdown-menu">
+		<li><a href="Use-and-Care/Lodge-Frequently-Asked-Questions.asp">FAQ's</a></li>
+		<li class="dropdown-submenu"><a href="content/useandcare.asp" class="dropdown-toggle">Use &amp; Care</a>
+
+			<ul class="dropdown-menu">
+			<li><a href="use-and-care/seasoned-cast-iron-use-and-care.asp">Seasoned Cast Iron</a></li>
+			<li><a href="Use-and-Care/Enameled-Cast-Iron-Use-and-Care.asp">Enameled Cast Iron</a></li>
+			<li><a href="use-and-care/seasoned-steel-use-and-care.asp">Seasoned Steel</a></li>
+			<li><a href="use-and-care/stainless-steel-use-and-care.asp">Stainless Steel</a></li>
+			<li><a href="use-and-care/accessories-use-and-care.asp">Accessories</a></li>
+			</ul></li>
+
+		<li class="dropdown-submenu"><a href="javascript:void(0);" class="dropdown-toggle">Recipes</a>
+
+			<ul class="dropdown-menu">
+			<li><a href="recipes/indoor-recipes.asp">Indoor Recipes</a></li>
+			<li><a href="page.asp?p_key=E7B58F8DBD9C49F19482AFCBB2CAFA97">Outdoor Recipes</a></li>
+			</ul></li>
+
+		<li><a href="content/videos.asp">Videos</a></li>
+		<li><a href="about-us/organizations.asp">Organizations</a></li>
+		</ul></li>
+
+	<li class="dropdown"><a href="javascript:void(0);" class="dropdown-toggle">News <b class="caret"></b></a>
+
+		<ul class="dropdown-menu">
+		<li><a href="about-us/news.asp">The Latest</a></li>
+		<li><a href="about-us/news.asp##MailChimpModal" data-toggle="modal" "=""><i class="icon-envelope"></i> Subscribe</a></li>
+		</ul></li>
+
+	<li><a href="https://www.lodgemfg.com/security_logon.asp?autopage=%2Fpage%2Easp%3Fp%5Fkey%3D0A23CFF9980440FC8D283BC55A36328C">Log In</a></li>
+	
+</ul>
+					</div>
+				</div>
+				</div>
+				<div class="template-content full">
+					<div class="fixed clear-after"><!-- include files here -->
+
+	<script type="text/javascript" src="common_images/scripts/ajax_builder/ajax_builder__100_00_04.js"></script>
+
+		<a name="top" id="top"></a>
+		
+		<div class="wpc_container">
+			
+	
+						<ul class="breadcrumb" itemprop="breadcrumb">
+							<li itemtype="http://data-vocabulary.org/Breadcrumb" itemscope="itemscope">
+								<a href="https://www.lodgemfg.com/" itemprop="url"><span itemprop="title">Home</span></a> 
+								<span class="divider">&gt;</span>
+							</li>
+					
+							<li class="active">Terms and Conditions</li>
+				
+				</ul>
+					<header class="page-header">
+
+					<h1 class="wpc_page_title">Terms and Conditions</h1>
+					</header>
+				<div class="wpc_page_content">
+				<h3>Please refer to the order terms below. If you have any further questions, please contact us.&nbsp;</h3>
+<div>
+<div><br>
+<div>• Web orders will ship 5-7 business days from the time of purchase.&nbsp;</div>
+<div>• Any defective items purchased directly from Lodge are eligible for full refund or exchange by contacting customer service.&nbsp;</div>
+<div>• Shipping for returns/exchanges due to non-defect reasons (i.e. wrong size, color, no longer desired) will be the responsibility of the customer.&nbsp;</div>
+<div>• Items bought from retailers should be returned/exchanged at the place of purchase.&nbsp;</div>
+<div>• Transactions are transmitted using 128-bit secure socket layers (SSL) for up-to-date data protection&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<h4><strong>Privacy Policy</strong></h4>
+<div>
+<p>This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.</p>
+<p><strong>What personal information do we collect from the people that visit our blog, website or app?</strong></p>
+<p>When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, credit card information or other details to help you with your experience.&nbsp;</p>
+<p><strong>When do we collect information?</strong></p>
+<p>We collect information from you when you place an order or enter information on our site.</p>
+<p><strong>How do we use your information?&nbsp;</strong></p>
+<p>We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • To quickly process your transactions.&nbsp;</p>
+<p><strong>How do we protect visitor information?</strong></p>
+<p>Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.&nbsp;</p>
+<p>Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.&nbsp;</p>
+<p>We implement a variety of security measures enters, submits, or accesses their information to maintain the safety of your personal information.</p>
+<p>All transactions are processed through a gateway provider and are not stored or processed on our servers.</p>
+<p><strong>Do we use 'cookies'?</strong></p>
+<p>Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.</p>
+<p><br><strong>We use cookies to:&nbsp;</strong></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Help remember and process the items in the shopping cart.&nbsp;</p>
+<p><br> You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.</p>
+<p><strong>If users disable cookies in their browser:</strong></p>
+<p>If you disable cookies off, some features will be disabled It will turn off some of the features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders.<br>&nbsp;</p>
+<p><strong>Third Party Disclosure</strong></p>
+<p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.</p>
+<p><strong>Third party links</strong></p>
+<p>We do not include or offer third party products or services on our website.</p>
+<p><strong>Google</strong></p>
+<p>Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en</p>
+<p>We have not enabled Google AdSense on our site but we may do so in the future.</p>
+<p><strong>California Online Privacy Protection Act</strong></p>
+<p>CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: <a href="http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf">http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf</a></p>
+<p><br>According to CalOPPA we agree to the following:</p>
+<p>Users can visit our site anonymously</p>
+<p>Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.</p>
+<p>Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.</p>
+<p><br> Users will be notified of any privacy policy changes:</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • On our Privacy Policy Page</p>
+<p>Users are able to change their personal information:</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • By emailing us</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • By calling us</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • By logging in to their account</p>
+<p><strong>&nbsp;</strong><br><strong>How does our site handle do not track signals?&nbsp;</strong></p>
+<p>We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.</p>
+<p><br><strong>Does our site allow third party behavioral tracking?</strong></p>
+<p>It's also important to note that we do not allow third party behavioral tracking</p>
+<p><strong>COPPA (Children Online Privacy Protection Act)</strong></p>
+<p>When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.</p>
+<p>We do not specifically market to children under 13.</p>
+<p><strong>Fair Information Practices</strong></p>
+<p>The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.</p>
+<p>In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:</p>
+<p>We will notify the users via email</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Within 7 business days</p>
+<p>We will notify the users via in site notification</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Within 7 business days</p>
+<p><br> We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.</p>
+<p><strong>Contacting Us</strong></p>
+<p>If there are any questions regarding this privacy policy you may contact us using the information below.</p>
+<p>204 E. 5th Street</p>
+<p>South Pittsburg, TN 37380</p>
+<p>United States</p>
+<p><a href="mailto:info@lodgemfg.com">info@lodgemfg.com</a></p>
+<p>423.837.7181</p>
+<p><br> Last Edited on 10/2014</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+				</div>
+				
+		
+		</div><!--/#wpc_container-->
+		
+		
+
+<script>
+
+		/**
+		 * Rating Stars
+		 * - gets score from data attribute on container
+		 * @author jonr
+		 * @since  1/31/2014
+		 */
+		jQuery(function(){
+			jQuery('.raty')
+				.raty({
+				  path:      'templates/gfx/',
+				  space:      false,
+					readOnly:   true,
+					width:      90,
+				  hints:      ['Bad', 'Poor', 'Good', 'Very Good', 'Excellent'],
+					score:      function() {
+						          	return jQuery(this).attr('data-score');
+						          }
+				});
+		});
+
+</script>
+
+
+<script language="JavaScript">
+<!--
+	function fncRemoveSavedCookie(){
+		try
+		{	 
+			var oAjax = new ajax_builder();
+			oAjax.Reset();
+			oAjax.SetVar("winaction", "unsave");	
+			oAjax.RequestFile	= "i_i_pc_style_search_form.asp"
+			oAjax.Method		= "GET";
+			oAjax.onCompletion	= function(){location.reload(true);};
+			oAjax.ResponseType	= "json"; //- The format of returned data. xml, text, json.
+			oAjax.RunAJAX();
+
+		}
+		catch (err)
+		{
+			//alert(err.mesage);
+		}
+	}//function fncRemoveSavedCookie()
+//-->
+</script>
+			</div>
+		</div><!-- Template Content -->		
+		<div class="template-footer full">
+			<div class="fixed clear-after">
+				<div class="template-footer1 pull-left">
+					<img src="templates/gfx/logo-footer.png">
+					<div>Copyright © 2015 Lodge Manufacturing Company,<br>South Pittsburg, Tennessee.  All Rights Reserved.</div>
+					<a href="content/sales-reps.asp" class="footer-sales-reps pull-left">Sales Reps &gt;</a>
+				</div>
+				<div class="template-footer2 pull-left">
+					<strong>MENU</strong>
+<ul id="footernav" class="footernav">
+	<li><a href="javascript:void(0);"></a>
+
+		<ul>
+		<li><a href="content/useandcare.asp">Use &amp; Care</a></li>
+		<li><a href="about-us/news.asp">News</a></li>
+		<li class="active"><a href="page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C" class="active">Privacy</a></li>
+		</ul></li>
+
+	<li><a href="javascript:void(0);"></a>
+
+		<ul>
+		<li><a href="content/videos.asp">Videos</a></li>
+		<li><a href="images/ConsumerBrochure-Pricelist.pdf" target="Blank">Catalog</a></li>
+		<li><a href="contact_us.asp"><i class="icon-envelope"></i> Contact Us</a></li>
+		</ul></li>
+
+	
+</ul>
+				</div>
+					<div class="template-footer3 pull-left">
+						<strong>Newsletter</strong>
+						<p>Join the What's Cooking?<br>Club Newsletter today!</p>
+						<a href="#MailChimpModal" role="button" data-toggle="modal" class="button">join &gt;</a>
+					</div>
+				<div class="template-footer4 pull-right">
+					<strong>connect with us</strong>
+					<div>
+						<a href="http://instagram.com/lodgecastiron" title="Instagram" target="_blank"><img src="templates/gfx/social-instagram.png"></a>
+						<a href="https://www.facebook.com/LodgeCastIron" title="Facebook" target="_blank"><img src="templates/gfx/social-facebook.png"></a>
+						<a href="https://twitter.com/LodgeCastIron" title="Twitter" target="_blank"><img src="templates/gfx/social-twitter.png"></a>
+						<a href="https://www.youtube.com/user/LodgeCastIron" title="YouTube" target="_blank"><img src="templates/gfx/social-youtube.png"></a>
+						<a href="http://www.pinterest.com/LodgeCastIron" title="Pinterest" target="_blank"><img src="templates/gfx/social-pinterest.png"></a>
+						<a href="https://plus.google.com/u/0/b/110514898683049931426/110514898683049931426/posts" title="Google+" target="_blank"><img src="templates/gfx/social-google.png"></a>
+					</div>
+				</div>
+			</div>
+			<p class="pbwsp fixed"><span class="pull-right"><a href="http://www.websitepipeline.com/" rel="nofollow" target="_blank">Ecommerce &amp; ERP Integration</a> by Website Pipeline</span></p>
+		</div>
+		
+
+	</div>
+	<!-- .page-container -->
+	
+	
+
+	<article id="modal_shipest" class="modal modal-small fade hide" data-backdrop="static">
+		<header class="modal-header">
+			<button type="button" class="close" data-dismiss="modal">×</button>
+			<h3><i class="icon-truck"></i> Estimate Shipping</h3>
+		</header>
+		<section class="modal-body"></section>
+		<footer class="modal-footer">
+			<button type="button" class="btn" data-dismiss="modal">Close</button>
+		</footer>
+	</article>
+
+	<article id="modal_eaf" class="modal hide" data-backdrop="static">
+		<header class="modal-header">
+			<button type="button" class="close" data-dismiss="modal">×</button>
+			<h3><i class="icon-envelope"></i> Email a Friend</h3>
+		</header>
+		<section class="modal-body"></section>
+	</article>
+
+	<div id="MailChimpModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	  <div class="modal-header">
+	    <h3 id="myModalLabel">Subscribe to our mailing list</h3>
+	  </div>
+	  <div class="modal-body">
+	    <form action="//lodgemfg.us6.list-manage.com/subscribe/post?u=3a2f751e179435a1d3b3c8ef4&amp;id=2e85ab85af" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-horizontal" target="_blank" novalidate="">
+			<div id="mc_embed_signup_scroll">
+				<div class="indicates-required control-group">
+					<div class="controls">
+						<small><span class="asterisk">*</span> indicates required</small>
+					</div>
+				</div>
+				<div class="mc-field-group control-group">
+					<label class="control-label" for="mce-EMAIL">Email Address <span class="asterisk">*</span> </label>
+					<div class="controls"><input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL"></div>
+				</div>
+				<div class="mc-field-group control-group">
+					<label class="control-label" for="mce-FNAME">First Name </label>
+					<div class="controls"><input type="text" value="" name="FNAME" class="" id="mce-FNAME"></div>
+				</div>
+				<div class="mc-field-group control-group">
+					<label class="control-label" for="mce-LNAME">Last Name </label>
+					<div class="controls"><input type="text" value="" name="LNAME" class="" id="mce-LNAME"></div>
+				</div>
+				<div id="mce-responses" class="clear">
+					<div class="control-group">
+						<div class="controls">
+							<div class="response" id="mce-error-response" style="display:none"></div>
+							<div class="response" id="mce-success-response" style="display:none"></div>
+						</div>
+					</div>
+				</div>
+				<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+				<div style="position: absolute; left: -5000px;">
+					<input type="text" name="b_3a2f751e179435a1d3b3c8ef4_2e85ab85af" tabindex="-1" value="">
+				</div>
+				<div class="clear control-group">
+					<div class="controls">
+						<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-primary">
+					</div>
+				</div>
+			</div>
+		</form>
+		<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text'; window.mc.showPopup = true;window.mc.delayPopup = 2000;if (mc.showPopup) mc.evalPopup();}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+	  </div>
+	  <div class="modal-footer">
+	    <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+	  </div>
+	</div>
+
+
+	<!-- ////////////////////////////////////////////////////////////// -->
+	
+	<script src="templates/js/vendor/bootstrap-2.3.2.min.js"></script>
+	<script src="templates/js/plugins.js?v1b"></script>
+	<script src="templates/js/main.js?v1a"></script>
+
+	
+
+	<noscript class="noscript">
+		WARNING: You will not be able to place an order or use most features of this site with JavaScript disabled
+	</noscript>
+
+
+
+
+
+
+
+</body></html>
