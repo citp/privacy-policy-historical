@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukvapers.org privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123075632id_/http%3A//ukvapers.org/Thread-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukvapers.org privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609231554id_/http%3A//ukvapers.org/Thread-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
