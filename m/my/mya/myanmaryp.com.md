@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myanmaryp.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204064800id_/http%3A//www.myanmaryp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myanmaryp.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609051819id_/http%3A//www.myanmaryp.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy
 
 ### General
 
