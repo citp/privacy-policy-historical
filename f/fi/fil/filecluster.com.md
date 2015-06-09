@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filecluster.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120050112id_/http%3A//www.filecluster.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filecluster.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609102817id_/http%3A//www.filecluster.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
