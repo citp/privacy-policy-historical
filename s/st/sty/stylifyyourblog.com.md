@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stylifyyourblog.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702135408id_/http%3A//www.stylifyyourblog.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylifyyourblog.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609020602id_/http%3A//www.stylifyyourblog.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Stylify Your Blog
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **support@stylifyyourblog.com**.   
   
