@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the e3d-online.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219092443id_/http%3A//e3d-online.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e3d-online.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610000028id_/http%3A//e3d-online.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[ ]()
+
+Your shopping cart is empty!
 
 **What information do we collect?**
 
@@ -30,6 +34,7 @@ Any of the information we collect from you may be used in one of the following w
 
 > The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
+  
 **Do we use cookies?**
 
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
@@ -76,9 +81,9 @@ This policy was last modified on 22 September 2013
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-E3D-Online.com Ltd.  
-Unit 15  
-Northwood Business Park  
-Cowes  
-PO31 9PE  
+E3D-Online.com Ltd  
+Unit 56, Monument Bus Pk  
+Chalgrove  
+Oxfordshire  
+OX44 7RW  
 UK
