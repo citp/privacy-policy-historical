@@ -1,15 +1,40 @@
-<!--The following is the downloaded HTML source of the thewalkingdead.com privacy policy that was archived on 2014-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141217035502id_/http%3A//www.thewalkingdead.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thewalkingdead.com privacy policy that was archived on 2015-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610002341id_/http%3A//www.thewalkingdead.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#" lang="en-US"><!--<![endif]--><head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+
+<!--    <meta name="viewport" content="width=device-width" />-->
+
 <title>Privacy Policy | The Walking Dead</title>
 <link rel="profile" href="http://gmpg.org/xfn/11">
-<link rel="stylesheet" type="text/css" media="all" href="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/style.css">
+<link rel="stylesheet" type="text/css" media="all" href="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/style.css?version=450">
 <link rel="stylesheet" type="text/css" media="all" href="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/css/additional.css">
 <link rel="stylesheet" type="text/css" media="all" href="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/css/lightbox.css">
+<!--<style>-->
+<!--    @media only screen and (min-width: 320px) and (max-width: 768px)-->
+<!--    {-->
+<!--        .postPage #main {-->
+<!--            width: 1005px;-->
+<!--        }-->
+<!---->
+<!--        .commentlist ul li {-->
+<!--        padding-left:0px!important;-->
+<!--            width:85%;-->
+<!--        }-->
+<!--    }-->
+<!---->
+<!--    @media (min-width: 769px) and (max-width: 1600px){-->
+<!--        .postPage #main {-->
+<!--            width: 1005px;-->
+<!--        }-->
+<!---->
+<!--    }-->
+<!--</style>-->
+
 <link rel="pingback" href="http://www.thewalkingdead.com/xmlrpc.php">
+
 <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=478691595514548"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
     var ajaxurl = "http://www.thewalkingdead.com/wp-admin/admin-ajax.php";
 </script>
@@ -78,40 +103,40 @@ var isFrontPage= 0;
 
 
 
-$(function () {  
+$(function () {
 $("#logged_in").hide();
-  //        $("#login_register").hide();    
-var twitterAccount = "jquery";  
+  //        $("#login_register").hide();
+var twitterAccount = "jquery";
     //var url = "http://stage-web01.sandalbay.com/j.json";
     var url=    "https://accounts.skybound.com/web/cookie.php";
-    $.ajax(url, {  
-        dataType: "jsonp", 
+    $.ajax(url, {
+        dataType: "jsonp",
 	jsonpCallback: 'callback',
-        contentType: "application/json", 
-        success: function (data) {  
+        contentType: "application/json",
+        success: function (data) {
 		console.log("Success:");
 		console.info(data);
-		callback(data);  
+		callback(data);
         } ,
 	error: function(e) {
         console.log("ERROR:"+e.message);
-       } 
-    });  
-});  
-  
-function callback(data) {  
+       }
+    });
+});
+
+function callback(data) {
  var status=0;
  var userId = "";
- var userName="";    
+ var userName="";
   $.each(data, function (i, item) {
-                
-        if(i=="userId") 
+
+        if(i=="userId")
         {
 	  $("#logged_in").show();
 	  $("#login_register").hide();
 	  $("#user_info").text("HI  "+data['userName'].toUpperCase()+"");
            status=1;
-          
+
 	     createCookie("userId",data["userId"],30);
            createCookie("userName",data["userName"],30);
 	   createCookie("sessionKey",data["sessionKey"],30);
@@ -125,11 +150,11 @@ function callback(data) {
 
 
 //           alert("UserId:"+data["userId"]+"  UserName:"+data["userName"]);
-        }  
+        }
     });
 
    console.log("STATUS:"+status);
-	
+
    if(status==0)
    {
 	console.log("reached");
@@ -140,8 +165,8 @@ function callback(data) {
 	$("#logged_in").hide();
           $("#login_register").show();
    }
-  
-}; 
+
+};
 </script>
 <!--[if lt IE 9]>
 <script src="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/js/html5.js" type="text/javascript"></script>
@@ -153,19 +178,28 @@ function callback(data) {
 <link rel="alternate" type="application/rss+xml" title="The Walking Dead » Comments Feed" href="http://www.thewalkingdead.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="The Walking Dead » Privacy Policy Comments Feed" href="http://www.thewalkingdead.com/privacy-policy/feed/">
 <link rel="stylesheet" id="tubepress-css" href="http://www.thewalkingdead.com/wp-content/plugins/tubepress/sys/ui/themes/default/style.css?ver=3.5" type="text/css" media="all">
+<link rel="stylesheet" id="comment-images-css" href="http://www.thewalkingdead.com/wp-content/plugins/comment-images/css/plugin.css?ver=3.5" type="text/css" media="all">
+<link rel="stylesheet" id="CasePressUpVoteButtonsStyles-css" href="http://www.thewalkingdead.com/wp-content/plugins/casepress-upvote/styles/buttons/stackoverflow/stackoverflow.css?ver=3.5" type="text/css" media="all">
 <link rel="stylesheet" id="simple-pagination-css-css" href="http://www.thewalkingdead.com/wp-content/plugins/simple-pagination//css/default.css?ver=2.1.3" type="text/css" media="screen">
 <script type="text/javascript" src="http://www.thewalkingdead.com/wp-includes/js/jquery/jquery.js?ver=1.8.3"></script>
 <script type="text/javascript" src="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/js/scripts.js?ver=3.5"></script>
 <script type="text/javascript" src="http://www.thewalkingdead.com/wp-content/plugins/tubepress/sys/ui/static/js/tubepress.js?ver=3.5"></script>
 <script type="text/javascript" src="http://www.thewalkingdead.com/wp-content/plugins/mailchimp-widget/js/mailchimp-widget-min.js?ver=3.5"></script>
 <script type="text/javascript" src="http://www.thewalkingdead.com/wp-includes/js/comment-reply.min.js?ver=3.5"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var cm_imgs = {"fileTypeError":"<strong>Heads up!<\/strong> You are attempting to upload an invalid image. If saved, this image will not display with your comment.","fileSizeError":"<strong>Heads up!<\/strong> You are attempting to upload an image that is too large. If saved, this image will not be uploaded.<br \/>The maximum file size is: ","limitFileSize":"5000000"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.thewalkingdead.com/wp-content/plugins/comment-images/js/plugin.min.js?ver=3.5"></script>
+<script type="text/javascript" src="http://www.thewalkingdead.com/wp-content/plugins/casepress-upvote/js/casepress-upvote-not-logged-in.js?ver=3.5"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.thewalkingdead.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.thewalkingdead.com/wp-includes/wlwmanifest.xml"> 
 <link rel="prev" title="FAQ" href="http://www.thewalkingdead.com/faq/">
 <link rel="next" title="Press" href="http://www.thewalkingdead.com/press/">
 <meta name="generator" content="WordPress 3.5">
 
-<!-- All in One SEO Pack 1.6.15.3 by Michael Torbert of Semper Fi Web Design[663,703] -->
+<!-- All in One SEO Pack 1.6.15.3 by Michael Torbert of Semper Fi Web Design[781,821] -->
 <link rel="author" href="admin">
 
 <link rel="canonical" href="http://www.thewalkingdead.com/privacy-policy/">
@@ -252,7 +286,7 @@ body.custom-background { background-color: #0B0B0B; background-image: url('http:
 <script type="text/javascript" src="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/js/vendor/jquery.tinyscrollbar.js"></script>
 
 <script>
-    //$('.followersNo').html('   ');	
+    //$('.followersNo').html('   ');
 </script>
 
 <style>
@@ -414,7 +448,7 @@ var gads = document.createElement('script');
 gads.async = true;
 gads.type = 'text/javascript';
 var useSSL = 'https:' == document.location.protocol;
-gads.src = (useSSL ? 'https:' : 'http:') + 
+gads.src = (useSSL ? 'https:' : 'http:') +
 '//www.googletagservices.com/tag/js/gpt.js';
 var node = document.getElementsByTagName('script')[0];
 node.parentNode.insertBefore(gads, node);
@@ -481,13 +515,16 @@ jQuery(document).ready(function()
     });
 });
 </script>
+<link rel="stylesheet" type="text/css" media="all" href="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/responsive.css">
+<link rel="stylesheet" type="text/css" media="all" href="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/mobile.css?ver=126">
+
 </head>
 <body class="page page-id-150 page-template page-template-privacy-policy-php custom-background singular">
 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/969785541/?value=0&amp;guid=ON&amp;script=0">
 <div id="skyboundNavWrap">
     <div class="skyboundNav clearfix">
         <div class="skyboundOther">
-            <a class="lrborders" href="#">Skybound</a>
+            <a class="lrborders" href="http://www.skybound.com">Skybound</a>
             <div class="flyout">
                 <a href="http://www.skybound.com/" target="_blank" class="skyboundLink">Visit Skybound.com ▸</a>
                 <h3>Other titles from Skybound</h3>
@@ -535,8 +572,6 @@ jQuery(document).ready(function()
 
 <div class="dropdown" style="color:white;padding-left: 5px;text-align:center">
 <a class="account" style="color: #cc9933;
-    max-width: 500px;
-    min-width: 200px;
     margin-left: -25px;"><span id="user_info" style="color:#cc9933;padding-left: 5px;"></span><span class="arrow-s">&nbsp;</span></a>
 
 <div class="submenuProfile">
@@ -567,7 +602,7 @@ jQuery(document).ready(function()
                 <li class="googleIcon"><a href="https://plus.google.com/112340533833139090270/posts" target="_blank">Google+</a></li>
                 <li class="youtubeIcon"><a href="https://www.youtube.com/user/OfficialTWD" target="_blank">YouTube</a></li>
             </ul>
-        </nav>  
+        </nav>
     </div>
 </div>
 <div id="page" class="hfeed ">
@@ -581,9 +616,9 @@ jQuery(document).ready(function()
                                         <script type="text/javascript">
                                             googletag.cmd.push(function() { googletag.display('div-gpt-ad-1360711943164-3'); });
                                         </script>
-                                    </div>    
+                                    </div>
                                                             </div>
-                    </div>                   
+                    </div>
                     <nav id="access" role="navigation" class="clearfix">
                                                     <ul class="menu">
                             <li class="news">
@@ -596,9 +631,9 @@ jQuery(document).ready(function()
                                         </ul>
                                     </div>
                                     <div class="additional clearfix">
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/clementine-unboxed/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/12/Feat-ClemUnbox.png" alt=""><span>Clementine Unboxed!</span></a></div>                                    
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/companion-series-is-located-in/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/12/the-walking-dead-spinoff-location-feat.png" alt=""><span>Companion Series Takes Place In…</span></a></div>                                    
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/this-week-on-twd-com-20/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/12/this-week-12-12-14.png" alt=""><span>This Week on TWD.com</span></a></div>                                    
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/ew-with-fear-update-pics/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/06/fear-EW-coverage-feat.png" alt=""><span>EW with FEAR Update, Pics! — Updated</span></a></div>
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/new-funko-figs-in-the-shop/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/06/new-funko-figs-feat.png" alt=""><span>New Funko Figs in the Shop!</span></a></div>
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/5-questions-we-have-for-issue-142/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/06/5-Questions-142.png" alt=""><span>5 Questions We Have for Issue #142</span></a></div>
                                                                             </div>
                                 </div>
                             </li>
@@ -614,9 +649,9 @@ jQuery(document).ready(function()
                                         </ul>
                                     </div>
                                     <div class="additional clearfix">
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/walking-dead-138-cover-139-cover/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/12/wd-cover-138-reveal-feat1.png" alt=""><span>New Covers! 138! 139! March is a Double Month!</span></a></div>                                    
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/the-walking-dead-135-discussion/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/12/issue-135-discussion-feat.png" alt=""><span>The Walking Dead 135 Discussion</span></a></div>                                    
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/waking-dead-coffee-shop-now-open/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/12/waking-dead-feat.png" alt=""><span>Waking Dead Coffee Shop Now Open!</span></a></div>                                    
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/5-questions-we-have-for-issue-142/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/06/5-Questions-142.png" alt=""><span>5 Questions We Have for Issue #142</span></a></div>
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/the-walking-dead-142-preview/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/06/walking-dead-142-preview-feat.png" alt=""><span>The Walking Dead 142 Preview</span></a></div>
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/jumping-from-the-show-into-the-comics-2015/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/05/from-show-to-comic-2015-feat.png" alt=""><span>Jumping from the Show into the Comics 2015</span></a></div>
                                                                             </div>
                                 </div>
                             </li>
@@ -633,9 +668,9 @@ jQuery(document).ready(function()
                                         </ul>
                                     </div>
                                     <div class="additional clearfix">
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/companion-series-is-located-in/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/12/the-walking-dead-spinoff-location-feat.png" alt=""><span>Companion Series Takes Place In…</span></a></div>                                    
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/how-to-bring-beth-back/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/12/beth-how-to-feat.png" alt=""><span>How to Bring Beth Back</span></a></div>                                    
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/poll-will-amc-bring-beth-back/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/12/Feat-PollBeth.png" alt=""><span>Poll: Will AMC Bring Beth Back?</span></a></div>                                    
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/ew-with-fear-update-pics/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/06/fear-EW-coverage-feat.png" alt=""><span>EW with FEAR Update, Pics! — Updated</span></a></div>
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/corey-hawkins-joins-twd-cast/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/06/enter-heath-corey-hawkins-feat.png" alt=""><span>Corey Hawkins Joins TWD Cast</span></a></div>
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/jumping-from-the-show-into-the-comics-2015/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/05/from-show-to-comic-2015-feat.png" alt=""><span>Jumping from the Show into the Comics 2015</span></a></div>
                                                                             </div>
                                 </div>
                             </li>
@@ -643,33 +678,30 @@ jQuery(document).ready(function()
                                 <a href="http://www.thewalkingdead.com/galleries/">Galleries</a>
                                 <div class="flyout">
                                     <div class="additional clearfix">
-                                                                                                                                <div class="latest"><a href="http://www.thewalkingdead.com/image-gallery/new-season-5-photos/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/09/Feat-NewStills.png" alt=""><span>New Season 5 Photos!</span></a></div>                                    
-                                                                                                                                <div class="latest"><a href="http://www.thewalkingdead.com/image-gallery/twd-season-5-stills/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/08/Feat-S5Stills.png" alt=""><span>TWD Season 5 Stills</span></a></div>                                    
-                                                                                                                                <div class="latest"><a href="http://www.thewalkingdead.com/image-gallery/photos-from-twd-escape-in-minneapolis/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/06/MinneapolisEscape.png" alt=""><span>Photos from TWD Escape in Minneapolis!</span></a></div>                                    
+                                                                                                                                <div class="latest"><a href="http://www.thewalkingdead.com/image-gallery/behind-the-scenes-of-the-s5-finale/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/04/season-5-finale-BTSgallery-feat1.png" alt=""><span>Behind the Scenes of the S5 Finale!</span></a></div>
+                                                                                                                                <div class="latest"><a href="http://www.thewalkingdead.com/image-gallery/episode-516-finale-photo-gallery/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/04/season-5-finale-gallery-feat.png" alt=""><span>Episode 516: FINALE Photo Gallery</span></a></div>
+                                                                                                                                <div class="latest"><a href="http://www.thewalkingdead.com/image-gallery/episode-515-image-gallery/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/03/Feat-515Images.png" alt=""><span>Episode 515 Image Gallery</span></a></div>
                                                                             </div>
                                     <div class="submenu">
                                         <ul>
                                             <li><a href="http://www.thewalkingdead.com/galleries/">More Galleries</a></li>
                                         </ul>
-                                    </div>                             
+                                    </div>
                                 </div>
                             </li>
                             <li class="videos">
                                 <a href="http://www.thewalkingdead.com/videos/">Videos</a>
                                 <div class="flyout">
                                     <div class="additional clearfix">
-                                                                                        
-                                            <div class="latest"><a href="http://www.thewalkingdead.com/video-gallery/a-look-at-season-5b/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/12/Feat-Last52.png" alt=""><span>A Look at Season 5B</span></a></div>                                    
-                                                                                        
-                                            <div class="latest"><a href="http://www.thewalkingdead.com/video-gallery/emily-kinneys-rockstar-music-video/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/12/Feat-Rockstar.png" alt=""><span>Emily Kinney’s Rockstar Music Video</span></a></div>                                    
-                                                                                        
-                                            <div class="latest"><a href="http://www.thewalkingdead.com/video-gallery/robert-kirkman-plays-superfight/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/12/superfight-rober-kirkman-feat.png" alt=""><span>Robert Kirkman Plays Superfight!</span></a></div>                                    
+                                                                                                                                  <div class="latest"><a href="http://www.thewalkingdead.com/video-gallery/who-is-negan-major-spoilers/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/06/who-is-negan-feat.png" alt=""><span>YouTuber Ronny Haze Gives Low Down on Negan! Major Spoilers</span></a></div>
+                                                                                                                                  <div class="latest"><a href="http://www.thewalkingdead.com/video-gallery/coming-in-2015-trailer/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/05/Feat-Coming2015.png" alt=""><span>Coming in 2015 Trailer</span></a></div>
+                                                                                                                                  <div class="latest"><a href="http://www.thewalkingdead.com/video-gallery/top-10-greatest-zombies/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/05/Feat-top10zombies.png" alt=""><span>Top 10 Greatest Zombies</span></a></div>
                                                                             </div>
                                     <div class="submenu">
                                         <ul>
                                             <li><a href="http://www.thewalkingdead.com/videos/">More Videos</a></li>
                                         </ul>
-                                    </div>                             
+                                    </div>
                                 </div>
                             </li>
                             <li class="games">
@@ -683,9 +715,9 @@ jQuery(document).ready(function()
                                         </ul>
                                     </div>
                                     <div class="additional clearfix">
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/novels/the-fall-of-the-governor-part-two/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/02/The-Walking-Dead-Fall-of-Gov2-feat.jpg" alt=""><span>The Fall of the Governor: Part Two</span></a></div>                                    
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/novels/the-fall-of-the-governor/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2013/08/novel-fall-feat.jpg" alt=""><span>The Fall of the Governor: Part One</span></a></div>                                    
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/games/the-walking-dead-chop-shop/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2013/07/chopshop-feat.jpg" alt=""><span>The Walking Dead Chop Shop</span></a></div>                                    
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/novels/invasion/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/04/twd-invasion-feat.png" alt=""><span>Invasion</span></a></div>
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/novels/the-walking-dead-descent/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2015/04/twd-descent-feat.png" alt=""><span>Descent</span></a></div>
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/novels/the-fall-of-the-governor-part-two/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2014/02/The-Walking-Dead-Fall-of-Gov2-feat.jpg" alt=""><span>The Fall of the Governor: Part Two</span></a></div>
                                                                             </div>
                                 </div>
                             </li>
@@ -695,16 +727,16 @@ jQuery(document).ready(function()
                                     <a href="http://www.thewalkingdeadescape.com" target="_blank" class="chopShopLogo"><img src="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/images/TWD-module.jpeg" alt="The Escape"></a>
                                 </div>
                             </li>
-                            
-                            <li class="chopShop">
+
+                            <!-- <li class="chopShop">
                                 <a href="http://WalkingDeadChopShop.com" target="_blank">Chop Shop</a>
                                 <div class="flyout">
-                                    <a href="http://WalkingDeadChopShop.com" target="_blank" class="chopShopLogo"><img src="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/images/chopShopLogo.png" alt="Chop Shop"></a>
-                                    <p class="chopShopText">Design your zombie survival machine using <br>three cars and hundreds of apocalyptic parts. <br>Will your ride survive the undead uprising?</p>
+                                    <a href="http://WalkingDeadChopShop.com" target="_blank" class="chopShopLogo"><img src="/images/chopShopLogo.png" alt="Chop Shop" /></a>
+                                    <p class="chopShopText">Design your zombie survival machine using <br/>three cars and hundreds of apocalyptic parts. <br/>Will your ride survive the undead uprising?</p>
                                     <a href="http://WalkingDeadChopShop.com" target="_blank" class="buildVehicle">Build Your Vehicle</a>
-                                    <a href="http://Appstore.com/WalkingDeadChopShop" target="_blank" class="appleBadge"><img src="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/images/appleBadge.png" alt="Apple Store"></a>
+                                    <a href="http://Appstore.com/WalkingDeadChopShop" target="_blank" class="appleBadge"><img src="/images/appleBadge.png" alt="Apple Store" /></a>
                                 </div>
-                            </li>
+                            </li>-->
                             <li class="shop">
                                 <a href="http://shop.thewalkingdead.com/collections/thewalkingdead" target="_blank">Store</a>
                                 <div class="flyout">
@@ -716,22 +748,55 @@ jQuery(document).ready(function()
                                 </div>
                             </li>
                         </ul>
-                    </nav><!-- #access -->                   
-                </div>	
-                
+                    <div class="nav-mobile"></div></nav><!-- #access -->
+                </div>
+
                                     <div class="headerImage">
-                                                    
-                                                            <img src="http://www.thewalkingdead.com/wp-content/uploads/2013/01/privacy-header-img.png" alt="">
+                                                                                    <img src="http://www.thewalkingdead.com/wp-content/uploads/2013/01/privacy-header-img.png" alt="">
                                 <div class="headerTitle">
-                                                                            
-                                </div> 
-                                                           
-                                
-                    </div>
+                                                                                                        </div>
+                            
+                                            </div>
                 
-                
+
 	</header><!-- #branding -->
 
+
+    <script>
+        (function () {
+
+            // Create mobile element
+            var mobile = document.createElement('div');
+            mobile.className = 'nav-mobile';
+            document.querySelector('#access').appendChild(mobile);
+
+            // hasClass
+            function hasClass(elem, className) {
+                return new RegExp(' ' + className + ' ').test(' ' + elem.className + ' ');
+            }
+
+            // toggleClass
+            function toggleClass(elem, className) {
+                var newClass = ' ' + elem.className.replace(/[\t\r\n]/g, ' ') + ' ';
+                if (hasClass(elem, className)) {
+                    while (newClass.indexOf(' ' + className + ' ') >= 0) {
+                        newClass = newClass.replace(' ' + className + ' ', ' ');
+                    }
+                    elem.className = newClass.replace(/^\s+|\s+$/g, '');
+                } else {
+                    elem.className += ' ' + className;
+                }
+            }
+
+            // Mobile nav function
+            var mobileNav = document.querySelector('.nav-mobile');
+            var toggle = document.querySelector('.menu');
+            mobileNav.onclick = function () {
+                toggleClass(this, 'nav-mobile-open');
+                toggleClass(toggle, 'nav-active');
+            };
+        })();
+    </script>
 
 	<div id="main" class="clearfix">
 
@@ -1007,7 +1072,7 @@ Updated: November 15, 2012</p>
                                                                                             </div>
                 </div>
                 <div class="footerInfo clearfix">
-                    <p>All Site Content © 2014 Skybound LLC. All rights reserved.</p>
+                    <p>All Site Content © 2015 Skybound LLC. All rights reserved.</p>
                     <ul>
                         <li><a href="http://www.thewalkingdead.com/contact/">About &amp; Contact</a></li>
                         <!--li><a href="http://www.thewalkingdead.com/faq/">FAQ</a></li-->
@@ -1023,7 +1088,7 @@ Updated: November 15, 2012</p>
 <script type="text/javascript" src="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/js/jquery.tinyscrollbar.min.js?ver=3.5"></script>
 <script type="text/javascript" src="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/js/swipe.js?ver=3.5"></script>
 <script type="text/javascript" src="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/js/lightbox.js?ver=3.5"></script>
-
+<div class="casepress-upvote-modal-display"><div class="casepress-upvote-modal"><div class="casepress-upvote-modal-wrapper"><div class="casepress-upvote-modal-box"><div class="casepress-upvote-modal-close"><a href="#" class="casepress-upvote-modal-close-button">Close</a></div><div class="casepress-upvote-modal-content"><a href="/wp-login.php?action=register">Register</a> or <a href="/wp-login.php">log in</a> to assess the record</div></div></div></div></div>
 <script>
         var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-37561327-2']);
@@ -1042,7 +1107,6 @@ Updated: November 15, 2012</p>
 		  fjs.parentNode.insertBefore(js, fjs);
 		}(document, 'script', 'facebook-jssdk'));
 </script>
-
 
 
 </div></body></html>
