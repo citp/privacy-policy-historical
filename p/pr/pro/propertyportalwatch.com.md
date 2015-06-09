@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyportalwatch.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204024911id_/http%3A//www.propertyportalwatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyportalwatch.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610015322id_/http%3A//www.propertyportalwatch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Property Portal Watch
 
@@ -6,7 +6,7 @@
 
 ### 1.1.  About Us
 
-This website (www.propertyportalwatch.com) is operated by Classified Ad Ventures Pty Ltd.  In this policy, “us”, “we” or “our” means Classified Ad Ventures Pty Ltd and its related bodies corporate ( **Group** ).
+This website (www.propertyportalwatch.com) is operated by Classified Ad Ventures Pty Ltd.  In this policy, "us", "we" or "our" means Classified Ad Ventures Pty Ltd and its related bodies corporate ( **Group** ).
 
 This policy sets out:
 
