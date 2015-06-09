@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all-freeware.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120164111id_/http%3A//www.freedownload64.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-freeware.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609232255id_/http%3A//www.freedownload64.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy FreeDownload64.Com - Software Programs - Best Free Software Downloads Center
 
