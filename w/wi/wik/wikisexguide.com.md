@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikisexguide.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220103624id_/http%3A//www.wikisexguide.com/wiki/WikiSexGuide%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikisexguide.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610015632id_/http%3A//www.wikisexguide.com/wiki/WikiSexGuide%3APrivacy_policy) for the most accurate reproduction.*
 
 # WikiSexGuide:Privacy policy - WikiSexGuide - International World Sex Guide
 
@@ -36,9 +36,26 @@ To solve technical problems. Log data may be examined by developers in the cours
 
 Wikisexguide believes that maintaining and preserving the privacy of user data is an important value. This Privacy Policy, together with other policies, resolutions, and actions by wikisexguide, represents a committed effort to safeguard the security of the limited user information that is collected and retained on our servers. Nevertheless, Wikisexguide cannot guarantee that user information will remain private. We acknowledge that, in spite of our committed effort to protect private user information, determined individuals may still develop data-mining and other methods to uncover such information and disclose it. For this reason, Wikisexguide can make no guarantee against unauthorized access to information provided in the course of participating Wikisexguide Projects or related communities. 
 
+## Controller of Personal Data and Data Storage
+
+WikiWebGuides B.V. is the controller of your personal data collected under this Privacy Policy. Should you have any questions regarding Wikisexguide's privacy practices, you may contact us at: info@wikisexguide.com 
+
+All personal data collected in this Privacy Policy is stored within the European Economic Area. 
+
 ## See Also
 
   * [Wikisexguide:General disclaimer](https://web.archive.org/wiki/WikiSexGuide:General_disclaimer "WikiSexGuide:General disclaimer")
   * [Wikisexguide:Copyrights](https://web.archive.org/wiki/WikiSexGuide:Copyrights "WikiSexGuide:Copyrights")
+
+
+
+You must login or register first.
+
+We will guide you step by step:
+
+  1. Login or register
+  2. Create a business page
+  3. Apply the ownership
+  4. Upgrade to premium
 
 
