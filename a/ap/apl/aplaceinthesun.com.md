@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aplaceinthesun.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220110908id_/http%3A//www.aplaceinthesun.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplaceinthesun.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609233838id_/http%3A//www.aplaceinthesun.com/privacy.aspx) for the most accurate reproduction.*
 
 # A Place in the Sun | Privacy Policy
 
@@ -8,11 +8,11 @@ PERSONAL DATA ABOUT YOU
 
 In general, we use the information we collect about you to:
 
-  * pass your messages on to our advertisers and help them provide more personalised services to you
-  * provide information services to relevant third parties
-  * improve the features and services we offer
-  * support our own marketing and promotion efforts
-  * keep you informed with information relevant to your interests
+  *     * improve the features and services we offer
+    * support our own marketing and promotion efforts
+    * keep you informed with information relevant to your interests  
+pass your messages on to our advertisers and help them provide more personalised services to you  
+provide information services to relevant third parties
 
 
 
@@ -44,13 +44,16 @@ By using this site, you consent to the collection and use of this information by
 
 Please direct all general questions to:
 
-APITS Ltd  
-16 Winchester Walk  
-London  
-SE1 9AQ
+**APITS Limited  
+**3rd Floor,  Thames House  
+18 Park Street  
+London SE1 9EL
 
 Registered address: c/o Grunberg + Co, 10 - 14 Accommodation St, London NW11 8ED
 
 Registered in England & Wales.
 
 Registered number  6760085
+
+  
+
