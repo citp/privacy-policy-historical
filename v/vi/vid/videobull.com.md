@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the videobull.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524011537id_/http%3A//videobull.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videobull.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609063526id_/http%3A//videobull.to/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Watch Latest TV Shows Online Free
+# Privacy Policy | Watch Latest TV Shows Online Free | Videobull
 
-Videobull.com is committed to protecting your privacy. Videobull.com will not sell, trade or rent your personal information to other companies. Videobull.com will not collect any personal information about you except when you specifically and knowingly provide such information.
+Videobull.to is committed to protecting your privacy. Videobull.to will not sell, trade or rent your personal information to other companies. Videobull.to will not collect any personal information about you except when you specifically and knowingly provide such information.
 
-By using our Web site, you consent to the collection and use of this information by Videobull.com. If you do not agree with any of the terms of this policy, please do not use our Site. We reserve the right to change this policy at any time, and will post any changes to this policy when they go into effect. All changes will be posted on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Currently, Videobull.com provides aggregate statistics about our traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personal identifying information.
+By using our Web site, you consent to the collection and use of this information by Videobull.to. If you do not agree with any of the terms of this policy, please do not use our Site. We reserve the right to change this policy at any time, and will post any changes to this policy when they go into effect. All changes will be posted on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Currently, Videobull.to provides aggregate statistics about our traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personal identifying information.
 
 **1\. Ad-Serving**
 
