@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bargello.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120175222id_/http%3A//www.bargello.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargello.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610011621id_/http%3A//www.bargello.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Bargello Online Shopping Pakistan, Desi Online Shop in UK
 
