@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the poynter.org privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121013712id_/http%3A//www.poynter.org/archived/about-poynter/108202/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poynter.org privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609232121id_/http%3A//www.poynter.org/archived/about-poynter/108202/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Poynter.
 
-**Published** Dec. 3, 2008 1:17 pm **Updated** Dec. 3, 2010 1:18 pm
+**Published** Dec. 3, 2008 1:17 pm **Updated** Nov. 24, 2014 2:06 pm
 
 The Poynter Institute for Media Studies is committed to respecting privacy. The following discloses our information gathering and dissemination practices for Poynter Online. Poynter is a non-profit school for journalists. We do not make any user information available to third parties. We take your privacy concerns seriously and we will do our best to make sure that we protect your privacy as much as possible on Poynter Online.
 
@@ -49,3 +49,5 @@ If you have any questions about this privacy statement, the practices of this si
 >  801 Third Street South  
 >  St. Petersburg, Fl. 33701  
 >  [jmoos@poynter.org](mailto:jmoos@poynter.org)
+
+Tags: [About Poynter](http://www.poynter.org/tag/about-poynter/)
