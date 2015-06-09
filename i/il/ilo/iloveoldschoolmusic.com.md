@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iloveoldschoolmusic.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123060409id_/http%3A//www.iloveoldschoolmusic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iloveoldschoolmusic.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235219id_/http%3A//www.iloveoldschoolmusic.com/privacy) for the most accurate reproduction.*
 
 # Privacy - I Love Old School Music
 
@@ -63,10 +63,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 ### Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-I Love Old School Music
-
-http://www.iloveoldschoolmusic.com
-
+I Love Old School Music  
+http://www.iloveoldschoolmusic.com  
 527 W Esplanade Avenue  
 Suite 102  
 Kenner, LA 70065  
@@ -74,5 +72,3 @@ Kenner, LA 70065
 info@iloveoldschoolmusic.com
 
 This document was last updated on August 07, 2014
-
-#### COMMENTS
