@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mightydeals.co.uk privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125194212id_/http%3A//www.mightydeals.co.uk/information/privacyPolicy.aspx%3Fft%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mightydeals.co.uk privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610001313id_/http%3A//www.mightydeals.co.uk/information/privacyPolicy.aspx%3Fft%3D1) for the most accurate reproduction.*
 
 # Privacy Policy - Mighty Deals
 
@@ -22,10 +22,11 @@ If you have any queries about this Privacy Policy or any requests concerning you
 
 Data Protection Officer  
 Mighty Deals  
-Craven House  
-Station Approach   
+Huxley House  
+Weyside Park  
+Catteshall Lane  
 Godalming  
-GU7 1EX  
+GU7 1XE  
 
 
 ### Call Monitoring
