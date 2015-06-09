@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chictopia.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217001121id_/http%3A//www.chictopia.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chictopia.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610010856id_/http%3A//www.chictopia.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Chictopia
 
