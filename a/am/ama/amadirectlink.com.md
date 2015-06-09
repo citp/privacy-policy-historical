@@ -1,6 +1,70 @@
-> *The following text is extracted and transformed from the amadirectlink.com privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311095415id_/http%3A//www.americanmotorcyclist.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amadirectlink.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609200450id_/http%3A//www.americanmotorcyclist.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # PrivacyPolicy
+
+* * *
+
+These terms and conditions (these “Terms”) govern membership in the American Motorcycle Association, Inc., an Ohio corporation, d/b/a the American Motorcyclist Association and the All-Terrain Vehicle Association (collectively “we,” “us,” “our,” “ours”). Purchase or use of a membership in the American Motorcyclist Association and the All-Terrain Vehicle Association (a “Membership”) at any time subjects the purchaser or user (“you,” “your,” “yours,” “Member”) to the provisions of these Terms, as amended by us from time to time.
+
+**By accepting your Membership, you certify that you have read, understand, and will abide by the following Terms:  **   
+
+
+Benefits.  As a holder of a Membership, you are entitled to certain benefits.  These benefits only become active upon the issuance of your Membership number, and may be changed by us from time to time. 
+
+Membership Fee.  The annual Membership fee is currently $49.00.  Membership fees are subject to taxation in accordance with applicable federal or state law. The annual Membership fee of $49.00 does not include applicable taxes. We may change the Membership fee at any time, but changes will apply only to new and renewal annual Memberships, to include those occurring as part of the automatic renewal program. 
+
+Refunds.  There will be no Membership fee refunds, except for Members enrolled in our Auto-Renewal program who have requested a refund at least 30 days prior to the start or renewal of their Membership.  However, you may cancel your Membership at any time, without a refund, by contacting us at:
+
+AMA  
+13515 Yarmouth Dr.  
+Pickerington, OH 43147  
+(800) AMA-JOIN (262-5646)
+
+We may terminate your Membership, including any associated accounts, without notice, for any reason in our sole discretion, including without limitation our belief that continued use of such Membership would violate any provisions of these Terms, applicable law, or otherwise be harmful to our interests. In the event of any such termination, you will be entitled to a pro rata refund of your Membership fee.   
+
+
+Term and Termination.  Membership term is one year from the date of purchase.  Renewals or automatic renewals within a current term extend the existing expiration date by one year.  When an expired Membership is renewed, the new term begins on the date that membership dues are processed, and expires one year from that date.  Your Membership will not automatically renew unless you opt in to our automatic renewal program.
+
+Automatic Renewal.  You may opt into our automatic renewal program.  This program allows us to automatically renew your Membership each year with no action on your part. You understand that by agreeing to automatic renewal of your Membership, the annual Membership fee (at the then-current rate) will automatically be charged once a year in your Membership anniversary month to the credit card that you have registered with us, unless you alter or cancel your membership as provided below.  You understand that we will notify you by e-mail at least 30 days before your credit card is charged, and that you reserve the right at that time to alter or cancel your Membership.  If you wish to alter or cancel your Membership, you must provide us at least 10 days notice of your desire to cancel at the following address or telephone number:
+
+AMA  
+13515 Yarmouth Dr.  
+Pickerington, OH 43147  
+(800) AMA-JOIN (262-5646)   
+
+
+In the event that you wish to dispute any charge to your credit card made pursuant to the automatic renewal authorization, you agree to contact us first at the address or telephone number above to resolve the dispute. You also authorize us to charge or credit your credit card as needed to account for any undercharge or overcharge errors, or to resubmit a failed or declined charge. As a result of your agreeing to this automatic renewal, you will enjoy the benefits of free enrollment in the AMA Roadside Assistance Program. All 24-Hour Roadside Assistance Program services are provided by Brickell Financial Services Motor Club Inc., dba Road America Motor Club, administrative offices at 7300 Corporate Center Drive, Suite 601, Miami, Florida 33126. (For Mississippi and Wisconsin customers, services are provided by Brickell Financial Services Motor Club, Inc.  For California customers, services are provided by Road America Motor Club, Inc.)
+
+Risk/Liability. You acknowledge the risk of injury to your person and property while participating in AMA/ATVA-sanctioned events, and by accepting the Membership, you assume all risks of injury or damage arising out of participation in all AMA/ATVA-sanctioned events. You agree to release, hold harmless and indemnify the AMA/ATVA, its district organizations and its employees, directors, officers, agents, contractors, including the organizers of all AMA/ATVA-sanctioned events from all liability as a result of my participation in any such events.  This means that you agree not to sue the AMA or the ATVA for any resulting injury to yourself or your property at any AMA/ATVA-sanctioned event.
+
+Restrictions on Transfer.  Your Membership may not be transferred or used by any other party other than you.   
+
+
+Your Information.  We expect Members to submit and maintain accurate and current user information in connection with their Memberships.  Such information includes name, address, e-mail address, and telephone number. Members can change their account information by (i) updating Member profile data through an authenticated www.americanmotorcyclist.com account, or (ii) contacting us at:
+
+AMA  
+13515 Yarmouth Dr.  
+Pickerington, OH 43147  
+(800) AMA-JOIN (262-5646)
+
+Privacy. Please refer to the full _Notice of Privacy Policy of The American Motorcyclist Association,_ available on the AMA website at __ www.americanmotorcyclist.com _,_ for information about how we collect and use your Personal Information.
+
+Disclaimers; Limitation of Liability.   Your Membership and its associated benefits are for use at your sole risk.  The membership benefits are provided on an "as is" and "as available" basis.  We expressly disclaim all warranties of any kind, whether express or implied, including, but not limited to the implied warranties of merchantability, fitness for a particular purpose and non-infringement, including but not limited to any services provided under the AMA Roadside Assistance Program.  We make no warranty that (i) the Membership will meet your requirements or (ii) the quality of any products, services, or information obtained by you from your use of the Membership will meet your expectations.  We shall not be liable for any indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses resulting from any matters relating to the Membership program.  Some jurisdictions do not allow the exclusion of certain warranties or the limitation or exclusion of liability for incidental, consequential or other damages.  Accordingly, some of the above limitations and exclusions may not apply to you.
+
+Governing Law.  These Terms, and the respective rights and obligations of the parties hereunder, shall be governed by, and construed in accordance with, the laws of the State of Ohio, without regard to conflict of law principles.   
+
+
+Acknowledgement.  These Terms, including all documents referenced herein, represents the entire understanding between us and any Member with respect to the Membership and supersedes any other agreements, statements or representations.  Headings are for reference only and shall not affect the meaning of any part of the Terms.  All Members, by virtue of their Membership, are deemed to have accepted the terms and conditions of these Terms.
+
+Changes to these Terms.  We may change these Terms at any time without notice or liability by posting revised Terms on the AMA website at www.americanmotorcyclist.com.  Any change shall take effect immediately, unless otherwise provided.  You may view the current version of these Terms at any time online at www.americanmotorcyclist.com. You may also obtain a copy by contacting us at any time by writing or calling us at the following address and telephone number:   
+
+
+AMA  
+13515 Yarmouth Dr.  
+Pickerington, OH 43147  
+(800) AMA-JOIN (262-5646)
+
+These Terms were last modified on January 1, 2012.
 
 * * *
 
@@ -43,7 +107,9 @@ We use cookies to recognize you and your access privileges for our members-only 
 You can set your browser so that it will not accept cookies. Doing so, however, will prohibit you from accessing certain features of the Web site, including content in the Members Area. You can use your browser’s help feature to learn more about disabling cookies.
 
 **Third-party advertising  
-**We do not partner with or have special relationships with any ad server companies such as DoubleClick.
+**AMA collects cookies on our Web site to capture information about page visits. This information is anonymous and AMA uses this information only internally - to deliver the most effective content to our visitors. Information from the cookies is used to gauge page popularity, analyze traffic patterns on our site and guide development of other improvements to our site. AMA does not require that you accept cookies, however, some functionality on our Web site, our product or service check-out process, and products and services may be disabled if you decline to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. You may also change your cookie settings through preferences options in our products and/or services, where applicable. AMA never gives away information about our users. If you choose to e-mail us and provide personally identifiable information about yourself, AMA will use this information only to respond to your inquiry. AMA will not sell, rent or otherwise disclose that information to third parties unless such disclosure is necessary for the purposes set forth in this Policy, by law or a policy or notice contained or associated with a specific AMA product or service.  
+AMA uses analytics data and the DoubleClick cookie to serve ads based on a user's prior visits to our website.  Site visitors may opt out of the DoubleClick cookie by visiting the Google advertising opt-out page or they may opt out of Google Analytics by visiting the Google Analytics opt-out page.  
+Google has additional information available about their Remarketing Privacy Guidelines, Policies, and Restrictions.
 
 **Linked sites  
 **The AMA is not responsible for the content or privacy policies of Web sites to which it may link.
