@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the ladyfootlocker.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626112228id_/http%3A//www.ladyfootlocker.com/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ladyfootlocker.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609215014id_/http%3A//www.ladyfootlocker.com/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.*
 
 # Customer Service - OtherServices - Privacy Policy | Lady Foot Locker
+
+Privacy Policy 
+
+* * *
 
 
 
@@ -31,7 +35,7 @@ If you register with or order from us, we may use cookies to monitor and maintai
 
   4. _Tracking Options._ You may adjust your browser settings to limit certain tracking or to decline cookies, but by doing so, you may not be able to use certain features on the Site or take full advantage of our offerings. 
 
-Even without a cookie, you can still take advantage of most of the features of our Site, including making a purchase, but we will not be able to recognize you as a registered user unless you log in. Our system may not respond to Do Not Track requests or headers from some or all browsers. To learn more about the use of cookeis or other technologies to deliver more relevant advertising and your choices about not having this information used by certain service providers, please click [here](http://www.networkadvertising.org/choices/).
+Even without a cookie, you can still take advantage of most of the features of our Site, including making a purchase, but we will not be able to recognize you as a registered user unless you log in. Our system may not respond to Do Not Track requests or headers from some or all browsers. To opt-out of Lady Foot Locker’s use of cookies to deliver more relevant advertising and to learn about your choices about not having this information used by certain service providers, please [click here](http://dtmc.ladyfootlocker.com/adinfo/choice/prod/?type=fpc&cid=2406&cname=Lady%20Foot%20Locker&cmagic=de7092&clogo=lady_fl.jpg&loc=us&lang=en). On your mobile device, you can adjust your privacy and advertising settings to limit your tracking for advertising or control whether you receive more relevant advertising. 
 
   5. _Information Collected From Other Sources._ We may obtain information about you from other sources, including social networks that you use to connect with us. This information may include name, user name, demographic information, updated address or contact information, interests, and publicly-observed data, such as from social media and online activity.
   6. _Combination of Information._ We may also combine the information we receive from and about you, including the information you provide to us on the Site or through the Loyalty Program, information we receive from third parties, information we automatically collect (as explained above), and information provided or collected offline when you shop in our Stores.
