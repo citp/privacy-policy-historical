@@ -1,520 +1,1254 @@
-<!--The following is the downloaded HTML source of the dotandbo.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626143450id_/http%3A//www.dotandbo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dotandbo.com privacy policy that was archived on 2015-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150609140150id_/http%3A//www.dotandbo.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-<meta name="google-site-verification" content="Ic8SZWUZKLMDKJBKsqx-oPJiAn0uhgeNBzTWQrmf7so">
+<meta charset="utf-8">
+<script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TPSFCT"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"7bc34fb0a5","applicationID":"2431130","transactionName":"cFpeREddCA5dQhgXElJBWVMaQgUFXUM=","queueTime":1,"applicationTime":50,"agent":"js-agent.newrelic.com/nr-632.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAYDUlBXGwEEV1BTBAE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-<link rel="stylesheet" href="http://d2c65cykxd49oj.cloudfront.net/v2/css/A.bootstrap.css.pagespeed.cf.sVk9UrQil0.css" media="all">
-<link rel="stylesheet" href="http://d2c65cykxd49oj.cloudfront.net/v2/css/A.all.css.pagespeed.cf.QQiD16eXlA.css" media="all">
-<link rel="stylesheet" href="http://d2c65cykxd49oj.cloudfront.net/css/A.checkout.css.pagespeed.cf.cKcQkfETCT.css" media="all">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TPSFCT"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"7bc34fb0a5","applicationID":"2431130","transactionName":"cFpeREddCA5dQhgXElJBWVMaQgUFXUM=","queueTime":2,"applicationTime":363,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAYDUlBXGwEEV1BTBAE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 <title>Dot &amp; Bo – Furniture and Décor for the Modern Lifestyle</title>
+<link rel="stylesheet" href="https://d2c65cykxd49oj.cloudfront.net/v3/css/A.bootstrap.min.css.pagespeed.cf.BAx5YOs8Dw.css">
+<link rel="stylesheet" href="https://d2c65cykxd49oj.cloudfront.net/v3/css/A.all.css.pagespeed.cf.aOOvEz_1Bt.css">
+<link rel="stylesheet" href="https://d2c65cykxd49oj.cloudfront.net/v3/css/A.nav.css.pagespeed.cf.93s1eGN7PD.css">
+<!--[if gt IE 8]><link rel="stylesheet" href="/v3/css/winphone.css"><![endif]-->
+<link rel="stylesheet" href="https://d2c65cykxd49oj.cloudfront.net/css/A.custom.css.pagespeed.cf.SvYCMfncCh.css">
+<link rel="stylesheet" href="https://d2c65cykxd49oj.cloudfront.net/css/A.quiz.css.pagespeed.cf.94UGeu06pK.css">
 <link rel="shortcut icon" href="/images/favicon-all.ico" type="image/x-icon">
-<link rel="apple-touch-icon" href="http://d2c65cykxd49oj.cloudfront.net/images/xiOS-57.png.pagespeed.ic.YIl31tCXMj.png">
-<link rel="apple-touch-icon" sizes="72x72" href="http://d2c65cykxd49oj.cloudfront.net/images/xiOS-72.png.pagespeed.ic.HMFCOLluTs.png">
-<link rel="apple-touch-icon" sizes="114x114" href="http://d2c65cykxd49oj.cloudfront.net/images/xiOS-114.png.pagespeed.ic.ThJss6p2rJ.png">
-<link rel="apple-touch-icon" sizes="144x144" href="http://d2c65cykxd49oj.cloudfront.net/images/xiOS-144.png.pagespeed.ic.Smr9g7lKfZ.png">
-<meta name="title" content="Privacy Policy">
-<meta name="keywords" content="">
-<meta name="description" content="">
+<link rel="apple-touch-icon-precomposed" href="https://d2c65cykxd49oj.cloudfront.net/images/iOS-57.png.pagespeed.ce.xp8_F405Fw.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://d2c65cykxd49oj.cloudfront.net/images/iOS-72.png.pagespeed.ce.xcm1IrhQQL.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://d2c65cykxd49oj.cloudfront.net/images/iOS-114.png.pagespeed.ce.57YY0OkwEp.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://d2c65cykxd49oj.cloudfront.net/images/iOS-144.png.pagespeed.ce.SxkJn1i3lI.png">
+<!--[if lt IE 9]>
+            <link rel="stylesheet" href="/v3/css/bootstrap.min.css">
+            <link rel="stylesheet" href="/v3/css/all.css">
+            <link rel="stylesheet" href="/v3/css/nav.css">
+            <link rel="stylesheet" href="/css/custom.css">
+
+            <link rel="stylesheet" href="/v3/css/ie.css">
+            <script src="/js/html5shiv.js"></script>
+            <script src="/js/respond.min.js"></script>
+        <![endif]-->
+<script src="https://d2c65cykxd49oj.cloudfront.net/js/header.js+fastclick.js.pagespeed.jc.bCgD6NbGf5.js"></script><script>eval(mod_pagespeed_EvqURNPO22);</script>
 <script src="//cdn.optimizely.com/js/168801728.js"></script>
-<script>if(!window.console)window.console={log:function(){}};(function(){var i,name,a=document.cookie.split(";");for(i=0;i<a.length;i++){name=a[i].substr(0,a[i].indexOf("=")).replace(/^\s+|\s+$/g,"");if(name.indexOf("simpleCart")==0||name.indexOf("cartExpireTime")==0){document.cookie=encodeURIComponent(name)+"=d; expires="+new Date(0).toUTCString()+"; path=/; domain=.dotandbo.com";document.cookie=encodeURIComponent(name)+"=d; expires="+new Date(0).toUTCString()+"; path=/";}}})();</script>
-<!--[if lt IE 9]><script src="/v2/js/ie.js"></script><![endif]-->
-<!--[if lt IE 9]><link rel="stylesheet" href="/css/ie8.css" media="all"><![endif]-->
-</head>
-<body class=" logged-out">
+<script>eval(mod_pagespeed_sUkQJDTfwh);</script>
+<script>if('addEventListener'in document){document.addEventListener('DOMContentLoaded',function(){var attachFastClick=Origami.fastclick;attachFastClick(document.body);},false);}</script>
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TPSFCT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TPSFCT');</script>
-<script>document.body.className+=document.cookie.search(/(^|;\s)(email|sailthru_hid|sailthru_bid|iterableEndUserId|iterableEmailCampaignId)=/)!==-1?' logged-in':' logged-out';if(navigator.userAgent.search(/iPhone/i)>0)document.body.className+=' iphone';</script>
-<div class="nav-mobile" style="right: -272px; top: 0px; height: 5642px; display: none;">
-<nav>
-<ul class="nav">
-<li>
-<a href="/">Home</a>
-<ul>
-<li>
-<a href="#">Categories</a>
-<ul>
-<li><a href="/category/furniture">Furniture</a></li>
-<li><a href="/category/decor-and-pillows">Decor &amp; Pillows</a></li>
-<li><a href="/category/bed-and-bath">Bed &amp; Bath</a></li>
-<li><a href="/category/kitchen-and-dining">Kitchen &amp; Dining</a></li>
-<li><a href="/category/lighting">Lighting</a></li>
-<li><a href="/category/garden">Garden</a></li>
-<li><a href="/category/gifts-and-holiday">Gifts &amp; Holiday</a>
-</li>	</ul>
-</li><li>
-<a href="#">More</a>
-<ul>
-<li><a href="/account">Invite a Friend, Earn $10</a></li>
-<li><a href="/">Today's Sales</a></li>
-<li><a href="/?logout">Logout</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</nav>
-</div>
-<div class="page-holder">
-<div id="fb-root"></div>
+</head>
+<body class=" logged-out">
+<script>document.body.className+=document.cookie.search(/(^|;\s)(email|iterableEndUserId|iterableEmailCampaignId)=/)!==-1?' logged-in':' logged-out';if(navigator.userAgent.search(/iPhone/i)>0)document.body.className+=' iphone';</script>
 <div id="wrapper">
+<div class="push-container">
+<a class="btn-top" href="#wrapper"></a>
 <div class="w1">
-<header class="navbar">
-<div class="navbar-inner">
+<header class="navbar js-fixed-header">
+<div class="top-bar">
 <div class="container">
-<a class="btn-navbar-mobile visible-phone">
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-</a>
-<a href="/" class="brand">Dot&amp;Bo</a>
-<div class="container-r">
-<div class="container-r-holder">
-<nav class="links hidden-phone">
-<ul>
-<li class="detail-text-when-search hide"><span class="text-info">14-Day Money-Back Guarantee*</span> <a href="/returns">Details</a></li>
-<li><strong>Questions?</strong> <strong>800-693-9937</strong></li>
-<li><a href="/contact">Email Us</a></li>
-<li><a href="/account/credit">My Credit <span id="bonus-credit"></span></a></li>
-<li><a href="/account/info">My Account</a></li>
-<li id="logout"><a href="/?logout">Logout</a></li>
+<ul class="login">
+<li id="login-status" class="login-status">
+<span class="logged"><span id="Welcome">Welcome</span><a href="/account/info" class="email"><strong id="firstName"></strong></a></span>
+<a class="not-logged" href="/">Sign In</a>
+</li>
+<script>if(/logged-in/.test(document.body.className)){document.getElementById("login-status").className+=" active";if(DotBo.cookies["firstName"]&&DotBo.cookies["firstName"]!==""){document.getElementById("Welcome").innerText="Welcome, ";document.getElementById('firstName').innerText=(DotBo.cookies["firstName"].length>20?DotBo.cookies["firstName"].substr(0,17)+'...':DotBo.cookies["firstName"]+"!");}}</script>
+<li><a href="/invite-friends">Invite Your Friends, <span class="mark">Earn $20</span></a></li>
+<li><a class="tradelink" href="/trade">Trade &amp; Business</a></li>
 </ul>
-</nav>
-<div class="container-row">
-<div class="details-block">
-<a class="iconshopping" href="/cart"><i class="icon-shopping-cart"></i> <em>My Cart </em> (<span>0</span>)</a>
-<a href="/cart"><button class="btn btn-checkout hidden-phone">checkout <span id="check-span">arrow</span></button></a>
+<ul class="info">
+<li class="dropdown">
+<a class="dropdown-toggle bonus-credit-amt" href="/account#credit">my credit: <strong id="total-credit">$0</strong><b class="caret"></b></a>
+<script>if(DotBo.cookies["user_total_credit"])document.getElementById("total-credit").innerText="$"+DotBo.cookies["user_total_credit"];</script>
+<ul class="dropdown-menu item">
+<li><strong class="title"><a href="/account/credit"><strong>Credit Overview</strong></a></strong></li>
+<li><a href="/invite-friends">Share With Friends, Earn $20 Credit</a></li>
+</ul>
+</li>
+<li class="dropdown"> <a class="dropdown-toggle" href="/account/info">my account<b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><strong class="title"><a href="/account/info"><strong>Account Overview</strong></a></strong></li>
+<li><a href="/favorites">My Favorites</a></li>
+<li><a href="/account/orders">View Orders</a></li>
+<li><a href="/account/info">Personal Info</a></li>
+<li><a href="/account/shipping-billing">Shipping &amp; Billing</a></li>
+<li><a href="/account/email-update">Email Preferences</a></li>
+<li><a href="/?logout">Sign Out</a></li>
+</ul>
+</li>
+<li><a class="email" href="/contact">Contact Us</a></li>
+</ul>
 </div>
-<div class="navbar-search-box hide hidden-phone">
-<form accept-charset="UTF-8" action="/search" id="search-form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
-<input autocomplete="off" id="search-keyword" name="keyword" placeholder="Search" type="text">
+</div>
+<div class="holder">
+<div class="container">
+<div class="frame"> <a class="navbar-toggle" href="#"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </a>
+<a class="navbar-brand" href="/">Dot&amp;Bo</a> <span class="navbar-text">inspired design for the modern lifestyle<span>TM</span></span> <a class="btn btn-default btn-check" href="/cart">Checkout</a>
+<div class="btn-holder"> <div class="mobile-basket"><a class="button basket" id="cart-qty-box" href="/cart"><span class="mobile-bg"><span class="number" id="cart-qty">0</span></span></a></div> <div class="mobile-like"><a class="button like" id="favorites-qty-box" href="/favorites"><span class="number" id="favorites-qty">0</span></a></div> <div class="mobile-search"><a class="search hidden-sm hidden-md hidden-lg" href="#">Search</a></div> </div>
+<script>if(/logged-in/.test(document.body.className)){if(DotBo.cookies["cart_qty"]){document.getElementById("cart-qty").innerText=DotBo.cookies.cart_qty;if(parseInt(DotBo.cookies["cart_qty"])>0)document.getElementById("cart-qty-box").className+=" full";}
+if(DotBo.cookies["favorites_qty"]){document.getElementById("favorites-qty").innerText=DotBo.cookies.favorites_qty;if(parseInt(DotBo.cookies["favorites_qty"])>0)document.getElementById("favorites-qty-box").className+=" full";}}</script>
+<form accept-charset="UTF-8" action="/search" class="navbar-form hidden-xs" id="search-form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
+<fieldset>
+<input type="submit" value="Search">
+<label for="search"></label>
+<input autocomplete="off" id="search-keyword" name="keyword" type="text" class=" text-active form-control" placeholder="Search">
+<span class="searchClose search visible-xs"></span>
 <div id="search-results-dropdown"></div>
-</form>	</div>
-<div class="navbar-detail-text hidden-phone"><span class="text-info">14-Day Money-Back Guarantee*</span> <a href="/returns">Details</a></div>
+<script type="text/x-handlebars-template" id="products-dropdown-template">
+	{{#if products.length}}
+		<li>
+			<strong class="head-title">product recommendations</strong>
+			<ul class="list-product">
+				{{#each products}}
+					<li class="traversible">
+						<div class="image">
+							<a href="{{_source.uri}}">
+								{{#if _source.images_url}}
+									<img alt="{{_source.description}}" src="{{_source.images_url.square2wide}}">
+								{{else}}
+									<img alt="{{_source.description}}" src="{{_source.master.images_url.square2wide}}">
+								{{/if}}
+							</a>
+						</div>
+						<div class="text-holder">
+							<strong class="title">
+								<a href="{{_source.uri}}">{{_source.name}}</a>
+							</strong>
+							{{taxon_link this}}
+						</div>
+					</li>
+				{{/each}}
+			</ul>
+		</li>
+	{{/if}}
+</script>
+<script type="text/x-handlebars-template" id="collections-dropdown-template">
+	{{#if collections.length}}
+		<li>
+			<strong class="head-title">collection recommendations</strong>
+			<ul class="list-collection">
+				{{#each collections}}
+					<li class="traversible">
+						<div class="image">
+							<a href="{{_source.uri}}">
+								<img alt="{{_source.description}}" src="{{small_collection_img this}}">
+							</a>
+						</div>
+						<div class="text-holder">
+							<strong class="title">
+								<a href="{{_source.uri}}">{{_source.name}}</a>
+							</strong>
+							<p>{{_source.tagline}}</p>
+						</div>
+					</li>
+				{{/each}}
+			</ul>
+		</li>
+	{{/if}}
+</script>
+<script type="text/x-handlebars-template" id="categories-dropdown-template">
+	{{#if categories.length}}
+		<li>
+			<strong class="head-title">category recommendations</strong>
+			<ul class="list-category">
+				{{#each categories}}
+					<li class="traversible"><a href="/{{_source.permalink}}">{{sanitize_category_name this}}</a></li>
+				{{/each}}
+			</ul>
+		</li>
+	{{/if}}
+</script>
+</fieldset>
+</form> </div>
+<div class="example-search">Ex: <a href="/search?utf8=%E2%9C%93&amp;keyword=desk">Desk</a>, <a href="/search?utf8=%E2%9C%93&amp;keyword=coffee+table">Coffee Table</a>, <a href="/search?utf8=%E2%9C%93&amp;keyword=clock">Clock</a>, <a href="/search?utf8=%E2%9C%93&amp;keyword=industrial">Industrial</a>, <a href="/search?utf8=%E2%9C%93&amp;keyword=mirror">Mirror</a></div>
+<nav class="main-nav">
+<div class="nav-header visible-xs">
+<a href="/favorites" class="header-favorites">My Favorites</a>
 </div>
-</div>
-</div>
-</div>
-<div class="container">
-<div class="nav-main hidden-phone">
-<nav>
-<ul id="nav">
-<li>
-<a href="/category/furniture">Furniture</a>
-<div class="drop">
-<div class="drop-holder" style="width:450px;">
-<div class="col">
-<h3>SHOP BY CATEGORY</h3>
+<ul class="categories">
+<li class="category visible-xs">
+<h3 class="section-title">Shopping</h3>
+</li>
+<li class="category visible-xs">
+<a class="link-title" href="/">Home</a>
+</li>
+<li class="category anchor-left">
+<a class="category-title" href="/category/furniture">Furniture</a>
+<div class="category-container furniture col5">
+<div class="category-column">
+<section class="subcategory hidden-sm visible-xs"><a href="/category/furniture" class="mobileViewall">view all furniture</a></section>
+<section class="subcategory chairs">
+<a href="/category/furniture/chairs" class="subcategory-title">Chairs</a>
+<div class="sub-subcategories">
 <ul>
-<li><a href="/category/furniture/accent-chairs">Accent Chairs</a></li>
-<li><a href="/category/furniture/lounge-chairs">Lounge Chairs</a></li>
-<li><a href="/category/furniture/stools">Stools</a></li>
-<li><a href="/category/furniture/benches-and-ottomans">Benches &amp; Ottomans</a></li>
-<li><a href="/category/furniture/sofas-and-sectionals">Sofas &amp; Sectionals</a></li>
-<li><a href="/category/furniture/accent-tables">Accent Tables</a></li>
-<li><a href="/category/furniture/coffee-tables">Coffee Tables</a></li>
-<li><a href="/category/furniture/dining-tables">Dining Tables</a></li>
-<li><a href="/category/furniture/bookcases-and-cabinets">Bookcases &amp; Cabinets</a></li>
-<li><a href="/category/furniture/bedroom">Bedroom</a></li>
-<li><a href="/category/furniture/office">Office</a></li>
-<li><a href="/category/furniture/kids">Kids</a></li>
-<li><a href="/category/furniture/outdoor">Outdoor</a></li>
+<li class="hidden-sm visible-xs"><a href="/category/furniture/chairs" class="mobileViewall">View All Chairs</a></li>
+<li><a href="/category/furniture/chairs/lounge-chairs">Lounge Chairs</a></li>
+<li><a href="/category/furniture/chairs/accent-chairs">Accent Chairs</a></li>
+<li><a href="/category/furniture/chairs" class="viewall">View All</a></li>
 </ul>
 </div>
-<div class="col-r">
-<h3>SPECIAL COLLECTIONS</h3>
+</section>
+<section class="subcategory stools">
+<a href="/category/furniture/stools" class="subcategory-title">Stools</a>
+<div class="sub-subcategories">
 <ul>
-<li>
-<a href="/collections/mid-century-modern-chairs"><img src="https://d10125bvdzznt0.cloudfront.net/email/nav-dd-2-chairs.jpg" width="120" height="59" alt="image description"></a>
-<strong><a href="/collections/mid-century-modern-chairs">ICONIC CHAIRS</a></strong>
-</li>
-<li>
-<a href="/collections/mid-century-classics"><img src="https://d10125bvdzznt0.cloudfront.net/email/nav-dd-2-classics.jpg" width="120" height="59" alt="image description"></a>
-<strong><a href="/collections/mid-century-classics">CLASSICALLY MODERN</a></strong>
-</li>
-<li>
-<a href="/collections/industrial-chic"><img src="https://d10125bvdzznt0.cloudfront.net/email/nav-dd-2-industrial.jpg" width="120" height="59" alt="image description"></a>
-<strong><a href="/collections/industrial-chic">INDUSTRIAL MODERN</a></strong>
-</li>
-<li>
-<a href="/collections/pinterest-rewards"><img src="https://d10125bvdzznt0.cloudfront.net/email/nav-dd-2-pinterest.jpg" width="120" height="59" alt="image description"></a>
-<strong><a href="/collections/pinterest-rewards">TOP PINNED PRODUCTS</a></strong>
-</li>
+<li class="hidden-sm visible-xs"><a href="/category/furniture/stools" class="mobileViewall">View All Stools</a></li>
+<li><a href="/category/furniture/stools/bar-stools">Bar Stools</a></li>
+<li><a href="/category/furniture/stools/counter-stools">Counter Stools</a></li>
+<li><a href="/category/furniture/stools/garden-stools">Garden Stools</a></li>
+<li><a href="/category/furniture/stools" class="viewall">View All</a></li>
 </ul>
 </div>
-</div>
-</div>
-</li>
-<li>
-<a href="/category/decor-and-pillows">Decor &amp; Pillows</a>
-<div class="drop"><div class="drop-holder"><div class="col">
-<h3>SHOP BY CATEGORY</h3>
+</section>
+<section class="subcategory benches">
+<a href="/category/furniture/benches-and-ottomans" class="subcategory-title">Benches &amp; Ottomans</a>
+<div class="sub-subcategories">
 <ul>
-<li><a href="/category/decor-and-pillows/pillows">Pillows</a></li>
-<li><a href="/category/decor-and-pillows/throws">Throws</a></li>
-<li><a href="/category/decor-and-pillows/rugs">Rugs</a></li>
+<li class="hidden-sm visible-xs"><a href="/category/furniture/benches-and-ottomans" class="mobileViewall">View All Benches &amp; Ottomans</a></li>
+<li><a href="/category/furniture/benches-and-ottomans/benches">Benches</a></li>
+<li><a href="/category/furniture/benches-and-ottomans/ottomans">Ottomans</a></li>
 <li><a href="/category/decor-and-pillows/poufs">Poufs</a></li>
-<li><a href="/category/decor-and-pillows/clocks">Clocks</a></li>
-<li><a href="/category/decor-and-pillows/mirrors">Mirrors</a></li>
+<li><a href="/category/furniture/benches-and-ottomans" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+</div>
+<div class="category-column">
+<section class="subcategory sofas">
+<a href="/category/furniture/sofas-and-sectionals" class="subcategory-title">Sofas &amp; Sectionals</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/furniture/ofas-and-sectionals" class="mobileViewall">View All Sofas &amp; Sectionals</a></li>
+<li><a href="/category/furniture/sofas-and-sectionals/sofas">Sofas</a></li>
+<li><a href="/category/furniture/sofas-and-sectionals/sectionals">Sectionals</a></li>
+<li><a href="/category/furniture/sofas-and-sectionals/loveseats">Loveseats</a></li>
+<li><a href="/category/furniture/sofas-and-sectionals/sofabeds">Sofabeds</a></li>
+<li><a href="/category/furniture/sofas-and-sectionals/chaises">Chaises</a></li>
+<li><a href="/category/furniture/sofas-and-sectionals" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+<section class="subcategory bedroom">
+<a href="/category/furniture/bedroom" class="subcategory-title">Bedroom</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/furniture/bedroom" class="mobileViewall">View All Bedroom</a></li>
+<li><a href="/category/furniture/bedroom/beds">Beds</a></li>
+<li><a href="/category/furniture/bedroom/nightstands">Nightstands</a></li>
+<li><a href="/category/furniture/bookcases-and-cabinets/chests-and-dressers">Chests &amp; Dressers</a></li>
+<li><a href="/category/furniture/benches-and-ottomans/benches">Benches</a></li>
+<li><a href="/category/furniture/bedroom" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+</div>
+<div class="category-column">
+<section class="subcategory tables">
+<a href="/category/furniture/tables" class="subcategory-title">Tables</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/furniture/tables" class="mobileViewall">View All Tables</a></li>
+<li><a href="/category/furniture/tables/accent-tables">Accent Tables</a></li>
+<li><a href="/category/furniture/tables/coffee-tables">Coffee Tables</a></li>
+<li><a href="/category/furniture/tables/console-tables">Console Tables</a></li>
+<li><a href="/category/furniture/tables/dining-tables">Dining Tables</a></li>
+<li><a href="/category/furniture/tables/nesting-tables">Nesting Tables</a></li>
+<li><a href="/category/furniture/tables" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+<section class="subcategory bookcases">
+<a href="/category/furniture/bookcases-and-cabinets" class="subcategory-title">Bookcases &amp; Cabinets</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/furniture/tables" class="mobileViewall">View All Bookcases &amp; Cabinets</a></li>
+<li><a href="/category/furniture/bookcases-and-cabinets/bookcases">Bookcases</a></li>
+<li><a href="/category/furniture/bookcases-and-cabinets/cabinets">Cabinets</a></li>
+<li><a href="/category/furniture/bookcases-and-cabinets/chests-and-dressers">Chests &amp; Dressers</a></li>
+<li><a href="/category/decor-and-pillows/organization/shelving">Shelving</a></li>
+<li><a href="/category/furniture/tables" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+</div>
+<div class="category-column">
+<section class="subcategory office">
+<a href="/category/furniture/office" class="subcategory-title">Office</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/furniture/office" class="mobileViewall">View All Office</a></li>
+<li><a href="/category/furniture/office/desks">Desks</a></li>
+<li><a href="/category/furniture/office/chairs">Chairs</a></li>
+<li><a href="/category/furniture/office" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+<section class="subcategory kids">
+<a href="/category/furniture/kids" class="subcategory-title">Kids</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/furniture/kids" class="mobileViewall">View All Kids</a></li>
+<li><a href="/category/furniture/kids" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+<section class="subcategory garden">
+<a href="/category/furniture/garden" class="subcategory-title">Garden</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/furniture/garden" class="mobileViewall">View All Garden</a></li>
+<li><a href="/category/furniture/garden/lounge-sets">Lounge Sets</a></li>
+<li><a href="/category/furniture/garden/chairs">Chairs</a></li>
+<li><a href="/category/furniture/garden/benches">Benches</a></li>
+<li><a href="/category/furniture/garden/tables">Tables</a></li>
+<li><a href="/category/furniture/stools/garden-stools">Garden Stools</a></li>
+<li><a href="/category/furniture/garden/swings-and-hammocks">Swings &amp; Hammocks</a></li>
+<li><a href="/category/furniture/garden" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+</div>
+<div class="category-column collection-preview">
+<a href="/collections/mid-century-classics" class="preview-img"><img src="https://d10125bvdzznt0.cloudfront.net/products/36152/square4wide/ION0007-1.jpg"></a>
+<div class="collection-description">
+<a href="/collections/mid-century-classics" class="title">Mid-Century Classics</a>
+<p>Find everything from striking chairs and coffee tables to reimagined light fixtures, and bring a touch of timeless style into your home.</p>
+<a href="/collections/mid-century-classics" class="shop-link">Shop This Collection</a>
+</div>
+</div>
+</div>
+</li>
+<li class="category anchor-right">
+<a href="/category/decor-and-pillows" class="category-title">Decor &amp; Pillows</a>
+<div class="category-container decor-and-pillows col5">
+<div class="category-column">
+<section class="subcategory hidden-sm visible-xs"><a href="/category/decor-and-pillows" class="mobileViewall">view all Decor &amp; Pillows</a></section>
+<section class="subcategory pillows">
+<a href="/category/decor-and-pillows/pillows" class="subcategory-title">Pillows</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/decor-and-pillows/pillows" class="mobileViewall">View All Pillows</a></li>
+<li><a href="/category/decor-and-pillows/pillows/throw-pillows">Throw Pillows</a></li>
+<li><a href="/category/decor-and-pillows/pillows/pillow-covers">Pillow Covers</a></li>
+<li><a href="/category/decor-and-pillows/pillows/outdoor-pillows">Outdoor Pillows</a></li>
+<li><a href="/category/decor-and-pillows/pillows" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+<section class="subcategory rugs">
+<a href="/category/decor-and-pillows/rugs" class="subcategory-title">Rugs</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/decor-and-pillows/rugs" class="mobileViewall">View All Rugs</a></li>
+<li><a href="/category/decor-and-pillows/rugs/textile">Textile Rugs</a></li>
+<li><a href="/category/decor-and-pillows/rugs/hide">Hide Rugs</a></li>
+<li><a href="/category/decor-and-pillows/rugs/shag">Shag Rugs</a></li>
+<li><a href="/category/decor-and-pillows/rugs/outdoor">Outdoor Rugs</a></li>
+<li><a href="/category/decor-and-pillows/rugs" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+<section class="subcategory throws">
+<a href="/category/decor-and-pillows/throws" class="subcategory-title">Throws</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/decor-and-pillows/throws" class="mobileViewall">View All Throws</a></li>
+<li><a href="/category/decor-and-pillows/throws" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+<section class="subcategory poufs">
+<a href="/category/decor-and-pillows/poufs" class="subcategory-title">Poufs</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/decor-and-pillows/poufs" class="mobileViewall">View All Poufs</a></li>
+<li><a href="/category/decor-and-pillows/poufs" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+</div>
+<div class="category-column">
+<section class="subcategory clocks">
+<a href="/category/decor-and-pillows/clocks" class="subcategory-title">Clocks</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/decor-and-pillows/clocks" class="mobileViewall">View All Clocks</a></li>
+<li><a href="/category/decor-and-pillows/clocks/wall-clocks">Wall Clocks</a></li>
+<li><a href="/category/decor-and-pillows/clocks/table-clocks">Table Clocks</a></li>
+<li><a href="/category/decor-and-pillows/clocks" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+<section class="subcategory mirrors">
+<a href="/category/decor-and-pillows/mirrors" class="subcategory-title">Mirrors</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/decor-and-pillows/mirrors" class="mobileViewall">View All Mirrors</a></li>
+<li><a href="/category/decor-and-pillows/mirrors" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+<section class="subcategory photo-frames">
+<a href="/category/decor-and-pillows/photo-frames" class="subcategory-title">Photo Frames</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/decor-and-pillows/photo-frames" class="mobileViewall">View All Photo Frames</a></li>
+<li><a href="/category/decor-and-pillows/photo-frames" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+<section class="subcategory for-the-wall">
+<a href="/category/decor-and-pillows/for-the-wall" class="subcategory-title">For The Wall</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/decor-and-pillows/for-the-wall" class="mobileViewall">View All For The Wall</a></li>
+<li><a href="/category/decor-and-pillows/for-the-wall/decor">Décor</a></li>
+<li><a href="/category/decor-and-pillows/for-the-wall/prints">Prints</a></li>
+<li><a href="/category/decor-and-pillows/for-the-wall/art">Art</a></li>
+<li><a href="/category/lighting/decorative/marquee-signs">Marquee Signs</a></li>
+<li><a href="/category/decor-and-pillows/for-the-wall/decals">Decals</a></li>
 <li><a href="/category/decor-and-pillows/photo-frames">Photo Frames</a></li>
-<li><a href="/category/decor-and-pillows/oddities-and-desk">Oddities &amp; Desk</a></li>
-<li><a href="/category/decor-and-pillows/vases-and-trays">Vases &amp; Trays</a></li>
-<li><a href="/category/decor-and-pillows/candles-and-votives">Candles &amp; Votives</a></li>
-<li><a href="/category/decor-and-pillows/baskets-and-boxes">Baskets &amp; Boxes</a></li>
-<li><a href="/category/decor-and-pillows/organization">Organization</a></li>
-<li><a href="/category/decor-and-pillows/for-the-wall">For The Wall</a></li>
-<li><a href="/category/decor-and-pillows/books">Books</a></li>
-<li><a href="/category/decor-and-pillows/bookends">Bookends</a></li>
+<li><a href="/category/decor-and-pillows/for-the-wall" class="viewall">View All</a></li>
 </ul>
-</div></div></div>
-</li>
-<li>
-<a href="/category/bed-and-bath">Bed &amp; Bath</a>
-<div class="drop"><div class="drop-holder"><div class="col">
-<h3>SHOP BY CATEGORY</h3>
+</div>
+</section>
+</div>
+<div class="category-column">
+<section class="subcategory candles-and-votives">
+<a href="/category/decor-and-pillows/candles-and-votives" class="subcategory-title">Candles &amp; Votives</a>
+<div class="sub-subcategories">
 <ul>
-<li><a href="/category/bed-and-bath/bath">Bath</a></li>
-<li><a href="/category/bed-and-bath/towels-and-bathmats">Towels &amp; Bathmats</a></li>
-<li><a href="/category/bed-and-bath/storage-and-hampers">Storage &amp; Hampers</a></li>
-<li><a href="/category/bed-and-bath/accessories">Accessories</a></li>
+<li class="hidden-sm visible-xs"><a href="/category/decor-and-pillows/candles-and-votives" class="mobileViewall">View All Candles &amp; Votives</a></li>
+<li><a href="/category/decor-and-pillows/candles-and-votives/candles-and-candelabras">Candles &amp; Candelabras</a></li>
+<li><a href="/category/decor-and-pillows/candles-and-votives/votives-and-tealights">Votives &amp; Tealights</a></li>
+<li><a href="/category/lighting/decorative/lanterns">Lanterns</a></li>
+<li><a href="/category/decor-and-pillows/candles-and-votives" class="viewall">View All</a></li>
 </ul>
-</div></div></div>
-</li>
-<li>
-<a href="/category/kitchen-and-dining">Kitchen &amp; Dining</a>
-<div class="drop"><div class="drop-holder"><div class="col">
-<h3>SHOP BY CATEGORY</h3>
+</div>
+</section>
+<section class="subcategory vases-and-trays">
+<a href="/category/decor-and-pillows/vases-and-trays" class="subcategory-title">Vases &amp; Trays</a>
+<div class="sub-subcategories">
 <ul>
-<li><a href="/category/kitchen-and-dining/cook-and-prep">Cook &amp; Prep</a></li>
-<li><a href="/category/kitchen-and-dining/linens-and-aprons">Linens &amp; Aprons</a></li>
-<li><a href="/category/kitchen-and-dining/storage">Storage</a></li>
-<li><a href="/category/kitchen-and-dining/dinnerware">Dinnerware</a></li>
-<li><a href="/category/kitchen-and-dining/glassware-and-bar">Glassware &amp; Bar</a></li>
-<li><a href="/category/kitchen-and-dining/serveware-and-trays">Serveware &amp; Trays</a></li>
-<li><a href="/category/kitchen-and-dining/accessories">Accessories</a></li>
+<li class="hidden-sm visible-xs"><a href="/category/decor-and-pillows/vases-and-trays" class="mobileViewall">View All Vases &amp; Trays</a></li>
+<li><a href="/category/decor-and-pillows/vases-and-trays/decorative-bowls">Decorative Bowls</a></li>
+<li><a href="/category/decor-and-pillows/vases-and-trays/vases">Vases</a></li>
+<li><a href="/category/decor-and-pillows/vases-and-trays/trays">Trays</a></li>
+<li><a href="/category/decor-and-pillows/vases-and-trays" class="viewall">View All</a></li>
 </ul>
-</div></div></div>
-</li>
-<li>
-<a href="/category/lighting">Lighting</a>
-<div class="drop"><div class="drop-holder"><div class="col">
-<h3>SHOP BY CATEGORY</h3>
+</div>
+</section>
+<section class="subcategory baskets-and-boxes">
+<a href="/category/decor-and-pillows/baskets-and-boxes" class="subcategory-title">Baskets &amp; Boxes</a>
+<div class="sub-subcategories">
 <ul>
-<li><a href="/category/lighting/chandeliers-and-pendants">Chandeliers &amp; Pendants</a></li>
-<li><a href="/category/lighting/table-lamps">Table Lamps</a></li>
-<li><a href="/category/lighting/floor-lamps">Floor Lamps</a></li>
-<li><a href="/category/lighting/decorative">Decorative</a></li>
-<li><a href="/category/lighting/office-lighting">Office Lighting</a></li>
+<li class="hidden-sm visible-xs"><a href="/category/decor-and-pillows/baskets-and-boxes" class="mobileViewall">View All Baskets &amp; Boxes</a></li>
+<li><a href="/category/decor-and-pillows/baskets-and-boxes/baskets">Baskets</a></li>
+<li><a href="/category/decor-and-pillows/baskets-and-boxes/boxes">Boxes</a></li>
+<li><a href="/category/decor-and-pillows/baskets-and-boxes" class="viewall">View All</a></li>
 </ul>
-</div></div></div>
-</li>
-<li>
-<a href="/category/gifts-and-seasonal">Gifts &amp; Seasonal</a>
-<div class="drop"><div class="drop-holder"><div class="col">
-<h3>SHOP BY CATEGORY</h3>
+</div>
+</section>
+</div>
+<div class="category-column">
+<section class="subcategory organization">
+<a href="/category/decor-and-pillows/organization" class="subcategory-title">Organization</a>
+<div class="sub-subcategories">
 <ul>
-<li><a href="/category/gifts-and-seasonal/gifts">Gifts</a></li>
-<li><a href="/category/gifts-and-seasonal/plants-and-terrariums">Plants &amp; Terrariums</a></li>
-<li><a href="/category/gifts-and-seasonal/garden">Garden</a></li>
-<li><a href="/category/gifts-and-seasonal/seasonal-decor">Seasonal Décor</a></li>
+<li class="hidden-sm visible-xs"><a href="/category/decor-and-pillows/organization" class="mobileViewall">View All Organization</a></li>
+<li><a href="/category/decor-and-pillows/organization/shelving">Shelving</a></li>
+<li><a href="/category/decor-and-pillows/organization/jewelry-holders">Jewelry Holders</a></li>
+<li><a href="/category/decor-and-pillows/organization/coat-racks">Coat Racks</a></li>
+<li><a href="/category/decor-and-pillows/organization/wall-hooks">Wall Hooks</a></li>
+<li><a href="/category/decor-and-pillows/organization/storage">Storage</a></li>
+<li><a href="/category/decor-and-pillows/organization" class="viewall">View All</a></li>
 </ul>
-</div></div></div>
+</div>
+</section>
+<section class="subcategory organization">
+<a href="/category/decor-and-pillows/oddities-and-desk" class="subcategory-title">Oddities &amp; Desk</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/decor-and-pillows/oddities-and-desk" class="mobileViewall">View All Oddities &amp; Desk</a></li>
+<li><a href="/category/decor-and-pillows/oddities-and-desk" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+<section class="subcategory organization">
+<a href="/category/decor-and-pillows/books" class="subcategory-title">Books</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/decor-and-pillows/books" class="mobileViewall">View All Books</a></li>
+<li><a href="/category/decor-and-pillows/books/art-and-architecture">Art &amp; Architecture</a></li>
+<li><a href="/category/decor-and-pillows/books/travel">Travel</a></li>
+<li><a href="/category/decor-and-pillows/books/cookbooks">Cookbooks</a></li>
+<li><a href="/category/decor-and-pillows/books/entertaining">Entertaining</a></li>
+<li><a href="/category/decor-and-pillows/books/other">Other</a></li>
+<li><a href="/category/decor-and-pillows/books" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+</div>
+<div class="category-column collection-preview">
+<a href="/collections/a-day-at-the-museum" class="preview-img"><img src="https://d10125bvdzznt0.cloudfront.net/products/9573/square4wide/SO60152-120130807-9508-1av3pz2.jpg"></a>
+<div class="collection-description">
+<a href="/collections/a-day-at-the-museum" class="title">Day At The Museum</a>
+<p>Let's stop for a minute to celebrate some of the most iconic designs of 20th century modern art.</p>
+<a href="/collections/a-day-at-the-museum" class="shop-link">Shop This Collection</a>
+</div>
+</div>
+</div>
 </li>
-<li>
-<a href="/gift-card" style="color: #ff8400; font-weight: bold;">Gift Cards</a>
+<li class="category">
+<a href="/category/bed-and-bath" class="category-title">Bed &amp; Bath</a>
+<div class="category-container bed-and-bath col3">
+<div class="category-column">
+<section class="subcategory hidden-sm visible-xs"><a href="/category/bed-and-bath" class="mobileViewall">view all Bed &amp; Bath</a></section>
+<section class="subcategory bedding">
+<a href="/category/bed-and-bath/bedding" class="subcategory-title">Bedding</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/bed-and-bath/bedding" class="mobileViewall">View All Bedding</a></li>
+<li><a href="/category/bed-and-bath/bedding/duvet-covers">Duvet Covers</a></li>
+<li><a href="/category/decor-and-pillows/pillows/throw-pillows">Throw Pillows</a></li>
+<li><a href="/category/decor-and-pillows/pillows/pillow-covers">Pillow Covers</a></li>
+<li><a href="/category/bed-and-bath/bedding" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+<section class="subcategory bath">
+<a href="/category/bed-and-bath/bath" class="subcategory-title">Bath</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/bed-and-bath/bath" class="mobileViewall">View All Bath</a></li>
+<li><a href="/category/bed-and-bath/bath/shower-curtains">Shower Curtains</a></li>
+<li><a href="/category/bed-and-bath/storage-and-hampers/caddies">Caddies</a></li>
+<li><a href="/category/bed-and-bath/bath/trays-and-dishes">Trays &amp; Dishes</a></li>
+<li><a href="/category/bed-and-bath/bath/soaps">Soaps</a></li>
+<li><a href="/category/bed-and-bath/bath/accessories">Accessories</a></li>
+<li><a href="/category/bed-and-bath/bath" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+</div>
+<div class="category-column">
+<section class="subcategory towels-and-bathmats">
+<a href="/category/bed-and-bath/towels-and-bathmats" class="subcategory-title">Towels &amp; Bathmats</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/bed-and-bath/towels-and-bathmats" class="mobileViewall">View All Towels &amp; Bathmats</a></li>
+<li><a href="/category/bed-and-bath/towels-and-bathmats/towels">Towels</a></li>
+<li><a href="/category/bed-and-bath/towels-and-bathmats/bathmats">Bathmats</a></li>
+<li><a href="/category/bed-and-bath/towels-and-bathmats" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+<section class="subcategory towels-and-bathmats">
+<a href="/category/bed-and-bath/storage-and-hampers" class="subcategory-title">Storage &amp; Hampers</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/bed-and-bath/storage-and-hampers" class="mobileViewall">View All Storage &amp; Hampers</a></li>
+<li><a href="/category/bed-and-bath/storage-and-hampers/hampers">Hampers</a></li>
+<li><a href="/category/decor-and-pillows/baskets-and-boxes/baskets">Baskets</a></li>
+<li><a href="/category/bed-and-bath/storage-and-hampers/caddies">Caddies</a></li>
+<li><a href="/category/bed-and-bath/storage-and-hampers/storage">Storage</a></li>
+<li><a href="/category/bed-and-bath/storage-and-hampers" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+</div>
+<div class="category-column collection-preview">
+<a href="/collections/get-this-look-modern-rustic-bath" class="preview-img"><img src="https://d10125bvdzznt0.cloudfront.net/products/50786/square4wide/4NsdIXG0MG_Reclaimed_Apothecary_Caddy0.jpg"></a>
+<div class="collection-description">
+<a href="/collections/get-this-look-modern-rustic-bath" class="title">Modern Rustic Bath Sale</a>
+<p>We've found a way to bring a little piece of that outdoor heaven into your own countryside bath retreat.</p>
+<a href="/collections/get-this-look-modern-rustic-bath" class="shop-link">Shop This Collection</a>
+</div>
+</div>
+</div>
+</li>
+<li class="category anchor-right">
+<a href="/category/kitchen-and-dining" class="category-title">Kitchen &amp; Dining</a>
+<div class="category-container kitchen-and-dining col4">
+<div class="category-column">
+<section class="subcategory hidden-sm visible-xs"><a href="/category/kitchen-and-dining" class="mobileViewall">view all Kitchen &amp; Dining</a></section>
+<section class="subcategory furniture">
+<a href="/category/kitchen-and-dining/furniture" class="subcategory-title">Furniture</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/kitchen-and-dining/furniture" class="mobileViewall">View All Furniture</a></li>
+<li><a href="/category/kitchen-and-dining/furniture/carts">Carts</a></li>
+<li><a href="/category/kitchen-and-dining/furniture/islands">Islands</a></li>
+<li><a href="/category/kitchen-and-dining/furniture/storage">Storage</a></li>
+<li><a href="/category/kitchen-and-dining/furniture" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+<section class="subcategory furniture">
+<a href="/category/kitchen-and-dining/cook-and-prep" class="subcategory-title">Cook &amp; Prep</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/kitchen-and-dining/cook-and-prep" class="mobileViewall">View All Cook &amp; Prep</a></li>
+<li><a href="/category/kitchen-and-dining/cook-and-prep/cookware-and-bakeware">Cookware &amp; Bakeware</a></li>
+<li><a href="/category/kitchen-and-dining/cook-and-prep/cutting-boards">Cutting Boards</a></li>
+<li><a href="/category/kitchen-and-dining/appliances">Appliances</a></li>
+<li><a href="/category/kitchen-and-dining/cook-and-prep/utensils">Utensils</a></li>
+<li><a href="/category/kitchen-and-dining/cook-and-prep/grilling">Grilling</a></li>
+<li><a href="/category/kitchen-and-dining/cook-and-prep/accessories">Accessories</a></li>
+<li><a href="/category/kitchen-and-dining/cook-and-prep" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+<section class="subcategory furniture">
+<a href="/category/kitchen-and-dining/storage" class="subcategory-title">Storage</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/kitchen-and-dining/storage" class="mobileViewall">View All Storage</a></li>
+<li><a href="/category/kitchen-and-dining/storage" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+</div>
+<div class="category-column">
+<section class="subcategory dinnerware">
+<a href="/category/kitchen-and-dining/dinnerware" class="subcategory-title">Dinnerware</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/kitchen-and-dining/dinnerware" class="mobileViewall">View All Dinnerware</a></li>
+<li><a href="/category/kitchen-and-dining/dinnerware/cutlery">Cutlery</a></li>
+<li><a href="/category/kitchen-and-dining/dinnerware/bowls-and-cups">Bowls &amp; Cups</a></li>
+<li><a href="/category/kitchen-and-dining/dinnerware/plates-and-dishes">Plates &amp; Dishes</a></li>
+<li><a href="/category/kitchen-and-dining/dinnerware" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+<section class="subcategory glassware-and-bar">
+<a href="/category/kitchen-and-dining/glassware-and-bar" class="subcategory-title">Glassware &amp; Bar</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/kitchen-and-dining/glassware-and-bar" class="mobileViewall">View All Glassware &amp; Bar</a></li>
+<li><a href="/category/kitchen-and-dining/glassware-and-bar/glassware">Glassware</a></li>
+<li><a href="/category/kitchen-and-dining/glassware-and-bar/mugs">Mugs</a></li>
+<li><a href="/category/kitchen-and-dining/glassware-and-bar/bar">Bar</a></li>
+<li><a href="/category/kitchen-and-dining/glassware-and-bar" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+<section class="subcategory appliances">
+<a href="/category/kitchen-and-dining/appliances" class="subcategory-title">Appliances</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/kitchen-and-dining/appliances" class="mobileViewall">View All Appliances</a></li>
+<li><a href="/category/kitchen-and-dining/appliances" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+</div>
+<div class="category-column">
+<section class="subcategory linens">
+<a href="/category/kitchen-and-dining/linens" class="subcategory-title">Linens</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/kitchen-and-dining/linens" class="mobileViewall">View All Linens</a></li>
+<li><a href="/category/kitchen-and-dining/linens/towels">Towels</a></li>
+<li><a href="/category/kitchen-and-dining/linens/napkins">Napkins</a></li>
+<li><a href="/category/kitchen-and-dining/linens/aprons">Aprons</a></li>
+<li><a href="/category/kitchen-and-dining/linens/placemats">Placemats</a></li>
+<li><a href="/category/kitchen-and-dining/linens" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+<section class="subcategory serveware-and-trays">
+<a href="/category/kitchen-and-dining/serveware-and-trays" class="subcategory-title">Serveware and Trays</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/kitchen-and-dining/serveware-and-trays" class="mobileViewall">View All Serveware and Trays</a></li>
+<li><a href="/category/kitchen-and-dining/serveware-and-trays/server-sets-and-bowls">Server Sets &amp; Bowls</a></li>
+<li><a href="/category/kitchen-and-dining/serveware-and-trays/coffee-and-tea">Coffee &amp; Tea</a></li>
+<li><a href="/category/kitchen-and-dining/serveware-and-trays/trays">Trays</a></li>
+<li><a href="/category/kitchen-and-dining/serveware-and-trays/cheese-boards">Cheese Boards</a></li>
+<li><a href="/category/kitchen-and-dining/serveware-and-trays" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+<section class="subcategory tabletop">
+<a href="/category/kitchen-and-dining/tabletop" class="subcategory-title">Tabletop</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/kitchen-and-dining/tabletop" class="mobileViewall">View All Tabletop</a></li>
+<li><a href="/category/kitchen-and-dining/tabletop" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+</div>
+<div class="category-column collection-preview">
+<a href="/category/kitchen-and-dining/glassware-and-bar" class="preview-img"><img src="https://d10125bvdzznt0.cloudfront.net/products/28395/square4wide/TWE0049-1.jpg"></a>
+<div class="collection-description">
+<a href="/category/kitchen-and-dining/glassware-and-bar" class="title">Shop All Glassware</a>
+<p>Dip-dye mason jar mugs. Inject a little color into your barware.</p>
+<a href="/category/kitchen-and-dining/glassware-and-bar" class="shop-link">Shop This Collection</a>
+</div>
+</div>
+</div>
+</li>
+<li class="category anchor-right">
+<a href="/category/lighting" class="category-title">Lighting</a>
+<div class="category-container lighting lighting col3">
+<div class="category-column">
+<section class="subcategory hidden-sm visible-xs"><a href="/category/lighting" class="mobileViewall">view all Lighting</a></section>
+<section class="subcategory chandeliers-and-pendants">
+<a href="/category/lighting/chandeliers-and-pendants" class="subcategory-title">Chandeliers &amp; Pendants</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/lighting/chandeliers-and-pendants" class="mobileViewall">View All Chandeliers &amp; Pendants</a></li>
+<li><a href="/category/lighting/chandeliers-and-pendants/chandeliers">Chandeliers</a></li>
+<li><a href="/category/lighting/chandeliers-and-pendants/pendants">Pendant Lights</a></li>
+<li><a href="/category/lighting/chandeliers-and-pendants" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+<section class="subcategory lamps">
+<a href="/category/lighting/lamps" class="subcategory-title">Lamps</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/lighting/lamps" class="mobileViewall">View All Lamps</a></li>
+<li><a href="/category/lighting/lamps/table-lamps">Table Lamps</a></li>
+<li><a href="/category/lighting/lamps/floor-lamps">Floor Lamps</a></li>
+<li><a href="/category/lighting/lamps" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+</div>
+<div class="category-column">
+<section class="subcategory decorative">
+<a href="/category/lighting/decorative" class="subcategory-title">Decorative</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/lighting/decorative" class="mobileViewall">View All Decorative</a></li>
+<li><a href="/category/lighting/decorative/lanterns">Lanterns</a></li>
+<li><a href="/category/lighting/decorative/marquee-signs">Marquee Signs</a></li>
+<li><a href="/category/lighting/decorative/string-lights">String Lights</a></li>
+<li><a href="/category/lighting/decorative/night-lights">Night Lights</a></li>
+<li><a href="/category/lighting/decorative" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+<section class="subcategory office">
+<a href="/category/lighting/office-lighting" class="subcategory-title">Office</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="category/lighting/office-lighting" class="mobileViewall">View All Office</a></li>
+<li><a href="/category/lighting/office-lighting" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+</div>
+<div class="category-column collection-preview">
+<a href="/collections/best-sellers/crystal-rock-chandelier" class="preview-img"><img src="https://d10125bvdzznt0.cloudfront.net/products/24378/square4wide/CCO0295-1.jpg"></a>
+<div class="collection-description">
+<a href="/collections/best-sellers/crystal-rock-chandelier" class="title">Crystal Rock Chandelier</a>
+<p>Where rustic meets romance: a perfect juxtaposition of metal and lovely crystals.</p>
+<a href="/collections/best-sellers/crystal-rock-chandelier" class="shop-link">Shop Now</a>
+</div>
+</div>
+</div>
+</li>
+<li class="category anchor-right">
+<a href="/category/outdoor" class="category-title">Outdoor</a>
+<div class="category-container outdoor col3">
+<div class="category-column">
+<section class="subcategory hidden-sm visible-xs"><a href="/category/outdoor" class="mobileViewall">view all Outdoor</a></section>
+<section class="subcategory plants-and-terrariums">
+<a href="/category/outdoor/plants-and-terrariums" class="subcategory-title">Plants &amp; Terrariums</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/outdoor/plants-and-terrariums" class="mobileViewall">View All Plants &amp; Terrariums</a></li>
+<li><a href="/category/outdoor/plants-and-terrariums/planters">Planters</a></li>
+<li><a href="/category/outdoor/plants-and-terrariums/terrariums">Terrariums</a></li>
+<li><a href="/category/outdoor/plants-and-terrariums/live-plants">Live Plants</a></li>
+<li><a href="/category/outdoor/plants-and-terrariums" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+<section class="subcategory plants-and-terrariums">
+<a href="/category/lighting/decorative" class="subcategory-title">Lighting</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/lighting/decorative" class="mobileViewall">View All Lighting</a></li>
+<li><a href="/category/lighting/decorative/lanterns">Lanterns</a></li>
+<li><a href="/category/lighting/decorative/string-lights">String Lights</a></li>
+<li><a href="/category/lighting/decorative" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+</div>
+<div class="category-column">
+<section class="subcategory grilling">
+<a href="/category/kitchen-and-dining/cook-and-prep/grilling" class="subcategory-title">Grilling</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/kitchen-and-dining/cook-and-prep/grilling" class="mobileViewall">View All Grilling</a></li>
+<li><a href="/category/kitchen-and-dining/cook-and-prep/grilling" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+<section class="subcategory fireplaces">
+<a href="/category/outdoor/fireplaces" class="subcategory-title">Fireplaces</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/outdoor/fireplaces" class="mobileViewall">View All Fireplaces</a></li>
+<li><a href="/category/outdoor/fireplaces" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+<section class="subcategory games">
+<a href="/category/outdoor/games" class="subcategory-title">Games</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/outdoor/games" class="mobileViewall">View All Games</a></li>
+<li><a href="/category/outdoor/games" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+<section class="subcategory accessories">
+<a href="/category/outdoor/accessories" class="subcategory-title">Accessories</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/outdoor/accessories" class="mobileViewall">View All Accessories</a></li>
+<li><a href="/category/outdoor/accessories" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+</div>
+<div class="category-column collection-preview">
+<a href="/collections/weekender-picnic-in-the-park/18806-portable-charlie-fire-pit" class="preview-img"><img src="https://d10125bvdzznt0.cloudfront.net/products/51578/square4wide/Ax9MSfFDlT_Portable_Charlie_Fire_Pit0.jpg"></a>
+<div class="collection-description">
+<a href="/collections/weekender-picnic-in-the-park/18806-portable-charlie-fire-pit" class="title">Portable Charlie Fire Pit</a>
+<p>For the backyard camping experience!</p>
+<a href="/collections/weekender-picnic-in-the-park/18806-portable-charlie-fire-pit" class="shop-link">Shop Now</a>
+</div>
+</div>
+</div>
+</li>
+<li class="category anchor-right">
+<a href="/category/gifts-and-seasonal" class="category-title">Gifts</a>
+<div class="category-container gifts col2">
+<div class="category-column">
+<section class="subcategory hidden-sm visible-xs"><a href="/category/gifts-and-seasonal" class="mobileViewall">view all Gifts</a></section>
+<section class="subcategory gift-cards">
+<a href="/gift-card" class="subcategory-title">Gift Cards</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/gift-card" class="mobileViewall">View All Gift Cards</a></li>
+<li><a href="/gift-card" class="viewall">Select Amount</a></li>
+</ul>
+</div>
+</section>
+<section class="subcategory gift-cards">
+<a href="/category/gifts-and-seasonal/gifts" class="subcategory-title">Gifts</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/gifts-and-seasonal/gifts" class="mobileViewall">View All Gifts</a></li>
+<li><a href="/category/gifts-and-seasonal/gifts/for-him">For Him</a></li>
+<li><a href="/category/gifts-and-seasonal/gifts/for-her">For Her</a></li>
+<li><a href="/category/gifts-and-seasonal/gifts/for-pets">For Pets</a></li>
+<li><a href="/category/gifts-and-seasonal/gifts/for-kids">For Kids</a></li>
+<li><a href="/category/gifts-and-seasonal/gifts/for-the-office">For the Office</a></li>
+<li><a href="/category/gifts-and-seasonal/gifts/tech-accessories">Tech Accessories</a></li>
+<li><a href="/category/gifts-and-seasonal/gifts" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+<section class="subcategory gift-cards">
+<a href="/category/gifts-and-seasonal/seasonal-decor" class="subcategory-title">Seasonal Décor</a>
+<div class="sub-subcategories">
+<ul>
+<li class="hidden-sm visible-xs"><a href="/category/gifts-and-seasonal/seasonal-decor" class="mobileViewall">View All Seasonal Décor</a></li>
+<li><a href="/category/gifts-and-seasonal/seasonal-decor" class="viewall">View All</a></li>
+</ul>
+</div>
+</section>
+</div>
+<div class="category-column collection-preview">
+<a href="/gift-card" class="preview-img"><img src="https://d10125bvdzznt0.cloudfront.net/site/3-0-nav-dropdown-giftcards-graphic-4.jpg"></a>
+<div class="collection-description">
+<a href="/gift-card" class="title">E-Gift Cards</a>
+<p>We make it easy to find that perfect gift for everyone!</p>
+<a href="/gift-card" class="shop-link">Shop Now</a>
+</div>
+</div>
+</div>
+</li>
+<li class="category anchor-right">
+<a href="/all-series" class="category-title category-title-special"><strong>All Series</strong></a>
+<div class="category-container all-series col1">
+<div class="category-column">
+<section class="subcategory hidden-sm visible-xs"><a href="/all-series" class="mobileViewall">view All Series</a></section>
+<section class="subcategory gift-cards">
+<ul>
+<li><a href="/series/local-flavor">Local Flavor</a></li>
+<li><a href="/series/design-101">Design 101</a></li>
+<li><a href="/series/dream-house">Dream House</a></li>
+<li><a href="/series/wanderlust">Wanderlust</a></li>
+<li><a href="/series/get-this-look">Get This Look</a></li>
+<li><a href="/series/trending">Trending</a></li>
+<li><a href="/series/set-the-scene">Set the Scene</a></li>
+<li><a href="/series/curators-picks">Curator's Picks</a></li>
+<li><a href="/series/blueprints">Blueprints</a></li>
+<li><a href="/series/origins">Origins</a></li>
+<li><a href="/series/time-capsule">Time Capsule</a></li>
+<li><a href="/series/crafted">Crafted</a></li>
+<li><a href="/series/playlist">Playlist</a></li>
+<li><a href="/series/on-screen-style">On-Screen Style</a></li>
+<li><a href="/all-series" class="viewall">View All</a></li>
+</ul>
+</section>
+</div>
+</div>
+</li>
+<div class="hidden-xs">
+<li class="category anchor-right">
+<a href="http://blog.dotandbo.com/" class="category-title special">Design District</a>
+<div class="category-container design-district col1">
+<div class="category-column collection-preview">
+<a href="http://blog.dotandbo.com/" class="preview-img"><img src="https://d5u7p1d7v7rwy.cloudfront.net/wp-content/uploads/2014/07/07-fire-on-deck-1.jpg.245x368_default-230x345.jpg"></a>
+<div class="collection-description">
+<a href="http://blog.dotandbo.com/" class="title">Join Our Blog</a>
+<p>Fresh from the editorial minds of Dot &amp; Bo, the Design District blog offers up even more design inspiration and decorating advice.</p>
+<a href="http://blog.dotandbo.com/" class="shop-link">Read Our Blog</a>
+</div>
+</div>
+</div>
+</li>
+</div>
+</ul>
+<ul class="categories last-section visible-xs">
+<li class="category">
+<h3 class="section-title">Helpful Links</h3>
+</li>
+<li class="category">
+<a href="/account/info" class="category-title special">My Account</a>
+<div class="category-container my-account col1">
+<div class="category-column">
+<section class="subcategory account-overview">
+<a href="/account/info" class="subcategory-title">Account Overview</a>
+<div class="sub-subcategories">
+<ul>
+<li><a href="/favorites">My Favorites</a></li>
+<li><a href="/account/orders">View Orders</a></li>
+<li><a href="/account/info">Personal Info</a></li>
+<li><a href="/account/email-update">Email Preferences</a></li>
+<li><a href="/?logout">Sign Out</a></li>
+</ul>
+</div>
+</section>
+</div>
+</div>
+</li>
+<li class="category">
+<a class="link-title" href="/faqs">FAQs</a>
 </li>
 </ul>
 </nav>
-</div>
 </div>
 </div>
 </header>
+</div>
+<span></span>
+<main role="main" id="main">
+<div class="bar hidden-xs">
 <div class="container">
-<div class="container-holder">
-<section class="content">
-<h1>DOT &amp; BO INC. PRIVACY POLICY</h1>
-<p>
-Dot &amp; Bo Inc. (“Dot &amp; Bo,” “D&amp;B, “we,” “us,” or “our”) know that our visitors care about how your personal
-information is used and shared. We take your privacy very seriously and are committed to protecting the privacy of our
-visitors. Our privacy policy explains how information is collected, used and disclosed by Dot &amp; Bo with respect to
-your access and use of Dot &amp; Bo’s services, whether through our website (“Site” located at <a href="http://www.dotandbo.com" style="color: red">www.dotandbo.com</a>), our applications for mobile devices, or any
-other services we offer from time to time including other linked pages (collectively, the “Network”), you agree to the
-practices and policies set forth in this Privacy Policy, and you hereby acknowledge and consent to our collection,
-use, and sharing of your information as described in this Privacy Policy.
-</p>
-<h2>Your Privacy is Important to Dot &amp; Bo</h2>
-<p>
-Dot &amp; Bo respects and upholds the confidentiality of information and the privacy of individuals and is committed
-to user, visitor and customer privacy to the Dot &amp; Bo web site at <a href="http://www.dotandbo.com" style="color: red">www.dotandbo.com</a>. Because we gather important information from our users, visitors and
-customers (collectively "Customers" or "you" or "your"), we have established this Privacy Policy as a means to
-communicate our information gathering and dissemination practices. By accessing this Website, you acknowledge and
-agree to this Privacy Policy and also agree to the Terms of Use of the Website located at <a href="/terms.html" style="color: red">www.dotandbo.com/terms.html</a> ("Terms of Use Agreement").
-</p>
-<h2>Information We Collect</h2>
-<p>We may require Customers who visit our Network and purchase services and products on our Network to give us
-contact information, which may include but is not limited to the Customer's name, company name, address, phone number,
-email address, cookies, IP logs, billing information, billing name and address, credit card number, and other
-information as detailed below under "Personal Information" (collectively "Personal Information"). Besides the Personal
-Information, we may also collect other information regarding your use of the Website. From time to time, we may also
-collect or ask for additional Personal Information, which will also be expressly included herein as Personal
-Information. You can opt out of providing this additional information by not entering it when asked or not using the
-Website, although not providing it may hinder your ability to use the Website.</p>
-<p>You may also have the ability to update or remove your Personal Information by logging into the Website and
-editing your Personal Information within your profile (to the extent one exists). However, archival or backup copies
-of said information will not cease to exist and Dot &amp; Bo shall not be liable for any problems in this editing
-process.</p>
-<p>Information collected is used to provide and maintain the Website and is used at Dot &amp; Bo's discretion. This
-Information can also be used to contact you to further discuss interest in our company, the services we provide, and
-to send information regarding Dot &amp; Bo, its partners, its products and other activities such as promotions and
-events. You may be invited to receive email correspondence by providing an email address. Your email address and any
-Personal Information will not be distributed or shared with third parties unless it is to transact such business as
-you have contracted us to do, to comply with legal processes and/or law enforcement requests, or to conduct any
-business as Dot &amp; Bo, in its sole discretion, deems reasonable.</p>
-<p>
-Dot &amp; Bo may also email (or send via other methods) information regarding updates to the Website, newsletters,
-advertisements, or other correspondence. You will have an opportunity to unsubscribe to any emails or mailings by
-clicking on an "unsubscribe" hyperlink contained in such promotional emails or by emailing us at <a href="/contact.html" style="color: red">www.dotandbo.com/contact.html</a>. Despite unsubscribing from such list, Dot
-&amp; Bo may send confirmation emails if you order online and may need to contact you by phone, email or regular mail
-with questions or issues concerning your order. Any opt-out by you is not deemed valid until processed by Dot &amp;
-Bo. Dot &amp; Bo shall not be liable for problems arising from the opt-out procedure.
-</p>
+<a class="back hidden-sm hidden-md hidden-lg" href="/">Back</a>
+<nav class="breadcrumbs hidden-xs">
+<ul>
+<li><a href="/">Home</a></li>
+<li class="active">Privacy Policy</li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+<article class="content-block">
+<h1>PRIVACY POLICY</h1>
+<div class="text-row">
+<p>Dot &amp; Bo Inc. (“Dot &amp; Bo,” “D&amp;B, “we,” “us,” or “our”) know that our visitors care about how your personal information is used and shared. We take your privacy very seriously and are committed to protecting the privacy of our visitors. Our privacy policy explains how information is collected, used and disclosed by Dot &amp; Bo with respect to your access and use of Dot &amp; Bo’s services, whether through our website (“Site” located at <a href="/">www.dotandbo.com</a>), our applications for mobile devices, or any other services we offer from time to time including other linked pages (collectively, the “Network”), you agree to the practices and policies set forth in this Privacy Policy, and you hereby acknowledge and consent to our collection, use, and sharing of your information as described in this Privacy Policy.</p>
+</div>
+<div class="text-row">
+<h2>YOUR PRIVACY IS IMPORTANT TO DOT &amp; BO</h2>
+<p>Dot &amp; Bo respects and upholds the confidentiality of information and the privacy of individuals and is committed to user, visitor and customer privacy to the Dot &amp; Bo web site at <a href="/">www.dotandbo.com</a>. Because we gather important information from our users, visitors and customers (collectively "Customers" or "you" or "your"), we have established this Privacy Policy as a means to communicate our information gathering and dissemination practices. By accessing this Website, you acknowledge and agree to this Privacy Policy and also agree to the Terms of Use of the Website located at <a href="/terms">www.dotandbo.com/terms.html</a> ("Terms of Use Agreement").</p>
+</div>
+<div class="text-row">
+<h2>INFORMATION WE COLLECT</h2>
+<p>We may require Customers who visit our Network and purchase services and products on our Network to give us contact information, which may include but is not limited to the Customer's name, company name, address, phone number, email address, cookies, IP logs, billing information, billing name and address, credit card number, and other information as detailed below under "Personal Information" (collectively "Personal Information"). Besides the Personal Information, we may also collect other information regarding your use of the Website. From time to time, we may also collect or ask for additional Personal Information, which will also be expressly included herein as Personal Information. You can opt out of providing this additional information by not entering it when asked or not using the Website, although not providing it may hinder your ability to use the Website.</p>
+<p>You may also have the ability to update or remove your Personal Information by logging into the Website and editing your Personal Information within your profile (to the extent one exists). However, archival or backup copies of said information will not cease to exist and Dot &amp; Bo shall not be liable for any problems in this editing process.</p>
+<p>Information collected is used to provide and maintain the Website and is used at Dot &amp; Bo's discretion. This Information can also be used to contact you to further discuss interest in our company, the services we provide, and to send information regarding Dot &amp; Bo, its partners, its products and other activities such as promotions and events. You may be invited to receive email correspondence by providing an email address. Your email address and any Personal Information will not be distributed or shared with third parties unless it is to transact such business as you have contracted us to do, to comply with legal processes and/or law enforcement requests, or to conduct any business as Dot &amp; Bo, in its sole discretion, deems reasonable.</p>
+<p>Dot &amp; Bo may also email (or send via other methods) information regarding updates to the Website, newsletters, advertisements, or other correspondence. You will have an opportunity to unsubscribe to any emails or mailings by clicking on an "unsubscribe" hyperlink contained in such promotional emails or by emailing us at <a href="/contact">www.dotandbo.com/contact.html</a>. Despite unsubscribing from such list, Dot &amp; Bo may send confirmation emails if you order online and may need to contact you by phone, email or regular mail with questions or issues concerning your order. Any opt-out by you is not deemed valid until processed by Dot &amp; Bo. Dot &amp; Bo shall not be liable for problems arising from the opt-out procedure.</p>
 <p>We acknowledge that you have the right to control how your Personal Information is collected and used.</p>
-<h2>Personal Information</h2>
-<p>The type of Personal Information that may be collected or submitted to Dot &amp; Bo includes, but is not limited
-to the following:
-</p><ul>
+</div>
+<div class="text-row">
+<h2>PERSONAL INFORMATION</h2>
+<ul>
+<li>The type of Personal Information that may be collected or submitted to Dot &amp; Bo includes, but is not limited to the following:</li>
 <li>Your name, current address, age group, email address, telephone/cell phone number and fax number;</li>
-<li>Information about your visit to the Website, which includes the date and time of your visit, the pages
-accessed and the documents retrieved;</li>
+<li>Information about your visit to the Website, which includes the date and time of your visit, the pages accessed and the documents retrieved;</li>
 <li>The type of browser used when you visit our Website,</li>
 <li>Information to fulfill a purchase which includes credit card, billing information and shipping address, and</li>
 <li>Any personal correspondence, which includes emails</li>
 </ul>
-<p></p>
-Other information you provide is not required by us but may assist with responding to your request more effectively.
-<p></p>
-<h2>Why Do We Collect Personal Information?</h2>
-<p>Dot &amp; Bo offers various products and services to our Customers and also strives to meet the needs of our
-Customers. We use your Personal Information for internal purposes such as tracking your order, analyzing your
-preferences, and noting trends and statistics. To do this effectively, we need to collect certain Personal
-Information.</p>
-<h2>The Personal Information We Collect From You</h2>
-<p>All Personal Information we collect from you requires your consent, for example, opening an account, purchase
-and delivery of products, special offers, etc. We may request your consent from time to time to take part in improved
-product performance or for marketing purposes that we think will be useful to you. However, unless you are informed
-otherwise, the Personal Information we hold is for establishing and managing our business and customer relationship
-with you. Sensitive information is subject to greater restrictions and governed by law.</p>
-<p>By communicating with Dot &amp; Bo, including by email and by completing online forms, you are giving your
-consent to the collection of what Personal Information you provide.</p>
-<p>You have the right to anonymity and do not have to supply us with information. However, if you choose not to
-provide the information and we need to fulfill your request for a specific product, we may be unable to provide you
-with that requested product.</p>
-<h2>Keeping a Record of Personal Information</h2>
-<p>Depending on the product you have acquired, it may be necessary to keep a record of the transaction for business
-purposes or to enable us to respond to your concerns.</p>
-<p>We may hold Personal Information for the following purposes:
-</p><ul>
+<p>Other information you provide is not required by us but may assist with responding to your request more effectively.</p>
+</div>
+<div class="text-row">
+<h2>WHY DO WE COLLECT PERSONAL INFORMATION?</h2>
+<p>Dot &amp; Bo offers various products and services to our Customers and also strives to meet the needs of our Customers. We use your Personal Information for internal purposes such as tracking your order, analyzing your preferences, and noting trends and statistics. To do this effectively, we need to collect certain Personal Information.</p>
+</div>
+<div class="text-row">
+<h2>THE PERSONAL INFORMATION WE COLLECT FROM YOU</h2>
+<p>All Personal Information we collect from you requires your consent, for example, opening an account, purchase and delivery of products, special offers, etc. We may request your consent from time to time to take part in improved product performance or for marketing purposes that we think will be useful to you. However, unless you are informed otherwise, the Personal Information we hold is for establishing and managing our business and customer relationship with you. Sensitive information is subject to greater restrictions and governed by law.</p>
+<p>By communicating with Dot &amp; Bo, including by email and by completing online forms, you are giving your consent to the collection of what Personal Information you provide.</p>
+<p>You have the right to anonymity and do not have to supply us with information. However, if you choose not to provide the information and we need to fulfill your request for a specific product, we may be unable to provide you with that requested product.</p>
+</div>
+<div class="text-row">
+<h2>KEEPING A RECORD OF PERSONAL INFORMATION</h2>
+<p>Depending on the product you have acquired, it may be necessary to keep a record of the transaction for business purposes or to enable us to respond to your concerns.</p>
+<p>We may hold Personal Information for the following purposes:</p>
+<ul>
 <li>Internal accounting and administration;</li>
 <li>To supply you with information about your account including regular statements;</li>
 <li>To respond to inquiries;</li>
 <li>Enhancing customer service, product options and to improve product performance;</li>
-<li>Promotions, competition entry forms, redemption vouchers, and special offers where you voluntarily supplied
-your personal details;</li>
+<li>Promotions, competition entry forms, redemption vouchers, and special offers where you voluntarily supplied your personal details;</li>
 <li>To administer sales records;</li>
 <li>To provide information about us, our products, services and special offers; and</li>
 <li>To analyze our website usage.</li>
 </ul>
-<p></p>
-<p>Occasionally we require organizations outside Dot &amp; Bo to provide a service for purposes, which are
-necessary for us to conduct our business, functions and activities (for example advertising names of competition
-winners and delivering products). We take all steps to ensure these organizations both inside and outside of the
-United States deal with Personal Information according to this Policy.</p>
-<h2>Our Disclosure of Your Information/Security</h2>
-<p>Although Dot &amp; Bo uses industry standard practices to protect your Personal Information, due to technical
-limitations, WE DO NOT REPRESENT, WARRANT AND/OR GUARANTEE THAT PERSONAL INFORMATION WILL REMAIN SECURE. Therefore, we
-cannot and do not guarantee, and you should not expect, that your Personal Information or private communications will
-always remain private. Notwithstanding this, as a matter of policy, we NEVER sell or rent any Personal Information
-about you to any third party.</p>
-<p>The following describes some of the ways that your Personal Information may be disclosed and you expressly agree
-that your Personal Information may be disclosed by Dot &amp; Bo in the following ways:
-</p><ul>
-<li><b>Advertisers</b>. We may internally gather data across all of our Website's visitors and keep a record of
-your usage habits. As a result, we may disclose some limited, non-specific Personal Information to third parties for
-marketing and promotional purposes. However, in these situations, we do not disclose to these entities any
-information that could be used to identify you personally. Certain information, such as your name, email address,
-address and telephone number are NEVER disclosed to advertisers.</li>
-<li><b>Cookies</b>. When you visit the Website, our server may attach a small data file known as a "cookie" to
-your hard drive. This enables us to analyze usage patterns on our Website in order to tailor it to our users' needs.
-Cookies are safe and cannot be used to deliver a virus. Cookies only identify your computer to our servers when you
-visit our Website. Most web browsers are set to accept cookies. If you do not wish to accept cookies, you can refuse
-the transfer of cookies to your computer's hard drive by adjusting your Internet browser. Without accepting a Cookie,
-you can browse through our site, but you will be unable to establish a shopping cart session and make a purchase
-on-line.</li>
-<li><b>Legal Requests</b>. Dot &amp; Bo may lawfully disclose your Personal Information for law enforcement or
-regulatory purposes.</li>
-</ul>
-<p></p>
-<h2>How We Manage Your Personal Information</h2>
-<p>You may have contact with us personally, by telephone, mail, over the Internet or other electronic medium. We
-take all reasonable steps to keep your Personal Information secure in a combination of secure computer storage, hard
-copy files and other records. We take steps to protect the personal information we hold from misuse, loss,
-unauthorized access, modification or disclosure. You have the right to access the Personal Information you have
-provided to us. If you require details of your Personal Information held by us, we will need to verify your identity
-before meeting your request, which we will process in a reasonable time. If you find that the information we hold
-about you is inaccurate or out of date then we will promptly correct it upon receipt of the changes from you.</p>
-<p>As far as permissible under law, Dot &amp; Bo accepts no responsibility for the unauthorized access of Personal
-Information held by Dot &amp; Bo.</p>
-<h2>Children's privacy</h2>
-<p>The Children's Online Privacy Protection Act imposes certain requirements on web sites directed at children
-under 13 that collect information on those children, and on web sites that knowingly collect information on children
-under 13. The Dot &amp; Bo Network is not directed at children under 13, and does not knowingly collect any personal
-information from children under 13.</p>
-<h2>Changes to Our Privacy Statement</h2>
-<p>
-From time to time, it may be necessary for us to review and revise our privacy statement. We reserve the right to
-change our privacy statement at any time and to notify you by publishing an updated version of the policy on the Dot
-&amp; Bo website at <a href="http://www.dotandbo.com" style="color: red">www.dotandbo.com</a>.
-</p>
-<h2>How To Contact Us If You Have A Problem Or Complain</h2>
-<p>If you have any queries in relation to this policy or its administration or if you would like more details of
-the type of personal information Dot &amp; Bo holds, for what purposes, and how we collect, hold, use and disclose
-that information, please contact Dot &amp; Bo at privacy[at]dotandbo.com.</p>
-<h2>Additional Information</h2>
-<p>
-This Policy is part of the <a href="/terms.html" style="color: red">Terms of Use</a> of Dot &amp; Bo’s services and
-any use of the Network is governed by those Terms of Use.
-</p>
-<p>
-<b>Effective Date:</b> January 18, 2013
-</p>
-</section>
-<section class="item-images row-fluid">
-<h2>BEST SELLERS</h2>
-<ul class="thumbnails">
-<li class="span2"><a href="/collections/modern-brazilian-style/divi-sofa-black"><img src="http://d10125bvdzznt0.cloudfront.net/products/16498/square2wide/INS0003-blk-1.jpg" alt="Divi Sofa in Black"></a></li>
-<li class="span2"><a href="/collections/change-your-habitat/handmade-succulent-cushion-jovibarba"><img src="http://d10125bvdzznt0.cloudfront.net/products/22902/square2wide/PLT0002-1.jpg" alt="Handmade Succulent Cushion - Jovibarba"></a></li>
-<li class="span2"><a href="/collections/modern-autumn/benjamin-teak-sideboard"><img src="http://d10125bvdzznt0.cloudfront.net/products/14970/square2wide/DLB0007-120131002-15154-1lnsbt9.jpg" alt="Benjamin Teak Sideboard"></a></li>
-<li class="span2"><a href="/collections/in-style-vintage-chic-bathroom/all-the-essentials-cart"><img src="http://d10125bvdzznt0.cloudfront.net/products/30478/square2wide/CBK0069-1.jpg" alt="All The Essentials Cart"></a></li>
-<li class="span2"><a href="/collections/blueprints-industrial-grade-kitchen/tomas-leaning-shelf"><img src="http://d10125bvdzznt0.cloudfront.net/products/29837/square2wide/KLL0295-1.jpg" alt="Tomas Leaning Shelf"></a></li>
-<li class="span2"><a href="/collections/office-swag/compartment-desk"><img src="http://d10125bvdzznt0.cloudfront.net/products/48849/square2wide/YFb3ZWr3aj_Compartment_Desk0.jpg" alt="Compartment Desk"></a></li>
-</ul>
-</section>
+<p>Occasionally we require organizations outside Dot &amp; Bo to provide a service for purposes, which are necessary for us to conduct our business, functions and activities (for example advertising names of competition winners and delivering products). We take all steps to ensure these organizations both inside and outside of the United States deal with Personal Information according to this Policy.</p>
+</div>
+<div class="text-row">
+<h2>OUR DISCLOSURE OF YOUR INFORMATION/SECURITY</h2>
+<p>Although Dot &amp; Bo uses industry standard practices to protect your Personal Information, due to technical limitations, WE DO NOT REPRESENT, WARRANT AND/OR GUARANTEE THAT PERSONAL INFORMATION WILL REMAIN SECURE. Therefore, we cannot and do not guarantee, and you should not expect, that your Personal Information or private communications will always remain private. Notwithstanding this, as a matter of policy, we NEVER sell or rent any Personal Information about you to any third party.</p>
+<p>The following describes some of the ways that your Personal Information may be disclosed and you expressly agree that your Personal Information may be disclosed by Dot &amp; Bo in the following ways:</p>
+<p>Advertisers. We may internally gather data across all of our Website's visitors and keep a record of your usage habits. As a result, we may disclose some limited, non-specific Personal Information to third parties for marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to identify you personally. Certain information, such as your name, email address, address and telephone number are NEVER disclosed to advertisers.</p>
+<p>Cookies. When you visit the Website, our server may attach a small data file known as a "cookie" to your hard drive. This enables us to analyze usage patterns on our Website in order to tailor it to our users' needs. Cookies are safe and cannot be used to deliver a virus. Cookies only identify your computer to our servers when you visit our Website. Most web browsers are set to accept cookies. If you do not wish to accept cookies, you can refuse the transfer of cookies to your computer's hard drive by adjusting your Internet browser. Without accepting a Cookie, you can browse through our site, but you will be unable to establish a shopping cart session and make a purchase on-line.</p>
+<p>Legal Requests. Dot &amp; Bo may lawfully disclose your Personal Information for law enforcement or regulatory purposes.</p>
+</div>
+<div class="text-row">
+<h2>HOW WE MANAGE YOUR PERSONAL INFORMATION</h2>
+<p>You may have contact with us personally, by telephone, mail, over the Internet or other electronic medium. We take all reasonable steps to keep your Personal Information secure in a combination of secure computer storage, hard copy files and other records. We take steps to protect the personal information we hold from misuse, loss, unauthorized access, modification or disclosure. You have the right to access the Personal Information you have provided to us. If you require details of your Personal Information held by us, we will need to verify your identity before meeting your request, which we will process in a reasonable time. If you find that the information we hold about you is inaccurate or out of date then we will promptly correct it upon receipt of the changes from you.</p>
+<p>As far as permissible under law, Dot &amp; Bo accepts no responsibility for the unauthorized access of Personal Information held by Dot &amp; Bo.</p>
+</div>
+<div class="text-row">
+<h2>CHILDREN'S PRIVACY</h2>
+<p>The Children's Online Privacy Protection Act imposes certain requirements on web sites directed at children under 13 that collect information on those children, and on web sites that knowingly collect information on children under 13. The Dot &amp; Bo Network is not directed at children under 13, and does not knowingly collect any personal information from children under 13.</p>
+</div>
+<div class="text-row">
+<h2>CHANGES TO OUR PRIVACY STATEMENT</h2>
+<p>From time to time, it may be necessary for us to review and revise our privacy statement. We reserve the right to change our privacy statement at any time and to notify you by publishing an updated version of the policy on the Dot &amp; Bo website at <a href="/">www.dotandbo.com</a>.</p>
+</div>
+<div class="text-row">
+<h2>HOW TO CONTACT US IF YOU HAVE A PROBLEM OR COMPLAIN</h2>
+<p>If you have any queries in relation to this policy or its administration or if you would like more details of the type of personal information Dot &amp; Bo holds, for what purposes, and how we collect, hold, use and disclose that information, please contact Dot &amp; Bo at privacy[at]dotandbo.com.</p>
+</div>
+<div class="text-row">
+<h2>ADDITIONAL INFORMATION</h2>
+<p>This Policy is part of the <a href="/terms">Terms of Use</a> of Dot &amp; Bo’s services and any use of the Network is governed by those Terms of Use.</p>
+</div>
+<div class="text-row">
+<p><b>Effective Date:</b> <time datetime="2013-01-18">January 18, 2013</time></p>
+</div>
+</article>
 </div>
 </div>
 </div>
-</div>
-<div id="footer-container">
-<footer id="footer">
+</main>
+<script type="text/javascript">if(navigator.userAgent.match(/IEMobile\/10\.0/)||navigator.userAgent.match(/MSIE 10.*Touch/)){var msViewportStyle=document.createElement('style')
+msViewportStyle.appendChild(document.createTextNode('@-ms-viewport{width:auto !important}'))
+document.querySelector('head').appendChild(msViewportStyle)}</script>
+<script type="text/javascript" src="https://d2c65cykxd49oj.cloudfront.net/v3/js/jquery-1.8.3.min.js.pagespeed.jm.0IhQ85x_cu.js"></script>
+<script type="text/javascript" src="https://d2c65cykxd49oj.cloudfront.net/v3/js/jquery.main.js.pagespeed.jm.nzJgVXP_WC.js"></script>
+<script type="text/javascript" src="https://d2c65cykxd49oj.cloudfront.net/js/lib/bootstrap.js.pagespeed.jm.G2XVZwZ_gu.js"></script>
+<script type="text/javascript" src="//use.typekit.net/ujd0hqn.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" src="https://d2c65cykxd49oj.cloudfront.net/js/lib/underscore-min.js.pagespeed.ce.bcWdOnKtVH.js"></script>
+<script type="text/javascript" src="https://d2c65cykxd49oj.cloudfront.net/js/cart-common.js.pagespeed.jm.1GsPmfFkJ9.js"></script>
+<script type="text/javascript" src="https://d2c65cykxd49oj.cloudfront.net/js/lib/handlebars-v1.3.0.js.pagespeed.jm.mG23UuGOpP.js"></script>
+<script src="https://d2c65cykxd49oj.cloudfront.net/js/common.js+login.js+handlebars-helpers.js.pagespeed.jc.09FAVLrNN0.js"></script><script>eval(mod_pagespeed_OCyqVs7917);</script>
+<script>eval(mod_pagespeed_WU4aSPDKKu);</script>
+<script>eval(mod_pagespeed_be9GjT6YEw);</script>
+<script type="text/javascript" src="https://d2c65cykxd49oj.cloudfront.net/js/search.js.pagespeed.jm.jl6o2aEh8Y.js"></script>
+<script src="https://d2c65cykxd49oj.cloudfront.net/js/historyjs/bundled/html4+html5/jquery.history.js.pagespeed.ce.hbI7MMukme.js"></script>
+<script type="text/javascript">$(function(){if(DotBo.getCookie('spree_api_token')){SpreeUtils.requireUser(function(){});}
+$('.btn-bottom.scroll-down').click(function(){$('html, body').animate({scrollTop:$('#departments-section').offset().top-20},'slow');return false;});$('.tab-pane .btn-app').click(function(){$(this).attr('href','mailto:careers@dotandbo.com?subject=Re: '+$(this).parent().find('h2').text().trim().toUpperCase());});$('.nav-tabs li a').click(function(e){e.preventDefault();var pos=$(this).text().toLowerCase().replace(/\s/g,'-');window.replaceHash(pos);});function selectCareerTabOnLoad(){$.expr[":"].icontains=$.expr.createPseudo(function(arg){return function(elem){return $(elem).text().toUpperCase().indexOf(arg.toUpperCase())>=0;};});var hash=decodeURI((window.location||document.location).hash.substring(1));hash=hash.replace(/-/g,' ');if(hash){$('.nav-tabs li a:icontains("'+hash+'")').first().click();$('html, body').animate({scrollTop:$(".fade.active").offset().top},1500);}}
+selectCareerTabOnLoad();});</script>
+<aside id="footer">
+<div class="f1">
+<div class="f2">
+<div class="footer-row hidden-xs">
 <div class="container">
-<nav class="navigation visible-phone">
+<div class="row">
+<div class="col-holder">
+<div class="col-lg-4 col-md-4 col-sm-4">
+<section class="col">
+<div class="footer-perkimage daily-inspiration"></div>
+<h4>Daily Inspiration</h4>
+<p>We hand-pick unique and beautiful items to inspire and entertain you.</p>
+</section>
+</div>
+<div class="col-lg-4 col-md-4 col-sm-4">
+<section class="col">
+<div class="footer-perkimage accessible-designs"></div>
+<h4>Accessible Designs</h4>
+<p>We make it possible to decorate without compromising quality or budget.</p>
+</section>
+</div>
+<div class="col-lg-4 col-md-4 col-sm-4">
+<section class="col last">
+<div class="footer-perkimage shop-confidence"></div>
+<h4>Shop With Confidence</h4>
+<p>We offer our customers a 30-Day Money Back Guarantee on most merchandise.</p>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-holder">
+<div class="container">
+<nav class="add-nav hidden-sm hidden-md hidden-lg">
 <ul>
 <li><a href="/about">About Us</a></li>
-<li><a href="/terms">Terms of Use</a></li>
-<li><a href="/privacy">Privacy Policy</a></li>
-<li><a href="/contact">Contact Us</a></li>
-<li><a href="/careers">Careers</a></li>
-<li><a href="http://blog.dotandbo.com/">Blog</a></li>
-</ul>
-</nav>
-<div class="footer-holder hidden-phone">
-<nav class="col-nav2">
-<h3>Browse</h3>
-<ul>
-<li><a href="/category/furniture">Furniture</a></li>
-<li><a href="/category/decor-and-pillows">Decor &amp; Pillows</a></li>
-<li><a href="/category/bed-and-bath">Bed &amp; Bath</a></li>
-<li><a href="/category/kitchen-and-dining">Kitchen &amp; Dining</a></li>
-<li><a href="/category/lighting">Lighting</a></li>
-<li><a href="/category/gifts-and-seasonal">Gifts &amp; Seasonal</a></li>
-<li><a href="/collections">Inspiration</a></li>
-</ul>
-</nav>
-<nav class="col-nav2">
-<h3>About</h3>
-<ul>
-<li><a href="/about">About Us</a></li>
-<li><a href="http://blog.dotandbo.com/">Blog</a></li>
-<li><a href="/careers">Careers</a></li>
-<li><a href="/terms">Terms of Use</a></li>
-<li><a href="/privacy">Privacy Policy</a></li>
-<li><a href="mailto:press@dotandbo.com">Press &amp; Media</a></li>
-</ul>
-</nav>
-<nav class="col-nav3">
-<h3>account</h3>
-<ul>
-<li><a href="/account/info">Account Info</a></li>
-<li><a href="/account/credit">Available Credit</a></li>
-<li><a href="/account/orders">My Orders</a></li>
-<li><a href="/account/email-update">Email Preferences</a></li>
-<li><a href="/invite-friends">Invite Friends</a></li>
-</ul>
-</nav>
-<nav class="col-nav3">
-<h3>Service</h3>
-<ul>
-<li><a href="/contact">Contact Us</a></li>
-<li><a href="/shipping">Shipping</a></li>
+<li><a href="/account/info">My Account</a></li>
+<li><a href="/shipping">Shipping Policy</a></li>
 <li><a href="/returns">Return Policy</a></li>
-<li><a href="/gift-card">Gift Cards</a></li>
+<li><a href="/terms">Terms of Use</a></li>
+<li><a href="/privacy">Privacy Policy</a></li>
 </ul>
 </nav>
-<div class="connect-box">
-<h3>connect with us</h3>
-<nav class="social-net">
+<div class="logo-holder hidden-xs">
+<strong class="title">As featured in</strong>
+<ul class="logo-list">
+<li><div class="footer-logos apartmenttherapy"></div></li>
+<li><div class="footer-logos hgtv"></div></li>
+<li><div class="footer-logos houzz"></div></li>
+<li><div class="footer-logos refinery29"></div></li>
+<li><div class="footer-logos wsj"></div></li>
+</ul>
+</div>
+<div class="col-wrapp hidden-xs">
+<nav class="footer-box">
+<h4>shop</h4>
 <ul>
-<li><a href="http://www.pinterest.com/dotandbo">pinterest</a></li>
-<li><a class="twitter" href="http://www.twitter.com/dotandbo">twitter</a></li>
+<li><a href="/collections">All Collections</a></li>
+<li><a href="/category/furniture ">Modern Furniture</a></li>
+<li><a href="/collections/industrial-chic">Industrial Furniture</a></li>
+<li><a href="/collections/mid-century-modern-chairs ">Mid Century Modern Chairs</a></li>
+<li><a href="/collections/mid-century-classics ">Mid Century Modern Furniture</a></li>
+<li><a href="/collections/bohemian-sanctuary ">Bohemian Furniture</a></li>
+<li><a href="/collections/scandinavian-modern-living">Scandinavian Furniture</a></li>
+<li><a href="/collections/shabby-chic">Shabby Chic Furniture</a></li>
+<li><a href="/collections/rustic-farmhouse-style">Rustic Farmhouse Furniture</a></li>
+</ul>
+</nav>
+<nav class="footer-box">
+<h4>About</h4>
+<ul>
+<li><a href="/about">About Us</a></li>
+<li><a href="/about#leadership">Leadership</a></li>
+<li><a href="/about#investors">Investors</a></li>
+<li><a href="/careers">Careers</a></li>
+<li><a href="/terms">Terms of Use</a></li>
+<li><a href="/privacy">Privacy Policy</a></li>
+<li><a href="/press">Press</a></li>
+<li><a href="http://blog.dotandbo.com/">Blog</a></li>
+</ul>
+</nav>
+<nav class="footer-box">
+<h4>Service</h4>
+<ul>
+<li><a href="/contact">Contact Us</a></li>
+<li><a href="/faqs">FAQs</a></li>
+<li><a href="/shipping">Shipping Policy</a></li>
+<li><a href="/returns">Return Policy</a></li>
+<li><a href="/trade">Trade &amp; Business</a></li>
+<li><a href="/affiliate-program">Affiliates</a></li>
+</ul>
+</nav>
+<nav class="footer-box">
+<h4>Account</h4>
+<ul>
+<li><a href="/account#info">Account Overview</a></li>
+<li><a href="/favorites">My Favorites</a></li>
+<li><a href="/account#orders">My Orders</a></li>
+<li><a href="/account/shipping-billing">Shipping &amp; Billing</a></li>
+<li><a href="/account#email-preferences">Email Preferences</a></li>
+<li><a href="/invite-friends">Share With Friends</a></li>
+</ul>
+</nav>
+<nav class="footer-box last">
+<h4>keep in touch</h4>
+<ul class="social-networks">
+<li><a class="pinit" href="http://www.pinterest.com/dotandbo">pinit</a></li>
 <li><a class="facebook" href="http://www.facebook.com/dotandbo">facebook</a></li>
-<li><a class="google-plus" href="https://plus.google.com/+Dotandbo" style="background:url(https://s3.amazonaws.com/assets.dotandbo.com/site/goog-footer.jpg)!important">google-plus</a></li>
+<li><a class="twitter" href="http://www.twitter.com/dotandbo">twitter</a></li>
 </ul>
 </nav>
 </div>
-</div>
-<div class="footer-frame">
-<ul class="footer-plugs-list hidden-phone">
-<li class="alt"><span id="siteseal"><script type="text/javascript" src="https://seal.starfieldtech.com/getSeal?sealID=62YnmCqitIzu636a19Y4juLJmSSRqv6XAy8tsSIOMMZIf61lSwhLSkrbjb54"></script></span></li>
-<li class="alt2"><a id="bbblink" class="sehzbus" href="http://www.bbb.org/greater-san-francisco/business-reviews/internet-shopping/dot-and-bo-in-san-francisco-ca-451988#bbbseal" title="Dot &amp; Bo, Inc., Internet Shopping, San Francisco, CA" style="display: block;position: relative;overflow: hidden; width: 100px; height: 38px; margin: 0px; padding: 0px;"><img style="padding: 0px; border: none;" id="bbblinkimg" src="https://seal-goldengate.bbb.org/logo/sehzbus/dot-and-bo-451988.png" width="200" height="38" alt="Dot &amp; Bo, Inc., Internet Shopping, San Francisco, CA"></a><script type="text/javascript">var bbbprotocol=(("https:"==document.location.protocol)?"https://":"http://");document.write(unescape("%3Cscript src='"+bbbprotocol+'seal-goldengate.bbb.org'+unescape('%2Flogo%2Fdot-and-bo-451988.js')+"' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://seal-goldengate.bbb.org/logo/dot-and-bo-451988.js" type="text/javascript"></script></li>
-<li><img src="http://d2c65cykxd49oj.cloudfront.net/images/219x32xfooter-cc.png.pagespeed.ic.7ljsKbbyBI.png" width="219" height="32"></li>
+<ul class="pay-list hidden-xs">
+<li>
+<script type="text/javascript" src="https://seal.starfieldtech.com/getSeal?sealID=62YnmCqitIzu636a19Y4juLJmSSRqv6XAy8tsSIOMMZIf61lSwhLSkrbjb54"></script>
+</li>
+<li class="item">
+<a id="bbblink" class="sehzbus" href="http://www.bbb.org/greater-san-francisco/business-reviews/internet-shopping/dot-and-bo-in-san-francisco-ca-451988#bbbseal" title="Dot &amp; Bo, Inc., Internet Shopping, San Francisco, CA" style="display: block;position: relative;overflow: hidden; width: 100px; height: 38px; margin: 0px; padding: 0px;"><img style="padding: 0px; border: none;" id="bbblinkimg" src="https://d2c65cykxd49oj.cloudfront.net/images/seal-for-451988.png.pagespeed.ce.dS5ycJ160r.png" width="100" height="38" alt="Dot &amp; Bo, Inc., Internet Shopping, San Francisco, CA"></a>
+</li>
+<li>
+<a>
+<img src="https://d2c65cykxd49oj.cloudfront.net/v3/images/logo-visa.png.pagespeed.ce.TTk_nr1HZB.png" width="51" height="32" alt="visa">
+</a>
+</li>
+<li>
+<a>
+<img src="https://d2c65cykxd49oj.cloudfront.net/v3/images/51x32xlogo-master-card.png.pagespeed.ic.mRlh1Us9iQ.jpg" width="51" height="32" alt="master-card">
+</a>
+</li>
+<li>
+<a>
+<img src="https://d2c65cykxd49oj.cloudfront.net/v3/images/logo-discover.png.pagespeed.ce.gkm_ZgJvhV.png" width="51" height="32" alt="discover">
+</a>
+</li>
+<li>
+<a>
+<img src="https://d2c65cykxd49oj.cloudfront.net/v3/images/51x32xlogo-american-express.png.pagespeed.ic.rwI9B8oGS3.jpg" width="51" height="32" alt="american-express">
+</a>
+</li>
 </ul>
-<div class="copyright"><span class="hidden-phone">Copyright </span>© 2014 Dot &amp; Bo, Inc., All Rights Reserved</div>
-</div>
+<span class="copyright">Copyright © 2015 <a href="/">Dot &amp; Bo</a>, Inc., All Rights Reserved.</span>
 </div>
 </footer>
 </div>
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-<script type="text/javascript" src="http://d2c65cykxd49oj.cloudfront.net/v2/js/bootstrap.js.pagespeed.jm.grmRwxo3Yk.js"></script>
-<script type="text/javascript" src="http://d2c65cykxd49oj.cloudfront.net/v2/js/jquery.main.js.pagespeed.jm.wLdSj__G9K.js"></script>
-<script type="text/javascript" src="http://d2c65cykxd49oj.cloudfront.net/js/lib/underscore-min.js.pagespeed.ce.bcWdOnKtVH.js"></script>
-<script type="text/javascript" src="http://d2c65cykxd49oj.cloudfront.net/js/cart-common.js.pagespeed.jm.Q9EJ-e7SzK.js"></script>
-<script type="text/javascript" src="http://d2c65cykxd49oj.cloudfront.net/js/lib/handlebars-v1.3.0.js.pagespeed.jm.mG23UuGOpP.js"></script>
-<script type="text/javascript" src="http://d2c65cykxd49oj.cloudfront.net/js/common.js.pagespeed.jm.ORWCR86Wiz.js"></script>
-<script type="text/javascript" src="http://d2c65cykxd49oj.cloudfront.net/js/login.js.pagespeed.jm.vyNU9U7HRt.js"></script>
-<script type="text/javascript">//<![CDATA[
-$(function(){window.Handlebars.registerHelper('select',function(value,options){var $el=$('<select />').html(options.fn(this));$el.find('[value='+value+']').attr({'selected':'selected'});return $el.html();});window.Handlebars.registerHelper('formatCurrency',function(value){return formatCurrency(value);});window.Handlebars.registerHelper('selgen',function(value,options){var ret="";if(value<0)
-value=0;var i=(value>0)?1:0;for(i;i<=value;i++){if(i==value){ret=ret+"<option selected='selected'>"+i+"</option>";}else{ret=ret+"<option>"+i+"</option>";}}
-return ret;});window.Handlebars.registerHelper('unless_zero',function(value,block){if((value!=null)&&(parseFloat(value)!=0))
-return block.fn(this);});window.Handlebars.registerHelper('setNum',function(value){return++value;});window.Handlebars.registerHelper('parseDate',function(value){var d=new Date(value);return(d.getMonth()+1)+'/'+d.getDate()+'/'+d.getFullYear();});window.Handlebars.registerHelper('if_cond',function(v1,op,v2,options){switch(op){case'==':return(v1==v2)?options.fn(this):options.inverse(this);case'===':return(v1===v2)?options.fn(this):options.inverse(this);case"!==":return(v1!==v2)?options.fn(this):options.inverse(this);case'<':return(v1<v2)?options.fn(this):options.inverse(this);case'<=':return(v1<=v2)?options.fn(this):options.inverse(this);case'>':return(v1>v2)?options.fn(this):options.inverse(this);case'>=':return(v1>=v2)?options.fn(this):options.inverse(this);case'!&&':return(!v1&&v2)?options.fn(this):options.inverse(this);case'!&&!':return(!v1&&!v2)?options.fn(this):options.inverse(this);default:return options.inverse(this);}});});
-//]]></script>
+</div>
+</aside>
+</div>
 <div style="display: none;">
 <div id="retargeter"></div>
 </div>
-<div id="login" class="modal hide fade" tabindex="-1" role="dialog" aria-hidden="true" data-backdrop="static">
-<button type="button" class="close" data-dismiss="modal" aria-hidden="true">close</button>
+<div id="login" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" data-backdrop="static">
+<div class="modal-dialog modal-lg">
 <div class="modal-content"></div>
 </div>
-<div id="how-it-works" class="modal hide fade" tabindex="-1" role="dialog" aria-hidden="true">
-<button type="button" class="close" data-dismiss="modal" aria-hidden="true">close</button>
-<div class="modal-content"><div class="modal-body"></div></div>
 </div>
-<div id="share" class="modal hide fade" tabindex="-1" role="dialog" aria-hidden="true">
-<button type="button" class="close" data-dismiss="modal" aria-hidden="true">close</button>
-<div class="modal-content"><div class="modal-body"></div></div>
+<div id="how-it-works" class="modal fade middle-1" tabindex="-1" role="dialog" aria-hidden="true" data-backdrop="static">
+<div class="modal-dialog">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+<div class="modal-content">
+</div>
+</div>
+</div>
+<div id="share" class="modal fade wide" tabindex="-1" role="dialog" aria-hidden="true" data-backdrop="static">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-body"></div>
+</div>
+</div>
 </div>
 </div>
 
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+</body></html>
