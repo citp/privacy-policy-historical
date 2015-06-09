@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letsbuildwebsites.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925072029id_/http%3A//letsbuildwebsites.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsbuildwebsites.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609052541id_/http%3A//letsbuildwebsites.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lets Build Websites
 
