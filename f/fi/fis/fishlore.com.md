@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fishlore.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024103103id_/http%3A//www.fishlore.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishlore.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610011407id_/http%3A//www.fishlore.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for FishLore.com - Tropical Fish Information
 
@@ -11,7 +11,7 @@ We understand that privacy online is important to users of our Site, especially 
 refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name and email addresses. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user)   
 or demographic information not connected to an identified individual.
 
-We use Google Analytics for visitors statistics and you may opt out here: <https://tools.google.com/dlpage/gaoptout/>
+We use Google Analytics for visitors statistics and you may opt out here: <http://tools.google.com/dlpage/gaoptout/>
 
 Google uses first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to this website.
 
@@ -68,4 +68,4 @@ Unauthorized duplication or publication of any materials from this Site is expre
 * * *
 
 © Fish Lore.com - providing tropical fish tank and aquarium information for freshwater fish and saltwater fish keepers.  
-[SiteMap](http://www.fishlore.com/FishLore_SiteMap.htm) | [Aquarium Fish SiteMap](http://www.fishlore.com/FishLore_SiteMap2.htm) | [Aquarium Fish Dictionary](http://www.fishlore.com/fishdictionary/dictionary.htm) | [Fish Blog](http://blog.fishlore.com/) | [Privacy Policy](http://www.fishlore.com/PrivacyPolicy.htm) | [Contact Us](http://www.fishlore.com/fishforum/sendmessage.php)
+[SiteMap](http://www.fishlore.com/FishLore_SiteMap.htm) | [Aquarium Fish SiteMap](http://www.fishlore.com/FishLore_SiteMap2.htm) | [Aquarium Fish Dictionary](http://www.fishlore.com/fishdictionary/dictionary.htm) | [Privacy Policy](http://www.fishlore.com/PrivacyPolicy.htm) | [Contact Us](http://www.fishlore.com/fishforum/sendmessage.php)
