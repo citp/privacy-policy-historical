@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dartscorner.co.uk privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121144457id_/http%3A//www.dartscorner.co.uk/information.php%3Finfo_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dartscorner.co.uk privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609231630id_/http%3A//www.dartscorner.co.uk/information.php%3Finfo_id%3D3) for the most accurate reproduction.*
 
 # Darts Corner - The UK Darts Superstore
 
