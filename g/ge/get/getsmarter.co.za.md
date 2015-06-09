@@ -1,52 +1,86 @@
-> *The following text is extracted and transformed from the getsmarter.co.za privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231100002id_/http%3A//www.getsmarter.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsmarter.co.za privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609232233id_/http%3A//www.getsmarter.co.za/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | GetSmarter
+# Privacy Policy | GetSmarter
 
-GetSmarter recognises the importance of protecting your ("the user") personal information. We have put together the follow policy that respects this.
+* * *
 
-#### Information collection
+THIS PRIVACY POLICY FORMS PART OF OUR WEBSITE TERMS AND CONDITIONS OF USE. IF YOU DO NOT AGREE WITH ANY TERM OF THIS PRIVACY POLICY, YOU MUST CEASE YOUR ACCESS OF THIS WEBSITE IMMEDIATELY.
 
-GetSmarter is the sole owner of the information collected on GetSmarter's marketing and learner websites (“the sites”). We will not sell, share or rent this information to others in ways different from what is disclosed in this statement. GetSmarter collects information from the user at several different points on the sites.
+#### 1\. Definitions 
 
-#### What information does GetSmarter collect on the sites?
+The following words and phrases have these meanings in this document:
 
-Firstly, we keep track of the user’s IP address. IP addresses are not linked to personally identifiable information. This information is aggregated to measure the number of visits, average time spent at the site, pages viewed and so on. GetSmarter uses this information to determine how you use the site so that we can improve its content and usability. GetSmarter assumes no obligation to protect this information, and may copy, distribute or otherwise use such information without limitation.
+1.1. “Personal Information” is as defined in POPI.
 
-Secondly, we log browser types, access times, URLs from which visitors came to the site and URLs viewed by visitors while on the site. Except as otherwise stated in this privacy policy, we do not provide this information to third parties.
+1.2. “POPI” means the Protection of Personal Information Act 4 of 2013.
 
-Thirdly, when downloading a course information pack or registering for a short course, we ask the user to provide us with personal information. This information may include, but is not limited to, the user’s name, cellphone number and email address. GetSmarter does not collect personal information about a user unless it is voluntarily provided to our company so that we can serve the user’s needs and our legitimate business purposes as stated here. For example, when the user registers for a course, we need to retain certain personal information in order to process the user’s registration form, register the user on the GetSmarter Learning website, and issue a certificate upon successful completion of the course. The information will be treated confidentially within our company, as we protect all other confidential information. The user can choose not to provide certain information, but might then not be able to take advantage of our services.
+1.3. “Process” in relation to Personal Information means to collect, organise, store, modify, retrieve, refer to, distribute, or erase, or otherwise as defined in POPI.
 
-#### With whom does GetSmarter share data?
+1.4. “Us”, “we”, or “our” means GetEducated (Pty) Ltd t/a GetSmarter, a company incorporated in terms of the company laws of the Republic of South Africa with registration number 2013/058758/07, and also includes reference to our holding company and its subsidiaries.
 
-We will not voluntarily disclose any information about individual users, except as described in this privacy policy, or to comply with applicable laws or valid legal process.
+1.5. “Site” means Internet World Wide website at URL www.getsmarter.co.za.
 
-#### Credit card transactions and security
+1.6. “You” or the “user” means any person who accesses this Site for any purpose. 
 
-Credit card transactions will be acquired for GetSmarter by Virtual Card Services (Pty) Ltd, which is the approved payment gateway in South Africa. Virtual Card Services uses SSL3 and no credit card details are stored on GetSmarter's website. Users may go to www.vcs.co.za to view Virtual Card Services’ security certificate and security policy. All encryption complies with international standards. Encryption is used to protect the transmission of personal information when completing online transactions. Virtual Card Services’ internet servers are protected by firewalls and intrusion detection systems.
+#### 2\. Status and Amendments
 
-#### Customer details separate from card details
+2.1. We respect and recognise the importance of protecting your privacy. This privacy policy statement sets out our information gathering and dissemination practices in respect of the Site.
 
-Customer details will be stored by GetSmarter separately from card details, which are entered by the client on Virtual Card Services’ secure site.
+2.2. This Privacy Policy forms part of the Terms and Conditions of Use of this Site. If you do not agree with this Policy then you may not use this Site and are required to cease doing so immediately.
 
-What choices are available regarding collection, use and distribution of the information (opt-out policy)?  
-In our marketing email communications, we will have instructions on how to unsubscribe so that you will not receive any future emails from us if you so choose.
+2.3. We reserve the right to amend the terms and conditions of this Privacy Policy at any time without notice. It is your duty to be aware of the current version of this Privacy Policy. Please refer to the last revision number and date at the top of this document. Continued use of the Site subsequent to any amendments having been effected constitutes your acceptance of the Privacy Policy as amended.
 
-#### What procedures have been designed to protect the loss, misuse or alteration of information under GetSmarter's control?
+#### 3\. Collection and Processing of Personal Information
 
-GetSmarter takes every precaution to protect the user’s information. We also do everything in our power to protect user information offline. Access to all of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. Finally, the servers that we store personally identifiable information on are kept in a secure environment.
+3.1. Where you submit Personal Information via the Site the following principles are observed in the handling of that information:
 
-If you have more questions about security issues, you are welcome to complete our “contact us” form with your queries.
+3.1.1. We will only collect Personal Information for a purpose consistent with the purpose for which it is required. The specific purpose for which information is collected will be apparent from the context in which it is requested.
 
-#### Registered learner communications and copyright
+3.1.2. We will only Process Personal Information in a manner that is adequate, relevant and not excessive in the context of the purpose for which it is Processed.
 
-If a user registers for a short course and the short course has begun, we will send the user regular email and SMS updates to encourage the learning process. Registered learners are not able to unsubscribe from these updates, which contain important information about the short course.
+3.1.3. Personal Information will only be Processed for a purpose compatible with that for which it was collected, unless you have consented to an alternative purpose in writing or we are permitted by POPI or in terms of national legislation of general application.
 
-Throughout the short course, the registered learner retains full copyright over all written pieces submitted and GetSmarter does not make any claim to these rights.
+3.1.4. We will not disclose any Personal Information relating to you to any third party unless your prior written agreement is obtained or we are required to do so by law. In this regard your attention is drawn to the Terms and Conditions for Learners.
 
-#### Contact information
+3.1.5. We will destroy or delete any Personal Information that is no longer needed by us for the purpose it was initially collected, or subsequently Processed.
 
-If the user has any questions about this privacy policy or about GetSmarter's information collection practices, please contact us at on the telephone number listed on www.getsmarter.co.za.
+3.2. Note that, as permitted by POPI, we may use Personal Information collected to compile profiles for statistical purposes. No information contained in the profiles or statistics will be able to be linked to any specific user.
 
-#### The terms "the user" and "user"
+#### 4\. Collection of anonymous data
 
-The terms "the user" and "user" are used interchangeable and refer to all individuals and entities accessing this website for any reason.
+4.1. We may use standard technology to collect information about the use of this Site. This technology is not able to identify individual users but simply allows us to collect statistics.
+
+4.2. We may utilise temporary or session cookies (a cookie is a small file that is placed on your hard drive) to keep track of users' browsing habits. This allows us to track your use of this Site as well as your visits to other websites. Other websites may also use these cookies to track your browsing habits.
+
+4.3. Cookies by themselves will not be used to personally identify users but we may use them to compile de-identified statistics relating to use of services offered or to provide us with feedback on the performance of this Site.
+
+4.4. The following classes of information may be collected in respect of users who have enabled cookies:
+
+4.4.1. The browser software used;
+
+4.4.2. IP address;
+
+4.4.3. Date and time of activities while visiting the Site;
+
+4.4.4. URLs of internal pages visited; and
+
+4.4.5. referring websites, search engines and the like.
+
+4.5. If you do not wish cookies to be employed to customise your interaction with this Site it is possible to alter the manner in which your browser handles cookies. Please note that, if this is done, certain services on this Site may not be available.
+
+4.6. You can opt out of a third party website’s use of cookies by visiting the Network Advertising Initiative opt-out page at http://www.networkadvertising.org/managing/opt_out.asp.
+
+#### 5\. Security
+
+5.1. We will take appropriate, reasonable technical and organisational measures as required by applicable law to protect the information submitted to or collected by this Site from loss, misuse, unauthorised disclosure, alteration or destruction.
+
+#### 6\. Links to other Websites
+
+6.1. We have no control over and accept no responsibility for the privacy practices of any third party websites to which hyperlinks may have been provided and we strongly recommend that you review the privacy policy of any website you visit before using it further.
+
+#### 7\. Queries
+
+7.1. If you have any queries about this Privacy Policy please contact us by emailing info@getsmarter.co.za.
+
+  
+
