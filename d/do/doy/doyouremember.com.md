@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the doyouremember.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015185546id_/http%3A//doyouremember.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doyouremember.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609214703id_/http%3A//doyouremember.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Do You Remember
+# Privacy Policy - DoYouRemember?DoYouRemember?
 
-_Dated: May 1, 2013_
+_Jan 30, 2015_
 
 Do You Remember?, Inc. (“DYR”, “we”, or “us”) know that our users (“you,” “your,” or “yourself”) care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting or using the www.DoYouRemember.com website and domain name, any other linked pages, features, content, mobile applications, and any other services we offer from time to time in connection with any of the foregoing (collectively, the “Website”), you agree to the practices and policies set forth in this Privacy Policy, and you hereby acknowledge and consent to our collection, use, and sharing of your information as described in this Privacy Policy. Capitalized terms not defined in this Privacy Policy have the meaning given to them in our Terms of Use.
 
@@ -95,7 +95,7 @@ Through your account settings on our mobile phone application and/or website, yo
 
 
 
-The information you can view and update may change as the Website changes. If you have any questions about viewing or updating information we have on file about you, please contact us at [support@DoYouRemember.com](mailto:support@DoYouRemember.com) .
+The information you can view and update may change as the Website changes. If you have any questions about viewing or updating information we have on file about you, please contact us at [info@DoYouRemember.com](mailto:support@DoYouRemember.com) .
 
 ### VI. WHAT CHOICES DO I HAVE?
 
@@ -111,4 +111,4 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 
 ### VIII. QUESTIONS OR CONCERNS
 
-If you have any questions or concerns regarding our privacy policies, please send us a detailed message to [support@DoYouRemember.com](mailto:support@DoYouRemember.com) . We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding our privacy policies, please send us a detailed message to [info@DoYouRemember.com](mailto:support@DoYouRemember.com) . We will make every effort to resolve your concerns
