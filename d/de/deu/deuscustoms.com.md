@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the deuscustoms.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121144334id_/http%3A//deuscustoms.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deuscustoms.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609231423id_/http%3A//deuscustoms.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy | Deus Ex Machina | Custom Motorcycles, Surfboards, Clothing and Accessories
+# Privacy | Deus Ex Machina | Custom Motorcycles, Surfboards, Clothing and AccessoriesDeus Ex Machina | Custom Motorcycles, Surfboards, Clothing and Accessories
 
 Deus Ex Machina Motorcycles PTY LTD (Deus Ex Machina Motorcycles) is committed to protecting the privacy of your personal information. This privacy policy explains how Deus Ex Machina Motorcycles manages the personal information that we collect, use and disclose, and how to contact us if you have any further queries about our management of, or would like to request access to, your personal information.
 
 Personal information is information or an opinion, in any form and whether true or not, about an individual whose identity is apparent or can reasonably be ascertained from the information or opinion.
 
-**COLLECTION OF PERSONAL INFORMATION BY Deus Ex Machina Motorcycles**
+ **COLLECTION OF PERSONAL INFORMATION BY Deus Ex Machina Motorcycles**
 
 Deus Ex Machina Motorcycles will only collect personal information about you by lawful and fair means and not in an unreasonably intrusive manner. The types of information we may collect include:
 
@@ -24,7 +24,7 @@ Where possible, we will collect personal information directly from you or a pers
 
 If you do not provide personal information requested of you to Deus Ex Machina Motorcycles, we may be unable to provide you the products or services you have requested or contact you in the future.
 
-**USE AND DISCLOSURE OF PERSONAL INFORMATION BY Deus Ex Machina Motorcycles**
+ **USE AND DISCLOSURE OF PERSONAL INFORMATION BY Deus Ex Machina Motorcycles**
 
 Deus Ex Machina Motorcycles will only use or disclose your personal information as per
 
@@ -52,7 +52,7 @@ a. Our service providers (such as IT service providers and mail houses); and
 
 b. Other parties to whom we are authorised or required by law to disclose information.
 
-**DATA QUALITY AND SECURITY**
+ **DATA QUALITY AND SECURITY**
 
 To the extent required by the Privacy Act, Deus Ex Machina Motorcycles will take reasonable steps to:
 
@@ -64,19 +64,19 @@ c. Where permitted by law, destroy and permanently de-identify personal informat
 
 Deus Ex Machina Motorcycles’s credit card transactions are fulfilled by an authorised banking institution. When collecting credit card information for online purchases, Deus Ex Machina Motorcycles offers secured server transactions that encrypt your information in transit to prevent others from accessing it. All information is stored on a secure server. Your credit card details are encrypted and then removed from our system once your order has been dispatched.
 
-**USE OF COMMONWEALTH GOVERNMENT IDENTIFIERS**
+ **USE OF COMMONWEALTH GOVERNMENT IDENTIFIERS**
 
 Deus Ex Machina Motorcycles will not use Commonwealth government identifiers as its own identifier of individuals. We will only use and disclose such identifiers in the circumstances permitted by the Privacy Act.
 
-**ANONYMITY**
+ **ANONYMITY**
 
 Deus Ex Machina Motorcycles will generally provide individuals with the option of not identifying themselves when entering into transactions when it is lawful and practicable to do so. However, on many occasions, we will not be able to do this. For example, we will need your address in order to deliver any products purchased through our website.
 
-**TRANSFER OF PERSONAL INFORMATION OVERSEAS**
+ **TRANSFER OF PERSONAL INFORMATION OVERSEAS**
 
 If Deus Ex Machina Motorcycles transfers your personal information outside Australia, we will comply with the requirements of the Privacy Act that relate to transborder data flows.
 
-**ACCESS TO AND CORRECTION OF YOUR PERSONAL INFORMATION**
+ **ACCESS TO AND CORRECTION OF YOUR PERSONAL INFORMATION**
 
 Please contact Deus Ex Machina Motorcycles if you would like to seek access to or correct the personal information we hold about you. Deus Ex Machina Motorcycles will generally provide you with access to your personal information if practicable and will take reasonable steps to amend any personal information about you which is inaccurate or out of date.
 
