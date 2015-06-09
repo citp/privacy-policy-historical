@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the photobox.co.uk privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110153642id_/http%3A//www.photobox.co.uk/content/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photobox.co.uk privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609020618id_/http%3A//www.photobox.co.uk/content/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | PhotoBox - PhotoBox
+# Privacy Policy | Online Photo Printing | PhotoBox - PhotoBox
 
 **Introduction**
 
@@ -77,11 +77,11 @@ The emails and mobile communication (such as text (SMS) and “push” notificat
     * Surveys to capture your feedback on contact with our customer service team
     * To inform you of last Product order dates for seasonal events such as Christmas, Valentine’s day, Mother’s Day and Father’s day
     * To remind you that you have an Account
-  * Should you wish to, you can opt out of receiving the above Service Messages here: <http://photobox-en.custhelp.com/app/ask>.
+  * Should you wish to, you can opt out of receiving the above Service Messages here: <https://photobox-en.custhelp.com/app/ask>.
 
 
 
-Should you wish to, you can opt out of receiving our service emails here: <http://photobox-en.custhelp.com/app/ask>.
+Should you wish to, you can opt out of receiving our service emails here: <https://photobox-en.custhelp.com/app/ask>.
 
 While we do our best to act on your preferences as soon as we reasonably can, please be aware that it may take up to 14 days for changes to your preferences concerning Service Messages to take effect.
 
