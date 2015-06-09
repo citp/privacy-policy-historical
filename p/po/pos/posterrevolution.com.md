@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the posterrevolution.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121003141id_/http%3A//www.posterrevolution.com/content/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the posterrevolution.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609091753id_/http%3A//www.posterrevolution.com/content/privacy.cfm) for the most accurate reproduction.*
 
 # Poster Revolution Privacy Policy
 
-[show old policy](https://web.archive.org/web/20141121003141id_/http%3A//www.posterrevolution.com/content/privacy.cfm?showold)  
+[show old policy](https://web.archive.org/web/20150609091753id_/http%3A//www.posterrevolution.com/content/privacy.cfm?showold)  
 
 
 ### Privacy Policy
 
-We value your business and we know your privacy is important to you. Accordingly, we have implemented this Privacy Policy to inform you of the information that we collect from you, how we collect it, and what we do with it. By using this website you are accepting the practices described in this Privacy Policy. 
+We value your business and we know your privacy is important to you. Accordingly, we have implemented this Privacy Policy to inform you of the information that we collect from you, how we collect it, and what we do with it. By using this website you are accepting the practices described in this Privacy Policy.. 
 
 #### How and when we collect information
 
@@ -15,7 +15,7 @@ We collect "personal" information from you when you provide it to us. For exampl
 
 #### What we do with your information
 
-We are committed to protecting your privacy. Under no circumstances do we rent, trade or share your e-mail address with any other company for their marketing purposes without your consent. We use your personal information for internal purposes such as processing and keeping you informed of your order. You may, from time to time, receive information from us about new features, new services and special offers we think you'll find valuable. If you take advantage of special offers made by our marketing partners, we may, with your consent, transfer your personal information to them. We may share your mailing address with select third parties. 
+We are committed to protecting your privacy. Under no circumstances do we rent, trade or share your e-mail address with any other company for their marketing purposes without your consent. We use your personal information for internal purposes such as processing and keeping you informed of your order. To improve our ability to serve you relevant ads across the Internet for products that will be more interesting to you, we may provide your personal information to our advertising agents that use your information solely for our advertising purposes. You may, from time to time, receive information from us about new features, new services and special offers we think you'll find valuable. If you take advantage of special offers made by our marketing partners, we may, with your consent, transfer your personal information to them. We may share your mailing address with select third parties. 
 
 The personal information that you give us when you place an order is used to process and fulfill your order. We also use your personal information for our own internal purposes, such as providing customer support or providing, maintaining, evaluating and improving our products and services. 
 
@@ -67,4 +67,4 @@ If we change our Privacy Policy, we will post a new version on our Website, whic
 
 If you ever have any questions regarding our privacy policy please contact us at sales@posterrevolution.com. 
 
-Updated: June 12, 2013 
+Updated: Jan 08, 2015 
