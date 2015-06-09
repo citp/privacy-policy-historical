@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bgs.ac.uk privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123165435id_/http%3A//www.bgs.ac.uk/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bgs.ac.uk privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235609id_/https%3A//www.bgs.ac.uk/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Help | British Geological Survey (BGS)
 
