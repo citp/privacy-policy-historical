@@ -1,16 +1,42 @@
-> *The following text is extracted and transformed from the gosh.org privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122131558id_/http%3A//www.gosh.org/gen/hidden/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosh.org privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609044845id_/http%3A//www.gosh.org/hidden-footer-redirect-and-error-pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy | Great Ormond Street Hospital Children's Charity
 
 Great Ormond Street Hospital Children’s Charity is committed to protecting your privacy. This policy explains how we will handle the personal information you provide to us and what we learn about you from your visit to our web site.
 
 By using this site, you are agreeing to the terms of this Privacy Policy.  If you do not agree to our Privacy Policy then please do not use this site.
 
-  * Data Protection Act  
-  
+  * Data Protection Act   
 
 
-  *   *   *   *   *   *   *   *   *   * Privacy queries
+  * What personal information do we collect?   
+
+
+  * Why do we collect personal information?   
+
+
+  * How do we use your information?   
+
+
+  * How we use 'cookies' and 'spotlight tags'   
+
+
+  * The accuracy of your information   
+
+
+  * Users 16 years and under   
+
+
+  * Other websites   
+
+
+  * Changes to the policy   
+
+
+  * Access rights   
+
+
+  * Privacy queries
 
 
 
@@ -57,7 +83,7 @@ Back to top
 
 ##  How we use 'cookies' and 'spotlight tags'
 
-Great Ormond Street Hospital Children’s Charity uses “cookies” and “spotlight tags” to help track the success of our online advertising and monitor the usage of our website. We use Google Analytics for our web analytics and work with DoubleClick to monitor our online advertising results. A cookie is a small text file we pass to your computer’s hard disk through your web browser so the website remembers who you are when you return. To find out more about cookies and how you can disable them please visit www.allaboutcookies.org. Spotlight tags use a combination of transparent gif (image) files and cookies. These gif files are provided to us by our ad partner, DoubleClick. For more information about DoubleClick please visit [www.doubleclick.net](http://www.doubleclick.net/ "www.doubleclick.net")
+Great Ormond Street Hospital Children’s Charity uses “cookies” and “spotlight tags” to help track the success of our online advertising and monitor the usage of our website. We use Google Analytics for our web analytics and work with DoubleClick to monitor our online advertising results. A cookie is a small text file we pass to your computer’s hard disk through your web browser so the website remembers who you are when you return. To find out more about cookies and how you can disable them please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). Spotlight tags use a combination of transparent gif (image) files and cookies. These gif files are provided to us by our ad partner, DoubleClick. For more information about DoubleClick please visit [www.doubleclick.net](http://www.doubleclick.net/ "www.doubleclick.net")
 
 With both cookies and spotlight tags, the information we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address.
 
