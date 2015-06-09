@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the acidplanet.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129031037id_/http%3A//www.sonycreativesoftware.com/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acidplanet.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609105034id_/http%3A//www.sonycreativesoftware.com/corporate/privacy.asp) for the most accurate reproduction.*
 
 # Sony Creative Software - Corporate - Privacy Policy
 
 Privacy Policy
 
-Last Update: July 2010
+Last Update: February 2015
 
 At Sony, we believe you have a right to know what type of information we may collect when you interact with us and our practices with respect to that information. The guidelines contained herein apply only to information collected by or for Sony Creative Software Inc. ("SCS"). This includes, among other things, websites operated by or for SCS ("Sites"). Websites which are linked to/from these Sites (including websites of other Sony affiliated companies, e.g., Sony Electronics Inc., Sony Music Entertainment, Sony Pictures Entertainment, Sony Computer Entertainment America) and via banner ads may have different policies; therefore, please review the privacy policy notices on those websites for details.
 
@@ -13,7 +13,7 @@ While SCS does not generally require that you provide us with personally identif
   
 
 
-## Notice to California Residents . Your California Privacy Rights:
+## Notice to California Residents. Your California Privacy Rights:
 
 California resident, you have the right to receive: a) information identifying any third party company(ies) to whom SCS may have disclosed, within the previous calendar year, personal information pertaining to you and your family for that company's direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information, please [send us a message](http://www.sonycreativesoftware.com/privacyinfo).
 
@@ -57,6 +57,13 @@ We collect and maintain Personal Information and/or other information about visi
   
 
 
+ **"Do Not Track" Signals.** Note that your browser settings may allow you to automatically transmit a "Do Not Track" signal to websites and online services you visit. There is no consensus among industry participants as to what "Do Not Track" means in this context. Like many websites and online services, SCS currently does not alter its practices when it receives a "Do Not Track" signal from a visitor's browser. To find out more about "Do Not Track," you may wish to visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).
+
+In addition, note that third parties may collect personal information about your online activities over time and across different websites when you visit our websites or other online websites and services.
+
+  
+
+
 ## Use and Disclosure of Anonymous Information
 
 Anonymous information about you, such as your hobbies, interests, purchases, music and viewing preferences, downloads, burns, transfers, page visits and other information related to your user activity may be collected, and in some cases aggregated, by SCS and/or third parties whose applications you may access through your devices. This data can then be used to, among other things, tailor promotions, advertising, and communications that may be relevant to you. Such anonymous information may also be shared with advertisers, business partners, sponsors, licensors, content rights holders and other third parties, for example, to inform them about demographics or content preferences of visitors to our Sites and users of our products, or to ensure proper royalty reporting.
@@ -66,7 +73,14 @@ Anonymous information about you, such as your hobbies, interests, purchases, mus
 
 ## Security
 
-SCS takes reasonable commercial precautions in maintaining the security of your Personal Information and in preventing unauthorized access to it through the use of appropriate technology and internal procedures. However, SCS cannot and does not guarantee that unauthorized access will never occur or that any communications means will be uninterrupted, error free or not intercepted by others improperly and without authorization.
+SCS seeks to maintain reasonable commercial precautions designed to help protect the security of your Personal Information and in preventing unauthorized access, misuse, loss or accidental disclosure of it through the use of appropriate technology and internal procedures. However, SCS cannot and does not guarantee the security of your Personal Information or that any communications means will be uninterrupted, error free or not intercepted by others improperly and without authorization.
+
+  
+
+
+## Retention
+
+SCS may retain information about you as long as it is necessary for us to fulfill the purposes outlined in this Privacy Policy. In addition, we may retain your information for an additional period as is permitted or required by law in order to, among other things, comply with our legal obligations, resolve disputes, and enforce agreements. Where and when required by law, we shall delete your information. However, even if we delete your information from active databases, the information may remain on backup or storage media.
 
   
 
@@ -126,7 +140,9 @@ By providing any Personal Information to SCS, you will be deemed to have consent
 
 ## Your Communications:
 
-We may, but we do not have an obligation to, monitor your communications, such as messages, to, from, within or directly related to our services and Sites to ensure that our policies regarding use and our terms and conditions are being complied with and not being violated (e.g., no obscenity, defamation or abusive language, no content that may infringe rights), and we have the right to block, remove and/or report any such communications and activities as appropriate. We may keep records of users' messages and, among other things, the email addresses involved.
+Unless otherwise required by law, we are no responsible for monitoring or recording any activity on our Sites, including communications, but we reserve the right to do so.
+
+To help protect you and others, we may monitor the use of the Sites, and we use the Personal Information and other information we collect in order to: ensure that our policies regarding use and our terms and conditions are being complied with and not being violated (e.g., no obscenity, defamation or abusive language, no content that may infringe rights); identify fraudulent activities and transactions; prevent abuse of and investigate any potential threats or misuse of our Sites; and otherwise protect the rights and property of SCS, its partners and customers. Monitoring may result in the collection, recording, and analysis of online activity or communication through our Sites. We have the right to block, remove and/or report any such communications and activities as appropriate. We may analyze and keep records of users' messages and, among other things, the email addresses involved. If you do not consent to these conditions, you must discontinue your use of our Sites.
 
   
 
@@ -140,7 +156,7 @@ From time to time we may offer links to other websites from our Sites. Other web
 
 ## Policy Governs Use: Changes to Privacy Policy
 
-The terms of this Privacy Policy will govern the use of any information collected while it is in place. SCS reserves the right to change this Privacy Policy at any time, so please re-visit this page often. In case of any material change, we will change the "Last Update Date" in this Privacy Policy and/or post a notice on the Sites. Changes to this Privacy Policy are effective as of the stated "Last Update Date" and your continued use of the sites on or after the "Last Update Date" will constitute acceptance of, and agreement to be bound by, those changes.
+The terms of this Privacy Policy will govern the use of any information collected while it is in place. SCS reserves the right to change this Privacy Policy at any time, so please re-visit this page often. In case of any material change, we will change the "Last Update Date" in this Privacy Policy and/or post a notice on the Sites. Changes to this Privacy Policy are effective as of the stated "Last Update Date" and your continued use of the Sites on or after the "Last Update Date" will constitute acceptance of, and agreement to be bound by, those changes.
 
   
 
