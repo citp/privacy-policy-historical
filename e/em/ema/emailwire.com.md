@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emailwire.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120175015id_/http%3A//www.emailwire.com/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailwire.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610010759id_/http%3A//www.emailwire.com/privacy_statement.php) for the most accurate reproduction.*
 
 # Emailwire.com Privacy Statemen
 
