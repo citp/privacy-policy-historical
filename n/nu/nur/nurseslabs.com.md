@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nurseslabs.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217225515id_/http%3A//nurseslabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nurseslabs.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610011515id_/http%3A//nurseslabs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Nurseslabs
 
-This Privacy Policy governs the manner in which Nurseslabs collects, uses, maintains and discloses information collected from users (each, a “User”) of the <htt://nurseslabs.com> website (“Site”). This privacy policy applies to the Site and all products and services offered by Nurseslabs. 
+This Privacy Policy governs the manner in which Nurseslabs collects, uses, maintains and discloses information collected from users (each, a “User”) of the <htt://nurseslabs.com> website (“Site”). This privacy policy applies to the Site and all products and services offered by Nurseslabs.
 
 **Personal identification information**
 
@@ -62,5 +62,3 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [Nurseslabs Contact Page](http://nurseslabs.com/contact-us/)
 
 This document was last updated on September 30, 2012
-
-Sep 30, 2012
