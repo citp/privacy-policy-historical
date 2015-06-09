@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpyak.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230184409id_/http%3A//wpyak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpyak.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609104611id_/http%3A//wpyak.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,4 +64,4 @@ Links:
 
 http://wpyak.com contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
 
-**If you see some errors like ''File Not Found'' you can message us, we will send you that file**
+[sc:afterpost]
