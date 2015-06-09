@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jntufastupdates.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230165306id_/http%3A//jntufastupdates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jntufastupdates.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610001339id_/http%3A//www.jntufastupdates.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & Policy - JNTU FAST UPDATES
+# Jntu fast updates - Privacy & Policy
 
 **Privacy Policy for www.jntukfastupdates.com**  
 
