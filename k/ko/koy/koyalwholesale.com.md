@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koyalwholesale.com privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716092557id_/http%3A//www.koyalwholesale.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koyalwholesale.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610011514id_/http%3A//www.koyalwholesale.com/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy : Wholesale Wedding Supplies, Discount Wedding Favors, Party Favors, and Bulk Event Supplies
 
@@ -88,4 +88,4 @@ Please remember to include your postal address, e-mail address and phone number 
 
 If we change or update this Privacy Policy, we will post the changes and updates on the Site so that you are always aware of what information we collect and how we use it.
 
-Koyal Wholesale is committed to quality customer service and we are constantly reviewing your feedback to improve our services.  Please tell us what you think by emailing us or calling us at 714.459.6066 (Monday-Friday PST) during regular business hours. 
+Koyal Wholesale is committed to quality customer service and we are constantly reviewing your feedback to improve our services.  Please tell us what you think by emailing us or calling us at 714.459.0600 (Monday-Friday PST) during regular business hours. 
