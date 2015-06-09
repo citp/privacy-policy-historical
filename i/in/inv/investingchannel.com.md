@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investingchannel.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120163910id_/http%3A//investingchannel.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investingchannel.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235642id_/http%3A//investingchannel.com/policy) for the most accurate reproduction.*
 
 # InvestingChannel.com Marketplace
 
@@ -94,8 +94,8 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 InvestingChannel, Inc.
 
-151 W. 25th St, 4th Floor
+70 W. 36th St, Suite 12B
 
-New York, NY, 10001
+New York, NY, 10018
 
 You may also contact us by e-mail at [info@investingchannel.com](mailto:info@investingchannel.com)
