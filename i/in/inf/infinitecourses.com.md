@@ -1,13 +1,9 @@
-> *The following text is extracted and transformed from the infinitecourses.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626034318id_/http%3A//www.infinitecourses.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infinitecourses.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609225632id_/http%3A//www.infinitecourses.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Infinite courses: Privacy Policy-Study in India, Higher Education in India
 
-|  |    |  |  [ ](http://www.infinitecourses.com/) |  |   
----|---|---  
-  
-[ ](http://www.velsuniv.ac.in/?utm_source=InfiniteCourses&utm_medium=banner&utm_campaign=web/)
-
-|     
+|   
+---  
 |  |    |  [Colleges](http://www.infinitecourses.com/Top-Colleges-In-India.aspx) |  [Institutes](http://www.infinitecourses.com/Institutes-Colleges-in-India.aspx) |  [Courses](http://www.infinitecourses.com/Diploma-Degree-PG-Courses-in-India.aspx) |  [Careers](http://www.infinitecourses.com/Career-options-in-India.aspx) |  [Distance Learning](http://www.infinitecourses.com/Distance-learning-education-in-India.aspx) |  [Universities](http://www.infinitecourses.com/Universities-in-India.aspx) |  [Schools](http://www.infinitecourses.com/Schools-in-India.aspx) |  [Exams](http://www.infinitecourses.com/Entrance-exams-in-india.aspx) |  [Coaching](http://www.infinitecourses.com/coaching-institutes-in-india.aspx) |  [ Study Abroad](http://www.infinitecourses.com/StudyAbroad.aspx) |  [Jobs](http://www.infinitecourses.com/Jobs-in-India.aspx) |  [Forums](http://forums.infinitecourses.com/) |     
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---  
 |    |   
@@ -40,33 +36,10 @@ E.g. Mumbai, Delhi, Bangalore, Pune, USA, UK, etc.
  The terms of this privacy policy are subject to change from time to time without any prior notice. 
 
 |   
----  
-Post Your Reviews / Comments / Queries   
-  
-|  Name  |  :  |   
----|---|---  
-Email  |  :  |  |  |  Mobile :  |   
----|---|---  
-(Your Email and Mobile will not be shared with anyone. It is just for replying to your comments / queries / questions. Your Queries will be answered by the College or Institute or our expert counselors)  
-Verification Code  |  :  | 
-
-Can't see? Refresh!  
-  
-Enter the Above Code  |  :  |   
-|   
-Please Post your Reviews / Comments / Questions  |  :  |  |   
----  
-  
-(Max 600 Characters allowed)  
-  
-|   
-  
   |    |    
 
 
-| 
-
-Which Sports you like the most? 
+##  Which Sports you like the most? 
 
 Cricket  
 
@@ -80,12 +53,23 @@ Table Tennis
 Golf  
 
 
-Counter Strike  
+Counter Strike 
+
+
+**Next Vote:** **Next Vote :** Vote for Your Prime Minister 
+
+Connect and win. Your College and University photos and videos can win you exciting prizes. 
+
+Upload photos and videos of your college or university and win exiciting prizes.
+
+|  Please Enter your Name / Email Address to Continue..  
   
 ---  
+**Name** | :  |  |   
+**Email** | :  |  |   
+   
+Continue   
   
-**Next Vote :** Vote for Your Prime Minister   
-  
-  
+×  
   
  
