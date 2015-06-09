@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the computernetworkingnotes.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121034455id_/http%3A//computernetworkingnotes.com/computer-networking-notes/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computernetworkingnotes.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609201040id_/http%3A//www.computernetworkingnotes.com/computer-networking-notes/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-##  [ Privacy Policy](https://web.archive.org/computer-networking-notes/privacy-policy.html)
 
 We are committed to fair information practices and we respect the privacy and security of our users. Our goal is to provide you with a personalized Internet experience that delivers the information, resources, and services that are most relevant and helpful to you. In order to achieve this goal, we sometimes collect information during your visits to understand what differentiates you from each of our millions of other users, and we may also ask you for personal information that enables us to give you access to some parts of our web site. We will not disclose your information to any person outside our organisation except as described in this Privacy Policy.
 
@@ -12,45 +10,45 @@ To demonstrate our commitment to your privacy, we have prepared this statement d
 
 We collect following information
 
-**Personal identification information**
+ **Personal identification information**
 
 We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
 **Non-personal identification information**
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information. 
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-**Web server logs**. When you visit our Web sites, we may track information to administer the site and analyze its usage. Examples of information we may track include your internet protocol address, what kind of browser or computer you use, the number of links you click within the site, the state or country from which you accessed the site, the date and time of your visit, the name of your internet services provider, the last page you viewed before visiting our site, and the pages you viewed on the site. 
+**Web server logs**. When you visit our Web sites, we may track information to administer the site and analyze its usage. Examples of information we may track include your internet protocol address, what kind of browser or computer you use, the number of links you click within the site, the state or country from which you accessed the site, the date and time of your visit, the name of your internet services provider, the last page you viewed before visiting our site, and the pages you viewed on the site.
 
 ### How we use collected information
 
 ComputerNetworkingNotes.com may collect and use Users personal information for the following purposes:  
 
 
-  * _\- To personalize user experience_  
+  *  _\- To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
+  *  _\- To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  * _\- To process payments_  
+  *  _\- To process payments_  
 We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  * _\- To send periodic emails_  
+  *  _\- To send periodic emails_  
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.
 
 
 
-**How we protect your information**
+ **How we protect your information**
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-**Sharing your personal information**
+ **Sharing your personal information**
 
 We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-We will share your personal data as required by law or by the order of any competent court or (semi-)governmental authority or in matters of public safety or policy. Under strict conditions of confidentiality we may share your personal data with agents and contractors who use it on our behalf or in connection with their relationship with us. We will also share your personal data as may be needed in connection with the enforcement of agreements. 
+We will share your personal data as required by law or by the order of any competent court or (semi-)governmental authority or in matters of public safety or policy. Under strict conditions of confidentiality we may share your personal data with agents and contractors who use it on our behalf or in connection with their relationship with us. We will also share your personal data as may be needed in connection with the enforcement of agreements.
 
 ### Web browser cookies & beacons
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. 
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
 ### Third party websites
 
@@ -58,20 +56,20 @@ Users may find advertising or other content on our Site that link to the sites a
 
 ### Advertising
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers. 
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-**Google Adsense**
+ **Google Adsense**
 
 Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
-### Changes to this privacy policy 
+### Changes to this privacy policy
 
-ComputerNetworkingNotes.com has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
+ComputerNetworkingNotes.com has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 ### Your acceptance of these terms
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-### Contacting us 
+### Contacting us
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us . To contact us use our contact forum.
