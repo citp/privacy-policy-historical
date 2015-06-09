@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the groove3.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120230621id_/http%3A//www.groove3.com/str/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groove3.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609101439id_/http%3A//www.groove3.com/str/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
-# Privacy statement
+# Groove3.com - Tutorial Videos for Producers, Engineers and Musicians
 
 ##  About Us
 
@@ -10,12 +10,12 @@ We invite you to contact us if you have questions about this policy. You may con
     
     
     Groove 3 Inc.
-    PO Box 951
-    Mauriceville, TX  77626
+    4412 Spicewood Springs, #104
+    Austin, TX  78759
     USA
     
 
-You may contact us by e-mail at [info@groove3.com](mailto:info@groove3.com). You may call us at 800-460-7509. 
+You may contact us by e-mail at [support@groove3.com](mailto:support@groove3.com). You may call us at 800-460-7509. 
 
 **Basic Elements**
 
