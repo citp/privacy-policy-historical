@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clicktripz.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121044648id_/http%3A//www.clicktripz.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicktripz.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609092334id_/http%3A//www.clicktripz.com/privacy_policy.php) for the most accurate reproduction.*
 
 # ClickTripz - Travel Affiliate Program
 
