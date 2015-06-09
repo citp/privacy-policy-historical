@@ -1,214 +1,419 @@
-> *The following text is extracted and transformed from the patriots.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226062604id_/http%3A//www.patriots.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patriots.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609024809id_/http%3A//www.patriots.com/footer/privacy-policy) for the most accurate reproduction.*
 
-# Official Website of the New England Patriots | Privacy Policy
+# Privacy Policy | New England Patriots
 
-##### Copyright Notice
+## New England Patriots Website Privacy Policy
 
-[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.patriots.com/seal_m "Validate TRUSTe privacy certification")This website is the only official website of the New England Patriots and is ©Copyright New England Patriots (the "Club"). Commercial reproduction, distribution or transmission of any part or parts of this website or any information contained therein by any means whatsoever without the prior written permission of the Club is not permitted.
+_Last modified: 4/6/2015_
 
-Gillette Stadium and Gillette Stadium design are trademarks and service marks of The Gillette Company.
+  * Introduction 
+  * Children Under the Age of 13 
+  * Information We Collect About You and How We Collect It 
+    * Information You Provide to Us. 
+    * Information We Collect through Automatic Data Collection Technologies 
+    * Information Collected by Google Analytics. 
+  * Third-party Use of Cookies and Other Tracking Technologies. 
+  * How We Use Your Information 
+    * Disclosure of Your Information 
+    * Choices about How We Use and Disclose Your Information 
+  * Accessing and Correcting Your Information 
+  * Your California Privacy Rights 
+  * Data Security 
+  * Changes to Our Privacy Policy 
+  * Contact Information 
 
-##### New England Patriots Website Privacy Policy
 
-This privacy policy is applicable to the Website[s] accessible at www.patriots.com (collectively the "Site"), which is operated by New England Patriots LP, (the "PROVIDER", "we", "our", or "us"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
-When this privacy policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as your full name, street address or email address. When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy.
+* * *
 
-Please read the information below to learn more about our data collection policies and practices.
+  * Safe Harbor Privacy Statement 
+    * Definitions 
+    * Notice 
+    * Choice 
+    * Onward Transfer of Personal Data 
+    * Security 
+    * Data Integrity 
+    * Access and Correction 
+    * Enforcement 
+    * Dispute Resolution 
+  * TRUSTe Privacy Program 
+  * Alternative Introduction 
 
-  1. [Types Of Information That May Be Collected ](https://web.archive.org/iw-cc/command/iw.livesite.edit_dcr#types)
-  2. [How Information May Be Collected ](https://web.archive.org/iw-cc/command/iw.livesite.edit_dcr#howcollected)
-  3. [How We Use The Information Collected](https://web.archive.org/iw-cc/command/iw.livesite.edit_dcr#howused)
-  4. [With Whom The Information May Be Shared](https://web.archive.org/iw-cc/command/iw.livesite.edit_dcr#sharedinfo)
-  5. [Chat Rooms, Forums, And Message Boards](https://web.archive.org/iw-cc/command/iw.livesite.edit_dcr#chat)
-  6. [Links To Other Websites ](https://web.archive.org/iw-cc/command/iw.livesite.edit_dcr#links)
-  7. [Security ](https://web.archive.org/iw-cc/command/iw.livesite.edit_dcr#security)
-  8. [A Special Note For Parents Concerning Privacy ](https://web.archive.org/iw-cc/command/iw.livesite.edit_dcr#parents)
-  9. [Your Acceptance Of The Privacy Policy and Notification Of Changes ](https://web.archive.org/iw-cc/command/iw.livesite.edit_dcr#acceptance)
-  10. [Correcting/Updating Personal Information ](https://web.archive.org/iw-cc/command/iw.livesite.edit_dcr#updating)
-  11. [Data Retention ](https://web.archive.org/iw-cc/command/iw.livesite.edit_dcr#DR)
-  12. [TRUSTe Privacy Program ](https://web.archive.org/iw-cc/command/iw.livesite.edit_dcr#TRUSTe)
-  13. [Your California Privacy Rights](https://web.archive.org/iw-cc/command/iw.livesite.edit_dcr#california)
-  14. [Questions about This Privacy Policy](https://web.archive.org/iw-cc/command/iw.livesite.edit_dcr#questions)
 
 
+## Introduction
 
-##### Types Of Information That May Be Collected
+New England Patriots LLC (" **Company** " or " **We** ") respects your privacy and is committed to protecting it through compliance with this policy.
 
-The following are the types of information we may collect:
+This policy describes the types of information we may collect from you or that you may provide when you visit the website **[http://www.patriots.com](http://www.patriots.com/)** (our " **Website** ") and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
-###### _Information You Provide Us_
+This policy applies to information we collect:
 
-In the course of using the website, we may ask you to provide us with certain information, including contact information (such as your name, mailing address, email address, phone number, or zip code), unique identifiers (such as your user ID and password), demographic information (such as your date of birth or gender), financial information (such as your credit card number) or similar information.
+  * On this Website.
 
-Personal information that you provide to us, such as your user ID and password, name, email address, telephone number, physical address, birth date, gender or zip code or other information may be collected via the Site.
+  * In e-mail, text and other electronic messages between you and this Website.
 
-###### _Site Usage Information_
+  * Through mobile and desktop applications you download from this Website, which provide dedicated non-browser-based interaction between you and this Website.
 
-We may receive and store certain types of information whenever you visit the Site. For example, we may collect click-stream data and your IP address.
+  * When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this policy.
 
-###### _Email Communications_
 
-When you open emails from the Site, we may receive a confirmation noting you opened an email from us, if your computer supports such capabilities. We also may keep track of what emails we send you and what emails you may be receiving from us and our subsidiaries and affiliates. Additionally, we keep a record of what types of emails you have opted to and not to receive.
 
-###### _Information from Other Sources_
 
-We may receive information about you from other sources within the Patriots organization (such as the Patriots ProShop or Premium Seating) in order to better understand how you interact with us for content and marketing purposes, and add that information to your personal information that we have collected.
+It does not apply to information collected by:
 
-##### How Information May Be Collected
+  * us offline or through any other means, including on any other website operated by Company or any third party (including our affiliates and subsidiaries); or
 
-We may collect information from you in several different areas on the Site, including but not limited to those described below:
+  * any third party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from or on the Website.
 
-###### _Registration_
 
-You may be asked first to complete a registration form and provide personally identifiable information; you may also be asked to choose a user ID and password in order to take advantage of certain features the Site may choose to offer, including, but not limited to, Newsletters, Contests, Forums, Fantasy or other subscription-based services. Participation in registration is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website.
 
-###### _Newsletters and Site Emails_
 
-We may offer free newsletters to share information with you about the Site, about us and our affiliates and subsidiaries, or about our business partners and advertisers and sponsors. You may receive a newsletter either by registering for a particular newsletter or in conjunction with a special feature or membership for which you have registered on the Site. You may cancel your free email subscription by following the instructions provided on the Site or, in some instances, in the designated area of certain newsletters or emails.
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time (see Changes to our Privacy Policy ). Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.  
+ 
 
-###### _Contests or Sweepstakes_
+## Children Under the Age of 13
 
-We may operate contests and sweepstakes through the Site which may require registration. Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation or other related purposes. We may ask your permission to allow us to post publicly some of your information on the Site, such as on a winners page, in the event you win a contest or sweepstakes. We will not post your information without your permission. In some instances, a third party advertiser or sponsor may operate or host a contest or sweepstakes on the Site, and collect your information. In those cases, where we are not the operator or host of the contest or sweepstakes, we have no control over the information collected and accordingly urge you to review the advertiser's or sponsor's privacy policy applicable to the contest or sweepstakes before participating.
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features, register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact [Fred Kirsch at fredkirsch@patriots.com](mailto:fredkirsch@patriots.com).  
+ 
 
-###### _Surveys or Voting_
+## Information We Collect About You and How We Collect It
 
-From time–to-time we may request personally identifiable information from you via surveys or voting polls. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information. At times, you may have to register to vote or to take part in a survey.
+We may collect several types of information from and about users of our Website, including information:
 
-###### _Cookies_
+  * by which you may be personally identified, such as name, postal address, e-mail address, telephone number, or any other identifier by which you may be contacted online or offline (" **personal information** ");
 
-As with many Websites, our Website uses a technology called "cookies." A cookie is a unique, random number that is stored in the browser on your computer. The cookie doesn't actually identify you, just the computer that is used to visit the site. Cookies automatically identify your browser to the Website whenever your computer is used to visit the Website. Cookies also let us know how many people visit our website and where visitors go on the site. In addition, cookies can let us know non-personally identifiable information, like what web browser is being used to access the website. For registered users, cookies can make using the Website easier for you by saving information such as your passwords or preferences. By tracking how and when you use the Website, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Website are based on data obtained from cookies. Accepting cookies allows you, among other things, to personalize your experience on the Website. Cookies may also allow the Website to present to you advertising which may be of interest to you. If you do not want information collected through the use of cookies, your browser should contain an option that allows you to disable or delete cookie data at any time. Some areas of the Website, however, may not provide you with a personalized experience if you have disabled the use of cookies. Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by this Site only and does not cover the use of cookies by any advertisers.
+  * that is about you but individually does not identify you; and/or
 
-###### _Opting out of Third Party Cookies_
+  * about your internet connection, the equipment you use to access our Website and usage details.
 
-If you would like to manage the cookies set or accessed on your computer by third parties, including our business partners (e.g., advertisers) you must visit their respective website(s).  In addition to those business partners whose cookies we cannot access or control, the Site permits the following entity to place cookies on the Site:     
-Reach Local [www.reachlocal.com](http://www.reachlocal.com/)  
-ShopSocially [www.shopsocially.com](http://www.shopsocially.com/)  
-DataPoint Media <http://dpmsrv.com/opt-out>  
-Ticketmaster [www.ticketmaster.com/h/ad-choices.html?tm_link=tm_homeA_i_adchoices](http://www.ticketmaster.com/h/ad-choices.html?tm_link=tm_homeA_i_adchoices)
 
-###### _Clear Gifs (Web Beacons/Web Bugs)_
 
-Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that helps us better manage content on our site by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.  In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
 
-###### _Flash LSOs_
+We may collect this information:
 
-We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit.  Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
+  * Directly from you when you provide it to us.
 
-Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored.  Cookie management tools provided by your browser will not remove Flash cookies.  To learn how to manage privacy and storage settings for Flash cookies click here:
+  * Automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses and information collected through cookies, web beacons, and other tracking technologies.
 
-<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
+  * From third parties, for example, our business partners.
 
-###### _IP Addresses and Click-stream Data_
 
-We may collect IP addresses and/or click-stream data for purposes of system administration and to report aggregate information to our advertisers and sponsors. An IP address is a number that is automatically assigned to your computer whenever you access the Internet. Our computers identify your computer by its IP address. When you request Web pages from the Site, our computers log your IP address. Click-stream data is information collected by our computers when you request Web pages from the Site. Click-stream data may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such non-personal information. When analyzed, this data helps us analyze how visitors arrive at the Site, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like.
 
-###### _Transaction Information_
 
-If you order any information from our Site, buy any of our products or subscribe for any of the services offered on our Site, we will ask you to complete an order form that will request certain information from you, including financial information such as a credit card number and expiration date and general contact, billing and shipping information. We will use this information to complete the transaction that you have requested, i.e., to deliver the information, products or other services that you order, and to invoice you. Such information is collected and stored through encrypted means for your protection.
+## Information You Provide to Us.
 
-###### _Email-A-Friend_
+The information we collect on or through our Website may include:
 
-If you choose to use our "Email to Friend" service to send an article to a friend from our site, we will ask you for your email address and your friend's email address. We will automatically send your friend a one-time email from your email address, inviting him or her to read the article on the site. Patriots.com does not store this information.
+  * Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with our Website.
 
-##### How We Use The Information Collected
+  * Records and copies of your correspondence (including e-mail addresses), if you contact us.
 
-Each of the PROVIDERS own the information collected via this Site. As applicable, the information you provide to us may be used to:
+  * Your responses to surveys that we might ask you to complete for research purposes.
 
-  * contact you about the Site;
-  * contact you relating to your membership status;
-  * confirm or fulfill an order you have made;
-  * monitor or improve the use of the Site;
-  * customize the advertising and content you see;
-  * monitor compliance with our terms and conditions of use of the Site;
-  * provide special offers to you from the PROVIDERS and/or their respective affiliates and subsidiaries and other third parties;
-  * send you promotional material on behalf of our business partners;
-  * inform you of a prize you have won
-  * promote the winning of prizes;
-  * provide special offers to you from the PROVIDERS.
+  * Details of transactions you carry out through our Website and of the fulfillment of your orders. You may be required to provide financial information before placing an order through our Website.
 
+  * Your search queries on the Website.
 
 
-##### With Whom The Information May Be Shared
 
-At times, we may share your personally identifiable information with others for various purposes. The following outlines the ways in which your information may be shared with others. Except as expressly set forth below, New England Patriots LP does not share, sell, rent or trade personally identifiable information with third parties for their promotional purposes.
 
-###### Agents:
+You also may provide information to be published or displayed (hereinafter, " **posted** ") on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, " **User Contributions** "). Your User Contributions are posted on and transmitted to others at your own risk. Please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.  
+ 
 
-We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include fulfilling orders, sending e-mail, removing repetitive information from customer lists, Site analysis, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. These entities have access to personally identifiable information needed to perform their functions, but may not use it for other purposes.
+## Information We Collect through Automatic Data Collection Technologies
 
-###### Promotional Offers:
+As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including:
 
-We may send offers by email to you on behalf of other partners. When we do this, we do not give that partner your name and address. If you do not want to receive such offers, you may opt out or change your preferences using the links provided in the footer of the email.
+  * Details of your visits to our Website, including traffic data, location data, logs, and other communication data and the resources that you access and use on the Website.
 
-###### Aggregate Information:
+  * Information about your computer and internet connection, including your IP address, operating system and browser type.
 
-We may share aggregate information such as demographics and Site usage statistics with advertisers, sponsors or other organizations. When this type of information is shared, the other parties do not have access to your personally identifiable information.
 
-###### Opt-in and Opt-out Programs:
 
-When you provide us with personal information, you may be presented with the opportunity to share your personal information with third parties for various purposes, such as receiving information or special offers. An opt-in/opt-out message will ask you if you would like your information to be shared. When you allow us to share your personal information with third parties, we require third parties who have access to that information to agree to abide by our current Website privacy policy. Once the information is transferred, however, we cannot control the privacy practices of these other companies.
 
-###### Partners Subsidiaries and Affiliates:
+We also may use these technologies to collect information about your online activities over time and across third-party websites or other online services (behavioral tracking).
 
-We may share your information (including, without limitation, personally identifiable information) with our subsidiaries and affiliates. If you do not want us to share your information with our subsidiaries and affiliates, you may tell us by sending an email to [web@patriots.com](mailto:web@patriots.com) with your request (please write "Affiliates" in the subject line of your email). **Business Transfers** : In the event that all or substantially all of our assets are sold or transferred to another party, or another transaction occurs in which your personally identifiable information is one of the business assets transferred, all personally identifiable information that has been collected and saved may be one of the business assets we transfer.
+The information we collect automatically is statistical data and does not include personal information, but we may maintain it or associate it with personal information we collect in other ways or receive from third parties. It helps us to improve our Website and to deliver a better and more personalized service, including by enabling us to:
 
-###### Legal Process:
+  * Estimate our audience size and usage patterns.
 
-In the event we are required to respond to subpoenas, court orders or other legal process your personally identifiable information may be disclosed pursuant to such subpoena, court order or legal process, which may be without notice to you.
+  * Store information about your preferences, allowing us to customize our Website according to your individual interests.
 
-##### Chat Rooms, Forums, And Message Boards
+  * Speed up your searches.
 
-The Site may make chat rooms, forums and message boards available to its users. While you are required to register with the site for access to these areas, you are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. We cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas.
+  * Recognize you when you return to our Website.
 
-To request removal of your personal information from our blog or community forum, contact us at [fredkirsch@patriots.com](mailto:fredkirsch@patriots.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-##### Links To Other Web Sites
 
-This privacy policy applies only to this Site. When you are on the Site you could be directed to other sites beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Site onto a different Web site. This includes links from advertisers, sponsors and others that may use the Site's logo as part of a cobranding agreement. These other Web sites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a Website that is linked to our Site, you should consult that site's privacy policy before providing any personal information.
 
-##### Security
+The technologies we use for this automatic data collection may include:
 
-This Site incorporates reasonable safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information that we may collect and we have put into place reasonable precautions to protect such information from loss, misuse and alteration. Certain personally identifiable information, such as credit card information, is transferred to our computers utilizing encryption software. Only those employees who need access to your information in order to do their jobs are allowed access. Our security policies are reviewed periodically and revised as required.
+  * **Cookies (or browser cookies).** A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.
 
-##### A Special Note For Parents Concerning Privacy
+  * **Flash Cookies.** Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies. For information about managing your privacy and security settings for Flash cookies, see Choices about How We Use and Disclose Your Information .
 
-The Site is a general audience site. We do not currently collect any personal information from children under the age of thirteen on the Site. We encourage you to visit the Direct Marketing Association's Web site (www.the-dma.org) and explore the Get CyberSavvy! program as well as the GetNetWise website (www.getnetwise.org) to learn more about parental control tools.
+  * **Web Beacons.** Pages of our the Website and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
 
-##### Your Acceptance Of The Privacy Policy And Notification Of Changes To The Policy
 
-By using this Website, you signify your agreement to the terms of our privacy policy. We may amend this privacy policy at any time. If we make a material change to the way in which we collect, use, and/or share your personal information, we will post a notice on our website and / or send an email to users who have provided an email address. We will assume that you have given your permission for your information to be used under the terms of the new privacy policy, if you do not respond to our email within thirty days or continue to use the Website thirty days after a notice is posted. Please note that you should always update your personal information to provide us with a current email address.
 
-##### Correction/Updating Personal Information
 
-If your personally identifiable information (such as your email address) changes, or if you no longer desire to access our Site, you may correct, update, remove, or delete the personal data you have provided to us by making changes to your profile, by using an opt out message in an email, or by emailing member Sites at [web@patriots.com](mailto:web@patriots.com) with your request. We will respond to your request within 14 days of receiving the request. If you have any questions about this privacy policy or the privacy practices of this Site, you can contact: Fred Kirsch at [fredkirsch@patriots.com](mailto:fredkirsch@patriots.com).
+## Information Collected by Google Analytics
 
-##### Data Retention
+We may use Google Analytics to understand how you make use of our content and determine how we can ensure that the Website functions properly. Google Analytics cookies follow your progress through our website, collecting anonymous data on where you have come from, which pages you visit, and the time spent on the site. This data is stored by Google in order to create reports. These cookies do not store your personal data.  
+ 
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [fredkirsch@patriots.com](mailto:fredkirsch@patriots.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+  * The information generated by the cookie about your use of the Website, including your IP address, may be transmitted to and stored by Google on servers in the United States or any other country in which Google maintains facilities. Google may use this information for the purpose of evaluating your use of the website, compiling reports on website activity for us and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google may combine information (including IP addresses) obtained through its Google Analytics Premium and DoubleClick Bid Manager products to provide these services. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
-##### TRUSTe Privacy Program
+  * For information about how you can opt out of Google Analytics and other services that place cookies or collect data, see Choices About How We Use and Disclose Your Information.
 
-New England Patriots LP has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact Fred Kirsch at fredkirsch@patriots.com.  If you are not satisfied with our response you can contact TRUSTe here <http://www.truste.org/consumers/watchdog_complaint.php>
 
-This privacy statement covers the Web site [www.patriots.com](http://prod.www.patriots.clubs.nfl.com/).
 
-New England Patriots LP complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. To learn more about the Safe Harbor program, please visit <http://www.export.gov/safeharbor/>
 
-_The TRUSTe program only covers information that is collected through this Web site, and **does not** cover information that may be collected through any software downloaded from this Web site._
+## Third-party Use of Cookies and Other Tracking Technologies
 
-##### Your California Privacy Rights
+Some content or applications, including advertisements, on the Website are served by third-parties, including advertisers, ad networks and servers, content providers and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
 
-A California privacy law that went into effect on January 1, 2005, allows California residents to obtain specific information about a business's privacy practices if it shares information with other companies for those companies' direct marketing purposes.
+We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see Choices About How We Use and Disclose Your Information .
 
-As explained in this privacy policy, whenever you agree to let us collect personal information about you, we will always provide you with an option to prevent this information from being shared for non-administrative purposes with third parties. You can exercise this option at any time by following the steps outlined above.
+## How We Use Your Information
 
-If you are a California resident and have questions about our compliance with this law, please send an email to CAPrivacyRights@patriots.com" or write to us at New England Patriots LP, One Patriot Place, Foxborough, Massachusetts 02035 Attn: Website Privacy Policy/CA Privacy Rights.
+We use information that we collect about you or that you provide to us, including any personal information:
 
-##### Questions About This Privacy Policy
+  * To present our Website and its contents to you.
 
-If you have any questions about this privacy policy or the privacy practices of this Website, contact Fred Kirsch at [fredkirsch@patriots.com](mailto:fredkirsch@patriots.com) or write to us at: New England Patriots LP, One Patriot Place, Foxborough, Massachusetts 02035 Attn: Website Privacy Policy
+  * To provide you with information, products or services that you request from us.
 
-[](http://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.patriots.com/seal_m "TRUSTe European Safe Harbor certification")
+  * To fulfill any other purpose for which you provide it.
 
-_Last Updated on August 20, 2014_
+  * To provide you with notices about your account/subscription, including expiration and renewal notices.
+
+  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
+
+  * To notify you about changes to our Website or any products or services we offer or provide through it.
+
+  * To allow you to participate in interactive features on our Website.
+
+  * In any other way we may describe when you provide the information.
+
+  * For any other purpose with your consent.
+
+
+
+
+We may also use your information to contact you about our own and third-parties' goods and services that may be of interest to you. If you do not want us to use your information in this way, please check the relevant box located on the form on which we collect your data. For more information, see Choices About How We Use and Disclose Your Information .
+
+We may use the information we have collected from you to enable us to display advertisements to our advertisers' target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.  
+ 
+
+## Disclosure of Your Information
+
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
+
+We may disclose personal information that we collect or you provide as described in this privacy policy:
+
+  * To our subsidiaries and affiliates.
+
+  * To contractors, service providers and other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.
+
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of New England Patriots LLC’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by New England Patriots LLC about our Website users is among the assets transferred.
+
+  * To third parties to market their products or services to you if you have consented to/not opted out of these disclosures. We contractually require these third parties to keep personal information confidential and use it only for the purposes for which we disclose it to them. For more information, see Choices About How We Use and Disclose Your Information.
+
+  * To fulfill the purpose for which you provide it.
+
+  * For any other purpose disclosed by us when you provide the information.
+
+  * With your consent.
+
+
+
+
+We may also disclose your personal information:
+
+  * To comply with any court order, law or legal process, including to respond to any government or regulatory request.
+
+  * To enforce or apply our [terms of use](http://www.patriots.com/termsofservice) and other agreements, including for billing and collection purposes.
+
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of New England Patriots LLC, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+
+
+
+
+## Choices about How We Use and Disclose Your Information
+
+We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
+
+  * **Cookies and Flash Cookies.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent.
+
+    * Users of our Website can set their browsers to accept or reject all, or certain, cookies. All recent versions of most browsers give users a level of control over cookies. Further detail on how to control how webservers use cookies on your computer is available on the [http://www.aboutcookies.org](http://www.aboutcookies.org/) / website, which contains a guide to deleting and controlling cookies.
+
+    * To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's [website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) . If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+
+  * **Google Analytics Cookies.** The cookies for Google Analytics are created automatically unless the visitor`s browser is set to refuse them. The Google website contains further information about Google [Analytics](https://support.google.com/analytics/answer/6004245) and a copy of Google's [privacy policy](http://www.google.com/intl/en/policies/privacy/) .
+
+  * **Google Analytics Opt-out Browser Add-on.** Visitors can prevent Google Analytics collecting traffic log data. To provide website visitors with more choice on how their data is collected Google Analytics has developed the Google Analytics Opt-out Browser Add-on. The add-on communicates with the Google Analytics JavaScript (ga.js) to indicate that information about the website visit should not be sent to Google Analytics. If you want to opt out, download and install the add-on for your current web browser. To do so please visit the following site which provides a browser add-on that enables a user to opt out - <http://tools.google.com/dlpage/gaoptout> . The Google Analytics Opt-out Browser Add-on is available for Internet Explorer, Google Chrome, Mozilla Firefox, Apple Safari, and Opera.
+
+  * **Disclosure of Your Information for Third-Party Advertising.** If you do not want us to share your personal information with unaffiliated or non-agent third parties for promotional purposes, you can opt-out by checking the relevant box located on the form on which we collect your data. You can also always opt-out by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to [Fred Kirsch at fredkirsch@patriots.com](mailto:fredkirsch@patriots.com).
+
+  * **Promotional Offers from the Company.** If you do not wish to have your contact information used by the Company to promote our own or third parties' products or services, you can opt-out by checking the relevant box located on the form on which we collect your data or at any other time by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to [fredkirsch@patriots.com](mailto:fredkirsch@patriots.com) . If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions. This opt out does not apply to information provided to the Company as a result of a product purchase, warranty registration, product service experience or other transactions.
+
+  * **Targeted Advertising.** If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers' target-audience preferences, you can opt-out by checking the relevant box located on the form on which we collect your data. You can also always adjust your user advertising preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to [fredkirsch@patriots.com](mailto:fredkirsch@patriots.com) . For this opt-out to function, you must have your browser set to accept browser cookies.
+
+
+
+
+We recommend that you to ensure that your internet browser is up-to-date and that you consult the help and guidance provided by the developer of your internet browser if you are unsure about adjusting your privacy settings. In addition, although we do not utilize targeted advertising and do not control third parties collection or use of your info, you can opt out of receiving targeted advertisements generally from members of the Network Advertising Initiative ("NAI") by visiting their [website](http://www.networkadvertising.org/choices/) .  
+ 
+
+## Accessing and Correcting Your Information
+
+You can review and change your personal information by logging into the Website and visiting your account profile page.
+
+You may also send us an e-mail at [fredkirsch@patriots.com](mailto:fredkirsch@patriots.com) to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+
+If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our [terms of use](http://www.patriots.com/termsofservice) .  
+ 
+
+## Your California Privacy Rights
+
+California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [fredkirsch@patriots.com](mailto:fredkirsch@patriots.com).
+
+## Data Security
+
+We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on our secure servers behind firewalls. Any payment transactions will be encrypted using SSL technology.
+
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to be careful about giving out information in public areas of the Website such as message boards. The information you share in public areas may be viewed by any user of the Website.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.  
+ 
+
+## Changes to Our Privacy Policy
+
+It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users' personal information, we will notify through a notice on the Website home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
+
+To ask questions or comment about this privacy policy and our privacy practices, contact us at:
+
+[fredkirsch@patriots.com](mailto:fredkirsch@patriots.com)
+
+Gillette Stadium  
+One Patriot Place  
+Foxboro, Massachusetts 02035, USA  
+Attn: Website Privacy Policy  
+ 
+
+## Safe Harbor Privacy Statement
+
+This policy describes the privacy principles we follow with respect to transfers of personal data from the European Economic Area (EEA) and from Switzerland (collectively, "Europe") to the United States. It sets out our practices for collecting, using, maintaining, protecting and disclosing that personal data.
+
+We will process personal data that is transferred to us from Europe in accordance with the safe harbor principles agreed between the United States Department of Commerce and the European Commission ("Safe Harbor Principles"). These principles enable US companies to satisfy the European Union ("EU") requirement set out in the EU Data Protection Directive that personal data transferred from Europe to the United States be adequately protected.
+
+The following definitions apply to Our Safe Harbor Policy:
+
+  * **Data Protection Directive:** EU Directive 95/46/EC on the protection of individuals with regard to the processing of personal data and on the free movement of such data.
+
+  * **Agent:** any third-party data processor that processes personal data We provide on Our behalf and under Our instructions.
+
+  * **Personal Data:** any information or set of information that identifies or could be used to identify (together with other information) a living individual. Personal data does not include information that is anonymised or aggregated.
+
+  * **Sensitive Personal Data:** any Personal Data that reveals race, ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, information that concerns health or sex life, and information about criminal or administrative proceedings and sanctions.
+
+
+
+
+**Notice**
+
+If we collect Personal Data directly from individuals in Europe, we will inform them about the purposes for which we intend to process that Personal Data, the types of non-agent third parties, if any, to which we will disclose that Personal Data, and the choices and means, if any, that we offer individuals for limiting the use and disclosure of their Personal Data.
+
+We will provide notice to individuals in clear and conspicuous language when individuals are first asked to provide Personal Data to us, or as soon as practicable thereafter. In any event, we will provide notice before we use the Personal Data for a purpose other than that for which it was originally collected.
+
+If we receive Personal Data from our subsidiaries, affiliates or other entities in Europe, we will use that information in accordance with the notices those entities provided to the individuals to whom that Personal Data relates and the choices made by those individuals.
+
+ **Choice**
+
+We will provide individuals with the opportunity to opt out of any disclosure of their Personal Data to any non-agent third party or the use of that data for a purpose other than the purpose for which it was originally collected or subsequently authorised by the individual.
+
+We will not disclose Sensitive Personal Data to a non-agent third party or use Sensitive Personal Data for a purpose other than the purpose for which it was originally collected or subsequently authorised by the individual unless we have received the individual's affirmative and explicit consent (opt-in). We will provide individuals with reasonable methods to exercise their choices.
+
+ **Onward Transfer of Personal Data**
+
+We will obtain assurances from our Agents that they will safeguard Personal Data in accordance with this safe harbor policy. Appropriate assurances include:
+
+  * a contract between us and the Agent that requires the Agent to provide at least the same level of protection as is required by the Safe Harbor Principles;
+  * the Agent being subject to the Data Protection Directive;
+  * the Agent being established in a country that is subject to a finding of adequacy by the European Commission under Article 25(6) of Data Protection Directive; or
+  * safe harbor certification of the Agent.
+
+
+
+**Security**
+
+We will take reasonable precautions to protect Personal Data we create, maintain, use or disseminate from loss, misuse, unauthorised access, disclosure, alteration and destruction. We will take special care to ensure the security of Sensitive Personal Data.
+
+ **Data Integrity**
+
+We will use Personal Data only for the purpose for which it was first collected or subsequently authorised by the individual or for other compatible purposes. We will take reasonable steps to ensure that Personal Data is relevant to its intended use, accurate, complete and current.
+
+ **Access and Correction**
+
+Upon request, we will provide individuals with reasonable access to the Personal Data that we hold about them except where the burden or expense of providing access would be disproportionate to the risks to the individual's privacy in the case in question, or where the rights of persons other than the individual would be violated.
+
+We will take reasonable steps to permit individuals to correct, amend or delete Personal Data related to them that is inaccurate or incomplete.
+
+ **Enforcement**
+
+We will conduct compliance audits of its relevant privacy practices to verify compliance with this safe harbor policy.
+
+If we determine that an employee of ours acted in violation of this safe harbor policy he or she will be subject to disciplinary action up to and including termination of employment.
+
+ **Dispute Resolution**
+
+Any questions or concerns regarding our use or disclosure of Personal Data should be addressed to Our Central Privacy Coordinator at the address given below. We will investigate and attempt to resolve any complaints and disputes regarding the use and disclosure of Personal Data in accordance with the provisions of this safe harbor policy.
+
+For complaints that cannot be resolved between Company and the complainant, we have agreed to participate in the [TRUSTe dispute resolution procedures](http://www.truste.com/products-and-services/dispute-resolution-services/) in the investigation and resolution of complaints to resolve disputes in accordance with the Safe Harbor Principles.
+
+* * *
+
+## TRUSTe Privacy Program
+
+New England Patriots LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy "trustmark" and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [fredkirsch@patriots.com](mailto:fredkirsch@patriots.com). If you are not satisfied with our response you can contact [TRUSTe online](http://www.truste.org/consumers/watchdog_complaint.php) . **The TRUSTe program only covers information that is collected through this Web site, and does not cover information that may be collected through any software downloaded from this Web site.**  
+ 
+
+* * *
+
+## Alternative Introduction
+
+New England Patriots LLC (" **Company** " or " **We** ") respect your privacy and are committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit the website **[www.patriots.com](http://www.patriots.com/)** (as well as sites that are specified below or contain a link to this privacy policy) (collectively, our " **Website** ") and our practices for collecting, using, maintaining, protecting and disclosing that information. This policy applies to information we collect:
+
+  * on this Website;
+
+  * in email, text and other electronic messages between you and this Website; and
+
+  * when you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this policy.
+
+
+
+
+This policy may apply to information we collect:
+
+  * through mobile and desktop applications you download from this Website that provide dedicated non-browser-based interaction between you and this Website, if such mobile or desktop application does not have a separate privacy policy; or
+
+  * from other sources within New England Patriots LLC that is then maintained or associated with information we have collected on this Website.
+
+
+
+
+It does not apply to information collected by:
+
+  * us offline or through any other means, including on any other website operated by Company or any third party (including our affiliates and subsidiaries);
+
+  * any third party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from or on the Website; or
+
+  * any mobile or desktop application you download that does not and/or is not designed to provide interaction between you and this Website OR if such mobile or desktop application has a separate privacy policy.
+
+
+
+
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time (see Changes to our Privacy Policy ). Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
+
+We are a participant in the US-EU Safe Harbor program developed by the US Department of Commerce and the European Union (EU). We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the US and EU. For more information about the Safe Harbor and to view our certification, visit the US Department of Commerce's Safe Harbor _[website](http://export.gov/safeharbor/)_. To review our Safe Harbor policy, click here.
