@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emulatorworld.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130110203id_/http%3A//www.emulatorworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emulatorworld.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235305id_/http%3A//www.emulatorworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Emulator World
 
@@ -12,4 +12,4 @@ We strongly respect your privacy. All information collected at EmulatorWorld.com
 EmulatorWorld.com contains links to other sites and file downloads from other sites. We are not responsible for the privacy practices or content of such web sites.
 
 **Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
