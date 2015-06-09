@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equestriadaily.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222151005id_/http%3A//www.equestriadaily.com/2011/06/eqd-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equestriadaily.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609031120id_/http%3A//www.equestriadaily.com/2011/06/eqd-privacy-policy.html) for the most accurate reproduction.*
 
 # Equestria Daily: EQD Privacy Policy
 
