@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gobloggingtips.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120214701id_/http%3A//www.gobloggingtips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gobloggingtips.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609232253id_/http%3A//www.gobloggingtips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GoBloggingTips
 
@@ -16,13 +16,13 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
  **How we use collected information**  
 GoBloggingTips may collect and use Users personal information for the following purposes:
 
-  * _\- To improve customer service_  
+  * _– To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To personalize user experience_  
+  * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
