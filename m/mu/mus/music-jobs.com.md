@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the music-jobs.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515142130id_/http%3A//uk.music-jobs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the music-jobs.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609091906id_/http%3A//uk.music-jobs.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | UK Music Jobs
 
@@ -19,6 +19,8 @@ We will send you, as necessary from time to time, information related to adminis
 In addition you can chose to opt in or out of other communication from us which currently includes job alerts, information about your profile viewings and a weekly news digest. This information may be subject to change, in which case you will be notified and will have the option to opt in or out of receiving it. 
 
 You may chose to whether or not you wish to receive information from third parties, the content of which will be approved by us. You may edit your choice at any time using your profile settings.
+
+This site uses cookies as described in the [Cookie Policy](http://uk.music-jobs.com/cookies.php)
 
 ## Information sharing and onward transfer
 
