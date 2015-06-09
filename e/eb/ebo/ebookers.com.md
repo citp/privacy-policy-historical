@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ebookers.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129233811id_/http%3A//www.ebookers.com/info/page%3Fid%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookers.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610013922id_/http%3A//www.ebookers.com/info/page%3Fid%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # 
 
 This Website is operated by Flightbookers Limited (registered number 1616788) whose registered office is 5th Floor, 140 Aldersgate Street, London EC1A 4HY, United Kingdom. Flightbookers Limited is a subsidiary of Orbitz Worldwide, Inc. Your privacy is very important to ebookers. This Privacy Policy describes the principles and practices that apply to Personal Information (defined below) collected from users of our services ("you") on our Website (defined below), in telephone or email communications, or in competitions or prizedraws.
 
 **Simply put:**  
-    We will not collect Personal Information without your knowledge and permission;  
-    We will not knowingly disclose your Personal Information to third parties, except as provided in this Privacy Policy;  
-    We will allow you to view, correct or remove your Personal Information; and  
-    We will take reasonable steps to protect the security of the Personal Information we collect from you.
+•    We will not collect Personal Information without your knowledge and permission;  
+•    We will not knowingly disclose your Personal Information to third parties, except as provided in this Privacy Policy;  
+•    We will allow you to view, correct or remove your Personal Information; and  
+•    We will take reasonable steps to protect the security of the Personal Information we collect from you.
 
 1\. **Use of cookies**  
 A cookie is a small text file that is placed on your computer by websites that you visit, and a pixel tag is a request for an invisible graphic that may cause a cookie to be set. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the website.
@@ -101,21 +101,21 @@ If you submit a review or comment on our Website, you should be aware that any P
 5\. **How we use the information we collect**
 
 We use Personal Information in order to provide and enhance the Products or Services offered on our Website:  
-    To record your travel preferences, to make reservations or acquire travel insurance on your behalf, or to communicate with you about your travel plans;  
-    To issue invoices, administer accounts, collect and process payments;  
-    To provide tips or guidance on how to use our Website, inform you of new features on our Website, or provide other information that may be of interest to users;  
-    To personalize the service we provide to you, tailor your experience of our Website to suit your interests and to allow us to make more appropriate travel recommendations to you;  
-    To send you emails, e-newsletters, personalized offers via direct messaging or other communications about our services, if you have subscribed to receive this information;  
-    To manage our Website, diagnose technical problems, improve content, and allocate the resources of our systems so that your experience with our Website is as efficient as possible;  
-    To process and track your transactions and to send you information about us and our group companies and business partners' products and services and other information and materials that may be of interest to you but only if you have granted us permission to do so or we are otherwise able to do so under applicable law;  
-    To send you surveys asking questions about your customer experience – sometimes we use third parties to administer such surveys;  
-    To validate that we have provided you with the appropriate insurance, as applicable;  
-    To develop, enhance, market, sell or provide ebookers' Products or Services, or those of companies with which we have a commercial relationship, but only if you have granted us permission to do so or we are otherwise able to do so under applicable law;  
-    To investigate, detect and protect ebookers and other third parties against error, negligence, breach of contract, fraud, theft and other illegal activities;  
-    To effect a corporate transaction, in connection with the sale, merger, spin-off, or other corporate reorganization of our corporation, where the information is provided to the new controlling entity in regular course of business;  
-    To audit compliance with our policies and contractual obligations;  
-    As permitted by, and to comply with, any legal or regulatory requirements or provisions; and/or  
-    For any other purpose to which you consent.
+•    To record your travel preferences, to make reservations or acquire travel insurance on your behalf, or to communicate with you about your travel plans;  
+•    To issue invoices, administer accounts, collect and process payments;  
+•    To provide tips or guidance on how to use our Website, inform you of new features on our Website, or provide other information that may be of interest to users;  
+•    To personalize the service we provide to you, tailor your experience of our Website to suit your interests and to allow us to make more appropriate travel recommendations to you;  
+•    To send you emails, e-newsletters, personalized offers via direct messaging or other communications about our services, if you have subscribed to receive this information;  
+•    To manage our Website, diagnose technical problems, improve content, and allocate the resources of our systems so that your experience with our Website is as efficient as possible;  
+•    To process and track your transactions and to send you information about us and our group companies and business partners' products and services and other information and materials that may be of interest to you but only if you have granted us permission to do so or we are otherwise able to do so under applicable law;  
+•    To send you surveys asking questions about your customer experience – sometimes we use third parties to administer such surveys;  
+•    To validate that we have provided you with the appropriate insurance, as applicable;  
+•    To develop, enhance, market, sell or provide ebookers' Products or Services, or those of companies with which we have a commercial relationship, but only if you have granted us permission to do so or we are otherwise able to do so under applicable law;  
+•    To investigate, detect and protect ebookers and other third parties against error, negligence, breach of contract, fraud, theft and other illegal activities;  
+•    To effect a corporate transaction, in connection with the sale, merger, spin-off, or other corporate reorganization of our corporation, where the information is provided to the new controlling entity in regular course of business;  
+•    To audit compliance with our policies and contractual obligations;  
+•    As permitted by, and to comply with, any legal or regulatory requirements or provisions; and/or  
+•    For any other purpose to which you consent.
 
 **Session Data**  
 We use Session Data, collected through cookies and pixel tags, to better understand how our Website is navigated, how many visitors arrive at specific pages, the length and frequency of stays at our Website, the variety of searches of our Website's database, the types of browsers and computer operating systems used by our visitors and the Internet Protocol addresses from which visitors connect to our Website. We also use this information to improve our Website content and ease of use, to personalize and improve your individual viewing experiences on our Website, and provide information that may be of interest to you.
@@ -135,11 +135,11 @@ We will not share your information with third parties except as described in our
 
 We may disclose your Personal Information as follows:
 
-    To those travel service providers with which you make arrangements through our Website, for example, airlines, car rental, hotel, ground transportation or travel insurance. We provide them with the Personal Information needed to make and complete the purchase, booking, or reservation.  
-    To other entities within the Orbitz Group (being Orbitz Worldwide, Inc. and its subsidiaries which include ebookers) in order to make arrangements for your Products or Services on our behalf, or procure that organisations perform services for us or the Orbitz Group. Such other entities may be located in countries outside the European Economic Area ("EEA"). Where transfers to such non-EEA entities occur, a Data Transfer Agreement will have been put into place in accordance with standard contractual clauses adopted by the European Commission on 27 December 2004 (Decision 2004/915/EC).  
-    To organisations that perform services for you or on behalf of ebookers, for example to provide customer service (including through our "live chat" feature), deliver tickets, ship items, process credit cards, submit email communications to you on our behalf, for research, marketing, data processing, data storage, to measure the use of our Website or to facilitate usage by a Visitor. We will share with these companies only that Personal Information which they need to work on our behalf. Some of these service providers may be located in countries outside the EEA. Your Personal Information will be provided to these organizations only if they agree to use such information solely for the purpose of providing services to ebookers, and under the instructions of ebookers, and with respect to that information, to act in a manner consistent with the relevant principles articulated in our Privacy Policy. Where transfers to such non-EEA entities occur, an adequate level of data protection will be ensured by either a Data Transfer Agreement in accordance with standard contractual clauses adopted by the European Commission on 5 February 2010 (Decision 2010/87/EC) or another legally acceptable method (Safe Harbor, Binding Corporate Rules).  
-    To government or regulatory agencies that may be located outside the EEA, in order to comply with relevant legal or regulatory requirements or provisions, including but not limited to border control agencies.  
-    We may collaborate with other companies to offer you additional Products or Services, for example, through promotions, competitions and prizedraws. We will share Personal Information with these other companies only if you have expressly permitted us to do so, or if we are permitted by law to do so.
+•    To those travel service providers with which you make arrangements through our Website, for example, airlines, car rental, hotel, ground transportation or travel insurance. We provide them with the Personal Information needed to make and complete the purchase, booking, or reservation.  
+•    To other entities within the Orbitz Group (being Orbitz Worldwide, Inc. and its subsidiaries which include ebookers) in order to make arrangements for your Products or Services on our behalf, or procure that organisations perform services for us or the Orbitz Group. Such other entities may be located in countries outside the European Economic Area ("EEA"). Where transfers to such non-EEA entities occur, a Data Transfer Agreement will have been put into place in accordance with standard contractual clauses adopted by the European Commission on 27 December 2004 (Decision 2004/915/EC).  
+•    To organisations that perform services for you or on behalf of ebookers, for example to provide customer service (including through our "live chat" feature), deliver tickets, ship items, process credit cards, submit email communications to you on our behalf, for research, marketing, data processing, data storage, to measure the use of our Website or to facilitate usage by a Visitor. We will share with these companies only that Personal Information which they need to work on our behalf. Some of these service providers may be located in countries outside the EEA. Your Personal Information will be provided to these organizations only if they agree to use such information solely for the purpose of providing services to ebookers, and under the instructions of ebookers, and with respect to that information, to act in a manner consistent with the relevant principles articulated in our Privacy Policy. Where transfers to such non-EEA entities occur, an adequate level of data protection will be ensured by either a Data Transfer Agreement in accordance with standard contractual clauses adopted by the European Commission on 5 February 2010 (Decision 2010/87/EC) or another legally acceptable method (Safe Harbor, Binding Corporate Rules).  
+•    To government or regulatory agencies that may be located outside the EEA, in order to comply with relevant legal or regulatory requirements or provisions, including but not limited to border control agencies.  
+•    We may collaborate with other companies to offer you additional Products or Services, for example, through promotions, competitions and prizedraws. We will share Personal Information with these other companies only if you have expressly permitted us to do so, or if we are permitted by law to do so.
 
 Please note that there are circumstances where the use or disclosure of Personal Information may be justified or permitted, or where ebookers may be obligated to disclose information without consent.
 
