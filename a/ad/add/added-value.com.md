@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the added-value.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125060558id_/http%3A//added-value.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the added-value.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609025014id_/http%3A//added-value.com/privacy-policy) for the most accurate reproduction.*
 
 # Added Value | Privacy Policy
 
@@ -14,20 +14,20 @@ By using the Service, you consent to the collection, storage and use of your per
 
 **Topics:** ****
 
-– Data protection compliance  
-– The information we collect from you  
-– An important note to parents or guardians  
-– How we use personal information  
-– Disclosure of your personal information  
-– Tracking technology and IP addresses  
-– Cookie technology  
-– Where we store your personal information  
-– Information security  
-– Other services  
-– Opting out  
-– Access to your information  
-– How to contact us  
-– Changes to this Privacy Policy
+— Data protection compliance  
+— The information we collect from you  
+— An important note to parents or guardians  
+— How we use personal information  
+— Disclosure of your personal information  
+— Tracking technology and IP addresses  
+— Cookie technology  
+— Where we store your personal information  
+— Information security  
+— Other services  
+— Opting out  
+— Access to your information  
+— How to contact us  
+— Changes to this Privacy Policy
 
 **Data protection compliance**
 
@@ -61,21 +61,21 @@ We will not use your personal information for marketing or promotional purposes 
 
 We may also use your personal information for the purposes of:
 
-– processing and administering your registration if you subscribe for our products, content or services;
+— processing and administering your registration if you subscribe for our products, content or services;
 
-– providing you with content or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes (for example, where subscribing to receive our newsletter);
+— providing you with content or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes (for example, where subscribing to receive our newsletter);
 
-– conducting surveys, case studies and/or market research (if you have consented to take part in those);
+— conducting surveys, case studies and/or market research (if you have consented to take part in those);
 
-– to allow you to participate in interactive features of the Service (e.g. blogs), when you choose to do so;
+— to allow you to participate in interactive features of the Service (e.g. blogs), when you choose to do so;
 
-– miscellaneous customer service correspondence (such as notifying you of changes to our products, content or services);
+— miscellaneous customer service correspondence (such as notifying you of changes to our products, content or services);
 
-– processing any job applications that you may submit to us;
+— processing any job applications that you may submit to us;
 
-– carrying out our obligations under any contract that you and we may enter into; and
+— carrying out our obligations under any contract that you and we may enter into; and
 
-– any other general or special use that you may permit under any particular request for permission that we may make from to time.
+— any other general or special use that you may permit under any particular request for permission that we may make from to time.
 
 We reserve the right to monitor your account and records to check any complaint or allegation of abuse, infringement of third-party rights or any other unauthorised use of the Service.
 
@@ -85,13 +85,13 @@ Added Value is part of the WPP Group.  We may disclose your personal informatio
 
 We may disclose your personal information to third parties where:
 
-– they provide products, content or services to us in connection with your use of the Service;
+— they provide products, content or services to us in connection with your use of the Service;
 
-– we sell or buy any business or assets, in which case we may disclose your personal information to the prospective seller or buyer of such business or assets;
+— we sell or buy any business or assets, in which case we may disclose your personal information to the prospective seller or buyer of such business or assets;
 
-– our company or substantially all of our assets are to be acquired by a third party, in which case we may disclose your personal information to the prospective acquirer and personal data held by us about users of the Service will be one of the transferred assets; and/or
+— our company or substantially all of our assets are to be acquired by a third party, in which case we may disclose your personal information to the prospective acquirer and personal data held by us about users of the Service will be one of the transferred assets; and/or
 
-– we reasonably believe that we need to disclose your personal information to other person(s) (a) by order of any court or governmental or regulatory body of competent authority, (b) to comply with any legal obligation, (c) to enforce or apply our Terms of Use or other contracts and/or (d) to protect our, our customers’ or any other third parties’ rights, property or safety.
+— we reasonably believe that we need to disclose your personal information to other person(s) (a) by order of any court or governmental or regulatory body of competent authority, (b) to comply with any legal obligation, (c) to enforce or apply our Terms of Use or other contracts and/or (d) to protect our, our customers’ or any other third parties’ rights, property or safety.
 
 We may also process your personal information to anonymise and aggregate it with other data and to disclose such anonymous and aggregate data to our affiliates and/or business partners.
 
