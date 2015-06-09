@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishgenealogy.ie privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204023133id_/http%3A//www.irishgenealogy.ie/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishgenealogy.ie privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609064606id_/http%3A//www.irishgenealogy.ie/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Irish Genealogy
 
