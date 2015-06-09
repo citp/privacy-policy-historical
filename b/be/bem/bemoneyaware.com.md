@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bemoneyaware.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119162022id_/http%3A//www.bemoneyaware.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bemoneyaware.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610010313id_/http%3A//www.bemoneyaware.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Be Money Aware Blog
 
@@ -35,6 +35,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us at our email [bemoneyaware@gmail.com](https://web.archive.org/web/20141119162022id_/http://www.bemoneyaware.com/blog/privacy-policy/bemoneyaware@gmail.com)
+If there are any questions regarding this privacy policy you may contact us at our email [bemoneyaware@gmail.com](https://web.archive.org/web/20150610010313id_/http://www.bemoneyaware.com/blog/privacy-policy/bemoneyaware@gmail.com)
 
 More information about us is available at[ About Us](http://www.bemoneyaware.com/blog/about/) and [Disclaimer](http://www.bemoneyaware.com/blog/disclaimer/).
