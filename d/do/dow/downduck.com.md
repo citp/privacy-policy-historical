@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downduck.com privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026195034id_/http%3A//www.byhero.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downduck.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609233927id_/http%3A//www.byhero.com/privacy.html) for the most accurate reproduction.*
 
 # BYHERO.COM Privacy Policy » Download Free Movies Games MP3 Albums and Softwares!
 
