@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the globalhelpswap.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224052726id_/http%3A//globalhelpswap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalhelpswap.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610011456id_/http%3A//globalhelpswap.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - globalhelpswap - free and low cost volunteering opportunities around the globe Responsible, Local and Authentic Travel
+# Privacy Policy - globalhelpswap - free and low cost volunteering opportunities around the globe
 
 **PRIVACY POLICY for[globalhelpswap](http://globalhelpswap.com/)[  
 ](http://www.globalhelpswap.com/)**
