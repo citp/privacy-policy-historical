@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800anytyme.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928105341id_/http%3A//www.1800anytyme.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800anytyme.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609042713id_/http%3A//www.1800anytyme.com/privacy.php) for the most accurate reproduction.*
 
 # 1-800-Any-Tyme - Privacy Notice - Vista, CA
 
