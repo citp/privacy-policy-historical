@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prosoundweb.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007130744id_/http%3A//www.prosoundweb.com/company/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosoundweb.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235224id_/http%3A//www.prosoundweb.com/company/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pro Sound Web
 
