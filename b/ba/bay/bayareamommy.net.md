@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bayareamommy.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105109id_/http%3A//bayareamommy.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayareamommy.net privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610010923id_/http%3A//www.bayareamommy.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bay Area Mommy
 
@@ -49,5 +49,6 @@ alice@bayareamommy.net
 This policy is powered by Trust Guard, [PCI compliance scans](http://www.trust-guard.com/PCI-Compliance-s/65.htm)[follow](http://www.bayareamommy.net/privacy-policy/# "Toggle link-love \(currently "follow"\). Only admins see this.").
 
   
-  
 
+
+[](https://www.pinterest.com/pin/create/button/)
