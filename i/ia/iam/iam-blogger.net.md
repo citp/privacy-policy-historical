@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iam-blogger.net privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217034240id_/http%3A//www.iam-blogger.net/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iam-blogger.net privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609052143id_/http%3A//www.iam-blogger.net/privacy-terms) for the most accurate reproduction.*
 
-# Privacy and Policy - I am blogger
+# Privacy and Policy - IamB
 
 **Introduction**
 
@@ -110,7 +110,3 @@ Some apps on iOS 6 devices use Apple’s Advertising Identifier; to learn more a
 Open the Google Search app on your device  
 Press the Settings icon  
 Go to Ads Preferences
-
-Join us on Facebook
-
-Get all updates via Facebook Just Press LIKE button ! 
