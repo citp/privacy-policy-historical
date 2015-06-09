@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the hbdirect.com privacy policy that was archived on 2014-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141204004845id_/http%3A//www.hbdirect.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hbdirect.com privacy policy that was archived on 2015-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610004711id_/http%3A//www.hbdirect.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>	
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script language="JavaScript">
 <!--
 function silentErrorHandler() {return true;}
-window.onerror=silentErrorHandler;
+//window.onerror=silentErrorHandler;
 //-->
 </script>
 <meta name="google" value="notranslate">
@@ -78,7 +78,7 @@ jQuery(document).ready(function(){
 
 
 <script type="text/javascript">
-window.onerror=function(){ return true; }
+//window.onerror=function(){ return true; }
     jQuery.noConflict();
     jQuery(document).ready(function($) {
     (function(i){var q={vertical:false,rtl:false,start:1,offset:1,size:null,scroll:3,visible:null,animation:"normal",easing:"swing",auto:0,wrap:null,initCallback:null,reloadCallback:null,itemLoadCallback:null,itemFirstInCallback:null,itemFirstOutCallback:null,itemLastInCallback:null,itemLastOutCallback:null,itemVisibleInCallback:null,itemVisibleOutCallback:null,buttonNextHTML:"<div></div>",buttonPrevHTML:"<div></div>",buttonNextEvent:"click",buttonPrevEvent:"click",buttonNextCallback:null,buttonPrevCallback:null, itemFallbackDimension:null},r=false;i(window).bind("load.jcarousel",function(){r=true});i.jcarousel=function(a,c){this.options=i.extend({},q,c||{});this.autoStopped=this.locked=false;this.buttonPrevState=this.buttonNextState=this.buttonPrev=this.buttonNext=this.list=this.clip=this.container=null;if(!c||c.rtl===undefined)this.options.rtl=(i(a).attr("dir")||i("html").attr("dir")||"").toLowerCase()=="rtl";this.wh=!this.options.vertical?"width":"height";this.lt=!this.options.vertical?this.options.rtl? "right":"left":"top";for(var b="",d=a.className.split(" "),f=0;f<d.length;f++)if(d[f].indexOf("jcarousel-skin")!=-1){i(a).removeClass(d[f]);b=d[f];break}if(a.nodeName.toUpperCase()=="UL"||a.nodeName.toUpperCase()=="OL"){this.list=i(a);this.container=this.list.parent();if(this.container.hasClass("jcarousel-clip")){if(!this.container.parent().hasClass("jcarousel-container"))this.container=this.container.wrap("<div></div>");this.container=this.container.parent()}else if(!this.container.hasClass("jcarousel-container"))this.container= this.list.wrap("<div></div>").parent()}else{this.container=i(a);this.list=this.container.find("ul,ol").eq(0)}b!==""&&this.container.parent()[0].className.indexOf("jcarousel-skin")==-1&&this.container.wrap('<div class=" '+b+'"></div>');this.clip=this.list.parent();if(!this.clip.length||!this.clip.hasClass("jcarousel-clip"))this.clip=this.list.wrap("<div></div>").parent();this.buttonNext=i(".jcarousel-next",this.container);if(this.buttonNext.size()===0&&this.options.buttonNextHTML!==null)this.buttonNext= this.clip.after(this.options.buttonNextHTML).next();this.buttonNext.addClass(this.className("jcarousel-next"));this.buttonPrev=i(".jcarousel-prev",this.container);if(this.buttonPrev.size()===0&&this.options.buttonPrevHTML!==null)this.buttonPrev=this.clip.after(this.options.buttonPrevHTML).next();this.buttonPrev.addClass(this.className("jcarousel-prev"));this.clip.addClass(this.className("jcarousel-clip")).css({overflow:"hidden",position:"relative"});this.list.addClass(this.className("jcarousel-list")).css({overflow:"hidden", position:"relative",top:0,margin:0,padding:0}).css(this.options.rtl?"right":"left",0);this.container.addClass(this.className("jcarousel-container")).css({position:"relative"});!this.options.vertical&&this.options.rtl&&this.container.addClass("jcarousel-direction-rtl").attr("dir","rtl");var j=this.options.visible!==null?Math.ceil(this.clipping()/this.options.visible):null;b=this.list.children("li");var e=this;if(b.size()>0){var g=0,k=this.options.offset;b.each(function(){e.format(this,k++);g+=e.dimension(this, j)});this.list.css(this.wh,g+100+"px");if(!c||c.size===undefined)this.options.size=b.size()}this.container.css("display","block");this.buttonNext.css("display","block");this.buttonPrev.css("display","block");this.funcNext=function(){e.next()};this.funcPrev=function(){e.prev()};this.funcResize=function(){e.reload()};this.options.initCallback!==null&&this.options.initCallback(this,"init");if(!r&&i.browser.safari){this.buttons(false,false);i(window).bind("load.jcarousel",function(){e.setup()})}else this.setup()}; var h=i.jcarousel;h.fn=h.prototype={jcarousel:"0.2.7"};h.fn.extend=h.extend=i.extend;h.fn.extend({setup:function(){this.prevLast=this.prevFirst=this.last=this.first=null;this.animating=false;this.tail=this.timer=null;this.inTail=false;if(!this.locked){this.list.css(this.lt,this.pos(this.options.offset)+"px");var a=this.pos(this.options.start,true);this.prevFirst=this.prevLast=null;this.animate(a,false);i(window).unbind("resize.jcarousel",this.funcResize).bind("resize.jcarousel",this.funcResize)}}, reset:function(){this.list.empty();this.list.css(this.lt,"0px");this.list.css(this.wh,"10px");this.options.initCallback!==null&&this.options.initCallback(this,"reset");this.setup()},reload:function(){this.tail!==null&&this.inTail&&this.list.css(this.lt,h.intval(this.list.css(this.lt))+this.tail);this.tail=null;this.inTail=false;this.options.reloadCallback!==null&&this.options.reloadCallback(this);if(this.options.visible!==null){var a=this,c=Math.ceil(this.clipping()/this.options.visible),b=0,d=0; this.list.children("li").each(function(f){b+=a.dimension(this,c);if(f+1<a.first)d=b});this.list.css(this.wh,b+"px");this.list.css(this.lt,-d+"px")}this.scroll(this.first,false)},lock:function(){this.locked=true;this.buttons()},unlock:function(){this.locked=false;this.buttons()},size:function(a){if(a!==undefined){this.options.size=a;this.locked||this.buttons()}return this.options.size},has:function(a,c){if(c===undefined||!c)c=a;if(this.options.size!==null&&c>this.options.size)c=this.options.size;for(var b= a;b<=c;b++){var d=this.get(b);if(!d.length||d.hasClass("jcarousel-item-placeholder"))return false}return true},get:function(a){return i(".jcarousel-item-"+a,this.list)},add:function(a,c){var b=this.get(a),d=0,f=i(c);if(b.length===0){var j,e=h.intval(a);for(b=this.create(a);;){j=this.get(--e);if(e<=0||j.length){e<=0?this.list.prepend(b):j.after(b);break}}}else d=this.dimension(b);if(f.get(0).nodeName.toUpperCase()=="LI"){b.replaceWith(f);b=f}else b.empty().append(c);this.format(b.removeClass(this.className("jcarousel-item-placeholder")), a);f=this.options.visible!==null?Math.ceil(this.clipping()/this.options.visible):null;d=this.dimension(b,f)-d;a>0&&a<this.first&&this.list.css(this.lt,h.intval(this.list.css(this.lt))-d+"px");this.list.css(this.wh,h.intval(this.list.css(this.wh))+d+"px");return b},remove:function(a){var c=this.get(a);if(!(!c.length||a>=this.first&&a<=this.last)){var b=this.dimension(c);a<this.first&&this.list.css(this.lt,h.intval(this.list.css(this.lt))+b+"px");c.remove();this.list.css(this.wh,h.intval(this.list.css(this.wh))- b+"px")}},next:function(){this.tail!==null&&!this.inTail?this.scrollTail(false):this.scroll((this.options.wrap=="both"||this.options.wrap=="last")&&this.options.size!==null&&this.last==this.options.size?1:this.first+this.options.scroll)},prev:function(){this.tail!==null&&this.inTail?this.scrollTail(true):this.scroll((this.options.wrap=="both"||this.options.wrap=="first")&&this.options.size!==null&&this.first==1?this.options.size:this.first-this.options.scroll)},scrollTail:function(a){if(!(this.locked|| this.animating||!this.tail)){this.pauseAuto();var c=h.intval(this.list.css(this.lt));c=!a?c-this.tail:c+this.tail;this.inTail=!a;this.prevFirst=this.first;this.prevLast=this.last;this.animate(c)}},scroll:function(a,c){if(!(this.locked||this.animating)){this.pauseAuto();this.animate(this.pos(a),c)}},pos:function(a,c){var b=h.intval(this.list.css(this.lt));if(this.locked||this.animating)return b;if(this.options.wrap!="circular")a=a<1?1:this.options.size&&a>this.options.size?this.options.size:a;for(var d= this.first>a,f=this.options.wrap!="circular"&&this.first<=1?1:this.first,j=d?this.get(f):this.get(this.last),e=d?f:f-1,g=null,k=0,l=false,m=0;d?--e>=a:++e<a;){g=this.get(e);l=!g.length;if(g.length===0){g=this.create(e).addClass(this.className("jcarousel-item-placeholder"));j[d?"before":"after"](g);if(this.first!==null&&this.options.wrap=="circular"&&this.options.size!==null&&(e<=0||e>this.options.size)){j=this.get(this.index(e));if(j.length)g=this.add(e,j.clone(true))}}j=g;m=this.dimension(g);if(l)k+= m;if(this.first!==null&&(this.options.wrap=="circular"||e>=1&&(this.options.size===null||e<=this.options.size)))b=d?b+m:b-m}f=this.clipping();var p=[],o=0,n=0;j=this.get(a-1);for(e=a;++o;){g=this.get(e);l=!g.length;if(g.length===0){g=this.create(e).addClass(this.className("jcarousel-item-placeholder"));j.length===0?this.list.prepend(g):j[d?"before":"after"](g);if(this.first!==null&&this.options.wrap=="circular"&&this.options.size!==null&&(e<=0||e>this.options.size)){j=this.get(this.index(e));if(j.length)g= this.add(e,j.clone(true))}}j=g;m=this.dimension(g);if(m===0)throw Error("jCarousel: No width/height set for items. This will cause an infinite loop. Aborting...");if(this.options.wrap!="circular"&&this.options.size!==null&&e>this.options.size)p.push(g);else if(l)k+=m;n+=m;if(n>=f)break;e++}for(g=0;g<p.length;g++)p[g].remove();if(k>0){this.list.css(this.wh,this.dimension(this.list)+k+"px");if(d){b-=k;this.list.css(this.lt,h.intval(this.list.css(this.lt))-k+"px")}}k=a+o-1;if(this.options.wrap!="circular"&& this.options.size&&k>this.options.size)k=this.options.size;if(e>k){o=0;e=k;for(n=0;++o;){g=this.get(e--);if(!g.length)break;n+=this.dimension(g);if(n>=f)break}}e=k-o+1;if(this.options.wrap!="circular"&&e<1)e=1;if(this.inTail&&d){b+=this.tail;this.inTail=false}this.tail=null;if(this.options.wrap!="circular"&&k==this.options.size&&k-o+1>=1){d=h.margin(this.get(k),!this.options.vertical?"marginRight":"marginBottom");if(n-d>f)this.tail=n-f-d}if(c&&a===this.options.size&&this.tail){b-=this.tail;this.inTail= true}for(;a-- >e;)b+=this.dimension(this.get(a));this.prevFirst=this.first;this.prevLast=this.last;this.first=e;this.last=k;return b},animate:function(a,c){if(!(this.locked||this.animating)){this.animating=true;var b=this,d=function(){b.animating=false;a===0&&b.list.css(b.lt,0);if(!b.autoStopped&&(b.options.wrap=="circular"||b.options.wrap=="both"||b.options.wrap=="last"||b.options.size===null||b.last<b.options.size||b.last==b.options.size&&b.tail!==null&&!b.inTail))b.startAuto();b.buttons();b.notify("onAfterAnimation"); if(b.options.wrap=="circular"&&b.options.size!==null)for(var f=b.prevFirst;f<=b.prevLast;f++)if(f!==null&&!(f>=b.first&&f<=b.last)&&(f<1||f>b.options.size))b.remove(f)};this.notify("onBeforeAnimation");if(!this.options.animation||c===false){this.list.css(this.lt,a+"px");d()}else this.list.animate(!this.options.vertical?this.options.rtl?{right:a}:{left:a}:{top:a},this.options.animation,this.options.easing,d)}},startAuto:function(a){if(a!==undefined)this.options.auto=a;if(this.options.auto===0)return this.stopAuto(); if(this.timer===null){this.autoStopped=false;var c=this;this.timer=window.setTimeout(function(){c.next()},this.options.auto*1E3)}},stopAuto:function(){this.pauseAuto();this.autoStopped=true},pauseAuto:function(){if(this.timer!==null){window.clearTimeout(this.timer);this.timer=null}},buttons:function(a,c){if(a==null){a=!this.locked&&this.options.size!==0&&(this.options.wrap&&this.options.wrap!="first"||this.options.size===null||this.last<this.options.size);if(!this.locked&&(!this.options.wrap||this.options.wrap== "first")&&this.options.size!==null&&this.last>=this.options.size)a=this.tail!==null&&!this.inTail}if(c==null){c=!this.locked&&this.options.size!==0&&(this.options.wrap&&this.options.wrap!="last"||this.first>1);if(!this.locked&&(!this.options.wrap||this.options.wrap=="last")&&this.options.size!==null&&this.first==1)c=this.tail!==null&&this.inTail}var b=this;if(this.buttonNext.size()>0){this.buttonNext.unbind(this.options.buttonNextEvent+".jcarousel",this.funcNext);a&&this.buttonNext.bind(this.options.buttonNextEvent+ ".jcarousel",this.funcNext);this.buttonNext[a?"removeClass":"addClass"](this.className("jcarousel-next-disabled")).attr("disabled",a?false:true);this.options.buttonNextCallback!==null&&this.buttonNext.data("jcarouselstate")!=a&&this.buttonNext.each(function(){b.options.buttonNextCallback(b,this,a)}).data("jcarouselstate",a)}else this.options.buttonNextCallback!==null&&this.buttonNextState!=a&&this.options.buttonNextCallback(b,null,a);if(this.buttonPrev.size()>0){this.buttonPrev.unbind(this.options.buttonPrevEvent+ ".jcarousel",this.funcPrev);c&&this.buttonPrev.bind(this.options.buttonPrevEvent+".jcarousel",this.funcPrev);this.buttonPrev[c?"removeClass":"addClass"](this.className("jcarousel-prev-disabled")).attr("disabled",c?false:true);this.options.buttonPrevCallback!==null&&this.buttonPrev.data("jcarouselstate")!=c&&this.buttonPrev.each(function(){b.options.buttonPrevCallback(b,this,c)}).data("jcarouselstate",c)}else this.options.buttonPrevCallback!==null&&this.buttonPrevState!=c&&this.options.buttonPrevCallback(b, null,c);this.buttonNextState=a;this.buttonPrevState=c},notify:function(a){var c=this.prevFirst===null?"init":this.prevFirst<this.first?"next":"prev";this.callback("itemLoadCallback",a,c);if(this.prevFirst!==this.first){this.callback("itemFirstInCallback",a,c,this.first);this.callback("itemFirstOutCallback",a,c,this.prevFirst)}if(this.prevLast!==this.last){this.callback("itemLastInCallback",a,c,this.last);this.callback("itemLastOutCallback",a,c,this.prevLast)}this.callback("itemVisibleInCallback", a,c,this.first,this.last,this.prevFirst,this.prevLast);this.callback("itemVisibleOutCallback",a,c,this.prevFirst,this.prevLast,this.first,this.last)},callback:function(a,c,b,d,f,j,e){if(!(this.options[a]==null||typeof this.options[a]!="object"&&c!="onAfterAnimation")){var g=typeof this.options[a]=="object"?this.options[a][c]:this.options[a];if(i.isFunction(g)){var k=this;if(d===undefined)g(k,b,c);else if(f===undefined)this.get(d).each(function(){g(k,this,d,b,c)});else{a=function(m){k.get(m).each(function(){g(k, this,m,b,c)})};for(var l=d;l<=f;l++)l!==null&&!(l>=j&&l<=e)&&a(l)}}}},create:function(a){return this.format("<li></li>",a)},format:function(a,c){a=i(a);for(var b=a.get(0).className.split(" "),d=0;d<b.length;d++)b[d].indexOf("jcarousel-")!=-1&&a.removeClass(b[d]);a.addClass(this.className("jcarousel-item")).addClass(this.className("jcarousel-item-"+c)).css({"float":this.options.rtl?"right":"left","list-style":"none"}).attr("jcarouselindex",c);return a},className:function(a){return a+" "+a+(!this.options.vertical? "-horizontal":"-vertical")},dimension:function(a,c){var b=a.jquery!==undefined?a[0]:a,d=!this.options.vertical?(b.offsetWidth||h.intval(this.options.itemFallbackDimension))+h.margin(b,"marginLeft")+h.margin(b,"marginRight"):(b.offsetHeight||h.intval(this.options.itemFallbackDimension))+h.margin(b,"marginTop")+h.margin(b,"marginBottom");if(c==null||d==c)return d;d=!this.options.vertical?c-h.margin(b,"marginLeft")-h.margin(b,"marginRight"):c-h.margin(b,"marginTop")-h.margin(b,"marginBottom");i(b).css(this.wh, d+"px");return this.dimension(b)},clipping:function(){return!this.options.vertical?this.clip[0].offsetWidth-h.intval(this.clip.css("borderLeftWidth"))-h.intval(this.clip.css("borderRightWidth")):this.clip[0].offsetHeight-h.intval(this.clip.css("borderTopWidth"))-h.intval(this.clip.css("borderBottomWidth"))},index:function(a,c){if(c==null)c=this.options.size;return Math.round(((a-1)/c-Math.floor((a-1)/c))*c)+1}});h.extend({defaults:function(a){return i.extend(q,a||{})},margin:function(a,c){if(!a)return 0; var b=a.jquery!==undefined?a[0]:a;if(c=="marginRight"&&i.browser.safari){var d={display:"block","float":"none",width:"auto"},f,j;i.swap(b,d,function(){f=b.offsetWidth});d.marginRight=0;i.swap(b,d,function(){j=b.offsetWidth});return j-f}return h.intval(i.css(b,c))},intval:function(a){a=parseInt(a,10);return isNaN(a)?0:a}});i.fn.jcarousel=function(a){if(typeof a=="string"){var c=i(this).data("jcarousel"),b=Array.prototype.slice.call(arguments,1);return c[a].apply(c,b)}else return this.each(function(){i(this).data("jcarousel", new h(this,a))})}})(jQuery);
@@ -517,7 +517,7 @@ Our <strong>physical address</strong> is:<br>
 <div id="right" style="position:relative;">
 
 
-    <div class="right_box">
+    <div class="right_box ">
       <!--        <a style="outline: 0; display: block; margin-top: 35px;" target="_blank" href="http://www.expeditionaudio.com/">-->
 <!--        	<img width="200" src="/img/HBhomepage_ealogo.jpg">-->
 <!--        </a>-->
@@ -542,38 +542,38 @@ Our <strong>physical address</strong> is:<br>
 
   <script type="text/javascript">
 
-function mycarousel_initCallback_76(carousel) {
- jQuery('#mycarousel-76-next').bind('click', function() {
+function mycarousel_initCallback_25(carousel) {
+ jQuery('#mycarousel-25-next').bind('click', function() {
 carousel.next();
 return false;
 });
 
-jQuery('#mycarousel-76-prev').bind('click', function() {
+jQuery('#mycarousel-25-prev').bind('click', function() {
 carousel.prev();
 return false;
 });
 };
 
 jQuery(document).ready(function() {
-jQuery('#carousel-76').jcarousel({
+jQuery('#carousel-25').jcarousel({
 vertical: true,
 scroll: 3,
-initCallback: mycarousel_initCallback_76,
+initCallback: mycarousel_initCallback_25,
 buttonNextHTML: null,
 buttonPrevHTML: null
 });
 });
 
 </script>
-  <ul id="carousel-76" class="jcarousel jcarousel-skin-tango">
-  <!--Memcached Miss : 65406ea78e9197b832dd6b703e23d9ef--><li>
+  <ul id="carousel-25" class="jcarousel jcarousel-skin-tango">
+  <!--Memcached Miss : 0c193fa498645049d523598abe6d699e--><li>
 <!--<div>-->
-<a href="/album/2550399-mdr-leipzig-radio-symphony-orchestra-kristjan-jarvi-faure-quartett-piano-quartet-sven-helbig-pocket-symphonies.html"><img src="http://www1.hbdirect.com/coverm/99/2550399.jpg" width="75" height="75" id="a" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
+<a href="/album/2749744-cheyenne-jackson-alexandra-silber-michael-tilson-thomas-west-side-story.html"><img src="http://www1.hbdirect.com/coverm/44/2749744.jpg" width="75" height="75" id="a" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
 <span style="position: relative; padding-left: 6px; padding-top: 3px; float: left; width: 110px; height: 75px; overflow: hidden;">
-<a href="/album/2550399-mdr-leipzig-radio-symphony-orchestra-kristjan-jarvi-faure-quartett-piano-quartet-sven-helbig-pocket-symphonies.html">
-MDR Leipzig Rad...<br>
- Sven Helbig: Pocket Symphonies<br>
-<!--Memcached Miss : 6c3d2ce8fbc813c475299cff21906f78-->$<strike>20.98</strike>&nbsp;$16.87</a>
+<a href="/album/2749744-cheyenne-jackson-alexandra-silber-michael-tilson-thomas-west-side-story.html">
+Cheyenne Jackso...<br>
+ West Side Story<br>
+<!--Memcached Miss : d9df214d20f410be9ec8d6dc84a8f1e7-->$<strike>49.99</strike>&nbsp;$44.83</a>
 <br>
 <!--0-->
 <hr style="left: -75px; top: 78px; position: absolute;">
@@ -582,12 +582,12 @@ MDR Leipzig Rad...<br>
 </li>
 <li>
 <!--<div>-->
-<a href="/album/2499536-various-artists-soca-gold-2013.html"><img src="http://www2.hbdirect.com/coverm/36/2499536.jpg" width="75" height="75" id="b" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
+<a href="/album/2429971-ludovico-einaudi-composer-piano-in-a-time-lapse.html"><img src="http://www2.hbdirect.com/coverm/71/2429971.jpg" width="75" height="75" id="b" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
 <span style="position: relative; padding-left: 6px; padding-top: 3px; float: left; width: 110px; height: 75px; overflow: hidden;">
-<a href="/album/2499536-various-artists-soca-gold-2013.html">
-Various Artists<br>
- Soca Gold 2013<br>
-<!--Memcached Miss : 5734d7ee523dc26d5bd53bc76a749abc-->$<strike>18.48</strike>&nbsp;$15.47</a>
+<a href="/album/2429971-ludovico-einaudi-composer-piano-in-a-time-lapse.html">
+Ludovico Einaud...<br>
+ In a Time Lapse<br>
+<!--Memcached Miss : 0f3f7dc37a0de58d276df7d651e504e8-->$<strike>43.99</strike>&nbsp;$38.82</a>
 <br>
 <!--1-->
 <hr style="left: -75px; top: 78px; position: absolute;">
@@ -596,24 +596,24 @@ Various Artists<br>
 </li>
 <li>
 <!--<div>-->
-<a href="/album/2507028-mark-isaacs-children-s-songs-digipak-.html"><img src="http://www3.hbdirect.com/coverm/28/2507028.jpg" width="75" height="75" id="c" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
+<a href="/album/2166377-niyaz-sumud-digipak.html"><img src="http://www3.hbdirect.com/coverm/77/2166377.jpg" width="75" height="75" id="c" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
 <span style="position: relative; padding-left: 6px; padding-top: 3px; float: left; width: 110px; height: 75px; overflow: hidden;">
-<a href="/album/2507028-mark-isaacs-children-s-songs-digipak-.html">
-Mark Isaacs<br>
- Children's Songs [Digipak] *<br>
-<!--Memcached Miss : ec4625932c2ce7b64ec177892db855a0-->$<strike>18.49</strike>&nbsp;$15.93</a>
+<a href="/album/2166377-niyaz-sumud-digipak.html">
+Niyaz<br>
+ Sumud [Digipak]<br>
+<!--Memcached Miss : 302626739ee0a03f9e360d6abb396a75-->$<strike>17.48</strike>&nbsp;$14.73</a>
 <br>
 </span>
 <!--</div>-->
 </li>
 <li>
 <!--<div>-->
-<a href="/album/1269402-mark-fitz-gerald-shostakovich-the-girlfriends-salute-to-spain.html"><img src="http://www1.hbdirect.com/coverm/02/1269402.jpg" width="75" height="75" id="d" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
+<a href="/album/1932422-joey-rory-a-farmhouse-christmas-digipak.html"><img src="http://www1.hbdirect.com/coverm/22/1932422.jpg" width="75" height="75" id="d" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
 <span style="position: relative; padding-left: 6px; padding-top: 3px; float: left; width: 110px; height: 75px; overflow: hidden;">
-<a href="/album/1269402-mark-fitz-gerald-shostakovich-the-girlfriends-salute-to-spain.html">
-Mark Fitz-Geral...<br>
- Shostakovich: The Girlfriends; Salute to Spain<br>
-<!--Memcached Miss : f85ff1fa919b1a983b72a5058337f128-->$<strike>10.99</strike>&nbsp;$7.93</a>
+<a href="/album/1932422-joey-rory-a-farmhouse-christmas-digipak.html">
+Joey + Rory<br>
+ A Farmhouse Christmas [Digipak]<br>
+<!--Memcached Miss : 109c254c3bcd0e577407a0d98f10aa33-->$<strike>17.98</strike>&nbsp;$15.87</a>
 <br>
 <!--3-->
 <hr style="left: -75px; top: 78px; position: absolute;">
@@ -622,12 +622,12 @@ Mark Fitz-Geral...<br>
 </li>
 <li>
 <!--<div>-->
-<a href="/album/2192403-don-williams-and-so-it-goes.html"><img src="http://www2.hbdirect.com/coverm/03/2192403.jpg" width="75" height="75" id="e" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
+<a href="/album/33063-prokofiev-ivan-the-terrible-neeme-jaumlrvi-philharmonia-orchestra-et-al.html"><img src="http://www2.hbdirect.com/coverm/63/33063.jpg" width="75" height="75" id="e" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
 <span style="position: relative; padding-left: 6px; padding-top: 3px; float: left; width: 110px; height: 75px; overflow: hidden;">
-<a href="/album/2192403-don-williams-and-so-it-goes.html">
-Don Williams<br>
- And So It Goes<br>
-<!--Memcached Miss : 089aab24fe2d8e0b303cc786a1d72ccc-->$<strike>17.98</strike>&nbsp;$14.87</a>
+<a href="/album/33063-prokofiev-ivan-the-terrible-neeme-jaumlrvi-philharmonia-orchestra-et-al.html">
+Philharmonia Ch...<br>
+ Ivan the Terrible [Chandos]<br>
+<!--Memcached Miss : 965df2c07456c09a7150881ed311f9d4-->$<strike>14.99</strike>&nbsp;$12.34</a>
 <br>
 <!--4-->
 <hr style="left: -75px; top: 78px; position: absolute;">
@@ -636,24 +636,24 @@ Don Williams<br>
 </li>
 <li>
 <!--<div>-->
-<a href="/album/2177320-nino-rota-composer-collector-nino-rota.html"><img src="http://www3.hbdirect.com/coverm/20/2177320.jpg" width="75" height="75" id="f" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
+<a href="/album/1759381-willie-nelson-wynton-marsalis-here-we-go-again-celebrating-the-genius-of-ray-charles.html"><img src="http://www3.hbdirect.com/coverm/81/1759381.jpg" width="75" height="75" id="f" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
 <span style="position: relative; padding-left: 6px; padding-top: 3px; float: left; width: 110px; height: 75px; overflow: hidden;">
-<a href="/album/2177320-nino-rota-composer-collector-nino-rota.html">
-Nino Rota (Comp...<br>
- Collector Nino Rota<br>
-<!--Memcached Miss : 05503f6077ced119ba01b41dfb4f8318-->$<strike>21.99</strike>&nbsp;$17.23</a>
+<a href="/album/1759381-willie-nelson-wynton-marsalis-here-we-go-again-celebrating-the-genius-of-ray-charles.html">
+Willie Nelson/W...<br>
+ Here We Go Again: Celebrating the Genius of Ray Charles<br>
+<!--Memcached Miss : c8a5b46479ef60a85b1e59257af63544-->$<strike>7.48</strike>&nbsp;$6.63</a>
 <br>
 </span>
 <!--</div>-->
 </li>
 <li>
 <!--<div>-->
-<a href="/album/1874245-jasper-britton-roy-mcmillan-pirates.html"><img src="http://www1.hbdirect.com/coverm/45/1874245.jpg" width="75" height="75" id="g" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
+<a href="/album/1082361-susanna-and-the-magical-orchestra-3-digipak.html"><img src="http://www1.hbdirect.com/coverm/61/1082361.jpg" width="75" height="75" id="g" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
 <span style="position: relative; padding-left: 6px; padding-top: 3px; float: left; width: 110px; height: 75px; overflow: hidden;">
-<a href="/album/1874245-jasper-britton-roy-mcmillan-pirates.html">
-Jasper Britton/...<br>
- Pirates!<br>
-<!--Memcached Miss : da676b8336af49ee1eb7a79c6d959883-->$<strike>15.99</strike>&nbsp;$11.54</a>
+<a href="/album/1082361-susanna-and-the-magical-orchestra-3-digipak.html">
+Susanna and the...<br>
+ 3 [Digipak]<br>
+<!--Memcached Miss : 66d74e35ec94726a62e4b4a38dd5a0ac-->$<strike>20.99</strike>&nbsp;$17.97</a>
 <br>
 <!--6-->
 <hr style="left: -75px; top: 78px; position: absolute;">
@@ -662,12 +662,12 @@ Jasper Britton/...<br>
 </li>
 <li>
 <!--<div>-->
-<a href="/album/2030093-mervyn-peake-maeve-gilmore-gormenghast-trilogy-with-titus.html"><img src="http://www2.hbdirect.com/coverm/93/2030093.jpg" width="75" height="75" id="h" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
+<a href="/album/1302885-anais-mitchell-hadestown-digipak.html"><img src="http://www2.hbdirect.com/coverm/85/1302885.jpg" width="75" height="75" id="h" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
 <span style="position: relative; padding-left: 6px; padding-top: 3px; float: left; width: 110px; height: 75px; overflow: hidden;">
-<a href="/album/2030093-mervyn-peake-maeve-gilmore-gormenghast-trilogy-with-titus.html">
-Mervyn Peake/Ma...<br>
- Gormenghast Trilogy with Titus<br>
-<!--Memcached Miss : eab5f31885fe61cece95e2f9253ce076-->$<strike>74.49</strike>&nbsp;$53.78</a>
+<a href="/album/1302885-anais-mitchell-hadestown-digipak.html">
+Anais Mitchell<br>
+ Hadestown [Digipak]<br>
+<!--Memcached Miss : 8f9cd2c7d1207989310036c0019c8898-->$<strike>18.49</strike>&nbsp;$15.67</a>
 <br>
 <!--7-->
 <hr style="left: -75px; top: 78px; position: absolute;">
@@ -676,24 +676,24 @@ Mervyn Peake/Ma...<br>
 </li>
 <li>
 <!--<div>-->
-<a href="/album/1930167-an-appalachian-christmas-mark-o-connor-renee-fleming-yo-yo-ma-james-taylor-et-al.html"><img src="http://www3.hbdirect.com/coverm/67/1930167.jpg" width="75" height="75" id="i" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
+<a href="/album/946299-so-percussion-amid-the-noise.html"><img src="http://www3.hbdirect.com/coverm/99/946299.jpg" width="75" height="75" id="i" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
 <span style="position: relative; padding-left: 6px; padding-top: 3px; float: left; width: 110px; height: 75px; overflow: hidden;">
-<a href="/album/1930167-an-appalachian-christmas-mark-o-connor-renee-fleming-yo-yo-ma-james-taylor-et-al.html">
-Mark O'Connor (...<br>
- An Appalachian Christmas [Digipak]<br>
-<!--Memcached Miss : ace4d8b766dbb247ba5d47585cbb1873-->$<strike>12.49</strike>&nbsp;$9.42</a>
+<a href="/album/946299-so-percussion-amid-the-noise.html">
+So Percussion<br>
+ Amid the Noise<br>
+<!--Memcached Miss : 0aa1000e9c4fd1095c0f363153c16617-->$<strike>18.99</strike>&nbsp;$16.14</a>
 <br>
 </span>
 <!--</div>-->
 </li>
 <li>
 <!--<div>-->
-<a href="/album/1730534-north-mississippi-allstars-keys-to-the-kingdom-digipak.html"><img src="http://www1.hbdirect.com/coverm/34/1730534.jpg" width="75" height="75" id="j" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
+<a href="/album/1566457-various-artists-putumayo-presents-yoga-digipak.html"><img src="http://www1.hbdirect.com/coverm/57/1566457.jpg" width="75" height="75" id="j" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
 <span style="position: relative; padding-left: 6px; padding-top: 3px; float: left; width: 110px; height: 75px; overflow: hidden;">
-<a href="/album/1730534-north-mississippi-allstars-keys-to-the-kingdom-digipak.html">
-North Mississip...<br>
- Keys to the Kingdom [Digipak]<br>
-<!--Memcached Miss : eefaa63115369764de03c1c0bc979870-->$<strike>16.99</strike>&nbsp;$13.23</a>
+<a href="/album/1566457-various-artists-putumayo-presents-yoga-digipak.html">
+Various Artists<br>
+ Putumayo Presents: Yoga [Digipak]<br>
+<!--Memcached Miss : fc52af4bdb6bd7e22ca8cf30de4e37d0-->$<strike>17.49</strike>&nbsp;$14.72</a>
 <br>
 <!--9-->
 <hr style="left: -75px; top: 78px; position: absolute;">
@@ -702,12 +702,12 @@ North Mississip...<br>
 </li>
 <li>
 <!--<div>-->
-<a href="/album/1566457-various-artists-putumayo-presents-yoga-digipak.html"><img src="http://www2.hbdirect.com/coverm/57/1566457.jpg" width="75" height="75" id="k" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
+<a href="/album/1086701-chris-tomlin-glory-in-the-highest-christmas-songs-of-worship.html"><img src="http://www2.hbdirect.com/coverm/01/1086701.jpg" width="75" height="75" id="k" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
 <span style="position: relative; padding-left: 6px; padding-top: 3px; float: left; width: 110px; height: 75px; overflow: hidden;">
-<a href="/album/1566457-various-artists-putumayo-presents-yoga-digipak.html">
-Various Artists<br>
- Putumayo Presents: Yoga [Digipak]<br>
-<!--Memcached Miss : 6686f3b1267fc63704ae10b553c797ef-->$<strike>17.49</strike>&nbsp;$13.97</a>
+<a href="/album/1086701-chris-tomlin-glory-in-the-highest-christmas-songs-of-worship.html">
+Chris Tomlin<br>
+ Glory in the Highest: Christmas Songs of Worship<br>
+<!--Memcached Miss : 352970b7496c4dbfc82475fc12973ba9-->$<strike>13.98</strike>&nbsp;$11.38</a>
 <br>
 <!--10-->
 <hr style="left: -75px; top: 78px; position: absolute;">
@@ -716,24 +716,24 @@ Various Artists<br>
 </li>
 <li>
 <!--<div>-->
-<a href="/album/1363674-various-artists-now-vol-34-us.html"><img src="http://www3.hbdirect.com/coverm/74/1363674.jpg" width="75" height="75" id="l" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
+<a href="/album/1041179-casting-crowns-peace-on-earth.html"><img src="http://www3.hbdirect.com/coverm/79/1041179.jpg" width="75" height="75" id="l" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
 <span style="position: relative; padding-left: 6px; padding-top: 3px; float: left; width: 110px; height: 75px; overflow: hidden;">
-<a href="/album/1363674-various-artists-now-vol-34-us.html">
-Various Artists<br>
- Now, Vol. 34 [US]<br>
-<!--Memcached Miss : 4a5e0f1eb563c4e179c1c5f8f9b46dfc-->$<strike>20.98</strike>&nbsp;$16.87</a>
+<a href="/album/1041179-casting-crowns-peace-on-earth.html">
+Casting Crowns<br>
+ Peace on Earth<br>
+<!--Memcached Miss : 94c1cdcd6b255ef964c726972f5040a2-->$<strike>15.99</strike>&nbsp;$13.29</a>
 <br>
 </span>
 <!--</div>-->
 </li>
 <li>
 <!--<div>-->
-<a href="/album/1643903-various-artists-now-vol-36.html"><img src="http://www1.hbdirect.com/coverm/03/1643903.jpg" width="75" height="75" id="m" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
+<a href="/album/1660473-larry-the-cable-guy-the-best-of-larry-the-cable-guy-.html"><img src="http://www1.hbdirect.com/coverm/73/1660473.jpg" width="75" height="75" id="m" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
 <span style="position: relative; padding-left: 6px; padding-top: 3px; float: left; width: 110px; height: 75px; overflow: hidden;">
-<a href="/album/1643903-various-artists-now-vol-36.html">
-Various Artists<br>
- Now, Vol. 36<br>
-<!--Memcached Miss : d1b70e03b331319f27dea8f913c96526-->$<strike>20.98</strike>&nbsp;$16.87</a>
+<a href="/album/1660473-larry-the-cable-guy-the-best-of-larry-the-cable-guy-.html">
+Larry the Cable...<br>
+ The  Best of Larry the Cable Guy *<br>
+<!--Memcached Miss : 27bf20f2a2a5561f05369f0b877e9c44-->$<strike>15.99</strike>&nbsp;$13.29</a>
 <br>
 <!--12-->
 <hr style="left: -75px; top: 78px; position: absolute;">
@@ -742,12 +742,12 @@ Various Artists<br>
 </li>
 <li>
 <!--<div>-->
-<a href="/album/1311484-robin-williams-comedy-weapons-of-self-destruction-dvd-pa-.html"><img src="http://www2.hbdirect.com/coverm/84/1311484.jpg" width="53" height="75" id="n" style="float:left; padding-left: 11px; border: solid 1px black ; padding-right: 11px;"></a>
+<a href="/album/1091369-weird-al-yankovic-the-essential-weird-al-yankovic.html"><img src="http://www2.hbdirect.com/coverm/69/1091369.jpg" width="75" height="75" id="n" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
 <span style="position: relative; padding-left: 6px; padding-top: 3px; float: left; width: 110px; height: 75px; overflow: hidden;">
-<a href="/album/1311484-robin-williams-comedy-weapons-of-self-destruction-dvd-pa-.html">
-Robin Williams ...<br>
- Weapons of Self Destruction [DVD] [PA] *<br>
-<!--Memcached Miss : 1b866b6860e11ba2e136c7795a104527-->$<strike>18.99</strike>&nbsp;$14.87</a>
+<a href="/album/1091369-weird-al-yankovic-the-essential-weird-al-yankovic.html">
+Weird Al Yankov...<br>
+ The Essential Weird Al Yankovic<br>
+<!--Memcached Miss : 9dee8602cf67d60c9a7d1bc9e0803664-->$<strike>18.99</strike>&nbsp;$16.14</a>
 <br>
 <!--13-->
 <hr style="left: -75px; top: 78px; position: absolute;">
@@ -756,24 +756,24 @@ Robin Williams ...<br>
 </li>
 <li>
 <!--<div>-->
-<a href="/album/1660473-larry-the-cable-guy-the-best-of-larry-the-cable-guy-.html"><img src="http://www3.hbdirect.com/coverm/73/1660473.jpg" width="75" height="75" id="o" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
+<a href="/album/1026555-jersey-babys-jersey-babys-the-music-of-frankie-valli-the-four-seasons-for-kids.html"><img src="http://www3.hbdirect.com/coverm/55/1026555.jpg" width="75" height="75" id="o" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
 <span style="position: relative; padding-left: 6px; padding-top: 3px; float: left; width: 110px; height: 75px; overflow: hidden;">
-<a href="/album/1660473-larry-the-cable-guy-the-best-of-larry-the-cable-guy-.html">
-Larry the Cable...<br>
- The  Best of Larry the Cable Guy *<br>
-<!--Memcached Miss : 5295208da245ecbee44411e1063a8441-->$<strike>15.99</strike>&nbsp;$11.87</a>
+<a href="/album/1026555-jersey-babys-jersey-babys-the-music-of-frankie-valli-the-four-seasons-for-kids.html">
+Jersey Babys<br>
+ Jersey Babys: The Music of Frankie Valli &amp; The Four Seasons...<br>
+<!--Memcached Miss : ff7ca35af39f54df783259eac9e4adf8-->$<strike>15.99</strike>&nbsp;$13.29</a>
 <br>
 </span>
 <!--</div>-->
 </li>
 <li>
 <!--<div>-->
-<a href="/album/1270752-charlie-alterman-next-to-normal-original-broadway-cast-recording.html"><img src="http://www1.hbdirect.com/coverm/52/1270752.jpg" width="75" height="75" id="p" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
+<a href="/album/1373032-hillsong-a-beautiful-exchange.html"><img src="http://www1.hbdirect.com/coverm/32/1373032.jpg" width="75" height="75" id="p" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
 <span style="position: relative; padding-left: 6px; padding-top: 3px; float: left; width: 110px; height: 75px; overflow: hidden;">
-<a href="/album/1270752-charlie-alterman-next-to-normal-original-broadway-cast-recording.html">
-Charlie Alterma...<br>
- Next to Normal [Original Broadway Cast Recording]<br>
-<!--Memcached Miss : 915424a01c028f534201dbbd4c20ef86-->$<strike>22.99</strike>&nbsp;$18.38</a>
+<a href="/album/1373032-hillsong-a-beautiful-exchange.html">
+Hillsong<br>
+ A  Beautiful Exchange<br>
+<!--Memcached Miss : 6950c1ec03a707695b317fa08035ebfb-->$<strike>17.48</strike>&nbsp;$14.73</a>
 <br>
 <!--15-->
 <hr style="left: -75px; top: 78px; position: absolute;">
@@ -782,12 +782,12 @@ Charlie Alterma...<br>
 </li>
 <li>
 <!--<div>-->
-<a href="/album/1308203-smokie-norful-contemporary-gospel-worship-a-word-according-to-your-faith.html"><img src="http://www2.hbdirect.com/coverm/03/1308203.jpg" width="75" height="75" id="q" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
+<a href="/album/1356287-voices-of-unity-blessed-cursed.html"><img src="http://www2.hbdirect.com/coverm/87/1356287.jpg" width="75" height="75" id="q" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
 <span style="position: relative; padding-left: 6px; padding-top: 3px; float: left; width: 110px; height: 75px; overflow: hidden;">
-<a href="/album/1308203-smokie-norful-contemporary-gospel-worship-a-word-according-to-your-faith.html">
-Smokie Norful (...<br>
- Worship &amp; a Word: According to Your Faith<br>
-<!--Memcached Miss : cead40f86d0a7c36bac64596aca35e3c-->$<strike>7.98</strike>&nbsp;$5.68</a>
+<a href="/album/1356287-voices-of-unity-blessed-cursed.html">
+Voices of Unity<br>
+ Blessed &amp; Cursed<br>
+<!--Memcached Miss : d1e184183f2cbe142255f2b6aa60c949-->$<strike>12.99</strike>&nbsp;$10.44</a>
 <br>
 <!--16-->
 <hr style="left: -75px; top: 78px; position: absolute;">
@@ -796,19 +796,19 @@ Smokie Norful (...<br>
 </li>
 <li>
 <!--<div>-->
-<a href="/album/1572807-lee-williams-through-the-years.html"><img src="http://www3.hbdirect.com/coverm/07/1572807.jpg" width="75" height="75" id="r" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
+<a href="/album/1348353-cece-winans-songs-of-emotional-healing.html"><img src="http://www3.hbdirect.com/coverm/53/1348353.jpg" width="75" height="75" id="r" style="float:left; padding-left: 0px; border: solid 1px black ; padding-right: 0px;"></a>
 <span style="position: relative; padding-left: 6px; padding-top: 3px; float: left; width: 110px; height: 75px; overflow: hidden;">
-<a href="/album/1572807-lee-williams-through-the-years.html">
-Lee Williams<br>
- Through the Years<br>
-<!--Memcached Miss : 5a965b071f67aadba15298d8ffcbfb69-->$<strike>15.99</strike>&nbsp;$11.87</a>
+<a href="/album/1348353-cece-winans-songs-of-emotional-healing.html">
+CeCe Winans<br>
+ Songs of Emotional Healing<br>
+<!--Memcached Miss : 0909ed0ab607071326c7587a9a2b3b71-->$<strike>10.98</strike>&nbsp;$9.48</a>
 <br>
 </span>
 <!--</div>-->
 </li>
 
   </ul>
-<a href="#" id="mycarousel-76-prev" style="display : inline;"><img src="/images/bestsellers_prev.png" style="margin-top: 7px;"></a><a href="#" id="mycarousel-76-next" style="display : inline;"><img src="/images/bestsellers_next.png"></a>
+<a href="#" id="mycarousel-25-prev" style="display : inline;"><img src="/images/bestsellers_prev.png" style="margin-top: 7px;"></a><a href="#" id="mycarousel-25-next" style="display : inline;"><img src="/images/bestsellers_next.png"></a>
 </div>
 
 <div class="right_box">
@@ -860,8 +860,8 @@ Lee Williams<br>
                 </p>
 
 
-                <p>© 2000-2014 HBDirect.com, LLC. All rights reserved.
-                © 1948-2014 (Data) Muze, Inc. For personal use only. All rights reserved.</p>
+                <p>© 2000-2015 HBDirect.com, LLC. All rights reserved.
+                © 1948-2015 (Data) Muze, Inc. For personal use only. All rights reserved.</p>
                 </div>
                 <div class="footer_right">
         
@@ -874,6 +874,7 @@ Lee Williams<br>
 </div>
 
 <script type="text/javascript">
+  __adroll_loaded=false;
   adroll_adv_id = "LPFL4SX3DZFEPOIRB6KBJR";
   adroll_pix_id = "IW5BC5LSUBFAVHNSIOXQWA";
   (function () {
