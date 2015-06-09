@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sneakerfreaker.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229195042id_/http%3A//www.sneakerfreaker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sneakerfreaker.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610001520id_/http%3A//www.sneakerfreaker.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Sneaker Freaker
+# Privacy Policy - Sneaker Freaker
 
 Sneaker Freaker Pty Ltd (SNKRFRKR) is committed to protecting the privacy of our end users of SNKRFRKR’ content. SNKRFRKR endeavors to provide a safe and secure environment for end users. The purpose of this privacy policy is to inform you, as a SNKRFRKR user, what kinds of information we may gather about you when you visit www.sneakerfreaker.com, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. This privacy policy applies to any other Internet-accessible SNKRFRKR-branded services that incorporate this policy. Please note that this policy applies only to www.sneakerfreaker.com, and not to other companies’ or organizations’ Web sites to which we link.
 
