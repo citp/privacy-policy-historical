@@ -1,27 +1,37 @@
-<!--The following is the downloaded HTML source of the styletag.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626050247id_/http%3A//www.styletag.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the styletag.com privacy policy that was archived on 2015-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610001329id_/http%3A//www.styletag.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head data-hook="inside_head">
-<script type="text/javascript" async="" src="//google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://chuknu.sokrati.com/201/tracker.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"4419c5bff0","applicationID":"2849900","transactionName":"clsNQhQKD10DShZGQkNRBhkVEQJFD1tmVl1fQAZYEkoQWQlP","queueTime":0,"applicationTime":75,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgICUV9XGwEIUFhbBwE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
+<!-- Microdata markup added by Google Structured Data Markup Helper. -->
 <title>Privacy - Styletag</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script src="https://script.crazyegg.com/pages/scripts/0034/1319.js?439539" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script src="http://live.instaclique.com/js/production/ic-widget-styletag-live-min.js" id="ic-widget-js" async=""></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"4419c5bff0","applicationID":"5604034","transactionName":"clsNQhQKD10DShZGQkNRBhkVEQJFD1tmVl1fQAZYEkoQWQlP","queueTime":0,"applicationTime":48,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-632.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
 <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1" name="viewport">
 
-<link href="http://s3-ap-southeast-1.amazonaws.com/st-public/assets/favicon-dcfdb4f003e2f11a51adf8426ef96106.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
-<link href="http://s3-ap-southeast-1.amazonaws.com/st-public/assets/store/all-a4734f0ade74c202f782d5c1c29c8679.css" media="screen" rel="stylesheet" type="text/css">
-<meta content="authenticity_token" name="csrf-param">
-<meta content="TBmct0uK67UB18aJ+xqn5xi0jmur1T6KWRpIgAEXBbc=" name="csrf-token">
-<script src="http://s3-ap-southeast-1.amazonaws.com/st-public/assets/store/all-e05ce18844776d7c627f0be9f6073f9d.js" type="text/javascript"></script>
+<link href="http://assets.styletagassets.com/assets/favicon-9914591be2258eb4911adf3076c45422.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+<link href="http://assets.styletagassets.com/assets/store/all-ace67546a5d985e107f9a45c9604e314.css" media="screen" rel="stylesheet" type="text/css">
 <!--[if lt IE 9]>
-  <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6/html5shiv.min.js"></script>
+	<script src="http://assets.styletagassets.com/assets/selectivizr-cf9e8edb5106d12788d67a75823dd2ae.js" type="text/javascript"></script>
+	<style type="text/css">
+		@page{margin:0px !important;}
+		.filter-form .custom-checkbox label::before  {
+	    display: none;
+	  }
+	</style>
 <![endif]-->
+<!--[if lte IE 9]>
+	<link rel="stylesheet" type="text/css" href="https://s3.amazonaws.com/assets.styletagassets.com/assets/all_ie.css">
+<![endif]-->
+<script src="http://assets.styletagassets.com/assets/modernizr-0d6ac57b4ff614cec9f20c2de0e69b53.js" type="text/javascript"></script>
+<script src="http://assets.styletagassets.com/assets/store/all-8d04e684521a3cf29f4823b96d611d57.js" type="text/javascript"></script>
+<script async="" type="text/javascript" src="https://app.purechat.com/VisitorWidget/WidgetScript"></script></head><body id="static_content"><a href="https://plus.google.com/103797838552569636494" rel="publisher"></a>
       <meta name="title" content="Privacy">
     <meta name="keywords" content="">
     <meta name="description" content="">
-
 
   
 
@@ -40,6 +50,26 @@ var google_remarketing_only = true;
 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/978626486/?value=0&amp;guid=ON&amp;script=0">
 </div>
 </noscript>
+
+<!-- Instaclique snippet starts -->
+<div id="ic_common_placeholder_for_side_divs"> </div>
+<script type="text/javascript">
+    window.instaCliqueAsyncInit = function() {
+	instaClique.widget.helperIcAsyncInit({
+		store_fb_app_id: 119898908095465
+	} ); 
+    };
+   (function(w, d, s) {
+	var load = function(url, id) {
+  	     var js, fjs = d.getElementsByTagName(s)[0];
+	     if (d.getElementById(id)) {  return;  }
+	     js = d.createElement(s); js.src = url; js.id = id; js.async = true;
+	     fjs.parentNode.insertBefore(js, fjs);
+	};
+load('http://live.instaclique.com/js/production/ic-widget-styletag-live-min.js', 'ic-widget-js');
+   }(window, document, 'script'));
+</script>
+<!-- Instaclique snippet ends -->
 
 <!-- custom audience code-->
 <script>(function() {
@@ -72,392 +102,758 @@ ga('send', 'pageview');
 
 </script>
 
-<!--- Sokrati Pixle --->
+<!--Crazy Egg tracking code -->
 <script type="text/javascript">
- (function() {
-var a = document.createElement('script');a.type = 'text/javascript'; a.async = true; 
-a.src=('https:'==document.location.protocol?'https://':'http://cdn.')+'chuknu.sokrati.com/201/tracker.js'; 
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(a, s);
- })();
-</script>
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0034/1319.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>       
 
-</head>
-  <body id="static_content">
-  <script type="text/javascript">
-    $(document).ready(function(){ 
-      
-      $(window).scroll(function(){
-          if ($(this).scrollTop() > 100) {
-              $('.scrollup').fadeIn();
-          } else {
-              $('.scrollup').fadeOut();
-          }
-      }); 
 
-      $('.scrollup').click(function(){
-          $("html, body").animate({ scrollTop: 0 }, 600);
-          return false;
-      });
-    });
-  </script>
-  <header id="header">
-  <div id="logo-bar" class="container-fluid row-fluid pad-bottom">
-    </div>
+
   
-  <div class="navbar navbar-fixed-top">
-    <div class="navbar-inner">
-      <div class="container-fluid">
-        <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
+  <div class="container-fluid-wrap">
+    <div class="row row-offcanvas row-offcanvas-left" style="margin-bottom:0px !important;">
+      <script type="text/javascript">
+        $(document).ready(function() {
+          $(window).scroll(function() {
+            if ($(this).scrollTop() > 100) {
+              $('.scrollup').fadeIn();
+            } else {
+              $('.scrollup').fadeOut();
+            }
+          });
+
+          $('.scrollup').click(function() {
+            $("html, body").animate({scrollTop: 0}, 600);
+            return false;
+          });
+          // mobile -only
+          if ($(window).width() < 768) {
+            $(window).scroll(function() {
+              if ($(this).scrollTop() > 100) {
+                $('.scrollup-mobile').fadeIn();
+              } else {
+                $('.scrollup-mobile').fadeOut();
+              }
+            });
+
+            $('.scrollup-mobile').click(function() {
+              $("html, body").animate({scrollTop: 0}, 600);
+              return false;
+            });
+          }
+        });
+      </script>
+      <div class="non-footer">
+        <div class="main-non-footer">
+          <header id="header">
+  <!-- logo and cart -->
+  <div id="logo-bar" class="container-fluid row-fluid pad-bottom">
+  </div>
+  <div class="hidden-desktop">
+  <div class="navbar navbar-default" role="navigation" style="position: absolute;top: 14px;">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="offcanvas" data-target=".navbar-collapse">
         </button>
-        <div class="nav-collapse collapse">
-          <ul class="nav" role="navigation">
-            <li class="dropdown"><a href="/newin">New in</a><ul class="dropdown-menu"><li><ul><li role="presentation">
-      <a href="/sales/t/designers/lifestyle/home-decor/renata-flat-499" role="menuitem" tabindex="1">Renata LED Lights : Flat Rs 499</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/footwear/kraft-cellar" role="menuitem" tabindex="2">Kraft Cellar</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/lifestyle/house-keeping/flat-399" role="menuitem" tabindex="3">My Gift Booth Organisers : Flat Rs 399</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/lifestyle/home-decor/goyal-india-wall-decor" role="menuitem" tabindex="4">Goyal India : Wall Decor</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/western-apparel/sonyavembjul" role="menuitem" tabindex="5">Sonya for Vemb</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/ethnic-apparel/cine-suits-june-new" role="menuitem" tabindex="6">Cine Suits: Flat Rs 1999</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/ethnic-apparel/summer-contours" role="menuitem" tabindex="7">Summer Contours</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/ethnic-apparel/casual-opulence" role="menuitem" tabindex="8">Casual Opulence</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/ethnic-apparel/sarees-flat-sale" role="menuitem" tabindex="9">Sarees: Flat Rs 799</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/ethnic-apparel/casual-kurtis-sale-event" role="menuitem" tabindex="10">Casual kurtis</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/ethnic-apparel/chanderi-magic" role="menuitem" tabindex="11">Chanderi Magic</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/ethnic-apparel/drape-galore-fas" role="menuitem" tabindex="12">Drape Galore</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/ethnic-apparel/anarkali-fest-june" role="menuitem" tabindex="13">Anarkali Zest</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/accessories/cerise" role="menuitem" tabindex="14">Cerise</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/ethnic-apparel/lawn-collection-new" role="menuitem" tabindex="15">The Lawn Collection</a> 
-    </li><li role="presentation">
-      <p class="view-all-nav"><a href="/sales" role="menuitem" style="color:#c30;">View all sales &gt;&gt;</a></p> 
-    </li></ul></li></ul></li><li class="dropdown"><a href="/sales">All sales</a><ul class="dropdown-menu"><li><ul class="pull-left">
-      <li role="presentation">
-        <p class="nav-heading">
-          Category
-        </p>
-      </li><li role="presentation">
-      <a href="/sales/t/designers/women" role="menuitem" tabindex="1">women</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/lifestyle" role="menuitem" tabindex="2">home &amp; lifestyle</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/men" role="menuitem" tabindex="3">men</a> 
-    </li><li role="presentation">
-      <a href="/category/accessories" role="menuitem" tabindex="1">accessories</a> 
-    </li><li role="presentation">
-      <a href="/category/apparel" role="menuitem" tabindex="2">apparel</a> 
-    </li><li role="presentation">
-      <a href="/category/bath" role="menuitem" tabindex="3">bath</a> 
-    </li><li role="presentation">
-      <a href="/category/carnival gala" role="menuitem" tabindex="4">carnival gala</a> 
-    </li><li role="presentation">
-      <a href="/category/footwear" role="menuitem" tabindex="5">footwear</a> 
-    </li><li role="presentation">
-      <a href="/category/gadgets &amp; phone accessories" role="menuitem" tabindex="6">gadgets &amp; phone accessories</a> 
-    </li><li role="presentation">
-      <a href="/category/gifts &amp; stationery" role="menuitem" tabindex="7">gifts &amp; stationery</a> 
-    </li><li role="presentation">
-      <a href="/category/grooming" role="menuitem" tabindex="8">grooming</a> 
-    </li><li role="presentation">
-      <a href="/category/handbags" role="menuitem" tabindex="9">handbags</a> 
-    </li><li role="presentation">
-      <a href="/category/health &amp; wellness" role="menuitem" tabindex="10">health &amp; wellness</a> 
-    </li><li role="presentation">
-      <a href="/category/home decor" role="menuitem" tabindex="11">home decor</a> 
-    </li><li role="presentation">
-      <a href="/category/home furnishing" role="menuitem" tabindex="12">home furnishing</a> 
-    </li><li role="presentation">
-      <a href="/category/house keeping" role="menuitem" tabindex="13">house keeping</a> 
-    </li><li role="presentation">
-      <a href="/category/jewellery" role="menuitem" tabindex="14">jewellery</a> 
-    </li><li role="presentation">
-      <a href="/category/kitchen &amp; dining" role="menuitem" tabindex="15">kitchen &amp; dining</a> 
-    </li></ul><ul class="pull-left">
-      <li role="presentation">
-        <p class="nav-heading">
-          Sale
-        </p>
-      </li><li role="presentation">
-      <a href="/sales/t/designers/women/ethnic-apparel/sale-kurtis-and-leggings" role="menuitem" tabindex="1">Sale - Kurtis and Leggings</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/western-apparel/sale-dresses" role="menuitem" tabindex="2">Sale Dresses</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/jewellery/hayabyshubhi" role="menuitem" tabindex="3">Jewellery By Shubhi Kansal</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/jewellery/panache" role="menuitem" tabindex="4">Panache</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/western-apparel/kazo" role="menuitem" tabindex="5">Kazo: Buy 1 Get 2 Free</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/jewellery/chahaatnecklace-sept" role="menuitem" tabindex="6">Chaahat Necklace</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/jewellery/chaahat-bangles" role="menuitem" tabindex="7">Chaahat Bangles &amp; Earrings</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/handbags/beachbags" role="menuitem" tabindex="8">Wonder Bag</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/grooming/express-sale-womens-grooming" role="menuitem" tabindex="9">Women's Grooming</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/footwear/rinaldi-oct" role="menuitem" tabindex="10">Rinaldi</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/western-apparel/vero-couture" role="menuitem" tabindex="11">Vero Couture : Buy 1 Get 1 Free</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/footwear/zubiya" role="menuitem" tabindex="12">Zubiya By P.Gusain Arts</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/ethnic-apparel/tinsel-townold" role="menuitem" tabindex="13">Tinsel Town</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/accessories/nunettescombined" role="menuitem" tabindex="14">Nunettes</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/footwear/tipsie-toes" role="menuitem" tabindex="15">Tipsie Toes</a> 
-    </li><li role="presentation">
-      <p class="view-all-nav"><a href="/sales" role="menuitem" style="color:#c30;">View all sales &gt;&gt;</a></p> 
-    </li></ul></li></ul></li><li class="dropdown"><a href="/sales/t/designers/women">women</a><ul class="dropdown-menu"><li><ul class="pull-left">
-      <li role="presentation">
-        <p class="nav-heading">
-          Category
-        </p>
-      </li><li role="presentation">
-      <a href="/sales/t/designers/women/accessories" role="menuitem" tabindex="1">accessories</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/ethnic-apparel" role="menuitem" tabindex="2">ethnic apparel</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/footwear" role="menuitem" tabindex="3">footwear</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/grooming" role="menuitem" tabindex="4">grooming</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/handbags" role="menuitem" tabindex="5">handbags</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/jewellery" role="menuitem" tabindex="6">jewellery</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/swimwear" role="menuitem" tabindex="7">swimwear</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/western-apparel" role="menuitem" tabindex="8">western apparel</a> 
-    </li></ul><ul class="pull-left">
-      <li role="presentation">
-        <p class="nav-heading">
-          Sale
-        </p>
-      </li><li role="presentation">
-      <a href="/sales/t/designers/women/western-apparel/sonyavembjul" role="menuitem" tabindex="1">Sonya for Vemb</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/jewellery/rosette" role="menuitem" tabindex="2">Rosette</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/ethnic-apparel/summer-contours" role="menuitem" tabindex="3">Summer Contours</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/ethnic-apparel/cine-suits-june-new" role="menuitem" tabindex="4">Cine Suits: Flat Rs 1999</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/ethnic-apparel/casual-opulence" role="menuitem" tabindex="5">Casual Opulence</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/ethnic-apparel/sarees-flat-sale" role="menuitem" tabindex="6">Sarees: Flat Rs 799</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/footwear/gush-accessories-footwear" role="menuitem" tabindex="7">Gush Accessories Footwear</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/ethnic-apparel/tinsel-townold" role="menuitem" tabindex="8">Tinsel Town</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/jewellery/levitate" role="menuitem" tabindex="9">Levitate</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/accessories/levitateaccessories" role="menuitem" tabindex="10">Levitate Accessories</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/ethnic-apparel/drape-galore-fas" role="menuitem" tabindex="11">Drape Galore</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/footwear/kraft-cellar" role="menuitem" tabindex="12">Kraft Cellar</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/handbags/holii" role="menuitem" tabindex="13">Leather Handbags- Holii</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/ethnic-apparel/anarkali-fest-june" role="menuitem" tabindex="14">Anarkali Zest</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/handbags/nova-voce" role="menuitem" tabindex="15">Nova Voce</a> 
-    </li><li role="presentation">
-      <p class="view-all-nav"><a href="/sales/t/designers/women" role="menuitem" style="color:#c30;">View all sales &gt;&gt;</a></p> 
-    </li></ul></li></ul></li><li class="dropdown"><a href="/sales/t/designers/men">men</a><ul class="dropdown-menu"><li><ul class="pull-left">
-      <li role="presentation">
-        <p class="nav-heading">
-          Category
-        </p>
-      </li><li role="presentation">
-      <a href="/sales/t/designers/men/accessories" role="menuitem" tabindex="1">accessories</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/men/apparel" role="menuitem" tabindex="2">apparel</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/men/footwear" role="menuitem" tabindex="3">footwear</a> 
-    </li></ul><ul class="pull-left">
-      <li role="presentation">
-        <p class="nav-heading">
-          Sale
-        </p>
-      </li><li role="presentation">
-      <a href="/sales/t/designers/men/footwear/kewl-in-style-april" role="menuitem" tabindex="1">KEWL INSTYLE</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/men/footwear/kewl-in-style-june" role="menuitem" tabindex="2">Loafers by KEWL INSTYLE</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/men/apparel/sabudana-feb" role="menuitem" tabindex="3">Sabudana</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/men/footwear/casual-footwear-at-rs-599" role="menuitem" tabindex="4">Casual Footwear at Rs 599</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/men/footwear/loafers-by-kewl-instyle-may" role="menuitem" tabindex="5">Loafer @ 699</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/men/apparel/paani-puri-april" role="menuitem" tabindex="6">Paanipuri</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/men/apparel/the-design-factory-new-arrivals" role="menuitem" tabindex="7">The Design Factory - New Arrivals</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/men/apparel/elaborado-may" role="menuitem" tabindex="8">Elaborado T-Shirts - Flat 10% off</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/men/accessories/alpha-man-accessories" role="menuitem" tabindex="9">Alpha Man Accessories</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/men/accessories/bun-maska-men" role="menuitem" tabindex="10">Bun Maska Men</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/men/accessories/alpha-man-ear-studs" role="menuitem" tabindex="11">Alpha Man Ear Studs</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/men/apparel/tricolour-nation-tees" role="menuitem" tabindex="12">Tricolor Nation</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/men/apparel/campus-sutra-may-ii" role="menuitem" tabindex="13">Pack of 3 - Campus Sutra</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/men/apparel/campus-sutra-may" role="menuitem" tabindex="14">Pack of 2 - Campus Sutra</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/men/apparel/club-york-may" role="menuitem" tabindex="15">Club York - New Arrivals</a> 
-    </li><li role="presentation">
-      <p class="view-all-nav"><a href="/sales/t/designers/men" role="menuitem" style="color:#c30;">View all sales &gt;&gt;</a></p> 
-    </li></ul></li></ul></li><li class="dropdown"><a href="/sales/t/designers/lifestyle">home &amp; lifestyle</a><ul class="dropdown-menu"><li><ul class="pull-left">
-      <li role="presentation">
-        <p class="nav-heading">
-          Category
-        </p>
-      </li><li role="presentation">
-      <a href="/sales/t/designers/lifestyle/bath" role="menuitem" tabindex="1">bath</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/lifestyle/gadgets-and-phone-accessories" role="menuitem" tabindex="2">gadgets &amp; phone accessories</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/lifestyle/gifts-and-stationery" role="menuitem" tabindex="3">gifts &amp; stationery</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/lifestyle/health-and-wellness" role="menuitem" tabindex="4">health &amp; wellness</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/lifestyle/home-decor" role="menuitem" tabindex="5">home decor</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/lifestyle/home-furnishing" role="menuitem" tabindex="6">home furnishing</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/lifestyle/house-keeping" role="menuitem" tabindex="7">house keeping</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/lifestyle/kitchen-and-dining" role="menuitem" tabindex="8">kitchen &amp; dining</a> 
-    </li></ul><ul class="pull-left">
-      <li role="presentation">
-        <p class="nav-heading">
-          Sale
-        </p>
-      </li><li role="presentation">
-      <a href="/sales/t/designers/lifestyle/home-decor/renata-flat-499" role="menuitem" tabindex="1">Renata LED Lights : Flat Rs 499</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/lifestyle/house-keeping/flat-399" role="menuitem" tabindex="2">My Gift Booth Organisers : Flat Rs 399</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/lifestyle/home-decor/goyal-india-wall-decor" role="menuitem" tabindex="3">Goyal India : Wall Decor</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/lifestyle/home-decor/bottles-not-empty-may" role="menuitem" tabindex="4">Bottles not Empty</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/lifestyle/home-decor/take-me-home" role="menuitem" tabindex="5">Importwala</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/lifestyle/home-decor/wall-shelves" role="menuitem" tabindex="6">Wall Shelves</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/lifestyle/house-keeping/apparel-organisers" role="menuitem" tabindex="7">Organisers : My Gift Booth</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/lifestyle/health-and-wellness/vkare" role="menuitem" tabindex="8">Health Monitors</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/lifestyle/gadgets-and-phone-accessories/vyne-iphone-cover" role="menuitem" tabindex="9">Vyne Phone Covers</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/lifestyle/kitchen-and-dining/delectable-kitchen-add-ons" role="menuitem" tabindex="10">Kitchen: My Gift Booth</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/lifestyle/house-keeping/iron-table-resting-pad" role="menuitem" tabindex="11">Iron Tables and Resting Pads</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/lifestyle/house-keeping/multipurpose-organisers" role="menuitem" tabindex="12">Organisers : My Gift Booth</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/lifestyle/bath/bathroom-fixtures" role="menuitem" tabindex="13">Bathroom Fixtures</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/lifestyle/house-keeping/jewellery-accessory-organisers" role="menuitem" tabindex="14">Organisers : My Gift Booth</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/lifestyle/kitchen-and-dining/tete-a-tete" role="menuitem" tabindex="15">Tête-à-Tête</a> 
-    </li><li role="presentation">
-      <p class="view-all-nav"><a href="/sales/t/designers/lifestyle" role="menuitem" style="color:#c30;">View all sales &gt;&gt;</a></p> 
-    </li></ul></li></ul></li><li class="dropdown"><a href="/designer">Designer</a><ul class="dropdown-menu"><li><ul><li role="presentation">
-      <a href="/sales/t/designers/women/jewellery/hayabyshubhi" role="menuitem" tabindex="1">Jewellery By Shubhi Kansal</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/western-apparel/debashriapr" role="menuitem" tabindex="2">Debashri Samanta</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/ethnic-apparel/mayyurapr" role="menuitem" tabindex="3">Mayyur R Girotra Couture</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/ethnic-apparel/mandiraapr" role="menuitem" tabindex="4">Mandira Bedi</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/western-apparel/drvvapr" role="menuitem" tabindex="5">DRVV</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/western-apparel/sayantanapr" role="menuitem" tabindex="6">Sayantan Sarkar</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/western-apparel/karleoapr" role="menuitem" tabindex="7">Karleo</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/ethnic-apparel/jyotsnaapr" role="menuitem" tabindex="8">Jyotsna Tiwari</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/western-apparel/vilvinapr" role="menuitem" tabindex="9">Vilvin</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/western-apparel/shrutiapr" role="menuitem" tabindex="10">Shruti Sancheti</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/ethnic-apparel/shrutiapreth" role="menuitem" tabindex="11">Shruti Sancheti</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/western-apparel/sumanapr" role="menuitem" tabindex="12">Suman Nathwani</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/western-apparel/sonaakshiaprwes" role="menuitem" tabindex="13">Sonaakshi Raaj</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/ethnic-apparel/sonaakshiapr" role="menuitem" tabindex="14">Sonaakshi Raaj</a> 
-    </li><li role="presentation">
-      <a href="/sales/t/designers/women/western-apparel/kommalapr" role="menuitem" tabindex="15">Kommal Sood</a> 
-    </li><li role="presentation">
-      <p class="view-all-nav"><a href="/designer" role="menuitem" style="color:#c30;">View all sales &gt;&gt;</a></p> 
-    </li></ul></li></ul></li><li class="dropdown"><a href="/collections/lakme-fashion-week-2014">LFW 2014</a><ul></ul></li><li class="dropdown"><a href="/jackofallsales"><span class="eoy">EPIC Sale</span></a><ul></ul></li><li class="dropdown"><a href="/promotions">Offers</a><ul></ul></li>
-          </ul>
-        </div>
-        
-         <!-- <div class="nav-collapse collapse">
-          <ul class="nav" role="navigation">
-            <li class="static-nav">
-              <a href="http://styletag.me" target="_blank">STYLE GLOSS</a>
-            </li>
-          </ul>
-        </div> --> <!-- --><!--/.nav-collapse -->
       </div>
     </div>
   </div>
-  <div id="marketing-strip" class="container-fluid row-fluid">
-        <div class="block1 border-around pull-left span4" style="padding:5px;background-color:#ffffff">
-          <p><a href="http://www.styletag.com/vero" target="_blank"><img alt="" src="https://s3.amazonaws.com/new_spree_st_bucket/Marketing+tab/vero-buy1-marketing-tabs.jpg" style="height:18px; width:298px"></a></p>
-        </div>
-        <div class="block1 border-around pull-left span4" style="padding:5px;background-color:#ffffff">
-          <p><a href="http://www.styletag.com/"><img alt="Flat 40% OFF sitewide, min. cart value Rs.3999. Use code - STYLE40" src="https://s3.amazonaws.com/new_spree_st_bucket/Marketing+tab/flat40-marketing-tabs.jpg" style="height:18px; width:298px"></a></p>
-
-        </div>
-
-    <div class="block1 border-around pull-right span4 input-append" style="position:relative;">
-      <form accept-charset="UTF-8" action="/products" class="form-search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
+  <div class="cart-mobile hidden-tablet" style="">
+    <ul class="nav-cart">
+      <li class="uppercase-text">
+        <a href="/cart" class="a-dark">
+          <span class="cart-icon"><p style="margin-top:5px;text-align:center;"></p></span>
+        </a>
+      </li>
+    </ul>
+  </div>
+  <div class="col-xs-6 col-sm-3 sidebar-offcanvas showhide navbar-collapse" id="sidebar" role="navigation">
+    <div class="block1 block1-mobile border-around-mobile span4 input-append visible-phone" style="position:relative;margin-top:25px;">
+      <form accept-charset="UTF-8" action="/products" class="form-search" id="aws_form_search_mobile" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
         <input class="span10 pull-left search-query" id="appendedInputButtons" name="keywords" placeholder="Search here for" type="text">
         <button class="btn" type="submit" style="background-image:none;border:0px;" id="submitButton"></button>
-        <!-- <button class="btn dropdown-toggle search-text" data-toggle="dropdown" id="search-text-dd">
-          All SALES <span class="caret"></span>
-        </button> -->
-        <!-- <ul class="dropdown-menu" style="right:0;">
-          <li></li>
-            <li></li>
-        </ul> -->
+</form>    </div>
+    <div class="sidebar-nav">
+      <ul class="nav" role="navigation">
+        <li class="mobile-nav-header uppercase-text">
+          SHOP BY CATEGORY
+        </li>
+        <li class="mobile-nav-list">
+          <a href="/newin" class="uppercase-text nav-bg-mobile">NEW IN</a>
+        </li>
+        <li class="mobile-nav-list">
+          <a href="/sales" class="uppercase-text nav-bg-mobile">All sales</a>
+        </li>
+        <li class="mobile-nav-list">
+          <a href="#" class="uppercase-text nav-bg-mobile dropdown-toggle" data-toggle="dropdown">Women <b class="caret caret-mobile"></b></a>
+          <ul class="dropdown-menu mobile-category">
+            <li class="divider-shadow"></li>
+            <li><a href="/sales/t/designers/women" class="capitalize-text e-prop">All Women</a></li>
+            <li><a href="/sales/t/designers/women/jewellery" class="capitalize-text e-prop">Jewellery</a></li>
+            <li><a href="/sales/t/designers/women/western-apparel" class="capitalize-text e-prop">Western apparel</a></li>
+            <li><a href="/sales/t/designers/women/handbags" class="capitalize-text e-prop">Handbags</a></li>
+            <li><a href="/sales/t/designers/women/ethnic-apparel" class="capitalize-text e-prop">Ethnic apparel</a></li>
+            <li><a href="/sales/t/designers/women/footwear" class="capitalize-text e-prop">Footwear</a></li>
+            <li><a href="/sales/t/designers/women/accessories" class="capitalize-text e-prop">Accessories</a></li>
+            <li><a href="/sales/t/designers/women/indian-apparel" class="capitalize-text e-prop">Indian apparel</a></li>
+          </ul>
+        </li>
+        <li class="mobile-nav-list">
+          <a href="#" class="uppercase-text nav-bg-mobile dropdown-toggle" data-toggle="dropdown">Men <b class="caret caret-mobile"></b></a>
+          <ul class="dropdown-menu mobile-category">
+            <li class="divider-shadow"></li>
+            <li><a href="/sales/t/designers/men" class="capitalize-text e-prop">All Men</a></li>
+            <li><a href="/sales/t/designers/men/apparel" class="capitalize-text e-prop">Apparel</a></li>
+            <li><a href="/sales/t/designers/men/footwear" class="capitalize-text e-prop">Footwear</a></li>
+            <li><a href="/sales/t/designers/men/accessories" class="capitalize-text e-prop">Accessories</a></li>
+          </ul>
+        </li>
+        <li class="mobile-nav-list">
+          <a href="#" class="uppercase-text nav-bg-mobile dropdown-toggle" data-toggle="dropdown">Home &amp; Lifestyle <b class="caret caret-mobile"></b></a>
+          <ul class="dropdown-menu mobile-category">
+            <li class="divider-shadow"></li>
+            <li><a href="/sales/t/designers/lifestyle" class="capitalize-text e-prop">All Home &amp; Lifestyle</a></li>
+            <li><a href="/sales/t/designers/lifestyle/kitchen-and-dining" class="capitalize-text e-prop">Kitchen &amp; dining</a></li>
+            <li><a href="/sales/t/designers/lifestyle/phone-accessories" class="capitalize-text e-prop">Phone accessories</a></li>
+            <li><a href="/sales/t/designers/lifestyle/home-decor" class="capitalize-text e-prop">Home decor</a></li>
+            <li><a href="/sales/t/designers/lifestyle/home-furnishing" class="capitalize-text e-prop">Home furnishing</a></li>
+            <li><a href="/sales/t/designers/lifestyle/gifts-and-stationery" class="capitalize-text e-prop">Gifts &amp; stationery</a></li>
+          </ul>
+        </li>
+        <li class="mobile-nav-list">
+          <a href="/designer" class="uppercase-text nav-bg-mobile">Designer</a>
+        </li>
+        <li class="mobile-nav-list">
+          <!--<a href="/collections/lakme-fashion-week-aw-2014" class="uppercase-text nav-bg-mobile">LFW 2014</a>-->
+
+        </li>
+        <li class="mobile-nav-list">
+          <a href="#" class="uppercase-text nav-bg-mobile dropdown-toggle" data-toggle="dropdown">SALE <b class="caret caret-mobile"></b></a>
+            <ul class="dropdown-menu mobile-category">
+            <li class="divider-shadow"></li> 
+<li><a href="/promotions" class="capitalize-text e-prop">PROMOTIONS</a></li>
+</ul>
+        </li>
+      </ul>
+    </div>
+    <div id="mobile-account">
+      <ul class="nav">
+        <li class="mobile-nav-header uppercase-text">
+          My Account
+        </li>
+        <div class="mobi_nav_header">
+           <li class="mobile-nav-list">
+    <!--<h5>Login with Facebook:</h5>-->
+
+  <a href="http://www.styletag.com/auth/facebook" title="Login with facebook"><img alt="facebook" src="http://assets.styletagassets.com/assets/store/facebook_connect_btn-4318ee5d558453d6a30a002a2665d5f2.png"></a>
+  <a href="http://www.styletag.com/auth/google_oauth2" title="Login with google_oauth2"><img alt="google_oauth2" src="http://assets.styletagassets.com/assets/store/google_oauth2_connect_btn-fa0e1e5e10420dbff1addbd87fe419a4.png"></a>
+
+  </li>
+  <li class="mobile-nav-list">
+    <a href="/login" class="uppercase-text nav-bg-mobile" role="menuitem" tabindex="5">Register</a>
+  </li>
+  <li class="mobile-nav-list">
+    <a href="/login" class="uppercase-text nav-bg-mobile" role="menuitem" tabindex="5">Login</a>
+  </li>
+
+        </div>
+      </ul>
+    </div>
+    <div id="mobile-invite">
+      <ul class="nav">
+        <li class="mobile-nav-header uppercase-text">
+          <a href="/invite" class="uppercase-text a-white" style="background-color:#666;">Invite your Friends</a>
+        </li>
+        <li class="mobile-nav-header uppercase-text">
+          <a href="/faq" class="uppercase-text a-white" style="background-color:#666;">Help</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  $('.dropdown-toggle').click(function(e) {
+    e.preventDefault();
+    setTimeout($.proxy(function() {
+      if ('ontouchstart' in document.documentElement) {
+        $(this).siblings('.dropdown-backdrop').off().remove();
+      }
+    }, this), 0);
+  });
+  $(".e-prop").click(function(e) {
+    e.stopPropagation();       
+  });
+
+  $(document).on("submit","#aws_form_search_mobile",function(){
+    if($("#aws_form_search_mobile #appendedInputButtons").val().length > 0){
+      return true;
+    }
+    else {
+      return false;
+    }
+  });
+</script>
+  <div class="float-clear"></div>
+  <div class="divider-mobile hidden-desktop"></div>
+  <!-- logo and cart ends -->
+  <!-- navigation -->
+  <div class="navbar navbar-fixed-top visible-desktop">
+    <div class="navbar-inner">
+      <div class="container-fluid">
+          <nav class="nav-collapse collapse">
+            <ul class="nav row-fluid" role="navigation">
+              <li class="dropdown"><a href="/newin">New in</a><ul class="dropdown-menu"><li><ul class="pull-left single-dropdown-menu">
+    <li role="presentation">
+      <p class="nav-heading">
+        Sale
+      </p>
+    </li><li role="presentation">
+    <a href="/sales/t/designers/men/accessories/bags-purses" role="menuitem" tabindex="1">Bags by Purseus</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/handbags/shuffle-handbags-june" role="menuitem" tabindex="2">Shuffle Handbags</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/jewellery/eristonajewju" role="menuitem" tabindex="3">Eristona</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/ethnic-apparel/sheer-elegance" role="menuitem" tabindex="4">Sheer Elegance</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/ethnic-apparel/anarkali-blingg-jun" role="menuitem" tabindex="5">Anarkali Blingg</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/western-apparel/thegiftboxx-2015june" role="menuitem" tabindex="6">The Gift Boxx</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/jewellery/june-xquisite-jewels" role="menuitem" tabindex="7">Xquisite Jewels</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/jewellery/laparisiene-june" role="menuitem" tabindex="8">La Parisienne</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/men/apparel/ss15-paanipuri" role="menuitem" tabindex="9">Beat d Heat by Paanipuri</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/western-apparel/20dresses-2015june" role="menuitem" tabindex="10">20 Pieces</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/men/accessories/alphaman-adventure" role="menuitem" tabindex="11">Alphaman Adventure At Da Workout</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/lifestyle/home-decor/red-brown" role="menuitem" tabindex="12">Red &amp; Brown</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/men/apparel/the-snazzy" role="menuitem" tabindex="13">The Snazzy Man by Mohnish Panjabi</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/men/apparel/traditional-prints" role="menuitem" tabindex="14">Traditional Prints by Rajrang</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/western-apparel/happygolucky-6615" role="menuitem" tabindex="15">Happy Go Lucky</a>
+  </li><li role="presentation">
+    <p class="view-all-nav"><a href="/sales" role="menuitem" style="color:#c30;">View all sales &gt;&gt;</a></p>
+  </li></ul><ul class="pull-left">
+    <li role="presentation">
+      <p class="nav-heading">
+        Featured Sale
+      </p>
+    </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/women/handbags/gqp-accessories" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/1100876/ending_soon/gqp_accessories_sale.jpg?1433246237" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">GQP Accessories</p>
+        </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/women/footwear/flipside" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/1037214/ending_soon/flipside-sale.jpg?1430912244" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">Flipside</p>
+        </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/women/western-apparel/happygolucky-6615" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/1116082/ending_soon/happygolucky_6615_sale.jpg?1433592417" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">Happy Go Lucky</p>
+        </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/men/apparel/traditional-prints" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/1116227/ending_soon/traditional_prints_sale.jpg?1433594482" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">Traditional Prints ...</p>
+        </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/men/apparel/the-snazzy" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/1116822/ending_soon/the_snazzy_sale.jpg?1433600760" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">The Snazzy Man by M...</p>
+        </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/lifestyle/home-decor/red-brown" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/1117506/ending_soon/red_brown_sale.jpg?1433756271" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">Red &amp; Brown</p>
+        </li></ul></li></ul></li><li class="dropdown"><a href="/sales">All sales</a><ul class="dropdown-menu"><li><ul class="pull-left">
+    <li role="presentation">
+      <p class="nav-heading">
+        Category
+      </p>
+    </li><li role="presentation">
+    <a href="/sales/t/designers/women" role="menuitem" tabindex="1">women</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/lifestyle" role="menuitem" tabindex="2">home &amp; lifestyle</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/men" role="menuitem" tabindex="3">men</a>
+  </li><li role="presentation">
+    <a href="/category/accessories" role="menuitem" tabindex="1">accessories</a>
+  </li><li role="presentation">
+    <a href="/category/apparel" role="menuitem" tabindex="2">apparel</a>
+  </li><li role="presentation">
+    <a href="/category/footwear" role="menuitem" tabindex="3">footwear</a>
+  </li><li role="presentation">
+    <a href="/category/gifts &amp; stationery" role="menuitem" tabindex="4">gifts &amp; stationery</a>
+  </li><li role="presentation">
+    <a href="/category/handbags" role="menuitem" tabindex="5">handbags</a>
+  </li><li role="presentation">
+    <a href="/category/home décor" role="menuitem" tabindex="6">home décor</a>
+  </li><li role="presentation">
+    <a href="/category/home furnishing" role="menuitem" tabindex="7">home furnishing</a>
+  </li><li role="presentation">
+    <a href="/category/jewellery" role="menuitem" tabindex="8">jewellery</a>
+  </li><li role="presentation">
+    <a href="/category/kitchen &amp; dining" role="menuitem" tabindex="9">kitchen &amp; dining</a>
+  </li><li role="presentation">
+    <a href="/category/phone accessories" role="menuitem" tabindex="10">phone accessories</a>
+  </li></ul><ul class="pull-left">
+    <li role="presentation">
+      <p class="nav-heading">
+        Sale
+      </p>
+    </li><li role="presentation">
+    <a href="/sales/t/designers/women/handbags/funk-for-hire" role="menuitem" tabindex="1">Funk For Hire</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/footwear/crochet-cottage" role="menuitem" tabindex="2">Crochet Cottage</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/ethnic-apparel/ethnic-fete" role="menuitem" tabindex="3">Ethnic Fete</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/ethnic-apparel/poise" role="menuitem" tabindex="4">Poise it</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/ethnic-apparel/sale-kurtis-and-leggings" role="menuitem" tabindex="5">Kurtis &amp; Leggings</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/ethnic-apparel/ethniche" role="menuitem" tabindex="6">Ethniche</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/ethnic-apparel/all-time-favourite-sarees" role="menuitem" tabindex="7">All-time Favourite Sarees</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/accessories/nunettescombined" role="menuitem" tabindex="8">Bespectacled</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/accessories/getwrapped-feb" role="menuitem" tabindex="9">Get Wrapped</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/footwear/zaera-footwear" role="menuitem" tabindex="10">Zaera - Footwear</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/handbags/zaera-handbags" role="menuitem" tabindex="11">Zaera - Handbags</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/ethnic-apparel/eclectic-drapes" role="menuitem" tabindex="12">Eclectic Drapes</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/handbags/daks-march" role="menuitem" tabindex="13">DAKS Mobile Pouches</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/accessories/womens_accessories_m" role="menuitem" tabindex="14">Vivacious Watches</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/jewellery/womens-jewellery-m" role="menuitem" tabindex="15">Jewel Box</a>
+  </li><li role="presentation">
+    <p class="view-all-nav"><a href="/sales" role="menuitem" style="color:#c30;">View all sales &gt;&gt;</a></p>
+  </li></ul><ul class="pull-left">
+    <li role="presentation">
+      <p class="nav-heading">
+        Featured Sale
+      </p>
+    </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/women/ethnic-apparel/straight-suits-feb" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/886214/ending_soon/straight-suits-feb-sale.jpg?1428408167" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">Straight Suits: Bel...</p>
+        </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/women/ethnic-apparel/banarasi-sarees" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/945115/ending_soon/banarasi-sarees-sale.jpg?1427265133" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">Banarasi Raas By Bu...</p>
+        </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/women/handbags/fostelo-may" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/1081611/ending_soon/fostelo-may-sale.jpg?1433141884" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">Fostelo</p>
+        </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/women/footwear/zubiya-footwear-fresh-arrivals" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/904877/ending_soon/zubiya-footwear-fresh-arrivals-sale.jpg?1429025075" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">Zubiya Footwear New...</p>
+        </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/women/handbags/dazzle-queen-handbags" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/1079642/ending_soon/dazzle_queen_handbags_sale.jpg?1432552643" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">Dazzle Queen Handbags</p>
+        </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/men/accessories/purseus-march" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/981163/ending_soon/purseus-march-sale.jpg?1433749193" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">Purseus</p>
+        </li></ul></li></ul></li><li class="dropdown"><a href="/sales/t/designers/women">women</a><ul class="dropdown-menu"><li><ul class="pull-left">
+    <li role="presentation">
+      <p class="nav-heading">
+        Category
+      </p>
+    </li><li role="presentation">
+    <a href="/sales/t/designers/women/accessories" role="menuitem" tabindex="1">accessories</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/ethnic-apparel" role="menuitem" tabindex="2">ethnic apparel</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/footwear" role="menuitem" tabindex="3">footwear</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/handbags" role="menuitem" tabindex="4">handbags</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/jewellery" role="menuitem" tabindex="5">jewellery</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/western-apparel" role="menuitem" tabindex="6">western apparel</a>
+  </li></ul><ul class="pull-left">
+    <li role="presentation">
+      <p class="nav-heading">
+        Sale
+      </p>
+    </li><li role="presentation">
+    <a href="/sales/t/designers/women/handbags/dazzle-queen-handbags" role="menuitem" tabindex="1">Dazzle Queen Handbags</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/ethnic-apparel/all-time-favourite-sarees" role="menuitem" tabindex="2">All-time Favourite Sarees</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/ethnic-apparel/ethniche" role="menuitem" tabindex="3">Ethniche</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/ethnic-apparel/bhagalpur-tales" role="menuitem" tabindex="4">Bhagalpur Tales</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/handbags/shuffle-handbags-june" role="menuitem" tabindex="5">Shuffle Handbags</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/ethnic-apparel/sheer-elegance" role="menuitem" tabindex="6">Sheer Elegance</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/ethnic-apparel/anarkali-blingg-jun" role="menuitem" tabindex="7">Anarkali Blingg</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/handbags/zubiya-wallets-new-arrival" role="menuitem" tabindex="8">Zubiya Wallets New Arrival</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/handbags/the-kala-shop-june" role="menuitem" tabindex="9">The Kala Shop</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/footwear/salt-footwear-june" role="menuitem" tabindex="10">Salt - Footwear</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/ethnic-apparel/summer-song-glb" role="menuitem" tabindex="11">Summer Song: Flat rs 1299</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/western-apparel/vonshuffle-2015june" role="menuitem" tabindex="12">Von Shuffle</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/accessories/june-bowsarewows-acc" role="menuitem" tabindex="13">Bows Are Wows</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/jewellery/jewels-odetoearth" role="menuitem" tabindex="14">Ode To Earth</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/handbags/gqp-accessories" role="menuitem" tabindex="15">GQP Accessories</a>
+  </li><li role="presentation">
+    <p class="view-all-nav"><a href="/sales/t/designers/women" role="menuitem" style="color:#c30;">View all sales &gt;&gt;</a></p>
+  </li></ul><ul class="pull-left">
+    <li role="presentation">
+      <p class="nav-heading">
+        Featured Sale
+      </p>
+    </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/women/footwear/il-vigore" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/1046398/ending_soon/il-vigore-sale.jpg?1432959570" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">IL Vigore</p>
+        </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/women/ethnic-apparel/wedding-jan" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/838714/ending_soon/wedding-jan-sale.jpg?1431091021" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">Wedding Trousseau</p>
+        </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/women/ethnic-apparel/retro" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/678267/ending_soon/retro-sale.jpg?1433580531" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">Lehangas &amp; Gowns</p>
+        </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/women/handbags/fashiondrobe" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/1065590/ending_soon/fashiondrobe-sale.jpg?1432959796" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">Fashiondrobe</p>
+        </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/women/jewellery/womens-jewellery-m" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/431068/ending_soon/womens-jewellery-m-sale.jpg?1433594836" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">Jewel Box</p>
+        </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/women/jewellery/rejuvenate" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/979108/ending_soon/rejuvenate_sale.jpg?1432121204" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">REJUVENATE JEWELS</p>
+        </li></ul></li></ul></li><li class="dropdown"><a href="/sales/t/designers/men">men</a><ul class="dropdown-menu"><li><ul class="pull-left">
+    <li role="presentation">
+      <p class="nav-heading">
+        Category
+      </p>
+    </li><li role="presentation">
+    <a href="/sales/t/designers/men/accessories" role="menuitem" tabindex="1">accessories</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/men/apparel" role="menuitem" tabindex="2">apparel</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/men/footwear" role="menuitem" tabindex="3">footwear</a>
+  </li></ul><ul class="pull-left">
+    <li role="presentation">
+      <p class="nav-heading">
+        Sale
+      </p>
+    </li><li role="presentation">
+    <a href="/sales/t/designers/men/accessories/purseus-march" role="menuitem" tabindex="1">Purseus</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/men/apparel/the-snazzy" role="menuitem" tabindex="2">The Snazzy Man by Mohnish Panjabi</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/men/apparel/thedesign-factory" role="menuitem" tabindex="3">The Design Factory</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/men/accessories/alphaman-indaclub" role="menuitem" tabindex="4">Alpha Man In Da Club</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/men/apparel/menshoodz-280515" role="menuitem" tabindex="5">T shirt by HOODZ</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/men/apparel/lazytigers-280515" role="menuitem" tabindex="6">Casual Collections By Lazy Tiger</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/men/accessories/bags-purses" role="menuitem" tabindex="7">Bags by Purseus</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/men/footwear/flipside-men" role="menuitem" tabindex="8">Flipside For Men</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/men/accessories/merraze1-jan" role="menuitem" tabindex="9">Merraze Men's Accessories</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/men/footwear/delize-new-arrivals-nov" role="menuitem" tabindex="10">Delize - New Arrivals</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/men/accessories/cartoontheme-jan" role="menuitem" tabindex="11">Cartoon Theme Laptop skin</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/men/accessories/cufflinks-by-favola" role="menuitem" tabindex="12">Cuff links by Favola</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/men/accessories/suspenders-by-orosilber" role="menuitem" tabindex="13">Suspenders by Orosilber</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/men/accessories/laptop-skins" role="menuitem" tabindex="14">Laptop Skins</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/men/accessories/lemon-drop-wallets" role="menuitem" tabindex="15">Lemon Drop Wallets - Men</a>
+  </li><li role="presentation">
+    <p class="view-all-nav"><a href="/sales/t/designers/men" role="menuitem" style="color:#c30;">View all sales &gt;&gt;</a></p>
+  </li></ul><ul class="pull-left">
+    <li role="presentation">
+      <p class="nav-heading">
+        Featured Sale
+      </p>
+    </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/men/apparel/paanipuri-pack-of-3" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/532525/ending_soon/paanipuri-pack-of-3-sale.jpg?1429334535" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">Paanipuri - Pack of...</p>
+        </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/men/apparel/pulpy-papaya-tees" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/552039/ending_soon/pulpy-papaya-tees-sale.jpg?1429334961" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">Graphic &amp; Hand Pain...</p>
+        </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/men/apparel/sabudanaaug" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/600697/ending_soon/sabudanaaug-sale.jpg?1433747983" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">Sabudana - New Arri...</p>
+        </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/men/apparel/thedesignfactoryaug" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/601706/ending_soon/thedesignfactoryaug-sale.jpg?1429334411" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">Nehru Jackets by TDF</p>
+        </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/men/apparel/ninja-turtle-tees" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/631989/ending_soon/ninja-turtle-tees_sale.jpg?1433834815" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">Ninja Turtle</p>
+        </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/men/apparel/mirror-tees-sep" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/639013/ending_soon/mirror-tees-sep-sale.jpg?1433748147" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">Mirror Tees</p>
+        </li></ul></li></ul></li><li class="dropdown"><a href="/sales/t/designers/lifestyle">home &amp; lifestyle</a><ul class="dropdown-menu"><li><ul class="pull-left">
+    <li role="presentation">
+      <p class="nav-heading">
+        Category
+      </p>
+    </li><li role="presentation">
+    <a href="/sales/t/designers/lifestyle/gifts-and-stationery" role="menuitem" tabindex="1">gifts &amp; stationery</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/lifestyle/home-decor" role="menuitem" tabindex="2">home decor</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/lifestyle/home-furnishing" role="menuitem" tabindex="3">home furnishing</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/lifestyle/kitchen-and-dining" role="menuitem" tabindex="4">kitchen &amp; dining</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/lifestyle/phone-accessories" role="menuitem" tabindex="5">phone accessories</a>
+  </li></ul><ul class="pull-left">
+    <li role="presentation">
+      <p class="nav-heading">
+        Sale
+      </p>
+    </li><li role="presentation">
+    <a href="/sales/t/designers/lifestyle/home-furnishing/combo-offer" role="menuitem" tabindex="1">Combo Offer</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/lifestyle/gifts-and-stationery/gqp-june" role="menuitem" tabindex="2">GQP Accessories</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/lifestyle/gifts-and-stationery/rajrang-diaries" role="menuitem" tabindex="3">Rajrang: Designer Diary</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/lifestyle/phone-accessories/nimbu-mirchi-cases" role="menuitem" tabindex="4">Nimbu Mirchi</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/lifestyle/home-decor/arabian-nights" role="menuitem" tabindex="5">Arabian Nights</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/lifestyle/home-furnishing/perinchcush" role="menuitem" tabindex="6">Cushion covers by Per Inch</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/lifestyle/gifts-and-stationery/knick_knacks_m" role="menuitem" tabindex="7">Knick Knacks</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/lifestyle/kitchen-and-dining/tbl-mats" role="menuitem" tabindex="8">Table mats: leaf designs</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/lifestyle/gifts-and-stationery/mesleep-skin" role="menuitem" tabindex="9">meSleep</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/lifestyle/phone-accessories/awestruck-sam" role="menuitem" tabindex="10">Awestruck Samsung cases</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/lifestyle/phone-accessories/trendy-moto" role="menuitem" tabindex="11">Trendy Moto G Cases By Kesi</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/lifestyle/phone-accessories/glam-wrap-jan" role="menuitem" tabindex="12">Kesi Funky Cases</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/lifestyle/gifts-and-stationery/sutra" role="menuitem" tabindex="13">Sutra Decor</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/lifestyle/kitchen-and-dining/moments-march" role="menuitem" tabindex="14">Graphic Moments</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/lifestyle/gifts-and-stationery/doodle-diaries" role="menuitem" tabindex="15">Doodle Diaries</a>
+  </li><li role="presentation">
+    <p class="view-all-nav"><a href="/sales/t/designers/lifestyle" role="menuitem" style="color:#c30;">View all sales &gt;&gt;</a></p>
+  </li></ul><ul class="pull-left">
+    <li role="presentation">
+      <p class="nav-heading">
+        Featured Sale
+      </p>
+    </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/lifestyle/kitchen-and-dining/bread-covers" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/808856/ending_soon/bread-covers-sale.jpg?1433314460" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">Kitchen Essentials:...</p>
+        </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/lifestyle/kitchen-and-dining/coasters-december" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/816335/ending_soon/coasters_december_sale.jpg?1419684174" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">Coasters Flat Rs 24...</p>
+        </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/lifestyle/kitchen-and-dining/tray-jan" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/849448/ending_soon/tray-jan-sale.jpg?1429618903" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">Decorative Trays By...</p>
+        </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/lifestyle/kitchen-and-dining/moments-march" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/953717/ending_soon/moments-march-sale.jpg?1433312648" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">Graphic Moments</p>
+        </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/lifestyle/kitchen-and-dining/falgon-march" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/953808/ending_soon/falgon-march-sale.jpg?1433314250" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">Quotational Flagon</p>
+        </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/lifestyle/kitchen-and-dining/home-collective" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/974304/ending_soon/home-collective-sale.jpg?1433312165" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">Home collective</p>
+        </li></ul></li></ul></li><li class="dropdown"><a href="/designer">Designer</a><ul class="dropdown-menu"><li><ul class="pull-left single-dropdown-menu">
+    <li role="presentation">
+      <p class="nav-heading">
+        Sale
+      </p>
+    </li><li role="presentation">
+    <a href="/sales/t/designers/lifestyle/home-decor/rangclocks" role="menuitem" tabindex="1">Wall clocks by Rangrage</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/jewellery/rubyraang" role="menuitem" tabindex="2">Ruby Raang</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/jewellery/shijewju" role="menuitem" tabindex="3">Earrings by Shimarra</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/jewellery/barohkjewju" role="menuitem" tabindex="4">Barohk</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/jewellery/glamjewel" role="menuitem" tabindex="5">THE GLAM HARBOR</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/jewellery/sindjew" role="menuitem" tabindex="6">Jewels by Sindoora</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/jewellery/urbanjewju" role="menuitem" tabindex="7">Urban Turban</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/jewellery/rejuvenate" role="menuitem" tabindex="8">REJUVENATE JEWELS</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/jewellery/moljew" role="menuitem" tabindex="9">Jewels by Molcha</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/jewellery/nazarjew" role="menuitem" tabindex="10">Nazranay</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/jewellery/fevrings" role="menuitem" tabindex="11">Fever 21</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/jewellery/sindoorajew" role="menuitem" tabindex="12">Earrings by Sindoora</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/jewellery/sannammay" role="menuitem" tabindex="13">Sannam Chopra</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/jewellery/shimjewel" role="menuitem" tabindex="14">Shimarra</a>
+  </li><li role="presentation">
+    <a href="/sales/t/designers/women/jewellery/dikshajew" role="menuitem" tabindex="15">Pin Tuc</a>
+  </li><li role="presentation">
+    <p class="view-all-nav"><a href="/designer" role="menuitem" style="color:#c30;">View all sales &gt;&gt;</a></p>
+  </li></ul><ul class="pull-left">
+    <li role="presentation">
+      <p class="nav-heading">
+        Featured Sale
+      </p>
+    </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/women/jewellery/nazarjew" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/1098187/ending_soon/nazarjew_sale.jpg?1433158482" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">Nazranay</p>
+        </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/women/footwear/verfootwear" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/1099984/ending_soon/verfootwear_sale.jpg?1433222190" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">VERUSCHKA By Payal ...</p>
+        </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/women/ethnic-apparel/poojamay" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/1086427/ending_soon/poojamay_sale.jpg?1432794420" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">Juliet collection b...</p>
+        </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/women/western-apparel/examplemay" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/1074442/ending_soon/examplemay_sale.jpg?1433151696" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">East-West collectio...</p>
+        </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/women/handbags/vitastabags" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/1098104/ending_soon/vitastabags_sale.jpg?1433147064" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">Handbags by Vitasta</p>
+        </li><li role="presentation" style="float:left;padding: 5px 10px 5px 0px; white-space: normal; width: 136px;">
+          <a href="/sales/t/designers/women/jewellery/dikshajew" role="menuitem" tabindex="1" style="padding:0px !important;">
+            <img src="http://images.styletagassets.com/sales/1096390/ending_soon/dikshajew_sale.jpg?1432988560" style="width:136px;" alt="">
+          </a>
+          <p style="padding:5px 0px !important;height: 35px;margin: 0px; line-height:12px;">Pin Tuc</p>
+        </li></ul></li></ul></li><li class="dropdown"><!--<a href="/collections/lakme-fashion-week-aw-2014">LFW 2014</a>--></li><li class="dropdown"><a href="/promotions">PROMOTIONS</a><!-- <ul class="dropdown-menu last-ul" style="min-width:250px; max-width:300px;">
+    <li>
+      <ul class="single-dropdown">
+<li role="presentation">
+             <a href="/clearance-sale" role="menuitem" tabindex="1">CLEARANCE SALE</a></li>
+<li role="presentation">
+             <a href="/wa40" role="menuitem" tabindex="1">WESTERN APPAREL SALE</a></li>
+<li role="presentation">
+             <a href="/verocouture" role="menuitem" tabindex="1">VERO COUTURE - FLAT 45% OFF</a></li>
+<li role="presentation">
+            <a href="/category/wedding wardrobe" role="menuitem" tabindex="1">WEDDING WARDROBE</a></li>   
+<li role="presentation">
+             <a href="/t/designers/men/apparel/clearance2015-feb" role="menuitem" tabindex="1">MEN'S TEES - FLAT RS.399</a></li>
+<li role="presentation">
+             <a href="/lf35" role="menuitem" tabindex="1">HOME & LIFESTYLE - FLAT 35% OFF</a></li>    
+       </ul>
+    </li>
+ </ul> --></li>
+            </ul>
+          </nav>
+      </div>
+    </div>
+  </div> 
+  <!-- navigation ends -->
+  <!-- marketing strip -->
+  <div id="marketing-strip" class="container-fluid row-fluid marketing-strip-mobile">
+        <div class="block1 border-around pull-left span4" style="padding:5px;background-color:#ffffff">
+          <p><a href="http://www.styletag.com/verocouture" target="_blank"><img alt="" src="https://s3.amazonaws.com/new_spree_st_bucket/Marketing+tab/all-new-vero.gif" style="height:18px; width:298px"></a></p>
+        </div>
+        <div class="block1 border-around pull-left span4" style="padding:5px;background-color:#ffffff">
+          <p><a href="http://www.styletag.com/t/designers/women/ethnic-apparel/admire-by-amithi-jan"><img alt="ADMIRE BY AMITHI" src="https://s3.amazonaws.com/new_spree_st_bucket/Marketing+tab/marketing-middle-banner.gif" style="height:18px; width:298px"></a></p>
+
+        </div>
+    <div class="float-clear visible-phone" style="height:100px;"></div>
+    <div class="block1 border-around pull-right span4 input-append hidden-phone" style="position:relative;">
+      <form accept-charset="UTF-8" action="/products" class="form-search" id="aws_form_search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
+        <input class="span10 pull-left search-query" id="appendedInputButtons" name="keywords" placeholder="Search here for" type="text">
+        <button class="btn" type="submit" style="background-image:none;border:0px;" id="submitButton"></button>
 </form>    </div> 
   </div>
   <section class="float-clear"></section>
-  
+  <!-- marketing strip ends -->  
 </header>
 <script src="http://connect.facebook.net/en_US/all.js"></script>
 <script type="text/javascript">
@@ -580,7 +976,6 @@ function share(){
 function getFriendslist(){
   FB.login(onFacebookInitialLoginStatus, {perms:'read_stream,publish_stream'});
   FB.api('/me/friends', function(response) {
-      console.log(response)
       if(response.data) {
           //alert(response.data);
           $("#demo-input-facebook-theme").tokenInput(response.data, {
@@ -656,19 +1051,16 @@ $("#mail_error").hide();
 });
 </script>
 
-
 <script type="text/javascript">
+  $(document).on("submit","#aws_form_search",function(){
+      if($("#aws_form_search #appendedInputButtons").val().length > 0){       
+        return true;
+      }
+      else {
+        return false;          
+      }      
+  });
   $(function(){
-    if($('#appendedInputButtons').val() ==  "") 
-      $('#submitButton').attr('disabled', true);
-
-    $('#appendedInputButtons').keyup(function(){
-      if($('#appendedInputButtons').val() !=  "") 
-        $('#submitButton').attr('disabled', false);    
-      else
-        $('#submitButton').attr('disabled', true);   
-    });
-
     $('.search-option').click(function(){
       $('#search_option').val($(this).text());
       $('#search-text-dd').html($(this).text()+' <span class="caret"></span>');
@@ -676,19 +1068,37 @@ $("#mail_error").hide();
   });
 
   $(document).ready(function(){
-    
-    var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1);
-     $.ajax({
-      type: "GET",
-      url: "/get_header",
-      data: hashes,
-      success: function(data) {
-                              $("#logo-bar").html(data);
-                            },
-      error: function(data) {}
+  $.ajax({
+        type: 'GET',
+        url:"/mobile_header",
+        success:function(data){
+        $(".mobi_nav_header").html(data)
+        }
     });
-
-     $(window).scroll(function(){
+    
+      var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1);
+       $.ajax({
+          type: "GET",
+          url: "/get_header",
+          data: hashes,
+          success: function(data) {
+          // $("#logo-bar").empty().html(data);
+          // alert(data);
+          document.getElementById('logo-bar').innerHTML = data;
+          $('input[name=authenticity_token]').val($('meta[name=csrf-token]').attr('content'));
+          if ($.cookie("cart_transfer")){
+            $('.external-link').css("display","none");
+            $('#login-reg').css({'float':'right', 'left':'-2px'})
+            $('.faq-external').removeAttr('target');
+            $('body').on('touchstart.dropdown', '.dropdown-menu', function (e) {
+              e.stopPropagation(); 
+            });
+          }
+        },
+        error: function(data) {}
+      });
+   
+    $(window).scroll(function(){
       var scrolTop = $(window).scrollTop();
         if(scrolTop > 65){
          $(".navbar").addClass("fix-navbar-onscroll");
@@ -705,12 +1115,47 @@ $("#mail_error").hide();
    $.removeCookie(cookie);
    }
   });
+
+   $(document).on('click','#empty_mini_cart',function(){
+  $.ajax({
+       type: "GET",
+       url: "/cart/empty",
+       data:{},
+       success: function(data) {
+         $('#shopping-cart').html(data);
+         update_minicart();
+       },
+       error: function(data) {
+        //alert("fail");
+
+       }
+     });
+ });
+
+      function update_minicart()
+{
+  $.ajax({
+       type: "GET",
+       url: "/update_minicart",
+       data:{},
+       success: function(data) {
+         $('#link-to-cart').html(data);
+       },
+       error: function(data) {
+        //alert("fail");
+       }
+     });
+}
+$(document).ready(function() {
+  $('[data-toggle=offcanvas]').click(function() {
+    $('.row-offcanvas').toggleClass('active');
+    $('.showhide').toggle();
+  });
+});
 </script>
 
-
-
-  <div class="container-fluid row-fluid">
-    
+          <div class="container-fluid row-fluid">
+            
 
   <h1>Privacy</h1>
   <div id="page_content">
@@ -1053,24 +1498,20 @@ While contacting us, please remember to quote your name and contact details, alo
     </div>
   </div>
 
-    <a href="#" class="scrollup hidden-phone">Scroll</a>
-    
-  </div>
-
-  
-
-  <footer id="footer" data-hook="">
+            <a href="#" class="scrollup hidden-phone">Scroll</a>
+            <a href="#" class="scrollup-mobile hide-visibility-desktop">Scroll</a>
+          </div>
+        </div>
+      </div>
+      <footer id="footer" data-hook="">
   <div class="container-fluid row-fluid">
-    <p class="a-white text-center">
-      Styletag.com is an online shopping destination that gives you instant access to leading Indian designers and designer brands, at upto 70% off. If you want exclusive deals and access to big discounts, then register with us to get the latest styles for men and women’s apparel, footwear, jewellery, bags, lingerie, accessories, lifestyle products, quirky merchandise and home décor.
-    </p>
-    <p class="a-white text-center">
+    <p class="a-white text-center external-links">
       Tell us what works or doesn't work for you. Write to us at: <a href="mailto:feedback@styletag.com" class="a-white text-underline"><strong>feedback@styletag.com</strong></a>
     </p>
     <hr>
   </div>
-  <div class="container-fluid row-fluid">
-    <div class="footer-details span3">
+  <div class="container-fluid row-fluid ">
+    <div class="footer-details span4">
       <h2>COMPANY</h2>
       <p class="capitalize-text">
         <a href="/about" target="_blank">About</a><br>
@@ -1079,7 +1520,7 @@ While contacting us, please remember to quote your name and contact details, alo
         <a href="/privacy" target="_blank">Privacy</a>
       </p>
     </div>
-    <div class="footer-details span3 capitalize-text">
+    <div class="footer-details span4 capitalize-text">
       <h2>EXPLORE</h2>
       <p>
         <!-- <a href="#">Like &amp; earn</a><br/> -->
@@ -1087,13 +1528,13 @@ While contacting us, please remember to quote your name and contact details, alo
         <!-- <a href="/lookbooks" target="_blank">Lookbook</a> -->
       </p>
     </div>
-    <div class="footer-details span3 capitalize-text">
+    <div class="footer-details span4 capitalize-text">
       <h2>ACCOUNT</h2>
       <p>
         <a href="/cart" target="_blank">Shopping cart</a>
       </p>
     </div>
-    <div class="footer-details span3 capitalize-text">
+    <div class="footer-details span4 capitalize-text">
       <h2>CUSTOMER SERVICE</h2>
       <p>
         <a href="/shipping" target="_blank">Shipping &amp; returns</a><br>
@@ -1102,44 +1543,108 @@ While contacting us, please remember to quote your name and contact details, alo
         <a href="/contact-us" target="_blank">Contact Us</a>
       </p>
     </div>
-    <div class="footer-details span3 capitalize-text">
-      <h2>CONNECT</h2>
-      <p>
-        <a href="https://www.facebook.com/styletag" target="_blank">Facebook</a><br>
-        <a href="https://twitter.com/teamstyletag" target="_blank">Twitter</a><br>
-        <a href="http://pinterest.com/styletag/" target="_blank">Pinterest</a><br>
-        <a href="http://www.youtube.com/styletagdotcom" target="_blank">Youtube</a>
-      </p>
+    <div id="subscribe-social" class="span12">
+      <div id="subscribe-email-wrap" class="span5 social-nw-details">
+        <h2>Subscribe To Our Newsletter</h2>
+        <form>
+          <input type="email" class="title email-sub" placeholder="Enter your e-mail">
+          <input type="button" id="subscribe" value="Subscribe" name="commit" class="button primary button-grey">
+          <div class="sub-result" style="color:#fff"></div>
+        </form>
+      </div>
+      <div id="social-nw-wrap" class="social-nw-details external-links span5 capitalize-text pull-right">
+        <h2>CONNECT</h2>
+        <p>
+          <a href="https://www.facebook.com/styletag" target="_blank" class="footer-fb"></a>
+          <a href="https://plus.google.com/103797838552569636494" target="_blank" class="footer-google"></a>
+          <a href="https://twitter.com/teamstyletag" target="_blank" class="footer-tw"></a>
+          <a href="https://in.linkedin.com/company/intrepid-online-retail-pvt-ltd" target="_blank" class="footer-ln"></a>
+          <a href="http://www.youtube.com/styletagdotcom" target="_blank" class="footer-yt"></a>
+          <a href="http://pinterest.com/styletag/" target="_blank" class="footer-pt"></a>
+          <a href="http://instagram.com/styletagdotcom" target="_blank" class="footer-insta"></a>
+        </p>
+      </div>
     </div>
   </div>
   <div id="new_footer" class="container-fluid row-fluid text-center paddingtop10" data-hook="">
-    <p class="text-center">
-      <img alt="ffolio" src="http://s3-ap-southeast-1.amazonaws.com/st-public/assets/store/ffolio_logo-2328f05297e06d50ef7c556c0bae5937.png">
-    </p>
-    <p class="text-center">
-      <img alt="styletag" src="http://s3-ap-southeast-1.amazonaws.com/st-public/assets/store/styletag_logo_white-5d5ae7e07783de8a21842f2536563df5.png">
+    <!-- <p class="text-center">
+    </p> -->
+    <p class="text-center" style="padding-top:20px !important;">
+      <img alt="styletag" src="http://assets.styletagassets.com/assets/store/styletag_logo_white-112b15b04ee7e51e8abd7b2ab38f309d.png">
     </p>
   </div>
 </footer>
 
 
+<script type="text/javascript">
+if ($.cookie("cart_transfer")){
+$('.footer-details').find('a').removeAttr('target');
+$('.external-links').find('a').attr("href","#")
+$('.external-link').css("display","none");
+$('.faq-external').removeAttr('target');
+}
+
+$("#subscribe").on("click", function() {
+  $(".sub-result").html();
+  $.post("/subscriptions",{email: $('.email-sub').val()},
+    function(data){
+        $(".sub-result").html(data["message"]);
+      });
+});
+</script>
+    </div>
+  </div>
   
   <script type="text/javascript">
-//<![CDATA[
+    // placeholder for IE7 and 8
+    if (navigator.appVersion.match(/MSIE [\d.]+/)) {
+      $('input[placeholder]').each(function() {
+        var input = $(this);
+        $(input).val(input.attr('placeholder'));
+        $(input).focus(function() {
+          if (input.val() == input.attr('placeholder')) {
+            input.val('');
+          }
+        });
+        $(input).blur(function() {
+          if (input.val() == '' || input.val() == input.attr('placeholder')) {
+            input.val(input.attr('placeholder'));
+          }
+        });
+      });
+    }
+  </script>
+  <!--[if IE 9]>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        $('#link-to-cart').hover(function(){
+          $('.ie9_minicart').show();
+        },
+        function(){
+          $('.ie9_minicart').hide();
+        });
+      });
+    </script>
+  <![endif]-->
 
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-25226781-1']);
-    _gaq.push(['_trackPageview']);
+  <script type="text/javascript" async="" src="https://ssl.widgets.webengage.com/js/widget/webengage-min-v-4.0.js"></script><script id="_webengage_script_tag" type="text/javascript">
+    var _weq = _weq || {};
+    _weq['webengage.licenseCode'] = '~15ba20c02';
+    _weq['webengage.widgetVersion'] = "4.0";
+
+    (function(d) {
+      var _we = d.createElement('script');
+      _we.type = 'text/javascript';
+      _we.async = true;
+      _we.src = (d.location.protocol == 'https:' ? "https://ssl.widgets.webengage.com" : "http://cdn.widgets.webengage.com") + "/js/widget/webengage-min-v-4.0.js";
+      var _sNode = d.getElementById('_webengage_script_tag');
+      _sNode.parentNode.insertBefore(_we, _sNode);
+    })(document);
+  </script>
+
+  <script type="text/javascript">
+    (function () { var done = false;var script = document.createElement('script');script.async = true;script.type = 'text/javascript';script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript';document.getElementsByTagName('HEAD').item(0).appendChild(script);script.onreadystatechange = script.onload = function (e) {if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {var w = new PCWidget({ c: '3adcf2ee-7f70-4cce-8755-26cbea12d7bd', f: true });done = true;}};})();
+  </script>
 
 
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = '//google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-
-//]]>
-</script>
-
-
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+</body></html>
