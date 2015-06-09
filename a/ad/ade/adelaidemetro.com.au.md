@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adelaidemetro.com.au privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109140151id_/http%3A//www.adelaidemetro.com.au/Terms-and-Conditions%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adelaidemetro.com.au privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609221740id_/http%3A//www.adelaidemetro.com.au/Terms-and-Conditions%23Privacy) for the most accurate reproduction.*
 
 # Adelaide Metro - Terms and Conditions
 
@@ -12,7 +12,7 @@ The Government of South Australia supports and encourages the dissemination and 
 
 #### Enquiries
 
-Use the [contact form](https://web.archive.org/Contact-Us "Go to the SA Government website") to make an enquiry about the use of Government of South Australia material. 
+Use the [contact form](https://web.archive.org/Contact "Go to the SA Government website") to make an enquiry about the use of Government of South Australia material. 
 
 ## Disclaimer 
 
@@ -179,7 +179,7 @@ Date of Birth  |  Yes  |  Metrocard Agent Recharge  |  Yes 
 Phone Number  |  Yes  |  Ticket Machine Management  |  Yes   
 Email Address  |  Optional, required   
 for online Metrocard management  |  Online Metrocard Management  |  Yes   
-Metrocard Number  |  Yes  |  Metrocard Proteccion  |  Yes   
+Metrocard Number  |  Yes  |  Metrocard Protection  |  Yes   
 Senior Card Number  |  Yes  |    |     
   
 ### Anonymised Seniors Cards
@@ -206,7 +206,7 @@ Address  |  No  |  Auto Recharge  |  No
 Date of Birth  |  Yes  |  Metrocard Agent Recharge  |  Yes   
 Phone Number  |  No  |  Ticket Machine Recharge  |  Yes   
 Email Address  |  No  |  Online Metrocard Management  |  No   
-Metrocard Number  |  Yes  |  Metrocard Proteccion  |  Yes   
+Metrocard Number  |  Yes  |  Metrocard Protection  |  Yes   
 Senior Card Number  |  Yes  |    |     
   
 #### Your Financial transactions
@@ -237,7 +237,7 @@ Adelaide Metro is committed to ensuring a high level of security for all online 
 
 Notwithstanding the above, Adelaide Metro makes no warranty in respect of the strength or effectiveness of the above encryption and is not responsible for events arising from unauthorised access to information secured using these technologies. 
 
-If you do not wish to transmit the required details electronically you can [contact us](https://web.archive.org/Contact-Us "Go to http://preview.adelaidemetro.com.au/Contact-Us") in a variety of other ways. 
+If you do not wish to transmit the required details electronically you can [contact us](https://web.archive.org/Contact "Go to http://preview.adelaidemetro.com.au/Contact-Us") in a variety of other ways. 
 
 ##### **Other websites**
 
@@ -246,4 +246,4 @@ This privacy statement covers only the Adelaide Metro web site and Adelaide Metr
 ##### **Privacy guidelines**
 
 This site is operated in compliance with the Government of South Australia's information privacy principles (IPPs), a copy of which can be obtained on [the Department of the Premier and Cabinet website](http://dpc.sa.gov.au/premier-and-cabinet-circulars "Go to the department of premier and cabinet website").  
-This privacy statement will be continually reviewed in line with the ongoing development of this Internet site. If you have any questions about our privacy policies please [contact us](https://web.archive.org/Contact-Us "Go to http://preview.adelaidemetro.com.au/Contact-Us"). 
+This privacy statement will be continually reviewed in line with the ongoing development of this Internet site. If you have any questions about our privacy policies please [contact us](https://web.archive.org/Contact "Go to http://preview.adelaidemetro.com.au/Contact-Us"). 
