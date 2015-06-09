@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the loveandoliveoil.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223200740id_/http%3A//www.loveandoliveoil.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveandoliveoil.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609102806id_/http%3A//www.loveandoliveoil.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Love and Olive Oil
+
+## Privacy Policy
 
 Your privacy is very important to us. We do not distribute your personal information to third parties for any purpose. We are committed to protect your personal information as we would our own. To better protect your privacy we provide this notice outlining what information may be collected when you visit the website, and how that information is used. When you continue to visit this website, you are consenting to the practices described in this policy.
 
