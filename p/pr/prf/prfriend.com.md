@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prfriend.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921043749id_/http%3A//www.prfriend.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prfriend.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609062958id_/http%3A//www.prfriend.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PR Friend
 
