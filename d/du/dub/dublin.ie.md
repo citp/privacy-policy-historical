@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dublin.ie privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108234303id_/http%3A//www.dublin.ie/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dublin.ie privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609064721id_/http%3A//www.dublin.ie/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Dublin.ie
 
