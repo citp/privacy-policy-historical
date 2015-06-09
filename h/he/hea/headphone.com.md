@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the headphone.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124120422id_/http%3A//www.headphone.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the headphone.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609095236id_/http%3A//www.headphone.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | headphone.com
+
+#### Headphone.com provides music lovers with unbiased reviews of headphones and accessories. We only sell gear we would use ourselves.
 
 ## HeadRoom Respects Your Privacy!
 
