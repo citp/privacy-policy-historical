@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbcshop.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121014758id_/http%3A//www.bbcshop.com/terms%2Bconditions-security%2Bprivacy/privacy-policy%2Bcookies-policy/page/privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbcshop.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235624id_/http%3A//www.bbcshop.com/terms%2Bconditions-security%2Bprivacy/privacy-policy%2Bcookies-policy/page/privacynotice) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies Policy at BBC Shop
 
@@ -22,7 +22,7 @@ We operate a variety of BBC-branded commercial services, such as TV channels, on
 
 3\. We will only send you marketing emails if you have permitted us to (and you will be given the opportunity to unsubscribe in each of our emails). 
 
-4\. We will enable you to opt-out of usage tracking where possible; we track your use of our services to help us to tailor our content and advertising and to improve our services. We will not use information that identifies you personally but if you prefer, you may opt-out [here](http://www.bbcshop.com/terms+conditions-security+privacy/cookies-policy/page/cookies)
+4\. We will enable you to opt-out of usage tracking where possible; we track your use of our services to help us to tailor our content and advertising and to improve our services. We will not use information that identifies you personally but if you prefer, you may opt-out  here.
 
 5\. We will not share personally identifiable information with unrelated third parties for their own use without your consent. We may share your information within our group of companies so that we can provide you with the best customer experience across our brands. 
 
@@ -64,15 +64,13 @@ In the course of providing you with our services and through your interactions w
 
 11\. CONTACT US 
 
-If you have any questions or comments about this policy or our approach to privacy please contact us at: : [BBC Data protection](mailto:dataprotection@bbc.com) We aim to reply to any queries within three working days. 
+If you have any questions or comments about this policy or our approach to privacy please contact us at: [BBC Data Protection](mailto:dataprotection@bbc.com) We aim to reply to any queries within three working days. 
 
 ##  1\. Scope of this policy and your consent
 
-This policy governs our processing of your information in relation to the products and services we supply to you. In addition to this policy, we operate policies relating to our use of [Cookies ](http://www.bbcworldwide.com/cookies.aspx) (Tracking Technologies). [Cookies Policy](http://www.bbcshop.com/terms+conditions-security+privacy/cookies-policy/page/cookies)
+This policy governs our processing of your information in relation to the products and services we supply to you. In addition to this policy, we operate policies relating to our use of [Cookies (Tracking Technologies)](http://www.bbcworldwide.com/cookies.aspx) and the provision of our services via [Mobile Applications](http://www.bbcworldwide.com/privacy/mobile-apps.aspx) (“Mobile Apps”). The practices set out in those policies are governed by this overarching policy.
 
-and the provision of our services via [Mobile Applications](http://www.bbcworldwide.com/privacy/mobile-apps.aspx) (“Mobile Apps”). The practices set out in those policies are governed by this overarching policy.
-
-Please be aware that we also license our brands and content to other companies who may produce their own websites, events and digital content. We take reasonable steps to ensure that these companies clearly identify themselves and handle your information appropriately. However, when you use any service which is operated by a third party, the use of your information will be subject to their privacy policy and not ours. If you have any concerns, please contact us at: [BBC Data protection ](mailto:dataprotection@bbc.com) Your use of our services constitutes your consent to the processing of your information described herein.
+Please be aware that we also license our brands and content to other companies who may produce their own websites, events and digital content. We take reasonable steps to ensure that these companies clearly identify themselves and handle your information appropriately. However, when you use any service which is operated by a third party, the use of your information will be subject to their privacy policy and not ours. If you have any concerns, please contact us at: [BBC Data Protection ](mailto:dataprotection@bbc.com). Your use of our services constitutes your consent to the processing of your information described herein.
 
 Back To Top
 
@@ -92,7 +90,7 @@ When you use our services we automatically record information about your usage o
 
 Log data: When you use our services, certain information gets recorded in our log files such as your device’s Internet Protocol (IP) Address, its unique ID, its operating system and location, and your browser type, the pages you viewed, cookie information and referral links (the link that sent you to a particular page). 
 
-Tracking technologies (cookies): In conjunction with our log data we may use tracking technologies such as tags on our web pages and small data files which we store on your device (known as “cookies”). These technologies enable us to recognise your device and to track your interaction with our services, emails and adverts. We do not use these technologies to identify you and we do not intentionally collect or record personally identifiable information through these technologies. See our [cookies policy](http://www.bbcshop.com/terms+conditions-security+privacy/cookies-policy/page/cookies)
+Tracking technologies (cookies): In conjunction with our log data we may use tracking technologies such as tags on our web pages and small data files which we store on your device (known as “cookies”). These technologies enable us to recognise your device and to track your interaction with our services, emails and adverts. We do not use these technologies to identify you and we do not intentionally collect or record personally identifiable information through these technologies. See our cookies policy.
 
 _Information collected via social media and other third parties:_
 
@@ -100,7 +98,7 @@ When you choose to participate in or receive a service from us via social media,
 
 _Information collected via specialist data companies:_
 
-We sometimes use specialist data companies to provide us with information they hold about you to enable us to better tailor our advertising. For example, we might use anonymous information about your browsing on other sites to enable us to infer your interests and to put you into appropriate “market segments”. This information is not used to identify you as a person and we do not attempt to combine it with personally identifying information that we may hold. See our [cookies policy](http://www.bbcshop.com/terms+conditions-security+privacy/cookies-policy/page/cookies)
+We sometimes use specialist data companies to provide us with information they hold about you to enable us to better tailor our advertising. For example, we might use anonymous information about your browsing on other sites to enable us to infer your interests and to put you into appropriate “market segments”. This information is not used to identify you as a person and we do not attempt to combine it with personally identifying information that we may hold. See our cookies policy.
 
 Back To Top
 
@@ -108,33 +106,33 @@ Back To Top
 
 We will use your information: (i) to deliver, improve and personalise our services to you in accordance with your preferences: and (ii) for our own legitimate business purposes and needs. Specifically, we may use your information to:
 
-fulfil your product orders or to provide the service or information you have requested; 
+\- fulfil your product orders or to provide the service or information you have requested; 
 
-administer your account(s); 
+\- administer your account(s);
 
-send you service related communications; 
+\- send you service related communications;
 
-manage our competitions (including publishing the names of winners where required); 
+\- manage our competitions (including publishing the names of winners where required);
 
-respond to your requests and feedback; 
+\- respond to your requests and feedback;
 
-contact you about a submission you have made to our online services (refer to our Code of Conduct); 
+\- contact you about a submission you have made to our online services (refer to our Code of Conduct);
 
-analyse and/or improve our services; 
+\- analyse and/or improve our services;
 
-personalise the way BBCW content is presented to you online; 
+\- personalise the way BBCW content is presented to you online;
 
-deliver interest-based advertising based upon your browsing of our websites and others (find out more about our advertising and how to opt-out [here](http://www.bbcshop.com/terms+conditions-security+privacy/cookies-policy/page/cookies)
+\- deliver interest-based advertising based upon your browsing of our websites and others (find out more about our advertising and how to opt-out here;
 
-prevent fraud or other potentially illegal activities (including copyright infringement); 
+\- prevent fraud or other potentially illegal activities (including copyright infringement);
 
-block disruptive users and protect the safety of users of our services; 
+\- block disruptive users and protect the safety of users of our services;
 
-enforce our terms of service; 
+\- enforce our terms of service;
 
-send you newsletters, offers and promotions relating to our brands and services and special promotions from our trusted partners in accordance with your email preferences; and
+\- send you newsletters, offers and promotions relating to our brands and services and special promotions from our trusted partners in accordance with your email preferences; and
 
-manage our email suppression list. 
+\- manage our email suppression list.
 
 Where BBCW proposes using your personal information for any other uses we will ensure that we notify you first. You will also be given the opportunity to withhold or withdraw your consent for your use other than as listed above.
 
@@ -180,7 +178,7 @@ Back To Top
 
 Except where otherwise indicated, we do not knowingly collect or store any personal information from children under the age of 13. If you are aged 12 or under, we request that you do not provide us with information relating to you or to others. Please seek the guidance of your parent or guardian before using our services. 
 
-If you are the parent or guardian of a child who is aged under 13 and you become aware that your child has provided us with information without your consent, please contact us at [BBC Data protection ](mailto:dataprotection@bbc.com) We will delete such information from our records within a reasonable time. 
+If you are the parent or guardian of a child who is aged under 13 and you become aware that your child has provided us with information without your consent, please contact us at: [BBC Data Protection ](mailto:dataprotection@bbc.com) We will delete such information from our records within a reasonable time. 
 
 _Older children_
 
@@ -208,9 +206,7 @@ In accordance with industry standards, we reserve the right to retain your recor
 
 _Advertising and Tracking Technologies_
 
-If you wish to opt-out of interest-based advertising or other forms of “tracking” please refer to our [cookies policy](http://www.bbcshop.com/terms+conditions-security+privacy/cookies-policy/page/cookies)
-
-.Be aware that opting out of interest-based advertising will not prevent adverts from being displayed to you but they will no longer be tailored to your interests.
+If you wish to opt-out of interest-based advertising or other forms of “tracking” please refer to our cookies policy. Be aware that opting out of interest-based advertising will not prevent adverts from being displayed to you but they will no longer be tailored to your interests.
 
 _Access and Correction_
 
@@ -242,7 +238,7 @@ London
 W12 7TQ  
 
 
-Email us at [BBC Data protection ](mailto:dataprotection@bbc.com)
+Email us at [BBC Data Protection ](mailto:dataprotection@bbc.com)
 
 Back To Top
 
