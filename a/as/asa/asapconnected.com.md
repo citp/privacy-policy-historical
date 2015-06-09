@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asapconnected.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119023104id_/http%3A//www.asapconnected.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asapconnected.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609035503id_/http%3A//www.asapconnected.com/privacy-policy) for the most accurate reproduction.*
 
-# Online Class Registration and Class Management Software – Privacy Policy
+# Privacy Policy — ASAP Registration + Management Software
 
 Privacy Policy Statement
 
