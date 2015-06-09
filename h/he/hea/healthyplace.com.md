@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the healthyplace.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204083913id_/http%3A//www.healthyplace.com/about-healthyplace/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyplace.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610013740id_/http%3A//www.healthyplace.com/about-healthyplace/about-us/healthyplace.com-privacy-statement) for the most accurate reproduction.*
 
-# HealthyPlace.com Privacy Statement
-
-[](http://www.addthis.com/bookmark.php?v=300&pubid=healthyplace)
-
-[](http://www.healthyplace.com/component/option,com_mailto/link,4f547af16364465c4d2a755a65477c87d891bf8b/tmpl,component/ "E-mail")
+# HealthyPlace.com Privacy Statement - HealthyPlace
 
 The Internet contains a wealth of information. Unfortunately, it may also contain personal details about you that you don't want everyone to know. For example, your real name (lots of people on the Internet use aliases, alter egos or nicknames), street address, phone number, or e-mail address. Also, when you go online, sites you visit may be gathering information about you --- without your knowledge.
 
@@ -50,10 +46,4 @@ This statement discloses the privacy practices for the HealthyPlace.com Web site
 
 Questions regarding this statement should be directed to the HealthyPlace.com site coordinator at [info@healthyplace.com](mailto:info@healthyplace.com)
 
-[about us](http://www.healthyplace.com/about-healthyplace/about-us/about-healthyplace/) ~ [editorial policy](http://www.healthyplace.com/about-healthyplace/about-us/editorial-policy/) ~ [privacy policy](http://www.healthyplace.com/about-healthyplace/about-us/privacy-policy/) ~ [advertising policy](http://www.healthyplace.com/about-healthyplace/about-us/advertising-and-promotions-policy/) ~ [terms of use](http://www.healthyplace.com/about-healthyplace/about-us/terms-and-conditions-of-use/) ~ [disclaimer](http://www.healthyplace.com/about-healthyplace/about-us/copyright-and-disclaimer-notices/)
-
-reviewed by:   
-Harry Croft, MD (Psychiatrist)  
-Medical Director, HealthyPlace.com 
-
-Created on 03 January 2009  Last Updated on 30 January 2013 
+[about us](http://www.healthyplace.com/about-healthyplace/about-us/about-healthyplace.com/) ~ [editorial policy](http://www.healthyplace.com/about-healthyplace/about-us/healthyplace.com-and-our-editorial-policy/) ~ [privacy policy](http://www.healthyplace.com/about-healthyplace/about-us/healthyplace.com-privacy-statement/) ~ [advertising policy](http://www.healthyplace.com/about-healthyplace/about-us/advertising-and-promotions-policy/) ~ [terms of use](http://www.healthyplace.com/about-healthyplace/about-us/terms-and-conditions-of-use/) ~ [disclaimer](http://www.healthyplace.com/about-healthyplace/about-us/copyright-and-disclaimer-notices/)
