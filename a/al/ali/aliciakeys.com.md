@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aliciakeys.com privacy policy that was archived on 2014-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140813020103id_/http%3A//www.mozes.com/product/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aliciakeys.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609030539id_/http%3A//www.mozes.com/product/privacy-policy) for the most accurate reproduction.*
 
 # HelloWorld, formerly Mozes — The Leader in Mobile Engagement
 
