@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the price2spy.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123014553id_/http%3A//www.price2spy.com/en/meta_navigation/privacy_refund_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the price2spy.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609024239id_/http%3A//www.price2spy.com/en/meta_navigation/privacy_refund_policy.html) for the most accurate reproduction.*
 
 # Price2Spy - Competitor price monitoring tool - Privacy / Refund Policy
 
-This privacy policy sets out how WEBCentric uses and protects any information that you give WEBCentric when you use this website. 
+This privacy policy sets out how Price2Spy uses and protects any information that you give us when you use our service. 
 
-WEBCentric is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. 
+First of all, we understand how sensitive and discrete are the information you have in your Price2Spy account. You can rest assured that we are committed to ensuring that the privacy of your data is fully protected, both in sense of technical data security as well as in business sense. 
 
-WEBCentric may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Mar-15 2011. 
+Please note that we may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Dec-30 2014. 
 
 ### What we collect
 
@@ -16,8 +16,9 @@ We may collect the following information:
 
   * contact information including email address
 
-  * demographic information such as countrylocation
-
+  * demographic information such as country location
+  * information related to competitors you want monitored
+  * information related to products you want monitored
 
 
 
@@ -32,11 +33,11 @@ We require this information to understand your needs and provide you with a bett
   * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
 
   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+  * After you subscribe for Price2Spy service, we may publish your company logo on our Website, as a sign that you're a client of ours (absolutely no other information regarding your Price2Spy account will ever be disclosed!). However, if you do not like the idea of your logo being displayed on Price2Spy pages, do let us know, and your logo will be removed.
 
 
 
-
-### Security
+### Data security
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 
