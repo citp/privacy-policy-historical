@@ -1,63 +1,95 @@
-> *The following text is extracted and transformed from the edubilla.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105222335id_/http%3A//www.edubilla.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edubilla.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610010246id_/http%3A//www.edubilla.com/help/policies/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy of Edubilla.com
+# Privacy Policy | Edubilla.com
 
-### Privacy Policy
+This is the Privacy Policy governing your use of the Edubilla.com Site. By using this Site, you approve and agree to our Privacy Policy set out below.
 
-This privacy policy sets out how Edubilla uses and protects any information that you give to Edubilla when you use this website. It should be read together with the Terms and Conditions for the use of Edubilla Portal, which will prevail in the event of any conflict or discrepancy. 
+The main purpose of the services that Edubilla.com provides you requires that we gather, process, use and distribute the member's information which also you provide directly by filling out our various forms and formats; e.g. Your company name, contact information, company profile and homepage and the products you buy and sell, etc. Therefore, Edubilla.com does not guarantee that your information will be protected from exposure in any particular party or group. In fact the purpose of online b2b portal is to make you and your company known to global commercial market. If you wish to remove your company or update your company's information you can contact Bizbilla support.
 
-Edubilla is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, you can be assured that it will only be used in accordance with this privacy policy and our Terms and Conditions for the use of Edubilla Portal. 
+## 1.The Information We Collect
 
-Edubilla may change this policy from time to time by updating this page. You should therefore check this page from time to time. 
+ **Registration Information :**  At the time you register to become a Registered User of the Site, you will be asked to fill out a registration form which requires you provide information such as your name, address, phone/fax number, email address and other personal information as well as information about your business ("Registration Information").
 
-#### What we collect
+ **Publishing Information:  **If you submit any information to Edubilla.com to be published on the Site through the publishing tools, including but not limited to Company Directory, Product Catalog, Trade Leads, then you are deemed to have given consent to the publication of such information ("Publishing Information").
 
-This site does not capture personal information about visitors unless you choose to provide such information to us. We may request the following information: 
+ **Payment Information:  **If you establish a credit account with us or our providers or if you purchase a product or service from Edubilla.com or a vendor available through Edubilla.com, we collect additional information, including billing information, (but not credit card numbers and expiration dates) and tracking information from cheques or money orders ("Payment Information").
 
-Users of the website are sometimes prompted to provide personal information. The information collected from a user is strictly voluntary and may include but is not restricted to contact information such as the user's name, e-mail address, and phone number. 
+ **Statistical Information :**  In addition, we gather aggregate statistical information about our Site and Users, such as IP addresses, browser software, operating system, pages viewed, number of sessions and unique visitors, etc. ("Statistical Information").
 
-In order to access certain features and/or services and to make use of the full functionality of the website. we ask you to register and obtain a personal User Name and Password. 
+Registration Information, Publishing Information, Payment Information, Statistical Information and any information we collect from you through the use of cookies (see Section 5 below) or any other means shall collectively be referred to as "Collected Information".
 
-The information collected from the registration form that is presented to users when they click on ‘Register’ may include contact information such as the user's name, gender, e-mail address, contact details, description, extracurricular activities and country. 
+## 2\. How We Use Information
 
-Information collected by the website during registration also includes but is not restricted to Educational Information including exams given, education level, marks, grade or rank obtained and expected year of admission. 
+ **General :**  We use your Collected Information to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our Site's content, layout and service specifically for you.
 
-#### What we do with the information we gather
+We use your Collected Information to service your Account with us, including but not limited to investigating problems, resolving disputes and enforcing agreements with us.
 
-We require this information to understand your needs and to provide you with a better service, and in particular for the following reasons: 
+We share certain aggregate information based on analysis of Collected Information with our partners, customers, advertisers or potential Users.
 
-####  Internal record keeping.
+We use your Collected Information to execute marketing campaigns, promotions or advertising messages on behalf of third parties; however, in these circumstances, your Collected Information will not be disclosed to such third parties unless you respond to the marketing, promotion or advertising message.
 
-To improve our products and services and to customise the website according to your interests. 
+ **Registration Information:**  We use your Registration Information to provide services that you request or to contact you regarding additional services about which Edubilla.com determines that you might be interested. Specifically, we use your email address, mailing address, phone number or fax number to contact you regarding notices, surveys, product alerts, new service or product offerings and communications relevant to your use of our Site, such as newsletters, if you choose to receive these as indicated at the time of registration. We generate reports and analysis based on the Registration Information for internal analysis, monitoring and marketing decisions.
 
-This website reserves the right to use the user information compiled during the registration process or otherwise for analysis purposes. The website also reserves the right to provide this information to its business partners / relevant third party for any purpose, including monetary gains. 
+ **Publishing Information :**  Edubilla.com Educational portal designed to bridge all continent and countries businesses. Importers, exporters, buyers, sellers, manufacturers, traders, export house, import house, marketing representatives, commission agents, merchant exporters, manufacturing exporters, Export oriented units(EOU), SME (small medium enterprises) , MSME (micro - small medium enterprises, private sector companies, public sector companies, distributors, dealers, stockiest , C&F agents, agencies, retailers and individual consumers shall make use of our valuable services and shall make business very simple and with convenient methods that are highly secured and quick to save time in most cost effective way.
 
-The website also reserves the right to contact the student based upon the information that they have provided. This contact can be initiated by any possible means on the basis of the information that has been provided by the user at registration or through any other mode of contact. 
+All of your Publishing Information will be publicly available on the Site and therefore accessible by any internet user. This includes not only the publishing/displaying of your company profile, contact details, banners, sell offers, buy offers, product displays, but also inquiries/messages you send to the Edubilla.com's members using Edubilla.com's services our amongst other services, which may be published/displayed on Edubilla.com's website for your facilitation/promotion. Any Publishing Information that you disclose to Edubilla.com becomes public information and you relinquish any proprietary rights (including but not limited to the rights of confidentiality and copyrights) in such information. You should exercise caution when deciding to include personal or proprietary information in the Publishing Information that you submit to us.
 
-Any user who is not agreeable to the above policy shall not register themselves with the web site. By registering with the website or by filling up any form requiring user information, the user is deemed to have agreed to this privacy policy of the website. 
+Use of any Personal Information by any of our members is subject to privacy laws in the respective jurisdictions of our members. Each of our members is solely responsible for observing applicable laws and regulations in its respective jurisdictions to ensure that all use of the Site and Services are in compliance with the same. Each of our members is expressly prohibited from using any Personal Information for illegal activities including without limitation to spamming.
 
-The terms of this privacy policy are subject to change from time to time without any prior consent or notice. 
+ **Payment Information:**  Edubilla.com will share your Payment Information with banks or vendors relevant to the transaction in order to enable transactions to be completed. In addition, Edubilla.com may use Payment Information to determine your credit-worthiness and, in the process of such determination, Edubilla.com may make such Payment Information available to banks or credit agencies. While Edubilla.com has in place up-to-date technology and internal procedures to guard your Payment Information against intruders, there is no guarantee that such technology or procedure can eliminate all of the risks of theft, loss or misuse. Edubilla.com shall not be liable to you or any other person for any damages that might result from unauthorized use, publication, disclosure or any other misuse of Payment Information, including credit card information.
 
-From time to time, we may use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. 
+ **Personal information:**  Uses of any Personal Information by any of our members are subject to privacy laws in the respective jurisdictions of our members. Each of our members is solely responsible for observing applicable laws and regulations in its respective jurisdictions to ensure that all use of the Site and Services are in compliance with the same. Each of our members is expressly prohibited from using any Personal Information for illegal activities including without limitation to spamming..
 
-The owners and administrators of this site will not share your personal information with other entities, except where such entities have been authorised to carry out specific services. We use the personal information you give us as a research tool to develop the content of this site and our related network of websites. If you provide us with feedback using the site's web feedback form, you will be asked for your name, e-mail address and information, which will enable us to contact you. We will use that information to respond to your feedback. 
+ **Statistical Information:**  We use Statistical Information to help diagnose problems with and maintain our computer servers, to manage our Site, and to enhance your Site and services based on the usage pattern data we receive. We generate reports and analysis based on the Statistical Information for internal analysis, monitoring and marketing decisions. We provide Statistical Information to third parties, but when we do so, we do not provide personally-identifying information without your permission.
 
-####  Security
+## 3\. Disclosure of Information
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access, disclosure, loss, misuse or alteration of information, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. Access to personally identifiable information is only provided to authorised administrators via a restricted password. 
+Edubilla.com may publish records of complaints and any penalties, actions or proceedings against Members and also reserve the right to disclose your Collected Information to relevant authorities where we have reason to believe that such disclosure is necessary to identify, contact or bring legal action against someone who be infringing or threatening to infringe, or who otherwise be causing injury to or interference with, the title, rights, interests or property of Edubilla.com, our Users, customers, partners, other web site users or anyone else who could be harmed by such activities.
 
-#### How we use cookies
+We also reserve the right to disclose Collected Information in response to a subpoena or other judicial order or when we reasonably believe that such disclosure is required by law, regulation or administrative order of any court, governmental or regulatory authority.
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps to analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
+If we have reason to believe that a User is in breach of the Terms of User Agreement or any other agreement with us, then we reserve the right to make public or otherwise disclose such User's Collected Information in order to pursue our claim or prevent further injury to Edubilla.com or others.
 
-We use traffic log cookies to identify which pages are being used. This helps us to analyse data about webpage traffic and to improve our website in order to tailor it to customers' needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
+## 4\. Co-Branded Relationships
 
-Overall, cookies help us to provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
+Edubilla.com does not have any co-branding relationship with any other party however you may be directed to any third party website through Google ads in those cases you may be required to submit information for purposes of registering or applying for products or services provided by such third parties or co-branded partners. The privacy policy of such other parties may differ from ours, and we may not have any control over the information that you submit to such third parties or co-branded sites. We therefore encourage you to read that policy before responding to any offers, products or services provided by such other parties.
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. However, this may prevent you from taking full advantage of the website. 
+## 5\. Cookies
 
-Personal information collected on this site may be stored and processed in any country in which Edubilla.com or its business partners, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country. 
+We use "cookies" to store specific information about you and track your visits to our Site. It is not uncommon for web sites to use cookies to enhance identification of their users. A "cookie" is a small amount of data that is sent to your browser and stored on your computer's hard drive. A cookie can be sent to your computer's hard drive only if you access our Site using the computer.
 
-Edubilla.com observes the process of law and will establish or exercise our legal rights or defend ourselves against legal claims. 
+If you do not de-activate or erase the cookie, each time you use the same computer to access our Site, our web servers will be notified of your visit to our Site and in turn we have knowledge of your visit and the pattern of your usage.
 
-Edubilla.com believes in sharing information in order to investigate, prevent or act on illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Edubilla.com's Terms of Use, or as otherwise required by the law; 
+Some of our business partners (e.g., advertisers, tracking utilities) use cookies on our site. We have no access to or control over these cookies.
+
+This privacy statement covers the use of cookies by Edubilla.com at http://www.edubilla.com only and does not cover the use of cookies by any third parties. Generally, we use cookies to identify you and enable us to access your Registration Information, Publishing Information or Payment Information so you do not have to re-enter it; gather statistical information about usage by Users; research visiting patters and help target advertisements based on User interests; assist our partners to track User visits to the Site and process orders; and track progress and participation in promotions.
+
+You can determine if and how a cookie will be accepted by configuring your browser's which is installed in the computer you are using to access the Site. If you desire, you can change those configurations in your browser. By setting your preferences in the browser, you can accept all cookies, you can be notified when a cookie is sent, or you can reject all cookies.
+
+If you reject all cookies by choosing the cookie-disabling function in your browser, you be required to re-enter your information on our Site more often and certain features of our Site be unavailable.
+
+## 6\. Minors
+
+The Site and its contents are not intended to be targeted to minors under applicable law and we do not intend to sell any of our products or services to minors. However, we have no way of distinguishing the age of individuals who access our Site and so we carry out the same Privacy Policy for individuals of all ages. If a minor has provided us with personal information without parental or guardian consent, the parent or guardian should contact us to remove the information.
+
+## 7\. Security Measures
+
+We employ commercially reasonable security methods to prevent unauthorized access, maintain data accuracy and ensure correct use of information.
+
+As a Registered User, your Registration Information, Publishing Information and Payment Information (if any) can be viewed and edited through your Account which is protected by Password. We recommend that you do not divulge your Password to anyone. Our personnel will never ask you for your Password in an unsolicited phone call or in an unsolicited e-mail. If you share a computer with others, you should not choose to save your log-in information (e.g., User ID and Password) on the computer.
+
+Remember to sign out of your Account and close your browser window when you have finished your session.
+
+No data transmission over the Internet or any wireless network can be guaranteed to be perfectly secured. As a result, while we try to protect your information, no web site or company, including ourselves, can absolutely ensure or guarantee the security of any information you transmit to us and you do so at your own risk.
+
+## 8\. Changes to Privacy Policy
+
+Any changes to this Privacy Policy will be communicated through our posting an amended and restated Privacy Policy on our Site. Our posting the amended and restated Privacy Policy will make such new Privacy Policy immediately effective. You agree that all Collected Information (whether or not collected prior to or after the new policy became effective) will be governed by the newest Privacy Policy then in effect. If you do not agree to the new changes in our Privacy Policy, you should contact Edubilla.com in writing (at the address set out in the "Your Feedback" section below) and specifically request that Edubilla.com return and/or destroy all copies of all or part of your Collected Information in Edubilla.com's possession. You may also contact us via email or chat from any such concern.
+
+## 9\. Correcting Your Information
+
+You can access, view and edit your Registration Information, Publishing Information and Payment Information (if any) through your Account with Edubilla.com.
+
+## 10\. Your feedback
+
+Edubilla.com welcomes your continuous feedback regarding our Privacy Policy or our services provided to you. You may send us your comments, ideas and responses by in writing (at the address set out in the "Your Feedback" section below). You may also contact us via email or chat support option available on Edubilla.com
