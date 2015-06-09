@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kipp.org privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102091608id_/http%3A//www.kipp.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kipp.org privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609051936id_/http%3A//www.kipp.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - KIPP Public Charter Schools | Knowledge Is Power Program
 
