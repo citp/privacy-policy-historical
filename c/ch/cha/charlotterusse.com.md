@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charlotterusse.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208165713id_/http%3A//www.charlotterusse.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charlotterusse.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610014006id_/http%3A//www.charlotterusse.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy: Charlotte Russe
 
