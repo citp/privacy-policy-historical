@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cafebritt.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123164711id_/http%3A//www.cafebritt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafebritt.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609234845id_/http%3A//www.cafebritt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,9 +18,9 @@ Our web site uses "cookies." A cookie is a small amount of data that is sent to 
 
 We use the personal information you provide for internal purposes only, to process and fulfill your order, to notify you of your order status, to fulfill or respond to your request, to inform you of new products, services and offers, to provide you with information about Cafe Britt and advertise diverse Cafe Britt promotions through the internet, to shape our recommendations about coffee or related items that might be of interest to you, and to analyze trends and statistics that will help us develop the design and layout of the website that will make your shopping experience a convenient and useful one. Persons who provide us with their telephone numbers _will only_ be contacted regarding orders or general Customer Service Purposes.
 
-### Editing, Updating, Correcting and Deleting Information About You
+### Options we offer to manage your Personal Information.
 
-Please be sure to indicate your full name, and specifically what information you do not want to receive. If you would like to update or correct your email address, street address or other personal information feel free to do so at any time by contacting us in the same way. When you order online or by phone, or when you choose to enter a sweepstakes or other promotion, we may need to contact you via email, phone or mail to address questions or issues specific to your order, entry, etc., _even if you have opted to not receive communications_. In this way, we ensure quality service and follow-up.
+Cafe Britt ensures, we provide you with best possible way to manage your personal information. Please be sure to indicate your full name, and specifically what information you do not want to receive. If you would like to update or correct your email address, street address or other personal information or opt out from our marketing emails, feel free to follow the instructions provided in our emails or contact us to help you. You can also login to your account at www.cafebritt.com, if you have one and manage your contact details, preferences and to update your personal information. When you order online or by phone, or when you choose to enter a sweepstakes or other promotion, we may need to contact you via email, phone or mail to address questions or issues specific to your order, entry, etc., _even if you have opted to not receive communications_. In this way, we ensure quality service and follow-up. When you opt out from our emails (which you do by clicking the "Unsubscribe" link on our promotions emails), it usually takes up to 48 hours to update our system and exclude you from all promotional emails. Feel free to contact us at 1-800-462-7488 for any further details or any doubts you might have. 
 
 ### Protecting Children
 
