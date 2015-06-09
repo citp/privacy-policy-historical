@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankofcanada.ca privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128033258id_/http%3A//www.bankofcanada.ca/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofcanada.ca privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609231510id_/http%3A//www.bankofcanada.ca/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Bank of Canada
 
