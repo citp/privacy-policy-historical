@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steinmart.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120170820id_/http%3A//www.steinmart.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steinmart.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610002959id_/http%3A//www.steinmart.com/privacypolicy) for the most accurate reproduction.*
 
 # Stein Mart: US Channel
 
@@ -49,6 +49,15 @@ We work to protect the security of your information during transmissions by usin
 **Privacy Policy Coverage:**  
 Please be aware that other sites and third-party content (for example, banner advertisements that you may access through our Site may collect personally identifiable information about you. The information practices of those third party sites linked to our Site are not covered by this Privacy Policy. This Privacy Policy is not intended to cover any information collection practices that take place outside of our site, regardless of whether they are controlled by us.
 
+**California Do Not Track Disclosure:**  
+Since Do Not Track technology has not been fully standardized, we do not respond to Web browser 'do not track' signals at this time. We await the result of work by the policy community and industry to determine when such a response is appropriate and what form it should take. We do allow you to exercise choice regarding the collection of information by third parties about your online activities over time and across third-party Web sites or online services for online interest based advertising purposes by going to [http://www.networkadvertising.org](http://www.networkadvertising.org/).
+
+The Network Advertising Initiative offers useful information about internet advertising companies, including information about how to opt-out of interest-based advertising by their members. See 
+
+[http://www.networkadvertising.org](http://www.networkadvertising.org/) for general information about the NAI and [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) for the opt-out page. You may also visit [http://www.aboutads.info/consumers/](http://www.aboutads.info/consumers/) to learn about online behavioral advertising and how to opt-out from online behavioral ads served by some or all participating companies.
+
+These opt-out mechanisms rely on cookies to remember your choices with respect to ad-serving on websites. If you delete your cookies, use another computer or device, or change browsers, you will need to repeat this process. In addition, opting out of interest-based ads will not opt you out of all ads, but rather only those ads that are personalized to your interests based on activities observed on websites not owned and operated by Stein Mart.
+
 **Contact Us:**  
 If at any time you wish to contact us to correct or change any information that you have provided to us, if you have a question or complaint, or to exercise any of the rights set out in this Privacy Policy, including your opt-out rights, contact us by email at comments@steinmart.com or use the contact information below:
 
@@ -61,4 +70,4 @@ Telephone: (904)346-1500
 **Changes to Privacy Policy:**  
 Our business changes constantly, and our Privacy Policy and the Terms and Conditions of Use are also subject to change. Please check our Web Site frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
 
-If you have any questions regarding this privacy policy, please contact us via the contact information provided in Section 7 (Contact Us) of this Policy.
+If you have any questions regarding this privacy policy, please contact us via the contact information provided in Section 9 (Contact Us) of this Policy.
