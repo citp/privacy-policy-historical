@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinoyrecipe.net privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203114833id_/http%3A//www.pinoyrecipe.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoyrecipe.net privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610012633id_/http%3A//www.pinoyrecipe.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Filipino Recipes Portal
 
@@ -20,10 +20,8 @@ PinoyRecipe.net does use cookies to store information about visitors preferences
 
   * **PinoyRecipe.net** serve Gourmet Ads and its primary ad server is Appnexus and you can opt out of cookies from them by visiting ;  
 http://appnexus.com/platform-policy#choices and Opting Out.
-  * You can also opt out of cookies using the Network Advertising Initiative opt-out page at this page; 
-
+  * You can also opt out of cookies using the Network Advertising Initiative opt-out page at this page;  
 http://www.networkadvertising.org/choices/
-
   * Finally, you can choose to disable or selectively turn off cookies or third-party cookies in your browser settings.
 
 
