@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the persiankitty.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123184152id_/http%3A//persiankitty.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the persiankitty.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609234919id_/http%3A//www.persiankitty.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Persian Kitty 's Adult Links ! Privacy Policy
 
@@ -16,6 +16,6 @@ Our company does collect aggregate information on what pages a consumer accesses
 
 The information collected is used for internal purposes and then discarded, used to improve the content of our Web page and is never shared with other organizations for any purposes.
 
-##### December 29, 2012  
+##### December 29, 2014  
   
 ---|---
