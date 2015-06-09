@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phpflow.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224074700id_/http%3A//phpflow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpflow.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609044921id_/http%3A//phpflow.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Php Flow
 
@@ -19,7 +19,7 @@ No e-mail addresses sent to us as the result of registration or correspondence w
 phpflow.com will update this policy from time to time. It is your responsibility to check this page frequently if you wish to be made aware of such changes.
 
 **Questions or Suggestions**  
-If you have questions or concerns about our collection, use, or disclosure of your personal information, please email us at parvez1487@gmail.com
+If you have questions or concerns about our collection, use, or disclosure of your personal information, please email us at phpflow@gmail.com
 
 The following two tabs change content below.
 
@@ -28,4 +28,4 @@ The following two tabs change content below.
 
 
 
-Hi, This is Parvez Alam from India. I am software developer with 4 years’ experience in web development. I have submitted articles on PHP, Mysql, Magento,CSS, HTML, jQuery, web designing and social API. You can subscribe to my blog via [**RSS**](http://feeds.feedburner.com/PhpFlow)/[ **Twitter**](http://twitter.com/phpflow_blog)/[ **Google plus**](https://plus.google.com/100919189059838149689) and [**Facebook**](http://www.facebook.com/pages/phpflowcom/211083599002582). parvez1487(at)gmail(dot)com
+Hi, This is Parvez Alam from India. I am software developer with 6 years’ experience in web development. I have submitted articles on PHP, Mysql, Magento,CSS, HTML, jQuery, web designing and social API. You can subscribe to my blog via [**RSS**](http://feeds.feedburner.com/PhpFlow)/[ **Twitter**](http://twitter.com/phpflow_blog)/[ **Google plus**](https://plus.google.com/+Phpflow/posts) and [**Facebook**](http://www.facebook.com/pages/phpflowcom/211083599002582). parvez1487(at)gmail(dot)com
