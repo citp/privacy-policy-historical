@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gulfstream.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225093822id_/http%3A//www.gulfstream.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulfstream.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609070311id_/http%3A//www.gulfstream.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Gulfstream Aerospace - Legal - Privacy Policy
 
@@ -47,5 +47,5 @@ If you have any questions about this privacy policy, please contact us. We welco
 
 **Gulfstream Aerospace Corporation**  
 +1 912 965 3000  
-P.O. Box 2206  
+PO Box 2206  
 Savannah, GA 31402-2206
