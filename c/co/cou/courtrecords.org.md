@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the courtrecords.org privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921134059id_/http%3A//www.courtrecords.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courtrecords.org privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609064411id_/http%3A//www.courtrecords.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Courtrecords.org
 
@@ -85,7 +85,7 @@ Opt Out Compliance Department Fax: 1-617-933-9946
 
 **IMPORTANT NOTE:** Unsigned or incomplete requests will not be processed.
 
-**> >> This Fax Number is for opt-out requests _ONLY_.** Please click [HERE](https://web.archive.org/web/20140921134059id_/http%3A//www.courtrecords.org/help.php) to submit a customer service request for any other issues.
+**> >> This Fax Number is for opt-out requests _ONLY_.** Please click [HERE](https://web.archive.org/web/20150609064411id_/http%3A//www.courtrecords.org/help.php) to submit a customer service request for any other issues.
 
 **Or mail them to:**
 
