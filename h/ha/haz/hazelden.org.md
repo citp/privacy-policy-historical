@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hazelden.org privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010045931id_/http%3A//www.hazelden.org/web/go/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hazelden.org privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609224444id_/http%3A//www.hazelden.org/web/go/privacypolicy) for the most accurate reproduction.*
 
 # Alcohol and drug abuse rehab center for adults in MN, OR, IL, NY -- Hazelden
 
@@ -11,7 +11,7 @@
 P.O. Box 11  
 15251 Pleasant Valley Rd.  
 Center City, MN 55012-0011
-  * [info@hazelden.org](mailto:info@hazelden.org)
+  * [info@hazeldenbettyford.org](mailto:info@hazelden.org)
 
 
 
@@ -43,7 +43,7 @@ Hazelden uses the data to:
 To guard your information, our Web site uses Secure Sockets Layer (SSL). SSL encrypts your credit card number, name and address so only Hazelden is able to decode your information. Please note that email is not encrypted and is not considered to be a secure means of transmitting credit card information.
 
 **Cookies**  
-Some sections of our site (such as our online bookstore) use "cookies" in order to offer more personalized service. Cookies are a feature of your browser that store small amounts of data on your computer about your visit to a site. This helps our site to "remember" you and provide more personalized service the next time you visit. It is an automated process. Hazelden does not monitor or collect any data from cookies. [Read more about cookies](https://web.archive.org/web/20141010045931id_/http%3A//www.hazelden.org/web/public/h_cookie.page "Cookies are required on Hazelden's Web sites")
+Some sections of our site (such as our online bookstore) use "cookies" in order to offer more personalized service. Cookies are a feature of your browser that store small amounts of data on your computer about your visit to a site. This helps our site to "remember" you and provide more personalized service the next time you visit. It is an automated process. Hazelden does not monitor or collect any data from cookies. [Read more about cookies](https://web.archive.org/web/20150609224444id_/http%3A//www.hazelden.org/web/public/h_cookie.page "Cookies are required on Hazelden's Web sites")
 
 **IP Addresses**  
 The Web server automatically collects the IP (which stands for Internet Protocol) address of the computers that access our site. An IP address is a number that is assigned to your computer when you access the Internet. It is not truly personally identifiable information because many different individuals can access the Internet via the same computer. We use this information in aggregate form to understand how our site is being used and how we can better serve visitors.
