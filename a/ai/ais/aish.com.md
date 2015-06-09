@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aish.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121194430id_/http%3A//www.aish.com/csp/Aish-Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aish.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609224047id_/http%3A//www.aish.com/csp/Aish-Privacy-Policy.html) for the most accurate reproduction.*
 
 # Aish Privacy Policy
 
@@ -57,3 +57,7 @@ Using the e-mail addresses provided during registrations, surveys, and contests,
 
 **Security** :  
 Although we take precautions against security breaches, hackers pose a threat to any Internet user. We will make commercially reasonable efforts to see that your information is treated in compliance with this privacy policy.
+
+**General Disclaimer :**  
+The appearance of comments, advertisements or hyperlinks on this site do not necessarily indicate or constitute acceptance of or endorsement of the content, products, companies, corporations, or organizations in whole or in part by staff members and/or the members of the editorial board of aish.com and Aish HaTorah.  
+
