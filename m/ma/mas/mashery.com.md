@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mashery.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228114639id_/http%3A//www.mashery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mashery.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610010217id_/http%3A//www.mashery.com/privacy) for the most accurate reproduction.*
 
-# Mashery Corporate Privacy Policy | Intel Services
+# Mashery Corporate Privacy Policy | Mashery
 
 AS OF MAY 6, 2013, MASHERY, INC. HAS BEEN PURCHASED BY INTEL CORPORATION.
 
