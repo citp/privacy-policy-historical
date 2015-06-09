@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icgrouplp.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705061051id_/https%3A//icgrouplp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icgrouplp.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609105829id_/https%3A//icgrouplp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy, IC Group
 
@@ -8,7 +8,7 @@ IC Group LP (IC) is a privately held organization that delivers online promotion
 
 The purpose of this Privacy Policy is to inform you of what kinds of information we may collect about you when you participate in a promotional offer IC is administering, how we typically use that information and who we disclose it to. Our Privacy Policy applies only to IC and not to other companies' or organizations' web sites to which we link. We are not responsible for the content or privacy practices of other sites. Our Privacy Policy applies solely to information collected, used and disclosed by IC. 
 
-his privacy policy outlines IC's commitment to the protection of personal information under our control, in accordance with The Personal Information and Electronics Documents Act (PIPEDA). IC adheres to Ten Privacy Principles, established by PIPEDA, to ensure personal information is protected.
+This privacy policy outlines IC's commitment to the protection of personal information under our control, in accordance with The Personal Information and Electronics Documents Act (PIPEDA). IC adheres to Ten Privacy Principles, established by PIPEDA, to ensure personal information is protected.
 
 ## What information does IC collect about you?
 
