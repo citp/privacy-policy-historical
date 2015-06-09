@@ -1,17 +1,99 @@
-> *The following text is extracted and transformed from the everdrive.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218202808id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everdrive.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609234055id_/http%3A//www.stoneagegamer.com/privacy.html) for the most accurate reproduction.*
 
-# Legal
+# Stone Age Gamer - Privacy Policy
 
-* * *
+**STONE AGE GAMER LLC**
 
-**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
+**PRIVACY POLICY - COMMITMENT TO YOUR PRIVACY**
 
-  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
-  * the date and time you access the website and pages you visit;
-  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
-  * demographic and other non-personally identifiable profile information about you; and
-  * information to combat fraud or misuse
+This site is owned and operated by Stone Age Gamer LLC. Your privacy on the Internet is of the utmost importance to us. At Stone Age Gamer LLC, we want to make your experience online satisfying and safe.
+
+Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
+
+_**INFORMATION STONE AGE GAMER LLC GATHERS AND TRACKS**_
+
+Stone Age Gamer LLC gathers three types of information about users:
+
+  * Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys.
+  * Information Stone Age Gamer LLC gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to our shoppers'needs and to help our advertisers and sponsors better understand the demographics of our audience.
+  * Information that a shopper provides to Stone Age Gamer LLC through shipping, contact, and payment information. All shoppers have the option to check out as a guest or to create an account. We will never sell or distribute your contact and buying preference information to third party without the permission of the user.
 
 
 
-**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+Stone Age Gamer LLC Gathers User Information In The Following Processes:
+
+**Optional Voluntary Information**
+
+We offer the following free services, which require some type of voluntary submission of personal information by users:
+
+1\. Electronic newsletters policy (Dispatches)
+
+We will offer a free electronic newsletter to users. Stone Age Gamer LLC gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration.
+
+2\. Message boards/forums policy
+
+Users of the site's Message Boards and Forums must register separately for these services (free of charge) in order to post messages, although they needn't
+
+register to visit the site. During registration the user is required to supply a username, password, and email address.
+
+3\. "E-mail this to a friend" policy
+
+Our site users can choose to electronically forward a link, page, or documents to someone else by clicking "e-mail this to a friend". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose.
+
+4\. Polling
+
+We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. Stone Age Gamer LLC may use a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users.
+
+5\. Surveys
+
+Stone Age Gamer LLC may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party.
+
+**Children**
+
+Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent.
+
+**Usage tracking**
+
+Stone Age Gamer LLC tracks user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. Stone Age Gamer LLC does break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser).
+
+Stone Age Gamer LLC sometimes tracks and catalogs the search terms that users enter in our Search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you.
+
+**Cookies**
+
+We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Stone Age Gamer LLC uses cookies to track user traffic patterns (as described above) and shopping cart data. Our advertising system delivers a one-time cookie to better track ad impressions and click rates.
+
+You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in buying products, forums, polling, and surveys.
+
+_**USE OF INFORMATION**_
+
+Stone Age Gamer LLC uses any information voluntarily given by our users to enhance their experience on our of site, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users.
+
+As stated above, we use information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in polls, surveys, and forums. We send out newsletters to subscribers on a regular schedule (depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. Stone Age Gamer LLC never shares newsletter mailing lists with any third parties, including advertisers, sponsors or partners.
+
+When we use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. We track search terms entered in Search function as one of many measures of what interests our users. But we don't track which terms a particular user enters.
+
+Stone Age Gamer LLC creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we don't track the usage patterns of individual users, an advertiser or sponsor will never know that a specific user clicked their ad. We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
+
+_**SHARING OF THE INFORMATION**_
+
+Stone Age Gamer LLC uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our users'shopping experience at a high level. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
+
+_**SECURITY**_
+
+Stone Age Gamer LLC operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers.
+
+_**OPT-OUT POLICY**_
+
+We give users options wherever necessary and practical. Such choices include:
+
+  * Opting not to register to receive our electronic newsletters.
+  * Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users.
+  * Opting out of shopping account registration
+
+
+
+_**YOUR CONSENT**_
+
+By using this site, you consent to the collection and use of this information by Stone Age Gamer LLC. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+
+Last Updated: May 25, 2013
