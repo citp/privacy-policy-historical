@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidguys.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217132730id_/http%3A//www.androidguys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidguys.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610013452id_/http%3A//www.androidguys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AndroidGuys
 
