@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the henryford.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127123435id_/http%3A//www.henryford.com/body.cfm%3Fid%3D56405) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henryford.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609200654id_/http%3A//www.henryford.com/body.cfm%3Fid%3D56405) for the most accurate reproduction.*
 
-# Privacy and Security Detroit, Michigan (MI) - Henry Ford Hospital
+# Privacy Policy and Patient Security Detroit, Michigan (MI) - Henry Ford Hospital
 
 ## Our Pledge to Protect Your Privacy
 
