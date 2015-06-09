@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the positivemed.com privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212231100id_/http%3A//positivemed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the positivemed.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610001320id_/http%3A//positivemed.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy ~PositiveMed | Stay Healthy. Live Happy
+# Privacy Policy - PositiveMed
 
 This Privacy Policy governs the manner in which PositiveMed collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://positivemed.com](http://positivemed.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by PositiveMed.
 
@@ -59,10 +59,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-PositiveMed
-
-http://positivemed.com
-
+PositiveMed  
+http://positivemed.com  
 +1 (917) 608-0704  
 info@positivemed.com
 
