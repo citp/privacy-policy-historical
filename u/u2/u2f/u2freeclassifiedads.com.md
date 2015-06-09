@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the u2freeclassifiedads.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614173528id_/http%3A//www.u2freeclassifiedads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the u2freeclassifiedads.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609043647id_/http%3A//www.u2freeclassifiedads.com/privacy.php) for the most accurate reproduction.*
 
 # Qtellwholesale Limited Private Policy and Cookie Policy Ireland for all webdesign, eCommerce plus all classifieds web sites
 
