@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the licklibrary.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122080629id_/http%3A//www.licklibrary.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the licklibrary.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610011602id_/http%3A//www.licklibrary.com/privacy-policy) for the most accurate reproduction.*
 
 # LickLibrary - Privacy Policay
+
+BESbswyBESbswyBESbswyBESbswy
 
 Licklibrary.com is committed to keeping the personal details of its visitors and customers private and secure (information is collected and stored in accordance with the Data Protection Act 1998). 
 
@@ -24,7 +26,8 @@ We use the personal information you give us for the following purposes: 
 
 We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings. Note that if you modify your browser to refuse cookies from Licklibrary.com, parts of the web site may not function as expected. For more information about cookies and how to control them, please visit [AboutCookies.org](http://aboutcookies.org/).  
 The personal information which we hold will be held securely in accordance with our internal security policy and the law.   
-If you have any questions about Licklibrary.com's privacy policy please email them to [info@licklibrary.com](mailto:info@licklibrary.com)
+If you have any questions about Licklibrary.com's privacy policy please email them to [info@licklibrary.com](mailto:info@licklibrary.com)  
+
 
 ## Our website uses cookies, please read
 
