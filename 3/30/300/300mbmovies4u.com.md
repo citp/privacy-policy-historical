@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 300mbmovies4u.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111071313id_/http%3A//300mbmovies4u.com/privecy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 300mbmovies4u.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610010412id_/http%3A//300mbmovies4u.com/privecy-policy) for the most accurate reproduction.*
 
-# 300mbmovies4u.comPrivecy Policy - 300mbmovies4u.com
+# 300mbmovies4u.com - Privecy Policy - 300mbmovies4u.com
 
 **What information do we collect?**
 
