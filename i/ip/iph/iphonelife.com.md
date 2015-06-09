@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iphonelife.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024045311id_/http%3A//www.iphonelife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphonelife.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609233331id_/http%3A//www.iphonelife.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | iPhone Life
 
@@ -33,13 +33,21 @@ On occasion we may send you relevant email concerning our products or services. 
 
   3. As part of our service, we link to many Web sites. We consider these useful, reputable sites. However, due to the changing nature of the Web, we cannot assume responsibility for content, security, or privacy policies of any of these Web sites.
 
-  4. We use cookies and web beacons to enable our shopping cart, to track web traffic, and support advertising partnerships such as Google and Tech Net. We do not profile or collect personally identifiable information on individuals.
+  4. We use cookies and web beacons to enable our shopping cart, to track web traffic, and support advertising partnerships such as Google, AdRoll and Tech Net. We do not profile or collect personally identifiable information on individuals.
 
-  5. We use traffic pattern information from our Web sites, collected demographics, and Web survey information to provide better, more appropriate editorial products, and to encourage vendors to advertise. We may share collective information internally and among potential advertisers, but we never share data about specific individuals.
+  5. As you browse iphonelife.com and other websites, online ad networks we work with may place anonymous cookies on your computer, and use similar technologies, in order to understand your interests based on your (anonymous) online activities, and thus to tailor more relevant ads to you. If you do not wish to receive such tailored advertising, you can visit this [page](http://www.networkadvertising.org/choices/) to opt out of most companies that engage in such advertising.  (This will not prevent you from seeing ads; the ads simply will not be delivered through these targeting methods.)
 
-  6. If you have complaints or concerns, you may e-mail the Publisher, [David Averbach](mailto:david@iphonelife.com).
+  6. We do not link the non-personally identifiable information we store using cookies (described above) to any personally identifiable information you submit while on our site such as email, subscription detials, etc.
 
-  7. If you wish to unsubscribe from any of our newsletters, use the Unsubscribe link that you'll find at the bottom of each newsletter we send you. Otherwise, send an e-mail to newsletters@iphonelife.com with the word "Unsubscribe" in the subject line and let us know which newsletter you wish to be unsubscribed from.
+  7. We use traffic pattern information from our Web sites, collected demographics, and Web survey information to provide better, more appropriate editorial products, deliver more targeted ads including retargeting campaigns, and to encourage vendors to advertise. We may share collective information internally and among potential advertisers, but we never share data about specific individuals.
+
+  8. If you would like to remove these cookies, you can disable cookies in your browser, or follow instructions for your specific browser and platform for clearing out your cookie data.
+
+  9. If you have complaints or concerns, you may e-mail the Publisher, [David Averbach](mailto:david@iphonelife.com).
+
+  10. If you wish to unsubscribe from any of our newsletters, use the Unsubscribe link that you'll find at the bottom of each newsletter we send you. Otherwise, send an e-mail to newsletters@iphonelife.com with the word "Unsubscribe" in the subject line and let us know which newsletter you wish to be unsubscribed from.
+
+  11. All sensitive personal information, such as bank details and credit card numbers, are collected using a secure server (https://) and follows security regulations for such practices.
 
 
 
