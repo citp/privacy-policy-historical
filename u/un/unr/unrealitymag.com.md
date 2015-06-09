@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the unrealitymag.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215082106id_/http%3A//unrealitymag.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unrealitymag.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609044507id_/http%3A//unrealitymag.com/privacy) for the most accurate reproduction.*
 
-# Privacy |
-
-Mar  13  2009 
-
-Published by 
+# Privacy - Unreality Mag
 
 Your privacy on the internet is important to us. As a part of the operation of unrealitymag.com we gather only email addresses submitted to us, these are used only by ourselves to inform you of any updates or for communication etc and are never passed to any third party for any reason.
 
