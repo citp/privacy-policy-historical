@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realmomkitchen.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123181758id_/http%3A//realmomkitchen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realmomkitchen.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610015640id_/http%3A//realmomkitchen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Real Mom Kitchen
 
@@ -19,6 +19,10 @@ Real Mom Kitchen is not responsible for the content of external internet sites. 
 **Cookies**
 
 A “cookie” is a small data text file that is placed in your browser and allows Real Mom Kitchen to recognize you each time you visit this site. Cookies themselves do not contain any personal information, and Real Mom Kitchen does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as news feeds.
+
+**Ads**
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated infromation (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp)
 
 **Remember The Risks Whenever You Use The Internet**
 
