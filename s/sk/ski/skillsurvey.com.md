@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the skillsurvey.com privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212062403id_/http%3A//www.skillsurvey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skillsurvey.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609051332id_/http%3A//www.skillsurvey.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SkillSurvey - Reference Assessment | Automated Reference Checking
+# Privacy Policy | SkillSurvey
 
-### The SkillSurvey System
+#### The SkillSurvey System
 
 SkillSurvey provides a web-based service that enables the assessment of an individual’s competencies for a specific job based on confidential feedback from people that have worked with that individual in the past.
 
@@ -10,7 +10,7 @@ Organizations and individuals (Subscribers) use the service to send emails to th
 
 Candidate reports are either generated automatically or monitored and finalized by customer personnel (such as HR staff, recruiters, hiring managers, etc.).
 
-### General Security Policy
+#### General Security Policy
 
 Your privacy is our top concern. We work hard to earn and keep your trust, so we adhere to the following principles to protect your privacy:
 
@@ -22,7 +22,7 @@ Your privacy is our top concern. We work hard to earn and keep your trust, so we
 
 Notice of all changes that materially affect ways in which your personally identifiable data may be used or shared will be posted in updates to our Privacy Policy. If you continue to use the SkillSurvey service after notice of changes have been sent to you or published on our site, you hereby provide your consent to the changed practices.
 
-### Information Collection
+#### Information Collection
 
 SkillSurvey does not collect personally identifying information from visitors to this site unless specifically provided by our customers, their job candidates, or the job candidate’s references. Personally identifiable information includes name, email address and other data elements required to perform the SkillSurvey reference checking process for our customers.
 
@@ -32,7 +32,7 @@ SkillSurvey also collects IP addresses for system administration and record keep
 
 SkillSurvey uses “cookies” – files written to the visitor’s computer that are used by some sites for record-keeping or to remember certain information about visitors during their visit only. These cookies are removed after each session.
 
-### Information Use
+#### Information Use
 
 SkillSurvey does not provide or sell any of this information to third parties and will not use your personally identifiable information except to:
 
@@ -47,7 +47,7 @@ We may provide aggregated data about the usage of our service to third-parties f
 
 It is possible that we may need to disclose personal information when required by law. We will disclose such information wherein we have a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceeding, or other legal process served on our company or to exercise our legal rights or defend against legal claims.
 
-### Website Security
+#### Website Security
 
 Special attention is appropriately given to website security and the overall security of all data storage, processing, and transmission systems. This website, and its use as a data conduit, is protected by:
 
@@ -61,15 +61,17 @@ Special attention is appropriately given to website security and the overall sec
 
 **Further Information and Corporate Address**
 
-If you have any questions about the privacy statement and other policies outlined above, the practices of this site, or any other aspect of SkillSurvey, Inc., please contact:  
+If you have any questions about the privacy statement and other policies outlined above, the practices of this site, or any other aspect of SkillSurvey, Inc., please contact:
+
 SkillSurvey, Inc.  
 Corporate Headquarters  
 565 E. Swedesford Road  
 Wayne, PA 19087  
-Email: customerservice@skillsurvey.com  
+Email: customerservice@skillsurvey.com
+
 The foregoing policies are effective as of August 8, 2006. SkillSurvey reserves the right to change this policy at any time. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
-  *  [Terms of Use](https://web.archive.org/web/20141212062403id_/http://www.skillsurvey.com/privacy-policy/skillsurvey-inc-terms-of-use/)
-  * [ Service Level Agreement](https://web.archive.org/web/20141212062403id_/http://www.skillsurvey.com/service-level-agreement/)
+  * [Terms of Use](https://web.archive.org/web/20150609051332id_/http://www.skillsurvey.com/skillsurvey-inc-terms-of-use/ "SKILLSURVEY INC. TERMS OF USE")
+  * [Service Level Agreement](https://web.archive.org/web/20150609051332id_/http://www.skillsurvey.com/service-level-agreement/ "Service Level Agreement")
 
 
