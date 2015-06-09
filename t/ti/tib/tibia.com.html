@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tibia.com privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120005625id_/http%3A//www.tibia.com/support/%3Fsubtopic%3Dlegaldocuments%26page%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tibia.com privacy policy that was archived on 2015-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610015629id_/http%3A//www.tibia.com/support/%3Fsubtopic%3Dlegaldocuments%26page%3Dprivacy) for the most accurate reproduction.-->
 
 <html><head>
   <title>Tibia - Free Multiplayer Online Role Playing Game - Support</title>
@@ -28,13 +28,13 @@
   <!-- Fallback for older devices: -->
   <link rel="apple-touch-icon-precomposed" href="http://static.tibia.com/images/global/general/apple-touch-icon-precomposed.png">
 
-  <link href="http://static.tibia.com/styles/basic_d.css?version=42fa3b633c886572660272833a224164" rel="stylesheet" type="text/css">
+  <link href="http://static.tibia.com/styles/basic_d.css?version=420a0cf1302f34c0ea26436b26dd6bd6" rel="stylesheet" type="text/css">
   
-  <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="http://static.tibia.com/javascripts/extern/jquery.js"></script>
+  <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" src="http://static.tibia.com/javascripts/extern/jquery.js"></script>
   <script type="text/javascript" src="http://static.tibia.com/javascripts/extern/jquery_ui/jquery-ui.core.js"></script>
   <script type="text/javascript" src="http://static.tibia.com/javascripts/extern/jquery_ui/jquery-ui.widgets.js"></script>
   <script type="text/javascript" src="http://static.tibia.com/javascripts/ajax/ajaxcip.js"></script>
-    <script type="text/javascript" src="http://static.tibia.com/javascripts/generic.js?version=c467d848767ab57ecf472272a31ed9d5"></script>
+    <script type="text/javascript" src="http://static.tibia.com/javascripts/generic.js?version=162424c1525895fb7aa44914903651ca"></script>
   <script type="text/javascript">  var loginStatus=0; loginStatus='false';  var activeSubmenuItem='legaldocuments';  var JS_DIR_IMAGES=0; JS_DIR_IMAGES='http://static.tibia.com/images/';  var JS_DIR_ACCOUNT=0; JS_DIR_ACCOUNT='https://secure.tibia.com/account/';  var g_FormName='';  var g_FormField='';  var g_Deactivated=false;  var g_FlashClientInPopUp=true;var FB_TryLogin = 0;var FB_ForceReload = 0;</script><script type="text/javascript">
   if(top.location != window.location) {
     g_FlashClientInPopUp = false;
@@ -51,7 +51,8 @@
       appId      : 497232093667125, // App ID
       status     : true,              // check login status
       cookie     : true,              // enable cookies to allow the server to access the session
-      xfbml      : true               // parse XFBML
+      xfbml      : true,              // parse XFBML
+      version    : "v2.3"             // API version
     });
     FB.Event.subscribe('auth.login', function() {
       var URLHelper = "?";
@@ -63,7 +64,6 @@
       } else if (FB_TryLogin == 2) {
         window.location = window.location + URLHelper + "page=facebooktrylogin&wasreloaded=1";
       } else {
-        window.location = window.location + URLHelper + "wasreloaded=1";
       }
     });
     FB.Event.subscribe('auth.logout', function(a_Response) {
@@ -83,13 +83,13 @@
       }
     });
   };
-  (function(d){
-    var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
-    if (d.getElementById(id)) {return;}
-    js = d.createElement('script'); js.id = id; js.async = true;
-    js.src = "//connect.facebook.net/en_US/all.js";
-    ref.parentNode.insertBefore(js, ref);
-  }(document));
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
 </script>
 
   <div id="DeactivationContainer" onclick="DisableDeactivationContainer();"></div>
@@ -351,7 +351,7 @@
   </div>
 </span>
 <div id="community_Submenu" class="Submenu">
-<a href="http://www.tibia.com/community/?subtopic=characters">
+<a href="https://secure.tibia.com/community/?subtopic=characters">
   <div id="submenu_characters" class="Submenuitem" onmouseover="MouseOverSubmenuItem(this)" onmouseout="MouseOutSubmenuItem(this)">
     <div class="LeftChain" style="background-image:url(http://static.tibia.com/images/global/general/chain.gif);"></div>
     <div id="ActiveSubmenuItemIcon_characters" class="ActiveSubmenuItemIcon" style="background-image:url(http://static.tibia.com/images/global/menu/icon-activesubmenu.gif);"></div>
@@ -359,7 +359,7 @@
     <div class="RightChain" style="background-image:url(http://static.tibia.com/images/global/general/chain.gif);"></div>
   </div>
 </a>
-<a href="http://www.tibia.com/community/?subtopic=worlds">
+<a href="https://secure.tibia.com/community/?subtopic=worlds">
   <div id="submenu_worlds" class="Submenuitem" onmouseover="MouseOverSubmenuItem(this)" onmouseout="MouseOutSubmenuItem(this)">
     <div class="LeftChain" style="background-image:url(http://static.tibia.com/images/global/general/chain.gif);"></div>
     <div id="ActiveSubmenuItemIcon_worlds" class="ActiveSubmenuItemIcon" style="background-image:url(http://static.tibia.com/images/global/menu/icon-activesubmenu.gif);"></div>
@@ -367,7 +367,7 @@
     <div class="RightChain" style="background-image:url(http://static.tibia.com/images/global/general/chain.gif);"></div>
   </div>
 </a>
-<a href="http://www.tibia.com/community/?subtopic=highscores">
+<a href="https://secure.tibia.com/community/?subtopic=highscores">
   <div id="submenu_highscores" class="Submenuitem" onmouseover="MouseOverSubmenuItem(this)" onmouseout="MouseOutSubmenuItem(this)">
     <div class="LeftChain" style="background-image:url(http://static.tibia.com/images/global/general/chain.gif);"></div>
     <div id="ActiveSubmenuItemIcon_highscores" class="ActiveSubmenuItemIcon" style="background-image:url(http://static.tibia.com/images/global/menu/icon-activesubmenu.gif);"></div>
@@ -375,7 +375,7 @@
     <div class="RightChain" style="background-image:url(http://static.tibia.com/images/global/general/chain.gif);"></div>
   </div>
 </a>
-<a href="http://www.tibia.com/community/?subtopic=killstatistics">
+<a href="https://secure.tibia.com/community/?subtopic=killstatistics">
   <div id="submenu_killstatistics" class="Submenuitem" onmouseover="MouseOverSubmenuItem(this)" onmouseout="MouseOutSubmenuItem(this)">
     <div class="LeftChain" style="background-image:url(http://static.tibia.com/images/global/general/chain.gif);"></div>
     <div id="ActiveSubmenuItemIcon_killstatistics" class="ActiveSubmenuItemIcon" style="background-image:url(http://static.tibia.com/images/global/menu/icon-activesubmenu.gif);"></div>
@@ -383,7 +383,7 @@
     <div class="RightChain" style="background-image:url(http://static.tibia.com/images/global/general/chain.gif);"></div>
   </div>
 </a>
-<a href="http://www.tibia.com/community/?subtopic=houses">
+<a href="https://secure.tibia.com/community/?subtopic=houses">
   <div id="submenu_houses" class="Submenuitem" onmouseover="MouseOverSubmenuItem(this)" onmouseout="MouseOutSubmenuItem(this)">
     <div class="LeftChain" style="background-image:url(http://static.tibia.com/images/global/general/chain.gif);"></div>
     <div id="ActiveSubmenuItemIcon_houses" class="ActiveSubmenuItemIcon" style="background-image:url(http://static.tibia.com/images/global/menu/icon-activesubmenu.gif);"></div>
@@ -391,7 +391,7 @@
     <div class="RightChain" style="background-image:url(http://static.tibia.com/images/global/general/chain.gif);"></div>
   </div>
 </a>
-<a href="http://www.tibia.com/community/?subtopic=guilds">
+<a href="https://secure.tibia.com/community/?subtopic=guilds">
   <div id="submenu_guilds" class="Submenuitem" onmouseover="MouseOverSubmenuItem(this)" onmouseout="MouseOutSubmenuItem(this)">
     <div class="LeftChain" style="background-image:url(http://static.tibia.com/images/global/general/chain.gif);"></div>
     <div id="ActiveSubmenuItemIcon_guilds" class="ActiveSubmenuItemIcon" style="background-image:url(http://static.tibia.com/images/global/menu/icon-activesubmenu.gif);"></div>
@@ -399,7 +399,7 @@
     <div class="RightChain" style="background-image:url(http://static.tibia.com/images/global/general/chain.gif);"></div>
   </div>
 </a>
-<a href="http://www.tibia.com/community/?subtopic=polls">
+<a href="https://secure.tibia.com/community/?subtopic=polls">
   <div id="submenu_polls" class="Submenuitem" onmouseover="MouseOverSubmenuItem(this)" onmouseout="MouseOutSubmenuItem(this)">
     <div class="LeftChain" style="background-image:url(http://static.tibia.com/images/global/general/chain.gif);"></div>
     <div id="ActiveSubmenuItemIcon_polls" class="ActiveSubmenuItemIcon" style="background-image:url(http://static.tibia.com/images/global/menu/icon-activesubmenu.gif);"></div>
@@ -407,7 +407,7 @@
     <div class="RightChain" style="background-image:url(http://static.tibia.com/images/global/general/chain.gif);"></div>
   </div>
 </a>
-<a href="http://www.tibia.com/community/?subtopic=feedbackform">
+<a href="https://secure.tibia.com/community/?subtopic=feedbackform">
   <div id="submenu_feedbackform" class="Submenuitem" onmouseover="MouseOverSubmenuItem(this)" onmouseout="MouseOutSubmenuItem(this)">
     <div class="LeftChain" style="background-image:url(http://static.tibia.com/images/global/general/chain.gif);"></div>
     <div id="ActiveSubmenuItemIcon_feedbackform" class="ActiveSubmenuItemIcon" style="background-image:url(http://static.tibia.com/images/global/menu/icon-activesubmenu.gif);"></div>
@@ -415,7 +415,7 @@
     <div class="RightChain" style="background-image:url(http://static.tibia.com/images/global/general/chain.gif);"></div>
   </div>
 </a>
-<a href="http://www.tibia.com/community/?subtopic=conventions">
+<a href="https://secure.tibia.com/community/?subtopic=conventions">
   <div id="submenu_conventions" class="Submenuitem" onmouseover="MouseOverSubmenuItem(this)" onmouseout="MouseOutSubmenuItem(this)">
     <div class="LeftChain" style="background-image:url(http://static.tibia.com/images/global/general/chain.gif);"></div>
     <div id="ActiveSubmenuItemIcon_conventions" class="ActiveSubmenuItemIcon" style="background-image:url(http://static.tibia.com/images/global/menu/icon-activesubmenu.gif);"></div>
@@ -423,7 +423,7 @@
     <div class="RightChain" style="background-image:url(http://static.tibia.com/images/global/general/chain.gif);"></div>
   </div>
 </a>
-<a href="http://www.tibia.com/community/?subtopic=fansites">
+<a href="https://secure.tibia.com/community/?subtopic=fansites">
   <div id="submenu_fansites" class="Submenuitem" onmouseover="MouseOverSubmenuItem(this)" onmouseout="MouseOutSubmenuItem(this)">
     <div class="LeftChain" style="background-image:url(http://static.tibia.com/images/global/general/chain.gif);"></div>
     <div id="ActiveSubmenuItemIcon_fansites" class="ActiveSubmenuItemIcon" style="background-image:url(http://static.tibia.com/images/global/menu/icon-activesubmenu.gif);"></div>
@@ -431,7 +431,7 @@
     <div class="RightChain" style="background-image:url(http://static.tibia.com/images/global/general/chain.gif);"></div>
   </div>
 </a>
-<a href="http://www.tibia.com/community/?subtopic=resellers">
+<a href="https://secure.tibia.com/community/?subtopic=resellers">
   <div id="submenu_resellers" class="Submenuitem" onmouseover="MouseOverSubmenuItem(this)" onmouseout="MouseOutSubmenuItem(this)">
     <div class="LeftChain" style="background-image:url(http://static.tibia.com/images/global/general/chain.gif);"></div>
     <div id="ActiveSubmenuItemIcon_resellers" class="ActiveSubmenuItemIcon" style="background-image:url(http://static.tibia.com/images/global/menu/icon-activesubmenu.gif);"></div>
@@ -669,7 +669,7 @@ Third parties may possibly be based in countries outside of the European Union, 
                 <div id="RightArtwork">
                   <img id="Monster" src="http://static.tibia.com/images/global/header/monsters/marid.gif" onclick="window.location = 'http://www.tibia.com/library/?subtopic=creatures&amp;race=marid';" alt="Monster of the Week">
                   <img id="PedestalAndOnline" src="http://static.tibia.com/images/global/header/pedestal-and-online.gif" alt="Monster Pedestal and Players Online Box">
-                  <div id="PlayersOnline" onclick="window.location = 'http://www.tibia.com/community/?subtopic=worlds';">17056<br>Players Online</div>
+                  <div id="PlayersOnline" onclick="window.location = 'https://secure.tibia.com/community/?subtopic=worlds';">14622<br>Players Online</div>
                 </div>
                 <div id="Themeboxes">
                   <!-- premium theme box -->
@@ -682,14 +682,15 @@ Third parties may possibly be based in countries outside of the European Union, 
 <!-- networks theme box -->
 <div id="NetworksBox" class="Themebox" style="background-image:url(http://static.tibia.com/images/global/themeboxes/networks/networksbox.png);">
   <div id="FacebookBlock">
-    <div id="FacebookLikeBox">
-      <div class="fb-like-box" data-href="https://www.facebook.com/tibia" data-width="175" data-height="180" data-show-faces="true" data-stream="false" data-border-color="none" data-header="false"></div>
+    <a id="FacebookPageLink" target="_blank" href="https://www.facebook.com/tibia"><img src="http://static.tibia.com/images/global/themeboxes/networks/tibia-facebook-page-logo.png"></a>
+    <div id="FacebookLikeButton">
+      <div class="fb-like" data-href="https://www.facebook.com/tibia" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
     </div>
-    <div id="FacebookSendBox">
-      <div class="fb-send" data-href="https://www.facebook.com/tibia" data-width="50" data-height="20"></div>
+    <div id="FacebookShareButton">
+      <div class="fb-share-button" data-href="https://www.facebook.com/tibia" data-layout="button"></div>
     </div>
     <div id="FacebookLikes">
-      <div class="fb-like" data-href="https://www.facebook.com/tibia" data-width="50" data-layout="standard" data-action="recommend" data-show-faces="false"></div>
+      <div class="fb-like" data-href="https://www.facebook.com/tibia" data-width="250" data-layout="standard" data-action="recommend" data-show-faces="false"></div>
     </div>
   </div>
   <div id="TwitterBlock">
@@ -702,10 +703,10 @@ Third parties may possibly be based in countries outside of the European Union, 
     <!-- random fansite theme box -->
     <div id="FansiteBox" class="Themebox" style="background-image:url(http://static.tibia.com/images/global/themeboxes/fansites/fansites_themebox.gif);">
       <div id="FansiteLogoFrame" style="background-image:url(http://static.tibia.com/images/global/themeboxes/fansites/border_supported.gif);">
-        <a href="http://www.tibiastat.com" target="_blank"><img id="FansiteLogo" src="http://static.tibia.com/images/community/fansitelogos/TibiaStat.com.gif"></a>
+        <a href="http://www.tibiaguias.com.br/" target="_blank"><img id="FansiteLogo" src="http://static.tibia.com/images/community/fansitelogos/TibiaGuias.com.br.gif"></a>
       </div>
       <div class="ThemeboxButton">
-        <form action="http://www.tibia.com/community/?subtopic=fansites" method="post" style="padding:0px;margin:0px;"><div class="BigButton" style="background-image:url(http://static.tibia.com/images/global/buttons/sbutton.gif)"><div onmouseover="MouseOverBigButton(this);" onmouseout="MouseOutBigButton(this);"><div class="BigButtonOver" style="background-image:url(http://static.tibia.com/images/global/buttons/sbutton_over.gif);"></div><input class="ButtonText" type="image" name="View all Fansites" alt="View all Fansites" src="http://static.tibia.com/images/global/buttons/_sbutton_viewallfansites.gif"></div></div></form>      </div>
+        <form action="https://secure.tibia.com/community/?subtopic=fansites" method="post" style="padding:0px;margin:0px;"><div class="BigButton" style="background-image:url(http://static.tibia.com/images/global/buttons/sbutton.gif)"><div onmouseover="MouseOverBigButton(this);" onmouseout="MouseOutBigButton(this);"><div class="BigButtonOver" style="background-image:url(http://static.tibia.com/images/global/buttons/sbutton_over.gif);"></div><input class="ButtonText" type="image" name="View all Fansites" alt="View all Fansites" src="http://static.tibia.com/images/global/buttons/_sbutton_viewallfansites.gif"></div></div></form>      </div>
       <div class="Bottom" style="background-image:url(http://static.tibia.com/images/global/general/box-bottom.gif);"></div>
     </div>
                 </div>
