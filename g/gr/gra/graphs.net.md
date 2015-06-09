@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphs.net privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027050914id_/http%3A//graphs.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphs.net privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610002011id_/http%3A//graphs.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Infographics | Graphs.net
 
