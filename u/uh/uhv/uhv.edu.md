@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uhv.edu privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122001120id_/http%3A//www.uhv.edu/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhv.edu privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609091821id_/http%3A//www.uhv.edu/aboutuhv/privacy.aspx) for the most accurate reproduction.*
 
-# University of Houston-Victoria | Privacy Policy
+# Privacy and Policies - University of Houston, Victoria
 
 ## Privacy Policy
 
@@ -26,7 +26,7 @@ NOTE: Due to the evolving nature of UHV, technology, and the World Wide Web, UHV
       * Particularly, [§ 1194.22 Web-based intranet and internet information and applications](http://www.section508.gov/section-508-standards-guide#Web).
     * Texas Dept. of Information Resources (DIR) [Standards Review and Recommendations Publications (SRRPUBs)](http://www.dir.texas.gov/pubs/srrpubs/Pages/SRRPUBs.aspx)
     * Texas Administrative Code (TAC) Chapter 206: State Websites. 
-      * Particularly, [Subchapter C: Institution of Higher Education Websites](https://web.archive.org/web/20141122001120id_/http%3A//www.uhv.edu/TAC20670.aspx).
+      * Particularly, [Subchapter C: Institution of Higher Education Websites](http://www.uhv.edu/TAC20670.aspx).
     * Web Content Accessibility Guidelines ([WCAG](http://www.w3.org/WAI/intro/wcag))
 
 
