@@ -1,55 +1,80 @@
-> *The following text is extracted and transformed from the utahcoupondeals.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626075558id_/http%3A//lovebugsandpostcards.com/getting-started/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utahcoupondeals.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610004710id_/http%3A//lovebugsandpostcards.com/getting-started/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lovebugs and Postcards
 
-[ ](http://lovebugsandpostcards.com/getting-started/privacy-policy/locked-keys/)
+[](http://lovebugsandpostcards.com/getting-started/privacy-policy/locked-keys/)
 
-At Utah Coupon Deals, we are committed to protecting your privacy wither you are a first-time visitor or regular reader of this website.
+This privacy policy sets out how Lovebugs & Postcards uses and protects any information that you give while using www.lovebugsandpostcards.com
 
-**Information Collection**
+Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-When you send us an email, subscribe to email updates for Utah Coupon Deals, or register on Utah Coupon Deals, you will provide us with certain personally identifiable information including your email address. When you register, we request username, email and password. To make comments, you will be asked to supply name or nickname, email address, and website (not required).
+Lovebugs & Postcards  may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1/14/15.
 
-**Third-Party Links and Advertising**
+**What we collect**
 
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
+We may collect the following information:
 
-**Disclaimer**  
-I do the best that I can to make sure that offers are legitimate and accurate at the time of posting. I am not responsible for any damages that may be incurred by users of utahcoupondeals.com. I give no guarantee of the information shared.
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-**Disclosure**  
-This blog accepts compensation for some of the links and information shared. This compensation will never influence the content, posts, or topics made on this blog. All of the opinions stated on utahcoupondeals.com belong to me. I will only endorse products, services and companies that I believe are legitimate and worthy of your time.
 
-**No Disclosure of Personal Information**
 
-Except as specified above, we do not intend to disclose any personal information about you to any third-party without prior consent unless we have a good faith belief that such action is necessary to: (i) complete your transaction; (ii) comply with legal process or other legal requirements of any governmental authority; (iii) protect and defend our rights or property; and (iv) enforce the terms and conditions on Utah Coupon Deals. We may provide certain information in aggregate form collected from you, and relating to you, to third-parties. However, we will not provide any personally identifying information.
+**What we do with the information we gather**
 
-**Postings**
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-We have no control over who reads your postings, or what other users may do with the information you voluntarily post, so please use caution when posting any personal information or comments.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-**Changes to this Privacy Statement**
 
-The contents of this statement may be altered at any time, at our discretion.
 
-**Questions**  
-If you have any questions about our Privacy Policy, please feel free to contact us at:
+**Security**
 
-Utah Coupon Deals  
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+**How we use cookies**
+
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+**Advertising**
+
+Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website. These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
+
+**Links to other websites**
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**Controlling your personal information**
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us.
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+**Opt Out**
+
+For information about opting out of Gourmet Ads and ad serving partners please visit [http://www.gourmetads.com/about/privacy-policy](http://www.gourmetads.com/about/privacy-policy).
+
+If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
+
+Lovebugs & Postcards  
 Salt Lake City, Utah  
 Email: [utahcoupondeals@gmail.com](mailto:utahcoupondeals@gmail.com)
 
-_This policy was lasted updated on August 24, 2011_
+_This policy was lasted updated on  1/14/2015_
 
-  
-This post may contain affiliate links. By using them, you are helping to keep this site free and maintained. We appreciate your support. [Click here to read our privacy policy](http://lovebugsandpostcards.com/getting-started/privacy-policy/).
+Sign up for our newsletter and be entered to win a $10 Gift Card monthly!
 
-  * Bio
-  * Twitter
-  * Facebook
-  * Google+
-  * Latest Posts
-
-
-
-Coralie is a SAHM of four kids. She does [web design](http://www.serightdesigns.com/) on the side and is always looking for something fun to do with her family (activities, being outdoors, games, movies, etc). Be sure to sign up for our [FREE daily email](http://feedburner.google.com/fb/a/mailverify?uri=UtahCouponDeals&loc=en_US)
+Sign up to get updates from our site, and your email address is automatically entered into our monthly giveaway for a $10 gift card!
