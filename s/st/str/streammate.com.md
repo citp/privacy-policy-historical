@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streammate.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229102710id_/http%3A//www.streamate.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streammate.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609044527id_/http%3A//www.streamate.com/privacy.html%3F) for the most accurate reproduction.*
 
 # Streamate - Privacy Policy
 
@@ -50,4 +50,4 @@ The address for correspondence by post is
 ICF Technology, Inc.  
 PO Box 21508  
 Seattle, WA 98111  
-USA 
+USA
