@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kidslearningstation.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120164217id_/http%3A//www.kidslearningstation.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidslearningstation.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235118id_/http%3A//www.kidslearningstation.com/privacy.asp) for the most accurate reproduction.*
 
-# Kids Learning Station | Privacy Policy
+# Kids Learning Station | Privacy Policy | Kids Learning Station
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, there is a link at the bottom of every page of this site.
 
