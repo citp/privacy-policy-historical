@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the nookpress.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227205705id_/http%3A//www.barnesandnoble.com/help/cds2.asp%3FPID%3D25560) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nookpress.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610015926id_/http%3A//www.barnesandnoble.com/help/cds2.asp%3FPID%3D25560) for the most accurate reproduction.*
 
 # Privacy Policy - Barnes & Noble
 
-Effective Date: January 27, 2014
+Effective Date: April 1, 2015
 
 This Privacy Policy applies to personal and other information that may be collected when you interact with the Barnes & Noble enterprise, which consists of (a) Barnes & Noble, Inc. and its subsidiaries, including their respective businesses and operations (collectively, "Barnes & Noble"); (b) businesses and operations managed or operated by Barnes & Noble; (c) websites owned, operated and managed by Barnes & Noble, including each website that links to this Privacy Policy, and any digital content stores operated by Barnes & Noble (collectively, "Barnes & Noble Websites"); and (d) Barnes & Noble and NOOK devices ("Devices"), content, software and mobile applications ("Apps").
 
 Protecting the privacy and security of your personal information is a priority at Barnes & Noble, and we believe that a single, comprehensive privacy policy that is straightforward and clear is in the best interests of our customers and our businesses.
 
-To review the prior version of Barnes & Noble's Privacy Policy, please [click here](http://www.barnesandnoble.com/help/cds2.asp?PID=27344). To review Barnes & Noble's Mobile Privacy Supplement optimized for reading on mobile devices, please [click here](http://m.barnesandnoble.com/customer-service/privacy-policy)
+To review the prior version of Barnes & Noble's Privacy Policy, please [click here](http://www.barnesandnoble.com/help/cds2.asp?PID=27344). 
 
 **By interacting with Barnes & Noble in the manner described in this Privacy Policy at any time, you are accepting the practices described in this Privacy Policy and you consent to the application of this Privacy Policy to the collection, storage, use and disclosure of all your personal and other information as described.**
 
-These current privacy policies and the privacy practices described herein apply to personal information previously collected from you by Barnes & Noble, Inc. and each of its subsidiaries, including NOOK Media LLC and its subsidiaries ("NOOK Media"), as well as personal information that they may collect from you in the future.
+These current privacy policies and the privacy practices described herein apply to personal information previously collected from you by Barnes & Noble, Inc. and each of its subsidiaries, as well as personal information that they may collect from you in the future.
 
 Barnes & Noble reserves the right to modify or amend this Privacy Policy at any time, but you can be assured that, should it be necessary to do so, we will always do so in accordance with the Barnes & Noble **Privacy Principles** of Clarity, Security and Integrity. You will be notified of any material changes to this Privacy Policy which are less protective of customer information prior to such changes becoming effective. We may notify you of these changes by email reminders, by notice on this site, or by other acceptable means. We encourage you to periodically review this page for the latest information on our privacy practices.
 
@@ -103,7 +103,7 @@ Our Devices and Apps may provide you with the ability to enter (directly, or by 
 
 If you elect to publish your content via our NOOK Press service, we may ask you to provide your bank account and routing information so that we can direct payments to you.
 
-Signing up for promotional communications or using Invite-a-Friend or NOOK Press Collaborator emails 
+ **Signing up for promotional communications or using Invite-a-Friend or NOOK Press Collaborator emails**
 
 If you sign up to receive promotional communications or notifications from us, we may ask you to provide personal information so that we can provide these to you.
 
@@ -254,7 +254,7 @@ You may choose to opt out from receiving marketing and promotional communication
 
 Even if you opt-out of receiving promotional communications, you may continue to receive emails and notifications relating to order confirmations, back order notifications, membership information, and/or other business-related communications.
 
-IBM Coremetrics & Targeted Advertising
+_IBM Coremetrics & Targeted Advertising_
 
 You may choose to opt out of collection of automatically collected information, including cookies, IBM Coremetrics and targeted advertising, by following the instructions given in Section 3(b) above, or by using the functionality in your browser to reject cookies.
 
@@ -281,6 +281,8 @@ Except as noted below : (i) our products and services are marketed for and direc
 If we direct certain Devices features or Apps to Minors who may be under the age of 13, we require the parent or legal guardian to provide verifiable consent to such Minor's use of our products and services and our collection of personal information in connection with such use. In these cases, we require validation of credit card information already on file with us and we will then e-mail the master account holder to give notice that we have received such consent. If no credit card information is on file, or if the credit card is invalid, we will not register that you have consented. With your consent, we may collect, use and share information regarding Minors under the age of 13 consistent with this Privacy Policy. Please see the sections above for detailed information on how we do so.
 
 If you are a parent or guardian who believes that your Minor under the age of 13 has submitted personal information or other information to us without your consent, please contact [privacy@barnesandnoble.com](mailto:privacy@barnesandnoble.com). Once we verify that you are the parent or legal guardian, at your request, we will promptly provide to you information regarding what, if any, personal information we have collected about your child and how it has been used or shared. We will, at your request, remove personal information about your child from its database and instruct our affiliates and third party partners to do the same.
+
+If you are a Minor under the age of 18, you may request and obtain removal of certain content or information posted on Barnes & Noble Websites and Apps by sending an email to [privacy@barnesandnoble.com](mailto:privacy@barnesandnoble.com) with ?Privacy Rights for Minors? in the subject line. Please be advised that our removal of your post(s) does not ensure complete or comprehensive removal of the content or information you have posted on Barnes & Noble Websites or Apps.
 
 **Data retention policy**
 
@@ -316,7 +318,7 @@ Barnes & Noble has received TRUSTe's Privacy Seal signifying that this privacy s
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
-Barnes & Noble complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from, respectively, European Union member countries and Switzerland. Barnesandnoble.com LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Barnes & Noble's certification, please visit <http://www.export.gov/safeharbor/>
+Barnes & Noble complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from, respectively, European Union member countries and Switzerland. Barnes & Noble's subsidiary Nook Digital, LLC (f/k/a barnesandnoble.com llc) has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Barnes & Noble's certification, please visit <http://www.export.gov/safeharbor/>
 
 **Terms of Use**
 
@@ -324,4 +326,7 @@ Any dispute between you and us regarding the privacy of your personal informatio
 
 **Contact Information**
 
-The address for Barnes & Noble is 122 Fifth Avenue, New York, NY 10011. The address for NOOK Media is 76 Ninth Avenue, New York, NY 10011.
+The address for Barnes & Noble is 122 Fifth Avenue, New York, NY 10011. 
+
+Released: April 2015  
+nook-privacy-enUS-v2 
