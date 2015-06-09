@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanlivewire.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105452id_/http%3A//americanlivewire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanlivewire.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610013308id_/http%3A//americanlivewire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AmericanLiveWire.com
 
@@ -20,11 +20,11 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 American Live Wire collects and uses Users personal information for the following purposes:
 
-  * _\- To personalize user experience_  
+  * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve customer service_  
+  * _– To improve customer service_  
 Your information helps us to more effectively respond to your customer service requests and support needs.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.
 
 
@@ -58,10 +58,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-American Live Wire
-
-http://americanlivewire.com/
-
+American Live Wire  
+http://americanlivewire.com/  
 Po Box 791 Armona, Ca 93245  
 (559) 772-2544  
 Contact@americanlivewire.com
