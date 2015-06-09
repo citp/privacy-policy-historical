@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativepool.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231180933id_/http%3A//www.creativepool.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativepool.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609050951id_/http%3A//creativepool.com/about/privacy) for the most accurate reproduction.*
 
 # 
 
