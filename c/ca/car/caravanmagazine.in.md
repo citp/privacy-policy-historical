@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the caravanmagazine.in privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628084517id_/http%3A//www.caravanmagazine.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caravanmagazine.in privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609232317id_/http%3A//www.caravanmagazine.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Caravan - A Journal of Politics and Culture
 
-_**The Caravan**_ considers privacy of the information collected from the users of this website ([www.caravanmagazine.in](https://web.archive.org/web/20140628084517id_/http%3A//www.caravanmagazine.in/www.caravanmagazine.in)) to be of utmost importance and follows a strict policy to protect the information.  This policy lays down the practices and procedures that we follow in collecting, storing and handling the information provided by users of this website.
+_**The Caravan**_ considers privacy of the information collected from the users of this website ([www.caravanmagazine.in](https://web.archive.org/web/20150609232317id_/http%3A//www.caravanmagazine.in/www.caravanmagazine.in)) to be of utmost importance and follows a strict policy to protect the information.  This policy lays down the practices and procedures that we follow in collecting, storing and handling the information provided by users of this website.
 
 **Collection of Information**  
 _**The Caravan**_ collects demographic details like name, email, address and telephone number at the time of registration of a user on this website. The required information needed to register is restricted to the name and email address of the user and the user has the option not to provide other details at the time of registration
