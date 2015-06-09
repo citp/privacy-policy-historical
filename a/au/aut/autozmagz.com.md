@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autozmagz.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121082846id_/http%3A//www.autozmagz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autozmagz.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235107id_/http%3A//www.autozmagz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Auto Repair Manual Free Download and Reviews
 
@@ -19,3 +19,7 @@ We are committed to conducting our business in accordance with these principles 
 
 NOTICE: autozmagz.com is NOT affiliated with all the car manufacturers mentioned throughout the site.  
 Car manufacturer names and logos used throughout autozmagz.com belong to the individual companies and are used for identification purposes only
+
+#### Related entry:
+
+[toyotayarisflasherunitfail](http://www.autozmagz.com/search/toyotayarisflasherunitfail/ "toyotayarisflasherunitfail"), 
