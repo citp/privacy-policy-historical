@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukwebmasterworld.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128204803id_/http%3A//forums.ukwebmasterworld.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukwebmasterworld.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610001613id_/http%3A//forums.ukwebmasterworld.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Webmaster Forums UK SEO SEM Webmaster Community Forum
 
@@ -73,4 +73,4 @@ This document was last updated on March 26, 2014
 Published:
     Mar 27, 2014
 Page Views:
-    2,769
+    4,389
