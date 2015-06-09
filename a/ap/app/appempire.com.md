@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appempire.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122075511id_/http%3A//www.appempire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appempire.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609040210id_/http%3A//www.appempire.com/privacy-policy) for the most accurate reproduction.*
 
 # App Empire Privacy Policy - App Empire
 
