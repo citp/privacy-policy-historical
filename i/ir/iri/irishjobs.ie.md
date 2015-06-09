@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishjobs.ie privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217112722id_/http%3A//www.irishjobs.ie/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishjobs.ie privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609201030id_/http%3A//www.irishjobs.ie/about/privacy) for the most accurate reproduction.*
 
 # IrishJobs.ie for jobs in Ireland. Search IrishJobs.ie for jobs in Ireland, Dublin, Cork and Galway.
 
@@ -151,4 +151,4 @@ Any changes we may make to our Privacy Policy in the future will be posted on th
 
 ## User Feedback and Complaints
 
-Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to [info@IrishJobs.ie](mailto:%20info@irishjobs.ie "email info@irishjobs.ie").
+Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to [info@IrishJobs.ie](mailto:%20info@irishjobs.ie "email info@irishjobs.ie") or you can phone us on +353 1 670 9900.
