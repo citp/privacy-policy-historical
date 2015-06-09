@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolforgoodandevil.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208040142id_/http%3A//schoolforgoodandevil.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolforgoodandevil.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609091922id_/http%3A//schoolforgoodandevil.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The School for Good and Evil
 
