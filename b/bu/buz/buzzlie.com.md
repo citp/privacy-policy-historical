@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzlie.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205220903id_/http%3A//buzzlie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzlie.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610013926id_/http%3A//buzzlie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
