@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the co.nr privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105231id_/http%3A//www.freedomain.co.nr/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the co.nr privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610012236id_/http%3A//www.freedomain.co.nr/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Free Domain name .co.nr
 
@@ -17,4 +17,4 @@ Cookies: CO.NR website uses cookies only to maintain your information as you mov
 
 CO.NR reserve the right to change this Policy anytime without prior notification. In this case the new Policy will be published at <http://www.freedomain.co.nr/policy.php>
 
-If you have any question, please do not hesitate to [**Contact**](https://web.archive.org/web/20141120105231id_/http%3A//www.freedomain.co.nr/contact.php) us. 
+If you have any question, please do not hesitate to [**Contact**](https://web.archive.org/web/20150610012236id_/http%3A//www.freedomain.co.nr/contact.php) us. 
