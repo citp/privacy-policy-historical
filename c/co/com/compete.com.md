@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the compete.com privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027122235id_/https%3A//www.compete.com/about-compete/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compete.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609182535id_/https%3A//www.compete.com/about-compete/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Compete
 
-Last updated: 16 October 2014
+Last updated: 26 March 2015
 
 Compete helps the world’s top brands improve their marketing based insights from the online behavior of millions of consumers. Leading advertisers, agencies and publishers rely on research and analysis from Compete to help create engaging online experiences and highly effective advertising campaigns.
 
@@ -14,7 +14,19 @@ This privacy policy applies solely to the Web site pages located at www.compete.
 
 Compete participates in the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce. Compete complies with the U.S.– E.U. Safe Harbor framework and the U.S.- Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Compete has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Compete’s certification, please visit <http://www.export.gov/safeharbor/>.
 
-As part of our participation in the Safe Harbor program, we have agreed to TRUSTe’s dispute resolution service for disputes relating to our compliance with the Safe Harbor Framework. If you have any complaints regarding our compliance with the Safe Harbor Framework you should first contact us at [support@compete.com](mailto:support@compete.com). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [clicking here](http://watchdog.truste.com/pvr.php?page=complaint), fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about-TRUSTe/contact-us). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, [click here](http://www.truste.com/about-TRUSTe/contact-us) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
+If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided below). If contacting us does not resolve your complaint, you may raise your complaint with the International Center for Dispute Resolution, the international division of the American Arbitration Association (ICDR/AAA),  using this URL (<https://apps.adr.org/webfile>),fax  to 877-304-8457, or mail to International Centre for Dispute Resolution at the following address:
+
+International Centre for Dispute Resolution
+
+A Division of the American Arbitration Association
+
+Case Filing Services
+
+1101 Laurel Oak Road, Suite 100
+
+Voorhees, NJ 08043
+
+If you are faxing or mailing ICDR/AAA to lodge a complaint, you must use the form found at[ https://apps.adr.org/webfile](https://apps.adr.org/webfile). For information about ICDR/AAA, use the URL <http://go.adr.org/safeharbor>
 
 **Information Collection**
 
