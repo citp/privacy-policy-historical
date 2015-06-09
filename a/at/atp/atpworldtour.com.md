@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atpworldtour.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231171630id_/http%3A//www.atpworldtour.com/Corporate/Terms/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atpworldtour.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609202432id_/http%3A//www.atpworldtour.com/Corporate/Terms/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Tennis - ATP World Tour
 
