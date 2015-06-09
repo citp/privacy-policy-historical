@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the plixid.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625202554id_/http%3A//plixid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plixid.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610010715id_/http%3A//plixid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Plixid.com | Bringing music to life
 
-  * [Contact Us](http://plixid.com/contact)
   * [Disclaimer](http://plixid.com/disclaimer)
   * [DMCA Policy](http://plixid.com/dmca-policy)
   * [Privacy Policy](http://plixid.com/privacy-policy)
