@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the enterprisecarsales.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221040329id_/http%3A//www.enterprisecarsales.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enterprisecarsales.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235520id_/http%3A//www.enterprisecarsales.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
 *UPDATED*  
-Effective Date: February 22, 2012
+Effective Date: May 18, 2015
 
 At Enterprise Holdings, Inc. through our subsidiaries operating under the Enterprise Rent-A-Car, Car Sales, Commercial Truck, and WeCar brands, and at Enterprise Fleet Management, Inc ("Enterprise"), we respect the privacy of our customers. We have implemented this privacy policy to explain to you how we use and protect personal information we may gather from you by means of this Web site and our Mobile sites (" ** _Privacy Policy_** "). **By using our Web site or Mobile site, you consent to the collection, use and disclosure of your information, as described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use our Web site or Mobile sites.**
 
@@ -104,7 +104,7 @@ This Web site is not directed to, and Enterprise does not knowingly collect pers
 
 ## CHOICES YOU CAN MAKE ABOUT YOUR INFORMATION
 
-We give you a number of choices about the collection, use and distribution of your information. For example, you must affirmatively request to receive email advertisements from us, our Affiliates and/or business partners concerning information about special offers, promotions and new features, products and services. Every Enterprise email advertisement will provide you with the opportunity to remove yourself from our email list. You may choose to opt back in to our email advertisements at anytime, in which your most recent action will prevail. We will give you an opportunity to opt-out of the gathering of your personally identifiable information, specific uses of your personally identifiable information and any marketing promotions in accordance with the procedures set out in the section below, **"Correcting or Changing Your Information."**
+We give you a number of choices about the collection, use and distribution of your information. For example, you must affirmatively request to receive email advertisements from us, our Affiliates and/or business partners concerning information about special offers, promotions and new features, products and services. Every Enterprise email advertisement will provide you with the opportunity to remove yourself from our email list, by clicking on the unsubscribe link at the bottom of the email. You may choose to opt back in to our email advertisements at anytime, in which your most recent action will prevail. We will give you an opportunity to opt-out of the gathering of your personally identifiable information, specific uses of your personally identifiable information and any marketing promotions in accordance with the procedures set out in the section below, **"Correcting or Changing Your Information."**
 
 To opt out of receiving further promotional communications from our third party co-branded partners and affiliates, please contact them directly.
 
