@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dialog.lk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110005id_/http%3A//www.dialog.lk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dialog.lk privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610012150id_/https%3A//www.dialog.lk/dlg/browse/privacyPolicy.jsp%3Fid%3Drp570e0ac89e4a146d91343cf667c5c3ae) for the most accurate reproduction.*
 
-# Dialog » Privacy Policy
+# Privacy Policy
 
 Dialog Axiata PLC (hereinafter referred to as “Dialog” “us” “we” or “our”) is committed to respecting your privacy and to complying with any applicable data protection and privacy laws. If you do submit personal information by signing up to login to the Dialog website services for example to order products, services etc., you can be assured that we will use your personal information only to support your continuing relationship with Dialog. We are providing this Privacy Policy Statement to help you understand how we collect, use and protect your information when you visit Dialog web and WAP sites and when you generally use our products and services. We wish to help you make informed decisions, so please take a few moments to read the sections below and learn how we may use your personal information. You should read this notice in conjunction with the terms & conditions of use for Dialog Web and WAP sites and any separate terms & conditions issued with your airtime or other product/service Contract.
 
