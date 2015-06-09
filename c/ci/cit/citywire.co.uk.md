@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citywire.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120174636id_/http%3A//citywire.co.uk/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citywire.co.uk privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610010845id_/http%3A//citywire.co.uk/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Citywire
 
@@ -74,13 +74,11 @@ We have responsibilities under legislation to verify the identity of both regist
 
 You agree that we may disclose to..
 
-a. the Financial Conduct Authority (FCA);
+a. any regulatory authority to which we are subject;
 
-b. any other regulatory authority to which we are subject;
+b. any investment exchange on which we may deal or to its related clearing house (or to investigators, inspectors or agents appointed by them);
 
-c. any investment exchange on which we may deal or to its related clearing house (or to investigators, inspectors or agents appointed by them);
-
-d. any person empowered to require such information by or under any legal enactment;
+c. any person empowered to require such information by or under any legal enactment;
 
 .. any information they may request or require relating to you or, if relevant, any of your clients.
 
@@ -94,7 +92,7 @@ If you would like to request a comprehensive list of our current websites please
 
 ### Protecting data
 
-Citywire is a global business with offices in London and Singapore.
+Citywire is a global business with offices in London, Munich, Singapore, Hong Kong and New York.
 
 This may result in your personal data being transferred out of the European Economic Area (EEA) to countries which have not been assessed by the European Commission as having adequate legal protection.
 
