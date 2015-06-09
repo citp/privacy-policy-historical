@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbimf.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105238id_/http%3A//sbimf.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbimf.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610011928id_/http%3A//www.sbimf.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # SBI MF - Privacy Policy
 
