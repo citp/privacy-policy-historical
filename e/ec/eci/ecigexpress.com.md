@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecigexpress.com privacy policy that was archived on 2014-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140802061306id_/http%3A//www.ecigexpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecigexpress.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235858id_/http%3A//www.ecigexpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,7 +60,7 @@ You may choose to restrict the collection or use of your personal information in
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to ECIGEXPRESS 1321 Cornwall Ave. Bellingham, WA 98225 .
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to ECIGEXPRESS 1321 Marietta Ave Bellingham, WA 98226 .
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
@@ -70,70 +70,70 @@ The table below lists the cookies we collect and what information they store.
 
 COOKIE name| COOKIE Description  
 ---|---  
-CART | The association with your shopping cart.  
-CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
-COMPARE | The items that you have in the Compare Products list.  
-CURRENCY | Your preferred currency  
-CUSTOMER | An encrypted version of your customer id with the store.  
-CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
-CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
-CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
-EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
-FRONTEND | You sesssion ID on the server.  
-GUEST-VIEW | Allows guests to edit their orders.  
-LAST_CATEGORY | The last category you visited.  
-LAST_PRODUCT | The most recent product you have viewed.  
-NEWMESSAGE | Indicates whether a new message has been received.  
-NO_CACHE | Indicates whether it is allowed to use cache.  
-PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
-POLL | The ID of any polls you have recently voted in.  
-POLLN | Information on what polls you have voted on.  
-RECENTLYCOMPARED | The items that you have recently compared.  
-STF | Information on products you have emailed to friends.  
-STORE | The store view or language you have selected.  
-USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
-VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
-WISHLIST | An encrypted list of products added to your Wishlist.  
-WISHLIST_CNT | The number of items in your Wishlist.  
+CART| The association with your shopping cart.  
+CATEGORY_INFO| Stores the category info on the page, that allows to display pages more quickly.  
+COMPARE| The items that you have in the Compare Products list.  
+CURRENCY| Your preferred currency  
+CUSTOMER| An encrypted version of your customer id with the store.  
+CUSTOMER_AUTH| An indicator if you are currently logged into the store.  
+CUSTOMER_INFO| An encrypted version of the customer group you belong to.  
+CUSTOMER_SEGMENT_IDS| Stores the Customer Segment ID  
+EXTERNAL_NO_CACHE| A flag, which indicates whether caching is disabled or not.  
+FRONTEND| You sesssion ID on the server.  
+GUEST-VIEW| Allows guests to edit their orders.  
+LAST_CATEGORY| The last category you visited.  
+LAST_PRODUCT| The most recent product you have viewed.  
+NEWMESSAGE| Indicates whether a new message has been received.  
+NO_CACHE| Indicates whether it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART| A link to information about your cart and viewing history if you have asked the site.  
+POLL| The ID of any polls you have recently voted in.  
+POLLN| Information on what polls you have voted on.  
+RECENTLYCOMPARED| The items that you have recently compared.  
+STF| Information on products you have emailed to friends.  
+STORE| The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE| Indicates whether a customer allowed to use cookies.  
+VIEWED_PRODUCT_IDS| The products that you have recently viewed.  
+WISHLIST| An encrypted list of products added to your Wishlist.  
+WISHLIST_CNT| The number of items in your Wishlist.  
   
-## **Do we disclose any information to outside parties?**
+##  **Do we disclose any information to outside parties?**
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
 ## 
 
-**California Online Privacy Protection Act Compliance**
+ **California Online Privacy Protection Act Compliance**
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
 As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their My Account panel and going to the 'Edit Profile' page.
 
-## **Childrens Online Privacy Protection Act Compliance**
+##  **Childrens Online Privacy Protection Act Compliance**
 
 This website and product are intended for adults over the age of 18.    
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 18 years old or older.  Children ARE NOT PERMITTED to use ecigexpress.com
 
-## **CAN-SPAM Compliance**
+##  **CAN-SPAM Compliance**
 
 We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
 
 ## 
 
-**Terms and Conditions**
+ **Terms and Conditions**
 
 Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.ecigexpress.com/conditions.
 
-## **Your Consent**
+##  **Your Consent**
 
 By using our site, you consent to our privacy policy.
 
-## **Changes to our Privacy Policy**
+##  **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
 
 This policy was last modified on **11/27/2012**
 
-## **Contacting Us**
+##  **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
@@ -143,7 +143,7 @@ Bellingham, WA 98226
 United States  
 888-418-2215
 
-## ****Customer** Privacy Policy Pledge**
+##  ** **Customer** Privacy Policy Pledge**
 
 We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
 Federal Trade Commission Fair  
