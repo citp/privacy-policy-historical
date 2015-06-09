@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ensogo.com.ph privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094514id_/http%3A//www.ensogo.com.ph/manila/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ensogo.com.ph privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610002533id_/http%3A//www.ensogo.com.ph/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Ensogo
+# Deals Ensogo Philippines | Save, Smile, Share!
 
 ## Introduction
 
-Ensogo Inc, (herein after referred as Ensogo) including subsidiaries and affiliates provide you, its Services (herein after referred as "Website") adhere to the Privacy Policy describe herein.
+Ensogo Inc, herein after referred as Ensogo) including subsidiaries and affiliates provide you, its Services (herein after referred as "Website") adhere to the Privacy Policy describe herein.
 
 Thank you for visiting our Website (Ensogo.com.ph). This privacy policy tells you how we use personal information collected at this Website. Please read this privacy policy before using the Website or submitting any personal information. By using the Website, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the Website to make sure that you understand how any personal information you provide will be used.
 
