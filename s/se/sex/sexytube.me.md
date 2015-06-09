@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the sexytube.me privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703205012id_/http%3A//www.sexytube.me/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexytube.me privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609045442id_/http%3A//www.sexytube.me/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - sexytube.me
+# Privacy
 
 ## sexytube.me Privacy Policy
 
 sexytube.me recognizes that its customers, visitors, users, and others who use sexytube.me value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the sexytube.me web site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site.
 
-Please note that any video, image, or other content posted at the direction of users onto the sexytube.me site becomes published content and is not considered personally identifiable information subject to this privacy notice. 
+Please note that any video, image, or other content posted at the direction of users onto the sexytube.me site becomes published content and is not considered personally identifiable information subject to this privacy notice.
 
 **The Information sexytube.me Collects**
 
@@ -40,12 +40,14 @@ User-provided information: You provide certain personally identifiable informati
 
 
 
-**Our Commitment to Legal-Age Usage**  
+**Our Commitment to Legal-Age Usage**
+
 Protecting children from adult content is especially important. For that reason, sexytube.me does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the sexytube.me web site from persons under 18 years of age, and no part of our website is directed to persons under 18, or legal age according to state law. If you are under 18 years of age, then please do not use or access the sexytube.me web site at any time or in any manner. If sexytube.me learns that personally identifiable information of persons under 18 years of age has been collected, appropriate steps will be taken to delete this information.
 
-**In the Event of Merger, Sale, or Bankruptcy**  
+**In the Event of Merger, Sale, or Bankruptcy**
+
 In the event that sexytube.me is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.
 
 **Changes and updates to this Privacy Notice**
 
-This privacy notice may be revised periodically and users are encouraged to review it periodically to stay aware of any changes. Your continued use of the sexytube.me web site constitutes your agreement to this privacy notice and any future revisions. 
+This privacy notice may be revised periodically and users are encouraged to review it periodically to stay aware of any changes. Your continued use of the sexytube.me web site constitutes your agreement to this privacy notice and any future revisions.
