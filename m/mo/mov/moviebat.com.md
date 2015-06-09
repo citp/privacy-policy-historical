@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the moviebat.com privacy policy that was archived on 2014-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140729153006id_/http%3A//moviebat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviebat.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609210809id_/http%3A//moviebat.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Your #1 Source for Movies & TV Shows in DVD, Blu-ray & Instant Videos!
+# MovieBat.com » Privacy Policy
 
-**Your #1 Source for Movies & TV Shows in DVD, Blu-ray & Instant Videos!** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
+**MovieBat.com** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
 ## Routine Information Collection
 
@@ -10,7 +10,7 @@ All web servers track basic information about their visitors. This information i
 
 ## Cookies and Web Beacons
 
-Where necessary, Your #1 Source for Movies & TV Shows in DVD, Blu-ray & Instant Videos! uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+Where necessary, MovieBat.com uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
 Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
 
@@ -24,4 +24,4 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 ## Contact Information
 
-Concerns or questions about this privacy policy can be directed to admin@vidclone.net for further clarification.
+Concerns or questions about this privacy policy can be directed to info@moviebat.com for further clarification.
