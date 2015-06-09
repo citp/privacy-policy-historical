@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imtoo.com privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112174551id_/http%3A//www.imtoo.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imtoo.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235230id_/http%3A//www.imtoo.com/privacy-policy.html) for the most accurate reproduction.*
 
 # The details of Privacy Policy from ImTOO Software Studio.
 
