@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the interrailnet.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218200739id_/http%3A//www.interrail.eu/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interrailnet.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609052455id_/http%3A//www.interrail.eu/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Interrail.eu
 
-At InterRail.eu, we are committed to protecting the online privacy of visitors to our website. This policy applies only to the website and online services provided by InterRail.eu (hereafter referred to as "InterRail"). The purpose of this Policy is to inform you about the types of information we gather about you when you visit our website, how we may use that information, and how we disclose it to third parties.
+At Interrail.eu, we are committed to protecting the online privacy of visitors to our website. This policy applies only to the website and online services provided by Interrail.eu (hereafter referred to as "Interrail"). The purpose of this Policy is to inform you about the types of information we gather about you when you visit our website, how we may use that information, and how we disclose it to third parties.
 
-InterRail adheres to and is in compliance with the Safe Harbor Privacy Principles developed in coordination with the European Union's Directive on Data Protection and the U.S. Department of Commerce.
+Interrail adheres to and is in compliance with the Safe Harbor Privacy Principles developed in coordination with the European Union's Directive on Data Protection and the U.S. Department of Commerce.
 
 Topics on this page
 
@@ -95,7 +95,7 @@ We sometimes engage unaffiliated businesses to assist us in providing you certai
 
 ### Other disclosures
 
-We may disclose personal information when we are required or requested to do so by law, court order or other government or law enforcement authority or regulatory agency; to enforce or apply our rights and agreements; or when we believe in good faith that disclosing this information is necessary or advisable, including, for example, to protect the rights, property, or safety of InterRail, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+We may disclose personal information when we are required or requested to do so by law, court order or other government or law enforcement authority or regulatory agency; to enforce or apply our rights and agreements; or when we believe in good faith that disclosing this information is necessary or advisable, including, for example, to protect the rights, property, or safety of Interrail, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
 ## Security of the information we collect  
  
