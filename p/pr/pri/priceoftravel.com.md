@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the priceoftravel.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230114506id_/http%3A//www.priceoftravel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priceoftravel.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610001315id_/http%3A//www.priceoftravel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Price of Travel
 
@@ -53,8 +53,7 @@ This policy was last modified on June 25, 2014
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.priceoftravel.com
-
+http://www.priceoftravel.com  
 info@priceoftravel.com
 
 This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm).
