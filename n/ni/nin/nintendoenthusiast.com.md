@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nintendoenthusiast.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222200708id_/http%3A//nintendoenthusiast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendoenthusiast.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610015925id_/http%3A//nintendoenthusiast.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Nintendo Enthusiast
 
-This privacy policy sets out how “Nintendo Enthusiast” uses and protects any information that you give “Nintendo Enthusiast” when you use this website.
+This privacy policy sets out how \”Nintendo Enthusiast\” uses and protects any information that you give \”Nintendo Enthusiast\” when you use this website.
 
-“Nintendo Enthusiast” is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.”Nintendo Enthusiast” may change this policy from time to time by updatng this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st July, 2012. 
+\”Nintendo Enthusiast\” is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.\”Nintendo Enthusiast\” may change this policy from time to time by updatng this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st July, 2012. 
 
 ## What we collect
 
@@ -33,7 +33,7 @@ We are committed to ensuring that your information is secure. In order to preven
 
 ## How we use cookies
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once yo agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+A cookie is a small file which asks permission to be placed on your computer\’s hard drive. Once yo agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
 We use traffic log cookies to identify which pages are being used. This helps us analyze data about webpage traffic and improve our website in order to tailr it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
@@ -62,4 +62,4 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 ##  Advertising
 
-Nintendoenthusiast.com uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, go to: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+Nintendoenthusiast.com uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, go to: [http://www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/%22http://www.networkadvertising.org/managing/opt_out.asp/%22).
