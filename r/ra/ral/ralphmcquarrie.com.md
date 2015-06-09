@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ralphmcquarrie.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209185245id_/http%3A//dreamsandvisionspress.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ralphmcquarrie.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609071117id_/http%3A//dreamsandvisionspress.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Dreams and Visions Press - Privacy Policy
 
