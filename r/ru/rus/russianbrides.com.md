@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the russianbrides.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214200431id_/http%3A//www.russianbrides.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the russianbrides.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610013317id_/http%3A//www.russianbrides.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - RussianBrides.com
 
@@ -77,7 +77,11 @@ Please remember that when you use a link to go from RussianBrides.com to another
 
 ### Our policy regarding sharing of information:
 
-Our policy is simple: we never sell or rent your personal information to any third parties under any circumstances.
+Service Providers: We also may disclose information to outside companies that help us bring you the products and services we offer. For example, we may work with an outside company to: (a) manage a database of customer information; (b) assist us in distributing emails; (c) assist us with direct marketing and data collection; (d) provide us storage and analysis; (d) provide fraud prevention; and (e) provide other services designed to assist us in maximizing our business potential. We require that theseoutside companies agree to keep confidential all information we share with them and to use the information only to perform their obligations in our agreements with them.
+
+Other Companies: We may provide information to carefully selected outside companies when we believe their products or services may be of interest to you.
+
+Business Transitions: We may transfer or share a copy of personal information about you in the event that RussianBrides.com or one of its properties, affiliates, or subsidiaries goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets.
 
 ### Age Restrictions: 
 
@@ -127,6 +131,8 @@ Email [support@russianbrides.com](mailto:support@russianbrides.com)
 
 Your use of our website, including any dispute concerning privacy, is subject to this privacy statement and the applicable Terms and Conditions. By using our website, you are accepting the practices set out in this privacy statement and the applicable Terms and Conditions.
 
+You represent and warrant that you will not create any databases, websites, software, legal entities and services competitive with RussianBrides.com. Such activity will be investigated, and appropriate legal action will be taken, including without limitation, civil, criminal, and injunctive redress.
+
 RussianBrides.com reserves the right to change, modify or amend this policy at any time. We take privacy matters very seriously, and intend to stay at the forefront of privacy policy and protection matters. We will occasionally update our privacy policy and we will post those updates on this page. You are responsible for revisiting this page to review our privacy policy updates.
 
 ## VI. How to contact RussianBrides.com
@@ -135,6 +141,6 @@ RussianBrides.com reserves the right to change, modify or amend this policy at a
 
 ### Effective Date
 
-This privacy statement was last revised on March 26, 2014.
+This privacy statement was last revised on March 20, 2015.
 
-### Company address
+### Registered addresses:
