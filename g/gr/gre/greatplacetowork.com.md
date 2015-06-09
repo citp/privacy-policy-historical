@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatplacetowork.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206105532id_/http%3A//www.greatplacetowork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatplacetowork.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610011952id_/http%3A//www.greatplacetowork.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
