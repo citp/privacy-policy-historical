@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestdesignoptions.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113110823id_/http%3A//bestdesignoptions.com/%3Fpage_id%3D8553) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestdesignoptions.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609032710id_/http%3A//bestdesignoptions.com/%3Fpage_id%3D8553) for the most accurate reproduction.*
 
 # Best Design Options-Disclaimer and Privacy Policy | Best Design Options
 
