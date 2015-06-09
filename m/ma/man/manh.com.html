@@ -1,480 +1,1416 @@
-<!--The following is the downloaded HTML source of the manh.com privacy policy that was archived on 2014-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231191825id_/http%3A//www.manh.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the manh.com privacy policy that was archived on 2015-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150609121858id_/http%3A//www.manh.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0018/7753.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="/sites/default/files/googleanalytics/ga.js?h"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwcHV19SGwYDUVZaAAU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
-	<title>Privacy Policy | Manhattan Associates</title>
-	<meta http-equiv="content-language" content="en">
-		
-  <link rel="alternate" href="http://www.manh.com/privacy-policy" hreflang="x-default">
-<link rel="alternate" hreflang="fr-FR" href="http://www.manh.com.fr/politique-de-confidentialite">
-<link rel="alternate" hreflang="en-US" href="http://www.manh.com/privacy-policy">
-<link rel="alternate" hreflang="en-GB" href="http://www.manh.co.uk/privacy-policy">
-<link rel="alternate" hreflang="es" href="http://www.manh.com.mx/polItica-de-privacidad">
-<link rel="alternate" hreflang="ja-JP" href="http://www.manh.co.jp/プライバシーポリシー">
-<link rel="alternate" hreflang="zh-CN" href="http://www.manh.cn/隐私政策">
-<link rel="alternate" hreflang="en-AU" href="http://www.manh.com.au/privacy-policy">
-<link rel="alternate" hreflang="en-NL" href="http://www.manh.eu/privacy-policy">
-<link rel="alternate" hreflang="nl-NL" href="http://www.manh.nl/privacybeleid">
-<meta http-equiv="x-dns-prefetch-control" content="on">
-<link rel="dns-prefetch" href="//dnqi6o6m8sekg.cloudfront.net">
-<link rel="shortcut icon" href="http://dnqi6o6m8sekg.cloudfront.net/sites/default/files/manhatten_favicon_0.ico" type="image/x-icon">
-<script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#async=1"></script>
-<meta name="description" content="Manhattan Associates respects your privacy. This Privacy Policy is intended to serve as our global Privacy Policy for all regions &amp; countries around the world.">
-<meta name="keywords" content="Privacy Policy">
-<link rel="canonical" href="http://www.manh.com/privacy-policy">
-<meta name="revisit-after" content="1 day">
-  <script type="text/javascript" src="http://dnqi6o6m8sekg.cloudfront.net/sites/default/files/js/js_d83cfce7bf89f970308f16eb867938cc.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","colorbox":{"transition":"elastic","speed":"350","opacity":"0.90","slideshow":false,"slideshowAuto":true,"slideshowSpeed":"2500","slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"maxWidth":"1500px","maxHeight":"1500px"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"nice_menus_options":{"delay":"800","speed":"slow"},"addthis":{"config_default":{"services_toolbox":"share, separator, email, print","services_compact":"facebook, email, print, favorites, digg, google, delicious, stumbleupon, messenger, twitter, more","services_expanded":"","ui_cobrand":"","ui_header_color":"#000000","ui_header_background":"#FFFFFF","ui_click":0,"ui_delay":"0","ui_use_addressbook":0,"pubid":"manhattanassociates","data_track_clickback":true,"data_ga_tracker":"pageTracker","ui_use_css":true,"data_use_cookies":false,"ui_language":"en","data_use_flash":false},"share_default":{"templates":{"twitter":""}}}});
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-addthis_config = Drupal.settings.addthis.config_default; addthis_share = Drupal.settings.addthis.share_default;
-//--><!]]>
-</script>
-  <!-- CSS aggregated by CDN module. -->
-<link type="text/css" rel="stylesheet" media="all" href="http://dnqi6o6m8sekg.cloudfront.net/sites/default/files/css/cdn_css_http_2cf095783d0b6a9956180493b9102452.css">
-<link type="text/css" rel="stylesheet" media="screen,projection" href="http://dnqi6o6m8sekg.cloudfront.net/sites/default/files/css/cdn_css_http_39c6a2af6670bffbe7fcdf7b679bfc65.css">
-<link type="text/css" rel="stylesheet" media="print" href="http://dnqi6o6m8sekg.cloudfront.net/sites/default/files/css/cdn_css_http_70e2dd8e1b5bb0b1b70cb137750776d1.css">
-<!-- CSS aggregated by CDN module. -->
-  <!--[if lte IE 7]>
-    <link rel="stylesheet" href="/sites/all/themes/manhatten/blueprint/blueprint/ie.css" type="text/css" media="screen, projection">
-  	<!-- link href="/sites/all/themes/manhatten/css/7ie.css" rel="stylesheet"  type="text/css"  media="screen, projection" / -->
-  <!--[endif]---->
-  <!--[if lte IE 6]>
-  	<link href="/sites/all/themes/manhatten/css/ie6.css" rel="stylesheet"  type="text/css"  media="screen, projection" />
-  <![endif]-->
-</head>
+<!DOCTYPE html><html lang="en" dir="ltr" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:product="http://ogp.me/ns/product#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# "><head>
+    <meta charset="utf-8">
+<meta name="Generator" content="Drupal 8 (http://drupal.org)">
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="drupal:content-translation-overview" href="/node/4286/translations">
+<link rel="version-history" href="/node/4286/revisions">
+<link rel="canonical" href="/privacy-policy">
+<link rel="shortcut icon" href="http://www.manh.com/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="shortlink" href="/node/4286">
+<link rel="delete-form" href="/node/4286/delete">
+<link rel="edit-form" href="/node/4286/edit">
+<link rel="alternate" hreflang="en" href="http://www.manh.com/privacy-policy">
 
-<body class="not-front not-logged-in page-node node-type-page one-sidebar sidebar-left i18n-en col-2  col-2 ">
-<!--[if lt IE 7]>
-    <div style='background: #EBEFF2; width: 100%; clear: both; height: 59px; margin-top: 10px; padding:0; text-align: center; position: relative;'> <a href="http://windows.microsoft.com/en-US/internet-explorer/downloads/ie-8"><img src="/sites/all/themes/manhatten/images/en-ie6-banner.png" border="0" height="42" width="1000" alt="You are using an outdated version of Internet Explorer. To get the safest and best possbile experience using our website we recommend that you UPGRADE NOW" /></a></div>
+    <title>Privacy Policy | Manhattan Associates</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+    <link rel="stylesheet" href="http://www.manh.com/core/assets/vendor/normalize-css/normalize.css?npfh7n" media="all">
+<link rel="stylesheet" href="http://www.manh.com/core/modules/system/css/system.module.css?npfh7n" media="all">
+<link rel="stylesheet" href="http://www.manh.com/core/modules/system/css/system.theme.css?npfh7n" media="all">
+<link rel="stylesheet" href="http://www.manh.com/modules/custom/manh_browser_detect/vendor/jReject/css/jquery.reject.css?npfh7n" media="all">
+<link rel="stylesheet" href="http://www.manh.com/modules/custom/manh_nav_drawers/css/nav_drawer.css?npfh7n" media="all">
+<link rel="stylesheet" href="http://www.manh.com/core/themes/classy/css/layout.css?npfh7n" media="all">
+<link rel="stylesheet" href="http://www.manh.com/themes/manh/styles/css/manh.css?npfh7n" media="all">
+<link rel="stylesheet" href="http://www.manh.com/themes/manh/styles/css/fonts.css?npfh7n" media="all">
+
+    <!--[if lt IE 9]>
+    <script type="text/javascript">
+      alert("We\'re sorry, but your version of Internet Explorer is not supported. " +
+    "Please use the latest version of one of the following browsers for the best experience: " +
+    "Google Chrome, Mozilla Firefox, Apple Safari, or Microsoft Internet Explorer version 10 or higher.");
+    </script>
+    <![endif]-->
+    
+<!--[if lte IE 8]>
+<script src="http://www.manh.com/core/assets/vendor/html5shiv/html5shiv.min.js?v=3.7.2"></script>
 <![endif]-->
 
-<!-- Begin: Nework Bar -->
-<div id="printHeader"><img src="/sites/all/themes/manhatten//images/print-header.png" alt="Manhattan Associates"></div>
-<div id="ma-network-bar-wrapper" class="clear">
-    <!-- Begin: Search -->
-    <div id="ma-search">
-          <div id="block-google_cse-0" class="block block-google_cse ">
-  <label for="edit-search-block-form-1">Search</label>
-  <div class="content">
-    <form action="http://www.manh.com/search/google" accept-charset="UTF-8" method="get" id="google-cse-searchbox-form">
-<div><input type="hidden" name="cx" id="edit-cx" value="013638329453005284774:38s2_jhtxgw">
-<input type="hidden" name="cof" id="edit-cof" value="FORID:11;NB:1">
-<div class="form-item" id="edit-query-wrapper">
- <input type="text" maxlength="128" name="query" id="edit-query" size="15" value="" title="Enter the terms you wish to search for." class="form-text">
-</div>
-<input type="submit" name="op" id="edit-sa" value="Search" class="form-submit">
-<div class="form-radios"><div class="form-item" id="edit-sitesearch--wrapper">
- <label class="option" for="edit-sitesearch-"><input type="radio" id="edit-sitesearch-" name="sitesearch" value="" class="form-radio"> Search the web</label>
-</div>
-<div class="form-item" id="edit-sitesearch-www.manh.com-wrapper">
- <label class="option" for="edit-sitesearch-www.manh.com"><input type="radio" id="edit-sitesearch-www.manh.com" name="sitesearch" value="www.manh.com" checked="checked" class="form-radio"> Search <em>www.manh.com</em></label>
-</div>
-</div><input type="hidden" name="form_build_id" id="form-_O-KQAJz2iujGV0_NN_BrZrI-OkKUC0ZXbAE6Fz9J_o" value="form-_O-KQAJz2iujGV0_NN_BrZrI-OkKUC0ZXbAE6Fz9J_o">
-<input type="hidden" name="form_id" id="edit-google-cse-searchbox-form" value="google_cse_searchbox_form">
+  </head>
+  <body class="path-node node--type-page">
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+    <div id="page-wrapper">
+  <div id="page">
 
-</div></form>
-  </div>
-</div>
+        <header id="header" class="l-header" role="banner" aria-label="Site header">
+      <div class="header-top clearfix">
+        <div class="header-top-inner">
+          <div id="name-and-slogan">
 
-    </div>
-    <!-- End: Search -->
-   <div class="ma-network-inner">
-                <ul id="ma-network-menu" class="links"><li class="menu-1690 first"><a href="http://www.manh.com/about-us/careers" title="">Careers</a></li>
-<li class="menu-15312"><a href="http://www.manh.com/contact-us" title="">Contact Us</a></li>
-<li class="menu-14227"><a href="http://www.manh.com/office-locations" title="">Office Locations</a></li>
-<li class="menu-83536"><a href="http://www.manh.com/newsroom" title="">Newsroom</a></li>
-<li class="menu-14228"><a href="http://www.manh.com/resources" title="">Resources</a></li>
-<li class="menu-20438 last"><a href="http://www.manh.com/global-sites" title="">Global Websites</a></li>
-</ul>    	   </div>
-</div>
-<!-- End: Nework Bar-->
-
-<!-- Start: Container Content -->
-<div class="container">
-
-  <!-- Begin: Header -->
-  <div id="header" class="clear">
-   <div id="logo"><a title="www.manh.com" href="http://www.manh.com/">www.manh.com</a></div>
-     <div id="block-manh_custom-0" class="block block-manh_custom ">
-
-  <div class="content">
-    <div class="contact-us">
-
-	                <div id="contact-request">
-	                    <div class="ma-inner">
-	                        <b>Request More Information</b><br>
-          				    <a href="/contact-us" title="Email Us">Email Us<span></span></a>
-          				 </div>
-          			</div>
-                    <div id="contact-number">
-                        <div class="ma-inner">
-                        Contact: +1 877.596.9208
-                        </div>
-                    </div>
-          	    </div>  </div>
-</div>
-
-  <div id="block-i18nmenu_node-nice_menus--1" class="block block-i18nmenu_node nocontent">
-
-  <div class="nocontent">
-    <ul class="nice-menu nice-menu-down" id="nice-menu-1"><li class="menu-1278 menuparent menu-path-node-1518 first  odd "><a href="http://www.manh.com/solutions" title="">Solutions</a><ul><li class="menu-1804 menuparent menu-path-node-92 first  odd "><a href="http://www.manh.com/solutions/carrier-management" title="">Carrier Management</a><ul><li class="menu-1821 menu-path-node-93 first  odd "><a href="http://www.manh.com/solutions/carrier-management/driver-and-load" title="">Driver&amp;Load</a></li>
-<li class="menu-1826 menu-path-node-94 even "><a href="http://www.manh.com/solutions/carrier-management/drop-and-swap" title="">Drop&amp;Swap</a></li>
-<li class="menu-1827 menu-path-node-95 odd "><a href="http://www.manh.com/solutions/carrier-management/fuel-and-route" title="">Fuel&amp;Route</a></li>
-<li class="menu-1828 menu-path-node-96 even "><a href="http://www.manh.com/solutions/carrier-management/load-analyzer" title="">Load Analyzer</a></li>
-<li class="menu-1829 menu-path-node-97 odd "><a href="http://www.manh.com/solutions/carrier-management/profit-analyzer" title="">Profit Analyzer</a></li>
-<li class="menu-1830 menu-path-node-98 even  last "><a href="http://www.manh.com/solutions/carrier-management/superspin" title="">SuperSpin</a></li>
-</ul>
-</li>
-<li class="menu-14212 menuparent menu-path-node-207 even "><a href="http://www.manh.com/solutions/distribution-management" title="">Distribution Management</a><ul><li class="menu-2391 menu-path-node-150 first  odd "><a href="http://www.manh.com/solutions/distribution-management/billing-management" title="">Billing Management</a></li>
-<li class="menu-2393 menu-path-node-152 even "><a href="http://www.manh.com/solutions/distribution-management/hub-management" title="">Hub Management</a></li>
-<li class="menu-2389 menu-path-node-148 odd "><a href="http://www.manh.com/solutions/distribution-management/labor-management" title="">Labor Management</a></li>
-<li class="menu-2388 menu-path-node-147 even "><a href="http://www.manh.com/solutions/distribution-management/slotting-optimization" title="">Slotting Optimization</a></li>
-<li class="menu-2392 menu-path-node-151 odd "><a href="http://www.manh.com/solutions/distribution-management/supplier-enablement" title="">Supplier Enablement</a></li>
-<li class="menu-2387 menu-path-node-146 even  last "><a href="http://www.manh.com/solutions/distribution-management/warehouse-management" title="">Warehouse Management</a></li>
-</ul>
-</li>
-<li class="menu-14223 menuparent menu-path-node-1585 odd "><a href="http://www.manh.com/solutions/inventory-optimization" title="">Inventory Optimization</a><ul><li class="menu-2400 menu-path-node-163 first  odd "><a href="http://www.manh.com/solutions/inventory-optimization/multi-echelon" title="">Multi-Echelon</a></li>
-<li class="menu-2399 menu-path-node-162 even "><a href="http://www.manh.com/solutions/inventory-optimization/replenishment" title="">Replenishment</a></li>
-<li class="menu-2401 menu-path-node-164 odd "><a href="http://www.manh.com/solutions/inventory-optimization/vendor-managed-inventory" title="">Vendor Managed Inventory</a></li>
-<li class="menu-2436 menu-path-node-180 even  last "><a href="http://www.manh.com/solutions/inventory-optimization/demand-forecasting" title="">Demand Forecasting</a></li>
-</ul>
-</li>
-<li class="menu-13756 menu-path-node-1572 even "><a href="http://www.manh.com/solutions/mobile-supply-chain" title="">Mobile Supply Chain</a></li>
-<li class="menu-82411 menuparent menu-path-node-16071 odd "><a href="http://www.manh.com/solutions/point-of-sale" title="">Point-of-Sale</a><ul><li class="menu-82446 menu-path-node-16076 first  odd "><a href="http://www.manh.com/solutions/point-of-sale/mobile-point-of-sale" title="">Mobile Point-of-Sale</a></li>
-<li class="menu-82451 menu-path-node-16081 even "><a href="http://www.manh.com/solutions/point-of-sale/tablet-retailing" title="">Tablet Retailing</a></li>
-<li class="menu-82536 menu-path-node-16086 odd  last "><a href="http://www.manh.com/solutions/point-of-sale/clienteling" title="">Clienteling</a></li>
-</ul>
-</li>
-<li class="menu-14224 menuparent menu-path-node-1513 even "><a href="http://www.manh.com/solutions/order-management" title="">Order Management</a><ul><li class="menu-2408 menu-path-node-168 first  odd "><a href="http://www.manh.com/solutions/order-management/distributed-order-management" title="">Distributed Order Management</a></li>
-<li class="menu-59771 menu-path-node-10941 even "><a href="http://www.manh.com/solutions/order-management/enterprise-order-management" title="">Enterprise Order Management</a></li>
-<li class="menu-59776 menu-path-node-10981 odd "><a href="http://www.manh.com/solutions/order-management/purchase-order-flow-management" title="">Purchase Order Flow Management</a></li>
-<li class="menu-59781 menu-path-node-170 even "><a href="http://www.manh.com/solutions/order-management/store-order-management" title="">Store Order Management</a></li>
-<li class="menu-63746 menu-path-node-12361 odd  last "><a href="http://www.manh.com/solutions/order-management/omni-channel-customer-service" title="">Omni-Channel Customer Service</a></li>
-</ul>
-</li>
-<li class="menu-59801 menuparent menu-path-node-11026 odd "><a href="http://www.manh.com/solutions/store-inventory-and-fulfillment" title="">Store Inventory &amp; Fulfillment</a><ul><li class="menu-59806 menu-path-node-11066 first  odd "><a href="http://www.manh.com/solutions/store-inventory-and-fulfillment/store-inventory" title="">Store Inventory</a></li>
-<li class="menu-59811 menu-path-node-11106 even  last "><a href="http://www.manh.com/solutions/store-inventory-and-fulfillment/store-fulfillment" title="">Store Fulfillment</a></li>
-</ul>
-</li>
-<li class="menu-14211 menuparent menu-path-node-1514 even "><a href="http://www.manh.com/solutions/planning" title="">Planning</a><ul><li class="menu-2440 menu-path-node-184 first  odd "><a href="http://www.manh.com/solutions/planning/assortment-planning" title="">Assortment Planning</a></li>
-<li class="menu-13757 menu-path-node-1571 even "><a href="http://www.manh.com/solutions/planning/direct-planning" title="">Direct Planning</a></li>
-<li class="menu-2438 menu-path-node-182 odd "><a href="http://www.manh.com/solutions/planning/financial-planning" title="">Financial Planning</a></li>
-<li class="menu-2439 menu-path-node-183 even "><a href="http://www.manh.com/solutions/planning/item-planning" title="">Item Planning</a></li>
-<li class="menu-2437 menu-path-node-181 odd "><a href="http://www.manh.com/solutions/planning/omni-channel-planning" title="">Omni-Channel Planning</a></li>
-<li class="menu-13758 menu-path-node-1570 even  last "><a href="http://www.manh.com/solutions/planning/store-planning" title="">Store Planning</a></li>
-</ul>
-</li>
-<li class="menu-59816 menuparent menu-path-node-11146 odd "><a href="http://www.manh.com/solutions/visibility-and-insight" title="">Visibility and Insight</a><ul><li class="menu-2447 menu-path-node-191 first  odd "><a href="http://www.manh.com/solutions/visibility-and-insight/supply-chain-event-management" title="">Supply Chain Event Management</a></li>
-<li class="menu-2445 menu-path-node-189 even "><a href="http://www.manh.com/solutions/visibility-and-insight/supply-chain-intelligence" title="">Supply Chain Intelligence</a></li>
-<li class="menu-2446 menu-path-node-190 odd "><a href="http://www.manh.com/solutions/visibility-and-insight/supply-chain-visibility" title="">Supply Chain Visibility</a></li>
-<li class="menu-2444 menu-path-node-188 even  last "><a href="http://www.manh.com/solutions/visibility-and-insight/total-cost-to-serve" title="">Total Cost to Serve</a></li>
-</ul>
-</li>
-<li class="menu-1799 menuparent menu-path-node-91 even "><a href="http://www.manh.com/solutions/transportation-management" title="">Transportation Management</a><ul><li class="menu-1836 menu-path-node-104 first  odd "><a href="http://www.manh.com/solutions/transportation-management/appointment-scheduling" title="">Appointment Scheduling</a></li>
-<li class="menu-1835 menu-path-node-103 even "><a href="http://www.manh.com/solutions/transportation-management/audit-payment-and-claims" title="">Audit, Payment &amp; Claims</a></li>
-<li class="menu-1834 menu-path-node-102 odd "><a href="http://www.manh.com/solutions/transportation-management/dispatch-management" title="">Dispatch Management</a></li>
-<li class="menu-1832 menu-path-node-100 even "><a href="http://www.manh.com/solutions/transportation-management/transportation-planning-and-execution" title="">Transportation Planning &amp; Execution</a></li>
-<li class="menu-1831 menu-path-node-99 odd "><a href="http://www.manh.com/solutions/transportation-management/transportation-procurement" title="">Transportation Procurement</a></li>
-<li class="menu-1837 menu-path-node-105 even  last "><a href="http://www.manh.com/solutions/transportation-management/yard-management" title="">Yard Management</a></li>
-</ul>
-</li>
-<li class="menu-1774 menu-path-node-90 odd  last "><a href="http://www.manh.com/solutions/extended-enterprise-management" title="">Extended Enterprise Management</a></li>
-</ul>
-</li>
-<li class="menu-2443 menuparent menu-path-node-187 even "><a href="http://www.manh.com/platforms" title="">Platforms</a><ul><li class="menu-13759 menu-path-node-1569 first  odd "><a href="http://www.manh.com/platforms/platform-thinking" title="">Platform Thinking</a></li>
-<li class="menu-13760 menuparent menu-path-node-1568 even "><a href="http://www.manh.com/platforms/manhattan-scope" title="">Manhattan SCOPE</a><ul><li class="menu-2448 menu-path-node-192 first  odd  last "><a href="http://www.manh.com/platforms/manhattan-scope/supply-chain-process-platform" title="">Supply Chain Process Platform</a></li>
-</ul>
-</li>
-<li class="menu-2394 menu-path-node-156 odd "><a href="http://www.manh.com/platforms/manhattan-scale" title="">Manhattan SCALE™</a></li>
-<li class="menu-13761 menu-path-node-1567 even  last "><a href="http://www.manh.com/platforms/manhattan-more" title="">Manhattan MORE</a></li>
-</ul>
-</li>
-<li class="menu-1261 menuparent menu-path-node-22 odd "><a href="http://www.manh.com/industries" title="">Industries</a><ul><li class="menu-2379 menu-path-node-138 first  odd "><a href="http://www.manh.com/industries/3pl" title="">3PL</a></li>
-<li class="menu-2385 menu-path-node-144 even "><a href="http://www.manh.com/industries/carriers" title="">Carriers</a></li>
-<li class="menu-1262 menu-path-node-23 odd "><a href="http://www.manh.com/industries/manufacturing" title="">Manufacturing</a></li>
-<li class="menu-1263 menu-path-node-24 even "><a href="http://www.manh.com/industries/food-and-beverage" title="">Food and Beverage</a></li>
-<li class="menu-2375 menuparent menu-path-node-134 odd "><a href="http://www.manh.com/industries/government" title="">Government</a><ul><li class="menu-2376 menu-path-node-135 first  odd  last "><a href="http://www.manh.com/industries/government/emergency-management" title="">Emergency Management</a></li>
-</ul>
-</li>
-<li class="menu-2377 menu-path-node-136 even "><a href="http://www.manh.com/industries/high-tech-and-electronics" title="">High Tech / Electronics</a></li>
-<li class="menu-1713 menu-path-node-83 odd "><a href="http://www.manh.com/industries/life-sciences" title="">Life Sciences</a></li>
-<li class="menu-2380 menuparent menu-path-node-139 even "><a href="http://www.manh.com/industries/retail" title="">Retail</a><ul><li class="menu-14645 menu-path-node-107 first  odd "><a href="http://www.manh.com/industries/retail/department-stores" title="">Department Stores</a></li>
-<li class="menu-2381 menu-path-node-140 even "><a href="http://www.manh.com/industries/retail/discount-stores" title="">Discount Stores</a></li>
-<li class="menu-2382 menu-path-node-141 odd "><a href="http://www.manh.com/industries/retail/fashion" title="">Fashion</a></li>
-<li class="menu-2383 menu-path-node-142 even "><a href="http://www.manh.com/industries/retail/grocery" title="">Grocery</a></li>
-<li class="menu-2384 menu-path-node-143 odd  last "><a href="http://www.manh.com/industries/retail/specialty-retail" title="">Specialty Retail</a></li>
-</ul>
-</li>
-<li class="menu-2378 menu-path-node-137 odd  last "><a href="http://www.manh.com/industries/wholesale" title="">Wholesale</a></li>
-</ul>
-</li>
-<li class="menu-1708 menuparent menu-path-node-80 even "><a href="http://www.manh.com/services" title="">Services</a><ul><li class="menu-1718 menu-path-node-88 first  odd "><a href="http://www.manh.com/services/customer-support" title="">Customer Support</a></li>
-<li class="menu-1717 menu-path-node-87 even "><a href="http://www.manh.com/services/hardware-sales-and-services" title="">Hardware Sales and Services</a></li>
-<li class="menu-14231 menu-path-node-81 odd "><a href="http://www.manh.com/services/implementation-and-upgrades" title="">Implementation and Upgrades</a></li>
-<li class="menu-1712 menuparent menu-path-node-82 even  last "><a href="http://www.manh.com/services/training-and-certification" title="">Training and Certification</a><ul><li class="menu-14232 menuparent menu-path-node-86 first  odd "><a href="http://www.manh.com/services/training-and-certification/customer-education-and-training" title="">Customer Education and Training</a><ul><li class="menu-14229 menu-path-node-84 first  odd "><a href="http://www.manh.com/services/training-and-certification/customer-education-and-training/solutions-training" title="">Solutions Training</a></li>
-<li class="menu-14230 menu-path-node-85 even  last "><a href="http://www.manh.com/services/training-and-certification/customer-education-and-training/web-based-training" title="">Web-Based Training</a></li>
-</ul>
-</li>
-<li class="menu-13772 menuparent menu-path-node-1556 even  last "><a href="http://www.manh.com/services/training-and-certification/inventory-optimization-institute" title="">Inventory Optimization Institute</a><ul><li class="menu-13773 menu-path-node-1555 first  odd "><a href="http://www.manh.com/services/training-and-certification/inventory-optimization-institute/analysis" title="">Analysis</a></li>
-<li class="menu-13774 menu-path-node-1554 even "><a href="http://www.manh.com/services/training-and-certification/inventory-optimization-institute/certification" title="">Certification</a></li>
-<li class="menu-13775 menu-path-node-1553 odd "><a href="http://www.manh.com/services/training-and-certification/inventory-optimization-institute/community" title="">Community</a></li>
-<li class="menu-13776 menu-path-node-1552 even "><a href="http://www.manh.com/services/training-and-certification/inventory-optimization-institute/faqs" title="">FAQs</a></li>
-<li class="menu-13777 menuparent menu-path-node-1551 odd  last "><a href="http://www.manh.com/services/training-and-certification/inventory-optimization-institute/training" title="">Training</a><ul><li class="menu-13778 menu-path-node-1550 first  odd "><a href="http://www.manh.com/services/training-and-certification/inventory-optimization-institute/training/course-descriptions" title="">Course Descriptions</a></li>
-<li class="menu-13779 menu-path-node-1549 even  last "><a href="http://www.manh.com/services/training-and-certification/inventory-optimization-institute/training/course-schedules" title="">Course Schedules</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="menu-2285 menuparent menu-path-node-112 odd "><a href="http://www.manh.com/partners" title="">Partners</a><ul><li class="menu-13781 menuparent menu-path-node-1548 first  odd "><a href="http://www.manh.com/partners/manhattan-value-partners" title="">Manhattan Value Partners</a><ul><li class="menu-59986 menu-path-node-11186 first  odd "><a href="http://www.manh.com/partners/manhattan-value-partners/global-platinum-partners" title="">Global Platinum Partners</a></li>
-<li class="menu-14245 menu-path-node-1671 even "><a href="http://www.manh.com/partners/manhattan-value-partners/consulting-services-partners" title="">Consulting Service Partners</a></li>
-<li class="menu-14241 menu-path-node-1718 odd "><a href="http://www.manh.com/partners/manhattan-value-partners/hardware-partners" title="">Hardware Partners</a></li>
-<li class="menu-28446 menu-path-node-3603 even "><a href="http://www.manh.com/partners/manhattan-value-partners/software-partners" title="">Software Partners</a></li>
-<li class="menu-14246 menu-path-node-1672 odd  last "><a href="http://www.manh.com/partners/manhattan-value-partners/technology-partners" title="">Technology Partners</a></li>
-</ul>
-</li>
-<li class="menu-14244 menu-path-node-1633 even "><a href="http://www.manh.com/partners/manhattan-geopartners" title="">Manhattan GeoPartners</a></li>
-<li class="menu-13782 menu-path-node-1547 odd  last "><a href="http://www.manh.com/partners/manhattan-associate-partners" title="">Manhattan Associate Partners</a></li>
-</ul>
-</li>
-<li class="menu-13784 menuparent menu-path-node-1546 even "><a href="http://www.manh.com/customers" title="">Customers</a><ul><li class="menu-13785 menu-path-resources-case-studies first  odd "><a href="http://www.manh.com/resources/case-studies" title="">Case Studies</a></li>
-<li class="menu-13786 menu-path-node-1544 even "><a href="http://www.manh.com/customers/customer-excellence-lifecycle" title="">Customer Excellence Lifecycle</a></li>
-<li class="menu-13788 menu-path-resources-portraits-in-leadership odd "><a href="http://www.manh.com/resources/portraits-in-leadership" title="">Portraits in Leadership</a></li>
-<li class="menu-14243 menu-path-node-1713 even  last "><a href="http://www.manh.com/customers/supply-chain-leaders" title="">Supply Chain Leaders</a></li>
-</ul>
-</li>
-<li class="menu-4545 menuparent menu-path-node-21 odd "><a href="http://www.manh.com/about-us" title="">About Us</a><ul><li class="menu-13820 menu-path-node-1541 first  odd "><a href="http://www.manh.com/about-us/glance" title="">At a Glance</a></li>
-<li class="menu-1706 menuparent menu-path-node-37 even "><a href="http://www.manh.com/about-us/careers" title="">Careers</a><ul><li class="menu-4544 menu-path-node-44 first  odd "><a href="http://www.manh.com/about-us/careers/career-opportunities" title="">Career Opportunities</a></li>
-<li class="menu-4058 menu-path-node-39 even "><a href="http://www.manh.com/about-us/careers/people-and-culture" title="">People and Culture</a></li>
-<li class="menu-4059 menu-path-node-40 odd "><a href="http://www.manh.com/about-us/careers/benefits" title="">Benefits</a></li>
-<li class="menu-4056 menuparent menu-path-node-41 even "><a href="http://www.manh.com/about-us/careers/campus-recruiting" title="">Campus Recruiting</a><ul><li class="menu-14635 menu-path-node-2000 first  odd "><a href="http://www.manh.com/about-us/careers/campus-recruiting/associate-business-analyst" title="">Associate Business Analyst</a></li>
-<li class="menu-14637 menu-path-node-2001 even "><a href="http://www.manh.com/about-us/careers/campus-recruiting/associate-consultant" title="">Associate Consultant</a></li>
-<li class="menu-14636 menu-path-node-2002 odd "><a href="http://www.manh.com/about-us/careers/campus-recruiting/associate-software-engineer" title="">Associate Software Engineer</a></li>
-<li class="menu-25022 menu-path-node-3141 even "><a href="http://www.manh.com/about-us/careers/campus-recruiting/associate-software-analyst">Associate Software Analyst</a></li>
-<li class="menu-25024 menu-path-node-3142 odd  last "><a href="http://www.manh.com/about-us/careers/campus-recruiting/senior-software-analyst" title="">Senior Software Analyst</a></li>
-</ul>
-</li>
-<li class="menu-13821 menu-path-node-1539 odd  last "><a href="http://www.manh.com/about-us/careers/atlanta-living" title="">Atlanta Living</a></li>
-</ul>
-</li>
-<li class="menu-1704 menu-path-node-33 odd "><a href="http://www.manh.com/about-us/executive-team" title="">Executive Team</a></li>
-<li class="menu-2799 menu-path-irmanhcom- even "><a href="http://ir.manh.com/" title="">Investor Relations</a></li>
-<li class="menu-13822 menu-path-resources-press-releases odd  last "><a href="http://www.manh.com/resources/press-releases" title="">Press Releases</a></li>
-</ul>
-</li>
-<li class="menu-1693 menuparent menu-path-node-122 even  last "><a href="http://www.manh.com/events" title="">Events</a><ul><li class="menu-2719 menu-path-manh-momentumcom- first  odd "><a href="http://www.manh-momentum.com/" title="Momentum Supply Chain Conference">Momentum Supply Chain Conference</a></li>
-<li class="menu-15302 menu-path-events-manhattan-exchange-events even "><a href="http://www.manh.com/events/manhattan-exchange-events">Manhattan Exchange</a></li>
-<li class="menu-15303 menu-path-events-industry-events odd "><a href="http://www.manh.com/events/industry-events">Industry Events</a></li>
-<li class="menu-15301 menu-path-events-webinars even  last "><a href="http://www.manh.com/events/webinars">Webinars</a></li>
-</ul>
-</li>
-</ul>
-  </div>
-</div>
-
-  </div>
-  <!-- End: Header -->
-
-  <!-- Begin: Breadcrumb -->
-  <div id="ma-breadcrumb" class="clear">
-  	<div class="ma-breadcrumb-inner">
-		<div class="breadcrumb"><a href="http://www.manh.com/">Home</a> » <a href="http://www.manh.com/privacy-policy" class="active">Privacy Policy</a></div>  	</div>
-  </div>
-  <!-- End: Breadcrumb -->
-
-      <!-- Begin: Left Column -->
-    <div class="col-left span-5">
-          <div id="block-i18nmenu_node-menu--primary-links" class="block block-i18nmenu_node ">
-
-  <div class="nocontent">
-    <ul class="menu"><li class="collapsed first"><a href="http://www.manh.com/solutions" title="">Solutions</a></li>
-<li class="collapsed"><a href="http://www.manh.com/platforms" title="">Platforms</a></li>
-<li class="collapsed"><a href="http://www.manh.com/industries" title="">Industries</a></li>
-<li class="collapsed"><a href="http://www.manh.com/services" title="">Services</a></li>
-<li class="collapsed"><a href="http://www.manh.com/partners" title="">Partners</a></li>
-<li class="collapsed"><a href="http://www.manh.com/customers" title="">Customers</a></li>
-<li class="collapsed"><a href="http://www.manh.com/about-us" title="">About Us</a></li>
-<li class="collapsed last"><a href="http://www.manh.com/events" title="">Events</a></li>
-</ul>  </div>
-</div>
-
-  <div id="block-block-26" class="block block-block ">
-
-  <div class="content">
-    &nbsp;  </div>
-</div>
-
-    </div>
-    <!-- End: Left Column -->
+                        <div class="menu-toggle">
+              <a href="#"><span class="mobile-menu-label">Menu</span></a>
+            </div>
+            <a href="/" title="Home" rel="home">
+            <h1 id="site-name">
+              <span></span>
+            </h1>
+            </a>
+              <a class="phone-icon" href="#"></a>
+          </div>
+            <div class="region region-header-secondary">
+    <div data-quickedit-entity-id="block_content/91" id="block-mobilephoneblock" class="contextual-region block block-block-content">
   
-  <!-- Begin: Container Content -->
-  <div id="ma-container-content" class="span-20">
-
-    <div id="ms-default-header">
-        <h1>Privacy Policy</h1>
-  </div>
-  
-      <div id="ms-top-content" class="clear">
-          <div id="block-addthis-0" class="block block-addthis ">
-
-  <div class="content">
-    <div class="addthis_toolbox addthis_default_style addthis_default_style"><a class="addthis_toolbox_item addthis_button_expanded">Share</a><span class="addthis_separator">|</span><a class="addthis_toolbox_item addthis_button_email"></a><a class="addthis_toolbox_item addthis_button_print"></a></div>  </div>
-</div>
-
-    </div>
-  
-  <div class="col-center span-19 last">
-                <div id="node-1624" class="node clear-block">
-
-
- <div class="content clear-block">
+    <div data-contextual-id="block:block=mobilephoneblock:|block_content:block_content=91:changed=1432930159"></div>
+      <div class="content">
       
+
+  <div data-quickedit-field-id="block_content/91/body/en/default" class="clearfix field field-block-content--body field-name-body field-type-text-with-summary field-label-hidden">
+        <div class="field-items">
+              <div class="field-item"><div class="left">
+<h2>Manhattan Associates, Inc</h2>
+
+<p>2300 Windy Ridge Parkway<br>
+10th Floor<br>
+Atlanta, GA 30339&nbsp;USA</p>
+
+<!--<p class="text-align-center"><a href="/office-locations">Get Directions</a></p>-->
+</div>
+
+<div class="right">
+<p>General Inquiries:<br>
++1 (770) 955-7070</p>
+
+<p>Sales:<br>
++1 <span class="s1">(877) 596-9208</span></p>
+
+<!--<p class="text-align-center"><a href="/office-locations">Office Locations</a></p>-->
+</div>
+</div>
+          </div>
+  </div>
+
+    </div>
+  </div>
+<div class="search-block-form contextual-region block block-search container-inline" id="block-manh-search" role="search">
+  
+      <h2>Search</h2>
+    <div data-contextual-id="block:block=manh_search:"></div>
+      <form action="/search/content" method="get" id="search-block-form" accept-charset="UTF-8">
+  <div class="form-item form-type-search form-item-keys form-no-label">
+      <label for="edit-keys" class="visually-hidden">Search</label>
+        <input title="Enter the terms you wish to search for." type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search">
+
+      </div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="" value="Search" class="button form-submit">
+</div>
+
+</form>
+
+  </div>
+<div id="block-headernavigationen" class="contextual-region block block-system">
+  
+    <div data-contextual-id="block:block=headernavigationen:|menu:menu=header-navigation-en:"></div>
+      <div class="block-secondarymenu-wrapper" data-eq-pts="menu-300: 300, menu-450: 450, menu-600: 600, menu-750: 750, menu-900: 900">
+      
+              <ul class="menu">
+                  <li class="menu-item">
+          <a href="/about-us/careers" title="Careers" data-drupal-link-system-path="node/4921">Careers</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/resources" title="Resources" data-drupal-link-system-path="resources">Resources</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/newsroom" title="Newsroom" data-drupal-link-system-path="node/4951">Newsroom</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/services/customer-support" title="Support" data-drupal-link-system-path="node/4566">Support</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/contact-us" title="Contact Us" data-drupal-link-system-path="node/7006">Contact Us</a>
+                  </li>
+          </ul>
+  
+
+
+    </div>
+  </div>
+
+  </div>
+
+        </div>
+      </div>
+
+      <div class="header-bottom clearfix">
+        <div class="header-bottom-inner">
+            <div class="region region-header-primary-menu">
+    <div id="block-topnavigationdrawerdesktop" class="contextual-region block block-manh-nav-drawers">
+  
+    <div data-contextual-id="block:block=topnavigationdrawerdesktop:"></div>
+      <div class="content">
+      <div class="top-navigation-desktop"><div class="top-items">
+              <ul class="menu">
+                  <li class="menu-item menu-item--collapsed">
+          <a href="/nowhere" title="Solutions &amp; Industries">Solutions &amp; Industries</a>
+                  </li>
+              <li class="menu-item menu-item--collapsed">
+          <a href="/nowhere" title="Products &amp; Services">Products &amp; Services</a>
+                  </li>
+              <li class="menu-item menu-item--collapsed">
+          <a href="/nowhere" title="Why Manhattan">Why Manhattan</a>
+                  </li>
+              <li class="menu-item menu-item--collapsed">
+          <a href="/nowhere" title="Customer Success">Customer Success</a>
+                  </li>
+              <li class="menu-item menu-item--collapsed">
+          <a href="/nowhere" title="About Us">About Us</a>
+                  </li>
+          </ul>
+  
+
+</div><div class="sub-items"><div class="sub-items-container"><div class="sub-item">
+              <ul class="menu">
+                  <li class="menu-item menu-item--expanded">
+          <a href="/solutions/supply-chains" title="Supply Chain Solutions" data-drupal-link-system-path="node/6966">Supply Chain Solutions</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="/solutions/change-management" title="Change Management" data-drupal-link-system-path="node/2576">Change Management</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/solutions/cross-dock-management" title="Cross Dock Management" data-drupal-link-system-path="node/2641">Cross Dock Management</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/solutions/dispatch-optimization" title="Dispatch Optimization" data-drupal-link-system-path="node/2121">Dispatch Optimization</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/solutions/labor-management-and-planning" title="Labor Management and Planning" data-drupal-link-system-path="node/4996">Labor Management and Planning</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/solutions/ltl-line-haul-optimization" title="LTL Line-haul Optimization" data-drupal-link-system-path="node/2126">LTL Line-haul Optimization</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/solutions/total-cost-profit" title="Total Cost To Profit" data-drupal-link-system-path="node/4686">Total Cost To Profit</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/solutions/transportation-and-logistics-management" title="Transportation and Logistics Management" data-drupal-link-system-path="node/2181">Transportation and Logistics Management</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/solutions/warehouse-and-distribution-management" title="Warehouse and Distribution Management" data-drupal-link-system-path="node/2631">Warehouse and Distribution Management</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/solutions/warehouse-slotting" title="Warehouse Slotting" data-drupal-link-system-path="node/2636">Warehouse Slotting</a>
+                  </li>
+          </ul>
+  
+                  </li>
+              <li class="menu-item menu-item--expanded">
+          <a href="/solutions/omni-channel" title="Omni-Channel Solutions" data-drupal-link-system-path="node/6746">Omni-Channel Solutions</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="/solutions/e-commerce-retail" title="E-Commerce Retail" data-drupal-link-system-path="node/4656">E-Commerce Retail</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/solutions/omni-channel-experiences" title="Omni-Channel Experiences" data-drupal-link-system-path="node/6206">Omni-Channel Experiences</a>
+                  </li>
+          </ul>
+  
+                  </li>
+              <li class="menu-item menu-item--expanded">
+          <a href="/solutions/inventory-solutions" title="Inventory Solutions" data-drupal-link-system-path="node/6751">Inventory Solutions</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="/solutions/demand-management" title="Demand Management" data-drupal-link-system-path="node/2646">Demand Management</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/solutions/inventory-management-and-planning" title="Inventory Management and Planning" data-drupal-link-system-path="node/5946">Inventory Management and Planning</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/solutions/replenishing-inventory" title="Replenishing Inventory" data-drupal-link-system-path="node/5991">Replenishing Inventory</a>
+                  </li>
+          </ul>
+  
+                  </li>
+              <li class="menu-item menu-item--expanded">
+          <a href="/industries" title="Solutions by Industry" data-drupal-link-system-path="node/6756">Solutions by Industry</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="/industries/carrier" title="Carrier" data-drupal-link-system-path="node/2676">Carrier</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/industries/fashion-retail" title="Fashion Retail" data-drupal-link-system-path="node/4121">Fashion Retail</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/industries/government" title="Government" data-drupal-link-system-path="node/2671">Government</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/industries/grocery-food-and-beverage" title="Grocery, Food and Beverage" data-drupal-link-system-path="node/2681">Grocery, Food and Beverage</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/industries/manufacturing" title="Manufacturing" data-drupal-link-system-path="node/2686">Manufacturing</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/industries/medical-and-pharmaceutical" title="Medical and Pharmaceutical" data-drupal-link-system-path="node/2691">Medical and Pharmaceutical</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/industries/retail" title="Retail" data-drupal-link-system-path="node/2696">Retail</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/industries/third-party-logistics-3pl" title="Third-Party Logistics (3PL)" data-drupal-link-system-path="node/2701">Third-Party Logistics (3PL)</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/industries/wholesale" title="Wholesale" data-drupal-link-system-path="node/2706">Wholesale</a>
+                  </li>
+          </ul>
+  
+                  </li>
+          </ul>
+  
+
+</div><div class="sub-item">
+              <ul class="menu">
+                  <li class="menu-item menu-item--expanded">
+          <a href="/products/supply-chain-products" title="Supply Chain Products" data-drupal-link-system-path="node/2346">Supply Chain Products</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="/products/carrier-management/overview" title="Carrier Management" data-drupal-link-system-path="node/2131">Carrier Management</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/products/distribution-management/overview" title="Distribution Management" data-drupal-link-system-path="node/2231">Distribution Management</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/products/transportation-management/overview" title="Transportation Management" data-drupal-link-system-path="node/2186">Transportation Management</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/products/supply-chain-convergence/overview" title="Supply Chain Convergence" data-drupal-link-system-path="node/2281">Supply Chain Convergence</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/products/visibility/overview" title="Visibility" data-drupal-link-system-path="node/2311">Visibility</a>
+                  </li>
+          </ul>
+  
+                  </li>
+              <li class="menu-item menu-item--expanded">
+          <a href="/products/inventory-products" title="Inventory Products" data-drupal-link-system-path="node/2446">Inventory Products</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="/products/inventory-optimization/overview" title="Inventory Optimization" data-drupal-link-system-path="node/2451">Inventory Optimization</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/planning/overview" title="Planning" data-drupal-link-system-path="node/2496">Planning</a>
+                  </li>
+          </ul>
+  
+                  </li>
+              <li class="menu-item menu-item--expanded">
+          <a href="/products/omni-channel-products" title="Omni-Channel Products" data-drupal-link-system-path="node/2351">Omni-Channel Products</a>
+                                    <ul class="menu">
+                  <li class="menu-item menu-item--expanded">
+          <a href="/products/omni-channel-central/solutions" title="Omni-Channel Central Products" data-drupal-link-system-path="node/4426">Omni-Channel Central Products</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="/products/omni-channel-customer-service" title="Omni-Channel Customer Service" data-drupal-link-system-path="node/2361">Omni-Channel Customer Service</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/products/available-to-commerce" title="Available to Commerce" data-drupal-link-system-path="node/2366">Available to Commerce</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/products/enterprise-order-management" title="Enterprise Order Management" data-drupal-link-system-path="node/2371">Enterprise Order Management</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/products/distributed-order-management" title="Distributed Order Management" data-drupal-link-system-path="node/2376">Distributed Order Management</a>
+                  </li>
+          </ul>
+  
+                  </li>
+              <li class="menu-item menu-item--expanded">
+          <a href="/products/omni-channel-store/solutions" title="Omni-Channel Store Products" data-drupal-link-system-path="node/2401">Omni-Channel Store Products</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="/products/point-of-sale" title="Point of Sale" data-drupal-link-system-path="node/2406">Point of Sale</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/products/clienteling" title="Clienteling" data-drupal-link-system-path="node/2411">Clienteling</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/products/store-fulfillment" title="Store Fulfillment" data-drupal-link-system-path="node/2416">Store Fulfillment</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/products/store-inventory" title="Store Inventory" data-drupal-link-system-path="node/2421">Store Inventory</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/products/tablet-retailing" title="Tablet Retailing" data-drupal-link-system-path="node/2426">Tablet Retailing</a>
+                  </li>
+          </ul>
+  
+                  </li>
+          </ul>
+  
+                  </li>
+              <li class="menu-item menu-item--expanded">
+          <a href="/services" title="Services" data-drupal-link-system-path="node/6761">Services</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="/services/customer-support" title="Customer Support" data-drupal-link-system-path="node/4566">Customer Support</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/services/customer-training/overview" title="Customer Training" data-drupal-link-system-path="node/4581">Customer Training</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/services/hardware-services" title="Hardware Services" data-drupal-link-system-path="node/4571">Hardware Services</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/services/professional-services" title="Professional Services" data-drupal-link-system-path="node/4561">Professional Services</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/services/inventory-optimization-institute" title="Inventory Optimization Institute" data-drupal-link-system-path="node/4626">Inventory Optimization Institute</a>
+                  </li>
+          </ul>
+  
+                  </li>
+              <li class="menu-item menu-item--expanded">
+          <a href="/resources" title="Resources" data-drupal-link-system-path="resources">Resources</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="/resources/product-information" title="Product Information">Product Information</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/resources/white-papers" title="White Papers">White Papers</a>
+                  </li>
+              <li class="menu-item">
+          <a href="https://magateway.force.com/community/" title="Customer Portal (MAGateway)">Customer Portal (MAGateway)</a>
+                  </li>
+          </ul>
+  
+                  </li>
+          </ul>
+  
+
+</div><div class="sub-item">
+              <ul class="menu">
+                  <li class="menu-item menu-item--expanded">
+          <a href="/why-manhattan" title="Why Choose Manhattan Associates?" data-drupal-link-system-path="node/6766">Why Choose Manhattan Associates?</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="/why-manhattan/customer-community" title="Customer Community" data-drupal-link-system-path="node/4206">Customer Community</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/why-manhattan/customer-experience" title="Customer Experience" data-drupal-link-system-path="node/4201">Customer Experience</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/why-manhattan/innovation-and-investment" title="Innovation &amp; Investment" data-drupal-link-system-path="node/4196">Innovation &amp; Investment</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/why-manhattan/manhattan-platform" title="Manhattan Platform" data-drupal-link-system-path="node/4216">Manhattan Platform</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/why-manhattan/awards-and-recognition" title="Awards and Recognition" data-drupal-link-system-path="node/4211">Awards and Recognition</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/why-manhattan/partners" title="Partners" data-drupal-link-system-path="node/4466">Partners</a>
+                  </li>
+          </ul>
+  
+                  </li>
+          </ul>
+  
+
+</div><div class="sub-item">
+              <ul class="menu">
+                  <li class="menu-item menu-item--expanded">
+          <a href="/customer-success" title="Customer Success" data-drupal-link-system-path="node/6211">Customer Success</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="/resources/case-studies" title="Case Studies">Case Studies</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/resources/customer-news" title="Customer News" data-drupal-link-system-path="resources/customer-news">Customer News</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/customer-success/supply-chain-leaders" title="Supply Chain Leaders" data-drupal-link-system-path="node/4901">Supply Chain Leaders</a>
+                  </li>
+          </ul>
+  
+                  </li>
+          </ul>
+  
+
+</div><div class="sub-item">
+              <ul class="menu">
+                  <li class="menu-item menu-item--expanded">
+          <a href="/about-us" title="About Us" data-drupal-link-system-path="node/6771">About Us</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="/about-us/glance" title="At A Glance" data-drupal-link-system-path="node/2856">At A Glance</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/about-us/leadership-team" title="Leadership Team" data-drupal-link-system-path="node/6276">Leadership Team</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/about-us/board-of-directors" title="Board of Directors" data-drupal-link-system-path="node/6096">Board of Directors</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/why-manhattan/awards-and-recognition" title="Awards and Recognition" data-drupal-link-system-path="node/4211">Awards and Recognition</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/about-us/connect-manhattan-associates" title="Connect with Manhattan Associates" data-drupal-link-system-path="node/6046">Connect with Manhattan Associates</a>
+                  </li>
+          </ul>
+  
+                  </li>
+              <li class="menu-item menu-item--expanded">
+          <a href="/about-us/careers" title="Careers" data-drupal-link-system-path="node/4921">Careers</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="/about-us/careers/career-opportunities" title="Career Opportunties" data-drupal-link-system-path="node/4931">Career Opportunties</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/about-us/careers/people-and-culture" title="People and Culture" data-drupal-link-system-path="node/4936">People and Culture</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/about-us/careers/benefits" title="Benefits" data-drupal-link-system-path="node/4941">Benefits</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/about-us/careers/university-recruiting" title="University Recruiting" data-drupal-link-system-path="node/4946">University Recruiting</a>
+                  </li>
+          </ul>
+  
+                  </li>
+              <li class="menu-item menu-item--expanded">
+          <a href="/newsroom" title="Newsroom" data-drupal-link-system-path="node/4951">Newsroom</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="/resources/press-releases" title="Press Releases" data-drupal-link-system-path="resources/press-releases">Press Releases</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/resources/articles" title="Manhattan Insights" data-drupal-link-system-path="resources/articles">Manhattan Insights</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/resources/manhattan-news" title="Manhattan News" data-drupal-link-system-path="resources/manhattan-news">Manhattan News</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/resources/customer-news" title="Customer News" data-drupal-link-system-path="resources/customer-news">Customer News</a>
+                  </li>
+          </ul>
+  
+                  </li>
+              <li class="menu-item menu-item--expanded">
+          <a href="/events" title="Events" data-drupal-link-system-path="events">Events</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="/events/momentum-conference" title="Momentum Conference" data-drupal-link-system-path="node/6221">Momentum Conference</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/events/industry-events" title="Industry Events">Industry Events</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/events/webinars" title="Webinars" data-drupal-link-system-path="events/webinars">Webinars</a>
+                  </li>
+          </ul>
+  
+                  </li>
+              <li class="menu-item menu-item--expanded">
+          <a href="http://ir.manh.com/phoenix.zhtml?c=113502&amp;p=irol-IRHome" title="Investor Relations">Investor Relations</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="http://ir.manh.com/phoenix.zhtml?c=113502&amp;p=irol-stockquote" title="Stock Information">Stock Information</a>
+                  </li>
+              <li class="menu-item">
+          <a href="http://ir.manh.com/phoenix.zhtml?c=113502&amp;p=irol-news&amp;nyo=0" title="Financial News">Financial News</a>
+                  </li>
+              <li class="menu-item">
+          <a href="http://ir.manh.com/phoenix.zhtml?c=113502&amp;p=irol-calendar" title="Events and Presentations">Events and Presentations</a>
+                  </li>
+              <li class="menu-item">
+          <a href="http://ir.manh.com/phoenix.zhtml?c=113502&amp;p=irol-govboard" title="Corporate Governance">Corporate Governance</a>
+                  </li>
+              <li class="menu-item">
+          <a href="http://ir.manh.com/phoenix.zhtml?c=113502&amp;p=irol-sec" title="SEC Filings">SEC Filings</a>
+                  </li>
+              <li class="menu-item">
+          <a href="http://ir.manh.com/phoenix.zhtml?c=113502&amp;p=quarterlyearnings" title="Quarterly Earnings">Quarterly Earnings</a>
+                  </li>
+              <li class="menu-item">
+          <a href="http://ir.manh.com/phoenix.zhtml?c=113502&amp;p=irol-reportsannual" title="Annual Reports /Proxies">Annual Reports /Proxies</a>
+                  </li>
+              <li class="menu-item">
+          <a href="http://phx.corporate-ir.net/External.File?item=UGFyZW50SUQ9MjI4OTYyfENoaWxkSUQ9LTF8VHlwZT0z&amp;t=1" title="GAAP to Non-GAAP Reconciliation">GAAP to Non-GAAP Reconciliation</a>
+                  </li>
+              <li class="menu-item">
+          <a href="http://ir.manh.com/phoenix.zhtml?c=113502&amp;p=irol-investorkit" title="Online Investor Kit">Online Investor Kit</a>
+                  </li>
+          </ul>
+  
+                  </li>
+          </ul>
+  
+
+</div></div><div class="close"><a class="nav-drawer-close"><span>Close</span></a></div></div></div>
+    </div>
+  </div>
+
+  </div>
+
+            <div class="region region-header-mobile-menu">
+    <div id="block-topnavigationmobile" class="contextual-region block block-manh-nav-drawers">
+  
+    <div data-contextual-id="block:block=topnavigationmobile:"></div>
+      <div class="content">
+      <div class="top-navigation-mobile"><div class="menu-items">
+              <ul class="menu">
+                  <li class="menu-item menu-item--expanded">
+          <a href="/nowhere" title="Solutions &amp; Industries">Solutions &amp; Industries</a>
+                                    <ul class="menu">
+                  <li class="menu-item menu-item--expanded">
+          <a href="/solutions/supply-chains" title="Supply Chain Solutions" data-drupal-link-system-path="node/6966">Supply Chain Solutions</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="/solutions/change-management" title="Change Management" data-drupal-link-system-path="node/2576">Change Management</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/solutions/cross-dock-management" title="Cross Dock Management" data-drupal-link-system-path="node/2641">Cross Dock Management</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/solutions/dispatch-optimization" title="Dispatch Optimization" data-drupal-link-system-path="node/2121">Dispatch Optimization</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/solutions/labor-management-and-planning" title="Labor Management and Planning" data-drupal-link-system-path="node/4996">Labor Management and Planning</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/solutions/ltl-line-haul-optimization" title="LTL Line-haul Optimization" data-drupal-link-system-path="node/2126">LTL Line-haul Optimization</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/solutions/total-cost-profit" title="Total Cost To Profit" data-drupal-link-system-path="node/4686">Total Cost To Profit</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/solutions/transportation-and-logistics-management" title="Transportation and Logistics Management" data-drupal-link-system-path="node/2181">Transportation and Logistics Management</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/solutions/warehouse-and-distribution-management" title="Warehouse and Distribution Management" data-drupal-link-system-path="node/2631">Warehouse and Distribution Management</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/solutions/warehouse-slotting" title="Warehouse Slotting" data-drupal-link-system-path="node/2636">Warehouse Slotting</a>
+                  </li>
+          </ul>
+  
+                  </li>
+              <li class="menu-item menu-item--expanded">
+          <a href="/solutions/omni-channel" title="Omni-Channel Solutions" data-drupal-link-system-path="node/6746">Omni-Channel Solutions</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="/solutions/e-commerce-retail" title="E-Commerce Retail" data-drupal-link-system-path="node/4656">E-Commerce Retail</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/solutions/omni-channel-experiences" title="Omni-Channel Experiences" data-drupal-link-system-path="node/6206">Omni-Channel Experiences</a>
+                  </li>
+          </ul>
+  
+                  </li>
+              <li class="menu-item menu-item--expanded">
+          <a href="/solutions/inventory-solutions" title="Inventory Solutions" data-drupal-link-system-path="node/6751">Inventory Solutions</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="/solutions/demand-management" title="Demand Management" data-drupal-link-system-path="node/2646">Demand Management</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/solutions/inventory-management-and-planning" title="Inventory Management and Planning" data-drupal-link-system-path="node/5946">Inventory Management and Planning</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/solutions/replenishing-inventory" title="Replenishing Inventory" data-drupal-link-system-path="node/5991">Replenishing Inventory</a>
+                  </li>
+          </ul>
+  
+                  </li>
+              <li class="menu-item menu-item--expanded">
+          <a href="/industries" title="Solutions by Industry" data-drupal-link-system-path="node/6756">Solutions by Industry</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="/industries/carrier" title="Carrier" data-drupal-link-system-path="node/2676">Carrier</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/industries/fashion-retail" title="Fashion Retail" data-drupal-link-system-path="node/4121">Fashion Retail</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/industries/government" title="Government" data-drupal-link-system-path="node/2671">Government</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/industries/grocery-food-and-beverage" title="Grocery, Food and Beverage" data-drupal-link-system-path="node/2681">Grocery, Food and Beverage</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/industries/manufacturing" title="Manufacturing" data-drupal-link-system-path="node/2686">Manufacturing</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/industries/medical-and-pharmaceutical" title="Medical and Pharmaceutical" data-drupal-link-system-path="node/2691">Medical and Pharmaceutical</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/industries/retail" title="Retail" data-drupal-link-system-path="node/2696">Retail</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/industries/third-party-logistics-3pl" title="Third-Party Logistics (3PL)" data-drupal-link-system-path="node/2701">Third-Party Logistics (3PL)</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/industries/wholesale" title="Wholesale" data-drupal-link-system-path="node/2706">Wholesale</a>
+                  </li>
+          </ul>
+  
+                  </li>
+          </ul>
+  
+                  </li>
+              <li class="menu-item menu-item--expanded">
+          <a href="/nowhere" title="Products &amp; Services">Products &amp; Services</a>
+                                    <ul class="menu">
+                  <li class="menu-item menu-item--expanded">
+          <a href="/products/supply-chain-products" title="Supply Chain Products" data-drupal-link-system-path="node/2346">Supply Chain Products</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="/products/carrier-management/overview" title="Carrier Management" data-drupal-link-system-path="node/2131">Carrier Management</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/products/distribution-management/overview" title="Distribution Management" data-drupal-link-system-path="node/2231">Distribution Management</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/products/transportation-management/overview" title="Transportation Management" data-drupal-link-system-path="node/2186">Transportation Management</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/products/supply-chain-convergence/overview" title="Supply Chain Convergence" data-drupal-link-system-path="node/2281">Supply Chain Convergence</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/products/visibility/overview" title="Visibility" data-drupal-link-system-path="node/2311">Visibility</a>
+                  </li>
+          </ul>
+  
+                  </li>
+              <li class="menu-item menu-item--expanded">
+          <a href="/products/inventory-products" title="Inventory Products" data-drupal-link-system-path="node/2446">Inventory Products</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="/products/inventory-optimization/overview" title="Inventory Optimization" data-drupal-link-system-path="node/2451">Inventory Optimization</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/planning/overview" title="Planning" data-drupal-link-system-path="node/2496">Planning</a>
+                  </li>
+          </ul>
+  
+                  </li>
+              <li class="menu-item menu-item--expanded">
+          <a href="/products/omni-channel-products" title="Omni-Channel Products" data-drupal-link-system-path="node/2351">Omni-Channel Products</a>
+                                    <ul class="menu">
+                  <li class="menu-item menu-item--expanded">
+          <a href="/products/omni-channel-central/solutions" title="Omni-Channel Central Products" data-drupal-link-system-path="node/4426">Omni-Channel Central Products</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="/products/omni-channel-customer-service" title="Omni-Channel Customer Service" data-drupal-link-system-path="node/2361">Omni-Channel Customer Service</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/products/available-to-commerce" title="Available to Commerce" data-drupal-link-system-path="node/2366">Available to Commerce</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/products/enterprise-order-management" title="Enterprise Order Management" data-drupal-link-system-path="node/2371">Enterprise Order Management</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/products/distributed-order-management" title="Distributed Order Management" data-drupal-link-system-path="node/2376">Distributed Order Management</a>
+                  </li>
+          </ul>
+  
+                  </li>
+              <li class="menu-item menu-item--expanded">
+          <a href="/products/omni-channel-store/solutions" title="Omni-Channel Store Products" data-drupal-link-system-path="node/2401">Omni-Channel Store Products</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="/products/point-of-sale" title="Point of Sale" data-drupal-link-system-path="node/2406">Point of Sale</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/products/clienteling" title="Clienteling" data-drupal-link-system-path="node/2411">Clienteling</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/products/store-fulfillment" title="Store Fulfillment" data-drupal-link-system-path="node/2416">Store Fulfillment</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/products/store-inventory" title="Store Inventory" data-drupal-link-system-path="node/2421">Store Inventory</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/products/tablet-retailing" title="Tablet Retailing" data-drupal-link-system-path="node/2426">Tablet Retailing</a>
+                  </li>
+          </ul>
+  
+                  </li>
+          </ul>
+  
+                  </li>
+              <li class="menu-item menu-item--expanded">
+          <a href="/services" title="Services" data-drupal-link-system-path="node/6761">Services</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="/services/customer-support" title="Customer Support" data-drupal-link-system-path="node/4566">Customer Support</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/services/customer-training/overview" title="Customer Training" data-drupal-link-system-path="node/4581">Customer Training</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/services/hardware-services" title="Hardware Services" data-drupal-link-system-path="node/4571">Hardware Services</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/services/professional-services" title="Professional Services" data-drupal-link-system-path="node/4561">Professional Services</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/services/inventory-optimization-institute" title="Inventory Optimization Institute" data-drupal-link-system-path="node/4626">Inventory Optimization Institute</a>
+                  </li>
+          </ul>
+  
+                  </li>
+              <li class="menu-item menu-item--expanded">
+          <a href="/resources" title="Resources" data-drupal-link-system-path="resources">Resources</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="/resources/product-information" title="Product Information">Product Information</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/resources/white-papers" title="White Papers">White Papers</a>
+                  </li>
+              <li class="menu-item">
+          <a href="https://magateway.force.com/community/" title="Customer Portal (MAGateway)">Customer Portal (MAGateway)</a>
+                  </li>
+          </ul>
+  
+                  </li>
+          </ul>
+  
+                  </li>
+              <li class="menu-item menu-item--expanded">
+          <a href="/nowhere" title="Why Manhattan">Why Manhattan</a>
+                                    <ul class="menu">
+                  <li class="menu-item menu-item--expanded">
+          <a href="/why-manhattan" title="Why Choose Manhattan Associates?" data-drupal-link-system-path="node/6766">Why Choose Manhattan Associates?</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="/why-manhattan/customer-community" title="Customer Community" data-drupal-link-system-path="node/4206">Customer Community</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/why-manhattan/customer-experience" title="Customer Experience" data-drupal-link-system-path="node/4201">Customer Experience</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/why-manhattan/innovation-and-investment" title="Innovation &amp; Investment" data-drupal-link-system-path="node/4196">Innovation &amp; Investment</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/why-manhattan/manhattan-platform" title="Manhattan Platform" data-drupal-link-system-path="node/4216">Manhattan Platform</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/why-manhattan/awards-and-recognition" title="Awards and Recognition" data-drupal-link-system-path="node/4211">Awards and Recognition</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/why-manhattan/partners" title="Partners" data-drupal-link-system-path="node/4466">Partners</a>
+                  </li>
+          </ul>
+  
+                  </li>
+          </ul>
+  
+                  </li>
+              <li class="menu-item menu-item--expanded">
+          <a href="/nowhere" title="Customer Success">Customer Success</a>
+                                    <ul class="menu">
+                  <li class="menu-item menu-item--expanded">
+          <a href="/customer-success" title="Customer Success" data-drupal-link-system-path="node/6211">Customer Success</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="/resources/case-studies" title="Case Studies">Case Studies</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/resources/customer-news" title="Customer News" data-drupal-link-system-path="resources/customer-news">Customer News</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/customer-success/supply-chain-leaders" title="Supply Chain Leaders" data-drupal-link-system-path="node/4901">Supply Chain Leaders</a>
+                  </li>
+          </ul>
+  
+                  </li>
+          </ul>
+  
+                  </li>
+              <li class="menu-item menu-item--expanded">
+          <a href="/nowhere" title="About Us">About Us</a>
+                                    <ul class="menu">
+                  <li class="menu-item menu-item--expanded">
+          <a href="/about-us" title="About Us" data-drupal-link-system-path="node/6771">About Us</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="/about-us/glance" title="At A Glance" data-drupal-link-system-path="node/2856">At A Glance</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/about-us/leadership-team" title="Leadership Team" data-drupal-link-system-path="node/6276">Leadership Team</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/about-us/board-of-directors" title="Board of Directors" data-drupal-link-system-path="node/6096">Board of Directors</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/why-manhattan/awards-and-recognition" title="Awards and Recognition" data-drupal-link-system-path="node/4211">Awards and Recognition</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/about-us/connect-manhattan-associates" title="Connect with Manhattan Associates" data-drupal-link-system-path="node/6046">Connect with Manhattan Associates</a>
+                  </li>
+          </ul>
+  
+                  </li>
+              <li class="menu-item menu-item--expanded">
+          <a href="/about-us/careers" title="Careers" data-drupal-link-system-path="node/4921">Careers</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="/about-us/careers/career-opportunities" title="Career Opportunties" data-drupal-link-system-path="node/4931">Career Opportunties</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/about-us/careers/people-and-culture" title="People and Culture" data-drupal-link-system-path="node/4936">People and Culture</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/about-us/careers/benefits" title="Benefits" data-drupal-link-system-path="node/4941">Benefits</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/about-us/careers/university-recruiting" title="University Recruiting" data-drupal-link-system-path="node/4946">University Recruiting</a>
+                  </li>
+          </ul>
+  
+                  </li>
+              <li class="menu-item menu-item--expanded">
+          <a href="/newsroom" title="Newsroom" data-drupal-link-system-path="node/4951">Newsroom</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="/resources/press-releases" title="Press Releases" data-drupal-link-system-path="resources/press-releases">Press Releases</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/resources/articles" title="Manhattan Insights" data-drupal-link-system-path="resources/articles">Manhattan Insights</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/resources/manhattan-news" title="Manhattan News" data-drupal-link-system-path="resources/manhattan-news">Manhattan News</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/resources/customer-news" title="Customer News" data-drupal-link-system-path="resources/customer-news">Customer News</a>
+                  </li>
+          </ul>
+  
+                  </li>
+              <li class="menu-item menu-item--expanded">
+          <a href="/events" title="Events" data-drupal-link-system-path="events">Events</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="/events/momentum-conference" title="Momentum Conference" data-drupal-link-system-path="node/6221">Momentum Conference</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/events/industry-events" title="Industry Events">Industry Events</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/events/webinars" title="Webinars" data-drupal-link-system-path="events/webinars">Webinars</a>
+                  </li>
+          </ul>
+  
+                  </li>
+              <li class="menu-item menu-item--expanded">
+          <a href="http://ir.manh.com/phoenix.zhtml?c=113502&amp;p=irol-IRHome" title="Investor Relations">Investor Relations</a>
+                                    <ul class="menu">
+                  <li class="menu-item">
+          <a href="http://ir.manh.com/phoenix.zhtml?c=113502&amp;p=irol-stockquote" title="Stock Information">Stock Information</a>
+                  </li>
+              <li class="menu-item">
+          <a href="http://ir.manh.com/phoenix.zhtml?c=113502&amp;p=irol-news&amp;nyo=0" title="Financial News">Financial News</a>
+                  </li>
+              <li class="menu-item">
+          <a href="http://ir.manh.com/phoenix.zhtml?c=113502&amp;p=irol-calendar" title="Events and Presentations">Events and Presentations</a>
+                  </li>
+              <li class="menu-item">
+          <a href="http://ir.manh.com/phoenix.zhtml?c=113502&amp;p=irol-govboard" title="Corporate Governance">Corporate Governance</a>
+                  </li>
+              <li class="menu-item">
+          <a href="http://ir.manh.com/phoenix.zhtml?c=113502&amp;p=irol-sec" title="SEC Filings">SEC Filings</a>
+                  </li>
+              <li class="menu-item">
+          <a href="http://ir.manh.com/phoenix.zhtml?c=113502&amp;p=quarterlyearnings" title="Quarterly Earnings">Quarterly Earnings</a>
+                  </li>
+              <li class="menu-item">
+          <a href="http://ir.manh.com/phoenix.zhtml?c=113502&amp;p=irol-reportsannual" title="Annual Reports /Proxies">Annual Reports /Proxies</a>
+                  </li>
+              <li class="menu-item">
+          <a href="http://phx.corporate-ir.net/External.File?item=UGFyZW50SUQ9MjI4OTYyfENoaWxkSUQ9LTF8VHlwZT0z&amp;t=1" title="GAAP to Non-GAAP Reconciliation">GAAP to Non-GAAP Reconciliation</a>
+                  </li>
+              <li class="menu-item">
+          <a href="http://ir.manh.com/phoenix.zhtml?c=113502&amp;p=irol-investorkit" title="Online Investor Kit">Online Investor Kit</a>
+                  </li>
+          </ul>
+  
+                  </li>
+          </ul>
+  
+                  </li>
+          </ul>
+  
+
+</div></div>
+    </div>
+  </div>
+
+  </div>
+
+        </div>
+      </div>
+    </header>
+
+        <div id="main-wrapper" class="l-main-wrapper clearfix">
+            <div id="main" class="clearfix">
+        
+        
+                <div id="main-inner" class="clearfix">
+          
+          
+            <div class="region region-help">
+    
+<div id="block-manh-help" role="complementary" class="block block-help">
+  
+    
+      <div class="content">
+      
+
+
+    </div>
+  </div>
+
+  </div>
+
+
+
+                    <main id="main-content" role="main">
+            <section class="section">
+              <a id="main-content" tabindex="-1"></a>
+
+
+              
+              
+              
+                <div class="region region-content-main">
+    <div id="block-manh-content" class="block block-system">
+  
+    
+      <div class="content">
+      
+<article data-history-node-id="4286" data-quickedit-entity-id="node/4286" role="article" class="contextual-region node node--type-page node--view-mode-full" about="/privacy-policy" typeof="schema:WebPage">
+
+    
+    
+              <div id="content-hero" class="l-full-content hero" data-eq-pts="small: 0, medium: 331, large: 631, wide: 900">
+        <aside class="section overlay-content" role="complementary">
+          
+
+  <div data-quickedit-field-id="node/4286/field_section_text/en/full" class="field field-node--field-section-text field-name-field-section-text field-type-string field-label-hidden">
+        <div class="field-items">
+              <div class="field-item"></div>
+          </div>
+  </div>
+
+          <h3 class="teaser-title">
+            
+      Manhattan Associates' Privacy Policy
+  
+          </h3>
+          
+
+  <div data-quickedit-field-id="node/4286/field_teaser_text_long/en/full" class="field field-node--field-teaser-text-long field-name-field-teaser-text-long field-type-string field-label-hidden">
+        <div class="field-items">
+              <div class="field-item">We respect your privacy and are committed to protecting it.</div>
+          </div>
+  </div>
+
+          <div class="l-content-buttons">
+                                      <a href="/contact-us" class="button-primary--four">
+                
+
+  <div data-quickedit-field-id="node/4286/field_contact_text/en/full" class="field field-node--field-contact-text field-name-field-contact-text field-type-string field-label-hidden">
+        <div class="field-items">
+              <div class="field-item">Contact Us</div>
+          </div>
+  </div>
+
+              </a>
+                      </div>
+        </aside>
+        <div class="page-header-hero-image">
+          <div class="image-overlay">
+            <img src="/themes/manh/styles/images/hero-opacity-layer.png">
+          </div>
+            <div class="page-teaser-image">
+          <picture>
+          <!--[if IE 9]><video style="display: none;"><![endif]-->
+          <source srcset="http://www.manh.com/sites/default/files/styles/page_header_image/public/sys/en/page/image/manh-privacy-policy-teaser-en.jpg?itok=L86I-EIA 1x, http://www.manh.com/sites/default/files/styles/2x_page_header_image/public/sys/en/page/image/manh-privacy-policy-teaser-en.jpg?itok=ea8C_ul4 2x" media="all and (min-width: 851px)" type="image/jpeg">
+          <source srcset="http://www.manh.com/sites/default/files/styles/image_desktop/public/sys/en/page/image/manh-privacy-policy-teaser-en.jpg?itok=ZxagpU2- 1x, http://www.manh.com/sites/default/files/styles/2x_image_desktop/public/sys/en/page/image/manh-privacy-policy-teaser-en.jpg?itok=Vq6V4DRR 2x" media="all and (min-width: 560px) and (max-width: 850px)" type="image/jpeg">
+          <source srcset="http://www.manh.com/sites/default/files/styles/logo_asset_slide/public/sys/en/page/image/manh-privacy-policy-teaser-en.jpg?itok=g8bsYDtM 1x, http://www.manh.com/sites/default/files/styles/2x_logo_asset_slide/public/sys/en/page/image/manh-privacy-policy-teaser-en.jpg?itok=VnGPvQ8C 2x" media="(min-width: 0px)" type="image/jpeg">
+        <!--[if IE 9]></video><![endif]-->
+      <img srcset="http://www.manh.com/sites/default/files/styles/page_header_image/public/sys/en/page/image/manh-privacy-policy-teaser-en.jpg?itok=L86I-EIA" alt="Privacy Policy" title="Privacy Policy" typeof="foaf:Image">
+
+</picture>
+
+      </div>
+
+        </div>
+      </div>
+    
+
+    
+    
+              
+    
+    
+    <div class="l-content-only" role="main">
+      
+        <h3>
    
-   <p><strong>General</strong></p>
-<p>Manhattan Associates respects your privacy. This Privacy Policy is intended to serve as our global Privacy Policy for all regions and countries around the world. The policy outlines the information Manhattan Associates will collect and how we will use that information. This policy will also instruct you on what to do if you do not want your personal information collected or shared when you visit any Manhattan Associates websites, respond to our advertisements or otherwise provide information to us.</p>
-<p><strong>Information Manhattan Associates Collects About You</strong></p>
-<p>When you do provide us with information, we may use that information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; we may use that information to contact you; we may use that information to allow you to access limited-entry areas of our website as may be appropriate; and we may provide that information to third parties.</p>
-<p>Manhattan Associates may collect information when you:</p>
-<ul>
-	<li>
-		Register on a Manhattan Associates website or Partner portal</li>
-	<li>
-		Request information, a quote, or place an order for products and/or services</li>
-	<li>
-		Request assistance or services from our Customer Support or Professional Services Organizations</li>
-	<li>
-		Provide feedback in an online survey</li>
-	<li>
-		Participate in marketing events</li>
-	<li>
-		Subscribe to a newsletter or a mailing list</li>
-	<li>
-		Visit a Manhattan Associates website or Partner portal</li>
-</ul>
-<p>&nbsp; For marketing purposes, we may share your information with our business partners, or we may send you information about those partners’ goods and services. We or our business partners may contact you by mail, telephone, fax, email or other electronic messaging service with offers of goods and services or information that may be of interest to you about supply chain sector services, materials, news or training. By providing us with your fax number, telephone numbers, email or mailing address you consent to being contacted by these methods for these purposes. If you do not wish to receive such information from us or our business partners, please contact us using the details provided below any time. No further action is necessary if you have previously indicated to us that you do not want to receive such marketing material.</p>
-<p><strong>Personally Identifiable Information</strong></p>
-<p>Manhattan Associates will not collect any personally identifiable information about you (that is, your name, address, telephone number, or email address) unless you provide it to us voluntarily. If you do not want your personally-identifiable information collected, please do not submit it to us. &nbsp;</p>
-<p>We will only collect, store and use your personal information for the purposes described in this policy. We do not sell your personal information. We will only share your personal information outside of Manhattan Associates with your consent, as required by law or to protect Manhattan Associates, its clients or the public, or with companies that help us to fulfill our obligations to you and that share Manhattan Associates’ commitment to protecting your privacy and information.&nbsp;</p>
-<p>In some cases you may provide us with sensitive personal data, such as special dietary requirements for reasons of health or religion, for the purposes stated above. If you are our client your continuing relationship with us demonstrates your consent to this processing. When you give us information about another individual for business purposes, you do so on the basis that the other individual has agreed, and has consented to the processing of his or her personal information, including sensitive personal data, and (where information is submitted in Europe) to the transfer of his or her information outside the European Economic Area (EEA) and to your receiving on his or her behalf any privacy or data protection notices.</p>
-<p>You are entitled to ask for a copy of your information (for which we may charge a small fee) and to correct any inaccuracies.</p>
-<p><strong>When We Disclose Personal Information</strong></p>
-<p>Because Manhattan Associates is a global company, your personal information may be shared with other Manhattan Associates business units around the world. They will protect your personal information in accordance with this Manhattan Associates Privacy Policy.</p>
-<p><strong>Non-Personally Identifiable Information Collected Automatically</strong></p>
-<p>In some cases, we may collect information about you that is not personally identifiable. Examples of this type of information include the type of Internet browser you are using, the type of computer operating system you are using, and the domain name of the website from which you linked to our site or advertisement.</p>
-<p><strong>Information We May Place Automatically On Your Computer's Hard Drive</strong></p>
-<p>When you view one of our websites or advertisements, we may store some information on your computer. This information will be in the form of a "cookie" or similar file and will help us in many ways. For example, cookies allow us to tailor a website or advertisement to better match your interests and preferences. With most Internet browsers, you can erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions.</p>
-<p><strong>Protection of Your Information</strong></p>
-<p>We strive to protect the security of your information by use of appropriate measures and processes.</p>
-<p>We may sometimes need to transfer personal information that is submitted to us in Europe to countries which do not provide the same level of data protection as the EEA. If we do have a need to make such a transfer then we will put a contract in place to ensure that your information is adequately protected and your privacy respected.</p>
-<p><strong>Changes to this Privacy Statement</strong></p>
-<p>Manhattan Associates reserves the right to update this Privacy Policy from time to time, and therefore you should review it regularly. When we make any updates, we will also revise the 'Last Updated' date at the bottom of this Privacy Policy.</p>
-<p><strong>Whom to Contact</strong></p>
-<p>If your personal details change, if you change your mind about any of your marketing preferences or if you have any queries about how we use your information, please let us know by calling us at +1 770.955.7070, or by emailing us at <a href="mailto:dataprotection@manh.com">dataprotection@manh.com</a>.</p>
-<p>&nbsp;</p>
-<p><em>Last Updated: January 25, 2011</em></p>
-    </div>
+  </h3>
 
-<div class="node-links"><ul class="links inline"><li class="0 first last"></li>
-</ul></div>
-</div>    <div id="printFooter">© 2009-2014 Manhattan Associates. All rights reserved.</div>
-  </div>
-
-
-    </div>
-  <!-- End: Container Content -->
-
-  <!-- Begin: Footer -->
-  <div id="ma-footer" class="clear">
-          <div id="ma-footer-media">
-          <div id="block-menu-menu-footer-social-media-links" class="block block-menu ">
-
-  <div class="content">
-    <ul class="menu"><li class="leaf first"><a href="http://www.facebook.com/ManhattanAssociates" target="_blank" class="ma-icon ma-facebook" title="Facebook">Facebook</a></li>
-<li class="leaf"><a href="http://twitter.com/ManhAssocNews" target="_blank" class="ma-icon ma-twitter" title="Twitter">Twitter</a></li>
-<li class="leaf"><a href="http://www.linkedin.com/company/manhattan-associates" target="_blank" class="ma-icon ma-linkedin" title="Linkedin">Linkedin</a></li>
-<li class="leaf last"><a href="http://www.youtube.com/ManhattanAssociates" target="_blank" class="ma-icon ma-youtube" title="Youtube">Youtube</a></li>
-</ul>  </div>
-</div>
-
-      </div>
-        <div id="block-i18nmenu_node-menu--menu-footer-links" class="block block-i18nmenu_node ">
-
-  <div class="nocontent">
-    <ul class="menu"><li class="leaf first"><a href="http://www.manh.com/solutions" title="Solutions">Solutions</a></li>
-<li class="leaf"><a href="http://www.manh.com/platforms" title="Platforms">Platforms</a></li>
-<li class="leaf"><a href="http://www.manh.com/industries" title="">Industries</a></li>
-<li class="leaf"><a href="http://www.manh.com/services" title="">Services</a></li>
-<li class="leaf"><a href="http://www.manh.com/partners" title="">Partners</a></li>
-<li class="leaf"><a href="http://www.manh.com/customers" title="Customers">Customers</a></li>
-<li class="leaf"><a href="http://www.manh.com/events" title="Events">Events</a></li>
-<li class="leaf last"><a href="http://www.manh.com/about-us" title="About Us">About Us</a></li>
-</ul>  </div>
-</div>
-
-      </div>
-  <!-- End: Footer -->
-
-</div>
-<!-- End: Container Content -->
-
-<!-- Begin: Copyright -->
-  <div id="footer-message">
-    <div class="footer-content">
-          <div id="block-block-24" class="block block-block ">
-
-  <div class="content">
-    <p>©2009-2014 Manhattan Associates. All rights reserved. <a href="http://www.manh.com/privacy-policy" class="active">Privacy Policy</a></p>
-  </div>
-</div>
-
-    </div>
-  </div>
-<!-- End: Copyright -->
-<script type="text/javascript" src="http://dnqi6o6m8sekg.cloudfront.net/sites/default/files/js/js_a792ef660ab83fb90fd5a3892ec63000.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"googleCSE":{"language":"en"}});
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-
-      setTimeout(function(){var a=document.createElement("script");
-      var b=document.getElementsByTagName('script')[0];
-      a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0018/7753.js";
-      a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
       
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-418362-21"]);_gaq.push(['_setCustomVar', 1, "User roles", "anonymous user", 1]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = "/sites/default/files/googleanalytics/ga.js?h";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-if (typeof pageTracker != "undefined") {addthis_config.data_ga_tracker = pageTracker;}
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-if (typeof addthis != "undefined") {addthis.init();}
-//--><!]]>
-</script>
- <script type="text/javascript">
-   $("layer").wrap('<div style="display:none;" />');
-   $("layer").parent().appendTo("body");
- </script>
- <!-- Baidu script: manh.cn -->
-  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"69d144466b","applicationID":"5357874","transactionName":"Z1FQZkNYX0JYWkQKCl4bc1FFUF5fFklRBABvWVNcUF5UQ2ZXXwcAb0JbV0Y=","queueTime":0,"applicationTime":1790,"ttGuid":"","agentToken":"","atts":"SxZTEAtCTEw=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+      
+      
+      <div class="main-column">
+        
+        
+        
+        
+
+  <div data-quickedit-field-id="node/4286/field_body/en/full" class="clearfix field field-node--field-body field-name-field-body field-type-text-long field-label-hidden">
+        <div class="field-items">
+              <div class="field-item"><p>Effective Date: May 14, 2015</p>
+
+<h2>Introduction</h2>
+
+<p>Manhattan Associates, Inc. and its subsidiaries (collectively, “Manhattan Associates”) respect your privacy and are committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit the website manh.com (our "Website") and our practices for collecting, using, maintaining, protecting and disclosing that information.</p>
+
+<p>This policy applies to information we collect:</p>
+
+<ul><li>on this Website.</li>
+	<li>in e-mail, text and other electronic messages between you and this Website.</li>
+</ul><p>It does not apply to information collected by:</p>
+
+<ul><li>us offline or through any other means, or</li>
+	<li>any third party.</li>
+</ul><p>Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time (see Changes to our Privacy Policy). Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.</p>
+
+<h2>Manhattan Associates’ Collection of Information</h2>
+
+<p>We collect several types of information from and about users of our Website, including information:</p>
+
+<ul><li>by which you may be personally identified, such as name, postal address, e-mail address, telephone number or any other identifier by which you may be contacted online or offline (“personal information”). Manhattan Associates will not collect any personal information about you unless you provide it to us.</li>
+	<li>about your internet connection, the equipment you use to access our Website, and usage details.</li>
+</ul><p>We collect this information:</p>
+
+<ul><li>directly from you when you provide it to us.</li>
+	<li>automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses, and information collected through cookies, web beacons, and other tracking technologies.</li>
+</ul><p>The information you provide us may include:</p>
+
+<ul><li>information that you provide by filling in forms on our Website. This includes information provided at the time of registering on our Website or requesting information through our Website. We may also ask you for information when you report a problem with our Website.</li>
+	<li>records and copies of your correspondence (including e-mail addresses), if you contact us.</li>
+	<li>your search queries on the Website.</li>
+</ul><p>Information we collect automatically may include:</p>
+
+<ul><li>details of your visits to our Website, including communication data and the resources that you access and use on the Website.</li>
+	<li>information about your computer and internet connection, including your IP address, operating system, and browser type.</li>
+</ul><h2>Manhattan Associates’ Use of Information</h2>
+
+<p>We use information that we collect about you or that you provide to us, including any personal information:</p>
+
+<ul><li>to present our Website and its contents to you in the most effective manner for you and your computer or mobile device</li>
+	<li>to provide you with information, products or services that you request from us.</li>
+	<li>to contact you with offers of goods and services or information that may be of interest to you about supply chain sector services, materials, news or training.</li>
+	<li>to allow you to access limited-entry areas of our website as may be appropriate.</li>
+	<li>to better understand your needs and how we can improve our products and services.</li>
+	<li>in any other way we may describe when you provide the information.</li>
+	<li>for any other purpose with your consent.</li>
+</ul><p>If you do not want us to use your information in this way, please do not provide us with your information.</p>
+
+<h2>Sharing of Information and International Transfers</h2>
+
+<p>For marketing purposes, we may share your information with our business partners, or we may send you information about those partners’ goods and services. We or our business partners may contact you by mail, telephone, fax, email or other electronic messaging service with offers of goods and services or information that may be of interest to you about supply chain sector services, materials, news or training. By providing us with your fax number, telephone numbers, email or mailing address you consent to being contacted by these methods for these purposes. If you do not wish to receive such information from us or our business partners, please contact us using the details provided below any time. No further action is necessary if you have previously indicated to us that you do not want to receive such marketing material.</p>
+
+<p>Because Manhattan Associates is a global company, your personal information may be shared with other Manhattan Associates business units around the world. They will protect your personal information in accordance with this Manhattan Associates Privacy Policy.</p>
+
+<p>We may disclose personal information that we collect or you provide as described in this privacy policy:</p>
+
+<ul><li>To our subsidiaries and affiliates.</li>
+	<li>To contractors, service providers and other third parties we use to support our business[ and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them].</li>
+	<li>To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Manhattan Associates’ assets, in which personal information held by Manhattan Assocaites about our Website users is among the assets transferred.</li>
+	<li>To fulfill the purpose for which you provide it.</li>
+	<li>For any other purpose disclosed by us when you provide the information.</li>
+	<li>With your consent.</li>
+</ul><p>We may also disclose your personal information:</p>
+
+<ul><li>To comply with any court order, law or legal process, including to respond to any government or regulatory request.</li>
+	<li>To enforce or apply our <a href="http://www.manh.com/terms-of-use">terms of use</a> and other agreements, including for billing and collection purposes.</li>
+</ul><h2>Cookies and Other Technology</h2>
+
+<p>The information we collect automatically helps us to improve our Website and to deliver a better and more personalized service, including by enabling us to:</p>
+
+<ul><li>Estimate our audience size and usage patterns.</li>
+	<li>Store information about your preferences, allowing us to customize our Website according to your individual interests.</li>
+	<li>Speed up your searches.</li>
+	<li>Recognize you when you return to our Website.</li>
+</ul><p>The technologies we use for this automatic data collection may include:</p>
+
+<ul><li>Cookies (or browser cookies). A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.</li>
+	<li>Web Beacons. Pages of our the Website may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).</li>
+</ul><h2>Links to Other Websites</h2>
+
+<p>Our Website may contain links to other sites for your convenience and information. These sites may be operated by companies not owned by Manhattan Associates. These other sites or linked third-party sites may have their own privacy notices, which you should review if you visit those sites. We are not responsible for the content of any sites not owned by Manhattan Associates, any use of those sites, or those sites’ privacy practices.</p>
+
+<h2>How We Protect Personal Information</h2>
+
+<p>We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure.</p>
+
+<p>Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.</p>
+
+<h2>Children’s Privacy</h2>
+
+<p>We do not knowingly collect personal information from children under 13. If you are under 13, do not register on the Website. If we learn we have collected or received personal information from a child under 13, we will delete that information.</p>
+
+<h2>Changes to Our Privacy Policy</h2>
+
+<p>It is our policy to post any changes we make to our privacy policy on this page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Website and this privacy policy to check for any changes.</p>
+
+<h2>Contact Information</h2>
+
+<p>If your personal details change, if you change your mind about any of your marketing preferences or if you have any queries about how we use your information, please let us know by calling us at +1 770.955.7070, or by emailing us at <a href="mailto:dataprotection@manh.com">dataprotection@manh.com</a>.</p>
+</div>
+          </div>
+  </div>
+
+        
+        
+        
+      </div>
+
+      
+      
+    </div>
+
+    
+   
+    
+</article>
+
+
+    </div>
+  </div>
+
+  </div>
+
+
+            </section>
+          </main>
+
+
+          <div class="main-two-column-layout">
+            <div class="main-two-column-first-column">
+              
+            </div>
+            <div class="main-two-column-second-column">
+              
+            </div>
+          </div>
+
+
+          </div>
+              </div>
+      
+    </div>
+    
+        <div id="footer-wrapper" class="l-footer">
+      <footer class="section">
+                  <div id="footer" class="clearfix">
+              <div class="region region-footer-first-column">
+    <div id="block-helpnavigationen" class="contextual-region block block-system">
+  
+      <h2>How Can We Help?</h2>
+    <div data-contextual-id="block:block=helpnavigationen:|menu:menu=help-navigation-en:"></div>
+      <div class="block-secondarymenu-wrapper" data-eq-pts="menu-300: 300, menu-450: 450, menu-600: 600, menu-750: 750, menu-900: 900">
+      
+              <ul class="menu">
+                  <li class="menu-item">
+          <a href="/services/customer-support" title="Contact Support" data-drupal-link-system-path="node/4566">Contact Support</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/about-us/careers/career-opportunities" title="Search Careers" data-drupal-link-system-path="node/4931">Search Careers</a>
+                  </li>
+          </ul>
+  
+
+
+    </div>
+  </div>
+
+  </div>
+
+              <div class="region region-footer-second-column">
+    <div data-quickedit-entity-id="block_content/6" id="block-footeraddressblock" class="contextual-region block block-block-content">
+  
+    <div data-contextual-id="block:block=footeraddressblock:|block_content:block_content=6:changed=1432072838"></div>
+      <div class="content">
+      
+
+  <div data-quickedit-field-id="block_content/6/body/en/default" class="clearfix field field-block-content--body field-name-body field-type-text-with-summary field-label-hidden">
+        <div class="field-items">
+              <div class="field-item"><div class="left">
+<h2>Manhattan Associates, Inc</h2>
+
+<p>2300 Windy Ridge Parkway<br>
+10th Floor<br>
+Atlanta, GA 30339&nbsp;USA</p>
+<!--<p class="text-align-center"><a href="/office-locations">Get Directions</a></p>--></div>
+
+<div class="right">
+<p>General Inquiries:<br>
++1 (770) 955-7070</p>
+
+<p>Sales:<br>
++1 <span class="s1">(877) 596-9208</span></p>
+<!--<p class="text-align-center"><a href="/office-locations">Office Locations</a></p>--></div>
+</div>
+          </div>
+  </div>
+
+    </div>
+  </div>
+
+  </div>
+
+            
+              <div class="region region-footer-fourth-column">
+    <div id="block-connectnavigationen" class="contextual-region block block-system">
+  
+      <h2>Connect With Us</h2>
+    <div data-contextual-id="block:block=connectnavigationen:|menu:menu=connect-navigation-en:"></div>
+      <div class="block-secondarymenu-wrapper" data-eq-pts="menu-300: 300, menu-450: 450, menu-600: 600, menu-750: 750, menu-900: 900">
+      
+              <ul class="menu">
+                  <li class="menu-item">
+          <a href="http://www.twitter.com/ManhAssocNews" title="Connect with us on Twitter!">Twitter</a>
+                  </li>
+              <li class="menu-item">
+          <a href="http://www.facebook.com/ManhattanAssociates" title="Connect with us on Facebook!">Facebook</a>
+                  </li>
+              <li class="menu-item">
+          <a href="http://www.linkedin.com/company/manhattan-associates" title="Connect with us on Linkedin!">LinkedIn</a>
+                  </li>
+              <li class="menu-item">
+          <a href="http://www.youtube.com/ManhattanAssociates" title="Watch our videos on YouTube!">YouTube</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/about-us/connect-manhattan-associates" title="See More" data-drupal-link-system-path="node/6046">See More</a>
+                  </li>
+          </ul>
+  
+
+
+    </div>
+  </div>
+
+  </div>
+
+          </div>
+              </footer>
+    </div>
+            <div id="footer-copyright-wrapper" class="l-copyright">
+      <div class="section">
+                  <div id="copyright" role="contentinfo" class="clearfix">
+              <div class="region region-footer-copyright">
+    <div data-quickedit-entity-id="block_content/76" id="block-googleanalyticsscript" class="contextual-region block block-block-content">
+  
+    <div data-contextual-id="block:block=googleanalyticsscript:|block_content:block_content=76:changed=1431535078"></div>
+      <div class="content">
+      
+
+  <div data-quickedit-field-id="block_content/76/body/en/default" class="clearfix field field-block-content--body field-name-body field-type-text-with-summary field-label-hidden">
+        <div class="field-items">
+              <div class="field-item"><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-62496424-1', 'auto'); ga('send', 'pageview');
+//--><!]]>
+</script></div>
+          </div>
+  </div>
+
+    </div>
+  </div>
+<div data-quickedit-entity-id="block_content/16" id="block-footercopyrightblock" class="contextual-region block block-block-content">
+  
+    <div data-contextual-id="block:block=footercopyrightblock:|block_content:block_content=16:changed=1431008383"></div>
+      <div class="content">
+      
+
+  <div data-quickedit-field-id="block_content/16/body/en/default" class="clearfix field field-block-content--body field-name-body field-type-text-with-summary field-label-hidden">
+        <div class="field-items">
+              <div class="field-item"><p>© 2015 Manhattan Associates. All Rights Reserved.</p>
+</div>
+          </div>
+  </div>
+
+    </div>
+  </div>
+<div id="block-footernavigationen" class="contextual-region block block-system">
+  
+    <div data-contextual-id="block:block=footernavigationen:|menu:menu=footer-navigation-en:"></div>
+      <div class="block-secondarymenu-wrapper" data-eq-pts="menu-300: 300, menu-450: 450, menu-600: 600, menu-750: 750, menu-900: 900">
+      
+              <ul class="menu">
+                  <li class="menu-item menu-item--active-trail">
+          <a href="/privacy-policy" title="Privacy Policy" data-drupal-link-system-path="node/4286" class="active">Privacy Policy</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/terms-of-use" title="Terms of Use" data-drupal-link-system-path="node/4291">Terms of Use</a>
+                  </li>
+              <li class="menu-item">
+          <a href="/trademarks" title="Trademarks" data-drupal-link-system-path="node/4371">Trademarks</a>
+                  </li>
+          </ul>
+  
+
+
+    </div>
+  </div>
+
+  </div>
+
+          </div>
+              </div>
+        </div>
+  </div>
+</div>
+
+    
+    <script>
+<!--//--><![CDATA[//><!--
+var drupalSettings = {"path":{"baseUrl":"\/","scriptPath":"\/index.php","pathPrefix":"","currentPath":"node\/4286","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","crazyegg":{"crazyegg":{"account_path":"pages\/scripts\/0018\/7753.js"}},"eloqua":{"siteID":"1719"},"user":{"uid":0,"permissionsHash":"018d5272dc687e518fe54ecbeb17c3890ec21f1fae408c48c1490cf6119c2d5f"}};
+//--><!]]>
+</script>
+<script src="http://www.manh.com/core/assets/vendor/domready/ready.min.js?v=1.0.7"></script>
+<script src="http://www.manh.com/core/assets/vendor/jquery/jquery.min.js?v=2.1.3"></script>
+<script src="http://www.manh.com/core/misc/drupal.js?v=8.0.0-dev"></script>
+<script src="http://www.manh.com/core/assets/vendor/picturefill/picturefill.min.js?v=2.2.1"></script>
+<script src="http://www.manh.com/modules/contrib/crazyegg/js/crazyegg.js?v=1.x"></script>
+<script src="http://www.manh.com/modules/contrib/eloqua/js/eloqua.js?v=8.0.0-dev"></script>
+<script src="http://www.manh.com/modules/custom/manh_browser_detect/js/manh_browser_detect.js?v=1.x"></script>
+<script src="http://www.manh.com/modules/custom/manh_browser_detect/vendor/jReject/js/jquery.reject.js?v=1.x"></script>
+<script src="http://www.manh.com/modules/custom/manh_nav_drawers/js/nav_drawer.js?v=1.x"></script>
+<script src="http://www.manh.com/themes/manh/js/eq.js?npfh7n"></script>
+<script src="http://www.manh.com/themes/manh/js/menutoggle.js?v=1.x"></script>
+<script src="http://www.manh.com/themes/manh/js/jquery.fittext.js?npfh7n"></script>
+<script src="http://www.manh.com/themes/manh/js/main.js?npfh7n"></script>
+<script src="http://www.manh.com/themes/manh/js/businessproblems.js?npfh7n"></script>
+<script src="http://www.manh.com/themes/manh/js/mobilephone.js?npfh7n"></script>
+<script src="http://www.manh.com/themes/manh/js/manh-lightbox.js?npfh7n"></script>
+<script src="http://www.manh.com/themes/manh/js/contact.js?npfh7n"></script>
+<script src="http://www.manh.com/themes/manh/js/home-slider.js?v=8.0.0-dev"></script>
+<script src="http://www.manh.com/themes/manh/js/jquery.easing.js?v=8.0.0-dev"></script>
+<script src="http://www.manh.com/themes/manh/js/home-slider-touchswipe.min.js?v=8.0.0-dev"></script>
+<script src="http://www.manh.com/themes/manh/js/home-slider-init.js?v=8.0.0-dev"></script>
+<script src="http://www.manh.com/core/assets/vendor/matchMedia/matchMedia.min.js?v=0.2.0"></script>
+
+  
+
+</body></html>
