@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canstar.com.au privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119153652id_/http%3A//www.canstar.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canstar.com.au privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610000449id_/http%3A//www.canstar.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CANSTAR | Canstar
 
