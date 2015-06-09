@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the animalslook.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222235849id_/http%3A//www.animalslook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animalslook.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609232425id_/http%3A//www.animalslook.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Animals Look
+# Privacy Policy - Animal's Look
 
 The privacy of our visitors to www.animalslook.com is important to us. At www.animalslook.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit www.animalslook.com, and how we safeguard your information. We never sell your personal information to third parties.
 
