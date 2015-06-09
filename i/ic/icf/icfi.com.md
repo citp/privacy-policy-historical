@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icfi.com privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816152945id_/http%3A//www.icfi.com/global/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icfi.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609062518id_/http%3A//www.icfi.com/global/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy » ICF Intl
 
@@ -6,7 +6,7 @@
 
 ICF International, Inc., ("ICF International" or "ICF") is committed to protecting the privacy and security of your Personal Information. Except as described below, ICF International does not sell, rent, or share Personal Information provided to us through our suite of websites. "Personal Information" is information that would allow someone to identify or contact you, including, for example, your full name, address, telephone number, or email address. 
 
-By accessing ICFi.com, [highlights.icfi.com](http://highlights.icfi.com/), [products.icfi.com](http://products.icfi.com/), [ICFi.com.br](http://www.icfi.com.br/), [citytechinc.com](http://www.citytechinc.com/us/en.html), [ecommerceaccel.com](http://www.ecommerceaccel.com/), [mostra.com](http://www.mostra.com/), [icfi.com/canada](https://web.archive.org/sitecore/content/international/canada), or [icfi.com/china](https://web.archive.org/sitecore/content/international/china), you consent to the collection, usage, and storage of your Personal Information by us in the manner described below. If you have questions regarding this Website Privacy Policy, please [contact us](https://web.archive.org/contact-us). Because the Internet is an evolving medium, we reserve the right to amend this policy at any time by posting the amended version on our website and updating the Effective Date of the policy to reflect the date of the changes. By continuing to use this website after we post any such changes, you accept the Website Privacy Policy as modified. We encourage you to learn as much as you can about your privacy on the Internet. This Website Privacy Policy covers the following issues and information: 
+By accessing ICFi.com, [highlights.icfi.com](http://highlights.icfi.com/), [products.icfi.com](http://products.icfi.com/), [ICFi.com.br](http://www.icfi.com.br/), [olson.com](http://olson.com/), [olson1to1.com](http://olson1to1.com/), [olsonengage.com](http://olsonengage.com/), [ca.olson.com](http://ca.olson.com/), [pulsepointgroup.com](http://pulsepointgroup.com/), [citytechinc.com](http://www.citytechinc.com/us/en.html), [ecommerceaccel.com](http://www.ecommerceaccel.com/), [mostra.com](http://www.mostra.com/), [icfi.com/canada](https://web.archive.org/sitecore/content/international/canada), or [icfi.com/china](https://web.archive.org/sitecore/content/international/china), you consent to the collection, usage, and storage of your Personal Information by us in the manner described below. If you have questions regarding this Website Privacy Policy, please [contact us](https://web.archive.org/contact-us). Because the Internet is an evolving medium, we reserve the right to amend this policy at any time by posting the amended version on our website and updating the Effective Date of the policy to reflect the date of the changes. By continuing to use this website after we post any such changes, you accept the Website Privacy Policy as modified. We encourage you to learn as much as you can about your privacy on the Internet. This Website Privacy Policy covers the following issues and information: 
 
   * How Personal Information is Collected and Used
     * Information You Voluntarily Provide to Us
@@ -105,15 +105,24 @@ media.icfi.com
 products.icfi.com  
 icfithinking.com  
 mostra.com  
-citytechinc.com 
+citytechinc.com  
+olson.com  
+olson1to1.com  
+olsonengage.com  
+ca.olson.com  
+pulsepointgroup.com
 
-| _ga  
+| 
+
+_ga  
+_gat  
 _utma  
 _utmb  
 _utmc  
 _utmx  
 _utmxx  
-_utmz  
+_utmz
+
 | Up to 2 years  | These third-party Google Analytics cookies are used to collect nonpersonally identifiable information about how you use the website. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, how visitors arrived at the site, and pages visited. Learn more about the privacy and security of Google Analytics data at <http://www.google.com/analytics/learn/privacy.html>. To opt out of being tracked by Google Analytics across all websites, visit <http://tools.google.com/dlpage/gaoptout>.   
 icfi.com | cuvid | 2 years from set/update | This cookie is set by the Click Dimensions tracking script and is used to determine unique visitors to the site and it is updated with each page view. Additionally, this cookie is provided with a unique ID that the application uses to ensure both the validity and accessibility of the cookie as an extra security measure. Learn more about Click Dimensions web analytics cookies at: <http://help.clickdimensions.com/clickdimensions-cookies-for-web-analytics/>.  
 icfi.com | cusid | 30 minutes from set/update | This cookie is set by the Click Dimensions tracking script and is used to establish and continue a user session with the site. Learn more about Click Dimensions web analytics cookies at: <http://help.clickdimensions.com/clickdimensions-cookies-for-web-analytics/>.  
@@ -211,6 +220,23 @@ icfithinking.com | __qca | Up to 2 years |
 
 This third-party cookie is set by the TypePad blogging platform and is used to collect anonymous information about how you use [http://icfithinking.com](http://icfithinking.com/) when coming from an online ad provided by Quantcast. To learn more about TypePad's use of cookies, visit: <http://www.typepad.com/privacy>.  
   
+olson1to1.com  
+olsonengage.com | s_vnum  
+s_ev11  
+s_fid  
+s_dl  
+gpv_pn  
+s_invisit  
+s_nr  
+s_lv  
+s_lv_s | Up to 5 years | These third-party Adobe Site Catalyst cookies are used to collect nonpersonally identifiable information about how you use the website. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, how visitors arrived at the site, and pages visited.  
+olson1to1.com  
+olsonengage.com | s_sq  
+s_cc | Session | These third-party Adobe Site Catalyst cookies are used to collect nonpersonally identifiable information about how you use the website. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, how visitors arrived at the site, and pages visited.  
+olson.com  
+olson1to1.com  
+ca.olson.com | balanceid | Session | This necessary cookie is automatically created by network infrastructure, which balances the load of web traffic to increase performance and load times.  
+pulsepointgroup.com | has_js | Session | This cookie is used by [http://pulsepointgroup.com](http://pulsepointgroup.com/) site's JavaScript to enable styling and enhanced user experience.  
 linkedin.com | X-LI-IDC | Session | 
 
 This cookie is generated by the LinkedIn share and follow buttons and is used to track which pages you visit. Learn more about LinkedIn's cookie policy at: <http://www.linkedin.com/legal/cookie-policy>  
@@ -307,7 +333,7 @@ California Civil Code Section 1798.83, also known as the "Shine The Light" law, 
 
 If you are a California resident and would like to make such a request, please submit your request in writing to:
 
-**ATTN: Rebecca Wallace  
+**ATTN: Dan Smith  
 Online Data Privacy Manager  
 ****ICF International  
 9300 Lee Highway  
@@ -368,7 +394,7 @@ To change your personal profile in myICF, please follow the instructions in the 
 
 If you have questions or concerns about this Privacy Policy or our websites and email marketing practices, please contact us in writing at:
 
-**ATTN: Rebecca Wallace  
+**ATTN: Dan Smith  
 **Online Data Privacy Manager**  
 ICF International   
 9300 Lee Highway  
@@ -379,4 +405,4 @@ E-mail: [info@icfi.com](mailto:info@icfi.com) **
 
 Copyright ©2014 ICF International, Inc. All rights reserved.
 
-_Effective Date: March 17, 2014_
+_Effective Date: November 5, 2014_
