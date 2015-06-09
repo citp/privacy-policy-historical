@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the flora2000.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626035747id_/http%3A//www.flora2000.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flora2000.com privacy policy that was archived on 2015-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150609231923id_/http%3A//www.flora2000.com/privacy_policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title> Privacy Policy - Flora2000  </title>
@@ -10,30 +10,66 @@
 <meta name="Revisit-After" content="15 Days">
 <meta name="Robots" content="All">
 <meta name="generator" content="Bluefish 1.0.7">
-<link href="/common/css/css_staticpages.css?20140620183726" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<link href="/common/css/css_staticpages.css?20150414123726" rel="stylesheet" type="text/css">
+<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=35748070"></script></head>
 <body>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/jquery.js?20140620183726" type="text/javascript"></script>
-<link rel="stylesheet" type="text/css" href="/css/thickbox.css?20140620183726" media="screen">
-<script src="/js/thickbox.js?20140620183726" type="text/javascript"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/jquery.js?20150414123726" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="/css/thickbox.css?20150414123726" media="screen">
+<style type="text/css">
+input[type="text"],input[type="password"] 
+{
+outline:none;
+}
+.breadCrumb{width:906px;padding:9px 0 9px 18px;text-align:left;} 
+.breadCrumb, .breadCrumb a{font:11px/12px Arial, Helvetica, sans-serif;color:#111} 
+</style>
+<script src="/js/thickbox.js?20150414123726" type="text/javascript"></script>
+<script type="text/javascript">
+ var jQ = jQuery.noConflict();
+ 
+ /*ADDED BY CHINTAN DOSHI*/
+ 
+ function cleartext(thefield){
+		if(thefield.defaultValue==thefield.value)
+			  thefield.value='';
+			  document.getElementById('prod_search').style.font = "14px/19px Arial, Helvetica, sans-serif";
+			  document.getElementById('prod_search').style.paddingTop = "2px";
+			  document.getElementById('prod_search').style.textAlign = "left";
+  }
+
+function entertext(thefield){
+		if(thefield.value.trim() == ''){
+			  thefield.value=thefield.defaultValue;
+			  document.getElementById('prod_search').style.font = "12px/19px Arial, Helvetica, sans-serif";
+			 // document.getElementById('prod_search').style.textAlign = "center";
+    }
+  }
+  
+function checkSearchTerm()
+  {
+ 	var searchTerm	= document.getElementById("prod_search").value;
+	searchTerm  	= searchTerm.replace(/^\s+|\s+$/g, "");
+	searchTerm	= searchTerm.toUpperCase();
+         var res = searchTerm.split(" "); 
+ 	if(res[0] == "SEARCH" && res[1] == "FOR" || searchTerm === ""){  
+            document.getElementById("prod_search").focus();
+             return false;
+    }
+		
+	else 
+		document.getElementById("prod_search").value = searchTerm.toLowerCase();
+document.getElementById("product_search").submit();
+  }
+  
+  
+</script>
 <script type="text/javascript">
 <!--
-var globaImgvar = "?20140620183726";
-//var win_stat_Fb = '0';
-//var win_stat_Fb_error = '0';
-/*if(win_stat_Fb == '1')
-	{
-		if(win_stat_Fb_error =='0')
-			{
-				window.opener.location.reload(true);			
-			}
-		win_stat_Fb = 0;
-		window.close();
-	}*/ 
+var globaImgvar = "?20150414123726";
 	
 function fb_pop_up(url) {
     if (url == ''){
-		url = "https://www.facebook.com/dialog/oauth?client_id=497848996914469&redirect_uri=http%3A%2F%2Fwww.flora2000.com%2Ffb_return.php&state=dd5770fa2362803e515c000f966f41d2&scope=email%2Cuser_religion_politics%2Cuser_location%2Cuser_hometown%2Cfriends_birthday&display=popup";
+		url = "https://www.facebook.com/dialog/oauth?client_id=1498191773791170&redirect_uri=http%3A%2F%2Fwww.flora2000.com%2Ffb_return.php&state=7719fe02ec51bf6906b149179f7a584e&scope=email%2Cuser_religion_politics%2Cuser_location%2Cuser_hometown%2Cfriends_birthday&display=popup";
 	}
  window.open(url, "Login_with_facebook", "resizable=No,left=430,top=23,width=660,height=348");
  return false;
@@ -73,7 +109,34 @@ function wrapimg()
 	  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	})();
         
+//<![CDATA[
+jQuery(document).ready(function(){
 
+if (jQuery('#backtotop').length) {
+var a = jQuery('#backtotop').length;
+var scrollTrigger = 100, // px
+backToTop = function () {
+
+var scrollTop = jQuery(window).scrollTop();
+if (scrollTop > scrollTrigger) {
+jQuery('#backtotop').addClass('show');
+} else {
+jQuery('#backtotop').removeClass('show');
+}
+};
+backToTop();
+jQuery(window).scroll(function(){
+backToTop();
+});
+jQuery('#backtotop').click(function(e){
+e.preventDefault();
+jQuery('html,body').animate({
+scrollTop: 0
+}, 700);
+});
+}
+
+});//]]>
 </script>
 <script type="text/javascript">
 var plstart = new Date();
@@ -120,23 +183,43 @@ left:expression("0");
 .contentAbt .row,.content .row917{width:918px}
 .contentAbt .popiner img{margin-bottom:-4px}
 li.fbook{display:inline;}
-.instructionDiv{width:216px}
-.instructionSpace{padding:18px 0 18px 13px}
 </style>
 <![endif]-->
-<style type="text/css">
-@font-face{font-family:'Engrave';src:url('/template/engravers.eot');src:local('Engrave'), url('/template/engravers.ttf') format('truetype'),url('/template/engravers.svg#webfont') format('svg');font-style:normal;}
-</style>
 <!--[if lte IE 9]>
 <script type="text/javascript" src="/common/js/css3-mediaqueries.js"></script>
 <![endif]-->
+<!--[if IE 8]>
+<style type="text/css">#footerbar{position:fixed}</style>
+<![endif]-->
+<!--[if lte IE 7]>
 <style type="text/css">
+#welcome{width:209px}
+.dropdown, input.dropdown{width:210px;padding:0 9px}
+.instructionPoint{margin-left:0}
+.shoppInp,.shoppInpDisable,.shoppInpSmall,.shoppTextarea,.myAccInp{width:210px;padding:0 4px}
+.pdbx,.pdbx .butDtls div,.pdbx .butDtls img{display:inline;cursor:hand}
+.pdbx a{display:block}
+.pdbx .sale,.pdbx .option{left:0}
+.pdbx .nextday{margin-left:0;text-align:left}
+.pdbx .prcbox{margin-top:-30px}
+.pdbx .strkPrc{margin-top:-18px}
+.pdbx .pimg img.prd{display:inline}
+#span_send{width:185px;margin-right:0px}
+.actDiv{width:100%}
+#act{display:inline;float:left;text-align:right}
+.instructionSpace{padding:18px 0 18px 11px}
+#pop{padding-bottom:8px}
+.dptDdown a.sel span{margin-top:-30px}
+</style>
+<![endif]-->
+<style type="text/css">
+.slidIn{height:65px}
 @media only screen and (max-width: 1200px){
 #expFlora{display:none}
 }
 @media only screen and (min-width: 1660px){
 #expFlora{width:260px;}
-.slidIn{height:47px;background:url('/template/sprytText.png') no-repeat 0 -470px}
+.slidIn{height:78px;background:url('/template/sprytText.png') no-repeat 0 -470px}
 .slidIn div{margin-top:47px;width:100%;height:30px;background:url('/template/sprytText.png') no-repeat 0 -660px;border-top:1px solid #bebebe}
 .contNo{height:34px;background:url('/template/sprytText.png') no-repeat 0 -616px;}
 .expSat{border-bottom:none;border-right:1px solid #bebebe}
@@ -166,258 +249,116 @@ li.fbook{display:inline;}
     <div id="topbarbg">
         <div id="topbarWrap">
             <!-- Send flowers international popups starts -->
-            <div id="international" style="display:none;">
+          <div id="interListDropdown" style="display:none;">
+          	<div class="csarowUp"></div>
+          	<div class="listIner">
+          		<h2>SELECT COUNTRY<a href="javascript:;" onclick="Effect.BlindUp('interListDropdown', {duration: 1.0});">x</a></h2>
+                        <input type="text" name="srchCountry" value="SEARCH COUNTRY" class="srchCountry" onclick="this.value='';" onkeyup="getSrchName('', event, this.value);"><input type="button" value="" class="scBut">
                 <a href="javascript:;" id="lnkUp" onmouseover="scrollStart('Up', 'scroll_country', 'lnkUp');" onmouseout="scrollEnd('peopleUp');" class="arowUp" onclick="new Effect.Scroll('scroll_country',{y:-200, mode:'relative'}); return false;"></a>
                 <a href="javascript:;" id="lnkDn" onmouseover="scrollStart('Down', 'scroll_country', 'lnkDn');" onmouseout="scrollEnd('peopleDown');" class="arowDown" onclick="new Effect.Scroll('scroll_country',{y:200, mode:'relative'}); return false;"></a>
-                <div class="interInner" id="scroll_country" onclick="Effect.BlindUp('international', {duration: 1.0, afterFinish:toggleClass.call(this, $('international'), 'topactiv')});">
-                </div>
+              <div class="interInner" id="scroll_country" onclick="Effect.BlindUp('interListDropdown', {duration: 1.0});">
+                                  </div>
             </div>
-			            <!-- Send flowers international popups ends -->
-            <div id="ulCover">
+          </div>
+            <!-- Send flowers international popups ends -->
+           	<ul id="ulCover">
+          	<li class="cl">
             <div class="logo">
-			<a href="http://www.flora2000.com" title="Flora2000 Home"><img src="http://www.flora2000.com/template/fl_logo.png?20131112" width="200" height="21" border="0"></a><a href="http://www.flora2000.com/"><img src="/template/since1999.png?20140620183726" width="200" height="16" border="0" alt="Since 1999, Over 2 Million Served"></a>						</div>
-            <ul id="topul">
-            <li id="welcome" class="liBrd">
-            <div id="topbar_load">
-								            <ul>
-				<li id="li_loggedout" class="liBrd">
-            <span class="pad" style="padding-top: 2px;" id="span_first_part"><a href="javascript:;" onclick="setVisibility('newSignup','span_first_part','block',event);return false;" class="pink">SIGN UP</a>
+			<a href="http://www.flora2000.com" title="Flora2000 Home"><img src="http://www.flora2000.com/template/fl_logo.png?20131112" width="200" height="21" border="0"></a><a href="http://www.flora2000.com/"><img src="/template/since1999.png?20150414123726" width="200" height="16" border="0" alt="Since 1999, Over 2 Million Served"></a>						</div>
+            </li>
+            <li class="cm">
+            	<div class="livChat">Call: 1800 456 1797 or <a href="http://hc2.humanclick.com/hc/35748070/?cmd=file&amp;file=visitorWantsToChat&amp;site=35748070&amp;byhref=1&amp;AEPARAMS" target="chat35748070" onclick="_gaq.push(['_trackPageview', '/POPUP_LIVE_CHAT_BRANDING']);window.open('http://hc2.humanclick.com/hc/35748070/?cmd=file&amp;file=visitorWantsToChat&amp;site=35748070&amp;AEPARAMS&amp;referrer='+document.location,'chat35748070','width=472,height=320');return false;" '="">LIVE CHAT</a></div>
+              <!-- Same day delivery -->
+                          <!-- Same day delivery ends-->
+
+                        </li>
+
+            <li class="cr">
+              <div id="send">
+                                    <a href="javascript:;" onclick="getCountryList('137');">
+                      <span id="span_send">
+                        SEND FLOWERS INTERNATIONAL
+                    </span>
+                  </a>    
+                                </div>
+              <div class="actDiv">
+                <div class="cart">MY CART(0)</div>                  <div id="welcome">
+                    <div id="topbar_load">
+                                  <ul class="user">
+				<!--li id="li_loggedout" class="liBrd">
+            <span id="span_first_part"><a href="javascript:;" onClick="Effect.BlindUp('memLoginDiv', {duration: 0.1});Effect.BlindDown('newSignupDiv', {duration: 0.5});return false;" class="pink">Sign Up</a>
             </span>
-				</li>
-				<li>
-						<span id="span_sec_part"><a href="javascript:;" onclick="setVisibility('memLogin','span_sec_part','block',event);return false;">LOGIN</a> 
+				</li-->
+				<li class="liBrd">
+						<span id="span_sec_part"><a href="javascript:;" onclick="Effect.BlindUp('newSignupDiv', {duration: 0.1});Effect.BlindDown('memLoginDiv', {duration: 0.5});return false;">My Account</a> 
 				</span>
 				</li>
             </ul>
-            						</div>
-            </li>
-                        <li id="suport" class="liBrd"><span id="span_support"><a href="javascript:;" onclick="setVisibility('liveChat','span_support','block',event);return false;" class="pink">24/7 LIVE SUPPORT</a></span></li>
-                        		
-            <!-- li id="act" class='liBrd'><span><a href="/my_account/">MY ACCOUNT</a></span></li -->
-                        <!-- li id="act"><span>&nbsp;</span></li -->
-                        <li id="faqs" class="liBrd"><span id="span_faqs"><a href="javascript:;" onclick="setVisibility('faq','span_faqs','block',event);return false;">FAQS</a></span></li>
-                        <li id="gnt"><span id="span_gnt"><a href="javascript:;" onclick="setVisibility('guarantee','span_gnt','block',event);return false;" class="pink">OUR PROMISE</a></span></li>
-                        <li id="send">
-              <span id="span_send">
-              	                  <a href="javascript:;" onclick="getCountryList();">SEND FLOWERS INTERNATIONAL</a>
-               	              </span>
-            </li>
-                    </ul>
-              <div class="actDiv">
-                		
-                <div id="act"><a href="https://www.flora2000.com/my_account/">MY ACCOUNT</a></div>
-                              <div class="cart">MY CART</div>              </div>
-            </div>
-			<!-- Member Details popups starts -->
-
- 				 <div class="clear"></div>
-				 
-			              
-<!-- member Dtls popups ends -->
-            <!-- popup display area starts-->
-            <div id="popdisplay">
+                                </div>
+                  </div>
+                               
                 <!-- Login starts -->
- 				<div class="clear"></div>
-                <div class="popcover">
-                    <div id="memLogin" class="popbox" style="display:none">
-                        <div class="poptop"><a href="javascript:;" onclick="setVisibility('memLogin','span_sec_part', 'none',event);return false;">CLOSE <img src="http://flowers.flora2000.com/template/x.gif" width="9" height="9" border="0" alt="CLOSE"></a></div>
-                        <div class="popcontent">
-                        <h2>Existing Member - Sign In</h2>
-                        <div class="inner">
-                            <label>email address</label><input type="text" id="user_uid" name="user_uid" onkeypress="doLoginPress(event,'mem_other')" class="inp">
+                <div class="nupop" id="memLoginDiv" style="display:none">
+                  <div class="topArow"></div>
+                  <div class="iner">
+                    <h2>LOGIN<a href="javascript:;" onclick="Effect.BlindUp('memLoginDiv', {duration: 1.0});">x</a></h2>
+                    <label>email address</label><div class="inpTxt"><input type="text" id="user_uid" name="user_uid" onkeypress="doLoginPress(event,'mem_other')"></div>
                             <label>password</label>
-                            <input type="password" id="passwd" name="passwd" onkeypress="doLoginPress(event,'mem_other')" class="inp">
-                            <input type="button" id="signUp" value="LOG IN" class="popButon" onclick="doLogin('mem_other');">
+                    <div class="inpTxt"><input type="password" id="passwd" name="passwd" onkeypress="doLoginPress(event,'mem_other')"></div>
+                    <input type="button" id="signUp" value="LOG IN" class="nupopBut" onclick="doLogin('mem_other');">
           <div id="div_error_other"></div>
-                        </div>
-                        <div class="inner1">
-                            Forgotten password? We're on top of it.<br><a href="javascript:;" onclick="doLogin('forgot_pass');return false;">Click here</a>&nbsp;<span id="div_error_pass_btn"></span>to have it sent to you instantly.<p></p>
-                        </div>
-                        <div class="inner3">
+                    <div style="padding:12px 0 0;text-align:center">Forgot Password? <a href="javascript:;" onclick="doLogin('forgot_pass');return false;">Click here</a></div>
   <div id="fb_login" class="fbLogin">
-  <label>OR Login with Facebook</label>
-  <a href="javascript: void(0);" onclick="javascript:fb_pop_up('https://www.facebook.com/dialog/oauth?client_id=497848996914469&amp;redirect_uri=http%3A%2F%2Fwww.flora2000.com%2Ffb_return.php&amp;state=dd5770fa2362803e515c000f966f41d2&amp;scope=email%2Cuser_religion_politics%2Cuser_location%2Cuser_hometown%2Cfriends_birthday&amp;display=popup'); return false;">					
+                    <br><br>OR<br><br>
+  <a href="javascript: void(0);" onclick="javascript:fb_pop_up('https://www.facebook.com/dialog/oauth?client_id=1498191773791170&amp;redirect_uri=http%3A%2F%2Fwww.flora2000.com%2Ffb_return.php&amp;state=7719fe02ec51bf6906b149179f7a584e&amp;scope=email%2Cuser_religion_politics%2Cuser_location%2Cuser_hometown%2Cfriends_birthday&amp;display=popup'); return false;">					
 
-  <img style="padding-top: 6px;" src="/template/fbLogin.jpg?20140620183726"></a>
+                    <img style="padding-top: 6px;" src="/template/fb_login.png?20150414123726"></a>
+                    <br><br>OR<br><br>
   </div>
-                        </div>                               <div class="clear"></div>
-                        </div>
+                    <input type="button" id="signUp" value="CREATE A NEW ACCOUNT" class="nupopBut" onclick="Effect.BlindUp('memLoginDiv', {duration: 0.2});Effect.BlindDown('newSignupDiv', {duration: 1.0});return false;">
                     </div>
                 </div>
                 <!-- Login ends -->
-                <!-- Semi Login starts ***-->
- 				<div class="clear"></div>
-                <div class="popcover">
-                    <div class="popbox" id="existLogin" style="display:none">
-                        <div class="poptop"><a href="javascript:;" onclick="setVisibility('existLogin','span_first_part', 'none',event);return false;">CLOSE <img src="http://flowers.flora2000.com/template/x.gif" width="9" height="9" border="0" alt="CLOSE"></a></div>
-                        <div class="popcontent">
-                            <h2>Login</h2>
-                            <div class="inner">
-                            <label>password</label><input id="pswd" name="pswd" onkeypress="doLoginPress(event,'mem_login')" class="inp" type="password">
-                            <input type="button" id="login" value="LOG IN" class="popButon" onclick="doLogin('mem_login');">
-                            <div id="div_error"></div>
-                            <span id="div_error_login_btn"></span></div>
-                            <div class="inner1">
-                            Forgotten password? We're on top of it.<br><a href="javascript:;" onclick="doLogin('forgot_pass_login');return false;">Click here</a>&nbsp;<span id="div_error_pass_login_btn"></span>to have it sent to you instantly.
+                <!-- Signup start -->                
+                <div class="nupop" id="newSignupDiv" style="display:none">
+                  <div class="topArow"></div>
+                  <div class="iner">
+                  	<div class="w50">
+                    <h2>Why To Sign Up:</h2>
+                    <ol class="why">
+                    	<li>Our loyalty program comes with huge benefits at every tier. <a href="https://www.flora2000.com/lp/loyaltyprogram.asp" style="color:#c80088;">Read more</a>.</li>
+											<li>Save recipient address' and set up event reminders.</li>
+											<li>Be the first to get updates on our exclusive discounts and offers.</li>
+                    </ol>
                             </div>
-        <div class="inner3">
-  <div id="fb_login" class="fbLogin">
-  <label>OR Login with Facebook</label>
-  <a href="javascript:void(0);" onclick="javascript:fb_pop_up('https://www.facebook.com/dialog/oauth?client_id=497848996914469&amp;redirect_uri=http%3A%2F%2Fwww.flora2000.com%2Ffb_return.php&amp;state=dd5770fa2362803e515c000f966f41d2&amp;scope=email%2Cuser_religion_politics%2Cuser_location%2Cuser_hometown%2Cfriends_birthday&amp;display=popup'); return false;"><img style="padding-top: 6px;" src="/template/fbLogin.jpg?20140620183726"></a>
-  </div>
-  </div> 
-                            <div class="clear"></div>
-                        </div>
-                    </div>
-                </div>
-                <!-- Semi Login ends -->
-                <!-- Signup starts *** -->
- 				<div class="clear"></div>
-                <div class="popcover">
-                    <div class="popbox" id="newSignup" style="display:none">
-                        <div class="poptop"><a href="javascript:;" onclick="setVisibility('newSignup','span_first_part', 'none',event);return false;">CLOSE <img src="http://flowers.flora2000.com/template/x.gif" width="9" height="9" border="0" alt="CLOSE"></a></div>
-                        <div class="popcontent">
-                            <h2>&nbsp;</h2>
-                            <div class="inner">
-                            <i>The Flora2000 experience</i>
-                            The perfect flower is a truly cultivated individual. It is nourished by streams of pure water, nurtured in dappled sunlight and sheltered from the elements until it blossoms into a radiant beauty of heady fragrance. It is only flowers of this pedigree that are hand-picked by Flora2000 and composed into the most breathtaking floral arrangements for you. For the last ten years we have been creating these floral works of art. <a href="/index.asp">Discover them today</a>.
-                            </div>
-                            <div class="inner1">
-                            <div>
-                            <i>Amazing Benefits For Flora2000 Members</i>
-                            As a valued Flora2000 member, you get collection previews, personally tailored information on choosing the right flowers and insight into the behind the scenes world of floral design and presentation.<br><br>As a member you can track your order, automatically add recipients to our address book and set up event reminders, so you never miss a special day.                                <br><br><a href="/aboutus.asp">KNOW MORE ABOUT US</a></div>
-                            </div>
-                            <div class="inner2">
-                                <label>email address:</label><input type="text" id="new_user_email" name="new_user_email" onkeypress="doLoginPress(event,'new_user_sign')" class="inp">
-                                <label>password:</label><input type="password" id="new_user_pass" name="new_user_pass" onkeypress="doLoginPress(event,'new_user_sign')" class="inp">
-                                <input type="button" id="signUp" value="SIGN UP" class="popButon" onclick="doLogin('new_user_sign');">
+                    <div class="w50 cr">
+                      <h2>SIGN UP<a href="javascript:;" onclick="Effect.BlindUp('newSignupDiv', {duration: 1.0});">x</a></h2>
+                      <label>email address:</label><div class="inpTxt"><input type="text" id="new_user_email" name="new_user_email" onkeypress="doLoginPress(event,'new_user_sign')"></div>
+                      <label>password:</label><div class="inpTxt"><input type="password" id="new_user_pass" name="new_user_pass" onkeypress="doLoginPress(event,'new_user_sign')"></div>
+                      <input type="button" id="login" value="SIGN UP" class="nupopBut" onclick="doLogin('new_user_sign');">
                                 <span id="div_error_new_btn"></span><br>
                                 <div id="div_error_new_user"></div>
-  <div class="divider"></div>
                                 <div id="fb_login" class="fbLogin">
-  <label>OR Login with Facebook</label>
-  <a href="javascript:void(0);" onclick="javascript:fb_pop_up('https://www.facebook.com/dialog/oauth?client_id=497848996914469&amp;redirect_uri=http%3A%2F%2Fwww.flora2000.com%2Ffb_return.php&amp;state=dd5770fa2362803e515c000f966f41d2&amp;scope=email%2Cuser_religion_politics%2Cuser_location%2Cuser_hometown%2Cfriends_birthday&amp;display=popup'); return false;"><img style="padding-top: 6px;" src="/template/fbLogin.jpg?20140620183726"></a>
+                        <br><br>OR<br><br>
+                        <a href="javascript:void(0);" onclick="javascript:fb_pop_up('https://www.facebook.com/dialog/oauth?client_id=1498191773791170&amp;redirect_uri=http%3A%2F%2Fwww.flora2000.com%2Ffb_return.php&amp;state=7719fe02ec51bf6906b149179f7a584e&amp;scope=email%2Cuser_religion_politics%2Cuser_location%2Cuser_hometown%2Cfriends_birthday&amp;display=popup'); return false;"><img style="padding-top: 6px;" src="/template/fb_login.png?20150414123726"></a>
+                        <br><br>OR<br><br>
   </div>
-                            </div>
-                            <div class="clear"></div>
+                      <input type="button" id="signUp" value="EXISTING USER LOG IN" class="nupopBut" onclick="Effect.BlindUp('newSignupDiv', {duration: 0.2});Effect.BlindDown('memLoginDiv', {duration: 1.0});return false;">
                         </div>
                     </div>
                 </div>
                 <!-- Signup ends -->
-                <!-- Existing Member & Signup starts ***-->
-                <div class="popcover" id="existMemSignup" style="display:none">
-                    <div class="popbox" id="existMember" onclick="setheight('existMemSignup','.popcontent');">
-                        <div class="poptop"><span></span></div>
-                        <div class="popcontent">
-                            <h2>Existing member - Sign In</h2>
-                            <label>email address:</label><input type="text" id="exist_user_email" name="exist_user_email" onkeypress="doLoginPress(event,'exist_user_sign')" class="inp">
-                            <label>password:</label><input type="password" id="exist_user_pass" name="exist_user_pass" onkeypress="doLoginPress(event,'exist_user_sign')" class="inp">
-                            <input type="button" id="signUp" value="LOG IN" class="popButon" onclick="doLogin('exist_user_sign');setheight('existMemSignup','.popcontent');">
-                            <span id="div_error_exist_btn"></span>
-                            <div id="div_error_exist_user"></div>
-                            
-                            <div class="clear">Forgotten password? We're on<br>top of it.<a href="javascript:;" onclick="doLogin('forgot_pass_exist');return false;">Click here</a>&nbsp;<span id="div_error_pass_exist_btn"></span>to have it sent to you instantly.</div>
 
                         </div>
-                    </div>            
-                    <div id="existSignup" class="popbox">
-                        <div class="poptop"><a href="javascript:;" onclick="setVisibility('existMemSignup','span_sec_part', 'none',event);return false;">CLOSE <img src="http://flowers.flora2000.com/template/x.gif" width="9" height="9" border="0" alt="CLOSE"></a></div>
-                        <div class="popcontent">
-                            <h2>New Member - Sign Up</h2>
-                            <div class="inner">
-                            <i>Join our privileges program - Fleur</i>
-                            As a valued Fleur member you enjoy a host of privileges such as priority delivery, personalized gifting assistance, personal gift calendar management and earning and redeeming Fleur points. You can also track your order, automatically add recipients to our address book and set up event reminders, so you never miss a special day.<br><br>Membership to the Silver tier of Fleur is open to all floral patrons and the registration process is simple. Become a Fleur member today and start enjoying our exclusive privileges.
-                            </div>
-                            <div class="inner1">
-                            <label>email address:</label><input type="text" id="sign_user_email" name="sign_user_email" onkeypress="doLoginPress(event,'reg_user_sign')" class="inp">
-                            <label>password:</label><input type="password" id="sign_user_pass" name="sign_user_pass" onkeypress="doLoginPress(event,'reg_user_sign')" class="inp">
-                            <input type="button" id="signUp" value="SIGN UP" class="popButon" onclick="doLogin('reg_user_sign');"><span id="div_error_exist_sign_btn"></span><br>
-                            <div id="div_error_sign_user"></div>
-  <div class="divider"></div>
-                                <div id="fb_login" class="fbLogin">
-  <label style="padding-top:9px;">OR Login with Facebook</label>
-  <a href="javascript:void(0);" onclick="javascript:fb_pop_up('https://www.facebook.com/dialog/oauth?client_id=497848996914469&amp;redirect_uri=http%3A%2F%2Fwww.flora2000.com%2Ffb_return.php&amp;state=dd5770fa2362803e515c000f966f41d2&amp;scope=email%2Cuser_religion_politics%2Cuser_location%2Cuser_hometown%2Cfriends_birthday&amp;display=popup'); return false;"><img src="/template/fbLogin.jpg?20140620183726" style="padding-top:10px;height: 27 px;"></a>
-  </div>
-                            
-                            </div>
-                            <div class="clear"></div>
-                        </div>
-                    </div>            
-                </div>
-                <!-- Existing Member & Signup ends -->
-                <!-- Live Chat popups starts -->
- 				<div class="clear"></div>
-                <div class="popcover">
-                  <div id="liveChat" class="popbox" style="display:none">
-                    <div class="poptop"><a href="javascript:;" onclick="setVisibility('liveChat','span_support', 'none',event);return false;">CLOSE <img src="http://flowers.flora2000.com/template/x.gif" width="9" height="9" border="0" alt="CLOSE"></a></div>
-                    <div class="popcontent">
-                   <div class="newFont">  <h2>24/7 Live Support</h2>   </div>
-                    <ul class="live">
-                        <li><h3>Talk to us</h3>
-                      <!-- id="spn_effect" -->
-                        <span style="text-align:left;padding:5px"><a href="http://hc2.humanclick.com/hc/35748070/?cmd=file&amp;file=visitorWantsToChat&amp;site=35748070&amp;byhref=1&amp;AEPARAMS" target="chat35748070" onclick="window.open('http://hc2.humanclick.com/hc/35748070/?cmd=file&amp;file=visitorWantsToChat&amp;site=35748070&amp;AEPARAMS&amp;referrer='+document.location,'chat35748070','width=472,height=320');return false;" '="">LIVE CHAT 24/7</a></span></li>
-                        <li class="call"><h3>Call us</h3>
-                        USA:<span class="us">+1 212 655 3075</span><br>
-                        UK:<span class="uk">+44 20 3026 2532</span><br>
-                        India:<span class="in">+91 22 6457 6457</span><br>
-                        USA Toll free:<span class="us">+1800 456 1797</span><br>
                         </li>
- <li class="email"><h3>Email us</h3><img src="http://flowers.flora2000.com/images/supportemail.gif?1" border="0"></li>
 </ul>
-                    <div class="clear"></div>
                     </div>
-                  </div>
-                </div> 
-                <!-- Live Chat popups ends -->
-                <!-- Faqs popups starts -->
  				<div class="clear"></div>
-                <div class="popcover">
-                  <div id="faq" class="popbox" style="display:none">
-                    <div class="poptop"><a href="javascript:;" onclick="setVisibility('faq','span_faqs','none',event);return false;">CLOSE <img src="http://flowers.flora2000.com/template/x.gif" width="9" height="9" border="0" alt="CLOSE"></a></div>
-                    <div class="popcontent">
-                        <div class="newFont"><h2>FAQs</h2></div>
-                            <div id="faq_view">
                             </div>
-                        <div class="clear"></div>
                     </div>
-                	</div>
-                </div> 
-                <!-- Faqs popups ends -->
-                <!-- Our Guarantee popups starts -->
- 				<div class="clear"></div>
-                <div class="popcover" id="guarantee" style="display:none">
-                    <div id="promise" class="popbox">
-                        <div class="poptop"><span></span></div>
-                        <div class="popcontent">
-                            <div class="newFont"><h2>OUR PROMISE</h2></div>
-                                <div class="ourPromise">We promise to make every moment as graceful as can be, with warm personal service, fortified with respect and professionalism. We assure you of a full refund or replacement in case you are not satisfied with our service.</div>
-                        </div>
-                    </div>            
-                    <div id="floraReview" class="popbox">
-                        <div class="poptop"><a href="javascript:;" onclick="setVisibility('guarantee','span_gnt','none',event);return false;">CLOSE <img src="http://flowers.flora2000.com/template/x.gif" width="9" height="9" border="0" alt="CLOSE"></a></div>
-                        <div class="popcontent">
-                        <div class="newFont"><h2>Flora2000 Reviews</h2></div>
-                           <div class="inner">
-                            <a href="javascript:;" onclick="getTableDataPraise('guar_praise_view','praise_rp','guarpreviousPraise','guarnextPraise','P','','');return false;" id="guarpreviousPraise" class="lftArow"></a>
-                            <a href="javascript:;" onclick="getTableDataPraise('guar_praise_view','praise_rp','guarpreviousPraise','guarnextPraise','N','',''); return false;" id="guarnextPraise" class="ritArow"></a>
-                            <div id="guar_praise_view"><span><i>Shakila Reddy - South Africa</i><br>November 20, 2008</span>My name is Shakila. I have, somewhat nervously, been trying to send a floral gift to my friend in London, Canada through the internet from South Africa. The assistance I received was extremely pleasant and efficient and put me at ease about asking "dumb" questions :-). I look forward to my friend being delighted with a quality gift that arrives on the birthday.</div>
-                            </div>
-                             <div class="clear"></div>
-                       </div>
-                    </div>
-                </div>
-                <!-- Our Guarantee popups ends -->
-            </div>
-            <!-- popup display area ends-->
-        </div>
-    </div>
-</div>
-
-    <!-- div id='logobar_load'></div-->
+                	
 <script type="text/javascript">
-jQuery(document).ready(function(){
-	//startEffect();
- });
+<!-- start of Exitpop-->
 function addHighlightEffectStart() {
 	new Effect.Highlight("span_support",{startcolor:"#ffffff",endcolor:"#ffffff",duration:"1"});
 }
@@ -433,11 +374,14 @@ function addHighlightEffectStop()
 {
 	window.clearInterval(intervalIDlink);	
 }
- function getCountryList(presentCid,event)
- {		
+ function getCountryList(presentCid,event){
+     
+                if(presentCid === ''){
+                    presentCid = 137;
+                }
 		//scroll_country
 		jQuery(document).ready(function($){
-				if (!$('#international').is(':visible'))
+				if (!$('#interListDropdown').is(':visible'))
 				{
 						$.get("http://www.flora2000.com/country_list.php",
 						      "for_country="+presentCid+"&ip=&cntryName=",
@@ -445,130 +389,74 @@ function addHighlightEffectStop()
 						function(data){								
 							if (data != "") {
 								$("#scroll_country").html(data);
-								setVisibility('international','span_send','block',event);
+								Effect.BlindDown('interListDropdown', {duration: 0.8});
+								//setVisibility('interListDropdown','span_send','block',event);
 							}
 						});
 				}
 				else{
-						setVisibility('international','span_send','block',event);
+						Effect.BlindUp('interListDropdown', {duration: 0.8});
+						//setVisibility('interListDropdown','span_send','block',event);
 				}
 		});		
  }
-</script>
-<!-- footerbar starts-->
-<div id="footerbar">
-	<div id="footerWrap">
-    <div>
-    <a href="http://www.flora2000.com/">HOME</a>|<a href="http://www.flora2000.com/aboutus.asp">ABOUT US</a>|<a href="http://www.flora2000.com/first_timers.asp">HELP</a>|<a href="https://www.flora2000.com/my_account">MY ACCOUNT</a>|<a href="http://www.flora2000.com/contactus.asp">CONTACT US</a>|<a href="http://www.flora2000.com/security.asp" class="sel">SECURE SITE</a>|<a href="http://www.flora2000.com/refund_replacement_policy.asp" target="_blank">REFUND POLICY</a>|<a href="http://www.flora2000.com/privacy_policy.asp" target="_blank">PRIVACY POLICY</a>|<a href="http://www.flora2000.com/blog/">BLOG</a>|<a href="http://www.flora2000.com/affiliate.asp">AFFILIATES</a>|<a href="https://www.flora2000.com/lp/loyaltyprogram.asp?c=5748&amp;utm_source=Dtr&amp;utm_medium=Bnr&amp;utm_content=UGB1&amp;utm_campaign=Fleur">FLEUR PROGRAM</a>
-    </div>
-    </div>
-</div>
-<!-- footerbar ends-->
-<div id="WrapperCover">
-    <div id="Wrapper">
-<style type="text/css">
-.fixednavWrap{float:left;width:906px;margin:auto}
-.fixedScroll{position:fixed;width:906px;top:0;padding:2px 0 0;background:#fff;z-index:2;}
-</style>
-<!--[if lte IE 9]>
-<style type="text/css">
-.fixedScroll{
-position: absolute;
-top:expression(eval(document.compatMode && document.compatMode=='CSS2Compat') ? documentElement.scrollTop : document.body.scrollTop - 44 + "px");
-margin-left:0;
-}
-</style>
-<![endif]-->
-<script type="text/javascript">
-$.noConflict();
-jQuery(document).ready(function($) {
-				var top = $('#fixednav').offset().top - parseFloat($('#fixednav').css('marginTop').replace(/auto/, 0));
-				$(window).scroll(
-				function (event) {
-					var y = $(this).scrollTop();
-
-					if (y >= top) {
-						$('#fixednav').addClass('fixedScroll');
-					} else {
-						$('#fixednav').removeClass('fixedScroll');
-					}
-				});
-
-                jQuery('#prod_search').live('keyup',function(){
-                      var textVal = jQuery(this).val();
-                      if (textVal != ''){
-                        $.get("http://www.flora2000.com/search/suggestSearch.php","prod_search="+textVal+"&for_country=&for_country_nm=",
-                          function(data){
-                            if (data != "") {
-                              jQuery('.srchOptions').html(data);
-                              jQuery('.srchOptions').show();
-                            }
+ function getSrchName(presentCid, event, like){
+                    
+                    if(presentCid === ''){
+                         presentCid = 137;
+                     }
+                     
+                     
+						jQuery.get("http://www.flora2000.com/country_list.php?like="+like+"&for_country="+presentCid+"&ip=&cntryName=",function(data){								  
+							if (data !== "") {
+                                                                jQuery("#scroll_country").height('300px');
+                                                                jQuery("#lnkUp" ).show();
+                                                                jQuery("#lnkDn").show();
+ 								jQuery("#scroll_country").html(data);
+ 							}else{
+                                                                jQuery("#lnkUp").hide();
+                                                                jQuery("#lnkDn").hide();
+                                                                jQuery("#scroll_country").height('20px');
+                                                                jQuery("#scroll_country").html('Country Not Found');
+                                                                // jQuery("#scroll_country").html('Country Not Found');
+                                                        }
 						});
-                      }
-                      else{
-                        jQuery('.srchOptions').hide();
-                      }
-                    });
- });
-
-function getCountryListStatic(presentCid,event)
-{
-	jQuery(document).ready(function($){
-			if (!$('#cntry_list').is(':visible'))
-			{
-				document.getElementById("scroll_static_list").style.height="auto";
-				$.get("http://www.flora2000.com/occ_country_list.php",
-							"for_country="+presentCid+"&occassion=",
-
-				function(data){
-					if (data != "") {
-						var temp = data;
-						var count = data.match(/\/a/g);
-						if(count.length>=19)
-						{
-							document.getElementById("scroll_static_list").style.height="400px";
-						}
-
-
-						$("#scroll_static_list").html(data);
-						setVisibility('cntry_list','span_send','block',event);
-					}
-				});
-			}
-			else{
-				setVisibility('cntry_list','span_send','block',event);
-			}
-	});
  }
-
 </script>
-
-<div class="fixednavWrap">
-<div id="fixednav">
-<!-- searchbar starts-->
-<!-- navigation starts-->
- 
-  <div class="shopbyOccasion">
-
-    <div id="pop">
+<!-- occ tab starts-->
+<div class="shopbyOccasion">
+   <div id="pop">
+<div class="ddCover">
 <ul id="dropDown">
-<li><a href="Shopping/United-States.asp?occassion=PWNUTjFjek0=&amp;country="><h2>Birthdays</h2></a><div class="outer"><div class="iner"><a href="Shopping/United-States.asp?occassion=PWNUTjFjek0=&amp;country=" title="Birthday Best Sellers">Birthday Best Sellers</a><a href="Shopping/United-States.asp?occassion=PU1qTnlnak0=&amp;country=" title="Birthday for Wife">Birthday for Wife</a><a href="Shopping/United-States.asp?occassion=PWtETzFnak0=&amp;country=" title="Birthday for Mom">Birthday for Mom</a><a href="Shopping/United-States.asp?occassion=PVVET3lrak0=&amp;country=" title="Birthday for Dad">Birthday for Dad</a><a href="Shopping/United-States.asp?occassion=PWtUTXprak0=&amp;country=" title="Birthday for Girlfriend">Birthday for Girlfriend</a><a href="Shopping/United-States.asp?occassion=PWtETzVrak0=&amp;country=" title="Birthday for Friend">Birthday for Friend</a><a href="Shopping/United-States.asp?occassion=PUVETnpBek0=&amp;country=" title="Birthday for Corporates">Birthday for Corporates</a><a href="Shopping/United-States.asp?occassion=eWtqTQ==&amp;country=" title="Birthday">Birthday</a></div></div></li><li><a href="Shopping/United-States.asp?occassion=PVVETjRnVE0=&amp;country="><h2>Occasions</h2></a><div class="outer"><div class="iner"><a href="Shopping/United-States.asp?occassion=PVVETjRnVE0=&amp;country=" title="4th of July">4th of July</a><a href="Shopping/United-States.asp?occassion=M1FETg==&amp;country=" title="Anniversary">Anniversary</a><a href="Shopping/United-States.asp?occassion=PT1RTzBNVE4=&amp;country=" title="Bestsellers">Bestsellers</a><a href="Shopping/United-States.asp?occassion=PVVETndFek0=&amp;country=" title="Business Gifting">Business Gifting</a><a href="Shopping/United-States.asp?occassion=eEVUTw==&amp;country=" title="Congratulations">Congratulations</a><a href="Shopping/United-States.asp?occassion=PT1BTXlJVE0=&amp;country=" title="Funeral">Funeral</a><a href="Shopping/United-States.asp?occassion=M1V6Tg==&amp;country=" title="Get Well Soon">Get Well Soon</a><a href="Shopping/United-States.asp?occassion=PWNUT3pFek0=&amp;country=" title="Housewarming">Housewarming</a><a href="Shopping/United-States.asp?occassion=PT1BTjBrVE4=&amp;country=" title="Just Because">Just Because</a><a href="Shopping/United-States.asp?occassion=PT1nTTRZVE0=&amp;country=" title="Love &amp; Romance">Love &amp; Romance</a><a href="Shopping/United-States.asp?occassion=PT1nTTVrVE0=&amp;country=" title="New Baby">New Baby</a><a href="Shopping/United-States.asp?occassion=PT13TnlVek0=&amp;country=" title="Sorry">Sorry</a><a href="Shopping/United-States.asp?occassion=PT13TXlRRE8=&amp;country=" title="Summer">Summer</a><a href="Shopping/United-States.asp?occassion=PVlUTzFjVE0=&amp;country=" title="Sympathy"><b>Sympathy</b></a><a href="Shopping/United-States.asp?occassion=ekFqTg==&amp;country=" title="Thank You">Thank You</a><a href="Shopping/United-States.asp?occassion=PUVUTzJFak0=&amp;country=" title="Thinking of you">Thinking of you</a></div></div></li><li><a href="Shopping/United-States.asp?occassion=PVFqTTBrVE0=&amp;country="><h2>Flowers</h2></a><div class="outer"><div class="iner"><a href="Shopping/United-States.asp?occassion=PVFqTTBrVE0=&amp;country=" title="Carnations">Carnations</a><a href="Shopping/United-States.asp?occassion=PU1qTnhJek0=&amp;country=" title="Daisies">Daisies</a><a href="Shopping/United-States.asp?occassion=PT1BTzBFak0=&amp;country=" title="Exotic Flowers">Exotic Flowers</a><a href="Shopping/United-States.asp?occassion=PVVETzFjVE0=&amp;country=" title="Lilies">Lilies</a><a href="Shopping/United-States.asp?occassion=PWNETzFjVE0=&amp;country=" title="Mixed Arrangements">Mixed Arrangements</a><a href="Shopping/United-States.asp?occassion=PT1RTzBBVE4=&amp;country=" title="Orchids">Orchids</a><a href="Shopping/United-States.asp?occassion=PT13TXdNak0=&amp;country=" title="Plants">Plants</a><a href="Shopping/United-States.asp?occassion=PUV6TjFJek0=&amp;country=" title="Premium Flowers">Premium Flowers</a><a href="Shopping/United-States.asp?occassion=PT1RTTVVRE4=&amp;country=" title="Roses">Roses</a><a href="Shopping/United-States.asp?occassion=PVlETzFjVE0=&amp;country=" title="Tulips">Tulips</a></div></div></li><li><a href="Shopping/United-States.asp?occassion=PUl6TTFRRE4=&amp;country="><h2>Gifts</h2></a><div class="outer"><div class="iner"><a href="Shopping/United-States.asp?occassion=PUl6TTFRRE4=&amp;country=" title="Hampers">Hampers</a><a href="Shopping/United-States.asp?occassion=PWt6TjJJRE4=&amp;country=" title="Perfumes">Perfumes</a><a href="Shopping/United-States.asp?occassion=PWNETjBNRE4=&amp;country=" title="Gifts">Gifts</a><a href="Shopping/United-States.asp?occassion=PWdqTnhVRE4=&amp;country=" title="Cakes">Cakes</a></div></div></li><li><a href="Shopping/United-States.asp?occassion=PU1ETzBJVE0=&amp;country="><h2>Offers</h2></a><div class="outer"><div class="iner"><a href="Shopping/United-States.asp?occassion=PU1ETzBJVE0=&amp;country=" title="Centerpieces">Centerpieces</a><a href="Shopping/United-States.asp?occassion=PWtqTXpRVE0=&amp;country=" title="Special Offers">Special Offers</a></div></div></li><li><a href="Shopping/United-States.asp?sbp=1"><h2>Prices</h2></a>
-
-<div class="outer">
+<li><a href="/Shopping/United-States.asp?occassion=PT1RTnlFRE8=&amp;country=&amp;c=naviother"><h2>Fathers Day</h2></a><div class="iefix"></div><div class="outer"><div class="csarowUp"></div><div class="iner"><a href="/Shopping/United-States.asp?occassion=PT1RTnlFRE8=&amp;country=&amp;c=naviother" title="Fathers Day -  21st June">Fathers Day - <font color="red"> 21st June</font></a><a href="/Shopping/United-States.asp?occassion=PVFUTTJFak0=&amp;country=&amp;c=naviother" title="Fathers Day Flowers">Fathers Day Flowers</a><a href="/Shopping/United-States.asp?occassion=PVFqTjBRRE4=&amp;country=&amp;c=naviother" title="Fathers Day Gifts">Fathers Day Gifts</a><a href="/Shopping/United-States.asp?occassion=PUFqTjBRRE4=&amp;country=&amp;c=naviother" title="Fathers day Hampers">Fathers day Hampers</a></div></div></li><li><a href="/Shopping/United-States.asp?occassion=PWNUTjFjek0=&amp;country=&amp;c=naviother"><h2>Birthdays</h2></a><div class="iefix"></div><div class="outer"><div class="csarowUp"></div><div class="iner"><a href="/Shopping/United-States.asp?occassion=PWNUTjFjek0=&amp;country=&amp;c=naviother" title="Birthday Best Sellers">Birthday Best Sellers</a><a href="/Shopping/United-States.asp?occassion=PU1qTnlnak0=&amp;country=&amp;c=naviother" title="Birthday for Wife">Birthday for Wife</a><a href="/Shopping/United-States.asp?occassion=PWtETzFnak0=&amp;country=&amp;c=naviother" title="Birthday for Mom">Birthday for Mom</a><a href="/Shopping/United-States.asp?occassion=PVVET3lrak0=&amp;country=&amp;c=naviother" title="Birthday for Dad">Birthday for Dad</a><a href="/Shopping/United-States.asp?occassion=PWtUTXprak0=&amp;country=&amp;c=naviother" title="Birthday for Girlfriend">Birthday for Girlfriend</a><a href="/Shopping/United-States.asp?occassion=PWtETzVrak0=&amp;country=&amp;c=naviother" title="Birthday for Friend">Birthday for Friend</a><a href="/Shopping/United-States.asp?occassion=PUVETnpBek0=&amp;country=&amp;c=naviother" title="Birthday for Corporates">Birthday for Corporates</a><a href="/Shopping/United-States.asp?occassion=eWtqTQ==&amp;country=&amp;c=naviother" title="Birthday">Birthday</a></div></div></li><li><a href="/Shopping/United-States.asp?occassion=M1FETg==&amp;country=&amp;c=naviother"><h2>Occasions</h2></a><div class="iefix"></div><div class="outer"><div class="csarowUp"></div><div class="iner"><a href="/Shopping/United-States.asp?occassion=M1FETg==&amp;country=&amp;c=naviother" title="Anniversary">Anniversary</a><a href="/Shopping/United-States.asp?occassion=PT1RTzBNVE4=&amp;country=&amp;c=naviother" title="Bestsellers">Bestsellers</a><a href="/Shopping/United-States.asp?occassion=PVVETndFek0=&amp;country=&amp;c=naviother" title="Business Gifting">Business Gifting</a><a href="/Shopping/United-States.asp?occassion=eEVUTw==&amp;country=&amp;c=naviother" title="Congratulations">Congratulations</a><a href="/Shopping/United-States.asp?occassion=PT1BTXlJVE0=&amp;country=&amp;c=naviother" title="Funeral">Funeral</a><a href="/Shopping/United-States.asp?occassion=M1V6Tg==&amp;country=&amp;c=naviother" title="Get Well Soon">Get Well Soon</a><a href="/Shopping/United-States.asp?occassion=PWNUT3pFek0=&amp;country=&amp;c=naviother" title="Housewarming">Housewarming</a><a href="/Shopping/United-States.asp?occassion=PT1BTjBrVE4=&amp;country=&amp;c=naviother" title="Just Because">Just Because</a><a href="/Shopping/United-States.asp?occassion=PT1nTTRZVE0=&amp;country=&amp;c=naviother" title="Love &amp; Romance">Love &amp; Romance</a><a href="/Shopping/United-States.asp?occassion=PT1nTTVrVE0=&amp;country=&amp;c=naviother" title="New Baby">New Baby</a><a href="/Shopping/United-States.asp?occassion=PT13TnlVek0=&amp;country=&amp;c=naviother" title="Sorry">Sorry</a><a href="/Shopping/United-States.asp?occassion=PT13TXlRRE8=&amp;country=&amp;c=naviother" title="Summer">Summer</a><a href="/Shopping/United-States.asp?occassion=PVlUTzFjVE0=&amp;country=&amp;c=naviother" title="Sympathy"><b>Sympathy</b></a><a href="/Shopping/United-States.asp?occassion=ekFqTg==&amp;country=&amp;c=naviother" title="Thank You">Thank You</a><a href="/Shopping/United-States.asp?occassion=PUVUTzJFak0=&amp;country=&amp;c=naviother" title="Thinking of you">Thinking of you</a><a href="/Shopping/United-States.asp?occassion=PVFETTJVRE4=&amp;country=&amp;c=naviother" title="Wedding Gifts">Wedding Gifts</a></div></div></li><li><a href="/Shopping/United-States.asp?occassion=PVFqTTBrVE0=&amp;country=&amp;c=naviother"><h2>Flowers</h2></a><div class="iefix"></div><div class="outer"><div class="csarowUp"></div><div class="iner"><a href="/Shopping/United-States.asp?occassion=PVFqTTBrVE0=&amp;country=&amp;c=naviother" title="Carnations">Carnations</a><a href="/Shopping/United-States.asp?occassion=PU1qTnhJek0=&amp;country=&amp;c=naviother" title="Daisies">Daisies</a><a href="/Shopping/United-States.asp?occassion=PT1BTzBFak0=&amp;country=&amp;c=naviother" title="Exotic Flowers">Exotic Flowers</a><a href="/Shopping/United-States.asp?occassion=PVVETzFjVE0=&amp;country=&amp;c=naviother" title="Lilies">Lilies</a><a href="/Shopping/United-States.asp?occassion=PWNETzFjVE0=&amp;country=&amp;c=naviother" title="Mixed Arrangements">Mixed Arrangements</a><a href="/Shopping/United-States.asp?occassion=PT1RTzBBVE4=&amp;country=&amp;c=naviother" title="Orchids">Orchids</a><a href="/Shopping/United-States.asp?occassion=PT13TXdNak0=&amp;country=&amp;c=naviother" title="Plants">Plants</a><a href="/Shopping/United-States.asp?occassion=PUV6TjFJek0=&amp;country=&amp;c=naviother" title="Premium Flowers">Premium Flowers</a><a href="/Shopping/United-States.asp?occassion=PT1RTTVVRE4=&amp;country=&amp;c=naviother" title="Roses">Roses</a><a href="/Shopping/United-States.asp?occassion=PVlETzFjVE0=&amp;country=&amp;c=naviother" title="Tulips">Tulips</a></div></div></li><li><a href="/Shopping/United-States.asp?occassion=PUl6TTFRRE4=&amp;country=&amp;c=naviother"><h2>Gifts</h2></a><div class="iefix"></div><div class="outer"><div class="csarowUp"></div><div class="iner"><a href="/Shopping/United-States.asp?occassion=PUl6TTFRRE4=&amp;country=&amp;c=naviother" title="Hampers">Hampers</a><a href="/Shopping/United-States.asp?occassion=PWt6TjJJRE4=&amp;country=&amp;c=naviother" title="Perfumes">Perfumes</a><a href="/Shopping/United-States.asp?occassion=PWNETjBNRE4=&amp;country=&amp;c=naviother" title="Gifts">Gifts</a><a href="/Shopping/United-States.asp?occassion=PWdqTnhVRE4=&amp;country=&amp;c=naviother" title="Cakes">Cakes</a></div></div></li><li><a href="/Shopping/United-States.asp?occassion=PWtqTXpRVE0=&amp;country=&amp;c=naviother"><h2>Offers</h2></a><div class="iefix"></div><div class="outer"><div class="csarowUp"></div><div class="iner"><a href="/Shopping/United-States.asp?occassion=PWtqTXpRVE0=&amp;country=&amp;c=naviother" title="Special Offers">Special Offers</a></div></div></li><li style="border:none"><a href="/Shopping/United-States.asp?sbp=1&amp;c=naviother" .=""><h2>Prices</h2></a>
+<div class="iefix"></div>
+<div class="outer"><div class="csarowUp"></div>
     <div class="iner">
-        <a href="Shopping/United-States.asp?sbp=1" title="Below $50">Below $50</a>
-        <a href="Shopping/United-States.asp?sbp=2" title="$50 to $75">$50 to $75</a>
-        <a href="Shopping/United-States.asp?sbp=3" title="$75 to $100">$75 to $100</a>
-        <a href="Shopping/United-States.asp?sbp=4" title="Above $100">Above $100</a>
+        <a href="/Shopping/United-States.asp?sbp=1&amp;c=naviother" title="Below $50">Below $50</a>
+        <a href="/Shopping/United-States.asp?sbp=2&amp;c=naviother" title="$50 to $75">$50 to $75</a>
+        <a href="/Shopping/United-States.asp?sbp=3&amp;c=naviother" title="$75 to $100">$75 to $100</a>
+        <a href="/Shopping/United-States.asp?sbp=4&amp;c=naviother" title="Above $100">Above $100</a>
     </div>
 </div>
 </li>	</ul>
+    <div class="search">
+  <form name="product_search" id="product_search" action="http://www.flora2000.com/search/resultsearch.php" method="get" onsubmit="return checkSearchTerm()">
+    <ul class="srchStrip">
+        <li class="liSearch" style="border:none"><div> <input type="text" autocomplete="off" id="prod_search" name="prod_search" value="Search for Gifts  " onblur="entertext(this)" onfocus="cleartext(this);" class="inpSearch" title="Enter keyword to search."></div></li>
+      <li class="lisearchBut" style="border:none"><input type="button" value="Search" class="searchBut" onclick="return checkSearchTerm()"></li>
+    </ul>
+    <input type="hidden" name="for_country" id="for_country" value="137">
+    <input type="hidden" name="for_country_nm" id="for_country_nm" value="">
+    <input type="hidden" name="for_country_shrt" id="for_country_shrt" value="">
+  </form>
+</div>
+	</div>
 </div>
 <div class="clear"></div>
 <!--[if IE]>
 <script type="text/javascript">
 startL = function() {	
-	navRoot = document.getElementById("dropDown");
+	var navRoot = document.getElementById("dropDown");
 	for (i=0; i<navRoot.childNodes.length; i++) {
 		node = navRoot.childNodes[i];
 		if (node.nodeName=="LI") {
@@ -585,13 +473,21 @@ startL = function() {
 startL();
 </script>
 <![endif]-->
-        	<div class="breadCrumb">
-            </div>
-  		  
-  </div>  
-<!-- navigation ends-->
+    <div class="clear"></div>
 </div>
-</div>   
+ <div class="discDiv"><div class="cntWidth"><b>Today’s Special Offer: Flat $5 off site-wide. Use Code: FLORA$5</b></div></div>     	<div class="breadCrumb cntWidth">
+      <a href="/" title="Home">HOME </a> &gt;  UNITED STATES     
+         </div> <!-- footerbar starts-->
+<div id="footerbar">
+	<div id="footerWrap">
+    <div>
+    <a href="http://www.flora2000.com/">HOME</a>|<a href="http://www.flora2000.com/aboutus.asp">ABOUT US</a>|<a href="http://www.flora2000.com/first_timers.asp">HELP</a>|<a href="https://www.flora2000.com/my_account">MY ACCOUNT</a>|<a href="http://www.flora2000.com/contactus.asp">CONTACT US</a>|<a href="http://www.flora2000.com/security.asp" class="sel">SECURE SITE</a>|<a href="http://www.flora2000.com/refund_replacement_policy.asp" target="_blank">REFUND POLICY</a>|<a href="http://www.flora2000.com/privacy_policy.asp" target="_blank">PRIVACY POLICY</a>|<a href="http://www.flora2000.com/blog/">BLOG</a>|<a href="http://www.flora2000.com/affiliate.asp">AFFILIATES</a>|<a href="https://www.flora2000.com/lp/loyaltyprogram.asp?c=5748&amp;utm_source=Dtr&amp;utm_medium=Bnr&amp;utm_content=UGB1&amp;utm_campaign=Fleur">FLEUR PROGRAM</a>
+    </div>
+    </div>
+</div>
+<!-- footerbar ends-->
+<div id="WrapperCover">
+    <div id="Wrapper">
  
 		<div id="header">
             <div class="stHead" style="font-size:30px;padding-top:14px">
@@ -648,7 +544,7 @@ As part of the California Online Privacy Protection Act, all users of our site m
 				<div class="row">
 				<p class="lft"><span class="head">Changes to our Privacy Policy</span> - Any change, modification, addition or removal of portions of this Policy will be posted on this page. Please be sure to check this page before proceeding to use our site.
                 </p>
-				<p class="rit"><span class="head">Contacting Us</span> -Thank you for allowing us to serve your gifting needs. We value your business and are committed to protecting your privacy. We hope you view our company as a trusted service provider and we will work to continue earning your trust. Please call us if you have any questions regarding this privacy policy or if we can be of further service.<br><br>You may contact us using the information below:<br>support@flora2000.com<br>+1-212-655 3075
+				<p class="rit"><span class="head">Contacting Us</span> -Thank you for allowing us to serve your gifting needs. We value your business and are committed to protecting your privacy. We hope you view our company as a trusted service provider and we will work to continue earning your trust. Please call us if you have any questions regarding this privacy policy or if we can be of further service.<br><br>You may contact us using the information below:<br>support@flora2000.com<br>1800 456 1797
                 </p>
                 </div>
       		</div>
@@ -657,10 +553,11 @@ As part of the California Online Privacy Protection Act, all users of our site m
 <!-- contentWraper ends -->
     <!-- footer starts -->
     <div id="footer">
-                			<script src="http://flowers.flora2000.com/common/js/prototype.js?20140620183726" type="text/javascript"></script>
-<script src="http://flowers.flora2000.com/common/js/effects.js" type="text/javascript"></script>
-<script src="http://flowers.flora2000.com/common/js/common.js?20140620183726" type="text/javascript"></script>
-<script type="text/javascript">
+                			<div class="copy">© Flora2000.com 2015</div>
+<script src="/common/js/prototype.js?20150414123726" type="text/javascript"></script>
+<script src="/common/js/effects.js" type="text/javascript"></script>
+<script src="/common/js/common.js?20150414123726" type="text/javascript"></script>
+ <script type="text/javascript">
 <!--init('country_view','country_rp','4','previousCount','nextCount');-->
 init('guar_praise_view','praise_rp','1','guarpreviousPraise','guarnextPraise');
 init('faq_view','faq_rp','4','previousLink','nextLink');
@@ -785,19 +682,17 @@ function ReadCookie(cookieName) {
 }
 
 </script>
-<script type="text/javascript">
-adroll_adv_id = "SDPMC3R4NJA7PDESUELTOC";
-adroll_pix_id = "VQUODSKSVJGUXCRNCNQCRW";
-   __adroll_loaded=true;
-   var scr = document.createElement("script");
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-   scr.setAttribute('async', 'true');
-   scr.type = "text/javascript";
-   scr.src = host + "/j/roundtrip.js";
-   document.documentElement.firstChild.appendChild(scr);
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-155103-6', 'auto');
+  ga('send', 'pageview');
+
 </script>
-<img src="http://www.flora2000.com/stracker/index.php?sc=track&amp;action=default&amp;st=1&amp;ref=http%3A%2F%2Fwww.flora2000.com%2F" width="1" height="1" alt="" style="display:none">
-<script type="text/javascript">var _gaq = _gaq || [];_gaq.push(["pageTracker._setAccount", "UA-155103-6"]);_gaq.push(["pageTracker._trackPageview"]);_gaq.push(["_trackPageLoadTime"]);(function() {var ga = document.createElement("script"); ga.type = "text/javascript"; ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://" : "http://") + "stats.g.doubleclick.net/dc.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();</script>
 <script type="text/javascript">
 window.onload=function() {
 var plend = new Date();
@@ -824,9 +719,8 @@ _gaq.push(['loadTracker._trackPageview']);_gaq.push(["_trackPageLoadTime"]);
 	} catch(err){}
 }
 </script>
-<script src="//static.getclicky.com/js" type="text/javascript"></script>
-<script type="text/javascript">try{ clicky.init(100708301); }catch(e){}</script>
 
+<!-- BEGIN LivePerson Monitor. --><script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "35748070",'lpProtocol' : "https"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
         </div>
         <!-- footer ends -->
     </div>
@@ -845,7 +739,7 @@ _gaq.push(['loadTracker._trackPageview']);_gaq.push(["_trackPageLoadTime"]);
 </form>
 
 <!-- Affiliates Imp -->
-<script language="javascript" src="http://hc2.humanclick.com/hc/35748070/x.js?cmd=file&amp;file=chatScript3&amp;site=35748070&amp;imageUrl=http://www.flora2000.com/humanclick/"></script>
+
 
 
 </body></html>
