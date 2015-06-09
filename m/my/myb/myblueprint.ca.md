@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myblueprint.ca privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218122836id_/http%3A//www.myblueprint.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myblueprint.ca privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609030849id_/http%3A//www.myblueprint.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | myBlueprint
 
@@ -38,7 +38,7 @@ If you want to update your personal information, use the “Account Details” s
 
 ### Opt-Out Option
 
-You can stop using our website at any time. You may cancel your account by clicking the “Cancel Account” button the Account Details section in your Profile. Upon your request, we will use commercially reasonable efforts to functionally delete your personal information from our database. However, it may be impossible to delete a user’s entry without some residual information because of backups and records of deletions.
+You can stop using our website at any time. You may cancel your account by clicking the “Delete Account” button the Account Details section in your Profile. Upon your request, we will use commercially reasonable efforts to functionally delete your personal information from our database. However, it may be impossible to delete a user’s entry without some residual information because of backups and records of deletions.
 
 ### Your Consent
 
@@ -46,7 +46,7 @@ We will not collect or use your personal information without your consent (unles
 
 ### Minors
 
-When a person under age 13 attempts to create a profile on www.myBlueprint.ca, a parent or legal guardian must contact us to provide consent to the collection and use of the user’s personal information. We will not contact individuals under age 13 for marketing purposes without the permission of a parent or legal guardian.
+When a person under age 12 attempts to create a profile on www.myBlueprint.ca, a parent or legal guardian must contact us to provide consent to the collection and use of the user’s personal information. We will not contact individuals under age 12 for marketing purposes without the permission of a parent or legal guardian.
 
 ### Contacting Us
 
