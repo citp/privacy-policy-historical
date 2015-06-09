@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vfestival.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210012340id_/http%3A//www.vfestival.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vfestival.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609232629id_/http%3A//www.vfestival.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 In order to use the www.vfestival.com website you agree to be bound by the following terms and conditions:
 
-## TERMS OF USE
+TERMS OF USE
 
 By accessing “www.vfestival.com” (hereinafter “we”, “us”, “our”, “www.vfestival.com”), you agree to be legally bound by the following terms. If you do not agree to be legally bound by all of the following terms then please do not access and/or use “www.vfestival.com”. We may change these at any time and we’ll do our utmost in informing you, though it would be prudent to review this regularly yourself as your continued usage of “www.vfestival.com” after changes mean you agree to be legally bound by these terms as they are updated and/or amended.
 
@@ -26,7 +26,7 @@ You agree not to post any abusive, obscene, vulgar, slanderous, hateful, threate
 
 You agree not to try and sell tickets for V Festival within the V Festival forum. Any attempts to do so will be removed by the orgianisers. Any one found abusing this policy will be removed from the website.
 
-## PRIVACY POLICY
+PRIVACY POLICY
 
 Maztec Ltd and Roseclaim Ltd, owners of www.vfestival.com and V Festival as named throughout this policy are committed to protecting your privacy.
 
@@ -54,7 +54,7 @@ Your account will at a bare minimum contain a uniquely identifiable name (herein
 
 Your password is ciphered (a one-way hash) so that it is secure. However, it is recommended that you do not reuse the same password across a number of different websites. Your password is the means of accessing your account at “www.vfestival.com”, so please guard it carefully and under no circumstance will anyone affiliated with “www.vfestival.com” or another 3rd party, legitimately ask you for your password. Should you forget your password for your account, you can use the “I forgot my password” feature provided by the software. This process will ask you to submit your user name and your e-mail, and then the software will generate a new password to reclaim your account. V Festival will not at any point sell your details to any third party. Unless you have actively unsubscribed from receiving email newsletters, you agree to permit V Festival to send to your registered email or mobile number communications about V Festival and our carefully selected Festival partners.
 
-## LIMITATION OF LIABILITY
+LIMITATION OF LIABILITY
 
 Whilst V Festival will use it’s reasonable endeavours to ensure that all material found of this website is accurate and up to date it cannot guarantee this to users/readers and V Festival does not represent that the information contained on this website is accurate, complete or verified and will accept no liability or obligation (whether at law or otherwise) for the accuracy or completeness of the information contained in this website for any loss or damage suffered by any person, company or other organisation from any reliance placed upon the information found on this website.
 
@@ -66,9 +66,6 @@ Roseclaim Ltd Registered Office: Emery House, 192 Heaton Moor Road, Stockport, S
 
 Information: hello@vfestival.com
 
-## TICKET TERMS AND CONDITIONS:
+TICKET TERMS AND CONDITIONS:
 
 Attendees of V Festival consent to the photography, filming/sound recording as members of the audience, which may be used for promotional or commercial activities that will be used on V Festival.com and associated Social Media communities.
-
-  
-
