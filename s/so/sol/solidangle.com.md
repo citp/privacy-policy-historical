@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solidangle.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224002904id_/http%3A//www.solidangle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solidangle.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609051341id_/http%3A//www.solidangle.com/privacy-policy) for the most accurate reproduction.*
 
 # Solid Angle | Privacy Policy
 
