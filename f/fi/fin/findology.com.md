@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findology.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020172856id_/http%3A//findology.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findology.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609071627id_/http%3A//findology.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
