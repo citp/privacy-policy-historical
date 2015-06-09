@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shindigz.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116014629id_/http%3A//www.shindigz.com/servicepage.cfm%3Fpgp%3DSZSECURE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shindigz.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610003426id_/http%3A//www.shindigz.com/servicepage.cfm%3Fpgp%3DSZSECURE) for the most accurate reproduction.*
 
 # Shindigz Site Security, Privacy Policy
 
