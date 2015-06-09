@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the heartbowsmakeup.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224165300id_/http%3A//www.heartbowsmakeup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartbowsmakeup.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609104932id_/http%3A//www.heartbowsmakeup.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Heart Bows & Makeup - Indian Makeup & Beauty Blog, Indian Fashion Blog, Delhi Beauty & Fashion Blog, Eye Makeup Tutorials, Makeup Reviews, OOTD
+# Privacy Policy - Heart Bows & Makeup - Indian Makeup & Beauty Blog, Indian Fashion Blog, Indian Beauty Blog, Delhi Beauty & Fashion Blog, Indian Skincare Blog, Eye Makeup Tutorials, Product Reviews, OOTD
 
 This Privacy Policy governs the manner in which **Heart Bows & Makeup** collects, uses, maintains and discloses information about the users (each, a “User”) of the [http://www.heartbowsmakeup.com](http://www.heartbowsmakeup.com/ "Heart Bows & Makeup") website (“Site” or “Blog”). This privacy policy applies to the website and all services provided by Heart Bows & Makeup.
 
