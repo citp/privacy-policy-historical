@@ -1,31 +1,17 @@
-> *The following text is extracted and transformed from the krizna.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517121403id_/http%3A//www.krizna.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krizna.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609063913id_/http%3A//www.krizna.com/privacy) for the most accurate reproduction.*
 
-# KRIZNA
+# Privacy - Krizna
 
-**We Give Utmost Importance to Your Privacy:**
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
-We at KRIZNA TECHNOLOGIES give special emphasis on adhering to strict privacy policy. We are particularly cautious of protecting our client’s privacy on the internet. A website visitor may be required to provide additional information while on our site. As per our privacy policy we keep all information provided by our visitors confidential. Our policies and systems are particularly geared to ensure that client information is not revealed to any third party. 
+  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
+  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
+  * We will only retain personal information as long as necessary for the fulfillment of those purposes.
+  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
+  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
+  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
+  * We will make readily available to customers information about our policies and practices relating to the management of personal information.
 
-**Restricted Access To Information:**
 
-Only authorized employees are allowed to access the information provided by our clients. Staff members who are assigned particular projects are enabled access to data. At KRIZNA Technologies we train our employees on all aspects of the privacy policy and share with them the criticality of sternly following them. In case there is deliberate violation of privacy policy, adequate actions are taken against the concerned employee. 
 
-**Nature of Information Collected:**
-
-We only collect and store that information, which is legally permitted to be obtained. We assure you that the valuable information provided by you will be rightfully utilized keeping in view the purpose for which it is sought. 
-
-**Emphasis on Preserving Data Accuracy:**
-
-To sustain the accuracy of your data, we at KRIZNA Technologies have engineered a specific procedure. Simultaneously, the data is also updated on a regular basis. 
-
-**E-Mail:**
-
-To enhance customer service, we at KRIZNA Technologies may save your e-mail correspondences like e-mail address and e-mail content. This we believe will help us in serving you better by promptly answering your queries. Moreover, we can also regularly inform you about the latest update on our company. 
-
-**Child Protection Policy:**
-
-Protecting children’s privacy on the internet is given much precedence at KRIZNA Technologies. Therefore, we do not consciously seek information from children less than 13 years of age. 
-
-**Intellectual Copyright:**
-
-Copyright and other intellectual property laws protect all information presented, conveyed and carried on [http://www.krizna.com/krizna.html](https://web.archive.org/web/20080517121403id_/http%3A//www.krizna.com/krizna.html). The content of the website cannot be modified, distributed, displayed, published or commercially utilized in any other way. 
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
