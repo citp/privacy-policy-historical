@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the telanganastateinfo.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220075833id_/http%3A//www.telanganastateinfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telanganastateinfo.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609044153id_/http%3A//www.telanganastateinfo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Telangana State Information, History, Culture, Tourism, Education & Results
+# Privacy Policy - Telangana State Information, History, Tourism, Education, TSPSC News & Results
 
 This Privacy Policy governs the manner in which Telangana State Info.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.telanganastateinfo.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Telangana State Info.com.
 
@@ -68,4 +68,4 @@ Telangana State Info.com
 www.telanganastateinfo.com  
 Hyderabad
 
-This document was last updated on October 09, 2014
+This document was last updated on 19th May 2015
