@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scoutmob.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120043932id_/http%3A//scoutmob.com/privacy%3Fref%3Dftr_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoutmob.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609084623id_/http%3A//scoutmob.com/privacy%3Fref%3Dftr_privacy) for the most accurate reproduction.*
 
-# inspired goods by independent makers | handmade jewelry | t-shirts | unique gifts - Scoutmob Shoppe
+# Unique Gifts I Unique Gift Ideas I Scoutmob
 
 By downloading and using the Scoutmob mobile application or visiting or using the www.scoutmob.com website and domain name, any other linked pages, features, content, mobile applications, and any other services we offer from time to time in connection with any of the foregoing (collectively, the "Website"), you agree to the practices and policies set forth in this Privacy Policy, and you hereby acknowledge and consent to our collection, use, and sharing of your information as described in this Privacy Policy. 
 
