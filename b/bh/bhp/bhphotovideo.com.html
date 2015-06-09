@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bhphotovideo.com privacy policy that was archived on 2014-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231175847id_/http%3A//www.bhphotovideo.com/find/HelpCenter/PrivacySecurity.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bhphotovideo.com privacy policy that was archived on 2015-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150609114038id_/http%3A//www.bhphotovideo.com/find/HelpCenter/PrivacySecurity.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head> <base href="http://static.bhphoto.com">
 <!--<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> -->
@@ -11,13 +11,13 @@
 
 <!-- In order: reset -> fonts -> layout -> widgets -> page css -->
 
-<link href="http://static.bhphoto.com/FrameWork/css/min/reset-fonts-layout.css?v=20141130a" rel="stylesheet" type="text/css" media="all">
-<link href="http://static.bhphoto.com/FrameWork/css/base.css?v=20141130a" rel="stylesheet" type="text/css" media="all"> 
-<link href="http://static.bhphoto.com/FrameWork/css/widgets.css?v=20141130a" rel="stylesheet" type="text/css" media="all"> 
+<link href="http://static.bhphoto.com/FrameWork/css/min/reset-fonts-layout.css?v=20150604a" rel="stylesheet" type="text/css" media="all">
+<link href="http://static.bhphoto.com/FrameWork/css/base.css?v=20150604a" rel="stylesheet" type="text/css" media="all"> 
+<link href="http://static.bhphoto.com/FrameWork/css/widgets.css?v=20150604a" rel="stylesheet" type="text/css" media="all"> 
 <!--<link href="http://static.bhphoto.com/FrameWork/css/min/header-footer.css" rel="stylesheet" type="text/css" media="all" /> -->
-<link href="http://static.bhphoto.com/FrameWork/css/bhLayer.css?v=20141130a" rel="stylesheet" type="text/css" media="all">  
-<link href="http://static.bhphoto.com/FrameWork/css/ajaxLayer.css?v=20141130a" rel="stylesheet" type="text/css" media="all"> 
-<!--[if IE]><link href="http://static.bhphoto.com/FrameWork/css/ie-only.css?v=20141130a" rel="stylesheet" type="text/css"><![endif]-->
+<link href="http://static.bhphoto.com/FrameWork/css/bhLayer.css?v=20150604a" rel="stylesheet" type="text/css" media="all">  
+<link href="http://static.bhphoto.com/FrameWork/css/ajaxLayer.css?v=20150604a" rel="stylesheet" type="text/css" media="all"> 
+<!--[if IE]><link href="http://static.bhphoto.com/FrameWork/css/ie-only.css?v=20150604a" rel="stylesheet" type="text/css"><![endif]-->
 
 
 
@@ -49,12 +49,25 @@
 
 
 	<script>var lazyLoad = {
-		js : function(url,cb){
+		js : function(url,main,cb){
+			var isMainJs = (main === true);
+			if(!isMainJs){
+				cb = main;
+				if(document.jsState === "loading"){
+					setTimeout(function(){
+						lazyLoad.js(url,cb);
+					},5);
+					return;
+				}
+			}else{
+				document.jsState = "loading";
+			}
 			var h=document.getElementsByTagName("head")[0],d=false,s=document.createElement("script");
 			s.src=url;
 			s.onload=s.onreadystatechange=function(){
 				if(!d&&(!this.readyState||this.readyState=="loaded"||this.readyState=="complete")){
 					d=true;
+					if(isMainJs) document.jsState = "complete";
 					if(typeof cb==='function'){
 						cb();
 					}
@@ -73,12 +86,13 @@
 			if(window.addEventListener)window.addEventListener("load",cb,false);
 			else window.attachEvent("onload",cb);
 		},
-		lazyJs : function(url,cb){
+		lazyJs : function(url,main,cb){
+			if(main === true)document.jsState = "loading";
 			if(document.readyState == "complete"){
-				lazyLoad.js(url,cb);
+				lazyLoad.js(url,main,cb);
 			}else{
 				lazyLoad.onLoad(function(){
-					lazyLoad.js(url,cb);
+					lazyLoad.js(url,main,cb);
 				})
 			}
 		},
@@ -92,11 +106,21 @@
 			}	
 		},
 		lazyRunJs : function(func){
+			var callOnTime = function(){
+				if(document.jsState === "loading"){
+					setTimeout(function(){
+						lazyLoad.lazyRunJs(func);
+					},5);
+					return;
+				}else{
+					func();
+				}
+			}
 			if(document.readyState == "complete"){
-				func();
+				callOnTime();
 			}else{
 				lazyLoad.onLoad(function(){
-					func();
+					callOnTime();
 				})
 			}
 		},
@@ -116,11 +140,10 @@
 
 
 	
-	
-		<link rel="stylesheet" type="text/css" href="http://www.bhphotovideo.com/find/stylesheet.jsp?currPage=oldPage&amp;holiday=Y&amp;lang=en&amp;site=reg&amp;v=20141130a">
+		<link rel="stylesheet" type="text/css" href="http://www.bhphotovideo.com/find/stylesheet.jsp?currPage=oldPage&amp;lang=en&amp;site=reg&amp;min=Y&amp;v=20150604a">
 	
 
-<link href="http://static.bhphoto.com/FrameWork/css/sprites.css?v=20141130a" rel="stylesheet" type="text/css">
+<link href="http://static.bhphoto.com/FrameWork/css/sprites.css?v=20150604a" rel="stylesheet" type="text/css">
   
 
 
@@ -131,7 +154,7 @@
 
 
 
-<script type="text/javascript" src="http://www.bhphotovideo.com/FrameWork/dwr/v2/interface/DWRHelper.js?v=20141130a"></script>
+<script type="text/javascript" src="http://www.bhphotovideo.com/FrameWork/dwr/v2/interface/DWRHelper.js?v=20150604a"></script>
 <script type="text/javascript" src="http://www.bhphotovideo.com/FrameWork/dwr/v2/engine.js"></script>
 <script type="text/javascript" src="http://www.bhphotovideo.com/FrameWork/dwr/v2/util.js"></script>
 
@@ -143,26 +166,25 @@
 
 
 
-
-
 	
 		<script>
 			var BH = BH || {};
+			BH.globals = BH.globals || {};
 			BH.constants = BH.constants || {};
 			BH.constants.jsessionid = "";
 		</script>
 	
 	
 	
-		<script type="text/javascript" src="http://www.bhphotovideo.com/find/javascripts.jsp?currPage=oldPage&amp;holiday=Y&amp;lang=en&amp;v=20141130a"></script>
+		<script type="text/javascript" src="http://www.bhphotovideo.com/find/javascripts.jsp?currPage=oldPage&amp;lang=en&amp;min=Y&amp;v=20150604a"></script>
 		
 	
 	
 
-<script type="text/javascript" src="http://static.bhphoto.com/FrameWork/js/common.js?v=20141130a"></script>
-<script type="text/javascript" src="http://static.bhphoto.com/FrameWork/js/ajaxLayer.js?v=20141130ac"></script>
+<script type="text/javascript" src="http://static.bhphoto.com/FrameWork/js/common.js?v=20150604a"></script>
+<script type="text/javascript" src="http://static.bhphoto.com/FrameWork/js/ajaxLayer.js?v=20150604ac"></script>
  <!--Includes latest jQuery -->
-<link href="/FrameWork/css/newHelpCenter.css?v=20141130a" rel="stylesheet" type="text/css" media="all">
+<link href="/FrameWork/css/newHelpCenter.css?v=20150604a" rel="stylesheet" type="text/css" media="all">
 <script>
 $(document).ready(function(){
 	$("h3.policies").siblings().show("fast");
@@ -173,7 +195,7 @@ $(document).ready(function(){
 	});
 });
 </script>
-<script src="http://www.bhphotovideo.com/find/javascripts.jsp?files=tealeaf/tealeaf.min.js&amp;v=20141130a"></script><script src="//nexus.ensighten.com/bhfoto/Bootstrap.js"></script></head>
+<script src="http://www.bhphotovideo.com/find/javascripts.jsp?files=tealeaf/tealeaf.min.js&amp;min=Y&amp;v=20150604a"></script><script src="//nexus.ensighten.com/bhfoto/Bootstrap.js"></script></head>
 <body>
 <div id="doc1">
 <div id="tHeader">
@@ -184,6 +206,23 @@ $(document).ready(function(){
 
 
 
+
+
+
+
+
+
+
+
+
+
+	<svg xmlns="http://www.w3.org/2000/svg" style="display:none;">
+		
+			<symbol id="down-arrow-dark" viewBox="0 0 46 40"><polygon points="46,0 0,0 23,40"></polygon></symbol>
+			<symbol id="x" viewBox="0 0 9.659 10.683"><path d="M9.298,8.581L6.464,5.343l2.834-3.238c0.481-0.481,0.481-1.262,0-1.744c-0.482-0.482-1.263-0.481-1.744,0L4.829,3.475 L2.105,0.361c-0.481-0.482-1.262-0.482-1.744,0c-0.481,0.481-0.481,1.247,0,1.744l2.833,3.238L0.361,8.581 c-0.481,0.481-0.481,1.262,0,1.744c0.482,0.482,1.263,0.475,1.722,0L4.808,7.21l2.731,3.114c0.481,0.475,1.247,0.475,1.722,0 c0.475-0.475,0.481-1.262,0-1.744H9.298z"></path></symbol>
+			<symbol id="calendar" viewBox="0 0 28 30"><g><path d="M0,30c9.3,0,18.7,0,28,0c0-7.3,0-14.7,0-22C18.7,8,9.3,8,0,8C0,15.4,0,22.7,0,30z M21,11c1.3,0,2.7,0,4,0 c0,1.3,0,2.7,0,4c-1.3,0-2.7,0-4,0C21,13.7,21,12.4,21,11z M21,17c1.3,0,2.7,0,4,0c0,1.3,0,2.7,0,4c-1.3,0-2.7,0-4,0 C21,19.7,21,18.4,21,17z M21,23c1.3,0,2.7,0,4,0c0,1.3,0,2.7,0,4c-1.3,0-2.7,0-4,0C21,25.7,21,24.4,21,23z M15,11 c1.3,0,2.7,0,4,0c0,1.3,0,2.7,0,4c-1.3,0-2.7,0-4,0C15,13.7,15,12.4,15,11z M15,17c1.3,0,2.7,0,4,0c0,1.3,0,2.7,0,4 c-1.3,0-2.7,0-4,0C15,19.7,15,18.4,15,17z M15,23c1.3,0,2.7,0,4,0c0,1.3,0,2.7,0,4c-1.3,0-2.7,0-4,0C15,25.7,15,24.4,15,23z M9,11c1.3,0,2.7,0,4,0c0,1.3,0,2.7,0,4c-1.3,0-2.7,0-4,0C9,13.7,9,12.4,9,11z M9,17c1.3,0,2.7,0,4,0c0,1.3,0,2.7,0,4 c-1.3,0-2.7,0-4,0C9,19.7,9,18.4,9,17z M9,23c1.3,0,2.7,0,4,0c0,1.3,0,2.7,0,4c-1.3,0-2.7,0-4,0C9,25.7,9,24.4,9,23z M3,11 c1.3,0,2.7,0,4,0c0,1.3,0,2.7,0,4c-1.3,0-2.7,0-4,0C3,13.7,3,12.4,3,11z M3,17c1.3,0,2.7,0,4,0c0,1.3,0,2.7,0,4c-1.3,0-2.7,0-4,0 C3,19.7,3,18.4,3,17z M3,23c1.3,0,2.7,0,4,0c0,1.3,0,2.7,0,4c-1.3,0-2.7,0-4,0C3,25.7,3,24.4,3,23z"></path></g><g><path d="M22,3c0-4-3-4-3,0H9c0-4-3-4-3,0H0v4h28V3H22z"></path></g></symbol>
+		
+	</svg>
 
 
 
@@ -206,17 +245,6 @@ $(document).ready(function(){
 ">
 
 
-	
-
-
-
-
-	
-
-
-	
-
-
 
 
 
@@ -228,6 +256,9 @@ $(document).ready(function(){
 
 
 	 
+	   
+	
+	 
 	
 	
 	
@@ -235,63 +266,6 @@ $(document).ready(function(){
 	
 	
 	
-	
-		
-			
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	<div class="stripedBanner full-width swStripedBanner">
-		<div class="page-width interact-cont yearEnd">
-			<div>
-				
-				<div class="swExpBnr">
-					<a class="noUnderline" href="http://www.bhphotovideo.com/find/HelpCenter/Shipping.jsp#shippingOptions" manual_cm_sp="Shipping-_-SiteWide-_-YearEndHoliday2014-2">
-						<p class="left">
-							<span class="c17 fs16 bold upper">expedited shipping</span><br>
-							<span class="c18 fs11">on Orders Over $49</span>
-						</p>
-					</a>
-				</div>
-				
-			</div>
-			<div>
-				<a class="swPromoLink noUnderline" href="http://www.bhphotovideo.com/c/buy/year-end-savings/ci/22144/N/4019732813" alt="B&amp;H Holiday Gifts &amp; Deals" manual_cm_sp="HolidayDeals-_-SiteWide-_-YearEndHoliday2014-2">
-					<div class="bh fs9 c18">B&amp;H</div>
-					<div class="shopHol noWrap">
-						
-						<span class="c1">Shop Year End Deals <span class="orArrow">›</span></span>
-						
-					</div>
-					<div class="year c18">2014</div>
-				</a>
-			</div>
-			<div>
-				<div class="helpLinks left bhBinCandy">
-					<div class=""><a class="bannerLink noUnderline c18 fs11" href="http://www.bhphotovideo.com/find/giftCard.jsp" manual_cm_sp="GiftCard-_-SiteWide-_-YearEndHoliday2014-2">Gift Cards</a></div>
-					<div class=""><a class="bannerLink noUnderline c18 fs11" href="http://www.bhphotovideo.com/find/HelpCenter/ReturnExchange.jsp" manual_cm_sp="Return-_-SiteWide-_-YearEndHoliday2014-2">Extended Returns</a></div>
-					
-					<div class=""><a class="bannerLink noUnderline c18 fs11" href="http://www.bhphotovideo.com/find/HelpCenter/HoursOfOperation.jsp" manual_cm_sp="CUTOFFS-_-SiteWide-_-YearEndHoliday2014-2">Shipping Schedule</a></div>
-					
-				</div>
-				
-			</div>
-		</div>
-	</div>
-	
-
-		
 	
 	
 	<div class="site-user-links full-width elevn" data-selenium="siteUserLinks">
@@ -328,10 +302,8 @@ $(document).ready(function(){
 					<a secure="true" name="Header-My Account" target="_self" href="https://secure.bhphotovideo.com/find/MyAccount.jsp" data-selenium="myAccountLink">My Account</a>
 				</li>
 				<li class="">
-					
                     	<a name="Header-Help Center" target="_self" href="http://www.bhphotovideo.com/find/HelpCenter/helpcenter.jsp" data-selenium="helpLink">
 						Help Center</a>
-					
 				</li>
 				<li class="">
 					<a href="http://www.bhphotovideo.com/find/HelpCenter/AboutUs.jsp" name="Header-_-TopHeader-_-AboutUs" manual_cm_sp="Header-_-TopHeader-_-AboutUs" data-selenium="helpLink">About Us</a>
@@ -364,15 +336,12 @@ $(document).ready(function(){
 		
 		
 		
-		
-		
-		
-		
 			
 			<div class="deal-zone-in-header js-deal-zone-in-header left">
 				<a href="http://www.bhphotovideo.com/find/dealZone.jsp" manual_cm_sp="Banners-_-Header-_-DealZone">
 					<span class="dz-deal-item">
-						<span class="dz-logo">DealZone</span>
+						<span class="dz-logo">Deal Zone</span>
+
 						<span class="dz-img-container js-dz-img-container"></span>
 						<span class="dz-discount"></span>
 						<span class="dz-remaining">
@@ -380,7 +349,8 @@ $(document).ready(function(){
 						</span>
 					</span>
 					<span class="dz-placeholder">
-						<span class="dz-details-link c9 fs10 upper bold"><span class="dz-logo">DealZone</span> Details &gt;</span>
+						<span class="dz-details-link c9 fs10 upper bold"><span class="dz-logo">Deal Zone</span> Details &gt;</span>
+
 					</span>
 				</a>
 			</div>
@@ -422,7 +392,6 @@ $(document).ready(function(){
 							</span>
 						
 					</a>
-					
 						<div class="miniCart js-miniCart js-cartIsEmpty" data-selenium="miniCart">
 							<div class="cartIsEmpty c2 fs16 bold" data-selenium="cartIsEmpty">
 								Your cart is currently empty
@@ -442,14 +411,14 @@ $(document).ready(function(){
 								</a>
 							</div>
 						</div>
-					
 				</div>
 			
 
-			
 				<div class="links c1 bold" data-selenium="links">
-					<a name="Header-Wishlist" href="https://secure.bhphotovideo.com/bnh/controller/home?O=getpage.jsp&amp;A=WishList&amp;Q=showWishList" data-selenium="wishlist" target="_self">Wish List</a>
+					
+						<a name="Header-Wishlist" href="https://secure.bhphotovideo.com/bnh/controller/home?O=getpage.jsp&amp;A=WishList&amp;Q=showWishList" data-selenium="wishlist" target="_self">Wish List</a>
 					&nbsp; | &nbsp;
+						
 					
 					
 					<a href="https://secure.bhphotovideo.com/bnh/controller/home?O=myAccount&amp;A=orderHistory&amp;Q=orderHistory" data-selenium="orderhistory">
@@ -457,7 +426,6 @@ $(document).ready(function(){
 					</a>
 					
 				</div>
-			
 		</div>
 	</div><!-- end brand-user -->
 	<script>
@@ -491,7 +459,7 @@ $(document).ready(function(){
 	}
 	if(jslogin && uui){
 		uui = uui.split("|");
-		phonenum.textContent = phonenum.innerText = decodeURIComponent(uui[0]);
+		if(phonenum)phonenum.textContent = phonenum.innerText = decodeURIComponent(uui[0]);
 		if(uui[1]){
 			loginame.textContent = loginame.innerText = decodeURIComponent(uui[1]);
 			jslogin.className +=" js-loggedIn";
@@ -533,9 +501,10 @@ $(document).ready(function(){
 				</ul>
 			</div>
 		</div>
-		<div class="nav elevn clearfix">
-			
+		
+			<div class="nav elevn clearfix">
 				
+
 
 
 
@@ -556,48 +525,29 @@ $(document).ready(function(){
 
 
 	<ul>
-		<li id="cat12154" class="first audio " data-selenium="audio"><a name="Top Nav-Audio Professional" alt="Audio Professional" href="http://www.bhphotovideo.com/c/browse/Professional-Audio/ci/12154/N/4294550705" target="_self" data-selenium="audioLink"><span>Pro Audio</span></a></li>
-		<li id="cat3644" class="av " data-selenium="av"><a name="Top Nav-AV Presentation" alt="AV Presentation" href="http://www.bhphotovideo.com/c/browse/A-V-Presentation/ci/3644/N/4294546288" target="_self" data-selenium="avLink"><span>A/V Presentation</span></a></li>
-		<li id="cat978" class="binoculars " data-selenium="binoculars"><a name="Top Nav-Binoculars and Scopes" alt="Binoculars and Scopes" href="http://www.bhphotovideo.com/c/browse/Binoculars-Scopes/ci/978/N/4294541872" target="_self" data-selenium="binocularsLink"><span>Binoculars <br> &amp; Scopes</span></a></li>
-		<li id="cat1820" class="camcorders " data-selenium="camcorders"><a name="Top Nav-Camcorders" alt="Camcorders" href="http://www.bhphotovideo.com/c/browse/Camcorders/ci/1820/N/4294548420" target="_self" data-selenium="camcordersLink"><span>Camcorders</span></a></li>
+		<li id="cat989" class="first camera " data-selenium="camera"><a name="Top Nav-Digital Photography" alt="Digital Photography" href="http://www.bhphotovideo.com/c/browse/Photography/ci/989/N/4294538916" target="_self" data-selenium="cameraLink"><span>Photography</span></a></li>
 		<li id="cat9581" class="computers " data-selenium="computers"><a name="Top Nav-Computers and Solutions" alt="Computers and Solutions" href="http://www.bhphotovideo.com/c/browse/Computers-Solutions/ci/9581/N/4294542559" target="_self" data-selenium="computersLink"><span>Computers</span></a></li>
-		<li id="cat4942" class="darkroom " data-selenium="darkroom"><a name="Top Nav-Darkroom Equipment" alt="Darkroom Equipment" href="http://www.bhphotovideo.com/c/browse/Darkroom/ci/4942/N/4288586562" target="_self" data-selenium="darkroomLink"><span>Darkroom</span></a></li>
-		<li id="cat989" class="camera " data-selenium="camera"><a name="Top Nav-Digital Photography" alt="Digital Photography" href="http://www.bhphotovideo.com/c/browse/Photography/ci/989/N/4294538916" target="_self" data-selenium="cameraLink"><span>Photography</span></a></li>
-		<li id="cat1731" class="media " data-selenium="media"><a name="Top Nav-Film Tapes and Media" alt="Film Tapes and Media" href="http://www.bhphotovideo.com/c/browse/Film-Tapes-Media/ci/1731/N/4277998908" target="_self" data-selenium="mediaLink"><span>Film, Tapes <br>&amp; Media</span></a></li>
+		<li id="cat3755" class="video " data-selenium="video"><a name="Top Nav-Video Professional" alt="Video Professional" href="http://www.bhphotovideo.com/c/browse/Professional-Video/ci/3755/N/4294545851" target="_self" data-selenium="videoLink"><span>Pro Video</span></a></li>
 		<li id="cat1161" class="light " data-selenium="light"><a name="Top Nav-Lighting and Studio" alt="Lighting and Studio" href="http://www.bhphotovideo.com/c/browse/Lighting-Studio/ci/1161/N/4294551176" target="_self" data-selenium="lightLink"><span>Lighting <br>&amp; Studio</span></a></li>
+		<li id="cat12154" class="audio " data-selenium="audio"><a name="Top Nav-Audio Professional" alt="Audio Professional" href="http://www.bhphotovideo.com/c/browse/Professional-Audio/ci/12154/N/4294550705" target="_self" data-selenium="audioLink"><span>Pro Audio</span></a></li>
 		<li id="cat8565" class="mobile " data-selenium="mobile"><a name="Top Nav-Mobile" alt="Mobile" href="http://www.bhphotovideo.com/c/browse/Mobile/ci/8565/N/4294542748" target="_self" data-selenium="mobileLink"><span>Mobile</span></a></li>
-		<li id="cat3496" class="survaliance " data-selenium="survaliance"><a name="Top Nav-Surveillance Video" alt="Surveillance Video" href="http://www.bhphotovideo.com/c/browse/Surveillance-Video/ci/3496/N/4293342959" target="_self" data-selenium="survalianceLink"><span>Security &amp; Surveillance</span></a></li>
 		<li id="cat4600" class="tv " data-selenium="tv"><a name="Top Nav-TVs &amp; Home Entertainment" alt="TVs &amp; Home Entertainment" href="http://www.bhphotovideo.com/c/browse/Home-Entertainment/ci/4600/N/4294544179" target="_self" data-selenium="tvLink"><span>TVs &amp; Entertainment</span></a></li>
+		<li id="cat1731" class="media " data-selenium="media"><a name="Top Nav-Film Tapes and Media" alt="Film Tapes and Media" href="http://www.bhphotovideo.com/c/browse/Film-Tapes-Media/ci/1731/N/4277998908" target="_self" data-selenium="mediaLink"><span>Film, Tapes <br>&amp; Media</span></a></li>
+		<li id="cat1820" class="camcorders " data-selenium="camcorders"><a name="Top Nav-Camcorders" alt="Camcorders" href="http://www.bhphotovideo.com/c/browse/Camcorders/ci/1820/N/4294548420" target="_self" data-selenium="camcordersLink"><span>Camcorders</span></a></li>
+		<li id="cat3496" class="survaliance " data-selenium="survaliance"><a name="Top Nav-Surveillance Video" alt="Surveillance Video" href="http://www.bhphotovideo.com/c/browse/Surveillance-Video/ci/3496/N/4293342959" target="_self" data-selenium="survalianceLink"><span>Security &amp; Surveillance</span></a></li>
+		<li id="cat978" class="binoculars " data-selenium="binoculars"><a name="Top Nav-Binoculars and Scopes" alt="Binoculars and Scopes" href="http://www.bhphotovideo.com/c/browse/Binoculars-Scopes/ci/978/N/4294541872" target="_self" data-selenium="binocularsLink"><span>Binoculars <br> &amp; Scopes</span></a></li>
 		<li id="cat11585" class="underwater  " data-selenium="underwater"><a name="Top Nav-Underwater Equipment" alt="Underwater Equipment" href="http://www.bhphotovideo.com/c/browse/Underwater-Equipment/ci/11585/N/4294551294" target="_self" data-selenium="underwaterLink"><span>Underwater</span></a></li>
-		<li id="cat3755" class="last video " data-selenium="video"><a name="Top Nav-Video Professional" alt="Video Professional" href="http://www.bhphotovideo.com/c/browse/Professional-Video/ci/3755/N/4294545851" target="_self" data-selenium="videoLink"><span>Pro Video</span></a></li>
+		<li id="cat4942" class="darkroom " data-selenium="darkroom"><a name="Top Nav-Darkroom Equipment" alt="Darkroom Equipment" href="http://www.bhphotovideo.com/c/browse/Darkroom/ci/4942/N/4288586562" target="_self" data-selenium="darkroomLink"><span>Darkroom</span></a></li>
+		<li id="cat3644" class="last av " data-selenium="av"><a name="Top Nav-AV Presentation" alt="AV Presentation" href="http://www.bhphotovideo.com/c/browse/A-V-Presentation/ci/3644/N/4294546288" target="_self" data-selenium="avLink"><span>A/V Presentation</span></a></li>
+		
 	</ul>
 
-			
-		</div>
+			</div>
+		
 	</div>
 	
 	
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-				
 	
-	
-		
-			
 
 
 
@@ -610,203 +560,82 @@ $(document).ready(function(){
 
 
 
+<script type="text/template" id="template-note-schedule">
+<div class="js-note-item collapsed {{= item.type }} site-note" id="js-note{{= alertId }}" data-id="{{= alertId }}">
+	{{ if(typeof closeable !== "undefined" && closeable){ }}
+		<div class="js-closeNote js-noteBtn closeBtn"><svg class="svg-icon"><use xlink:href="#x"></use></svg></div>
+	{{ } }}
+	<div class="note-top clearfix">
+		<div class="calendar-icon left"><svg class="svg-icon"><use xlink:href="#calendar"></use></svg></div>
+		<div class="title left">{{= item.expandedTitle }}</div>
+		<div class="small-note left c11">{{= item.condensedNote }}</div>
+		<div class="js-expand js-noteBtn expendBtn right">
+			<span>See Schedule Details</span>
+			<svg><use xlink:href="#down-arrow-dark"></use></svg>
+		</div>
+	</div>
+	<div class="note-bottom js-note-bottom clearfix">
+		<div class="note-text">{{= item.expandedNote }}</div>
+		<div class="note-calendar js-calendar"></div>
+		<div class="js-collapse js-noteBtn okBtn">OK</div>
+	</div>
+</div>
+</script>
+
+<script type="text/template" id="template-note-info">
+<div class="js-note-item info site-note info" id="js-note{{= alertId }}" data-id="{{= alertId }}">
+	{{ if(typeof closeable !== "undefined" && closeable){ }}
+		<div class="js-closeNote js-noteBtn closeBtn"><svg class="svg-icon"><use xlink:href="#x"></use></svg></div>
+	{{ } }}
+	<div class="clearfix">
+		<div class="title left">{{= item.title }}</div>
+		<div class="note-content left">
+			<p>{{= item.condensedNote }}</p>
+		</div>
+	</div>
+</div>
+</script>
+
+<script type="text/template" id="template-note-shabbosNote">
+<div class="js-note-item shabbos-note site-note" id="js-note{{= alertId }}" data-id="{{= alertId }}">
+	<div class="js-closeNote js-noteBtn closeBtn"><svg class="svg-icon"><use xlink:href="#x"></use></svg></div>
+	<div class="clearfix">
+		<div class="title left">{{= item.title }}</div>
+		<div class="note-content left">
+			<p>{{= item.condensedNote }}</p>
+		</div>
+		{{ if(!(alertId.indexOf("pre-") !== -1)){ }}
+			<div class="right">
+				<a class="notify-button openInOnePopupLayer" href="{{= BH.constants.findUrl + "notifyWhenOpen.jsp" }}">Notify Me When Open</a>
+			</div>
+		{{ } }}
+	</div>
+</div>
+</script>
+
+<script type="text/template" id="template-homebanner">
+<div class="img-banners js-img-banners">
+	{{ _.each(item.variants, function(variant, i){ }}
+		<a class="banner js-banner" href="{{= item.link }}" {{ if(typeof item.coremetrics != "undefined"){ }} manual_cm_sp="{{= item.coremetrics }}" {{ } }}
+			{{ if(typeof item.imageAlt != "undefined"){ }} alt="{{= item.imageAlt }}" title="{{= item.imageAlt }}" {{ } }}>
+			<img style="" src="{{= item.imagePath + item.variants[0].imageName }}"/>
+		</a>
+	{{ }) }}
+</div>
+<div class="banner-controls js-banner-controls"></div>
+</script>
+<script type="text/javascript">
+var BH = BH || {};
+BH.globals = BH.globals || {};
+BH.globals.currentTimeMillis = function(){return new Date().getTime()};
+BH.globals.timePageLoaded = BH.globals.currentTimeMillis();
+BH.globals.isExplora = false;
+</script>
+<div class="page-width">
+	<div class="site-notes clearfix js-note" style="display:none;"></div>
+</div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- plan ahead -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--OPEN THE 24th -->
-
-
-<!--OPEN THE 31th -->
-
-
-<!-- end Holiday Notes -->
-<!-- NEW YEAR -->
-
-<!--end New Year -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<noscript>
-
-<style>
-	div.darkBg, 
-	div.bigNote .okBtn,
-	div.holNotes .closeBtn{
-		display:none;
-	}
-</style>
-
-</noscript>
-
-
-
-
-
-
-
-
-
-
-
-
-		
-	
-	
-	
 	
 	
 	
@@ -817,11 +646,21 @@ $(document).ready(function(){
 	</div>
 	
 	
+				
+	
 	
 	
 	 
 	<div id="searchautocomplete" class="sixteen"></div>
-</div></div> <!--end tHeader -->
+</div>
+<script type="text/javascript">
+var HeaderFooterMLT = {
+		endsIn: "Ends In",
+		days: "day",
+		DealEnded: "Deal<br>Ended"
+	};
+</script>
+</div> <!--end tHeader -->
 <div id="tContent">
 
 <div class="hcBreadcrumbs">
@@ -925,6 +764,7 @@ $(document).ready(function(){
                     <li><a href="https://secure.bhphotovideo.com/bnh/controller/home?O=events&amp;A=MyEvents&amp;Q=MyEvents">Event Space Registration / My Events</a></li>
                 </ul>
 			</div>
+			
 			<div class="catContainer">
 				<h3 class="menuTitle shipDel">Shipping &amp; Delivery</h3>
 				<ul class="hcMenuLinks">
@@ -946,6 +786,7 @@ $(document).ready(function(){
                     <li><a href="http://www.bhphotovideo.com/find/HelpCenter/USGrey.jsp">U.S. &amp; Grey Market Products</a></li>
                     <li><a href="http://www.bhphotovideo.com/find/HelpCenter/PrivacySecurity.jsp">Privacy &amp; Security</a></li>
                     <li><a href="http://www.bhphotovideo.com/find/HelpCenter/UserAgreement.jsp">User Agreement &amp; Disclaimer</a></li>
+                    <li><a href="http://www.bhphotovideo.com/find/HelpCenter/Supplier_Diversity_Program.jsp">Supplier Diversity Program</a></li>
                     <li><a href="http://www.bhphotovideo.com/find/HelpCenter/PrivacySecurity.jsp#cali">California Privacy Rights</a></li>
                 </ul>
 			</div>
@@ -1015,7 +856,7 @@ $(document).ready(function(){
              	<div class="hcContentContainer">
                         <div class="hcContentContainerTop"><img src="/images/helpCenter/contentTopBG.jpg"></div>
                         <div class="hcContentContainerMain">
-                        		<p>This policy was last updated on July 24, 2013.</p>  		<p>Your privacy is important to us. By participating in the Council of Better Business Bureau's BBB EU Safe Harbor Program, we have made a commitment to meet the programs' strict requirements regarding how we treat your information and have it verified by the Safe Harbor Program. Further information about this program is available at <a href="http://www.bbb.org/us/european-dispute-resolution">http://www.bbb.org/us/european-dispute-resolution</a>.</p>          <p>Below is the B&amp;H privacy and security policy:</p> 
+                        		<p>This policy was last updated on December 15, 2014.</p>  		<p>Your privacy is important to us. By participating in the Council of Better Business Bureau's BBB EU Safe Harbor Program, we have made a commitment to meet the programs' strict requirements regarding how we treat your information and have it verified by the Safe Harbor Program. Further information about this program is available at <a href="http://www.bbb.org/us/european-dispute-resolution">http://www.bbb.org/us/european-dispute-resolution</a>.</p>          <p>Below is the B&amp;H privacy and security policy:</p> 
                         </div>
                 <div class="hcContentContainerBottm"><img src="/images/helpCenter/contentbottomBG.jpg"></div>
              </div>
@@ -1023,7 +864,7 @@ $(document).ready(function(){
                         <div class="hcContentContainerTop"><img src="/images/helpCenter/contentTopBG.jpg"></div>
                         <div class="hcContentContainerMain">
                         <span class="subTitle">Security:</span>
-                        <p>Note: The following only applies to B&amp;H's main website (<a href="http://www.bhphotovideo.com">www.bhphotovideo.com</a>) but not to our blog "B&amp;H Explora" (<a href="http://www.bhphotovideo.com/explora">www.bhphotovideo.com/explora</a>): The security of your personal information is very important to us. In an effort to protect your personal information, we use Secure Sockets Layer (SSL) technology with 128 bit encryption. If your browser supports SSL (most current browsers do), it will automatically encrypt the information you provide to us on the secure pages on our site, before sending it over the Internet.</p>  <p>B&amp;H has obtained a digital certificate from Cybertrust, a leading provider of Internet trust services. B&amp;H's website is also tested and certified daily by ScanAlert to receive its Hacker Safe Certification which ensures that the website passes the FBI/SANS Internet Security Test.</p>  <p>When visiting a page on our site that includes any of your personal information, the bottom of your browser window will display, an icon of a closed lock or an unbroken key (depending upon your browser). This indicates that you have successfully connected with our secure server.</p>  <p>To authenticate the security of your connection before submitting any of your personal information, you can double click on the icon to display our digital certificate.</p>  <p>Some browser versions and some firewalls do not permit communication through secure servers. In that case, we suggest that you visit the B&amp;H super store, or contact us by phone, or fax your order to us.</p>
+                        <p>Note: The following only applies to B&amp;H's main website (<a href="http://www.bhphotovideo.com">www.bhphotovideo.com</a>) but not to our blog "B&amp;H Explora" (<a href="http://www.bhphotovideo.com/explora">www.bhphotovideo.com/explora</a>): The security of your personal information is very important to us. In an effort to protect your personal information, we use Secure Sockets Layer (SSL) technology with 256 bit encryption. If your browser supports SSL (most current browsers do), it will automatically encrypt the information you provide to us on the secure pages on our site, before sending it over the Internet.</p>  <p>B&amp;H has obtained a digital certificate from Cybertrust, a leading provider of Internet trust services. B&amp;H's website is also tested and certified daily by ScanAlert to receive its Hacker Safe Certification which ensures that the website passes the FBI/SANS Internet Security Test.</p>  <p>When visiting a page on our site that includes any of your personal information, the bottom of your browser window will display, an icon of a closed lock or an unbroken key (depending upon your browser). This indicates that you have successfully connected with our secure server.</p>  <p>To authenticate the security of your connection before submitting any of your personal information, you can double click on the icon to display our digital certificate.</p>  <p>Some browser versions and some firewalls do not permit communication through secure servers. In that case, we suggest that you visit the B&amp;H super store, or contact us by phone, or fax your order to us.</p>
                         
                         <span class="subTitle">Cookies:</span>
                         <p>When you visit our site, we will ask your browser to place a permanent "cookie" (a very small text file) on your computer. If your browser is configured to accept cookies, it will accept the cookie and place it on your computer's hard drive. We collect this information to analyze where our customers are coming from and how often they visit our site. We also collect certain technical information from your computer, like your IP address and the address of a referring web site, if any. This information will allow us to enhance our site to our customer's preferences. This information is used <strong>only</strong> for the benefit of B&amp;H and you, our customer.</p>            <p>You can visit our site without cookies if you choose to do so. However, please be aware that some features of the site may not function properly or may be slower if you refuse cookies. To visit our site without cookies, you can configure your browser to reject all cookies or to notify you when a cookie is set. Check the browsers help menu to learn how to change your cookie preferences. </p>
@@ -1044,7 +885,7 @@ $(document).ready(function(){
                         <p>Our site contains links to manufacturers, and other related sites for your benefit. B&amp;H is not responsible for the privacy practices, security, or content of such web sites.  If you click on one of these links, you will be redirected to their web site and, in doing so, you may provide information directly to them. Therefore, you should refer to their privacy policies to understand how they handle your information and what choices you have.</p>
                         
                         <span class="subTitle">Relationships/Sharing Information:</span>
-                        <p>B&amp;H maintains special relationships with a number of secure business partners. For your security or benefit, when you make a purchase, we may share information about you and the transaction with other companies for many reasons including verification, fraud prevention, credit card authorization, and shipping purposes.  </p>  <p>B&amp;H may share account or other information when we are required by law (e.g., in response to subpoenas, court orders, etc.)  or to protect our interests or property. This may include sharing information with other companies, lawyers, credit bureaus, agents or government agencies in connection with issues related to fraud, credit or debt collection.  </p>  <p>You agree that B&amp;H may use personal information provided by you in order to conduct appropriate anti-fraud checks. Personal information that you provide may be disclosed to a credit reference or fraud prevention agency, which may keep a record of that information.  </p>  <p>B&amp;H also shares information with outside companies that perform services for B&amp;H. For example, when a customer signs up for our e-mail newsletters, B&amp;H will provide the customers e-mail address to third party e-mail distribution companies that transmit e-mails on behalf of B&amp;H. Your e-mail address will not be used by these companies for any purpose other than for the transmission of e-mails for B&amp;H.  </p>  <p>We may retain outside companies to assist us in managing our customer information database or to update and correct customer information for future marketing purposes. B&amp;H takes steps to ensure the confidentiality of your information and to make sure it is not used for other purposes.  </p>  <p>B&amp;H has carefully selected a few companies to assist us in better understanding how our customers use our site. We will place cookies on your computer to collect information. The information that is collected through these cookies tells us things, such as which search engine referred you, how you navigated around our site, which pages you browsed, what you purchased and what traffic is driven by banner ads and e-mails. The companies analyze the information they collect from our site and return it to us through a secure connection. We use this information to help us understand your interests in our site and how to better serve you. It also helps us provide you with more personalized product offerings.  </p>  <p>For more information about the companies with whom B&amp;H shares customer information, please <a href="http://www.bhphotovideo.com/bnh/controller/home?O=helpcenter&amp;A=getpage&amp;Q=contactForm.jsp&amp;destination=websupport">contact us</a>.</p>
+                        <p>B&amp;H maintains special relationships with a number of secure business partners. For your security or benefit, when you make a purchase, we may share information about you and the transaction with other companies for many reasons including verification, fraud prevention, credit card authorization, government compliance, and shipping purposes.  </p>  <p>B&amp;H may share account or other information when we are required by law (e.g., in response to subpoenas, court orders, etc.)  or to protect our interests or property. This may include sharing information with other companies, lawyers, credit bureaus, agents or government agencies in connection with issues related to fraud, credit or debt collection.  </p>  <p>You agree that B&amp;H may use personal information provided by you in order to conduct appropriate anti-fraud checks. Personal information that you provide may be disclosed to a credit reference or fraud prevention agency, which may keep a record of that information.  </p>  <p>B&amp;H also shares information with outside companies that perform services for B&amp;H. For example, when a customer signs up for our e-mail newsletters, B&amp;H will provide the customers e-mail address to third party e-mail distribution companies that transmit e-mails on behalf of B&amp;H. Your e-mail address will not be used by these companies for any purpose other than for the transmission of e-mails for B&amp;H.  </p>  <p>We may retain outside companies to assist us in managing our customer information database or to update and correct customer information for future marketing purposes. B&amp;H takes steps to ensure the confidentiality of your information and to make sure it is not used for other purposes.  </p>  <p>B&amp;H has carefully selected a few companies to assist us in better understanding how our customers use our site. We will place cookies on your computer to collect information. The information that is collected through these cookies tells us things, such as which search engine referred you, how you navigated around our site, which pages you browsed, what you purchased and what traffic is driven by banner ads and e-mails. The companies analyze the information they collect from our site and return it to us through a secure connection. We use this information to help us understand your interests in our site and how to better serve you. It also helps us provide you with more personalized product offerings.  </p>  <p>For more information about the companies with whom B&amp;H shares customer information, please <a href="http://www.bhphotovideo.com/bnh/controller/home?O=helpcenter&amp;A=getpage&amp;Q=contactForm.jsp&amp;destination=websupport">contact us</a>.</p>
                         
                         <span class="subTitle">BBBOnLine U.S./E.U. Safe Harbor Dispute Resolution Program:</span>
                         <p>In compliance with the US-EU and US-Swiss Safe Harbor Principles, B&amp;H commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should contact:</p>             <p> Legal Department<br>                B &amp; H Foto &amp; Electronics Corp.<br>                440 Ninth Avenue              <br>                New York, New York 10001              <br>                Phone: 212-239-7500              <br>                Web: <a href="http://www.bhphotovideo.com/">www.bhphotovideo.com</a><br>                E-mail: <a href="mailto:legal@bhphotovideo.com">legal@bhphotovideo.com</a></p>                                <p>B&amp;H has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed by B&amp;H, please visit the BBB EU SAFE HARBOR web site at <a href="http://www.bbb.org/us/safe-harbor-complaints">www.bbb.org/us/safe-harbor-complaints</a> for more information and to file a complaint.</p>  <p>B &amp; H Foto &amp; Electronics Corp. complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. B&amp;H has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view our certification page, please visit <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a></p>
@@ -1143,8 +984,6 @@ $(document).ready(function(){
 
 
 
-
-
 <div class="footer full-width" data-selenium="footer">
 	<!--start MSG bottom bar -->
 		
@@ -1152,7 +991,8 @@ $(document).ready(function(){
 	<div class="top blk-bar full-width c12 twelve" data-selenium="topFooter">
 		<ul class="page-width">
 			<li class="phone">
-				Sales: <strong>800.606.6969 </strong> 
+				Sales: 
+				<strong>800.606.6969 </strong> 
 				
 					or <strong>212.444.6615</strong>
 				
@@ -1213,11 +1053,11 @@ $(document).ready(function(){
 						</div>
 					</div>
 					<div class="square">
-						<a name="Footer-Why-Great Prices" target="greatprices" href="http://www.bhphotovideo.com/c/browse/Rebates-Promotions/ac/rebates/N/4090209567/promotionPage" data-selenium="signUpLink" style="background-position: 0 -602px;">
+						<a name="Footer-Why-Great Prices" target="greatprices" href="http://www.bhphotovideo.com/c/buy/rebates-promotions/ci/22144/N/4019732813" data-selenium="signUpLink" style="background-position: 0 -602px;">
 							<div class="img" style="background-position: 0 -602px;"></div>
 						</a>
-						<div class="msg">
-							Our extensive selection and business relationships allow us to make deals that we convert to savings for you. Your savings start with our low competitive prices and continue with the free shipping we offer on many popular items, and our pros prepare discounted product kits of solutions for your needs. Sign up for our e-mail newsletters to get the latest specials along with guides and videos by our experts.
+						<div class="msg greatPriceMsg">
+							Our extensive selection and business relationships allow us to make deals that we convert to savings for you. Your savings start with our low competitive prices and continue with the free shipping we offer on many popular items, and our pros prepare discounted product kits of solutions for your needs. Sign up for our e-mail newsletters to get the latest specials along with guides and videos by our experts.  <span class="MsgliveChat">B&amp;H - The lowest prices on the Web<a class="lChatLink" href="http://www.bhphotovideo.com/find/liveChat.jsp?cm_sp=Live`Chat-_-SearchFeedbk-_-Live~Chat" onclick="window.open(this.href, this.target, 'height=353,width=553,resizable=yes,scrollbars=no');" target="livechat">live chat</a></span>
 						</div>
 					</div>
 					<div class="square">
@@ -1228,6 +1068,15 @@ $(document).ready(function(){
 							Shopping with us from another country is as easy as shopping at home. Our website displays costs in your currency at the current rate of exchange, and you can pay all taxes and import fees through B&amp;H if you live in Canada, Brazil and the European Union, we guarantee the final price. Portuguese speakers enjoy a custom site in their language, and our multilingual experts speak your language when you visit our NYC SuperStore.
 						</div>
 					</div>
+					<div class="square">
+						<a name="Footer-Why-Nyc Prices" target="storepicup" href="http://www.bhphotovideo.com/find/HelpCenter/NYSuperStore08.jsp" data-selenium="storepicup" style="background-position: 0 -832px;">
+							<div class="img" style="background-position: 0 -832px;"></div>
+						</a>
+						<div class="msg">
+							Free pickup in our Superstore. 420 9th Ave. at 34th St. No more waiting for your shipment to come in when you can go to the store and pick it up yourself. Most orders will	be ready for pickup within 45 minutes if placed 1 hour before store closing.
+						</div>
+					</div>
+
 				</div>
 				<span class="nav prev" data-selenium="prev">Prev.</span>
 				<span class="nav next" data-selenium="next">Next.</span>
@@ -1278,6 +1127,7 @@ $(document).ready(function(){
 					<li><a name="Footer-Help-More_Help" data-selenium="moreHelp" href="http://www.bhphotovideo.com/find/HelpCenter/helpcenter.jsp" manual_cm_sp="Footer-_-Help-_-AllHelp" target="_self">All Help Topics</a></li>
 				</ul>
 			</div>
+			
 			<div class="column">
 				<h4 class="eighteen bold">Choose Currency</h4>
 				<ul>
@@ -1409,6 +1259,8 @@ $(document).ready(function(){
 					<li><a name="Footer-International-Customs" data-selenium="intlCustoms" href="http://www.bhphotovideo.com/find/HelpCenter/int-shippingRulesPolicies.jsp#Customs" manual_cm_sp="Footer-_-Internatnl-_-Customs" target="_self">Customs</a></li>
 				</ul>
 			</div>
+			
+			
 			<div class="column">
 				<h4 class="eighteen bold">Company Information</h4>
 				<ul>
@@ -1420,6 +1272,7 @@ $(document).ready(function(){
 					<li><a name="Footer-Company Information-Imaging_Partners" data-selenium="imagingPartners" href="http://www.bhphotovideo.com/find/partners.jsp" manual_cm_sp="Footer-_-Company`Info-_-Imaging'Partners" target="_self">Imaging Partners</a></li>
 					<li><a name="Footer-Company Information-Affiliates" data-selenium="infoAffiliates" href="http://www.bhphotovideo.com/find/affiliates.jsp" manual_cm_sp="Footer-_-Company`Info-_-AffiliatePgm" target="_self">Affiliate Program</a></li>
 					<li><a name="Footer-Company Information-Career_Opportunities" data-selenium="careerOpportunities" href="/careers/index.htm" manual_cm_sp="Footer-_-Company`Info-_-CareerOps" target="_self">Career Opportunities</a></li>
+					<li><a name="Footer-Company Information-Supplier_Diversity_Program" data-selenium="SupplierDPro" href="http://www.bhphotovideo.com/find/HelpCenter/Supplier_Diversity_Program.jsp" manual_cm_sp="Footer-_-Company`Info-_-SupplierDPro" target="_self">Supplier Diversity Program</a></li>
 				</ul>
 			</div>
 			<div class="column last">
@@ -1431,7 +1284,7 @@ $(document).ready(function(){
 					
 						<li class="footGiftLink imaged-link"><a name="Footer-Resources-Gift Card" data-selenium="resourceGiftCard" href="http://www.bhphotovideo.com/find/giftCard.jsp" manual_cm_sp="Footer-_-BH`Resrces-_-BH`GiftCrd" target="_self">B&amp;H Gift Card</a></li>
 				    
-					<li class="footCatalogLink  imaged-link"><a name="Footer-Resources-Interactive Catalog" data-selenium="interactiveCatalog" href="http://www.bhphotovideo.com/find/Catalog_frameset.jsp" manual_cm_sp="Footer-_-BH`Resrces-_-IntractvCatlg" title="Interactive Catalog">Browse our Winter 2015 Interactive Catalog</a></li>
+					<li class="footCatalogLink  imaged-link"><a name="Footer-Resources-Interactive Catalog" data-selenium="interactiveCatalog" href="http://www.bhphotovideo.com/find/Catalog_frameset.jsp" manual_cm_sp="Footer-_-BH`Resrces-_-IntractvCatlg" title="Interactive Catalog">Browse our Summer 2015 Interactive Catalog</a></li>
 					<li class="footFeedbackLink  imaged-link">
 						
 							
@@ -1505,7 +1358,7 @@ $(document).ready(function(){
 		<div class="page-width  c2 elevn clearfix">
 			<div class="left">
 				<strong class="twelve"> 
-© 2000-2014 B &amp; H Foto &amp; Electronics Corp.</strong> <a name="Footer-NYSuperStore" data-selenium="nySuperStore" href="http://www.bhphotovideo.com/find/HelpCenter/NYSuperStore08.jsp" manual_cm_sp="Footer-_-Company`Info-_-NYSuperstore" target="_self">420 9th Ave, New York, NY 10001</a><br>
+© 2000-2015 B &amp; H Foto &amp; Electronics Corp.</strong> <a name="Footer-NYSuperStore" data-selenium="nySuperStore" href="http://www.bhphotovideo.com/find/HelpCenter/NYSuperStore08.jsp" manual_cm_sp="Footer-_-Company`Info-_-NYSuperstore" target="_self">420 9th Ave, New York, NY 10001</a><br>
 				<a name="Footer-Privacy_Security" href="http://www.bhphotovideo.com/find/HelpCenter/PrivacySecurity.jsp" data-selenium="privacyStatement" target="_self">Privacy &amp; Security</a>
 				<a name="Footer-User_Agreement_Disclaimer" href="http://www.bhphotovideo.com/find/HelpCenter/UserAgreement.jsp" data-selenium="agreementDisclaimer" target="_self">User Agreement &amp; Disclaimer</a>
 	            <a name="Footer-User_Export_Policy" href="http://www.bhphotovideo.com/find/HelpCenter/UserAgreement.jsp#exportPolicy" target="_self" data-selenium="exportPolicy">Export Policy</a>
@@ -1519,26 +1372,37 @@ $(document).ready(function(){
 	</div>
 </div>
 
-
 <div id="onePopupLayer" class="popupLayer"><div class="popupLayerHeader"><h2></h2><div class="close">Close</div></div><div class="popLayerMainContent"></div><div id="hiddenAjaxField" style="display:none;"><div id="ajaxForms"></div></div><div id="subLayers"></div></div>
 
-<div id="atcAtwLayer" class="popupLayer" data-selenium="addToCartWishlist"><div class="popupLayerHeader"><h2></h2><div class="close">Close</div></div><div id="atcAtwLayerMainContent" class="popLayerMainContent"></div></div>
+<div id="atcAtwLayer" class="popupLayer" data-selenium="addToCartWishlist"><div class="popupLayerHeader"><h2></h2><div class="close">Close</div></div><div id="atcAtwLayerMainContent" class="popLayerMainContent"></div><div id="subLayers"></div></div>
 <div id="atwAtwLayer" class="popupLayer" data-selenium="addToCartWishlist"><div class="popupLayerHeader WishListHeader"><h2></h2><div class="close">Close</div></div><div id="atwAtwLayerMainContent" class="popLayerMainContent"></div></div>
-<div align="center" id="ajaxLoadingImg" class="ajaxLoadingImg" style="display:none;width:32px;height:32px;padding:0;background-color:transparent;margin:0;padding:0;"><img src="/images/loading.gif"></div>
+<div align="center" id="ajaxLoadingImg" class="ajaxLoadingImg" style="display:none;width:32px;height:32px;padding:0;background-color:transparent;margin:0;padding:0;"><img alt="loading" src="/images/loading.gif"></div>
 
 <noscript>
 	<h2 id="noScriptLayer">
     	Please enable javascript for your best B&amp;H experience.
     </h2>
 </noscript>
-
 <a id="hazScript" href="http://static.bhphoto.com/images/weCanHazJS.gif" style="display:none;"></a>
 
 <!--DFF (Affiliate program)-->
 
 
-<!--Kowabanga (Affiliate program)-->
 
+
+
+<script>
+if(window.lazyLoad){
+	lazyLoad.lazyRunJs(function(){
+		if(!window.$)return;
+		window.kbId =  $.cookie("kbId");
+		$.removeCookie("kbId",{domain:".bhphotovideo.com",path:"/"})
+		if(window.kbId){
+			lazyLoad.js("/FrameWork/referdetect.js");
+		}
+	});
+}
+</script>
 
 <!-- FetchBackOptOutPixel -->
 
@@ -1574,7 +1438,7 @@ function cormetricsRunScripts(cb){
 		
 			cormetricsRunScripts();
 			
-		           	var pageId='MAIN:Static:PrivacySecurity.jsp';var categoryId='MAIN:Static'; cmCreatePageviewTag(pageId,categoryId,null,null,null,'[---][---][---][---][---][---][---][---]','[---][---][---][---][---][---][---][---]','[Static~NAV][E][B&H-Regular][---][---][---][---][---][---][---]','[59730189271420047613034][nN11Jk5XD7Jbd7T9]',null,null);
+		           	var pageId='MAIN:Static:PrivacySecurity.jsp';var categoryId='MAIN:Static'; cmCreatePageviewTag(pageId,categoryId,null,null,null,'[---][---][---][---][---][---][---][---]','[---][---][---][---][---][---][---][---]','[Static~NAV][E][B&H-Regular][---][---][---][---][---][---][---]','[68420360101433848527151][NNRkV2QWBl1bDpf2]',null,null);
                     function delete_cookie(name)
                     {
 	                  document.cookie = name + '=; expires=Thu, 01 Jan 1970 00:00:00 GMT; domain=.bhphotovideo.com; path=/';
@@ -1603,18 +1467,49 @@ function cormetricsRunScripts(cb){
   
 
 
+<!-- Begin DataLayer  -->
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+var dlo =
+          { 
+		    
+            portal: 'MAIN',
+            page:   '',
+            user:    {
+		    	        bi: null
+		    	     },
+            product: {
+            	         category: '',
+            	         sku     : '',
+            	         source  : ''
+                     }
+          
+          
+          
+          
+          }; 
+          
+          
+</script>          
+<!-- End DataLayer  -->
+
+
 	
 		
 
 
 
-
-
-	
 	
 		
 			<script>
-				lazyLoad.lazyJs('http://www.bhphotovideo.com/find/javascripts.jsp?files=tealeaf/tealeaf.min.js&v=20141130a');
+				lazyLoad.lazyJs('http://www.bhphotovideo.com/find/javascripts.jsp?files=tealeaf/tealeaf.min.js&min=Y&v=20150604a');
 			</script>			
 		
 	
