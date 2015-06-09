@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotcams.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118112642id_/http%3A//www.hotcams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotcams.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610005723id_/http%3A//www.hotcams.com/privacy.html%3F) for the most accurate reproduction.*
 
 # Hotcams - Privacy Policy
 
@@ -50,4 +50,4 @@ The address for correspondence by post is
 ICF Technology, Inc.  
 PO Box 21508  
 Seattle, WA 98111  
-USA 
+USA
