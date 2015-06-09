@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iliketoquote.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702153312id_/http%3A//www.iliketoquote.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iliketoquote.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610000959id_/http%3A//www.iliketoquote.com/privacy.php) for the most accurate reproduction.*
 
 # Positive Quotes, Flirty Quotes, Facebook Quotes, Friendship Quotes
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at support@iliketoquote.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at support@iliketoquote.com. 
 
 At www.iliketoquote.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.iliketoquote.com and how it is used. 
 
