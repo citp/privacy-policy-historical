@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the symplur.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128085957id_/http%3A//www.symplur.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symplur.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609202904id_/http%3A//www.symplur.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Privacy Policy
 
 We respect the right to privacy of all visitors to our website.  We do not collect information that would personally identify you unless you choose to provide it. The personal information that you submit is shared only with those people in our organization who need this information to respond to your question or request. Information submitted through our online forms may be collected to ensure technical functionality. It will also be utilized to address any inappropriate use of our website. We do not save personal information to use for other purposes, nor do we provide it to any other organization.
 
