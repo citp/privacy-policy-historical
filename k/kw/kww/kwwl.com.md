@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kwwl.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127012040id_/http%3A//www.kwwl.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwwl.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610010417id_/http%3A//www.kwwl.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - KWWL - Eastern Iowa Breaking News, Weather, Closings
 
