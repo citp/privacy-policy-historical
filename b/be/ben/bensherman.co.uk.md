@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bensherman.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105254id_/http%3A//www.bensherman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bensherman.co.uk privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610012139id_/http%3A//www.bensherman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ben Sherman
 
@@ -48,6 +48,8 @@ We may collect and process the following data about you:
 ## Cookies
 
 We may obtain information about your general internet usage by using a cookie file which is stored on your browser or the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. Some of the cookies we use are essential for the site to operate and, in particular, to allow you to shop from our site. Please see our [Cookies Policy](https://web.archive.org/terms-and-conditions-footer) for further details.
+
+We use first & third party tracking technology that allows us to collect and store data on which products users have viewed on site. Our Partner then uses the collected information to add personalised products into our emails making them more personalised for subscribers. 
 
 * * *
 
