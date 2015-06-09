@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the minecraft-server.net privacy policy that was archived on 2014-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141005033449id_/http%3A//minecraft-server.net/refundandprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraft-server.net privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609225352id_/http%3A//minecraft-server.net/privacy) for the most accurate reproduction.*
 
-# Refund and Privacy Policies - Minecraft Server List
-
-### Sales and subscriptions
-
-Due to the nature of are purchases running (primarily) on a weekly basis, all sales are final. Under no circumstance any refunds refunds will be given. If any problems occur with a payment please contact us on support@minecraft-server.net at which we will help you though the process. 
+# Refund and Privacy Policies | Minecraft Server List
 
 ### General
 
@@ -36,6 +32,6 @@ The full extent of the personal data we hold on you is displayed in the Administ
 
 ### Our details
 
-The contact details of our Data Protection Compliance Officer are: Ryan Herman support@minecraft-server.net 
+The contact details of our Data Protection Compliance Officer are: Ryan Herman support@minecraft-server.net
 
 If you have any enquiry or concern about our Privacy Policy, or the way we are handling your personal data, please contact us at the address above.
