@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bhphotovideo.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231175847id_/http%3A//www.bhphotovideo.com/find/HelpCenter/PrivacySecurity.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhphotovideo.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609114038id_/http%3A//www.bhphotovideo.com/find/HelpCenter/PrivacySecurity.jsp) for the most accurate reproduction.*
 
 # Privacy and Security | B&H Photo Video
 
 Security:
 
-Note: The following only applies to B&H's main website ([www.bhphotovideo.com](http://www.bhphotovideo.com/)) but not to our blog "B&H Explora" ([www.bhphotovideo.com/explora](http://www.bhphotovideo.com/explora)): The security of your personal information is very important to us. In an effort to protect your personal information, we use Secure Sockets Layer (SSL) technology with 128 bit encryption. If your browser supports SSL (most current browsers do), it will automatically encrypt the information you provide to us on the secure pages on our site, before sending it over the Internet.
+Note: The following only applies to B&H's main website ([www.bhphotovideo.com](http://www.bhphotovideo.com/)) but not to our blog "B&H Explora" ([www.bhphotovideo.com/explora](http://www.bhphotovideo.com/explora)): The security of your personal information is very important to us. In an effort to protect your personal information, we use Secure Sockets Layer (SSL) technology with 256 bit encryption. If your browser supports SSL (most current browsers do), it will automatically encrypt the information you provide to us on the secure pages on our site, before sending it over the Internet.
 
 B&H has obtained a digital certificate from Cybertrust, a leading provider of Internet trust services. B&H's website is also tested and certified daily by ScanAlert to receive its Hacker Safe Certification which ensures that the website passes the FBI/SANS Internet Security Test.
 
@@ -44,7 +44,7 @@ Our site contains links to manufacturers, and other related sites for your benef
 
 Relationships/Sharing Information:
 
-B&H maintains special relationships with a number of secure business partners. For your security or benefit, when you make a purchase, we may share information about you and the transaction with other companies for many reasons including verification, fraud prevention, credit card authorization, and shipping purposes. 
+B&H maintains special relationships with a number of secure business partners. For your security or benefit, when you make a purchase, we may share information about you and the transaction with other companies for many reasons including verification, fraud prevention, credit card authorization, government compliance, and shipping purposes. 
 
 B&H may share account or other information when we are required by law (e.g., in response to subpoenas, court orders, etc.) or to protect our interests or property. This may include sharing information with other companies, lawyers, credit bureaus, agents or government agencies in connection with issues related to fraud, credit or debt collection. 
 
