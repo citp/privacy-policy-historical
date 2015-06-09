@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breckenridge.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206094025id_/http%3A//www.breckenridge.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breckenridge.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610012025id_/http%3A//www.breckenridge.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | Breckenridge.com
 
