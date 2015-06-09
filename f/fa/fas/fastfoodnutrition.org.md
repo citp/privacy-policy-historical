@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastfoodnutrition.org privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929193438id_/http%3A//www.fastfoodnutrition.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastfoodnutrition.org privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610000757id_/http%3A//www.fastfoodnutrition.org/privacy.php) for the most accurate reproduction.*
 
 # - Fast Food Nutrition Facts
 
