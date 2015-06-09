@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkingphones.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209063055id_/http%3A//www.thinkingphones.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkingphones.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610000519id_/http%3A//thinkingphones.com/privacy) for the most accurate reproduction.*
 
 # Privacy - ThinkingPhones
 
@@ -46,4 +46,4 @@ By using our website, you consent to the collection and use of information by Th
 
 [×]( "Close Bar")
 
-Breaking News: ThinkingPhones Secures $56.7 Million in Funding [Read more...](http://thinkingphones.com/resource-post/game-changer-mobile-enterprise-communications-thinkingphones-secures-56-7-million-funding/)
+WEBINAR: Unified Communications Strategy with Forrester Analyst Art Schoeller - June 18 - [REGISTER NOW](http://info.thinkingphones.com/ucmissinglink?utm_campaign=06_18_Webinar_ForresterSchoeller&utm_medium=boombar&utm_source=thinkingphones)
