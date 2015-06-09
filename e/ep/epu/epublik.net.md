@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the epublik.net privacy policy that was archived on 2014-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140830103441id_/http%3A//epublik.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epublik.net privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609052732id_/http%3A//epublik.net/privacy) for the most accurate reproduction.*
 
-# Privacy - EPUBLIK
+# Privacy | EPUBLIK
 
 This policy explains how Epublik will handle the personal information you give us, why we collect such information and what we learn about you from your visit to our website.
 
@@ -14,7 +14,7 @@ On certain areas of this website, we may provide links to third party websites. 
 
 **Access Your Information**
 
-You have the right to see the information we hold about you and to get mistakes corrected. If at any time you wish to update or correct any personally identifiable information you have provided, or you no longer wish us to collect, use or disclose any personally identifiable information for the purposes described below, please do not hesitate to [contact us](http://epublik.net/contact-us "contact us") using the details given within the website.  
+You have the right to see the information we hold about you and to get mistakes corrected. If at any time you wish to update or correct any personally identifiable information you have provided, or you no longer wish us to collect, use or disclose any personally identifiable information for the purposes described below, please do not hesitate to contact us using the details given within the website.  
 Information collected and the purposes for which it is collected
 
 We collect personal information on our users in two ways:
