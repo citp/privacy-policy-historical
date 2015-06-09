@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carpages.co.uk privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007133021id_/http%3A//www.carpages.co.uk/%40about/legal.asp%23cookie) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carpages.co.uk privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609161310id_/http%3A//carpages.co.uk/%40about/legal.asp%23cookie) for the most accurate reproduction.*
 
 # Contact
 
