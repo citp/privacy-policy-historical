@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blokube.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060701id_/http%3A//www.blokube.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blokube.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609221118id_/http%3A//www.blokube.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blokube
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email using our [contact page](http://www.blokube.com/contact-us).   
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email using our [contact page](mailto:admin@blokube.com).   
 At www.blokube.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.blokube.com and how it is used. 
 
 ### Log Files
