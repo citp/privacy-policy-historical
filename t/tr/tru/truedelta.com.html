@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the truedelta.com privacy policy that was archived on 2014-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122033909id_/http%3A//www.truedelta.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the truedelta.com privacy policy that was archived on 2015-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150609231610id_/http%3A//www.truedelta.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]--><head>
   <meta charset="utf-8">
@@ -29,13 +29,13 @@
 	<link rel="author" href="https://plus.google.com/100497186243012366013">
 	<link rel="meta" type="application/rdf+xml" title="Dublin" href="http://www.truedelta.com/dublin.rdf">
 	<link rel="search" type="application/opensearchdescription+xml" title="Search TrueDelta" href="http://truedelta.com/OpenSearch.xml">
- <link type="text/css" rel="stylesheet" href="http://www.truedelta.com/css/reset.css?v=2">
-  <link type="text/css" rel="stylesheet" media="screen" href="http://www.truedelta.com/css/base.css?v=2">
   <!--[if lt IE 9]>
 <link type="text/css" rel="stylesheet" media="screen" href="http://www.truedelta.com/css/ie8.css?v=2">
 <![endif]-->
   <link type="text/css" rel="stylesheet" href="http://www.truedelta.com/css/media.css?v=2">
-	<link type="text/css" rel="stylesheet" media="handheld" href="http://www.truedelta.com/css/handheld.css?v=2">
+	<link type="text/css" rel="stylesheet" media="handheld" href="http://www.truedelta.com/css/handheld.css?v=2">	
+ <link type="text/css" rel="stylesheet" href="http://www.truedelta.com/css/reset.css?v=2">
+  <link type="text/css" rel="stylesheet" media="screen" href="http://www.truedelta.com/css/base.css?v=2">
 	<link href="https://plus.google.com/117293642738369692713" rel="publisher">
 <link rel="shortcut icon" href="http://www.truedelta.com/favicon.ico" type="image/x-icon">
 <link rel="apple-touch-icon" href="http://www.truedelta.com/apple-touch-icon.png">
@@ -97,15 +97,17 @@
 				<table>
 					<tbody><tr>
 
-						<td>9</td>
-
-						<td>6</td>
-
 						<td>1</td>
 
-						<td>6</td>
+						<td>0</td>
 
-						<td>6</td>
+						<td>0</td>
+
+						<td>0</td>
+
+						<td>4</td>
+
+						<td>7</td>
 					</tr>
 				</tbody></table>
 			</div>
@@ -213,10 +215,10 @@
 					</div>
 			</div>
 				<aside id="internal-sidebar">
-								<div id="internal-join-alt">
+								<div id="internal-join">
 					<h2>Join TrueDelta</h2>
-					<p>At TrueDelta 96,000+ car owners are sharing real-world car information. Join us, help improve our results, <b>earn free access</b>.</p>
-					<a class="ribbon" onclick="return store_join_click(6, 'privacy.php')" href="http://www.truedelta.com/join"><span>Join Now for FREE</span></a>
+					<p><b>100,000+</b> car owners are already sharing real-world car information. Join us to <b>earn free access</b>.</p>
+					<a class="ribbon" onclick="return store_join_click(5, 'privacy.php')" href="http://www.truedelta.com/join"><span>Join Now</span></a>
 				</div>
 				<div class="fb-like-box" data-href="http://www.facebook.com/truedelta" data-width="236" data-show-faces="true" data-stream="true" data-header="true"></div>
 			</aside>		
@@ -233,7 +235,7 @@
 					<li><a href="http://truedelta.simplecarshopping.com/NewCar">Get a Quote</a></li>
 					<li><a href="http://www.truedelta.com/xml/review_rss.xml">RSS Feed</a></li>
 				</ul>
-			<p>© 2004 - 2014 TrueDelta. All rights reserved. <a href="http://www.truedelta.com/privacy-policy">Privacy Policy</a> | <a href="http://www.truedelta.com/terms.php">Terms and Conditions</a> | <a href="http://www.truedelta.com/copyright.php">Copyright Policy</a> | <a href="https://plus.google.com/u/0/100497186243012366013" rel="author">Michael at Google+</a></p>
+			<p>© 2004 - 2015 TrueDelta. All rights reserved. <a href="http://www.truedelta.com/privacy-policy">Privacy Policy</a> | <a href="http://www.truedelta.com/terms.php">Terms and Conditions</a> | <a href="http://www.truedelta.com/copyright.php">Copyright Policy</a> | <a href="https://plus.google.com/u/0/100497186243012366013" rel="author">Michael at Google+</a></p>
 			<p>TrueDelta is not affiliated with any car manufacturer or their trademarks.</p>
 			</nav>
 		</footer>
@@ -259,7 +261,7 @@
 <![endif]-->
 
 
-<script>
+<script type="text/javascript">
 	$(document).ready(function() 
 	{
 		base();
@@ -268,18 +270,34 @@
 		  $('body').toggleClass('active');
 		  e.preventDefault();
 		});
-
-		function isScrolledTo(elem) 
+		$('#compare-year').hide();
+		populateQSBrand();
+		$('#compare-report').change(function()
 		{
-		  var docViewTop = $(window).scrollTop(); //num of pixels hidden above current screen
-		  var docViewBottom = docViewTop + $(window).height();
-		
-		  var elemTop = $(elem).offset().top; //num of pixels above the elem
-		  var elemBottom = elemTop + $(elem).height();
-		
-		  return ((elemTop <= docViewTop));
-		}
-   
+			populateQSBrand();
+		});
+    populateQSModel();
+    $('#compare-make').change(function() 
+    {
+       populateQSModel();
+    });
+     $("#show-search").hide();
+    
+    $("#qs-toggle").click(function(evt)
+    {
+    	var qsText = $("#qs-toggle").text();
+    	if(qsText == "expand")
+    	{
+    		$("#show-search").show();
+    		$("#qs-toggle").text("hide");
+    	}
+    	else
+    	{
+    		$("#show-search").hide();
+    		$("#qs-toggle").text("expand");
+    	}    		
+    	evt.preventDefault();
+    });  
    	if($(window).width() > 480)
    	{
 			var header_nav = $("#header-nav");
@@ -337,6 +355,185 @@
 		  }
 		}
 	});
+	
+		function populateQSBrand()
+		{
+			var load_php;
+			
+			var query_report = $("#compare-report").val();
+			if(query_report != "")
+			{
+				if((query_report == 3) || (query_report == 8) || (query_report == 9))
+				{
+					$("#compare-year").show();
+				}
+				else
+				{
+					$("#compare-year").hide();
+				}				
+				
+				if((query_report == 1) || (query_report == 2)) // reliability, lemon odds
+				{
+					load_php = "inc/add_brands_reliability.php";
+				}
+				else
+				{
+					if(query_report == 6)
+					{
+						load_php = "inc/add_brands_mk.php";
+					}
+					else
+					{
+						if(query_report == 7)
+						{
+							load_php = "inc/add_brands_photo.php";
+						}
+						else
+						{
+							if((query_report == 8) || (query_report == 9))
+								load_php = "inc/add_brands_specs.php";
+							else
+								load_php = "inc/add_brands_rh.php";
+						}
+					}
+				}
+
+				load_php = "http://www.truedelta.com/" + load_php;
+				$.getJSON(load_php, {report: $("#compare-report").val()}, function(data)
+				{
+					var select = $('#compare-make');
+					var options = select.attr('options');
+					$('option', select).remove();
+					options[options.length] = new Option("Select brand", "");
+					
+					$.each(data, function(index, array)
+					{
+						options[options.length] = new Option(array["brand"], array["brand_code"]);
+					});
+				});
+			}
+		}
+		
+		function store_quickstart()
+		{
+			var year = $("#compare-year").val();
+			var query_report = $("#compare-report").val();
+			var brand_id = $("#compare-make").val();
+			var model_id = $('#compare-model').val();
+			
+			$.ajax
+			(
+				{
+					url: "http://www.truedelta.com/inc/store_quickstart_click.php",
+					dataType: 'json',
+					async: false,
+					data: {brand_code: brand_id, model_code: model_id, model_year: year, page: query_report},
+					success: function(data)
+					{
+						var return_value=data[0].return_value;
+					}
+				}
+			);
+		}
+			
+		function populateQSModel() 
+		{
+			var model_year;
+			
+			model_year = $("#compare-year").val();
+			
+			if($("#compare-make").val() != "")
+			{
+				var load_php;
+				var query_report = $("#compare-report").val();
+				if(query_report != "")
+				{
+					if(query_report == 1) // reliability
+					{
+						load_php = "inc/add_models_reliability.php";
+					}
+					else
+					{
+						if(query_report == 2)
+						{
+							load_php = "inc/add_models_lemon.php";
+						}
+						else
+						{
+							if(query_report == 3)
+							{
+								if($("#compare-year").val() == "")
+								{
+									return -1;
+								}
+								load_php = "inc/add_models_rh.php";
+							}
+							else
+							{
+								if(query_report == 4)
+								{
+									load_php = "inc/add_models_for_fuel_econ.php";
+								}
+								else
+								{
+									if(query_report == 6)
+									{
+										load_php = "inc/add_models_mk.php";
+										model_year = "";
+									}
+									else
+									{
+										if(query_report == 7)
+										{
+											load_php = "inc/add_models_photo.php";
+										}
+										else
+										{
+											if((query_report == 8) || (query_report == 9))
+											{
+												load_php = "inc/add_models_specs.php";
+											}
+											else
+											{
+												load_php = "inc/add_models.php";
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+
+				load_php = "http://www.truedelta.com/" + load_php;
+				$("#submit_query").removeAttr("disabled");
+				$("#submit_query").attr("style", "background:#ffab00");
+				
+				$.getJSON(load_php, {brand: $("#compare-make").val(), year: model_year, rp: query_report}, function(data) 
+		    {	    	
+	        var select = $('#compare-model');
+	        var options = select.attr('options');
+	        $('option', select).remove();
+	 				options[options.length] = new Option("Select model", "");
+	 				
+	      	$.each(data, function(index, array) 
+	      	{
+	          options[options.length] = new Option(array["model"], array["model_code"]);
+	     		});
+	    	});
+			}
+		}
+
+		function isScrolledTo(elem) 
+		{
+		  var docViewTop = $(window).scrollTop(); //num of pixels hidden above current screen
+		  var docViewBottom = docViewTop + $(window).height();
+		
+		  var elemTop = $(elem).offset().top; //num of pixels above the elem
+		  var elemBottom = elemTop + $(elem).height();
+		
+		  return ((elemTop <= docViewTop));
+		}
 </script>
 
 </div></body></html>
