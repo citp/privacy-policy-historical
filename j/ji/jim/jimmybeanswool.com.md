@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the jimmybeanswool.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122163106id_/http%3A//www.jimmybeanswool.com/secure-html/onlineec/privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimmybeanswool.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610011607id_/http%3A//www.jimmybeanswool.com/secure-html/onlineec/privacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy at Jimmy Beans Wool
 
----  
 | 
 
-|   
----  
-Jimmy Beans Wool takes your privacy seriously. Please read the following to learn about our privacy policy.  
-   
-  
+Jimmy Beans Wool takes your privacy seriously. Please read the following to learn about our privacy policy. 
+
+If you have questions or suggestions, please [contact us](https://web.archive.org/web/20150610011607id_/http%3A//www.jimmybeanswool.com/contactus.asp). 
+
+| 
+
 ### What this Privacy Policy Covers  
+  
+---  
   
   * This policy covers how Jimmy Beans Wool treats personal information that we collect and receive, including information related to your past use of Jimmy Beans Wool products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
   * This policy does not apply to the practices of companies that Jimmy Beans Wool does not own or control, or to people that Jimmy Beans Wool does not employ or manage. 
@@ -40,14 +42,14 @@ Jimmy Beans Wool does not rent, sell, or share personal information about you wi
   
   * If you have an account, you can [log in to to your account](https://www.jimmybeanswool.com/secure-html/onlineec/accountLogin.asp) and edit your personal options. These changes are effective on the site immediately.
   * If you don't have an account, you can [update your notification options](http://www.jimmybeanswool.com/notificationsUpdate.asp) for all of our email lists. These changes are effective on the site immediately.
-  * You can request that we delete your personal information by [contacting us](https://web.archive.org/web/20141122163106id_/http%3A//www.jimmybeanswool.com/contactUs.asp). Please include your name and order number, if the order number is available.
+  * You can request that we delete your personal information by [contacting us](https://web.archive.org/web/20150610011607id_/http%3A//www.jimmybeanswool.com/contactUs.asp). Please include your name and order number, if the order number is available.
 
   
   
 ### Confidentiality and Security  
   
   * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
-  * In certain areas, such as the shopping cart and payment information entry pages, Jimmy Beans Wool uses industry-standard SSL-encryption to protect data transmissions. We also implement a variety of other security measures to ensure your private information stays private. Please see our [frequently asked questions](https://web.archive.org/web/20141122163106id_/http%3A//www.jimmybeanswool.com/faqs.asp) for more information.
+  * In certain areas, such as the shopping cart and payment information entry pages, Jimmy Beans Wool uses industry-standard SSL-encryption to protect data transmissions. We also implement a variety of other security measures to ensure your private information stays private. Please see our [frequently asked questions](https://web.archive.org/web/20150610011607id_/http%3A//www.jimmybeanswool.com/faqs.asp) for more information.
 
   
   
@@ -56,12 +58,5 @@ Jimmy Beans Wool does not rent, sell, or share personal information about you wi
   * Jimmy Beans Wool may update this policy. We will notify you about significant changes in the way we treat personal information by placing a notice on our site.
 
   
-  
-### Questions and Suggestions  
-  
-  * If you have questions or suggestions, please [contact us](https://web.archive.org/web/20141122163106id_/http%3A//www.jimmybeanswool.com/contactus.asp). 
-
-  
-  
-| We provide Endless Possibilities® for you including [yarn](http://www.jimmybeanswool.com/secure-html/onlineec/yarnsHome.asp), [knitting gifts](http://www.jimmybeanswool.com/details/gifts/default.asp), [needles](http://www.jimmybeanswool.com/secure-html/onlineec/needlesHome.asp), [kits](http://www.jimmybeanswool.com/secure-html/onlineec/kitsHome.asp), [sale yarn](http://www.jimmybeanswool.com/secure-html/onlineec/saleHome.asp?pcID=21), [free knitting patterns](http://www.jimmybeanswool.com/freePatternHome.asp), and more!  
+| We provide Endless Possibilities® for you including [yarn](http://www.jimmybeanswool.com/secure-html/onlineec/yarnsHome.asp), [knitting gifts](http://www.jimmybeanswool.com/secure-html/onlineec/cornerProductsByAttr.asp?caID=1), [needles](http://www.jimmybeanswool.com/secure-html/onlineec/needlesHome.asp), [kits](http://www.jimmybeanswool.com/secure-html/onlineec/kitsHome.asp), [sale yarn](http://www.jimmybeanswool.com/secure-html/onlineec/saleHome.asp?pcID=21), [free knitting patterns](http://www.jimmybeanswool.com/freePatternHome.asp), and more!  
 ---
