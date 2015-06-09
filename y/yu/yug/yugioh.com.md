@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yugioh.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123164726id_/http%3A//www.yugioh.com/news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yugioh.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609231800id_/http%3A//www.yugioh.com/news/privacy-policy) for the most accurate reproduction.*
 
 # Yu-Gi-Oh! News : Privacy Policy
 
@@ -43,7 +43,7 @@ When linking with those social networking platforms or plugins through yugioh.co
 
 We use video players, and other tools and services, provided by Hulu, Crunchyroll and others to provide content on our Website. Please note that use of these tools and services from Hulu, Crunchyroll and/or other parties are subject to the “terms of use” and privacy policy of those service providers. Our Website may embed content, such as video players and games, from third parties, which are governed by the content provider's privacy policy. It is recommended that you review each content provider's privacy policy.
 
-Our Website uses Crunchyroll to service our Users outside of the United States. Crunchyroll requires registration. International Users will be subject to Crunchyroll’s Privacy Policy as determined by specified Country. We strongly recommend that you familiarize yourself with their policies which can be viewed at http://www.crunchyroll.com/privacy. 
+Our Website uses Crunchyroll to service our Users outside of the United States. Crunchyroll may require registration. International Users will be subject to Crunchyroll’s Privacy Policy as determined by specified Country. We strongly recommend that you familiarize yourself with their policies which can be viewed at http://www.crunchyroll.com/privacy. 
 
 Hulu services our Users in the United States. We strongly recommend that you familiarize yourself with their policies which can be viewed at http://www.hulu.com/privacy.
 
@@ -115,4 +115,4 @@ Any questions, concerns or comments regarding the Privacy Policy should be direc
 
 © 2013 4K Media Inc. All Rights Reserved. 
 
-This Privacy Policy was posted on March 3, 2014.
+This Privacy Policy was posted on January 5, 2015.
