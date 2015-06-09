@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topsocialbookmarkseo.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216050235id_/http%3A//www.topsocialbookmarkseo.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topsocialbookmarkseo.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610010926id_/http%3A//www.topsocialbookmarkseo.com/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies › TopSocialbookmarkSEO.com : Most Popular Social Bookmarking Website Posting, Manual Bookmark Submission & Top Social Bookmarking | Free Service For Backlinks, Traffic, Link Building & Social Bookmarking Software Services
 
