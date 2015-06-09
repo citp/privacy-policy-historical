@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megaplextheatres.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223025346id_/http%3A//www.megaplextheatres.com/D-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megaplextheatres.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609095011id_/http%3A//www.megaplextheatres.com/D-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,7 +62,7 @@ We will not disclose personally identifiable information we collect from you to 
 
 **4\. Use of Web Beacons or GIF files**
 
-pThe Larry H. Miller Group of Companies Web pages may contain electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow the Larry H Miller Group of Companies to count users who have visited those pages and to deliver co-branded services.  The Larry H. Miller Group of Companies may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
+The Larry H. Miller Group of Companies Web pages may contain electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow the Larry H Miller Group of Companies to count users who have visited those pages and to deliver co-branded services.  The Larry H. Miller Group of Companies may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
 
 Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications.  These Web beacons may be used by these service providers to place a persistent cookie on your computer.  This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site.  The Larry H. Miller Group of Companies prohibits Web beacons from being used to collect or access your personal information.
 
@@ -79,7 +79,7 @@ If you have questions regarding our Privacy Statement, its implementation, failu
 
 Megaplex Theatres  
 **Attention:   Privacy Statement Personnel**  
-9400 S. State Street  
+9295 S. State Street  
 Sandy, Utah 84070
 
-The Larry H Miller Group of Companies will use commercially reasonable efforts to promptly respond and resolve any problem or question[.](https://web.archive.org/giftcards)
+The Larry H Miller Group of Companies will use commercially reasonable efforts to promptly respond and resolve any problem or question
