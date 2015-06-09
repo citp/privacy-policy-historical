@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the eatwisconsincheese.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124001507id_/http%3A//www.eatwisconsincheese.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatwisconsincheese.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235511id_/http%3A//www.eatwisconsincheese.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## INTRODUCTION
 
-The policies below are intended to clearly inform our users about our privacy practices and procedures and are applicable to EatWisconsinCheese.com (previously named WisDairy.com) and WMMB.com. As part of the registration, operation and customization features of EatWisconsinCheese.com, we gather certain types of information from users. We would like to explain the types of information we gather, what we do with them, and how to correct or change the information. Please review this privacy policy when you enter the website to keep aware of any policy changes. 
+The policies below are intended to clearly inform our users about our privacy practices and procedures and are applicable to EatWisconsinCheese.com   
+(previously named WisDairy.com), DairyDoingMore.org, EatCurds.com, WMMB.com, WisconsinDairyCouncil.com, WisconsinCheeseRetail.com and WisconsinCheeseFoodservice.com.
+
+As part of the registration, operation and customization features of EatWisconsinCheese.com, we gather certain types of information from users. We would like to explain the types of information we gather, what we do with them, and how to correct or change the information. Please review this privacy policy when you enter the website to keep aware of any policy changes. 
 
 **EatWisconsinCheese.com does not share any personal information collected through the website with third parties.**
 
