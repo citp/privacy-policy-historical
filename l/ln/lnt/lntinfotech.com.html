@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lntinfotech.com privacy policy that was archived on 2014-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121014446id_/http%3A//www.lntinfotech.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lntinfotech.com privacy policy that was archived on 2015-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150609235322id_/http%3A//www.lntinfotech.com/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!-- InstanceBegin template="/Templates/privacypolicy-sitemap.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -7,22 +7,39 @@
 <!-- Mobile Specific Metas
    ================================================== -->
 <!-- InstanceBeginEditable name="head" -->
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
     <title>L&amp;T Infotech | Global IT Services and Solutions Provider | Privacy Policy</title>
 <!-- InstanceEndEditable -->
 
 <link href="http://fonts.googleapis.com/css?family=Roboto:100,400,300,500,700" rel="stylesheet" type="text/css">
-<link href="css/reset.css" rel="stylesheet" type="text/css">
-<link href="css/mainStylesheet.css" rel="stylesheet" type="text/css">
+<link href="/css/pack.css" rel="stylesheet" type="text/css">
+<!-- For mobile Menu -->
+  
+   <script type="text/javascript">
+<!--
+    function toggle_visibility(id) {
+       var e = document.getElementById(id);
+       if(e.style.display == 'block')
+          e.style.display = 'none';
+       else
+          e.style.display = 'block';
+    }
+//-->
+</script>
+<!-- For mobile Menu ends here-->
 <!-- CSS and JS for top nav -->
-<link rel="stylesheet" href="topnav/mgmenu.css" type="text/css" media="screen">
-<script src="topnav/scripts.js"></script><!-- Mega Menu Script -->
+<script src="/js/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="/js/pack.js"></script>
+
+    <!-- Mega Menu Script -->
+
 <script>
 $(document).ready(function($){
     $('#mgmenu1').universalMegaMenu({
         menu_effect: 'hover_fade',
-        menu_speed_show: 300,
-        menu_speed_hide: 200,
+        menu_speed_show: 0,
+        menu_speed_hide: 0,
         menu_speed_delay: 200,
         menu_click_outside: false,
         menubar_trigger : false,
@@ -30,34 +47,50 @@ $(document).ready(function($){
         menu_responsive: true
     });
     megaMenuContactForm(); 
+    jQuery("img.lazy").each(function(){jQuery(this).attr("src",jQuery(this).attr("data-src"));jQuery(this).removeClass("lazy");})
+
 });
 </script>
 
 <!-- CSS and JS for top nav -->
 
 <!--[if lte IE 7]>
-	<link href="css/ie7-6.css" rel="stylesheet" type="text/css">
+  <link href="css/ie7-6.css" rel="stylesheet" type="text/css">
 <![endif]-->
 <script>
   "'article aside footer header nav section time hgroup'".replace(/\w+/g,function(n){document.createElement(n)})
 </script>
 
-<!-- Rotating banner css and js -->
-		<!--[if lt IE 7]><script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE7.js"></script><![endif]-->    
-		<script type="text/javascript" src="js/jquery.min.js"></script>
-		<script type="text/javascript" src="js/jquery.cycle.all.min.js"></script>
+<!--left nav accordion-->
+   
+    <script type="text/javascript">
+        var amenuOptions2 =
+        {
+            menuId: "acdnmenuDemo", 
+            linkIdToMenuHtml: null,
+            expand: "single",
+            
+        };
+        var amenuDemo = new McAcdnMenu(amenuOptions2);
+    </script>
+<!--left nav accordion-->
+
+<!--Rotating banner css and js-->
+    <!--[if lt IE 7]><script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE7.js"></script><![endif]-->    
+    <script type="text/javascript" src="/js/jquery.cycle.all.min.js"></script>
         <script type="text/javascript">
-						jQuery(function($){
-							
-							// Full options at http://jquery.malsup.com/cycle/options.html
-							$('#promo_01 .promos').cycle({
-								fx: 		'fade', // choose your transition type, ex: fade, scrollUp, shuffle, etc...
-								pager: 		'#promo_01 .promo-navigation',
-								pause: 		1
-							});
-							
-						});
-		</script>
+            jQuery(function($){
+              
+              // Full options at http://jquery.malsup.com/cycle/options.html
+              $('#promo_01 .promos').cycle({
+                fx:     'fade', // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+                pager:    '#promo_01 .promo-navigation',
+                pause:    1
+              });
+              
+            });
+    </script>
+        
 <!--Rotating banner css and js ends -->
 
 <!-- google analytics starts here  -->
@@ -75,21 +108,19 @@ pageTracker._trackPageview();
 </script>
 <!-- google analytics ends here  -->
 </head>
-<body class="body" style="">
+<body class="body sub-channel">
 
 <!-- Header starts Here -->
 <div class="mainHeader">
-	<div class="header">
-		<div class="logo"><a href="index.html" title="L&amp;T Infotech"><img src="images/lnt-logo-clr.png" alt="L&amp;T Infotech"></a></div>
-		<div class="head-right">
-		
-					
-				<!--popup contact lightbox and Text end--> 
-			<div id="popup2" class="popup_block">
-			<div class="lightboxtitle"> Reach Us</div>
-			
-		<div class="myform" id="stylized">
-                                    
+    <div class="header">
+        <div class="logo"><a href="/index.html" title="L&amp;T Infotech"><img src="/images/lnt-logo-clr.png" alt="L&amp;T Infotech"></a></div>
+        <div class="mobile-search-icon visible-mobile"></div>
+        <div class="head-right">            
+            <!--popup contact lightbox and Text end--> 
+            <div id="popup2" class="popup_block">
+                <div class="lightboxtitle"> Reach Us</div>
+            
+        <div class="myform" id="stylized">
                     <label>
                         First Name:
                     </label>
@@ -112,8 +143,8 @@ pageTracker._trackPageview();
                     <label>
                         Message:
                     </label>
-					
-					  <textarea name="df" cols="" rows=""></textarea>
+                    
+                      <textarea name="df" cols="" rows=""></textarea>
                   
                     <div class="inputbutton">
                     
@@ -138,28 +169,28 @@ pageTracker._trackPageview();
                          
                           </span>
                         </label>
-                   
                   
                 </div>
-			</div>
-			
-			<!--popup contact lightbox and Text end-->
-			
-			<div class="miniNav">
-				<ul>
-					<li><a href="contact_us.aspx">Contact Us</a></li>
+            </div>
+            <!--popup contact lightbox and Text end-->          
+            <div class="miniNav">
+                <ul>
+                    <li><a href="/contact_us.aspx">Contact Us</a></li>
                     <li><a href="http://www.lntinfotech.com/careers/index.aspx" target="_blank">Careers</a></li>
-                    <li><a href="locations.html">Locations</a></li>
-                    <li><a href="analysts.html">Analysts</a></li>
+                    <li><a href="/locations.html">Locations</a></li>
+                    <li><a href="/analysts.html">Analysts</a></li>
                     <li><a href="http://www.lntinfotechblogs.com/" target="_blank">Blog</a></li>
-                    <li><a href="news_n_events/news.html">News &amp; Events</a></li>
-                    <li><a href="index.html">Home</a></li>
-				</ul>
-				<div class="clear"></div>
-			</div>
-           <div id="search">
-            <form action="search_results.html" id="cse-search-box">
-				<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+                    <li><a href="/news_n_events/news.html">News &amp; Events</a></li>
+                    <li><a href="/index.html">Home</a></li>
+                    
+                </ul>
+                <div class="clear"></div>
+            </div>
+            
+            
+            <div id="search">
+            <form action="/search_results.html" id="cse-search-box">
+                <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
                 <input class="searchbox" placeholder="Search..." id="searchinput" type="text" name="q" size="25" value="Search" onfocus="if(this.value == 'Search') { this.value = ''; }" onblur="if(this.value == '') { this.value = 'Search'; }">
                 <input class="searcharr" type="submit" id="searchbutton" name="search">                
                     <input type="hidden" name="cx" value="010991156039800192893:f9behqx3fv8">
@@ -167,13 +198,13 @@ pageTracker._trackPageview();
                     <input type="hidden" name="ie" value="UTF-8">
                   
             </form>
-			</div>
-			<!-- Header Search End -->
-			<div class="clear"></div>
-			
+            </div>
+            <!-- Header Search End -->
+            <div class="clear"></div>
+            
 <!-- THE MENU STARTS HERE -->
 
-    <div id="mgmenu1" class="mgmenu_container"><!-- Begin Mega Menu Container -->        
+    <div id="mgmenu1" class="mgmenu_container mobile-hidden"><!-- Begin Mega Menu Container -->        
         <ul class="mgmenu"><!-- Begin Mega Menu -->              
 
 
@@ -182,79 +213,79 @@ pageTracker._trackPageview();
             
       <div style="display: none;" class="dropdown_container industriesdropdown" id="dropdown_3columns"><!-- Begin Item Container -->
 
-                		<!--Auto start -->							
-							<div class="col_4">
-								<ul><li> <a href="industries/engineering_construction/engineering_construction.html">Utilities, Engineering &amp; Construction </a></li></ul>
-							</div>							
-					<!--Auto  end  --> 
+
+                        <!--Auto start -->                          
+                            <div class="col_4">
+                                <ul><li> <a href="/industries/engineering_construction/engineering_construction.html">Utilities, Engineering &amp; Construction </a></li></ul>
+                            </div>                          
+                    <!--Auto  end  --> 
                     
-                    <!--bfs start -->							
-							<div class="col_4">
-									<ul><li><a href="industries/Banking_n_finance/banking_N_finance.html">Banking &amp; Financial Services</a></li></ul>
-							</div>							
-					<!--bfs end  --> 
+                    <!--bfs start -->                           
+                            <div class="col_4">
+                                    <ul><li><a href="/industries/Banking_n_finance/banking_N_finance.html">Banking &amp; Financial Services</a></li></ul>
+                            </div>                          
+                    <!--bfs end  --> 
                     
-                        <!--bfs start -->							
-							<div class="col_4">
-								<ul><li> <a href="industries/automotive/auto.html"> Automotive &amp; Aerospace </a></li></ul>
-							</div>							
-						<!--bfs end  --> 
+                        <!--bfs start -->                           
+                            <div class="col_4">
+                                <ul><li> <a href="/industries/automotive/auto.html"> Automotive &amp; Aerospace </a></li></ul>
+                            </div>                          
+                        <!--bfs end  --> 
                         
-                     <!--bfs start -->							
-							<div class="col_4">
-								<ul><li> <a href="industries/plant_equipment_machinery/overview.html">Plant Equipment &amp; Industrial Machinery</a></li></ul>
-							</div>							
-					<!--bfs end  --> 
+                     <!--bfs start -->                          
+                            <div class="col_4">
+                                <ul><li> <a href="/industries/plant_equipment_machinery/overview.html">Plant Equipment &amp; Industrial Machinery</a></li></ul>
+                            </div>                          
+                    <!--bfs end  --> 
                     
-                    <!--bfs start -->							
-							<div class="col_4">
-								<ul><li> <a href="industries/insurance/insurance.html"> Insurance </a></li></ul>
-							</div>
+                    <!--bfs start -->                           
+                            <div class="col_4">
+                                <ul><li> <a href="/industries/insurance/insurance.html"> Insurance </a></li></ul>
+                            </div>
                     <!--bfs end  -->
                     
-                    <!--bfs start -->							
-							<div class="col_4">
-								<ul><li> <a href="industries/high_tech/high_tech.html"> Hi-Tech &amp; Consumer Electronics </a></li></ul>
-							</div>
-					<!--bfs end  --> 
+                    <!--bfs start -->                           
+                            <div class="col_4">
+                                <ul><li> <a href="/industries/high_tech/high_tech.html"> Hi-Tech &amp; Consumer Electronics </a></li></ul>
+                            </div>
+                    <!--bfs end  --> 
                     
                     <!--bfs start -->
-							<div class="col_4">
-								<ul><li> <a href="industries/energy_petrochemicals/energy_petrochemicals.html">Energy &amp; Process</a></li></ul>
-							</div>							
-					<!--bfs end  --> 
+                            <div class="col_4">
+                                <ul><li> <a href="/industries/energy_petrochemicals/energy_petrochemicals.html">Energy &amp; Process</a></li></ul>
+                            </div>                          
+                    <!--bfs end  --> 
                     
-                    <!--bfs start -->							
-							<div class="col_4">
-								<ul><li> <a href="industries/healthcare_lifeScience/healthcare/Overview.html">Healthcare &amp; Life Sciences  </a></li></ul>
-							</div>							
-					<!--bfs end  --> 
+                    <!--bfs start -->                           
+                            <div class="col_4">
+                                <ul><li> <a href="/industries/healthcare_lifeScience/healthcare/Overview.html">Healthcare &amp; Life Sciences  </a></li></ul>
+                            </div>                          
+                    <!--bfs end  --> 
                     
-                    <!--bfs start -->							
-							<div class="col_4">
-								<ul><li> <a href="industries/cpg/cpg.html"> Consumer Packaged Goods, Retail </a></li></ul>
-							</div>							
-					<!--bfs end  --> 	
-					
-                 <!--bfs start -->							
-							<div class="col_4 blank">
-								<ul><li> </li></ul>
-							</div>	
-                     <!--bfs end  -->	
+                    <!--bfs start -->                           
+                            <div class="col_4">
+                                <ul><li> <a href="/industries/cpg/cpg.html"> Consumer Packaged Goods, Retail </a></li></ul>
+                            </div>                          
+                    <!--bfs end  -->    
+                    
+                 <!--bfs start -->                          
+                            <div class="col_4 blank">
+                                <ul><li> </li></ul>
+                            </div>  
+                     <!--bfs end  -->   
                             
-					<!--bfs start -->							
-							<div class="col_4">
-								<ul><li> <a href="industries/media_n_entertainment/overview.html">Media &amp; Entertainment </a></li></ul>
-							</div>	
-                     <!--bfs end  -->						
-					
+                    <!--bfs start -->                           
+                            <div class="col_4">
+                                <ul><li> <a href="/industries/media_n_entertainment/overview.html">Media &amp; Entertainment </a></li></ul>
+                            </div>  
+                     <!--bfs end  -->                       
                     
-					<!--bfs start -->							
-							<div class="col_4">
-								<ul><li> <a href="industries/travel_n_logistics/overview.html">Travel &amp; Logistics</a></li></ul>
-							</div>							
-					<!--bfs end  -->
-											              
+                    
+                    <!--bfs start -->                           
+                            <div class="col_4">
+                                <ul><li> <a href="/industries/travel_n_logistics/overview.html">Travel &amp; Logistics</a></li></ul>
+                            </div>                          
+                    <!--bfs end  -->
 
                 </div><!-- End Item Container -->
             
@@ -263,152 +294,159 @@ pageTracker._trackPageview();
                                 
             <li style="display: block;"> <a href="#" class="mainmenu">  <span>SERVICES</span> </a> <!-- Begin Item -->            
             
-      <div style="display: none;" class="dropdown_container servicesdropdown" id="Div1"><!-- Begin Item Container 
+  <div style="display: none;" class="dropdown_container servicesdropdown" id="Div1"><!-- Begin Item Container 
 
 -->
 
 
-                			          			<!--bfs start -->			
+                                                <!--bfs start -->           
 
-				
-							<div class="col_4">
-								<ul><li> <a href="../services/application_development/overview.html"> Application Development </a></li></ul>
-							</div>							
-							<!--bfs end  --> 
+                
+                            <div class="col_4">
+                                <ul><li> <a href="/services/application_development/overview.html"> Application Development </a></li></ul>
+                            </div>                          
+                            <!--bfs end  --> 
 
-                			<!--Auto start -->							
-							<div class="col_4">
-								<ul><li> <a href="../services/enterprise_integration/overview.html"> Enterprise Integration </a></li></ul>
-							</div>							
-							<!--Auto  end  --> 
-							
-								<!--bfs start -->				
-
-			
-							<div class="col_4">
-								<ul><li> <a href="../services/manufacturing_execution_system/overview.html">Manufacturing Execution Systems</a></li></ul>
-							</div>							
-							<!--bfs end  --> 
+                            <!--Auto start -->                          
+                            <div class="col_4">
+                                <ul><li> <a href="/services/enterprise_integration/overview.html"> Enterprise Integration </a></li></ul>
+                            </div>                          
+                            <!--Auto  end  --> 
                             
-							<!--bfs start -->					
+                                <!--bfs start -->               
 
-		
-							<div class="col_4">
-								<ul><li> <a href="../services/application_maintenance_support/overview.html">Application Maintenance &amp; 
+            
+                            <div class="col_4">
+                                <ul><li> <a href="/services/manufacturing_execution_system/overview.html">Manufacturing Execution Systems</a></li></ul>
+                            </div>                          
+                            <!--bfs end  --> 
+                            
+                            <!--bfs start -->                   
+
+        
+                            <div class="col_4">
+                                <ul><li> <a href="/services/application_maintenance_support/overview.html">Application Maintenance &amp; 
 
 Support</a></li></ul>
-							</div>							
-							<!--bfs end  --> 
+                            </div>                          
+                            <!--bfs end  --> 
                             
-							<!--bfs start -->					
+                            <!--bfs start -->                   
 
-		
-							<div class="col_4">
-								<ul><li> <a href="../services/microsoft_dynamics_services/overview.html"> Microsoft Dynamics Services</a></li></ul>
-							</div>
-							<!--bfs end  --> 
+        
+                            <div class="col_4">
+                                <ul><li> <a href="/services/microsoft_dynamics_services/overview.html"> Microsoft Dynamics Services</a></li></ul>
+                            </div>
+                            <!--bfs end  --> 
                             
-							<!--bfs start -->					
+                            <!--bfs start -->                   
 
-		
-							<div class="col_4">
-								<ul><li> <a href="../services/enterprise_mobility/overview.html">Mobility Services</a></li></ul>
-							</div>							
-							<!--bfs end  --> 
+        
+                            <div class="col_4">
+                                <ul><li> <a href="/services/enterprise_mobility/overview.html">Mobility Services</a></li></ul>
+                            </div>                          
+                            <!--bfs end  --> 
 
-							<!--bfs start -->					
+                            <!--bfs start -->                   
 
-		
-							<div class="col_4">
-								<ul><li> <a href="../services/applications_outsourcing/overview.html">Application Outsourcing</a></li></ul>
-							</div>							
-							<!--bfs end  --> 
-							
-							<!--bfs start -->					
+        
+                            <div class="col_4">
+                                <ul><li> <a href="/services/applications_outsourcing/overview.html">Application Outsourcing</a></li></ul>
+                            </div>                          
+                            <!--bfs end  --> 
+                            
+                            <!--bfs start -->                   
 
-		
-							<div class="col_4">
-								<ul><li> <a href="../services/oracle_services/overview.html"> Oracle Services</a></li></ul>
-							</div>
-                            <!--bfs end  --> 							
-							
-							<!--bfs start -->					
+        
+                            <div class="col_4">
+                                <ul><li> <a href="/services/oracle_services/overview.html"> Oracle Services</a></li></ul>
+                            </div>
+                            <!--bfs end  -->                            
+                            
+                            <!--bfs start -->                   
 
-		
-							<div class="col_4">
-								<ul><li> <a href="../services/plm/overview.html">Product Lifecycle Management</a></li></ul>
-							</div>							
-							<!--bfs end  -->					
+        
+                            <div class="col_4">
+                                <ul><li> <a href="/services/plm/overview.html">Product Lifecycle Management</a></li></ul>
+                            </div>                          
+                            <!--bfs end  -->                    
 
-		
-							
-							<!--bfs start -->
-							<div class="col_4">
-								<ul><li> <a href="../services/architecture_consulting/overview.html">Architecture Services</a></li></ul>
-							</div>							
-							<!--bfs end  --> 
-							
-							<!--bfs start -->
-							<div class="col_4">
-								<ul><li> <a href="../services/Workday_Practice.html">Workday Services</a></li></ul>
-							</div>							
-							<!--bfs end  --> 
-							 <!--bfs start -->					
+        
+                            
+                            <!--bfs start -->
+                            <div class="col_4">
+                                <ul><li> <a href="/services/architecture_consulting/overview.html">Architecture Services</a></li></ul>
+                            </div>                          
+                            <!--bfs end  --> 
+                            
+                            <!--bfs start -->
+                            <div class="col_4">
+                                <ul><li> <a href="/services/Workday_Practice.html">Workday Services</a></li></ul>
+                            </div>                          
+                            <!--bfs end  --> 
+                             <!--bfs start -->                  
 
-		
-							<div class="col_4">
-								<ul><li> <a href="../services/BI_DW/overview.html"> Analytics &amp; Information Management </a></li></ul>
-							</div>							
-							<!--bfs end  --> 
-							
-							
-							<!--bfs start -->					
-
-		
-							<div class="col_4">
-								<ul><li> <a href="../services/systems_integration_services/overview.html">Systems Integration Services</a></li></ul>
-							</div>							
-							<!--bfs end  -->  
-                            <!--bfs start -->							
-							<div class="col_4">
-								<ul><li> <a href="../services/sap_services/overview.html">SAP Services</a></li></ul>
-							</div>							
-							<!--bfs end  -->  
-                 			
-
-                			<!--Auto start -->							
-							<div class="col_4">
-								<ul><li> <a href="../services/ims/overview.html"> Infrastructure Management Services</a></li></ul>
-							</div>							
-							<!--Auto  end  --> 
-							
-								<!--bfs start -->				
-
-			
-							<div class="col_4">
-								<ul><li> <a href="../services/testing/overview.html">Testing Services </a></li></ul>
-							</div>							
-							<!--bfs end  -->  
+        
+                            <div class="col_4">
+                                <ul><li> <a href="/services/BI_DW/overview.html"> Analytics &amp; Information Management </a></li></ul>
+                            </div>                          
+                            <!--bfs end  --> 
                             
                             
-                            	<!--bfs start -->							
-							<div class="col_4">
-								<ul><li> <a href="../services/business_process_services/overview.html">Business Process Services</a></li></ul>
-							</div>							
-							<!--bfs end  --> 
-							
-                            	<!--bfs start -->							
-							<div class="col_4">
-								<ul><li> <a href="../services/legacy_modernization/overview.html">Legacy Modernization</a></li></ul>
-							</div>							
-							<!--bfs end  -->   
+                            <!--bfs start -->                   
+
+        
+                            <div class="col_4">
+                                <ul><li> <a href="/services/systems_integration_services/overview.html">Systems Integration Services</a></li></ul>
+                            </div>                          
+                            <!--bfs end  -->  
+                            <!--bfs start -->                           
+                            <div class="col_4">
+                                <ul><li> <a href="/services/sap_services/overview.html">SAP Services</a></li></ul>
+                            </div>                          
+                            <!--bfs end  -->  
+                            
+
+                            <!--Auto start -->                          
+                            <div class="col_4">
+                                <ul><li> <a href="/services/ims/overview.html"> Infrastructure Management Services</a></li></ul>
+                            </div>                          
+                            <!--Auto  end  --> 
+                            
+                                <!--bfs start -->               
+
+            
+                            <div class="col_4">
+                                <ul><li> <a href="/services/testing/overview.html">Testing Services </a></li></ul>
+                            </div>                          
+                            <!--bfs end  -->  
+                            
+                            
+                                <!--bfs start -->                           
+                            <div class="col_4">
+                                <ul><li> <a href="/services/business_process_services/overview.html">Business Process Services</a></li></ul>
+                            </div>                          
+                            <!--bfs end  --> 
+                            
+                                <!--bfs start -->                           
+                            <div class="col_4">
+                                <ul><li> <a href="/services/legacy_modernization/overview.html">Legacy Modernization</a></li></ul>
+                            </div>                          
+                            <!--bfs end  -->   
                                
                             
-                            	<!--bfs start -->							
-							<div class="col_4">
-								<ul><li> <a href="../services/consulting/overview.html">Consulting</a></li></ul>
-							</div>							
-							<!--bfs end  -->             
+                                <!--bfs start -->                           
+                            <div class="col_4">
+                                <ul><li> <a href="/services/consulting/overview.html">Consulting</a></li></ul>
+                            </div>                          
+                            <!--bfs end  -->   
+                            <!--bfs start -->                           
+                            <div class="col_4">
+                                <ul><li> <a href="/services/IFS_Services/IFS_Services.html">IFS Services</a></li></ul>
+                            </div>    
+                                                  
+                            <!--bfs end  -->              
+          
 
                 </div><!-- End Item Container -->
             
@@ -416,40 +454,41 @@ Support</a></li></ul>
 
             
 
-            <li style="display: block;"> <a href="#" class="mainmenu"> <span>SOLUTIONS</span> </a><!-- Begin Item -->			
-			
-                <div style="display: none;" class="dropdown_container solutionsdropdown" id="dropdown_1columns"><!-- Begin Item Container -->
-				
-					<div class="col_8">
-								<ul>
-									<li><a href="solutions/accelerators.html" title="Accelerators">Accelerators</a></li>
-								  <li><a href="solutions/frameworks.html" title="Frameworks">Frameworks</a></li>
-								    <li><a href="solutions/products.html" title="Products">Products</a></li>
-								</ul>
-				  </div>					
-							
-			  </div>		
+            <li style="display: block;"> <a href="#" class="mainmenu"> <span>SOLUTIONS</span> </a><!-- Begin Item -->           
+            
+          <div style="display: none;" class="dropdown_container solutionsdropdown" id="dropdown_1columns"><!-- Begin Item Container -->
+                
+                    <div class="col_8">
+                                <ul>
+                                    <li><a href="/solutions/accelerators.html" title="Accelerators">Accelerators</a></li>
+                                    <li><a href="/solutions/frameworks.html" title="Frameworks">Frameworks</a></li>
+                                    <li><a href="/solutions/products.html" title="Products">Products</a></li>
+                                    <li><a href="../solutions/Digital_Platform.html" title="Digital Platform">Digital Platform</a></li>
+                      </ul>
+                            </div>                  
+                            
+                    </div>      
 
             </li><!-- End Item -->
                
 
             <li style="display: block;"> <a href="#" class="mainmenu">  <span>RESOURCES</span> </a><!-- Begin Item -->                     
             
-                <div style="display: none;" class="dropdown_container resourcesdropdown" id="dropdown_1columns"><!-- Begin Item Container -->				
-						<!--bfs start -->
-							
-							<div>
-								<ul>
-									<li><a href="resources/technology_office.html" title="Technology Office">Technology Office</a></li>
-            						<li><a href="resources/technologies.html" title="Technologies">Technologies</a></li>
-                                    <li><a href="resources/case_studies.html" title="Case Studies">Case Studies</a></li>
-                                    <li><a href="resources/alliances.html" title="Alliances">Alliances</a></li>
-                                    <li><a href="resources/white_papers.html" title="White Papers">White Papers</a></li>
-                                    <li><a href="resources/brochures.html" title="Brochures">Brochures</a></li> 
-								</ul>
-							</div>
-						<!--bfs end  --> 	
-			  </div>	
+      <div style="display: none;" class="dropdown_container resourcesdropdown" id="dropdown_1columns"><!-- Begin Item Container -->                
+                        <!--bfs start -->
+                            
+                            <div>
+                                <ul>
+                                    <li><a href="/resources/technology_office.html" title="Technology Office">Technology Office</a></li>
+                                    <li><a href="/resources/technologies.html" title="Technologies">Technologies</a></li>
+                                    <li><a href="/resources/case_studies.html" title="Case Studies">Case Studies</a></li>
+                                    <li><a href="/resources/alliances.html" title="Alliances">Alliances</a></li>
+                                    <li><a href="/resources/white_papers.html" title="White Papers">White Papers</a></li>
+                                    <li><a href="/resources/brochures.html" title="Brochures">Brochures</a></li>                                  
+                                </ul>
+                            </div>
+                        <!--bfs end  -->    
+                        </div>  
                        
             
             </li><!-- End Item -->
@@ -458,113 +497,119 @@ Support</a></li></ul>
    <li style="display: block;"> <a href="#" class="mainmenu">  <span>ABOUT US</span> </a> <!-- Begin Item -->
            
             <div style="display: none;" class="dropdown_container aboutusdropdown" id="dropdown_2columns"><!-- Begin Item Container -->
-				
-                <!--bfs start -->							
+                
+                <!--bfs start -->                           
                       <div class="col_4">
-                          <ul><li><a href="aboutus/about_us.html" title="Overview">Overview</a></li></ul>
-                      </div>							
-				<!--bfs end  --> 
+                          <ul><li><a href="/aboutus/about_us.html" title="Overview">Overview</a></li></ul>
+                      </div>                            
+                <!--bfs end  --> 
                 
-              <!--bfs start -->							
+              <!--bfs start -->                         
                       <div class="col_4">
-                          <ul><li><a href="aboutus/delivery_centers.html" title="Delivery Centers">Delivery Centers</a></li></ul>
-                      </div>							
-				<!--bfs end  --> 
+                          <ul><li><a href="/aboutus/delivery_centers.html" title="Delivery Centers">Delivery Centers</a></li></ul>
+                      </div>                            
+                <!--bfs end  --> 
                 
-                <!--bfs start -->							
+                <!--bfs start -->                           
                       <div class="col_4">
-                          <ul><li><a href="aboutus/vision_values.html" title="Vision">Vision</a></li></ul>
-                      </div>							
-				<!--bfs end  --> 
+                          <ul><li><a href="/aboutus/vision_values.html" title="Vision">Vision</a></li></ul>
+                      </div>                            
+                <!--bfs end  --> 
                 
                 
-                  <!--bfs start -->							
+                  <!--bfs start -->                         
                       <div class="col_4">
-                          <ul><li><a href="aboutus/people.html" title="People">People</a></li></ul>
-                      </div>							
-				<!--bfs end  --> 
+                          <ul><li><a href="/aboutus/people.html" title="People">People</a></li></ul>
+                      </div>                            
+                <!--bfs end  --> 
                 
                 
-                  <!--bfs start -->							
+                  <!--bfs start -->                         
                       <div class="col_4">
-                          <ul><li><a href="aboutus/clients.html" title="Clients">Clients</a></li></ul>
-                      </div>							
-				<!--bfs end  --> 
+                          <ul><li><a href="/aboutus/clients.html" title="Clients">Clients</a></li></ul>
+                      </div>                            
+                <!--bfs end  --> 
                 
                 
-                  <!--bfs start -->							
+                  <!--bfs start -->                         
                       <div class="col_4">
-                          <ul> <li><a href="aboutus/Corporate_social_responsibility.html" title="CSR &amp; Sustainability">CSR &amp; Sustainability</a></li></ul>
-                      </div>							
-				<!--bfs end  --> 
+                          <ul> <li><a href="/aboutus/Corporate_social_responsibility.html" title="CSR &amp; Sustainability">CSR &amp; Sustainability</a></li></ul>
+                      </div>                            
+                <!--bfs end  --> 
                 
-                  <!--bfs start -->							
+                  <!--bfs start -->                         
                       <div class="col_4">
-                          <ul><li><a href="aboutus/alliances.html" title="Alliances">Alliances</a></li></ul>
-                      </div>							
-				<!--bfs end  --> 
+                          <ul><li><a href="/aboutus/alliances.html" title="Alliances">Alliances</a></li></ul>
+                      </div>                            
+                <!--bfs end  --> 
                 
-                  <!--bfs start -->							
+                  <!--bfs start -->                         
                       <div class="col_4">
-                          <ul><li><a href="aboutus/quality.html" title="Quality">Quality</a></li></ul>
-                      </div>							
-				<!--bfs end  --> 
+                          <ul><li><a href="/aboutus/quality.html" title="Quality">Quality</a></li></ul>
+                      </div>                            
+                <!--bfs end  --> 
                 
-                  <!--bfs start -->							
+                  <!--bfs start -->                         
                       <div class="col_4">
-                          <ul><li><a href="aboutus/lnt_heritage.html" title="L&amp;T Heritage">L&amp;T Heritage</a></li></ul>
-                      </div>							
-				<!--bfs end  --> 
+                          <ul><li><a href="/aboutus/lnt_heritage.html" title="L&amp;T Heritage">L&amp;T Heritage</a></li></ul>
+                      </div>                            
+                <!--bfs end  --> 
                 
-                  <!--bfs start -->							
+                  <!--bfs start -->                         
                       <div class="col_4">
-                          <ul><li><a href="aboutus/Corporate_Brochure.aspx" title="Corporate Brochure">Corporate Brochure</a></li></ul>
-                      </div>							
-				<!--bfs end  --> 
+                          <ul><li><a href="/aboutus/Corporate_Brochure.aspx" title="Corporate Brochure">Corporate Brochure</a></li></ul>
+                      </div>                            
+                <!--bfs end  --> 
                 
-                  <!--bfs start -->							
+                  <!--bfs start -->                         
                       <div class="col_4">
-                          <ul><li><a href="aboutus/board_directors.html" title="Board of Directors">Board of Directors</a></li></ul>
-                      </div>							
-				<!--bfs end  --> 
+                          <ul><li><a href="/aboutus/board_directors.html" title="Board of Directors">Board of Directors</a></li></ul>
+                      </div>                            
+                <!--bfs end  --> 
                 
-                  <!--bfs start -->							
+                  <!--bfs start -->                         
                       <div class="col_4">
-                          <ul><li><a href="financialservices/index.html" title="L&amp;T Infotech Financial Services Technologies Inc." target="_blank">About L&amp;T Infotech FSTI</a></li></ul>
-                      </div>						
-				<!--bfs end  -->               
+                          <ul><li><a href="/financialservices/index.html" title="L&amp;T Infotech Financial Services Technologies Inc." target="_blank">About L&amp;T Infotech FSTI</a></li></ul>
+                      </div>                        
+                <!--bfs end  -->                 
                   
-					
-				</div>	
+                    
+                </div>  
             
-            </li><!-- End Item -->            
-            
-            <li style="visibility: hidden; display: list-item;" class="engage"> <a href="#" class="mainmenu">  <span>ENGAGE</span> </a><!-- Begin Item -->
-            
-                <div style="display: none;" class="dropdown_container resourcesdropdown" id="dropdown_1columns"><!-- Begin Item Container -->				
-						<!--bfs start -->
-							<div>
-								<ul>	
-            	<li><a href="news_n_events/news.html" title="News &amp; Events">News &amp; Events</a></li>
-				<li><a href="http://www.lntinfotechblogs.com/" title="Blog" target="_blank">Blog</a></li>
-                <li><a href="analysts.html">Analysts</a></li>
-                <li><a href="locations.html" title="Location">Locations</a></li>
-				<li><a href="http://www.lntinfotech.com/careers/index.aspx" target="_blank" title="Careers">Careers</a></li>
-                <li><a href="contact_us.aspx" title="Contact Us">Contact Us</a></li>
-          </ul>
-							</div>
-						<!--bfs end  --> 	
-			  </div>	  
             </li><!-- End Item -->
+     
+            <li style="visibility:hidden" class="engage"> <a href="#" class="mainmenu">  <span>ENGAGE</span> </a><!-- Begin Item -->
             
+                <div style="display: none;" class="dropdown_container resourcesdropdown" id="dropdown_1columns"><!-- Begin Item Container -->              
+                        <!--bfs start -->
+                            <div>
+                                <ul>    
+                <li><a href="/news_n_events/news.html" title="News &amp; Events">News &amp; Events</a></li>
+                <li><a href="http://www.lntinfotechblogs.com/" title="Blog" target="_blank">Blog</a></li>
+                <li><a href="/analysts.html">Analysts</a></li>
+                <li><a href="/locations.html" title="Location">Locations</a></li>
+                <li><a href="http://www.lntinfotech.com/careers/index.aspx" target="_blank" title="Careers">Careers</a></li>
+                <li><a href="/contact_us.aspx" title="Contact Us">Contact Us</a></li>
+          </ul>
+                            </div>
+                        <!--bfs end  -->    
+              </div>      
+            </li><!-- End Item -->
+
         </ul><!-- End Mega Menu -->
 
+
+
     </div><!-- End Mega Menu Container -->
-    <!-- THE MENU ENDS HERE -->	
-			
-			</div>
-		</div>
-	</div>
+
+
+
+    <!-- THE MENU ENDS HERE -->
+            
+            
+            </div>
+        </div>
+    </div>
 
 <div class="clear"></div>
 <div class="navBar">&nbsp; </div>
@@ -573,12 +618,12 @@ Support</a></li></ul>
 <!------------------------------------- THE CONTENT ------------------------------------------------->
 					<div id="promo_01" class="promo-container primary-promo-container">
 						
-						<ul class="promo-navigation clean"><a href="#" class="activeSlide">1</a><a href="#">2</a><a href="#">3</a></ul><!-- //promo-navigation (auto generated) -->
+						<ul class="promo-navigation clean"></ul><!-- //promo-navigation (auto generated) -->
 						
-						<ul class="promos clean" style="position: relative; width: 51px; height: 16px;">
-							<li style="position: absolute; top: 0px; left: 0px; display: list-item; z-index: 4; opacity: 1;"><a href="#"><img src="aboutus/images/aboutus_1.png" alt="Promo"></a></li>							
-							<li class="hidden" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 2; opacity: 0;"><a href="#"><img src="aboutus/images/aboutus_2.png" alt="Promo"></a></li>
-                            <li class="hidden" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 1; opacity: 0;"><a href="#"><img src="aboutus/images/aboutus_3.png" alt="Promo"></a></li>
+						<ul class="promos clean">
+							<li><a href="#"><img src="aboutus/images/aboutus_1.png" alt="Promo"></a></li>							
+							<li class="hidden"><a href="#"><img src="aboutus/images/aboutus_2.png" alt="Promo"></a></li>
+                            <li class="hidden"><a href="#"><img src="aboutus/images/aboutus_3.png" alt="Promo"></a></li>
 												
 						</ul><!-- // promo list -->
 						
@@ -666,25 +711,28 @@ L&amp;T Infotech may choose to send direct mailers to you at the address given b
     	<h4>Services</h4>
     	<article>
         	<ul>	
-        	 <li><a href="../BI_DW/overview.html" title="Analytics &amp; Information Management">Analytics &amp; Information Management</a></li>
-            <li><a href="../application_development/overview.html" title="Application Development"><span>Application Development</span></a></li>
-            <li><a href="../application_maintenance_support/overview.html" title="Application Maintenance &amp; Support"><span>Application Maintenance &amp; Support</span></a></li>
-            <li><a href="../applications_outsourcing/overview.html" title="Application Outsourcing"><span>Application Outsourcing</span></a></li>
-              <li><a href="../architecture_consulting/overview.html" title="Architecture Services">Architecture Services</a></li>
+        	 <li><a href="../services/BI_DW/overview.html" title="Analytics &amp; Information Management">Analytics &amp; Information Management</a></li>
+            <li><a href="../services/application_development/overview.html" title="Application Development"><span>Application Development</span></a></li>
+            <li><a href="../services/application_maintenance_support/overview.html" title="Application Maintenance &amp; Support"><span>Application Maintenance &amp; Support</span></a></li>
+            <li><a href="../services/applications_outsourcing/overview.html" title="Application Outsourcing"><span>Application Outsourcing</span></a></li>
+              <li><a href="../services/architecture_consulting/overview.html" title="Architecture Services">Architecture Services</a></li>
              
-              <li><a href="../business_process_services/overview.html" title="Business Process Services">Business Process Services</a></li>
-              <li><a href="../consulting/overview.html" title="Consulting">Consulting</a></li>
-              <li><a href="../enterprise_integration/overview.html" title="Enterprise Integration">Enterprise Integration</a></li>
-              <li><a href="../microsoft_dynamics_services/overview.html" title="Microsoft Dynamics Services"><span>Microsoft Dynamics Services</span></a></li>
-              <li><a href="overview.html" title="Oracle Services"><span>Oracle Services</span></a></li>
-              <li><a href="../sap_services/overview.html" title="SAP Services"><span>SAP Services</span></a></li>
+              <li><a href="../services/business_process_services/overview.html" title="Business Process Services">Business Process Services</a></li>
+              <li><a href="../services/consulting/overview.html" title="Consulting">Consulting</a></li>
+              <li><a href="../services/enterprise_integration/overview.html" title="Enterprise Integration">Enterprise Integration</a></li>
+              <li><a href="../services/IFS_Services/IFS_Services.html" title="IFS Services">IFS Services</a></li>
+              <li><a href="../services/ims/overview.html" title="Infrastructure Management Services">Infrastructure Management Services</a></li>
+              <li><a href="../services/microsoft_dynamics_services/overview.html" title="Microsoft Dynamics Services"><span>Microsoft Dynamics Services</span></a></li>
+              <li><a href="../services/oracle_services/overview.html" title="Oracle Services"><span>Oracle Services</span></a></li>
+              <li><a href="../services/sap_services/overview.html" title="SAP Services"><span>SAP Services</span></a></li>
               
-              <li><a href="../legacy_modernization/overview.html" title="Legacy Modernization">Legacy Modernization</a></li>
-              <li><a href="../manufacturing_execution_system/overview.html" title="Manufacturing Execution Systems">Manufacturing Execution Systems</a></li>
-              <li><a href="../enterprise_mobility/overview.html" title="Mobility Services">Mobility Services</a></li>
-              <li><a href="../plm/overview.html" title="Product Lifecycle Management">Product Lifecycle Management</a></li>
-              <li><a href="../systems_integration_services/overview.html" title="Systems Integration Services">Systems Integration Services</a></li>
-              <li><a href="../testing/overview.html" title="Testing Services">Testing Services</a></li>
+              <li><a href="../services/legacy_modernization/overview.html" title="Legacy Modernization">Legacy Modernization</a></li>
+              <li><a href="../services/manufacturing_execution_system/overview.html" title="Manufacturing Execution Systems">Manufacturing Execution Systems</a></li>
+              <li><a href="../services/enterprise_mobility/overview.html" title="Mobility Services">Mobility Services</a></li>
+              <li><a href="../services/plm/overview.html" title="Product Lifecycle Management">Product Lifecycle Management</a></li>
+              <li><a href="../services/systems_integration_services/overview.html" title="Systems Integration Services">Systems Integration Services</a></li>
+              <li><a href="../services/testing/overview.html" title="Testing Services">Testing Services</a></li>
+              <li><a href="../services/Workday_Practice.html" title="Workday Services">Workday Services</a></li>
           </ul>
         </article>
     </aside>
@@ -751,10 +799,13 @@ L&amp;T Infotech may choose to send direct mailers to you at the address given b
 
 <!-- Main Bottom Starts Here -->
 <div class="pageBottom ">
-    © Copyrights 2013 L&amp;T Infotech  All rights reserved.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="sitemap.html"> Sitemap </a>|  <a href="privacy_policy.html">Privacy Policy</a> |  <a href="social_media_policy.html">Social Media Policy</a>    
-<div class="social_icons"><a href="http://www.linkedin.com/company/4500" target="_blank" alt="Linkedin"><img src="images/linkedin.png"></a><a href="http://www.youtube.com/user/LarsenToubroInfotech" target="_blank" alt="Youtube"><img src="images/youtube.png"></a><a href="news_n_events/rss.html" alt="Blog"><img src="images/rss.png"></a></div>
-</div>
-        
+    <span class="copright">© Copyrights 2013 L&amp;T Infotech  All rights reserved.</span>
+    <span class="footer-link">
+        <a href="/sitemap.html"> Sitemap </a>|  <a href="/privacy_policy.html">Privacy Policy</a> |  <a href="/social_media_policy.html">Social Media Policy</a>
+    </span>
+    
+	<div class="social_icons"><a href="http://www.linkedin.com/company/4500" target="_blank" alt="Linkedin"><img src="/images/linkedin.png"></a><a href="http://www.youtube.com/user/LarsenToubroInfotech" target="_blank" alt="Youtube"><img src="/images/youtube.png"></a><a href="/news_n_events/rss.html" alt="Blog"><img src="/images/rss.png"></a></div>
+</div>        
 </div>
 <!-- Main Bottom ends Here -->
 <script type="text/javascript">
