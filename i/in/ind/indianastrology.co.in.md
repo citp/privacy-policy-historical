@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianastrology.co.in privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221143717id_/http%3A//indianastrology.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianastrology.co.in privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235844id_/http%3A//indianastrology.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Indian Astrology
 
