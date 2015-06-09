@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkwithin.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030143536id_/http%3A//www.linkwithin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkwithin.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609023015id_/http%3A//www.linkwithin.com/privacy) for the most accurate reproduction.*
 
 # LinkWithin - Privacy Policy
 
