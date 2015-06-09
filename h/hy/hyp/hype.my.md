@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hype.my privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625213154id_/http%3A//hype.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hype.my privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610004612id_/http%3A//hype.my/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hype.my
 
@@ -48,8 +48,8 @@ You should consult the respective privacy policies of these third-party ad serve
 Company uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Company and you do so at your own risk. Once we receive your transmission of information, Company makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
 To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Company, at all times.  
-**  
-**Compromise of Personal Information****  
+ **  
+ **Compromise of Personal Information****  
 In the event that personal information is compromised as a result of a breach of security, Company will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
 
 **Your Choices About Your Information**  
@@ -63,6 +63,6 @@ We are not responsible for the practices employed by Web sites linked to or from
 
 **Notification Procedures**  
 It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on our Website page, as determined by Company in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.  
-**  
-**Changes to Our Privacy Policy****  
+ **  
+ **Changes to Our Privacy Policy****  
 If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
