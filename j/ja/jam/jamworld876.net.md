@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jamworld876.net privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220122925id_/http%3A//www.jamworld876.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamworld876.net privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609021720id_/http%3A//www.jamworld876.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Jamworld876
-
-[Home](http://www.jamworld876.net/) Privacy policy
+# Privacy policy - Jamworld876
 
 This privacy policy sets out how Jamworld876 uses and protects any information that you give Jamworld876 when you use this website.
 
