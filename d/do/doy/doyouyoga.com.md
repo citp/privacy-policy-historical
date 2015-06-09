@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the doyouyoga.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209231128id_/http%3A//www.doyouyoga.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doyouyoga.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235755id_/http%3A//www.doyouyoga.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - DoYouYoga.com
+# Privacy Policy - DOYOUYOGA
 
 _Last modified: September  22nd, 2014_
 
