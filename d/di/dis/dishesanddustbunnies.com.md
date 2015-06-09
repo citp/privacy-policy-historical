@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dishesanddustbunnies.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127203340id_/http%3A//dishesanddustbunnies.com/%3Fpage_id%3D141) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dishesanddustbunnies.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609201114id_/http%3A//dishesanddustbunnies.com/%3Fpage_id%3D141) for the most accurate reproduction.*
 
 # Privacy Policy - Dishes and Dust Bunnies
 
@@ -34,13 +34,18 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
+Advertisement - Continue Reading Below
+
 **Review of Anonymous Data from Google Analytics**
 
 We are committed to ensuring that our website contains content that is valuable and useful to our readers. To help us with this we have implemented the Google analytics demographics and interest reporting features on our website. These tools allow us to review anonymous data regarding the gender, age and interests of website visitors and adapt our website content to better reflect their needs. Although this information is collected through your Google ad settings, it is not provided to us in a personally-identifiable format. This means we cannot identify what information is about you, and we will not try to figure it out.
 
 You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Google Ad settings](https://www.google.ca/settings/ads) or through the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
 
-   
  
 
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fdishesanddustbunnies.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
+* * *
+
+Affiliate links may be used in this post. Printing a coupon or ordering a product through an affiliate link may result in a commission, which helps pay for the cost of running this site and keeps the content free.  Please see my [disclosure ](http://dishesanddustbunnies.com/disclosure-policy/ "Disclosure Policy")and [privacy policy](http://dishesanddustbunnies.com/privacy-policy/ "Privacy Policy") for more information.
+
+* * *
