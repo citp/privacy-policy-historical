@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bestyummyrecipes.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626013429id_/http%3A//www.bestyummyrecipes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestyummyrecipes.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610004242id_/http%3A//www.allfood.recipes/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Best Yummy Recipes
+# Privacy Policy - All food Recipes
 
-Privacy Policy for the Website http://www.bestyummyrecipes.com
+Privacy Policy for the Website http://www.allfood.recipes
 
 The privacy of our visitors is important to us.
 
@@ -26,6 +26,6 @@ We may also use third party advertisements to support our website such as Google
 
 You can disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as commenting.
 
- _We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:  [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)_
+ _We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:  [http://www.networkadvertising.org/managing/opt_out.asp](http://recipes.yumm.netdna-cdn.com/wp-content/uploads/2013/05/opt_out.asp)_
 
-End of Privacy Policy for the Website http://www.bestyummyrecipes.com/
+End of Privacy Policy for the Website http://www.allfood.recipes/
