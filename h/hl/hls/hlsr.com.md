@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the hlsr.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608155146id_/http%3A//hlsr.com/AboutUs/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hlsr.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610013732id_/http%3A//www.rodeohouston.com/AboutUs/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
-
-#### What are Cookies?
-
-A cookie is an element of data that a Web site can send to your browser, which may then be stored on your system. This element of data is a piece of text, not a program. The Site can only access the information from a cookie sent by the Site. We cannot access other cookies sent by other Web sites or the information contained therein. Additionally, we cannot learn your e-mail address or any other information about you through the use of a cookie. The only way we would learn such information is if you specifically and voluntarily submit that information to us, for example, through a registration system, by entering a sweepstakes or promotion, etc.
-
-#### Why does the Site use cookies?
-
-The Show uses cookies to track usage of the Site and further personalize your experience when you are visiting the Site. By tracking usage, we can best determine what features of the Site best serve the users.
 
 #### What benefits do I receive from cookies?
 
@@ -44,6 +36,8 @@ We reserve the right to disclose Personal Information when needed to comply with
 
 This Privacy Policy only addresses the use and dissemination of information that we collect from you. To the extent that you disclose any information to other parties, whether through, for example, online auctions, chat rooms, personal ads, or the like, through third party services or promotions offered on or through the Site or through other Web sites throughout the Internet, different policies may apply and the Show shall not be responsible for the use or dissemination of such information.
 
+Third parties may use cookies, web beacons, and similar technologies to collect or receive information from this website and use that information to provide measurement services and target Facebook ads. Users may opt-out of the collection and use of information for ad targeting visiting [facebook.com/ads/website_custom_audiences/](https://www.facebook.com/ads/website_custom_audiences/).
+
 #### Links to Other Materials
 
 Third party sites linked to and from the Site are not necessarily under the control of the Show. The Show shall have no responsibilities or liabilities whatsoever for the content or privacy practices of any such linked site or any link or linking program at any time. The Show does not necessarily endorse companies (or related products or services) to or from which the Site is linked. If you decide to access any of the third party sites linked to the Site, you do so entirely at your own risk. The Show hereby disclaims any rights to trademarks, service marks, trade names, logos, copyrights, patents, domain names or other intellectual property interests of third parties.
@@ -55,6 +49,8 @@ The Show cares about the safety of children and their use of the Internet. There
 #### Opting-Out
 
 We respect your privacy and ability to choose whether to share information with us and any third party. You may choose to "opt-out" of sharing Personal Information in several ways. When choosing to use certain features or services on the Site, you can choose whether to share optional Personal Information in connection with the feature or service. If you receive communications from us that you prefer not to receive, you may opt-out from receiving these communications, either by specifically indicating this preference in a communication to us or by deleting your registration profile from our database. You may also opt-out altogether from providing Personal Information to us by not registering on the Site and thereby not providing Personal Information. You may also choose at a later date to have your name removed from our database. To do so, please follow the process described below. Certain portions of the Site and certain services provided on the Site, however, do require registration in order to access or use these areas and services. If you choose not to register or provide certain information, these areas will not be accessible to you.
+
+Users may opt-out of the collection and use of information for Facebook ad targeting by visiting [facebook.com/ads/website_custom_audiences/](https://www.facebook.com/ads/website_custom_audiences/ "facebook.com/ads/website_custom_audiences/").
 
 #### Reviewing, Changing and Deleting Your Personal Information
 
