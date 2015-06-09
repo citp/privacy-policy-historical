@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livability.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120084737id_/http%3A//livability.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livability.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610000700id_/http%3A//livability.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Livability
+# Privacy Policy
 
 At Livability.com, owned and operated by Journal Communications, Inc ("Livability" or "we" or "us" or "our"), we appreciate your use of and contributions to our Websites (defined to include all properties - mobile, web or otherwise - owned and operated by us) and features (known as the "services"). We respect your privacy and is committed to protecting your personal information.
 
