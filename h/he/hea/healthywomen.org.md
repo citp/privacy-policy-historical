@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthywomen.org privacy policy that was archived on 2014-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140729003216id_/http%3A//www.healthywomen.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthywomen.org privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609233826id_/http%3A//www.healthywomen.org/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | HealthyWomen
 
