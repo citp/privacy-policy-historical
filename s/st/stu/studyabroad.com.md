@@ -1,121 +1,132 @@
-> *The following text is extracted and transformed from the studyabroad.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226120501id_/http%3A//www.studyabroad.com/pages/sitecontent/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyabroad.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235703id_/http%3A//www.studyabroad.com/pages/sitecontent/privacy.aspx) for the most accurate reproduction.*
 
 # privacy - SA - Find a Study Abroad Program with StudyAbroad.com
 
-Thank you for visiting StudyAbroad.com (hereinafter referred to as "the Site"), which is owned and/or operated, in whole or in part, by EducationDynamics, LLC, a Delaware limited liability company (hereinafter referred to as "EducationDynamics," "us," "our," or "we"), and reviewing our Privacy Policy, effective August 25, 2008. EducationDynamics is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings.
+[](http://privacy.truste.com/privacy-seal/EducationDynamics,-LLC/validation?rid=bb73c301-e204-47d9-b804-58e6ba2d6d8f)
 
-**Overview**
+This is the privacy policy ("Privacy Policy") for the Web site ("Site") for StudyAbroad.com  ("SAB") www.studyabroad.com owned and operated by EducationDynamics, LLC (“EducationDynamics”). This Privacy Policy describes how we treat personal information received about you when you visit our Site.
 
-This Privacy Policy (hereinafter "Policy") governs your use of the Site. This Policy describes much of the information that we collect from you and what may happen to that information. For example, this Policy is intended to let you know about information we collect from you; what cookies are and how they may be used; how your information is often used; who is collecting your information; with whom your information may be shared; what options are available to you regarding collection, use, and distribution of your information; how you may use other users' information; the types of security precautions in place to protect against loss, misuse, or alteration of your information; how EducationDynamics protects children's privacy; and other important information about your online privacy.
+Please read this Privacy Policy carefully, because by visiting or using this Site, you agree to its terms.
 
-Please note that we review our privacy practices from time to time, and that our practices are subject to change. We ask that you bookmark and periodically review this page to ensure continuing familiarity with the most current version of our Privacy Policy. All amended terms shall be automatically effective after they are posted on the Site and applied retroactively if you use the Site after this Policy is amended.
+We may revise this Privacy Policy from time to time. When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page www.studyabroad.com or by e-mail of this Site that the policy has been updated prior to the change becoming effective and by changing the date on this page noting when the policy was last updated. If you see a notice of change, please check the Privacy Policy, because your continued use of the Site after we post the change means you have agreed to the new terms.
 
-By visiting the Site, you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree with the terms of this Privacy Policy, please do not use or access the Site.
+**Collection of Your Data**
 
-**What Personally Identifiable Information does EducationDynamics collect?**
+Personal Data. When you fill out a "Student Matching Profile", our Self-Assessment, our Financial Aid Estimator, and at other times, we ask for some information about you, such as your name, age, email address, postal address, and phone number, level of education, desired level of educational program, areas of interest, current occupation, military status (if any), governmental loan status. We do not knowingly collect information from children under the age of 13. 
 
-A primary purpose of collecting information from you is to provide you with a safe, smooth, effective, and personalized experience. We will only collect information about you that we consider necessary.
+Anonymous Data. As is true of most web sites, we gather certain information automatically and store it in log files.  We automatically collect IP addresses and Web site usage information from you when you visit the Site. This information helps us evaluate how our visitors use and navigate the Site on an aggregate basis, including the number and frequency of visitors to each Web page, and the length of their visits. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality. 
 
-Generally, EducationDynamics collects information in several ways. Some information is gathered if you fill out the form provided. This information includes, but is not limited to, your name, address, phone number, age, email address, and information concerning your educational interests. You may also choose to submit optional information, such as a password if you register. We often indicate which fields are required and which fields are optional. Additionally, we save browsing and data log information linked to your account. We also collect personal information when you report a problem, either through the Site's contact form or email system. We may also collect information that you post on our blogs, message boards, or forums. If you contact EducationDynamics, we may keep a record of that correspondence.
+**How We Use Your Information and How We Share Your Data**
 
-**What are "cookies" and how does EducationDynamics use them?**
+EducationDynamics will not sell or disclose your personally identifiable information except as described below: 
 
-Data collection devices, "cookies" (including without limitation "confirmation pixels" for crediting affiliate marketers and/or for other purposes) are used to store, and sometimes track, information about you. Generally, cookies help provide personalized services and promote trust and safety. A cookie is a small file containing a small amount of data that is sent to your browser from a web server and placed on your computer's hard drive to assist us in providing our services. All pages on the Site where you are prompted to login or that are customizable may require that you accept cookies. Our cookies are only read by the server that placed them and are unable to execute any code or virus. More specifically, we may use cookies to:
+If you use our site or if you post on our blogs, forums, message boards, or chat rooms, some personally identifiable information may be seen by other members or users. This includes, but is not limited to, the poster's name, date of post, comments, IP address, survey responses, and other information. This information may also be transferred to any outside entity, including the press or other media that visits our site. _To request removal of your personal information from our blog or forum, contact us at[info@studyabroad.com](mailto:info@studyabroad.com)_ .  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-  1. Remind us of who you are when you login and to access your account information in order to deliver to you a more personalized service; 
-  2. Allow you to enter your password less frequently during a session; 
-  3. Measure your visiting patterns and education-related parameters in the aggregate. Aggregate data (data gathered across all user accounts) may be gathered in a non-personally identifiable form to build higher quality online services by performing statistical analyses of the collective characteristics and behavior of our visitors, such as how long and how often users view certain pages; 
-  4. Determine your clickstream to the Site; 
-  5. Better personalize the content that you and other users will see on the Site; 
-  6. Collect IP addresses and log-in information for system administration; 
-  7. Automatically share some information with Google Analytics and other analytics programs to analyze a broad range of information. However, the analytics are exclusively for our internal use to better manage the website experience for our visitors and evaluate advertising strategies and tactics; and 
-  8. Other purposes to assist us in delivering the highest quality service possible. 
+We use the information we automatically collect (such as contact information, IP address and basic browser and system details) to help us optimize our sites and the services we currently offer on the sites and may offer in the future. We also collect personal information and share it with trusted third parties to analyze and provide us with feedback, suggestions and strategies to improve our business processes and the services we provide. If you elect to provide us with personally identifiable information, such information may also be used for marketing purposes, and may result in follow-up communications from EducationDynamics, our affiliated properties and services, and institutions of higher education about opportunities, programs and other services that are related to education. In addition, from time to time, we may share personally identifiable information (such as e-mail addresses and other contact information such as name, email address and phone number) with carefully selected third parties, so they may offer goods and services that we believe may be of interest to our customers.
 
+EducationDynamics shares your personal information (such as your name, age, whether not you are a U.S. citizen, address, phone number, e-mail address, military affiliation, educational background, and years of work experience), with the educational institutions you selected and, if you use one of our matching services, those institutions which we have matched your profile so that these institutions may contact you with information about their programs. EducationDynamics maintains business relationships with these institutions, which pay to be featured on this website.  Use of your personal information by these educational institutions is not governed by this Privacy Policy. For further information on such institution’s use of your information, please visit the applicable privacy policy of such institution. Educational institutions have separate policy practices for which EducationDynamics has no responsibility or liability. 
 
+We may provide your personal information to companies that provide services to help us with our business activities such as offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
 
-You are always free to decline our cookies if your browser permits.
+If you submit information to an advertiser or other third party that is made available on or through EducationDynamics, the information obtained during your visit to that advertiser’s website, and the information you give to the advertiser will be governed by the advertiser’s privacy policy. For further information on such advertiser’s use of your information, please visit the applicable privacy policy of such advertisers. Advertisers made available on this site have separate policy practices for which EducationDynamics has no responsibility or liability. 
 
-**How does EducationDynamics use my information?**
+We may disclose account information where we have reason to believe that disclosing the information is necessary to identify, contact, or bring legal action against someone who may be violating EducationDynamics's policies as specified in the Privacy Policy or relevant User Agreement, may be violating state or federal law, or may be causing injury to or interference with (either intentionally or unintentionally) EducationDynamics's rights or property, other users of the Site, or anyone else that could be harmed by such activities. EducationDynamics may disclose or access account information when we believe that the law requires it and for administrative and other purposes that we deem necessary to maintain and improve our services. 
 
-EducationDynamics will not disclose your personally identifiable information except as described below:
+Additionally, EducationDynamics uses your information to provide you with a customized browsing experience. We also may use your personal information to resolve disputes, troubleshoot problems, respond to your inquiries, detect and protect against error, fraud, or other criminal activity, enforce our User Agreement, and for any other purposes that EducationDynamics deems appropriate. 
 
-If you use our site or if you post on our blogs, forums, message boards, or chat rooms, some personally identifiable information may be seen by other members or users. This includes, but is not limited to, the poster's name, date of post, comments, IP address, survey responses, and other information. This information may also be transferred to any outside entity, including the press or other media that visits our site. 
+We cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Policy. For example, we may be forced to disclose information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they unlawfully collect from the Site. We will try to protect your privacy, however, we do not promise, and you should not expect, that your personal information or private communications will always remain private. 
 
-We use the information we automatically collect (such as contact information, IP address and basic browser and system details) to help us optimize our sites and the services we currently offer on the sites and may offer in the future.  We also collect personal information and share it with trusted third parties to analyze and provide us with feedback, suggestions and strategies to improve our business processes and the services we provide.  If you elect to provide us with personally identifiable information, such information may also be used for marketing purposes, and may result in follow-up communications from EducationDynamics, our affiliated properties and services, and institutions of higher education about opportunities, programs and other services that are related to education. In addition, from time to time, we may share personally identifiable information (such as e-mail addresses and other contact information such as name, email address and phone number) with carefully selected third parties, so they may offer goods and services that we believe may be of interest to our customers.
+**Newsletter Subscription**
 
-EducationDynamics shares your personal information with the educational institutions you selected and, if you use one of our matching services, those institutions which we have matched your profile so that these institutions may contact you with information about their programs. Use of your personal information by these educational institutions is not governed by this Privacy Policy.  For further information on such institution’s use of your information, please visit the applicable privacy policy of such institution.  Educational institutions have separate policy practices for which EducationDynamics has no responsibility or liability.    
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the “Choice and Opt-out” section. 
 
-If you submit information to an advertiser or other third party that is made available on or through EducationDynamics, the information obtained during your visit to that advertiser’s website, and the information you give to the advertiser will be governed by the advertiser’s privacy policy.  For further information on such advertiser’s use of your information, please visit the applicable privacy policy of such advertisers. Advertisers made available on this site have separate policy practices for which EducationDynamics has no responsibility or liability.
+**Choice and Opt-out**
 
-We may disclose account information where we have reason to believe that disclosing the information is necessary to identify, contact, or bring legal action against someone who may be violating EducationDynamics's policies as specified in the Privacy Policy or relevant User Agreement, may be violating state or federal law, or may be causing injury to or interference with (either intentionally or unintentionally) EducationDynamics's rights or property, other users of the Site, or anyone else that could be harmed by such activities. EducationDynamics may disclose or access account information when we believe that the law requires it and for administrative and other purposes that we deem necessary to maintain and improve our services.
+You can let us know that you do not wish us to share your information with third parties for marketing purposes or to notify you about our own products and services and special offers by opting out at the time that you submit your Student Matching Profile or by sending us a written request either by email to [info@educationdynamics.com](mailto:info@educationdynamics.com) or via postal mail. 
 
-Additionally, EducationDynamics uses your information to provide you with a customized browsing experience. We also may use your personal information to resolve disputes, troubleshoot problems, respond to your inquiries, detect and protect against error, fraud, or other criminal activity, enforce our User Agreement, and for any other purposes that EducationDynamics deems appropriate.
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by clicking on the following [link](http://info.educationdynamics.com/pub/sf/ResponseForm?_ri_=X0Gzc2X%3DWQpglLjHJlYQGroJByXsLMipLn782uGlrzbzbKJYCzc6fVXMtX%3DWQpglLjHJlYQGjizdCM0OzgaFFM0oE20szajpg6zabflKn&_ei_=Eh8sAPyHjHpbZC3nEjt-JOw) to add your email address to our unsubscribe lists. To add your telephone number directly to our Do Not Call lists please email [info@educationdynamics.com](mailto:info@educationdynamics.com). 
 
-We cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Policy. For example, we may be forced to disclose information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they unlawfully collect from the Site. We will try to protect your privacy, however, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
+Please address postal mail requests to: 
 
-**Who is collecting information?**
+Attn: Unsubscribe   
+EducationDynamics, LLC  
+5 Marine View Plaza, Suite 212  
+Hoboken, NJ 07030
 
-When you are using the Site and are asked for personal information, you are sharing that information with EducationDynamics. You acknowledge that data can be collected, maintained by, or transferred to a company, an educational institution, or other entity, within the sole judgment of EducationDynamics. You also acknowledge and agree that the data can be combined and/or refined and/or used in any other matter with data from any of the websites owned and/or operated, in whole or in part, by EducationDynamics.
+Please be aware that we do not control the activities of the educational institutions with which we match your profile or any third parties to whom we have provided your information for marketing purposes. If you wish them to stop contacting you, you will need to notify them of this fact separately. 
 
-Please be advised that EducationDynamics advertisers or websites that have links on the Site may collect personally identifiable information about you. The information practices of those websites linked to EducationDynamics.com are not covered by this Policy.
+Technologies such as: cookies, beacons, tags and scripts are used by EducationDynamics and our marketing partners, affiliates, or analytics. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-**With whom does EducationDynamics.com share my information?**
+We use cookies for _remember users’ settings, for authentication, and for remarketing._ Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
 
-EducationDynamics will not disclose your personally identifiable information except as described below:
+We use Local Storage Objects (LSOs) such as HTML5 or Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML5 or Flash to collect and store information.
 
-If you use our Site or if you post on our blogs, forums, message boards, or chat rooms, some personally identifiable information may be seen by other members or users. This includes, but is not limited to, the poster's name, date of post, comments, IP address, survey responses, and other information. This information may also be transferred to any outside entity, including the press or other media.
+Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
-Some of our employees and contractors are subject to non-disclosure agreements with us. These and other legal restrictions may prohibit their use of the information you provide us for any purpose except to facilitate the specific EducationDynamics-related operation, unless you explicitly agreed or gave your prior permission to them for additional uses.
+**Supplementation of Information**
 
-If you complete a transaction with an advertiser linked to EducationDynamics, the information obtained during your visit to that advertiser, and the information you give, may be provided to the advertiser. Advertisers linked to the Site have separate policy practices for which EducationDynamics has no responsibility or liability.
+In order to provide accurate school matching services to you, we may on occasion supplement the personally identifiable information you submitted to us with information from third party sources. 
 
-We may disclose account information where we have reason to believe that disclosing the information is necessary to identify, contact, or bring legal action against someone who may be violating EducationDynamics's policies as specified in the Privacy Policy or relevant User Agreement, may be violating state or federal law, or may be causing injury to or interference with (either intentionally or unintentionally) EducationDynamics's rights or property, other users of the Site, or anyone else that could be harmed by such activities. EducationDynamics may disclose or access account information when we believe that the law requires it and for administrative and other purposes that we deem necessary to maintain and improve our services.
+**Address and Phone Number Verification**
 
-We cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Policy. For example, we may be forced to disclose information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they unlawfully collect from the Site. We will try to protect your privacy, however, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
+We use TargusInfo validation to verify your address and phone number, in order to accurately match you to your chosen course of study and school program. 
 
-**What are my choices regarding collection, use, and distribution of my information?**
+**Share with a Friend Feature**
 
-EducationDynamics will contact you (by email, phone, and/or mail) if you complete a contact form on the Site, if you register for a membership, or if you contact us directly by direct mail or email. We will also contact you regarding any problems with your account and for website misuse. We may also contact you regarding our services, such as new features regarding our websites or other education-related updates. We may also contact you about "special offers" from our partners. Also, we may contact you to check on the status of your enrollment or other education-related activities. Simply send us an email if you do not wish to receive optional communications.
+If you choose to use our referral service to email a friend or bookmark a page, about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Addthis.com functionality does not store this information for the sole purpose of sending this one-time email. 
 
-**How may I use other users' information?**
+**Customer Testimonials**
 
-Recognizing the global nature of the Internet, you agree to comply with all applicable local laws and rules regarding online conduct and privacy, as well as content. Specifically, but not as a limitation, you agree to comply with all applicable laws regarding transmission of technical and personal data exported from the United States or the country in which you reside.
+We post customer testimonials on our web site which may contain personally identifiable information like a video along with their first and last name. We do obtain the customer's consent via email or via other means prior to posting the testimonial to post their name and video along with their testimonial. 
 
-Spam. We do not tolerate spam. You are not licensed to add us or any user to your mail (email or physical mail) list without his or her affirmative consent. You are not licensed to use spam in promoting the Site.
+**Behavioral targeting/Re-targeting**
 
-**What security precautions are in place to protect the loss, misuse, or alteration of my information?**
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/)  Please note this does not opt you out of being served ads.  You will continue to receive generic ads. ****
 
-Whenever EducationDynamics handles your personal information, we take steps to ensure that your information is treated securely and in accordance with the relevant User Agreement and this Policy. Your information is stored on our servers located in the United States. We use procedural and mechanical safeguards to protect your personal information against loss or theft as well as unauthorized access and disclosure to protect your privacy, including encryption. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. We cannot, therefore, warrant or ensure the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
+**Social Media Features and Widgets**
 
-If you are a registered user of the Site, your registration/account information may be password protected so that only you have access to this personal information. We recommend that you do not disclose your password to anyone. EducationDynamics will never ask you for your password in an unsolicited phone call or unsolicited email. If you choose to share your user name and password or your personal information with third parties, you are responsible for all actions taken with your account and therefore you should review that third party's privacy policy. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password.
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
 
-**Google Analytics**
+**Links to Other Web Sites**
 
-We have implemented Demographics and Interests Reports in Google Analytics that help us understand the age, gender and interests of site visitors to StudyAbroad.com.  This information is used to help us continue to improve the site content and experience.  Visitors can download [Google's Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/) to prevent their data from being collected and used by Google Analytics.
+If you click on a link to a third party site, including on an advertisement, you will leave the www.studyabroad.com site you are visiting and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as www.studyabroad.com. We encourage you to review the privacy statements of any other service provider from whom you request services. If you visit a third party website that is linked to a www.studyabroad.com site, you should read that site’s privacy statement before providing any personally identifiable information.
 
-**Additional Information**
+**Transfer to the United States**
 
-Any questions regarding this statement should be directed to [info@StudyAbroad.com](mailto:info@StudyAbroad.com).
+If you are located outside of the United States, please note that the personal data you provide to us will be transferred to the United States. Whenever you submit any personal data to us, you consent to this transfer. 
 
-This Policy, and the relevant User Agreement, are the sole authorized statements of EducationDynamics's practices with respect to the online collection of personally identifiable information and the usage of such information. Any summaries of this Policy generated by third party software or otherwise shall have no legal effect, are in no way binding upon EducationDynamics, shall not be relied upon in substitute for this Policy, and neither supersede nor modify this Policy.
+**Review and Correction**
 
-EducationDynamics reserves the right to transfer any and all information that we collect from visitors, or that we otherwise collect concerning or in connection with the Site, to a third party in the event of a sale or other transfer of assets or of any portion of our business.
+You may review, update and delete the personal data you have provided to us contacting us via e-mail at [info@studyabroad.com](mailto:info@studyabroad.com) or by sending us written notice via postal mail to: 
 
-Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or account information. Please be careful and responsible.
+Attn: Information Inquiry or Update   
+StudyAbroad.com  
+3803 West Chester Pike  
+Suite 125  
+Newtown Square, PA 19073
 
-The terms of this Privacy Policy are enforced by Dozier Internet Law, P.C.: <http://www.cybertriallawyer.com/>
+Any revisions you provide to your personal data will be applied in our own records but will not be updated in the records of the educational institutions to which we have already provided your data. If you would like to review and correct the personal data that has been provided to educational institutions, you will need to contact them separately. 
 
-**Contact details**
+We will retain your information for as long as your account is active or as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-If you would like to contact us for information on any of our services, information on our privacy policy, or for any reason relating to our site, we can be reached at the following:
+**Security Practices**
 
-Contact Name: EducationDynamics  
-Address: 1350 Edgemont Avenue, Suite 1100, Chester, PA 19013 USA  
-PH: 1-484-766-2930  
-FAX: 1-610-499-9205  
-E-mail: [info@StudyAbroad.com](mailto:info@StudyAbroad.com)  
-URL: [www.EducationDynamics.com/](http://www.educationdynamics.com/)
+We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
-EducationDynamics reserves the right to modify or supplement this Privacy Policy statement at any time.
+If you have any questions about security on our Web site, you can send email us at [info@studyabroad.com](mailto:info@studyabroad.com).
 
-This updated policy is effective as of October 24, 2012.
+**Business Transfers**
+
+In the event that someone buys or acquires us or substantially all of our assets, our information about you and your use of our services will likely be one of the acquired assets. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+
+**Legal Disclaimer**
+
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site. 
+
+**Truste Privacy**
+
+EducationDynamics, LLC has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, www.studyabroad.com.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+
+**Last Updated on June 3, 2015.**  This Privacy Policy is effective immediately for new users after that date and will become effective on June 1, 2015 for pre-existing users. To review the previous policy, please click [here](http://studyabroad.com/images/email/SAB_PrivacyPolicy_October2012-June2015.pdf).
