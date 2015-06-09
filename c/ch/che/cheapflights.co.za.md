@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapflights.co.za privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123022509id_/http%3A//www.cheapflights.co.za/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapflights.co.za privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609234907id_/http%3A//www.cheapflights.co.za/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,7 +78,7 @@ Our site may, from time to time, contain links to and from the websites of our p
 
 ## Access to information
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of 134 South African Rand (£10 GBP) to meet our costs in providing you with details of the information we hold about you. 
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 GBP (R192 approximately) to meet our costs in providing you with details of the information we hold about you. 
 
 ## Log Files and Tracking
 
