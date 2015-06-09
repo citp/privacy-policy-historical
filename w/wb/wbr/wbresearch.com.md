@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbresearch.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224051923id_/http%3A//www.wbresearch.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbresearch.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609161634id_/http%3A//www.wbresearch.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Worldwide Business Research | Turning Leading Edge Research into Business Critical Events
 
