@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vcricket.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120170403id_/http%3A//www.vcricket.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcricket.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610000647id_/http%3A//www.vcricket.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Read on to know about the online privacy policy of vcricket.com
 
-Revision - v1.1 - 25th November, 2010.   
+Revision - v1.1 - 25th November, 2010.  
 (added to v1.0)
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
@@ -29,10 +29,8 @@ WE ARE NOT RESPONSIBLE FOR THE USER INFORMATION PROVIDED AT THIRD PARTY PARTNERS
 
 No data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect users' personal information, we cannot ensure or warrant the security of any information transmitted to it or from its online products or services, and users do so at their own risk.
 
-We are not responsible  for voluntarily disclosure of personal information online in our public displayed services.
+We are not responsible for voluntarily disclosure of personal information online in our public displayed services.
 
 We do not promote our services to children under the age of 13.
 
 If there is is a change in privacy policy, we will post the changes here and would also notify to the user if there is a change in the policy.
-
-| 
