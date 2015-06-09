@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cutleryandmore.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121014809id_/http%3A//www.cutleryandmore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutleryandmore.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610002635id_/http%3A//www.cutleryandmore.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | cutleryandmore.com
 
