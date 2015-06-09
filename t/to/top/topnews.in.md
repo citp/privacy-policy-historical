@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topnews.in privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215084808id_/http%3A//www.topnews.in/privacy-policy-213209) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topnews.in privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609214702id_/http%3A//www.topnews.in/privacy-policy-213209) for the most accurate reproduction.*
 
 # Privacy Policy | TopNews
 
