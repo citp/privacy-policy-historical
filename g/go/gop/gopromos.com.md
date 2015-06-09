@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gopromos.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203102722id_/http%3A//www.amsterdamprinting.com/Default.aspx%3FFocusId%3Dprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopromos.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610012529id_/http%3A//www.amsterdamprinting.com/Default.aspx%3FFocusId%3Dprivacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | Amsterdam Printing Promotional Products
+# Privacy Policy | Amsterdam Printing
 
 At www.amsterdamprinting.com, we respect our customers and understand that you are concerned about privacy.  The purpose of this privacy policy is to let you know what kind of information we collect, how we use it, with whom it may be shared, what choices you have regarding our use of your information, and how you may review and change some of the data you provide to us. Our practices comply with all applicable U.S. laws and requirements.
 
