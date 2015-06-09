@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehumbledhomemaker.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122001340id_/http%3A//thehumbledhomemaker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehumbledhomemaker.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610002820id_/http%3A//thehumbledhomemaker.com/privacy) for the most accurate reproduction.*
 
 # Privacy - The Humbled Homemaker
 
