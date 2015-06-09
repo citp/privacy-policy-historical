@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tapology.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007050503id_/http%3A//www.tapology.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tapology.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609233359id_/http%3A//www.tapology.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tapology
 
@@ -54,4 +54,4 @@ We are not responsible for the practices, information or content of sites linked
 
 If we change our privacy policies and procedures, we will post those changes to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
 
-© 2014 Tapology. All rights reserved.
+© 2015 Tapology. All rights reserved.
