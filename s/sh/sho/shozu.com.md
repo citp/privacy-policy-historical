@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shozu.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220063235id_/http%3A//owmessaging.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shozu.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609073921id_/http%3A//owmessaging.com/privacy-policy) for the most accurate reproduction.*
 
 # Openwave Messaging, Inc.
 
@@ -36,8 +36,8 @@ Our site may link to other websites and widgets not controlled by Openwave Messa
 Any changes to this Privacy Policy will be promptly posted on this Privacy Policy page, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes to this Privacy Policy, we will notify you here, by email, or by means of a notice on our home page.
 
 **Data Access Requests**  
-You may access your personal information on request, except as otherwise prohibited by law, and confer on individuals the right to have your personal information amended if found to be incorrect. For information on our Access Request Policy, please send us a request to[ legal@owmessaging.com](mailto:legal@owmessaging.com). Alternatively, you can write to the Data Protection Officer, 42-47 Lower Mount Street, Dublin 2, Ireland.
+You may access your personal information on request, except as otherwise prohibited by law, and confer on individuals the right to have your personal information amended if found to be incorrect. For information on our Access Request Policy, please send us a request to[ legal@owmessaging.com](mailto:legal@owmessaging.com). Alternatively, you can write to the Data Protection Officer, Openwave Messaging, Simmonscourt House, Simmonscourt Road, Ballsbridge, Dublin 4, Ireland.
 
 **Enforcement**  
 We comply with data protection laws in the jurisdictions where we conduct our business. We regularly review our Privacy Policy to ensure compliance.  
-If you have any questions, comments or have complaint to make regarding our policy please email us at [legal@owmessaging.com](mailto:%20legal@owmessaging.com) or contact the Data Protection Officer, 42-47 Lower Mount Street, Dublin 2, Ireland. If your enquiry has not been satisfactorily addressed or your complaint cannot be resolved through our internal processes, please contact the relevant EU data protection authorities in your jurisdiction.
+If you have any questions, comments or have complaint to make regarding our policy please email us at [legal@owmessaging.com](mailto:%20legal@owmessaging.com) or contact the Data Protection Officer, Openwave Messaging, Simmonscourt House, Simmonscourt Road, Ballsbridge, Dublin 4, Ireland. If your enquiry has not been satisfactorily addressed or your complaint cannot be resolved through our internal processes, please contact the relevant EU data protection authorities in your jurisdiction.
