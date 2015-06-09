@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shemaletubevideos.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626064051id_/http%3A//www.shemaletubevideos.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shemaletubevideos.com privacy policy that was archived on 2015-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150609234323id_/http%3A//www.shemaletubevideos.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title> Privacy policy - ShemaleTubeVideos</title>
@@ -9,7 +9,9 @@
 <meta name="robots" content="index, follow">   
 <meta name="google-site-verification" content="cYglDdfdGbUjBFqAO0L0oL66A7yMHbQdYbYl6hTqHhM">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link href="http://www.shemaletubevideos.com/stp/css/blue/main.css" rel="stylesheet" type="text/css">
+<link href="http://www.shemaletubevideos.com/stp/css/red/main.css?v2" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://www.shemaletubevideos.com/stp/js/functions.js"></script>
+<script type="text/javascript" src="http://www.shemaletubevideos.com/stp/js/thumb_rotate.js"></script>
 
 
 
@@ -20,236 +22,14 @@
 
 
 
-<script>
-var _thumbs = new Array();
 
-function changeThumb(index, i, num_thumbs, path)
 
-{
-
-    if (_thumbs[index])
-
-    {    	  
-
-        document.getElementById(index).src = path + i + ".jpg";
-
-        
-
-        preload = new Image();
-
-        preload_image_id = (i + 1 > num_thumbs) ? 1 : i + 1;
-
-        preload.src = path + preload_image_id + ".jpg";
-
-        
-
-        i = i % num_thumbs;
-
-        i++;
-
-        setTimeout("changeThumb('" + index + "'," + i + ", " + num_thumbs + ", '" + path + "')", 600);
-
-    }
-
-}    
-
-function startThumbChange(index, num_thumbs, path)
-
-{    
-
-	if (num_thumbs < 2) return false;
-
-    _thumbs[index] = true;
-
-    changeThumb(index, 1, num_thumbs, path);
-
-}
-
-function endThumbChange(index, image)
-
-{
-
-    _thumbs[index] = false;
-
-    document.getElementById(index).src = image;
-
-}
-
-
-// Checkbox checking/unchecking/inverting functions
-function checkAll(id){
-   var f = document.getElementById(id);
-   var inputs = f.getElementsByTagName("input");
-   for(var t = 0;t < inputs.length;t++){
-     if(inputs[t].type == "checkbox")
-       inputs[t].checked = true;
-   }
- }
- function uncheckAll(id){
-   var f = document.getElementById(id);
-   var inputs = f.getElementsByTagName("input");
-   for(var t = 0;t < inputs.length;t++){
-     if(inputs[t].type == "checkbox")
-       inputs[t].checked = false;
-   }
- }
- function invertAll(id){
-   var f = document.getElementById(id);
-   var inputs = f.getElementsByTagName("input");
-   for(var t = 0;t < inputs.length;t++){
-     if(inputs[t].type == "checkbox")
-       inputs[t].checked = !inputs[t].checked;
-   }
- }
- 
-// Hide/Show Divs
-function hideDiv(div) {
-    if (!document.getElementById) return;
-    obj = document.getElementById(div);
-    obj.style.display="none";
-}
-function showDiv(div) {
-    if (!document.getElementById) return;
-    obj = document.getElementById(div);
-    obj.style.display="block";
-}
-
-function showhide(id)
-{
-   if (document.getElementById){
-	obj = document.getElementById(id);
-	if (obj.style.display == "none"){
-	    obj.style.display = "";
-	} else {
-	    obj.style.display = "none";
-	}
-   }
-}
-
-function del(msg)
-{
-   var tmp=confirm((msg) ? msg : "Do you really want to delete?");
-   if(!tmp)
-   return false;
-   else
-   return true;
-}
-
-function setSearchOptions(idElement, classname, field, option)
-{
-   tab = document.getElementById('tab'+idElement);
-   search_option = document.getElementById(field);
-   for (i=1; i<=6; i++){
-      if (i == idElement){        
-         tab.className = classname;        
-         search_option.value = option;
-      } 
-      else {        
-         document.getElementById('tab'+i).className = "";
-      }
-   }
-}
-
-function setDefaultThumb(id, total, classnameON, classnameOFF) {
-
-   for (i=1; i<=total; i++)
-   {
-      if (i == id){        
-         document.getElementById('thumb'+i).className = classnameON;        
-         document.getElementById('default_thumb').value = i;
-      } 
-      else {        
-         document.getElementById('thumb'+i).className = classnameOFF;
-      }
-   }
-}
-
-function setDefaultGalleryThumb(id, thumb, total, classnameON, classnameOFF) {
-
-   for (i=1; i<=total; i++)
-   {
-      if (i == id){        
-         document.getElementById('thumb'+i).className = classnameON;     
-         document.getElementById('default_thumb').value = thumb;
-      } 
-      else {        
-         document.getElementById('thumb'+i).className = classnameOFF;
-      }
-   }
-}
-
-function addBookmark(title,url){
-if (window.sidebar) // firefox
-	window.sidebar.addPanel(title, url, "");
-else if(window.opera && window.print){ // opera
-	var elem = document.createElement('a');
-	elem.setAttribute('href',url);
-	elem.setAttribute('title',title);
-	elem.setAttribute('rel','sidebar');
-	elem.click();
-} 
-else if(document.all)// ie
-	window.external.AddFavorite(url, title);
-}
-
-function player_start(cache_id) 
-{
-	if (!play_count)
-	{		
-		viewsCounterCallback = xajax.callback.create();
-		viewsCounterCallback.onComplete = function(oRequest) {			
-			if (CallbackArgs.play) {play_count++;}			
-			CallbackArgs = {};
-		}
-		
-		viewsCounterCallback.onFailure = function(oRequest) {
-			$f().stop();			
-			CallbackArgs = {};
-		}
-
-		xajax.call('video_views_counter', {callback: viewsCounterCallback, parameters: [cache_id]} );
-	}
-}
-
-
-</script>
-
-
-
-
-
-
-
-
-
-
-<script type="text/javascript">
-
-jQuery.noConflict();
-
-</script>
-<!--[if IE 6]><link rel="styleheet" href="http://www.shemaletubevideos.com/stp/css/blue/ie6.css" type="text/css" /><![endif]-->
-
-<script type="text/javascript">
-
-
-$(document).ready(function () {
-	$('#ticker1').rssfeed('http://www.shemaletubevideos.com/feed/rss/videos/recent/shemale/all/all/day/',{
-		snippet: false
-
-	}, function(e) {
-		$(e).find('div.rssBody').vTicker({
-			showItems: 1
-		});
-	});
-});
-
-</script>
-</head><body><div class="preload"><img src="http://www.shemaletubevideos.com/stp/images/blue/bg.jpg"><img src="http://www.shemaletubevideos.com/stp/images/blue/header-xa1.png"><img src="http://www.shemaletubevideos.com/stp/images/blue/header-xa2.png"></div><div class="center"><div class="head"> <a href="http://www.shemaletubevideos.com/"><img src="http://images.shemaletubevideos.com:81/stp/images/blue/logo.png" class="logo" height="152" width="370" alt="Shemale Tube Videos"></a><p class="logo-txt"></p><ul class="nav"><li><a href="http://www.shemaletubevideos.com/">Home</a></li><li class="menudrop"><a href="http://www.shemaletubevideos.com/videos/all/video-recent.html">Videos ▼</a><div class="menu_list"><span><a href="http://www.shemaletubevideos.com/videos/all/video-recent.html">Most Recent</a></span><span><a href="http://www.shemaletubevideos.com/videos/all/video-view.html">Most Views</a></span><span><a href="http://www.shemaletubevideos.com/videos/all/video-rate.html">Top Rated</a></span><span><a href="http://www.shemaletubevideos.com/videos/all/video-length.html">Longest</a></span></div></li><li class="menudrop"><a href="http://www.shemaletubevideos.com/galleries/all/all-recent.html">Pictures ▼</a><div class="menu_list"><span><a href="http://www.shemaletubevideos.com/galleries/all/all-recent.html">Most Recent</a></span><span><a href="http://www.shemaletubevideos.com/galleries/all/all-view.html">Most Views</a></span><span><a href="http://www.shemaletubevideos.com/galleries/all/all-rate.html">Top Rated</a></span></div></li><li class="categories"><a href="http://www.shemaletubevideos.com/categories/">Categories ▼</a><div class="cat_list"><span><a href="http://www.shemaletubevideos.com/videos/shemale/amateur-recent.html">Amateur</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/anal-recent.html">Anal</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/anime-recent.html">Anime</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/asian-recent.html">Asian</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/ass-recent.html">Ass</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/bareback-recent.html">Bareback</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/bathroom-recent.html">Bathroom</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/bigcock-recent.html">Bigcock</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/bigtits-recent.html">Bigtits</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/bikini-recent.html">Bikini</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/blonde-recent.html">Blonde</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/blowjob-recent.html">Blowjob</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/bondage-recent.html">Bondage</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/brunette-recent.html">Brunette</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/crossdress-recent.html">Crossdress</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/cumshot-recent.html">Cumshot</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/deepthroat-recent.html">Deep Throat</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/ebony-recent.html">Ebony</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/exotic-recent.html">Exotic</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/facial-recent.html">Facial</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/fetish-recent.html">Fetish</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/fingering-recent.html">Fingering</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/futanaria-recent.html">Futanaria</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/gaping-recent.html">Gaping</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/groupsex-recent.html">Groupsex</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/handjob-recent.html">Hand Job</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/hardcore-recent.html">Hardcore</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/interracial-recent.html">Interracial</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/kissing-recent.html">Kissing</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/ladyboy-recent.html">Ladyboy</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/latex-recent.html">Latex</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/latin-recent.html">Latin</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/lingerie-recent.html">Lingerie</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/masturbation-recent.html">Masturbation</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/mature-recent.html">Mature</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/outdoor-recent.html">Outdoor</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/pornstars-recent.html">Pornstars</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/postop-recent.html">Post-Op</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/redhead-recent.html">Redhead</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/shemalewithfemale-recent.html">Shemale &amp; Female</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/shemalewithshemale-recent.html">Shemale &amp; Shemale</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/skinny-recent.html">Skinny</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/solo-recent.html">Solo</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/teen-recent.html">Teen</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/toys-recent.html">Toys</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/wedding-recent.html">Wedding</a></span></div></li><li class="menudrop"><a href="http://date.shemaletubevideos.com">Top Shemale Paysites ▼</a><div class="menu_list"><span><a href="http://track.dannixxx.com/track/OTk0LjQuMTM2LjIzNy4wLjYwMTE3ODEuMC4wLjA" target="_blank">Danni XXX<font color="#FFE73A"> <b>NEW</b></font></a></span><span><a href="http://refer.ccbill.com/cgi-bin/clicks.cgi?CA=904803-0000&amp;PA=2073467&amp;HTML=http://hungshemales.net/tour/" target="_blank">Hung Shemales<font color="#FFE73A"> <b>NEW</b></font></a></span><span><a href="http://refer.ccbill.com/cgi-bin/clicks.cgi?CA=904803-0000&amp;PA=2073467&amp;HTML=http://nicolebigcaliber.com/tour/" target="_blank">Nicole BigCaliber<font color="#FFE73A"> <b>NEW</b></font></a></span><span><a href="http://refer.ccbill.com/cgi-bin/clicks.cgi?CA=904803-0000&amp;PA=2073467&amp;BAN=0&amp;HTML=http://shelesbianpov.com/tour/" target="_blank">SheLesbianPOV</a></span><span><a href="http://refer.ccbill.com/cgi-bin/clicks.cgi?CA=904803-0000&amp;PA=2073467&amp;HTML=http://tskarlacarrillo.com/tour/" target="_blank">Karla Carrillo</a></span><span><a href="http://www.linkfame.com/tsplayground/go.php?pr=8&amp;su=2&amp;si=165&amp;pa=index&amp;ar=&amp;ad=187816&amp;campaign=7378&amp;pg=2" target="_blank">Evil Angel Shemales</a></span><span><a href="http://www.freetrannypassport.com/?t=107130,5,104,0" target="_blank">Free Tranny Passport</a></span><span><a href="http://www.andreanobiliproductions.com/home.php?ccr=2111573" target="_blank">Andrea Nobili Bigcocks</a></span><span><a href="http://refer.ccbill.com/cgi-bin/clicks.cgi?CA=904803-0000&amp;PA=2073467&amp;BAN=0&amp;HTML=http://tsmarianacordoba.com/tour/" target="_blank">Mariana Cordoba</a> </span><span><a href="http://track.ts-baileyjay.com/track/MjYxMTo0OjQ1/" target="_blank">Bailey Jay<font color="#FFE73A"> <b>HOT</b></font></a></span><span><a href="http://refer.ccbill.com/cgi-bin/clicks.cgi?CA=904803-0000&amp;PA=2073467&amp;BAN=0&amp;HTML=http://anatranny.com/join.php" target="_blank">Ana Tranny</a></span><span><a href="http://refer.ccbill.com/cgi-bin/clicks.cgi?CA=904803-0000&amp;PA=2073467&amp;BAN=0&amp;HTML=http://sapphireyoung.com/tour/" target="_blank">Sapphire Young</a> </span><span><a href="http://www.sheanimale.com/tour.php?id=1494292" target="_blank">Shemale Anime</a> </span><span><a href="http://date.shemaletubevideos.com">Date a Shemale</a></span></div></li><li class="menudrop"><a href="http://www.shemaletubevideos.com/liveshemalechat/">Live Cams &amp; Games ▼</a><div class="menu_list"><span><a href="http://www.shemaletubevideos.com/liveshemalechat/">Live Shemale Chat</a></span><span><a href="http://www.shemaletubevideos.com/liveshemalesexshow/">Live Shemale Sexshow</a></span><span><a href="http://www.shemaletubevideos.com/shemalechallenge/">Shemale Quiz</a></span><span><a href="http://www.shemaletubevideos.com/shemaleshellgame/">Shemale Shell Game</a></span><span><a href="http://www.shemaletubevideos.com/bonetown/">Bone Town</a></span><span><a href="http://www.shemaletubevideos.com/shemaleroulette/">Shemale Roulette</a></span><span><a href="http://www.redlightcenter.com/transgender/?trq=87358" target="_blank">Virtual TS World</a></span></div></li><li><a href="http://www.shemaletubevideos.com/?view=submit">Upload</a></li><li><a href="http://www.shemaletubevideos.com/members/?sort=view">Members</a></li><li><a href="http://www.shemaletubevideos.com/groups/shemale/?sort=members">Groups</a></li></ul><div class="logospot"><center><a href="http://refer.ccbill.com/cgi-bin/clicks.cgi?CA=904803-0000&amp;PA=2073467&amp;BAN=0&amp;HTML=http://www.tsazeneth.com/tour/" target="_blank"><img src="http://images.shemaletubevideos.com:81/stp/images/blue/azeneth.jpg" border="1" width="368" height="100" title="TS Azeneth"></a></center></div>
+<!--[if IE 6]><link rel="styleheet" href="http://www.shemaletubevideos.com/stp/css/red/ie6.css" type="text/css" /><![endif]--></head><body><div class="preload"><img src="http://images.shemaletubevideos.com/stp/images/red/bg.jpg"><img src="http://images.shemaletubevideos.com/stp/images/red/header-xa1.png"><img src="http://images.shemaletubevideos.com/stp/images/red/header-xa2.png"></div><div class="center"><div class="head"> <a href="http://www.shemaletubevideos.com/"><img src="http://images.shemaletubevideos.com/stp/images/red/logo.png" class="logo" height="152" width="370" alt="Shemale Tube Videos"></a><p class="logo-txt"></p><ul class="nav"><li><a href="http://www.shemaletubevideos.com/">Home</a></li><li class="menudrop"><a href="http://www.shemaletubevideos.com/videos/all/video-recent.html">Videos ▼</a><div class="menu_list"><span><a href="http://www.shemaletubevideos.com/videos/all/video-recent.html">Most Recent</a></span><span><a href="http://www.shemaletubevideos.com/videos/all/video-view.html">Most Views</a></span><span><a href="http://www.shemaletubevideos.com/videos/all/video-rate.html">Top Rated</a></span><span><a href="http://www.shemaletubevideos.com/videos/all/video-length.html">Longest</a></span></div></li><li class="menudrop"><a href="http://www.shemaletubevideos.com/galleries/all/all-recent.html">Pictures ▼</a><div class="menu_list"><span><a href="http://www.shemaletubevideos.com/galleries/all/all-recent.html">Most Recent</a></span><span><a href="http://www.shemaletubevideos.com/galleries/all/all-view.html">Most Views</a></span><span><a href="http://www.shemaletubevideos.com/galleries/all/all-rate.html">Top Rated</a></span></div></li><li class="menudrop"><a href="http://date.shemaletubevideos.com">Top Shemale Paysites ▼</a><div class="menu_list"><span><a href="http://tsfilipina.com/?foxref=1hLi9Vcn" target="_blank">TS Filipina<font color="#FFE73A"> <b>NEW</b></font></a></span><span><a href="http://track.evaparadisxxx.com/track/OTk0LjQuMTM3LjIzOC4wLjAuMC4wLjA" target="_blank">Eva Paradis<font color="#FFE73A"> <b>NEW</b></font></a></span><span><a href="http://refer.ccbill.com/cgi-bin/clicks.cgi?CA=935943-0000&amp;PA=2504139&amp;HTML=http://niasplaypen.com" target="_blank">Nias PlayPen<font color="#FFE73A"> <b>NEW</b></font></a></span><span><a href="http://track.dannixxx.com/track/OTk0LjQuMTM2LjIzNy4wLjYwMTE3ODEuMC4wLjA" target="_blank">Danni XXX</a></span><span><a href="http://refer.ccbill.com/cgi-bin/clicks.cgi?CA=904803-0000&amp;PA=2073467&amp;HTML=http://hungshemales.net/tour/" target="_blank">Hung Shemales</a></span><span><a href="http://refer.ccbill.com/cgi-bin/clicks.cgi?CA=904803-0000&amp;PA=2073467&amp;HTML=http://nicolebigcaliber.com/tour/" target="_blank">Nicole BigCaliber</a></span><span><a href="http://refer.ccbill.com/cgi-bin/clicks.cgi?CA=904803-0000&amp;PA=2073467&amp;BAN=0&amp;HTML=http://shelesbianpov.com/tour/" target="_blank">SheLesbianPOV</a></span><span><a href="http://refer.ccbill.com/cgi-bin/clicks.cgi?CA=904803-0000&amp;PA=2073467&amp;HTML=http://tskarlacarrillo.com/tour/" target="_blank">Karla Carrillo</a></span><span><a href="http://www.linkfame.com/tsplayground/go.php?pr=8&amp;su=2&amp;si=165&amp;pa=index&amp;ar=&amp;ad=187816&amp;campaign=7378&amp;pg=2" target="_blank">Evil Angel Shemales</a></span><span><a href="http://www.freetrannypassport.com/?t=107130,5,104,0" target="_blank">Free Tranny Passport</a></span><span><a href="http://www.andreanobiliproductions.com/home.php?ccr=2111573" target="_blank">Andrea Nobili Bigcocks</a></span><span><a href="http://refer.ccbill.com/cgi-bin/clicks.cgi?CA=904803-0000&amp;PA=2073467&amp;BAN=0&amp;HTML=http://tsmarianacordoba.com/tour/" target="_blank">Mariana Cordoba</a> </span><span><a href="http://track.ts-baileyjay.com/track/MjYxMTo0OjQ1/" target="_blank">Bailey Jay<font color="#FFE73A"> <b>HOT</b></font></a></span><span><a href="http://refer.ccbill.com/cgi-bin/clicks.cgi?CA=904803-0000&amp;PA=2073467&amp;BAN=0&amp;HTML=http://anatranny.com/join.php" target="_blank">Ana Tranny</a></span><span><a href="http://refer.ccbill.com/cgi-bin/clicks.cgi?CA=904803-0000&amp;PA=2073467&amp;BAN=0&amp;HTML=http://sapphireyoung.com/tour/" target="_blank">Sapphire Young</a> </span><span><a href="http://www.sheanimale.com/tour.php?id=1494292" target="_blank">Shemale Anime</a> </span><span><a href="http://date.shemaletubevideos.com">Date a Shemale</a></span></div></li><li class="categories"><a href="http://www.shemaletubevideos.com/categories/">Categories ▼</a><div class="cat_list"><span><a href="http://www.shemaletubevideos.com/videos/shemale/anal-recent.html">Anal</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/anime-recent.html">Anime</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/asian-recent.html">Asian</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/ass-recent.html">Ass</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/bareback-recent.html">Bareback</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/bathroom-recent.html">Bathroom</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/bigcock-recent.html">Bigcock</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/bigtits-recent.html">Bigtits</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/bikini-recent.html">Bikini</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/blonde-recent.html">Blonde</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/blowjob-recent.html">Blowjob</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/bondage-recent.html">Bondage</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/brunette-recent.html">Brunette</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/crossdress-recent.html">Crossdress</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/cumshot-recent.html">Cumshot</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/deepthroat-recent.html">Deep Throat</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/ebony-recent.html">Ebony</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/exotic-recent.html">Exotic</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/facial-recent.html">Facial</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/fetish-recent.html">Fetish</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/fingering-recent.html">Fingering</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/futanaria-recent.html">Futanaria</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/gaping-recent.html">Gaping</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/groupsex-recent.html">Groupsex</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/handjob-recent.html">Hand Job</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/hardcore-recent.html">Hardcore</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/interracial-recent.html">Interracial</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/kissing-recent.html">Kissing</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/ladyboy-recent.html">Ladyboy</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/latex-recent.html">Latex</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/latin-recent.html">Latin</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/lingerie-recent.html">Lingerie</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/masturbation-recent.html">Masturbation</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/mature-recent.html">Mature</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/outdoor-recent.html">Outdoor</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/pornstars-recent.html">Pornstars</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/postop-recent.html">Post-Op</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/redhead-recent.html">Redhead</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/shemalewithfemale-recent.html">Shemale &amp; Female</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/shemalewithshemale-recent.html">Shemale &amp; Shemale</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/skinny-recent.html">Skinny</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/solo-recent.html">Solo</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/teen-recent.html">Teen</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/toys-recent.html">Toys</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/wedding-recent.html">Wedding</a></span></div></li><li class="menudrop"><a href="http://www.shemaletubevideos.com/liveshemalechat/">Live Cams &amp; Games ▼</a><div class="menu_list"><span><a href="http://www.shemaletubevideos.com/liveshemalechat/">Live Shemale Chat</a></span><span><a href="http://www.shemaletubevideos.com/liveshemalesexshow/">Live Shemale Sexshow</a></span><span><a href="http://www.shemaletubevideos.com/bonetown/">Bone Town Game</a></span><span><a href="http://www.shemaletubevideos.com/shemalechallenge/">Shemale Quiz</a></span><span><a href="http://www.shemaletubevideos.com/shemaleshellgame/">Shemale Shell Game</a></span><span><a href="http://www.shemaletubevideos.com/shemaleroulette/">Shemale Roulette</a></span><span><a href="http://www.redlightcenter.com/transgender/?trq=87358" target="_blank">Virtual TS World</a></span><span><a href="http://play.bonecraft.com/track/MTA0ODkuMi4yNy45NS4wLjAuMC4wLjA" target="_blank">Bone Craft Game</a></span></div></li><li><a href="http://www.shemaletubevideos.com/?view=submit">Upload</a></li><li><a href="http://www.shemaletubevideos.com/members/?sort=rate">Members</a></li><li><a href="http://www.shemaletubevideos.com/groups/shemale/?sort=members">Groups</a></li><li><a href="http://www.shemaletubevideos.com/contact-us/"><font size="2">Report Problem</font></a></li></ul><div class="logospot"><center><br><br><br></center></div>
 
 
 
 <div class="search">
+
 
 <ul>
 <li id="tab1" class="active"><a href="#video" onclick="document.getElementById('serchinput').value = 'search shemale videos';javascript:setSearchOptions(1, 'active', 'search_type', 'video'); return false;">Videos</a></li>
@@ -261,20 +41,17 @@ $(document).ready(function () {
 <div>
 <form action="http://www.shemaletubevideos.com/" method="get" name="searchform">
 <input type="hidden" name="view" value="search">
+<input type="hidden" name="search_order" value="relevance">
 <input type="hidden" name="search_type" id="search_type" value="video">
 <input type="text" name="search" id="serchinput" class="in1" value="search shemale videos" onfocus="this.value=''" onblur="">
 <input class="search-button" type="submit" value="">
 </form>
 </div>
-</div><form action="http://www.shemaletubevideos.com/" method="post"><input type="hidden" name="return" value="%2Fprivacy%2F"><input type="hidden" name="view" value="login"><input type="hidden" name="action" value="login"><input type="hidden" name="remember" value="1"><div class="login"><a href="http://www.shemaletubevideos.com/?lang=en" title="English"> <img src="http://www.shemaletubevideos.com/stp/images/blue/flags/us.gif" height="11" width="16" alt="English"> </a><a href="http://www.shemaletubevideos.com/?lang=fr" title="Francais"> <img src="http://www.shemaletubevideos.com/stp/images/blue/flags/fr.gif" height="11" width="16" alt="Francais"> </a><a href="http://www.shemaletubevideos.com/?lang=de" title="Deutsch"> <img src="http://www.shemaletubevideos.com/stp/images/blue/flags/de.gif" height="11" width="16" alt="Deutsch"> </a><a href="http://www.shemaletubevideos.com/?lang=sp" title="Espanol"> <img src="http://www.shemaletubevideos.com/stp/images/blue/flags/es.gif" height="11" width="16" alt="Espanol"> </a><br><p class="hello">Welcome <span>Guest</span> - <a href="http://www.shemaletubevideos.com/signup/">Register</a></p><div class="l"><input type="text" name="username" maxlength="20" value="Username" onfocus="this.value=''" onblur="this.value=this.value==''?'Username':this.value;"></div><div class="l"><input type="password" name="password" maxlength="20" value="Password" onfocus="this.value=''" onblur="this.value=this.value==''?'Password':this.value;"></div><div class="lo"><div><input type="submit" class="search_login" value="Login"></div></div></div></form></div><div id="load"></div>
+</div><form action="http://www.shemaletubevideos.com/" method="post"><input type="hidden" name="return" value="%2Fprivacy%2F"><input type="hidden" name="view" value="login"><input type="hidden" name="action" value="login"><input type="hidden" name="remember" value="1"><div class="login"><a href="http://www.shemaletubevideos.com/?lang=en" title="English"> <img src="http://images.shemaletubevideos.com/stp/images/red/flags/us.gif" height="11" width="16" alt="English"> </a><a href="http://www.shemaletubevideos.com/?lang=fr" title="Francais"> <img src="http://images.shemaletubevideos.com/stp/images/red/flags/fr.gif" height="11" width="16" alt="Francais"> </a><a href="http://www.shemaletubevideos.com/?lang=de" title="Deutsch"> <img src="http://images.shemaletubevideos.com/stp/images/red/flags/de.gif" height="11" width="16" alt="Deutsch"> </a><a href="http://www.shemaletubevideos.com/?lang=sp" title="Espanol"> <img src="http://images.shemaletubevideos.com/stp/images/red/flags/es.gif" height="11" width="16" alt="Espanol"> </a><br><p class="hello">Welcome <span>Guest</span> - <a href="http://www.shemaletubevideos.com/signup/">Register</a></p><div class="l"><input type="text" name="username" maxlength="20" value="Username" onfocus="this.value=''" onblur="this.value=this.value==''?'Username':this.value;"></div><div class="l"><input type="password" name="password" maxlength="20" value="Password" onfocus="this.value=''" onblur="this.value=this.value==''?'Password':this.value;"></div><div class="lo"><div><input type="submit" class="search_login" value="Login"></div></div></div></form></div><div id="load"></div>
  <div class="header">
-
     <h2><span>Privacy policy</span></h2>
-
 </div>
-
 <div class="terms">
-
   
 <div class="user_title">
 Shemale Tube Videos Limited recognizes that its customers, visitors, users, and others who use Shemale Tube Videos Video value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the Shemale Tube Videos Video site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site.
@@ -338,29 +115,17 @@ In the event that Shemale Tube Videos Limited is acquired by or merged with a th
 This privacy notice may be revised periodically and users are encouraged to review it periodically to stay aware of any changes. Your continued use of the Shemale Tube Videos Video site constitutes your agreement to this privacy notice and any future revisions.
 </div>
 
-
 </div><script type="text/javascript">
 <!--
-document.cookie='te3b=c3BpZGVyc3x8ZGVmYXVsdHwxfDF8MHxzaGVwYWwuY29tfDE6c2hlcGFsLmNvbQ==; expires=Fri, 27 Jun 2014 06:40:51 GMT; path=/;';
-document.cookie='te3bookmark=1403764851; expires=Fri, 26 Jun 2015 06:40:51 GMT; path=/;';
+document.cookie='te3b=c3BpZGVyc3x8ZGVmYXVsdHwxfDB8MHxub25lfDA6; expires=Wed, 10 Jun 2015 23:43:22 GMT; path=/;';
+document.cookie='te3bookmark=1433893402; expires=Wed, 08 Jun 2016 23:43:22 GMT; path=/;';
 //-->
 </script>
 
-
-
-
-
-
-
-<script type="text/javascript" src="http://www.shemaletubevideos.com/i/jquery9.js"></script>
-<script src="http://ads.livepromotools.com/services/AdsRedirect.ashx?case=IMtubeshegodsHP" type="text/javascript"></script>
-
-
-
-
-
-<center><br class="clear"></center></div><div class="foot"><div class="foot2"><p><span><a href="http://www.shemaletubevideos.com/signup/">Register</a> |<a href="http://www.shemaletubevideos.com/terms/">Terms of service</a> |<a href="http://www.shemaletubevideos.com/privacy/">Privacy</a> |<a href="http://www.shemaletubevideos.com/dmca/">DMCA/2257</a> |<a href="http://www.shemaletubevideos.com/report-abuse/">Report</a> |<a href="http://www.shemaletubevideos.com/contact-us/">Contact us</a> |<a href="http://www.shemaletubevideos.com/mobile/">Mobile Version</a> |<a href="http://www.shemaletubevideos.com/webmasters.html">Webmasters</a> |<a href="http://www.shemaletubevideos.com/?view=export_media">Embed Content</a></span><br><br>Shemale Tube Videos, it's owners, designers, partners, representatives and this web site are not responsible for any action taken by its members on this site. Liability for any content contained in a post is the sole responsibility of the person(s) who submitted them.<br>Copyright © Shemale Tube Videos. All Rights Reserved.</p></div>
+<center><br class="clear"><div class="foot"><div class="foot2"><p><span><a href="http://www.shemaletubevideos.com/mobile/">Switch to Mobile Version</a>  |<a href="http://www.shemaletubevideos.com/terms/">Terms of service</a> |<a href="http://www.shemaletubevideos.com/privacy/">Privacy</a> |<a href="http://www.shemaletubevideos.com/dmca/">DMCA/2257</a> |<a href="http://www.shemaletubevideos.com/report-abuse/">Report</a> |<a href="http://www.shemaletubevideos.com/contact-us/">Contact us</a> |<a href="http://www.shemaletubevideos.com/?view=export_media">Embed Content</a></span><br><br>Shemale Tube Videos, it's owners, designers, partners, representatives and this web site are not responsible for any action taken by its members on this site. Liability for any content contained in a post is the sole responsibility of the person(s) who submitted them.<br>Copyright © Shemale Tube Videos. All Rights Reserved.</p></div>
 <link rel="alternate" type="application/rss+xml" title="Shemale Tube Videos -  »  " href="http://www.shemaletubevideos.com/feed/rss/videos/recent/shemale/all/all/week/">
 <link rel="alternate" type="application/rss+xml" title="Shemale Tube Videos -  »  " href="http://www.shemaletubevideos.com/feed/rss/galleries/recent/shemale/all/all/week/">
 <link rel="shortcut icon" href="http://www.shemaletubevideos.com/favicon.ico">
-</div></body></html>
+
+
+</div></center></div></body></html>
