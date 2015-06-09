@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coinfinance.com privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003020415id_/http%3A//www.coinfinance.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinfinance.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609063241id_/http%3A//www.coinfinance.com/privacy_policy) for the most accurate reproduction.*
 
 # Bitcoin and alternatives cryptocoins news, prices and others analytics tools.
 
