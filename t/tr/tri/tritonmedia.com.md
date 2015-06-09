@@ -1,72 +1,42 @@
-> *The following text is extracted and transformed from the tritonmedia.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629141012id_/http%3A//www.tritonmedia.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tritonmedia.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609182921id_/http%3A//www.tritondigital.com/privacy-policy) for the most accurate reproduction.*
 
-# Triton Media Group, LLC.
+# Triton Digital - Privacy Policy
 
-| 
+This Privacy Policy sets out the manner in which Triton Digital Inc.( **“Triton Digital”** , **“we”** , **“us”** , **“our”** ) collects, uses, discloses and otherwise manages personal information of visitors of tritondigital.com (the "Site"). This policy does not apply to the use of products and services provided by us on behalf of our clients. To read the privacy policy that applies to our streaming, advertising, engagement, contests and/or sweepstakes (collectively the “ **Services** ”), [click here](http://tritondigital.com/privacy-policy-services).
 
-TritonMedia.com: Privacy Policy
+Please note that our privacy policy has changed. To access the most current version of our [privacy policy](http://tritondigital.com/privacy-policy-services), click here. This policy also does not apply to the audience management services. Please read it carefully. We also invite you to review our Terms of Use.  
+Because we are committed to respect the privacy of our users and because the success of the Site is dependent on building and maintaining goodwill with our users, we are committed to implementing measures designed to respect and protect your privacy. Moreover, we see it as our responsibility to set an example, and to help establish standards for privacy on the Internet.
 
-TritonMedia.com is produced by Triton Media Group, LLC ("Triton"). This Privacy Policy contains important information; please read it carefully. We also encourage you to review our[ Terms of Service](https://web.archive.org/legal/tos.php).
+Triton reviews its privacy practices from time to time. If we decide to change our Privacy Policy, we will post those changes on our Site so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. To contact us about privacy issues, to report a violation of our Privacy Policy, or to raise any other issue, please e-mail us at: [privacy@tritondigital.com](mailto:privacy@tritondigital.com.).
 
-Because the success of TritonMedia.com (the "Site") is dependent on building and maintaining goodwill with our users, we are committed to implementing measures designed to respect and protect your privacy. Moreover, we see it as our responsibility to set an example, and to help establish standards for privacy on the Internet.
+## The Personal Information We Collect
 
-TritonMedia.com respects the privacy of visitors to our web site. While we do collect information from our users, we do not release personally identifiable information without your permission, except as set forth within this Privacy Policy, our Terms of Service, and other published guidelines.
+You may visit our Site without providing any of your personal information to us. At this time, the only personal information that we collect through our Site is personal information that you voluntarily provide to us through the "Contact" portion of the Site. The information collected through the "Contact" portion of the Site consists in the name, e-mail address, and any comment you wish to add.
 
-TritonMedia.com reviews its privacy practices from time to time. We ask that you bookmark and periodically review this page for updates to our Privacy Policy. To contact TritonMedia.com about privacy issues, to report a violation of our Privacy Policy, or to raise any other issue, please e-mail us at [Privacy@TritonMedia.com](mailto:privacy@tritonmedia.com)
+We may also automatically collect general anonymous information related to your use of our Site, such as the date and time you visit the Site and the pages you visit on the Site. Our servers may also automatically collect information about the type of browser you use and the name of your Internet Service Provider. In addition, we may collect "cookie" information from your browser to identify your computer and provide us with a record of your visits to our Site (Collectively, the foregoing is referred to as "Usage Data"). The technology is used to gather "cookie" information that is provided by the Internet browser you use, and is stored on your computer.
 
-**The Information We Gather**
+## How We Use (and Do Not Use) the Personal Information
 
-The Site gathers two types of information about users:
+Any personal information you provide to us when you send us an email is used solely to identify who you are and to respond to the purpose for which you submitted the message. We use Usage Data for the purposes of monitoring and improving the use and features of the Website.
 
-Non-personally Identifiable Information   
-Non-personally identifiable information is information that does not identify a specific individual. When a visitor arrives at our site, we collect the IP address, operating system and browser software used. An IP address (which is not the same as an e-mail address) can tell us the user's internet service provider and, based on that, can suggest the geographic location of the connection. We also collect information about which pages they visit, the order in which they were visited, and which hyperlinks they "click".
+## Third-Party Links
 
-Personally Identifiable Information   
-Personally Identifiable Information is information that relates to an identified individual. Certain areas of the Site – for example, when purchasing a product – may require you to supply personally identifiable information. Such information might include your name, street address, email address, telephone number, and when applicable, credit card information.
+The Site contains links to other Internet web sites, which may include co-branded or other affiliated sites. These linked sites have separate and independent privacy policies which we recommend you read carefully. We have no control over such sites and therefore have no responsibility or liability for the manner in which the organizations who operate such linked sites may collect, use, disclose or otherwise treat your personal information.
 
-The Site is not targeted to children (minors under thirteen years of age), and we do not knowingly collect personally identifiable information from children without obtaining parental consent.
+Nevertheless, in the event you encounter any third party associated with the Site (or who claims association with the Site) who you feel is improperly collecting or using information about you, please contact [privacy@tritondigital.com](mailto:privacy@tritondigital.com.) and we will be happy to forward your message to the third party.
 
-**How We Use (and Do Not Use) the Information We Gather**
+## Security of Personal Information
 
-Non-personally identifiable information: We may use non-personally identifiable information in aggregate form to build higher-quality, more useful services by performing statistical analyses of users' activities, and by measuring demographics and interests regarding specific areas of the Site. We also use the aggregate data to inform these third parties as to the number of people who have seen and clicked on links to their web sites.   
-We collect non-personally identifiable information and aggregate it, in order to analyze general trends and usage patterns. This information helps us determine how our site is being used, helps us identify popular areas, and helps determine the effectiveness of our promotional activities.
+We will maintain your personal information in secure data storage to safeguard it from unauthorized access, use or disclosure. We will maintain the strict confidentiality of all personal information collected, and will only disclose such information on a confidential basis to employees and third-party contractors of Triton Digital who require such information for the purposes set out above. We will only keep your personal information for as long as it remains necessary or relevant for the purposes stated above or as otherwise required by law.
 
-Personally identifiable information: If we collect any personally identifiable information, we may use this information in a number of ways:
+Notwithstanding the foregoing, you should be aware that, unfortunately, no data transmission over the Internet can be guaranteed to be secure. As a result, Triton Digital does not represent, warrant or guarantee that personal information will be protected against loss, misuse or alteration and does not accept any liability for personal information submitted by you, nor for your or third parties’ use or misuse of personal information.
 
-  * to customize various aspects of the Site to your preferences; and
-  * to determine which advertisements or sponsor messages will appear on your screen;
-  * to fulfill your requests for information
+## Changing or deleting personal information
 
+If you would like to have your personally identifiable information removed from the Site's database, please contact us at [privacy@tritondigital.com ](mailto:privacy@tritondigital.com.)and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within the Site's databases, access logs, and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; however, we reserve the right, from time to time, to re-contact former TritonDigital.com users.
 
+## Questions?
 
-We can disclose your personally identifiable information to third parties as follows:
+Questions regarding our Privacy Policy should be directed to [legal@tritondigital.com](mailto:legal@tritondigital.com).
 
-  * to our contractors and consultants, and professional advisors (such as attorneys or accountants), but only to the extent necessary for them to perform services on our behalf, and only under reasonable confidentiality restrictions;
-  * as required by law, including court and governmental orders, and civil subpoenas;
-  * as we reasonably feel is necessary to protect our systems or business; and
-  * if you partake (or we reasonably suspect that you are partaking) in any illegal activity, even without a subpoena, warrant, or other court order, to the extent we feel is necessary to inform, and cooperate with, law enforcement agencies or other appropriate authorities. 
-
-
-
-**Third-party use of personal information**
-
-The Site contains links to other Internet web sites, which may include co-branded or other affiliated sites. Unless otherwise explicitly stated, we are not responsible for the privacy practices or the content of such web sites, including such sites' use of any information.
-
-Keep in mind that, while Site encourages all third parties involved to adhere to our policies regarding our users' privacy and to otherwise handle personal information in a responsible manner, we cannot and do not assume any responsibility for any acts or omissions of third parties. Nevertheless, in the event you encounter any third party associated with the Site (or who claims association with the Site) who you feel is improperly collecting or using information about you, please contact [Privacy@TritonMedia.com](mailto:privacy@tritonmedia.com) and we will be happy to forward your message to the third party.
-
-**Changing or deleting personal information**
-
-If you would like to have your personally identifiable information removed from the Site's database, please contact us at [Privacy@TritonMedia.com](mailto:privacy@tritonmedia.com) and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within the Site's databases, access logs, and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; however, we reserve the right, from time to time, to re-contact former TritonMedia.com users.
-
-**Questions?**
-
-Questions regarding our Privacy Policy should be directed to [Privacy@TritonMedia.com](mailto:privacy@tritonmedia.com).  
-
-
-|   | 
-
-**ABOUT TRITON MEDIA GROUP, LLC:**
-
-Triton Media Group, LLC ([www.tritonmedia.com](http://www.tritonmedia.com/)) is the leading supplier of digital products and services to the media industry. The Triton Digital division supports more than 6,000 radio station affiliations with applications and content. Through its Triton Radio Networks division, Triton owns and operates Dial-Global ([www.dial-global.com](http://www.dial-global.com/)), which provides sales representation services to national radio production companies, producing more than 100 different programs and services in addition to providing syndicated programming and services to radio.  
-  
----|---|---
+Updated April 24, 2014
