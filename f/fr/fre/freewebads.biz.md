@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewebads.biz privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119233114id_/http%3A//freewebads.biz/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewebads.biz privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610003634id_/http%3A//freewebads.biz/privacy.php) for the most accurate reproduction.*
 
 # None
 
