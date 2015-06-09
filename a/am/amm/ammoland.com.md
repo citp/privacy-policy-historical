@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the ammoland.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122080714id_/http%3A//www.ammoland.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ammoland.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609234804id_/http%3A//www.ammoland.com/privacy-policy) for the most accurate reproduction.*
 
-# AmmoLand Privacy Policy | AmmoLand.com Shooting Sports News
+# AmmoLand Privacy Policy
 
 **Ammoland.com Privacy Policy**  
 _Our commitment to you.._
 
-**Manasqaun, NJ -** -(AmmoLand.com)- Ammoland is concerned about the protection of online privacy for all our website visitors. Although we track the total number of visitors to each of our sites in an aggregate form to allow us to update and improve our sites, personally identifiable information is not extracted in this process. Any cookie technology (where our servers deposit special codes on a visitor’s computer) will only be used to track non-personal information such as type of browser, operating system, and domain names to improve our visitors’ online experience.
+**Manasqaun, NJ –** -(AmmoLand.com)- Ammoland is concerned about the protection of online privacy for all our website visitors. Although we track the total number of visitors to each of our sites in an aggregate form to allow us to update and improve our sites, personally identifiable information is not extracted in this process. Any cookie technology (where our servers deposit special codes on a visitor’s computer) will only be used to track non-personal information such as type of browser, operating system, and domain names to improve our visitors’ online experience.
 
 There is much confusion about cookies, how they are used, and what they can do. Cookies are very small text files written by an Internet server to a customer’s browser when information is exchanged. Cookies only contain information that the server computer “knew” in the first place and can only be read by the serving domain that placed them. Cookies are an essential part of how the Internet works today and allow server computers to recognize your computer’s browser when you return.
 
