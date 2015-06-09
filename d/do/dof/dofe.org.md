@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dofe.org privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222131447id_/http%3A//www.dofe.org/en/content/cms/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dofe.org privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609032245id_/http%3A//www.dofe.org/en/content/cms/legal/privacy) for the most accurate reproduction.*
 
 # Privacy - the DofE
 
