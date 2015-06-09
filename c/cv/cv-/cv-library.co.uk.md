@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cv-library.co.uk privacy policy that was archived on 2014-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140808003001id_/http%3A//www.cv-library.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cv-library.co.uk privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610014038id_/https%3A//www.cv-library.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - UK jobs, Careers, Recruitment - CV-Library
 
@@ -37,6 +37,10 @@ An IP address, or 'internet protocol address', is a unique identifying number gi
 Information may be gathered from your registration form and your use of our website through "cookies". The information gathered may be used by CV-Library internally, for purposes relating to your use of the website and for marketing activities, and may be passed to carefully selected third parties to use for marketing activities. If you do not wish to receive marketing material from CV-Library or from carefully selected third parties you should tick the appropriate box on the submission form. If you subsequently decide you no longer wish to receive direct marketing/information from CV-Library or no longer wish us to pass your information to third parties you should notify us using the Contact page of our website or delete your CV.
 
 CV-Library may set and access cookies on your computer. You can choose whether or not to accept cookies, however, if you do not accept CV-Library cookies, some of our services may not be available to you. This policy does not apply to companies that CV-Library does not own or control, or to people that CV-Library does not employ.
+
+CV-Library currently uses Criteo as a service to serve personalized adverts when visiting other Criteo ad network sites. Criteo are authorized by CV Library to place and read cookies on our websites (including network websites and emails).
+
+Other choice options for display: Users can also express their choices, through the following platforms: IAB opt-out platform, Network Advertising Initiative opt-out platform, Digital Advertising Alliance platform that provide options to express their choices for all companies that are registered in this platform.
 
 ## Statistical information
 
