@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homestoreandmore.ie privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121153235id_/http%3A//www.homestoreandmore.ie/privacy-policy/page/footerprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homestoreandmore.ie privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609214336id_/http%3A//www.homestoreandmore.ie/privacy-policy/page/footerprivacy) for the most accurate reproduction.*
 
 # homestore + more – More savings every day!
 
