@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the militarybyowner.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130213453id_/http%3A//www.militarybyowner.com/privacy_policy1.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the militarybyowner.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609044030id_/http%3A//www.militarybyowner.com/privacy_policy1.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](https://web.archive.org/page.aspx?PageId=dSKPxvo0EmeAcZ7Mu1oWF%2bgTMm4MVKClc2zx%2f7aGjBE%3d&print=y)
 
 **MILITARYBYOWNER.COM PRIVACY POLICY**  
 Effective Date: November 28, 2005
