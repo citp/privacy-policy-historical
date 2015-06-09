@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proactiveinvestors.com.au privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007002847id_/http%3A//www.proactiveinvestors.com.au/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proactiveinvestors.com.au privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610010421id_/http%3A//www.proactiveinvestors.com.au/pages/privacy) for the most accurate reproduction.*
 
 # ASX Stock Market News and Small - Mid Cap Business News and Research Financial News - Privacy
 
