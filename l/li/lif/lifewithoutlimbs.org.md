@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lifewithoutlimbs.org privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120215006id_/http%3A//www.lifewithoutlimbs.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifewithoutlimbs.org privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609054007id_/http%3A//www.lifewithoutlimbs.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Life Without Limbs
+# Privacy Policy - Life Without Limbs
 
 At Life Without Limbs, we strive to develop innovative services to better serve our users. We recognize that privacy is an important issue, so we design and operate our services with the protection of your privacy in mind. This Privacy Policy outlines the types of personal information we gather when you use Life Without Limbs services, as well as some of the steps we take to safeguard it.
 
