@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the umuc.edu privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094343id_/http%3A//www.umuc.edu/webpolicy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umuc.edu privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235947id_/http%3A//www.umuc.edu/webpolicy/privacy) for the most accurate reproduction.*
 
 # Privacy - Web Policies - UMUC
 
-This privacy policy applies solely to the collection of personal information on official University of Maryland University College (the “university”) websites. Official university websites use the " **umuc.edu** " domain, including **www.umuc.edu**. Links to third-party websites are provided for convenience only and should not be interpreted as endorsement or ownership of content or policies. The university encourages website users to review the privacy policies of each website they visit.
+This privacy policy applies solely to the collection of personal information on official University of Maryland University College (the "university") websites. Official university websites use the " **umuc.edu** " domain, including **www.umuc.edu**. Links to third-party websites are provided for convenience only and should not be interpreted as endorsement or ownership of content or policies. The university encourages website users to review the privacy policies of each website they visit.
 
 ### Non-Personally Identifiable Information
 
@@ -31,7 +31,7 @@ Unless otherwise notified, information provided to the university may be shared 
 
 ### Enrolled Student Information
 
-Personally identifiable information about enrolled students is protected by the Family Educational Rights and Privacy Act ("FERPA"), administered by the U.S. Department of Education. Learn more about UMUC’s compliance with FERPA in [Policy 210.14 “Disclosure of Student Records.”](https://web.archive.org/policies/academicpolicies/aa21014.cfm)
+Personally identifiable information about enrolled students is protected by the Family Educational Rights and Privacy Act ("FERPA"), administered by the U.S. Department of Education. Learn more about UMUC's compliance with FERPA in [Policy 210.14 "Disclosure of Student Records](https://web.archive.org/policies/academicpolicies/aa21014.cfm)."
 
 ### Cookies
 
@@ -41,7 +41,7 @@ The university uses these cookies to measure the performance of university websi
 
 We do not store personally identifiable information in these cookies. Some website pages and applications that use cookies may not function properly, may provide less relevant information, or may be slower if cookies are rejected.
 
-Please review your Internet browser’s help file for instructions on rejecting or deleting cookies.
+Please review your Internet browser's help file for instructions on rejecting or deleting cookies.
 
 ### Advertising
 
@@ -49,8 +49,9 @@ The university partners with third-parties to display advertising on other websi
 
   * Third-party vendors, including Google, may show university advertising on sites across the Internet.
   * The university uses Remarketing with Google Analytics to display online advertising.
-  * The university and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve advertisements based on a visitor’s past visits to university websites.
-  * The university and third-party vendors, including Google, use first-party cookies and third-party cookies together to report how the university’s ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to university websites.
+  * The university uses Remarketing with third-party social networks to display online advertising.
+  * The university and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve advertisements based on a visitor's past visits to university websites.
+  * The university and third-party vendors, including Google, use first-party cookies and third-party cookies together to report how the university's ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to university websites.
   * The university uses data from Google's interest-based advertising or third-party audience data (such as age, gender, and interests) with Google Analytics to report, optimize, and deliver interest-based advertisements.
 
 
@@ -61,13 +62,11 @@ For convenience, [visit our opt-out page](https://web.archive.org/webpolicy/priv
 
 ### Data Security
 
-The university will take reasonable and appropriate steps to protect the information you share with us from unauthorized access or disclosure. The university strives to implement security measures that protect the loss, misuse, and alteration of data collected. The university maintains a [computer security policy](https://web.archive.org/policies/fiscalpolicies/fisc27030.cfm).
-
-Not all transmissions to and from university websites are secure; some website pages may not encrypt or decrypt data sent to or from the website. In addition, email messages sent to university email addresses are subject to interception. Please contact the university by telephone or postal mail if you do not wish to provide personal information electronically.
+The university will take reasonable and appropriate steps to protect the information you share with us from unauthorized access or disclosure. The university strives to implement security measures that protect the loss, misuse, and alteration of data collected. The university maintains a [computer security policy](https://web.archive.org/policies/fiscalpolicies/fisc27030.cfm). Not all transmissions to and from university websites are secure;some website pages may not encrypt or decrypt data sent to or from the website. In addition, email messages sent to university email addresses are subject to interception. Please contact the university by telephone or postal mail if you do not wish to provide personal information electronically. Please contact the university by telephone or postal mail if you do not wish to provide personal information electronically.
 
 ### Changes to This Policy
 
-This privacy policy was last updated on April 17, 2014. Any changes or amendments to this policy will be updated on this page. Advances in technology, legal developments, and new policies and practices may necessitate changes in or updates to this privacy statement. We reserve the right to change this policy without notice. It is the responsibility of the user to check this page for any changes to this policy.
+This privacy policy was last updated on January 30, 2015. Any changes or amendments to this policy will be updated on this page. Advances in technology, legal developments, and new policies and practices may necessitate changes in or updates to this privacy statement. We reserve the right to change this policy without notice. It is the responsibility of the user to check this page for any changes to this policy.
 
 ### Questions or Complaints
 
