@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaytubelive.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123165049id_/http%3A//www.gaytubelive.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaytubelive.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610003035id_/http%3A//www.gaytubelive.com/privacy.html%3F) for the most accurate reproduction.*
 
 # GayTubeLive - Privacy Policy
 
@@ -50,4 +50,4 @@ The address for correspondence by post is
 ICF Technology, Inc.  
 PO Box 21508  
 Seattle, WA 98111  
-USA 
+USA
