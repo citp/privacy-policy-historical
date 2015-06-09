@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mega.pk privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607041303id_/http%3A//www.mega.pk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mega.pk privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609055608id_/http%3A//www.mega.pk/privacy.php) for the most accurate reproduction.*
 
-# Laptops in Pakistan | Mobiles in Pakistan - Mega.PK
+# Online Shopping in Pakistan - Mega.pk
 
 ##  Privacy Policy for MEGA.PK
 
