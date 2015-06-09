@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exceluser.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121014435id_/http%3A//exceluser.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exceluser.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235749id_/http%3A//www.exceluser.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,6 +8,10 @@
 
   
 
+
+**by[Charley Kyd](https://web.archive.org/web/20150609235749id_/http%3A//www.exceluser.com/about/about-charley-kyd.htm), MBA  
+Microsoft Excel MVP, 2005-2014  
+The Father of Spreadsheet Dashboard Reports**
 
 Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence. 
 
@@ -98,19 +102,8 @@ Services and Web sites we sponsor have security measures in place to protect the
 
 If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site. Revisions to This Policy Our _Company_ reserves the right to revise, amend, or modify this policy, our Terms Of Use & Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. 
 
-|  | 
+|  |  [ ](https://web.archive.org/web/20150609235749id_/http%3A//www.exceluser.com/downloads/examples/minidash/index.html)
 
-**[Click to see more testimonials](https://web.archive.org/web/20141121014435id_/http%3A//exceluser.com/about/testimonials_from_users.htm)**
+[ ](https://web.archive.org/web/20150609235749id_/http%3A//www.exceluser.com/training/charts/charleyfiles.htm)
 
-[_"Our company’s President, CEO and Board members were blown away by the format and summarized information."_   Ron Barrett](https://web.archive.org/web/20141121014435id_/http%3A//exceluser.com/about/testimonials_from_users.htm)
-
-[ _"We love your e-book and have deployed a good number of dashboard using it !!! Our Clients think we are gods..."_   John Clark](https://web.archive.org/web/20141121014435id_/http%3A//exceluser.com/about/testimonials_from_users.htm)
-
-[**Click to see more users.**](https://web.archive.org/web/20141121014435id_/http%3A//exceluser.com/about/users/index.htm)
-
-  
-[ ](https://web.archive.org/web/20141121014435id_/http%3A//exceluser.com/training/templates/incsight-db2-dashboard.htm)
-
-[ ](https://web.archive.org/web/20141121014435id_/http%3A//exceluser.com/training/charts/charleyfiles.htm)
-
-[ ](https://web.archive.org/web/20141121014435id_/http%3A//exceluser.com/training/templates/incsight-colors.htm)
+[](http://www.premiumexcelmaps.com/?acc=6512bd43d9caa6e02c990b0a82652dca&bannerid=7)
