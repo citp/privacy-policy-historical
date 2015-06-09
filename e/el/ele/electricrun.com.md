@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electricrun.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219220937id_/http%3A//electricrun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electricrun.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610012202id_/http%3A//electricrun.com/privacy-policy) for the most accurate reproduction.*
 
 # Electric Run Privacy Policy | Electric Run™
 
@@ -20,4 +20,4 @@ As with most other websites, we also collect and use the data contained in log f
 
 As you browse Electric Run, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with ElectricRun.com.
 
-The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can [visit this page](https://web.archive.org/web/20141219220937id_/http%3A//electricrun.com/%E2%80%9Dhttp://www.adroll.com/about/privacy%E2%80%9D) to opt out of AdRoll and their partners’ targeted advertising.
+The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can [visit this page](https://web.archive.org/web/20150610012202id_/http://electricrun.com/privacy-policy/%E2%80%9Dhttp://www.adroll.com/about/privacy%E2%80%9D) to opt out of AdRoll and their partners’ targeted advertising.
