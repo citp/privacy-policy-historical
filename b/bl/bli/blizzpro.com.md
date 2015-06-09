@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the blizzpro.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230025122id_/http%3A//www.blizzpro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blizzpro.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610000552id_/http%3A//www.blizzpro.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | BlizzPro
+
+### Privacy Policy for BlizzPro
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [jrcook@blizzpro.com](mailto:jrcook@blizzpro.com).
 
