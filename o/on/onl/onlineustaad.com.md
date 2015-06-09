@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineustaad.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219074432id_/http%3A//www.onlineustaad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineustaad.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610011746id_/http%3A//www.onlineustaad.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Urdu Video Tutorials - Computer Ustaad
 
@@ -20,5 +20,3 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 About Google advertising: What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. (Hyperlink this to: http://www.google.com/privacy/ads/
 
 **If you’re using this site then you must agree with Privacy Policy provided above.**
-
-Last Updated On:Tuesday, April 30, 2013
