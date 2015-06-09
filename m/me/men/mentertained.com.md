@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mentertained.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229212124id_/http%3A//www.mentertained.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mentertained.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609224331id_/http%3A//www.mentertained.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Mentertained
+# Privacy Policy – Mentertained
 
-This Privacy Policy governs the manner in which Mentertained LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.mentertained.com](https://web.archive.org/web/20141229212124id_/http://www.mentertained.com/privacy-policy/www.mentertained.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Mentertained LLC.
+This Privacy Policy governs the manner in which Mentertained LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.mentertained.com](https://web.archive.org/web/20150609224331id_/http://www.mentertained.com/privacy-policy/www.mentertained.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Mentertained LLC.
 
 **Personal identification information**
 
@@ -18,8 +18,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 **How we use collected information**
 
-Mentertained LLC may collect and use Users personal information for the following purposes:  
-
+Mentertained LLC may collect and use Users personal information for the following purposes:
 
   * _\- To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
@@ -73,8 +72,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Mentertained LLC](https://web.archive.org/web/20141229212124id_/http://www.mentertained.com/privacy-policy/www.mentertained.com)  
-[www.mentertained.com](https://web.archive.org/web/20141229212124id_/http://www.mentertained.com/privacy-policy/www.mentertained.com)  
-mentertained@gmail.com
+[Mentertained LLC](https://web.archive.org/web/20150609224331id_/http://www.mentertained.com/privacy-policy/www.mentertained.com)  
+[www.mentertained.com](https://web.archive.org/web/20150609224331id_/http://www.mentertained.com/privacy-policy/www.mentertained.com)  
+[mentertained@gmail.com](mailto:mentertained@gmail.com)
 
-This document was last updated on October 23, 2014
+This document was last updated on April 23, 2015
