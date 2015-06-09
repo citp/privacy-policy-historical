@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sudobits.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211043243id_/http%3A//blog.sudobits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sudobits.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609054508id_/http%3A//blog.sudobits.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SUDOBITS – Free and Open Source stuffs!
+# Privacy Policy | SUDOBITS – Free and Open Source Stuff
 
 ## Our Privacy Policy
 
