@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmc-uk.org privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130113635id_/http%3A//www.gmc-uk.org/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmc-uk.org privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610001408id_/http%3A//www.gmc-uk.org/privacy_policy.asp) for the most accurate reproduction.*
 
 # GMC | Privacy and Cookies policy
 
