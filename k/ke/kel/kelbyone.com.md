@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kelbyone.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215211706id_/http%3A//kelbyone.com/privacypledge) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kelbyone.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610003106id_/http%3A//kelbyone.com/privacypledge) for the most accurate reproduction.*
 
 # Privacy Pledge - KelbyOne
 
