@@ -1,64 +1,57 @@
-> *The following text is extracted and transformed from the sujonhera.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120065651id_/http%3A//sujonhera.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sujonhera.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609234748id_/http%3A//sujonhera.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which **SUJONHERA** collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://sujonhera.com](http://sujonhera.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by SUJONHERA.
+**Personal Data collected for the following purposes and using the following services:**
 
-**Personal identification information**
+Analytics:
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+***** Google Analytics**  
+**Personal Data:** Cookie and Usage Data  
+Google Analytics is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of [**sujonhera.com**](http://sujonhera.com/), to prepare reports on its activities and share them with other Google services.
 
-Non-personal identification information
+Google may use the data collected to contextualize and personalize the ads of its own advertising network.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+**Personal data collected:** Cookie and Usage Data. Place of processing: USA. Find Google’s [**privacy policy here**](http://www.google.com/intl/en/policies/privacy/).  
+*** You can opt out by clicking [ **Opt Out**](https://tools.google.com/dlpage/gaoptout?hl=en).
 
-**Web browser cookies**
+Adsense:  
+*** Google AdSense is an advertising service provided by Google. [**Sujonhera.com**](http://sujonhera.com/) uses the “Doubleclick” Cookie,
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+which tracks the use of [**sujonhera.com**](http://sujonhera.com/) and user behavior concerning ads, products and the services we offer.
 
-**How we use collected information**
+**Personal Data collected:** Cookie and Usage Data. Place of processing: USA. You can find [**Adsense Privacy Policy here**](http://www.google.com/policies/privacy/ads/).
 
-SUJONHERA may collect and use Users personal information for the following purposes:
+What do we do with your data?
 
-– To improve customer service  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.  
-– To personalize user experience  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
-– To improve our Site  
-We may use feedback you provide to improve our products and services.  
-– To process payments  
-We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.  
-– To run a promotion, contest, survey or other Site feature  
-To send Users information they agreed to receive about topics we think will be of interest to them.  
-– To send periodic emails  
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.
+The data concerning the user is collected to allow the Application to provide its services, as well as for the following purposes: Analytics and Interaction with external social networks and platforms. By any mean, we don’t use your data for any other purposes.
 
-**How we protect your information**
+**We don’t sell your data  or modify it or use if by any other means.**
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+Do we use cookies?  
+Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.  
+We use cookies to keep track of advertisements and user session.
 
-Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Site is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
+Do we disclose any information to outside parties?  
+We do not sell, trade or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website. conducting our business. or servicing you, so long as those parties agree to keep this information conﬁdential. We may also release your information when we believe release is appropriate to comply with the law. enforce our site policies. or protect ours or others rights, property or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising or other uses.
 
-**Sharing your personal information**
+Third party links:  
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We, therefore, have no responsibility or liability for the content and activities of these linked sites. Nonetheless. we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+Childrens Online Privacy Protection Act Compliance:  
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-**Google Adsense**
+Online Privacy Policy Only:  
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Terms and Conditions:  
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at **[Terms and Conditions](http://sujonhera.com/terms-and-conditions/)**.
 
-**Changes to this privacy policy**
+Your Consent:  
+By using our site, you consent to our websites **[privacy policy](http://sujonhera.com/privacy-policy/)**.
 
-SUJONHERA has the discretion to update this privacy policy at any time. When we do, we will send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Changes to our Privacy Policy:  
+If we decide to change our privacy policy, we will post those changes on this page.
 
-Your acceptance of these terms
-
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
-
-**Contacting us**
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-SUJON PAUL  
-<http://sujonhera.com/>  
-Rahshahi Medical College, Rajshahi, Bangladesh.  
-SP49RMC@GMAIL.COM
+Contacting Us:  
+If there is any questions regarding this privacy policy, you may [**contact us**](http://sujonhera.com/contact-me/).
