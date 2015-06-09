@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoonstock.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215154604id_/http%3A//www.cartoonstock.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonstock.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610000328id_/http%3A//www.cartoonstock.com/privacy.asp) for the most accurate reproduction.*
 
 # CartoonStock - Privacy Policy
 
@@ -27,6 +27,8 @@
 We collect information from you when you register on our site or subscribe to our newsletter.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
+
+We do not store the credit or debit card details of any of our customers.
 
 **2\. What Do We Use Your Information For?**
 
