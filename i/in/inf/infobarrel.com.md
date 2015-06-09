@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the infobarrel.com privacy policy that was archived on 2014-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140823084415id_/http%3A//www.infobarrel.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infobarrel.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609225214id_/http%3A//www.infobarrel.com/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - InfoBarrel
-
-By  Oct 27, 2008 Edited Nov 16, 2013 2 0
 
 ## Infobarrel.com Privacy Policy
 
