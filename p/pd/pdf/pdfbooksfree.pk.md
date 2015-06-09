@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfbooksfree.pk privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220102639id_/http%3A//pdfbooksfree.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfbooksfree.pk privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610015412id_/http%3A//pdfbooksfree.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,3 +31,5 @@ If we decide to change our privacy policy, we will post those changes to this pr
 We are committed to resolving disputes within 24-48 hours. If problems arise, users may contact via our **[Contact Form](http://pdfbooksfree.pk/contact-us/)**
 
 If site users have any questions or suggestions regarding our privacy policy, please contact us via our [_**Contact Form**_](http://pdfbooksfree.pk/contact-us/)
+
+Custom Search 
