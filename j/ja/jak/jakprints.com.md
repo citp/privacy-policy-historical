@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jakprints.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120064919id_/http%3A//www.jakprints.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jakprints.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610014527id_/http%3A//www.jakprints.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jakprints, Inc
 
