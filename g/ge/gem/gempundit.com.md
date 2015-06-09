@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gempundit.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118161435id_/http%3A//www.gempundit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gempundit.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610015620id_/http%3A//www.gempundit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GemPundit.com
 
@@ -32,7 +32,7 @@ In certain circumstances, we may share your personal information with trusted pa
   * **Service Providers:  **We use trusted third-party service providers to perform certain services on our behalf, including: shipping, payment processing, data storage/management, web hosting, web analytics, fulfillment, assembly, marketing, mailing, emailing, etc. These service providers only receive personal information if such information is needed to perform their function(s), and they are not authorized to use any personal information for any other purpose(s) other than the purpose(s) set forth by GemPundit.
 
 
-  * **Special Events:  **If you choose to participate in a special event (for example, a promotion, contest, or sweepstakes), GemPundit re your personal information with those organizations participating in the applicable event. Unless we tell you otherwise in connection with a special event, these third parties do not use your information for any other purpose other than to manage the event. We may authorize trusted partners to send you information about products and services that may be of interest to you.  
+  * **Special Events:  **If you choose to participate in a special event (for example, a promotion, contest, or sweepstakes), GemPundit will only share your personal information with those organizations participating in the applicable event. Unless we tell you otherwise in connection with a special event, these third parties do not use your information for any other purpose other than to manage the event. We may authorize trusted partners to send you information about products and services that may be of interest to you.  
  **  
 **
   * **Compliance with Law and Fraud Protection:**  We may, and you authorize us to use and disclose any information, including personal information: (1) we deem necessary, in our sole discretion, to comply with any applicable law, regulation, legal process, or governmental request; (2) in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any personal or as otherwise required by law; (3) to other companies and organizations for credit fraud protection and risk reduction; and (4) to enforce any agreement we have with you.
