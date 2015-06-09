@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookielaw.org privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228130413id_/http%3A//www.cookielaw.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookielaw.org privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609045054id_/http%3A//www.cookielaw.org/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | The Cookie Collective
 
@@ -61,21 +61,21 @@ You can unsubscribe from any newsletters at any time by clicking on the unsubscr
 
 Optanon Auditor Data Collection
 
-The Optanon Auditor plug-in for Google Chrome gathers data about cookies and submits it to our database.
+The Optanon Auditor and its associated plug-in for Google Chrome gathers data about cookies and submits it to our database.
 
-This data contains information both about the cookies found, and the pages on a particular site they were found on.  It also contains values of cookies, which in some circumstances may contain personally identifiable information - if the cookie is designed to hold such information.  Such information is only ever used to help us identify the purpose of a cookie, where a website owner has requested this service from us.  The data is only available to us and our clients who use the plug-in for specific websites.
+This data contains information both about the cookies found, and the pages on a particular site they were found on.  It also contains values of cookies, which in some circumstances may contain personally identifiable information - if the cookie is designed to hold such information.  Such information is only ever used to help us identify the purpose of a cookie, where a website owner has requested this service from us.  The data is only available to us and our clients who use the auditor for specific websites.
 
 We do not use any personally identifiable information for any other purpose, and nor do we make it available in any other way.
 
-All submissions of data via the Optanon Auditor plug-in are otherwise completely anonymous.  No information is collected about the device the plug-in is installed on, or the person using the device.  No browsing history, other than a record pf pages that set cookies, is complied, and no profile linked to a device can be created from the data.
+All submissions of data via the Optanon Auditor are otherwise completely anonymous.  If using the plug-in, no information is collected about the device the plug-in is installed on, or the person using the device.  No browsing history, other than a record pf pages that set cookies, is complied, and no profile linked to a device can be created from the data.
 
 The names and some attributes of the cookies gathered by the auditor are made publicly available on the [Cookiepedia](http://cookiepedia.co.uk/ "Cookiepedia") website.  However there is to our knowledge no personal information contained within this data.
 
 Privacy Detective Cookiepedia Plug-in 
 
-Aside from the Optanon Auditor, our [Privacy Detective](https://chrome.google.com/webstore/detail/cookiepedia-privacy-detec/oicbhgcaoofklplaiijhkkcmflkenmij "Privacy Detective") plug-in for Google Chrome, which submits data about cookies to our systems.  This is done automatically, without any kind of user input or control. 
+Aside from the Optanon Auditor, our [Privacy Detective](https://chrome.google.com/webstore/detail/cookiepedia-privacy-detec/oicbhgcaoofklplaiijhkkcmflkenmij "Privacy Detective") plug-in for Google Chrome submits data about cookies to our systems.  This is done automatically, without any kind of user input or control. 
 
-The data consists of the names of cookies and their other attributes, along with the top level domain name of the site being visited by the browser, when the data was submitted.  The values (contents) of the cookies are not stored, nor the specific pages of the site they were found on.  We do not identify the source of the data submitted back to a paricular copy of the plug-in. We therefore believe that no personal data is collected by the Privacy Detective.
+The data consists of the names of cookies and their other attributes, along with the top level domain name of the site being visited by the browser, when the data was submitted.  The values (contents) of the cookies are not stored, nor the specific pages of the site they were found on.  We do not identify the source of the data submitted back to a particular copy of the plug-in. We therefore believe that no personal data is collected by the Privacy Detective.
 
 The sole purpose of the plug-in is to source data about cookies to inform our research.  Statistics and other intelligence garnered from analysis of this data are published freely on [Cookiepedia](http://cookiepedia.co.uk/ "Cookiepedia - all about cookies").
 
