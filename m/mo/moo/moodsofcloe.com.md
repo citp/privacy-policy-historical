@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moodsofcloe.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119230745id_/http%3A//www.moodsofcloe.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moodsofcloe.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610003156id_/http%3A//www.moodsofcloe.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy policy - Moodsofcloe
+# Privacy policy - Clovia
 
 **Information Collection -**  
 We collect information from you in several places on this site to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to:
