@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ppa.com privacy policy that was archived on 2014-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141216082527id_/https%3A//www.ppa.com/content.cfm%3FItemNumber%3D1670) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ppa.com privacy policy that was archived on 2015-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610000605id_/http%3A//www.ppa.com/content.cfm%3FItemNumber%3D1670) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="js csstransitions"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1">
@@ -27,12 +27,16 @@ PPA Privacy Policy
 <!--This is the Colorbox Plug-In - Supports several different methods: Refer to http://www.jacklmoore.com/colorbox/-->
 <script src="/files/style/js/jquery.colorbox.js"></script>
 <script src="/files/style/js/jquery.form.min.js"></script>
-<script src="/files/style/js/jquery.cookie.js"></script>
 <script>
 $(document).ready(function(){
 //How to assign the Colorbox event to elements
 $(".iframe").colorbox({iframe:true, width:"85%", height:"100%"});
 $("a[rel='colorbox']").colorbox();
+$("#stream_popup").animate({bottom:"0px"},1500);
+$("#stream_close").click(function(){
+$("#stream_popup").animate({bottom:"-=201"},1500);
+return false;
+});
 $("#iusa_popup").animate({bottom:"0px"},1500);
 $("#iusa_close").click(function(){
 $("#iusa_popup").animate({bottom:"-=201"},1500);
@@ -68,13 +72,22 @@ $("#newsletter_msg").html("");
 }
 }
 });
-$("#holiday").on('click',function(e){
-$(this).remove();
-});
-if($.cookie('holiday_popup') != 'true'){
-$.cookie('holiday_popup','true', { expires: 30, path: '/' });
-$("#holiday").show();
+$('#page_newsletter_form').ajaxForm({
+dataType: 'json',
+beforeSubmit:function() {
+$("#page_newsletter_form input[type=image]").hide();
+$("#newsletter_msg").html("Sending...");
+},
+success:function(data) {
+if(data.success == true) {
+$("#page_newsletter_form").html(data.message);
+} else {
+alert( data.errors );
+$("#page_newsletter_form input[type=image]").show();
+$("#newsletter_msg").html("");
 }
+}
+});
 });
 </script>
 <!-- LayerSlider from Kreatura Media with Transitions -->
@@ -265,7 +278,6 @@ document.write('<link rel="stylesheet" href="/files/style/menus_SEN_Safari.css" 
 <!--[if IE 8 ]><body class="ie8 lt-ie9"><![endif]-->
 <!--[if IE 9 ]><body class="ie9"><![endif]-->
 <!--[if (gt IE 9)|!(IE)]><!--><body><!--<![endif]-->
-<div id="holiday"><img src="/files/PageLayoutImages/seasonsgreetings.png"></div>
 <div id="background-container">
 <div id="page-container">
 <header role="banner"><div id="header" class="clear"><div id="header-bounds">
@@ -287,9 +299,6 @@ document.write('<link rel="stylesheet" href="/files/style/menus_SEN_Safari.css" 
 </li>
 <li>
 <a href="/about/content.cfm?ItemNumber=6246" target="">International</a>
-</li>
-<li>
-<a href="/eWebSkin.cfm?eWebURL=eweb/DynamicPage.aspx?WebKey=A2F8D92B-072E-424A-A754-5BFE8A385D07">Shopping Cart</a>
 </li>
 </ul>
 <form action="/search/search.cfm" method="get" id="header-search" class="clear">
@@ -316,8 +325,8 @@ document.write('<link rel="stylesheet" href="/files/style/menus_SEN_Safari.css" 
 
 
 <h2 id="header-message" class="typeface-b">
-<a href="http://www.ppa.com/edu/content.cfm?ItemNumber=6738&amp;RDtoken=51411">
-Learn how to market yourself on social media !
+<a href="https://www.ppa.com/membership/content.cfm?ItemNumber=6776&amp;RDtoken=37639">
+Save big on credit card processing fees !
 </a>
 </h2>
 <div id="header-social">
@@ -325,7 +334,7 @@ Learn how to market yourself on social media !
 <a class="social-icon tw" name="twitter" href="https://twitter.com/ourppa/" target="_blank">PPA on Twitter</a>
 <a class="social-icon lin" name="linkedin" href="http://www.linkedin.com/groups?gid=93379&amp;mostPopular=&amp;trk=tyah" target="_blank">PPA on LinkedIn</a>
 <a class="social-icon yt" name="youtube" href="http://www.youtube.com/user/PPAvideos" target="_blank">PPA on YouTube</a>
-<a class="social-icon pin" name="pinterest" href="http://pinterest.com/source/ppa.com/" target="_blank">PPA on Pinterest</a>
+<a class="social-icon pin" name="instagram" href="http://instagram.com/ourPPA" target="_blank">PPA on Instagram</a>
 <a class="social-icon gplus" name="googleplus" href="https://plus.google.com/108952971875687633090" rel="“publisher&quot;" target="_blank">PPA on Google Plus</a>
 </div><!-- /header-social -->
 </div><!-- /header-bounds --></div><!-- /header --></header>
@@ -346,6 +355,9 @@ Learn how to market yourself on social media !
 </li>
 <li>
 <a href="/membership/content.cfm?ItemNumber=1596&amp;navItemNumber=2248" target="">Indemnification Trust</a>
+</li>
+<li>
+<a href="https://www.ppa.com/membership/content.cfm?ItemNumber=6181#business" target="">General Liability</a>
 </li></ul>
 </li>
 <li>
@@ -418,10 +430,16 @@ Learn how to market yourself on social media !
 <a href="https://www.ppa.com/my-ppa/my-ppa.php?navItemNumber=2340" target="">My PPA</a>
 </li>
 <li>
-<a href="/about/content.cfm?ItemNumber=1799&amp;navItemNumber=513" target="">For Corporate Members</a>
+<a href="http://mediakit.ppmag.com/ppa-corporate.php" target="_blank">For Corporate Members</a>
 </li>
 <li>
 <a href="/membership/content.cfm?ItemNumber=1620&amp;navItemNumber=515" target="">Join PPA</a>
+</li>
+<li>
+<a href="http://www.ppa.com/photovision" target="">PhotoVision<div style="float:right">&gt;<p></p></div></a>
+<ul><li>
+<a href="http://www.ppa.com/edu/content.cfm?ItemNumber=7169&amp;navItemNumber=7179" target="">PhotoVision (Member Details)</a>
+</li></ul>
 </li></ul>
 </li>
 <li>
@@ -468,7 +486,7 @@ Learn how to market yourself on social media !
 <a href="/cpp/content.cfm?ItemNumber=4381" target="">Why Hire a CPP?</a>
 </li>
 <li>
-<a href="http://www.ppa.com/cpp/content.cfm?ItemNumber=4115&amp;navItemNumber=4426" target="">Latest CPP's</a>
+<a href="http://www.ppa.com/cpp/content.cfm?ItemNumber=7416&amp;RDtoken=45172&amp;navItemNumber=4426" target="">CPP News</a>
 </li></ul>
 </li>
 <li>
@@ -602,6 +620,12 @@ Learn how to market yourself on social media !
 </li>
 <li>
 <a href="http://www.ppa.com/calendar.cfm?navItemNumber=3766" target="">Calendar: Classes &amp; Workshops</a>
+</li>
+<li>
+<a href="http://www.ppa.com/photovision" target="">PhotoVision<div style="float:right">&gt;<p></p></div></a>
+<ul><li>
+<a href="http://www.ppa.com/edu/content.cfm?ItemNumber=7169&amp;navItemNumber=7181" target="">PhotoVision (Member Details)</a>
+</li></ul>
 </li></ul>
 </li>
 <li>
@@ -643,7 +667,19 @@ Learn how to market yourself on social media !
 </li></ul>
 </li>
 <li>
-<a href="http://www.ppa.com/clientapps/leadership/" target="">PPA'sTeam</a>
+<a href="http://www.ppa.com/clientapps/leadership/" target="">PPA'sTeam<div style="float:right">&gt;<p></p></div></a>
+<ul><li>
+<a href="http://www.ppa.com/clientapps/leadership/committee.php?id=f6e00a46-6ca3-4709-b38e-44a2af8ec539" target="">PPA's Board of Directors</a>
+</li>
+<li>
+<a href="/about/content.cfm?ItemNumber=1757&amp;navItemNumber=2328" target="">PPA Council</a>
+</li>
+<li>
+<a href="http://www.ppa.com/about/content.cfm?ItemNumber=4792&amp;navItemNumber=7452" target="">PPA Councilors By State</a>
+</li>
+<li>
+<a href="http://www.ppa.com/about/content.cfm?ItemNumber=4805&amp;navItemNumber=7453" target="">PPA Councilors by Name</a>
+</li></ul>
 </li>
 <li>
 <a href="/about/content.cfm?ItemNumber=1707&amp;navItemNumber=538" target="">Partners &amp; Corp. Members</a>
@@ -651,7 +687,7 @@ Learn how to market yourself on social media !
 <li>
 <a href="/about/content.cfm?ItemNumber=1758&amp;navItemNumber=539" target="">Advocacy &amp; Copyright<div style="float:right">&gt;<p></p></div></a>
 <ul><li>
-<a href="/about/content.cfm?ItemNumber=1758&amp;navItemNumber=2746" target="">Capitol Hill Work</a>
+<a href="/about/content.cfm?ItemNumber=1758&amp;navItemNumber=2746" target="">Advocacy</a>
 </li>
 <li>
 <a href="/membership/content.cfm?ItemNumber=1734&amp;navItemNumber=2745" target="">Copyright Resources</a>
@@ -676,9 +712,6 @@ Learn how to market yourself on social media !
 </li>
 <li>
 <a href="/theloop/content.cfm?ItemNumber=1703&amp;navItemNumber=2345" target="">PPA Charities</a>
-</li>
-<li>
-<a href="/theloop/content.cfm?ItemNumber=1701&amp;navItemNumber=2346" target="">Student Photographic Society</a>
 </li>
 <li>
 <a href="http://www.ppa.com/edu/content.cfm?ItemNumber=2226&amp;navItemNumber=3150" target="">Affiliate Schools</a>
@@ -751,7 +784,7 @@ Learn how to market yourself on social media !
 </div><!-- /formatted-content -->
 
 
-<br><div class="detail-share-icons"><a href="https://web.archive.org/web/20131007093930/https://plus.google.com/share?url=https://web.archive.org/web/20141216082527id_/https%3A//www.ppa.com/content.cfm%3FItemNumber%3D1670" target="_blank"><img src="/files/PageLayoutImages/icon-gplus-plusone.png" alt=""></a><a href="https://web.archive.org/web/20131007093930/http://www.facebook.com/sharer.php?u=https://web.archive.org/web/20141216082527id_/https%3A//www.ppa.com/content.cfm%3FItemNumber%3D1670" target="_blank"><img src="/files/PageLayoutImages/icon-fb-like.png" alt=""></a><a href="https://web.archive.org/web/20131007093930/http://twitter.com/home?status=Currently%20reading%20https://web.archive.org/web/20141216082527id_/https%3A//www.ppa.com/content.cfm%3FItemNumber%3D1670" target="_blank"><img src="/files/PageLayoutImages/icon-tw-tweet.png" alt=""></a></div>
+<br><div class="detail-share-icons"><a href="https://web.archive.org/web/20131007093930/https://plus.google.com/share?url=https://web.archive.org/web/20150610000605id_/http%3A//www.ppa.com/content.cfm%3FItemNumber%3D1670" target="_blank"><img src="/files/PageLayoutImages/icon-gplus-plusone.png" alt=""></a><a href="https://web.archive.org/web/20131007093930/http://www.facebook.com/sharer.php?u=https://web.archive.org/web/20150610000605id_/http%3A//www.ppa.com/content.cfm%3FItemNumber%3D1670" target="_blank"><img src="/files/PageLayoutImages/icon-fb-like.png" alt=""></a><a href="https://web.archive.org/web/20131007093930/http://twitter.com/home?status=Currently%20reading%20https://web.archive.org/web/20150610000605id_/http%3A//www.ppa.com/content.cfm%3FItemNumber%3D1670" target="_blank"><img src="/files/PageLayoutImages/icon-tw-tweet.png" alt=""></a></div>
 <!-- /detail-supplementary -->
 </div></div><!-- /detail-column-main -->
 <div class="detail-column-side">
@@ -760,7 +793,7 @@ Learn how to market yourself on social media !
 
 
 
-<a href="/applications/adspace/click.cfm?Dest=http%3A%2F%2Fwww%2Emeridianpro%2Ecom%2Fcatalog%2F&amp;ItemNumber=4784" onclick="return RDCMS.AdMetrics.click(this)"><img src="/applications/adspace/serve.cfm?ItemNumber=4784" id="RDCMSad76655" class="rdcms_ad_image" height="150" width="600" border="0"></a><br>
+<a href="/applications/adspace/click.cfm?Dest=http%3A%2F%2Fwww%2Eppa%2Ecom%2Ffaces&amp;ItemNumber=4693" onclick="return RDCMS.AdMetrics.click(this)"><img src="/applications/adspace/serve.cfm?ItemNumber=4693" id="RDCMSad93769" class="rdcms_ad_image" height="150" width="600" border="0"></a><br>
 
 
 </div>
@@ -768,7 +801,7 @@ Learn how to market yourself on social media !
 
 
 
-<a href="/applications/adspace/click.cfm?Dest=http%3A%2F%2Fimagingusa%2Eorg%2Fregister%2F&amp;ItemNumber=6012" onclick="return RDCMS.AdMetrics.click(this)"><img src="/applications/adspace/serve.cfm?ItemNumber=6012" id="RDCMSad12898" class="rdcms_ad_image" height="150" width="600" border="0"></a><br>
+<a href="/applications/adspace/click.cfm?Dest=http%3A%2F%2Fwww%2Eppa%2Ecom%2Fedu%2FAssessment%2Findex%2Ecfm%3FnavItemNumber%3D3765&amp;ItemNumber=4699" onclick="return RDCMS.AdMetrics.click(this)"><img src="/applications/adspace/serve.cfm?ItemNumber=4699" id="RDCMSad45597" class="rdcms_ad_image" height="150" width="600" border="0"></a><br>
 
 
 </div>
