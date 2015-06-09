@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popgals.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205013923id_/http%3A//www.popgals.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popgals.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610002807id_/http%3A//www.popgals.com/privacy.html) for the most accurate reproduction.*
 
 # Our privacy Games for Girls - Play Free Online Games for Girls and Kids on popgals.com
 
