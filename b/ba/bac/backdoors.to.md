@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backdoors.to privacy policy that was archived on 2014-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140721125012id_/http%3A//www.backdoors.to/backdoors/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backdoors.to privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609032511id_/http%3A//www.backdoors.to/backdoors/privacy.asp) for the most accurate reproduction.*
 
 # Backdoors.To Privacy Policy
 
@@ -8,7 +8,7 @@
 
 At Backdoors.To we recognize that privacy is important. This Policy applies to all the products and services offered by Backdoors.To.
 
-If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20140721125012id_/http%3A//www.backdoors.to/backdoors/contact.asp).
+If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20150609032511id_/http%3A//www.backdoors.to/backdoors/contact.asp).
 
 **Information we collect and how we use it:**
 
@@ -91,9 +91,11 @@ Please note that this Privacy Policy may change from time to time. We will not r
 | |  | My Favorites Games  
 ---  
 | •  | Visited Games: [Help](https://web.archive.org/backdoors/help-last-visited.asp)   
-[Y WordMojo](https://web.archive.org/yahoo/wordmojo/)  
-[Y Towers](https://web.archive.org/yahoo/towers/)  
-[Y TokiTokiBoom](https://web.archive.org/yahoo/tokitokiboom/)  
+[Yahoo Pool](https://web.archive.org/yahoo/pool/)  
+[Pogo Pool](https://web.archive.org/pogo/pool/)  
+[Yahoo Backgammon](https://web.archive.org/yahoo/backgammon/)  
+[Yahoo Chess](https://web.archive.org/yahoo/chess/)  
+[Yahoo France](https://web.archive.org/yahoo/france/)  
 ---|---  
 Gaming Leagues  
 | •  |  Favorite League [[select](https://web.archive.org/backdoors/league-favorite.asp?backurl=/backdoors/privacy.asp)]  
