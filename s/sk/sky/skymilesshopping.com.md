@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skymilesshopping.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122074258id_/http%3A//www.skymilesshopping.com/privacy____.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skymilesshopping.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610013040id_/http%3A//www.skymilesshopping.com/privacy____.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Shop Online at SkyMiles Shopping
 
@@ -16,7 +16,7 @@ The nature of the Program requires us to obtain information about your purchases
 
 Information that identifies you personally will not be provided to, sold or disclosed to any third party without your express permission. Within Cartera Commerce and/or the Program Sponsor, we restrict access to your data to those employees, such as customer service representatives, who need such access to better serve you. In addition, Cartera Commerce and/or the Program Sponsor provide limited access to third party vendors who provide financial, administrative or other services in support of the Program. These vendors are restricted from using this data in any way other than to provide services to the Program and may not otherwise use or resell the data.
 
-You will not be able to log on to the Program website without enabling your browser to accept cookies. A cookie is a small amount of data that is sent to your browser from our Web server. The Program uses cookies when you log on to your account with your User Name and Password. These cookies allow us to remember you as you visit pages in the Program site, so that you do not need to reenter your information. Our usage of cookies also allows us to track where users go when they visit the Program site. We may use this "click-stream data" to deliver targeted offers to Members and other similar functionality. Once you terminate your session, only your Program User Name will remain in the cookie on your hard drive.
+You will not be able to log on to the Program website without enabling your browser to accept cookies. A cookie is a small amount of data that is sent to your browser from our Web server directly or using an authorized third party. The Program uses cookies when you log on to your account with your User Name and Password. These cookies allow us to remember you as you visit pages in the Program site, so that you do not need to reenter your information. Our usage of cookies also allows us to track where users go when they visit the Program site, including crediting you with Miles to your Account for each Qualifying Transaction. We may use this "click-stream data" to deliver targeted offers or messaging to Members and other similar functionality. We also may use these cookies to track and analyze non-personally identifiable usage and volume statistical information to customize your experience and enable us to continually improve the quality of the Program.
 
 The Program site contains a number of links to merchants' web sites. We have not undertaken a review of the privacy policies or terms and conditions at such merchants' web sites, and we make no representations about the privacy policies or levels of security at these sites or the applicable terms and conditions. We are not responsible for the applicable terms and conditions or the privacy practices used by such merchants.
 
@@ -26,7 +26,7 @@ The Program site takes commercially reasonable precautions consistent with gener
 
 Information provided during our join or edit profile pages is encrypted and is protected with what is generally recognized as the best available encryption software in the industry - SSL. You will see the lock icon at the bottom of your browser and if you right click on the page, and view the page properties, you will see the site certificate. To learn more about SSL, follow this link: [http://www.verisign.com](http://www.verisign.com/).
 
-While we use SSL encryption to protect sensitive information online, we also use our commercially reasonable efforts consistent with general industry practices to protect user-information off-line. Access to Members' information, not just the sensitive information mentioned above, is restricted in our offices. Only individuals who have a need to know such information to perform a specific job (for example, customer service) are granted access to personally identifiable information. Furthermore, all such individuals are kept up-to-date on our security and privacy practices. When an employee is hired, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users' information is protected. Finally, the servers that store personally identifiable information are in a secure environment, off site. If you have any questions about the security at the Program site, users can send an e-mail to usersupport@cartera.com or otherwise contact us at the information below.
+While we use SSL encryption to protect sensitive information online, we also use our commercially reasonable efforts consistent with general industry practices to protect user-information off-line. Access to Members' information, not just the sensitive information mentioned above, is restricted in our offices. Only individuals who have a need to know such information to perform a specific job (for example, customer service) are granted access to personally identifiable information. Furthermore, all such individuals are kept up-to-date on our security and privacy practices. When an employee is hired, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users' information is protected. Finally, the servers that store personally identifiable information are in a secure environment, off site. If you have any questions about the security at the Program site, users can send an e-mail to [usersupport@cartera.com](mailto:usersupport@cartera.com) or otherwise contact us at the information below./p>
 
 We also will send you Program and service announcement updates. Users are not able to unsubscribe from service announcements, which contain important information about the Program and associated services. We communicate with Members to provide requested services and address issues relating to their account, via email or phone, with information provided by the Member. It is your responsibility to keep such information current.
 
@@ -44,13 +44,13 @@ If users have any questions or suggestions regarding this Privacy Policy, please
   * (781) 541-6801
   * Email:
   * [USERSUPPORT@CARTERA.COM](mailto:usersupport@cartera.com)
-  *     * Address: 
+  *     * Address:
     * Delta Skymiles Shopping Mall  
 c/o Cartera Commerce, Inc.  
 One Cranberry Hill, Suite 203  
 Lexington, MA 02421  
 Attn: Customer Care
   * Last Updated:
-  * January 9, 2013
+  * January 28, 2015
 
 
