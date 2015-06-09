@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pulseway.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123083640id_/http%3A//www.pulseway.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pulseway.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609033814id_/http%3A//www.pulseway.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Pulseway
 
@@ -22,7 +22,7 @@ Ireland
 
 
 
-All the information required by the Pulseway solution (such as the state of the computer, services state, running processes) is held temporarily on our servers with the sole intent of displaying this information on the client application (PC Monitor mobile application, Pulseway Dashboard and Pulseway Web Application) and it is removed automatically after the request is complete. 
+All the information required by the Pulseway solution (such as the state of the computer, services state, running processes) is held temporarily on our servers with the sole intent of displaying this information on the client application (Pulseway mobile application, Pulseway Dashboard and Pulseway Web Application) and it is removed automatically after the request is complete. 
 
 ####  What we do with the information we gather
 
