@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cushmanwakefield.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227090532id_/http%3A//www.cushmanwakefield.com/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cushmanwakefield.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610011425id_/http%3A//www.cushmanwakefield.com/en/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Cushman & Wakefield
 
