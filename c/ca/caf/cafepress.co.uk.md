@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cafepress.co.uk privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127044833id_/http%3A//www.cafepress.co.uk/cp/info/help/index.aspx%3Fpage%3Dprivacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafepress.co.uk privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235420id_/http%3A//www.cafepress.co.uk/cp/info/help/index.aspx%3Fpage%3Dprivacy_policy.aspx) for the most accurate reproduction.*
 
 # CafePress.com : Customer Service : Privacy Policy
 
