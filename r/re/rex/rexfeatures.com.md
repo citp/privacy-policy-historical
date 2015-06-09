@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the rexfeatures.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121081531id_/http%3A//www.rexfeatures.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rexfeatures.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609232411id_/http%3A//www.rexfeatures.com/privacy.html) for the most accurate reproduction.*
 
-# Rex Features - Leading photographic press agency and picture library
+# Editorial Photos, Celebrity, News, & Sports Images | Rex
 
 REX FEATURES complies with and is registered under the data protection laws in the United Kingdom and takes all reasonable care to prevent any unauthorised access to your personal data. Personal details supplied by you (your name, telephone number, etc.), as well as any other information taken from you while you are using this web site or during your other dealings with us, will NOT be passed to any organisation beyond REX FEATURES for marketing purposes.
 
 When someone visits our sites we collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone unless you log in to the site in which case we record which requests are made by which user. We use this information to resolve problems and to improve the website. This information is not used for marketing purposes, is never passed outside the company and is deleted after a reasonable period of time.
 
-All material copyright Rex Features Ltd 2007 - 2014, please contact us if you require more information.
+All material copyright Rex Features Ltd 2007 - 2015, please contact us if you require more information.
 
 Rex Features employs cookies to provide users with tailored information. Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
 
