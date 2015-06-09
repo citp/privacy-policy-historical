@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dogingtonpost.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222200802id_/http%3A//dogingtonpost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogingtonpost.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610001915id_/http%3A//dogingtonpost.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Dogington Post
-
-[__  Home](http://www.dogingtonpost.com/)  »  Privacy Policy
+# Privacy Policy - The Dogington Post
 
 This document was last updated on October 29, 2012.
 
@@ -35,7 +33,3 @@ Woof Publishing LLC
 **Attention: Privacy Statement Personnel**  
 370 West Camino Gardens Blvd, Boca Raton, FL 33432  
 Woof Publishing LLC will use commercially reasonable efforts to promptly respond and resolve any problem or question.
-
-[×]( "Close Bar")
-
-Join the Dogington Post Mailing List. Get up-to-the-minute recall alerts plus tips, tricks and special deals! [Click here.](http://dogingtonpost.com/join-our-mailing-list/)
