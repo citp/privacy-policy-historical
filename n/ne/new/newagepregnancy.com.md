@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newagepregnancy.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204170640id_/http%3A//www.newagepregnancy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newagepregnancy.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609200525id_/http%3A//www.newagepregnancy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | About Pregnancy Motherhood Breastfeeding Confinement in Singapore
+# Privacy Policy | Pregnancy in Singapore
 
 This is the Privacy Policy of **New Age Consulting Pte Ltd** and/or our related entities, affiliates and subsidiaries for our websites [New Age Parents](http://thenewageparents.com/) and [New Age Pregnancy](http://newagepregnancy.com/).
 
