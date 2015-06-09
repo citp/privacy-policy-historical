@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartsmssolutions.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009192232id_/http%3A//smartsmssolutions.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsmssolutions.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609022943id_/http%3A//smartsmssolutions.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Smart SMS Solutions
 
