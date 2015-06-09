@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xprize.org privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029110432id_/http%3A//www.xprize.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xprize.org privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610012705id_/http%3A//www.xprize.org/privacy-policy) for the most accurate reproduction.*
 
 # XPRIZE Privacy Policy | XPRIZE
 
@@ -161,7 +161,7 @@ We process your payments through third-party payment processors and do not maint
 
 **Donation Processing**
 
-Donations are processed through third-party providers. They store all the personally identifiable information on their servers since they are PCI compliant. All the transactions appear to be secure and are independent of the XPRIXE servers.
+Donations are processed through third-party providers. They store all the personally identifiable information on their servers since they are PCI compliant. All the transactions appear to be secure and are independent of the XPRIZE servers.
 
 **Who do you Contact with Questions?**
 
