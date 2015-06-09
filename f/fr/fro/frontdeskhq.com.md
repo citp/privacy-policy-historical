@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontdeskhq.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120201130id_/http%3A//www.frontdeskhq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontdeskhq.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609225351id_/http%3A//www.frontdeskhq.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -80,11 +80,11 @@ If we make any material changes to this Policy we will post a prominent notice o
 If you have any questions about this privacy statement, or our privacy policies, or you wish to report any circumstances whereby you believe any of our Apps or services do not conform with these Privacy Policies, please contact us by emailing the notice to us at: privacy@frontdeskhq.com or by mailing such notice to Front Desk Inc., 506 2nd Ave, Suite 1012, Seattle, WA 98104.  
 
 
-### 11\. Term of Service 
+### 12\. Term of Service 
 
 When you access our website you are subject to the Front Desk Terms of Service.  
 
 
-### 12\. California Privacy Rights
+### 13\. California Privacy Rights
 
 California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. If you are a California resident and have provided Us with Personal Information within the last year, you may make such a request by emailing us at the following email address with the email’s subject titled as “California Privacy Rights” to [privacy@frontdeskhq.com](http://mailto:privacy@frontdeskhq.com/).
