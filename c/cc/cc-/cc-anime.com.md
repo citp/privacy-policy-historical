@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cc-anime.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109173101id_/http%3A//cc-anime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cc-anime.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610012632id_/http%3A//cc-anime.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CC-Anime.com
 
