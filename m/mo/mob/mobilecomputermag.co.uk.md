@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mobilecomputermag.co.uk privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215022308id_/http%3A//www.broadbandgenie.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilecomputermag.co.uk privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609025558id_/http%3A//www.broadbandgenie.co.uk/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Broadband Genie
 
 ###  Personal data, email policy and cookies
 
-#####  _updated 3 July 2014_
+#####  _Updated January 27, 2015_
 
 Broadband Genie is committed to respecting the privacy of its visitors. We do not collect any personal data when you visit the site, or vote in polls, and you can access and browse our website without disclosing any personal data. We use cookies which collect anonymous information about the pages visited to allow us to monitor the performance of the website.
 
