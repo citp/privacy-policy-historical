@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wordpressinfo.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208194640id_/http%3A//wordpressinfo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordpressinfo.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609205002id_/http%3A//wordpressinfo.com/privacy) for the most accurate reproduction.*
 
-# Privacy | WordPressInfo.com | WordPress Announcements News and Information
+# Privacy | WordPressInfo.com
 
 [Home](http://wordpressinfo.com/) » Privacy
 
@@ -21,3 +21,7 @@ We also visualize third party advertisements on [WordPressInfo.com](http://wordp
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, it can affect your ability to interact with our site as well as other websites and it may include the inability to login to services or programs, such as logging into forums or accounts. 
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless, you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+
+### This Site
+
+WordPressInfo.com is snippets of news and info about WordPress and the plugins and themes used to enhance it. We created this site because as committed WordPress users, our favourites list and links to great WordPress stuff got out of control, so we now put interesting info online, for the benefit of other WordPress users. We only normally publish announcements and stuff that we use or are thinking of using, but if you have any useful WordPress info, visitors can submit news using the [SUBMIT NEWS](http://wordpressinfo.com/submit-news/) Link above. No site registration required.
