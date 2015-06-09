@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slowcookerfromscratch.com privacy policy that was archived on 2014-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140729111910id_/http%3A//www.slowcookerfromscratch.com/2012/01/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slowcookerfromscratch.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609224229id_/http%3A//www.slowcookerfromscratch.com/2012/01/privacy-policy.html) for the most accurate reproduction.*
 
-# Slow Cooker from Scratch®: Privacy Policy
+# Privacy Policy | Slow Cooker from Scratch®
 
 **General Statement About Privacy:**  
 Slow Cooker from Scratch is committed to maintaining the privacy and protection of your personal information when you visit this website. This policy outlines what information may be collected when you visit the site, and how that information is used. When you continue to visit this website, you are consenting to the practices described in this policy.
@@ -23,14 +23,8 @@ If you would like to contact the Advertisers to learn more about their privacy p
 BlogHer Publishing Network  
 <http://www.blogher.com/privacy-policy>
 
-PlateFull Ad Network  
-<http://www.coxdigitalsolutions.com/privacy-policy>
-
 Lijit Networks Inc.  
 <http://www.lijit.com/company/privacy-policy>
-
-AOL Advertising  
-http://advertising.aol.com/privacy
 
 Some of these third party advertising networks are participants in the Network Advertising Initiative ("NAI"), a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. You can learn more about NAI and how you may "opt out" of targeted advertising delivered by NAI member ad networks [here.](http://www.networkadvertising.org/)
 
@@ -40,4 +34,4 @@ If you have any questions about this policy please contact slowcookerfromscratch
 **Changes to This Policy:**  
 We reserve the right to update or change this privacy policy at any time. Any such change, modification, or addition to the privacy policy on Slow Cooker from Scratch will become effective immediately upon posting on the site.
 
-This policy last updated on October 27, 2013. 
+This policy last updated on December 10, 2014. 
