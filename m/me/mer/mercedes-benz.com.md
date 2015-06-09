@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercedes-benz.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120212750id_/http%3A//www.mercedes-benz.com/en/mercedes-benz/providerprivacy-statement/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercedes-benz.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609092326id_/http%3A//www.mercedes-benz.com/en/mercedes-benz/providerprivacy-statement/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -6,7 +6,7 @@
 
 Daimler appreciates your interest in its products and your visit to this website. Your privacy is important to us and we want you to feel comfortable visiting our site. The protection of your privacy in the processing of your personal data is an important concern to which we pay special attention during our business processes. Personal data collected during visits to our websites are processed by us according to the legal provisions valid for the countries in which the websites are maintained. Our data protection policy is also based on the data protection policy applicable to Daimler. 
 
-[Daimler Data Protection Policy](http://www.daimler.com/Projects/c2c/channel/documents/916654_Daimler_Data_Protection_Policy.pdf).
+[Daimler Data Protection Policy](http://www.daimler.com/Projects/c2c/channel/documents/916654_Daimler_Data_Protection_Policy_en.pdf).
 
 Daimler websites may include links to other websites which are not covered by this privacy statement. 
 
@@ -40,7 +40,7 @@ Daimler uses so-called social plugins (‘buttons’) of social networks such as
 
 When you visit our websites these buttons are deactivated by default, i.e. without your intervention they will not send any data to the respective social networks. Before you are able to use these buttons, you must activate them by clicking on them. They then remain active until you deactivate them again or delete your cookies (please refer to ‘Cookies’). 
 
-[Cookies](https://www.mercedes-benz.com/en/mercedes-benz/external-2/anbieter-datenschutz/#Cookies)
+Cookies
 
 After their activation, a direct link to the server of the respective social network is established. The contents of the button are then transmitted from the social network directly to your browser and incorporated in the website by it. 
 
@@ -54,7 +54,7 @@ We have no influence on the scope of data that is collected by the social networ
 
 Information on the cookies that we use and their features can be found in ‘Cookies’. 
 
-[Cookies](https://www.mercedes-benz.com/en/mercedes-benz/external-2/anbieter-datenschutz/#Cookies)
+Cookies
 
 #### Analysis of usage data
 
@@ -64,7 +64,7 @@ If you do not wish Daimler to collect and analyze statistical data related to yo
 
 For the technical implementation of your objection it is necessary to install an opt-out cookie on your browser. This cookie will only indicate that you have opted out. Please note that for technical reasons the opt-out cookie will only affect the browser you object from. If you delete the cookies in your browser or use a different end device or browser, you will need to opt out again. 
 
-[ Click here to install the opt-out cookie. ](http://www.d1.sc.omtrdc.net/optout.html?omniture=1&popup=1&locale=en&second=1&second_has_cookie=0)
+[ Click here to install the opt-out cookie. ](http://daimlerag.d2.sc.omtrdc.net/optout.html?locale=en_US&optout=1)
 
 #### Security
 
