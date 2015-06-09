@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fasterlouder.com.au privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229201245id_/http%3A//www.fasterlouder.com.au/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fasterlouder.com.au privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609232908id_/http%3A//www.fasterlouder.com.au/about/privacy-statement) for the most accurate reproduction.*
 
 # About FasterLouder.com.au
 
