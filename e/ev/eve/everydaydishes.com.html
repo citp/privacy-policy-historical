@@ -1,0 +1,733 @@
+<!--The following is the downloaded HTML source of the everydaydishes.com privacy policy that was archived on 2015-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150609235821id_/http%3A//everydaydishes.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US"><head><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script id="facebook-jssdk" src="http://connect.facebook.net/en_US/all.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NZJ4GX"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQ4OVl5SGwEJXFNUBAY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+<meta charset="UTF-8">
+<title>privacy policy – Everyday Dishes &amp; DIY</title>
+<script>
+  dataLayer = [];
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="apple-touch-icon" sizes="76x76" href="http://everydaydishes.com/wp-content/themes/redesign/images/touch-icon-ipad.png">
+<link rel="apple-touch-icon" sizes="120x120" href="http://everydaydishes.com/wp-content/themes/redesign/images/touch-icon-iphone-retina.png">
+<link rel="apple-touch-icon" sizes="152x152" href="http://everydaydishes.com/wp-content/themes/redesign/images/touch-icon-ipad-retina.png">
+<meta name="application-name" content="Everyday Dishes &amp; DIY">
+<meta name="msapplication-starturl" content="http://everydaydishes.com/">
+<meta name="msapplication-TileColor" content="#a2ae25">
+<meta name="msapplication-TileImage" content="http://everydaydishes.com/wp-content/themes/redesign/images/touch-icon-ipad-retina.png">
+<meta name="msapplication-square70x70logo" content="http://everydaydishes.com/wp-content/themes/redesign/images/touch-icon-ipad.png">
+<meta name="msapplication-square150x150logo" content="http://everydaydishes.com/wp-content/themes/redesign/images/touch-icon-ipad-retina.png">
+<meta name="msapplication-config" content="none">
+<meta name="microid" content="fa3bf3e2590d036718b686611cc07efae0eb3266">
+<meta name="microid" content="cd8178e37f81b55b6484737c1c6afa9f62fd82c5f272b012f2">
+<meta name="google-site-verification" content="rnqjq5PwN37F08d3CAVHXJYJvd2PbZ12FzOCe5dX4mQ">
+<meta name="p:domain_verify" content="c5819df2a4bfab96bcf779c9a6826eb3">
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v2.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noodp,noydir">
+<link rel="canonical" href="http://everydaydishes.com/privacy/">
+<link rel="publisher" href="https://plus.google.com/111443217738418491027">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="Privacy Policy We are part of “Everyday Dishes &amp; DIY, LLC.” Brands, which include Everyday Dishes &amp; DIY, everydaydishes.com, and Live the Moment. Everyday Dishes &amp; DIY, LLC. Brands are committed to respecting your privacy and recognizing your need for appropriate protection and management of contact information you share with us (the phrase “contact information” […]">
+<meta name="twitter:title" content="privacy policy – Everyday Dishes &amp; DIY">
+<meta name="twitter:site" content="@everyday_dishes">
+<meta name="twitter:domain" content="Everyday Dishes &amp; DIY">
+<meta name="twitter:creator" content="@everyday_dishes">
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/everydaydishes.com\/","name":"Everyday Dishes and DIY"}</script>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="dns-prefetch" href="//connect.facebook.net">
+<link rel="alternate" type="application/rss+xml" title="Everyday Dishes &amp; DIY » Feed" href="http://everydaydishes.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Everyday Dishes &amp; DIY » Comments Feed" href="http://everydaydishes.com/comments/feed/">
+<link rel="stylesheet" id="theme-my-login-css" href="http://everydaydishes.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.12" type="text/css" media="all">
+<link rel="stylesheet" id="edd-custom-css" href="http://everydaydishes.com/wp-content/themes/redesign/style.css?ver=3.0" type="text/css" media="all">
+<link rel="stylesheet" id="pinterest-pinboard-widget-style-css" href="http://everydaydishes.com/wp-content/plugins/pinterest-pinboard-widget/style.css?v=1&amp;ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="pinterestRSScss-css" href="http://everydaydishes.com/wp-content/plugins/pinterest-rss-widget/style.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="wsl-widget-css" href="http://everydaydishes.com/wp-content/plugins/wordpress-social-login/assets/css/style.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="wp-email-css" href="http://everydaydishes.com/wp-content/plugins/wp-email/email-css.css?ver=2.60" type="text/css" media="all">
+<link rel="stylesheet" id="theme-my-login-ajax-css" href="http://everydaydishes.com/wp-content/plugins/theme-my-login/modules/ajax/css/ajax.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css?ver=3.0" type="text/css" media="all">
+<link rel="stylesheet" id="simple-social-icons-font-css" href="http://everydaydishes.com/wp-content/plugins/simple-social-icons/css/style.css?ver=1.0.5" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="http://everydaydishes.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.5.3" type="text/css" media="all">
+<script type="text/javascript" src="http://everydaydishes.com/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script>
+<script type="text/javascript" src="http://everydaydishes.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="http://everydaydishes.com/wp-content/plugins/pinterest-rss-widget/jquery.nailthumb.1.0.min.js?ver=4.2.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpAjax = {"noPerm":"You do not have permission to do that.","broken":"An unidentified error has occurred."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://everydaydishes.com/wp-includes/js/wp-ajax-response.min.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://everydaydishes.com/wp-content/plugins/theme-my-login/modules/ajax/js/ajax.js?ver=4.2.2"></script>
+<meta name="generator" content="WordPress 4.2.2">
+<!-- Start Fluid Video Embeds Style Tag -->
+<style type="text/css">
+/* Fluid Video Embeds */
+.fve-video-wrapper {
+    position: relative;
+    overflow: hidden;
+    height: 0;
+    background-color: transparent;
+    padding-bottom: 56.25%;
+    margin: 0.5em 0;
+}
+.fve-video-wrapper iframe,
+.fve-video-wrapper object,
+.fve-video-wrapper embed {
+    position: absolute;
+    display: block;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.fve-video-wrapper a.hyperlink-image {
+    position: relative;
+    display: none;
+}
+.fve-video-wrapper a.hyperlink-image img {
+    position: relative;
+    z-index: 2;
+    width: 100%;
+}
+.fve-video-wrapper a.hyperlink-image .fve-play-button {
+    position: absolute;
+    left: 35%;
+    top: 35%;
+    right: 35%;
+    bottom: 35%;
+    z-index: 3;
+    background-color: rgba(40, 40, 40, 0.75);
+    background-size: 100% 100%;
+    border-radius: 10px;
+}
+.fve-video-wrapper a.hyperlink-image:hover .fve-play-button {
+    background-color: rgba(0, 0, 0, 0.85);
+}
+</style>
+<!-- End Fluid Video Embeds Style Tag -->
+<link rel="Shortcut Icon" href="http://everydaydishes.com/wp-content/themes/redesign/images/favicon.ico" type="image/x-icon">
+<script type="text/javascript" src="https://pf-cdn.printfriendly.com/ssl/main.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head><body class="page page-id-945 page-template-default header-image header-full-width content-sidebar" itemscope="itemscope" itemtype="http://schema.org/WebPage"><input type="hidden" name="OBKey" value="e3sTDvSz4ONyDQTzLwxSnQ==">
+<script language="JavaScript">var OBCTm='1410201991543'; </script>
+<script src="http://cdn.assets.totallyher.com/__usa/totallyher_bd_logo/branding.js?useDarkLogo=true" type="text/javascript"></script>
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js" data-pin-hover="true" async=""></script>
+<!-- Begin comScore Tag -->
+<script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript>
+<!-- End comScore Tag -->
+<!-- BEGIN TRIGGER TAG INITIALIZATION -->
+<script type="text/javascript" src="http://cdn.triggertag.gorillanation.com/js/triggertag.js"></script>
+<script type="text/javascript">getTrigger('12741');</script>
+<!-- END TRIGGER TAG INITIALIZATION -->
+<style>.sidebar .acm_ad_zones { clear: left }</style>
+<style type="text/css">
+body .page-container  {
+background-color: #fff;
+}
+body {
+background-attachment: fixed !important;
+}
+body.home .page-container, body.home .mm-page {
+max-width: 1200px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+}
+@media (max-width: 1199px !important;) {
+  body.home .mm-page { width: auto !important; }
+}
+</style>
+
+<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<style type="text/css" media="screen"> .simple-social-icons ul li a, .simple-social-icons ul li a:hover { background-color: #f17c26 !important; border-radius: 18px; color: #ffffff !important; border: 0px #ffffff solid !important; font-size: 18px; padding: 9px; }  .simple-social-icons ul li a:hover { background-color: #666666 !important; border-color: #ffffff !important; color: #ffffff !important; }</style><!-- Include google_services.js -->
+<script type="text/javascript">
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script><script type="text/javascript">
+var dfp_slots = dfp_slots || {};
+googletag.cmd.push(function () {
+  googletag.defineSlot("/132676502/everydaydishes.ros", [[728,90],[970,90]], "cs-ad-leaderboard")
+    .defineSizeMapping(googletag.sizeMapping()
+      .addSize([1,1], [320,50])
+      .addSize([750,200], [728,90])
+      .addSize([990,200], [[728,90],[970,90]])
+      .build())
+    .setTargeting("pos", "atf")
+    .addService(googletag.pubads());
+
+  googletag.defineSlot("/132676502/everydaydishes.ros", [300,250], "cs-ad-featured")
+    .defineSizeMapping(googletag.sizeMapping()
+      .addSize([1,1], [320,50])
+      .addSize([320,260], [300,250])
+      .addSize([750,1], [728,90])
+      .addSize([1000,1], [300,250])
+      .build())
+    .setTargeting("pos", "atf")
+    .addService(googletag.pubads());
+
+  googletag.defineSlot("/132676502/everydaydishes.ros", [[300,250]], "cs-ad-sidebar_top")
+    .setTargeting("pos", "atf")
+    .addService(googletag.pubads());
+
+  googletag.defineSlot("/132676502/everydaydishes.rosb", [[300,250],[300,600]], "cs-ad-sidebar_bottom")
+    .addService(googletag.pubads());
+
+  googletag.defineSlot("/132676502/everydaydishes.ros", [[300,600],[160,600],[120,600]], "cs-ad-sidebar_skyscraper")
+    .addService(googletag.pubads());
+
+  googletag.defineSlot("/132676502/everydaydishes.ros", [[300,250],[300,600]], "cs-ad-sidebar_house")
+    .setTargeting("type", "house")
+    .addService(googletag.pubads());
+
+  googletag.pubads().enableSingleRequest();  googletag.pubads().setCentering(true);
+  googletag.pubads().collapseEmptyDivs();
+  googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+    try {
+      var slot = event.slot,
+          id   = slot.getSlotId().getDomId(),
+          el   = document.getElementById(id);
+
+      el.style.height = 'auto';
+    } catch (e) {}
+  });
+  googletag.enableServices();
+});
+</script>
+
+<!-- Dynamic Widgets by QURL - http://www.qurl.nl //-->
+<meta property="og:site_name" content="Everyday Dishes &amp; DIY">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="fb:app_id" content="395092520597925">
+<meta property="og:url" content="http://everydaydishes.com/privacy/">
+<meta property="og:title" content="privacy policy">
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZJ4GX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NZJ4GX');</script>
+<!-- End Google Tag Manager -->
+<div class="mm-page"><div class="page-container container"><div class="before-header widget-area" role="presentation"><section id="text-30" class="widget-1 widget-first widget-odd widget widget_text"><div class="widget-1 widget-first widget-odd widget-wrap">			<div class="textwidget"><img src="http://pubads.g.doubleclick.net/gampad/ad?iu=/132676502/everydaydishes.tracking&amp;sz=1x1&amp;t=sect%3Dhome&amp;c=12345678"><br></div>
+		</div></section>
+<section id="acm_ad_zones-20" class="widget-2 widget-last widget-even widget acm_ad_zones"><div class="widget-2 widget-last widget-even widget-wrap"><div id="cs-ad-leaderboard" class="ad-content" style="height:90px;">
+<script type="text/javascript">
+googletag.cmd.push(function () { googletag.display("cs-ad-leaderboard"); });
+</script>
+</div></div></section>
+</div><header class="site-header" role="banner" itemscope="itemscope" itemtype="http://schema.org/WPHeader"><nav class="navbar navbar-main" role="navigation">
+  <div class="navbar-header">
+    <a href="#cs-main-nav" class="navbar-toggle main-nav" id="m-main-nav">
+      <span class="sr-only">Toggle navigation</span>
+      <i class="fa fa-bars"></i>
+    </a>
+    <a href="#user-menu" class="navbar-toggle user-nav" id="m-user-nav">
+      <span class="sr-only">Toggle user menu</span>
+      <i class="fa fa-user"></i>
+    </a>
+    <a class="navbar-brand" href="/">Everyday Dishes &amp; DIY</a>
+    <span class="navbar-description">Stirring Up Dependable Recipes and Crafts</span>
+  </div>
+  <div class="cs-main-nav-content">
+
+<div class="collapse navbar-collapse" id="cs-main-nav">
+  <div class="navbar-form">
+    <form class="search-form" role="search" action="http://everydaydishes.com/" method="get">
+  <div class="input-group add-on">
+    <input type="search" class="form-control" placeholder="Search" name="s" id="search-term" value="">
+    <div class="input-group-btn">
+      <button class="btn btn-default" type="submit"><span class="sr-only">Search</span><i class="glyphicon glyphicon-search"></i></button>
+    </div>
+  </div>
+</form>
+  </div>
+  <div class="cs-main-nav">
+    <ul id="menu-main-menu" class="nav navbar-nav navbar-primary"><li id="menu-item-17421" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-17421 dropdown"><a title="eat" href="http://everydaydishes.com/simple-food-recipes/" data-hover="dropdown" class="dropdown-toggle" aria-haspopup="true"><span class="glyphicon icon-eat"></span>&nbsp;eat <span class="caret" data-toggle="toggle"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-17467" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17467"><a title="Appetizers" href="http://everydaydishes.com/simple-food-recipes/appetizer-recipes/">Appetizers</a></li>
+	<li id="menu-item-17468" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17468"><a title="Breakfast" href="http://everydaydishes.com/simple-food-recipes/breakfast-recipes/">Breakfast</a></li>
+	<li id="menu-item-17469" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17469"><a title="Dessert" href="http://everydaydishes.com/simple-food-recipes/dessert-recipes/">Dessert</a></li>
+	<li id="menu-item-17471" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17471"><a title="Dinner" href="http://everydaydishes.com/simple-food-recipes/dinner-recipes/">Dinner</a></li>
+	<li id="menu-item-18445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18445"><a title="Grilling" href="http://everydaydishes.com/simple-food-recipes/grilling-recipes/">Grilling</a></li>
+	<li id="menu-item-18522" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18522"><a title="Lunch" href="http://everydaydishes.com/simple-food-recipes/lunch-recipes/">Lunch</a></li>
+	<li id="menu-item-18446" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18446"><a title="Salads" href="http://everydaydishes.com/simple-food-recipes/salad-recipes/">Salads</a></li>
+	<li id="menu-item-17473" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17473"><a title="Side Dishes" href="http://everydaydishes.com/simple-food-recipes/side-dish-recipes/">Side Dishes</a></li>
+	<li id="menu-item-18447" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18447"><a title="Slow Cooker" href="http://everydaydishes.com/simple-food-recipes/slow-cooker-recipes/">Slow Cooker</a></li>
+	<li id="menu-item-20411" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20411"><a title="Soup Recipes" href="http://everydaydishes.com/simple-food-recipes/soup-recipes/">Soup Recipes</a></li>
+	<li id="menu-item-18448" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18448"><a title="Tailgating" href="http://everydaydishes.com/simple-food-recipes/tailgating-recipes/">Tailgating</a></li>
+	<li id="menu-item-18449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18449"><a title="Vegetarian" href="http://everydaydishes.com/simple-food-recipes/vegetarian-recipes/">Vegetarian</a></li>
+</ul>
+</li>
+<li id="menu-item-17424" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-17424 dropdown"><a title="sip" href="http://everydaydishes.com/drink-ideas/" data-hover="dropdown" class="dropdown-toggle" aria-haspopup="true"><span class="glyphicon icon-sip"></span>&nbsp;sip <span class="caret" data-toggle="toggle"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-30580" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30580"><a title="Summer Cocktails" href="http://everydaydishes.com/drink-ideas/summer-cocktails/">Summer Cocktails</a></li>
+	<li id="menu-item-17479" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17479"><a title="Cocktails" href="http://everydaydishes.com/drink-ideas/cocktail-recipes/">Cocktails</a></li>
+	<li id="menu-item-18440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18440"><a title="Dessert Cocktails" href="http://everydaydishes.com/drink-ideas/dessert-cocktail-recipes/">Dessert Cocktails</a></li>
+	<li id="menu-item-18441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18441"><a title="Frozen Drinks" href="http://everydaydishes.com/drink-ideas/frozen-cocktails-recipes/">Frozen Drinks</a></li>
+	<li id="menu-item-18442" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18442"><a title="Hot Drinks" href="http://everydaydishes.com/drink-ideas/hot-drink-recipes/">Hot Drinks</a></li>
+	<li id="menu-item-17483" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17483"><a title="Non-Alcoholic" href="http://everydaydishes.com/drink-ideas/non-alcoholic-recipes/">Non-Alcoholic</a></li>
+</ul>
+</li>
+<li id="menu-item-17420" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-17420 dropdown"><a title="create" href="http://everydaydishes.com/creative-crafts/" data-hover="dropdown" class="dropdown-toggle" aria-haspopup="true"><span class="glyphicon icon-create"></span>&nbsp;create <span class="caret" data-toggle="toggle"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-17486" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17486"><a title="Home Decor" href="http://everydaydishes.com/creative-crafts/home-decorating-crafts/">Home Decor</a></li>
+	<li id="menu-item-18524" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18524"><a title="Kids Crafts" href="http://everydaydishes.com/creative-crafts/family-and-kids/">Kids Crafts</a></li>
+	<li id="menu-item-18525" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18525"><a title="Style and Beauty" href="http://everydaydishes.com/creative-crafts/style-and-beauty/">Style and Beauty</a></li>
+	<li id="menu-item-18433" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18433"><a title="Organize" href="http://everydaydishes.com/creative-crafts/organizing-ideas/">Organize</a></li>
+	<li id="menu-item-18439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18439"><a title="Baby Shower" href="http://everydaydishes.com/creative-crafts/baby-shower/">Baby Shower</a></li>
+	<li id="menu-item-18437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18437"><a title="Bridal Shower" href="http://everydaydishes.com/creative-crafts/bridal-shower/">Bridal Shower</a></li>
+	<li id="menu-item-18438" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18438"><a title="Birthday" href="http://everydaydishes.com/creative-crafts/birthday/">Birthday</a></li>
+	<li id="menu-item-18436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18436"><a title="Graduation" href="http://everydaydishes.com/creative-crafts/graduation/">Graduation</a></li>
+	<li id="menu-item-18432" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18432"><a title="Tailgate" href="http://everydaydishes.com/creative-crafts/tailgating-crafts/">Tailgate</a></li>
+</ul>
+</li>
+<li id="menu-item-17423" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-17423 dropdown"><a title="holiday" href="http://everydaydishes.com/holiday/" data-hover="dropdown" class="dropdown-toggle" aria-haspopup="true"><span class="glyphicon icon-holiday"></span>&nbsp;holiday <span class="caret" data-toggle="toggle"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-18419" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18419"><a title="Christmas" href="http://everydaydishes.com/holiday/christmas-recipes-crafts/">Christmas</a></li>
+	<li id="menu-item-30348" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30348"><a title="Cinco de Mayo" href="/tag/cinco-de-mayo">Cinco de Mayo</a></li>
+	<li id="menu-item-18420" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18420"><a title="Easter" href="http://everydaydishes.com/holiday/easter-recipes-crafts/">Easter</a></li>
+	<li id="menu-item-18421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18421"><a title="Father's Day" href="http://everydaydishes.com/holiday/fathers-day-gift-ideas/">Father’s Day</a></li>
+	<li id="menu-item-18422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18422"><a title="4th of July" href="http://everydaydishes.com/holiday/fourth-of-july-party-ideas/">4th of July</a></li>
+	<li id="menu-item-18423" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18423"><a title="Halloween" href="http://everydaydishes.com/holiday/halloween-recipes-crafts/">Halloween</a></li>
+	<li id="menu-item-18424" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18424"><a title="Hanukkah" href="http://everydaydishes.com/holiday/hanukkah-recipes-crafts/">Hanukkah</a></li>
+	<li id="menu-item-18425" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18425"><a title="Mardi Gras" href="http://everydaydishes.com/holiday/mardi-gras/">Mardi Gras</a></li>
+	<li id="menu-item-18426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18426"><a title="Mother's Day" href="http://everydaydishes.com/holiday/mothers-day-gift-ideas/">Mother’s Day</a></li>
+	<li id="menu-item-18427" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18427"><a title="New Years" href="http://everydaydishes.com/holiday/new-years-eve-party-ideas/">New Years</a></li>
+	<li id="menu-item-18428" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18428"><a title="Passover" href="http://everydaydishes.com/holiday/passover-recipes/">Passover</a></li>
+	<li id="menu-item-18429" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18429"><a title="St Patrick's Day" href="http://everydaydishes.com/holiday/st-paddys-day/">St Patrick’s Day</a></li>
+	<li id="menu-item-18430" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18430"><a title="Thanksgiving" href="http://everydaydishes.com/holiday/thanksgiving-recipes-crafts/">Thanksgiving</a></li>
+	<li id="menu-item-18431" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18431"><a title="Valentine's Day" href="http://everydaydishes.com/holiday/valentines-day-recipes-crafts/">Valentine’s Day</a></li>
+</ul>
+</li>
+<li id="menu-item-17422" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17422"><a title="faves" href="http://everydaydishes.com/favorite-products/"><span class="glyphicon icon-faves"></span>&nbsp;faves</a></li>
+<li id="menu-item-17352" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17352"><a title="shop" target="_blank" href="http://www.amazon.com/Mother-Daughter-Dishes-reinventing-classics/dp/1494927411"><span class="glyphicon icon-shop"></span>&nbsp;shop</a></li>
+</ul>
+    <ul id="menu-meal-links" class="nav navbar-secondary"><li id="menu-item-27210" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27210"><a href="/simple-food-recipes/breakfast-recipes/">Breakfast</a></li>
+<li id="menu-item-27211" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27211"><a href="/simple-food-recipes/lunch-recipes/">Lunch</a></li>
+<li id="menu-item-27212" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27212"><a href="/simple-food-recipes/dinner-recipes/">Dinner</a></li>
+<li id="menu-item-27213" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27213"><a href="/simple-food-recipes/dessert-recipes/">Dessert</a></li>
+<li id="menu-item-27214" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27214"><a href="/drink-ideas/">Drinks</a></li>
+</ul>  </div>
+  <div class="navbar-search-menu">
+    <ul id="menu-search" class="nav navbar-search navbar-right"><li id="menu-item-17357" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17357"><a title="Blog" href="http://everydaydishes.com/blog/">Blog</a></li>
+<li id="menu-item-17461" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17461"><a title="About" href="http://everydaydishes.com/about/">About</a></li>
+  <ul class="nav navbar-nav navbar-right user-collapse" id="cs-user-nav">
+    <li>
+      <a href="#" class="btn" data-toggle="modal" data-target="#authbox">
+        Sign in / Register
+      </a>
+    </li>
+  </ul>
+
+</ul>  </div>
+</div>
+</div></nav></header><div class="site-inner"><div class="content-sidebar-wrap"><main class="content" role="main" itemprop="mainContentOfPage"><article class="post-945 page type-page status-publish entry" itemscope="itemscope" itemtype="http://schema.org/CreativeWork" data-post-id="945"><header class="entry-header"><h1 class="entry-title" itemprop="headline">privacy policy</h1> 
+</header><div class="entry-content" itemprop="text"><div class="pf-content"><h4 class="heading">Privacy Policy</h4>
+<div class="indent">
+We are part of “Everyday Dishes &amp; DIY, LLC.” Brands, which include Everyday Dishes &amp; DIY, everydaydishes.com, and Live the Moment. Everyday Dishes &amp; DIY, LLC. Brands are committed to respecting your privacy and recognizing your need for appropriate protection and management of contact information you share with us (the phrase “contact information” means any information by which you can be contacted, such as your name, mailing address, email address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what information we may collect from you, how we use such information, and the choices you have regarding our use of, and your ability to review, correct and opt out of our use of, the information. By using any of our web sites or sharing your contact information with us, you are accepting the practices described in this Privacy Policy.<p></p>
+<p>As a part of our commitment to your privacy, Everyday Dishes &amp; DIY, LLC. Brands support and adhere to the guidelines and practices adopted by the Direct Marketing Association’s “Privacy Promise to American Consumers.” We have agreed to (1) provide customers with notice of their ability to opt out of information rental, sale, or exchange with other marketers; (2) honor customers’ requests not to share their contact information with other marketers; and (3) honor customers’ requests not to receive mail, telephone, or other solicitations from Everyday Dishes &amp; DIY, LLC. Brands.</p>
+<p><b>Collecting Information About You</b></p>
+<p>There may be times (such as when you purchase or order a product, subscribe to a service, register to receive catalogs, sign up to receive emails, submit information and personal content on the Everyday Dishes &amp; DIY &nbsp;website, or to participate in contests, sweepstakes or promotions, etc.) when we ask you to provide certain contact information about yourself, such as your name, shipping/billing address, telephone number, email address, credit card information, birth date, gender, occupation, personal interests, and other information. When providing information to Everyday Dishes &amp; DIY, you are also opting in to receive email newsletters from Everyday Dishes &amp; DIY. We may also maintain a record of your product purchases.</p>
+<p>Whether or not to provide such information is completely your own choice. But if you choose not to provide the information we request, you may be unable to purchase products, or access certain services, offers and content on our web sites. In addition, we may need to contact you via phone, email or mail to address questions or issues specific to your order, entry, etc., even if you have opted to not receive marketing communications from us.</p>
+<p>In general, you can visit many of our web pages without telling us who you are or revealing any contact information about yourself. We may track the Internet domain address from which people visit us and analyze this data for preferences, trends, and site usage statistics, but individual users will remain anonymous, unless you voluntarily tell us who you are.</p>
+<p><b>Using Information About You</b></p>
+<p>We use your contact information for internal purposes only, such as:</p>
+<ul>
+<li>Confirming and tracking your order, subscription, or registration;</li>
+<li>Analyzing preferences, trends, and statistics;</li>
+<li>Informing you of our new products, services, and offers, newsletters; and</li>
+<li>Providing you with other information from and about Everyday Dishes &amp; DIY, LLC. Brands.</li>
+</ul>
+<p>We process your contact information only in ways compatible with the purposes for which it was collected or authorized by you. To the extent necessary for such purposes, we take reasonable steps to make sure that your contact information is accurate, complete, current, and otherwise reliable with regard to its intended use.</p>
+<p>From time to time we might establish a business relationship with other persons or entities whom we believe trustworthy and whom we have asked to confirm that their privacy policies are consistent with ours. These are known as our Select Partners. In such cases we might rent, exchange, share and/or cross-reference information, including contact information about you that will enable such persons or entities to contact you regarding products and services that may be of interest to you.</p>
+<p>To serve you better, we may combine information you give us online. We may also combine that information with publicly available information and information we receive from or cross-reference with our Select Partners and others. We use that combined information to enhance and personalize the shopping experience of you and others with us, to communicate with you about our products and events that may be of interest to you, and for other promotional purposes.</p>
+<p>We may contract with companies or persons to provide certain services including credit card processing, shipping, data management, promotional services, etc. We call them our Service Providers. We provide our Service Providers with the information needed for them to perform these services. We also ask our Service Providers to confirm that their privacy practices are consistent with ours.</p>
+<p>We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our websites. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit&nbsp;<a title="Network Advertising" href="http://www.networkadvertising.org/">http://www.networkadvertising.org/</a>.</p>
+<p>In certain instances we may disclose your contact information when we have reason to believe that it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, to Everyday Dishes &amp; DIY, LLC Brands or to others. We may also disclose your contact information when we believe the law or legal process requires it.</p>
+<p><b>Opting Out Of Marketing And Transfers; Updating and Deleting Information About You</b></p>
+<p>We want to communicate with you only if you want to hear from us. If you prefer not to receive direct marketing from us or from our Select Partners, or if you would like to opt out of our rental or exchange of your information with other marketers, please let us know. In the U.S., you can call us at 602-476-0630 or&nbsp;<a href="mailto:hi_there@cherylstyle.com">email us</a>. Please be sure to include your full name, email address, mailing address, and specifically what information you do not want to receive. If you would like to update or correct your email address, mailing address or other contact information with us please contact us the same way. If you like, you may use either of the following statements in your message to us:</p>
+<ul>
+<li>“I prefer not to receive email advertisements, such as updates regarding products and services, special promotions or upcoming events.”</li>
+<li>“I prefer not to receive direct mail advertisements, such as periodic catalogs and mailings regarding products and services, special promotions or upcoming events.”</li>
+</ul>
+<p>You may also click the designated link at the bottom of all email advertisements to be removed from future email updates.</p>
+<p>Please note that any requests to remove or update your contact information may take up to ten days for your email request and 6-8 weeks to process your postal mail request.</p>
+<p><b>Cookies</b></p>
+<p>When you visit our websites, we send one or more “cookies” to your computer or other device. We may also use cookies in emails that you receive from us. A “cookie” is a small data file that is placed on the hard drive of your computer when you visit a website. A “session cookie” expires immediately when you end your session (i.e., close your browser). A “persistent cookie” stores information on the hard drive so when you end your session and return to the same website at a later date the cookie information is still available. Generally, we use cookies to improve the quality of our service when you visit our website and other websites of interest to you. We also use cookies to remind us of who you are, tailor our products, services and advertising to suit the personal interests of you and others, estimate our audience size, assist our online merchants to track visits to and sales at our websites and to process your order, track your status in our promotions, contests and sweepstakes, and/or analyze your visiting patterns.</p>
+<p>Certain of our Service Providers may use cookies and collect information on our behalf. They are prohibited by our contract with them from sharing that information with anyone other than us or our other Service Providers. However, we respect your right to choose whether to be included in such services. You may opt out of certain of these services by&nbsp;<a href="mailto:hithere@cherylstyle.com">emailing us</a>. In addition, in connection with the services that they provide to us, certain of our Service Providers may work with third parties who may use cookies to collect anonymous information to tailor advertising for you and others elsewhere on the Internet. These third parties do not have access to any contact information about you. If you would like to opt out of accepting cookies altogether, you can generally set your browser to not accept cookies or to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. However, certain features of our websites or other services may not work if you delete or disable cookies.</p>
+<p><b>Security</b></p>
+<p>We maintain physical, electronic, and procedural safeguards to protect the confidentiality and security of information transmitted to us. To guard your information delivered to us electronically, our websites use Secure Sockets Layer (SSL). SSL encrypts your credit card number, name and address so only we are able to decode your information. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your contact information, we cannot guarantee or warrant the security of any information you transmit to or from our websites, and you do so at your own risk.</p>
+<p>We urge you to keep any password that you establish with us in a safe place and not to divulge it to anyone. Also remember to log off your account and close your browser window when you have finished your visit. This is to ensure that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in a public place such as a library or Internet cafe.</p>
+<p><b>Protecting Children</b></p>
+<p>Everyday Dishes &amp; DIY, LLC. Brands take special care to protect the safety and privacy of children. Our websites are general audience sites. We do not permit anyone under the age of 13 to register with us. We also do not send email correspondence to anyone who tells us that they are under the age of 13.<br>
+Children under the age of 13 should always ask their parents or guardians for permission before providing any contact information to anyone online. We urge parents and guardians to participate in their children’s online activities and use parental control or other web filtering technology to supervise children’s access to the Internet.</p>
+<p><b>Links to Third Party Sites</b></p>
+<p>Our websites may contain links to websites operated and maintained by third parties, over which we have no control. Privacy policies on such linked sites may be different from our privacy policy. You access such linked sites at your own risk. You should always read the privacy policy of a linked site before disclosing any of your information on such site.</p>
+<p><b>Policy Changes</b></p>
+<p>If we decide to change our privacy policy in whole or in part, we will inform you by posting a notice on our websites, as applicable. Those changes will go into effect on the effective date posted in the notice and at the end of the revised Privacy Policy. The new policy will apply to all current and past users of our websites and will replace any prior policies that are inconsistent. Your continued use of our websites or other services constitutes your acceptance of the practices described in the revised Privacy Policy.</p>
+<p><b>Your Feedback</b></p>
+<p>To help us improve our privacy policy and practice, please give us your feedback. In the U.S., you can call us at 602-476-0630 or&nbsp;<a href="mailto:hi_there@cherylstyle.com">email us</a>.
+</p></div>
+</div></div></article></main><aside class="sidebar sidebar-primary widget-area" role="complementary" itemscope="itemscope" itemtype="http://schema.org/WPSideBar"><section id="text-38" class="widget-1 widget-first widget-odd col-xs-6 col-md-12 widget widget_text"><div class="widget-1 widget-first widget-odd widget-wrap">			<div class="textwidget"><div class="media">
+  <a class="pull-left" href="/drink-ideas/summer-cocktails/">
+    <img class="media-object" src="http://everydaydishes.com/wp-content/uploads/2015/05/sm-shark-puncher-everydaydishes_com-B2.jpg" alt="Delicious and refreshing summer drinks and cocktails" nopin="true">
+  </a>
+  <div class="media-body">
+    <h4 class="media-heading"><a href="/drink-ideas/summer-cocktails/">Summer Cocktails<span class="hidden-xs"></span></a></h4>
+<a href="/drink-ideas/summer-cocktails/">Coconut Rum Shark Puncher Cocktail, Pineapple Mojitos, Rum Limeade Slush and more...</a>
+</div>
+</div></div>
+		</div></section><section id="text-37" class="widget-2 widget-even col-xs-6 col-md-12 widget widget_text"><div class="widget-2 widget-even widget-wrap">			<div class="textwidget"><div class="media">
+  <a class="pull-left" href="/simple-food-recipes/salad-recipes/">
+    <img class="media-object" src="http://everydaydishes.com/wp-content/uploads/2015/05/100x100_salad.jpg" alt="Quick and Easy salads that taste amazing" nopin="true">
+  </a>
+  <div class="media-body">
+    <h4 class="media-heading"><a href="/simple-food-recipes/salad-recipes/">Seductive Salads<span class="hidden-xs"></span></a></h4>
+<a href="/simple-food-recipes/salad-recipes/">Bacon Dressing, Chicken Caesar Pasta Salad, Arugula, Quinoa, Kale, Apple, Broccoli, and more...</a>
+</div>
+</div></div>
+		</div></section><section id="simple-social-icons-6" class="widget-3 widget-odd widget simple-social-icons"><div class="widget-3 widget-odd widget-wrap"><ul class="aligncenter"><li class="social-facebook"><a href="https://www.facebook.com/everydaydishes" target="_blank"></a></li><li class="social-gplus"><a href="https://plus.google.com/111443217738418491027" target="_blank"></a></li><li class="social-instagram"><a href="http://instagram.com/everydaydishes_diy" target="_blank"></a></li><li class="social-pinterest"><a href="http://www.pinterest.com/everydaydishes/" target="_blank"></a></li><li class="social-twitter"><a href="https://twitter.com/everyday_dishes" target="_blank"></a></li><li class="social-youtube"><a href="http://www.youtube.com/user/cherylstyle" target="_blank"></a></li></ul></div></section><section id="acm_ad_zones-9" class="widget-4 widget-even widget acm_ad_zones"><div class="widget-4 widget-even widget-wrap"><div id="cs-ad-sidebar_top" class="ad-content" style="height:250px;">
+<script type="text/javascript">
+googletag.cmd.push(function () { googletag.display("cs-ad-sidebar_top"); });
+</script>
+</div></div></section><section id="acm_ad_zones-2" class="widget-6 widget-even widget acm_ad_zones"><div class="widget-6 widget-even widget-wrap"><div id="cs-ad-sidebar_house" class="ad-content" style="height:250px;">
+<script type="text/javascript">
+googletag.cmd.push(function () { googletag.display("cs-ad-sidebar_house"); });
+</script>
+</div></div></section><section id="acm_ad_zones-12" class="widget-8 widget-even widget acm_ad_zones"><div class="widget-8 widget-even widget-wrap"><div id="cs-ad-sidebar_skyscraper" class="ad-content" style="height:600px;">
+<script type="text/javascript">
+googletag.cmd.push(function () { googletag.display("cs-ad-sidebar_skyscraper"); });
+</script>
+</div></div></section><section id="acm_ad_zones-7" class="widget-9 widget-last widget-odd widget acm_ad_zones"><div class="widget-9 widget-last widget-odd widget-wrap"><div id="cs-ad-sidebar_bottom" class="ad-content" style="height:250px;">
+<script type="text/javascript">
+googletag.cmd.push(function () { googletag.display("cs-ad-sidebar_bottom"); });
+</script>
+</div></div></section></aside></div></div><div class="footer-widgets"><div class="wrap"><div class="footer-widgets-1 widget-area"><section id="nav_menu-2" class="widget-1 widget-first widget-last widget-odd widget widget_nav_menu"><div class="widget-1 widget-first widget-last widget-odd widget-wrap"><h4 class="widget-title widgettitle">Everyday Dishes &amp; DIY</h4>
+<div class="menu-footer-everydaydishes-container"><ul id="menu-footer-everydaydishes" class="menu"><li id="menu-item-17437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17437"><a href="http://everydaydishes.com/">home</a></li>
+<li id="menu-item-17438" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17438"><a href="http://everydaydishes.com/about/">about</a></li>
+<li id="menu-item-17439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17439"><a href="http://everydaydishes.com/press/">press</a></li>
+<li id="menu-item-17427" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17427"><a title="Mother Daughter Dishes Book on Amazon" target="_blank" href="http://www.amazon.com/Mother-Daughter-Dishes-reinventing-classics/dp/1494927411">shop</a></li>
+<li id="menu-item-30232" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30232"><a href="/login/">login</a></li>
+<li id="menu-item-30227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30227"><a href="http://everydaydishes.com/register/">register</a></li>
+<li id="menu-item-30225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30225"><a href="http://everydaydishes.com/profile/">profile</a></li>
+<li id="menu-item-17447" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17447"><a href="http://everydaydishes.com/sitemap/">sitemap</a></li>
+</ul></div></div></section>
+</div><div class="footer-widgets-2 widget-area"><section id="nav_menu-4" class="widget-1 widget-first widget-last widget-odd widget widget_nav_menu"><div class="widget-1 widget-first widget-last widget-odd widget-wrap"><h4 class="widget-title widgettitle">Categories</h4>
+<div class="menu-footer-categories-container"><ul id="menu-footer-categories" class="menu"><li id="menu-item-17506" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17506"><a href="http://everydaydishes.com/simple-food-recipes/">eat</a></li>
+<li id="menu-item-17509" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17509"><a href="http://everydaydishes.com/drink-ideas/">sip</a></li>
+<li id="menu-item-17505" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17505"><a href="http://everydaydishes.com/creative-crafts/">create</a></li>
+<li id="menu-item-17508" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17508"><a href="http://everydaydishes.com/holiday/">holiday</a></li>
+<li id="menu-item-25295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25295"><a href="http://everydaydishes.com/blog/">blog</a></li>
+<li id="menu-item-17507" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17507"><a href="http://everydaydishes.com/favorite-products/">faves</a></li>
+<li id="menu-item-17353" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17353"><a target="_blank" href="http://www.amazon.com/Mother-Daughter-Dishes-reinventing-classics/dp/1494927411">shop</a></li>
+</ul></div></div></section>
+</div><div class="footer-widgets-3 widget-area"><section id="nav_menu-3" class="widget-1 widget-first widget-odd widget widget_nav_menu"><div class="widget-1 widget-first widget-odd widget-wrap"><h4 class="widget-title widgettitle">Contact</h4>
+<div class="menu-footer-contact-container"><ul id="menu-footer-contact" class="menu"><li id="menu-item-25289" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-25289"><a href="mailto:p.milan@everydaydishes.com">advertise</a>
+<ul class="sub-menu">
+	<li id="menu-item-25290" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25290"><a href="http://everydaydishes.com/wp-content/uploads/2015/02/EverydayDishesDIY_MediaKit_Food_2.5.15.pdf">&nbsp;&nbsp; – food media kit</a></li>
+	<li id="menu-item-25291" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25291"><a href="http://everydaydishes.com/wp-content/uploads/2015/02/EverydayDishesDIY_MediaKit_Lifestyle_2.17.15.pdf">&nbsp;&nbsp; – lifestyle media kit</a></li>
+</ul>
+</li>
+<li id="menu-item-25285" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25285"><a href="mailto:hi_there@everydaydishes.com">contact us</a></li>
+<li id="menu-item-25284" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25284"><a href="http://everydaydishes.com/register/">join our community</a></li>
+</ul></div></div></section>
+<section id="nav_menu-5" class="widget-2 widget-last widget-even widget widget_nav_menu"><div class="widget-2 widget-last widget-even widget-wrap"><h4 class="widget-title widgettitle">Terms</h4>
+<div class="menu-footer-terms-container"><ul id="menu-footer-terms" class="menu"><li id="menu-item-17337" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17337"><a href="http://everydaydishes.com/terms/">terms of service</a></li>
+<li id="menu-item-17445" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-945 current_page_item menu-item-17445"><a href="http://everydaydishes.com/privacy/">privacy policy</a></li>
+</ul></div></div></section>
+</div><div class="footer-widgets-4 widget-area"><section id="text-10" class="widget-1 widget-first widget-odd widget widget_text"><div class="widget-1 widget-first widget-odd widget-wrap"><h4 class="widget-title widgettitle">Sign up for our newsletter</h4>
+			<div class="textwidget"><form class="search" action="http://everydaydishes.createsend.com/t/j/s/hiurul/" method="GET" id="subForm">
+<div class="input-group">
+<input class="form-control" name="cm-hiurul-hiurul" id="hiurul-hiurul" type="text" placeholder="enter email for updates...">
+<span class="input-group-btn">
+<button class="btn btn-default">sign up</button>
+</span>
+</div>
+</form>
+<br></div>
+		</div></section>
+<section id="simple-social-icons-3" class="widget-2 widget-last widget-even widget simple-social-icons"><div class="widget-2 widget-last widget-even widget-wrap"><h4 class="widget-title widgettitle">Connect with Everyday Dishes &amp; DIY</h4>
+<ul class="alignleft"><li class="social-facebook"><a href="https://www.facebook.com/everydaydishes" target="_blank"></a></li><li class="social-gplus"><a href="https://plus.google.com/111443217738418491027" target="_blank"></a></li><li class="social-instagram"><a href="http://instagram.com/everydaydishes_diy" target="_blank"></a></li><li class="social-pinterest"><a href="http://www.pinterest.com/everydaydishes/" target="_blank"></a></li><li class="social-twitter"><a href="https://twitter.com/everyday_dishes" target="_blank"></a></li><li class="social-youtube"><a href="http://www.youtube.com/user/cherylstyle" target="_blank"></a></li></ul></div></section>
+</div></div></div><div class="modal fade" id="authbox" tabindex="-1" role="dialog" aria-labelledby="authboxLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+          <h4 class="modal-title" id="authboxLabel">Sign-in or Register</h4>
+        </div>
+        <div class="modal-body">
+          
+		<form name="loginform" id="loginform" action="http://everydaydishes.com/login/" method="post">
+			
+			<p class="login-username">
+				<label for="user_login">Username</label>
+				<input type="text" name="log" id="user_login" class="input" value="" size="20">
+			</p>
+			<p class="login-password">
+				<label for="user_pass">Password</label>
+				<input type="password" name="pwd" id="user_pass" class="input" value="" size="20">
+			</p>
+			
+			<p class="login-remember"><label><input name="rememberme" type="checkbox" id="rememberme" value="forever"> Remember Me</label></p>
+			<p class="login-submit">
+				<input type="submit" name="wp-submit" id="wp-submit" class="button-primary" value="Log In">
+				<input type="hidden" name="redirect_to" value="http://everydaydishes.com/privacy/">
+			</p>
+			
+		</form>          <div class="forgot-password">
+            <a href="http://everydaydishes.com/login/?action=lostpassword">Forgot Password?</a>
+          </div>
+          <div class="social-login">
+<!--
+	wsl_render_auth_widget
+	WordPress Social Login 2.2.3.
+	http://wordpress.org/plugins/wordpress-social-login/
+-->
+
+<style type="text/css">
+#wp-social-login-connect-with{font-weight: bold}#wp-social-login-connect-options{padding:10px}#wp-social-login-connect-options a{text-decoration: none}#wp-social-login-connect-options img{border:0 none}.wsl_connect_with_provider{} 
+</style>
+
+<div class="wp-social-login-widget">
+
+	<div class="wp-social-login-connect-with">Connect with:</div>
+
+	<div class="wp-social-login-provider-list">
+
+		<a rel="nofollow" href="http://everydaydishes.com/login/?action=wordpress_social_authenticate&amp;mode=login&amp;provider=Facebook&amp;redirect_to=http%3A%2F%2Feverydaydishes.com%2Fprivacy%2F" title="Connect with Facebook" class="wp-social-login-provider wp-social-login-provider-facebook" data-provider="Facebook">
+			<img alt="Facebook" title="Connect with Facebook" src="http://everydaydishes.com/wp-content/plugins/wordpress-social-login/assets/img/32x32/wpzoom/facebook.png">
+		</a>
+
+		<a rel="nofollow" href="http://everydaydishes.com/login/?action=wordpress_social_authenticate&amp;mode=login&amp;provider=Twitter&amp;redirect_to=http%3A%2F%2Feverydaydishes.com%2Fprivacy%2F" title="Connect with Twitter" class="wp-social-login-provider wp-social-login-provider-twitter" data-provider="Twitter">
+			<img alt="Twitter" title="Connect with Twitter" src="http://everydaydishes.com/wp-content/plugins/wordpress-social-login/assets/img/32x32/wpzoom/twitter.png">
+		</a>
+
+	</div> 
+
+	<div class="wp-social-login-widget-clearing"></div>
+
+</div>
+
+<!-- wsl_render_auth_widget -->
+
+</div>
+          <div class="new-register">
+            Don't already have an account?<br>
+            <div class="btn"><a href="http://everydaydishes.com/register/">Sign up now</a></div>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>
+
+<footer class="site-footer" role="contentinfo" itemscope="itemscope" itemtype="http://schema.org/WPFooter"><div class="wrap"><p>Copyright © 2011 - 2015 CherylStyle, LLC &amp; Everyday Dishes &amp; DIY. All rights reserved.</p></div></footer></div></div><!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+_qevents.push({
+qacct:"p-jsv2k-0gReej2"
+});
+</script>
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-jsv2k-0gReej2.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- Begin AdRoll tag -->
+<script type="text/javascript">
+adroll_adv_id = "LR7RNO75YNCTFC45ECJEBS";
+adroll_pix_id = "BJZ7QZQEZFGQVMSRCBTNIM";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+<!-- End AdRoll tag -->      <script type="text/javascript">
+    
+          var pfHeaderImgUrl = '';
+          var pfHeaderTagline = '';
+          var pfdisableClickToDel = '0';
+          var pfHideImages = '0';
+          var pfImageDisplayStyle = 'right';
+          var pfDisableEmail = '0';
+          var pfDisablePDF = '0';
+          var pfDisablePrint = '0';
+          var pfCustomCSS = '';
+      (function() {
+            var e = document.createElement('script'); e.type="text/javascript";
+        if('https:' == document.location.protocol) {
+        js='https://pf-cdn.printfriendly.com/ssl/main.js';
+        }
+        else{
+        js='http://cdn.printfriendly.com/printfriendly.js';
+        }
+            e.src = js;
+            document.getElementsByTagName('head')[0].appendChild(e);
+        })();
+      </script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var emailL10n = {"ajax_url":"http:\/\/everydaydishes.com\/wp-admin\/admin-ajax.php","max_allowed":"5","text_error":"The Following Error Occurs:","text_name_invalid":"- Your Name is empty\/invalid","text_email_invalid":"- Your Email is empty\/invalid","text_remarks_invalid":"- Your Remarks is invalid","text_friend_names_empty":"- Friend Name(s) is empty","text_friend_name_invalid":"- Friend Name is empty\/invalid: ","text_max_friend_names_allowed":"- Maximum 5 Friend Names allowed","text_friend_emails_empty":"- Friend Email(s) is empty","text_friend_email_invalid":"- Friend Email is invalid: ","text_max_friend_emails_allowed":"- Maximum 5 Friend Emails allowed","text_friends_tally":"- Friend Name(s) count does not tally with Friend Email(s) count","text_image_verify_empty":"- Image Verification is empty"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://everydaydishes.com/wp-content/plugins/wp-email/email-js.js?ver=2.63"></script>
+<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201524"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"xfbml":true,"appId":"395092520597925"});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<script type="text/javascript">(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return}js=d.createElement(s);js.id=id;js.src="http:\/\/connect.facebook.net\/en_US\/all.js";fjs.parentNode.insertBefore(js,fjs)}(document,"script","facebook-jssdk"));</script>
+<script type="text/javascript" src="http://everydaydishes.com/wp-content/themes/redesign/app.js?ver=3.0"></script>
+    <!-- Modal -->
+    <div id="modal_newsletter" class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal"><span class="ex" aria-hidden="true"><img src="/wp-content/themes/redesign/images/modal/modal-close.png" alt="close popup"></span><span class="sr-only">close</span></button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-sm-6 col-xs-12">
+                            <img class="img-responsive" nopin="nopin" src="http://everydaydishes.com/wp-content/themes/redesign/images/modal/modal-image.jpg" alt="Everydaydishes Newsletter">
+                        </div>
+                        <div class="col-sm-6 col-xs-12">
+                            <p class="h2">eat, sip &amp; be crafty!</p>
+                            <p class="h3">don’t miss out.</p>
+                            <p>sign up to receive our best<br> recipes, DIYs and tips!</p>
+                            <form action="http://everydaydishes.createsend.com/t/j/s/hiurul/" method="GET" id="subForm" class="form">
+                                <div class="input-group">
+                                    <input class="form-control" name="cm-hiurul-hiurul" id="hiurul-hiurul" type="text" placeholder="enter email...">
+                                    <span class="input-group-btn">
+                                        <button class="btn btn-default">sign up</button>
+                                    </span>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+    <script type="text/javascript">
+        jQuery(document).ready(function ($) {
+            // Set modal show to true
+            var modal = true;
+
+            // Grab GET variables
+            var parts = window.location.search.substr(1).split("&");
+            var _GET = {};
+            for (var i = 0; i < parts.length; i++) {
+                var temp = parts[i].split("=");
+                if ( typeof _GET[decodeURIComponent(temp[0])] === 'undefined' ) {
+                    _GET[decodeURIComponent(temp[0])] = decodeURIComponent(temp[1]);
+                }
+            }
+            if (_GET.utm_source) {
+                if (_GET.utm_source == 'email_campaign') {
+                    modal = false;
+                }
+            }
+
+            // Do not allow
+            var uris = ['thank-you', 'connect'];
+            $(uris).each(function(key, val) {
+                if (window.location.pathname.indexOf(val) > -1) {
+                    modal = false;
+                }
+            });
+
+            // If modal === true; show modal with cookie`
+            if (modal) {
+                var cookie = getCookie('cherylsrtly-newsletter');
+                if (cookie == '') {
+                    createCookie('cherylsrtly-newsletter', 'true', 30)
+                    setTimeout(function(){
+                        $('#modal_newsletter').modal('show');
+                    },6000);
+                }
+            }
+
+            $('.close-text').click(function(e){
+                $('#modal_newsletter').modal('hide');
+                e.preventDefault();
+            });
+
+        });
+
+        function createCookie(name, value, days) {
+            if (days) {
+                var date = new Date();
+                date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                var expires = "; expires=" + date.toGMTString();
+            }
+            else var expires = "";
+            document.cookie = name + "=" + value + expires + "; path=/";
+        }
+        function getCookie(c_name) {
+            if (document.cookie.length > 0) {
+                c_start = document.cookie.indexOf(c_name + "=");
+                if (c_start != -1) {
+                    c_start = c_start + c_name.length + 1;
+                    c_end = document.cookie.indexOf(";", c_start);
+                    if (c_end == -1) {
+                        c_end = document.cookie.length;
+                    }
+                    return unescape(document.cookie.substring(c_start, c_end));
+                }
+            }
+            return "";
+        }
+    </script>
+<script type="text/javascript">
+    jQuery(document).ready(function($) {
+        $(".carousel").carousel({
+            interval: 6000
+        });
+    });</script><div id="fb-root"></div><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a2bb4e473f","applicationID":"2982637","transactionName":"MQEEYUNZW0BYBhFRVwhLJ1ZFUVpdFhUEX10=","queueTime":0,"applicationTime":393,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script><script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+/* ]]> */
+</script>
+
+
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using memcached
+Object Caching 4806/4836 objects using memcached
+Application Monitoring using New Relic
+
+ Served from: everydaydishes.com @ 2015-06-09 16:58:20 by W3 Total Cache --></body></html>
