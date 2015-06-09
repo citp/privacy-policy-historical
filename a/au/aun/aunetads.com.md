@@ -1,100 +1,48 @@
-> *The following text is extracted and transformed from the aunetads.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aunetads.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610011816id_/http%3A//www.aunetads.com/info/privacy.php) for the most accurate reproduction.*
 
-# Legal Agreement
+# AUNetAds.com - Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+### Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+**General**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+AUNetAds.com (this website) is owned and operated by USNetAds LLC. We take your privacy seriously. We utilize safe, secure technology to protect your personally identifiable information. This Privacy Policy describes how we treat the personal information that we collect and receive through our websites. We value your trust in us and will work hard to earn your confidence, so that you can enthusiastically use our services and recommend us to family and friends.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+We reserve the right to modify or amend this Privacy Policy at any time and for any reason. Any significant changes to this Privacy Policy, will be posted on our websites. You may review a current version of this Privacy Policy at any time by clicking on the Privacy Policy link at the bottom of the home page of this website.
 
-**Information Collection and Use**
+**Information We Collect and How It Is Used**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Like most standard web servers, our websites use log files to collect standard web log entries, including your IP address, page URL, browser type, platform type, and timestamp. We use this information to diagnose problems with our server, for the purposes of system administration, and to otherwise provide you with better services. 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+We collect personally information such as name, email address and contact phone number while you post ad using our website. Your name or ad owner name is required but other personal information is optional to input. Such information will be displayed when other users view your ad so that they can contact you if they are interested in your products or services. You may put your contact information inside your ad description. However, you understand that ad description and other contact information will be displayed on the website when other users view your ad details, and that our website pages may be linked by third party websites or search engines. You agree that we may send you email using your email address if provided when the users viewing your ad want to contact you by using our email system.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+The users of our services may contact you by themselves via your email address and/or phone number if you provided in your posting. USNetAds LLC declines all responsibilities for such contact and all results caused by such contact.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+If you contact us directly by sending email to an email address listed on Contact Us page, or any email address at our website domain names, or send comments through our website, your email address will be used if we reply to your comments or questions. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Please do not post or submit any personal information that you expect to keep private. 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+**Protecting your Privacy**
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+We do not sell or rent your personal data to anyone. The personal data you provide us is saved in a secure environment and is kept in our records. Information collected is stored in a single, secure database, accessible only by USNetAds LLC members. We employ reasonable and current Internet security methods and technologies in order to prevent unauthorized access, maintain data accuracy, and ensure correct use of information. Because this website is hosted by third party (web hosting provider), we cannot guarantee complete security. 
 
-**Security**
+Our websites, or users of our websites, may provide links to third party websites. We are not responsible for, or have any control over, the privacy policies of those third party websites. We encourage all users to read the privacy policies of all websites visited. 
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+**Use of Cookies**
 
-**Updating Your Information**
+Like most standard web servers, our web server may set and access "cookies", small text files placed on your hard drive, to keep track of the pages visited. The "cookies" do not reveal personal information, rather give us statistical data to help analyze our web page flow and measure effectiveness. By tracking the overall traffic patterns of our visitors, we can make the site more responsive to our visitors" needs and interests. Using cookies is popular by many websites.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Third party websites made available by, or through, our websites, may also assign cookies. We do not control the use of cookies by third party websites, have any access to such cookies or to any information that they contain. 
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+**Compliance with the Law**
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+We reserve the right to release information about our users in order to comply with the law. We may also release personal data to enforce or apply the terms and conditions of our services, or to protect the rights, property or safety of our websites, our users, or the general public. 
 
-      iii.      You may call us at: (480) 505-8800
+**A Special Note about Children**
 
-       iv.      You may fax us at: (480) 505-8844
+We do not knowingly collect any information from persons under the age of 18. Children (persons under the age of 18) are not eligible to use our websites unsupervised. If you are under the age of 18, you may use our websites only in conjunction with and under the supervision of a parent or legal guardian. If we learn that a posting has been submitted by a person under the age of 18 without supervised, we will remove that post. 
 
-**Sending Emails**
+Should you have any questions, concerns, or comments, please [Contact Us](https://web.archive.org/info/contactus.php).
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+AUNetAds.com  
+Owned and operated by USNetAds LLC 
