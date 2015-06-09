@@ -1,8 +1,15 @@
-> *The following text is extracted and transformed from the pse.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116133855id_/http%3A//pse.com/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pse.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609221101id_/http%3A//pse.com/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Puget Sound Energy Privacy Policy
 
 Puget Sound Energy Privacy Policy 
+
+This notice describes how Puget Sound Energy handles your private information (such as your name, address, telephone number and other personal information), collected by virtue of the customer-utility relationship.
+
+  
+
+
+## Privacy Policy
 
 Last Revised: Nov. 9, 2012
 
@@ -10,9 +17,4 @@ Maintaining your privacy and trust are important to us at Puget Sound Energy and
 
 We may change this policy at any time, and will notify you of changes by indicating on the policy the date of its last update.
 
-  
-
-
-## PSE Customer Notices: Notice Concerning Customer Information
-
-This notice describes how Puget Sound Energy handles your private information (such as your name, address, telephone number and other personal information), collected by virtue of the customer-utility relationship.
+> The disclosure of your private information will comply with PSE’s privacy policy and in accordance with the requirements set forth by our state regulator, the Washington Utilities and Transportation Commission.
