@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kopykitab.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122163302id_/http%3A//www.kopykitab.com/Kopykitab-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kopykitab.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610012133id_/http%3A//www.kopykitab.com/Kopykitab-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
