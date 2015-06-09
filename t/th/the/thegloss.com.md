@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thegloss.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215125829id_/http%3A//www.thegloss.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegloss.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610000400id_/http%3A//www.thegloss.com/privacy) for the most accurate reproduction.*
 
-# Privacy TheGloss
+# Privacy - TheGloss
 
 Thank you for visiting a Defy Media, LLC website (the “Site”)! The Site is strongly committed to protecting your privacy. The purpose of this privacy policy is to inform users of the Site as to what information we collect and how and why we use such information. 
 
