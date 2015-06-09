@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bbcshop.com privacy policy that was archived on 2014-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121014758id_/http%3A//www.bbcshop.com/terms%2Bconditions-security%2Bprivacy/privacy-policy%2Bcookies-policy/page/privacynotice) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bbcshop.com privacy policy that was archived on 2015-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150609235624id_/http%3A//www.bbcshop.com/terms%2Bconditions-security%2Bprivacy/privacy-policy%2Bcookies-policy/page/privacynotice) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><!--[if gte IE 9]><style type="text/css">.gradient {filter: none;}</style><![endif]--><head>
     <meta charset="ISO-8859-1">
@@ -66,6 +66,9 @@ Privacy Policy &amp; Cookies Policy at BBC Shop
 
 <script type="text/javascript" src="http://www.bbcshop.com/content/ebiz/bbc/resources/js/Venda/Widget/Tracking.js"></script>
 
+
+
+<script src="//cdn.optimizely.com/js/2418030680.js"></script>
     <link rel="shortcut icon" href="http://www.bbcshop.com/content/ebiz/bbc/resources/images/favicon.ico" type="image/x-icon">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 
@@ -128,7 +131,7 @@ function createDiv(){
 	    '<div id="bbc_cookie_widget" class="bbc-cookie-widget"> \
 			<div class="row"> \
 				<div class="title"><span>Use of cookies on BBC shop</span></div> \
-				<div class="body"><span>This website uses cookies to help us provide you with the best user experience and to deliver tailored messages and offers. You can update your settings here <a rel="nofollow" href="http://www.bbcshop.com/terms+conditions-security+privacy/cookies-policy/page/cookies">Cookies policy</a>, otherwise we\'ll assume you are happy to receive them.</span></div> \
+				<div class="body"><span>This website uses cookies to help us provide you with the best user experience and to deliver tailored messages and offers. You can update your settings here <a rel="nofollow" href="/terms+conditions-security+privacy/privacy-policy+cookies-policy/page/privacynotice#cookiespolicy">Cookies Policy</a>, otherwise we will assume you are happy to receive them.</span></div> \
 				<div class="accept"><span><a href="javascript:void(0);" onclick="$(\'#cookie-law\').remove();createCookie(window.cookieName,window.cookieValue, window.cookieDuration);$(\'.cookiebanner .header\').css(\'margin-top\',\'0\');" id="bbc_cookie_accept"><i class="icon-remove"></i>Accept &amp Close</a></span></div> \
 			</div> \
 		</div>';
@@ -240,14 +243,15 @@ $(document).ready(function(){
 	
 	<div id="regionLangContent" class="flag-content" style="display:none">
 	    <div class="region">
-	    <p class="text-left left">Change Currency:</p>
-	    <ul class="region-list">
-		    <li><a href="#" class="secondary button" data-region="eu"><i class="regionlang-icon eu"></i>€ EUR</a></li>
-		    <li><a href="#" class="secondary button" data-region="uk"><i class="regionlang-icon uk"></i>£ GBP</a></li>
-		    <li><a href="#" class="secondary button" data-region="restofworld"><i class="regionlang-icon all"></i>£ GBP</a></li>
-	    </ul>
-	
-	    
+	    	
+	    	<ul class="region-list">
+			    <li><a href="#" class="secondary button" data-region="uk"><i class="regionlang-icon uk"></i>£ • GBP</a></li>
+			    <li><a href="#" class="secondary button" data-region="eu"><i class="regionlang-icon eu"></i>€ • EUR</a></li>
+			    <li><a href="#" class="secondary button" data-region="restofworld"><i class="regionlang-icon all"></i>£ • GBP</a></li>
+			    <li><a href="#" class="secondary button" data-region="us"><i class="regionlang-icon us"></i>$ • USD</a></li>
+			    <li><a href="#" class="secondary button" data-region="ca"><i class="regionlang-icon ca"></i>$ • CAD</a></li>
+			    <li><a href="#" class="secondary button" data-region="au"><i class="regionlang-icon au"></i>$ • AUD</a></li>
+		    </ul>
 	</div>
 	</div>
 	
@@ -256,6 +260,9 @@ $(document).ready(function(){
 
 <div id="tag-sessionlocation" style="display:none;">uk</div>
 <div id="tag-sessionlanguage" style="display:none;">en</div>
+<div id="tag-usertype" style="display:none;"></div>
+<div id="tag-usertypenotify" style="display:none;">In order to change region you will need to sign out of your account.</div>
+
 <div id="tag-serveradd" style="display:none;">http://www.bbcshop.com</div>
 
                 
@@ -310,390 +317,349 @@ $(document).ready(function(){
 		
 		
 		
-		<ul id="mm_ul" class="mm_ul js-mobile_ul" data-tracknav="Top Navigation">
-	<li id="navdvd" class="nav-dvd no-dropdown"><i class="icon-caret-right hide-for-desktop"></i><a href="http://www.bbcshop.com/page/christmasstore" id="mm_icatdvd">Christmas Store</a></li>
-    <li id="navdrwho" class="nav-drwho has-dropdown"><i class="icon-caret-right hide-for-desktop"></i><a href="http://www.bbcshop.com/doctor-who/icat/drwho" id="mm_icatdrwho">Doctor Who</a>
+		<style type="text/css">
+.nav-bar {width:100%; font-size:10.5px;}
+.mm_ul > li > a {padding:0 16px;}
+.mm_ul > li.has-dropdown.js-mm-liselected:before,.tab-nav .js-tab-active:before {display:none;}
+.mm_ul li.js-mm-liselected > a, .mm_ul li a.js-mm-active1 {background-color:#fff;}
+.mm_ul .icon-caret-right {display:none;}
+.nav-message {display:none;}
+.mm_ul > li {position:initial; left:0; position: static;}
+.mm_ul > li > a {font-size:11px;}
+nav.nav li {border:none;}
+.js-mm-sub {width:100%; min-width:960px; box-shadow:none; padding:4px 0; border-bottom:1px solid #dfdfdf; }
+.js-mm-row {width:100%; min-width:960px; display:block;}
+ul.colOne, ul.colTwo, ul.colThree, ul.colFour {width:24%; margin:1% auto; display:inline-block; vertical-align:top;}
+li.mm_subheader {color:#0e6ac8; border-bottom:1px solid #dfdfdf; margin-bottom:2px; padding-bottom:2px; width:90%; font-size:21px; font-weight:bold; text-transform:capitalize;}
+.js-mm-sub li.mm_subheader a {color:#0e6ac8; font-weight:bold; text-decoration:underline; }
+.js-mm-sub li.mm_subheader a:hover {text-decoration:none;}
+.js-mm-row { padding-top:8px;}
+.js-mm-row > ul > li.mm_subheader, .colOne li, ul.colTwo li, ul.colThree li, ul.colFour li {display:block; width:100%; font-size:11.5px; font-weight: bold; line-height: 21px;}
+ul.colFour li img {max-width:100%; float:right; margin-bottom:15px;}
+.nav-topgear .js-mm-sub, .nav-childrens .js-mm-sub, .nav-topgear .js-mm-sub, .nav-drwho .js-mm-sub, .nav-gifts .js-mm-sub, .nav-music .js-mm-sub {left: 0px;}
+.js-mm-sub li.mm_subheader {text-transform:capitalize; padding-bottom:4px; font-size:16px;}
+.js-mm-sub .bigHead {margin-top:8px;}
+.nav-message {display:none;}
+ul > li > a {font-size:11px;}
+ul.colFour li img {float:left; display:inline-block;}
+ul.colFour li span.promoText {float:left;}
+ul.colFour li span.promoText a:hover{text-decoration:none;}
+#fullWidthDelMessage {background-color:#c22487; color:#fff;margin-top:15px;}
+#fullWidthDelMessage p {text-align:center; margin-bottom:0px; font-family:Helvetica; line-height:38px; font-size:22px;}
+@media screen and (max-width: 520px) {
+	#fullWidthDelMessage p {font-size:14px;}
+}
+</style>
+<ul id="mm_ul" class="mm_ul js-mobile_ul" data-tracknav="Top Navigation">
+    <li id="navdrwho" class="nav-drwho has-dropdown"><i class="hide-for-desktop"></i>
+      <a href="http://www.bbcshop.com/doctor-who/icat/drwho" id="mm_icatdrwho" title="Doctor Who">Doctor Who</a>
 		<div class="js-mm-sub">
 			<div class="js-mm-row">
-				<ul style="width:33.333%">
-					<li class="mm_subheader">Categories</li>
-					
-
-
-	
-<li><a href="http://www.bbcshop.com/doctor-who/accessories/icat/doctorwhoaccessories" class="mm-subdoctorwhoaccessories" id="mm_subdoctorwhoaccessories">Accessories</a></li>
-
-<li><a href="http://www.bbcshop.com/doctor-who/blu-ray/icat/drwhobr" class="mm-subdrwhobr" id="mm_subdrwhobr">Blu-Ray</a></li>
-
-<li><a href="http://www.bbcshop.com/doctor-who/box-sets/icat/boxsetdoctorwho" class="mm-subboxsetdoctorwho" id="mm_subboxsetdoctorwho">Box Sets</a></li>
-
-<li><a href="http://www.bbcshop.com/doctor-who/classic-dvds/icat/dwclassicdvds" class="mm-subdwclassicdvds" id="mm_subdwclassicdvds">Classic DVDs</a></li>
-
-<li><a href="http://www.bbcshop.com/doctor-who/clothing/icat/doctorwhoclothing" class="mm-subdoctorwhoclothing" id="mm_subdoctorwhoclothing">Clothing</a></li>
-
-<li><a href="http://www.bbcshop.com/doctor-who/dvds/icat/doctorwhodvds" class="mm-subdoctorwhodvds" id="mm_subdoctorwhodvds">DVDs</a></li>
-
-<li><a href="http://www.bbcshop.com/doctor-who/exclusives/icat/doctorwhoexclusive" class="mm-subdoctorwhoexclusive" id="mm_subdoctorwhoexclusive">Exclusives</a></li>
-
-<li><a href="http://www.bbcshop.com/doctor-who/homeware/icat/doctorwhohomeware" class="mm-subdoctorwhohomeware" id="mm_subdoctorwhohomeware">Homeware</a></li>
-
-<li><a href="http://www.bbcshop.com/doctor-who/sonic-screwdrivers/icat/sonicscrewdrivers" class="mm-subsonicscrewdrivers" id="mm_subsonicscrewdrivers">Sonic Screwdrivers</a></li>
-
-<li><a href="http://www.bbcshop.com/doctor-who/toys-gadgets+games/icat/toysgadgetsandgames" class="mm-subtoysgadgetsandgames" id="mm_subtoysgadgetsandgames">Toys, Gadgets &amp; Games</a></li>
-
-<li><a href="http://www.bbcshop.com/doctor-who/peter-capaldi/icat/petercapaldi" class="mm-subpetercapaldi" id="mm_subpetercapaldi">Peter Capaldi</a></li>
-
-<li><a href="http://www.bbcshop.com/doctor-who/the-war-doctor/icat/thewardoctor" class="mm-subthewardoctor" id="mm_subthewardoctor">The War Doctor</a></li>
-
-<li><a href="http://www.bbcshop.com/doctor-who/matt-smith/icat/mattsmith" class="mm-submattsmith" id="mm_submattsmith">Matt Smith</a></li>
-
-<li><a href="http://www.bbcshop.com/doctor-who/david-tennant/icat/davidtennant" class="mm-subdavidtennant" id="mm_subdavidtennant">David Tennant</a></li>
-
-<li><a href="http://www.bbcshop.com/doctor-who/christopher-eccleston/icat/christophereccleston" class="mm-subchristophereccleston" id="mm_subchristophereccleston">Christopher Eccleston</a></li>
-
-<li><a href="http://www.bbcshop.com/doctor-who/paul-mcgann/icat/paulmcgann" class="mm-subpaulmcgann" id="mm_subpaulmcgann">Paul McGann</a></li>
-
-<li><a href="http://www.bbcshop.com/doctor-who/sylvester-mccoy/icat/sylvestermccoy" class="mm-subsylvestermccoy" id="mm_subsylvestermccoy">Sylvester McCoy</a></li>
-
-<li><a href="http://www.bbcshop.com/doctor-who/colin-baker/icat/colinbaker" class="mm-subcolinbaker" id="mm_subcolinbaker">Colin Baker</a></li>
-
-<li><a href="http://www.bbcshop.com/doctor-who/peter-davison/icat/peterdavison" class="mm-subpeterdavison" id="mm_subpeterdavison">Peter Davison</a></li>
-
-<li><a href="http://www.bbcshop.com/doctor-who/tom-baker/icat/tombaker" class="mm-subtombaker" id="mm_subtombaker">Tom Baker</a></li>
-
-<li><a href="http://www.bbcshop.com/doctor-who/jon-pertwee/icat/jonpertwee" class="mm-subjonpertwee" id="mm_subjonpertwee">Jon Pertwee</a></li>
-
-<li><a href="http://www.bbcshop.com/doctor-who/patrick-troughton/icat/patricktroughton" class="mm-subpatricktroughton" id="mm_subpatricktroughton">Patrick Troughton</a></li>
-
-<li><a href="http://www.bbcshop.com/doctor-who/william-hartnell/icat/williamhartnell" class="mm-subwilliamhartnell" id="mm_subwilliamhartnell">William Hartnell</a></li>
-
-
+				<ul class="colOne">
+						<li class="mm_subheader">Categories</li>
+						
+						<li><a href="http://www.bbcshop.com/doctor-who/accessories/icat/doctorwhoaccessories" title="Doctor Who Accessories">Accessories</a></li>
+						<li><a href="http://www.bbcshop.com/doctor-who/blu-ray/icat/drwhobr" title="Doctor Who Blu-ray">Blu-ray</a></li>
+						<li><a href="http://www.bbcshop.com/doctor-who/box-sets/icat/boxsetdoctorwho" title="Doctor Who Box Sets">Box Sets</a></li>
+						<li><a href="http://www.bbcshop.com/doctor-who/classic-dvds/icat/dwclassicdvds" title="Doctor Who Classic DVDs">Classic DVDs</a></li>
+						<li><a href="http://www.bbcshop.com/doctor-who/clothing/icat/doctorwhoclothing" title="Doctor Who Clothing">Clothing</a></li>
+						<li><a href="http://www.bbcshop.com/doctor-who/dvds/icat/doctorwhodvds" title="Doctor Who DVDs">DVDs</a></li>
+						<li><a href="http://www.bbcshop.com/doctor-who/exclusives/icat/doctorwhoexclusive" title="Doctor Who Exclusives">Exclusives</a></li>
+						<li><a href="http://www.bbcshop.com/doctor-who/homeware/icat/doctorwhohomeware" title="Doctor Who Homeware">Homeware</a></li>
+						<li><a href="http://www.bbcshop.com/doctor-who/sonic-screwdrivers/icat/sonicscrewdrivers" title="Doctor Who Sonic Screwdrivers">Sonic Screwdrivers</a></li>
+						<li><a href="http://www.bbcshop.com/doctor-who/toys-gadgets+games/icat/toysgadgetsandgames" title="Doctor Who Toys, Gadgets &amp; Games">Toys, Gadgets &amp; Games</a></li>
+					</ul>
+					<ul class="colTwo">
+						<li class="mm_subheader">The Doctors</li>
+						<li><a href="http://www.bbcshop.com/doctor-who/peter-capaldi/icat/petercapaldi" title="Peter Capaldi as Doctor Who">Peter Capaldi</a></li>
+						<li><a href="http://www.bbcshop.com/doctor-who/the-war-doctor/icat/thewardoctor" title="The War Doctor as Doctor Who">The War Doctor</a></li>
+						<li><a href="http://www.bbcshop.com/doctor-who/matt-smith/icat/mattsmith" title="Matt Smith as Doctor Who">Matt Smith</a></li>
+						<li><a href="http://www.bbcshop.com/doctor-who/david-tennant/icat/davidtennant" title="David Tennant as Doctor Who">David Tennant</a></li>						
+						<li><a href="http://www.bbcshop.com/doctor-who/christopher-eccleston/icat/christophereccleston" title="Christopher Eccleston as Doctor Who">Christopher Eccleston</a></li>
+						<li><a href="http://www.bbcshop.com/doctor-who/paul-mcgann/icat/paulmcgann" title="Paul McGann as Doctor Who">Paul McGann</a></li>
+						<li><a href="http://www.bbcshop.com/doctor-who/sylvester-mccoy/icat/sylvestermccoy" title="Sylvester McCoy as Doctor Who">Sylvester McCoy</a></li>
+						<li><a href="http://www.bbcshop.com/doctor-who/colin-baker/icat/colinbaker" title="Colin Baker as Doctor Who">Colin Baker</a></li>
+						<li><a href="http://www.bbcshop.com/doctor-who/peter-davison/icat/peterdavison" title="Peter Davison as Doctor Who">Peter Davison</a></li>
+						<li><a href="http://www.bbcshop.com/doctor-who/tom-baker/icat/tombaker" title="Tom Baker as Doctor Who">Tom Baker</a></li>
+						<li><a href="http://www.bbcshop.com/doctor-who/jon-pertwee/icat/jonpertwee" title="Jon Pertwee as Doctor Who">Jon Pertwee</a></li>
+						<li><a href="http://www.bbcshop.com/doctor-who/patrick-troughton/icat/patricktroughton" title="Patrick Troughton as Doctor Who">Patrick Troughton</a></li>
+						<li><a href="http://www.bbcshop.com/doctor-who/william-hartnell/icat/williamhartnell" title="William Hartnell as Doctor Who">William Hartnell</a></li>
+					</ul>
+					<ul class="colThree">
+						<!--<li class="mm_subheader">Recommendations</li>
+						<li><a href="http://www.bbcshop.com/icat/" title="Doctor Who Best Sellers">Best Sellers</a></li>
+						<li><a href="http://www.bbcshop.com/icat/" title="Doctor Who Pre Orders">Pre Orders</a></li>
+						<li><a href="http://www.bbcshop.com/icat/" title="Doctor Who Hot Deals">Hot Deals</a></li>-->
+						<li class="mm_subheader bigHead">Formats</li>
+						<li><a href="/page/search?q=doctor+who#esp_cf=ivtypename&amp;esp_filter_ivtypename=Book" title="Doctor Who Books">Doctor Who Books</a></li>
+						<li><a href="/page/search?q=doctor+who+boxsets" title="Doctor Who Box Sets">Doctor Who Box Sets</a></li>
+						<li><a href="http://www.bbcshop.com/doctor-who/exclusives/icat/doctorwhoexclusive" title="Doctor Who Exclusives">Doctor Who Exclusives</a></li>
+					</ul>
+					<ul class="colFour">
+						<li>&nbsp;</li>
+					</ul>
+			</div>
+		</div>
+	</li>
+    <li id="navdvd" class="nav-dvd has-dropdown"><i class="icon-caret-right hide-for-desktop"></i>
+      <a href="http://www.bbcshop.com/dvd/icat/dvd" id="mm_icatdvd" title="DVD &amp; Blu-Ray">DVD &amp; Blu-Ray</a>
+		<div class="js-mm-sub">
+			<div class="js-mm-row">
+ 				  <ul class="colOne">
+					<li class="mm_subheader"><a href="http://www.bbcshop.com/dvd/childrens/icat/childrensdvd" title="Children's DVD &amp; Blu-ray">All Children's DVD &amp; Blu-ray</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/childrens-animation/icat/childrens-animation-dvd" title="Children's Animation DVDs">Animation</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/childrens-drama/icat/childrens-drama-dvd" title="Children's Drama DVDs">Drama</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/childrens-comedy/icat/childrens-comedy-dvd" title="Children's Entertainment &amp; Comedy DVD &amp; Blu-ray">Entertainment &amp; Comedy</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/childrens-factual/icat/childrens-factual-dvd" title="Children's Factual DVDs">Factual</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/childrens-films/icat/childrens-films-dvd" title="Children's Films on DVD">Films</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/childrens-music/icat/childrens-music-dvd" title="Children's Music DVDs">Music</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/childrens-pre-school/icat/childrens-preschool-dvd" title="Pre-school Children's DVDs">Pre School</a></li>
+					<li class="mm_subheader bigHead"><a href="http://www.bbcshop.com/dvd/comedy/icat/comedydvd" title="Comedy DVD &amp; Blu-ray">All Comedy DVD &amp; Blu-ray</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/classic-comedy/icat/classic-comedy-dvd" title="Classic Comedy DVDs">Classic</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/comedy-film/icat/comedy-films-dvd" title="Comedy Film DVDs">Films</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/satire/icat/comedy-satire-dvd" title="Satrical DVDs">Satire</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/sitcom/icat/sitcom-dvd" title="Sitcom DVDs">Sitcom</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/comedy-sketch-shows/icat/comedy-sketch-shows-dvd" title="Comedy Sketch Show DVDs">Sketch</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/stand-up-comedy/icat/comedy-stand-up-dvds" title="Stand Up Comedy DVDs">Stand Up</a></li>
 				</ul>
-				<ul style="width:33.333%;">
-					<li class="mm_subheader">Formats</li>
-					<li><a href="http://www.bbcshop.com/category/doctor-who/icat/doctorwhobooks">Doctor Who Books</a></li>
-					<li><a href="http://www.bbcshop.com/doctor-who/box-sets/icat/boxsetdoctorwho">Box Sets</a></li>
-					<li><a href="http://www.bbcshop.com/doctor-who/exclusives/icat/doctorwhoexclusive">Exclusives</a></li>
+				<ul class="colTwo">
+					<li class="mm_subheader"><a href="http://www.bbcshop.com/dvd/drama/icat/drama-dvd" title="Drama DVD &amp; Blu-ray">All Drama DVD &amp; Blu-ray</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/classic+period/icat/classic-and-period-dvd" title="Classic &amp; Period Drama DVDs">Classic &amp; Period</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/contemporary-drama/icat/contemporary-drama-dvd" title="Contemporary Drama DVDs">Contemporary</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/crime+thriller/icat/crime-and-thriller-dvd" title="Crime &amp; Thriller DVDs">Crime &amp; Thriller</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/fantasy/icat/fantasy-dvd" title="Fantasy DVDs">Fantasy</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/films/icat/filmsdvd" title="Films on DVD">Films</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/horror/icat/horror-dvd" title="Horror DVDs">Horror</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/science-fiction/icat/sciencefictiondvd" title="Science Fiction DVDs">Science Fiction</a></li>
+					<li class="mm_subheader bigHead"><a href="http://www.bbcshop.com/dvd/entertainment/icat/entertainment-dvd" title="Entertainment DVD &amp; Blu-ray">All Entertainment DVD &amp; Blu-ray</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/family/icat/family-dvd" title="Family Entertainment DVDs">Family Entertainment</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/game+quiz-show/icat/game-quiz-shows-dvd" title="Game &amp; Quiz Show DVDs">Game, Quiz &amp; Review Shows</a></li>
+					<li class="mm_subheader bigHead"><a href="http://www.bbcshop.com/dvd/factual/icat/factual-dvd" title="Factual DVD &amp; Blu-ray">All Factual DVD &amp; Blu-ray</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/drama+arts/icat/dramaartsdvd" title="Arts &amp; Culture DVDs">Arts &amp; Culture</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/dvd-documentaries/icat/documentaries-dvd" title="Documentaries on DVD">Documentaries</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/history/icat/historydvd" title="History DVDs">History</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/motoring/icat/motoringdvd" title="Motoring DVDs">Motoring</a></li>
+					<!--<li><a href="http://www.bbcshop.com/dvd/religious/icat/religion-dvd" title="Religious DVDs">Religion</a></li>-->
+					<li><a href="http://www.bbcshop.com/dvd/science+nature/icat/sciencenaturedvd" title="Science &amp; Nature DVDs">Science &amp; Nature</a></li>
 				</ul>
-				<ul style="width:33.333%;">
-					<li class="mm_subheader">Recommendations</li>
-					<li><a href="http://www.bbcshop.com/category/best-sellers/icat/doctorwhobestsellers">Best Sellers</a></li>
-					<li><a href="http://www.bbcshop.com/category/pre-orders/icat/doctorwhopreorders">Pre-orders</a></li>
-					<li><a href="http://www.bbcshop.com/category/hot-deals/icat/doctorwhohotdeals">Hot Deals</a></li>
+				<ul class="colThree">
+					<li class="mm_subheader"><a href="http://www.bbcshop.com/dvd/films/icat/filmsdvd" title="Films on DVD &amp; Blu-ray">All Films on DVD &amp; Blu-ray</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/action+adventure-films/icat/action-adventure-film-dvd" title="Action &amp; Adventure Films on DVDs">Action &amp; Adventure</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/childrens-films/icat/childrens-films-dvd" title="Children's Films on DVD">Childrens</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/classic-film/icat/classic-film-dvd" title="Classic Film on DVD">Classics</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/comedy-film/icat/comedy-film-dvd" title="Comedy Films on DVD">Comedy</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/crime+thriller-films/icat/crime-thriller-film-dvd" title="Crime &amp; Thriller Films on DVD">Crime &amp; Thriller</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/drama-films-dvd/icat/drama-film-dvd" title="Film Drama on DVDs">Drama</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/horror-films/icat/horror-film-dvd" title="Horror Films on DVD">Horror</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/sci-fi-film/icat/sci-fi-film-dvd" title="Science Fiction &amp; Fantasy Films on DVD">Science Fiction &amp; Fantasy</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/education/icat/educationdvd" title="Adult Learning on DVD">Adult</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/childrens-pre-school/icat/childrens-preschool-dvd" title="Pre Shcool Learning on DVD">Pre School</a></li>
+					<!-- MRD : Venda have a redirect setup where anything that begins with "primary" is redirected to the homepage 
+					<li><a href="http://www.bbcshop.com/icat/primary-dvd" title="Primary School Learning on DVD">Primary</a></li>-->
+					<!--<li><a href="http://www.bbcshop.com/dvd/secondary-school/icat/secondary-school-dvd" title="Secondary School Learning on DVD">Secondary</a></li>-->
+				</ul>
+				<ul class="colFour">
+					<li class="mm_subheader"><a href="http://www.bbcshop.com/dvd/lifestyle+leisure/icat/lifestyle-leisure-dvd" title="Lifestyle &amp; Leisure on DVD &amp; Blu-ray">All Lifestyle &amp; Leisure DVD &amp; Blu-ray</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/antiques/icat/antiques-dvd" title="Antiques Programmes on DVD">Antiques</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/food/icat/fooddvd" title="Food &amp; Drink Programmes on DVD">Food &amp; Drink</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/health+wellbeing/icat/healthwellbeingdvd" title="Health &amp; Wellbeing Programmes on DVD">Health &amp; Wellbeing</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/home+garden/icat/homegardendvd" title="Home &amp; Garden Programmes on DVD">Home &amp; Garden</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/sport/icat/sportdvd" title="Sports on DVD">Sport</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/travel/icat/traveldvd" title="Travel Programmes on DVD">Travel</a></li>
+					<li class="mm_subheader bigHead"><a href="http://www.bbcshop.com/dvd/music/icat/musicdvd" title="Music Programmes on DVD &amp; Blu-ray">All Music DVD &amp; Blu-ray</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/childrens-music/icat/childrens-music-dvd" title="Children's Music on DVD">Children's</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/classic-pop+rock/icat/classic-pop-rock-dvd" title="Classic Pop &amp; Rock DVDs">Classic Pop &amp; Rock</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/classical-music/icat/classical-music-dvd" title="Classical Music DVDs">Classical</a></li>
+					<!-- No SKUs for the following categories
+					<li><a href="http://www.bbcshop.com/dvd/folk-music/icat/folk-music-dvd" title="Folk Music DVDs">Folk</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/hip-hop+r-n-b/icat/hiphop-dvd" title="Hip Hop, RnB & Dancehall DVDs">Hip Hop, R 'n' B, Dancehall</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/jazz+blues/icat/jazz-blues-dvd" title="Jazz & Blues DVDs">Jazz & Blues</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/soul+reggae/icat/soul-reggae-dvd" title="Soul & Reggae DVDs">Soul & Reggae</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/soundtrack/icat/soundtrack-dvd" title="DVD Soundtracks">Soundtracks</a></li>
+					<li><a href="http://www.bbcshop.com/dvd/world-music/icat/world-music-dvd" title="World Music DVDs">World Music</a></li>     -->      
 				</ul>
 			</div>
 		</div>
 	</li>
-    <li id="navdvd" class="nav-dvd has-dropdown"><i class="icon-caret-right hide-for-desktop"></i><a href="http://www.bbcshop.com/dvd/icat/dvd" id="mm_icatdvd">DVD</a>
+  
+	<li id="navaudio" class="nav-audio has-dropdown"><i class="icon-caret-right hide-for-desktop"></i>
+    <a href="http://www.bbcshop.com/audio/icat/audio" id="mm_icataudio" title="Audio">Audio</a>
 		<div class="js-mm-sub">
 			<div class="js-mm-row">
-				<ul style="width:25%;">
-					<li class="mm_subheader">Categories</li>
-					
-
-
-	
-<li><a href="http://www.bbcshop.com/dvd/biographies/icat/biographiesdvd" class="mm-subbiographiesdvd" id="mm_subbiographiesdvd">Biographies</a></li>
-
-<li><a href="http://www.bbcshop.com/dvd/childrens/icat/childrensdvd" class="mm-subchildrensdvd" id="mm_subchildrensdvd">Children's</a></li>
-
-<li><a href="http://www.bbcshop.com/dvd/comedy/icat/comedydvd" class="mm-subcomedydvd" id="mm_subcomedydvd">Comedy</a></li>
-
-<li><a href="http://www.bbcshop.com/dvd/drama+arts/icat/dramaartsdvd" class="mm-subdramaartsdvd" id="mm_subdramaartsdvd">Drama &amp; Arts</a></li>
-
-<li><a href="http://www.bbcshop.com/dvd/education/icat/educationdvd" class="mm-subeducationdvd" id="mm_subeducationdvd">Education</a></li>
-
-<li><a href="http://www.bbcshop.com/dvd/films/icat/filmsdvd" class="mm-subfilmsdvd" id="mm_subfilmsdvd">Films</a></li>
-
-<li><a href="http://www.bbcshop.com/dvd/food/icat/fooddvd" class="mm-subfooddvd" id="mm_subfooddvd">Food</a></li>
-
-<li><a href="http://www.bbcshop.com/dvd/game-shows/icat/gameshowsdvd" class="mm-subgameshowsdvd" id="mm_subgameshowsdvd">Game Shows</a></li>
-
-<li><a href="http://www.bbcshop.com/dvd/health+wellbeing/icat/healthwellbeingdvd" class="mm-subhealthwellbeingdvd" id="mm_subhealthwellbeingdvd">Health &amp; Wellbeing</a></li>
-
-<li><a href="http://www.bbcshop.com/dvd/history/icat/historydvd" class="mm-subhistorydvd" id="mm_subhistorydvd">History</a></li>
-
-<li><a href="http://www.bbcshop.com/dvd/home+garden/icat/homegardendvd" class="mm-subhomegardendvd" id="mm_subhomegardendvd">Home &amp; Garden</a></li>
-
-<li><a href="http://www.bbcshop.com/dvd/languages/icat/languagesdvd" class="mm-sublanguagesdvd" id="mm_sublanguagesdvd">Languages</a></li>
-
-<li><a href="http://www.bbcshop.com/dvd/motoring/icat/motoringdvd" class="mm-submotoringdvd" id="mm_submotoringdvd">Motoring</a></li>
-
-<li><a href="http://www.bbcshop.com/dvd/music/icat/musicdvd" class="mm-submusicdvd" id="mm_submusicdvd">Music</a></li>
-
-<li><a href="http://www.bbcshop.com/dvd/science+nature/icat/sciencenaturedvd" class="mm-subsciencenaturedvd" id="mm_subsciencenaturedvd">Science &amp; Nature</a></li>
-
-<li><a href="http://www.bbcshop.com/dvd/science-fiction/icat/sciencefictiondvd" class="mm-subsciencefictiondvd" id="mm_subsciencefictiondvd">Science Fiction</a></li>
-
-<li><a href="http://www.bbcshop.com/dvd/sport/icat/sportdvd" class="mm-subsportdvd" id="mm_subsportdvd">Sport</a></li>
-
-<li><a href="http://www.bbcshop.com/dvd/travel/icat/traveldvd" class="mm-subtraveldvd" id="mm_subtraveldvd">Travel</a></li>
-
-
+				<ul class="colOne">
+				  <li class="mm_subheader"><a href="http://www.bbcshop.com/audio/all-childrens/icat/all-childrens-audiobooks" title="All Children's Audiobooks">All Children's Audiobooks</a></li>
+				  <li><a href="http://www.bbcshop.com/icat/childrens-drama-audiobooks" title="Children's Drama Audiobooks">Children's Drama</a></li>
+				  <li><a href="http://www.bbcshop.com/audio/kids-comedy/icat/kids-comedy-audiobooks" title="Childre">Children's Funny</a></li>
+				  <!-- NO SKUs in the category below
+				  <li><a href="http://www.bbcshop.com/audio/kids-factual/icat/kids-factual-audiobooks" title="Children's Factual Audiobooks">Children's Factual</a></li>-->
+				  <li><a href="http://www.bbcshop.com/audio/childrens-music/icat/childrens-music" title="Children's Music">Children's Music</a></li>
+				  <li><a href="http://www.bbcshop.com/audio/pre-school/icat/pre-school-audiobooks" title="Pre-School Children's Audiobooks">Children's Pre School</a></li>
+				  <li class="mm_subheader bigHead"><a href="all-comedy-audiobooks" title="All Comedy Audiobooks">All Comedy Audiobooks</a></li>
+				  <li><a href="http://www.bbcshop.com/icat/comedy-classics-audiobooks" title="Classic Comedy Audiobooks">Comedy Classics</a></li>
+				  <li><a href="http://www.bbcshop.com/audio/satire/icat/satirical-audiobooks" title="Satirical Comedy Audiobooks">Satirical Comedy</a></li>
+				  <li><a href="http://www.bbcshop.com/audio/sitcom/icat/sitcom-audiobooks" title="Sitcom Audiobooks">Sitcom</a></li>
+				  <li><a href="http://www.bbcshop.com/audio/comedy-sketch/icat/comedy-sketch-audiobooks" title="Comedy Sketch Audiobooks">Comedy Sketch</a></li>
+				  <li><a href="http://www.bbcshop.com/icat/stand-up-comedy-audiobooks" title="Stand Up Comedy Audiobooks">Stand Up Comedy Audio</a></li>
 				</ul>
-				<ul style="width:25%;">
-					<li class="mm_subheader">Formats</li>
-					<!--
-					<li><a href="http://www.bbcshop.com/page/search?q=dvd">DVD</a></li>
-					<li><a href="http://www.bbcshop.com/page/search?q=Blu-ray">Blu-ray</a></li>
+				<ul class="colTwo">
+				  <li class="mm_subheader"><a href="http://www.bbcshop.com/audio/all-drama/icat/all-drama-audiobooks" title="All Drama Audiobooks">All Drama Audiobooks</a></li>
+				  <li><a href="http://www.bbcshop.com/audio/classic-drama/icat/classic-drama-audiobooks" title="Classic &amp; Period Drama Audiobooks">Classic &amp; Period Drama</a></li>
+				  <li><a href="http://www.bbcshop.com/audio/modern-drama/icat/modern-drama-audiobooks" title="Contemporary Drama Audiobooks">Contemporary Drama</a></li>
+				  <li><a href="http://www.bbcshop.com/audio/crime+thriller/icat/crime-thriller-audiobooks" title="Crime &amp; Thriller Audiobooks">Crime &amp; Thriller</a></li>
+				  <li><a href="http://www.bbcshop.com/audio/fantasy/icat/fantasy-audiobooks" title="Fantasy Drama Audiobooks">Fantasy Drama</a></li>
+				  <li><a href="http://www.bbcshop.com/audio/horror/icat/horror-audiobooks" title="Horror Audiobooks">Horror</a></li>
+				  <li><a href="http://www.bbcshop.com/audio/sci-fi/icat/sci-fi-audiobooks" title="Science Fiction Audiobooks">Science Fiction</a></li>
+				  <li class="mm_subheader bigHead"><a href="http://www.bbcshop.com/audio/entertainment/icat/entertainment-audiobooks" title="All Entertainment Audiobooks">All Entertainment Audiobooks</a></li>
+				  <!--<li><a href="http://www.bbcshop.com/audio/family/icat/family-audiobooks" title="Family Entertainment Audiobooks">Family Entertainment</a></li>-->
+				  <li><a href="http://www.bbcshop.com/audio/game+quiz-show/icat/game-quiz-show-audiobooks" title="Game &amp; Quiz Show Audiobooks">Game &amp; Quiz Show</a></li>
+				</ul>
+				<ul class="colThree">
+				  <li class="mm_subheader"><a href="http://www.bbcshop.com/audio/all-factual/icat/all-factual-audiobooks" title="All Factual Audiobooks">All Factual Audiobooks</a></li>
+			      <li><a href="http://www.bbcshop.com/audio/arts+culture/icat/arts-culture-audiobooks" title="Arts &amp; Culture Audiobooks">Arts &amp; Culture</a></li>
+				  <li><a href="http://www.bbcshop.com/audio/documentary/icat/documentary-audiobooks" title="Documentary Audiobooks">Documentary</a></li>
+				  <li><a href="http://www.bbcshop.com/audio/history/icat/history-audiobooks" title="History Audiobooks">History</a></li>
+				  <li><a href="http://www.bbcshop.com/audio/motoring/icat/motoring-audiobooks" title="Motoring Audiobooks">Motoring</a></li>
+				  <!-- <li><a href="http://www.bbcshop.com/audio/religious-audiobooks/icat/religious-audiobooks" title="Religious Audiobooks">Religious</a></li> -->
+				  <li><a href="http://www.bbcshop.com/audio/science+nature/icat/science-nature-audiobooks" title="Science &amp; Nature Audiobooks">Science &amp; Nature</a></li>
+				  <li class="mm_subheader bigHead"><a href="http://www.bbcshop.com/audio/all-learning/icat/all-learning-audiobooks" title="All Learning Audiobooks">All Learning Audiobooks</a></li>
+				  <li><a href="http://www.bbcshop.com/audio/adult-learning/icat/adult-learning-audiobooks" title="Adult Learning Audiobooks">Adult Learning</a></li>
+				  <li><a href="http://www.bbcshop.com/audio/pre-school/icat/pre-school-audiobooks" title="Pre-School Learning Audiobooks">Pre-School Learning</a></li>
+				  <!-- MRD Venda redirects
+				  <li><a href="http://www.bbcshop.com/audio/primary-school-audiobooks/icat/primary-school-audiobooks" title="Primary School Learning Audiobooks">Primary School Learning</a></li>
+				  
+				  <li><a href="http://www.bbcshop.com/icat/secondary-school-audiobooks" title="Secondary School Learning Audiobooks">Secondary School Learning</a></li>-->
+				</ul>
+				<ul class="colFour">
+				  <li class="mm_subheader"><a href="http://www.bbcshop.com/audio/all-lifestyle/icat/all-lifestyle-audiobooks" title="All Lifestyle Audiobooks">All Lifestyle Audiobooks</a></li>
+				  <li><a href="http://www.bbcshop.com/audio/food+drink/icat/food-and-drink-audiobooks" title="Food &amp; Drink Audiobooks">Food &amp; Drink</a></li>
+				  <li><a href="http://www.bbcshop.com/audio/health+wellbeing/icat/health-audiobooks" title="Health &amp; Wellbeing Audiobooks">Health &amp; Wellbeing</a></li>
+				  <li><a href="http://www.bbcshop.com/icat/home-and-garden-audiobooks" title="Home &amp; Garden Audiobooks">Home &amp; Garden</a></li>
+				  <li><a href="http://www.bbcshop.com/audio/sports/icat/sports-audiobooks" title="Sports Audiobooks">Sports</a></li>
+				  <li><a href="http://www.bbcshop.com/audio/travel/icat/travelaudio" title="Travel Audiobooks">Travel</a></li>
+				  <li class="mm_subheader bigHead"><a href="http://www.bbcshop.com/music/icat/music" title="All Music">Music</a></li>
+				  <li><a href="http://www.bbcshop.com/music/childrens/icat/childrensmusic" title="Children's Music">Children's Music</a></li>
+				  <li><a href="http://www.bbcshop.com/music/classic-pop+rock/icat/classic-pop-rock" title="Classic Pop &amp; Rock Music">Classic Pop &amp; Rock</a></li>
+				  <li><a href="http://www.bbcshop.com/music/classical/icat/classical-music" title="Classical Music">Classical Music</a></li>
+				  <li><a href="http://www.bbcshop.com/music/folk/icat/folk-music" title="Folk Music">Folk Music</a></li>
+				  <li><a href="http://www.bbcshop.com/music/jazz+blues/icat/jazz-blues-music" title="Jazz &amp; Blues">Jazz &amp; Blues</a></li>
+				  <li><a href="http://www.bbcshop.com/music/soul-rnb/icat/soulrnb" title="Soul &amp; RnB">Soul &amp; R n B</a></li>
+				  <li><a href="http://www.bbcshop.com/music/soundtracks/icat/soundtracks" title="Soundtracks">Soundtracks</a></li>
+				  <li><a href="http://www.bbcshop.com/music/world-music/icat/world-music" title="World Music">World Music</a></li>
+				</ul>
+			</div>
+		</div>
+	</li>
+  
+	<li id="navbooks" class="nav-books has-dropdown"><i class="icon-caret-right hide-for-desktop"></i>
+    <a href="http://www.bbcshop.com/books/icat/books" id="mm_icatbooks" title="Books">Books</a>
+		<div class="js-mm-sub">
+			<div class="js-mm-row">
+				<ul class="colOne">
+					<li class="mm_subheader bigHead"><a href="http://www.bbcshop.com/books/all-childrens/icat/all-childrens-books" title="Lifestyle Books">All Children's Books</a></li>  
+					<li><a href="http://www.bbcshop.com/books/pre-school/icat/pre-school-books" title="Pre School Books">Pre School Books</a></li>
+					<li><a href="http://www.bbcshop.com/books/childrens-comedy/icat/childrens-comedy-books" title="Children's Comedy Books">Children's Comedy</a></li>
+					<li><a href="http://www.bbcshop.com/books/childrens-factual/icat/childrens-factual-books" title="Children's Factual Books">Children's Factual</a></li>
+					<li><a href="http://www.bbcshop.com/books/childrens-drama/icat/childrens-drama-books" title="Children's Drama Books">Children's Drama</a></li>
+					
+					<li class="mm_subheader bigHead"><a href="http://www.bbcshop.com/books/all-comedy/icat/all-comedy-books" title="Lifestyle Books">All Comedy Books</a></li>  
+					<li><a href="http://www.bbcshop.com/books/sitcom/icat/sitcom-books" title="Sitcom Books">Sitcom</a></li>
+					<li><a href="http://www.bbcshop.com/books/satirical/icat/satirical-books" title="Satirical Books">Satirical</a></li>
+					<li><a href="http://www.bbcshop.com/books/comedy-sketch/icat/comedy-sketch-books" title="Comedy Sketch Books">Comedy Sketch Books</a></li>
+
+					<li class="mm_subheader bigHead"><a href="http://www.bbcshop.com/books/all-drama/icat/all-drama-books" title="Biography Books">All Drama Books</a></li>
+					<li><a href="http://www.bbcshop.com/books/classic-drama/icat/classic-drama-books" title="Classic &amp; Period Drama Books">Classic &amp; Period Drama</a></li>
+					<li><a href="http://www.bbcshop.com/books/crime+thriller/icat/crime-and-thriller-books" title="Crime &amp; Thriller Books">Crime &amp; Thriller Drama</a></li>
+					<li><a href="http://www.bbcshop.com/books/contemporary-drama/icat/contemporary-drama-books" title="Contemporary Drama Books">Contemporary Drama</a></li>
+					
+				</ul>
+				<ul class="colTwo">
+					<li class="mm_subheader bigHead"><a href="http://www.bbcshop.com/books/all-education/icat/all-education-books" title="Education Books">All Education Books</a></li>  
+					<li><a href="http://www.bbcshop.com/books/pre-school/icat/pre-school-books" title="Pre School Books">Pre School Books</a></li>
+					<!-- MRD redirect 
+					<li><a href="http://www.bbcshop.com/books/primary-school/icat/primary-school-books" title="Primary School Books">Primary School Books</a></li>
 					-->
-					<li><a href="http://www.bbcshop.com/gifts/top-50-box-sets/icat/topboxsets">Box Sets</a></li>
-					<li><a href="http://www.bbcshop.com/category/exclusives/icat/dvdexclusives">DVD Exclusives</a></li>
+					<li><a href="http://www.bbcshop.com/books/secondary-school/icat/secondary-school-books" title="Secondary School Books">Secondary School Books</a></li>
+					<li><a href="http://www.bbcshop.com/books/adult-learning-books/icat/adult-learning-books" title="Adult Learning Books">Adult Learning Books</a></li>					
+
+					<li class="mm_subheader bigHead"><a href="http://www.bbcshop.com/books/all-entertainment/icat/all-entertainment-books" title="Entertainment Books">All Entertainment Books</a></li>  
+					<li><a href="http://www.bbcshop.com/books/science-fiction/icat/science-fiction-books" title="Sci Fi Books">Science Fiction</a></li>
+					<li><a href="http://www.bbcshop.com/books/game+quiz-show/icat/game-and-quiz-show-books" title="Game &amp; Quiz Show Books">Game &amp; Quiz Show</a></li>
+					<li><a href="http://www.bbcshop.com/books/motoring-books/icat/motoring-books" title="Motoring Books">Motoring</a></li>
+					<li><a href="http://www.bbcshop.com/books/horror/icat/horror-books" title="Horror Books">Horror</a></li>
+					<li><a href="http://www.bbcshop.com/books/family-entertainment/icat/family-entertainment-book" title="Family Entertainment Books">Family Entertainment</a></li>
+										
 				</ul>
-				<ul style="width:25%;">
-					<li class="mm_subheader">TV shows</li>
-					<li><a href="http://www.bbcshop.com/doctor-who/dvds/icat/doctorwhodvds">Doctor Who DVDs</a></li>
-					<li><a href="http://www.bbcshop.com/category/top-gear/icat/topgeardvds">Top Gear DVDs</a></li>
+				<ul class="colThree">
+					<li class="mm_subheader bigHead"><a href="http://www.bbcshop.com/books/all-factual/icat/all-factual-books" title="Lifestyle Books">All Factual Books</a></li>  
+					<li><a href="http://www.bbcshop.com/books/science+nature/icat/science-and-nature-books" title="Science &amp; Nature Books">Science &amp; Nature </a></li>
+					<li><a href="http://www.bbcshop.com/books/history/icat/history-books" title="History &amp; Science Books">History &amp; Science</a></li>
+					<li><a href="http://www.bbcshop.com/books/documentary/icat/documentary-books" title="Documentary Books">Documentary</a></li>
+					<li><a href="http://www.bbcshop.com/books/sports/icat/sports-books" title="Sports Books">Sports</a></li>
+					<li class="mm_subheader bigHead"><a href="http://www.bbcshop.com/books/all-lifestyle/icat/all-lifestyle-books" title="Lifestyle Books">All Lifestyle Books</a></li>  
+					<li><a href="http://www.bbcshop.com/books/food+drink/icat/food-and-drink-books" title="Food &amp; Drink Books">Food &amp; Drink</a></li>
+					<li><a href="http://www.bbcshop.com/books/travel/icat/travel-books" title="Travel Books">Travel</a></li>
+					<li><a href="http://www.bbcshop.com/books/home+garden/icat/home-and-garden-books" title="Home &amp; Garden Books">Home &amp; Garden</a></li>
+					<li><a href="http://www.bbcshop.com/books/health+wellbeing/icat/health-wellbeing-books" title="Health &amp; Wellbeing Books">Health &amp; Wellbeing</a></li>
+					<li><a href="http://www.bbcshop.com/books/arts+culture/icat/arts-and-culture-books" title="Arts &amp; Culture Books">Arts &amp; Culture</a></li>
+					<li class="mm_subheader bigHead"><a href="http://www.bbcshop.com/books/all-music/icat/all-music-books" title="All Music Books">All Music Books</a></li>  
+					<!-- MRD no SKUs below -->
+					<!--<li><a href="http://www.bbcshop.com/books/classical-music/icat/classical-music-books" title="Classical Music Books">Classical Music</a></li>-->
+					<li><a href="http://www.bbcshop.com/books/classic-pop+rock/icat/classic-pop-rock-books" title="Classic Pop &amp; Rock Books">Classic Pop &amp; Rock</a></li>
 				</ul>
-				<ul style="width:25%;">
-					<li class="mm_subheader">Recommendations</li>
-					<li><a href="http://www.bbcshop.com/category/best-sellers/icat/dvdbestsellers">Best Sellers</a></li>
-					<li><a href="http://www.bbcshop.com/category/pre-orders/icat/dvdpreorders">Pre-orders</a></li>
-					<li><a href="http://www.bbcshop.com/category/hot-deals/icat/dvdhotdeals">DVD Deals</a></li>
+				<ul class="colFour">
+					<li>&nbsp;</li>
 				</ul>
 			</div>
 		</div>
 	</li>
-	<li id="navbluray" class="nav-bluray has-dropdown"><i class="icon-caret-right hide-for-desktop"></i><a href="http://www.bbcshop.com/blu-ray/icat/bluray" id="mm_icatbluray">Blu-ray</a>
+    
+	<li id="navchildrens" class="nav-childrens has-dropdown"><i class="icon-caret-right hide-for-desktop"></i>
+    <a href="http://www.bbcshop.com/childrens/icat/childrens" id="mm_icatchildrens" title="Children's">Children's</a>
 		<div class="js-mm-sub">
 			<div class="js-mm-row">
-				<ul style="width:25%;">
+				<ul class="colOne">
+					<li class="mm_subheader">Shows</li>
+					<li><a href="http://www.bbcshop.com/childrens/abney+teal/icat/abneyandteal">Abney &amp; Teal</a></li>		
+					<li><a href="http://www.bbcshop.com/childrens/baby-jake/icat/babyjake">Baby Jake</a></li>
+					<li><a href="http://www.bbcshop.com/childrens/bob-the-builder/icat/bobthebuilder">Bob the Builder</a></li>
+					<li><a href="http://www.bbcshop.com/childrens/cbeebies/icat/cbeebies">Cbeebies</a></li>
+					<li><a href="http://www.bbcshop.com/childrens/charlie+lola/icat/charlielola">Charlie &amp; Lola</a></li>
+					<li><a href="http://www.bbcshop.com/childrens/in-the-night-garden/icat/inthenightgarden">In the Night Garden</a></li>
+				</ul>
+				<ul class="colTwo">
+					<li><a href="http://www.bbcshop.com/childrens/octonauts/icat/octonauts">Octonauts</a></li>
+					<li><a href="http://www.bbcshop.com/childrens/peppa-pig/icat/peppapig">Peppa Pig</a></li>
+					<li><a href="http://www.bbcshop.com/childrens/postman-pat/icat/postmanpat">Postman Pat</a></li>
+					<li><a href="http://www.bbcshop.com/childrens/raa-raa-the-noisy-lion/icat/raaraalion">Raa Raa the Noisy Lion</a></li>
+					<li><a href="http://www.bbcshop.com/childrens/sarah-and-duck/icat/sarahandduck">Sarah &amp; Duck</a></li>
+					<li><a href="http://www.bbcshop.com/childrens/something-special/icat/somethingspecial">Something Special</a></li>
+					<li><a href="http://www.bbcshop.com/childrens/walking-with-dinosaurs/icat/wwdinos">Walking with Dinosaurs</a></li>
+				</ul>
+				<ul class="colThree">
+					<li class="mm_subheader">Filter by Price</li>
+					<li><a href="http://www.bbcshop.com/childrens/all-childrens/icat/all-childrens#esp_cf=sys_price&amp;esp_filter_sys_price=1%3A10">Up to £10</a></li>
+					<li><a href="http://www.bbcshop.com/childrens/all-childrens/icat/all-childrens#esp_cf=sys_price&amp;esp_filter_sys_price=1%3A20">Up to £20</a></li>
+					<li><a href="http://www.bbcshop.com/childrens/all-childrens/icat/all-childrens#esp_cf=sys_price&amp;esp_filter_sys_price=1%3A30">Up to £30</a></li>
+					<li><a href="http://www.bbcshop.com/childrens/all-childrens/icat/all-childrens#esp_cf=sys_price&amp;esp_filter_sys_price=40%3A9999">Over £40</a></li>
+				</ul>
+				<ul class="colFour">
+					<li>&nbsp;</li>
+				</ul>
+			</div>
+		</div>
+	</li>
+	<li id="navtopgear" class="nav-topgear has-dropdown"><i class="icon-caret-right hide-for-desktop"></i>
+    <a href="http://www.bbcshop.com/top-gear/icat/topgear" id="mm_icattopgear" title="Top Gear">Top Gear</a>
+		<div class="js-mm-sub">
+			<div class="js-mm-row">
+				<ul class="colOne">
 					<li class="mm_subheader">Categories</li>
 					
 
 
 	
-<li><a href="http://www.bbcshop.com/blu-ray/childrens/icat/childrensbluray" class="mm-subchildrensbluray" id="mm_subchildrensbluray">Children's</a></li>
+<li><a href="http://www.bbcshop.com/top-gear/all-top-gear/icat/all-top-gear" class="mm-suball-top-gear" id="mm_suball-top-gear">All Top Gear</a></li>
 
-<li><a href="http://www.bbcshop.com/blu-ray/comedy/icat/comedybluray" class="mm-subcomedybluray" id="mm_subcomedybluray">Comedy</a></li>
-
-<li><a href="http://www.bbcshop.com/blu-ray/drama+arts/icat/dramaartsbluray" class="mm-subdramaartsbluray" id="mm_subdramaartsbluray">Drama &amp; Arts</a></li>
-
-<li><a href="http://www.bbcshop.com/blu-ray/history/icat/historybluray" class="mm-subhistorybluray" id="mm_subhistorybluray">History</a></li>
-
-<li><a href="http://www.bbcshop.com/blu-ray/motoring/icat/motoringbluray" class="mm-submotoringbluray" id="mm_submotoringbluray">Motoring</a></li>
-
-<li><a href="http://www.bbcshop.com/blu-ray/music/icat/musicbluray" class="mm-submusicbluray" id="mm_submusicbluray">Music</a></li>
-
-<li><a href="http://www.bbcshop.com/blu-ray/science+nature/icat/sciencenaturebluray" class="mm-subsciencenaturebluray" id="mm_subsciencenaturebluray">Science &amp; Nature</a></li>
-
-<li><a href="http://www.bbcshop.com/blu-ray/science-fiction/icat/sciencefictionbluray" class="mm-subsciencefictionbluray" id="mm_subsciencefictionbluray">Science Fiction</a></li>
-
-<li><a href="http://www.bbcshop.com/blu-ray/sport/icat/sportbluray" class="mm-subsportbluray" id="mm_subsportbluray">Sport</a></li>
-
-<li><a href="http://www.bbcshop.com/blu-ray/travel/icat/travelbluray" class="mm-subtravelbluray" id="mm_subtravelbluray">Travel</a></li>
-
-
-				</ul>
-				<ul style="width:25%;">
-					<li class="mm_subheader">Formats</li>
-					<!--
-					<li><a href="http://www.bbcshop.com/page/search?q=Blu-ray">Blu-ray</a></li>
-					<li><a href="http://www.bbcshop.com/page/search?q=dvd">DVD</a></li>
-					-->
-					<li><a href="http://www.bbcshop.com/category/box-sets/icat/blurayboxsets">Blu-ray Box Sets</a></li>
-					<li><a href="http://www.bbcshop.com/category/exclusives/icat/blurayexclusives">Blu-ray Exclusives</a></li>
-				</ul>
-				<ul style="width:25%;">
-					<li class="mm_subheader">TV shows</li>
-					<li><a href="http://www.bbcshop.com/category/doctor-who/icat/doctorwhobluray">Doctor Who <br>Blu-rays</a></li>
-					<li><a href="http://www.bbcshop.com/category/top-gear/icat/topgearbluray">Top Gear Blu-rays</a></li>
-				</ul>
-				<ul style="width:25%;">
-					<li class="mm_subheader">Recommendations</li>
-					<li><a href="http://www.bbcshop.com/category/best-sellers/icat/bluraybestsellers">Best Sellers</a></li>
-					<li><a href="http://www.bbcshop.com/category/pre-orders/icat/bluraypreorders">Pre-orders</a></li>
-					<li><a href="http://www.bbcshop.com/category/hot-deals/icat/blurayhotdeals">Hot Deals</a></li>
-				</ul>
-			</div>
-		</div>
-	</li>
-	<li id="navaudio" class="nav-audio has-dropdown"><i class="icon-caret-right hide-for-desktop"></i><a href="http://www.bbcshop.com/audio/icat/audio" id="mm_icataudio">Audio</a>
-		<div class="js-mm-sub">
-			<div class="js-mm-row">
-				<ul style="width:25%;">
-					<li class="mm_subheader">Categories</li>
-					
-
-
-	
-<li><a href="http://www.bbcshop.com/audio/biographies/icat/biographiesaudio" class="mm-subbiographiesaudio" id="mm_subbiographiesaudio">Biographies</a></li>
-
-<li><a href="http://www.bbcshop.com/audio/childrens/icat/childrensaudio" class="mm-subchildrensaudio" id="mm_subchildrensaudio">Children's</a></li>
-
-<li><a href="http://www.bbcshop.com/audio/comedy/icat/comedyaudio" class="mm-subcomedyaudio" id="mm_subcomedyaudio">Comedy</a></li>
-
-<li><a href="http://www.bbcshop.com/audio/drama+arts/icat/dramaartsaudio" class="mm-subdramaartsaudio" id="mm_subdramaartsaudio">Drama &amp; Arts</a></li>
-
-<li><a href="http://www.bbcshop.com/audio/health+wellbeing/icat/healthwellbeingaudio" class="mm-subhealthwellbeingaudio" id="mm_subhealthwellbeingaudio">Health &amp; Wellbeing</a></li>
-
-<li><a href="http://www.bbcshop.com/audio/history/icat/historyaudio" class="mm-subhistoryaudio" id="mm_subhistoryaudio">History</a></li>
-
-<li><a href="http://www.bbcshop.com/audio/languages/icat/languagesaudio" class="mm-sublanguagesaudio" id="mm_sublanguagesaudio">Languages</a></li>
-
-<li><a href="http://www.bbcshop.com/audio/music/icat/musicaudio" class="mm-submusicaudio" id="mm_submusicaudio">Music</a></li>
-
-<li><a href="http://www.bbcshop.com/audio/science+nature/icat/sciencenatureaudio" class="mm-subsciencenatureaudio" id="mm_subsciencenatureaudio">Science &amp; Nature</a></li>
-
-<li><a href="http://www.bbcshop.com/audio/science-fiction/icat/sciencefictionaudio" class="mm-subsciencefictionaudio" id="mm_subsciencefictionaudio">Science Fiction</a></li>
-
-<li><a href="http://www.bbcshop.com/audio/sport/icat/sportaudio" class="mm-subsportaudio" id="mm_subsportaudio">Sport</a></li>
-
-<li><a href="http://www.bbcshop.com/audio/travel/icat/travelaudio" class="mm-subtravelaudio" id="mm_subtravelaudio">Travel</a></li>
-
-
-				</ul>
-				<ul style="width:25%;">
-					<li class="mm_subheader">Formats</li>
-					<li><a href="http://www.bbcshop.com/page/search?q=Abridged CD">Abridged CD</a></li>
-					<li><a href="http://www.bbcshop.com/page/search?q=Audiobook">Audiobook</a></li>
-					<li><a href="http://www.bbcshop.com/page/search?q=Music CD">Music CD</a></li>
-					<li><a href="http://www.bbcshop.com/page/search?q=TV Soundtrack">TV Soundtrack</a></li>
-					<li><a href="http://www.bbcshop.com/page/search?q=Unabridged CD">Unabridged CD</a></li>
-					<li><a href="http://www.bbcshop.com/category/box-sets/icat/audioboxsets">Box Sets</a></li>
-				</ul>
-				<ul style="width:25%;">
-					<li class="mm_subheader">TV shows</li>
-					<li><a href="http://www.bbcshop.com/category/doctor-who/icat/doctorwhoaudio">Doctor Who Audio</a></li>
-				</ul>
-				<ul style="width:25%;">
-					<li class="mm_subheader">Recommendations</li>
-					<li><a href="http://www.bbcshop.com/category/best-sellers/icat/audiobestsellers">Best Sellers</a></li>
-					<li><a href="http://www.bbcshop.com/category/pre-orders/icat/audiopreorders">Pre-orders</a></li>
-					<li><a href="http://www.bbcshop.com/category/hot-deals/icat/audiohotdeals">Hot Deals</a></li>
-				</ul>
-			</div>
-		</div>
-	</li>
-	<li id="navbooks" class="nav-books has-dropdown"><i class="icon-caret-right hide-for-desktop"></i><a href="http://www.bbcshop.com/books/icat/books" id="mm_icatbooks">Books</a>
-		<div class="js-mm-sub">
-			<div class="js-mm-row">
-				<ul style="width:25%;">
-					<li class="mm_subheader">Categories</li>
-					
-
-
-	
-<li><a href="http://www.bbcshop.com/books/biographies/icat/biographiesbooks" class="mm-subbiographiesbooks" id="mm_subbiographiesbooks">Biographies</a></li>
-
-<li><a href="http://www.bbcshop.com/books/childrens/icat/childrensbooks" class="mm-subchildrensbooks" id="mm_subchildrensbooks">Children's</a></li>
-
-<li><a href="http://www.bbcshop.com/books/comedy/icat/comedybooks" class="mm-subcomedybooks" id="mm_subcomedybooks">Comedy</a></li>
-
-<li><a href="http://www.bbcshop.com/category/doctor-who/icat/doctorwhobooks" class="mm-subdoctorwhobooks" id="mm_subdoctorwhobooks">Doctor Who</a></li>
-
-<li><a href="http://www.bbcshop.com/books/drama+arts/icat/dramaartsbooks" class="mm-subdramaartsbooks" id="mm_subdramaartsbooks">Drama &amp; Arts</a></li>
-
-<li><a href="http://www.bbcshop.com/books/education/icat/educationbooks" class="mm-subeducationbooks" id="mm_subeducationbooks">Education</a></li>
-
-<li><a href="http://www.bbcshop.com/books/food/icat/foodbooks" class="mm-subfoodbooks" id="mm_subfoodbooks">Food</a></li>
-
-<li><a href="http://www.bbcshop.com/books/game-shows/icat/gameshowsbooks" class="mm-subgameshowsbooks" id="mm_subgameshowsbooks">Game Shows</a></li>
-
-<li><a href="http://www.bbcshop.com/books/health+wellbeing/icat/healthwellbeingbooks" class="mm-subhealthwellbeingbooks" id="mm_subhealthwellbeingbooks">Health &amp; Wellbeing</a></li>
-
-<li><a href="http://www.bbcshop.com/books/history/icat/historybooks" class="mm-subhistorybooks" id="mm_subhistorybooks">History</a></li>
-
-<li><a href="http://www.bbcshop.com/books/home+garden/icat/homegardenbooks" class="mm-subhomegardenbooks" id="mm_subhomegardenbooks">Home &amp; Garden</a></li>
-
-<li><a href="http://www.bbcshop.com/books/languages/icat/languagesbooks" class="mm-sublanguagesbooks" id="mm_sublanguagesbooks">Languages</a></li>
-
-<li><a href="http://www.bbcshop.com/books/motoring/icat/motoringbooks" class="mm-submotoringbooks" id="mm_submotoringbooks">Motoring</a></li>
-
-<li><a href="http://www.bbcshop.com/books/music/icat/musicbooks" class="mm-submusicbooks" id="mm_submusicbooks">Music</a></li>
-
-<li><a href="http://www.bbcshop.com/books/science+nature/icat/sciencenaturebooks" class="mm-subsciencenaturebooks" id="mm_subsciencenaturebooks">Science &amp; Nature</a></li>
-
-<li><a href="http://www.bbcshop.com/books/science-fiction/icat/sciencefictionbooks" class="mm-subsciencefictionbooks" id="mm_subsciencefictionbooks">Science Fiction</a></li>
-
-<li><a href="http://www.bbcshop.com/books/sport/icat/sportbooks" class="mm-subsportbooks" id="mm_subsportbooks">Sport</a></li>
-
-<li><a href="http://www.bbcshop.com/books/travel/icat/travelbooks" class="mm-subtravelbooks" id="mm_subtravelbooks">Travel</a></li>
-
-
-				</ul>
-				<ul style="width:25%;">
-					<li class="mm_subheader">Formats</li>
-					<li><a href="http://www.bbcshop.com/category/exclusives/icat/bookexclusives">Exclusives</a></li>
-				</ul>
-				<ul style="width:25%;">
-					<li class="mm_subheader">TV shows</li>
-					<li><a href="http://www.bbcshop.com/category/doctor-who/icat/doctorwhobooks">Doctor Who Books</a></li>
-					<li><a href="http://www.bbcshop.com/category/top-gear/icat/topgearbooks">Top Gear Books</a></li>
-				</ul>
-				<ul style="width:25%;">
-					<li class="mm_subheader">Recommendations</li>
-					<li><a href="http://www.bbcshop.com/category/best-sellers/icat/bookbestsellers">Best Sellers</a></li>
-					<li><a href="http://www.bbcshop.com/category/pre-orders/icat/bookpreorders">Pre-orders</a></li>
-					<li><a href="http://www.bbcshop.com/category/hot-deals/icat/bookhotdeals">Hot Deals</a></li>
-				</ul>
-			</div>
-		</div>
-	</li>
-	<li id="navchildrens" class="nav-childrens has-dropdown"><i class="icon-caret-right hide-for-desktop"></i><a href="http://www.bbcshop.com/childrens/icat/childrens" id="mm_icatchildrens">Children's</a>
-		<div class="js-mm-sub">
-			<div class="js-mm-row">
-				<ul style="width:25%;">
-					<li class="mm_subheader">Categories</li>
-					
-
-
-	
-<li><a href="http://www.bbcshop.com/childrens/charlie+lola/icat/charlielola" class="mm-subcharlielola" id="mm_subcharlielola">Charlie &amp; Lola</a></li>
-
-<li><a href="http://www.bbcshop.com/childrens/come-outside/icat/comeoutside" class="mm-subcomeoutside" id="mm_subcomeoutside">Come Outside</a></li>
-
-<li><a href="http://www.bbcshop.com/childrens/deadly/icat/deadly60" class="mm-subdeadly60" id="mm_subdeadly60">Deadly</a></li>
-
-<li><a href="http://www.bbcshop.com/childrens/horrible-histories/icat/horriblehistories" class="mm-subhorriblehistories" id="mm_subhorriblehistories">Horrible Histories</a></li>
-
-<li><a href="http://www.bbcshop.com/childrens/mike-the-knight/icat/miketheknight" class="mm-submiketheknight" id="mm_submiketheknight">Mike The Knight</a></li>
-
-<li><a href="http://www.bbcshop.com/childrens/muzzy/icat/muzzy" class="mm-submuzzy" id="mm_submuzzy">Muzzy</a></li>
-
-<li><a href="http://www.bbcshop.com/childrens/octonauts/icat/octonauts" class="mm-suboctonauts" id="mm_suboctonauts">Octonauts</a></li>
-
-<li><a href="http://www.bbcshop.com/childrens/postman-pat/icat/postmanpat" class="mm-subpostmanpat" id="mm_subpostmanpat">Postman Pat</a></li>
-
-<li><a href="http://www.bbcshop.com/childrens/something-special/icat/somethingspecial" class="mm-subsomethingspecial" id="mm_subsomethingspecial">Something Special</a></li>
-
-<li><a href="http://www.bbcshop.com/childrens/tree-fu-tom/icat/treefutom" class="mm-subtreefutom" id="mm_subtreefutom">Tree Fu Tom</a></li>
-
-
-					<li><a class="more-link" href="http://www.bbcshop.com/childrens/icat/childrens?temp=productlist&amp;layout=search">More Children's...</a></li>
-				</ul>
-				<ul style="width:25%;">
-					<li class="mm_subheader">Formats</li>
-					<li><a href="http://www.bbcshop.com/dvd/childrens/icat/childrensdvd">Children's DVDs</a></li>
-					<li><a href="http://www.bbcshop.com/blu-ray/childrens/icat/childrensbluray">Children's Blu-rays</a></li>
-					<li><a href="http://www.bbcshop.com/books/childrens/icat/childrensbooks">Children's Books</a></li>
-					<li><a href="http://www.bbcshop.com/music/childrens/icat/childrensmusic">Children's Music</a></li>
-					<li><a href="http://www.bbcshop.com/category/box-sets/icat/childrensboxsets">Box Sets</a></li>
-					<li><a href="http://www.bbcshop.com/category/exclusives/icat/childrensexclusives">Exclusives</a></li>
-				</ul>
-				<ul style="width:25%;">
-					<li class="mm_subheader">TV shows</li>
-					<li><a href="http://www.bbcshop.com/doctor-who/icat/drwho">Doctor Who</a></li>
-					<li><a href="http://www.bbcshop.com/top-gear/icat/topgear">Top Gear</a></li>
-				</ul>
-				<ul style="width:25%;">
-					<li class="mm_subheader">Recommendations</li>
-					<li><a href="http://www.bbcshop.com/category/best-sellers/icat/childrensbestsellers">Best Sellers</a></li>
-					<li><a href="http://www.bbcshop.com/category/pre-orders/icat/childrenspreorders">Pre-orders</a></li>
-					<li><a href="http://www.bbcshop.com/category/hot-deals/icat/childrenshotdeals">Hot Deals</a></li>
-				</ul>
-			</div>
-		</div>
-	</li>
-	<li id="navtopgear" class="nav-topgear has-dropdown"><i class="icon-caret-right hide-for-desktop"></i><a href="http://www.bbcshop.com/top-gear/icat/topgear" id="mm_icattopgear">Top Gear</a>
-		<div class="js-mm-sub">
-			<div class="js-mm-row">
-				<ul style="width:33.333%;">
-					<li class="mm_subheader">Categories</li>
-					
-
-
-	
 <li><a href="http://www.bbcshop.com/top-gear/challenges/icat/topgearchallenges" class="mm-subtopgearchallenges" id="mm_subtopgearchallenges">Challenges</a></li>
 
 <li><a href="http://www.bbcshop.com/top-gear/clarkson/icat/clarkson" class="mm-subclarkson" id="mm_subclarkson">Clarkson</a></li>
@@ -718,27 +684,31 @@ $(document).ready(function(){
 
 
 				</ul>
-				<ul style="width:33.333%;">
-					<li class="mm_subheader">Formats</li>
-					<li><a href="http://www.bbcshop.com/page/search?q=top+gear+dvd">DVDs</a></li>
-					<li><a href="http://www.bbcshop.com/page/search?q=top+gear+blu-ray">Blu-rays</a></li>
-					<li><a href="http://www.bbcshop.com/page/search?q=top+gear+book">Books</a></li>
-					<li><a href="http://www.bbcshop.com/category/box-sets/icat/topgearboxsets">Box Sets</a></li>
-					<li><a href="http://www.bbcshop.com/category/exclusives/icat/topgearexclusives">Exclusives</a></li>
+				<ul class="colTwo">
+					<li class="mm_subheader">Price Filter</li>
+					<li><a href="http://www.bbcshop.com/top-gear/all-top-gear/icat/all-top-gear#esp_cf=sys_price&amp;esp_filter_sys_price=2%3A10">Up to £10</a></li>
+					<li><a href="http://www.bbcshop.com/top-gear/all-top-gear/icat/all-top-gear#esp_cf=sys_price&amp;esp_filter_sys_price=2%3A20">Up to £20</a></li>
+					<li><a href="http://www.bbcshop.com/top-gear/all-top-gear/icat/all-top-gear#esp_cf=sys_price&amp;esp_filter_sys_price=2%3A30">Up to £30</a></li>
 				</ul>
-				<ul style="width:33.333%;">
+				<ul class="colThree">
 					<li class="mm_subheader">Recommendations</li>
-					<li><a href="http://www.bbcshop.com/category/best-sellers/icat/topgearbestsellers">Best Sellers</a></li>
-					<li><a href="http://www.bbcshop.com/category/pre-orders/icat/topgearpreorders">Pre-orders</a></li>
-					<li><a href="http://www.bbcshop.com/category/hot-deals/icat/topgearhotdeals">Hot Deals</a></li>
+					<li><a href="http://www.bbcshop.com/category/best-sellers/icat/topgearbestsellers" title="Top Gear Best Sellers">Best Sellers</a></li>
+					<li><a href="http://www.bbcshop.com/category/pre-orders/icat/topgearpreorders" title="Top Gear Best Sellers">Pre-orders</a></li>
+					<li><a href="http://www.bbcshop.com/category/hot-deals/icat/topgearhotdeals" title="Top Gear Hot Deals">Hot Deals</a></li>
 				</ul>
+					<ul class="colFour">
+						<li>&nbsp;</li>
+					</ul>
 			</div>
 		</div>
 	</li>
-	<li id="navmusic" class="nav-music has-dropdown"><i class="icon-caret-right hide-for-desktop"></i><a href="http://www.bbcshop.com/music/icat/music" class="nosep" id="mm_icatmusic">Music</a>
-		<div class="js-mm-sub">
+    
+    <!--
+	<li id="navmusic" class="nav-music has-dropdown"><i class="icon-caret-right hide-for-desktop"></i>
+    <a href="http://www.bbcshop.com/music/icat/music" id="mm_icatmusic" title="Music">Music</a>
+		<div class="js-mm-sub"> 
 			<div class="js-mm-row">
-				<ul style="width:25%">
+				<ul class="colOne">
 					<li class="mm_subheader">Categories</li>
 					
 
@@ -758,6 +728,10 @@ $(document).ready(function(){
 
 <li><a href="http://www.bbcshop.com/music/jazz/icat/jazz" class="mm-subjazz" id="mm_subjazz">Jazz</a></li>
 
+<li><a href="http://www.bbcshop.com/music/jazz+blues/icat/jazz-blues" class="mm-subjazz-blues" id="mm_subjazz-blues">Jazz & Blues</a></li>
+
+<li><a href="http://www.bbcshop.com/music/jazz+blues/icat/jazz-blues-music" class="mm-subjazz-blues-music" id="mm_subjazz-blues-music">Jazz & Blues</a></li>
+
 <li><a href="http://www.bbcshop.com/music/party/icat/party" class="mm-subparty" id="mm_subparty">Party</a></li>
 
 <li><a href="http://www.bbcshop.com/music/punk-new-wave/icat/punknewwave" class="mm-subpunknewwave" id="mm_subpunknewwave">Punk / New Wave</a></li>
@@ -772,29 +746,129 @@ $(document).ready(function(){
 
 
 				</ul>
-				<ul style="width:25%;">
+				<ul class="colTwo">
 					<li class="mm_subheader">Formats</li>
-					<li><a href="http://www.bbcshop.com/page/search?q=music#esp_cf=ivtypename&amp;esp_filter_ivtypename=CD">CD</a></li>
-					<li><a href="http://www.bbcshop.com/page/search?q=music#esp_cf=ivtypename&amp;esp_filter_ivtypename=DVD">DVD</a></li>
-					<li><a href="http://www.bbcshop.com/page/search?q=music#esp_cf=ivtypename&amp;esp_filter_ivtypename=Blu-Ray">Blu-ray</a></li>
-					<li><a href="http://www.bbcshop.com/page/search?q=music#esp_cf=ivtypename&amp;esp_filter_ivtypename=Book">Book</a></li>
+					<li><a href="http://www.bbcshop.com/page/search?q=music#esp_cf=ivtypename&esp_filter_ivtypename=CD">CD</a></li>
+					<li><a href="http://www.bbcshop.com/page/search?q=music#esp_cf=ivtypename&esp_filter_ivtypename=DVD">DVD</a></li>
+					<li><a href="http://www.bbcshop.com/page/search?q=music#esp_cf=ivtypename&esp_filter_ivtypename=Blu-Ray">Blu-ray</a></li>
+					<li><a href="http://www.bbcshop.com/page/search?q=music#esp_cf=ivtypename&esp_filter_ivtypename=Book">Book</a></li>
 					<li><a href="http://www.bbcshop.com/category/box-sets/icat/musicboxsets">Music Box Sets</a></li>
 					<li><a href="http://www.bbcshop.com/category/exclusives/icat/musicexclusives">Music Exclusives</a></li>
 				</ul>
-				<ul style="width:25%;">
+				<ul class="colThree">
 					<li class="mm_subheader">TV shows</li>
 					<li><a href="http://www.bbcshop.com/category/doctor-who/icat/doctorwhomusic">Doctor Who</a></li>
 					<li><a href="http://www.bbcshop.com/category/top-gear/icat/topgearmusic">Top Gear</a></li>
 				</ul>
-				<ul style="width:25%;">
-					<li class="mm_subheader">Recommendations</li>
-					<li><a href="http://www.bbcshop.com/category/best-sellers/icat/musicbestsellers">Music Best Sellers</a></li>
-					<li><a href="http://www.bbcshop.com/category/pre-orders/icat/musicpreorders">Pre-orders</a></li>
-					<li><a href="http://www.bbcshop.com/category/hot-deals/icat/musichotdeals">Hot Deals</a></li>
-				</ul>
+					<ul class="colFour">
+						<li><img src="http://static.tumblr.com/adpoa1g/BE0lu8qym/big-promo1.jpg" /></li>
+					</ul>
 			</div>
 		</div>
 	</li>
+  -->
+
+
+  <li id="navtoysandgames" class="nav-toysandgames has-dropdown"><i class="icon-caret-right hide-for-desktop"></i>
+    <a href="http://www.bbcshop.com/toys+games/icat/toys-and-games" id="mm_icattoys-and-games" title="Toys &amp; Games">Toys &amp; Games</a>
+		<div class="js-mm-sub">
+			<div class="js-mm-row">
+				<ul class="colOne">
+					<li class="mm_subheader"><a href="http://www.bbcshop.com/toys+games/all-toys+games/icat/all-toys-and-games" title="All Toys &amp; Games">All Toys &amp; Games</a></li>
+					<li><a href="http://www.bbcshop.com/toys+games/action-figures/icat/action-figures" title="Action Figures">Action Figures</a></li>
+					<li><a href="http://www.bbcshop.com/toys+games/costume+dress-up/icat/costume-dress-up" title="Costume &amp; Dress Up">Costume &amp; Dress Up</a></li>
+					<li><a href="http://www.bbcshop.com/toys+games/educational-toys/icat/educational-toys" title="Educational Toys">Educational Toys</a></li>
+					<li><a href="http://www.bbcshop.com/toys+games/electronic-toys/icat/electronic-toys" title="Electronic Toys">Electronic Toys</a></li>
+				</ul>
+				<ul class="colTwo">	
+					<li><a href="http://www.bbcshop.com/toys+games/games+puzzles/icat/games-and-puzzles" title="Games &amp; Puzzles">Games &amp; Puzzles</a></li>
+					<li><a href="http://www.bbcshop.com/toys+games/playsets/icat/playsets" title="Playsets">Playsets</a></li>
+					<li><a href="http://www.bbcshop.com/toys+games/plush+dolls/icat/plush-and-dolls" title="Plush &amp; Dolls">Plush &amp; Dolls</a></li>
+					<li><a href="http://www.bbcshop.com/toys+games/outdoor-toys/icat/outdoor-toys" title="Outdoor Toys">Outdoor Toys</a></li>
+					<li><a href="http://www.bbcshop.com/toys+games/video-games-consoles/icat/video-games-consoles" title="Video Games &amp; Consoles">Video Games &amp; Consoles</a></li>
+				</ul>
+				<ul class="colThree">
+					<li class="mm_subheader">Filter by Price</li>					
+					<li><a href="http://www.bbcshop.com/toys+games/all-toys+games/icat/all-toys-and-games#esp_cf=sys_price&amp;esp_filter_sys_price=0%3A20" title="Toys Up to £20">Up to £20</a></li>
+					<li><a href="http://www.bbcshop.com/toys+games/all-toys+games/icat/all-toys-and-games#esp_cf=sys_price&amp;esp_filter_sys_price=0%3A30" title="Toys Up to £30">Up to £30</a></li>
+					<li><a href="http://www.bbcshop.com/toys+games/all-toys+games/icat/all-toys-and-games#esp_cf=sys_price&amp;esp_filter_sys_price=0%3A40" title="Toys Up to £40">Up to £40</a></li>
+					<li><a href="http://www.bbcshop.com/toys+games/all-toys+games/icat/all-toys-and-games#esp_cf=sys_price&amp;esp_filter_sys_price=0%3A50" title="Toys Up to £50">Up to £50</a></li>
+					<li><a href="http://www.bbcshop.com/toys+games/all-toys+games/icat/all-toys-and-games#esp_cf=sys_price&amp;esp_filter_sys_price=50%3A99999" title="Toys Over £50">Over £50</a></li>
+                </ul>
+				<ul class="colFour">
+					<li>&nbsp;</li>
+				</ul>
+       </div>
+     </div>
+   </li>
+   <li id="navclothing" class="nav-clothing has-dropdown"><i class="icon-caret-right hide-for-desktop"></i>
+      <a href="http://www.bbcshop.com/clothing/icat/clothing" id="mm_icatclothing" title="Clothing">Clothing</a>
+		<div class="js-mm-sub">
+			<div class="js-mm-row">
+				<ul class="colOne">
+				  <li class="mm_subheader"><a href="http://www.bbcshop.com/clothing/womens-clothing/icat/womens-clothing" title="Women's Clothing">All Women's Clothing</a></li>
+				  <li><a href="http://www.bbcshop.com/clothing/womens-tops/icat/womens-tops" title="Women's Tops">Women's Tops</a></li>
+				  <li><a href="http://www.bbcshop.com/clothing/womens-clothing/icat/womens-clothing#esp_cf=sys_price&amp;esp_filter_sys_price=0%3A40" title="Women's Clothing">Women's Clothing up to £40</a></li>
+				  <li><a href="http://www.bbcshop.com/clothing/womens-clothing/icat/womens-clothing#esp_cf=sys_price&amp;esp_filter_sys_price=40%3A9999" title="Women's Clothing £40 and up">Women's Clothing £40 and Up</a></li>
+				  <li class="mm_subheader"><a href="http://www.bbcshop.com/clothing/childrens-clothing/icat/childrens-clothing" title="Children's Clothing">All Children's Clothing</a></li>
+				  <li><a href="http://www.bbcshop.com/clothing/childrens-tops/icat/childrens-tops" title="Children's Tops">Children's Tops</a></li>
+				  <li><a href="http://www.bbcshop.com/clothing/childrens-coats+jackets/icat/childrens-coats-jackets" title="Children's Coats &amp; Jackets">Children's Coats &amp; Jackets</a></li>
+				  <li><a href="http://www.bbcshop.com/clothing/childrens-clothing/icat/childrens-clothing#esp_cf=sys_price&amp;esp_filter_sys_price=40%3A999" title="Children's Clothing £40 and Up">Children's Clothing £40 and Up</a></li>          
+				</ul>
+				<ul class="colTwo">
+				  <li class="mm_subheader"><a href="http://www.bbcshop.com/clothing/mens-clothing/icat/mens-clothing" title="Men's Clothing">All Men's Clothing</a></li>
+				  <li><a href="http://www.bbcshop.com/clothing/mens-tops/icat/mens-tops" title="Men's Tops">Men's Tops</a></li>
+				  <li><a href="http://www.bbcshop.com/clothing/mens-coats+jackets/icat/mens-coats-jackets" title="Men's Coats &amp; Jackets">Men's Coats &amp; Jackets</a></li>
+				  <li><a href="http://www.bbcshop.com/clothing/mens-leisure-wear/icat/mens-leisure-wear" title="Men's Leisure Wear">Men's Leisure Wear</a></li>
+				  <li class="mm_subheader"><a href="http://www.bbcshop.com/clothing/unisex-clothing/icat/unisex-clothing" title="Unisex Clothing">All Unisex Clothing</a></li>
+				  <li><a href="http://www.bbcshop.com/clothing/unisex-tops/icat/unisex-tops" title="Unisex Tops">Unisex Tops</a></li>
+				  <li><a href="http://www.bbcshop.com/clothing/unisex-clothing/icat/unisex-clothing#esp_cf=sys_price&amp;esp_filter_sys_price=0%3A40" title="Unisex Clothing up to £40">Unisex Clothing up to £40</a></li>
+				  <li><a href="http://www.bbcshop.com/clothing/unisex-clothing/icat/unisex-clothing#esp_cf=sys_price&amp;esp_filter_sys_price=40%3A999" title="Unisex Clothing £40 and up">Unisex Clothing £40 and Up</a></li>             
+				</ul>
+				<ul class="colThree">
+				  <li class="mm_subheader">Others</li>
+				  <li><a href="http://www.bbcshop.com/clothing/bags+packs/icat/bags-and-packs" title="Bags &amp; Packs">Bags &amp; Packs</a></li>
+				  <li><a href="http://www.bbcshop.com/clothing/jewellery+accessories/icat/jewellery-accessories" title="Jewellery &amp; Accessories">Jewellery &amp; Accessories</a></li>
+				  <li><a href="http://www.bbcshop.com/clothing/keyrings+wallets/icat/keyrings-wallets" title="Keyrings &amp; Wallets">Keyrings &amp; Wallets</a></li>
+				</ul>
+				<ul class="colFour">
+					<li>&nbsp;</li>
+				</ul>
+		</div>
+    </div>
+  </li>
+
+  <li id="navhomeandgarden" class="nav-homeandgarden has-dropdown"><i class="icon-caret-right hide-for-desktop"></i>
+    <a href="http://www.bbcshop.com/home+garden/icat/home-and-garden" id="mm_icathome-and-garden" title="Home &amp; Garden">Home &amp; Garden</a>
+		<div class="js-mm-sub">
+			<div class="js-mm-row">
+				<ul class="colOne">
+				  <li class="mm_subheader"><a href="http://www.bbcshop.com/home+garden/all-home+garden/icat/all-home-and-garden" title="All Home &amp; Garden">All Home &amp; Garden</a></li>
+				  <li><a href="http://www.bbcshop.com/home+garden/garden+outdoor/icat/garden-and-outdoor" title="Garden &amp; Outdoor">Garden &amp; Outdoor</a></li>
+				  <li><a href="http://www.bbcshop.com/home+garden/health+beauty/icat/health-and-beauty" title="Health &amp; Beauty">Health &amp; Beauty</a></li>
+				  <li><a href="http://www.bbcshop.com/home+garden/home-entertainment/icat/home-entertainment" title="Home Entertainment &amp; Technology">Home Entertainment &amp; Technology</a></li>
+				</ul>
+				<ul class="colTwo">
+				  <li><a href="http://www.bbcshop.com/home+garden/home-furnishings/icat/home-furnishings" title="Home Furnishings">Home Furnishings</a></li>          
+				  <li><a href="http://www.bbcshop.com/home+garden/kitchen+dining/icat/kitchen-and-dining" title="Kitchen &amp; Dining">Kitchen &amp; Dining</a></li>
+				  <li><a href="http://www.bbcshop.com/home+garden/posters+prints/icat/posters-and-prints" title="Posters &amp; Prints">Posters &amp; Prints</a></li>
+				  <li><a href="http://www.bbcshop.com/home+garden/calendars+stationary/icat/calendars-stationary" title="Calendars, Diaries &amp; Stationary">Calendars, Diaries &amp; Stationary</a></li>
+				</ul>
+				<ul class="colThree">
+				  <li class="mm_subheader">Filter by Price</li>
+				  <li><a href="http://www.bbcshop.com/home+garden/all-home+garden/icat/all-home-and-garden#esp_cf=sys_price&amp;esp_filter_sys_price=0%3A20" title="All Home &amp; Garden Up to £20">Up to £20</a></li>
+				  <li><a href="http://www.bbcshop.com/home+garden/all-home+garden/icat/all-home-and-garden#esp_cf=sys_price&amp;esp_filter_sys_price=0%3A30" title="All Home &amp; Garden Up to £30">Up to £30</a></li>
+				  <li><a href="http://www.bbcshop.com/home+garden/all-home+garden/icat/all-home-and-garden#esp_cf=sys_price&amp;esp_filter_sys_price=0%3A40" title="All Home &amp; Garden Up to £40">Up to £40</a></li>
+				  <li><a href="http://www.bbcshop.com/home+garden/all-home+garden/icat/all-home-and-garden#esp_cf=sys_price&amp;esp_filter_sys_price=40%3A99999" title="All Home &amp; Garden over £40">£40 and Over</a></li>
+				</ul>
+				<ul class="colFour">
+					<li>&nbsp;</li>
+				</ul>
+			</div>
+		</div>
+  </li>
+  <li><i class="icon-caret-right hide-for-desktop"></i>
+    <a href="http://www.bbcshop.com/page/bbcshopblog" class="nosep" title"bbc="" shop="" blog"="">Blog</a></li>
 </ul>
 
 		<h5 class="nav-header show-for-tablet">
@@ -809,7 +883,7 @@ $(document).ready(function(){
 
 <div id="nav-message" class="pad">
 	<img class="left" src="http://www.bbcshop.com/content/ebiz/bbc/resources/images/bbc-truck.png" width="66" height="42">
-	<span class="nav-message-content text-center"><strong>FREE UK DELIVERY ( 3 TO 5 WORKING DAYS )</strong><br>The promotion will be applied automatically at checkout </span>
+	<span class="nav-message-content text-center"><strong>FREE UK DELIVERY ( 3 TO 6 WORKING DAYS )</strong><br>The promotion will be applied automatically at checkout </span>
 </div>
 		</div>
 	</nav>
@@ -819,7 +893,9 @@ $(document).ready(function(){
 	,
 	
 	</div>
-
+	<div class="nav row large-collapse" id="fullWidthDelMessage">
+		<p>FREE UK DELIVERY ON EVERYTHING</p>
+	</div>
 	
 	
 	
@@ -891,8 +967,6 @@ $(document).ready(function(){
 
 <li id="navcurrencies" class="nav-currencies"><a href="http://www.bbcshop.com/payment-pricing+promotions/currencies-accepted/page/currencies">Currencies Accepted</a></li>
 
-<li id="navvisamastercard" class="nav-visamastercard"><a href="http://www.bbcshop.com/payment-pricing+promotions/verified-by-visa+mastercard/page/visamastercard">Verified By Visa &amp; Mastercard</a></li>
-
 <li id="navvat" class="nav-vat"><a href="http://www.bbcshop.com/payment-pricing+promotions/vat/page/vat">VAT</a></li>
 
 <li id="navgiftwrapmessage" class="nav-giftwrapmessage"><a href="http://www.bbcshop.com/payment-pricing+promotions/gift-wrap+messaging/page/giftwrapmessage">Gift Wrap &amp; Messaging</a></li>
@@ -931,9 +1005,7 @@ $(document).ready(function(){
 
 <li id="navproductrange" class="nav-productrange"><a href="http://www.bbcshop.com/products/product-range/page/productrange">Product Range</a></li>
 
-<li id="navavalibility" class="nav-avalibility"><a href="http://www.bbcshop.com/products/avalibility/page/avalibility">Avalibility</a></li>
-
-<li id="navdvdinfo" class="nav-dvdinfo"><a href="http://www.bbcshop.com/products/dvd-information/page/dvdinfo">DVD Information</a></li>
+<li id="navavalibility" class="nav-avalibility"><a href="http://www.bbcshop.com/products/availability/page/avalibility">Availability</a></li>
 
 <li id="navregionalinfo" class="nav-regionalinfo"><a href="http://www.bbcshop.com/products/dvd+blu-ray-regions/page/regionalinfo">DVD &amp; Blu-ray Regions</a></li>
 
@@ -1022,10 +1094,7 @@ $(document).ready(function(){
 
             <section id="content" role="main" class="help js-column main">
                 <a name="skiptocontent" id="skiptocontent"></a>
-                
-
-
-<div class="main-header thickpad-left">
+                <div class="main-header thickpad-left">
 				<h1 class="help-header">Privacy Policy &amp; Cookies Policy</h1>
 			</div>
 			<div class="help-body page-category thickpad-left" rel="privacyandsecurity">
@@ -1036,8 +1105,7 @@ $(document).ready(function(){
 <br><br><br>
 
 
-
-<h1>PRIVACT AT BBC WORLDWIDE</h1><br>
+<h1>PRIVACY AT BBC WORLDWIDE</h1><br>
 
 <p>BBC Worldwide Limited (BBCW) is the main commercial arm and a wholly owned subsidiary of the British Broadcasting Corporation (BBC). It is a UK based company operating in countries around the world through its subsidiaries. The information in these pages relate to the privacy practices of the companies in the BBC Worldwide group, (herein referred to as “BBCW”, “we”, “our” or “us”). </p> 
 <p>BBCW respects your right to privacy and we take our related legal obligations seriously. We aim to be transparent at all times about our treatment of your information. You can read the full policy below for details about how your information will be used, when it may be disclosed to others and your rights in relation to the information we hold. If you find reading a policy a bit daunting or if you just want a quick snapshot of our approach then we suggest you start with <i>Our Promise</i>. </p>
@@ -1050,7 +1118,7 @@ $(document).ready(function(){
 <p>1. We will comply with applicable privacy and data protection laws and regulatory frameworks.</p>
 <p>2. We will only use your personal information to supply, improve and manage our services. Any additional or unusual uses of your information will be explained at the point of collection. </p>
 <p>3. We will only send you marketing emails if you have permitted us to (and you will be given the opportunity to unsubscribe in each of our emails). </p>
-<p>4. We will enable you to opt-out of usage tracking where possible; we track your use of our services to help us to tailor our content and advertising and to improve our services. We will not use information that identifies you personally but if you prefer, you may opt-out <a href="http://www.bbcshop.com/terms+conditions-security+privacy/cookies-policy/page/cookies">here</a></p>
+<p>4. We will enable you to opt-out of usage tracking where possible; we track your use of our services to help us to tailor our content and advertising and to improve our services. We will not use information that identifies you personally but if you prefer, you may opt-out <a href="#YOURCHOICESMANAGINGCOOKIESANDOPTINGOUT"> here</a>.</p>
 <p>5. We will not share personally identifiable information with unrelated third parties for their own use without your consent. We may share your information within our group of companies so that we can provide you with the best customer experience across our brands. </p>
 <p>6. We will take appropriate steps to safeguard your information in accordance with industry standards but please keep in mind that no system can be guaranteed as 100% secure. </p>
 <p>7. We will only keep your information for as long as we need it: (i) to provide you with a product/service; (ii) to improve our services; and (iii) for legal and audit purposes. </p>
@@ -1074,11 +1142,11 @@ $(document).ready(function(){
 <p><a href="#YOURRIGHTSANDCHOICES">9. YOUR RIGHTS &amp; CHOICES </a> </p>
 <p><a href="#CHANGESTOTHISPRIVACYPOLICY">10. CHANGES TO THIS PRIVACY POLICY </a></p>
 <p><a href="#CONTACTUS"> 11. CONTACT US </a></p>
-<p>If you have any questions or comments about this policy or our approach to privacy please contact us at: : <a href="mailto:dataprotection@bbc.com">BBC Data protection</a> We aim to reply to any queries within three working days. </p>
+<p>If you have any questions or comments about this policy or our approach to privacy please contact us at: <a href="mailto:dataprotection@bbc.com">BBC Data Protection</a> We aim to reply to any queries within three working days. </p>
 <p></p>
 <h2><a name="SCOPEOFTHISPOLICYANDYOURCONSENT"></a> 1. Scope of this policy and your consent</h2>
-<p>This policy governs our processing of your information in relation to the products and services we supply to you. In addition to this policy, we operate policies relating to our use of <a href="http://www.bbcworldwide.com/cookies.aspx">Cookies </a> (Tracking Technologies). <a href="http://www.bbcshop.com/terms+conditions-security+privacy/cookies-policy/page/cookies">Cookies Policy</a></p> and the provision of our services via <a href="http://www.bbcworldwide.com/privacy/mobile-apps.aspx">Mobile Applications</a> (“Mobile Apps”). The practices set out in those policies are governed by this overarching policy.<p></p>
-<p>Please be aware that we also license our brands and content to other companies who may produce their own websites, events and digital content. We take reasonable steps to ensure that these companies clearly identify themselves and handle your information appropriately. However, when you use any service which is operated by a third party, the use of your information will be subject to their privacy policy and not ours. If you have any concerns, please contact us at: <a href="mailto:dataprotection@bbc.com">BBC Data protection </a>  Your use of our services constitutes your consent to the processing of your information described herein.</p>
+<p>This policy governs our processing of your information in relation to the products and services we supply to you. In addition to this policy, we operate policies relating to our use of <a href="http://www.bbcworldwide.com/cookies.aspx">Cookies (Tracking Technologies)</a> and the provision of our services via <a href="http://www.bbcworldwide.com/privacy/mobile-apps.aspx">Mobile Applications</a> (“Mobile Apps”). The practices set out in those policies are governed by this overarching policy.</p>
+<p>Please be aware that we also license our brands and content to other companies who may produce their own websites, events and digital content. We take reasonable steps to ensure that these companies clearly identify themselves and handle your information appropriately. However, when you use any service which is operated by a third party, the use of your information will be subject to their privacy policy and not ours. If you have any concerns, please contact us at: <a href="mailto:dataprotection@bbc.com">BBC Data Protection </a>. Your use of our services constitutes your consent to the processing of your information described herein.</p>
 
 <br><br><a href="#top">Back To Top</a><br><br>
 
@@ -1091,31 +1159,31 @@ $(document).ready(function(){
 <i>Information collected automatically during your use of our services: </i>
 <p>When you use our services we automatically record information about your usage of those services, your interaction with our adverts and our emails as well as information about the device you are using and your internet connection. We do this in two ways: </p>
 <p>Log data: When you use our services, certain information gets recorded in our log files such as your device’s Internet Protocol (IP) Address, its unique ID, its operating system and location, and your browser type, the pages you viewed, cookie information and referral links (the link that sent you to a particular page). </p>
-<p>Tracking technologies (cookies): In conjunction with our log data we may use tracking technologies such as tags on our web pages and small data files which we store on your device (known as “cookies”). These technologies enable us to recognise your device and to track your interaction with our services, emails and adverts. We do not use these technologies to identify you and we do not intentionally collect or record personally identifiable information through these technologies. See our <a href="http://www.bbcshop.com/terms+conditions-security+privacy/cookies-policy/page/cookies">cookies policy</a></p>
+<p>Tracking technologies (cookies): In conjunction with our log data we may use tracking technologies such as tags on our web pages and small data files which we store on your device (known as “cookies”). These technologies enable us to recognise your device and to track your interaction with our services, emails and adverts. We do not use these technologies to identify you and we do not intentionally collect or record personally identifiable information through these technologies. See our <a href="#cookiespolicy">cookies policy</a>.</p>
 <i>Information collected via social media and other third parties:</i>
 <p>When you choose to participate in or receive a service from us via social media, for example by entering a competition or playing a game on our social pages, we may collect information from you directly or the social network may share with us personal information about you. This can consist of information such as your name, profile picture, gender, e-mail address and date of birth. Please keep in mind that any information provided to us via a third party may also be subject to that third party’s privacy policy.</p>
 <i>Information collected via specialist data companies: </i>
-<p>We sometimes use specialist data companies to provide us with information they hold about you to enable us to better tailor our advertising. For example, we might use anonymous information about your browsing on other sites to enable us to infer your interests and to put you into appropriate “market segments”. This information is not used to identify you as a person and we do not attempt to combine it with personally identifying information that we may hold. See our <a href="http://www.bbcshop.com/terms+conditions-security+privacy/cookies-policy/page/cookies">cookies policy</a></p>
+<p>We sometimes use specialist data companies to provide us with information they hold about you to enable us to better tailor our advertising. For example, we might use anonymous information about your browsing on other sites to enable us to infer your interests and to put you into appropriate “market segments”. This information is not used to identify you as a person and we do not attempt to combine it with personally identifying information that we may hold. See our <a href="#cookiespolicy">cookies policy</a>.</p>
 
 <br><br><a href="#top">Back To Top</a><br><br>
 
 <p></p>
 <h2><a name="HOWWEUSEYOURINFORMATION"></a> 3. How we use your information</h2>
 <p>We will use your information: (i) to deliver, improve and personalise our services to you in accordance with your preferences: and (ii) for our own legitimate business purposes and needs. Specifically, we may use your information to:</p>
-<p>fulfil your product orders or to provide the service or information you have requested; </p><p>
-</p><p>administer your account(s); </p>
-<p>send you service related communications; </p>
-<p>manage our competitions (including publishing the names of winners where required); </p>
-<p>respond to your requests and feedback; </p>
-<p>contact you about a submission you have made to our online services (refer to our Code of Conduct); </p>
-<p>analyse and/or improve our services; </p>
-<p>personalise the way BBCW content is presented to you online; </p>
-<p>deliver interest-based advertising based upon your browsing of our websites and others (find out more about our advertising and how to opt-out <a href="http://www.bbcshop.com/terms+conditions-security+privacy/cookies-policy/page/cookies">here</a></p>
-<p>prevent fraud or other potentially illegal activities (including copyright infringement); </p>
-<p>block disruptive users and protect the safety of users of our services; </p>
-<p>enforce our terms of service; </p>
-<p>send you newsletters, offers and promotions relating to our brands and services and special promotions from our trusted partners in accordance with your email preferences; and</p>
-<p>manage our email suppression list. </p>
+<p>- fulfil your product orders or to provide the service or information you have requested; </p>
+<p>- administer your account(s);</p>
+<p>- send you service related communications;</p>
+<p>- manage our competitions (including publishing the names of winners where required);</p>
+<p>- respond to your requests and feedback;</p>
+<p>- contact you about a submission you have made to our online services (refer to our Code of Conduct);</p>
+<p>- analyse and/or improve our services;</p>
+<p>- personalise the way BBCW content is presented to you online;</p>
+<p>- deliver interest-based advertising based upon your browsing of our websites and others (find out more about our advertising and how to opt-out <a href="#ADVERTISINGONOURSERVICES">here</a>;</p>
+<p>- prevent fraud or other potentially illegal activities (including copyright infringement);</p>
+<p>- block disruptive users and protect the safety of users of our services;</p>
+<p>- enforce our terms of service;</p>
+<p>- send you newsletters, offers and promotions relating to our brands and services and special promotions from our trusted partners in accordance with your email preferences; and</p>
+<p>- manage our email suppression list.</p>
 <p>Where BBCW proposes using your personal information for any other uses we will ensure that we notify you first. You will also be given the opportunity to withhold or withdraw your consent for your use other than as listed above.</p><p>
 
 <br><br><a href="#top">Back To Top</a><br><br>
@@ -1151,7 +1219,7 @@ $(document).ready(function(){
 <p></p>
 <h2><a name="CHILDRENUSINGOURSERVICES"></a> 7. Children using our services</h2>
 <p>Except where otherwise indicated, we do not knowingly collect or store any personal information from children under the age of 13. If you are aged 12 or under, we request that you do not provide us with information relating to you or to others. Please seek the guidance of your parent or guardian before using our services. </p>
-<p>If you are the parent or guardian of a child who is aged under 13 and you become aware that your child has provided us with information without your consent, please contact us at <a href="mailto:dataprotection@bbc.com">BBC Data protection </a> We will delete such information from our records within a reasonable time. </p>
+<p>If you are the parent or guardian of a child who is aged under 13 and you become aware that your child has provided us with information without your consent, please contact us at: <a href="mailto:dataprotection@bbc.com">BBC Data Protection </a> We will delete such information from our records within a reasonable time. </p>
 <i>Older children</i>
 <p>Depending on the service, we may also seek to obtain the consent of your parent or guardian if you are under the age of 16. Further, we only send commercial marketing communications to individuals aged 16 or over.</p>
 <p>If appropriate, we will take steps to determine the age of persons submitting their information to us.</p>
@@ -1173,7 +1241,7 @@ $(document).ready(function(){
 <p>If you wish to stop receiving marketing communications from us then please click on the “unsubscribe” link at the bottom of the relevant newsletter. Please note that this will not unsubscribe you from all communications, only the newsletter in the question and as such you will need to perform this action for each of the newsletters you are subscribed to. If you wish to opt-out completely then please contact us at using the details provided below. Please note that you cannot unsubscribe from some service related messages.</p>
 <p>In accordance with industry standards, we reserve the right to retain your record for a reasonable amount of time so we can ensure that we do not contact you in the future.</p>
 <i>Advertising and Tracking Technologies</i>
-<p>If you wish to opt-out of interest-based advertising or other forms of “tracking” please refer to our <a href="http://www.bbcshop.com/terms+conditions-security+privacy/cookies-policy/page/cookies">cookies policy</a></p>.Be aware that opting out of interest-based advertising will not prevent adverts from being displayed to you but they will no longer be tailored to your interests.<p></p>
+<p>If you wish to opt-out of interest-based advertising or other forms of “tracking” please refer to our <a href="#cookiespolicy">cookies policy</a>. Be aware that opting out of interest-based advertising will not prevent adverts from being displayed to you but they will no longer be tailored to your interests.</p>
 <i>Access and Correction</i>
 <p>If you would like to know what information we hold about you, you may submit a request to us by using the contact details below. We will use reasonable efforts to supply, correct or delete personal information about you on our files within a reasonable time or as required by law.</p>
 <p>Some requests may be subject to a small fee and, to protect your privacy, we will require you to prove your identity before granting access to your personal information. </p>
@@ -1197,7 +1265,7 @@ MC2 A6, Media Centre<br>
 201 Wood Lane<br>
 London<br>
 W12 7TQ<br></p>
-<p>Email us at <a href="mailto:dataprotection@bbc.com">BBC Data protection </a></p>
+<p>Email us at <a href="mailto:dataprotection@bbc.com">BBC Data Protection </a></p>
 <br><br>
 
 <br><br><a href="#top">Back To Top</a><br><br>
@@ -1460,6 +1528,17 @@ DNT is a feature offered by some browsers which, when enabled, sends a signal to
 </div>
 
 <div id="vModal" class="reveal-modal xlarge"><div class="js-modalContent"></div><a class="close-reveal-modal">×</a></div>
+
+<div id="regionPopupNotify" class="reveal-modal medium">
+  <h2>You are about to change regions!</h2>
+  <p>We have regional websites with unique products and currencies, however you will need to create a separate account for each website.</p>
+  <a class="nothanks button secondary close-reveal-modal">No thanks</a>
+  <a class="switch button">Switch</a>
+  <a class="close-reveal-modal">×</a>
+</div>
+
+<div class="reveal-modal-bg-white-switch" style="display: none;"></div>
+
         </footer>
 
         <div class="offCanvasLeftMenu show-for-small">
@@ -1468,8 +1547,7 @@ DNT is a feature offered by some browsers which, when enabled, sends a signal to
 <nav role="navigation" class="off-canvas-mainnav">
 <ul data-tracknav="Off Canvas Navigation">
 <li class="first js-canvas-left"><i class="icon-remove"></i>Browse</li>
-<li><a href="http://www.bbcshop.com/dvd/icat/dvd">DVD<i class="icon-caret-right"></i></a></li>
-<li><a href="http://www.bbcshop.com/blu-ray/icat/bluray">Blu-Ray<i class="icon-caret-right"></i></a></li>
+<li><a href="http://www.bbcshop.com/dvd/icat/dvd">DVD &amp; Blu-ray<i class="icon-caret-right"></i></a></li>
 <li><a href="http://www.bbcshop.com/audio/icat/audio">Audio<i class="icon-caret-right"></i></a></li>
 <li><a href="http://www.bbcshop.com/books/icat/books">Books<i class="icon-caret-right"></i></a></li>
 <li><a href="http://www.bbcshop.com/childrens/icat/childrens">Children's<i class="icon-caret-right"></i></a></li>
@@ -1477,6 +1555,10 @@ DNT is a feature offered by some browsers which, when enabled, sends a signal to
 <li><a href="http://www.bbcshop.com/category/doctor-who/icat/doctorwho">Doctor Who<i class="icon-caret-right"></i></a></li>
 <li><a href="http://www.bbcshop.com/gifts/icat/gifts">Gifts<i class="icon-caret-right"></i></a></li>
 <li><a href="http://www.bbcshop.com/music/icat/music">Music<i class="icon-caret-right"></i></a></li>
+<li><a href="http://www.bbcshop.com/toys+games/all-toys+games/icat/all-toys-and-games">Toys &amp; Games<i class="icon-caret-right"></i></a></li>
+<li><a href="http://www.bbcshop.com/clothing/all-clothing/icat/all-clothing">Clothing<i class="icon-caret-right"></i></a></li>
+<li><a href="http://www.bbcshop.com/home+garden/all-home+garden/icat/all-home-and-garden">Home &amp; Garden<i class="icon-caret-right"></i></a></li>
+
 </ul>
 </nav>
 
@@ -1531,7 +1613,7 @@ DNT is a feature offered by some browsers which, when enabled, sends a signal to
 <div id="tag-validation_credit_card_name" style="display:none;">Please enter the name as it appears on the card</div>
 <div id="tag-validation_security_code_length" style="display:none;">Security codes must be 3 or 4 digits long</div>
 <div id="tag-validation_credit_card_expired" style="display:none;">Please enter a valid expiry date</div>
-<div id="tag-validation_datenow" style="display:none;">11/21/2014</div>
+<div id="tag-validation_datenow" style="display:none;">06/10/2015</div>
 <div id="tag-validation_giftcert_code" style="display:none;">Please enter a gift certificate code</div>
 <div id="tag-validation_promo_code" style="display:none;">Please enter a promotion code</div>
 <div id="tag-validation_search" style="display:none;">Please enter a search query</div>
@@ -1565,7 +1647,7 @@ DNT is a feature offered by some browsers which, when enabled, sends a signal to
     
 
 <script src="http://www.bbcshop.com/content/ebiz/bbc/resources/js/external/cloudzoom.js"></script>
-<script src="http://www.bbcshop.com/content/ebiz/bbc/resources/js/minified/215aed967602bfd10b990506770ecad4.js?1416473711"></script>
+<script src="http://www.bbcshop.com/content/ebiz/bbc/resources/js/minified/215aed967602bfd10b990506770ecad4.js?1433758965"></script>
 
 
 <script>
@@ -1604,7 +1686,7 @@ DNT is a feature offered by some browsers which, when enabled, sends a signal to
 <!-- FSM global script tags START -->
 
 	<!-- FSM live -->
-    <script type="text/javascript" src="//esp.locayta.com/zones/6a2de6a8-f7d8-4f78-9be8-557d8081f7e6.js"></script>    
+    <script type="text/javascript" src="//fsm.attraqt.com/zones/6a2de6a8-f7d8-4f78-9be8-557d8081f7e6.js"></script>    
 
 
 
