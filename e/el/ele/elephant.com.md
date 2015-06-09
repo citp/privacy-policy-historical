@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the elephant.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207050415id_/http%3A//www.elephant.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elephant.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609065009id_/http%3A//www.elephant.com/privacy) for the most accurate reproduction.*
 
 # Elephant Auto Insurance | Privacy & Security
 
-Elephant Insurance Company (Elephant) collects customer information to help us to serve you better. We are committed to protecting your privacy by maintaining and using this information responsibly. This Privacy Policy describes the types of information we collect, the use and disclosure of personal information we collect, as well as how we protect that information. By visiting our website or providing your information to us, you are accepting the practices described in this Privacy Policy. 
+Elephant Insurance Company (Elephant) collects customer information to help us to serve you better. We are committed to protecting your privacy by maintaining and using this information responsibly. This Privacy Policy describes the types of information we collect, the use and disclosure of personal information we collect, as well as how we protect that information. By visiting our website or providing your information to us, you are accepting the practices described in this Privacy Policy. By providing your telephone number, you authorize Elephant and its representatives to contact you at that number regarding the sale of insurance products and services. You agree that you may be contacted in person, by recorded message or by the use of automated dialing equipment. You are not required to provide your telephone number to receive a quote.
 
 #### What information do you collect about me?
 
@@ -88,6 +88,12 @@ We also use website information to analyze use of our website. Information that 
 We may use advertising companies to display our ads on other websites. These companies may use non-personally identifiable information about your visits to websites. In addition, we may share website usage information with these companies to manage advertisements, or for market research purposes.
 
 You can choose to have your browser warn you each time a cookie is delivered to it, or you can choose to reject all cookies delivered through your browser. However, if you choose to reject cookies, features that make your web experience run more smoothly may not be available.
+
+#### Review of anonymous data from Google Analytics
+
+We are committed to ensuring that our website contains content that is valuable and useful to our customers and potential customers who visit. To assist us in this, we have implemented the Google analytics demographics and interest reporting features on our website. These tools allow us to review anonymous data regarding the gender, age, and interests of website visitors and adapt our website content to better reflect their needs. Although this information is collected through your Google ad settings, it is not provided to us in a personally-identifiable format. This means we cannot identify what information is about you, and we will not try to figure it out.
+
+You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Google Ad settings](https://www.google.ca/settings/ads) or through the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
 
 #### Links to other websites
 
