@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wiziq.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205120916id_/https%3A//www.wiziq.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiziq.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610001411id_/https%3A//www.wiziq.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Your privacy is our top concern
-
-Last revised on May 05, 2014
 
 Introduction 
 
@@ -82,7 +80,7 @@ It is possible that we may need to disclose personal information when required b
 
 5\. Accessing and Changing Your Account Information
 
-You can review the personal information you provided us and make any desired changes to the information, or to the settings for your WizIQ account any time by logging into your account on the WizIQ website and editing the information on your Profile page. You can also close your account on the WizIQ website. If you close your WizIQ account, we will remove your name and other personally identifiable information from our publicly viewable data. We may retain certain data contributed by you if it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained data will continue to be subject to the terms of the WizIQ Privacy Policy that you have previously agreed to. To request that we close your account and remove your information from the WizIQ service, please send your request to [support@wiziq.com](mailto:support@wiziq.com). Please send your request using an email account that you have registered with WizIQ under your name. You will receive a response to requests sent to [support@wiziq.com](mailto:support@wiziq.com) within three business days of our receiving it. 
+You can review the personal information you provided us and make any desired changes to the information, or to the settings for your WizIQ account any time by logging into your account on the WizIQ website and editing the information on your Profile page. You can also close your account on the WizIQ website. If you close your WizIQ account, we will remove your name and other personally identifiable information from our publicly viewable data. We may retain certain data contributed by you if it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained data will continue to be subject to the terms of the WizIQ Privacy Policy that you have previously agreed to. To request that we close your account and remove your information from the WizIQ service, please send your request to [support@wiziq.com](mailto:support@wiziq.com). Please send your request using an email account that you have registered with WizIQ under your name. You will receive a response to requests sent to [support@wiziq.com](mailto:support@wiziq.com)within three business days of our receiving it. 
 
 6\. Security
 
@@ -100,19 +98,25 @@ Children can only use our services under the supervision of their parents/legal 
 
 If you have any questions about the Privacy Policy, contact us at: 
 
-**WizIQ Inc.**   
+WizIQ Inc.   
 1101 Pemberton Hill Rd, Suite 101  
 Apex, NC 27502   
 U.S.A.  
-Phone: +1-919-647-4727│Fax: +91-988-299-17  
-1-800-567-8059 (Toll Free) **authorGEN Technologies Pvt. Ltd.**   
-C-133, Second Floor   
+Phone: +1-919-647-4727â”‚Fax: +91-988-299-17  
+1-800-567-8059 (Toll Free) **Registered Office:**  
+authorGEN Technologies Pvt. Ltd.   
+C-133, Fourth Floor   
 Industrial Area, Phase – VIII   
 Mohali, Punjab – 160071   
 India   
 Phone: +91-970-120-5262  
 1-800-3000-1771 (Toll Free)  
 Tel/Fax: +91.172.501.3134-35  
-
+**Corporate Office:**  
+authorGEN Technologies Pvt. Ltd.  
+#1, Unitech Trade Centre, Sushant Lok,  
+Sector 43 Opposite Park Plaza,  
+Gurgaon – 122002, Haryana  
+India 
 
 Email: [support@wiziq.com](mailto:support@wiziq.com)Website: [www.wiziq.com](http://www.wiziq.com/)
