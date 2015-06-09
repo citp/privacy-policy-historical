@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extendoffice.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094742id_/http%3A//www.extendoffice.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extendoffice.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610002650id_/http%3A//www.extendoffice.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ We collect your personal information because it helps us deliver a superior leve
 
 
 
- **RegNow**
+**RegNow**
 
 RegNow is the software industry’s premier registration commerce provider. ExtendOffice uses RegNow to provide you with very secure and fast online purchase.
 
