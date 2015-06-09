@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncixus.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130155809id_/http%3A//www.ncixus.com/go/%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncixus.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610011725id_/http%3A//www.ncixus.com/go/%3Fprivacy) for the most accurate reproduction.*
 
 # NCIXUS.com - Buy Computers, Computer Parts, Laptops, World's Leading Discount Computer Store
 
@@ -30,7 +30,7 @@ We collect your user name, password, e-mail address, to protect your account. Yo
 
 **When you subscribe to our e-mail newsletter through our Web site**
 
-We use your e-mail information in connection with your subscription to our e-mail newsletter and other materials only. To manage your e-mail newsletter subscription, [click here](http://www.ncixus.com/go/?newsletter_us). 
+We use your e-mail information in connection with your subscription to our e-mail newsletter and other materials only. To manage your e-mail newsletter subscription, [click here](http://us.ncix.com/go/?newsletter_us). 
 
 **When you submit your e-mail address with NCIX**
 
