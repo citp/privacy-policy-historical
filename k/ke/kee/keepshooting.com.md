@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keepshooting.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124000801id_/http%3A//www.keepshooting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepshooting.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610010905id_/http%3A//www.keepshooting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Keepshooting®
 
