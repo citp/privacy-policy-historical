@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the immunize.org privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209130953id_/http%3A//www.immunize.org/iacadmin/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immunize.org privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609075406id_/http%3A//www.immunize.org/iacadmin/privacy.asp) for the most accurate reproduction.*
 
 # Immunization Action Coalition Privacy Policy
 
-| 
+|  | 
 
 |   
 ---  
