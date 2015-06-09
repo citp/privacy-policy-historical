@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornizer.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222115819id_/http%3A//pornizer.com/pages/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornizer.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235313id_/http%3A//pornizer.com/pages/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,8 +13,9 @@
 
 
 
-[](http://pornizer.com/partner/?bid=203)   
-[](http://pornizer.com/partner/?bid=204)
+Free Porn Videos   
+Free Porn Videos   
+Free Porn Videos 
 
 | 
 
@@ -108,10 +109,8 @@ Should you have any questions or concerns regarding this Privacy Policy, please 
 
 Free Porn Videos
 
-Who is online (474)
-
-[Blackturtle](http://pornizer.com/blackturtle "Blackturtle"), [Hector87](http://pornizer.com/hector87 "Hector87"), [Vberlichingen](http://pornizer.com/vberlichingen "Vberlichingen"), [Pacolls](http://pornizer.com/pacolls "Pacolls"), [Sickmind001](http://pornizer.com/sickmind001 "Sickmind001"), [Bambi56](http://pornizer.com/bambi56 "Bambi56"), [St15](http://pornizer.com/st15 "St15"), [Daruse](http://pornizer.com/daruse "Daruse"), [Q1973q](http://pornizer.com/q1973q "Q1973q"), [Bookman2](http://pornizer.com/bookman2 "Bookman2"), [Dom_luso](http://pornizer.com/dom_luso "Dom_luso"), [Soulrider](http://pornizer.com/soulrider "Soulrider"), [Maciek112](http://pornizer.com/maciek112 "Maciek112")
-
 | 
 
-[](http://pornizer.com/partner/?bid=340)
+[](http://pornizer.com/partner/?bid=225)   
+[](http://pornizer.com/partner/?bid=227)   
+[](http://pornizer.com/partner/?bid=364)
