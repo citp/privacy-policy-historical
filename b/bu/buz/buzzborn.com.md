@@ -1,31 +1,61 @@
-> *The following text is extracted and transformed from the buzzborn.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204200938id_/http%3A//buzzborn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzborn.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609022110id_/http%3A//www.buzzborn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BuzzBorn
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at buzzborn.com@gmail.com.
+This document details important information regarding the use and disclosure of User Data collected on BuzzBorn.com
 
-At BuzzBorn.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by BuzzBorn.com and how it is used.
+The security of your Data is very important to BuzzBorn.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.
 
-**Log Files**  
-Like many other Web sites, BuzzBorn.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+This site expressly and strictly limits its membership and/or viewing privileges to adults 18 years of age and over or having attained the age of majority in their community. All persons who do not meet its criteria are strictly forbidden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority.
 
-**Cookies and Web Beacons  **  
-BuzzBorn.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+DATA COLLECTED
 
-**DoubleClick DART Cookie  **  
-.:: Google, as a third party vendor, uses cookies to serve ads on BuzzBorn.com.  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to BuzzBorn.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+Personal Information:
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
+Non-Registered users can watch videos without registering and without any information being collected and processed. However the visitor’s IP address will be recorded in the event that there is any misappropriation of information and/or content.
 
-_Google Adsense_
+Registered Members: Registration is required for uploading videos, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on BuzzBorn.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+Content Uploaded to the site: Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.
 
-BuzzBorn.com has no access to or control over these cookies that are used by third-party advertisers.
+Cookies: When you visit BuzzBorn.com, we may send one or more cookies to your computer that uniquely identifies your browser session. BuzzBorn.com uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site’s features may not function properly.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. BuzzBorn.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+Log File Information: When you visit BuzzBorn.com, our servers may automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.   
+Emails: If you contact us, we may keep a record of that correspondence.
 
+USES
+
+Your personally identifiable information submitted to BuzzBorn.com is used to provide to the user the website’s features and special personalized features.
+
+Your chosen username (not your email address) is displayed to other Users alongside the content you upload, including videos, comments, at, the messages you send through the BuzzBorn.com private mail, etc. Other Users can contact you through, private messages.
+
+Any videos that you submit to BuzzBorn.com may be redistributed through the internet and other media channels, and may be viewed by the general public.
+
+We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent.
+
+We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of key website changes or for customer service purposes).
+
+OPT-IN AND USER COMMUNICATION – Subscriber’s expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, some offers may be presented to the subscriber via email campaigns or other means of communications with the option to express the subscriber’s preference by either clicking or entering “accept” (alternatively “yes”) or “decline” (alternatively “no”). By selecting or clicking the “accept” or “yes”, the subscriber indicates that the subscriber “OPTS-IN” to that offer and thereby agrees and assents that the subscriber’s personal information, including its email address and data may be used for that matter or disclosed to third-parties.”
+
+OPT-OUT AND USER COMMUNICATION – Subscriber’s expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, other offers may be presented to the subscriber via email campaigns or other means of communications with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. “OPT-OUT” of the offer) then the site may transfer the subscriber’s personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
+
+We analyze aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the BuzzBorn.com user-experience.
+
+DISCLOSURE OF INFORMATION
+
+if under duty to do so BuzzBorn.com may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of BuzzBorn.com or our subscribers or others. This includes exchanging information with other companies and organizations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is BuzzBorn.com’s policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party.
+
+Should you deliberately upload any illegal material BuzzBorn.com shall forward all available information to all relevant authorities and this without notice.
+
+– We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
+
+SECURITY
+
+Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
+
+Unfortunately, the transmission of information via the Internet is not completely secure. BuzzBorn.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to BuzzBorn.com and you do so at your own risk.
+
+YOUR RIGHTS
+
+You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section.
