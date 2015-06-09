@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theawareshow.com privacy policy that was archived on 2014-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140725002747id_/http%3A//theawareshow.com/support1/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theawareshow.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609044810id_/http%3A//theawareshow.com/policies/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Aware Show
+# Privacy Policy | The Aware Show
 
 The personal information collected from this web site may be used for a variety of purposes including identification, registration, authentication, on-line transactions, and marketing. The personal data of customers and web site visitors may be stored indefinitely and may be collected and processed in one or more data bases maintained directly or indirectly by The Website Owner, operator, or their agents. By providing personal information to The Website Owner, operator, or their agents, you agree and understand that The Website Owner, operator, or their agents may access, store and use this information for a variety of purposes including identification, registration, authentication, on-line transactions, and marketing (unless you have opted out of receiving marketing solicitations) in any of the countries in which The Website Owner, operator, or their agents maintain offices, including the United States.
 
