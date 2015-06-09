@@ -1,20 +1,13 @@
-> *The following text is extracted and transformed from the download-free-games.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004094935id_/http%3A//www.download-free-games.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the download-free-games.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609224542id_/http%3A//www.download-free-games.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Download Free Games - Download Free Games
 
 * * *
 
 **Download Free Games (DFG) Privacy Policy**  
-Updated June 3, 2014
+Updated Feb 23, 2015
 
 DFG's Privacy Policy has been modeled after privacy expert eTrust (www.etrust.org) guidelines and on recommendations made public by the United States Federal Trade Commission (FTC - <http://www.ftc.gov/privacy/>) and the Children's Online Privacy Protection Act (COPPA - <http://www.ftc.gov/privacy/privacyinitiatives/childrens.html>).
-
-Download Free Games can be contacted via mail at:
-
-Alpha Internet Consulting LLC  
-ATTN: Download Free Games  
-3009 S. Mt. Vernon, Box 3  
-Spokane, WA 99223
 
 Questions about this privacy policy should be sent to [privacy@download-free-games.com](mailto:privacy@download-free-games.com)
 
@@ -63,9 +56,6 @@ Our third party order processors use this information for billing purposes and t
 DFG partners with several third party order processors & content providers to bring our users the best selection possible. All orders are done securely through our third party processors. Here are links to their privacy policies:
 
   * BMT Micro - <https://vendors.bmtmicro.net/newdevelopers/privacystatement.html>
-  * RegNow - <http://www.regnow.com/privacy.html>
-  * Plimus - <http://www.plimus.com/privacy.shtml>
-  * Jagex - <http://www.jagex.com/corporate/privacy.ws>
   * Big Fish Games - <http://www.bigfishgames.com/company/privacy.html>
 
 
@@ -86,9 +76,7 @@ For each visitor to our Web page, our Web server automatically recognizes only t
 
 A "cookie" is a small piece of information sent by a web server to store on a web browser so it can later be read back from that browser.
 
-Cookies are used on many download links to track referrals from this site. All full version purchases made from these downloads are then credited to Download Free Games from software developer partners on a revenue sharing basis. At this time, Download Free Games does not set any cookies itself. Cookies may also be used by our third party ad server companies Tribal Fusion and Google Adsense.
-
-To opt out of BT Buckets geo targeting system, [click here](http://btbuckets.com/site/optout)
+Cookies are used on many download links to track referrals from this site. All full version purchases made from these downloads are then credited to Download Free Games from software developer partners on a revenue sharing basis. At this time, Download Free Games does not set any cookies itself. Cookies may also be used by our third party ad server company Google Adsense.
 
  **Ad Servers**
 
@@ -97,10 +85,6 @@ With respect to Ad Servers: We are currently partnering with Google Adsense to d
 Google Adsense Privacy Policy Information - <http://www.google.com/privacy.html>
 
 **Privacy Standards**
-
-Download Free Games has partnered with eTrust to provide a professionally certified privacy policy. You may contact eTrust at:
-
-<http://www.etrust.org/about/contact.html>
 
 Any changes made to this privacy policy will appear publicly on our site at
 
