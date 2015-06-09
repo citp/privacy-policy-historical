@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drummagazine.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094754id_/http%3A//www.drummagazine.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drummagazine.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610003148id_/http%3A//www.drummagazine.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DRUM! Magazine
 
