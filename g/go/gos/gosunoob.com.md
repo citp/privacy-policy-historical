@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gosunoob.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214111628id_/http%3A//www.gosunoob.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosunoob.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610001224id_/http%3A//www.gosunoob.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gosu Noob Gaming Guides
 
@@ -6,8 +6,8 @@ GosuNoob.com website is maintained by GosuNoob stuff, and protecting the privacy
 
   1. **How we collect information about you**  
 The only information we collect are related to site contributors. If you write a comment or if you register as a site contributor, we collect the following types of information from you:  
-\- Email address you can access  
-\- IP address  
+– Email address you can access  
+– IP address  
 Any other information collected would be provided entirely at your choice.
   2. **How we use the personal information we collect:**  
 We do not share any of this information with outside parties.
