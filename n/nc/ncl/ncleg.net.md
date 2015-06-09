@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncleg.net privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123173942id_/http%3A//ncleg.net/Etc/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncleg.net privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610015652id_/http%3A//www.ncleg.net/Etc/Privacy.html) for the most accurate reproduction.*
 
 # North Carolina General Assembly - Privacy Statement
 
@@ -20,7 +20,7 @@ When you visit our website to browse, read pages, or download information, we au
 The NCGA uses this information to help us make our site more useful to visitors, and to learn about the number of visitors to our site.
 
 **Web Site Security:**  
-For Web site security purposes and to ensure that this service remains available to all users, the state utilizes a computer system that employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. These attempts to cause damage or unauthorized access to confidential data could be subject to legal action according to [N.C.G.S. § 14-453 - 459](https://web.archive.org/EnactedLegislation/Statutes/HTML/ByArticle/Chapter_14/Article_60.html).
+For Web site security purposes and to ensure that this service remains available to all users, the state utilizes a computer system that employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. These attempts to cause damage or unauthorized access to confidential data could be subject to legal action according to [N.C.G.S. � 14-453 - 459](https://web.archive.org/EnactedLegislation/Statutes/HTML/ByArticle/Chapter_14/Article_60.html).
 
 **Links to Other Web Sites:**  
 The North Carolina General Assembly Web site contains links to other Web sites. The North Carolina General Assembly is not responsible for the privacy practices or the of such Web sites.
