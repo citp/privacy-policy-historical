@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecpaneladmin.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019214026id_/http%3A//thecpaneladmin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecpaneladmin.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609230649id_/http%3A//thecpaneladmin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The cPanel Admin
 
