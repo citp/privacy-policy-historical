@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sumotorrent.sx privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707072337id_/http%3A//www.sumotorrent.sx/infos.php%3Fpage%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumotorrent.sx privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609214820id_/http%3A//www.sumotorrent.sx/infos.php%3Fpage%3Dpolicy) for the most accurate reproduction.*
 
 # 
 
@@ -10,7 +10,7 @@ Currently, SUMOTorrent.com may provide aggregate statistics about our traffic pa
 
 **Third Party Websites**
 
-We usethird-party companies when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this site in order to provide us with site audience details.
+We use third-party companies when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this site in order to provide us with site audience details.
 
 **Modification of Privacy Policy**
 
