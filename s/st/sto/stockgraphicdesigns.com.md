@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockgraphicdesigns.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120164118id_/http%3A//stockgraphicdesigns.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockgraphicdesigns.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609092334id_/http%3A//stockgraphicdesigns.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Royalty Free Vector Packs | Photoshop Brushes Packs | StockGraphicDesigns
 
@@ -27,7 +27,7 @@ We use this information to
 
 
 
- **Choice/Opt-Out**
+**Choice/Opt-Out**
 
 You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [sales@stockgraphicdesigns.com ](mailto:sales@stockgraphicdesigns.com).
 
@@ -44,11 +44,11 @@ We may also disclose your personal information
 
 
 
- _PayPal_
+_PayPal_
 
-If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal’s privacy policy will apply to the information you provide on the PayPal Web site.
+If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal's privacy policy will apply to the information you provide on the PayPal Web site.
 
- _Third Party E-Commerce Solutions Provider_
+_Third Party E-Commerce Solutions Provider_
 
 Our shopping cart is hosted by our e-commerce solutions provider. They host our ordering system, and collect your billing information directly from you for the purpose of processing your order. This company does not use this information for any other purpose.
 
@@ -58,13 +58,13 @@ We may use cookies, for example, to keep track of your preferences and profile i
 
 We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site.
 
- _Web beacons_
+_Web beacons_
 
 Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
 
 We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
 
- _Links to Other Web Sites_
+_Links to Other Web Sites_
 
 Our Site includes links to other Web sites whose privacy practices may differ from those of StockGraphicDesigns.com.. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
 
@@ -82,11 +82,11 @@ You can log in to our site using the sign-in services such as Facebook Connect o
 
 Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
 
- **Correcting and Updating Your Personal Information**
+**Correcting and Updating Your Personal Information**
 
 To review and update your personal information to ensure it is accurate, contact us at [sales@stockgraphicdesigns.com ](mailto:sales@stockgraphicdesigns.com).
 
- **Notification of Privacy Statement Changes**
+**Notification of Privacy Statement Changes**
 
 We may update this privacy statement to reflect changes in our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
