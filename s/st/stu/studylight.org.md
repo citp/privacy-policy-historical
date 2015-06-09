@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studylight.org privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121003737id_/http%3A//www.studylight.org/info/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studylight.org privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235235id_/http%3A//www.studylight.org/info/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - StudyLight.org
 
@@ -45,7 +45,7 @@ StudyLight.org acquires no personal or registration data about our users except 
 As part of your subscription, from time to time we will deliver messages from the ministry that might be of specific interest to you.
 
 **correcting and updating**  
-User registration data can be corrected or updated by using our convenient [contact form](https://web.archive.org/info/contact.cgi)
+User registration data can be corrected or updated by using our convenient [contact form](https://web.archive.org/site-info/contact.cgi)
 
 **delete/deactivate**  
-You may also use our convenient [contact form](https://web.archive.org/info/contact.cgi) to deactivate an account or delete an account and have it removed from our database.
+You may also use our convenient [contact form](https://web.archive.org/site-info/contact.cgi) to deactivate an account or delete an account and have it removed from our database.
