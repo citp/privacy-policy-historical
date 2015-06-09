@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the edarticle.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110181546id_/http%3A//www.edarticle.com/pages/1/privacy-and-cookie-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edarticle.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609043424id_/http%3A//www.edarticle.com/pages/1/privacy-and-cookie-policy) for the most accurate reproduction.*
 
-# Privacy And Cookie Policy
-
-[ ](http://www.edarticle.com/)
+# Privacy And Cookie Policy | Edarticle
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin =at= edarticle =dot= com.
 
 At Edarticle.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information received and collected by Edarticle.com and how it is used.
 
-**Log Files**
+ **Log Files**
 
 Like many other Web sites, Edarticle.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Cookies and Web Beacons**
+ **Cookies and Web Beacons**
 
 Third party cookies may be placed on your computer by third party websites that we have integrated into Edarticle.com such as (but not limited to) Google Analytics, Doubleclick, Media.net and Google Adsense. In addition, we have links to third party websites that may place cookies on your computer and have separate privacy policies. These include, but are not limited to, Lockerz Share, Pinterest, Facebook, Twitter, Blogger and Google Plus. [Google Analytics Cookies](http://helpful.knobs-dials.com/index.php/Utma,_utmb,_utmz_cookies) include _utma, _utmb, and _utmz cookies (and may include other cookies with the pattern _utm*). Google Adsense/Doubleclick may place _gads and __ar_v4 cookies on your computer.
 
@@ -37,7 +35,7 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-**DoubleClick DART Cookie**
+ **DoubleClick DART Cookie**
 
   * Google, as a third party vendor, uses cookies to serve ads on Edarticle.com.
   * Google's use of the DART cookie enables it to serve ads to our users based on their visit(s) to Edarticle.com and other sites on the Internet.
