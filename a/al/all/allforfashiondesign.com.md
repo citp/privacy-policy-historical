@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allforfashiondesign.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120133146id_/http%3A//allforfashiondesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allforfashiondesign.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609233716id_/http%3A//allforfashiondesign.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ALL FOR FASHION DESIGN
 
