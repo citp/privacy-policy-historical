@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pulpomedia.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230045357id_/http%3A//www.pulpomedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pulpomedia.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609185247id_/http%3A//www.pulpomedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pulpo Media
 
@@ -89,7 +89,7 @@ This Privacy Policy is effective as of August 8, 2014. We reserve the right to m
 
 ## CONTACT US
 
-If you have any questions or comments regarding this Privacy Policy, please contact us by e-mail at: [privacy@pulpomedia.com](mailto:privacy@pulpomedia.com) or by mail at: **Pulpo Media, Inc., 1767 Alcatraz Avenue, Berkeley, California 94703**.  
+If you have any questions or comments regarding this Privacy Policy, please contact us by e-mail at: [privacy@pulpomedia.com](mailto:privacy@pulpomedia.com) or by mail at: **Pulpo (Entravision Company), 1767 Alcatraz Avenue, Berkeley, California 94703**.  
  
 
 ## GLOSSARY OF TERMS
