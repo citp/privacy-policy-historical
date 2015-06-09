@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cccapply.org privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703044511id_/http%3A//home.cccapply.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cccapply.org privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609221318id_/http%3A//home.cccapply.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CCCApply
 
@@ -40,7 +40,7 @@ Accessing, modifying and deleting your information: You have the right to access
 
 OpenCCC Technical Support at:  
 Tel: 877/247-4836  
-Email: support [at] openccc [dot] net
+Email: support [at] openccc.net
 
 Please be advised, once an application has been submitted to a college on your behalf, it becomes part of the records of the college to which it was submitted. If you believe there is an error on a submitted application, you must contact the college to which it was submitted for correction.
 
