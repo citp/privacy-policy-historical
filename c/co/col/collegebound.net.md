@@ -1,22 +1,24 @@
-> *The following text is extracted and transformed from the collegebound.net privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113120850id_/http%3A//www.collegebound.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegebound.net privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610014338id_/http%3A//www.collegebound.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## The CollegeBound Network Privacy Policy
 
-Last Updated: 06/25/14
+Last Updated: 02/24/15
 
-The CollegeBound Network is committed to your privacy. This Privacy Policy describes the types of information we collect from and about you when you visit our website www.collegebound.net or any other website or online service owned or operated by The CollegeBound Network that links to this Privacy Policy (the "Site"). This Privacy Policy also explains how The CollegeBound Network may use and disclose such information, as well as your ability to control certain uses of it.
+The CollegeBound Network is committed to your privacy. This Privacy Policy describes the types of information we collect from and about you when you visit our website www.collegebound.net or any other website or online service owned or operated by CareerCo LLC that links to this Privacy Policy (the "Site"). This Privacy Policy also explains how CareerCo LLC may use and disclose such information, as well as your ability to control certain uses of it.
 
-If you have questions or complaints regarding our Privacy Policy or practices, please first contact The CollegeBound Network, Compliance Department, 1200 South Ave., Staten Island, NY 10314, (718) 761-4800, [privacy@collegebound.net](mailto:privacy@collegebound.net).
+If you have questions or complaints regarding our Privacy Policy or practices, please first contact CareerCo LLC, Compliance Department, 1200 South Ave., Staten Island, NY 10314, (718) 761-4800, [privacy@careerco.com](mailto:privacy@careerco.com).
 
 ### INFORMATION COLLECTION
 
 **Personal Information**  
-The CollegeBound Network, or a third party service provider acting on our behalf ("Service Provider"), collects personal information from you when you choose to share it with us to use our matching services, create an online account with us, order products or services from us, request information from us, sign up for newsletters or our email list, participate in a survey, or otherwise contact us. The personal information we collect may include your name, address, telephone number, email address, date of birth, education level and year of graduation, information you include on your resume, and, if you are a CollegeBound Network customer, credit/debit card number. We may combine your personal information with additional personal information and non-personal information we collect or receive about you from other online and offline sources.
+The CollegeBound Network, or a third party service provider acting on our behalf ("Service Provider"), collects personal information from you when you choose to share it with us to use our matching services, create an online account with us, order products or services from us, request information from us, sign up for newsletters or our email list, participate in a survey, or otherwise contact us. The personal information we collect may include your name, address, telephone number, email address, date of birth, education level and year of graduation, information you include on your resume, and, if you are a CareerCo LLC customer. We may combine your personal information with additional personal information and non-personal information we collect or receive about you from other online and offline sources.
 
 **Information Automatically Collected**  
-We, or our Service Providers, may use cookies, web beacons, pixel tags, log files, local shared objects (Flash cookies), or other technologies to collect certain information about visitors to our Site, use of our online services, and interactions with our emails and online advertisements. For example, we or our Service Providers may automatically collect certain non-personal information from you, including but not limited to your browser type, operating system, Internet Protocol ("IP") address and the domain name from which you accessed the Site. In addition, we or our Service Providers may collect information about your browsing behavior, such as the date and time you visit the Site, the areas or pages of the Site that you visit, the amount of time you spend viewing the Site, the number of times you return to the Site, other click-stream or site usage data, emails that you open, forward or click-through to our Site.
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. 
+
+We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
 
 **Information Collected From Other Sources**  
 We may obtain information about you from other sources, including commercially available sources such as data aggregators and public databases. This information may include name, demographic information, updated contact information, interests, and publicly-observed data, such as from social media and online activity. We may combine this information with the information we collect from and about you to help us tailor our communications to you and to improve our services and products.
@@ -43,53 +45,47 @@ The CollegeBound Network or its Service Providers may use the information we col
 
 
 
+These companies are authorized to use your personal information only as necessary to provide these services to us.
+
 We may contact you via email, telephone, text message, postal mail, or any other means of communication that you provide to us as a means of contacting you.
 
 If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by visiting our [opt-out](http://www.collegebound.net/opt-out/) page.
 
 ### INFORMATION DISCLOSURE
 
-The CollegeBound Network may disclose the information we collect from and about you as follows: (1) to the employment or educational organizations from whom you have requested information or the employment or educational organization we have matched based on your interests; (2) to our email, data hosting, and Short Message Service (SMS)/text messaging service providers, if the disclosure will enable them to perform a business, professional or technical support function for us; (3) as necessary if we believe that there has been a violation of the The CollegeBound Network Site Terms of Use or of our rights or the rights of any third party; (4) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; (5) to our select partners and affiliates that we believe may have offers of interest to you; and (6) as described to you at the point of collection.
+The CollegeBound Network may disclose the information we collect from and about you as only in the ways that are described in this privacy policy: (1) to the employment or educational organizations from whom you have requested information or the employment or educational organization we have matched based on your interests; (2) to our email, data hosting, and Short Message Service (SMS)/text messaging service providers, if the disclosure will enable them to perform a business, professional or technical support function for us; (3) as necessary if we believe that there has been a violation of the The CollegeBound Network Site Terms of Use or of our rights or the rights of any third party; (4) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; (5) to our selected partners and affiliates that we believe may have offers of interest to you; (6) as described to you at the point of collection and (7) to any other Third party with your prior consent to do so. 
+
+We do not sell your personal information to third parties. These companies are authorized to use your personally identifiable information only as necessary to provide these services to us.
 
 The CollegeBound Network may share aggregate or anonymous non-personal information with third parties.
 
-Also, The CollegeBound Network may sell or purchase assets during the normal course of our business. If another entity acquires us or any of our assets, information we have collected about you may be transferred to such entity. In addition, if any bankruptcy or reorganization proceeding is brought by or against us, such information may be considered an asset of ours and may be sold or transferred to third parties. Should such a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personal information provided through this Site in a manner that is consistent with this Privacy Policy.
+Also, The CollegeBound Network may sell or purchase assets during the normal course of our business. If another entity acquires us or any of our assets, information we have collected about you may be transferred to such entity. In addition, if any bankruptcy or reorganization proceeding is brought by or against us, such information may be considered an asset of ours and may be sold or transferred to third parties. Should such a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personal information provided through this Site in a manner that is consistent with this Privacy Policy. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 ### YOUR CALIFORNIA PRIVACY RIGHTS: MARKETING AND "DO NOT TRACK"
 
-If you are a California resident, you may opt-out of our disclosure of personal information to third parties for their direct marketing purposes. To opt out, please contact us at [CAprivacy@collegebound.net](mailto:CAprivacy@collegebound.net).
+If you are a California resident, you may opt-out of our disclosure of personal information to third parties for their direct marketing purposes. To opt out, please contact us at [CAprivacy@careerco.com](mailto:CAprivacy@careerco.com).
 
-California residents may choose to opt-out of the sharing of their personal information with third parties for direct marketing purposes at any time by submitting a request in writing to The CollegeBound Network, Compliance Department, 1200 South Ave., Staten Island, NY 10314 or by e-mailing us the request at: [CAprivacy@collegebound.net](mailto:CAprivacy@collegebound.net). We honor all such opt-out requests and it is our policy not to share personal information with third parties for direct marketing purposes where you have submitted such a request. It is important to note that this opt-out does not prohibit disclosures made for non-marketing purposes.
+California residents may choose to opt-out of the sharing of their personal information with third parties for direct marketing purposes at any time by submitting a request in writing to CareerCo LLC, Compliance Department, 1200 South Ave., Staten Island, NY 10314 or by e-mailing us the request at: [CAprivacy@careerco.com](mailto:CAprivacy@careerco.com). We honor all such opt-out requests and it is our policy not to share personal information with third parties for direct marketing purposes where you have submitted such a request. It is important to note that this opt-out does not prohibit disclosures made for non-marketing purposes.
 
 California law requires that we disclose how our site responds to "Do Not Track" (DNT) signals from browsers and other mechanism that express the user's preference not to be tracked. Currently, there is not an industry-wide accepted definition of what is a DNT signal. For this reason, we currently do not respond to such signals.
 
 ### COOKIES AND DATA COLLECTION TECHNOLOGIES
 
-We may use third party advertisements to support our Site. Some of these advertisers may use technology such as cookies, web beacons, pixel tags, log files, or local shared objects (collectively, "Data Collection Technologies") when they advertise on our Site, which may send these advertisers information including your non-personal information.
+Technologies such as: cookies, beacons, tags and scripts are used by CareerCo LLC and our affiliate partners. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-You are free to set your Internet browser to decline cookies, but by doing so, you may not be able to use certain features on the Site or take full advantage of all of our offerings. Check the "Help" menu of your browser to learn how to change your cookie preferences.
+We use cookies to remember users' search criteria (e.g. zip code). Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
 
-Our Site also uses Data Collection Technologies to help manage our online advertising program. These Data Collection Technologies are provided by our ad management partners and other third parties.
+We use Local Storage Objects (LSOs) such as HTML5 to store [content information and preferences.] Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information.
 
-In addition, we and our ad management partners may use these Data Collection Technologies to track the actions of users of the Site, to improve our products and services, to measure statistics of our marketing efforts, and to deliver advertisements on our Site or on other websites across the Internet that may be more relevant to individual consumers.
-
-We support the Digital Advertising Alliance's Self-Regulatory Principles for Interest-Based Advertising ("Principles"). This means that we allow you to exercise choice regarding the collection of information about your online activities over time and across third-party websites for online interest-based advertising purposes. More information about these Principles can be found at [www.aboutads.info/](http://www.aboutads.info/).
+Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
 ### OPTING OUT OF INTEREST-BASED ADVERTISEMENTS
 
-If you want to "opt out" of receiving online interest-based advertisements, please follow the instructions at [www.aboutads.info/choices](http://www.aboutads.info/choices), or [www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/) and an "opt-out" cookie will be placed on your device indicating that you do not want to receive interest-based advertisements. If you delete cookies on your device generally, you will need to opt-out again.
-
-Please note that when you "opt-out" of receiving interest-based advertisements, this does not mean you will no longer see advertisements from us or on the Site. It means that the online ads that you do see will not be based on your particular interests. In addition, when you "opt-out" of receiving interest-based advertisements through one of the links above, certain Data Collection Technologies on our Site may still collect information about your use of the Site, including for analytics and fraud prevention as well as any other purpose permitted under the Principles. When we use the term "Data Collection Technologies" we are referring to any technology that collects information about your use of the Site and potentially about your activities when you leave the Site and visit other sites on the Internet.
-
-To learn how to manage privacy and storage settings for Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here. Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 ### PUBLIC FORUMS
 
-Any information you may disclose in our blogs, on message boards, in chat rooms when providing testimonials or product reviews, or on other public areas of the Site, becomes public information. Please exercise caution when disclosing personal information in these public areas. To request removal of your personal information from our public areas of our Site, contact us at [cbblogcomments@collegebound.net](mailto:cbblogcomments@collegebound.net). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
-
-### Facebook Connect or other OpenID provider
-
-You can log in to our Site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Site to your profile page to share with others within your network.
+Any information you may disclose in our blogs, on message boards, in chat rooms when providing testimonials or product reviews, or on other public areas of the Site, becomes public information. Please exercise caution when disclosing personal information in these public areas. To request removal of your personal information from our public areas of our Site, contact us at [cbblogcomments@collegebound.net](mailto:cbblogcomments@collegebound.net). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. Alternatively, if you used a third party application to post such information, you can remove it, by either logging into the said application and removing the information or by contacting the appropriate third party application.
 
 ### Social Media (Features) and Widgets:
 
@@ -97,7 +93,7 @@ Our Site includes Social Media Features, such as the Facebook Like button and Wi
 
 ### LINKS TO OTHER WEBSITES
 
-The Site may have links to third-party websites, which may have privacy policies that differ from our own. We are not responsible for the practices of such sites.
+The Site may have links to third-party websites, which may have privacy policies that differ from our own. We are not responsible for the practices of such sites. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
 
 ### OUR COMMITMENT TO CHILDREN'S PRIVACY
 
@@ -105,18 +101,23 @@ Protecting children's privacy is important to us. We do not direct the Site to, 
 
 ### OUR COMMITMENT TO DATA SECURITY
 
-We have taken certain physical, administrative, and technical steps to safeguard the information we collect from and about our customers and Site visitors. While we make every effort to help ensure the integrity and security of our network and systems, we cannot guarantee our security measures.
+We have taken certain physical, administrative, and technical steps to safeguard the information we collect from and about our customers and Site visitors. While we make every effort to help ensure the integrity and security of our network and systems, we cannot guarantee our security measures. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [privacy@careerco.com](mailto:privacy@careerco.com)
 
-When you enter sensitive information (such as credit card information) on our forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+When you enter sensitive information our forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
 ### ACCESS TO YOUR PERSONAL INFORMATION
 
-To update your information stored by The CollegeBound Network, please resubmit your new contact information along with your interests in certain employment or educational opportunities. If the Site uses an online account, you may sign in to your account and update your personal information. If you prefer that we no longer use your information to provide you with services, please visit our [opt-out](http://www.collegebound.net/opt-out/) page. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+To update your information stored by CareerCo LLC, please resubmit your new contact information along with your interests in certain employment or educational opportunities. If the Site uses an online account, you may sign in to your account and update your personal information. If you prefer that we no longer use your information to provide you with services, please visit our [opt-out](http://www.collegebound.net/opt-out/) page. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ### IF YOU HAVE QUESTIONS
 
-If you have any questions about this Privacy Policy or the practices described herein, you may contact us at [privacy@collegebound.net](mailto:privacy@collegebound.net).
+If you have any questions about this Privacy Policy or the practices described herein, you may contact us at [privacy@careerco.com](mailto:privacy@careerco.com).
+
+CareerCo LLC   
+1200 South Avenue, Suite 202   
+Staten Island, NY 10314  
+718-761-4800
 
 ### REVISIONS TO THIS POLICY
 
-The CollegeBound Network reserves the right to revise this policy at any time. When we do, we will post the change(s) on the Site. If we change the policy in a material way, we will provide appropriate notice to you posted here, by email, or by means of a notice on our homepage.
+The CollegeBound Network reserves the right to revise this policy at any time. When we do, we will post the change(s) on the Site. If we change the policy in a material way, we will provide appropriate notice to you posted here, by email, or by means of a notice on our homepage prior to the change becoming effective.
