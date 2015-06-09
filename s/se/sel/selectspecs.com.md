@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selectspecs.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222200714id_/http%3A//www.selectspecs.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selectspecs.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610010405id_/http%3A//www.selectspecs.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy
 
@@ -7,7 +7,7 @@ SelectSpecs Ltd and it's group of companies (SelectSpecs, OmniOptics, Optix) are
   
 
 
-###  What type of data do we collect about you?
+##  What type of data do we collect about you?
 
 During your visit to our website(s), we may collect the following data about you:
 
@@ -22,7 +22,7 @@ During your visit to our website(s), we may collect the following data about you
   
 
 
-###  Cookies
+##  Cookies
 
 Our website(s) use cookies to provide you with a better personal browsing experience and to allow us to improve our site based on user browsing habits. By continuing to browse our website you're agreeing to our use of cookies.
 
@@ -38,7 +38,7 @@ If you do not agree to the use of cookies you can set your browser to disable co
   
 
 
-###  How we may use your information
+##  How we may use your information
 
 To give you the best shopping experience, we may use the information about you in the following ways:
 
@@ -54,28 +54,28 @@ If you're an existing customer we may contact you from time to time via email or
   
 
 
-###  Links to other websites
+##  Links to other websites
 
 Our website may contain links to other websites outside of the SelectSpecs Ltd group of websites. Please be aware that SelectSpecs Ltd is not responsible for the content or privacy policies of any website that we may link to.
 
   
 
 
-###  Opting out of our marketing emails
+##  Opting out of our marketing emails
 
 To unsubscribe from our mailing list simply click on the unsubscribe link at the bottom of every marketing email and you will be opted out of our marketing communications. We will continue to send you order and support related emails when required.
 
   
 
 
-###  Access to your information
+##  Access to your information
 
 The Data Protection Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a small admin fee to meet our costs in providing you with the information we hold about you.
 
   
 
 
-###  Contacting us
+##  Contacting us
 
 If you have any questions about our Privacy Policy or wish to discuss how we use your data you can contact us by email, post or telephone:
 
@@ -85,6 +85,6 @@ Westgate on Sea
 Kent  
 CT8 8QY
 
-**Tel:** 0844 453 3262
+**Tel:** 03303 801 190
 
 **Email:** [Customer Support](https://web.archive.org/customer-services/)
