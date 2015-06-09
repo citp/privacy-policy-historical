@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highpayingaffiliateprograms.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103012242id_/http%3A//www.highpayingaffiliateprograms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highpayingaffiliateprograms.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609045012id_/http%3A//www.highpayingaffiliateprograms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - High Paying Affiliate Programs
 
@@ -25,7 +25,3 @@ If you have any questions regarding the privacy policy of  **High Paying Affili
 
 
 [](http://www.affiliatesummit.com/best-blogs-affiliate-marketing-2013/)
-
-### Free 49 Page eGuide:
-
-[](http://www.highpayingaffiliateprograms.com/super-affiliate-handbook/) **[Click Here](http://www.highpayingaffiliateprograms.com/super-affiliate-handbook/) To Get Your Free** **49 Page Super Affiliate Guide**
