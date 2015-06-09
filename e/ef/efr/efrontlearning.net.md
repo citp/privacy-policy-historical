@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the efrontlearning.net privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030021746id_/http%3A//www.efrontlearning.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efrontlearning.net privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609055742id_/http%3A//www.efrontlearning.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Enterprise Learning Management System Software - eFront LMS
+# eFront LMS Privacy Policy - eFront LMS
 
-eFrontLearning provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of eFrontLearning.com (this “Site”). This Privacy Policy applies only to information that you provide to us through this Site. Our Privacy Policy may be updated from time to time, and we will notify you of any material changes by posting the new Privacy Policy on the Site at [Privacy policy](https://web.archive.org/web/20141030021746id_/http%3A//www.efrontlearning.net/privacy "Privacy policy"). 
+eFrontLearning provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of eFrontLearning.com (this “Site”). This Privacy Policy applies only to information that you provide to us through this Site. Our Privacy Policy may be updated from time to time, and we will notify you of any material changes by posting the new Privacy Policy on the Site at [Privacy policy](https://web.archive.org/web/20150609055742id_/http%3A//www.efrontlearning.net/privacy "Privacy policy"). 
 
 ## Collection: The Personally Identifiable Information We Collect
 
