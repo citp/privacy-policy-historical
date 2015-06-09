@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the english-for-students.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702230854id_/http%3A//www.english-for-students.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the english-for-students.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609023539id_/http%3A//www.english-for-students.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy : You must read.
+
+## Privacy Policy
 
 Here is our Privacy Policy which you should read before you submit your personal information to us. 
 
@@ -38,9 +40,9 @@ If www.english-for-students.com is sold, the information we have obtained from y
 
 **How You Can Correct or Remove Information :**
 
-We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please use our [**Contact Us**](http://www.english-for-students.com/Contact-Us.html) form. 
+We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please use our 
 
-**Updates and Effective Date :**
+[**Contact Us**](http://www.english-for-students.com/Contact-Us.html) form. **Updates and Effective Date :**
 
 www.english-for-students.com reserves the right to make changes in this policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it. 
 
@@ -49,3 +51,5 @@ www.english-for-students.com reserves the right to make changes in this policy. 
 If you do not agree to www.english-for-students.com Privacy Policy as posted here on this website, please do not use this site or any services offered by this site. 
 
 Your use of this site indicates acceptance of this Privacy Policy. 
+
+[From **Privacy Policy** to HOME PAGE](http://www.english-for-students.com/)
