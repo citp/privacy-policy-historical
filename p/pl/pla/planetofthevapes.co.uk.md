@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetofthevapes.co.uk privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021235524id_/http%3A//www.planetofthevapes.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetofthevapes.co.uk privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610003203id_/http%3A//www.planetofthevapes.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Planet of the Vapes
 
@@ -21,7 +21,7 @@ _We do not collect sensitive information about you except when you specifically 
 _We use a technology called "cookies" as part of a normal business procedure to track patterns of behaviour of visitors to our site. A cookie is an element of data that our Website sends to your browser which is then stored on your system. You can set your browser to prevent this happening. Any information collected in this way can be used to identify you unless you change your browser settings._
 
   6. We will not transfer your information outside the EEA (European Economic Area) without first obtaining your consent.
-  7. If you have any questions about privacy please contact us via the [contact page](https://web.archive.org/web/20141021235524id_/http%3A//www.planetofthevapes.co.uk/contact-us.html).
+  7. If you have any questions about privacy please contact us via the [contact page](https://web.archive.org/web/20150610003203id_/http%3A//www.planetofthevapes.co.uk/contact-us.html).
 
 
 
