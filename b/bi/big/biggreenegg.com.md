@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biggreenegg.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117145457id_/http%3A//www.biggreenegg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggreenegg.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609044125id_/http%3A//www.biggreenegg.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Big Green Egg - The Ultimate Cooking Experience | Big Green Egg - The Ultimate Cooking Experience
 
@@ -40,9 +40,9 @@ If you would like to contact us with questions or comments concerning the accura
 
 Big Green Egg, Inc.
 
-3417 Lawrenceville Highway
+3786 DeKalb Technology Parkway
 
-Atlanta, GA 30084 USA
+Atlanta, GA 30340 USA
 
 e-mail: online@BigGreenEgg.com  
 telephone 770.938.9394
