@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stwater.co.uk privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923022804id_/http%3A//www.stwater.co.uk/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stwater.co.uk privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609053831id_/http%3A//www.stwater.co.uk/legal/privacy) for the most accurate reproduction.*
 
 # Privacy : Legal : Severn Trent Water
 
@@ -28,12 +28,12 @@ Under the Data Protection Act 1998 you have the right to make a subject access r
 
 All requests must be made in writing to:
 
-Data Protection  
-Customer Relations  
+SAR Officer  
+Customer Care  
 Severn Trent Centre  
 PO Box 5309  
-Coventry  
-CV3 9FH.
+COVENTRY  
+CV3 9FH
 
 Please note there is a small charge for this service.
 
