@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lydiasuniforms.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230080705id_/https%3A//www.lydiasuniforms.com/Pages/Privacy-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lydiasuniforms.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610005919id_/http%3A//www.lydiasuniforms.com/Pages/Privacy-Security) for the most accurate reproduction.*
 
 # Scrubs Nursing Uniforms | Cheap Discount Nurse Scrubs
 
@@ -46,3 +46,6 @@ We also use cookies to track and maintain the identity of the website you visite
 
 **LINKS**  
 For your convenience, our website may contain links to other sites. LydiasUniforms.com is not responsible for the privacy practices or the content of such websites.
+
+ **OPT-IN TERMS  
+** Summary Terms & Conditions: Our mobile text messages are intended for subscribers over the age of 18 and are delivered via USA short code 95577.  You may receive up to 6 message(s) per month of text alerts.  Message & Data Rates May Apply.  This service is available for phones with text messaging capabilities, and subscribers on AT&T, Verizon Wireless, T-Mobile®, Sprint, Virgin Mobile USA, Cincinnati Bell, Centennial Wireless, Unicel, U.S. Cellular®, and Boost.  For help, text HELP to 95577, email csr@lydiasuniforms.com, or call 1-800-942-3378.  You may stop mobile subscriptions at any time by text messaging STOP to short code 95577.
