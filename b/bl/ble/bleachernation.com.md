@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bleachernation.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121113031id_/http%3A//www.bleachernation.com/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleachernation.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610002034id_/http%3A//www.bleachernation.com/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use | Bleacher Nation | Unofficial Chicago Cubs News, Rumors, and Commentary
 
@@ -34,6 +34,8 @@ The “help” portion of the toolbar on the majority of browsers will direct yo
 
 Bleacher Nation’s advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads.
 
+For more information on the collection and use of information for ad targeting, and how to opt out, [please see About Ads](http://www.aboutads.info/choices/).
+
 **Sharing Your Information**
 
 Bleacher Nation will neither rent nor sell your personal information to anyone. We will share your personal information only as described below.
@@ -62,7 +64,7 @@ If you decide to visit Bleacher Nation, your visit and any possible dispute over
 
 **Effective Date of this Privacy Policy**
 
-This Privacy Policy is effective as of 5/17/2011 and last updated 11/23/2013.
+This Privacy Policy is effective as of 5/17/2011 and last updated 2/06/2015.
 
 ## Terms of Use and Commenting Policy
 
