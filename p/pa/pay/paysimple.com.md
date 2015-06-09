@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paysimple.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121125id_/http%3A//paysimple.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paysimple.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609142557id_/https%3A//paysimple.com/privacy.html) for the most accurate reproduction.*
 
 # PaySimple Privacy Policy
 
@@ -56,7 +56,7 @@ We will retain personally identifiable information for as long as you remain an 
 
 ## Security:
 
-PaySimple has security measures in place to protect against the loss, misuse and alteration of the information under our control, as described in our [security page](http://paysimple.com/security.html).
+PaySimple has security measures in place to protect against the loss, misuse and alteration of the information under our control, as described in our [security page](https://www.paysimple.com/security.html).
 
 ## Other Disclosure of Information:
 
@@ -64,7 +64,7 @@ We may disclose your personally identifiable information to law enforcement, gov
 
   * We are compelled to do so by a subpoena, court order or similar legal procedure;
   * We need to do so to comply with law or credit card rules;
-  * We believe in good faith that the disclosure of personally identifiable information is necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of our [Acceptable Use Policy](http://paysimple.com/aup.html).
+  * We believe in good faith that the disclosure of personally identifiable information is necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of our [Acceptable Use Policy](https://www.paysimple.com/aup.html).
   * You request or provide specific permission to share such information.
 
 
