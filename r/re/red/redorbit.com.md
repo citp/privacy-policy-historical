@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redorbit.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226163230id_/http%3A//www.redorbit.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redorbit.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235817id_/http%3A//www.redorbit.com/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement - redOrbit
 
