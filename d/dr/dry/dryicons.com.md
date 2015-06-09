@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dryicons.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628050434id_/http%3A//dryicons.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dryicons.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609182807id_/http%3A//dryicons.com/privacy) for the most accurate reproduction.*
 
-# DryIcons Privacy Policy
+# Privacy Policy
 
 We know how much you value and care about your personal information and how it is used. Within this Privacy statement you can find details on how we collect and use, and under which circumstances may share your information. 
 
@@ -25,6 +25,3 @@ We reserve the right to modify our Privacy Policy at any time. If we make signif
 ## Questions
 
 Any questions you may have about our Privacy Policy should be addressed to contact@dryicons.com 
-
-  
-
