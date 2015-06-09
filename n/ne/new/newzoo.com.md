@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newzoo.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121005214id_/http%3A//www.newzoo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newzoo.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610012309id_/http%3A//www.newzoo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Newzoo
+# Privacy policy | Newzoo
 
 1\. PURPOSE OF THIS PRIVACY POLICY  
 The following describes the information gathering and dissemination practices for the websites operated by Newzoo BV (“Newzoo”), including (without limitation) [www.newzoo.com](http://www.newzoo.com/),  a “Website”, and together being the “Websites”.
