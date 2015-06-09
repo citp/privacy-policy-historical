@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitad.lk privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022160011id_/http%3A//www.hitad.lk/EN/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitad.lk privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610001602id_/http%3A//www.hitad.lk/EN/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy| HitAd.lk |Best online classifieds in Sri Lanka|Buy and Sell
 
