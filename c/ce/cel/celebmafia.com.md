@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebmafia.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229234631id_/http%3A//celebmafia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebmafia.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610013712id_/http%3A//celebmafia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CelebMafia
 
@@ -70,6 +70,14 @@ celebmafia.com is engaged in “powered by” relationships as more fully descri
 Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+
+## Disclosure Regarding Google Display Advertising
+
+We implement Google Analytics features that use Display Advertising information for Google Analytics Demographics and Interest Reporting.
+
+You can opt-out of Google Analytics for Display Advertising, to prevent your data from being used by Google Analytics, by going to the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout/).
+
+We, along with third-party vendors (including Google), use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookies) to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our website. You can read more about the cookies  used by Google Analytics advertising features, by going to the [Google Analytics Privacy Policy page](http://www.google.com/policies/technologies/ads/).
 
 ## Security
 
