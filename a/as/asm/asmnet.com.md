@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asmnet.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218074355id_/http%3A//asmnet.com/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asmnet.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235601id_/http%3A//www.asmnet.com/pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
