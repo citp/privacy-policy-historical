@@ -1,0 +1,710 @@
+<!--The following is the downloaded HTML source of the roi.com.au privacy policy that was archived on 2015-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150609061005id_/http%3A//www.roi.com.au/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" lang="en-AU" prefix="og: http://ogp.me/ns#"><head>
+
+
+<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script>(function() {
+var _fbq = window._fbq || (window._fbq = []);
+if (!_fbq.loaded) {
+var fbds = document.createElement('script');
+fbds.async = true;
+fbds.src = '//connect.facebook.net/en_US/fbds.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(fbds, s);
+_fbq.loaded = true;
+}
+_fbq.push(['addPixelId', '230994740424396']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=230994740424396&amp;ev=PixelInitialized" /></noscript>
+
+
+
+<script>(function() {
+var _fbq = window._fbq || (window._fbq = []);
+if (!_fbq.loaded) {
+var fbds = document.createElement('script');
+fbds.async = true;
+fbds.src = '//connect.facebook.net/en_US/fbds.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(fbds, s);
+_fbq.loaded = true;
+}
+_fbq.push(['addPixelId', '309878185885154']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=309878185885154&amp;ev=PixelInitialized" /></noscript>
+
+
+
+<script>
+
+// this script stores the UTM code in a cookie, which then is appended to all forms on the page
+// you can prevent the script adding to a form by adding the class "noUTM" to the form tag
+
+
+function queryObj() {
+	// break up the query string
+    var result = {}, keyValuePairs = location.search.slice(1).split('&');
+    keyValuePairs.forEach(function(keyValuePair) {
+        keyValuePair = keyValuePair.split('=');
+   	    result[keyValuePair[0]] = keyValuePair[1] || '';
+    });
+    return result;
+}
+
+
+function createCookie(name,value,days) {
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000));
+		var expires = "; expires="+date.toGMTString();
+	}
+	else var expires = "";
+	document.cookie = name+"="+value+expires+"; path=/";
+}
+//read cookie
+function readCookie(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+		var c = ca[i];  
+ 
+		thiscookie=c.split("=");
+		thiscookie[0]= thiscookie[0].trim(); // strip any extra white space on keys
+		if(thiscookie[0]==name){
+			return thiscookie[1];
+		}
+	}
+	return null;
+}
+//unset cookie
+function eraseCookie(name) {
+	createCookie(name,"",-1);
+}
+// find the base url of the site
+function getBaseURL(){
+	//get the base url of the site
+	url= window.location.origin;
+	parts=	url.split('/')
+	return(parts[0]+"//"+parts[2]+"");
+}
+
+function updateUtmCookie(){
+// Updates or creates UTM cookie if a UTM field is found in the query string (otherwise does nothing)
+	queryobj = queryObj();
+	utmstring="";
+	if(queryobj['utm_campaign']||queryobj['utm_source']||queryobj['utm_medium']||queryobj['utm_term'] ){
+		utmstring += (queryobj['utm_campaign'])? 'utm_campaign: ' + queryobj['utm_campaign'] + "\r\n":"";
+		utmstring += (queryobj['utm_source'])? 'utm_source: ' + queryobj['utm_source'] + "\r\n":"";
+		utmstring += (queryobj['utm_medium'])? 'utm_medium: ' + queryobj['utm_medium'] + "\r\n":"";
+		utmstring += (queryobj['utm_term'])? 'utm_term: ' + queryobj['utm_term'] + "\r\n":"";
+		
+		if(readCookie('utm')){ // if the query string is there but the cookie isn't set clear it
+			eraseCookie('utm');
+		}
+	// update the cookie
+	createCookie('utm',encodeURIComponent(utmstring),1);
+	}
+}
+function getUtmCookie(){
+// store the UTM code in a cookie if one's been set
+
+	updateUtmCookie();	
+	utmstring="";
+	if(readCookie('utm')){ 
+		utmstring = readCookie('utm');
+	} else {
+		utmstring=false;
+		// no UTM code present so don't add it	
+	}
+	return utmstring;
+}
+
+mobile_utm = decodeURIComponent(getUtmCookie());
+mobile_utm = mobile_utm.replace(/[\r\n]/gm,"&");
+mobile_utm = mobile_utm.replace(/&&/gm,"&");
+mobile_utm = mobile_utm.replace(/:/gm,"="); // 
+mobile_utm = mobile_utm.replace(/: /gm,"=");
+mobile_utm = mobile_utm.replace(/=\ /gm,"=");
+if(mobile_utm.substr(-1)=='&'){ mobile_utm = mobile_utm.substr(0,mobile_utm.length-1);}
+ // Prevent spaces before the equals
+
+mobile_utm = "?" + mobile_utm;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta charset="UTF-8">
+<meta name="google-site-verification" content="jk1P2uXNxUgE7kwiM8V0w4-kOGGrOHVtlmUxcBHTJIU">
+
+<title>Privacy Policy |</title>
+
+<link rel="shortcut icon" type="image/x-icon" href="http://www.roi.com.au/favicon.ico">    
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="stylesheet" type="text/css" media="all" href="http://www.roi.com.au/wp-content/themes/ROI.com.au/css/style.css">
+<link rel="pingback" href="http://www.roi.com.au/xmlrpc.php">
+<link rel="image_src" href="http://www.roi.com.au/wp-content/themes/ROI.com.au/images/roi_like_logo.png">
+<link href="https://plus.google.com/114775828470870438720" rel="publisher">
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.19 - http://yoast.com/wordpress/seo/ -->
+<meta name="robots" content="noodp,noydir">
+<meta name="description" content="We may collect website visitors' contact information (like their e-mail addresses). Unless you object, this information may be used: to send news, informat">
+<link rel="canonical" href="http://www.roi.com.au/roi-privacy-policy/">
+<link rel="author" href="https://plus.google.com/108252559514344048133?rel=author">
+<link rel="publisher" href="https://plus.google.com/+RoiAu">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy -">
+<meta property="og:description" content="We may collect website visitors' contact information (like their e-mail addresses). Unless you object, this information may be used: to send news, informat">
+<meta property="og:url" content="http://www.roi.com.au/roi-privacy-policy/">
+<meta property="og:site_name" content="roi.com.au">
+<meta property="article:published_time" content="2012-01-20T10:48:03+00:00">
+<meta property="article:modified_time" content="2012-01-20T10:59:36+00:00">
+<meta property="og:image" content="http://www.roi.com.au/wp-content/uploads/2011/03/FacebookAd600x315google2.jpg">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@roicomau">
+<meta name="twitter:domain" content="roi.com.au">
+<meta name="twitter:creator" content="@roicomau">
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="roi.com.au » Feed" href="http://www.roi.com.au/feed/">
+<link rel="alternate" type="application/rss+xml" title="roi.com.au » Comments Feed" href="http://www.roi.com.au/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="roi.com.au » Privacy Policy Comments Feed" href="http://www.roi.com.au/roi-privacy-policy/feed/">
+<link rel="stylesheet" id="google_plus_stream_stylesheet-css" href="http://www.roi.com.au/wp-content/plugins/google-plus-stream-widget-plugin-for-wordpress/css/google-plus-stream-style.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="wp-paginate-css" href="http://www.roi.com.au/wp-content/plugins/wp-paginate/wp-paginate.css?ver=1.2.4" type="text/css" media="screen">
+<link rel="stylesheet" id="flare-css" href="http://www.roi.com.au/wp-content/plugins/flare/css/flare.css?ver=1.2.6" type="text/css" media="all">
+<link rel="stylesheet" id="flare-oswald-font-css" href="http://fonts.googleapis.com/css?family=Oswald%3A700%3Alatin&amp;text=1234567890MK.&amp;ver=1.2.6" type="text/css" media="all">
+<link rel="stylesheet" id="mr_social_sharing-css" href="http://www.roi.com.au/wp-content/plugins/social-sharing-toolkit/style_2.1.2.css?ver=3.7.1" type="text/css" media="all">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js?ver=1.3.2"></script>
+<script type="text/javascript" src="http://www.roi.com.au/wp-content/plugins/google-plus-stream-widget-plugin-for-wordpress/js/google-plus-stream-js.js?ver=1.0"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js?ver=3.7.1"></script>
+<script type="text/javascript" src="http://www.roi.com.au/wp-includes/js/comment-reply.min.js?ver=3.7.1"></script>
+<script type="text/javascript" src="http://www.roi.com.au/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.4.5"></script>
+<!-- Google Analytics Tracking by Google Analyticator 6.4.5: http://www.videousermanuals.com/google-analyticator/ -->
+<script type="text/javascript">
+	var analyticsFileTypes = [''];
+	var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-8089868-1']);
+        _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google 
+        
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!--Include Jquery scripts -->
+
+<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+
+<script type="text/javascript" src="http://www.roi.com.au/wp-content/themes/ROI.com.au/js/master.js"></script>
+<script type="text/javascript" src="http://www.roi.com.au/wp-content/themes/ROI.com.au/js/odometer.js"></script>
+<script type="text/javascript" src="http://www.roi.com.au/wp-content/themes/ROI.com.au/js/jquery.cycle.min.js"></script>
+<script type="text/javascript" src="http://www.roi.com.au/wp-content/themes/ROI.com.au/js/jquery.simpletip-1.3.1.min.js"></script>
+<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script> <!-- Include Google 'Plus One Button -->
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4fb1cc0176ed323d"></script>
+<!--<script type="text/javascript" src="http://www.roi.com.au/wp-content/themes/ROI.com.au/js/jquery-ui-1.8.20.custom.min.js"></script> -->
+<link rel="stylesheet" type="text/css" href="http://www.roi.com.au/wp-content/themes/ROI.com.au/css/ui-darkness/jquery-ui-1.8.20.custom.css">
+<!-- Include lightbox script for homepage popup -->
+<link rel="stylesheet" type="text/css" href="http://www.roi.com.au/wp-content/themes/ROI.com.au/shadowbox-3.0.3/shadowbox.css">
+<script type="text/javascript" src="http://www.roi.com.au/wp-content/themes/ROI.com.au/shadowbox-3.0.3/shadowbox.js"></script>
+
+<!--[if lte IE 8]>
+<link rel="stylesheet" type="text/css" href="http://www.roi.com.au/wp-content/themes/ROI.com.au/css/ie.css">
+<![endif]-->
+
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.roi.com.au/wp-content/themes/ROI.com.au/css/ie7.css">
+<![endif]-->
+
+<!--[if lte IE 9]>
+            <style type="text/css">
+                .lb-overlay div h3 {color:#fff !important;}
+				#wd-page2 h3 {color:#fff !important;}
+            </style>
+<![endif]-->
+
+
+<script type="text/javascript">
+// Click Fraud Code
+$(document).ready(function(){
+                var patt1 = new RegExp("aclk");
+                var patt2 = new RegExp("gclid");
+                var patt3 = new RegExp("OVKEY");
+                if (patt1.test(encodeURIComponent(document.referrer)) == true || patt2.test(encodeURIComponent(document.referrer)) == true || patt3.test(encodeURIComponent(window.location)) == true) {
+                                $.ajax({url: 'http://dm3.roi.com.au/db.php?ref=' + encodeURIComponent(document.referrer) + '&url=' + encodeURIComponent(window.location)})
+                }
+});
+</script>
+
+<script type="text/javascript">
+// Popup on homepage
+Shadowbox.init({
+        player:     "iframe",
+        height:     500,
+        width:      900
+});
+
+
+// Ticker on homepage
+
+var odometer;
+$(function(){ 
+	odometer = $('#counter').odometer({
+		counterStart : "00000",
+		numbersImage : "http://www.roi.com.au/wp-content/themes/ROI.com.au/images/numbers.png",
+		backgroundImage : "http://www.roi.com.au/wp-content/themes/ROI.com.au/images/background.png", 
+		widthNumber : "39",
+		heightNumber : "34",
+		speed: 1000
+		
+	});
+});
+function updateNumber(number) {
+	odometer.trigger('setNumbersFromUpdatedNumber', number);  
+}
+
+
+$(document).ready(function(){
+	setInterval("ajaxify()", 3000);
+});
+function ajaxify() {
+	$.ajax({
+	  url: "http://www.roi.com.au/wp-content/themes/ROI.com.au/ajax/traffic_ticker.php",
+	  cache: false,
+	  success: function(html){
+		updateNumber(html)
+	  }
+	});
+}
+
+
+//Slideshow on homepage
+
+$(document).ready(function() {
+    $('.slideshow').cycle({
+		fx: 'fade',
+		timeout:  6000,
+		speedIn:  3000,  // speed of the 'in' transition 
+    	speedOut: 500  // speed of the 'out' transition
+	});
+	
+//Slideshow on main SEO page
+	$('#analytics-results').cycle({ 
+		timeout:  9000,
+		speedIn:  3000,  // speed of the 'in' transition 
+    	speedOut: 500  // speed of the 'out' transition
+	});
+	
+	// disqus remove 'no comments'
+	/*var numposts = document.getElementById("dsq-num-posts");
+	alert(numposts+"....");
+
+
+//	alert(document.getElementById('dsq-num-posts').innerHTML + "...");
+	if(document.getElementById('dsq-num-posts').value == '0') {
+		alert('rah');
+		//document.getElementById('dsq-comments-title').style.visibility = "none";
+	}*/
+});
+
+</script>
+
+
+
+<script type="text/javascript">
+(function($){
+$(document).ready(function(){
+	$('.expand').click(function(){
+		if($(this).closest('.accordion-item').find('.detail').css('display')=='none'){
+                $(this).text('HIDE INSTRUCTIONS');
+} else{
+                $(this).text('VIEW INSTRUCTIONS');
+}
+
+		
+		$(this).closest('.accordion-item').find('.detail').slideToggle();
+	});
+});
+
+})(jQuery);
+</script>
+
+
+<!--GOOGLE Plus badge//-->
+<script type="text/javascript">
+window.___gcfg = {lang: 'en'};
+(function() 
+{var po = document.createElement("script");
+po.type = "text/javascript"; po.async = true;po.src = "https://apis.google.com/js/plusone.js";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(po, s);
+})();</script>
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<!--GOOGLE Plus badge//-->
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head><body class="page page-id-5734 page-template-default"><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+
+
+	
+
+
+
+<div id="external_container">
+<div id="container">
+
+<div id="header">
+
+
+	<div class="wrapper wrapper_header">
+    	<a href="http://www.roi.com.au/" title="roi.com.au" rel="home" id="home_link"><img src="http://www.roi.com.au/wp-content/themes/ROI.com.au/images/roi_logo.png" alt="SEO Australia Search Engine Optimisation Digital Marketing"></a>
+        <span class="phone">1300 650 274</span>
+
+		<div class="header-social-icons">
+			<a href="http://www.facebook.com/roicomau" title="ROI on Facebook"><img src="http://www.roi.com.au/wp-content/themes/ROI.com.au/images/facebook_icon.png" alt="Facebook"></a>
+			<a href="http://www.twitter.com/roicomau" title="ROI on Twitter"><img src="http://www.roi.com.au/wp-content/themes/ROI.com.au/images/twitter_icon.png" alt="Twitter"></a>
+			<a href="http://www.youtube.com/roicomau" title="ROI on YouTube"><img src="http://www.roi.com.au/wp-content/themes/ROI.com.au/images/youtube_icon.png" alt="YouTube"></a>
+			<a href="http://www.linkedin.com/company/483165" title="ROI on LinkedIn"><img src="http://www.roi.com.au/wp-content/themes/ROI.com.au/images/linkedin_icon.png" alt="LinkedIn"></a>
+			<a href="https://plus.google.com/114775828470870438720?prsrc=3" rel="publisher" style="text-decoration:none;"><img src="http://www.roi.com.au/wp-content/themes/ROI.com.au/images/gplus-32.png" alt="" style="border:0;width:30px;height:30px;"></a>
+		</div>
+		
+		<div id="access">
+		<div class="menu-header"><ul id="menu-main-menu" class="menu"><li id="menu-item-300" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-300"><a href="http://www.roi.com.au/contact/">contact</a></li>
+<li id="menu-item-313" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-313"><a href="#">other services</a>
+<ul class="sub-menu">
+	<li id="menu-item-477" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-477"><a href="http://www.roi.com.au/google-places-optimisation/">Google Plus &amp; Places Optimisation Local SEO</a></li>
+	<li id="menu-item-475" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-475"><a href="http://www.roi.com.au/copywriting-seo-web-content/">Copywriting</a></li>
+	<li id="menu-item-4358" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4358"><a href="http://www.roi.com.au/facebook-optimisation/">Facebook Optimisation</a></li>
+</ul>
+</li>
+<li id="menu-item-9192" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9192"><a href="http://www.roi.com.au/web-design/">web design</a>
+<ul class="sub-menu">
+	<li id="menu-item-10837" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10837"><a href="http://www.roi.com.au/web-design/desktop/">Desktop</a></li>
+	<li id="menu-item-10838" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10838"><a href="http://www.roi.com.au/web-design/mobile-responsive/">Mobile / Responsive</a></li>
+	<li id="menu-item-10839" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10839"><a href="http://www.roi.com.au/web-design/custom/">Custom</a></li>
+</ul>
+</li>
+<li id="menu-item-9611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9611"><a href="http://www.roi.com.au/google-adwords/">Google AdWords</a></li>
+<li id="menu-item-9350" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9350"><a title="SEO Search Engine Optimisation" href="http://www.roi.com.au/seo/">search engine optimisation</a>
+<ul class="sub-menu">
+	<li id="menu-item-10078" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10078"><a title="SEO Melbourne Search Engine Optimisation" href="http://www.roi.com.au/seo/melbourne/">Melbourne</a></li>
+	<li id="menu-item-10080" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10080"><a title="SEO Sydney Search Engine Optimisation" href="http://www.roi.com.au/seo/sydney/">Sydney</a></li>
+	<li id="menu-item-10076" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10076"><a title="SEO Brisbane Search Engine Optimisation" href="http://www.roi.com.au/seo/brisbane/">Brisbane</a></li>
+	<li id="menu-item-10077" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10077"><a title="SEO Perth Search Engine Optimisation" href="http://www.roi.com.au/seo/perth/">Perth</a></li>
+	<li id="menu-item-10079" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10079"><a title="SEO Adelaide Search Engine Optimisation" href="http://www.roi.com.au/seo/adelaide/">Adelaide</a></li>
+</ul>
+</li>
+</ul></div>        </div>
+
+    </div><!-- /wrapper -->
+</div><!-- / header -->
+	
+	
+	
+
+	    <div id="sub_menu">
+		<div class="wrapper">
+		<div class="menu-header"><ul id="menu-sub-menu" class="menu"><li id="menu-item-370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-370"><a href="http://www.roi.com.au/">home</a></li>
+<li id="menu-item-375" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-375"><a href="http://www.roi.com.au/about-us/">about ROI</a></li>
+<li id="menu-item-374" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-374"><a href="http://www.roi.com.au/why-roi/">why choose ROI</a></li>
+<li id="menu-item-523" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-523"><a href="http://www.roi.com.au/testimonials/">testimonials</a></li>
+<li id="menu-item-499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-499"><a href="http://www.roi.com.au/blog/">ROI blog</a></li>
+</ul></div>    	<form role="search" method="get" id="searchform" class="searchform" action="http://www.roi.com.au/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s">
+					<input type="submit" id="searchsubmit" value="Search">
+				</div>
+			</form>    	</div>
+	</div>
+    <div class="clear"></div>
+    <div class="wrapper">
+        
+		
+</div>
+
+
+
+ 
+
+
+
+<div class="wrapper">
+<div id="twocol_content"> 
+        
+        
+                        						
+													
+                            <h1>Privacy Policy</h1>
+							
+							                                                
+                            
+                            <div class="privacypolicy">
+<p>We may collect website visitors’ contact information (like their e-mail addresses). Unless you object, this information may be used:</p>
+<ul>
+<li>to send news, information about our activities and general promotional material which we believe may be useful to you;</li>
+<li>to monitor who is accessing the website or using services offered on the website; and</li>
+<li>to profile the type of people accessing the website.</li>
+</ul>
+<p>If you do not wish to have your personal information used in this manner or for any other specific purpose, you can e-mail us accordingly.</p>
+<p>We utilise “cookies” which enable us to monitor traffic patterns and to serve you more efficiently if you revisit the site. A cookie does not identify you personally but it does identify your computer. You can set your browser to notify you when you receive a cookie and this will provide you with an opportunity to either accept or reject it in each instance.<br><br>
+We will not sell or otherwise provide your personal information to a third party, or make any other use of your personal information, for any purpose which is not incidental to your use of this website. For the removal of doubt, personal information will not be used for any purpose which a reasonable person in your position would not expect.&lt;<br>
+If you request us not to use personal information in a particular manner or at all, we will adopt all reasonable measures to observe your request but we may still use or disclose that information if:</p>
+<ul>
+<li>we subsequently notify you of the intended use or disclosure and you do not object to that use or disclosure;</li>
+<li>we believe that the use or disclosure is reasonably necessary to assist a law enforcement agency or an agency responsible for government or public security in the performance of their functions; or</li>
+<li>we are required by law to disclose the information.</li>
+</ul>
+<p>We will preserve the content of any e-mail you send us if we believe we have the legal requirement to do so.</p>
+<p>Your e-mail message content may be monitored by us for trouble-shooting or maintenance purposes or if any form of e-mail abuse is suspected.<br><br>
+Personal information which we collect may be aggregated for analysis but in such circumstances we would ensure that individuals would remain anonymous.<br><br>
+All personal information which we collect (including your contact details and, if relevant, credit card details) is kept confidential to the best of our ability. You will appreciate, however, that we cannot guarantee the security of transmission.<br><br>
+We consider it is the responsibility of parents to monitor their children’s use of our website. Nevertheless it is our policy not to require personal information from persons known to be under the age of 18 years or offer to send any promotional material to persons in that category.</p>
+<p>You are entitled to have access to any personal information relating to you which you have previously supplied to us over this website. You are entitled to edit or delete such information unless we are required by law to retain it.</p>
+<p>If you wish to comment on or query our privacy policy, or if you wish to make an inquiry regarding any personal information relating to you which may be in our possession, contact us.</p>
+</div>
+                                                            
+      
+    
+                </div><!-- /two_col_content -->
+    
+    <div id="sidebar">
+	   
+
+    <a name="top"></a>
+		
+		  
+
+				  <div class="subsingle">
+		<div id="singlenews">
+		<img src="/wp-content/themes/ROI.com.au/includes/images/newsletter.png" id="absimg">
+		<h3><span>Subscribe to </span>our Newsletter</h3>
+		<p>Read the latest news advice and tips on SEO, internet marketing &amp; online advertising.</p>
+		<div class="form">
+		<form action="/wp-content/themes/ROI.com.au/includes/mailer.php" method="post" onsubmit="checkform(this); alert('Thank you for subscribing.');">
+		<input type="text" name="hp" style="display:none;">
+		<input type="hidden" name="subject" value="roi.com.au | new subscribe">
+		<input type="hidden" name="redirect" value="http://www.roi.com.au/roi-privacy-policy//?mailerform=1">
+		<div class="custom-input clearfix">
+		<label class="placeholder" for="ns-name">Your Name*</label>
+		<input type="text" value="" name="Full Name" class="placeholder" id="mce-EMAIL" placeholder="" required="">
+		</div>
+		<div class="custom-input clearfix">
+		<label class="placeholder" for="ns-email">Email Address*</label>
+		<input type="email" value="" name="Email Address" class="placeholder" id="mce-EMAIL" placeholder="" required="">
+		</div>
+		<div class="custom-input clearfix">
+		<label class="placeholder" for="ns-telephone">Ph. Number</label>
+		<input type="tel" value="" name="telephone" class="placeholder" id="mce-EMAIL" placeholder="">
+		</div>
+		<button type="submit" name="subscribe" id="mc-embedded-subscribe" onclick="_gaq.push(['_trackEvent', 'submit', 'newsletter-signup']);">subscribe</button>
+		</form>
+		</div>
+		</div>
+			  </div> 
+
+		
+		
+	
+	
+		
+
+	
+        
+	
+        
+    
+	    	
+	
+
+   
+
+	
+     
+	
+        
+    	
+      
+
+	 
+	
+	
+        
+    
+        
+    
+    
+    
+</div>    <div class="clear"></div>
+
+</div><!-- /wrapper -->
+
+
+
+
+	<!-- INTERNAL FOOTER -->
+
+	<div id="footer-internal">
+
+
+
+
+
+<div class="wrapper">
+
+
+
+
+
+
+<!-- HOME FOOTER -->
+
+
+<!-- INTERNAL FOOTER -->
+
+      <div class="clear"></div>
+      <div id="final_footer">
+      <div class="menu-header"><ul id="menu-seo-footer-menu" class="menu"><li id="menu-item-4803" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4803"><a href="http://www.roi.com.au/careers/">Careers @ roi.com.au</a></li>
+<li id="menu-item-357" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-357"><a href="/sitemap/">Sitemap</a></li>
+<li id="menu-item-5749" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5749"><a href="http://www.roi.com.au/terms-and-conditions/">ROI’s Terms and Conditions</a></li>
+<li id="menu-item-564" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-564"><a href="/roi-privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-5771" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5771"><a href="http://www.roi.com.au/google-advert-guide/">Advertiser Guide</a></li>
+<li id="menu-item-7871" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7871"><a href="http://www.google.com/adwords/thirdpartypartners/">Working with Third-Parties</a></li>
+<li id="menu-item-364" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-364"><a href="http://www.roi.com.au/seo/">Australia</a></li>
+</ul></div>      </div>	
+
+
+	</div><!-- /wrapper -->
+</div>
+<script type="text/javascript" src="http://www.roi.com.au/wp-content/plugins/social-sharing-toolkit/script_2.1.2.js?ver=3.7.1"></script>
+<script type="text/javascript" src="http://www.roi.com.au/wp-content/plugins/social-sharing-toolkit/includes/buttons/button.facebook.js?ver=3.7.1"></script>
+<script type="text/javascript" src="//connect.facebook.net/en_US/all.js?ver=3.7.1#xfbml=1&amp;appId=188707654478"></script>
+<script type="text/javascript" src="https://platform.twitter.com/widgets.js?ver=3.7.1"></script>
+<script type="text/javascript" src="http://www.roi.com.au/wp-content/plugins/social-sharing-toolkit/includes/buttons/button.googleplus.js?ver=3.7.1"></script>
+<script type="text/javascript" src="http://assets.pinterest.com/js/pinit.js?ver=3.7.1"></script>
+<script type="text/javascript" src="http://platform.linkedin.com/in.js?ver=3.7.1"></script>
+
+<script>
+  $(document).ready(function() {
+
+    $('form').on("submit", function() {
+      var form = $(this);
+      var checkbox = $(this).find("input[name='cta_newsletter']");
+      if (!form.hasClass("done")) {
+        if ((checkbox.length > 0 && checkbox.is(':checked'))) {
+
+          var u = "ea1ac9ad960861ae6890a3430";
+          var id = "dea05ad54f";
+          var MERGE0 = $(this).find("input[name='cta_email']").val();
+          var MERGE1 = $(this).find("input[name='cta_contact_name']").val();
+
+          $.ajax({
+            type: "GET",
+            url: "http://roi.us7.list-manage.com/subscribe/post-json?id=" + id + "&u=" + u + "&MERGE0=" + MERGE0 + "&MERGE1=" + MERGE1 + "&c=?",
+            data: null,
+            dataType: "json",
+            success: function(data) {
+              form.addClass("done");
+              form.submit();
+            }
+          });
+        } else {
+          form.submit();
+          return true;
+        }
+      } else {
+        form.submit();
+        return true;
+      }
+    })
+  })
+</script>
+<script>
+if(getUtmCookie()){
+	jQuery('form:not(#searchform, .noUTM)').append('<textarea name="UTM_Details" style="display:none"></textarea>');
+	jQuery('form textarea[name=UTM_Details]').text("\r\n" + decodeURIComponent(getUtmCookie()));
+}
+</script>
+<script type="text/javascript">
+adroll_adv_id = "C5N6A5IW4NERHK34JQOC6H";
+adroll_pix_id = "4LIJY7LARBFQJFBQXH4FRU";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+
+
+
+
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1066966506;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1066966506/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+
+</div></div></body></html>
