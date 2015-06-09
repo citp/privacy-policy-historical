@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bartercard.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204043509id_/http%3A//www.bartercard.com.au/About/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bartercard.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609065215id_/http%3A//www.bartercard.com.au/About/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Bartercard Australia
 
