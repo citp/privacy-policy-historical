@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the savingeveryday.net privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922120140id_/http%3A//www.savingeveryday.net/2009/02/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savingeveryday.net privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610001347id_/http%3A//www.savingeveryday.net/2009/02/privacy-policy) for the most accurate reproduction.*
 
 # Privacy And Disclosure Policy
-
-Feb 1, 2009
 
 By · 
 
@@ -33,6 +31,9 @@ Privacy Policy
   * We will make readily available to customers information about our policies and practices relating to the management of personal information.
   * We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
+  
+  
 
 
-This post may contain affiliate links. [View our Disclosure Policy](http://www.savingeveryday.net/2009/02/privacy-policy/)
+This post may contain affiliate links. [View our Disclosure Policy](http://www.savingeveryday.net/2009/02/privacy-policy/)  
+
