@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flora2000.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626035747id_/http%3A//www.flora2000.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flora2000.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609231923id_/http%3A//www.flora2000.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Flora2000
 
@@ -31,4 +31,4 @@ Contacting Us -Thank you for allowing us to serve your gifting needs. We value y
 
 You may contact us using the information below:  
 support@flora2000.com  
-+1-212-655 3075 
+1800 456 1797 
