@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the allfreecrochetafghanpatterns.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120061121id_/http%3A//www.allfreecrochetafghanpatterns.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreecrochetafghanpatterns.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609224122id_/http%3A//www.allfreecrochetafghanpatterns.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | AllFreeCrochetAfghanPatterns.com
 
 **Privacy Policy / Your California Privacy Rights**  
-Revised and posted as of July 28, 2014
+Revised and posted as of March 25, 2015
 
 Prime Publishing, LLC ("Company," "we" or "us") reserves the right to revise this Privacy Policy at any time simply by posting such revision, so we encourage you to review it periodically. In order to track any changes to this Privacy Policy, we will include a historical reference at the top of this document.
 
@@ -115,7 +115,13 @@ Additionally, we may share, license or sell your information to third parties fo
 
 **Third Party Cookies**
 
-Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content.   These cookies contain no personally identifiable information.  The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to http://www.aboutads.info/choices.
+Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content.   These cookies contain no personally identifiable information.  The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form.
+
+**How You Can Control Third Party Advertising Cookies**
+
+You can use [Ads Settings](http://www.google.com/ads/preferences/?hl=en) to manage the Google ads you see and opt out of interest-based ads. Even if you opt out of interest-based ads, you may still see ads based on factors such as your general location derived from your IP address, your browser type and recent, previous searches related to your current search.
+
+You can also manage many companies’ cookies used for online advertising at the US-based [aboutads.info choices](http://www.aboutads.info/choices/) page or the EU-based [Your Online Choices](http://www.youronlinechoices.com/uk/your-ad-choices).
 
 **Governmental Agencies or Other Companies**  
 We may share your information with law enforcement officials or governmental agencies: (1) in response to their request; (2) when permitted or required by law; or (3) to establish our compliance with applicable laws, rules, regulations, or guidelines.
@@ -132,7 +138,7 @@ Should the Company choose to sell or transfer business assets, it is possible th
 **COMPANY CUSTOMER CHOICES**
 
 **Marketing Communications and Unsubscribe Information**  
-By completing and submitting a Company registration form, you are consenting to receive marketing communications from the Company and its third party marketing partners. If, after you have shared your information with the Company, you decide that you do not want to receive marketing communications or newsletters from the Company and its third party marketing partners, you can discontinue the communications by [clicking here](http://www.favecrafts.com/section/subctr/) and filling out our form. If you have registered or submitted information under more than one e-mail account, you must submit separate unsubscribe requests for each account.
+By completing and submitting a Company registration form, you are consenting to receive marketing communications from the Company and its third party marketing partners. If, after you have shared your information with the Company, you decide that you do not want to receive marketing communications or newsletters from the Company and its third party marketing partners, you can discontinue the communications by [clicking here](http://www.allfreecrochetafghanpatterns.com/section/subctr) and filling out our form. If you have registered or submitted information under more than one e-mail account, you must submit separate unsubscribe requests for each account.
 
 **Request for More Information**  
 As it relates to marketing communications or any other questions you might have about our Privacy Policy, please write to us at Prime Publishing, LLC, 3400 Dundee Road, Suite 220, Northbrook, IL 60062.
