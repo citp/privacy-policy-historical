@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the charlottetilbury.com privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812100610id_/http%3A//www.charlottetilbury.com/help/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charlottetilbury.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610013646id_/http%3A//www.charlottetilbury.com/uk/help/security-privacy) for the most accurate reproduction.*
 
-# Privacy & Cookies Policy - Charlotte Tilbury
+# Privacy & Cookies Policy | Charlotte Tilbury
 
 This privacy policy sets out how Charlotte Tilbury Beauty Ltd uses and protects any information that you disclose when you use this website. Charlotte Tilbury Beauty Ltd is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Charlotte Tilbury Beauty Ltd may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
