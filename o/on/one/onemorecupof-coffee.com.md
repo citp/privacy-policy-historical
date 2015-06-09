@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onemorecupof-coffee.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120163648id_/http%3A//onemorecupof-coffee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onemorecupof-coffee.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609091924id_/http%3A//onemorecupof-coffee.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | One More Cup of Coffee
+# Privacy Policy
 
 *As a special note to my visitors,, I will NOT give any of your information to anyone, for any reason. You can opt into my email lists to receive updates and training, otherwise I will not send you any BS to your inbox.
 
