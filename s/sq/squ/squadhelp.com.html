@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the squadhelp.com privacy policy that was archived on 2014-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141124164757id_/http%3A//www.squadhelp.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the squadhelp.com privacy policy that was archived on 2015-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150609092300id_/http%3A//www.squadhelp.com/privacy_policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html><html><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Branding, Marketing, Naming Consultants, Freelancers and Contests</title>
 <link href="site.css" rel="stylesheet" type="text/css">
@@ -21,11 +23,17 @@ function MM_changeProp(objId,x,theProp,theValue) { //v9.0
 </head>
 
 <body>
-		<div class="main">
+		
+        <script src="http://www.squadhelp.com/jquery/jquery-1.6.4.min.js"></script> 
+<script type="text/javascript">               
+var jqr = jQuery.noConflict();
+
+</script>
         
 <style>
 .midbg {background:url(http://www.squadhelp.com/images/mid_bg.jpg) left repeat-x; color:#ffffff;}
 </style>
+
 
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-M6CM29"
@@ -38,15 +46,48 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 
         
-        <link rel="stylesheet" href="css/screendesign.css?v=14" type="text/css" media="screen">
-        
+<link rel="stylesheet" href="css/screendesign.css?v=15" type="text/css" media="screen">
+<link rel="stylesheet" href="css/responsive.css?v=15" type="text/css" media="screen">
 
 <!--Shadowbox-->
-<link rel="stylesheet" type="text/css" href="nyro/shadowbox.css">
+<link rel="stylesheet" type="text/css" href="nyro/shadowbox.css?v=15">
 <script type="text/javascript" src="nyro/shadowbox.js"></script>
 
+<style>
+.modal-open{ background:red;}
+</style>
 <script type="text/javascript">
-Shadowbox.init();
+//Shadowbox.init();
+function preventDefault(e) {
+  e = e || window.event;
+  if (e.preventDefault)
+      e.preventDefault();
+  e.returnValue = false;  
+}
+
+function theMouseWheel(e) {
+  preventDefault(e);
+}
+
+function onOpenShadowbox()
+{
+  /*document.body.style.overflow = "hidden"; 
+  document.body.style.height = "100px"; */
+  /*if (window.addEventListener) {
+      window.addEventListener('DOMMouseScroll', theMouseWheel, false);
+  }
+  window.onmousewheel = document.onmousewheel = theMouseWheel;*/
+}
+function onCloseShadowbox()
+{
+	/*document.body.style.overflow = "auto";
+	document.body.style.height = "auto"; */
+    /*if (window.removeEventListener) {
+        window.removeEventListener('DOMMouseScroll', theMouseWheel, false);
+    }
+    window.onmousewheel = document.onmousewheel = null;*/
+}
+Shadowbox.init({onOpen:onOpenShadowbox, onClose:onCloseShadowbox});
 if(''==1)
 {
 	window.onload = function() {
@@ -78,7 +119,46 @@ function openimage(image)
 			player:     "img"			
 		});
 }
-		
+if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i))) {
+	var element = document.createElement("link");
+	element.setAttribute("rel", "stylesheet");
+	element.setAttribute("type", "text/css");
+	element.setAttribute("href", "css/iphone.css");
+	document.getElementsByTagName("head")[0].appendChild(element);
+}
+</script>
+<script type="text/javascript">
+function showhidefilter(t)
+{
+	jqr('#mainfilter').fadeToggle('normal',function(){
+		if(jqr('#mainfilter').is(":visible")==true){
+			jqr(t).html('<span>Filter</span> <img src="http://www.squadhelp.com/images/icn_up_16.png">');
+		}else{
+			jqr(t).html('<span>Filter</span> <img src="http://www.squadhelp.com/images/icn_dwn_16.png">');
+		}
+	});
+}
+function showhidedashboard(t)
+{
+	jqr('#dashboard_box').fadeToggle('normal',function(){
+		if(jqr('#dashboard_box').is(":visible")==true){
+			jqr(t).html('<span>My Dashboard</span> <img src="http://www.squadhelp.com/images/icn_up_16.png">');
+		}else{
+			jqr(t).html('<span>My Dashboard</span> <img src="http://www.squadhelp.com/images/icn_dwn_16.png">');
+		}
+	});
+}
+function showhidecontest(t)
+{
+	jqr('#dashboard_box2').fadeToggle('normal',function(){
+		if(jqr('#dashboard_box2').is(":visible")==true){
+			jqr(t).html('<span>Recently Viewed Contests</span> <img src="http://www.squadhelp.com/images/icn_up_16.png">');
+		}else{
+			jqr(t).html('<span>Recently Viewed Contests</span> <img src="http://www.squadhelp.com/images/icn_dwn_16.png">');
+		}
+	});
+}
+
 </script>
 <style type="text/css">
 #sb-nav{float:right;height:16px;padding:2px 0;width:45%;}
@@ -90,16 +170,15 @@ function openimage(image)
 			<header id="header">
 				<div class="inner">
 					<a href="http://www.squadhelp.com/" id="identity"><img src="http://www.squadhelp.com/images_new/identity.png" alt="SquadHelp"></a>
+                    <div id="launch-a-contest"><a href="http://www.squadhelp.com/contesttype">Launch a Contest</a></div>
 					<nav class="staffNav">
                                             						
                                                
-                                                    <a rel="shadowbox;width=620;height:700;" href="http://www.squadhelp.com/PopupLogin/" class="purple_14_link" title=""><img src="https://www.squadhelp.com/images/login.png" width="49" height="26" align="login" border="0" alt="LogIn"></a>&nbsp;&nbsp;
-                                                    <a rel="shadowbox;width=640;height:700;" href="http://www.squadhelp.com/PopupSignup/" id="clicksignup"><img src="https://www.squadhelp.com/images/signup.png" width="61" height="26" alt="signup" border="0"></a>&nbsp;&nbsp;
-                                             <!--<a href="#" onclick='window.open("http://www.facebook.com/login.php?api_key=31934491cf24aa6238f745a8136d3e25&connect_display=popup&v=1.0&next=facebook/sign_in_chk.php?page=popup&cancel_url=facebook/sign_in_chk.php&fbconnect=true&return_session=true&req_perms=read_stream,publish_stream,offline_access,email","","width=500,height=400")'>-->
-                                                    <a href="#" onclick="window.open(&quot;https://www.facebook.com/dialog/oauth?client_id=110109922373970&amp;redirect_uri=http://www.squadhelp.com/facebook/sign_in_chk2.php?page=popup&amp;scope=read_stream,publish_stream,offline_access,email&quot;,&quot;&quot;,&quot;width=500,height=400&quot;)">
-                                                    <img src="https://www.squadhelp.com/images/facebook.png" width="175" height="28" alt="facebook" border="0"></a>		
-                                                    
-
+                                <a rel="shadowbox;width=620;height:700;" href="http://www.squadhelp.com/PopupLogin/" class="purple_14_link" title=""><img src="http://www.squadhelp.com/images/login.png" width="49" height="26" align="login" border="0" alt="LogIn"></a>&nbsp;&nbsp;
+                                <a rel="shadowbox;width=640;height:700;" href="http://www.squadhelp.com/PopupSignup/" id="clicksignup"><img src="http://www.squadhelp.com/images/signup.png" width="61" height="26" alt="signup" border="0"></a>&nbsp;&nbsp;
+                                <!--<a href="#" onclick='window.open("http://www.facebook.com/login.php?api_key=31934491cf24aa6238f745a8136d3e25&connect_display=popup&v=1.0&next=facebook/sign_in_chk.php?page=popup&cancel_url=facebook/sign_in_chk.php&fbconnect=true&return_session=true&req_perms=read_stream,publish_stream,offline_access,email","","width=500,height=400")'>-->
+                                <a href="#" onclick="window.open(&quot;https://www.facebook.com/dialog/oauth?client_id=110109922373970&amp;redirect_uri=http://www.squadhelp.com/facebook/sign_in_chk2.php?page=popup&amp;scope=read_stream,publish_stream,offline_access,email&quot;,&quot;&quot;,&quot;width=500,height=400&quot;)">
+                                <img src="http://www.squadhelp.com/images/facebook.png" width="175" height="28" alt="facebook" border="0"></a>
 
                                                                                                        
 					</nav>
@@ -107,33 +186,83 @@ function openimage(image)
 			</header>
 	
   
+<script type="text/javascript">
+(function(){
+	function isTouchDevice(){
+		try{
+			document.createEvent("TouchEvent");
+			return true;
+		}catch(e){
+			return false;
+		}
+	}
 
- 			<header id="topZone">
+	if(isTouchDevice()){ //if touch events exist...
+		var el=document.getElementsByTagName('iframe')[0];
+		var scrollStartPos=0;
+
+		el.addEventListener("touchstart", function(event) {
+			scrollStartPos=this.scrollTop+event.touches[0].pageY;
+			event.preventDefault();
+		},false);
+
+		el.addEventListener("touchmove", function(event) {
+			this.scrollTop=scrollStartPos-event.touches[0].pageY;
+			event.preventDefault();
+		},false);
+	}
+
+})();
+</script>
+
+ <link rel="stylesheet" type="text/css" href="css/menu.css">
+<script type="text/javascript" src="js/navmobile.js"></script>
+<div id="mobile-nav_bg">          
+<nav id="mobile-navigation">
+    <ul id="main-menu">
+        <li><a href="http://www.squadhelp.com/">Home</a></li>
+        <li><a href="http://www.squadhelp.com/howitworks.php">How It Works</a></li>
+        <li><a href="http://www.squadhelp.com/contesttype">Launch a Contest</a></li>
+        <li><a href="http://www.squadhelp.com/branding-marketing-naming-contests">Active Contests</a></li>
+        <li><a href="http://www.squadhelp.com/winners">Winners</a></li>
+        <li><a href="http://www.squadhelp.com/supportdesk/index.php">Help</a></li>
+                <li class="mobile"><a rel="shadowbox;width=620;height:700;" href="http://www.squadhelp.com/PopupLogin/">Login</a></li><li class="mobile"><a rel="shadowbox;width=640;height:700;" href="http://www.squadhelp.com/PopupSignup/">Signup</a></li><li class="mobile"><a href="#" onclick="window.open(&quot;https://www.facebook.com/dialog/oauth?client_id=110109922373970&amp;redirect_uri=http://www.squadhelp.com/facebook/sign_in_chk2.php?page=popup&amp;scope=read_stream,publish_stream,offline_access,email&quot;,&quot;&quot;,&quot;width=500,height=400&quot;)">Signup with Facebook</a></li>    </ul>
+<form class="search_form" method="post" action="http://www.squadhelp.com/branding-marketing-naming-contests" name="search_form">
+    <input id="main-search-box" type="text" value="" name="keywords" placeholder="Search for contests.." ;="">
+    <img class="search-button" onclick="document.search_form.submit();" src="http://www.squadhelp.com/images/btn_search.gif">
+</form>
+</nav>
+</div>
+<header id="topZone">
+
 				<div class="inner">
-					<nav id="topNav">
-						<ul>
-							<li><a href="http://www.squadhelp.com/">Home</a></li>
-							<li><a href="http://www.squadhelp.com/howitworks.php">How It Works</a></li>
-							<li><a href="http://www.squadhelp.com/contesttype">Launch a Contest</a></li>
-							<li><a href="http://www.squadhelp.com/branding-marketing-naming-contests">Active Contests</a></li>
-							<li><a href="http://www.squadhelp.com/winners">Winners</a></li>
-							<li><a href="http://www.squadhelp.com/supportdesk/index.php">Help</a></li>
-                                                        <form class="search_form" method="post" action="http://www.squadhelp.com/branding-marketing-naming-contests" name="search_form">
-                                                        <li><input id="main-search-box" type="text" value="" name="keywords" placeholder="Search for contests.." ;=""></li><li><img class="search-button" onclick="document.search_form.submit();" src="http://www.squadhelp.com/images/btn_search.gif"></li>
-                                                        </form>
-						</ul>
-
-					</nav>
-                                
+                	<div class="navmain">
+                        <a id="menu-toggle" class="button" href="javascript:;"><img src="http://www.squadhelp.com/images/toogle-menu.png" align="absmiddle"></a>
+                        <nav id="navigation">
+                            <ul id="main-menu">
+                                <li><a href="http://www.squadhelp.com/">Home</a></li>
+                                <li><a href="http://www.squadhelp.com/howitworks.php">How It Works</a></li>
+                                <li><a href="http://www.squadhelp.com/contesttype">Launch a Contest</a></li>
+                                <li><a href="http://www.squadhelp.com/branding-marketing-naming-contests">Active Contests</a></li>
+                                <li><a href="http://www.squadhelp.com/winners">Winners</a></li>
+                                <li><a href="http://www.squadhelp.com/supportdesk/index.php">Help</a></li>
+                            	                                <li class="mobile"><a rel="shadowbox;width=620;height:700;" href="http://www.squadhelp.com/PopupLogin/">Login</a></li><li class="mobile"><a rel="shadowbox;width=640;height:700;" href="http://www.squadhelp.com/PopupSignup/">Signup</a></li><li class="mobile"><a href="#" onclick="window.open(&quot;https://www.facebook.com/dialog/oauth?client_id=110109922373970&amp;redirect_uri=http://www.squadhelp.com/facebook/sign_in_chk2.php?page=popup&amp;scope=read_stream,publish_stream,offline_access,email&quot;,&quot;&quot;,&quot;width=500,height=400&quot;)">Signup with Facebook</a></li>                            </ul>
+                        <form class="search_form" method="post" action="http://www.squadhelp.com/branding-marketing-naming-contests" name="search_form">
+                            <input id="main-search-box" type="text" value="" name="keywords" placeholder="Search for contests.." ;="">
+                            <img class="search-button" onclick="document.search_form.submit();" src="http://www.squadhelp.com/images/btn_search.gif">
+                        </form>
+                        </nav>
+                    </div>
                                                   </div>
 					</header>				
                             <div id="firstheader">
                              
         
         <div class="middle_main">
+        <div class="main">
         	<div class="about-content-main">
             	<ul>
-               	  <li class="about-heading"><span class="blue18">Privacy Policy</span></li>
+               	  <li class="about-heading" id="contents"><span class="blue18">Privacy Policy</span></li>
                 	<li class="about-content"><span class="lightgrey-13">
 					<div class="servicesagreement">
 <div id="content">
@@ -232,8 +361,9 @@ function openimage(image)
           </div>
         </div>        
         </div>
-<style type="text/css">@import url('//www.squadhelp.com/supportdesk/widgets/widgets.css');</style>
-<script type="text/javascript" src="//www.squadhelp.com/supportdesk/widgets/widgets.js"></script>
+
+<style type="text/css">@import url('http://www.squadhelp.com/supportdesk/widgets/widgets.css');</style>
+<script type="text/javascript" src="http://www.squadhelp.com/supportdesk/widgets/widgets.js"></script>
 <script type="text/javascript">
 HelpSpotWidget.Tab.show({
 
@@ -274,7 +404,8 @@ host: 'https://www.squadhelp.com/supportdesk',
 
 
 });
-</script>			
+</script>	
+
 </div>
       <footer id="footer">
 				<div class="inner noPadding clearfix">
@@ -383,7 +514,7 @@ host: 'https://www.squadhelp.com/supportdesk',
 					</div>					
 					
 					<nav id="footerNav">
-						<ul class="clearfix">
+						<ul>
 							<li><a href="http://www.squadhelp.com/AboutUs">About Us</a></li>
 							<li><a href="http://blog.squadhelp.com">Our Blog</a></li>
 							<li><a href="http://www.squadhelp.com/privacy_policy.php">Privacy Policy</a></li>
@@ -412,7 +543,8 @@ host: 'https://www.squadhelp.com/supportdesk',
 	
 
 </div>
+
 	<!-- /End Olark Chat -->
         
         
-</body></html>
+<div id="sb-container"><div id="sb-overlay"></div><div id="sb-wrapper"><div id="sb-title"><div id="sb-title-inner"></div></div><div id="sb-info"><div id="sb-info-inner"><div id="sb-counter"></div><div id="sb-nav"><a id="sb-nav-close" title="Close" onclick="Shadowbox.close()"></a><a id="sb-nav-next" title="Next" onclick="Shadowbox.next()"></a><a id="sb-nav-play" title="Play" onclick="Shadowbox.play()"></a><a id="sb-nav-pause" title="Pause" onclick="Shadowbox.pause()"></a><a id="sb-nav-previous" title="Previous" onclick="Shadowbox.previous()"></a></div></div></div><div id="sb-wrapper-inner"><div id="sb-body"><div id="sb-body-inner"></div><div id="sb-loading"><div id="sb-loading-inner"><span>loading</span></div></div></div></div></div></div></body></html>
