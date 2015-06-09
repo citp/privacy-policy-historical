@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muamat.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208160347id_/http%3A//www.muamat.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muamat.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609072524id_/http%3A//www.muamat.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
