@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the popoholic.com privacy policy that was archived on 2014-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122023229id_/http%3A//www.popoholic.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the popoholic.com privacy policy that was archived on 2015-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610002241id_/http%3A//www.popoholic.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -60,6 +60,120 @@
 
 
 <link rel="alternate" type="application/rss+xml" title="Popoholic » Privacy Policy Comments Feed" href="http://www.popoholic.com/privacy-policy/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/www.popoholic.com\/wp-includes\/js\/wp-emoji.js?ver=4.2.2","twemoji":"http:\/\/www.popoholic.com\/wp-includes\/js\/twemoji.js?ver=4.2.2"}};
+			( function( window, document, settings ) {
+	var src, ready;
+
+	/**
+	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
+	 * made of two characters, so some browsers (notably, Firefox OS X) don't support them.
+	 *
+	 * @since 4.2.0
+	 *
+	 * @param type {String} Whether to test for support of "simple" or "flag" emoji.
+	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
+	 */
+	function browserSupportsEmoji( type ) {
+		var canvas = document.createElement( 'canvas' ),
+			context = canvas.getContext && canvas.getContext( '2d' );
+
+		if ( ! context || ! context.fillText ) {
+			return false;
+		}
+
+		/*
+		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
+		 * it doesn't work when the font is bolder than 500 weight. So, we
+		 * check for bold rendering support to avoid invisible emoji in Chrome.
+		 */
+		context.textBaseline = 'top';
+		context.font = '600 32px Arial';
+
+		if ( type === 'flag' ) {
+			/*
+			 * This works because the image will be one of three things:
+			 * - Two empty squares, if the browser doesn't render emoji
+			 * - Two squares with 'G' and 'B' in them, if the browser doesn't render flag emoji
+			 * - The British flag
+			 *
+			 * The first two will encode to small images (1-2KB data URLs), the third will encode
+			 * to a larger image (4-5KB data URL).
+			 */
+			context.fillText( String.fromCharCode( 55356, 56812, 55356, 56807 ), 0, 0 );
+			return canvas.toDataURL().length > 3000;
+		} else {
+			/*
+			 * This creates a smiling emoji, and checks to see if there is any image data in the
+			 * center pixel. In browsers that don't support emoji, the character will be rendered
+			 * as an empty square, so the center pixel will be blank.
+			 */
+			context.fillText( String.fromCharCode( 55357, 56835 ), 0, 0 );
+			return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+		}
+	}
+
+	function addScript( src ) {
+		var script = document.createElement( 'script' );
+
+		script.src = src;
+		script.type = 'text/javascript';
+		document.getElementsByTagName( 'head' )[0].appendChild( script );
+	}
+
+	settings.supports = {
+		simple: browserSupportsEmoji( 'simple' ),
+		flag:   browserSupportsEmoji( 'flag' )
+	};
+
+	settings.DOMReady = false;
+	settings.readyCallback = function() {
+		settings.DOMReady = true;
+	};
+
+	if ( ! settings.supports.simple || ! settings.supports.flag ) {
+		ready = function() {
+			settings.readyCallback();
+		};
+
+		if ( document.addEventListener ) {
+			document.addEventListener( 'DOMContentLoaded', ready, false );
+			window.addEventListener( 'load', ready, false );
+		} else {
+			window.attachEvent( 'onload', ready );
+			document.attachEvent( 'onreadystatechange', function() {
+				if ( 'complete' === document.readyState ) {
+					settings.readyCallback();
+				}
+			} );
+		}
+
+		src = settings.source || {};
+
+		if ( src.concatemoji ) {
+			addScript( src.concatemoji );
+		} else if ( src.wpemoji && src.twemoji ) {
+			addScript( src.twemoji );
+			addScript( src.wpemoji );
+		}
+	}
+
+} )( window, document, window._wpemojiSettings );
+		</script><script src="http://www.popoholic.com/wp-includes/js/twemoji.js?ver=4.2.2" type="text/javascript"></script><script src="http://www.popoholic.com/wp-includes/js/wp-emoji.js?ver=4.2.2" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.popoholic.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.popoholic.com/wp-includes/wlwmanifest.xml"> 
 <link rel="canonical" href="http://www.popoholic.com/privacy-policy/">
@@ -95,7 +209,7 @@
 <script type="text/javascript">
   if(typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if(typeof(gnm_tile) == 'undefined') gnm_tile=1;
   document.write('<scr'+'ipt src="http://n4403ad.doubleclick.net/adj/gn.popoholic.com/ros;sect=ros;sz=728x90,970x90;tile='+(gnm_tile++)+';ord='+gnm_ord+'?" type="text/javascript"></scr'+'ipt>');
-</script><script src="http://n4403ad.doubleclick.net/adj/gn.popoholic.com/ros;sect=ros;sz=728x90,970x90;tile=1;ord=5057807644145362?" type="text/javascript"></script>
+</script><script src="http://n4403ad.doubleclick.net/adj/gn.popoholic.com/ros;sect=ros;sz=728x90,970x90;tile=1;ord=4523670677252805?" type="text/javascript"></script>
 <!-- END AD TAG -->
         </div></td>
         </tr>
@@ -140,7 +254,7 @@
 <script type="text/javascript">
   if(typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if(typeof(gnm_tile) == 'undefined') gnm_tile=1;
   document.write('<scr'+'ipt src="http://n4403ad.doubleclick.net/adj/gn.popoholic.com/ros;sect=ros;sz=160x600,120x600;tile='+(gnm_tile++)+';ord='+gnm_ord+'?" type="text/javascript"></scr'+'ipt>');
-</script><script src="http://n4403ad.doubleclick.net/adj/gn.popoholic.com/ros;sect=ros;sz=160x600,120x600;tile=2;ord=5057807644145362?" type="text/javascript"></script>
+</script><script src="http://n4403ad.doubleclick.net/adj/gn.popoholic.com/ros;sect=ros;sz=160x600,120x600;tile=2;ord=4523670677252805?" type="text/javascript"></script>
 <!-- END AD TAG --></div>
 <div class="col-1-content">
 <img src="http://www.popoholic.com/images/h-categories.png" alt=""><br>
@@ -169,6 +283,7 @@
 	<a href="http://www.popoholic.com/category/behati-prinsloo/">Behati Prinsloo</a><br>
 	<a href="http://www.popoholic.com/category/bella-thorne/">Bella Thorne</a><br>
 	<a href="http://www.popoholic.com/category/blake-lively/">Blake Lively</a><br>
+	<a href="http://www.popoholic.com/category/bregje-heinen/">Bregje Heinen</a><br>
 	<a href="http://www.popoholic.com/category/brooklyn-decker/">Brooklyn Decker</a><br>
 	<a href="http://www.popoholic.com/category/cameron-diaz/">Cameron Diaz</a><br>
 	<a href="http://www.popoholic.com/category/cameron-russell/">Cameron Russell</a><br>
@@ -184,6 +299,8 @@
 	<a href="http://www.popoholic.com/category/comics/">Comics</a><br>
 	<a href="http://www.popoholic.com/category/courteney-cox/">Courteney Cox</a><br>
 	<a href="http://www.popoholic.com/category/daily-addictions/">Daily Addictions</a><br>
+	<a href="http://www.popoholic.com/category/dakota-fanning/">Dakota Fanning</a><br>
+	<a href="http://www.popoholic.com/category/dakota-johnson/">Dakota Johnson</a><br>
 	<a href="http://www.popoholic.com/category/diane-kruger/">Diane Kruger</a><br>
 	<a href="http://www.popoholic.com/category/doutzen-kroes/">Doutzen Kroes</a><br>
 	<a href="http://www.popoholic.com/category/edita-vilkeviciute/">Edita Vilkeviciute</a><br>
@@ -208,6 +325,7 @@
 	<a href="http://www.popoholic.com/category/extra-hits/">Extra Hits</a><br>
 	<a href="http://www.popoholic.com/category/fergie/">Fergie</a><br>
 	<a href="http://www.popoholic.com/category/gemma-arterton/">Gemma Arterton</a><br>
+	<a href="http://www.popoholic.com/category/gigi-hadid/">Gigi Hadid</a><br>
 	<a href="http://www.popoholic.com/category/gillian-anderson/">Gillian Anderson</a><br>
 	<a href="http://www.popoholic.com/category/gracie-carvalho/">Gracie Carvalho</a><br>
 	<a href="http://www.popoholic.com/category/halle-berry/">Halle Berry</a><br>
@@ -236,6 +354,7 @@
 	<a href="http://www.popoholic.com/category/katharine-mcphee/">Katharine McPhee</a><br>
 	<a href="http://www.popoholic.com/category/katherine-heigl/">Katherine Heigl</a><br>
 	<a href="http://www.popoholic.com/category/kathleen-robertson/">Kathleen Robertson</a><br>
+	<a href="http://www.popoholic.com/category/katie-cassidy/">Katie Cassidy</a><br>
 	<a href="http://www.popoholic.com/category/katrina-bowden/">Katrina Bowden</a><br>
 	<a href="http://www.popoholic.com/category/katy-perry/">Katy Perry</a><br>
 	<a href="http://www.popoholic.com/category/keeley-hazell/">Keeley Hazell</a><br>
@@ -246,6 +365,7 @@
 	<a href="http://www.popoholic.com/category/kristen-bell/">Kristen Bell</a><br>
 	<a href="http://www.popoholic.com/category/kristen-stewart/">Kristen Stewart</a><br>
 	<a href="http://www.popoholic.com/category/kristin-cavallari/">Kristin Cavallari</a><br>
+	<a href="http://www.popoholic.com/category/kylie-jenner/">Kylie Jenner</a><br>
 	<a href="http://www.popoholic.com/category/lais-ribeiro/">Lais Ribeiro</a><br>
 	<a href="http://www.popoholic.com/category/laura-vandervoort/">Laura Vandervoort</a><br>
 	<a href="http://www.popoholic.com/category/lea-michele/">Lea Michele</a><br>
@@ -296,9 +416,11 @@
 	<a href="http://www.popoholic.com/category/scarlett-johansson/">Scarlett Johansson</a><br>
 	<a href="http://www.popoholic.com/category/selena-gomez/">Selena Gomez</a><br>
 	<a href="http://www.popoholic.com/category/selita-ebanks/">Selita Ebanks</a><br>
+	<a href="http://www.popoholic.com/category/shanina-shaik/">Shanina Shaik</a><br>
 	<a href="http://www.popoholic.com/category/sofia-vergara/">Sofia Vergara</a><br>
 	<a href="http://www.popoholic.com/category/sophia-bush/">Sophia Bush</a><br>
 	<a href="http://www.popoholic.com/category/stacy-keibler/">Stacy Keibler</a><br>
+	<a href="http://www.popoholic.com/category/stella-maxwell/">Stella Maxwell</a><br>
 	<a href="http://www.popoholic.com/category/taylor-swift/">Taylor Swift</a><br>
 	<a href="http://www.popoholic.com/category/tricia-helfer/">Tricia Helfer</a><br>
 	<a href="http://www.popoholic.com/category/tulisa-contostavlos/">Tulisa Contostavlos</a><br>
@@ -313,7 +435,14 @@
 </span><br>
 <br>
 <img src="http://www.popoholic.com/images/h-archives.png" alt=""><br>
-<span class="size11">	<a href="http://www.popoholic.com/2014/11/">November 2014</a><br>
+<span class="size11">	<a href="http://www.popoholic.com/2015/06/">June 2015</a><br>
+	<a href="http://www.popoholic.com/2015/05/">May 2015</a><br>
+	<a href="http://www.popoholic.com/2015/04/">April 2015</a><br>
+	<a href="http://www.popoholic.com/2015/03/">March 2015</a><br>
+	<a href="http://www.popoholic.com/2015/02/">February 2015</a><br>
+	<a href="http://www.popoholic.com/2015/01/">January 2015</a><br>
+	<a href="http://www.popoholic.com/2014/12/">December 2014</a><br>
+	<a href="http://www.popoholic.com/2014/11/">November 2014</a><br>
 	<a href="http://www.popoholic.com/2014/10/">October 2014</a><br>
 	<a href="http://www.popoholic.com/2014/09/">September 2014</a><br>
 	<a href="http://www.popoholic.com/2014/08/">August 2014</a><br>
@@ -465,7 +594,7 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 <script type="text/javascript">
   if(typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if(typeof(gnm_tile) == 'undefined') gnm_tile=1;
   document.write('<scr'+'ipt src="http://n4403ad.doubleclick.net/adj/gn.popoholic.com/ros;sect=ros;mtfInline=true;sz=300x250,300x600;tile='+(gnm_tile++)+';ord='+gnm_ord+'?" type="text/javascript"></scr'+'ipt>');
-</script><script src="http://n4403ad.doubleclick.net/adj/gn.popoholic.com/ros;sect=ros;mtfInline=true;sz=300x250,300x600;tile=3;ord=5057807644145362?" type="text/javascript"></script>
+</script><script src="http://n4403ad.doubleclick.net/adj/gn.popoholic.com/ros;sect=ros;mtfInline=true;sz=300x250,300x600;tile=3;ord=4523670677252805?" type="text/javascript"></script>
 <!-- END AD TAG -->
 
 </div>
@@ -474,10 +603,10 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
                 <td width="128" class="col-3-content"><div align="left" style="padding:0px 0 9px 2px;"><img src="http://www.popoholic.com/images/h-mostpopular.jpg"></div>
         <table border="0" cellpadding="0" cellspacing="0">
           <tbody><tr><td>
-         <div style="margin:0px 0 0px 0px;padding:2px 2px 0px 0px; width:128px; text-align:left;"><a href="http://www.egotastic.com/2014/01/malins-sister-jennifer-akerman-sweaty-hot-workout-for-galore/">
+         <div style="margin:0px 0 0px 0px;padding:2px 2px 0px 0px; width:128px; text-align:left;"><a href="http://www.egotastic.com/2014/04/sara-malakul-lane-hot-and-cleavy-and-highly-suggestive-in-a-white-body-suit/">
        <img src="http://www.popoholic.com//most_popular/24.jpg"></a></div>
        </td>
-        </tr><tr><td><div style="padding:0 0 13px 0; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; text-decoration:underline; text-align:left; line-height:15px;"><a style="text-decoration:underline;" href="http://www.egotastic.com/2014/01/malins-sister-jennifer-akerman-sweaty-hot-workout-for-galore/">Jennifer Akerman... sweet baby Jesus!</a></div></td></tr></tbody></table>
+        </tr><tr><td><div style="padding:0 0 13px 0; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; text-decoration:underline; text-align:left; line-height:15px;"><a style="text-decoration:underline;" href="http://www.egotastic.com/2014/04/sara-malakul-lane-hot-and-cleavy-and-highly-suggestive-in-a-white-body-suit/">Sara Malakul Lane Busting Out The Naughty Sexiness!</a></div></td></tr></tbody></table>
 	           <table border="0" cellpadding="0" cellspacing="0">
           <tbody><tr><td>
          <div style="margin:0px 0 0px 0px;padding:2px 2px 0px 0px; width:128px; text-align:left;"><a href="http://www.thesuperficial.com/olivia-wilde-bikini-photos-08-2012">
@@ -486,16 +615,16 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
         </tr><tr><td><div style="padding:0 0 13px 0; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; text-decoration:underline; text-align:left; line-height:15px;"><a style="text-decoration:underline;" href="http://www.thesuperficial.com/olivia-wilde-bikini-photos-08-2012">Olivia Wilde's Bikini Booty Is All Kinds Of Sexy!</a></div></td></tr></tbody></table>
 	           <table border="0" cellpadding="0" cellspacing="0">
           <tbody><tr><td>
-         <div style="margin:0px 0 0px 0px;padding:2px 2px 0px 0px; width:128px; text-align:left;"><a href="http://www.popoholic.com/2012/10/10/the-blond-and-crazy-busty-natalie-portman-is-back-hoochie-mama/">
-       <img src="http://www.popoholic.com//most_popular/21.jpg"></a></div>
-       </td>
-        </tr><tr><td><div style="padding:0 0 13px 0; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; text-decoration:underline; text-align:left; line-height:15px;"><a style="text-decoration:underline;" href="http://www.popoholic.com/2012/10/10/the-blond-and-crazy-busty-natalie-portman-is-back-hoochie-mama/">Natalie Portman's Post-Pregnancy Uber Bustiness!</a></div></td></tr></tbody></table>
-	           <table border="0" cellpadding="0" cellspacing="0">
-          <tbody><tr><td>
          <div style="margin:0px 0 0px 0px;padding:2px 2px 0px 0px; width:128px; text-align:left;"><a href="http://www.popoholic.com/2007/05/16/jessica-alba-does-gq/">
        <img src="http://www.popoholic.com//most_popular/2.jpg"></a></div>
        </td>
         </tr><tr><td><div style="padding:0 0 13px 0; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; text-decoration:underline; text-align:left; line-height:15px;"><a style="text-decoration:underline;" href="http://www.popoholic.com/2007/05/16/jessica-alba-does-gq/">Jessica Alba Gets Uber Sexy And Curvy</a></div></td></tr></tbody></table>
+	           <table border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr><td>
+         <div style="margin:0px 0 0px 0px;padding:2px 2px 0px 0px; width:128px; text-align:left;"><a href="http://www.popoholic.com/2012/10/10/the-blond-and-crazy-busty-natalie-portman-is-back-hoochie-mama/">
+       <img src="http://www.popoholic.com//most_popular/21.jpg"></a></div>
+       </td>
+        </tr><tr><td><div style="padding:0 0 13px 0; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; text-decoration:underline; text-align:left; line-height:15px;"><a style="text-decoration:underline;" href="http://www.popoholic.com/2012/10/10/the-blond-and-crazy-busty-natalie-portman-is-back-hoochie-mama/">Natalie Portman's Post-Pregnancy Uber Bustiness!</a></div></td></tr></tbody></table>
 	           <table border="0" cellpadding="0" cellspacing="0">
           <tbody><tr><td>
          <div style="margin:0px 0 0px 0px;padding:2px 2px 0px 0px; width:128px; text-align:left;"><a href="http://www.popoholic.com/2012/02/11/scarlett-johansson-bikini-pictures/">
@@ -510,12 +639,6 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
         </tr><tr><td><div style="padding:0 0 13px 0; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; text-decoration:underline; text-align:left; line-height:15px;"><a style="text-decoration:underline;" href="http://www.popoholic.com/2008/12/30/scarlett-johansson-doesnt-want-to-be-called-sexy-either/">Scarlett Johansson At Her Hottest</a></div></td></tr></tbody></table>
 	           <table border="0" cellpadding="0" cellspacing="0">
           <tbody><tr><td>
-         <div style="margin:0px 0 0px 0px;padding:2px 2px 0px 0px; width:128px; text-align:left;"><a href="http://www.popoholic.com/2013/01/01/popoholics-top-ten-celebrity-babes-of-2012/">
-       <img src="http://www.popoholic.com//most_popular/22.jpg"></a></div>
-       </td>
-        </tr><tr><td><div style="padding:0 0 13px 0; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; text-decoration:underline; text-align:left; line-height:15px;"><a style="text-decoration:underline;" href="http://www.popoholic.com/2013/01/01/popoholics-top-ten-celebrity-babes-of-2012/">Popoholic's Top Ten Celebrity Babes of 2012!</a></div></td></tr></tbody></table>
-	           <table border="0" cellpadding="0" cellspacing="0">
-          <tbody><tr><td>
          <div style="margin:0px 0 0px 0px;padding:2px 2px 0px 0px; width:128px; text-align:left;"><a href="http://www.popoholic.com/2007/06/20/jessica-biel-does-gq/">
        <img src="http://www.popoholic.com//most_popular/7.jpg"></a></div>
        </td>
@@ -528,22 +651,10 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
         </tr><tr><td><div style="padding:0 0 13px 0; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; text-decoration:underline; text-align:left; line-height:15px;"><a style="text-decoration:underline;" href="http://www.popoholic.com/2010/09/02/olivia-munn-gets-down-and-dirty-for-gq-magazine/">Olivia Munn's Sexy Curves Will Melt Your Eyeballs</a></div></td></tr></tbody></table>
 	           <table border="0" cellpadding="0" cellspacing="0">
           <tbody><tr><td>
-         <div style="margin:0px 0 0px 0px;padding:2px 2px 0px 0px; width:128px; text-align:left;"><a href="http://www.popoholic.com/2012/09/05/more-selena-gomez-and-vanessa-hudgens-spring-breakers-bikini-sexiness-yes-please/">
-       <img src="http://www.popoholic.com//most_popular/6.jpg"></a></div>
-       </td>
-        </tr><tr><td><div style="padding:0 0 13px 0; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; text-decoration:underline; text-align:left; line-height:15px;"><a style="text-decoration:underline;" href="http://www.popoholic.com/2012/09/05/more-selena-gomez-and-vanessa-hudgens-spring-breakers-bikini-sexiness-yes-please/">"Spring Breakers" Looks Like A Shwing-Fest</a></div></td></tr></tbody></table>
-	           <table border="0" cellpadding="0" cellspacing="0">
-          <tbody><tr><td>
          <div style="margin:0px 0 0px 0px;padding:2px 2px 0px 0px; width:128px; text-align:left;"><a href="http://www.popoholic.com/2010/06/01/megan-fox-jumps-into-a-bikini-looks-ridiculously-sexy-doing-so/">
        <img src="http://www.popoholic.com//most_popular/3.jpg"></a></div>
        </td>
         </tr><tr><td><div style="padding:0 0 13px 0; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; text-decoration:underline; text-align:left; line-height:15px;"><a style="text-decoration:underline;" href="http://www.popoholic.com/2010/06/01/megan-fox-jumps-into-a-bikini-looks-ridiculously-sexy-doing-so/">Megan Fox In A Tiny Bikini? Yes Please!</a></div></td></tr></tbody></table>
-	           <table border="0" cellpadding="0" cellspacing="0">
-          <tbody><tr><td>
-         <div style="margin:0px 0 0px 0px;padding:2px 2px 0px 0px; width:128px; text-align:left;"><a href="http://www.popoholic.com/2010/05/31/candice-swanepoels-drop-dead-sexy-bikini-booty-pictures/">
-       <img src="http://www.popoholic.com//most_popular/4.jpg"></a></div>
-       </td>
-        </tr><tr><td><div style="padding:0 0 13px 0; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; text-decoration:underline; text-align:left; line-height:15px;"><a style="text-decoration:underline;" href="http://www.popoholic.com/2010/05/31/candice-swanepoels-drop-dead-sexy-bikini-booty-pictures/">Candice Swanepoel Uber Sexy Bikini Pictures</a></div></td></tr></tbody></table>
 	           <table border="0" cellpadding="0" cellspacing="0">
           <tbody><tr><td>
          <div style="margin:0px 0 0px 0px;padding:2px 2px 0px 0px; width:128px; text-align:left;"><a href="http://www.popoholic.com/2011/04/25/rachel-bilson-bikini-pictures-woohoo/">
@@ -556,12 +667,6 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
        <img src="http://www.popoholic.com//most_popular/11.jpg"></a></div>
        </td>
         </tr><tr><td><div style="padding:0 0 13px 0; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; text-decoration:underline; text-align:left; line-height:15px;"><a style="text-decoration:underline;" href="http://www.popoholic.com/2009/08/28/stacy-keibler-ridiculously-sexy-tiny-bikini/">Stacy Keibler In A Tiny Bikini? Hell Yeah!</a></div></td></tr></tbody></table>
-	           <table border="0" cellpadding="0" cellspacing="0">
-          <tbody><tr><td>
-         <div style="margin:0px 0 0px 0px;padding:2px 2px 0px 0px; width:128px; text-align:left;"><a href="http://www.popoholic.com/2013/11/14/2013-victorias-secret-fashion-show-mega-post/">
-       <img src="http://www.popoholic.com//most_popular/15.jpg"></a></div>
-       </td>
-        </tr><tr><td><div style="padding:0 0 13px 0; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; text-decoration:underline; text-align:left; line-height:15px;"><a style="text-decoration:underline;" href="http://www.popoholic.com/2013/11/14/2013-victorias-secret-fashion-show-mega-post/">The 2013 Victoria's Secret Fashion Show!</a></div></td></tr></tbody></table>
 	           <table border="0" cellpadding="0" cellspacing="0">
           <tbody><tr><td>
          <div style="margin:0px 0 0px 0px;padding:2px 2px 0px 0px; width:128px; text-align:left;"><a href="http://www.popoholic.com/2012/06/14/miley-cyrus-uber-sexy-bikini-perfection/">
@@ -684,6 +789,6 @@ qacct:"p-22jk7gWeiiWP6"
 
 Page Caching using memcached
 Database Caching using memcached
-Object Caching 937/943 objects using memcached
+Object Caching 983/989 objects using memcached
 
- Served from: www.popoholic.com @ 2014-11-21 22:32:30 by W3 Total Cache --></body></html>
+ Served from: www.popoholic.com @ 2015-06-09 20:22:40 by W3 Total Cache --></body></html>
