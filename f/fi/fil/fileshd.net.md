@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileshd.net privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215111139id_/http%3A//fileshd.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileshd.net privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609202630id_/http%3A//fileshd.net/privacy.html) for the most accurate reproduction.*
 
 # FilesHD - High Definition Upload
 
