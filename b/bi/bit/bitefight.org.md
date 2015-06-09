@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitefight.org privacy policy that was archived on 2013-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130910005742id_/http%3A//agbserver.gameforge.com/rewrite.php%3Fgame%3Dbitefight%26page%3Dprivacy%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitefight.org privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235504id_/http%3A//agbserver.gameforge.com/rewrite.php%3Fgame%3Dbitefight%26page%3Dprivacy%26lang%3Den) for the most accurate reproduction.*
 
 # Gameforge
 
@@ -10,7 +10,7 @@ Gameforge Productions GmbH and Gameforge 4D GmbH, both domiciled in Albert-Nestl
 This Privacy Policy applies to all services which are offered on Gameforge Internet pages, in particular the Gameforge portal and the individual online gaming sites. Unless stated otherwise, this Privacy Policy exclusively regulates how Gameforge treats your personal data. In case you make use of services provided by third parties, the privacy policies of these third parties apply exclusively. Gameforge does not revise privacy policies of third parties. 
 
 **Data controller**   
-The data controller according to the Federal Data Protection Act is Gameforge Productions GmbH, Albert-Nestler-Strasse 8, 76131 Karlsruhe.   
+The data controller according to the Federal Data Protection Act is Gameforge 4D GmbH, Albert-Nestler-Strasse 8, 76131 Karlsruhe.   
 In case you have any questions concerning privacy policy issues, please contact datenschutz@gameforge.com. At this address, you can inquire about privacy issues and review, change or delete your personal data stored by Gameforge. Alternatively, you can also contact us using the above postal address. Please - if possible – indicate the online game that you have played, the server and your player name. This will cause you no other costs than the transmission costs stated in the base rates (i.e. the costs of your Internet, e-mail, mobile phone or telephone connection). 
 
 **General information**   
