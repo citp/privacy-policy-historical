@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cartersoshkosh.ca privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121193751id_/http%3A//www.cartersoshkosh.ca/en_CA/privacy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartersoshkosh.ca privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609231125id_/http%3A//www.cartersoshkosh.ca/en_CA/privacy/privacy-policy.html) for the most accurate reproduction.*
 
-# OshKoshBgosh.com Privacy Policy | Carters Oshkosh Canada
+# Carters.com | OshKoshBgosh.com Privacy Policy
 
 ## 
 
