@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livecellresearch.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121014641id_/http%3A//livecellresearch.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livecellresearch.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609075151id_/http%3A//livecellresearch.com/privacy.php) for the most accurate reproduction.*
 
 # Live Cell Research | Privacy Policy
 
@@ -60,6 +60,12 @@ Living Cell Research, LLC. maintains reasonable safeguards to protect Personal I
 #### Consent to Processing of Information
 
 This Website is governed by and operated in, and in accordance with the laws of, the United States, and are intended for the enjoyment of residents of the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect may be transferred to and processed in the United States. By using this Website, or providing us with any information, you (a) acknowledge that this Website is subject to the laws of the United States, (b) consent to the collection, processing, maintenance and transfer of such information in and to the United States and other applicable territories in which the privacy laws may not be as comprehensive as or equivalent to those in the country where you reside and/or are a citizen, and (c) waive any claims that may arise under those laws.
+
+#### Cookies and Other Technology:
+
+Like many sites, our Site employs cookies, JavaScript tags and Web beacons (also known as clear GIF technology or "action tags") to speed your navigation of our Site, recognize you and your access privileges, and track your usage of our Site. Cookies are small pieces of information that are stored as text files by your Internet browser on your computer's hard drive for record keeping purposes. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies from Web sites or to remove cookies from your hard drive, but if you do, you will not be able to access or use portions of our Site.
+
+We use both persistent cookies and third party cookies. We use persistent cookies to make it easier for you to navigate our Site. The persistent cookie remains on your hard drive for an extended period of time. Third party cookies are only used for short-term tracking. You can remove the cookies by following directions provided in your Internet browser's "help" file. Persistent and third party cookies also enable us to track and target the interests of our users to enhance the experience on our Site. If you reject cookies, you may still use our Site, but your ability to use some areas of our Site, such as a shopping cart, will be limited and may not function properly. You can opt-out of third party cookies by visiting [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 #### Changes and Updates to This Policy
 
