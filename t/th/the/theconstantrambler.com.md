@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theconstantrambler.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217225156id_/http%3A//www.theconstantrambler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theconstantrambler.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609092132id_/http%3A//www.theconstantrambler.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Constant Rambler | Travel | Road Trips
 
@@ -23,7 +23,7 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
- **Cookies & 3rd Party Advertisements**
+**Cookies & 3rd Party Advertisements**
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
