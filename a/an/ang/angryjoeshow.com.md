@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angryjoeshow.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124042222id_/http%3A//angryjoeshow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angryjoeshow.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609234500id_/http%3A//angryjoeshow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Angry Joe Show
 
@@ -47,3 +47,8 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
 Thanks for your understanding and your support of AngryJoeShow.com!
+
+[](http://angryjoeshow.com/ajsa/)
+
+**Fatal error** : Call to a member function children() on a non-object in **/home/angryjoe/public_html/wp-content/plugins/social-crowd/sc_grab_stats.php** on line **78**  
+
