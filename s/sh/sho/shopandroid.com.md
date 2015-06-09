@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopandroid.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823165519id_/http%3A//www.shopandroid.com/content/customercare/page-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopandroid.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609230624id_/http%3A//www.shopandroid.com/content/customercare/page-privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - ShopAndroid
 
@@ -57,4 +57,4 @@ Third party vendors, including Google, show our ads on sites on the internet.
 
 Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html) or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
-Smartphone Experts are a participants in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to 'Amazon.com' and other Amazon properties. 
+Mobile Nations participates in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to 'Amazon.com' and other Amazon properties. 
