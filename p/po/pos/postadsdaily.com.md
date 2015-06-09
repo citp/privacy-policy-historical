@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postadsdaily.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082843id_/http%3A//www.postadsdaily.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postadsdaily.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610001322id_/http%3A//www.postadsdaily.com/privacy.php) for the most accurate reproduction.*
 
 # PostAdsDaily.com > Post Free Ads, get Traffic & Make Money Online!
 
@@ -32,8 +32,9 @@ What happens if the Privacy Policy Changes? We will let our Visitors and Authori
 Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
 [  
-Terms & Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php) | [Rank My Site](http://www.rankmytrafficsite.com/button.php?u=viralaff) > [Recommended Site of the Day](http://www.postadsdaily.com/recommends/index.php)
+_Want to Own a Profitable Advertising Membership Site like PostAdsDaily?!_](http://www.custommembershipsites.com/ "Profitable Websites For Sale")
 
-© Copyright 2008-2014 **PostAdsDaily.com** _All Rights Reserved_
+[  
+Terms & Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php) > [Recommended Site of the Day](http://www.postadsdaily.com/recommends/index.php)
 
-[Want to Own a Profitable Advertising Membership Site like PostAdsDaily?!](http://www.custommembershipsites.com/ "Profitable Websites For Sale")
+© Copyright 2008-2015 **PostAdsDaily.com** _All Rights Reserved_
