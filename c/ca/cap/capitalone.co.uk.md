@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capitalone.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110208id_/http%3A//www.capitalone.co.uk/web/privacy-statement.jsf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitalone.co.uk privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610021301id_/http%3A//www.capitalone.co.uk/web/privacy-statement.jsf) for the most accurate reproduction.*
 
 # Privacy Policy | Legal Information | Capital One
 
