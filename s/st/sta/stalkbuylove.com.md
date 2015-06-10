@@ -1,52 +1,21 @@
-> *The following text is extracted and transformed from the stalkbuylove.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218070941id_/http%3A//www.stalkbuylove.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stalkbuylove.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610030340id_/http%3A//www.stalkbuylove.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - StalkBuyLove
 
-1\. StalkBuyLove.com respects the privacy of the users of its website and has made their protection in all activities on the Internet highest priority. That means: We commit ourselves to ensuring that we treat all information provided by you with the highest diligence and integrity. This also and especially includes the cooperation with partners and third parties. StalkBuyLove.com, however, does not accept responsibility for third parties where this is not stated separately.We seek to protect your rights of privacy on systems and the Site (www.StalkBuyLove.com) controlled by us, but we are not liable for any unauthorised or unlawful disclosures of your personal and confidential information made by third parties who are not subject to our control, for example advertisers and websites that have links to our Site.
-
-* * *
-
-2\. StalkBuyLove.com collects, stores and processes personal data solely in accordance with the applicable statutory provisions and to the extent necessary to fulfill the contractual relationship between the provider and the user or to provide the requested services necessary and required. Data about products that the user has put into the shopping cart can be used by the Ad Victoriam Ventures Pvt. Ltd. solely for their own marketing purposes. Moreover, address and order data is collected and processed for our own marketing purposes. Furthermore, according to the applicable law, anonymous user profiles may be used for internal market research purposes and to improve our range of products and services. Personal information means any information that the user of StalkBuyLove.com provides to us and that may be used to identify an individual (first and last name, address, fixed and mobile phone number). We secure our website and other systems through technical and organizational measures against loss, destruction, access, modification and distribution of your data by unauthorized persons. Despite regular controls a complete protection against all dangers is, however, not possible.
-
-* * *
-
-3\. This website is using technologies provided by Google Analytics (www.google.com) to collect data for optimization purposes. This data is used in order to create user profiles under a pseudonym. Cookies can be used for this. The collected data can be used by Ad Victoriam Ventures Pvt. Ltd. to present improved and individualized offers and services to the user on StalkBuyLove.com. This data will not be disclosed to third parties. You can prevent the installation of cookies as described under section 4. However, we want to emphasize that in this case the functionality of this website might be limited.
-
-* * *
-
-4.We use so called "cookies" (small data packages with configuration information, which submit information about the used display settings or the IP address for example) for the improvement of our service. You can disable the saving of cookies in your browser settings (further information about this can be found under "extras - internet options" in the toolbar of your browser.) To order on our website, cookies must be activated.
-
-* * *
-
-5\. The user also agrees to the disclosure of his information with regard to third parties insofar as necessary to fulfill the contractual relationship between StalkBuyLove.com and the user or to provide and improve the requested services necessary and required. Any further use of the data, particularly passing on or selling to third parties by StalkBuyLove.com is prohibited, except for the aforementioned purpose or if the passing on of data to third parties has explicitly been agreed upon.
-
-* * *
-
-6\. Every user can refuse the use of his data for advertisement purposes at any time without any reason by sending an email to unsubcribe@StalkBuyLove.com.They can also unsubscribe at any time from their "My Account" page.   
-
-
-* * *
-
-7\. As a StalkBuyLove.com member you are able to invite other persons to become members of StalkBuyLove.com. Please be advised that you can only invite real, natural persons that you know personally. StalkBuyLove.com only sends the invitation to the invited person and does not use the data for any other purpose. Please be advised that the invitee will receive the invitation with your name.   
-
-
-* * *
-
-8\. You have the right to receive free information about your stored data at any time as well as the right to correct, lock or delete this data. In this case and if you have questions, suggestions or wishes, please contact us under contact@StalkBuyLove.com. This may, however, result in the circumstance that StalkBuyLove.com cannot longer fulfill its contractual duties. A liability of StalkBuyLove.com or the assertion of claims for damages is excluded in this case. You can always edit your personal information in you "My Account" page.  
-
-
-* * *
-
-9\. This website uses so-called social plugins ("plugins") of the social network Facebook, Pinterest & Twitter which are operated by their respective entities. Please read their Privacy Policies for further information on how they protect your personal data. If you do not want these parties to collect personal information about your visit to StalkBuyLove.com, Please log out of them before visiting our website.
-
-* * *
-
-10\. General exceptions  
+  1. StalkBuyLove.com respects the privacy of the users of its website and has made their protection in all activities on the Internet highest priority. That means: We commit ourselves to ensuring that we treat all information provided by you with the highest diligence and integrity. This also and especially includes the cooperation with partners and third parties. StalkBuyLove.com, however, does not accept responsibility for third parties where this is not stated separately.We seek to protect your rights of privacy on systems and the Site (www.StalkBuyLove.com) controlled by us, but we are not liable for any unauthorised or unlawful disclosures of your personal and confidential information made by third parties who are not subject to our control, for example advertisers and websites that have links to our Site.
+  2. StalkBuyLove.com collects, stores and processes personal data solely in accordance with the applicable statutory provisions and to the extent necessary to fulfill the contractual relationship between the provider and the user or to provide the requested services necessary and required. Data about products that the user has put into the shopping cart can be used by the Ad Victoriam Ventures Pvt. Ltd. solely for their own marketing purposes. Moreover, address and order data is collected and processed for our own marketing purposes. Furthermore, according to the applicable law, anonymous user profiles may be used for internal market research purposes and to improve our range of products and services. Personal information means any information that the user of StalkBuyLove.com provides to us and that may be used to identify an individual (first and last name, address, fixed and mobile phone number). We secure our website and other systems through technical and organizational measures against loss, destruction, access, modification and distribution of your data by unauthorized persons. Despite regular controls a complete protection against all dangers is, however, not possible.
+  3. This website is using technologies provided by Google Analytics (www.google.com) to collect data for optimization purposes. This data is used in order to create user profiles under a pseudonym. Cookies can be used for this. The collected data can be used by Ad Victoriam Ventures Pvt. Ltd. to present improved and individualized offers and services to the user on StalkBuyLove.com. This data will not be disclosed to third parties. You can prevent the installation of cookies as described under section 4. However, we want to emphasize that in this case the functionality of this website might be limited.
+  4. The user also agrees to the disclosure of his information with regard to third parties insofar as necessary to fulfill the contractual relationship between StalkBuyLove.com and the user or to provide and improve the requested services necessary and required. Any further use of the data, particularly passing on or selling to third parties by StalkBuyLove.com is prohibited, except for the aforementioned purpose or if the passing on of data to third parties has explicitly been agreed upon.
+  5. Every user can refuse the use of his data for advertisement purposes at any time without any reason by sending an email to unsubcribe@StalkBuyLove.com.They can also unsubscribe at any time from their "My Account" page. 
+  6. As a StalkBuyLove.com member you are able to invite other persons to become members of StalkBuyLove.com. Please be advised that you can only invite real, natural persons that you know personally. StalkBuyLove.com only sends the invitation to the invited person and does not use the data for any other purpose. Please be advised that the invitee will receive the invitation with your name. 
+  7. You have the right to receive free information about your stored data at any time as well as the right to correct, lock or delete this data. In this case and if you have questions, suggestions or wishes, please contact us under contact@StalkBuyLove.com. This may, however, result in the circumstance that StalkBuyLove.com cannot longer fulfill its contractual duties. A liability of StalkBuyLove.com or the assertion of claims for damages is excluded in this case. You can always edit your personal information in you "My Account" page.
+  8. This website uses so-called social plugins ("plugins") of the social network Facebook, Pinterest & Twitter which are operated by their respective entities. Please read their Privacy Policies for further information on how they protect your personal data. If you do not want these parties to collect personal information about your visit to StalkBuyLove.com, Please log out of them before visiting our website.
+  9. General exceptions  
 If we are required to intercept, disclose, monitor and/or store your personal information: (a) by law; (b) to conduct our business; (c) to secure our systems; or (d) to enforce our own rights, we will do so in the manner as prescribed by law. Such interception, disclosure, monitoring and storage may take place without your knowledge. In these cases, we will not be liable to you or any third party for any damages howsoever arising from such interception, disclosure, monitoring and storage. Additionally, we may monitor your personal information to the extent that this may be required to determine compliance and/or to identify instances of non-compliance. This monitoring may include (without limitation) the filtering of incoming and outgoing electronic data messages to identify, limit and/or prevent the transmission of spam, viruses and/or unlawful, defamatory, obscene or otherwise undesirable material or content. We may under certain circumstances procure an element of the services from a third party service provider. To the extent that it may be necessary, and solely for the purposes of providing the service to you, you agree that we may disclose to such third party any of your personal information that may be necessary for the procurement of services from the third party.
+  10. Changes in policy  
+You unconditionally agree that using this website signifies your assent to StalkBuyLove.com's Privacy Policy. If you do not agree with this Privacy Policy, please refrain from using our website. Any dispute over privacy is subject to this policy and our terms of Use, including limitations on damages. Stalk.Buy.Love reserves the right to change the terms of use and this Privacy policy, at any time. Any changes in the policy will be posted and you are expected to know about it. Unless stated otherwise, our current Privacy policy applies to all information that we have about you and your account. 
 
-* * *
+Last Updated: May 15, 2015
 
-12\. Changes in policy  
-You unconditionally agree that using this website signifies your assent to StalkBuyLove.com's Privacy Policy. If you do not agree with this Privacy Policy, please refrain from using our website. Any dispute over privacy is subject to this policy and our terms of Use, including limitations on damages. Stalk.Buy.Love reserves the right to change the terms of use and this Privacy policy, at any time. Any changes in the policy will be posted and you are expected to know about it. Unless stated otherwise, our current Privacy policy applies to all information that we have about you and your account.
 
-New Delhi, 01/08/2012
+
