@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the burnsmcd.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221131645id_/http%3A//www.burnsmcd.com/Privacy-Statement-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burnsmcd.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610085909id_/http%3A//www.burnsmcd.com/Privacy-Statement-1) for the most accurate reproduction.*
 
-# Burns & McDonnell
+# Privacy Statement - Burns & McDonnell
 
 Welcome to the Burns & McDonnell website. We are committed to protecting the privacy of visitors to our site. Most areas of our site are available for visitors to browse without providing personal information such as names, phone numbers, physical addresses or email addresses. However, our servers automatically log certain non-personal, statistical information about visits to the site in the normal course of operating, which may include: visitors' IP addresses, software used, time and duration of visit, and pages visited before and after visiting our site. This information is used only in aggregate form and only to improve our site's content by identifying, for example, the number of visitors and the page(s) accessed.
 
