@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybakingaddiction.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121023906id_/http%3A//www.mybakingaddiction.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybakingaddiction.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610021437id_/http%3A//www.mybakingaddiction.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
