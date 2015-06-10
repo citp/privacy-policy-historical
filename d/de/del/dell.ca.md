@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dell.ca privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213221417id_/http%3A//www.dell.com/learn/ca/en/cacorp1/policies-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dell.ca privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610053020id_/http%3A//www.dell.com/learn/ca/en/cacorp1/policies-privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Dell Canada
 
@@ -30,11 +30,11 @@ Third-Party Websites and Services
 Changes to Our Privacy Statement Regarding Customer and Online User Information  
 Contact Us
 
-#### Scope of this Privacy Statement [ ](https://web.archive.org/web/20141213221417id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-policies-privacy-statement-ca?catid=policies-privacy)
+#### Scope of this Privacy Statement [ ](https://web.archive.org/web/20150610053020id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-policies-privacy-statement-ca?catid=policies-privacy)
 
 This Privacy Statement applies only to Personal Information collected from individual customers. It does not apply to corporate or business contact information. In addition, this Privacy Statement is not applicable to Personal Information that has been aggregated or made anonymous and no longer specifically relates to an identifiable individual. Dell reserves the right to use aggregated or anonymous information in any manner it considers appropriate.
 
-#### Information We Collect [ ](https://web.archive.org/web/20141213221417id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-policies-privacy-statement-ca?catid=policies-privacy)
+#### Information We Collect [ ](https://web.archive.org/web/20150610053020id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-policies-privacy-statement-ca?catid=policies-privacy)
 
   * We may ask you to provide Personal Information when you 
   * Use our website; 
@@ -56,11 +56,11 @@ Job applicants may be requested to provide information such as educational backg
 
 We may collect information about your visits to our websites, including the pages you view, the links and ads you click, search terms you enter, and other actions you take in connection with the Dell websites and services. We may also collect certain information from the browser you used to come to our website, such as your Internet Protocol (IP) address, browser type and language, access times, the Uniform Resource Locator (URL) of the website that referred you to our website and to which URL you browse away from our site if you click on a link on our site.
 
-In order to offer you a more consistent and personalized experience in your interactions with Dell, information collected through one source may be combined with information obtained through other Dell resources. We may also supplement the information we collect with information obtained from other parties. For example, Dell may collect data on which pages you visit on the website and later combine this information on purchases you complete on Dell.com. We may use the combined data to determine which ads to serve you on Dell.com or third party websites or to determine what ads to include in future emails sent to you.[Click here](https://web.archive.org/web/20141213221417id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-policies-ads-and-emails-ca?catid=policies-ads-and-emails) to learn more about how we determine which ads to serve you.
+In order to offer you a more consistent and personalized experience in your interactions with Dell, information collected through one source may be combined with information obtained through other Dell resources. We may also supplement the information we collect with information obtained from other parties. For example, Dell may collect data on which pages you visit on the website and later combine this information on purchases you complete on Dell.com. We may use the combined data to determine which ads to serve you on Dell.com or third party websites or to determine what ads to include in future emails sent to you.[Click here](https://web.archive.org/web/20150610053020id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-policies-ads-and-emails-ca?catid=policies-ads-and-emails) to learn more about how we determine which ads to serve you.
 
 Some Dell services may be co-branded and offered in conjunction with another company. If you register for or use such services, both Dell and the other company may receive information collected in conjunction with the co-branded services, and may use the information according to each company's privacy statement and other agreements with you.
 
-#### How We Use Personal Information [ ](https://web.archive.org/web/20141213221417id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-policies-privacy-statement-ca?catid=policies-privacy)
+#### How We Use Personal Information [ ](https://web.archive.org/web/20150610053020id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-policies-privacy-statement-ca?catid=policies-privacy)
 
 Dell uses your personal information to:
 
@@ -79,7 +79,7 @@ Dell uses your personal information to:
 
 
 
-#### Disclosing Personal Information [ ](https://web.archive.org/web/20141213221417id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-policies-privacy-statement-ca?catid=policies-privacy)
+#### Disclosing Personal Information [ ](https://web.archive.org/web/20150610053020id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-policies-privacy-statement-ca?catid=policies-privacy)
 
 We may share your Personal Information with corporate affiliates to carry out transactions you request or to make our business or that of our corporate affiliates more responsive to your needs. We may disclose your Personal Information to credit bureaus and credit reporting agencies and financial institutions and to other third parties as necessary to maintain your credit history, provide credit references, process payments, and otherwise manage our accounts and fulfill our legal and regulatory requirements.
 
@@ -97,7 +97,7 @@ Some Service Providers are located outside of Canada, including in the United St
 
 All such Service Providers are required to limit their use of your Personal Information for the purposes and in the manner we have instructed them. They have also committed to keeping your Personal Information confidential, using it only as directed by Dell, and to secure your Personal Information in a manner that is consistent with this Privacy Statement. All Service Providers who receive information from Dell to use on Dell's behalf are obligated to manage the information under Dell's Privacy Statement. 
 
-#### Your Consent to the Collection, Use and Disclosure of Your Personal Information [ ](https://web.archive.org/web/20141213221417id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-policies-privacy-statement-ca?catid=policies-privacy)
+#### Your Consent to the Collection, Use and Disclosure of Your Personal Information [ ](https://web.archive.org/web/20150610053020id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-policies-privacy-statement-ca?catid=policies-privacy)
 
 The provision of your Personal Information to Dell means that you agree and consent that we may collect, use and disclose your Personal Information in accordance with this Privacy Statement. In addition, from time to time and where appropriate, Dell may request your specific authorization or consent for the collection, use and disclosure of your Personal Information for other purposes. 
 
@@ -113,17 +113,17 @@ Please be aware that in certain circumstances, Dell may be required to disclose 
 
 If Dell should be required to release your Personal Information without your consent, such as for the reasons listed above, we keep a record of what information was released, to which party it was released and why the circumstances necessitated such release. In order to respect your privacy to the fullest extent possible, Dell will only release the information to the extent that we are required to do so.
 
-#### How You Can Access Your Information [ ](https://web.archive.org/web/20141213221417id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-policies-privacy-statement-ca?catid=policies-privacy)
+#### How You Can Access Your Information [ ](https://web.archive.org/web/20150610053020id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-policies-privacy-statement-ca?catid=policies-privacy)
 
 Dell wants to help you keep your Personal Information accurate. To view or edit your Personal Information that has been stored online in your Dell 'My Account,' please visit the My Account / Premier Account sections of the dell.com website. For the security of your account, you will be required to sign in with your login ID and password. You may also contact us at [privacy@dell.com](mailto:privacy@dell.com) to request access to or correction or update of your Personal Information. 
 
 Dell will permit you the reasonable right of access and review of your Personal Information. We will endeavour to provide the information in question within a reasonable time and no later than 30 days following receipt of your request. If we require additional time, or if we feel that we have grounds to refuse your request, we will notify you of new timing for our reply and/or the reasons for our extension or refusal. Dell reserves the right to charge for copies of your records; however we will always let you know in advance if there is any such charge. Dell will provide information from its records in a form that is easy to understand. To protect you, Dell may require sufficient information to allow us to confirm that the person making the request is authorized to do so before granting access or making corrections.
 
-#### For How Long and Where Does Dell Keep My Personal Information [ ](https://web.archive.org/web/20141213221417id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-policies-privacy-statement-ca?catid=policies-privacy)
+#### For How Long and Where Does Dell Keep My Personal Information [ ](https://web.archive.org/web/20150610053020id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-policies-privacy-statement-ca?catid=policies-privacy)
 
 We keep Personal Information only so long as is needed in order to meet the purposes set out in this Policy, including for the purpose of enabling us to meet any legal or regulatory requirements. Dell has retention standards for customer information and records management which set out these timelines. We have retention policies in place that govern the destruction of Personal Information.
 
-#### Selecting Your Communication Preferences [ ](https://web.archive.org/web/20141213221417id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-policies-privacy-statement-ca?catid=policies-privacy)
+#### Selecting Your Communication Preferences [ ](https://web.archive.org/web/20150610053020id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-policies-privacy-statement-ca?catid=policies-privacy)
 
 You may choose to receive or not receive marketing communications from Dell by indicating your preferences. Opportunities to select your preferences include the following: 
 
@@ -140,35 +140,35 @@ Because some promotions, such as direct mail catalogues, are developed in advanc
 
 You may withdraw your consent to Dell's collection, use and disclosure of your Personal Information at any time, subject to legal or contractual restrictions and reasonable notice, by contacting us at [privacy@dell.com](mailto:privacy@dell.com) or by opting out of cookies, as described in the About Our Ads section below. If you choose to withdraw your consent, we will inform you of the implications of withdrawing consent. Typically, this may include limitations such as no longer receiving email marketing, no longer receiving personalized advertising, inability to save account information, or no longer having access to the saved cart feature.
 
-#### How We Secure Your Personal Information [ ](https://web.archive.org/web/20141213221417id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-policies-privacy-statement-ca?catid=policies-privacy)
+#### How We Secure Your Personal Information [ ](https://web.archive.org/web/20150610053020id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-policies-privacy-statement-ca?catid=policies-privacy)
 
-Dell is committed to protecting the security of your Personal Information. We use a variety of security technologies and procedures to help protect your Personal Information from unauthorized access, use, or disclosure, such as encryption, passwords, physical security, etc. While we strive to protect your Personal Information, Dell cannot ensure or warrant that the Personal Information or private communications you transmit to us will always remain private, and you provide this information at your own risk. For more information about our security measures, please [click here](https://web.archive.org/web/20141213221417id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-security?catid=policies-security). 
+Dell is committed to protecting the security of your Personal Information. We use a variety of security technologies and procedures to help protect your Personal Information from unauthorized access, use, or disclosure, such as encryption, passwords, physical security, etc. While we strive to protect your Personal Information, Dell cannot ensure or warrant that the Personal Information or private communications you transmit to us will always remain private, and you provide this information at your own risk. For more information about our security measures, please [click here](https://web.archive.org/web/20150610053020id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-security?catid=policies-security). 
 
 If a password is used to help protect your accounts and Personal Information, it is your responsibility to keep your password confidential. Do not share this information with anyone. If you are sharing a computer with anyone you should always log out before leaving a site or service to protect access to your information from subsequent users. 
 
 We will not ask you to transmit your SIN on the Internet unless the connection is secure or the SIN is encrypted, or require you to transmit your SIN to access a website without requiring additional authentication.
 
-#### Collection and Use of Children's Personal Information [ ](https://web.archive.org/web/20141213221417id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-policies-privacy-statement-ca?catid=policies-privacy)
+#### Collection and Use of Children's Personal Information [ ](https://web.archive.org/web/20150610053020id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-policies-privacy-statement-ca?catid=policies-privacy)
 
 Dell takes children's privacy seriously. If you are under the age of majority in the province in which you reside, then please do not submit any Personal Information through our websites without the express consent and participation of a parent or guardian.
 
-#### How We Use Cookies and Web Beacons [ ](https://web.archive.org/web/20141213221417id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-policies-privacy-statement-ca?catid=policies-privacy)
+#### How We Use Cookies and Web Beacons [ ](https://web.archive.org/web/20150610053020id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-policies-privacy-statement-ca?catid=policies-privacy)
 
 Click here for information about the use of cookies and web beacons.
 
 #### About Our Ads
 
-[Click here](https://web.archive.org/web/20141213221417id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-policies-ads-and-emails-ca?catid=policies-ads-and-emails) for information about how we and our partners use cookies and web beacons to customize content and to tailor advertisements and email you receive, including how to decline participation in the use of ad serving on Dell.ca and how to unsubscribe from email marketing communications.
+[Click here](https://web.archive.org/web/20150610053020id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-policies-ads-and-emails-ca?catid=policies-ads-and-emails) for information about how we and our partners use cookies and web beacons to customize content and to tailor advertisements and email you receive, including how to decline participation in the use of ad serving on Dell.ca and how to unsubscribe from email marketing communications.
 
-#### Third-Party Websites and Services [ ](https://web.archive.org/web/20141213221417id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-policies-privacy-statement-ca?catid=policies-privacy)
+#### Third-Party Websites and Services [ ](https://web.archive.org/web/20150610053020id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-policies-privacy-statement-ca?catid=policies-privacy)
 
 Please be aware that other websites that may be accessed through our website may collect personally identifiable information about you. The information practices of those third-party websites linked to Dell.com are not covered by this privacy statement. We generally use the "" symbol to mark links that go to third party sites. Please be aware that, in providing services on Dell's behalf, our Service Providers may collect Personal Information about you. All such Service Providers who receive Personal Information on behalf of Dell are required to use this information for the purposes and in the manner Dell has instructed them.
 
-#### Changes to Our Privacy Statement Regarding Customer and Online User Information [ ](https://web.archive.org/web/20141213221417id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-policies-privacy-statement-ca?catid=policies-privacy)
+#### Changes to Our Privacy Statement Regarding Customer and Online User Information [ ](https://web.archive.org/web/20150610053020id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-policies-privacy-statement-ca?catid=policies-privacy)
 
 We will occasionally update this Privacy Statement. If we make changes to the Privacy Statement or make any material changes to how Dell will use your Personal Information, we will revise the Privacy Statement to reflect such changes and revise this Privacy Statement effective date, included at the end of this section. We encourage you to periodically review this statement to be informed of how Dell is protecting your Personal Information.
 
-#### Contact Us [ ](https://web.archive.org/web/20141213221417id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-policies-privacy-statement-ca?catid=policies-privacy)
+#### Contact Us [ ](https://web.archive.org/web/20150610053020id_/http://www.dell.com/learn/ca/en/cacorp1/solutions/spredir.ashx/solutions/cat-intro-policies-privacy-statement-ca?catid=policies-privacy)
 
 If you would like to contact us for any reason regarding our privacy practices, including for information regarding our policies and procedures with respect to Service Providers outside of Canada, you may write to us or email us at the following addresses: 
 
