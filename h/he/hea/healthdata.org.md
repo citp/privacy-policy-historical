@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthdata.org privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130072232id_/http%3A//www.healthdata.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthdata.org privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610045259id_/http%3A//www.healthdata.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Institute for Health Metrics and Evaluation
 
