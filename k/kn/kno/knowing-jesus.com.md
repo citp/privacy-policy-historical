@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowing-jesus.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120194430id_/http%3A//www.knowing-jesus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowing-jesus.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610030525id_/http%3A//www.knowing-jesus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for www.Knowing-Jesus.com
 
@@ -144,4 +144,5 @@ Policy as posted here on this website, please do not use
 this site or any services offered by this site.
 
 Your use of this site indicates acceptance of this privacy  
-policy.
+policy.  
+
