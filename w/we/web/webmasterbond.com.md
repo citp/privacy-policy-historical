@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmasterbond.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126034839id_/http%3A//www.webmasterbond.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmasterbond.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610065844id_/http%3A//www.webmasterbond.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
