@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jacketflap.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209054238id_/http%3A//www.jacketflap.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacketflap.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610031150id_/http%3A//www.jacketflap.com/privacy.asp) for the most accurate reproduction.*
 
 # JacketFlap: Privacy Policy
 
