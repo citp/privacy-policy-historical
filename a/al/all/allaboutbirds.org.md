@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allaboutbirds.org privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213061037id_/http%3A//www.allaboutbirds.org/page.aspx%3Fpid%3D1099) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutbirds.org privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610053005id_/http%3A//www.allaboutbirds.org/page.aspx%3Fpid%3D1099) for the most accurate reproduction.*
 
 # All About Birds - Privacy Policy
 
