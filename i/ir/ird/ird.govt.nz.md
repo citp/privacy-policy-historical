@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the ird.govt.nz privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120111909id_/http%3A//www.ird.govt.nz/about-this-site/privacy%3Fid%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ird.govt.nz privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610022256id_/http%3A//www.ird.govt.nz/about-this-site/privacy%3Fid%3Dfooter) for the most accurate reproduction.*
 
 # Your privacy (About this site)
 
 Inland Revenue is committed to ensuring that your privacy is protected. Any personal information you do provide to us will be kept for as long as necessary to achieve the purpose we collected it for. If your personal information becomes part of your Inland Revenue records, we will retain the information in accordance with Inland Revenue policy on retention of Inland Revenue records.
 
+##### [Phishing and other scams](https://web.archive.org/about-this-site/privacy/phishing-other-scams.html)
+
+Learn about how scams work so you can reduce your chances of becoming a victim of them.
+
 ##### [Privacy policy](https://web.archive.org/about-this-site/privacy/privacy-policy.html)
 
 Our privacy policy explains what personal information we collect, your rights in relation to the personal information we hold, who can access your personal information, how long we will keep it, and how you can contact us if you have queries or concerns about our privacy policy.
-
-##### [Don't get hooked - beware of phishing from online criminals](https://web.archive.org/about-this-site/privacy/privacy-phishing.html)
-
-Phishing is when an online criminal tries to trick you in to disclosing your personal information and will then use or sell this information for illegal purposes such as applying for credit cards or loans in your name. We would like to know if someone unexpectedly asks for your tax information including your IRD number, password or user ID.
 
 ##### [Call recording privacy statement](https://web.archive.org/about-this-site/privacy/privacy-callrecording.html)
 
