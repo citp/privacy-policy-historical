@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icanlocalize.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227233507id_/http%3A//www.icanlocalize.com/site/about-us/privacy-and-refund-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icanlocalize.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610064525id_/http%3A//www.icanlocalize.com/site/about-us/privacy-and-refund-policy) for the most accurate reproduction.*
 
 # Privacy and Refund Policy
 
