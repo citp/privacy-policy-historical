@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scnlog.eu privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222004853id_/http%3A//scnlog.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scnlog.eu privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610234331id_/http%3A//scnlog.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Scnlog.eu
 
@@ -20,7 +20,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Scnlog collects and uses Users personal information for the following purposes:
 
-  *  _\- To improve our Site_  
+  *  _– To improve our Site_  
 We continually strive to improve our website offerings based on the information and feedback we receive from you.
 
 
@@ -52,6 +52,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
  **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[admin@scenelog.eu](mailto:admin@scenelog.eu "mailto:admin@scenelog.eu")
+admin@scenelog.eu
 
 This document was last updated on February 15, 2014
