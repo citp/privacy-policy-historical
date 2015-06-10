@@ -1,88 +1,99 @@
-> *The following text is extracted and transformed from the stylesight.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630174812id_/http%3A//www.stylesight.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylesight.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610022135id_/http%3A//www.wgsn.com/en/privacy-cookies) for the most accurate reproduction.*
 
-# Privacy Policy | Stylesight
+# Privacy & Cookies Policy - WGSN Fashion Trend Forecasting and Analysis
 
-### Privacy Policy
+**Privacy policy**
 
-## Effective June 10, 2010
+**1\. Introduction**
 
-This Privacy Policy describes what information we gather from you through the Site, how we use and disclose that information, and what we do to protect it. By using the Site, you expressly consent to the information handling practices described in this policy.
+1.This Privacy and Cookies Policy sets out the privacy and cookies policy of (i) WGSN Limited, company number 4858491 (England and Wales) (“WGSN”) and (ii) Planet Retail Ltd, company number 3994702 (England and Wales) (“Planet Retail”) who are each “data controllers” for the purpose of the Data Protection Act 1998 (the “Act”); and the following who act as “data processors” on behalf of WGSN and Planet Retail within the meaning of the Act: WGSN Trend Forecasting Moda Danişmanlik Hizmetleri Limited Şirketi, 4CServiços e Informação Ltda.,WGSN Business Information Consulting (Shanghai) Co Limited and WGSN Inc. (the foregoing together with WGSN and Planet Retail hereinafter referred to as “WGSN ”). 2. WGSN is committed to protecting the privacy of its users and the purpose of this Privacy Policy is to describe to you how WGSN will use personal information about you that is submitted to WGSN.
 
-This Privacy Policy is incorporated into and is subject to the STYLESIGHT Terms and Conditions <http://www.stylesight.com/en/terms-conditions> The practices described in this policy apply only to our use of information supplied by you to STYLESIGHT through the Site. Information collected from you by others, such as third party web sites that you access through links on the Site, may also be governed by those entities' privacy policies.
+3\. By providing your personal information to WGSN, you consent to the collection and use of it and any other information provided to WGSN in accordance with this Privacy Policy. If at any time you wish to change the uses of your personal information to which you have consented, please contact us at [security@wgsn.com](mailto:security@wgsn.com).
 
-## 1\. The Information STYLESIGHT Collects
+4\. WGSN may revise this Privacy Policy at any time by posting an update on its website(s). Please ensure that you check this website and any other WGSN website(s) you use from time to time to review the then current Privacy Policy and to update your preferences. This Privacy and Cookies Policy was last updated in January 2013.
 
-• User-Provided Information: You may provide to STYLESIGHT what is generally called "personally identifiable" information (such as your email address, zip code, credit card number and billing information) when using the Site, such as when you register for the Site or request information.
+**2\. Collection of Personal Information**
 
-• "Cookies" Information: When you use the Site, we may send one or more cookies - small text files containing a string of alphanumeric characters - to your computer. STYLESIGHT may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed. Please review your web browser "Help" file to learn the proper way to modify your cookie settings. Please note that if you delete, or choose not to accept, cookies from the Site, you may not be able to utilize the features of the Site to their fullest potential.
+1\. The types of personal information collected and stored by WGSN might include your name, date of birth, e-mail address, postal address, telephone number, fax number and credit/debit card details (to the extent permitted by the Data Protection Act 1998 and related legislation (“the DPA”).
 
-• "Automatically Collected" Information: When you use the Site or open one of our HTML emails, we may automatically record certain information from your web browser by using different types of technology, including "clear gifs" or "web beacons." This "automatically collected" information may include Internet Protocol address ("IP Address") or other device address or ID, web browser and/or device type, the web pages or Sites that you visit just before or just after the Site, the pages you view on the Site, and the dates and times that you visit, access, or use the Site.
+2\. WGSN (or any of its sub-contractors) may collect personal information about you in the following ways:
 
-• Information from Other Sources: We may also obtain information, including personally identifiable information, from third parties and sources other than the Site, such as other users who send messages to you through the Site. If we combine or associate information from other sources with personally identifiable information that we collect through the Site, we will treat the combined information as personally identifiable information in accordance with this Privacy Policy.
+1\. any data which you provide when you complete and submit an application to WGSN to register on its website(s) or receive email alerts or other communications from WGSN;  
+2\. any data that you provide via postings to forums and blogs and any other posting that you make to an WGSN website (in such circumstances the information posted by you will, of course, also be available to users of the website throughout the world);  
+3\. during any transaction with us; and  
+4\. any other data which you provide to WGSN when you enquire about our activities, email, telephone or write to us or otherwise provide us with personal information.
 
-## 2\. The Way STYLESIGHT Uses Information
+3\. WGSN (or any of its sub-contractors) may also receive information about you from third parties, for example a friend who wants to tell you about one of our websites.
 
-• STYLESIGHT uses the information you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on the Site. We will use your email address to contact you for administrative purposes, for customer service purposes, to address intellectual property infringement, rights of privacy, or defamation issues, or any regarding content that you have posted to the Site. You may configure the nature and frequency of certain of these messages through the Site.
+**3\. Storage and retention of your information**
 
-• STYLESIGHT uses all of the information that you provide or that we collect and/or aggregate to understand and analyze the usage trends, interests, and preferences of our users, to improve the way the Site works and looks, and to create new features and functionality.
+1\. WGSN will keep your information on a secure server. The technology that WGSN uses and the security policies which WGSN has implemented are intended to safeguard your information from unauthorised access and improper use.
 
-• STYLESIGHT may use "automatically collected" information and "cookies" information to: (a) personalize our services, such as remembering your information so that you will not have to re-enter it during your visit or the next time you visit the Site; (b) provide customized third party advertisements, content, and information; (c) monitor and analyze the effectiveness of STYLESIGHT and third party marketing activities; and (d) monitor aggregate Site usage metrics such as total number of visitors and pages viewed.
+2\. WGSN will keep your information (to the extent permitted by the DPA) to enable WGSN to use it for the purposes described in this Privacy Policy.
 
-• STYLESIGHT may use your email address, mobile phone number, or other personally identifiable information to send promotional email or text messages related to the Site we think you may be interested in. You will have the ability to opt-out of receiving any such communications, either through links provided in the messages, or by updating your account preferences through the Site. If you wish to be removed from our lists please email [remove@stylesight.com](mailto:remove@stylesight.com) with your name and email address. You will be removed within 5 business days.
+**4\. Use of Your Information**
 
-## 3\. When STYLESIGHT Discloses Information
+1\. WGSN may use your personal information (subject in each case to the requirements of the DPA) for the following purposes:
 
-• Your privacy is very important to us, and we are not in the business of selling your information. We do, however, disclose your personal information in a variety of circumstances.
+1\. administering your website account(s) and otherwise in connection with any service for which you have provided your information, including any email alerts, transactions with us and competitions and promotions that you take part in;  
+2\. responding to any enquiry you make;  
+3\. subject to your consent, sending you newsletters and/or alerts and information regarding WGSN’s or any third party’s future services (in all formats to which you have consented e.g. post, email, text); and  
+4\. for generating aggregated statistics about users, traffic patterns etc. of the WGSN website(s) and other services and developing WGSN’s marketing plans.
 
-• The Site enables users to communicate in a variety of ways. Any personally identifiable information that you voluntarily choose to include in a message to another user, such as through your username or blog entries, will be available to other users who access that content. Once you make your personally identifiable information available to others, it may be collected and used by the recipients without restriction.
+2\. WGSN may also disclose your information (subject in each case to the requirements of the DPA) as follows:
 
-• STYLESIGHT makes certain automatically collected and other aggregate non-personally-identifiable information available to interested third parties, to assist such parties in understanding our users' interests, habits, and usage patterns for certain programs, content, services, or functionality available through the Site.
+1\. if you have given your consent for WGSN to do so, to other selected organisations to enable them to contact you or send you information by post, telephone and/or email;  
+2\. to any service providers, sub-contractors and agents appointed by WGSN to perform the above functions on its behalf and in accordance with its instructions;  
+3\. to third parties selected by WGSN as part of aggregated and anonymised statistics about users, traffic patterns etc. of the WGSN website(s);  
+4\. to such individuals and/or bodies as necessary to ensure WGSN’s compliance with any applicable law, regulation, legal proceeding or governmental request;  
+5\. (where you post material that does or may constitute a criminal offence, breach the rights of a third party, give rise to a civil action or breach the Terms & Conditions of the applicable website and as otherwise necessary to protect the rights, property or safety of WGSN and its customers), to any relevant authority or third party requiring WGSN to disclose the identity of or locate anyone posting such material on an WGSN website; and  
+6\. to any individual making a subject information request to WGSN.
 
-STYLESIGHT works with third party service providers to provide website hosting and maintenance as well as other services for us. To the extent it is necessary for these service providers to complete their contractual obligations to STYLESIGHT, these third parties may have access to or process your personally identifiable information. Generally, these disclosures are made under terms comparable to this policy, and the recipients are limited to using the information the purpose for which it was provided.
+3\. In the event that WGSN (or a relevant part of WGSN) is acquired by or merges with another company, your personal information may be passed to the purchasing/merging company amongst the transferred business assets. This will enable your relationship to continue with the relevant WGSN business despite the change of ownership. Your personal information may also be passed (on a confidential basis) to companies with whom WGSN is negotiating such a sale/merger as part of the verification exercise carried out on WGSN by the third party.
 
-STYLESIGHT may also disclose your information if required to do so by law or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright law), in response to a court order, judicial or other government subpoena or warrant, or to otherwise cooperate with law enforcement activity.
+4\. In processing your information in accordance with the above, WGSN may (to the extent permitted by the DPA) send it outside the European Economic Area (“EEA”). WGSN will take all reasonable steps to ensure that in such circumstances your data is treated securely and in accordance with this Privacy Policy but your attention is drawn to the fact that the laws of countries outside the EEA may provide lesser protection to your information than the UK. When you submit your personal information to WGSN you consent to the transfer of your information outside the EEA unless you specifically indicate otherwise.
 
-STYLESIGHT also reserves the right to disclose your information that we believe, in good faith, is appropriate or necessary to take precautions against liability; to protect STYLESIGHT and others from fraudulent, abusive, or unlawful uses or activity; to investigate and defend ourselves against any third party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Site; or to protect the rights, property, or personal safety of STYLESIGHT, our users, or others.
+**5\. Cookies**
 
-## 4\. Your Choices
+When you visit a WGSN website(s), WGSN uses “cookie” technology try to make that experience simple, personalised and meaningful. Cookies are small pieces of information which are issued to your computer or any similar device you use to access the internet e.g. smart phone, tablet or other mobile device when you visit a website and which store and sometimes track information about you’re use of the website. A number of cookies WGSN use last only for the duration of your web session and expire when you close your browser. Other cookies are used to remember you when you return to the website and will last for longer.
 
-(a) You may, of course, decline to share certain personally identifiable information with STYLESIGHT, in which case you will not be able to subscribe to the Site and STYLESIGHT may not be able to provide to you some of the features and functionality found on the Site. You may update, correct, or delete your profile information and preferences at any time by accessing your account preferences page through the Site. Please note that while your changes may be reflected promptly in active user databases, we may retain all information you submit for a variety of purposes, including backups and archiving, prevention of fraud and abuse, and analytics.
+WGSN use cookies to:
 
-(b) To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information. YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES.
+• create a specific log-in session for a visitor to a WGSN website in order that page requests by that visitor are delivered in an effective, secure and consistent manner;
 
-##   
-5\. Third Party Services
+• recognise when a visitor to a WGSN website has visited before; this means we can identify the number of unique visitors we receive to the website and allows us to make sure we have enough capacity for the number of users that we get;
 
-The Site contains links to websites and services provided by third parties. Any personally identifiable information you provide on third party websites or services is provided directly to that third party and is subject to that third party's policies governing privacy and security. We are not responsible for the content or privacy and security practices and policies of third party websites or services to which links are displayed on the Site. We encourage you to learn about third parties' privacy and security policies before providing them with personally identifiable information.
+• customise elements of the promotional layout and/or content of the pages of the website;
 
-##   
-6\. Our Commitment To Children's Privacy
+• store your product selections to the shopping basket;
 
-For that reason, STYLESIGHT does not knowingly collect or maintain personally identifiable information from persons under 13 years-of-age, and no part of the Site is directed to persons under 13. IF YOU ARE UNDER 13 YEARS OF AGE, THEN PLEASE DO NOT USE OR ACCESS THE SITE AT ANY TIME OR IN ANY MANNER.
+• collect statistical information about how our visitors use the website(s) so that we can improve the website(s) and learn which parts are most popular to visitors; and
 
-##   
-7\. Our Commitment To Data Security
+• Gather information through our advertising partners, about the pages on the WGSN website(s) that you visit, and also other information about other websites that you visit, so as to place you in an “interest segment”. This information is then used to serve interest-based advertisements which it is believed will be targeted to your interests. For more information about this type of interest based advertising, and about how to turn this feature off please visit [www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/) or follow the link to the website of our advertising partners shown below. Without these cookies, advertisements you encounter will be less relevant to you and to your interests.
 
-(a) STYLESIGHT uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to STYLESIGHT, and you do so at your own risk. Once we receive your transmission of information, STYLESIGHT makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+Some of the cookies used by WGSN websites are set by us, and some are set by third parties who are delivering services on our behalf. Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/) which includes additional useful information on cookies and how to block cookies using different types of browser. Please note however, that by blocking or deleting cookies used on a WGSN website(s) you may not be able to take full advantage of the website(s) if you do so.
 
-(b) If STYLESIGHT learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. STYLESIGHT may post a notice through the Site if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us at [privacy@stylesight.com](mailto:privacy@stylesight.com).
+**6\. Third Party Websites**
 
-##   
-8\. International Users
+Please be aware that WGSN does not control and is not responsible for websites that are referred to or linked from its own websites and that use of your personal information on these websites is not subject to this Privacy and Cookies Policy.
 
-The Site is hosted in the United States. If you choose to use the Site from the European Union or other regions of the world with laws governing data collection and use that may differ from U.S. law, then please note that you are transferring your personally identifiable information outside of those regions to the United States and by providing your personally identifiable information on the Site you consent to that transfer.
+**7\. Registration**
 
-##   
-9\. In The Event Of Merger Or Sale
+1\. To access certain parts of the WGSN websites, WGSN may require you to register and provide certain information about yourself.
 
-In the event that all or a portion of STYLESIGHT or its assets is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from users in connection with such merger, acquisition, sale, or other change of control.
+2\. You are reminded that in addition to the provisions of this Privacy and Cookies Policy, where you register you also agree to:
 
-##   
-10\. Changes And Updates To This Privacy Policy
+a. provide true, accurate, current and complete information about yourself as prompted by the relevant registration form (such information being the “Registration Data”); and  
+b. maintain and promptly update the Registration Data to keep it fully up to date.
 
-Please revisit this page periodically to stay aware of any changes to this Privacy Policy, which we may revise periodically. If we modify the Privacy Policy, we will make it available through the Site, and indicate the date of the latest revision. In the event that the modifications materially alter your rights or obligations hereunder we will make reasonable efforts to notify you of the change. For example, we may send a message to your email address, if we have one on file, or generate a pop-up or similar notification when you access the Site for the first time after such material changes are made. Our amended Privacy Policy will automatically take effect 30 days after it is made available through the Site, except that (i) we generally only use your personal information in the manner described in the Privacy Policy in effect when we received that personal information and (ii) if you do not agree with any changes to the Privacy Policy, you may terminate your account ceasing use of the Site. Your continued use of the Site after revised Privacy Policy has become effective indicates that you have read, understood and agreed to the current version of the Privacy Policy.
+**8\. Governing Law**
 
-##   
-11\. Contact Information
+This Privacy Policy is governed by, and will be construed in accordance with English law.
 
-Any feedback, comments, requests for technical support or other communications should be directed to STYLESIGHT customer service through [info@STYLESIGHT.com](mailto:info@STYLESIGHT.com) or to Stylesight, Inc., 25 W. 39th Street, New York, NY 10018.
+The parties submit to the exclusive jurisdiction of the courts of England and Wales in relation to any legal actions or proceedings arising out of or in connection with this agreement, save that this submission will not preclude any party from applying to any other court having jurisdiction for urgent or interim relief in aid of proposed or pending proceedings in England.
+
+**Advisory**
+
+WGSN offers a bespoke consultancy service. By mobilising our global team of experts, drawing intelligence from our products and conducting proprietary research, we work to solve problems & create opportunities for customers with particular needs.
+
+[Learn More](https://web.archive.org/web/20150610022135id_/http://www.wgsn.com/en/services/advisory/)
