@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvdfab.cn privacy policy that was archived on 2014-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140730092900id_/http%3A//www.dvdfab.cn/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdfab.cn privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610103640id_/http%3A//www.dvdfab.cn/privacy.htm) for the most accurate reproduction.*
 
 # DVDFab - Copy Any DVD to DVDR/PSP/iPod. Fastest DVD Copy Software!
 
@@ -23,7 +23,7 @@ Your information will help us contact you, and let us make you get our product, 
 
 #### Information protected by the 3rd party credit card processors
 
-DVDFab uses security server hosted by Avangate and other 3rd party credit card processors which encrypt all your personal information including your name, address, credit card number, credit card expiration date, etc. until it is sent to us. This can prevent any malicious use of your personal information and make sure it is only used for online transition.
+DVDFab uses security server hosted by other 3rd party credit card processors which encrypt all your personal information including your name, address, credit card number, credit card expiration date, etc. until it is sent to us. This can prevent any malicious use of your personal information and make sure it is only used for online transition.
 
 #### Our companywide commitment to your privacy
 
