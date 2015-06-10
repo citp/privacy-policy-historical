@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the f6s.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922122142id_/http%3A//www.f6s.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the f6s.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610142351id_/http%3A//www.f6s.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | f6s
+# Privacy policy | F6S
 
 We have written this policy to explain how F6S Network Limited trading as f6s ("we", "us" or "f6s") uses the data you give us through our site(s), including but not limited to f6s.com. 
 
@@ -84,7 +84,7 @@ Statistical information, which does not reveal your personal or organizational i
 We use cookies and similar means as follows to deliver a more personalised service through mean like storing your preferences, helping you find things more quickly, to serve advertisements (if we choose to do so in the future), to let you log-in more quickly, 
 
   * so when you visit our site(s) we recognise you as an existing user, 
-  * and to identify particular visits to the site(s). You may refuse to accept these cookies by changing your browser setting to refuse cookies. By refusing cookies you may be unable to use all or some of our site(s). You can find more detail on how we use Cookies in our Cookie Policy at [www.f6s.com/cookie-policy](http://www.f6s.com/cookie-policy)
+  * and to identify particular visits to the site(s). You may refuse to accept these cookies by changing your browser setting to refuse cookies. By refusing cookies you may be unable to use all or some of our site(s). You can find more detail on how we use Cookies in our Cookie Policy at [www.f6s.com/cookie-policy](https://www.f6s.com/cookie-policy)
 
 
 
