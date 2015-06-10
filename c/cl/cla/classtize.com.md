@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classtize.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230014950id_/http%3A//www.classtize.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classtize.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610051915id_/http%3A//www.classtize.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Classtize
 
@@ -26,4 +26,4 @@ Third party companies may use cookies to serve ads when you visit our website. T
 
 ### How to delete personal information:
 
-Classtize shall delete the post after the expiry of (8)months from the date of posting the classifieds. In this Classtize anonymous user can not delete the post but on request to Classtize the post can be deleted by Classtize before the expiry date if sufficient identification proof can be produced to Classtize from the requesting user.
+Classtize shall delete the post after the expiry of (6)months from the date of posting the classifieds. In this Classtize anonymous user can not delete the post but on request to Classtize the post can be deleted by Classtize before the expiry date if sufficient identification proof can be produced to Classtize from the requesting user.
