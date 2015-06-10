@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thirdmovies.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220043013id_/http%3A//www.thirdmovies.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirdmovies.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610080000id_/http%3A//www.thirdmovies.com/privacy) for the most accurate reproduction.*
 
-# ThirdMovies Privacy Policy
+# Privacy Info
 
-Return to [ThirdMovies](http://www.thirdmovies.com/)
+#### Privacy policy
 
 This Privacy Policy applies to the following websites: (1) www.thirdmovies.com (collectively, the "Sites", or individually, a "Site"). 
 
