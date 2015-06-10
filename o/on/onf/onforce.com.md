@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onforce.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213003100id_/http%3A//www.onforce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onforce.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610235709id_/http%3A//www.onforce.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - OnForce
 
@@ -62,7 +62,7 @@ We use an outside credit card processing company to bill certain Users for retai
 
 * **Professionals**
 
-Work orders created on OnForce are completed by third-party Professionals. We share the email addresses of Buyers and Professionals once a project is awarded on our Platform to enable work on the project to be completed. These third party Professionals are not allowed to use Personally Identifiable Information except for the purpose of providing these services.
+Work orders created on OnForce are completed by third-party Professionals. We share contact information for Buyers and Professional’s, including email addresses and phone numbers, as necessary to enable Buyers and Professionals to interact prior to the awarding of a project and once a project is awarded on our Platform to enable work on the project to be completed. Buyers and Professionals are not allowed to use Personally Identifiable Information except as authorized herein for the purpose of providing these services.
 
 * **Comments Submitted by Users**
 
