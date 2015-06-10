@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alifeinbalance.net privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223164508id_/http%3A//www.alifeinbalance.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alifeinbalance.net privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610051956id_/http%3A//www.alifeinbalance.net/about/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy | A Life in Balance
+# privacy policy | A Life in Balance by Barb Hoyer
 
 _Effective Date: April 13, 2013_
 
@@ -71,11 +71,3 @@ ALB/FLK may take reasonable steps to confirm your identity prior to supplying an
 By using ALB/FLK, you hereby agree to this Privacy Policy in its entirety. ALB/FLK reserves the right, in its sole discretion, to change, modify, add and/or remove portions of this Privacy Policy at any time.
 
 All Privacy Policy changes will take effect immediately upon their posting on the Site. Please check this page periodically for any changes. Your continued use of the Site and/or failure to opt-out of emails sent to you following the posting of changes to this Privacy Policy constitutes your acceptance of any and all changes.
-
-[](http://track.mysavingsmedia.net/click.track?CID=271736&AFID=317142&ADID=1185233&SID=)
-
-### (Oh! And if you found this helpful, would you do us a favor and pin it or share it on Facebook so that other moms and dads can see it, too? THANK YOU! :) 
-
-[ ](http://www.viglink.com/legal/disclosures/users?vgtag=badge)
-
-[](http://feeds.feedblitz.com/feedburner/alifeinbalance "Subscribe to my feed") [](http://www.twitter.com/BarbHoyer) [](http://facebook.com/A.Life.in.Balance.net) [](mailto:barb@alifeinbalance.net) [](http://pinterest.com/alifeinbalance_/) [](http://instagram.com/babhoyer?ref=badge)
