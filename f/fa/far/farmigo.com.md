@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farmigo.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121034611id_/http%3A//www.farmigo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmigo.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610083630id_/http%3A//www.farmigo.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Farmigo
 
