@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegetennisonline.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124091144id_/http%3A//www.collegetennisonline.com/Tennis/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegetennisonline.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610021517id_/http%3A//www.collegetennisonline.com/Tennis/privacy-policy.aspx) for the most accurate reproduction.*
 
 # College Tennis Online - Privacy Policy
 
