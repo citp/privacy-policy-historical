@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the loveinfographics.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110455id_/http%3A//www.loveinfographics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveinfographics.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610021527id_/http%3A//www.loveinfographics.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Love infographics | Submit & share infographics - Infographics Submission Site & Community
+# Love infographics » Submit, promote and share infographics. » Privacy Policy
 
 **What information do we collect?** We collect information from you when you register on our site, subscribe to our newsletter or fill out a form.When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address.
 
