@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the planetx.co.uk privacy policy that was archived on 2014-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141220194833id_/http%3A//www.planetx.co.uk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the planetx.co.uk privacy policy that was archived on 2015-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610234111id_/http%3A//www.planetx.co.uk/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" class="site"><head>
     	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -10,9 +10,7 @@
 		<link rel="stylesheet" href="http://d2plslj6xljffa.cloudfront.net/themes/planetxuk/css/style-new.css?v=e" type="text/css" media="screen">
 		<link rel="stylesheet" href="http://d2plslj6xljffa.cloudfront.net/themes/planetxuk/css/extras.css?v=e" type="text/css" media="screen">
 		<link rel="stylesheet" href="http://d2plslj6xljffa.cloudfront.net/themes/planetxuk/css/mobile.css?v=e" type="text/css" media="screen">
-
-		<script type="text/javascript" async="" src="https://nxtcfm.s3.amazonaws.com/cbfbb3438ae8c8984a55064008ba2c24-ac.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1&amp;appId=222300484493229"></script><script type="text/javascript" src="//use.typekit.net/bvh5qwm.js"></script><script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-  
+		  		
                 <link rel="canonical" href="http://www.planetx.co.uk/privacy-policy">
                 <meta http-equiv="Content-Language" content="en">
         <meta name="Keywords" content="Bikes, Triathalon">
@@ -21,7 +19,17 @@
 						<meta property="og:type" content="article">
 						<meta property="og:image" content="http://www.planetx.co.uk/images/logo_fb_px.png">
 						<meta property="og:site_name" content="Planet X">
-					<link rel="shortcut icon" type="image/x-icon" href="/themes/planetxuk/images/favicon.ico">
+					<link rel="shortcut icon" type="image/x-icon" href="/themes/planetxuk/images/favicon_uk.ico">
+		
+		
+				<!-- PadiAct Code -->
+		<script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1&amp;appId=222300484493229"></script><script async="" src="https://d2xgf76oeu9pbh.cloudfront.net/860d4e3cfe5aa987376d08d375a05ac8.js" type="text/javascript"></script><script type="text/javascript">
+		(function() {
+		  var pa = document.createElement('script'), ae = document.getElementsByTagName('script')[0]
+		  , protocol = (('https:' == document.location.protocol) ? 'https://' : 'http://');pa.async = true;  
+		  pa.src = protocol + 'd2xgf76oeu9pbh.cloudfront.net/860d4e3cfe5aa987376d08d375a05ac8.js'; pa.type = 'text/javascript'; ae.parentNode.insertBefore(pa, ae);
+		})();
+		</script>
 		
 		<script type="text/javascript">this.top.location !== this.location && (this.top.location = this.location);</script>
 <script type="text/x-mustache-template" id="ks-minibasket-template">
@@ -93,7 +101,7 @@
 <link rel="stylesheet" href="/themes/planetxuk/css/deals.css" type="text/css" media="screen">
 <link rel="stylesheet" href="/modules/comments/view/assets/styles.css" type="text/css" media="screen">
 <script src="http://d2plslj6xljffa.cloudfront.net/js/MooTools/mootools-1-4.js" type="text/javascript"></script>
-<script src="http://d2plslj6xljffa.cloudfront.net/js/MooTools/mootools-more-1.4.0.1.js" type="text/javascript"></script>
+<script src="http://d2plslj6xljffa.cloudfront.net/js/MooTools/mootools-more-1.4.0.1-full.js" type="text/javascript"></script>
 <script src="/js/site.js?v=e" type="text/javascript"></script>
 <script src="/js/mustache.js" type="text/javascript"></script>
 <script src="/js/cart.js" type="text/javascript"></script>
@@ -104,17 +112,23 @@
     SqueezeBox.initialize( {  size: {x: 800, y: 500}  } );
     //SqueezeBox.assign($$('a[rel=moodalbox]'));
     if($$('a[rel=moodalbox]')){
-    	$$('a[rel=moodalbox]').addEvent('click', function() {
+    	$$('a[rel=moodalbox]').removeEvents().addEvent('click', function() {
+    	var options = {};
+    	var errorMsg = this.get('data-error');
+    	if (errorMsg) {
+    		options.errorMsg = errorMsg;
+    	}
     	SqueezeBox.reset();
-    	SqueezeBox.open(this.href);
+    	SqueezeBox.open(this.href, options);
 		return false;
     	});
     }
     
     
     if($$('.zoomLinks')){
-    	$$('.zoomLinks').addEvent('click', function() {
-    	SqueezeBox.reset();
+    	$$('.zoomLinks').removeEvents().addEvent('click', function() {
+
+    	//SqueezeBox.reset();
 		SqueezeBox.open(this.href);
 		return false;
 		});
@@ -123,11 +137,19 @@
     });
 </script>
 
+<script src="/js/currency.js" type="text/javascript"></script>
 <script src="/js/scrollnav.js" type="text/javascript"></script>
 <script src="/js/validate.js" type="text/javascript"></script>
 <script src="/js/sidebarNav.js?v=e" type="text/javascript"></script>
 <script src="/modules/pages/view/assets/pages.global.js" type="text/javascript"></script>
-<!--[if lte IE 8]>
+<script type="text/javascript">
+/*<![CDATA[*/
+		window.addEvent('domready', function() {
+			openCurrPop(false,'long');
+		});
+	
+/*]]>*/
+</script><script type="text/javascript" src="/js/MooTools/cwcomplete.js"></script><!--[if lte IE 8]>
 	<script type="text/javascript">
 		var w=window,d=document,e=d.documentElement,g=d.getElementsByTagName('body')[0],x=w.innerWidth||e.clientWidth||g.clientWidth,y=w.innerHeight||e.clientHeight||g.clientHeight;
 		if(x <= "1220"){
@@ -154,7 +176,9 @@ var ph = JSON.decode(pc);
   js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=222300484493229";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-<div class="utility-nav-wrap">	
+
+
+<div class="utility-nav-wrap">
 <!-- utility-nav -->		
 	<div class="utility-nav">
 		<div class="utility-content">
@@ -215,9 +239,9 @@ var ph = JSON.decode(pc);
 		Back
 	</div>
 	<div id="nav-search" class="nav-search">
-		<form id="mob-nav-search" action="/search-results" method="get">
+		<form id="mob-nav-search" action="/s" method="get">
 		  <fieldset>
-			  <input id="mob-nav-search-input" type="text" value="" alt="Search me" name="keywords" class="text-search text-input defaulted">
+			  <input id="mob-nav-search-input" type="text" value="" alt="Search me" name="q" class="text-search text-input defaulted">
 			  <button type="submit" class="btn">Go</button>
 		  </fieldset>
 		</form>
@@ -307,12 +331,13 @@ var ph = JSON.decode(pc);
 				<div class="search">
 									
 					
-						<form id="site-search" action="/search-results" method="get">
+						<form id="site-search" action="/s" method="get">
 						  <fieldset>
-							  <input id="site-search-input" type="text" value="" alt="Search…" name="keywords" class="text-search text-input defaulted">
+							  <input id="site-search-input" type="text" value="" alt="Search…" name="q" class="text-search text-input defaulted">
 							  <button type="submit" class="btn">Go</button>
 						  </fieldset>
-						</form>			
+						</form>
+						<div id="autoComp"></div>
 					</div><!-- end of .col4 .search -->
 		<!-- Search -->						
 			
@@ -336,10 +361,13 @@ var ph = JSON.decode(pc);
 <nav id="main-nav">
 	<div class="wrap">
 
-		<ul id="nav"><li class="level0"><a class="drop level-top" href="/c/q/bikes"><span>Bikes</span></a><div class="mdd-wrapper bikes"><div class="mdd-category level1 nav-threequarter"><ul class="heading"><li><h3>Categories</h3></li></ul><ul class="level1"><li class="level1"><a href="/c/q/bikes/ready-to-ride"><span>Ready to Ride</span></a></li><li class="level1"><a href="/c/q/bikes/road-bikes"><span>Road Bikes</span></a></li><li class="level1"><a href="/c/q/bikes/track-bikes"><span>Track Bikes</span></a></li><li class="level1"><a href="/c/q/bikes/tt-and-triathlon-bikes"><span>TT/Triathlon Bikes</span></a></li><li class="level1"><a href="/c/q/bikes/cyclocross-bikes"><span>Cyclocross Bikes</span></a></li><li class="level1"><a href="/c/q/bikes/mountain-bikes"><span>Mountain Bikes</span></a></li><li class="level1"><a href="/c/q/bikes/urban-bikes"><span>Urban Bikes</span></a></li><li class="level1"><a href="/c/q/bikes/womens-bikes"><span>Womens Bikes</span></a></li><li class="level1"><a href="/c/q/outlet/bikes-outlet"><span>Bikes Outlet</span></a></li></ul></div><div class="mdd-colour level1 nav-quarter"><ul class="heading"><li><h3><a href="/brand/q">Brands</a></h3></li></ul><ul class="level1"><li class="level2"><a href="/brand/q/On-One"><span>On-One</span></a></li><li class="level2"><a href="/brand/q/Planet+X"><span>Planet X</span></a></li><li class="level2"><a href="/brand/q/Viner"><span>Viner</span></a></li><li class="level2"><a href="/brand/q/Titus"><span>Titus</span></a></li><li class="level2"><a href="/brand/q/Holdsworth"><span>Holdsworth</span></a></li></ul></div><div class="mdd-all-link"><ul><li><a href="/c/q/bikes">See All Bikes</a></li></ul></div></div></li><li class="level0"><a class="drop level-top" href="/c/q/frames"><span>Frames</span></a><div class="mdd-wrapper level0 frames"><div class="mdd-category level1 nav-threequarter"><ul class="heading"><li><h3>Categories</h3></li></ul><ul class="level1"><li class="level1"><a href="/c/q/frames/road-bike-frames"><span>Road Bike Frames</span></a></li><li class="level1"><a href="/c/q/frames/track-bike-frames"><span>Track Bike Frames</span></a></li><li class="level1"><a href="/c/q/frames/tt-and-triathlon-bike-frames"><span>TT/Triathlon Bike Frames</span></a></li><li class="level1"><a href="/c/q/frames/cyclocross-frames"><span>Cyclocross Frames</span></a></li><li class="level1"><a href="/c/q/frames/mountain-bike-frames"><span>Mountain Bike Frames</span></a></li><li class="level1"><a href="/c/q/frames/urban-bike-frames"><span>Urban Bike Frames</span></a></li><li class="level1"><a href="/c/q/frames/frame-spares"><span>Frame Spares</span></a></li></ul></div><div class="mdd-colour level1 nav-quarter"><ul class="heading"><li><h3><a href="/brand/q">Brands</a></h3></li></ul><ul class="level1"><li class="level2"><a href="/c/q/frames#!=&amp;g_manufacturer=on-one"><span>On-One</span></a></li><li class="level2"><a href="/c/q/frames#!=&amp;g_manufacturer=planet-x"><span>Planet X</span></a></li><li class="level2"><a href="/c/q/frames#!=&amp;g_manufacturer=guerciotti"><span>Guerciotti</span></a></li><li class="level2"><a href="/c/q/frames#!=&amp;g_manufacturer=titus"><span>Titus</span></a></li><li class="level2"><a href="/c/q/frames#!=&amp;g_manufacturer=sab"><span>Sab</span></a></li></ul></div><div class="mdd-all-link"><ul><li><a href="/c/q/frames">See All Frames</a></li></ul></div></div></li><li class="level0"><a class="drop level-top" href="/c/q/wheels"><span>Wheels</span></a><div class="mdd-wrapper level0 wheels"><div class="mdd-category level1 nav-threequarter"><ul class="heading"><li><h3>Categories</h3></li></ul><ul class="level1"><li class="level1"><a href="/c/q/wheels/road-bike-wheels"><span>Road Bike Wheels</span></a></li><li class="level1"><a href="/c/q/wheels/track-bike-wheels"><span>Track Bike Wheels</span></a></li><li class="level1"><a href="/c/q/wheels/tt-and-triathlon-wheels"><span>TT/Triathlon Wheels</span></a></li><li class="level1"><a href="/c/q/wheels/cyclocross-wheels"><span>Cyclocross Wheels</span></a></li><li class="level1"><a href="/c/q/wheels/mountain-bike-wheels"><span>Mountain Bike Wheels</span></a></li><li class="level1"><a href="/c/q/wheels/urban-bike-wheel"><span>Urban Bike Wheels</span></a></li><li class="level1"><a href="/c/q/wheels/tyres-and-tubes"><span>Tyres and Tubes</span></a></li><li class="level1"><a href="/c/q/wheels/wheel-spares"><span>Wheel Spares</span></a></li></ul></div><div class="mdd-colour level1 nav-quarter"><ul class="heading"><li><h3><a href="/brand/q">Brands</a></h3></li></ul><ul class="level1"><li class="level2"><a href="/c/q/wheels#!=&amp;g_manufacturer=planet-x"><span>Planet X</span></a></li><li class="level2"><a href="/c/q/wheels#!=&amp;g_manufacturer=on-one"><span>On-One</span></a></li></ul></div><div class="mdd-all-link"><ul><li><a href="/c/q/wheels">See All Wheels</a></li></ul></div></div></li><li class="level0"><a class="drop level-top" href="/c/q/components"><span>Components</span></a><div class="mdd-wrapper level0 components"><div class="mdd-category level1 nav-fullwidth"><ul class="heading"><li><h3>Categories</h3></li></ul><ul class="mdd-fixed level1"><li class="level1"><a href="/c/q/components/forks-and-shocks"><span class="subheading">Forks and Shocks</span></a></li><li class="level1"><a href="/c/q/components/forks-and-shocks/rear-shocks"><span>Rear Shocks</span></a></li><li class="level1"><a href="/c/q/components/forks-and-shocks/rigid-forks"><span>Rigid Forks</span></a></li><li class="level1"><a href="/c/q/components/forks-and-shocks/suspension-forks"><span>Suspension Forks</span></a></li></ul><ul class="mdd-fixed level1"><li class="level1"><a href="/c/q/components/drivetrain"><span class="subheading">Drivetrain</span></a></li><li class="level1"><a href="/c/q/components/drivetrain/chain-rings"><span>Chain Rings</span></a></li><li class="level1"><a href="/c/q/components/drivetrain/singlespeed-kits"><span>SingleSpeed Kits</span></a></li><li class="level1"><a href="/c/q/components/drivetrain/bottom-brackets"><span>Bottom Brackets</span></a></li><li class="level1"><a href="/c/q/components/drivetrain/cassettes"><span>Cassettes</span></a></li><li class="level1"><a href="/c/q/components/drivetrain/chains"><span>Chains</span></a></li><li class="level1"><a href="/c/q/components/drivetrain/crank-sets"><span>Crank Sets</span></a></li><li class="level1"><a href="/c/q/components/drivetrain/derailleurs"><span>Derailleurs</span></a></li><li class="level1"><a href="/c/q/components/drivetrain/groupsets"><span>Groupsets</span></a></li></ul><ul class="mdd-fixed level1"><li class="level1"><a href="/c/q/components/finishing-kit"><span class="subheading">Finishing Kit</span></a></li><li class="level1"><a href="/c/q/components/finishing-kit/seat-clamps"><span>Seat Clamps</span></a></li><li class="level1"><a href="/c/q/components/finishing-kit/bar-tape-and-grips"><span>Bar Tape and Grips</span></a></li><li class="level1"><a href="/c/q/components/finishing-kit/gear-cables"><span>Gear Cables</span></a></li><li class="level1"><a href="/c/q/components/finishing-kit/saddles"><span>Saddles</span></a></li><li class="level1"><a href="/c/q/components/finishing-kit/handle-bars"><span>Handle Bars</span></a></li><li class="level1"><a href="/c/q/components/finishing-kit/head-sets"><span>Head Sets</span></a></li><li class="level1"><a href="/c/q/components/finishing-kit/seat-posts"><span>Seat Posts</span></a></li><li class="level1"><a href="/c/q/components/finishing-kit/pedals"><span>Pedals</span></a></li><li class="level1"><a href="/c/q/components/finishing-kit/stems"><span>Stems</span></a></li></ul><ul class="mdd-fixed level1"><li class="level1"><a href="/c/q/components/brakes"><span class="subheading">Brakes</span></a></li><li class="level1"><a href="/c/q/components/brakes/brake-calipers"><span>Brake Calipers</span></a></li><li class="level1"><a href="/c/q/components/brakes/disc-brakes"><span>Disc Brakes</span></a></li><li class="level1"><a href="/c/q/components/brakes/cantilever-brakes"><span>Cantilever Brakes</span></a></li><li class="level1"><a href="/c/q/components/brakes/brake-spares"><span>Brake Spares</span></a></li></ul><ul class="mdd-fixed level1"><li class="level1"><a href="/c/q/components/controls"><span class="subheading">Controls</span></a></li><li class="level1"><a href="/c/q/components/controls/brake-levers"><span>Brake Levers</span></a></li><li class="level1"><a href="/c/q/components/controls/gear-shifters"><span>Gear Shifters</span></a></li></ul></div><div class="mdd-all-link hide"><ul><li><a href="/c/q/components">See All Components</a></li></ul></div></div></li><li class="level0"><a class="drop level-top" href="/c/q/accessories"><span>Accessories</span></a><div class="mdd-wrapper level0 accessories"><div class="mdd-category level1 nav-fullwidth"><ul class="heading"><li><h3>Categories</h3></li></ul><ul class="mdd-fixed level1"><li class="level1"><a href="/c/q/accessories/bike-accessories"><span class="subheading">Accessories</span></a></li><li class="level1"><a href="/c/q/accessories/bike-accessories/mudguards"><span>Mudguards</span></a></li><li class="level1"><a href="/c/q/accessories/bike-accessories/hydration-packs"><span>Hydration Packs</span></a></li><li class="level1"><a href="/c/q/accessories/bike-accessories/bike-locks"><span>Bike Locks</span></a></li><li class="level1"><a href="/c/q/accessories/bike-accessories/computers-and-training-aids"><span>Computers and Training Aids</span></a></li><li class="level1"><a href="/c/q/accessories/climbing-equipment"><span>Climbing Equipment</span></a></li><li class="level1"><a href="/c/q/accessories/bike-accessories/miscellaneous"><span>Miscellaneous</span></a></li><li class="level1"><a href="/c/q/accessories/bike-accessories/racks"><span>Racks</span></a></li><li class="level1"><a href="/c/q/accessories/bike-accessories/bottles-and-bottle-cages"><span>Bottles and Bottle Cages</span></a></li><li class="level1"><a href="/c/q/accessories/bike-accessories/pumps"><span>Pumps</span></a></li><li class="level1"><a href="/c/q/accessories/bike-accessories/trainers-and-rollers"><span>Trainers and Rollers</span></a></li></ul><ul class="mdd-fixed level1"><li class="level1"><a href="/c/q/accessories/bags-and-luggage"><span class="subheading">Bags and Luggage</span></a></li><li class="level1"><a href="/c/q/accessories/bags-and-luggage/saddle-bags"><span>Saddle Bags</span></a></li><li class="level1"><a href="/c/q/accessories/bags-and-luggage/backpacks"><span>Backpacks</span></a></li><li class="level1"><a href="/c/q/accessories/bags-and-luggage/bag-covers-and-liners"><span>Bag Covers &amp; Liners</span></a></li><li class="level1"><a href="/c/q/accessories/bags-and-luggage/stuffsacks"><span>Stuffsacs</span></a></li><li class="level1"><a href="/c/q/accessories/bags-and-luggage/buckles-and-straps"><span>Buckles &amp; Straps</span></a></li><li class="level1"><a href="/c/q/accessories/bags-and-luggage/panniers-and-touring"><span>Panniers and Touring</span></a></li><li class="level1"><a href="/c/q/accessories/bags-and-luggage/musette"><span>Musette</span></a></li><li class="level1"><a href="/c/q/accessories/bags-and-luggage/bike-bags-and-boxes"><span>Bike Bags and Boxes</span></a></li><li class="level1"><a href="/c/q/accessories/bags-and-luggage/wheel-bags"><span>Wheel Bags</span></a></li></ul><ul class="mdd-fixed level1"><li class="level1"><a href="/c/q/accessories/health-and-nutrition"><span class="subheading">Health &amp; Nutrition</span></a></li><li class="level1"><a href="/c/q/accessories/health-and-nutrition/hydration"><span>Hydration</span></a></li><li class="level1"><a href="/c/q/accessories/health-and-nutrition/chamois-cream"><span>Chamois Cream</span></a></li><li class="level1"><a href="/c/q/accessories/health-and-nutrition/recovery"><span>Recovery</span></a></li><li class="level1"><a href="/c/q/accessories/health-and-nutrition/endurance"><span>Endurance</span></a></li><li class="level1"><a href="/c/q/accessories/health-and-nutrition/body-health"><span>Body Health</span></a></li></ul><ul class="mdd-fixed level1"><li class="level1"><a href="/c/q/accessories/lights"><span class="subheading">Lights</span></a></li><li class="level1"><a href="/c/q/accessories/lights/lighting-accessories"><span>Lighting Accessories</span></a></li><li class="level1"><a href="/c/q/accessories/lights/off-road"><span>Off Road</span></a></li><li class="level1"><a href="/c/q/accessories/lights/rear"><span>Rear</span></a></li><li class="level1"><a href="/c/q/accessories/lights/front"><span>Front</span></a></li><li class="level1"><a href="/c/q/accessories/lights/light-sets"><span>Light Sets</span></a></li></ul><ul class="mdd-fixed level1"><li class="level1"><a href="/c/q/accessories/workshop"><span class="subheading">Workshop</span></a></li><li class="level1"><a href="/c/q/accessories/workshop/lubricants"><span>Lubricants</span></a></li><li class="level1"><a href="/c/q/accessories/workshop/cleaning"><span>Cleaning</span></a></li><li class="level1"><a href="/c/q/accessories/workshop/tools"><span>Tools</span></a></li><li class="level1"><a href="/c/q/accessories/workshop/workshop-spare"><span>Workshop Spare</span></a></li><li class="level1"><a href="/c/q/accessories/workshop/workstands"><span>Workstands</span></a></li></ul></div><div class="mdd-all-link hide"><ul><li><a href="/c/q/accessories">See All Accessories</a></li></ul></div></div></li><li class="level0"><a class="drop level-top" href="/c/q/clothing"><span>Clothing</span></a><div class="mdd-wrapper level0 clothing"><div class="mdd-category level1 nav-fullwidth"><ul class="heading"><li><h3>Categories</h3></li></ul><ul class="mdd-half level1"><li class="level1"><a href="/c/q/clothing/clothes"><span class="subheading">Clothing</span></a></li><li class="level1"><a href="/c/q/outlet/clothing-outlet"><span>Clothing outlet</span></a></li><li class="level1"><a href="/c/q/clothing/clothes/vests"><span>Vests</span></a></li><li class="level1"><a href="/c/q/clothing/clothes/gilets"><span>Gilets</span></a></li><li class="level1"><a href="/c/q/clothing/clothes/merino"><span>Merino</span></a></li><li class="level1"><a href="/c/q/clothing/clothes/knitwear"><span>Knitwear</span></a></li><li class="level1"><a href="/c/q/clothing/clothes/polos"><span>Polos</span></a></li><li class="level1"><a href="/c/q/clothing/clothes/baselayers"><span>Baselayers</span></a></li><li class="level1"><a href="/c/q/clothing/clothes/headwear"><span>Headwear</span></a></li><li class="level1"><a href="/c/q/clothing/clothes/arm-and-neck-warmers"><span>Arm and Neck Warmers</span></a></li><li class="level1"><a href="/c/q/clothing/clothes/leggings-tights-and-shorts"><span>Leggings, Tights &amp; Shorts</span></a></li><li class="level1"><a href="/c/q/clothing/clothes/jackets"><span>Jackets</span></a></li><li class="level1"><a href="/c/q/clothing/clothes/jerseys"><span>Jerseys</span></a></li><li class="level1"><a href="/c/q/clothing/clothes/gloves"><span>Gloves</span></a></li><li class="level1"><a href="/c/q/clothing/clothes/t-shirts"><span>T-Shirts</span></a></li><li class="level1"><a href="/c/q/clothing/clothes/tops"><span>Tops</span></a></li><li class="level1"><a href="/c/q/clothing/clothes/body-armour-and-protection"><span>Body Armour</span></a></li><li class="level1"><a href="/c/q/clothing/clothes/wetsuits"><span>Wetsuits</span></a></li></ul><ul class="mdd-half level1"><li class="level1"><a href="/c/q/clothing/footwear"><span class="subheading">Footwear</span></a></li><li class="level1"><a href="/c/q/clothing/footwear/socks"><span>Socks</span></a></li><li class="level1"><a href="/c/q/clothing/footwear/overshoes"><span>Overshoes</span></a></li><li class="level1"><a href="/c/q/clothing/footwear/road-shoes"><span>Road Shoes</span></a></li><li class="level1"><a href="/c/q/clothing/footwear/mountain-bike-footwear"><span>Mountain Bike Footwear</span></a></li></ul><ul class="mdd-half level1"><li class="level1"><a href="/c/q/clothing/helmets"><span class="subheading">Helmets</span></a></li><li class="level1"><a href="/c/q/clothing/helmets"><span>Helmets</span></a></li></ul><ul class="mdd-half level1"><li class="level1"><a href="/c/q/clothing/eyewear"><span class="subheading">Eyewear</span></a></li><li class="level1"><a href="/c/q/clothing/eyewear/sunglasses"><span>Sunglasses</span></a></li><li class="level1"><a href="/c/q/clothing/eyewear/cycling-glasses"><span>Cycling Glasses</span></a></li><li class="level1"><a href="/c/q/clothing/eyewear/swimming-goggles"><span>Swimming Goggles</span></a></li><li class="level1"><a href="/c/q/clothing/eyewear/oakley-glasses"><span>Oakley Glasses</span></a></li></ul></div><div class="mdd-all-link"><ul><li><a href="/c/q/clothing">See All Clothing</a></li></ul></div></div></li><li class="level0"><a class="drop level-top" href="/c/q/vintage"><span>Vintage</span></a><div class="mdd-wrapper level0 vintage"><div class="mdd-category level1 nav-fullwidth"><ul class="heading"><li><h3>Categories</h3></li></ul><ul class="mdd-half level1"><li class="level1"><a href="/c/q/vintage"><span class="subheading">Vintage and Classic Store</span></a></li><li class="level1"><a style="background-color: transparent;" href="/c/q/vintage/vintage-frames">Vintage Frames</a></li><!--<li class="level1"><a href="/c/q/vintage/vintage-clearance"><span>Vintage Clearance</span></a></li><li class="level1"><a href="/c/q/vintage/vintage-wheels"><span>Vintage Wheels</span></a></li>--><li class="level1"><a href="/c/q/vintage/vintage-finishing-kit"><span>Vintage Finishing Kit</span></a></li></ul><ul class="mdd-half level1"><li class="level1"><a href="/brand/q"><span class="subheading">Vintage and Classic Brands</span></a></li><li class="level1"><a href="/brand/q/Viner"><span>Viner</span></a></li><li class="level1"><span><a href="/brand/q/3TTT">3TTT</a></span></li><li class="level1"><a href="/brand/q/Cinelli"><span>Cinelli</span></a></li><li class="level1"><span><a href="/brand/q/Clarks">Clarks</a></span></li><li class="level1"><a href="/brand/q/FSA"><span>FSA</span></a></li><li class="level1"><a href="/brand/q/Mavic"><span>Mavic</span></a></li></ul></div><div class="mdd-all-link"><ul><li><a href="/c/q/vintage">See All Vintage</a></li></ul></div></div></li><li class="level0"><a class="drop level-top" href="/brand/q"><span>Brands</span></a><div class="mdd-wrapper level0 brands"><div class="mdd-category level1 nav-fullwidth"><ul class="heading"><li><h3>Our Top Brands</h3></li></ul><ul class="level1"><li class="level1"><a href="/brand/q/Planet+X"><span>Planet X</span></a></li><li class="level1"><a href="/brand/q/On-One"><span>On-One</span></a></li><li class="level1"><a href="/brand/q/Titus"><span>Titus</span></a></li><li class="level1"><a href="/brand/q/Holdsworth"><span>Holdsworth</span></a></li><li class="level1"><a href="/brand/q/Guerciotti"><span>Guerciotti</span></a></li><li class="level1"><a href="/brand/q/Sab"><span>Sab</span></a></li><li class="level1"><a href="/brand/q/Shimano"><span>Shimano</span></a></li><li class="level1"><a href="/brand/q/SRAM"><span>SRAM</span></a></li><li class="level1"><a href="/brand/q/Vittoria"><span>Vittoria</span></a></li><li class="level1"><a href="/brand/q/Fizik"><span>Fizik</span></a></li></ul></div><div class="mdd-all-link"><ul><li><a href="/brand/q">See All Brands</a></li></ul></div></div></li><li class="level0"><a class="drop level-top" href="/c/q/outlet">Outlet</a><div class="mdd-wrapper level0 brands"><div class="mdd-category level1 nav-fullwidth"><ul class="heading"><li><h3>Outlet Deals</h3></li></ul><ul class="level1"><li class="level1"><a href="/c/q/outlet/bikes-outlet"><span>Bikes Outlet</span></a></li><li class="level1"><a href="/c/q/outlet/frames-outlet"><span>Frames Outlet</span></a></li><li class="level1"><a href="/c/q/outlet/wheels-outlet"><span>Wheels Outlet</span></a></li><li class="level1"><a href="/c/q/outlet/clothing-outlet"><span>Clothing Outlet</span></a></li><li class="level1"><a href="/c/q/outlet/accessories-outlet"><span>Accessories Outlet</span></a></li><li class="level1"><a href="/c/q/outlet/components-outlet"><span>Components Outlet</span></a></li></ul></div></div></li><li class="level0 deals"><a class="drop level-top deals" href="/c/q/deals">Deals</a><div class="mdd-wrapper level0 deals"><div class="mdd-category level1 nav-fullwidth"><ul class="heading"><li><h3>Categories</h3></li></ul><ul class="level1"><li class="level1"><a href="/deals"><span>Daily Deal</span></a></li><li class="level1"><a href="/c/q/deals/christmas-gift-ideas"><span>Ideas for Christmas Gifts</span></a></li><li class="level1"><a href="/c/q/deals/winter"><span>Get kitted out for Winter</span></a></li><li class="level1"><a href="/c/q/deals/bundles"><span>Bundles</span></a></li></ul></div></div></li></ul>	</div><!-- end of .wrap -->
+		<ul id="nav"><li class="level0"><a class="drop level-top" href="/c/q/bikes">Bikes</a><div class="mdd-wrapper bikes"><div class="mdd-category level1 nav-threequarter"><ul class="heading"><li><h3>Categories</h3></li></ul><ul class="level1"><li class="level1"><a href="/c/q/bikes/road-bikes">Road Bikes</a></li><li class="level1"><a href="/c/q/bikes/track-bikes">Track Bikes</a></li><li class="level1"><a href="/c/q/bikes/tt-and-triathlon-bikes">TT/Triathlon Bikes</a></li><li class="level1"><a href="/c/q/bikes/cyclocross-bikes">Cyclocross Bikes</a></li><li class="level1"><a href="/c/q/bikes/mountain-bikes">Mountain Bikes</a></li><li class="level1"><a href="/c/q/bikes/urban-bikes">Urban Bikes</a></li><li class="level1"><a href="/c/q/bikes/womens-bikes">Womens Bikes</a></li><li class="level1"><a href="/c/q/deals/clearance/clearance-bikes">Clearance Bikes</a></li></ul></div><div class="mdd-colour level1 nav-quarter"><ul class="heading"><li><h3><a href="/brand/q">Models</a></h3></li></ul><ul class="level1"><li class="level2"><a href="/c/q/bikes/road-bikes/pro-carbon">Pro Carbon</a></li><li class="level2"><a href="/c/q/bikes/road-bikes/rt-90">RT-90</a></li><li class="level2"><a href="/c/q/bikes/road-bikes/rt-80">RT-80</a></li><li class="level2"><a href="/c/q/bikes/road-bikes/viner-mitus">Viner Mitus</a></li><li class="level2"><a href="/c/q/bikes/road-bikes/london-road">London Road</a></li><li class="level2"><a href="/c/q/bikes/road-bikes/rt-58-alloy">RT-58 Alloy</a></li></ul></div><div class="mdd-all-link"><ul><li><a href="/c/q/bikes">See All Bikes</a></li></ul></div></div></li><li class="level0"><a class="drop level-top" href="/c/q/frames">Frames</a><div class="mdd-wrapper level0 frames"><div class="mdd-category level1 nav-threequarter"><ul class="heading"><li><h3>Categories</h3></li></ul><ul class="level1"><li class="level1"><a href="/c/q/frames/road-bike-frames">Road Bike Frames</a></li><li class="level1"><a href="/c/q/frames/track-bike-frames">Track Bike Frames</a></li><li class="level1"><a href="/c/q/frames/tt-and-triathlon-bike-frames">TT/Triathlon Bike Frames</a></li><li class="level1"><a href="/c/q/frames/cyclocross-frames">Cyclocross Frames</a></li><li class="level1"><a href="/c/q/frames/mountain-bike-frames">Mountain Bike Frames</a></li><li class="level1"><a href="/c/q/frames/urban-bike-frames">Urban Bike Frames</a></li><li class="level1"><a href="/c/q/frames/frame-spares">Frame Spares</a></li></ul></div><div class="mdd-colour level1 nav-quarter"><ul class="heading"><li><h3><a href="/brand/q">Brands</a></h3></li></ul><ul class="level1"><li class="level2"><a href="/c/q/frames#!=&amp;g_manufacturer=on-one">On-One</a></li><li class="level2"><a href="/c/q/frames#!=&amp;g_manufacturer=planet-x">Planet X</a></li><li class="level2"><a href="/c/q/frames#!=&amp;g_manufacturer=guerciotti">Guerciotti</a></li><li class="level2"><a href="/c/q/frames#!=&amp;g_manufacturer=titus">Titus</a></li><li class="level2"><a href="/c/q/frames#!=&amp;g_manufacturer=sab">Sab</a></li></ul></div><div class="mdd-all-link"><ul><li><a href="/c/q/frames">See All Frames</a></li></ul></div></div></li><li class="level0"><a class="drop level-top" href="/c/q/wheels">Wheels</a><div class="mdd-wrapper level0 wheels"><div class="mdd-category level1 nav-threequarter"><ul class="heading"><li><h3>Categories</h3></li></ul><ul class="level1"><li class="level1"><a href="/c/q/wheels/road-bike-wheels">Road Bike Wheels</a></li><li class="level1"><a href="/c/q/wheels/track-bike-wheels">Track Bike Wheels</a></li><li class="level1"><a href="/c/q/wheels/tt-and-triathlon-wheels">TT/Triathlon Wheels</a></li><li class="level1"><a href="/c/q/wheels/cyclocross-wheels">Cyclocross Wheels</a></li><li class="level1"><a href="/c/q/wheels/mountain-bike-wheels">Mountain Bike Wheels</a></li><li class="level1"><a href="/c/q/wheels/urban-bike-wheel">Urban Bike Wheels</a></li><li class="level1"><a href="/c/q/wheels/tyres-and-tubes">Tyres and Tubes</a></li><li class="level1"><a href="/c/q/wheels/wheel-spares">Wheel Spares</a></li></ul></div><div class="mdd-colour level1 nav-quarter"><ul class="heading"><li><h3><a href="/brand/q">Brands</a></h3></li></ul><ul class="level1"><li class="level2"><a href="/c/q/wheels#!=&amp;g_manufacturer=planet-x">Planet X</a></li><li class="level2"><a href="/c/q/wheels#!=&amp;g_manufacturer=on-one">On-One</a></li></ul></div><div class="mdd-all-link"><ul><li><a href="/c/q/wheels">See All Wheels</a></li></ul></div></div></li><li class="level0"><a class="drop level-top" href="/c/q/components">Components</a><div class="mdd-wrapper level0 components"><div class="mdd-category level1 nav-fullwidth"><ul class="heading"><li><h3>Categories</h3></li></ul><ul class="mdd-fixed level1"><li class="level1"><a href="/c/q/components/forks-and-shocks"><span class="subheading">Forks and Shocks</span></a></li><li class="level1"><a href="/c/q/components/forks-and-shocks/rear-shocks">Rear Shocks</a></li><li class="level1"><a href="/c/q/components/forks-and-shocks/rigid-forks">Rigid Forks</a></li><li class="level1"><a href="/c/q/components/forks-and-shocks/suspension-forks">Suspension Forks</a></li></ul><ul class="mdd-fixed level1"><li class="level1"><a href="/c/q/components/drivetrain"><span class="subheading">Drivetrain</span></a></li><li class="level1"><a href="/c/q/components/drivetrain/chain-rings">Chain Rings</a></li><li class="level1"><a href="/c/q/components/drivetrain/singlespeed-kits">SingleSpeed Kits</a></li><li class="level1"><a href="/c/q/components/drivetrain/bottom-brackets">Bottom Brackets</a></li><li class="level1"><a href="/c/q/components/drivetrain/cassettes">Cassettes</a></li><li class="level1"><a href="/c/q/components/drivetrain/chains">Chains</a></li><li class="level1"><a href="/c/q/components/drivetrain/crank-sets">Crank Sets</a></li><li class="level1"><a href="/c/q/components/drivetrain/derailleurs">Derailleurs</a></li></ul><ul class="mdd-fixed level1"><li class="level1"><a href="/c/q/components/finishing-kit"><span class="subheading">Finishing Kit</span></a></li><li class="level1"><a href="/c/q/components/finishing-kit/seat-clamps">Seat Clamps</a></li><li class="level1"><a href="/c/q/components/finishing-kit/bar-tape-and-grips">Bar Tape and Grips</a></li><li class="level1"><a href="/c/q/components/finishing-kit/gear-cables">Gear Cables</a></li><li class="level1"><a href="/c/q/components/finishing-kit/saddles">Saddles</a></li><li class="level1"><a href="/c/q/components/finishing-kit/handle-bars">Handle Bars</a></li><li class="level1"><a href="/c/q/components/finishing-kit/head-sets">Head Sets</a></li><li class="level1"><a href="/c/q/components/finishing-kit/seat-posts">Seat Posts</a></li><li class="level1"><a href="/c/q/components/finishing-kit/pedals">Pedals</a></li><li class="level1"><a href="/c/q/components/finishing-kit/stems">Stems</a></li></ul><ul class="mdd-fixed level1"><li class="level1"><a href="/c/q/components/brakes"><span class="subheading">Brakes</span></a></li><li class="level1"><a href="/c/q/components/brakes/brake-calipers">Brake Calipers</a></li><li class="level1"><a href="/c/q/components/brakes/disc-brakes">Disc Brakes</a></li><li class="level1"><a href="/c/q/components/brakes/cantilever-brakes">Cantilever Brakes</a></li><li class="level1"><a href="/c/q/components/brakes/brake-spares">Brake Spares</a></li></ul><ul class="mdd-fixed level1"><li class="level1"><a href="/c/q/components/controls"><span class="subheading">Controls</span></a></li><li class="level1"><a href="/c/q/components/controls/brake-levers">Brake Levers</a></li><li class="level1"><a href="/c/q/components/controls/gear-shifters">Gear Shifters</a></li></ul></div><div class="mdd-all-link hide"><ul><li><a href="/c/q/components">See All Components</a></li></ul></div></div></li><li class="level0"><a class="drop level-top" href="/c/q/accessories">Accessories</a><div class="mdd-wrapper level0 accessories"><div class="mdd-category level1 nav-fullwidth"><ul class="heading"><li><h3>Categories</h3></li></ul><ul class="mdd-fixed level1"><li class="level1"><a href="/c/q/accessories/bike-accessories"><span class="subheading">Accessories</span></a></li><li class="level1"><a href="/c/q/accessories/bike-accessories/mudguards">Mudguards</a></li><li class="level1"><a href="/c/q/accessories/bike-accessories/hydration-packs">Hydration Packs</a></li><li class="level1"><a href="/c/q/accessories/bike-accessories/bike-locks">Bike Locks</a></li><li class="level1"><a href="/c/q/accessories/bike-accessories/computers-and-training-aids">Computers and Training Aids</a></li><li class="level1"><a href="/c/q/accessories/climbing-equipment">Climbing Equipment</a></li><li class="level1"><a href="/c/q/accessories/bike-accessories/miscellaneous">Miscellaneous</a></li><li class="level1"><a href="/c/q/accessories/bike-accessories/racks">Racks</a></li><li class="level1"><a href="/c/q/accessories/bike-accessories/bottles-and-bottle-cages">Bottles and Bottle Cages</a></li><li class="level1"><a href="/c/q/accessories/bike-accessories/pumps">Pumps</a></li><li class="level1"><a href="/c/q/accessories/bike-accessories/trainers-and-rollers">Trainers and Rollers</a></li></ul><ul class="mdd-fixed level1"><li class="level1"><a href="/c/q/accessories/bags-and-luggage"><span class="subheading">Bags and Luggage</span></a></li><li class="level1"><a href="/c/q/accessories/bags-and-luggage/saddle-bags">Saddle Bags</a></li><li class="level1"><a href="/c/q/accessories/bags-and-luggage/backpacks">Backpacks</a></li><li class="level1"><a href="/c/q/accessories/bags-and-luggage/bag-covers-and-liners">Bag Covers &amp; Liners</a></li><li class="level1"><a href="/c/q/accessories/bags-and-luggage/stuffsacks">Stuffsacs</a></li><li class="level1"><a href="/c/q/accessories/bags-and-luggage/buckles-and-straps">Buckles &amp; Straps</a></li><li class="level1"><a href="/c/q/accessories/bags-and-luggage/panniers-and-touring">Panniers and Touring</a></li><li class="level1"><a href="/c/q/accessories/bags-and-luggage/musette">Musette</a></li><li class="level1"><a href="/c/q/accessories/bags-and-luggage/bike-bags-and-boxes">Bike Bags and Boxes</a></li><li class="level1"><a href="/c/q/accessories/bags-and-luggage/wheel-bags">Wheel Bags</a></li></ul><ul class="mdd-fixed level1"><li class="level1"><a href="/c/q/accessories/health-and-nutrition"><span class="subheading">Health &amp; Nutrition</span></a></li><li class="level1"><a href="/c/q/accessories/health-and-nutrition/hydration">Hydration</a></li><li class="level1"><a href="/c/q/accessories/health-and-nutrition/chamois-cream">Chamois Cream</a></li><li class="level1"><a href="/c/q/accessories/health-and-nutrition/recovery">Recovery</a></li><li class="level1"><a href="/c/q/accessories/health-and-nutrition/endurance">Endurance</a></li><li class="level1"><a href="/c/q/accessories/health-and-nutrition/body-health">Body Health</a></li></ul><ul class="mdd-fixed level1"><li class="level1"><a href="/c/q/accessories/lights"><span class="subheading">Lights</span></a></li><li class="level1"><a href="/c/q/accessories/lights/lighting-accessories">Lighting Accessories</a></li><li class="level1"><a href="/c/q/accessories/lights/off-road">Off Road</a></li><li class="level1"><a href="/c/q/accessories/lights/rear">Rear</a></li><li class="level1"><a href="/c/q/accessories/lights/front">Front</a></li><li class="level1"><a href="/c/q/accessories/lights/light-sets">Light Sets</a></li></ul><ul class="mdd-fixed level1"><li class="level1"><a href="/c/q/accessories/workshop"><span class="subheading">Workshop</span></a></li><li class="level1"><a href="/c/q/accessories/workshop/lubricants">Lubricants</a></li><li class="level1"><a href="/c/q/accessories/workshop/cleaning">Cleaning</a></li><li class="level1"><a href="/c/q/accessories/workshop/tools">Tools</a></li><li class="level1"><a href="/c/q/accessories/workshop/workshop-spare">Workshop Spare</a></li><li class="level1"><a href="/c/q/accessories/workshop/workstands">Workstands</a></li></ul></div><div class="mdd-all-link hide"><ul><li><a href="/c/q/accessories">See All Accessories</a></li></ul></div></div></li><li class="level0"><a class="drop level-top" href="/c/q/clothing">Clothing</a><div class="mdd-wrapper level0 clothing"><div class="mdd-category level1 nav-fullwidth"><ul class="heading"><li><h3>Categories</h3></li></ul><ul class="mdd-half level1"><li class="level1"><a href="/c/q/clothing/clothes"><span class="subheading">Clothing</span></a></li><li class="level1"><a href="/c/q/clothing/clothes/planet-x-carnac-team-kit">Planet X - Carnac Team Kit</a></li><li class="level1"><a href="/c/q/deals/clearance/clearance-clothing">Clearance Clothing</a></li><li class="level1"><a href="/c/q/clothing/clothes/vests">Vests</a></li><li class="level1"><a href="/c/q/clothing/clothes/gilets">Gilets</a></li><li class="level1"><a href="/c/q/clothing/clothes/merino">Merino</a></li><li class="level1"><a href="/c/q/clothing/clothes/polos">Polos</a></li><li class="level1"><a href="/c/q/clothing/clothes/baselayers">Baselayers</a></li><li class="level1"><a href="/c/q/clothing/clothes/headwear">Headwear</a></li><li class="level1"><a href="/c/q/clothing/clothes/arm-and-neck-warmers">Arm and Neck Warmers</a></li><li class="level1"><a href="/c/q/clothing/clothes/leggings-tights-and-shorts">Leggings, Tights &amp; Shorts</a></li><li class="level1"><a href="/c/q/clothing/clothes/jackets">Jackets</a></li><li class="level1"><a href="/c/q/clothing/clothes/jerseys">Jerseys</a></li><li class="level1"><a href="/c/q/clothing/clothes/gloves">Gloves</a></li><li class="level1"><a href="/c/q/clothing/clothes/t-shirts">T-Shirts</a></li><li class="level1"><a href="/c/q/clothing/clothes/tops">Tops</a></li><li class="level1"><a href="/c/q/clothing/clothes/body-armour-and-protection">Body Armour</a></li><li class="level1"><a href="/c/q/clothing/clothes/wetsuits">Wetsuits</a></li></ul><ul class="mdd-half level1"><li class="level1"><a href="/c/q/clothing/footwear"><span class="subheading">Footwear</span></a></li><li class="level1"><a href="/c/q/clothing/footwear/road-shoes/planet-x-shoes">Planet X Shoes</a></li><li class="level1"><a href="/c/q/clothing/footwear/socks">Socks</a></li><li class="level1"><a href="/c/q/clothing/footwear/overshoes">Overshoes</a></li><li class="level1"><a href="/c/q/clothing/footwear/road-shoes">Road Shoes</a></li><li class="level1"><a href="/c/q/clothing/footwear/mountain-bike-footwear">Mountain Bike Footwear</a></li></ul><ul class="mdd-half level1"><li class="level1"><a href="/c/q/clothing/helmets"><span class="subheading">Helmets</span></a></li><li class="level1"><a href="/c/q/clothing/helmets/planet-x-helmets">Planet X Helmets</a></li><li class="level1"><a href="/c/q/clothing/helmets">Helmets</a></li></ul><ul class="mdd-half level1"><li class="level1"><a href="/c/q/clothing/eyewear"><span class="subheading">Eyewear</span></a></li><li class="level1"><a href="/c/q/clothing/eyewear/sunglasses">Sunglasses</a></li><li class="level1"><a href="/c/q/clothing/eyewear/cycling-glasses">Cycling Glasses</a></li><li class="level1"><a href="/c/q/clothing/eyewear/swimming-goggles">Swimming Goggles</a></li></ul></div><div class="mdd-all-link"><ul><li><a href="/c/q/clothing">See All Clothing</a></li></ul></div></div></li><li class="level0"><a class="drop level-top" href="/c/q/vintage">Vintage</a><div class="mdd-wrapper level0 vintage"><div class="mdd-category level1 nav-fullwidth"><ul class="heading"><li><h3>Categories</h3></li></ul><ul class="mdd-half level1"><li class="level1"><a href="/c/q/vintage"><span class="subheading">Vintage and Classic Store</span></a></li><li class="level1"><a style="background-color: transparent;" href="/c/q/vintage/vintage-frames">Vintage Frames</a></li><!--<li class="level1"><a href="/c/q/vintage/vintage-clearance"><span>Vintage Clearance</span></a></li><li class="level1"><a href="/c/q/vintage/vintage-wheels"><span>Vintage Wheels</span></a></li>--><li class="level1"><a href="/c/q/vintage/vintage-finishing-kit">Vintage Finishing Kit</a></li></ul><ul class="mdd-half level1"><li class="level1"><a href="/brand/q"><span class="subheading">Vintage and Classic Brands</span></a></li><li class="level1"><a href="/brand/q/Viner">Viner</a></li><li class="level1"><a href="/brand/q/3TTT">3TTT</a></li><li class="level1"><a href="/brand/q/Cinelli">Cinelli</a></li><li class="level1"><a href="/brand/q/Clarks">Clarks</a></li><li class="level1"><a href="/brand/q/FSA">FSA</a></li></ul></div><div class="mdd-all-link"><ul><li><a href="/c/q/vintage">See All Vintage</a></li></ul></div></div></li><li class="level0"><a class="drop level-top" href="/brand/q">Brands</a><div class="mdd-wrapper level0 brands"><div class="mdd-category level1 nav-fullwidth"><ul class="heading"><li><h3>Our Top Brands</h3></li></ul><ul class="level1"><li class="level1"><a href="/brand/q/Planet+X">Planet X</a></li><li class="level1"><a href="/brand/q/On-One">On-One</a></li><li class="level1"><a href="/brand/q/Viner">Viner</a></li><li class="level1"><a href="/brand/q/Titus">Titus</a></li><li class="level1"><a href="/brand/q/Holdsworth">Holdsworth</a></li><li class="level1"><a href="/brand/q/Shimano">Shimano</a></li><li class="level1"><a href="/brand/q/SRAM">SRAM</a></li><li class="level1"><a href="/brand/q/Vittoria">Vittoria</a></li></ul></div><div class="mdd-all-link"><ul><li><a href="/brand/q">See All Brands</a></li></ul></div></div></li><li class="level0"><a class="drop level-top" href="#">Connect</a><div class="mdd-wrapper level0 social"><div class="mdd-category level1 nav-fullwidth"><ul class="heading"><li><h3>Lets all Share!</h3></li></ul><ul class="level1"><li class="level1"><a href="/news">News</a></li><li class="level1"><a href="/upcoming-events/">Upcoming Events</a></li><li class="level1"><a href="/sponsored-riders">Sponsored Riders</a></li><li class="level1"><a href="/readers-rides">Readers Rides</a></li></ul></div></div></li><li class="level0 deals"><a class="drop level-top deals" href="/c/q/deals">Deals</a><div class="mdd-wrapper level0 deals"><div class="mdd-category level1 nav-fullwidth"><ul class="heading"><li><h3>Categories</h3></li></ul><ul class="level1"><li class="level1"><a href="/deals">Daily Deal</a></li><li class="level1"><a href="/c/q/deals/clearance">Clearance Deals</a></li><li class="level1"><a href="/c/q/deals/clearance/clearance-bikes">Clearance Bikes</a></li><li class="level1"><a href="/c/q/deals/bundles">Bundles</a></li><li class="level1"><a href="/c/q/deals/winter">Winter Kit Blowout</a></li></ul></div></div></li></ul>	</div><!-- end of .wrap -->
 </nav><!-- end of nav -->
 
 <div class="usp"><ul><li><a href="/no-nonsense-prices">No-Nonsense Prices</a></li><li><a href="/bike-finance">Finance Options Available</a></li><li><a href="/help/delivery-information">Worldwide Shipping</a></li><li><a href="/help/returns-and-refunds">Quick &amp; Easy Returns</a></li><li><a href="/cycle-scheme">Cycle 2 Work Schemes</a></li></ul></div>
+
+
+			
 
 <!-- End of header and start of main content -->
 <div class="wrap wide-temp">
@@ -355,169 +383,7 @@ var ph = JSON.decode(pc);
 		
 		<h1 class="page-title">Privacy Policy</h1>	
 		<div class="wysiwyg">	
-		<p>This privacy policy sets out how planetx.co.uk uses and protects any information that you give when you use this website. Planet X is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Planet X may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.</p>
-<h2>What we collect</h2>
-<p>We may collect the following information:</p>
-<ul>
-<li>name</li>
-<li>contact information including email address</li>
-<li>demographic information such as postcode, preferences and interests</li>
-<li>other information relevant to customer surveys and/or offers</li>
-</ul>
-<p>For the exhaustive list of cookies we collect see the <a href="#list">List of cookies we collect</a> section.</p>
-<h2>What we do with the information we gather</h2>
-<p>We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:</p>
-<ul>
-<li>Internal record keeping.</li>
-<li>We may use the information to improve our products and services.</li>
-<li>We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.</li>
-<li>From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.</li>
-</ul>
-<h2>&nbsp;</h2>
-<h2>Security</h2>
-<p>We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.</p>
-<h2>How we use cookies</h2>
-<p>A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.</p>
-<p>We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.</p>
-<p>Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.</p>
-<h2>Links to other websites</h2>
-<p>Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.</p>
-<h2>Controlling your personal information</h2>
-<p>You may choose to restrict the collection or use of your personal information in the following ways:</p>
-<ul>
-<li>whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes</li>
-<li>if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at {{config path="trans_email/ident_general/email"}}</li>
-</ul>
-<p>We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.</p>
-<p>You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to {{config path="general/store_information/address"}}.</p>
-<p>If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.</p>
-<p><a name="list"></a></p>
-<h2>List of cookies we collect</h2>
-<p>The table below lists the cookies we collect and what information they store.</p>
-<table class="data-table">
-<thead>
-<tr><th>COOKIE name</th><th>COOKIE Description</th></tr>
-</thead>
-<tbody>
-<tr><th>CART</th>
-<td>The association with your shopping cart.</td>
-</tr>
-<tr><th>CATEGORY_INFO</th>
-<td>Stores the category info on the page, that allows to display pages more quickly.</td>
-</tr>
-<tr><th>COMPARE</th>
-<td>The items that you have in the Compare Products list.</td>
-</tr>
-<tr><th>CURRENCY</th>
-<td>Your preferred currency</td>
-</tr>
-<tr><th>CUSTOMER</th>
-<td>An encrypted version of your customer id with the store.</td>
-</tr>
-<tr><th>CUSTOMER_AUTH</th>
-<td>An indicator if you are currently logged into the store.</td>
-</tr>
-<tr><th>CUSTOMER_INFO</th>
-<td>An encrypted version of the customer group you belong to.</td>
-</tr>
-<tr><th>CUSTOMER_SEGMENT_IDS</th>
-<td>Stores the Customer Segment ID</td>
-</tr>
-<tr><th>EXTERNAL_NO_CACHE</th>
-<td>A flag, which indicates whether caching is disabled or not.</td>
-</tr>
-<tr><th>FRONTEND</th>
-<td>You sesssion ID on the server.</td>
-</tr>
-<tr><th>GUEST-VIEW</th>
-<td>Allows guests to edit their orders.</td>
-</tr>
-<tr><th>LAST_CATEGORY</th>
-<td>The last category you visited.</td>
-</tr>
-<tr><th>LAST_PRODUCT</th>
-<td>The most recent product you have viewed.</td>
-</tr>
-<tr><th>NEWMESSAGE</th>
-<td>Indicates whether a new message has been received.</td>
-</tr>
-<tr><th>NO_CACHE</th>
-<td>Indicates whether it is allowed to use cache.</td>
-</tr>
-<tr><th>PERSISTENT_SHOPPING_CART</th>
-<td>A link to information about your cart and viewing history if you have asked the site.</td>
-</tr>
-<tr><th>POLL</th>
-<td>The ID of any polls you have recently voted in.</td>
-</tr>
-<tr><th>POLLN</th>
-<td>Information on what polls you have voted on.</td>
-</tr>
-<tr><th>RECENTLYCOMPARED</th>
-<td>The items that you have recently compared.</td>
-</tr>
-<tr><th>STF</th>
-<td>Information on products you have emailed to friends.</td>
-</tr>
-<tr><th>STORE</th>
-<td>The store view or language you have selected.</td>
-</tr>
-<tr><th>USER_ALLOWED_SAVE_COOKIE</th>
-<td>Indicates whether a customer allowed to use cookies.</td>
-</tr>
-<tr><th>VIEWED_PRODUCT_IDS</th>
-<td>The products that you have recently viewed.</td>
-</tr>
-<tr><th>WISHLIST</th>
-<td>An encrypted list of products added to your Wishlist.</td>
-</tr>
-<tr><th>WISHLIST_CNT</th>
-<td>The number of items in your Wishlist.</td>
-</tr>
-</tbody>
-</table>
-<h2>Third Party Cookies</h2>
-<h3>Google Analytics Cookie Usage</h3>
-<p>Uses <em>first-party</em> cookies to:</p>
-<ul>
-<li>Determine which domain to measure</li>
-<li>Distinguish unique users</li>
-<li>Remember the number and time of previous visits</li>
-<li>Remember traffic source information</li>
-<li>Determine the start and end of a session</li>
-<li>Remember the value of visitor-level custom variables</li>
-</ul>
-<p>This third party systesm sets the following cookies:</p>
-<table>
-<tbody>
-<tr><th>Cookie Name</th><th width="180px">Default Expiration Time</th><th>Description</th></tr>
-<tr>
-<td><code>__utma</code></td>
-<td>2 years from set/update</td>
-<td>Used to distinguish users and sessions. The cookie is created when the javascript library executes and no existing __utma cookies exists. The cookie is updated every time data is sent to Google Analytics.</td>
-</tr>
-<tr>
-<td><code>__utmb</code></td>
-<td>30 mins from set/update</td>
-<td>Used to determine new sessions/visits. The cookie is created when the javascript library executes and no existing __utmb cookies exists. The cookie is updated every time data is sent to Google Analytics.</td>
-</tr>
-<tr>
-<td><code>__utmc</code></td>
-<td>End of browser session</td>
-<td>Not used in ga.js. Set for interoperability with urchin.js. Historically, this cookie operated in conjunction with the <code>__utmb</code> cookie to determine whether the user was in a new session/visit.</td>
-</tr>
-<tr>
-<td><code>__utmz</code></td>
-<td>6 months from set/update</td>
-<td>Stores the traffic source or campaign that explains how the user reached your site. The cookie is created when the javascript library executes and is updated every time data is sent to Google Analytics.</td>
-</tr>
-<tr>
-<td><code>__utmv</code></td>
-<td>2 years from set/update</td>
-<td>Used to store visitor-level custom variable data. This cookie is created when a developer uses the <a href="https://developers.google.com/analytics/devguides/collection/gajs/methods/gaJSApiBasicConfiguration#_gat.GA_Tracker_._setCustomVar"> <code>_setCustomVar</code></a> method with a visitor level custom variable. This cookie was also used for the deprecated <code>_setVar</code> method. The cookie is updated every time data is sent to Google Analytics.</td>
-</tr>
-</tbody>
-</table>
+		<p>This privacy policy sets out how planetx.co.uk uses and protects any information that you give when you use this website. Planet X is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Planet X may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.</p><h2>What we collect</h2><p>We may collect the following information:</p><ul><li>name</li><li>contact information including email address</li><li>demographic information such as postcode, preferences and interests</li><li>other information relevant to customer surveys and/or offers</li></ul><p>For the exhaustive list of cookies we collect see the&nbsp;<a href="/#list">List of cookies we collect</a>&nbsp;section.</p><h2><span>What we do with the information we gather</span></h2><p>We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:</p><ul><li>Internal record keeping.</li><li>We may use the information to improve our products and services.</li><li>We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.</li><li>From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.</li><li></li><li><h2>Security</h2></li></ul><p>We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.</p><h2>How we use cookies</h2><p>A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.</p><p>We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.</p><p>Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.</p><h2>Links to other websites</h2><p>Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over the other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.</p><h2>Controlling your personal information</h2><p>You may choose to restrict the collection or use of your personal information in the following ways:</p><ul><li>whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purpose. If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or&nbsp;<strong><a href="http://www.planetx.co.uk/contactus">emailing us here.</a></strong></li><li>We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.</li></ul><p>You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please&nbsp;<strong><a href="https://ico.org.uk/for-the-public/personal-information/">visit this link.</a></strong></p><p>If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible. We will promptly correct any information found to be incorrect.</p><h2>List of cookies we collect</h2><p>The table below lists the cookies we collect and what information they store.</p><table><thead><tr><td><p>COOKIE name</p></td><td><p>COOKIE Description</p></td></tr></thead><tbody><tr><td><p>CART</p></td><td><p>The association with your shopping cart.</p></td></tr><tr><td><p>CATEGORY_INFO</p></td><td><p>Stores the category info on the page, that allows to display pages more quickly.</p></td></tr><tr><td><p>COMPARE</p></td><td><p>The items that you have in the Compare Products list.</p></td></tr><tr><td><p>CURRENCY</p></td><td><p>Your preferred currency</p></td></tr><tr><td><p>CUSTOMER</p></td><td><p>An encrypted version of your customer id with the store.</p></td></tr><tr><td><p>CUSTOMER_AUTH</p></td><td><p>An indicator if you are currently logged into the store.</p></td></tr><tr><td><p>CUSTOMER_INFO</p></td><td><p>An encrypted version of the customer group you belong to.</p></td></tr><tr><td><p>CUSTOMER_SEGMENT_IDS</p></td><td><p>Stores the Customer Segment ID</p></td></tr><tr><td><p>EXTERNAL_NO_CACHE</p></td><td><p>A flag, which indicates whether caching is disabled or not.</p></td></tr><tr><td><p>FRONTEND</p></td><td><p>You sesssion ID on the server.</p></td></tr><tr><td><p>GUEST-VIEW</p></td><td><p>Allows guests to edit their orders.</p></td></tr><tr><td><p>LAST_CATEGORY</p></td><td><p>The last category you visited.</p></td></tr><tr><td><p>LAST_PRODUCT</p></td><td><p>The most recent product you have viewed.</p></td></tr><tr><td><p>NEWMESSAGE</p></td><td><p>Indicates whether a new message has been received.</p></td></tr><tr><td><p>NO_CACHE</p></td><td><p>Indicates whether it is allowed to use cache.</p></td></tr><tr><td><p>PERSISTENT_SHOPPING_CART</p></td><td><p>A link to information about your cart and viewing history if you have asked the site.</p></td></tr><tr><td><p>POLL</p></td><td><p>The ID of any polls you have recently voted in.</p></td></tr><tr><td><p>POLLN</p></td><td><p>Information on what polls you have voted on.</p></td></tr><tr><td><p>RECENTLYCOMPARED</p></td><td><p>The items that you have recently compared.</p></td></tr><tr><td><p>STF</p></td><td><p>Information on products you have emailed to friends.</p></td></tr><tr><td><p>STORE</p></td><td><p>The store view or language you have selected.</p></td></tr><tr><td><p>USER_ALLOWED_SAVE_COOKIE</p></td><td><p>Indicates whether a customer allowed to use cookies.</p></td></tr><tr><td><p>VIEWED_PRODUCT_IDS</p></td><td><p>The products that you have recently viewed.</p></td></tr><tr><td><p>WISHLIST</p></td><td><p>An encrypted list of products added to your Wishlist.</p></td></tr><tr><td><p>WISHLIST_CNT</p></td><td><p>The number of items in your Wishlist.</p></td></tr></tbody></table><h2>Third Party Cookies</h2><h3>Google Analytics Cookie Usage</h3><p>Uses<span>&nbsp;</span><em>first-party</em><span>&nbsp;</span>cookies to:</p><ul><li>Determine which domain to measure</li><li>Distinguish unique users</li><li>Remember the number and time of previous visits</li><li>Remember traffic source information</li><li>Determine the start and end of a session</li><li>Remember the value of visitor-level custom variables</li></ul><p>This third party systesm sets the following cookies:</p><table><tbody><tr><td><p>Cookie Name</p></td><td><p>Default Expiration Time</p></td><td><p>Description</p></td></tr><tr><td><p>__utma</p></td><td><p>2 years from set/update</p></td><td><p>Used to distinguish users and sessions. The cookie is created when the javascript library executes and no existing __utma cookies exists. The cookie is updated every time data is sent to Google Analytics.</p></td></tr><tr><td><p>__utmb</p></td><td><p>30 mins from set/update</p></td><td><p>Used to determine new sessions/visits. The cookie is created when the javascript library executes and no existing __utmb cookies exists. The cookie is updated every time data is sent to Google Analytics.</p></td></tr><tr><td><p>__utmc</p></td><td><p>End of browser session</p></td><td><p>Not used in ga.js. Set for interoperability with urchin.js. Historically, this cookie operated in conjunction with the<span>&nbsp;</span>__utmb<span>&nbsp;</span>cookie to determine whether the user was in a new session/visit.</p></td></tr><tr><td><p>__utmz</p></td><td><p>6 months from set/update</p></td><td><p>Stores the traffic source or campaign that explains how the user reached your site. The cookie is created when the javascript library executes and is updated every time data is sent to Google Analytics.</p></td></tr><tr><td><p>__utmv</p></td><td><p>2 years from set/update</p></td><td><p>Used to store visitor-level custom variable data. This cookie is created when a developer uses the<span>&nbsp;</span><a href="https://developers.google.com/analytics/devguides/collection/gajs/methods/gaJSApiBasicConfiguration#_gat.GA_Tracker_._setCustomVar">_setCustomVar</a><span>&nbsp;</span>method with a visitor level custom variable. This cookie was also used for the deprecated<span>&nbsp;</span>_setVar<span>&nbsp;</span>method. The cookie is updated every time data is sent to Google Analytics.</p></td></tr></tbody></table><p>&nbsp;</p>
 <p></p>
 		</div> <!-- end wysiwyg -->
 				
@@ -578,7 +444,7 @@ var ph = JSON.decode(pc);
 
 	<div class="wrap" id="main-footer">
 
-		<div id="main-footer" class="wrap"><div class="footer-col"><h4>Info</h4><ul><li><a href="/about-planet-x">About Us</a></li><li><a href="/contactus">Contact Us</a></li><li><a href="/about-planet-x/careers">Careers</a></li><li><a href="/terms-and-conditions">Terms &amp; Conditions</a></li><li><a href="/privacy-policy">Privacy Policy</a></li><li><a href="/sitemap">Site Map</a></li></ul></div><div class="footer-col"><h4>Shopping</h4><ul><li><a href="/stores">Our Stores</a></li><li><a href="/help/how-to-order">Ordering Online</a></li><li><a href="/no-nonsense-prices">No-Nonsense Prices</a></li><li><a href="/help/delivery-information">Delivery &amp; Order Tracking</a></li><li><a href="/help/warranty">Warranty</a></li><li><a href="/help/returns-and-refunds">Returns</a></li></ul></div><div class="footer-col"><h4>Services</h4><ul><li><a href="/help">Help</a></li><li><a href="/bike-servicing">Service Centres</a></li><li><a href="/pro-bike-fit">Pro Bike Fitting</a></li><li><a href="/cycle-scheme">Cycle 2 Work</a></li><li><a href="/bike-finance">Finance Options Available</a></li></ul></div><div class="footer-col"><h4>Social</h4><ul><li><a href="/news">News</a></li><li><a style="background-color: transparent;" href="/readers-rides">Readers Rides</a></li><li><a href="/sponsored-riders">Sponsored Riders</a></li><li><a href="/magazine">Magazine</a></li><li><a title="Upcoming events from Planet X" href="/upcoming-events">Upcoming Events</a></li></ul></div><div class="footer-col social-footer"><h3>Follow Us</h3><ul><li class="social-facebook"><a title="Follow us on Facebook" href="https://www.facebook.com/planetxbikes" rel="nofollow" target="_blank">Follow us on Facebook</a></li><li class="social-twitter"><a title="Follow us on Twitter" href="https://twitter.com/planetxbikes" rel="nofollow" target="_blank">Follow us on Twitter</a></li><li class="social-youtube"><a title="Follow us on YouTube" href="http://www.youtube.com/user/PlanetXBikesTV" rel="nofollow" target="_blank">Follow us on YouTube</a></li><li class="social-instagram"><a title="Follow us on Instagram" href="http://instagram.com/planetxbikes" rel="nofollow" target="_blank">Follow us on Instagram</a></li><li class="social-strava"><a title="Follow us on Strava" href="http://www.strava.com/clubs/planet-x-bikes-strava-club-7083" rel="nofollow" target="_blank">Follow us on Strava</a></li><li class="social-googleplus"><a title="Follow us on Google Plus" href="https://plus.google.com/+planetxbikes/posts" rel="nofollow" target="_blank">Follow us on Google Plus</a></li></ul></div></div>		<div id="cookie-icon">
+		<div id="main-footer" class="wrap"><div class="footer-col"><h4>Info</h4><ul><li><a href="/about-planet-x">About Us</a></li><li><a href="/contactus">Contact Us</a></li><li><a href="/about-planet-x/careers">Careers</a></li><li><a href="/terms-and-conditions">Terms &amp; Conditions</a></li><li><a href="/privacy-policy">Privacy Policy</a></li><li><a href="/sitemap">Site Map</a></li></ul></div><div class="footer-col"><h4>Shopping</h4><ul><li><a href="/stores">Our Stores</a></li><li><a href="/help/how-to-order">Ordering Online</a></li><li><a href="/no-nonsense-prices">No-Nonsense Prices</a></li><li><a href="/help/delivery-information">Delivery &amp; Order Tracking</a></li><li><a href="/help/warranty">Warranty</a></li><li><a href="/help/returns-and-refunds">Returns</a></li></ul></div><div class="footer-col"><h4>Services</h4><ul><li><a href="/help">Help</a></li><li><a href="/bike-servicing">Service Centres</a></li><li><a href="/pro-bike-fit">Pro Bike Fitting</a></li><li><a href="/cycle-scheme">Cycle 2 Work</a></li><li><a href="/bike-finance">Finance Options Available</a></li><li><a href="/help/planet-xpert-your-personal-cycle-advisor">Ask the Planet Xpert</a></li></ul></div><div class="footer-col"><h4>Social</h4><ul><li><a href="/news">News</a></li><li><a style="background-color: transparent;" href="/readers-rides">Readers Rides</a></li><li><a href="/sponsored-riders">Sponsored Riders</a></li><li><a href="/magazine">Magazine</a></li><li><a title="Upcoming Events" href="/upcoming-events/">Upcoming Events</a></li><li></li></ul></div><div class="footer-col social-footer"><h3>Follow Us</h3><ul><li class="social-facebook"><a title="Follow us on Facebook" href="https://www.facebook.com/planetxbikes" target="_blank" rel="nofollow">Follow us on Facebook</a></li><li class="social-twitter"><a title="Follow us on Twitter" href="https://twitter.com/planetxbikes" target="_blank" rel="nofollow">Follow us on Twitter</a></li><li class="social-youtube"><a title="Follow us on YouTube" href="http://www.youtube.com/user/PlanetXBikesTV" target="_blank" rel="nofollow">Follow us on YouTube</a></li><li class="social-instagram"><a title="Follow us on Instagram" href="http://instagram.com/planetxbikes" target="_blank" rel="nofollow">Follow us on Instagram</a></li><li class="social-strava"><a title="Follow us on Strava" href="http://www.strava.com/clubs/planet-x-bikes-strava-club-7083" target="_blank" rel="nofollow">Follow us on Strava</a></li><li class="social-googleplus"><a title="Follow us on Google Plus" href="https://plus.google.com/+planetxbikes/posts" target="_blank" rel="nofollow">Follow us on Google Plus</a></li></ul></div></div>		<div id="cookie-icon">
 				<a href="/privacy-policy">Cookie Control</a>
 		</div>
 			
@@ -657,16 +523,17 @@ var ph = JSON.decode(pc);
 <script type="text/javascript">
 //<![CDATA[
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-9891284-4']);
-  _gaq.push(['_trackPageview']);
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-9891284-4', 'auto');
+ga('send', 'pageview');
+ga('require', 'ecommerce');
   
-  
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+
+
 window.addEvent('domready', function() {
 	if( $('sm-nav') ){
 		var sNav = new sidebarNav();
@@ -687,20 +554,16 @@ window.addEvent('domready', function() {
 	}
 	
 	
+	if( $('site-search-input') ){
+	ac = new CwAutocompleter( 'site-search-input', '/gateway/ajaxGateway.php?_module=search&mode=surch', {targetfieldForValue: 'autoinput',ajaxParam: 'q', inputMinLength: 2, injectInto: 'autoComp'});
+	}
+	
 });
 //]]>
 </script>
 
-<script type="text/javascript">
-//<![CDATA[
-  (function() {
-    var nx = document.createElement('script'); nx.type = 'text/javascript'; nx.async = true;
-    nx.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'nxtcfm.s3.amazonaws.com/cbfbb3438ae8c8984a55064008ba2c24-ac.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(nx, s);
-    var fm = document.getElementById('site-search-input'); fm.name = 'keywords'; var sc = document.getElementById('site-search'); sc.action = '/search-results';    
-  })();
-//]]>
-</script>
+
+
 
 
 <!--
