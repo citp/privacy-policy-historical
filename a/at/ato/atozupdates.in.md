@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the atozupdates.in privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207044411id_/http%3A//atozupdates.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atozupdates.in privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610133642id_/http%3A//atozupdates.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - AtozUpdates
+# Privacy Policy - AtozUpdates - AtozUpdates
 
 This Privacy Policy governs the manner in which atozupdates collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://atozupdates.in](http://atozupdates.in/) website (“Site”). This privacy policy applies to the Site and all products and services offered by atozupdates.
 
@@ -20,13 +20,13 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 atozupdates may collect and use Users personal information for the following purposes:
 
-  * _\- To improve customer service_  
+  * _– To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To personalize user experience_  
+  * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.
 
 
