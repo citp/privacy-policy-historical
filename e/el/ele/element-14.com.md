@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the element-14.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120122355id_/http%3A//www.element14.com/community/static/legal/e14fullterms%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the element-14.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610053623id_/http%3A//www.element14.com/community/static/legal/e14fullterms%23privacy) for the most accurate reproduction.*
 
 # element14: Terms of Use | element14
 
