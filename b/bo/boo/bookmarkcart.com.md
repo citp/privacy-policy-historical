@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarkcart.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221132054id_/http%3A//www.bookmarkcart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkcart.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610084653id_/http%3A//www.bookmarkcart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy › BookmarkCart.com : Social bookmark service to encourage users to organize their bookmarks | Bring visitors to your website using free SEO social bookmarking technique | Easy way to increase website traffic
 
