@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbna.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228050650id_/http%3A//www.mbna.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbna.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610030909id_/http%3A//www.mbna.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy and cookie policy | MBNA
 
