@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getmyperks.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218221524id_/http%3A//www.getmyperks.com/GroupBuyPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmyperks.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610045427id_/http%3A//www.getmyperks.com/GroupBuyPrivacyPolicy) for the most accurate reproduction.*
 
 # Get My PERKS: Daily Deals With Great Discount Rates
 
