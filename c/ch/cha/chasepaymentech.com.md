@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chasepaymentech.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226154747id_/http%3A//chasepaymentech.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chasepaymentech.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610113217id_/https%3A//www.chasepaymentech.com/privacypolicy) for the most accurate reproduction.*
 
 # None
 
@@ -85,4 +85,4 @@ Legal Department
 14221 Dallas Parkway  
 Dallas, Texas 75254
 
-(Last modified February 18, 2014)
+(Last modified January, 2015)
