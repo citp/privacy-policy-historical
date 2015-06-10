@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expats.cz privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121032133id_/http%3A//www.expats.cz/prague/article/expats-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expats.cz privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611010315id_/http%3A//www.expats.cz/prague/article/expats-info/privacy-policy) for the most accurate reproduction.*
 
 # User/ Advertising User: PRIVACY POLICY, Prague - Czech Republic
 
